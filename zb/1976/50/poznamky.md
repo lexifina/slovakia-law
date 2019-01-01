@@ -6,6 +6,8 @@
 
 - 1c) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
+- 1ca) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
 - 1d) Zákon Národnej rady Slovenskej republiky č. 129/1996 Z. z. o niektorých opatreniach na urýchlenie prípravy výstavby diaľnic a ciest pre motorové vozidlá.
 
 - 1e) Zákon č. 171/1998 Z. z. o prístupe k informáciám o životnom prostredí.
@@ -67,6 +69,14 @@
 - 4) Zákon č. 130/1998 Z. z. o mierovom využívaní jadrovej energie a o zmene a doplnení zákona č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce v znení zákona Národnej rady Slovenskej republiky č. 256/1994 Z. z.
 
 - 4a) Napríklad vyhláška Ministerstva vnútra Slovenskej republiky č. 297/1994 Z. z. o stavebnotechnických požiadavkách na stavby a o technických podmienkach zariadení vzhľadom na požiadavky civilnej ochrany v znení vyhlášky č. 349/1998 Z. z., vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 406/1992 Zb. o požiadavkách na obmedzenie ožiarenia z radónu a ďalších prírodných rádionuklidov, vyhláška Ministerstva vnútra Slovenskej republiky č. 138/1995 Z. z., ktorou sa ustanovujú zásady požiarnej bezpečnosti pri výstavbe a užívaní prevádzkarní a iných priestorov, v ktorých sa vykonáva povrchová úprava výrobkov náterovými hmotami.
+
+- 4aa) § 11a ods. 1 zákona č. 39/2013 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení zákona č. 193/2018 Z. z.
+
+- § 114a ods. 1 zákona č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení zákona č. 312/2018 Z. z.
+
+- 4ab) § 26a zákona č. 39/2013 Z. z. v znení zákona č. 193/2018 Z. z.
+
+- § 19a zákona č. 79/2015 Z. z. v znení zákona č. 312/2018 Z. z.
 
 - 4b) Zákon Národnej rady Slovenskej republiky č. 263/1993 Z. z. o verejnom obstarávaní tovarov, služieb a verejných prác (Zákon o verejnom obstarávaní) v znení zákona Národnej rady Slovenskej republiky č. 81/1994 Z. z.,
 

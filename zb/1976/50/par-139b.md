@@ -28,13 +28,15 @@
 
 - c) stavebné úpravy, pri ktorých sa zachováva vonkajšie pôdorysné aj výškové ohraničenie stavby.
 
-(6) Drobné stavby sú stavby, ktoré majú doplnkovú funkciu pre hlavnú stavbu (napr. pre stavbu na bývanie, pre stavbu občianskeho vybavenia, pre stavbu na výrobu a skladovanie, pre stavbu na individuálnu rekreáciu) a ktoré nemôžu podstatne ovplyvniť životné prostredie, a to
+(6) Stavebné práce za účelom uzavretia skládky odpadov alebo jej časti alebo na vykonanie jej rekultivácie sa považujú za zmenu dokončenej stavby, ak neboli povolené v stavebnom povolení stavby skládky odpadov.
+
+(7) Drobné stavby sú stavby, ktoré majú doplnkovú funkciu pre hlavnú stavbu (napr. pre stavbu na bývanie, pre stavbu občianskeho vybavenia, pre stavbu na výrobu a skladovanie, pre stavbu na individuálnu rekreáciu) a ktoré nemôžu podstatne ovplyvniť životné prostredie, a to
 
 - a) prízemné stavby, ak ich zastavaná plocha nepresahuje 25 m<sup>2</sup> a výška 5 m, napríklad kôlne, práčovne, letné kuchyne, prístrešky, zariadenia na nádoby na odpadky, stavby na chov drobného zvieratstva, sauny, úschovne bicyklov a detských kočíkov, čakárne a stavby športových zariadení,
 
 - b) podzemné stavby, ak ich zastavaná plocha nepresahuje 25 m<sup>2</sup> a hĺbka 3 m, napríklad pivnice, žumpy.
 
-(7) Za drobné stavby sa považujú aj
+(8) Za drobné stavby sa považujú aj
 
 - a) stavby organizácií na lesnej pôde slúžiace na zabezpečovanie lesnej výroby a poľovníctva, ak ich zastavaná plocha nepresahuje 30 m<sup>2</sup> a výška 5 m, napríklad sklady krmiva, náradia alebo hnojiva,
 
@@ -46,21 +48,21 @@
 
 - e) reklamné stavby, na ktorých najväčšia informačná plocha je menšia ako 3 m<sup>2</sup>.
 
-(8) Za drobné stavby sa nepovažujú stavby skladov horľavín a výbušnín, stavby pre civilnú ochranu, stavby pre požiarnu ochranu, stavby uránového priemyslu a jadrových zariadení, vodné stavby, stavby čerpacích staníc kvapalných palív, skvapalnených plynov alebo stlačených plynov pre pohon motorových vozidiel, stavby prečerpávacích staníc horľavých kvapalín, horľavých plynov a stavby plniarní tlakových nádob horľavým plynom alebo horenie podporujúcim plynom.
+(9) Za drobné stavby sa nepovažujú stavby skladov horľavín a výbušnín, stavby pre civilnú ochranu, stavby pre požiarnu ochranu, stavby uránového priemyslu a jadrových zariadení, vodné stavby, stavby čerpacích staníc kvapalných palív, skvapalnených plynov alebo stlačených plynov pre pohon motorových vozidiel, stavby prečerpávacích staníc horľavých kvapalín, horľavých plynov a stavby plniarní tlakových nádob horľavým plynom alebo horenie podporujúcim plynom.
 
-(9) Stavbami pre obranu štátu sú stavby na zabezpečenie obrany štátu, zvrchovanosti a územnej celistvosti štátu, nedotknuteľnosti hraníc, zachovávania mieru, plnenia záväzkov vyplývajúcich z medzinárodných zmlúv o spoločnej obrane proti napadnutiu a z ďalších medzinárodných zmlúv vojenskej povahy, zabezpečenia nedotknuteľnosti vzdušného priestoru a spravodajského zabezpečenia obrany podľa zákona, ktoré slúžia na plnenie úloh ministerstva obrany, ozbrojeným silám Slovenskej republiky, rozpočtovým organizáciám, príspevkovým organizáciám, akciovým spoločnostiam a štátnym podnikom v zakladateľskej alebo zriaďovateľskej pôsobnosti ministerstva obrany.
+(10) Stavbami pre obranu štátu sú stavby na zabezpečenie obrany štátu, zvrchovanosti a územnej celistvosti štátu, nedotknuteľnosti hraníc, zachovávania mieru, plnenia záväzkov vyplývajúcich z medzinárodných zmlúv o spoločnej obrane proti napadnutiu a z ďalších medzinárodných zmlúv vojenskej povahy, zabezpečenia nedotknuteľnosti vzdušného priestoru a spravodajského zabezpečenia obrany podľa zákona, ktoré slúžia na plnenie úloh ministerstva obrany, ozbrojeným silám Slovenskej republiky, rozpočtovým organizáciám, príspevkovým organizáciám, akciovým spoločnostiam a štátnym podnikom v zakladateľskej alebo zriaďovateľskej pôsobnosti ministerstva obrany.
 
-(10) Za stavby pre bezpečnosť štátu sa považujú stavby v správe, nájme alebo vo výpožičke ministerstva vnútra, Slovenskej informačnej služby a Národného bezpečnostného úradu užívané na služobné účely a stavby, ktoré sú v správe, nájme alebo vo výpožičke rozpočtových organizácií alebo príspevkových organizácií, akciových spoločností a štátnych podnikov v zakladateľskej alebo v zriaďovateľskej pôsobnosti týchto orgánov.
+(11) Za stavby pre bezpečnosť štátu sa považujú stavby v správe, nájme alebo vo výpožičke ministerstva vnútra, Slovenskej informačnej služby a Národného bezpečnostného úradu užívané na služobné účely a stavby, ktoré sú v správe, nájme alebo vo výpožičke rozpočtových organizácií alebo príspevkových organizácií, akciových spoločností a štátnych podnikov v zakladateľskej alebo v zriaďovateľskej pôsobnosti týchto orgánov.
 
-(11) Za stavby Zboru väzenskej a justičnej stráže Slovenskej republiky sa považujú stavby na služobnú činnosť tejto stráže a stavby v jej správe a užívaní na služobné účely ich útvarov.
+(12) Za stavby Zboru väzenskej a justičnej stráže Slovenskej republiky sa považujú stavby na služobnú činnosť tejto stráže a stavby v jej správe a užívaní na služobné účely ich útvarov.
 
-(12) Za stavby uránového priemyslu sa považujú stavby postavené alebo slúžiace na účely ťažby, spracúvania, transportu a ukladania rádioaktívnych surovín na území vyhradenom na tieto účely.
+(13) Za stavby uránového priemyslu sa považujú stavby postavené alebo slúžiace na účely ťažby, spracúvania, transportu a ukladania rádioaktívnych surovín na území vyhradenom na tieto účely.
 
-(13) Stavbami v povrchových lomoch a skrývkach sú stavby vnútri hraníc vymedzených čiarou skutočne realizovanej skrývky alebo uskutočnenej ťažby, prípadne v území vystavenom priamym účinkom ťažby (napr. trhacích prác), ak pozemky neboli rekultivované.
+(14) Stavbami v povrchových lomoch a skrývkach sú stavby vnútri hraníc vymedzených čiarou skutočne realizovanej skrývky alebo uskutočnenej ťažby, prípadne v území vystavenom priamym účinkom ťažby (napr. trhacích prác), ak pozemky neboli rekultivované.
 
-(14) Na stavby jadrových energetických zariadení sa vzťahujú osobitné predpisy.<sup>4</sup>)
+(15) Na stavby jadrových energetických zariadení sa vzťahujú osobitné predpisy.<sup>4</sup>)
 
-(15) Udržiavacími prácami, pri ktorých nie je potrebné ani ohlásenie (bežné udržiavacie práce), sú najmä
+(16) Udržiavacími prácami, pri ktorých nie je potrebné ani ohlásenie (bežné udržiavacie práce), sú najmä
 
 - a) opravy fasády, opravy a výmena strešnej krytiny alebo povrchu plochých striech, výmena odkvapových žľabov a odtokových zvodov, opravy oplotenia a výmena jeho častí, ak sa tým nemení jeho trasa,
 
