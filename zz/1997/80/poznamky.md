@@ -6,6 +6,8 @@
 
 - 1aa) § 2 ods. 1 Obchodného zákonníka.
 
+- 1aaa) § 3 ods. 2 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
+
 - 2) Zákon č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 3) § 2 ods. 1 zákona č. 483/2001 Z. z.
