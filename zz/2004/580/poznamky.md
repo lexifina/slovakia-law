@@ -174,6 +174,8 @@
 
 - 44b) § 4 ods. 1 písm. d) zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
+- 44c) § 36 ods. 1 písm. u) zákona č. 5/2004 Z. z. v znení zákona č. 376/2018 Z. z.
+
 - 45) Zákon č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 46) Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
