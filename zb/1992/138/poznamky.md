@@ -26,6 +26,8 @@
 
 - § 66b ods. 2 zákona č. 455/1991 Z. z. v znení zákona č. 136/2010 Z. z.
 
+- 13aa) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
 - 13b) § 29 a 30 zákona č. 422/2015 Z. z. o uznávaní dokladov o vzdelaní a o uznávaní odborných kvalifikácií a o zmene a doplnení niektorých zákonov.
 
 - 14) § 49 ods. 1 a 2 Trestného zákona.
