@@ -6,8 +6,6 @@
 
 - 6b) § 29 ods. 2 písm. a) a b) zákona č. 61/2015 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov.
 
-- 6c) § 10 ods. 5 zákona č. 61/2015 Z. z.
-
 - 7) § 117 zákona č. 245/2008 Z. z.
 
 - 8) § 94 ods. 2 písm. f) a h) a § 97 ods. 5 písm. c) zákona č. 245/2008 Z. z.
