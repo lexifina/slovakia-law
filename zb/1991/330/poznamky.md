@@ -160,6 +160,8 @@
 
 - 16ba) § 3 ods. 1 písm. a) zákona č. 477/2002 Z. z. o uznávaní odborných kvalifikácií a o doplnení zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
+- 16bb) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
 - 16c) Zákon č. 343/2015 o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 18) Zákon č. 71/1967 Zb.
