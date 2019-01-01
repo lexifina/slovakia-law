@@ -10,6 +10,8 @@
 
 - d) právnickej osobe alebo fyzickej osobe za porušenie povinnosti podľa § 23b do 100 000 eur,
 
+- e) zamestnávateľovi za porušenie povinnosti podľa § 62 ods. 6 do 300 eur.
+
 (2) Ústredie a úrad pri ukladaní pokuty podľa odseku 1 prihliadajú na závažnosť zistených nedostatkov a závažnosť ich následkov, opakované zistenie toho istého nedostatku, a ak ide o uloženie pokuty podľa odseku 1 písm. b), aj na počet nelegálne zamestnaných fyzických osôb.
 
 (3) Pokutu možno uložiť v lehote jedného roka odo dňa, keď sa ústredie a úrad dozvedeli o porušení týchto povinností, najneskôr však do troch rokov odo dňa, keď došlo k porušeniu.

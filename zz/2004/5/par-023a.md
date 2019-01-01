@@ -12,7 +12,7 @@
 
   - 2. ktorý je rodinným príslušníkom držiteľa modrej karty,
 
-  - 3. ktorý je rodinným príslušníkom štátneho príslušníka tretej krajiny podľa § 21b ods. 7 písm. b) alebo písm. c) alebo podľa písmena ah) alebo
+  - 3. ktorý je rodinným príslušníkom štátneho príslušníka tretej krajiny podľa § 21b ods. 8 písm. b) alebo písm. c) alebo podľa písmena ah) alebo
 
   - 4. ktorý je rodinným príslušníkom štátneho príslušníka tretej krajiny podľa písmena f),
 
@@ -42,7 +42,7 @@
 
   - 2. výkonný umelec, ktorý sa zúčastňuje na umeleckom podujatí,
 
-- m) ktorý zabezpečuje na základe obchodnej zmluvy dodávky tovaru alebo služieb a tento tovar dodáva alebo v súvislosti s dodávkou tovaru uskutočňuje montáž, záručné a opravárenské práce, práce týkajúce sa nastavenia systémov výrobných zariadení alebo v súvislosti s dodávkou tovaru alebo služieb uskutočňuje programátorské práce alebo odborné školenia, ak trvanie jeho pracovnoprávneho vzťahu alebo vyslania na výkon práce nepresiahne celkovo 90 dní v kalendárnom roku,
+- m) ktorý zabezpečuje na základe obchodnej zmluvy dodávky tovaru alebo služieb a tento tovar dodáva alebo v súvislosti s dodávkou tovaru uskutočňuje montáž, záručné a opravárenské práce, práce týkajúce sa nastavenia systémov výrobných zariadení alebo v súvislosti s dodávkou tovaru alebo služieb uskutočňuje programátorské práce alebo odborné školenia, ak trvanie jeho vyslania na výkon práce nepresiahne celkovo 90 dní v kalendárnom roku,
 
 - n) ktorý je prijatý do pracovnoprávneho vzťahu na základe medzinárodnej zmluvy, ktorou je Slovenská republika viazaná a ktorá ustanovuje, že na prijatie štátneho príslušníka tretej krajiny do pracovnoprávneho vzťahu nie je potrebné povolenie na zamestnanie,<sup>27</sup>)
 
@@ -86,9 +86,11 @@
 
 - ag) ktorý má udelené národné vízum<sup>28g</sup>) a
 
-  - 1. na ktorého sa vzťahuje program pracovnej dovolenky, ktorý schválila vláda Slovenskej republiky, alebo
+  - 1. na ktorého sa vzťahuje program pracovnej dovolenky, ktorý schválila vláda Slovenskej republiky,
 
-  - 2. ktorý sa podieľa na realizácii filmového projektu na území Slovenskej republiky,
+  - 2. ktorý sa podieľa na realizácii filmového projektu na území Slovenskej republiky alebo
+
+  - 3. ide o záujem Slovenskej republiky, ktorý schválila vláda Slovenskej republiky,
 
 - ah) ktorý u neho dočasne pôsobí na základe mobility<sup>28h</sup>)
 

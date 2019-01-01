@@ -12,7 +12,7 @@
 
 - 5) Zákon č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
 
-- 6) Napríklad § 226 ods. 2 Obchodného zákonníka, zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov, zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov, zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov, zákon č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
+- 6) Napríklad § 226 ods. 2 Obchodného zákonníka, zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov, zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov, zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov, zákon č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 8) Zákon č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností v znení neskorších predpisov.
 
@@ -70,7 +70,7 @@
 
 - 18c) § 66 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
 
-- § 50 zákona č. 400/2009 Z. z.
+- § 77 zákona č. 55/2017 Z. z.
 
 - 19) § 58 ods. 1 písm. d) zákona č. 455/1991 Zb. v znení zákona č. 279/2001 Z. z.
 
@@ -111,6 +111,8 @@
 - 22g) Zákon č. 422/2015 Z. z. o uznávaní dokladov o vzdelaní a o uznávaní odborných kvalifikácií a o zmene a doplnení niektorých zákonov.
 
 - 22h) § 38 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
+
+- 22ha) § 3 ods. 1 písm. d) zákona č. 422/2015 Z. z.
 
 - 22i) § 31 a 32 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
 
@@ -290,6 +292,8 @@
 
 - 60a) § 51 a 853 Občianskeho zákonníka.
 
+- 60aa) Napríklad § 26 zákona č. 55/2017 Z. z.
+
 - 60b) Zákon č. 73/1998 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 200/1998 Z. z. v znení neskorších predpisov.
@@ -325,6 +329,8 @@
 - 63aa) Čl. 107 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 83, 30. 3. 2010).
 
 - 63aaa) Zákon č. 568/2009 Z. z.
+
+- 63aaaa) Štvrtá časť tretia hlava zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 63ab) Napríklad nariadenie (EÚ) č. 1407/2013, nariadenie (EÚ) č. 651/2014.
 

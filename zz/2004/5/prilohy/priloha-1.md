@@ -58,6 +58,8 @@ Príloha č. 1 k zákonu č. 5/2004 Z. z.
 
       - 5. výška príjmu,
 
+      - 6. miesto výkonu práce (štát),
+
     - d) údaje o zdravotnom stave oznámené dobrovoľne, a to
 
       - 1. druh postihnutia,
@@ -172,7 +174,11 @@ Príloha č. 1 k zákonu č. 5/2004 Z. z.
 
       - 13. výška mesačnej mzdy,
 
-    - b) údaje o zamestnávateľovi, mieste a druhu vykonávanej práce, a to
+      - 14. typ a účel pobytu štátneho príslušníka tretej krajiny na území Slovenskej republiky, ak bol udelený,
+
+      - 15. adresa pobytu na území Slovenskej republiky,
+
+    - b) údaje o zamestnávateľovi, užívateľskom zamestnávateľovi, informujúcej organizácii, mieste a druhu vykonávanej práce, a to
 
       - 1. názov a sídlo, identifikačné číslo zamestnávateľa,
 

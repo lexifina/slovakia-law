@@ -30,8 +30,10 @@
 
 - a) bolo odňaté povolenie na zamestnanie na účel sezónneho zamestnania podľa § 23 ods. 2 písm. b) druhého bodu, vyplatiť peňažnú náhradu v sume mzdy za obdobie, za ktoré by mu patrila, ak by k odňatiu povolenia na zamestnanie nedošlo, alebo
 
-- b) bol zrušený prechodný pobyt na účel sezónneho zamestnania na základe zrušenia potvrdenia o možnosti obsadenia voľného pracovného miesta podľa § 21b ods. 9 druhej vety, vyplatiť peňažnú náhradu v sume mzdy za obdobie, za ktoré by mu patrila, ak by k zrušeniu prechodného pobytu nedošlo.
+- b) bol zrušený prechodný pobyt na účel sezónneho zamestnania na základe zrušenia potvrdenia o možnosti obsadenia voľného pracovného miesta podľa § 21b ods. 10 písm. a) až c), vyplatiť peňažnú náhradu v sume mzdy za obdobie, za ktoré by mu patrila, ak by k zrušeniu prechodného pobytu nedošlo.
 
 (12) Informujúca organizácia je povinná zabezpečiť štátnym príslušníkom tretej krajiny, ktorí sú k nej vyslaní podľa § 23a ods. 1 písm. w), ubytovanie, ktoré spĺňa minimálne požiadavky podľa osobitného predpisu,<sup>23aa</sup>) najmenej na predpokladané obdobie vyslania. Zamestnávateľ je povinný zabezpečiť štátnemu príslušníkovi tretej krajiny, ktorého zamestnáva podľa § 23a ods. 1 písm. u), ubytovanie, ktoré spĺňa minimálne požiadavky podľa osobitného predpisu,<sup>23aa</sup>) najmenej na obdobie zamestnania.
 
-(13) Príslušný úrad pre splnenie informačnej povinnosti podľa odsekov 2, 3, 6 až 8 je úrad, v ktorého územnom obvode je miesto výkonu práce.
+(13) Ak ide o štátneho príslušníka tretej krajiny podľa § 21 ods. 4 druhej vety, povinnosti podľa odseku 1, odseku 2 prvej vety a druhej vety a odseku 3 plní užívateľský zamestnávateľ.
+
+(14) Príslušný úrad pre splnenie informačnej povinnosti podľa odsekov 2, 3, 6 až 8 je úrad, v ktorého územnom obvode je miesto výkonu práce.
