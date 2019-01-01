@@ -60,6 +60,8 @@
 
 - § 66b ods. 2 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
+- 14aa) § 13 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 14b) Zákon č. 328/1991 Zb. v znení neskorších predpisov.
 
 - Zákon č. 7/2005 Z. z. v znení neskorších predpisov.
