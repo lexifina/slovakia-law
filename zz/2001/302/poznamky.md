@@ -48,6 +48,8 @@
 
 - 18b) § 13 až 25 zákona č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite.
 
+- 18ba) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
 - 18c) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
 - 18d) Zákon č. 152/1998 Z. z. o sťažnostiach.
