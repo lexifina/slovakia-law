@@ -182,6 +182,8 @@ Zákon č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl 
 
 - zabezpečenie okresných a krajských kôl súťaží a predmetových olympiád detí a žiakov škôl a školských zariadení.“.
 
+- 10. V § 4 ods. 5 druhej vete sa za slovo „tried“ vkladá čiarka a slová „dĺžky praxe pedagogických zamestnancov“.
+
 - 11. V § 4 ods. 5 tretej vete a ods. 6 tretej vete sa slová „možno zohľadniť“ nahrádzajú slovami „sa zohľadní“.
 
 - 12. § 4a vrátane nadpisu znie:
