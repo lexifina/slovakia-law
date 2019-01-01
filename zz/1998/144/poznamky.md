@@ -22,6 +22,8 @@
 
 - 11) § 15 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách.
 
+- 11a) § 10 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
 - 12) § 6 ods. 1 a 2 zákona č. 455/1991 Zb.
 
 - 13) § 11 ods. 3 a 5 zákona č. 455/1991 Zb. v znení neskorších predpisov.
