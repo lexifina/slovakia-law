@@ -28,4 +28,4 @@
 
 (2) Povinnosti podľa odseku 1 sa vzťahujú aj na zmluvu o poskytovaní elektronického obsahu nedodávaného na hmotnom nosiči.
 
-(3) Ustanovenia odseku 1 sa nepoužijú, ak pre predávajúceho vyplýva z osobitného predpisu<sup>15c</sup>) povinnosť poskytnúť informácie spotrebiteľovi pred uzavretím zmluvy.
+(3) Ak pre predávajúceho vyplýva z osobitného predpisu<sup>15c</sup>) povinnosť poskytnúť informácie spotrebiteľovi pred uzatvorením zmluvy, ustanovenia odseku 1 sa použijú primerane.

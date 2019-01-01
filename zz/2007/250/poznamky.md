@@ -90,7 +90,7 @@
 
 - 22a) § 9 zákona č. 108/2000 Z. z. v znení neskorších predpisov.
 
-- 22b) Napríklad § 44 zákona č. 610/2003 Z. z. o elektronických komunikáciách, § 66 zákona č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov v znení zákona č. 604/2003 Z. z., § 741i Občianskeho zákonníka, § 30 zákona č. 442/2002 Z. z. o verejných vodovodoch a verejných kanalizáciách a o zmene a doplnení zákona č. 276/2001 Z. z. o regulácii v sieťových odvetviach v znení neskorších predpisov.
+- 22b) Napríklad § 44 zákona č. 610/2003 Z. z. o elektronických komunikáciách, § 66 zákona č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov v znení zákona č. 604/2003 Z. z., § 22 zákona č. 170/2018 Z. z. o zájazdoch, spojených službách cestovného ruchu, niektorých podmienkach podnikania v cestovnom ruchu a o zmene a doplnení niektorých zákonov, § 30 zákona č. 442/2002 Z. z. o verejných vodovodoch a verejných kanalizáciách a o zmene a doplnení zákona č. 276/2001 Z. z. o regulácii v sieťových odvetviach v znení neskorších predpisov.
 
 - 22c) Zákon č. 294/1999 Z. z. o zodpovednosti za škodu spôsobenú vadným výrobkom v znení zákona č. 451/2004 Z. z.
 
@@ -124,7 +124,7 @@
 
 - Zákon č. 258/2001 Z. z. v znení neskorších predpisov.
 
-- Zákon č. 281/2001 Z. z. o zájazdoch, podmienkach podnikania cestovných kancelárií a cestovných agentúr a o zmene a doplnení Občianskeho zákonníka v znení neskorších predpisov v znení neskorších predpisov.
+- Zákon č. 170/2018 Z. z.
 
 - Zákon č. 22/2004 Z. z. v znení zákona č. 160/2005 Z. z.
 
@@ -162,7 +162,7 @@
 
 - § 32 až 39 zákona č. 308/2000 Z. z. v znení neskorších predpisov.
 
-- § 4 ods. 2 až 4 a § 7 až 11a zákona č. 281/2001 Z. z. o zájazdoch, podmienkach podnikania cestovných kancelárií a cestovných agentúr a o zmene a doplnení Občianskeho zákonníka v znení neskorších predpisov v znení neskorších predpisov.
+- Zákon č. 170/2018 Z. z.
 
 - § 4 až 6 zákona č. 22/2004 Z. z. v znení zákona č. 166/2005 Z. z.
 
