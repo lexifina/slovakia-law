@@ -18,7 +18,7 @@
 
 - b) nemôžu svojím charakterom viesť k rozporu s povinnosťami obchodníka s cennými papiermi konať v súlade s odsekom 1.
 
-(5) Úhradu poplatku alebo provízie alebo poskytnutie nepeňažnej výhody je možné považovať za určenú na zvýšenie kvality príslušnej služby pre klienta, ak sú splnené tieto podmienky:
+(5) Poplatok, provízia alebo nepeňažná výhoda sa nepovažujú za prijateľné, ak v ich dôsledku je poskytovanie príslušných služieb klientovi neobjektívne alebo skreslené. Úhradu poplatku alebo provízie alebo poskytnutie nepeňažnej výhody je možné považovať za určenú na zvýšenie kvality príslušnej služby pre klienta, ak sú splnené tieto podmienky:
 
 - a) je odôvodnená poskytnutím dodatočnej služby alebo vyššej úrovne služieb príslušnému klientovi, primerane k úrovni poplatku, provízie alebo nepeňažnej výhody, najmä
 
@@ -40,7 +40,7 @@
 
 - b) zaznamenávať ako poplatky, provízie a nepeňažné výhody, ktoré obchodník s cennými papiermi zaplatil alebo prijal, alebo ktoré plánuje využiť, zvyšujú kvalitu služieb poskytovaných príslušnému klientovi a opatrenia prijaté s cieľom neoslabiť schopnosti obchodníka s cennými papiermi konať so zásadami poctivého obchodného styku a s odbornou starostlivosťou v záujme svojich klientov.
 
-(8) Obchodník s cennými papiermi je povinný v súvislosti s platbou alebo nepeňažnou výhodou, ktoré sú prijaté od tretej osoby, poskytnúť klientovi informácie o
+(8) Obchodník s cennými papiermi je povinný v súvislosti s platbou alebo nepeňažnou výhodou, ktoré sú prijaté od tretej osoby alebo poskytnuté tretej osobe, poskytnúť klientovi informácie o
 
 - a) úhradách alebo výhodách v súlade s odsekom 3, a to pred poskytnutím príslušnej investičnej služby alebo vedľajšej služby; malé nepeňažné výhody môžu byť popísané všeobecným spôsobom, ostatné nepeňažné výhody poskytované alebo prijímané obchodníkom s cennými papiermi v súvislosti s investičnou službou poskytovanou klientovi sa oceňujú a uvádzajú samostatne,
 

@@ -8,7 +8,7 @@
 
 - b) veľká obchodná spoločnosť spĺňajúca podmienky podľa odseku 3,
 
-- c) štátny orgán, obec, vyšší územný celok, štátny orgán alebo územný celok iného štátu, Agentúra pre riadenie dlhu a likvidity, orgán iného štátu poverený alebo podieľajúci sa na správe štátneho dlhu, Národná banka Slovenska, centrálna banka iného štátu, Medzinárodný menový fond, Európska centrálna banka, Európska investičná banka a iné podobné medzinárodné organizácie,
+- c) štátny orgán, vyšší územný celok, štátny orgán alebo vyšší územný celok iného štátu, Agentúra pre riadenie dlhu a likvidity, orgán iného štátu poverený alebo podieľajúci sa na správe štátneho dlhu, Národná banka Slovenska, centrálna banka iného štátu, Medzinárodný menový fond, Európska centrálna banka, Európska investičná banka a iné podobné medzinárodné organizácie,
 
 - d) právnická osoba neuvedená v písmenách a) až c), ktorej hlavným predmetom činnosti je investovanie do finančných nástrojov, vrátane právnickej osoby, ktorá vykonáva transformáciu úverov a pôžičiek na cenné papiere alebo iné obchody na účely financovania,
 
@@ -38,7 +38,7 @@
 
 (7) Na účely posudzovania možnosti zaradenia osoby podľa odseku 2 písm. e) do kategórie profesionálny klient postupom podľa odseku 6 musia byť splnené aspoň dve z týchto podmienok:
 
-- a) táto osoba za predchádzajúce štyri štvrťroky vykonala na príslušnom trhu s finančnými nástrojmi priemerne desať významných obchodov s finančnými nástrojmi za štvrťrok; pričom významným obchodom s finančnými nástrojmi sa rozumie obchod s finančnými nástrojmi, ktorého objem je vyšší ako 6 000 eur, a príslušným trhom sa rozumie regulovaný trh, mnohostranný obchodný systém alebo neorganizovaný trh, na ktorý sú prijaté na obchodovanie finančné nástroje, vo vzťahu ku ktorým sú poskytované alebo sa majú poskytovať investičné služby pre túto osobu,
+- a) táto osoba za predchádzajúce štyri štvrťroky vykonala na príslušnom trhu s finančnými nástrojmi priemerne desať významných obchodov s finančnými nástrojmi za štvrťrok,
 
 - b) veľkosť jej portfólia zahŕňajúceho finančné nástroje a peňažné vklady prevyšuje 500 000 eur,
 

@@ -50,7 +50,7 @@
 
 (11) Emitent je povinný poskytnúť majiteľovi investičných certifikátov na jeho žiadosť úplné znenie emisných podmienok investičných certifikátov.
 
-(12) Emitent je povinný predložiť centrálnemu depozitárovi emisné podmienky investičných certifikátov do 15 dní odo dňa začatia ich vydávania. Centrálny depozitár sprístupní na žiadosť majiteľa investičného certifikátu emisné podmienky týchto investičných certifikátov. Pri zmene emisných podmienok investičných certifikátov je emitent povinný bezodkladne predložiť centrálnemu depozitárovi zmeny emisných podmienok investičných certifikátov a úplné znenie emisných podmienok investičných certifikátov.
+(12) Emitent je povinný predložiť centrálnemu depozitárovi emisné podmienky investičných certifikátov do 15 dní odo dňa začatia ich vydávania. Centrálny depozitár sprístupní na žiadosť majiteľa alebo držiteľa investičného certifikátu emisné podmienky týchto investičných certifikátov. Pri zmene emisných podmienok investičných certifikátov je emitent povinný bezodkladne predložiť centrálnemu depozitárovi zmeny emisných podmienok investičných certifikátov a úplné znenie emisných podmienok investičných certifikátov.
 
 (13) Pri investičných certifikátoch, pre ktoré bol vypracovaný na účely verejnej ponuky prospekt cenného papiera podľa ustanovení § 120 až 125h, môže emitent nahradiť emisné podmienky investičných certifikátov samostatnou časťou prospektu cenného papiera, ktorá obsahuje výlučne úplné znenie emisných podmienok investičných certifikátov, pričom Centrálnemu depozitárovi sa v tomto prípade predkladá samostatná časť prospektu cenného papiera obsahujúca emisné podmienky investičných certifikátov; tým nie sú dotknuté ustanovenia odsekov 5 až 8, 10 a 11.
 

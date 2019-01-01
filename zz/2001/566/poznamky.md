@@ -204,6 +204,14 @@
 
 - Čl. 3 až 26 nariadenia (EÚ) č. 600/2014.
 
+- 53b) § 10 ods. 4 a 5 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
+- 53c) § 34a ods. 1 a 2 a § 34b zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
+
+- § 10 ods. 1, 5, 6, 7, 10 a 11 a § 12 zákona č. 330/2007 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 747/2004 Z. z. v znení neskorších predpisov.
+
 - 54) § 27 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
 
 - 54a) § 8 zákona č. 483/2001 Z. z.
@@ -217,6 +225,8 @@
 - 54e) §12 zákona č. 186/2009 Z. z.
 
 - 54f) Čl. 14 až 26 nariadenia (EÚ) č. 600/2014.
+
+- 54g) Napríklad zákon č. 335/2014 Z. z. o spotrebiteľskom rozhodcovskom konaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 420/2004 Z. z. o mediácii a o doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 55) § 28 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
@@ -266,6 +276,8 @@
 
 - 57b) § 22 zákona č. 186/2009 Z. z.
 
+- 57c) Čl. 2 bod 1 delegovaného nariadenia (EÚ) 2017/565 v platnom znení.
+
 - 58) § 65 Obchodného zákonníka.
 
 - 58a) § 3 zákona č. 428/2002 Z. z. o ochrane osobných údajov.
@@ -300,11 +312,15 @@
 
 - Zákon č. 258/2001 Z. z. o spotrebiteľských úveroch a o zmene a doplnení zákona Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení neskorších predpisov v znení zákona č. 264/2006 Z. z.
 
+- 58hea) Delegované nariadenie Komisie (EÚ) 2017/575 z 8. júna 2016, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ o trhoch s finančnými nástrojmi, pokiaľ ide o regulačné technické predpisy týkajúce sa údajov o kvalite vykonávania transakcií, ktoré majú zverejňovať miesta výkonu (Ú. v. EÚ L 87, 31. 3. 2017).
+
 - 58hf) Čl. 23 a 28 nariadenia (EÚ) č. 600/2014.
 
-- 58hfa) Čl. 4 ods. 1 a 2 nariadenia (EÚ) č. 600/2014.
+- 58hfa) Čl. 4 nariadenia (EÚ) č. 600/2014 v platnom znení.
 
 - 58hfb) Delegované nariadenie (EÚ) 2017/565.
+
+- 58hfc) Delegované nariadenie Komisie (EÚ) 2017/576 z 8. júna 2016, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ, pokiaľ ide o regulačné technické predpisy týkajúce sa každoročného uverejňovania informácií investičnými spoločnosťami o totožnosti miest výkonu a o kvalite vykonávania (Ú. v. EÚ L 87, 31. 3. 2017).
 
 - 58hg) Čl. 61 a 71 delegovaného nariadenia (EÚ) 2017/565.
 
@@ -325,6 +341,8 @@
 - 58jd) § 33a až 33n zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - 58je) § 33a a 33c zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 58jea) Čl. 2 písm. f) nariadenia (EÚ) 2017/1129.
 
 - 58jf) Napríklad čl. 72 až 76 delegovaného nariadenia (EÚ) 2017/565.
 
@@ -480,6 +498,8 @@
 
 - 89e) Čl. 31 a príloha oddiel A prvý a druhý bod nariadenia (EÚ) č. 909/2014.
 
+- 89f) Oddiel A a B prílohy nariadenia (EÚ) č. 909/2014 v platnom znení.
+
 - 90) Nariadenie (EÚ) č. 909/2014.
 
 - 90a) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov, zákon č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení neskorších predpisov, zákon č. 71/1967 Zb. v znení neskorších predpisov, nariadenie Európskeho parlamentu a Rady (EÚ) č. 655/2014 z 15. mája 2014 o zavedení konania týkajúceho sa európskeho príkazu na zablokovanie účtov s cieľom uľahčiť cezhraničné vymáhanie pohľadávok v občianskych a obchodných veciach (Ú. v. EÚ L 189, 27. 6. 2014).
@@ -533,6 +553,12 @@
 - 99) § 276 až 279 Obchodného zákonníka.
 
 - 100) § 187 ods. 2 Obchodného zákonníka.
+
+- 100aa) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
+
+- 100ab) Napríklad zákon Slovenskej národnej rady č. 323/1992 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov, zákon č. 7/2005 Z. z. v znení neskorších predpisov.
+
+- 100ac) § 2 ods. 5 Obchodného zákonníka.
 
 - 101) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku.
 
@@ -622,7 +648,7 @@
 
 - 110j) Čl. 92 až 386 nariadenia (EÚ) č. 575/2013.
 
-- 110ja) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) č. 596/2014 zo 16. apríla 2014 o zneužívaní trhu (nariadenie o zneužívaní trhu) a o zrušení smernice Európskeho parlamentu a Rady 2003/6/ES a smerníc Komisie 2003/124/ES, 2003/125/ES a 2004/72/ES (Ú. v. EÚ L 173, 12. 6. 2014) v platnom znení, nariadenie (EÚ) č. 2015/2365, nariadenie (EÚ) č. 2016/1011.
+- 110ja) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) č. 596/2014 zo 16. apríla 2014 o zneužívaní trhu (nariadenie o zneužívaní trhu) a o zrušení smernice Európskeho parlamentu a Rady 2003/6/ES a smerníc Komisie 2003/124/ES, 2003/125/ES a 2004/72/ES (Ú. v. EÚ L 173, 12. 6. 2014) v platnom znení, nariadenie (EÚ) 2015/2365, nariadenie (EÚ) 2016/1011, nariadenie Európskeho parlamentu a Rady (EÚ) 2017/2402 z 12. decembra 2017, ktorým sa ustanovuje všeobecný rámec pre sekuritizáciu a vytvára sa osobitný rámec pre jednoduchú, transparentnú a štandardizovanú sekuritizáciu a ktorým sa menia smernice 2009/65/ES, 2009/138/ES a 2011/61/EÚ a nariadenie (ES) č. 1060/2009 a nariadenie (EÚ) č. 648/2012 (Ú. v. EÚ L 347, 28. 12. 2017).
 
 - 110jb) Čl. 25 ods. 2 nariadenia (EÚ) č. 596/2014.
 
@@ -636,9 +662,9 @@
 
 - 110la) Čl. 63 ods. 2 nariadenia (EÚ) č. 909/2014.
 
-- 110m) Napríklad čl. 30 ods. 1 nariadenia (EÚ) č. 596/2014, čl. 22 nariadenia (EÚ) č. 2015/2365, čl. 42 nariadenia (EÚ) č. 2016/1011.
+- 110m) Napríklad čl. 30 ods. 1 nariadenia (EÚ) č. 596/2014 v platnom znení, čl. 22 nariadenia (EÚ) 2015/2365, čl. 42 nariadenia (EÚ) 2016/1011, čl. 32 nariadenia (EÚ) 2017/2402.
 
-- 110n) Napríklad čl. 30 ods. 2 a čl. 31 nariadenia (EÚ) č. 596/2014, čl. 22 a 23 nariadenia (EÚ) 2015/2365, čl. 42 a 43 nariadenia (EÚ) 2016/1011.
+- 110n) Napríklad čl. 30 ods. 2 a čl. 31 nariadenia (EÚ) č. 596/2014 v platnom znení, čl. 22 a 23 nariadenia (EÚ) 2015/2365, čl. 42 a 43 nariadenia (EÚ) 2016/1011, čl. 32 ods. 2 a 3 a čl. 33 nariadenia (EÚ) 2017/2402.
 
 - 111) Napríklad Obchodný zákonník v znení neskorších predpisov, Občiansky zákonník v znení neskorších predpisov, zákon č. 659/2007 Z. z.
 
@@ -670,7 +696,15 @@
 
 - 114g) Napríklad Trestný poriadok v znení neskorších predpisov.
 
+- 114ga) § 10 ods. 2 zákona č. 371/2014 Z. z. v znení zákona č. 437/2015 Z. z.
+
+- 114gb) § 34 ods. 6 zákona č. 371/2014 Z. z. v znení zákona č. 373/2018 Z. z.
+
+- 114gc) § 8 a § 54 ods. 2 zákona č. 371/2014 Z. z. v znení zákona č. 437/2015 Z. z.
+
 - 114h) Čl. 62 nariadenia (EÚ) č. 909/2014.
+
+- 114ha) Čl. 37 nariadenia (EÚ) 2017/2402.
 
 - 114i) § 156a Obchodného zákonníka v znení neskorších predpisov.
 

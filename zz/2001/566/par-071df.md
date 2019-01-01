@@ -70,7 +70,7 @@
 
 (6) Ozdravný plán nemôže obsahovať opatrenia spočívajúce v možnosti získania prístupu k mimoriadnej verejnej finančnej podpore.
 
-(7) Ozdravný plán obsahuje primerané postupy na zabezpečenie včasného uplatnenia jednotlivých opatrení a určenie všetkých možných spôsobov ozdravenia obchodníka s cennými papiermi. Opatrenia musia zohľadňovať čo najviac možných scenárov makroekonomických stresových situácií a finančných stresových situácií, ktorým môže byť obchodník s cennými papiermi vystavený vzhľadom na charakter vykonávaných bankových činností, a to vrátane systémových stresových situácií, stresových situácií týkajúcich sa konkrétnej právnickej osoby a skupiny právnických osôb.
+(7) Ozdravný plán obsahuje primerané postupy na zabezpečenie včasného uplatnenia jednotlivých opatrení a určenie všetkých možných spôsobov ozdravenia obchodníka s cennými papiermi. Opatrenia musia zohľadňovať čo najviac možných scenárov makroekonomických stresových situácií a finančných stresových situácií, ktorým môže byť obchodník s cennými papiermi vystavený vzhľadom na charakter vykonávaných investičných služieb, investičných činností a vedľajších služieb, a to vrátane systémových stresových situácií, stresových situácií týkajúcich sa konkrétnej právnickej osoby a skupiny právnických osôb.
 
 (8) Ozdravný plán schvaľuje štatutárny orgán obchodníka s cennými papiermi a obchodník s cennými papiermi ho následne predloží na posúdenie Národnej banke Slovenska.
 
