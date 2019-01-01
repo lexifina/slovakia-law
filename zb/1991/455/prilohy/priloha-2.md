@@ -142,13 +142,17 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 52. | Sprievodca cestovného ­ruchu | osvedčenie o absolvovaní akreditovaného vzdelávacieho programu vydané vzdelávacou inštitúciou akreditovanou Ministerstvom školstva Slovenskej republiky | § 14 zákona č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení niektorých zákonov |
 
-- 53. | Masérske služby | – absolvovanie strednej zdravotníckej školy alebo – absolvovanie masérskeho kurzu zakončeného skúškou, organizovaného inštitúciou akreditovanou príslušným ústredným orgánom štátnej správy alebo – absolvovanie lekárskej fakulty alebo zdravotníckej univerzity alebo – absolvovanie vysokej školy telovýchovného smeru | |
+- 53. | Masérske služby | – absolvovanie strednej zdravotníckej školy alebo – absolvovanie lekárskej fakulty alebo zdravotníckej univerzity alebo – absolvovanie vysokej školy telovýchovného smeru | |
+
+- 53a. | Wellness masérske služby | Osvedčenie o čiastočnej kvalifikácii alebo osvedčenie o úplnej kvalifikácii | § 19 zákona č. 568/2009 Z. z. |
 
 - 54. | Ubytovacie služby v ubytovacích zariadeniach s prevádzkovaním pohostinských činností v týchto zariadeniach a v chatovej osade triedy 3, v kempingoch triedy 3 a 4 | – vysokoškolské vzdelanie druhého stupňa a dva roky praxe v odbore alebo – vysokoškolské vzdelanie prvého stupňa alebo vyššie odborné vzdelanie a tri roky praxe v odbore alebo – úplné stredné všeobecné vzdelanie alebo úplné stredné odborné vzdelanie a štyri roky praxe v odbore | | III
 
 - 55. | Reštaurovanie s výnimkou kultúrnych pamiatok a zbierkových predmetov, ktoré sú dielami výtvarného umenia [§ 3 ods. 1 písm. d) desiaty bod] | – stredoškolské vzdelanie reštaurátorského zamerania a 3 roky praxe v odbore reštaurovania alebo – úplné stredné vzdelanie príbuzného odboru a 5 rokov praxe v odbore reštaurovania alebo – vysokoškolské umelecké vzdelanie reštaurátorského zamerania alebo príbuzného odboru a 1 rok praxe v odbore reštaurovania | | I
 
 - 56. | Činnosť vodohospodára | – vysokoškolské vzdelanie 2. stupňa v odbore technických vied alebo prírodných vied a najmenej trojročná odborná prax, alebo – úplné stredné odborné vzdelanie technického smeru a najmenej šesťročná odborná prax, prípadne – vysokoškolské vzdelanie 1. stupňa v odbore technických vied alebo prírodných vied a najmenej štvorročná odborná prax | § 70 zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov Odborná prax je prax vodohospodárskeho smeru, chemicko-technologického smeru alebo iného príbuzného smeru |
+
+- 56a | Podnikanie na ostatných vodných plochách v osobitnom režime | a) vysokoškolské vzdelanie druhého stupňa, ak absolvent v rámci vysokoškolského vzdelávania úspešne vykonal skúšku za príslušné obdobie štúdia, ktorá sa vzťahuje na rybárstvo, b) úplné stredné odborné vzdelanie v študijnom odbore rybárstvo, c) stredné odborné vzdelanie v učebnom odbore rybár, d) nižšie stredné odborné vzdelanie, ak žiak v rámci vzdelávacieho programu absolvoval predmet, ktorý sa vzťahuje na rybárstvo, alebo e) úspešné absolvovanie skúšky rybárskeho hospodára a najmenej tri roky praxe v oblasti rybárstva. | § 33 a § 6 ods. 9 zákona č. 216/ 2018 Z. z. o rybárstve a o doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov |
 
 - 57. | Činnosť bezpečnostného poradcu | – osvedčenie o odbornej príprave alebo – osvedčenia o odbornej spôsobilosti bezpečnostného poradcu | § 20 ods. 10 zákona č. 168/1996 Z. z. o cestnej doprave v znení neskorších predpisov § 36 ods. 1 písm. i) zákona č. 514/2009 Z. z. o doprave na dráhach § 5a ods. 4 zákona č. 338/2000 Z. z. |
 
