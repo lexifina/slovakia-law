@@ -120,6 +120,8 @@ Zákon č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplne
 
   - <sup>27c</sup>) § 8, § 10 až 12 a § 19 zákona č. 297/2008 Z. z. v znení neskorších predpisov.“.
 
+- 14. V § 52 ods. 5 druhá veta znie: „V zoznamoch sa uvedie meno, priezvisko, trvalý pobyt alebo obchodné meno alebo názov, sídlo, identifikačné číslo organizácie, ak jej bolo pridelené, identifikačné číslo pre daň alebo registračné číslo, druh registrácie, dátum registrácie a dátum, ku ktorému došlo k zmene druhu registrácie pre daň z pridanej hodnoty.“.
+
 - 15. V § 52 odsek 9 znie:
 
 - „(9)
@@ -139,6 +141,22 @@ Zákon č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplne
 - b)
 
 - obchodné meno alebo názov právnickej osoby, jej sídlo, identifikačné číslo organizácie, daňové identifikačné číslo, ak jej bolo pridelené, identifikačné číslo pre daň platiteľa dane z pridanej hodnoty, výška uplatneného nadmerného odpočtu, výška priznanej vlastnej daňovej povinnosti a zdaňovacie obdobie.
+
+- (13)
+
+- Finančné riaditeľstvo na svojom webovom sídle zverejňuje zoznam vybraných finančných inštitúcií, a to do konca prvého štvrťroka kalendárneho roka za predchádzajúci kalendárny rok na základe evidencie úhrad osobitného odvodu vybraných finančných inštitúcií. V zozname sa uvedie obchodné meno alebo názov vybranej finančnej inštitúcie, jej sídlo, identifikačné číslo organizácie, ak jej bolo pridelené, daňové identifikačné číslo, ak jej bolo pridelené, a výška uhradeného osobitného odvodu vybraných finančných inštitúcií za príslušný kalendárny rok.
+
+- (14)
+
+- Finančné riaditeľstvo na svojom webovom sídle zverejňuje zoznam regulovaných osôb,<sup>1d</sup>) a to do konca každého štvrťroka bežného roka na základe rozhodnutí o zúčtovaní osobitných odvodov z podnikania v regulovaných odvetviach, ktoré nadobudli právoplatnosť v predchádzajúcom štvrťroku bežného roka. V zozname sa uvedie
+
+- a)
+
+- meno a priezvisko fyzickej osoby, jej trvalý pobyt alebo miesto podnikania, ak je odlišné od trvalého pobytu, identifikačné číslo organizácie, ak jej bolo pridelené, daňové identifikačné číslo, ak jej bolo pridelené, súčet osobitných odvodov z podnikania v regulovaných odvetviach za všetky odvodové obdobia patriace do príslušného účtovného obdobia vypočítaný podľa osobitného predpisu,<sup>1d</sup>) dlžná suma nedoplatku zo zúčtovania týchto osobitných odvodov po lehote splatnosti a príslušné účtovné obdobie,
+
+- b)
+
+- obchodné meno alebo názov právnickej osoby, jej sídlo, identifikačné číslo organizácie, daňové identifikačné číslo, ak jej bolo pridelené, súčet osobitných odvodov z podnikania v regulovaných odvetviach za všetky odvodové obdobia patriace do príslušného účtovného obdobia vypočítaný podľa osobitného predpisu,<sup>1d</sup>) dlžná suma nedoplatku zo zúčtovania týchto osobitných odvodov po lehote splatnosti a príslušné účtovné obdobie.
 
 - (15)
 
