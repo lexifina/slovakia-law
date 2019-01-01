@@ -382,4 +382,10 @@ Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona �
 
 - (5)
 
-- Pokutu za porušenie povinností podľa § 24 písm. l) až o) nemožno uložiť, ak k porušeniu povinností podľa § 24 písm. l) až o) došlo pred 30. decembrom 2018.“.
+- Pokutu za porušenie povinností podľa § 24 písm. l) až o) nemožno uložiť, ak k porušeniu povinností podľa § 24 písm. l) až o) došlo pred 30. decembrom 2018.
+
+- § 38eo
+
+- Prechodné ustanovenie k úprave účinnej od 1. januára 2019
+
+- Od 1. januára 2019 do 31. decembra 2019 je sadzba poistného pre štát 3,20 % z vymeriavacieho základu.“.

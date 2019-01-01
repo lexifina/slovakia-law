@@ -12,6 +12,12 @@ Z. z., zákona č. 538/2005 Z. z., zákona č. 660/2005 Z. z., zákona č. 25/20
 
 - 2. V § 6 ods. 1 písm. b) sa vypúšťa tretí bod vrátane poznámky pod čiarou k odkazu 11ac.
 
+- 3. V § 6 ods. 1 písmeno i) znie:
+
+- „i)
+
+- vedie zoznam poistencov zaradených na dispenzarizáciu,“.
+
 - 4. V § 6 ods. 1 písm. l) sa vypúšťajú slová „na základe právoplatného rozhodnutia úradu“.
 
 - 5. V § 6 sa odsek 4 dopĺňa písmenom r), ktoré znie:
@@ -23,6 +29,16 @@ Z. z., zákona č. 538/2005 Z. z., zákona č. 660/2005 Z. z., zákona č. 25/20
   - Poznámka pod čiarou k odkazu 17c znie:
 
   - „<sup>17c</sup>) Príloha č. 2 k zákonu č. 577/2004 Z. z. v znení neskorších predpisov.“.
+
+- 6. V § 6 sa odsek 4 dopĺňa písmenom s), ktoré znie:
+
+- „s)
+
+- sprístupňovať poskytovateľovi zdravotnej starostlivosti výsledok spracovania finančného zúčtovania podľa § 8 ods. 1 a 3 elektronicky prostredníctvom internetového portálu alebo elektronickej podateľne; ak poskytovateľ zdravotnej starostlivosti nemá zriadený prístup na internetový portál alebo do elektronickej podateľne, zdravotná poisťovňa poskytne poskytovateľovi zdravotnej starostlivosti prihlasovacie údaje potrebné na tento prístup na účel kontroly výsledku spracovania finančného zúčtovania.“.
+
+- 7. V § 6 ods. 12 sa vypúšťa prvá a druhá veta.
+
+- 8. V § 7 ods. 20 prvej vete sa za slová „predpisom<sup>24aa</sup>)“ vkladajú tieto slová: „údajov o zaradení poistenca do zoznamu poistencov čakajúcich na poskytnutie plánovanej zdravotnej starostlivosti a údajov z návrhov na poskytnutie zdravotnej starostlivosti alebo lekárenskej starostlivosti, ktoré posudzuje zdravotná poisťovňa pred jej poskytnutím“.
 
 - 10. V § 9 ods. 7 a ods. 9 písm. b) sa slová „liekov a zdravotníckych pomôcok“ nahrádzajú slovami „liekov, zdravotníckych pomôcok a dietetických potravín“.
 
@@ -150,4 +166,10 @@ Z. z., zákona č. 538/2005 Z. z., zákona č. 660/2005 Z. z., zákona č. 25/20
 
 - (2)
 
-- Osoby ustanovené do funkcie podľa § 4 ods. 1 až 3 do 30. decembra 2018 sú povinné preukázať neexistenciu konfliktu záujmov do 15. februára 2019 spôsobom podľa § 4 ods. 4.“.
+- Osoby ustanovené do funkcie podľa § 4 ods. 1 až 3 do 30. decembra 2018 sú povinné preukázať neexistenciu konfliktu záujmov do 15. februára 2019 spôsobom podľa § 4 ods. 4.
+
+- § 86za
+
+- Prechodné ustanovenie k úpravám účinným od 1. januára 2019
+
+- Poistenci zaradení do dispenzarizácie podľa doterajších predpisov sa považujú za poistencov zaradených do dispenzarizácie podľa tohto zákona v znení účinnom od 1. januára 2019.“.
