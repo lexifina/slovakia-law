@@ -30,8 +30,54 @@ Z. z., zákona č. 266/2017 Z. z., zákona č. 279/2017 Z. z., zákona č. 63/20
 
 - invalidný výsluhový dôchodok podľa osobitného predpisu,<sup>2</sup>)“.
 
+- 16. V § 49 ods. 2 písm. d) sa za slovo ,,materské“ vkladajú slová ,,na to isté dieťa“.
+
+- 19. V § 57 ods. 4 sa za slová „poistenie z dôvodu“ vkladajú slová „dočasnej pracovnej neschopnosti,“ a na konci sa pripája táto veta: „Pravdepodobný denný vymeriavací základ podľa prvej vety na určenie sumy materského, na ktoré vznikne ďalší nárok poistencovi, ktorý po vzniku predchádzajúceho nároku na materské získal obdobie nemocenského poistenia len z dôvodu poberania materského alebo podľa § 49a, nesmie byť nižší ako najvyšší z denných vymeriavacích základov alebo pravdepodobných denných vymeriavacích základov, z ktorých boli určené sumy predchádzajúcich materských z toho istého nemocenského poistenia.“.
+
 - 42. V § 138 odsek 16 znie:
 
 - „(16)
 
 - Vymeriavací základ za obdobie uvedené v § 142 ods. 3 je mesačne najmenej vo výške 50 % jednej dvanástiny všeobecného vymeriavacieho základu za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, za ktorý sa poistné na dôchodkové poistenie dopláca, a mesačne najviac v sume maximálneho vymeriavacieho základu na platenie poistného na dôchodkové poistenie dobrovoľne dôchodkovo poistenou osobou platného v kalendárnom roku, za ktorý sa poistné na dôchodkové poistenie dopláca. Vymeriavací základ podľa prvej vety sa upraví podľa počtu dní, za ktoré sa poistné na dôchodkové poistenie dopláca. Vymeriavací základ pripadajúci na jeden deň sa zaokrúhľuje na najbližší eurocent nadol.“.
+
+- 60. V § 170 odsek 8 znie:
+
+- „(8)
+
+- Sociálna poisťovňa poskytuje na základe žiadosti zo svojho informačného systému bez súhlasu dotknutej osoby
+
+- a)
+
+- ministerstvu vnútra údaje potrebné na overenie
+
+- 1.
+
+- plnenia povinností žiadateľa o azyl a osoby, ktorej sa poskytla medzinárodná ochrana podľa osobitného predpisu,<sup>92ab</sup>)
+
+- 2.
+
+- rozhodných skutočností o nadobudnutí odbornej praxe podľa osobitného predpisu,<sup>92aba</sup>)
+
+- b)
+
+- okresnému úradu v sídle kraja údaje na overenie plnenia povinnosti pri prevádzkovaní živnosti prostredníctvom zodpovedného zástupcu podľa osobitného predpisu.<sup>92abb</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 92aba a 92abb znejú:
+
+  - „<sup>92aba</sup>) § 66b ods. 3 písm. a) a § 66h ods. 2 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
+  - <sup>92abb</sup>) § 11 ods. 1 zákona č. 455/1991 Zb. v znení neskorších predpisov.“.
+
+- 69. V § 212 ods. 4 sa slová „do troch dní od uloženia, posledný deň tejto lehoty“ nahrádzajú slovami „počas uloženia na pošte, deň vrátenia nedoručenej písomnosti organizačnej zložke Sociálnej poisťovne“.
+
+- 70. V § 212 ods. 5 sa slová „do troch dní od uloženia, posledný deň tejto lehoty“ nahrádzajú slovami „počas odbernej lehoty, deň vrátenia nedoručenej zásielky organizačnej zložke Sociálnej poisťovne“.
+
+- 102. V § 233 odsek 3 znie:
+
+- „(3)
+
+- Orgány inšpekcie práce, orgány štátnej banskej správy a ďalšie príslušné dozorné orgány podľa osobitných predpisov<sup>71</sup>) sú povinné oznámiť pobočke skutočnosti zistené pri výkone ich činnosti a poskytovať súčinnosť potrebnú na výkon sociálneho poistenia podľa tohto zákona.“.
+
+  - Poznámka pod čiarou k odkazu 71 znie:
+
+  - „<sup>71</sup>) Napríklad zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 513/2009 Z. z. o dráhach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
