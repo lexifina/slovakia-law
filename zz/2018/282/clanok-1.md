@@ -4,6 +4,50 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 
 Z. z., zákona č. 266/2017 Z. z., zákona č. 279/2017 Z. z., zákona č. 63/2018 Z. z., zákona č. 87/2018 Z. z., zákona č. 177/2018 Z. z. a zákona č. 191/2018 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 65a odsek 1 znie:
+
+- „(1)
+
+- Od 1. januára 2024 dôchodkový vek v príslušnom kalendárnom roku je súčet dôchodkového veku v kalendárnom roku, ktorý predchádza príslušnému kalendárnemu roku, a počtu kalendárnych mesiacov, ktorý sa určí ako súčin čísla 12 a rozdielu priemernej strednej dĺžky života zistenej za prvé referenčné obdobie a priemernej strednej dĺžky života zistenej za druhé referenčné obdobie. Takto určený počet kalendárnych mesiacov sa zaokrúhľuje na celé kalendárne mesiace. Dôchodkový vek upravený podľa prvej vety platí pre poistenca, ktorý v príslušnom kalendárnom roku prvýkrát dovŕši referenčný vek.“.
+
+- 2. V § 65a ods. 2 písm. c) sa slovo „sedem“ nahrádza slovom „dvanásť“.
+
+- 3. V § 65a ods. 2 písm. d) sa slovo „osem“ nahrádza slovom „trinásť“.
+
+- 4. V § 65a ods. 3 sa slovo „dní“ nahrádza slovami „kalendárnych mesiacov“, slovo „dňoch“ sa nahrádza slovami „kalendárnych mesiacoch“ a za slová „kalendárneho roka, ktorý“ sa vkladajú slová „päť rokov“.
+
+- 5. § 65a sa dopĺňa odsekom 5, ktorý znie:
+
+- „(5)
+
+- Dôchodkový vek poistenca, ktorý
+
+- a)
+
+- v roku 2019 dovŕši vek 62 rokov, je 62 rokov a 6 kalendárnych mesiacov,
+
+- b)
+
+- v roku 2020 dovŕši vek 62 rokov, je 62 rokov a 8 kalendárnych mesiacov,
+
+- c)
+
+- v roku 2021 dovŕši vek 62 rokov, je 62 rokov a 10 kalendárnych mesiacov,
+
+- d)
+
+- v roku 2022 dovŕši vek 63 rokov, je 63 rokov,
+
+- e)
+
+- v roku 2023 dovŕši vek 63 rokov, je 63 rokov a 2 kalendárne mesiace.“.
+
+- 6. § 65a sa dopĺňa odsekom 6, ktorý znie:
+
+- „(6)
+
+- Na určenie dôchodkového veku podľa odsekov 1 a 5 platí § 65 ods. 9 a 10 rovnako.“.
+
 - 7. Za § 293ec sa vkladajú § 293ed a 293ee, ktoré vrátane nadpisov znejú:
 
 - „§ 293ed
