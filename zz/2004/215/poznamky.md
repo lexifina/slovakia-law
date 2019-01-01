@@ -20,6 +20,10 @@
 
 - 10) Zákon č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
+- 10a) § 10 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
+- 10b) Zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov.
+
 - 11) § 89 ods. 11 Trestného zákona.
 
 - 12) Napríklad zákon č. 335/1991 Zb. o súdoch a sudcoch v znení neskorších predpisov, zákon č. 385/2000 Z. z. o sudcoch a prísediacich v znení neskorších predpisov, zákon č. 153/2001 Z. z. o prokuratúre v znení neskorších predpisov, zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení neskorších predpisov.
