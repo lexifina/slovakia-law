@@ -32,9 +32,15 @@
 
 - 14) Napríklad § 54 až 56 zákona č. 566/2001 Z. z. v znení neskorších predpisov, § 7 a 18 zákona č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov v znení zákona č. 129/2010 Z. z., § 27 zákona č. 203/2011 Z. z. o kolektívnom investovaní v znení zákona č. 206/2013 Z. z.
 
-- 15) § 8 zákona č. 311/1999 Z. z. o registri trestov v znení zákona č. 418/2002 Z. z.
+- 15) § 10 ods. 4 a 5 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
 
 - 15a) § 34b ods. 1 písm. a) až c) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 602/2003 Z. z.
+
+- 15aa) § 34a ods. 1 a 2 a § 34b zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
+
+- § 10 ods. 1, 5, 6, 7, 10 a 11 a § 12 zákona č. 330/2007 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 747/2004 Z. z. v znení neskorších predpisov.
 
 - 16) Zákon č. 455/1991 Zb. v znení neskorších predpisov.
 
