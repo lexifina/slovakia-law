@@ -702,89 +702,97 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - a) Návrh na registráciu |
 
-  - 1. politickej strany alebo politického hnutia ..... | 663,50 eura
+  - 1. politickej strany alebo politického hnutia | 663,50 eura
 
-  - 2. združenia občanov ..... | 66 eur
+  - 2. združenia občanov | 66 eur
 
-  - 3. nadácie ..... | 66 eur
+  - 3. nadácie | 66 eur
 
-  - 4. záujmového združenia právnických osôb ..... | 66 eur
+  - 4. záujmového združenia právnických osôb | 66 eur
 
-  - 5. pozemkového spoločenstva ..... | 65 eur
+  - 5. pozemkového spoločenstva | 65 eur
 
-  - 6. spoločenstva vlastníkov bytových a nebytových priestorov ..... | 33 eur
+  - 6. spoločenstva vlastníkov bytov a nebytových priestorov | 33 eur
 
-  - 7. neinvestičného fondu ..... | 66 eur
+  - 7. neinvestičného fondu | 66 eur
 
-  - 8. neziskovej organizácie poskytujúcej všeobecne prospešné služby ..... | 66 eur
+  - 8. neziskovej organizácie poskytujúcej všeobecne prospešné služby | 66 eur
 
-  - b) Zmena stanov alebo štatútu, alebo nadačnej listiny, alebo údajov zapísaných do registra |
+  - b) Zmena stanov alebo údajov zapísaných do registra politických strán a politických hnutí | 33 eur
 
-  - 1. politickej strany alebo politického hnutia ..... | 33 eur
+  - c) Zmena štatútu alebo údajov zapísaných do registra záujmových združení právnických osôb | 16,50 eura
 
-  - 2. združenia občanov ..... | 16,50 eura
+  - d) Zmena stanov alebo údajov zapísaných do registra pozemkových spoločenstiev | 16,50 eura
 
-  - 3. nadácie ..... | 16,50 eura
+  - e) Zmena stanov alebo údajov zapísaných do registra spoločenstiev vlastníkov bytov a nebytových priestorov | 13 eur
 
-  - 4. záujmového združenia právnických osôb ...... | 16,50 eura
+  - f) Zmena štatútu alebo údajov neziskovej organizácie poskytujúcej všeobecne prospešné služby zapísaných do registra mimovládnych neziskových organizácií | 16,50 eura
 
-  - 5. pozemkového spoločenstva ..... | 16 eur
+  - g) Zmena nadačnej listiny alebo údajov nadácie zapísaných do registra mimovládnych neziskových organizácií | 16,50 eura
 
-  - 6. spoločenstva vlastníkov bytových a nebytových priestorov ..... | 13 eur
+  - h) Zmena štatútu alebo údajov neinvestičného fondu zapísaných do registra mimovládnych neziskových organizácií | 16,50 eura
 
-  - 7. neinvestičného fondu ..... | 16,50 eura
+  - i) Zmena stanov alebo údajov združenia občanov zapísaných do registra mimovládnych neziskových organizácií | 16,50 eura
 
-  - 8. neziskovej organizácie poskytujúcej všeobecne prospešné služby ..... | 16,50 eura
+  - j) Oznámenie údajov o štatutárnom orgáne alebo členoch štatutárneho orgánu združenia občanov do registra mimovládnych neziskových organizácií | 16,50 eura
 
-  - c) Vyhotovenie stanov, nadačnej listiny alebo štatútu ako náhrady za stratené, zničené, poškodené alebo odcudzené stanovy, nadačnú listinu alebo štatút |
+  - k) Vyhotovenie stanov, zmluvy o pozemkovom spoločenstve, nadačnej listiny alebo štatútu ako náhrady za stratené, zničené, poškodené alebo odcudzené stanovy, zmluvu o pozemkovom spoločenstve, nadačnú listinu alebo štatút |
 
-  - 1. politickej strany alebo politického hnutia ..... | 33 eur
+  - 1. politickej strany alebo politického hnutia | 33 eur
 
-  - 2. združenia občanov ..... | 13 eur
+  - 2. združenia občanov | 13 eur
 
-  - 3. nadácie ..... | 16,50 eura
+  - 3. nadácie | 16,50 eura
 
-  - 4. záujmového združenia právnických osôb ..... | 16,50 eura
+  - 4. záujmového združenia právnických osôb | 16,50 eura
 
-  - 5. pozemkového spoločenstva ..... | 25 eur
+  - 5. pozemkového spoločenstva | 25 eur
 
-  - 6. spoločenstva vlastníkov bytových a nebytových priestorov ..... | 13 eur
+  - 6. spoločenstva vlastníkov bytov a nebytových priestorov | 13 eur
 
-  - 7. neinvestičného fondu ..... | 13 eur
+  - 7. neinvestičného fondu | 13 eur
 
-  - 8. neziskovej organizácie poskytujúcej všeobecne prospešné služby ..... | 16,50 eura
+  - 8. neziskovej organizácie poskytujúcej všeobecne prospešné služby | 16,50 eura
 
-  - d) Vyhotovenie výpisu z registra politických strán a politických hnutí, združení občanov, nadácií, záujmových združení právnických osôb, pozemkových spoločenstiev, spoločenstiev vlastníkov bytových a nebytových priestorov, neinvestičných fondov a neziskových organizácií poskytujúcich všeobecne prospešné služby ..... | 5 eur
+  - l) Vyhotovenie výpisu z registra politických strán a politických hnutí, záujmových združení právnických osôb, pozemkových spoločenstiev a spoločenstiev vlastníkov bytov a nebytových priestorov | 5 eur
 
-  - e) Vyhotovenie rozhodnutia ako náhrady za stratené, zničené, poškodené alebo odovzdané rozhodnutie o zápise do registra |
+  - m) Vyhotovenie výpisu z registra mimovládnych neziskových organizácií | 5 eur
 
-  - 1. neziskovej organizácie poskytujúcej všeobecne prospešné služby, neinvestičného fondu a záujmového združenia právnických osôb ..... | 16,50 eura
+  - n) Vyhotovenie rozhodnutia ako náhrady za stratené, zničené, poškodené alebo odovzdané rozhodnutie o zápise do registra |
 
-  - 2. pozemkového spoločenstva, spoločenstva vlastníkov bytových a nebytových priestorov ..... | 25 eur
+  - 1. neziskovej organizácie poskytujúcej všeobecne prospešné služby, neinvestičného fondu a záujmového združenia právnických osôb | 16,50 eura
 
-  - f) Vyhotovenie písomnej informácie z registra politických strán a politických hnutí, združení občanov, nadácií, záujmových združení právnických osôb, pozemkových spoločenstiev, spoločenstiev vlastníkov bytových a nebytových priestorov, neinvestičných fondov a neziskových organizácií poskytujúcich všeobecne prospešné služby ..... | 5 eur
+  - 2. pozemkového spoločenstva, spoločenstva vlastníkov bytov a nebytových priestorov | 25 eur
 
-  - g) Výmaz |
+  - o) Vyhotovenie písomnej informácie z registra politických strán a politických hnutí, mimovládnych neziskových organizácií, záujmových združení právnických osôb, pozemkových spoločenstiev, spoločenstiev vlastníkov bytov a nebytových priestorov | 5 eur
 
-  - 1. politickej strany alebo politického hnutia z registra politických strán a politických hnutí ..... | 33 eur
+  - p) Výmaz |
 
-  - 2. združenia občanov z registra združení občanov ..... | 16,50 eura
+  - 1. politickej strany alebo politického hnutia z registra politických strán a politických hnutí | 33 eur
 
-  - 3. nadácie z registra nadácií ..... | 33 eur
+  - 2. združenia občanov z registra mimovládnych neziskových organizácií | 16,50 eura
 
-  - 4. záujmového združenia právnických osôb z registra záujmových združení právnických osôb ..... | 33 eur
+  - 3. nadácie z registra mimovládnych neziskových organizácií | 33 eur
 
-  - 5. pozemkového spoločenstva z registra pozemkových spoločenstiev ..... | 35 eur
+  - 4. záujmového združenia právnických osôb z registra záujmových združení právnických osôb | 33 eur
 
-  - 6. spoločenstva vlastníkov bytových a nebytových priestorov z registra spoločenstiev vlastníkov bytových a nebytových priestorov ..... | 16,50 eura
+  - 5. pozemkového spoločenstva z registra pozemkových spoločenstiev | 35 eur
 
-  - 7. neinvestičného fondu z registra neinvestičných fondov ..... | 16,50 eura
+  - 6. spoločenstva vlastníkov bytov a nebytových priestorov z registra spoločenstiev vlastníkov bytov a nebytových priestorov | 16,50 eura
 
-  - 8. neziskovej organizácie poskytujúcej všeobecne prospešné služby z registra neziskových organizácií poskytujúcich všeobecne prospešné služby ..... | 33 eur
+  - 7. neinvestičného fondu z registra mimovládnych neziskových organizácií | 16,50 eura
 
-  - Poznámka Poplatok podľa písmena b) piateho bodu tejto položky sa nevyberie, ak ide o zmenu informatívneho údaju o listoch vlastníctva podľa zoznamu nehnuteľností, ktorá nastala v dôsledku prechodu práv a povinností k nehnuteľnostiam alebo v dôsledku zápisu rozhodnutia o schválení projektu pozemkových úpravy do katastra nehnuteľností. |
+  - 8. neziskovej organizácie poskytujúcej všeobecne prospešné služby z registra mimovládnych neziskových organizácií | 33 eur
 
-  - Oslobodenie Od poplatku podľa písmena b) tejto položky sú oslobodené nadácie, neinvestičné fondy a neziskové organizácie poskytujúce všeobecne prospešné služby pri zápise údajov o konečnom užívateľovi výhod alebo pri zmene zapísaných údajov o konečnom užívateľovi výhod. |
+  - q) Zápis údajov o zriadenej organizačnej jednotke združenia občanov oprávnenej konať vo svojom mene do registra mimovládnych neziskových organizácií | 66 eur
+
+  - r) Zmena údajov zapísanej organizačnej jednotky združenia občanov oprávnenej konať vo svojom mene v registri mimovládnych neziskových organizácií | 16,50 eura
+
+  - s) Výmaz údajov zapísanej organizačnej jednotky združenia občanov oprávnenej konať vo svojom mene z registra mimovládnych neziskových organizácií | 16,50 eura
+
+  - Oslobodenie 1. Od poplatkov podľa písmen f) až h) tejto položky sú oslobodené nadácie, neinvestičné fondy a neziskové organizácie poskytujúce všeobecne prospešné služby pri zápise údajov o konečnom užívateľovi výhod alebo pri zmene zapísaných údajov o konečnom užívateľovi výhod. 2. Od poplatkov podľa tejto položky sú oslobodené odborové organizácie a organizácie zamestnávateľov. |
+
+  - Poznámka 1. Poplatok podľa písmena d) tejto položky sa nevyberie, ak ide o zmenu informatívneho údaja o listoch vlastníctva podľa zoznamu nehnuteľností, ktorá nastala v dôsledku prechodu práv a povinností k nehnuteľnostiam alebo v dôsledku zápisu rozhodnutia o schválení projektu pozemkových úprav do katastra nehnuteľností. 2. Poplatok podľa písmena j) sa nevyberie, ak občianske združenie zašle Ministerstvu vnútra Slovenskej republiky písomne do 30. júna 2019 údaje o štatutárnom orgáne alebo členoch štatutárneho orgánu podľa § 20a ods. 1 zákona č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov. 3. Poplatok podľa písmen q) a r) sa nevyberie, ak občianske združenie, ktoré zriadilo organizačné jednotky konajúce vo svojom mene do 31. decembra 2018, zašle Ministerstvu vnútra Slovenskej republiky písomne do 31. decembra 2019 údaje o organizačných jednotkách podľa § 20a ods. 2 zákona č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov. |
 
     - Položka 34a
 
@@ -804,9 +812,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - a) Podanie žiadosti o povolenie zriadiť organizáciu s medzinárodným prvkom alebo o povolenie vyvíjať činnosť alebo mať sídlo takej organizácie na území Slovenskej republiky............................................... | 66 eur
 
-  - b) Zmena stanov, štatútu alebo štatutárneho zástupcu organizácie s medzinárodným prvkom.......................... | 16,50 eura
+  - b) Zmena stanov, štatútu alebo štatutárneho orgánu organizácie s medzinárodným prvkom.......................... | 16,50 eura
 
   - c) Vyhotovenie stanov alebo štatútu ako náhrady za stratené, zničené, poškodené alebo odcudzené stanovy alebo štatút organizácie s medzinárodným prvkom................................................................................... | 16,50 eura
+
+  - Poznámka Poplatok podľa písmena b) sa nevyberie, ak organizácia s medzinárodným prvkom zašle Ministerstvu vnútra Slovenskej republiky písomne do 30. júna 2019 údaje o štatutárnom orgáne alebo členoch štatutárneho orgánu podľa § 7a zákona č. 116/1985 Zb. o podmienkach činnosti organizácií s medzinárodným prvkom v Československej socialistickej republike. |
 
     - Položka 36
 
@@ -4351,6 +4361,10 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - aj) Vydanie rozhodnutia o udelení súhlasu na prevádzkovanie prekládkovej stanice komunálneho odpadu | 11 eur
 
   - ak) Vydanie rozhodnutia o udelení súhlasu na skladovanie výkopovej zeminy pre pôvodcu odpadov | 11 eur
+
+  - al) Vydanie rozhodnutia o udelení súhlasu na prevádzkovanie zariadenia na recykláciu lodí | 50 eur
+
+  - am) Vydanie rozhodnutia o udelení súhlasu na schválenie plánu na recykláciu lode | 20 eur
 
     - Položka 163
 
