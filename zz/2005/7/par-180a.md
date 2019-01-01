@@ -1,7 +1,31 @@
-# § 180a
+# § 180a Uspokojenie veriteľov v konkurze na majetok banky alebo pobočky zahraničnej banky
 
-Ak je úpadcom banka alebo pobočka zahraničnej banky, uspokoja sa z výťažku speňaženia majetku tvoriaceho všeobecnú podstatu, ktorý zvýšil po odpočítaní pohľadávok proti všeobecnej podstate, pred inými nezabezpečenými pohľadávkami pohľadávky z chránených vkladov v tomto poradí:
+(1) Ak je úpadcom banka alebo pobočka zahraničnej banky, uspokoja sa z výťažku speňaženia majetku tvoriaceho všeobecnú podstatu, ktorý zvýšil po uspokojení pohľadávok proti všeobecnej podstate, pred inými nezabezpečenými pohľadávkami pohľadávky z vkladov v tomto poradí:
 
-- a) pohľadávky Fondu ochrany vkladov v rozsahu náhrad vyplatených vkladateľom podľa osobitného predpisu<sup>32a</sup>) alebo v rozsahu prostriedkov poskytnutých na riešenie krízovej situácie podľa osobitného predpisu,<sup>32b</sup>)
+- a) pohľadávky z krytých vkladov<sup>32a</sup>) vrátane pohľadávok Fondu ochrany vkladov v rozsahu náhrad vyplatených vkladateľom podľa osobitného predpisu<sup>32b</sup>) alebo v rozsahu prostriedkov poskytnutých na riešenie krízovej situácie podľa osobitného predpisu,<sup>32c</sup>)
 
-- b) pohľadávky z chránených vkladov fyzických osôb, mikropodnikov, malých a stredných podnikov,<sup>32c</sup>) ktoré prevyšujú úroveň krytia podľa osobitného predpisu,<sup>32d</sup>) a pohľadávky z vkladov fyzických osôb, mikropodnikov, malých a stredných podnikov,<sup>32c</sup>) ktoré by boli považované za chránené vklady, ak by neboli vložené do pobočky banky umiestnenej v inom ako členskom štáte.
+- b) pohľadávky z chránených vkladov<sup>32a</sup>) fyzických osôb, mikropodnikov, malých a stredných podnikov,<sup>32d</sup>) ktoré prevyšujú úroveň krytia podľa osobitného predpisu,<sup>32e</sup>) a pohľadávky z vkladov fyzických osôb, mikropodnikov, malých a stredných podnikov, ktoré by boli považované za chránené vklady, ak by neboli vložené do pobočky banky umiestnenej v inom ako členskom štáte.
+
+(2)
+
+Ak je úpadcom banka alebo pobočka zahraničnej banky, uspokoja sa z výťažku speňaženia majetku tvoriaceho všeobecnú podstatu, ktorý zvýšil po uspokojení pohľadávok podľa odseku 1 a po uspokojení nezabezpečených pohľadávok podľa § 95 ods. 1, avšak pred uspokojením pohľadávok podľa § 95 ods. 2, zmluvných pokút a spriaznených pohľadávok podľa § 95 ods. 3 pohľadávky vyplývajúce z dlhových nástrojov,<sup>32f</sup>) ktoré spĺňajú tieto podmienky:
+
+a)
+
+ich pôvodná zmluvná splatnosť je najmenej jeden rok,
+
+b)
+
+neobsahujú žiadne vložené deriváty a samy nie sú derivátmi a
+
+c)
+
+v zmluvnej dokumentácii, a ak sa na dlhové nástroje vzťahuje povinnosť zverejniť prospekt, tak aj v prospekte sa výslovne odkazuje na nižšie postavenie v konkurze podľa tohto odseku.
+
+(3)
+
+Ak majú dlhové nástroje<sup>32f</sup>) premenlivý úrok odvodený od všeobecne používanej referenčnej sadzby alebo ak nie sú denominované v domácej mene emitenta a istina, splátka a úrok sú denominované v tej istej mene, nepovažujú sa za dlhové nástroje obsahujúce vložené deriváty na účely odseku 2 písm. b) len na základe uvedených charakteristík.
+
+(4)
+
+Ak je úpadcom banka alebo pobočka zahraničnej banky, tak z výťažku speňaženia majetku tvoriaceho všeobecnú podstatu po uspokojení všetkých ostatných pohľadávok vrátane podriadených pohľadávok sa uspokoja pohľadávky z cenných papierov, ktoré majú v emisných podmienkach uvedené, že ide o trvalý finančný nástroj bez povinnosti jeho vyrovnania, a je v nich uvedená skutočnosť, ktorá trvalo alebo dočasne znižuje hodnotu cenného papiera alebo umožňuje jeho konverziu na nástroje vlastného kapitálu Tier 1 podľa osobitného predpisu.<sup>32g</sup>)

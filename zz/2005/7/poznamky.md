@@ -142,13 +142,23 @@
 
 - § 107a zákona č. 566/2001 Z. z. v znení zákona č. 510/2002 Z. z.
 
-- 32a) § 11 ods. 1 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 32a) § 3 ods. 3 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 32b) § 13 ods. 4 písm. g) zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení neskorších predpisov.
+- 32b) § 11 ods. 1 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení neskorších predpisov.
 
-- 32c) Čl. 2 ods. 2 a príloha I nariadenia Komisie (EÚ) č. 651/2014 zo 17. júna 2014 o vyhlásení určitých kategórií pomoci za zlučiteľné s vnútorným trhom podľa článkov 107 a 108 zmluvy (Ú. v. EÚ L 187, 26. 6. 2014).
+- 32c) § 13 ods. 4 písm. g) zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení neskorších predpisov.
 
-- 32d) § 11 ods. 4 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení zákona č. 340/2003 Z. z.
+- 32d) § 2 písm. aj) zákona č. 371/2014 Z. z. v znení zákona č. 373/2018 Z. z.
+
+- 32e) § 9 ods. 2 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení neskorších predpisov.
+
+- 32f) § 2 písm. ai) zákona č. 371/2014 Z. z. v znení zákona č. 373/2018 Z. z.
+
+- 32g) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 575/2013 z 26. júna 2013 o prudenciálnych požiadavkách na úverové inštitúcie a investičné spoločnosti a o zmene nariadenia (EÚ) č. 648/2012
+
+- (Ú. v. EÚ L 176, 27. 6. 2013) v platnom znení.
+
+- Delegované nariadenie Komisie (EÚ) č. 241/2014 zo 7. januára 2014, ktorým sa dopĺňa nariadenie Európskeho parlamentu a Rady (EÚ) č. 575/2013, pokiaľ ide o regulačné technické predpisy týkajúce sa požiadaviek na vlastné zdroje inštitúcií (Ú. v. EÚ L 74, 14. 3. 2014) v platnom znení.
 
 - 33) § 67 ods. 10 až 13 zákona č. 483/2001 Z. z. v znení zákona č. 279/2007 Z. z.
 
