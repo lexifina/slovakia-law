@@ -26,7 +26,7 @@
 
 (10) Odvolacím orgánom je finančné riaditeľstvo; ak ide o rozhodnutie finančného riaditeľstva, je odvolacím orgánom prezident finančnej správy, ktorý rozhoduje na základe návrhu ním určenej osobitnej komisie.
 
-(11) Rozhodnutie, ktoré je právoplatné, môže z vlastného alebo iného podnetu preskúmať finančné riaditeľstvo; ak ide o rozhodnutie finančného riaditeľstva, prezident finančnej správy na základe návrhu ním určenej osobitnej komisie. Finančné riaditeľstvo nemôže mimo odvolacieho konania rozhodnutie zrušiť alebo zmeniť po uplynutí jedného roka od právoplatnosti napadnutého rozhodnutia.
+(11) Rozhodnutie, ktoré je právoplatné, môže z vlastného alebo iného podnetu preskúmať finančné riaditeľstvo; ak ide o rozhodnutie finančného riaditeľstva, prezident finančnej správy na základe návrhu ním určenej osobitnej komisie. Orgán príslušný na preskúmanie rozhodnutia mimo odvolacieho konania nemôže rozhodnutie zrušiť alebo zmeniť po uplynutí jedného roka od právoplatnosti napadnutého rozhodnutia.
 
 (12) Návrh na obnovu konania sa podáva v lehote troch mesiacov odo dňa, keď sa účastník konania preukázateľne dozvedel o dôvodoch obnovy konania.
 

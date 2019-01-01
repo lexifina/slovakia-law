@@ -6,21 +6,21 @@
 
 - a) § 16a písm. a) až f), j), s) a t) od 330 eur do 3 300 eur,
 
-- b) § 16a písm. g) až i), k), l), n), p) až r) a u) až x) od 100 eur do 3 300 eur; pokutu za správny delikt podľa § 16a písm. h) daňový úrad alebo colný úrad neuloží, ak daňovým úradom alebo colným úradom zistená celková suma vloženej hotovosti v elektronickej registračnej pokladnici alebo vo virtuálnej registračnej pokladnici okrem prijatej tržby podľa § 3 ods. 3 nepresiahne sumu 20 eur,
+- b) § 16a písm. g) až i), k), l), n), p) až r) a u) až x) od 100 eur do 3 300 eur; pokutu za správny delikt podľa § 16a písm. h) daňový úrad alebo colný úrad neuloží, ak daňovým úradom alebo colným úradom zistená celková suma vloženej hotovosti v elektronickej registračnej pokladnici alebo v pokladnici e-kasa klient okrem prijatej tržby podľa § 3 ods. 3 nepresiahne sumu 20 eur,
 
-- c) § 16a písm. m) od 20 eur do 100 eur pri druhom a ďalšom zistení porušenia; pri prvom zistení porušenia daňový úrad alebo colný úrad pokutu neuloží, ale podnikateľa vyzve na odstránenie nedostatkov pri označení tovaru alebo služby,
+- c) § 16a písm. m) od 20 eur do 100 eur pri druhom zistení porušenia; pri prvom zistení porušenia daňový úrad alebo colný úrad pokutu neuloží, ale podnikateľa vyzve na odstránenie nedostatkov pri označení tovaru alebo služby,
 
 - d) § 16a písm. o) od 50 eur do 330 eur,
 
 - e) § 16a písm. am), ap) a ar) od 2 000 eur do 10 000 eur,
 
-- f) § 16a písm. ao) od 10 000 eur do 40 000 eur.
+- f) § 16a písm. ao) od 2 000 eur do 40 000 eur.
 
 (2) Daňový úrad alebo colný úrad uloží pokutu pri každom ďalšom zistení porušenia podľa
 
 - a) § 16a písm. a) až f), j), s) a t) od 660 eur do 6 600 eur,
 
-- b) § 16a písm. g) až i), k), l), n), p) až r) a u) až x) od 200 eur do 6 600 eur; pokutu za správny delikt podľa § 16a písm. h) daňový úrad alebo colný úrad neuloží, ak daňovým úradom alebo colným úradom zistená celková suma vloženej hotovosti v elektronickej registračnej pokladnici alebo vo virtuálnej registračnej pokladnici okrem prijatej tržby podľa § 3 ods. 3 nepresiahne sumu 20 eur,
+- b) § 16a písm. g) až i), k), l), n), p) až r) a u) až x) od 200 eur do 6 600 eur; pokutu za správny delikt podľa § 16a písm. h) daňový úrad alebo colný úrad neuloží, ak daňovým úradom alebo colným úradom zistená celková suma vloženej hotovosti v elektronickej registračnej pokladnici alebo v pokladnici e-kasa klient okrem prijatej tržby podľa § 3 ods. 3 nepresiahne sumu 20 eur,
 
 - c) § 16a písm. m) od 40 eur do 200 eur,
 
@@ -40,11 +40,11 @@
 
 - b) každom ďalšom zistení porušenia podľa § 16a písm. a) až d), am), ap) a ar) uloží pokutu podľa odseku 2 písm. a) alebo písm. e) a podá návrh na zrušenie živnostenského oprávnenia k činnosti, pri ktorej došlo k porušeniu tohto zákona.<sup>18a</sup>)
 
-(7) Ak daňový úrad alebo colný úrad uloží pokutu na mieste rozhodnutím podľa odseku 6, uloží aj zákaz predávať tovar alebo poskytovať službu, na ktoré sa vzťahuje povinnosť používať elektronickú registračnú pokladnicu alebo virtuálnu registračnú pokladnicu na predajnom mieste, a to od okamihu odovzdania rozhodnutia osobe, s ktorou sa o zistení porušenia tohto zákona spísala zápisnica, najviac však na 72 hodín. Daňový úrad alebo colný úrad zákaz predávať tovar alebo poskytovať službu, na ktoré sa vzťahuje povinnosť používať elektronickú registračnú pokladnicu alebo virtuálnu registračnú pokladnicu na predajnom mieste, neuloží, ak by tým došlo k ohrozeniu života alebo zdravia osôb, ale predajné miesto na 72 hodín označí oznámením, v ktorom uvedie, že na tomto predajnom mieste došlo k porušeniu zákona o používaní elektronickej registračnej pokladnice. Proti rozhodnutiu možno podať odvolanie, ktoré nemá odkladný účinok. Ustanovenia prvej až tretej vety sa rovnako vzťahujú aj na uloženie pokuty a zákaz predávať tovar alebo poskytovať službu na predajnom mieste aj pri používaní virtuálnej registračnej pokladnice.
+(7) Ak daňový úrad alebo colný úrad uloží pokutu na mieste rozhodnutím podľa odseku 6, uloží aj zákaz predávať tovar alebo poskytovať službu, na ktoré sa vzťahuje povinnosť používať elektronickú registračnú pokladnicu alebo pokladnicu e-kasa klient na predajnom mieste, a to od okamihu odovzdania rozhodnutia osobe, s ktorou sa o zistení porušenia tohto zákona spísala zápisnica, najviac však na 72 hodín. Daňový úrad alebo colný úrad zákaz predávať tovar alebo poskytovať službu, na ktoré sa vzťahuje povinnosť používať elektronickú registračnú pokladnicu alebo pokladnicu e-kasa klient na predajnom mieste, neuloží, ak by tým došlo k ohrozeniu života alebo zdravia osôb, ale predajné miesto na 72 hodín označí oznámením, v ktorom uvedie, že na tomto predajnom mieste došlo k porušeniu zákona o používaní elektronickej registračnej pokladnice. Proti rozhodnutiu možno podať odvolanie, ktoré nemá odkladný účinok. Ustanovenia prvej až tretej vety sa rovnako vzťahujú aj na uloženie pokuty a zákaz predávať tovar alebo poskytovať službu na predajnom mieste aj pri používaní pokladnice e-kasa klient.
 
-(8) Ak podnikateľ nezaplatí pokutu podľa odseku 2 písm. a) alebo písm. e) za porušenie podľa § 16a písm. a) až d), am), ap) a ar) najneskôr v posledný deň lehoty splatnosti, nesmie predávať tovar alebo poskytovať službu, na ktoré sa vzťahuje povinnosť používať elektronickú registračnú pokladnicu alebo virtuálnu registračnú pokladnicu na predajnom mieste odo dňa nasledujúceho po uplynutí splatnosti pokuty; tento zákaz stráca účinky dňom zaplatenia pokuty alebo dňom právoplatnosti rozhodnutia, ktorým bolo zrušené rozhodnutie o uložení pokuty na mieste.
+(8) Ak podnikateľ nezaplatí pokutu podľa odseku 2 písm. a) alebo písm. e) za porušenie podľa § 16a písm. a) až d), am), ap) a ar) najneskôr v posledný deň lehoty splatnosti, nesmie predávať tovar alebo poskytovať službu, na ktoré sa vzťahuje povinnosť používať elektronickú registračnú pokladnicu alebo pokladnicu e-kasa klient na predajnom mieste odo dňa nasledujúceho po uplynutí splatnosti pokuty; tento zákaz stráca účinky dňom zaplatenia pokuty alebo dňom právoplatnosti rozhodnutia, ktorým bolo zrušené rozhodnutie o uložení pokuty na mieste.
 
-(9) Daňový úrad alebo colný úrad označí predajné miesto, na ktoré sa vzťahuje zákaz predávať tovar alebo poskytovať službu podľa odseku 7 alebo odseku 8, oznámením, v ktorom uvedie, že na tomto predajnom mieste je zákaz predaja tovaru alebo poskytovania služby, na ktoré sa vzťahuje povinnosť používať elektronickú registračnú pokladnicu alebo virtuálnu registračnú pokladnicu.
+(9) Daňový úrad alebo colný úrad označí predajné miesto, na ktoré sa vzťahuje zákaz predávať tovar alebo poskytovať službu podľa odseku 7 alebo odseku 8, oznámením, v ktorom uvedie, že na tomto predajnom mieste je zákaz predaja tovaru alebo poskytovania služby, na ktoré sa vzťahuje povinnosť používať elektronickú registračnú pokladnicu alebo pokladnicu e-kasa klient.
 
 (10) Ak podnikateľ poruší zákaz predávať tovar alebo poskytovať službu, na ktorú sa vzťahuje povinnosť používať elektronickú registračnú pokladnicu na predajnom mieste, daňový úrad alebo colný úrad uloží pokutu podľa odseku 1 písm. f) za porušenie podľa § 16a písm. ao) a po označení predajného miesta podľa odseku 9 podá návrh na zrušenie živnostenského oprávnenia k činnosti, pri ktorej došlo k porušeniu tohto zákona,<sup>18a</sup>) ak ešte nebol podaný.
 

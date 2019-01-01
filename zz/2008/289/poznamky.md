@@ -2,7 +2,7 @@
 
 - 2) Vyhláška Štatistického úradu Slovenskej republiky č. 306/2007 Z. z., ktorou sa vydáva Štatistická klasifikácia ekonomických činností.
 
-- 3) § 6 ods. 1 a 2 zákona č. 119/2010 Z. z. o obaloch a o zmene zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 3) § 52 ods. 9 a 10 zákona č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov.
 
 - 4) § 88 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov.
 
@@ -15,6 +15,8 @@
 - 8) § 2 ods. 3 a § 16 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov.
 
 - 9) § 829 až 841 Občianskeho zákonníka.
+
+- 9a) § 13 ods. 5 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
 
 - 10) Zákon č. 505/2009 Z. z. o akreditácii orgánov posudzovania zhody a o zmene a doplnení niektorých zákonov.
 
@@ -57,6 +59,10 @@
 - 18e) Napríklad § 10 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 198/2007 Z. z., § 29 ods. 1 písm. g) a § 30 ods. 1 písm. c) zákona č. 56/2012 Z. z.
 
 - 19) Zákon č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
+
+- 19a) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) (Ú. v. EÚ L 119, 4. 5. 2016), zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
+
+- 19b) Napríklad Trestný poriadok, Daňový poriadok.
 
 - 20) § 37 až 39 a § 44 až 47 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
 

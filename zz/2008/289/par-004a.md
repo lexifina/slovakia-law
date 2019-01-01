@@ -1,33 +1,49 @@
-# § 4a Požiadavky na virtuálnu registračnú pokladnicu
+# § 4a Požiadavky na pokladnicu e-kasa klient
 
-(1) Na účely plnenia povinnosti podľa § 3 ods. 1 možno používať len virtuálnu registračnú pokladnicu podľa § 2 písm. b).
+(1) Na účely plnenia povinnosti podľa § 3 ods. 1 možno používať len pokladnicu e-kasa klient podľa § 2 písm. b).
 
-(2) Virtuálna registračná pokladnica musí umožňovať
+(2) Pokladnica e-kasa klient musí spĺňať tieto požiadavky:
 
-- a) vytlačenie ochranného znaku a unikátneho identifikačného kódu pokladničného dokladu vygenerovaného virtuálnou registračnou pokladnicou len na pokladničnom doklade, a to až po vytlačení iných údajov uvedených v § 8 ods. 1, 2 a 7,
+- a) zobrazenie unikátneho identifikátora dokladu na pokladničnom doklade, doklade označenom slovami „NEPLATNÝ DOKLAD“, „VKLAD“ alebo „VÝBER“,
 
-- b) vytlačenie dokladov označených slovami "NEPLATNÝ DOKLAD" alebo "VKLAD" tak, aby tieto neobsahovali ochranný znak,
+- b) zobrazenie čitateľného QR kódu spracovateľného technickými zariadeniami, ktorého náležitosti zverejní finančné riaditeľstvo na svojom webovom sídle,
 
-- c) vytlačenie dokladu označeného slovami "NEPLATNÝ DOKLAD" tak, aby obsahoval v každom treťom riadku tohto dokladu slová "NEPLATNÝ DOKLAD",
+- c) vyhotovenie dokladu označeného slovami „NEPLATNÝ DOKLAD", „VKLAD“ alebo „VÝBER“ tak, aby obsahoval unikátny identifikátor dokladu,
 
-- d) evidenciu tržieb minimálne v dvoch rozdielnych menách,
+- d) vytlačenie dokladu označeného slovami „NEPLATNÝ DOKLAD" tak, aby obsahoval v každom treťom riadku tohto dokladu slová „NEPLATNÝ DOKLAD“,
 
-- e) vytlačenie všetkých znakov slovenskej abecedy a interpunkčných znamienok,
+- e) zobrazenie všetkých znakov slovenskej abecedy a interpunkčných znamienok,
 
 - f) vytlačenie pokladničného dokladu,
 
-- g) vyhotovenie a vytlačenie intervalovej uzávierky a prehľadovej uzávierky,
+- g) vytlačenie kópie pokladničného dokladu tak, aby neobsahoval unikátny identifikátor dokladu, QR kód, overovací kód podnikateľa a podpisový kód podnikateľa,
 
-- h) záznam údajov o sume vrátení tovaru, sume záporných položiek a sume poskytnutých zliav a záznam údajov o počte vrátení tovaru, počte záporných položiek a počte poskytnutých zliav,
+- h) zobrazenie slov „OVERTE DOKLAD POMOCOU QR KÓDU“ na pokladničnom doklade za QR kódom,
 
-- i) vytlačenie kópie originálu pokladničného dokladu tak, aby tento neobsahoval ochranný znak a ani unikátny identifikačný kód pokladničného dokladu vygenerovaný virtuálnou registračnou pokladnicou,
+- i) zobrazenie slov „OFF-LINE DOKLAD“ na pokladničnom doklade pred povinnými údajmi podľa § 8 ods. 9, ak bola prekročená hraničná doba odozvy,
 
-- j) vytlačenie kódu virtuálnej registračnej pokladnice na pokladničnom doklade a doklade podľa písmena b), na intervalovej uzávierke a prehľadovej uzávierke,
+- j) číslovanie pokladničných dokladov, dokladov označených slovami „NEPLATNÝ DOKLAD“, „VKLAD“ alebo „VÝBER“ sekvenčne v jednom rade pre každý kalendárny mesiac vzostupne od čísla jeden (ďalej len „poradové číslo“),
 
-- k) zmenu sadzby dane z pridanej hodnoty a zmenu meny,
+- k) uloženie dátovej správy pri prekročení hraničnej doby odozvy alebo pri postupe podľa § 3a ods. 3 v chránenom dátovom úložisku a jej dodatočné zaevidovanie v systéme e-kasa podľa § 3 ods. 1, 3 a 7 alebo jej zaslanie do systému e-kasa podľa § 3a ods. 3,
 
-- l) získať údaje potrebné na plnenie povinností vyplývajúcich z osobitných predpisov.<sup>13</sup>)
+- l) komunikáciu so systémom e-kasa za podmienok, ktoré zverejní finančné riaditeľstvo na svojom webovom sídle,
 
-(3) Tlačiareň, ktorá bude komunikovať s virtuálnou registračnou pokladnicou, musí umožňovať vytlačenie tlačových výstupov čitateľných po dobu piatich rokov od konca kalendárneho roka, v ktorom boli vyhotovené. Obsah alebo usporiadanie údajov výsledných výstupov vytvorených virtuálnou registračnou pokladnicou nie je možné ďalej doplňovať alebo upravovať.
+- m) uloženie dátových správ a ostatných údajov vytlačených alebo odoslaných on-line registračnou pokladnicou v chránenom dátovom úložisku a prístup k nim,
 
-(4) Používať iné klientske prostredie pre používanie virtuálnej registračnej pokladnice podnikateľom, okrem klientskeho prostredia podľa § 2 písm. b) druhého bodu, je zakázané.
+- n) uloženie autentifikačných údajov a identifikačných údajov v chránenom dátovom úložisku v štruktúre, ktorú zverejní finančné riaditeľstvo na svojom webovom sídle,
+
+- o) vyhotovenie pokladničného dokladu, dokladu označeného slovami „NEPLATNÝ DOKLAD“ „VKLAD“ alebo „VÝBER“ z on-line registračnej pokladnice, a to až po zaevidovaní dátovej správy v systéme e-kasa; to neplatí, ak sa prekročí hraničná doba odozvy,
+
+- p) elektronické zaslanie pokladničného dokladu vyhotoveného pokladnicou e-kasa klient kupujúcemu až po zaevidovaní dátovej správy v systéme e-kasa; to neplatí, ak sa prekročí hraničná doba odozvy,
+
+- q) zhodu údajov podľa § 8 ods. 2, 7 a 10 s údajmi zasielanými do systému e-kasa podľa § 8a,
+
+- r) zasielanie údajov podľa § 8a do systému e-kasa,
+
+- s) zobrazenie informácie pre podnikateľa o uplynutí platnosti autentifikačných údajov on-line registračnej pokladnice najneskôr 30 dní pred uplynutím tejto lehoty,
+
+- t) zasielanie jedinečného identifikátora pokladničného programu a chráneného dátového úložiska pri odoslaní každej dátovej správy.
+
+(3) Tlačiareň, ktorá bude komunikovať s pokladnicou e-kasa klient, musí umožňovať vytlačenie všetkých znakov slovenskej abecedy a interpunkčných znamienok a vytlačenie tlačových výstupov čitateľných po dobu piatich rokov od konca kalendárneho roka, v ktorom boli vyhotovené. Obsah alebo usporiadanie údajov výsledných výstupov vytvorených pokladnicou e-kasa klient nie je možné ďalej doplňovať alebo upravovať.
+
+(4) Používať iné klientske prostredie pre používanie virtuálnej registračnej pokladnice podnikateľom, okrem klientskeho prostredia podľa § 2 písm. d) druhého bodu, je zakázané.

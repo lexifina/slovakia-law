@@ -8,7 +8,7 @@
 
 (4) Výrobca, dovozca alebo distribútor elektronickej registračnej pokladnice je na výzvu a v lehote v nej určenej povinný Colnému úradu Bratislava poskytnúť pri technickej expertíze súčinnosť a všetky podklady a doklady nevyhnutné na vykonanie technickej expertízy.
 
-(5) Colný úrad alebo daňový úrad, ktorý elektronickú registračnú pokladnicu zabezpečil, vydá rozhodnutie o prepadnutí elektronickej registračnej pokladnice do 15 dní odo dňa doručenia výsledkov technickej expertízy podľa odseku 2, ktorej výsledky preukázali, že došlo k naplneniu niektorého z dôvodov zabezpečenia podľa odseku 1.
+(5) Colný úrad alebo daňový úrad, ktorý elektronickú registračnú pokladnicu zabezpečil, vydá rozhodnutie o prepadnutí elektronickej registračnej pokladnice do 30 dní odo dňa doručenia výsledkov technickej expertízy podľa odseku 2, ktorej výsledky preukázali, že došlo k naplneniu niektorého z dôvodov zabezpečenia podľa odseku 1.
 
 (6) Colný úrad alebo daňový úrad môže zničiť prepadnutú elektronickú registračnú pokladnicu najskôr po piatich rokoch odo dňa právoplatnosti rozhodnutia o prepadnutí elektronickej registračnej pokladnice.
 

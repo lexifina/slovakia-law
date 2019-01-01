@@ -10,6 +10,8 @@
 
 - d) § 16a písm. an) 2 000 eur,
 
+- e) § 16a písm. as) od 2 000 eur do 10 000 eur.
+
 (2) Daňový úrad alebo colný úrad uloží pokutu pri každom ďalšom zistení porušenia podľa
 
 - a) § 16a písm. y), aa) až af) a ah) až ak) od 200 eur do 6 600 eur,
@@ -20,17 +22,19 @@
 
 - d) § 16a písm. an) 4 000 eur,
 
+- e) § 16a písm. as) od 4 000 eur do 20 000 eur.
+
 (3) Pokutu podľa odseku 1 alebo odseku 2 ukladá ten daňový úrad alebo colný úrad, ktorý správny delikt zistil.
 
-(4) Spáchanie správnych deliktov podľa § 16a písm. al) a an) sa považuje za osobitne závažné porušenie tohto zákona.
+(4) Spáchanie správnych deliktov podľa § 16a písm. al), an) a as) sa považuje za osobitne závažné porušenie tohto zákona.
 
 (5) Daňový úrad alebo colný úrad
 
-- a) pri prvom opakovanom zistení porušenia podľa § 16a písm. al) a an) uloží pokutu podľa odseku 2 písm. c) alebo písm. d) a môže podať návrh na zrušenie živnostenského oprávnenia k činnosti, pri ktorej došlo k porušeniu tohto zákona,<sup>18a</sup>)
+- a) pri prvom opakovanom zistení porušenia podľa § 16a písm. al), an) a as) uloží pokutu podľa odseku 2 písm. c), d) alebo písm. e) a môže podať návrh na zrušenie živnostenského oprávnenia k činnosti, pri ktorej došlo k porušeniu tohto zákona,<sup>18a</sup>)
 
-- b) pri každom ďalšom zistení porušenia podľa § 16a písm. al) a an) uloží pokutu podľa odseku 2 písm. c) alebo písm. d) a podá návrh na zrušenie živnostenského oprávnenia k činnosti, pri ktorej došlo k porušeniu tohto zákona.<sup>18a</sup>)
+- b) pri každom ďalšom zistení porušenia podľa § 16a písm. al), an) a as) uloží pokutu podľa odseku 2 písm. c), d) alebo písm. e) a podá návrh na zrušenie živnostenského oprávnenia k činnosti, pri ktorej došlo k porušeniu tohto zákona.<sup>18a</sup>)
 
-(6) Daňový úrad a colný úrad sa o zistení porušenia podľa § 16a písm. y) až al) a an) vzájomne informujú.
+(6) Daňový úrad a colný úrad sa o zistení porušenia podľa § 16a písm. y) až al), an) a as) vzájomne informujú.
 
 (7) Pri ukladaní pokuty podľa odsekov 1 a 2 sa prihliada na závažnosť, trvanie a následky protiprávneho stavu.
 
