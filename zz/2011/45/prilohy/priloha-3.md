@@ -17,3 +17,5 @@ Príloha č. 3 k zákonu č. 45/2011 Z. z.
 - 7. Voda a atmosféra | Meteorologická služba Vodné stavby Zabezpečovanie pitnej vody | Ministerstvo životného prostredia Slovenskej republiky
 
 - 8. Zdravotníctvo | | Ministerstvo zdravotníctva Slovenskej republiky
+
+- 9. Financie | Bankovníctvo; tým nie sú dotknuté vylúčenia podľa osobitného predpisu o kybernetickej bezpečnosti.<sup>10</sup>) Finančné trhy; tým nie sú dotknuté vylúčenia podľa osobitného predpisu o kybernetickej bezpečnosti.<sup>10</sup>) Systémy riadenia verejných financií. | Ministerstvo financií Slovenskej republiky
