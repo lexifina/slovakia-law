@@ -4,7 +4,7 @@
 
 (2) Výkonný riaditeľ je štatutárnym orgánom strediska. Za výkonného riaditeľa môže byť zvolená bezúhonná osoba, ktorá má vysokoškolské vzdelanie druhého stupňa a je činná v oblasti ochrany ľudských práv alebo ochrany práv detí. Tá istá osoba môže byť zvolená za výkonného riaditeľa najviac v dvoch po sebe nasledujúcich funkčných obdobiach.
 
-(3) Za bezúhonnú osobu na účely tohto zákona sa považuje osoba, ktorá nebola právoplatne odsúdená za úmyselný trestný čin alebo za trestný čin, za ktorý jej bol uložený nepodmienečný trest odňatia slobody. Bezúhonnosť sa preukazuje výpisom z registra trestov<sup>5</sup>) nie starším ako tri mesiace.
+(3) Za bezúhonnú osobu na účely tohto zákona sa považuje osoba, ktorá nebola právoplatne odsúdená za úmyselný trestný čin alebo za trestný čin, za ktorý jej bol uložený nepodmienečný trest odňatia slobody. Bezúhonnosť sa preukazuje výpisom z registra trestov.<sup>5</sup>) Na účel preukázania bezúhonnosti osoba poskytne údaje potrebné na vyžiadanie výpisu z registra trestov.<sup>5</sup>) Údaje podľa tretej vety stredisko bezodkladne zašle v elektronickej podobe prostredníctvom elektronickej komunikácie Generálnej prokuratúre Slovenskej republiky na vydanie výpisu z registra trestov.
 
 (4) Výkonný riaditeľ zodpovedá správnej rade
 
