@@ -1,1 +1,1 @@
-Príloha č. 3 k vyhláške č. 250/2017 Z. z. [príloha č. 3](../assets/0da43a6aede7fce3f74c087a619768626fc9e45e4832a0b1d3bfb02834279245.pdf)
+Príloha č. 3 k vyhláške č. 250/2017 Z. z. [Príloha č. 3 k vyhláške č. 250/2017 Z. z.](../assets/a2bcd353479eaf3b794a8f5499a06e9183b32adcd40b40622ae68644ed045956.pdf)
