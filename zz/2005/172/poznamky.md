@@ -32,6 +32,8 @@
 
 - 12b) § 8a ods. 4 zákona č. 523/2004 Z. z. v znení zákona č. 383/2008 Z. z.
 
+- 12ba) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
 - 12c) Napríklad čl. 107 a 108 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 83, 30. 3. 2010), nariadenie Komisie (ES) č. 800/2008 zo 6. augusta 2008 o vyhlásení určitých kategórií pomoci za zlučiteľné so spoločným trhom podľa článkov 87 a 88 zmluvy (Všeobecné nariadenie o skupinových výnimkách) (Ú. v. EÚ L 214, 9. 8. 2008).
 
 - 12d) Zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.

@@ -4,7 +4,7 @@
 
 (2) Odborným hodnotiteľským orgánom ministerstva školstva, ktorý vykonáva hodnotenie spôsobilosti, je hodnotiteľská komisia, ktorá sa skladá z predsedu, podpredsedu a ďalších členov (ďalej len „člen komisie“), ktorých vymenúva a odvoláva minister školstva na základe návrhov ústredných orgánov, v ktorých zriaďovateľskej pôsobnosti alebo vecnej pôsobnosti sú právnické osoby podľa § 7 písm. a) a b) uskutočňujúce výskum a vývoj, na základe návrhov orgánov reprezentácie vysokých škôl, Slovenskej akadémie vied a reprezentatívnych združení zamestnávateľov.
 
-(3) Hodnotiteľská komisia má 15 členov, z ktorých desať členov sú zástupcovia aplikovaného výskumu, zástupcovia vývoja a zástupcovia podnikateľskej sféry. Za člena hodnotiteľskej komisie môže byť vymenovaná len bezúhonná fyzická osoba podľa § 14 ods. 3. Bezúhonnosť sa preukazuje výpisom z registra trestov, nie starším ako tri mesiace.
+(3) Hodnotiteľská komisia má 15 členov, z ktorých desať členov sú zástupcovia aplikovaného výskumu, zástupcovia vývoja a zástupcovia podnikateľskej sféry. Za člena hodnotiteľskej komisie môže byť vymenovaná len bezúhonná fyzická osoba podľa § 14 ods. 3. Bezúhonnosť sa preukazuje výpisom z registra trestov. Na účel preukázania bezúhonnosti poskytne fyzická osoba údaje potrebné na vyžiadanie výpisu z registra trestov.<sup>12ba</sup>) Údaje podľa štvrtej vety ministerstvo bezodkladne zašle v elektronickej podobe prostredníctvom elektronickej komunikácie Generálnej prokuratúre Slovenskej republiky na vydanie výpisu z registra trestov.
 
 (4) Funkčné obdobie člena hodnotiteľskej komisie je šesťročné. Na člena hodnotiteľskej komisie sa primerane vzťahuje § 27 ods. 1 a 3. Na zánik členstva v hodnotiteľskej komisii sa primerane vzťahuje § 14 ods. 6.
 
