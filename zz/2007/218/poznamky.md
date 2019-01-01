@@ -26,6 +26,8 @@
 
 - 10) Dohovor o zákaze vývoja, výroby a hromadenia zásob bakteriologických (biologických) a toxínových zbraní a o ich zničení (vyhláška ministra zahraničných vecí č. 96/1975 Zb.).
 
+- 10a) § 13 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 11) § 3 ods. 1 zákona č. 126/2006 Z. z.
 
 - 12) § 10 ods. 4 písm. a) zákona č. 126/2006 Z. z.
