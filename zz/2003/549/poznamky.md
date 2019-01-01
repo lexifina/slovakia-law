@@ -6,6 +6,8 @@
 
 - 4) Zákon č. 311/1999 Zb. o registri trestov v znení neskorších predpisov.
 
+- 4a) § 13 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
+
 - 5) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
 
 - 6) § 26 zákona č. 335/1991 Zb. o súdoch a sudcoch v znení neskorších predpisov.
