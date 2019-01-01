@@ -50,6 +50,8 @@
 
 - 10a) § 29 a 37 zákona č. 24/2006 Z. z. v znení neskorších predpisov.
 
+- 10b) § 10 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
 - 10c) § 60 ods. 3 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
 - 11) § 66, 76, 83 a 84 zákona č. 50/1976 Zb. v znení neskorších predpisov.
