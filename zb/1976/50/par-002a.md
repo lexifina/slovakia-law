@@ -34,4 +34,4 @@
 
 - g) po uplynutí 10 rokov od posledného overenia odbornej spôsobilosti nemá overenú odbornú spôsobilosť podľa odseku 5.
 
-(8) Bezúhonným na účely tohto zákona je ten, kto nebol právoplatne odsúdený za úmyselný trestný čin alebo za trestný čin spáchaný v súvislosti so zabezpečením obstarávania územnoplánovacích podkladov alebo územnoplánovacej dokumentácie. Bezúhonnosť sa preukazuje výpisom z registra trestov nie starším ako 3 mesiace.
+(8) Bezúhonným na účely tohto zákona je ten, kto nebol právoplatne odsúdený za úmyselný trestný čin alebo za trestný čin spáchaný v súvislosti so zabezpečením obstarávania územnoplánovacích podkladov alebo územnoplánovacej dokumentácie. Bezúhonnosť sa preukazuje výpisom z registra trestov. Na účel preukázania bezúhonnosti poskytne fyzická osoba údaje potrebné na vyžiadanie výpisu z registra trestov.<sup>1ca</sup>) Údaje podľa tretej vety ministerstvo bezodkladne zašle v elektronickej podobe prostredníctvom elektronickej komunikácie Generálnej prokuratúre Slovenskej republiky na vydanie výpisu z registra trestov.
