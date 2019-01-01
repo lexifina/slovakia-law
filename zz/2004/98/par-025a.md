@@ -1,6 +1,6 @@
 # § 25a Obchodník s vybraným minerálnym olejom
 
-(1) Osoba, ktorá chce na daňovom území v rámci podnikania obchodovať s minerálnym olejom podľa § 4 ods. 2, na ktorý nie je ustanovená sadzba dane, minerálnym olejom podľa § 4 ods. 7 písm. e), minerálnym olejom podľa § 6 ods. 1 písm. e) a g) alebo tovarom, ktorý sa svojím zložením a vlastnosťami približuje k minerálnemu oleju a mohol by byť použitý ako pohonná látka, palivo, prísada do pohonnej látky alebo by bol na tieto účely ponúkaný (ďalej len „vybraný minerálny olej“), a ak je tento vybraný minerálny olej prepravovaný voľne, automobilovými cisternami, železničnými cisternami alebo v obaloch väčších ako 150 litrov, okrem vybraného minerálneho oleja kódu kombinovanej nomenklatúry 2710 19 75 až 2710 19 83 a 2710 19 87, musí požiadať colný úrad o vydanie povolenia na obchodovanie s vybraným minerálnym olejom (ďalej len „povolenie na obchodovanie“). Osoba, ktorá chce na daňovom území v rámci podnikania obchodovať s vybraným minerálnym olejom kódu kombinovanej nomenklatúry 2710 19 75 až 2710 19 83 a 2710 19 87, musí požiadať colný úrad o vydanie povolenia na obchodovanie, len ak je tento vybraný minerálny olej prepravovaný voľne, automobilovými cisternami, železničnými cisternami alebo v obaloch väčších ako 230 litrov.
+(1) Osoba, ktorá chce na daňovom území v rámci podnikania obchodovať s minerálnym olejom podľa § 4 ods. 2, na ktorý nie je ustanovená sadzba dane, minerálnym olejom podľa § 6 ods. 1 písm. e) a g) alebo tovarom, ktorý sa svojím zložením a vlastnosťami približuje k minerálnemu oleju a mohol by byť použitý ako pohonná látka, palivo, prísada do pohonnej látky alebo by bol na tieto účely ponúkaný (ďalej len „vybraný minerálny olej“), a ak je tento vybraný minerálny olej prepravovaný voľne, automobilovými cisternami, železničnými cisternami alebo v obaloch väčších ako 150 litrov, okrem vybraného minerálneho oleja kódu kombinovanej nomenklatúry 2710 19 75 až 2710 19 83 a 2710 19 87, musí požiadať colný úrad o vydanie povolenia na obchodovanie s vybraným minerálnym olejom (ďalej len „povolenie na obchodovanie“). Osoba, ktorá chce na daňovom území v rámci podnikania obchodovať s vybraným minerálnym olejom kódu kombinovanej nomenklatúry 2710 19 75 až 2710 19 83 a 2710 19 87, musí požiadať colný úrad o vydanie povolenia na obchodovanie, len ak je tento vybraný minerálny olej prepravovaný voľne, automobilovými cisternami, železničnými cisternami alebo v obaloch väčších ako 230 litrov.
 
 (2) Na účely tohto zákona sa za obchodovanie v rámci podnikania s vybraným minerálnym olejom na daňovom území považuje každé
 
@@ -32,11 +32,11 @@
 
 (8) Colný úrad pred vydaním povolenia na obchodovanie alebo vydaním odberného poukazu podľa odseku 4 preverí skutočnosti a údaje v žiadosti podľa odseku 5 a v prílohách podľa odseku 6. Ak sú tieto skutočnosti a údaje pravdivé, colný úrad vydá žiadateľovi podľa odseku 1 povolenie na obchodovanie alebo žiadateľovi podľa odseku 4 odberný poukaz do 30 dní odo dňa podania tejto žiadosti. Obchodovať s vybraným minerálnym olejom je na daňovom území možné len na základe povolenia na obchodovanie vydaného colným úradom.
 
-(9) Na vydanie odberného poukazu, jeho používanie a odňatie, na vyradenie z evidencie, ako aj nakladanie s daňovo zvýhodneným minerálnym olejom podľa § 11 ods. 2 písm. b) sa použije § 11 ods. 5, 7 až 9 a 11 až 13 primerane.
+(9) Na vydanie odberného poukazu, jeho používanie a odňatie, na vyradenie z evidencie, ako aj nakladanie s daňovo zvýhodneným minerálnym olejom podľa § 11 ods. 2 písm. b) sa použije § 11 ods. 5, 7 až 9 a 11 až 14 primerane.
 
 (10) Držiteľ povolenia na obchodovanie je povinný
 
-- a) oznámiť colnému úradu každú zmenu skutočností a údajov podľa odseku 5 písm. a) do 30 dní odo dňa jej vzniku, podľa odseku 5 písm. b) a odseku 6 do 15 dní odo dňa jej vzniku,
+- a) oznámiť colnému úradu každú zmenu skutočností a údajov podľa odseku 5 písm. a) do 30 dní odo dňa jej vzniku, podľa odseku 5 písm. b) a c) a odseku 6 do 15 dní odo dňa jej vzniku,
 
 - b) predávať a dodávať vybraný minerálny olej na daňovom území len držiteľovi povolenia na obchodovanie alebo registrovanej osobe,
 
@@ -68,6 +68,6 @@
 
 (15) Ustanovenia odsekov 1 až 14 sa nevzťahujú na osobu, ktorá obchoduje s
 
-- a) biogénnou látkou podľa § 4 ods. 7 písm. b) určenou výhradne na potravinárske účely,
+- a) biogénnou látkou podľa § 4 ods. 7 písm. b) určenou výhradne na potravinárske účely alebo na iné ako potravinárske účely v balení s objemom 1 000 l a menej,
 
 - b) vybraným minerálnym olejom v obaloch menších ako 150 litrov okrem vybraného minerálneho oleja kódu kombinovanej nomenklatúry 2710 19 75 až 2710 19 83 a 2710 19 87 a vybraným minerálnym olejom kódu kombinovanej nomenklatúry 2710 19 75 až 2710 19 83 a 2710 19 87 v obaloch menších ako 230 litrov.

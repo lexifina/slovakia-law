@@ -34,7 +34,7 @@
 
 - a) má živnostenské oprávnenie na obchodnú živnosť<sup>20f</sup>) a má zámer v rámci podnikania nakupovať a predávať minerálny olej uvedený v § 6 ods. 1 písm. a), d) a f) alebo § 7 ods. 1 a 2,
 
-- b) má ročný objem predaja minerálneho oleja uvedeného v § 6 ods. 1 písm. a) a d) alebo v § 7 ods. 1 a 2 minimálne 30 000 000 l alebo minerálneho oleja uvedeného v § 6 ods. 1 písm. f) minimálne 150 000 kg, ak je žiadateľom o vydanie povolenia na distribúciu podľa odseku 1; to neplatí, ak je žiadateľom o vydanie povolenia na distribúciu osoba, ktorá dodáva len minerálny olej podľa § 6 ods. 1 písm. d) užívateľskému podniku podľa § 11 na účely oslobodené od dane podľa § 10 ods. 1 písm. a),
+- b) má ročný objem predaja minerálneho oleja uvedeného v § 6 ods. 1 písm. a) a d) alebo v § 7 ods. 1 a 2 minimálne 10 000 000 l alebo minerálneho oleja uvedeného v § 6 ods. 1 písm. f) minimálne 150 000 kg, ak je žiadateľom o vydanie povolenia na distribúciu podľa odseku 1; to neplatí, ak je žiadateľom o vydanie povolenia na distribúciu osoba, ktorá dodáva len minerálny olej podľa § 6 ods. 1 písm. d) užívateľskému podniku podľa § 11 na účely oslobodené od dane podľa § 10 ods. 1 písm. a),
 
 - c) má splatené vklady do základného imania v minimálnej výške 500 000 eur, ak je právnickou osobou alebo nakupuje a predáva v rámci podnikania minerálny olej uvedený v § 6 ods. 1 písm. a) a d) alebo v § 7 ods. 1 a 2 minimálne jeden rok pred podaním žiadosti o vydanie povolenia na distribúciu, ak je fyzickou osobou; to platí, ak žiadateľ o vydanie povolenia na distribúciu v čase podania žiadosti o vydanie povolenia na distribúciu nedosahuje ročný objem predaja minerálneho oleja uvedeného v písmene b),
 
@@ -96,7 +96,7 @@
 
 - g) oznámiť colnému úradu každú zmenu skutočností a údajov podľa odseku 3 písm. a) do 30 dní odo dňa ich vzniku, každú zmenu údajov podľa odseku 3 písm. b) najneskôr 15 dní pred začatím distribúcie minerálneho oleja a každú zmenu údajov podľa odseku 3 písm. c) do 15 dní odo dňa ich vzniku,
 
-- h) spĺňať podmienky podľa odseku 7 písm. a) až f) a h) a i) počas celého obdobia platnosti povolenia na distribúciu,
+- h) spĺňať podmienky podľa odseku 7 písm. a), b), d) až i) počas celého obdobia platnosti povolenia na distribúciu, pričom ak v čase podania žiadosti o vydanie povolenia na distribúciu preukázal splnenie podmienky podľa odseku 7 písm. c), po uplynutí jedného roka odo dňa právoplatnosti povolenia na distribúciu musí preukázať splnenie podmienky podľa odseku 7 písm. b),
 
 - i) spĺňať podmienky podľa odseku 8 počas celého obdobia platnosti povolenia na distribúciu, ak má skladovacie zariadenie na skladovanie minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2.
 
@@ -112,7 +112,7 @@
 
 - e) oznámiť colnému úradu každú zmenu skutočností a údajov podľa odseku 6 písm. a) do 30 dní odo dňa ich vzniku, každú zmenu údajov podľa odseku 6 písm. b) najneskôr 15 dní pred začatím predaja minerálneho oleja a každú zmenu údajov podľa odseku 6 písm. c) a d) do 15 dní odo dňa ich vzniku,
 
-- f) spĺňať podmienky podľa odsekov 7 a 8 počas celého obdobia platnosti povolenia na predaj,
+- f) spĺňať podmienky podľa odseku 7 písm. a), d) až i) a odseku 8 počas celého obdobia platnosti povolenia na predaj,
 
 - g) vydávať minerálny olej uvedený v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 na konečnú spotrebu len prostredníctvom výdajného stojana na pohonné látky okrem výdaja tohto minerálneho oleja v uzavretých spotrebiteľských baleniach na konečnú spotrebu.
 
@@ -142,7 +142,7 @@
 
 (19) Colný úrad vyradí spotrebiteľa pohonných látok z evidencie spotrebiteľov pohonných látok, ak
 
-- a) spotrebiteľ pohonných látok podal žiadosť o výmaz z obchodného registra alebo z iného obdobného registra, podal žiadosť o zrušenie živnostenského oprávnenia, oznámil ukončenie podnikania alebo bol zrušený, ak nebol zriadený alebo založený na podnikateľské účely,
+- a) spotrebiteľ pohonných látok podal žiadosť o výmaz z obchodného registra alebo z iného obdobného registra, podal žiadosť o zrušenie živnostenského oprávnenia alebo oznámil ukončenie podnikania,
 
 - b) spotrebiteľom pohonných látok je fyzická osoba a táto zomrela alebo nadobudlo právoplatnosť rozhodnutie súdu o vyhlásení tejto fyzickej osoby za mŕtvu,
 
