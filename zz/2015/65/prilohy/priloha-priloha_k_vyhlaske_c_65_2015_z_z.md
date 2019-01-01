@@ -22,6 +22,8 @@ Príloha k vyhláške č. 65/2015 Z. z.
 
     - i) 9245 M ochrana osôb a majetku,
 
+    - j) študijné odbory a učebné odbory v strednej športovej škole,
+
     - k) študijné odbory v konzervatóriu,
 
     - m) skupina študijných odborov 82 Umenie a umeleckoremeselná tvorba I,
