@@ -8,4 +8,4 @@
 
 - 4) Zákon č. 283/2002 Z. z. o cestovných náhradách.
 
-- 5) Zákon č. 311/1999 Z. z. o registri trestov v znení neskorších predpisov.
+- 5) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
