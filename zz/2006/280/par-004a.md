@@ -28,7 +28,7 @@
 
 - e) údaje o kontrolnom systéme na sledovanie súladu výučby a výcviku s plánom podľa písmena a),
 
-- f) výpis z registra trestov žiadateľa a štatutárneho orgánu nie starší ako tri mesiace,
+- f) údaje žiadateľa, štatutárneho orgánu alebo členov štatutárneho orgánu žiadateľa potrebné na vyžiadanie výpisu z registra trestov,<sup>5d</sup>) a ak ide o cudzinca, výpis z registra trestov alebo obdobný doklad vydaný štátom, ktorého je občanom, nie starší ako tri mesiace,
 
 - g) meno a priezvisko osoby, ktorá je zodpovedným zástupcom školiaceho strediska.
 
