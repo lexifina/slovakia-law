@@ -12,11 +12,7 @@
 
 - 6) Napríklad zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 8/2005 Z. z. o správcoch a o zmene a doplnení niektorých zákonov a zákon č. 15/2005 Z. z. o ochrane druhov voľne žijúcich živočíchov a voľne rastúcich rastlín reguláciou obchodu s nimi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 6a) § 15c ods. 1 zákona č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov.
-
-- § 38 ods. 5 zákona č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
-
-- § 3 ods. 4 zákona č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov.
+- 6a) Napríklad § 15c ods. 1 zákona Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov, § 3 ods. 4 zákona č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov, § 38 ods. 5 zákona č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov, zákon č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratívnej záťaže využívaním informačných systémov verejnej správy a o zmene a doplnení niektorých zákonov (zákon proti byrokracii).
 
 - 7) Zákon č. 473/2005 Z. z. o poskytovaní služieb v oblasti súkromnej bezpečnosti a o zmene a doplnení niektorých zákonov (zákon o súkromnej bezpečnosti).
 
@@ -41,6 +37,8 @@
 - 15a) § 24 ods. 2 zákona č. 274/2017 o obetiach trestných činov a o zmene a doplnení niektorých zákonov.
 
 - 16) Zákon Národnej rady Slovenskej republiky č. 40/1993 Z. z. o štátnom občianstve Slovenskej republiky v znení neskorších predpisov.
+
+- 16a) Zákon č. 139/1998 Z. z. o omamných látkach, psychotropných látkach a prípravkoch v znení neskorších predpisov.
 
 - 17) § 11 ods. 1 a § 13 ods. 1 zákona Národnej rady Slovenskej republiky č. 38/1993 Z. z. o organizácii Ústavného súdu Slovenskej republiky, o konaní pred ním a o postavení jeho sudcov v znení neskorších predpisov.
 
@@ -76,13 +74,15 @@
 
 - 29c) § 17 ods. 1 a 3 zákona č. 218/2007 Z. z.
 
-- 31) § 14 zákona č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov.
-
 - 32) § 13 ods. 4, § 17 ods. 1 písm. a) a ods. 2 a § 63 ods. 1 písm. c) zákona č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov.
 
 - 33) § 16 a 30 zákona č. 190/2003 Z. z. o strelných zbraniach a strelive a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 33a) Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
+
+- 33aa) Čl. 141a ods. 5 Ústavy Slovenskej republiky.
+
+- § 27g zákona č. 185/2002 Z. z. v znení neskorších predpisov.
 
 - 33b) Čl. 13 Európskeho dohovoru o vzájomnej pomoci v trestných veciach (oznámenie č. 550/1992 Zb.).
 
