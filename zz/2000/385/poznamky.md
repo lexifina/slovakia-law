@@ -26,6 +26,8 @@
 
 - 5a) Zákon č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 5aa) § 13 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
+
 - 5b) Zákon č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov.
 
 - 5c) Zákon č. 548/2003 Z. z. o Justičnej akadémii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
