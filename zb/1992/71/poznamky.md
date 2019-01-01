@@ -10,7 +10,7 @@
 
 - 2) § 5 zákona č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov.
 
-- 3) § 148a zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 3) § 181 zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 315/2016 Z. z.
 
 - 3a) § 11 zákona č. 136/2010 Z. z. o službách na vnútornom trhu a o zmene a doplnení niektorých zákonov.
 

@@ -102,13 +102,7 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Položka 9a |
 
-- Za konanie |
-
-- a) vo veciach určenia neplatnosti zmluvy alebo rámcovej dohody podľa osobitného predpisu<sup>3</sup>) | 15 000 eur
-
-- b) vo veciach určenia neplatnosti zmluvy alebo rámcovej dohody podľa osobitného predpisu,<sup>3</sup>) ak ide o zákazku na uskutočnenie stavebných prác | 100 000 eur
-
-- c) vo veciach určenia neplatnosti koncesnej zmluvy na práce podľa osobitného predpisu<sup>3</sup>) | 100 000 eur
+- Za konanie vo veciach určenia neplatnosti zmluvy, koncesnej zmluvy alebo rámcovej dohody podľa osobitného predpisu<sup>3</sup>) | 0,1 % z predpokladanej hodnoty zákazky alebo koncesie, najmenej však 2 000 eur a najviac 50 000 eur. Ak predpokladaná hodnota zákazky alebo koncesie nie je ustanovená alebo ak ide o zmenu zmluvy, koncesnej zmluvy alebo rámcovej dohody, výška poplatku je 5 000 eur.
 
 - Položka 10 |
 
