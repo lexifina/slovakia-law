@@ -24,6 +24,8 @@
 
 - 9ab) § 135c ods. 11 zákona č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení zákona č. 292/2017 Z. z.
 
+- 9ac) § 6 ods. 3 zákona č. 329/2018 Z. z. o poplatkoch za uloženie odpadov a o zmene a doplnení zákona č. 587/2004 Z. z. o Environmentálnom fonde a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 10) § 21 ods. 4 zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 11) § 41 ods. 1 zákona č. 364/2004 Z. z.
@@ -44,6 +46,10 @@
 
 - 11g) §18 vyhlášky Ministerstva pôdohospodárstva a rozvoja vidieka Slovenskej republiky č. 453/2006 Z. z. o hospodárskej úprave lesov a o ochrane lesa.
 
+- 11h) § 7 ods. 1 písm. a) a b) zákona č. 329/2018 Z. z.
+
+- 11i) § 7 ods. 1 písm. c) a d) zákona č. 329/2018 Z. z.
+
 - 12) Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme.
 
 - 12a) § 79 ods. 7 zákona č. 364/2004 Z. z. v znení neskorších predpisov.
@@ -51,6 +57,8 @@
 - 12b) § 8 ods. 2 a § 12 ods. 2 nariadenia vlády Slovenskej republiky č. 755/2004 Z. z.
 
 - 12c) § 18 ods. 11 zákona č. 414/2012 Z. z.
+
+- 12ca) § 7 ods. 1 zákona č. 329/2018 Z. z.
 
 - 12d) Príloha č. 1 tabuľky A a B zákona č. 414/2012 Z. z. v znení zákona č. 399/2014 Z. z.
 
@@ -74,6 +82,10 @@
 
 - 12m) § 6 ods. 3 písm. aa) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení zákona č. 292/2017 Z. z.
 
+- 12n) § 4 písm. b) a c) nariadenia vlády Slovenskej republiky č. 330/2018 Z. z., ktorým sa ustanovuje výška sadzieb za uloženie odpadov a podrobnosti súvisiace s prerozdeľovaním príjmov z poplatkov za uloženie odpadov.
+
+- 12o) Napríklad § 409 až 470 a § 536 až 565 Obchodného zákonníka, § 588 až 627 a § 631 až 656 Občianskeho zákonníka, § 66 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov, § 53 ods. 8 zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 13) § 30 ods. 2 zákona č. 523/2004 Z. z.
 
 - 14) Zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -87,8 +99,6 @@
 - 18) § 9 zákona č. 525/2003 Z. z.
 
 - 19) Zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
-
-- 19a) Napríklad § 409 až 470 a § 536 až 565 Obchodného zákonníka, § 588 až 627 a § 631 až 656 Občianskeho zákonníka, § 66 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov, § 42 ods. 8 zákona č. 25/2006 Z. z. v znení neskorších predpisov.
 
 - 20) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
