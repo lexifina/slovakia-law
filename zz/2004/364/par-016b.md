@@ -16,9 +16,9 @@
 
 - d) absolvovanie odbornej prípravy zabezpečovanej prostredníctvom osôb s vysokoškolským vzdelaním druhého stupňa v oblasti vodného hospodárstva a s najmenej päťročnou praxou v danej oblasti.
 
-(3) Za bezúhonného na účely tohto zákona sa nepovažuje ten, kto bol právoplatne odsúdený za trestný čin, ktorého skutková podstata súvisí s predmetom činnosti, na ktorú žiada udeliť osvedčenie, alebo za trestné činy proti životnému prostrediu. Bezúhonnosť sa preukazuje výpisom z registra trestov, ktorý nesmie byť starší ako tri mesiace.
+(3) Za bezúhonného na účely tohto zákona sa nepovažuje ten, kto bol právoplatne odsúdený za trestný čin, ktorého skutková podstata súvisí s predmetom činnosti, na ktorú žiada udeliť osvedčenie, alebo za trestné činy proti životnému prostrediu. Bezúhonnosť sa preukazuje výpisom z registra trestov. Na účel preukázania bezúhonnosti fyzická osoba poskytne údaje potrebné na vyžiadanie výpisu z registra trestov.<sup>22aa</sup>) Údaje podľa tretej vety ministerstvo bezodkladne zašle v elektronickej podobe prostredníctvom elektronickej komunikácie Generálnej prokuratúre Slovenskej republiky na vydanie výpisu z registra trestov.
 
-(4) Žiadosť o vydanie osvedčenia obsahuje titul, meno, priezvisko, adresu trvalého pobytu a doklady preukazujúce skutočnosti podľa odseku 2 písm. b) až d).
+(4) Žiadosť o vydanie osvedčenia obsahuje titul, meno, priezvisko, adresu trvalého pobytu, údaje potrebné na vyžiadanie výpisu z registra trestov<sup>22aa</sup>) a doklady preukazujúce skutočnosti podľa odseku 2 písm. c) a d).
 
 (5) K žiadosti žiadateľ prikladá
 

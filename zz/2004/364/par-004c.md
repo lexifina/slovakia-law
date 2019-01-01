@@ -1,6 +1,6 @@
 # § 4c Hodnotenie stavu podzemných vôd
 
-(1) Hodnotenie stavu podzemných vôd slúži na vypracovanie podkladov potrebných na tvorbu vodnej politiky, plánov manažmentu povodí, koncepcií využívania vôd a ich ochrany, na výkon štátnej správy, na poskytovanie informácií verejnosti a na podávanie správ medzinárodným inštitúciám. Hodnotenie stavu podzemných vôd sa komplexne vykonáva v útvaroch podzemných vôd a v hydrogeologických rajónoch.
+(1) Hodnotenie stavu podzemných vôd slúži na vypracovanie podkladov potrebných na tvorbu vodnej politiky, plánov manažmentu povodí, koncepcií využívania vôd a ich ochrany, na výkon štátnej správy, na poskytovanie informácií verejnosti a na podávanie správ medzinárodným inštitúciám. Hodnotenie stavu podzemných vôd sa komplexne vykonáva v útvaroch podzemných vôd.
 
 (2) Stavom podzemných vôd je všeobecné vyjadrenie stavu útvaru podzemných vôd, ktorý je určený kvantitatívnym stavom alebo chemickým stavom podľa toho, ktorý z nich je horší.
 
@@ -22,7 +22,7 @@
 
 (7) Kvantitatívny stav útvaru podzemnej vody sa považuje za dobrý, ak
 
-- a) stanovené využiteľné množstvá podzemnej vody nie sú presiahnuté dlhodobým priemerným ročným odoberaným množstvom,
+- a) stanovené využiteľné zdroje podzemnej vody nie sú presiahnuté dlhodobým priemerným ročným odoberaným množstvom,
 
 - b) nedochádza k významnému pretrvávajúcemu poklesovému trendu hladín podzemných vôd v útvare podzemnej vody, ktorý je spôsobený antropogénnymi vplyvmi,
 
@@ -40,7 +40,7 @@
 
 - a) normy kvality podzemných vôd podľa prílohy č. 1a,
 
-- b) prahové hodnoty ustanovené všeobecne záväzným právnym predpisom podľa § 81 ods. 1 písm. k).
+- b) prahové hodnoty ustanovené všeobecne záväzným právnym predpisom podľa § 81 ods. 1 písm. j).
 
 (9) Hodnotenie chemického stavu útvarov podzemných vôd vrátane zohľadnenia presiahnutia noriem kvality podzemných vôd alebo prahových hodnôt v jednotlivých monitorovacích miestach sa vykoná postupom ustanoveným vo všeobecne záväznom právnom predpise podľa § 81 ods. 1 písm. i). Súhrn hodnotenia chemického stavu sa zverejní v plánoch manažmentu povodí postupom ustanoveným vo všeobecne záväznom právnom predpise podľa § 81 ods. 2 písm. b).
 
@@ -66,7 +66,7 @@
 
 - g) zozbierané údaje z monitorovania podzemných vôd overené pomocou kontrolného mechanizmu založeného na vyhodnotení kvality týchto údajov, možnostiach analytických metód a na pozaďových úrovniach látok, ktoré sa môžu vyskytnúť prirodzene alebo ako výsledok ľudskej činnosti.
 
-(14) Prahové hodnoty podzemných vôd ustanoví ministerstvo na celoštátnej úrovni, na úrovni správneho územia povodia, časti medzinárodného správneho územia povodia alebo na úrovni útvaru podzemných vôd alebo skupiny útvarov podzemných vôd. Zoznam prahových hodnôt a zoznam útvarov podzemných vôd ustanoví všeobecne záväzný právny predpis podľa § 81 ods. 1 písm. k).
+(14) Prahové hodnoty podzemných vôd ustanoví ministerstvo na celoštátnej úrovni, na úrovni správneho územia povodia, časti medzinárodného správneho územia povodia alebo na úrovni útvaru podzemných vôd alebo skupiny útvarov podzemných vôd. Zoznam prahových hodnôt a zoznam útvarov podzemných vôd ustanoví všeobecne záväzný právny predpis podľa § 81 ods. 1 písm. j).
 
 (15) V útvaroch podzemných vôd, ktoré sú spoločné pre dva alebo viaceré členské štáty, a pre útvary podzemných vôd, ktorých podzemné vody tečú cez hranicu členského štátu, stanoví ministerstvo prahové hodnoty v spolupráci s týmito členskými štátmi. Ak útvar podzemných vôd alebo skupina útvarov podzemných vôd presahuje územie Európskej únie, ministerstvo ustanoví prahové hodnoty v spolupráci s týmito nečlenskými štátmi.
 

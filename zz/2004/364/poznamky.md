@@ -74,6 +74,8 @@
 
 - 22a) § 4 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov.
 
+- 22aa) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
 - 22b) § 31 a 36 zákona č. 24/2006 Z. z.
 
 - 23) Napríklad zákon č. 17/1992 Zb. v znení neskorších predpisov, zákon č. 543/2002 Z. z. v znení neskorších predpisov, zákon č. 139/2002 Z. z. v znení neskorších predpisov.
@@ -126,6 +128,10 @@
 
 - 37a) § 19 zákona č. 442/2002 Z. z. v znení neskorších predpisov.
 
+- 37aa) § 2 písm. a) prvý bod zákona č. 136/2000 Z. z. v znení zákona č. 394/2015 Z. z.
+
+- 37ab) Napríklad zákon č. 405/2011 Z. z. o rastlinolekárskej starostlivosti a o zmene zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov v znení zákona č. 387/2013 Z. z.
+
 - 37b) § 22 zákona č. 569/2007 Z. z. v znení neskorších predpisov.
 
 - 37c) § 27 zákona č. 44/1988 Zb. v znení neskorších predpisov.
@@ -140,9 +146,7 @@
 
 - 39a) § 20 až 23 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
-- 40) Nariadenie vlády Slovenskej republiky č. 46/1978 Zb. o chránenej oblasti prirodzenej akumulácie vôd na Žitnom ostrove v znení neskorších predpisov.
-
-- 41) § 3 zákona č. 44/1988 Zb. v znení neskorších predpisov.
+- 40) Zákon č. 305/2018 Z. z. o chránených oblastiach prirodzenej akumulácie vôd a o zmene a doplnení niektorých zákonov.
 
 - 44) Zákon č. 355/2007 Z. z. v znení neskorších predpisov.
 
@@ -219,6 +223,8 @@
 - 61e) § 16 ods. 6 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov.
 
 - 61f) Nariadenie vlády Slovenskej republiky č. 167/2015 Z. z.
+
+- 61g) § 12 zákona č. 305/2018 Z. z.
 
 - 62) § 8 až 13 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení zákona č. 502/2001 Z. z.
 
