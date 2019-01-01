@@ -268,6 +268,12 @@ Zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákono
 
 - 36. V § 63 ods. 5 sa vypúšťajú na dvoch miestach slová „treťou osobou“.
 
+- 37. V § 64 ods. 6 písmeno h) znie:
+
+- „h)
+
+- zabezpečiť meranie distribuovaného plynu vrátane jeho vyhodnocovania a predkladať namerané údaje alebo údaje určené na základe typového diagramu dodávky účastníkovi trhu s plynom, s ktorým je uzatvorená zmluva o prístupe do distribučnej siete a distribúcii plynu na danom odbernom mieste v objemovej jednotke a energetickej jednotke, v lehotách ustanovených v § 17 ods. 12, § 76 ods. 2 alebo pravidlami trhu alebo na požiadanie účastníka trhu s plynom,“.
+
 - 38. V § 64 ods. 6 sa za písmeno h) vkladá nové písmeno i), ktoré znie:
 
 - „i)
@@ -390,6 +396,18 @@ Zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákono
 
 - 51. V § 75 ods. 10 sa slová „odseku 7“ nahrádzajú slovami „odseku 5“.
 
+- 52. V § 76 odsek 2 znie:
+
+- „(2)
+
+- Prevádzkovateľ distribučnej siete je povinný vykonať fyzický odpočet stavu počítadla určeného meradla na odbernom mieste, ktoré nie je vybavené určeným meradlom s diaľkovým odpočtom minimálne raz za 12 po sebe nasledujúcich kalendárnych mesiacov; fyzický odpočet u odberateľa plynu mimo domácnosti je povinný vykonať každoročne k 31. decembru v priebehu mesiaca december príslušného kalendárneho roka. Fyzickým odpočtom stavu počítadla určeného meradla na odbernom mieste sa rozumie aj odpočet na základe stavu počítadla určeného meradla nahláseného odberateľom plynu a odsúhlaseného prevádzkovateľom distribučnej siete. Odberateľ plynu mimo domácnosti môže každoročne nahlásiť svojmu dodávateľovi plynu alebo prevádzkovateľovi distribučnej siete skutočný stav počítadla určeného meradla k 31. decembru najneskôr do piatich kalendárnych dní od skončenia kalendárneho roka. Prevádzkovateľ distribučnej siete má právo použiť typové diagramy dodávky, ak nemá k dispozícii údaje o skutočnom stave počítadla určeného meradla alebo údaje o stave počítadla určeného meradla nahláseného odberateľom plynu a odsúhlaseného prevádzkovateľom distribučnej siete. Prevádzkovateľ distribučnej siete je povinný oznámiť dodávateľovi plynu údaje za odberné miesta odberateľov plynu mimo domácností do 10 kalendárnych dní od skončenia kalendárneho roka.“.
+
+- 53. V § 76 odsek 7 znie:
+
+- „(7)
+
+- Dodávateľ plynu fakturuje dodané množstvo plynu za 12 po sebe nasledujúcich mesiacov na základe údajov oznámených prevádzkovateľom distribučnej siete podľa odseku 2 najneskôr nasledujúci kalendárny mesiac po ich oznámení prevádzkovateľom distribučnej siete. V obdobiach medzi termínmi pravidelných odčítaní skutočne nameraných údajov o dodávke plynu podľa odseku 2 dodávateľ plynu môže určiť množstvo dodaného plynu na účely vystavenia faktúry na základe typových diagramov dodávky, ak nemá k dispozícii údaje podľa stavu určeného meradla vzájomne odsúhlaseného dodávateľom plynu a odberateľom plynu. Dodávateľ plynu je povinný v každej faktúre za dodávku plynu uviesť číslo odberného miesta, pod ktorým je odberné miesto evidované u príslušného prevádzkovateľa distribučnej siete.“.
+
 - 54. Poznámka pod čiarou k odkazu 87a znie:
 
 - „<sup>87a</sup>) Čl. 8 ods. 1 nariadenia Európskeho Parlamentu a Rady (EÚ) č. 347/2013 zo 17. apríla 2013 o usmerneniach pre transeurópsku energetickú infraštruktúru, ktorým sa zrušuje rozhodnutie č. 1364/2006/ES a menia a dopĺňajú nariadenia (ES) č. 713/2009, (ES) č. 714/2009 a (ES) č. 715/2009 (Ú. v. EÚ L 115, 25. 4. 2013) v platnom znení.
@@ -473,6 +491,8 @@ Zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákono
 - „d)
 
 - druhy, spôsob určenia a realizácie obmedzujúcich opatrení v elektroenergetike a opatrení zameraných na odstránenie stavu núdze v elektroenergetike, podrobnosti o postupe pri vyhlasovaní stavu núdze v elektroenergetike, podrobnosti o vyhlasovaní a oznamovaní obmedzujúcich opatrení v elektroenergetike a o ich odvolaní, a kategórie osôb, ktorým nemožno prerušiť alebo obmedziť dodávku elektriny,“.
+
+- 69. V § 95 ods. 1 písm. j) sa za slovo „energiu“ vkladajú slová „podľa § 64 ods. 6 písm. h)“.
 
 - 70. V § 95 ods. 2 písm. h) sa slová „§ 75 ods. 7“ nahrádzajú slovami „§ 75 ods. 5“.
 
