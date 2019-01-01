@@ -20,9 +20,9 @@
 
 - c) má najmenej tri roky odbornej praxe v oblasti pamiatkového výskumu a
 
-- d) je bezúhonná; za bezúhonnú osobu sa považuje osoba, ktorá nebola právoplatne odsúdená za úmyselný trestný čin.
+- d) je bezúhonná; za bezúhonnú osobu sa považuje osoba, ktorá nebola právoplatne odsúdená za úmyselný trestný čin; bezúhonnosť sa preukazuje výpisom z registra trestov.
 
-(4) K žiadosti o vydanie osvedčenia o odbornej spôsobilosti sa prikladá úradne osvedčená kópia dokladu o dosiahnutom vzdelaní, doklad o odbornej praxi, odborný posudok pamiatkového úradu alebo archeologického ústavu o absolvovaní odbornej praxe a výpis z registra trestov nie starší ako tri mesiace. K žiadosti o predĺženie platnosti osvedčenia o odbornej spôsobilosti sa prikladá výpis z registra trestov nie starší ako tri mesiace. Predložené doklady si ministerstvo ponechá.
+(4) K žiadosti o vydanie osvedčenia o odbornej spôsobilosti sa prikladá úradne osvedčená kópia dokladu o dosiahnutom vzdelaní, doklad o odbornej praxi a odborný posudok pamiatkového úradu alebo archeologického ústavu o absolvovaní odbornej praxe. Na účely preukázania bezúhonnosti podľa odseku 3 písm. d) a na účel predĺženia platnosti osvedčenia o odbornej spôsobilosti poskytne žiadateľ údaje potrebné na vyžiadanie výpisu z registra trestov.<sup>36a</sup>) Údaje podľa druhej vety ministerstvo bezodkladne zašle v elektronickej podobe prostredníctvom elektronickej komunikácie Generálnej prokuratúre Slovenskej republiky na vydanie výpisu z registra trestov.
 
 (5) Ministerstvo odníme osvedčenie o odbornej spôsobilosti fyzickej osobe, ak vykonáva pamiatkový výskum v rozpore s týmto zákonom alebo ak jej zavinením došlo k vážnemu poškodeniu pamiatkových hodnôt. Ministerstvo odníme osvedčenie o odbornej spôsobilosti aj fyzickej osobe, ak bola právoplatne odsúdená za úmyselný trestný čin.
 
