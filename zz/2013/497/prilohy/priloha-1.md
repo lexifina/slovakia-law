@@ -4,19 +4,19 @@ Príloha č. 1 k nariadeniu vlády č. 497/2013 Z. z.
 
 - | Kategória vozidla | EURO O - II | EURO III, IV | EURO V, VI a EEV
 
-- Nákladné vozidlá | 3 500 kg – 12 000 kg* | 0,105 | 0,095 | 0,082
+- Nákladné vozidlá | 3 500 kg - 12 000 kg* | 0, 108 | 0, 098 | 0, 085
 
-- | 12 000 kg a viac – 2 nápravy | 0,224 | 0,203 | 0,176
+- | 12 000 kg a viac - 2 nápravy | 0,231 | 0,209 | 0,181
 
-- | 12 000 kg a viac – 3 nápravy | 0,237 | 0,214 | 0,185
+- | 12 000 kg a viac - 3 nápravy | 0,244 | 0,220 | 0,190
 
-- | 12 000 kg a viac – 4 nápravy | 0,246 | 0,222 | 0,192
+- | 12 000 kg a viac - 4 nápravy | 0,253 | 0,228 | 0,198
 
-- | 12 000 kg a viac – 5 náprav | 0,237 | 0,214 | 0,185
+- | 12 000 kg a viac - 5 náprav | 0,244 | 0,220 | 0,190
 
-- BUS** | 3 500 kg – 12 000 kg* | 0,062 | 0,051 | 0,031
+- BUS** | 3 500 kg - 12 000 kg* | 0,064 | 0,053 | 0,032
 
-- | 12 000 kg a viac* | 0,112 | 0,102 | 0,062
+- | 12 000 kg a viac* | 0,116 | 0,105 | 0,064
 
 - * Jednotne pre akýkoľvek počet náprav.
 
