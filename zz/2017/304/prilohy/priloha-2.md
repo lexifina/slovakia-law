@@ -1,1 +1,1 @@
-Príloha č. 2 k opatreniu č. 304/2017 Z. z. [ŽIADOSŤ O POSKYTNUTIE DOTÁCIE NA OBSTARANIE TECHNICKEJ VYBAVENOSTI](../assets/f284c094438187e6c2635476c15c18b3bd7ec1017b0a90e5842634e9f113010d.pdf)
+Príloha č. 2 k opatreniu č. 304/2017 Z. z. [Príloha č. 2 k opatreniu č. 304/2017 Z. z.](../assets/0e9fc4e070f8b90497a1cc298bfa1d0fa9069b09de62a6613786e9d493e00ccd.pdf)
