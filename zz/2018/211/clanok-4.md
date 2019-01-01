@@ -8,6 +8,26 @@ Zákon č. 138/2017 Z. z. o Fonde na podporu kultúry národnostných menšín a
 
 - prioritnú oblasť podľa odseku 9, v ktorej vykonáva svoju činnosť; ak vykonáva činnosť vo viacerých prioritných oblastiach podľa odseku 9, na účely voľby kandidáta na člena odbornej rady, môže uviesť len jednu prioritnú oblasť,“.
 
+- 2. V § 8 sa za odsek 2 vkladajú nové odseky 3 a 4, ktoré znejú:
+
+- „(3)
+
+- Na účely preukázania splnenia podmienok podľa odsekov 1 a 2 fyzická osoba, ktorá má byť vymenovaná za člena odbornej rady, predkladá riaditeľovi
+
+- a)
+
+- oznámenie obsahujúce údaje potrebné na vyžiadanie výpisu z registra trestov,
+
+- b)
+
+- doklad preukazujúci splnenie podmienky odbornej praxe.
+
+- (4)
+
+- Riaditeľ bezodkladne zašle údaje podľa odseku 3 písm. a) v elektronickej podobe prostredníctvom elektronickej komunikácie Generálnej prokuratúre Slovenskej republiky na vydanie výpisu z registra trestov.“.
+
+  - Doterajšie odseky 3 až 11 sa označujú ako odseky 5 až 13.
+
 - 3. V § 8 ods. 11 sa za slovo „žiadateľa“ vkladá čiarka a slová „blízkou osobou žiadateľa“.
 
 - 4. V § 8 sa za odsek 11 vkladá nový odsek 12, ktorý znie:
