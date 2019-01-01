@@ -10,6 +10,8 @@
 
 - 4) Zákon č. 311/1999 Z. z. o registri trestov v znení neskorších predpisov.
 
+- 4a) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
 - 5) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 6) Zákon č. 283/2002 Z. z. o cestovných náhradách.
