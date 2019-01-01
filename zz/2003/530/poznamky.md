@@ -6,6 +6,8 @@
 
 - 1c) Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov.
 
+- 1ca) § 18 zákona č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov.
+
 - 1d) § 6a ods. 1 písm. a) zákona č. 297/2008 Z. z. v znení zákona č. 315/2016 Z. z.
 
 - 1e) Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov.
