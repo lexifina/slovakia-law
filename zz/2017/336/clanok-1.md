@@ -832,7 +832,11 @@ Zákon č. 363/2011 Z. z. o rozsahu a podmienkach úhrady liekov, zdravotníckyc
 
 - (13)
 
-- Za prvý predaj lieku zdravotníckej pomôcky alebo dietetickej potraviny v Slovenskej republike sa považuje predaj v mesiaci, v ktorom bola evidovaná prvá spotreba lieku, zdravotníckej pomôcky alebo dietetickej potraviny podľa hlásení Národnému centru zdravotníckych informácií.“.
+- Za prvý predaj lieku zdravotníckej pomôcky alebo dietetickej potraviny v Slovenskej republike sa považuje predaj v mesiaci, v ktorom bola evidovaná prvá spotreba lieku, zdravotníckej pomôcky alebo dietetickej potraviny podľa hlásení Národnému centru zdravotníckych informácií.
+
+- (14)
+
+- Poskytovateľ, ktorý žiada od zdravotnej poisťovne podľa odseku 9 úhradu lieku, zdravotníckej pomôcky alebo dietetickej potraviny uvedenej v odseku 7, je povinný uhradiť zdravotnej poisťovni 5 % z ceny lieku, zdravotníckej pomôcky alebo dietetickej potraviny vypočítanej podľa odseku 11 za množstvo lieku, zdravotníckej pomôcky alebo dietetickej potraviny uvedené v žiadosti podľa odseku 9; to neplatí, ak poskytovateľ žiada o úhradu lieku, ktorý nebol zaradený do zoznamu kategorizovaných liekov z dôvodu podľa § 16 ods. 4 písm. g) a návrh indikačného obmedzenia v žiadosti o zaradenie lieku do zoznamu kategorizovaných liekov bol rovnaký ako indikačné obmedzenie v žiadosti o úhradu lieku podľa tohto odseku.“.
 
 - 85. § 89 sa dopĺňa odsekom, 4, ktorý znie:
 
