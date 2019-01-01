@@ -1,18 +1,18 @@
 # § 5a Udeľovanie licencie na balenie kaviáru
 
-(1) Zmeniť licenciu, spracovať, baliť alebo opätovne baliť kaviár určený na vývoz, opätovný vývoz alebo obchod v rámci Európskej únie (ďalej len „licencia") udeľuje ministerstvo formou rozhodnutia.
+(1) Vyrábať, spracovávať, baliť alebo opätovne baliť kaviár určený na vývoz, opätovný vývoz alebo obchod v rámci členských štátov Európskej únie sa povoľuje iba zariadeniam s licenciou na výrobu, spracovanie, balenie alebo opätovné balenie kaviáru (ďalej len „licencia“), ktorú udeľuje ministerstvo rozhodnutím.
 
 (2) Ministerstvo udelí licenciu fyzickej osobe-podnikateľovi, ktorá
 
 - a) má spôsobilosť na právne úkony,
 
-- b) je bezúhonná [§ 3 ods. 4 písm. a)]; bezúhonnosť sa preukazuje výpisom z registra trestov nie starším ako tri mesiace.
+- b) je bezúhonná [§ 3 ods. 4 písm. a)]; bezúhonnosť sa preukazuje výpisom z registra trestov.
 
 (3) Ministerstvo udelí licenciu právnickej osobe,
 
 - a) ktorá spĺňa podmienku podľa § 3 ods. 4 písm. b) a ods. 5 písm. b),
 
-- b) ak fyzická osoba, ktorá je štatutárnym orgánom alebo členom štatutárneho orgánu, je bezúhonnou osobou (§ 3 ods. 4); bezúhonnosť sa preukazuje výpisom z registra trestov nie starším ako tri mesiace.
+- b) ak fyzická osoba, ktorá je štatutárnym orgánom alebo členom štatutárneho orgánu, je bezúhonnou osobou (§ 3 ods. 4); bezúhonnosť sa preukazuje výpisom z registra trestov.
 
 (4) Platnosť licencie zaniká fyzickej osobe-podnikateľovi, ak
 
@@ -51,3 +51,5 @@
 (10) Ministerstvo môže zrušiť licenciu, ak fyzickej osobe-podnikateľovi alebo právnická osoba bez závažného dôvodu neoznámila zmenu údajov uvedených v žiadosti a v pripojených dokladoch do jedného mesiaca odo dňa zmeny alebo ak neplní podmienky uvedené v rozhodnutí, ktorým bola licencia udelená.
 
 (11) Zariadenia s licenciou sú povinné viesť záznamy o množstvách dovážaného, vyvážaného alebo opätovne vyvážaného kaviáru, kaviáru vyrobeného na mieste, skladovaného alebo inak nadobudnutého alebo vyradeného kaviáru (ďalej len „záznamy") a sú povinné uchovávať záznamy po dobu piatich rokov od zániku alebo zrušenia licencie. Zariadenia s licenciou vykonajú záznamy o zmenách v deň zmeny. Záznamy musia byť prístupné na účely výkonu štátneho dozoru. Podrobnosti o záznamoch ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.
+
+(12) Na účel preukázania bezúhonnosti podľa odseku 2 písm. b) a odseku 3 poskytne fyzická osoba údaje potrebné na vyžiadanie výpisu z registra trestov;<sup>18a</sup>) u právnickej osoby poskytne údaje potrebné na vyžiadanie výpisu z registra trestov osoba, ktorá je štatutárnym orgánom alebo členom štatutárneho orgánu a zodpovedným zástupcom, ak bol ustanovený. Údaje podľa prvej vety ministerstvo bezodkladne zašle v elektronickej podobe prostredníctvom elektronickej komunikácie Generálnej prokuratúre Slovenskej republiky na vydanie výpisu z registra trestov.

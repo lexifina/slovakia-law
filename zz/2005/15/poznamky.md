@@ -64,6 +64,8 @@
 
 - 18) Napríklad zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov, zákon č. 131/2002 Z. z. o vysokých školách v znení neskorších predpisov.
 
+- 18a) § 10 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
 - 19) Čl. 8 ods. 2 nariadenia Rady (ES) č. 338/97.
 
 - 20) § 2 ods. 2 Obchodného zákonníka.
@@ -104,6 +106,10 @@
 
 - 38) Čl. 1 písm. a) nariadenia Komisie (ES) č. 1808/2001.
 
+- 38b) § 45 ods. 6 a 7 zákona č. 543/2002 Z. z.
+
+- 38c) § 2 ods. 2 písm. zn) zákona č. 543/2002 Z. z. v znení zákona č. 310/2018 Z. z.
+
 - 39) Čl. 1 písm. b) nariadenia Komisie (ES) č. 1808/2001.
 
 - 40) Čl. 1 písm. c) a čl. 24 nariadenia Komisie (ES) č. 1808/2001.
@@ -112,9 +118,19 @@
 
 - 42) Príloha VII k nariadeniu Komisie (ES) č. 1808/2001.
 
-- 43) Čl. 9 ods. 1 nariadenia Rady (ES) č. 338/97.
+- 43) Čl. 4, 8 a 9 nariadenia (ES) č. 338/97 v platnom znení.
 
-- 43a) Čl. 2 písm. q) nariadenia (ES) č. 338/97.
+- 43a) § 65a zákona č. 543/2002 Z. z. v znení neskorších predpisov.
+
+- 43aa) § 29 ods. 10 zákona č. 39/2007 Z. z. o veterinárnej starostlivosti v znení neskorších predpisov.
+
+- 43ab) Čl. 8 nariadenia Európskeho parlamentu a Rady (ES) č. 1069/2009 z 21. októbra 2009, ktorým sa ustanovujú zdravotné predpisy týkajúce sa vedľajších živočíšnych produktov a odvodených produktov neurčených na ľudskú spotrebu a ktorým sa zrušuje nariadenie (ES) č. 1774/2002 (nariadenie o vedľajších živočíšnych produktoch) (Ú. v. EÚ L 300, 14. 11. 2009) v platnom znení.
+
+- 43ac) § 6 ods. 1 písm. b) bod 4 zákona č. 39/2007 Z. z. v znení neskorších predpisov.
+
+- 43ad) Príloha I bod 47 nariadenia Komisie (EÚ) č. 142/2011 z 25. februára 2011, ktorým sa vykonáva nariadenie Európskeho parlamentu a Rady (ES) č. 1069/2009, ktorým sa ustanovujú zdravotné predpisy týkajúce sa vedľajších živočíšnych produktov a odvodených produktov neurčených na ľudskú spotrebu, a ktorým sa vykonáva smernica Rady 97/78/ES, pokiaľ ide o určité vzorky a predmety vyňaté spod povinnosti veterinárnych kontrol na hraniciach podľa danej smernice (Ú. v. EÚ L 54, 26. 2. 2011) v platnom znení.
+
+- 43ae) Príloha VIII nariadenia (EÚ) č. 142/2011 v platnom znení.
 
 - 43b) Kapitola XVI nariadenia (ES) 865/2006 v platnom znení.
 
@@ -135,10 +151,6 @@
 - 45c) Čl. 58a nariadenia (ES) č. 865/2006 v platnom znení.
 
 - 46) Zákon č. 488/ 2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov v znení neskorších predpisov.
-
-- 46a) Čl. 8 ods. 3 písm. a), b), c), d), f), h) nariadenia Rady (ES) č. 338/97.
-
-- Čl. 48 nariadenia Komisie (ES) č. 865/2006.
 
 - 47) Čl. 36 ods. 1, ods. 2 a 5 nariadenia Komisie (ES) č. 1808/2001.
 
@@ -219,3 +231,5 @@
 - 76) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
 
 - 77) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
+
+- 78) § 35 ods. 6 a § 103 ods. 2 a 3 zákona č. 543/2002 Z. z. v znení zákona č. 310/2018 Z. z.
