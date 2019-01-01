@@ -194,6 +194,10 @@ Zákon č. 71/2013 Z. z. o poskytovaní dotácií v pôsobnosti Ministerstva hos
 
 - platné stanovy alebo obdobný dokument právnickej osoby, ak nie je zverejnený vo verejnom registri,
 
+- d)
+
+- údaje fyzických osôb pôsobiacich v štatutárnom orgáne potrebné na vyžiadanie výpisu z registra trestov a súhlas s ich spracovaním,
+
 - e)
 
 - čestné vyhlásenie o vysporiadaní finančných vzťahov s rozpočtami obcí,
@@ -352,7 +356,7 @@ Zákon č. 71/2013 Z. z. o poskytovaní dotácií v pôsobnosti Ministerstva hos
 
 - 27. Príloha č. 2 vrátane nadpisu znie:
 
-- „[ŽIADOSŤ O POSKYTNUTIE DOTÁCIE PODĽA § 2 písm. d) ZÁKONA O POSKYTOVANÍ DOTÁCIÍ V PÔSOBNOSTI MINISTERSTVA HOSPODÁRSTVA SLOVENSKEJ REPUBLIKY](assets/1ae139acb2dbe29149809a0d5d4b6f35c7de24048ba7604291c602e5308ae63a.pdf)“.
+- „[ŽIADOSŤ O POSKYTNUTIE DOTÁCIE PODĽA § 2 písm. d) ZÁKONA O POSKYTOVANÍ DOTÁCIÍ V PÔSOBNOSTI MINISTERSTVA HOSPODÁRSTVA SLOVENSKEJ REPUBLIKY](assets/a97082502ed060f646fabda4ccab464b9838e30595760b0f623ac76402736cbd.pdf)“.
 
 - 28. Príloha č. 4 vrátane nadpisu znie:
 
