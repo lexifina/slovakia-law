@@ -4,7 +4,7 @@
 
 # § 77d
 
-(1) Dobrovoľný strážca poriadku (ďalej len „strážca poriadku“) pomáha pri plnení úloh služby poriadkovej polície Policajného zboru, služby dopravnej polície Policajného zboru a služby hraničnej polície Policajného zboru na úseku ochrany verejného poriadku, pri dohľade nad bezpečnosťou a plynulosťou cestnej premávky a pri ochrane štátnej hranice. Strážcom poriadku môže byť osoba, ktorá dosiahla vek 21 rokov, je spôsobilá na právne úkony a požíva medzi občanmi dôveru a vážnosť.
+(1) Dobrovoľný strážca poriadku (ďalej len „strážca poriadku“) pomáha pri plnení úloh služby poriadkovej polície Policajného zboru, služby dopravnej polície Policajného zboru a služby hraničnej polície Policajného zboru na úseku ochrany verejného poriadku, pri dohľade nad bezpečnosťou a plynulosťou cestnej premávky a pri ochrane štátnej hranice. Strážcom poriadku môže byť osoba, ktorá dosiahla vek 21 rokov, je spôsobilá na právne úkony, požíva medzi občanmi dôveru a vážnosť a je bezúhonná.
 
 (2) Osobu na prijatie za strážcu poriadku môže navrhnúť obec, v ktorej má osoba trvalý pobyt. Návrh na prijatie za strážcu poriadku obsahuje
 
@@ -12,6 +12,6 @@
 
 - b) písomný súhlas navrhovanej osoby,
 
-- c) výpis registra trestov navrhovanej osoby nie starší ako tri mesiace.
+- c) údaje navrhovanej osoby potrebné na vyžiadanie výpisu z registra trestov,<sup>28jca</sup>) ktoré obec bezodkladne zašle v elektronickej podobe prostredníctvom elektronickej komunikácie Generálnej prokuratúre Slovenskej republiky na vydanie výpisu z registra trestov.
 
 (3) Osobu za strážcu poriadku prijíma a schvaľuje podľa potrieb Policajného zboru riaditeľ útvaru Policajného zboru. Útvar Policajného zboru po schválení osoby za strážcu poriadku tejto vydá preukaz strážcu poriadku.
