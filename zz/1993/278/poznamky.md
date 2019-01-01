@@ -144,9 +144,7 @@
 
 - 23bag) § 19 ods. 15 zákona č. 523/2004 Z. z. v znení zákona č. 323/2007 Z. z.
 
-- 23bb) Zákon č. 440/2000 Z. z. o správach finančnej kontroly.
-
-- 23c) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov.
+- 23c) § 20 až 27 zákona č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov v znení zákona č. 372/2018 Z. z.
 
 - 24) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov.
 
