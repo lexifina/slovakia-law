@@ -88,6 +88,8 @@
 
 - 11) § 39 Obchodného zákonníka.
 
+- 11a) § 10 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
 - 12) § 21 ods. 2 Obchodného zákonníka.
 
 - 12a) Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
