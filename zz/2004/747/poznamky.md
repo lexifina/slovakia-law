@@ -42,7 +42,7 @@
 
 - 11a) Napríklad zákon č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 11b) Napríklad § 27 Obchodného zákonníka v znení neskorších predpisov, zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 60 až 60b zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, § 2 až 9 zákona č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov, § 20 a 21 zákona č. 540/2006 Z. z. o štátnej štatistike v znení neskorších predpisov, § 170 ods. 3 a § 226 ods. 1 písm. e) zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+- 11b) Napríklad § 27 Obchodného zákonníka v znení neskorších predpisov, zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 60 až 60b zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, § 2 až 9 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov, § 20 a 21 zákona č. 540/2006 Z. z. o štátnej štatistike v znení neskorších predpisov, zákon č. 330/2007 Z. z. v znení neskorších predpisov, § 170 ods. 3 a § 226 ods. 1 písm. e) zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov, zákon č. 125/2015 Z. z. o registri adries a o zmene a doplnení niektorých zákonov, zákon č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov v znení zákona č. 52/2018 Z. z.
 
 - 12) Napríklad § 2 ods. 1 a § 15 zákona č. 466/2002 Z. z.
 
@@ -53,6 +53,8 @@
 - 15) Napríklad § 11 ods. 1 písm. g) a h) zákona č. 211/2000 Z. z. v znení neskorších predpisov, čl. 37 ods. 37.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 202, 7. 6. 2016) v platnom znení.
 
 - 15a) § 20f až 20j Občianskeho zákonníka v znení neskorších predpisov.
+
+- 15b) Dohoda o Európskom hospodárskom priestore (Mimoriadne vydanie Ú. v. EÚ kap. 11/zv. 52; Ú. v. ES L 1, 3. 1. 1994) v platnom znení.
 
 - 16) Zákonník práce.
 
@@ -91,6 +93,8 @@
 - 27) § 34b ods. 1 písm. a) až c) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 602/2003 Z. z.
 
 - 27a) § 1 ods. 1 písm. c) a § 23 až 23d zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+
+- 27aa) § 40 ods. 4 Občianskeho zákonníka.
 
 - 28) Napríklad § 53 až 62 zákona č. 483/2001 Z. z. v znení neskorších predpisov, § 147 až 155 zákona č. 566/2001 Z. z. v znení neskorších predpisov, § 109 a 110 zákona č. 594/2003 Z. z., § 51 až 59 zákona č. 95/2002 Z. z. v znení neskorších predpisov.
 
@@ -238,9 +242,15 @@
 
 - 49ab) § 3 ods. 3 a 4 zákona č. 431/2002 Z. z.
 
-- 49b) § 63 písm. b) a § 79a zákona č. 492/2009 Z. z. v znení zákona č. 352/2012 Z. z.
+- 49b) § 63, § 79a a 79b zákona č. 492/2009 Z. z. v znení neskorších predpisov.
 
 - 49ba) § 2 písm. b) a § 20 ods. 1 písm. a) zákona č. 129/2010 Z. z. v znení neskorších predpisov.
+
+- 49bb) § 4 písm. a) a § 13 ods. 1 zákona č. 186/2009 Z. z. v znení neskorších predpisov.
+
+- 49bc) Zákon č. 186/2009 Z. z. v znení neskorších predpisov.
+
+- 49bd) § 1 ods. 1 písm. c) a § 13 až 17 zákona č. 186/2009 Z. z. v znení neskorších predpisov.
 
 - 49c) § 7 písm. h) Správneho súdneho poriadku.
 
