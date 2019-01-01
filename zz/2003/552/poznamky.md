@@ -20,6 +20,8 @@
 
 - 10a) Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
 
+- 10aa) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
 - 10b) § 25 zákona č. 55/2017 Z. z.
 
 - 11) Napríklad zákon Slovenskej národnej rady č. 254/1991 Zb. o Slovenskej televízii v znení neskorších predpisov, zákon Slovenskej národnej rady č. 255/1991 Zb. o Slovenskom rozhlase v znení neskorších predpisov.
