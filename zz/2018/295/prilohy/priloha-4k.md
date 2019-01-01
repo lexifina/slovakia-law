@@ -1,0 +1,1 @@
+Príloha č. 4 k opatreniu č. 295/2018 Z. z. [VZORCE NA VÝPOČET PROGNÓZ DÔCHODKOVÝCH DÁVOK](../assets/60644cca23abe97f16910f69388a0435ec4e74e3795c3727c8479ed0568934ea.pdf)
