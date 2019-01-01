@@ -100,6 +100,16 @@ Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v zn
 
 - “.
 
+- 15. V prílohe č. 2 Viazané živnosti v skupine 214 - Ostatné por. č. 53 v stĺpci Preukaz spôsobilosti sa vypúšťajú slová „– absolvovanie masérskeho kurzu zakončeného skúškou, organizovaného inštitúciou akreditovanou príslušným ústredným orgánom štátnej správy alebo“.
+
+- 16. V prílohe č. 2 Viazané živnosti v skupine 214 - Ostatné sa za poradové číslo 53 vkladá poradové číslo 53a, ktoré znie:
+
+- „
+
+- 53a. | Wellness masérske služby | Osvedčenie o čiastočnej kvalifikácii alebo osvedčenie o úplnej kvalifikácii | § 19 zákona č. 568/2009 Z. z. |
+
+- “.
+
 - 17. Príloha č. 5 sa dopĺňa štvrtým bodom, ktorý znie:
 
 - „4. Smernica Európskeho parlamentu a Rady 2013/55/EÚ z 20. novembra 2013, ktorou sa mení smernica 2005/36/ES o uznávaní odborných kvalifikácií a nariadenie (EÚ) č. 1024/2012 o administratívnej spolupráci prostredníctvom informačného systému o vnútornom trhu (nariadenie o IMI) (Ú. v. EÚ L 354, 28. 12. 2013).“.
