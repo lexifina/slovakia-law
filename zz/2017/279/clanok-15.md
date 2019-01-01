@@ -162,4 +162,4 @@ Zákon č. 90/2016 Z. z. o úveroch na bývanie a o zmene a doplnení niektorýc
 
 - k zákonu č. 90/2016 Z. z.
 
-- [Vzor](assets/d1b5089a97a66027531a920570bec87ca6949b56c20015c7bc5c5458d4fe4cb8.pdf)“.
+- [Vzor](assets/f9a7fea65ce7b4184b8cd3315fa8fd32813fa1149422e7870a7c24769230a818.pdf)“.

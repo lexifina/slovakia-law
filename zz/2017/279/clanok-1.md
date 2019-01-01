@@ -532,6 +532,66 @@ Zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov 
 
 - Opatrením,<sup>23</sup>) ktoré vydá Národná banka Slovenska a ktoré sa vyhlasuje v zbierke zákonov, sa ustanovia údaje zapisované do registra krytých dlhopisov na účely súvisiace s programom krytých dlhopisov, spôsob, postupy a technické pravidlá vedenia registra krytých dlhopisov, termíny, lehoty a periodicita predkladania a aktualizácie údajov zapisovaných do registra krytých dlhopisov.
 
+- § 76
+
+- Stresové testovanie
+
+- (1)
+
+- Banka, ktorá je emitentom krytých dlhopisov, v rámci programu krytých dlhopisov vykonáva stresové testovanie na identifikáciu prípadnej zmeny plnenia ukazovateľa krytia vyplývajúcej z potenciálnych zmien trhových podmienok, ktoré by mohli mať nepriaznivý vplyv na ukazovateľ krytia.
+
+- (2)
+
+- Banka, ktorá je emitentom krytých dlhopisov, vykoná stresové testovanie najmenej raz ročne, na základe údajov k 31. decembru predchádzajúceho kalendárneho roka, najneskôr do 31. marca nasledujúceho kalendárneho roka. Stresové testovanie zahŕňa obdobie celého kalendárneho roka, v ktorom sa stresové testovanie vykonáva.
+
+- (3)
+
+- Stresové testovanie podľa odseku 1 musí obsahovať testovanie na
+
+- a)
+
+- kreditné riziko,
+
+- b)
+
+- úrokové riziko,
+
+- c)
+
+- devízové riziko,
+
+- d)
+
+- riziko likvidity,
+
+- e)
+
+- riziko protistrany,
+
+- f)
+
+- operačné riziko,
+
+- g)
+
+- riziko poklesu cien nehnuteľností.
+
+- (4)
+
+- Parametre stresového testovania banka, ktorá je emitentom krytých dlhopisov, je povinná nastaviť v súlade s parametrami použitými v stresovom testovaní vykonávaným na účely hodnotenia primeranosti vnútorného kapitálu podľa § 27 ods. 7.
+
+- (5)
+
+- V stresovom testovaní sa zohľadnia všetky faktory zmierňujúce riziko.
+
+- (6)
+
+- Banka, ktorá je emitentom krytých dlhopisov, je v rámci stresového testovania povinná preukázať, že vie a dokáže udržiavať ukazovateľ krytia na úrovni podľa § 69 ods. 2 a 3 aj počas stresového obdobia.
+
+- (7)
+
+- Národná banka Slovenska je oprávnená požadovať od banky, ktorá je emitentom krytých dlhopisov, dokumentáciu o forme, rozsahu, metodike a výsledkoch stresových testovaní vykonaných za posledných 24 mesiacov.
+
 - § 77
 
 - Správca programu krytých dlhopisov
