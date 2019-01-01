@@ -74,6 +74,8 @@
 
 - 8c) § 5 ods. 1 písm. b) štvrtý bod zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
 
+- 8ca) § 6 ods. 12 zákona č. 581/2004 Z. z. v znení neskorších predpisov.
+
 - 8d) § 5 ods. 1 písm. b) siedmy bod zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
 
 - 8e) § 5 ods. 1 písm. b) deviaty bod zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
@@ -118,11 +120,19 @@
 
 - 19) § 81 ods. 1 písm. a) a b) zákona č. 578/2004 Z. z.
 
-- 20) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
+- 20) Zákon č. 153/2013 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
+
+- Nariadenie Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) (Ú. v. EÚ L 119, 4. 5. 2016).
 
 - 20a) § 23 ods. 5 zákona č. 317/2016 Z. z.
 
-- 21) § 3 zákona č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení zákona č. 214/2008 Z. z.
+- 20aa) § 5 a 6 a príloha č. 2 prvý bod k zákonu č. 153/2013 Z. z. v znení neskorších predpisov.
+
+- 20ab) § 5 zákona č. 153/2013 Z. z. v znení neskorších predpisov.
+
+- 21) Čl. 3 ods. 12 nariadenia Európskeho parlamentu a Rady (EÚ) č. 910/2014 z 23. júla 2014 o elektronickej identifikácii a dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zrušení smernice 1999/93/ES (Ú. v. EÚ L 257, 28. 8. 2014).
 
 - 21a) § 9 zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov.
 
@@ -171,6 +181,8 @@
 - § 69 zákona č. 195/1998 Z. z.
 
 - 31a) § 30 ods. 12 zákona č. 355/2007 Z. z. v znení zákona č. 140/2008 Z. z.
+
+- 31b) § 5 ods. 11 a 12 zákona č. 153/2013 Z. z. v znení zákona č. 374/2018 Z. z.
 
 - 32) § 115 Občianskeho zákonníka.
 
