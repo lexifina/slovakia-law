@@ -96,6 +96,8 @@
 
 - 48) § 8 písm. e) zákona č. 566/2001 Z. z.
 
+- 48a) § 10 ods. 4 a 5 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
 - 49) Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 50) § 37 ods. 1 zákona č. 96/2002 Z. z.
@@ -109,6 +111,12 @@
 - § 60 ods. 3 zákona č. 429/2002 Z. z. o burze cenných papierov.
 
 - 51a) § 7 ods. 14 až 16 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 51aa) § 34a ods. 1 a 2 a § 34b zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
+
+- § 10 ods. 1, 5, 6, 7, 10 a 11 a § 12 zákona č. 330/2007 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 747/2004 Z. z. v znení neskorších predpisov.
 
 - 52) § 8 písm. i) zákona č. 566/2001 Z. z.
 
