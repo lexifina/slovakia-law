@@ -184,7 +184,9 @@
 
 - 69b) Ústavný zákon č. 357/2004 Z. z. o ochrane verejného záujmu pri výkone funkcií verejných funkcionárov.
 
-- 71) Napríklad zákon č. 26/1964 Zb. o vnútrozemskej plavbe v znení zákona č. 126/1974 Zb., zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov, zákon č. 130/1998 Z. z. o mierovom využívaní jadrovej energie a o zmene a doplnení zákona č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce v znení zákona Národnej rady Slovenskej republiky č. 256/1994 Z. z. a zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení zákona č. 37/2002 Z. z.
+- 69c) § 10 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
+- 71) Napríklad zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 513/2009 Z. z. o dráhach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 81) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
@@ -226,7 +228,9 @@
 
 - 92ab) § 23 ods. 4 písm. j), § 26 písm. a) a § 27b písm. c) zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 92aba) 66h ods. 2 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+- 92aba) § 66b ods. 3 písm. a) a § 66h ods. 2 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
+- 92abb) § 11 ods. 1 zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
 - 92ac) Napríklad zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 543/2007 Z. z. o pôsobnosti organov štátnej správy pri poskytovaní podpory v pôdohospodárstve a rozvoji vidieka v znení neskorších predpisov, § 6 až 11 a § 34 zákona č. 528/2008 Z. z. o pomoci a podpore poskytovanej z fondov Európskeho spoločenstva v znení neskorších predpisov.
 
@@ -379,3 +383,5 @@
 - 125) § 5 ods. 7 písm. n) zákona č. 595/2003 Z. z. v znení zákona č. 63/2018 Z. z.
 
 - 126) § 5 ods. 7 písm. o) zákona č. 595/2003 Z. z. v znení zákona č. 63/2018 Z. z.
+
+- 127) § 5 ods. 7 písm. p) zákona č. 595/2003 Z. z. v znení zákona č. 368/2018 Z. z.
