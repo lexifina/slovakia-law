@@ -1,0 +1,1 @@
+Príloha č. 5 k vyhláške č. 331/2018 Z. z. [Obsah osvedčovacej doložky pre zaručenú konverziu z elektronickej podoby do elektronickej podoby](../assets/4489502c1a955a9f55cdedc9e9bcc584ae4aeb9f2090fd4b88dc1d91faf19e7f.pdf)
