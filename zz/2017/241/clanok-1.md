@@ -4,6 +4,8 @@ Zákon č. 285/2009 Z. z. o poskytovaní príspevku účastníkom národného bo
 
 - 1. V § 4 ods. 1 sa suma „20 eur“ nahrádza sumou „70 eur“.
 
+- 2. V § 4 ods. 2 sa suma „10 eur“ nahrádza sumou „35 eur“.
+
 - 3. Za § 5 sa vkladajú § 5a a 5b, ktoré vrátane nadpisov znejú:
 
 - „§ 5a
@@ -20,4 +22,10 @@ Zákon č. 285/2009 Z. z. o poskytovaní príspevku účastníkom národného bo
 
 - (3)
 
-- Platiteľ dôchodku rozhodne o zmene sumy príspevku podľa § 4 ods. 1 najneskôr do 31. januára 2018.“.
+- Platiteľ dôchodku rozhodne o zmene sumy príspevku podľa § 4 ods. 1 najneskôr do 31. januára 2018.
+
+- § 5b
+
+- Prechodné ustanovenie k úpravám účinným od 1. januára 2019
+
+- Platiteľ dôchodku rozhodne o zmene sumy príspevku podľa § 4 ods. 2 najneskôr do 31. marca 2019.“.
