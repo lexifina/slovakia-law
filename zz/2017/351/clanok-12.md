@@ -92,6 +92,56 @@ Zákon č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o z
 
 - prostredníctvom úradného autentifikátora; túto skutočnosť musí osoba vyznačiť v elektronickej zdravotnej knižke postupom podľa odseku 5 pred poskytnutím zdravotnej starostlivosti.“.
 
+- 17. § 6 vrátane nadpisu znie:
+
+- „§ 6
+
+- Pacientsky sumár
+
+- (1)
+
+- Pacientsky sumár obsahuje
+
+- a)
+
+- údaj o aktívnej implantovanej zdravotníckej pomôcke, ak je údaj známy pri poskytovaní zdravotnej starostlivosti,
+
+- b)
+
+- údaj o zubno-lekárskej zdravotníckej pomôcke na mieru, ak je údaj známy pri poskytovaní zdravotnej starostlivosti,
+
+- c)
+
+- údaj o alergickej anamnéze, ak je údaj známy pri poskytovaní zdravotnej starostlivosti,
+
+- d)
+
+- údaje o všeobecnom lekárovi, s ktorým má osoba uzavretú dohodu o poskytovaní zdravotnej starostlivosti, v rozsahu meno, priezvisko a adresa miesta výkonu činnosti, číselný kód zdravotníckeho pracovníka, názov a číselný kód poskytovateľa zdravotnej starostlivosti, telefónne číslo a adresa elektronickej pošty,
+
+- e)
+
+- údaje o inom ošetrujúcom lekárovi určenom osobou v rozsahu meno, priezvisko a adresa miesta výkonu činnosti, číselný kód zdravotníckeho pracovníka, názov a číselný kód poskytovateľa zdravotnej starostlivosti, telefónne číslo a adresa elektronickej pošty,
+
+- f)
+
+- kód a názov choroby podľa medzinárodnej klasifikácie chorôb (ďalej len „kód choroby“) s jej bližšou špecifikáciou, ak ide o chorobu zo zoznamu chorôb, ktoré sa zapisujú do pacientskeho sumára, a ktorá na základe posúdenia ošetrujúceho lekára je dôležitá z hľadiska záchrany života a zdravia osoby,
+
+- g)
+
+- údaje o podaných a vydaných liekoch z dispenzačných záznamov alebo medikačných záznamov za ostatných šesť mesiacov,
+
+- h)
+
+- údaje o kontaktnej osobe určenej osobou v rozsahu meno, priezvisko, telefónne číslo a adresa elektronickej pošty,
+
+- i)
+
+- predpokladaný dátum pôrodu.
+
+- (2)
+
+- Údaje podľa odseku 1 písm. a) až c), f) a i) aktualizuje ošetrujúci lekár pri poskytovaní zdravotnej starostlivosti osobe; údaj podľa odseku 1 písm. i) aktualizuje ošetrujúci lekár na základe dohody s osobou. Údaje podľa odseku 1 písm. d) sú aktualizované prostredníctvom údajovej základne národného zdravotníckeho informačného systému. Údaje podľa odseku 1 písm. g) sú aktualizované na základe medikačného záznamu a dispenzačného záznamu. Údaje podľa odseku 1 písm. e) a h) môže aktualizovať osoba cez Národný portál zdravia prostredníctvom úradného autentifikátora alebo jej ošetrujúci lekár pri poskytovaní zdravotnej starostlivosti; údaje podľa odseku 1 písm. h) môže aktualizovať ošetrujúci zdravotnícky pracovník.“.
+
 - 18. V § 7 sa odsek 2 dopĺňa písmenom f), ktoré znie:
 
 - „f)
