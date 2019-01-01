@@ -24,6 +24,8 @@
 
 - 10) § 300 až 310 zákona č. 300/2005 Z. z. Trestný zákon.
 
+- 10a) § 10 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
 - 11a) § 27 zákona č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov.
 
 - 11b) § 11 zákona č. 136/2010 Z. z.,
