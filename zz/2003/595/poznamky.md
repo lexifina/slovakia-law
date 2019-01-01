@@ -54,6 +54,8 @@
 
 - 17a) § 152 Zákonníka práce.
 
+- 17b) § 152a Zákonníka práce.
+
 - 18) § 145 Zákonníka práce.
 
 - 20) Napríklad zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -101,6 +103,8 @@
 - § 20 ods. 1 písm. g) zákona č. 553/2003 Z. z. v znení zákona č. 63/2018 Z. z.
 
 - § 142 ods. 1 písm. h) zákona č. 55/2017 Z. z. v znení zákona č. 63/2018 Z. z.
+
+- 24h) § 42 Zákonníka práce v znení neskorších predpisov.
 
 - 25) Zákon č. 455/1991 Zb. v znení neskorších predpisov.
 
@@ -268,6 +272,10 @@
 
 - 59je) Napríklad zákon č. 522/2008 Z. z. o vyznamenaniach Slovenskej republiky v znení zákona č. 115/2011 Z. z., zákon č. 261/2017 Z. z. o štátnej cene Jozefa Miloslava Hurbana a štátnej cene Alexandra Dubčeka.
 
+- 59jf) § 56 ods. 1 písm. b) a § 57 zákona č. 440/2015 Z. z.
+
+- 59jg) § 3 písm. h) prvý bod zákona č. 440/2015 Z. z.
+
 - 59k) § 4 ods. 9 a § 5 ods. 6 zákona č. 406/2011 Z. z.
 
 - 59l) Zákon č. 406/2011 Z. z.
@@ -388,6 +396,10 @@
 
 - 79d) § 29 ods. 2 zákona č. 440/2015 Z. z.
 
+- 79e) Zákon č. 213/2018 Z. z. o dani z poistenia a o zmene a doplnení niektorých zákonov.
+
+- 79f) Zákon č. 385/2018 Z. z. o osobitnom odvode obchodných reťazcov a o doplnení zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
+
 - 80) Napríklad § 51, § 151n až 151r, § 664 až 669 Občianskeho zákonníka v znení neskorších predpisov, § 6 zákona č. 116/1990 Zb. o nájme a podnájme nebytových priestorov v znení neskorších predpisov.
 
 - 80a) Zákon č. 213/1997 Z. z. v znení neskorších predpisov.
@@ -444,7 +456,7 @@
 
 - Zákon Národnej rady Slovenskej republiky č. 272/1994 Zb. o ochrane zdravia ľudí v znení neskorších predpisov.
 
-- 86a) Napríklad § 152 Zákonníka práce.
+- 86a) Napríklad § 152 a 152a Zákonníka práce.
 
 - 86aa) § 27 ods. 1 zákona č. 61/2015 Z. z. v znení zákona č. 209/2018 Z. z.
 
@@ -621,6 +633,20 @@
 - § 4 ods. 3 písm. v) zákona č. 333/2011 Z. z. v znení neskorších predpisov.
 
 - 120l) § 52 ods. 10 zákona č. 563/2009 Z. z. v znení zákona č. 333/2014 Z. z.
+
+- 120m) § 11 ods. 1 písm. a) zákona č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zmene a doplnení niektorých zákonov.
+
+- 120n) § 5 ods. 2 zákona č. 358/2015 Z. z. o úprave niektorých vzťahov v oblasti štátnej pomoci a minimálnej pomoci a o zmene a doplnení niektorých zákonov (zákon o štátnej pomoci).
+
+- 120o) § 6 ods. 1 písm. c) piaty bod zákona č. 112/2018 Z. z.
+
+- 120p) § 5 ods. 1 písm. b) zákona č. 112/2018 Z. z.
+
+- 120q) § 8 ods. 4 zákona č. 112/2018 Z. z.
+
+- 120r) § 8 ods. 1 písm. b) zákona č. 112/2018 Z. z.
+
+- 120s) § 8 ods. 2 zákona č. 112/2018 Z. z.
 
 - 121) § 24 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
