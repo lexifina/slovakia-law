@@ -116,6 +116,8 @@
 
 - 9a) Článok 5 nariadenia Rady (EHS) č. 2407/92 z 23. júla 1992 o licencovaní leteckých dopravcov (Úradný vestník Európskych spoločenstiev L 240, 24. 08. 1992).
 
+- 9aa) § 10 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
 - 9b) Nariadenie Rady (ES) č. 2408/92 z 23. júla 1992 o prístupe leteckých dopravcov spoločenstva k letovým trasám v rámci spoločenstva (Úradný vestník Európskych spoločenstiev L 169, 27. 06. 1997).
 
 - 9c) Nariadenie Rady (EHS) č. 2409/92 z 23. júla 1992 o cestovnom a sadzbách v leteckých dopravných službách (Úradný vestník Európskych spoločenstiev L 240, 24. 08. 1992).
