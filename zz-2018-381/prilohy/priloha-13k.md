@@ -1,0 +1,1 @@
+Príloha č. 13 k vyhláške č. 381/2018 Z. z. [Prevodník násad rýb na prepočítanie vekových kategórií násad rýb pri zarybňovaní rybárskych revírov](../assets/d15a74343b89f2164f2143002596a76086f006329c2d3bb8caa58afa4dad4f95.pdf)
