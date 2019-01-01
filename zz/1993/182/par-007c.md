@@ -52,6 +52,6 @@
 
 - b) sprostredkúvať pre iné osoby obchody, ktoré sú predmetom činnosti spoločenstva alebo s ním súvisia.
 
-(8) Za bezúhonného sa na účely tohto zákona považuje ten, kto nebol právoplatne odsúdený za trestný čin hospodársky, trestný čin proti majetku alebo iný trestný čin spáchaný úmyselne, ktorého skutková podstata súvisí s predmetom činnosti spoločenstva, ak sa naň nehľadí, akoby nebol odsúdený.<sup>12a</sup>) Bezúhonnosť sa preukazuje výpisom z registra trestov<sup>12b</sup>) nie starším ako tri mesiace.
+(8) Za bezúhonného sa na účely tohto zákona považuje ten, kto nebol právoplatne odsúdený za trestný čin hospodársky, trestný čin proti majetku alebo iný trestný čin spáchaný úmyselne, ktorého skutková podstata súvisí s predmetom činnosti spoločenstva, ak sa naň nehľadí, akoby nebol odsúdený.<sup>12a</sup>) Bezúhonnosť sa preukazuje výpisom z registra trestov.<sup>12b</sup>)
 
 (9) Zhromaždenie tvoria všetci vlastníci bytov a nebytových priestorov v dome. Zhromaždenie rozhoduje o veciach, o ktorých rozhodujú vlastníci bytov a nebytových priestorov podľa § 14 až 14b. Rozhoduje tiež o ďalších skutočnostiach, o ktorých podľa tohto zákona nerozhoduje iný orgán spoločenstva. Na zvolanie zhromaždenia sa použijú primerane ustanovenia § 14a ods. 1.
