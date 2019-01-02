@@ -10,6 +10,8 @@ Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene
 
 - 4. V § 9 ods. 4 sa vypúšťa posledná veta.
 
+- 6. V § 16 ods. 4 písm. c) sa za slovo „alebo“ vkladajú slová „štvorročného vzdelávacieho programu odboru vzdelávania“.
+
 - 8. V § 16 ods. 5 úvodnej vete sa vypúšťajú slová „alebo terciárne“ a v písmene a) a b) sa za slová „skúške a“ vkladajú slová „dokladom o získanej kvalifikácii je“.
 
 - 16. V § 42a ods. 2 sa slová „Odborné vzdelávanie a príprava“ nahrádzajú slovami „Výchova a vzdelávanie“.
