@@ -1,6 +1,6 @@
 Príloha č. 1 k zákonu č. 338/2000 Z. z. v znení zákona č. 193/2007 Z. z.
 
-- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKEJ ÚNIE
+- ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
 
   - 1. Smernica Rady 76/135/EHS z 20. januára 1976 o vzájomnom uznávaní plavebných licencií pre vnútrozemské plavidlá (Mimoriadne vydanie Ú. v. EÚ, kap. 7/zv. 1; Ú. v. ES L 21, 29. 1. 1976) v znení smernice Rady 78/1016/EHS z 23. novembra 1978 (Mimoriadne vydanie Ú. v. EÚ, kap. 7/zv. 1; Ú. v. ES L 349, 13. 12. 1978).
 
@@ -31,3 +31,7 @@ Príloha č. 1 k zákonu č. 338/2000 Z. z. v znení zákona č. 193/2007 Z. z.
   - 14. Smernica Komisie 2014/103/EÚ z 21. novembra 2014, ktorou sa prílohy k smernici Európskeho parlamentu a Rady 2008/68/ES o vnútrozemskej preprave nebezpečného tovaru tretíkrát prispôsobujú vedecko-technickému pokroku (Ú. v. EÚ L 335, 22. 11. 2014).
 
   - 15. Smernica Komisie (EÚ) 2016/2309 zo 16. decembra 2016, ktorou sa prílohy k smernici Európskeho parlamentu a Rady 2008/68/ES o vnútrozemskej preprave nebezpečného tovaru štvrtýkrát prispôsobujú vedecko-technickému pokroku (Ú. v. EÚ L 345, 20. 12. 2016).
+
+  - 16. Smernica Európskeho parlamentu a Rady (EÚ) 2016/1629 zo 14. septembra 2016, ktorou sa stanovujú technické požiadavky na lode vnútrozemskej plavby, ktorou sa mení smernica 2009/100/ES a ktorou sa zrušuje smernica 2006/87/ES (Ú. v. EÚ L 252, 16. 9. 2016).
+
+  - 17. Delegovaná smernica Komisie (EÚ) 2018/970 z 18. apríla 2018, ktorou sa menia prílohy II, III a V k smernici Európskeho parlamentu a Rady (EÚ) 2016/1629, ktorou sa stanovujú technické požiadavky na lode vnútrozemskej plavby (Ú. v. EÚ L 174, 10. 7. 2018).

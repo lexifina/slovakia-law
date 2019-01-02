@@ -56,6 +56,6 @@
 
 (8) Vodca plavidla alebo zostavy plavidiel je zodpovedný za zadané údaje do transpondéra a je povinný zadať do transpondéra akékoľvek zmeny údajov podľa odseku 7 písm. f) až j) a p).
 
-(9) Transpondér inštalovaný na plavidle alebo na plavidle v zostave, ktoré zabezpečuje pohyb tejto zostavy, nemusí byť zapnutý počas státia na kotvisku, kde je povolené státie zakotvením alebo vyviazaním sa k brehu, v prístave alebo prístavisku.
+(9) Transpondér inštalovaný na plavidle alebo na plavidle v zostave, ktoré zabezpečuje pohyb tejto zostavy, nemusí byť zapnutý počas státia v prístave.
 
 (10) Vodca plavidla je povinný riadiť sa údajmi prijatými prostredníctvom transpondéra na zaistenie bezpečnosti a plynulosti plavebnej prevádzky.

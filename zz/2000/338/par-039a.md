@@ -48,7 +48,7 @@
 
 (11) Informácie z riečnych informačných služieb podľa odsekov 4 a 5, vrátane osobných údajov v rozsahu meno, priezvisko a adresa trvalého pobytu prevádzkovateľa plavidla a meno, priezvisko, adresa trvalého pobytu a e-mailová adresa odosielateľa elektronického hlásenia, možno poskytnúť na základe pridelených užívateľských práv
 
-- a) správcom systémov riečnych informačných služieb iného členského štátu Európskej únie a zmluvného štátu Dohody o Európskom hospodárskom priestore na účely plnenia úloh riečnych informačných služieb,
+- a) správcom systémov riečnych informačných služieb iného členského štátu Európskej únie a štátu, ktorý je zmluvnou stranou Dohody o Európskom hospodárskom priestore na účely plnenia úloh riečnych informačných služieb,
 
 - b) správcom systémov riečnych informačných služieb tretieho štátu v rozsahu vymedzenom v uzavretej vzájomnej dohode o poskytovaní týchto informácií na účely plnenia úloh riečnych informačných služieb,
 

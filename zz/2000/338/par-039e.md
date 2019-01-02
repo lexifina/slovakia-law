@@ -10,13 +10,13 @@
 
 - d) požadovať potrebné vyjadrenia, údaje a vysvetlenia, ktoré sa týkajú uplatňovania tohto zákona,
 
-- e) požadovať od vodcu plavidla alebo členov lodnej posádky predloženie lodných listín podľa § 28, preukazu o odbornej spôsobilosti a preukazu totožnosti,
+- e) požadovať od vodcu plavidla predloženie lodných listín podľa § 28, preukazu o odbornej spôsobilosti a preukazu totožnosti a od členov posádky plavidla alebo vedúceho plavby na plavebnej komore predloženie preukazu o odbornej spôsobilosti a preukazu totožnosti,
 
 - f) nazerať do príslušných lodných listín a listín súvisiacich s plavbou a zadržať tieto listiny na účely vyhotovenia fotokópií,
 
 - g) nazerať do dokumentácie kvalifikačného kurzu, robiť si z nej výpisy, odpisy a zadržať túto dokumentáciu na účely vyhotovenia jej fotokópie,
 
-- h) vyzvať vodcu plavidla, člena posádky plavidla alebo školiteľa, aby sa podrobil vyšetreniu, či nie je ovplyvnený alkoholom alebo inou návykovou látkou, ktoré môžu znížiť jeho schopnosť bezpečne viesť plavidlo,
+- h) vyzvať, spôsobom uvedeným v osobitnom predpise,<sup>24cb</sup>) vodcu plavidla, člena posádky plavidla, vedúceho plavby na plavebnej komore alebo školiteľa, aby sa podrobil vyšetreniu, či nie je ovplyvnený alkoholom alebo inou návykovou látkou, ktoré môžu znížiť jeho schopnosť bezpečne viesť plavidlo,
 
 - i) zadržať plavidlo alebo iné veci na účely získania dôkazu,
 

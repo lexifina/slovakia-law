@@ -4,7 +4,7 @@
 
 - a) vývoj ponuky kapacity plavidiel prevyšuje vývoj dopytu kapacity plavidiel nepretržite najmenej počas 12 mesiacov alebo nepriepustnosť vodných ciest obmedzuje intenzita vodnej dopravy nepretržite najmenej počas 6 mesiacov a
 
-- b) významnému počtu dopravcov hrozí úpadok podľa osobitného predpisu.<sup>12a</sup>)
+- b) významnému počtu dopravcov hrozí úpadok podľa osobitného predpisu.<sup>12aa</sup>)
 
 (2) Ak nastane porucha trhu vo vodnej doprave, ministerstvo požiada Európsku komisiu o prijatie opatrení na zabránenie zvyšovania prepravnej kapacity plavidiel.
 

@@ -4,7 +4,7 @@
 
 (2) Na tvorbu a použitie účtov sa vzťahuje osobitný predpis.<sup>12c</sup>)
 
-(3) O použití peňažných prostriedkov z účtov rozhoduje ministerstvo podľa podmienok ustanovených v rozhodnutí Európskej komisie, ak Európska komisia rozhodne v rámci prijatých opatrení podľa § 21a ods. 2 o čerpaní peňažných prostriedkov z účtov. Rozhodnutie ministerstva sa uverejňuje vo Vestníku Ministerstva dopravy, výstavby a regionálneho rozvoja Slovenskej republiky.
+(3) O použití peňažných prostriedkov z účtov rozhoduje ministerstvo podľa podmienok ustanovených v rozhodnutí Európskej komisie, ak Európska komisia rozhodne v rámci prijatých opatrení podľa § 21a ods. 2 o čerpaní peňažných prostriedkov z účtov. Rozhodnutie ministerstva sa uverejňuje vo Vestníku Ministerstva dopravy a výstavby Slovenskej republiky.
 
 (4) Ministerstvo raz ročne informuje o zostatku na účtoch Európsku komisiu.
 
@@ -22,4 +22,4 @@
 
 - b) doklad o tom, že plavidlo vykonalo v priebehu 24 mesiacov pred podaním žiadosti najmenej 10 plavieb na účel prepravy nákladu na vzdialenosť viac ako 50 km pri nákladovej kapacite aspoň 70 %.
 
-(7) Ak má ministerstvo pochybnosti o technickej a prevádzkovej spôsobilosti plavidla, vyzve žiadateľa na predloženie zápisu z overenia prevádzkovej spôsobilosti plavidla vydaný Dopravným úradom v lehote do 10 dní.
+(7) Ak má ministerstvo pochybnosti o technickej spôsobilosti plavidla, vyzve žiadateľa na predloženie zápisu z overenia technickej spôsobilosti plavidla vydaného Dopravným úradom v lehote do 10 pracovných dní.

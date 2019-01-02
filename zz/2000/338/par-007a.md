@@ -18,7 +18,7 @@
 
 - c) pri akciovej spoločnosti aj výpis zo zoznamu akcionárov, ak ide o listinné cenné papiere alebo výpis z účtu majiteľa cenných papierov, ak ide o zaknihované cenné papiere alebo obdobný výpis a kópia stanov akciovej spoločnosti alebo kópia obdobnej listiny,
 
-- d) kópia lodného osvedčenia plavidla, na ktoré má byť osvedčenie o príslušnosti k plavbe na Rýne vydané, a
+- d) kópia lodného osvedčenia Európskej únie (ďalej len „lodné osvedčenie“) plavidla, na ktoré má byť osvedčenie o príslušnosti k plavbe na Rýne vydané, a
 
 - e) výpis z registra plavidiel alebo obdobný výpis.
 

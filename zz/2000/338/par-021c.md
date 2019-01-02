@@ -1,6 +1,6 @@
 # § 21c Poskytovanie dotácií vo vodnej doprave
 
-(1) Ministerstvo môže na základe písomnej žiadosti o poskytnutie dotácie (ďalej len „žiadosť“) dopravcovi poskytnúť dotáciu na zvyšovanie ekologickej znášanlivosti plavidiel,<sup>12da</sup>) zvyšovanie ekologickej bezpečnosti plavidiel,<sup>12da</sup>) prestavby plavidiel na prepravu tovaru na účel zvýšenia ich multimodality na podklade projektov na dotácie (ďalej len „projekt“), ak tým nebudú dotknuté pravidlá poskytovania štátnej pomoci podľa osobitného predpisu.<sup>3jb</sup>)
+(1) Ministerstvo môže na základe písomnej žiadosti o poskytnutie dotácie (ďalej len „žiadosť“) dopravcovi poskytnúť dotáciu na zvyšovanie ekologickej znášanlivosti plavidiel, zvyšovanie ekologickej bezpečnosti plavidiel, prestavby plavidiel na prepravu tovaru na účel zvýšenia ich multimodality na podklade projektov na dotácie (ďalej len „projekt“), ak tým nebudú dotknuté pravidlá poskytovania štátnej pomoci podľa osobitného predpisu.<sup>3jb</sup>)
 
 (2) Na žiadosť podnikateľa v kombinovanej doprave s využitím vodnej dopravy možno poskytnúť dotáciu, ak tým nebudú dotknuté pravidlá poskytovania štátnej pomoci podľa osobitného predpisu<sup>3jb</sup>) aj na
 

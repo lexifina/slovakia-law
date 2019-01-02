@@ -92,7 +92,9 @@
 
 - 12) § 21 ods. 2 Obchodného zákonníka.
 
-- 12a) Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 12a) Čl. 2 nariadenia Rady (EHS) č. 3921/91 zo 16. decembra 1991, ktorým sa stanovujú podmienky, za ktorých môžu dopravcovia z iných štátov vykonávať prepravu tovaru alebo osôb vnútrozemskou vodnou dopravou v rámci členského štátu (Mimoriadne vydanie Ú. v. EÚ, kap. 7/zv. 1; Ú. v. ES L 373, 31. 12. 1991).
+
+- 12aa) Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 12b) Čl. 2 ods. 2 nariadenia Rady (ES) č. 718/1999 z 29. marca 1999 o pláne kapacity flotily Spoločenstva na podporu vnútrozemskej vodnej dopravy (Mimoriadne vydanie Ú. v. EÚ, kap. 7/zv. 4; Ú. v. ES L 90, 2. 4. 1999).
 
@@ -102,17 +104,17 @@
 
 - 12d) Čl. 4 nariadenia Rady (ES) č. 718/1999 (Mimoriadne vydanie Ú. v. EÚ, kap. 7/zv. 4.).
 
-- 12da) Nariadenie vlády Slovenskej republiky č. 193/2009 Z. z. o technickej spôsobilosti a prevádzkovej spôsobilosti plavidiel v znení nariadenia vlády Slovenskej republiky č. 416/2009 Z. z.
-
 - 12db) § 8a ods. 5 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 383/2008 Z. z.
 
 - 12dc) Zákon č. 523/2004 Z. z. v znení neskorších predpisov.
 
 - 12dd) § 31 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
 
-- 12e) Zákon č. 505/2009 Z. z. o akreditácii orgánov posudzovania zhody a o zmene a doplnení niektorých zákonov.
+- 12e) Zákon č. 505/2009 Z. z. o akreditácii orgánov posudzovania zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 12f) § 3 ods. 1 nariadenia vlády Slovenskej republiky č. 193/2009 Z. z.
+- 12f) Čl. 8 nariadenia Európskeho parlamentu a Rady (ES) č. 765/2008 z 9. júla 2008, ktorým sa stanovujú požiadavky akreditácie a dohľadu nad trhom v súvislosti s uvádzaním výrobkov na trh a ktorým sa zrušuje nariadenie (EHS) č. 339/93 (Ú. v. EÚ L 218, 13. 8. 2008).
+
+- 12fa) Napríklad STN EN ISO IEC 17020 Posudzovanie zhody. Požiadavky na činnosť rôznych typov orgánov vykonávajúcich inšpekciu (ISO/IEC 17020) (01 5260).
 
 - 12g) Časť 1 kapitola 1.16 a časť 8 kapitola 8.1 Európskej dohody o medzinárodnej preprave nebezpečného tovaru po vnútrozemských vodných cestách (ADN) (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 331/2010 Z. z.) v platnom znení.
 
@@ -126,7 +128,7 @@
 
 - 13) Zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov.
 
-- 13a) Nariadenie vlády Slovenskej republiky č. 417/2004 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na plavidlá určené na rekreačné účely v znení nariadenia vlády Slovenskej republiky č. 86/2006 Z. z.
+- 13a) Nariadenie vlády Slovenskej republiky č. 77/2016 Z. z. o sprístupňovaní rekreačných plavidiel a vodných skútrov na trhu.
 
 - 13aa) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
 
@@ -170,6 +172,8 @@
 
 - 21a) Časť 1 kapitola 1.8 bod 1.8.4 Európskej dohody o medzinárodnej preprave nebezpečného tovaru po vnútrozemských vodných cestách (ADN) (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 331/2010 Z. z.) v platnom znení.
 
+- 21aa) § 126 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
 - 21b) § 20 až 23 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 21c) Nariadenie Rady (ES) č. 1356/96 z 8. júla 1996 o spoločných pravidlách uplatniteľných na vnútrozemskú nákladnú a osobnú vodnú dopravu medzi členskými štátmi z hľadiska slobody poskytovať také dopravné služby (Mimoriadne vydanie Ú. v. EÚ, kap. 6/zv. 2; Ú. v. ES L 175, 13. 7. 1996).
@@ -178,7 +182,13 @@
 
 - 22a) Časť 1 kapitola 1.16 body 1.16.1.2.5 a 1.16.15 Európskej dohody o medzinárodnej preprave nebezpečného tovaru po vnútrozemských vodných cestách (ADN) (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 331/2010 Z. z.) v platnom znení.
 
-- 23) § 126 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+- 22b) Zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
+
+- Nariadenie Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) (Ú. v. EÚ L 119, 4. 5. 2016).
+
+- 22c) Napríklad STN EN ISO 10087 Malé plavidlá. Identifikácia plavidla. Kódovací systém (ISO 10087) (32 3110).
+
+- 23) Vykonávacie nariadenie Komisie (EÚ) 2017/1 z 3. januára 2017 o postupoch na identifikáciu plavidiel podľa smernice Európskeho parlamentu a Rady 2013/53/EÚ o rekreačných plavidlách a vodných skútroch (Ú. v. EÚ L 1, 4. 1. 2017).
 
 - 23a) Časť 1 kapitola 1.5 bod 1.5.2 Európskej dohody o medzinárodnej preprave nebezpečného tovaru po vnútrozemských vodných cestách (ADN) (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 331/2010 Z. z.) v platnom znení.
 
@@ -210,12 +220,14 @@
 
 - 24ca) Nariadenie (ES) č. 415/2007.
 
+- 24cb) § 5 zákona Národnej rady Slovenskej republiky č. 219/1996 Z. z. o ochrane pred zneužívaním alkoholických nápojov a o zriaďovaní a prevádzke protialkoholických záchytných izieb v znení neskorších predpisov.
+
 - 24d) Zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení zákona č. 418/2002 Z. z. Trestný poriadok.
 
 - 24e) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 24f) Nariadenie (EÚ) č. 1177/2010.
 
-- 25) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+- 25) § 17 ods. 1 a § 31 ods. 2 písm. a) zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
 
 - 26) Zákon č. 455/1991 Zb. v znení neskorších predpisov.
