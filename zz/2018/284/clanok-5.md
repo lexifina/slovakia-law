@@ -9,3 +9,17 @@ Zákon č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady 
   - „<sup>56a</sup>) § 38a ods. 2 zákona č. 338/2000 Z. z. v znení neskorších predpisov.“.
 
 - 2. V § 48 ods. 3 písm. b) sa slová „Agentúre rozvoja vodnej dopravy“ nahrádzajú slovami „Ministerstvu dopravy a výstavby Slovenskej republiky“.
+
+- 3. V § 48 ods. 4 písm. t) sa slová „prevádzkovateľovi plávajúceho zariadenia<sup>58a</sup>) na státie plávajúceho zariadenia“ nahrádzajú slovami „na státie plávajúceho zariadenia<sup>58a</sup>)“.
+
+- 4. V § 48 sa odsek 4 dopĺňa písmenami u) a v), ktoré znejú:
+
+- „u)
+
+- vydávať súhlas na zriadenie požičovne plavidiel,
+
+- v)
+
+- vydávať súhlas na prevádzku prístaviska, prekladiska, výväziska alebo kotviska.“.
+
+- 5. V § 73 ods. 1 sa za slová „podľa § 48 ods. 4 písm. t)“ vkladajú slová „až v)“.
