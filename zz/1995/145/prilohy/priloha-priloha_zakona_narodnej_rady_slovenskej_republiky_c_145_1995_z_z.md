@@ -1606,7 +1606,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Splnomocnenie
 
-      - Za podanie žiadosti o dodatočné vydanie povolenia podľa písmena u) tejto položky správny orgán vyberie poplatok vo výške päťnásobku určenej sadzby.
+      - Za podanie žiadosti o dodatočné vydanie povolenia podľa písmena v) tejto položky správny orgán vyberie poplatok vo výške päťnásobku určenej sadzby.
 
     - Poznámky
 
@@ -3020,107 +3020,107 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - n) Vydanie potvrdenia zdravotnej spôsobilosti | 5 eur |
 
+  - o) Vydanie potvrdenia o znalosti špecifických úsekov vodnej cesty Dunaj | 10 eur |
+
   - Oslobodenie Od poplatku podľa písmen c) až e) tejto položky sú oslobodení príslušníci Hasičského a záchranného zboru na služobné účely a plavební inšpektori. |
 
   - Poznámka Poplatky podľa tejto položky sa vzťahujú iba na vnútrozemskú plavbu. |
 
     - Položka 94
 
-  - a) Vydanie lodného osvedčenia a vykonanie prehliadky prevádzkovej spôsobilosti plavidla |
+  - a) Vykonanie technickej prehliadky malého plavidla |
 
-  - 1. pre malé plavidlá s dĺžkou do 7 m |
+  - 1. s dĺžkou do 7 metrov |
 
-  - 1.1. bez vlastného strojného pohonu | 33 eur
+  - 1.1. bez vlastného strojného pohonu | 8 eur
 
-  - 1.2. s vlastným strojným pohonom | 69,50 eura
+  - 1.2. s vlastným strojným pohonom | 10 eur
 
-  - 2. pre malé plavidlá s dĺžkou väčšou ako 7 m |
+  - 2. s dĺžkou väčšou ako 7 metrov |
+
+  - 2.1. bez vlastného strojného pohonu | 34 eur
+
+  - 2.2. s vlastným strojným pohonom | 50 eur
+
+  - b) Vydanie lodného osvedčenia malého plavidla |
+
+  - 1. s dĺžkou do 7 m |
+
+  - 1.1. bez vlastného strojného pohonu | 34 eur
+
+  - 1.2. s vlastným strojným pohonom | 70 eur
+
+  - 2. s dĺžkou väčšou ako 7 m |
 
   - 2.1. bez vlastného strojného pohonu | 66 eur
 
   - 2.2. s vlastným strojným pohonom | 116 eur
 
-  - 3. pre plavidlá, ktoré nie sú malými plavidlami, |
+  - c) Konanie o predĺžení platnosti lodného osvedčenia malého plavidla alebo o vykonaní zmien v lodnom osvedčení malého plavidla alebo o vydaní duplikátu lodného osvedčenia malého plavidla |
 
-  - 3.1 bez vlastného strojného pohonu | 250 eur
+  - 1. s dĺžkou do 7 m |
 
-  - 3.2 s vlastným strojným pohonom | 500 eur
+  - 1.1. bez vlastného strojného pohonu | 16 eur
 
-  - b) Podanie žiadosti o predĺženie platnosti lodného osvedčenia a vykonanie zmien v lodnom osvedčení alebo žiadosti o vydanie jeho duplikátu |
+  - 1.2. s vlastným strojným pohonom | 44 eur
 
-  - 1. pre malé plavidlá s dĺžkou do 7 m |
+  - 2. s dĺžkou väčšou ako 7 m |
 
-  - 1.1. bez vlastného strojného pohonu | 16,50 eura
-
-  - 1.2. s vlastným strojným pohonom | 43 eur
-
-  - 2. pre malé plavidlá s dĺžkou väčšou ako 7 m |
-
-  - 2.1. bez vlastného strojného pohonu | 33 eur
+  - 2.1. bez vlastného strojného pohonu | 34 eur
 
   - 2.2. s vlastným strojným pohonom | 66 eur
 
-  - 3. pre plavidlá, ktoré nie sú malými plavidlami, |
+  - d) Vydanie lodného osvedčenia Európskej únie (ďalej len „lodné osvedčenie“) pre plavidlá |
 
-  - 3.1. bez vlastného strojného pohonu | 165 eur
+  - 1. bez vlastného strojného pohonu | 250 eur
 
-  - 3.2. s vlastným strojným pohonom | 330 eur
+  - 2. s vlastným strojným pohonom | 500 eur
 
-  - c) Vykonanie technickej prehliadky |
+  - e) Konanie o predĺžení platnosti lodného osvedčenia alebo o vykonaní zmien v lodnom osvedčení alebo o vydaní duplikátu lodného osvedčenia pre plavidlá |
 
-  - 1. malého plavidla s dĺžkou do 7 metrov |
+  - 1. bez vlastného strojného pohonu | 166 eur
 
-  - 1.1 bez vlastného strojného pohonu | 6,50 eura
+  - 2. s vlastným strojným pohonom | 330 eur
 
-  - 1.2 s vlastným strojným pohonom | 9,50 eura
+  - f) Vydanie dočasného lodného osvedčenia | 66 eur
 
-  - 2. malého plavidla s dĺžkou väčšou ako 7 metrov |
+  - g) Predĺženie platnosti dočasného lodného osvedčenia alebo vydanie jeho duplikátu | 34 eur
 
-  - 2.1 bez vlastného strojného pohonu | 33 eur
+  - h) Vydanie osobitného povolenia na prevádzku plavidla | 50 eur
 
-  - 2.2 s vlastným strojným pohonom | 49,50 eura
+  - i) Vydanie osobitného povolenia na prepravu plavidla | 50 eur
 
-  - d) Vydanie doplnkového lodného osvedčenia | 65 eur
-
-  - e) Vydanie dočasného lodného osvedčenia | 65 eur
-
-  - f) Vydanie osobitného povolenia na prevádzku plavidla | 49,50 eura
-
-  - g) Vydanie duplikátu doplnkového lodného osvedčenia | 33 eur
-
-  - h) Predĺženie platnosti dočasného lodného osvedčenia alebo vydanie jeho duplikátu | 33 eur
-
-  - i) Vydanie duplikátu osobitného povolenia na prevádzku plavidla alebo duplikátu osobitného povolenia na prepravu plavidla | 25 eur
-
-  - j) Vydanie osobitného povolenia na prepravu plavidla | 49,50 eura
+  - j) Vydanie duplikátu osobitného povolenia na prevádzku plavidla alebo duplikátu osobitného povolenia na prepravu plavidla | 20 eur
 
   - k) Vydanie ciachového preukazu pre plavidlá |
 
-  - 1. určené na prepravu cestujúcich alebo nákladov | 165,50 eura
+  - 1. určené na prepravu cestujúcich alebo nákladov | 166 eur
 
-  - 2. neurčené na prepravu cestujúcich alebo nákladov | 99,50 eura
+  - 2. neurčené na prepravu cestujúcich alebo nákladov | 100 eur
 
-  - l) Podanie žiadosti o predĺženie platnosti ciachového preukazu a vykonanie zmien v ciachovom preukaze alebo žiadosti o vydanie jeho duplikátu pre plavidlá |
+  - l) Konanie o predĺžení platnosti ciachového preukazu alebo o vykonaní zmien v ciachovom preukaze alebo o vydaní jeho duplikátu pre plavidlá |
 
   - 1. určené na prepravu cestujúcich alebo nákladov | 56 eur
 
-  - 2. neurčené na prepravu cestujúcich alebo nákladov | 33 eur
+  - 2. neurčené na prepravu cestujúcich alebo nákladov | 34 eur
 
   - m) Zápis do registra plavidiel Slovenskej republiky |
 
-  - 1. malých plavidiel | 16,50 eura
+  - 1. malých plavidiel | 20 eur
 
-  - 2. plavidiel, ktoré nie sú malými plavidlami | 33 eur
+  - 2. plavidiel, ktoré nie sú malými plavidlami | 40 eur
 
-  - n) Výpis z registra plavidiel Slovenskej republiky | 16,50 eura
+  - n) Výpis z registra plavidiel Slovenskej republiky | 10 eur
 
-  - o) Výmaz plavidla z registra plavidiel Slovenskej republiky | 6,50 eura
+  - o) Výmaz plavidla z registra plavidiel Slovenskej republiky | 10 eur
 
-  - p) Podanie žiadosti o zápis zmeny údajov do registra plavidiel | 33 eura
+  - p) Konanie o zápise zmeny údajov do registra plavidiel | 30 eur
+
+  - q) Konanie o pridelení jedinečného kódu výrobcu | 20 eur
 
   - Oslobodenie Od poplatku podľa písmena o) tejto položky je oslobodený výmaz plavidla, o ktorého trvalom vyradení z prevádzky rozhodol Dopravný úrad. |
 
-  - Poznámky 1. Za vykonanie zmien v lodnom osvedčení podľa písmena b) tejto položky a za vykonanie zmien v ciachovom preukaze podľa písmena l) tejto položky z dôvodov nezavinených ich držiteľom správny orgán poplatok nevyberá. 2. Poplatky podľa tejto položky sa vzťahujú iba na vnútrozemskú plavbu. |
+  - Poznámky 1. Za vykonanie zmien v lodnom osvedčení podľa písmen c) a e) tejto položky a za vykonanie zmien v ciachovom preukaze podľa písmena l) tejto položky z dôvodov nezavinených ich držiteľom správny orgán poplatok nevyberá. 2. Poplatky podľa tejto položky sa vzťahujú iba na vnútrozemskú plavbu. |
 
     - Položka 95
 
@@ -3136,17 +3136,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - d) Vydanie súhlasu na individuálnu stavbu malého plavidla, ktoré podlieha registrácii a súčasne nepodlieha povinnej klasifikácii podľa schválenej typovej dokumentácie | 16,50 eura
 
-  - e) Povolenie na zriadenie požičovne plavidiel |
-
-  - 1. plavidlá s vlastným strojným pohonom | 132,50 eura
-
-  - 2. plavidlá bez vlastného strojného pohonu | 33 eur
+  - e) Povolenie na zriadenie požičovne plavidiel | 130 eur
 
   - f) Vydanie súhlasu na vykonávanie činnosti na vodnej ceste alebo v jej blízkosti v súvislosti s bezpečnosťou a plynulosťou plavby | 116 eur
 
   - g) Vydanie duplikátu typového osvedčenia malého plavidla, ktoré podlieha registrácii a súčasne nepodlieha povinnej klasifikácii | 50 eur
 
-  - h) Vydanie povolenia na usporiadanie verejného podujatia, za každý úkon | 20 eur
+  - h) Vydanie súhlasu na usporiadanie verejného podujatia, za každý úkon | 20 eur
 
   - i) Vydanie poverenia na vykonávanie školení žiadateľov o osvedčenie |
 
@@ -3170,9 +3166,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - m) Udelenie dopravnej licencie |
 
-  - 1. na medzinárodnú verejnú vodnú dopravu, za každý aj začatý rok | 165,50 eura
+  - 1. na medzinárodnú verejnú vodnú dopravu na jeden kalendárny rok | 165,50 eura
 
-  - 2. na vnútroštátnu verejnú vodnú dopravu, za každý aj začatý rok | 99,50 eura
+  - 2. na vnútroštátnu verejnú vodnú dopravu na jeden kalendárny rok | 99,50 eura
 
   - n) Udelenie dopravnej licencie na dobu neurčitú | 995,50 eura
 
@@ -3191,6 +3187,12 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - u) Predĺženie platnosti osvedčenia o schválení plavidla alebo vydanie jeho duplikátu | 33 eur
 
   - v) Vydanie schvaľovacieho osvedčenia | 33 eur
+
+  - w) Vydanie povolenia na prevádzku prístaviska, prekladiska, výväziska alebo kotviska na sledovanej vodnej ceste | 66 eur
+
+  - x) Konanie o vydaní osvedčenia o príslušnosti k plavbe na Rýne | 30 eur
+
+  - y) Konanie o vydaní povolenia na účasť zahraničného dopravcu vo vnútroštátnej vodnej doprave (kabotáž) na jednu plavbu | 50 eur
 
     - Položka 96
 
