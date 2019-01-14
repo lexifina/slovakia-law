@@ -48,7 +48,9 @@
 
 - 13a) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
-- 13b) Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
+- 13aa) § 3 písm. n) zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení zákona č. 273/2015 Z. z.
+
+- 13b) Zákon č. 305/2013 Z. z. v znení neskorších predpisov.
 
 - 14) Čl. 71 nariadenia Rady (ES) č. 6/2002 z 12. decembra 2001 o dizajnoch Spoločenstva (Ú. v. ES L 3, 5. 1. 2002) v platnom znení.
 
