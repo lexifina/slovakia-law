@@ -1,0 +1,1 @@
+- 1) súbor STN EN 15221 Facility management (96 2001).
