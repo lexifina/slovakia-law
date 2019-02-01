@@ -42,8 +42,12 @@
 
 (8) Účastníkom konania podľa odseku 1 je navrhovateľ. Rozhodnutia podľa odsekov 4 a 5 sa doručujú navrhovateľovi do vlastných rúk. Proti rozhodnutiu podľa odseku 4 nie je možné podať odvolanie.
 
-(9) Okresný úrad vedie evidenciu rozhodnutí podľa odseku 4, navrhovateľov a doterajších náhradných pozemkov, ku ktorým vznikol podnájomný vzťah.
+(9) Okresný úrad vedie evidenciu rozhodnutí podľa odseku 4 a odseku 12, navrhovateľov a doterajších náhradných pozemkov, ku ktorým vznikol podnájomný vzťah.
 
 (10) Fyzická osoba alebo právnická osoba, ktorá má s vlastníkom, ktorému bol vyčlenený doterajší náhradný pozemok, uzatvorenú nájomnú zmluvu na tento doterajší náhradný pozemok (ďalej len „hospodáriaci subjekt“), môže v mene tohto vlastníka konať vo veci vydania rozhodnutia podľa odseku 1. Ak hospodáriaci subjekt podá v mene vlastníka návrh podľa odseku 1, vstupuje tento vlastník do postavenia navrhovateľa. Prílohou návrhu podľa odseku 1 je aj nájomná zmluva na doterajší náhradný pozemok. Účastníkom konania je hospodáriaci subjekt a vlastník, ktorému bol vyčlenený doterajší náhradný pozemok. Rozhodnutia podľa odsekov 4 a 5 sa doručujú hospodáriacemu subjektu a vlastníkovi, ktorému bol vyčlenený doterajší náhradný pozemok, do vlastných rúk. Ustanovenia odsekov 1 až 9 sa použijú primerane.
 
-(11) Na konanie podľa odsekov 1 až 10 sa vzťahuje všeobecný predpis o správnom konaní,<sup>12h</sup>) ak tento zákon v § 24c neustanovuje inak.
+(11) Ak po právoplatnosti rozhodnutia podľa odseku 4 dôjde k prevodu alebo prechodu vlastníctva pozemku, za ktorý bol vyčlenený doterajší náhradný pozemok, ku ktorému vznikol podnájomný vzťah, môže nadobúdateľ požiadať okresný úrad o vydanie rozhodnutia, že podnájomný vzťah k doterajšiemu náhradnému pozemku na čas podľa odseku 1 vzniká v jeho prospech.
+
+(12) Okresný úrad rozhodne, že nadobúdateľovi vzniká podnájomný vzťah podľa odseku 11 na čas podľa odseku 1, ak nadobúdateľ preukáže, že nadobudol od právneho predchodcu všetky pozemky, za ktoré právnemu predchodcovi vznikol podnájomný vzťah.
+
+(13) Na konanie podľa odsekov 1 až 12 sa vzťahuje všeobecný predpis o správnom konaní,<sup>12h</sup>) ak tento zákon v § 24c neustanovuje inak.
