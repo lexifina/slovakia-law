@@ -24,6 +24,8 @@
 
 - 5) Zákon Národnej rady Slovenskej republiky č. 328/1996 Z. z., ktorým sa ustanovujú nové sídla a obvody súdov, a o zmene a doplnení niektorých zákonov v znení zákona č. 481/2002 Z. z.
 
+- 5a) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) (Ú. v. EÚ L 119, 4. 5. 2016), zákon č. 85/1990 Zb. o petičnom práve v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov, zákon č. 9/2010 Z. z. o sťažnostiach v znení neskorších predpisov, zákon č. 307/2014 Z. z. o niektorých opatreniach súvisiacich s oznamovaním protispoločenskej činnosti a o zmene a doplnení niektorých zákonov v znení zákona č. 125/2016 Z. z., zákon č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov v znení zákona č. 177/2018 Z. z. a zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 6a) § 10 ods. 8 písm. a) a b) a ods. 10 Trestného poriadku.
 
 - 7) Zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
