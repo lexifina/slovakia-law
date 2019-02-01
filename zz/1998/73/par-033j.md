@@ -1,0 +1,5 @@
+# § 33j
+
+(1) Minister vnútra Slovenskej republiky do 15 dní odo dňa, keď mu bola predložená zápisnica o priebehu výberového konania, predloží výboru pre obranu a bezpečnosť najmenej troch kandidátov z uchádzačov, ktorých komisia vyhodnotila ako vhodných na funkciu riaditeľa Úradu inšpekčnej služby. Ak komisia vyhodnotila ako vhodných na funkciu riaditeľa Úradu inšpekčnej služby menej ako troch uchádzačov, minister vnútra Slovenskej republiky predloží výboru pre obranu a bezpečnosť ako kandidátov všetkých uchádzačov, ktorých komisia vyhodnotila ako vhodných na funkciu riaditeľa Úradu inšpekčnej služby.
+
+(2) Ak výbor pre obranu a bezpečnosť neodporučí vláde vymenovať do funkcie riaditeľa Úradu inšpekčnej služby žiadneho z predložených kandidátov, Ministerstvo vnútra Slovenskej republiky do 30 dní od oznámenia rozhodnutia výboru Ministerstvu vnútra Slovenskej republiky vyhlási nové výberové konanie. Ministerstvo vnútra Slovenskej republiky vyhlási nové výberové konanie aj vtedy, ak vláda do 30 dní od oznámenia rozhodnutia výboru vláde nevymenuje do funkcie riaditeľa Úradu inšpekčnej služby žiadneho z kandidátov odporúčaných výborom pre obranu a bezpečnosť.

@@ -44,7 +44,9 @@
 
 - § 2 písm. a) zákona č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu.
 
-- 11) Zákon Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
+- 10f) Napríklad § 7 ods. 12 zákona č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 6/2019 Z. z.
+
+- 11) Zákon č. 663/2007 Z. z. o minimálnej mzde v znení neskorších predpisov.
 
 - 11a) Štvrtá časť zákona č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
@@ -133,6 +135,10 @@
 - 28) § 7 ods. 4 až 7 zákona č. 283/2002 Z. z. v znení zákona č. 81/2005 Z. z.
 
 - 29) § 13 zákona č. 283/2002 Z. z. v znení zákona č. 81/2005 Z. z.
+
+- 29a) § 36 ods. 2 až 6 zákona č. 283/2002 Z. z. v znení neskorších predpisov.
+
+- 29b) § 36 ods. 9 až 13 zákona č. 283/2002 Z. z. v znení neskorších predpisov.
 
 - 30) Zákon Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci.
 
