@@ -610,6 +610,8 @@
 
 - 120a) Zákon č. 57/2018 Z. z. o regionálnej investičnej pomoci a o zmene a doplnení niektorých zákonov.
 
+- 120aa) § 18 zákona č. 321/2014 Z. z. o energetickej efektívnosti a o zmene a doplnení niektorých zákonov v znení zákona č. 4/2019 Z. z.
+
 - 120b) § 6 zákona č. 57/2018 Z. z.
 
 - 120c) § 9 ods. 1 a 2, § 10 ods. 9 zákona č. 561/2007 Z. z. v znení neskorších predpisov.
