@@ -1,6 +1,6 @@
 # § 9c
 
-(1) Koncesný majetok je majetok vyššieho územného celku, ktorý užíva koncesionár v rozsahu, za podmienok a v lehote dohodnutej v koncesnej zmluve na uskutočnenie stavebných prác alebo v koncesnej zmluve na poskytnutie služby uzatvorenej podľa osobitného zákona.<sup>19ab</sup>)
+(1) Koncesný majetok je majetok vyššieho územného celku, ktorý užíva koncesionár v rozsahu, za podmienok a v lehote dohodnutej v koncesnej zmluve,<sup>19ab</sup>) ak riziko vyplývajúce z práva na využívanie stavby alebo služby na dohodnutý čas alebo z tohto práva spojeného s peňažným plnením znáša v prevažnej miere koncesionár.
 
 (2) Vyšší územný celok nesmie koncesný majetok previesť do vlastníctva iných osôb.
 
