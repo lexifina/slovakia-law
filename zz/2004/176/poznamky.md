@@ -52,6 +52,12 @@
 
 - 22e) § 38 a 39 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
+- 22f) § 18 zákona č. 321/2014 Z. z. o energetickej efektívnosti a o zmene a doplnení niektorých zákonov v znení zákona č. 4/2019 Z. z.
+
+- 22g) Napríklad § 2 ods. 7 zákona č. 555/2005 Z. z. o energetickej hospodárnosti budov a o zmene a doplnení niektorých zákonov v znení zákona č. 300/2012 Z. z., § 9 ods. 2 zákona č. 321/2014 Z. z.
+
+- 22h) § 12 ods. 1 zákona č. 251/2012 Z. z. o energetike v znení neskorších predpisov.
+
 - 23) § 829 až 841 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
 
 - 24) § 553 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
