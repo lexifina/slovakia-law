@@ -144,6 +144,12 @@
 
 - 23bag) § 19 ods. 15 zákona č. 523/2004 Z. z. v znení zákona č. 323/2007 Z. z.
 
+- 23bah) § 18 zákona č. 321/2014 Z. z. o energetickej efektívnosti a o zmene a doplnení niektorých zákonov v znení zákona č. 4/2019 Z. z.
+
+- 23bai) Napríklad § 2 ods. 7 zákona č. 555/2005 Z. z. o energetickej hospodárnosti budov a o zmene a doplnení niektorých zákonov v znení zákona č. 300/2012 Z. z., § 9 ods. 2 zákona č. 321/2014 Z. z.
+
+- 23baj) § 12 ods. 1 zákona č. 251/2012 Z. z. v znení neskorších predpisov.
+
 - 23c) § 20 až 27 zákona č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov v znení zákona č. 372/2018 Z. z.
 
 - 24) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov.
