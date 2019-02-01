@@ -106,11 +106,15 @@
 
 - 18aa) Napríklad zákon č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov.
 
+- 18ab) § 4 ods. 1 a 2 zákona Národnej rady Slovenskej republiky č. 253/1994 Z. z. v znení neskorších predpisov.
+
 - 18b) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 18ba) § 4 ods. 2 písm. d) zákona č. 180/2013 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 18baa) Napríklad § 4 ods. 1 zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov.
 
 - 19) § 63 ods. 1 písm. a) až c) zákona Národnej rady Slovenskej republiky č. 38/1993 Z. z. o organizácii Ústavného súdu Slovenskej republiky, o konaní pred ním a o postavení jeho sudcov.
 
