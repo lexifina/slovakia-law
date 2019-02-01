@@ -1,6 +1,6 @@
 # § 9c
 
-(1) Koncesný majetok je majetok obce, ktorý užíva koncesionár v rozsahu, za podmienok a v lehote dohodnutej v koncesnej zmluve na uskutočnenie stavebných prác alebo v koncesnej zmluve na poskytnutie služby uzatvorenej podľa osobitného zákona.<sup>22aa</sup>)
+(1) Koncesný majetok je majetok obce, ktorý užíva koncesionár v rozsahu, za podmienok a v lehote dohodnutej v koncesnej zmluve,<sup>22ab</sup>) ak riziko vyplývajúce z práva na využívanie stavby alebo služby na dohodnutý čas alebo z tohto práva spojeného s peňažným plnením znáša v prevažnej miere koncesionár.
 
 (2) Obec nesmie koncesný majetok previesť do vlastníctva iných osôb.
 

@@ -108,6 +108,8 @@
 
 - 22ab) Zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 22ac) § 18 zákona č. 321/2014 Z. z. o energetickej efektívnosti a o zmene a doplnení niektorých zákonov v znení zákona č. 4/2019 Z. z.
+
 - 22b) § 281 až 288 Obchodného zákonníka.
 
 - 22c) Zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov v znení neskorších predpisov.
@@ -135,6 +137,10 @@
 - 22j) Zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 22k) § 38 a 39 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
+
+- 22l) Napríklad § 2 ods. 7 zákona č. 555/2005 Z. z. o energetickej hospodárnosti budov a o zmene a doplnení niektorých zákonov v znení zákona č. 300/2012 Z. z., § 9 ods. 2 zákona č. 321/2014 Z. z.
+
+- 22m) § 12 ods. 1 zákona č. 251/2012 Z. z. o energetike v znení neskorších predpisov.
 
 - 23) § 2 zákona SNR č. 369/1990 Zb.
 
