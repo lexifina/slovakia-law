@@ -112,6 +112,8 @@
 
 - § 14a zákona č. 371/2004 Z. z. o sídlach a obvodoch súdov Slovenskej republiky a o zmene zákona č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov v znení zákona č. 517/2008 Z. z.
 
+- 30b) § 10 ods. 8 písm. b) Trestného poriadku.
+
 - 31) Civilný sporový poriadok, Civilný mimosporový poriadok a Správny súdny poriadok.
 
 - § 13 až 24 Trestného poriadku.
