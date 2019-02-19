@@ -1,0 +1,17 @@
+# Čl. I
+
+Zákon č. 180/2014 Z. z. o podmienkach výkonu volebného práva a o zmene a doplnení niektorých zákonov v znení zákona č. 356/2015 Z. z., zákona č. 125/2016 Z. z., zákona č. 69/2017 Z. z., zákona č. 73/2017 Z. z., nálezu Ústavného súdu Slovenskej republiky č. 130/2017 Z. z., nálezu Ústavného súdu Slovenskej republiky č. 131/2017 Z. z., zákona č. 165/2017 Z. z., zákona č. 177/2018 Z. z. a zákona č. 344/2018 Z. z. sa dopĺňa takto:
+
+- Za § 220 sa vkladá § 220a, ktorý znie:
+
+- „§ 220a
+
+- Opatrenie v súvislosti s odchodom Spojeného kráľovstva Veľkej Británie a Severného Írska z Európskej únie
+
+- (1)
+
+- Ak Spojené kráľovstvo Veľkej Británie a Severného Írska bude na začiatku volebného obdobia 2019 – 2024 členským štátom Európskej únie, neujme sa funkcie na základe výsledku volieb do Európskeho parlamentu v roku 2019, až kým vystúpenie Spojeného kráľovstva Veľkej Británie a Severného Írska z Európskej únie nadobudne právnu účinnosť, zvolený kandidát tej politickej strany alebo koalície, ktorá vykázala najmenší zostatok delenia. Pri rovnakom zostatku delenia neujme sa funkcie zvolený kandidát tej politickej strany alebo koalície, ktorá získala menší počet hlasov. Ak je počet platných hlasov rovnaký, rozhodne žreb.
+
+- (2)
+
+- Štátna komisia oznámi meno a priezvisko zvoleného kandidáta podľa odseku 1 predsedovi Národnej rady Slovenskej republiky. Predseda Národnej rady Slovenskej republiky odovzdá Európskemu parlamentu okrem zápisnice o výsledku volieb podľa § 95 ods. 3 aj meno a priezvisko zvoleného kandidáta podľa odseku 1.“.
