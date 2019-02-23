@@ -1,6 +1,6 @@
 # § 28b
 
-(1) Výberového konania sa okrem sudcu môže zúčastniť ten, kto spĺňa predpoklady na vymenovanie za sudcu podľa § 5 ods. 1 písm. a) až d), f), g) a ods. 2 a udelí písomný súhlas s overením predpokladov sudcovskej spôsobilosti Národným bezpečnostným úradom,<sup>4c</sup>) pre prípad, že sa stane kandidátom na funkciu sudcu.
+(1) Výberového konania sa okrem sudcu môže zúčastniť ten, kto spĺňa predpoklady na vymenovanie za sudcu podľa § 5 ods. 1 písm. a) až d), f), g) a ods. 2.
 
 (2) Uchádzač je povinný spolu so žiadosťou o zaradenie do výberového konania predložiť písomné vyhlásenie, v ktorom uvedie zoznam jemu blízkych osôb,<sup>7a</sup>) ktoré sú sudcami, zamestnancami súdov, ministerstva vrátane rozpočtových organizácií alebo príspevkových organizácií v pôsobnosti ministerstva alebo členmi výberovej komisie, a to v rozsahu meno, priezvisko, funkčné zaradenie a označenie inštitúcie. Vyhlásenie sa zverejní spolu so žiadosťou o zaradenie do výberového konania.
 
