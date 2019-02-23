@@ -1,5 +1,3 @@
-- 1) Čl. 141a ods. 5 písm. b), čl. 141a ods. 9 a čl. 154d ods. 1 Ústavy Slovenskej republiky v znení neskorších predpisov.
-
 - 1a) Napríklad § 17 Obchodného zákonníka, § 91 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 23, 23a a 23b zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
 - 2) § 89 ods. 9 Trestného zákona v znení neskorších predpisov.
