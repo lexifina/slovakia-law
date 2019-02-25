@@ -36,7 +36,7 @@
 
 - 19) § 13 ods. 1 nariadenia vlády Slovenskej republiky č. 342/2014 Z. z.
 
-- 19a) Čl. 17 vykonávacieho nariadenia (EÚ) č. 809/2014, ktorým sa stanovujú pravidlá uplatňovania nariadenia Európskeho parlamentu a Rady (EÚ) č. 1306/2013 v súvislosti s integrovaným administratívnym a kontrolným systémom, opatreniami na rozvoj vidieka a krížovým plnením (Ú. v. EÚ L 227, 31. 7. 2014) v platnom znení.
+- 19a) Čl. 17 ods. 1 vykonávacieho nariadenia Komisie (EÚ) č. 809/2014 zo 17. júla 2014, ktorým sa stanovujú pravidlá uplatňovania nariadenia Európskeho parlamentu a Rady (EÚ) č. 1306/2013 v súvislosti s integrovaným administratívnym a kontrolným systémom, opatreniami na rozvoj vidieka a krížovým plnením (Ú. v. EÚ L 227, 31. 7. 2014) v platnom znení.
 
 - 20) Čl. 13 ods. 1 prvý pododsek delegovaného nariadenia Komisie (EÚ) č. 640/2014 z 11. marca 2014, ktorým sa dopĺňa nariadenie Európskeho parlamentu a Rady (EÚ) č. 1306/2013 vzhľadom na integrovaný administratívny a kontrolný systém, podmienky zamietnutia alebo odňatia platieb a administratívne sankcie uplatniteľné na priame platby, podporné nariadenia na rozvoj vidieka a krížové plnenie (Ú. v. EÚ L 181, 20. 6. 2014).
 
