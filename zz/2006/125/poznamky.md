@@ -12,8 +12,6 @@
 
 - 3b) § 31 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
 
-- 3c) § 11 a 12 zákona č. 307/2014 Z. z. o niektorých opatreniach súvisiacich s oznamovaním protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
-
 - 3d) § 4 zákona č. 351/2015 Z. z. o cezhraničnej spolupráci pri vysielaní zamestnancov na výkon prác pri poskytovaní služieb a o zmene a doplnení niektorých zákonov.
 
 - 4) § 2 ods. 2 Obchodného zákonníka.
@@ -54,15 +52,13 @@
 
 - Zákon č. 351/2015 Z. z.
 
-- 15aaa) § 7 a 13 zákona č. 307/2014 Z. z.
-
 - 16) Zákon č. 128/2015 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov.
 
 - 16a) § 16 ods. 1 písm. a) prvý bod zákona č. 124/2006 Z. z. v znení zákona č. 154/2013 Z. z.
 
 - 17) § 11 ods. 4 a 5 Zákonníka práce.
 
-- 17a) Napríklad § 37 zákona č. 462/2007 Z. z., § 14 a 15 zákona č. 307/2014 Z. z.
+- 17a) Napríklad § 37 zákona č. 462/2007 Z. z., § 21 ods. 3 zákona č. 54/2019 Z. z. o ochrane oznamovateľov protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
 
 - 17aa) § 15 zákona č. 124/2006 Z. z. v znení neskorších predpisov.
 
@@ -88,7 +84,7 @@
 
 - § 5 až 7 zákona č. 293/2007 Z. z. o uznávaní odborných kvalifikácií.
 
-- § 7 a 13 zákona č. 307/2014 Z. z.
+- § 21 ods. 1 zákona č. 54/2019 Z. z.
 
 - Zákon č. 351/2015 Z. z.
 
