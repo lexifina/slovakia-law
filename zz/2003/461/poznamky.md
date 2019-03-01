@@ -132,6 +132,8 @@
 
 - 50) § 11 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí.
 
+- 50a) § 25 ods. 2 zákona č. 314/2018 Z. z. o Ústavnom súde Slovenskej republiky a o zmene a doplnení niektorých zákonov.
+
 - 51) Zákon č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnosti zamestnanca a o zmene a doplnení niektorých zákonov.
 
 - 53) Napríklad § 162 zákona č. 311/2001 Z. z.
