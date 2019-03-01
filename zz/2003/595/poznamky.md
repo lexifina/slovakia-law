@@ -262,7 +262,7 @@
 
 - 59j) Oznámenie Federálneho ministerstva palív a energetiky č. 59/1990 Zb. o vydaní výnosu o deputátnom uhlí a dreve.
 
-- 59ja) § 9 zákona č. 307/2014 Z. z. o niektorých opatreniach súvisiacich s oznamovaním protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
+- 59ja) § 9 zákona č. 54/2019 Z. z. o ochrane oznamovateľov protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
 
 - 59jb) § 32 zákona č. 378/2015 Z. z. o dobrovoľnej vojenskej príprave a o zmene a doplnení niektorých zákonov.
 
