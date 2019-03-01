@@ -1,5 +1,0 @@
-Andrej Kiska v. r.
-
-Pavol Paška v. r.
-
-Robert Fico v. r.
