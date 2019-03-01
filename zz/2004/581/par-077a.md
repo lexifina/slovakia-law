@@ -1,21 +1,27 @@
 # § 77a Osobitné konanie
 
-(1) Na konanie a rozhodovanie o pohľadávkach z verejného zdravotného poistenia sa vzťahujú všeobecné predpisy o správnom konaní,<sup>62</sup>) ak tento zákon neustanovuje inak.
+(1) Na konanie a rozhodovanie o pohľadávkach z verejného zdravotného poistenia sa vzťahuje Správny poriadok,<sup>62</sup>) ak osobitný zákon<sup>18j</sup>) neustanovuje inak.
 
-(2) Ustanovenie odseku 1 sa použije rovnako na rozhodovanie o pohľadávkach na poistnom a poplatkoch z omeškania, ktoré bol platiteľ poistného povinný uhradiť podľa predpisov účinných do 31. decembra 2004.
+(2) Odsek 1 sa použije rovnako na rozhodovanie o pohľadávkach na poistnom a poplatkoch z omeškania, ktoré bol platiteľ poistného povinný uhradiť podľa predpisov účinných do 31. decembra 2004.
 
-(3) Nárok na pohľadávky podľa odsekov 1 a 2 môže zdravotná poisťovňa uplatniť podaním návrhu na vydanie platobného výmeru na úrade. Podanie je možné vykonať písomnou alebo elektronickou formou. Spôsob a náležitosti elektronickej formy podania určí úrad.
+(3) Úrad rozhoduje o námietkach poistenca alebo platiteľa poistného proti výkazu nedoplatkov rozhodnutím, ak im zdravotná poisťovňa nevyhovela podľa osobitného predpisu.<sup>18j</sup>)
 
-(4) Konanie sa začína na návrh zdravotnej poisťovne. Ak zdravotná poisťovňa uplatňuje pohľadávku voči právnickej osobe, návrh musí obsahovať obchodné meno alebo názov, sídlo alebo miesto podnikania a identifikačné číslo, ak je pridelené. Ak zdravotná poisťovňa uplatňuje pohľadávku voči fyzickej osobe, návrh musí obsahovať meno, priezvisko, trvalý pobyt a rok narodenia; ak ide o fyzickú osobu oprávnenú na podnikanie, aj obchodné meno, miesto podnikania a identifikačné číslo, ak je pridelené. O začatí konania úrad účastníkov konania neupovedomuje.
+(4) Podkladom na rozhodovanie je námietka, napadnutý výkaz nedoplatkov, stanovisko zdravotnej poisťovne k námietkam a údaje o poistencovi alebo platiteľovi poistného získané podľa osobitného zákona.<sup>97aa</sup>)
 
-(5) Úrad rozhoduje o pohľadávke zdravotnej poisťovne platobným výmerom. Platobný výmer sa vydáva na základe skutočností uvedených v návrhu.
+(5) Ak je to nevyhnutné, úrad doterajší obsah spisovej dokumentácie ku konaniu doplní a na tento účel úrad vyzve poistenca, platiteľa poistného alebo zdravotnú poisťovňu na predloženie dokladov, ktoré nie je možné získať podľa osobitného zákona,<sup>97aa</sup>) v lehote deviatich dní odo dňa doručenia výzvy. Poistenca alebo platiteľa poistného zároveň úrad upozorní, že ak na výzvu nepredloží požadované doklady, rozhodne podľa obsahu spisovej dokumentácie.
 
-(6) O návrhu podľa odseku 4 je úrad povinný rozhodnúť do 15 dní odo dňa jeho prijatia.
+(6) Ak sú na to dôvody, úrad výkaz nedoplatkov zmení alebo zruší, inak námietky zamietne a výkaz nedoplatkov potvrdí. Pri zmene výkazu nedoplatkov odôvodnenie rozhodnutia obsahuje špecifikáciu pohľadávky podľa osobitného zákona.<sup>18j</sup>)
 
-(7) Platobný výmer sa doručuje všetkým účastníkom konania. Zdravotnej poisťovni sa doručuje platobný výmer v dvoch vyhotoveniach. Na doručovanie sa primerane použijú ustanovenia osobitného predpisu.<sup>97a</sup>)
+(7) Poistenec alebo platiteľ poistného, ktorý podal námietky, môže tieto námietky vziať späť, pokým o nich úrad nerozhodne. Ak poistenec alebo platiteľ poistného vzal námietky späť, nemôže ich podať znovu.
 
-(8) Proti platobnému výmeru možno podať odvolanie na úrade do 15 dní odo dňa jeho doručenia. Úrad je povinný vo veci rozhodnúť do 15 dní odo dňa doručenia odvolania. V osobitne zložitých prípadoch je úrad povinný rozhodnúť do 30 dní.
+(8) Ak poistenec alebo platiteľ poistného vzal námietky späť, úrad konanie zastaví.
 
-(9) Ak pohľadávka podľa odsekov 1 a 2 bola postúpená podľa § 85g, v konaní o takej pohľadávke je účastníkom konania platiteľ poistného, zdravotná poisťovňa a osoba, na ktorú bola pohľadávka postúpená.
+(9) Rozhodnutie sa doručuje všetkým účastníkom konania. Na doručovanie sa primerane použije Správny poriadok.
 
-(10) Konania začaté pred nadobudnutím účinnosti tohto zákona sa dokončia podľa doterajších predpisov.
+(10) Chyby v písaní, počtoch a iné zrejmé nesprávnosti v písomnom vyhotovení rozhodnutia úrad aj bez návrhu opraví a upovedomí o tom účastníkov konania.
+
+(11) Proti rozhodnutiu úradu nie je možné podať odvolanie. Rozhodnutie úradu je preskúmateľné správnym súdom.
+
+(12) Doručené rozhodnutie úradu, proti ktorému sa nemožno odvolať, je právoplatné.
+
+(13) Ak pohľadávka podľa odsekov 1 a 2 bola postúpená podľa § 85g, v konaní o takej pohľadávke je účastníkom konania platiteľ poistného alebo poistenec, zdravotná poisťovňa a osoba, na ktorú bola pohľadávka postúpená.

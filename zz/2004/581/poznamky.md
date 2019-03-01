@@ -218,6 +218,12 @@
 
 - 35aah) § 38b zákona č. 577/2004 Z. z. v znení zákona č. 87/2018 Z. z.
 
+- 35aai) § 9b zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
+- 35aaj) Čl. 75 až 79 nariadenia (ES) č. 987/2009 v platnom znení.
+
+- 35aak) Nariadenie (ES) č. 987/2009 v platnom znení.
+
 - 35ab) § 60b ods. 4 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 358/2007 Z. z.
 
 - 35b) § 9 ods. 4 zákona č. 580/2004 Z. z.
@@ -248,9 +254,9 @@
 
 - 38a) § 18 ods. 1 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
 
-- 38b) § 9 ods. 4 zákona č. 580/2004 Z. z.
+- 38ab) § 17a ods. 6 zákona č. 580/2004 Z. z. v znení zákona č. 351/2018 Z. z.
 
-- 38c) § 19 ods. 12 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
+- 38b) § 9 ods. 4 zákona č. 580/2004 Z. z.
 
 - 38d) § 27 ods. 8 a § 27a ods. 9 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
 
@@ -296,7 +302,9 @@
 
 - 41e) § 7 až 11 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
 
-- 41f) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 41f) Zákon č. 56/2018 Z. z. o posudzovaní zhody výrobku, sprístupňovaní určeného výrobku na trhu a o zmene a doplnení niektorých zákonov.
+
+- Zákon č. 505/2009 Z. z. o akreditácii orgánov posudzovania zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 41g) Zákon č. 577/2004 Z. z. v znení neskorších predpisov.
 
@@ -527,6 +535,8 @@
 - 97) Zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov.
 
 - 97a) § 17b zákona č. 580/2004 Z. z. v znení zákona č. 499/2010 Z. z.
+
+- 97aa) § 29b zákona č. 580/2004 Z. z. v znení zákona č. 351/2018 Z. z.
 
 - 97b) § 68 ods. 6 a 8 zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 

@@ -12,7 +12,7 @@
 
 (4) Žiadosť o odbornú prípravu podáva centru pre klasifikačný systém užívateľ klasifikačného systému (§ 20b ods. 2), s ktorým je osoba v pracovnoprávnom vzťahu, zamestnanec ministerstva zdravotníctva alebo zamestnanec úradu.
 
-(5) Na základe žiadosti podľa odseku 4 centrum pre klasifikačný systém vykoná odbornú prípravu osoby do šiestich kalendárnych mesiacov odo dňa podania žiadosti.
+(5) Na základe žiadosti podľa odseku 4 centrum pre klasifikačný systém vykoná odbornú prípravu osoby do deviatich kalendárnych mesiacov odo dňa podania žiadosti.
 
 (6) Odborná príprava sa končí skúškou, ktorou sa posudzujú odborné vedomosti a praktické skúsenosti osoby s používaním klasifikačného systému.
 
@@ -20,19 +20,13 @@
 
 (8) Centrum pre klasifikačný systém zapíše do zoznamu odborne spôsobilých osôb osobu, ktorá úspešne vykonala skúšku, a vydá jej do 15 dní od úspešného vykonania skúšky osvedčenie o odbornej spôsobilosti pre klasifikačný systém.
 
-(9) Centrum pre klasifikačný systém vyčiarkne zo zoznamu odborne spôsobilých osôb osobu, ktorá
-
-- a) zomrela alebo bola vyhlásená za mŕtvu,
-
-- b) bola pozbavená spôsobilosti na právne úkony alebo ktorej spôsobilosť na právne úkony bola obmedzená.
+(9) Centrum pre klasifikačný systém bezodkladne vyčiarkne zo zoznamu odborne spôsobilých osôb osobu, ktorá zomrela alebo bola vyhlásená za mŕtvu.
 
 (10) Zoznam odborne spôsobilých osôb uverejňuje úrad na svojom webovom sídle. Zoznam odborne spôsobilých osôb obsahuje
 
-- a) meno, priezvisko a akademický titul odborne spôsobilej osoby,
+- a) meno, priezvisko a akademický titul odborne spôsobilej osoby ku dňu získania osvedčenia,
 
-- b) názov alebo obchodné meno a sídlo zamestnávateľa odborne spôsobilej osoby,
-
-- c) dátum získania odbornej spôsobilosti pre klasifikačný systém.
+- b) dátum získania odbornej spôsobilosti pre klasifikačný systém.
 
 (11) Odborne spôsobilá osoba pre klasifikačný systém
 
@@ -44,6 +38,6 @@
 
 - d) nesmie vykonávať akúkoľvek činnosť súvisiacu s klasifikačným systémom pre zdravotnú poisťovňu, ak je odborne spôsobilou osobou pre klasifikačný systém u poskytovateľa ústavnej zdravotnej starostlivosti,
 
-- e) je povinná zúčastňovať sa na školeniach podľa § 20b ods. 1 písm. n),
+- e) je povinná zúčastňovať sa na školeniach podľa § 20b ods. 1 písm. m),
 
-- f) je povinná oznámiť centru pre klasifikačný systém zmenu údajov podľa odseku 10 písm. a) a b) do 30 dní odo dňa zmeny.
+- f) je povinná používať klasifikačné zoznamy v súlade s pravidlami kódovania v klasifikačnom systéme.

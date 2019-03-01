@@ -1,41 +1,65 @@
-# § 20b
+# § 20b Centrum pre klasifikačný systém
 
 (1) Centrum pre klasifikačný systém najmä
 
-- a) zabezpečuje zber, spracovanie a kontrolu dát užívateľov klasifikačného systému,
+- a) vykonáva prostredníctvom webového portálu zber medicínskych a ekonomických údajov súvisiacich s poskytovaním ústavnej zdravotnej starostlivosti od užívateľov klasifikačného systému vždy za predchádzajúci kalendárny rok v termíne do 15. apríla,
 
-- b) vykonáva výpočet základných údajov na nastavenie parametrov klasifikačného systému a spracovanie podkladov pre zoznam diagnosticko-terapeutických skupín,
+- b) definuje štruktúru zberu údajov podľa písmena a) a podľa potreby žiada doplňujúce údaje od užívateľov klasifikačného systému,
 
-- c) priebežne vyhodnocuje nastavenie parametrov z ekonomického hľadiska, klinického hľadiska a štatistického hľadiska,
+- c) analyzuje zozbierané údaje z hľadiska štatistiky, pravidiel kódovania, kalkulácií nákladov,
 
-- d) predkladá návrhy na sledovanie ďalších ukazovateľov charakterizujúcich kvalitu a efektivitu poskytovanej zdravotnej starostlivosti,
+- d) predkladá návrhy na zber ďalších ukazovateľov súvisiacich s poskytovaním ústavnej zdravotnej starostlivosti na účel vykazovania kvality a efektivity poskytovanej zdravotnej starostlivosti,
 
-- e) zabezpečuje prevádzku, správu a vývoj referenčnej databázy,
+- e) je centrálnym referenčným pracoviskom pre klasifikačný systém,
 
-- f) zabezpečuje správu a vývoj programového vybavenia,
+- f) zabezpečuje prevádzku, správu a vývoj referenčnej databázy,
 
-- g) vykonáva analýzy, poradenstvo a školenia,
+- g) zabezpečuje prevádzku a správu programového vybavenia určeného na vývoj systému,
 
-- h) zabezpečuje odovzdávanie štatistických a analytických výstupov zo spracovania dát pre potrebu užívateľov klasifikačného systému,
+- h) zabezpečuje zber a spracovanie pripomienok užívateľov klasifikačného systému,
 
-- i) zabezpečuje distribúciu aktualizovaných verzií programového vybavenia užívateľom klasifikačného systému,
+- i) vykonáva pravidelný ročný vývoj nových verzií klasifikačného systému, vydáva a aktualizuje katalóg prípadových paušálov, definičnú príručku a ostatné usmernenia a dokumenty súvisiace s používaním klasifikačného systému podľa odsekov 3 a 4,
 
-- j) zabezpečuje ochranu bezpečnosti dát odovzdaných užívateľovi klasifikačného systému,
+- j) zabezpečuje ochranu bezpečnosti údajov odovzdaných užívateľovi klasifikačného systému,
 
-- k) uskutočňuje vzdelávanie zdravotníckych pracovníkov v akreditovanom certifikačnom študijnom programe certifikovanej pracovnej činnosti klasifikačný systém v zdravotníctve,
+- k) každoročne aktualizuje zoznam zdravotných výkonov pre klasifikačný systém,
 
-- l) vykonáva odbornú prípravu na získanie odbornej spôsobilosti pre klasifikačný systém podľa § 20c,
+- l) vyjadruje sa k aktualizácii medzinárodnej klasifikácie chorôb,
 
-- m) vedie zoznam odborne spôsobilých osôb pre klasifikačný systém (ďalej len „zoznam odborne spôsobilých osôb“) s náležitosťami podľa § 20c ods. 10,
+- m) vykonáva odbornú prípravu na získanie odbornej spôsobilosti a ďalšie vzdelávanie pre klasifikačný systém podľa § 20c,
 
-- n) vykonáva školenia odborne spôsobilých osôb pre klasifikačný systém,
+- n) vedie zoznam odborne spôsobilých osôb pre klasifikačný systém, ktoré získali odbornú spôsobilosť podľa § 20c (ďalej len „zoznam odborne spôsobilých osôb“), s náležitosťami podľa § 20c ods. 10,
 
-- o) vydáva osvedčenia o zhode počítačového programu s definičnou príručkou (ďalej len „osvedčenie zhody“),
+- o) vydáva osvedčenia o zhode počítačového programu (ďalej len „osvedčenie o zhode“) podľa § 20ca,
 
-- p) dočasne pozastavuje platnosť osvedčenia o zhode,
+- p) dočasne pozastavuje platnosť osvedčenia o zhode § 20ca ods. 9,
 
-- q) zrušuje platnosť osvedčenia o zhode,
+- q) zrušuje platnosť osvedčenia o zhode podľa § 20ca ods. 10,
 
-- r) overuje správnosť zaradenia hospitalizačného prípadu do diagnosticko-terapeutickej skupiny na žiadosť zdravotnej poisťovne alebo poskytovateľa ústavnej zdravotnej starostlivosti.
+- r) aktualizuje zoznam odborne spôsobilých osôb, ktoré sú na základe získanej odbornej spôsobilosti poverené činnosťami podľa § 20c ods. 11 písm. a) až f) a ktoré poskytovateľ ústavnej zdravotnej starostlivosti nahlasuje centru pre klasifikačný systém ako osoby zodpovedné za výkon činnosti súvisiaci s odbornou spôsobilosťou v klasifikačnom systéme,
 
-(2) Užívateľmi klasifikačného systému sú zdravotné poisťovne a poskytovatelia ústavnej zdravotnej starostlivosti, ktorí sú držiteľmi povolenia na prevádzkovanie všeobecnej nemocnice alebo povolenia na prevádzkovanie špecializovanej nemocnice a ktorí majú so zdravotnou poisťovňou uzatvorenú zmluvu podľa § 7.
+- s) overuje správnosť kódovania hospitalizačného prípadu na žiadosť zdravotnej poisťovne alebo poskytovateľa ústavnej zdravotnej starostlivosti, ktorý je užívateľom klasifikačného systému,
+
+- t) ustanovuje parametre diagnosticko-terapeutických skupín a príslušné relatívne váhy.
+
+(2) Užívateľmi klasifikačného systému sú zdravotné poisťovne, poskytovatelia ústavnej zdravotnej starostlivosti, ktorí sú držiteľmi povolenia na prevádzkovanie všeobecnej nemocnice alebo povolenia na prevádzkovanie špecializovanej nemocnice, a ministerstvo zdravotníctva.
+
+(3) Centrum pre klasifikačný systém každoročne vydáva a zverejňuje na webovom sídle úradu tieto dokumenty:
+
+- a) definičnú príručku pre nasledujúci kalendárny rok do 30. septembra,
+
+- b) katalóg prípadových paušálov pre nasledujúci kalendárny rok do 30. septembra,
+
+- c) základné sadzby pre nasledujúci kalendárny rok do 31. októbra,
+
+- d) návrh pravidiel kódovania chorôb a pravidiel kódovania zdravotných výkonov pre nasledujúci kalendárny rok do 31. októbra.
+
+(4) Centrum pre klasifikačný systém vydáva a zverejňuje na webovom sídle úradu tieto ďalšie dokumenty:
+
+- a) pravidlá pre výpočet prípadových paušálov definujúce výpočet prípadového paušálu a pravidlá pre zlučovanie hospitalizačných prípadov,
+
+- b) kalkulačnú metodiku,
+
+- c) metodiku výpočtu základných sadzieb,
+
+- d) podrobnosti k procesu osvedčovania zhody.
