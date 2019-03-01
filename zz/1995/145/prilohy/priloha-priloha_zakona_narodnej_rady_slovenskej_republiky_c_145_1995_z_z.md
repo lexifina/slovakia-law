@@ -3398,51 +3398,129 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 140
 
-  - a) udelenie individuálnej licencie na prevádzkovanie týchto hazardných hier: |
+    - a) Udelenie individuálnej licencie na prevádzkovanie týchto hazardných hier:
 
-  - 1. číselné lotérie ..... | 350 eur
+      - 1. štátnej lotérie ............................................................................................... 1 000 eur,
 
-  - 2. okamžité lotérie ..... | 350 eur
+      - 2. okamžitých lotérií ............................................................................................. 500 eur,
 
-  - 3. výherné prístroje, za každý výherný prístroj ..... | 1 500 eur
+      - 3. charitatívnych lotérií .................................................................................... 1 000 eur,
 
-  - 4. charitatívne lotérie alebo stávkové hry okrem kurzových stávok ..... | 350 eur
+      - 4. žrebových peňažných lotérií alebo žrebových peňažno-vecných lotérií .......... 700 eur,
 
-  - 5. žrebové peňažné lotérie alebo žrebové peňažno-vecné lotérie ..... | 350 eur
+      - 5. stávkových hier okrem kurzových stávok ....................................................... 1 000 eur,
 
-  - 6. kurzové stávky ..... | 4 000 eur
+      - 6. binga vrátane špeciálneho binga .................................................................... 4 000 eur,
 
-  - 7. hazardné hry v kasíne ..... | 7 000 eur
+      - 7. hazardných hier na výherných prístrojoch v herni ........................................ 50 000 eur,
 
-  - 8. bingo vrátane špeciálneho binga ..... | 4 000 eur
+      - 8. hazardných hier na termináloch videohier v herni ........................................ 50 000 eur,
 
-  - 9. hry prevádzkované prostredníctvom technických zariadení obsluhovaných priamo hráčmi hazardných hier alebo prevádzkované prostredníctvom |
+      - 9. hazardných hier na technických zariadeniach
 
-  - telekomunikačných zariadení a videohry ..... | 1 700 eur
+      - obsluhovaných priamo hráčmi v herni ........................................................ 50 000 eur,
 
-  - 10. hazardné hry neuvedené v prvom bode až deviatom bode ..... | 1 700 eur
+      - 10. hazardných hier na iných technických zariadeniach
 
-  - b) oznámenie právnickej osoby alebo prevádzkovateľa o zámere prevádzkovať žrebovú vecnú lotériu, tombolu alebo kartovú hru mimo kasína |
+      - v herni ....................................................................................................... 50 000 eur,
 
-  - alebo o zámere pokračovať v prevádzkovaní ..... | 100 eur
+      - 11. kurzových stávok v herni a prevádzkach .................................................... 100 000 eur,
 
-  - c) zmena licencie na základe oznámenia alebo požiadania prevádzkovateľa hazardnej hry pri |
+      - 12. hazardných hier v kasíne ................................................................. ......... 250 000 eur,
 
-  - 1. hazardných hrách uvedených v písmene a) prvom až piatom bode ..... | 200 eur
+      - 13. hazardných hier na výherných prístrojoch, termináloch videohier,
 
-  - 2. hazardných hrách uvedených v písmene a) šiestom až desiatom bode ..... | 800 eur
+      - na technických zariadeniach obsluhovaných priamo hráčmi,
 
-  - d) oznámenie prevádzkovateľa žrebovej vecnej lotérie, tomboly alebo kartovej hry mimo kasína o zmenách v údajoch alebo dokladoch, na základe ktorých bola právnická osoba zapísaná do evidencie prevádzkovateľov |
+      - iných technických zariadeniach v herni a internetových hier
 
-  - hazardných hier na základe všeobecnej licencie ..... | 30 eur
+      - v internetovom kasíne ............................................................................. 2 000 000 eur,
 
-  - e) vydanie vyjadrenia k umiestneniu technických zariadení alebo zariadení používaných |
+      - 14. hazardných hier v kasíne a internetových hier v internetovom kasíne ...... 3 000 000 eur,
 
-  - pri prevádzkovaní videohier, za každé vyjadrenie ..... | 100 eur
+      - 15. internetových hier v internetovom kasíne ................................................ 3 000 000 eur,
+
+      - 16. kurzových stávok v herni, v prevádzkach a v internetovej herni ............... 3 000 000 eur,
+
+      - 17. kurzových stávok v internetovej herni ...................................................... 3 000 000 eur,
+
+      - 18. hazardných hier neuvedených v prvom bode až sedemnástom bode ............. 50 000 eur,
+
+      - 19. hazardných hier v kasíne a internetových hier v internetovom
+
+      - kasíne a na prevádzkovanie kurzových stávok v herni, v
+
+      - prevádzkach a v internetovej herni .......................................................... 5 000 000 eur;
+
+      - správny poplatok sa hradí v plnej výške pri podaní žiadosti
+
+      - o udelenie oboch alebo len jednej licencie, lehota na podanie
+
+      - žiadosti o druhú licenciu nie je časovo obmedzená,
+
+      - 20. internetových hier v internetovom kasíne a kurzových stávok
+
+      - v internetovej herni ................................................................................. 5 000 000 eur;
+
+      - správny poplatok sa hradí v plnej výške pri podaní žiadosti
+
+      - o udelenie oboch alebo len jednej licencie, lehota na podanie
+
+      - žiadosti o druhú licenciu nie je časovo obmedzená,
+
+      - 21. hazardných hier v kasíne a internetových hier v internetovom
+
+      - kasíne a na prevádzkovanie kurzových stávok
+
+      - v internetovej herni ................................................................................ 5 000 000 eur;
+
+      - správny poplatok sa hradí v plnej výške pri podaní žiadosti
+
+      - o udelenie oboch alebo len jednej licencie, lehota na podanie
+
+      - žiadosti o druhú licenciu nie je časovo obmedzená
+
+      - 22. internetových hier v internetovom kasíne a na prevádzkovanie
+
+      - kurzových stávok v herni, v prevádzkach
+
+      - a v internetovej herni ............................................................................... 5 000 000 eur;
+
+      - správny poplatok sa hradí v plnej výške pri podaní žiadosti
+
+      - o udelenie oboch alebo len jednej licencie, lehota na podanie
+
+      - žiadosti o druhú licenciu nie je časovo obmedzená,
+
+    - b) oznámenie právnickej osoby alebo prevádzkovateľa o zámere
+
+    - prevádzkovať žrebovú vecnú lotériu, tombolu alebo kartovú hru
+
+    - mimo kasína alebo o zámere pokračovať v prevádzkovaní ........................................ 500 eur,
+
+    - c) zmena licencie na základe oznámenia alebo požiadania
+
+    - prevádzkovateľa hazardnej hry pri
+
+      - 1. hazardných hrách uvedených v písmene a) prvom až štvrtom bode ................... 500 eur,
+
+      - 2. hazardných hrách uvedených v písmene a) piatom až osemnástom bode ......... 1 000 eur,
+
+    - d) oznámenie prevádzkovateľa žrebovej vecnej lotérie, tomboly
+
+    - alebo kartovej hry mimo kasína o zmenách v údajoch alebo dokladoch,
+
+    - na základe ktorých bola právnická osoba zapísaná do evidencie prevádzkovateľov
+
+    - hazardných hier na základe všeobecnej licencie ........................................................ 50 eur,
+
+    - e) vydanie vyjadrenia k umiestneniu technických zariadení, za každé vyjadrenie ......... 100 eur.
 
     - Položka 141
 
-  - Vydanie poverenia na odborné posudzovanie podľa zákona č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov ..... | 1 660 eur
+    - Vydanie poverenia na odborné posudzovanie podľa zákona č. 30/2019 Z. z.
+
+    - o hazardných hrách a o zmene a doplnení niektorých zákonov .............................. 2 000 eur.
 
     - Položka 142
 
