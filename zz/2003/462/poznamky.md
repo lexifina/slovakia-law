@@ -16,6 +16,8 @@
 
 - 10) Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 11) § 25 ods. 2 zákona č. 314/2018 Z. z. o Ústavnom súde Slovenskej republiky a o zmene a doplnení niektorých zákonov.
+
 - 14) Zákon č. 2/1991 Zb. o kolektívnom vyjednávaní v znení neskorších predpisov.
 
 - 15) § 54 ods. 1, 2, 9 a 10 zákona č. 461/2003 Z. Z. o nemocenskom poistení v znení zákona č. 543/2010 Z. z.
