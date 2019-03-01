@@ -8,7 +8,7 @@
 
 - 1aaa) § 3 písm. b) a c) zákona č. 583/2008 Z. z. o prevencii kriminality a inej protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
 
-- 1aab) § 13 zákona č. 307/2014 Z. z. o niektorých opatreniach súvisiacich s oznamovaním protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
+- 1aab) § 7 a 12 zákona č. 54/2019 Z. z. o ochrane oznamovateľov protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
 
 - 1ab) Zákon č. 420/2004 Z. z. o mediácii a doplnení niektorých zákonov v znení neskorších predpisov.
 
