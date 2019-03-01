@@ -1,6 +1,6 @@
 # § 17a Výkaz nedoplatkov
 
-(1) Zdravotná poisťovňa môže dlžné poistné vyplývajúce z neodvedeného preddavku na poistné, nedoplatku alebo úrokov z omeškania uplatniť voči platiteľovi poistného výkazom nedoplatkov.
+(1) Zdravotná poisťovňa môže uplatniť voči poistencovi alebo platiteľovi poistného výkazom nedoplatkov dlžné poistné vyplývajúce z neodvedeného preddavku na poistné, nedoplatku alebo úrokov z omeškania.
 
 (2) Výkaz nedoplatkov obsahuje
 
@@ -22,22 +22,22 @@
 
 - i) označenie zdravotnej poisťovne, ktorá výkaz nedoplatkov vydala, dátum vydania,
 
-- j) podpis alebo faksimile podpisu s uvedením mena, priezviska a funkcie oprávnenej osoby.
+- j) podpis alebo faksimile podpisu s uvedením mena, priezviska a funkcie oprávnenej osoby alebo autorizáciu podľa osobitného predpisu.<sup>16m</sup>)
 
-(3) Platiteľ poistného sa vopred neupovedomuje o zostavení výkazu nedoplatkov na zdravotnom poistení.
+(3) Poistenec alebo platiteľ poistného sa vopred neupovedomuje o zostavení výkazu nedoplatkov na zdravotnom poistení.
 
-(4) Proti výkazu nedoplatkov možno príslušnej zdravotnej poisťovni podať námietky do 15 dní odo dňa doručenia platiteľovi poistného. Dôvod podania námietok je platiteľ poistného povinný v námietkach uviesť.
+(4) Proti výkazu nedoplatkov možno príslušnej zdravotnej poisťovni podať námietky do 15 dní odo dňa doručenia poistencovi alebo platiteľovi poistného. Dôvod podania námietok je poistenec alebo platiteľ poistného povinný v námietkach uviesť.
 
 (5) Výkaz nedoplatkov je právoplatný a vykonateľný márnym uplynutím lehoty na podanie námietok podľa odseku 4.
 
-(6) Ak platiteľ poistného podá voči doručenému výkazu nedoplatkov námietky v lehote podľa odseku 4 a zdravotná poisťovňa im nevyhovie v celom rozsahu, zdravotná poisťovňa do 30 dní od ich doručenia podá úradu návrh na vydanie platobného výmeru spolu s námietkami platiteľa poistného a stručným stanoviskom zdravotnej poisťovne k námietkam. Podaním návrhu na vydanie platobného výmeru na úrad výkaz nedoplatkov stráca platnosť bez upovedomenia platiteľa poistného.
+(6) Ak poistenec alebo platiteľ poistného podá voči doručenému výkazu nedoplatkov námietky v lehote podľa odseku 4 a zdravotná poisťovňa im nevyhovie v plnom rozsahu, zdravotná poisťovňa do 30 dní od ich doručenia predloží úradu námietky poistenca alebo platiteľa poistného spolu so stanoviskom zdravotnej poisťovne k námietkam a výkaz nedoplatkov, voči ktorému sa podali námietky. O námietkach rozhoduje úrad podľa osobitného predpisu.<sup>51a</sup>)
 
-(7) Ak zdravotná poisťovňa námietkam platiteľa poistného v celom rozsahu vyhovie, vydá nový výkaz nedoplatkov, ktorým zruší predchádzajúci.
+(7) Ak zdravotná poisťovňa námietkam poistenca alebo platiteľa poistného v plnom rozsahu vyhovie, zruší výkaz nedoplatkov alebo vydá nový výkaz nedoplatkov, ktorým zruší predchádzajúci.
 
-(8) Zdravotná poisťovňa môže výkaz nedoplatkov zrušiť aj z vlastného podnetu, o čom písomne upovedomí platiteľa poistného; v upovedomení uvedie dôvod zrušenia výkazu nedoplatkov.
+(8) Zdravotná poisťovňa môže výkaz nedoplatkov zrušiť aj z vlastného podnetu, o čom písomne upovedomí poistenca alebo platiteľa poistného; v upovedomení uvedie dôvod zrušenia výkazu nedoplatkov.
 
 (9) Na konanie o vydanie výkazu nedoplatkov sa nevzťahujú všeobecné predpisy o správnom konaní.
 
 (10) Právoplatný a vykonateľný výkaz nedoplatkov je exekučným titulom.<sup>51c</sup>)
 
-(11) Zdravotná poisťovňa môže vo výkaze nedoplatkov okrem výkazu nedoplatkov z ročného zúčtovania poistného podľa § 19 uplatniť poplatok za jeho vydanie; poplatok nesmie presiahnuť sumu 10 eur. Poplatok je príjmom zdravotnej poisťovne.
+(11) Zdravotná poisťovňa môže vo výkaze nedoplatkov okrem výkazu nedoplatkov z ročného zúčtovania poistného podľa § 19 uplatniť poplatok za jeho vydanie; poplatok nesmie presiahnuť sumu 10 eur. Poplatok je príjmom zdravotnej poisťovne. Právo zdravotnej poisťovne uplatniť poplatok za vydanie výkazu nedoplatkov zaniká, ak ide o výkaz nedoplatkov, proti ktorému boli podané námietky a zdravotná poisťovňa im v plnom rozsahu vyhovela alebo na základe ktorých úrad rozhodol o jeho zmene alebo zrušení a pri ktorom nedošlo k porušeniu oznamovacích povinností poistenca alebo platiteľa poistného, voči ktorému si zdravotná poisťovňa pohľadávku výkazom nedoplatkov uplatnila.
