@@ -90,9 +90,13 @@
 
 - 43) Napríklad § 66 až 67 ods. 3, § 68 až 73, § 74 ods. 2 až § 84 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z., § 131 ods. 2 zákona č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
 
-- 44) § 5 ods. 1 písm. i) zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+- 43a) § 66 až 67 ods. 3, § 68 až 73, § 74 ods. 2 až § 84 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
 
-- 45) § 45 ods. 2 zákona č. 475/2005 Z. z. v znení neskorších predpisov.
+- § 131 ods. 2 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
+
+- § 45 ods. 2 zákona č. 475/2005 Z. z. v znení neskorších predpisov.
+
+- 44) § 5 ods. 1 písm. i) zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
 - 46) § 13 ods. 1 písm. a) a ods. 3 písm. a) zákona č. 461/2003 Z. z.
 
