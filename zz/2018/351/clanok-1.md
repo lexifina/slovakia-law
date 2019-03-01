@@ -58,6 +58,28 @@ Z. z., zákona č. 538/2005 Z. z., zákona č. 660/2005 Z. z., zákona č. 25/20
 
 - 14. V § 15 ods. 1 písm. w) a § 20 ods. 1 písm. e) prvom bode sa vypúšťajú slová: „alebo s označením „P““.
 
+- 15. V § 15 sa odsek 1 dopĺňa písmenami af) a ag), ktoré znejú:
+
+- „af)
+
+- elektronicky vymieňať s úradom [§ 18 ods. 1 písm. g)] údaje potrebné na úhradu nákladov podľa osobitného predpisu<sup>35aai</sup>) a spätné vymáhanie podľa osobitného predpisu<sup>35aaj</sup>) v systéme elektronickej výmeny údajov o sociálnom zabezpečení<sup>101</sup>) (ďalej len „systém elektronickej výmeny údajov“),
+
+- ag)
+
+- elektronicky vymieňať so Sociálnou poisťovňou údaje týkajúce sa vykonávania vecných dávok podľa osobitného predpisu<sup>35aak</sup>) v systéme elektronickej výmeny údajov s výnimkou údajov vymieňaných s úradom podľa písmena af).“.
+
+  - Poznámky pod čiarou k odkazom 35aai až 35aak znejú:
+
+  - „<sup>35aai</sup>) § 9b zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
+  - <sup>35aaj</sup>) Čl. 75 až 79 nariadenia (ES) č. 987/2009 v platnom znení.
+
+  - <sup>35aak</sup>) Nariadenie (ES) č. 987/2009 v platnom znení.“.
+
+- 16. V § 16 ods. 2 písm. b) sa spojka „a“ nahrádza čiarkou a na konci sa pripájajú tieto slová: „a vyplatených paušálnych úhradách (§ 8 ods. 9 až 15)“.
+
+- 17. V § 16 ods. 2 písm. d) sa za slovo „starostlivosť“ vkladajú slová „a výšku paušálnej úhrady“.
+
 - 18. V § 16 ods. 3 sa vypúšťa posledná veta.
 
 - 19. V § 16 odsek 7 znie:
@@ -79,6 +101,20 @@ Z. z., zákona č. 538/2005 Z. z., zákona č. 660/2005 Z. z., zákona č. 25/20
   - <sup>35cd</sup>) Civilný sporový poriadok, Civilný mimosporový poriadok, Správny súdny poriadok, Správny poriadok.“.
 
   - Poznámka pod čiarou k odkazu 35ce sa vypúšťa.
+
+- 20. V § 18 ods. 1 písm. a) tretí bod znie:
+
+- „3.
+
+- rozhoduje o námietkach poistenca alebo platiteľa poistného proti výkazu nedoplatkov podľa § 77a, ak námietkam nevyhovela zdravotná poisťovňa podľa osobitného predpisu,<sup>38ab</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 38ab znie:
+
+  - „<sup>38ab</sup>) § 17a ods. 6 zákona č. 580/2004 Z. z. v znení zákona č. 351/2018 Z. z.“.
+
+- 21. V § 18 ods. 1 písm. a) sa vypúšťa štvrtý bod vrátane poznámky pod čiarou k odkazu 38c.
+
+  - Doterajšie body 5 až 9 sa označujú ako body 4 až 8.
 
 - 22. V § 18 ods. 1 písm. o) prvý bod znie:
 
@@ -106,11 +142,261 @@ Z. z., zákona č. 538/2005 Z. z., zákona č. 660/2005 Z. z., zákona č. 25/20
 
 - 25. V § 20 ods. 1 písm. k) prvom a druhom bode sa na konci pripájajú tieto slová: „do výšky najnižšej ceny na trhu zistenej prieskumom trhu, oslovením minimálne troch poskytovateľov pohrebných služieb,“.
 
+- 26. V § 20 sa odsek 1 dopĺňa písmenom r), ktoré znie:
+
+- „r)
+
+- určuje spôsob, obsah a formu elektronickej výmeny údajov týkajúcich sa refundácií nákladov na vecné dávky a spätného vymáhania podľa osobitného predpisu na národnej úrovni medzi zdravotnou poisťovňou a úradom podľa § 15 ods. 1 písm. af).“.
+
 - 27. V § 20 ods. 2 písmeno q) znie:
 
 - „q)
 
 - metodické usmernenia úradu o vykonávaní prehliadok mŕtvych tiel a úhradách za vykonané prehliadky mŕtvych tiel,“.
+
+- 28. § 20b vrátane nadpisu znie:
+
+- „§ 20b
+
+- Centrum pre klasifikačný systém
+
+- (1)
+
+- Centrum pre klasifikačný systém najmä
+
+- a)
+
+- vykonáva prostredníctvom webového portálu zber medicínskych a ekonomických údajov súvisiacich s poskytovaním ústavnej zdravotnej starostlivosti od užívateľov klasifikačného systému vždy za predchádzajúci kalendárny rok v termíne do 15. apríla,
+
+- b)
+
+- definuje štruktúru zberu údajov podľa písmena a) a podľa potreby žiada doplňujúce údaje od užívateľov klasifikačného systému,
+
+- c)
+
+- analyzuje zozbierané údaje z hľadiska štatistiky, pravidiel kódovania, kalkulácií nákladov,
+
+- d)
+
+- predkladá návrhy na zber ďalších ukazovateľov súvisiacich s poskytovaním ústavnej zdravotnej starostlivosti na účel vykazovania kvality a efektivity poskytovanej zdravotnej starostlivosti,
+
+- e)
+
+- je centrálnym referenčným pracoviskom pre klasifikačný systém,
+
+- f)
+
+- zabezpečuje prevádzku, správu a vývoj referenčnej databázy,
+
+- g)
+
+- zabezpečuje prevádzku a správu programového vybavenia určeného na vývoj systému,
+
+- h)
+
+- zabezpečuje zber a spracovanie pripomienok užívateľov klasifikačného systému,
+
+- i)
+
+- vykonáva pravidelný ročný vývoj nových verzií klasifikačného systému, vydáva a aktualizuje katalóg prípadových paušálov, definičnú príručku a ostatné usmernenia a dokumenty súvisiace s používaním klasifikačného systému podľa odsekov 3 a 4,
+
+- j)
+
+- zabezpečuje ochranu bezpečnosti údajov odovzdaných užívateľovi klasifikačného systému,
+
+- k)
+
+- každoročne aktualizuje zoznam zdravotných výkonov pre klasifikačný systém,
+
+- l)
+
+- vyjadruje sa k aktualizácii medzinárodnej klasifikácie chorôb,
+
+- m)
+
+- vykonáva odbornú prípravu na získanie odbornej spôsobilosti a ďalšie vzdelávanie pre klasifikačný systém podľa § 20c,
+
+- n)
+
+- vedie zoznam odborne spôsobilých osôb pre klasifikačný systém, ktoré získali odbornú spôsobilosť podľa § 20c (ďalej len „zoznam odborne spôsobilých osôb“), s náležitosťami podľa § 20c ods. 10,
+
+- o)
+
+- vydáva osvedčenia o zhode počítačového programu (ďalej len „osvedčenie o zhode“) podľa
+
+- § 20ca,
+
+- p)
+
+- dočasne pozastavuje platnosť osvedčenia o zhode § 20ca ods. 9,
+
+- q)
+
+- zrušuje platnosť osvedčenia o zhode podľa § 20ca ods. 10,
+
+- r)
+
+- aktualizuje zoznam odborne spôsobilých osôb, ktoré sú na základe získanej odbornej spôsobilosti poverené činnosťami podľa § 20c ods. 11 písm. a) až f) a ktoré poskytovateľ ústavnej zdravotnej starostlivosti nahlasuje centru pre klasifikačný systém ako osoby zodpovedné za výkon činnosti súvisiaci s odbornou spôsobilosťou v klasifikačnom systéme,
+
+- s)
+
+- overuje správnosť kódovania hospitalizačného prípadu na žiadosť zdravotnej poisťovne alebo poskytovateľa ústavnej zdravotnej starostlivosti, ktorý je užívateľom klasifikačného systému,
+
+- t)
+
+- ustanovuje parametre diagnosticko-terapeutických skupín a príslušné relatívne váhy.
+
+- (2)
+
+- Užívateľmi klasifikačného systému sú zdravotné poisťovne, poskytovatelia ústavnej zdravotnej starostlivosti, ktorí sú držiteľmi povolenia na prevádzkovanie všeobecnej nemocnice alebo povolenia na prevádzkovanie špecializovanej nemocnice, a ministerstvo zdravotníctva.
+
+- (3)
+
+- Centrum pre klasifikačný systém každoročne vydáva a zverejňuje na webovom sídle úradu tieto dokumenty:
+
+- a)
+
+- definičnú príručku pre nasledujúci kalendárny rok do 30. septembra,
+
+- b)
+
+- katalóg prípadových paušálov pre nasledujúci kalendárny rok do 30. septembra,
+
+- c)
+
+- základné sadzby pre nasledujúci kalendárny rok do 31. októbra,
+
+- d)
+
+- návrh pravidiel kódovania chorôb a pravidiel kódovania zdravotných výkonov pre nasledujúci kalendárny rok do 31. októbra.
+
+- (4)
+
+- Centrum pre klasifikačný systém vydáva a zverejňuje na webovom sídle úradu tieto ďalšie dokumenty:
+
+- a)
+
+- pravidlá pre výpočet prípadových paušálov definujúce výpočet prípadového paušálu a pravidlá pre zlučovanie hospitalizačných prípadov,
+
+- b)
+
+- kalkulačnú metodiku,
+
+- c)
+
+- metodiku výpočtu základných sadzieb,
+
+- d)
+
+- podrobnosti k procesu osvedčovania zhody.“.
+
+- 29. V § 20c ods. 5 sa slovo „šiestich“ nahrádza slovom „deviatich“.
+
+- 30. V § 20c odsek 9 znie:
+
+- „(9)
+
+- Centrum pre klasifikačný systém bezodkladne vyčiarkne zo zoznamu odborne spôsobilých osôb osobu, ktorá zomrela alebo bola vyhlásená za mŕtvu.“.
+
+- 31. V § 20c ods. 10 písm. a) sa na konci pripájajú tieto slová: „ku dňu získania osvedčenia“.
+
+- 32. V § 20c ods. 10 sa vypúšťa písmeno b).
+
+  - Doterajšie písmeno c) sa označuje ako písmeno b).
+
+- 33. V § 20c ods. 11 písm. e) sa slová „§ 20b ods. 1 písm. n),“ nahrádzajú slovami „§ 20b ods. 1 písm. m),“.
+
+- 34. V § 20c ods. 11 písmeno f) znie:
+
+- „f)
+
+- je povinná používať klasifikačné zoznamy v súlade s pravidlami kódovania v klasifikačnom systéme.“.
+
+- 35. § 20ca vrátane nadpisu znie:
+
+- „§ 20ca
+
+- Osvedčovanie zhody
+
+- (1)
+
+- Osvedčovanie zhody vykonáva centrum pre klasifikačný systém na základe žiadosti výrobcu počítačového programu (ďalej len „žiadateľ o osvedčenie zhody“). Centrum pre klasifikačný systém je povinné zverejniť výzvu na podávanie žiadostí na svojom webovom sídle do 31. októbra.
+
+- (2)
+
+- Žiadosť podľa odseku 1 obsahuje
+
+- a)
+
+- obchodné meno, sídlo alebo miesto podnikania, identifikačné číslo, e-mailovú adresu a telefónne číslo a údaje o bankovom účte žiadateľa o osvedčenie zhody vrátane medzinárodného bankového čísla účtu a medzinárodného kódu banky žiadateľa o osvedčenie zhody,
+
+- b)
+
+- titul, meno, priezvisko, názov funkcie, telefónne číslo a e-mailovú adresu povereného zástupcu žiadateľa o osvedčenie zhody,
+
+- c)
+
+- dátum a podpis osoby alebo osôb, ktoré sú štatutárnym orgánom žiadateľa o osvedčenie zhody,
+
+- d)
+
+- názov a označenie verzie počítačového programu.
+
+- (3)
+
+- Žiadosť sa považuje za úplnú, ak obsahuje náležitosti podľa odseku 2. Ak žiadosť nie je úplná, centrum pre klasifikačný systém vyzve žiadateľa o osvedčenie zhody, aby žiadosť do 15 dní od doručenia výzvy doplnil, inak konanie zastaví.
+
+- (4)
+
+- Úrad do desiatich dní od prijatia žiadosti uzavrie so žiadateľom zmluvu, na základe ktorej sa začne proces osvedčovania zhody. Centrum pre klasifikačný systém je oprávnené požiadať výrobcu počítačového programu o poskytnutie počítačového programu a príslušnej technickej dokumentácie, aby výstup z testovania mohlo overiť nezávisle. Osvedčovanie zhody prebieha v súlade s dokumentom „Podrobnosti k procesu osvedčovania zhody“ zverejneným centrom pre klasifikačný systém podľa § 20b ods. 4. Centrum pre klasifikačný systém do desiatich dní od začiatku procesu osvedčovania zhody poskytne žiadateľovi o osvedčenie zhody podklady na prípravu a vykonanie testovania.
+
+- (5)
+
+- Pri testovaní počítačového programu sa zisťuje, či počítačový program v súlade s prijatými podkladmi po podpise zmluvy prijíma a odovzdáva súbory v predpísanom formáte so správnym obsahom.
+
+- (6)
+
+- Výstup z testovania vo výstupných parametroch musí byť najmenej v 97-percentnej zhode s definičnou príručkou podľa § 20b ods. 3 písm. a), inak sa žiadosť zamietne.
+
+- (7)
+
+- Centrum pre klasifikačný systém vydá osvedčenie o zhode do 38 dní od prijatia úplnej žiadosti podľa odseku 1, ak počítačový program spĺňa požiadavky na osvedčenie zhody podľa odsekov 5 a 6, inak žiadosť zamietne. Ak centrum pre klasifikačný systém vyzve žiadateľa na doplnenie žiadosti podľa odseku 3, čas medzi výzvou a doplnením žiadosti sa do tejto lehoty nezapočítava.
+
+- (8)
+
+- Proti rozhodnutiu o zamietnutí žiadosti podľa odseku 7 má žiadateľ o osvedčenie zhody právo podať odvolanie do 21 dní od doručenia rozhodnutia o zamietnutí žiadosti o osvedčenie zhody. O odvolaní proti rozhodnutiu centra pre klasifikačný systém o zamietnutí žiadosti rozhoduje predseda úradu.
+
+- (9)
+
+- Centrum pre klasifikačný systém dočasne pozastaví platnosť osvedčenia o zhode počítačového programu, ak zistí, že počítačový program preukázateľne prestal spĺňať požiadavky na osvedčenie zhody, a v rozhodnutí o dočasnom pozastavení platnosti osvedčenia o zhode uloží výrobcovi počítačového programu, zdravotnej poisťovni alebo poskytovateľovi ústavnej zdravotnej starostlivosti povinnosť (ďalej len „držiteľ osvedčenia“) odstrániť zistené nedostatky. Odvolanie proti rozhodnutiu o dočasnom pozastavení platnosti osvedčenia o zhode nemá odkladný účinok.
+
+- (10)
+
+- Centrum pre klasifikačný systém zruší platnosť osvedčenia o zhode, ak držiteľ osvedčenia v lehote určenej v rozhodnutí o dočasnom pozastavení platnosti osvedčenia o zhode podľa odseku 9 neodstráni zistené nedostatky. Odvolanie proti rozhodnutiu o zrušení platnosti osvedčenia o zhode nemá odkladný účinok.
+
+- (11)
+
+- Centrum pre klasifikačný systém zverejňuje a aktualizuje na webovom sídle úradu zoznam vydaných osvedčení o zhode, zoznam osvedčení o zhode, ktorých platnosť sa dočasne pozastavila, a zoznam osvedčení o zhode, ktorých platnosť sa zrušila.
+
+- (12)
+
+- Na osvedčovanie zhody sa nevzťahujú ustanovenia všeobecného predpisu o posudzovaní zhody a o akreditácii orgánov posudzovania zhody.<sup>41f</sup>) Na osvedčovanie zhody sa Správny poriadok nevzťahuje.
+
+- (13)
+
+- Žiadateľ o osvedčenie zhody je povinný uhradiť úradu poplatok za poskytnutie dokumentácie potrebnej na vytvorenie zaraďovacieho algoritmu a taktiež je povinný uhradiť úradu poplatok za vydanie osvedčenia o zhode; poplatky podľa prvej časti vety sú príjmom úradu.“.
+
+  - Poznámka pod čiarou k odkazu 41f znie:
+
+  - „<sup>41f</sup>) Zákon č. 56/2018 Z. z. o posudzovaní zhody výrobku, sprístupňovaní určeného výrobku na trhu a o zmene a doplnení niektorých zákonov.
+
+  - Zákon č. 505/2009 Z. z. o akreditácii orgánov posudzovania zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
+- 36. V § 23 sa odsek 1 dopĺňa písmenom g), ktoré znie:
+
+- „g)
+
+- rozhoduje o námietkach proti výkazu nedoplatkov, ak im zdravotná poisťovňa nevyhovela, a to na návrh ním ustanovenej poradnej komisie.“.
 
 - 37. V § 28 odsek 4 znie:
 
@@ -123,6 +409,12 @@ Z. z., zákona č. 538/2005 Z. z., zákona č. 660/2005 Z. z., zákona č. 25/20
 - „i)
 
 - iné úhrady zo štátneho rozpočtu na zabezpečenie činnosti úradu.“.
+
+- 39. V § 31 ods. 1 písmeno d) znie:
+
+- „d)
+
+- poskytnutie dokumentácie potrebnej na vytvorenie zaraďovacieho algoritmu a vydanie osvedčenia o zhode (§ 20ca),“.
 
 - 40. V § 33 sa odsek 1 dopĺňa písmenom l), ktoré znie:
 
@@ -148,11 +440,79 @@ Z. z., zákona č. 538/2005 Z. z., zákona č. 660/2005 Z. z., zákona č. 25/20
 
 - 45. V § 50 ods. 8 a § 64 ods. 6 sa vypúšťajú slová „§ 47c ods. 1 druhej vety alebo“.
 
+- 46. § 77a vrátane nadpisu znie:
+
+- „§ 77a
+
+- Osobitné konanie
+
+- (1)
+
+- Na konanie a rozhodovanie o pohľadávkach z verejného zdravotného poistenia sa vzťahuje Správny poriadok,<sup>62</sup>) ak osobitný zákon<sup>18j</sup>) neustanovuje inak.
+
+- (2)
+
+- Odsek 1 sa použije rovnako na rozhodovanie o pohľadávkach na poistnom a poplatkoch z omeškania, ktoré bol platiteľ poistného povinný uhradiť podľa predpisov účinných do 31. decembra 2004.
+
+- (3)
+
+- Úrad rozhoduje o námietkach poistenca alebo platiteľa poistného proti výkazu nedoplatkov rozhodnutím, ak im zdravotná poisťovňa nevyhovela podľa osobitného predpisu.<sup>18j</sup>)
+
+- (4)
+
+- Podkladom na rozhodovanie je námietka, napadnutý výkaz nedoplatkov, stanovisko zdravotnej poisťovne k námietkam a údaje o poistencovi alebo platiteľovi poistného získané podľa osobitného zákona.<sup>97aa</sup>)
+
+- (5)
+
+- Ak je to nevyhnutné, úrad doterajší obsah spisovej dokumentácie ku konaniu doplní a na tento účel úrad vyzve poistenca, platiteľa poistného alebo zdravotnú poisťovňu na predloženie dokladov, ktoré nie je možné získať podľa osobitného zákona,<sup>97aa</sup>) v lehote deviatich dní odo dňa doručenia výzvy. Poistenca alebo platiteľa poistného zároveň úrad upozorní, že ak na výzvu nepredloží požadované doklady, rozhodne podľa obsahu spisovej dokumentácie.
+
+- (6)
+
+- Ak sú na to dôvody, úrad výkaz nedoplatkov zmení alebo zruší, inak námietky zamietne a výkaz nedoplatkov potvrdí. Pri zmene výkazu nedoplatkov odôvodnenie rozhodnutia obsahuje špecifikáciu pohľadávky podľa osobitného zákona.<sup>18j</sup>)
+
+- (7)
+
+- Poistenec alebo platiteľ poistného, ktorý podal námietky, môže tieto námietky vziať späť, pokým o nich úrad nerozhodne. Ak poistenec alebo platiteľ poistného vzal námietky späť, nemôže ich podať znovu.
+
+- (8)
+
+- Ak poistenec alebo platiteľ poistného vzal námietky späť, úrad konanie zastaví.
+
+- (9)
+
+- Rozhodnutie sa doručuje všetkým účastníkom konania. Na doručovanie sa primerane použije Správny poriadok.
+
+- (10)
+
+- Chyby v písaní, počtoch a iné zrejmé nesprávnosti v písomnom vyhotovení rozhodnutia úrad aj bez návrhu opraví a upovedomí o tom účastníkov konania.
+
+- (11)
+
+- Proti rozhodnutiu úradu nie je možné podať odvolanie. Rozhodnutie úradu je preskúmateľné správnym súdom.
+
+- (12)
+
+- Doručené rozhodnutie úradu, proti ktorému sa nemožno odvolať, je právoplatné.
+
+- (13)
+
+- Ak pohľadávka podľa odsekov 1 a 2 bola postúpená podľa § 85g, v konaní o takej pohľadávke je účastníkom konania platiteľ poistného alebo poistenec, zdravotná poisťovňa a osoba, na ktorú bola pohľadávka postúpená.“.
+
+  - Poznámka pod čiarou k odkazu 97aa znie:
+
+  - „<sup>97aa</sup>) § 29b zákona č. 580/2004 Z. z. v znení zákona č. 351/2018 Z. z.“.
+
 - 47. V § 77b a 77c sa slová „výpočtu limitu spoluúčasti podľa osobitného predpisu<sup>16c</sup>)“ nahrádzajú slovami „vykonávania verejného zdravotného poistenia“.
 
 - 48. Poznámka pod čiarou k odkazu 98e znie:
 
 - „<sup>98e</sup>) § 8 zákona č. 374/2014 Z. z. o pohľadávkach štátu a o zmene a doplnení niektorých zákonov.“.
+
+- 49. V § 85h ods. 1 sa slová „na úrade“ nahrádzajú slovami „výkazom nedoplatkov“.
+
+- 50. V § 85h ods. 2 sa na konci pripájajú tieto slová: „alebo právoplatného výkazu nedoplatkov“.
+
+- 51. V § 85h ods. 3 sa slová „Úrad vydáva platobné výmery“ nahrádzajú slovami „Zdravotná poisťovňa vydáva výkaz nedoplatkov“.
 
 - 52. Za § 86y sa vkladajú § 86z až § 86zb, ktoré vrátane nadpisov znejú:
 
@@ -172,4 +532,16 @@ Z. z., zákona č. 538/2005 Z. z., zákona č. 660/2005 Z. z., zákona č. 25/20
 
 - Prechodné ustanovenie k úpravám účinným od 1. januára 2019
 
-- Poistenci zaradení do dispenzarizácie podľa doterajších predpisov sa považujú za poistencov zaradených do dispenzarizácie podľa tohto zákona v znení účinnom od 1. januára 2019.“.
+- Poistenci zaradení do dispenzarizácie podľa doterajších predpisov sa považujú za poistencov zaradených do dispenzarizácie podľa tohto zákona v znení účinnom od 1. januára 2019.
+
+- § 86zb
+
+- Prechodné ustanovenia k úpravám účinným od 1. marca 2019
+
+- (1)
+
+- Konania podľa § 77a v znení účinnom do 28. februára 2019 začaté a právoplatne neukončené pred 1. marcom 2019 sa dokončia podľa tohto zákona v znení účinnom od 1. marca 2019.
+
+- (2)
+
+- Za prehliadky mŕtvych tiel, ktoré boli vykonané pred 1. marcom 2019, sú poskytovatelia zdravotnej starostlivosti oprávnení účtovať úhrady za prehliadky mŕtvych tiel vykonané ich zamestnancami podľa predpisov platných a účinných v čase vystavenia faktúry.“.

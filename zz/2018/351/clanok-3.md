@@ -66,6 +66,8 @@ Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona �
 
   - „<sup>45</sup>) Zákon č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
 
+- 13. V § 11 ods. 7 písm. v) treťom bode sa vypúšťajú slová „na úrade alebo“.
+
 - 15. V § 13 odsek 11 znie:
 
 - „(11)
@@ -95,6 +97,38 @@ Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona �
 - samostatne zárobkovo činnej osoby, ktorá je súčasne zamestnancom alebo poistencom štátu podľa § 11 ods. 7, je vo výške určenej podľa odseku 2 písm. b).“.
 
 - 19. V § 16 ods. 9 sa za slová „§ 11 ods. 1 písm. b)“ vkladá čiarka a slová „ktorý je súčasne zamestnancom alebo poistencom štátu podľa § 11 ods. 7,“.
+
+- 20. V § 17 ods. 8 sa vypúšťajú slová „na úrade<sup>13</sup>) alebo“.
+
+- 21. V § 17a odsek 1 znie:
+
+- „(1)
+
+- Zdravotná poisťovňa môže uplatniť voči poistencovi alebo platiteľovi poistného výkazom nedoplatkov dlžné poistné vyplývajúce z neodvedeného preddavku na poistné, nedoplatku alebo úrokov z omeškania.“.
+
+- 22. V § 17a ods. 2 písm. j) sa na konci pripájajú slová „alebo autorizáciu podľa osobitného predpisu<sup>16m</sup>)“.
+
+- 23. V § 17a ods. 3 sa slovo „Platiteľ“ nahrádza slovami „Poistenec alebo platiteľ“.
+
+- 24. V § 17a ods. 4 prvej vete sa za slovo „doručenia“ vkladajú slová „poistencovi alebo“ a v druhej vete sa za slovo „je“ vkladajú slová „poistenec alebo“.
+
+- 25. V § 17a odseky 6 a 7 znejú:
+
+- „(6)
+
+- Ak poistenec alebo platiteľ poistného podá voči doručenému výkazu nedoplatkov námietky v lehote podľa odseku 4 a zdravotná poisťovňa im nevyhovie v plnom rozsahu, zdravotná poisťovňa do 30 dní od ich doručenia predloží úradu námietky poistenca alebo platiteľa poistného spolu so stanoviskom zdravotnej poisťovne k námietkam a výkaz nedoplatkov, voči ktorému sa podali námietky. O námietkach rozhoduje úrad podľa osobitného predpisu.<sup>51a</sup>)
+
+- (7)
+
+- Ak zdravotná poisťovňa námietkam poistenca alebo platiteľa poistného v plnom rozsahu vyhovie, zruší výkaz nedoplatkov alebo vydá nový výkaz nedoplatkov, ktorým zruší predchádzajúci.“.
+
+  - Poznámka pod čiarou k odkazu 51a znie:
+
+  - „<sup>51a</sup>) § 77a zákona č. 581/2004 Z. z. v znení neskorších predpisov.“.
+
+- 26. V § 17a ods. 8 sa za slovo „upovedomí“ vkladajú slová „poistenca alebo“.
+
+- 27. V § 17a ods. 11 sa na konci pripája táto veta: „Právo zdravotnej poisťovne uplatniť poplatok za vydanie výkazu nedoplatkov zaniká, ak ide o výkaz nedoplatkov, proti ktorému boli podané námietky a zdravotná poisťovňa im v plnom rozsahu vyhovela alebo na základe ktorých úrad rozhodol o jeho zmene alebo zrušení a pri ktorom nedošlo k porušeniu oznamovacích povinností poistenca alebo platiteľa poistného, voči ktorému si zdravotná poisťovňa pohľadávku výkazom nedoplatkov uplatnila.“.
 
 - 28. V § 17b ods. 4 druhej vete sa za slovo „osoby“ vkladajú slová „alebo názvu, sídla a identifikačného čísla právnickej osoby, ak je pridelené,“.
 
@@ -184,6 +218,8 @@ Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona �
 
   - Z. z.“.
 
+- 31. V § 18 ods. 1 prvej vete sa vypúšťajú slová „na úrade<sup>13</sup>) alebo“.
+
 - 32. V § 18 ods. 3 sa slová „§ 11 ods. 1 písm. b) a c)“ nahrádzajú slovami „§ 11 ods. 1 písm. a) až c)“.
 
 - 33. V § 19 ods. 13 sa na konci pripája táto veta: „Právo poistenca alebo platiteľa poistného na preskúmanie správnosti postupu zdravotnej poisťovne úradom tým nie je dotknuté.“.
@@ -203,6 +239,12 @@ Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona �
 - „(2)
 
 - Povinnosti podľa odseku 1 písm. b) a d) a odseku 15 sa nevzťahujú na zamestnanca a platiteľa poistného podľa § 11 ods. 2 z dôvodu ich účasti na štrajku, za ktorých tieto skutočnosti oznamuje zamestnávateľ podľa § 24. Ak zamestnávateľ neoznámil za zamestnanca skutočnosti podľa odseku 1 písm. b) časti vety pred bodkočiarkou, zamestnanec môže preukázať túto skutočnosť riadne uzatvorenou pracovnou zmluvou a dokladom o príjme zo závislej činnosti alebo inými relevantnými dokladmi.“.
+
+- 40. V § 23 odsek 7 znie:
+
+- „(7)
+
+- Úmrtie fyzickej osoby alebo vyhlásenie za mŕtveho (§ 5 ods. 1) je povinný oznámiť úradu<sup>13</sup>) elektronicky príslušný úrad poverený vedením matriky do desiatich dní od vykonania zápisu do knihy úmrtí. Úrad je povinný úmrtie fyzickej osoby alebo vyhlásenie za mŕtveho oznámiť zdravotným poisťovniam elektronicky do piatich pracovných dní odo dňa, keď sa o tejto skutočnosti dozvedel.“.
 
 - 41. V § 23 odsek 14 znie:
 
@@ -388,4 +430,10 @@ Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona �
 
 - Prechodné ustanovenie k úprave účinnej od 1. januára 2019
 
-- Od 1. januára 2019 do 31. decembra 2019 je sadzba poistného pre štát 3,20 % z vymeriavacieho základu.“.
+- Od 1. januára 2019 do 31. decembra 2019 je sadzba poistného pre štát 3,20 % z vymeriavacieho základu.
+
+- § 38ep
+
+- Prechodné ustanovenie k úprave účinnej od 1. marca 2019
+
+- Konania podľa § 17a v znení účinnom do 28. februára 2019 začaté a právoplatne neukončené pred 1. marcom 2019 sa dokončia podľa § 17a v znení účinnom od 1. marca 2019.“.
