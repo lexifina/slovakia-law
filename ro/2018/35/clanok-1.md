@@ -32,6 +32,10 @@ Opatrenie Ministerstva financií Slovenskej republiky z 8. decembra 2004 č. MF/
 
 - „292022 Z príspevkov do Fondu ochrany vkladov a Garančného fondu investícií“.
 
+- 8. V prílohe tretej časti písmene A. položke 292 sa za podpoložku 292022 vkladá podpoložka 292023, ktorá znie:
+
+- „292023 Z príspevkov prevádzkovateľa hazardnej hry“.
+
 - 9. V prílohe tretej časti písmene A. sa vypúšťajú položky 314 a 324.
 
 - 10. V prílohe tretej časti písmene B. položke 637 sa za podpoložku 637041 vkladá podpoložka 637042, ktorá znie:
