@@ -62,6 +62,8 @@
 
 - 26a) § 38 ods. 8 zákona č. 55/2017 Z. z.
 
+- 26b) § 14 a 17 zákona č. 54/2019 Z. z. o ochrane oznamovateľov protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
+
 - 27) Napríklad § 2 ods. 3, § 34a ods. 2, § 36 a 37 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov, § 7 ods. 15 písm. a) zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 3 písm. a) bod prvý zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 21a ods. 14 písm. a) a § 61 ods. 8 zákona č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 48 ods. 12 zákona č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 23 ods. 12 zákona č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov, § 3 ods. 1 zákona č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov, § 2 písm. e) bod prvý zákona č. 340/2005 Z. z. o sprostredkovaní poistenia a sprostredkovaní zaistenia a o zmene a doplnení niektorých zákonov v znení zákona č. 644/2006 Z. z.
 
 - 28) Zákon č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a sociálnej kuratele a o zmene a doplnení niektorých zákonov.
