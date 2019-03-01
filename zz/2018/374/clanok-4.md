@@ -8,6 +8,12 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - 3. V § 63 ods. 1 písm. d) sa slová „§ 80 ods. 1 písm. k)“ nahrádzajú slovami „§ 80 ods. 1 písm. j)“.
 
+- 5. V § 79 ods. 1 písm. zb) prvom a druhom bode sa slová „31. marca“ nahrádzajú slovami
+
+- „15. apríla“.
+
+- 6. V § 79 ods. 1 písm. zb) treťom bode sa slová „30. apríla“ nahrádzajú slovami „15. apríla“.
+
 - 7. V § 79 ods. 1 sa vypúšťajú písmená ze) až zj).
 
   - Doterajšie písmená zk) až bd) sa označujú ako písmená ze) až ax).
