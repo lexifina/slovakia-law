@@ -12,6 +12,10 @@ Opatrenie Národnej banky Slovenska z 12. decembra 2017 č. 13/2017 o predkladan
 
 - Doterajšie písmená m) až r) sa označujú ako písmená l) až q).
 
+- 3. V § 1 sa odsek 1 dopĺňa písmenom r), ktoré znie:
+
+- „r) Hlásenie o internalizovanom vyrovnaní Ocp (IVT) 21-04 vypracované podľa osobitného predpisu.1)“.
+
 - 4. V § 1 ods. 2 sa vypúšťa písmeno i).
 
 - Doterajšie písmená j) až m) sa označujú ako písmená i) až l).
