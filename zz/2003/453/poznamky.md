@@ -20,6 +20,8 @@
 
 - 5a) § 73 ods. 2 písm. b) druhý bod až piaty bod zákona č. 305/2005 Z. z.
 
+- 5b) Napríklad § 14 ods. 5 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 6) Zákon č. 195/1998 Z. z. vznení neskorších predpisov.
 
 - 7) Napríklad § 69 zákona č. 195/1998 Z. z. v znení neskorších predpisov.
