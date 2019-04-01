@@ -1,3 +1,0 @@
-# § 18a
-
-Toto nariadenie vlády bolo prijaté v súlade s právne záväzným aktom Európskej únie v oblasti technických noriem a technických predpisov.<sup>3</sup>)
