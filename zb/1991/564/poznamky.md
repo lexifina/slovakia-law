@@ -18,6 +18,8 @@
 
 - 9a) Napríklad § 9 ods. 2 a 3 zákona č. 124/1992 Zb. o Vojenskej polícii, § 8 zákona Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe, § 13 ods. 2 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov, § 8 zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve.
 
+- 9b) Napríklad § 27, § 29 a § 30 zákona č. 56/2012 Z. z. o cestnej doprave v znení zákona č. 9/2019 Z. z.
+
 - 10) § 116 Občianskeho zákonníka.
 
 - 10a) Napr. zákon č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
