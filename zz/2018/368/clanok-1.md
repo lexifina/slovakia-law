@@ -30,6 +30,10 @@ Zákon č. 289/2008 Z. z. o používaní elektronickej registračnej pokladnice 
 
 - on-line registračná pokladnica,
 
+- 2.
+
+- virtuálna registračná pokladnica,
+
 - c)
 
 - on-line registračnou pokladnicou súbor pokladničného programu, chráneného dátového úložiska, hardvérových prostriedkov, ktoré zabezpečujú komunikáciu so systémom e-kasa prostredníctvom integračného rozhrania, ktoré zverejní Finančné riaditeľstvo Slovenskej republiky (ďalej len „finančné riaditeľstvo“) na svojom webovom sídle, a ďalších prostriedkov, ktoré zabezpečujú plnenie povinností podľa tohto zákona,
@@ -254,6 +258,26 @@ Zákon č. 289/2008 Z. z. o používaní elektronickej registračnej pokladnice 
 
   - „<sup>3</sup>) § 52 ods. 9 a 10 zákona č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov.“.
 
+- 2. V § 3 odsek 1 znie:
+
+- „(1)
+
+- Podnikateľ je povinný evidovať tržbu v elektronickej registračnej pokladnici alebo v systéme e-kasa prostredníctvom pokladnice e-kasa klient bez zbytočného odkladu po jej prijatí; túto povinnosť nemá podnikateľ, ktorý je v likvidácii alebo na ktorého bol vyhlásený konkurz, okrem podnikateľa, ktorý pokračuje v prevádzkovaní podniku po vyhlásení konkurzu.<sup>4</sup>) Ak podnikateľ nemôže z dôvodu prekročenia hraničnej doby odozvy zaevidovať tržbu v systéme e-kasa, je povinný uložiť dátovú správu v on-line registračnej pokladnici. Podnikateľ je povinný zaslať uloženú dátovú správu do systému e-kasa do 48 hodín od prvého pokusu o jej zaslanie; ak nemožno zaslať dátovú správu do systému e-kasa z dôvodov na strane finančného riaditeľstva, lehota na jej odoslanie sa považuje za zachovanú, ak je zaslaná do 48 hodín od zverejnenia oznámenia o odstránení prekážok na strane finančného riaditeľstva na svojom webovom sídle.“.
+
+- 4. V § 3 odsek 3 znie:
+
+- „(3)
+
+- Ak podnikateľ vloží do elektronickej registračnej pokladnice hotovosť okrem prijatej tržby, je povinný ju bez zbytočného odkladu po jej vložení zaevidovať v elektronickej registračnej pokladnici, pričom vyhotoví doklad označený slovom „VKLAD“. Ak podnikateľ vloží do pokladnice e-kasa klient hotovosť okrem prijatej tržby alebo vyberie z pokladnice e-kasa klient hotovosť, je povinný ich bez zbytočného odkladu po ich vložení alebo vybratí zaevidovať v systéme e-kasa. Ak podnikateľ nemôže z dôvodu prekročenia hraničnej doby odozvy zaevidovať doklady označené slovom „VKLAD“ alebo „VÝBER“ v systéme e-kasa, je povinný uložiť dátovú správu v on-line registračnej pokladnici. Podnikateľ je povinný zaslať uloženú dátovú správu do systému e-kasa do 48 hodín od prvého pokusu o jej zaslanie; ak nemožno zaslať dátovú správu do systému e-kasa z dôvodov na strane finančného riaditeľstva, lehota na jej odoslanie sa považuje za zachovanú, ak je zaslaná do 48 hodín od zverejnenia oznámenia o odstránení prekážok na strane finančného riaditeľstva na svojom webovom sídle.“.
+
+- 5. V § 3 sa za odsek 6 vkladá nový odsek 7, ktorý znie:
+
+- „(7)
+
+- Podnikateľ, ktorý používa na evidenciu tržby pokladnicu e-kasa klient, je povinný evidovať doklad označený slovami „NEPLATNÝ DOKLAD“ v systéme e-kasa. Ak podnikateľ nemôže z dôvodu prekročenia hraničnej doby odozvy zaevidovať doklad označený slovami „NEPLATNÝ DOKLAD“ v systéme e-kasa, je povinný uložiť dátovú správu v on-line registračnej pokladnici. Podnikateľ je povinný zaslať uloženú dátovú správu do systému e-kasa do 48 hodín od prvého pokusu o jej zaslanie; ak nemožno zaslať dátovú správu do systému e-kasa z dôvodov na strane finančného riaditeľstva, lehota na jej odoslanie sa považuje za zachovanú, ak je zaslaná do 48 hodín od zverejnenia oznámenia o odstránení prekážok na strane finančného riaditeľstva na svojom webovom sídle.“.
+
+  - Doterajší odsek 7 sa označuje ako odsek 8.
+
 - 6. V § 3 ods. 8 prvej vete sa za slovo „tržbu“ vkladajú slová „podľa § 3 ods. 2“.
 
 - 7. Za § 3 sa vkladá § 3a, ktorý vrátane nadpisu znie:
@@ -300,7 +324,39 @@ Zákon č. 289/2008 Z. z. o používaní elektronickej registračnej pokladnice 
 
 - 8. V § 4a odseky 1 a 2 znejú:
 
-- „(2)
+- „(1)
+
+- Na účely plnenia povinnosti podľa § 3 ods. 1, 3 a 7 a podľa § 3a ods. 3 možno používať len
+
+- a)
+
+- virtuálnu registračnú pokladnicu,
+
+- 1.
+
+- ktorej daňový úrad pridelil kód podľa § 7a,
+
+- 2.
+
+- ktorá spĺňa požiadavky podľa odseku 2,
+
+- b)
+
+- on-line registračnú pokladnicu,
+
+- 1.
+
+- ktorej daňový úrad pridelil kód podľa § 7a,
+
+- 2.
+
+- ktorá spĺňa požiadavky podľa odseku 2,
+
+- 3.
+
+- ktorá používa pokladničný program a chránené dátové úložisko, na ktoré bolo vydané rozhodnutie o certifikácii pokladničného programu a chráneného dátového úložiska podľa § 4c.
+
+- (2)
 
 - Pokladnica e-kasa klient musí spĺňať tieto požiadavky:
 
@@ -464,11 +520,155 @@ Zákon č. 289/2008 Z. z. o používaní elektronickej registračnej pokladnice 
 
 - Finančné riaditeľstvo vypracúva na základe právoplatných rozhodnutí o certifikácii pokladničného programu a chráneného dátového úložiska podľa odseku 5 a rozhodnutí o zrušení certifikácie pokladničného programu a chráneného dátového úložiska podľa odseku 12 zoznam certifikovaných pokladničných programov a chránených dátových úložísk, ktorý priebežne aktualizuje a zverejňuje na svojom webovom sídle. Tento zoznam obsahuje najmä obchodné meno, sídlo alebo adresu trvalého pobytu výrobcu, dovozcu alebo distribútora pokladničného programu a chráneného dátového úložiska, jedinečný identifikátor pokladničného programu a chráneného dátového úložiska a dátum nadobudnutia právoplatnosti rozhodnutia podľa odseku 5 alebo odseku 12.“.
 
+- 13. § 7a vrátane nadpisu znie:
+
+- „§ 7a
+
+- Pridelenie kódu pokladnice e-kasa klient a uvedenie pokladnice e-kasa klient
+
+- do prevádzky
+
+- (1)
+
+- Na účely uvedenia pokladnice e-kasa klient do prevádzky podnikateľ požiada ktorýkoľvek daňový úrad o pridelenie kódu pokladnice e-kasa klient. Žiadosť sa podáva v predpísanej štruktúrovanej forme spôsobom podľa daňového poriadku<sup>9a</sup>) prostredníctvom na to určeného elektronického formulára, ktorý finančné riaditeľstvo zverejní na svojom webovom sídle. Po overení údajov uvedených v žiadosti daňový úrad bez zbytočného odkladu pridelí kód pokladnice e-kasa klient. Ak je na predajnom mieste viac ako jedna pokladnica e-kasa klient, kód pokladnice e-kasa klient sa pridelí každej takejto pokladnici osobitne.
+
+- (2)
+
+- Žiadosť podľa odseku 1 obsahuje najmä údaje o podnikateľovi podľa odseku 4 a hlavný predmet činnosti podľa Štatistickej klasifikácie ekonomických činností,<sup>2</sup>) v rámci ktorej bude pokladnicu e-kasa klient používať. Ak ide o podnikateľa s trvalým pobytom alebo sídlom mimo územia Slovenskej republiky, žiadosť podáva písomne na ktoromkoľvek daňovom úrade na formulári podľa vzoru vydaného finančným riaditeľstvom, ktorý zverejní na svojom webovom sídle.
+
+- (3)
+
+- Ak má žiadosť podľa odseku 1 nedostatky, vyzve daňový úrad podnikateľa, aby ich v určenej lehote odstránil. Súčasne podnikateľa poučí, že ak nedostatky v lehote určenej daňovým úradom neodstráni, kód pokladnice e-kasa klient daňový úrad nepridelí; o tejto skutočnosti podnikateľovi zašle oznámenie.
+
+- (4)
+
+- Pri on-line registračnej pokladnici finančné riaditeľstvo sprístupní podnikateľovi v e-kasa zóne podnikateľa kód podľa odseku 1 spolu s autentifikačnými údajmi on-line registračnej pokladnice a identifikačnými údajmi o podnikateľovi, ktorými sú:
+
+- a)
+
+- obchodné meno, miesto podnikania a predajné miesto, ak je odlišné od miesta podnikania, identifikačné číslo organizácie, ak mu bolo pridelené, daňové identifikačné číslo, identifikačné číslo pre daň z pridanej hodnoty, ak je platiteľom dane z pridanej hodnoty, ak ide o fyzickú osobu,
+
+- b)
+
+- obchodné meno a sídlo, predajné miesto, ak je odlišné od sídla, identifikačné číslo organizácie, daňové identifikačné číslo, identifikačné číslo pre daň z pridanej hodnoty, ak je platiteľom dane z pridanej hodnoty, ak ide o právnickú osobu.
+
+- (5)
+
+- Podnikateľ je povinný pred prvým použitím on-line registračnej pokladnice nahrať do tejto pokladnice údaje podľa odseku 4.
+
+- (6)
+
+- Pri virtuálnej registračnej pokladnici daňový úrad podnikateľovi doručí kód podľa odseku 1 spolu s prihlasovacími údajmi.
+
+- (7)
+
+- Podnikateľ je povinný pri zmene identifikačných údajov podľa odseku 4 zabezpečiť ich aktualizáciu v on-line registračnej pokladnici. Podnikateľ je povinný oznámiť ktorémukoľvek daňovému úradu zmenu obchodného mena, predajného miesta, ak je odlišné od miesta podnikania alebo sídla, alebo zmenu hlavného predmetu činnosti podľa Štatistickej klasifikácie ekonomických činností,<sup>2</sup>) pri ktorej bude pokladnicu e-kasa klient používať, do 30 dní od uskutočnenia tejto zmeny. Na oznámenie sa vzťahuje primerane odsek 1 prvá veta a druhá veta. Ak ide o podnikateľa s trvalým pobytom alebo sídlom mimo územia Slovenskej republiky, oznámenie podáva písomne na ktoromkoľvek daňovom úrade na formulári podľa vzoru vydaného finančným riaditeľstvom, ktorý zverejní na svojom webovom sídle.
+
+- (8)
+
+- Ak sa pokladnica e-kasa klient používa na rôznych predajných miestach v odlišnom čase, ako predajné miesto sa uvedie prenosná pokladnica e-kasa klient, pričom podnikateľ je povinný zaevidovať do pokladnice e-kasa klient adresu alebo GPS súradnice predajného miesta, na ktorom podnikateľ v reálnom čase eviduje prijatú tržbu, vklad alebo výber hotovosti alebo evidenčné číslo vozidla, ak toto vozidlo je predajným miestom. Náležitosti oznámenia o umiestnení prenosnej pokladnice e-kasa klient zverejní finančné riaditeľstvo na svojom webovom sídle.
+
+- (9)
+
+- Ak došlo k strate, zneužitiu alebo k odcudzeniu autentifikačných údajov on-line registračnej pokladnice, podnikateľ je povinný zabezpečiť neplatnosť autentifikačných údajov on-line registračnej pokladnice, a ak bude podnikateľ naďalej používať on-line registračnú pokladnicu, je povinný požiadať finančné riaditeľstvo o opakované pridelenie autentifikačných údajov on-line registračnej pokladnice spôsobom, ktorý zverejní finančné riaditeľstvo na svojom webovom sídle.“.
+
+- 14. V § 8 ods. 1 sa za prvú vetu vkladajú nová druhá a tretia veta, ktoré znejú: „Pokladničný doklad vyhotovený pokladnicou e-kasa klient môže podnikateľ kupujúcemu zaslať alebo sprístupniť v elektronickej podobe, ak s tým kupujúci súhlasí a ak o to požiada pred vytlačením pokladničného dokladu, a podnikateľ pokladničný doklad nevytlačí. Na účely zaslania pokladničného dokladu vyhotoveného pokladnicou e-kasa klient v elektronickej podobe je podnikateľ oprávnený spracúvať osobný údaj kupujúceho, ktorým je adresa elektronickej pošty kupujúceho.“.
+
+- 15. V § 8 ods. 1 štvrtej vete sa za slovo „doklad“ vkladajú slová „vyhotovený elektronickou registračnou pokladnicou“.
+
+- 16. V § 8 ods. 1 písm. a) sa vypúšťajú slová „alebo kód virtuálnej registračnej pokladnice“.
+
+- 17. V § 8 ods. 1 písm. f) sa vypúšťajú slová „pokladničného dokladu“.
+
+- 18. V § 8 odsek 2 znie:
+
+- „(2)
+
+- Pokladničný doklad vyhotovený elektronickou registračnou pokladnicou, ak ide o úhradu faktúry alebo jej časti, obsahuje najmenej údaje podľa odseku 1 písm. a) až f), i) a m) až o). Pokladničný doklad vyhotovený pokladnicou e-kasa klient, ak ide o úhradu faktúry alebo jej časti, obsahuje najmenej údaje podľa odseku 1 písm. c), f), i) a m) až o), daňové identifikačné číslo, kód pokladnice e-kasa klient, identifikačné číslo organizácie, ak bolo podnikateľovi pridelené, poradové číslo, unikátny identifikátor dokladu, čitateľný QR kód, overovací kód podnikateľa, môže obsahovať unikátny identifikátor kupujúceho, ak je predložený kupujúcim pred zaevidovaním prijatej tržby, a číslo faktúry. Doklad označený slovami „NEPLATNÝ DOKLAD“ vyhotovený elektronickou registračnou pokladnicou obsahuje najmenej údaje podľa odseku 1 písm. a) až c) a e) až o). Doklad označený slovami „NEPLATNÝ DOKLAD“ vyhotovený pokladnicou e-kasa klient obsahuje najmenej údaje podľa odseku 1 písm. c), f) až o), daňové identifikačné číslo, kód pokladnice e-kasa klient, identifikačné číslo organizácie, ak podnikateľovi bolo pridelené, poradové číslo, unikátny identifikátor dokladu a overovací kód podnikateľa. Doklad vyhotovený elektronickou registračnou pokladnicou označený slovom „VKLAD“ obsahuje najmenej údaje podľa odseku 1 písm. a) až c), e), f) a i) a sumu vkladu podľa § 3 ods. 3. Doklad vyhotovený pokladnicou e-kasa klient označený slovom „VKLAD“ alebo „VÝBER“ obsahuje najmenej údaje podľa odseku 1 písm. c), f) a i), daňové identifikačné číslo, kód pokladnice e-kasa klient, identifikačné číslo organizácie, ak bolo podnikateľovi pridelené, poradové číslo, unikátny identifikátor dokladu, overovací kód podnikateľa a sumu vkladu alebo výberu hotovosti podľa § 3 ods. 3.“.
+
 - 19. V § 8 ods. 5 sa slová „odsekov 1 a 2“ nahrádzajú slovami „odseku 1“.
+
+- 20. V § 8 ods. 6 sa za slovo „vytlačiť“ vkladajú slová „alebo elektronicky kupujúcemu zaslať“.
+
+- 21. V § 8 odsek 7 znie:
+
+- „(7)
+
+- Pokladničný doklad vyhotovený pokladnicou e-kasa klient obsahuje najmenej údaje podľa odseku 1 písm. c), f) až o), daňové identifikačné číslo, identifikačné číslo organizácie, ak podnikateľovi bolo pridelené, kód pokladnice e-kasa klient, unikátny identifikátor dokladu, čitateľný QR kód, poradové číslo, overovací kód podnikateľa a môže obsahovať unikátny identifikátor kupujúceho, ak je predložený kupujúcim pred zaevidovaním prijatej tržby; pri vrátení tovaru alebo pri oprave evidovanej položky v pokladnici e-kasa klient musí pokladničný doklad obsahovať aj pôvodný identifikátor pokladničného dokladu.“.
+
+- 22. V § 8 sa za odsek 8 vkladajú nové odseky 9 a 10, ktoré znejú:
+
+- „(9)
+
+- Pri prekročení hraničnej doby odozvy pokladničný doklad vyhotovený pokladnicou e-kasa klient obsahuje najmenej údaje podľa odseku 7 okrem unikátneho identifikátora dokladu a obsahuje podpisový kód podnikateľa. Pri prekročení hraničnej doby odozvy pokladničný doklad vyhotovený pokladnicou e-kasa klient, ak ide o úhradu faktúry alebo jej časti, obsahuje najmenej údaje podľa odseku 2 druhej vety, okrem unikátneho identifikátora dokladu a obsahuje podpisový kód podnikateľa. Pri prekročení hraničnej doby odozvy doklad označený slovami „NEPLATNÝ DOKLAD“ vyhotovený pokladnicou e-kasa klient obsahuje najmenej údaje podľa odseku 2 štvrtej vety okrem unikátneho identifikátora dokladu a obsahuje podpisový kód podnikateľa. Doklad označený slovom „VKLAD“ alebo „VÝBER“ vyhotovený pokladnicou e-kasa klient obsahuje najmenej údaje podľa odseku 2 poslednej vety okrem unikátneho identifikátora dokladu a obsahuje podpisový kód podnikateľa.“.
+
+  - Doterajší odsek 9 sa označuje ako odsek 11.
+
+- 23. Za § 8 sa vkladá § 8a, ktorý vrátane nadpisu znie:
+
+- „§ 8a
+
+- Rozsah údajov zasielaných do systému e-kasa
+
+- (1)
+
+- Podnikateľ je povinný pri evidovaní tržby v pokladnici e-kasa klient zabezpečiť, aby pokladnica e-kasa klient zasielala do systému e-kasa najmenej údaje podľa § 8 ods. 1 písm. c), f) až h), j) až l), n) a o), daňové identifikačné číslo, kód pokladnice e-kasa klient, identifikačné číslo organizácie, ak podnikateľovi bolo pridelené, poradové číslo, unikátny identifikátor kupujúceho, ak je predložený kupujúcim pred zaevidovaním prijatej tržby, overovací kód podnikateľa, podpisový kód podnikateľa, identifikátor pokladničného dokladu, ak ide o vrátenie tovaru alebo o opravu evidovanej položky v pokladnici e-kasa klient, a jedinečný identifikátor pokladničného programu a chráneného dátového úložiska;
+
+- (2)
+
+- Ak ide o úhradu faktúry alebo jej časti, podnikateľ je povinný zabezpečiť, aby pokladnica e-kasa klient zasielala do systému e-kasa údaje podľa § 8 ods. 1 písm. c), f) a n), daňové identifikačné číslo, kód pokladnice e-kasa klient, číslo faktúry, identifikačné číslo organizácie, ak podnikateľovi bolo pridelené, poradové číslo, unikátny identifikátor kupujúceho, ak je predložený kupujúcim pred zaevidovaním prijatej tržby, overovací kód podnikateľa, podpisový kód podnikateľa a jedinečný identifikátor pokladničného programu a chráneného dátového úložiska.
+
+- (3)
+
+- Ak ide o doklad označený slovami „NEPLATNÝ DOKLAD“, podnikateľ je povinný zabezpečiť, aby pokladnica e-kasa klient zasielala do systému e-kasa údaje podľa § 8 ods. 1 písm. c), f) až h), j) až l), n) a o), daňové identifikačné číslo, kód pokladnice e-kasa klient, identifikačné číslo organizácie, ak podnikateľovi bolo pridelené, poradové číslo, overovací kód podnikateľa, podpisový kód podnikateľa a jedinečný identifikátor pokladničného programu a chráneného dátového úložiska.
+
+- (4)
+
+- Ak ide o doklad označený slovom „VKLAD“ alebo „VÝBER“, podnikateľ je povinný zabezpečiť, aby pokladnica e-kasa klient zasielala do systému e-kasa údaje podľa § 8 ods. 1 písm. c) a f), daňové identifikačné číslo, kód pokladnice e-kasa klient, identifikačné číslo organizácie, ak podnikateľovi bolo pridelené, poradové číslo, overovací kód podnikateľa, podpisový kód podnikateľa, jedinečný identifikátor pokladničného programu a chráneného dátového úložiska a sumu vkladu alebo sumu výberu hotovosti podľa § 3 ods. 3.
+
+- (5)
+
+- Ak ide o zaevidovanie údajov z paragónov, podnikateľ je povinný zabezpečiť, aby pokladnica e-kasa klient zasielala do systému e-kasa údaje podľa § 8 ods. 1 písm. c), g), h), j) až l), n) a o), daňové identifikačné číslo, kód pokladnice e-kasa klient, identifikačné číslo organizácie, ak podnikateľovi bolo pridelené, poradové číslo, unikátny identifikátor kupujúceho, ak je predložený kupujúcim pred zaevidovaním prijatej tržby, overovací kód podnikateľa, podpisový kód podnikateľa, jedinečný identifikátor pokladničného programu a chráneného dátového úložiska, identifikátor pokladničného dokladu, ak ide o vrátenie tovaru alebo o opravu evidovanej položky v pokladnici e-kasa klient, poradové číslo paragónu, dátum a čas vyhotovenia paragónu, dátum zaevidovania paragónu v pokladnici e-kasa klient.
+
+- (6)
+
+- Ak podnikateľ používa prenosnú pokladnicu e-kasa klient, je povinný do systému e-kasa zasielať okrem údajov uvedených v odsekoch 1, 2 a 4 aj adresu alebo GPS súradnice umiestnenia prenosnej pokladnice, na ktorej podnikateľ eviduje prijatú tržbu, vklad alebo výber hotovosti, alebo evidenčné číslo vozidla, ak toto vozidlo je predajným miestom.
+
+- (7)
+
+- Podnikateľ je povinný údaje podľa odsekov 1 až 6 a unikátny identifikátor dokladu ukladať v on-line registračnej pokladnici.“.
+
+- 24. V § 9 ods. 1 sa za slová „v elektronickej registračnej pokladnici,“ vkladajú slová „údajov z neodoslanej dátovej správy uloženej v on-line registračnej pokladnici podľa § 3 ods. 1, 3 alebo ods. 7 alebo § 3a ods. 3,“, slová „písm. b)“ sa nahrádzajú slovami „písm. c)“ a slová „prihlasovacích údajov k virtuálnej registračnej pokladnici“ sa nahrádzajú slovami „autentifikačných údajov k on-line registračnej pokladnici alebo prihlasovacích údajov k virtuálnej registračnej pokladnici“.
+
+- 25. V § 9 ods. 2 prvej vete sa slová „záznamy a obsah fiskálnej pamäte, uchovávať“ nahrádzajú slovami „záznamy, obsah fiskálnej pamäte a chránené dátové úložisko, uchovávať“ a na konci sa pripája táto veta: „Na požiadanie daňového úradu alebo colného úradu je podnikateľ povinný sprístupniť alebo predložiť údaje z chráneného dátového úložiska za požadované obdobie v listinnej podobe alebo v elektronickej podobe ihneď na predajnom mieste alebo v lehote určenej daňovým úradom alebo colným úradom; rozsah, štruktúru, náležitosti a spôsob poskytnutia údajov z chráneného dátového úložiska zverejní finančné riaditeľstvo na svojom webovom sídle.“.
 
 - 26. V § 9 ods. 4 sa vypúšťajú slová „a denné uzávierky podľa § 10 ods. 4“.
 
 - 27. V § 9 ods. 5 sa za slovo „VKLAD“ vkladajú slová „vyhotovený elektronickou registračnou pokladnicou“.
+
+- 28. V § 10 odseky 6 a 7 znejú:
+
+- „(6)
+
+- Postup podľa odsekov 4 a 5 sa primerane uplatní aj pri používaní pokladnice e-kasa klient okrem výpadku internetového signálu pri on-line registračnej pokladnici. Paragón obsahuje údaje podľa § 8 ods. 1 písm. c), f) až o), daňové identifikačné číslo, identifikačné číslo organizácie, ak bolo podnikateľovi pridelené, poradové číslo paragónu, dátum a čas vyhotovenia paragónu, kód pokladnice e-kasa klient, ktorej prevádzka bola prerušená, a môže obsahovať unikátny identifikátor kupujúceho, ak je predložený kupujúcim pred zaevidovaním prijatej tržby.
+
+- (7)
+
+- Ak dôjde k poruche on-line registračnej pokladnice alebo koncového zariadenia, podnikateľ je povinný obnoviť prevádzku tejto pokladnice alebo tohto zariadenia do 48 hodín od vzniku poruchy alebo začať používať inú on-line registračnú pokladnicu alebo iné koncové zariadenie.“.
+
+- 29. V § 12 ods. 4 sa vypúšťa posledná veta.
+
+- 30. V § 12 ods. 5 sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „prehľadovú uzávierku a intervalovú uzávierku.“.
+
+- 31. V § 15 ods. 2 sa na konci pripája táto veta: „Postup podľa prvej vety a druhej vety sa neuplatní, ak podnikateľ v žiadosti o pridelenie kódu pokladnice e-kasa klient podľa § 7a daňovému úradu oznámi daňový kód elektronickej registračnej pokladnice, ktorej prevádzka bola alebo bude ukončená k dátumu uvedenému v žiadosti.“.
+
+- 32. V § 15 ods. 6 písm. a) sa na konci vypúšťa slovo „alebo“ a v písmene b) sa na konci bodka nahrádza čiarkou a pripája sa slovo „alebo“.
+
+- 33. V § 15 sa odsek 6 dopĺňa písmenom c), ktoré znie:
+
+- „c)
+
+- vtedy, ak podnikateľ v žiadosti o pridelenie kódu pokladnice e-kasa klient podľa § 7a oznámi ukončenie používania elektronickej registračnej pokladnice podľa odseku 2.“.
 
 - 34. V § 15 sa za odsek 6 vkladá nový odsek 7, ktorý znie:
 
@@ -478,11 +678,39 @@ Zákon č. 289/2008 Z. z. o používaní elektronickej registračnej pokladnice 
 
   - Doterajší odsek 7 sa označuje ako odsek 8.
 
+- 35. V § 15a ods. 1 sa vypúšťa slovo „písomne“ a slová „ak sa oznámenie podáva elektronickými prostriedkami, podáva sa v predpísanej forme podľa osobitného predpisu<sup>19</sup>)“ sa nahrádzajú slovami „oznámenie sa podáva v predpísanej štruktúrovanej forme spôsobom podľa osobitného predpisu<sup>9a</sup>) prostredníctvom na to určeného elektronického formulára, ktorý finančné riaditeľstvo zverejní na svojom webovom sídle.“.
+
 - 36. V § 15a ods. 2 písm. c) sa na konci bodka nahrádza bodkočiarkou a pripájajú sa tieto slová: „o tejto skutočnosti daňový úrad podnikateľovi zašle písomné oznámenie.“.
+
+- 37. V § 16a písm. a) sa za slová „§ 3 ods. 1“ vkladajú slová „prvej vety“ a na konci sa pripájajú tieto slová: „uvedie v žiadosti nepravdivú informáciu o dostupnosti internetového signálu na predajnom mieste podľa § 3a ods. 1 alebo nesplní povinnosť podľa § 3a ods. 3 alebo § 8 ods. 6,“.
+
+- 38. V § 16a písm. c) sa na konci pripájajú tieto slová: „alebo nesplní povinnosti uvedené v § 8a,“.
 
 - 39. V § 16a písm. e) sa slová „2 a 7“ nahrádzajú slovami „2, 7, 9 a 10“.
 
 - 40. V § 16a písm. f) sa slová „2 a 7 alebo § 10 ods. 4“ nahrádzajú slovami „2, 7, 9 a 10 alebo § 10 ods. 4 a 6“.
+
+- 41. V § 16a písm. g) sa slová „písm. zd)“ nahrádzajú slovami „písm. aw)“.
+
+- 42. V § 16a písmeno h) znie:
+
+- „h)
+
+- nezaeviduje v elektronickej registračnej pokladnici vklad hotovosti podľa § 3 ods. 3 prvej vety alebo v pokladnici e-kasa klient vklad alebo výber hotovosti podľa § 3 ods. 3 druhej vety alebo nesplní povinnosť podľa § 3 ods. 3 tretej vety alebo štvrtej vety,“.
+
+- 43. V § 16a písm. j) sa na konci pripájajú tieto slová: „alebo nesplní povinnosť podľa § 3 ods. 7 prvej vety“.
+
+- 44. V § 16a písm. l) sa slová „§ 4 ods. 9 a 10“ nahrádzajú slovami „§ 3 ods. 1 druhej vety a tretej vety, § 3 ods. 7 druhej vety a tretej vety, § 4 ods. 9 a 10 alebo § 7a ods. 5, 7 až 9,“.
+
+- 45. V § 16a písm. o) sa slová „ods. 7 alebo § 8 ods. 5 a 6“ nahrádzajú slovami „ods. 8, § 3a ods. 4 alebo § 8 ods. 5“.
+
+- 46. V § 16a písm. p) sa slová „ods. 3“ nahrádzajú slovami „ods. 7“.
+
+- 47. V § 16a písm. u) sa za slovo „pokladnice“ vkladajú slová „alebo nesplní povinnosť“.
+
+- 48. V § 16a písm. z) sa za slová „§ 4 ods. 6,“ vkladajú slová „§ 4c ods. 4 a 10,“ a za slová „§ 17a ods. 4“ sa vkladá čiarka a slová „§ 17c ods. 4“.
+
+- 49. V § 16a písm. am) sa na konci pripájajú tieto slová: „alebo zmení údaje z dátovej správy uloženej v on-line registračnej pokladnici podľa § 3 ods. 1, 3 a 7 alebo § 3a ods. 3 alebo umožní zmeniť alebo zmení rozsah údajov zasielaných do systému e-kasa podľa § 8a“.
 
 - 50. V § 16a písmeno ap) znie:
 
@@ -556,6 +784,56 @@ Zákon č. 289/2008 Z. z. o používaní elektronickej registračnej pokladnice 
 
 - 62. V § 17a ods. 5 sa číslo „15“ nahrádza číslom „30“.
 
+- 63. Za § 17b sa vkladajú § 17c a 17d, ktoré vrátane nadpisu znejú:
+
+- „§ 17c
+
+- Zabezpečenie a prepadnutie on-line registračnej pokladnice
+
+- (1)
+
+- Colný úrad alebo daňový úrad môže zabezpečiť on-line registračnú pokladnicu vrátane akýchkoľvek prístrojov, ktoré sú k on-line registračnej pokladnici pripojené pevne alebo prostredníctvom bezdrôtovej technológie, najmä počítač, notebook, externý disk, USB kľúč, úložisko dát, peňažná zásuvka, čítačka kariet, ak existuje dôvodné podozrenie z pozmeňovania údajov v on-line registračnej pokladnici alebo údajov odosielaných do systému e-kasa alebo ak on-line registračná pokladnica nespĺňa požiadavky podľa § 4a ods. 2.
+
+- (2)
+
+- Colný úrad alebo daňový úrad, ktorý zabezpečil on-line registračnú pokladnicu, požiada finančné riaditeľstvo o technickú expertízu. Finančné riaditeľstvo posúdi odôvodnenosť vykonania technickej expertízy. Ak nie sú dôvody na vykonanie technickej expertízy, finančné riaditeľstvo vráti on-line registračnú pokladnicu vrátane akýchkoľvek prístrojov zabezpečených podľa odseku 1 colnému úradu alebo daňovému úradu, ktorý vydá rozhodnutie o zrušení rozhodnutia o zabezpečení on-line registračnej pokladnice.
+
+- (3)
+
+- Lehota na vykonanie technickej expertízy je najviac jeden rok od právoplatnosti rozhodnutia o zabezpečení on-line registračnej pokladnice.
+
+- (4)
+
+- Výrobca, dovozca alebo distribútor pokladničného programu a chráneného dátového úložiska je na výzvu a v lehote určenej vo výzve povinný finančnému riaditeľstvu poskytnúť pri technickej expertíze súčinnosť a všetky podklady a doklady nevyhnutné pre vykonanie technickej expertízy.
+
+- (5)
+
+- Colný úrad alebo daňový úrad, ktorý on-line registračnú pokladnicu zabezpečil, vydá rozhodnutie o prepadnutí on-line registračnej pokladnice vrátane akýchkoľvek prístrojov zabezpečených podľa odseku 1 do 15 dní odo dňa doručenia výsledkov technickej expertízy podľa odseku 2, ktorej výsledky preukázali, že došlo k naplneniu niektorého z dôvodov zabezpečenia podľa odseku 1.
+
+- (6)
+
+- Colný úrad alebo daňový úrad môže zničiť prepadnutú on-line registračnú pokladnicu vrátane akýchkoľvek prístrojov zabezpečených podľa odseku 1 najskôr po piatich rokoch odo dňa právoplatnosti rozhodnutia o prepadnutí on-line registračnej pokladnice.
+
+- (7)
+
+- Colný úrad alebo daňový úrad postupuje pri zabezpečení a prepadnutí on-line registračnej pokladnice primerane podľa daňového poriadku,<sup>20a</sup>) ak odseky 1 až 6 neustanovujú inak.
+
+- § 17d
+
+- Postup podnikateľa pri zabezpečení a prepadnutí on-line registračnej pokladnice
+
+- (1)
+
+- Počas zabezpečenia on-line registračnej pokladnice je podnikateľ povinný pri predaji tovaru alebo poskytovaní služby postupovať podľa § 10 ods. 4 a 5 alebo používať inú on-line registračnú pokladnicu, ktorá bola uvedená do prevádzky podľa § 7a, alebo používať virtuálnu registračnú pokladnicu.
+
+- (2)
+
+- Podnikateľ, ktorý počas zabezpečenia on-line registračnej pokladnice postupoval podľa § 10 ods. 4 a 5, je povinný po zrušení rozhodnutia o zabezpečení on-line registračnej pokladnice zaevidovať údaje z vyhotovených paragónov do on-line registračnej pokladnice v lehote podľa § 10 ods. 5, pričom kópie paragónov je povinný uchovávať podľa § 9 ods. 4.
+
+- (3)
+
+- Podnikateľ, ktorému bola zabezpečená on-line registračná pokladnica, je povinný po nadobudnutí právoplatnosti rozhodnutia o prepadnutí on-line registračnej pokladnice kópie paragónov archivovať podľa osobitného predpisu;<sup>20b</sup>) ak bude podnikateľ naďalej predávať tovar alebo poskytovať službu uvedenú v prílohe č. 1, je povinný používať on-line registračnú pokladnicu alebo virtuálnu registračnú pokladnicu.“.
+
 - 64. Za § 18cd sa vkladá § 18ce, ktorý vrátane nadpisu znie:
 
 - „§ 18ce
@@ -597,3 +875,5 @@ Zákon č. 289/2008 Z. z. o používaní elektronickej registračnej pokladnice 
 - vyhláška Ministerstva financií Slovenskej republiky č. 379/2014 Z. z., ktorou sa ustanovujú podmienky on-line prepojenia elektronickej registračnej pokladnice s informačnými systémami finančnej správy.“.
 
 - 66. Slová „virtuálna registračná pokladnica“ vo všetkých tvaroch sa v celom texte zákona nahrádzajú slovami „pokladnica e-kasa klient“ v príslušnom tvare okrem § 4a ods. 4, § 8 ods. 11, § 15a ods. 5, § 18cb ods. 2 a 3 a § 18cc.
+
+- 67. Ak sa v iných všeobecne záväzných právnych predpisoch používa pojem „virtuálna registračná pokladnica“, rozumie sa tým „pokladnica e-kasa klient“.
