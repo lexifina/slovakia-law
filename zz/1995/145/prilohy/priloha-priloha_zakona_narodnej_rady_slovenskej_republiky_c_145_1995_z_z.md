@@ -1688,21 +1688,27 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
       - osvedčení vozidla z dôvodu inej technickej zmeny na vozidle ................. 10 eur
 
-      - p) vydanie duplikátu osvedčenia o evidencii časť II alebo
+      - p) vydanie nového osvedčenia o evidencii časť II alebo
+
+      - nového technického osvedčenia vozidla z dôvodu zápisu
+
+      - vykonanej hromadnej prestavby na vozidle .............................................. 10 eur
+
+      - q) vydanie duplikátu osvedčenia o evidencii časť II alebo
 
       - technického osvedčenia vozidla na schvaľovací orgán ............................ 10 eur
 
-      - q) vydanie osvedčenia o evidencii časť II pri výmene technického
+      - r) vydanie osvedčenia o evidencii časť II pri výmene technického
 
       - osvedčenia vozidla alebo vydanie technického osvedčenia
 
       - vozidla pri výmene technického osvedčenia vozidla ................................ 10 eur
 
-      - r) dočasné povolenie na prevádzku neschváleného jednotlivého
+      - s) dočasné povolenie na prevádzku neschváleného jednotlivého
 
       - vozidla .................................................................................................... 10 eur
 
-      - s) povolenie, schválenie alebo uznanie podľa písmen a) až l)
+      - t) povolenie, schválenie alebo uznanie podľa písmen a) až l)
 
       - pre fyzické osoby s ťažkým zdravotným postihnutím, ktorým sa
 
@@ -1712,13 +1718,15 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
       - podľa osobitného zákona<sup>20a</sup>) ..................................................................... 2 eurá
 
-      - t) povolenie alebo schválenie podľa písmen d), j) a l) pre vozidlo
+      - u) povolenie alebo schválenie podľa písmen d), j) a l) pre vozidlo
 
       - na prepravu osôb na invalidnom vozíku ................................................... 10 eur
 
     - Oslobodenie
 
-      - Od poplatku podľa písmen f) až h) tejto položky sú oslobodené osoby, ktoré mali jednotlivo dovezené vozidlo v zahraničí evidované na svoje meno v rámci zastupiteľských úradov, diplomati, konzuli z povolania a ďalšie osoby, ktoré podľa medzinárodného práva požívajú výsady a imunity počas svojho pôsobenia.
+      - 1. Od poplatku podľa písmen f) až h) tejto položky sú oslobodené osoby, ktoré mali jednotlivo dovezené vozidlo v zahraničí evidované na svoje meno v rámci zastupiteľských úradov, diplomati, konzuli z povolania a ďalšie osoby, ktoré podľa medzinárodného práva požívajú výsady a imunity počas svojho pôsobenia.
+
+      - 2. Od poplatku podľa písmena o) tejto položky sú oslobodené osoby, ktorým sa vydáva osvedčenie o evidencii časť II alebo technické osvedčenie vozidla, v ktorom je zapísaná iná technická zmena na vozidle, ak ide o opravu nesprávnych technických údajov a táto chyba bola zapríčinená orgánom, ktorý osvedčenie o evidencii časť II alebo technické osvedčenie vozidla vydal, okrem prípadov, keď chybné osvedčenie o evidencii časť II alebo technické osvedčenie vozidla vystavil výrobca alebo zástupca výrobcu.
 
     - Splnomocnenie
 
@@ -1730,7 +1738,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Poznámky
 
-      - 1. Poplatok podľa tejto položky zahŕňa aj vydanie príslušných dokladov.
+      - 1. Poplatok podľa tejto položky zahŕňa aj vydanie príslušných dokladov a v prípade písmena s) aj vydanie tabuliek so zvláštnym evidenčným číslom.
 
       - 2. Ak žiadateľ jednou žiadosťou podľa písmen a), b), d) a e) tejto položky požaduje viac schválení, poplatky sa sčítavajú.
 
@@ -2310,27 +2318,27 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - k) | Podanie žiadosti o vydanie, zmenu údajov, predĺženie platnosti alebo vydanie duplikátu osvedčenia o odbornej spôsobilosti bezpečnostného poradcu na prepravu nebezpečných vecí<sup>22a</sup>) ........... | | 30 eur
 
-  - l) | Vydanie osvedčenia vodiča<sup>22e)</sup> ..... | | 10 eur
+  - l) | Podanie návrhu o vydanie osvedčenia vodiča<sup>22e)</sup> ..... | | 10 eur
 
   - m) | Podanie žiadosti o vydanie, zmenu údajov alebo vydanie duplikátu ADR osvedčenia o školení vodiča<sup>22a</sup>) ..... | | 20 eur
 
-  - n) | Podanie prihlášky na vykonanie skúšky vodiča taxislužby<sup>22bb</sup>) ..... | | 50 eur
+  - n) | Podanie žiadosti o udelenie povolenia na prevádzkovanie dispečingu<sup>22bb</sup>) ..... | | 50 eur
 
   - o) | Podanie žiadosti o vydanie preukazu vodiča vozidla taxislužby<sup>22bc</sup>) alebo jeho duplikátu..... | | 50 eur
 
-  - p) | Podanie žiadosti o odňatie povolenia na vykonávanie povolania prevádzkovateľa nákladnej cestnej alebo osobnej cestnej dopravy alebo koncesie na taxislužbu ..... | | 10 eur
+  - p) | Podanie žiadosti o odňatie povolenia na vykonávanie povolania prevádzkovateľa nákladnej cestnej alebo osobnej cestnej dopravy, povolenia na prevádzkovanie dispečingu alebo koncesie na taxislužbu ..... | | 10 eur
 
   - q) | Podanie žiadosti o zmenu povolenia na vykonávanie povolania prevádzkovateľa cestnej dopravy podľa písmena g) položky<sup>22bd</sup>) ..... | | 10 eur
 
-  - r) | Podanie prihlášky na vykonanie skúšky odbornej spôsobilosti v oblasti cestnej nákladnej dopravy alebo osobnej cestnej dopravy alebo spôsobilosti v taxislužbe ..... | | 100 eur
+  - r) | Podanie prihlášky na vykonanie skúšky odbornej spôsobilosti v oblasti cestnej nákladnej dopravy alebo osobnej cestnej dopravy ..... | | 100 eur
 
-  - s) | Podanie žiadosti o vydanie osvedčenia o odbornej spôsobilosti v cestnej nákladnej doprave alebo v cestnej osobnej doprave, alebo v taxislužbe alebo jeho duplikátu ..... | | 10 eur
+  - s) | Podanie žiadosti o vydanie osvedčenia o odbornej spôsobilosti v cestnej nákladnej doprave alebo v cestnej osobnej doprave, alebo jeho duplikátu ..... | | 10 eur
 
   - t) | Podanie žiadosti o vydanie poverenia na vykonávanie odbornej prípravy bezpečnostných poradcov a vodičov vozidiel prepravujúcich nebezpečné veci alebo žiadosť o predĺženie jeho platnosti ..... | | 100 eur
 
   - u) | Podanie žiadosti o vykonanie zmeny v poverení na vykonávanie odbornej prípravy bezpečnostných poradcov a vodičov vozidiel prepravujúcich nebezpečné veci ..... | | 50 eur
 
-  - Splnomocnenie 1. Správny orgán môže upustiť od vybratia poplatku, ak ide o prepravu poľnohospodárskych výrobkov, prepravu vykonanú z humanitných dôvodov alebo z dôvodov verejného záujmu. 2. Správny orgán môže na základe vzájomnosti od vybratia poplatku upustiť alebo sadzbu poplatku znížiť. V odôvodnených prípadoch, predovšetkým z hľadiska zabezpečenia zásad dopravnej politiky, môže správny orgán poplatok podľa tejto položky zvýšiť až na trojnásobok. 3. Za dodatočne vydávanú licenciu (povolenie) môže správny orgán zvýšiť príslušnú sadzbu poplatku až na trojnásobok. 4. Pri podaní prihlášky o opakovanú skúšku podľa písmen n) a r) sa vyberie správny poplatok vo výške 50 % príslušnej sadzby. 5. Od poplatku podľa písmena d) je oslobodený dopravca, ktorý žiada o schválenie alebo zmenu cestovného poriadku na autobusovej linke, ktorá je súčasťou záväzku dopravcu, ktorý pre neho vyplýva zo zmluvy o službách vo verejnom záujme uzatvorenej s objednávateľom dopravných služieb. | | |
+  - Splnomocnenie 1. Správny orgán môže upustiť od vybratia poplatku, ak ide o prepravu poľnohospodárskych výrobkov, prepravu vykonanú z humanitných dôvodov alebo z dôvodov verejného záujmu. 2. Správny orgán môže na základe vzájomnosti od vybratia poplatku upustiť alebo sadzbu poplatku znížiť. V odôvodnených prípadoch, predovšetkým z hľadiska zabezpečenia zásad dopravnej politiky, môže správny orgán poplatok podľa tejto položky zvýšiť až na trojnásobok. 3. Za dodatočne vydávanú licenciu (povolenie) môže správny orgán zvýšiť príslušnú sadzbu poplatku až na trojnásobok. 4. Pri podaní prihlášky o opakovanú skúšku podľa písmena r) sa vyberie správny poplatok vo výške 50 % príslušnej sadzby. 5. Od poplatku podľa písmena d) je oslobodený dopravca, ktorý žiada o schválenie alebo zmenu cestovného poriadku na autobusovej linke, ktorá je súčasťou záväzku dopravcu, ktorý pre neho vyplýva zo zmluvy o službách vo verejnom záujme uzatvorenej s objednávateľom dopravných služieb. | | |
 
     - Položka 80
 

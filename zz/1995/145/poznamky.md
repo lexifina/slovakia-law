@@ -200,7 +200,7 @@
 
 - 22ba) § 42 písm. c) zákona č. 56/2012 Z. z.
 
-- 22bb) § 28 ods. 4 zákona č. 56/2012 Z. z.
+- 22bb) § 42 písm. e) zákona č. 56/2012 Z. z. v znení zákona č. 9/2019 Z. z.
 
 - 22bc) § 42 písm. d) zákona č. 56/2012 Z. z.
 
