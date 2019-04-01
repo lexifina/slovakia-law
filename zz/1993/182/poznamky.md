@@ -68,7 +68,7 @@
 
 - 15a) § 324 až 340 Civilného sporového poriadku.
 
-- 16) § 151b Občianskeho zákonníka.
+- 16) § 151b a 151c Občianskeho zákonníka.
 
 - 17) § 34 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení neskorších predpisov.
 
