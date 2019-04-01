@@ -1,1 +1,0 @@
-Pavol Pavlis v. r.
