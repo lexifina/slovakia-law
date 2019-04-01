@@ -22,7 +22,7 @@
 
 - 10) Článok 13 ods. 1 nariadenia Európskeho parlamentu a Rady (ES) č. 561/2006.
 
-- 11) Napríklad § 2 zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení neskorších predpisov, § 26 a príloha č. 3 skupina 314 – Ostatné por. č. 12 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+- 11) Napríklad § 5 zákona č. 56/2012 Z. z. o cestnej doprave v znení neskorších predpisov.
 
 - 12) Ú. v. EÚ L 195, 27. 7. 2005.
 
@@ -69,8 +69,6 @@
 - 24) Príloha IB nariadenia Rady (EHS) č. 3821/85 v platnom znení.
 
 - 25) § 67 ods. 3 až 7 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. v znení zákona č. 534/2003 Z. z.
-
-- 26) Napríklad Obchodný zákonník, Občiansky zákonník.
 
 - 27) Príloha rozhodnutia Komisie 2007/230/ES z 12. apríla 2007 o formulári týkajúcom sa právnych predpisov v sociálnej oblasti súvisiacich s činnosťami cestnej dopravy (Ú. v. EÚ L 99, 14. 4. 2007) v znení rozhodnutia Komisie 2009/959/EÚ zo 14. decembra 2009 (Ú. v. EÚ L 330, 16. 12. 2009).
 
