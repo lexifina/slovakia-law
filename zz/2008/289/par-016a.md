@@ -2,11 +2,11 @@
 
 Správneho deliktu sa dopustí ten, kto
 
-- a) nepoužil elektronickú registračnú pokladnicu alebo pokladnicu e-kasa klient na evidenciu tržby podľa § 3 ods. 1 alebo prijme tržbu na základe dokladu vyhotoveného elektronickou registračnou pokladnicou alebo pokladnicou e-kasa klient, ktorý nie je pokladničným dokladom,
+- a) nepoužil elektronickú registračnú pokladnicu alebo pokladnicu e-kasa klient na evidenciu tržby podľa § 3 ods. 1 prvej vety alebo prijme tržbu na základe dokladu vyhotoveného elektronickou registračnou pokladnicou alebo pokladnicou e-kasa klient, ktorý nie je pokladničným dokladom, uvedie v žiadosti nepravdivú informáciu o dostupnosti internetového signálu na predajnom mieste podľa § 3a ods. 1 alebo nesplní povinnosť podľa § 3a ods. 3 alebo § 8 ods. 6,
 
 - b) svojím zásahom vyradí elektronickú registračnú pokladnicu alebo pokladnicu e-kasa klient z prevádzky,
 
-- c) na evidenciu prijatej tržby používa elektronickú registračnú pokladnicu, ktorá nespĺňa požiadavky podľa § 4 ods. 1 až 4 alebo pokladnicu e-kasa klient, ktorá nespĺňa požiadavky podľa § 4a,
+- c) na evidenciu prijatej tržby používa elektronickú registračnú pokladnicu, ktorá nespĺňa požiadavky podľa § 4 ods. 1 až 4 alebo pokladnicu e-kasa klient, ktorá nespĺňa požiadavky podľa § 4a, alebo nesplní povinnosti uvedené v § 8a,
 
 - d) neodovzdá paragón podľa § 10 ods. 4,
 
@@ -14,25 +14,25 @@ Správneho deliktu sa dopustí ten, kto
 
 - f) odovzdá pokladničný doklad, doklad alebo paragón, ktoré nespĺňajú náležitosti podľa § 8 ods. 1, 2, 7, 9 a 10 alebo § 10 ods. 4 a 6,
 
-- g) nemá knihu elektronickej registračnej pokladnice umiestnenú na predajnom mieste podľa § 2 písm. zd),
+- g) nemá knihu elektronickej registračnej pokladnice umiestnenú na predajnom mieste podľa § 2 písm. aw),
 
-- h) nezaeviduje v elektronickej registračnej pokladnici alebo v pokladnici e-kasa klient vklad hotovosti podľa § 3 ods. 3,
+- h) nezaeviduje v elektronickej registračnej pokladnici vklad hotovosti podľa § 3 ods. 3 prvej vety alebo v pokladnici e-kasa klient vklad alebo výber hotovosti podľa § 3 ods. 3 druhej vety alebo nesplní povinnosť podľa § 3 ods. 3 tretej vety alebo štvrtej vety,
 
 - i) nepostupuje v súlade s § 3 ods. 4,
 
-- j) nepoužíva elektronickú registračnú pokladnicu alebo pokladnicu e-kasa klient v súlade s § 3 ods. 6,
+- j) nepoužíva elektronickú registračnú pokladnicu alebo pokladnicu e-kasa klient v súlade s § 3 ods. 6 alebo nesplní povinnosť podľa § 3 ods. 7 prvej vety,
 
 - k) nezabezpečí vykonanie povinnej údržby elektronickej registračnej pokladnice podľa § 4 ods. 7,
 
-- l) nesplní povinnosť podľa § 4 ods. 9 a 10,
+- l) nesplní povinnosť podľa § 3 ods. 1 druhej vety a tretej vety, § 3 ods. 7 druhej vety a tretej vety, § 4 ods. 9 a 10 alebo § 7a ods. 5, 7 až 9,
 
 - m) neoznačí tovar alebo službu podľa § 8 ods. 3,
 
 - n) neodovzdá kupujúcemu pokladničný doklad alebo paragón podľa § 8 ods. 4,
 
-- o) nesplní povinnosť podľa § 3 ods. 7 alebo § 8 ods. 5 a 6,
+- o) nesplní povinnosť podľa § 3 ods. 8, § 3a ods. 4 alebo § 8 ods. 5,
 
-- p) nesplní povinnosť podľa § 7a ods. 3, § 9 alebo § 10 ods. 7,
+- p) nesplní povinnosť podľa § 7a ods. 7, § 9 alebo § 10 ods. 7,
 
 - q) nenahlási servisnej organizácii poškodenie alebo chýbanie plomby podľa § 4 ods. 8 alebo poruchu elektronickej registračnej pokladnice podľa § 10 ods. 1,
 
@@ -42,7 +42,7 @@ Správneho deliktu sa dopustí ten, kto
 
 - t) nevyhotoví dennú uzávierku, intervalovú uzávierku alebo prehľadovú uzávierku alebo nedodrží postup podľa § 12,
 
-- u) nevedie knihu elektronickej registračnej pokladnice podľa § 13,
+- u) nevedie knihu elektronickej registračnej pokladnice alebo nesplní povinnosť podľa § 13,
 
 - v) nedodrží postup pri zmene vlastníka elektronickej registračnej pokladnice podľa § 14,
 
@@ -52,7 +52,7 @@ Správneho deliktu sa dopustí ten, kto
 
 - y) neuvedie informáciu o umiestnení plomb podľa § 4 ods. 2 písm. b) pätnásteho bodu,
 
-- z) nesplní povinnosť podľa § 4 ods. 6, § 17a ods. 4 alebo § 18c ods. 4,
+- z) nesplní povinnosť podľa § 4 ods. 6, § 4c ods. 4 a 10, § 17a ods. 4, § 17c ods. 4 alebo § 18c ods. 4,
 
 - aa) neodovzdá certifikát elektronickej registračnej pokladnice alebo fiskálnej tlačiarne podľa § 7 ods. 1 písm. b),
 
@@ -78,7 +78,7 @@ Správneho deliktu sa dopustí ten, kto
 
 - al) uvádza elektronickú registračnú pokladnicu do prevádzky alebo vykonáva opravu a údržbu elektronických registračných pokladníc a nie je zapísaný v registri servisných organizácií podľa § 6,
 
-- am) v rozpore s týmto zákonom umožní zmeniť alebo zmení údaje v elektronickej registračnej pokladnici, v pokladnici e-kasa klient, v kontrolnom zázname alebo umožní zmeniť alebo zmení obsah alebo usporiadanie údajov výsledných výstupov vytvorených pokladnicou e-kasa klient,
+- am) v rozpore s týmto zákonom umožní zmeniť alebo zmení údaje v elektronickej registračnej pokladnici, v pokladnici e-kasa klient, v kontrolnom zázname alebo umožní zmeniť alebo zmení obsah alebo usporiadanie údajov výsledných výstupov vytvorených pokladnicou e-kasa klient alebo zmení údaje z dátovej správy uloženej v on-line registračnej pokladnici podľa § 3 ods. 1, 3 a 7 alebo § 3a ods. 3 alebo umožní zmeniť alebo zmení rozsah údajov zasielaných do systému e-kasa podľa § 8a,
 
 - an) uvedie do prevádzky alebo umožní používať elektronickú registračnú pokladnicu, ktorá nespĺňa požiadavky podľa tohto zákona,
 

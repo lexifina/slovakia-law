@@ -40,7 +40,7 @@
 
 - 16b) § 57 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
-- 16c) § 29 ods. 1 písm. g) a § 30 ods. 1 písm. c) zákona č. 56/2012 Z. z. o cestnej doprave.
+- 16c) § 30 ods. 5 písm. f) zákona č. 56/2012 Z. z. o cestnej doprave v znení zákona č. 9/2019 Z. z.
 
 - 17) Zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 

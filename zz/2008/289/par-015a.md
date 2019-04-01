@@ -1,6 +1,6 @@
 # § 15a Ukončenie používania pokladnice e-kasa klient
 
-(1) Podnikateľ je povinný písomne oznámiť ukončenie používania pokladnice e-kasa klient ktorémukoľvek daňovému úradu najneskôr do troch pracovných dní od ukončenia jej používania; ak sa oznámenie podáva elektronickými prostriedkami, podáva sa v predpísanej forme podľa osobitného predpisu.<sup>19</sup>) Daňový úrad ukončí používanie pokladnice e-kasa klient bez zbytočného odkladu.
+(1) Podnikateľ je povinný oznámiť ukončenie používania pokladnice e-kasa klient ktorémukoľvek daňovému úradu najneskôr do troch pracovných dní od ukončenia jej používania; oznámenie sa podáva v predpísanej štruktúrovanej forme spôsobom podľa osobitného predpisu<sup>9a</sup>) prostredníctvom na to určeného elektronického formulára, ktorý finančné riaditeľstvo zverejní na svojom webovom sídle. Daňový úrad ukončí používanie pokladnice e-kasa klient bez zbytočného odkladu.
 
 (2) Daňový úrad ukončí používanie pokladnice e-kasa klient aj
 

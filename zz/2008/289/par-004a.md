@@ -1,6 +1,20 @@
 # § 4a Požiadavky na pokladnicu e-kasa klient
 
-(1) Na účely plnenia povinnosti podľa § 3 ods. 1 možno používať len pokladnicu e-kasa klient podľa § 2 písm. b).
+(1) Na účely plnenia povinnosti podľa § 3 ods. 1, 3 a 7 a podľa § 3a ods. 3 možno používať len
+
+- a) virtuálnu registračnú pokladnicu,
+
+  - 1. ktorej daňový úrad pridelil kód podľa § 7a,
+
+  - 2. ktorá spĺňa požiadavky podľa odseku 2,
+
+- b) on-line registračnú pokladnicu,
+
+  - 1. ktorej daňový úrad pridelil kód podľa § 7a,
+
+  - 2. ktorá spĺňa požiadavky podľa odseku 2,
+
+  - 3. ktorá používa pokladničný program a chránené dátové úložisko, na ktoré bolo vydané rozhodnutie o certifikácii pokladničného programu a chráneného dátového úložiska podľa § 4c.
 
 (2) Pokladnica e-kasa klient musí spĺňať tieto požiadavky:
 
