@@ -1,6 +1,6 @@
 # § 29o
 
-(1) Poslancovi, prezidentovi, členovi vlády, predsedovi kontrolného úradu a podpredsedovi kontrolného úradu patrí v roku 2017 plat a paušálne náhrady vo výške určenej v roku 2011 (§ 29g).
+(1) Poslancovi, prezidentovi, členovi vlády patrí v roku 2017 plat a paušálne náhrady vo výške určenej v roku 2011 (§ 29g).
 
 (2) Odmena asistenta poslanca a výdavky na prevádzku poslaneckej kancelárie zriadenej podľa § 4a ods. 1 druhej vety sú v roku 2017 rovnaké ako v roku 2011.
 
