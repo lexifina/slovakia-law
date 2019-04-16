@@ -88,6 +88,16 @@
 
 - § 17 a 52 zákona č. 435/2000 Z. z. o námornej plavbe v znení neskorších predpisov.
 
+- 31a) Napríklad rozhodnutie Európskeho parlamentu a Rady (EÚ) 2017/899 zo 17. mája 2017 o využívaní frekvenčného pásma 470 – 790 MHz v Únii (Ú. v. EÚ L 138, 25. 5. 2017).
+
+- 31ab) Čl. 108 ods. 3 Zmluvy o fungovaní Európskej únie.
+
+- 31ac) Čl. 107 ods. 3 a čl. 108 ods. 3 Zmluvy o fungovaní Európskej únie.
+
+- 31ad) § 3 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+
+- 31ae) Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.
+
 - 31b) Napríklad zákon č. 56/2018 Z. z. o posudzovaní zhody výrobku, sprístupňovaní určeného výrobku na trhu a o zmene a doplnení niektorých zákonov, nariadenie vlády Slovenskej republiky č. 127/2016 Z. z. o elektromagnetickej kompatibilite, nariadenie vlády Slovenskej republiky č. 193/2016 Z. z. o sprístupňovaní rádiových zariadení na trhu.
 
 - 31c) Napríklad zákon č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 26 písm. a) zákona č. 56/2018 Z. z.
