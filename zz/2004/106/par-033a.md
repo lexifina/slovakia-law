@@ -26,7 +26,7 @@
 
 (5) Colný úrad môže v povolení na prevádzkovanie daňového skladu pre zahraničných zástupcov uviesť prevádzkovo-technické podmienky prevádzkovania takéhoto skladu.
 
-(6) Preprava tabakových výrobkov osobe, ktorej colný úrad vydal povolenie na prevádzkovanie daňového skladu pre zahraničných zástupcov (ďalej len „prevádzkovateľ daňového skladu pre zahraničných zástupcov"), sa uskutočňuje v pozastavení dane s elektronickým dokumentom; na postup pri preprave tabakových výrobkov v pozastavení dane sa použijú § 21 a 22 primerane.
+(6) Preprava tabakových výrobkov prevádzkovateľovi daňového skladu pre zahraničných zástupcov sa uskutočňuje v pozastavení dane s elektronickým dokumentom; na postup pri preprave tabakových výrobkov v pozastavení dane sa použijú § 21 a 22 primerane.
 
 (7) Zahraničný zástupca, ktorý chce nakupovať tabakové výrobky oslobodené od dane v daňovom sklade pre zahraničných zástupcov, je povinný požiadať Ministerstvo zahraničných vecí Slovenskej republiky o vydanie potvrdenia o postavení zahraničného zástupcu podľa odseku 2 a o splnení podmienky vzájomnosti podľa odseku 15. Ak sa zmenia údaje uvedené v potvrdení Ministerstva zahraničných vecí Slovenskej republiky, Ministerstvo zahraničných vecí Slovenskej republiky oznámi bezodkladne tieto skutočnosti Colnému úradu Bratislava. Vzor potvrdenia Ministerstva zahraničných vecí Slovenskej republiky o postavení zahraničného zástupcu a o splnení podmienky vzájomnosti je uvedený v prílohe č. 2.
 
