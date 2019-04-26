@@ -8,11 +8,11 @@
 
 - c) záujmové združenie právnických osôb, ktorého členmi sú len obce alebo samosprávne kraje.
 
-(2) O prostriedky fondu na účely § 4 ods. 1 písm. ad) piateho bodu môže požiadať žiadateľ oprávnený predložiť žiadosť na poskytnutie prostriedkov fondu podľa činností uvedených v špecifikácii činností zverejnených podľa § 4 ods. 2.
+(2) O prostriedky fondu na účely § 4 ods. 1 písm. ad) piateho bodu môže požiadať žiadateľ oprávnený predložiť žiadosť na poskytnutie prostriedkov fondu podľa činností uvedených v špecifikácii činností zverejnených podľa § 4 ods. 3.
 
 (3) Prostriedky fondu možno poskytnúť žiadateľovi najviac do výšky 100 % priamych nákladov vynaložených na účely § 4 ods. 1 písm. ad); za priame náklady sa považujú náklady na služby alebo tovary priamo súvisiace s riešením, ktorým sa zabezpečuje starostlivosť o životné prostredie.
 
-(4) Na základe odporúčania rady fondu fond uzavrie so žiadateľom zmluvu o poskytnutí finančných prostriedkov na účely § 4 ods. 1 písm. ad); rozhodnutie ministra o poskytnutí prostriedkov fondu na uvedené účely nie je potrebné.
+(4) Na základe odporúčania rady fondu fond uzavrie so žiadateľom zmluvu o poskytnutí prostriedkov fondu na účely § 4 ods. 1 písm. ad); rozhodnutie ministra o poskytnutí prostriedkov fondu na uvedené účely nie je potrebné.
 
 (5) Žiadosť sa podáva v písomnej forme bezodkladne po vzniku stavu v súvislosti s ktorým žiadateľ žiada prostriedky fondu. Vzor žiadosti fond uverejní na svojom webovom sídle.
 
@@ -26,7 +26,7 @@
 
 - d) údaje o štatutárnom orgáne žiadateľa,
 
-- e) účel a výšku požadovaných finančných prostriedkov,
+- e) účel a výšku požadovaných prostriedkov fondu,
 
 - f) prílohy podľa odseku 6, ak ide o poskytnutie prostriedkov na účely § 4 ods. 1 písm. ad) prvého až štvrtého bodu,
 
@@ -42,7 +42,7 @@
 
 - d) vyjadrenie regionálneho úradu verejného zdravotníctva k stavu podľa § 4 ods. 1 písm. ad) štvrtého bodu.<sup>12m</sup>)
 
-(7) Fond vedie evidenciu podaných žiadostí a vykoná ich kontrolu. Fond môže vyzvať žiadateľa, aby v lehote určenej fondom žiadosť doplnil. Ak žiadateľ v tejto lehote žiadosť nedoplní, fond ju nezaradí do zoznamu žiadostí o poskytnutie finančných prostriedkov na účely § 4 ods. 1 písm. ad). Zoznam žiadostí o poskytnutie finančných prostriedkov na účely § 4 ods. 1 písm. ad) je podkladom na rokovanie rady fondu.
+(7) Fond vedie evidenciu podaných žiadostí a vykoná ich kontrolu. Fond môže vyzvať žiadateľa, aby v lehote určenej fondom žiadosť doplnil. Ak žiadateľ v tejto lehote žiadosť nedoplní, fond ju nezaradí do zoznamu žiadostí o poskytnutie prostriedkov fondu na účely § 4 ods. 1 písm. ad). Zoznam žiadostí o poskytnutie prostriedkov fondu na účely § 4 ods. 1 písm. ad) je podkladom na rokovanie rady fondu.
 
 (8) Na poskytnutie prostriedkov fondu na účely § 4 ods. 1 písm. ad) nie je právny nárok.
 

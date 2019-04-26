@@ -40,7 +40,7 @@
 
 - j) opis financovania projektu,
 
-- k) ďalšie údaje a doklady potrebné na posúdenie žiadosti, ktoré určí špecifikácia činností zverejnená podľa § 4 ods. 2.
+- k) ďalšie údaje a doklady potrebné na posúdenie žiadosti, ktoré určí špecifikácia činností zverejnená podľa § 4 ods. 3.
 
 (6) Fond vedie evidenciu podaných žiadostí a vykoná ich kontrolu formálnej správnosti a úplnosti. Fond môže vyzvať žiadateľa, aby v lehote určenej fondom žiadosť doplnil. Ak žiadateľ v tejto lehote žiadosť nedoplní, fond ju nezaradí do zoznamu žiadostí o podporu formou dotácie. Zoznam žiadostí o podporu formou dotácie obsahuje úplné, formálne a vecne správne žiadosti o podporu formou dotácie. Zoznam žiadostí o podporu formou dotácie je podkladom na rokovanie rady fondu a ministra.
 

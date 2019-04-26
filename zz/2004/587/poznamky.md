@@ -50,6 +50,12 @@
 
 - 11i) § 7 ods. 1 písm. c) a d) zákona č. 329/2018 Z. z.
 
+- 11j) Zákon č. 305/2018 Z. z. o chránených oblastiach prirodzenej akumulácie vôd a o zmene a doplnení niektorých zákonov.
+
+- 11k) § 5 ods. 1 písm. c) zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov.
+
+- 11l) § 2 ods. 2 písm. o) zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
+
 - 12) Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme.
 
 - 12a) § 79 ods. 7 zákona č. 364/2004 Z. z. v znení neskorších predpisov.
