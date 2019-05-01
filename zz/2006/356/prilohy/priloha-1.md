@@ -13,3 +13,5 @@ Príloha č. 1 k nariadeniu vlády č. 356/2006 Z. z.
   - 5. Práca, pri ktorej dochádza k expozícii zamestnancov prachu z rôznych druhov tvrdého dreva.
 
   - 6. Práca s cytostatikami.
+
+  - 7. Práca, pri ktorej dochádza k expozícii respirabilnému prachu kryštalického oxidu kremičitého, ktorý vznikol pracovným procesom.

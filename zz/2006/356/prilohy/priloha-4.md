@@ -2,9 +2,9 @@ Príloha č. 4 k nariadeniu vlády č. 356/2006 Z. z.
 
 - ZÁSADY ZDRAVOTNÉHO DOHĽADU
 
-  - 1. Lekár vykonávajúci zdravotný dohľad nad zamestnancami exponovanými karcinogénom a mutagénom musí byť oboznámený s podmienkami alebo okolnosťami expozície každého zamestnanca.
+  - 1. Lekár vykonávajúci zdravotný dohľad pre zamestnancov exponovaných karcinogénom a mutagénom musí byť oboznámený s podmienkami alebo okolnosťami expozície každého zamestnanca.
 
-  - 2. Zdravotný dohľad, ktorého súčasťou sú lekárske preventívne prehliadky, sa musí vykonávať v súlade so zásadami a praxou pracovného lekárstva a musí zahŕňať najmenej tento rozsah:
+  - 2. Zdravotný dohľad, ktorého súčasťou sú lekárske preventívne prehliadky vo vzťahu k práci, sa musí vykonávať v súlade so zásadami a praxou pracovného lekárstva a musí zahŕňať najmenej tento rozsah:
 
     - a) vedenie a uchovávanie záznamov o zdravotnej a pracovnej anamnéze zamestnanca, ktoré obsahujú základné údaje o zamestnancovi: meno, priezvisko, pohlavie, dátum narodenia, bydlisko, poisťovňu, dátum nástupu do zamestnania k súčasnému zamestnávateľovi, zamestnanie vrátane expozície faktorom vyžadujúcim zdravotný dohľad v tomto zamestnaní,
 

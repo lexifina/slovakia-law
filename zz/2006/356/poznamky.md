@@ -6,6 +6,10 @@
 
 - 5) Nariadenie vlády Slovenskej republiky č. 355/2006 Z. z. o ochrane zamestnancov pred rizikami súvisiacimi s expozíciou chemickým faktorom pri práci.
 
+- 5a) § 4 nariadenia vlády Slovenskej republiky č. 355/2006 Z. z. v znení neskorších predpisov.
+
+- 5b) § 30 ods. 1 písm. c) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 6) § 3 zákona č. 126/2006 Z. z. o verejnom zdravotníctve a o zmene a doplnení niektorých zákonov.
 
 - § 3 zákona č. 95/2000 Z. z. o inšpekcii práce a o zmene a doplnení niektorých zákonov.
@@ -16,9 +20,11 @@
 
 - 9) Nariadenie vlády Slovenskej republiky č. 444/2001 Z. z. o požiadavkách na používanie označenia, symbolov a signálov na zaistenie bezpečnosti a ochrany zdravia pri práci.
 
-- 10) § 10 ods. 4 písm. g) zákona č. 126/2006 Z. z.
+- 10) § 13 ods. 4 písm. i) zákona č. 355/2007 Z. z. v znení neskorších predpisov.
 
-- 11) § 10 ods. 8 zákona č. 126/2006 Z. z.
+- 11) § 13 ods. 5 zákona č. 355/2007 Z. z. v znení neskorších predpisov.
+
+- 11a) § 11 nariadenia vlády Slovenskej republiky č. 355/2006 Z. z. v znení neskorších predpisov.
 
 - 12) § 10 ods. 4 písm. a) zákona č. 126/2006 Z. z.
 
@@ -28,4 +34,4 @@
 
 - 15) § 8e a 10 zákona Národnej rady Slovenskej republiky č. 330/1996 Z. z. v znení zákona č. 158/2001 Z. z.
 
-- 16) § 19 ods.1 písm. f) zákona č. 126/2006 Z. z.
+- 16) § 31a ods. 12 písm. c) a § 31b ods. 1 písm. d) zákona č. 355/2007 Z. z. v znení zákona č. 204/2014 Z. z.
