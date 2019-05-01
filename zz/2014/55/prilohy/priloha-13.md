@@ -1,3 +1,3 @@
 Príloha č. 13 k výnosu č. 55/2014 Z. z.
 
-- Dátová štruktúra základného číselníka [Dátová štruktúra základného číselníka](../assets/a1451d1d77d5473386196ec6c6492704436d5036a8c450c452fc46311fd15db0.pdf)
+- Dátová štruktúra základného číselníka [Dátová štruktúra základného číselníka](../assets/771ff9b15cf16699244549f39f4f901758153bbaa5ef81026bc29f8ec339fca8.pdf)

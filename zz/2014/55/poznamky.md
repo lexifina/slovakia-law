@@ -1,4 +1,6 @@
-- 1) § 3 písm. j) zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente).
+- 1) § 10 ods. 11 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších právnych predpisov.
+
+- 1a) § 3 písm. j) zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente).
 
 - 2) STN EN 301 549 Požiadavky na prístupnosť produktov a služieb IKT (871549).
 
@@ -9,6 +11,8 @@
 - 4a) RFC 2046: Formát Multipurpose Internet Mail Extensions (MIME). Časť 2: Typy médií, RFC 3629:UTF-8 transformácia UCS (univerzálnej znakovej sady), ISO/IEC 10646 - Informačné technológie. Univerzálna znaková sada (UCS).
 
 - 4aa) RFC 6838: Špecifikácie typov médií a registračné postupy z dôvodu zjednotenia používaných hodnôt.
+
+- 4ab) § 31a zákona č. 305/2013 Z. z.
 
 - 5) ISO/IEC 29500:2012 Formáty súborov Office Open XML.
 
@@ -23,6 +27,12 @@
 - 9) RFC 4180 Spoločný formát a MIME typ pre Comma Separated Values (CSV) súbory.
 
 - 10) Zákon č. 211/2000 Z. z.
+
+- 10a) Zákon č. 69/2018 Z. z. o kybernetickej bezpečnosti a o zmene a doplnení niektorých zákonov.
+
+- 10b) RFC 5751: Secure/Multipurpose Internet Mail Extensions (S/MIME) verzia 3.2, špecifikácia správ.
+
+- 10c) RFC 4880: OpenPGP formát správy. RFC 6637: Kryptografia na báze eliptických kriviek (ECC) v OpenPGP.
 
 - 11) Zákon č. 9/2010 Z. z. o sťažnostiach.
 

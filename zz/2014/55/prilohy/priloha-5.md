@@ -1,1 +1,1 @@
-Príloha č. 5 k výnosu č. 55/2014 Z. z. [Príloha č. 5 k výnosu č. 55/2014 Z. z.](../assets/5cfccf9fec423889da642f6540f87f899dc9a086ae8662996276e8b24a372a80.pdf)
+Príloha č. 5 k výnosu č. 55/2014 Z. z. [Príloha č. 5 k výnosu č. 55/2014 Z. z.](../assets/93ee82d3a05a12335b0efd1a69f12abb6029b9be20a454a4a755c1b98d4ed6c3.pdf)
