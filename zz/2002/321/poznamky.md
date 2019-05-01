@@ -8,6 +8,18 @@
 
 - 3) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
 
+- 4) § 206 a 208 zákona č. 281/2015 Z. z. o štátnej službe profesionálnych vojakov a o zmene a doplnení niektorých zákonov.
+
+- 4a) § 18 zákona č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- § 61 zákona č. 281/2015 Z. z.
+
+- 4b) Napríklad Zmluva medzi štátmi, ktoré sú stranami Severoatlantickej zmluvy, a inými štátmi zúčastnenými v Partnerstve za mier vzťahujúca sa na štatút ich ozbrojených síl (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 324/1997 Z. z.) v znení ďalšieho dodatkového protokolu (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 370/2001 Z. z.), Zmluva medzi štátmi, ktoré sú zmluvnými stranami Severoatlantickej zmluvy, vzťahujúca sa na status ich ozbrojených síl (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 566/2004 Z. z.).
+
+- 4c) § 9 zákona č. 124/1992 Zb. o Vojenskej polícii v znení zákona č. 393/2008 Z. z.
+
+- § 8 zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve.
+
 - 5) Čl. 4 a 5 ústavného zákona č. 227/2002 Z. z.
 
 - 6) § 70 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
@@ -69,5 +81,11 @@
 - 30) § 13 Trestného zákona.
 
 - 31) § 14 Trestného zákona.
+
+- 31a) § 21 ods. 17 zákona č. 570/2005 Z. z. v znení neskorších predpisov.
+
+- § 206 ods. 6 zákona č. 281/2015 Z. z.
+
+- 31b) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 32) § 27 až 29 Zákonníka práce.
