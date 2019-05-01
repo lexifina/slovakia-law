@@ -6,9 +6,13 @@
 
 - 2a) § 10 ods. 8 Trestného poriadku.
 
+- 2aa) § 17b zákona č. 321/2002 Z. z. v znení zákona č. 98/2019 Z. z.
+
 - 2b) Napríklad zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 2ba) § 10 ods. 1 zákona č. 281/1997 Z. z. o vojenských obvodoch a zákon, ktorým sa mení zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov v znení zákona č. 96/2012 Z. z.
+
+- § 17b zákona č. 321/2002 Z. z. v znení zákona č. 98/2019 Z. z.
 
 - 2bb) Zmluva medzi štátmi, ktoré sú stranami Severoatlantickej zmluvy, a inými štátmi zúčastnenými v Partnerstve za mier vzťahujúca sa na štatút ich ozbrojených síl (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 324/1997 Z. z. v znení oznámenia č. 370/2001 Z. z.).
 
