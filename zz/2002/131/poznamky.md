@@ -48,6 +48,8 @@
 
 - 20b) Zákon č. 9/2010 Z. z. o sťažnostiach.
 
+- 20c) § 24 ods. 1 písm. b) a § 31 písm. k) zákona č. 95/2019 Z. z. o informačných technológiách vo verejnej správe a o zmene a doplnení niektorých zákonov.
+
 - 21) Zákon č. 183/2000 Z. z. o knižniciach, o doplnení zákona Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti a o zmene a doplnení zákona č. 68/1997 Z. z. o Matici slovenskej v znení zákona č. 416/2001 Z. z.
 
 - 22) § 7 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
@@ -105,6 +107,8 @@
 - 38) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
 
 - 38a) § 4 ods. 1 písm. a) zákona č. 428/2002 Z. z. o ochrane osobných údajov.
+
+- 38aa) § 3 ods. 2 písm. b) zákona č. 422/2015 Z. z.
 
 - 38b) § 4 ods. 2 zákona č. 211/2000 Z. z.
 
