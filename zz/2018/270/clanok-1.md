@@ -90,7 +90,15 @@ Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorýc
 
 - „e)
 
-- schvaľuje kritériá na získanie titulu docent a kritériá na získanie titulu profesor,“.
+- schvaľuje kritériá na získanie titulu docent a kritériá na získanie titulu profesor,
+
+- f)
+
+- prerokúva návrhy na udelenie vedecko-pedagogického titulu alebo umelecko-pedagogického titulu „docent“ a rozhoduje o ich výsledku v odbore habilitačného konania a inauguračného konania, pri ktorom vysoká škola v žiadosti o akreditáciu habilitačného konania a inauguračného konania uviedla študijný odbor, v ktorom neuskutočňuje študijné programy fakulta,
+
+- g)
+
+- prerokúva a schvaľuje návrhy na vymenovanie profesorov; ak ide o vymenovanie profesora v odbore habilitačného konania a inauguračného konania, pri ktorom vysoká škola v žiadosti o akreditáciu habilitačného konania a inauguračného konania uviedla študijný odbor, v ktorom uskutočňuje študijné programy fakulta, koná tak na návrh vedeckej rady fakulty, a ak návrh neschváli, vráti ho s vyjadrením vedeckej rade fakulty,“.
 
 - 21. V § 14 ods. 1 tretej vete sa slová „[§ 15 ods. 1 písm. c)]“ nahrádzajú slovami „podľa § 15 ods. 1 písm. d)“.
 
@@ -340,6 +348,70 @@ Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorýc
 
 - 86. V § 50 ods. 2 sa slová „schopností a zručností“ nahrádzajú slovami „zručností a kompetencií“.
 
+- 87. V § 50 odseky 3 až 5 znejú:
+
+- „(3)
+
+- Ministerstvo školstva vydáva sústavu študijných odborov Slovenskej republiky (ďalej len „sústava študijných odborov“) všeobecne záväzným právnym predpisom po dohode s ministerstvom obrany, ministerstvom vnútra a ministerstvom zdravotníctva. Sústava študijných odborov obsahuje študijné odbory, v ktorých môžu vysoké školy v Slovenskej republike poskytovať vysokoškolské vzdelávanie, a ich opisy.
+
+- (4)
+
+- Opis študijného odboru obsahuje najmä
+
+- a)
+
+- názov študijného odboru v štátnom jazyku a v anglickom jazyku,
+
+- b)
+
+- stupne vysokoškolského štúdia, v ktorých je možné získať vysokoškolské vzdelanie v príslušnom študijnom odbore,
+
+- c)
+
+- údaj, že v príslušnom študijnom odbore
+
+- 1.
+
+- je možné spájať študijné programy prvého stupňa a študijné programy druhého stupňa do jedného celku,
+
+- 2.
+
+- nie je možné študovať samostatne v študijných programoch prvého stupňa a samostatne v študijných programoch druhého stupňa, alebo
+
+- 3.
+
+- nie je možné spájať študijné programy prvého stupňa a študijné programy druhého stupňa do jedného celku,
+
+- d)
+
+- udaj, či v príslušnom študijnom odbore je možné uskutočňovať interdisciplinárne štúdiá,
+
+- e)
+
+- vymedzenie obsahu študijného odboru podľa odseku 2,
+
+- f)
+
+- vymedzenie akademického titulu udeľovaného po absolvovaní rigoróznej skúšky a po obhajobe rigoróznej práce, ak ide o študijný odbor, v ktorom rigoróznu skúšku a obhajobu rigoróznej práce možno vykonať,
+
+- g)
+
+- údaj, či sa v príslušnom študijnom odbore vyžaduje stanovisko k predpokladu uplatnenia absolventov študijného programu v praxi; ak sa stanovisko vyžaduje, uvádza sa aj názov právnickej osoby, ktorá ho vydáva,
+
+- h)
+
+- údaj, či sa študijným odborom nahrádza iný študijný odbor,
+
+- i)
+
+- kód stupňa vzdelania podľa medzinárodnej štandardnej klasifikácie vzdelania.
+
+- (5)
+
+- Ak sa študijný odbor zo sústavy študijných odborov vypustí alebo ak sa vypustí stupeň, v ktorom je možné získať vysokoškolské vzdelanie v príslušnom študijnom odbore, oprávnenia vysokej školy vzťahujúce sa na vypustený študijný odbor alebo stupeň sa stávajú oprávneniami študijného odboru, ktorým sa nahrádza príslušný študijný odbor, a ministerstvo školstva túto skutočnosť vyznačí v registri študijných programov a v registri študijných odborov. Vysokoškolské vzdelanie získané v študijnom odbore, ktorý bol vypustený, sa považuje za rovnocenné s vysokoškolským vzdelaním získaným v študijnom odbore, ktorým bol príslušný študijný odbor nahradený.“.
+
+- 88. V § 50 sa vypúšťa odsek 6.
+
 - 89. V § 51 ods. 1 sa vypúšťajú slová „(§ 83 ods. 1)“, za slovo „kombinácii“ sa vkladá slovo „dvoch“ a vypúšťajú sa slová „(odsek 5)“.
 
 - 90. V § 51 ods. 3 sa vypúšťa tretia veta.
@@ -430,7 +502,11 @@ Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorýc
 
 - 96. V § 53 odseky 3 a 4 znejú:
 
-- „(4)
+- „(3)
+
+- Vysoká škola môže vytvoriť študijný program spájajúci prvý stupeň a druhý stupeň, len ak to umožňuje opis študijného odboru. V študijnom odbore, v ktorom nie je možné študovať samostatne v študijných programoch prvého stupňa a samostatne v študijných programoch druhého stupňa, môže vysoká škola vytvárať len študijné programy spájajúce prvý stupeň a druhý stupeň. Absolvent študijného programu spájajúceho prvý stupeň a druhý stupeň získava vysokoškolské vzdelanie druhého stupňa.
+
+- (4)
 
 - Štandardná dĺžka štúdia vrátane odbornej praxe pre študijný program
 
@@ -489,6 +565,8 @@ Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorýc
 - 2.
 
 - osem akademických rokov je 360 kreditov.“.
+
+- 97. V § 53 ods. 9 sa vypúšťajú v písmene a) slová „v prírodovedných študijných programoch“, v písmene b) slová „vo farmaceutických študijných programoch“, v písmene c) slová „v spoločenskovedných, umenovedných a zdravotníckych študijných programoch“, v písmene d) slová „v právnických študijných programoch“, v písmene e) slová „v učiteľských študijných programoch a telovýchovných študijných programoch“ a v písmene f) slová „v teologických študijných programoch okrem študijných programov v oblasti katolíckej teológie“.
 
 - 98. § 53 sa dopĺňa odsekom 11, ktorý znie:
 
@@ -648,6 +726,24 @@ Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorýc
 
 - 111. V § 58 ods. 5 tretej vete sa slová „§ 73 ods. 6“ nahrádzajú slovami „§ 73 ods. 7“ a na konci sa pripája táto veta: „Vysoká škola je oprávnená využívať údaje z prihlášky na štúdium o prijatom uchádzačovi o štúdium, ktorý oznámil vysokej škole, že sa zapíše na štúdium podľa odseku 9, v nevyhnutnom rozsahu na účel zápisu údajov do registra študentov a na účel vydania preukazu študenta.“.
 
+- 112. V § 59 odsek 4 znie:
+
+- „(4)
+
+- Vysoká škola môže na základe písomnej žiadosti povoliť za podmienok určených v jej študijnom poriadku zápis študentovi
+
+- a)
+
+- inej verejnej vysokej školy, štátnej vysokej školy alebo súkromnej vysokej školy, ktorý bol prijatý na štúdium študijného programu príslušného stupňa v rovnakom študijnom odbore,
+
+- b)
+
+- uznanej vysokej školy<sup>38aa</sup>) zriadenej podľa právnych predpisov iného štátu, ktorý bol prijatý na štúdium v príslušnom stupni v obdobnej oblasti poznania.“.
+
+  - Poznámka pod čiarou k odkazu 38aa znie:
+
+  - „<sup>38aa</sup>) § 3 ods. 2 písm. b) zákona č. 422/2015 Z. z.“.
+
 - 113. V § 63 ods. 3 sa vypúšťajú slová „[§ 12 ods. 1 písm. d)]“ a slová „(§ 75 ods. 8)“.
 
 - 114. V § 63 ods. 7 piatej vete sa vypúšťa slovo „písomná“.
@@ -719,6 +815,8 @@ Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorýc
   - „<sup>38g</sup>) § 8a zákona Národnej rady Slovenskej republiky č. 300/1993 Z. z. o mene a priezvisku v znení neskorších predpisov.“.
 
 - 123. V § 70 ods. 1 písm. a) sa čiarka na konci nahrádza bodkočiarkou a pripájajú sa tieto slová: „ak vysoká škola vykonala v študijnom programe úpravy, študent v štúdiu tohto študijného programu pokračuje podľa predmetov a pravidiel po úprave, ak pravidlá študijného programu neurčujú inak,“.
+
+- 124. V § 70 ods. 1 písm. l) sa vypúšťajú slová „alebo príbuzného študijného odboru“.
 
 - 125. V § 72 ods. 6 prvej vete sa za slovo „obsahovať“ vkladá slovo „výrok,“.
 
@@ -828,7 +926,21 @@ Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorýc
 
 - 140. V § 75 ods. 6 a 7 sa vypúšťajú slová „(odseky 4 a 5)“.
 
+- 141. V § 76 ods. 1 sa slová „priznané zodpovedajúce práva v danom študijnom odbore“ nahrádzajú slovami „udelenú akreditáciu habilitačného konania a inauguračného konania v príslušnom odbore habilitačného konania a inauguračného konania“.
+
+- 142. V § 76 odsek 2 znie:
+
+- „(2)
+
+- Vedecko-pedagogický titul „docent“, umelecko-pedagogický titul „docent“, vedecko-pedagogický titul „profesor“ a umelecko-pedagogický titul „profesor“ sa udeľujú len v odboroch habilitačného konania a inauguračného konania.“.
+
+- 143. V § 76 ods. 6 úvodnej vete sa slová „študijnom odbore“ nahrádzajú slovami „odbore habilitačného konania a inauguračného konania“ a v písmenách a) až c) sa slová „danom študijnom odbore“ nahrádzajú slovami „príslušnom odbore habilitačného konania a inauguračného konania“.
+
+- 144. V § 76 ods. 7 písm. a) a c) sa slová „danom študijnom odbore“ nahrádzajú slovami „príslušnom odbore habilitačného konania a inauguračného konania“ a v písmene b) sa slová „daného študijného odboru“ nahrádzajú slovami „príslušného odboru habilitačného konania a inauguračného konania“.
+
 - 145. V § 76 ods. 8 sa vypúšťa druhá veta.
+
+- 146. V § 76 ods. 10 úvodnej vete a písmenách a) a h) sa slová „konania na vymenovanie profesora“ nahrádzajú slovami „inauguračného konania“, v písmene b) sa slová „študijného odboru“ nahrádzajú slovami „odboru habilitačného konania a inauguračného konania“ a v písmene g) sa slová „konania na vymenúvanie profesora“ nahrádzajú slovami „inauguračného konania“.
 
 - 147. V § 76 ods. 11 sa slová „konaní na vymenúvanie profesora“ nahrádzajú slovami „inauguračného konania“.
 
