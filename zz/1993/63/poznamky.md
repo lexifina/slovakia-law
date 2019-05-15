@@ -20,6 +20,6 @@
 
 - § 5 ods. 2 zákona č. 16/2004 Z. z. o Slovenskej televízii v znení zákona č. 200/2010 Z. z.
 
-- 7c) § 4 ods. 3 písm. a) zákona č. 479/2008 Z. z. o organizovaní verejných telovýchovných podujatí, športových podujatí a turistických podujatí a o zmene a doplnení niektorých zákonov v znení zákona č. 200/2010 Z. z.
-
 - 8) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
+- 9) Napríklad čl. 6ter ods. 1 písm. a) Parížskeho dohovoru na ochranu priemyslového vlastníctva (vyhláška ministra zahraničných vecí č. 90/1962 Zb. v znení vyhlášky č. 64/1975 Zb.), § 5 ods. 1 písm. h) zákona č. 506/2009 Z. z. o ochranných známkach.
