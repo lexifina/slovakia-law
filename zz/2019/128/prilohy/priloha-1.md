@@ -1,0 +1,1 @@
+Príloha č. 1 k rozhodnutiu predsedu Národnej rady Slovenskej republiky č. 128/2019 Z. z. [ZOZNAM OBCÍ, v ktorých sa vyhlasujú voľby do orgánov samosprávy obcí na 21. septembra 2019](../assets/5df7ac99fb117c338b18f5b7eed5dd53b083668e68a9f72a93d01e36acc2579f.pdf)

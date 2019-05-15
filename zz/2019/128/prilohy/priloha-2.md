@@ -1,0 +1,1 @@
+Príloha č. 2 k rozhodnutiu predsedu Národnej rady Slovenskej republiky č. 128/2019 Z. z. [LEHOTY na vykonanie volieb do orgánov samosprávy obcí 21. septembra 2019](../assets/cfdd3740d98449dd7e9f7dda2cdc80816579ab560f702e0b2e16a7132d4e775e.pdf)
