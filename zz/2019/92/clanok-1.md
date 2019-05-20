@@ -30,9 +30,101 @@ Zákon č. 89/2016 Z. z. o výrobe, označovaní a predaji tabakových výrobkov
 
 - Jedinečný identifikátor
 
+- (1)
+
+- Výrobca alebo dovozca je povinný označiť každé spotrebiteľské balenie tabakového výrobku, ktoré sa bude uvádzať na trh v Slovenskej republike, jedinečným identifikátorom<sup>5a</sup>) vydaným vydavateľom jedinečného identifikátora pre tabakové výrobky uvádzané na trh v Slovenskej republike (ďalej len „vydavateľ“).
+
+- (2)
+
+- Jedinečný identifikátor musí byť na spotrebiteľskom balení tabakového výrobku neodstrániteľne vytlačený alebo upevnený, nezmazateľný a nesmie byť žiadnym spôsobom zakrytý alebo prerušený.
+
+- (3)
+
+- Jedinečný identifikátor podľa odseku 1 umožňuje určiť
+
+- a)
+
+- náležitosti podľa osobitného predpisu,<sup>5b</sup>)
+
+- b)
+
+- informáciu o dovozcovi tabakového výrobku, ak ide o dovoz tabakového výrobku do Európskej únie,
+
+- c)
+
+- informáciu o skutočnej trase prepravy tabakového výrobku od podniku na výrobu tabakových výrobkov, ktorý tabakový výrobok vyrobil, po prvého maloobchodného predajcu vrátane všetkých použitých skladov s uvedením dátumu prepravy, miesta určenia, miesta odoslania a príjemcu,
+
+- d)
+
+- identifikačné údaje odberateľa tabakového výrobku, a to od podniku na výrobu tabakových výrobkov po prvú maloobchodnú predajňu, a
+
+- e)
+
+- údaje o faktúre, čísle objednávky a údaj o platbe od všetkých odberateľov tabakového výrobku, od podniku na výrobu tabakových výrobkov, ktorý tabakový výrobok vyrobil, po prvú maloobchodnú predajňu.
+
+- (4)
+
+- Náležitosti podľa odseku 3 písm. a) musia byť súčasťou jedinečného identifikátora. Informácia podľa odseku 3 písm. b) musí byť súčasťou jedinečného identifikátora, ak je v čase výroby tabakového výrobku známa, inak musí byť dostupná v elektronickej podobe v systéme registrov.<sup>5c</sup>) Informácie podľa odseku 3 písm. c) až e) musia byť dostupné v elektronickej podobe v systéme registrov.<sup>5c</sup>)
+
 - (5)
 
 - Vydavateľom je rozpočtová organizácia Ministerstva financií Slovenskej republiky DataCentrum. Vydavateľ vydáva kód identifikátora hospodárskeho subjektu, kód identifikátora zariadenia a kód identifikátora stroja podľa osobitného predpisu<sup>5d</sup>) a môže vydať jedinečný identifikátor na úrovni súhrnného obalu.<sup>5e</sup>) Ministerstvo financií Slovenskej republiky uzatvorí s DataCentrom zmluvu o vydávaní jedinečného identifikátora.
+
+- (6)
+
+- Vydavateľ doručuje jedinečný identifikátor výrobcovi a dovozcovi elektronicky.
+
+- (7)
+
+- Výrobca je povinný poskytnúť dovozcovi, distribútorovi a ostatným výrobcom zariadenie potrebné na zaznamenávanie kúpy, predaja, uskladnenia a prepravy tabakového výrobku alebo iného nakladania s tabakovým výrobkom, ktoré je schopné prečítať a preniesť zaznamenané údaje podľa odsekov 3 a 8 elektronicky do zariadenia na uchovávanie údajov.
+
+- (8)
+
+- Výrobca, dovozca a distribútor je povinný zaznamenávať prostredníctvom jedinečného identifikátora tabakového výrobku
+
+- a)
+
+- prevzatie spotrebiteľského balenia tabakového výrobku do svojej držby,
+
+- b)
+
+- všetky pohyby spotrebiteľského balenia tabakového výrobku medzi prevzatím spotrebiteľského balenia tabakového výrobku do svojej držby a ukončením držby spotrebiteľského balenia tabakového výrobku,
+
+- c)
+
+- ukončenie držby spotrebiteľského balenia tabakového výrobku.
+
+- (9)
+
+- Výrobca, dovozca a distribútor je povinný zabezpečiť uchovávanie úplných a presných záznamov podľa odseku 8, nesmie v nich vykonať dodatočné zmeny a nesmie záznamy odstrániť alebo ich zničiť.
+
+- (10)
+
+- Výrobca a dovozca je povinný
+
+- a)
+
+- uzatvoriť zmluvy o uchovávaní údajov uvedených v odsekov 3 a 8 s poskytovateľom uchovávania údajov,<sup>5g</sup>)
+
+- b)
+
+- uhradiť náklady na kontrolu činnosti poskytovateľa uchovávania údajov externým audítorom,
+
+- c)
+
+- zabezpečiť Komisii, colnému úradu a externému audítorovi neobmedzený prístup do zariadenia na uchovávanie údajov.
+
+- (11)
+
+- Osoba, ktorá v rámci podnikania predáva spotrebiteľské balenia tabakového výrobku, nesmie skladovať, predávať alebo ponúkať na predaj spotrebiteľské balenie tabakového výrobku, ktoré nie je označené jedinečným identifikátorom vydaným vydavateľom.
+
+- (12)
+
+- Kontrolu nad označením tabakového výrobku jedinečným identifikátorom vykonáva colný úrad, ktorý aj poskytuje výrobcovi, dovozcovi a distribútorovi súčinnosť pri riešení nezrovnalostí v záznamoch podľa odseku 8.
+
+- (13)
+
+- Kontrolu nad činnosťou vydavateľa vykonáva Ministerstvo financií Slovenskej republiky.
 
 - (14)
 
@@ -40,11 +132,33 @@ Zákon č. 89/2016 Z. z. o výrobe, označovaní a predaji tabakových výrobkov
 
 - (15)
 
-- Spôsob vyhotovenia jedinečného identifikátora a výšku úhrady za jedinečný identifikátor ustanoví všeobecne záväzný právny predpis, ktorý vydá Ministerstvo financií Slovenskej republiky.“.
+- Spôsob vyhotovenia jedinečného identifikátora a výšku úhrady za jedinečný identifikátor ustanoví všeobecne záväzný právny predpis, ktorý vydá Ministerstvo financií Slovenskej republiky.
+
+- § 12b
+
+- Bezpečnostný prvok
+
+- (1)
+
+- Za bezpečnostný prvok sa považuje kontrolná známka podľa osobitného predpisu.<sup>5</sup>)
+
+- (2)
+
+- Každé spotrebiteľské balenie tabakového výrobku musí byť označené bezpečnostným prvkom podľa odseku 1.
+
+- (3)
+
+- Kontrolu nad bezpečnostným prvkom vykonáva colný úrad.“.
 
   - Poznámky pod čiarou k odkazom 5a až 5g znejú:
 
-  - „<sup>5d</sup>) Čl. 14 až 19 vykonávacieho nariadenia (EÚ) 2018/574.
+  - „<sup>5a</sup>) Čl. 6 vykonávacieho nariadenia Komisie (EÚ) 2018/574 z 15. decembra 2017 o technických normách pre vytvorenie a prevádzku systému vysledovateľnosti pre tabakové výrobky v platnom znení (Ú. v. L 96/7, 16. 4. 2018).
+
+  - <sup>5b</sup>) Čl. 8 vykonávacieho nariadenia (EÚ) 2018/574.
+
+  - <sup>5c</sup>) Čl. 25 vykonávacieho nariadenia (EÚ) 2018/574.
+
+  - <sup>5d</sup>) Čl. 14 až 19 vykonávacieho nariadenia (EÚ) 2018/574.
 
   - <sup>5e</sup>) Čl. 10 až 13 vykonávacieho nariadenia (EÚ) 2018/574.
 
