@@ -708,7 +708,7 @@
 
 - Nariadenie Rady (ES) č. 1/2003 zo 16. decembra 2002 o vykonávaní pravidiel hospodárskej súťaže ustanovených v článkoch 81 a 82 Zmluvy (Mimoriadne vydanie Ú. v. EÚ, kap. 8/zv. 2; Ú. v. ES L 1, 4. 1. 2003) v platnom znení.
 
-- 86df) § 15b ods. 6 zákona č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov v znení zákona č. 386/2016 Z. z.
+- 86df) § 85 ods. 7 zákona č. 30/2019 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov.
 
 - 86dg) Zákon č. 461/2003 Z. z. v znení neskorších predpisov.
 
