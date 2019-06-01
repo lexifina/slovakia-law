@@ -110,7 +110,7 @@
 
 - 35) § 11 ods. 2 zákona č. 540/2001 Z. z. o štátnej štatistike.
 
-- 35a) Zákon č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 35a) Zákon č. 30/2019 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov.
 
 - 35b) Čl. 3 ods. 2 nariadenia Európskeho parlamentu a Rady (EÚ) 2015/758 z 29. apríla 2015 o požiadavkách typového schválenia pri zavádzaní palubného systému eCall využívajúceho službu tiesňovej linky 112 a o zmene smernice 2007/46/ES (Ú. v. EÚ L 123, 19. 5. 2015) v platnom znení.
 
