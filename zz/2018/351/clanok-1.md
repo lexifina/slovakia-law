@@ -40,6 +40,22 @@ Z. z., zákona č. 538/2005 Z. z., zákona č. 660/2005 Z. z., zákona č. 25/20
 
 - 8. V § 7 ods. 20 prvej vete sa za slová „predpisom<sup>24aa</sup>)“ vkladajú tieto slová: „údajov o zaradení poistenca do zoznamu poistencov čakajúcich na poskytnutie plánovanej zdravotnej starostlivosti a údajov z návrhov na poskytnutie zdravotnej starostlivosti alebo lekárenskej starostlivosti, ktoré posudzuje zdravotná poisťovňa pred jej poskytnutím“.
 
+- 9. § 8 sa dopĺňa odsekmi 16 a 17, ktoré znejú:
+
+- „(16)
+
+- Zdravotná poisťovňa uhrádza poskytovateľovi lekárenskej starostlivosti poskytnutú lekárenskú starostlivosť uhrádzanú na základe verejného zdravotného poistenia na základe zmluvy o poskytovaní zdravotnej starostlivosti uzatvorenej podľa § 7 ods. 3. Podkladom na úhradu poskytnutej lekárenskej starostlivosti sú dispenzačné záznamy<sup>27aab</sup>) vytvorené poskytovateľom lekárenskej starostlivosti; to sa nevzťahuje na starostlivosť poskytnutú očnou optikou.<sup>27aac</sup>)
+
+- (17)
+
+- Finančné zúčtovanie poskytovateľ zasiela zdravotnej poisťovni elektronicky prostredníctvom elektronickej podateľne zdravotnej poisťovne, internetového portálu alebo osobne na zabezpečenom dátovom nosiči; spôsob zabezpečenia je určený štandardmi zdravotníckej informatiky. Finančné zúčtovanie nie je možné zasielať v listinnej podobe.“.
+
+  - Poznámky pod čiarou k odkazom 27aab a 27aac znejú:
+
+  - „<sup>27aab</sup>) § 121 ods. 3 písm. d) zákona č. 362/2011 Z. z.
+
+  - <sup>27aac</sup>) § 118 zákona č. 362/2011 Z. z. v znení neskorších predpisov.“.
+
 - 10. V § 9 ods. 7 a ods. 9 písm. b) sa slová „liekov a zdravotníckych pomôcok“ nahrádzajú slovami „liekov, zdravotníckych pomôcok a dietetických potravín“.
 
 - 11. V § 11 ods. 1 písm. b) sa slová „nasledujúci kalendárny rok“ nahrádzajú slovami „tri nasledujúce kalendárne roky“.
