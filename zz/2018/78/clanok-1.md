@@ -56,6 +56,8 @@ Výnos Ministerstva financií Slovenskej republiky č. 55/2014 Z. z. o štandard
 
 - 5. V § 2 sa vypúšťa písmeno ak). Doterajšie písmená al) a am) sa označujú ako písmená ak) a al).
 
+- 6. V § 2 písm. al) sa na konci pripájajú tieto slová „ktoré sú vyjadrené jednotným referencovateľným identifikátorom“.
+
 - 7. § 2 sa dopĺňa písmenami am) až ar), ktoré znejú:
 
 - „am)
@@ -382,6 +384,8 @@ Výnos Ministerstva financií Slovenskej republiky č. 55/2014 Z. z. o štandard
 
 - poskytovanie metaúdajov datasetu otvoreným spôsobom použitia podľa písmen b) a c).“.
 
+- 40. V § 53 písm. h) sa slová „bodov 1 až 6“ nahrádzajú slovami „na základe profilu Data Catalog Vocabulary - Application profile 1.1 (DCAT-AP 1.1) v rozšírenej podobe DCAT-AP-SK zverejnenej v centrálnom metainformačnom systéme; nepovinné metaúdaje sa uvádzajú vždy, ak je metaúdaj známy.“.
+
 - 41. V § 57a písmeno a) znie:
 
 - „a)
@@ -493,6 +497,8 @@ Výnos Ministerstva financií Slovenskej republiky č. 55/2014 Z. z. o štandard
 - (3)
 
 - Ak je pre validáciu určený referenčný softvér, referenčný softvér musí spĺňať požiadavky na klientske aplikácie podľa § 48 písm. b) a c), musí byť voľne dostupný, jeho zdrojové kódy musia byť zverejnené a musí ho byť možné na ľubovoľný účel upravovať, šíriť a používať.“.
+
+- 51. V § 57f ods. 1 písm. m) sa za slová „základného číselníka ako“ vkladá slovo „jednotných“ a slová „webového sídla ministerstva“ sa nahrádzajú slovami „centrálneho metainformačného systému“.
 
 - 52. Za § 61 sa vkladajú nové § 61a a 61b, ktoré vrátane nadpisu znejú:
 
