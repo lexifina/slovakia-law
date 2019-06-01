@@ -264,6 +264,10 @@
 
 - 23s) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
+- 23sa) § 3 ods. 2 druhá veta zákona č. 103/2007 Z. z. o trojstranných konzultáciách na celoštátnej úrovni a o zmene a doplnení niektorých zákonov (zákon o tripartite).
+
+- 23sb) Zákon Slovenskej národnej rady č. 30/1992 Zb. o Slovenskej poľnohospodárskej a potravinárskej komore v znení neskorších predpisov.
+
 - 23t) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 23u) Druhá časť zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
