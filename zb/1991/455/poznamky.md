@@ -238,6 +238,8 @@
 
 - 36ja) § 154 ods. 8 zákona č. 106/2018 Z. z.
 
+- 36jb) § 96 ods. 2 zákona č. 30/2019 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov.
+
 - 36k) § 9 ods. 3 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov.
 
 - 37) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
