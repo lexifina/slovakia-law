@@ -62,8 +62,6 @@
 
 - 24) Napríklad nariadenie (EÚ) č. 389/2012, nariadenie Komisie (ES) č. 1178/2008 z 28. novembra 2008, ktorým sa mení a dopĺňa nariadenie Rady (ES) č. 1165/98 o krátkodobej štatistike a nariadenia Komisie (ES) č. 1503/2006 a (ES) č. 657/2007, pokiaľ ide o úpravy po revízii štatistických klasifikácií NACE a CPA (Ú. v. EÚ L 319, 29. 11. 2008), nariadenie (ES) č. 684/2009, zákon č. 76/2007 Z. z. o medzinárodnej pomoci a spolupráci pri správe daní a o zmene a doplnení niektorých zákonov, zákon č. 466/2009 Z. z. o medzinárodnej pomoci pri vymáhaní niektorých finančných pohľadávok a o zmene a doplnení niektorých zákonov.
 
-- 25) Zákon č. 171/2005 Z. z. v znení neskorších predpisov.
-
 - 26) § 32 ods. 2 zákona č. 199/2004 Z. z. v znení zákona č. 652/2004 Z. z.
 
 - 27) Zákon č. 595/2003 Z. z. v znení neskorších predpisov.
