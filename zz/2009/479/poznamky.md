@@ -38,8 +38,6 @@
 
 - 14) Zákon Slovenskej národnej rady č. 71/1992 Zb. v znení neskorších predpisov.
 
-- 15) Zákon č. 171/2005 Z. z. v znení neskorších predpisov.
-
 - 16) Vyhláška Ministerstva poľnohospodárstva, lesného a vodného hospodárstva č. 147/1960 Zb. o prenesení finančnej a účtovnej služby majetkovej podstaty pozemkových reforiem.
 
 - 16a) Zákon č. 235/2012 Z. z. o osobitnom odvode z podnikania v regulovaných odvetviach a o zmene a doplnení niektorých zákonov.
