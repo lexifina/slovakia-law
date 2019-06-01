@@ -214,15 +214,25 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 
 - | RTG mamografia | v intervaloch a vekovom rozmedzí stanovených v skríningu
 
-- Skríning rakoviny krčka maternice a prsníka | |
+- Oportúnny skríning rakoviny krčka maternice a prsníka | |
 
-- Obsah | Skríning rakoviny krčka maternice a prsníka je zameraný na aktívne a organizované vyhľadávanie rakoviny krčka maternice a prsníka. Skríning vyhodnocuje Referenčné skríningové centrum. |
+- Obsah | Oportúnny skríning rakoviny krčka maternice a prsníka je zameraný na aktívne vyhľadávanie rakoviny krčka maternice a prsníka. |
 
-- Vykonáva | lekár so špecializáciou v špecializačnom odbore gynekológia a pôrodníctvo Cytologické stery z krčka maternice vyhodnocujú certifikované cytologické laboratóriá. |
+- Vykonáva | lekár so špecializáciou v špecializačnom odbore gynekológia a pôrodníctvo; cytologické stery z krčka maternice vyhodnocujú certifikované cytologické laboratóriá. |
 
-- Okruh poistencov | skríning rakoviny krčka maternice: ženy vo veku 23 – 64 rokov skríning rakoviny prsníka: ženy vo veku 40 – 69 rokov |
+- Okruh poistencov | oportúnny skríning rakoviny krčka maternice: ženy vo veku 23 – 64 rokov, oportúnny skríning rakoviny prsníka: ženy vo veku 40 – 69 rokov |
 
-- Periodicita | Skríning rakoviny krčka maternice: prvé dva odbery cytológie v ročnom intervale. V prípade negativity týchto dvoch cytologických výsledkov pokračovať v 3-ročnom intervale do veku 64 rokov. Uvedená periodicita platí aj pre poistenkyňu, u ktorej sa začal skríning aj neskôr ako v 23. roku života. Skríning sa vo veku 64 rokov ukončí, ak budú posledné 3 cytologické nálezy negatívne. Skríning rakoviny prsníka: raz za 2 roky. |
+- Periodicita | Oportúnny skríning rakoviny krčka maternice: prvé dva odbery cytológie v ročnom intervale. V prípade negativity týchto dvoch cytologických výsledkov pokračovať v 3-ročnom intervale do veku 64 rokov. Uvedená periodicita platí aj pre poistenkyňu, u ktorej sa začal oportúnny skríning aj neskôr ako v 23. roku života. Oportúnny skríning sa vo veku 64 rokov ukončí, ak budú posledné tri cytologické nálezy negatívne. Oportúnny skríning rakoviny prsníka: raz za 2 roky. |
+
+- Populačný skríning rakoviny krčka maternice a rakoviny prsníka |
+
+- Obsah | Populačný skríning rakoviny krčka maternice a rakoviny prsníka je zameraný na aktívne a organizované vyhľadávanie rakoviny krčka maternice a prsníka. Indikovaných poistencov na populačný skríning pozýva zdravotná poisťovňa. Skríning vyhodnocuje Národný onkologický inštitút v Národnom onkologickom ústave.
+
+- Vykonáva | Populačný skríning rakoviny krčka maternice vykonáva lekár so špecializáciou v špecializačnom odbore gynekológia a pôrodníctvo. Cytologické stery z krčka maternice vyhodnocujú certifikované cytologické laboratóriá, ktoré patria do siete pre populačný skríning. Populačný skríning rakoviny prsníka sa vykonáva komplexne na skríningovom mamografickom pracovisku, ktoré je určené na výkon populačného skríningu.
+
+- Okruh poistencov | populačný skríning rakoviny krčka maternice: ženy vo veku 23 – 64 rokov, populačný skríning rakoviny prsníka: ženy vo veku 50 – 69 rokov
+
+- Periodicita | Populačný skríning rakoviny krčka maternice: prvé dva odbery cytológie v ročnom intervale. V prípade negativity týchto dvoch cytologických výsledkov pokračovať v 3-ročnom intervale do veku 64 rokov. Uvedená periodicita platí aj pre poistenkyňu, u ktorej sa začal populačný skríning aj neskôr ako v 23. roku života. Skríning sa vo veku 64 rokov ukončí, ak budú posledné tri cytologické nálezy negatívne. Populačný skríning rakoviny prsníka: raz za 2 roky.
 
 - Preventívna starostlivosť v materstve | |
 
@@ -400,15 +410,25 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 
 - | odoslanie biologického materiálu na histologické vyšetrenie |
 
-- Skríning rakoviny konečníka a hrubého čreva | |
+- Oportúnny skríning rakoviny konečníka a hrubého čreva | |
 
-- Obsah | | Skríning rakoviny konečníka a hrubého čreva je zameraný na aktívne a organizované vyhľadávanie rakoviny konečníka a hrubého čreva. Skríning vyhodnocuje Referenčné skríningové centrum.
+- Obsah | | Oportúnny skríning rakoviny konečníka a hrubého čreva je zameraný na vyhľadávanie rakoviny konečníka a hrubého čreva.
 
-- Vykonáva | | lekár so špecializáciou v špecializovanom odbore všeobecné lekárstvo – štandardizovaný test na okultné krvácanie a lekár so špecializáciou v špecializačnom odbore gastroenterológia, chirurgia alebo vnútorné lekárstvo a s certifikátom v certifikovanej pracovnej činnosti diagnostická a intervenčná kolonoskopia – primárna skríningová kolonoskopia pri pozitívnom štandardizovanom teste na okultné krvácanie.
+- Vykonáva | | lekár so špecializáciou v špecializovanom odbore všeobecné lekárstvo – štandardizovaný test na okultné krvácanie a lekár so špecializáciou v špecializačnom odbore gastroenterológia, chirurgia alebo vnútorné lekárstvo a s certifikátom v certifikovanej pracovnej činnosti diagnostická a intervenčná kolonoskopia – vykonáva primárnu preventívnu kolonoskopiu alebo skríningovú kolonoskopiu pri pozitívnom štandardizovanom teste na okultné krvácanie.
 
 - Okruh poistencov | | muži a ženy vo veku nad 50 rokov
 
 - Periodicita | | Štandardizovaný test na okultné krvácanie jedenkrát za dva roky vo veku nad 50 rokov, primárna skríningová kolonoskopia pri pozitívnom štandardizovanom teste na okultné krvácanie.
+
+- Populačný skríning rakoviny konečníka a hrubého čreva |
+
+- Obsah | Populačný skríning rakoviny konečníka a hrubého čreva je zameraný na aktívne a organizované vyhľadávanie rakoviny konečníka a hrubého čreva. Indikovaných poistencov na populačný skríning pozýva zdravotná poisťovňa. Populačný skríning vyhodnocuje Národný onkologický inštitút v Národnom onkologickom ústave.
+
+- Vykonáva | lekár so špecializáciou v špecializovanom odbore všeobecné lekárstvo, ktorý vyhodnocuje štandardizovaný test na okultné krvácanie a lekár so špecializáciou v špecializačnom odbore gastroenterológia, chirurgia alebo vnútorné lekárstvo a s certifikátom v certifikovanej pracovnej činnosti diagnostická a intervenčná kolonoskopia, ktorý vykonáva skríningovú kolonoskopiu pri pozitívnom štandardizovanom teste na okultné krvácanie.
+
+- Okruh poistencov | muži a ženy vo veku nad 50 rokov
+
+- Periodicita | Štandardizovaný test na okultné krvácanie jedenkrát za dva roky vo veku nad 50 rokov; skríningová kolonoskopia pri pozitívnom štandardizovanom teste na okultné krvácanie.
 
 - Preventívna prehliadka nariadená orgánmi na ochranu zdravia na predchádzanie prenosným ochoreniam |
 

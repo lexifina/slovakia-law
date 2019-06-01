@@ -50,6 +50,16 @@
 
 - 11l) § 8 ods. 10 zákona č. 576/2004 Z. z. v znení zákona č. 351/2017 Z. z.
 
+- 11m) § 14 ods. 1 zákona č. 576/2004 Z. z. v znení zákona č. 139/2019 Z. z.
+
+- 11n) § 14 ods. 1 písm. d) zákona č. 576/2004 Z. z. v znení zákona č. 139/2019 Z. z.
+
+- 11o) Napríklad § 44 ods. 3 zákona č. 36/2005 Z. z., § 367 Civilného mimosporového poriadku.
+
+- 11p) § 35, 36, 38 a 39 zákona č. 448/2008 Z. z. v znení neskorších predpisov.
+
+- 11q) § 24a až 24d, § 25 až 29 zákona č. 448/2008 Z. z. v znení neskorších predpisov.
+
 - 12) § 7 ods. 1 písm. b) a § 9 zákona č. 576/2004 Z. z.
 
 - 13) § 7 ods. 1 písm. a) a § 8 zákona č. 576/2004 Z. z.
