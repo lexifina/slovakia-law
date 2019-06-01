@@ -24,6 +24,8 @@
 
 - 9a) § 6 ods. 1 písm. c) a ods. 4 zákona č. 362/2011 Z. z. v znení zákona 156/2018.
 
+- 9aa) § 33 zákona č. 538/2005 Z. z. o prírodných liečivých vodách, prírodných liečebných kúpeľoch, kúpeľných miestach a prírodných minerálnych vodách a o zmene a doplnení niektorých zákonov.
+
 - 9b) § 9a zákona č. 576/2004 Z. z. v znení zákona č. 351/2017 Z. z.
 
 - 9c) Nariadenie vlády Slovenskej republiky č. 640/2008 Z. z. o verejnej minimálnej sieti poskytovateľov zdravotnej starostlivosti v znení neskorších predpisov.
@@ -48,6 +50,8 @@
 
 - 13a) § 22 zákona č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 185/2014 Z. z.
 
+- 13aa) § 25 ods. 1 písm. n) zákona č. 576/2004 Z. z. v znení zákona č. 139/2019 Z. z.
+
 - 13b) § 45 ods. 1 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení zákona č. 466/2008 Z. z.
 
 - 14) Zákon č. 579/2004 Z. z. o záchrannej zdravotnej službe a o zmene a doplnení niektorých zákonov.
@@ -58,6 +62,16 @@
 
 - 15) § 13 ods. 4 písm. a) zákona č. 355/2007 Z. z.
 
+- 15a) Príloha I bod 6 nariadenia Komisie (EÚ) č. 965/2012 z 5. októbra 2012, ktorým sa ustanovujú technické požiadavky a administratívne postupy týkajúce sa leteckej prevádzky podľa nariadenia Európskeho parlamentu a Rady (ES) č. 216/2008 (Ú. v. EÚ L 296, 25. 10. 2012) v platnom znení.
+
+- 15b) § 12 zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Nariadenie (EÚ) č. 965/2012.
+
+- Nariadenie Európskeho parlamentu a Rady (EÚ) 2018/1139 zo 4. júla 2018 o spoločných pravidlách v oblasti civilného letectva, ktorým sa zriaďuje Agentúra Európskej únie pre bezpečnosť letectva a ktorým sa menia nariadenia Európskeho parlamentu a Rady (ES) č. 2111/2005, (ES) č. 1008/2008, (EÚ) č. 996/2010, (EÚ) č. 376/2014 a smernice Európskeho parlamentu a Rady 2014/30/EÚ a 2014/53/EÚ a zrušujú nariadenia Európskeho parlamentu a Rady (ES) č. 552/2004 a (ES) č. 216/2008 a nariadenie Rady (EHS) č. 3922/91 (Ú. v. EÚ L 212, 22. 8. 2018).
+
+- 15c) CAT.POL.H.225 príloha IV nariadenia (EÚ) č. 965/2012.
+
 - 16) Zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení zákona č. 432/2004 Z. z.
 
 - 17) § 19 a 22 zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -65,6 +79,8 @@
 - 17a) § 48 zákona č. 581/2004 Z. z. v znení neskorších predpisov.
 
 - 17b) § 4 a Tretia časť zákona č. 317/2016 Z. z. o požiadavkách a postupoch pri odbere a transplantácii ľudského orgánu, ľudského tkaniva a ľudských buniek a o zmene a doplnení niektorých zákonov (transplantačný zákon).
+
+- 17ba) Zákon č. 402/2013 Z. z. o Úrade pre reguláciu elektronických komunikácií a poštových služieb a Dopravnom úrade a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 17c) § 2 ods. 30 zákona č. 576/2004 Z. z. v znení zákona č. 257/2017 Z. z.
 
@@ -101,6 +117,8 @@
 - 23aa) § 12 zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov.
 
 - 23aaa) § 9 a § 14 ods. 2 zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
+
+- 23aab) § 2 ods. 34 zákona č. 576/2004 Z. z. v znení zákona č. 139/2019 Z. z.
 
 - 24) Zákon č. 422/2015 Z. z. o uznávaní dokladov o vzdelaní a o uznávaní odborných kvalifikácií a o zmene a doplnení niektorých zákonov.
 
@@ -357,6 +375,8 @@
 - 55m) § 35a zákona č. 171/2005 Z. z. v znení zákona č. 386/2016 Z. z.
 
 - § 10 ods. 1 písm. m) a n) zákona č. 153/2013 Z. z. v znení zákona č. 351/2017 Z. z.
+
+- 55n) § 14 ods. 1 zákona č. 576/2004 Z. z. v znení zákona č. 139/2019 Z. z.
 
 - 56) § 25a zákona č. 580/2004 Z. z. v znení zákona č. 356/2016 Z. z.
 

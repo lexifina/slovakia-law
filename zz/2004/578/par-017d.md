@@ -1,6 +1,6 @@
 # § 17d Zmena typu ambulancie záchrannej zdravotnej služby
 
-(1) Zmeniť typ ambulancie záchrannej zdravotnej služby podľa § 11 ods. 1 písm. a) prvého až tretieho bodu možno len so súhlasom ministerstva zdravotníctva na základe žiadosti o vydanie povolenia, ak zmenou nedôjde k zníženiu dostupnosti a kvality poskytovania záchrannej zdravotnej služby v zásahovom území. Zmena typu ambulancie záchrannej zdravotnej služby vyžaduje vydanie nového povolenia, ktorým ministerstvo zdravotníctva súčasne zruší pôvodné povolenie.
+(1) Typ ambulancie záchrannej zdravotnej služby podľa § 11 ods. 3 písm. a) až c) a písm. e) je možné zmeniť len so súhlasom úradu pre dohľad a ministerstva zdravotníctva na základe žiadosti o vydanie povolenia, ak zmenou nedôjde k zníženiu dostupnosti a kvality poskytovania záchrannej zdravotnej služby v zásahovom území. Zmena typu ambulancie záchrannej zdravotnej služby vyžaduje vydanie nového povolenia, ktorým úrad pre dohľad súčasne zruší pôvodné povolenie.
 
 (2) V žiadosti o vydanie povolenia podľa odseku 1 žiadateľ uvedie požadovanú zmenu a dôvody požadovanej zmeny. K žiadosti žiadateľ pripojí
 

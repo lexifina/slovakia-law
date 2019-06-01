@@ -30,6 +30,8 @@
 
 - a) podľa odseku 1 písm. a), c), d), e) a g) sa nevzťahujú na poskytovateľa, ktorý je držiteľom povolenia na prevádzkovanie ambulancie záchrannej zdravotnej služby,
 
-- b) podľa odseku 1 písm. d), f) a g) sa nevzťahujú na poskytovateľa, ktorý je držiteľom licencie na výkon samostatnej zdravotníckej praxe.
+- b) podľa odseku 1 písm. d), f) a g) sa nevzťahujú na poskytovateľa, ktorý je držiteľom licencie na výkon samostatnej zdravotníckej praxe,
+
+- c) podľa odseku 1 písm. a) až d) a f) sa nevzťahujú na poskytovateľa ambulancie dopravnej zdravotnej služby.
 
 (4) Poskytovateľ, ktorý je držiteľom licencie na výkon samostatnej zdravotníckej praxe, je ďalej povinný poskytnúť osobám oprávneným na výkon kontrolnej činnosti podľa osobitného predpisu<sup>58c</sup>) na účely výkonu kontrolnej činnosti požadované informácie a súčinnosť potrebnú na výkon kontrolnej činnosti a zdržať sa konania, ktoré by mohlo mariť výkon kontrolnej činnosti.

@@ -4,9 +4,7 @@
 
 - a) získal odbornú spôsobilosť na výkon odborných pracovných činností,
 
-- b) nezískal odbornú spôsobilosť na výkon špecializovaných pracovných činností podľa § 33 ods. 4 a
-
-- c) splnil podmienky podľa § 31 okrem § 31 ods. 1 písm. c) a e).
+- b) splnil podmienky podľa § 31 okrem § 31 ods. 1 písm. c) a e).
 
 (2) Ak v § 102ai ods. 6 nie je ustanovené inak, účelovo viazané finančné prostriedky na rezidentské štúdium poskytuje ministerstvo zdravotníctva zamestnávateľovi zdravotníckeho pracovníka zaradeného do rezidentského štúdia (ďalej len „rezident“) na náhradu mzdy<sup>31d</sup>) rezidenta vo výške 1,25-násobku priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, za ktorý sa náhrada mzdy za príslušný mesiac kalendárneho roku poskytuje a odvodov poistného podľa osobitných predpisov<sup>31e</sup>) zamestnávateľa za poskytnutú náhradu mzdy.
 
@@ -28,9 +26,9 @@
 
 - b) čestné vyhlásenie zdravotníckeho pracovníka, že nie je zaradený do špecializačného štúdia v inom špecializačnom odbore,
 
-- c) čestné vyhlásenie zdravotníckeho pracovníka, že nezískal odbornú spôsobilosť na výkon špecializovaných pracovných činností podľa § 33 ods. 4,
+- c) úradne osvedčenú kópiu dokladu o získanej odbornej spôsobilosti na výkon špecializovaných pracovných činností zdravotníckeho pracovníka podľa § 33 ods. 4, ak takú získal,
 
-- d) doklad o pracovnom pomere zdravotníckeho pracovníka so zamestnávateľom uzavretom na dobu určitú na účely rezidentského štúdia,
+- d) doklad o pracovnom pomere zdravotníckeho pracovníka so zamestnávateľom uzavretom najmenej na dobu trvania rezidentského štúdia,
 
 - e) názov špecializačného odboru,
 
@@ -46,17 +44,19 @@
 
 - b) úspešne ukončiť rezidentské štúdium v špecializačnom odbore, do ktorého bol zaradený.
 
-(10) Ak rezident úspešne neabsolvuje špecializačnú skúšku v riadnom termíne, je povinný sa prihlásiť na opravnú špecializačnú skúšku.
+(10) Ak rezident úspešne neabsolvuje špecializačnú skúšku v riadnom termíne, je povinný sa prihlásiť na opravnú špecializačnú skúšku. Vzdelávacia ustanovizeň je povinná umožniť rezidentovi absolvovať opravnú špecializačnú skúšku za podmienok ustanovených v jej študijnom poriadku.
 
 (11) Zamestnávateľ rezidenta je povinný
 
 - a) poskytovať rezidentovi pracovné voľno s náhradou mzdy,<sup>31d</sup>) na absolvovanie teoretickej časti a praktickej časti rezidentského štúdia podľa akreditovaného špecializačného študijného programu,
 
-- b) vykonať povinné zúčtovanie finančných prostriedkov vynaložených na rezidentské štúdium podľa odseku 5.
+- b) vykonať povinné zúčtovanie finančných prostriedkov vynaložených na rezidentské štúdium podľa odseku 5,
+
+- c) umožniť rezidentovi absolvovať rezidentské štúdium v dĺžke ustanovenej podľa § 40 ods. 2.
 
 (12) Rezidentské štúdium je možné prerušiť z dôvodu dočasnej pracovnej neschopnosti, materskej dovolenky alebo rodičovskej dovolenky alebo skončenia pracovného pomeru v dôsledku okolností hodných osobitného zreteľa, ktoré rezident nemohol ovplyvniť svojím konaním; na obdobie prerušenia rezidentského štúdia ministerstvo zdravotníctva pozastaví poskytovanie finančných prostriedkov.
 
-(13) Ak zdravotnícky pracovník úspešne ukončil rezidentské štúdium, je povinný
+(13) Ak zdravotnícky pracovník úspešne ukončil rezidentské štúdium v špecializačnom odbore všeobecné lekárstvo, je povinný
 
 - a) do šiestich mesiacov od úspešného absolvovania špecializačnej skúšky požiadať o vydanie povolenia v špecializačnom odbore, v ktorom úspešne ukončil rezidentské štúdium a do 12 mesiacov od úspešného absolvovania špecializačnej skúšky začať vykonávať špecializované pracovné činnosti pri vykonávaní zdravotníckeho povolania podľa § 3 ods. 4 písm. b) v samosprávnom kraji označenom v žiadosti o zaradenie zdravotníckeho pracovníka do rezidentského štúdia podľa odseku 6 písm. f) alebo do troch mesiacov od úspešného absolvovania špecializačnej skúšky začať vykonávať špecializované pracovné činnosti pri vykonávaní zdravotníckeho povolania podľa § 3 ods. 4 písm. a) v samosprávnom kraji označenom v žiadosti o zaradenie zdravotníckeho pracovníka do rezidentského štúdia podľa odseku 6 písm. f) v špecializačnom odbore, v ktorom úspešne ukončil rezidentské štúdium,
 
@@ -66,7 +66,7 @@
 
 - d) vykonávať špecializované pracovné činnosti podľa písmena a) najmenej v rozsahu polovice rozsahu ordinačných hodín podľa § 79 ods. 1 písm. aj).
 
-(14) Do lehoty podľa odseku 13 písm. a) a doby podľa odseku 13 písm. b) sa nezapočítava obdobie dočasnej pracovnej neschopnosti, obdobie materskej dovolenky, obdobie rodičovskej dovolenky alebo obdobie, v ktorom zdravotnícky pracovník nemohol poskytovať zdravotnú starostlivosť z iných dôvodov hodných osobitného zreteľa.
+(14) Do lehoty podľa odseku 13 písm. a), odseku 23 písm. a) a doby podľa odseku 13 písm. b) sa nezapočítava obdobie dočasnej pracovnej neschopnosti, obdobie materskej dovolenky, obdobie rodičovskej dovolenky alebo obdobie, v ktorom zdravotnícky pracovník nemohol poskytovať zdravotnú starostlivosť z iných dôvodov hodných osobitného zreteľa.
 
 (15) Poskytovateľ, ktorý má vydané povolenie na prevádzkovanie všeobecnej ambulancie a uskutočňuje v rezidentskom štúdiu praktickú výučbu v špecializačnom odbore všeobecné lekárstvo alebo v špecializačnom odbore pediatria, musí spĺňať tieto podmienky:
 
@@ -84,13 +84,13 @@
 
 - c) školiteľ poskytuje špecializovanú ambulantnú zdravotnú starostlivosť v špecializačnom odbore, v ktorom získal odbornú spôsobilosť na výkon špecializovaných pracovných činností v pracovnom pomere na ustanovený týždenný pracovný čas.
 
-(17) Ak poskytovateľ spĺňa podmienky podľa odseku 15 alebo odseku 16 a požiadal vzdelávaciu ustanovizeň o uskutočňovanie praktickej časti rezidentského štúdia, vzdelávacia ustanovizeň uzatvorí s poskytovateľom dohodu o uskutočňovaní praktickej časti rezidentského štúdia.
+(17) Ak poskytovateľ spĺňa podmienky podľa odseku 15 alebo odseku 16 a požiadal vzdelávaciu ustanovizeň o uskutočňovanie praktickej časti rezidentského štúdia, vzdelávacia ustanovizeň môže uzatvoriť s poskytovateľom dohodu o uskutočňovaní praktickej časti rezidentského štúdia.
 
 (18) Prílohou žiadosti o uskutočňovanie praktickej časti rezidentského štúdia podľa odseku 17 sú doklady preukazujúce splnenie podmienok podľa odseku 15 alebo odseku 16.
 
-(19) Ak rezident úspešne neukončil rezidentské štúdium alebo sa neprihlásil na špecializačnú skúšku v lehote podľa odseku 9 písm. a), je povinný uhradiť ministerstvu zdravotníctva 5 000 eur za každý začatý rok rezidentského štúdia.
+(19) Ak sa rezident neprihlásil na špecializačnú skúšku v lehote podľa odseku 9 písm. a) alebo úspešne neukončil rezidentské štúdium špecializačnou skúškou najneskôr v opravnom termíne, je povinný uhradiť ministerstvu zdravotníctva 5 000 eur za každý začatý rok rezidentského štúdia.
 
-(20) Ak zdravotnícky pracovník, ktorý po úspešnom ukončení rezidentského štúdia nezačal poskytovať zdravotnú starostlivosť podľa odseku 13 písm. a), je povinný uhradiť ministerstvu zdravotníctva 5 000 eur za každý rok rezidentského štúdia.
+(20) Ak zdravotnícky pracovník, ktorý po úspešnom ukončení rezidentského štúdia nezačal poskytovať zdravotnú starostlivosť podľa odseku 13 písm. a) alebo odseku 23 písm. a), je povinný uhradiť ministerstvu zdravotníctva 5 000 eur za každý rok rezidentského štúdia.
 
 (21) Ak zdravotnícky pracovník, ktorý po úspešnom ukončení rezidentského štúdia neposkytoval zdravotnú starostlivosť podľa odseku 13 písm. b), je povinný uhradiť ministerstvu zdravotníctva 5 000 eur za každý rok, v ktorom neposkytoval zdravotnú starostlivosť podľa odseku 13 písm. b).
 
@@ -100,4 +100,12 @@
 
 - b) rezident prestal spĺňať podmienku na výkon zdravotníckeho povolania podľa § 31 ods. 1 písm. b),
 
-- c) rezident neposkytoval zdravotnú starostlivosť podľa odseku 13 písm. a) a b) z iných dôvodov hodných osobitného zreteľa.
+- c) rezident neposkytoval zdravotnú starostlivosť podľa odseku 13 písm. a) a b) alebo odseku 23 písm. a) z iných dôvodov hodných osobitného zreteľa.
+
+(23) Na zdravotníckeho pracovníka, ktorý úspešne ukončil rezidentské štúdium v špecializačnom odbore inom ako všeobecné lekárstvo, sa vzťahujú povinnosti podľa odseku 13 alebo tieto povinnosti:
+
+- a) bezodkladne začať vykonávať zdravotnícke povolanie podľa § 3 ods. 4 písm. a) v špecializačnom odbore, v ktorom úspešne ukončil rezidentské štúdium u zamestnávateľa, ktorý podal žiadosť o zaradenie zdravotníckeho pracovníka do rezidentského štúdia, a to úhrnne najmenej päť rokov počas siedmich rokov od úspešného absolvovania špecializačnej skúšky najmenej v rozsahu ustanoveného týždenného pracovného času alebo úhrnne päť rokov počas desiatich rokov od úspešného absolvovania špecializačnej skúšky najmenej v rozsahu polovice ustanoveného týždenného pracovného času,
+
+- b) oznámiť ministerstvu zdravotníctva do 30 dní od začatia poskytovania zdravotnej starostlivosti názov a adresu sídla poskytovateľa, dohodnutý pracovný čas, dátum začatia poskytovania zdravotnej starostlivosti a bezodkladne každú zmenu týchto údajov.
+
+(24) Ak zamestnávateľ neumožní rezidentovi absolvovať rezidentské štúdium podľa odseku 11 písm. c), je povinný uhradiť ministerstvu zdravotníctva 5 000 eur za každý začatý rok rezidentského štúdia.
