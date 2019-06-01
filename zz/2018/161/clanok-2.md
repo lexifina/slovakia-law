@@ -12,6 +12,12 @@ Zákon č. 301/2005 Z. z. Trestný poriadok v znení zákona č. 650/2005 Z. z.,
 
 - 3. V § 187 ods. 1 sa za slovo „troch“ vkladá slovo „pracovných“.
 
+- 4. § 258 sa dopĺňa odsekom 5, ktorý znie:
+
+- „(5)
+
+- Ak ide o záznam skoršej výpovede obžalovaného vyhotovený podľa § 121 ods. 5, na návrh prokurátora alebo obhajcu sa taký záznam skoršej výpovede alebo jeho časť prehrá na technickom zariadení, ak sa koná v neprítomnosti obžalovaného, obžalovaný využije svoje právo nevypovedať, alebo sa objavia podstatné rozpory medzi jeho skoršou výpoveďou a údajmi na hlavnom pojednávaní a ak bol skorší výsluch vykonaný spôsobom zodpovedajúcim ustanoveniam tohto zákona. V prípade rozporov vo výpovediach sa prehrá tá časť záznamu o skoršom výsluchu obžalovaného, ktorej sa namietané rozpory priamo týkajú. Na tieto rozpory treba obžalovaného upozorniť a spýtať sa ho na ich príčinu.“.
+
 - 5. V § 347 ods. 2 písm. b) a ods. 3 písm. b) sa slovo „osemnásteho“ nahrádza slovom „devätnásteho“.
 
 - 6. V § 419 ods. 1 sa na konci vypúšťajú slová „u mladistvého“.
