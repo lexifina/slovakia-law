@@ -1,1 +1,1 @@
-Príloha č. 11 k výnosu č. 55/2014 Z. z. [Príloha č. 11 k výnosu č. 55/2014 Z. z.](../assets/76c24d154d15ef540f3d04cc56c6d0f19449e1941ced56c574f55370c90b80d2.pdf)
+Príloha č. 11 k výnosu č. 55/2014 Z. z. [Príloha č. 11 k výnosu č. 55/2014 Z. z.](../assets/8dc4acff774d72cdd68fc9462380670e71599ab335ddc1b0ec66e7133f955097.pdf)

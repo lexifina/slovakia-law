@@ -28,7 +28,7 @@
 
 - l) poskytovanie všetkých povinných dátových prvkov položky základného číselníka podľa prílohy č. 13 s vyplnenými hodnotami, a to pre všetky položky základného číselníka,
 
-- m) vytváranie identifikátorov položiek základného číselníka ako referencovateľných identifikátorov, a to podľa zoznamu referencovateľných identifikátorov zverejňovaného prostredníctvom webového sídla ministerstva.
+- m) vytváranie identifikátorov položiek základného číselníka ako jednotných referencovateľných identifikátorov, a to podľa zoznamu referencovateľných identifikátorov zverejňovaného prostredníctvom centrálneho metainformačného systému.
 
 (2) Štruktúru základného číselníka podľa odseku 1 písm. a) je možné na vnútorné účely použitia iným informačným systémom verejnej správy v tomto informačnom systéme rozšíriť o nové atribúty alebo položky; takto upravený číselník sa označuje ako rozšírený číselník, pričom tento číselník nie je základným číselníkom.
 
