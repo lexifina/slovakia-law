@@ -6,6 +6,8 @@
 
 - 2b) § 7 zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 2ba) § 2 ods. 6 zákona č. 579/2004 Z. z. v znení zákona č. 139/2019 Z. z.
+
 - 2c) § 11 zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 3) § 3 ods. 1 až 4 zákona č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti.
@@ -110,7 +112,9 @@
 
 - 14c) § 9d zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
 
-- 15) Zákon č. 540/2001 Z. z. o štátnej štatistike.
+- 15) § 13 ods. 7 zákona č. 362/2011 Z. z. v znení neskorších predpisov.
+
+- 15a) § 13 ods. 6 a § 141 ods. 1 písm. b) zákona č. 362/2011 Z. z. v znení neskorších predpisov.
 
 - 16) § 8 ods. 2 Občianskeho zákonníka.
 
@@ -213,6 +217,8 @@
 - Zákon č. 581/2004 Z. z.
 
 - 39a) § 3 ods. 1 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 352/2005 Z. z.
+
+- 39aa) § 9b ods. 2 zákona č. 578/2004 Z. z. v znení zákona č. 139/2019 Z. z.
 
 - 40) § 15 ods. 12 zákona č. 140/1998 Z. z.
 
