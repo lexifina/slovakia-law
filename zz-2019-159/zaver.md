@@ -1,0 +1,1 @@
+Gábor Gál v. r.
