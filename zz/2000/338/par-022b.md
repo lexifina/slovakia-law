@@ -4,9 +4,9 @@
 
 (2) Dopravný úrad na základe výsledkov technickej prehliadky malého plavidla rozhodne o vydaní lodného osvedčenia malého plavidla alebo predĺžení platnosti lodného osvedčenia malého plavidla. Ak technickú prehliadku malého plavidla vykoná osoba poverená podľa odseku 4, povinnou prílohou k žiadosti o vydanie lodného osvedčenia malého plavidla alebo predĺženie platnosti lodného osvedčenia malého plavidla je protokol z technickej prehliadky vydaný osobou poverenou podľa odseku 4.
 
-(3) Na účely vydania lodného osvedčenia malého plavidla alebo predĺženia platnosti lodného osvedčenia malého plavidla môže Dopravný úrad uznať doklad nie starší ako tri mesiace vydaný príslušným orgánom iného členského štátu Európskej únie, iného štátu, ktorý je zmluvnou stranou Dohody o Európskom hospodárskom priestore, alebo tretieho štátu, ktorý preukazuje, že plavidlo spĺňa požiadavky na technickú spôsobilosť.
+(3) Na účely vydania lodného osvedčenia malého plavidla alebo predĺženia platnosti lodného osvedčenia malého plavidla môže Dopravný úrad uznať doklad nie starší ako tri mesiace vydaný príslušným orgánom iného členského štátu, alebo tretieho štátu, ktorý preukazuje, že plavidlo spĺňa požiadavky na technickú spôsobilosť.
 
-(4) Vykonávaním technickej prehliadky malého plavidla poverí Dopravný úrad na základe písomnej žiadosti fyzickú osobu – podnikateľa, ktorá má bydlisko na území členského štátu Európskej únie alebo štátu, ktorý je zmluvnou stranou Dohody o Európskom hospodárskom priestore, alebo právnickú osobu, ktorá má sídlo, podnik alebo organizačnú zložku podniku umiestnenú na území členského štátu Európskej únie alebo štátu, ktorý je zmluvnou stranou Dohody o Európskom hospodárskom priestore, ak
+(4) Vykonávaním technickej prehliadky malého plavidla poverí Dopravný úrad na základe písomnej žiadosti fyzickú osobu – podnikateľa, ktorá má bydlisko na území členského štátu, alebo právnickú osobu, ktorá má sídlo, podnik alebo organizačnú zložku podniku umiestnenú na území členského štátu, ak
 
 - a) predloží výpis z obdobného registra, akým je obchodný register alebo živnostenský register vedený v cudzom štáte nie starší ako tri mesiace,
 

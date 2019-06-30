@@ -4,4 +4,4 @@ Príloha č. 4 k zákonu č. 338/2000 Z. z.
 
   - Potvrdenie zdravotnej spôsobilosti
 
-- [Príloha č. 4 k zákonu č. 338/2000 Z. z.](../assets/27e21d557a79c068ac17892b6e6b17ec43c5bbae638d31d1f306b0e485098d29.pdf)
+- [Príloha č. 4 k zákonu č. 338/2000 Z. z.](../assets/dcfbc70f7ce4b35ae0cf06600198c9e0954f2907d4316bbf3ff1c549961cc903.pdf)

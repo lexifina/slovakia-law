@@ -4,7 +4,7 @@
 
 (1) Riečne informačné služby sú bezodplatné, interoperabilné a harmonizované informačné služby, ktorých aplikácia je zameraná na podporu riadenia plavby a dopravy v rámci vnútrozemskej plavby vrátane spojení s ostatnými druhmi dopravy; riečne informačné služby zahŕňajú služby, ako sú informácie o vodnej ceste, informácie o momentálnej plavebnej situácii, strategické informácie o plavebnej situácii, riadenie plavby, pomoc pri plavebnej nehode, informácie pre riadenie dopravy, štatistiky a colné služby, ako aj poplatky za užívanie vodných ciest a prístavné poplatky.
 
-(2) Riečne informačné služby sa vzťahujú na vodné cesty klasifikačnej triedy IV a vodné cesty vyššej klasifikačnej triedy v Slovenskej republike, ktoré sú prepojené vodnou cestou klasifikačnej triedy IV alebo vodnou cestou vyššej klasifikačnej triedy s vodnou cestou klasifikačnej triedy IV alebo vodnou cestou vyššej klasifikačnej triedy iného členského štátu Európskej únie vrátane prístavov na týchto vodných cestách.
+(2) Riečne informačné služby sa vzťahujú na vodné cesty klasifikačnej triedy IV a vodné cesty vyššej klasifikačnej triedy v Slovenskej republike, ktoré sú prepojené vodnou cestou klasifikačnej triedy IV alebo vodnou cestou vyššej klasifikačnej triedy s vodnou cestou klasifikačnej triedy IV alebo vodnou cestou vyššej klasifikačnej triedy iného členského štátu vrátane prístavov na týchto vodných cestách.
 
 (3) Informácie o vodnej ceste sú geografické, hydrologické a administratívne informácie o vodnej ceste; informácie o vodnej ceste sú jednosmerné informácie, a to z brehu na loď alebo z brehu do kancelárie užívateľa riečnych informačných služieb.
 
@@ -48,7 +48,7 @@
 
 (11) Informácie z riečnych informačných služieb podľa odsekov 4 a 5, vrátane osobných údajov v rozsahu meno, priezvisko a adresa trvalého pobytu prevádzkovateľa plavidla a meno, priezvisko, adresa trvalého pobytu a e-mailová adresa odosielateľa elektronického hlásenia, možno poskytnúť na základe pridelených užívateľských práv
 
-- a) správcom systémov riečnych informačných služieb iného členského štátu Európskej únie a štátu, ktorý je zmluvnou stranou Dohody o Európskom hospodárskom priestore na účely plnenia úloh riečnych informačných služieb,
+- a) správcom systémov riečnych informačných služieb iného členského štátu na účely plnenia úloh riečnych informačných služieb,
 
 - b) správcom systémov riečnych informačných služieb tretieho štátu v rozsahu vymedzenom v uzavretej vzájomnej dohode o poskytovaní týchto informácií na účely plnenia úloh riečnych informačných služieb,
 

@@ -35,3 +35,5 @@ Príloha č. 1 k zákonu č. 338/2000 Z. z. v znení zákona č. 193/2007 Z. z.
   - 16. Smernica Európskeho parlamentu a Rady (EÚ) 2016/1629 zo 14. septembra 2016, ktorou sa stanovujú technické požiadavky na lode vnútrozemskej plavby, ktorou sa mení smernica 2009/100/ES a ktorou sa zrušuje smernica 2006/87/ES (Ú. v. EÚ L 252, 16. 9. 2016).
 
   - 17. Delegovaná smernica Komisie (EÚ) 2018/970 z 18. apríla 2018, ktorou sa menia prílohy II, III a V k smernici Európskeho parlamentu a Rady (EÚ) 2016/1629, ktorou sa stanovujú technické požiadavky na lode vnútrozemskej plavby (Ú. v. EÚ L 174, 10. 7. 2018).
+
+  - 18. Smernica Komisie (EÚ) 2018/1846 z 23. novembra 2018, ktorou sa menia prílohy k smernici Európskeho parlamentu a Rady 2008/68/ES o vnútrozemskej preprave nebezpečného tovaru na účely prispôsobenia vedecko-technickému pokroku (Ú. v. EÚ L 299, 26. 11. 2018).

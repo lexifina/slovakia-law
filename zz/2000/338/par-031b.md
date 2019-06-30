@@ -1,6 +1,6 @@
 # § 31b Služobná lodnícka knižka
 
-(1) Služobná lodnícka knižka je doklad, ktorým sa preukazuje totožnosť člena posádky plavidla, jeho odborná spôsobilosť, funkčné zaradenie na plavidle, zdravotná spôsobilosť a vykonaná plavebná prax na plavidle. Vydáva ju Dopravný úrad na základe žiadosti člena posádky plavidla, ktorý je občanom Slovenskej republiky alebo občanom iného členského štátu Európskej únie alebo iného štátu, ktorý je zmluvnou stranou Dohody o Európskom hospodárskom priestore.
+(1) Služobná lodnícka knižka je doklad, ktorým sa preukazuje totožnosť člena posádky plavidla, jeho odborná spôsobilosť, funkčné zaradenie na plavidle, zdravotná spôsobilosť a vykonaná plavebná prax na plavidle. Vydáva ju Dopravný úrad na základe žiadosti člena posádky plavidla, ktorý je občanom Slovenskej republiky alebo občanom iného členského štátu.
 
 (2) Žiadosť o vydanie služobnej lodníckej knižky obsahuje
 
@@ -56,6 +56,6 @@
 
 - f) preplávané úseky vodných ciest.
 
-(8) Člen posádky plavidla musí požiadať o potvrdenie pravdivosti zapísaných záznamov podľa odseku 7 písm. f) najmenej raz ročne Dopravný úrad, príslušný orgán iného členského štátu Európskej únie alebo iného štátu, ktorý je zmluvnou stranou Dohody o Európskom hospodárskom priestore.
+(8) Člen posádky plavidla musí požiadať o potvrdenie pravdivosti zapísaných záznamov podľa odseku 7 písm. f) najmenej raz ročne Dopravný úrad alebo príslušný orgán iného členského štátu.
 
 (9) Služobnú lodnícku knižku vydanú príslušnými orgánmi cudzích štátov možno uznať len na základe podmienok vzájomného uznávania.
