@@ -216,6 +216,8 @@
 
 - 51a) § 27 ods. 3 a 6 zákona č. 61/2015 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov.
 
+- 51b) § 97a zákona č. 131/2002 Z. z. v znení zákona č. 155/2019 Z. z.
+
 - 52) Zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
 
 - Zákon č. 34/2002 Z. z. o nadáciách a o zmene Občianskeho zákonníka v znení neskorších predpisov.
