@@ -6,6 +6,10 @@
 
 - 3a) Zákon č. 378/2015 Z. z. o dobrovoľnej vojenskej príprave a o zmene a doplnení niektorých zákonov.
 
+- 3b) § 107 ods. 5 zákona č. 35/2019 Z. z. o finančnej správe a o zmene a doplnení niektorých zákonov.
+
+- 3c) § 108 zákona č. 35/2019 Z. z.
+
 - 4) Čl. 2 ústavného zákona č. 227/2002 Z. z.
 
 - 5) Čl. 3 ústavného zákona č. 227/2002 Z. z.
@@ -22,7 +26,9 @@
 
 - 8b) § 83 ods. 2 písm. b) až f) zákona č. 281/2015 Z. z.
 
-- 8c) Napríklad § 192 ods. 1 písm. b) zákona č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície, § 63 ods. 1 písm. e) zákona č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov, § 183 ods. 1 písm. b) zákona č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
+- 8c) Napríklad § 192 ods. 1 písm. b) zákona č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície, § 63 ods. 1 písm. e) zákona č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov.
+
+- 8d) § 84 ods. 2 zákona č. 35/2019 Z. z.
 
 - 9) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
@@ -96,7 +102,7 @@
 
 - 29g) § 132 ods. 1 až 5, § 137 ods. 3 a § 138 až 153 zákona č. 281/2015 Z. z.
 
-- 29h) Zákon č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 29h) § 71 ods. 6 zákona 35/2019 Z. z.
 
 - 30) Európsky dohovor o občianstve (oznámenie č. 418/2000 Z. z.).
 
