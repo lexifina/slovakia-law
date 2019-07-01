@@ -65,3 +65,5 @@ Príloha k zákonu č. 566/2001 Z. z.
   - 31. Smernica Európskeho parlamentu a Rady 2014/65/EÚ z 15. mája 2014 o trhoch s finančnými nástrojmi, ktorou sa mení smernica 2002/92/ES a smernica 2011/61/EÚ (prepracované znenie) (Ú. v. EÚ L 173, 12. 6. 2014) v znení nariadenia (EÚ) č. 909/2014 (Ú. v. EÚ L 257, 28. 8. 2014) a smernice (EÚ) 2016/1034 (Ú. v. EÚ L 175, 30. 6. 2016).
 
   - 32. Delegovaná smernica Komisie (EÚ) 2017/593 zo 7. apríla 2016, ktorou sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ, pokiaľ ide o ochranu finančných nástrojov a finančných prostriedkov patriacich klientom, povinnosti v oblasti riadenia produktov a pravidlá uplatniteľné na poskytovanie alebo prijímanie poplatkov, provízií alebo akýchkoľvek peňažných alebo nepeňažných benefitov (Ú. v. EÚ L 87, 31. 3. 2017).
+
+  - 33. Smernica Európskeho parlamentu a Rady (EÚ) 2017/828 zo 17. mája 2017, ktorou sa mení smernica 2007/36/ES, pokiaľ ide o podnietenie dlhodobého zapojenia akcionárov (Ú. v. EÚ L 132, 20. 5. 2017).

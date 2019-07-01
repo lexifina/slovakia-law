@@ -362,6 +362,10 @@
 
 - 60aa) § 23 zákona č. 431/2002 Z. z.
 
+- 60ab) § 32c ods. 2 písm. b) zákona č. 650/2004 Z. z. v znení zákona č. 156/2019 Z. z.
+
+- § 64a ods. 4 zákona č. 39/2015 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 156/2019 Z. z.
+
 - 60b) Článok 15 nariadenia Komisie (ES) č. 1287/2006/ES.
 
 - 60d) Článok 14 nariadenia Komisie (ES) č. 1287/2006/ES.
