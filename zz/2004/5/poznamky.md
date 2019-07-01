@@ -12,7 +12,7 @@
 
 - 5) Zákon č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
 
-- 6) Napríklad § 226 ods. 2 Obchodného zákonníka, zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov, zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov, zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov, zákon č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 6) Napríklad § 226 ods. 2 Obchodného zákonníka, zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov, zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov, zákon č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 35/2019 Z. z. o finančnej správe a o zmene a doplnení niektorých zákonov.
 
 - 8) Zákon č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností v znení neskorších predpisov.
 
@@ -296,11 +296,11 @@
 
 - 60b) Zákon č. 73/1998 Z. z. v znení neskorších predpisov.
 
-- Zákon č. 200/1998 Z. z. v znení neskorších predpisov.
-
 - Zákon č. 315/2001 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 346/2005 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 35/2019 Z. z.
 
 - 61) Zákon č. 151/2010 Z. z. o zahraničnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 403/2010 Z. z.
 
