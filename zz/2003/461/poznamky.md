@@ -2,11 +2,11 @@
 
 - 1a) Zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
 
-- Zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
-
 - Zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov.
 
 - Zákon č. 544/2002 Z. z. o Horskej záchrannej službe v znení neskorších predpisov.
+
+- Zákon č. 35/2019 Z. z. o finančnej správe a o zmene a doplnení niektorých zákonov.
 
 - 1b) Zákon č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení zákona č. 253/2007 Z. z.
 
@@ -102,6 +102,8 @@
 
 - Zákon č. 475/2005 Z. z. o výkone trestu odňatia slobody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 39e) § 71 ods. 10 zákona č. 35/2019 Z. z.
+
 - 40) § 11 ods. 2 písm. a) a b) a ods. 3 a 4 zákona č. 378/2015 Z. z.
 
 - 41) Zákon č. 314/2001 Z. z. o ochrane pred požiarmi v znení zákona č. 438/2002 Z. z.
@@ -113,6 +115,12 @@
 - 42a) Zákon č. 221/2006 Z. z. v znení neskorších predpisov.
 
 - 42b) Zákon č. 475/2005 Z. z. v znení neskorších predpisov.
+
+- 42c) § 107 ods. 5 zákona č. 35/2019 Z. z.
+
+- 42d) § 108 zákona č. 35/2019 Z. z.
+
+- 42e) § 107 ods. 8 zákona č. 35/2019 Z. z.
 
 - 43) § 49 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
