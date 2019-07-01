@@ -114,6 +114,8 @@
 
 - 38) Napríklad zákon č. 543/2002 Z. z. v znení neskorších predpisov, zákon č. 217/2004 Z. z. v znení zákona č. 545/2004 Z. z., zákon č. 364/2004 Z. z. v znení neskorších predpisov, zákon č. 193/2005 Z. z. o rastlinolekárskej starostlivosti.
 
+- 38a) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov
+
 - 39) Zákon č. 666/2004 Z. z. o ochrane pred povodňami.
 
 - 40) § 48 až 51 zákona č. 364/2004 Z. z.
@@ -152,7 +154,7 @@
 
 - 50a) § 54 ods. 4 zákona č. 543/2002 Z. z.
 
-- 51) Zákon č. 23/1962 Zb. v znení neskorších predpisov.
+- 51) Zákon č. 274/2009 Z. z. v znení neskorších predpisov.
 
 - 52) § 34 zákona č. 23/1962 Zb.
 
@@ -166,7 +168,15 @@
 
 - 56) § 6 zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
 
-- 56a) Čl. 35 ods. 2 písm. j) nariadenia Európskeho parlamentu a Rady (EÚ) č. 1305/2013 zo 17. decembra 2013 o podpore rozvoja vidieka prostredníctvom Európskeho poľnohospodárskeho fondu pre rozvoj vidieka (EPFRV) a o zrušení nariadenia Rady (ES) č. 698/2005 (Ú. v. EÚ L 347, 20. 12. 2013).
+- 56a) Zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov.
+
+- § 21 ods. 2 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 372/2018 Z. z.
+
+- 56b) Napríklad § 24 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
+
+- 56c) § 2 písm. m) bod 2 zákona č. 435/2010 Z. z. o poskytovaní dotácií v pôsobnosti Ministerstva obrany Slovenskej republiky v znení zákona č. 214/2013 Z. z.
+
+- 56d) Čl. 35 ods. 2 písm. j) nariadenia Európskeho parlamentu a Rady (EÚ) č. 1305/2013 zo 17. decembra 2013 o podpore rozvoja vidieka prostredníctvom Európskeho poľnohospodárskeho fondu pre rozvoj vidieka (EPFRV) a o zrušení nariadenia Rady (ES) č. 1698/2005 (Ú. v. EÚ L 347, 20. 12. 2013) v platnom znení.
 
 - 57) Napríklad § 9 ods. 1 písm. n) zákona č. 543/2002 Z. z., zákon č. 364/2004 Z. z. v znení neskorších predpisov.
 
@@ -175,6 +185,8 @@
 - 58) § 9 ods. 1 písm. n) a § 67 písm. g) zákona č. 543/2002 Z. z. v znení neskorších predpisov.
 
 - 59) Napríklad § 10 zákona č. 136/2000 Z. z. o hnojivách v znení zákona č. 555/2004 Z. z.
+
+- 59a) Zákon č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov.
 
 - 60) § 3 ods. 2 písm. h) zákona č. 543/2007 Z. z. o pôsobnosti orgánov štátnej správy pri poskytovaní podpory v pôdohospodárstve a rozvoji vidieka v znení neskorších predpisov.
 
@@ -204,6 +216,8 @@
 
 - 69) § 123 Občianskeho zákonníka.
 
+- 69a) § 13 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. v znení neskorších predpisov.
+
 - 70) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 71) Zákon č. 504/2003 Z. z. o nájme poľnohospodárskych pozemkov, poľnohospodárskeho podniku a lesných pozemkov a o zmene niektorých zákonov v znení zákona č. 549/2004 Z. z.
@@ -224,6 +238,24 @@
 
 - 75) Napríklad § 18 až 20a a § 20f až 21 Občianskeho zákonníka v znení neskorších predpisov.
 
+- 75a) § 4 zákona č. 139/2002 Z. z. o rybárstve v znení neskorších predpisov.
+
+- 75b) Napríklad zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, zákon č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov, zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 569/2007 Z. z. o geologických prácach (geologický zákon) v znení neskorších predpisov.
+
+- 75c) § 22 ods. 9 zákona č. 229/1991 Zb. v znení neskorších predpisov.
+
+- 75d) § 22a zákona č. 229/1991 Zb. v znení neskorších predpisov.
+
+- 75e) Zákon č. 330/1991 Zb. v znení neskorších predpisov.
+
+- 75f) § 14 ods. 1 zákona č. 330/1991 Zb. v znení neskorších predpisov.
+
+- 75g) § 14 ods. 4 zákona č. 330/1991 Zb. v znení neskorších predpisov.
+
+- 75h) § 22a ods. 7 zákona č. 229/1991 Zb. v znení neskorších predpisov.
+
+- 75i) § 34 zákona č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
+
 - 76) § 38 ods. 10 zákona č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti.
 
 - 77) Napríklad zákon č. 281/1997 Z. z. v znení zákona č. 172/2003 Z. z., Trestný poriadok.
@@ -237,6 +269,8 @@
 - 81) § 51 ods. 1 a § 80 ods. 5 druhá veta zákona č. 364/2004 Z. z.
 
 - 82) Čl. 12 nariadenia Európskeho parlamentu a Rady (ES) č. 2152/2003 (Ú. v. EÚ L 324, 11. 12. 2003) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 788/2004 (Ú. v. EÚ L 138, 30. 4. 2004).
+
+- 82a) Zákon č. 280/2017 Z. z. o poskytovaní podpory a dotácie v pôdohospodárstve a rozvoji vidieka a o zmene zákona č. 292/2014 Z. z. o príspevku poskytovanom z Európskych štrukturálnych a investičných fondov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 83) Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
