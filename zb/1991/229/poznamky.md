@@ -100,25 +100,55 @@
 
 - 23) § 64 Hospodárskeho zákonníka.
 
-- 23a) § 6 ods. 1 zákona č. 61/1964 Zb. o rozvoji rastlinnej výroby.
+- 23a) § 14 ods. 8 zákona č. 330/1991 Zb. v neskorších predpisov.
 
-- 23b) Zákon Slovenskej národnej rady č. 330/1991 Zb.
+- 23b) Čl. 6 nariadenia Rady (ES) č. 2100/94 z 27. júla 1994 o právach spoločenstva k odrodám rastlín (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 16; Ú. v. ES L 227, 1. 9. 1994) v platnom znení.
 
-- 23c) § 492, 663 až 684 Občianskeho zákonníka.
+- 23c) § 2 zákona č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
 
-- 23d) § 673 až 675 Občianskeho zákonníka.
+- § 829 Občianskeho zákonníka.
 
-- 23e) § 2a zákona Slovenskej národnej rady č. 100/1977 Zb.
+- 23d) Zákon č. 97/2013 Z. z. o pozemkových spoločenstvách v znení neskorších predpisov.
 
-- 23f) § 829 a nasl. Občianskeho zákonníka. Zákon Slovenskej národnej rady č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
+- 23e) § 14 ods. 1 zákona č. 330/1991 Zb. v znení neskorších predpisov.
 
-- 23g) Zákon Slovenskej národnej rady č. 293/1992 Zb. o úprave niektorých vlastníckych vzťahov k nehnuteľnostiam.
+- 23f) § 14 ods. 4 zákona č. 330/1991 Zb. v znení neskorších predpisov.
 
-- 23h) § 15 ods. 2 zákona Slovenskej národnej rady č. 330/1991 Zb.
+- 23g) § 39 ods. 1 zákona č. 326/2005 Z. z. o lesoch v znení zákona č. 182/2014 Z. z.
 
-- 23i) Zákon č. 503/2003 o navrátení vlastníctva k pozemkom a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov.
+- 23h) § 39 ods. 6 zákona č. 326/2005 Z. z. v znení zákona č. 158/2019 Z. z.
 
-- 23j) § 137 až 142 Občianskeho zákonníka.
+- 23i) Zákon č. 326/2005 Z. z. v znení neskorších predpisov.
+
+- 23j) § 13 zákona č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov.
+
+- 23k) § 37 a 43 zákona č. 326/2005 Z. z. v znení neskorších predpisov.
+
+- § 11 vyhlášky Ministerstva pôdohospodárstva a rozvoja Slovenskej republiky č. 297/2011 Z. z. o lesnej hospodárskej evidencii.
+
+- 23l) § 36 ods. 2 zákona č. 326/2005 Z. z. v znení neskorších predpisov.
+
+- 23m) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
+
+- 23n) § 51d zákona č. 326/2005 Z. z. v znení zákona č. 158/2019 Z. z.
+
+- 23o) § 47 zákona č. 326/2005 Z. z. v znení neskorších predpisov.
+
+- 23p) § 25 ods. 2 a § 28 ods. 1 písm. a) a b) a zákona č. 326/2005 Z. z. v znení neskorších predpisov.
+
+- 23q) § 51b ods. 4 zákona č. 326/2005 Z. z. v znení zákona č. 158/2019 Z. z.
+
+- 23r) Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
+- 23s) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+
+- 23t) Zákon č. 503/2003 Z. z. o navrátení vlastníctva k pozemkom a o zmene a doplnení zákona č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov.
+
+- 23u) § 137 až 142 Občianskeho zákonníka.
+
+- 23v) § 25 zákona č. 326/2005 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
 
 - 24) Napríklad zákon č. 123/1975 Zb. v znení neskorších predpisov, zákon č. 61/1977 Zb.
 
@@ -127,3 +157,7 @@
 - 26) § 34 ods. 1 zákona Slovenskej národnej rady č. 330/1991 Zb.
 
 - 27) § 50 ods. 3 zákona č. 326/2005 Z. z.
+
+- 28) § 2 písm. q) zákona č. 326/2005 Z. z.
+
+- 29) § 26 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
