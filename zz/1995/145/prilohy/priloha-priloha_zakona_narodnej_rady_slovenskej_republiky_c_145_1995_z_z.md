@@ -776,13 +776,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 4. záujmového združenia právnických osôb z registra záujmových združení právnických osôb | 33 eur
 
-  - 5. pozemkového spoločenstva z registra pozemkových spoločenstiev | 35 eur
+  - 5. spoločenstva vlastníkov bytov a nebytových priestorov z registra spoločenstiev vlastníkov bytov a nebytových priestorov | 16,50 eura
 
-  - 6. spoločenstva vlastníkov bytov a nebytových priestorov z registra spoločenstiev vlastníkov bytov a nebytových priestorov | 16,50 eura
+  - 6. neinvestičného fondu z registra mimovládnych neziskových organizácií | 16,50 eura
 
-  - 7. neinvestičného fondu z registra mimovládnych neziskových organizácií | 16,50 eura
-
-  - 8. neziskovej organizácie poskytujúcej všeobecne prospešné služby z registra mimovládnych neziskových organizácií | 33 eur
+  - 7. neziskovej organizácie poskytujúcej všeobecne prospešné služby z registra mimovládnych neziskových organizácií | 33 eur
 
   - q) Zápis údajov o zriadenej organizačnej jednotke združenia občanov oprávnenej konať vo svojom mene do registra mimovládnych neziskových organizácií | 66 eur
 
@@ -873,6 +871,16 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
     - Položka 41
 
   - Žiadosť o vydanie rozhodnutia o vyňatí, obmedzení lesných pozemkov a o ich určení v prípade pochybností ...................................................................................................................................... | 30 eur
+
+    - Položka 41a
+
+    - Vydanie výpisu z evidencie lesných pozemkov o skutočnostiach zapísaných v evidencii lesných pozemkov podľa § 4f ods. 1 a 2 zákona č. 326/2005 Z. z. v znení zákona č. 158/2019 Z. z. na základe žiadosti
+
+      - 1. obhospodarovateľa lesa alebo odborného lesného hospodára za každých, aj začatých päť strán .................................................................................................10 eur
+
+      - 2. vlastníka pozemku v rozsahu jeho vlastníctva za každých, aj začatých päť strán ...........................................................................................................................10 eur
+
+      - 3. fyzickej osoby, fyzickej osoby – podnikateľa alebo právnickej osoby neuvedenej v prvom bode a druhom bode za každých, aj začatých päť strán .....................20 eur.
 
     - Položka 42
 
@@ -984,10 +992,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Poznámky 1. Poplatok za ďalšie 3 roky je splatný pred uplynutím piateho roku platnosti šľachtiteľského osvedčenia. 2. Poplatok za každý ďalší rok je splatný vždy pred uplynutím predchádzajúceho roku platnosti šľachtiteľského osvedčenia. |
 
-    - Položka 49
-
-  - Rozhodnutie o schválení krmiva a o zápise do registra krmív........................................................... | 16,50 eura
-
     - Položka 49a
 
   - a) Vydanie osvedčenia o oprávnení na prevádzkovanie verejného skladu podľa § 7 zákona č. 144/1998 Z. z. o skladiskovom záložnom liste, tovarovom záložnom liste a o doplnení niektorých ďalších zákonov...................... | 6,50 eura
@@ -995,14 +999,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - b) Schválenie obchodných podmienok podľa § 8 zákona č. 144/1998 Z. z. o skladiskovom záložnom liste, tovarovom záložnom liste a o doplnení niektorých ďalších zákonov........................................................................ | 6,50 eura
 
   - c) Registrácia tovarových záložných listov podľa § 25 zákona č. 144/1998 Z. z. o skladiskovom záložnom liste, tovarovom záložnom liste a o doplnení niektorých ďalších zákonov........................................................................ | 6,50 eura.
-
-    - Položka 50
-
-  - Osvedčenie o zápise krmiva do registra krmív................................................................................... | 6,50 eura
-
-    - Položka 51
-
-  - Osvedčenie o zápise výrobcu alebo dovozcu do registra krmív ........................................................... | 16,50 eura
 
     - Položka 52
 
@@ -3512,7 +3508,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
       - 1. hazardných hrách uvedených v písmene a) prvom až štvrtom bode ................... 500 eur,
 
-      - 2. hazardných hrách uvedených v písmene a) piatom až osemnástom bode ......... 1 000 eur,
+      - 2. hazardných hrách uvedených v písmene a) piatom až dvadsiatom druhom bode ......... 1 000 eur,
 
     - d) oznámenie prevádzkovateľa žrebovej vecnej lotérie, tomboly
 
@@ -3704,7 +3700,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - h) | oprava zverejnených údajov podľa § 8 ods. 2 zákona č. 200/2011 Z. z. o Obchodnom vestníku a o zmene a doplnení niektorých zákonov ..... | | 3,50 eura.
 
-    - Oslobodenie: Od poplatku podľa tejto položky sú oslobodené údaje zverejňované v Obchodnom vestníku registrovými úradmi,<sup>36</sup>) konkurznými správcami, súdnymi exekútormi, dražobníkmi, Národnou bankou Slovenska a údaje zverejňované podľa § 218a ods. 6 a § 218o ods. 1 písm. a) Obchodného zákonníka. | | |
+    - Oslobodenie: Od poplatku podľa tejto položky sú oslobodené údaje zverejňované v Obchodnom vestníku registrovými úradmi,<sup>36</sup>) konkurznými správcami, súdnymi exekútormi, dražobníkmi, Národnou bankou Slovenska a údaje zverejňované podľa § 218a ods. 6, § 218o ods. 1 písm. a) a § 220gb Obchodného zákonníka. | | |
 
   - Položka 149b | |
 
