@@ -8,7 +8,7 @@
 
 - 1d) Zákon č. 544/2002 Z. z. o Horskej záchrannej službe v znení neskorších predpisov.
 
-- 1e) Zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
+- 1e) § 71 ods. 6 zákona č. 35/2019 Z. z. o finančnej správe a o zmene a doplnení niektorých zákonov.
 
 - 1f) Zákon č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -99,6 +99,12 @@
 - 29) Napríklad § 133 zákona č. 566/2001 Z. z., § 25 zákona č. 483/2001 Z. z. v znení zákona č. 603/2003 Z. z.
 
 - 29a) Napríklad zákon č. 566/2001 Z. z. v znení neskorších predpisov, zákon č. 203/2011 Z. z. o kolektívnom investovaní v znení neskorších predpisov, zákon č. 39/2015 Z. z. v znení neskorších predpisov.
+
+- 29b) § 78 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- 29c) § 8 ods. 1 písm. n) zákona č. 566/2001 Z. z. v znení zákona č. 336/2005 Z. z.
+
+- 29d) § 78 ods. 3 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 30) § 131a zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 

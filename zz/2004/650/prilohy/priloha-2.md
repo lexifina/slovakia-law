@@ -17,3 +17,5 @@ Príloha č. 2 k zákonu č. 650/2004 Z. z. v znení zákona č. 318/2013 Z. z.
   - 7. Smernica Európskeho parlamentu a Rady 2014/50/EÚ zo 16. apríla 2014 o minimálnych požiadavkách na posilnenie mobility pracovníkov medzi členskými štátmi zlepšením nadobúdania a zachovávania doplnkových dôchodkových práv (Ú. v. EÚ L 128, 30. 4. 2014).
 
   - 8. Smernica Európskeho parlamentu a Rady (EÚ) 2016/2341 zo 14. decembra 2016 o činnostiach inštitúcií zamestnaneckého dôchodkového zabezpečenia (IZDZ) a o dohľade nad nimi (prepracované znenie) (Ú. v. EÚ L 354, 23. 12. 2016).
+
+  - 9. Smernica Európskeho parlamentu a Rady (EÚ) 2017/828 zo 17. mája 2017, ktorou sa mení smernica 2007/36/ES, pokiaľ ide o podnietenie dlhodobého zapojenia akcionárov (Ú. v. EÚ L 132, 20. 5. 2017).
