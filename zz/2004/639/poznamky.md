@@ -12,8 +12,6 @@
 
 - 6) § 663 až 684 Občianskeho zákonníka.
 
-- 7) § 3d ods. 7 zákona č. 135/1961 Zb.
-
 - 7a) Zákon č. 25/2007 Z. z. o elektronickom výbere mýta za užívanie vymedzených úsekov pozemných komunikácií a o zmene a doplnení niektorých zákonov v znení zákona č. 664/2007 Z. z.
 
 - 8) § 13 ods. 13 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
