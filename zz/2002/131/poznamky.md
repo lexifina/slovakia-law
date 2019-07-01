@@ -6,7 +6,7 @@
 
 - 3a) § 2 zákona č. 455/2004 Z. z. o zriadení Akadémie ozbrojených síl generála Milana Rastislava Štefánika, o zlúčení Vojenskej leteckej akadémie generála Milana Rastislava Štefánika v Košiciach s Technickou univerzitou v Košiciach, o zriadení Národnej akadémie obrany maršala Andreja Hadika a o zmene a doplnení niektorých zákonov.
 
-- 3aa) § 7 ods. 12 zákona č. 578/2004 Z. z. v znení zákona č. 133/2010 Z. z.
+- 3aa) § 20f Občianskeho zákonníka.
 
 - 4) Čl. 102 ods. 1 písm. h) Ústavy Slovenskej republiky.
 
@@ -163,6 +163,8 @@
 - § 19 zákona č. 317/2009 Z. z.
 
 - 49ab) § 12 písm. aa) zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení zákona č. 223/2011 Z. z.
+
+- 49aba) § 2 ods. 2 Obchodného zákonníka.
 
 - 49b) § 4 ods. 2 zákona Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky v znení neskorších predpisov.
 
