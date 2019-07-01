@@ -60,20 +60,6 @@
 
 - 14) Obchodný zákonník.
 
-- 15) § 2 ods. 1 až 3 zákona č. 61/1977 Zb. o lesoch v znení neskorších predpisov.
-
-- 16) § 63 zákona č. 543/2002 Z. z.
-
-- 17) § 11 ods. 4 zákona č. 61/1977 Zb. v znení neskorších predpisov.
-
-- 17a) § 2 písm. h) zákona č. 326/2005 Z. z. o lesoch v znení neskorších predpisov.
-
-- 17b) § 40 zákona č. 326/2005 Z. z. v znení neskorších predpisov.
-
-- 18) Zákon č. 61/1977 Zb. v znení neskorších predpisov.
-
-- Zákon Slovenskej národnej rady č. 100/1977 Zb. o hospodárení v lesoch a štátnej správe lesného hospodárstva v znení neskorších predpisov.
-
 - 19) § 13 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 19a) Napríklad čl. 4 písm. c) nariadenia Európskeho parlamentu a Rady (EÚ) č. 1307/2013 zo 17. decembra 2013, ktorým sa ustanovujú pravidlá priamych platieb pre poľnohospodárov na základe režimov podpory v rámci spoločnej poľnohospodárskej politiky a ktorým sa zrušuje nariadenie Rady (ES) č. 637/2008 a nariadenie Rady (ES) č. 73/2009 (Ú. v. EÚ L 347, 20. 12. 2013) v platnom znení.
