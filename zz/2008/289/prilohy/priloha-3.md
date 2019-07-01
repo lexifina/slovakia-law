@@ -1,3 +1,3 @@
 Príloha č. 3 k zákonu č. 289/2008 Z. z.
 
-- KNIHA ELEKTRONICKEJ REGISTRAČNEJ POKLADNICE [Príloha č. 3 k zákonu č. 289/2008 Z. z.](../assets/e4aee342638867d525e8efb3da7b7bf0b41ef180cd1e3aa4240dfe478c047f75.pdf)
+- KNIHA ELEKTRONICKEJ REGISTRAČNEJ POKLADNICE [Príloha č. 3 k zákonu č. 289/2008 Z. z.](../assets/224bcf5081b6f93d68a135aa2eef8f3b1f08cd981e05facea7f7c693ea13a96f.pdf)
