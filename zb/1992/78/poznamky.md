@@ -22,7 +22,7 @@
 
 - 4c) § 24 zákona č. 293/2007 Z. z. v znení zákona č. 81/2013 Z. z.
 
-- 4d) Napríklad zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 4d) § 30 ods. 1 zákona č. 35/2019 Z. z. o finančnej správe a o zmene a doplnení niektorých zákonov.
 
 - 5) § 68 a 69 Obchodného zákonníka.
 
