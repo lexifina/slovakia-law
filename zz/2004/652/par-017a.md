@@ -1,5 +1,0 @@
-# § 17a Oprávnenie na predvedenie osoby na účely konania podľa osobitného predpisu
-
-(1) Colník je oprávnený predviesť osobu na základe žiadosti<sup>36a</sup>) colného orgánu alebo správcu dane, ktorým je daňový úrad alebo colný úrad. Žiadosť o predvedenie musí obsahovať meno a priezvisko osoby, ktorá má byť predvedená, dátum narodenia a adresu trvalého pobytu, ustanovenie osobitného predpisu, na ktorého základe má byť osoba predvedená, a dôvod predvedenia. Colník je oprávnený predviesť osobu na účely colného konania alebo iného správneho konania pred colným orgánom aj bez žiadosti podľa prvej vety, ak tak ustanoví osobitný predpis.<sup>36b</sup>)
-
-(2) O predvedení colník vyhotoví úradný záznam, v ktorom uvedie meno a priezvisko, dátum narodenia a adresu trvalého pobytu predvedenej osoby, ustanovenie osobitného predpisu, na ktorého základe bola osoba predvedená, dôvod predvedenia a čas obmedzenia osobnej slobody predvedenej osoby. Prevzatie predvedenej osoby s uvedením miesta a času potvrdí colný orgán alebo zamestnanec správcu dane, ktorým je daňový úrad alebo colný úrad, na úradnom zázname.
