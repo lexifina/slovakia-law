@@ -140,6 +140,12 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 
   - Poznámka pod čiarou k odkazu 45 sa vypúšťa.
 
+- 17. V § 27 sa odsek 4 dopĺňa písmenom l), ktoré znie:
+
+- „l)
+
+- zabezpečiť plnenie cieľov zberu ustanovených v prílohe č. 3a.“.
+
 - 18. V § 27 ods. 5 sa slová „§ 73 ods. 11“ nahrádzajú slovami „§ 73 ods. 9“.
 
 - 19. V § 27 ods. 7 písm. d) sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „pričom povinnosť podľa odseku 4 písm. e) plní až v roku, keď mu z výrobku vznikne odpad.“.
@@ -155,6 +161,12 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 - „1.4
 
 - viesť sumárnu evidenciu celého množstva oddelene vyzbieranej zložky komunálnych odpadov a množstva vykúpených odpadov a zverejniť ju na webovom sídle organizácie zodpovednosti výrobcov do 45 dní po ukončení štvrťroka,“.
+
+- 24. V § 28 ods. 4 sa písmeno d) dopĺňa tretím bodom, ktorý znie:
+
+- „3.
+
+- zabezpečenia nakladania s vyhradeným prúdom odpadu za zastúpených výrobcov v rozsahu, ktorý zodpovedá súhrnnému objemu týchto povinností jednotlivých zastúpených výrobcov prenesených na organizáciu zodpovednosti výrobcov a ktorý im zabezpečí splnenie povinností podľa § 27 ods. 4 písm. l),“.
 
 - 25. V § 28 ods. 4 písm. g), § 44 ods. 8 písm. e) a § 105 ods. 3 písm. i) sa slová „s celoslovenským pôsobením so zameraním na konečného používateľa“ nahrádzajú slovami „so zameraním na konečného používateľa s celoslovenským pôsobením a lokálnym pôsobením na úrovni obce“.
 
@@ -302,7 +314,11 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 
 - „d)
 
-- vypočítať si trhový podiel organizácie zodpovednosti výrobcov pre obaly,“.
+- vypočítať si trhový podiel organizácie zodpovednosti výrobcov pre obaly,
+
+- e)
+
+- zabezpečiť povinnosť podľa § 27 ods. 4 písm. l) k 30. júnu kalendárneho roka.“.
 
 - 58. V § 59 ods. 9 sa slová „viac ako 50 %, za nakladanie s takto vyzbieranou zložkou komunálneho odpadu v uvedenej zbernej nádobe nezodpovedá táto organizácia zodpovednosti výrobcov“ nahrádzajú slovami „nad prípustnú mieru znečistenia ustanovenú v prílohe č. 8a, za nakladanie s takto vyzbieranou zložkou komunálneho odpadu v uvedenej zbernej nádobe zodpovedá obec“.
 
