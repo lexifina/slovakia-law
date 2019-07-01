@@ -1,5 +1,7 @@
 - 1) Zákon č. 281/2015 Z. z. o štátnej službe profesionálnych vojakov a o zmene a doplnení niektorých zákonov.
 
+- 1a) § 71 ods. 6 zákona č. 35/2019 Z. z. o finančnej správe a o zmene a doplnení niektorých zákonov.
+
 - 2) § 2 písm. e) zákona č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov v znení zákona č. 518/2007 Z. z.
 
 - 3a) § 84 ods. 3 zákona č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
@@ -194,6 +196,10 @@
 
 - 43) Zákon č. 382/1990 Zb. o rodičovskom príspevku v znení neskorších predpisov.
 
+- 43a) § 71 ods. 10 zákona č. 35/2019 Z. z.
+
+- 43b) § 107 ods. 8 zákona č. 35/2019 Z. z.
+
 - 44) § 83 zákona č. 73/1998 Z. z. v znení zákona č. 328/2002 Z. z.
 
 - 45) § 44 zákona č. 73/1998 Z. z. v znení neskorších predpisov.
@@ -213,6 +219,10 @@
 - 47a) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
 
 - 47b) § 52 ods. 4 zákona č. 315/2001 Z. z. v znení neskorších predpisov.
+
+- 47c) § 107 ods. 5 zákona č. 35/2019 Z. z.
+
+- 47d) § 108 zákona č. 35/2019 Z. z.
 
 - 48) § 8a ods. 1 písm. r) zákona č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení zákona č. 158/2001 Z. z.
 
