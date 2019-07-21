@@ -4,6 +4,12 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 
 - 1. V § 4a ods. 12 sa za slovo „majiteľa“ vkladajú slová „alebo držiteľa“.
 
+- 2. V § 4a ods. 13 sa slová „ustanovení § 120 až 125h“ nahrádzajú slovami „osobitného predpisu<sup>16aba</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 16aba znie:
+
+  - „<sup>16aba</sup>) Nariadenie Európskeho parlamentu a Rady (EÚ) 2017/1129 zo 14. júna 2017 o prospekte, ktorý sa má uverejniť pri verejnej ponuke cenných papierov alebo ich prijatí na obchodovanie na regulovanom trhu, a o zrušení smernice 2003/71/ES (Ú. v. EÚ L 168, 30. 6. 2017).“.
+
 - 3. V § 8a ods. 2 písm. c) sa vypúšťa slovo „obec,“ a za slová „štátny orgán alebo“ sa vkladá slovo „vyšší“.
 
 - 4. V § 8a ods. 7 písm. a) sa bodkočiarka nahrádza čiarkou a vypúšťajú sa slová „pričom významným obchodom s finančnými nástrojmi sa rozumie obchod s finančnými nástrojmi, ktorého objem je vyšší ako 6 000 eur, a príslušným trhom sa rozumie regulovaný trh, mnohostranný obchodný systém alebo neorganizovaný trh, na ktorý sú prijaté na obchodovanie finančné nástroje, vo vzťahu ku ktorým sú poskytované alebo sa majú poskytovať investičné služby pre túto osobu,“.
@@ -19,6 +25,12 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 - 9. V § 17 ods. 6 sa slová „odsekov 4 a“ nahrádzajú slovami „odseku“.
 
 - 10. V § 19 ods. 3 sa za slovo „Ak“ vkladajú slová „§ 118i odsek 15 a § 159 ods. 3 alebo“.
+
+- 11. V § 54 ods. 7 sa za slovo „údajov“ vkladá čiarka a slová „vykonávania činnosti poskytovateľa platobných služieb podľa osobitného zákona<sup>50aaa</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 50aaa znie:
+
+  - „<sup>50aaa</sup>) Zákon č. 492/2009 Z. z. v znení neskorších predpisov.“.
 
 - 12. V § 55 odsek 10 znie:
 
@@ -45,6 +57,20 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
   - Poznámka pod čiarou k odkazu 57c znie:
 
   - „<sup>57c</sup>) Čl. 2 bod 1 delegovaného nariadenia (EÚ) 2017/565 v platnom znení.“.
+
+- 18. V § 71p odseky 1 a 2 znejú:
+
+- „(1)
+
+- Obchodník s cennými papiermi je pri poskytovaní investičných služieb povinný zabezpečiť odbornú spôsobilosť zamestnancov, ktorí prichádzajú do styku s neprofesionálnym klientom a poskytujú mu investičné poradenstvo alebo informácie o finančných nástrojoch, investičných službách alebo vedľajších službách.
+
+- (2)
+
+- Odbornou spôsobilosťou zamestnancov podľa odseku 1 je stredný stupeň odbornej spôsobilosti v sektore kapitálového trhu podľa osobitného zákona.<sup>57a</sup>) Zamestnanec, ktorý prichádza do styku s neprofesionálnym klientom a nespĺňa požiadavky na odbornú spôsobilosť podľa prvej vety, je oprávnený vykonávať činnosť, ktorej obsahom je poskytovanie investičného poradenstva alebo poskytovanie informácií o finančných nástrojoch, investičných službách alebo vedľajších službách, len ak túto činnosť vykonáva pod vedením a na zodpovednosť zamestnanca, ktorý spĺňa požiadavky na odbornú spôsobilosť podľa prvej vety.“.
+
+  - Poznámka pod čiarou k odkazu 57a znie:
+
+  - „<sup>57a</sup>) § 21 ods. 3 písm. b) zákona č. 186/2009 Z. z. v znení neskorších predpisov.“.
 
 - 19. V § 73b ods. 5 sa na začiatok vkladá nová prvá veta, ktorá znie: „Poplatok, provízia alebo nepeňažná výhoda sa nepovažujú za prijateľné, ak v ich dôsledku je poskytovanie príslušných služieb klientovi neobjektívne alebo skreslené.“.
 
@@ -256,6 +282,60 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 
   - <sup>100ac</sup>) § 2 ods. 5 Obchodného zákonníka.“.
 
+- 37. § 120 vrátane nadpisu znie:
+
+- „§ 120
+
+- Prospekt
+
+- (1)
+
+- Príslušným orgánom na vykonávanie oprávnení vo vzťahu k prospektu<sup>16aba</sup>) je Národná banka Slovenska.
+
+- (2)
+
+- Povinnosť zverejniť prospekt<sup>102ab</sup>) sa vzťahuje na verejné ponuky cenných papierov, ak celková hodnota každej takejto ponuky v Európskej únii vypočítaná za obdobie 12 mesiacov presahuje 1 000 000 eur.
+
+- (3)
+
+- Za údaje uvedené v prospekte zodpovedá emitent,<sup>102ac</sup>) vyhlasovateľ verejnej ponuky cenných papierov, osoba žiadajúca o prijatie na obchodovanie na regulovanom trhu alebo osoba, ktorá prevzala záruku za splatenie cenných papierov alebo výnosov.
+
+- (4)
+
+- Ak osoba zodpovedná za údaje uvádzané v prospekte uviedla nesprávne údaje alebo nepravdivé údaje, zodpovedá len za škodu, ktorú tým spôsobila.
+
+- (5)
+
+- Osoba zodpovedná za súhrn prospektu<sup>102ad</sup>) alebo jeho preklad zodpovedá len za škodu, ktorá vznikla v dôsledku toho, že súhrn obsahoval zavádzajúce údaje alebo nepresné údaje alebo tieto údaje boli v rozpore s ostatnými časťami prospektu, alebo tento súhrn neobsahoval v spojení s inými časťami prospektu kľúčové informácie, ktoré majú investorom pomôcť pri rozhodovaní sa o investovaní do takých cenných papierov.
+
+- (6)
+
+- Za informácie uvedené v registračnom dokumente alebo v univerzálnom registračnom dokumente zodpovedajú osoby uvedené v odseku 3, len ak je registračný dokument alebo univerzálny registračný dokument použitý ako súčasť schváleného prospektu; tým nie sú dotknuté ustanovenia osobitného predpisu,<sup>102ae</sup>) ak sú do univerzálneho registračného dokumentu zahrnuté informácie podľa tohto osobitného predpisu.
+
+- (7)
+
+- Národná banka Slovenska je oprávnená zakázať alebo pozastaviť na desať pracovných dní zverejnenie oznámenia, inzerátu, plagátu a iného obdobného dokumentu, ak zistí, že by ich zverejnením alebo ďalším zverejňovaním boli porušené ustanovenia tohto zákona alebo osobitného predpisu.<sup>103a</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 102ab až 102ae znejú:
+
+  - „<sup>10ab</sup>) Čl. 3 nariadenia (EÚ) 2017/1129.
+
+  - <sup>102ac</sup>) Čl. 11 nariadenia (EÚ) 2017/1129.
+
+  - <sup>102ad</sup>) Čl. 7 a čl. 15 nariadenia (EÚ) 2017/1129.
+
+  - <sup>102ae</sup>) § 34 a 35 zákona č. 429/2002 Z. z. v znení neskorších predpisov.“.
+
+- 38. § 121 až 125h sa vypúšťajú.
+
+  - Poznámka pod čiarou k odkazu 104 sa vypúšťa.
+
+- 39. V § 135b ods. 1 sa slová „§ 125 ods. 8“ nahrádzajú slovami „osobitného predpisu<sup>110je</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 110je znie:
+
+  - „<sup>100je</sup>) Čl. 20 ods. 8 nariadenia (EÚ) 2017/1129.“.
+
 - 40. V § 144 ods. 3 poslednej vete sa slová „osobitného predpisu,<sup>110m</sup>)“ nahrádzajú slovami „osobitných predpisov,<sup>110m</sup>)“ a slová „osobitného predpisu,<sup>110n</sup>)“ sa nahrádzajú slovami „osobitných predpisov,<sup>110n</sup>)“.
 
   - Poznámky pod čiarou k odkazom 110m a 110n znejú:
@@ -263,6 +343,28 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
   - „<sup>100m</sup>) Napríklad čl. 30 ods. 1 nariadenia (EÚ) č. 596/2014 v platnom znení, čl. 22 nariadenia (EÚ) 2015/2365, čl. 42 nariadenia (EÚ) 2016/1011, čl. 32 nariadenia (EÚ) 2017/2402.
 
   - <sup>100n</sup>) Napríklad čl. 30 ods. 2 a čl. 31 nariadenia (EÚ) č. 596/2014 v platnom znení, čl. 22 a 23 nariadenia (EÚ) 2015/2365, čl. 42 a 43 nariadenia (EÚ) 2016/1011, čl. 32 ods. 2 a 3 a čl. 33 nariadenia (EÚ) 2017/2402.“.
+
+- 41. V § 144 ods. 4 písm. d) sa slová „osobitného predpisu,<sup>111a</sup>)“ nahrádzajú slovami „osobitných predpisov,<sup>111a</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 111a znie:
+
+  - „<sup>111a</sup>) Čl. 24 a 25 nariadenia (ES) č. 1060/2009 v platnom znení.
+
+  - Čl. 32 nariadenia (EÚ) 2017/1129.“.
+
+- 42. V § 144 sa odsek 4 dopĺňa písmenami f) a g), ktoré znejú:
+
+- „f)
+
+- uložiť sankcie v rozsahu a za podmienok podľa osobitného predpisu,<sup>111b</sup>)
+
+- g)
+
+- pozastaviť skúmanie prospektu alebo obmedziť verejnú ponuku alebo prijatie cenných papierov na regulovaný trh.“.
+
+  - Poznámka pod čiarou k odkazu 111b znie:
+
+  - „<sup>111b</sup>) Čl. 38 nariadenia (EÚ) 2017/1129.“.
 
 - 43. V § 144 odsek 30 znie:
 
@@ -277,6 +379,14 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
   - <sup>114gb</sup>) § 34 ods. 6 zákona č. 371/2014 Z. z. v znení zákona č. 373/2018 Z. z.
 
   - <sup>114gc</sup>) § 8 a § 54 ods. 2 zákona č. 371/2014 Z. z. v znení zákona č. 437/2015 Z. z.“.
+
+- 44. V § 144 ods. 31 sa slová „osobitného predpisu.<sup>114h</sup>)“ nahrádzajú slovami „osobitných predpisov.<sup>114h</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 114h znie:
+
+  - „<sup>114h</sup>) Čl. 62 nariadenia (EÚ) č. 909/2014 v platnom znení.
+
+  - Čl. 42 nariadenia (EÚ) 2017/1129.“.
 
 - 45. V § 144 sa za odsek 31 vkladá nový odsek 32, ktorý znie:
 
@@ -305,3 +415,11 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 - Prechodné ustanovenie k úpravám účinným od 1. januára 2019
 
 - Na právne vzťahy, ktoré sa týkajú práva výkupu vzniknutého pred 1. januárom 2019, sa vzťahujú ustanovenia § 118i v znení účinnom do 31. decembra 2018.“.
+
+- 49. Za § 174c sa dopĺňa § 174d, ktorý vrátane nadpisu znie:
+
+- „§ 174d
+
+- Zrušovacie ustanovenie účinné od 21. júla 2019
+
+- Zrušuje sa opatrenie Národnej banky Slovenska č. 2/2014 o náležitostiach žiadosti o schválenie prospektu cenného papiera (oznámenie č. 39/2014 Z. z.).“.
