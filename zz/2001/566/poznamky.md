@@ -38,6 +38,8 @@
 
 - 16ab) Bod 4.2.2. prílohy XII nariadenia Komisie (ES) č. 809/2004 z 29. apríla 2004, ktorým sa vykonáva smernica Európskeho parlamentu a Rady 2003/71/ES, pokiaľ ide o informácie obsiahnuté v prospekte, ako aj ich formát, uvádzanie odkazov a uverejnenie týchto prospektov a šírenie reklamy (Mimoriadne vydanie Ú. v. EÚ, kap. 6/zv. 7; Ú. v. EÚ L 149, 30. 4. 2004) v platnom znení.
 
+- 16aba) Nariadenie Európskeho parlamentu a Rady (EÚ) 2017/1129 zo 14. júna 2017 o prospekte, ktorý sa má uverejniť pri verejnej ponuke cenných papierov alebo ich prijatí na obchodovanie na regulovanom trhu, a o zrušení smernice 2003/71/ES (Ú. v. EÚ L 168, 30. 6. 2017).
+
 - 16ac) § 18 až 24 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
 
 - 16ad) Kapitoly 4 a 6 prílohy I usmernenia Európskej centrálnej banky č. ECB/2011/14 (2011/817/EÚ) z 20. septembra 2011 o nástrojoch a postupoch menovej politiky Eurosystému (Ú. v. EÚ L 331, 14. 12. 2011) v platnom znení.
@@ -186,6 +188,8 @@
 
 - 50aa) Napríklad zákon č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov.
 
+- 50aaa) Zákon č. 492/2009 Z. z. v znení neskorších predpisov.
+
 - 50ab) Čl. 92 až 95 a časť IV nariadenia (EÚ) č. 575/2013 v platnom znení.
 
 - 50b) § 10 ods. 5 zákona č. 340/2005 Z. z.
@@ -270,7 +274,7 @@
 
 - 57) Čl. 2 bod 10 nariadenia Komisie (ES) č. 1287/2006/ES.
 
-- 57a) § 21 ods. 3 písm. a) zákona č. 186/2009 Z. z.
+- 57a) § 21 ods. 3 písm. b) zákona č. 186/2009 Z. z. v znení neskorších predpisov.
 
 - 57aa) Čl. 33 a 34 delegovaného nariadenia (EÚ) 2017/565.
 
@@ -572,13 +576,19 @@
 
 - 102aa) § 229 Civilného sporového poriadku.
 
+- 102ab) Čl. 3 nariadenia (EÚ) 2017/1129.
+
+- 102ac) Čl. 11 nariadenia (EÚ) 2017/1129.
+
+- 102ad) Čl. 7 a čl. 15 nariadenia (EÚ) 2017/1129.
+
+- 102ae) § 34 a 35 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
+
 - 102b) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
 
 - 103) Zákon č. 429/2002 Z. z. o burze cenných papierov v znení neskorších predpisov.
 
 - 103a) Nariadenie Komisie (ES) č. 809/2004/ES z 29. apríla 2004 o vykonávaní Smernice 2003/71/ES Európskeho parlamentu a Rady, pokiaľ ide o informácie obsiahnuté v prospekte, ako ich formát, uvádzanie odkazu a uverejnenie týchto prospektov a šírenia reklám (Ú. v. EÚ L 149 z 30. 4. 2004).
-
-- 104) § 3 ods. 3 písm. p) tretí bod zákona č. 429/2002 Z. z. v znení zákona č. 388/2015 Z. z.
 
 - 107ca) Nariadenie Európskeho parlamentu a Rady (ES) č. 1060/2009 zo 16. septembra 2009 o ratingových agentúrach (Ú. v. EÚ L 302, 17. 11. 2009).
 
@@ -660,6 +670,8 @@
 
 - 110jd) Nariadenie (EÚ) č. 1308/2013.
 
+- 110je) Čl. 20 ods. 8 nariadenia (EÚ) 2017/1129.
+
 - 110k) Napríklad zákon č. 483/2001 Z. z. v znení neskorších predpisov, zákon č. 747/2004 Z. z. v znení neskorších predpisov, zákon č. 8/2008 Z. z. v znení neskorších predpisov, zákon č. 492/2009 Z. z. v znení neskorších predpisov, zákon č. 203/2011 Z. z. v znení neskorších predpisov.
 
 - 110l) Čl. 19 nariadenia (EÚ) č. 1093/2010.
@@ -672,7 +684,11 @@
 
 - 111) Napríklad Obchodný zákonník v znení neskorších predpisov, Občiansky zákonník v znení neskorších predpisov, zákon č. 659/2007 Z. z.
 
-- 111a) Čl. 24 a 25 nariadenia (ES) č. 1060/2009.
+- 111a) Čl. 24 a 25 nariadenia (ES) č. 1060/2009 v platnom znení.
+
+- Čl. 32 nariadenia (EÚ) 2017/1129.
+
+- 111b) Čl. 38 nariadenia (EÚ) 2017/1129.
 
 - 112) § 178 ods. 1 a 2 a § 187 písm. e) Obchodného zákonníka.
 
@@ -706,7 +722,9 @@
 
 - 114gc) § 8 a § 54 ods. 2 zákona č. 371/2014 Z. z. v znení zákona č. 437/2015 Z. z.
 
-- 114h) Čl. 62 nariadenia (EÚ) č. 909/2014.
+- 114h) Čl. 62 nariadenia (EÚ) č. 909/2014 v platnom znení.
+
+- Čl. 42 nariadenia (EÚ) 2017/1129.
 
 - 114ha) Čl. 37 nariadenia (EÚ) 2017/2402.
 
