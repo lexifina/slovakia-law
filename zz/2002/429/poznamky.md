@@ -134,17 +134,15 @@
 
 - 40) § 2 zákona č. 386/2002 Z. z. o štátnom dlhu a štátnych zárukách a ktorým sa dopĺňa zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.
 
-- 42) § 125 zákona č. 566/2001 Z. z. v znení zákona č. 336/2005 Z. z.
+- 41) Čl. 1 ods. 5 nariadenia Európskeho parlamentu a Rady (EÚ) 2017/1129 zo 14. júna 2017 o prospekte, ktorý sa má uverejniť pri verejnej ponuke cenných papierov alebo ich prijatí na obchodovanie na regulovanom trhu, a o zrušení smernice 2003/71/ES (Ú. v. EÚ L 168, 30. 6. 2017).
+
+- 42) Čl. 20 nariadenia (EÚ) 2017/1129.
 
 - 44) § 69 Obchodného zákonníka.
 
 - 45) § 155 ods. 5 Obchodného zákonníka.
 
 - 46) § 66a Obchodného zákonníka.
-
-- 46a) § 125h ods. 1 písm. a) až h), j) a k) zákona č. 566/2001 Z. z. v znení zákona č. 336/2005 Z. z.
-
-- 46b) § 125h ods. 2 zákona č. 566/2001 Z. z. v znení zákona č. 336/2005 Z. z.
 
 - 47) § 107 ods. 9 zákona č. 566/2001 Z. z.
 
@@ -212,7 +210,7 @@
 
 - 66a) Čl. 77 delegovaného nariadenia (EÚ) 2017/565.
 
-- 66aa) § 120 až 125h zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+- 66aa) Nariadenie (EÚ) 2017/1129.
 
 - 66b) Čl. 3 ods. 1 bod 21 nariadenia (EÚ) č. 596/2014.
 
