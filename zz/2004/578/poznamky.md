@@ -40,6 +40,8 @@
 
 - 12b) § 35 ods. 1 písm. c) zákona č. 131/2002 Z. z. v znení neskorších predpisov.
 
+- 12c) § 2 písm. j) zákona č. 61/2015 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov.
+
 - 12e) Zákon č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov.
 
 - Zákon č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 317/2009 Z. z.

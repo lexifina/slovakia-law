@@ -92,7 +92,7 @@
 
 (20) Ak zdravotnícky pracovník, ktorý po úspešnom ukončení rezidentského štúdia nezačal poskytovať zdravotnú starostlivosť podľa odseku 13 písm. a) alebo odseku 23 písm. a), je povinný uhradiť ministerstvu zdravotníctva 5 000 eur za každý rok rezidentského štúdia.
 
-(21) Ak zdravotnícky pracovník, ktorý po úspešnom ukončení rezidentského štúdia neposkytoval zdravotnú starostlivosť podľa odseku 13 písm. b), je povinný uhradiť ministerstvu zdravotníctva 5 000 eur za každý rok, v ktorom neposkytoval zdravotnú starostlivosť podľa odseku 13 písm. b).
+(21) Ak zdravotnícky pracovník, ktorý po úspešnom ukončení rezidentského štúdia neposkytoval zdravotnú starostlivosť podľa odseku 13 písm. b) alebo odseku 23 písm. a), je povinný uhradiť ministerstvu zdravotníctva 5 000 eur za každý rok, v ktorom neposkytoval zdravotnú starostlivosť podľa odseku 13 písm. b) alebo odseku 23 písm. a).
 
 (22) Povinnosť úhrady podľa odsekov 19 až 21 nevzniká, ak
 
