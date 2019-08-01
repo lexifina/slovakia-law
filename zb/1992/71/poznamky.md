@@ -66,7 +66,7 @@
 
 - Čl. 111 ods. 1 až 3 Zmluvy o založení Európskeho spoločenstva v platnom znení (Ú. v. EÚ C 321E, 29. 12. 2006).
 
-- 5ab) § 45 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente).
+- 5ab) § 6 ods. 10 zákona č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení zákona č. 211/2019 Z. z.
 
 - 5ac) § 7 zákona č. 305/2013 Z. z.
 

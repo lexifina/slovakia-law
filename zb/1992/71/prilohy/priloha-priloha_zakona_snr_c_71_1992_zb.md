@@ -266,6 +266,14 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Poznámka: Osobitným predpisom sa rozumie napríklad nariadenie Európskeho parlamentu a Rady (ES) č. 805/2004 z 21. apríla 2004, ktorým sa vytvára európsky exekučný titul pre nesporné nároky (Ú. v. EÚ L 143, 30. 4. 2004) v platnom znení, nariadenie Európskeho parlamentu a Rady (ES) č. 1896/2006 z 12. decembra 2006, ktorým sa zavádza európske konanie o platobnom rozkaze (Ú. v. EÚ L 399, 30. 12. 2006) v platnom znení, nariadenie Európskeho parlamentu a Rady (ES) č. 861/2007 z 11. júla 2007, ktorým sa ustanovuje Európske konanie vo veciach s nízkou hodnotou sporu (Ú. v. EÚ L 199, 31. 7. 2007) v platnom znení, oddiel 1 kapitola IV nariadenia Rady (ES) č. 4/2009 z 18. decembra 2008 o právomoci, rozhodnom práve, uznávaní a výkone rozhodnutí a o spolupráci vo veciach vyživovacej povinnosti (Ú. v. EÚ L 7, 10. 1. 2009), nariadenie Európskeho parlamentu a Rady (EÚ) č. 1215/2012 z 12. decembra 2012 o právomoci a o uznávaní a výkone rozsudkov v občianskych a obchodných veciach (prepracované znenie) (Ú. v. EÚ L 351, 20.12. 2012) v platnom znení, nariadenie Európskeho parlamentu a Rady (EÚ) č. 606/2013 z 12. júna 2013 o vzájomnom uznávaní ochranných opatrení v občianskych veciach (Ú. v. EÚ L 181, 29. 6. 2013). |
 
+- Položka 24ab |
+
+- Vyhotovenie viacjazyčného štandardného formulára podľa osobitného predpisu ........................................... | 5 eur
+
+- Poznámka: |
+
+- Osobitným predpisom sa rozumie nariadenie Európskeho parlamentu a Rady (EÚ) 2016/1191 zo 6. júla 2016 o podporovaní voľného pohybu občanov prostredníctvom zjednodušenia požiadaviek na predkladanie určitých verejných listín v Európskej únii a o zmene nariadenia (EÚ) č. 1024/2012 (U. v. EÚ L 200, 26. 7. 2016). |
+
 - Položka 24b |
 
 - a) Za vyhotovenie a vydanie výpisu z obchodného registra s výnimkou výpisu z obchodného registra, ktorý sa vydáva po vykonaní zápisu podľa § 8 ods. 2 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a po vykonaní zápisu podľa 285 ods. 3 Civilného mimosporového poriadku v listinnej podobe | 6,50 eura,
