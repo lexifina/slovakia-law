@@ -1,1 +1,0 @@
-Dušan Podhorský v. r.

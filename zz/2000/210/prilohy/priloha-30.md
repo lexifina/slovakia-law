@@ -1,3 +1,0 @@
-Príloha č. 30 k vyhláške č. 210/2000 Z. z.
-
-- VÁHY S AUTOMATICKOU ČINNOSŤOU NA VÁŽENIE CESTNÝCH VOZIDIEL ZA POHYBU A NA MERANIE NÁPRAVOVÉHO ZAŤAŽENIA [Príloha č. 30 k vyhláške č. 210/2000 Z. z.](../assets/430699c660279cf320d6e7bb751cc740ad71f6181b3605c7f27ebe6a90cb27ec.pdf)

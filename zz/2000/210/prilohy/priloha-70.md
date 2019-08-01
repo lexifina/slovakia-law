@@ -1,3 +1,0 @@
-Príloha č. 70 k vyhláške č. 210/2000 Z. z.
-
-- LABORATÓRNE HUSTOMERY, CUKROMERY A MUŠTOMERY [Príloha 70](../assets/4c11780cd67cf399823c72ef0386d78452e19f7a45e4f3421f6f67f1ec13b142.pdf)

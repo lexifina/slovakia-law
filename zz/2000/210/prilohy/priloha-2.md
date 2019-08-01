@@ -1,3 +1,0 @@
-Príloha č. 2 k vyhláške č. 210/2000 Z. z.
-
-- GRAFICKÉ ZNÁZORNENIE ZNAČIEK SCHVÁLENÉHO TYPU A OSOBITNÝCH ZNAČIEK [Príloha 02](../assets/effe13183d4d3c4098810c35e15b5a6cf2ca567393ab8a8b07123238e6b1b4e0.pdf)

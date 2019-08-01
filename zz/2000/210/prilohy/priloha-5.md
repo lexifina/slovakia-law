@@ -1,3 +1,0 @@
-Príloha č. 5 k vyhláške č. 210/2000 Z. z.
-
-- VZOR PREUKAZU ZAMESTNANCOV VYKONÁVAJÚCICH METROLOGICKÝ DOZOR [Príloha č. 5 k vyhláške č. 210/2000 Z. z.](../assets/0e170e7184760ebe7993052fa36995fa4b790755cdc27977a8e383906b69059b.pdf)
