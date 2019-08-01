@@ -508,6 +508,24 @@
 
 - 89f) Oddiel A a B prílohy nariadenia (EÚ) č. 909/2014 v platnom znení.
 
+- 89g) Napríklad zákon č. 224/2006 Z. z. o občianskych preukazoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 647/2007 Z. z. o cestovných dokladoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 89h) § 21 ods. 1 písm. a) zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
+
+- 89i) Čl. 3 ods. 12 nariadenia Európskeho parlamentu a Rady (EÚ) č. 910/2014 o elektronickej identifikácii a dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zrušení smernice 1999/93/ES (Ú. v. EÚ L 257, 28. 8. 2014) v platnom znení.
+
+- Zákon č. 272/2016 Z. z. o dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zmene a doplnení niektorých zákonov (zákon o dôveryhodných službách).
+
+- 89j) Napríklad delegované nariadenie Komisie (EÚ) 2018/389 z 27. novembra 2017, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady (EÚ) 2015/2366, pokiaľ ide o regulačné technické predpisy pre silnú autentifikáciu zákazníka a spoločné a bezpečné otvorené komunikačné normy (Ú. v. EÚ L 69, 13. 3. 2018), zákon č. 297/2008 Z. z. v znení neskorších predpisov.
+
+- 89k) § 19 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
+
+- 89l) § 10 ods. 5 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
+
+- 89m) § 23a zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
+
+- 89n) § 15 zákona č. 224/2006 Z. z. v znení neskorších predpisov.
+
 - 90) Nariadenie (EÚ) č. 909/2014.
 
 - 90a) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov, zákon č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení neskorších predpisov, zákon č. 71/1967 Zb. v znení neskorších predpisov, nariadenie Európskeho parlamentu a Rady (EÚ) č. 655/2014 z 15. mája 2014 o zavedení konania týkajúceho sa európskeho príkazu na zablokovanie účtov s cieľom uľahčiť cezhraničné vymáhanie pohľadávok v občianskych a obchodných veciach (Ú. v. EÚ L 189, 27. 6. 2014).
