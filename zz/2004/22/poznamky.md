@@ -38,6 +38,12 @@
 
 - § 299 až 323 Obchodného zákonníka.
 
+- 16a) § 2 ods. 1 a 8 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 16b) § 7 zákona č. 324/2011 Z. z. o poštových službách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 16c) § 5 ods. 1 zákona č. 351/2011 Z. z. o elektronických komunikáciách v znení neskorších predpisov.
+
 - 17) § 2 písm. a) zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení zákona č. 284/2002 Z. z.
 
 - 17a) § 1 ods. 3 písm. c) zákona č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
