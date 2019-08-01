@@ -36,7 +36,17 @@
 
 - 8aa) Zákon č. 335/2014 Z. z. spotrebiteľskom rozhodcovskom konaní a o zmene a doplnení niektorých zákonov.
 
+- 8ab) Napríklad § 89 ods. 7 a § 93a ods. 9 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení zákona č. 211/2019 Z. z.
+
+- 8ac) § 99 zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov.
+
+- 8ad) § 11 ods. 5 a 6 zákona č. 324/2011 Z. z. o poštových službách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 8ae) § 43 ods. 14 a § 56 ods. 10 zákona č. 351/2011 Z. z. o elektronických komunikáciách v znení neskorších predpisov.
+
 - 8b) § 3 ods. 1 a 2 zákona č. 275/2006 Z. z. v znení neskorších predpisov.
+
+- 8ba) § 3 písm. n) prvý bod zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
 
 - 8c) Nariadenie Európskeho parlamentu a Rady (ES) č. 767/2008 z 9. júla 2008 o vízovom informačnom systéme (VIS) a výmene údajov o krátkodobých vízach medzi členskými štátmi (nariadenie o VIS) (Ú. v. EÚ L 218, 13. 8. 2008) v platnom znení.
 

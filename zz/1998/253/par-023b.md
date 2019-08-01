@@ -57,3 +57,5 @@
 - 6. miesto narodenia a štát narodenia; ak takéto údaje nevedie, tak štátnu príslušnosť.
 
 (3) Ak správca informačného systému verejnej správy vo svojom informačnom systéme nevedie alebo nemá uvedený niektorý z údajov uvedených v odseku 2 alebo by poskytovanie údajov bolo v rozpore s iným osobitným predpisom,<sup>8c</sup>) údaje o takejto fyzickej osobe do registra fyzických osôb neposkytne.
+
+(4) Pre osoby podľa odseku 1 písm. d) je na účely medzisystémovej identifikácie možné určiť jedinečnú sadu znakov, ktorých spôsob tvorby určuje ministerstvo. Sada znakov podľa prvej vety je na účely medzisystémovej identifikácie identifikátorom osoby podľa osobitného zákona.<sup>8ba</sup>)
