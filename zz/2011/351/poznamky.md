@@ -120,6 +120,18 @@
 
 - 36b) § 3 ods. 1 zákona č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
 
+- 36c) Napríklad § 3 zákona č. 224/2006 Z. z. o občianskych preukazoch a o zmene a doplnení niektorých zákonov v znení zákona č. 49/2012 Z. z.
+
+- 36d) § 21 ods. 1 písm. a) zákona č. 305/2013 Z. z. v znení neskorších predpisov.
+
+- 36e) § 15 zákona č. 224/2006 Z. z. v znení zákona č. 211/2019 Z. z.
+
+- 36f) § 23a a 23b zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
+
+- 36g) § 19 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
+
+- 36h) § 10 ods. 5 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
+
 - 37) Čl. 1 ods. 4 ústavného zákona č. 227/2002 Z. z.
 
 - 38) § 3 zákona č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu v znení neskorších predpisov.
