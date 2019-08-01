@@ -32,6 +32,22 @@
 
 - 10) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
+- 10a) Napríklad § 89 ods. 7 a § 93a ods. 9 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 10b) § 99 zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov.
+
+- 10c) § 11 ods. 5 a 6 zákona č. 324/2011 Z. z. o poštových službách a o zmene a doplnení niektorých zákonov v znení zákona č. 211/2019 Z. z.
+
+- 10d) § 43 ods. 14 a § 56 ods. 10 zákona č. 351/2011 Z. z. o elektronických komunikáciách v znení zákona č. 211/2019 Z. z.
+
+- 10e) § 93c zákona č. 483/2001 Z. z. v znení zákona č. 211/2019 Z. z.
+
+- § 99 ods. 16 zákona č. 566/2001 Z. z. v znení zákona č. 211/2019 Z. z.
+
+- § 11 ods. 8 zákona č. 324/2011 Z. z. v znení zákona č. 211/2019 Z. z.
+
+- § 56 ods. 12 zákona č. 351/2011 Z. z. v znení zákona č. 211/2019 Z. z.
+
 - 11) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
 - 12) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
