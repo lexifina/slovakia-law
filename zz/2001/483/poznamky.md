@@ -642,7 +642,21 @@
 
 - 73a) § 6 ods. 1 a 2, § 7 až 7d, § 8 až 8b a § 10 ods. 4 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení neskorších predpisov.
 
+- 73aa) § 21 ods. 1 písm. a) zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
+
+- 73ab) Čl. 3 ods. 12 nariadenia Európskeho parlamentu a Rady (EÚ) č. 910/2014 o elektronickej identifikácii a dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zrušení smernice 1999/93/ES (Ú. v. EÚ L 257, 28. 8. 2014) v platnom znení.
+
+- Zákon č. 272/2016 Z. z. o dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zmene a doplnení niektorých zákonov (zákon o dôveryhodných službách).
+
+- 73ac) Napríklad delegované nariadenie Komisie (EÚ) 2018/389 z 27. novembra 2017, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady (EÚ) 2015/2366, pokiaľ ide o regulačné technické predpisy pre silnú autentifikáciu zákazníka a spoločné a bezpečné otvorené komunikačné normy (Ú. v. EÚ L 69, 13. 3. 2018), zákon č. 297/2008 Z. z. v znení neskorších predpisov.
+
 - 74a) Zákon č. 266/2005 Z. z. o ochrane spotrebiteľa pri finančných službách na diaľku a o zmene a doplnení niektorých zákonov.
+
+- 74b) § 19 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
+
+- 74c) § 10 ods. 5 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
+
+- 74d) § 23a zákona č. 253/1998 Z. z. v znení neskorších predpisov.
 
 - 75) § 2 ods. 2 Obchodného zákonníka.
 
@@ -771,6 +785,8 @@
 - 88i) § 23 a 55 zákona č. 428/2002 Z. z.
 
 - 88ia) § 10 ods. 7 a § 13 ods. 7 zákona č. 428/2002 Z. z.
+
+- 88ib) § 15 zákona č. 224/2006 Z. z. v znení neskorších predpisov.
 
 - 88j) § 90 ods. 1 zákona č. 492/2009 Z. z. v znení zákona č. 373/2018 Z. z.
 
