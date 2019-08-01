@@ -2,7 +2,15 @@
 
 Nariadenie vlády Slovenskej republiky č. 189/2017 Z. z. o poskytovaní pomoci na dodávanie a distribúciu mlieka, ovocia, zeleniny a výrobkov z nich pre deti a žiakov v školských zariadeniach sa mení a dopĺňa takto:
 
+- 1. V § 1 písm. a) sa za slovami „(ďalej len „žiak“)“ vypúšťajú slová „a pre žiakov na stredných školách,<sup>7</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 7 sa vypúšťa.
+
+- 2. V § 1 písm. c) úvodnej vete sa vypúšťajú slová „alebo pre žiakov na stredných školách“.
+
 - 3. V § 1 písm. c) druhom bode sa slová „do ovocného sadu, pestovateľa zeleniny,“ nahrádzajú slovami „u pestovateľa zeleniny, do ovocného sadu,“.
+
+- 4. V § 2 ods. 1 prvej vete sa vypúšťajú slová „a žiakov na stredných školách“.
 
 - 5. § 2 sa dopĺňa odsekom 5, ktorý znie:
 
@@ -17,6 +25,8 @@ Nariadenie vlády Slovenskej republiky č. 189/2017 Z. z. o poskytovaní pomoci 
   - Doterajšie písmená c) až k) sa označujú ako písmená b) až j).
 
   - Poznámka pod čiarou k odkazu 20 sa vypúšťa.
+
+- 8. V § 3 ods. 4 písm. c) sa vypúšťajú slová „alebo žiakom na stredných školách“.
 
 - 9. V § 3 ods. 4 písm. d) a e) sa slová „písmena d)“ nahrádzajú slovami „písmena c)“.
 
@@ -41,6 +51,8 @@ Nariadenie vlády Slovenskej republiky č. 189/2017 Z. z. o poskytovaní pomoci 
 - 14. V § 3 ods. 10 písm. b) sa slová „písm. c) až f) a h) až k)“ nahrádzajú slovami „písm. b) až e) a g) až i)“.
 
 - 15. V § 3 ods. 10 písm. c) sa slová „písm. g)“ nahrádzajú slovami „písm. f)“ a slová „písm. d)“ sa nahrádzajú slovami „písm. c)“.
+
+- 16. V § 4 ods. 3 písm. d) sa vypúšťajú slová „alebo žiakov na stredných školách“.
 
 - 17. V § 4 odseky 7 až 10 znejú:
 
