@@ -38,6 +38,8 @@
 
 - 14b) § 3 ods. 2 zákona č. 492/2009 Z. z.
 
+- 14c) § 10 ods. 6 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
+
 - 15) § 4 ods. 4 zákona č. 523/2004 Z. z.
 
 - 16) § 2 písm. d) prvý bod zákona č. 523/2004 Z. z.
@@ -71,6 +73,8 @@
 - 24f) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
 - 24g) § 66 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov.
+
+- 25) § 5 ods. 3 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
 
 - 26) Napríklad zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
