@@ -4,6 +4,8 @@
 
 - 1aa) § 3 ods. 2 písm. a) zákona č. 422/2015 Z. z. o uznávaní dokladov o vzdelaní a o uznávaní odborných kvalifikácií a o zmene a doplnení niektorých zákonov.
 
+- 1ab) § 9a ods. 1 zákona č. 305/2013 Z. z. v znení zákona č. 273/2015 Z. z.
+
 - 1b) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
 - 1c) § 5 ods. 1 zákona č. 460/2007 Z. z. o Slovenskom Červenom kríži a ochrane znaku a názvu Červeného kríža a o zmene a doplnení niektorých zákonov.
@@ -21,6 +23,8 @@
 - 4) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 5) § 7 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente).
+
+- 6) § 6 ods. 10 zákona č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení zákona č. 211/2019 Z. z.
 
 - 6a) § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 659/2007 Z. z.
 
@@ -52,7 +56,7 @@
 
 - 7b) § 78 zákona č. 71/1967 Zb. v znení zákona č. 527/2003 Z. z.
 
-- 7c) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 7c) § 20 až 27 zákona č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov v znení zákona č. 372/2018 Z. z.
 
 - 7d) § 18d zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
@@ -449,6 +453,10 @@
 - 37g) § 8a zákona č. 15/2005 Z. z. o ochrane druhov voľne žijúcich živočíchov a voľne rastúcich rastlín reguláciou obchodu s nimi a o zmene a doplnení niektorých zákonov v znení zákona č. 452/2007 Z. z.
 
 - 37h) § 13a zákona č. 15/2005 Z. z. v znení zákona č. 447/2012 Z. z.
+
+- 37i) § 2 ods. 3 zákona č. 150/2019 Z. z. o prevencii a manažmente introdukcie a šírenia inváznych nepôvodných druhov a o zmene a doplnení niektorých zákonov.
+
+- 37j) Čl. 9 ods. 1 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1143/2014 z 22. októbra 2014 o prevencii a manažmente introdukcie a šírenia inváznych nepôvodných druhov (Ú. v. EÚ L 317, 4. 11. 2014).
 
 - 38) Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých predpisov.
 

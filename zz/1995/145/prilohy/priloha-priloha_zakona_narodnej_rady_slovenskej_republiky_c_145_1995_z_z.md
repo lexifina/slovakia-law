@@ -274,7 +274,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Oslobodenie | | |
 
-  - 1. Od poplatkov podľa tejto položky sú oslobodené obce a vyššie územné celky, ak žiadajú o vykonanie týchto spoplatňovaných úkonov na účely usporiadania vlastníckych práv k pozemným komunikáciám a ku školám, ktoré prešli do ich pôsobnosti podľa osobitných predpisov. 2. Od poplatkov podľa tejto položky je oslobodená Slovenská správa ciest a Národná diaľničná spoločnosť, a. s., ak žiadajú o vykonanie týchto spoplatňovaných úkonov na účely usporiadania vlastníckych práv k pozemkom pod pozemnými komunikáciami – diaľnicami a rýchlostnými komunikáciami a cestami prvej triedy. 3. Od poplatkov podľa tejto položky sú oslobodené orgány štátnej správy, ich rozpočtové a príspevkové organizácie, ak žiadajú o vykonanie týchto spoplatňovaných úkonov na účely vyhotovenia dokumentácie ochrany prírody a krajiny a zápisu osobitne chránených častí prírody a krajiny do katastra nehnuteľností. 4. Od poplatkov podľa tejto položky sú oslobodené orgány verejnej moci na účely výkonu verejnej moci elektronicky podľa osobitného predpisu.<sup>10g</sup>) | | |
+  - 1. Od poplatkov podľa tejto položky sú oslobodené obce a vyššie územné celky, ak žiadajú o vykonanie týchto spoplatňovaných úkonov na účely usporiadania vlastníckych práv k pozemným komunikáciám a ku školám, ktoré prešli do ich pôsobnosti podľa osobitných predpisov. 2. Od poplatkov podľa tejto položky je oslobodená Slovenská správa ciest a Národná diaľničná spoločnosť, a. s., ak žiadajú o vykonanie týchto spoplatňovaných úkonov na účely usporiadania vlastníckych práv k pozemkom pod pozemnými komunikáciami – diaľnicami a rýchlostnými komunikáciami a cestami prvej triedy. 3. Od poplatkov podľa tejto položky sú oslobodené orgány štátnej správy, ich rozpočtové a príspevkové organizácie, ak žiadajú o vykonanie týchto spoplatňovaných úkonov na účely vyhotovenia dokumentácie ochrany prírody a krajiny a zápisu osobitne chránených častí prírody a krajiny do katastra nehnuteľností alebo výkonu štátneho dozoru na úseku ochrany prírody a krajiny a prevencie a manažmentu introdukcie a šírenia inváznych nepôvodných druhov. 4. Od poplatkov podľa tejto položky sú oslobodené orgány verejnej moci na účely výkonu verejnej moci elektronicky podľa osobitného predpisu.<sup>10g</sup>) | | |
 
   - Poznámky | | |
 
@@ -2642,6 +2642,18 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 3. | podstatná zmena ..... | 60 eur
 
+  - f) | Akreditácia na vykonávanie odbornej prípravy alebo opakovanej odbornej prípravy v oblasti ochrany civilného letectva pred činmi protiprávneho zasahovania | |
+
+  - | 1. | vydanie | 1 000 eur
+
+  - | 2. | zmena | 500 eur
+
+  - g) | Povolenie alebo poverenie na poskytovanie jednotlivých druhov leteckých navigačných služieb; každý druh leteckej navigačnej služby spoplatnený samostatne | |
+
+  - | 1. | vydanie | 5 000 eur
+
+  - | 2. | zmena | 2 500 eur
+
     - Položka 91
 
   - a) | Vydanie rozhodnutia o povolení na prevádzkovanie letiska | | |
@@ -2708,11 +2720,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 7. | leteckého pozemného zariadenia ..... | | 60 eur
 
-  - h) | Schválenie letiskovej prevádzkovej príručky alebo dokumentu, ktorý ho nahrádza, pre letisko so vzletovou a pristávacou dráhou a plochou konečného priblíženia a vzletu | | |
+  - h) | Schválenie letiskovej prevádzkovej príručky alebo dokumentu, ktorý ju nahrádza, pre letisko so vzletovou a pristávacou dráhou a plochou konečného priblíženia a vzletu | | |
 
-  - | 1. | neprístrojovou, bez svetelného zabezpečovacieho zariadenia ..... | | 80 eur
+  - | 1. | neprístrojovou, bez svetelného zabezpečovacieho zariadenia ..... | | 160 eur
 
-  - | 2. | neprístrojovou, so svetelným zabezpečovacím zariadením ..... | | 140 eur
+  - | 2. | neprístrojovou, so svetelným zabezpečovacím zariadením ..... | | 200 eur
 
   - | 3. | prístrojovou na nepresné priblíženie a na presné priblíženie I. kategórie Medzinárodnej organizácie civilného letectva ..... | | 300 eur
 
@@ -2768,13 +2780,41 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - r) | Pridelenie frekvencie v pásmach leteckých telekomunikačných služieb alebo zmena pridelenej frekvencie ..... | | | 200 eur
 
-  - s) | Pridelenie jedinečného identifikačného kódu pre núdzový vysielač polohy ..... | | | 160 eur
+  - s) | Pridelenie jedinečného identifikačného kódu pre núdzový vysielač polohy pre | | |
 
-  - t) | Pridelenie kódu módu S ..... | | | 160 eur
+  - | 1. | lietadlá s maximálnou vzletovou hmotnosťou do 5 700 kg | | 60 eur
+
+  - | 2. | lietadlá s maximálnou vzletovou hmotnosťou nad 5 700 kg vrátane | | 160 eur
+
+  - t) | Pridelenie kódu módu S pre | | |
+
+  - | 1. | lietadlá s maximálnou vzletovou hmotnosťou do 5 700 kg | | 60 eur
+
+  - | 2. | lietadlá s maximálnou vzletovou hmotnosťou nad 5 700 kg vrátane | | 160 eur
 
   - u) | Súhlas s prevádzkovaním vybraného rádiového zariadenia leteckej telekomunikačnej služby ..... | | | 40 eur
 
-  - v) | Vydanie duplikátu o pridelení frekvencie v pásmach leteckých telekomunikačných služieb alebo o zmene frekvencie v pásmach leteckých telekomunikačných služieb alebo o pridelení jedinečného identifikačného kódu pre núdzový vysielač polohy alebo o pridelení kódu módu S ..... | | | 40 eur“.
+  - v) | Vydanie duplikátu o pridelení frekvencie v pásmach leteckých telekomunikačných služieb alebo o zmene frekvencie v pásmach leteckých telekomunikačných služieb alebo o pridelení jedinečného identifikačného kódu pre núdzový vysielač polohy alebo o pridelení kódu módu S ..... | | | 40 eur
+
+  - w) | Osvedčenie poskytovateľa leteckých navigačných služieb; každý druh leteckej navigačnej služby spoplatnený jednotlivo | | |
+
+  - | 1. | vydanie | | 4 000 eur
+
+  - | 2. | zmena | | 500 eur
+
+  - x) | Rozhodnutie o určení podmienok na prevádzkovanie osobitného letiska | | |
+
+  - | 1. | vydanie | | 250 eur
+
+  - | 2. | zmena | | 100 eur
+
+  - y) | Prevádzková príručka osobitného letiska | | |
+
+  - | 1. | schválenie prevádzkovej príručky | | 160 eur
+
+  - | 2. | zmena prevádzkovej príručky | | 40 eur
+
+  - z) | Schválenie zmeny letiskovej prevádzkovej príručky alebo dokumentu, ktorý ju nahrádza | | | 25 % príslušnej sadzby podľa písmena h)
 
     - Položka 91a
 
@@ -4375,6 +4415,10 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
     - Položka 161e
 
   - Udelenie licencie na výrobu alebo distribúciu krúžkov<sup>37h</sup>) na účely nezameniteľného označenia vtákov ..... | 100 eur
+
+    - Položka 161f
+
+  - Vydanie rozhodnutia o povolení činnosti podľa osobitného predpisu<sup>37i</sup>) z dôvodov podľa osobitného predpisu<sup>37j</sup>) | 100 eur
 
     - Položka 162
 
