@@ -262,6 +262,18 @@
 
 - § 4 vyhlášky Ministerstva financií Slovenskej republiky č. 58/1993 Z. z., ktorou sa vykonáva zákon Slovenskej národnej rady č. 317/1992 Zb. o dani z nehnuteľností.
 
+- 23rd) § 49 ods. 1 písm. d) zákona č. 305/2013 Z. z. v znení zákona č. 211/2019 Z. z.
+
+- 23re) § 7 ods. 1 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov v znení zákona č. 52/2018 Z. z.
+
+- 23rf) § 23a ods. 2 zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
+
+- 23rg) § 20 písm. a) zákona Národnej rady Slovenskej republiky č. 215/1995 Z. z. v znení zákona č. 600/2008 Z. z.
+
+- 23rh) § 10 ods. 11 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
+
+- 23ri) § 55 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
+
 - 23s) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
 - 23sa) § 3 ods. 2 druhá veta zákona č. 103/2007 Z. z. o trojstranných konzultáciách na celoštátnej úrovni a o zmene a doplnení niektorých zákonov (zákon o tripartite).
