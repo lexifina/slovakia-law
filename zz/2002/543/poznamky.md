@@ -32,11 +32,19 @@
 
 - 18a) § 48 zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení zákona č. 384/2009 Z. z.
 
-- 19) Príloha č. 1 k zákonu č. 138/2010 Z. z. o lesnom reprodukčnom materiáli v znení neskorších predpisov.
+- 19) Čl. 3 ods. 1 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1143/2014 z 22. októbra 2014 o prevencii a manažmente introdukcie a šírenia inváznych nepôvodných druhov (Ú. v. EÚ L 317, 4. 11. 2014).
 
-- 20) § 139a ods. 8 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 20) § 2 ods. 1 zákona č. 150/2019 Z. z. o prevencii a manažmente introdukcie a šírenia inváznych nepôvodných druhov a o zmene a doplnení niektorých zákonov.
 
-- 21) § 40 zákona č. 326/2005 Z. z. v znení neskorších predpisov.
+- Vykonávacie nariadenie Komisie (EÚ) 2016/1141 z 13. júla 2016, ktorým sa prijíma zoznam inváznych nepôvodných druhov vzbudzujúcich obavy Únie podľa nariadenia Európskeho parlamentu a Rady (EÚ) č. 1143/2014 (Ú. v. EÚ L 189, 14. 7. 2016) v platnom znení.
+
+- 21) Zákon č. 150/2019 Z. z. o prevencii a manažmente introdukcie a šírenia inváznych nepôvodných druhov a o zmene a doplnení niektorých zákonov.
+
+- Nariadenie (EÚ) č. 1143/2014.
+
+- 21a) Príloha č. 5 k vyhláške Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).
+
+- 21b) § 40 ods. 1 zákona č. 326/2005 Z. z. o lesoch v znení neskorších predpisov.
 
 - 22) § 8 ods. 2 a § 20 až 31 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
@@ -124,6 +132,10 @@
 
 - § 6 a 7 vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 5/1995 Z. z.
 
+- 58a) § 2 ods. 1 zákona č. 150/2019 Z. z.
+
+- Vykonávacie nariadenie (EÚ) 2016/1141 v platnom znení.
+
 - 59) Napríklad § 25 zákona č. 124/1992 Zb. o Vojenskej polícii, § 53 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov, § 7 ods. 3 zákona Národnej rady Slovenskej republiky č. 255/1994 Z. z. o poľnej stráži.
 
 - 59a) Napríklad Dohovor o mokradiach majúcich medzinárodný význam predovšetkým ako biotopy vodného vtáctva (oznámenie č. 396/1990 Zb.), Dohovor o ochrane svetového kultúrneho a prírodného dedičstva (oznámenie č. 159/1991 Zb.), Dohovor o biologickej diverzite (oznámenie č. 34/1996 Z. z.), Dohovor o ochrane sťahovavých druhov voľne žijúcich živočíchov (oznámenie č. 91/1998 Z. z.), Dohovor o ochrane európskych voľne žijúcich organizmov a prírodných stanovíšť (oznámenie č. 93/1998 Z. z.), Dohoda o ochrane netopierov v Európe (oznámenie č. 250/1999 Z. z.), Dohoda o ochrane africko-euroázijských druhov vodného sťahovavého vtáctva (oznámenie č. 268/2002 Z. z.), Rámcový dohovor o ochrane a trvalo udržateľnom rozvoji Karpát (oznámenie č. 111/2006 Z. z.).
@@ -142,7 +154,7 @@
 
 - 64b) § 3 písm. e) zákona č. 24/2006 Z. z.
 
-- 64c) § 14 a 37 zákona č. 24/2006 Z. z.
+- 64c) § 3 ods. 2 až 5 a § 4 ods. 1 a 3 zákona č. 150/2019 Z. z.
 
 - 64d) § 15 ods. 4 a § 38 ods. 4 zákona č. 24/2006 Z. z. v znení zákona č. 117/2010 Z. z.
 
@@ -383,3 +395,5 @@
 - 123) § 140b zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
 
 - 124) § 41 ods. 9 zákona č. 326/2005 Z. z.
+
+- 125) Príloha č. 1 zákona č. 138/2010 Z. z.
