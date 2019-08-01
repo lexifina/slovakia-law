@@ -6,6 +6,10 @@
 
 - 1aa) Zákon č. 402/2013 Z. z. o Úrade pre reguláciu elektronických komunikácií a poštových služieb a Dopravnom úrade a o zmene a doplnení niektorých zákonov.
 
+- 1ab) Nariadenie Komisie (EÚ) č. 139/2014 z 12. februára 2014, ktorým sa stanovujú požiadavky a administratívne postupy týkajúce sa letísk podľa nariadenia Európskeho parlamentu a Rady (ES) č. 216/2008 (Ú. v. EÚ L 44, 14. 2. 2014) v platnom znení.
+
+- Dohovor o medzinárodnom civilnom letectve (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 196/1995 Z. z).
+
 - 1b) § 180a Trestného zákona.
 
 - 1c) § 180c Trestného zákona.
@@ -41,6 +45,12 @@
 - Nariadenie Komisie (EÚ) č. 805/2011 z 10. augusta 2011, ktorým sa ustanovujú podrobné pravidlá udeľovania preukazov spôsobilosti a niektorých osvedčení riadiacich letovej prevádzky podľa nariadenia Európskeho parlamentu a Rady (ES) č. 216/2008 (Ú. v. EÚ L 206, 11. 08. 2011).
 
 - Príloha I nariadenia Komisie (EÚ) č. 1178/2011 z 3. novembra 2011, ktorým sa ustanovujú technické požiadavky a administratívne postupy týkajúce sa posádky civilného letectva podľa nariadenia Európskeho parlamentu a Rady (ES) č. 216/2008 (Ú. v. EÚ L 311, 25. 11. 2011) v platnom znení.
+
+- 3aaa) Čl. 2 bod 95 vykonávacieho nariadenia Komisie (EÚ) č. 923/2012 z 26. septembra 2012, ktorým sa stanovujú spoločné pravidlá lietania a prevádzkové stanovenia týkajúce sa služieb a postupov v letovej prevádzke a ktorým sa mení a dopĺňa vykonávacie nariadenie (EÚ) č. 1035/2011 a nariadenia (ES) č. 1265/2007, (ES) č. 1794/2006, (ES) č. 730/2006, (ES) č. 1033/2006 a (EÚ) č. 255/2010 (Ú. v. EÚ L 281, 13. 10. 2012) v platnom znení.
+
+- 3aab) Čl. 2 bod 118 vykonávacieho nariadenia (EÚ) č. 923/2012 v platnom znení.
+
+- 3aac) Napríklad bod CAT.IDE.A.280 a bod CAT.IDE.H.280 prílohy IV nariadenia Komisie (EÚ) č. 965/2012 z 5. októbra 2012, ktorým sa ustanovujú technické požiadavky a administratívne postupy týkajúce sa leteckej prevádzky podľa nariadenia Európskeho parlamentu a Rady (ES) č. 216/2008 (Ú. v. EÚ L 296, 25. 10. 2012) v platnom znení, Dohovor o medzinárodnom civilnom letectve (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 196/1995 Z. z.).
 
 - 3ab) Čl. 7 a 8c nariadenia (ES) č. 216/2008 v platnom znení.
 
@@ -84,6 +94,8 @@
 
 - 8aa) Hlava III nariadenia Európskeho parlamentu a Rady (ES) č. 562/2006 z 15. marca 2006, ktorým sa ustanovuje kódex Spoločenstva o pravidlách upravujúcich pohyb osôb cez hranice (Kódex schengenských hraníc) (Ú. v. EÚ L 105, 13. 4. 2006) v platnom znení.
 
+- 8aaa) § 10 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
 - 8ab) Príloha VI bod 2.1.1. nariadenia (ES) č. 562/2006.
 
 - 8ac) Čl. 2 ods. 3 nariadenia (ES) č. 562/2006.
@@ -96,16 +108,6 @@
 
 - 8c) Nariadenie Rady (EHS) č. 95/93 z 18. januára 1993 o spoločných pravidlách prideľovania prevádzkových intervalov na letiskách Spoločenstva (Úradný vestník Európskych spoločenstiev L 014, 22. 01. 1993).
 
-- 8ca) Čl. 9 nariadenia Komisie (ES) č. 1794/2006 zo 6. decembra 2006, ktorým sa stanovuje spoločný systém spoplatňovania leteckých navigačných služieb (Ú. v. EÚ L 341, 7. 12. 2006) v platnom znení.
-
-- 8cb) Nariadenie (ES) č. 1794/2006.
-
-- 8cc) Nariadenie vlády Slovenskej republiky č. 641/2005 Z. z. o prístupe na trh služieb na vybavenie cestujúcich a nákladu a pozemnej obsluhy lietadiel.
-
-- 8cd) Nariadenie Európskeho parlamentu a Rady (ES) č. 1107/2006 z 5. júla 2006 o právach zdravotne postihnutých osôb a osôb so zníženou pohyblivosťou v leteckej doprave (Ú. v. EÚ L 204, 26. 7. 2006).
-
-- 8ce) Zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
-
 - 8d) 20. bod prílohy nariadenia Európskeho parlamentu a Rady (ES) č. 2320/2002 zo 16. decembra 2002 o ustanovení spoločných pravidiel v oblasti bezpečnostnej ochrany civilného letectva (Úradný vestník Európskej únie L 355, 30. 12. 2002).
 
 - 8e) 7.2. bod prílohy nariadenia Európskeho parlamentu a Rady (ES) č. 2320/2002 zo 16. decembra 2002 o ustanovení spoločných pravidiel v oblasti bezpečnostnej ochrany civilného letectva (Úradný vestník Európskej únie L 355, 30. 12. 2002).
@@ -115,8 +117,6 @@
 - 9) Vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch.
 
 - 9a) Článok 5 nariadenia Rady (EHS) č. 2407/92 z 23. júla 1992 o licencovaní leteckých dopravcov (Úradný vestník Európskych spoločenstiev L 240, 24. 08. 1992).
-
-- 9aa) § 10 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
 
 - 9b) Nariadenie Rady (ES) č. 2408/92 z 23. júla 1992 o prístupe leteckých dopravcov spoločenstva k letovým trasám v rámci spoločenstva (Úradný vestník Európskych spoločenstiev L 169, 27. 06. 1997).
 
@@ -144,23 +144,23 @@
 
 - 11be) Napríklad nariadenie (ES) č. 2042/2003 v platnom znení, nariadenie (ES) č. 216/2008 v platnom znení, nariadenie (EÚ) č. 805/2011, nariadenie (EÚ) č. 1178/2011 v platnom znení, nariadenie Komisie (EÚ) č. 748/2012 z 3. augusta 2012 stanovujúce vykonávacie pravidlá osvedčovania letovej spôsobilosti a environmentálneho osvedčovania lietadiel a prislúchajúcich výrobkov, častí a zariadení, ako aj osvedčovania projekčných a výrobných organizácií (prepracované znenie) (Ú. v. EÚ L 224, 21. 08. 2012) v platnom znení, vykonávacie nariadenie Komisie (EÚ) č. 923/2012 z 26. septembra 2012, ktorým sa stanovujú spoločné pravidlá lietania a prevádzkové ustanovenia týkajúce sa služieb a postupov v letovej prevádzke a ktorým sa mení a dopĺňa vykonávacie nariadenie (EÚ) č. 1035/2011 a nariadenia (ES) č. 1265/2007, (ES) č. 1794/2006, (ES) č. 730/2006, (ES) č. 1033/2006 a (EÚ) č. 255/2010 (Ú. v. EÚ L 281, 13. 10. 2012), nariadenie Komisie (EÚ) č. 965/2012 z 5. októbra 2012, ktorým sa ustanovujú technické požiadavky a administratívne postupy týkajúce sa leteckej prevádzky podľa nariadenia Európskeho parlamentu a Rady (ES) č. 216/2008 (Ú. v. EÚ L 296, 25. 10. 2012) v platnom znení.
 
+- 11bf) Bod ADR.OR.E.005 prílohy III nariadenia Komisie (EÚ) č. 139/2014 z 12. februára 2014, ktorým sa stanovujú požiadavky a administratívne postupy týkajúce sa letísk podľa nariadenia Európskeho parlamentu a Rady (ES) č. 216/2008 (Ú. v. EÚ L 44, 14. 2. 2014) v platnom znení.
+
+- Dohovor o medzinárodnom civilnom letectve (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 196/1995 Z. z.).
+
 - 11c) Napríklad nariadenie Európskeho parlamentu a Rady (ES) č. 1592/2002 z 15. júla 2002 o spoločných pravidlách v oblasti civilného letectva a zriadení Európskej agentúry pre bezpečnosť letectva (EASA) (Úradný vestník Európskych spoločenstiev L 240, 07. 09. 2002) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 1643/2003 z 22. júla 2003 (Úradný vestník Európskej únie L 245, 29. 09. 2003), nariadenie Európskeho parlamentu a Rady (ES) č. 2320/2002 zo 16. decembra 2002 o ustanovení spoločných pravidiel v oblasti bezpečnostnej ochrany civilného letectva (Úradný vestník Európskych spoločenstiev L 355, 30. 12. 2002) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 849/2004 z 29. apríla 2004 (Úradný vestník Európskej únie L 158, 30. 04. 2004), nariadenie Komisie (ES) č. 622/2003 zo 4. apríla 2003 o ustanovení opatrení na vykonávanie spoločných základných noriem bezpečnostnej ochrany civilného letectva (Úradný vestník Európskej únie L 10, 16. 01. 2004) v znení nariadenia Komisie (ES) č. 68/2004 z 15. januára 2004 (Úradný vestník Európskej únie L 10, 16. 01. 2004).
 
 - 11ca) Čl. 14 nariadenia (ES) č. 216/2008 v platnom znení.
 
 - 11d) Napríklad nariadenie Komisie (ES) č. 1486/2003 z 22. augusta 2003, ustanovujúce postupy pre vykonávanie inšpekcií Komisie v oblasti bezpečnostnej ochrany civilného letectva (Úradný vestník Európskej únie L 213, 23. 08. 2003).
 
-- 11e) Čl. 5 ods. 2 nariadenia Komisie (ES) č. 1794/2006 zo 6. decembra 2006, ktorým sa stanovuje spoločný systém spoplatňovania leteckých navigačných služieb (Ú. v. EÚ L 341, 7. 12. 2006).
-
-- 11f) § 23 ods. 1 a 2 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 11g) Čl. 20, 21, 22a, 22b, 23 a 55 nariadenia (ES) č. 216/2008 v platnom znení.
-
 - 11h) Čl. 15 a 16 nariadenia (EÚ) č. 805/2011.
 
 - Príloha IV nariadenia (EÚ) č. 1178/2011 v platnom znení.
 
 - 11i) Napríklad nariadenie Európskeho parlamentu a Rady (ES) č. 550/2004 z 10. marca 2004 o poskytovaní letových navigačných služieb v jednotnom európskom nebi (nariadenie o poskytovaní služieb) (Mimoriadne vydanie Ú. v. EÚ, kap. 7/zv. 8; Ú. v. EÚ L 96, 31. 3. 2004) v platnom znení, nariadenie (ES) č. 216/2008 v platnom znení, nariadenie (EÚ) č. 1178/2011 v platnom znení, nariadenie (EÚ) č. 748/2012 v platnom znení, vykonávacie nariadenie (EÚ) č. 923/2012 v platnom znení, nariadenie (EÚ) č. 965/2012 v platnom znení, nariadenie Komisie (EÚ) č. 139/2014 z 12. februára 2014, ktorým sa stanovujú požiadavky a administratívne postupy týkajúce sa letísk podľa nariadenia Európskeho parlamentu a Rady (ES) č. 216/2008 (Ú. v. EÚ L 44, 14. 2. 2014), nariadenie Komisie (EÚ) č. 1321/2014 z 26. novembra 2014 o zachovaní letovej spôsobilosti lietadiel a výrobkov, súčastí a zariadení leteckej techniky a o schvaľovaní organizácií a personálu zapojených do týchto činností (Ú. v. EÚ L 362, 17. 12. 2014) v platnom znení, nariadenie Komisie (EÚ) 2015/340 z 20. februára 2015, ktorým sa stanovujú technické požiadavky a administratívne postupy týkajúce sa preukazov a osvedčení riadiacich letovej prevádzky podľa nariadenia Európskeho parlamentu a Rady (ES) č. 216/2008 a ktorým sa mení vykonávacie nariadenie Komisie (EÚ) č. 923/2012 a zrušuje nariadenie Komisie (EÚ) č. 805/2011 (Ú. v. EÚ L 63, 6. 3. 2015), vykonávacie nariadenie Komisie (EÚ) 2015/1998 z 5. novembra 2015, ktorým sa stanovujú podrobné opatrenia na vykonávanie spoločných základných noriem bezpečnostnej ochrany letectva (Ú. v. EÚ L 299, 14. 11. 2015) v platnom znení.
+
+- 11j) Napríklad čl. 2 ods. 99 nariadenia (EÚ) č. 923/2012 v platnom znení, body 63, 86a, 87 a 99 prílohy I nariadenia (EÚ) č. 965/2012 v platnom znení.
 
 - 12) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
@@ -173,21 +173,3 @@
 - Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 130/1999 Z. z. o Dohode o vývoji, prijatí a zavedení jednotných leteckých predpisov z 11. septembra 1990.
 
 - Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 84/2000 Z. z. o pristúpení Slovenskej republiky k Medzinárodnému dohovoru EUROCONTROL týkajúceho sa spolupráce v záujme bezpečnosti letovej prevádzky, zmeneného a doplneného v Bruseli v roku 1981.
-
-- 14a) Príloha 1 bod 4 nariadenia Komisie (EÚ) č. 139/2014 z 12. februára 2014, ktorým sa stanovujú požiadavky a administratívne postupy týkajúce sa letísk podľa nariadenia Európskeho parlamentu a Rady (ES) č. 216/2008 (Ú. v. EÚ L 44, 14. 2. 2014).
-
-- 14b) Dohovor o medzinárodnom civilnom letectve (oznámenie č. 196/1995 Z. z.).
-
-- 14c) Čl. 107 a 108 Zmluvy o fungovaní Európskej únie v platnom znení (Ú. v. EÚ C 326, 26.10. 2012).
-
-- Zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
-
-- 14d) § 8a zákona č. 523/2004 Z. z. v znení neskorších predpisov.
-
-- 14e) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 14f) § 31 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
-
-- 15) § 9 ods. 4 zákona č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
-
-- 16) Zákon č. 136/2004 Z. z. o letiskových spoločnostiach a o zmene a doplnení zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení zákona č. 37/2002 Z. z.
