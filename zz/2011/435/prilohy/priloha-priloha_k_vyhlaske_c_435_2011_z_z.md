@@ -1,1 +1,1 @@
-Príloha k vyhláške č. 435/2011 Z. z. [Príloha k vyhláške č. 435/2011 Z. z.](../assets/057104688cd172b4919d5d823f013f763be41df52c07e51f11f7c19496a28658.pdf)
+Príloha k vyhláške č. 435/2011 Z. z. [Príloha k vyhláške č. 435/2011 Z. z.](../assets/d2c69bb8be62202f3fe4234630efaf69dc8362c84073661c7fd2ccbf21edca81.pdf)
