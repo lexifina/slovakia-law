@@ -20,7 +20,7 @@
 
 - c) má vnútornú organizačnú štruktúru a systém riadenia kvality na vykonávanie technických prehliadok odsúhlasený akreditačným orgánom<sup>12e</sup>) alebo iným národným akreditačným orgánom<sup>12f</sup>) podľa technickej normy<sup>12fa</sup>) alebo obdobnej technickej špecifikácie,
 
-- d) preukáže svoju bezúhonnosť a bezúhonnosť členov štatutárneho orgánu alebo zodpovedného zástupcu, ak je ustanovený; bezúhonnosť sa preukazuje výpisom z registra trestov, pre potreby preukázania bezúhonnosti právnická osoba a členovia štatutárneho orgánu alebo zodpovedný zástupca, ak je ustanovený, poskytnú ministerstvu údaje potrebné na vyžiadanie výpisu z registra trestov<sup>11a</sup>) a súhlas s ich spracovaním, ak ide o cudzinca s trvalým pobytom mimo územia Slovenskej republiky, predloží tento výpis z registra trestov alebo obdobný doklad nie starší ako tri mesiace.
+- d) preukáže svoju bezúhonnosť a bezúhonnosť členov štatutárneho orgánu alebo zodpovedného zástupcu, ak je ustanovený; bezúhonnosť sa preukazuje výpisom z registra trestov, pre potreby preukázania bezúhonnosti právnická osoba a členovia štatutárneho orgánu alebo zodpovedný zástupca, ak je ustanovený, poskytnú ministerstvu údaje potrebné na vyžiadanie výpisu z registra trestov,<sup>11a</sup>) ak ide o cudzinca s trvalým pobytom mimo územia Slovenskej republiky, predloží tento výpis z registra trestov alebo obdobný doklad nie starší ako tri mesiace.
 
 (8) Poverenie podľa odseku 7 ministerstvo udelí na dobu určitú, najviac do uplynutia času platnosti akreditácie uvedeného v osvedčení o akreditácii.<sup>12e</sup>) Poverená právnická osoba je povinná oznámiť ministerstvu všetky zmeny týkajúce sa podmienok podľa odseku 7 do 15 pracovných dní od vzniku týchto zmien.
 

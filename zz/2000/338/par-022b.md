@@ -12,11 +12,13 @@
 
 - b) má vnútornú organizačnú štruktúru a systém riadenia kvality na vykonávanie technických prehliadok odsúhlasený akreditačným orgánom<sup>12e</sup>) alebo iným národným akreditačným orgánom<sup>12f</sup>) podľa technickej normy<sup>12fa</sup>) alebo obdobnej technickej špecifikácie,
 
-- c) preukáže svoju bezúhonnosť a bezúhonnosť členov štatutárneho orgánu alebo zodpovedného zástupcu, ak je ustanovený; bezúhonnosť sa preukazuje výpisom z registra trestov, pre potreby preukázania bezúhonnosti poskytnú Dopravnému úradu fyzická osoba a zodpovedný zástupca, ak je ustanovený, alebo právnická osoba a členovia štatutárneho orgánu alebo zodpovedný zástupca, ak je ustanovený, údaje potrebné na vyžiadanie výpisu z registra trestov<sup>11a</sup>) a súhlas s ich spracovaním, ak ide o cudzinca s trvalým pobytom mimo územia Slovenskej republiky, predloží tento výpis z registra trestov alebo obdobný doklad nie starší ako tri mesiace.
+- c) preukáže svoju bezúhonnosť a bezúhonnosť členov štatutárneho orgánu alebo zodpovedného zástupcu, ak je ustanovený.
 
-(5) Dopravný úrad vydá poverenie podľa odseku 4 na dobu určitú, najviac do uplynutia času platnosti akreditácie uvedeného v osvedčení o akreditácii.<sup>12e</sup>) Osoba poverená podľa odseku 4 je povinná oznámiť Dopravnému úradu všetky zmeny týkajúce sa podmienok podľa odseku 4 do 15 pracovných dní od vzniku týchto zmien.
+(5) Bezúhonnosť podľa odseku 4 písm. c) sa preukazuje výpisom z registra trestov. Na účel preukázania bezúhonnosti poskytnú Dopravnému úradu fyzická osoba a zodpovedný zástupca, ak je ustanovený, alebo právnická osoba a členovia štatutárneho orgánu alebo zodpovedný zástupca, ak je ustanovený, údaje potrebné na vyžiadanie výpisu z registra trestov.<sup>11a</sup>) Údaje podľa druhej vety Dopravný úrad bezodkladne zašle v elektronickej podobe prostredníctvom elektronickej komunikácie Generálnej prokuratúre Slovenskej republiky na vydanie výpisu z registra trestov. Cudzinec s trvalým pobytom mimo územia Slovenskej republiky predloží výpis z registra trestov alebo obdobný doklad nie starší ako tri mesiace.
 
-(6) Dopravný úrad odníme osobe poverenej podľa odseku 4 poverenie, ak
+(6) Dopravný úrad vydá poverenie podľa odseku 4 na dobu určitú, najviac do uplynutia času platnosti akreditácie uvedeného v osvedčení o akreditácii.<sup>12e</sup>) Osoba poverená podľa odseku 4 je povinná oznámiť Dopravnému úradu všetky zmeny týkajúce sa podmienok podľa odseku 4 do 15 pracovných dní od vzniku týchto zmien.
+
+(7) Dopravný úrad odníme osobe poverenej podľa odseku 4 poverenie, ak
 
 - a) prestane spĺňať požiadavky podľa odseku 4,
 
@@ -24,10 +26,10 @@
 
 - c) opakovane v súvislosti s činnosťou, na ktorú bola poverená, poruší tento zákon alebo všeobecne záväzný právny predpis vydaný na jeho vykonanie.
 
-(7) Pred uplynutím platnosti lodného osvedčenia malého plavidla sa malé plavidlo opätovne podrobí technickej prehliadke. Ak malé plavidlo spĺňa požiadavky na technickú spôsobilosť podľa tohto zákona a všeobecne záväzných právnych predpisov vydaných na jeho vykonanie aj po opätovnej technickej prehliadke, Dopravný úrad predĺži platnosť lodného osvedčenia malého plavidla.
+(8) Pred uplynutím platnosti lodného osvedčenia malého plavidla sa malé plavidlo opätovne podrobí technickej prehliadke. Ak malé plavidlo spĺňa požiadavky na technickú spôsobilosť podľa tohto zákona a všeobecne záväzných právnych predpisov vydaných na jeho vykonanie aj po opätovnej technickej prehliadke, Dopravný úrad predĺži platnosť lodného osvedčenia malého plavidla.
 
-(8) Doba platnosti lodného osvedčenia malého plavidla sa určí na základe výsledkov technickej prehliadky malého plavidla a vyznačí sa v lodnom osvedčení malého plavidla.
+(9) Doba platnosti lodného osvedčenia malého plavidla sa určí na základe výsledkov technickej prehliadky malého plavidla a vyznačí sa v lodnom osvedčení malého plavidla.
 
-(9) Ak je malé plavidlo dostatočne technicky spôsobilé, možno výnimočne na základe odôvodnenej žiadosti prevádzkovateľa plavidla a bez vykonania technickej prehliadky malého plavidla rozhodnúť o vydaní osobitného povolenia na prevádzku plavidla (§ 28 ods. 10) na dobu najviac šiestich mesiacov.
+(10) Ak je malé plavidlo dostatočne technicky spôsobilé, možno výnimočne na základe odôvodnenej žiadosti prevádzkovateľa plavidla a bez vykonania technickej prehliadky malého plavidla rozhodnúť o vydaní osobitného povolenia na prevádzku plavidla (§ 28 ods. 10) na dobu najviac šiestich mesiacov.
 
-(10) Podrobnosti o technickej spôsobilosti plavidla, ktoré podlieha registrácii a súčasne nepodlieha povinnej klasifikácii, ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.
+(11) Podrobnosti o technickej spôsobilosti plavidla, ktoré podlieha registrácii a súčasne nepodlieha povinnej klasifikácii, ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.
