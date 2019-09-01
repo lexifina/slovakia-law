@@ -39,3 +39,5 @@
 - 16) § 32 až 38 zákona č. 378/2015 Z. z. o dobrovoľnej vojenskej príprave a o zmene a doplnení niektorých zákonov.
 
 - 17) § 14c ods. 1 písm. a), c) a d), § 14h a 19b zákona č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 18) § 8 ods. 1 druhá veta zákona č. 600/2003 Z. z. v znení zákona č. 226/2019 Z. z.
