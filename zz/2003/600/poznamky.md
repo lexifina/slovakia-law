@@ -74,6 +74,8 @@
 
 - 18da) § 40 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení zákona č. 180/2011 Z. z.
 
+- 18db) § 19, § 20, § 157 ods. 3 a § 158 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
+
 - 18e) § 5 zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov.
 
 - 19) § 2 ods. 1, 5 a 8 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
