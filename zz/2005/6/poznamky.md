@@ -1,1 +1,0 @@
-- 1) Zákon č. 293/2007 Z. z. o uznávaní odborných kvalifikácií v znení zákona č. 560/2008 Z. z.
