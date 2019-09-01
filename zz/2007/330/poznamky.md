@@ -8,11 +8,15 @@
 
 - 4) Zákon Národnej rady Slovenskej republiky č. 300/1993 Z. z. o mene a priezvisku v znení neskorších predpisov.
 
+- 4a) Zákon č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov v znení zákona č. 52/2018 Z. z.
+
 - 5) § 2 a § 7 ods. 1 a ods. 3 písm. e) až g) zákona č. 599/2001 Z. z. o osvedčovaní listín a podpisov na listinách obvodnými úradmi a obcami v znení zákona č. 515/2003 Z. z.
 
-- 6) Napríklad zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 8/2005 Z. z. o správcoch a o zmene a doplnení niektorých zákonov a zákon č. 15/2005 Z. z. o ochrane druhov voľne žijúcich živočíchov a voľne rastúcich rastlín reguláciou obchodu s nimi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 6) Napríklad § 15c ods. 1 zákona Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov, § 3 ods. 5 a 6 zákona č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení zákona č. 177/2018 Z. z., § 38 ods. 5 zákona č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratívnej záťaže využívaním informačných systémov verejnej správy a o zmene a doplnení niektorých zákonov (zákon proti byrokracii) v znení zákona č. 221/2019 Z. z.
 
-- 6a) Napríklad § 15c ods. 1 zákona Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov, § 3 ods. 4 zákona č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov, § 38 ods. 5 zákona č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov, zákon č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratívnej záťaže využívaním informačných systémov verejnej správy a o zmene a doplnení niektorých zákonov (zákon proti byrokracii).
+- 6a) § 23a až 23c zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a o registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
+
+- Zákon č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov v znení zákona č. 52/2018 Z. z.
 
 - 7) Zákon č. 473/2005 Z. z. o poskytovaní služieb v oblasti súkromnej bezpečnosti a o zmene a doplnení niektorých zákonov (zákon o súkromnej bezpečnosti).
 
@@ -29,6 +33,8 @@
 - 12) Zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve v znení neskorších predpisov.
 
 - 13) Napríklad § 9 ods. 1 zákona č. 276/2001 Z. z. o regulácii v sieťových odvetviach a o zmene a doplnení niektorých zákonov v znení zákona č. 107/2007 Z. z., § 3 ods. 4, § 24 a 25 zákona č. 185/2002 Z. z. o Súdnej rade Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení zákona č. 426/2003 Z. z.
+
+- 13a) § 119a ods. 3 a § 119b ods. 2 písm. a) zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 14) § 3 ods. 4, § 24 a 25 zákona č. 185/2002 Z. z. v znení zákona č. 426/2003 Z. z.
 
