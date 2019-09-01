@@ -54,6 +54,24 @@ Zákon č. 544/2010 Z. z. o dotáciách v pôsobnosti Ministerstva práce, soci�
 
 - v základnej škole je najmenej 50 % detí z domácností, ktorým sa poskytuje pomoc v hmotnej núdzi.“.
 
+- 5. V § 4 odsek 3 znie:
+
+- „(3)
+
+- Dotáciu na podporu výchovy k stravovacím návykom dieťaťa možno poskytnúť na zabezpečenie obeda a iného jedla (ďalej len „strava“) v materskej škole<sup>33</sup>) a v základnej škole<sup>34</sup>) na každé dieťa, ktoré navštevuje
+
+- a)
+
+- posledný ročník materskej školy alebo základnú školu,
+
+- b)
+
+- materskú školu, okrem dieťaťa navštevujúceho posledný ročník materskej školy, a žije v domácnosti, ktorej sa poskytuje pomoc v hmotnej núdzi alebo ktorej príjem je najviac vo výške životného minima,
+
+- c)
+
+- materskú školu, ak v materskej škole, okrem dieťaťa navštevujúceho posledný ročník materskej školy, je najmenej 50 % detí z domácností, ktorým sa poskytuje pomoc v hmotnej núdzi.“.
+
 - 6. V § 4 ods. 4 úvodnej vete sa za slovami „návykom dieťaťa“ vypúšťajú slová „ohrozeného sociálnym vylúčením“ a v písmenách a) až c) sa slovo „obvodný“ nahrádza slovom „okresný“.
 
 - 7. V § 4 odseky 6 až 11 znejú:
@@ -118,6 +136,56 @@ Zákon č. 544/2010 Z. z. o dotáciách v pôsobnosti Ministerstva práce, soci�
 
   - „<sup>34b</sup>) § 140 ods. 5 zákona č. 245/2008 Z. z.“.
 
+- 8. V § 4 odseky 7 až 10 znejú:
+
+- „(7)
+
+- Dotácia na podporu výchovy k stravovacím návykom dieťaťa sa poskytuje preddavkovo do 25. januára na obdobie od 1. januára do 31. augusta a do 25. augusta na obdobie od 1. septembra do 31. decembra, ak bola žiadosť o poskytnutie dotácie podaná do 10. januára príslušného rozpočtového roka. Ak bola dotácia na podporu výchovy k stravovacím návykom dieťaťa poskytnutá podľa odseku 3 písm. b) a žiadateľ oznámi zmenu podľa odseku 10 písm. a) druhého bodu, na základe ktorej má byť dotácia na podporu výchovy k stravovacím návykom dieťaťa poskytnutá podľa odseku 3 písm. c), doplatok dotácie sa poskytne do 25. dňa kalendárneho mesiaca nasledujúceho po mesiaci, v ktorom bola zmena oznámená, na obdobie odo dňa zmeny do 31. augusta alebo do 31. decembra, ak zmena nastala po 31. auguste. Ak žiadosť o poskytnutie dotácie nebola podaná podľa prvej vety a bola podaná
+
+- a)
+
+- do 10. dňa kalendárneho mesiaca, dotácia na podporu výchovy k stravovacím návykom dieťaťa sa poskytuje preddavkovo do 25. dňa kalendárneho mesiaca, v ktorom bola podaná žiadosť o poskytnutie dotácie, na obdobie od 1. dňa kalendárneho mesiaca, v ktorom bola podaná žiadosť o poskytnutie dotácie, do 31. augusta alebo do 31. decembra, ak žiadosť o poskytnutie dotácie bola podaná po 31. júli,
+
+- b)
+
+- po 10. dni kalendárneho mesiaca, dotácia na podporu výchovy k stravovacím návykom dieťaťa sa poskytuje preddavkovo do 25. dňa kalendárneho mesiaca nasledujúceho po kalendárnom mesiaci, v ktorom bola podaná žiadosť o poskytnutie dotácie, na obdobie od 1. dňa kalendárneho mesiaca nasledujúceho po mesiaci, v ktorom bola podaná žiadosť o poskytnutie dotácie, do 31. augusta alebo do 31. decembra, ak žiadosť o poskytnutie dotácie bola podaná po 31. júli.
+
+- (8)
+
+- Dotácia na podporu výchovy k stravovacím návykom dieťaťa podľa odseku 3 písm. b) a c) sa poskytuje na dieťa
+
+- a)
+
+- uvedené v zozname detí podľa § 10 ods. 4 písm. b),
+
+- b)
+
+- neuvedené v zozname detí podľa § 10 ods. 4 písm. b), ak žiadateľ takéto dieťa nahlási úradu podľa odseku 10 písm. a) druhého bodu.
+
+- (9)
+
+- Dotáciu na podporu výchovy k stravovacím návykom dieťaťa podľa odseku 3 písm. b) a c) možno poskytnúť na dieťa počas školského polroka, a to aj vtedy, ak sa počas tohto školského polroka zníži počet detí z domácností, ktorým sa poskytuje pomoc v hmotnej núdzi, pod 50 % celkového počtu detí v materskej škole alebo sa zmenia príjmové pomery domácnosti uvedené v odseku 3 písm. b).
+
+- (10)
+
+- Žiadateľ je povinný úradu
+
+- a)
+
+- oznámiť zmeny v skutočnostiach rozhodujúcich pre výpočet sumy dotácie na podporu výchovy k stravovacím návykom dieťaťa podľa
+
+- 1.
+
+- odseku 3 písm. a) do 10. augusta príslušného rozpočtového roka na obdobie od 1. septembra do 31. decembra príslušného rozpočtového roka,
+
+- 2.
+
+- odseku 3 písm. b) a c) do konca kalendárneho mesiaca v ktorom zmena nastala,
+
+- b)
+
+- doručiť do 10. augusta príslušného rozpočtového roka aktualizovaný zoznam detí podľa § 10 ods. 4 písm. b), na ktoré žiada poskytnutie dotácie na podporu výchovy k stravovacím návykom dieťaťa podľa odseku 3 písm. b) a c), na obdobie od 1. septembra do 31. decembra príslušného rozpočtového roka.“.
+
 - 9. V poznámke pod čiarou k odkazu 35 sa vypúšťa citácia „Zákon č. 599/2003 Z. z. v znení neskorších predpisov.“ a na konci sa pripája táto citácia: „Zákon č. 417/2013 Z. z. v znení neskorších predpisov.“.
 
 - 10. V § 5 ods. 2 úvodnej vete sa vypúšťajú slová „za poberateľa“.
@@ -163,3 +231,17 @@ Zákon č. 544/2010 Z. z. o dotáciách v pôsobnosti Ministerstva práce, soci�
 - Dotáciu na podporu výchovy k plneniu školských povinností dieťaťa ohrozeného sociálnym vylúčením a dotáciu na podporu výchovy k stravovacím návykom dieťaťa za predchádzajúci rozpočtový rok je žiadateľ povinný zúčtovať najneskôr do 31. marca nasledujúceho roka. Do zúčtovania žiadateľ zahrnie aj dotáciu na dieťa neuvedené v zozname detí podľa § 10 ods. 4 písm. b), ak žiadateľ takéto dieťa uviedol v oznámení o zmenách v skutočnostiach rozhodujúcich pre výpočet sumy dotácie na podporu výchovy k stravovacím návykom dieťaťa.“.
 
 - 21. V § 14a sa slová „§ 9 ods. 1 a 2 a na“ nahrádzajú slovami „§ 9 ods. 1 a 2, na účely posúdenia príjmu podľa § 12 ods. 6 a na“.
+
+- 22. Za § 16a sa vkladá § 16b, ktorý vrátane nadpisu znie:
+
+- „§ 16b
+
+- Prechodné ustanovenie k úpravám účinným od 1. septembra 2019
+
+- (1)
+
+- Ak žiadateľ, ktorému bola do 31. augusta 2019 poskytnutá dotácia na podporu výchovy k stravovacím návykom dieťaťa, ktoré navštevuje základnú školu, oznámi úradu do 10. septembra 2019 počet detí, na ktoré má byť dotácia poskytnutá, úrad poskytne preddavkovo do 25. septembra 2019 dotáciu na podporu výchovy k stravovacím návykom dieťaťa na obdobie od 1. septembra 2019 do 31. decembra 2019; nová žiadosť sa nevyžaduje.
+
+- (2)
+
+- Ak žiadateľ, ktorému nebola do 31. augusta 2019 poskytnutá dotácia na podporu výchovy k stravovacím návykom dieťaťa, ktoré navštevuje základnú školu, podá do 10. septembra 2019 žiadosť o poskytnutie dotácie, úrad poskytne preddavkovo do 25. septembra 2019 dotáciu na podporu výchovy k stravovacím návykom dieťaťa na obdobie od 1. septembra 2019 do 31. decembra 2019.“.
