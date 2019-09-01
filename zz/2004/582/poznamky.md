@@ -122,6 +122,10 @@
 
 - 37a) § 48 ods. 3 až 5 a § 49 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov.
 
+- 37aa) § 73a zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení zákona č. 221/2019 Z. z.
+
+- § 157 zákona č. 245/2008 Z. z. v znení zákona č. 221/2019 Z. z.
+
 - 46a) § 30 zákona Slovenskej národnej rady č. 377/1990 Zb. o hlavnom meste Slovenskej republiky Bratislave v znení neskorších predpisov.
 
 - § 25 zákona Slovenskej národnej rady č. 401/1990 Zb. o meste Košice v znení neskorších predpisov.
