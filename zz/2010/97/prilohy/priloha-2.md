@@ -4,4 +4,4 @@ Príloha č. 2 k vyhláške č. 97/2010 Z. z.
 
   - OSVEDČENIE o čiastočnej kvalifikácii
 
-- [Vzor 02](../assets/7256908015eae3fcf729f78344a51a2bd06d862ddd0a466b4fe3f0537739a88e.pdf)
+- [Príloha č. 2 k vyhláške č. 97/2010 Z. z.](../assets/1ae6761df576f718ac2b3a0b1aacfc2241616ed71e16b0e9d852f9852a94b051.pdf)

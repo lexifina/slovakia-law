@@ -4,4 +4,4 @@ Príloha č. 3 k vyhláške č. 97/2010 Z. z.
 
   - OSVEDČENIE o úplnej kvalifikácii
 
-- [Vzor 03](../assets/54cbbb0e5cc93c1707c1309331feb2296411f7c1dc7e8bf4f47010c4318a35eb.pdf)
+- [Príloha č. 3 k vyhláške č. 97/2010 Z. z.](../assets/ff5ab317a8da327fa7a49ee1e76ae1681730ccf0f1e2b932defb73b2174387e1.pdf)
