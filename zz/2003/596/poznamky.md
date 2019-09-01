@@ -18,13 +18,13 @@
 
 - § 42 Zákonníka práce v znení neskorších predpisov.
 
-- 8) § 34 ods. 2 zákona č. 317/2009 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov.
+- 8) § 39 ods. 3 zákona č. 138/2019 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov.
 
 - 9) § 9 a 10 zákona č. 552/2003 Z. z.
 
 - 10) Napríklad § 47 zákona č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov, zákon č. 314/2001 Z. z. o ochrane pred požiarmi, zákon č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení neskorších predpisov, zákon č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov.
 
-- 11) § 34 ods. 2 písm. d) a ods. 3 zákona č. 317/2009 Z. z. v znení zákona č. 390/2011 Z. z.
+- 11) § 47 ods. 6 zákona č. 138/2019 Z. z.
 
 - 12) Zákon č. 552/2003 Z. z.
 
@@ -32,7 +32,7 @@
 
 - § 11 ods. 2 písm. g) zákona č. 302/2001 Z. z. o samospráve vyšších územných celkov (zákon o samosprávnych krajoch) v znení zákona č. 445/2001 Z. z.
 
-- 13b) § 6 zákona č. 317/2009 Z. z.
+- 13b) § 9 zákona č. 138/2019 Z. z.
 
 - 14) Zákon č. 552/2003 Z. z.
 
@@ -46,7 +46,7 @@
 
 - 18a) § 28 ods. 4 zákona č. 245/2008 Z. z.
 
-- 19) § 38 zákona č. 317/2009 Z. z. v znení zákona č. 390/2011 Z. z.
+- 19) § 47 a 48 zákona č. 138/2019 Z. z.
 
 - 20) § 36 zákona č. 29/1984 Zb. v znení neskorších predpisov.
 
@@ -95,6 +95,10 @@
 - 33) Zákon Národnej rady Slovenskej republiky č. 152/1998 Z. z. o sťažnostiach.
 
 - Zákon č. 85/1990 Zb. o petičnom práve v znení zákona č. 242/1998 Z. z.
+
+- 33a) § 157 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
+
+- 33b) Zákon č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratívnej záťaže využívaním informačných systémov verejnej správy a o zmene a doplnení niektorých zákonov (zákon proti byrokracii) v znení zákona č. 221/2019 Z. z.
 
 - 34) § 20a ods. 3 zákona Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov.
 
@@ -168,7 +172,7 @@
 
 - 58) § 45 zákona č. 29/1984 Zb. v znení neskorších predpisov.
 
-- 60a) § 7 ods. 2 písm. b) a ods. 6 zákona č. 317/2009 Z. z.
+- 60a) § 11 ods. 1 písm. d) zákona č. 138/2019 Z. z.
 
 - 61) § 1 zákona Národnej rady Slovenskej republiky č. 191/1994 Z. z. o označovaní obcí v jazyku národnostných menšín.
 
@@ -192,9 +196,9 @@
 
 - 79c) § 158 ods. 4 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
 
-- 79d) § 58 a 59 zákona č. 317/2009 Z. z. v znení zákona č. 390/2011 Z. z.
+- 79d) § 76 a 77 zákona č. 138/2019 Z. z.
 
-- 79e) § 59 ods. 3 zákona č. 317/2009 Z. z. v znení neskorších predpisov.
+- 79e) § 77 ods. 3 zákona č. 138/2019 Z. z.
 
 - 80) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
