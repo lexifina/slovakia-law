@@ -1,0 +1,7 @@
+# Čl. LXXIV
+
+Tento zákon nadobúda účinnosť 1. septembra 2019 okrem čl. I prvého, štvrtého, šiesteho a siedmeho bodu, čl. IV prvého, tretieho až piateho bodu, čl. V, čl. VII, čl. XI, čl. XIV, čl. XV prvého, druhého a štvrtého bodu, čl. XVI druhého bodu, čl. XVII prvého a tretieho bodu, čl. XVIII prvého, druhého, piateho až ôsmeho, desiateho, trinásteho a pätnásteho bodu, čl. XIX druhého, tretieho, piateho, siedmeho až deviateho bodu, jedenásteho a trinásteho bodu, čl. XX druhého bodu,
+
+čl. XXIII, čl. XXIV, čl. XXV prvého bodu, čl. XXVII, čl. XXVIII druhého a tretieho bodu, čl. XXXIII tretieho a štvrtého bodu, čl. XXXIV prvého, druhého, piateho, šiesteho, deviateho až dvanásteho bodu a pätnásteho bodu, čl. XXXVI, čl. XXXVII prvého a druhého bodu, čl. XXXVIII, čl. XL, čl. XLI, čl. XLII, čl. XLIII, čl. XLIV, čl. XLVIII, čl. L, čl. LI, čl. LII druhého, štvrtého až šiesteho, ôsmeho až desiateho, dvanásteho, štrnásteho, šestnásteho, sedemnásteho, devätnásteho a dvadsiateho bodu, čl. LVII, čl. LX, čl. LXI tretieho, piateho, siedmeho a deviateho bodu, čl. LXIII, čl. LXIV prvého a druhého bodu, čl. LXVI, čl. LXVIII šiesteho, desiateho a jedenásteho bodu, čl. LXX, čl. LXXII
+
+a čl. LXXIII prvého, štvrtého a piateho bodu, ktoré nadobúdajú účinnosť 1. decembra 2019, a okrem čl. I piateho bodu, čl. XV tretieho bodu, čl. XVII druhého a štvrtého bodu, čl. XXXI prvého bodu, čl. LIV a čl. LIX, ktoré nadobúdajú účinnosť 1. januára 2021.
