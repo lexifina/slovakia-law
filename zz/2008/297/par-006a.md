@@ -2,7 +2,7 @@
 
 (1) Konečným užívateľom výhod je každá fyzická osoba, ktorá skutočne ovláda alebo kontroluje právnickú osobu, fyzickú osobu – podnikateľa alebo združenie majetku, a každá fyzická osoba, v prospech ktorej tieto subjekty vykonávajú svoju činnosť alebo obchod; medzi konečných užívateľov výhod patrí najmä,
 
-- a) ak ide o právnickú osobu, ktorá nie je združením majetku ani emitentom cenných papierov prijatých na obchodovanie na regulovanom trhu, ktorý podlieha požiadavkám na uverejňovanie informácií podľa osobitného predpisu,<sup>37</sup>) rovnocenného právneho predpisu členského štátu alebo rovnocenných medzinárodných noriem, fyzická osoba, ktorá
+- a) ak ide o právnickú osobu, ktorá nie je združením majetku ani emitentom cenných papierov prijatých na obchodovanie na regulovanom trhu, ktorý podlieha požiadavkám na uverejňovanie informácií podľa osobitného predpisu,<sup>37</sup>) rovnocenného právneho predpisu členského štátu Európskej únie alebo iného štátu, ktorý je zmluvnou stranou Dohody o Európskom hospodárskom priestore (ďalej len „členský štát“) alebo rovnocenných medzinárodných noriem, fyzická osoba, ktorá
 
   - 1. má priamy alebo nepriamy podiel alebo ich súčet najmenej 25 % na hlasovacích právach v právnickej osobe alebo na jej základnom imaní vrátane akcií na doručiteľa,
 
@@ -24,6 +24,6 @@
 
   - 4. je príjemcom najmenej 25 % prostriedkov, ktoré poskytuje združenie majetku, ak boli určení budúci príjemcovia týchto prostriedkov; ak neboli určení budúci príjemcovia prostriedkov združenia majetku, za konečného užívateľa výhod sa považuje okruh osôb, ktoré majú významný prospech zo založenia alebo pôsobenia združenia majetku.
 
-(2) Ak žiadna fyzická osoba nespĺňa kritériá uvedené v odseku 1 písm. a), za konečných užívateľov výhod u tejto osoby sa považujú členovia jej vrcholového manažmentu; za člena vrcholového manažmentu sa považuje štatutárny orgán, člen štatutárneho orgánu, prokurista a vedúci zamestnanec v priamej riadiacej pôsobnosti štatutárneho orgánu.
+(2) Ak žiadna fyzická osoba nespĺňa kritériá uvedené v odseku 1 písm. a), za konečných užívateľov výhod u tejto osoby sa považujú členovia jej vrcholového manažmentu; za člena vrcholového manažmentu sa považuje štatutárny orgán alebo členovia štatutárneho orgánu.
 
 (3) Konečným užívateľom výhod je aj fyzická osoba, ktorá sama nespĺňa kritériá podľa odseku 1 písm. a), b) alebo písm. c) druhého a štvrtého bodu, avšak spoločne s inou osobou konajúcou s ňou v zhode alebo spoločným postupom spĺňa aspoň niektoré z týchto kritérií.
