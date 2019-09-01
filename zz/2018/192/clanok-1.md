@@ -326,9 +326,33 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - 25. V § 82 ods. 5 písm. c) sa slová „39a ods. 11“ nahrádzajú slovami „§ 39b ods. 13 písm. c)“.
 
+- 26. V § 82 sa odsek 6 dopĺňa písmenom g), ktoré znie:
+
+- „g)
+
+- do 5 000 eur vzdelávacej ustanovizni, ktorá neodstráni nedostatky podľa § 92a ods. 4.“.
+
 - 27. V § 82 ods. 10 sa vypúšťajú slová „a bc)“.
 
 - 28. V § 82 ods. 10 sa za slová „zu) až zw)“ vkladajú slová „a bd)“.
+
+- 29. § 83 sa dopĺňa odsekom 6, ktorý znie:
+
+- „(6)
+
+- Pokuty uložené ministerstvom zdravotníctva za porušenie povinností podľa § 92a ods. 4 sú príjmom rozpočtovej kapitoly ministerstva zdravotníctva.“.
+
+- 30. V § 92a sa odsek 3 dopĺňa písmenom q), ktoré znie:
+
+- „q)
+
+- údaj o zaradení zdravotníckeho pracovníka do špecializačného štúdia podľa § 39b ods. 1.“.
+
+- 31. V § 92a odsek 4 znie:
+
+- „(4)
+
+- Vzdelávacia ustanovizeň, ktorej ministerstvo zdravotníctva vydalo osvedčenie o akreditácii podľa § 40, poskytuje elektronicky údaje do centrálneho registra. Ak ministerstvo zdravotníctva zistí, že údaje, ktoré vzdelávacia ustanovizeň poskytla ministerstvu do centrálneho registra, sú nesprávne alebo sú v rozpore so všeobecne záväznými právnymi predpismi, vyzve vzdelávaciu ustanovizeň, aby tieto nedostatky odstránila v lehote určenej ministerstvom.“.
 
 - 32. V § 102ab sa slovo „2018“ nahrádza slovom „2019“.
 
@@ -378,12 +402,12 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - 35. V prílohe č. 3 časti A písm. a) tabuľky č. 1 a 2 znejú:
 
-- „[Tabuľka č. 1](assets/d7e9cfb5d633bdfcd9a327695e78ad3609112d9e0b41f6250193d41f6677938c.pdf)“.
+- „[Tabuľka č. 1](assets/9d79bc9c86794c4dcc545dae6f8b96ae8f600f6cbda3f472ada238a6744f37ad.pdf)“.
 
 - 36. V prílohe č. 3 časti B písm. a) tabuľka č. 1 znie:
 
-- „[Tabuľka č. 2](assets/e5c927fb0bea3c2d317fe71fe139c09e789707009129b884e4fe174885c32c1f.pdf)“.
+- „[Tabuľka č. 2](assets/8a4d9acbe5a83039842eab608dd2bc0fc1ebf3ecf0636d0dc78043b7cdb1801e.pdf)“.
 
 - 37. V prílohe č. 3 časti B písm. b) tabuľka č. 2 znie:
 
-- „[Tabuľka č. 3](assets/4e3e5f2d51fa195981941399fbc778b106c4cf97d0440ce18c59eb8ac95b35b4.pdf)“.
+- „[Tabuľka č. 3](assets/fdb0d451d8d15b47ae13693b472aa61aa56c0aed5a82432c6c30686658f3541e.pdf)“.
