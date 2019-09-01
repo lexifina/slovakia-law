@@ -230,6 +230,10 @@
 
 - 93a) § 31 zákona č. 596/2003 Z. z. v znení zákona č. 5/2005 Z. z.
 
+- 93b) Zákon č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratívnej záťaže využívaním informačných systémov verejnej správy a o zmene a doplnení niektorých zákonov (zákon proti byrokracii) v znení zákona č. 221/2019 Z. z.
+
+- 93c) § 10 ods. 3 písm. h) a ods. 11 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
+
 - 94) Zákon č. 395/2002 Z. z. v znení neskorších predpisov.
 
 - 95) Zákon č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
