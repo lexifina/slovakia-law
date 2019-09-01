@@ -76,8 +76,6 @@
 
 - 19g) Napríklad zákon Slovenskej národnej rady č. 189/1992 Zb. o úprave niektorých pomerov súvisiacich s nájmom bytov a s bytovými náhradami v znení neskorších predpisov.
 
-- 19ga) § 3 ods. 1 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
-
 - 19gb) Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov.
 
 - 19gc) § 18 zákona č. 315/2016 Z. z.
