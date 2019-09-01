@@ -1,69 +1,43 @@
 Príloha č. 3 k zákonu č. 215/2004 Z. z.
 
-- ÚDAJE POŽADOVANÉ V BEZPEČNOSTNOM DOTAZNÍKU OSOBY
+- BEZPEČNOSTNÝ DOTAZNÍK OSOBY
 
   - A. VŠEOBECNÁ ČASŤ
 
-    - 1. Meno, priezvisko, titul, vedecká hodnosť.
+    - Bezpečnostný dotazník osoby obsahuje najmä:
 
-    - 2. Dátum a miesto narodenia, rodné číslo.
+    - 1. Údaje o vojenskej službe.
 
-    - 3. Adresa trvalého pobytu a prechodného pobytu.
+    - 2. Osobné údaje rodičov a súrodencov.
 
-    - 4. Rodinný stav.
+    - 3. Či je alebo bola závislá od alkoholických nápojov a či užíva alebo užívala omamné látky, psychotropné látky a iné návykové látky.
 
-    - 5. Štátna príslušnosť, prípadne ďalšia štátna príslušnosť, zmeny štátnej príslušnosti.
+    - 4. Či je alebo bola závislá na hazardných hrách.
 
-    - 6. Číslo občianskeho preukazu, cestovného dokladu, miesto jeho vydania.
+    - 5. Psychiatrické vyšetrenia a liečenia.
 
-    - 7. Ak ide o cudzinca, pobyty v Slovenskej republike dlhšie ako 30 dní v posledných siedmich rokoch.
+    - 6. Majetkové pomery.
 
-    - 8. Vzdelanie, prehľad navštevovaných škôl.
+    - 7. Nariadené exekučné rozhodnutia.
 
-    - 9. Jazykové vedomosti.
+    - 8. Právoplatné rozhodnutia orgánov verejnej moci a iných právnických osôb, ktorými bola uložená povinnosť peňažného plnenia.
 
-    - 10. Zamestnanie, sídlo zamestnávateľa, pracovné zaradenie, zastávaná funkcia.
+    - 9. Oboznamovanie sa s utajovanými skutočnosťami.
 
-    - 11. Prehľad predchádzajúcich zamestnávateľov aj s pracovným zaradením.
+    - 10. Spolupráca alebo iné kontakty s bývalou alebo súčasnou spravodajskou službou cudzej moci.
 
-    - 12. Vykonávanie podnikateľskej činnosti.
+    - 11. Spolupráca alebo iné kontakty s osobami alebo organizáciami, ktorých činnosť je zameraná proti demokratickému spoločenskému poriadku alebo proti záujmom, ktoré sa Slovenská republika zaviazala chrániť podľa medzinárodných zmlúv.
 
-    - 13. Ak ide o vojaka, miesto a doba základnej vojenskej služby, ďalšej služby v ozbrojených silách, dosiahnutá hodnosť.
+    - 12. Čestné vyhlásenie o pravdivosti uvedených údajov.
 
-    - 14. Ak ide o príslušníka Policajného zboru, miesta a doba výkonu služby, dosiahnutá hodnosť.
-
-    - 15. Osobné údaje manžela (manželky), druha (družky), detí, rodičov, súrodencov – meno, priezvisko, i rodné, dátum a miesto narodenia, rodné číslo, trvalý pobyt, prechodný pobyt, štátna príslušnosť, zamestnanie.
-
-    - 16. Všetky vznesené obvinenia z trestného činu voči osobe.
-
-    - 17. Postih za priestupok, iný správny delikt v posledných piatich rokoch.
-
-    - 18. Či je alebo bola závislá od požívania alkoholických nápojov.
-
-    - 19. Či užíva alebo užívala omamné alebo psychotropné látky.
-
-    - 20. Majetkové pomery, všetky finančné záväzky, ktorých celková výška presahuje 100 000 Sk.
-
-    - 21. Nariadené exekučné rozhodnutia v posledných siedmich rokoch.
-
-    - 22. Rozsah oboznamovania sa s utajovanými skutočnosťami do súčasnosti.
-
-    - 23. Spolupráca s bývalou alebo súčasnou spravodajskou službou cudzej moci, absolvované študijné pobyty a kurzy v takejto službe, poznatky o záujme tejto služby o navrhovanú osobu.
-
-    - 24. Spolupráca so Štátnou bezpečnosťou v kategóriách rezident, agent, tajný spolupracovník, držiteľ požičaného bytu a dôverník.
-
-    - 25. Vyjadrenie sa k bezpečnostným rizikám podľa § 14 ods. 2.
-
-    - 26. Čestné vyhlásenie o pravdivosti uvedených údajov.
+    - 13. Súhlas s poskytnutím informácií zo zdravotnej dokumentácie.
 
   - B. DOPLNKOVÁ ČASŤ VYPLŇOVANÁ LEN PRE STUPEŇ UTAJENIA PRÍSNE TAJNÉ A TAJNÉ
 
-    - 1. Osobné údaje ďalších rodinných príslušníkov - rodičov manžela (manželky), druha (družky) a súrodencov manžela (manželky), druha (družky) - meno, priezvisko, i rodné, dátum a miesto narodenia, rodné číslo, trvalý pobyt, štátna príslušnosť, zamestnanie.
+    - 1. Osobné údaje ďalších rodinných príslušníkov – rodičov manžela (manželky), partnera (partnerky) a súrodencov manžela (manželky).
 
-    - 2. Príslušnosť a vzťahy k občianskym združeniam, politickým hnutiam a stranám, cirkvám, náboženským spoločenstvám, domácim a zahraničným organizáciám.
+    - 2. Príslušnosť a vzťahy k združeniam, politickým hnutiam, stranám, cirkvám, náboženským spoločenstvám a domácim a zahraničným organizáciám.
 
-    - 3. Meno, priezvisko a adresa dvoch osôb, ktoré poznajú navrhovanú osobu a môžu sa vyjadriť o údajoch v bezpečnostnom dotazníku (nemôžu to byť rodinní príslušníci ani osoby, s ktorými udržujú dôverné vzťahy, napr. vedú majetkové záležitosti).
+    - 3. Identifikačné a kontaktné údaje dvoch osôb, ktoré poznajú navrhovanú osobu a môžu sa vyjadriť o údajoch v osobnom a bezpečnostnom dotazníku osoby (nemôžu to byť rodinní príslušníci ani osoby, s ktorými udržujú dôverné vzťahy, napríklad vedú majetkové záležitosti).
 
-    - 4. Pobyty v zahraničí dlhšie ako 30 dní po dosiahnutí veku 18 rokov - súkromné, služobné, zárobkové.
-
-    - 5. Absolvované psychiatrické vyšetrenia a liečenia.
+    - 4. Pobyty v zahraničí dlhšie ako 30 dní po dosiahnutí veku 18 rokov.

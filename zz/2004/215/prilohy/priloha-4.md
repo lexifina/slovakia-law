@@ -1,27 +1,23 @@
 Príloha č. 4 k zákonu č. 215/2004 Z. z.
 
-- ÚDAJE POŽADOVANÉ V BEZPEČNOSTNOM DOTAZNÍKU PODNIKATEĽA Bezpečnostný dotazník podnikateľa obsahuje:
+- BEZPEČNOSTNÝ DOTAZNÍK PODNIKATEĽA
 
-  - a) identifikačné údaje podnikateľa, najmä názov, sídlo, identifikačné číslo, rok vzniku, predchádzajúce sídla, právnu formu podnikania, daňové identifikačné číslo, počet zamestnancov,
+  - Bezpečnostný dotazník podnikateľa obsahuje najmä:
 
-  - b) hospodárske údaje podnikateľa, najmä ročné účtovné závierky za posledných päť rokov, audítorské správy, predmet podnikania,
+  - 1. Identifikačné údaje podnikateľa.
 
-  - c) majetkové údaje podnikateľa, najmä obchodný majetok, záväzky, údaje o čistom obchodnom imaní,
+  - 2. Hospodárske údaje podnikateľa.
 
-  - d) obchodné vzťahy podnikateľa, najmä prehľad zahraničných spoločníkov,
+  - 3. Majetkové údaje podnikateľa.
 
-  - e) prehľad peňažných ústavov, v ktorých podnikateľ založil alebo vedie účet v posledných troch rokoch,
+  - 4. Obchodné vzťahy podnikateľa.
 
-  - f) prehľad poskytnutých aj splatených pôžičiek a úverov za posledných päť rokov,
+  - 5. Konkurz, vyrovnanie, likvidácia a reštrukturalizácia.
 
-  - g) údaje o podaní návrhu na konkurz, vyrovnanie, údaje o vstupe podnikateľa do likvidácie,
+  - 6. Identifikačné údaje členov štatutárneho orgánu.
 
-  - h) názov a sídlo daňového poradcu,
+  - 7. Právnické osoby, v ktorých boli alebo sú členovia štatutárneho orgánu spoločníkmi, konateľmi, členmi dozornej rady alebo členmi predstavenstva.
 
-  - i) finančné záväzky voči štátnym orgánom, organizáciám, poisťovniam, iným právnickým osobám a fyzickým osobám,
+  - 8. Identifikačné údaje spoločníkov, komanditistov, komplementárov, členov družstva, členov dozornej rady, prokuristov, členov správnej rady za posledných päť rokov, zakladajúcich členov a identifikačné údaje akcionárov a ich percentuálny podiel na základnom imaní.
 
-  - j) zoznam zamestnancov podnikateľa, ktorí nie sú štátnymi občanmi Slovenskej republiky,
-
-  - k) zoznam vedúcich zamestnancov podnikateľa za posledné tri roky,
-
-  - l) údaje o členoch štatutárneho orgánu, najmä osobné údaje štatutárneho orgánu (meno, priezvisko, rodné číslo, trvalý pobyt, prechodný pobyt, štátna príslušnosť), vymenovanie ďalších právnických osôb, v ktorých boli alebo sú členovia štatutárneho orgánu spoločníkmi, konateľmi alebo členmi dozornej rady, zoznam vedúcich pracovníkov, s ktorými bol za posledné tri roky rozviazaný pracovný pomer.
+  - 9. Zoznam súdnych sporov, v ktorých je alebo bol podnikateľ v postavení žalovaného, obvineného alebo obžalovaného.

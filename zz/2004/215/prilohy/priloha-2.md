@@ -1,37 +1,31 @@
 Príloha č. 2 k zákonu č. 215/2004 Z. z.
 
-- ÚDAJE POŽADOVANÉ V OSOBNOM DOTAZNÍKU OSOBY
+- OSOBNÝ DOTAZNÍK OSOBY
 
-  - 1. Meno, priezvisko, titul, vedecká hodnosť.
+  - Osobný dotazník osoby obsahuje najmä:
 
-  - 2. Dátum a miesto narodenia, rodné číslo.
+  - 1. Osobné údaje navrhovanej osoby.
 
-  - 3. Adresa trvalého pobytu a prechodného pobytu.
+  - 2. Údaje o pobyte.
 
-  - 4. Rodinný stav.
+  - 3. Kontaktné údaje.
 
-  - 5. Štátna príslušnosť, prípadne ďalšia štátna príslušnosť, zmeny štátnej príslušnosti.
+  - 4. Doklady totožnosti.
 
-  - 6. Číslo občianskeho preukazu, cestovného dokladu, miesto jeho vydania.
+  - 5. Rodinný stav.
 
-  - 7. Ak ide o cudzinca, pobyty v Slovenskej republike dlhšie ako 30 dní v posledných siedmich rokoch.
+  - 6. Vzdelanie a prehľad navštevovaných škôl.
 
-  - 8. Vzdelanie, prehľad navštevovaných škôl.
+  - 7. Súčasné zamestnanie, predchádzajúce zamestnania alebo zaradenie do evidencie uchádzačov o zamestnanie.
 
-  - 9. Zamestnanie, sídlo zamestnávateľa, pracovné zaradenie, zastávaná funkcia.
+  - 8. Podnikateľská činnosť alebo činnosť vykonávaná samostatne podľa osobitných predpisov.
 
-  - 10. Prehľad predchádzajúcich zamestnávateľov.
+  - 9. Osobné údaje manžela (manželky), detí, partnera (partnerky) a iných osôb žijúcich v spoločnej domácnosti.
 
-  - 11. Vykonávanie podnikateľskej činnosti.
+  - 10. Trestné konanie, priestupkové konanie, disciplinárne konanie a iné konanie vedené voči navrhovanej osobe.
 
-  - 12. Osobné údaje manžela (manželky), druha (družky), detí – meno, priezvisko, i rodné, dátum a miesto narodenia, trvalý pobyt, prechodný pobyt, štátna príslušnosť, zamestnanie.
+  - 11. Absolvované psychofyziologické overenie pravdovravnosti.
 
-  - 13. Všetky vznesené obvinenia z trestného činu voči osobe.
+  - 12. Spolupráca so Štátnou bezpečnosťou a spravodajskou správou Generálneho štábu Československej ľudovej armády do 31. decembra 1989.
 
-  - 14. Postih za priestupok, iný správny delikt v posledných piatich rokoch.
-
-  - 15. Či je alebo bola závislá od požívania alkoholických nápojov.
-
-  - 16. Spolupráca so Štátnou bezpečnosťou v kategóriách rezident, agent, tajný spolupracovník, držiteľ požičaného bytu a dôverník.
-
-  - 17. Vyjadrenie sa k bezpečnostným rizikám podľa § 14 ods. 2.
+  - 13. Vyjadrenie sa k predpokladom na vznik oprávnenia na oboznamovanie sa s utajovanými skutočnosťami podľa § 10 až 14.
