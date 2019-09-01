@@ -1,6 +1,6 @@
 - 1) § 2 písm. a) zákona č. 503/2001 Z. z. o podpore regionálneho rozvoja.
 
-- 1a) § 66 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+- 1a) Zákon č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 1b) § 5 ods. 1 zákona č. 503/2001 Z. z. o podpore regionálneho rozvoja v znení zákona č. 351/2004 Z. z.
 
