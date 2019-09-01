@@ -180,6 +180,10 @@ Zákon č. 39/2007 Z. z. o veterinárnej starostlivosti v znení zákona č. 99/
 
 - vydáva a zrušuje rozhodnutie o schválení odchytu túlavých zvierat na obdobie piatich rokov pre fyzickú osobu – podnikateľa alebo právnickú osobu,
 
+- aw)
+
+- vedie register odchytených túlavých zvierat,
+
 - ax)
 
 - vedie zoznam prevádzkarní na prípravu medikovaných krmív,
