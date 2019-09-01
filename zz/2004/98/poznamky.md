@@ -56,6 +56,8 @@
 
 - 6b) § 115 Občianskeho zákonníka.
 
+- 6ba) § 10 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
 - 6c) Rozhodnutie Európskeho parlamentu a Rady (ES) č. 1152/2003/ES zo 16. júna 2003 o informatizácii prepravy a kontroly výrobkov podliehajúcich spotrebnej dani (Mimoriadne vydanie Ú. v. EÚ, kap. 9/zv. 1; Ú. v. EÚ L 162, 1. 7. 2003).
 
 - 6d) Napríklad zákon č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
