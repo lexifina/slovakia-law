@@ -1,0 +1,3 @@
+Príloha č. 3 k zákonu č. 525/2010 Z. z.
+
+- ŽIADOSŤ O POSKYTNUTIE DOTÁCIE ŽIADATEĽOVI, KTORÝM JE FYZICKÁ OSOBA - PODNIKATEĽ [Vzor 03](../assets/b289427e8e7c3d1f568360fa7d44fcdbc808717755b054b3f87113dfc8a6bbac.pdf)
