@@ -18,7 +18,7 @@
 
 - 6) Nariadenie Komisie (ES) č. 2042/2003 z 20. novembra 2003 o zachovaní letovej spôsobilosti lietadiel a leteckých výrobkov, častí a zariadení a o schvaľovaní organizácií a personálu zapojených do týchto činností (Ú. v. ES L 315, 28. 11. 2003) v platnom znení.
 
-- 8) Napríklad zákon č. 317/2009 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov, nariadenie vlády Slovenskej republiky č. 742/2004 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolania a zákon č. 459/2002 Z. z. o odbornej príprave zamestnancov prokuratúry.
+- 8) Napríklad zákon č. 138/2019 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov, nariadenie vlády Slovenskej republiky č. 742/2004 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolania a zákon č. 459/2002 Z. z. o odbornej príprave zamestnancov prokuratúry.
 
 - 9) Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
 
@@ -30,17 +30,17 @@
 
 - 11) § 27a ods. 2 zákona č. 564/2001 Z. z. o verejnom ochrancovi práv v znení neskorších predpisov.
 
-- 11a) § 3 a 4 zákona č. 317/2009 Z. z.
+- 11a) § 6 zákona č. 138/2019 Z. z.
 
-- 11aa) § 27 ods. 2 a § 34 zákona č. 317/2009 Z. z.
+- 11aa) § 28 ods. 2 a § 39 zákona č. 138/2019 Z. z.
 
-- 11ab) § 7 zákona č. 317/2009 Z. z.
+- 11ab) § 10 zákona č. 138/2019 Z. z.
 
 - 11ac) Zákon č. 305/2005 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
-- § 4 a § 19 až 24 zákona č. 317/2009 Z. z.
+- § 6 ods. 2 a § 23 až 27 zákona č. 138/2019 Z. z.
 
 - 12) Napríklad zákon č. 320/2002 Z. z. o brannej povinnosti v znení zákona č. 512/2002 Z. z.
 
@@ -94,17 +94,25 @@
 
 - 30aa) § 30 ods. 1 písm. j) zákona č. 355/2007 Z. z. v znení neskorších predpisov.
 
-- 30b) Zákon č. 317/2009 Z. z.
-
-- 30c) § 46 a 47 zákona č. 317/2009 Z. z.
-
-- 30d) § 46 ods. 5 zákona č. 317/2009 Z. z.
-
-- 30e) § 50 ods. 1 zákona č. 317/2009 Z. z.
-
 - 30f) § 29 ods. 5 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
 
 - 30g) § 3 ods. 1 a 2 nariadenia vlády Slovenskej republiky č. 422/2009 Z. z., ktorým sa ustanovuje rozsah priamej vyučovacej činnosti a priamej výchovnej činnosti pedagogických zamestnancov.
+
+- 30h) § 64 ods. 2 písm. a) prvý bod zákona č. 138/2019 Z. z.
+
+- 30i) § 64 ods. 2 písm. a) druhý bod zákona č. 138/2019 Z. z.
+
+- 30j) § 64 ods. 2 písm. a) tretí bod zákona č. 138/2019 Z. z.
+
+- 30k) § 64 ods. 2 písm. a) štvrtý bod zákona č. 138/2019 Z. z.
+
+- 30l) § 45 zákona č. 305/2005 Z. z. v znení neskorších predpisov.
+
+- 30m) § 32 a § 38 až 40 zákona č. 448/2008 Z. z. v znení neskorších predpisov.
+
+- 30n) § 10 až 12 zákona č. 138/2019 Z. z.
+
+- 30o) § 31 zákona č. 138/2019 Z. z.
 
 - 31) Zákon č. 314/2001 Z. z. o ochrane pred požiarmi v znení zákona č. 438/2002 Z. z.
 

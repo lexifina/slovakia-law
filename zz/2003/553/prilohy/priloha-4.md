@@ -1,29 +1,29 @@
 Príloha č. 4 k zákonu č. 553/2003 Z. z.
 
-- Platové tarify pedagogických zamestnancov a odborných zamestnancov (v eurách mesačne) Platové tarify | |
+- Platové tarify pedagogických zamestnancov a odborných zamestnancov (v eurách mesačne) Stupnica platových taríf | |
 
 - Platová trieda | Pracovná trieda | Platová tarifa
 
-- 4 | 1 | 556,50
+- 4 | 1 | 671,00
 
-- | 2 | 595,50
+- | 2 | 718,00
 
-- 5 | 1 | 616,50
+- 5 | 1 | 743,00
 
-- | 2 | 658,00
+- | 2 | 793,00
 
-- 6 | 1 | 690,00
+- 6 | 1 | 831,50
 
-- | 2 | 736,50
+- | 2 | 887,50
 
-- 7 | 1 | 753,00
+- 7 | 1 | 907,50
 
-- | 2 | 803,00
+- | 2 | 967,50
 
-- 8 | 1 | 843,00
+- 8 | 1 | 1 016,00
 
-- | 2 | 900,00
+- | 2 | 1 084,50
 
-- 9 | 1 | 944,00
+- 9 | 1 | 1 137,50
 
-- | 2 | 1008,00
+- | 2 | 1 214,50
