@@ -18,7 +18,15 @@
 
 - 6a) Zákon č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov.
 
+- 6b) § 3 ods. 2 písm. b) zákona č. 180/2013 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov.
+
 - 7) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení neskorších predpisov.
+
+- 7a) § 22 ods. 2 zákona č. 229/1991 Zb. v znení neskorších predpisov.
+
+- 7b) Zákon č. 97/2013 Z. z. o pozemkových spoločenstvách v znení neskorších predpisov.
+
+- 7c) 4 ods. 2 písm. b) zákona č. 180/2013 Z. z.
 
 - 8) § 67 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
 
