@@ -26,6 +26,8 @@ Príloha k vyhláške č. 65/2015 Z. z.
 
     - k) študijné odbory v konzervatóriu,
 
+    - l) študijné odbory v škole umeleckého priemyslu,
+
     - m) skupina študijných odborov 82 Umenie a umeleckoremeselná tvorba I,
 
     - n) skupina študijných odborov a skupina učebných odborov 85 Umenie a umeleckoremeselná tvorba II.
