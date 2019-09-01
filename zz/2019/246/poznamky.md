@@ -1,0 +1,1 @@
+- 1) § 31 a 32 zákona č. 422/2015 Z. z. o uznávaní dokladov o vzdelaní a o uznávaní odborných kvalifikácií a o zmene a doplnení niektorých zákonov v znení zákona č. 276/2017 Z. z.
