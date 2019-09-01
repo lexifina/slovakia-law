@@ -1,5 +1,7 @@
 - 1) Zákon č. 153/2001 Z. z. o prokuratúre.
 
+- 2) Nariadenie Rady (EÚ) 2017/1939 z 12. októbra 2017, ktorým sa vykonáva posilnená spolupráca na účely zriadenia Európskej prokuratúry (Ú. v. EÚ L 283, 31. 10. 2017).
+
 - 4) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 7) Zákon č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -110,9 +112,13 @@
 
 - 54) Zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov v znení neskorších predpisov.
 
+- 54a) Čl. 113 nariadenia (EÚ) 2017/1939.
+
 - 55) Vyhláška ministerstiev zdravotníctva a spravodlivosti, Štátneho úradu sociálneho zabezpečenia a Ústrednej rady odborov č. 32/1965 Zb. o odškodňovaní bolesti a sťaženia spoločenského uplatnenia v znení neskorších predpisov.
 
 - 56) Zákon č. 238/1998 Z. z. o príspevku na pohreb.
+
+- 56a) Čl. 113 ods. 3 a 4 nariadenia (EÚ) 2017/1939.
 
 - 57) Napríklad § 2 zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov, § 92 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, § 77 zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov, § 11 zákona č. 377/2004 Z. z. o ochrane nefajčiarov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -123,6 +129,8 @@
 - 57c) Napríklad § 58 ods. 2 a 3 zákona Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov, § 64 zákona č. 543/2002 Z. z. v znení neskorších predpisov, § 11 ods. 4 až 6 zákona č. 377/2004 Z. z. v znení neskorších predpisov, § 91 ods. 1 zákona č. 251/2012 Z. z. v znení neskorších predpisov.
 
 - 57d) Napríklad § 11 až 18 a § 20 zákona Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov, § 92 zákona č. 543/2002 Z. z. v znení neskorších predpisov, § 11 ods. 2 a 3 zákona č. 377/2004 Z. z. v znení neskorších predpisov, § 91 ods. 1 písm. d) piaty bod, ods. 3, 5 a 6 zákona č. 251/2012 Z. z. v znení neskorších predpisov.
+
+- 57da) Čl. 17 ods. 4 nariadenia (EÚ) 2017/1939.
 
 - 57e) § 53 zákona č. 153/2001 Z. z. v znení neskorších predpisov.
 
