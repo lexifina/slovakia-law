@@ -62,4 +62,4 @@
 
 (11) Pri nakladaní s cennými papiermi a majetkovými podielmi na právnických osobách, dôsledkom ktorého je zmena vlastníctva, musí obec postupovať podľa odsekov 1 až 7, ak tento postup nevylučuje osobitný predpis.<sup>2</sup>)
 
-(12) Fyzická osoba a právnická osoba, ktorá nie je subjektom verejnej správy,<sup>22ga</sup>) ktorá má povinnosť zapisovať sa do registra partnerov verejného sektora,<sup>22gb</sup>) môže byť nadobúdateľom majetku obce podľa tohto zákona len vtedy, ak je zapísaná v registri partnerov verejného sektora.<sup>22gc</sup>)
+(12) Fyzická osoba a právnická osoba, na ktorú sa vzťahuje povinnosť zapisovať sa do registra partnerov verejného sektora,<sup>22gb</sup>) môže byť nadobúdateľom majetku obce alebo užívateľom jej majetku podľa tohto zákona len vtedy, ak je zapísaná v registri partnerov verejného sektora.<sup>22gc</sup>) Splnenie podmienky podľa predchádzajúcej vety preukazuje v katastrálnom konaní obec.
