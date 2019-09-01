@@ -395,3 +395,29 @@
 - 126) § 5 ods. 7 písm. o) zákona č. 595/2003 Z. z. v znení zákona č. 63/2018 Z. z.
 
 - 127) § 5 ods. 7 písm. p) zákona č. 595/2003 Z. z. v znení zákona č. 368/2018 Z. z.
+
+- 128) § 118 ods. 4 písm. a) zákona č. 311/2001 Z. z. v znení zákona č. 63/2018 Z. z.
+
+- § 20 ods. 1 písm. f) zákona č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení zákona č. 63/2018 Z. z.
+
+- § 142 ods. 1 písm. g) zákona č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 63/2018 Z. z.
+
+- 129) § 130 ods. 2 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
+
+- § 20 ods. 2 zákona č. 553/2003 Z. z. v znení zákona č. 63/2018 Z. z.
+
+- § 142 ods. 5 zákona č. 55/2017 Z. z. v znení zákona č. 63/2018 Z. z.
+
+- 130) § 118 ods. 4 písm. b) zákona č. 311/2001 Z. z. v znení zákona č. 63/2018 Z. z.
+
+- § 20 ods. 1 písm. g) zákona č. 553/2003 Z. z. v znení zákona č. 63/2018 Z. z.
+
+- § 142 ods. 1 písm. h) zákona č. 55/2017 Z. z. v znení zákona č. 63/2018 Z. z.
+
+- 131) § 134 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
+
+- § 29 ods. 2 zákona č. 553/2003 Z. z. v znení zákona č. 474/2008 Z. z.
+
+- § 160 ods. 2 zákona č. 55/2017 Z. z.
+
+- 132) § 5 ods. 7 písm. n) a o) zákona č. 595/2003 Z. z. v znení neskorších predpisov.
