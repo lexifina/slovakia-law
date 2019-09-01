@@ -72,8 +72,6 @@
 
 - 14b) § 17 ods. 1 písm. f) zákona č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zmene a doplnení niektorých zákonov.
 
-- 15) § 3 ods. 1 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
-
 - 15a) Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov.
 
 - 15b) § 18 zákona č. 315/2016 Z. z.
