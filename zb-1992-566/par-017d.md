@@ -1,0 +1,5 @@
+# § 17d
+
+(1) Zhotovovanie a používanie reprodukcií eurobankoviek a euromincí alebo ich častí upravujú osobitné predpisy.<sup>3h</sup>) Reprodukcie eurobankoviek a euromincí alebo ich častí, ich záznamy v elektronickej forme a akékoľvek predmety, ktoré sú čo len čiastočne vzhľadom, rozmermi alebo vlastnosťami podobné ktorejkoľvek eurobankovke alebo eurominci, vrátane medailí a žetónov, ktoré v akomkoľvek gramatickom tvare obsahujú nápis „euro", „cent" alebo „eurocent", symbol eura „€", alfabetický kód meny euro „EUR", alebo ktoré majú čo len čiastočne podobný vzhľad spoločnej strane alebo niektorej národnej strane ktorejkoľvek euromince, sa nesmú zhotoviť ani používať bez splnenia pravidiel o ochrane autorských práv a bez splnenia podmienok pre zhotovovanie a používanie reprodukcií eurobankoviek a euromincí alebo ich častí podľa osobitných predpisov.<sup>3h</sup>)
+
+(2) Ustanoveniami odseku 1 nie sú dotknuté ustanovenia osobitných predpisov o reprodukciách slovenských bankoviek a slovenských mincí.<sup>3i</sup>)
