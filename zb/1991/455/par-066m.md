@@ -16,6 +16,6 @@
 
 - c) zamietne žiadosť.
 
-(6) Ministerstvo vnútra Slovenskej republiky rozhoduje o žiadosti do dvoch mesiacov odo dňa doručenia úplnej žiadosti.
+(6) Ministerstvo vnútra Slovenskej republiky rozhoduje o žiadosti do 30 dní odo dňa doručenia úplnej žiadosti.
 
 (7) Na uznávanie odbornej kvalifikácie sa primerane vzťahujú ustanovenia osobitného predpisu.<sup>42d</sup>)
