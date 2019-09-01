@@ -6,7 +6,7 @@
 
 - § 197 ods. 1 zákona č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení zákona č. 220/2011 Z. z.
 
-- 4) Zákon č. 311/1999 Z. z. o registri trestov.
+- 4) § 10 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
 
 - 6) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
 
