@@ -1,1 +1,1 @@
-Príloha č. 13 k nariadeniu vlády č. 630/2008 Z. z. [Príloha č. 13 k nariadeniu vlády č. 630/2008 Z. z.](../assets/8e2ef435384b8496f24b6b6f76d78032958aaa6e28a4128a47ebc7415d7e325e.pdf)
+Príloha č. 13 k nariadeniu vlády č. 630/2008 Z. z. [Príloha č. 13 k nariadeniu vlády č. 630/2008 Z. z.](../assets/84ba9b2b7127f9d88d8a86f31c5aa72dead2ce98c4eec86b45a8800bbdd945ea.pdf)
