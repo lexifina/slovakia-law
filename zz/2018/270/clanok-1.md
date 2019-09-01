@@ -1008,6 +1008,8 @@ Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorýc
 
 - 161. V § 91 ods. 2 prvej vete sa za slovom „programov“ vypúšťa čiarka a slová „na výskumnú, vývojovú alebo umeleckú činnosť“ a druhá veta znie: „Ministerstvo školstva môže formou dotácie na výskumnú, vývojovú alebo umeleckú činnosť poskytnúť súkromnej vysokej škole finančné prostriedky na riešenie výskumných projektov a umeleckých projektov, ktoré boli vybrané na financovanie v rámci vnútorného grantového systému ministerstva školstva.“.
 
+- 162. V § 92 ods. 6 prvej vete sa bodka na konci nahrádza bodkočiarkou a pripájajú sa tieto slová: „ak študijný program študuje dlhšie, ako je jeho štandardná dĺžka štúdia, z dôvodu účasti na akademickej mobilite v rámci výmenného programu pri dodržaní podmienok tohto výmenného programu alebo ak mu v poslednom roku štúdia počas štandardnej dĺžky štúdia príslušného študijného programu bolo poskytované sociálne štipendium, povinnosť uhradiť školné nevzniká v najbližšom roku štúdia, ktorý nasleduje po prekročení štandardnej dĺžky štúdia.“.
+
 - 163. V § 92 ods. 15 prvej vete sa slová „štúdia a za uznávanie rovnocennosti dokladov o štúdiu podľa osobitného predpisu.<sup>28b</sup>)“ nahrádzajú slovom „štúdia.“ a v druhej vete sa vypúšťajú slová „okrem poplatku za uznávanie dokladov o vzdelaní vydaných mimo členských štátov na účely výkonu regulovaných povolaní a regulovaných odborných činností (ďalej len „regulované povolanie“), ktorý je 99,50 eura“.
 
 - 164. V § 92 ods. 20 sa slovo „príjmov“ nahrádza slovom „výnosov“.
