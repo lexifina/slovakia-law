@@ -8,4 +8,4 @@
 
 (4) Ministerstvo vnútra Slovenskej republiky po posúdení úplnosti žiadosti a splnenia podmienok podľa § 66i, 66j alebo § 66k rozhodne o uznaní odbornej praxe alebo žiadosť zamietne.
 
-(5) Ministerstvo vnútra Slovenskej republiky o žiadosti rozhodne do dvoch mesiacov odo dňa doručenia úplnej žiadosti.
+(5) Ministerstvo vnútra Slovenskej republiky o žiadosti rozhodne do 30 dní odo dňa doručenia úplnej žiadosti.
