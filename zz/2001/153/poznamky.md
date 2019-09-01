@@ -1,4 +1,6 @@
-- 1) Zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry.
+- 1) Nariadenie Rady (EÚ) 2017/1939 z 12. októbra 2017, ktorým sa vykonáva posilnená spolupráca na účely zriadenia Európskej prokuratúry (Ú. v. EÚ L 283, 31. 10. 2017).
+
+- 1a) Zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry.
 
 - 2) § 116 Občianskeho zákonníka.
 
@@ -7,6 +9,8 @@
 - Civilný mimosporový poriadok.
 
 - Správny súdny poriadok.
+
+- 2b) Čl. 6 ods. 1 nariadenia (EÚ) 2017/1939.
 
 - 3) § 12 ods. 1 písm. b) a § 13 písm. f) zákona č. 400/2015 Z. z. o tvorbe právnych predpisov a o Zbierke zákonov Slovenskej republiky a o zmene a doplnení niektorých zákonov.
 
@@ -20,7 +24,7 @@
 
 - 4b) Napríklad § 207a ods. 2, § 363 až 367, § 380 ods. 4 a § 530 Trestného poriadku, § 4 ods. 2 zákona č. 256/1998 Z. z. o ochrane svedka a o zmene a doplnení niektorých zákonov, zákon č. 548/2003 Z. z. o Justičnej akadémii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 94 ods. 1 písm. d) zákona č. 475/2005 Z. z. o výkone trestu odňatia slobody a o zmene a doplnení niektorých zákonov, zákon č. 383/2011 Z. z. o zastúpení Slovenskej republiky v Eurojuste.
 
-- 5) Napríklad Trestný poriadok, zákon č. 475/2005 Z. z. v znení neskorších predpisov, zákon č. 221/2006 Z. z. o výkone väzby v znení neskorších predpisov.
+- 5) Napríklad nariadenie (EÚ) 2017/1939, Trestný poriadok, zákon č. 475/2005 Z. z. v znení neskorších predpisov, zákon č. 221/2006 Z. z. o výkone väzby v znení neskorších predpisov, zákon č. 154/2010 Z. z. o európskom zatýkacom rozkaze v znení neskorších predpisov.
 
 - 6) Napríklad § 46, 50, 95 Trestného poriadku, zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov v znení neskorších predpisov, zákon č. 215/2006 Z. z. o odškodňovaní osôb poškodených násilnými trestnými činmi v znení neskorších predpisov.
 
@@ -114,9 +118,15 @@
 
 - 30b) § 3 ods. 1 zákona č. 54/2019 Z. z. o ochrane oznamovateľov protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
 
+- 30c) Čl. 25 ods. 6 nariadenia (EÚ) 2017/1939.
+
 - 31) Civilný sporový poriadok, Civilný mimosporový poriadok a Správny súdny poriadok.
 
 - § 13 až 24 Trestného poriadku.
+
+- 32) Čl. 10 nariadenia (EÚ) 2017/1939.
+
+- 32a) Napríklad čl. 111 nariadenia (EÚ) 2017/1939 a § 16 ods. 1 zákona č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
 
 - 33) Zákon č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon) v znení neskorších predpisov.
 
@@ -153,5 +163,7 @@
 - 46) § 5 zákona č. 154/2001 Z. z.
 
 - § 51 zákona č. 312/2001 Z. z.
+
+- 46a) Zákon č. 383/2011 Z. z. v znení zákona č. 316/2016 Z. z.
 
 - 47) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
