@@ -48,6 +48,8 @@
 
 - 8aa) Zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov.
 
+- 8aaa) § 10 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
 - 8ab) Čl. 106 Zmluvy o fungovaní Európskej únie.
 
 - Rozhodnutie Komisie z 20. decembra 2011 o uplatňovaní článku 106 ods. 2 Zmluvy o fungovaní Európskej únie na štátnu pomoc vo forme náhrady za službu vo verejnom záujme udeľovanej podnikom povereným poskytovaním služieb všeobecného hospodárskeho záujmu (2012/21/EÚ) (Ú. v. EÚ L 7, 11. 1. 2012).

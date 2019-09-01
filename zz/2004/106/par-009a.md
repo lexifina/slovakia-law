@@ -4,7 +4,9 @@
 
 - a) identifikačné údaje žiadateľa,
 
-- b) obchodný názov spotrebiteľského balenia tabakového výrobku a predpokladané celkové ročné množstvo dovážaného tabaku, cigár a cigariek v kilogramoch alebo cigariet v kusoch.
+- b) obchodný názov spotrebiteľského balenia tabakového výrobku a predpokladané celkové ročné množstvo dovážaného tabaku, cigár a cigariek v kilogramoch alebo cigariet v kusoch,
+
+- c) údaje potrebné na vyžiadanie výpisu z registra trestov<sup>8aaa</sup>) žiadateľa alebo jeho zodpovedného zástupcu, ak je žiadateľom fyzická osoba; ak je žiadateľom právnická osoba, údaje potrebné na vyžiadanie výpisu z registra trestov tejto právnickej osoby, zodpovedného zástupcu a fyzických osôb, ktoré sú členmi riadiacich orgánov alebo kontrolných orgánov, na účel preukázania splnenia podmienky podľa odseku 3 písm. d).
 
 (2) Dovozca tabakových výrobkov je povinný pred odberom kontrolných známok alebo pred dovozom tabakových výrobkov, ak dovozca neodoberá kontrolné známky, zložiť zábezpeku na daň vo výške dane pripadajúcej na množstvo tabakových výrobkov, ktoré chce uviesť do daňového voľného obehu. Na zábezpeku na daň sa použije § 20 primerane. Colný úrad vráti zloženú zábezpeku na daň, ak bolo spotrebiteľské balenie tabakových výrobkov prepustené do voľného obehu,<sup>2aa</sup>) ak sa colný úrad s dovozcom tabakových výrobkov nedohodne inak; ustanovenie § 41 ods. 1 písm. m) sa nepoužije.
 

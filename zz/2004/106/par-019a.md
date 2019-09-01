@@ -54,7 +54,11 @@
 
 - d) identifikačné údaje dodávateľa a odberateľa tabakovej suroviny okrem konečného spotrebiteľa.
 
-(10) Prílohou k žiadosti podľa odseku 9 je doklad preukazujúci oprávnenie na podnikanie nie starší ako 30 dní alebo jeho osvedčená kópia, ak je žiadateľom osoba, ktorá nemá sídlo alebo trvalý pobyt na daňovom území.
+(10) Prílohou k žiadosti podľa odseku 9 sú:
+
+- a) doklad preukazujúci oprávnenie na podnikanie nie starší ako 30 dní alebo jeho úradne osvedčená kópia, ak je žiadateľom osoba, ktorá nemá sídlo alebo trvalý pobyt na daňovom území,
+
+- b) údaje potrebné na vyžiadanie výpisu z registra trestov<sup>8aaa</sup>) žiadateľa alebo jeho zodpovedného zástupcu, ak je žiadateľom fyzická osoba; ak je žiadateľom právnická osoba, údaje potrebné na vyžiadanie výpisu z registra trestov tejto právnickej osoby, zodpovedného zástupcu a fyzických osôb, ktoré sú členmi riadiacich orgánov alebo kontrolných orgánov, na účel preukázania splnenia podmienky podľa odseku 11 písm. e).
 
 (11) Žiadateľ o vydanie povolenia na obchodovanie s tabakovou surovinou a osoba, ktorej colný úrad vydal povolenie na obchodovanie s tabakovou surovinou, musí spĺňať tieto podmienky:
 
