@@ -12,6 +12,8 @@ Zákon č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľno
 
   - b) nehnuteľností uvedených v § 1 ods. 1 písm. b) a c), s ktorými hospodári Národný žrebčín Topoľčianky, štátny podnik, a Závodisko, štátny podnik Bratislava, Agrokomplex – Výstavníctvo Nitra, štátny podnik, Plemenárske služby Slovenskej republiky, štátny podnik, Štátne lesy Tatranského národného parku so sídlom v Tatranskej Lomnici a Lesopoľnohospodársky majetok Ulič, štátny podnik.“.
 
+- 3. V § 22 ods. 2 prvej vete sa na konci pripája bodkočiarka a tieto slová: „to neplatí, ak ide o lesné pozemky, na ktoré sa vzťahujú odseky 3 a 4“.
+
 - 4. V § 22 odseky 3 až 7 znejú:
 
 - „(3)

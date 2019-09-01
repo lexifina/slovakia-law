@@ -16,6 +16,444 @@ Zákon č. 326/2005 Z. z. o lesoch v znení zákona č. 275/2007 Z. z., zákona 
 
 - 3. V druhom diele nadpis prvého oddielu znie: „Lesné pozemky a evidencia lesných pozemkov“.
 
+- 4. § 4 vrátane nadpisu nad paragrafom a nadpisu pod paragrafom znie:
+
+- „Evidencia lesných pozemkov
+
+- § 4
+
+- Obsah evidencie lesných pozemkov
+
+- (1)
+
+- Orgán štátnej správy lesného hospodárstva<sup>6b</sup>) vedie evidenciu lesných pozemkov a porastov podľa obhospodarovateľov lesa, odborných lesných hospodárov (ďalej len „hospodár“) a právnických osôb zabezpečujúcich činnosť hospodára podľa § 47 ods. 2 prostredníctvom informačného systému lesného hospodárstva (§ 45).
+
+- (2)
+
+- Údaje uvedené v evidencii lesných pozemkov sa považujú za pravdivé, kým nie je preukázaný opak.
+
+- (3)
+
+- Súčasťou evidencie lesných pozemkov je zbierka listín.“.
+
+  - Poznámka pod čiarou k odkazu 6b znie:
+
+  - „<sup>6b</sup>) § 3 ods. 2 písm. b) zákona č. 180/2013 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov.“.
+
+- 5. Za § 4 sa vkladajú § 4a až 4g, ktoré znejú:
+
+- „§ 4a
+
+- Zápis obhospodarovateľa lesa do evidencie lesných pozemkov
+
+- (1)
+
+- Orgán štátnej správy lesného hospodárstva zapisuje do evidencie lesných pozemkov obhospodarovateľa lesa
+
+- a)
+
+- na základe návrhu na zápis obhospodarovateľa lesa do evidencie lesných pozemkov podľa odseku 4 písm. a),
+
+- b)
+
+- na základe nájomného vzťahu podľa § 51c alebo osobitného obhospodarovania lesa podľa § 51d alebo
+
+- c)
+
+- ktorým je vlastník alebo správca, ak ide o porast, ku ktorému nebol zaevidovaný obhospodarovateľ lesa podľa písmena a) alebo písmena b); ak ide o porast v spoluvlastníctve viacerých osôb, zapisuje do evidencie lesných pozemkov
+
+- 1.
+
+- vlastníka alebo správcu s najväčším podielom v poraste alebo v časti porastu, ak ide o prípad podľa odseku 5 písm. c) druhého bodu, alebo
+
+- 2.
+
+- ak je v poraste alebo v jeho časti viac vlastníkov s rovnakým najväčším podielom, toho vlastníka s najvyšším podielom, ktorý je v poradí vlastníkov zapísaných na liste vlastníctva uvedený ako prvý.
+
+- (2)
+
+- Účastníkom konania o zápise do evidencie lesných pozemkov je osoba, ktorá sa má zapísať ako obhospodarovateľ lesa podľa odseku 1, a obhospodarovateľ lesa, ktorého práva a povinnosti zanikajú zápisom osoby, ktorá sa má zapísať ako obhospodarovateľ lesa podľa odseku 1.
+
+- (3)
+
+- Konanie o zápise do evidencie lesných pozemkov sa začína
+
+- a)
+
+- podaním návrhu na zápis obhospodarovateľa lesa do evidencie lesných pozemkov podľa odseku 4,
+
+- b)
+
+- na základe oznámenia podľa § 4b ods. 2 písm. d) alebo e) alebo ods. 5, alebo
+
+- c)
+
+- ak sa orgán štátnej správy lesného hospodárstva dozvie o skutočnostiach podľa § 4b ods. 2 písm. d) alebo e) alebo ods. 5.
+
+- (4)
+
+- Návrh na zápis obhospodarovateľa lesa do evidencie lesných pozemkov podľa odseku 1 písm. a) podáva osoba, ktorá má byť zapísaná ako obhospodarovateľ lesa; návrh obsahuje
+
+- a)
+
+- identifikačné údaje osoby, ktorá sa má zapísať ako obhospodarovateľ lesa, v rozsahu
+
+- 1.
+
+- meno, priezvisko, dátum a miesto narodenia a adresa trvalého pobytu alebo obdobného pobytu, ak ide o fyzickú osobu,
+
+- 2.
+
+- obchodné meno, miesto podnikania a identifikačné číslo organizácie, ak ide o fyzickú osobu – podnikateľa,
+
+- 3.
+
+- názov, sídlo a identifikačné číslo organizácie, ak ide o právnickú osobu,
+
+- b)
+
+- zoznam porastov alebo častí porastov podľa obhospodarovateľa lesa, hospodára alebo právnickej osoby podľa § 47 ods. 2, ktorí majú byť zapísaní do evidencie lesných pozemkov, ak ide o prípad podľa odseku 5 písm. c) druhého bodu,
+
+- c)
+
+- dátum a podpis účastníka konania, ktorý návrh podáva.
+
+- (5)
+
+- Prílohou k návrhu na zápis obhospodarovateľa lesa do evidencie lesných pozemkov je
+
+- a)
+
+- identifikácia dotknutých lesných pozemkov podľa stavu katastra nehnuteľností<sup>7</sup>) a jednotiek priestorového rozdelenia (§ 39 ods. 1),
+
+- b)
+
+- doklad preukazujúci právny vzťah k lesným pozemkom, ktoré sú predmetom evidencie lesných pozemkov, s členením podľa právneho vzťahu k lesnému pozemku na základe vlastníctva, správy, nájomnej zmluvy alebo obdobného právneho vzťahu podľa § 51 a § 659 až 684 Občianskeho zákonníka, nájmu vzniknutému na základe osobitných predpisov<sup>7a</sup>) alebo právneho vzťahu podľa osobitného predpisu,<sup>7b</sup>)
+
+- c)
+
+- doklad
+
+- 1.
+
+- preukazujúci, že došlo k dohode o hospodárení so spoločnou vecou podľa § 139 ods. 2 Občianskeho zákonníka, ak je porast v spoluvlastníctve viacerých osôb a obhospodarovanie lesa bude zabezpečované jedným obhospodarovateľom lesa; doklad sa nevyžaduje, ak ide o porast podľa § 51a ods. 8, alebo
+
+- 2.
+
+- ktorým je písomná dohoda podľa § 36 ods. 2, ak ide o porast, ktorý je spoločnou vecou, a obhospodarovanie lesa bude zabezpečované viacerými obhospodarovateľmi lesa, a
+
+- d)
+
+- písomná zmluva s hospodárom alebo právnickou osobou podľa § 47 ods. 2 preukazujúca zabezpečenie výkonu činnosti hospodára podľa § 48, ktorá nadobúda účinnosť najskôr dňom nadobudnutia práv a povinností obhospodarovateľa lesa; písomnú zmluvu nepredkladá právnická osoba podľa § 47 ods. 2, ktorá oznamuje hospodára, ktorého prostredníctvom zabezpečí na lesných pozemkoch odborné hospodárenie v lesoch,
+
+- e)
+
+- ak je lesný pozemok predmetom osobitného obhospodarovania lesa na ktorom povinnosti obhospodarovateľa lesa vykonáva správca, stanovisko správcu, že k lesnému pozemku pohľadávka podľa § 51e ods. 2 nie je evidovaná, inak predloží súhlas správcu s ukončením osobitného obhospodarovania lesa.
+
+- (6)
+
+- Ak návrh na zápis obhospodarovateľa lesa do evidencie lesných pozemkov nemá náležitosti podľa odsekov 4 a 5, orgán štátnej správy lesného hospodárstva vyzve účastníka konania, ktorý návrh podal, aby návrh do desiatich pracovných dní doplnil alebo odstránil jeho nedostatky; na podanie návrhu podľa odseku 4 sa primerane použije § 19 ods. 1, 2, 4 a 5, § 27, § 29 ods. 1 a 5 a § 30 správneho poriadku.
+
+- (7)
+
+- Ak orgán štátnej správy lesného hospodárstva začne konanie o zápise do evidencie lesných pozemkov podľa odseku 3 písm. b) alebo písm. c), vyzve vlastníka alebo správcu, aby podal návrh podľa odseku 4 najneskôr 15 dní pred ukončením nájomného vzťahu alebo obdobného právneho vzťahu k lesnému pozemku, alebo do 15 dní odo dňa doručenia výzvy, ak nájomný vzťah alebo obdobný právny vzťah k lesnému pozemku skončí alebo skončil pred uplynutím tejto lehoty, a upozorní ho, že ak návrh nepodá alebo neoznámi, že návrh podá iná osoba, zapíše do evidencie lesných pozemkov obhospodarovateľa lesa podľa odseku 1 písm. c) alebo začne konanie podľa § 51d. Obhospodarovateľ lesa doteraz zapísaný v evidencii lesných pozemkov má do zápisu obhospodarovateľa lesa do evidencie lesných pozemkov povinnosť zdržať sa výkonu práv a povinností obhospodarovateľa lesa okrem povinností podľa § 4b ods. 3 písm. b) a c), čo mu orgán štátnej správy lesného hospodárstva bezodkladne oznámi po začatí konania o zápise do evidencie lesných pozemkov.
+
+- (8)
+
+- Ak orgánu štátnej správy lesného hospodárstva boli predložené návrhy na zápis viacerých obhospodarovateľov lesa k tomu istému porastu alebo jeho časti, alebo počas konania zistí, že viac osôb uplatňuje právo na obhospodarovanie lesa, preruší konanie o zápise do evidencie lesných pozemkov a vyzve účastníkov konania na odstránenie tohto sporu; na prerušenie konania sa primerane použije § 40 správneho poriadku.
+
+- (9)
+
+- Orgán štátnej správy lesného hospodárstva
+
+- a)
+
+- rozhodne o zápise do evidencie lesných pozemkov obhospodarovateľa lesa a hospodára alebo právnickú osobu podľa § 47 ods. 2 k porastu alebo jeho časti do 30 dní odo dňa začatia konania podľa odseku 3 písm. a),
+
+- b)
+
+- zapíše do evidencie lesných pozemkov obhospodarovateľa lesa k porastu alebo jeho časti bezodkladne na základe vzniku nájomného vzťahu podľa § 51c alebo osobitného obhospodarovania lesa podľa § 51d a účastníkom konania vydá potvrdenie, ktoré obsahuje údaje podľa odseku 10.
+
+- (10)
+
+- Orgán štátnej správy lesného hospodárstva v rozhodnutí o zápise do evidencie lesných pozemkov uvedie tieto údaje:
+
+- a)
+
+- označenie orgánu štátnej správy lesného hospodárstva, ktorý rozhodnutie vydal,
+
+- b)
+
+- zoznam parciel alebo ich častí podľa registra C a registra E katastra nehnuteľností a zoznam jednotiek priestorového rozdelenia lesa, na ktorých bude obhospodarovateľ lesa zabezpečovať odborné hospodárenie v lesoch,
+
+- c)
+
+- identifikačné údaje obhospodarovateľa lesa podľa odseku 4 písm. a) okrem dátumu a miesta narodenia,
+
+- d)
+
+- deň, ktorým obhospodarovateľovi lesa vznikajú práva a povinnosti obhospodarovateľa lesa,
+
+- e)
+
+- dátum, ktorým obhospodarovateľovi lesa zanikajú práva a povinnosti obhospodarovateľa lesa, ak zánik týchto práv a povinností vyplýva z dokladov podľa odseku 5 písm. b) alebo c),
+
+- f)
+
+- identifikačné údaje hospodára alebo právnickej osoby podľa § 47 ods. 2, s ktorou má obhospodarovateľ lesa uzatvorenú písomnú zmluvu na výkon činnosti podľa § 48, v rozsahu podľa odseku 4 písm. a) okrem dátumu a miesta narodenia,
+
+- g)
+
+- dátum vydania rozhodnutia.
+
+- (11)
+
+- Ak orgán štátnej správy lesného hospodárstva vyhovie návrhu na zápis do evidencie lesných pozemkov v plnom rozsahu, rozhodnutie o zápise do evidencie lesných pozemkov neobsahuje odôvodnenie.
+
+- (12)
+
+- Ak orgán štátnej správy lesného hospodárstva nevyhovie návrhu na zápis do evidencie lesných pozemkov v plnom rozsahu, vykoná zápis obhospodarovateľa lesa a hospodára alebo právnickú osobu podľa § 47 ods. 2 do evidencie lesných pozemkov k porastu alebo jeho časti v rozsahu, v ktorom návrhu na zápis do evidencie lesných pozemkov vyhovie.
+
+- (13)
+
+- Orgán štátnej správy lesného hospodárstva bezodkladne zašle účastníkom konania oznámenie o nadobudnutí právoplatnosti rozhodnutia o zápise do evidencie lesných pozemkov. Ak bolo proti rozhodnutiu o zápise do evidencie lesných pozemkov podané odvolanie len v časti rozhodnutia podľa § 4c ods. 3, orgán štátnej správy lesného hospodárstva v oznámení podľa prvej vety zároveň uvedie, v ktorej časti napadnuté rozhodnutie nadobúda právoplatnosť.
+
+- (14)
+
+- Ak sa všetci účastníci konania o zápise do evidencie lesných pozemkov vzdali odvolania písomne alebo ústne do zápisnice, orgán štátnej správy lesného hospodárstva nevyhotovuje písomné rozhodnutie ale rozhodnutie vyznačí v spise, bezodkladne vykoná zápis do evidencie lesných pozemkov a účastníkom konania vydá potvrdenie, ktoré obsahuje údaje podľa odseku 10.
+
+- (15)
+
+- Na rozhodnutie o zápise do evidencie lesných pozemkov podľa odseku 9 písm. a) a odsekov 10 až 14 sa primerane použije § 46, 47, § 51 ods. 3 a § 52 správneho poriadku.
+
+- § 4b
+
+- Práva a povinnosti vlastníka, správcu a obhospodarovateľa lesa pri vedení evidencie lesných pozemkov
+
+- (1)
+
+- Osobe podľa § 4a ods. 1 vznikajú práva a povinnosti obhospodarovateľa lesa k porastu alebo jeho časti najskôr dňom nadobudnutia právoplatnosti rozhodnutia o zápise do evidencie lesných pozemkov, ak zo zápisu do evidencie lesných pozemkov alebo z § 51c alebo 51d nevyplýva iný deň. Hospodár alebo právnická osoba podľa § 47 ods. 2 môže činnosť podľa § 48 v poraste vykonávať odo dňa zápisu do evidencie lesných pozemkov, najskôr však odo dňa vzniku práv a povinností obhospodarovateľa lesa podľa prvej vety.
+
+- (2)
+
+- Obhospodarovateľ lesa je povinný
+
+- a)
+
+- zabezpečiť odborné hospodárenie v lesoch (§ 36) prostredníctvom hospodára odo dňa vzniku práv a povinností obhospodarovateľa lesa podľa odseku 1,
+
+- b)
+
+- ak je v poraste evidovaných viac obhospodarovateľov lesa, do 30 dní odo dňa zápisu do evidencie lesných pozemkov vyznačiť v teréne priebeh hranice časti porastu obhospodarovanej podľa § 36 ods. 2; ak dochádza k zmene hranice obhospodarovanej časti porastu, zabezpečiť odstránenie vyznačenia doterajšieho priebehu hranice,
+
+- c)
+
+- zaslať orgánu štátnej správy lesného hospodárstva oznámenie o zmene hospodára alebo právnickej osoby podľa § 47 ods. 2 do 15 dní od tejto zmeny, ktoré musí obsahovať údaje potrebné na zápis do evidencie lesných pozemkov, najmä
+
+- 1.
+
+- identifikačné údaje hospodára alebo právnickej osoby podľa § 47 ods. 2, s ktorou má obhospodarovateľ lesa uzatvorenú písomnú zmluvu o výkone činnosti podľa § 48 v rozsahu podľa § 4a ods. 4 písm. a) okrem dátumu a miesta narodenia,
+
+- 2.
+
+- dobu, na ktorú je uzatvorený zmluvný vzťah podľa § 47 ods. 10 s hospodárom alebo právnickou osobou podľa § 47 ods. 2, a
+
+- 3.
+
+- zoznam jednotiek priestorového rozdelenia lesa (§ 39 ods. 1), ktorých sa zmena dotýka a na ktorých odborné hospodárenie v lesoch zabezpečí osoba podľa prvého bodu,
+
+- d)
+
+- zaslať orgánu štátnej správy lesného hospodárstva oznámenie o zmene rozsahu oprávnenia hospodáriť na lesných pozemkoch, ku ktorým je evidovaný ako obhospodarovateľ lesa, do 15 dní od tejto zmeny,
+
+- e)
+
+- oznámiť bezodkladne orgánu štátnej správy lesného hospodárstva ukončenie nájomného vzťahu alebo obdobného právneho vzťahu k lesnému pozemku.
+
+- (3)
+
+- Ak orgán štátnej správy lesného hospodárstva preruší konanie o zápise do evidencie lesných pozemkov, obhospodarovateľ lesa doteraz zapísaný v evidencii lesných pozemkov je počas prerušenia konania
+
+- a)
+
+- oprávnený vykonávať len naliehavú ťažbu podľa § 22 ods. 3 písm. a),
+
+- b)
+
+- povinný zabezpečiť prejazdnosť lesných ciest podľa § 25 ods. 2 druhej vety a
+
+- c)
+
+- povinný vykonávať činnosti nevyhnutné na zabezpečenie ochrany lesa podľa § 28 a zabezpečiť vykonanie mimoriadnej ťažby podľa § 31 ods. 3.
+
+- (4)
+
+- Ak obhospodarovateľ lesa doteraz zapísaný v evidencii lesných pozemkov počas prerušenia konania o zápise do evidencie lesných pozemkov zomrie alebo zanikne bez právneho nástupcu, oprávnenia a povinnosti podľa odseku 3 má vlastník alebo správca; orgán štátnej správy lesného hospodárstva túto skutočnosť uvedie v evidencii lesných pozemkov.
+
+- (5)
+
+- Vlastník a správca je povinný bezodkladne oznámiť orgánu štátnej správy lesného hospodárstva ukončenie nájomného vzťahu alebo obdobného právneho vzťahu k lesnému pozemku.
+
+- (6)
+
+- Ak ide o ukončenie nájomného vzťahu alebo obdobného právneho vzťahu k lesnému pozemku uzavretého na určitú dobu, vlastník a správca je povinný zabezpečiť podanie návrhu podľa § 4a ods. 4 najneskôr 60 dní pred uplynutím doby, na ktorú je tento vzťah uzavretý.
+
+- § 4c
+
+- Odvolanie a návrh na preskúmanie mimo odvolacieho konania
+
+- (1)
+
+- Odvolanie proti rozhodnutiu o zápise do evidencie lesných pozemkov podľa § 4a ods. 9 písm. a) alebo návrh na preskúmanie rozhodnutia tohto rozhodnutia mimo odvolacieho konania môže podať v časti, ktorá sa ho týka,
+
+- a)
+
+- účastník konania podľa § 4a ods. 2, iná fyzická osoba, fyzická osoba – podnikateľ alebo právnická osoba, ak preukáže, že v čase vydania rozhodnutia mala právny vzťah k dotknutým lesným pozemkom podľa § 4a ods. 5 písm. a) až c), alebo
+
+- b)
+
+- hospodár zapísaný v evidencii lesných pozemkov.
+
+- (2)
+
+- Okresný úrad v sídle kraja<sup>7c</sup>) preskúma napadnuté rozhodnutie v rozsahu podaného odvolania alebo návrhu na preskúmanie rozhodnutia mimo odvolacieho konania.
+
+- (3)
+
+- Ak je odvolanie podané len proti časti rozhodnutia, napadnuté rozhodnutie nadobúda v časti, proti ktorej nie je podané odvolanie, právoplatnosť uplynutím lehoty na podanie odvolania.
+
+- (4)
+
+- Ak sú na to dôvody, okresný úrad v sídle kraja napadnuté rozhodnutie zmení, inak odvolanie alebo návrh na preskúmanie rozhodnutia mimo odvolacieho konania zamietne a rozhodnutie potvrdí
+
+- a)
+
+- do desiatich pracovných dní odo dňa doručenia odvolania,
+
+- b)
+
+- do 20 pracovných dní odo dňa začatia konania o preskúmaní rozhodnutia mimo odvolacieho konania.
+
+- (5)
+
+- Ak okresný úrad v sídle kraja napadnuté rozhodnutie zmení, v rozhodnutí uvedie aj údaje podľa § 4a ods. 10 písm. d) až f). Rozhodnutie podľa
+
+- a)
+
+- odseku 4 písm. a) nadobúda právoplatnosť piatym pracovným dňom po jeho vydaní; okresný úrad v sídle kraja rozhodnutie zašle v deň jeho vydania orgánu štátnej správy lesného hospodárstva, ktorý napadnuté rozhodnutie vydal,
+
+- b)
+
+- odseku 4 písm. b) nadriadený orgán štátneho lesného hospodárstva zašle bezodkladne po nadobudnutí právoplatnosti orgánu štátnej správy lesného hospodárstva, ktorý napadnuté rozhodnutie vydal, a účastníkom konania zašle oznámenie podľa § 4a ods. 13; na nadobudnutie právoplatnosti rozhodnutia sa primerane vzťahuje odsek 3.
+
+- (6)
+
+- Orgán štátnej správy lesného hospodárstva, ktorý napadnuté rozhodnutie vydal, vykoná zápis v evidencii lesných pozemkov bezodkladne po doručení rozhodnutia podľa odseku 5.
+
+- (7)
+
+- Obhospodarovateľ lesa zapísaný v evidencii lesných pozemkov je v porastoch, ktorých sa návrh na preskúmanie rozhodnutia mimo odvolacieho konania podľa odseku 1 týka, do nadobudnutia právoplatnosti rozhodnutia o zápise do evidencie lesných pozemkov podľa odseku 4 až 6 povinný zdržať sa výkonu práv a povinností obhospodarovateľa lesa okrem plnenia povinností pri ochrane lesa (§ 28) a vykonania mimoriadnej ťažby podľa § 31 ods. 3.
+
+- (8)
+
+- Na konanie o odvolaní a na konanie o preskúmaní mimo odvolacieho konania sa primerane použije § 53 až 58, § 59 ods. 4, § 60 až 61 a § 65 až 68 správneho poriadku.
+
+- § 4d
+
+- Zápis zmeny hospodára v evidencii lesných pozemkov
+
+- (1)
+
+- Orgán štátnej správy lesného hospodárstva bezodkladne vykoná zápis zmeny v evidencii lesných pozemkov
+
+- a)
+
+- na základe oznámenia podľa § 4b ods. 2 písm. c) alebo
+
+- b)
+
+- ak sa o zmene podľa § 4b ods. 2 písm. c) dozvie.
+
+- (2)
+
+- Orgán štátnej správy lesného hospodárstva bezodkladne vyradí z evidencie lesných pozemkov hospodára alebo právnickú osobu podľa § 47 ods. 2, ak zistí skutočnosti preukazujúce ukončenie ich činnosti.
+
+- (3)
+
+- Orgán štátnej správy lesného hospodárstva bezodkladne zašle obhospodarovateľovi lesa informáciu o
+
+- a)
+
+- zápise zmeny v evidencii lesných pozemkov podľa odseku 1 písm. a) alebo b),
+
+- b)
+
+- vyradení hospodára alebo právnickej osoby podľa § 47 ods. 2 z evidencie lesných pozemkov podľa odseku 2 a vyzve ho na splnenie povinnosti podľa § 47 ods. 10 a zaslanie oznámenia podľa § 4b ods. 2 písm. c).
+
+- § 4e
+
+- Námietka proti zápisu zmeny hospodára v evidencii lesných pozemkov
+
+- (1)
+
+- Proti zápisu zmeny v evidencii lesných pozemkov môže podať námietku obhospodarovateľ lesa, hospodár alebo právnická osoba podľa § 47 ods. 2, ktorých sa zmena týka, ak ide o zmenu na základe oznámenia podľa § 4d ods. 1 alebo § 47 ods. 10.
+
+- (2)
+
+- Proti vyradeniu hospodára alebo právnickej osoby podľa § 47 ods. 2 z evidencie lesných pozemkov podľa § 4d ods. 2 môže podať námietku obhospodarovateľ lesa, hospodár alebo právnická osoba podľa § 47 ods. 2, ktorých sa vyradenie z evidencie lesných pozemkov týka.
+
+- (3)
+
+- Námietku podľa odsekov 1 a 2 možno podať do 15 dní odo dňa, keď sa osoba oprávnená podať námietku dozvedela o úkone orgánu štátnej správy lesného hospodárstva.
+
+- (4)
+
+- Námietku preskúmava orgán štátnej správy lesného hospodárstva, ktorý napadnutý úkon vykonal. Ak orgán štátnej správy lesného hospodárstva zistí, že námietka je opodstatnená hoci len v časti, bezodkladne opraví zápis zmeny v evidencii lesných pozemkov alebo vyradenie z evidencie lesných pozemkov, inak námietku zamietne. Orgán štátnej správy lesného hospodárstva bezodkladne oznamuje výsledok preskúmania námietky osobe, ktorá námietku podala; na oznámenie sa primerane vzťahuje § 4d ods. 3.
+
+- § 4f
+
+- Výpis z evidencie lesných pozemkov a jej verejnosť
+
+- (1)
+
+- Orgán štátnej správy lesného hospodárstva na základe žiadosti vydá vlastníkovi, správcovi alebo obhospodarovateľovi lesa výpis z evidencie lesných pozemkov o skutočnostiach zapísaných v evidencii lesných pozemkov (ďalej len „výpis z evidencie“) v rozsahu žiadosti, najviac však v rozsahu údajov uvedených v § 4a ods. 10. Ak žiadosť predkladá iná osoba ako vlastník, správca alebo obhospodarovateľ lesa, orgán štátnej správy lesného hospodárstva vydá výpis z evidencie najviac v rozsahu údajov zverejnených podľa odseku 3.
+
+- (2)
+
+- Orgán štátnej správy lesného hospodárstva na základe žiadosti vydá hospodárovi výpis z evidencie, v ktorom uvedie zoznam jednotiek priestorového rozdelenia lesa podľa obhospodarovateľov lesa, na ktorých je hospodár evidovaný.
+
+- (3)
+
+- Správca informačného systému lesného hospodárstva zverejňuje obhospodarovateľa lesa a právnickú osobu podľa § 47 ods. 2 alebo hospodára evidovaných v evidencii lesných pozemkov podľa porastu prostredníctvom geografického informačného systému. Ak ide o fyzickú osobu, zverejňuje sa
+
+- a)
+
+- meno a priezvisko obhospodarovateľa lesa,
+
+- b)
+
+- údaje hospodára v rozsahu podľa § 47 ods. 17.
+
+- § 4g
+
+- Vzťah vedenia evidencie lesných pozemkov k správnemu poriadku
+
+- (1)
+
+- Na konanie podľa § 4a, 4c až 4e a § 4f ods. 1 a 2 sa nevzťahuje správny poriadok,<sup>12</sup>) ak odsek 2 a § 4a ods. 6, 8 a 15 a § 4c ods. 8 neustanovujú inak.
+
+- (2)
+
+- Na doručovanie písomností podľa § 4a, 4c, 4d, 4e a § 4f ods. 1 a 2 sa primerane použije § 24 až 25a správneho poriadku.“.
+
+  - Poznámky pod čiarou k odkazom 7a až 7c znejú:
+
+  - „<sup>7a</sup>) § 22 ods. 2 zákona č. 229/1991 Zb. v znení neskorších predpisov.
+
+  - <sup>7b</sup>) Zákon č. 97/2013 Z. z. o pozemkových spoločenstvách v znení neskorších predpisov.
+
+  - <sup>7c</sup>) 4 ods. 2 písm. b) zákona č. 180/2013 Z. z.“.
+
 - 6. V § 6 ods. 2 v prvej vete sa slová „programov starostlivosti regiónov, návrhy územných programov starostlivosti obcí“ nahrádzajú slovami „plánov regiónov, návrhy územných plánov obcí“.
 
 - 7. Nadpis § 7 znie: „Vyňatie, obmedzenie využívania a zmena využitia“.
