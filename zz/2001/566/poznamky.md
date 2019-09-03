@@ -408,6 +408,8 @@
 
 - 60v) Čl. 4 ods. 1 písm. a) a b) nariadenia (EÚ) č. 600/2014.
 
+- 60va) Čl. 10 a 21 nariadenia (EÚ) č. 600/2014.
+
 - 60w) Čl. 3 ods. 1 nariadenia (EÚ) č. 600/2014.
 
 - 60x) Čl. 26 nariadenia (EÚ) č. 600/2014.
