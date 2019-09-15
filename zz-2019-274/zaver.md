@@ -1,0 +1,1 @@
+László Sólymos v. r.
