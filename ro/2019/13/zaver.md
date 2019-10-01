@@ -1,0 +1,1 @@
+Martina Lubyová v. r.
