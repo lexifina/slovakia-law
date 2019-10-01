@@ -1,1 +1,0 @@
-Príloha č. 4 k vyhláške č. 252/2018 Z. z. [Najvyšší počet žiakov v študijnom odbore a učebnom odbore v príslušnej strednej škole](../assets/e42f8e5305647be13c5d23d56606ff9da7bee90415372a0440a19e4ee7890694.pdf)
