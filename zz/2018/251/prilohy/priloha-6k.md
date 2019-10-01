@@ -1,1 +1,1 @@
-Príloha č. 6 k vyhláške č. 251/2018 Z. z. [Skupiny študijných odborov podľa § 2 ods. 7](../assets/7f89615710a8eeafc8b01163ae6253beb01e73b156195f352f2e66c4a07e9c70.pdf)
+Príloha č. 6 k vyhláške č. 251/2018 Z. z. [Príloha č. 6 k vyhláške č. 251/2018 Z. z.](../assets/7f3078e0e3e54ff2183332de32eb60529f8811b6f793b77bd3b9375b06d682af.pdf)

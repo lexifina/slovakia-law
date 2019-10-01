@@ -1,1 +1,1 @@
-Príloha č. 2 k vyhláške č. 251/2018 Z. z. [Príloha č. 2 k vyhláške č. 251/2018 Z. z.](../assets/312fe8ec7d468b709c1e26ccab315b1834ea50ace2f8cc7d0d71c3c92239ff02.pdf)
+Príloha č. 2 k vyhláške č. 251/2018 Z. z. [Príloha č. 2 k vyhláške č. 251/2018 Z. z.](../assets/f5b9cda16c5de61d825de5f7edeec336badde50c0fc89d4d09637200ddd1241d.pdf)
