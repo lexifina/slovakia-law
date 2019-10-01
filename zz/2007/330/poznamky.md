@@ -92,6 +92,8 @@
 
 - § 27g zákona č. 185/2002 Z. z. v znení neskorších predpisov.
 
+- 33ab) § 15 zákona č. 138/2019 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov v znení zákona č. 209/2019 Z. z.
+
 - 33b) Čl. 13 Európskeho dohovoru o vzájomnej pomoci v trestných veciach (oznámenie č. 550/1992 Zb.).
 
 - 34) Zákon Slovenskej národnej rady č. 71/1992 Zb. o súdnych poplatkoch a poplatku za výpis z registra trestov v znení neskorších predpisov.
