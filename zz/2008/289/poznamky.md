@@ -6,6 +6,8 @@
 
 - 4) § 88 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov.
 
+- 4a) § 9a ods. 1 písm. b) zákona č. 222/2004 Z. z. v znení zákona č. 368/2018 Z. z.
+
 - 5) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
 
 - 6) § 2 ods. 1 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
