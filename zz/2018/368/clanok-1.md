@@ -264,6 +264,12 @@ Zákon č. 289/2008 Z. z. o používaní elektronickej registračnej pokladnice 
 
 - Podnikateľ je povinný evidovať tržbu v elektronickej registračnej pokladnici alebo v systéme e-kasa prostredníctvom pokladnice e-kasa klient bez zbytočného odkladu po jej prijatí; túto povinnosť nemá podnikateľ, ktorý je v likvidácii alebo na ktorého bol vyhlásený konkurz, okrem podnikateľa, ktorý pokračuje v prevádzkovaní podniku po vyhlásení konkurzu.<sup>4</sup>) Ak podnikateľ nemôže z dôvodu prekročenia hraničnej doby odozvy zaevidovať tržbu v systéme e-kasa, je povinný uložiť dátovú správu v on-line registračnej pokladnici. Podnikateľ je povinný zaslať uloženú dátovú správu do systému e-kasa do 48 hodín od prvého pokusu o jej zaslanie; ak nemožno zaslať dátovú správu do systému e-kasa z dôvodov na strane finančného riaditeľstva, lehota na jej odoslanie sa považuje za zachovanú, ak je zaslaná do 48 hodín od zverejnenia oznámenia o odstránení prekážok na strane finančného riaditeľstva na svojom webovom sídle.“.
 
+- 3. V § 3 ods. 2 písm. a) prvom bode sa za slovo „cenín“ vkladajú slová „okrem poukazu podľa osobitného predpisu<sup>4a</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 4a znie:
+
+  - „<sup>4a</sup>) § 9a ods. 1 písm. b) zákona č. 222/2004 Z. z. v znení zákona č. 368/2018 Z. z.“.
+
 - 4. V § 3 odsek 3 znie:
 
 - „(3)
@@ -600,7 +606,11 @@ Zákon č. 289/2008 Z. z. o používaní elektronickej registračnej pokladnice 
 
 - „(9)
 
-- Pri prekročení hraničnej doby odozvy pokladničný doklad vyhotovený pokladnicou e-kasa klient obsahuje najmenej údaje podľa odseku 7 okrem unikátneho identifikátora dokladu a obsahuje podpisový kód podnikateľa. Pri prekročení hraničnej doby odozvy pokladničný doklad vyhotovený pokladnicou e-kasa klient, ak ide o úhradu faktúry alebo jej časti, obsahuje najmenej údaje podľa odseku 2 druhej vety, okrem unikátneho identifikátora dokladu a obsahuje podpisový kód podnikateľa. Pri prekročení hraničnej doby odozvy doklad označený slovami „NEPLATNÝ DOKLAD“ vyhotovený pokladnicou e-kasa klient obsahuje najmenej údaje podľa odseku 2 štvrtej vety okrem unikátneho identifikátora dokladu a obsahuje podpisový kód podnikateľa. Doklad označený slovom „VKLAD“ alebo „VÝBER“ vyhotovený pokladnicou e-kasa klient obsahuje najmenej údaje podľa odseku 2 poslednej vety okrem unikátneho identifikátora dokladu a obsahuje podpisový kód podnikateľa.“.
+- Pri prekročení hraničnej doby odozvy pokladničný doklad vyhotovený pokladnicou e-kasa klient obsahuje najmenej údaje podľa odseku 7 okrem unikátneho identifikátora dokladu a obsahuje podpisový kód podnikateľa. Pri prekročení hraničnej doby odozvy pokladničný doklad vyhotovený pokladnicou e-kasa klient, ak ide o úhradu faktúry alebo jej časti, obsahuje najmenej údaje podľa odseku 2 druhej vety, okrem unikátneho identifikátora dokladu a obsahuje podpisový kód podnikateľa. Pri prekročení hraničnej doby odozvy doklad označený slovami „NEPLATNÝ DOKLAD“ vyhotovený pokladnicou e-kasa klient obsahuje najmenej údaje podľa odseku 2 štvrtej vety okrem unikátneho identifikátora dokladu a obsahuje podpisový kód podnikateľa. Doklad označený slovom „VKLAD“ alebo „VÝBER“ vyhotovený pokladnicou e-kasa klient obsahuje najmenej údaje podľa odseku 2 poslednej vety okrem unikátneho identifikátora dokladu a obsahuje podpisový kód podnikateľa.
+
+- (10)
+
+- Pri predaji jednoúčelového poukazu podľa osobitného predpisu<sup>4a</sup>) na nákup tovaru alebo na poskytnutie služby podnikateľ vyhotoví pokladničný doklad elektronickou registračnou pokladnicou podľa odseku 1 alebo odseku 2, ak ide o úhradu faktúry; pri výmene jednoúčelového poukazu za tovar alebo poskytnutú službu podnikateľ vyhotoví pokladničný doklad, ktorý obsahuje najmenej údaje podľa odseku 1 písm. a) až f), h), i) a m) až o), označenie tovaru alebo označenie služby a množstvo tovaru alebo rozsah služby. Pri predaji jednoúčelového poukazu podľa osobitného predpisu<sup>4a</sup>) na nákup tovaru alebo na poskytnutie služby podnikateľ vyhotoví pokladničný doklad pokladnicou e-kasa klient podľa odseku 7 alebo podľa odseku 2, ak ide o úhradu faktúry. Pri výmene jednoúčelového poukazu za tovar alebo za poskytnutú službu podnikateľ vyhotoví pokladničný doklad, ktorý obsahuje najmenej údaje podľa odseku 1 písm. c), f), h), i) a m) až o), označenie tovaru alebo označenie služby, množstvo tovaru alebo rozsah služby, daňové identifikačné číslo, kód pokladnice e-kasa klient, identifikačné číslo organizácie, ak bolo podnikateľovi pridelené, poradové číslo, unikátny identifikátor dokladu, čitateľný QR kód, overovací kód podnikateľa, slová „úhrada poukazom“ a môže obsahovať unikátny identifikátor kupujúceho, ak je predložený kupujúcim pred zaevidovaním prijatej tržby, a číslo jednoúčelového poukazu; tento pokladničný doklad nesmie obsahovať údaje podľa odseku 1 písm. j) až l).“.
 
   - Doterajší odsek 9 sa označuje ako odsek 11.
 
@@ -612,7 +622,7 @@ Zákon č. 289/2008 Z. z. o používaní elektronickej registračnej pokladnice 
 
 - (1)
 
-- Podnikateľ je povinný pri evidovaní tržby v pokladnici e-kasa klient zabezpečiť, aby pokladnica e-kasa klient zasielala do systému e-kasa najmenej údaje podľa § 8 ods. 1 písm. c), f) až h), j) až l), n) a o), daňové identifikačné číslo, kód pokladnice e-kasa klient, identifikačné číslo organizácie, ak podnikateľovi bolo pridelené, poradové číslo, unikátny identifikátor kupujúceho, ak je predložený kupujúcim pred zaevidovaním prijatej tržby, overovací kód podnikateľa, podpisový kód podnikateľa, identifikátor pokladničného dokladu, ak ide o vrátenie tovaru alebo o opravu evidovanej položky v pokladnici e-kasa klient, a jedinečný identifikátor pokladničného programu a chráneného dátového úložiska;
+- Podnikateľ je povinný pri evidovaní tržby v pokladnici e-kasa klient zabezpečiť, aby pokladnica e-kasa klient zasielala do systému e-kasa najmenej údaje podľa § 8 ods. 1 písm. c), f) až h), j) až l), n) a o), daňové identifikačné číslo, kód pokladnice e-kasa klient, identifikačné číslo organizácie, ak podnikateľovi bolo pridelené, poradové číslo, unikátny identifikátor kupujúceho, ak je predložený kupujúcim pred zaevidovaním prijatej tržby, overovací kód podnikateľa, podpisový kód podnikateľa, identifikátor pokladničného dokladu, ak ide o vrátenie tovaru alebo o opravu evidovanej položky v pokladnici e-kasa klient, a jedinečný identifikátor pokladničného programu a chráneného dátového úložiska; pri výmene jednoúčelového poukazu za tovar alebo za poskytnutú službu sa do systému e-kasa zasiela informácia o výmene poukazu alebo aj číslo jednoúčelového poukazu.
 
 - (2)
 
