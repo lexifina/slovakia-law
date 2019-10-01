@@ -378,6 +378,8 @@ Z. z., zákona č. 255/2001 Z. z., zákona č. 419/2002 Z. z., zákona č. 173/2
 
 - 31. V § 33a ods. 5 sa za slovo „skúšky“ vkladajú slová „a o postupe pri odobratí oprávnenia na spôsobilosť rozhodovať o návrhu na vklad“.
 
+- 32. V § 35 ods. 1 sa na konci pripája táto veta: „Návrh na vykonanie záznamu možno podať aj prostredníctvom elektronického formulára, ktorý úrad zverejní na svojom webovom sídle.“.
+
 - 33. V § 35 odsek 2 znie:
 
 - „(2)
@@ -471,6 +473,12 @@ Z. z., zákona č. 255/2001 Z. z., zákona č. 419/2002 Z. z., zákona č. 173/2
 - d)
 
 - v deň doručenia verejnej listiny alebo inej listiny na zápis poznámky, najneskôr však v nasledujúci pracovný deň.“.
+
+- 39. § 43 sa dopĺňa odsekom 3, ktorý znie:
+
+- „(3)
+
+- Ak bol návrh na vykonanie záznamu podaný prostredníctvom elektronického formulára, okresný úrad vykoná záznam do 30 dní od doručenia návrhu na vykonanie záznamu.“.
 
 - 40. Za § 43 sa vkladá § 43a, ktorý znie:
 
