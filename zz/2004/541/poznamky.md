@@ -60,7 +60,11 @@
 
 - 11ab) § 8 ods. 5 až 8 zákona č. 54/2015 Z. z.
 
-- 11b) § 24 a 25 zákona č. 24/2006 Z. z. v znení neskorších predpisov.
+- 11b) Dohovor o prístupe k informáciám, účasti verejnosti na rozhodovacom procese a prístupe k spravodlivosti v záležitostiach životného prostredia (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 43/2006 Z. z.).
+
+- 11c) § 24 a 25 zákona č. 24/2006 Z. z. v znení neskorších predpisov.
+
+- 11d) Zákon č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 12) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
 
@@ -183,6 +187,12 @@
 - 45) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 45a) § 23 ods. 1 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení zákona č. 273/2015 Z. z.
+
+- 45aa) § 56 zákona č. 71/1967 Zb.
+
+- 45ab) § 33 ods. 2 zákona č. 71/1967 Zb.
+
+- 45ac) § 62 až 68 zákona č. 71/1967 Zb.
 
 - 45b) § 29 až 33 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
 
