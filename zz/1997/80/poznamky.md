@@ -8,7 +8,7 @@
 
 - 1aaa) § 3 ods. 2 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
 
-- 2) Zákon č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+- 2) Zákon č. 423/2015 Z. z. o štatutárnom audite a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov v znení neskorších predpisov.
 
 - 3) § 2 ods. 1 zákona č. 483/2001 Z. z.
 
@@ -26,7 +26,7 @@
 
 - 6a) § 23 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
-- 6b) § 12 zákona č. 392/2015 Z. z. o rozvojovej spolupráci a o zmene a doplnení niektorých zákonov.
+- 6b) § 12 zákona č. 392/2015 Z. z. o rozvojovej spolupráci a o zmene a doplnení niektorých zákonov v znení zákona č. 281/2019 Z. z.
 
 - 7) § 3 ods. 1 písm. b) prvý bod zákona č. 240/2001 Z. z. o orgánoch štátnej správy v colníctve.
 
@@ -34,7 +34,11 @@
 
 - Zákon č. 600/1992 Zb. o cenných papieroch v znení neskorších predpisov.
 
+- 9) § 682 až 691 a § 762 Obchodného zákonníka v znení neskorších predpisov.
+
 - 10) Zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- 10a) § 12a zákona č. 392/2015 Z. z. v znení zákona č. 281/2019 Z. z.
 
 - 11) § 5 zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov.
 
@@ -54,7 +58,9 @@
 
 - 13) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
-- 13a) § 21 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+- 13a) § 23 ods. 6 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+
+- 13b) § 34 ods. 4 zákona č. 423/2015 Z. z.
 
 - 14) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
 
