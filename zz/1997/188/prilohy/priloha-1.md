@@ -1,1 +1,0 @@
-Príloha č. 1 k vyhláške č. 188/1997 Z. z. [Vzor 01 - Potvrdenie o úhrade príspevku vývozcu do záručného fondu Exportno-importnej banky Slovenskej republiky](../assets/eaf33b2162cee5b559ba80c8551726b43ad0db5a29807d8931dce55d2bd8fc2d.pdf)
