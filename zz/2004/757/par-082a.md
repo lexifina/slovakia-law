@@ -6,6 +6,6 @@
 
 (3) Pred zverejnením rozhodnutia podľa odseku 1 sa v nich anonymizujú údaje, ktorých anonymizovaním bude pri zverejňovaní zabezpečená ochrana práv a právom chránených záujmov.
 
-(4) Zverejňovanie súdnych rozhodnutí podľa odseku 1 technicky zabezpečuje ministerstvo na svojom webovom sídle.
+(4) Zverejňovanie súdnych rozhodnutí podľa odseku 1 technicky zabezpečuje ministerstvo na svojom webovom sídle. Kancelária najvyššieho súdu zverejňuje rozhodnutia najvyššieho súdu aj na webovom sídle najvyššieho súdu.
 
 (5) Súdy sprístupňujú verejnosti na základe žiadosti podľa osobitného zákona<sup>42a</sup>) všetky súdne rozhodnutia, vrátane neprávoplatných rozhodnutí a rozhodnutí, ktoré nie sú rozhodnutiami vo veci samej okrem súhlasu s poskytnutím údajov, ktoré sú predmetom telekomunikačného tajomstva podľa osobitného predpisu,<sup>42aa</sup>) súhlasu na použitie informačno-technických prostriedkov<sup>5</sup>) a príkazu podľa Trestného poriadku; súhlas však sprístupnia osobe, ktorej sa súhlas týka, ak tým nebude ohrozené alebo zmarené plnenie úloh štátu. Súdy pritom robia opatrenia na ochranu práv a právom chránených záujmov.<sup>42b</sup>)
