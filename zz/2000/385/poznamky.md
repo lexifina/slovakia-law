@@ -18,8 +18,6 @@
 
 - § 69a a 69b zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení zákona č. 195/2014 Z. z.
 
-- 4d) Čl. 154d ods. 1 až 3 Ústavy Slovenskej republiky v znení ústavného zákona č. 161/2014 Z. z.
-
 - 4e) Čl. 141a ods. 5 písm. b) Ústavy Slovenskej republiky v znení ústavného zákona č. 161/2014 Z. z.
 
 - 5) Zákon č. 311/1999 Z. z. o registri trestov v znení neskorších predpisov.
@@ -35,6 +33,10 @@
 - 6) Zákon Národnej rady Slovenskej republiky č. 38/1993 Z. z. o organizácii Ústavného súdu Slovenskej republiky, o konaní pred ním a o postavení jeho sudcov v znení neskorších predpisov.
 
 - 6a) Zákon č. 503/2011 Z. z. o vysielaní civilných expertov na výkon práce v aktivitách krízového manažmentu mimo územia Slovenskej republiky a o zmene a doplnení niektorých zákonov.
+
+- 6b) § 50 ods. 4 písm. a) a § 80 ods. 4 písm. d) zákona č. 180/2014 Z. z. o podmienkach výkonu volebného práva a o zmene a doplnení niektorých zákonov.
+
+- 6c) § 13 a nasl. zákona č. 180/2014 Z. z. v znení neskorších predpisov.
 
 - 7) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon) v znení neskorších predpisov.
 
@@ -79,6 +81,8 @@
 - 19) Zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov Slovenskej republiky v znení neskorších predpisov.
 
 - 19a) § 51 ods. 4 písm. a) zákona č. 757/2004 Z. z.
+
+- 19aa) § 17 ods. 2 a § 21 ods. 2 zákona č. 757/2004 Z. z v znení zákona č. 282/2019 Z. z.
 
 - 20) Zákon č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnosti zamestnanca a o zmene a doplnení niektorých zákonov.
 

@@ -20,6 +20,6 @@
 
 (3) Sudcovské rady, minister a národná rada predložia súdnej rade kandidátov na členov disciplinárnych senátov alebo kandidátov na predsedov disciplinárnych senátov, ktorých bude súdna rada voliť. Ak bol ten istý kandidát navrhnutý viacerými navrhovateľmi, súdna rada si od toho, koho návrh bol doručený neskôr, bez zbytočného odkladu vyžiada nový návrh na kandidáta.
 
-(4) Ak nebol zvolený potrebný počet predsedov disciplinárneho senátu alebo členov disciplinárneho senátu v jednotlivých databázach, vyhlási súdna rada bezodkladne v potrebnom rozsahu doplňujúce voľby.
+(4) Ak nebol zvolený potrebný počet predsedov disciplinárneho senátu alebo členov disciplinárneho senátu v jednotlivých databázach, vyhlási predseda súdnej rady bezodkladne v potrebnom rozsahu doplňujúce voľby.
 
 (5) Predseda súdnej rady je povinný zabezpečiť zverejňovanie databáz podľa odseku 1 na webovom sídle súdnej rady a bezodkladné zverejňovanie všetkých zmien v týchto databázach.

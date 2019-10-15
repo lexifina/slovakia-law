@@ -5,5 +5,3 @@
 (2) Ak sa počas dočasného pozastavenia výkonu funkcie sudcu z dôvodu vedenia trestného stíhania začne proti sudcovi disciplinárne konanie za čin, za ktorý môže byť odvolaný z funkcie sudcu, disciplinárny senát, ktorý rozhodol o dočasnom pozastavení výkonu funkcie sudcu na návrh toho, kto je oprávnený podať návrh na dočasné pozastavenie výkonu funkcie sudcu, rozhodne o rozšírení dôvodov dočasného pozastavenia výkonu funkcie sudcu.
 
 (3) Ak má sudca dočasne pozastavený výkon funkcie sudcu z dôvodu vedenia disciplinárneho konania za čin, za ktorý môže byť sudca odvolaný z funkcie sudcu, a zároveň má dočasne pozastavený výkon funkcie sudcu z dôvodu vedenia trestného stíhania, rozdiel, o ktorý bol funkčný plat sudcu skrátený, možno sudcovi vyplatiť podľa § 22 ods. 7, až keď odpadnú oba dôvody dočasného pozastavenia výkonu funkcie sudcu.
-
-(4) Ustanovenia odsekov 1 až 3 sa použijú rovnako aj vtedy, ak ide o dočasné pozastavenie výkonu funkcie sudcu z dôvodu podľa § 22 ods. 2 písm. c).

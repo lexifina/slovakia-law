@@ -1,6 +1,6 @@
 # § 27d
 
-(1) Prieskum podľa § 27c ods. 1 písm. a) vykonáva hodnotiaca komisia. Pri prieskume súdneho oddelenia sudcu vychádza zo správy o výsledku vnútornej revízie vykonanej na súde, na ktorý bol sudca pridelený alebo preložený. Ak správa o výsledku vnútornej revízie nepostačuje na účely hodnotenia sudcu, hodnotiaca komisia sa zameriava najmä na
+(1) Prieskum podľa § 27c písm. a) vykonáva hodnotiaca komisia. Pri prieskume súdneho oddelenia sudcu vychádza zo správy o výsledku vnútornej revízie vykonanej na súde, na ktorý bol sudca pridelený, preložený alebo na ktorom vykonával funkciu sudcu ako hosťujúci sudca. Ak správa o výsledku vnútornej revízie nepostačuje na účely hodnotenia sudcu, hodnotiaca komisia sa zameriava najmä na
 
 - a) dodržiavanie predpisov o konaní pred súdmi, náležitostí zápisníc a rozhodnutí, dodržiavanie zákonných lehôt na konanie a rozhodnutie,
 
