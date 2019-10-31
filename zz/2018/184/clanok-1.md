@@ -888,6 +888,10 @@ Zákon č. 39/2007 Z. z. o veterinárnej starostlivosti v znení zákona č. 99/
 
 - Karanténna stanica a útulok pre zvieratá sú povinné pri prevzatí zvieraťa overiť jeho identifikáciu. Ak zviera nie je individuálne označené, karanténna stanica alebo útulok pre zvieratá po jeho prijatí bezodkladne zabezpečí jeho označenie alebo opis so zreteľom na špecifiká každého druhu; ak ide o psa, mačku alebo fretku, označí ho transpondérom. Ak veterinárny lekár rozhodne, že je potrebné zviera usmrtiť zo zdravotných dôvodov, nie je potrebné ho individuálne označiť.
 
+- (17)
+
+- Ak sa vlastník odchyteného túlavého zvieraťa neprihlási o zviera do troch mesiacov odo dňa umiestnenia zvieraťa do karanténnej stanice alebo do útulku pre zvieratá, dňom nasledujúcim po uplynutí tejto lehoty prechádza vlastníctvo zvieraťa na obec, na území ktorej bolo zviera nájdené.
+
 - (18)
 
 - Ministerstvo zriaďuje a zabezpečuje prevádzku staníc pre zvieratá, ktoré podliehajú veterinárnym opatreniam a ktoré slúžia na umiestnenie zvierat podliehajúcich veterinárnym opatreniam nariadeným orgánom veterinárnej správy v súvislosti s ochranou zdravia zvierat, dobrými životnými podmienkami zvierat a veterinárnym opatreniam nariadeným pri obchode s členskými štátmi alebo tretími krajinami.
