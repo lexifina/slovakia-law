@@ -216,6 +216,38 @@ Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a do
 
 - 18. V § 4 ods. 1 sa na konci pripája táto veta: „Na účely tohto zákona sa za trvanie zmluvy podľa predchádzajúcej vety rozumie doba, počas ktorej partner verejného sektora prijíma finančné prostriedky alebo nadobúda majetok, práva k majetku alebo iné majetkové práva.“.
 
+- 19. V § 4 ods. 2 písm. b) sa vypúšťajú slová „alebo miesto podnikania“.
+
+- 20. V § 4 ods. 2 písm. c) sa vypúšťajú slová „identifikačné číslo organizácie, ak bolo pridelené, inak“.
+
+- 21. V § 4 sa za odsek 2 vkladá nový odsek 3, ktorý znie:
+
+- „(3)
+
+- O fyzickej osobe – podnikateľovi, ktorý je partnerom verejného sektora, sa do registra zapisuje
+
+- a)
+
+- obchodné meno,
+
+- b)
+
+- miesto podnikania,
+
+- c)
+
+- identifikačné číslo organizácie, ak bolo pridelené, inak dátum narodenia,
+
+- d)
+
+- zoznam konečných užívateľov výhod v rozsahu podľa odseku 2 písm. d),
+
+- e)
+
+- údaje o oprávnenej osobe podľa odseku 2 písm. e).“.
+
+  - Doterajšie odseky 3 až 6 sa označujú ako odseky 4 až 7.
+
 - 22. V § 4 odsek 5 znie:
 
 - „(5)
@@ -230,7 +262,23 @@ Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a do
 
   - Doterajšie odseky 6 a 7 sa označujú ako odseky 7 a 8.
 
+- 24. V § 4 odsek 7 znie:
+
+- „(7)
+
+- Do registra sa ďalej zapisuje dátum každého overenia identifikácie konečného užívateľa výhod, dátum zápisu a dátum výmazu údajov podľa odsekov 2 až 4, dátum začatia a skončenia konania podľa § 12 a spisová značka tohto konania, dátum právoplatnosti rozhodnutia o výmaze podľa § 12 ods. 7, dátum právoplatnosti rozhodnutia podľa § 12 ods. 8 a dátum právoplatnosti rozhodnutia o pokute podľa § 13 ods. 1. Súčasťou registra sú aj všetky verifikačné dokumenty.“.
+
 - 25. V § 6 ods. 1 písm. e) sa slová „§ 11 ods. 5“ nahrádzajú slovami „§ 11 ods. 6“.
+
+- 26. V § 6 sa odsek 1 dopĺňa písmenami f) a g), ktoré znejú:
+
+- „f)
+
+- verifikačný dokument neobsahuje všeobecne použiteľný identifikátor,
+
+- g)
+
+- partner verejného sektora nebol v posledných dvoch rokoch vymazaný z registra podľa § 12 ods. 7 alebo podľa § 13 ods. 2, ak ide o návrh na zápis údajov do registra.“.
 
 - 27. V § 9 ods. 1 sa za slovo „výhod“ vkladajú slová „alebo k zmene osoby konečného užívateľa výhod“.
 
@@ -241,6 +289,14 @@ Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a do
 - 30. V § 11 ods. 2 písm. d) a e) sa slovo „päť“ nahrádza slovom „desať“.
 
 - 31. V § 11 ods. 3 sa za slovo „ak“ vkladajú slová „identifikácia konečného užívateľa výhod alebo“ a slovo „bolo“ sa nahrádza slovom „boli“.
+
+- 32. V § 11 sa za odsek 3 vkladá nový odsek 4, ktorý znie:
+
+- „(4)
+
+- Oprávnená osoba môže vykonať overenie identifikácie konečného užívateľa výhod kedykoľvek aj bez splnenia podmienok podľa odseku 2.“.
+
+  - Doterajšie odseky 4 až 8 sa označujú ako odseky 5 až 9.
 
 - 33. V § 11 odsek 5 znie:
 
@@ -293,6 +349,12 @@ Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a do
 - 47. V § 13 ods. 3 sa slová „§ 11 ods. 8“ nahrádzajú slovami „§ 11 ods. 10“.
 
 - 48. V § 13 ods. 7 sa slová „ak jej registrujúci orgán uložil zaplatiť pokutu spoločne a nerozdielne s osobou“ nahrádzajú slovami „ktorá ručí za zaplatenie pokuty“.
+
+- 49. Za § 13 sa vkladá § 13a, ktorý znie:
+
+- „§ 13a
+
+- Ak registrujúci orgán vykoná výmaz partnera verejného sektora podľa § 12 ods. 7 alebo § 13 ods. 2, partner verejného sektora nemôže byť do registra zapísaný počas dvoch rokov od výmazu; to platí aj vtedy, ak partner verejného sektora nie je zapísaný v registri ku dňu právoplatnosti rozhodnutia podľa § 12 ods. 8.“.
 
 - 50. V § 14 sa slová „podľa § 12 a o“ nahrádzajú slovami „podľa § 12 ods. 7, rozhodnutie podľa § 12 ods. 8 a rozhodnutie o“ a na konci sa pripájajú tieto slová: „alebo ktorá bola vymazaná z registra na návrh oprávnenej osoby v priebehu konania podľa § 12“.
 
