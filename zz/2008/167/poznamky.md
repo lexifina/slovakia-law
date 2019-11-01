@@ -14,8 +14,6 @@
 
 - 8) § 8 zákona č. 212/1997 Z. z. o povinných výtlačkoch periodických publikácií, neperiodických publikácií a rozmnoženín audiovizuálnych diel v znení zákona č. 182/2000 Z. z.
 
-- 8a) Čl. 2 ústavného zákona č. 357/2004 Z. z. o ochrane verejného záujmu pri výkone funkcií verejných funkcionárov v znení ústavného zákona č. 545/2005 Z. z.
-
 - 8b) § 2 ods. 5 zákona č. 212/1997 Z. z.
 
 - 9) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
