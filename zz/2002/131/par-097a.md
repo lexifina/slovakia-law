@@ -26,7 +26,7 @@
 
 (4) V podmienkach štipendijného programu možno vylúčiť priznanie podnikového štipendia, ak študentovi bolo priznané podnikové štipendium z iného štipendijného programu uskutočňovaného tou istou vysokou školou.
 
-(5) Poskytovanie podnikového štipendia nemožno podmieniť uzatváraním ďalších právnych vzťahov medzi podnikateľom a študentom alebo plnením povinností nad rámec študijných povinností vyplývajúcich zo študijného programu, na ktorý je študent zapísaný.
+(5) Pri poskytnutí podnikového štipendia sa podnikateľ a študent môžu dohodnúť, že podmienkou poskytovania podnikového štipendia bude aj záväzok študenta, že s podnikateľom uzatvorí pracovnoprávny vzťah na dohodnutú dobu určitú s mzdou alebo s odmenou, akú podnikateľ v súlade so svojimi mzdovými podmienkami poskytuje iným zamestnancom, ktorí vykonávajú u podnikateľa rovnaký druh práce alebo obdobný druh práce.
 
 (6) Priemerná mesačná výška podnikového štipendia poskytnutá študentovi v jednom akademickom roku nesmie presiahnuť štvornásobok sumy životného minima jednej plnoletej fyzickej osoby.
 
