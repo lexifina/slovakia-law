@@ -1,6 +1,6 @@
 # § 20a Oprávnenie na snímanie identifikačných znakov
 
-(1) Policajt je oprávnený osobe predvedenej podľa § 18 ods. 3 a 4, ak na základe oznámených údajov ani v evidencii obyvateľov nemožno zistiť jej totožnosť, osobe zaistenej podľa § 19, osobe zadržanej, osobe zatknutej, osobe obvinenej zo spáchania trestného činu, osobe nájdenej alebo vypátranej odobrať daktyloskopické odtlačky, zisťovať telesné znaky, vykonať meranie tela, vyhotoviť obrazové, zvukové a obdobné záznamy a odobrať vzorky biologických materiálov. Policajt je oprávnený snímať identifikačné znaky cudzincovi,
+(1) Policajt je oprávnený osobe predvedenej podľa § 18 ods. 3 a 4, ak na základe oznámených údajov ani v evidencii obyvateľov nemožno zistiť jej totožnosť, osobe zaistenej podľa § 19, osobe zadržanej, osobe zatknutej, osobe obvinenej zo spáchania trestného činu, osobe nájdenej alebo vypátranej odobrať daktyloskopické odtlačky, zisťovať telesné znaky, vykonať meranie tela, vyhotoviť obrazové, zvukové a obdobné záznamy a odobrať vzorky biologických materiálov. Policajt je oprávnený snímať identifikačné znaky aj inej osobe na účely ich vyhľadávania a porovnávania v informačných systémoch Policajného zboru; takto zosnímané identifikačné znaky sa neuchovávajú. Policajt je oprávnený snímať identifikačné znaky cudzincovi,
 
 - a) ktorý neoprávnene prekročil vonkajšiu hranicu Slovenskej republiky,
 
