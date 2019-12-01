@@ -276,6 +276,8 @@
 
 - § 8 zákona č. 90/2016 Z. z. v znení zákona č. 299/2016 Z. z.
 
+- 93adf) Zákon č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratívnej záťaže využívaním informačných systémov verejnej správy a o zmene a doplnení niektorých zákonov (zákon proti byrokracii) v znení zákona č. 221/2019 Z. z.
+
 - 93ae) § 105b ods. 1 Obchodného zákonníka.
 
 - 93af) § 68 ods. 11 Obchodného zákonníka.
