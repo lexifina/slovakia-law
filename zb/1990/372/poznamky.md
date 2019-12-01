@@ -24,9 +24,13 @@
 
 - 3ba) § 74 ods. 2 zákona č. 8/2009 Z. z. v znení zákona č. 313/2011 Z. z.
 
+- 3baa) § 64 ods. 1 zákona č. 8/2009 Z. z.
+
+- 3bab) § 64 ods. 2 zákona č. 8/2009 Z. z. v znení zákona č. 313/2011 Z. z.
+
 - 3bb) § 2 ods. 1 zákona č. 93/2005 Z. z. o autoškolách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 3bc) § 139a ods. 8 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+- 3bc) § 4 zákona č. 280/2006 Z. z. o povinnej základnej kvalifikácii a pravidelnom výcviku niektorých vodičov v znení zákona č. 653/2007 Z. z.
 
 - 3c) § 16, § 27 ods. 3, § 34 ods. 1, § 49 ods. 2, § 59 ods. 3 zákona č. 8/2009 Z. z. v znení neskorších predpisov.
 
