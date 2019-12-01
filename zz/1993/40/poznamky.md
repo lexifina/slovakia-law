@@ -26,6 +26,8 @@
 
 - 12a) § 4 ods. 3 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
+- 12aa) § 1 ods. 3 a 4 zákona č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratívnej záťaže využívaním informačných systémov verejnej správy a o zmene a doplnení niektorých zákonov (zákon proti byrokracii) v znení zákona č. 221/2019 Z. z.
+
 - 13) § 28 a 41 zákona č. 48/2002 Z. z. v znení neskorších predpisov.
 
 - 13a) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
@@ -33,6 +35,14 @@
 - 13aa) Napríklad čl. 74 ods. 2, čl. 103 ods. 1, čl. 134 ods. 3 a čl. 145 ods. 2 Ústavy Slovenskej republiky, § 192 ods. 1 písm. g) zákona č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície, § 183 ods. 1 písm. g) zákona č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov, § 15 ods. 2 písm. b) zákona č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry, § 60 ods. 1 písm. a) zákona č. 315/2001 Z. z. o Hasičskom a záchrannom zbore, § 70 ods. 1 písm. g) zákona č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov, § 3 ods. 3 zákona č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
 
 - 13aaa) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
+- 13aaaa) § 170 ods. 21 zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 221/2019 Z. z.
+
+- Zákon č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- § 25 ods. 5 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 221/2019 Z. z.
+
+- Zákon č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 13ab) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
