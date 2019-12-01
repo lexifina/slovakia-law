@@ -58,4 +58,6 @@
 
 - 6c) Zákon č. 9/2010 Z. z. o sťažnostiach v znení zákona č. 289/2012 Z. z.
 
+- 6d) § 181 ods. 1 Správneho súdneho poriadku.
+
 - 7) Občiansky súdny poriadok.
