@@ -66,7 +66,7 @@
 
 - b) nemá nedoplatky voči colnému úradu ani daňovému úradu,
 
-- c) nemá nedoplatky na povinných odvodoch poistného a na povinných príspevkoch na starobné dôchodkové sporenie podľa osobitných predpisov,<sup>7</sup>)
+- c) nemá evidované nedoplatky na poistnom na sociálne poistenie a zdravotná poisťovňa neeviduje voči nemu pohľadávky po splatnosti podľa osobitných predpisov,<sup>7</sup>)
 
 - d) vykazuje na základe súvahy z riadnej účtovnej závierky kladný rozdiel medzi majetkom a záväzkami<sup>8</sup>) za dve predchádzajúce účtovné obdobia,
 

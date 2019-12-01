@@ -16,7 +16,7 @@
 
 - b) nemá nedoplatky voči colnému úradu ani daňovému úradu,
 
-- c) nemá nedoplatky na povinných odvodoch poistného a na povinných príspevkoch na starobné dôchodkové sporenie podľa osobitných predpisov,<sup>7</sup>)
+- c) nemá evidované nedoplatky na poistnom na sociálne poistenie a zdravotná poisťovňa neeviduje voči nemu pohľadávky po splatnosti podľa osobitných predpisov,<sup>7</sup>)
 
 - d) nebol právoplatne odsúdený za úmyselný trestný čin hospodársky, trestný čin proti majetku alebo iný trestný čin, ktorého skutková podstata súvisí s predmetom podnikania; to sa vzťahuje aj na zodpovedného zástupcu a fyzické osoby, ktoré sú členmi riadiacich orgánov alebo kontrolných orgánov žiadateľa,
 

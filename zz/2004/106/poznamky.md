@@ -36,11 +36,9 @@
 
 - 6) Nariadenie Komisie (ES) č. 31/96 z 10. januára 1996 o osvedčení o oslobodení od spotrebnej dane (Úradný vestník Európskeho spoločenstva L 008, 11/1/1996, s. 11 –15).
 
-- 7) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+- 7) § 170 ods. 21 zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 221/2019 Z. z.
 
-- Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- § 25 ods. 5 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 221/2019 Z. z.
 
 - 8) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
