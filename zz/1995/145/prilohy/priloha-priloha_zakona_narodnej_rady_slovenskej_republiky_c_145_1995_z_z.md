@@ -476,17 +476,37 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 22a
 
-  - a) Podanie žiadosti o vydanie občianskeho preukazu | 4,50 eura
+    - a) Vydanie občianskeho preukazu .............................................................................. 4,50 eura
 
-  - b) Podanie žiadosti o vydanie občianskeho preukazu ako náhrady za zničený, stratený, odcudzený alebo poškodený občiansky preukaz | 16,50 eura
+    - b) Vydanie občianskeho preukazu z dôvodu straty alebo odcudzenia občianskeho preukazu vydaného s platnosťou na menej ako 10 rokov .............................................................. 9 eur
 
-  - c) Podanie žiadosti o vydanie občianskeho preukazu ako náhrady za zničený, stratený, odcudzený alebo poškodený občiansky preukaz, opakovane v priebehu dvoch po sebe nasledujúcich rokoch | 33 eur
+    - c) Vydanie občianskeho preukazu z dôvodu straty alebo odcudzenia občianskeho preukazu vydaného s platnosťou na 10 rokov ...................................................................... 16,50 eura
 
-  - d) Doručenie občianskeho preukazu na adresu na území Slovenskej republiky službou zavedenou na tento účel | 3 eurá
+    - d) Doručenie občianskeho preukazu na adresu na území Slovenskej republiky službou zriadenou na tento účel .............................................................................................. 3 eurá
 
-  - Oslobodenie 1. Od poplatkov podľa tejto položky je oslobodené podanie žiadosti o vydanie prvého občianskeho preukazu a nového občianskeho preukazu podľa § 7 ods. 2 a § 17 ods. 4 zákona č. 224/2006 Z. z. o občianskych preukazoch a o zmene a doplnení niektorých zákonov. 2. Od poplatkov podľa tejto položky je oslobodené podanie žiadosti o vydanie občianskeho preukazu ako náhrady za stratený alebo odcudzený občiansky preukaz u občanov starších ako 60 rokov veku alebo u držiteľov preukazu občana s ťažkým zdravotným postihnutím. 3. Od poplatkov podľa tejto položky je oslobodené podanie žiadosti o vydanie občianskeho preukazu ako náhrady za stratený alebo odcudzený občiansky preukaz, opakovane v priebehu dvoch po sebe nasledujúcich rokoch u občanov starších ako 60 rokov veku alebo u držiteľov preukazu občana s ťažkým zdravotným postihnutím. |
+    - Oslobodenie
 
-  - Splnomocnenie Okresné riaditeľstvo Policajného zboru vyberie poplatok vo výške 20 eur, ak vyhotovuje občiansky preukaz urýchlene do dvoch pracovných dní na žiadosť žiadateľa. |
+      - 1. Od poplatku podľa písmena a) tejto položky sú oslobodení občania, ktorým sa vydáva občiansky preukaz z dôvodu dovŕšenia veku 15 rokov a občania, ktorým sa vydáva občiansky preukaz z dôvodu uplynutia jeho platnosti.
+
+      - 2. Od poplatku podľa písmena a) tejto položky sú oslobodení občania, ktorým sa vydáva občiansky preukaz po zmene nezavinenej občanom alebo ak bola v občianskom preukaze zistená chyba zapríčinená výrobcom občianskeho preukazu alebo chyba zapríčinená útvarom Policajného zboru príslušným na vydávanie občianskych preukazov alebo zastupiteľským úradom Slovenskej republiky v zahraničí.
+
+      - 3. Od poplatku podľa písmena a) tejto položky sú oslobodení občania, ktorým sa vydáva občiansky preukaz za platný občiansky preukaz bez elektronického čipu.
+
+      - 4. Od poplatku podľa písmena a) tejto položky sú oslobodení občania, ktorým sa vydáva občiansky preukaz po obmedzení spôsobilosti na právne úkony, po zmene obmedzenia spôsobilosti na právne úkony alebo po navrátení spôsobilosti na právne úkony.
+
+      - 5. Od poplatku podľa písmena a) tejto položky sú oslobodení občania starší ako 15 rokov, ak existuje dôvod na oslobodenie od poplatku podľa písmena a) tejto položky a zároveň sa do občianskeho preukazu uvedú nové údaje alebo sa zmenia alebo zrušia v ňom uvedené údaje.
+
+      - 6. Od poplatku podľa písmen a) a c) tejto položky sú oslobodení občania starší ako 60 rokov, občania, ktorí sú držiteľmi preukazu fyzickej osoby s ťažkým zdravotným postihnutím a občania, ktorí sú držiteľmi preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom.
+
+      - 7. Od poplatku podľa písmena b) tejto položky sú oslobodení občania, ktorým sa vydáva občiansky preukaz z dôvodu straty alebo odcudzenia po uplynutí platnosti občianskeho preukazu, ktorý bol stratený alebo odcudzený.
+
+      - 8. Od poplatku podľa písmena c) tejto položky sú oslobodení občania, ktorým sa vydáva občiansky preukaz z dôvodu odcudzenia občianskeho preukazu, ak sa občianskeho preukazu zmocnila násilím iná osoba a táto skutočnosť bola ohlásená príslušnému útvaru Policajného zboru alebo príslušnému policajnému orgánu v krajine, kde sa udalosť stala.
+
+    - Splnomocnenie
+
+      - 1. Správny orgán vyberie poplatok vo výške podľa písmena a) tejto položky za vydanie občianskeho preukazu s platnosťou na menej ako 10 rokov z dôvodu odcudzenia občianskeho preukazu, ak sa občianskeho preukazu zmocnila násilím iná osoba a táto skutočnosť bola ohlásená príslušnému útvaru Policajného zboru alebo príslušnému policajnému orgánu v krajine, kde sa udalosť stala.
+
+      - 2. Správny orgán vyberie okrem poplatku podľa písmen a) až d) tejto položky poplatok vo výške 20 eur za urýchlené vydanie občianskeho preukazu do dvoch pracovných dní na žiadosť občana.
 
     - Položka 23
 
@@ -4334,7 +4354,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 1. Od poplatku podľa tejto položky sú oslobodené múzeá s prírodovedným zameraním a verejné vysoké školy. |
 
-  - 2. Od poplatku za podanie žiadosti na vydanie súhlasu na prieskum a výskum osobitne chránených častí prírody a krajiny a od poplatku za podanie žiadosti na činnosť súvisiacu s vykonávaním výskumu a prieskumu sú oslobodení žiaci a študenti stredných škôl a vysokých škôl po predložení potvrdenia o návšteve školy, ak vykonávajú výskum a prieskum osobitne chránených častí prírody a krajiny v záujme ochrany prírody a krajiny. |
+  - 2. Od poplatku za podanie žiadosti na vydanie súhlasu na prieskum a výskum osobitne chránených častí prírody a krajiny a od poplatku za podanie žiadosti na činnosť súvisiacu s vykonávaním výskumu a prieskumu sú oslobodení žiaci a študenti stredných škôl a vysokých škôl so sídlom na území Slovenskej republiky po predložení oznámenia obsahujúceho ich meno, priezvisko a rodné číslo alebo dátum narodenia, ak vykonávajú výskum a prieskum osobitne chránených častí prírody a krajiny v záujme ochrany prírody a krajiny. |
 
   - 3. Od poplatku podľa tejto položky sú oslobodení žiadatelia, ak nimi podaná žiadosť súvisí s odstraňovaním stromov a krov v ochranných pásmach podľa osobitných predpisov.<sup>37</sup>) |
 
@@ -4348,7 +4368,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Oslobodenie |
 
-  - 1. Od poplatku podľa tejto položky sú oslobodení žiaci a študenti stredných škôl a vysokých škôl po predložení potvrdenia o návšteve školy, ak vykonávajú vedecko-výskumnú činnosť, verejné vysoké školy a múzeá s prírodovedným zameraním. |
+  - 1. Od poplatku podľa tejto položky sú oslobodení žiaci a študenti stredných škôl a vysokých škôl so sídlom na území Slovenskej republiky po predložení oznámenia, ktoré obsahuje ich meno, priezvisko a rodné číslo alebo dátum narodenia, ak vykonávajú výskumno-vývojovú činnosť, verejné vysoké školy a múzeá s prírodovedným zameraním. |
 
   - 2. Od poplatku podľa tejto položky sú oslobodení žiadatelia, ak nimi podaná žiadosť súvisí s odstraňovaním stromov a krov v ochranných pásmach podľa osobitných predpisov.<sup>37</sup>) |
 
@@ -5774,15 +5794,33 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 259
 
-  - a) Žiadosť o vydanie občianskeho preukazu | 15 eur
+    - a) Vydanie občianskeho preukazu .................................................................................. 15 eur
 
-  - b) Žiadosť o vydanie občianskeho preukazu ako náhrady za zničený, stratený, odcudzený alebo poškodený občiansky preukaz | 30 eur
+    - b) Vydanie občianskeho preukazu z dôvodu straty, odcudzenia alebo poškodenia občianskeho preukazu vydaného s platnosťou na menej ako 10 rokov ............................................ 30 eur
 
-  - c) Žiadosť o vydanie občianskeho preukazu ako náhrady za zničený, stratený, odcudzený alebo poškodený občiansky preukaz v priebehu dvoch po sebe nasledujúcich rokoch | 50 eur
+    - c) Vydanie občianskeho preukazu z dôvodu straty, odcudzenia alebo poškodenia občianskeho preukazu vydaného s platnosťou na 10 rokov ............................................................. 50 eur
 
-  - Oslobodenie |
+    - Oslobodenie
 
-  - Od poplatku podľa písmena b) a c) tejto položky sú oslobodení občania starší ako 60 rokov veku alebo držitelia preukazu občana s ťažkým zdravotným postihnutím. |
+      - 1. Od poplatku podľa písmena a) tejto položky sú oslobodení občania, ktorým sa vydáva občiansky preukaz z dôvodu dovŕšenia veku 15 rokov a občania, ktorým sa vydáva občiansky preukaz z dôvodu uplynutia jeho platnosti.
+
+      - 2. Od poplatku podľa písmena a) tejto položky sú oslobodení občania, ktorým sa vydáva občiansky preukaz po zmene nezavinenej občanom alebo ak bola v občianskom preukaze zistená chyba zapríčinená výrobcom občianskeho preukazu alebo chyba zapríčinená útvarom Policajného zboru príslušným na vydávanie občianskych preukazov alebo zastupiteľským úradom Slovenskej republiky v zahraničí.
+
+      - 3. Od poplatku podľa písmena a) tejto položky sú oslobodení občania, ktorým sa vydáva občiansky preukaz za platný občiansky preukaz bez elektronického čipu.
+
+      - 4. Od poplatku podľa písmena a) tejto položky sú oslobodení občania, ktorým sa vydáva občiansky preukaz po obmedzení spôsobilosti na právne úkony, po zmene obmedzenia spôsobilosti na právne úkony alebo po navrátení spôsobilosti na právne úkony.
+
+      - 5. Od poplatku podľa písmena a) tejto položky sú oslobodení občania starší ako 15 rokov, ak existuje dôvod na oslobodenie od poplatku podľa písmena a) tejto položky a zároveň sa do občianskeho preukazu uvedú nové údaje alebo sa zmenia alebo zrušia v ňom uvedené údaje.
+
+      - 6. Od poplatku podľa písmen a) a c) tejto položky sú oslobodení občania starší ako 60 rokov, občania, ktorí sú držiteľmi preukazu fyzickej osoby s ťažkým zdravotným postihnutím a občania, ktorí sú držiteľmi preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom.
+
+      - 7. Od poplatku podľa písmena b) tejto položky sú oslobodení občania, ktorým sa vydáva občiansky preukaz z dôvodu straty alebo odcudzenia po uplynutí platnosti občianskeho preukazu, ktorý bol stratený alebo odcudzený.
+
+      - 8. Od poplatku podľa písmena c) tejto položky sú oslobodení občania, ktorým sa vydáva občiansky preukaz z dôvodu odcudzenia občianskeho preukazu, ak sa občianskeho preukazu zmocnila násilím iná osoba a táto skutočnosť bola ohlásená príslušnému útvaru Policajného zboru alebo príslušnému policajnému orgánu v krajine, kde sa udalosť stala.
+
+    - Splnomocnenie
+
+      - Správny orgán vyberie poplatok vo výške podľa písmena a) tejto položky za vydanie občianskeho preukazu s platnosťou na menej ako 10 rokov z dôvodu odcudzenia občianskeho preukazu, ak sa občianskeho preukazu zmocnila násilím iná osoba a táto skutočnosť bola ohlásená príslušnému útvaru Policajného zboru alebo príslušnému policajnému orgánu v krajine, kde sa udalosť stala.
 
     - Položka 259a
 
@@ -5818,7 +5856,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 264
 
-  - Vydanie odpisu, výpisu alebo písomnej informácie a úradných záznamov, registrov, evidencií, listín alebo spisov za každú aj začatú stranu .................................................................................... | 5 eur
+  - a) Vydanie odpisu, výpisu alebo písomnej informácie a úradných záznamov, registrov, evidencií, listín alebo spisov za každú aj začatú stranu ........................................................ | 5 eur
+
+  - b) Vydanie viacjazyčného štandardného formulára ............................................................... | 5 eur
 
     - Položka 265
 
