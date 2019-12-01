@@ -60,6 +60,8 @@
 
 - 6c) Rozhodnutie Európskeho parlamentu a Rady (ES) č. 1152/2003/ES zo 16. júna 2003 o informatizácii prepravy a kontroly výrobkov podliehajúcich spotrebnej dani (Mimoriadne vydanie Ú. v. EÚ, kap. 9/zv. 1; Ú. v. EÚ L 162, 1. 7. 2003).
 
+- 6ca) Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 6d) Napríklad zákon č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 7) Napríklad § 135, 456 a 462 Občianskeho zákonníka, § 64 až 66, § 68, 69, 75, 77, 83 a 84a zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 59, 60, 83 a 83b Trestného zákona v znení neskorších predpisov, § 40 až 43 zákona č. 563/2009 Z. z.
@@ -108,11 +110,9 @@
 
 - § 86 zákona č. 563/2009 Z. z.
 
-- 19) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+- 19) § 170 ods. 21 zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 221/2019 Z. z.
 
-- Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- § 25 ods. 5 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 221/2019 Z. z.
 
 - 19a) § 58 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 

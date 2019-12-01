@@ -30,7 +30,7 @@
 
 - i) nemá nedoplatky voči colnému úradu ani daňovému úradu,
 
-- j) nemá nedoplatky na povinných odvodoch poistného a na povinných príspevkoch na starobné dôchodkové sporenie podľa osobitných predpisov,<sup>19</sup>)
+- j) nemá evidované nedoplatky na poistnom na sociálne poistenie a zdravotná poisťovňa neeviduje voči nej pohľadávky po splatnosti podľa osobitných predpisov,<sup>19</sup>)
 
 - k) nebola právoplatne odsúdená za úmyselne spáchaný trestný čin hospodársky alebo iný trestný čin, ktorého skutková podstata súvisí s predmetom podnikania; to sa vzťahuje aj na zodpovedného zástupcu a fyzickú osobu, ktorá je členom riadiaceho orgánu alebo členom kontrolného orgánu tejto osoby,
 

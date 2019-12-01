@@ -46,7 +46,7 @@
 
 - e) nemá nedoplatky voči colnému úradu ani daňovému úradu,
 
-- f) nemá nedoplatky na povinných odvodoch poistného a na povinných príspevkoch na starobné dôchodkové sporenie podľa osobitných predpisov,<sup>19</sup>)
+- f) nemá evidované nedoplatky na poistnom na sociálne poistenie a zdravotná poisťovňa neeviduje voči nemu pohľadávky po splatnosti podľa osobitných predpisov,<sup>19</sup>)
 
 - g) vykazuje na základe údajov z riadnej účtovnej závierky kladný rozdiel medzi majetkom a záväzkami<sup>17</sup>) za dve účtovné obdobia bezprostredne predchádzajúce žiadosti o vydanie povolenia na distribúciu alebo povolenia na predaj,
 
@@ -82,7 +82,7 @@
 
 (12) Ak distribútor pohonných látok alebo predajca pohonných látok končí svoju činnosť alebo činnosť v niektorej z jeho prevádzkarní alebo mu colný úrad odňal povolenie na distribúciu alebo povolenie na predaj a má zásoby minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2, môže so súhlasom colného úradu minerálny olej uvedený v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 dodať distribútorovi pohonných látok, predajcovi pohonných látok alebo osobe podľa § 21. Rovnako postupuje aj správca konkurznej podstaty distribútora pohonných látok alebo predajcu pohonných látok, súdny exekútor alebo iná osoba, ak pri výkone rozhodnutia predávajú alebo distribuujú minerálny olej uvedený v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2.
 
-(13) Držiteľovi povolenia na distribúciu alebo držiteľovi povolenia na predaj, ktorému bolo odňaté povolenie na distribúciu alebo povolenie na predaj podľa odseku 11 písm. b) a c), môže byť nové povolenie na distribúciu alebo povolenie na predaj vydané najskôr po uplynutí dvoch rokov po nadobudnutí právoplatnosti rozhodnutia o odňatí povolenia na distribúciu alebo povolenia na predaj.
+(13) Držiteľovi povolenia na distribúciu alebo držiteľovi povolenia na predaj, ktorému bolo odňaté povolenie na distribúciu alebo povolenie na predaj podľa odseku 11, môže byť nové povolenie na distribúciu alebo povolenie na predaj vydané najskôr po uplynutí dvoch rokov po nadobudnutí právoplatnosti rozhodnutia o odňatí povolenia na distribúciu alebo povolenia na predaj.
 
 (14) Distribútor pohonných látok je povinný
 
@@ -118,7 +118,7 @@
 
 - f) spĺňať podmienky podľa odseku 7 písm. a), d) až i) a odseku 8 počas celého obdobia platnosti povolenia na predaj,
 
-- g) vydávať minerálny olej uvedený v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 na konečnú spotrebu len prostredníctvom výdajného stojana na pohonné látky okrem výdaja tohto minerálneho oleja v uzavretých spotrebiteľských baleniach na konečnú spotrebu.
+- g) vydávať minerálny olej uvedený v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 na konečnú spotrebu len prostredníctvom výdajného stojana na pohonné látky okrem výdaja tohto minerálneho oleja v uzavretých spotrebiteľských baleniach na konečnú spotrebu; to neplatí, ak predajca pohonných látok vydáva minerálny olej uvedený v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 znehodnotený z dôvodu nepredvídateľných okolností na prepracovanie alebo zneškodnenie podľa osobitného predpisu<sup>6ca</sup>) a oznámi túto skutočnosť colnému úradu.
 
 (16) Osoba, ktorá chce na daňovom území nakupovať alebo inak odoberať v rámci svojej podnikateľskej činnosti v daňovom voľnom obehu na vlastnú spotrebu minerálny olej uvedený v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 od osoby podľa odseku 1 (ďalej len „spotrebiteľ pohonných látok“), je povinná oznámiť túto skutočnosť colnému úradu najneskôr pred prvým nákupom tohto minerálneho oleja alebo jeho prvým odberom. Ak spotrebiteľ pohonných látok skladuje nakúpený alebo odobratý minerálny olej uvedený v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2, musí mať skladovacie zariadenie podľa odseku 8 okrem spotrebiteľa pohonných látok, ktorý nakupuje tento minerálny olej v uzavretých spotrebiteľských baleniach na konečnú spotrebu. Spotrebiteľ pohonných látok v oznámení podľa prvej vety uvedie
 
@@ -164,4 +164,8 @@
 
 - a) v daňovom voľnom obehu distribuuje, predáva na konečnú spotrebu alebo nakupuje na vlastnú spotrebu výlučne minerálny olej uvedený v § 6 ods. 1 písm. f) prvom bode v zariadeniach vyrobených v súlade s technickými normami<sup>22</sup>) alebo minerálny olej uvedený v § 6 ods. 1 písm. f) druhom bode,
 
-- b) v rámci podnikateľskej činnosti vykonáva na daňovom území zúčtovanie nákupov minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 v daňovom voľnom obehu pre konečného spotrebiteľa, ak táto osoba tento minerálny olej nenadobúda a ak konečný spotrebiteľ odobral tento minerálny olej od predajcu pohonných látok podľa odseku 4 prostredníctvom výdajného stojana na pohonné látky.
+- b) v rámci podnikateľskej činnosti vykonáva na daňovom území zúčtovanie nákupov minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 v daňovom voľnom obehu pre konečného spotrebiteľa, ak
+
+  - 1. táto osoba tento minerálny olej neodobrala od predajcu pohonných látok a následne nedodala konečnému spotrebiteľovi a
+
+  - 2. konečný spotrebiteľ odobral tento minerálny olej od predajcu pohonných látok podľa odseku 4 prostredníctvom výdajného stojana na pohonné látky.
