@@ -1,1 +1,1 @@
-Príloha č. 2 k vyhláške č. 331/2018 Z. z. [Záznam o konverzii pre zaručenú konverziu z elektronickej podoby do listinnej podoby](../assets/af2a9cb6709e01d051dadc50e9a6bb7bd2ce5c955e100643963248a0d335d45d.pdf)
+Príloha č. 2 k vyhláške č. 331/2018 Z. z. [Záznam o konverzii pre zaručenú konverziu z elektronickej podoby do listinnej podoby](../assets/99fc7d35807b56745deb35041d24513598e05726192ef9e1e013c0159cdcba69.pdf)
