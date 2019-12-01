@@ -48,6 +48,10 @@
 
 - 14ba) § 18 zákona č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov.
 
+- 14baa) § 170 ods. 21 zákona č. 461/2003 Z. z. v znení zákona č. 221/2019 Z. z.
+
+- § 25 ods. 5 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 221/2019 Z. z.
+
 - 14bb) Zákon č. 315/2016 Z. z.
 
 - 14c) § 7 ods. 3 písm. n) zákona č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov.
