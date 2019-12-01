@@ -116,6 +116,14 @@
 
 - 36a) § 10 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
 
+- 36b) § 170 ods. 21 zákona č. 461/2003 Z. z. v znení zákona č. 221/2019 Z. z.
+
+- Zákon č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- § 25 ods. 5 zákona č. 580/2004 Z. z. v znení zákona č. 221/2019 Z. z.
+
+- Zákon č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 37) § 4 zákona č. 220/2007 Z. z.
 
 - 38) § 23 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 547/2011 Z. z.
@@ -151,6 +159,8 @@
 - 50b) § 23a až § 23c zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
 
 - 50c) § 15 písm. a) prvý, druhý a šiesty bod a písm. b) prvý bod zákona č. 253/1998 Z. z.
+
+- 50d) Zákon č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratívnej záťaže využívaním informačných systémov verejnej správy a o zmene a doplnení niektorých zákonov (zákon proti byrokracii) v znení zákona č. 221/2019 Z. z.
 
 - 51) § 24 ods. 3 zákona č. 220/2007 Z. z.
 
