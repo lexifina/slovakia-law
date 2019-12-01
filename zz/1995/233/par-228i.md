@@ -18,4 +18,4 @@
 
 (7) Výnosy pokút sú príjmom štátneho rozpočtu.
 
-(8) Pri prejednávaní správneho deliktu a ukladaní pokuty za správny delikt sa postupuje podľa všeobecného predpisu o správnom konaní,<sup>19a</sup>) ak tento zákon neustanovuje inak.
+(8) Pri prejednávaní správneho deliktu a ukladaní pokuty za správny delikt sa postupuje podľa všeobecného predpisu o správnom konaní,<sup>19aa</sup>) ak tento zákon neustanovuje inak.

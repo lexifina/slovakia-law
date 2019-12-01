@@ -1,6 +1,6 @@
 # § 228a Zastavenie disciplinárneho konania
 
-(1) Disciplinárny senát aj bez ústneho pojednávania disciplinárne konanie zastaví, ak
+Disciplinárny senát aj bez ústneho pojednávania disciplinárne konanie zastaví, ak
 
 - a) bol návrh na začatie disciplinárneho konania podaný oneskorene,
 
@@ -13,7 +13,3 @@
 - e) disciplinárne obvinený bol právoplatne odsúdený v trestnom konaní za skutok, ktorý je predmetom disciplinárneho konania, alebo
 
 - f) disciplinárne obvinený zomrel alebo bol vyhlásený za mŕtveho.
-
-(2) Proti rozhodnutiu o zastavení disciplinárneho konania podľa odseku 1 písm. a), c) a d) je prípustné odvolanie; o odvolaní rozhoduje iný disciplinárny senát.
-
-(3) Každé ďalšie odvolanie podané proti rozhodnutiu o zastavení konania sa prideľuje disciplinárnemu senátu podľa odseku 2, ktorý rozhodol v tomto disciplinárnom konaní o skôr podanom odvolaní.

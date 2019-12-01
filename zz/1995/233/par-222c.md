@@ -16,8 +16,10 @@
 
 - a) uplynutím funkčného obdobia, ak disciplinárny poriadok neustanoví inak,
 
-- b) ak prestal spĺňať podmienky na výkon funkcie exekútora alebo podmienky podľa odseku 1,
+- b) ak prestal spĺňať podmienky na výkon funkcie exekútora alebo podmienky podľa odseku 1; ak ide o podmienku, že sa proti nemu nevedie disciplinárne konanie, funkcia zaniká právoplatnosťou rozhodnutia disciplinárneho senátu o uložení disciplinárneho opatrenia,
 
 - c) vzdaním sa funkcie v disciplinárnej komisii.
 
-(3) Exekútor má ako predseda disciplinárneho senátu alebo člen disciplinárneho senátu nárok na odmenu a na náhradu hotových výdavkov. Podrobnosti o určení odmeny a náhrady hotových výdavkov a jej výške upraví vnútorný predpis komory.
+(3) Predseda disciplinárneho senátu alebo člen disciplinárneho senátu, ktorý je exekútorom, nemôže počas disciplinárneho konania, ktoré sa proti nemu vedie, vykonávať funkciu predsedu disciplinárneho senátu alebo člena disciplinárneho senátu.
+
+(4) Exekútor má ako predseda disciplinárneho senátu alebo člen disciplinárneho senátu nárok na odmenu a na náhradu hotových výdavkov. Podrobnosti o určení odmeny a náhrady hotových výdavkov a jej výške upraví vnútorný predpis komory.
