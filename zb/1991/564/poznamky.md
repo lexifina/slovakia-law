@@ -10,6 +10,10 @@
 
 - 6) Zákon č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov.
 
+- 6a) Nariadenie Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) (Ú. v. EÚ L 119, 4. 5. 2016).
+
+- Zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
+
 - 7) § 89 ods. 9 Trestného zákona.
 
 - 8) § 19 ods. 2 zákona SNR č. 369/1990 Zb.
@@ -17,8 +21,6 @@
 - 9) § 76 ods. 2 Trestného poriadku.
 
 - 9a) Napríklad § 9 ods. 2 a 3 zákona č. 124/1992 Zb. o Vojenskej polícii, § 8 zákona Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe, § 13 ods. 2 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov, § 8 zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve.
-
-- 9b) Napríklad § 27, § 29 a § 30 zákona č. 56/2012 Z. z. o cestnej doprave v znení zákona č. 9/2019 Z. z.
 
 - 10) § 116 Občianskeho zákonníka.
 
@@ -31,6 +33,8 @@
 - 12) § 16 zákona SNR č. 372/1990 Zb.
 
 - 12a) Vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch.
+
+- 12aa) Napríklad § 27, 29 a 30 zákona č. 56/2012 Z. z. o cestnej doprave v znení zákona č. 9/2019 Z. z.
 
 - 13) § 2 ods. 3 a § 8 ods. 1 Trestného poriadku.
 
