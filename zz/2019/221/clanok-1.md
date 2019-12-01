@@ -2,6 +2,8 @@
 
 Zákon č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratívnej záťaže využívaním informačných systémov verejnej správy a o zmene a doplnení niektorých zákonov (zákon proti byrokracii) sa mení a dopĺňa takto:
 
+- 1. V § 1 ods. 1 prvej vete sa za slová „verejnej správy“ vkladajú slová „a v informačnom systéme podľa odseku 4“.
+
 - 2. V § 1 ods. 1 druhá veta znie: „Takto získané údaje a výpisy v rozsahu nevyhnutnom na naplnenie účelu podľa osobitných predpisov,<sup>1</sup>) na ktorý sa poskytujú, sú orgánu verejnej moci známe z úradnej činnosti a sú použiteľné na právne účely.“.
 
   - Poznámka pod čiarou k odkazu 1 znie:
@@ -25,3 +27,31 @@ Zákon č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratí
   - „<sup>3a</sup>) § 157 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
 
   - <sup>3b</sup>) § 73a zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
+- 4. V § 1 sa odsek 3 dopĺňa písmenami f) a g), ktoré znejú:
+
+- „f)
+
+- informačný systém finančnej správy v časti týkajúcej sa evidencie daňových nedoplatkov a nedoplatkov colného dlhu, nedoplatkov pokút a iných platieb vymeraných alebo uložených podľa colných predpisov, nedoplatkov dane z pridanej hodnoty alebo spotrebnej dane pri dovoze,
+
+- g)
+
+- informačný systém Sociálnej poisťovne v časti týkajúcej sa evidencie nedoplatkov na poistnom na sociálne poistenie.<sup>3c</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 3c znie:
+
+  - „<sup>3c</sup>) § 170 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.“.
+
+- 6. V § 1 sa za odsek 3 vkladá nový odsek 4, ktorý znie:
+
+- „(4)
+
+- Ďalším informačným systémom na účel tohto zákona je aj informačný systém zdravotnej poisťovne v časti týkajúcej sa evidencie pohľadávok po splatnosti.<sup>3d</sup>)“.
+
+  - Doterajšie odseky 4 až 6 sa označujú ako odseky 5 až 7.
+
+  - Poznámka pod čiarou k odkazu 3d znie:
+
+  - „<sup>3d</sup>) § 15 ods. 1 písm. l) zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších prepisov.“.
+
+- 7. V § 1 ods. 7 sa slová „verejnej správy“ nahrádzajú slovami „podľa odsekov 3 a 4“ a slová „odseku 4“ sa nahrádzajú slovami „odseku 5“.

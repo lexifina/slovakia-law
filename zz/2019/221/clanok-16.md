@@ -10,4 +10,36 @@ Zákon č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráv
 
   - <sup>33b</sup>) Zákon č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratívnej záťaže využívaním informačných systémov verejnej správy a o zmene a doplnení niektorých zákonov (zákon proti byrokracii) v znení zákona č. 221/2019 Z. z.“.
 
+- 2. V § 16 odsek 2 znie:
+
+- „(2)
+
+- Ak je zriaďovateľom fyzická osoba, ktorá má oprávnenie podnikať,<sup>54</sup>) alebo iná právnická osoba, musí spĺňať tieto podmienky:
+
+- a)
+
+- nie je v konkurze alebo v likvidácii,
+
+- b)
+
+- nebol proti nemu zamietnutý návrh na vyhlásenie konkurzu pre nedostatok majetku,
+
+- c)
+
+- nemá evidované nedoplatky voči daňovému úradu, colnému úradu, evidované nedoplatky na poistnom na sociálne poistenie a zdravotná poisťovňa neeviduje voči nej pohľadávky po splatnosti podľa osobitných predpisov<sup>54aa</sup>) v Slovenskej republike alebo v krajine jeho sídla,
+
+- d)
+
+- je bezúhonný, a ak je zriaďovateľom právnická osoba, je bezúhonný aj jej štatutárny zástupca alebo člen štatutárneho orgánu, a ani sa proti nemu nezačalo trestné stíhanie.“.
+
+  - Poznámka pod čiarou k odkazu 54aa znie:
+
+  - „<sup>54aa</sup>) § 170 ods. 21 zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 221/2019 Z. z.
+
+  - § 25 ods. 5 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 221/2019 Z. z.
+
+  - Zákon č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+  - Zákon č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
 - 3. V § 16 ods. 4 písm. b) sa na konci pripájajú tieto slová: „ak nemá sídlo v Slovenskej republike; ak žiadateľ má sídlo v Slovenskej republike, splnenie podmienok overuje podľa osobitného predpisu<sup>33b</sup>) ministerstvo,“.

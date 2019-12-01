@@ -12,11 +12,33 @@ Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zá
 
   - „<sup>8aaa</sup>) § 10 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.“.
 
+- 2. V § 9a ods. 3 písmeno c) znie:
+
+- „c)
+
+- nemá evidované nedoplatky na poistnom na sociálne poistenie a zdravotná poisťovňa neeviduje voči nemu pohľadávky po splatnosti podľa osobitných predpisov,<sup>7</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 7 znie:
+
+  - „<sup>7</sup>) § 170 ods. 21 zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 221/2019 Z. z.
+
+  - § 25 ods. 5 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 221/2019 Z. z.“.
+
+- 3. V § 19 ods. 2 sa vypúšťajú písmená d) a e).
+
+  - Doterajšie písmená f) až i) sa označujú ako písmená d) až g).
+
 - 4. V § 19 sa odsek 2 dopĺňa písmenom h), ktoré znie:
 
 - „h)
 
 - údaje potrebné na vyžiadanie výpisu z registra trestov<sup>8aaa</sup>) žiadateľa alebo jeho zodpovedného zástupcu, ak je žiadateľom fyzická osoba; ak je žiadateľom právnická osoba, údaje potrebné na vyžiadanie výpisu z registra trestov tejto právnickej osoby, zodpovedného zástupcu a fyzických osôb, ktoré sú členmi riadiacich orgánov alebo kontrolných orgánov, na účel preukázania splnenia podmienky podľa odseku 4 písm. f).“.
+
+- 5. V § 19 ods. 4 písmeno e) znie:
+
+- „e)
+
+- nemá evidované nedoplatky na poistnom na sociálne poistenie a zdravotná poisťovňa neeviduje voči nemu pohľadávky po splatnosti podľa osobitných predpisov,<sup>7</sup>)“.
 
 - 6. V § 19a odsek 10 znie:
 
@@ -32,6 +54,30 @@ Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zá
 
 - údaje potrebné na vyžiadanie výpisu z registra trestov<sup>8aaa</sup>) žiadateľa alebo jeho zodpovedného zástupcu, ak je žiadateľom fyzická osoba; ak je žiadateľom právnická osoba, údaje potrebné na vyžiadanie výpisu z registra trestov tejto právnickej osoby, zodpovedného zástupcu a fyzických osôb, ktoré sú členmi riadiacich orgánov alebo kontrolných orgánov, na účel preukázania splnenia podmienky podľa odseku 11 písm. e).“.
 
+- 7. V § 19a ods. 11 písmeno c) znie:
+
+- „c)
+
+- nemá evidované nedoplatky na poistnom na sociálne poistenie a zdravotná poisťovňa neeviduje voči nemu pohľadávky po splatnosti podľa osobitných predpisov,<sup>7</sup>)“.
+
+- 8. V § 20 ods. 14 úvodnej vete sa slovo „sú“ nahrádza slovom „je“ a písmeno b) sa vypúšťa.
+
+  - Súčasne sa zrušuje označenie písmena a).
+
+- 9. V § 20 ods. 16 písmeno a) znie:
+
+- „a)
+
+- prevádzkovateľ daňového skladu má
+
+- 1.
+
+- evidované nedoplatky voči colnému úradu alebo daňovému úradu viac ako päť dní,
+
+- 2.
+
+- evidované nedoplatky na poistnom na sociálne poistenie a zdravotná poisťovňa eviduje voči nemu pohľadávky po splatnosti podľa osobitných predpisov,<sup>7</sup>)“.
+
 - 10. V § 23 odsek 3 znie:
 
 - „(3)
@@ -46,6 +92,12 @@ Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zá
 
 - údaje potrebné na vyžiadanie výpisu z registra trestov<sup>8aaa</sup>) žiadateľa alebo jeho zodpovedného zástupcu, ak je žiadateľom fyzická osoba; ak je žiadateľom právnická osoba, údaje potrebné na vyžiadanie výpisu z registra trestov tejto právnickej osoby, zodpovedného zástupcu a fyzických osôb, ktoré sú členmi riadiacich orgánov alebo kontrolných orgánov, na účel preukázania splnenia podmienky podľa odseku 4 písm. e).“.
 
+- 11. V § 23 ods. 4 písmeno d) znie:
+
+- „d)
+
+- nemá evidované nedoplatky na poistnom na sociálne poistenie a zdravotná poisťovňa neeviduje voči nemu pohľadávky po splatnosti podľa osobitných predpisov,<sup>7</sup>)“.
+
 - 12. V 24 odsek 3 znie:
 
 - „(3)
@@ -59,6 +111,12 @@ Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zá
 - b)
 
 - údaje potrebné na vyžiadanie výpisu z registra trestov<sup>8aaa</sup>) žiadateľa alebo jeho zodpovedného zástupcu, ak je žiadateľom fyzická osoba; ak je žiadateľom právnická osoba, údaje potrebné na vyžiadanie výpisu z registra trestov tejto právnickej osoby, zodpovedného zástupcu a fyzických osôb, ktoré sú členmi riadiacich orgánov alebo kontrolných orgánov, na účel preukázania splnenia podmienky podľa odseku 4 písm. e).“.
+
+- 13. V § 24 ods. 4 písmeno d) znie:
+
+- „d)
+
+- nemá evidované nedoplatky na poistnom na sociálne poistenie a zdravotná poisťovňa neeviduje voči nemu pohľadávky po splatnosti podľa osobitných predpisov,<sup>7</sup>)“.
 
 - 14. V § 42 sa za odsek 4 vkladá nový odsek 5, ktorý znie:
 

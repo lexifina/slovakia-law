@@ -34,6 +34,22 @@ Zákon č. 138/2017 Z. z. o Fonde na podporu kultúry národnostných menšín a
 
   - Poznámky pod čiarou k odkazom 15, 20 a 21 sa vypúšťajú.
 
+- 6. V § 16 ods. 2 písmeno g) znie:
+
+- „g)
+
+- nemá evidované nedoplatky voči daňovému úradu, colnému úradu, evidované nedoplatky na poistnom na sociálne poistenie a zdravotná poisťovňa neeviduje voči nemu pohľadávky po splatnosti podľa osobitných predpisov,<sup>19a</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 19a znie:
+
+  - „<sup>19a</sup>) § 170 ods. 21 zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 221/2019 Z. z.
+
+  - Zákon č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+  - § 25 ods. 5 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 221/2019 Z. z.
+
+  - Zákon č. 563/2009 Z. z. v znení neskorších predpisov.“.
+
 - 7. V § 16 odsek 3 znie:
 
 - „(3)
@@ -53,3 +69,17 @@ Zákon č. 138/2017 Z. z. o Fonde na podporu kultúry národnostných menšín a
   - Doterajšie písmená g) a h) sa označujú ako písmená e) a f).
 
 - 9. V § 17 ods. 7 sa slová „podľa odseku 2 písm. a), e), f) a h)“ nahrádzajú slovami „podľa odseku 2 písm. a) a f)“.
+
+- 10. V § 19 ods. 6 sa vypúšťajú písmená c) až e).
+
+  - Doterajšie písmeno f) sa označuje ako písmeno c).
+
+- 11. § 24 sa dopĺňa odsekom 3, ktorý znie:
+
+- „(3)
+
+- Splnenie podmienok podľa § 16 ods. 2 písm. g) overuje podľa osobitného predpisu<sup>35</sup>) fond.“.
+
+  - Poznámka pod čiarou k odkazu 35 znie:
+
+  - „<sup>35</sup>) § 1 ods. 1 zákona č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratívnej záťaže využívaním informačných systémov verejnej správy a o zmene a doplnení niektorých zákonov (zákon proti byrokracii) v znení zákona č. 221/2019 Z. z.“.

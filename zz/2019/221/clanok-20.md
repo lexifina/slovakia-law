@@ -19,3 +19,15 @@ Zákon č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákon
   - <sup>84ae</sup>) Čl. 38 ods. 1 a čl. 95 ods. 1 nariadenia (EÚ) č. 952/2013 v platnom znení.
 
   - Čl. 145 ods. 1 písm. a), čl. 150 ods. 1 a čl. 191 ods. 1 písm. c) delegovaného nariadenia (EÚ) 2015/2446 v platnom znení.“.
+
+- 2. § 85 sa dopĺňa odsekom 13, ktorý znie:
+
+- „(13)
+
+- Colný orgán na žiadosť orgánu verejnej moci podľa osobitného predpisu<sup>84af</sup>) poskytne prostredníctvom informačného systému verejnej správy podľa osobitného predpisu<sup>84ag</sup>) na účely preukázania skutočnosti ustanovenej osobitným predpisom informáciu o nedoplatkoch colného dlhu, nedoplatkoch pokút a iných platieb vymeraných alebo uložených podľa colných predpisov, nedoplatkoch dane z pridanej hodnoty alebo spotrebnej dane pri dovoze.“.
+
+  - Poznámky pod čiarou k odkazom 84af a 84ag znejú:
+
+  - „<sup>84af</sup>) Zákon č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratívnej záťaže využívaním informačných systémov verejnej správy a o zmene a doplnení niektorých zákonov (zákon proti byrokracii) v znení zákona č. 221/2019 Z. z.
+
+  - <sup>84ag</sup>) § 10 ods. 3 písm. h) a ods. 11 zákona č. 305/2013 Z. z. v znení neskorších predpisov.“.
