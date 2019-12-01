@@ -668,7 +668,9 @@
 
 - 125) Zákon č. 600/2003 Z. z.
 
-- 125a) § 2 ods. 1 písm. d) tretí bod zákona č. 600/2003 Z. z.
+- 125a) § 1 ods. 2 zákona č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov.
+
+- Zákon č. 55/2017 Z. z. v znení neskorších predpisov.
 
 - 126) § 79 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
@@ -747,6 +749,10 @@
 - 142a) § 7 písm. a) a b) zákona č. 172/2005 Z. z. o organizácii štátnej podpory výskumu a vývoja a o doplnení zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
 - 143) Zákon Slovenskej národnej rady č. 323/1992 Zb. v znení neskorších predpisov.
+
+- 143a) § 170 ods. 21 zákona č. 461/2003 Z. z. v znení zákona č. 221/2019 Z. z.
+
+- § 25 ods. 5 zákona č. 580/2004 Z. z. v znení zákona č. 221/2019 Z. z.
 
 - 144) § 10 zákona Slovenskej národnej rady č. 323/1992 Zb. v znení neskorších predpisov.
 
