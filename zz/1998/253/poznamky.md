@@ -28,6 +28,12 @@
 
 - 6) § 2 písm. b) zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov.
 
+- 6a) § 29 ods. 2 písm. i) zákona č. 647/2007 Z. z. o cestovných dokladoch a o zmene a doplnení niektorých zákonov.
+
+- § 107 ods. 2 písm. l) zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- § 16 ods. 2 písm. f) zákona č. 395/2019 Z. z. o občianskych preukazoch a o zmene a doplnení niektorých zákonov.
+
 - 7) Zákon č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení zákona č. 75/2013 Z. z.
 
 - 8) § 23 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v znení neskorších predpisov.
