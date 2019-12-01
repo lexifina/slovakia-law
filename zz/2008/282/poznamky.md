@@ -46,6 +46,14 @@
 
 - 23) § 138 zákona č. 245/2008 Z. z.
 
+- 23a) Zákon č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 23b) § 170 ods. 21 zákona č. 461/2003 Z. z. v znení zákona č. 221/2019 Z. z.
+
+- § 25 ods. 5 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 221/2019 Z. z.
+
 - 24) Zákon č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 125/2006 Z. z.
 
 - 25) § 2 ods. 4 zákona č. 231/1999 Z. z. o štátnej pomoci v znení zákona č. 82/2005 Z. z.
