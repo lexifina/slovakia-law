@@ -14,7 +14,7 @@
 
 - b) ak ide o cesty vo vlastníctve štátu okrem ich prejazdných úsekov cez colné priestory – právnické osoby na tento účel zriadené ministerstvom,<sup>2c</sup>)
 
-- c) ak ide o cesty a miestnych komunikácií pre cestnú nemotorovú dopravu vo vlastníctve samosprávneho kraja, samosprávny kraj, prípadne právnické osoby ním na tento účel založené alebo zriadené,
+- c) ak ide o cesty a miestne komunikácie pre cestnú nemotorovú dopravu vo vlastníctve samosprávneho kraja, samosprávny kraj, prípadne právnické osoby ním na tento účel založené alebo zriadené,
 
 - d) ak ide o prejazdné úseky ciest vo vlastníctve obce, o miestne komunikácie a účelové komunikácie vo vlastníctve obce – obce, prípadne právnické osoby nimi na tento účel založené alebo zriadené,
 
