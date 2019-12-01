@@ -20,10 +20,18 @@
 
 - § 31 zákona č. 139/2002 Z. z. o rybárstve v znení neskorších predpisov.
 
-- 11) § 1a písm. f) zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
+- 11) § 170 ods. 21 zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 221/2019 Z. z.
+
+- Zákon č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- § 25 ods. 5 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 221/2019 Z. z.
+
+- Zákon č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 12) § 2 ods. 4 zákona č. 231/1999 Z. z. o štátnej pomoci v znení zákona č. 82/2005 Z. z.
 
 - § 8a ods. 5 a § 37d ods. 3 zákona č. 523/2004 Z. z. v znení zákona č. 383/2008 Z. z.
+
+- 12a) Zákon č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratívnej záťaže využívaním informačných systémov verejnej správy a o zmene a doplnení niektorých zákonov (zákon proti byrokracii) v znení zákona č. 221/2019 Z. z.
 
 - 13) Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.
