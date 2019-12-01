@@ -196,6 +196,14 @@
 
 - 35a) § 5 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
 
+- 35b) Zákon č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 35ba) § 170 ods. 21 zákona č. 461/2003 Z. z. v znení zákona č. 221/2019 Z. z.
+
+- 35c) § 25 ods. 5 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 221/2019 Z. z.
+
 - 35d) § 23 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 35da) § 12 zákona č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zmene a doplnení niektorých zákonov.

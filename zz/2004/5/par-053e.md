@@ -16,11 +16,7 @@
 
 - c) nejde o malého zamestnávateľa, ktorý je sprostredkovateľom (§ 25) alebo agentúrou dočasného zamestnávania (§ 29),
 
-- d) nemá voči malému zamestnávateľovi
-
-  - 1. Sociálna poisťovňa pohľadávky na poistnom na sociálne poistenie alebo pohľadávky na povinných príspevkoch na starobné dôchodkové sporenie po lehote splatnosti viac ako 180 dní, alebo
-
-  - 2. zdravotná poisťovňa pohľadávky na poistnom na povinné verejné zdravotné poistenie po lehote splatnosti viac ako 180 dní,
+- d) zdravotná poisťovňa neeviduje voči malému zamestnávateľovi pohľadávky po splatnosti podľa osobitného predpisu<sup>35c</sup>) viac ako 180 dní a malý zamestnávateľ nemá evidované nedoplatky na poistnom na sociálne poistenie podľa osobitného predpisu,<sup>35ba</sup>)
 
 - e) nebolo voči malému zamestnávateľovi začaté konkurzné konanie alebo reštrukturalizácia a
 
