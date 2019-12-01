@@ -366,6 +366,10 @@
 
 - 49) Zákon č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
+- 49a) § 170 ods. 21 zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 221/2019 Z. z.
+
+- § 25 ods. 5 zákona č. 580/2004 Z. z. v znení zákona č. 221/2019 Z. z.
+
 - 50) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - Zákon č. 580/2004 Z. z.
