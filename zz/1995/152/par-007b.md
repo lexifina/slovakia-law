@@ -1,17 +1,19 @@
 # § 7b
 
-(1) Prevádzkovateľ, ktorý dováža potraviny z tretích krajín alebo ktorý v mieste určenia prijíma dodávku produktov živočíšneho pôvodu, nespracovaného ovocia a nespracovanej zeleniny z iného členského štátu Európskej únie, je povinný podať informáciu o dovoze alebo informáciu o dodávke týchto potravín príslušnej regionálnej veterinárnej a potravinovej správe do elektronického systému štátnej veterinárnej a potravinovej správy najneskôr 24 hodín po jej prijatí.
+(1) Prevádzkovateľ, ktorý dováža potraviny z tretích krajín, je povinný podať informáciu príslušnej regionálnej veterinárnej a potravinovej správe do elektronického systému štátnej veterinárnej a potravinovej správy o dovoze týchto potravín najneskôr jeden pracovný deň pred ich dovozom.
 
-(2) Informácia o dovoze podľa odseku 1 alebo informácia o dodávke podľa odseku 1 musí obsahovať údaje o
+(2) Prevádzkovateľ, ktorý v mieste určenia prijíma dodávku produktov živočíšneho pôvodu, nespracovaného ovocia alebo nespracovanej zeleniny z iného členského štátu, je povinný podať informáciu príslušnej regionálnej veterinárnej a potravinovej správe do elektronického systému štátnej veterinárnej a potravinovej správy o dodávke týchto potravín najneskôr 24 hodín po ich prijatí.
 
-- a) mieste určenia dovozu alebo dodávky potraviny,
+(3) Informácia o dovoze podľa odseku 1 alebo informácia o dodávke podľa odseku 2 musí obsahovať údaje o
 
-- b) krajine pôvodu dovezenej alebo dodanej potraviny,
+- a) mieste určenia dovozu potraviny alebo dodávky potraviny,
 
-- c) druhu dovezenej alebo dodanej potraviny,
+- b) krajine pôvodu zásielky,<sup>8f</sup>)
 
-- d) množstve každého druhu dovezenej alebo dodanej potraviny,
+- c) druhu dovezenej potraviny alebo dodanej potraviny,
 
-- e) druhu obalu alebo druhu baliaceho materiálu, v ktorom sa dovezená alebo dodaná potravina nachádza alebo je zabalená,
+- d) množstve každého druhu dovezenej potraviny alebo dodanej potraviny,
 
-- f) označení identifikujúcom dovezenú alebo dodanú potravinu.
+- e) druhu obalu alebo baliaceho materiálu, v ktorom sa dovezená potravina alebo dodaná potravina nachádza alebo je zabalená,
+
+- f) označení identifikujúcom dovezenú potravinu alebo dodanú potravinu.
