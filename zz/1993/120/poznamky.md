@@ -4,6 +4,8 @@
 
 - 1aa) § 6 ods. 3 písm. b) zákona č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
 
+- 1aaa) Čl. 81a písm. f) Ústavy Slovenskej republiky.
+
 - 1ab) § 2 písm. a) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
 - 1b) § 51 a 853 Občianskeho zákonníka.
