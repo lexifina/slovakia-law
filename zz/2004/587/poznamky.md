@@ -50,6 +50,10 @@
 
 - 11i) § 7 ods. 1 písm. c) a d) zákona č. 329/2018 Z. z.
 
+- 11ia) § 4 ods. 3 písm. c) a § 5 ods. 3 písm. c) zákona č. 359/2007 Z. z. o prevencii a náprave environmentálnych škôd a o zmene a doplnení niektorých zákonov.
+
+- 11ib) § 15 ods. 14 písm. b) zákona č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 11j) Zákon č. 305/2018 Z. z. o chránených oblastiach prirodzenej akumulácie vôd a o zmene a doplnení niektorých zákonov.
 
 - 11k) § 5 ods. 1 písm. c) zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov.
@@ -90,7 +94,11 @@
 
 - 12n) § 4 písm. b) a c) nariadenia vlády Slovenskej republiky č. 330/2018 Z. z., ktorým sa ustanovuje výška sadzieb za uloženie odpadov a podrobnosti súvisiace s prerozdeľovaním príjmov z poplatkov za uloženie odpadov.
 
-- 12o) Napríklad § 409 až 470 a § 536 až 565 Obchodného zákonníka, § 588 až 627 a § 631 až 656 Občianskeho zákonníka, § 66 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov, § 53 ods. 8 zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 12o) § 18 ods. 1 písm. g) zákona č. 359/2007 Z. z.
+
+- 12p) § 31 zákona č. 359/2007 Z. z.
+
+- 12q) § 108 ods. 1 písm. q) zákona č. 79/2015 Z. z.
 
 - 13) § 30 ods. 2 zákona č. 523/2004 Z. z.
 

@@ -2,7 +2,7 @@
 
 (1) O dotáciu na účel § 4 ods. 1 písm. ai) môže požiadať
 
-- a) Ministerstvo vnútra Slovenskej republiky,
+- a) Ministerstvo vnútra Slovenskej republiky (ďalej len „ministerstvo vnútra“),
 
 - b) Slovenská inšpekcia životného prostredia.
 
