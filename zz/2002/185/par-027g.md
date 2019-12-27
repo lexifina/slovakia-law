@@ -38,4 +38,4 @@ Na návrhy, ktoré nemajú všetky náležitosti ustanovené týmto zákonom, sa
 
 (4) Pri voľbe kandidáta na sudcu, ktorý by mal pôsobiť za Slovenskú republiku v medzinárodnom súdnom orgáne, sa primerane použijú ustanovenia § 6 ods. 7, § 27a ods. 3 a § 27b až 27e.
 
-(5) Pri návrhoch podľa odsekov 1 a 2 môže súdna rada kandidátov vypočuť, a to pred svojím rozhodnutím. Návrh je schválený, ak zaň v tajnom hlasovaní hlasovala nadpolovičná väčšina všetkých členov súdnej rady. Na opakované a nové hlasovanie o návrhoch sa primerane použijú ustanovenia § 27c ods. 3 a § 27d.
+(5) Pri návrhoch podľa odsekov 1 a 2 môže súdna rada kandidátov vypočuť, a to pred svojím rozhodnutím. Návrh je schválený, ak zaň hlasovala nadpolovičná väčšina všetkých členov súdnej rady. Na opakované a nové hlasovanie o návrhoch sa primerane použijú ustanovenia § 27c ods. 3 a § 27d.
