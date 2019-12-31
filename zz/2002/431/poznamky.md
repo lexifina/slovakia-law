@@ -104,6 +104,8 @@
 
 - 28c) Napríklad § 18 zákona č. 429/2002 Z. z. o burze cenných papierov v znení neskorších predpisov.
 
+- 28ca) § 51 ods. 1 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
+
 - 28d) Príloha č. 1 sekcia B divízia 05 až 08 nariadenia Európskeho parlamentu a Rady (ES) č. 1893/2006 z 20. decembra 2006, ktorým sa zavádza štatistická klasifikácia ekonomických činností NACE Revision 2 a ktorým sa mení a dopĺňa nariadenie Rady (EHS) č. 3037/90 a niektoré nariadenia ES o osobitných oblastiach štatistiky (Ú. v. EÚ L 393, 30. 12. 2006) v platnom znení.
 
 - 28e) Príloha č. 1 sekcia A divízia 02 skupina 02.2 nariadenia (ES) č. 1893/2006 v platnom znení.
@@ -145,8 +147,6 @@
 - 29l) Napríklad zákon č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách v znení neskorších predpisov, zákon č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 29m) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
-
-- 29n) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 29o) § 66b ods. 3 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
