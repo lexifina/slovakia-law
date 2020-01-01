@@ -126,7 +126,7 @@
 
 - 43ab) Čl. 8 nariadenia Európskeho parlamentu a Rady (ES) č. 1069/2009 z 21. októbra 2009, ktorým sa ustanovujú zdravotné predpisy týkajúce sa vedľajších živočíšnych produktov a odvodených produktov neurčených na ľudskú spotrebu a ktorým sa zrušuje nariadenie (ES) č. 1774/2002 (nariadenie o vedľajších živočíšnych produktoch) (Ú. v. EÚ L 300, 14. 11. 2009) v platnom znení.
 
-- 43ac) § 6 ods. 1 písm. b) bod 4 zákona č. 39/2007 Z. z. v znení neskorších predpisov.
+- 43ac) § 39a a § 39b zákona č. 39/2007 Z. z. v znení neskorších predpisov.
 
 - 43ad) Príloha I bod 47 nariadenia Komisie (EÚ) č. 142/2011 z 25. februára 2011, ktorým sa vykonáva nariadenie Európskeho parlamentu a Rady (ES) č. 1069/2009, ktorým sa ustanovujú zdravotné predpisy týkajúce sa vedľajších živočíšnych produktov a odvodených produktov neurčených na ľudskú spotrebu, a ktorým sa vykonáva smernica Rady 97/78/ES, pokiaľ ide o určité vzorky a predmety vyňaté spod povinnosti veterinárnych kontrol na hraniciach podľa danej smernice (Ú. v. EÚ L 54, 26. 2. 2011) v platnom znení.
 
