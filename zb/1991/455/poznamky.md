@@ -164,6 +164,8 @@
 
 - 23qc) § 26 ods. 4 a § 28 zákona č. 56/2012 Z. z. o cestnej doprave v znení zákona č. 9/2019 Z. z.
 
+- 23qd) Zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
+
 - 23r) Zákon č. 105/1990 Zb. o súkromnom podnikaní občanov v znení zákona č. 219/1991 Zb.
 
 - 24) Napríklad § 73 ods. 4 a 5 a § 75 Zákonníka práce č. 65/1965 Zb. v znení zákona č. 231/1992 Zb., § 7 ods. 1 zákona č. 370/1997 Z. z. o vojenskej službe, § 23 ods. 2 zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov, § 48 ods. 6 zákona č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 207/1996 Z. z. o nadáciách v znení zákona č. 147/1997 Z. z.
