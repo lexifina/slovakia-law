@@ -7,3 +7,5 @@ Príloha č. 2 k zákonu č. 609/2007 Z. z.
   - 2. Smernica Rady 2008/118/ES zo 16. decembra 2008 o všeobecnom systéme spotrebných daní a o zrušení smernice 92/12/EHS (Ú. v. EÚ L 9, 14. 1. 2009).
 
   - 3. Smernica Rady 2013/61/EÚ zo 17. decembra 2013, ktorou sa menia smernice 2006/112/ES a 2008/118/ES, pokiaľ ide o najvzdialenejšie francúzske regióny, a najmä Mayotte (Ú. v. EÚ L 353, 28. 12. 2013).
+
+  - 4. Smernica Rady (EÚ) 2019/475 z 18. februára 2019, ktorou sa menia smernice 2006/112/ES a 2008/118/ES, pokiaľ ide o začlenenie talianskej obce Campione d´Italia a talianskych vôd jazera Lugano do colného územia Únie a do územnej pôsobnosti smernice 2008/118/ES (Ú. v. EÚ L 83, 25. 3. 2019).

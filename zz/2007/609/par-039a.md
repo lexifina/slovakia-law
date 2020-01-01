@@ -30,7 +30,7 @@
 
 (5) Platiteľom dane zo stlačeného zemného plynu je aj
 
-- a) konečný spotrebiteľ stlačeného zemného plynu, ktorému zahraničná osoba dodala stlačený zemný plyn na daňovom území, okrem konečného spotrebiteľa stlačeného zemného plynu v domácnosti, ktorý odobral stlačený zemný plyn určený ako palivo na výrobu tepla,
+- a) konečný spotrebiteľ stlačeného zemného plynu, ktorému zahraničná osoba dodala stlačený zemný plyn na daňovom území, okrem koncového odberateľa stlačeného zemného plynu v domácnosti, ktorý odobral stlačený zemný plyn určený ako palivo na výrobu tepla,
 
 - b) zahraničná osoba, ktorá dodala stlačený zemný plyn na daňovom území koncovému odberateľovi stlačeného zemného plynu v domácnosti,
 
