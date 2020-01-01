@@ -136,6 +136,8 @@
 
 - 40cb) § 10 ods. 3 písm. h) a ods. 11 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
 
+- 40cc) § 3 ods. 1 písm. h) zákona č. 453/2003 Z. z. o orgánoch štátnej správy v oblasti sociálnych vecí, rodiny a služieb zamestnanosti a o zmene a doplnení niektorých zákonov v znení zákona č. 81/2017 Z. z.
+
 - 40d) Zákon č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
 
 - 40e) § 85 ods. 8 Zákonníka práce.

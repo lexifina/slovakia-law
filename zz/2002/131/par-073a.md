@@ -22,7 +22,9 @@
 
 (11) Ministerstvo školstva môže využívať údaje z centrálneho registra študentov v plnom rozsahu na účely podľa tohto zákona a Ministerstvo financií Slovenskej republiky môže využívať tieto údaje v plnom rozsahu na účely zostavenia, vyhodnocovania a prognózovania rozpočtu verejnej správy.
 
-(12) Ministerstvo školstva poskytuje Sociálnej poisťovni údaje z centrálneho registra študentov v rozsahu
+(12) Ministerstvo školstva na základe dohody poskytuje Ministerstvu práce, sociálnych vecí a rodiny Slovenskej republiky údaje z centrálneho registra študentov v rozsahu nevyhnutnom na účely zabezpečenia tvorby analýz a prognóz vývoja na trhu práce.<sup>40cc</sup>)
+
+(13) Ministerstvo školstva poskytuje Sociálnej poisťovni údaje z centrálneho registra študentov v rozsahu
 
 - a) meno a priezvisko vrátane titulov,
 
@@ -36,12 +38,12 @@
 
 - f) informácia o začiatku, prerušení alebo skončení štúdia.
 
-(13) Údaje v centrálnom registri študentov môžu spracúvať len osobitne poverení zamestnanci ministerstva školstva alebo v rozsahu podľa odsekov 8 až 10 osobitne poverení zamestnanci vysokej školy, alebo osobitne poverení zamestnanci príslušného ministerstva, ktorí sú povinní pri práci s centrálnym registrom študentov dodržiavať právne predpisy o ochrane osobných údajov.<sup>40</sup>)
+(14) Údaje v centrálnom registri študentov môžu spracúvať len osobitne poverení zamestnanci ministerstva školstva alebo v rozsahu podľa odsekov 8 až 10 osobitne poverení zamestnanci vysokej školy, alebo osobitne poverení zamestnanci príslušného ministerstva, ktorí sú povinní pri práci s centrálnym registrom študentov dodržiavať právne predpisy o ochrane osobných údajov.<sup>40</sup>)
 
-(14) Na uchovávanie údajov z centrálneho registra študentov sa vzťahuje osobitný predpis.<sup>40a</sup>) Osobné údaje podľa § 73 ods. 3 je možné v centrálnom registri študentov spracúvať 50 rokov od skončenia štúdia dotknutej osoby.
+(15) Na uchovávanie údajov z centrálneho registra študentov sa vzťahuje osobitný predpis.<sup>40a</sup>) Osobné údaje podľa § 73 ods. 3 je možné v centrálnom registri študentov spracúvať 50 rokov od skončenia štúdia dotknutej osoby.
 
-(15) Ministerstvo školstva je oprávnené po zmene údajov v centrálnom registri študentov spracúvať podľa tohto zákona aj údaje vedené v centrálnom registri študentov pred touto zmenou po dobu podľa odseku 14.
+(16) Ministerstvo školstva je oprávnené po zmene údajov v centrálnom registri študentov spracúvať podľa tohto zákona aj údaje vedené v centrálnom registri študentov pred touto zmenou po dobu podľa odseku 15.
 
-(16) Ministerstvo školstva získava údaje z registra fyzických osôb<sup>40d</sup>) v rozsahu podľa odseku 4 a poskytuje ich vysokej škole na účely integrácie informačných systémov. Ak sa zistí rozpor medzi údajmi v centrálnom registri študentov a údajmi v registri fyzických osôb, ministerstvo školstva zabezpečí opravu údajov v centrálnom registri študentov podľa údajov v registri fyzických osôb. Na účely podľa prvej vety ministerstvo vnútra poskytne ministerstvu školstva údaje z registra fyzických osôb spôsobom umožňujúcim automatizovaný prístup k týmto údajom a automatizované porovnanie s údajmi v centrálnom registri študentov.
+(17) Ministerstvo školstva získava údaje z registra fyzických osôb<sup>40d</sup>) v rozsahu podľa odseku 4 a poskytuje ich vysokej škole na účely integrácie informačných systémov. Ak sa zistí rozpor medzi údajmi v centrálnom registri študentov a údajmi v registri fyzických osôb, ministerstvo školstva zabezpečí opravu údajov v centrálnom registri študentov podľa údajov v registri fyzických osôb. Na účely podľa prvej vety ministerstvo vnútra poskytne ministerstvu školstva údaje z registra fyzických osôb spôsobom umožňujúcim automatizovaný prístup k týmto údajom a automatizované porovnanie s údajmi v centrálnom registri študentov.
 
-(17) Ministerstvo školstva je oprávnené spracúvať v centrálnom registri študentov referenčné údaje z informačného systému služieb zamestnanosti.
+(18) Ministerstvo školstva je oprávnené spracúvať v centrálnom registri študentov referenčné údaje z informačného systému služieb zamestnanosti.
