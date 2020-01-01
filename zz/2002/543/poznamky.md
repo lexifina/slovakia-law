@@ -14,9 +14,13 @@
 
 - 10) § 3 zákona č. 17/1992 Zb.
 
+- 10a) Napríklad § 2 zákona č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov, § 2 ods. 1 a ods. 2 písm. g) zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení neskorších predpisov, § 2 zákona č. 34/2002 Z. z. o nadáciách a o zmene Občianskeho zákonníka v znení neskorších predpisov v znení neskorších predpisov.
+
 - 11) § 2 zákona č. 44/1988 Zb.
 
-- 12) § 2 zákona č. 61/1977 Zb.
+- 12) § 9 písm. g) zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).
+
+- Príloha č. 1 k vyhláške Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
 - 13) § 2 ods. 1 písm. c) zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
 
@@ -88,7 +92,11 @@
 
 - 37e) § 10 zákona č. 330/1991 Zb. v znení neskorších predpisov.
 
-- 38) Napríklad § 14 ods. 3 zákona č. 135/1961 Zb. v znení neskorších predpisov, § 126 ods. 1 zákona č. 50/1976 Zb. v znení neskorších predpisov, § 13 ods. 3 a 4 vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 5/1995 Z. z. o hospodárskej úprave lesov, § 17 ods. 1 a § 27 ods. 1 zákona č. 44/1988 Zb. v znení neskorších predpisov, § 18 ods. 3 zákona Slovenskej národnej rady č. 51/1988 Zb., § 7 ods. 4 písm. d) zákona Slovenskej národnej rady č. 330/1991 Zb., § 3 ods. 2 zákona Slovenskej národnej rady č. 307/1992 Zb. v znení zákona č. 83/2000 Z. z., § 21 ods. 4 zákona č. 313/1999 Z. z., § 14 vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 141/2000 Z. z., § 13 zákona č. 503/2001 Z. z.
+- 37f) § 3 ods. 3 zákona č. 326/2005 Z. z. v znení neskorších predpisov.
+
+- 37g) § 4 až 52 zákona č. 24/2006 Z. z. v znení neskorších predpisov.
+
+- 38) § 6 písm. h) zákona č. 319/2002 Z. z. o obrane Slovenskej republiky v znení zákona č. 333/2007 Z. z.
 
 - 39) Napríklad zákon č. 50/1976 Zb., § 29 ods. 2 zákona č. 61/1977 Zb., zákon Slovenskej národnej rady č. 100/1977 Zb., zákon č. 23/1962 Zb., zákon č. 44/1988 Zb.
 
@@ -104,13 +112,17 @@
 
 - 45a) § 9 písm. b) až e) zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z.
 
+- 45aa) § 18 zákona č. 326/2005 Z. z. v znení neskorších predpisov.
+
 - 46) Bod A.1. 6 písm. a) až c) prílohy č. 1 k vyhláške Úradu geodézie, kartografie a katastra Slovenskej republiky č. 79/1996 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).
 
 - 47) Napríklad zákon č. 50/1976 Zb. v znení neskorších predpisov.
 
+- 47a) § 46 ods. 1 písm. a) vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 453/2006 Z. z. o hospodárskej úprave lesov a o ochrane lesa.
+
 - 48) § 3 písm. b) zákona č. 337/1998 Z. z.
 
-- 49) Výnos Ministerstva pôdohospodárstva Slovenskej republiky z 3. januára 2002 č. 3485/1/2001-100, ktorým sa vyhlasujú katastrálne územia patriace do jednotlivých poľnohospodársky znevýhodnených oblastí a ustanovuje výška podpory na ich obhospodarovanie (oznámenie č. 14/2002 Z. z.).
+- 49) Príloha č. 1 nariadenia vlády Slovenskej republiky č. 75/2015 Z. z., ktorým sa ustanovujú pravidlá poskytovania podpory v súvislosti s opatreniami programu rozvoja vidieka.
 
 - 50) § 2 ods. 4 písm. c) zákona č. 313/1999 Z. z.
 
@@ -126,7 +138,21 @@
 
 - 56) § 19 zákona Slovenskej národnej rady č. 100/1977 Zb.
 
+- 56a) § 22 ods. 2 písm. c) zákona č. 326/2005 Z. z. v znení zákona č. 360/2007 Z. z.
+
+- 56aa) § 23 a 30 zákona č. 24/2006 Z. z. v znení neskorších predpisov.
+
+- 56b) § 23 ods. 7 až 9 zákona č. 326/2005 Z. z. v znení neskorších predpisov.
+
+- 56c) § 2 písm. x), § 18 ods. 4 a § 66 písm. c) zákona č. 326/2005 Z. z. v znení neskorších predpisov.
+
 - 57) § 2 písm. b) a c) zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov.
+
+- 57a) § 39a zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 57b) Zákon č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 57c) § 20 ods. 3 zákona č. 326/2005 Z. z. v znení zákona č. 117/2010 Z. z.
 
 - 58) § 7 zákona Slovenskej národnej rady č. 100/1977 Zb.
 
@@ -136,13 +162,11 @@
 
 - Vykonávacie nariadenie (EÚ) 2016/1141 v platnom znení.
 
+- 58b) § 2 písm. k) zákona 274/2009 Z. z.
+
+- 58c) § 2 ods. 2 písm. g) zákona č. 216/2018 Z. z. o rybárstve a o doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
 - 59) Napríklad § 25 zákona č. 124/1992 Zb. o Vojenskej polícii, § 53 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov, § 7 ods. 3 zákona Národnej rady Slovenskej republiky č. 255/1994 Z. z. o poľnej stráži.
-
-- 59a) Napríklad Dohovor o mokradiach majúcich medzinárodný význam predovšetkým ako biotopy vodného vtáctva (oznámenie č. 396/1990 Zb.), Dohovor o ochrane svetového kultúrneho a prírodného dedičstva (oznámenie č. 159/1991 Zb.), Dohovor o biologickej diverzite (oznámenie č. 34/1996 Z. z.), Dohovor o ochrane sťahovavých druhov voľne žijúcich živočíchov (oznámenie č. 91/1998 Z. z.), Dohovor o ochrane európskych voľne žijúcich organizmov a prírodných stanovíšť (oznámenie č. 93/1998 Z. z.), Dohoda o ochrane netopierov v Európe (oznámenie č. 250/1999 Z. z.), Dohoda o ochrane africko-euroázijských druhov vodného sťahovavého vtáctva (oznámenie č. 268/2002 Z. z.), Rámcový dohovor o ochrane a trvalo udržateľnom rozvoji Karpát (oznámenie č. 111/2006 Z. z.).
-
-- 60) § 23 zákona č. 61/1977 Zb.
-
-- 61) § 2 ods. 1 a § 2 ods. 3 písm. e) vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 5/1995 Z. z.
 
 - 62) Úprava Slovenského banského úradu č. 3000/1975, ktorou sa vydáva predpis o bezpečnosti a ochrane zdravia pri práci a o bezpečnosti prevádzky pri sprístupňovaní prírodných jaskýň a ich udržiavaní v bezpečnostnom stave (bezpečnostný predpis pre jaskyne) v znení neskorších predpisov (registrovaná v čiastke 33/1975 Zb.).
 
@@ -150,15 +174,17 @@
 
 - 64) Zákon č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 64a) § 3 písm. c) zákona č. 24/2006 Z. z.
+- 64a) Napríklad § 12 zákona č. 364/2004 Z. z. v znení neskorších predpisov, § 40 zákona č. 326/2005 Z. z. v znení neskorších predpisov.
 
-- 64b) § 3 písm. e) zákona č. 24/2006 Z. z.
+- 64aa) § 28 zákona č. 326/2005 Z. z. v znení neskorších predpisov.
 
-- 64c) § 3 ods. 2 až 5 a § 4 ods. 1 a 3 zákona č. 150/2019 Z. z.
+- 64b) § 3 písm. d) zákona č. 24/2006 Z. z. v znení neskorších predpisov.
 
-- 64d) § 15 ods. 4 a § 38 ods. 4 zákona č. 24/2006 Z. z. v znení zákona č. 117/2010 Z. z.
+- 64c) § 3 písm. f) zákona č. 24/2006 Z. z. v znení neskorších predpisov.
 
 - 64e) § 4 ods. 1 a 2 zákona č. 544/2002 Z. z. o Horskej záchrannej službe v znení zákona č. 567/2005 Z. z.
+
+- 64f) § 4 ods. 1 a ods. 2 písm. a), g), h) a j) zákona č. 544/2002 Z. z. o Horskej záchrannej službe v znení neskorších predpisov.
 
 - 65) § 39 ods. 4 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení zákona č. 255/2001 Z. z.
 
@@ -198,13 +224,17 @@
 
 - 77) § 125 ods. 1 Trestného zákona.
 
-- 78) Napríklad zákon č. 135/1961 Zb. v znení neskorších predpisov, zákon č. 143/1998 Z. z. v znení neskorších predpisov, zákon č. 442/2002 Z. z. o verejných vodovodoch a verejných kanalizáciách a o zmene a doplnení zákona č. 276/2001 Z. z. o regulácii v sieťových odvetviach v znení neskorších predpisov, zákon č. 364/2004 Z. z. v znení neskorších predpisov, zákon č. 513/2009 Z. z., zákon č. 7/2010 Z. z. o ochrane pred povodňami v znení zákona č. 180/2013 Z. z., zákon č. 351/2011 o elektronických komunikáciách v znení neskorších predpisov, zákon č. 405/2011 Z. z. o rastlinolekárskej starostlivosti v znení neskorších predpisov, zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 78) Napríklad zákon č. 220/2004 Z. z. v znení neskorších predpisov, zákon č. 405/2011 Z. z. v znení neskorších predpisov.
 
 - 78a) § 18a zákona č. 220/2004 Z. z. v znení zákona č. 57/2013 Z. z.
 
+- 78b) Napríklad zákon č. 135/1961 Zb. v znení neskorších predpisov, zákon č. 143/1998 Z. z. v znení neskorších predpisov, zákon č. 442/2002 Z. z. o verejných vodovodoch a verejných kanalizáciách a o zmene a doplnení zákona č. 276/2001 Z. z. o regulácii v sieťových odvetviach v znení neskorších predpisov, zákon č. 364/2004 Z. z. v znení neskorších predpisov, zákon č. 513/2009 Z. z., zákon č. 7/2010 Z. z. o ochrane pred povodňami v znení zákona č. 180/2013 Z. z., zákon č. 351/2011 o elektronických komunikáciách v znení neskorších predpisov, zákon č. 405/2011 Z. z. o rastlinolekárskej starostlivosti v znení neskorších predpisov, zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 79) Napríklad zákon č. 23/1962 Zb. v znení neskorších predpisov, zákon č. 50/1976 Zb. v znení neskorších predpisov, zákon č. 61/1977 Zb. v znení neskorších predpisov, zákon č. 44/1988 Zb. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 307/1992 Zb. v znení neskorších predpisov, zákon č. 49/2002 Z. z. o ochrane pamiatkového fondu, zákon č. 184/2002 Z. z.
 
-- 79a) § 34 ods. 3 zákona Slovenskej národnej rady č. 330/1991 Zb.
+- 79a) § 26 ods. 2 zákona č. 71/1967 Zb. v znení neskorších predpisov.
+
+- 79b) § 34 ods. 3 zákona Slovenskej národnej rady č. 330/1991 Zb. v znení neskorších predpisov, § 50 ods. 6 zákona č. 326/2005 Z. z. v znení zákona č. 499/2009 Z. z.
 
 - 80) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení neskorších predpisov.
 
@@ -220,7 +250,9 @@
 
 - 83ab) § 38 ods. 2 písm. b) zákona č. 326/2005 Z. z.
 
-- 83ac) § 32 ods. 2 písm. b) vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 453/2006 Z. z. o hospodárskej úprave lesov a o ochrane lesa.
+- 83ac) § 32 vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 453/2006 Z. z. o hospodárskej úprave lesov a o ochrane lesa v znení neskorších predpisov.
+
+- 83ad) § 38 ods. 2 zákona č. 326/2005 Z. z.
 
 - 83b) § 41 zákona č. 326/2005 Z. z. v znení neskorších predpisov.
 
@@ -238,7 +270,9 @@
 
 - 86c) Zákon č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon).
 
-- 86d) Napríklad zákon č. 281/1997 Z. z. v znení neskorších predpisov, zákon č. 326/2005 Z. z. o lesoch v znení neskorších predpisov.
+- 86d) Zákon č. 281/1997 Z. z. o vojenských obvodoch a zákon, ktorým sa mení zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov v znení neskorších predpisov.
+
+- Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 87) Napríklad zákon č. 281/1997 Z. z., zákon č. 40/1961 Zb. o obrane Československej socialistickej republiky v znení neskorších predpisov.
 
@@ -254,7 +288,7 @@
 
 - 93) § 14 ods. 2 písm. e ) zákona č. 326/2005 Z. z. v znení neskorších predpisov.
 
-- 93a) Vyhláška Ministerstva pôdohospodárstva Slovenskej republiky č. 38/2005 Z. z. o určení hodnoty pozemkov a porastov na nich na účely pozemkových úprav.
+- 93a) Napríklad § 1 ods. 3 zákona č. 504/2003 Z. z. o nájme poľnohospodárskych pozemkov, poľnohospodárskeho podniku a lesných pozemkov a o zmene niektorých zákonov v znení neskorších predpisov, vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku v znení neskorších predpisov, vyhláška Ministerstva pôdohospodárstva Slovenskej republiky č. 38/2005 Z. z. o určení hodnoty pozemkov a porastov na nich na účely pozemkových úprav, vyhláška Ministerstva pôdohospodárstva a rozvoja vidieka Slovenskej republiky č. 172/2018 Z. z., ktorou sa ustanovujú podrobnosti o spôsobe a rozsahu vedenia a poskytovania evidencií a stanovenia obvyklej výšky nájomného.
 
 - 93b) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku v znení neskorších predpisov.
 
@@ -262,7 +296,9 @@
 
 - 93d) § 611 Občianskeho zákonníka.
 
-- 93e) Zákon č. 504/2003 Z. z. o nájme poľnohospodárskych pozemkov, poľnohospodárskeho podniku a lesných pozemkov a o zmene niektorých zákonov v znení neskorších predpisov.
+- 93e) Zákon č. 504/2003 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 326/2005 Z. z. v znení neskorších predpisov.
 
 - 93f) Napríklad zákon č. 220/2004 Z. z. v znení neskorších predpisov, zákon č. 326/2005 Z. z. v znení neskorších predpisov, zákon č. 139/2002 Z. z. v znení neskorších predpisov, zákon č. 274/2009 Z. z. v znení neskorších predpisov.
 
@@ -294,11 +330,19 @@
 
 - 98b) Napríklad § 4 ods. 5 zákona č. 139/2002 Z. z., § 21 zákona č. 15/2005 Z. z. v znení zákona č. 447/2012 Z. z.
 
+- 98c) § 23 ods. 10 písm. b) zákona č. 326/2005 Z. z. v znení neskorších predpisov.
+
 - 99) Čl. V zákona Slovenskej národnej rady č. 295/1992 Zb. o niektorých opatreniach v miestnej samospráve a v štátnej správe.
 
 - 100) Zákon č. 283/2002 Z. z. o cestovných náhradách.
 
 - 100a) § 2 zákona č. 338/2000 Z. z. v znení neskorších predpisov.
+
+- 100aa) § 24 ods. 3 písm. f) a h), § 55, § 56 a § 65 zákona č. 274/2009 Z. z. v znení neskorších predpisov.
+
+- 100ab) § 3 písm. p) zákona č. 24/2006 Z. z. v znení neskorších predpisov.
+
+- 100b) § 8 ods. 1 zákona č. 281/1997 v znení neskorších predpisov.
 
 - 101) Napríklad zákon č. 281/1997 Z. z., Trestný poriadok.
 
@@ -342,7 +386,7 @@
 
 - 113) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
-- 113a) § 25 zákona č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 113a) § 19 zákona č. 71/1967 Zb. v znení neskorších predpisov.
 
 - 113b) § 24 a 25 zákona č. 24/2006 Z. z. v znení neskorších predpisov.
 
@@ -356,6 +400,8 @@
 
 - 115a) Napríklad § 20h Občianskeho zákonníka, § 6 ods. 2 písm. c) zákona č. 83/1990 Zb.
 
+- 115aa) § 8 až 13 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
 - 115b) § 28 zákona č. 326/2005 Z. z. v znení zákona č. 360/2007 Z. z.
 
 - 115c) § 305 Trestného zákona.
@@ -368,13 +414,13 @@
 
 - 118) Zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch v znení zákona č. 238/2000 Z. z.
 
-- 118a) § 2 ods. 2 písm. f) zákona č. 139/2002 Z. z.
+- 118a) § 2 ods. 2 písm. f) zákona č. 216/2018 Z. z.
 
-- 118b) § 2 ods. 2 písm. d) zákona č. 139/2002 Z. z.
+- 118b) § 2 ods. 2 písm. h) zákona č. 216/2018 Z. z.
 
-- 118c) § 2 ods. 2 písm. e) zákona č. 139/2002 Z. z.
+- 118c) § 10 zákona č. 216/2018 Z. z.
 
-- 118d) § 31 ods. 2 zákona č. 139/2002 Z. z.
+- 118d) § 19a zákona č. 194/1998 Z. z. o šľachtení a plemenitbe hospodárskych zvierat a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
 
 - 119) Zákon č. 238/1998 Z. z. o príspevku na pohreb.
 
@@ -390,10 +436,10 @@
 
 - § 7 vyhlášky Ministerstva životného prostredia č. 110/2005 Z. z., ktorou sa vykonávajú niektoré ustanovenia zákona o ochrane druhov voľne žijúcich živočíchov a voľne rastúcich rastlín reguláciou obchodu s nimi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 122) § 140a zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
-
-- 123) § 140b zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
+- 122) Zákon č. 215/2004 Z. z.
 
 - 124) § 41 ods. 9 zákona č. 326/2005 Z. z.
 
 - 125) Príloha č. 1 zákona č. 138/2010 Z. z.
+
+- 126) § 22 ods. 2 písm. a) zákona č. 326/2005 Z. z. v znení zákona č. 117/2010 Z. z.

@@ -1,6 +1,6 @@
 # § 104a Prechodné ustanovenia k úpravám účinným od 1. mája 2010
 
-(1) Navrhované územia európskeho významu schválené Európskou komisiou pred 1. májom 2010 vyhlási orgán ochrany prírody za chránené územie alebo zónu chráneného územia najneskôr do dvoch rokov od 1. mája 2010.
+(1) Územia európskeho významu schválené Európskou komisiou pred 1. májom 2010 vyhlási orgán ochrany prírody za chránené územie alebo zónu chráneného územia najneskôr do dvoch rokov od 1. mája 2010.
 
 (2) Ustanovenia § 28 sa nepoužijú na lesné hospodárske plány, ku ktorým bol pred 1. májom 2010 vyhotovený protokol podľa osobitného predpisu.<sup>124</sup>)
 

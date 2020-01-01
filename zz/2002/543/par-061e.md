@@ -6,23 +6,19 @@
 
 (3) Nárok na finančnú náhradu nevzniká, ak
 
-- a) je pozemok vo vlastníctve štátu, v správe alebo v užívaní správcu majetku štátu,
+- a) sa pozemok nachádza v súkromnom chránenom území alebo jeho ochrannom pásme alebo v obecnom chránenom území,
 
-- b) sa pozemok nachádza v súkromnom chránenom území alebo jeho ochrannom pásme alebo v obecnom chránenom území,
+- b) náhrada bola uhradená predchádzajúcemu vlastníkovi pozemku,
 
-- c) náhrada bola uhradená predchádzajúcemu vlastníkovi pozemku,
-
-- d) vlastník pozemku uzavrel zámennú zmluvu, nájomnú zmluvu, kúpnu zmluvu alebo zmluvu o zabezpečení zmluvnej starostlivosti (§ 61a až § 61d),
-
-- e) s pozemkom nakladá Slovenský pozemkový fond.
+- c) vlastník pozemku uzavrel zámennú zmluvu, nájomnú zmluvu, kúpnu zmluvu alebo zmluvu o zabezpečení zmluvnej starostlivosti (§ 61a až § 61d).
 
 (4) Osobou oprávnenou na uplatnenie nároku na finančnú náhradu je
 
-- a) vlastník pozemku,
+- a) vlastník pozemku; ak je vlastníkom pozemku štát, je touto osobou správca pozemku,
 
-- b) zástupca určený spoluvlastníkmi, ak je pozemok v podielovom spoluvlastníctve,
+- b) zástupca určený spoluvlastníkmi, ak je pozemok v podielovom spoluvlastníctve, alebo
 
-- c) orgán pozemkového spoločenstva, ak je pozemok súčasťou spoločnej nedeliteľnej nehnuteľnosti.
+- c) pozemkové spoločenstvo, ak je pozemok súčasťou spoločnej nehnuteľnosti alebo spoločne obhospodarovanej nehnuteľnosti.
 
 (5) Ak vlastník pozemok sám neobhospodaruje, môže nárok na finančnú náhradu uplatniť nájomca pozemku, ak mu takéto oprávnenie vyplýva z nájomnej zmluvy.
 
@@ -30,11 +26,11 @@
 
 - a) účinnosti všeobecne záväzného právneho predpisu, ktorým sa vyhlasuje chránené územie alebo menia podmienky jeho ochrany, z ktorého vyplýva obmedzenie bežného obhospodarovania,
 
-- b) platnosti rozhodnutia o schválení programu starostlivosti o lesy alebo jeho zmeny, v ktorých boli uplatnené obmedzujúce požiadavky orgánu ochrany prírody,
+- b) právoplatnosti rozhodnutia o schválení programu starostlivosti o lesy alebo jeho zmeny, v ktorých boli uplatnené obmedzujúce požiadavky orgánu ochrany prírody,
 
 - c) právoplatnosti rozhodnutia orgánu ochrany prírody o nepovolení výnimky na odstránenie následkov škôd v lesoch spôsobených škodlivými činiteľmi, alebo
 
-- d) právoplatnosti rozhodnutia orgánu ochrany prírody s určenými obmedzujúcimi podmienkami vykonávania činnosti alebo jej zákazu (§ 50 ods. 6).
+- d) právoplatnosti rozhodnutia orgánu ochrany prírody s určenými obmedzujúcimi podmienkami vykonávania činnosti alebo jej zákazu.
 
 (7) Nárok na finančnú náhradu možno uplatniť písomnou žiadosťou na okresnom úrade v sídle kraja v trojročnej lehote, ktorá, ak ide o obmedzenia na
 
