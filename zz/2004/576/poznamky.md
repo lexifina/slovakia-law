@@ -1,5 +1,7 @@
 - 1) § 2 ods. 1 písm. b) zákona č. 579/2004 Z. z. o záchrannej zdravotnej službe a o zmene a doplnení niektorých zákonov.
 
+- 1a) Zákon č. 231/2019 Z. z. o výkone detencie a o zmene a doplnení niektorých zákonov.
+
 - 2) § 33 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov.
 
 - 2a) § 11 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
@@ -42,7 +44,9 @@
 
 - 6a) § 13 ods. 5 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z. v znení neskorších predpisov.
 
-- 6aa) § 3 ods. 8 zákona č. 131/2010 Z. z. o pohrebníctve.
+- 6aa) § 3 ods. 7 zákona č. 131/2010 Z. z. o pohrebníctve v znení zákona č. 398/2019 Z. z.
+
+- 6aaa) Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 6ab) § 10 ods. 1 písm. m) a n) zákona č. 153/2013 Z. z. v znení zákona č. 351/2017 Z. z.
 
@@ -84,7 +88,7 @@
 
 - 8f) § 7 ods. 15 zákona č. 578/2004 Z. z. v znení zákona č. 351/2017 Z. z.
 
-- 9) Zákon č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov.
+- 9) Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 9a) § 9d ods. 1 zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
 
