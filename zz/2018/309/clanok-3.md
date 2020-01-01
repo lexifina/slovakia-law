@@ -224,6 +224,22 @@ Zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákono
 
 - 47. V § 34 ods. 2 písm. b) sa na konci pripája čiarka a tieto slová: „ako aj informácie potrebné na činnosť organizátora krátkodobého trhu s elektrinou v rozsahu a kvalite podľa pravidiel trhu a prevádzkového poriadku<sup>53</sup>) organizátora krátkodobého trhu s elektrinou“.
 
+- 48. V § 34 ods. 2 písmeno c) znie:
+
+- „c)
+
+- poskytovať odberateľovi elektriny a na požiadanie aj ministerstvu a úradu informácie o podiele jednotlivých druhov primárnych energetických zdrojov na elektrine nakúpenej alebo vyrobenej dodávateľom na účel jej dodávky odberateľom elektriny v súlade so zverejneným energetickým mixom dodávky elektriny, pričom pri poskytovaní týchto informácií zohľadní aj elektrinu nakúpenú alebo vyrobenú v iných členských štátoch a v tretích štátoch; podiel elektriny vyrobenej z obnoviteľných zdrojov energie v energetickom mixe dodávky elektriny môže dodávateľ na vyúčtovaní dodávok elektriny zmeniť len uplatnením záruk pôvodu elektriny z obnoviteľných zdrojov energie,“.
+
+- 49. V § 37 sa odsek 4 dopĺňa písmenami d) a e), ktoré znejú:
+
+- „d)
+
+- organizovanie a zúčtovanie podpory výroby elektriny z obnoviteľných zdrojov energie a výroby elektriny vysoko účinnou kombinovanou výrobou podľa osobitného predpisu,<sup>4a</sup>)
+
+- e)
+
+- evidenciu, prevody a organizovanie trhu so zárukami pôvodu elektriny z obnoviteľných zdrojov energie a zárukami pôvodu elektriny vyrobenej vysoko účinnou kombinovanou výrobou podľa osobitného predpisu.<sup>4a</sup>)“.
+
 - 50. V § 37 ods. 5 písm. b) sa za slová „prenosovej sústavy“ vkladá čiarka a slová
 
 - „a prevádzkovateľa distribučnej sústavy“ sa nahrádzajú slovami „prevádzkovateľa distribučnej sústavy, prevádzkovateľa priameho vedenia a výrobcu elektriny“.
@@ -235,6 +251,20 @@ Zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákono
 - na poskytovanie nameraných a vyhodnotených údajov od výrobcov elektriny z obnoviteľných zdrojov energie a výrobcov elektriny vysoko účinnou kombinovanou výrobou a poskytnutie údajov potrebných na plnenie svojich povinností v rozsahu a kvalite podľa osobitného predpisu,<sup>4a</sup>)“.
 
   - Doterajšie písmená c) a d) sa označujú ako písmená d) a e).
+
+- 52. V § 37 sa odsek 6 dopĺňa písmenami n) a o), ktoré znejú:
+
+- „n)
+
+- na požiadanie sprístupniť údaje poskytnuté výrobcom elektriny podľa odseku 5 písm. b) a c), ak ide o výrobcu, ktorý si uplatňuje právo na podporu podľa osobitného predpisu,<sup>68a</sup>) prevádzkovateľovi regionálnej distribučnej sústavy, do ktorej je zariadenie na výrobu elektriny pripojené alebo na ktorého časti vymedzeného územia sa nachádza, a výkupcovi elektriny, s ktorým má výrobca elektriny uzavretú zmluvu o povinnom výkupe elektriny,
+
+- o)
+
+- zostavovať energetický mix dodávky elektriny za predchádzajúci kalendárny rok a zverejňovať ho na svojom webovom sídle každoročne do 31. mája.“.
+
+  - Poznámka pod čiarou k odkazu 68a znie:
+
+  - „<sup>68a</sup>) § 3 ods. 1 písm. b), c) a e) zákona č. 309/2009 Z. z. v znení zákona č. 309/2018 Z. z.“.
 
 - 53. § 37 sa dopĺňa odsekom 9, ktorý znie:
 

@@ -990,6 +990,8 @@ Zákon č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko ú�
 
 - Úrad doručí potvrdenie o pôvode elektriny z obnoviteľných zdrojov energie žiadateľovi a zúčtovateľovi podpory.“.
 
+- 45. § 7a vrátane nadpisu sa vypúšťa.
+
 - 46. V § 8 ods. 2 písm. k) sa za slovo „elektriny“ vkladajú slová „vyrobenej vysoko účinnou kombinovanou výrobou“.
 
 - 47. V § 8 sa odsek 2 dopĺňa písmenami o) až q), ktoré znejú:
@@ -1027,6 +1029,242 @@ Zákon č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko ú�
 - množstvo elektriny, na ktorú sa vzťahuje podpora podľa § 3 ods. 1 písm. c) alebo písm. e).“.
 
 - 50. V § 8 ods. 8 sa slová „výrobcovi elektriny vysoko účinnou kombinovanou výrobou“ nahrádzajú slovami „žiadateľovi, zúčtovateľovi podpory“.
+
+- 51. § 8a vrátane nadpisu znie:
+
+- „§ 8a
+
+- Záruky pôvodu
+
+- (1)
+
+- Zárukou pôvodu je záruka pôvodu elektriny
+
+- a)
+
+- z obnoviteľných zdrojov energie,
+
+- b)
+
+- vyrobenej vysoko účinnou kombinovanou výrobou.
+
+- (2)
+
+- Záruka pôvodu elektriny z obnoviteľných zdrojov energie je doklad preukazujúci, že elektrina bola vyrobená z obnoviteľných zdrojov energie a používa sa na účely preukázania, že daný podiel elektriny bol vyrobený z obnoviteľných zdrojov energie a dodaný do elektrizačnej sústavy. So zárukou pôvodu elektriny z obnoviteľných zdrojov energie je spojené právo dodávateľa elektriny uviesť pri vyúčtovaní dodanej elektriny koncovému odberateľovi elektrinu ako elektrinu vyrobenú z obnoviteľného zdroja energie.
+
+- (3)
+
+- Záruka pôvodu elektriny z obnoviteľných zdrojov energie obsahuje najmä
+
+- a)
+
+- zdroj energie, z ktorého bola elektrina vyrobená,
+
+- b)
+
+- počiatočný a koncový dátum výroby elektriny,
+
+- c)
+
+- označenie, miesto, technológiu a celkový inštalovaný výkon zariadenia, v ktorom bola elektrina vyrobená,
+
+- d)
+
+- výšku investičnej pomoci alebo inej podpory z národného systému podpory a druh systému podpory, ak ju zariadenie výrobcu elektriny získalo,
+
+- e)
+
+- dátum uvedenia zariadenia výrobcu elektriny do prevádzky a dátum ukončenia rekonštrukcie alebo modernizácie technologickej časti energetického zariadenia výrobcu elektriny,
+
+- f)
+
+- dátum a členský štát, v ktorom bola záruka pôvodu elektriny z obnoviteľných zdrojov energie vydaná,
+
+- g)
+
+- identifikačné číslo.
+
+- (4)
+
+- Záruku pôvodu elektriny z obnoviteľných zdrojov energie možno použiť do 12 mesiacov od dátumu výroby elektriny z obnoviteľných zdrojov energie. Použitím záruky pôvodu elektriny z obnoviteľných zdrojov energie sa rozumie jej uplatnenie na preukázanie podielu elektriny z obnoviteľných zdrojov na celkovom množstve elektriny dodanej koncovému odberateľovi.
+
+- (5)
+
+- Záruka pôvodu elektriny vyrobenej vysoko účinnou kombinovanou výrobou je doklad, že elektrina bola vyrobená vysoko účinnou kombinovanou výrobou a dodaná do elektrizačnej sústavy. So zárukou pôvodu elektriny vyrobenej vysoko účinnou kombinovanou výrobou je spojené právo dodávateľa elektriny uviesť pri vyúčtovaní dodanej elektriny koncovému odberateľovi elektrinu ako elektrinu vyrobenú vysoko účinnou kombinovanou výrobou.
+
+- (6)
+
+- Záruka pôvodu elektriny vyrobenej vysoko účinnou kombinovanou výrobou obsahuje najmä
+
+- a)
+
+- zdroj energie, z ktorého bola elektrina vyrobená,
+
+- b)
+
+- počiatočný a koncový dátum výroby elektriny,
+
+- c)
+
+- označenie, miesto, technológiu, inštalovaný elektrický výkon zariadenia, inštalovaný tepelný výkon zariadenia a celkový inštalovaný výkon zariadenia, v ktorom bola elektrina vyrobená,
+
+- d)
+
+- množstvo a výhrevnosť paliva, ktoré bolo použité v procese premeny na využiteľnú energiu,
+
+- e)
+
+- množstvo vyrobeného tepla a vykonanej mechanickej práce,
+
+- f)
+
+- miesto, dátum uvedenia zariadenia do prevádzky alebo dátum rekonštrukcie alebo modernizácie technologickej časti energetického zariadenia a technológie kombinovanej výroby,
+
+- g)
+
+- spôsob využitia mechanickej práce a využiteľného tepla vyrobeného spoločne s elektrinou vyrobenou vysoko účinnou kombinovanou výrobou,
+
+- h)
+
+- údaje o mesačnej bilancii výroby a dodávky elektriny a výroby a dodávky tepla za predchádzajúci rok, ak bolo zariadenie prevádzkované v predchádzajúcom roku,
+
+- i)
+
+- výpočet úspor primárnej energie,
+
+- j)
+
+- množstvo elektriny vyrobenej vysoko účinnou kombinovanou výrobou, na ktoré sa záruka pôvodu elektriny vyrobenej vysoko účinnou kombinovanou výrobou vyžaduje,
+
+- k)
+
+- percentuálne vyjadrenú podporu zo štátneho rozpočtu,
+
+- l)
+
+- špecifikáciu nákladov na výrobu elektriny a výšku nákladov na výrobu jednej megawatthodiny,
+
+- m)
+
+- výšku investičnej pomoci alebo inej podpory z národného systému podpory a druh systému podpory, ak ju zariadenie výrobcu elektriny získalo,
+
+- n)
+
+- dátum vydania a štát, v ktorom bola záruka pôvodu elektriny vyrobenej vysoko účinnou kombinovanou výrobou vydaná,
+
+- o)
+
+- identifikačné číslo.
+
+- (7)
+
+- Záruka pôvodu elektriny vyrobenej vysoko účinnou kombinovanou výrobou platí
+
+- 12 mesiacov od dátumu výroby elektriny vyrobenej vysoko účinnou kombinovanou výrobou. Použitím záruky pôvodu elektriny vyrobenej vysoko účinnou kombinovanou výrobou sa rozumie jej uplatnenie na preukázanie podielu elektriny vyrobenej vysoko účinnou kombinovanou výrobou na celkovom množstve elektriny dodanej koncovému odberateľovi.“.
+
+- 52. Za § 8a sa vkladá § 8b, ktorý vrátane nadpisu znie:
+
+- „§ 8b
+
+- Vydanie, prevod, uznanie a zrušenie záruk pôvodu
+
+- (1)
+
+- Organizátor krátkodobého trhu s elektrinou v elektronickej evidencii
+
+- a)
+
+- vytvára a vedie účty výrobcov elektriny a dodávateľov elektriny, s ktorými má uzatvorenú zmluvu o činnostiach spojených s vydávaním a použitím záruk pôvodu (ďalej len „držiteľ účtu“),
+
+- b)
+
+- eviduje vydané záruky pôvodu elektriny z obnoviteľných zdrojov energie a záruky pôvodu elektriny vyrobenej vysoko účinnou kombinovanou výrobou,
+
+- c)
+
+- eviduje prevody záruk pôvodu medzi držiteľmi účtov, eviduje prevody záruk pôvodu prostredníctvom ním organizovaného trhu a prevody záruk pôvodu medzi držiteľom účtu a výrobcom elektriny alebo dodávateľom elektriny z iného členského štátu Európskej únie,
+
+- d)
+
+- eviduje uplatnenie záruk pôvodu dodávateľom elektriny,
+
+- e)
+
+- eviduje uznanie záruky pôvodu vydanej v inom členskom štáte Európskej únie,
+
+- f)
+
+- ruší záruky pôvodu po uplatnení záruky pôvodu alebo uplynutí doby, počas ktorej možno použiť záruku pôvodu.
+
+- (2)
+
+- Záruku pôvodu vydá organizátor krátkodobého trhu s elektrinou v elektronickej podobe pre každú megawatthodinu elektriny na žiadosť výrobcovi elektriny, ak
+
+- a)
+
+- žiadateľom je držiteľ účtu,
+
+- b)
+
+- žiadateľ uvedie v žiadosti všetky údaje v elektronickej evidencii,
+
+- c)
+
+- elektrina je evidovaná v elektronickej evidencii a je vyrobená z obnoviteľných zdrojov energie, ak žiada o vydanie záruky pôvodu elektriny z obnoviteľných zdrojov energie, alebo je vyrobená vysoko účinnou kombinovanou výrobou, ak žiada o vydanie záruky pôvodu elektriny vyrobenej vysoko účinnou kombinovanou výrobou,
+
+- d)
+
+- nejde o elektrinu, na ktorú žiadateľ uplatnil právo na podporu podľa § 3 ods. 1 písm. c) alebo písm. e),
+
+- e)
+
+- žiadateľ nie je v omeškaní so splnením splatného peňažného záväzku podľa zmluvy o činnostiach spojených s vydávaním a použitím záruk pôvodu.
+
+- (3)
+
+- Organizátor krátkodobého trhu s elektrinou vydá záruku pôvodu elektriny v elektronickej podobe pre každú megawatthodinu elektriny aj na elektrinu, na ktorú bolo uplatnené právo na podporu podľa § 3 ods. 1 písm. c) alebo písm. e). Organizátor krátkodobého trhu s elektrinou takto vydané záruky pôvodu eviduje v elektronickej evidencii na vlastnom oddelenom účte a vykonáva jeho správu.
+
+- (4)
+
+- Organizátor krátkodobého trhu s elektrinou organizuje trh s vydanými zárukami pôvodu podľa odsekov 2 a 3.
+
+- (5)
+
+- Záruku pôvodu elektriny z obnoviteľných zdrojov energie a právo s ňou spojené podľa
+
+- § 8a ods. 2 alebo záruku pôvodu elektriny vyrobenej vysoko účinnou kombinovanou výrobou a právo s ňou spojené podľa § 8a ods. 5 možno previesť na iného účastníka trhu s elektrinou prostredníctvom obchodu uskutočneného na trhu so zárukami pôvodu organizovanom organizátorom krátkodobého trhu s elektrinou.
+
+- (6)
+
+- Množstvo elektriny zodpovedajúce zárukám pôvodu elektriny z obnoviteľných zdrojov energie, ktoré dodávateľ elektriny previedol na iného účastníka trhu s elektrinou, sa odpočíta z podielu elektriny z obnoviteľných zdrojov energie v jeho dodávke elektriny. Množstvo elektriny zodpovedajúce zárukám pôvodu elektriny vyrobenej vysoko účinnou kombinovanou výrobou, ktoré dodávateľ elektriny previedol na iného účastníka trhu s elektrinou, sa odpočíta z podielu elektriny vyrobenej vysoko účinnou kombinovanou výrobou v jeho dodávke elektriny.
+
+- (7)
+
+- Záruka pôvodu elektriny z obnoviteľných zdrojov energie alebo záruka pôvodu elektriny vyrobenej vysoko účinnou kombinovanou výrobou sa po uplatnení dodávateľom elektriny alebo koncovým odberateľom elektriny<sup>15d</sup>) zruší. Záruka pôvodu elektriny z obnoviteľných zdrojov alebo záruka pôvodu elektriny vyrobenej vysoko účinnou kombinovanou výrobou a právo so zárukou pôvodu elektriny spojené sa zruší aj uplynutím doby, počas ktorej je možné záruku pôvodu elektriny použiť.
+
+- (8)
+
+- Záruku pôvodu elektriny z obnoviteľných zdrojov energie vydá organizátor krátkodobého trhu s elektrinou aj výrobcovi elektriny kombinovanou výrobou, ak k žiadosti priloží potvrdenie o pôvode elektriny z obnoviteľných zdrojov energie a preukáže spotrebu biometánu.
+
+- (9)
+
+- Organizátor krátkodobého trhu s elektrinou zruší evidenciu alebo prevod záruky pôvodu alebo evidenciu uznania záruk pôvodu, ak sa preukáže, že k nim došlo v rozpore s týmto zákonom.
+
+- (10)
+
+- Záruka pôvodu, ktorá bola vydaná v inom členskom štáte na základe mechanizmu zaručujúceho presnosť a spoľahlivosť vydávania záruk pôvodu, sa považuje za uznanú záruku pôvodu, ak bola prevedená na účet držiteľa účtu registrovaného v elektronickej evidencii. Ak existujú opodstatnené pochybnosti o jej presnosti, spoľahlivosti alebo vierohodnosti, organizátor krátkodobého trhu s elektrinou nezaeviduje prevod záruky pôvodu vydanej v inom členskom štáte a vyzve žiadateľa, aby v ňom určenej lehote odstránil pochybnosti o presnosti, spoľahlivosti alebo vierohodnosti záruky pôvodu. Ak sa v určenej lehote pochybnosti neodstránia, organizátor krátkodobého trhu s elektrinou neumožní evidenciu prevodu záruky pôvodu a oznámi žiadateľovi dôvody. Záruka pôvodu vydaná v inom členskom štáte sa považuje za nespoľahlivú, ak už bola v štáte vydania alebo v inom členskom štáte uplatnená na preukázanie pôvodu elektriny dodanej koncovému odberateľovi.
+
+- (11)
+
+- Ak organizátor krátkodobého trhu s elektrinou záruku pôvodu podľa odseku 10 neuzná, oznámi dôvody neuznania ministerstvu, ktoré informuje Európsku komisiu o dôvodoch neuznania záruky pôvodu vydanej v inom členskom štáte. Ak Európska komisia rozhodne o tom, že neuznanie záruky pôvodu bolo v rozpore s právnymi predpismi Európskej únie, je organizátor krátkodobého trhu s elektrinou povinný bezodkladne po oznámení rozhodnutia Európskej komisie vykonať evidenciu prevodu záruky pôvodu.
+
+- (12)
+
+- Podrobnosti o postupe pri evidencii záruk pôvodu, organizovaní trhu so zárukami pôvodu, pravidlách pre obchodovanie so zárukami pôvodu a uznávaní prevodov záruk pôvodu upraví organizátor krátkodobého trhu s elektrinou vo svojom prevádzkovom poriadku.
+
+- (13)
+
+- Dohľad nad evidenciou, prevodom a zrušením záruk pôvodu a nad evidenciou uznania záruk pôvodu vykonáva úrad. Organizátor krátkodobého trhu s elektrinou, výrobca elektriny a dodávateľ elektriny sú povinní poskytnúť úradu potrebnú súčinnosť pri výkone dohľadu. Pri zrušení evidencie alebo prevodu záruky pôvodu sa postupuje primerane podľa odseku 11.“.
 
 - 53. § 9 vrátane nadpisu znie:
 
@@ -1287,6 +1525,20 @@ Zákon č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko ú�
 - (23)
 
 - Úrad sprístupní do 30. júna 2019 organizátorovi krátkodobého trhu s elektrinou údaje evidované v elektronickej databáze úradu o vydaných, použitých a prevedených zárukách pôvodu elektriny z obnoviteľných zdrojov a zárukách pôvodu elektriny vyrobenej vysoko účinnou kombinovanou výrobou a následné zmeny v evidovaných údajoch v rozsahu a formáte dohodnutom s organizátorom krátkodobého trhu s elektrinou.“.
+
+- 72. Za § 18i sa vkladá § 18j, ktorý vrátane nadpisu znie:
+
+- „§ 18j
+
+- Prechodné ustanovenia k úpravám účinným od 1. januára 2020
+
+- (1)
+
+- Záruky pôvodu elektriny z obnoviteľných zdrojov energie a záruky pôvodu elektriny vyrobenej vysoko účinnou kombinovanou výrobou vydané do 31. decembra 2019 sa považujú za záruky pôvodu podľa tohto zákona v znení účinnom od 1. januára 2020.
+
+- (2)
+
+- Konania o vydanie, prevod, zrušenie alebo uznanie záruky pôvodu elektriny z obnoviteľných zdrojov energie a záruky pôvodu elektriny vyrobenej vysoko účinnou kombinovanou výrobou začaté pred 1. januárom 2020 sa dokončia podľa tohto zákona v znení účinnom do 31. decembra 2019. O vydaní záruk pôvodu elektriny z obnoviteľných zdrojov energie a záruk pôvodu elektriny vyrobenej vysoko účinnou kombinovanou výrobou informuje úrad organizátora krátkodobého trhu s elektrinou v rozsahu a formáte dohodnutom s organizátorom krátkodobého trhu s elektrinou.“.
 
 - 73. V § 19 sa odsek 1 dopĺňa písmenami n) a o), ktoré znejú:
 

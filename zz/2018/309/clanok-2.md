@@ -36,6 +36,16 @@ Zákon č. 250/2012 Z. z. o regulácii v sieťových odvetviach v znení zákona
 
   - „<sup>11b</sup>) Napríklad nariadenie (EÚ) 2015/1222 a nariadenie Komisie (EÚ) 2017/459 zo 16. marca 2017, ktorým sa stanovuje sieťový predpis o mechanizmoch prideľovania kapacity v plynárenských prepravných sieťach a ktorým sa zrušuje nariadenie (EÚ) č. 984/2013 (Ú. v. EÚ L 72, 17. 3. 2017).“.
 
+- 5. V § 9 ods. 1 sa písmeno b) dopĺňa ôsmym bodom, ktorý znie:
+
+- „8.
+
+- dohľad nad zárukami pôvodu elektriny z obnoviteľných zdrojov energie a zárukami pôvodu elektriny vyrobenej vysoko účinnou kombinovanou výrobou podľa osobitného predpisu,<sup>13a</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 13a znie:
+
+  - „<sup>13a</sup>) § 8b ods. 13 zákona č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko účinnej kombinovanej výroby a o zmene a doplnení niektorých zákonov v znení zákona č. 309/2018 Z. z.“.
+
 - 6. V § 10 písm. a) druhý bod znie:
 
 - „2.
@@ -133,6 +143,8 @@ Zákon č. 250/2012 Z. z. o regulácii v sieťových odvetviach v znení zákona
 - „n)
 
 - podmienok alebo metodiky pre prevádzkovateľa prenosovej sústavy, prevádzkovateľa prepravnej siete alebo organizátora krátkodobého trhu s elektrinou pri cezhraničnej infraštruktúre podľa osobitných predpisov.<sup>11b</sup>)“.
+
+- 16. V § 13 ods. 3 písm. a) sa za slovom „biometánu“ vypúšťa čiarka a slová „záruky pôvodu elektriny z obnoviteľných zdrojov energie a záruky pôvodu elektriny vyrobenej vysoko účinnou kombinovanou výrobou“.
 
 - 17. V § 13 sa odsek 3 dopĺňa písmenom e), ktoré znie:
 
