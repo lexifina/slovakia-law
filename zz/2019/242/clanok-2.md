@@ -90,7 +90,39 @@ Zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry
 
 - Ak európsky delegovaný prokurátor plní aj úlohy prokurátora Úradu špeciálnej prokuratúry, za plnenie týchto úloh mu patrí pomerná časť platu podľa tohto zákona zodpovedajúca určenému rozsahu plnenia úloh.“.
 
+- 16. V § 93 ods. 1 sa písmeno c) dopĺňa ôsmym bodom, ktorý znie:
+
+- „8.
+
+- príplatok za disciplinárne konanie,“.
+
 - 17. V § 103c ods. 1 sa za slová „podľa § 9b“ vkladajú slová „ods. 1 a 2“, slová „25 %“ sa nahrádzajú slovami „30 %“ a slová „75%“ sa nahrádzajú slovami „70 %“.
+
+- 18. V § 109 ods. 1 sa slová „5 %“ nahrádzajú slovami „7 %“ a slová „7 %“ sa nahrádzajú slovami „10 %“.
+
+- 19. Za § 113 sa vkladá § 114, ktorý vrátane nadpisu znie:
+
+- „§ 114
+
+- Príplatok za disciplinárne konanie
+
+- (1)
+
+- Príplatok za výkon funkcie člena disciplinárnej komisie alebo za výkon funkcie predsedu disciplinárnej komisie patrí prokurátorovi, ktorý je
+
+- a)
+
+- členom disciplinárnej komisie, v sume 44,26 eura mesačne,
+
+- b)
+
+- predsedom disciplinárnej komisie, v sume 66,39 eura mesačne.
+
+- (2)
+
+- Príplatok podľa odseku 1 nepatrí tomu členovi disciplinárnej komisie a predsedovi disciplinárnej komisie, ktorý je náhradníkom disciplinárnej komisie.“.
+
+- 20. V § 115 ods. 1 písm. a) sa vypúšťajú slová „člena disciplinárnej komisie,“.
 
 - 21. V § 134 odsek 1 znie:
 
