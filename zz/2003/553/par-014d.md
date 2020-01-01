@@ -10,4 +10,4 @@
 
 - c) tried podľa odseku 1, v ktorých vykonáva priamu vyučovaciu činnosť.
 
-(3) Príplatok podľa odseku 1 je najviac 2,5 % z platovej tarify 9. platovej triedy prvej pracovnej triedy mesačne. Príplatok sa určí pevnou sumou zaokrúhlenou na 50 eurocentov nahor.
+(3) Príplatok podľa odseku 1 je najviac 5 % z platovej tarify 9. platovej triedy prvej pracovnej triedy mesačne. Príplatok sa určí pevnou sumou zaokrúhlenou na 50 eurocentov nahor.
