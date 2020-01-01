@@ -1,0 +1,1 @@
+Príloha č. 2 k ústavnému zákonu č. 357/2004 Z. z. v znení ústavného zákona č. 232/2019 Z. z. [Príloha č. 2 k ústavnému zákonu č. 357/2004 Z. z. v znení ústavného zákona č. 232/2019 Z. z.](../assets/added3bc2cb041d3921c9c43a45e8abadb9c4c7a9003d50f31f65ae42e67fbdb.pdf)
