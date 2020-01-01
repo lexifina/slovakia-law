@@ -1,1 +1,1 @@
-Príloha č. 2 k nariadeniu vlády č. 388/2018 Z. z. [platové tarify](../assets/67dbdb8c2c43306cd63b6ed278fff48a001e72368a38afc4543a9f1676d13d0f.pdf)
+Príloha č. 2 k nariadeniu vlády č. 388/2018 Z. z. [platové tarify](../assets/1c187d20bb60428fa0d1ee0fbdc571fcaf9a240b941e0b7cdb80f1f9fbb28e01.pdf)
