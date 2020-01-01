@@ -82,6 +82,10 @@
 
 - 24aaa) § 34 zákona č. 423/2015 Z. z.
 
+- 24aab) Nariadenie Rady (EÚ) č. 1024/2013 z 15. októbra 2013, ktorým sa Európska centrálna banka poveruje osobitnými úlohami, pokiaľ ide o politiky týkajúce sa prudenciálneho dohľadu nad úverovými inštitúciami (Ú. v. EÚ L 287, 29. 10. 2013).
+
+- § 1 ods. 3 písm. a) zákona č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 25) Napríklad § 40 zákona č. 483/2001 Z. z., § 35 ods. 4 zákona č. 34/2002 Z. z.
 
 - 26) § 50 zákona č. 595/2003 Z. z.
