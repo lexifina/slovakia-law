@@ -10,7 +10,7 @@
 
 - b) elektrotechnického alebo strojníckeho zamerania pre kategóriu uvedenú v § 5 ods. 1 písm. b) štvrtom bode.
 
-(4) Ministerstvo školstva, vedy, výskumu a športu Slovenskej republiky po vyjadrení príslušnej komory môže uznať doklad o vzdelaní získaný v členskom štáte aj na základe iného vzdelania, než je uvedené v odseku 3 a v § 16 ods. 9, ak ide o vysokoškolské vzdelanie
+(4) Ministerstvo školstva, vedy, výskumu a športu Slovenskej republiky po vyjadrení príslušnej komory môže uznať doklad o vzdelaní získaný v členskom štáte aj na základe iného vzdelania, než je uvedené v odseku 3 a v § 16 ods. 10, ak ide o vysokoškolské vzdelanie
 
 - a) technického zamerania pre kategórie podľa § 5 ods. 1 písm. b) a ide o žiadateľa, ktorý svojou najmenej sedemročnou odbornou praxou v oblasti stavebníctva dostatočne preukázal potrebnú technickú spôsobilosť,
 
