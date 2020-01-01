@@ -19,3 +19,5 @@
 (9) Správca dane môže vo všeobecne záväznom nariadení<sup>11</sup>) určiť sumu dane, ktorú nebude vyrubovať podľa tohto ustanovenia, najviac v úhrne do sumy piatich eur.
 
 (10) Ak dôjde počas zdaňovacieho obdobia k zániku daňovej povinnosti k dani z nehnuteľností, k dani za psa, k dani za predajné automaty a k dani za nevýherné hracie prístroje alebo niektorej z nich, správca dane vydá nové rozhodnutie, ktorým vyrubí pomernú časť dane. Novým rozhodnutím sa pôvodné rozhodnutie alebo časť výroku rozhodnutia zrušuje; proti novému rozhodnutiu alebo časti výroku rozhodnutia možno podať odvolanie.
+
+(11) Ak bola daň z nehnuteľností, daň za psa, daň za predajné automaty a daň za nevýherné hracie prístroje alebo niektorá z nich vyrubená a daňovník podá čiastkové priznanie podľa § 99b, správca dane vydá nové rozhodnutie, ktorým vyrubí daň. Novým rozhodnutím sa pôvodné rozhodnutie alebo časť výroku rozhodnutia zrušuje; proti novému rozhodnutiu alebo časti výroku rozhodnutia možno podať odvolanie.
