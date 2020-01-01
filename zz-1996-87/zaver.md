@@ -1,0 +1,1 @@
+Sergej Kozlík v. r.
