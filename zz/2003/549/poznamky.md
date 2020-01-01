@@ -16,6 +16,8 @@
 
 - 7a) Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov.
 
+- 7b) § 11 ods. 2 zákona č. 183/2011 Z. z. o uznávaní a výkone rozhodnutí o peňažnej sankcii v Európskej únii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 8) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
 - 9) Zákon č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok.
