@@ -56,7 +56,7 @@
 
 (6) Prijímateľ nepeňažného vkladu zahrnuje do základu dane ako daňový výdavok podľa § 19
 
-- a) pri postúpení nepremlčanej pohľadávky nadobudnutej prijímateľom nepeňažného vkladu v ocenení reálnou hodnotou, ktorá nesmie byť vyššia ako jej menovitá hodnota, reálnu hodnotu tejto pohľadávky bez príslušenstva, najviac do výšky príjmu z jej postúpenia alebo sumu najviac do výšky
+- a) pri postúpení pohľadávky, ktorá bola v zdaňovacom období jej postúpenia aspoň jeden kalendárny deň nepremlčaná, nadobudnutej prijímateľom nepeňažného vkladu v ocenení reálnou hodnotou, ktorá nesmie byť vyššia ako jej menovitá hodnota, reálnu hodnotu tejto pohľadávky bez príslušenstva, najviac do výšky príjmu z jej postúpenia alebo sumu najviac do výšky
 
   - 1. 20 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia pohľadávky nepeňažným vkladom uplynula doba dlhšia ako 360 dní,
 
@@ -64,7 +64,7 @@
 
   - 3. 100 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia pohľadávky nepeňažným vkladom uplynula doba dlhšia ako 1 080 dní,
 
-- b) pri odpise nepremlčanej pohľadávky nadobudnutej prijímateľom nepeňažného vkladu v ocenení reálnou hodnotou, ktorá nesmie byť vyššia ako jej menovitá hodnota, sumu najviac do výšky
+- b) pri odpise pohľadávky, ktorá bola v zdaňovacom období jej odpisu aspoň jeden kalendárny deň nepremlčaná, nadobudnutej prijímateľom nepeňažného vkladu v ocenení reálnou hodnotou, ktorá nesmie byť vyššia ako jej menovitá hodnota, sumu najviac do výšky
 
   - 1. 20 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia pohľadávky nepeňažným vkladom uplynula doba dlhšia ako 360 dní,
 

@@ -2,7 +2,7 @@
 
 Vstupnou cenou finančného majetku<sup>1</sup>) je
 
-- a) obstarávacia cena,<sup>118</sup>) ak bol finančný majetok nadobudnutý kúpou okrem reálnej hodnoty podľa písmena d),
+- a) obstarávacia cena,<sup>118</sup>) ak bol finančný majetok nadobudnutý kúpou okrem reálnej hodnoty podľa písmena d), upravená o všetky zníženia tejto ceny, ktoré neboli zahrnuté do základu dane, okrem zníženia tejto ceny z dôvodu výplaty príjmu zo zníženia základného imania obchodnej spoločnosti alebo družstva v časti, v akej bolo do dňa nadobudnutia finančného majetku zvýšené zo zisku po zdanení [§ 3 ods. 1 písm. e), § 12 ods. 7 písm. c) prvý bod],
 
 - b) cena zistená podľa osobitného predpisu,<sup>29</sup>) ak bol finančný majetok nadobudnutý bezodplatne,
 
@@ -22,7 +22,13 @@ Vstupnou cenou finančného majetku<sup>1</sup>) je
 
   - 4. ktorého prvotné ocenenie v reálnej hodnote ustanovuje osobitný predpis,<sup>119a</sup>)
 
-- e) pôvodná cena, ak ide o finančný majetok,<sup>1</sup>) ktorý nadobudol prijímateľ nepeňažného vkladu pri uplatnení pôvodných cien podľa § 17d a právny nástupca daňovníka zrušeného bez likvidácie pri uplatnení pôvodných cien podľa § 17e; finančný majetok,<sup>1</sup>) ktorý nadobúda vkladateľ nepeňažného vkladu, je ocenený pôvodnou cenou, ktorou sa rozumie celková hodnota nepeňažného vkladu vyjadrená v pôvodných cenách, ktorú preberá príjemca nepeňažného vkladu podľa § 17d,
+  - 5. určený na obchodovanie, ktorého precenenie na reálnu hodnotu vykázané ako náklad alebo výnos bolo zahrnuté do základu dane,
+
+- e) pôvodná cena, ak ide o finančný majetok, ktorý nadobudol
+
+  - 1. prijímateľ nepeňažného vkladu pri uplatnení pôvodných cien podľa § 17d a právny nástupca daňovníka zrušeného bez likvidácie pri uplatnení pôvodných cien podľa § 17e; finančný majetok, ktorý nadobúda vkladateľ nepeňažného vkladu, je ocenený pôvodnou cenou, ktorou sa rozumie celková hodnota nepeňažného vkladu vyjadrená v pôvodných cenách, ktorú preberá príjemca nepeňažného vkladu podľa § 17d,
+
+  - 2. akcionár alebo spoločník daňovníka zrušeného bez likvidácie pri zlúčení, splynutí alebo rozdelení obchodných spoločností alebo družstiev na právnom nástupcovi daňovníka zrušeného bez likvidácie; pôvodnou cenou sa rozumie ocenenie akcií alebo podielu na daňové účely, ktorým boli akcie alebo podiel ocenené pred zlúčením, splynutím alebo rozdelením obchodných spoločností alebo družstiev,
 
 - f) hodnota splateného peňažného vkladu [§ 2 písm. ac)],
 

@@ -44,7 +44,7 @@
 
 (4) Právny nástupca daňovníka zrušeného bez likvidácie zahrnuje do základu dane daňový výdavok podľa § 19
 
-- a) pri postúpení nepremlčanej pohľadávky nadobudnutej zlúčením, splynutím alebo rozdelením obchodných spoločností alebo družstiev ocenenej reálnou hodnotou, ktorá nesmie byť vyššia ako jej menovitá hodnota, reálnu hodnotu tejto pohľadávky bez príslušenstva, najviac do výšky príjmu z jej postúpenia alebo sumu najviac do výšky
+- a) pri postúpení pohľadávky, ktorá bola v zdaňovacom období jej postúpenia aspoň jeden kalendárny deň nepremlčaná, nadobudnutej zlúčením, splynutím alebo rozdelením obchodných spoločností alebo družstiev ocenenej reálnou hodnotou, ktorá nesmie byť vyššia ako jej menovitá hodnota, reálnu hodnotu tejto pohľadávky bez príslušenstva, najviac do výšky príjmu z jej postúpenia alebo sumu najviac do výšky
 
   - 1. 20 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia pohľadávky pri zlúčení, splynutí alebo rozdelení obchodných spoločností alebo družstiev<sup>77c</sup>) uplynula doba dlhšia ako 360 dní,
 
@@ -52,7 +52,7 @@
 
   - 3. 100 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia pohľadávky pri zlúčení, splynutí alebo rozdelení obchodných spoločností alebo družstiev<sup>77c</sup>) uplynula doba dlhšia ako 1 080 dní,
 
-- b) pri odpise nepremlčanej pohľadávky nadobudnutej zlúčením, splynutím alebo rozdelením obchodných spoločností alebo družstiev ocenenej reálnou hodnotou, ktorá nesmie byť vyššia ako jej menovitá hodnota, sumu najviac do výšky
+- b) pri odpise pohľadávky, ktorá bola v zdaňovacom období jej odpisu aspoň jeden kalendárny deň nepremlčaná, nadobudnutej zlúčením, splynutím alebo rozdelením obchodných spoločností alebo družstiev ocenenej reálnou hodnotou, ktorá nesmie byť vyššia ako jej menovitá hodnota, sumu najviac do výšky
 
   - 1. 20 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia pohľadávky pri zlúčení, splynutí alebo rozdelení obchodných spoločností alebo družstiev<sup>77c</sup>) uplynula doba dlhšia ako 360 dní,
 

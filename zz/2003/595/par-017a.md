@@ -34,7 +34,7 @@
 
 (6) Daňovník kupujúci podnik podľa odseku 5 upraví základ dane o rozdiel medzi sumou prevzatej rezervy a výškou skutočnej úhrady záväzku v zdaňovacom období, v ktorom došlo k úhrade záväzku, ku ktorému bola tvorená táto rezerva, ak náklad vzťahujúci sa k tomuto záväzku by bol daňovým výdavkom. Zrušenie rezervy nadobudnutej kúpou podniku alebo jeho časti sa zahrnuje do základu dane podľa osobitného predpisu.<sup>1</sup>) Na ďalšiu tvorbu rezerv u daňovníka kupujúceho podnik sa vzťahujú ustanovenia § 17 ods. 23 a § 20 o tvorbe, použití alebo zrušení rezerv.
 
-(7) Daňovník kupujúci podnik podľa odseku 5 pri nepremlčanej pohľadávke nadobudnutej kúpou podniku alebo jeho časti ocenenej reálnou hodnotou, ktorá nesmie byť vyššia ako jej menovitá hodnota, uplatní ako daňový výdavok podľa § 19 pri
+(7) Daňovník kupujúci podnik podľa odseku 5 pri pohľadávke, ktorá bola v zdaňovacom období jej postúpenia alebo odpisu aspoň jeden kalendárny deň nepremlčaná, nadobudnutej kúpou podniku alebo jeho časti ocenenej reálnou hodnotou, ktorá nesmie byť vyššia ako jej menovitá hodnota, uplatní ako daňový výdavok podľa § 19 pri
 
 - a) postúpení tejto pohľadávky reálnu hodnotu tejto pohľadávky bez príslušenstva, najviac do výšky príjmu z jej postúpenia alebo sumu najviac do výšky
 

@@ -2,7 +2,7 @@
 
 (1) Zdaniteľný príjem zo závislej činnosti plynúci prezidentovi Slovenskej republiky, poslancovi Národnej rady Slovenskej republiky, členovi vlády Slovenskej republiky, predsedovi a podpredsedovi Najvyššieho kontrolného úradu Slovenskej republiky (ďalej len „vybraný ústavný činiteľ“) podľa osobitného predpisu<sup>75a</sup>) vrátane príjmu uvedeného v § 5 ods. 1 písm. f) a ods. 3 písm. c) od zamestnávateľa, ktorý je platiteľom dane a vypláca vybranému ústavnému činiteľovi príjmy podľa osobitného predpisu<sup>75a</sup>) okrem sadzby dane podľa § 15 písm. a), podlieha zdaneniu aj osobitnou sadzbou dane vo výške 5 % (ďalej len „osobitná daň“).
 
-(2) Suma osobitnej dane vybraného ústavného činiteľa, vypočítaná zo zdaniteľného príjmu zo závislej činnosti uvedeného v odseku 1 sadzbou podľa odseku 1, zaokrúhlená na eurocenty nadol, pri výpočte základu dane neznižuje úhrn zdaniteľných príjmov zo závislej činnosti vybraného ústavného činiteľa.
+(2) Suma osobitnej dane vybraného ústavného činiteľa, vypočítaná zo zdaniteľného príjmu zo závislej činnosti uvedeného v odseku 1 sadzbou podľa odseku 1, zaokrúhlená podľa § 47, pri výpočte základu dane neznižuje úhrn zdaniteľných príjmov zo závislej činnosti vybraného ústavného činiteľa.
 
 (3) Zamestnávateľ, ktorý je platiteľom dane, zodpovedá za správnosť výpočtu, zrazenia a odvedenia osobitnej dane. Osobitnú daň vybraného ústavného činiteľa odvedie zamestnávateľ, ktorý je platiteľom dane, správcovi dane v lehote podľa § 35 ods. 6 a jej odvedením je osobitná daň vysporiadaná, pričom ak platiteľ dane nevykoná zrážku, nezrazí daň v správnej výške alebo zrazenú daň neodvedie, použije sa postup uvedený v § 43 ods. 12.
 

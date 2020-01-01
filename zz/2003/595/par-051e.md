@@ -4,17 +4,17 @@
 
 - a) podľa § 2 písm. d) prvého bodu, ak mu tieto príjmy plynú zo zdrojov v zahraničí, okrem daňovníka podľa písmena b),
 
-- b) podľa § 2 písm. d) prvého bodu, ak mu tieto príjmy plynú zo zdrojov v zahraničí od daňovníka nezmluvného štátu podľa § 2 písm. x),
+- b) podľa § 2 písm. d) prvého bodu, ak mu tieto príjmy plynú zo zdrojov v zahraničí od daňovníka nespolupracujúceho štátu podľa § 2 písm. x),
 
-- c) podľa § 2 písm. d) druhého bodu, ak mu tieto príjmy plynú zo zdrojov v zahraničí od daňovníka nezmluvného štátu podľa § 2 písm. x).
+- c) podľa § 2 písm. d) druhého bodu, ak mu tieto príjmy plynú zo zdrojov v zahraničí od daňovníka nespolupracujúceho štátu podľa § 2 písm. x).
 
 (2) Do osobitného základu dane sa zahŕňajú príjmy podľa § 3 ods. 1 písm. f) a § 12 ods. 7 písm. c) druhého bodu, plynúce od zahraničnej osoby, ktorá nepodlieha zdaneniu obdobne ako spoločnosť s ručením obmedzeným alebo akciová spoločnosť, ktorá má sídlo alebo miesto skutočného vedenia na území Slovenskej republiky a ktorej uvedený príjem plynul z dôvodu, že sa podieľa na základnom imaní zahraničnej osoby, ak plynú daňovníkovi podľa
 
 - a) § 2 písm. d) prvého bodu okrem daňovníka podľa písmena b),
 
-- b) § 2 písm. d) prvého bodu, ak mu tieto príjmy plynú od daňovníka nezmluvného štátu podľa § 2 písm. x),
+- b) § 2 písm. d) prvého bodu, ak mu tieto príjmy plynú od daňovníka nespolupracujúceho štátu podľa § 2 písm. x),
 
-- c) § 2 písm. d) druhého bodu, ak mu tieto príjmy plynú od daňovníka nezmluvného štátu podľa § 2 písm. x).
+- c) § 2 písm. d) druhého bodu, ak mu tieto príjmy plynú od daňovníka nespolupracujúceho štátu podľa § 2 písm. x).
 
 (3) Príjmy podľa § 3 ods. 1 písm. e) až g), neznížené o výdavky, vyplácané daňovníkovi podľa
 
