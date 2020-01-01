@@ -56,7 +56,7 @@
 
 - t) ktorý úspešne absolvoval štúdium na strednej škole alebo štúdium na vysokej škole na území Slovenskej republiky,
 
-- u) ktorý bude zamestnaný na určené obdobie na účel jeho zaškolenia, najviac na šesť po sebe nasledujúcich týždňov v kalendárnom roku, ak ide o výkon zamestnania s nedostatkom pracovnej sily v okrese podľa § 12 písm. ai), a ktorý má podanú žiadosť o udelenie prechodného pobytu na účel zamestnania na to isté pracovné miesto,
+- u) ktorý bude zamestnaný na určené obdobie na účel jeho zaškolenia, najviac na šesť po sebe nasledujúcich týždňov v kalendárnom roku, ak ide o výkon zamestnania s nedostatkom pracovnej sily v okrese podľa § 12 písm. ai), a ktorý má podanú žiadosť o udelenie prechodného pobytu na účel zamestnania spolu so všetkými náležitosťami podľa osobitného predpisu<sup>28aa</sup>) na to isté pracovné miesto,
 
 - v) ktorý nedovŕšil 26 rokov veku a ktorý bude zamestnávaný príležitostnými a časovo obmedzenými prácami v rámci výmeny medzi školami alebo v rámci programov pre mládež alebo programov pre vzdelávanie, ktorých sa Slovenská republika zúčastňuje,
 

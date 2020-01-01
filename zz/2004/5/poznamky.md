@@ -158,6 +158,8 @@
 
 - Zákon č. 184/2009 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 28aa) § 32 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
+
 - 28b) Zákon č. 57/2018 Z. z. o regionálnej investičnej pomoci a o zmene a doplnení niektorých zákonov.
 
 - 28c) § 3 zákona č. 175/1999 Z. z. o niektorých opatreniach týkajúcich sa prípravy významných investícií a o doplnení niektorých zákonov v znení zákona č. 219/2013 Z. z.
@@ -280,13 +282,13 @@
 
 - 59ai) § 91 ods. 2 až 7, § 92 ods. 1 až 7 a § 93 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
-- 59b) § 2 ods. 5 zákona č. 112/2018 Z. z.
+- 59b) § 2 ods. 5 a § 12 ods. 3 písm. a) až c) zákona č. 112/2018 Z. z. v znení zákona č. 374/2019 Z. z.
 
 - 59c) § 2 písm. n) zákona č. 595/2003 Z. z.
 
-- 59d) § 138 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+- 59d) Zákon č. 292/2014 Z. z. o príspevku poskytovanom z európskych štrukturálnych a investičných fondov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 59e) § 2 ods. 6 a § 12 ods. 3 písm. b) a c) zákona č. 112/2018 Z. z.
+- 59e) § 2 ods. 6 a § 12 ods. 3 písm. d) až f) zákona č. 112/2018 Z. z.
 
 - 59f) § 2 ods. 5 písm. b) zákona č. 112/2018 Z. z.
 
@@ -295,6 +297,8 @@
 - 59h) § 2 ods. 5 písm. a) tretí bod a štvrtý bod zákona č. 112/2018 Z. z.
 
 - 59i) Čl. 34 ods. 2 a čl. 35 ods. 2 nariadenia (EÚ) č. 651/2014 v platnom znení.
+
+- 59j) § 2 ods. 5 a 6 zákona č. 112/2018 Z. z. v znení zákona č. 374/2019 Z. z.
 
 - 60) § 13 ods. 4 písm. a) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
 

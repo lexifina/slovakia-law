@@ -10,4 +10,4 @@
 
 - b) súčasne priznaný štatút integračného podniku aj priznané postavenie chránenej dielne, nepatria príspevky poskytované podľa tohto zákona chránenej dielni.
 
-(4) Právnickej osobe alebo fyzickej osobe, ktorá má k 31. decembru 2020 súčasne priznaný štatút integračného podniku aj priznané postavenie chránenej, dňom 1. januára 2021 zaniká jej priznané postavenie chránenej dielne.
+(4) Právnickej osobe alebo fyzickej osobe, ktorá má k 31. decembru 2020 súčasne priznaný štatút integračného podniku aj priznané postavenie chránenej dielne, dňom 1. januára 2021 zaniká jej priznané postavenie chránenej dielne.
