@@ -8,6 +8,12 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - 3. V § 63 ods. 1 písm. d) sa slová „§ 80 ods. 1 písm. k)“ nahrádzajú slovami „§ 80 ods. 1 písm. j)“.
 
+- 4. V § 79 ods. 1 písm. j) sa za slovo „kraju“ vkladajú slová „prostredníctvom národného zdravotníckeho informačného systému<sup>47a</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 47a znie:
+
+  - „<sup>47a</sup>) § 2 ods. 1 zákona č. 153/2013 Z. z.“.
+
 - 5. V § 79 ods. 1 písm. zb) prvom a druhom bode sa slová „31. marca“ nahrádzajú slovami
 
 - „15. apríla“.

@@ -4,6 +4,8 @@ Zákon č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o z
 
 - 1. V § 1 písm. i) sa za slová „Úradu pre dohľad nad zdravotnou starostlivosťou“ vkladajú slová „(ďalej len „úrad pre dohľad“)“ a slová „§ 5 ods. 6 písm. j) až o)“ sa nahrádzajú slovami „§ 5 ods. 6 písm. j) až z)“.
 
+- 2. V § 1 písm. j) sa na konci pripájajú tieto slová: „a elektronických preukazov pracovníkov v zdravotníctve“.
+
 - 3. V § 2 ods. 2 sa na konci pripájajú tieto slová: „na účely správy a prevádzky národného zdravotníckeho informačného systému“.
 
 - 4. Slová „elektronický podpis“ vo všetkých tvaroch sa v celom texte zákona okrem § 7 ods. 4 nahrádzajú slovami „zdokonalený elektronický podpis“ v príslušnom tvare.
@@ -15,6 +17,12 @@ Zákon č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o z
 - „(12)
 
 - Jednoznačný číselný kód je bezvýznamový alfanumerický reťazec pridelený príslušným orgánom uvedeným v § 5 ods. 6 písm. r) a t) až y) v súlade s metodikou integrácie, ktorý jednoznačne identifikuje oprávnenosť a odôvodnenosť prístupu osoby k vybraným údajom z elektronickej zdravotnej knižky.“.
+
+- 7. § 2 sa dopĺňa odsekom 13, ktorý znie:
+
+- „(13)
+
+- Elektronický preukaz pracovníka v zdravotníctve je technický prostriedok na identifikáciu, autentizáciu a autorizáciu pracovníka v zdravotníctve podľa § 8a.“.
 
 - 8. V § 3 ods. 1 písm. a) treťom bode sa slová „zaobchádzajúcich s liekmi“ nahrádzajú slovami „s osobitnými úlohami v zdravotníctve“.
 
@@ -33,6 +41,8 @@ Zákon č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o z
 - „<sup>20</sup>) Čl. 26 nariadenia Európskeho parlamentu a Rady (EÚ) č. 910/2014 z 23. júla 2014 o elektronickej identifikácii a dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zrušení smernice 1999/93/ES (Ú. v. EÚ L 257, 28. 8. 2014).“.
 
 - 14. V § 5 ods. 6 úvodná veta znie „Identifikačné údaje osoby a elektronické zdravotné záznamy z elektronickej zdravotnej knižky sa poskytujú“.
+
+- 15. V § 5 ods. 6 písm. a) sa vypúšťajú slová „elektronických zdravotných záznamov vytvorených lekárom so špecializáciou v špecializačnom odbore psychiatria alebo psychológom so špecializáciou v špecializačnom odbore klinická psychológia a“.
 
 - 16. V § 5 ods. 6 písmeno b) znie:
 
@@ -120,6 +130,14 @@ Zákon č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o z
 
   - <sup>27j</sup>) § 46 zákona č. 576/2004 Z. z. v znení neskorších predpisov.“.
 
+- 22. V § 5 ods. 6 sa za písmeno y) vkladá nové písmeno z), ktoré znie:
+
+- „z)
+
+- administratívnemu pracovníkovi určenému poskytovateľom zdravotnej starostlivosti v rozsahu podľa odseku 1 písm. a) a písm. b) šiesteho a siedmeho bodu v rozsahu údaja o špecializačnom odbore a dátume jeho vytvorenia,“.
+
+  - Doterajšie písmeno z) sa označuje ako písmeno aa).
+
 - 23. V § 5 ods. 6 písm. aa) sa slová „a) až q)“ nahrádzajú slovami „a) až z)“.
 
 - 24. V § 5 ods. 9 sa slová „počas vloženia občianskeho preukazu s elektronickým čipom alebo dokladu o pobyte s elektronickým čipom do technického zariadenia poskytovateľa zdravotnej starostlivosti“ nahrádzajú slovami „počas poskytovania zdravotnej starostlivosti“.
@@ -158,9 +176,57 @@ Zákon č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o z
 
 - Všeobecný lekár má prístup k údajom z elektronickej zdravotnej knižky osoby podľa odseku 1 písm. a) a b) aj po zániku dohody o poskytovaní zdravotnej starostlivosti v rozsahu tých elektronických zdravotných záznamov, ktoré vznikli do zániku platnosti tejto dohody.“.
 
+- 28. Za § 5 sa vkladá § 5a, ktorý vrátane nadpisu znie:
+
+- „§ 5a
+
+- Elektronické zdravotné záznamy vytvorené ošetrujúcim lekárom so špecializáciou v špecializačnom odbore psychiatria, detská psychiatria, sexuológia a psychológom so špecializáciou v špecializačnom odbore klinická psychológia
+
+- (1)
+
+- Ošetrujúci lekár so špecializáciou v špecializačnom odbore psychiatria, v špecializačnom odbore detská psychiatria alebo v špecializačnom odbore sexuológia alebo psychológ so špecializáciou v špecializačnom odbore klinická psychológia je po vytvorení elektronického zdravotného záznamu podľa § 5 ods. 1 písm. b) ôsmeho a deviateho bodu oprávnený v záujme ochrany zdravia osoby obmedziť prístup tejto osoby, iného zdravotníckeho pracovníka, iného poskytovateľa zdravotnej starostlivosti a iných osôb k tomuto elektronickému zdravotnému záznamu a tento záznam označiť za reštrikčný, ak by jeho sprístupnenie negatívne ovplyvnilo liečbu osoby. O dobe obmedzenia prístupu k reštrikčnému elektronickému zdravotnému záznamu rozhoduje lekár, ktorý tento záznam vytvoril. Lekár, ktorý tento záznam vytvoril, je povinný označenie záznamu za reštrikčný zrušiť, ak pominú dôvody na obmedzenie prístupu k tomuto záznamu. Prístup iného zdravotníckeho pracovníka, iného poskytovateľa zdravotnej starostlivosti alebo inej osoby k elektronickým zdravotným záznamom s reštrikčným označením nie je možný ani na základe súhlasu osoby podľa § 5 ods. 8 a 11.
+
+- (2)
+
+- Ošetrujúci lekár podľa odseku 1 sprístupní údaje z reštrikčného elektronického zdravotného záznamu na základe odôvodneného vyžiadania prostredníctvom národného zdravotníckeho informačného systému
+
+- a)
+
+- lekárovi podľa § 5 ods. 6 písm. j) a k) na účely výberového konania alebo prijímacieho konania podľa osobitného predpisu<sup>24</sup>) alebo vykonania bezpečnostnej previerky podľa osobitného predpisu,<sup>28</sup>)
+
+- b)
+
+- revíznemu lekárovi a revíznemu farmaceutovi príslušnej zdravotnej poisťovne na účely vykonania kontrolnej činnosti,
+
+- c)
+
+- všeobecnému lekárovi, s ktorým má osoba uzatvorenú dohodu o poskytovaní zdravotnej starostlivosti, na účely posúdenia zdravotnej spôsobilosti osoby.<sup>28a</sup>)
+
+- (3)
+
+- Ak ošetrujúci lekár podľa odseku 1 alebo psychológ so špecializáciou v špecializačnom odbore klinická psychológia označí elektronický zdravotný záznam za reštrikčný, údaj o obmedzení prístupu k tomuto záznamu sa po poskytnutí zdravotnej starostlivosti zaznamená v pacientskom sumári.“.
+
+  - Poznámky pod čiarou k odkazom 28 a 28a znejú:
+
+  - „<sup>28</sup>) § 15 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+  - <sup>28a</sup>) Napríklad § 20 zákona č. 190/2003 Z. z. o strelných zbraniach a strelive a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 86 zákona č. 9/2008 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
 - 29. V § 6 ods. 1 písm. g) sa slovo „šesť“ nahrádza slovom „12“.
 
+- 30. V § 6 sa odsek 1 dopĺňa písmenami j) a k), ktoré znejú:
+
+- „j)
+
+- údaj o reštrikcii elektronického zdravotného záznamu podľa § 5a,
+
+- k)
+
+- údaj o samovražedných sklonoch osoby alebo o jej sklonoch k agresii.“.
+
 - 31. V § 6 ods. 2 prvej vete sa slová „odseku 1 písm. a) až c), f) a i)“ nahrádzajú slovami „odseku 1 písm. a) až c) a i)“ a za druhú vetu sa vkladá nová tretia veta, ktorá znie: „Údaje podľa odseku 1 písm. f) sa aktualizujú na základe poskytnutej zdravotnej starostlivosti; ak ide o chorobu, ktorá nie je uvedená v zozname chorôb, ktoré sa zapisujú do pacientskeho sumára podľa odseku 3, a je na základe posúdenia ošetrujúceho lekára dôležitá z hľadiska záchrany života a zdravia osoby, je ošetrujúci lekár oprávnený túto chorobu zapísať do pacientskeho sumára.“.
+
+- 32. V § 6 ods. 2 druhá veta znie: „Údaje podľa odseku 1 písm. d) aktualizuje všeobecný lekár, s ktorým má osoba uzatvorenú dohodu o poskytovaní zdravotnej starostlivosti.<sup>23</sup>)“ a na konci sa pripája táto veta: „Údaj podľa odseku 1 písm. j) sa zapisuje podľa § 5a ods. 1, údaje podľa odseku 1 písm. k) zapisuje výlučne lekár so špecializáciou v špecializačnom odbore psychiatria alebo v špecializačnom odbore detská psychiatria.“.
 
 - 33. § 6 sa dopĺňa odsekom 3, ktorý znie:
 
@@ -186,6 +252,110 @@ Zákon č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o z
 
 - Údaje z elektronického čipu podľa odseku 3 môžu byť v súlade so štandardmi zdravotníckej informatiky uložené v technickom zariadení, informačnom systéme s overením zhody alebo v národnom zdravotníckom informačnom systéme.“.
 
+- 38. V § 8 ods. 3 písm. e) sa slovo „alebo“ nahrádza čiarkou.
+
+- 39. V § 8 ods. 3 písm. f) na konci sa bodka nahrádza slovom „alebo“.
+
+- 40. V § 8 sa odsek 3 dopĺňa písmenom g), ktoré znie:
+
+- „g)
+
+- došlo k ukončeniu pracovnoprávneho vzťahu, ak ide o osobu, ktorej je vydaný elektronický preukaz pracovníka v zdravotníctve podľa § 8a.“.
+
+- 41. Za § 8 sa vkladá § 8a, ktorý vrátane nadpisu znie:
+
+- „§ 8a
+
+- Vydanie a použitie elektronického preukazu pracovníka v zdravotníctve v osobitných prípadoch
+
+- (1)
+
+- Národné centrum vydá na základe žiadosti elektronický preukaz pracovníka v zdravotníctve
+
+- a)
+
+- osobe oprávnenej vydávať audio-protetické zdravotnícke pomôcky vo výdajni audio-protetických zdravotníckych pomôcok,
+
+- b)
+
+- pracovníkovi informačných technológií poskytovateľa zdravotnej starostlivosti poverenému spravovať a kontrolovať procesy elektronickej komunikácie informačných systémov v rámci zasielania a sprístupňovania elektronických záznamov,
+
+- c)
+
+- administratívnemu pracovníkovi určenému poskytovateľom zdravotnej starostlivosti poverenému vykonávať administratívne úkony súvisiace s prípravou osoby na poskytnutie zdravotnej starostlivosti.
+
+- (2)
+
+- Elektronický preukaz pracovníka v zdravotníctve používa osoba podľa odseku 1 na svoju identifikáciu, autentifikáciu a autorizáciu v národnom zdravotníckom informačnom systéme a v informačnom systéme.
+
+- (3)
+
+- Elektronický preukaz pracovníka v zdravotníctve vydaný osobe podľa odseku 1 obsahuje údaje podľa § 7 ods. 2 písm. a) a d) až f).
+
+- (4)
+
+- Žiadosť o vydanie elektronického preukazu pracovníka v zdravotníctve, ak ide o osobu podľa odseku 1 písm. a), podáva držiteľ povolenia na poskytovanie lekárenskej starostlivosti vo výdajni audio-protetických zdravotníckych pomôcok.
+
+- (5)
+
+- Žiadosť o vydanie elektronického preukazu pracovníka v zdravotníctve, ak ide o osoby podľa odseku 1 písm. b) alebo c), podáva poskytovateľ zdravotnej starostlivosti.
+
+- (6)
+
+- Žiadosť o vydanie elektronického preukazu pracovníka v zdravotníctve obsahuje
+
+- a)
+
+- meno, priezvisko a rodné priezvisko osoby,
+
+- b)
+
+- titul,
+
+- c)
+
+- rodné číslo, ak je pridelené,
+
+- d)
+
+- miesto trvalého pobytu a miesto prechodného pobytu, ak má osoba na území Slovenskej republiky prechodný pobyt,
+
+- e)
+
+- adresu na doručenie elektronického preukazu pracovníka v zdravotníctve a iných písomností, telefónne číslo a adresu elektronickej pošty,
+
+- f)
+
+- meno a priezvisko, ak ide o fyzickú osobu, názov alebo obchodné meno, ak ide o právnickú osobu, s ktorým je osoba podľa odseku 1 v pracovnoprávnom vzťahu,
+
+- g)
+
+- adresu miesta výkonu činnosti,
+
+- h)
+
+- identifikátor zdravotníckeho zariadenia podľa príslušných štandardov zdravotníckej informatiky,
+
+- i)
+
+- potvrdenie držiteľa povolenia na poskytovanie lekárenskej starostlivosti vo výdajni audio-protetických zdravotníckych pomôcok alebo poskytovateľa zdravotnej starostlivosti, že osoba, ktorej sa elektronický preukaz pracovníka v zdravotníctve vydáva, u neho vykonáva vymedzené úlohy v pracovnoprávnom vzťahu,
+
+- j)
+
+- dátum a podpis žiadateľa.
+
+- (7)
+
+- Na vydanie a zasielanie elektronického preukazu pracovníka v zdravotníctve osobám podľa odseku 1 a znefunkčnenie certifikátu sa primerane vzťahujú § 7 a 8.
+
+- (8)
+
+- Držiteľ povolenia na poskytovanie lekárenskej starostlivosti vo výdajni audio-protetických zdravotníckych pomôcok a poskytovateľ zdravotnej starostlivosti sú povinní v deň skončenia pracovnoprávneho vzťahu s osobou podľa odseku 1, ktorej je vydaný elektronický preukaz pracovníka v zdravotníctve, túto skutočnosť oznámiť národnému centru. Národné centrum bezodkladne po oznámení tejto skutočnosti znefunkční certifikát na elektronický podpis osoby podľa odseku 1.
+
+- (9)
+
+- Národné centrum vedie na účely evidencie vydaných elektronických preukazov zoznam osôb, ktorým bol elektronický preukaz pracovníka v zdravotníctve vydaný podľa odseku 1 v rozsahu údajov v žiadosti podľa odseku 6.“.
+
 - 42. V § 10 ods. 4 druhej vete sa za slová „zdravotnej politiky“ vkladá čiarka a slová „ministerstvu práce“, piatej vete sa vypúšťajú slová „a dôverných štatistických údajov<sup>15c</sup>)“ a na konci sa pripájajú tieto slová: „s predchádzajúcim písomným súhlasom spravodajskej jednotky“.
 
 - 43. V § 10 ods. 5 druhej vete sa za slová „zdravotnej politiky“ vkladá čiarka a slová „ministerstvu práce“, štvrtej vete sa vypúšťajú slová „a dôverných štatistických údajov<sup>15c</sup>)“ a na konci sa pripájajú tieto slová: „s predchádzajúcim písomným súhlasom spravodajskej jednotky“.
@@ -199,6 +369,8 @@ Zákon č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o z
 - 45. Poznámka pod čiarou k odkazu 35 znie:
 
 - „<sup>35</sup>) § 5 písm. o) zákona č. 18/2018 Z. z.“.
+
+- 46. V § 12 ods. 3 písm. f) sa na konci pripájajú tieto slová: „a elektronické preukazy pracovníkov v zdravotníctve“.
 
 - 47. V § 12 ods. 3 písm. i) sa slová „certifikačnej autority<sup>36</sup>)“ nahrádzajú slovami „poskytovateľa dôveryhodných služieb<sup>36</sup>)“.
 
@@ -215,6 +387,32 @@ Zákon č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o z
 - v)
 
 - poskytuje príslušnej zdravotnej poisťovni a príslušnému vyššiemu územnému celku podľa štandardov zdravotníckej informatiky údaje o poskytovateľoch zdravotnej starostlivosti pripojených k národnému zdravotníckemu informačnému systému.“.
+
+- 49. Za § 12 sa vkladá § 12a, ktorý znie:
+
+- „§ 12a
+
+- (1)
+
+- Poskytovateľ zdravotnej starostlivosti a držiteľ povolenia na poskytovanie lekárenskej starostlivosti vo výdajni audio-protetických zdravotníckych pomôcok sa dopustí iného správneho deliktu, ak neoznámi národnému centru skončenie pracovnoprávneho vzťahu s osobou, ktorej je vydaný elektronický preukaz pracovníka v zdravotníctve podľa § 8a, v deň jeho skončenia.
+
+- (2)
+
+- Ministerstvo zdravotníctva uloží poskytovateľovi zdravotnej starostlivosti alebo držiteľovi povolenia na poskytovanie lekárenskej starostlivosti vo výdajni audio-protetických zdravotníckych pomôcok pokutu za iný správny delikt podľa odseku 1 do 5 000 eur.
+
+- (3)
+
+- Ministerstvo zdravotníctva pri určení pokuty prihliada na závažnosť, spôsob, čas trvania a následky protiprávneho konania. Pri opakovanom porušení možno pokutu zvýšiť až na dvojnásobok.
+
+- (4)
+
+- Konanie o uloženie pokuty možno začať do jedného roka odo dňa, keď sa ministerstvo zdravotníctva dozvedelo o porušení povinnosti, najneskôr však do troch rokov odo dňa, keď k porušeniu povinnosti došlo.
+
+- (5)
+
+- Pokuty sú príjmom štátneho rozpočtu.“.
+
+- 50. V § 13 ods. 1 sa na konci pripájajú tieto slová: „a 12a“.
 
 - 51. V § 14 ods. 1 sa vypúšťa písmeno f).
 
