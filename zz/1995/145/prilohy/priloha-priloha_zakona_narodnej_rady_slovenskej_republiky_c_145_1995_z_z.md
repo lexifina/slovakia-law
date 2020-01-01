@@ -1298,7 +1298,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 64
 
-  - Povolenie výnimky<sup>20</sup>) z právnych predpisov na úseku bezpečnosti a plynulosti cestnej premávky, | |
+  - Povolenie výnimky<sup>19b</sup>) z právnych predpisov na úseku bezpečnosti a plynulosti cestnej premávky, | |
 
   - a) ktorá nepresahuje územie okresu | |
 
@@ -1330,7 +1330,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 65
 
-      - a) Zápis držiteľa motorového vozidla kategórie L, M<sub>1</sub> a N<sub>1</sub>, okrem kategórie N<sub>1</sub> s najviac tromi miestami na sedenie, do evidencie vozidiel v Slovenskej republike aj s vykonaním úprav v dokladoch vrátane vydania týchto dokladov............. suma vypočítaná podľa vzorca, najmenej 33 eur
+      - a) Zápis držiteľa motorového vozidla kategórie L, M1 a N1, okrem kategórie N1 s najviac tromi miestami na sedenie, do evidencie vozidiel v Slovenskej republike aj s vykonaním úprav v dokladoch vrátane vydania týchto dokladov............. suma vypočítaná podľa vzorca, najmenej 33 eur
 
         - RP = P<sub>kw</sub> x RV<sub>1-n</sub>
 
@@ -1424,27 +1424,27 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
       - c) Zápis držiteľa motorového vozidla, ktorého jediným zdrojom energie je elektrina (elektromobil) do evidencie vozidiel v Slovenskej republike aj s vykonaním úprav v dokladoch vrátane vydania týchto dokladov.........................................................33 eur
 
-      - d) Zápis držiteľa motorového vozidla kategórie L, M<sub>1</sub> a N<sub>1</sub>, okrem kategórie N<sub>1</sub> s najviac tromi miestami na sedenie do evidencie vozidiel v Slovenskej republike, ktoré je určené na predaj a ktoré doteraz nebolo evidované v žiadnej evidencii vozidiel aj s vykonaním úprav v dokladoch vrátane vydania týchto dokladov, ak sa ako držiteľ zapisuje výrobca vozidla,<sup>20aa</sup>) zástupca výrobcu vozidla,<sup>20ab</sup>) právnická osoba alebo fyzická osoba podnikateľ, ktorej predmetom podnikania je predaj vozidiel na základe zmluvného vzťahu s výrobcom vozidla alebo zástupcom výrobcu vozidla........................................................... 33 eur
+      - d) Zápis držiteľa motorového vozidla kategórie L, M1 a N1, okrem kategórie N1 s najviac tromi miestami na sedenie do evidencie vozidiel v Slovenskej republike, ktoré je určené na predaj a ktoré doteraz nebolo evidované v žiadnej evidencii vozidiel aj s vykonaním úprav v dokladoch vrátane vydania týchto dokladov, ak sa ako držiteľ zapisuje výrobca vozidla,<sup>20aa</sup>) zástupca výrobcu vozidla,<sup>20ab</sup>) právnická osoba alebo fyzická osoba podnikateľ, ktorej predmetom podnikania je predaj vozidiel na základe zmluvného vzťahu s výrobcom vozidla alebo zástupcom výrobcu vozidla........................................................... 33 eur
 
       - Oslobodenie
 
         - 1. Od poplatku podľa tejto položky je oslobodený zápis držiteľa motorového vozidla alebo prípojného vozidla nadobudnutého dedením, na základe úradného príkazu alebo rozhodnutia súdu a zániku bezpodielového spoluvlastníctva manželov.
 
-        - 2. Od poplatku podľa písmena a) tejto položky je oslobodený zápis držiteľa motorového vozidla kategórie M<sub>1</sub> a N<sub>1</sub>, ak bol na kúpu motorového vozidla kategórie M<sub>1</sub> a N<sub>1</sub> držiteľovi alebo vlastníkovi poskytnutý príspevok podľa zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+        - 2. Od poplatku podľa písmena a) tejto položky je oslobodený zápis držiteľa motorového vozidla kategórie M1 a N1, ak bol na kúpu motorového vozidla kategórie M1 a N1 držiteľovi alebo vlastníkovi poskytnutý príspevok podľa zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
         - 3. Od poplatku podľa písmena a) tejto položky je oslobodený zápis držiteľa motorového vozidla kategórie L1e podľa § 43 zákona č. 106/2018 Z. z. o prevádzke vozidiel v cestnej premávke a o zmene a doplnení niektorých zákonov.
 
       - Poznámky
 
-        - 1. Poplatok podľa tejto položky sa zníži o 50 %, najviac však o 100 eur, pri zápise držiteľa motorového vozidla, ktorým je držiteľ preukazu fyzickej osoby s ťažkým zdravotným postihnutím alebo preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom alebo ak ide o motorové vozidlo upravené na vedenie fyzickou osobou s ťažkým zdravotným postihnutím a nebol na kúpu motorového vozidla kategórie M<sub>1</sub> a N<sub>1</sub> poskytnutý príspevok podľa zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+        - 1. Poplatok podľa tejto položky sa zníži o 50 %, najviac však o 100 eur, pri zápise držiteľa motorového vozidla, ktorým je držiteľ preukazu fyzickej osoby s ťažkým zdravotným postihnutím alebo preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom alebo ak ide o motorové vozidlo upravené na vedenie fyzickou osobou s ťažkým zdravotným postihnutím a nebol na kúpu motorového vozidla kategórie M1 a N1 poskytnutý príspevok podľa zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
         - 2. Poplatníkom je nový držiteľ motorového vozidla alebo prípojného vozidla.
 
-        - 3. Poplatok podľa písmena a) tejto položky sa zníži o 50 %, najviac však na 33 eur, pri zápise držiteľa motorového vozidla kategórie M<sub>1</sub> s najmenej šiestimi miestami na sedenie s výkonom motora do 110 kW vrátane, ak ide o zápis držiteľa, ktorým je osoba podľa osobitného predpisu<sup>20ac</sup>) uplatňujúca si nárok na prídavok na dieťa najmenej na štyri deti najneskôr do dovŕšenia 19 rokov veku. Pri zápise držiteľa podľa prvej vety je potrebné priložiť fotokópiu rodného listu dieťaťa.
+        - 3. Poplatok podľa písmena a) tejto položky sa zníži o 50 %, najviac však na 33 eur, pri zápise držiteľa motorového vozidla kategórie M1 s najmenej šiestimi miestami na sedenie s výkonom motora do 110 kW vrátane, ak ide o zápis držiteľa, ktorým je osoba podľa osobitného predpisu<sup>20ac</sup>) uplatňujúca si nárok na prídavok na dieťa najmenej na štyri deti najneskôr do dovŕšenia 19 rokov veku. Pri zápise držiteľa podľa prvej vety je potrebné priložiť fotokópiu rodného listu dieťaťa.
 
         - 4. Poplatník môže pri zápise motorového vozidla podľa písmena a) tejto položky predložiť znalecký posudok podľa osobitného predpisu,<sup>20ad</sup>) na ktorého základe sa vypočíta iný koeficient zostatkovej hodnoty vozidla ako je uvedený v tabuľke č. 2 zodpovedajúci veku vozidla odo dňa prvej evidencie vozidla. Koeficient zostatkovej hodnoty vozidla sa vypočíta na základe znaleckého posudku ako pomer zostatkovej hodnoty vozidla vyjadrenej v eurách a počiatočnej hodnoty vozidla vyjadrenej v eurách. Takto vypočítaný koeficient zostatkovej hodnoty vozidla zaokrúhlený matematicky na dve desatinné miesta sa použije vo vzorci na výpočet poplatku podľa písmena a) tejto položky.
 
-        - 5. Poplatok podľa písmena a) tejto položky sa zníži o 50 %, najviac však na 33 eur, pri zápise držiteľa hybridného motorového vozidla,<sup>20ae</sup>) hybridného elektrického vozidla,<sup>20af</sup>) motorového vozidla s pohonom na stlačený zemný plyn (CNG),<sup>20ag</sup>) motorového vozidla s pohonom na skvapalnený zemný plyn (LNG)<sup>20ag</sup>) a motorového vozidla na vodíkový pohon.<sup>20ah</sup>)
+        - 5. Poplatok podľa písmena a) tejto položky sa zníži o 50 %, najviac však na 33 eur, pri zápise držiteľa hybridného motorového vozidla, motorového vozidla s pohonom na stlačený zemný plyn (CNG), motorového vozidla s pohonom na skvapalnený zemný plyn (LNG) alebo motorového vozidla na vodíkový pohon.
 
         - 6. Ak predmetom podnikania osoby uvedenej v písmene d) je predaj vozidiel na základe zmluvného vzťahu s výrobcom vozidla alebo zástupcom výrobcu vozidla, pri zápise držiteľa vozidla do evidencie vozidiel je povinná tento vzťah preukázať správnemu orgánu. Ak držiteľ motorového vozidla podľa písmena d) do jedného roka odo dňa zápisu motorového vozidla do evidencie vozidiel nevykoná prevod držby motorového vozidla na inú osobu, je povinný najneskôr pri nasledujúcej zmene v evidencii vozidiel zaplatiť poplatok podľa písmena a) v sume zodpovedajúcej sume poplatku pri prvej evidencii vozidla.
 
@@ -1646,7 +1646,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
         - 2. pre kategórie vozidiel iné ako v prvom bode ............................... 400 eur
 
-      - c) vnútroštátne schválenie jednotlivo vyrobeného vozidla
+      - c) vnútroštátne schválenie jednotlivého vozidla
 
       - s obmedzenou prevádzkou ................................................................. 20 eur
 
@@ -2198,6 +2198,8 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
       - 2. Poplatok podľa tejto položky sa nevyberie, ak ide o zmenu z úradného príkazu, napríklad zmenu názvu ulice a podobne.
 
+      - 3. Ak sa povolenie na zriadenie stanice technickej kontroly nad rámec existujúcej siete podľa písmena e) prvého bodu tejto položky vydáva na vykonávanie technických kontrol na prepravu nebezpečných vecí alebo na vydanie prepravného povolenia pre existujúcu stanicu technickej kontroly, poplatok podľa tejto položky sa nevyberie.
+
     - Položka 78a
 
     - Podanie
@@ -2462,7 +2464,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
       - 1. Poplatok podľa tejto položky na hraničných priechodoch vonkajších hraníc Európskej únie vyberá správca priľahlého úseku cesty vedúcej k hraničnému priechodu. Poplatok podľa tejto položky vyberaný dodatočne rozhodnutím cestného správneho orgánu vyberá cestný správny orgán.
 
-      - 2. Poplatníkom podľa tejto položky je dopravca vykonávajúci dopravu vozidlom alebo jazdnou súpravou, ktoré prekračujú najväčšie povolené rozmery alebo najväčšie povolené hmotnosti alebo iný subjekt.
+      - 2. Poplatníkom podľa tejto položky je dopravca vykonávajúci dopravu vozidlom alebo jazdnou súpravou, ktoré prekračujú najväčšie povolené rozmery alebo najväčšie povolené hmotnosti.
 
       - 3. Za základ výpočtu poplatku za nadrozmernosť sa berie najväčší rozmer vozidla alebo jazdnej súpravy, ktorý prekračuje prípustnú mieru v šírke alebo vo výške alebo v dĺžke.
 
@@ -2470,7 +2472,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
       - 5. Pri doprave, pri ktorej sú prekročené dva alebo všetky tri prípustné celkové rozmery [písmeno a) bod 1], sa celková výška poplatku určí ako dvojnásobok sadzby uvedenej v písmene a) bode 1.
 
-      - 6. Prekročenie najväčšej povolenej hmotnosti sa posudzuje tak pri jazdnej súprave, ako aj pri jednotlivom vozidle v súprave okrem návesovej súpravy. Poplatok sa určí z tých hmotností, z ktorých je vyššia sadzba. Za prekročenie najväčšej povolenej celkovej hmotnosti do 3,0 % sa poplatok nevyberá.
+      - 6. Prekročenie najväčšej povolenej hmotnosti sa posudzuje pri motorovom vozidle, pri jazdnej súprave, ako aj pri jednotlivom vozidle v súprave okrem návesovej súpravy. Poplatok sa určí z tých hmotností, z ktorých je vyššia sadzba. Za prekročenie najväčšej povolenej celkovej hmotnosti do 3,0 % sa poplatok nevyberá.
 
       - 7. Pri nadmernej doprave sa hmotnosť jazdnej súpravy určí ako hmotnosť celej súpravy sčítaním hmotností jednotlivých motorových vozidiel a prípojných vozidiel.
 
@@ -4439,6 +4441,10 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
     - Položka 161f
 
   - Vydanie rozhodnutia o povolení činnosti podľa osobitného predpisu<sup>37i</sup>) z dôvodov podľa osobitného predpisu<sup>37j</sup>) | 100 eur
+
+  - Položka 161g
+
+  - Podanie žiadosti o vydanie osvedčenia o odbornej spôsobilosti na vyhotovovanie dokumentácie podľa osobitného predpisu<sup>37k</sup>) 100 eur
 
     - Položka 162
 

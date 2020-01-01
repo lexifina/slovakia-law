@@ -86,7 +86,7 @@
 
 - 8b) Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 8c) Napríklad zákon č. 455/1991 Z. z. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 56/2012 Z. z. o cestnej doprave v znení neskorších predpisov.
+- 8c) Napríklad zákon č. 455/1991 Z. z. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 56/2012 Z. z. o cestnej doprave v znení neskorších predpisov.
 
 - 9) Zákon Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii.
 
@@ -164,9 +164,9 @@
 
 - 18a) Zákon č. 49/2002 Z. z. o ochrane pamiatkového fondu.
 
-- 19) § 72 ods. 2 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách.
-
 - 19a) § 44 ods. 4 a 5 zákona č. 8/2009 Z. z.
+
+- 19b) § 140 zákona č. 8/2009 Z. z.
 
 - 20) § 15 ods. 4 zákona č. 596/2003 o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -179,20 +179,6 @@
 - 20ac) § 2 ods. 1 písm. a) až c) zákona č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - 20ad) Napríklad § 16 až 18 a § 33 zákona č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení zákona č. 390/2015 Z. z., vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku v znení neskorších predpisov.
-
-- 20ae) § 3 písm. i) nariadenia vlády Slovenskej republiky č. 140/2009 Z. z.
-
-- 20af) § 3 písm. j) nariadenia vlády Slovenskej republiky č. 140/2009 Z. z.
-
-- 20ag) Dohoda o prijatí jednotných podmienok pre homologáciu (overovanie zhodnosti) a o vzájomnom uznávaní homologácie výstroja a súčastí motorových vozidiel (vyhláška ministra zahraničných vecí č. 176/1960 Zb.).
-
-- Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 245/1996 Z. z. o uskutočnení notifikácie sukcesie Slovenskej republiky do Dohody o prijatí jednotných podmienok pre homologáciu (overovanie zhodnosti) a vzájomnom uznávaní homologácie výstroja a súčastí motorových vozidiel.
-
-- Predpis Európskej hospodárskej komisie Organizácie Spojených národov (EHK OSN) č. 110 – Jednotné ustanovenia o typovom schvaľovaní I. špecifických súčastí motorových vozidiel používajúcich stlačený zemný plyn (CNG) v svojich pohonných systémoch; - II. vozidiel vzhľadom na inštaláciu špecifických súčastí schváleného typu na použitie stlačeného zemného plynu vo svojich pohonných systémoch
-
-- (Ú.v. EÚ L 120, 7. 5. 2011).
-
-- 20ah) Nariadenie Európskeho parlamentu a Rady (ES) č. 79/2009 zo 14. januára 2009 o typovom schvaľovaní motorových vozidiel na vodíkový pohon, ktorým sa mení a dopĺňa smernica 2007/46/ES (Ú. v. EÚ L 35, 4. 2. 2009).
 
 - 21) § 83 zákona č. 131/2002 v znení neskorších predpisov.
 
@@ -457,6 +443,8 @@
 - 37i) § 2 ods. 3 zákona č. 150/2019 Z. z. o prevencii a manažmente introdukcie a šírenia inváznych nepôvodných druhov a o zmene a doplnení niektorých zákonov.
 
 - 37j) Čl. 9 ods. 1 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1143/2014 z 22. októbra 2014 o prevencii a manažmente introdukcie a šírenia inváznych nepôvodných druhov (Ú. v. EÚ L 317, 4. 11. 2014).
+
+- 37k) § 28a zákona č. 543/2002 Z. z. v znení neskorších predpisov.
 
 - 38) Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých predpisov.
 
