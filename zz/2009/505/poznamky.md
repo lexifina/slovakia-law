@@ -18,7 +18,7 @@
 
 - 8a) § 23 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 547/2011 Z. z.
 
-- 9) § 22 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
+- 9) § 13 zákona č. 176/2004 Z. z. o nakladaní s majetkom verejnoprávnych inštitúcií a o zmene zákona Národnej rady Slovenskej republiky č. 259/1993 Z. z. o Slovenskej lesníckej komore v znení zákona č. 464/2002 Z. z. v znení neskorších predpisov.
 
 - 10) § 3 zákona č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov.
 
@@ -29,6 +29,8 @@
 - 12a) Zákon č. 176/2004 Z. z. o nakladaní s majetkom verejnoprávnych inštitúcií a o zmene zákona Národnej rady Slovenskej republiky č. 259/1993 Z. z. o Slovenskej lesníckej komore v znení zákona č. 464/2002 Z. z. v znení neskorších predpisov.
 
 - 12b) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
+- 12c) Čl. 2 ods. 16 nariadenia (ES) č. 765/2008.
 
 - 13) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
