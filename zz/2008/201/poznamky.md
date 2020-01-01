@@ -20,10 +20,16 @@
 
 - 7) § 4 zákona č. 601/2003 Z. z. v znení neskorších predpisov.
 
+- 7a) § 29 ods. 10 písm. a) zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení zákona č. 420/2019 Z. z.
+
 - 8) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 9) Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 10) § 10 zákona č. 301/2005 Z. z. Trestný poriadok v znení neskorších predpisov.
 
+- 10a) § 59 ods. 4 písm. b) zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení zákona č. 420/2019 Z. z.
+
 - 11) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- 12) § 29 ods. 10 a § 59 ods. 4 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení zákona č. 420/2019 Z. z.

@@ -1,6 +1,6 @@
 # § 10a Vrátenie náhradného výživného pre dodatočne zaplatené výživné alebo vymožené výživné
 
-(1) Ak povinná osoba dodatočne zaplatí výživné alebo ak sa v exekučnom konaní na vymoženie pohľadávky na výživnom vymôže výživné, poberateľ náhradného výživného je povinný vrátiť preddavkovo poskytnuté náhradné výživné, a to najviac do výšky, v ktorej bolo výživné zaplatené alebo vymožené.
+(1) Ak povinná osoba dodatočne zaplatí výživné alebo ak sa v exekučnom konaní na vymoženie pohľadávky na výživnom vymôže výživné, poberateľ náhradného výživného je povinný vrátiť preddavkovo poskytnuté náhradné výživné, a to najviac do výšky, v ktorej bolo výživné zaplatené alebo vymožené. Ak súdny exekútor alebo centrum poukáže úradu sumu podľa osobitného predpisu,<sup>7a</sup>) povinnosť poberateľa náhradného výživného podľa prvej vety sa považuje za splnenú, a to do výšky poukázanej sumy; v tomto prípade úrad o povinnosti vrátiť preddavkovo poskytnuté náhradné výživné nerozhodne.
 
 (2) Výživné dodatočne zaplatené povinnou osobou alebo vymožené v exekučnom konaní na vymoženie pohľadávky na výživnom sa zohľadňuje ako uhradené výživné od vzniku nároku na náhradné výživné.
 
