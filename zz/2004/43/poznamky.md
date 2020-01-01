@@ -68,6 +68,8 @@
 
 - 41) Zákon č. 475/2005 Z. z. o výkone trestu odňatia slobody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 41a) Zákon č. 231/2019 Z. z. o výkone detencie a o zmene a doplnení niektorých zákonov.
+
 - 42) § 3 ods. 1 zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 42a) § 81 ods. 1 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
