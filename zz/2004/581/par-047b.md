@@ -8,7 +8,7 @@
 
 (4) Prehliadajúci lekár je povinný najneskôr nasledujúci pracovný deň po vykonaní prehliadky mŕtveho tela odovzdať úradu vyplnený list o prehliadke mŕtveho tela.
 
-(5) Prehliadajúci lekár je povinný zdržať sa akéhokoľvek konania smerujúceho k ponuke alebo propagácii pohrebných služieb alebo k poskytovaniu informácií o pohrebných službách s cieľom uprednostniť konkrétneho prevádzkovateľa pohrebnej služby.
+(5) Prehliadajúci lekár ako aj každá osoba prítomná pri prehliadke mŕtveho tela je povinná zdržať sa akéhokoľvek konania smerujúceho k ponuke alebo propagácii pohrebných služieb alebo k poskytovaniu informácií o pohrebných službách s cieľom uprednostniť konkrétneho prevádzkovateľa pohrebnej služby.
 
 (6) Pri podozrení, že úmrtie bolo spôsobené trestným činom, samovraždou alebo ak ide o úmrtie cudzieho štátneho príslušníka, prehliadajúci lekár bezodkladne oznámi tieto skutočnosti útvaru policajného zboru.
 

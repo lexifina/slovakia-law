@@ -284,6 +284,8 @@
 
 - 40a) § 4 ods. 6 zákona č. 576/2004 Z. z. v znení zákona č. 185/2014 Z. z.
 
+- 40aa) Zákon č. 231/2019 Z. z. o výkone detencie a o zmene a doplnení niektorých zákonov.
+
 - 41) Nariadenie Rady (EHS) č. 574/72 z 21. marca 1972, ktorým sa ustanovuje postup na vykonávanie nariadenia Rady (EHS) č. 1408/71 o uplatňovaní systémov sociálneho zabezpečenia na zamestnané osoby, samostatne zárobkovo činné osoby a ich rodinných príslušníkov, ktorí sa pohybujú v rámci spoločenstva (Úradný vestník Európskych spoločenstiev L 28, 30.01.1977) v platnom znení.
 
 - 41aa) § 35 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -427,6 +429,8 @@
 - 63d) § 7 ods. 2 písm. b) zákona č. 578/2004 Z. z. v znení zákona č. 653/2007 Z. z.
 
 - 63e) § 2 ods. 4 zákona č. 576/2004 Z. z. znení zákona č. 77/2015 Z. z.
+
+- 63f) § 8a ods. 2 zákona č. 576/2004 Z. z. v znení zákona č. 351/2017 Z. z.
 
 - 63g) § 7 ods. 1 písm. a) prvý bod zákona č. 576/2004 Z. z.
 
