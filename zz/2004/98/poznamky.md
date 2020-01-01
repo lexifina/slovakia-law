@@ -30,7 +30,7 @@
 
 - 2e) Príloha č. 1 k zákonu č. 309/2009 Z. z. v znení neskorších predpisov.
 
-- 2ea) STN EN ISO 4259 Ropné výrobky. Určovanie a využívanie údajov presnosti výsledkov vo vzťahu k skúšobným metódam.
+- 2ea) Napríklad STN EN ISO 4259 Ropné výrobky. Určovanie a využívanie údajov presnosti výsledkov vo vzťahu k skúšobným metódam.
 
 - 2f) Napríklad STN EN 590 Automobilové palivá. Nafta. Požiadavky a skúšobné metódy.
 
