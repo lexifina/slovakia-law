@@ -68,6 +68,10 @@ Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona �
 
 - 13. V § 11 ods. 7 písm. v) treťom bode sa vypúšťajú slová „na úrade alebo“.
 
+- 14. V § 12 ods. 1 sa vypúšťa písmeno f).
+
+  - Doterajšie písmeno g) sa označuje ako písmeno f).
+
 - 15. V § 13 odsek 11 znie:
 
 - „(11)
@@ -89,6 +93,18 @@ Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona �
   - Poznámka pod čiarou k odkazu 49a znie:
 
   - „<sup>49a</sup>) § 81b ods. 2 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení zákona č. 444/2015 Z. z.“.
+
+- 16. V § 13 odseky 14 a 15 znejú:
+
+- „(14)
+
+- Celková platba za poistencov štátu podľa § 11 ods. 7 je suma určená zákonom o štátnom rozpočte. Platba za poistenca štátu predstavuje podiel celkovej platby za poistencov štátu a celkového počtu poistencov štátu podľa § 19 ods. 19. Celková platba za poistencov štátu podľa § 11 ods. 7 sa určuje s ohľadom na celkové príjmy verejného zdravotného poistenia po zohľadnení predpokladaných príjmov podľa prognózy Výboru pre daňové prognózy a predpokladaných výdavkov. Základom na určenie predpokladaných výdavkov sú celkové výdavky zdravotného poistenia za rok, ktorý dva roky predchádza roku, na ktorý sa určuje platba štátu (ďalej len „báza“). Báza musí zohľadniť výdavky vyplývajúce zo všeobecne záväzných právnych predpisov a navrhovaných právnych predpisov schválených vládou Slovenskej republiky a revíziu výdavkov vypracovanú ministerstvom financií a schválenú vládou Slovenskej republiky. Báza okrem výdavkov podľa piatej vety zohľadní mieru inflácie za nasledujúce dva roky odhadovanú Výborom pre makroekonomické prognózy.
+
+- (15)
+
+- Platba štátu za poistenca štátu podľa § 11 ods. 7, ktorý bol poistencom štátu podľa § 11 ods. 7 len časť rozhodujúceho obdobia, je pomerná časť platby za poistenca štátu prislúchajúca k počtu kalendárnych dní, počas ktorých bol osobou uvedenou v § 11 ods. 7.“.
+
+- 17. V § 16 ods. 2 písm. f) a ods. 8 písm. c) sa slová „písm. g)“ nahrádzajú slovami „písm. f)“.
 
 - 18. V § 16 sa odsek 8 dopĺňa písmenom e), ktoré znie:
 
@@ -229,6 +245,14 @@ Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona �
 - „(14)
 
 - Ak zamestnávateľ zanikol bez právneho nástupcu alebo ak poistenec nie je v lehote podľa odseku 2 zamestnancom ani u jedného z posledných zamestnávateľov, alebo ak poistenec už nie je poistencom zdravotnej poisťovne, ktorá vykonala ročné zúčtovanie poistného, je nedoplatok za zamestnanca povinný odviesť priamo poistenec okrem nedoplatku, ktorý vznikol z titulu vykázaného príjmu v mesačnom výkaze, ktorý zamestnávateľ nevyplatil, zamestnancovi. Skutočnosť, že zamestnávateľ príjem nevyplatil, preukazuje poistenec v námietkach voči výkazu nedoplatkov podľa § 17a ods. 4.“.
+
+- 35. V § 19 ods. 19 sa vypúšťajú slová „a suma získaná vynásobením vymeriavacieho základu a sadzby poistného štátu sa zaokrúhľuje na najbližší eurocent nahor“.
+
+- 36. V § 19 odsek 20 znie:
+
+- „(20)
+
+- Ministerstvo zdravotníctva na základe ročného zúčtovania poistného podaného zdravotnou poisťovňou podľa odseku 19 a výšky preddavkov uhradených podľa § 16 ods. 2 písm. e) stanoví podiel zdravotnej poisťovne na celkovej platbe za poistencov štátu podľa § 13 ods. 14 a určí každej zdravotnej poisťovni výšku jej pohľadávky alebo záväzku voči každej zdravotnej poisťovni. Oznámenie o výške podielu jednotlivých zdravotných poisťovní na celkovej platbe za poistencov štátu a o výške vzájomných pohľadávok a záväzkov sa doručuje všetkým zdravotným poisťovniam do 1. decembra kalendárneho roka, v ktorom sa ročné zúčtovanie poistného plateného štátom vykonalo. Zdravotná poisťovňa, ktorej vznikol záväzok voči inej zdravotnej poisťovni na základe vykonaného ročného zúčtovania poistného plateného štátom, je povinná uhradiť vzniknutý záväzok inej zdravotnej poisťovni najneskôr do 31. decembra kalendárneho roka, v ktorom sa ročné zúčtovanie poistného plateného štátom vykonalo. Výška podielu jednotlivých zdravotných poisťovní sa zaokrúhľuje na dve desatinné miesta.“.
 
 - 37. V § 21 ods. 4 sa slová „na úrade sa nepremlčuje“ nahrádzajú slovami „sa premlčí uplynutím piatich rokov odo dňa dodatočného splnenia si oznamovacej povinnosti, najneskôr však uplynutím desiatich rokov odo dňa splatnosti poistného“.
 
@@ -436,4 +460,12 @@ Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona �
 
 - Prechodné ustanovenie k úprave účinnej od 1. marca 2019
 
-- Konania podľa § 17a v znení účinnom do 28. februára 2019 začaté a právoplatne neukončené pred 1. marcom 2019 sa dokončia podľa § 17a v znení účinnom od 1. marca 2019.“.
+- Konania podľa § 17a v znení účinnom do 28. februára 2019 začaté a právoplatne neukončené pred 1. marcom 2019 sa dokončia podľa § 17a v znení účinnom od 1. marca 2019.
+
+- § 38eq
+
+- Prechodné ustanovenie k úprave účinnej od 1. januára 2020
+
+- Ročné zúčtovanie poistného plateného štátom za rok 2019 sa vykoná v roku 2020 podľa
+
+- § 19 v znení účinnom do 31. decembra 2019.“.
