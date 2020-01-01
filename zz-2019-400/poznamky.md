@@ -1,0 +1,1 @@
+- 1) Napríklad § 9 až 13 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov, § 23 zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
