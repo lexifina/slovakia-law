@@ -30,7 +30,11 @@
 
 - 3cac) § 14 ods. 2 zákona č. 374/2014 Z. z. o pohľadávkach štátu a o zmene a doplnení niektorých zákonov v znení zákona č. 87/2015 Z. z.
 
+- 3cad) § 316 Civilného sporového poriadku.
+
 - 3cb) Nariadenie Rady (ES) č. 4/2009 z 18. decembra 2008 o právomoci, rozhodnom práve, uznávaní a výkone rozhodnutí a o spolupráci vo veciach vyživovacej povinnosti (Ú. v. EÚ L 7, 10. 1. 2009) v platnom znení.
+
+- 3cc) § 4 ods. 3 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 3d) Zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
 
