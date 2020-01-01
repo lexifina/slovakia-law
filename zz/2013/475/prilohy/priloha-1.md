@@ -1,1 +1,1 @@
-Príloha č. 1 k vyhláške č. 475/2013 Z. z. [Príloha č. 1 k vyhláške č. 475/2013 Z. z.](../assets/b8f7dfe6ea33e529cb48494a490586a2380a442806d58bdf430b18f615526df7.pdf)
+Príloha č. 1 k vyhláške č. 475/2013 Z. z. [Príloha č. 1 k vyhláške č. 475/2013 Z. z.](../assets/631061e88948c55e3c8754a03bf665891f3e098d95a26288a0a6f3a1ccbc7bff.pdf)
