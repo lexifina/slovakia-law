@@ -50,7 +50,11 @@
 
 - f) zriadení vecného bremena k spoločným častiam domu, spoločným zariadeniam domu, príslušenstvu a k priľahlému pozemku.
 
-(3) Súhlas všetkých vlastníkov bytov a nebytových priestorov v dome sa vyžaduje pri rozhodovaní o prevode vlastníctva nebytového priestoru, priľahlého pozemku, príslušenstva alebo ich častí, ktoré sú v podielovom spoluvlastníctve vlastníkov bytov a nebytového priestoru v dome.
+(3) Súhlas všetkých vlastníkov bytov a nebytových priestorov v dome sa vyžaduje pri rozhodovaní o zmluve o
+
+- a) prevode vlastníctva nebytového priestoru, priľahlého pozemku, príslušenstva alebo ich častí, ktoré sú v podielovom spoluvlastníctve vlastníkov bytov a nebytových priestorov v dome,
+
+- b) výstavbe výlučne novej spoločnej časti domu, výlučne nového spoločného zariadenia domu alebo výlučne nového príslušenstva, ktorými sa dom pôdorysne rozšíri a ktoré budú prevádzkovo spojené s domom,<sup>15b</sup>) alebo o jej zmene.
 
 (4) O veciach, ktoré nie sú upravené v odsekoch 1 až 3, je na prijatie rozhodnutia potrebná nadpolovičná väčšina hlasov vlastníkov bytov a nebytových priestorov v dome, ktorí sú prítomní na schôdzi vlastníkov alebo sa zúčastnili písomného hlasovania.
 
