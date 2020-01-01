@@ -1,1 +1,0 @@
-Príloha č. 1 k opatreniu č. 295/2018 Z. z. [Výpis z osobného účtu a výkaz predpokladaných dôchodkových dávok účastníkaa)](../assets/281886b3c4494fe372ca32598993f56ca5eb0382b4366d598d9b490bd7136e1e.pdf)
