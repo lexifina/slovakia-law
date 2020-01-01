@@ -2,7 +2,33 @@
 
 Zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení zákona č. 667/2004 Z. z., zákona č. 223/2006 Z. z., zákona č. 672/2006 Z. z., zákona č. 609/2007 Z. z., zákona č. 378/2008 Z. z., zákona č. 465/2008 Z. z., zákona č. 53/2009 Z. z., zákona č. 482/2009 Z. z., zákona č. 493/2009 Z. z., zákona č. 30/2010 Z. z., zákona č. 492/2010 Z. z., zákona č. 546/2011 Z. z., zákona č. 547/2011 Z. z., zákona č. 440/2012 Z. z., zákona č. 212/2013 Z. z., zákona č. 218/2013 Z. z., zákona č. 353/2013 Z. z., zákona č. 323/2014 Z. z., zákona č. 360/2015 Z. z., zákona č. 268/2017 Z. z., zákona č. 352/2018 Z. z. a zákona č. 221/2019 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 2 ods. 1 písm. b) sa za slovom „Livigno“ vypúšťa čiarka a slová „Campione d´Italia a talianskych vnútrozemských vôd jazera Lugano“.
+
+- 2. V § 4 ods. 2 písmeno b) znie:
+
+- „b)
+
+- tovar kódu kombinovanej nomenklatúry 2706 až 2715 okrem
+
+- 1.
+
+- tovaru kódu kombinovanej nomenklatúry 2711 11, 2711 21, 2711 29,
+
+- 2.
+
+- pevných uhľovodíkov kódu kombinovanej nomenklatúry 2706 až 2715 okrem tovaru kódu kombinovanej nomenklatúry 2713 20 00,“.
+
 - 3. V § 6 ods. 1 písm. b) sa slová „2710 12 31, 2710 12 51 a 2710 12 59“ nahrádzajú slovami „2710 12 31 a 2710 12 50“.
+
+- 4. Poznámka pod čiarou k odkazu 2ea znie:
+
+- „<sup>2ea</sup>) Napríklad STN EN ISO 4259 Ropné výrobky. Určovanie a využívanie údajov presnosti výsledkov vo vzťahu k skúšobným metódam.“.
+
+- 5. V § 7 ods. 1 písm. a) tretí bod znie:
+
+- „3.
+
+- od 1. januára 2020 v objeme 7,4 % a viac s presnosťou podľa technickej normy<sup>2ea</sup>) alebo inej obdobnej technickej špecifikácie s porovnateľnými alebo prísnejšími požiadavkami, alebo v objeme 6,9 % a viac s presnosťou podľa technickej normy<sup>2ea</sup>) alebo inej obdobnej technickej špecifikácie s porovnateľnými alebo prísnejšími požiadavkami a biogénnej látky uvedenej v § 4 ods. 7 písm. e) v objeme 0,5 % a viac s presnosťou podľa technickej normy<sup>2ea</sup>) alebo inej obdobnej technickej špecifikácie s porovnateľnými alebo prísnejšími požiadavkami,“.
 
 - 6. V § 9 ods. 1 sa za slová „(ďalej len „dovozca minerálneho oleja“)“ vkladajú slová „okrem prevádzkovateľa daňového skladu, ktorý minerálny olej uvedený v § 6 ods. 1 písm. a) a d) alebo v § 7 ods. 1 a 2 po prepustení do voľného obehu<sup>2a</sup>) uvedie do pozastavenia dane,“.
 
@@ -77,3 +103,9 @@ Zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení zákona
 - 2.
 
 - konečný spotrebiteľ odobral tento minerálny olej od predajcu pohonných látok podľa odseku 4 prostredníctvom výdajného stojana na pohonné látky.“.
+
+- 13. Príloha č. 1 sa dopĺňa šiestym bodom, ktorý znie:
+
+- „6.
+
+- Smernica Rady (EÚ) 2019/475 z 18. februára 2019, ktorou sa menia smernice 2006/112/ES a 2008/118/ES, pokiaľ ide o začlenenie talianskej obce Campione d´Italia a talianskych vôd jazera Lugano do colného územia Únie a do územnej pôsobnosti smernice 2008/118/ES (Ú. v. EÚ L 83, 25. 3. 2019).“.
