@@ -1,0 +1,1 @@
+- 1) Zákon č. 184/1999 Z. z. o používaní jazykov národnostných menšín v znení neskorších predpisov.
