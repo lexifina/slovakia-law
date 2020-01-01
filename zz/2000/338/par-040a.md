@@ -56,16 +56,18 @@
 
 (5) Dopravný úrad uloží prevádzkovateľovi plavidla pokutu od 1 000 eur do 10 000 eur, ak do troch rokov od uloženia sankcie opakovane naplní znaky skutkovej podstaty podľa odseku 3 písm. g).
 
-(6) Pri určení výšky pokuty sa prihliada najmä na závažnosť konania, na jeho následky, na dobu jeho trvania a na rozsah spôsobenej škody.
+(6) Objednávateľ uloží pokutu od 1000 do 10 000 eur verejnému dopravcovi, ak vykonával verejnú vodnú dopravu bez licencie (§ 12 ods. 4) alebo ak porušil povinnosti verejného dopravcu ustanovené v tomto zákone alebo v osobitnom predpise<sup>24f</sup>) alebo povinnosti vyplývajúce z medzinárodných zmlúv o vnútrozemskej plavbe, ktorými je Slovenská republika viazaná.
 
-(7) Konanie o uložení pokuty možno začať do jedného roka odo dňa, keď sa Dopravný úrad dozvedel o tom, že právnická osoba alebo fyzická osoba porušila povinnosti podľa odsekov 2, 3 a 4, najneskôr však do troch rokov odo dňa, keď došlo k porušeniu povinnosti.
+(7) Pri určení výšky pokuty sa prihliada najmä na závažnosť konania, na jeho následky, na dobu jeho trvania a na rozsah spôsobenej škody.
 
-(8) Pokuty uložené podľa tohto zákona sú príjmom štátneho rozpočtu.
+(8) Konanie o uložení pokuty možno začať do jedného roka odo dňa, keď sa Dopravný úrad dozvedel o tom, že právnická osoba alebo fyzická osoba porušila povinnosti podľa odsekov 2, 3 a 4, najneskôr však do troch rokov odo dňa, keď došlo k porušeniu povinnosti.
 
-(9) Dopravný úrad môže rozhodnutím odňať
+(9) Pokuty uložené podľa tohto zákona sú príjmom štátneho rozpočtu.
+
+(10) Dopravný úrad môže rozhodnutím odňať
 
 - a) členovi posádky plavidla alebo vodcovi malého plavidla ňou vydaný preukaz o odbornej spôsobilosti zadržaný podľa § 39d ods. 5 písm. a) na určitý čas, najviac tri roky, a v prípade straty zdravotnej spôsobilosti natrvalo; vrátenie odňatého preukazu je podmienené preskúšaním jeho držiteľa,
 
 - b) lodné osvedčenie alebo lodné osvedčenie malého plavidla zadržané podľa § 39d ods. 5 písm. b) na čas potrebný na odstránenie zistených závad alebo nedostatkov; v prípade úplnej straty spôsobilosti plavidla na plavbu natrvalo.
 
-(10) Rozklad proti rozhodnutiu o odňatí preukazu o odbornej spôsobilosti alebo lodného osvedčenia alebo lodného osvedčenia malého plavidla nemá odkladný účinok.
+(11) Rozklad proti rozhodnutiu o odňatí preukazu o odbornej spôsobilosti alebo lodného osvedčenia alebo lodného osvedčenia malého plavidla nemá odkladný účinok.

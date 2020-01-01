@@ -50,7 +50,7 @@
 
 - 3ja) § 15 a § 66 až 71 zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 3jb) Napríklad zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov, čl. 107 až 109 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 83, 30. 3. 2010).
+- 3jb) Napríklad zákon č. 358/2015 Z. z. o úprave niektorých vzťahov v oblasti štátnej pomoci a minimálnej pomoci a o zmene a doplnení niektorých zákonov (zákon o štátnej pomoci), čl. 107 až 109 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 83, 30. 3. 2010).
 
 - 3k) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku.
 
@@ -74,9 +74,17 @@
 
 - 5a) Čl. 3 písm. h) nariadenia Európskeho parlamentu a Rady (EÚ) č. 1177/2010 z 24. novembra 2010 o právach cestujúcich v námornej a vnútrozemskej vodnej doprave, ktorým sa mení a dopĺňa nariadenie (ES) č. 2006/2004 (Ú. v. EÚ L 334, 17. 12. 2010).
 
+- 5aa) Čl. 2 písm. a) nariadenia Európskeho parlamentu a Rady (ES) č. 1370/2007 z 23. októbra 2007 o službách vo verejnom záujme v železničnej a cestnej osobnej doprave, ktorým sa zrušujú nariadenia Rady (EHS) č. 1191/69 a (EHS) č. 1107/70 (Ú. v. EÚ L 315, 3. 12. 2007) v platnom znení.
+
+- 5ab) Nariadenie (ES) č. 1370/2007 v platnom znení.
+
+- Zákon č. 358/2015 Z. z.
+
 - 5b) Čl. 3 písm. a) nariadenia (EÚ) č. 1177/2010.
 
 - 6) § 762 Občianskeho zákonníka.
+
+- 6a) Články 16 až 20 nariadenia (EÚ) č. 1177/2010.
 
 - 7) § 760 a 765 Občianskeho zákonníka.§ 610 Obchodného zákonníka.
 
@@ -89,6 +97,26 @@
 - 11) § 39 Obchodného zákonníka.
 
 - 11a) § 10 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
+- 11b) § 22 ods. 4 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 11c) § 2b zákona č. 514/2009 Z. z. o doprave na dráhach v znení zákona č. 55/2019 Z. z.
+
+- § 19 zákona č. 56/2012 Z. z. o cestnej doprave.
+
+- 11d) Čl. 2 písm. g), čl. 6 a príloha nariadenia (ES) č. 1370/2007 v platnom znení.
+
+- 11e) Čl. 2 písm. f) nariadenia (ES) č. 1370/2007 v platnom znení.
+
+- 11f) Čl. 5 nariadenia (ES) č. 1370/2007 v platnom znení.
+
+- § 29 písm. a), § 66, § 163 až 183 zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 11g) Čl. 3 nariadenia (ES) č. 1370/2007 v platnom znení.
+
+- 11h) Nariadenie (EÚ) č. 1177/2010.
+
+- 11i) Čl. 5 ods. 4 nariadenia (ES) č. 1370/2007 v platnom znení.
 
 - 12) § 21 ods. 2 Obchodného zákonníka.
 
