@@ -24,6 +24,8 @@
 
 - 4) Čl. 104 ods. 1 Ústavy Slovenskej republiky.
 
+- 4a) § 4 ods. 1 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
+
 - 5) Čl. 112 Ústavy Slovenskej republiky.
 
 - 6) Čl. 134 ods. 4 Ústavy Slovenskej republiky.
