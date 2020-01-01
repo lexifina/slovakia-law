@@ -76,6 +76,8 @@
 
 - 18b) § 27 ods. 2 zákona č. 400/2015 Z. z. o tvorbe právnych predpisov a o Zbierke zákonov Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení zákona č. 310/2016 Z. z.
 
+- 18c) Čl. 14 ods. 1 nariadenia Rady (ES) č. 479/2009 z 25. mája 2009 o uplatňovaní Protokolu o postupe pri nadmernom schodku, ktorý tvorí prílohu Zmluvy o založení Európskeho spoločenstva (kodifikované znenie) (Ú. v. EÚ L 145, 10. 6. 2009) v platnom znení.
+
 - 19) Napríklad zákon č. 461/2003 Z. z. v znení neskorších predpisov, zákon č. 92/1991 Zb. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov.
 
 - 19a) § 92 zákona č. 131/2002 Z. z. v znení neskorších predpisov.
@@ -131,6 +133,26 @@
 - 24ac) § 5 ods. 7 zákona č. 343/2015 Z. z.
 
 - Vyhláška Úradu pre verejné obstarávanie č. 118/2018 Z. z., ktorou sa ustanovuje finančný limit pre nadlimitnú zákazku, finančný limit pre nadlimitnú koncesiu a finančný limit pri súťaži návrhov.
+
+- 24ad) Čl. 2 ods. 87 nariadenia Komisie (EÚ) č. 651/2014 zo 17. júna 2014 o vyhlásení určitých kategórií pomoci za zlučiteľné s vnútorným trhom podľa článkov 107 a 108 zmluvy (Ú. v. EÚ L 187/1, 26. 6. 2014) v platnom znení.
+
+- 24ae) § 2 písm. h) zákona č. 254/1998 Z. z. o verejných prácach v znení zákona č. 260/2007 Z. z.
+
+- 24af) § 5 písm. h) zákona č. 57/2018 Z. z. o regionálnej investičnej pomoci a o zmene a doplnení niektorých zákonov.
+
+- 24ag) § 26 a 101 zákona č. 343/2015 Z. z.
+
+- 24ah) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 24ai) § 2 zákona Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov.
+
+- § 2 zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve v znení neskorších predpisov.
+
+- 24aj) § 22 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+
+- 24ak) § 23 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+
+- 24al) Bod 15.08. kapitoly 15 prílohy A nariadenia Európskeho parlamentu a Rady (EÚ) č. 549/2013 z 21. mája 2013 o európskom systéme národných a regionálnych účtov v Európskej únii (Ú. v. EÚ L 174, 26. 6. 2013) v platnom znení.
 
 - 24b) Článok 34 ods. 1 Aktu o podmienkach pristúpenia pripojeného k Zmluve o pristúpení Slovenskej republiky k Európskej únii (oznámenie č. 185/2004 Z. z.).
 
