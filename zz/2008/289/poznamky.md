@@ -6,7 +6,7 @@
 
 - 4) § 88 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov.
 
-- 4a) § 9a ods. 1 písm. b) zákona č. 222/2004 Z. z. v znení zákona č. 368/2018 Z. z.
+- 4a) § 9a ods. 1 písm. b) zákona č. 222/2004 Z. z. v znení zákona č. 369/2018 Z. z.
 
 - 5) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
 
@@ -27,8 +27,6 @@
 - Nariadenie vlády Slovenskej republiky č. 194/2005 Z. z. o elektromagnetickej kompatibilite v znení nariadenia vlády Slovenskej republiky č. 318/2007 Z. z.
 
 - 12) § 69 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov.
-
-- 13) Napríklad zákon č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
 - 14) § 67 ods. 9 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 

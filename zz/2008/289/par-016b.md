@@ -10,7 +10,7 @@
 
 - c) § 16a písm. m) od 20 eur do 100 eur pri druhom zistení porušenia; pri prvom zistení porušenia daňový úrad alebo colný úrad pokutu neuloží, ale podnikateľa vyzve na odstránenie nedostatkov pri označení tovaru alebo služby,
 
-- d) § 16a písm. o) od 50 eur do 330 eur,
+- d) § 16a písm. o) od 50 eur do 330 eur; pri prvom zistení porušenia podľa § 3 ods. 8 daňový úrad alebo colný úrad pokutu neuloží, ale podnikateľa vyzve na odstránenie nedostatkov,
 
 - e) § 16a písm. am), ap) a ar) od 2 000 eur do 10 000 eur,
 

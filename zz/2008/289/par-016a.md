@@ -32,7 +32,7 @@ Správneho deliktu sa dopustí ten, kto
 
 - o) nesplní povinnosť podľa § 3 ods. 8, § 3a ods. 4 alebo § 8 ods. 5,
 
-- p) nesplní povinnosť podľa § 7a ods. 7, § 9 alebo § 10 ods. 7,
+- p) nesplní povinnosť podľa § 9 alebo § 10 ods. 7,
 
 - q) nenahlási servisnej organizácii poškodenie alebo chýbanie plomby podľa § 4 ods. 8 alebo poruchu elektronickej registračnej pokladnice podľa § 10 ods. 1,
 

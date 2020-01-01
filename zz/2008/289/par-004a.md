@@ -34,7 +34,7 @@
 
 - h) zobrazenie slov „OVERTE DOKLAD POMOCOU QR KÓDU“ na pokladničnom doklade za QR kódom,
 
-- i) zobrazenie slov „OFF-LINE DOKLAD“ na pokladničnom doklade pred povinnými údajmi podľa § 8 ods. 9, ak bola prekročená hraničná doba odozvy,
+- i) zobrazenie slov „OFF-LINE DOKLAD“ na pokladničnom doklade pred QR kódom, ak bola prekročená hraničná doba odozvy,
 
 - j) číslovanie pokladničných dokladov, dokladov označených slovami „NEPLATNÝ DOKLAD“, „VKLAD“ alebo „VÝBER“ sekvenčne v jednom rade pre každý kalendárny mesiac vzostupne od čísla jeden (ďalej len „poradové číslo“),
 
