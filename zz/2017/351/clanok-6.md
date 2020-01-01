@@ -330,6 +330,42 @@ Z. z., zákona č. 538/2005 Z. z., zákona č. 660/2005 Z. z., zákona č. 25/20
 
 - Ak nie je ustanovené v odsekoch 2, 3, 7 a 9 inak, prehliadky mŕtvych tiel mimo zdravotníckeho zariadenia ústavnej zdravotnej starostlivosti sa vykonávajú na základe zmluvy o zabezpečení vykonávania prehliadok mŕtvych tiel prostredníctvom organizátora prehliadok mŕtvych tiel.
 
+- (2)
+
+- Prehliadku mŕtveho tela mimo zdravotníckeho zariadenia ústavnej zdravotnej starostlivosti môže vykonať aj lekár poskytovateľa, ktorý má vydané povolenie na prevádzkovanie ambulancie rýchlej lekárskej pomoci, a to v prípade, ak
+
+- a)
+
+- smrť osoby nastala až po začatí poskytovania zdravotnej starostlivosti tejto osobe týmto lekárom,
+
+- b)
+
+- je splnená niektorá z podmienok pre nariadenie pitvy podľa § 48 ods. 3 písm. b) až e) a g) až k) a
+
+- c)
+
+- má tento lekár vydané oprávnenie na vykonávanie prehliadok mŕtvych tiel.
+
+- (3)
+
+- Prehliadku mŕtveho tela mimo zdravotníckeho zariadenia ústavnej zdravotnej starostlivosti môže vykonať aj lekár organizátora, ktorý poskytoval pevnú ambulantnú pohotovostnú službu formou návštevnej služby,<sup>63f</sup>) a to v prípade, ak
+
+- a)
+
+- smrť osoby nastala až po začatí poskytovania zdravotnej starostlivosti tejto osobe týmto lekárom,
+
+- b)
+
+- je splnená niektorá z podmienok pre nariadenie pitvy podľa § 48 ods. 3 písm. b) až e) a g) až k),
+
+- c)
+
+- má tento lekár vydané oprávnenie na vykonávanie prehliadok mŕtvych tiel a
+
+- d)
+
+- vykonaním prehliadky mŕtveho tela neohrozí poskytovanie neodkladnej zdravotnej starostlivosti inej osobe.
+
 - (4)
 
 - Zmluva o zabezpečení vykonávania prehliadok mŕtvych tiel nemôže byť z dôvodu zaujatosti uzavretá s fyzickou osobou alebo právnickou osobou,
