@@ -78,6 +78,16 @@ Zákon č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve
 
 - Podriadený finančný agent v sektore kapitálového trhu a viazaný finančný agent v sektore kapitálového trhu vykonáva finančné sprostredkovanie na plnú a bezpodmienečnú zodpovednosť navrhovateľa.“.
 
+- 21. § 37b sa dopĺňa odsekom 3, ktorý znie:
+
+- „(3)
+
+- Finančný agent a finančný poradca je povinný pred uzavretím zmluvy o poskytnutí finančnej služby poskytnúť potenciálnemu neprofesionálnemu klientovi jednoznačným, presným a zrozumiteľným spôsobom, písomne alebo v podobe zápisu na inom trvanlivom médiu informáciu o jednotlivých zložkách poistného vo vzťahu k uzatváranej poistnej zmluve, a to prostredníctvom informačného formulára.<sup>41la</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 41la znie:
+
+  - „<sup>41la</sup>) § 70 ods. 14 zákona č. 39/2015 Z. z. v znení zákona č. 214/2018 Z. z.“.
+
 - 22. V § 37d odsek 4 znie:
 
 - „(4)
