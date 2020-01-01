@@ -14,7 +14,7 @@ Príloha č. 1 k vyhláške č. 128/2017 Z. z.
 
     - e) údaj o tom, že uchádzačom môže byť len uchádzač evidovaný v registri úspešných absolventov, ak sa vyhlasuje druhá časť hromadného výberového konania,
 
-    - f) údaj o tom, že uchádzačom môže byť len absolvent podľa § 9 zákona, ak sa vyhlasuje vonkajšie výberové konanie podľa § 44 ods. 15 zákona,
+    - f) údaj o tom, že uchádzačom môže byť len absolvent podľa § 9 zákona, ak sa vyhlasuje vonkajšie výberové konanie podľa § 44 ods. 14 zákona,
 
     - g) počet obsadzovaných štátnozamestnaneckých miest, ak sa vyhlasuje výberové konanie alebo druhá časť hromadného výberového konania,
 
@@ -38,7 +38,7 @@ Príloha č. 1 k vyhláške č. 128/2017 Z. z.
 
     - q) údaj o tom, či sa na obsadzovanom štátnozamestnaneckom mieste vyžaduje štátne občianstvo Slovenskej republiky, ak sa vyhlasuje výberové konanie alebo druhá časť hromadného výberového konania,
 
-    - r) údaj o požadovanej úrovni ovládania cudzieho jazyka podľa Spoločného európskeho referenčného rámca pre jazyky, ak je požiadavkou na vykonávanie štátnej služby na obsadzovanom štátnozamestnaneckom mieste podľa opisu štátnozamestnaneckého miesta ovládanie cudzieho jazyka,
+    - r) údaj o požadovanej úrovni ovládania cudzieho jazyka podľa Spoločného európskeho referenčného rámca pre jazyky, ak sa podľa opisu štátnozamestnaneckého miesta na obsadzovanom štátnozamestnaneckom mieste vyžaduje ovládanie cudzieho jazyka,
 
     - s) údaj o tom, či sa na štátnozamestnaneckom mieste vyžaduje oprávnenie na oboznamovanie sa s utajovanými skutočnosťami, ak sa vyhlasuje výberové konanie alebo druhá časť hromadného výberového konania,
 
@@ -88,7 +88,7 @@ Príloha č. 1 k vyhláške č. 128/2017 Z. z.
 
     - m) organizačný útvar, ak ide o výberové konanie alebo druhú časť hromadného výberového konania,
 
-    - n) dátum skončenia prípravy na povolanie, ak ide o prvú časť hromadného výberového konania alebo o vonkajšie výberové konanie podľa § 44 ods. 15 zákona,
+    - n) dátum skončenia prípravy na povolanie, ak ide o prvú časť hromadného výberového konania alebo o vonkajšie výberové konanie podľa § 44 ods. 14 zákona,
 
     - o) iný údaj nevyhnutný na dosiahnutie účelu uvedeného v zákone.
 
@@ -274,11 +274,11 @@ Príloha č. 1 k vyhláške č. 128/2017 Z. z.
 
   - 11. Vyhlásenie o zániku dôvodu na obsadenie štátnozamestnaneckého miesta obsahuje
 
-    - a) názov a sídlo služobného úradu, ktorý vyhlásil výberové konanie alebo druhú časť hromadného výberového konania,
+    - a) názov a sídlo služobného úradu, ktorý vyhlásil výberové konanie,
 
     - b) obsadzovanú funkciu,
 
-    - c) údaj o tom, či ide o štátnozamestnanecké miesto vedúceho zamestnanca, ak ide o výberové konanie,
+    - c) údaj o tom, či ide o štátnozamestnanecké miesto vedúceho zamestnanca,
 
     - d) odbor štátnej služby,
 
@@ -288,7 +288,7 @@ Príloha č. 1 k vyhláške č. 128/2017 Z. z.
 
   - 12. Oznámenie o zániku dôvodu na obsadenie štátnozamestnaneckého miesta obsahuje
 
-    - a) názov a sídlo služobného úradu, ktorý vyhlásil výberové konanie alebo druhú časť hromadného výberového konania,
+    - a) názov a sídlo služobného úradu, ktorý vyhlásil výberové konanie,
 
     - b) identifikátor uchádzača,
 
@@ -300,7 +300,7 @@ Príloha č. 1 k vyhláške č. 128/2017 Z. z.
 
     - f) obsadzovanú funkciu,
 
-    - g) údaj o tom, či ide o štátnozamestnanecké miesto vedúceho zamestnanca, ak ide o výberové konanie,
+    - g) údaj o tom, či ide o štátnozamestnanecké miesto vedúceho zamestnanca,
 
     - h) odbor štátnej služby,
 
