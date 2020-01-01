@@ -936,6 +936,20 @@ Zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnen
 
 - Doterajší odsek 4 sa označuje ako odsek 3.
 
+- 108. V § 35a odsek 1 znie:
+
+- „(1)
+
+- Odplata za správu doplnkového dôchodkového fondu za jeden rok správy doplnkového dôchodkového fondu nesmie presiahnuť
+
+- a)
+
+- 1,2 % z priemernej ročnej čistej hodnoty majetku v príspevkovom doplnkovom dôchodkovom fonde,
+
+- b)
+
+- 0,6 % z priemernej ročnej čistej hodnoty majetku vo výplatnom doplnkovom dôchodkovom fonde.“.
+
 - 109. V nadpise § 35b sa za slová „majetku v“ vkladá slovo „príspevkovom“.
 
 - 110. V § 35b ods. 1 celom texte sa za slová „majetku v“ vkladá slovo „príspevkovom“.
