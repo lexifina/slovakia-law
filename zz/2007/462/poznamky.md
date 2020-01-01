@@ -28,7 +28,7 @@
 
 - 13) § 46a zákona Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 109/2007 Z. z.
 
-- 13a) Nariadenie Komisie (EÚ) č. 965/2012 z 5. októbra 2012, ktorým sa ustanovujú technické požiadavky a administratívne postupy týkajúce sa leteckej prevádzky podľa nariadenia Európskeho parlamentu a Rady (ES) č. 216/2008 (Ú. v. EÚ L 296, 25. 10. 2012) v platnom znení.
+- 13a) § 37 ods. 1 písm. b) zákona č. 514/2009 Z. z. o doprave na dráhach v znení neskorších predpisov.
 
 - 13b) § 7 ods. 3 zákona č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov v znení zákona č. 580/2003 Z. z.
 
@@ -61,6 +61,8 @@
 - 21) Článok 14 ods. 1 a článok 22 ods. 3 nariadenia Európskeho parlamentu a Rady (ES) č. 561/2006.
 
 - 22) Článok 14 ods. 1 a 2 nariadenia Európskeho parlamentu a Rady (ES) č. 561/2006.
+
+- 22a) Napríklad zákon č. 224/2006 Z. z. o občianskych preukazoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 23) § 2 ods. 1 písm. j) zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
