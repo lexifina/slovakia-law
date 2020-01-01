@@ -102,12 +102,12 @@ Príloha č. 1 k zákonu č. 442/2004 Z. z.
 
   - a) vo vedných odboroch, na ktorých je založená činnosť veterinárneho lekára a právnych predpisoch Európskej únie, ktoré súvisia s činnosťou veterinárneho lekára,
 
-  - b) o stavbe, funkciách, správaní a fyziologických potrebách zvierat, ako aj zručnosti a spôsobilosť na ich chov, kŕmenie, rozmnožovanie a hygienu ako celku,
+  - b) o stavbe, funkciách, správaní a fyziologických potrebách zvierat, ako aj zručnosti a spôsobilosť na ich chov, kŕmenie, dobré životné podmienky, rozmnožovanie a hygienu ako celku,
 
-  - c) o klinike, epidemiológii a analýze prevencie, diagnostikovaní a liečení chorôb zvierat, vrátane anestézie, sterilizácie a bezbolestnej smrti, či sa posudzujú individuálne alebo v skupinách, vrátane špeciálnych znalostí o chorobách, ktoré sa môžu preniesť na ľudí,
+  - c) a zručnosti v klinike, epidemiológii a analýze prevencie, diagnostikovaní a liečení chorôb zvierat, vrátane anestézie, sterilných operácií a bezbolestnej smrti, či sa posudzujú individuálne alebo v skupinách, vrátane špeciálnych znalostí o chorobách, ktoré sa môžu preniesť na ľudí,
 
   - d) o preventívnom lekárstve vrátane spôsobilosti vyšetrovať a vydávať potvrdenia,
 
-  - e) o hygiene a technológii výroby, spracovania, distribúcie a uvádzania na trh krmív a potravín živočíšneho pôvodu určených na ľudskú spotrebu vrátane znalosti osvedčených postupov v tejto oblasti,
+  - e) o hygiene a technológii výroby, spracovania, distribúcie a uvádzania na trh krmív a potravín živočíšneho pôvodu určených na ľudskú spotrebu vrátane zručností a spôsobilostí potrebných na pochopenie a vysvetlenie osvedčených postupov v tejto oblasti,
 
   - f) o zodpovednom a primeranom používaní veterinárnych liekov s cieľom liečenia zvierat a zaistenia bezpečnosti potravinového reťazca a ochrany životného prostredia.
