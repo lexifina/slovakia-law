@@ -1,3 +1,3 @@
 Príloha č. 3 k zákonu č. 222/2004 Z. z.
 
-- POTVRDENIE O POSTAVENÍ DAŇOVÉHO SUBJEKTU [Vzor 03](../assets/5cc747ad95ed5985f461d3feaeecd8215dc4e77b53d9faace0df30066b13d637.pdf)
+- POTVRDENIE O POSTAVENÍ DAŇOVÉHO SUBJEKTU [Vzor 03](../assets/0432307a57a4e4f44e0f6f14d9aa9bfef9d70a54d05b33730c282b29b66e6091.pdf)

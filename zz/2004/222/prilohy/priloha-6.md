@@ -31,3 +31,7 @@ Príloha č. 6 k zákonu č. 222/2004 Z. z., v znení zákona č. 656/2006 Z. z.
   - 14. Smernica Rady (EÚ) 2017/2455 z 5. decembra 2017, ktorou sa mení smernica 2006/112/ES a smernica 2009/132/ES, pokiaľ ide o určité povinnosti týkajúce sa dane z pridanej hodnoty pri poskytovaní služieb a predaji tovaru na diaľku (Ú. v. EÚ L 348, 29. 12. 2017).
 
   - 15. Smernica Rady (EÚ) 2018/912 z 22. júna 2018, ktorou sa mení smernica 2006/112/ES o spoločnom systéme dane z pridanej hodnoty, pokiaľ ide o povinnosť uplatňovať minimálnu štandardnú sadzbu (Ú. v. EÚ L 162, 27. 6. 2018).
+
+  - 16. Smernica Rady (EÚ) 2018/1910 zo 4. decembra 2018, ktorou sa mení smernica 2006/112/ES, pokiaľ ide o harmonizáciu a zjednodušenie určitých pravidiel v systéme dane z pridanej hodnoty pre zdaňovanie obchodu medzi členskými štátmi (Ú. v. EÚ L 311, 7. 12. 2018).
+
+  - 17. Smernica Rady (EÚ) 2019/475 z 18. februára 2019, ktorou sa menia smernice 2006/112/ES a 2008/118/ES, pokiaľ ide o začlenenie talianskej obce Campione d´Italia a talianskych vôd jazera Lugano do colného územia Únie a do územnej pôsobnosti smernice 2008/118/ES (Ú. v. EÚ L 83, 25. 3. 2019).

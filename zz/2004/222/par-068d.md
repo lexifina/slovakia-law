@@ -52,6 +52,6 @@
 
 (15) Pri určení výšky pokuty podľa odseku 14 prihliadne daňový úrad na závažnosť a dĺžku trvania protiprávneho stavu.
 
-(16) Finančné riaditeľstvo zverejní na portáli Finančnej správy zoznam platiteľov, ktorí písomne oznámili začatie uplatňovania osobitnej úpravy, platiteľov, ktorí písomne oznámili skončenie uplatňovania osobitnej úpravy, a platiteľov, ktorí uplatňovali osobitnú úpravu a ich registrácia pre daň bola zrušená.
+(16) Finančné riaditeľstvo zverejní na webovom sídle finančného riaditeľstva zoznam platiteľov, ktorí písomne oznámili začatie uplatňovania osobitnej úpravy, platiteľov, ktorí písomne oznámili skončenie uplatňovania osobitnej úpravy, a platiteľov, ktorí uplatňovali osobitnú úpravu a ich registrácia pre daň bola zrušená.
 
-(17) Oznámenie podľa odsekov 2, 10 a 12 sa podáva na tlačive, ktorého vzor zverejní finančné riaditeľstvo na portáli Finančnej správy.
+(17) Oznámenie podľa odsekov 2, 10 a 12 sa podáva na tlačive, ktorého vzor zverejní finančné riaditeľstvo na webovom sídle finančného riaditeľstva.

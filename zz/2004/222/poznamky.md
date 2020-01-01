@@ -82,6 +82,8 @@
 
 - 19a) § 2 ods. 2 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
 
+- 19aa) Nariadenie Európskeho parlamentu a Rady (ES) č. 451/2008 z 23. apríla 2008, ktorým sa zavádza nová štatistická klasifikácia produktov podľa činností (CPA) a ktorým sa zrušuje nariadenie Rady (EHS) č. 3696/93 (Ú. v. EÚ L 145, 4. 6. 2008) v platnom znení.
+
 - 20) Zákon č. 203/2011 Z. z. o kolektívnom investovaní v znení neskorších predpisov.
 
 - 20a) Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení zákona č. 186/2004 Z. z.
@@ -105,6 +107,20 @@
 - 24aa) § 54 a 55 zákona č. 199/2004 Z. z. v znení neskorších predpisov.
 
 - 24b) § 19 ods. 2 písm. l) tretí bod zákona č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 60/2009 Z. z.
+
+- 25) Čl. 1 ods. 32 delegovaného nariadenia Komisie (EÚ) 2015/2446 z 28. júla 2015, ktorým sa dopĺňa nariadenie Európskeho parlamentu a Rady (EÚ) č. 952/2013, pokiaľ ide o podrobné pravidlá, ktorými sa bližšie určujú niektoré ustanovenia Colného kódexu Únie (Ú. v. EÚ L 343, 29. 12. 2015) v platnom znení.
+
+- 25a) § 18 ods. 2 a 3 zákona č. 98/2004 Z. z. v znení neskorších predpisov.
+
+- 25b) Príloha č. 1 k vyhláške Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 161/2019 Z. z. o meradlách a metrologickej kontrole.
+
+- 25c) § 22 ods. 1 zákona č. 98/2004 Z. z. v znení zákona č. 546/2011 Z. z.
+
+- 25d) § 23 ods. 12 zákona č. 98/2004 Z. z. v znení neskorších predpisov.
+
+- 25e) § 23 ods. 9 zákona č. 98/2004 Z. z. v znení neskorších predpisov.
+
+- 25f) § 12 ods. 1 zákona č. 98/2004 Z. z. v znení neskorších predpisov.
 
 - 26) § 22 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
@@ -155,6 +171,8 @@
 - 28da) Príloha I k nariadeniu Rady (EHS) č. 2658/87 o colnej a štatistickej nomenklatúre a o Spoločnom colnom sadzobníku (Mimoriadne vydanie Ú.v. EÚ, kap. 2/zv. 2; Ú.v. ES L 256, 7. 9. 1987) v platnom znení.
 
 - 28db) Nariadenie Komisie (EÚ) č. 1209/2014 z 29. októbra 2014, ktorým sa mení nariadenie Európskeho parlamentu a Rady (ES) č. 451/2008, ktorým sa zavádza nová štatistická klasifikácia produktov podľa činností (CPA) a ktorým sa zrušuje nariadenie Rady (EHS) č. 3696/93.
+
+- 28dc) Čl. 54a vykonávacieho nariadenia Rady (EÚ) 2018/1912 zo 4. decembra 2018, ktorým sa mení vykonávacie nariadenie (EÚ) č. 282/2011, pokiaľ ide o určité oslobodenia od dane pri transakciách v rámci Spoločenstva (Ú. v. EÚ L 311, 7. 12. 2018).
 
 - 28e) § 2 písm. al) zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov.
 

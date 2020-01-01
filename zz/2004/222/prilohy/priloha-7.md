@@ -22,7 +22,33 @@ Príloha č. 7 k zákonu č. 222/2004 Z. z., v znení zákona č. 656/2006 Z. z
 
 - 0405 10 | | – Maslo
 
-- ex 1905 90 30 | | – Chlieb, neobsahujúci pridaný med, vajcia, syr alebo ovocie a obsahujúci v sušine najviac 5 % hmotnosti cukrov a najviac 5 % hmotnosti tuku - len čerstvý chlieb podľa osobitného predpisu.<sup>2</sup>)
+- 0403 | | – Cmar, kyslé mlieko a smotana, jogurt, kefír a ostatné fermentované alebo acidofilné mlieko a smotana, tiež zahustené alebo obsahujúce pridaný cukor alebo ostatné sladidlá alebo ochutené alebo obsahujúce pridané ovocie, orechy alebo kakao
+
+- 0406 | | – Syry a tvaroh – len ovčia bryndza podľa osobitného predpisu<sup>2</sup>)
+
+- 0409 00 00 | | – Prírodný med
+
+- 0701 | | – Zemiaky, čerstvé alebo chladené
+
+- 0702 00 00 | | – Rajčiaky, čerstvé alebo chladené
+
+- 0703 | | – Cibuľa, šalotka, cesnak, pór a ostatná cibuľová zelenina, čerstvá alebo chladená
+
+- 0704 | | – Kapusta, karfiol, kaleráb, kel a podobná jedlá hlúbovitá zelenina, čerstvé alebo chladené
+
+- 0705 | | – Hlávkový šalát (Lactuca sativa) a čakanka (Cichorium spp.), čerstvé alebo chladené
+
+- 0707 00 | | – Uhorky šalátové a uhorky nakladačky, čerstvé alebo chladené
+
+- 0708 | | – Strukoviny, lúpané alebo nelúpané, čerstvé alebo chladené
+
+- 0709 | | – Ostatná zelenina, čerstvá alebo chladená
+
+- 0808 | | – Jablká, hrušky a duly, čerstvé
+
+- 1905 | | – Chlieb, sladké pečivo, koláče, sušienky a ostatné pekárske výrobky, tiež obsahujúce kakao; hostie, prázdne oblátky druhu vhodného na farmaceutické účely, oblátky na pečenie, ryžový papier a podobné výrobky – len čerstvý chlieb podľa osobitného predpisu<sup>3</sup>)a len čerstvé pečivo podľa osobitného predpisu<sup>4</sup>) v hmotnosti 40 g až 50 g
+
+- ex 2009 | | – Šťavy ovocné (vrátane hroznového muštu) a šťavy zeleninové, nekvasené a neobsahujúce pridaný alkohol, tiež obsahujúce pridaný cukor alebo ostatné sladidlá – len šťavy bez pridaného cukru alebo šťavy s pridaným cukrom maximálne 5 g na 100 ml.
 
 - ex2844 40 | | – Rádioaktívne prvky a izotopy a zlúčeniny, iné ako podpoložiek 2844 10, 2844 20 alebo 2844 30; zliatiny, disperzie (vrátane cermetov), keramické výrobky a zmesi obsahujúce tieto prvky, izotopy alebo zlúčeniny; rádioaktívne zvyšky - len pre zdravotníctvo
 
@@ -37,6 +63,8 @@ Príloha č. 7 k zákonu č. 222/2004 Z. z., v znení zákona č. 656/2006 Z. z
 - ex3922 90 00 | | – Ostatné sanitárne výrobky z plastov - len sedačka do vane na použitie pre ťažko zdravotne postihnutých občanov
 
 - 4901 | | – Tlačené knihy, brožúry, letáky a podobné tlačiarenské výrobky, tiež v jednotlivých listoch, okrem kníh, brožúr, letákov a podobných tlačiarenských výrobkov, tiež v jednotlivých listoch, v ktorých reklama a inzercia predstavujú jednotlivo alebo spolu viac ako 50 % celkového obsahu výrobku
+
+- 4902 10 00 | | – Noviny, časopisy a periodiká, tiež ilustrované alebo obsahujúce reklamný materiál vychádzajúce najmenej štyrikrát týždenne okrem novín, časopisov a periodík, tiež ilustrovaných alebo obsahujúcich reklamný materiál, v ktorých reklama a inzercia predstavujú jednotlivo alebo spolu viac ako 50 % celkového obsahu výrobku, a okrem novín, časopisov a periodík, tiež ilustrovaných alebo obsahujúcich reklamný materiál, v ktorých erotický obsah predstavuje jednotlivo alebo spolu viac ako 10 % celkového obsahu výrobku
 
 - 4903 00 00 | | – Obrázkové knižky, predlohy na kreslenie alebo maľovanie, pre deti
 
@@ -68,4 +96,8 @@ Príloha č. 7 k zákonu č. 222/2004 Z. z., v znení zákona č. 656/2006 Z. z
 
   - 1) Nariadenie Rady (EHS) č. 2658/87 z 23. 7. 1987 o colnej a štatistickej nomenklatúre a o Spoločnom colnom sadzobníku v znení nariadenia Rady (EHS) č. 3528/89 z 23. 11. 1989, nariadenia Rady (EHS) č. 3845/89 z 18.12. 1989, nariadenia Rady (EHS) č. 2913/92 z 12. 10. 1992, nariadenia Rady (EHS) č. 1969/93 z 19. 7. 1993, nariadenia Rady (ES) č. 254/2000 z 31. 1. 2000.
 
-  - 2) § 2 písm. c) a i) vyhlášky Ministerstva pôdohospodárstva a rozvoja vidieka Slovenskej republiky č. 24/2014 Z. z. o pekárskych výrobkoch, cukrárskych výrobkoch a cestovinách.
+  - 2) § 9 ods. 8 písm. a) vyhlášky Ministerstva pôdohospodárstva a rozvoja vidieka Slovenskej republiky č. 343/2016 Z. z. o niektorých výrobkoch z mlieka.
+
+  - 3) § 2 písm. c) a i) vyhlášky Ministerstva pôdohospodárstva a rozvoja vidieka Slovenskej republiky č. 24/2014 Z. z. o pekárskych výrobkoch, cukrárskych výrobkoch a cestovinách.
+
+  - 4) § 2 písm. e) a i) vyhlášky č. 24/2014 Z. z.
