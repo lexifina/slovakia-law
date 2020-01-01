@@ -2,11 +2,19 @@
 
 - 2) Napríklad Zákonník práce, zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov.
 
-- 3) § 10 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+- 2a) § 3 ods. 1 písm. b) zákona č. 406/2011 Z. z. o dobrovoľníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 360/2019 Z. z.
 
-- 4) § 1 ods. 2 zákona č. 552/2003 Z. z. v znení neskorších predpisov.
+- 3) § 45a ods. 1, § 46 a 66f zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
+- 4) § 1 ods. 2 písm. a) zákona č. 552/2003 Z. z.
+
+- 4a) § 10 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
 
 - 5) § 5 zákona č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon) v znení neskorších predpisov.
+
+- 5a) § 11 ods. 4 písm. n) zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
+
+- 5b) § 19 ods. 1 zákona č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností v znení zákona č. 91/2016 Z. z.
 
 - 6) Zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -32,19 +40,13 @@
 
 - 16) Zákon č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení neskorších predpisov.
 
-- 17) Zákon č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností v znení neskorších predpisov.
-
-- 18) § 28 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
-
-- 19) § 114 zákona č. 245/2008 Z. z.
-
-- 20) § 115 zákona č. 245/2008 Z. z.
+- 17) Zákon č. 308/1991 Zb. v znení neskorších predpisov.
 
 - 21) § 116 zákona č. 245/2008 Z. z.
 
-- 22) § 117 zákona č. 245/2008 Z. z.
+- 22) § 2 ods. 2 zákona č. 663/2007 Z. z. o minimálnej mzde.
 
-- 23) § 138 zákona č. 245/2008 Z. z.
+- 23) § 120 ods. 1 Zákonníka práce v znení zákona č. 348/2007 Z. z.
 
 - 23a) Zákon č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -56,8 +58,14 @@
 
 - 24) Zákon č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 125/2006 Z. z.
 
-- 25) § 2 ods. 4 zákona č. 231/1999 Z. z. o štátnej pomoci v znení zákona č. 82/2005 Z. z.
+- 25) § 8a ods. 5 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 26) Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 26) Zákon č. 523/2004 Z. z. v znení neskorších predpisov.
+
+- § 4 ods. 4 písm. b) a c) zákona č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov v znení zákona č. 372/2018 Z. z.
 
 - 27) Napríklad zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov, zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 28) Zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení zákona č. 221/2019 Z. z.
+
+- Nariadenie Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) (Ú. v. EÚ L 119, 4. 5. 2016).
