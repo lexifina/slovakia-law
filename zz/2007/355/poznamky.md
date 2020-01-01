@@ -290,6 +290,8 @@
 
 - 47o) Čl. 2 ods. 1 písm. d) nariadenia (ES) č. 1223/2009 v platnom znení.
 
+- 47p) Napríklad zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov, zákon č. 147/1997 Z. z. o neinvestičných fondoch a o doplnení zákona Národnej rady Slovenskej republiky č. 207/1996 Z. z. v znení neskorších predpisov, zákon č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení neskorších predpisov, zákon č. 34/2002 Z. z. o nadáciách a o zmene Občianskeho zákonníka v znení neskorších predpisov.
+
 - 61a) § 6 až 9 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov.
 
 - 62) § 12 až 15 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov.
