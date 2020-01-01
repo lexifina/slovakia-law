@@ -1,0 +1,1 @@
+Roman Konečný v. r.
