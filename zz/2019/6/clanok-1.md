@@ -10,7 +10,7 @@ Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore
 
 - (1)
 
-- Zriaďuje sa Úrad inšpekčnej služby, ktorý je osobitnou súčasťou Policajného zboru s pôsobnosťou pre celé územie Slovenskej republiky, na odhaľovanie, vyšetrovanie a skrátené vyšetrovanie trestných činov príslušníkov ozbrojených bezpečnostných zborov.
+- Zriaďuje sa Úrad inšpekčnej služby, ktorý je osobitnou súčasťou Policajného zboru s pôsobnosťou pre celé územie Slovenskej republiky, na odhaľovanie, vyšetrovanie a skrátené vyšetrovanie trestných činov príslušníkov ozbrojených bezpečnostných zborov. V pôsobnosti Úradu inšpekčnej služby je aj vyšetrovanie a skrátené vyšetrovanie trestných činov colníkov.
 
 - (2)
 
@@ -48,7 +48,7 @@ Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore
 
 - „(3)
 
-- Policajt zaradený na Úrade inšpekčnej služby je vo vyšetrovaní a v skrátenom vyšetrovaní vo veciach, ktoré vyšetruje, oprávnený vyžadovať od Zboru väzenskej a justičnej stráže v súlade so zákonmi a inými všeobecne záväznými právnymi predpismi zabezpečenie vykonania úkonov a opatrení nevyhnutných pre vyšetrovanie, ktoré vzhľadom na ich povahu nemôže vykonať sám;“.
+- Policajt zaradený na Úrade inšpekčnej služby je vo vyšetrovaní a v skrátenom vyšetrovaní vo veciach, ktoré vyšetruje, oprávnený vyžadovať od Zboru väzenskej a justičnej stráže v súlade so zákonmi a inými všeobecne záväznými právnymi predpismi zabezpečenie vykonania úkonov a opatrení nevyhnutných pre vyšetrovanie, ktoré vzhľadom na ich povahu nemôže vykonať sám; rovnaké oprávnenie má policajt zaradený na Úrade inšpekčnej služby aj voči finančnej správe.“.
 
 - 6. V § 21 ods. 6 sa slová „Ministerstvu vnútra Slovenskej republiky (ďalej len „ministerstvo“)“ nahrádzajú slovom „ministerstvu“.
 

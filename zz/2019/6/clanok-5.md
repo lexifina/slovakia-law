@@ -10,7 +10,7 @@ Zákon č. 153/2001 Z. z. o prokuratúre v znení zákona č. 458/2003 Z. z., z�
 
 - „(7)
 
-- Na konanie pred okresným súdom a v trestnom konaní je príslušný krajský prokurátor a prokurátori krajskej prokuratúry, ak ide o trestné činy príslušníkov ozbrojených bezpečnostných zborov uvedené v Trestnom poriadku;<sup>30b</sup>)“.
+- Na konanie pred okresným súdom a v trestnom konaní je príslušný krajský prokurátor a prokurátori krajskej prokuratúry, ak ide o trestné činy príslušníkov ozbrojených bezpečnostných zborov uvedené v Trestnom poriadku;<sup>30b</sup>) na konanie pred okresným súdom a v trestnom konaní je príslušný krajský prokurátor a prokurátori krajskej prokuratúry, aj ak ide o trestné činy colníkov uvedené v Trestnom poriadku.<sup>30b</sup>)“.
 
   - Poznámka pod čiarou k odkazu 30b znie:
 

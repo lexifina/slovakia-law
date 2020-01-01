@@ -6,7 +6,7 @@ Zákon č. 301/2005 Z. z. Trestný poriadok v znení zákona č. 650/2005 Z. z.,
 
 - „b)
 
-- vyšetrovateľ Policajného zboru zaradený na Úrade inšpekčnej služby, ak ide o trestné činy príslušníkov ozbrojených bezpečnostných zborov a nejde o trestné činy uvedené v písmene c);“.
+- vyšetrovateľ Policajného zboru zaradený na Úrade inšpekčnej služby, ak ide o trestné činy príslušníkov ozbrojených bezpečnostných zborov a nejde o trestné činy uvedené v písmene c); to platí, aj ak ide o trestné činy colníkov a nejde o trestné činy uvedené v písmene c),“.
 
   - Doterajšie písmená b) až g) sa označujú ako písmená c) až h).
 
@@ -20,7 +20,7 @@ Zákon č. 301/2005 Z. z. Trestný poriadok v znení zákona č. 650/2005 Z. z.,
 
 - 6. V § 201 ods. 5 písm. b) a ods. 6 písm. b) sa na konci pripájajú tieto slová: „alebo medzi orgánmi činnými v trestnom konaní uvedenými v § 10 ods. 8 písm. a) a b)“.
 
-7. V § 202 ods. 2 sa slová „§ 10 ods. 8 písm. c) až g)“ nahrádzajú slovami „§ 10 ods. 8 písm. d) až h)“, slová „§ 10 ods. 8 písm. a) a b)“ sa nahrádzajú slovami „§ 10 ods. 8 písm. a) a c)“ a na konci sa pripája táto veta: „Skrátené vyšetrovanie o trestných činoch príslušníkov ozbrojených bezpečnostných zborov vykonáva policajt uvedený v § 10 ods. 8 písm. b);
+7. V § 202 ods. 2 sa slová „§ 10 ods. 8 písm. c) až g)“ nahrádzajú slovami „§ 10 ods. 8 písm. d) až h)“, slová „§ 10 ods. 8 písm. a) a b)“ sa nahrádzajú slovami „§ 10 ods. 8 písm. a) a c)“ a na konci sa pripája táto veta: „Skrátené vyšetrovanie o trestných činoch príslušníkov ozbrojených bezpečnostných zborov vykonáva policajt uvedený v § 10 ods. 8 písm. b); policajt uvedený v § 10 ods. 8 písm. b) vykonáva aj skrátené vyšetrovanie o trestných činoch colníkov.“.
 
 - 8. V § 230 ods. 2 písm. f) sa vypúšťajú slová „prikázať ju inému, a to aj miestne nepríslušnému policajtovi, alebo“.
 
@@ -32,7 +32,7 @@ Zákon č. 301/2005 Z. z. Trestný poriadok v znení zákona č. 650/2005 Z. z.,
 
 - i)
 
-- urobiť opatrenie, aby vyšetrovanie alebo skrátené vyšetrovanie trestného činu príslušníka ozbrojeného bezpečnostného zboru vykonal policajt uvedený v § 10 ods. 8 písm. a), pričom pred urobením opatrenia si prokurátor vyžiada stanovisko riaditeľa Úradu inšpekčnej služby;“.
+- urobiť opatrenie, aby vyšetrovanie alebo skrátené vyšetrovanie trestného činu príslušníka ozbrojeného bezpečnostného zboru vykonal policajt uvedený v § 10 ods. 8 písm. a), pričom pred urobením opatrenia si prokurátor vyžiada stanovisko riaditeľa Úradu inšpekčnej služby; rovnako je prokurátor oprávnený postupovať aj pri vyšetrovaní alebo skrátenom vyšetrovaní trestného činu colníka.“.
 
 - 10. V § 230 ods. 3 sa slová „odseku 2 písm. a), d), f) alebo g)“ nahrádzajú slovami „odseku 2 písm. a), d), f) až i)“.
 
