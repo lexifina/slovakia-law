@@ -6,6 +6,6 @@
 
 (3) Identifikačné údaje podľa odseku 2 sú meno, priezvisko, dátum narodenia, identifikačné číslo sociálneho zabezpečenia a bydlisko poberateľa dôchodkovej dávky alebo sociálneho dôchodku, adresa príjemcu dôchodkovej dávky alebo sociálneho dôchodku, suma dôchodkovej dávky alebo sociálneho dôchodku a ak ide o poberateľa starobného dôchodku, aj počet rokov dôchodkového poistenia.
 
-(4) Sociálna poisťovňa neplní povinnosti podľa odsekov 1 a 2 počas obdobia výkonu väzby a počas obdobia výkonu trestu odňatia slobody poberateľa dôchodkovej dávky.
+(4) Sociálna poisťovňa neplní povinnosti podľa odsekov 1 a 2 počas obdobia výkonu väzby, výkonu trestu odňatia slobody alebo výkonu detencie poberateľa dôchodkovej dávky.
 
 (5) Sumu, pri ktorej môže vzniknúť nárok na dávku v hmotnej núdzi a príspevky k dávke v hmotnej núdzi, oznamuje ministerstvo Sociálnej poisťovni pri každej zmene jej výšky.

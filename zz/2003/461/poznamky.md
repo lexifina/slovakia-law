@@ -130,6 +130,8 @@
 
 - 45a) § 166, § 168 ods. 5 a § 169 zákona č. 311/2001 Z. z.
 
+- 45aa) Zákon č. 231/2019 Z. z. o výkone detencie a o zmene a doplnení niektorých zákonov.
+
 - 45b) Zákon č. 280/2002 Z. z. o rodičovskom príspevku v znení neskorších predpisov.
 
 - 46) Zákon č. 94/1963 Zb. o rodine v znení neskorších predpisov.
@@ -150,17 +152,23 @@
 
 - 55) § 40 až 45 a § 101 zákona č. 328/2002 Z. z. v znení neskorších predpisov.
 
+- 55a) Čl. 219 ods. 1 až 3 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 202, 7. 6. 2016) v platnom znení.
+
+- Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 202, 7. 6. 2016).
+
+- 55aa) Napríklad zákon č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov, zákon č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 55b) Čl. 52 ods. 1 písm. a) nariadenia Európskeho parlamentu a Rady (ES) č. 883/2004 z 29. apríla 2004 o koordinácii systémov sociálneho zabezpečenia (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 5; Ú. v. EÚ L 200, 7. 6. 2004) v platnom znení.
+
+- 55c) Čl. 46 ods. 1 nariadenia Európskeho parlamentu a Rady (ES) č. 883/2004 z 29. apríla 2004 o koordinácii systémov sociálneho zabezpečenia (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 5; Ú. v. EÚ L 200, 7. 6. 2004) v platnom znení.
+
 - 56) § 2 písm. a) zákona č. 125/1998 Z. z. o životnom minime a o ustanovení súm na účely štátnych sociálnych dávok.
 
 - 56a) Napríklad čl. 1 nariadenia Rady (EHS Euroatom, ESUO) č. 259/1968 z 29. februára 1968, ktorým sa ustanovuje Služobný poriadok a podmienky zamestnávania ostatných zamestnancov Európskych spoločenstiev a osobitné pravidlá, ktoré sa dočasne uplatňujú na úradníkov Komisie (Ú. v. ES L 56, 4. 3. 1968) v platnom znení, čl. 36 ods. 36.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky v platnom znení (Ú. v. EÚ C 326, 26. 10. 2012), čl. 1 rozhodnutia Európskej centrálnej banky ECB/1998/4 (1999/330/ES) z 9. júna 1998 o prijatí podmienok zamestnávania zamestnancov Európskej centrálnej banky (Ú. v. ES L 125, 19. 5. 1999) v platnom znení.
 
-- 56aa) § 45 ods. 6 zákona č. 43/2004 Z. z. v znení zákona č. 183/2014 Z. z.
-
-- 56ab) Čl. 219 ods. 1 až 3 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 326, 26. 10. 2012) v platnom znení.
-
-- Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 326, 26. 10. 2012).
-
 - 56b) Nariadenie vlády Slovenskej republiky č. 200/2012 Z. z., ktorým sa ustanovuje spôsob určenia poistno-matematického ekvivalentu nároku na starobný dôchodok vo vzťahu k dôchodkovému systému Európskej únie alebo jej inštitúcie.
+
+- 56c) § 45 ods. 6 zákona č. 43/2004 Z. z. v znení zákona č. 183/2014 Z. z.
 
 - 58) § 24 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
 
@@ -288,8 +296,6 @@
 
 - 95aa) Zákon č. 112/2015 Z. z. o príspevku športovému reprezentantovi a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
-- 95b) § 30 a 46i zákona č. 43/2004 Z. z. v znení neskorších predpisov.
-
 - 96) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov.
 
 - 96a) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -302,11 +308,11 @@
 
 - 100aa) Napríklad zákon č. 328/2002 Z. z. v znení neskorších predpisov, zákon č. 43/2004 Z. z. v znení neskorších predpisov, zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 100ab) § 73 ods. 10 a § 74 ods. 7 písm. h) zákona č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
+- 100ab) § 73 ods. 10 a § 74 ods. 7 písm. h) zákona č. 448/2008 Z. z. v znení neskorších predpisov.
 
 - 100ac) § 73 ods. 1 až 8 a 10 zákona č. 448/2008 Z. z. v znení neskorších predpisov.
 
-- 100ad) Zákon č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 100ad) Zákon č. 417/2013 Z. z. v znení neskorších predpisov.
 
 - 100ae) § 19 zákona č. 447/2008 Z. z.
 
