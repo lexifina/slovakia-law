@@ -50,6 +50,10 @@
 
 - 8ae) § 43 ods. 14 a § 56 ods. 10 zákona č. 351/2011 Z. z. o elektronických komunikáciách v znení neskorších predpisov.
 
+- 8af) § 54a ods. 1 písm. a) prvý bod zákona č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- § 28a ods. 1 písm. a) prvý bod zákona č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení zákona č. 310/2006 Z. z.
+
 - 8b) § 3 ods. 1 a 2 zákona č. 275/2006 Z. z. v znení neskorších predpisov.
 
 - 8ba) § 3 písm. n) prvý bod zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
