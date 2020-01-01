@@ -14,6 +14,8 @@
 
 - 5a) § 47b až 47f zákona č. 581/2004 Z. z. v znení zákona č. 351/2017 Z. z.
 
+- 5b) Zákon č. 231/2019 Z. z. o výkone detencie a o zmene a doplnení niektorých zákonov.
+
 - 6) Napríklad zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 7) Napríklad Zákonník práce.
@@ -202,6 +204,8 @@
 
 - 35) Zákon č. 216/2002 Z. z. o povolaní lekárnika, o Slovenskej lekárnickej komore a o doplnení zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov v znení neskorších predpisov.
 
+- 35a) § 135 ods. 1 písm. d) zákona č. 362/2011 Z. z. v znení zákona č. 383/2019 Z. z.
+
 - 36) Zákon č. 311/2002 Z. z. o povolaní sestry, o povolaní pôrodnej asistentky, o Slovenskej komore sestier a pôrodných asistentiek a o zmene a doplnení zákona Slovenskej národnej rady č. 14/1992 Zb. o Slovenskej komore stredných zdravotníckych pracovníkov a o Slovenskej komore zubných technikov v znení neskorších predpisov.
 
 - 36a) § 25 zákona č. 293/2007 Z. z. o uznávaní odborných kvalifikácií v znení zákona č. 560/2008 Z. z.
@@ -239,6 +243,8 @@
 - 46) Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 47) § 12 ods. 8 zákona č. 576/2004 Z. z. v znení zákona č. 350/2005 Z. z.
+
+- 47a) § 2 ods. 1 zákona č. 153/2013 Z. z.
 
 - 48) § 19 až 21 zákona č. 576/2004 Z. z.
 
