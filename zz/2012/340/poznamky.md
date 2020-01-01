@@ -14,6 +14,12 @@
 
 - 8) § 2 ods. 3 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov.
 
+- 8a) § 65 až 77 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+
+- 8b) § 3 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+
+- 8c) § 2 ods. 1 zákona č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov.
+
 - 9) § 7 ods. 1 zákona č. 351/2011 Z. z. o elektronických komunikáciách.
 
 - 10) § 4 zákona č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách v znení zákona č. 498/2009 Z. z.
@@ -31,12 +37,6 @@
 - 16) Viedenský dohovor o diplomatických stykoch (vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch).
 
 - Viedenský dohovor o konzulárnych stykoch (vyhláška ministra zahraničných vecí č. 32/1969 Zb. o Viedenskom dohovore o konzulárnych stykoch).
-
-- 17) § 65 až 77 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
-
-- 18) § 3 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
-
-- 19) § 2 zákona č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov.
 
 - 21) § 31 ods. 2 písm. x) zákona č. 251/2012 Z. z.
 
