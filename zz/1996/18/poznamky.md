@@ -8,6 +8,8 @@
 
 - 3) Napríklad zákon č. 51/1964 Zb. o dráhach v znení neskorších predpisov.
 
+- 3a) § 18 ods. 3 písm. b) zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
+
 - 4) Nariadenie vlády Slovenskej republiky č. 300/1995 Z. z., ktorým sa vydáva colný sadzobník.
 
 - 5) Opatrenie Štatistického úradu Slovenskej republiky č. 236/1993 Z. z., ktorým sa ustanovujú klasifikácie, číselník a register v oblasti štátnej štatistiky.
