@@ -1,0 +1,1 @@
+Príloha č. 1 k ústavnému zákonu č. 357/2004 Z. z. v znení ústavného zákona č. 232/2019 Z. z. [Príloha č. 1 k ústavnému zákonu č. 357/2004 Z. z. v znení ústavného zákona č. 232/2019 Z. z.](../assets/6703ad7a63ad47df6040f674d66d47eb03ea26ab03faeb3057391931a49d973e.pdf)
