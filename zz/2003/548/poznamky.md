@@ -30,6 +30,6 @@
 
 - 10) § 245 ods. 4 a 5 zákona č. 154/2001 Z. z.
 
-- 11) § 52 ods. 1 písm. f) zákona č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
+- 10a) § 57 ods. 6 alebo § 82 ods. 1 písm. a) zákona č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
 
-- § 236 ods. 2 písm. f) zákona č. 154/2001 Z. z.
+- 11) § 241 zákona č. 154/2001 Z. z. v znení neskorších predpisov.
