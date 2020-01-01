@@ -1,1 +1,0 @@
-Príloha č. 8 k vyhláške č. 453/2007 Z. z. [Vzor 08 - PREDNÁ STRANA PRVÉHO LISTU UTAJOVANEJ PÍSOMNOSTI](../assets/9f5af9b90ee783d8c60081380bf9a158136c70c6bb2055750a476f2b799cbaca.pdf)

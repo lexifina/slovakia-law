@@ -1,1 +1,0 @@
-Príloha č. 15 k vyhláške č. 453/2007 Z. z. [Vzor 15 - EVIDENCIA HMOTNÝCH NOSIČOV UTAJOVANÝCH PÍSOMNOSTÍ](../assets/31cb56ac90c5dcd864b648772f45c50b13e5cc6371b248f923558d5e51a7da25.pdf)

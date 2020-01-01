@@ -1,1 +1,0 @@
-Príloha č. 7 k vyhláške č. 453/2007 Z. z. [Vzor 07 - ŠTÍTOK NA OBALE PROTOKOLU UTAJOVANÝCH PÍSOMNOSTÍ](../assets/2913c8a415712337ef19d9cb3f273fbb125e92a6c10c2dcd29f23e81c3a0249f.pdf)

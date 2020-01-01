@@ -1,1 +1,0 @@
-Príloha č. 10 k vyhláške č. 453/2007 Z. z. [Vzor 10 - PREDNÁ STRANA UTAJOVANEJ PRÍLOHY PEVNE SPOJENEJ S UTAJOVANOU PÍSOMNOSŤOU](../assets/084e7b28b7fbe1af2e3ce01727d3bbe25c2e9bc838ca40e58c8fae9c7ec8f8aa.pdf)

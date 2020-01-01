@@ -1,1 +1,0 @@
-Príloha č. 13 k vyhláške č. 453/2007 Z. z. [Vzor 13 - OSVEDČENIE NA PREPRAVU UTAJOVANÝCH PÍSOMNOSTÍ](../assets/1b5a64db9002f9826217f3679acfd6031022ea6f0088a7b1127b352ae7d3e1f6.pdf)

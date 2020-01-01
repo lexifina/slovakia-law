@@ -1,1 +1,0 @@
-Príloha č. 14 k vyhláške č. 453/2007 Z. z. [Vzor 14 - ŽIADOSŤ O ZRIADENIE REGISTRA (KONCOVÉHO REGISTRA) UTAJOVANÝCH SKUTOČNOSTÍ](../assets/98d861b19f05ff4d158e06aade6eaa8449b2d52a8e50cd3eddf45727d60b91af.pdf)
