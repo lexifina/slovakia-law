@@ -1,1 +1,1 @@
-Príloha č. 2 k zákonu Slovenskej národnej rady č. 138/1992 Zb. [Príloha č. 2 k zákonu Slovenskej národnej rady č. 138/1992 Zb.](../assets/509f26ba2ed2038d5b0243d8ca92783697d46ebef3b89469dd789fa514ff07a3.pdf)
+Príloha č. 2 k zákonu Slovenskej národnej rady č. 138/1992 Zb. [Príloha č. 2 k zákonu Slovenskej národnej rady č. 138/1992 Zb.](../assets/32dccb2cd710f27dd8e8594b0aeff1d8712ca8ddcba6a087a6533307117953d0.pdf)
