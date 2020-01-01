@@ -6,23 +6,15 @@
 
 - Nariadenie Rady (ES, EURATOM) č. 2988/1995 z 18. decembra 1995 o ochrane finančných záujmov Európskych spoločenstiev.
 
-- 1b) § 24 zákona č. 575/2001 Z. z.
+- 2) Zákon č. 85/1990 Zb. o petičnom práve v znení neskorších predpisov.
 
-- 1c) Nariadenie Európskeho parlamentu a Rady (ES) č. 1080/2006 z 5. júla 2006 o Európskom fonde regionálneho rozvoja, a ktorým sa zrušuje nariadenie (ES) č. 1783/1999 (Ú. v. EÚ L 210, 31. 7. 2006).
+- 3) Zákon č. 9/2010 Z. z. o sťažnostiach v znení neskorších predpisov.
 
-- 1d) Nariadenie Európskeho parlamentu a Rady (ES) č. 1081/2006 z 5. júla 2006 o Európskom sociálnom fonde, ktorým sa zrušuje nariadenie (ES) č. 1784/1999 (Ú. v. EÚ L 210, 31. 7. 2006).
+- 3a) Napríklad § 24 ods. 4 zákona č. 575/2001 Z. z. v znení neskorších predpisov, § 5 zákona č. 528/2008 Z. z. o pomoci a podpore poskytovanej z fondov Európskeho spoločenstva v znení neskorších predpisov, § 5 zákona č. 292/2014 Z. z. o príspevku poskytovanom z európskych štrukturálnych a investičných fondov a o zmene a doplnení niektorých zákonov, § 5 zákona č. 323/2015 Z. z. o finančných nástrojoch financovaných z európskych štrukturálnych a investičných fondov a o zmene a doplnení niektorých zákonov.
 
-- 1e) Nariadenie Európskeho parlamentu a Rady (ES) č. 1084/2006 z 11. júla 2006, ktorým sa zriaďuje Kohézny fond a ktorým sa zrušuje nariadenie (ES) č. 1164/1994 (Ú. v. EÚ L 210, 31. 7. 2006).
+- 3b) Napríklad nariadenie (EURATOM, ES) č. 2185/96, nariadenie Európskeho parlamentu a Rady (EÚ, Euratom) č. 883/2013 z 11. septembra 2013 o vyšetrovaniach vykonávaných Európskym úradom pre boj proti podvodom (OLAF), ktorým sa zrušuje nariadenie Európskeho parlamentu a Rady (ES) č. 1073/1999 a nariadenie Rady (Euratom) č. 1074/1999 (Ú. v. EÚ L 248, 18. 9. 2013) v platnom znení.
 
-- 1f) Nariadenie (ES) č. 1198/2006 z 27. júla 2006 o Európskom fonde pre rybné hospodárstvo (Ú. v. EÚ L 223, 15. 8. 2006).
-
-- 1g) Nariadenie Rady (ES) č. 1698/2005 z 20. septembra 2005 o podpore rozvoja vidieka prostredníctvom Európskeho poľnohospodárskeho fondu pre rozvoj vidieka (EPFRV) (Ú. v. EÚ L 277, 21. 10. 2005) v platnom znení.
-
-- 1h) Nariadenie (ES) č. 1290/2005 z 21. júna 2005 o financovaní spoločnej poľnohospodárskej politiky (Ú. v. EÚ L 209, 11. 8. 2005) v platnom znení.
-
-- 2) Zákon č. 85/1990 Zb. o petičnom práve v znení zákona č. 242/1998 Z. z.
-
-- 3) Zákon č. 152/1998 Z. z. o sťažnostiach.
+- 3c) Napríklad zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 4) Napríklad zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky.
 
@@ -50,10 +42,10 @@
 
 - 16) Zákon č. 215/2007 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
+- 16a) Zákon č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 17) Napríklad zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
 - 18) Napríklad zákon č. 301/2005 Z. z. Trestný poriadok v znení neskorších predpisov, zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
-
-- 18a) Napríklad čl. 2 ods. 1 nariadenia Komisie (ES) č. 1848/2006 zo 14. decembra 2006 o nezrovnalostiach a vymáhaní súm neoprávnene vyplatených v súvislosti s financovaním Spoločnej poľnohospodárskej politiky, o organizácii informačného systému v tejto oblasti a o zrušení nariadenia (EHS) č. 595/91 (Ú. v. EÚ L 355, 15. 12. 2006).
 
 - 19) § 137 zákona č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
