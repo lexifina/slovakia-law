@@ -180,6 +180,70 @@ Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení zákona č. 350/200
 
 - 22. V § 47 ods. 13 sa za slová „Finančnému riaditeľstvu Slovenskej republiky“ vkladajú slová „(ďalej len „finančné riaditeľstvo“)“.
 
+- 23. Za § 48b sa vkladajú § 48c a 48d, ktoré vrátane nadpisov znejú:
+
+- „Oslobodenie od dane pri zdaniteľných obchodoch spojených s medzinárodným obchodom
+
+- § 48c
+
+- (1)
+
+- Oslobodené od dane je dodanie tovaru uvedeného v prílohe č. 9 časti I v colnom sklade<sup>25</sup>) a v osobitnom sklade podľa § 48d a dodanie služieb uskutočnených v týchto skladoch, ak ich dodanie súvisí s týmto tovarom.
+
+- (2)
+
+- Oslobodený od dane je
+
+- a)
+
+- dovoz tovaru uvedeného v prílohe č. 9 časti II, ktorý je určený na umiestnenie do daňového skladu,<sup>25a</sup>)
+
+- b)
+
+- dodanie tovaru uvedeného v prílohe č. 9 časti II, ktorý je určený na umiestnenie do daňového skladu, a dodanie služieb, ktoré súvisia s dodaním tohto tovaru,
+
+- c)
+
+- dodanie tovaru uvedeného v prílohe č. 9 časti II v daňovom sklade a dodanie služieb uskutočnených v daňovom sklade, ak ich dodanie súvisí s týmto tovarom,
+
+- d)
+
+- nadobudnutie tovaru uvedeného v prílohe č. 9 časti II v tuzemsku z iného členského štátu, ktorý je určený na umiestnenie do daňového skladu, a dodanie služieb, ktoré súvisia s nadobudnutím tohto tovaru.
+
+- (3)
+
+- Oslobodenie od dane podľa odsekov 1 a 2 sa nevzťahuje na dodanie tovarov, ktoré sú určené na konečné použitie alebo spotrebu, a dodanie s tým súvisiacich služieb.
+
+- (4)
+
+- Výška splatnej dane pri ukončení režimu alebo situácie podľa odsekov 1 a 2 zodpovedá výške dane, ktorá by bola splatná, keby každý uskutočnený zdaniteľný obchod podliehal dani.
+
+- (5)
+
+- Osoba, ktorá spôsobí, že sa na tovar prestane vzťahovať režim alebo situácia uvedená v odsekoch 1 a 2, je povinná platiť daň.
+
+- § 48d
+
+- Osobitný sklad
+
+- (1)
+
+- Osobitným skladom sa rozumie priestorovo ohraničené miesto v tuzemsku, v ktorom sa v rámci podnikania tovar uvedený v prílohe č. 9 časti I skladuje, prijíma alebo odosiela. Osobitný sklad musí spĺňať podmienky podľa osobitného predpisu.<sup>25b</sup>)
+
+- (2)
+
+- Zdaniteľná osoba, ktorá chce prevádzkovať osobitný sklad, je povinná požiadať colný úrad o vydanie povolenia na prevádzkovanie osobitného skladu. Na podanie žiadosti o prevádzkovanie osobitného skladu sa vzťahujú ustanovenia osobitného predpisu.<sup>25c</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 25 až 25c znejú:
+
+  - „<sup>25</sup>) Čl. 240 nariadenia (EÚ) č. 952/2013.
+
+  - <sup>25a</sup>) § 18 ods. 2 a 3 zákona č. 98/2004 Z. z. v znení neskorších predpisov.
+
+  - <sup>25b</sup>) § 20 ods. 3 zákona č. 98/2004 Z. z.
+
+  - <sup>25c</sup>) § 21 a § 22 zákona č. 98/2004 Z. z.“.
+
 - 24. V § 50 ods. 2 sa slová „sú výnosy (príjmy) bez dane z“ nahrádzajú slovami „je hodnota bez dane dodaných“, slová „sú výnosy (príjmy) bez dane zo všetkých“ nahrádzajú slovami „je hodnota bez dane zo všetkých dodaných“ a slová „neuvádzajú výnosy (príjmy)“ sa nahrádzajú slovami „neuvádza hodnota“.
 
 - 25. V § 54 ods. 4 sa na konci pripája táto veta: „Ak platiteľ nadobudne investičný majetok formou nájmu s dojednaným právom kúpy prenajatej veci, pri ktorom po nadobudnutí zmení účel jeho použitia, na účely úpravy odpočítanej dane sa má za to, že obdobie na úpravu odpočítanej dane začalo plynúť v kalendárnom roku, v ktorom bol investičný majetok odovzdaný do užívania platiteľovi.“.
@@ -387,3 +451,49 @@ Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení zákona č. 350/200
 - 15.
 
 - Smernica Rady (EÚ) 2018/912 z 22. júna 2018, ktorou sa mení smernica 2006/112/ES o spoločnom systéme dane z pridanej hodnoty, pokiaľ ide o povinnosť uplatňovať minimálnu štandardnú sadzbu (Ú. v. EÚ L 162, 27. 6. 2018).“.
+
+- 59. Zákon sa dopĺňa prílohou č. 9, ktorá vrátane nadpisu znie:
+
+- „Príloha č. 9
+
+- k zákonu č. 222/2004 Z. z.
+
+- v znení zákona č. 369/2018 Z. z.
+
+- ZOZNAM TOVAROV, NA KTORÉ SA MÔŽE UPLATNIŤ OSLOBODENIE OD DANE
+
+- PRI ZDANITEĽNÝCH OBCHODOCH SPOJENÝCH S MEDZINÁRODNÝM OBCHODOM
+
+- Časť I |
+
+- Číselné kódy Spoločného colného sadzobníka | Opis tovaru
+
+- 2709 00 90 | Ropné oleje a oleje získané z bitúmenových nerastov, surové Ostatné
+
+- Časť II |
+
+- Číselné kódy Spoločného colného sadzobníka | Opis tovaru
+
+- 2710 12 41 | Ropné oleje a oleje získané z bitúmenových nerastov, iné ako surové S oktánovým číslom (RON) menej ako 95
+
+- 2710 12 45 | Ropné oleje a oleje získané z bitúmenových nerastov, iné ako surové S oktánovým číslom (RON) 95 alebo viac, ale menej ako 98
+
+- 2710 12 49 | Ropné oleje a oleje získané z bitúmenových nerastov, iné ako surové S oktánovým číslom (RON) 98 alebo viac
+
+- 2710 19 43 | Ropné oleje a oleje získané z bitúmenových nerastov, iné ako surové S obsahom síry nepresahujúcim 0,001 hmotnostného %
+
+- 2710 19 46 | Ropné oleje a oleje získané z bitúmenových nerastov, iné ako surové S obsahom síry presahujúcim 0,001 hmotnostného %, ale nepresahujúcim 0,002 hmotnostného %
+
+- 2710 19 47 | Ropné oleje a oleje získané z bitúmenových nerastov, iné ako surové S obsahom síry presahujúcim 0,002 hmotnostného %, ale nepresahujúcim 0,1 hmotnostného %
+
+- 2710 19 48 | Ropné oleje a oleje získané z bitúmenových nerastov, iné ako surové S obsahom síry presahujúcim 0,1 hmotnostného %
+
+- 2710 20 11 | Ropné oleje a oleje získané z bitúmenových nerastov, iné ako surové S obsahom síry nepresahujúcim 0,001 hmotnostného %
+
+- 2710 20 15 | Ropné oleje a oleje získané z bitúmenových nerastov, iné ako surové S obsahom síry presahujúcim 0,001 hmotnostného %, ale nepresahujúcim 0,002 hmotnostného %
+
+- 2710 20 17 | Ropné oleje a oleje získané z bitúmenových nerastov, iné ako surové S obsahom síry presahujúcim 0,002 hmotnostného %, ale nepresahujúcim 0,1 hmotnostného %
+
+- 2710 20 19 | Ropné oleje a oleje získané z bitúmenových nerastov, iné ako surové S obsahom síry presahujúcim 0,1 hmotnostného %
+
+- “.
