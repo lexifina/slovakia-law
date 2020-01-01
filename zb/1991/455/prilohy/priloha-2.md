@@ -245,3 +245,5 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 - | Zneškodňovanie fluórovaných skleníkových plynov vrátane podnikania v oblasti nakladania s odpadmi s obsahom fluórovaných skleníkových plynov | | |
 
 - | Uvádzanie fluórovaných skleníkových plynov na trh | | |
+
+- 95. | Pravidelná kontrola detského ihriska | certifikát odbornej spôsobilosti | § 10 ods. 2 zákona č. 371/2019 Z. z. o základných požiadavkách na bezpečnosť detského ihriska a o zmene a doplnení niektorých zákonov |
