@@ -1,0 +1,1 @@
+Príloha č. 3 k opatreniu č. 411/2019 Z. z. [VZORCE NA VÝPOČET PROGNÓZ DÔCHODKOVÝCH DÁVOK](../assets/7e956d04b4803b4386bb3425990911d65ee2cc2e09bbc42625719a6edc0e8e60.pdf)
