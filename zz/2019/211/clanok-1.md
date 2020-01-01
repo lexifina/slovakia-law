@@ -260,6 +260,8 @@ Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov ve
 
 - 39. V § 28 ods. 3 sa slová „musí byť neoddeliteľne spojený s elektronickým úradným dokumentom, ktorého sa tieto právne skutočnosti týkajú, a to tak, že oba tieto elektronické úradné dokumenty sú spoločne autorizované“ nahrádzajú slovami „musí obsahovať jednoznačnú identifikáciu elektronického úradného dokumentu, ktorého sa tieto právne skutočnosti týkajú, alebo s ním musí byť neoddeliteľne spojený tak, že sú oba tieto elektronické úradné dokumenty spoločne autorizované“ a na konci sa pripája táto veta: „Ak elektronický úradný dokument podľa § 3 písm. k) tretieho bodu nie je spojený s elektronickým úradným dokumentom, ku ktorému sa preukazované právne skutočnosti viažu, spoločnou autorizáciou, orgán verejnej moci je povinný pri doručovaní elektronického úradného dokumentu podľa § 3 písm. k) tretieho bodu v jednej elektronickej úradnej správe doručiť aj elektronický úradný dokument, ku ktorému sa preukazované právne skutočnosti viažu.“.
 
+- 40. V § 31a ods. 6 sa na konci pripája táto veta: „Ak poštový podnik zistí, že informácia o výsledku doručenia nie je úplná alebo správna, bezodkladne ju zruší, doplní alebo opraví; ustanovenia druhej a tretej vety sa použijú rovnako.“.
+
 - 41. V § 31a ods. 12 sa slová „listinnej podoby elektronického úradného dokumentu a jeho doručenie adresátovi v listinnej podobe“ nahrádzajú slovami „listinného rovnopisu elektronického úradného dokumentu a jeho doručenie adresátovi“.
 
 - 42. V § 33 odsek 4 znie:
