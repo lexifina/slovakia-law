@@ -608,6 +608,8 @@ Zákon č. 514/2009 Z. z. o doprave na dráhach v znení zákona č. 433/2010 Z.
 
   - „<sup>18d</sup>) Napríklad Zákonník práce, zákon č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
 
+- 16. V § 26 ods. 6 sa za prvú vetu vkladá nová druhá veta, ktorá znie: „Rušňovodič s preukazom vydaným v inom členskom štáte, ktorý bude obsluhovať rušeň na železničnej sieti na území Slovenskej republiky, alebo jeho zamestnávateľ oznámi pred tým údaje podľa § 27a ods. 5 bezpečnostnému orgánu na účely registrácie preukazu rušňovodiča v registri držiteľov preukazov rušňovodičov podľa § 27a.“.
+
 - 17. V § 27 ods. 1 písmeno b) znie:
 
 - „b)
@@ -616,7 +618,75 @@ Zákon č. 514/2009 Z. z. o doprave na dráhach v znení zákona č. 433/2010 Z.
 
 - 18. V § 27 ods. 1 písm. e) sa za slovo „bezúhonnosť“ vkladajú slová „podľa § 11 ods. 2“.
 
+- 19. Za § 27 sa vkladá § 27a, ktorý vrátane nadpisu znie:
+
+- „§ 27a
+
+- Register držiteľov preukazov rušňovodičov
+
+- (1)
+
+- Register držiteľov preukazov rušňovodičov je informačný systém verejnej správy,<sup>20a</sup>) ktorý sa vedie na účely konaní orgánov verejnej moci, výkonu kontroly a evidencie údajov na úseku dopravy na dráhe.
+
+- (2)
+
+- Register držiteľov preukazov rušňovodičov je elektronický informačný systém evidencie vydaných a platných preukazov rušňovodičov podľa § 26 ods. 1 vytvorený v súlade so spoločnou špecifikáciou Európskej komisie.<sup>20b</sup>)
+
+- (3)
+
+- Register držiteľov preukazov rušňovodičov spravuje, vedie a pravidelne aktualizuje bezpečnostný orgán tak, aby register držiteľov preukazov rušňovodičov obsahoval vždy údaje o všetkých vydaných a zároveň platných preukazoch rušňovodičov.
+
+- (4)
+
+- Register držiteľov preukazov rušňovodičov je neverejný. Bezpečnostný orgán udelí prístupové práva oprávneným subjektom na základe žiadosti.
+
+- (5)
+
+- V registri držiteľov preukazov rušňovodičov sa vedú údaje v rozsahu podľa spoločnej špecifikácie Európskej komisie<sup>20b</sup>) vrátane údajov o vzniku a zániku pracovnoprávneho vzťahu rušňovodiča podľa osobitného predpisu.<sup>20c</sup>) Orgány verejnej moci a iné osoby, ktoré využívajú register držiteľov preukazov rušňovodičov, spracúvajú osobné údaje fyzických osôb v rozsahu nevyhnutnom na účely výkonu svojej pôsobnosti alebo na účely plnenia svojich povinností podľa tohto zákona a osobitných predpisov. Na ochranu osobných údajov sa vzťahuje všeobecný predpis o ochrane osobných údajov.<sup>20d</sup>)
+
+- (6)
+
+- Bezpečnostný orgán zabezpečí prenos údajov z registra držiteľov preukazov rušňovodičov do informačného systému riadenia prevádzky na železničnej infraštruktúre, ktorý vedie manažér infraštruktúry, v rozsahu:
+
+- a)
+
+- meno a priezvisko držiteľa preukazu rušňovodiča,
+
+- b)
+
+- európske číslo preukazu rušňovodiča,
+
+- c)
+
+- dátum skončenia platnosti preukazu rušňovodiča,
+
+- d)
+
+- vznik a zánik pracovnoprávneho vzťahu rušňovodiča.
+
+- (7)
+
+- Bezpečnostný orgán je povinný zabezpečiť nepretržitý a priamy prístup k registru držiteľov preukazov rušňovodičov pre inšpektoráty práce vykonávajúce kontrolu podľa osobitného predpisu<sup>20e</sup>) a pre príslušníkov Policajného zboru prostredníctvom svojho webového sídla.“.
+
+  - Poznámky pod čiarou k odkazom 20a až 20e znejú:
+
+  - „<sup>20a</sup>) Zákon č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+  - <sup>20b</sup>) Rozhodnutie Komisie z 29. októbra 2009 o prijatí základných parametrov registrov preukazov rušňovodičov a doplnkových osvedčení ustanovených v smernici Európskeho parlamentu a Rady 2007/59/ES (2010/17/ES) (Ú. v. EÚ L 8, 13. 1. 2010).
+
+  - <sup>20c</sup>) § 12 ods. 5 zákona č. 462/2007 Z. z. o organizácii pracovného času v doprave a o zmene a doplnení zákona č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 309/2007 Z. z. v znení zákona č. 55/2019 Z. z.
+
+  - <sup>20d</sup>) Zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
+
+  - <sup>20e</sup>) § 34 zákona č. 462/2007 Z. z.“.
+
 - 20. V § 36 ods. 1 písm. p) sa na konci pripájajú tieto slová: „a podmienky poskytovania výhod prepravy po železniciach členských štátov združených v Organizácii pre spoluprácu železníc“.
+
+- 21. V § 37 sa odsek 1 dopĺňa písmenom m), ktoré znie:
+
+- „m)
+
+- spravuje a vedie register držiteľov preukazov rušňovodičov.“.
 
 - 22. V § 42 ods. 2 písm. d) sa za slová „do 500 eur a“ vkladajú slová „možno uložiť“.
 
