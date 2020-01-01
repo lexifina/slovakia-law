@@ -1,7 +1,7 @@
 # § 149a
 
-(1) Po skončení odbornej prípravy, najneskôr do šiestich mesiacov od jej skončenia, je justičný čakateľ povinný vykonať odbornú justičnú skúšku okrem prípadu, keď odbornú justičnú skúšku vykonal v minulosti. Na základe písomnej žiadosti justičného čakateľa je minister povinný, po skončení odbornej prípravy, povoliť justičnému čakateľovi účasť na odbornej justičnej skúške.
+(1) Výberovým konaním na funkciu justičného čakateľa sa overujú schopnosti, odborné vedomosti, jazykové znalosti a zdravotný stav uchádzača o funkciu justičného čakateľa a ďalšie skutočnosti, ktoré je potrebné alebo vhodné overiť vzhľadom na povahu funkcie sudcu, na výkon ktorej sa justičný čakateľ pripravuje; ustanovenia § 28 ods. 5 a 6 platia rovnako.
 
-(2) Po skončení odbornej praxe a úspešnom vykonaní odbornej justičnej skúšky vykonáva justičný čakateľ naďalej funkciu justičného čakateľa v stálej štátnej službe, kým bude vymenovaný do funkcie sudcu na základe výberového konania na voľné miesto sudcu. Naďalej je povinný sa v tomto období odborne pripravovať na výkon funkcie sudcu.
+(2) Výberové konanie na funkciu justičného čakateľa vyhlasuje predseda súdnej rady pre obvod krajského súdu aspoň raz ročne v jarnom období alebo jesennom období; ustanovenie § 28a ods. 2 platí rovnako.
 
-(3) Justičný čakateľ môže po úspešnom vykonaní odbornej justičnej skúšky vykonávať rovnaké úkony ako vyšší súdny úradník, ako aj iné úkony, ktoré ustanoví zákon.<sup>30</sup>)
+(3) Výberové konanie na funkciu justičného čakateľa administratívne a organizačne zabezpečuje predseda príslušného krajského súdu.

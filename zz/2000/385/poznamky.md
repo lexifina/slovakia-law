@@ -108,7 +108,9 @@
 
 - 29) § 29 až 203 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
 
-- 30) Zákon č. 549/2003 Z. z. o súdnych úradníkoch v znení neskorších predpisov.
+- 30) Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 31) § 27fa ods. 6 zákona č. 185/2002 Z. z. v znení neskorších predpisov.
 
 - 33) Zákonník práce v znení neskorších predpisov.
 
