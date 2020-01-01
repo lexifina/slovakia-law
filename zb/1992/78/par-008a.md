@@ -1,10 +1,10 @@
 # § 8a Poskytovanie daňového poradenstva štátnymi príslušníkmi členských štátov
 
-(1) Na účel získania osvedčenia na výkon daňového poradenstva fyzická osoba uvedená v § 8 ods. 5 musí mať uznanú odbornú kvalifikáciu; na tento účel požiada komoru o uznanie odbornej kvalifikácie podľa osobitného predpisu.<sup>4b</sup>)
+(1) Na účel získania osvedčenia na výkon daňového poradenstva fyzická osoba uvedená v § 8 ods. 5 musí mať uznanú odbornú kvalifikáciu; na tento účel požiada komoru o uznanie dokladu o vzdelaní a o uznanie odbornej kvalifikácie podľa osobitného predpisu.<sup>4b</sup>)
 
 (2) Fyzická osoba uvedená v odseku 1 musí preukázať, že je oprávnená poskytovať daňové poradenstvo v inom členskom štáte.
 
-(3) Komora pri uznávaní odbornej kvalifikácie postupuje podľa osobitného predpisu.<sup>4c</sup>)
+(3) Komora pri uznávaní dokladu o vzdelaní a odbornej kvalifikácie postupuje podľa osobitného predpisu.<sup>4c</sup>)
 
 (4) Komora fyzickú osobu uvedenú v odseku 1 informuje o skutočnostiach podľa § 8 ods. 4.
 

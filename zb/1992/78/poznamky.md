@@ -20,13 +20,17 @@
 
 - 4b) § 23 ods. 1 až 3 zákona č. 293/2007 Z. z. v znení neskorších predpisov.
 
-- 4c) § 24 zákona č. 293/2007 Z. z. v znení zákona č. 81/2013 Z. z.
+- 4c) Zákon č. 422/2015 Z. z. o uznávaní dokladov o vzdelaní a o uznávaní odborných kvalifikácií a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 4d) § 30 ods. 1 zákona č. 35/2019 Z. z. o finančnej správe a o zmene a doplnení niektorých zákonov.
 
 - 5) § 68 a 69 Obchodného zákonníka.
 
-- 5b) § 3 ods. 4 zákona č. 136/2010 Z. z.
+- 5a) Zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Nariadenie Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) (Ú. v. EÚ L 119, 4. 5. 2016).
+
+- 5b) Čl. 4 ods. 7 nariadenia (EÚ) 2016/679.
 
 - 6) Napr. Zákonník práce.
 
