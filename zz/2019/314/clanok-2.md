@@ -1,0 +1,9 @@
+# Čl. II
+
+Zákon č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách v znení zákona č. 147/2001 Z. z., zákona č. 206/2002 Z. z., zákona č. 289/2005 Z. z., zákona č. 95/2006 Z. z., zákona č. 121/2006 Z. z., zákona č. 13/2007 Z. z., zákona č. 220/2007 Z. z., zákona č. 343/2007 Z. z., zákona č. 654/2007 Z. z., zákona č. 167/2008 Z. z., zákona č. 287/2008 Z. z., zákona č. 516/2008 Z. z., zákona č. 77/2009 Z. z., zákona č. 318/2009 Z. z., zákona č. 498/2009 Z. z., zákona č. 532/2010 Z. z., zákona č. 221/2011 Z. z., zákona č. 397/2011 Z. z., zákona č. 547/2011 Z. z., zákona č. 342/2012 Z. z., zákona č. 352/2013 Z. z., zákona č. 373/2013 Z. z., zákona č. 40/2015 Z. z., zákona č. 278/2015 Z. z., zákona č. 91/2016 Z. z., zákona č. 125/2016 Z. z., zákona č. 177/2018 Z. z. a zákona č. 221/2019 Z. z. sa mení takto:
+
+- V § 36 odsek 1 znie:
+
+- „(1)
+
+- Časový rozsah vysielanej reklamy vo vysielaní všetkých televíznych programových služieb vysielateľa na základe zákona nesmie spolu za kalendárny deň presiahnuť 0,5 % súčtu časov vysielania všetkých televíznych programových služieb vysielateľa na základe zákona v tomto kalendárnom dni. Tento časový rozsah sa môže zvýšiť až na 2,5 % súčtu časov vysielania všetkých televíznych programových služieb vysielateľa na základe zákona v danom kalendárnom dni, a to o čas vyhradený telenákupným šotom. Obmedzenie podľa prvej vety sa nevzťahuje na vysielanie reklamy v priamom spojení s vysielaním športovej alebo kultúrnej udalosti, pri ktorej je vysielanie reklamy nevyhnutnou podmienkou pre nadobudnutie práv k televíznemu vysielaniu športovej alebo kultúrnej udalosti. Vysielanie reklamy v priamom spojení s vysielaním športovej alebo kultúrnej udalosti podľa predchádzajúcej vety nesmie vo vysielaní všetkých televíznych programových služieb vysielateľa na základe zákona spolu presiahnuť 15 % denného vysielacieho času.“.
