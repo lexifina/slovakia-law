@@ -6,7 +6,9 @@
 
 - b) fyzickú osobu vo väzbe a fyzickú osobu vo výkone trestu odňatia slobody vykonáva ústav,
 
-- c) maloletého poistenca vykonáva
+- c) fyzickú osobu vo výkone detencie vykonáva detenčný ústav,
+
+- d) maloletého poistenca vykonáva
 
   - 1. zákonný zástupca alebo iná fyzická osoba alebo právnická osoba, ktorej bol maloletý zverený do starostlivosti nahrádzajúcej starostlivosť rodičov,
 
@@ -14,7 +16,7 @@
 
   - 3. zariadenie, v ktorom je umiestnený na základe rozhodnutia súdu.<sup>5</sup>)
 
-(2) Plnenie oznamovacích povinností podľa § 23 ods. 1 za fyzickú osobu vo väzbe alebo fyzickú osobu vo výkone trestu odňatia slobody a ďalšie podrobnosti o povinnostiach, ktoré vyplývajú z § 20 a § 22 až 24, ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo zdravotníctva po dohode s Ministerstvom spravodlivosti Slovenskej republiky.
+(2) Plnenie oznamovacích povinností podľa § 23 ods. 1 za fyzickú osobu vo väzbe, fyzickú osobu v detencii alebo fyzickú osobu vo výkone trestu odňatia slobody a ďalšie podrobnosti o povinnostiach, ktoré vyplývajú z § 20 a § 22 až 24, ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo zdravotníctva po dohode s Ministerstvom spravodlivosti Slovenskej republiky.
 
 (3) Za dôchodok z cudziny alebo dôchodok z iného členského štátu sa na účely tohto zákona považuje dôchodok porovnateľný so starobným dôchodkom, predčasným starobným dôchodkom alebo invalidným dôchodkom podľa osobitného predpisu.<sup>31</sup>)
 
@@ -54,15 +56,17 @@
 
 - c) odsúdenom vo výkone trestu odňatia slobody a odsúdenom vo výkone trestu odňatia slobody v inom členskom štáte, ak tam nie je zdravotne poistený [§ 11 ods. 7 písm. f)], v rozsahu rodné číslo, meno a priezvisko, rodné priezvisko, dátum narodenia, pohlavie, štátna príslušnosť, adresa trvalého pobytu, adresa prechodného pobytu, dátum začiatku výkonu trestu odňatia slobody, dátum ukončenia výkonu trestu odňatia slobody, dátum začiatku prerušenia výkonu trestu odňatia slobody, dátum ukončenia prerušenia výkonu trestu odňatia slobody.
 
-(15) Subjekty uvedené v odseku 6 poskytujú zdravotným poisťovniam a úradu súčinnosť pri ročnom zúčtovaní poistného.
+(15) Detenčný ústav úradu elektronicky na účely vykonávania verejného zdravotného poistenia poskytne údaje o osobe vo výkone detencie v rozsahu rodné číslo, meno a priezvisko, rodné priezvisko, dátum narodenia, pohlavie, štátna príslušnosť, adresa trvalého pobytu, adresa prechodného pobytu, dátum začiatku výkonu detencie, dátum ukončenia výkonu detencie.
 
-(16) Ministerstvo vnútra sprístupňuje úradu a zdravotnej poisťovni elektronicky údaje z registra fyzických osôb<sup>51d</sup>) na účely vykonávania verejného zdravotného poistenia.<sup>9</sup>)
+(16) Subjekty uvedené v odseku 6 poskytujú zdravotným poisťovniam a úradu súčinnosť pri ročnom zúčtovaní poistného.
 
-(17) Ministerstvo vnútra poskytuje súčinnosť úradu pri overovaní údajov uvedených v odseku 16. Preukazovanie skutočností podľa § 23 ods.1 písm. a) upraví dohoda, ktorú uzatvorí úrad s ministerstvom vnútra.
+(17) Ministerstvo vnútra sprístupňuje úradu a zdravotnej poisťovni elektronicky údaje z registra fyzických osôb<sup>51d</sup>) na účely vykonávania verejného zdravotného poistenia.<sup>9</sup>)
 
-(18) Preukazovanie skutočností podľa § 11 ods. 7 písm. v) prvého bodu sa upraví dohodou, ktorú uzatvorí úrad s Ústredím práce, sociálnych vecí a rodiny. Úrad je povinný tieto údaje oznámiť príslušnej zdravotnej poisťovni do troch dní odo dňa ich prijatia.
+(18) Ministerstvo vnútra poskytuje súčinnosť úradu pri overovaní údajov uvedených v odseku 17. Preukazovanie skutočností podľa § 23 ods.1 písm. a) upraví dohoda, ktorú uzatvorí úrad s ministerstvom vnútra.
 
-(19) Sociálna poisťovňa poskytuje zdravotnej poisťovni na účely vykonávania verejného zdravotného poistenia súčinnosť pri vykonávaní kontrolnej činnosti v rozsahu nevyhnutnom na dosiahnutie tohto účelu. Sociálna poisťovňa poskytuje zo svojho informačného systému zdravotnej poisťovni prostredníctvom informačného systému verejnej správy podľa osobitného predpisu<sup>55c</sup>) elektronicky na účely vykonávania verejného zdravotného poistenia údaje o
+(19) Preukazovanie skutočností podľa § 11 ods. 7 písm. v) prvého bodu sa upraví dohodou, ktorú uzatvorí úrad s Ústredím práce, sociálnych vecí a rodiny. Úrad je povinný tieto údaje oznámiť príslušnej zdravotnej poisťovni do troch dní odo dňa ich prijatia.
+
+(20) Sociálna poisťovňa poskytuje zdravotnej poisťovni na účely vykonávania verejného zdravotného poistenia súčinnosť pri vykonávaní kontrolnej činnosti v rozsahu nevyhnutnom na dosiahnutie tohto účelu. Sociálna poisťovňa poskytuje zo svojho informačného systému zdravotnej poisťovni prostredníctvom informačného systému verejnej správy podľa osobitného predpisu<sup>55c</sup>) elektronicky na účely vykonávania verejného zdravotného poistenia údaje o
 
 - a) fyzickej osobe a jej nemocenských dávkach v rozsahu meno, priezvisko, rodné číslo, alebo ak ide o cudzinca, identifikačné číslo sociálneho zabezpečenia pridelené Sociálnou poisťovňou, dátum narodenia, bydlisko, dátum začiatku a ukončenia poberania nemocenskej dávky, druh nemocenskej dávky, druh poistného vzťahu v Sociálnej poisťovni, dátum začiatku a ukončenia podporného obdobia,
 
@@ -76,4 +80,4 @@
 
 - f) osobách, na ktoré sa podľa osobitných predpisov<sup>3a</sup>) vzťahujú právne predpisy Slovenskej republiky v rozsahu meno, priezvisko, dátum narodenia, rodné číslo, alebo ak ide o cudzinca, identifikačné číslo sociálneho zabezpečenia pridelené Sociálnou poisťovňou, adresa trvalého pobytu alebo adresa na doručovanie a dátum začiatku a ukončenia uplatňovania právnych predpisov Slovenskej republiky, štát uplatniteľnej legislatívy, štát, ktorý vydal prenosný dokument, číslo prenosného dokumentu, charakter pozície.
 
-(20) Povinnosť platiť poistné na verejné zdravotné poistenie sa nevzťahuje na dividendy vyplácané zo zisku dosiahnutého v účtovnom období, ktoré sa začalo 1. januára 2017 alebo neskôr.
+(21) Povinnosť platiť poistné na verejné zdravotné poistenie sa nevzťahuje na dividendy vyplácané zo zisku dosiahnutého v účtovnom období, ktoré sa začalo 1. januára 2017 alebo neskôr.

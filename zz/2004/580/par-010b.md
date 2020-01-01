@@ -2,7 +2,19 @@
 
 (1) Zárobková činnosť podľa tohto zákona je, ak osobitný predpis<sup>16h</sup>) alebo medzinárodná zmluva, ktorá má prednosť pred zákonmi Slovenskej republiky, neustanovuje inak, činnosť vyplývajúca z právneho vzťahu, ktorý zakladá
 
-- a) právo na príjem zo závislej činnosti podľa osobitného predpisu<sup>18</sup>) okrem príjmov z dohody o brigádnickej práci študentov, dohody o vykonaní práce poberateľov výsluhového dôchodku z výsluhového zabezpečenia policajtov a vojakov, ak dovŕšili dôchodkový vek podľa osobitného predpisu,<sup>8ab</sup>) poberateľov invalidného výsluhového dôchodku z výsluhového zabezpečenia policajtov a vojakov, poberateľov starobného dôchodku, poberateľov predčasného starobného dôchodku alebo poberateľov invalidného dôchodku, dohody o pracovnej činnosti poberateľov výsluhového dôchodku z výsluhového zabezpečenia policajtov a vojakov, ak dovŕšili dôchodkový vek podľa osobitného predpisu,<sup>8ab</sup>) poberateľov invalidného výsluhového dôchodku z výsluhového zabezpečenia policajtov a vojakov, poberateľov starobného dôchodku, poberateľov predčasného starobného dôchodku alebo poberateľov invalidného dôchodku, odchodného, výsluhového príspevku alebo rekreačnej starostlivosti podľa osobitného predpisu,<sup>19a</sup>)
+- a) právo na príjem zo závislej činnosti podľa osobitného predpisu<sup>18</sup>) okrem príjmov
+
+  - 1. z dohody o brigádnickej práci študentov,
+
+  - 2. zo zmluvy o výkone činnosti športového odborníka fyzickej osoby, ktorá má štatút žiaka strednej školy alebo štatút študenta dennej formy vysokoškolského štúdia podľa osobitného predpisu a ktorá nedovŕšila 26 rokov veku,
+
+  - 3. z dohody o vykonaní práce poberateľov výsluhového dôchodku z výsluhového zabezpečenia policajtov a vojakov, ak dovŕšili dôchodkový vek podľa osobitného predpisu,<sup>8ab</sup>) poberateľov invalidného výsluhového dôchodku z výsluhového zabezpečenia policajtov a vojakov,<sup>19a</sup>) poberateľov starobného dôchodku, poberateľov predčasného starobného dôchodku alebo poberateľov invalidného dôchodku,
+
+  - 4. z dohody o pracovnej činnosti poberateľov výsluhového dôchodku z výsluhového zabezpečenia policajtov a vojakov, ak dovŕšili dôchodkový vek podľa osobitného predpisu,<sup>8ab</sup>) poberateľov invalidného výsluhového dôchodku z výsluhového zabezpečenia policajtov a vojakov,<sup>19a</sup>) poberateľov starobného dôchodku, poberateľov predčasného starobného dôchodku alebo poberateľov invalidného dôchodku, odchodného, výsluhového príspevku,
+
+  - 5. zo zmluvy o výkone činnosti športového odborníka poberateľov výsluhového dôchodku z výsluhového zabezpečenia policajtov a vojakov, ak dovŕšili dôchodkový vek podľa osobitného predpisu,<sup>8ab</sup>) poberateľov invalidného výsluhového dôchodku z výsluhového zabezpečenia policajtov a vojakov,<sup>19a</sup>) poberateľov starobného dôchodku, poberateľov predčasného starobného dôchodku alebo poberateľov invalidného dôchodku,
+
+  - 6. z rekreačnej starostlivosti podľa osobitného predpisu,<sup>19a</sup>)
 
 - b) dosahovanie príjmu z podnikania a z inej samostatnej zárobkovej činnosti podľa osobitného predpisu<sup>20</sup>) okrem príjmu z výkonu činnosti osobného asistenta,<sup>21</sup>)
 

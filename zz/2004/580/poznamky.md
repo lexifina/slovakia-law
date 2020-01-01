@@ -26,6 +26,8 @@
 
 - 6) § 62 ods. 1 zákona č. 48/2002 Z. z. v znení neskorších predpisov.
 
+- 6a) Zákon č. 231/2019 Z. z. o výkone detencie a o zmene a doplnení niektorých zákonov.
+
 - 7) Zákon Národnej rady Slovenskej republiky č. 156/1993 Z. z. o výkone väzby v znení neskorších predpisov.
 
 - 8) Zákon č. 59/1965 Zb. o výkone trestu odňatia slobody v znení neskorších predpisov.
@@ -39,6 +41,8 @@
 - 8aaa) Zákon č. 404/2011 Z. z. v znení neskorších predpisov.
 
 - 8aab) § 62 ods. 4 zákona č. 404/2011 Z. z.
+
+- 8aac) § 35 zákona č. 440/2015 Z. z. o športe a o zmene a doplnení niektorých zákonov.
 
 - 8ab) § 65 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
