@@ -666,4 +666,4 @@ Príloha k zákonu č. 564/2001 Z. z.
 
     - 9. | 1 145,50
 
-    - [Stupnica platových taríf](../assets/957384eeb5112d12a22f7740eb2d78c12a1321e19b87cea02eceedbd9436ce07.pdf)
+    - [Stupnica platových taríf](../assets/d2d7dccfc1a76863f4428ae998795e45c1c669be242f319c013f880a5352df00.pdf)
