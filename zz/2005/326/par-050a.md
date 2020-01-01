@@ -6,4 +6,6 @@
 
 (3) Súhlas zakladateľa na zámenu možno dať len vtedy, ak sa ostatný majetok vo vlastníctve štátu zamieňa za lesné pozemky a lesné porasty na nich vo vlastníctve iných osôb alebo za zastavané plochy a nádvoria a ostatné plochy vo vlastníctve iných osôb. Hodnota ostatného majetku vo vlastníctve štátu nesmie byť vyššia ako hodnota lesných pozemkov a lesných porastov na nich vo vlastníctve iných osôb alebo ako hodnota zastavaných plôch a nádvorí alebo ostatných plôch vo vlastníctve iných osôb.
 
-(4) Na rozhodovanie podľa odsekov 2 a 3 sa nevzťahuje všeobecný predpis o správnom konaní.<sup>12</sup>)
+(4) Ostatný majetok vo vlastníctve štátu, na ktorom podľa záväznej časti územnoplánovacej dokumentácie<sup>74c</sup>) alebo podľa uznesenia obecného zastupiteľstva, ak ide o obec, ktorá nie je povinná mať územný plán podľa osobitného predpisu,<sup>74d</sup>) majú byť umiestnené verejnoprospešné stavby,<sup>72b</sup>) alebo ktoré majú slúžiť verejnoprospešnému účelu, možno predať priamym predajom za cenu určenú znaleckým posudkom podľa predpisov o stanovení všeobecnej hodnoty majetku<sup>72</sup>) obci, na ktorej území sa tento majetok nachádza.
+
+(5) Na rozhodovanie podľa odsekov 2 a 3 sa nevzťahuje všeobecný predpis o správnom konaní.<sup>12</sup>)

@@ -10,7 +10,7 @@
 
 - c) správca, ktorý je obhospodarovateľom lesa v poraste najbližšom k dotknutému lesnému pozemku, ak v lehote podľa odseku 2 nebola predložená ponuka podľa odseku 3.
 
-(2) Orgán štátnej správy lesného hospodárstva zašle vlastníkovi alebo obhospodarovateľovi lesa podľa § 4a ods. 1 písm. c) výzvu, aby do 60 dní odo dňa doručenia výzvy zaslal orgánu štátnej správy lesného hospodárstva oznámenie o zabezpečení odborného hospodárenia v lesoch a podal návrh na zápis do evidencie lesných pozemkov podľa § 4a ods. 3 písm. a); výzva obsahuje poučenie o následku podľa odseku 3 písm. a) a b). Orgán štátnej správy lesného hospodárstva zároveň oznámi zaslanie výzvy podľa prvej vety obhospodarovateľom lesa v porastoch susediacich s dotknutým lesným pozemkom; výzva je súčasťou oznámenia.
+(2) Orgán štátnej správy lesného hospodárstva zašle vlastníkovi alebo obhospodarovateľovi lesa podľa § 4a ods. 1 písm. c) výzvu, aby do 60 dní odo dňa doručenia výzvy zaslal orgánu štátnej správy lesného hospodárstva oznámenie o zabezpečení odborného hospodárenia v lesoch a podal návrh na zápis do evidencie lesných pozemkov podľa § 4a ods. 3 písm. a); výzva obsahuje poučenie o následku podľa odseku 4 písm. a) a b). Orgán štátnej správy lesného hospodárstva zároveň oznámi zaslanie výzvy podľa prvej vety obhospodarovateľom lesa v porastoch susediacich s dotknutým lesným pozemkom; výzva je súčasťou oznámenia. Za porasty susediace s dotknutým lesným pozemkom sa považujú porasty, ktoré je možné s dotknutým porastom racionálne obhospodarovať.
 
 (3) Obhospodarovateľ lesa, ktorému bolo zaslané oznámenie podľa odseku 2 druhej vety, je oprávnený predložiť orgánu štátnej správy lesného hospodárstva ponuku na zabezpečenie osobitného obhospodarovania lesa na dotknutom lesnom pozemku uvedenom vo výzve podľa odseku 2. Ponuka podľa prvej vety obsahuje najmä
 
@@ -32,7 +32,7 @@
 
 - c) to ustanovuje osobitný predpis.<sup>75h</sup>)
 
-(5) Rozhodnutie o osobitnom obhospodarovaní lesa obsahuje zoznam vlastníkov a lesných pozemkov, ku ktorým vznikne povinnosť osobitného obhospodarovania lesa, a určenie obhospodarovateľa lesa alebo správcu, ktorému vzniká povinnosť osobitného obhospodarovania lesa. Na rozhodnutie o osobitnom obhospodarovaní lesa sa primerane použije § 24 až 25a, 27, 30, 32, 40, 46, 47, 51 a 52 správneho poriadku.
+(5) Rozhodnutie o osobitnom obhospodarovaní lesa obsahuje zoznam vlastníkov a lesných pozemkov, ku ktorým vznikne povinnosť osobitného obhospodarovania lesa, a určenie obhospodarovateľa lesa alebo správcu, ktorému vzniká povinnosť osobitného obhospodarovania lesa. Na rozhodnutie o osobitnom obhospodarovaní lesa sa primerane použije § 24 až 27, 30, 32, 40, 46, 47, 51 a 52 správneho poriadku.
 
 (6) Orgán štátnej správy lesného hospodárstva v rozhodnutí podľa odseku 5 určí za obhospodarovateľa lesa, ktorému vzniká povinnosť osobitného obhospodarovania lesa,
 

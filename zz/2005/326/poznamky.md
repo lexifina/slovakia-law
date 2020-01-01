@@ -2,6 +2,8 @@
 
 - 1a) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 995/2010 z 20. októbra 2010, ktorým sa ustanovujú povinnosti hospodárskych subjektov uvádzajúcich na trh drevo a výrobky z dreva (Ú. v. EÚ L 295, 12. 11. 2010).
 
+- 1b) Napríklad zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, zákon č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov, zákon č. 538/2005 Z. z. o prírodných liečivých vodách, prírodných liečebných kúpeľoch, kúpeľných miestach a prírodných minerálnych vodách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 2) § 2 písm. b) zákona č. 478/2002 Z. z. o ochrane ovzdušia a ktorým sa dopĺňa zákon č. 401/1998 Z. z. o poplatkoch za znečisťovanie ovzdušia v znení neskorších predpisov (zákon o ovzduší) v znení zákona č. 541/2004 Z. z.
 
 - 3) Napríklad § 5 ods. 4 zákona č. 281/1997 Z. z. o vojenských obvodoch a zákon, ktorým sa mení a dopĺňa zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 17 zákona č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov, § 65 ods. 1 písm. k) devätnásty bod zákona č. 543/2002 Z. z. o ochrane prírody a krajiny.
@@ -9,6 +11,8 @@
 - 3a) Zákon Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a pozemkových spoločenstvách v znení neskorších predpisov.
 
 - Zákon č. 220/2004 Z. z. o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení zákona č. 359/2007 Z. z.
+
+- 3aa) § 22 zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení zákona č. 160/1996 Z. z.
 
 - 4) § 1 ods. 1 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení zákona č. 173/2004 Z. z.
 
@@ -72,7 +76,9 @@
 
 - 20) § 6 a 7 zákona č. 274/2009 Z. z. o poľovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 21) § 17 zákona č. 543/2002 Z. z.
+- 21) § 17 a 27 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
+
+- 21a) § 17 ods. 11 zákona č. 543/2002 Z. z. v znení zákona č. 506/2013 Z. z.
 
 - 22) § 4 ods. 2 zákona č. 217/2004 Z. z. o lesnom reprodukčnom materiáli a o zmene niektorých zákonov.
 
@@ -82,11 +88,17 @@
 
 - 23a) § 65 ods. 1 písm. k) zákona č. 543/2002 Z. z.
 
+- 23aa) Čl. 7 písm. k) Protokolu o trvalo udržateľnom obhospodarovaní lesov k Rámcovému dohovoru o ochrane a trvalo udržateľnom rozvoji Karpát (oznámenie č. 304/2013 Z. z.).
+
 - 24) Napríklad zákon č. 543/2002 Z. z. v znení neskorších predpisov, zákon č. 364/2004 Z. z. v znení neskorších predpisov.
 
 - 25) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 26) § 32 zákona č. 364/2004 Z. z. v znení zákona č. 230/2005 Z. z.
+
+- 27) § 54 ods. 4 písm. a) zákona č. 543/2002 Z. z.
+
+- 27a) § 65a zákona č. 543/2002 Z. z. v znení neskorších predpisov.
 
 - 28) § 10 a 67 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
 
@@ -98,9 +110,15 @@
 
 - 31) Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
-- 32) § 67 písm. i) zákona č. 543/2002 Z. z. v znení neskorších predpisov.
+- 32) Zákon č. 543/2002 Z. z. v znení neskorších predpisov.
 
-- 33) § 67 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
+- 32a) § 26 ods. 6 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
+
+- 32aa) § 13 ods. 6, § 14 ods. 6, § 15 ods. 4 a § 26 ods. 5 zákona č. 543/2002 Z. z. v znení zákona č. 356/2019 Z. z.
+
+- 32ab) § 65a ods. 2 písm. i) zákona č. 543/2002 Z. z. v znení zákona č. 356/2019 Z. z.
+
+- 33) § 68 písm. j) zákona č. 543/2002 Z. z. v znení neskorších predpisov.
 
 - 33a) Čl. 2 písm. b) nariadenia (EÚ) č. 995/2010.
 
@@ -134,7 +152,13 @@
 
 - Vyhláška Ministerstva vnútra Slovenskej republiky č. 121/2002 Z. z. o požiarnej prevencii.
 
-- 43) § 65 ods. 1 písm. k) siedmy bod zákona č. 543/2002 Z. z.
+- 43) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) č. 1303/2013 zo 17. decembra 2013, ktorým sa stanovujú spoločné ustanovenia o Európskom fonde regionálneho rozvoja, Európskom sociálnom fonde, Kohéznom fonde, Európskom poľnohospodárskom fonde pre rozvoj vidieka a Európskom námornom a rybárskom fonde a ktorým sa stanovujú všeobecné ustanovenia o Európskom fonde regionálneho rozvoja, Európskom sociálnom fonde, Kohéznom fonde a Európskom námornom a rybárskom fonde, a ktorým sa zrušuje nariadenie Rady (ES) č. 1083/2006 (Ú. v. EÚ L 347, 20. 12. 2013) v platnom znení, zákon č. 543/2002 Z. z. v znení neskorších predpisov, zákon č. 587/2004 Z. z. o Environmentálnom fonde a o zmene a doplnení niektorých zákonov v znení zákona č. 207/2013 Z. z.
+
+- 43a) § 47 ods. 4 písm. k) zákona č. 543/2002 Z. z. v znení neskorších predpisov.
+
+- 43b) § 47 ods. 7 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
+
+- 43c) § 28 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
 
 - 44) Čl. 4 ods. 1 písm. b) nariadenia Európskeho parlamentu a Rady (ES) č. 2152/2003 zo 17. novembra 2003 týkajúce sa monitorovania lesov a environmentálnych interakcií v spoločenstve (Ú. v. EÚ L 324, 11. 12. 2003) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 788/2004 (Ú. v. EÚ L 138, 30. 4. 2004).
 
@@ -188,9 +212,11 @@
 
 - 57) Napríklad § 9 ods. 1 písm. n) zákona č. 543/2002 Z. z., zákon č. 364/2004 Z. z. v znení neskorších predpisov.
 
-- 57a) § 9 ods. 1 písm. m) a § 103 ods. 7 až 9 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
+- 57a) § 103 ods. 6 zákona č. 543/2002 Z. z.
 
-- 58) § 9 ods. 1 písm. n) a § 67 písm. g) zákona č. 543/2002 Z. z. v znení neskorších predpisov.
+- 57aa) § 28 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
+
+- 57b) § 6 zákona č. 150/2019 Z. z. o prevencii a manažmente introdukcie a šírenia inváznych nepôvodných druhov a o zmene a doplnení niektorých zákonov.
 
 - 59) Napríklad § 10 zákona č. 136/2000 Z. z. o hnojivách v znení zákona č. 555/2004 Z. z.
 
@@ -236,13 +262,25 @@
 
 - 72a) § 611 Občianskeho zákonníka.
 
+- 72b) § 10 ods. 2 písm. f) a § 11 ods. 5 písm. g) zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
 - 73) § 11 ods. 6 zákona Slovenskej národnej rady č. 330/1991 Zb. v znení neskorších predpisov.
+
+- 73a) § 61a zákona č. 543/2002 Z. z. v znení neskorších predpisov.
 
 - 74) § 1 ods. 2 písm. b) zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení zákona č. 374/1996 Z. z.
 
 - 74a) § 17 zákona č. 229/1991 Zb. v znení neskorších predpisov.
 
 - 74b) § 6 ods. 1 zákona č. 111/1990 Zb. o štátnom podniku.
+
+- 74c) § 8 a 27 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 74d) § 11 ods. 2 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 74e) § 108 ods. 2 písm. a) a ods. 3 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 74f) § 139 ods. 1 písm. a) a b) zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 75) Napríklad § 18 až 20a a § 20f až 21 Občianskeho zákonníka v znení neskorších predpisov.
 
@@ -282,6 +320,8 @@
 
 - 83) Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
+- 83a) § 10 zákona č. 113/2018 Z. z. o uvádzaní dreva a výrobkov z dreva na vnútorný trh a o zmene a doplnení zákona č. 280/2017 Z. z. o poskytovaní podpory a dotácie v pôdohospodárstve a rozvoji vidieka a o zmene zákona č. 292/2014 Z. z. o príspevku poskytovanom z európskych štrukturálnych a investičných fondov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 84) Napríklad zákon č. 138/2010 Z. z. v znení neskorších prepisov, zákon č. 97/2013 Z. z. o pozemkových spoločenstvách v znení zákona č. 34/2014 Z. z.
 
 - 85) Zákon č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -312,6 +352,10 @@
 
 - 97a) Napríklad zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov, Nariadenie Komisie (ES) č. 1857/2006 z 15. decembra 2006 o uplatňovaní článkov 87 a 88 zmluvy o štátnej pomoci pre malé a stredné podniky (MSP) pôsobiace v poľnohospodárskej výrobe, ktorým sa mení a dopĺňa nariadenie (ES) č. 70/2001 (Ú. v. EÚ L 358, 16. 12. 2006).
 
+- 97b) § 9 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
+
 - 98) § 7 ods. 1 zákona Slovenskej národnej rady č. 372/1990 Zb.
 
 - 99) Zákon č. 293/2007 Z. z. o uznávaní odborných kvalifikácií.
+
+- 100) § 104g ods. 11 zákona č. 543/2002 Z. z. v znení zákona č. 356/2019 Z. z.

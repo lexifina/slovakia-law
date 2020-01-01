@@ -82,7 +82,7 @@
 
 (11) Ak orgán štátnej správy lesného hospodárstva vyhovie návrhu na zápis do evidencie lesných pozemkov v plnom rozsahu, rozhodnutie o zápise do evidencie lesných pozemkov neobsahuje odôvodnenie.
 
-(12) Ak orgán štátnej správy lesného hospodárstva nevyhovie návrhu na zápis do evidencie lesných pozemkov v plnom rozsahu, vykoná zápis obhospodarovateľa lesa a hospodára alebo právnickú osobu podľa § 47 ods. 2 do evidencie lesných pozemkov k porastu alebo jeho časti v rozsahu, v ktorom návrhu na zápis do evidencie lesných pozemkov vyhovie.
+(12) Ak orgán štátnej správy lesného hospodárstva nevyhovie návrhu na zápis do evidencie lesných pozemkov v plnom rozsahu, vykoná zápis obhospodarovateľa lesa a hospodára alebo právnickej osoby podľa § 47 ods. 2 do evidencie lesných pozemkov k porastu alebo jeho časti v rozsahu, v ktorom návrhu na zápis do evidencie lesných pozemkov vyhovie.
 
 (13) Orgán štátnej správy lesného hospodárstva bezodkladne zašle účastníkom konania oznámenie o nadobudnutí právoplatnosti rozhodnutia o zápise do evidencie lesných pozemkov. Ak bolo proti rozhodnutiu o zápise do evidencie lesných pozemkov podané odvolanie len v časti rozhodnutia podľa § 4c ods. 3, orgán štátnej správy lesného hospodárstva v oznámení podľa prvej vety zároveň uvedie, v ktorej časti napadnuté rozhodnutie nadobúda právoplatnosť.
 

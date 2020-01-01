@@ -1,6 +1,6 @@
 # § 4c Odvolanie a návrh na preskúmanie mimo odvolacieho konania
 
-(1) Odvolanie proti rozhodnutiu o zápise do evidencie lesných pozemkov podľa § 4a ods. 9 písm. a) alebo návrh na preskúmanie rozhodnutia tohto rozhodnutia mimo odvolacieho konania môže podať v časti, ktorá sa ho týka,
+(1) Odvolanie proti rozhodnutiu o zápise do evidencie lesných pozemkov podľa § 4a ods. 9 písm. a) alebo návrh na preskúmanie tohto rozhodnutia mimo odvolacieho konania môže podať v časti, ktorá sa ho týka,
 
 - a) účastník konania podľa § 4a ods. 2, iná fyzická osoba, fyzická osoba – podnikateľ alebo právnická osoba, ak preukáže, že v čase vydania rozhodnutia mala právny vzťah k dotknutým lesným pozemkom podľa § 4a ods. 5 písm. a) až c), alebo
 
@@ -20,10 +20,10 @@
 
 - a) odseku 4 písm. a) nadobúda právoplatnosť piatym pracovným dňom po jeho vydaní; okresný úrad v sídle kraja rozhodnutie zašle v deň jeho vydania orgánu štátnej správy lesného hospodárstva, ktorý napadnuté rozhodnutie vydal,
 
-- b) odseku 4 písm. b) nadriadený orgán štátneho lesného hospodárstva zašle bezodkladne po nadobudnutí právoplatnosti orgánu štátnej správy lesného hospodárstva, ktorý napadnuté rozhodnutie vydal, a účastníkom konania zašle oznámenie podľa § 4a ods. 13; na nadobudnutie právoplatnosti rozhodnutia sa primerane vzťahuje odsek 3.
+- b) odseku 4 písm. b) okresný úrad v sídle kraja zašle bezodkladne po nadobudnutí právoplatnosti orgánu štátnej správy lesného hospodárstva, ktorý napadnuté rozhodnutie vydal, a účastníkom konania zašle oznámenie podľa § 4a ods. 13; na nadobudnutie právoplatnosti rozhodnutia sa primerane vzťahuje odsek 3.
 
 (6) Orgán štátnej správy lesného hospodárstva, ktorý napadnuté rozhodnutie vydal, vykoná zápis v evidencii lesných pozemkov bezodkladne po doručení rozhodnutia podľa odseku 5.
 
 (7) Obhospodarovateľ lesa zapísaný v evidencii lesných pozemkov je v porastoch, ktorých sa návrh na preskúmanie rozhodnutia mimo odvolacieho konania podľa odseku 1 týka, do nadobudnutia právoplatnosti rozhodnutia o zápise do evidencie lesných pozemkov podľa odseku 4 až 6 povinný zdržať sa výkonu práv a povinností obhospodarovateľa lesa okrem plnenia povinností pri ochrane lesa (§ 28) a vykonania mimoriadnej ťažby podľa § 31 ods. 3.
 
-(8) Na konanie o odvolaní a na konanie o preskúmaní mimo odvolacieho konania sa primerane použije § 53 až 58, § 59 ods. 4, § 60 až 61 a § 65 až 68 správneho poriadku.
+(8) Na konanie o odvolaní a na konanie o preskúmaní rozhodnutia mimo odvolacieho konania sa primerane použije § 53 až 58, § 59 ods. 4, § 60 až 61 a § 65 až 68 správneho poriadku.
