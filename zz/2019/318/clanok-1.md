@@ -1,0 +1,17 @@
+# Čl. I
+
+Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení zákona č. 350/2004 Z. z., zákona č. 651/2004 Z. z., zákona č. 340/2005 Z. z., zákona č. 523/2005 Z. z., zákona č. 656/2006 Z. z., zákona č. 215/2007 Z. z., zákona č. 593/2007 Z. z., zákona č. 378/2008 Z. z., zákona č. 465/2008 Z. z., zákona č. 83/2009 Z. z., zákona č. 258/2009 Z. z., zákona č. 471/2009 Z. z., zákona č. 563/2009 Z. z., zákona č. 83/2010 Z. z., zákona č. 490/2010 Z. z., zákona č. 331/2011 Z. z., zákona č. 406/2011 Z. z., zákona č. 246/2012 Z. z., zákona č. 440/2012 Z. z., zákona č. 360/2013 Z. z., zákona č. 218/2014 Z. z., zákona č. 268/2015 Z. z., zákona č. 360/2015 Z. z., zákona č. 297/2016 Z. z., zákona č. 298/2016 Z. z., zákona č. 334/2017 Z. z., zákona č. 112/2018 Z. z., zákona č. 323/2018 Z. z., zákona č. 368/2018 Z. z., zákona č. 369/2018 Z. z. a zákona č. 317/2019 Z. z. sa mení a dopĺňa takto:
+
+- 1. V prílohe č. 7 sa vypúšťa číselný kód Spoločného colného sadzobníka „ex 1905 90 30 – Chlieb, neobsahujúci pridaný med, vajcia, syr alebo ovocie a obsahujúci v sušine najviac 5 % hmotnosti cukrov a najviac 5 % hmotnosti tuku – len čerstvý chlieb podľa osobitného predpisu<sup>2</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 2 sa vypúšťa.
+
+- 2. V prílohe č. 7 sa za číselný kód Spoločného colného sadzobníka „ex 0405 10 – Maslo“ vkladajú číselné kódy Spoločného colného sadzobníka „0403 – Cmar, kyslé mlieko a smotana, jogurt, kefír a ostatné fermentované alebo acidofilné mlieko a smotana, tiež zahustené alebo obsahujúce pridaný cukor alebo ostatné sladidlá alebo ochutené alebo obsahujúce pridané ovocie, orechy alebo kakao“, „0406 – Syry a tvaroh – len ovčia bryndza podľa osobitného predpisu<sup>2</sup>)“, „0409 00 00 – Prírodný med“, „0701 – Zemiaky, čerstvé alebo chladené“, „0702 00 00 – Rajčiaky, čerstvé alebo chladené“, „0703 – Cibuľa, šalotka, cesnak, pór a ostatná cibuľová zelenina, čerstvá alebo chladená“, „0704 – Kapusta, karfiol, kaleráb, kel a podobná jedlá hlúbovitá zelenina, čerstvé alebo chladené“, „0705 – Hlávkový šalát (Lactuca sativa) a čakanka (Cichorium spp.), čerstvé alebo chladené“, „0707 00 – Uhorky šalátové a uhorky nakladačky, čerstvé alebo chladené“, „0708 – Strukoviny, lúpané alebo nelúpané, čerstvé alebo chladené“, „0709 – Ostatná zelenina, čerstvá alebo chladená“, „0808 – Jablká, hrušky a duly, čerstvé“, „1905 – Chlieb, sladké pečivo, koláče, sušienky a ostatné pekárske výrobky, tiež obsahujúce kakao; hostie, prázdne oblátky druhu vhodného na farmaceutické účely, oblátky na pečenie, ryžový papier a podobné výrobky – len čerstvý chlieb podľa osobitného predpisu<sup>3</sup>) a len čerstvé pečivo podľa osobitného predpisu<sup>4</sup>) v hmotnosti 40 g až 50 g“ a „ex 2009 – Šťavy ovocné (vrátane hroznového muštu) a šťavy zeleninové, nekvasené a neobsahujúce pridaný alkohol, tiež obsahujúce pridaný cukor alebo ostatné sladidlá – len šťavy bez pridaného cukru alebo šťavy s pridaným cukrom maximálne 5 g na 100 ml.“.
+
+  - Poznámky pod čiarou k odkazom 2 až 4 znejú:
+
+  - „<sup>2</sup>) § 9 ods. 8 písm. a) vyhlášky Ministerstva pôdohospodárstva a rozvoja vidieka Slovenskej republiky č. 343/2016 Z. z. o niektorých výrobkoch z mlieka.
+
+  - <sup>3</sup>) § 2 písm. c) a i) vyhlášky Ministerstva pôdohospodárstva a rozvoja vidieka Slovenskej republiky č. 24/2014 Z. z. o pekárskych výrobkoch, cukrárskych výrobkoch a cestovinách.
+
+  - <sup>4</sup>) § 2 písm. e) a i) vyhlášky č. 24/2014 Z. z.“.
