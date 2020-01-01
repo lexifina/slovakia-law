@@ -2,6 +2,20 @@
 
 Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení zákona č. 196/2000 Z. z., zákona č. 276/2001 Z. z., zákona č. 436/2002 Z. z., zákona č. 465/2002 Z. z., zákona č. 520/2003 Z. z., zákona č. 523/2004 Z. z., zákona č. 68/2005 Z. z., zákona č. 117/2006 Z. z., zákona č. 659/2007 Z. z., zákona č. 382/2008 Z. z., zákona č. 488/2009 Z. z., zákona č. 513/2009 Z. z., zákona č. 260/2011 Z. z., zákona č. 356/2013 Z. z. a zákona č. 125/2016 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 2 ods. 3 písmená a) a b) znejú:
+
+- „a)
+
+- ekonomicky oprávnenými nákladmi rozumejú skutočné priame náklady a skutočné nepriame náklady spojené s funkciami výroby, správy, odbytu, výskumu a vývoja vrátane k nim prislúchajúcich nepriamych nákladov, ktoré by vzhľadom na vykonávané funkcie, riziká a trhové podmienky boli uplatnené pri použití metódy čistého obchodného rozpätia,<sup>3a</sup>) pričom funkciami odbytu okrem činností predaja sa rozumejú aj činnosti spojené s propagáciou, sprostredkovaním predaja a marketingom predávaných výrobkov,
+
+- b)
+
+- primeranou ziskovou prirážkou rozumie prirážka, ktorá by vzhľadom na vykonávané funkcie, riziká a trhové podmienky bola uplatnená vo vzťahu k iným nezávislým osobám.“.
+
+  - Poznámka pod čiarou k odkazu 3a znie:
+
+  - „<sup>3a</sup>) § 18 ods. 3 písm. b) zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.“.
+
 - 2. V § 4a ods. 1 sa slová „§ 20 ods. 1 písm. a) až e)“ nahrádzajú slovami „§ 20 ods. 1 písm. a), b) a d) až f)“.
 
 - 3. V § 7 prvej vete a § 11 ods. 1 sa slová „§ 20 ods. 1 písm. a) až c)“ nahrádzajú slovami „§ 20 ods. 1 písm. a), b) a d)“.
@@ -61,3 +75,5 @@ Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení 
 - Prechodné ustanovenie k úpravám účinným od 1. mája 2019
 
 - Cenový orgán uvedený v § 20 ods. 1 písm. c) v znení účinnom od 1. mája 2019 vykonáva kontrolu v rozsahu kompetencií ustanovených v § 20 ods. 4 v znení účinnom od 1. mája 2019 po 30. apríli 2019.“.
+
+- 15. Slová „primeraný zisk“ vo všetkých tvaroch sa v celom texte zákona nahrádzajú slovami „primeraná zisková prirážka“ v príslušnom tvare.
