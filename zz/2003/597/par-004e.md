@@ -32,8 +32,12 @@
 
 - e) zabránenie prenosu nákazy prenosného ochorenia,
 
-- f) príplatok za prácu so žiakmi zo sociálne znevýhodneného prostredia.<sup>22h</sup>)
+- f) príplatok za prácu so žiakmi zo sociálne znevýhodneného prostredia,<sup>22h</sup>)
 
-(8) Zriaďovateľ základnej školy, v ktorej sa vzdeláva viac ako 85 žiakov zo sociálne znevýhodneného prostredia, je povinný použiť najmenej 50 % z celkového príspevku na skvalitnenie podmienok na výchovu a vzdelávanie žiakov zo sociálne znevýhodneného prostredia pre základnú školu na osobné náklady asistenta učiteľa pre žiakov zo sociálne znevýhodneného prostredia alebo sociálneho pedagóga.
+- g) zabezpečenie chýbajúcich pomôcok pre žiakov nad rámec dotácie na školské potreby poskytnutej podľa osobitného predpisu.<sup>22i</sup>)
+
+(8) Zriaďovateľ základnej školy, v ktorej sa vzdeláva viac ako 50 žiakov zo sociálne znevýhodneného prostredia, je povinný použiť najmenej 50 % z celkového príspevku na skvalitnenie podmienok na výchovu a vzdelávanie žiakov zo sociálne znevýhodneného prostredia pre základnú školu na osobné náklady asistenta učiteľa pre žiakov zo sociálne znevýhodneného prostredia alebo sociálneho pedagóga.
 
 (9) Výšku príspevku na skvalitnenie podmienok na výchovu a vzdelávanie na žiaka zo sociálne znevýhodneného prostredia každoročne zverejňuje ministerstvo na svojom webovom sídle.
+
+(10) Na účely poskytovania príspevku na skvalitnenie podmienok na výchovu a vzdelávanie žiakov zo sociálne znevýhodneného prostredia sa považuje za žiaka zo sociálne znevýhodneného prostredia aj žiak, ktorý je členom domácnosti,<sup>5b</sup>) ktorej členovi sa poskytuje pomoc v hmotnej núdzi<sup>5c</sup>) a zákonný zástupca žiaka túto skutočnosť preukáže riaditeľovi základnej školy.

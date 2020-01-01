@@ -82,6 +82,8 @@
 
 - 22h) § 14d zákona č. 553/2003 Z. z. v znení zákona č. 390/2011 Z. z.
 
+- 22i) § 4 ods. 2 zákona č. 544/2010 Z. z. o dotáciách v pôsobnosti Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky v znení neskorších predpisov.
+
 - 23) § 117 zákona č. 245/2008 Z. z.
 
 - 23a) § 117 a 139 zákona č. 245/2008 Z. z.
