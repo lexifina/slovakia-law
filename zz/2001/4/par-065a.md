@@ -25,3 +25,5 @@
 (6) Príjemca údajov podľa odseku 3 je oprávnený ďalej spracúvať osobné údaje aj na iný účel, než na aký sa poskytli, len s predchádzajúcim súhlasom zboru.
 
 (7) Zbor môže pri poskytovaní osobných údajov príjemcom určiť obmedzenia vzťahujúce sa k ich ďalšiemu spracúvaniu. Zbor je zároveň viazaný obmedzeniami ďalšieho spracúvania osobných údajov, ktoré uplatnil poskytovateľ pri poskytnutí osobných údajov.
+
+(8) Zbor je oprávnený na plnenie jeho úloh vyhotovovať zvukové, obrazové alebo iné záznamy v chránených objektoch, objektoch súdu, objektoch prokuratúry a v ich okolí a zvukové, obrazové alebo iné záznamy o priebehu služobnej činnosti alebo služobného zákroku. Vyhotovovanie zvukových, obrazových alebo iných záznamov automatickými technickými systémami umiestnenými v objektoch súdu, objektoch prokuratúry, objekte ministerstva alebo objekte, v ktorom sídli Súdna rada Slovenskej republiky, je možné len so súhlasom príslušného súdu, prokuratúry, ministerstva alebo Súdnej rady Slovenskej republiky.

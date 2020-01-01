@@ -16,6 +16,8 @@
 
 - 5b) Čl. 41 Dohovoru, ktorým sa vykonáva Schengenská dohoda zo 14. júna 1985 uzatvorená medzi vládami štátov hospodárskej únie Beneluxu, Nemeckej spolkovej republiky a Francúzskej republiky o postupnom zrušení kontrol na ich spoločných hraniciach (Mimoriadne vydanie Ú. v. EÚ, kap. 19/zv. 2; Ú. v. ES L 239, 22. 9. 2000) v platnom znení.
 
+- 6) Zákon č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
+
 - 7) Napríklad zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov, zákon č. 73/1998 Z. z. v znení neskorších predpisov.
 
 - 7a) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
