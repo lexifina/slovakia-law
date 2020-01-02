@@ -1,1 +1,0 @@
-Ján Richter v. r.
