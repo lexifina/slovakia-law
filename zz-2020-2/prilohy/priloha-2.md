@@ -1,0 +1,3 @@
+Príloha č. 2 k vyhláške č. 2/2020 Z. z.
+
+- OCHRANNÉ PÁSMO II. STUPŇA PRÍRODNÝCH LIEČIVÝCH ZDROJOV V BARDEJOVE [mapa v pdf](../assets/7e6605e77949c751673497460d5e03b9875c7c56075882e9d5e29162a4d1c6ec.pdf)
