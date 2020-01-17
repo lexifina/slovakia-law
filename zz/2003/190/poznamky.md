@@ -62,6 +62,10 @@
 
 - 29) Zákon č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov.
 
+- 29a) Príloha č. 1 časť A tretí bod zákona č. 64/2019 Z. z. o sprístupňovaní strelných zbraní a streliva na civilné použitie na trhu v znení zákona č. 376/2019 Z. z.
+
+- 29b) § 2 písm. c) zákona č. 64/2019 Z. z.
+
 - 30) Nariadenie vlády Slovenskej republiky č. 397/1999 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na strelné zbrane a strelivo v znení nariadenia vlády Slovenskej republiky č. 296/2000 Z. z.
 
 - 30a) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 1214/2011 zo 16. novembra 2011 o profesionálnej cezhraničnej preprave eurovej hotovosti cestnou dopravou medzi členskými štátmi eurozóny (Ú. v. EÚ L 316, 29. 11. 2011).
