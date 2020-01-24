@@ -1,0 +1,1 @@
+[Zmeny vykonávacieho predpisu k Madridskej dohode o medzinárodnom zápise ochranných známok a k protokolu k tejto dohode v Anglickom jazyku](../assets/57b630be93950346c8e56cac0219f8a818e7265acdddabc7c56a16af8285cdaf.pdf)
