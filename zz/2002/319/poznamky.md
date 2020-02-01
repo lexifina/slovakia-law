@@ -8,17 +8,15 @@
 
 - 1d) § 4a zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve v znení zákona č. 69/2018 Z. z.
 
-- 2) Napríklad zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve.
+- 6) § 4 ods. 8 a 9 zákona č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky.
 
-- 3) Zákon č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov.
+- 7) Čl. 2 a 3 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu v znení neskorších predpisov.
 
-- 4) Zákon č. 153/2001 Z. z. o prokuratúre.
+- 7a) Zákon č. 129/2002 Z. z. o integrovanom záchrannom systéme v znení neskorších predpisov.
 
-- 5) § 9 zákona č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky.
+- 7b) § 3 písm. l) zákona č. 179/2011 Z. z. o hospodárskej mobilizácii a o zmene a doplnení zákona č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu v znení neskorších predpisov v znení zákona č. 173/2015 Z. z.
 
-- 6) Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
-
-- 7) Čl. 2 a 3 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu.
+- 7c) § 14e zákona č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov v znení zákona č. 378/2015 Z. z.
 
 - 8) Čl. 102 ods. 1 písm. m) a čl. 119 písm. n) Ústavy Slovenskej republiky v znení ústavného zákona č. 90/2001 Z. z.
 
@@ -50,7 +48,13 @@
 
 - 12) Čl. 11 ods. 6 ústavného zákona č. 227/2002 Z. z.
 
-- 15c) § 7 ods. 3 zákona č. 428/2002 Z. z. o ochrane osobných údajov v znení zákona č. 90/2005 Z. z.
+- 15c) § 13 ods. 1 písm. c) a písm. e) zákona č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
+
+- 15ca) § 5 ods. 2 zákona č. 569/2005 Z. z. v znení neskorších predpisov.
+
+- § 21 ods. 5 zákona č. 570/2005 Z. z. v znení neskorších predpisov.
+
+- 15cb) § 6 zákona č. 180/2013 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 15d) § 4a ods. 3 zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z. v znení zákona č. 69/2018 Z. z.
 
@@ -80,7 +84,15 @@
 
 - 20ag) § 45a zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
-- 21) § 4 písm. a), d), e) a f) zákona č. 414/2002 Z. z. o hospodárskej mobilizácii a o zmene zákona Národnej rady Slovenskej republiky č. 274/1993 Z. z. o vymedzení pôsobnosti orgánov vo veciach ochrany spotrebiteľa.
+- 20ah) § 11 ods. 3 zákona č. 172/2005 Z. z. o organizácii štátnej podpory výskumu a vývoja a o doplnení zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov v znení zákona č. 233/2008 Z. z.
+
+- 20ai) § 11 písm. a) zákona č. 179/2011 Z. z. v znení neskorších predpisov.
+
+- 20aj) Napríklad Zmluva medzi štátmi, ktoré sú stranami Severoatlantickej zmluvy, a inými štátmi zúčastnenými v Partnerstve za mier vzťahujúca sa na štatút ich ozbrojených síl (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 324/1997 Z. z.) v znení dodatkového protokolu (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 325/1997 Z. z.) a ďalšieho dodatkového protokolu (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 370/2001 Z. z.), Zmluva medzi štátmi, ktoré sú zmluvnými stranami Severoatlantickej zmluvy, vzťahujúca sa na status ich ozbrojených síl (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 566/2004 Z. z.).
+
+- 21) § 4 ods. 1 písm. a), d), e) a f) zákona č. 179/2011 Z. z.
+
+- 21a) Zákon č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 22) Napríklad Zákonník práce, Občiansky zákonník.
 
