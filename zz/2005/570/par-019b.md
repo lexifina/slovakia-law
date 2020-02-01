@@ -10,8 +10,8 @@
 
 (2) Príspevok podľa odseku 1 je za každý kalendárny deň výkonu mimoriadnej služby
 
-- a) 3,5 % hodnostného platu prvého platového stupňa hodnosti vojak 2. stupňa,<sup>24</sup>) ak vykonával mimoriadnu službu v čase výnimočného stavu alebo núdzového stavu, alebo
+- a) 3,5 % hodnostného platu, ktorý je ustanovený pre profesionálneho vojaka vo vojenskej hodnosti vojak 2. stupňa, bez zvýšenia funkčnej tarify a bez zvýšenia hodnostného platu za čas trvania štátnej služby, ak vykonával mimoriadnu službu v čase výnimočného stavu alebo núdzového stavu, alebo
 
-- b) 7 % hodnostného platu prvého platového stupňa hodnosti vojak 2. stupňa,<sup>24</sup>) ak vykonával mimoriadnu službu v čase vojny alebo vojnového stavu.
+- b) 7 % hodnostného platu, ktorý je ustanovený pre profesionálneho vojaka vo vojenskej hodnosti vojak 2. stupňa, bez zvýšenia funkčnej tarify a bez zvýšenia hodnostného platu za čas trvania štátnej služby, ak vykonával mimoriadnu službu v čase vojny alebo vojnového stavu.
 
 (3) Príspevok sa zaokrúhľuje na celé euro nahor.

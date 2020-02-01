@@ -4,7 +4,7 @@
 
 - a) motivačný príspevok v sume 600 eur za každý kalendárny rok zotrvania v aktívnych zálohách; príspevok sa nevyplatí, ak vojak v aktívnej zálohe absolvuje menej ako 75 % určenej doby pravidelného cvičenia a plnenia úloh ozbrojených síl v kalendárnom roku,
 
-- b) pomerná časť hodnostného platu<sup>24</sup>) patriaceho za čas pravidelného cvičenia alebo plnenia úloh ozbrojených síl z prvého platového stupňa vojenskej hodnosti, ktorú dosiahol; pomerná časť hodnostného platu sa nevyplatí za dni neprítomnosti vojaka v aktívnej zálohe počas pravidelného cvičenia alebo plnenia úloh ozbrojených síl,
+- b) pomerná časť hodnostného platu<sup>24</sup>) patriaceho za čas pravidelného cvičenia alebo plnenia úloh ozbrojených síl ustanoveného pre vojenskú hodnosť, ktorú dosiahol, a ak vojak v aktívnej zálohe dosiahol vojenskú hodnosť vojak 1. stupňa z hodnostného platu ustanoveného pre vojenskú hodnosť vojak 2. stupňa, bez zvýšenia funkčnej tarify<sup>24a</sup>) a bez zvýšenia hodnostného platu za čas trvania štátnej služby;<sup>24b)</sup> pomerná časť hodnostného platu sa nevyplatí za dni neprítomnosti vojaka v aktívnej zálohe počas pravidelného cvičenia alebo plnenia úloh ozbrojených síl,
 
 - c) naturálne náležitosti primerané potrebám pravidelného cvičenia alebo plnenia úloh ozbrojených síl ustanovené služobným predpisom, ktorý vydá minister,
 

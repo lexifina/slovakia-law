@@ -66,6 +66,10 @@
 
 - 24) § 157 zákona č. 281/2015 Z. z.
 
+- 24a) § 157 ods. 2 zákona č. 281/2015 Z. z. v znení zákona č. 377/2019 Z. z.
+
+- 24b) § 157a zákona č. 281/2015 Z. z. v znení zákona č. 377/2019 Z. z.
+
 - 25a) § 6 ods. 1 a 2 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
 - 25b) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
@@ -101,6 +105,10 @@
 - 29f) Napríklad zákon č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení neskorších predpisov, zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 29g) § 132 ods. 1 až 5, § 137 ods. 3 a § 138 až 153 zákona č. 281/2015 Z. z.
+
+- 29ga) § 157 a 157a zákona č. 281/2015 Z. z. v znení zákona č. 377/2019 Z. z.
+
+- 29gb) § 157a zákona č. 281/2015 Z. z. v znení zákona č. 377/2019 Z. z.
 
 - 29h) § 71 ods. 6 zákona 35/2019 Z. z.
 
