@@ -2,11 +2,23 @@
 
 Zákon č. 488/2013 Z. z. o diaľničnej známke a o zmene niektorých zákonov v znení zákona č. 387/2015 Z. z., zákona č. 266/2016 Z. z., zákona č. 315/2016 Z. z., zákona č. 106/2018 Z. z. a zákona č. 149/2019 Z. z. sa dopĺňa takto:
 
+- 1. V § 2 ods. 4 sa za slovo „rok,“ vkladajú slová „na 365 dní,“.
+
+- 2. V § 3 sa za odsek 1 vkladá nový odsek 2, ktorý znie:
+
+- „(2)
+
+- Diaľničná známka s 365-dňovou platnosťou je platná 365 dní vrátane dňa určeného užívateľom vymedzených úsekov ciest.“.
+
+  - Doterajšie odseky 2 až 4 sa označujú ako odseky 3 až 5.
+
 - 3. V § 11 ods. 8 sa na konci bodka nahrádza bodkočiarkou a pripájajú sa tieto slová: „to neplatí pri úhrade pokuty príslušníkovi Policajného zboru podľa osobitného predpisu.<sup>24</sup>)“.
 
   - Poznámka pod čiarou k odkazu 24 znie:
 
   - „<sup>24</sup>) § 139h zákona č. 8/2009 Z. z. v znení zákona č. 393/2019 Z. z.“.
+
+- 4. V § 12 ods. 1 písm. f) sa na konci pripájajú tieto slová: „alebo odseku 2“.
 
 - 5. Za § 14 sa vkladá § 15, ktorý znie:
 
