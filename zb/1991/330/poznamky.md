@@ -262,6 +262,12 @@
 
 - § 4 vyhlášky Ministerstva financií Slovenskej republiky č. 58/1993 Z. z., ktorou sa vykonáva zákon Slovenskej národnej rady č. 317/1992 Zb. o dani z nehnuteľností.
 
+- 23ra) § 17 ods. 1 a 4 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení zákona č. 211/2019 Z. z.
+
+- 23rb) § 3 písm. l) zákona č. 305/2013 Z. z.
+
+- 23rc) § 29 až 34 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
+
 - 23rd) § 49 ods. 1 písm. d) zákona č. 305/2013 Z. z. v znení zákona č. 211/2019 Z. z.
 
 - 23re) § 7 ods. 1 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov v znení zákona č. 52/2018 Z. z.
