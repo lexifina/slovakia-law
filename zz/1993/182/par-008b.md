@@ -12,7 +12,7 @@
 
 - e) sledovať úhrady za plnenia a úhrady preddavkov do fondu prevádzky údržby a opráv od vlastníkov bytov a nebytových priestorov v dome a vymáhať vzniknuté nedoplatky,
 
-- f) zvolať schôdzu vlastníkov podľa potreby, najmenej raz za rok, alebo keď o to požiada najmenej štvrtina vlastníkov bytov a nebytových priestorov v dome,
+- f) zvolať schôdzu vlastníkov podľa potreby, najmenej raz za rok, alebo keď o to požiadajú vlastníci bytov a nebytových priestorov v dome, ktorí majú aspoň štvrtinu hlasov (ďalej len „štvrtina vlastníkov bytov a nebytových priestorov v dome“),
 
 - g) vypracovať a každoročne do 30. novembra vlastníkom bytov a nebytových priestorov v dome predložiť plán opráv na nasledujúci kalendárny rok, ktorý zohľadní najmä opotrebenie materiálu a stav spoločných častí domu a spoločných zariadení domu a navrhnúť výšku tvorby fondu prevádzky údržby a opráv domu na kalendárny rok,
 

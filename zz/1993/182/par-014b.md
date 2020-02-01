@@ -34,7 +34,9 @@
 
 - p) nájme a výpožičke spoločných nebytových priestorov, spoločných častí domu, spoločných zariadení domu a príslušenstva,
 
-- r) práve výlučne užívať nové spoločné časti domu, spoločné zariadenia domu alebo príslušenstvo len niektorými vlastníkmi bytov a nebytových priestorov v dome podľa § 19 ods. 8.
+- r) práve výlučne užívať nové spoločné časti domu, spoločné zariadenia domu alebo príslušenstvo len niektorými vlastníkmi bytov a nebytových priestorov v dome podľa § 19 ods. 8,
+
+- s) prijatí, zmene alebo zrušení domového poriadku.
 
 (2) Vlastníci bytov a nebytových priestorov v dome prijímajú rozhodnutia dvojtretinovou väčšinou hlasov všetkých vlastníkov bytov a nebytových priestorov v dome, ak hlasujú o
 
@@ -58,6 +60,8 @@
 
 (4) O veciach, ktoré nie sú upravené v odsekoch 1 až 3, je na prijatie rozhodnutia potrebná nadpolovičná väčšina hlasov vlastníkov bytov a nebytových priestorov v dome, ktorí sú prítomní na schôdzi vlastníkov alebo sa zúčastnili písomného hlasovania.
 
-(5) Ak vlastníci bytov a nebytových priestorov v dome rozhodli o veci, nové rozhodnutie o tej istej veci nahrádza predchádzajúce rozhodnutie. Pri hlasovaní o tej istej veci podľa odseku 1 do jedného roka od platného hlasovania sa vyžaduje súhlas dvojtretinovej väčšiny hlasov všetkých vlastníkov bytov a nebytových priestorov v dome. Pri hlasovaní o tej istej veci podľa odseku 2 do jedného roka od platného hlasovania o tej istej veci sa vyžaduje súhlas štvorpätinovej väčšiny hlasov všetkých vlastníkov bytov a nebytových priestorov v dome. Pri hlasovaní o tej istej veci podľa odseku 4 do jedného roka od platného hlasovania o tej istej veci sa vyžaduje súhlas nadpolovičnej väčšiny hlasov všetkých vlastníkov bytov a nebytových priestorov v dome.
+(5) Súhlas vlastníkov bytov a nebytových priestorov v dome sa nevyžaduje pri montáži zdvíhacieho zariadenia podľa osobitného zákona<sup>15c</sup>) v spoločných častiach bytového domu.
 
-(6) Ak spoločenstvo tvorí viac domov, o zmluve o vstavbe alebo nadstavbe, zmluve o úvere alebo jej zmene, zmluve o zabezpečení úveru alebo jej zmene, rozdelení spoločenstva a o použití fondu prevádzky, údržby a opráv hlasujú iba vlastníci bytov a nebytových priestorov v dome, ktorého sa predmet hlasovania týka.
+(6) Ak vlastníci bytov a nebytových priestorov v dome rozhodli o veci, nové rozhodnutie o tej istej veci nahrádza predchádzajúce rozhodnutie. Pri hlasovaní o tej istej veci podľa odseku 1 do jedného roka od platného hlasovania sa vyžaduje súhlas dvojtretinovej väčšiny hlasov všetkých vlastníkov bytov a nebytových priestorov v dome. Pri hlasovaní o tej istej veci podľa odseku 2 do jedného roka od platného hlasovania o tej istej veci sa vyžaduje súhlas štvorpätinovej väčšiny hlasov všetkých vlastníkov bytov a nebytových priestorov v dome. Pri hlasovaní o tej istej veci podľa odseku 4 do jedného roka od platného hlasovania o tej istej veci sa vyžaduje súhlas nadpolovičnej väčšiny hlasov všetkých vlastníkov bytov a nebytových priestorov v dome.
+
+(7) Ak spoločenstvo tvorí viac domov, o zmluve o vstavbe alebo nadstavbe, zmluve o úvere alebo jej zmene, zmluve o zabezpečení úveru alebo jej zmene, rozdelení spoločenstva a o použití fondu prevádzky, údržby a opráv hlasujú iba vlastníci bytov a nebytových priestorov v dome, ktorého sa predmet hlasovania týka.

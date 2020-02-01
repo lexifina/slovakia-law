@@ -70,6 +70,8 @@
 
 - 15b) § 139b ods. 5 písm. b) zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
+- 15c) § 33 ods. 2 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 16) § 151b a 151c Občianskeho zákonníka.
 
 - 17) § 34 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení neskorších predpisov.
@@ -129,6 +131,8 @@
 - 27) § 151a a nasl. Občianskeho zákonníka.
 
 - 27a) § 136 a nasl. Občianskeho zákonníka.
+
+- 27b) Napríklad § 8e zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov, § 7 zákona č. 150/2013 Z. z. o Štátnom fonde rozvoja bývania v znení neskorších predpisov, § 11 zákona č. 321/2014 Z. z. o energetickej efektívnosti a o zmene a doplnení niektorých zákonov.
 
 - 28) § 12 zákona č. 52/1966 Zb. o osobnom vlastníctve bytov v znení neskorších predpisov.
 
