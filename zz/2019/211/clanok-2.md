@@ -4,7 +4,17 @@ Zákon Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usp
 
 - Za § 34c sa vkladajú § 34d a 34e, ktoré znejú:
 
-- „§ 34e
+- „§ 34d
+
+- (1)
+
+- Pozemkový fond na účely výkonu svojej činnosti podľa tohto zákona a osobitných predpisov<sup>21a</sup>) vykonáva jednotlivé úkony voči orgánom verejnej moci, právnickým osobám a podnikateľom elektronicky v rozsahu podľa osobitného predpisu.<sup>23ra</sup>) Na účely podľa prvej vety pozemkový fond doručuje elektronické dokumenty do elektronickej schránky;<sup>23rb</sup>) na elektronické doručovanie sa použijú ustanovenia osobitného predpisu.<sup>23rc</sup>)
+
+- (2)
+
+- Právnické osoby a podnikatelia sú povinní vykonávať voči pozemkovému fondu úkony a doručujú mu písomnosti elektronicky do elektronickej schránky<sup>23rb</sup>) pozemkového fondu; na elektronické doručovanie sa použijú ustanovenia osobitného predpisu.<sup>23rc</sup>) Ak na konkrétne úkony a písomnosti pozemkový fond určí elektronický formulár a zverejní ho na svojom webovom sídle, právnická osoba a podnikateľ na tieto úkony a písomnosti použijú určený elektronický formulár.
+
+- § 34e
 
 - (1)
 
@@ -16,7 +26,13 @@ Zákon Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usp
 
   - Poznámky pod čiarou k odkazom 23ra až 23ri znejú:
 
-  - „<sup>23rd</sup>) § 49 ods. 1 písm. d) zákona č. 305/2013 Z. z. v znení zákona č. 211/2019 Z. z.
+  - „<sup>23ra</sup>) § 17 ods. 1 a 4 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení zákona č. 211/2019 Z. z.
+
+  - <sup>23rb</sup>) § 3 písm. l) zákona č. 305/2013 Z. z.
+
+  - <sup>23rc</sup>) § 29 až 34 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
+
+  - <sup>23rd</sup>) § 49 ods. 1 písm. d) zákona č. 305/2013 Z. z. v znení zákona č. 211/2019 Z. z.
 
   - <sup>23re</sup>) § 7 ods. 1 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov v znení zákona č. 52/2018 Z. z.
 
