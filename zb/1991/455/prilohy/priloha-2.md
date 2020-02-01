@@ -160,7 +160,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 59. | Činnosť autorizovanej osoby | – rozhodnutie o autorizácii | § 15 zákona č. 90/1998 Z. z. |
 
-- 61. | Sprostredkovanie predaja, prenájmu a kúpy nehnuteľností (realitná činnosť) | – vysokoškolské vzdelanie ekonomického alebo právnického alebo ­stavebného alebo architektonického smeru ­alebo – úplné stredné vzdelanie s maturitnou skúškou a 5 rokov praxe v odbore | |
+- 61. | Sprostredkovanie predaja, prenájmu a kúpy nehnuteľností (realitná činnosť) | – vysokoškolské vzdelanie ekonomického alebo právnického alebo ­stavebného alebo architektonického smeru ­alebo – úplné stredné vzdelanie s maturitnou skúškou, 2 roky praxe v odbore a osvedčenie o absolvovaní akreditovaného vzdelávacieho programu vydané vzdelávacou inštitúciou akreditovanou Ministerstvom školstva, vedy, výskumu a športu Slovenskej republiky | § 14 zákona č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení niektorých zákonov. |
 
 - 62. | Bezpečnostnotechnické služby | – oprávnenie alebo – osvedčenie bezpečnostného technika alebo – osvedčenie autorizovaného bezpečnostného technika | § 21, 23, 24 zákona č. 124/2006 Z. z. v znení neskorších predpisov |
 

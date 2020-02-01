@@ -18,4 +18,6 @@
 
 - c) potvrdenie o prijatí oznámenia o cezhraničnom poskytovaní služieb na území Slovenskej republiky,
 
-- d) kópiu dokumentu alebo časti dokumentu podľa osobitného predpisu.<sup>39a</sup>)
+- d) kópiu dokumentu alebo časti dokumentu podľa osobitného predpisu,<sup>39a</sup>)
+
+- e) oprávnenie na podnikanie podľa osobitného zákona.<sup>39b</sup>)

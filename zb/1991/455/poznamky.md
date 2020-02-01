@@ -264,6 +264,8 @@
 
 - 39a) § 23c zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
+- 39b) § 6 ods. 5 zákona č. 440/2015 Z. z. o športe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 40) § 118 Trestného zákona.
 
 - 41a) § 5 zákona č. 256/1992 Zb. o ochrane osobných údajov v informačných systémoch.
