@@ -6,7 +6,7 @@
 
 - a) vzdušný objekt bez predchádzajúceho súhlasu príslušného orgánu riadenia letovej prevádzky prenikol do vzdušného priestoru Slovenskej republiky alebo porušil režim letu určený letovým plánom,
 
-- b) vzdušný objekt nevykonáva pokyny príslušného orgánu riadenia letovej prevádzky alebo pokyny a signály veliteľa pohotovostného lietadla,
+- b) vzdušný objekt nekomunikuje s príslušným orgánom riadenia letovej prevádzky alebo nevykonáva pokyny príslušného orgánu riadenia letovej prevádzky, ak pravidlá lietania vydané pre jednotlivé časti vzdušného priestoru neustanovujú inak,
 
 - c) vzdušný objekt náhle mení parametre letu alebo vykonáva neprimerané odchýlky od plánovanej dráhy letu,
 
@@ -14,7 +14,7 @@
 
 - e) posádka vzdušného objektu používa neštandardnú frazeológiu alebo sú zaznamenané iné zmeny v rádiovej komunikácii nesúvisiacej s vykonávaním letu,
 
-- f) kód odpovedača sekundárneho radaru vzdušného objektu signalizuje stav núdze alebo protiprávny zásah na palube lietadla v súlade s medzinárodne ustanovenými kódmi,
+- f) kód odpovedača sekundárneho radaru vzdušného objektu signalizuje stav núdze v súlade s medzinárodne ustanovenými kódmi,
 
 - g) došlo k prerušeniu alebo k úplnej strate signálov z odpovedača sekundárneho radaru,
 
@@ -22,11 +22,11 @@
 
 - i) bola prijatá informácia o neurčitej hrozbe násilia prostredníctvom tretej strany.
 
-(3) Za pravdepodobného narušiteľa vzdušného priestoru sa považuje vzdušný objekt kvalifikovaný ako podozrivý narušiteľ vzdušného priestoru
+(3) Za pravdepodobného narušiteľa vzdušného priestoru sa považuje vzdušný objekt,
 
-- a) podľa odseku 1 alebo 2, ktorý opakovane nevykonáva pokyny príslušného orgánu riadenia letovej prevádzky alebo pokyny a signály veliteľa pohotovostného lietadla,
+- a) ktorého kód odpovedača signalizuje čin protiprávneho zasahovania na palube v súlade s medzinárodne ustanovenými kódmi,
 
-- b) podľa odseku 2, ak je dôvodné podozrenie, že je alebo sa stane objektom činu protiprávneho zasahovania.
+- b) kvalifikovaný ako podozrivý narušiteľ vzdušného priestoru podľa odseku 1 alebo 2, ktorý nevykonáva pokyny príslušného orgánu riadenia letovej prevádzky alebo nevykonáva pokyny a signály veliteľa pohotovostného lietadla.
 
 (4) Za potvrdeného narušiteľa vzdušného priestoru sa považuje vzdušný objekt, ak získané informácie potvrdzujú, že vzdušný objekt má byť použitý ako prostriedok teroristického útoku alebo iného narušenia bezpečnosti Slovenskej republiky.
 
