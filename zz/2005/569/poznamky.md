@@ -32,6 +32,8 @@
 
 - 12a) § 116 Občianskeho zákonníka.
 
+- 13) § 21 ods. 19 písm. b) až g) zákona č. 570/2005 Z. z.
+
 - 14) § 7 a 9 zákona č. 570/2005 Z. z.
 
 - 15) § 10 ods. 4 zákona č. 319/2002 Z. z. o obrane Slovenskej republiky v znení neskorších predpisov.
@@ -62,7 +64,11 @@
 
 - 25) Nariadenie vlády Slovenskej republiky č. 504/2002 Z. z. o podmienkach poskytovania osobných ochranných prostriedkov.
 
-- 26) § 139 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+- 26) § 157 zákona č. 281/2015 Z. z. o štátnej službe profesionálnych vojakov a o zmene a doplnení niektorých zákonov v znení zákona č. 377/2019 Z. z.
+
+- 26a) § 157 ods. 2 zákona č. 281/2015 Z. z. v znení zákona č. 377/2019 Z. z.
+
+- 26b) § 157a zákona č. 281/2015 Z. z. v znení zákona č. 377/2019 Z. z.
 
 - 27) § 2 zákona č. 139/1998 Z. z. o omamných látkach, psychotropných látkach a prípravkoch v znení neskorších predpisov.
 
