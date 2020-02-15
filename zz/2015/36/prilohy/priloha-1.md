@@ -47,3 +47,5 @@ Príloha č. 1 k nariadeniu vlády č. 36/2015 Z. z.
 - | Tekvica okrem tekvice určenej pre produkciu semien na konzum a lisovanie | 2 500 | 325
 
 - | Baklažán | 2 500 | 10
+
+- | Kukurica cukrová | 50 000 | 5 000

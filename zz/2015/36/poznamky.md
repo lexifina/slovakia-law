@@ -44,7 +44,11 @@
 
 - 22) Čl. 127 nariadenia (EÚ) č. 1308/2013 v platnom znení.
 
-- 23) § 7 nariadenia vlády Slovenskej republiky č. 58/2007 Z. z., ktorým sa ustanovujú požiadavky na uvádzanie osiva zelenín na trh v znení nariadenia vlády Slovenskej republiky č. 186/2010 Z. z.
+- 23) § 7 nariadenia vlády Slovenskej republiky č. 51/2007 Z. z., ktorým sa ustanovujú požiadavky na uvádzanie osiva olejnín a priadnych rastlín na trh.
+
+- § 7 nariadenia vlády Slovenskej republiky č. 52/2007 Z. z., ktorým sa ustanovujú požiadavky na uvádzanie osiva krmovín na trh v znení nariadenia vlády Slovenskej republiky č. 99/2013 Z. z.
+
+- § 7 nariadenia vlády Slovenskej republiky č. 58/2007 Z. z., ktorým sa ustanovujú požiadavky na uvádzanie osiva zelenín na trh v znení nariadenia vlády Slovenskej republiky č. 186/2010 Z. z.
 
 - 24) § 13 ods. 9 nariadenia vlády Slovenskej republiky č. 342/2014 Z. z.
 
