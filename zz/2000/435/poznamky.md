@@ -18,9 +18,13 @@
 
 - 1bda) Kapitola I časť A-I/7 Medzinárodného dohovoru o normách výcviku, kvalifikácie a strážnej služby námorníkov (STCW) 1978 (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.) v platnom znení.
 
+- 1bdaa) § 8 až 16 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
+
 - 1bdb) Medzinárodný dohovor o normách výcviku, kvalifikácie a strážnej služby námorníkov (STCW) 1978 (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.) v platnom znení.
 
 - 1be) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
+
+- 1bea) Dohovor o práci v námornej doprave, 2006 (oznámenie Ministerstva zahraničných vecí a európskych záležitostí Slovenskej republiky č. 319/2018 Z. z.).
 
 - 1bf) Nariadenie Európskeho parlamentu a Rady (ES) č. 392/2009.
 
@@ -36,6 +40,12 @@
 
 - 1bk) § 27 až 29 zákona č. 56/2018 Z. z.
 
+- 1bl) § 3 ods. 1 písm. f) a ods. 2 písm. b) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 1bm) Zákon č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 355/2007 Z. z. v znení neskorších predpisov.
+
 - 2) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
 - 2a) Nariadenie vlády Slovenskej republiky č. 243/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na námorné vybavenie v znení nariadenia vlády Slovenskej republiky č. 307/2002 Z. z.
@@ -46,9 +56,11 @@
 
 - Obchodný zákonník.
 
-- 4b) Nariadenie vlády Slovenskej republiky č. 581/2006 Z. z. o systéme povinných kontrol pre bezpečnú prevádzku prievozných lodí ro-ro a vysokorýchlostných osobných plavidiel v pravidelnej preprave.
+- 4b) Nariadenie vlády Slovenskej republiky č. 582/2006 Z. z. o bezpečnostných požiadavkách na osobné lode v znení neskorších predpisov.
 
 - 4c) Kapitola IX Medzinárodného dohovoru o bezpečnosti ľudského života na mori (SOLAS 1974) v znení neskorších predpisov (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.).
+
+- 4d) Napríklad Dohovor o práci v námornej doprave, 2006 (oznámenie Ministerstva zahraničných vecí a európskych záležitostí Slovenskej republiky č. 319/2018 Z. z.), Medzinárodný dohovor o bezpečnosti ľudského života na mori (Londýn 1. novembra 1974) v platnom znení (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.), Medzinárodný dohovor o zabránení znečisťovaniu z lodí z roku 1973 (Londýn 17. februára 1978) v platnom znení (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.).
 
 - 5) § 13 ods. 3 písm. b) zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -96,6 +108,8 @@
 
 - 14a) Kapitola V pravidlo V/1-1 a V/1-2 Medzinárodného dohovoru o normách výcviku, kvalifikácie a strážnej služby námorníkov (STCW) 1978 (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.) v platnom znení.
 
+- 14aa) § 15 ods. 2 písm. c) a § 16 ods. 1 zákona č. 355/2007 Z. z. v znení zákona č. 136/2010 Z. z.
+
 - 14b) § 4 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 14c) Kapitola I časť A-I/9 Medzinárodného dohovoru o normách výcviku, kvalifikácie a strážnej služby námorníkov (STCW) 1978 (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.) v platnom znení.
@@ -104,28 +118,28 @@
 
 - 14e) § 43 Zákonníka práce v znení neskorších predpisov.
 
+- 14f) § 50 Zákonníka práce v znení zákona č. 210/2003 Z. z.
+
 - 15) § 37 ods. 3 Zákonníka práce v znení neskorších predpisov.
 
-- 16) Zákon č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
+- 16) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
 - 17) § 27 Zákonníka práce.
 
-- 18) § 3 ods. 1 zákona č. 195/1991 Zb. o odstupnom poskytovanom pri skončení pracovného pomeru.
+- 18) § 76 Zákonníka práce v znení neskorších predpisov.
 
-- 19) § 46 ods. 1 písm. f) Zákonníka práce.
+- 19) § 63 ods. 1 písm. e) Zákonníka práce.
 
 - 20) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
-- 20a) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 20b) Nariadenie vlády Slovenskej republiky č. 581/2006 Z. z. o systéme povinných kontrol pre bezpečnú prevádzku prievozných lodí ro-ro a vysokorýchlostných osobných plavidiel v pravidelnej preprave.
+- 20a) Zákon č. 56/2018 Z. z.
 
 - 20c) Nariadenie vlády Slovenskej republiky č. 579/2006 Z. z., ktorým sa ustanovujú podmienky bezpečnej nakládky a vykládky námornej lode na hromadný náklad.
 
 - Nariadenie vlády Slovenskej republiky č. 66/2007 Z. z. o prístavných zberných zariadeniach na lodný odpad a na zvyšky nákladu.
 
-- 21) Obchodný zákonník v znení neskorších predpisov.
+- 21) Napríklad Obchodný zákonník v znení neskorších predpisov, zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
-- 22) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+- 22) § 17 ods. 1 a § 31 ods. 2 písm. a) zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
 
 - 23) Kapitola I časť A-I/2 ods. 9 Medzinárodného dohovoru o normách výcviku, kvalifikácie a strážnej služby námorníkov (STCW) 1978 (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.) v platnom znení.

@@ -41,3 +41,5 @@ Príloha č. 1 k zákonu č. 435/2000 Z. z.
   - 19. Smernica Komisie 2014/100/EÚ z 28. októbra 2014, ktorou sa mení smernica Európskeho parlamentu a Rady 2002/59/ES, ktorou sa zriaďuje monitorovací a informačný systém Spoločenstva pre lodnú dopravu (Ú. v. EÚ L 308, 29. 10. 2014).
 
   - 20. Vykonávacia smernica Komisie 2014/111/EÚ zo 17. novembra 2014, ktorou sa mení smernica 2009/15/ES, pokiaľ ide o prijatie určitých kódexov a s tým súvisiacich zmien určitých dohovorov a protokolov Medzinárodnou námornou organizáciou (IMO) (Ú. v. EÚ L 366, 20. 12. 2014).
+
+  - 21. Smernica Rady (EÚ) 2018/131 z 23. januára 2018, ktorou sa vykonáva Dohoda uzavretá Združením vlastníkov lodí Európskeho spoločenstva (ECSA) a Európskou federáciou pracovníkov v doprave (ETF) na účely zmeny smernice 2009/13/ES v súlade s dodatkami k Dohovoru o pracovných normách v námornej doprave z roku 2006 prijatými v roku 2014 a schválenými Medzinárodnou konferenciou práce 11. júna 2014 (Ú. v. EÚ L 22, 26. 1. 2018).
