@@ -1,0 +1,3 @@
+Príloha č. 12 k nariadeniu vlády č. 199/2005 Z. z.
+
+- VZOR RASTLINOLEKÁRSKY DOKLAD O PREPRAVE ZÁSIELKY [Vzor 12](../assets/1edb8024538974722574d021cb7c3cfee0cb8f348b36644253a9890f563b73af.pdf)
