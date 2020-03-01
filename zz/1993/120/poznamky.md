@@ -14,6 +14,8 @@
 
 - 1ba) § 16 ods. 4 písm. c) a d) zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 1bb) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
 - 1c) § 21 zákona č. 514/2009 Z. z. o doprave na dráhach.
 
 - 1d) § 63 ods. 7 zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriadku Národnej rady Slovenskej republiky v znení neskorších predpisov.
