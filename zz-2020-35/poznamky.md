@@ -1,0 +1,1 @@
+- 1) Napríklad STN 73 0540-2+Z1+Z2 Tepelná ochrana budov. Tepelnotechnické vlastnosti stavebných konštrukcií a budov. Časť 2: Funkčné požiadavky. Konsolidované znenie (73 0540).
