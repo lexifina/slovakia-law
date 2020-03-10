@@ -6,7 +6,7 @@
 
 (3) Žiadateľ vyplní a odošle formulár elektronickej podoby žiadosti o príspevok uverejnenej na webovom sídle ministerstva.
 
-(4) Ministerstvo umožní zaevidovať elektronickú podobu žiadosti o príspevok dňom, ktorý je stanovený vo výzve na predkladanie žiadostí o príspevok ako termín na začatie podávania žiadostí o príspevok. Ministerstvo nezaeviduje elektronickú podobu žiadosti o príspevok, ak boli prijaté žiadosti o príspevok v počte stanovenom vo výzve na predkladanie žiadostí o príspevok alebo ak uplynul termín na ukončenie podávania žiadostí o príspevok stanovený vo výzve na predkladanie žiadostí o príspevok.
+(4) Ministerstvo umožní zaevidovať elektronickú podobu žiadosti o príspevok dňom, ktorý je uvedený vo výzve na predkladanie žiadostí o príspevok ako termín na začatie podávania žiadostí o príspevok. Ministerstvo nezaeviduje elektronickú podobu žiadosti o príspevok, ak boli prijaté žiadosti o príspevok v počte uvedenom vo výzve na predkladanie žiadostí o príspevok alebo ak uplynul termín na ukončenie podávania žiadostí o príspevok uvedený vo výzve na predkladanie žiadostí o príspevok.
 
 (5) Listinnú podobu žiadosti o príspevok vytlačenú z elektronickej podoby vrátane príloh žiadateľ predloží ministerstvu v lehote do desiatich pracovných dní odo dňa odoslania elektronickej podoby žiadosti o príspevok alebo v tej istej lehote odošle na jeho adresu.
 

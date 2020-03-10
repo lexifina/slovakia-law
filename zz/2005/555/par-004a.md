@@ -10,7 +10,7 @@
 
 (2) Projektovým energetickým hodnotením je určovanie potreby energie v budove vypočítaním podľa projektovej dokumentácie a projektovaných ukazovateľov. Projektové energetické hodnotenie sa uskutočňuje vo fáze navrhovania a projektovania novej budovy alebo významnej obnovy budovy.
 
-(3) Normalizovaným energetickým hodnotením je určovanie potreby energie v budove vypočítaním s použitím normalizovaných vstupných údajov o vonkajších klimatických podmienkach, o vnútornom prostredí budovy, o spôsobe jej užívania a s použitím údajov o skutočnom vyhotovení jej stavebných konštrukcií a údajov o jej technickom systéme.
+(3) Normalizovaným energetickým hodnotením je určovanie potreby energie v budove vypočítaním s použitím normalizovaných vstupných údajov o vonkajších klimatických podmienkach, o vnútornom prostredí budovy, o spôsobe jej užívania a s použitím údajov o skutočnom vyhotovení jej stavebných konštrukcií a údajov o technickom systéme budovy.
 
 (4) Prevádzkovým energetickým hodnotením je určovanie potreby energie s použitím nameranej skutočnej spotreby energie v budove.
 

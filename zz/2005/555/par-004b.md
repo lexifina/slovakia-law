@@ -14,8 +14,8 @@
 
 - c) informácie o politikách a o finančných a iných opatreniach prijatých na podporu budov s takmer nulovou potrebou energie vrátane podrobností o celoštátnych požiadavkách a opatreniach týkajúcich sa podpory využívania energie z obnoviteľných zdrojov v nových budovách a v existujúcich budovách po ich významnej obnove,
 
-- d) ďalšie nástroje a opatrenia na urýchlenie zvyšovania energetickej hospodárnosti budov a na ich prechod na budovy s takmer nulovou potrebou energie tak, aby sa dodaním energie z obnoviteľných zdrojov nachádzajúcich sa v budove alebo v jej blízkosti do roku 2020 dosiahlo najmenej 50-percentné zníženie primárnej energie.
+- d) ďalšie nástroje a opatrenia na urýchlenie zvyšovania energetickej hospodárnosti budov a na ich prechod na budovy s takmer nulovou potrebou energie.
 
 (3) Národný plán obsahuje aj zásady, podľa ktorých bude možné v špecifických a opodstatnených prípadoch rozhodnúť, že opatrenia podľa odseku 2 písm. a) a b) sa nebudú uplatňovať na existujúce budovy, pre ktoré analýza nákladov a výnosov počas ekonomického životného cyklu budovy preukáže časovú návratnosť viac ako 15 rokov.
 
-(4) Poskytované stimuly na novú výstavbu a na významnú obnovu budov musia zohľadňovať nákladovo optimálnu úroveň (§ 4 ods. 5). Nákladovo optimálnu úroveň môžu presiahnuť, ak ide o stimuly na nové budovy alebo na významnú obnovu budov v špecifických a opodstatnených prípadoch podľa odseku 3.
+(4) Poskytované stimuly na novú výstavbu a na významnú obnovu budov musia zohľadňovať nákladovo optimálnu úroveň (§ 4 ods. 6). Nákladovo optimálnu úroveň môžu presiahnuť, ak ide o stimuly na nové budovy alebo na významnú obnovu budov v špecifických a opodstatnených prípadoch podľa odseku 3.

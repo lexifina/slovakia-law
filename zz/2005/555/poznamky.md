@@ -2,9 +2,9 @@
 
 - 2) § 139b ods. 4 písm. c) zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 237/2000 Z. z.
 
-- 3) § 5 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov.
-
 - 3a) Delegované nariadenie Komisie (EÚ) č. 244/2012 zo 16. januára 2012, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/31/EÚ o energetickej hospodárnosti budov vytvorením rámca porovnávacej metodiky na výpočet nákladovo optimálnych úrovní minimálnych požiadaviek na energetickú hospodárnosť budov a prvkov budov (Ú. v. EÚ L 81, 21. 3. 2012).
+
+- 3b) § 18 ods. 1 zákona č. 321/2014 Z. z. o energetickej efektívnosti a o zmene a doplnení niektorých zákonov v znení zákona č. 4/2019 Z. z.
 
 - 4) Príloha č. 2 položka č. 18a zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 555/2005 Z. z.
 

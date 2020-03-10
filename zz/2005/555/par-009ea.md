@@ -6,7 +6,7 @@
 
 - b) stavebné konštrukcie rodinného domu podľa § 9e ods. 2 spĺňajú minimálne požiadavky na energetickú hospodárnosť budov s takmer nulovou potrebou energie,
 
-- c) právoplatné kolaudačné rozhodnutie rodinného domu bolo vydané po 31. decembri 2014,
+- c) právoplatné kolaudačné rozhodnutie rodinného domu bolo vydané najskôr v druhom kalendárnom roku predchádzajúcom roku, v ktorom bola podaná žiadosť o príspevok,
 
 - d) celková podlahová plocha rodinného domu je najviac 200 m<sup>2</sup>,
 
@@ -14,7 +14,7 @@
 
 - f) rodinný dom je využívaný výlučne na bývanie,
 
-- g) na rodinný dom nebol poskytnutý príspevok podľa tohto zákona alebo podpora na obstaranie rodinného domu podľa osobitného predpisu,<sup>5e</sup>)
+- g) na rodinný dom vrátane jeho technického systému nebol poskytnutý príspevok podľa tohto zákona, podpora podľa osobitného predpisu,<sup>5e</sup>) verejné prostriedky alebo finančné prostriedky Európskej únie v rámci iných podporných programov,
 
 - h) žiadosť o príspevok obsahuje predpísané náležitosti.
 
