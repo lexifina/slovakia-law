@@ -1,0 +1,1 @@
+Príloha č. 1 k vyhláške č. 41/2020 Z. z. [OCHRANNÉ PÁSMO I. STUPŇA PRÍRODNÝCH LIEČIVÝCH ZDROJOV V PIEŠŤANOCH](../assets/e5737b1d3159ad8410aac821a4635a9dd9be70d20de06d401e54240ffc32e85c.pdf)
