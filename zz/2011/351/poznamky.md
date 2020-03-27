@@ -182,6 +182,14 @@
 
 - 46c) Napríklad zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov.
 
+- 46d) § 3 ods. 1 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov.
+
+- 46e) Čl. 5 ústavného zákona č. 227/2002 Z. z. v znení neskorších predpisov.
+
+- 46f) § 5 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 46g) § 2 ods. 1 písm. q) zákona č. 355/2007 Z. z. v znení neskorších predpisov.
+
 - 47) Nariadenie Európskeho parlamentu a Rady (ES) č. 460/2004 z 10. marca 2004 o zriadení Európskej agentúry pre bezpečnosť sietí a informácií (Mimoriadne vydanie Ú. v. EÚ, kap. 1/zv. 5, Ú. v. EÚ L 77, 13. 3. 2004) v platnom znení.
 
 - 48) Zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. v znení neskorších predpisov.
