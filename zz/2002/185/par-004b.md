@@ -14,10 +14,12 @@
 
 - f) ak predsedu súdnej rady už nemožno považovať za bezúhonného.
 
-(2) Predseda súdnej rady písomne oznámi vzdanie sa funkcie podpredsedovi súdnej rady, ak ho niet, vekovo najstaršiemu členovi súdnej rady. Funkcia predsedu súdnej rady zaniká uplynutím dvoch kalendárnych mesiacov od doručenia oznámenia podľa prvej vety.
+(2) Predseda súdnej rady písomne oznámi vzdanie sa funkcie podpredsedovi súdnej rady, ak ho niet, vekovo najstaršiemu členovi súdnej rady. Funkcia predsedu súdnej rady zaniká dňom nasledujúcim po dni doručenia oznámenia podľa prvej vety.
 
 (3) Návrh na odvolanie predsedu súdnej rady môžu podať najmenej piati členovia súdnej rady. Súdna rada môže predsedu súdnej rady odvolať, ak
 
-- a) mu zdravotný stav dlhodobo, najmenej však počas troch mesiacov, nedovoľuje riadne vykonávať povinnosti vyplývajúce z jeho funkcie, alebo
+- a) jeho zotrvaním vo funkcii môže byť vážne ohrozená dôveryhodnosť súdnictva alebo dobrá povesť súdnictva,
 
-- b) opakovane porušuje svoje povinnosti.
+- b) mu zdravotný stav dlhodobo, najmenej však počas troch mesiacov, nedovoľuje riadne vykonávať povinnosti vyplývajúce z jeho funkcie, alebo
+
+- c) opakovane porušuje svoje povinnosti.
