@@ -140,7 +140,7 @@
 
 - 48) § 122 Občianskeho zákonníka.
 
-- 50) § 11 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí.
+- 50) § 2 ods. 1 písm. m) a n) a § 12 ods. 2 písm. f) zákona č. 355/2007 Z. z.
 
 - 50a) § 25 ods. 2 zákona č. 314/2018 Z. z. o Ústavnom súde Slovenskej republiky a o zmene a doplnení niektorých zákonov.
 
