@@ -68,6 +68,10 @@
 
 - 21) Zákon č. 461/2003 Z. z. o sociálnom poistení.
 
+- 21a) Zákon č. 461/2003 Z. z. o sociálnom poistení.
+
+- Zákon č. 564/1991 Zb. o obecnej polícii v znení neskorších predpisov a o zmene a doplnení niektorých zákonov.
+
 - 22) Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 22a) § 35 a 49a zákona č. 440/2015 Z. z. o športe a o zmene a doplnení niektorých zákonov v znení zákona č. 335/2017 Z. z.
