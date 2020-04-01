@@ -64,6 +64,10 @@
 
 - 38d) § 51 a 129 zákona č. 328/2002 Z. z. v znení neskorších predpisov.
 
+- 38e) § 143al zákona č. 328/2002 Z. z. v znení zákona č. 45/2020 Z. z.
+
+- § 77a a 77b zákona č. 461/2003 Z. z. v znení zákona č. 45/2020 Z. z.
+
 - 40) Zákon č. 221/2006 Z. z. o výkone väzby v znení neskorších predpisov.
 
 - 41) Zákon č. 475/2005 Z. z. o výkone trestu odňatia slobody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
