@@ -12,4 +12,4 @@ Príloha č. 4 k vyhláške č. 426/2015 Z. z.
 
   - 3. Normy pohybovej výkonnosti podľa veku a pohlavia občana pre príslušné disciplíny sú:
 
-- [príloha](../assets/b88072142d64766f25d26d0215558edf73c8305d23696705089b692db9f67334.pdf)
+- [príloha](../assets/2bb74d77704384c0f2b6afa28781e9bdea5bc61d8d441d2ed4a3999eb938199b.pdf)

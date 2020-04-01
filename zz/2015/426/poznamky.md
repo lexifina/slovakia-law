@@ -1,0 +1,1 @@
+- 1) § 22 ods. 2 vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 585/2008 Z. z., ktorou sa ustanovujú podrobnosti o prevencii a kontrole prenosných ochorení.
