@@ -76,6 +76,8 @@
 
 - 35c) Zákon č. 378/2015 Z. z. o dobrovoľnej vojenskej príprave a o zmene a doplnení niektorých zákonov.
 
+- 35d) Zákon č. 385/2019 Z. z. o kompenzačnom príspevku baníkom a o zmene a doplnení niektorých zákonov.
+
 - 36) Zákon č. 571/2009 Z. z. o rodičovskom príspevku a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 38) Zákonník práce.
@@ -166,6 +168,8 @@
 
 - 56a) Napríklad čl. 1 nariadenia Rady (EHS Euroatom, ESUO) č. 259/1968 z 29. februára 1968, ktorým sa ustanovuje Služobný poriadok a podmienky zamestnávania ostatných zamestnancov Európskych spoločenstiev a osobitné pravidlá, ktoré sa dočasne uplatňujú na úradníkov Komisie (Ú. v. ES L 56, 4. 3. 1968) v platnom znení, čl. 36 ods. 36.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky v platnom znení (Ú. v. EÚ C 326, 26. 10. 2012), čl. 1 rozhodnutia Európskej centrálnej banky ECB/1998/4 (1999/330/ES) z 9. júna 1998 o prijatí podmienok zamestnávania zamestnancov Európskej centrálnej banky (Ú. v. ES L 125, 19. 5. 1999) v platnom znení.
 
+- 56aa) § 143al zákona č. 328/2002 Z. z. v znení zákona č. 45/2020 Z. z.
+
 - 56b) Nariadenie vlády Slovenskej republiky č. 200/2012 Z. z., ktorým sa ustanovuje spôsob určenia poistno-matematického ekvivalentu nároku na starobný dôchodok vo vzťahu k dôchodkovému systému Európskej únie alebo jej inštitúcie.
 
 - 56c) § 45 ods. 6 zákona č. 43/2004 Z. z. v znení zákona č. 183/2014 Z. z.
@@ -221,6 +225,8 @@
 - Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení neskorších predpisov.
 
 - 89) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
+
+- 89a) Zákon č. 564/1991 Zb. o obecnej polícii v znení neskorších predpisov a o zmene a doplnení niektorých zákonov.
 
 - 90) § 95 ods. 1 písm. b) zákona č. 328/2002 Z. z. v znení neskorších predpisov.
 
