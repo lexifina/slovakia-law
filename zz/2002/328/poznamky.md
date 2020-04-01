@@ -281,3 +281,5 @@
 - 68) § 152 ods. 1 zákona č. 73/1998 Z. z. v znení neskorších predpisov.
 
 - § 166 ods. 1 Zákonníka práce.
+
+- 69) § 77a a 77b zákona č. 461/2003 Z. z. v znení zákona č. 45/2020 Z. z.
