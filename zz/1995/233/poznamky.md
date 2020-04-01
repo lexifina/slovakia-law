@@ -114,6 +114,10 @@
 
 - § 121 Civilného mimosporového poriadku.
 
+- 8e) § 143al zákona č. 328/2002 Z. z. v znení zákona č. 45/2020 Z. z.
+
+- § 77a a 77b zákona č. 461/2003 Z. z. v znení zákona č. 45/2020 Z. z.
+
 - 11) § 716 a nasl. Obchodného zákonníka.
 
 - 11a) Zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
