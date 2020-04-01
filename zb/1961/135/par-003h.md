@@ -1,6 +1,6 @@
 # § 3h Centrálna evidencia
 
-(1) Centrálna evidencia je evidencia technických informácií a údajov o diaľniciach, rýchlostných cestách, cestách I. triedy, cestách II. triedy, cestách III. triedy a miestnych komunikáciách, ktorú tvoria najmä metaúdaje, súbory priestorových údajov, služby priestorových údajov, sieťové služby a sieťové technológie, sprístupňovanie a využívanie údajov pre akúkoľvek činnosť, pre ktorú sú tieto údaje využiteľné, činnosti a procesy súvisiace so zberom, spracovaním, využívaním a archiváciou údajov, súvisiace koordinačné a monitorovacie mechanizmy.
+(1) Centrálna evidencia je evidencia technických informácií a údajov o diaľniciach, cestách I. triedy, cestách II. triedy, cestách III. triedy a miestnych komunikáciách, ktorú tvoria najmä metaúdaje, súbory priestorových údajov, služby priestorových údajov, sieťové služby a sieťové technológie, sprístupňovanie a využívanie údajov pre akúkoľvek činnosť, pre ktorú sú tieto údaje využiteľné, činnosti a procesy súvisiace so zberom, spracovaním, využívaním a archiváciou údajov, súvisiace koordinačné a monitorovacie mechanizmy.
 
 (2) Vlastníci pozemných komunikácií vykonávajú technickú evidenciu pozemných komunikácií vo svojom vlastníctve a údaje z nej bezodplatne poskytujú do centrálnej evidencie a poskytujú ďalšiu súčinnosť v súvislosti s centrálnou evidenciou.
 
