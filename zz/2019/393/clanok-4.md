@@ -49,3 +49,55 @@ Zákon Slovenskej národnej rady č. 564/1991 Zb. o obecnej polícii v znení z�
   - Poznámka pod čiarou k odkazu 12aa znie:
 
   - „<sup>12aa</sup>) Napríklad § 27, 29 a 30 zákona č. 56/2012 Z. z. o cestnej doprave v znení zákona č. 9/2019 Z. z.“.
+
+- 7. Za § 26c sa vkladajú § 26d až 26i, ktoré vrátane nadpisov znejú:
+
+- „Osobitné sociálne poistenie príslušníkov obecnej polície
+
+- § 26d
+
+- Príspevok za prácu v obecnej polícii
+
+- (1)
+
+- Príspevok za prácu v obecnej polícii (ďalej len „príspevok“) je dávka osobitného sociálneho poistenia.
+
+- (2)
+
+- Oprávnenou osobou na uplatnenie nároku na príspevok je príslušník obecnej polície, ktorého pracovný pomer v obecnej polícii sa skončil, ak spĺňa podmienky nároku na príspevok uvedené v § 26e ods. 1.
+
+- (3)
+
+- Pod pojmom pracovný pomer v obecnej polícii sa na účely tohto zákona rozumie pracovný pomer fyzickej osoby s obcou so zaradením na výkon práce v obecnej polícii.
+
+- § 26g
+
+- Poistné
+
+- (1)
+
+- Poistné na príspevok platí príslušník obecnej polície, ktorého pracovný pomer v obecnej polícii trvá.
+
+- (2)
+
+- Sadzba poistného na príspevok pre príslušníka obecnej polície, ktorého pracovný pomer v obecnej polícii trvá, je 3 % z vymeriavacieho základu určeného všeobecným predpisom o sociálnom poistení.<sup>21</sup>)
+
+- (3)
+
+- Poistné sa platí na účet Sociálnej poisťovne v Štátnej pokladnici.
+
+- (4)
+
+- Na poistné na príspevok sa primerane vzťahujú ustanovenia všeobecného predpisu o sociálnom poistení upravujúce poistné na dôchodkové poistenie.<sup>22</sup>)
+
+- § 26i
+
+- Spoločné ustanovenia
+
+- Na výplatu príspevku, jeho termín a spôsob výplaty, zaokrúhľovanie a zvyšovanie sa primerane vzťahujú ustanovenia všeobecného predpisu o sociálnom poistení upravujúce dôchodkové dávky.<sup>22</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 20 až 23 znejú:
+
+  - „<sup>21</sup>) § 138 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+
+  - <sup>22</sup>) Zákon č. 461/2003 Z. z. v znení neskorších predpisov .“.

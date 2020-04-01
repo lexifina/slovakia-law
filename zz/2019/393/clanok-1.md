@@ -2,6 +2,8 @@
 
 Zákon č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení zákona č. 84/2009 Z. z., zákona č. 188/2009 Z. z., zákona č. 199/2009 Z. z., zákona č. 144/2010 Z. z., zákona č. 119/2011 Z. z., zákona č. 249/2011 Z. z., zákona č. 313/2011 Z. z., zákona č. 68/2012 Z. z., zákona č. 317/2012 Z. z., zákona č. 357/2012 Z. z., zákona č. 42/2013 Z. z., zákona č. 98/2013 Z. z., zákona č. 180/2013 Z. z., zákona č. 213/2013 Z. z., zákona č. 290/2013 Z. z., zákona č. 388/2013 Z. z., zákona č. 474/2013 Z. z., zákona č. 488/2013 Z. z., zákona č. 387/2015 Z. z., zákona č. 430/2015 Z. z., zákona č. 311/2016 Z. z., zákona č. 106/2018 Z. z. a zákona č. 83/2019 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 2 ods. 2 písm. e) sa slová „miesto vyznačené vodorovnou dopravnou značkou „Priečna súvislá čiara“, „Priečna súvislá čiara so symbolom Daj prednosť v jazde!“ alebo „Priečna súvislá čiara s nápisom STOP“; kde takáto vodorovná dopravná značka nie je, hranicu križovatky“ nahrádzajú slovami „miesto, ktoré“.
+
 - 2. V § 2 ods. 2 písm. f) sa za slovo „kolobežke“ vkladajú slová „bez pomocného motorčeka“ a slová „bicykel alebo motocykel“ sa nahrádzajú slovami „bicykel, motocykel alebo kolobežku s pomocným motorčekom“.
 
 - 3. Poznámka pod čiarou k odkazu 2 znie:
@@ -46,7 +48,11 @@ Zákon č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých z�
 
 - „j)
 
-- povinnosť umožniť vozidlu, ktoré používa typické zvukové znamenie doplnené zvláštnym výstražným modrým svetlom alebo červeným svetlom, prípadne ich kombináciou (ďalej len „zvláštne výstražné znamenie“) pri plnení špeciálnych úloh (ďalej len „vozidlo s právom prednostnej jazdy“), a vozidlu, ktoré sprevádza, bezpečný a plynulý prejazd podľa § 40 ods. 8,“.
+- povinnosť umožniť vozidlu, ktoré používa typické zvukové znamenie doplnené zvláštnym výstražným modrým svetlom alebo červeným svetlom, prípadne ich kombináciou (ďalej len „zvláštne výstražné znamenie“) pri plnení špeciálnych úloh (ďalej len „vozidlo s právom prednostnej jazdy“), a vozidlu, ktoré sprevádza, bezpečný a plynulý prejazd podľa § 40 ods. 8,
+
+- k)
+
+- povinnosť vytvoriť voľný priestor na prejazd vozidiel (ďalej len „záchranárska ulička“) podľa § 10 ods. 11 alebo zákaz jazdy v záchranárskej uličke podľa § 10 ods. 11.“.
 
 - 15. § 7 vrátane nadpisu znie:
 
@@ -86,15 +92,41 @@ Zákon č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých z�
 
 - 17. V § 9 ods. 3 sa slovo „bicykla“ nahrádza slovami „vodič nemotorového vozidla“.
 
+- 18. V § 10 ods. 6 sa slová „to neplatí, ak ide o striedavé radenie upravené príslušnou dopravnou značkou“ nahrádzajú slovami „to neplatí pri súbežnej jazde, keď vodič idúci v pravom jazdnom pruhu je povinný umožniť vodičovi prvého vozidla v ľavom jazdnom pruhu zaradenie sa do kolóny idúcich vozidiel, ak ten dáva znamenie o zmene smeru jazdy vpravo“ a na konci sa pripája táto veta: „Vodič jazdiaci v ľavom jazdnom pruhu pri zaraďovaní sa do kolóny idúcich vozidiel pritom nesmie ohroziť vodiča jazdiaceho v pravom jazdnom pruhu.“.
+
+- 19. V § 10 ods. 10 sa na konci pripájajú tieto vety: „Tam, kde sa jazdné pruhy v jednom smere jazdy zbiehajú, vodič idúci v priebežnom jazdnom pruhu je pri súbežnej jazde povinný umožniť vodičovi prvého vozidla nachádzajúceho sa v jazdnom pruhu, ktorý sa zaraďuje do priebežného jazdného pruhu, preradenie do priebežného jazdného pruhu, ak ten dáva znamenie o zmene smeru jazdy. Vodič pri zaraďovaní sa do priebežného jazdného pruhu pritom nesmie ohroziť vodiča jazdiaceho v priebežnom jazdnom pruhu.“.
+
+- 20. V § 10 sa za odsek 10 vkladá nový odsek 11, ktorý znie:
+
+- „(11)
+
+- Pri hustote cestnej premávky, ktorá vyvolá vznik kolóny stojacich vozidiel na diaľnici alebo na smerovo rozdelenej ceste mimo obce s najmenej dvomi jazdnými pruhmi v jednom smere jazdy, je vodič vozidla povinný pri súbežnej jazde vykonať taký jazdný úkon, ktorý umožní vytvorenie záchranárskej uličky v strede medzi dvomi jazdnými pruhmi a v úsekoch s viac ako dvomi jazdnými pruhmi medzi ľavým jazdným pruhom a k nemu priliehajúcim jazdným pruhom. Pri vytváraní záchranárskej uličky je na nevyhnutne potrebný čas vodič vozidla oprávnený vojsť aj na miesta, kde je to inak zakázané, ak tým neohrozí iného účastníka cestnej premávky. Záchranársku uličku môže použiť len vodič vozidla podľa § 40 ods. 1 alebo vodič vozidla zabezpečujúci odstránenie následkov dopravnej nehody alebo inej mimoriadnej udalosti; vodičovi iného vozidla je použitie záchranárskej uličky zakázané.“.
+
   - Doterajší odsek 11 sa označuje ako odsek 12.
 
 - 21. V § 11 ods. 2 sa vypúšťa slovo „predchádzaní,“.
 
+- 22. V § 16 ods. 2 sa vypúšťajú slová „a na rýchlostnej ceste“.
+
+- 23. V § 16 ods. 4 sa vypúšťajú slová „alebo po rýchlostnej ceste v obci,“.
+
+- 24. V § 20 odsek 5 znie:
+
+- „(5)
+
+- Ak je kruhový objazd označený dopravnou značkou „Kruhový objazd“ spolu s dopravnou značkou „Daj prednosť v jazde!“ alebo „Stoj, daj prednosť v jazde!“, vodič v kruhovom objazde má prednosť.“.
+
 - 25. V § 21 ods. 1 sa slová „z miesta mimo cesty,“ nahrádzajú slovami „z pozemku ležiaceho vedľa cesty, areálu s obmedzeným prístupom, oploteného objektu, garáže, parkoviska, obratiska električiek a podobných miest,“.
+
+- 26. V § 22 ods. 4 písm. c) a § 25 ods. 1 písm. c) sa za slovo „chodcov“ vkladá čiarka a slová „na mieste na prechádzanie“.
 
 - 27. V § 23 ods. 3 sa za slová „s parkovacím preukazom“ vkladajú slová „pre fyzickú osobu so zdravotným postihnutím (ďalej len „parkovací preukaz“).“.
 
+- 28. V § 24 ods. 3 sa vypúšťajú slová „a rýchlostnej ceste“.
+
 - 29. V § 25 ods. 1 písm. h) sa vypúšťajú slová „koridor pre cyklistov,“.
+
+- 30. V § 25 ods. 1 písm. k) sa na konci pripájajú tieto slová: „a na ochrannom pruhu pre cyklistov“.
 
 - 31. V § 25 ods. 1 písm. n) sa vypúšťajú slová „z miesta mimo cesty“.
 
@@ -102,13 +134,37 @@ Zákon č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých z�
 
 - 33. V § 25 sa vypúšťa odsek 3.
 
+- 34. Nadpis nad § 35 znie: „Osobitosti premávky na diaľnici a ceste pre motorové vozidlá“.
+
 - 35. Poznámka pod čiarou k odkazu 20 znie:
 
 - „<sup>20</sup>) Čl. 4 nariadenia Európskeho parlamentu a Rady (EÚ) 2018/858 z 30. mája 2018 o schvaľovaní motorových vozidiel a ich prípojných vozidiel, ako aj systémov, komponentov a samostatných technických jednotiek určených pre takéto vozidlá a o dohľade nad trhom s nimi, ktorým sa menia nariadenia (ES) č. 715/2007 a (ES) č. 595/2009 a zrušuje smernica 2007/46/ES (Ú. v. EÚ L 151, 14. 6. 2018).“.
 
+- 36. § 37 znie:
+
+- „§ 37
+
+- (1)
+
+- Cestu pre motorové vozidlá môžu používať len vodiči motorových vozidiel s najväčšou konštrukčnou rýchlosťou najmenej 60 km · h<sup>-1</sup>. Iným účastníkom cestnej premávky je používanie cesty pre motorové vozidlá zakázané okrem prechádzania alebo prejazdu iných účastníkov cestnej premávky v križovatke alebo na inom mieste na to určenom.
+
+- (2)
+
+- Ak vodič motorového vozidla počas jazdy zistí na vozidle alebo na náklade chybu, pre ktorú nemožno dosiahnuť na rovine rýchlosť najmenej 60 km · h<sup>-1</sup>, musí cestu pre motorové vozidlá opustiť na najbližšom možnom mieste.
+
+- (3)
+
+- Ustanovenia o premávke na diaľnici uvedené v § 35 ods. 2 až 5 a § 36 ods. 1, 3 a 4 platia aj na ceste pre motorové vozidlá.
+
+- (4)
+
+- Ak nie je v odsekoch 1 až 3 a § 35 a 36 uvedené inak, platia pre premávku na diaľnici a na ceste pre motorové vozidlá ostatné ustanovenia tohto zákona.“.
+
 - 37. Poznámka pod čiarou k odkazu 20b znie:
 
 - „<sup>20b</sup>) § 14 ods. 5 písm. b) a c) vyhlášky č. 134/2018 Z. z.“.
+
+- 38. V § 39 ods. 1 sa slová „rýchlostnej ceste“ nahrádzajú slovami „ceste pre motorové vozidlá“.
 
 - 39. V § 39 ods. 7 sa vkladá nové písmeno a), ktoré znie:
 
@@ -158,6 +214,8 @@ Zákon č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých z�
 
 - 49. V § 52 ods. 2 prvej vete sa za slová „to neplatí“ vkladajú slová „pre cyklistov podľa § 55 ods. 1, pre vodičov samovyvažovacieho vozidla podľa § 55a ods. 2“, slová „státie vozidla, pri ktorom ostane“ sa nahrádzajú slovami „státie vozidla s najväčšou prípustnou celkovou hmotnosťou neprevyšujúcou 3 500 kg na okraji chodníka priľahlého k ceste, pri ktorom ostane súvislá“ a za prvú vetu sa vkladá nová druhá veta, ktorá znie: „Pri zastavení alebo státí podľa prvej vety možno vchádzať na chodník a vychádzať z neho len v mieste zastavenia alebo státia vozidla a nemožno pritom prekonávať zábrany chrániace chodník pred zastavením alebo státím vozidiel.“.
 
+- 50. V § 53 ods. 1 prvej vete sa za slovo „chodcov,“ vkladajú slová „miesto na prechádzanie,“ a v druhej vete sa za slovo „chodcov“ vkladajú slová „a na mieste na prechádzanie“.
+
 - 51. V § 55 ods. 2 sa vypúšťa štvrtá veta.
 
 - 52. V § 55 odsek 9 znie:
@@ -181,6 +239,18 @@ Zákon č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých z�
 - „(6)
 
 - Ustanovenia o jazde na samovyvažovacom vozidle platia aj na jazdu na kolobežke s pomocným motorčekom.“.
+
+- 57. V § 60 sa vypúšťajú odseky 3, 4, 8 a 11.
+
+  - Doterajšie odseky 5 až 7, 9, 10, 12 a 13 sa označujú ako odseky 3 až 9.
+
+- 58. V § 60 ods. 5 sa vypúšťa druhá a tretia veta.
+
+- 59. V § 61 sa vypúšťa odsek 3.
+
+  - Doterajšie odseky 4 a 5 sa označujú ako odseky 3 a 4.
+
+- 60. V § 61 ods. 3 a 4 sa slovo „prenosné“ nahrádza slovom „dočasné“.
 
 - 61. V § 68 ods. 7 písm. b) sa slová „rodné číslo alebo dátum narodenia účastníka dopravnej nehody,“ nahrádzajú slovami „rodné číslo účastníka dopravnej nehody, ak ho má pridelené, alebo dátum narodenia účastníka dopravnej nehody, ak rodné číslo nemá pridelené,“.
 
@@ -314,6 +384,12 @@ Zákon č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých z�
 
 - 82. V § 77 ods. 4 písm. g) sa za slovo „číslo“ vkladá čiarka a slová „ak ho má pridelené, alebo dátum narodenia, ak rodné číslo nemá pridelené,“.
 
+- 83. V § 77 ods. 4 písm. h) sa na konci pripájajú tieto slová: „a § 78 ods. 2 písm. b) a ods. 3
+
+- písm. b)“.
+
+- 84. V § 78 ods. 2 písm. b) a ods. 3 písm. b) sa slová „predloží čestné vyhlásenie o tom“ nahrádzajú slovami „čestne vyhlási“.
+
 - 85. § 78 sa dopĺňa odsekmi 5 a 6, ktoré znejú:
 
 - „(5)
@@ -324,7 +400,31 @@ Zákon č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých z�
 
 - Vodičské oprávnenie skupiny D možno udeliť aj žiadateľovi, ktorý dovŕšil vek 21 rokov a je príslušníkom ozbrojeného bezpečnostného zboru, ozbrojeného zboru, Hasičského a záchranného zboru alebo profesionálnym vojakom.“.
 
+- 86. V § 79 odsek 2 znie:
+
+- „(2)
+
+- Odborná spôsobilosť žiadateľa sa zisťuje skúškou z odbornej spôsobilosti, ktorá sa skladá z
+
+- a)
+
+- teoretickej skúšky a
+
+- b)
+
+- skúšky z vedenia motorových vozidiel.“.
+
 - 87. V § 80 ods. 2 sa slová „v ktorej žiadateľ absolvoval vodičský kurz“ nahrádzajú slovami „ktorá žiadateľovi vydala osvedčenie“ a slová „v ktorej absolvoval vodičský kurz“ sa nahrádzajú slovami „ktorá žiadateľovi vydala osvedčenie“.
+
+- 88. V § 80 ods. 6 sa slová „skúškou z predpisov o cestnej premávke“ nahrádzajú slovami „teoretickou skúškou“ a slová „§ 79 ods. 2 písm. c)“ sa nahrádzajú slovami „§ 79 ods. 2
+
+- písm. b)“.
+
+- 89. V § 80 odsek 9 znie:
+
+- „(9)
+
+- Otázky na skúšobné testy na teoretickú skúšku vypracúva ministerstvo vnútra.“.
 
 - 90. V § 84 sa za odsek 1 vkladá nový odsek 2, ktorý znie:
 
@@ -345,6 +445,12 @@ Zákon č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých z�
 - 93. V § 89 ods. 2 písm. b) a ods. 3 písm. b) a § 91 ods. 13 písm. b) sa slová „dátum narodenia alebo rodné číslo posudzovanej osoby,“ nahrádzajú slovami „rodné číslo posudzovanej osoby, ak ho má pridelené, alebo dátum narodenia posudzovanej osoby, ak rodné číslo nemá pridelené,“.
 
 - 94. V § 90 ods. 5 písm. b) sa slová „dátum narodenia alebo rodné číslo dotknutej osoby,“ nahrádzajú slovami „rodné číslo dotknutej osoby, ak ho má pridelené, alebo dátum narodenia dotknutej osoby, ak rodné číslo nemá pridelené,“.
+
+- 95. V § 91 ods. 1 písmeno b) znie:
+
+- „b)
+
+- § 79 ods. 2 písm. b) alebo“.
 
 - 96. V § 91 ods. 3 sa vypúšťajú slová „za ktoré mu bola uložená pokuta vo výške 60 eur a viac,“.
 
@@ -762,6 +868,8 @@ Zákon č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých z�
 
 - 166. V § 137 ods. 2 písm. a) sa slová „písm. c)“ nahrádzajú slovami „písm. d)“.
 
+- 167. V § 137 ods. 2 písm. k) sa na konci pripájajú tieto slová: „alebo zneužitie záchranárskej uličky“.
+
 - 168. V § 137 ods. 2 písm. l) sa slovo „a“ nahrádza slovom „alebo“.
 
 - 169. V § 137 ods. 2 písmeno n) znie:
@@ -962,7 +1070,19 @@ Zákon č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých z�
 
 - „(12)
 
-- Držiteľovi vozidla, ktorý porušil povinnosť podľa § 6a písm. j), orgán Policajného zboru uloží pokutu 300 eur.“.
+- Držiteľovi vozidla, ktorý porušil povinnosť podľa § 6a písm. j), orgán Policajného zboru uloží pokutu 300 eur.
+
+- (13)
+
+- Držiteľovi vozidla, ktorý porušil povinnosť podľa § 6a písm. k), orgán Policajného zboru uloží pokutu
+
+- a)
+
+- 99 eur, ak bola porušená povinnosť vytvoriť záchranársku uličku,
+
+- b)
+
+- 300 eur, ak bol porušený zákaz jazdy v záchranárskej uličke.“.
 
 - 178. V § 139b sa za odsek 2 vkladá nový odsek 3, ktorý znie:
 
