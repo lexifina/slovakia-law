@@ -53,3 +53,7 @@
 - 18) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 215/2002 Z. z.
 
 - 19) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
+
+- 21) § 138 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+
+- 22) Zákon č. 461/2003 Z. z. v znení neskorších predpisov .
