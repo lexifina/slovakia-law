@@ -435,3 +435,5 @@
 - § 160 ods. 2 zákona č. 55/2017 Z. z.
 
 - 132) § 5 ods. 7 písm. n) a o) zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+
+- 133) § 5 a 6 zákona č. 600/2003 Z. z. v znení zákona č. 468/2011 Z. z.
