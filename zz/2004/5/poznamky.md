@@ -351,3 +351,5 @@
 - 64) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
 
 - 65) § 75 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
+
+- 66) Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
