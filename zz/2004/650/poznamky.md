@@ -199,3 +199,5 @@
 - 51) § 27 Zákonníka práce.
 
 - 52) § 1 ods. 2 písm. i), § 2 a 18 zákona č. 659/2007 Z. z.
+
+- 53) § 293ew ods. 1 a 2 zákona č. 461/2003 Z. z. v znení zákona č. 68/2020 Z. z.
