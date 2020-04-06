@@ -311,3 +311,11 @@
 - § 160 ods. 2 zákona č. 55/2017 Z. z.
 
 - 68) § 5 ods. 7 písm. o) zákona č. 595/2003 Z. z. v znení zákona č. 63/2018 Z. z.
+
+- 69) § 2 ods. 15 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+
+- 70) § 3 ods. 1 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
+
+- 71) Čl. 5 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu v znení neskorších predpisov.
+
+- 72) § 293ew ods. 2 písm. a) zákona č. 461/2003 Z. z. v znení zákona č. 68/2020 Z. z.
