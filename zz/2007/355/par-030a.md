@@ -37,3 +37,13 @@
 - b) právnickou osobou, si môže činnosť pracovnej zdravotnej služby podľa § 30aa vykonávať zdravotníckym pracovníkom, ktorý je s ním v pracovnoprávnom vzťahu alebo v obdobnom pracovnom vzťahu.
 
 (9) Pracovná zdravotná služba spolupracuje s bezpečnostnotechnickou službou,<sup>34e</sup>) príslušnými organizačnými útvarmi zamestnávateľa a so zástupcami zamestnancov vrátane zástupcov zamestnancov pre bezpečnosť a ochranu zdravia pri práci. Zabezpečením pracovnej zdravotnej služby dodávateľským spôsobom nie sú dotknuté povinnosti zamestnávateľa v oblasti ochrany zdravia pri práci a jeho zodpovednosť za zabezpečenie ochrany zdravia zamestnancov pri práci.
+
+(10) V čase krízovej situácie poskytovatelia pracovnej zdravotnej služby, ktorí sú držiteľmi oprávnenia na výkon pracovnej zdravotnej služby podľa § 30d, a poskytovatelia pracovnej zdravotnej služby, ktorí vykonávajú činnosť dodávateľským spôsobom pre zamestnancov vykonávajúcich prácu zaradenú do prvej alebo druhej kategórie podľa § 30c,
+
+- a) nevykonávajú dohľad nad pracovnými podmienkami na pracoviskách zamestnávateľov podľa odseku 2 písm. a),
+
+- b) nevykonávajú posudzovanie zdravotnej spôsobilosti na prácu výkonom lekárskych preventívnych prehliadok vo vzťahu k práci podľa odseku 2 písm. b),
+
+- c) vykonávajú poradenstvo zamerané na ochranu zdravia pri práci a predchádzanie vzniku chorôb z povolania a ochorení súvisiacich s prácou podľa odseku 2 písm. c) a so zameraním na mimoriadnu epidemiologickú situáciu v čase krízovej situácie najmä telefonicky alebo elektronickou formou; poradenstvo nemôžu vykonávať na pracoviskách zamestnávateľov.
+
+(11) Poskytovatelia pracovnej zdravotnej služby podľa odseku 10 vykonávajú zdravotný dohľad pre zamestnancov v rozsahu podľa § 30ad a § 30ab bezodkladne po skončení krízovej situácie.

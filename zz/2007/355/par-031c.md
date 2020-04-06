@@ -13,3 +13,5 @@
 (6) Ak celoslovenská komisia správnosť pôvodného uznania choroby z povolania alebo neuznania choroby z povolania špecializovaným pracoviskom potvrdí, náklady spojené s opätovným uznaním choroby z povolania alebo neuznaním choroby z povolania uhrádza žiadateľ špecializovanému pracovisku, a ak vznikli náklady, aj príslušnému orgánu verejného zdravotníctva.
 
 (7) Na úhradu nákladov podľa odseku 6 sa vzťahujú všeobecne záväzné právne predpisy upravujúce úhradu nákladov za poskytovanie zdravotnej starostlivosti.
+
+(8) V čase krízovej situácie sa opätovné posúdenie uznanej choroby z povolania alebo neuznanej choroby z povolania nevykonáva.

@@ -65,3 +65,13 @@
 - b) zamestnávateľovi,
 
 - c) príslušnému orgánu verejného zdravotníctva.
+
+(17) V čase krízovej situácie
+
+- a) špecializované pracoviská pracovného lekárstva a dermatovenerológie podľa odseku 2 neposudzujú zdravotný stav fyzickej osoby na účely uznania alebo neuznania choroby z povolania a neuznávajú chorobu z povolania,
+
+- b) príslušné orgány verejného zdravotníctva neprešetrujú pracovné podmienky a spôsob práce posudzovanej osoby pri podozrení na chorobu z povolania podľa odseku 4,
+
+- c) nezasadá regionálna komisia, regionálna komisia na posudzovanie kožných chorôb z povolania podľa odseku 7 a celoslovenská komisia podľa odseku 9.
+
+(18) Špecializované pracoviská uznávajú chorobu z povolania bezodkladne po skončení krízovej situácie.

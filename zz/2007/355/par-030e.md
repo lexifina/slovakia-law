@@ -71,3 +71,15 @@
 (17) Zamestnávateľ môže zabezpečiť lekárske preventívne prehliadky vo vzťahu k práci u fyzických osôb, ktoré sa uchádzajú o zamestnanie, a u zamestnancov, ktorí vykonávajú prácu zaradenú do prvej kategórie alebo druhej kategórie, pričom zamestnávateľ určí profesie a pracoviská po prerokovaní so zástupcami zamestnancov a s lekárom podľa odseku 6; to sa nevzťahuje na výkon lekárskych preventívnych prehliadok vo vzťahu k práci podľa odseku 1 písm. a) druhého bodu, tretieho bodu alebo štvrtého bodu, písm. b) druhého bodu alebo písm. c) druhého bodu. Ak zamestnávateľ poskytuje lekárske preventívne prehliadky vo vzťahu k práci podľa prvej vety, účasť fyzických osôb, ktoré sa uchádzajú o zamestnanie, a zamestnancov na lekárskej preventívnej prehliadke vo vzťahu k práci je povinná.
 
 (18) Náklady, ktoré vznikli v súvislosti s posudzovaním zdravotnej spôsobilosti na prácu vrátane nákladov, ktoré vznikli v súvislosti s posudzovaním zdravotnej spôsobilosti na prácu pred uzatvorením pracovnoprávneho vzťahu alebo obdobného pracovného vzťahu a po skončení pracovnoprávneho vzťahu alebo obdobného pracovného vzťahu podľa odseku 9 písm. e), uhrádza zamestnávateľ alebo fyzická osoba – podnikateľ, ktorá nezamestnáva iné fyzické osoby, ak osobitný predpis neustanovuje inak.
+
+(19) V čase krízovej situácie sa posudzovanie zdravotnej spôsobilosti na prácu na základe posúdenia zdravotného rizika z expozície faktorom práce a pracovného prostredia a výsledkov lekárskej preventívnej prehliadky vo vzťahu k práci nevykonáva u zamestnanca podľa odseku 1 písm. a), u fyzickej osoby – podnikateľa, ktorá nezamestnáva iné fyzické osoby, podľa odseku 1 písm. b) a u fyzickej osoby, ktorá sa uchádza o zamestnanie, podľa odseku 1 písm. c), ak v odseku 20 nie je ustanovené inak.
+
+(20) Posudzovanie zdravotnej spôsobilosti na prácu sa musí vykonať u zdravotníckych pracovníkov, ktorí poskytujú zdravotnú starostlivosť v priamom ohrození života a zdravia v čase pandémie z dôvodu šírenia vysoko nebezpečnej nákazy.
+
+(21) V čase krízovej situácie sa čestným vyhlásením nahrádza
+
+- a) posúdenie zdravotnej spôsobilosti fyzickej osoby, ktorá sa uchádza o zamestnanie, podľa odseku 1 písm. c), ktorého vzor je uvedený v prílohe č. 3ca,
+
+- b) potvrdenie o zdravotnej spôsobilosti fyzickej osoby na vykonávanie epidemiologicky závažnej činnosti pri výrobe, manipulácii a uvádzaní do obehu potravín a pokrmov, ktorého vzor je uvedený v prílohe č. 3cb.
+
+(22) Čestné vyhlásenie podľa odseku 21 sa musí nahradiť posúdením zdravotnej spôsobilosti na prácu alebo potvrdením o zdravotnej spôsobilosti fyzickej osoby na vykonávanie epidemiologicky závažnej činnosti pri výrobe, manipulácii a uvádzaní do obehu potravín a pokrmov najneskôr do 90 dní od skončenia krízovej situácie.

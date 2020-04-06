@@ -17,3 +17,5 @@
 - b) poskytovateľ zdravotnej starostlivosti, ktorý posudzoval zdravotnú spôsobilosť na prácu podľa § 30f, ak sa záver pôvodného lekárskeho posudku o zdravotnej spôsobilosti na prácu nepotvrdí.
 
 (7) Na úhradu nákladov podľa odseku 6 sa vzťahujú všeobecne záväzné právne predpisy upravujúce úhradu nákladov za poskytovanie zdravotnej starostlivosti.
+
+(8) V čase krízovej situácie sa opätovné posúdenie zdravotnej spôsobilosti na prácu nevykonáva.
