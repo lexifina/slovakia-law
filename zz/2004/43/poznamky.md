@@ -44,8 +44,6 @@
 
 - 35) § 142 ods. 4 zákona č. 461/2003 Z. z.
 
-- 36) § 143 ods. 2 zákona č. 461/2003 Z. z.
-
 - 36a) § 241a ods. 1 zákona č. 461/2003 Z. z. v znení zákona č. 555/2007 Z. z.
 
 - 36b) § 67 ods. 1 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
