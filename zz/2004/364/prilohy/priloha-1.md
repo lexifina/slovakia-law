@@ -34,7 +34,7 @@ Príloha č. 1 k zákonu č. 364/2004 Z. z.
 
   - Prioritné látky
 
-- [Zoznam II](../assets/75bfb1a7e006cb114fe8576ee71fa0bb0a7f83197d7ddf35b92aef2914b5a663.pdf)
+- [Zoznam II](../assets/1b65ebc54e0617d88bee262566311fb577eef22c4272802775f0039bc7488aac.pdf)
 
   - ZOZNAM III
 
