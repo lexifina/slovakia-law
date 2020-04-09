@@ -121,3 +121,15 @@
 - 20) § 14 ods. 5 zákona Slovenskej národnej rady č. 472/1990 Zb. o organizácii miestnej štátnej správy.
 
 - § 13 ods. 4 zákona Slovenskej národnej rady č. 595/1990 Zb. o štátnej správe pre životné prostredie.
+
+- 21) § 9 ods. 2 písm. g) zákona č. 138/1991 Zb. v znení neskorších predpisov.
+
+- 22) § 9a ods. 1 písm. c) zákona č. 138/1991 Zb. v znení neskorších predpisov.
+
+- 23) § 9a ods. 8 písm. e) a § 9a ods. 9 písm. c) zákona č. 138/1991 Zb. v znení neskorších predpisov.
+
+- 24) § 281 až 288 Obchodného zákonníka.
+
+- 25) Zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov v znení neskorších predpisov.
+
+- 26) Napríklad zákon č. 323/2015 Z. z. o finančných nástrojoch financovaných z európskych štrukturálnych a investičných fondov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
