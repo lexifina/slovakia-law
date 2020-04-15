@@ -1,0 +1,7 @@
+# § 28b Územie medzinárodného významu
+
+(1) Územím medzinárodného významu sa podľa tohto zákona rozumie lokalita, na ktorú sa vzťahujú záväzky a odporúčania v oblasti ochrany prírody a krajiny, ktoré pre Slovenskú republiku vyplývajú z medzinárodných zmlúv,<sup>64e</sup>) ktorými je viazaná, z členstva v medzinárodných organizáciách a z medzinárodných programov, ku ktorým Slovenská republika pristúpila. Územia medzinárodného významu tvoria mokrade medzinárodného významu, lokality svetového prírodného dedičstva, biosférické rezervácie a iné medzinárodne významné územia evidované v zoznamoch, ktoré vedú príslušné orgány zriadené na základe medzinárodných zmlúv, ktorými je Slovenská republika viazaná, orgány medzinárodných organizácií, ktorých je Slovenská republika členom, alebo orgány medzinárodných programov, ku ktorým Slovenská republika pristúpila.
+
+(2) Ministerstvo vedie zoznam území medzinárodného významu podľa jednotlivých kategórií a uverejňuje ho vo svojom vestníku a na svojom webovom sídle. Zoznam území medzinárodného významu obsahuje názov lokality, výmeru lokality, katastrálne územie, v ktorom sa lokalita nachádza, mapu s vyznačenými hranicami lokality a odôvodnenie zaradenia lokality medzi územia medzinárodného významu.
+
+(3) Ak si to vyžaduje plnenie záväzkov a odporúčaní podľa odseku 1, územie medzinárodného významu sa vyhlási za chránené územie podľa tohto zákona so stupňom ochrany, ktorého uplatnením sa zabezpečí ochrana územia medzinárodného významu v súlade s týmito záväzkami a odporúčaniami.

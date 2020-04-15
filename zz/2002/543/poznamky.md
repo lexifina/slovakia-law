@@ -182,7 +182,7 @@
 
 - 64c) § 3 písm. f) zákona č. 24/2006 Z. z. v znení neskorších predpisov.
 
-- 64e) § 4 ods. 1 a 2 zákona č. 544/2002 Z. z. o Horskej záchrannej službe v znení zákona č. 567/2005 Z. z.
+- 64e) Napríklad Dohovor o mokradiach majúcich medzinárodný význam predovšetkým ako biotopy vodného vtáctva (oznámenie Federálneho ministerstva zahraničných vecí č. 396/1990 Zb.), Dohovor o ochrane svetového kultúrneho a prírodného dedičstva (oznámenie Federálneho ministerstva zahraničných vecí č. 159/1991 Zb.), Dohovor o biologickej diverzite (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 34/1996 Z. z.), Dohovor o ochrane sťahovavých druhov voľne žijúcich živočíchov (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 91/1998 Z. z.), Dohovor o ochrane európskych voľne žijúcich organizmov a prírodných stanovíšť (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 93/1998 Z. z.), Dohoda o ochrane netopierov v Európe (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 250/1999 Z. z.), Dohoda o ochrane africko-euroázijských druhov vodného sťahovavého vtáctva (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 268/2002 Z. z.), Rámcový dohovor o ochrane a trvalo udržateľnom rozvoji Karpát (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 111/2006 Z. z.).
 
 - 64f) § 4 ods. 1 a ods. 2 písm. a), g), h) a j) zákona č. 544/2002 Z. z. o Horskej záchrannej službe v znení neskorších predpisov.
 
