@@ -748,6 +748,28 @@ Zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení zákona č. 525/
 
   - <sup>64c</sup>) § 3 písm. f) zákona č. 24/2006 Z. z. v znení neskorších predpisov.“.
 
+- 74. Za § 28 sa vkladajú § 28a a 28b, ktoré vrátane nadpisov znejú:
+
+- „§ 28b
+
+- Územie medzinárodného významu
+
+- (1)
+
+- Územím medzinárodného významu sa podľa tohto zákona rozumie lokalita, na ktorú sa vzťahujú záväzky a odporúčania v oblasti ochrany prírody a krajiny, ktoré pre Slovenskú republiku vyplývajú z medzinárodných zmlúv,<sup>64e</sup>) ktorými je viazaná, z členstva v medzinárodných organizáciách a z medzinárodných programov, ku ktorým Slovenská republika pristúpila. Územia medzinárodného významu tvoria mokrade medzinárodného významu, lokality svetového prírodného dedičstva, biosférické rezervácie a iné medzinárodne významné územia evidované v zoznamoch, ktoré vedú príslušné orgány zriadené na základe medzinárodných zmlúv, ktorými je Slovenská republika viazaná, orgány medzinárodných organizácií, ktorých je Slovenská republika členom, alebo orgány medzinárodných programov, ku ktorým Slovenská republika pristúpila.
+
+- (2)
+
+- Ministerstvo vedie zoznam území medzinárodného významu podľa jednotlivých kategórií a uverejňuje ho vo svojom vestníku a na svojom webovom sídle. Zoznam území medzinárodného významu obsahuje názov lokality, výmeru lokality, katastrálne územie, v ktorom sa lokalita nachádza, mapu s vyznačenými hranicami lokality a odôvodnenie zaradenia lokality medzi územia medzinárodného významu.
+
+- (3)
+
+- Ak si to vyžaduje plnenie záväzkov a odporúčaní podľa odseku 1, územie medzinárodného významu sa vyhlási za chránené územie podľa tohto zákona so stupňom ochrany, ktorého uplatnením sa zabezpečí ochrana územia medzinárodného významu v súlade s týmito záväzkami a odporúčaniami.“.
+
+  - Poznámka pod čiarou k odkazu 64e znie:
+
+  - „<sup>64e</sup>) Napríklad Dohovor o mokradiach majúcich medzinárodný význam predovšetkým ako biotopy vodného vtáctva (oznámenie Federálneho ministerstva zahraničných vecí č. 396/1990 Zb.), Dohovor o ochrane svetového kultúrneho a prírodného dedičstva (oznámenie Federálneho ministerstva zahraničných vecí č. 159/1991 Zb.), Dohovor o biologickej diverzite (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 34/1996 Z. z.), Dohovor o ochrane sťahovavých druhov voľne žijúcich živočíchov (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 91/1998 Z. z.), Dohovor o ochrane európskych voľne žijúcich organizmov a prírodných stanovíšť (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 93/1998 Z. z.), Dohoda o ochrane netopierov v Európe (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 250/1999 Z. z.), Dohoda o ochrane africko-euroázijských druhov vodného sťahovavého vtáctva (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 268/2002 Z. z.), Rámcový dohovor o ochrane a trvalo udržateľnom rozvoji Karpát (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 111/2006 Z. z.).“.
+
 - 75. § 29 a 30 vrátane nadpisov znejú:
 
 - „§ 29
