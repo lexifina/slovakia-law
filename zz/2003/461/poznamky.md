@@ -439,3 +439,5 @@
 - 133) § 5 a 6 zákona č. 600/2003 Z. z. v znení zákona č. 468/2011 Z. z.
 
 - 134) § 2 ods. 15 zákona č. 431/2002 Z. z. v znení zákona č. 333/2014 Z. z.
+
+- 135) § 5 ods. 4 písm. h) a § 48 ods. 4 písm. e) zákona č. 355/2007 Z. z.
