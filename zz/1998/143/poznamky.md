@@ -173,3 +173,7 @@
 - Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 130/1999 Z. z. o Dohode o vývoji, prijatí a zavedení jednotných leteckých predpisov z 11. septembra 1990.
 
 - Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 84/2000 Z. z. o pristúpení Slovenskej republiky k Medzinárodnému dohovoru EUROCONTROL týkajúceho sa spolupráce v záujme bezpečnosti letovej prevádzky, zmeneného a doplneného v Bruseli v roku 1981.
+
+- 15) Dohovor o medzinárodnom civilnom letectve (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 196/1995 Z. z.).
+
+- Dohoda o vývoji, prijatí a zavedení jednotných leteckých predpisov z 11. septembra 1990 (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 130/1999 Z. z.).
