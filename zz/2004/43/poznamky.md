@@ -255,3 +255,5 @@
 - 97) § 156a Obchodného zákonníka v znení neskorších predpisov.
 
 - 98) § 1 ods. 2 písm. i), § 2 a 18 zákona č. 659/2007 Z. z.
+
+- 99) § 293ex ods. 1 až 3 zákona č. 461/2003 Z. z. v znení zákona č. 95/2020 Z. z.
