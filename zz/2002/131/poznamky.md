@@ -192,6 +192,8 @@
 
 - 50c) § 6 ods. 2 zákona č. 172/2005 Z. z. v znení zákona č. 40/2011 Z. z.
 
+- 50d) § 150 ods. 8 písm. c) a d) zákona č. 245/2008 Z. z. v znení zákona č. 56/2020 Z. z.
+
 - 51) § 2 ods. 1 písm. a) zákona č. 53/1964 Zb.
 
 - Vyhláška Slovenskej komisie pre vedecké hodnosti č. 65/1977 Zb. v znení vyhlášky č. 302/1990 Zb.
