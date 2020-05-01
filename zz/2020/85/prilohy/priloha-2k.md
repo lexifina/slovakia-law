@@ -1,0 +1,1 @@
+Príloha č. 2 k vyhláške č. 85/2020 Z. z. [Ohlásenie a predkladanie projektových produktov na posúdenie ekonomickej výhodnosti a súladu s programovým riadením](../assets/9b406bc134dbbb6a811415631572957fc0ce3af9bfc60badfc127ef6817d9a6b.pdf)
