@@ -1,6 +1,6 @@
 Príloha č. 1 k zákonu č. 180/2014 Z. z.
 
-- MINIMÁLNY POČET PODPISOV VOLIČOV PODPORUJÚCICH KANDIDATÚRU NEZÁVISLÉHO KANDIDÁTA PRE VOĽBY POSLANCOV OBECNÉHO ZASTUPITEĽSTVA A VOĽBY STAROSTU OBCE Počet obyvateľov obce | Počet podpisov voličov na podpisovej listine
+- MINIMÁLNY POČET PODPISOV VOLIČOV PODPORUJÚCICH KANDIDATÚRU KANDIDÁTA BEZ POLITICKEJ PRÍSLUŠNOSTI PRE VOĽBY POSLANCOV OBECNÉHO ZASTUPITEĽSTVA A VOĽBY STAROSTU OBCE Počet obyvateľov obce | Počet podpisov voličov na podpisovej listine
 
 - ---------------------------------- | ------------------------------------------------------
 
