@@ -2,7 +2,7 @@ Príloha č. 3b k vyhláške č. 228/2014 Z. z.
 
 - VYHLÁSENIE O DRUHOTNOM PALIVE
 
-  - Vyhlásenie o druhotnom palive, ktorým sa potvrdzuje splnenie požiadaviek na druhotné palivo podľa § 9 ods. 11 písm. c) vyhlášky Ministerstva životného prostredia č. 228/2014 Z. z. v znení vyhlášky č.
+  - Vyhlásenie o druhotnom palive, ktorým sa potvrdzuje splnenie požiadaviek na druhotné palivo podľa § 9 ods. 11 písm. c)
 
   - 1. | Údaje o vyhlásení: Evidenčné číslo: Dátum vydania: Platnosť do:
 

@@ -8,11 +8,11 @@
 
 - 3a) § 8 ods. 2 písm. i) vyhlášky č. 410/2012 Z. z.
 
-- 4) § 2 písm. a) nariadenia vlády Slovenskej republiky č. 370/2006 Z. z. o opatreniach na zníženie emisií zo spaľovacích motorov inštalovaných v necestných strojoch.
+- 4) Čl. 3 bod 1 nariadenia Európskeho parlamentu a Rady (EÚ) 2016/1628 zo 14. septembra 2016 o požiadavkách na emisné limity plynných a pevných znečisťujúcich látok a typové schválenie spaľovacích motorov necestných pojazdných strojov, ktorým sa menia nariadenia (EÚ) č. 1024/2012 a (EÚ) č. 167/2013 a ktorým sa mení a zrušuje smernica 97/68/ES (Ú. v. EÚ L 252, 16. 9. 2016) v platnom znení.
 
-- 5) § 2 písm. w) nariadenia vlády Slovenskej republiky č. 370/2006 Z. z.
+- 5) Čl. 3 bod 34 nariadenia (EÚ) 2016/1628 v platnom znení.
 
-- 6) § 2 písm. a) nariadenia vlády Slovenskej republiky č. 305/2006 Z. z. o opatreniach proti emisiám plynných a pevných znečisťujúcich látok motorov na pohon poľnohospodárskych traktorov a lestných traktorov.
+- 6) Čl. 3 bod 8 nariadenia Európskeho parlamentu a Rady (EÚ) č. 167/2013 z 5. februára 2013 o schvaľovaní poľnohospodárskych a lesných vozidiel a o dohľade nad trhom s týmito vozidlami (Ú. v. EÚ L 60, 2. 3. 2013) v platnom znení.
 
 - 7) § 1 ods. 3 písm. a) nariadenia vlády Slovenskej republiky č. 417/2004 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na plavidlá určené na rekreačné účely.
 
@@ -89,6 +89,8 @@
 - 25) Napríklad STN EN ISO/IEC 17025 Všeobecné požiadavky na kompetentnosť skúšobných a kalibračných laboratórií (01 5253), súbor STN EN ISO 9001 Systémy manažérstva kvality. Požiadavky (01 0320), STN EN ISO/IEC 17065 Posudzovanie zhody. Požiadavky na orgány vykonávajúce certifikáciu výrobkov, procesov a služieb (01 5256), STN EN ISO 14001 Systémy environmentálneho manažérstva. Požiadavky s pokynmi na použitie (83 9001).
 
 - 26) Zákon č. 351/2012 Z. z. o environmentálnom overovaní a registrácii organizácií v schéme Európskej únie pre environmentálne manažérstvo a audit a o zmene a doplnení niektorých zákonov.
+
+- 26a) STN EN 16942 Palivá. Označovanie kompatibility vozidiel. Grafické označenie informácií pre spotrebiteľa (65 6500).
 
 - 27) Kapitola II nariadenia Komisie (EÚ) č. 600/2012 z 21. júna 2012 o overovaní správ o emisiách, správ o tonokilometroch a akreditácii overovateľov podľa smernice Európskeho parlamentu a Rady 2003/87/ES (Ú. v. EÚ L 181, 12. 7. 2012).
 

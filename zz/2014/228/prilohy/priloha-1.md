@@ -54,6 +54,6 @@ Príloha č. 1 k vyhláške č. 228/2014 Z. z.
 
   - b) Hodnoty uvedené v špecifikácii sú „skutočné hodnoty“. Pri stanovení ich limitných hodnôt sa použili podmienky technickej normy.<sup>28</sup>) Pri stanovení najnižšej hodnoty sa zohľadnil najmenší rozdiel 2R nad nulou (R = reprodukovateľnosť). Výsledky jednotlivých meraní sa interpretujú na základe kritérií uvedených v technickej norme.<sup>28</sup>)
 
-  - c) Letné obdobie začína najneskôr 1. mája a končí najskôr 30. septembra.
+  - c) Letné obdobie začína najneskôr 1. mája a končí najskôr 30. septembra; okrem roku 2020, keď letné obdobie začína 1. júla.
 
   - d) Ďalšie monoalkoholy a étery s koncovým destilačným bodom nie vyšším ako destilačný bod podľa technickej normy.<sup>22</sup>)
