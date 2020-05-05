@@ -16,6 +16,10 @@
 
 - 4a) Čl. 141a ods. 1 Ústavy Slovenskej republiky.
 
+- 4aa) § 3 ods. 1 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
+
+- 4ab) Čl. 5 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu v znení neskorších predpisov.
+
 - 4b) § 19a a 29k zákona Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov Slovenskej republiky v znení zákona č. 195/2014 Z. z.
 
 - 5) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
