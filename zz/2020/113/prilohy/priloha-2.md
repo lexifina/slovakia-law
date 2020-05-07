@@ -1,0 +1,1 @@
+- [Verzia v anglickom jazyku](../assets/3c53e18a5d60b35ba5cb3e116cd92dc55fd5dcaf9100ad14bcfa8a2c0653a0de.pdf)
