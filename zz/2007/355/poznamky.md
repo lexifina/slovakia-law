@@ -324,6 +324,22 @@
 
 - 72) § 13 zákona č. 540/2001 Z. z. o štátnej štatistike.
 
+- 72a) Čl. 4 ods. 7 nariadenia Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) (Ú. v. EÚ L 119, 4. 5. 2016) v platnom znení.
+
+- 72b) § 55 ods. 5 zákona č. 351/2011 Z. z. o elektronických komunikáciách v znení neskorších predpisov.
+
+- 72c) Čl. 89 nariadenia (EÚ) 2016/679.
+
+- 72d) Čl. 28 nariadenia (EÚ) 2016/679.
+
+- 72e) Čl. 32 až 36 nariadenia (EÚ) 2016/679.
+
+- 72f) Čl. 12 až 22 nariadenia (EÚ) 2016/679.
+
+- 72g) Čl. 35 a 36 nariadenia (EÚ) 2016/679 .
+
+- 72h) § 90 až 98 zákona č. 18/2018 Z. z. o ochrane osobných údajov.
+
 - 73) Príloha č. 1 kategória „A“ písm. d) body 4, 9, 10, 11, 43 nariadenia vlády Slovenskej republiky č. 322/2006 Z. z.
 
 - 74) Zákon č. 312/2001 Z. z. v znení neskorších predpisov.
