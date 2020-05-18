@@ -150,6 +150,8 @@
 
 - 41) § 3 písm. f) zákona č. 308/2000 Z. z. v znení neskorších predpisov.
 
+- 41a) § 60a až 60e zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení zákona č. 119/2020 Z. z.
+
 - 42) Zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov.
 
 - Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov.
