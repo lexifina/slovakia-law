@@ -162,6 +162,8 @@ Zákon č. 89/2016 Z. z. o výrobe, označovaní a predaji tabakových výrobkov
 
   - <sup>5e</sup>) Čl. 10 až 13 vykonávacieho nariadenia (EÚ) 2018/574.
 
+  - <sup>5f</sup>) Čl. 9 ods. 4 vykonávacieho nariadenia (EÚ) 2018/574.
+
   - <sup>5g</sup>) Delegované nariadenie Komisie (EÚ) 2018/573 z 15. decembra 2017 o kľúčových prvkoch zmlúv o uchovávaní údajov, ktoré sa majú uzatvárať ako súčasť systému vysledovateľnosti pre tabakové výrobky (Ú. v. L 96/7, 16. 4. 2018).“.
 
 - 6. V § 14 ods. 1 prvej vete sa slová „Slovenskej obchodnej inšpekcii predložiť“ nahrádzajú slovami „zadať do databázy únie“ a v druhej vete sa vypúšťa bodkočiarka a časť vety za bodkočiarkou.
@@ -179,6 +181,50 @@ Zákon č. 89/2016 Z. z. o výrobe, označovaní a predaji tabakových výrobkov
 - „d)
 
 - colný úrad.“.
+
+- 12. V § 20 sa za odsek 3 vkladajú nové odseky 4 až 8, ktoré znejú:
+
+- „(4)
+
+- Správneho deliktu sa dopustí výrobca alebo dovozca, ak
+
+- a)
+
+- neoznačí spotrebiteľské balenie tabakového výrobku, ktoré má byť uvedené na trh v Slovenskej republike, jedinečným identifikátorom vydaným vydavateľom,
+
+- b)
+
+- neuzatvorí zmluvu o uchovávaní údajov uvedených v § 12a ods. 3 a 8 s poskytovateľom uchovávania údajov,<sup>5f</sup>)
+
+- c)
+
+- neuhradí náklady na kontrolu činnosti poskytovateľa uchovávania údajov externým audítorom.
+
+- (5)
+
+- Správneho deliktu sa dopustí výrobca, ak nezabezpečí distribútorovi, dovozcovi alebo inému výrobcovi zariadenie potrebné na zaznamenávanie kúpy, predaja, uskladnenia a prepravy tabakového výrobku alebo iného nakladania s ním.
+
+- (6)
+
+- Správneho deliktu sa dopustí výrobca, dovozca alebo distribútor, ak
+
+- a)
+
+- nezaznamená prostredníctvom jedinečného identifikátora tabakového výrobku údaje podľa § 12a ods. 8,
+
+- b)
+
+- nezabezpečí uchovávanie úplných a presných záznamov podľa § 12a ods. 8 alebo v nich vykoná dodatočné zmeny alebo ich odstráni alebo zničí.
+
+- (7)
+
+- Správneho deliktu sa dopustí osoba, ktorá je oprávnená v rámci podnikania predávať spotrebiteľské balenia tabakového výroku, ktorá skladuje, predáva alebo ponúka na predaj spotrebiteľské balenie tabakového výrobku, ktoré nie je označené jedinečným identifikátorom vydaným vydavateľom.
+
+- (8)
+
+- Colný úrad uloží pokutu do 10 000 eur za správne delikty uvedené v odsekoch 4 až 7.“.
+
+  - Doterajšie odseky 4 až 10 sa označujú ako odseky 9 až 15.
 
 - 13. Za § 21 sa vkladá § 21a, ktorý vrátane nadpisu znie:
 
