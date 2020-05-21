@@ -441,3 +441,9 @@
 - 134) § 2 ods. 15 zákona č. 431/2002 Z. z. v znení zákona č. 333/2014 Z. z.
 
 - 135) § 5 ods. 4 písm. h) a § 48 ods. 4 písm. e) zákona č. 355/2007 Z. z.
+
+- 136) § 21 zákona č. 67/2020 Z. z. o niektorých mimoriadnych opatreniach vo finančnej oblasti v súvislosti so šírením nebezpečnej nákazlivej ľudskej choroby COVID-19.
+
+- 137) § 49 ods. 3 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+
+- § 21 zákona č. 67/2020 Z. z.

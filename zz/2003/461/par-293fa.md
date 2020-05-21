@@ -1,0 +1,3 @@
+# § 293fa
+
+Finančné riaditeľstvo Slovenskej republiky je povinné Sociálnej poisťovni najneskôr do konca kalendárneho mesiaca, ktorý nasleduje po mesiaci, v ktorom uplynula lehota na podanie daňového priznania podľa osobitného predpisu<sup>136</sup>) o fyzickej osobe podľa § 293ey ods. 1 a 2 a § 293ez, ktorá na základe daňového priznania alebo posledného opravného daňového priznania za rok 2019 má príjem z podnikania a z inej samostatnej zárobkovej činnosti podľa osobitného predpisu<sup>6</sup>) alebo výnos súvisiaci s podnikaním a s inou samostatnou zárobkovou činnosťou, oznámiť údaje podľa § 233 ods. 6.

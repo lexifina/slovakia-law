@@ -48,7 +48,7 @@ Príloha č. 1 k zákonu č. 461/2003 Z. z.
 
 - 23. | Rakovina pľúc z rádioaktívnych látok | Pri vystavení uvedenému nebezpečenstvu.
 
-- 24. | Infekčné choroby a parazitárne choroby okrem tropických infekčných chorôb a parazitárnych chorôb a chorôb prenosných zo zvierat na ľudí | Pri vyšetrovaní a opatrovaní osôb, tam, kde je preukázateľný styk s týmito chorobami alebo s infekčným materiálom, ako súčasť plnenia pracovných úloh alebo činností.
+- 24. | Infekčné choroby a parazitárne choroby okrem tropických infekčných chorôb a parazitárnych chorôb a chorôb prenosných zo zvierat na ľudí | Pri práci, kde je preukázateľný kontakt s týmito chorobami alebo s infekčným materiálom ako súčasť plnenia pracovných úloh alebo pracovných činností.
 
 - 25. | Tropické prenosné a parazitárne choroby | Pri vystavení uvedenému nebezpečenstvu.
 
