@@ -1,0 +1,3 @@
+# § 72ao
+
+Platnosť potvrdenia o možnosti obsadenia voľného pracovného miesta, ktoré zodpovedá vysokokvalifikovanému zamestnaniu, potvrdenia o možnosti obsadenia voľného pracovného miesta a povolenia na zamestnanie, ktorá by inak uplynula počas mimoriadnej situácie, núdzového stavu alebo výnimočného stavu vyhláseného v súvislosti s ochorením COVID-19 alebo do jedného mesiaca odo dňa odvolania mimoriadnej situácie, núdzového stavu alebo výnimočného stavu vyhláseného v súvislosti s ochorením COVID-19, sa predlžuje do uplynutia dvoch mesiacov odo dňa odvolania mimoriadnej situácie, núdzového stavu alebo výnimočného stavu vyhláseného v súvislosti s ochorením COVID-19.
