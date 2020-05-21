@@ -18,6 +18,8 @@
 
 - 7a) § 3 ods. 1 a § 3b zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
 
+- 8) § 15a zákona č. 578/2004 Z. z. v znení zákona č. 125/2020 Z. z.
+
 - 8a) § 26 ods. 3 a 4 zákona č. 124/2006 Z. z. v znení neskorších predpisov.
 
 - 9) Zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov.

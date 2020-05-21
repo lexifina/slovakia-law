@@ -68,10 +68,18 @@
 
 (17) V čase krízovej situácie
 
-- a) špecializované pracoviská pracovného lekárstva a dermatovenerológie podľa odseku 2 neposudzujú zdravotný stav fyzickej osoby na účely uznania alebo neuznania choroby z povolania a neuznávajú chorobu z povolania,
+- a) špecializované pracoviská pracovného lekárstva a dermatovenerológie podľa odseku 2 neposudzujú zdravotný stav fyzickej osoby na účely uznania alebo neuznania choroby z povolania a neuznávajú chorobu z povolania, okrem prípadov ohrozenia života alebo ochorenia COVID-19, ak v odseku 18 nie je ustanovené inak,
 
-- b) príslušné orgány verejného zdravotníctva neprešetrujú pracovné podmienky a spôsob práce posudzovanej osoby pri podozrení na chorobu z povolania podľa odseku 4,
+- b) príslušné orgány verejného zdravotníctva neprešetrujú pracovné podmienky a spôsob práce posudzovanej osoby pri podozrení na chorobu z povolania podľa odseku 4, okrem prípadov ohrozenia života alebo ochorenia COVID-19, ak v odseku 18 nie je ustanovené inak,
 
-- c) nezasadá regionálna komisia, regionálna komisia na posudzovanie kožných chorôb z povolania podľa odseku 7 a celoslovenská komisia podľa odseku 9.
+- c) nezasadá regionálna komisia, regionálna komisia na posudzovanie kožných chorôb z povolania podľa odseku 7 a celoslovenská komisia podľa odseku 9, okrem posudzovania per rollam pri ohrození života alebo ochorenia COVID-19, ak v odseku 18 nie je ustanovené inak.
 
-(18) Špecializované pracoviská uznávajú chorobu z povolania bezodkladne po skončení krízovej situácie.
+(18) V čase krízovej situácie na základe odborného posúdenia zdravotného stavu posudzovanej osoby aj v iných prípadoch ako pri ohrození života alebo pri ochorení COVID-19
+
+- a) špecializované pracovisko podľa odseku 17 písm. a) môže začať proces uznania choroby z povolania,
+
+- b) príslušný orgán verejného zdravotníctva môže na požiadanie špecializovaného pracoviska prešetriť pracovné podmienky a spôsob práce posudzovanej osoby pri podozrení na chorobu z povolania podľa odseku 17 písm. b); zamestnávateľ je povinný poskytnúť príslušnému orgánu verejného zdravotníctva súčinnosť podľa § 30 ods. 1 písm. n),
+
+- c) môže zasadnúť regionálna komisia, regionálna komisia na posudzovanie kožných chorôb z povolania a celoslovenská komisia podľa odseku 17 písm. c) alebo môže posudzovať chorobu z povolania per rollam.
+
+(19) Špecializované pracoviská uznávajú chorobu z povolania bezodkladne po skončení krízovej situácie.

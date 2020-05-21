@@ -40,10 +40,12 @@
 
 (10) V čase krízovej situácie poskytovatelia pracovnej zdravotnej služby, ktorí sú držiteľmi oprávnenia na výkon pracovnej zdravotnej služby podľa § 30d, a poskytovatelia pracovnej zdravotnej služby, ktorí vykonávajú činnosť dodávateľským spôsobom pre zamestnancov vykonávajúcich prácu zaradenú do prvej alebo druhej kategórie podľa § 30c,
 
-- a) nevykonávajú dohľad nad pracovnými podmienkami na pracoviskách zamestnávateľov podľa odseku 2 písm. a),
+- a) nevykonávajú dohľad nad pracovnými podmienkami na pracoviskách zamestnávateľov podľa odseku 2 písm. a), ak v odseku 11 nie je ustanovené inak,
 
-- b) nevykonávajú posudzovanie zdravotnej spôsobilosti na prácu výkonom lekárskych preventívnych prehliadok vo vzťahu k práci podľa odseku 2 písm. b),
+- b) nevykonávajú posudzovanie zdravotnej spôsobilosti na prácu výkonom lekárskych preventívnych prehliadok vo vzťahu k práci podľa odseku 2 písm. b), ak v odseku 11 nie je ustanovené inak,
 
-- c) vykonávajú poradenstvo zamerané na ochranu zdravia pri práci a predchádzanie vzniku chorôb z povolania a ochorení súvisiacich s prácou podľa odseku 2 písm. c) a so zameraním na mimoriadnu epidemiologickú situáciu v čase krízovej situácie najmä telefonicky alebo elektronickou formou; poradenstvo nemôžu vykonávať na pracoviskách zamestnávateľov.
+- c) vykonávajú poradenstvo zamerané na ochranu zdravia pri práci a predchádzanie vzniku chorôb z povolania a ochorení súvisiacich s prácou podľa odseku 2 písm. c) a so zameraním na mimoriadnu epidemiologickú situáciu v čase krízovej situácie najmä telefonicky alebo elektronickou formou; poradenstvo nemôžu vykonávať na pracoviskách zamestnávateľov, ak v odseku 11 nie je ustanovené inak.
 
-(11) Poskytovatelia pracovnej zdravotnej služby podľa odseku 10 vykonávajú zdravotný dohľad pre zamestnancov v rozsahu podľa § 30ad a § 30ab bezodkladne po skončení krízovej situácie.
+(11) Poskytovatelia pracovnej zdravotnej služby podľa odseku 10 môžu v čase krízovej situácie vykonávať činnosti podľa odseku 2 písm. a) a c) na pracovisku zamestnávateľa a činnosť podľa odseku 2 písm. b) v ambulancii len na základe vzájomnej dohody medzi zamestnávateľom a poskytovateľom pracovnej zdravotnej služby alebo medzi zamestnávateľom a poskytovateľom ambulantnej zdravotnej starostlivosti z dôvodu zdravotného rizika pri práci za dodržania opatrení na ochranu zdravia zamestnancov podľa aktuálnej epidemiologickej situácie.
+
+(12) Poskytovatelia pracovnej zdravotnej služby podľa odseku 10 vykonávajú zdravotný dohľad pre zamestnancov v rozsahu podľa § 30ad a § 30ab bezodkladne po skončení krízovej situácie.
