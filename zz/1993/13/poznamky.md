@@ -9,3 +9,5 @@
 - 4) Zákon č. 105/1990 Zb. o súkromnom podnikaní v znení zákona č. 219/1991 Zb.
 
 - 5) § 35 zákona č. 35/1965 Zb. o literárnych, vedeckých a umeleckých dielach (autorský zákon).
+
+- 6) § 2 písm. i) zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
