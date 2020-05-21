@@ -24,6 +24,8 @@
 
 - 4aaa) § 5 a príloha č. 2 zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
 
+- 4aaaa) § 4 ods. 1 písm. d) zákona č. 179/2011 Z. z. o hospodárskej mobilizácii a o zmene a doplnení zákona č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu v znení neskorších predpisov.
+
 - 4ab) § 45 ods. 1 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení zákona č. 466/2008 Z. z.
 
 - 4ac) § 6b zákona č. 578/2004 Z. z. v znení zákona č. 257/2017 Z. z.
