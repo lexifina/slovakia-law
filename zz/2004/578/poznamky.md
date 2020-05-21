@@ -28,6 +28,8 @@
 
 - 9aa) § 33 zákona č. 538/2005 Z. z. o prírodných liečivých vodách, prírodných liečebných kúpeľoch, kúpeľných miestach a prírodných minerálnych vodách a o zmene a doplnení niektorých zákonov.
 
+- 9aaa) § 6 ods. 8 zákona č. 355/2007 Z. z. v znení zákona č. 125/2020 Z. z.
+
 - 9b) § 9a zákona č. 576/2004 Z. z. v znení zákona č. 351/2017 Z. z.
 
 - 9c) Nariadenie vlády Slovenskej republiky č. 640/2008 Z. z. o verejnej minimálnej sieti poskytovateľov zdravotnej starostlivosti v znení neskorších predpisov.
@@ -135,6 +137,8 @@
 - 24c) § 18 zákona č. 422/2015 Z. z.
 
 - 24d) § 25 ods. 4 zákona č. 422/2015 Z. z.
+
+- 24da) § 30 ods. 1 písm. a) zákona č. 422/2015 Z. z.
 
 - 24e) § 55 zákona č. 422/2015 Z. z.
 

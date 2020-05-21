@@ -109,3 +109,5 @@
 - b) oznámiť ministerstvu zdravotníctva do 30 dní od začatia poskytovania zdravotnej starostlivosti názov a adresu sídla poskytovateľa, dohodnutý pracovný čas, dátum začatia poskytovania zdravotnej starostlivosti a bezodkladne každú zmenu týchto údajov.
 
 (24) Ak zamestnávateľ neumožní rezidentovi absolvovať rezidentské štúdium podľa odseku 11 písm. c), je povinný uhradiť ministerstvu zdravotníctva 5 000 eur za každý začatý rok rezidentského štúdia.
+
+(25) Ak sa ďalšie vzdelávanie neuskutočňuje z dôvodu vyhlásenej krízovej situácie z dôvodu ochorenia COVID-19, poskytovanie finančných prostriedkov podľa odseku 2 sa na obdobie prerušenia rezidentského štúdia z tohto dôvodu neprerušuje. Ustanovenia upravujúce povinnosti rezidenta a zamestnávateľa rezidenta uvedené v odseku 9 a odseku 11 písm. a) a c) sa počas krízovej situácie z dôvodu ochorenia COVID-19 neuplatňujú.
