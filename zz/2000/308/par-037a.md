@@ -16,4 +16,4 @@
 
 (3) Charitatívna výzva na účely tohto zákona je výzva vysielaná vysielateľom bezplatne alebo bez poskytnutia inej protihodnoty, ktorá obsahuje žiadosť o pomoc pre fyzickú osobu, skupinu fyzických osôb, sociálne či charitatívne organizácie alebo nadácie založené na podporu takých cieľov.
 
-(4) Oznam vo verejnom záujme na účely tohto zákona je krátky oznam nepolitického subjektu zameraný na šírenie osvety, najmä v oblasti zvyšovania právneho vedomia, bezpečnosti na cestách alebo ochrany spotrebiteľa, zdravia, prírody, životného prostredia či kultúrneho dedičstva.
+(4) Oznam vo verejnom záujme na účely tohto zákona je krátky oznam nepolitického subjektu zameraný na šírenie osvety, najmä v oblasti zvyšovania právneho vedomia, bezpečnosti na cestách alebo ochrany spotrebiteľa, zdravia, prírody, životného prostredia a na prezentáciu audiovizuálneho dedičstva a iného kultúrneho dedičstva a prístupu k nim.
