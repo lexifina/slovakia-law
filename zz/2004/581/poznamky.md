@@ -579,3 +579,5 @@
 - § 156 ods. 7 Obchodného zákonníka.
 
 - 101) Čl. 1 ods. 2 písm. a) nariadenia Európskeho parlamentu a Rady (ES) č. 987/2009 zo 16. septembra 2009, ktorým sa stanovuje postup vykonávania nariadenia (ES) č. 883/2004 o koordinácii systémov sociálneho zabezpečenia (Ú. v. EÚ L 284, 30. 10. 2009) v platnom znení.
+
+- 102) § 49k zákona č. 576/2004 Z. z. v znení zákona č. 125/2020 Z. z.
