@@ -2036,9 +2036,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 11. skupiny T | 20 eur
 
-  - f) | Vykonanie skúšky na predĺženie platnosti inštruktorského preukazu | 20 eur
+  - f) | Vykonanie skúšky na udelenie preukazu skúšobného komisára komory alebo predĺženie platnosti preukazu skúšobného komisára | 20 eur
 
   - g) | Vydanie inštruktorského preukazu alebo predĺženie jeho platnosti | 10 eur
+
+  - h) | Vydanie preukazu skúšobného komisára komory alebo predĺženie jeho platnosti | 20 eur
 
   - Poznámky 1. Správny orgán vyberie poplatky podľa tejto položky vo výške 25 %, ak ide o skúšku na získanie vodičského oprávnenia, ak sa výcvik vykonával na stredných (aj vojenských) školách a odborných učilištiach v rámci povinného predmetu dopravnej výchovy, ak sa výcvik vykonával na stredných odborných školách Policajného zboru v rámci odbornej prípravy, ak ide o vykonanie skúšky na získanie vodičského oprávnenia odvedencov a o opakované skúšky. 2. Poplatok podľa tejto položky sa nevyberie za preskúšanie odbornej spôsobilosti pri vydaní vodičského preukazu náhradou za vodičský preukaz vydaný v cudzine. 3. Poplatok podľa písmena a) tejto položky sa vyberie za každú skupinu vodičského oprávnenia, ktorú žiadateľ získava. Pri získavaní viacerých skupín vodičského oprávnenia v rámci jednej skúšky sa poplatky sčítavajú. To neplatí, ak získaná skupina zahŕňa ďalšiu skupinu. 4. Správny orgán vyberie poplatok podľa písmena e) tejto položky vo výške 50 % za opakovanú skúšku na získanie inštruktorského oprávnenia. Poplatok podľa písmena e) tejto položky sa vyberie za každú skupinu inštruktorského oprávnenia, ktorú žiadateľ získava. Pri získavaní viacerých skupín inštruktorského oprávnenia v rámci jednej skúšky sa poplatky sčítavajú. To neplatí, ak získaná skupina zahŕňa ďalšiu skupinu. | |
 
