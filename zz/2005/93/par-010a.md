@@ -2,15 +2,37 @@
 
 (1) Inštruktor autoškoly je povinný
 
-- a) používať v kurzoch podľa § 2 ods. 1 správne označené výcvikové vozidlo s platným osvedčením o evidencii, platným osvedčením o technickej kontrole a platným osvedčením o emisnej kontrole, ak takejto kontrole podlieha,
+- a) používať počas výcviku v kurzoch podľa § 2 ods. 1 písm. a) a b) výcvikové vozidlo označené prevádzkovateľom autoškoly v súlade s vykonávacím predpisom, s platným osvedčením o evidencii časť I, platným osvedčením o kontrole technického stavu vozidla časť A – technická kontrola a platným osvedčením o kontrole technického stavu vozidla časť B – emisná kontrola, ak takejto kontrole podlieha,
 
-- b) vykonávať výučbu teórie a praktický výcvik v súlade s týmto zákonom, so súvisiacimi všeobecne záväznými právnymi predpismi a s učebnými osnovami,
+- b) používať výcvikové vozidlo označené odnímateľným transparentom, vestou, odnímateľnou reflexnou fóliou, alebo iným spôsobom podľa vykonávacieho predpisu len počas výcviku v kurzoch podľa § 2 ods. 1 písm. a) a b); označenie musí byť v súlade so schválenými technickými požiadavkami a so schváleným typom komponentu podľa vykonávacieho predpisu,
 
-- c) prepravovať vo výcvikovom vozidle počas výučby len osobu, ktorá je účastníkom kurzu, osobu vykonávajúcu štátny odborný dozor nad autoškolami podľa § 16 alebo účastníka inštruktorského kurzu pri náčuvoch.
+- c) vykonávať výučbu a výcvik v súlade s týmto zákonom, so súvisiacimi všeobecne záväznými právnymi predpismi a s učebnými osnovami,
 
-- d) podrobiť sa doškoľovaciemu kurzu inštruktorov autoškôl a následne skúške na predĺženie platnosti inštruktorského preukazu v lehote šiestich mesiacov odo dňa právoplatnosti rozhodnutia o uložení pokuty podľa § 17 ods. 2 písm. c) alebo podľa § 18 ods. 1 písm. d) za porušenie povinností podľa tohto zákona,
+- d) prepravovať vo výcvikovom vozidle počas výcviku podľa § 2 ods. 1 písm. a) a b) len osobu, ktorá je účastníkom kurzu, osobu vykonávajúcu štátny odborný dozor podľa § 16, prevádzkovateľa autoškoly, zodpovedného zástupcu autoškoly alebo účastníka inštruktorského kurzu,
 
-- e) zabezpečiť počas výučby a výcviku identifikáciu účastníka kurzu prostredníctvom identifikačného zariadenia v súlade s týmto zákonom a vykonávacím predpisom.
+- e) podrobiť sa doškoľovaciemu kurzu inštruktorov autoškôl v lehote šiestich mesiacov odo dňa právoplatnosti rozhodnutia o uložení pokuty podľa § 17 ods. 2 písm. c) a úspešne vykonať inštruktorskú skúšku,
+
+- f) dodržať schválenú maximálnu kapacitu učebne počas výučby v kurzoch podľa § 2 ods. 1 písm. a) a b),
+
+- g) podrobovať sa doškoľovaciemu kurzu podľa § 11,
+
+- h) vykonávať praktický výcvik vo vedení vozidla len na území Slovenskej republiky,
+
+- i) uchrániť svoj identifikačný prvok proti použitiu inou osobou,
+
+- j) zaznamenať výučbu a výcvik v kurzoch podľa § 2 ods. 1 písm. a) a b) inštruktorom na identifikačnom zariadení výcvikového vozidla, učebne alebo trenažéra len prostredníctvom identifikačného prvku prideleného inštruktorovi autoškoly podľa § 5 ods. 6, ktorý vykonáva túto výučbu a výcvik,
+
+- k) zabezpečiť zaznamenanie výučby a výcviku účastníka v kurzoch podľa § 2 ods. 1 písm. a) a b) na identifikačnom zariadení výcvikového vozidla, učebne alebo trenažéra len prostredníctvom identifikačného prvku prideleného účastníkovi kurzu podľa § 5 ods. 6, ktorý sa zúčastňuje na tejto výučbe a výcviku,
+
+- l) zabezpečiť zaznamenanie začiatku a konca výučby a výcviku účastníka v kurzoch podľa § 2 ods. 1 písm. a) a b) na identifikačnom zariadení výcvikového vozidla, učebne alebo trenažéra a len počas fyzickej prítomnosti účastníka kurzu, ktorý je povinný zúčastniť sa na celej zaznamenanej výučbe a celom zaznamenanom výcviku; bez fyzickej prítomnosti účastníka kurzu nie je možné zaznamenať ani časť výučby a výcviku,
+
+- m) zaznamenávať výučbu a výcvik v kurzoch podľa § 2 ods. 1 písm. a) a b) na identifikačnom zariadení výcvikového vozidla, učebne alebo trenažéra umiestneného len v zodpovedajúcom vozidle, učebni alebo na mieste jeho schválenia či prevádzky autoškoly,
+
+- n) zabezpečiť, aby počas výučby a výcviku mal účastník kurzu pri sebe doklad totožnosti, ak je jeho držiteľom,
+
+- o) mať počas praktického výcviku pri sebe okrem dokladov potrebných pre vedenie vozidla aj platný inštruktorský preukaz,
+
+- p) oznámiť prevádzkovateľovi autoškoly zmenu údajov podľa § 10 ods. 2 písm. a) až d), a to najneskôr do dvoch pracovných dní od vzniku zmeny.
 
 (2) Držiteľ inštruktorského preukazu je povinný
 
@@ -22,6 +44,6 @@
 
 - d) odovzdať okresnému úradu v sídle kraja inštruktorský preukaz bezodkladne po zadržaní vodičského preukazu,<sup>9b</sup>)
 
-- e) spĺňať podmienku bezúhonnosti podľa § 8 ods. 6.
+- e) spĺňať podmienku bezúhonnosti podľa § 8 ods. 7.
 
 (3) Inštruktor autoškoly vykonáva výučbu teórie alebo praktický výcvik spolu v rozsahu najviac 12 vyučovacích hodín denne.

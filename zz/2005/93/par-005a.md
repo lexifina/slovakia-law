@@ -1,6 +1,6 @@
 # § 5a Schvaľovanie identifikačných zariadení a programového vybavenia autoškoly
 
-(1) Výrobca alebo zástupca výrobcu identifikačného zariadenia výcvikového vozidla a identifikačného zariadenia učebne a trenažéra je pred ich uvedením na trh povinný písomne požiadať Ministerstvo dopravy, výstavby a regionálneho rozvoja Slovenskej republiky (ďalej len „ministerstvo“) o schválenie spôsobilosti typu identifikačného zariadenia na používanie v autoškolách.
+(1) Výrobca alebo zástupca výrobcu identifikačného zariadenia výcvikového vozidla a identifikačného zariadenia učebne a trenažéra je pred ich uvedením na trh povinný písomne požiadať Ministerstvo dopravy a výstavby Slovenskej republiky (ďalej len „ministerstvo dopravy“) o schválenie spôsobilosti typu identifikačného zariadenia na používanie v autoškolách.
 
 (2) Identifikačné zariadenie výcvikového vozidla a identifikačné zariadenie učebne a trenažéra musí pred schválením prejsť testovaním kompatibility programového vybavenia zariadenia na komunikáciu s informačným systémom.<sup>3a</sup>) O výsledku testovania vydá prevádzkovateľ informačného systému správu.
 
@@ -14,7 +14,7 @@
 
   - 1. ak ide o fyzickú osobu – podnikateľa, meno a priezvisko, dátum a miesto narodenia, adresu trvalého pobytu, obchodné meno, identifikačné číslo, ak bolo pridelené, miesto podnikania a podpis,
 
-  - 2. ak ide o právnickú osobu, obchodné meno a sídlo, identifikačné číslo (IČO), meno a priezvisko osoby, dátum a miesto narodenia osoby alebo osôb, ktoré sú jeho štatutárnym orgánom, podpis štatutárneho orgánu a odtlačok pečiatky,
+  - 2. ak ide o právnickú osobu, obchodné meno a sídlo, identifikačné číslo, meno a priezvisko osoby, dátum a miesto narodenia osoby alebo osôb, ktoré sú jeho štatutárnym orgánom, podpis štatutárneho orgánu a odtlačok pečiatky,
 
 - b) značku a obchodný názov identifikačného zariadenia výcvikového vozidla alebo identifikačného zariadenia učebne a trenažéra,
 
@@ -46,7 +46,7 @@
 
 (11) Ustanovenia odsekov 5 až 8 sa primerane vzťahujú aj na schválenie programového vybavenia autoškoly podľa odseku 10.
 
-(12) Držiteľ osvedčenia podľa odseku 8 je povinný oznámiť ministerstvu všetky zmeny a doplnky týkajúce sa údajov uvedených v žiadosti a jej prílohách a predložiť o nich doklady najneskôr do 10 dní od vzniku týchto zmien. Ministerstvo po posúdení zmien môže rozhodnúť o zmene osvedčenia o technickej spôsobilosti typu identifikačného zariadenia na používanie v autoškolách. Ak rozhodnutie o zmene vyžaduje nové testovanie, ministerstvo nariadi výrobcovi alebo zástupcovi výrobcu zabezpečiť jeho vykonanie na vlastné náklady.
+(12) Držiteľ osvedčenia podľa odseku 8 je povinný oznámiť ministerstvu všetky zmeny a doplnky týkajúce sa údajov uvedených v žiadosti a jej prílohách a predložiť o nich doklady najneskôr do desiatich dní od vzniku týchto zmien. Ministerstvo po posúdení zmien môže rozhodnúť o zmene osvedčenia o technickej spôsobilosti typu identifikačného zariadenia na používanie v autoškolách. Ak rozhodnutie o zmene vyžaduje nové testovanie, ministerstvo nariadi výrobcovi alebo zástupcovi výrobcu zabezpečiť jeho vykonanie na vlastné náklady.
 
 (13) Ministerstvo rozhodne o zrušení osvedčenia podľa odseku 8, ak o to písomne požiada držiteľ osvedčenia. Ministerstvo rozhodne o zrušení osvedčenia aj v prípade, ak
 
