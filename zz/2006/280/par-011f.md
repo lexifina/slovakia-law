@@ -1,11 +1,13 @@
-# § 11f Poriadkové pokuty
+# § 11f Priestupky
 
-(1) Poriadkovú pokutu 1 500 eur uloží ministerstvo, okresný úrad v sídle kraja a okresný úrad kontrolovanej osobe, ak neposkytne súčinnosť zodpovedajúcu oprávneniam kontrolórov podľa § 11d ods. 4.
+(1) Priestupku sa dopustí ten, kto
 
-(2) Poriadkovú pokutu 200 eur uloží ministerstvo, okresný úrad v sídle kraja a okresný úrad tomu, kto poruší povinnosť ustanovenú v § 11g ods. 2.
+- a) bez rozhodnutia o registrácii vykonáva činnosti vyhradené školiacemu stredisku alebo vydáva potvrdenie o ukončení kurzu základnej kvalifikácie alebo potvrdenie o ukončení kurzu pravidelného výcviku,
 
-(3) Poriadkovú pokutu podľa odsekov 1 a 2 možno uložiť aj opakovane pri opakovanom porušení povinností.
+- b) neoprávnene používa v cestnej premávke motorové vozidlo s označením výcvikového vozidla.
 
-(4) Poriadkovú pokutu možno uložiť do jedného roka odo dňa, keď sa príslušný orgán štátneho odborného dozoru dozvedel o porušení povinnosti, najneskôr však do dvoch rokov odo dňa porušenia povinnosti.
+(2) Za priestupok podľa odseku 1 písm. a) sa uloží pokuta od 5 000 eur do 15 000 eur.
 
-(5) Poriadková pokuta je splatná do 15 dní odo dňa nadobudnutia právoplatnosti rozhodnutia o uložení pokuty. Poriadková pokuta je príjmom štátneho rozpočtu.
+(3) Za priestupok podľa odseku 1 písm. b) sa uloží pokuta od 30 eur do 100 eur.
+
+(4) Na priestupky a ich prejednávanie sa vzťahuje všeobecný predpis o priestupkoch.<sup>5af</sup>)

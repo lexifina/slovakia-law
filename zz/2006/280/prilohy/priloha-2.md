@@ -1,6 +1,6 @@
 Príloha č. 2 k zákonu č. 280/2006 Z. z.
 
-- VZOR KVALIFIKAČNEJ KARTY VODIČA
+- Ustanovenia týkajúce sa vzoru Európskej únie pre kvalifikačnú kartu vodiča
 
   - A. Opis kvalifikačnej karty vodiča
 
@@ -40,9 +40,9 @@ Príloha č. 2 k zákonu č. 280/2006 Z. z.
 
         - 8. obec pobytu,
 
-        - 9. skupiny vodičských oprávnení, na ktoré spĺňa základnú kvalifikáciu a pravidelný výcvik,
+        - 9. skupiny vozidiel, na ktoré vodič spĺňa požiadavky na základnú kvalifikáciu a pravidelný výcvik;
 
-      - e) nadpis „Vzor Európskych spoločenstiev“ v štátnom jazyku Slovenskej republiky a záhlavie „kvalifikačná karta vodiča“ v ostatných jazykoch členských štátov vytlačený modrou farbou tak, aby tvorili pozadie karty, a to
+      - e) nadpis ‚Vzor Európskej únie‘ v jazyku alebo v jazykoch členského štátu vydávajúceho kartu a záhlavie ‚kvalifikačná karta vodiča‘ v ostatných úradných jazykoch Únie vytlačené modrou farbou tak, aby tvorili pozadie karty:
 
         - tarjeta de cualificación del conductor
 
@@ -100,9 +100,9 @@ Príloha č. 2 k zákonu č. 280/2006 Z. z.
 
       - a) údaje o držiteľovi zoradené a očíslované takto:
 
-        - 9. skupiny vodičských oprávnení, na ktoré spĺňa základnú kvalifikáciu a pravidelný výcvik,
+        - 9. skupiny vozidiel, na ktoré vodič spĺňa požiadavky na základnú kvalifikáciu a pravidelný výcvik;
 
-        - 10. kód Spoločenstva podľa zoznamu kódov Spoločenstva (§ 11 ods. 3),
+        - 10. harmonizovaný kód Únie „95“ ustanovený podľa osobitného predpisu.<sup>5aa</sup>)
 
         - 11. priestor na úradné záznamy vydávajúceho štátu, ktorý sa týka administratívnych údajov alebo údajov vzťahujúcich sa na bezpečnosť cestnej premávky. Ak sa údaje vzťahujú k bodom tejto prílohy, musí sa pred údajom uviesť číslo bodu,
 
@@ -116,6 +116,6 @@ Príloha č. 2 k zákonu č. 280/2006 Z. z.
 
     - B.3 V záujme zvýšenia bezpečnosti kvalifikačnej karty vodiča možno jej text doplniť o farby alebo značky, ako sú stĺpcový kód, štátny znak alebo bezpečnostné prvky. Stĺpcový kód nesmie obsahovať iné údaje, než sú uvedené v bode A.
 
-  - C. Vzhľad kvalifikačnej karty vodiča uznávaný Európskym spoločenstvom
+  - C. Vzor Európskej únie pre kvalifikačnú kartu vodiča
 
-- [Obrázok 02-1](../assets/8cf9fdc570ec12ded22c937a4782a999fe645fe8c9033f83b4eb55dcab630185.pdf)
+- [Vzor Európskej únie pre kvalifikačnú kartu vodiča](../assets/b1677744e65c484c324a5ba86a320e1ab429fe3a58a27df67a52b191067be72c.pdf)

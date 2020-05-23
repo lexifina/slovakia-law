@@ -1,5 +1,9 @@
-# § 11g Súčinnosť
+# § 11g Poriadkové pokuty
 
-(1) Policajný zbor, inšpektoráty práce, štátne orgány a orgány územnej samosprávy poskytujú ministerstvu, okresným úradom v sídle kraja alebo okresným úradom na účely štátneho odborného dozoru súčinnosť; na tento účel sú povinné poskytnúť požadované podklady a informácie, ktoré získali pri výkone svojej činnosti.
+(1) Orgán štátneho odborného dozoru uloží poriadkovú pokutu 1 500 eur osobe, ktorá neposkytne kontrolórom potrebnú súčinnosť pri vykonávaní kontroly podľa § 11d ods. 12, poruší povinnosti podľa § 11d ods. 13 alebo ods. 16.
 
-(2) Iné osoby ako orgány uvedené v odseku 1, ktoré majú doklady alebo informácie súvisiace s vykonávaním štátneho odborného dozoru podľa tohto zákona, sú povinné bezodkladne ich predložiť ministerstvu, okresným úradom v sídle kraja a okresným úradom na ich písomné vyžiadanie.
+(2) Pri opakovanom porušení povinnosti možno poriadkovú pokutu podľa odseku 1 uložiť opakovane, a to najskôr po nadobudnutí právoplatnosti rozhodnutia o uložení predchádzajúcej pokuty.
+
+(3) Poriadkovú pokutu podľa odseku 1 možno uložiť do jedného roka odo dňa, keď sa príslušný orgán štátneho odborného dozoru dozvedel o porušení povinnosti, najneskôr však do dvoch rokov odo dňa porušenia povinnosti.
+
+(4) Poriadková pokuta je splatná do 15 dní odo dňa nadobudnutia právoplatnosti rozhodnutia o uložení pokuty. Poriadkové pokuty sú príjmom štátneho rozpočtu.

@@ -1,25 +1,19 @@
-# § 4c Dočasné pozastavenie platnosti registrácie alebo zrušenie registrácie
+# § 4c Zrušenie registrácie
 
-(1) Okresný úrad v sídle kraja začne konanie o dočasnom pozastavení platnosti registrácie na vykonávanie kurzov základnej kvalifikácie, ak zistí, že prevádzkovateľ školiaceho strediska napriek upozorneniu
+(1) Okresný úrad v sídle kraja zruší registráciu na vykonávanie kurzov základnej kvalifikácie a kurzov pravidelného výcviku, ak prevádzkovateľ školiaceho strediska
 
-- a) nevykonáva kurzy podľa plánu na zabezpečenie vykonávania kurzov základnej kvalifikácie,
+- a) požiada o zrušenie registrácie,
 
-- b) nezabezpečí, aby výučbu teórie alebo praktický výcvik vykonávali lektori, ktorí majú odborné predpoklady,
+- b) napriek upozorneniu orgánu štátneho odborného dozoru opakovane poruší tú istú povinnosť, za ktorej porušenie mu už bola uložená pokuta správnym orgánom, počas 24 mesiacov odo dňa právoplatnosti predchádzajúceho rozhodnutia o uložení pokuty,
 
-- c) nevedie evidenciu o výučbe teórie a praktickom výcviku vrátane zoznamu účastníkov alebo
+- c) poruší niektorú z povinností ustanovených v § 4b ods. 1 písm. a), b), e) a g),
 
-- d) nepredkladá okresnému úradu v sídle kraja hlásenia o začatí a skončení kurzu.
+- d) poruší niektorú z povinností ustanovených v § 4b ods. 2 písm. f) až k) za účelom klamlivej identifikácie účastníka kurzu alebo lektora,
 
-(2) Súčasťou rozhodnutia o dočasnom pozastavení registrácie je aj lehota na odstránenie zisteného nedostatku.
+- e) získal registráciu na základe nepravdivých údajov.
 
-(3) Okresný úrad v sídle kraja zruší dočasné pozastavenie platnosti registrácie, ak pominú dôvody, pre ktoré bolo uložené, alebo na žiadosť prevádzkovateľa školiaceho strediska, ak písomne preukáže, že odstránil zistený nedostatok.
+(2) Okresný úrad v sídle kraja zruší osvedčenie o základnej kvalifikácii, osvedčenie o pravidelnom výcviku a kvalifikačnú kartu vodiča, ak sa štátnym odborným dozorom zistí, že vodič neabsolvoval kurz základnej kvalifikácie alebo kurz pravidelného výcviku v rozsahu podľa tohto zákona, vykonávacieho predpisu alebo plánu na zabezpečenie vykonávania kurzov základnej kvalifikácie alebo kurzov pravidelného výcviku.
 
-(4) Okresný úrad v sídle kraja zruší registráciu na vykonávanie kurzov základnej kvalifikácie, ak prevádzkovateľ školiaceho strediska
+(3) Ak bola zrušená registrácia školiaceho strediska z dôvodov podľa odseku 1 písm. b), c), d) alebo písm. e), žiadateľ sa môže, ak spĺňa podmienky podľa § 4a, opakovane stať prevádzkovateľom školiaceho strediska alebo zodpovedným zástupcom najskôr po uplynutí piatich rokov odo dňa právoplatnosti rozhodnutia o zrušení registrácie školiaceho strediska.
 
-- a) neodstráni nedostatok v určenej lehote,
-
-- b) požiada o zrušenie registrácie,
-
-- c) prestal spĺňať požiadavky na registráciu alebo
-
-- d) prestal spĺňať podmienky bezúhonnosti podľa § 4a ods. 6.
+(4) Okresný úrad v sídle kraja oznámi zrušenie registrácie školiaceho strediska miestne príslušnému živnostenskému úradu.

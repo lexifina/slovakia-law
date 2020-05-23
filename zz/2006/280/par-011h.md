@@ -26,4 +26,6 @@ Ministerstvo ustanoví všeobecne záväzným právnym predpisom
 
 - l) vzor žiadosti o vydanie kvalifikačnej karty vodiča,
 
-- m) vzor osvedčenia o základnej kvalifikácii a pravidelnom výcviku.
+- m) vzor osvedčenia o základnej kvalifikácii a pravidelnom výcviku,
+
+- n) podrobnosti o uznaní celého rozsahu odborných tém a praktického výcviku v rámci študijných odborov alebo učebných odborov na stredných školách.

@@ -2,7 +2,7 @@
 
 Okresný úrad v sídle kraja
 
-- a) rozhoduje o registrácii na vykonávanie kurzov základnej kvalifikácie a kurzov pravidelného výcviku, dočasnom pozastavení platnosti registrácie, zmene registrácie alebo zrušení registrácie a vedie evidenciu vydaných registrácií,
+- a) rozhoduje o registrácii na vykonávanie kurzov základnej kvalifikácie a kurzov pravidelného výcviku, zmene registrácie alebo zrušení registrácie a vedie evidenciu vydaných registrácií,
 
 - b) zostavuje skúšobnú komisiu,
 
@@ -12,7 +12,7 @@ Okresný úrad v sídle kraja
 
 - e) vydáva kvalifikačné karty vodičov,
 
-- f) vykonáva štátny odborný dozor nad prevádzkovateľmi školiaceho strediska v územnej pôsobnosti kraja,
+- f) vykonáva štátny odborný dozor v územnej pôsobnosti kraja,
 
 - g) ukladá pokuty za správne delikty,
 
