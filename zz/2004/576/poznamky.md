@@ -226,6 +226,10 @@
 
 - 39aa) § 9b ods. 2 zákona č. 578/2004 Z. z. v znení zákona č. 139/2019 Z. z.
 
+- 39aaa) § 111a až § 111h zákona č. 362/2011 Z. z.
+
+- Nariadenie Európskeho parlamentu a Rady (EÚ) 2017/745 z 5. apríla 2017 o zdravotníckych pomôckach, zmene smernice 2001/83/ES, nariadenia (ES) č. 178/2002 a nariadenia (ES) č. 1223/2009 a o zrušení smerníc Rady 90/385/EHS a 93/42/EHS (Ú. v. EÚ L 117, 5. 5. 2017) v platnom znení.
+
 - 40) § 15 ods. 12 zákona č. 140/1998 Z. z.
 
 - 40a) § 110 ods. 1 zákona č. 87/2018 Z. z. o radiačnej ochrane a o zmene a doplnení niektorých zákonov.
