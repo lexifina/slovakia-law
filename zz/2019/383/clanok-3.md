@@ -19,3 +19,23 @@ Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s
   - Poznámka pod čiarou k odkazu 9 znie:
 
   - „<sup>9</sup>) Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
+- 4. V § 26 odsek 2 znie:
+
+- „(2)
+
+- Biomedicínsky výskum sa vykonáva za podmienok ustanovených týmto zákonom; to neplatí pre klinické skúšanie zdravotníckych pomôcok, ktoré sa vykonáva za podmienok ustanovených v osobitných predpisoch.<sup>39aaa</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 39aaa znie:
+
+  - „<sup>39aaa</sup>) § 111a až § 111h zákona č. 362/2011 Z. z.
+
+  - Nariadenie Európskeho parlamentu a Rady (EÚ) 2017/745 z 5. apríla 2017 o zdravotníckych pomôckach, zmene smernice 2001/83/ES, nariadenia (ES) č. 178/2002 a nariadenia (ES) č. 1223/2009 a o zrušení smerníc Rady 90/385/EHS a 93/42/EHS (Ú. v. EÚ L 117, 5. 5. 2017) v platnom znení.“.
+
+- 6. V § 26 sa za odsek 7 vkladá nový odsek 8, ktorý znie:
+
+- „(8)
+
+- Ak je biomedicínskym výskumom klinické skúšanie zdravotníckej pomôcky, biomedicínsky výskum povoľuje Štátny ústav pre kontrolu liečiv v súčinnosti s etickou komisiou [§ 5 ods. 1 a ods. 2 písm. a)] podľa osobitného predpisu.<sup>39aaa</sup>)“.
+
+  - Doterajšie odseky 8 až 11 sa označujú ako odseky 9 až 12.

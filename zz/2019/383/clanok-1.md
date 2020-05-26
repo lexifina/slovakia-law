@@ -4,6 +4,10 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
 - 1. Slová „orgán, ktorý povolenie vydal“ vo všetkých tvaroch sa v celom texte zákona nahrádzajú slovami „orgán príslušný na vydanie povolenia“ v príslušnom tvare.
 
+- 3. V § 2 sa vypúšťajú odseky 19 a 21 až 26.
+
+  - Doterajšie odseky 20 a 27 až 52 sa označujú ako odseky 19 až 45.
+
 - 4. V § 2 odsek 23 znie:
 
 - „(23)
@@ -177,6 +181,74 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 - (15)
 
 - Lekárenskou starostlivosťou nie je dodanie humánneho lieku zaradeného v zozname kategorizovaných liekov alebo lieku zaradeného v zozname liekov s úradne určenou cenou od držiteľa povolenia na poskytovanie lekárenskej starostlivosti vo verejnej lekárni inému držiteľovi povolenia na poskytovanie lekárenskej starostlivosti vo verejnej lekárni v počte väčšom ako päť balení humánneho lieku s rovnakým kódom lieku prideleným štátnym ústavom za kalendárny mesiac.“.
+
+- 26. V § 22 odsek 1 znie:
+
+- „(1)
+
+- Internetovým výdajom je výdaj humánneho lieku, veterinárneho lieku alebo zdravotníckej pomôcky uvedených v odseku 2 prostredníctvom služieb informačnej spoločnosti na základe elektronického formulára objednávky uverejneného na webovom sídle verejnej lekárne, ak ide o humánny liek alebo o veterinárny liek, alebo na webovom sídle výdajne zdravotníckych pomôcok, ak ide o zdravotnícku pomôcku.“.
+
+- 27. V § 22 ods. 2 písmeno b) znie:
+
+- „b)
+
+- zdravotnícke pomôcky triedy I a triedy IIa,<sup>2</sup>) ktoré spĺňajú požiadavky na uvedenie na trh podľa osobitného predpisu.<sup>26</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 2 a 26 znejú:
+
+  - „<sup>2</sup>) Kapitola V čl. 51 nariadenia Európskeho parlamentu a Rady (EÚ) 2017/745 z 5. apríla 2017 o zdravotníckych pomôckach, zmene smernice č. 2001/83/ES, nariadenia (ES) č. 178/2002 a nariadenia (ES) č. 1223/2009 a o zrušení smerníc Rady 90/385/EHS a 93/42/EHS (Ú. v. EÚ
+
+  - L 117, 5. 5. 2017) v platnom znení.
+
+  - <sup>26</sup>) Kapitola II čl. 5, 19 a 20 nariadenia (EÚ) 2017/745.“.
+
+- 28. V § 22 odsek 3 znie:
+
+- „(3)
+
+- Internetový výdaj, a to aj do zahraničia, môže zabezpečovať len držiteľ povolenia na poskytovanie lekárenskej starostlivosti vo verejnej lekárni, ak ide o výdaj humánneho lieku, veterinárneho lieku alebo zdravotníckej pomôcky, alebo držiteľ povolenia na poskytovanie lekárenskej starostlivosti vo výdajni zdravotníckych pomôcok, ak ide o výdaj zdravotníckej pomôcky. Iným fyzickým osobám alebo právnickým osobám sa zabezpečovanie internetového výdaja zakazuje.“.
+
+- 29. V § 22 ods. 6 písmeno b) znie:
+
+- „b)
+
+- zdravotnícke pomôcky triedy I a triedy IIa,<sup>2</sup>) ktoré spĺňajú požiadavky na uvedenie na trh podľa osobitného predpisu.<sup>26</sup>)“.
+
+- 30. V § 22 ods. 7 písmeno a) znie:
+
+- „a)
+
+- vopred oznámiť začatie internetového výdaja do Slovenskej republiky
+
+- 1.
+
+- štátnemu ústavu, ak ide o humánny liek alebo zdravotnícku pomôcku, alebo
+
+- 2.
+
+- ústavu kontroly veterinárnych liečiv, ak ide o veterinárny liek,“.
+
+- 31. V § 22 sa odsek 7 dopĺňa písmenom c), ktoré znie:
+
+- „c)
+
+- na požiadanie predložiť štátnemu ústavu kópiu EÚ vyhlásenia o zhode zdravotníckej pomôcky, ktorá je predmetom internetového výdaja.“.
+
+- 32. V § 22 sa odsek 8 dopĺňa písmenom f), ktoré znie:
+
+- „f)
+
+- informácie o držiteľovi povolenia na poskytovanie lekárenskej starostlivosti vo verejnej lekárni a držiteľovi povolenia na poskytovanie lekárenskej starostlivosti vo výdajni zdravotníckych pomôcok, ktorým štátny ústav nariadil ukončiť internetový výdaj podľa odseku 10.“.
+
+- 33. § 22 sa dopĺňa odsekmi 9 a 10, ktoré znejú:
+
+- „(9)
+
+- Zakazuje sa, aby predmetom internetového výdaja boli lieky alebo zdravotnícke pomôcky, ktoré nie sú uvedené v odsekoch 2 a 6.
+
+- (10)
+
+- Ak štátny ústav zistí, že držiteľ povolenia na poskytovanie lekárenskej starostlivosti vo verejnej lekárni alebo držiteľ povolenia na poskytovanie lekárenskej starostlivosti vo výdajni zdravotníckych pomôcok porušuje zákaz podľa odseku 9, nariadi mu, aby internetový výdaj ukončil.“.
 
 - 34. V § 23 ods. 1 písmeno v) znie:
 
@@ -458,6 +530,744 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
 - 59. V § 106 ods. 6 sa slová „§ 119 ods. 23“ nahrádzajú slovami „§ 119 ods. 25“.
 
+- 60. § 110 vrátane nadpisu znie:
+
+- „§ 110
+
+- Registrácia a evidencia výrobcu diagnostickej zdravotníckej pomôcky in vitro
+
+- (1)
+
+- Výrobca diagnostickej zdravotníckej pomôcky in vitro je fyzická osoba alebo právnická osoba, ktorá zodpovedá za konštrukčné riešenie, výrobu, systém kvality výroby, balenie, označovanie a účel určenia diagnostickej zdravotníckej pomôcky in vitro alebo za montovanie, spracovanie, obnovenie, balenie, označovanie a účel určenia prefabrikovaného výrobku. Povinnosti vyplývajúce z tohto zákona a z osobitných predpisov,<sup>71</sup>) ktoré sa vzťahujú na výrobcu diagnostickej zdravotníckej pomôcky in vitro, sa vzťahujú aj na fyzickú osobu alebo právnickú osobu, ktorá montuje, balí, spracúva, obnovuje alebo označuje nálepkou jeden alebo viac prefabrikovaných výrobkov alebo im určuje účel určenia ako diagnostickej zdravotníckej pomôcke in vitro a uvádza ich na trh; plnenie týchto povinností sa nevzťahuje na fyzickú osobu alebo právnickú osobu, ktorá montuje alebo prispôsobuje pacientom diagnostické zdravotnícke pomôcky in vitro už uvedené na trh v súlade s ich účelom určenia.
+
+- (2)
+
+- Výrobca s miestom podnikania alebo so sídlom v Slovenskej republike, ktorý uvádza diagnostickú zdravotnícku pomôcku in vitro na trh alebo uvádza do prevádzky podľa osobitných predpisov,<sup>71</sup>) a fyzická osoba s miestom podnikania alebo právnická osoba so sídlom v Slovenskej republike, ktorá kompletizuje alebo sterilizuje diagnostickú zdravotnícku pomôcku in vitro s cieľom uviesť ju na trh alebo do prevádzky podľa osobitných predpisov,<sup>71</sup>) písomne oznámi štátnemu ústavu adresu miesta podnikania alebo adresu sídla a opis diagnostickej zdravotníckej pomôcky in vitro uvádzanej na trh alebo do prevádzky (ďalej len „registrácia výrobcu“).
+
+- (3)
+
+- Ak výrobca, ktorý uvádza diagnostickú zdravotnícku pomôcku in vitro na trh alebo do prevádzky podľa osobitných predpisov,<sup>71</sup>) nemá miesto podnikania alebo sídlo v niektorom členskom štáte, určí fyzickú osobu s trvalým pobytom alebo iným obdobným pobytom alebo fyzickú osobu s miestom podnikania v niektorom členskom štáte alebo právnickú osobu so sídlom v niektorom členskom štáte, ktorú písomne poverí svojím zastupovaním a na ktorú sa môžu obracať príslušné orgány a osoby členských štátov (ďalej len „splnomocnenec“). Na splnomocnenca, ktorý má bydlisko alebo miesto podnikania, alebo sídlo v Slovenskej republike, sa vzťahuje registrácia výrobcu podľa odseku 2. Štátny ústav na požiadanie informuje príslušné orgány iných členských štátov a Komisiu o údajoch, ktoré predložil výrobca alebo splnomocnenec pri registrácii výrobcu.
+
+- (4)
+
+- Výrobca diagnostickej zdravotníckej pomôcky in vitro s miestom podnikania alebo so sídlom mimo územia Slovenskej republiky alebo jeho splnomocnenec môže písomne oznámiť štátnemu ústavu údaje umožňujúce identifikáciu tohto výrobcu a identifikáciu diagnostickej zdravotníckej pomôcky in vitro uvádzanej na trh v Slovenskej republike spolu s označením a návodom na použitie.
+
+- (5)
+
+- Štátny ústav po registrácii výrobcu podľa odsekov 2 a 3 alebo po prijatí oznámenia výrobcu podľa odseku 4 pridelí diagnostickej zdravotníckej pomôcke in vitro kód. Štátny ústav priebežne vedie, kontroluje a aktualizuje databázu diagnostických zdravotníckych pomôcok in vitro; ak diagnostická zdravotnícka pomôcka in vitro už nespĺňa požiadavky na uvedenie na trh alebo na uvedenie do prevádzky,<sup>71</sup>) štátny ústav tejto diagnostickej zdravotníckej pomôcke in vitro zruší registráciu formou rozhodnutia alebo vypustí diagnostickú zdravotnícku pomôcku in vitro z databázy zdravotníckych pomôcok a písomne o tom informuje výrobcu alebo splnomocnenca. Po nadobudnutí právoplatnosti rozhodnutia o zrušení registrácie alebo vypustení diagnostickej zdravotníckej pomôcky in vitro z databázy zdravotníckych pomôcok štátny ústav zruší kód pridelený štátnym ústavom. Štátny ústav poskytuje v elektronickej podobe údaje z databázy zdravotníckych pomôcok národnému centru.
+
+- (6)
+
+- Ak je diagnostická zdravotnícka pomôcka in vitro, ktorá má značku zhody pri zaregistrovaní podľa odseku 2, novým výrobkom, výrobca to uvedie v oznámení štátnemu ústavu. Na základe tohto oznámenia výrobca v priebehu nasledujúcich dvoch rokov predkladá štátnemu ústavu každé dva mesiace správu o získaných skúsenostiach vzťahujúcich sa na diagnostickú zdravotnícku pomôcku in vitro po jej uvedení na trh.
+
+- (7)
+
+- Diagnostická zdravotnícka pomôcka in vitro sa považuje za novú, ak je určená na
+
+- a)
+
+- analyzovanie novej látky alebo hodnotenie novej veličiny a nebola zabezpečená sústavná dostupnosť diagnostickej zdravotníckej pomôcky in vitro na trhu Slovenskej republiky počas predchádzajúcich troch rokov,
+
+- b)
+
+- použitie analytického postupu, ktorý sa v Slovenskej republike nepoužíval nepretržite počas predchádzajúcich troch rokov.
+
+- (8)
+
+- Štátny ústav vkladá údaje o registrácii výrobcu, splnomocnenca a diagnostickej zdravotníckej pomôcky in vitro do európskej databanky zdravotníckych pomôcok (Eudamed);<sup>72</sup>) pri vkladaní údajov sa používa kód medzinárodne uznávanej nomenklatúry zdravotníckych pomôcok.“.
+
+  - Poznámky pod čiarou k odkazom 71 a 72 znejú:
+
+  - „<sup>71</sup>) Zákon č. 56/2018 Z. z. o posudzovaní zhody výrobku, sprístupňovaní určeného výrobku na trhu a o zmene a doplnení niektorých zákonov.
+
+  - Nariadenie vlády Slovenskej republiky č. 569/2001 Z. z. v znení neskorších predpisov.
+
+  - <sup>72</sup>) Rozhodnutie Komisie z 19. apríla 2010 o Európskej databanke zdravotníckych pomôcok (Eudamed) (2010/227) (Ú. v. EÚ L 102, 23. 4. 2010).“.
+
+- 61. Za § 110 sa vkladajú § 110a až 110c, ktoré vrátane nadpisov znejú:
+
+- „§ 110a
+
+- Revidovaný regulačný rámec pre zdravotnícke pomôcky
+
+- (1)
+
+- Revidovaný regulačný rámec pre zdravotnícke pomôcky upravuje osobitný predpis.<sup>42ea</sup>)
+
+- (2)
+
+- Autorizáciu<sup>72a</sup>) notifikovaných osôb, notifikáciu<sup>72b</sup>) notifikovaných osôb, plnenie informačných povinností<sup>72c</sup>) vo vzťahu ku Komisii a členským štátom, ktoré vykonáva členský štát podľa osobitných predpisov,<sup>42ea</sup>) vykonáva Úrad pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky (ďalej len „úrad“). Úrad je orgánom zodpovedným za notifikované osoby.<sup>72d</sup>)
+
+- (3)
+
+- Štátny ústav vykonáva
+
+- a)
+
+- registráciu distribútorov zdravotníckych pomôcok sprístupňujúcich zdravotnícke pomôcky,
+
+- b)
+
+- kontrolu vložených údajov v elektronickom systéme registrácie výrobcov, splnomocnených zástupcov, dovozcov,
+
+- c)
+
+- plní úlohy členského štátu podľa osobitného predpisu<sup>42ea</sup>) pri
+
+- 1.
+
+- klinickom skúšaní zdravotníckych pomôcok,
+
+- 2.
+
+- dohľade nad bezpečnosťou zdravotníckych pomôcok,
+
+- 3.
+
+- výkone trhového dohľadu nad zdravotníckymi pomôckami,
+
+- 4.
+
+- spolupráci medzi členskými štátmi a pri výmene informácií.
+
+- § 110b
+
+- Všeobecné povinnosti výrobcu, splnomocneného zástupcu, dovozcu a distribútora zdravotníckej pomôcky
+
+- (1)
+
+- Výrobca, splnomocnený zástupca, dovozca a distribútor je povinný zabezpečiť, aby k zdravotníckej pomôcke sprístupnenej pre používateľa alebo pacienta boli pripojené informácie uvedené v osobitnom predpise<sup>72e</sup>) v štátnom jazyku.
+
+- (2)
+
+- Výrobca, splnomocnený zástupca, dovozca alebo distribútor, ktorý sprístupnil zdravotnícku pomôcku na trhu v Slovenskej republike podľa osobitného predpisu,<sup>42ea</sup>) písomne oznámi v lehote 14 dní od sprístupnenia zdravotníckej pomôcky na trhu štátnemu ústavu predložením štandardizovaného formulára, EÚ vyhlásenia o zhode, certifikátov o posúdení zhody, vonkajšieho obalu a návodu na použitie svoje meno alebo názov, adresu miesta podnikania alebo adresu sídla, názov a adresu sídla výrobcu, názov a adresu sídla splnomocneného zástupcu a názov, triedu zdravotníckej pomôcky sprístupnenej na trhu v Slovenskej republike; dokumentácia a informácie podľa prvej časti vety musia byť štátnemu ústavu na vyžiadanie poskytnuté v štátnom jazyku.
+
+- (3)
+
+- Štátny ústav môže požiadať výrobcu, splnomocneného zástupcu, dovozcu a distribútora, ktorý má miesto výkonu činnosti v Slovenskej republike, aby poskytol vzorky zdravotníckej pomôcky zdarma, alebo ak to nie je možné, aby umožnil prístup k zdravotníckej pomôcke.
+
+- (4)
+
+- Ak výrobca, splnomocnený zástupca, dovozca alebo distribútor nespolupracuje so štátnym ústavom alebo ak sú poskytnuté informácie alebo dokumentácia neúplné alebo nesprávne, štátny ústav môže v záujme zabezpečenia ochrany verejného zdravia a bezpečnosti pacientov zakázať sprístupnenie zdravotníckej pomôcky na trhu v Slovenskej republike, nariadiť stiahnutie zdravotníckej pomôcky z trhu Slovenskej republiky alebo z používania dovtedy, kým výrobca, splnomocnený zástupca, dovozca alebo distribútor nezačne spolupracovať alebo neposkytne úplné a správne informácie.
+
+- (5)
+
+- Štátny ústav po oznámení podľa odseku 2 pridelí zdravotníckej pomôcke kód. Štátny ústav vedie, kontroluje, aktualizuje a zverejňuje na svojom webovom sídle databázu kódov pridelených štátnym ústavom.
+
+- (6)
+
+- Ak zdravotnícka pomôcka nespĺňa požiadavky na uvedenie na trh, štátny ústav vyzve osobu, ktorá zdravotnícku pomôcku sprístupnila na trhu v Slovenskej republike, na odstránenie nedostatkov. Ak nie sú nedostatky v stanovenej lehote odstránené, štátny ústav zdravotníckej pomôcke rozhodnutím zruší kód pridelený štátnym ústavom a písomne o tom informuje distribútora. Štátny ústav poskytuje v elektronickej podobe údaje z databázy kódov pridelených štátnym ústavom národnému centru.
+
+- (7)
+
+- Výrobca zdravotníckej pomôcky na mieru je povinný oznámiť štátnemu ústavu sprístupnenie zdravotníckej pomôcky na mieru na území Slovenskej republiky.
+
+- (8)
+
+- Poskytovateľ zdravotnej starostlivosti je povinný elektronicky ukladať a uchovávať unikátny identifikátor<sup>72f</sup>) zdravotníckej pomôcky, ktorá mu bola dodaná, a na požiadanie ho poskytnúť štátnemu ústavu.
+
+- (9)
+
+- Poskytovateľ zdravotnej starostlivosti môže pri poskytovaní zdravotnej starostlivosti používať iba zdravotnícku pomôcku, ktorá spĺňa požiadavky na uvedenie na trh, a je povinný používať ju v súlade s účelom určenia a v súlade s návodom na použitie.
+
+- (10)
+
+- Štátny ústav plní úlohy členského štátu pri vkladaní údajov o zdravotníckych pomôckach do európskej databanky zdravotníckych pomôcok (Eudamed) podľa osobitného predpisu.<sup>72</sup>)
+
+- (11)
+
+- Úrad plní úlohy členského štátu pri vkladaní údajov o notifikovaných osobách, ktoré autorizoval, a certifikátoch vydaných týmito notifikovanými osobami do európskej databanky zdravotníckych pomôcok (Eudamed) podľa osobitného predpisu.<sup>72</sup>)
+
+- (12)
+
+- Štátny ústav je oprávnený si pri výkone trhového dohľadu nad zdravotníckymi pomôckami vyžiadať od kontrolovaného subjektu servisný záznam, dodací list, zákazkový list alebo faktúru, ktoré je kontrolovaný subjekt na požiadanie povinný štátnemu ústavu predložiť.
+
+- § 110c
+
+- Karta implantátu
+
+- (1)
+
+- Poskytovateľ zdravotnej starostlivosti je povinný každému pacientovi, ktorému bola zdravotnícka pomôcka implantovaná, poskytnúť kartu implantátu, ktorá obsahuje informácie podľa osobitného predpisu<sup>72g</sup>) v štátnom jazyku.
+
+- (2)
+
+- Povinnosť uvedená v odseku 1 sa nevzťahuje na implantované zdravotnícke pomôcky uvedené v osobitnom predpise.<sup>72h</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 72a až 72h znejú:
+
+  - „<sup>72a</sup>) § 10 až 19 zákona č. 56/2018 Z. z.
+
+  - <sup>72b</sup>) § 20 zákona č. 56/2018 Z. z.
+
+  - <sup>72c</sup>) § 29 zákona č. 56/2018 Z. z.
+
+  - <sup>72d</sup>) Čl. 35 nariadenia (EÚ) 2017/745.
+
+  - <sup>72e</sup>) Kapitola II čl. 10 bod 11 a príloha č. I oddiel 23 nariadenia (EÚ) 2017/745.
+
+  - <sup>72f</sup>) Čl. 2 bod 15 nariadenia (EÚ) 2017/745.
+
+  - <sup>72g</sup>) Kapitola II čl. 18 ods. 1 nariadenia (EÚ) 2017/745.
+
+  - <sup>72h</sup>) Kapitola II čl. 18 ods. 3 nariadenia (EÚ) 2017/745.“.
+
+- 62. § 111 vrátane nadpisu znie:
+
+- „§ 111
+
+- Všeobecné ustanovenia o klinickom skúšaní zdravotníckej pomôcky
+
+- podľa revidovaného regulačného rámca
+
+- (1)
+
+- Klinickým skúšaním zdravotníckej pomôcky podľa revidovaného regulačného rámca sa rozumie postup klinického skúšania zdravotníckej pomôcky podľa osobitného predpisu.<sup>42ea</sup>)
+
+- (2)
+
+- Na klinické skúšanie zdravotníckej pomôcky, ktorá je geneticky modifikovaným organizmom alebo genetické organizmy obsahuje, sa vyžaduje súhlas ministerstva životného prostredia podľa osobitného predpisu.<sup>42b</sup>)
+
+- (3)
+
+- Na klinické skúšanie zdravotníckej pomôcky, pri ktorom sa predpokladá ožiarenie účastníka klinického skúšania zdravotníckej pomôcky skúšanou zdravotníckou pomôckou alebo ožiarenie zdravotníckeho pracovníka vykonávajúceho klinické skúšanie zdravotníckej pomôcky, sa vyžaduje súhlas príslušného orgánu radiačnej ochrany podľa osobitného predpisu.<sup>42d</sup>)
+
+- (4)
+
+- Na klinické skúšanie zdravotníckej pomôcky, pri ktorom sa predpokladá odber ľudského orgánu, ľudského tkaniva alebo ľudských buniek alebo transplantácia ľudského orgánu, ľudského tkaniva alebo ľudských buniek účastníka, sa vyžaduje, aby malo pracovisko, na ktorom sa má klinické skúšanie zdravotníckej pomôcky vykonávať, súhlas na výkon činnosti transplantačného centra podľa osobitných predpisov.<sup>42e</sup>)
+
+- (5)
+
+- Zakazuje sa vykonávať génové terapeutické skúšky smerujúce k zmenám genetickej identity účastníka klinického skúšania zdravotníckej pomôcky.
+
+- (6)
+
+- Zakazuje sa, aby účastníkom klinického skúšania zdravotníckej pomôcky bola osoba, ktorá je vo výkone väzby alebo vo výkone trestu odňatia slobody.
+
+- (7)
+
+- Ochrana maloletých a iných zraniteľných osôb sa zabezpečuje podľa osobitného predpisu.<sup>42a</sup>)“.
+
+- 63. Za § 111 sa vkladajú § 111a až 111g, ktoré vrátane nadpisov znejú:
+
+- „§ 111a
+
+- Postup etickej komisie pri posudzovaní klinického skúšania zdravotníckej pomôcky
+
+- (1)
+
+- Etická komisia vypracuje stanovisko k žiadosti o povolenie klinického skúšania zdravotníckej pomôcky<sup>42eb</sup>) do 40 dní odo dňa overenia tejto žiadosti a bezodkladne ho predloží štátnemu ústavu. Táto lehota sa môže na účely konzultácií s odborníkmi po dohode so štátnym ústavom predĺžiť najviac o 20 dní.
+
+- (2)
+
+- Pri koordinovanom postupe posudzovania žiadosti o povolenie klinického skúšania zdravotníckej pomôcky<sup>73</sup>) etická komisia vypracuje stanovisko k
+
+- a)
+
+- hodnotiacej správe vypracovanej koordinujúcim členským štátom do siedmich dní odo dňa doručenia hodnotiacej správy a bezodkladne ho predloží štátnemu ústavu,
+
+- b)
+
+- pripomienkam členských štátov k hodnotiacej správe vypracovanej koordinujúcim členským štátom do troch dní odo dňa ich doručenia štátnym ústavom a bezodkladne ho predloží štátnemu ústavu,
+
+- c)
+
+- záverečnej hodnotiacej správe do piatich dní odo dňa doručenia záverečnej hodnotiacej správy a bezodkladne ho predloží štátnemu ústavu.
+
+- (3)
+
+- Etická komisia vypracuje stanovisko k oznámeniu podstatnej zmeny klinického skúšania zdravotníckej pomôcky<sup>42ec</sup>) do 33 dní od tohto oznámenia a bezodkladne ho predloží štátnemu ústavu. Táto lehota sa môže na účely konzultácií s odborníkmi po dohode so štátnym ústavom predĺžiť najviac o sedem dní.
+
+- (4)
+
+- Etická komisia vypracuje stanovisko k oznámeniu o klinickom skúšaní zdravotníckej pomôcky s označením CE<sup>42ed</sup>) do 25 dní od tohto oznámenia a bezodkladne ho predloží štátnemu ústavu. Táto lehota sa môže na účely konzultácií s odborníkmi po dohode so štátnym ústavom predĺžiť najviac o sedem dní.
+
+- § 111b
+
+- Spolupráca štátneho ústavu a etickej komisie pri výkone dohľadu nad priebehom povoleného klinického skúšania zdravotníckej pomôcky
+
+- (1)
+
+- Štátny ústav pri výkone dohľadu nad priebehom povoleného klinického skúšania zdravotníckej pomôcky podľa tohto zákona a podľa osobitného predpisu<sup>42ea</sup>) spolupracuje s etickou komisiou.
+
+- (2)
+
+- Ak štátny ústav pri výkone dohľadu nad priebehom povoleného klinického skúšania zdravotníckej pomôcky zistí nové skutočnosti ovplyvňujúce bezpečnosť účastníka, vedeckú odôvodnenosť klinického skúšania zdravotníckej pomôcky alebo zistí porušenie ustanovení týkajúcich sa klinického skúšania zdravotníckej pomôcky, informuje o týchto zisteniach etickú komisiu a požiada ju o stanovisko k zisteným skutočnostiam.
+
+- (3)
+
+- Ak z oznámenia o závažnej nežiaducej udalosti, o nehode alebo o zistení súvisiacom so závažnou nežiaducou udalosťou alebo nehodou, ktoré zadávateľ predkladá členským štátom, v ktorých sa klinické skúšanie zdravotníckej pomôcky vykonáva, prostredníctvom elektronického systému podľa osobitného predpisu,<sup>74</sup>) vyplývajú riziká pre bezpečnosť účastníka, štátny ústav informuje o tomto oznámení etickú komisiu a požiada ju o stanovisko k predmetnému oznámeniu; etická komisia vypracuje stanovisko a predloží ho štátnemu stavu do troch dní odo dňa doručenia žiadosti štátneho ústavu.
+
+- § 111c
+
+- Náležitosti stanoviska etickej komisie
+
+- Stanovisko etickej komisie k žiadosti o povolenie klinického skúšania zdravotníckej pomôcky, k oznámeniu podstatnej zmeny klinického skúšania zdravotníckej pomôcky, k oznámeniu o klinickom skúšaní zdravotníckej pomôcky s označením CE obsahuje
+
+- a)
+
+- meno a priezvisko predsedu etickej komisie,
+
+- b)
+
+- identifikačné číslo žiadosti alebo oznámenia,
+
+- c)
+
+- predmet posudzovania,
+
+- d)
+
+- identifikačné údaje o zadávateľovi
+
+- 1.
+
+- meno, priezvisko a adresu trvalého pobytu, ak je zadávateľom fyzická osoba,
+
+- 2.
+
+- názov alebo obchodné meno, adresu sídla, právnu formu, meno a priezvisko osoby, ktorá je štatutárnym orgánom, ak je zadávateľom právnická osoba,
+
+- e)
+
+- názov a adresu sídla poskytovateľa zdravotnej starostlivosti, ktorý bude vykonávať klinické skúšanie zdravotníckej pomôcky, názov a adresu pracoviska, na ktorom sa má vykonávať klinické skúšanie zdravotníckej pomôcky,
+
+- f)
+
+- meno a priezvisko skúšajúceho<sup>75</sup>) pre príslušné pracovisko, na ktorom sa má vykonávať klinické skúšanie zdravotníckej pomôcky,
+
+- g)
+
+- druh žiadosti,
+
+- h)
+
+- zoznam členov etickej komisie, ktorí žiadosť posudzovali,
+
+- i)
+
+- zoznam dokumentov, ktoré etická komisia posudzovala,
+
+- j)
+
+- vyhlásenie, že etická komisia pracuje podľa platných požiadaviek správnej klinickej praxe a podľa platných právnych predpisov,
+
+- k)
+
+- súhlas alebo nesúhlas s hodnotiacou správou vypracovanou koordinujúcim členským štátom,
+
+- l)
+
+- pripomienky k hodnotiacej správe vypracovanej koordinujúcim členským štátom,
+
+- m)
+
+- súhlas alebo nesúhlas s pripomienkami členských štátov k hodnotiacej správe vypracovanej koordinujúcim členským štátom a návrh na vysporiadanie sa s nimi,
+
+- n)
+
+- súhlas alebo nesúhlas so záverečnou hodnotiacou správou vypracovanou koordinujúcim členským štátom a odôvodnenie nesúhlasu; etická komisia môže vyjadriť nesúhlas so závermi koordinujúceho členského štátu, ak
+
+- 1.
+
+- účasť na klinickom skúšaní zdravotníckej pomôcky by viedla k tomu, že riziká spojené s účasťou na klinickom skúšaní zdravotníckej pomôcky by významne prevýšili prínosy správne poskytovanej zdravotnej starostlivosti,
+
+- 2.
+
+- klinické skúšanie zdravotníckej pomôcky by bolo vykonávané v rozpore s § 111,
+
+- 3.
+
+- existujú dôvodné pochybnosti o bezpečnosti účastníka, hodnovernosti a spoľahlivosti údajov poskytnutých zadávateľom,
+
+- o)
+
+- posúdenie etiky klinického skúšania zdravotníckej pomôcky, ktoré obsahuje odôvodnené vyjadrenie k súladu alebo nesúladu hodnoteného klinického skúšania zdravotníckej pomôcky s
+
+- 1.
+
+- požiadavkami týkajúcimi sa informovaného súhlasu podľa osobitného predpisu,<sup>76</sup>)
+
+- 2.
+
+- požiadavkami na ochranu zraniteľných skupín účastníkov klinického skúšania zdravotníckej pomôcky podľa osobitného predpisu,<sup>76a</sup>)
+
+- 3.
+
+- požiadavkami na ochranu osobných údajov,
+
+- 4.
+
+- požiadavkami na skúšajúceho,
+
+- 5.
+
+- požiadavkami na pracovisko, na ktorom sa má vykonávať klinické skúšanie zdravotníckej pomôcky,
+
+- p)
+
+- stručný záver stanoviska, ktorý obsahuje
+
+- 1.
+
+- súhlas s vykonaním klinického skúšania zdravotníckej pomôcky,
+
+- 2.
+
+- súhlas s vykonaním klinického skúšania zdravotníckej pomôcky s podmienkami alebo
+
+- 3.
+
+- nesúhlas s vykonaním klinického skúšania zdravotníckej pomôcky,
+
+- q)
+
+- podpis predsedu etickej komisie,
+
+- r)
+
+- dátum vydania stanoviska.
+
+- § 111d
+
+- Rozhodovanie štátneho ústavu v súčinnosti s etickou komisiou pri klinickom skúšaní zdravotníckej pomôcky
+
+- (1)
+
+- Štátny ústav klinické skúšanie zdravotníckej pomôcky nepovolí, ak etická komisia k žiadosti o povolenie podľa § 29b ods. 2 písm. a) štvrtého bodu alebo k oznámeniu podľa § 29b ods. 2 písm. b) prvého bodu alebo druhého bodu vydala nesúhlasné stanovisko.
+
+- (2)
+
+- Rozhodnutie štátneho ústavu k žiadosti o povolenie podľa § 29b ods. 2 písm. a) štvrtého bodu alebo k oznámeniu podľa § 29b ods. 2 písm. b) prvého bodu alebo druhého bodu obsahuje
+
+- a)
+
+- meno a priezvisko, adresu trvalého pobytu, ak je zadávateľom fyzická osoba; názov alebo obchodné meno, sídlo, právnu formu, identifikačné číslo, meno a priezvisko osoby, ktorá je štatutárnym orgánom, ak je zadávateľom právnická osoba,
+
+- b)
+
+- označenie právneho zástupcu zadávateľa v niektorom z členských štátov alebo označenie kontaktnej osoby v Slovenskej republike podľa osobitného predpisu,<sup>42ad</sup>)
+
+- c)
+
+- identifikačné číslo žiadosti alebo oznámenia,
+
+- d)
+
+- názov klinického skúšania zdravotníckej pomôcky,
+
+- e)
+
+- označenie výrobcu zdravotníckej pomôcky,
+
+- f)
+
+- výrok,
+
+- g)
+
+- odôvodnenie,
+
+- h)
+
+- poučenie o možnosti sa odvolať.
+
+- (3)
+
+- Ak stanovisko podľa § 111c písm. p) tretieho bodu obsahuje záver, že etická komisia nesúhlasí s klinickým skúšaním zdravotníckej pomôcky, štátny ústav rozhodne o nepovolení klinického skúšania zdravotníckej pomôcky.
+
+- (4)
+
+- Ak stanovisko podľa § 111c písm. p) tretieho bodu obsahuje záver, že etická komisia nesúhlasí s pokračovaním hodnoteného klinického skúšania zdravotníckej pomôcky a navrhuje pozastavenie povoleného klinického skúšania zdravotníckej pomôcky, štátny ústav rozhodne o pozastavení povoleného klinického skúšania zdravotníckej pomôcky, pričom v rozhodnutí uloží nápravné opatrenia alebo požiada zadávateľa o vykonanie zmeny v povolenom klinickom skúšaní zdravotníckej pomôcky.
+
+- (5)
+
+- Výrok rozhodnutia obsahuje rozhodnutie vo veci samotnej s uvedením ustanovenia, na základe ktorého štátny ústav rozhodol; ak štátny ústav v rozhodnutí o pozastavení povoleného klinického skúšania zdravotníckej pomôcky zadávateľovi ukladá nápravné opatrenia alebo požiada zadávateľa o vykonanie zmeny v povolenom klinickom skúšaní zdravotníckej pomôcky, určí na splnenie týchto podmienok primeranú lehotu.
+
+- (6)
+
+- V odôvodnení rozhodnutia štátny ústav uvedie najmä skutočnosti, ktoré boli podkladom na vydanie rozhodnutia, úvahy, ktorými bol vedený pri hodnotení, a právne úvahy, na základe ktorých posudzoval predložené skutočnosti podľa príslušných ustanovení zákona.
+
+- (7)
+
+- Poučenie o odvolaní obsahuje informáciu, či je rozhodnutie konečné alebo či možno podať proti nemu odvolanie, v akej lehote a kde možno odvolanie podať. Poučenie obsahuje aj informáciu, či rozhodnutie možno preskúmať súdom.
+
+- (8)
+
+- V písomnom vyhotovení rozhodnutia uvedie štátny ústav dátum vydania rozhodnutia, rozhodnutie označí úradnou pečiatkou a podpisom zodpovednej osoby s uvedením mena, priezviska a funkcie zodpovednej osoby.
+
+- (9)
+
+- Chyby v písaní, v počítaní alebo iné zrejmé nesprávnosti v písomnom vyhotovení rozhodnutia môže štátny ústav kedykoľvek aj bez návrhu osobitným rozhodnutím opraviť. Kópiu rozhodnutia o oprave doručí zadávateľovi. Proti rozhodnutiu o oprave je prípustná sťažnosť, ktorá má odkladný účinok.
+
+- § 111e
+
+- Odvolanie zadávateľa klinického skúšania zdravotníckej pomôcky
+
+- (1)
+
+- Zadávateľ klinického skúšania zdravotníckej pomôcky môže podať odvolanie proti rozhodnutiu, ktorým štátny ústav rozhodol o žiadosti o povolenie alebo o oznámení podľa § 111d do 15 dní odo dňa oznámenia rozhodnutia.
+
+- (2)
+
+- Zadávateľ klinického skúšania zdravotníckej pomôcky môže odvolanie vziať späť, kým sa o ňom nerozhodlo.
+
+- (3)
+
+- Ak klinické skúšanie zdravotníckej pomôcky nebolo povolené z dôvodu nesúhlasného stanoviska etickej komisie, štátny ústav bezodkladne požiada etickú komisiu o stanovisko k odvolaniu zadávateľa; etická komisia vypracuje stanovisko k odvolaniu zadávateľa do 20 dní od predloženia odvolania zadávateľom.
+
+- (4)
+
+- Štátny ústav môže o odvolaní sám rozhodnúť, ak odvolaniu v plnom rozsahu vyhovie; ak klinické skúšanie zdravotníckej pomôcky nebolo povolené z dôvodu nesúhlasného stanoviska etickej komisie, štátny ústav môže o odvolaní rozhodnúť len vtedy, ak s rozhodnutím súhlasí etická komisia.
+
+- (5)
+
+- Ak štátny ústav o odvolaní nerozhodne, predloží ho spolu s vyjadrením etickej komisie ministerstvu zdravotníctva najneskôr do 30 dní od predloženia odvolania zadávateľom.
+
+- (6)
+
+- Ministerstvo zdravotníctva o odvolaní rozhodne do 60 dní. Proti rozhodnutiu ministerstva zdravotníctva nie je odvolanie prípustné.
+
+- § 111f
+
+- Povinnosti skúšajúceho klinického skúšania zdravotníckej pomôcky
+
+- Skúšajúci klinického skúšania zdravotníckej pomôcky je povinný
+
+- a)
+
+- zabezpečiť vykonávanie klinického skúšania zdravotníckej pomôcky v súlade s osobitným predpisom,<sup>42ea</sup>)
+
+- b)
+
+- oznámiť poskytovateľovi zdravotnej starostlivosti, s ktorým má účastník klinického skúšania zdravotníckej pomôcky uzatvorenú dohodu o poskytovaní zdravotnej starostlivosti, že účastník klinického skúšania zdravotníckej pomôcky bol zaradený do klinického skúšania zdravotníckej pomôcky bezodkladne po zaradení účastníka do klinického skúšania zdravotníckej pomôcky,
+
+- c)
+
+- oznámiť zdravotnej poisťovni vykonávajúcej verejné zdravotné poistenie účastníka klinického skúšania zdravotníckej pomôcky zaradenie účastníka klinického skúšania zdravotníckej pomôcky do klinického skúšania zdravotníckej pomôcky s uvedením identifikačného čísla žiadosti alebo oznámenia a dátumu zaradenia účastníka do klinického skúšania zdravotníckej pomôcky bezodkladne po zaradení účastníka do klinického skúšania zdravotníckej pomôcky,
+
+- d)
+
+- oznámiť zdravotnej poisťovni vykonávajúcej verejné zdravotné poistenie účastníka klinického skúšania zdravotníckej pomôcky vyradenie účastníka z klinického skúšania zdravotníckej pomôcky s uvedením identifikačného čísla žiadosti alebo oznámenia, dátumu vyradenia účastníka z klinického skúšania zdravotníckej pomôcky a dôvod vyradenia účastníka z klinického skúšania zdravotníckej pomôcky bezodkladne po vyradení účastníka z klinického skúšania zdravotníckej pomôcky,
+
+- e)
+
+- oznámiť bezodkladne zdravotnej poisťovni vykonávajúcej verejné zdravotné poistenie účastníka klinického skúšania zdravotníckej pomôcky závažnú nežiaducu udalosť a závažný nedostatok a prijať potrebné opatrenia na ochranu života a zdravia účastníka klinického skúšania zdravotníckej pomôcky,
+
+- f)
+
+- predložiť zdravotnej poisťovni vykonávajúcej verejné zdravotné poistenie účastníka klinického skúšania zdravotníckej pomôcky bezprostredne po prešetrení kópiu písomnej správy z prešetrenia závažnej nežiaducej udalosti a závažného nedostatku, ktoré sa vzťahujú na účastníka klinického skúšania zdravotníckej pomôcky.
+
+- § 111g
+
+- Povinnosti zadávateľa klinického skúšania zdravotníckej pomôcky
+
+- Zadávateľ klinického skúšania zdravotníckej pomôcky je povinný
+
+- a)
+
+- plniť úlohy zadávateľa klinického skúšania zdravotníckej pomôcky ustanovené osobitným predpisom,<sup>42ea</sup>)
+
+- b)
+
+- uhradiť náklady spojené s
+
+- 1.
+
+- klinickým skúšaním zdravotníckej pomôcky vrátane nákladov spojených s laboratórnymi vyšetreniami, zobrazovacími vyšetreniami a inými vyšetreniami uvedenými v protokole klinického skúšania zdravotníckej pomôcky a nákladov súvisiacich s poskytnutím ústavnej zdravotnej starostlivosti, ak je poskytnutá v súvislosti s klinickým skúšaním zdravotníckej pomôcky,
+
+- 2.
+
+- liečbou zdravotných komplikácií alebo trvalých následkov na zdraví vzniknutých účastníkovi klinického skúšania zdravotníckej pomôcky v dôsledku klinického skúšania zdravotníckej pomôcky,
+
+- 3.
+
+- uzatvorením zmluvy o poistení zodpovednosti zadávateľa klinického skúšania zdravotníckej pomôcky za škodu spôsobenú účastníkovi klinického skúšania zdravotníckej pomôcky pre prípad poškodenia zdravia účastníka klinického skúšania zdravotníckej pomôcky, úmrtia účastníka klinického skúšania zdravotníckej pomôcky alebo inej majetkovej ujmy alebo nemajetkovej ujmy, ktorá má byť uzavretá a účinná počas celého priebehu klinického skúšania zdravotníckej pomôcky,
+
+- 4.
+
+- uzatvorením zmluvy o poistení zodpovednosti poskytovateľa zdravotnej starostlivosti za škodu, ktorá môže byť spôsobená účastníkovi klinického skúšania zdravotníckej pomôcky, ktorá má byť uzavretá a účinná počas celého priebehu klinického skúšania zdravotníckej pomôcky,
+
+- c)
+
+- predložiť na požiadanie zdravotnej poisťovne, ktorá vykonáva verejné zdravotné poistenie účastníka klinického skúšania zdravotníckej pomôcky, údaje a dokumentáciu o klinickom skúšaní zdravotníckej pomôcky,
+
+- d)
+
+- začať klinické skúšanie zdravotníckej pomôcky až po nadobudnutí právoplatnosti rozhodnutia štátneho ústavu o vydaní povolenia na klinické skúšanie zdravotníckej pomôcky.“.
+
+  - Poznámky pod čiarou k odkazom 73 až 76a znejú:
+
+  - „<sup>73</sup>) Čl. 78 nariadenia (EÚ) 2017/745.
+
+  - <sup>74</sup>) Čl. 80 nariadenia (EÚ) 2017/745.
+
+  - <sup>75</sup>) Čl. 62 ods. 6 nariadenia (EÚ) 2017/745
+
+  - <sup>76</sup>) Čl. 63 nariadenia (EÚ) 2017/745.
+
+  - <sup>76a</sup>) Čl. 64 až 68 nariadenia (EÚ) 2017/745.“.
+
+- 64. § 112 vrátane nadpisu znie:
+
+- „§ 112
+
+- Uvedenie diagnostickej zdravotníckej pomôcky in vitro na trh alebo do používania
+
+- (1)
+
+- Diagnostickú zdravotnícku pomôcku in vitro možno uviesť na trh alebo uviesť do používania, ak po jej správnom inštalovaní, udržiavaní a používaní podľa jej účelu určenia neohrozí bezpečnosť a zdravie pacientov, používateľov alebo iných osôb.
+
+- (2)
+
+- Počas veľtrhov, výstav a prezentácií možno predvádzať diagnostické zdravotnícke pomôcky in vitro, ktoré nezodpovedajú požiadavkám, ktoré sú uvedené v tomto zákone a v osobitných predpisoch,<sup>71</sup>) ak je to na viditeľnom paneli zreteľne uvedené spolu s upozornením, že tieto diagnostické zdravotnícke pomôcky in vitro možno uviesť na trh alebo uviesť do používania, ak sa splnia požiadavky uvedené v tomto zákone a v osobitných predpisoch.<sup>71</sup>)
+
+- (3)
+
+- Zakazuje sa uvádzať na trh ortuťové teplomery, ktoré sú určené na meranie telesnej teploty, a sfygmomanometre určené širokej verejnosti.
+
+- (4)
+
+- Štátny ústav písomne požiada Komisiu o prijatie potrebných opatrení, ak
+
+- a)
+
+- postup posudzovania zhody diagnostickej zdravotníckej pomôcky in vitro alebo skupiny diagnostických zdravotníckych pomôcok in vitro je nevhodný,
+
+- b)
+
+- je potrebné rozhodnutie o tom, či posudzovaný výrobok alebo skupina výrobkov zodpovedá požiadavkám na diagnostickú zdravotnícku pomôcku in vitro.
+
+- (5)
+
+- Výrobca diagnostickej zdravotníckej pomôcky in vitro je oprávnený dodávať diagnostickú zdravotnícku pomôcku in vitro, za ktorej uvedenie na trh zodpovedá, nemocničným lekárňam, verejným lekárňam, výdajniam zdravotníckych pomôcok, zdravotným poisťovniam a pacientom; nie je oprávnený účtovať cenu obchodného alebo sprostredkovateľského výkonu.<sup>16</sup>)“.
+
+- 65. § 113 vrátane nadpisu znie:
+
+- „§ 113
+
+- Nesprávne alebo chýbajúce označenie diagnostickej zdravotníckej pomôcky in vitro značkou zhody CE
+
+- (1)
+
+- Ak štátny ústav zistí, že označenie diagnostickej zdravotníckej pomôcky in vitro značkou zhody CE je umiestnené nesprávne alebo označenie chýba, nariadi výrobcovi alebo splnomocnencovi vykonať nápravu. Ak výrobca alebo splnomocnenec nevykoná nápravu, štátny ústav prijme potrebné opatrenia na obmedzenie alebo zakázanie uvádzania diagnostickej zdravotníckej pomôcky in vitro na trh alebo uvádzania do používania, alebo na jej stiahnutie z trhu alebo z používania a dohliada, či výrobca alebo splnomocnenec uložené opatrenia vykonal.
+
+- (2)
+
+- Štátny ústav uplatní opatrenia uvedené v odseku 1 aj vtedy, ak výrobca alebo splnomocnenec označenie značkou zhody CE použil
+
+- a)
+
+- na označenie nevyhovujúcej diagnostickej zdravotníckej pomôcky in vitro alebo
+
+- b)
+
+- v súlade s týmto zákonom, ale neprimeraným spôsobom na označenie výrobkov, na ktoré sa nevzťahuje tento zákon.
+
+- (3)
+
+- O opatreniach podľa odseku 1 vydá štátny ústav rozhodnutie, ktoré obsahuje dôvody, na základe ktorých ho štátny ústav vydal, a poučenie o možnosti podať odvolanie a lehotu na podanie odvolania. Štátny ústav rozhodnutie bezodkladne doručí dotknutej osobe.
+
+- (4)
+
+- Štátny ústav informuje Komisiu a príslušné orgány iných členských štátov o prijatých opatreniach uvedených v odseku 1 aj s odôvodnením rozhodnutia.“.
+
+- 66. § 114 vrátane nadpisu znie:
+
+- „§ 114
+
+- Opatrenia na ochranu zdravia a bezpečnosti používania diagnostickej zdravotníckej pomôcky in vitro
+
+- (1)
+
+- Štátny ústav v záujme zabezpečenia ochrany zdravia a bezpečnosti pacienta pri používaní diagnostickej zdravotníckej pomôcky in vitro môže
+
+- a)
+
+- zakázať uvedenie na trh alebo uvedenie do používania diagnostickej zdravotníckej pomôcky in vitro alebo skupiny diagnostických zdravotníckych pomôcok in vitro,
+
+- b)
+
+- nariadiť stiahnutie diagnostickej zdravotníckej pomôcky in vitro alebo skupiny diagnostických zdravotníckych pomôcok in vitro z trhu alebo z používania.
+
+- (2)
+
+- Štátny ústav pred prijatím opatrenia uvedeného v odseku 1 umožní výrobcovi alebo splnomocnencovi predložiť jeho vyjadrenie okrem prípadu, ak to z dôvodu naliehavosti nie je možné. Štátny ústav informuje Komisiu a príslušné orgány iných členských štátov o prijatých opatreniach a uvedie dôvody ich prijatia.
+
+- (3)
+
+- O opatreniach podľa odseku 1 vydá štátny ústav rozhodnutie, ktoré obsahuje dôvody, na základe ktorých ho štátny ústav vydal, poučenie o možnosti podať odvolanie a lehotu na podanie odvolania. Štátny ústav rozhodnutie bezodkladne doručí dotknutej osobe.
+
+- (4)
+
+- Štátny ústav prijme primerané opatrenia s cieľom včas varovať používateľov diagnostickej zdravotníckej pomôcky in vitro pred zistenými rizikami.
+
+- (5)
+
+- Ak sa štátny ústav rozhodne stiahnuť z trhu diagnostickú zdravotnícku pomôcku in vitro, ktorá je vyrábaná v inom členskom štáte, informuje o tom výrobcu diagnostickej zdravotníckej pomôcky in vitro alebo jeho splnomocnenca na adrese uvedenej na stiahnutej diagnostickej zdravotníckej pomôcke in vitro.“.
+
+- 67. V § 115 ods. 2 písm. b) sa slová „zdravotníckej pomôcky“ nahrádzajú slovami „diagnostickej zdravotníckej pomôcky in vitro“.
+
+- 68. § 116 vrátane nadpisu znie:
+
+- „§ 116
+
+- Zaznamenávanie a evidencia nehody, poruchy a zlyhania diagnostickej zdravotníckej pomôcky in vitro po jej uvedení na trh
+
+- (1)
+
+- Za nehodu, poruchu a zlyhanie diagnostickej zdravotníckej pomôcky in vitro sa považuje každá porucha fungovania alebo zmena charakteristických vlastností alebo účinnosti výkonu diagnostickej zdravotníckej pomôcky in vitro alebo každý nedostatok v označení alebo v návode na použitie, ktorý
+
+- a)
+
+- by mohol spôsobiť smrť alebo závažné poškodenie zdravotného stavu pacienta alebo používateľa,
+
+- b)
+
+- spôsobil smrť alebo závažné poškodenie zdravotného stavu pacienta alebo používateľa,
+
+- c)
+
+- je príčinou opakovaného stiahnutia diagnostickej zdravotníckej pomôcky in vitro z trhu výrobcom alebo jeho splnomocnencom.
+
+- (2)
+
+- Zdravotnícki pracovníci, poskytovatelia zdravotnej starostlivosti, zdravotné poisťovne, výrobcovia a ich splnomocnenci sú povinní bezodkladne oznamovať nehody, poruchy a zlyhania uvedené v odseku 1 štátnemu ústavu.
+
+- (3)
+
+- Štátny ústav zaznamenáva a vyhodnocuje údaje o oznámených nehodách, poruchách a zlyhaniach diagnostických zdravotníckych pomôcok in vitro.
+
+- (4)
+
+- Štátny ústav môže nariadiť pozastavenie výdaja diagnostickej zdravotníckej pomôcky in vitro, jej stiahnutie z trhu alebo stiahnutie z používania, ak sa zistí, že nehoda, porucha alebo zlyhanie diagnostickej zdravotníckej pomôcky in vitro by mohlo spôsobiť smrť alebo spôsobilo smrť alebo závažné poškodenie zdravotného stavu pacienta.
+
+- (5)
+
+- Ak zdravotnícky pracovník, poskytovateľ zdravotnej starostlivosti, zdravotná poisťovňa oznámi nehodu, poruchu alebo zlyhanie diagnostickej zdravotníckej pomôcky in vitro podľa odseku 2 štátnemu ústavu, štátny ústav je povinný preveriť, či výrobca je o nehode, poruche a zlyhaní informovaný. Ak výrobca o nehode, poruche alebo zlyhaní diagnostickej zdravotníckej pomôcky in vitro nie je informovaný, štátny ústav je povinný výrobcu o nehode, poruche alebo zlyhaní diagnostickej zdravotníckej pomôcky in vitro informovať.
+
+- (6)
+
+- Štátny ústav po vyhodnotení oznámenia podľa odseku 2 v súčinnosti s výrobcom alebo jeho splnomocnencom bezodkladne informuje príslušné orgány iných členských štátov a Komisiu o nehode, poruche alebo zlyhaní diagnostickej zdravotníckej pomôcky in vitro a o opatreniach, ktoré prijal alebo sa pripravuje prijať na zabránenie ich opätovného výskytu.“.
+
+- 69. Za § 116 sa vkladá § 116a, ktorý vrátane nadpisu znie:
+
+- „§ 116a
+
+- Oznamovanie a vyhodnocovanie závažnej nehody zdravotníckej pomôcky
+
+- (1)
+
+- Poskytovatelia zdravotnej starostlivosti, výrobcovia a ich splnomocnenci sú povinní bezodkladne oznamovať štátnemu ústavu závažnú nehodu zdravotníckej pomôcky sprístupnenej na trhu a zdravotné poisťovne sú povinné oznamovať štátnemu ústavu závažnú nehodu zdravotníckej pomôcky sprístupnenej na trhu, o ktorej sa dozvedeli pri svojej kontrolnej činnosti alebo ktorú im nahlásil poistenec.
+
+- (2)
+
+- Štátny ústav všetky oznámenie týkajúce sa závažnej nehody zdravotníckej pomôcky, ktorá nastala na území Slovenskej republiky, vyhodnocuje spoločne s výrobcom, a ak je to potrebné, s dotknutou notifikovanou osobou.
+
+- (3)
+
+- Štátny ústav nariadi potrebné nápravné opatrenia na základe oznámenia podľa odseku 1 spoločne s výrobcom, a ak je to potrebné, s dotknutou notifikovanou osobou.“.
+
 - 70. V § 117 odsek 3 znie:
 
 - „(3)
@@ -544,7 +1354,47 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
 - 82. V § 126 ods. 4 sa na konci pripájajú tieto slová: „a poskytnúť pri výkone inšpekcie súčinnosť“.
 
+- 83. V § 127 písm. b) sa slová „Úrad pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky“ nahrádzajú slovami „úrad“.
+
+- 84. V § 128 ods. 1 sa písmeno g) dopĺňa štvrtým bodom, ktorý znie:
+
+- „4.
+
+- na základe riadne odôvodnenej žiadosti poskytovateľa zdravotnej starostlivosti použitie zdravotníckej pomôcky pri poskytovaní zdravotnej starostlivosti pre jedného pacienta alebo skupinu pacientov, na ktorú sa neuplatnil postup posudzovania zhody, ak jej použitie pri poskytovaní zdravotnej starostlivosti je v záujme ochrany verejného zdravia a bezpečnosti alebo zdravia pacienta a nie je na trhu dostupná zdravotnícka pomôcka, ktorá spĺňa požiadavky na uvedenie na trh alebo do prevádzky podľa osobitných predpisov; zodpovednosť za použitie zdravotníckej pomôcky, na ktorú sa neuplatnil postup posudzovania zhody, pri poskytovaní zdravotnej starostlivosti má poskytovateľ zdravotnej starostlivosti, ktorý podal žiadosť,“.
+
+- 85. V § 128 sa odsek 1 dopĺňa písmenom i), ktoré znie:
+
+- „i)
+
+- oznamuje Komisii a príslušným orgánom členských štátov vydanie povolenia podľa písmena g) štvrtého bodu, ak povolí použitie zdravotníckej pomôcky, na ktorú sa neuplatnil postup posudzovania zhody, pri poskytovaní zdravotnej starostlivosti pre skupinu pacientov.“.
+
+- 86. V § 129 ods. 2 písm. i) prvom bode sa za slovami „ods. 2 a 4“ vypúšťa čiarka a slová „§ 111 ods. 7“.
+
 - 87. V § 129 ods. 2 písm. k) sa slová „pomôcky alebo stiahnutie humánneho lieku“ nahrádzajú slovami „pomôcky, stiahnutie humánneho lieku, účinnej látky“.
+
+- 88. V § 129 sa odsek 2 dopĺňa písmenami ad) až ag), ktoré znejú:
+
+- „ad)
+
+- vydáva certifikát podľa osobitného predpisu<sup>91c</sup>) o voľnom predaji zdravotníckej pomôcky,
+
+- ae)
+
+- posudzuje žiadosti o povolenie klinického skúšania zdravotníckej pomôcky a vydáva povolenia na klinické skúšanie zdravotníckej pomôcky podľa osobitného predpisu,<sup>91d</sup>)
+
+- af)
+
+- plní úlohy členského štátu v oblasti klinického hodnotenia a klinického skúšania zdravotníckych pomôcok,<sup>91d</sup>) dohľadu nad bezpečnosťou a trhového dohľadu nad zdravotníckymi pomôckami,
+
+- ag)
+
+- plní úlohy členského štátu pri vykonávaní osobitných predpisov.<sup>42ea</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 91c a 91d znejú:
+
+  - „<sup>91c</sup>) Čl. 60 nariadenia (EÚ) 2017/745.
+
+  - <sup>91d</sup>) Kapitola VI čl. 62 až čl. 80 nariadenia (EÚ) 2017/745.“.
 
 - 89. V § 135 ods. 1 písmeno d) znie:
 
@@ -704,6 +1554,8 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
 - 99. V § 138 ods. 20 písm. d) prvom bode sa na konci pripájajú tieto slová: „alebo po povolení terapeutického použitia humánneho lieku“.
 
+- 100. V § 138 ods. 20 písm. d) druhom bode, odseku 21 písm. b), odseku 23 písm. a) druhom bode a odseku 29 písm. n) sa slová „zdravotníckych pomôcok“ nahrádzajú slovami „diagnostických zdravotníckych pomôcok in vitro“.
+
 - 101. V § 138 ods. 21 písm. a) sa za slová „po registrácii humánneho lieku“ vkladajú slová „alebo po povolení terapeutického použitia humánneho lieku“.
 
 - 102. V § 138 sa odsek 21 dopĺňa písmenom c), ktoré znie:
@@ -723,6 +1575,8 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
   - Doterajšie písmená q) až af) sa označujú ako písmená r) až ag).
 
 - 105. V § 138 ods. 22 písm. z) prvom bode sa na konci pripájajú tieto slová: „alebo po povolení terapeutického použitia humánneho lieku“.
+
+- 106. V § 138 ods. 22 písm. z) druhom bode sa slová „zdravotníckych pomôcok“ nahrádzajú slovami „diagnostických zdravotníckych pomôcok in vitro“.
 
 - 107. V § 138 ods. 23 písm. a) prvom bode sa na konci pripájajú tieto slová: „alebo po povolení terapeutického použitia humánneho lieku“.
 
@@ -764,11 +1618,139 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
 - 112. V § 138 ods. 36 sa za slová „bi) až bq)“ vkladajú slová „a písm. bv) až cd)“.
 
+- 113. Za § 138a sa vkladá § 138b, ktorý vrátane nadpisu znie:
+
+- „§ 138b
+
+- Správne delikty pri revidovanom regulačnom rámci pre zdravotnícke pomôcky
+
+- (1)
+
+- Skúšajúci klinického skúšania zdravotníckej pomôcky sa dopustí správneho deliktu, ak
+
+- a)
+
+- nezabezpečí vykonávanie klinického skúšania zdravotníckej pomôcky v súlade s osobitným predpisom,<sup>42ea</sup>)
+
+- b)
+
+- neoznámi poskytovateľovi zdravotnej starostlivosti, s ktorým má účastník klinického skúšania zdravotníckej pomôcky uzatvorenú dohodu o poskytovaní zdravotnej starostlivosti, že účastník klinického skúšania zdravotníckej pomôcky bol zaradený do klinického skúšania zdravotníckej pomôcky bezodkladne po zaradení účastníka do klinického skúšania zdravotníckej pomôcky,
+
+- c)
+
+- neoznámi zdravotnej poisťovni, ktorá vykonáva verejné zdravotné poistenie účastníka klinického skúšania zdravotníckej pomôcky, zaradenie účastníka klinického skúšania zdravotníckej pomôcky do klinického skúšania zdravotníckej pomôcky s uvedením identifikačného čísla žiadosti alebo oznámenia a dátumu zaradenia účastníka do klinického skúšania zdravotníckej pomôcky bezodkladne po zaradení účastníka do klinického skúšania zdravotníckej pomôcky,
+
+- d)
+
+- neoznámi zdravotnej poisťovni, ktorá vykonáva verejné zdravotné poistenie účastníka klinického skúšania zdravotníckej pomôcky, vyradenie účastníka z klinického skúšania zdravotníckej pomôcky s uvedením identifikačného čísla žiadosti alebo oznámenia, dátumu vyradenia účastníka z klinického skúšania zdravotníckej pomôcky a dôvod vyradenia účastníka z klinického skúšania zdravotníckej pomôcky bezodkladne po vyradení účastníka z klinického skúšania zdravotníckej pomôcky,
+
+- e)
+
+- bezodkladne neoznámi zdravotnej poisťovni, ktorá vykonáva verejné zdravotné poistenie účastníka klinického skúšania zdravotníckej pomôcky, závažnú nežiaducu udalosť a závažný nedostatok a neprijme potrebné opatrenia na ochranu života a zdravia účastníka klinického skúšania zdravotníckej pomôcky,
+
+- f)
+
+- nepredloží zdravotnej poisťovni vykonávajúcej verejné zdravotné poistenie účastníka klinického skúšania zdravotníckej pomôcky bezprostredne po prešetrení kópiu písomnej správy z prešetrenia závažnej nežiaducej udalosti a závažného nedostatku, ktoré sa vzťahujú na účastníka klinického skúšania zdravotníckej pomôcky.
+
+- (2)
+
+- Zadávateľ klinického skúšania zdravotníckej pomôcky sa dopustí iného správneho deliktu, ak
+
+- a)
+
+- neplní úlohy zadávateľa klinického skúšania zdravotníckej pomôcky ustanovené osobitným predpisom,<sup>42ea</sup>)
+
+- b)
+
+- neuhradí náklady spojené s
+
+- 1.
+
+- klinickým skúšaním zdravotníckej pomôcky vrátane nákladov spojených s laboratórnymi vyšetreniami, zobrazovacími vyšetreniami a inými vyšetreniami uvedenými v protokole klinického skúšania zdravotníckej pomôcky a nákladov súvisiacich s poskytnutím ústavnej zdravotnej starostlivosti, ak je poskytnutá v súvislosti s klinickým skúšaním zdravotníckej pomôcky,
+
+- 2.
+
+- liečbou zdravotných komplikácií alebo trvalých následkov na zdraví vzniknutých účastníkovi klinického skúšania zdravotníckej pomôcky v dôsledku klinického skúšania zdravotníckej pomôcky,
+
+- 3.
+
+- uzatvorením zmluvy o poistení zodpovednosti zadávateľa klinického skúšania zdravotníckej pomôcky za škodu spôsobenú účastníkovi klinického skúšania zdravotníckej pomôcky pre prípad poškodenia zdravia účastníka klinického skúšania zdravotníckej pomôcky, úmrtia účastníka klinického skúšania zdravotníckej pomôcky alebo inej majetkovej ujmy alebo nemajetkovej ujmy, ktorá má byť uzavretá a účinná počas celého priebehu klinického skúšania zdravotníckej pomôcky,
+
+- 4.
+
+- uzatvorením zmluvy o poistení zodpovednosti poskytovateľa zdravotnej starostlivosti za škodu, ktorá môže byť spôsobená účastníkovi klinického skúšania zdravotníckej pomôcky, ktorá má byť uzavretá a účinná počas celého priebehu klinického skúšania zdravotníckej pomôcky,
+
+- c)
+
+- nepredloží na požiadanie zdravotnej poisťovne, ktorá vykonáva verejné zdravotné poistenie účastníka klinického skúšania zdravotníckej pomôcky, údaje a dokumentáciu o klinickom skúšaní zdravotníckej pomôcky,
+
+- d)
+
+- začne klinické skúšanie zdravotníckej pomôcky bez právoplatného rozhodnutia štátneho ústavu.
+
+- (3)
+
+- Poskytovateľ zdravotnej starostlivosti sa dopustí iného správneho deliktu, ak
+
+- a)
+
+- pri poskytovaní zdravotnej starostlivosti nepoužíva zdravotnícke pomôcky v súlade s účelom určenia, ktorý bol predmetom posudzovania zhody, na základe ktorého sa preukázalo, že spĺňajú požiadavky na uvedenie na trh alebo na uvedenie do prevádzky,
+
+- b)
+
+- bezodkladne neoznámi štátnemu ústavu závažnú nehodu zdravotníckej pomôcky sprístupnenej na trhu,
+
+- c)
+
+- neposkytne informácie v štátnom jazyku podľa § 110c všetkým pacientom, ktorým bola zdravotnícka pomôcka implantovaná spoločne s kartou implantátu.
+
+- (4)
+
+- Zdravotná poisťovňa sa dopustí iného správneho deliktu, ak bezodkladne neoznámi štátnemu ústavu závažnú nehodu zdravotníckej pomôcky sprístupnenej na trhu, o ktorej sa dozvedela pri svojej kontrolnej činnosti alebo ktorú im nahlásil poistenec.
+
+- (5)
+
+- Výrobca alebo jeho splnomocnenec sa dopustí iného správneho deliktu, ak
+
+- a)
+
+- bezodkladne neoznámi štátnemu ústavu závažnú nehodu zdravotníckej pomôcky sprístupnenej na trhu,
+
+- b)
+
+- poruší zákaz internetového výdaja zdravotníckej pomôcky uvedený v § 22 ods. 9.
+
+- (6)
+
+- Držiteľ povolenia na poskytovanie lekárenskej starostlivosti, fyzická osoba a právnická osoba sa dopustia iného správneho deliktu, ak porušia zákaz internetového výdaja zdravotníckej pomôcky uvedený v § 22 ods. 9.
+
+- (7)
+
+- Štátny ústav uloží pokutu za iné správne delikty podľa odsekov 1 až 5 od 300 eur do 35 000 eur a podľa odseku 6 od 10 000 eur do 50 000 eur.
+
+- (8)
+
+- Konanie o uloženie pokuty možno začať do jedného roka odo dňa, keď sa štátny ústav dozvedel o porušení povinnosti, najneskôr však do troch rokov odo dňa, keď k porušeniu povinnosti došlo.
+
+- (9)
+
+- Pokuta je splatná do 30 dní odo dňa nadobudnutia právoplatnosti rozhodnutia, ktorým bola uložená.
+
+- (10)
+
+- Pokuty uložené štátnym ústavom sú príjmom štátneho rozpočtu.
+
+- (11)
+
+- Zodpovednosti za porušenie povinností, ktoré sú iným správnym deliktom podľa odsekov 1 až 6, sa osoba zbaví, ak preukáže, že v dôsledku okolností hodných osobitného zreteľa, ktoré nemohla ovplyvniť svojím konaním, nemohla splniť povinnosti, ktorých porušenie je iným správnym deliktom podľa odsekov 1 až 6. Zbavením sa zodpovednosti za porušenie povinnosti nie je dotknutá povinnosť osôb túto povinnosť dodatočne splniť po odpadnutí dôvodov, na základe ktorých sa osoba zbaví tejto zodpovednosti.“.
+
 - 114. V § 142 odsek 1 znie:
 
 - „(1)
 
 - Na konania vo veciach ustanovených týmto zákonom sa vzťahuje správny poriadok okrem konaní podľa § 29e až 29g, § 29i až 29k, § 128 ods. 3 až 7 a § 135 ods. 1 písm. d).“.
+
+- 115. V § 142 ods. 1 sa za slová „§ 29i až 29k,“ vkladajú slová „§ 111a, § 111c až § 111e,“.
 
 - 116. Za § 143g sa vkladá § 143h, ktorý vrátane nadpisu znie:
 
@@ -792,8 +1774,30 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
 - § 29b ods. 1 písm. b), § 29b ods. 2 písm. a) štvrtého bodu, § 29b ods. 2 písm. b) prvého bodu a druhého bodu, § 29b ods. 2 písm. c) druhého bodu a § 29b ods. 3 a 4, ak ide o klinické skúšanie zdravotníckych pomôcok, sa neuplatňujú do 25. mája 2020.“.
 
+- 117. Za § 143h sa vkladá § 143i, ktorý vrátane nadpisu znie:
+
+- „§ 143i
+
+- Prechodné ustanovenie k úpravám účinným od 26. mája 2020
+
+- Konanie o žiadosti o povolenie klinického skúšania zdravotníckej pomôcky začaté a právoplatne neskončené do 25. mája 2020 a klinické skúšanie zdravotníckej pomôcky povolené do 25. mája 2020 sa dokončia podľa predpisov účinných do 25. mája 2020.“.
+
+- 118. § 145 sa dopĺňa šiestym bodom a siedmym bodom, ktoré znejú:
+
+- „6.
+
+- Nariadenie vlády Slovenskej republiky č. 527/2008 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody aktívnych implantovateľných zdravotníckych pomôcok.
+
+- 7.
+
+- Nariadenie vlády Slovenskej republiky č. 582/2008 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody zdravotníckych pomôcok v znení nariadenia vlády Slovenskej republiky č. 215/2013 Z. z.“.
+
 - 119. Príloha č. 1 vrátane nadpisu znie:
 
-- „[príloha](assets/28053ecece5afa4152698178df6322b4cb9dde6076f8c4650459470f69de8365.pdf)
+- „[príloha](assets/9d449813baa38253b9e3a8a5cced32004b61c2abf4236ab70475ffce7657cdeb.pdf)
 
 - “.
+
+- 120. V prílohe č. 2 sa vypúšťa prvý bod a druhý bod.
+
+  - Doterajšie body 3 až 15 sa označujú ako body 1 až 13.
