@@ -404,6 +404,16 @@
 
 - 36ma) § 8 ods. 2 zákona č. 17/2018 Z. z.
 
+- 36maa) § 111 zákona č. 362/2011 Z. z.
+
+- 36mh) § 110b ods. 8 zákona č. 362/2011 Z. z.
+
+- 36mi) Čl. 70, čl. 78, čl. 82, príloha XV kapitola II nariadenia Európskeho parlamentu a Rady (EÚ) 2017/745 z 5. apríla 2017 o zdravotníckych pomôckach, zmene smernice č. 2001/83/ES, nariadenia (ES) č. 178/2002 a nariadenia (ES) č. 1223/2009 a o zrušení smerníc Rady č. 90/385/EHS a 93/42/EHS (Ú. v. EÚ L 117, 5. 5. 2017) v platnom znení.
+
+- 36mj) Čl. 75, príloha XV kapitola II nariadenia (EÚ) 2017/745.
+
+- 36mk) Čl. 74, príloha XV kapitola II nariadenia (EÚ) 2017/745.
+
 - 36n) Zákon č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v znení neskorších predpisov.
 
 - 36p) Zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.

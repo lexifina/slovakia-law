@@ -4210,7 +4210,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - m) | Vydanie povolenia na dovoz a uvádzanie do obehu neregistrovaného veterinárneho lieku<sup>36m</sup>) ..... | | | 16,50 eura
 
-  - n) | Vydanie rozhodnutia o povolení klinického skúšania humánneho lieku ..... | | | 331,50 eura
+  - n) | Vydanie rozhodnutia o povolení klinického skúšania zdravotníckej pomôcky<sup>36maa</sup>) ..... | | | 300 eur
 
   - o) | Vydanie rozhodnutia o povolení klinického skúšania zdravotníckej pomôcky ..... | | | 165,50 eura
 
@@ -4255,6 +4255,22 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - ai) | Rozhodovanie o žiadosti o vyradení zdravotníckej pomôcky zo zoznamu kategorizovaných špeciálnych zdravotníckych materiálov | | | 600 eur
 
   - aj) | Rozhodovanie o žiadosti o vyradení dietetickej potraviny zo zoznamu kategorizovaných dietetických potravín...... | | | 600 eur
+
+  - al) | Vydanie rozhodnutia o registrácii distribútora zdravotníckej pomôcky podľa osobitného predpisu<sup>36mh</sup>) | | | 500 eur
+
+  - am) | Konanie o povolenie klinického skúšania zdravotníckej pomôcky<sup>36mi</sup>) | | | 500 eur
+
+  - an) | Posúdenie oznámenia | | |
+
+  - | 1. podstatnej zmeny klinického skúšania zdravotníckej pomôcky<sup>36mj</sup>) | | | 500 eur
+
+  - | 2. o klinickom skúšaní zdravotníckej pomôcky s označením CE<sup>36mk</sup>) | | | 500 eur
+
+  - ao) | Vydanie certifikátu o voľnom predaji zdravotníckej pomôcky........... | | | 300 eur
+
+  - ap) | Vydanie rozhodnutia o pridelení kódu zdravotníckej pomôcke štátnym ústavom........... | | | 7 eur
+
+  - aq) | Vydanie rozhodnutia o zmene kódu prideleného štátnym ústavom zdravotníckej pomôcke...... | | | 4 eurá
 
   - Oslobodenie Od poplatkov podľa písmen ac) až af) je účastník konania oslobodený, ak predmetom žiadosti je 1. zníženie maximálnej výšky úhrady zdravotnej poisťovne za štandardnú dávku liečiva, 2. zníženie maximálnej výšky úhrady zdravotnej poisťovne za zdravotnícku pomôcku zaradenú v podskupine zdravotníckych pomôcok, 3. zníženie maximálnej výšky úhrady zdravotnej poisťovne za zdravotnícku pomôcku zaradenú v podskupine špeciálnych zdravotníckych materiálov, 4. zníženie maximálnej výšky úhrady zdravotnej poisťovne za jednotku referenčnej dávky dietetickej potraviny, 5. zúženie preskripčného obmedzenia, 6. zúženie indikačného obmedzenia, 7. zníženie množstvového limitu alebo 8. zníženie finančného limitu. | | | |
 
