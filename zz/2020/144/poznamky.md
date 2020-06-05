@@ -1,0 +1,1 @@
+- 1) Platnosť uznesenia Ústavného súdu Slovenskej republiky č. k. PL. ÚS 13/2020-103 z 13. mája 2020 zanikla dňom vyhlásenia uznesenia Ústavného súdu Slovenskej republiky č. k. PL. ÚS 13/2020-185 z 27. mája 2020 v Zbierke zákonov Slovenskej republiky pod č. 145/2020 Z. z.
