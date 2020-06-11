@@ -14,6 +14,8 @@
 
 - 5aa) Zákon č. 296/2012 Z. z. o Európskom mechanizme pre stabilitu a o doplnení niektorých zákonov.
 
+- 5aaa) Zákon č. 149/2020 Z. z. o mimoriadnych štátnych zárukách a o doplnení niektorých zákonov.
+
 - 5ab) § 13 ods. 1 písm. f) zákona č. 523/2004 Z. z.
 
 - 5b) Napríklad zákon č. 530/1990 Zb. v znení neskorších predpisov, zákon č. 291/2002 Z. z. v znení neskorších predpisov.
