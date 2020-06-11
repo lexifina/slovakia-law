@@ -88,6 +88,8 @@
 
 - 28aa) Napríklad zákon č. 381/2010 Z. z. o špecifických štátnych zárukách a o zmene a doplnení niektorých zákonov.
 
+- 28ab) Zákon č. 149/2020 Z. z. o mimoriadnych štátnych zárukách a o doplnení niektorých zákonov.
+
 - 28b) § 8 písm. d) zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 29a) § 45 až 62 zákona č. 492/2009 Z. z.
