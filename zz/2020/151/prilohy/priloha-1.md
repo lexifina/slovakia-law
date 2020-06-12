@@ -1,0 +1,1 @@
+Príloha č. 1 k rozhodnutiu predsedu Národnej rady Slovenskej republiky č. 151/2020 Z. z. [Zoznam obcí, v ktorých sa vyhlasujú voľby do orgánov samosprávy obcí na 3. októbra 2020](../assets/81a8a0392640d8db7d679cc5acc30c4603cf757a256562dde73cc12b897a5e21.pdf)

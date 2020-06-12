@@ -1,0 +1,1 @@
+Príloha č. 2 k rozhodnutiu predsedu Národnej rady Slovenskej republiky č. 151/2020 Z. z. [Lehoty na vykonanie volieb do orgánov samosprávy obcí 3. októbra 2020](../assets/61b355747ae17e3927bc79f27bfdbd3d64595b718e74faf198e3854450bdf368.pdf)
