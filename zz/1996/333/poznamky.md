@@ -1,1 +1,0 @@
-- 1) § 38 ods. 1 písm. b) zákona Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe.
