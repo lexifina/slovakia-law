@@ -10,9 +10,9 @@
 
 (5) Šesťročná doba platnosti povolenia na prevádzkovanie ambulancie záchrannej zdravotnej služby podľa § 15 ods. 2 v znení účinnom od 1. júna 2019 začne plynúť dňom uvedeným v rozhodnutí, ktorým sa povoľuje prevádzkovanie ambulancie záchrannej zdravotnej služby.
 
-(6) Slovenská zdravotnícka univerzita v Bratislave je povinná viesť centrálny register zdravotníckych pracovníkov zaradených do špecializačného štúdia, certifikačnej prípravy a prípravy na výkon práce v zdravotníctve v Slovenskej republike a diplomov o špecializácii, certifikátov a osvedčení o príprave na výkon práce v zdravotníctve (§ 41) vydaných v Slovenskej republike do 31. augusta 2020 podľa tohto zákona v znení účinnom do 31. augusta 2020.
+(6) Slovenská zdravotnícka univerzita v Bratislave je povinná viesť centrálny register zdravotníckych pracovníkov zaradených do špecializačného štúdia, certifikačnej prípravy a prípravy na výkon práce v zdravotníctve v Slovenskej republike a diplomov o špecializácii, certifikátov a osvedčení o príprave na výkon práce v zdravotníctve (§ 41) vydaných v Slovenskej republike do 31. augusta 2021 podľa tohto zákona v znení účinnom do 31. augusta 2021.
 
-(7) Slovenská zdravotnícka univerzita v Bratislave je povinná ministerstvu zdravotníctva odovzdať 31. augusta 2020 centrálny register zdravotníckych pracovníkov zaradených do špecializačného štúdia, certifikačnej prípravy a prípravy na výkon práce v zdravotníctve v Slovenskej republike a diplomov o špecializácii, certifikátov a osvedčení o príprave na výkon práce v zdravotníctve (§ 41) vydaných v Slovenskej republike.
+(7) Slovenská zdravotnícka univerzita v Bratislave je povinná ministerstvu zdravotníctva odovzdať 31. augusta 2021 centrálny register zdravotníckych pracovníkov zaradených do špecializačného štúdia, certifikačnej prípravy a prípravy na výkon práce v zdravotníctve v Slovenskej republike a diplomov o špecializácii, certifikátov a osvedčení o príprave na výkon práce v zdravotníctve (§ 41) vydaných v Slovenskej republike.
 
 (8) Prepravu podľa tohto zákona v znení účinnom od 1. júna 2019 môžu do 31. decembra 2019 vykonávať aj držitelia živnostenského oprávnenia na vykonávanie činnosti dopravnej zdravotnej služby získaného do 31. mája 2019.
 
