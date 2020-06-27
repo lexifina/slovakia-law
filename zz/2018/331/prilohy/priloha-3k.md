@@ -1,1 +1,1 @@
-Príloha č. 3 k vyhláške č. 331/2018 Z. z. [Obsah osvedčovacej doložky zaručenej konverzie z listinnej podoby do elektronickej podoby](../assets/7be6589533b4e644b1c5e870833b9986df433707e60e6de80e57f27c69209250.pdf)
+Príloha č. 3 k vyhláške č. 331/2018 Z. z. [Obsah osvedčovacej doložky zaručenej konverzie z listinnej podoby do elektronickej podoby](../assets/405b86a2182d3c848a43a81be72c6bb99c6b0392e53a4427b34ec2c495ec1f46.pdf)
