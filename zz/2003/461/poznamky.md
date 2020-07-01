@@ -244,8 +244,6 @@
 
 - 92) § 1 zákona č. 431/2002 Z. z. o účtovníctve.
 
-- 92a) § 73 ods. 6 zákona č. 131/2002 Z. z. v znení zákona č. 125/2011 Z. z.
-
 - 92aa) § 4 ods. 1 zákona č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
 
 - 92aaa) § 14 ods. 5 zákona č. 523/2004 Z. z. v znení zákona č. 310/2016 Z. z.
@@ -257,6 +255,10 @@
 - 92abb) § 11 ods. 1 zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
 - 92ac) Napríklad zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 543/2007 Z. z. o pôsobnosti organov štátnej správy pri poskytovaní podpory v pôdohospodárstve a rozvoji vidieka v znení neskorších predpisov, § 6 až 11 a § 34 zákona č. 528/2008 Z. z. o pomoci a podpore poskytovanej z fondov Európskeho spoločenstva v znení neskorších predpisov.
+
+- 92ad) § 73a ods. 12 zákona č. 131/2002 Z. z. v znení neskorších predpisov.
+
+- 92ae) § 157 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 92b) Exekučný poriadok.
 
