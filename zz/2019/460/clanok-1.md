@@ -18,11 +18,79 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 
 - „<sup>15</sup>) Napríklad zákon č. 56/2018 Z. z. o posudzovaní zhody výrobku, sprístupňovaní určeného výrobku na trhu a o zmene a doplnení niektorých zákonov.“.
 
+- 4. V § 2 ods. 4 písmeno g) znie:
+
+- „g)
+
+- na to, že látka alebo hnuteľná vec sa považuje za vedľajší produkt, a nie za odpad, bol udelený súhlas, ak sa vyžaduje podľa § 97 ods. 1 písm. o).“.
+
+- 5. V § 2 odsek 5 znie:
+
+- „(5)
+
+- Stav konca odpadu je stav, ktorý dosiahne odpad, ak prejde niektorou z činností zhodnocovania odpadu alebo recyklácie a spĺňa tieto podmienky:
+
+- a)
+
+- látka alebo vec sa má použiť na špecifické účely,
+
+- b)
+
+- pre látku alebo vec existuje trh alebo je po nej dopyt,
+
+- c)
+
+- látka alebo vec spĺňa technické požiadavky na špecifické účely a spĺňa požiadavky ustanovené osobitným predpisom<sup>16</sup>) a spĺňa technické normy alebo je v súlade s inou obdobnou technickou špecifikáciou s porovnateľnými požiadavkami alebo s prísnejšími požiadavkami, ktoré sa uplatňujú na výrobky, a
+
+- d)
+
+- použitie látky alebo veci nezapríčiní celkové nepriaznivé vplyvy na životné prostredie alebo na zdravie ľudí.“.
+
+- 6. V poznámke pod čiarou k odkazu 16 sa na konci pripája táto citácia: „§ 6b vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 228/2014 Z. z., ktorou sa ustanovujú požiadavky na kvalitu palív a vedenie prevádzkovej evidencie o palivách v znení vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 367/2015 Z. z.“.
+
+- 7. V § 2 odsek 7 znie:
+
+- „(7)
+
+- Biologický odpad je odpad zo záhrad a parkov, potravinový odpad a kuchynský odpad z domácností, kancelárií, reštaurácií, veľkoobchodu, jedální, stravovacích zariadení a maloobchodných zariadení, ktorý je biologicky rozložiteľný a porovnateľný biologický odpad z potravinárskych závodov.“.
+
+- 8. § 2 sa dopĺňa odsekmi 10 a 11, ktoré znejú:
+
+- „(10)
+
+- Odpad, ktorý nie je nebezpečný, je odpad, na ktorý sa nevzťahuje odsek 9.
+
+- (11)
+
+- Potravinový odpad sú všetky potraviny,<sup>16a</sup>) ktoré sa stali odpadom.“.
+
+  - Poznámka pod čiarou k odkazu 16a znie:
+
+  - „<sup>16a</sup>) Čl. 2 nariadenia (ES) č. 178/2002 Európskeho parlamentu a Rady z 28. januára 2002, ktorým sa ustanovujú všeobecné zásady a požiadavky potravinového práva, zriaďuje Európsky úrad pre bezpečnosť potravín a stanovujú postupy v záležitostiach bezpečnosti potravín (Ú. v. EÚ L 31, 1. 2. 2002; Mimoriadne vydanie Ú. v. EÚ kap. 15/zv. 6) v platnom znení.“.
+
+- 9. V § 3 ods. 2 sa za slovo „zhodnocovanie“ vkladajú slová „vrátane triedenia“.
+
 - 10. V § 3 odsek 9 znie:
 
 - „(9)
 
 - Úprava odpadu je fyzikálny proces, tepelný proces, chemický proces alebo biologický proces vrátane triedenia odpadu, ktorý zmení vlastnosti odpadu s cieľom zmenšiť jeho objem alebo znížiť jeho nebezpečné vlastnosti, uľahčiť manipuláciu s ním alebo zlepšiť možnosti jeho zhodnotenia.“.
+
+- 11. V § 3 sa za odsek 13 vkladá nový odsek 14, ktorý znie:
+
+- „(14)
+
+- Materiálové zhodnocovanie odpadu je činnosť zhodnocovania odpadu okrem energetického zhodnocovania a opätovného spracovania na materiály, ktoré sa majú použiť ako palivo alebo iné prostriedky na výrobu energie. Za materiálové zhodnocovanie sa považuje najmä príprava na opätovné použitie, recyklácia a spätné zasypávanie.“.
+
+  - Doterajšie odseky 14 až 18 sa označujú ako odseky 15 až 19.
+
+- 12. V § 3 ods. 19 sa slová „zásypové práce, terénne úpravy a iné práce súvisiace s výstavbou“ nahrádzajú slovami „spätné zasypávanie“.
+
+- 13. § 3 sa dopĺňa odsekom 20, ktorý znie:
+
+- „(20)
+
+- Spätné zasypávanie je činnosť zhodnocovania odpadu, pri ktorej sa vhodný odpad, ktorý nie je nebezpečný, používa na účely rekultivácie vo vyťažených oblastiach alebo na technické účely pri terénnych úpravách. Odpad používaný na spätné zasypávanie musí nahradiť neodpadové materiály, musí byť vhodný na uvedené účely a použitý len v množstve, ktoré je nevyhnutné na dosiahnutie uvedených účelov.“.
 
 - 14. V § 5 ods. 4 písm. c) sa slová „v mieste ich vzniku“ nahrádzajú slovami
 
@@ -38,7 +106,55 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 
 - v zariadení, na ktoré bol vydaný súhlas podľa § 97 ods. 1 písm. d),“.
 
+- 15. V § 6 ods. 3 písmeno c) znie:
+
+- „c)
+
+- obsah nebezpečných látok v materiáloch a vo výrobkoch.“.
+
+- 16. § 6 sa dopĺňa odsekom 12, ktorý znie:
+
+- „(12)
+
+- Príklady hospodárskych nástrojov a ďalších opatrení na poskytovanie stimulov na uplatňovanie hierarchie odpadového hospodárstva sú uvedené v prílohe č. 4a.“.
+
+- 17. V § 7 odseky 3 a 4 znejú:
+
+- „(3)
+
+- Program predchádzania vzniku odpadu obsahuje kvalitatívne alebo kvantitatívne ukazovatele a ciele predchádzania vzniku odpadu, ktoré sa vzťahujú predovšetkým na množstvo vzniknutého odpadu a opatrenia na dosiahnutie týchto cieľov. Opisuje opatrenia, a ak je to potrebné návrhy nových opatrení na dosiahnutie týchto cieľov. Ciele a opatrenia v tomto programe sú zamerané na vylúčenie priamej väzby medzi hospodárskym rastom a negatívnymi environmentálnymi vplyvmi spojenými so vznikom odpadu.
+
+- (4)
+
+- Program predchádzania vzniku odpadu obsahuje vyhodnotenie užitočnosti príkladov opatrení uvedených v prílohe č. 4 alebo iných príslušných opatrení. Súčasťou programu predchádzania vzniku odpadu je aj opis prínosu uplatnených nástrojov a uplatnených opatrení na predchádzanie vzniku odpadu uvedených v prílohe č. 4a.“.
+
 - 18. V § 8 ods. 3 písm. a) sa za slovom „bifenylov“ vkladá čiarka a slová „alebo o obci, ktorí program vypracúvajú“ sa nahrádzajú slovami „ktorý program vypracúva“.
+
+- 19. V § 9 ods. 2 písm. c) sa na konci pripájajú tieto slová: „vrátane odpadových materiálov a územného pokrytia triedeného zberu,“.
+
+- 20. V § 9 ods. 2 písm. k) sa na konci pripájajú tieto slová: „a potreby investícií nevyhnutných na splnenie uvedených potrieb,“.
+
+- 21. V § 9 sa odsek 2 dopĺňa písmenami q) až s), ktoré znejú:
+
+- „q)
+
+- opatrenia na zabránenie prijímania odpadu, najmä komunálneho odpadu, vhodného na recykláciu alebo iné zhodnocovanie odpadu na skládky odpadov,
+
+- r)
+
+- opatrenia na predchádzanie všetkých podôb znečisťovania životného prostredia odpadom a na vyčistenie od všetkých druhov odpadu,
+
+- s)
+
+- vhodné kvalitatívne ukazovatele a kvantitatívne ukazovatele a ciele, ktoré sa vzťahujú na množstvo vzniknutého odpadu a jeho spracovanie a na komunálny odpad, ktorý je zneškodnený alebo energeticky zhodnotený.“.
+
+- 22. V § 9 ods. 3 sa slová „e) až j)“ nahrádzajú slovami „e) až j) a q) až s)“.
+
+- 23. § 9 sa dopĺňa odsekom 11, ktorý znie:
+
+- „(11)
+
+- Ministerstvo môže program predchádzania vzniku odpadu začleniť do programu Slovenskej republiky, pričom v ňom musí identifikovať ciele a opatrenia na predchádzanie vzniku odpadu.“.
 
 - 24. § 10 vrátane nadpisu sa vypúšťa.
 
@@ -51,6 +167,24 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
   - Poznámka pod čiarou k odkazu 22b znie:
 
   - „<sup>22b</sup>) § 139b ods. 7 zákona č. 50/1976 Zb. v znení neskorších predpisov.“.
+
+- 27. V § 13 písmeno g) znie:
+
+- „g)
+
+- zneškodňovať spaľovaním
+
+- 1.
+
+- odpad, ktorý sa vyzbieral oddelene na účel prípravy na opätovné použitie alebo recyklácie, okrem odpadu, ktorý je nezhodnotiteľným zvyškom z týchto činností zhodnocovania takto oddelene vyzbieraného odpadu, ak nie je možný alebo účelný postup podľa § 6,
+
+- 2.
+
+- biologicky rozložiteľný odpad okrem zneškodnenia odpadov, na ktorý bol vydaný súhlas podľa § 97 ods. 1 písm. b),
+
+- 3.
+
+- komunálny odpad okrem spaľovania odpadu v spaľovniach a zariadeniach na spoluspaľovanie odpadov,“.
 
 - 28. V § 14 ods. 2 sa bodka nahrádza čiarkou a na konci sa pripájajú tieto slová: „ak nie je v § 12 ods. 6 ustanovené inak.“.
 
@@ -65,6 +199,12 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
   - „<sup>26a</sup>) § 8 ods. 5 písm. i) vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 410/2012 Z. z., ktorou sa vykonávajú niektoré ustanovenia zákona o ovzduší v znení vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 315/2017 Z. z.“.
 
 - 30. V poznámke pod čiarou k odkazu 27 sa vypúšťa citácia „zákon č. 264/1999 Z. z.,“, na konci sa vkladá čiarka a pripája táto citácia: „zákon č. 56/2018 Z. z.“.
+
+- 31. § 14 sa dopĺňa odsekom 10, ktorý znie:
+
+- „(10)
+
+- Fyzická osoba – podnikateľ a právnická osoba, ktorá prvýkrát použije materiál, ktorý prestal byť odpadom podľa § 2 ods. 5 a nebol umiestnený na trh, alebo umiestni materiál na trh prvýkrát potom, ako prestal byť odpadom podľa § 2 ods. 5, musí zabezpečiť, aby materiál spĺňal príslušné požiadavky podľa osobitných predpisov.<sup>15</sup>)“.
 
 - 32. V § 15 ods. 14 úvodnej vete sa slová „odsekoch 7 a 12“ nahrádzajú slovami „odsekoch 7, 12 a 19“.
 
@@ -90,7 +230,47 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 
 - Postup podľa odseku 14 sa uplatní aj po oznámení orgánu Policajného zboru podľa odseku 15, ktorý začal konať na základe inej skutočnosti, ako je oznámenie podľa odseku 7.“.
 
+- 37. V § 16 ods. 4 písm. b) časť vety za bodkočiarkou znie:
+
+- „okrem elektroodpadu a použitých batérií a akumulátorov, pre ktoré má ten, kto vykonáva výkup, uzatvorenú zmluvu s výrobcom, ktorý si plní vyhradené povinnosti individuálne, treťou osobou alebo príslušnou organizáciou zodpovednosti výrobcov.“.
+
 - 38. V poznámke pod čiarou k odkazu 35 sa citácia „§ 8 zákona č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení zákona č. 431/2004 Z. z.“ nahrádza citáciou „§ 11 zákona č. 157/2018 Z. z. o metrológii a o zmene a doplnení niektorých zákonov.“.
+
+- 41. Za § 16 sa vkladá § 16a, ktorý vrátane nadpisu znie:
+
+- „§ 16a
+
+- Školský zber
+
+- (1)
+
+- Škola alebo školské zariadenie<sup>35a</sup>) (ďalej len „škola“), ktorá vykonáva zber odpadov z obalov a odpadov z neobalových výrobkov pochádzajúcich z domácností, je povinná najneskôr do konca mesiaca nasledujúceho po ukončení štvrťroka oznamovať druh a množstvo vyzbieraného odpadu a informácie o nasledujúcom držiteľovi obci a príslušnej organizácii zodpovednosti výrobcov pre obaly, ktorá má uzatvorenú zmluvu s obcou, v ktorej sa tento zber vykonáva.
+
+- (2)
+
+- Na školu sa vzťahujú povinnosti držiteľa odpadu podľa § 14 ods. 1 písm. a) až e).
+
+- (3)
+
+- Na školu, ktorá vykonáva zber podľa odseku 1, sa nevzťahujú povinnosti podľa § 81
+
+- ods. 13, § 97 a 98.
+
+- (4)
+
+- Podmienky vykonávania zberu odpadov podľa odseku 1 môže obec upraviť vo
+
+- všeobecne záväznom nariadení.“.
+
+  - Poznámka pod čiarou k odkazu 35a znie:
+
+  - „<sup>35a</sup>) § 2 písm. x) zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.“.
+
+- 42. V § 17 sa odsek 1 dopĺňa písmenom m), ktoré znie:
+
+- „m)
+
+- plniť evidenčnú povinnosť a ohlasovaciu povinnosť a povinnosť uchovávania evidencie a ohlasovaných údajov o množstve výrobkov a materiálov, ktoré sú výsledkom prípravy na opätovné použitie, recyklácie alebo ďalších činností zhodnocovania odpadu a ohlasovať údaje príslušnému orgánu štátnej správy odpadového hospodárstva.“.
 
 - 43. V § 17 ods. 2 sa slová „písm. k)“ nahrádzajú slovami „písm. j)“.
 
@@ -102,19 +282,161 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 
 - 46. V § 24 ods. 4 sa slová „alebo osobitných účtoch“ nahrádzajú slovom „ministerstva“.
 
+- 47. V § 25 ods. 6 sa slová „ostatnými odpadmi“ nahrádzajú slovami „odpadmi, ktoré nie sú nebezpečné“.
+
 - 48. V § 27 ods. 6 úvodnej vete sa slová „až k)“ nahrádzajú slovami „až l)“.
 
 - 49. V § 27 ods. 7 písm. d) sa slová „písm. e)“ nahrádzajú slovami „písm. g)“.
 
+- 51. V § 28 sa odsek 4 dopĺňa písmenami af) až ah), ktoré znejú:
+
+- „af)
+
+- zabezpečiť každoročne overenie účtovnej závierky štatutárnym audítorom podľa osobitného predpisu<sup>58c</sup>) a zaslať správu štatutárneho audítora týkajúcu sa účtovnej závierky ministerstvu do 30 dní od vykonania overenia účtovnej závierky,
+
+- ag)
+
+- podieľať sa na vytvorení finančnej garancie podľa § 31a, pričom úhradu príspevku tvoriaceho finančnú garanciu je povinná vykonať do 28. februára,
+
+- ah)
+
+- upraviť finančné príspevky od zastúpených výrobcov po zohľadnení trvanlivosti, opraviteľnosti, opätovnej použiteľnosti, recyklovateľnosti vyhradených výrobkov a po zohľadnení prítomnosti nebezpečných látok vo vyhradených výrobkoch.“.
+
+  - Poznámka pod čiarou k odkazu 58c znie:
+
+  - „<sup>58c</sup>) Napríklad § 22, 23 a 27 zákona č. 423/2015 Z. z. o štatutárnom audite a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve.“.
+
+- 53. V § 28 sa odsek 9 dopĺňa písmenami j) a k), ktoré znejú:
+
+- „j)
+
+- informácie o svojich vlastníckych pomeroch,
+
+- k)
+
+- informácie o postupe výberu osôb podľa písmena b).“.
+
+- 54. V § 28 ods. 10 sa na konci prvej vety bodka nahrádza čiarkou a pripájajú sa tieto slová: „j) a k).“.
+
 - 55. V poznámke pod čiarou k odkazu 59 sa citácia „zákon č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení zákona č. 84/2014 Z. z.“ nahrádza citáciou „zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov“.
 
 - 56. V § 28 ods. 12 písm. c) sa slovo „pozostáva“ nahrádza slovami „je zložený“.
+
+- 57. V § 29 sa odsek 1 dopĺňa písmenom o), ktoré znie:
+
+- „o)
+
+- podieľať sa na vytvorení finančnej garancie podľa § 31a, pričom úhradu príspevku tvoriaceho finančnú garanciu je povinný vykonať do 28. februára; táto povinnosť sa nevzťahuje na výrobcu obalov, ktorý si plní vyhradené povinnosti individuálne.“.
+
+- 59. V § 31 ods. 6 sa na konci pripájajú tieto vety: „Zakladatelia koordinačného centra sa po jeho založení stávajú členmi koordinačného centra a musia mať uzatvorenú zmluvu s koordinačným centrom podľa § 28 ods. 4 písm. f), § 29 ods. 1 písm. c) alebo § 44 ods. 8 písm. d). Za člena koordinačného centra sa považuje každý, kto má udelenú autorizáciu podľa § 89 ods. 1 písm. b) alebo c) a má uzatvorenú zmluvu s koordinačným centrom podľa § 28 ods. 4 písm. f), § 29 ods. 1 písm. c) alebo § 44 ods. 8 písm. d).“.
+
+- 60. V § 31 sa odsek 8 dopĺňa písmenom l), ktoré znie:
+
+- „l)
+
+- spôsob vytvorenia finančnej garancie podľa § 31a a podrobnosti o nej.“.
+
+- 61. V § 31 ods. 9 druhej vete sa slová „Zakladatelia alebo členovia“ nahrádzajú slovom „Členovia“ a na konci sa pripájajú tieto slová: „a § 31a“.
+
+- 62. V § 31 ods. 11 písm. l) sa za slová „b) až e)“ vkladajú slová „a q)“.
+
+- 63. V § 31 sa odsek 11 dopĺňa písmenami p až s), ktoré znejú:
+
+- „p)
+
+- zabezpečiť za predchádzajúci kalendárny rok, v ktorom boli použité prostriedky finančnej garancie, overenie účtovnej závierky štatutárnym audítorom podľa osobitného predpisu<sup>58a</sup>) a zaslať správu štatutárneho audítora týkajúcu sa účtovnej závierky ministerstvu do 30 dní od vykonania overenia účtovnej závierky,
+
+- q)
+
+- vytvoriť finančnú garanciu z príspevkov zakladateľov a členov koordinačného centra podľa § 31a do 90 dní odo dňa zápisu koordinačného centra do Registra koordinačných centier,
+
+- r)
+
+- oznamovať ministerstvom poverenej osobe údaje o finančnej garancii podľa § 31a a každú zmenu s ňou súvisiacu,
+
+- s)
+
+- zabezpečovať podľa potreby, najmenej raz za rok, dialóg medzi subjektmi pôsobiacimi v odpadovom hospodárstve.“.
+
+- 64. V § 31 ods. 17 písmeno d) znie:
+
+- „d)
+
+- je zložený aj
+
+- 1.
+
+- zo zástupcov štátu, ktorí predstavujú nadpolovičnú väčšinu členov orgánu a ktorých navrhuje minister, pričom týmto návrhom je najvyšší orgán koordinačného centra viazaný,
+
+- 2.
+
+- z jedného člena, ktorého navrhuje štatutárny orgán reprezentatívneho záujmového združenia miest a obcí s celoslovenskou pôsobnosťou, pričom týmto návrhom je najvyšší orgán koordinačného centra viazaný,“.
+
+- 65. Za § 31 sa vkladá § 31a, ktorý vrátane nadpisu znie:
+
+- „§ 31a
+
+- Finančná garancia
+
+- (1)
+
+- Finančná garancia slúži na zabezpečenie záväzkov zakladateľov koordinačného centra, členov koordinačného centra a subjektov, ktorí ešte nie sú členmi koordinačného centra, vyplývajúcich z rozšírenej zodpovednosti výrobcov.
+
+- (2)
+
+- Koordinačné centrum je povinné zabezpečiť, aby sa všetci jeho členovia podieľali na vytvorení finančnej garancie.
+
+- (3)
+
+- Na tvorbu finančnej garancie sa minimálna výška príspevku člena koordinačného centra, ktorý mal uzatvorenú zmluvu s koordinačným centrom v predchádzajúcom kalendárnom roku, okrem tretej osoby, ustanovuje takto:
+
+- a)
+
+- 50 000 eur, ak celkové náklady vynaložené na plnenie povinností vyplývajúcich z rozšírenej zodpovednosti výrobcov za predchádzajúci kalendárny rok podľa § 27 ods. 5 neprevýšili 500 000 eur,
+
+- b)
+
+- 100 000 eur, ak celkové náklady vynaložené na plnenie povinností vyplývajúcich z rozšírenej zodpovednosti výrobcov za predchádzajúci kalendárny rok podľa § 27 ods. 5 dosiahli viac ako 500 000 eur a neprevýšili 1 000 000 eur,
+
+- c)
+
+- 200 000 eur, ak celkové náklady vynaložené na plnenie povinností vyplývajúcich z rozšírenej zodpovednosti výrobcov za predchádzajúci kalendárny rok podľa § 27 ods. 5 dosiahli viac ako 1 000 000 eur.
+
+- (4)
+
+- Na tvorbu finančnej garancie sa výška príspevku člena koordinačného centra, ak ide o tretiu osobu, ktorá mala uzatvorenú zmluvu s koordinačným centrom v predchádzajúcom kalendárnom roku, ustanovuje v sume 100 000 eur.
+
+- (5)
+
+- Na tvorbu finančnej garancie sa minimálna výška príspevku člena koordinačného centra, ktorý nemal uzatvorenú zmluvu s koordinačným centrom v predchádzajúcom kalendárnom roku, ustanovuje v sume 75 000 eur za rok, v ktorom uzavrel zmluvu s koordinačným centrom.
+
+- (6)
+
+- Koordinačné centrum je povinné zabezpečiť minimálnu finančnú garanciu pozostávajúcu z príspevkov podľa odsekov 3 až 5 každoročne k 31. marcu.
+
+- (7)
+
+- Podrobnosti o vytvorení, použití, uvoľnení a zániku finančnej garancie určuje koordinačné centrum.
+
+- (8)
+
+- Finančná garancia sa nesmie použiť na úhradu sankcií podľa tohto zákona alebo podľa osobitného predpisu.“.
 
 - 66. V § 32 ods. 5 sa za slovo „svoju“ vkladá slovo „riadnu“.
 
 - 67. V § 32 ods. 29 sa slovo „predchádzajúcom“ nahrádza slovom „príslušnom“ a slovo „predchádzajúci“ sa nahrádza slovom „príslušný“.
 
 - 68. V § 34 ods. 6 sa slová „osvetľovacie zariadenia“ nahrádzajú slovami „svetelné zdroje“.
+
+- 69. V § 44 sa odsek 8 dopĺňa písmenami v) a w), ktoré znejú:
+
+- „v)
+
+- upraviť finančné príspevky od zastúpených výrobcov po zohľadnení trvanlivosti, opraviteľnosti, recyklovateľnosti a po zohľadnení prítomnosti nebezpečných látok,
+
+- w)
+
+- podieľať sa na vytvorení finančnej garancie podľa § 31a, pričom úhradu príspevku tvoriaceho finančnú garanciu je povinná vykonať do 28. februára.“.
 
 - 70. V § 52 ods. 7 sa slová „určený “ nahrádzajú slovami „navrhnutý, konštruovaný a umiestnený na trh Slovenskej republiky “.
 
@@ -123,6 +445,32 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 - „(28)
 
 - Veľmi ľahká plastová taška je plastová taška s hrúbkou steny menšou ako 15 mikrometrov, ktorá sa vyžaduje ako primárny obal pre nebalené potraviny z hygienických dôvodov alebo pomáha predchádzať plytvaniu potravinami.“.
+
+- 72. V § 52 sa za odsek 28 vkladajú nové odseky 29 až 33, ktoré znejú:
+
+- „(29)
+
+- Oxo-degradovateľný plast je plastový materiál, ktorý obsahuje prísady spôsobujúce prostredníctvom oxidácie fragmentáciu plastového materiálu na mikrofragmenty alebo jeho chemický rozklad.
+
+- (30)
+
+- Jednorazový výrobok z plastu je výrobok, ktorý je vyrobený úplne alebo čiastočne z plastu a ktorý nie je navrhnutý, vyrobený alebo uvedený na trh s tým účelom, aby počas svojej životnosti absolvoval niekoľko cyklov alebo rotácií tým, že sa vráti výrobcovi na opätovné naplnenie alebo aby bol opätovne použitý na ten istý účel, na ktorý bol vyrobený.
+
+- (31)
+
+- Oxo-degradovateľná plastová taška je plastová taška vyrobená z plastových materiálov
+
+- obsahujúcich prídavné látky, ktoré urýchľujú rozpad plastového materiálu na mikročastice.
+
+- (32)
+
+- Kompozitný obal je obal zložený z dvoch vrstiev alebo z viacerých vrstiev z rôznych materiálov, ktoré sa nedajú ručne od seba oddeliť a sú súčasťou ucelenej jednotky pozostávajúcej z vnútorného obalu a vonkajšieho krytu, a ktorý sa ako taký napĺňa, uskladňuje, prepravuje a vyprázdňuje.
+
+- (33)
+
+- Dobrovoľná dohoda je formálna dohoda medzi orgánmi štátnej správy odpadového hospodárstva a subjektmi odpadového hospodárstva, ktorá je otvorená pre všetkých partnerov, ktorí sú ochotní plniť podmienky dohody s cieľom znižovania negatívnych vplyvov odpadov z obalov na životné prostredie.“.
+
+  - Doterajšie odseky 29 a 30 sa označujú ako odseky 34 a 35.
 
 - 74. V § 54 odsek 5 znie:
 
@@ -156,6 +504,24 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 
 - Distribútor pneumatík je povinný“.
 
+- 84. V § 76 ods. 4 písm. a) prvý bod a druhý bod znejú:
+
+- „1.
+
+- odpadových olejov s inými druhmi odpadov, ak zmiešavanie bráni ich regenerácii alebo inej recyklačnej činnosti, ktorou sa dosahuje rovnocenný alebo lepší celkový environmentálny výsledok než regeneráciou,
+
+- 2.
+
+- jednotlivých druhov odpadových olejov navzájom, ak zmiešavanie bráni ich regenerácii alebo inej recyklačnej činnosti, ktorou sa dosahuje rovnocenný alebo lepší celkový environmentálny výsledok než regeneráciou,“.
+
+- 85. V § 76 ods. 6 sa na konci pripájajú tieto slová: „okrem toho, ak oddelený zber nie je vzhľadom na najlepšie postupy technicky uskutočniteľný“.
+
+- 86. V § 76 odsek 7 znie:
+
+- „(7)
+
+- Držiteľ odpadových olejov je povinný prednostne zabezpečiť ich zhodnotenie regeneráciou alebo inými recyklačnými činnosťami, ktorými dosiahne rovnocenný alebo lepší celkový environmentálny výsledok než regeneráciou, ak to technické, ekonomické a organizačné podmienky dovoľujú. Ak nie je možná ich regenerácia alebo iný spôsob recyklácie, držiteľ odpadových olejov je povinný zabezpečiť ich energetické zhodnotenie. Ak nie je možné ich zhodnotenie, držiteľ odpadových olejov je povinný zabezpečiť ich zneškodnenie.“.
+
 - 87. V § 79 odsek 17 znie:
 
 - „(17)
@@ -164,13 +530,93 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 
 - 88. V § 79 ods. 20 sa slová „činnosťou D10 uvedenou v prílohe č. 2“ nahrádzajú slovami „činnosťami uvedenými v odseku 7“.
 
+- 89. V § 80 odsek 1 znie:
+
+- „(1)
+
+- Komunálny odpad je
+
+- a)
+
+- zmesový odpad a oddelene vyzbieraný odpad z domácností vrátane papiera a lepenky, skla, kovov, plastov, biologického odpadu, dreva, textílií, obalov, odpadu z elektrických zariadení a elektronických zariadení, použitých batérií a akumulátorov a objemného odpadu vrátane matracov a nábytku,
+
+- b)
+
+- zmesový odpad a oddelene vyzbieraný odpad z iných zdrojov, ak je tento odpad svojím charakterom a zložením podobný odpadu z domácností.“.
+
+- 90. V § 80 odsek 4 znie:
+
+- „(4)
+
+- Zmesový odpad je nevytriedený komunálny odpad alebo komunálny odpad po
+
+- vytriedení zložiek komunálneho odpadu.“.
+
 - 91. V § 80 odsek 10 znie:
 
 - „(10)
 
 - Odpad z domácností je odpad, ktorý vyprodukovali domácnosti.“.
 
+- 92. § 80 sa dopĺňa odsekom 11, ktorý znie:
+
+- „(11)
+
+- Komunálny odpad nezahŕňa odpad z výroby, odpad z poľnohospodárstva, lesného hospodárstva a rybárstva, odpad zo septikov, kanalizačnej siete a čistiarní vrátane čistiarenského kalu, staré vozidlá, stavebný odpad ani odpad z demolácií.“.
+
+- 93. V § 81 odseky 1 a 2 znejú:
+
+- „(1)
+
+- Za nakladanie s komunálnym odpadom zodpovedá:
+
+- a)
+
+- obec, ak ide o
+
+- 1.
+
+- zmesový odpad a oddelene vyzbieraný odpad z domácností,
+
+- 2.
+
+- zmesový odpad z iných zdrojov,
+
+- 3.
+
+- oddelene vyzbieraný komunálny odpad z obalov a odpad z neobalových výrobkov z iných zdrojov a
+
+- 4.
+
+- drobný stavebný odpad,
+
+- b)
+
+- ako pôvodca odpadu fyzická osoba – podnikateľ a právnická osoba, ak ide o
+
+- 1.
+
+- oddelene vyzbieraný odpad z iných zdrojov, na ktoré sa nevzťahuje rozšírená zodpovednosť výrobcov,
+
+- 2.
+
+- elektroodpad a použité batérie a akumulátory.
+
+- (2)
+
+- Komunálny odpad z domácností vrátane oddelene zbieraných zložiek komunálneho odpadu z domácností sa podľa Katalógu odpadov zaraďuje do skupiny 20. Zmesový odpad a oddelene vyzbieraný odpad z iných zdrojov, ak je taký odpad svojím charakterom a zložením podobný odpadu z domácností, sa podľa Katalógu odpadov zaraďuje do skupiny 20.“.
+
 - 94. V § 81 ods. 7 úvodnej vete sa vypúšťajú slová „§ 10 ods. 1 a“.
+
+- 95. V § 81 ods. 7 písmeno c) znie:
+
+- „c)
+
+- zabezpečiť zavedenie a vykonávanie triedeného zberu komunálnych odpadov pre papier, plasty, kovy, sklo a kompozitné obaly na báze lepenky najmenej v rozsahu vyplývajúcom z požiadaviek ustanovených na triedený zber komunálnych odpadov [§ 105 ods. 3
+
+- písm. w)],“.
+
+- 97. V § 81 ods. 9 úvodnej vete sa za slovo „odpadov“ vkladá čiarka a slová „okrem skutočností podľa odseku 1 písm. b)“.
 
 - 98. V § 81 ods. 15 sa slová „programom obce“ nahrádza slovami „programom kraja“.
 
@@ -183,6 +629,10 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
   - Poznámka pod čiarou k odkazu 108a znie:
 
   - „<sup>108a</sup>) § 2 ods. 1 zákona č. 281/1997 Z. z. v znení zákona č. 96/2012 Z. z.“.
+
+- 103. V § 82 ods. 1 úvodnej vete sa za slovo „odpadu“ vkladajú slová „a právnická osoba alebo fyzická osoba – podnikateľ môže bezplatne odovzdať oddelene vyzbieraný komunálny odpad z obalov a komunálny odpad z neobalových výrobkov z iných zdrojov“.
+
+- 104. V § 82 ods. 2 sa za slovo „ako“ vkladá slovo „osobou“ a za slová „odseku 1“ sa vkladajú slová „alebo inej oddelene zbieranej zložky komunálneho odpadu, ako je uvedená v odseku 1“.
 
 - 107. V § 88a ods. 5 sa za slová „odseku 3“ vkladajú slová „alebo odseku 4“.
 
@@ -256,6 +706,22 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 
 - písm. m),“.
 
+- 121. V § 94 sa odsek 5 dopĺňa písmenami f) a g), ktoré znejú:
+
+- „f)
+
+- uplynutím lehoty podľa § 28 ods. 4 písm. ag), v ktorej organizácia zodpovednosti výrobcov neuhradí príspevok tvoriaci finančnú garanciu, ak ide o autorizáciu na činnosť organizácie zodpovednosti výrobcov,
+
+- g)
+
+- uplynutím lehoty podľa § 29 ods. 1 písm. o), v ktorej výrobca vyhradeného výrobku, ktorý si plní vyhradené povinnosti individuálne, neuhradí príspevok tvoriaci finančnú garanciu, ak ide o autorizáciu na činnosť individuálneho plnenia.“.
+
+- 122. V § 94b sa odsek 1 dopĺňa písmenom d), ktoré znie:
+
+- „d)
+
+- koordinačné centrum poruší povinnosť podľa § 31ods. 11 písm. q).“.
+
 - 123. V § 95 ods. 2 písmeno a) znie:
 
 - „a)
@@ -272,9 +738,29 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 
 - 126. V § 97 ods. 1 písm. o) sa za slovo „alebo“ vkladá slovo „hnuteľná“.
 
+- 127. V § 97 ods. 1 písmeno s) znie:
+
+- „s)
+
+- využívanie odpadov na spätné zasypávanie,“.
+
 - 128. V § 97 ods. 18 sa za prvú vetu vkladá nová druhá veta, ktorá znie:
 
 - „Ak sa konanie o predĺženie platnosti súhlasu neskončí do troch mesiacov bez zavinenia žiadateľa, platia pre žiadateľa podmienky určené v súhlase platnom pred podaním žiadosti o predĺženie súhlasu do ukončenia tohto konania.“.
+
+- 129. § 97 sa dopĺňa odsekmi 20 a 21, ktoré znejú:
+
+- „(20)
+
+- Súhlas podľa odseku 1 písm. o) sa vzťahuje na látky a hnuteľné veci, ktoré spĺňajú podmienky ustanovené v § 2 ods. 4 okrem látok a hnuteľných vecí uvedených v prílohe č. 8b.
+
+- (21)
+
+- Súhlas podľa odseku 1 písm. s) sa udeľuje výlučne vlastníkovi pozemku, a ak ide o spätné zasypávanie na účel likvidácie banských diel a lomov, organizácii oprávnenej vykonávať banskú činnosť podľa osobitného predpisu.<sup>126</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 126 znie:
+
+  - „<sup>126</sup>) § 3a zákona Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení zákona Slovenskej národnej rady č. 499/1991 Zb.“.
 
 - 130. § 104 vrátane nadpisu znie:
 
@@ -344,11 +830,27 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 
 - podrobnosti týkajúce sa zohľadnenia trvanlivosti, opraviteľnosti, opätovného použitia, recyklovateľnosti a prítomnosti nebezpečných látok vo vyhradených výrobkoch.“.
 
+- 138. V § 105 ods. 4 písm. a) sa vypúšťajú slová „každý druhý rok“.
+
+- 139. V § 105 ods. 4 písm. c) sa číslo „šiestich“ nahrádza číslom „18“.
+
 - 141. V § 107 písm. d) sa vypúšťajú slová „posudzuje program obce a“ a slová „ktoré presahujú“ sa nahrádzajú slovami „ktorý presahuje“.
 
 - 142. V § 107 písm. e) sa na konci pripájajú tieto slová: „a vyjadrenie k dokumentácii v konaní o povolení terénnych úprav podľa § 99 ods. 1 písm. b) štvrtého bodu“.
 
+- 143. V § 107 písmeno u) znie:
+
+- „u)
+
+- udeľuje súhlas na využívanie odpadov na spätné zasypávanie,“.
+
 - 144. V § 108 ods. 1 písm. d) sa vypúšťajú slová „posudzuje program obce a“ a slová „ktoré nepresahujú“ sa nahrádzajú slovami „ktorý nepresahuje“.
+
+- 145. V § 108 ods. 1 písm. e) prvý bod znie:
+
+- „1.
+
+- ohlásení podľa § 14 ods. 1 písm. g) a § 17 ods. 1 písm. m),“.
 
 - 146. V § 108 ods. 1 písm. e) druhom bode sa slová „§ 21 ods. 3 písm. p)“ nahrádzajú slovami „§ 21 ods. 3 písm. o)“ a v treťom bode sa slová „§ 21 ods. 3 písm. r)“ nahrádzajú slovami „§ 21 ods. 3 písm. p)“.
 
@@ -559,6 +1061,252 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 - „§ 137a
 
 - Tento zákon bol prijatý v súlade s právne záväzným aktom Európskej únie v oblasti technických noriem a technických predpisov.<sup>160</sup>)“.
+
+- 170. Príloha č. 1 vrátane nadpisu znie:
+
+- „Príloha č. 1 k zákonu č. 79/2015 Z. z.
+
+- ZHODNOCOVANIE ODPADU
+
+- R1 Využitie najmä ako palivo alebo na získavanie energie iným spôsobom
+
+- R2 Spätné získavanie alebo regenerácia rozpúšťadiel
+
+- R3 Recyklácia alebo spätné získavanie organických látok, ktoré nie sú používané ako rozpúšťadlá (vrátane kompostovania a iných biologických transformačných procesov)<sup>a</sup>)
+
+- R4 Recyklácia alebo spätné získavanie kovov a kovových zlúčenín<sup>b</sup>)
+
+- R5 Recyklácia alebo spätné získavanie ostatných anorganických materiálov<sup>c</sup>)
+
+- R6 Regenerácia kyselín a zásad
+
+- R7 Spätné získavanie komponentov používaných pri odstraňovaní znečistenia
+
+- R8 Spätné získavanie komponentov z katalyzátorov
+
+- R9 Prečisťovanie oleja alebo jeho iné opätovné použitie
+
+- R10 Úprava pôdy na účel dosiahnutia prínosov pre poľnohospodárstvo alebo na zlepšenie životného prostredia
+
+- R11 Využitie odpadov vzniknutých pri činnostiach R1 až R10
+
+- R12 Úprava odpadov určených na spracovanie niektorou z činností R1 až R11<sup>d</sup>)
+
+- R13 Skladovanie odpadov pred použitím niektorej z činností R1 až R12 (okrem dočasného uloženia pred zberom na mieste vzniku)<sup>e</sup>)
+
+- Poznámky
+
+- a)
+
+- Patrí sem aj príprava na opätovné použitie, splyňovanie a pyrolýza využívajúca zložky, ako sú chemické látky a zhodnocovanie organických látok vo forme spätného zasypávania.
+
+- b)
+
+- Patrí sem aj príprava na opätovné použitie.
+
+- c)
+
+- Patrí sem aj príprava na opätovné použitie, recyklácia anorganických stavebných materiálov, zhodnocovanie anorganických materiálov vo forme spätného zasypávania a čistenie pôdy, ktorého výsledkom je jej obnova.
+
+- d)
+
+- Ak neexistuje iný vhodný R-kód, môžu sem patriť predbežné činnosti pred zhodnocovaním odpadu vrátane predbežnej úpravy, okrem iného napr. rozoberanie, triedenie, drvenie, stláčanie, peletizácia, sušenie, šrotovanie, kondicionovanie, opätovné balenie, separovanie, miešanie a zmiešavanie pred podrobením sa ktorejkoľvek z činností R1 až R11.
+
+- e)
+
+- Dočasné uskladnenie je dočasné uloženie podľa § 3 ods. 5.“.
+
+- 171. V prílohe č. 3 časť III. vrátane nadpisu znie:
+
+- „III.
+
+- Cieľ odpadového hospodárstva v oblasti nakladania s odpadmi z obalov
+
+- _____________________________________________________________________________________
+
+- Cieľom odpadového hospodárstva v oblasti nakladania s odpadmi z obalov je dosahovať:
+
+- 1.
+
+- celkovú mieru zhodnocovania najmenej vo výške 60 % hmotnosti odpadov z obalov,
+
+- 2.
+
+- celkovú mieru recyklácie najmenej vo výške 55 % a najviac vo výške 80 % celkovej
+
+- hmotnosti odpadov z obalov,
+
+- 3.
+
+- mieru zhodnocovania pre jednotlivé obalové materiály (prúdy odpadov) najmenej vo
+
+- výške
+
+- 60 % hmotnosti sklenených odpadov z obalov,
+
+- 68 % hmotnosti papierových odpadov z obalov (vrátane kartónu a lepenky),
+
+- 55 % hmotnosti kovových odpadov z obalov,
+
+- 48 % hmotnosti plastových odpadov z obalov,
+
+- 35 % hmotnosti drevených odpadov z obalov,
+
+- 4.
+
+- mieru recyklácie pre jednotlivé obalové materiály (prúdy odpadov) najmenej vo výške:
+
+- 60 % hmotnosti sklenených odpadov z obalov,
+
+- 60 % hmotnosti papierových odpadov z obalov (vrátane kartónu a lepenky),
+
+- 55 % hmotnosti kovových odpadov z obalov,
+
+- 45 % hmotnosti plastových odpadov z obalov,
+
+- 25 % hmotnosti drevených odpadov z obalov.
+
+- 5.
+
+- do 31. decembra 2025 mieru recyklácie najmenej vo výške 65 % z celkovej hmotnosti odpadov z obalov,
+
+- 6.
+
+- do 31. decembra 2030 mieru recyklácie najmenej vo výške 70 % z celkovej hmotnosti odpadov z obalov,
+
+- 7.
+
+- mieru recyklácie pre jednotlivé obalové materiály (prúdy odpadov) do 31. decembra 2025 najmenej vo výške
+
+- 70 % sklo,
+
+- 75 % papier a lepenka,
+
+- 70 % železné kovy,
+
+- 50 % hliník,
+
+- 50 % plast,
+
+- 25 % drevo,
+
+- 8.
+
+- mieru recyklácie pre jednotlivé obalové materiály (prúdy odpadov) do 31. decembra 2030 najmenej vo výške
+
+- 75 % sklo,
+
+- 85 % papier a lepenka,
+
+- 80 % železné kovy,
+
+- 60 % hliník,
+
+- 55 % plast,
+
+- 30 % drevo.“.
+
+- 172. V prílohe č. 3 časti V. sa na konci pripájajú tieto vety:
+
+- „Cieľom odpadového hospodárstva v oblasti komunálnych odpadov je zvýšiť prípravu na opätovné použitie a recykláciu komunálneho odpadu do roku 2025 najmenej na 55 %, do roku 2030 najmenej na 60 % a do roku 2035 najmenej na 65 % podľa hmotnosti komunálneho odpadu vzniknutého v predchádzajúcom kalendárnom roku.
+
+- Cieľom odpadového hospodárstva v oblasti komunálnych odpadov je do roku 2035 znížiť množstvo komunálneho odpadu zneškodneného skládkovaním najmenej na 10 % z celkového množstva vzniknutého komunálneho odpadu.“.
+
+- 173. V prílohe č. 3 časti VII. sa za slovami „(stav konca odpadu)“ vypúšťa čiarka a slová „§ 3 ods. 10 (príprava na opätovné použitie)“.
+
+- 174. Za prílohu č. 4 sa vkladá príloha č. 4a, ktorá vrátane nadpisu znie:
+
+- „Príloha č. 4a
+
+- k zákonu č. 79/2015 Z. z.
+
+- PRÍKLADY HOSPODÁRSKYCH NÁSTROJOV A ĎALŠÍCH OPATRENÍ NA POSKYTOVANIE STIMULOV PRE UPLATŇOVANIE HIERARCHIE ODPADOVÉHO HOSPODÁRSTVA
+
+- 1.
+
+- Poplatky a obmedzenia súvisiace s ukladaním odpadu na skládku a jeho spaľovaním, ktoré podnecujú predchádzanie vzniku odpadu a recykláciu, pričom skládkovanie sa považuje za najmenej vhodný spôsob nakladania s odpadom.
+
+- 2.
+
+- Schémy platby podľa množstva odpadu (zásada „plať za to, čo vyhodíš“), pri ktorých pôvodcovia odpadu platia na základe skutočného množstva vzniknutého odpadu a ktoré poskytujú stimuly na triedenie recyklovateľného odpadu pri zdroji a na znižovanie zmesového odpadu.
+
+- 3.
+
+- Finančné stimuly na darovanie výrobkov, najmä potravín.
+
+- 4.
+
+- Systémy rozšírenej zodpovednosti výrobcov pre rôzne druhy odpadu a opatrenia na zvýšenie ich účinnosti, efektívnosti nákladov a riadenia.
+
+- 5.
+
+- Systémy vratných záloh a ďalšie opatrenia na podporu účinného zberu použitých výrobkov a materiálov.
+
+- 6.
+
+- Riadne plánovanie investícií v oblasti infraštruktúry odpadového hospodárstva, a to aj prostredníctvom fondov Európskej únie.
+
+- 7.
+
+- Udržateľné verejné obstarávanie na podporu lepšieho nakladania s odpadom a používanie recyklovaných výrobkov a materiálov.
+
+- 8.
+
+- Postupné rušenie dotácií, ktoré nie sú v súlade s hierarchiou odpadového hospodárstva.
+
+- 9.
+
+- Používanie fiškálnych opatrení alebo iných prostriedkov na podporu zavádzania výrobkov a materiálov, ktoré sa pripravujú na opätovné použitie alebo sa recyklujú.
+
+- 10.
+
+- Podpora výskumu a inovácií v oblasti vyspelých technológií recyklácie a repasovania.
+
+- 11.
+
+- Používanie najlepších dostupných techník na spracovanie odpadu.
+
+- 12.
+
+- Hospodárske stimuly pre regionálne a miestne orgány, najmä na podporu predchádzania vzniku odpadu a na posilnenie systémov triedeného zberu, ktoré sa zároveň vyhýbajú podpore skládkovania a spaľovania.
+
+- 13.
+
+- Informačné kampane pre verejnosť, najmä pokiaľ ide o triedený zber, predchádzanie vzniku odpadu a znižovanie znečisťovania odpadom a začlenenie týchto otázok do vzdelávania a odbornej prípravy.
+
+- 14.
+
+- Systémy koordinácie, a to aj digitálnymi prostriedkami, medzi všetkými príslušnými verejnými orgánmi zapojenými do odpadového hospodárstva.
+
+- 15.
+
+- Podpora nepretržitého dialógu a spolupráce medzi všetkými zainteresovanými stranami v oblasti odpadového hospodárstva a podpora dobrovoľných dohôd a podávania správ podnikov o odpadoch.“.
+
+- 176. Za prílohu č. 8a sa vkladá príloha č. 8b, ktorá vrátane nadpisu znie:
+
+- „Príloha č. 8b
+
+- k zákonu č. 79/2015 Z. z.
+
+- ZOZNAM LÁTOK ALEBO HNUTEĽNÝCH VECÍ, PRE KTORÉ SA NEVYŽADUJE SÚHLAS podľa § 97 ods. 1 písm. o)
+
+- Súhlas podľa § 97 ods. 1 písm. o) sa nevyžaduje na
+
+- 1.
+
+- piliny, hobliny a odrezky z prírodného dreva,
+
+- 2.
+
+- piliny, hobliny, triesky, prach a zlomky zo železných a neželezných kovov,
+
+- 3.
+
+- okuje z valcovania zo železiarskeho a oceliarskeho priemyslu,
+
+- 4.
+
+- textilné ústrižky (čisté nite, zvyšky látok).“.
 
 - 177. Príloha č. 9 vrátane nadpisu znie:
 
