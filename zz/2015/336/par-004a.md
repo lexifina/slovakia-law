@@ -26,6 +26,6 @@
 
 (3) Okresný úrad pri tvorbe návrhu ročných priorít dbá o rovnosť príležitostí pre predkladateľov návrhov do zoznamu aktivít a zoznamu projektov podľa odseku 2.
 
-(4) Okresný úrad je povinný pri tvorbe návrhu ročných priorít postupovať podľa metodiky vydanej a schválenej úradom podpredsedu vlády.
+(4) Okresný úrad je povinný pri tvorbe návrhu ročných priorít postupovať podľa metodiky vydanej a schválenej ministerstvom investícií.
 
-(5) Okresný úrad po prerokovaní radou predloží úradu podpredsedu vlády návrh ročných priorít na nasledujúci kalendárny rok najneskôr do 31. októbra. Okresný úrad po prerokovaní radou môže predložiť úradu podpredsedu vlády návrh zmien schválených ročných priorít spravidla do 30. apríla príslušného kalendárneho roka.
+(5) Okresný úrad po prerokovaní radou predloží ministerstvu investícií návrh ročných priorít na nasledujúci kalendárny rok najneskôr do 31. októbra. Okresný úrad po prerokovaní radou môže predložiť ministerstvu investícií návrh zmien schválených ročných priorít spravidla do 30. apríla príslušného kalendárneho roka.
