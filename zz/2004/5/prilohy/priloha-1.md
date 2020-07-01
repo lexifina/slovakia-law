@@ -6,7 +6,7 @@ Príloha č. 1 k zákonu č. 5/2004 Z. z.
 
     - a) identifikačné údaje, a to
 
-      - 1. meno, priezvisko, titul,
+      - 1. meno, priezvisko, titul, rodné priezvisko,
 
       - 2. adresa trvalého pobytu,
 
@@ -30,7 +30,7 @@ Príloha č. 1 k zákonu č. 5/2004 Z. z.
 
       - 12. kontaktné údaje (telefónne číslo, e-mail),
 
-      - 13. bankové spojenie,
+      - 13. bankové spojenie a údaj o tom, že uchádzač o zamestnanie je majiteľom alebo disponentom bankového účtu,
 
       - 14. zdravotná poisťovňa,
 
@@ -85,6 +85,18 @@ Príloha č. 1 k zákonu č. 5/2004 Z. z.
       - 2. dátum začatia a dátum skončenia poberania dávky v nezamestnanosti,
 
       - 3. výška dávky v nezamestnanosti,
+
+      - 4. údaj o výkone zamestnania v inom členskom štáte Európskej únie v posledných štyroch rokoch pred zaradením do evidencie uchádzačov o zamestnanie,
+
+      - 5. údaj o priznaní starobného dôchodku, predčasného starobného dôchodku alebo invalidného dôchodku v inom členskom štáte Európskej únie,
+
+      - 6. údaj o podaní žiadosti o starobný dôchodok, predčasný starobný dôchodok alebo invalidný dôchodok v inom členskom štáte Európskej únie,
+
+      - 7. údaj o splnení podmienky nároku na výsluhový príspevok, výsluhový dôchodok, invalidný výsluhový dôchodok,
+
+      - 8. údaj o poberaní dávky v hmotnej núdzi a príspevkov k dávke v hmotnej núdzi,
+
+      - 9. adresa na výplatu dávky v nezamestnanosti,
 
     - g) údaje o dávke v hmotnej núdzi a príspevkoch k dávke v hmotnej núdzi, a to
 
