@@ -12,7 +12,7 @@ Príloha č. 3 k zákonu č. 45/2011 Z. z.
 
 - 5. Priemysel | Farmaceutický priemysel Hutnícky priemysel Chemický priemysel | Ministerstvo hospodárstva Slovenskej republiky
 
-- 6. Informačné a komunikačné technológie | Informačné systémy a siete | Úrad podpredsedu vlády Slovenskej republiky pre investície a informatizáciu
+- 6. Informačné a komunikačné technológie | Informačné systémy a siete | Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky
 
 - 7. Voda a atmosféra | Meteorologická služba Vodné stavby Zabezpečovanie pitnej vody | Ministerstvo životného prostredia Slovenskej republiky
 
