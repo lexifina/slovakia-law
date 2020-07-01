@@ -738,6 +738,8 @@
 
 - 86g) Zákon č. 359/2015 Z. z. o automatickej výmene informácií o finančných účtoch na účely správy daní a o zmene a doplnení niektorých zákonov.
 
+- 86ga) Zákon č. 442/2012 Z. z. o medzinárodnej pomoci a spolupráci pri správe daní v znení neskorších predpisov.
+
 - 86h) § 7 ods. 6, 7 a 11 zákona č. 129/2010 Z. z. v znení neskorších predpisov.
 
 - 86i) § 20 ods. 1 písm. a) zákona č. 129/2010 Z. z. v znení zákona č. 35/2015 Z. z.
