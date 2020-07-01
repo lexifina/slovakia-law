@@ -258,6 +258,12 @@ Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov ve
 
 - Ak orgán verejnej moci prijme elektronické podanie, ktoré je autorizované kvalifikovaným elektronickým podpisom<sup>17</sup>) alebo kvalifikovanou elektronickou pečaťou,<sup>18</sup>) ku ktorým nie je pripojená kvalifikovaná elektronická časová pečiatka,<sup>19</sup>) orgán verejnej moci pripojí k nim kvalifikovanú elektronickú časovú pečiatku, ktorá zahŕňa objekt autorizácie.“.
 
+- 38. § 25 sa dopĺňa odsekom 7, ktorý znie:
+
+- „(7)
+
+- Správca ústredného portálu a správca špecializovaného portálu vytvoria verejne dostupné aplikačné rozhranie na vytvorenie a podanie elektronického podania automatizovaným spôsobom, a to pre všetky prípady, v ktorých umožňujú vytvorenie a podanie elektronického podania prostredníctvom používateľského rozhrania; to platí aj pre doplnkové služby na vytváranie elektronického podania prostredníctvom používateľského rozhrania, ak ich správca ústredného portálu alebo správca špecializovaného portálu vytvára. Správca modulu procesnej integrácie a integrácie údajov sprístupňuje v tomto module všetky programové rozhrania podľa prvej vety, na čo mu správcovia podľa prvej vety poskytnú súčinnosť.“.
+
 - 39. V § 28 ods. 3 sa slová „musí byť neoddeliteľne spojený s elektronickým úradným dokumentom, ktorého sa tieto právne skutočnosti týkajú, a to tak, že oba tieto elektronické úradné dokumenty sú spoločne autorizované“ nahrádzajú slovami „musí obsahovať jednoznačnú identifikáciu elektronického úradného dokumentu, ktorého sa tieto právne skutočnosti týkajú, alebo s ním musí byť neoddeliteľne spojený tak, že sú oba tieto elektronické úradné dokumenty spoločne autorizované“ a na konci sa pripája táto veta: „Ak elektronický úradný dokument podľa § 3 písm. k) tretieho bodu nie je spojený s elektronickým úradným dokumentom, ku ktorému sa preukazované právne skutočnosti viažu, spoločnou autorizáciou, orgán verejnej moci je povinný pri doručovaní elektronického úradného dokumentu podľa § 3 písm. k) tretieho bodu v jednej elektronickej úradnej správe doručiť aj elektronický úradný dokument, ku ktorému sa preukazované právne skutočnosti viažu.“.
 
 - 40. V § 31a ods. 6 sa na konci pripája táto veta: „Ak poštový podnik zistí, že informácia o výsledku doručenia nie je úplná alebo správna, bezodkladne ju zruší, doplní alebo opraví; ustanovenia druhej a tretej vety sa použijú rovnako.“.
@@ -448,4 +454,10 @@ Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov ve
 
 - (7)
 
-- Osoba vykonávajúca konverziu je povinná zaslať úradu podpredsedu vlády údaje z evidencie záznamov o vykonanej zaručenej konverzii za obdobie odo dňa vykonania prvej zaručenej konverzie do dňa nasledujúceho po dni zriadenia centrálnej evidencie záznamov o vykonanej zaručenej konverzii.“.
+- Osoba vykonávajúca konverziu je povinná zaslať úradu podpredsedu vlády údaje z evidencie záznamov o vykonanej zaručenej konverzii za obdobie odo dňa vykonania prvej zaručenej konverzie do dňa nasledujúceho po dni zriadenia centrálnej evidencie záznamov o vykonanej zaručenej konverzii.
+
+- § 60i
+
+- Prechodné ustanovenia k úpravám účinným od 1. júla 2020
+
+- Ak ide o aplikačné rozhranie pre vytvorenie a podanie elektronického podania automatizovaným spôsobom podľa § 25 ods. 7 pre prípady, v ktorých bolo do 31. júla 2019 možné vytvorenie a podanie elektronického podania prostredníctvom používateľského rozhrania, správca ústredného portálu, správca špecializovaného portálu a správca modulu procesnej integrácie a integrácie údajov sú povinní splniť povinnosti podľa § 25 ods. 7 najneskôr do 1. júla 2022.“.
