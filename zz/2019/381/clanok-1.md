@@ -9,3 +9,33 @@ Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene
 - V základnej škole pôsobí na každých 50 žiakov zo sociálne znevýhodneného prostredia jeden asistent učiteľa alebo jeden sociálny pedagóg.“.
 
   - Doterajší odsek 3 sa označuje ako odsek 4.
+
+- 2. V § 157 ods. 4 sa slová „odseku 12“ nahrádzajú slovami „odseku 13“.
+
+- 3. V § 157 sa za odsek 8 vkladá nový odsek 9, ktorý znie:
+
+- „(9)
+
+- Ministerstvo školstva poskytuje Sociálnej poisťovni z centrálneho registra na účel analýz ekonomického zázemia detí a žiakov z najmenej rozvinutých okresov<sup>93aa</sup>) vykonávaných ministerstvom školstva rodné číslo
+
+- a)
+
+- zákonného zástupcu dieťaťa, ktoré má bydlisko na území niektorého z najmenej rozvinutých okresov,
+
+- b)
+
+- zákonného zástupcu žiaka, ktorý má bydlisko na území niektorého z najmenej rozvinutých okresov, a
+
+- c)
+
+- žiaka, ktorý dovŕšil 15. rok veku a má bydlisko na území niektorého z najmenej rozvinutých okresov.“.
+
+  - Doterajšie odseky 9 až 13 sa označujú ako odseky 10 až 14.
+
+  - Poznámka pod čiarou k odkazu 93aa znie:
+
+  - „<sup>93aa</sup>) § 2 ods. 1 zákona č. 336/2015 Z. z. o podpore najmenej rozvinutých okresov a o zmene a doplnení niektorých zákonov.“.
+
+- 4. V § 157 ods. 12 sa slová „odseku 10“ nahrádzajú slovami „odseku 11“.
+
+- 5. V § 157 ods. 14 sa slová „11 a 12“ nahrádzajú slovami „12 a 13“.
