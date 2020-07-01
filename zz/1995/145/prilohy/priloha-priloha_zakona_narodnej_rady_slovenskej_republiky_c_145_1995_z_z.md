@@ -4486,7 +4486,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - j) Vydanie rozhodnutia o udelení súhlasu na uzavretie skládky odpadov alebo jej časti, vykonanie iei rekultivácie a jej následné monitorovanie<sup>38</sup>) | 11 eur
 
-  - k) Vydanie rozhodnutia o udelení súhlasu na využívanie odpadov na povrchovú úpravu terénu<sup>38</sup>) | 11 eur
+  - k) Vydanie rozhodnutia o udelení súhlasu na využívanie odpadov na spätné zasypávanie | 11 eur
 
   - l) Vydanie rozhodnutia o udelení súhlasu na dekontamináciu<sup>38</sup>) | 11 eur
 
@@ -4500,7 +4500,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - r) Vydanie rozhodnutia o udelení súhlasu na vykonávanie prípravy na opätovné použitie<sup>38</sup>) | 11 eur
 
-  - s) Vydanie rozhodnutia o udelení súhlasu na prevádzkovanie úložiska dočasného uskladnenia ortuti, na uzavretie úložiska dočasného uskladnenia ortuti alebo jeho časti, a jeho následné monitorovanie, na prevádzkovanie úložiska trvalého uskladnenia odpadovej ortuti, na uzavretie úložiska trvalého uskladnenia odpadovej ortuti alebo jeho časti, a jeho následné monitorovanie<sup>38</sup>) | 11 eur
+  - s) Vydanie rozhodnutia o udelení súhlasu na prevádzkovanie úložiska dočasného uskladnenia odpadovej ortuti, na uzavretie úložiska dočasného uskladnenia odpadovej ortuti alebo jeho časti, a jeho následné monitorovanie, na prevádzkovanie úložiska trvalého uskladnenia odpadovej ortuti, na uzavretie úložiska trvalého uskladnenia odpadovej ortuti alebo jeho časti, a jeho následné monitorovanie<sup>38</sup>) | 11 eur
 
   - t) Vydanie rozhodnutia o udelení súhlasu na zhromažďovanie odpadu dlhšie ako jeden rok pred jeho zneškodnením alebo dlhšie ako tri roky pred jeho zhodnotením.<sup>38</sup>) | 11 eur
 
@@ -4510,7 +4510,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - x) Vydanie rozhodnutia o zaradení odpadu, ak držiteľ odpadu nemôže odpad jednoznačne zaradiť podľa Katalógu odpadov<sup>38</sup>) | 11 eur
 
-  - y) Vydanie rozhodnutia o zmene udelených súhlasov podľa písmen a) až v) | 4 eurá
+  - y) Vydanie rozhodnutia o zmene udelených súhlasov podľa písmen a) až t) a aj) až am) | 4 eurá
 
   - aa) Vydanie rozhodnutia či zariadenie je alebo nie je elektrozariadením<sup>38</sup>) | 30 eur
 
