@@ -48,6 +48,14 @@ Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústred
 
 - Poradný orgán si môže zriadiť aj iný člen vlády ako minister.“.
 
+- 7. V § 3 sa za písmeno d) vkladá písmeno e), ktoré znie:
+
+- „e)
+
+- Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky,“.
+
+  - Doterajšie písmená e) až m) sa označujú ako f) až n).
+
 - 8. § 4 sa dopĺňa odsekom 4, ktorý znie:
 
 - „(4)
@@ -71,6 +79,38 @@ Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústred
 - c)
 
 - predkladá vláde návrhy na zjednodušenie právnej úpravy pre podnikanie.“.
+
+- 11. Za § 9 sa vkladá § 10, ktorý vrátane nadpisu znie:
+
+- „§ 10
+
+- Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky
+
+- Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky je ústredným orgánom štátnej správy pre
+
+- a)
+
+- riadenie, koordináciu a dohľad nad využívaním finančných prostriedkov z fondov Európskej únie,
+
+- b)
+
+- oblasť investícií v rozsahu strategického plánovania a strategického projektového riadenia, ako aj koordináciu investičných projektov a vypracovanie národného strategického investičného rámca v pôsobnosti Ministerstva investícií, regionálneho rozvoja a informatizácie Slovenskej republiky, a vnútroštátnu implementáciu Agendy 2030,
+
+- c)
+
+- koordináciu prípravy politík regionálneho rozvoja,
+
+- d)
+
+- centrálne riadenie informatizácie spoločnosti a tvorbu politiky jednotného digitálneho trhu, rozhodovanie o využívaní verejných prostriedkov vo verejnej správe pre informačné technológie, centrálnu architektúru integrovaného informačného systému verejnej správy a koordináciu plnenia úloh v oblasti informatizácie spoločnosti.“.
+
+- 13. V § 13 ods. 6 sa vypúšťajú slová „Zbierky zákonov Slovenskej republiky a“.
+
+- 14. V § 21 sa vypúšťa písmeno k).
+
+- 15. V § 22 sa vypúšťa odsek 5.
+
+  - Doterajšie odseky 6 až 8 sa označujú ako odseky 5 až 7.
 
 - 16. Nadpis § 24 sa umiestňujem nad § 24.
 
@@ -96,13 +136,33 @@ Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústred
 
 - Úlohy uvedené v odsekoch 6 a 7 zabezpečuje podpredseda vlády, ktorý neriadi ministerstvo.“.
 
+- 19. V § 24 sa za odsek 7 vkladajú nové odseky 8 a 9, ktoré znejú:
+
+- „(8)
+
+- Úrad vlády Slovenskej republiky zabezpečuje pre ostatné ústredné orgány štátnej správy uvedené v § 21 písm. b) až j) legislatívne činnosti spojené s prípravou, prerokovaním a schvaľovaním ústavných zákonov, zákonov a iných všeobecne záväzných právnych predpisov; tým nie je dotknutý § 37. Úrad vlády Slovenskej republiky môže, na základe dohody s príslušným ministerstvom, zabezpečovať činnosti podľa prvej vety aj pre ministerstvá.
+
+- (9)
+
+- Úrad vlády Slovenskej republiky zabezpečuje vydávanie Zbierky zákonov Slovenskej republiky.“.
+
+  - Doterajší odsek 8 sa označuje ako odsek 10.
+
+- 20. V § 24 ods. 10 sa slová „a 7“ nahrádzajú slovami „až 9“.
+
 - 21. Za § 24 sa vkladá § 24a, ktorý znie:
 
 - „§ 24a
 
 - Na Úrade vlády Slovenskej republiky sa zriaďuje fond vzájomnej pomoci na účel zmiernenia negatívnych následkov šírenia nebezpečnej nákazlivej ľudskej choroby COVID-19; fond nemá právnu subjektivitu. Príjmom fondu podľa prvej vety sú peňažné prostriedky od fyzických osôb alebo právnických osôb, ktoré sa vedú na samostatnom účte vedenom v Štátnej pokladnici. Na poskytnutie finančnej pomoci z fondu podľa prvej vety nie je právny nárok.“.
 
+- 22. § 34a sa vypúšťa.
+
 - 23. V § 35 ods. 5 sa slová „Ak to vyžaduje postup ustanovený orgánmi Európskej únie pri čerpaní finančných prostriedkov zo štrukturálnych fondov a Kohézneho fondu“ nahrádzajú slovami „Ak to vyžadujú právne záväzné akty Európskej únie pri čerpaní finančných prostriedkov z fondov Európskej únie“.
+
+- 24. V § 40 sa vypúšťa odsek 4.
+
+  - Doterajší odsek 5 sa označuje ako odsek 4.
 
 - 25. Za § 40ae sa vkladajú § 40af a 40ag, ktoré znejú:
 
@@ -119,3 +179,59 @@ Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústred
 - § 40ag
 
 - Peňažné prostriedky od fyzických osôb alebo právnických osôb, ktoré boli poukázané na samostatný účet fondu vedený v Štátnej pokladnici pred dňom účinnosti tohto zákona, sa považujú za príjem fondu vzájomnej pomoci podľa § 24a.“.
+
+- 26. Za § 40ag sa vkladajú § 40ah až 40aj, ktoré znejú:
+
+- „§ 40ah
+
+- (1)
+
+- Pôsobnosť Úradu podpredsedu vlády Slovenskej republiky pre investície a informatizáciu podľa doterajších všeobecne záväzných právnych predpisov prechádza na Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky.
+
+- (2)
+
+- Ak sa v doterajších právnych predpisoch používa pre oblasť podľa odseku 1 pojem „Úrad podpredsedu vlády Slovenskej republiky pre investície a informatizáciu“ vo všetkých tvaroch, rozumie sa tým „Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky“ v príslušnom tvare.
+
+- (3)
+
+- V súvislosti s prechodom kompetencií podľa odseku 1 prechádzajú od 1. júla 2020 práva a povinnosti Úradu podpredsedu vlády Slovenskej republiky pre investície a informatizáciu vrátane práv a povinností zo štátnozamestnaneckých pomerov, pracovnoprávnych vzťahov a iných právnych vzťahov zamestnancov na Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky. Majetok štátu, ktorý bol k 30. júnu 2020 v správe Úradu podpredsedu vlády Slovenskej republiky pre investície a informatizáciu, prechádza k 1. júlu 2020 do správy Ministerstva investícií, regionálneho rozvoja a informatizácie Slovenskej republiky.
+
+- (4)
+
+- V súvislosti s prechodom pôsobnosti Úradu podpredsedu vlády Slovenskej republiky pre investície a informatizáciu na Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky sa Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky považuje za zriaďovateľa organizácie založenej Úradom podpredsedu vlády Slovenskej republiky pre investície a informatizáciu.
+
+- § 40ai
+
+- (1)
+
+- Pôsobnosť ostatných ústredných orgánov štátnej správy uvedených v § 21 písm. b) až j) v oblasti plnenia legislatívnych činností spojených s prípravou, prerokovaním a schvaľovaním ústavných zákonov, zákonov a iných všeobecne záväzných právnych predpisov prechádza na Úrad vlády Slovenskej republiky.
+
+- (2)
+
+- V súvislosti s prechodom kompetencie podľa odseku 1 prechádzajú od 1. júla 2020 práva a povinnosti vyplývajúce zo štátnozamestnaneckých vzťahov, z pracovnoprávnych vzťahov, iných právnych vzťahov zamestnancov zabezpečujúcich výkon tejto kompetencie, ako aj práva a povinnosti z iných právnych vzťahov z ostatných ústredných orgánov štátnej správy uvedených v § 21 písm. b) až i) na Úrad vlády Slovenskej republiky. Majetok štátu, ktorý bol k 30. júnu 2020 v správe ostatných ústredných orgánov štátnej správy uvedených v § 21 písm. b) až i) a ktorý slúži na zabezpečenie výkonu kompetencie v oblasti podľa odseku 1, prechádza k 1. júlu 2020 do správy Úradu vlády Slovenskej republiky. Podrobnosti o prechode týchto práv a povinností a o prechode správy majetku štátu sa upravia dohodami medzi ostatnými ústrednými orgánmi štátnej správy uvedenými v § 21 písm. b) až i) a Úradom vlády Slovenskej republiky, v ktorých sa vymedzí najmä druh a rozsah preberaného majetku, práv a povinností.
+
+- (3)
+
+- V súvislosti s prechodom kompetencií podľa odseku 1 prechádzajú od 1. júla 2020 práva a povinnosti vyplývajúce zo štátnozamestnaneckých vzťahov, z pracovnoprávnych vzťahov a iných právnych vzťahov zamestnancov zabezpečujúcich výkon týchto kompetencií z ostatných ústredných orgánov štátnej správy na Úrad vlády Slovenskej republiky. V súvislosti s prechodom kompetencií podľa odseku 1 Úrad vlády Slovenskej republiky prijme podľa osobitného predpisu<sup>7</sup>) do stálej štátnej služby občana, ktorý bol príslušníkom Národného bezpečnostného úradu. Majetok štátu, ktorý bol k 30. júnu 2020 v správe Národného bezpečnostného úradu a ktorý slúži na zabezpečenie výkonu kompetencie v oblasti podľa odseku 1, prechádza k 1. júlu 2020 do správy Úradu vlády Slovenskej republiky. Podrobnosti o prechode týchto práv a povinností a o prechode správy majetku štátu sa upraví dohodou medzi Národným bezpečnostným úradom a Úradom vlády Slovenskej republiky, v ktorej sa vymedzí najmä druh a rozsah preberaného majetku, práv a povinností.
+
+- (4)
+
+- V súvislosti s prechodom kompetencie podľa odseku 1 neprechádzajú od 1. júla 2020 práva a povinnosti vyplývajúce zo služobného pomeru, ak k 1. júlu 2020 ústredný orgán štátnej správy uvedený v § 21 písm. j) trvalo vyšle osoby v služobnom pomere na plnenie úloh Úradu vlády Slovenskej republiky. Za nadriadeného podľa osobitného predpisu vyslaných osôb podľa prvej vety sa považuje príslušný zamestnanec Úradu vlády Slovenskej republiky, ktorý rozhoduje vo veciach služobného pomeru. Doba vyslania podľa prvej vety trvá počas plnenia úloh podľa § 24 ods. 8.
+
+- § 40aj
+
+- (1)
+
+- Pôsobnosť Ministerstva spravodlivosti Slovenskej republiky v oblasti zabezpečovania vydávania Zbierky zákonov Slovenskej republiky prechádza na Úrad vlády Slovenskej republiky.
+
+- (2)
+
+- Ak sa v doterajších právnych predpisoch používa pre oblasť podľa odseku 1 pojem „Ministerstvo spravodlivosti Slovenskej republiky“ vo všetkých tvaroch, rozumie sa tým „Úrad vlády Slovenskej republiky“ v príslušnom tvare.
+
+- (3)
+
+- V súvislosti s prechodom kompetencie podľa odseku 1 prechádzajú od 1. júla 2020 práva a povinnosti vyplývajúce zo štátnozamestnaneckých vzťahov, z pracovnoprávnych vzťahov a iných právnych vzťahov zamestnancov zabezpečujúcich výkon tejto kompetencie, ako aj práva a povinnosti z iných právnych vzťahov z Ministerstva spravodlivosti Slovenskej republiky na Úrad vlády Slovenskej. Majetok štátu, ktorý bol k 30. júnu 2020 v správe Ministerstva spravodlivosti Slovenskej republiky a ktorý slúži na zabezpečenie výkonu kompetencie v oblasti podľa odseku 1, prechádza k 1. júlu 2020 do správy Úradu vlády Slovenskej republiky. Podrobnosti o prechode týchto práv a povinností a o prechode správy majetku štátu sa upravia dohodou medzi Ministerstvom spravodlivosti Slovenskej republiky a Úradom vlády Slovenskej republiky, v ktorej sa vymedzí najmä druh a rozsah preberaného majetku, práv a povinností.“.
+
+  - Poznámka pod čiarou k odkazu 7 znie:
+
+  - „<sup>7</sup>) Napríklad § 35, § 38 ods. 1 písm. a) až e) a § 38 ods. 2 zákona č. 55/2017 Z. z.“.
