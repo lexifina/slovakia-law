@@ -2,23 +2,13 @@
 
 - 2) § 2 zákona č. 571/2009 Z. z.
 
-- 3) § 3 ods. 4 písm. a) zákona č. 383/2013 Z. z. o príspevku pri narodení dieťaťa a príspevku na viac súčasne narodených detí a o zmene a doplnení niektorých zákonov.
+- 7) § 11 ods. 2 písm. b) zákona č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení zákona č. 42/2019 Z. z.
 
-- 4) § 5 ods. 2 písm. b) zákona č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení zákona č. 42/2019 Z. z.
+- 8) § 12 ods. 3 písm. b) tretí bod až šiesty bod zákona č. 417/2013 Z. z. v znení zákona č. 42/2019 Z. z.
 
-- 5) § 6 zákona č. 417/2013 Z. z. v znení zákona č. 81/2017 Z. z.
+- 9) § 10 ods. 3 až 13 zákona č. 417/2013 Z. z. v znení neskorších predpisov.
 
-- 6) § 10 ods. 3, 5 až 13 zákona č. 417/2013 Z. z. v znení neskorších predpisov.
-
-- 7) § 11 ods. 2 písm. b) zákona č. 417/2013 Z. z. v znení zákona č. 42/2019 Z. z.
-
-- 8) § 12 ods. 3 písm. a) zákona č. 417/2013 Z. z.
-
-- 9) § 12 ods. 3 písm. b) až d) zákona č. 417/2013 Z. z. v znení neskorších predpisov.
-
-- 10) § 10 ods. 3, 5 a 8 zákona č. 417/2013 Z. z. v znení neskorších predpisov.
-
-- 11) § 11 ods. 4 zákona č. 417/2013 Z. z. v znení zákona č. 42/2019 Z. z.
+- 11) § 12 ods. 3 písm. a) zákona č. 417/2013 Z. z.
 
 - 12) § 12 ods. 3 písm. b) piaty bod a šiesty bod zákona č. 417/2013 Z. z. v znení neskorších predpisov.
 
@@ -28,19 +18,13 @@
 
 - 15) § 14 ods. 5 písm. d) zákona č. 417/2013 Z. z.
 
-- 16) § 2 ods. 1 písm. a) zákona č. 201/2008 Z. z. o náhradnom výživnom a o zmene a doplnení zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení nálezu Ústavného súdu Slovenskej republiky č. 615/2006 Z. z. v znení neskorších predpisov.
-
-- 17) § 1 a § 2 ods. 3 zákona č. 201/2008 Z. z. v znení zákona č. 66/2018 Z. z.
+- 17) § 1 a § 2 ods. 3 zákona č. 201/2008 Z. z. o náhradnom výživnom a o zmene a doplnení zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení nálezu Ústavného súdu Slovenskej republiky č. 615/2006 Z. z. v znení neskorších predpisov v znení zákona č. 66/2018 Z. z.
 
 - 18) § 13 ods. 5 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov.
 
 - 19) § 18 ods. 8 druhá veta zákona č. 447/2008 Z. z.
 
 - 20) § 18 ods. 18 zákona č. 447/2008 Z. z. v znení neskorších predpisov.
-
-- 21) § 36 ods. 2 zákona č. 447/2008 Z. z. v znení zákona č. 180/2011 Z. z.
-
-- 22) § 36 ods. 5 zákona č. 447/2008 Z. z.
 
 - 23) § 40 ods. 8 prvá veta zákona č. 447/2008 Z. z. v znení neskorších predpisov.
 
@@ -82,7 +66,7 @@
 
 - § 6 ods. 1 zákona č. 571/2009 Z. z.
 
-- § 10 zákona č. 383/2013 Z. z.
+- § 10 zákona č. 383/2013 Z. z. o príspevku pri narodení dieťaťa a príspevku na viac súčasne narodených detí a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 40) § 9 a § 14 ods. 1 písm. a) a b) a ods. 2 zákona č. 600/2003 Z. z. v znení neskorších predpisov.
 
@@ -98,12 +82,6 @@
 
 - § 4 ods. 7 zákona č. 385/2019 Z. z. o kompenzačnom príspevku baníkom a o zmene a doplnení niektorých zákonov.
 
-- 41) § 9 zákona č. 600/2003 Z. z. v znení neskorších predpisov.
-
-- § 14 ods. 3 zákona č. 627/2005 Z. z. v znení zákona č. 383/2013 Z. z.
-
-- § 19 ods. 2 písm. a) zákona č. 417/2013 Z. z.
-
 - 42) § 12a ods. 1 a 2 zákona č. 600/2003 Z. z.
 
 - § 44 ods. 1 písm. a) zákona č. 447/2008 Z. z. v znení zákona č. 191/2018 Z. z.
@@ -117,11 +95,5 @@
 - 43) Napríklad § 5 zákona č. 238/1998 Z. z. v znení neskorších predpisov, § 9 a § 14 ods. 1 písm. b) a ods. 2 zákona č. 600/2003 Z. z. v znení neskorších predpisov, § 14 ods. 2 a § 15 zákona č. 627/2005 Z. z. v znení neskorších predpisov, § 8 ods. 4, § 11 ods. 2 a § 12 ods. 1 zákona č. 201/2008 Z. z. v znení neskorších predpisov, § 55 a 57 zákona č. 447/2008 Z. z. v znení neskorších predpisov, § 9 ods. 1 a 3 a § 10 ods. 1 zákona č. 561/2008 Z. z. v znení neskorších predpisov, § 5 ods. 4, § 8 ods. 1 a § 9 zákona č. 571/2009 Z. z. v znení neskorších predpisov, § 8 ods. 1 zákona č. 383/2013 Z. z., § 19 ods. 1 a § 28 zákona č. 417/2013 Z. z. v znení zákona č. 42/2019 Z. z., § 5 ods. 2 zákona č. 385/2019 Z. z.
 
 - 44) § 11 zákona č. 447/2008 Z. z. v znení neskorších predpisov.
-
-- 45) § 5 a 6 zákona č. 600/2003 Z. z. v znení zákona č. 468/2011 Z. z.
-
-- § 1 ods. 1 zákona č. 561/2008 Z. z. v znení neskorších predpisov.
-
-- § 3 ods. 2 písm. b) zákona č. 571/2009 Z. z.
 
 - 46) § 11 ods. 7 písm. b) zákona č. 447/2008 Z. z.
