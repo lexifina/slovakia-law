@@ -10,6 +10,16 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 
 - 2. V § 154 ods. 6 sa vypúšťa časť vety za bodkočiarkou.
 
+- 3. V § 184 ods. 5 sa na konci prvej vety bodka nahrádza čiarkou a pripájajú sa tieto slová: „ak odsek 12 neustanovuje inak.“ a vypúšťa sa tretia veta.
+
+- 4. § 184 sa dopĺňa odsekom 12, ktorý znie:
+
+- „(12)
+
+- Žiadosť o priznanie dávky v nezamestnanosti možno podať aj na úrade práce, sociálnych vecí a rodiny ako súčasť žiadosti o zaradenie do evidencie uchádzačov o zamestnanie; ak úrad práce, sociálnych vecí a rodiny nezaradí fyzickú osobu, ktorá požiadala o priznanie dávky v nezamestnanosti, do evidencie uchádzačov o zamestnanie, na túto žiadosť o priznanie dávky v nezamestnanosti sa neprihliada.“.
+
+- 5. V § 185 ods. 2 sa na konci pripájajú tieto slová: „alebo úradu práce, sociálnych vecí a rodiny spôsobom podľa § 184 ods. 12“.
+
 - 6. V § 233 ods. 10 a 11 sa za slovo „zákonom“ vkladá čiarka a slová „na účely konania vo veciach vymáhania pohľadávok“.
 
 - 7. § 233 sa dopĺňa odsekom 16, ktorý znie:
