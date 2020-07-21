@@ -194,7 +194,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - | Oprávnené inšpekcie zhody automatizovaných meracích systémov emisií, alebo kvality ovzdušia | | |
 
-- 79. | Pravidelná kontrola vykurovacích systémov, pravidelná kontrola klimatizačných systémov | osvedčenie | § 7 ods. 5 zákona č. 314/2012 Z. z. o pravidelnej kontrole vykurovacích systémov a klimatizačných systémov a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov |
+- 79. | Pravidelná kontrola vykurovacích systémov, pravidelná kontrola klimatizačných systémov | potvrdenie o zápise do zoznamu odborne spôsobilých osôb | § 7 ods. 1 zákona č. 314/2012 Z. z. o pravidelnej kontrole vykurovacích systémov a klimatizačných systémov a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov |
 
 - 80. | Prevádzkovanie pohrebiska alebo Prevádzkovanie pohrebnej služby alebo Prevádzkovanie krematória | osvedčenie o odbornej spôsobilosti | § 16 ods. 15 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov | III
 
