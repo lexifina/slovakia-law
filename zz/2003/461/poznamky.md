@@ -278,7 +278,7 @@
 
 - 93ad) § 29b ods. 19 zákona č. 580/2004 Z. z. v znení zákona č. 77/2015 Z. z.
 
-- 93ada) § 24 ods. 3 zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
+- 93ada) § 24 ods. 3 a § 24a zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
 - 93adb) § 2 písm. a) zákona č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a pôžičkách pre spotrebiteľov a o zmene a doplnení niektorých zákonov v znení zákona č. 394/2011 Z. z.
 
@@ -293,6 +293,10 @@
 - § 8 zákona č. 90/2016 Z. z. v znení zákona č. 299/2016 Z. z.
 
 - 93adf) Zákon č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratívnej záťaže využívaním informačných systémov verejnej správy a o zmene a doplnení niektorých zákonov (zákon proti byrokracii) v znení zákona č. 221/2019 Z. z.
+
+- 93adg) Čl. 4 ústavného zákona č. 493/2011 Z. z. o rozpočtovej zodpovednosti.
+
+- § 30a zákona č. 523/2004 Z. z. v znení zákona č. 436/2013 Z. z.
 
 - 93ae) § 105b ods. 1 Obchodného zákonníka.
 
