@@ -488,7 +488,7 @@
 
 - Zákon č. 385/1999 Z. z. v znení neskorších predpisov.
 
-- 88a) § 23 zákona č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení zákona č. 431/2004 Z. z.
+- 88a) § 31 ods. 1 zákona č. 157/2018 Z. z. o metrológii a o zmene a doplnení niektorých zákonov.
 
 - 88aa) § 4 ods. 6 zákona č. 171/2005 Z. z.
 
