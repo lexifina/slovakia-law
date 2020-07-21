@@ -28,12 +28,6 @@
 
 - 10a) § 26 ods. 1 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
-- 10b) § 2 ods. 5 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 352/2013 Z. z.
-
-- 10c) § 9 ods. 2 písm. b) zákona č. 431/2002 Z. z.
-
-- 10d) § 17 ods. 4 písm. b) zákona č. 431/2002 Z. z.
-
 - 11) Zákon Slovenskej národnej rady č. 322/1992 Zb. o štátnej štatistike v znení neskorších predpisov.
 
 - 12) Zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení neskorších predpisov.
