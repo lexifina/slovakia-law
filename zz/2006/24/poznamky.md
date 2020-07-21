@@ -105,3 +105,5 @@
 - 40) § 19b zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 40a) Napríklad zákon č. 50/1976 Zb. v znení neskorších predpisov, zákon č. 223/2001 Z. z. v znení neskorších predpisov, zákon č. 543/2002 Z. z. v znení neskorších predpisov, zákon č. 245/2003 Z. z. v znení neskorších predpisov, zákon č. 364/2004 Z. z. v znení neskorších predpisov, zákon č. 137/2010 Z. z. o ovzduší.
+
+- 40aa) § 5 ods. 4 písm. k) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení zákona č. 172/2011 Z. z.
