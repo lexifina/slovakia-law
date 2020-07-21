@@ -14,7 +14,7 @@
 
 - f) vykonávať činnosť pracovnej zdravotnej služby nestranne,
 
-- g) viesť dokumentáciu o vykonávaní odborných činností podľa § 30ab a § 30ad a dokumentáciu súvisiacu s povinnosťami zamestnávateľa podľa § 30 ods. 1 písm. a) až d), f), l) až n),
+- g) viesť dokumentáciu o vykonávaní odborných činností podľa § 30ab a § 30ad a dokumentáciu súvisiacu s povinnosťami zamestnávateľa podľa § 30 ods. 1 písm. a) až d), f), k) až m),
 
 - h) oznámiť bezodkladne úradu verejného zdravotníctva písomne zmenu obchodného mena alebo miesta podnikania, ak ide o fyzickú osobu – podnikateľa, obchodného mena, sídla alebo právnej formy, ak ide o právnickú osobu alebo osoby vedúceho tímu pracovnej zdravotnej služby,
 

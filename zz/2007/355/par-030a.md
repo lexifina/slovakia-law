@@ -1,6 +1,6 @@
 # § 30a Pracovná zdravotná služba
 
-(1) Pracovná zdravotná služba vykonáva zdravotný dohľad pre zamestnancov a poskytuje odborné a poradenské činnosti zamestnávateľovi na plnenie jeho povinností podľa § 30 ods. 1 písm. a) až d), f), l) až n) v oblasti ochrany a podpory zdravia pri práci.
+(1) Pracovná zdravotná služba vykonáva zdravotný dohľad pre zamestnancov a poskytuje odborné a poradenské činnosti zamestnávateľovi na plnenie jeho povinností podľa § 30 ods. 1 písm. a) až d), f), k) až m) v oblasti ochrany a podpory zdravia pri práci.
 
 (2) Činnosť pracovnej zdravotnej služby podľa odseku 1 zahŕňa najmä
 

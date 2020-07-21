@@ -78,7 +78,7 @@
 
 - a) špecializované pracovisko podľa odseku 17 písm. a) môže začať proces uznania choroby z povolania,
 
-- b) príslušný orgán verejného zdravotníctva môže na požiadanie špecializovaného pracoviska prešetriť pracovné podmienky a spôsob práce posudzovanej osoby pri podozrení na chorobu z povolania podľa odseku 17 písm. b); zamestnávateľ je povinný poskytnúť príslušnému orgánu verejného zdravotníctva súčinnosť podľa § 30 ods. 1 písm. n),
+- b) príslušný orgán verejného zdravotníctva môže na požiadanie špecializovaného pracoviska prešetriť pracovné podmienky a spôsob práce posudzovanej osoby pri podozrení na chorobu z povolania podľa odseku 17 písm. b); zamestnávateľ je povinný poskytnúť príslušnému orgánu verejného zdravotníctva súčinnosť podľa § 30 ods. 1 písm. m),
 
 - c) môže zasadnúť regionálna komisia, regionálna komisia na posudzovanie kožných chorôb z povolania a celoslovenská komisia podľa odseku 17 písm. c) alebo môže posudzovať chorobu z povolania per rollam.
 

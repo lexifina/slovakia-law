@@ -98,6 +98,8 @@
 
 - 16) § 39 zákona č. 39/2007 Z. z. o veterinárnej starostlivosti.
 
+- 16a) § 64 ods. 6 zákona č. 448/2008 Z. z. v znení zákona č. 221/2019 Z. z.
+
 - 17) Zákon č. 193/2005 Z. z. o rastlinolekárskej starostlivosti.
 
 - 18) Zákon č. 470/2005 Z. z. o pohrebníctve a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
@@ -161,6 +163,8 @@
 - 33) § 47 ods. 3 písm. b) prvý bod a písm. c) druhý bod a § 63 ods. 4 zákona č. 305/2005 Z. z.
 
 - 33a) § 3d ods. 5 zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
+
+- 33aa) § 2 písm. a) vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 123/2008 Z. z. o podrobnostiach o ochrane spoločenských zvierat a o požiadavkách na karanténne stanice a útulky pre zvieratá.
 
 - 33b) § 3 zákona č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -298,15 +302,15 @@
 
 - 62) § 12 až 15 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov.
 
-- 63) Zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov.
-
-- Zákon č. 541/2004 Z. z. v znení neskorších predpisov.
+- 63) Zákon č. 448/2008 Z. z. v znení neskorších predpisov.
 
 - 64) § 3 ods. 6 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov.
 
 - 65) Zákon č. 217/2003 Z. z. o podmienkach uvedenia biocídnych výrobkov na trh a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 65a) Nariadenie Európskeho parlamentu a Rady (EÚ) 2015/2283 z 25. novembra 2015 o nových potravinách, ktorým sa mení nariadenie Európskeho parlamentu a Rady (EÚ) č. 1169/2011, ktorým sa zrušuje nariadenie Európskeho parlamentu a Rady (ES) č. 258/97 a nariadenie Komisie (ES) č. 1852/2001 (Ú. v. EÚ L 327, 11. 12. 2015).
+
+- 65c) § 2 písm. d) zákona č. 505/2009 Z. z.
 
 - 66) § 26 ods. 1 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
