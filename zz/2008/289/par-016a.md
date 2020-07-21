@@ -2,7 +2,7 @@
 
 Správneho deliktu sa dopustí ten, kto
 
-- a) nepoužil elektronickú registračnú pokladnicu alebo pokladnicu e-kasa klient na evidenciu tržby podľa § 3 ods. 1 prvej vety alebo prijme tržbu na základe dokladu vyhotoveného elektronickou registračnou pokladnicou alebo pokladnicou e-kasa klient, ktorý nie je pokladničným dokladom, uvedie v žiadosti nepravdivú informáciu o dostupnosti internetového signálu na predajnom mieste podľa § 3a ods. 1 alebo nesplní povinnosť podľa § 3a ods. 3 alebo § 8 ods. 6,
+- a) nepoužil elektronickú registračnú pokladnicu alebo pokladnicu e-kasa klient na evidenciu tržby podľa § 3 ods. 1 prvej vety alebo prijme tržbu na základe dokladu vyhotoveného elektronickou registračnou pokladnicou alebo pokladnicou e-kasa klient, ktorý nie je pokladničným dokladom, uvedie v žiadosti nepravdivú informáciu o dostupnosti internetového signálu na predajnom mieste podľa § 3a ods. 1 alebo nesplní povinnosť podľa § 3a ods. 3 alebo § 8 ods. 5,
 
 - b) svojím zásahom vyradí elektronickú registračnú pokladnicu alebo pokladnicu e-kasa klient z prevádzky,
 
@@ -10,9 +10,9 @@ Správneho deliktu sa dopustí ten, kto
 
 - d) neodovzdá paragón podľa § 10 ods. 4,
 
-- e) zaeviduje tržbu v elektronickej registračnej pokladnici alebo v pokladnici e-kasa klient, ale neodovzdá pokladničný doklad podľa § 8 ods. 1, 2, 7, 9 a 10,
+- e) zaeviduje tržbu v elektronickej registračnej pokladnici alebo v pokladnici e-kasa klient, ale neodovzdá pokladničný doklad podľa § 8 ods. 1, 2, 6, 8 a 9,
 
-- f) odovzdá pokladničný doklad, doklad alebo paragón, ktoré nespĺňajú náležitosti podľa § 8 ods. 1, 2, 7, 9 a 10 alebo § 10 ods. 4 a 6,
+- f) odovzdá pokladničný doklad, doklad alebo paragón, ktoré nespĺňajú náležitosti podľa § 8 ods. 1, 2, 6, 8 a 9 alebo § 10 ods. 4 a 6,
 
 - g) nemá knihu elektronickej registračnej pokladnice umiestnenú na predajnom mieste podľa § 2 písm. aw),
 
@@ -30,7 +30,7 @@ Správneho deliktu sa dopustí ten, kto
 
 - n) neodovzdá kupujúcemu pokladničný doklad alebo paragón podľa § 8 ods. 4,
 
-- o) nesplní povinnosť podľa § 3 ods. 8, § 3a ods. 4 alebo § 8 ods. 5,
+- o) nesplní povinnosť podľa § 3 ods. 8 alebo § 3a ods. 4,
 
 - p) nesplní povinnosť podľa § 9 alebo § 10 ods. 7,
 

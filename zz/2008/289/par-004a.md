@@ -50,7 +50,7 @@
 
 - p) elektronické zaslanie pokladničného dokladu vyhotoveného pokladnicou e-kasa klient kupujúcemu až po zaevidovaní dátovej správy v systéme e-kasa; to neplatí, ak sa prekročí hraničná doba odozvy,
 
-- q) zhodu údajov podľa § 8 ods. 2, 7 a 10 s údajmi zasielanými do systému e-kasa podľa § 8a,
+- q) zhodu údajov podľa § 8 ods. 2, 6 a 9 s údajmi zasielanými do systému e-kasa podľa § 8a,
 
 - r) zasielanie údajov podľa § 8a do systému e-kasa,
 

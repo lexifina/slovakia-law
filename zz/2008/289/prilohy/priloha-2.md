@@ -1,6 +1,6 @@
 Príloha č. 2 k zákonu č. 289/2008 Z. z.
 
-- OCHRANNÝ ZNAK [Obrázok](../assets/5170e10470cba304cc63f018143d2b567d0625eb76f3d9ec0b220e7fc9571fcc.pdf)
+- OCHRANNÝ ZNAK [Obrázok](../assets/b97323fa7e6cb904af1b3bd5748a1c2df1a96875805a0402cb4e84cb8a3a4ab5.pdf)
 
   - Vysvetlivka
 
