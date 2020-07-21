@@ -12,7 +12,7 @@
 
 - a) kópia dokladu, ktorý oprávňuje na vykonávanie chovu rýb, ak žiadateľ nie je zapísaný v registri právnických osôb, podnikateľov a orgánov verejnej moci,
 
-- b) údaje podľa osobitného predpisu<sup>5aa</sup>) potrebné na účel overenia vlastníckeho práva k vodnej ploche a ak žiadateľ nie je vlastníkom vodnej plochy, aj kópia zmluvy o prenájme vodnej plochy,
+- b) kópia dokladu preukazujúceho vlastnícke právo žiadateľa k vodnej stavbe tvoriacej zariadenie na chov rýb, ak žiadateľ nie je vlastníkom tejto vodnej stavby, kópia zmluvy alebo iného dokladu, ktorý oprávňuje žiadateľa užívať túto vodnú stavbu,
 
 - c) doklad o odbornom vzdelaní žiadateľa alebo ním poverenej osoby, ktorá bude vykonávať odborný dozor so zameraním na chov rýb,
 
@@ -22,6 +22,8 @@
 
 - f) druhy rýb, ktoré chovateľ chová alebo chce chovať, a ich pôvod.
 
-(4) Chovateľ je povinný bezodkladne oznámiť ministerstvu všetky zmeny týkajúce sa vydania osvedčenia podľa odseku 1.
+(4) Postupom podľa odseku 3 písm. b) nie sú dotknuté práva a povinnosti žiadateľa vysporiadať si svoje právne vzťahy podľa osobitného predpisu.<sup>5ba</sup>)
 
-(5) Na účely informovania verejnosti ministerstvo zverejňuje o držiteľoch osvedčení na chov rýb údaje podľa odseku 1.
+(5) Chovateľ je povinný bezodkladne oznámiť ministerstvu všetky zmeny týkajúce sa vydania osvedčenia podľa odseku 1.
+
+(6) Na účely informovania verejnosti ministerstvo zverejňuje o držiteľoch osvedčení na chov rýb údaje podľa odseku 1.
