@@ -134,6 +134,14 @@ Nariadenie vlády Slovenskej republiky č. 200/2019 Z. z. o poskytovaní pomoci 
 
   - Doterajšie písmená g) až l) sa označujú ako písmená i) až n).
 
+- 32. V § 7 ods. 2 sa za písmeno k) vkladá nové písmeno l), ktoré znie:
+
+- „l)
+
+- písomné vyhlásenie schváleného žiadateľa, že má vysporiadané finančné vzťahy so štátnym rozpočtom,“.
+
+  - Doterajšie písmená l) až n) sa označujú ako písmená m) až o).
+
 - 33. V § 7 ods. 4 sa za slovom „pomoc“ spojka „a“ nahrádza čiarkou.
 
 - 34. V § 7 ods. 5 sa slová „nezabezpečil tieto činnosti najmenej počas dvoch realizačných období“ nahrádzajú slovami „nesplnil povinnosť podľa § 6 ods. 13“ a na konci sa pripája táto veta: „Ak sa celková výška pomoci, ktorá sa schválenému žiadateľovi poskytuje na dodávanie alebo distribúciu schválených mliečnych výrobkov alebo schváleného ovocia a zeleniny počas realizačného obdobia, znížila podľa osobitného predpisu<sup>40a</sup>) z dôvodu podania žiadosti podľa odseku 1 po lehote ustanovenej osobitným predpisom,<sup>36</sup>) táto znížená výška pomoci sa znižuje podľa tohto odseku.“.
@@ -151,6 +159,16 @@ Nariadenie vlády Slovenskej republiky č. 200/2019 Z. z. o poskytovaní pomoci 
 - 38. V § 7 ods. 11 písm. f), ods. 13 písm. e) a ods. 15 písm. d) sa vypúšťajú slová „a výdavkov“.
 
 - 39. V § 7 ods. 11 písm. g), ods. 13 písm. g) a ods. 15 písm. f) sa slová „g), h) a j) až l)“ nahrádzajú slovami „i), j) a l) až n)“.
+
+- 40. V § 7 ods. 11 písm. g), ods. 13 písm. g) a ods. 15 písm. f) sa slová „až n)“ nahrádzajú slovami „až o)“.
+
+- 41. V § 7 ods. 18 sa za písmeno b) vkladá nové písmeno c), ktoré znie:
+
+- „c)
+
+- ktorý má vysporiadané finančné vzťahy so štátnym rozpočtom,“.
+
+  - Doterajšie písmená c) až e) sa označujú ako písmená d) až f).
 
 - 42. V § 7 ods. 18 písm. c) sa za slovo „uskutočňovaný“ vkladá slovo „nútený“.
 
@@ -179,6 +197,210 @@ Nariadenie vlády Slovenskej republiky č. 200/2019 Z. z. o poskytovaní pomoci 
 - 45. Poznámka pod čiarou k odkazu 43 znie:
 
 - „<sup>43</sup>) Čl. 4 ods. 1 písm. b) a c), ods. 3 a 4 delegovaného nariadenia (EÚ) 2017/40.“.
+
+- 46. Za § 8 sa vkladajú § 8a a 8b, ktoré vrátane nadpisov znejú:
+
+- „§ 8a
+
+- Prechodné ustanovenie k úpravám účinným od 1. augusta 2020
+
+- Žiadosti o schválenie poskytovania pomoci na zabezpečovanie činností podľa § 1 písm. a) až d) v období, ktoré sa začalo v príslušnom školskom roku, ktorý sa začal v kalendárnom roku 2019, žiadosti o zmenu alebo doplnenie schválenia poskytovania pomoci na zabezpečovanie činností podľa § 1 písm. a) až d) v období, ktoré sa začalo v príslušnom školskom roku, ktorý sa začal v kalendárnom roku 2019, žiadosti o pridelenie maximálnej výšky pomoci na zabezpečovanie činností podľa § 1 písm. a) až d) v príslušnom školskom roku, ktorý sa začal v kalendárnom roku 2019, a žiadosti o poskytnutie pomoci na zabezpečovanie činností podľa § 1 písm. a) až d) v príslušnom školskom roku, ktorý sa začal v kalendárnom roku 2019, o ktorých sa právoplatne nerozhodlo do 31. júla 2020, sa posudzujú podľa tohto nariadenia vlády v znení účinnom do 31. júla 2020.“.
+
+- 47. Prílohy č. 1 a 2 vrátane nadpisov znejú:
+
+- „Príloha č. 1
+
+- k nariadeniu vlády č. 200/2019 Z. z.
+
+- ZOZNAM MLIEČNYCH VÝROBKOV, MAXIMÁLNA VEĽKOSŤ ICH PORCIÍ PRE JEDNÉHO ŽIAKA, VÝŠKA POMOCI NA ICH DODÁVANIE ALEBO DISTRIBÚCIU PRE ŽIAKOV A NAJVYŠŠIA ÚHRADA, KTORÚ ZA NE MOŽNO ŽIADAŤ OD ŠKOLY ALEBO OD ZMLUVNÉHO ŽIAKA
+
+- Tabuľka A
+
+- Zoznam neochutených mliečnych výrobkov, na ktorých dodávanie alebo distribúciu pre žiakov možno poskytnúť pomoc
+
+- P. č. | Názov mliečneho výrobku | Číselný kód položky alebo podpoložky nomen-klatúry tovaru stanovenej Európskou komisiou, pod ktorú sa mliečny výrobok zaraďuje | Skupina, pod ktorú sa mliečny výrobok zaraďuje | Druh a veľkosť balenia mliečneho výrobku | Maximálna veľkosť jednej porcie mliečneho výrobku pre jedného žiaka na deň | Výška pomoci na zabezpečova-nie činnosti podľa § 1 písm. a) na dodanie alebo distribúciu jedného balenia alebo jedného kg mliečneho výrobku v eurách bez dane | Najvyššia úhrada v eurách, ktorú možno žiadať od školy alebo od zmluvné-ho žiaka za jedno balenie alebo za jeden kg mliečne-ho výrobku
+
+- 1. | **plnotučné mlieko neochutené, ultravysokotepelne ohriate (UHT) | 0401 | A | kartón/fľaša 1 l | 250 ml | 0,831 | 0,084
+
+- 2. | **plnotučné mlieko neochutené, pasterizované alebo vysokopasterizované | 0401 | A | kartón/vrecko/fľaša 1 l | 250 ml | 0,843 | 0,085
+
+- 3. | **plnotučné mlieko neochutené s vitamínmi, ultravysokotepelne ohriate (UHT) | 0401 | A | kartón 1 l | 250 ml | 1,070 | 0,107
+
+- 4. | **polotučné mlieko neochutené, ultravysokotepelne ohriate (UHT) | 0401 | A | kartón/fľaša 1 l | 250 ml | 0,662 | 0,067
+
+- 5. | **polotučné mlieko neochutené, pasterizované alebo vysokopasterizované | 0401 | A | kartón/vrecko/fľaša 1 l | 250 ml | 0,689 | 0,069
+
+- 6. | **polotučné mlieko neochutené s vitamínmi, ultravysokotepelne ohriate (UHT) | 0401 | A | kartón 1 l | 250 ml | 0,958 | 0,096
+
+- 7. | **polotučné mlieko bezlaktózové, ultravysokotepelne ohriate (UHT) | 0404 | A | kartón 1 l | 250 ml | 1,033 | 0,207
+
+- 8. | **polotučné mlieko bezlaktózové, ultravysokotepelne ohriate (UHT) | 0404 | A | kartón 250 ml | 250 ml | 0,360 | 0,072
+
+- 9. | **polotučné mlieko neochutené s vitamínmi, ultravysokotepelne ohriate (UHT) | 0401 | A | kartón 250 ml | 250 ml | 0,296 | 0,030
+
+- 10. | **polotučné mlieko neochutené s vitamínmi, ultravysokotepelne ohriate (UHT) | 0401 | A | téglik 200 ml | 200 ml | 0,228 | 0,023
+
+- 11. | **polotučné mlieko neochutené, ultravysokotepelne ohriate (UHT) | 0401 | A | kartón 250 ml | 250 ml | 0,336 | 0,034
+
+- 12. | **polotučné mlieko neochutené, ultravysokotepelne ohriate (UHT) | 0401 | A | téglik 200 ml | 200 ml | 0,269 | 0,027
+
+- 13. | **polotučné mlieko neochutené, pasterizované alebo vysokopasterizované | 0401 | A | téglik 250 g | 250 g | 0,360 | 0,040
+
+- 14. | **plnotučné mlieko neochutené, pasterizované alebo vysokopasterizované | 0401 | A | kartón/vrecko/fľaša 0,5 l | 250 ml | 0,422 | 0,043
+
+- 15. | **polotučné mlieko bezlaktózové, pasterizované alebo vysokopasterizované | 0404 | A | kartón/vrecko/fľaša 1 l | 250 ml | 1,042 | 0,209
+
+- 16. | **zakysané mlieko | 0403 | B | téglik 200 ml | 200 ml | 0,268 | 0,027
+
+- 17. | **zakysané mlieko | 0403 | B | téglik 200 g | 200 g | 0,268 | 0,027
+
+- 18. | **zakysané mlieko | 0403 | B | téglik 250 g | 250 g | 0,335 | 0,034
+
+- 19. | **zakysané mlieko | 0403 | B | kartón/vrecko/ fľaša 0,5 l | 250 ml | 0,672 | 0,068
+
+- 20. | **zakysané mlieko | 0403 | B | kartón 950 g | 250 g | 1,277 | 0,128
+
+- 21. | **acidofilné mlieko | 0403 | B | téglik 230 ml | 230 ml | 0,352 | 0,036
+
+- 22. | **acidofilné mlieko | 0403 | B | téglik 200 g | 200 g | 0,311 | 0,032
+
+- 23. | **acidofilné mlieko | 0403 | B | téglik 250 g | 250 g | 0,390 | 0,039
+
+- 24. | **jogurt biely | 0403 | B | téglik 125 g | 125 g | 0,309 | 0,031
+
+- 25. | **jogurt biely | 0403 | B | téglik 135 g | 135 g | 0,318 | 0,032
+
+- 26. | **jogurt biely | 0403 | B | téglik 145 g | 145 g | 0,345 | 0,035
+
+- 27. | **jogurt biely | 0403 | B | téglik 150 g | 150 g | 0,355 | 0,036
+
+- 28. | **jogurt biely nízkotučný | 0403 | B | téglik 150 g | 150 g | 0,283 | 0,029
+
+- 29. | **jogurt biely bezlaktózový | 0403 | B | téglik 145 g | 145 g | 0,400 | 0,040
+
+- 30. | **jogurtový nápoj neochutený | 0403 | B | kartón/vrecko/ fľaša 0,5 l | 250 ml | 1,173 | 0,118
+
+- 31. | **tvaroh hrudkovitý | 0406 | B | fólia 200 g | 85 g | 0,783 | 0,157
+
+- 32. | **tvaroh hrudkovitý | 0406 | B | téglik, fólia 250 g | 85 g | 0,958 | 0,192
+
+- 33. | **tvaroh hrudkovitý | 0406 | B | fólia 500 g | 85 g | 1,900 | 0,380
+
+- 34. | **tvaroh hrudkovitý odtučnený | 0406 | B | fólia/vedro/vrece 1 000-5 000 g | 85 g | 4,042 | 0,809
+
+- 35. | *tvaroh hrudkovitý | 0406 | B | fólia/vedro/vrece 1 000-5 000 g | 85 g | 4,333 | 0,867
+
+- 36. | **tvaroh termizovaný | 0406 | B | téglik 250 g | 85 g | 0,883 | 0,177
+
+- 37. | **tvaroh jemný hrudkovitý bezlaktózový | 0406 | B | téglik 180 g | 85 g | 1,050 | 0,210
+
+- 38. | **mäkký čerstvý nízkotučný syr | 0406 | B | téglik 180 g | 85 g | 0,817 | 0,164
+
+- 39. | *polomäkký nezrejúci parený neúdený syr | 0406 | B | fólia 800 – 1 700 g/fólia 20 g, 80 g a 150 g | 30 g | 8,542 | 1,709
+
+- 40. | *polotvrdý zrejúci stredne tučný syr 30 % | 0406 | B | fólia 1 000 – 2 800 g | 30 g | 5,708 | 1,142
+
+- 41. | *polotvrdý zrejúci plnotučný syr 45 % | 0406 | B | fólia 1 000 – 2 800 g | 30 g | 5,375 | 1,075
+
+- 42. | **polotvrdý zrejúci plnotučný syr 45 % | 0406 | B | fólia 400 g | 30 g | 2,125 | 0,425
+
+- 43. | **polotvrdý zrejúci plnotučný syr 45 %, plátky | 0406 | B | tácka 100 g | 30 g | 0,792 | 0,159
+
+- 44. | **polotvrdý zrejúci plnotučný syr 45 %, plátky | 0406 | B | fólia 30 g | 30 g | 0,292 | 0,059
+
+- Vysvetlivky:
+
+- *Výška pomoci na zabezpečovanie činností podľa § 1 písm. a) a najvyššia úhrada, ktorú možno žiadať od školy alebo od zmluvného žiaka, sú ustanovené na 1 kg mliečneho výrobku.
+
+- **Výška pomoci na zabezpečovanie činností podľa § 1 písm. a) a najvyššia úhrada, ktorú možno žiadať od školy alebo od zmluvného žiaka, sú ustanovené na jedno balenie mliečneho výrobku.
+
+- Tabuľka B
+
+- Zoznam ochutených mliečnych výrobkov, na ktorých dodávanie alebo distribúciu pre žiakov možno poskytnúť pomoc
+
+- P. č. | Názov mliečneho výrobku | Číselný kód položky alebo podpoložky nomen-klatúry tovaru stanovenej Európskou komisiou, pod ktorú sa mliečny výrobok zaraďuje | Skupina, pod ktorú sa mliečny výrobok zaraďuje | Druh a veľkosť balenia mliečneho výrobku | Maximálna veľkosť jednej porcie mliečneho výrobku pre jedného žiaka na deň | Výška pomoci na zabezpečova-nie činnosti podľa § 1 písm. a) na dodanie alebo distribúciu jedného balenia mliečneho výrobku v eurách bez dane | Najvyššia úhrada v eurách, ktorú možno žiadať od školy alebo od zmluvné-ho žiaka za jedno balenie mliečneho výrobku
+
+- 1. | polotučné mlieko ochutené s vitamínmi, ultravysokotepelne ohriate (UHT) | 0402 | C | kartón 1l | 250 ml | 0,236 | 0,898
+
+- 2. | polotučné mlieko ochutené, ultravysokotepelne ohriate (UHT) | 0402 | C | kartón 250 ml | 250 ml | 0,059 | 0,399
+
+- 3. | polotučné mlieko ochutené s vitamínmi. ultravysokotepelne ohriate (UHT) | 0402 | C | téglik 200 ml | 200 ml | 0,047 | 0,306
+
+- 4. | acidofilné mlieko ochutené | 0403 | C | téglik 250 g | 250 g | 0,059 | 0,353
+
+- 5. | tvarohový dezert ochutený | 0406 | C | téglik 80 g | 80 g | 0,019 | 0,403
+
+- 6. | jogurt ochutený | 0403 | D | téglik 125 g | 125 g | 0,025 | 0,284
+
+- 7. | jogurt ochutený | 0403 | D | téglik 135 g | 135 g | 0,027 | 0,303
+
+- 8. | jogurt ochutený | 0403 | D | téglik 145 g | 145 g | 0,029 | 0,332
+
+- 9. | jogurt ochutený | 0403 | D | téglik 150 g | 150 g | 0,030 | 0,341
+
+- 10. | jogurt ochutený | 0403 | D | téglik 150 ml | 150 ml | 0,030 | 0,351
+
+- 11. | jogurtový nápoj ochutený | 0403 | D | kartón/vrecko/fľaša 0,5 l | 250 ml | 0,099 | 1,188
+
+- Vysvetlivky ku skupinám, do ktorých sa zaraďujú mliečne výrobky uvedené v tabuľke A a v tabuľke B
+
+- Skupina, do ktorej sa mliečny výrobok zaraďuje | Ustanovenie nariadenia (EÚ) č. 1308/2013 v platnom znení, v ktorom sa skupina mliečnych výrobkov vymedzuje | Vymedzenie skupiny mliečnych výrobkov podľa nariadenia (EÚ) č. 1308/2013 v platnom znení
+
+- A | čl. 23 ods. 3 písm. b) | konzumné mlieko a jeho bezlaktózové variácie
+
+- B | čl. 23 ods. 4 písm. b) | syr, tvaroh, jogurt a iné fermentované alebo acidofilné mliečne výrobky bez pridaných ochucujúcich látok, ovocia, orechov alebo kakaa
+
+- C | príloha V kategória I | fermentované mliečne výrobky neobsahujúce ovocnú šťavu, prírodne ochutené, fermentované mliečne výrobky obsahujúce ovocnú šťavu, prírodne ochutené alebo neochutené, mliečne nápoje obsahujúce kakao, ovocnú šťavu alebo prírodne ochutené
+
+- D | príloha V kategória II | fermentované alebo nefermentované mliečne výrobky obsahujúce ovocie, prírodne ochutené alebo neochutené
+
+- Príloha č. 2
+
+- k nariadeniu vlády č. 200/2019 Z. z.
+
+- ZOZNAM OVOCIA A ZELENINY, MAXIMÁLNA VEĽKOSŤ ICH PORCIÍ PRE JEDNÉHO ŽIAKA, VÝŠKA POMOCI NA ICH DODÁVANIE ALEBO DISTRIBÚCIU PRE ŽIAKOV A NAJVYŠŠIA ÚHRADA, KTORÚ ZA NE MOŽNO ŽIADAŤ OD ŠKOLY ALEBO OD ZMLUVNÉHO ŽIAKA
+
+- P. č. | Názov ovocia a zeleniny | Číselný kód položky alebo podpoložky nomenklatúry tovaru stanovenej Európskou komisiou, pod ktorú sa ovocie a zelenina zaraďuje | Maximálna veľkosť jednej porcie ovocia a zeleniny pre jedného žiaka na deň | Výška pomoci na zabezpečovanie činnosti podľa § 1 písm. b) na dodanie alebo distribúciu jedného kg alebo jedného litra ovocia a zeleniny v eurách bez dane | Najvyššia úhrada v eurách, ktorú možno žiadať od školy alebo od zmluvného žiaka za jeden kg alebo za jeden liter ovocia a zeleniny
+
+- 1. | *jablko | 0808 | do 200 g | 1,254 | 0,126
+
+- 2. | *hruška | 0808 | do 200 g | 1,322 | 0,133
+
+- 3. | *broskyňa | 0809 | do 200 g | 1,446 | 0,290
+
+- 4. | *marhuľa | 0809 | do 200 g | 1,887 | 0,378
+
+- 5. | *slivka | 0809 | do 200 g | 1,322 | 0,265
+
+- 6. | *čerešňa | 0809 | do 200 g | 4,418 | 0,884
+
+- 7. | *jahody | 0810 | do 200 g | 3,910 | 0,782
+
+- 8. | *drobné bobuľové ovocie (ríbezle, maliny, čučoriedky) | 0810 | do 125 g | 13,817 | 2,764
+
+- 9. | *rajčiak | 0702 00 00 | do 200 g | 1,853 | 0,186
+
+- 10. | *paprika | 0709 | do 200 g | 1,865 | 0,187
+
+- 11. | *reďkovka | 0706 | do 200 g | 0,893 | 0,179
+
+- 12. | *kaleráb | 0704 | do 200 g | 1,300 | 0,130
+
+- 13. | *mrkva | 0706 | do 200 g | 1,051 | 0,211
+
+- 14. | *hrášok zelený, nelúpaný | 0708 | do 200 g | 3,705 | 0,371
+
+- 15. | **ovocné a zeleninové šťavy 100 % | 2009 | do 200 ml | 3,112 | 0,312
+
+- 16. | *ovocné pyré | 2007 | do 200 g | 3,277 | 0,656
+
+- 17. | *sušené jablkové lupienky | 0813 2008 | do 30 g | 21,707 | 4,342
+
+- Vysvetlivky:
+
+- *Výška pomoci na zabezpečovanie činností podľa § 1 písm. b) a najvyššia úhrada, ktorú možno žiadať od školy alebo od zmluvného žiaka, sú ustanovené na 1 kg ovocia a zeleniny.
+
+- **Výška pomoci na zabezpečovanie činností podľa § 1 písm. b) a najvyššia úhrada, ktorú možno žiadať od školy alebo od zmluvného žiaka, sú ustanovené na jeden liter ovocia a zeleniny.“.
 
 - 48. Príloha č. 3 sa dopĺňa piatym bodom a šiestym bodom, ktoré znejú:
 
