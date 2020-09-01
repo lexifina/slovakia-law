@@ -10,4 +10,4 @@ Zákon č. 274/2009 Z. z. o poľovníctve a o zmene a doplnení niektorých zák
 
 - 2. Za prílohu č. 2 sa vkladá príloha č. 2a, ktorá znie:
 
-- „[Príloha č. 2a k zákonu č. 274/2009 Z. z. - pdf](assets/d7262a649dd49a50737c42581280cd7c1be75a1bcdca601c1a30d30ea3d88fdb.pdf)“.
+- „[Príloha č. 2a k zákonu č. 274/2009 Z. z. - pdf](assets/84469677e7cc49059b79055e7321f44892cffc3daaa28b0e2854bf4121f765f0.pdf)“.
