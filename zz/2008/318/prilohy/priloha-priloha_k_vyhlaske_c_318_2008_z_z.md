@@ -38,85 +38,83 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
   - 10 | matematika | | 150´ | | 20´ | 20´
 
-  - 11 | náuka o spoločnosti | | – | – | 20´ | 20´
-
-  - 12 | nemecký jazyk | C1 | 150´ | 90´ | 20´ | 20´
+  - 11 | nemecký jazyk | C1 | 150´ | 90´ | 20´ | 20´
 
   - | | B2 | 120´ | 60´ | 20´ | 20´
 
   - | | B1 | 100´ | 60´ | 20´ | 20´
 
-  - 13 | občianska náuka | | – | – | 20´ | 20´
+  - 12 | občianska náuka | | – | – | 20´ | 20´
 
-  - 14 | ruský jazyk | C1 | 150´ | 90´ | 20´ | 20´
-
-  - | | B2 | 120´ | 60´ | 20´ | 20´
-
-  - | | B1 | 100´ | 60´ | 20´ | 20´
-
-  - 15 | slovenský jazyk a literatúra | | 100´ | 150´ | 20´ | 20´
-
-  - 16 | slovenský jazyk a slovenská literatúra<sup>4</sup>) | | 100´ | 90´ | 20´ | 20´
-
-  - 17 | španielsky jazyk | C1 | 150´ | 90´ | 20´ | 20´
+  - 13 | ruský jazyk | C1 | 150´ | 90´ | 20´ | 20´
 
   - | | B2 | 120´ | 60´ | 20´ | 20´
 
   - | | B1 | 100´ | 60´ | 20´ | 20´
 
-  - 18 | taliansky jazyk | C1 | 150´ | 90´ | 20´ | 20´
+  - 14 | slovenský jazyk a literatúra | | 100´ | 150´ | 20´ | 20´
+
+  - 15 | slovenský jazyk a slovenská literatúra<sup>4</sup>) | | 100´ | 90´ | 20´ | 20´
+
+  - 16 | španielsky jazyk | C1 | 150´ | 90´ | 20´ | 20´
 
   - | | B2 | 120´ | 60´ | 20´ | 20´
 
   - | | B1 | 100´ | 60´ | 20´ | 20´
 
-  - 19 | ukrajinský jazyk a literatúra | | 100´ | 150´ | 20´ | 20´
+  - 17 | taliansky jazyk | C1 | 150´ | 90´ | 20´ | 20´
 
-  - 20 | teoretická časť odbornej zložky | | – | – | 30´ | 30´
+  - | | B2 | 120´ | 60´ | 20´ | 20´
 
-  - 21 | praktická časť odbornej zložky | | – | max. 24 hodín (príprava a výkon) | |
+  - | | B1 | 100´ | 60´ | 20´ | 20´
 
-  - 22 | dejiny umenia<sup>5</sup>) | | – | – | 20´ | 20´
+  - 18 | ukrajinský jazyk a literatúra | | 100´ | 150´ | 20´ | 20´
 
-  - 23 | deskriptívna geometria<sup>5</sup>) | | – | – | 30´ | 20´
+  - 19 | teoretická časť odbornej zložky | | – | – | 30´ | 30´
 
-  - 24 | ekológia<sup>5</sup>) | | – | – | 20´ | 20´
+  - 20 | praktická časť odbornej zložky | | – | max. 24 hodín (príprava a výkon) | |
 
-  - 25 | ekonomika<sup>5</sup>) | | – | – | 20´ | 20´
+  - 21 | dejiny umenia<sup>5</sup>) | | – | – | 20´ | 20´
 
-  - 26 | estetika<sup>5</sup>) | | – | – | 20´ | 20´
+  - 22 | deskriptívna geometria<sup>5</sup>) | | – | – | 30´ | 20´
 
-  - 27 | evanjelické a. v. náboženstvo<sup>6</sup>) | | – | – | 20´ | 20´
+  - 23 | ekológia<sup>5</sup>) | | – | – | 20´ | 20´
 
-  - 28 | kresťanská etika<sup>6</sup>) | | – | – | 20´ | 20´
+  - 24 | ekonomika<sup>5</sup>) | | – | – | 20´ | 20´
 
-  - 29 | latinčina | | – | – | 20´ | 20´
+  - 25 | estetika<sup>5</sup>) | | – | – | 20´ | 20´
 
-  - 30 | právo<sup>5</sup>) | | – | – | 20´ | 20´
+  - 26 | evanjelické a. v. náboženstvo<sup>6</sup>) | | – | – | 20´ | 20´
 
-  - 31 | psychológia<sup>5</sup>) | | – | – | 20´ | 20´
+  - 27 | kresťanská etika<sup>6</sup>) | | – | – | 20´ | 20´
 
-  - 32 | reformované náboženstvo<sup>6</sup>) | | – | – | 20´ | 20´
+  - 28 | latinčina | | – | – | 20´ | 20´
 
-  - 33 | katolícke náboženstvo<sup>6</sup>) | | – | – | 20´ | 20´
+  - 29 | právo<sup>5</sup>) | | – | – | 20´ | 20´
 
-  - 34 | stretnutia s ľudovou kultúrou<sup>5</sup>) | | – | – | 20´ | 20´
+  - 30 | psychológia<sup>5</sup>) | | – | – | 20´ | 20´
 
-  - 35 | športový manažment | | – | – | 20´ | 20´
+  - 31 | reformované náboženstvo<sup>6</sup>) | | – | – | 20´ | 20´
 
-  - 36 | základy športovej prípravy | | – | – | 20´ | 20´
+  - 32 | katolícke náboženstvo<sup>6</sup>) | | – | – | 20´ | 20´
 
-  - 37 | muzikál | | – | – | 20´ | 20´
+  - 33 | stretnutia s ľudovou kultúrou<sup>5</sup>) | | – | – | 20´ | 20´
 
-  - 38 | literárna tvorba | | – | – | 20´ | 20´
+  - 34 | športový manažment | | – | – | 20´ | 20´
 
-  - 39 | poľský jazyk | | – | – | 20´ | 20´
+  - 35 | základy športovej prípravy | | – | – | 20´ | 20´
 
-  - 40 | chorvátsky jazyk | | – | – | 20´ | 20´
+  - 36 | muzikál | | – | – | 20´ | 20´
 
-  - 41 | umenie a kultúra | | – | – | 20´ | 20´
+  - 37 | literárna tvorba | | – | – | 20´ | 20´
 
-  - 42 | rómsky jazyk a literatúra | | – | – | 20´ | 20´
+  - 38 | poľský jazyk | | – | – | 20´ | 20´
+
+  - 39 | chorvátsky jazyk | | – | – | 20´ | 20´
+
+  - 40 | umenie a kultúra | | – | – | 20´ | 20´
+
+  - 41 | rómsky jazyk a literatúra | | – | – | 20´ | 20´
 
   - II. ČASŤ PODROBNOSTI O SPÔSOBE KONANIA EXTERNEJ ČASTI A PÍSOMNEJ FORMY INTERNEJ ČASTI MATURITNEJ SKÚŠKY
 
