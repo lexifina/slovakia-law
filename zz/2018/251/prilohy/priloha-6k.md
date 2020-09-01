@@ -1,1 +1,1 @@
-Príloha č. 6 k vyhláške č. 251/2018 Z. z. [Príloha č. 6 k vyhláške č. 251/2018 Z. z.](../assets/7f3078e0e3e54ff2183332de32eb60529f8811b6f793b77bd3b9375b06d682af.pdf)
+Príloha č. 6 k vyhláške č. 251/2018 Z. z. [Príloha č. 6 k vyhláške č. 251/2018 Z. z.](../assets/dee98bf50f90de18107547004a3d596a96ca2b828dcd53214c54cd9cf3d237c7.pdf)

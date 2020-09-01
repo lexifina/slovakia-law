@@ -1,1 +1,1 @@
-Príloha č. 7 k vyhláške č. 251/2018 Z. z. [Skupina študijných odborov a ich zamerania v konzervatóriu](../assets/87472c8026151ac76483e749bb955fed986cd2956ba861cbcc596e6792203008.pdf)
+Príloha č. 7 k vyhláške č. 251/2018 Z. z. [Skupina študijných odborov a ich zamerania v konzervatóriu](../assets/fa2ae9d1b6bd21eb40695b56c61cce1599dfc119fa8f5c56627536672c189c77.pdf)
