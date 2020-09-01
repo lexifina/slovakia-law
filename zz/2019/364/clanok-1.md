@@ -6,6 +6,8 @@ Zákon č. 106/2018 Z. z. o prevádzke vozidiel v cestnej premávke a o zmene a 
 
 - 2. V § 2 ods. 2 písm. s) sa za slovo „montáž“ vkladá čiarka a slová „opravu a údržbu“.
 
+- 3. V poznámke pod čiarou k odkazu 11 sa vypúšťa citácia „nariadenie vlády Slovenskej republiky č. 140/2009 Z. z., ktorým sa ustanovujú podrobnosti o typovom schvaľovaní motorových vozidiel a ich prípojných vozidiel, systémov, komponentov a samostatných technických jednotiek určených pre tieto vozidlá v znení neskorších predpisov,“ a na konci sa bodka nahrádza čiarkou a pripája sa táto citácia: „nariadenie Európskeho parlamentu a Rady (EÚ) 2018/858 z 30. mája 2018 o schvaľovaní motorových vozidiel a ich prípojných vozidiel, ako aj systémov, komponentov a samostatných technických jednotiek určených pre takéto vozidlá a o dohľade nad trhom s nimi, ktorým sa menia nariadenia (ES) č. 715/2007 a (ES) č. 595/2009 a zrušuje smernica 2007/46/ES (Ú. v. EÚ L 151, 14. 6. 2018).“.
+
 - 4. V § 2 sa za odsek 28 vkladá nový odsek 29, ktorý znie:
 
 - „(29)
@@ -18,6 +20,16 @@ Zákon č. 106/2018 Z. z. o prevádzke vozidiel v cestnej premávke a o zmene a 
 
   - „<sup>13a</sup>) Napríklad Dohovor o prepravnej zmluve v medzinárodnej cestnej nákladnej doprave (CMR) (vyhláška ministra zahraničných vecí č. 11/1975 Zb.) v platnom znení.“.
 
+- 5. Poznámky pod čiarou k odkazom 15, 20, 26 a 103 znejú:
+
+- „<sup>15</sup>) Čl. 4 a príloha I nariadenia (EÚ) 2018/858.
+
+- <sup>20</sup>) Nariadenie (EÚ) 2018/858.
+
+- <sup>26</sup>) Čl. 49 nariadenia (EÚ) 2018/858.
+
+- <sup>103</sup>) Čl. 68 a dodatok 1 prílohy III nariadenia (EÚ) 2018/858.“.
+
 - 6. V § 6 ods. 1 sa slovo „alebo“ za slovom „zdravie“ nahrádza čiarkou a za slovo „osádky“ sa vkladajú slová „alebo majetok osôb“.
 
 - 7. § 6 sa dopĺňa odsekom 4, ktorý znie:
@@ -25,6 +37,8 @@ Zákon č. 106/2018 Z. z. o prevádzke vozidiel v cestnej premávke a o zmene a 
 - „(4)
 
 - Typový schvaľovací orgán s typovými schvaľovacími orgánmi iných štátov navzájom efektívne a účinne spolupracuje a vymieňa si informácie, ktoré sú relevantné pre ich úlohy a funkcie.“.
+
+- 8. V poznámkach pod čiarou k odkazom 18 a 32 sa vypúšťa citácia „Nariadenie vlády Slovenskej republiky č. 140/2009 Z. z. v znení neskorších predpisov.“ a na konci sa pripája táto citácia: „Nariadenie (EÚ) 2018/858.“.
 
 - 9. V § 8 ods. 3 sa na konci pripája táto veta: „Postupy typového schválenia upravujú osobitné predpisy.<sup>18</sup>)“.
 
@@ -35,6 +49,10 @@ Zákon č. 106/2018 Z. z. o prevádzke vozidiel v cestnej premávke a o zmene a 
 - „<sup>22</sup>) Časť A prílohy I nariadenia Európskeho parlamentu a Rady (EÚ) 2018/956 z 28. júna 2018 o monitorovaní a nahlasovaní emisií CO<sub>2</sub> a spotreby paliva nových ťažkých úžitkových vozidiel (Ú. v. EÚ L 173, 9. 7. 2018).
 
 - Časť A prílohy II a časť A prílohy III nariadenia Európskeho parlamentu a Rady (EÚ) 2019/631 zo 17. apríla 2019, ktorým sa stanovujú emisné normy CO<sub>2</sub> pre nové osobné vozidlá a nové ľahké úžitkové vozidlá a ktorým sa zrušujú nariadenia (ES) č. 443/2009 a (EÚ) č. 510/2011 (prepracované znenie) (Ú. v. EÚ L 111, 25. 4. 2019).“.
+
+- 12. V poznámke pod čiarou k odkazu 28 sa vypúšťa citácia „§ 34 nariadenia vlády Slovenskej republiky č. 140/2009 Z. z.“ a na konci sa pripája táto citácia: „Čl. 55 a 56 nariadenia (EÚ) 2018/858.“.
+
+- 13. V poznámke pod čiarou k odkazu 31 sa vypúšťa citácia „§ 21 nariadenia vlády Slovenskej republiky č. 140/2009 Z. z.,“ a na konci sa bodka nahrádza čiarkou a pripája sa táto citácia: „čl. 35 nariadenia (EÚ) 2018/858.“.
 
 - 14. V § 21 ods. 1 sa za prvú vetu vkladá nová druhá veta, ktorá znie: „Výrobca je povinný zaviesť postupy, ktorými zabezpečí, aby bola výroba v zhode so schváleným typom.“.
 
@@ -165,6 +183,24 @@ Zákon č. 106/2018 Z. z. o prevádzke vozidiel v cestnej premávke a o zmene a 
 - plniť povinnosti ustanovené osobitnými predpismi o typovom schvaľovaní<sup>11</sup>) a regulačnými aktmi,“.
 
   - Poznámka pod čiarou k odkazu 35 sa vypúšťa.
+
+- 18. V § 23 sa odsek 1 dopĺňa písmenami q) a r), ktoré znejú:
+
+- „q)
+
+- poskytovať technické informácie ustanovené osobitným predpisom,<sup>36a</sup>)
+
+- r)
+
+- poskytovať informácie palubného diagnostického systému OBD, informácie o opravách a údržbe vozidiel ustanovené osobitným predpisom<sup>36b</sup>) a umožniť vykonať audit s cieľom overiť dodržiavanie týchto povinností.“.
+
+  - Poznámky pod čiarou k odkazom 36a a 36b znejú:
+
+  - „<sup>36a</sup>) Čl. 59 a 60 nariadenia (EÚ) 2018/858.
+
+  - <sup>36b</sup>) Čl. 61 až 65 nariadenia (EÚ) 2018/858.“.
+
+- 19. V § 23 ods. 2 sa slová „i) až o) nahrádzajú slovami „i) až o), q) a r)“.
 
 - 20. V § 23 ods. 6 písm. a) sa na konci čiarka nahrádza bodkočiarku a pripájajú sa tieto slová: „rozsah sprístupňovaných technických informácií, ich formát a prístup ustanovuje osobitný predpis,<sup>36c</sup>)“.
 
@@ -421,6 +457,10 @@ Zákon č. 106/2018 Z. z. o prevádzke vozidiel v cestnej premávke a o zmene a 
 - „g)
 
 - podstúpiť priebežné monitorovanie technickej služby podľa osobitného predpisu.<sup>74</sup>)“.
+
+- 56. V poznámke pod čiarou k odkazu 74 sa vypúšťa citácia „nariadenie vlády Slovenskej republiky č. 140/2009 Z. z. v znení neskorších predpisov,“ a na konci sa bodka nahrádza čiarkou a pripája sa táto citácia: „nariadenie (EÚ) 2018/858.“.
+
+- 57. V poznámke pod čiarou k odkazu 75 sa vypúšťa citácia „§ 41 nariadenia vlády Slovenskej republiky č. 140/2009 Z. z.“ a na konci sa pripája táto citácia: „Čl. 74 nariadenia (EÚ) 2018/858.“.
 
 - 58. V poznámke pod čiarou k odkazu 78 sa citácia „Zákon č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení zákona č. 84/2014 Z. z.“ nahrádza citáciou „Zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení zákona č. 221/2019 Z. z.“.
 
@@ -712,11 +752,15 @@ Zákon č. 106/2018 Z. z. o prevádzke vozidiel v cestnej premávke a o zmene a 
 
 - 117. V § 118 ods. 2 sa slovo „technickej“ nahrádza slovom „emisnej“.
 
+- 118. V poznámke pod čiarou k odkazu 86 sa vypúšťa citácia „§ 32 až 34 nariadenia vlády Slovenskej republiky č. 140/2009 Z. z.“ a na konci sa pripája táto citácia: „Čl. 51 až 54 nariadenia (EÚ) 2018/858.“.
+
 - 119. V § 136 ods. 2 písm. a) trinásty bod znie:
 
 - „13.
 
 - vykonáva štátny odborný dozor podľa tohto zákona; ukladá pokuty a iné sankcie,“.
+
+- 120. V poznámke pod čiarou k odkazu 87 sa vypúšťa citácia „§ 35 nariadenia vlády Slovenskej republiky č. 140/2009 Z. z.“ a na konci sa pripája táto citácia: „Čl. 52 nariadenia (EÚ) 2018/858.“.
 
 - 121. V § 136 ods. 2 písm. a) dvadsiatom piatom bode a § 157 ods. 2 písm. a) sa slová „§ 1 ods. 5“ nahrádzajú slovami „§ 1 ods. 8“.
 
@@ -754,6 +798,36 @@ Zákon č. 106/2018 Z. z. o prevádzke vozidiel v cestnej premávke a o zmene a 
 
 - rozhoduje o udelení a predĺžení platnosti osvedčení o odbornej spôsobilosti na vykonávanie cestnej technickej kontroly a vedie ich evidenciu,“.
 
+- 123. V § 136 ods. 2 sa písmeno a) dopĺňa päťdesiatym štvrtým až päťdesiatym šiestym bodom, ktoré znejú:
+
+- „54.
+
+- zastupuje typový schvaľovací orgán vo fóre na výmenu informácií o presadzovaní právnych predpisov (ďalej len „fórum“) zriadenom podľa osobitného predpisu,<sup>88a</sup>)
+
+- 55.
+
+- spolupracuje s Európskou komisiou, keď vykonáva skúšky a kontroly na vozidle, systéme, komponente alebo samostatnej technickej jednotke, pre ktoré bolo typové schválenie udelené typovým schvaľovacím orgánom Slovenskej republiky,
+
+- 56.
+
+- podrobuje sa posúdeniu typového schvaľovacieho orgánu Európskou komisiou podľa osobitného predpisu,<sup>88b</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 88a a 88b znejú:
+
+  - „<sup>88a</sup>) Čl. 11 nariadenia (EÚ) 2018/858.
+
+  - <sup>88b</sup>) Čl. 10 nariadenia (EÚ) 2018/858.“.
+
+- 124. V § 136 sa odsek 2 dopĺňa písmenom f), ktoré znie:
+
+- „f)
+
+- pravidelne skúma a posudzuje fungovanie činností typového schvaľovacieho orgánu a ich výsledky oznamuje Európskej komisii a fóru.<sup>88c</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 88c znie:
+
+  - „<sup>88c</sup>) Čl. 6 ods. 8 nariadenia (EÚ) 2018/858.“.
+
 - 125. V § 138 písm. a) sa za piaty bod vkladá nový šiesty bod, ktorý znie:
 
 - „6.
@@ -782,6 +856,24 @@ Zákon č. 106/2018 Z. z. o prevádzke vozidiel v cestnej premávke a o zmene a 
 
   - „<sup>88d</sup>) § 2 písm. g) zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
 
+- 128. § 139 sa dopĺňa písmenami h) až j), ktoré znejú:
+
+- „h)
+
+- zastupuje orgán dohľadu nad trhom vo fóre,<sup>88a</sup>)
+
+- i)
+
+- spolupracuje s Európskou komisiou, keď vykonáva skúšky a kontroly na vozidle, systéme, komponente alebo samostatnej technickej jednotke odobratej na trhu v Slovenskej republike,
+
+- j)
+
+- pravidelne skúma a posudzuje fungovanie činností orgánu dohľadu nad trhom a ich výsledky oznamuje Európskej komisii a fóru.<sup>88e</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 88e znie:
+
+  - „<sup>88e</sup>) Čl. 6 ods. 9 nariadenia (EÚ) 2018/858.“.
+
 - 129. V § 140 písm. d) sa za slovo „organizáciu“ vkladá čiarka a slovo „odosielateľa“.
 
 - 130. V § 142 ods. 1 písm. b) a ods. 4 sa vypúšťajú slová „nad hromadnou výrobou a hromadnou prestavbou“.
@@ -801,6 +893,8 @@ Zákon č. 106/2018 Z. z. o prevádzke vozidiel v cestnej premávke a o zmene a 
 - 135. V § 145 ods. 12 sa slová „okresný úrad v sídle kraja“ nahrádzajú slovami „správny orgán na uloženie sankcií“.
 
 - 136. V § 146 ods. 1 sa za slová „Slovenská obchodná inšpekcia“ vkladá čiarka a slová „Sociálna poisťovňa“ a na konci pripája čiarka a tieto slová: „a to bez súhlasu dotknutej osoby“.
+
+- 137. V poznámke pod čiarou k odkazu 89 sa vypúšťa citácia „§ 32 až 35 nariadenia vlády Slovenskej republiky č. 140/2009 Z. z.“ a na konci sa pripája táto citácia: „Čl. 51 až 54 nariadenia (EÚ) 2018/858.“.
 
 - 138. V § 148 ods. 1 písm. b) sa za prvý bod vkladá nový druhý bod, ktorý znie:
 
@@ -1048,6 +1142,8 @@ Zákon č. 106/2018 Z. z. o prevádzke vozidiel v cestnej premávke a o zmene a 
 
 - 151. V § 156 ods. 1 a 2 sa slová „§ 153 ods. 2 alebo ods. 5“ nahrádzajú slovami „§ 155 ods. 1“.
 
+- 152. V poznámke pod čiarou k odkazu 96 sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „čl. 49 ods. 3 nariadenia (EÚ) 2018/858.“.
+
 - 153. V § 157 ods. 2 sa za písmeno d) vkladajú nové písmená e) a f), ktoré znejú:
 
 - „e)
@@ -1108,6 +1204,12 @@ Zákon č. 106/2018 Z. z. o prevádzke vozidiel v cestnej premávke a o zmene a 
 
 - 162. V § 163 ods. 5 písm. c) sa slovo „mimoriadnou“ nahrádza slovom „priebežnou“.
 
+- 163. V § 165 ods. 1 sa nad slová „týchto činností“ umiestňuje odkaz 102a.
+
+  - Poznámka pod čiarou k odkazu 102a znie:
+
+  - „<sup>102a</sup>) Čl. 69 nariadenia (EÚ) 2018/858.“.
+
 - 164. V § 167 ods. 3 písm. b) sa vypúšťajú slová „súvisiaci s cestnou premávkou alebo“.
 
 - 165. V § 168 sa za slovo „sprostredkovane“ vkladajú slová „personálnu alebo“.
@@ -1155,5 +1257,9 @@ Zákon č. 106/2018 Z. z. o prevádzke vozidiel v cestnej premávke a o zmene a 
 - – nariadenia Európskeho parlamentu a Rady (EÚ) 2019/1242 z 20. júna 2019 (Ú. v. EÚ
 
 - L 198, 25. 7. 2019).“.
+
+- 173. V prílohe č. 2 sa vypúšťa štvrtý bod.
+
+  - Doterajší piaty bod a šiesty bod sa označuje ako štvrtý bod a piaty bod.
 
 - 174. Prehľad zákona o prevádzke vozidiel v cestnej premávke a o zmene a doplnení niektorých zákonov sa vypúšťa.
