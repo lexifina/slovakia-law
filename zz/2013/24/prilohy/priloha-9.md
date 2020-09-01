@@ -14,7 +14,7 @@ Príloha č. 9 k vyhláške č. 24/2013 Z. z.
 
     - (5) Zmluva sa uzatvára najmenej 15 pracovných dní pred požadovaným prístupom a distribúciou elektriny pre odberné miesta dodávateľa a distribúcia elektriny pre príslušné odberné miesta pre dodávateľa sa zabezpečí po splnení všetkých podmienok, ktoré sú uvedené v týchto obchodných podmienkach.
 
-    - (6) Ak návrh na uzavretie zmluvy podáva dodávateľ elektriny, proti ktorému eviduje prevádzkovateľ distribučnej sústavy pohľadávky po lehote splatnosti alebo ak tento dodávateľ elektriny je s dlžníkom prepojenou osobou podľa osobitného predpisu zákona o energetike, môže prevádzkovateľ distribučnej sústavy podmieniť uzatvorenie zmluvy zaplatením pohľadávok zo strany žiadateľa alebo dlžníka.
+    - (6) Ak návrh na uzavretie zmluvy podáva dodávateľ elektriny, proti ktorému eviduje prevádzkovateľ distribučnej sústavy pohľadávky po lehote splatnosti alebo ak tento dodávateľ elektriny je s dlžníkom prepojenou osobou podľa osobitného predpisu,<sup>56</sup>) môže prevádzkovateľ distribučnej sústavy podmieniť uzatvorenie zmluvy zaplatením pohľadávok zo strany žiadateľa alebo dlžníka.
 
   - B. Identifikácia odberných miest zásobovaných dodávateľom elektriny
 

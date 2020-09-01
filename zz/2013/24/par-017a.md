@@ -1,0 +1,27 @@
+# § 17a Vyhodnotenie a zúčtovanie odchýlky a regulačnej elektriny pri stave núdze v elektroenergetike, pri predchádzaní stavu núdze v elektroenergetike a pri skúške stavu núdze v elektroenergetike
+
+(1) Vyhlásenie a ukončenie stavu núdze v elektroenergetike a aktivovanie a zrušenie obmedzujúcich opatrení pri predchádzaní stavu núdze v elektroenergetike prevádzkovateľ prenosovej sústavy oznamuje organizátorovi krátkodobého trhu s elektrinou. Prevádzkovateľ prenosovej sústavy bezodkladne oznámi organizátorovi krátkodobého trhu s elektrinou začiatok a koniec obdobia, ktoré vyžaduje zúčtovanie odchýlok v zvláštnom režime.
+
+(2) Obmedzujúce opatrenia pri predchádzaní stavu núdze v elektroenergetike alebo pri stave núdze v elektroenergetike zahŕňajú obmedzujúce opatrenia<sup>20</sup>) a pozastavenie trhových činností.<sup>20a</sup>)
+
+(3) Vyhodnotenie a zúčtovanie odchýlok a regulačnej elektriny v zvláštnom režime sa na obdobie oznámené prevádzkovateľom prenosovej sústavy uplatňuje pre celé vymedzené územie a všetky subjekty zúčtovania.
+
+(4) Pri vyhodnotení a zúčtovaní odchýlok a regulačnej elektriny vo zvláštnom režime organizátor krátkodobého trhu s elektrinou nevykonáva vyhodnocovanie, zúčtovanie a vysporiadanie odchýlky podľa § 17. Vyhodnotenie a zúčtovanie odchýlok a regulačnej elektriny v zvláštnom režime vykonáva organizátor krátkodobého trhu s elektrinou na základe skutočných hodnôt dodávok elektriny a odberov elektriny prijatých od prevádzkovateľov sústav.
+
+(5) Agregáciu, vyhodnotenie a zúčtovanie skutočných hodnôt dodávok elektriny a skutočných hodnôt odberov elektriny vykonáva organizátor krátkodobého trhu s elektrinou pre jednotlivé subjekty zúčtovania. Účastník trhu s elektrinou, ktorý nemá s organizátorom krátkodobého trhu s elektrinou uzatvorenú zmluvu o zúčtovaní odchýlky, si finančné nároky uplatňuje u subjektu zúčtovania, ktorý za jeho odberné alebo odovzdávacie miesto prebral zodpovednosť za odchýlku.
+
+(6) Organizátor krátkodobého trhu s elektrinou zúčtováva skutočnú dodávku elektriny subjektu zúčtovania za zúčtovaciu cenu regulačnej elektriny ustanovenú podľa odseku 8. Subjektu zúčtovania vzniká pohľadávka voči organizátorovi krátkodobého trhu s elektrinou.
+
+(7) Organizátor krátkodobého trhu s elektrinou zúčtováva skutočný odber elektriny subjektu zúčtovania za zúčtovaciu cenu odchýlky elektriny podľa odseku 9. Subjektu zúčtovania vzniká záväzok voči organizátorovi krátkodobého trhu s elektrinou.
+
+(8) Pri vyhodnotení a zúčtovaní odchýlok a regulačnej elektriny v zvláštnom režime sa zúčtovacia cena regulačnej elektriny v každej zúčtovacej perióde rovná aritmetickému priemeru cenových indexov základného pásma na organizovanom krátkodobom cezhraničnom trhu s elektrinou určenému podľa § 20 ods. 4 písm. j) za mesiac predchádzajúci mesiacu, v ktorom sú aktivované opatrenia vyžadujúce vyhodnotenie a zúčtovanie odchýlok a regulačnej elektriny v zvláštnom režime.
+
+(9) Pri vyhodnotení a zúčtovaní odchýlok a regulačnej elektriny vo zvláštnom režime sa zúčtovacia cena odchýlky v príslušnej zúčtovacej perióde rovná podielu nákladov na obstaranie regulačnej elektriny a sumy odberov elektriny vo všetkých odberných miestach. Náklady na obstaranie regulačnej elektriny sa vypočítajú ako súčin zúčtovacej ceny regulačnej elektriny ustanovenej podľa odseku 8 a sumy dodávok elektriny v odovzdávacích miestach navýšený o náklady na dovoz havarijnej výpomoci zo zahraničia.
+
+(10) Na vysporiadanie cezhraničných prenosov elektriny pri vyhodnotení a zúčtovaní odchýlok a regulačnej elektriny vo zvláštnom režime prevádzkovateľ prenosovej sústavy odovzdá organizátorovi krátkodobého trhu s elektrinou do 11:00 hod. dňa nasledujúceho po dni, ktorého sa poskytované informácie týkajú, skutočné hodnoty množstva elektriny prenesenej do zahraničia alebo zo zahraničia, a to pre každú obchodnú periódu, za ktorú je vykonávané vyhodnotenie a zúčtovanie odchýlok a regulačnej elektriny v zvláštnom režime. Vyhodnotenie a vysporiadanie cezhraničných prenosov elektriny je vykonávané na základe hodnôt množstva elektriny prenesenej do zahraničia alebo zo zahraničia získaných od prevádzkovateľa prenosovej sústavy a je súčasťou vyhodnotenia a zúčtovania odchýlok a regulačnej elektriny vo zvláštnom režime.
+
+(11) Ak opatrenia pri predchádzaní stavu núdze nevyžadujú vyhodnotenie a zúčtovanie odchýlok a regulačnej elektriny vo zvláštnom režime, zmeny odberu alebo dodávky elektriny na základe pokynov prevádzkovateľa prenosovej sústavy pri aktivácii obmedzujúcich opatrení sú posudzované ako dodávka regulačnej elektriny.
+
+(12) Počas skúšok stavu núdze sú hodnoty odberov a dodávok v ostrovnej prevádzke považované za nulové. Od momentu pripojenia územia dotknutého skúškami stavu núdze k elektrizačnej sústave Slovenskej republiky sa na potreby zúčtovania odchýlok používajú namerané hodnoty odberov elektriny a dodávok elektriny. Objem a cenu regulačnej elektriny dodanej počas skúšok stavu núdze oznámi prevádzkovateľ prenosovej sústavy organizátorovi krátkodobého trhu s elektrinou v členení po subjektoch zúčtovania.
+
+(13) Podrobnosti oznamovania údajov, vyhodnotenia a zúčtovania odchýlok a regulačnej elektriny pri stavoch núdze, predchádzaní stavu núdze a pri skúškach stavu núdze upravuje prevádzkový poriadok organizátora krátkodobého trhu s elektrinou.

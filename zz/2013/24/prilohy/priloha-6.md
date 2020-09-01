@@ -1,8 +1,8 @@
 Príloha č. 6 k vyhláške č. 24/2013 Z. z.
 
-- VYHODNOTENIE, ZÚČTOVANIE A VYSPORIADANIE ODCHÝLKY A REGULAČNEJ ELEKTRINY OD ROKU 2014
+- VYHODNOTENIE, ZÚČTOVANIE A VYSPORIADANIE ODCHÝLKY A REGULAČNEJ ELEKTRINY
 
-  - A. Určenie súhrnnej hodnoty dodávky alebo odberu elektriny z nameraných a vypočítaných hodnôt dodávok a odberov elektriny za obchodný deň
+  - A. Určenie hodnôt dodávky alebo odberu elektriny z nameraných a vypočítaných hodnôt dodávok a odberov elektriny za obchodný deň
 
     - (1) Prevádzkovateľ sústavy odovzdá denne do 9:00 organizátorovi krátkodobého trhu s elektrinou za každú hodinu predchádzajúceho dňa v štvrťhodinovom rozlíšení v členení po jednotlivých odberných a odovzdávacích miestach
 
@@ -16,19 +16,17 @@ Príloha č. 6 k vyhláške č. 24/2013 Z. z.
 
     - (4) Na základe údajov o predpokladaných hodnotách ročných odberov elektriny alebo dodávok elektriny a priradených triedach typových diagramov odberu pre jednotlivé odberné a odovzdávacie miesta s meraním typu C určí organizátor krátkodobého trhu s elektrinou hodinovú hodnotu odberu alebo dodávky týchto odberných miest a odovzdávacích miest v členení po jednotlivých subjektoch zúčtovania.
 
-    - (5) Na účely určenia súhrnnej hodnoty dodávky elektriny alebo odberu elektriny platí, ak je hodnota dodávky alebo odberu v rámci obchodnej hodiny tvorená na základe hodnôt dodávky alebo odberu štyroch po sebe idúcich časových úsekov s trvaním 15 minút v intervale jednej obchodnej hodiny, hodnotou dodávky alebo odberu v rámci obchodnej hodiny je aritmetický priemer hodnôt dodávky alebo odberu štyroch po sebe idúcich časových úsekov s trvaním 15 minút v intervale jednej obchodnej hodiny.
-
   - B. Vysporiadanie zúčtovacieho obdobia
 
     - (1) Na základe dekádneho vyhodnotenia odchýlok organizátor krátkodobého trhu s elektrinou vysporiada zálohové platby za odchýlky so subjektmi zúčtovania.
 
-    - (2) Subjekt zúčtovania môže reklamovať denné alebo dekádne vyhodnotenie odchýlok do piatich dní po skončení mesiaca, ktorého sa denné alebo dekádne vyhodnotenie týka.
+    - (2) Subjekt zúčtovania môže reklamovať dekádne vyhodnotenie odchýlok do piatich dní po skončení mesiaca, ktorého sa dekádne vyhodnotenie týka.
 
     - (3) Na základe mesačného vyhodnotenia odchýlok organizátor krátkodobého trhu s elektrinou vysporiada platby za odchýlky so subjektmi zúčtovania a platby za obstaranú regulačnú elektrinu s dodávateľmi regulačnej elektriny.
 
     - (4) Subjekt zúčtovania môže reklamovať mesačné vyhodnotenie odchýlok do 20 dní odo dňa poskytnutia mesačného vyhodnotenia odchýlok organizátorom krátkodobého trhu s elektrinou.
 
-    - (5) Organizátor krátkodobého trhu s elektrinou postúpi reklamáciu mesačného vyhodnotenia odchýlok subjektu zúčtovania na príslušných prevádzkovateľov sústav, ktorí preveria reklamované hodnoty a do 15 dní od prijatia reklamácie zašlú vyjadrenie a hodnoty pre konečné vyhodnotenie odchýlok organizátorovi krátkodobého trhu s elektrinou.
+    - (5) Organizátor krátkodobého trhu s elektrinou postupuje pri reklamácii mesačného vyhodnotenia odchýlok subjektu zúčtovania podľa prevádzkového poriadku organizátora krátkodobého trhu s elektrinou. Vysporiadané reklamácie sú zahrnuté do konečného zúčtovania odchýlok.
 
     - (6) Reklamácia konečného vyhodnotenia odchýlok nie je možná. Prípadné spory budú riešené medzi dotknutými stranami.
 

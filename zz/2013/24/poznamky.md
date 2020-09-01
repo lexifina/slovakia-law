@@ -4,6 +4,8 @@
 
 - 3) § 31 ods. 3 písm. q) zákona č. 251/2012 Z. z.
 
+- 3a) § 2 písm. h) zákona č. 157/2018 Z. z. o metrológii a o zmene a doplnení niektorých zákonov.
+
 - 4) § 37 ods. 8 zákona č. 251/2012 Z. z.
 
 - 5) § 49 ods. 2 zákona č. 251/2012 Z. z.
@@ -32,13 +34,35 @@
 
 - 16) § 2 písm. a) druhý bod zákona č. 251/2012 Z. z.
 
-- 17) § 28 ods. 2 písm. o) zákona č. 251/2012 Z. z.
+- 17) Čl. 3 ods. 2 bod 99 nariadenia Komisie (EÚ) 2017/1485 z 2. augusta 2017, ktorým sa stanovuje usmernenie pre prevádzkovanie elektrizačnej prenosovej sústavy (Ú. v. EÚ L 220, 25. 8. 2017).
 
-- 18) Zákon č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko účinnej kombinovanej výroby a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 18) § 41 ods. 3 zákona č. 251/2012 Z. z.
+
+- 18a) § 41 ods. 6 a 7 zákona č. 251/2012 Z. z.
+
+- 18b) Zákon č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko účinnej kombinovanej výroby a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 18c) § 3 ods. 1 písm. b) zákona č. 309/2009 Z. z.
+
+- 18d) § 27 ods. 2 písm. i) a j) zákona č. 251/2012 Z. z.
+
+- 18e) Napríklad § 41 zákona č. 251/2012 Z. z., § 4 zákona č. 309/2009 Z. z.
+
+- 18f) § 2 ods. 3 písm. a) zákona č. 309/2009 Z. z.
+
+- 18g) § 4 ods. 2 písm. f) zákona č. 309/2009 Z. z.
+
+- 18h) § 4 ods. 2 písm. g) zákona č. 309/2009 Z. z.
+
+- 18i) § 19 ods. 2 písm. i) zákona č. 309/2009 Z. z.
+
+- 18j) § 26 ods. 17 zákona č. 251/2012 Z. z.
 
 - 19) § 15 ods. 7 zákona č. 251/2012 Z. z.
 
-- 20) § 3 ods. 1 písm. d) a ods. 5 zákona č. 309/2009 Z. z.
+- 20) § 20 ods. 4 zákona č. 251/2012 Z. z.
+
+- 20a) Nariadenie Komisie (EÚ) 2017/2196 z 24. novembra 2017, ktorým sa stanovuje sieťový predpis o stavoch núdze a obnovy prevádzky v sektore elektrickej energie (Ú. v. EÚ L 312, 28. 11. 2017).
 
 - 21) § 7 ods. 4 zákona č. 251/2012 Z. z.
 
@@ -48,17 +72,23 @@
 
 - 23) § 26 ods. 9 zákona č. 251/2012 Z. z.
 
-- 24) Zákon č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 25) § 15 ods. 16 zákona č. 251/2012 Z. z.
 
-- 25a) § 12 vyhlášky Úradu pre reguláciu sieťových odvetví č. 260/2016 Z. z., ktorou sa ustanovuje cenová regulácia v elektroenergetike a niektoré podmienky vykonávania regulovaných činností v elektroenergetike.
+- 25a) § 12 vyhlášky Úradu pre reguláciu sieťových odvetví č. 18/2017 Z. z., ktorou sa ustanovuje cenová regulácia v elektroenergetike a niektoré podmienky vykonávania regulovaných činností v elektroenergetike v znení neskorších predpisov.
+
+- 25b) § 2 ods. 3 písm. n) zákona č. 309/2009 Z. z. v znení zákona č. 309/2018 Z. z.
 
 - 26) Napríklad Občiansky zákonník v znení neskorších predpisov, Obchodný zákonník v znení neskorších predpisov a zákon č. 251/2012 Z. z.
 
 - 27) § 37 a 38 zákona č. 250/2012 Z. z.
 
 - 28) § 10 zákona č. 251/2012 Z. z.
+
+- 28a) § 3 ods. 1 písm. d) zákona č. 309/2009 Z. z.
+
+- 28b) § 4 ods. 3 písm. d) zákona č. 309/2009 Z. z.
+
+- 28c) § 3 písm. b) bod 17 zákona č. 251/2012 Z. z.
 
 - 29) § 16 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení zákona č. 180/2011 Z. z.
 
@@ -98,7 +128,11 @@
 
 - 46) § 17 ods. 1 písm. a) zákona č. 251/2012 Z. z.
 
+- 46a) § 21 zákona č. 251/2012 Z. z.
+
 - 47) Napríklad § 24 ods. 1 písm. a) a § 24 ods. 3 písm. d) zákona č. 251/2012 Z. z.
+
+- 47a) Napríklad nariadenie Európskeho parlamentu a Rady (ES) č. 715/2009 z 13. júla 2009 o podmienkach prístupu do prepravných sietí pre zemný plyn, ktorým sa zrušuje nariadenie (ES) č. 1775/2005 (Ú. v. EÚ L 211, 14. 8. 2009) a nariadenie Komisie (EÚ) 2017/459 zo 16. marca 2017, ktorým sa stanovuje sieťový predpis o mechanizmoch prideľovania kapacity v plynárenských prepravných sieťach a ktorým sa zrušuje nariadenie (EÚ) č. 984/2013 (Ú. v. EÚ L 72, 17. 3. 2017).
 
 - 48) § 29 ods. 1 písm. h) zákona č. 250/2012 Z. z.
 
@@ -112,6 +146,10 @@
 
 - 53) § 18 zákona č. 251/2012 Z. z.
 
+- 53a) § 3 písm. c) bod 17 zákona č. 251/2012 Z. z.
+
 - 54) § 64 ods. 7 písm. k) zákona č. 251/2012 Z. z.
 
 - 55) § 1 ods. 1 vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 269/2012 Z. z., ktorou sa ustanovujú podrobnosti o zásadách prepočtu objemových jednotiek množstva na energiu a podmienky, za ktorých sa vykonáva určenie objemu plynu a spaľovacieho tepla objemového.
+
+- 56) § 3 písm. a) druhý bod zákona č. 251/2012 Z. z.

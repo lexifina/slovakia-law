@@ -1,6 +1,6 @@
 Príloha č. 4 k vyhláške č. 24/2013 Z. z.
 
-- DRUHY TYPOVÝCH DIAGRAMOV ODBERU, SPÔSOB ICH PRIRAĎOVANIA A ZÁSADY ICH POUŽÍVANIA OD ROKU 2014
+- DRUHY TYPOVÝCH DIAGRAMOV ODBERU, SPÔSOB ICH PRIRAĎOVANIA A ZÁSADY ICH POUŽÍVANIA
 
   - A. Priradenie typového diagramu odberu odbernému alebo odovzdávaciemu miestu
 
@@ -24,7 +24,7 @@ Príloha č. 4 k vyhláške č. 24/2013 Z. z.
 
     - (6) Prevádzkovateľ sústavy, ktorý používa určené meradlá bez priebehového záznamu hodnôt, oznámi organizátorovi krátkodobého trhu s elektrinou používané triedy typových diagramov odberu a hodnoty typových diagramov odberu, a to do 30. septembra predchádzajúceho roka. Súčasne ich uverejní na svojom webovom sídle.
 
-    - (7) Odber elektriny alebo dodávku elektriny na odberných miestach a odovzdávacích miestach bez priebehového merania podľa priradených typových diagramov odberu spôsobom určeným v prevádzkovom poriadku organizátora krátkodobého trhu s elektrinou sa určí organizátorom krátkodobého trhu s elektrinou.
+    - (7) Odber elektriny alebo dodávku elektriny na odberných miestach a odovzdávacích miestach bez priebehového merania podľa priradených typových diagramov odberu sa určí organizátorom krátkodobého trhu s elektrinou spôsobom určeným v prevádzkovom poriadku organizátora krátkodobého trhu s elektrinou.
 
   - B. Zmeny v priebehu vyhodnocovaného obdobia
 
