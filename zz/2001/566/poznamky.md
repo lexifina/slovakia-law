@@ -540,6 +540,8 @@
 
 - 90b) § 3 ods. 1 písm. a) zákona č. 323/1992 Zb. o notároch a notárskej činnosti (notársky poriadok) v znení neskorších predpisov.
 
+- 91) Vykonávacie nariadenie Komisie (EÚ) 2018/1212 z 3. septembra 2018, ktorým sa stanovujú minimálne požiadavky na vykonávanie ustanovení smernice Európskeho parlamentu a Rady 2007/36/ES, pokiaľ ide o identifikáciu akcionárov, prenos informácií a zjednodušenie výkonu práv akcionárov (Ú. v. EÚ L 223, 4. 9. 2018).
+
 - 92) Trestný poriadok v znení neskorších predpisov.
 
 - 93) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
