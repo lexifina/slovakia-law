@@ -1,0 +1,13 @@
+## 240
+
+OZNÁMENIE
+
+Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky
+
+Ministerstvo práce, sociálnych vecí a rodiny Slovenskej republiky oznamuje, že podľa § 9 ods. 1 a 2 zákona č. 2/1991 Zb. o kolektívnom vyjednávaní v znení neskorších predpisov bola na Ministerstve práce, sociálnych vecí a rodiny Slovenskej republiky do 20. augusta 2020 uložená táto kolektívna zmluva vyššieho stupňa:
+
+Kolektívna zmluva vyššieho stupňa na rok 2020 z 23. júna 2020 uzatvorená medzi Odborovým zväzom pracovníkov baní, geológie a naftového priemyslu Slovenskej republiky
+
+a
+
+Zväzom hutníctva, ťažobného priemyslu a geológie Slovenskej republiky.
