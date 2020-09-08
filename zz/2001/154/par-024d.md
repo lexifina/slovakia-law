@@ -20,4 +20,4 @@
 
 - d) prokurátora v Úrade špeciálnej prokuratúry podľa odseku 1 písm. c) sa zaradí na výkon funkcie prokurátora v inom organizačnom útvare generálnej prokuratúry.
 
-(4) Ustanovenie odseku 1 písm. c) sa nevzťahuje na špeciálneho prokurátora. Špeciálny prokurátor môže byť, okrem prípadov uvedených v odseku 1 písm. a) a b), z funkcie odvolaný iba Národnou radou Slovenskej republiky na návrh generálneho prokurátora, ak zo zdravotných dôvodov nevykonáva svoju funkciu viac ako šesť mesiacov.
+(4) Ustanovenia odsekov 1 až 3 sa nevzťahujú na špeciálneho prokurátora. Špeciálny prokurátor môže byť z funkcie odvolaný iba národnou radou z dôvodov uvedených v § 24aa ods. 3 postupom podľa § 24aa ods. 4.
