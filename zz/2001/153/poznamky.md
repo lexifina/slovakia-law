@@ -12,9 +12,13 @@
 
 - 2b) Čl. 6 ods. 1 nariadenia (EÚ) 2017/1939.
 
+- 2ba) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 2c) § 125 zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriadku Národnej rady Slovenskej republiky v znení neskorších predpisov.
+
 - 3) § 12 ods. 1 písm. b) a § 13 písm. f) zákona č. 400/2015 Z. z. o tvorbe právnych predpisov a o Zbierke zákonov Slovenskej republiky a o zmene a doplnení niektorých zákonov.
 
-- 3a) § 140 zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriadku Národnej rady Slovenskej republiky v znení neskorších predpisov.
+- 3a) § 140 zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z. v znení neskorších predpisov.
 
 - 3b) § 141 ods. 1 zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z. v znení zákona č. 236/2012 Z. z.
 
