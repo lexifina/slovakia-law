@@ -316,6 +316,8 @@
 
 - 66a) § 6 ods. 5 nariadenia vlády Slovenskej republiky č. 404/2007 Z. z.
 
+- 66b) § 63 ods. 21 zákona č. 351/2011 Z. z. o elektronických komunikáciách v znení neskorších predpisov.
+
 - 67) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 68) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
