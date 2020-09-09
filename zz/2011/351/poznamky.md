@@ -192,6 +192,8 @@
 
 - 46g) § 2 ods. 1 písm. q) zákona č. 355/2007 Z. z. v znení neskorších predpisov.
 
+- 46h) § 12 ods. 2 písm. a) alebo písm. b) zákona č. 355/2007 Z. z.
+
 - 47) Nariadenie Európskeho parlamentu a Rady (ES) č. 460/2004 z 10. marca 2004 o zriadení Európskej agentúry pre bezpečnosť sietí a informácií (Mimoriadne vydanie Ú. v. EÚ, kap. 1/zv. 5, Ú. v. EÚ L 77, 13. 3. 2004) v platnom znení.
 
 - 48) Zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. v znení neskorších predpisov.
