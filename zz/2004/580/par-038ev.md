@@ -28,9 +28,9 @@
 
 (12) Preddavok na poistné, ktorého platiteľom je štát podľa § 16 ods. 2 písm. e), môže počas krízovej situácie vypočítať, platiť a odvádzať štát aj v sume vyššej, ako je ustanovená v § 16 ods. 2 písm. e). Preddavok na poistné podľa prvej vety sa rozdelí medzi zdravotné poisťovne pomerne podľa počtu poistencov oznámených podľa § 23 ods. 9 písm. c). Preddavok na poistné vypočítaný, vyplatený a odvedený podľa prvej vety vstupuje do výpočtu ročného zúčtovania poistného plateného štátom podľa § 19 ods. 20.
 
-(13) Zdravotná poisťovňa vykoná ročné zúčtovanie poistného podľa § 19 ods. 1 za rok 2019 do 31. októbra 2020.
+(13) Zdravotná poisťovňa vykoná ročné zúčtovanie poistného podľa § 19 ods. 1 za rok 2019 do 31. decembra 2020.
 
-(14) Príslušná zdravotná poisťovňa vykoná ročné zúčtovanie poistného plateného štátom za kalendárny rok 2019 na základe údajov z centrálneho registra poistencov<sup>52</sup>) a podá ho ministerstvu zdravotníctva najneskôr do 23. novembra 2020.
+(14) Príslušná zdravotná poisťovňa vykoná ročné zúčtovanie poistného plateného štátom za kalendárny rok 2019 na základe údajov z centrálneho registra poistencov<sup>52</sup>) a podá ho ministerstvu zdravotníctva najneskôr do 31. januára 2021. Zdravotná poisťovňa, ktorej vznikol záväzok voči ministerstvu zdravotníctva na základe vykonaného ročného zúčtovania poistného plateného štátom, je povinná uhradiť vzniknutý záväzok ministerstvu zdravotníctva najneskôr do 15. februára 2021. Ministerstvo zdravotníctva, voči ktorému vznikla zdravotnej poisťovni pohľadávka na základe vykonaného ročného zúčtovania poistného plateného štátom, je povinné uhradiť pohľadávku príslušnej zdravotnej poisťovne najneskôr do 15. februára 2021.
 
 (15) Poistenec sa môže počas krízovej situácie preukazovať pri poskytnutí zdravotnej starostlivosti u poskytovateľa zdravotnej starostlivosti aj
 
@@ -41,3 +41,15 @@
 (16) Poistenec a platiteľ poistného sú počas krízovej situácie povinní splniť povinnosti ustanovené v § 23 ods. 1 až 6, 8, 10 až 12 a ods. 15 a v§ 24 písm. c), f) až o) najneskôr do ôsmich dní od odvolania krízovej situácie. Ak došlo k splneniu si povinností v termíne podľa predchádzajúcej vety, pokladá sa povinnosť za splnenú včas a neuplatní sa postup podľa § 26.
 
 (17) Zdravotná poisťovňa počas krízovej situácie neuplatňuje postup podľa § 23 ods. 13.
+
+(18) Údaje z daňového priznania za rok 2019 v rozsahu podľa § 29b ods. 11 poskytne Finančná správa Slovenskej republiky úradu najneskôr do 30. novembra 2020.
+
+(19) Na účely ročného prerozdeľovania poistného vykonávaného za rok 2019 sa ustanovuje lehota na
+
+- a) oznámenie údajov podľa § 27a ods. 2 do 15. februára 2021; celková suma poistného sa oznamuje podľa evidencie zdravotnej poisťovne k 31. januáru 2021,
+
+- b) doručenie rozhodnutia podľa § 27a ods. 9 do 28. februára 2021,
+
+- c) úhradu záväzku podľa § 27a ods. 10 do 15. marca 2021.
+
+(20) Ministerstvo zdravotníctva odvedie do 31. decembra 2020 zdravotnej poisťovni preddavok na výsledok ročného zúčtovania poistného plateného štátom, vo výške odhadu pohľadávky zdravotnej poisťovne z ročného zúčtovania poistného plateného štátom. Zúčtovanie tohto preddavku sa vykoná pri úhrade pohľadávok a záväzkov z ročného zúčtovania poistného plateného štátom.
