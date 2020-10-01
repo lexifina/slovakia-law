@@ -380,7 +380,9 @@
 
 - 74bj) § 26 ods. 2 Obchodného zákonníka.
 
-- 75) § 68 Obchodného zákonníka.
+- 75) § 68, § 68b, § 75k Obchodného zákonníka.
+
+- § 309d až 309h Civilného mimosporového poriadku.
 
 - 75a) Zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. v znení neskorších predpisov.
 
@@ -712,13 +714,23 @@
 
 - 132c) § 13 zákona č. 281/2015 Z. z. o štátnej službe profesionálnych vojakov a o zmene a doplnení niektorých zákonov.
 
-- 133) § 75 ods. 1 Obchodného zákonníka.
+- 133) § 75j ods. 1 a § 768s Obchodného zákonníka.
 
 - 133a) § 16 ods. 4 a § 17 ods. 6 zákona č. 431/2002 Z. z.
+
+- 133b) § 20 zákona č. 7/2005 Z. z. v znení neskorších predpisov.
+
+- § 68 ods. 4 písm. c) Obchodného zákonníka.
 
 - 134) § 3 ods. 6 a 7 zákona č. 431/2002 Z. z.
 
 - 134a) § 47 ods. 1 zákona č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení zákona č. 747/2004 Z. z.
+
+- 134aa) § 68 a 68b Obchodného zákonníka.
+
+- § 309d až 309h Civilného mimosporového poriadku.
+
+- 134ab) § 75k Obchodného zákonníka.
 
 - 135) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení neskorších predpisov.
 
@@ -819,6 +831,8 @@
 - 153b) § 123aq ods. 5 písm. b) a ods. 6 písm. b) a c) zákona č. 43/2004 Z. z. v znení zákona č. 25/2015 Z. z.
 
 - 153c) § 33a ods. 4 zákona č. 43/2004 Z. z. v znení zákona č. 183/2014 Z. z.
+
+- 153d) § 768s ods. 2 písm. b) a c) a ods. 9 Obchodného zákonníka.
 
 - 154) Zákon č. 580/2004 Z. z. v znení neskorších predpisov.
 
