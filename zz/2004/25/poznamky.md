@@ -1,10 +1,18 @@
-- 1) Zákon Slovenskej národnej rady č. 71/1992 Zb. o súdnych poplatkoch a poplatku za výpis z registra trestov v znení neskorších predpisov.
+- 1) § 6 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
 
-- 1a) § 2 ods. 3 Obchodného zákonníka.
+- 1a) § 5 ods. 3 zákona č. 305/2013 Z. z. v znení zákona č. 273/2015 Z. z.
 
-- 1b) Nariadenie vlády Slovenskej republiky č. 258/1996 Z. z., ktorým sa vydáva Zoznam obcí a vojenských obvodov tvoriacich jednotlivé okresy v znení neskorších predpisov.
+- 1b) Zákon Slovenskej národnej rady č. 71/1992 Zb. o súdnych poplatkoch a poplatku za výpis z registra trestov v znení neskorších predpisov.
 
-- Vyhláška Štatistického úradu Slovenskej republiky č. 377/2010 Z. z., ktorou sa vydáva Štatistický číselník krajín.
+- 1c) § 2 ods. 3 Obchodného zákonníka v znení neskorších predpisov.
+
+- 1d) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
+
+- 1e) § 23 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
+
+- 1f) Nariadenie vlády Slovenskej republiky č. 258/1996 Z. z., ktorým sa vydáva Zoznam obcí a vojenských obvodov tvoriacich jednotlivé okresy v znení neskorších predpisov.
+
+- Vyhláška Štatistického úradu Slovenskej republiky č. 112/2012 Z. z., ktorou sa vydáva Štatistický číselník krajín v znení neskorších predpisov.
 
 - 2) § 60 ods. 4 Obchodného zákonníka.
 
@@ -12,9 +20,9 @@
 
 - 2aa) § 52 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
 
-- 2aaa) § 171 ods. 3 zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 266/2017 Z. z.
+- 2aaa) § 105b ods. 2 Obchodného zákonníka v znení zákona č. 357/2013 Z. z.
 
-- 2aab) § 171 ods. 1 a 2 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+- § 7 ods. 17 zákona č. 530/2003 Z. z. v znení zákona č. 390/2019 Z. z.
 
 - 2aac) § 115 ods. 10 Obchodného zákonníka v znení zákona č. 264/2017 Z. z.
 
@@ -78,6 +86,8 @@
 
 - 5) § 69a ods. 3 písm. c) Obchodného zákonníka.
 
+- 5a) § 2 ods. 3 zákona č. 530/2003 Z. z. v znení neskorších predpisov.
+
 - 6) § 218k ods. 1 a 5 Obchodného zákonníka.
 
 - 6a) § 69aa ods. 7 Obchodného zákonníka.
@@ -88,8 +98,10 @@
 
 - 7) § 218o ods. 1 Obchodného zákonníka.
 
-- 7a) § 75 ods. 2 Obchodného zákonníka.
+- 7a) § 75j ods. 4 Obchodného zákonníka.
 
-- 8) § 68 ods. 11 Obchodného zákonníka v znení zákona č. 264/2017 Z. z.
+- 8) § 75j ods. 2 Obchodného zákonníka.
+
+- 8a) § 75j ods. 6 Obchodného zákonníka.
 
 - 9) § 768l ods. 1 Obchodného zákonníka.

@@ -1,1 +1,1 @@
-Príloha č. 10 k vyhláške č. 25/2004 Z. z. [Príloha č. 10 k vyhláške č. 25/2004 Z. z.](../assets/d80c0d7fc772eb9982e0e010b8b4dfe229e537cc24b3ff10fbef338b56043ac4.pdf)
+Príloha č. 10 k vyhláške č. 25/2004 Z. z. [Príloha č. 10 k vyhláške č. 25/2004 Z. z.](../assets/703f41b631d5214211d325445ce94e7d2dc6efa98962d0b2b781d77cbc28fb9a.pdf)
