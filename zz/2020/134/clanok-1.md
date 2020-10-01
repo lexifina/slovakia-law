@@ -80,6 +80,10 @@ Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústred
 
 - predkladá vláde návrhy na zjednodušenie právnej úpravy pre podnikanie.“.
 
+- 10. V § 9 ods. 1 sa vypúšťa písmeno l).
+
+  - Doterajšie písmeno m) sa označuje ako písmeno l).
+
 - 11. Za § 9 sa vkladá § 10, ktorý vrátane nadpisu znie:
 
 - „§ 10
@@ -103,6 +107,12 @@ Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústred
 - d)
 
 - centrálne riadenie informatizácie spoločnosti a tvorbu politiky jednotného digitálneho trhu, rozhodovanie o využívaní verejných prostriedkov vo verejnej správe pre informačné technológie, centrálnu architektúru integrovaného informačného systému verejnej správy a koordináciu plnenia úloh v oblasti informatizácie spoločnosti.“.
+
+- 12. V § 10 ods. 1 písmeno c) znie:
+
+- „c)
+
+- regionálny rozvoj vrátane koordinácie prípravy politík regionálneho rozvoja,“.
 
 - 13. V § 13 ods. 6 sa vypúšťajú slová „Zbierky zákonov Slovenskej republiky a“.
 
@@ -235,3 +245,19 @@ Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústred
   - Poznámka pod čiarou k odkazu 7 znie:
 
   - „<sup>7</sup>) Napríklad § 35, § 38 ods. 1 písm. a) až e) a § 38 ods. 2 zákona č. 55/2017 Z. z.“.
+
+- 27. Za § 40aj sa vkladá § 40ak, ktorý znie:
+
+- „§ 40ak
+
+- (1)
+
+- Pôsobnosť Ministerstva pôdohospodárstva a rozvoja vidieka Slovenskej republiky v oblasti regionálneho rozvoja podľa doterajších všeobecne záväzných právnych predpisov prechádza na Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky.
+
+- (2)
+
+- Ak sa v doterajších právnych predpisoch používa pre oblasť podľa odseku 1 pojem „Ministerstvo pôdohospodárstva a rozvoja vidieka Slovenskej republiky“ vo všetkých tvaroch, rozumie sa tým „Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky“ v príslušnom tvare.
+
+- (3)
+
+- V súvislosti s prechodom kompetencie podľa odseku 1 prechádzajú od 1. októbra 2020 práva a povinnosti vyplývajúce zo štátnozamestnaneckých vzťahov, z pracovnoprávnych vzťahov a iných právnych vzťahov zamestnancov zabezpečujúcich výkon tejto kompetencie, ako aj práva a povinnosti z iných právnych vzťahov z Ministerstva pôdohospodárstva a rozvoja vidieka Slovenskej republiky na Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky. Majetok štátu, ktorý bol k 30. septembru 2020 v správe Ministerstva pôdohospodárstva a rozvoja vidieka Slovenskej republiky a ktorý slúži na zabezpečenie výkonu kompetencie v oblasti podľa odseku 1, prechádza k 1. októbru 2020 do správy Ministerstva investícií, regionálneho rozvoja a informatizácie Slovenskej republiky. Podrobnosti o prechode týchto práv a povinností a o prechode správy majetku štátu sa upravia dohodou medzi Ministerstvom pôdohospodárstva a rozvoja vidieka Slovenskej republiky a Ministerstvom investícií, regionálneho rozvoja a informatizácie Slovenskej republiky, v ktorej sa vymedzí najmä druh a rozsah preberaného majetku, práv a povinností.“.
