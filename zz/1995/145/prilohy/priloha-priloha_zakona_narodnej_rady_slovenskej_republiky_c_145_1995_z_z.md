@@ -3766,6 +3766,8 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Oslobodenie: Od poplatku podľa tejto položky sú oslobodené údaje zverejňované v Obchodnom vestníku registrovými úradmi,<sup>36</sup>) konkurznými správcami, súdnymi exekútormi, dražobníkmi, Národnou bankou Slovenska a údaje zverejňované podľa § 218a ods. 6, § 218o ods. 1 písm. a) a § 220gb Obchodného zákonníka. | | |
 
+    - Poznámka Sadzba poplatku podľa tejto položky sa neznižuje podľa § 6 ods. 2. | | |
+
   - Položka 149b | |
 
   - a) | Vyhotovenie fotokópie dokumentu uloženého v registri účtovných závierok,<sup>36aa</sup>) za každú, |

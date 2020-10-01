@@ -32,8 +32,6 @@
 
 - Čl. 111 ods. 1 až 3 Zmluvy o založení Európskeho spoločenstva v platnom znení (Ú. v. EÚ C 321E, 29. 12. 2006).
 
-- 6aa) § 4 ods. 4 zákona č. 200/2011 Z. z. o Obchodnom vestníku a o zmene a doplnení niektorých zákonov.
-
 - 6ab) § 41 zákona č. 305/2013 Z. z.
 
 - 6ac) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
@@ -51,6 +49,8 @@
 - 7ad) § 5 ods. 3 zákona č. 305/2013 Z. z. v znení zákona č. 273/2015 Z. z.
 
 - 7ae) § 7 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
+
+- 7af) Zákon č. 200/2011 Z. z. o Obchodnom vestníku a o zmene a doplnení niektorých zákonov v znení zákona č. 264/2017 Z. z.
 
 - 7ag) § 26 až 28 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
 
