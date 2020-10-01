@@ -570,7 +570,9 @@
 
 - Zákon č. 7/2005 Z. z. v znení neskorších predpisov.
 
-- 60) § 68 ods. 7 Obchodného zákonníka.
+- 59) § 68 ods. 3 písm. b) Obchodného zákonníka.
+
+- 60) § 12 až 34 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
 
 - 60a) § 51 zákona č. 371/2014 Z. z. v znení zákona č. 437/2015 Z. z.
 
@@ -689,6 +691,8 @@
 - 82a) § 16b zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení zákona č. 341/2005 Z. z.
 
 - 83) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
+- 83a) § 94, 95, 180a, 195a a 206i zákona č. 7/2005 Z. z. v znení neskorších predpisov.
 
 - 84) § 2 ods. 1 písm. b), c) a l), § 29a a 76 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
