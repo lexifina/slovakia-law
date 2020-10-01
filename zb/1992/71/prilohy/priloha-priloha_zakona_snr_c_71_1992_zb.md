@@ -24,7 +24,7 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - g) z návrhu na vykonanie neodkladného opatrenia podľa osobitného predpisu<sup>9a</sup>) nariadeného v inom členskom štáte Európskej únie | 16,50 eura.
 
-- Poznámky k položke 1 1. Zo žaloby na určenie, či tu právo je, alebo nie je, a zo žaloby na vypratanie nehnuteľnosti, bytu a nebytových priestorov alebo na vydanie veci sa poplatok vyberie podľa písmena b) tejto položky. Ak je predmetom konania viac hnuteľných vecí alebo nehnuteľných vecí, poplatok sa vyberie iba za jednu z nich. 2. Ak žalovaný alebo odporca v konaní uplatňuje svoje práva vzájomnou žalobou alebo vzájomným návrhom, platí poplatok z ceny predmetu poplatkového úkonu. Ak žalovaný alebo odporca uplatňuje vzájomnou žalobou alebo vzájomným návrhom svoju pohľadávku na započítanie, platí súdny poplatok len zo sumy, ktorá prevyšuje to, čo uplatnil žalobca alebo navrhovateľ. Z prejavu žalovaného alebo odporcu, ktorý súd posudzuje ako prostriedok procesnej obrany proti žalobe alebo návrhu, sa súdny poplatok neplatí. 3. Poplatky podľa rovnakej sadzby sa platia i v odvolacom konaní vo veci samej. Súdny poplatok sa platí aj za odvolanie proti rozhodnutiu súdu o návrhu na vydanie neodkladného opatrenia. Ak odvolanie podá žalobca alebo navrhovateľ aj žalovaný alebo odporca, platí každý z nich poplatok podľa ceny predmetu svojho odvolania. Ak je odvolateľov na strane žalobcu, navrhovateľa, žalovaného alebo odporcu viac, platia súdny poplatok v závislosti od povahy ich procesného spoločenstva tak, že v prípade samostatného procesného spoločenstva (§ 72 Civilného sporového poriadku) platia súdny poplatok samostatne podľa predmetu svojho odvolania a v prípade nerozlučného procesného spoločenstva (§ 72 Civilného sporového poriadku) spoločne a nerozdielne. 4. Z odvolania proti rozsudku, ktorým súd rozhodol len o základe predmetu konania, sa poplatok neplatí. 5. Podľa položky 1 písmena a) sa platí poplatok aj vtedy, ak má súd o žalobe rozhodnúť vydaním platobného rozkazu alebo európskeho platobného rozkazu.<sup>10</sup>) 6. Ak je predmetom konania viac nárokov, každý nárok sa spoplatňuje samostatne; to neplatí, ak ide o viac nárokov na peňažné plnenie a sú vyjadrené jednou sumou. Ak je predmetom poplatkového úkonu neodkladné opatrenie s viacerými výrokmi, poplatok podľa položky 1 písm. c) sa platí iba raz. 7. Ak žalobca alebo navrhovateľ uplatní alternatívne viac nárokov, poplatok sa platí iba z toho nároku, z ktorého sa podľa tohto zákona vyberá vyšší poplatok. |
+- Poznámky k položke 1 1. Zo žaloby na určenie, či tu právo je, alebo nie je, a zo žaloby na vypratanie nehnuteľnosti, bytu a nebytových priestorov alebo na vydanie veci sa poplatok vyberie podľa písmena b) tejto položky. Ak je predmetom konania viac hnuteľných vecí alebo nehnuteľných vecí, poplatok sa vyberie iba za jednu z nich. 2. Ak žalovaný alebo odporca v konaní uplatňuje svoje práva vzájomnou žalobou alebo vzájomným návrhom, platí poplatok z ceny predmetu poplatkového úkonu. Ak žalovaný alebo odporca uplatňuje vzájomnou žalobou alebo vzájomným návrhom svoju pohľadávku na započítanie, platí súdny poplatok len zo sumy, ktorá prevyšuje to, čo uplatnil žalobca alebo navrhovateľ. Z prejavu žalovaného alebo odporcu, ktorý súd posudzuje ako prostriedok procesnej obrany proti žalobe alebo návrhu, sa súdny poplatok neplatí. 3. Poplatky podľa rovnakej sadzby sa platia i v odvolacom konaní vo veci samej. Súdny poplatok sa platí aj za odvolanie proti rozhodnutiu súdu o návrhu na vydanie neodkladného opatrenia. Ak odvolanie podá žalobca alebo navrhovateľ aj žalovaný alebo odporca, platí každý z nich poplatok podľa ceny predmetu svojho odvolania. Ak je odvolateľov na strane žalobcu, navrhovateľa, žalovaného alebo odporcu viac, platia súdny poplatok v závislosti od povahy ich procesného spoločenstva tak, že v prípade samostatného procesného spoločenstva (§ 72 Civilného sporového poriadku) platia súdny poplatok samostatne podľa predmetu svojho odvolania a v prípade nerozlučného procesného spoločenstva (§ 72 Civilného sporového poriadku) spoločne a nerozdielne. 4. Z odvolania proti rozsudku, ktorým súd rozhodol len o základe predmetu konania, sa poplatok neplatí. 5. Podľa položky 1 písmena a) sa platí poplatok aj vtedy, ak má súd o žalobe rozhodnúť vydaním platobného rozkazu alebo európskeho platobného rozkazu.<sup>10</sup>) 6. Podľa položky 1 písm. b) sa platí aj poplatok za návrh na zrušenie obchodnej spoločnosti alebo družstva, ktoré sa môže začať iba na návrh. Poplatok podľa rovnakej sadzby sa platí aj v odvolacom konaní proti rozhodnutiu o zrušení obchodnej spoločnosti alebo družstva, ako aj za vymenovanie likvidátora, za jeho odvolanie a nahradenie inou osobou. 7. Ak je predmetom konania viac nárokov, každý nárok sa spoplatňuje samostatne; to neplatí, ak ide o viac nárokov na peňažné plnenie a sú vyjadrené jednou sumou. Ak je predmetom poplatkového úkonu neodkladné opatrenie s viacerými výrokmi, poplatok podľa položky 1 písm. c) sa platí iba raz. 8. Ak žalobca alebo navrhovateľ uplatní alternatívne viac nárokov, poplatok sa platí iba z toho nároku, z ktorého sa podľa tohto zákona vyberá vyšší poplatok. |
 
 - Položka 3 |
 
@@ -134,6 +134,10 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Poznámky: Poplatok podľa písmena b) platia spoločne a nerozdielne pôvodný oprávnený a nový oprávnený v exekučnom konaní. Poplatok podľa písmena c) sa platí v exekučnom konaní, v ktorom môže oprávnený zmeniť exekútora bez udania dôvodu. |
 
+- Položka 13a |
+
+- Z návrhu na predĺženie lehoty na odstránenie dôvodu, pre ktorý sa začalo konanie o zrušení obchodnej spoločnosti alebo družstva | 100 eur
+
 - Položka 14 |
 
 - Z likvidácie majetku, z výťažku likvidácie | 6 %, najmenej 33 eur, najviac 16 596,50 eura
@@ -145,6 +149,12 @@ Príloha zákona SNR č. 71/1992 Zb.
 - a) z hodnoty predmetu konania | 2 %, najmenej 16,50 eura, najviac 1 659,50 eura
 
 - b) ak nemožno predmet konania oceniť peniazmi | 33 eur
+
+- Položka 15a |
+
+- Za podanie odvolania, ak nie je ustanovená osobitná sadzba | 5 eur
+
+- Za podanie dovolania, ak nie je ustanovená osobitná sadzba | 10 eur
 
 - Položka 16 |
 
@@ -160,27 +170,23 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - a) z návrhu na prvý zápis |
 
-- 1. akciovej spoločnosti | 750 eur
+- 1. akciovej spoločnosti | 375 eur
 
-- 2. iných právnických osôb | 300 eur
+- 2. iných právnických osôb | 150 eur
 
-- 3. fyzickej osoby podnikateľa | 150 eur
+- 3. organizačnej zložky podniku právnickej osoby | 150 eur
 
-- 4. organizačnej zložky podniku právnickej osoby | 300 eur
+- 4. podniku alebo organizačnej zložky podniku zahraničnej osoby | 150 eur
 
-- 5. organizačnej zložky podniku fyzickej osoby podnikateľa | 30 eur
+- b) z návrhu na zmenu právnej formy obchodnej spoločnosti (družstva) | 165 eur
 
-- 6. podniku alebo organizačnej zložky podniku zahraničnej právnickej osoby | 300 eur
-
-- 7. podniku alebo organizačnej zložky podniku zahraničnej fyzickej osoby | 150 eur
-
-- b) z návrhu na zmenu právnej formy obchodnej spoločnosti (družstva) | 330 eur
-
-- c) z návrhu na zápis zmeny alebo na doplnenie akéhokoľvek počtu údajov týkajúcich sa jednej zapísanej osoby s výnimkou zmeny alebo doplnenia údajov v názve obce, v poštovom smerovacom čísle, v názve ulice alebo iného verejného priestranstva, prípadne s tým súvisiacej zmeny orientačného čísla alebo súpisného čísla, ak nedochádza k zmene jej sídla, miesta podnikania alebo bydliska | 66 eur
+- c) z návrhu na zápis zmeny alebo na doplnenie akéhokoľvek počtu údajov týkajúcich sa jednej zapísanej osoby s výnimkou zmeny alebo doplnenia údajov v názve obce, v poštovom smerovacom čísle, v názve ulice alebo iného verejného priestranstva, prípadne s tým súvisiacej zmeny orientačného čísla alebo súpisného čísla, ak nedochádza k zmene jej sídla, miesta podnikania alebo bydliska | 33 eur
 
 - d) z návrhu akcionára na poverenie na zvolanie valného zhromaždenia | 99 eur
 
-- Poznámky: 1. V jednom poplatku podľa písmena c) tejto položky je zahrnutý akýkoľvek počet návrhov na zápis zmeny alebo doplnenie údajov týkajúcich sa jednej zapísanej osoby, ktoré sú obsiahnuté v jednom návrhu na zápis. 2. V poplatkoch podľa písmen a), b) a c) tejto položky je zahrnutý aj poplatok za zverejnenie zapísaných údajov v Obchodnom vestníku. 3. Zmenou zápisu sa rozumie výmaz pôvodného a zápis nového údaja. 4. Ak sa má vykonať zápis do obchodného registra na registrovom súde príslušnom pre odštepný závod alebo inú organizačnú zložku podniku, ktorých sídlo je mimo obvodu registrového súdu príslušného pre podnikateľa, poplatok sa vyberie len raz na súde príslušnom pre podnikateľa. 5. Námietka proti odmietnutiu vykonania zápisu, odvolanie proti uzneseniu, ktorým súd rozhodol o zamietnutí námietky proti odmietnutiu vykonania zápisu, a odvolanie v konaniach vo veciach obchodného registra podľa § 278 až 303 Civilného mimosporového poriadku poplatku nepodliehajú. 6. Poplatok podľa písmena c) tejto položky sa neplatí, ak ide o návrh na doplnenie údajov o konečnom užívateľovi výhod alebo o návrh na zápis zmeny údajov o konečnom užívateľovi výhod. 7. Poplatok podľa písmena c) tejto položky sa neplatí, ak ide o návrh na zmenu priezviska zapísanej osoby po uzavretí manželstva. |
+- e) z návrhu na predĺženie lehoty, po uplynutí ktorej súd v konaní o zrušení obchodnej spoločnosti alebo družstva rozhodne o výmaze obchodnej spoločnosti alebo družstva z obchodného registra aj bez návrhu podľa Civilného mimosporového poriadku | 100 eur
+
+- Poznámky: 1. V jednom poplatku podľa písmena c) tejto položky je zahrnutý akýkoľvek počet návrhov na zápis zmeny alebo doplnenie údajov týkajúcich sa jednej zapísanej osoby, ktoré sú obsiahnuté v jednom návrhu na zápis. 2. V poplatkoch podľa písmen a), b) a c) tejto položky je zahrnutý aj poplatok za zverejnenie zapísaných údajov v Obchodnom vestníku. 3. Zmenou zápisu sa rozumie výmaz pôvodného údaja a zápis nového údaja. 4. Poplatok podľa písmena c) tejto položky sa neplatí, ak ide o návrh na doplnenie údajov o konečnom užívateľovi výhod alebo o návrh na zápis zmeny údajov o konečnom užívateľovi výhod. 5. Poplatok podľa písmena c) tejto položky sa neplatí, ak ide o návrh na zmenu priezviska zapísanej osoby po uzavretí manželstva. 6. Poplatok podľa písmena c) tejto položky sa neplatí, ak ide o návrh na zápis, ktorým sa potvrdzujú zapísané údaje o podniku zahraničnej právnickej osoby alebo organizačnej zložke podniku zahraničnej právnickej osoby a o organizačnej zložke podniku slovenskej právnickej osoby v obchodnom registri podľa osobitného zákona, ktorý bol podaný fyzickou osobou oprávnenou konať v mene zapísanej právnickej osoby do 30. júna 2021 na tlačive podľa osobitného predpisu. 7. Ak sa má vykonať zápis do obchodného registra na registrovom súde príslušnom pre organizačnú zložku podniku, ktorého adresa umiestnenia je mimo obvodu registrového súdu príslušného pre právnickú osobu, o ktorej organizačnú zložku podniku ide, poplatok sa vyberie len raz na súde príslušnom pre právnickú osobu. 8. Námietka proti odmietnutiu vykonania zápisu, odvolanie proti uzneseniu, ktorým súd rozhodol o zamietnutí námietky proti odmietnutiu vykonania zápisu, a odvolanie v konaniach vo veciach obchodného registra podľa § 278 až 303 Civilného mimosporového poriadku poplatku nepodliehajú. |
 
 - Položka 17a |
 
@@ -282,7 +288,7 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - c) za vyhotovenie a vydanie potvrdenia o tom, že v obchodnom registri určitý zápis nie je, alebo potvrdenia o tom, že určitá listina nie je uložená do zbierky listín | 3 eurá,
 
-- Poznámka: Vyhotovenie a vydanie výpisu z obchodného registra, ktorý sa vydáva po vykonaní zápisu podľa § 8 ods. 2 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a podľa 285 ods. 3 Civilného mimosporového poriadku, poplatku nepodliehajú. Vyhotovenie a vydanie výpisu z obchodného registra v elektronickej podobe poplatku nepodlieha. |
+- Poznámka: Vyhotovenie a vydanie výpisu z obchodného registra, ktorý sa vydáva po vykonaní zápisu podľa § 8 ods. 2 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a podľa 285 ods. 3 Civilného mimosporového poriadku, poplatku nepodliehajú. Vyhotovenie a vydanie výpisu z obchodného registra, potvrdenia o tom, že v obchodnom registri určitý zápis nie je, kópie uloženej listiny alebo potvrdenia o tom, že určitá listina nie je uložená v zbierke listín v elektronickej podobe poplatku nepodlieha. |
 
 - Položka 24c |
 
