@@ -60,6 +60,8 @@
 
 - Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z.
 
+- 4ba) § 3 písm. l) zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
+
 - 4c) Napríklad § 5 ods. 2 zákona č. 530/2003 Z. z. o Obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 5) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku.

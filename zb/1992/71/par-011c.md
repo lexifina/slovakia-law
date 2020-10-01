@@ -1,6 +1,6 @@
 # § 11c Osobitné ustanovenia o poplatkovej povinnosti v upomínacom konaní
 
-(1) Súdny poplatok splatný podaním návrhu na vydanie platobného rozkazu v upomínacom konaní je 50 % z percentnej sadzby ustanovenej v sadzobníku; ustanovenia § 6 ods. 3 a 5 sa nepoužijú.
+(1) Súdny poplatok splatný podaním návrhu na vydanie platobného rozkazu v upomínacom konaní je 50 % z percentnej sadzby ustanovenej v sadzobníku; ustanovenie § 6 ods. 3 sa nepoužije.
 
 (2) Súdny poplatok splatný podaním návrhu na vydanie platobného rozkazu v upomínacom konaní možno platiť len poštovým poukazom, platobnou kartou alebo prevodom z účtu v banke alebo v pobočke zahraničnej banky.
 
