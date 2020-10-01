@@ -44,7 +44,17 @@
 
 - 20) Napríklad § 12 zákona č. 147/1997 Z. z. o neinvestičných fondoch a o doplnení zákona Národnej rady Slovenskej republiky č. 207/1996 Z. z.
 
+- 20a) § 20 ods. 5 zákona č. 7/2005 Z. z. v znení neskorších predpisov.
+
+- § 68 ods. 4 písm. c) Obchodného zákonníka.
+
+- 20b) § 309d až 309h Civilného mimosúdneho poriadku.
+
+- § 68 a 68b Obchodného zákonníka.
+
 - 21) § 69b Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
+
+- 21a) § 75k Obchodného zákonníka.
 
 - 22) Zákon č. 540/2001 Z. z. o štátnej štatistike.
 
@@ -227,3 +237,5 @@
 - 47ae) § 58 ods. 1 písm. c) zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
 - 48) § 46 zákona č. 563/2009 Z. z.
+
+- 49) § 768s ods. 2 písm. b) a c) a ods. 9 Obchodného zákonníka.
