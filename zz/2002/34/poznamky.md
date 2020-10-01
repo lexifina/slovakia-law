@@ -1,12 +1,14 @@
 - 1) Zákon č. 346/2018 Z. z. o registri mimovládnych neziskových organizácií a o zmene a doplnení niektorých zákonov.
 
-- 1a) § 23 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+- 1a) § 3 ods. 4 zákona č. 346/2018 Z. z.
 
-- 1aa) § 3 zákona č. 346/2018 Z. z.
+- 1b) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
 
-- 1aaa) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+- 1c) § 3 zákona č. 346/2018 Z. z.
 
-- 1b) § 9 ods. 3 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov.
+- 1d) § 9 ods. 3 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov v znení zákona č. 52/2018 Z. z.
+
+- 1e) § 23 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 2) Zákon č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
 
