@@ -15,3 +15,7 @@ Príloha č. 1 k nariadeniu vlády č. 356/2006 Z. z.
   - 6. Práca s cytostatikami.
 
   - 7. Práca, pri ktorej dochádza k expozícii respirabilnému prachu kryštalického oxidu kremičitého, ktorý vznikol pracovným procesom.
+
+  - 8. Práca, pri ktorej dochádza k expozícii cez kožu účinkom minerálnych olejov, ktoré boli predtým použité v motoroch s vnútorným spaľovaním na mazanie a chladenie pohyblivých častí vo vnútri motora.
+
+  - 9. Práca, pri ktorej dochádza k expozícii výfukovým emisiám zo vznetových naftových motorov.
