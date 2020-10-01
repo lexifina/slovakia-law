@@ -8,15 +8,15 @@
 
 - 3) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z.
 
-- 3a) § 9 ods. 3 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov.
+- 3a) § 3 ods. 4 zákona č. 346/2018 Z. z.
 
-- 3aaa) § 3 zákona č. 346/2018 Z. z.
+- 3b) § 3 zákona č. 346/2018 Z. z.
+
+- 3c) § 9 ods. 3 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov v znení zákona č. 52/2018 Z. z.
 
 - 4) § 23 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 547/2011 Z. z.
 
 - 5) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
-
-- 6) § 68 až 75 Obchodného zákonníka.
 
 - 7) Zákon č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku v znení neskorších predpisov.
 
