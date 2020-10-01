@@ -1,12 +1,12 @@
-- 1) § 3 ods. 1 písm. e) zákona č. 346/2018 Z. z. o registri mimovládnych neziskových organizácií a o zmene a doplnení niektorých zákonov.
+- 1) § 3 ods. 1 písm. f) zákona č. 346/2018 Z. z. o registri mimovládnych neziskových organizácií a o zmene a doplnení niektorých zákonov.
 
-- 1a) § 3 zákona č. 346/2018 Z. z.
+- 1a) § 3 ods. 4 zákona č. 346/2018 Z. z.
+
+- 1aa) § 3 zákona č. 346/2018 Z. z.
 
 - 1b) § 9 ods. 3 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov.
 
 - 1c) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
-
-- 2) § 68 až 75 Obchodného zákonníka.
 
 - 3) Zákon č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
 
