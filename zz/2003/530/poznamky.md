@@ -30,9 +30,9 @@
 
 - 6) Zákon Slovenskej národnej rady č. 80/1992 Zb. o sídlach a obvodoch súdov Slovenskej republiky, štátnej správe súdov, vybavovaní sťažností a o voľbách prísediacich (zákon o štátnej správe súdov) v znení neskorších predpisov.
 
-- 6a) § 68 ods. 12 Obchodného zákonníka.
+- 6a) § 6 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
 
-- 6b) § 6 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente).
+- 6b) § 5 ods. 3 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
 
 - 6ba) § 5 ods. 3 zákona č. 305/2013 Z. z.
 
@@ -63,8 +63,6 @@
 - 11) § 108 ods. 1, § 109 ods. 1 a 2 a § 111 Obchodného zákonníka.
 
 - 11a) § 52 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 11b) § 171 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - 12) § 226 ods. 1 Obchodného zákonníka.
 
@@ -108,11 +106,23 @@
 
 - 15ac) § 218la až 218lk Obchodného zákonníka.
 
-- 15aca) § 13a Obchodného zákonníka.
+- 15aca) § 105b ods. 1 Obchodného zákonníka.
 
-- 15ad) § 68 ods. 3 písm. d) Obchodného zákonníka.
+- Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
-- 15b) § 68 ods. 8 Obchodného zákonníka.
+- § 10 ods. 11 a § 55 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
+
+- 15acb) Zákon č. 461/2003 Z. z. v znení neskorších predpisov.
+
+- 15acc) § 13a Obchodného zákonníka.
+
+- 15acd) § 56 ods. 3 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení zákona č. 2/2017 Z. z.
+
+- 15ad) § 68 ods. 4 písm. c) Obchodného zákonníka.
+
+- 15b) § 68 ods. 2 Obchodného zákonníka.
+
+- § 309h ods. 1 Civilného mimosporového poriadku.
 
 - 15c) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
