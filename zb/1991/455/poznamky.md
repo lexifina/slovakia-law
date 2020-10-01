@@ -34,7 +34,9 @@
 
 - 8) Zákon č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
-- 8a) Zákon č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov.
+- 8a) Zákon Slovenskej národnej rady č. 78/1992 Zb. o daňových poradcoch a Slovenskej komore daňových poradcov v znení neskorších predpisov.
+
+- 8b) Zákon č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov.
 
 - 9) § 11 a § 13 ods. 1 až 4 zákona č. 2/1991 Zb. o kolektívnom vyjednávaní.
 
@@ -248,7 +250,7 @@
 
 - 37a) § 62 zákona č. 379/1997 Z. z. o prevádzkovaní súkromných bezpečnostných služieb a podobných činností, o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o doplnení zákona č. 65/1965 Zb. Zákonníka práce v znení neskorších predpisov (zákon o súkromných bezpečnostných službách).
 
-- 37b) § 10 ods. 4 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov.
+- 37b) § 7 ods. 1 zákona č. 272/2015 Z. z. v znení zákona č. 52/2018 Z. z.
 
 - 37c) Zákon č. 453/2003 Z. z. o orgánoch štátnej správy v oblasti sociálnych vecí, rodiny a služieb zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -278,7 +280,7 @@
 
 - 41ad) § 6 ods. 1, § 8 ods. 1, § 23 ods. 1 písm. a) a b) a ods. 8 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
-- 41ae) § 15d ods. 3 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení zákona č. 136/2010 Z. z.
+- 41ae) § 5b, 15d ods. 3 a 15g ods. 2 a 3 zákona č. 530/2003 Z. z. v znení zákona č. 390/2019 Z. z.
 
 - 41b) Zmluva medzi Belgickým kráľovstvom, Dánskym kráľovstvom, Spolkovou republikou Nemecko, Helénskou republikou, Španielskym kráľovstvom, Francúzskou republikou, Írskom, Talianskou republikou, Luxemburským veľkovojvodstvom, Holandským kráľovstvom, Rakúskou republikou, Portugalskou republikou, Fínskou republikou, Švédskym kráľovstvom, Spojeným kráľovstvom Veľkej Británie a Severného Írska (členskými štátmi Európskej únie) a Českou republikou, Estónskou republikou, Cyperskou republikou, Lotyšskou republikou, Litovskou republikou, Maďarskou republikou, Maltskou republikou, Poľskou republikou, Slovinskou republikou, Slovenskou republikou o pristúpení Českej republiky, Estónskej republiky, Cyperskej republiky, Lotyšskej republiky, Litovskej republiky, Maďarskej republiky, Maltskej republiky, Poľskej republiky, Slovinskej republiky a Slovenskej republiky k Európskej únii.
 
