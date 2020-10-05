@@ -70,9 +70,9 @@
 
 - 39) Výnos Ministerstva pôdohospodárstva a rozvoja vidieka Slovenskej republiky z 10. decembra 2014 č. 660/2014-100 o poskytovaní podpory v poľnohospodárstve, potravinárstve, lesnom hospodárstve a rybnom hospodárstve (oznámenie č. 368/2014 Z. z.).
 
-- 40) Čl. 2 bod 16 nariadenia Komisie (EÚ) č. 702/2014 z 25. júna 2014, ktorým sa určité kategórie pomoci v odvetví poľnohospodárstva a lesného hospodárstva a vo vidieckych oblastiach vyhlasujú za zlučiteľné s vnútorným trhom pri uplatňovaní článkov 107 a 108 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ L 193, 1. 7. 2014).
+- 40) Čl. 49 ods. 2 nariadenia (EÚ) č. 1308/2013 v platnom znení.
 
-- 41) Čl. 2 bod 17 nariadenia Komisie (EÚ) č. 702/2014 v platnom znení.
+- Čl. 8 delegovaného nariadenia Komisie (EÚ) 2020/592 z 30. apríla 2020 o dočasných výnimočných opatreniach, ktoré sa odchyľujú od určitých ustanovení nariadenia Európskeho parlamentu a Rady (EÚ) č. 1308/2013 a ktoré sú zamerané na riešenie narušenia trhu v sektore ovocia a zeleniny a sektore vinohradníctva a vinárstva v dôsledku pandémie COVID-19 a opatrení s ňou spojených (Ú. v. EÚ L 140, 4. 5. 2020).
 
 - 42) Čl. 50 ods. 1 nariadenia Rady (EÚ) č. 1308/2013 v platnom znení.
 
@@ -87,5 +87,11 @@
 - 48) § 32 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
 - 49) § 6 ods. 10 a 11 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+
+- 49a) Čl. 50 ods. 4 písm. a) a b) nariadenia (EÚ) č. 1308/2013 v platnom znení.
+
+- Čl. 9 delegovaného nariadenia (EÚ) 2020/592.
+
+- Vykonávacie rozhodnutie Komisie z 18. februára 2014, ktorým sa stanovuje zoznam regiónov oprávnených na financovanie z Európskeho fondu regionálneho rozvoja a Európskeho sociálneho fondu a zoznam členských štátov oprávnených na financovanie z Kohézneho fondu na obdobie rokov 2014 – 2020 (2014/99/EÚ) (Ú. v. EÚ L 50, 20. 2. 2014) v platnom znení.
 
 - 50) § 11 zákona č. 543/2007 Z. z. v znení zákona č. 390/2009 Z. z.
