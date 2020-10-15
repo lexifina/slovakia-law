@@ -1,12 +1,10 @@
-- 1) § 3 ods. 2 zákona č. 571/2009 Z. z. o rodičovskom príspevku a o zmene a doplnení niektorých zákonov.
+- 1) § 10 ods. 3 až 13 zákona č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 2) § 2 zákona č. 571/2009 Z. z.
+- 2) § 10 ods. 3 zákona č. 417/2013 Z. z. v znení neskorších predpisov.
 
-- 7) § 11 ods. 2 písm. b) zákona č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení zákona č. 42/2019 Z. z.
+- 7) § 11 ods. 2 písm. b) zákona č. 417/2013 Z. z. v znení zákona č. 42/2019 Z. z.
 
 - 8) § 12 ods. 3 písm. b) tretí bod až šiesty bod zákona č. 417/2013 Z. z. v znení zákona č. 42/2019 Z. z.
-
-- 9) § 10 ods. 3 až 13 zákona č. 417/2013 Z. z. v znení neskorších predpisov.
 
 - 11) § 12 ods. 3 písm. a) zákona č. 417/2013 Z. z.
 
@@ -64,7 +62,7 @@
 
 - § 7 zákona č. 561/2008 Z. z. o príspevku na starostlivosť o dieťa a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- § 6 ods. 1 zákona č. 571/2009 Z. z.
+- § 6 ods. 1 zákona č. 571/2009 Z. z. o rodičovskom príspevku a o zmene a doplnení niektorých zákonov.
 
 - § 10 zákona č. 383/2013 Z. z. o príspevku pri narodení dieťaťa a príspevku na viac súčasne narodených detí a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
