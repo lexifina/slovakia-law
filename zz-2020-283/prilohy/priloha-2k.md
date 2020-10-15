@@ -1,0 +1,1 @@
+Príloha č. 2 k vyhláške č. 283/2020 Z. z. [VZOR - Ohlásenie začatia/ prerušenia/ skončenia/ činnosti chovného zariadenia pre spoločenské zvieratá](../assets/4e538fb1d760b0c542c9261e9dd739422d76c163ff911eb489e44bad737bf6e3.pdf)

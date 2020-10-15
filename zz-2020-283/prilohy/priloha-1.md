@@ -1,0 +1,1 @@
+Príloha č. 1 k vyhláške č. 283/2020 Z. z. [VZOR - Žiadosť o registráciu/zrušenie registrácie prevádzky alebo chovu pre spoločenské zvieratá](../assets/7b5d19c2ddcea0fe8ffa5e9490b9f58551782f66ce9cb5bc769ac78f142fbe00.pdf)
