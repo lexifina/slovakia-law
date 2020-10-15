@@ -1,1 +1,1 @@
-Príloha č. 4 k vyhláške č. 233/2011 Z. z. [Vzor 04](../assets/fc44d7b8b709731f5536d357c1eff5b4e294fd224723ad915cf458bf985612ce.pdf)
+Príloha č. 4 k vyhláške č. 233/2011 Z. z. [Príloha č. 4 k vyhláške č. 233/2011 Z. z.](../assets/380c1665d1d75a41b1188025e8bc47cfd338d1170f6531fea4e3c057e29470ba.pdf)
