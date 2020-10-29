@@ -1,0 +1,1 @@
+Príloha č. 1 k rozhodnutiu predsedu Národnej rady Slovenskej republiky č. 297/2020 Z. z. [Zoznam obcí, v ktorých sa vyhlasujú voľby do orgánov samosprávy obcí na 15. mája 2021](../assets/cd2998ee398b79ec8467651794dc68c7faa08f065ec0b9f20c9684faa1f9752a.pdf)

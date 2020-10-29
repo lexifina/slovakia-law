@@ -1,0 +1,1 @@
+Príloha č. 2 k rozhodnutiu predsedu Národnej rady Slovenskej republiky č. 297/2020 Z. z. [Lehoty na vykonanie volieb do orgánov samosprávy obcí 15. mája 2021](../assets/7deaa8834404613be6579527e5441cb28350f6bc5e21ec01d01f6d63860a1584.pdf)
