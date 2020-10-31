@@ -34,9 +34,7 @@
 
 - 14) § 70 zákona č. 305/2005 Z. z.
 
-- 15) § 143al zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení zákona č. 45/2020 Z. z.
-
-- § 77a a 77b zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 45/2020 Z. z.
+- 15) Zákon č. 296/2020 Z. z. o 13. dôchodku a o zmene a doplnení niektorých zákonov.
 
 - 16) § 32 až 38 zákona č. 378/2015 Z. z. o dobrovoľnej vojenskej príprave a o zmene a doplnení niektorých zákonov.
 
