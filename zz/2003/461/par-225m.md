@@ -2,7 +2,7 @@
 
 # § 225m
 
-(1) Ak účastník konania má nárok na výplatu dávok, ktoré vypláca Sociálna poisťovňa, môže príslušná organizačná zložka Sociálnej poisťovne uskutočniť vymáhanie pohľadávok zrážkami z dávok. Vymáhaniu pohľadávok zrážkami z dávok nepodlieha 13. dôchodok.
+(1) Ak účastník konania má nárok na výplatu dávok, ktoré vypláca Sociálna poisťovňa, môže príslušná organizačná zložka Sociálnej poisťovne uskutočniť vymáhanie pohľadávok zrážkami z dávok.
 
 (2) Príslušná organizačná zložka Sociálnej poisťovne doručí účastníkovi konania do vlastných rúk upovedomenie o začatí vymáhania pohľadávok zrážkami z dávok.
 

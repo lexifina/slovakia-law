@@ -26,8 +26,6 @@
 
 - g) opatrenia sociálnoprávnej ochrany detí a sociálnej kurately finančného charakteru podľa osobitného predpisu,<sup>100ah</sup>)
 
-- h) zvýšenie dôchodku pre bezvládnosť,
-
-- i) 13. dôchodok poskytovaný podľa osobitného predpisu.<sup>56aa</sup>)
+- h) zvýšenie dôchodku pre bezvládnosť.
 
 (4) Pri vymáhaní pohľadávok zrážkami zo mzdy sa zrážka môže vykonať najviac v rozsahu sumy, ktorú možno postihnúť exekúciou podľa osobitného predpisu.<sup>81</sup>)
