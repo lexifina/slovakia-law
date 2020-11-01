@@ -9,3 +9,5 @@ Príloha č. 5 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
   - 3. Smernica Európskeho parlamentu a Rady 2006/123/ES z 12. decembra 2006 o službách na vnútornom trhu (Ú. v. EÚ L 376, 27. 12. 2006).
 
   - 4. Smernica Európskeho parlamentu a Rady 2013/55/EÚ z 20. novembra 2013, ktorou sa mení smernica 2005/36/ES o uznávaní odborných kvalifikácií a nariadenie (EÚ) č. 1024/2012 o administratívnej spolupráci prostredníctvom informačného systému o vnútornom trhu (nariadenie o IMI) (Ú. v. EÚ L 354, 28. 12. 2013).
+
+  - 5. Smernica Európskeho parlamentu a Rady (EÚ) 2018/843 z 30. mája 2018, ktorou sa mení smernica (EÚ) 2015/849 o predchádzaní využívaniu finančného systému na účely prania špinavých peňazí alebo financovania terorizmu a smernice 2009/138/ES a 2013/36/EÚ (Ú. v. EÚ L 156, 19. 6. 2018).

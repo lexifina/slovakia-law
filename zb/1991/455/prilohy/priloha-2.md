@@ -202,6 +202,10 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 82. | Zmenárne | devízová licencia | § 6 zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov |
 
+- 82a. | Poskytovanie služieb zmenárne virtuálnej meny | úplné stredné všeobecné vzdelanie alebo úplné stredné odborné vzdelanie | |
+
+- 82b. | Poskytovanie služieb peňaženky virtuálnej meny | úplné stredné všeobecné vzdelanie alebo úplné stredné odborné vzdelanie | |
+
 - 83. | Zasielateľstvo | – stredoškolské vzdelanie a najmenej 2 roky praxe v odbore alebo – vysokoškolské vzdelanie a najmenej jednoročná prax v odbore | | II
 
 - 84. | Prevádzkovanie závodného hasičského útvaru | oprávnenie na zriaďovanie a prevádzkovanie závodného hasičského útvaru | § 17 ods. 1 písm. n) zákona č. 314/2001 Z. z. |

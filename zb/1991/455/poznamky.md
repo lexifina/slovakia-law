@@ -304,8 +304,6 @@
 
 - 44) Zákon č. 29/1984 Zb. v znení zákona č. 171/1990 Zb. a zákona č. 522/1990 Zb.
 
-- 45) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
-
 - 46) § 13 ods. 1 písm. c) zákona č. 477/2002 Z. z.
 
 - 47) § 352 až 354 Občianskeho súdneho poriadku č. 99/1963 Zb.
