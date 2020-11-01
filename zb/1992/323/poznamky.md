@@ -28,6 +28,8 @@
 
 - 2e) Napríklad § 11 ods. 1 a 9 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov, § 1 ods. 2 a § 6 až 35 zákona č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 2f) Zákon č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 3a) Zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov.
 
 - 4) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
