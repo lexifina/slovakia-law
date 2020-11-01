@@ -81,3 +81,5 @@
 (14) Povinne zverejňovaná zmluva sa zverejňuje nepretržite počas existencie záväzku vzniknutého z povinne zverejňovanej zmluvy, najmenej však počas piatich rokov od nadobudnutia účinnosti podľa zákona.<sup>7g</sup>)
 
 (15) Podrobnosti o zverejňovaní zmlúv v registri a náležitosti informácie podľa § 5a ods. 3 ustanoví nariadenie vlády Slovenskej republiky.
+
+(16) Povinne zverejňovanou zmluvou je aj písomná zmluva o poskytovaní služieb, ktorej účastníkom je povinná osoba, ak sa jej prostredníctvom zabezpečuje vykonávanie regulovanej činnosti v tepelnej energetike a vo vodnom hospodárstve,<sup>7h</sup>) a to aj v prípade, ak je takáto zmluva uzatvorená v bežnom obchodnom styku v rozsahu predmetu podnikania alebo činnosti zapísanej v obchodnom registri alebo v inej úradnej evidencii.

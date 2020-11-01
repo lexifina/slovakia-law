@@ -58,6 +58,8 @@
 
 - 7g) § 47a Občianskeho zákonníka.
 
+- 7h) § 2 písm. c) piaty až siedmy bod zákona č. 250/2012 Z. z. o regulácii v sieťových odvetviach v znení zákona č. 309/2018 Z. z.
+
 - 8) § 22 zákona Slovenskej národnej rady č. 369/1990 Zb.
 
 - 9) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
