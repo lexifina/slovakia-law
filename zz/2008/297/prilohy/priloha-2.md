@@ -12,9 +12,11 @@ Príloha č. 2 k zákonu č. 297/2008 Z. z.
 
     - d) spoločnosti, v ktorých môžu pôsobiť splnomocnení akcionári, alebo spoločnosti, ktoré vydávajú akcie na doručiteľa,
 
-    - e) klient pri svojej podnikateľskej činnosti intenzívne využíva hotovosť, alebo
+    - e) klient, ktorý je štátnym príslušníkom tretej krajiny a ktorý žiada o právo na pobyt alebo o občianstvo v členskom štáte výmenou za prevody kapitálu, nákup majetku alebo vládnych dlhopisov, alebo za investície do podnikateľských subjektov v danom členskom štáte,
 
-    - f) vlastnícka štruktúra klienta sa javí ako neobvyklá alebo nadmerne zložitá so zreteľom na povahu jeho obchodnej činnosti.
+    - f) klient pri svojej podnikateľskej činnosti intenzívne využíva hotovosť, alebo
+
+    - g) vlastnícka štruktúra klienta sa javí ako neobvyklá alebo nadmerne zložitá so zreteľom na povahu jeho obchodnej činnosti.
 
   - 2) Rizikové faktory z hľadiska produktu, služby, obchodu alebo distribučného kanála:
 
@@ -22,11 +24,13 @@ Príloha č. 2 k zákonu č. 297/2008 Z. z.
 
     - b) produkty alebo obchody, ktoré by mohli byť priaznivé pre anonymitu,
 
-    - c) obchody alebo obchodné vzťahy, kedy klient nie je fyzicky prítomný a bez určitých bezpečnostných opatrení, akým je napríklad elektronický podpis,
+    - c) nepriame obchodné vzťahy alebo obchody bez určitých bezpečnostných opatrení, akými sú napríklad prostriedky elektronickej identifikácie, relevantné dôveryhodné služby vymedzené v osobitnom predpise<sup>61</sup>) alebo akýkoľvek iný bezpečný, diaľkový alebo elektronický identifikačný proces regulovaný, uznaný, schválený alebo akceptovaný príslušnými vnútroštátnymi orgánmi,
 
-    - d) prijatá platba od neznámych alebo nepridružených tretích strán, alebo
+    - d) obchody súvisiace s ropou, zbraňami, cennými kovmi, tabakovými výrobkami, umeleckými dielami a ďalšími predmetmi archeologického, historického, kultúrneho a náboženského významu alebo vzácnej vedeckej hodnoty, ako aj slonovina a chránené druhy živočíchov,
 
-    - e) nové produkty a nové obchodné postupy vrátane nových distribučných systémov a používanie nových alebo rozvíjajúcich sa technológií pre nové alebo už existujúce produkty.
+    - e) prijatá platba od neznámych alebo nepridružených tretích strán, alebo
+
+    - f) nové produkty a nové obchodné postupy vrátane nových distribučných systémov a používanie nových alebo rozvíjajúcich sa technológií pre nové alebo už existujúce produkty.
 
   - 3) Rizikové faktory z geografického hľadiska:
 

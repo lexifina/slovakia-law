@@ -34,13 +34,17 @@
 
 - 19a) § 63 zákona č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov.
 
+- 19aa) § 79a zákona č. 492/2009 Z. z. v znení neskorších predpisov.
+
+- 19ab) § 79b zákona č. 492/2009 Z. z. v znení neskorších predpisov.
+
 - 19b) § 75 zákona č. 492/2009 Z. z.
 
 - 19c) § 81 ods. 1 zákona č. 492/2009 Z. z. v znení zákona č. 394/2011 Z. z.
 
 - 20) Zákon č. 80/1997 Z. z. o Exportno-importnej banke Slovenskej republiky v znení neskorších predpisov.
 
-- 21) § 2 písm. a) zákona č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov.
+- 21) § 2 písm. d) zákona č. 30/2019 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov.
 
 - 22) § 7 zákona č. 324/2011 Z. z. o poštových službách a o zmene a doplnení niektorých zákonov.
 
@@ -51,6 +55,8 @@
 - 25) Zákon č. 423/2015 Z. z. o štatutárnom audite a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov v znení zákona č. 91/2016 Z. z.
 
 - 26) Zákon Slovenskej národnej rady č. 78/1992 Zb. o daňových poradcoch a Slovenskej komore daňových poradcov v znení neskorších predpisov.
+
+- 26a) Napríklad zákon č. 455/1991 Zb. v znení neskorších predpisov, zákon č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
 
 - 27) Zákon č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
 
@@ -84,17 +90,29 @@
 
 - 41a) § 3 ods. 1 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
+- 41aa) § 80 ods. 1 zákona č. 492/2009 Z. z. v znení zákona č. 394/2011 Z. z.
+
+- 41ab) § 1 ods. 3 písm. k) a l) zákona č. 492/2009 Z. z. v znení neskorších predpisov.
+
 - 41b) Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov.
 
 - 41c) Zákon č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov v znení zákona č. 52/2018 Z. z.
 
 - 42) § 2 zákona č. 43/2004 Z. z. v znení neskorších predpisov.
 
-- 43) Zákon č. 492/2009 Z. z. v znení neskorších predpisov.
+- 42a) § 7 ods. 11 zákona č. 566/2001 Z. z. v znení zákona č. 253/2015 Z. z.
+
+- 42b) § 2 ods. 1 písm. e), g) alebo písm. h) zákona č. 492/2009 Z. z. v znení zákona č. 281/2017 Z. z.
+
+- 42c) § 2 ods. 19 zákona č. 492/2009 Z. z. v znení zákona č. 281/2017 Z. z.
 
 - 43a) Delegované nariadenie Komisie (EÚ) 2016/1675 zo 14. júla 2016, ktorým sa smernica Európskeho parlamentu a Rady (EÚ) 2015/849 dopĺňa o identifikáciu vysokorizikových tretích krajín so strategickými nedostatkami (Ú. v. EÚ L 254, 20. 9. 2016).
 
-- 44) § 11 ods. 1 zákona č. 171/2005 Z. z. v znení neskorších predpisov.
+- 43b) § 2 ods. 1 písm. g) zákona č. 492/2009 Z. z. v znení zákona č. 281/2017 Z. z.
+
+- 43c) § 2 ods. 1 písm. h) zákona č. 492/2009 Z. z. v znení zákona č. 281/2017 Z. z.
+
+- 44) § 75 písm. b) zákona č. 30/2019 Z. z.
 
 - 45) Napríklad zákon č. 455/1991 Zb. v znení neskorších predpisov.
 
@@ -110,6 +128,10 @@
 
 - 50) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
+- 50a) Delegované nariadenie Komisie (EÚ) 2019/758 z 31. januára 2019, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady (EÚ) 2015/849, pokiaľ ide o regulačné technické predpisy týkajúce sa minimálnych opatrení a druhu dodatočných opatrení, ktoré musia úverové a finančné inštitúcie prijať na zmiernenie rizika prania špinavých peňazí a financovania terorizmu v určitých tretích krajinách (Ú. v. EÚ L 125, 14. 5. 2019).
+
+- 50b) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) č. 1092/2010 z 24. novembra 2010 o makroprudenciálnom dohľade Európskej únie nad finančným systémom a o zriadení Európskeho výboru pre systémové riziká (Ú. v. EÚ L 331, 15. 12. 2010) v platnom znení, nariadenie Európskeho parlamentu a Rady (EÚ) č. 1093/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/78/ES (Ú. v. EÚ L 331, 15. 12. 2010) v platnom znení, nariadenie Európskeho parlamentu a Rady (EÚ) č. 1094/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre poisťovníctvo a dôchodkové poistenie zamestnancov), a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/79/ES (Ú. v. EÚ L 331, 15. 12. 2010) v platnom znení, nariadenie Európskeho parlamentu a Rady (EÚ) č. 1095/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre cenné papiere a trhy) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/77/ES (Ú. v. EÚ L 331, 15. 12. 2010) v platnom znení, nariadenie Rady (EÚ) č. 1096/2010 zo 17. novembra 2010, ktorým sa Európskej centrálnej banke udeľujú osobitné úlohy týkajúce sa fungovania Európskeho výboru pre systémové riziká (Ú. v. EÚ L 331, 15. 12. 2010).
+
 - 51) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
 
 - 51a) Čl. 3 ods. 22 nariadenia Komisie (EÚ) č. 389/2013, ktorým sa zriaďuje register Únie podľa smernice Európskeho parlamentu a Rady 2003/87/ES a rozhodnutí Európskeho parlamentu a Rady č. 280/2004/ES a č. 406/2009/ES a ktorým sa zrušujú nariadenia Komisie (EÚ) č. 920/2010 a č. 1193/2011 (Ú. v. EÚ L 122/1, 3. 5. 2013).
@@ -118,7 +140,7 @@
 
 - 52) § 2 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z.
 
-- 53) Napríklad zákon č. 455/1991 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 566/1993 Zb. v znení neskorších predpisov, zákon č. 483/2001 Z. z.
+- 53) Napríklad zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov, zákon č. 483/2001 Z. z. v znení neskorších predpisov, zákon č. 566/2001 Z. z. v znení neskorších predpisov, zákon č. 203/2011 Z. z. v znení neskorších predpisov, zákon č. 39/2015 Z. z. v znení neskorších predpisov.
 
 - 53a) Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov.
 
@@ -128,14 +150,12 @@
 
 - 54) § 1 ods. 3 písm. a) zákona č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 2 písm. n) zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z.
 
-- 55) 10 ods. 2 písm. b) zákona č. 171/2005 Z. z.
-
 - 56) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
 
 - 57) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
-- 58) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
-
 - 59) § 415 až 459 Občianskeho zákonníka.
 
 - 60) Nariadenie (EÚ) 2015/847.
+
+- 61) Nariadenie (EÚ) č. 910/2014.
