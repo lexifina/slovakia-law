@@ -32,6 +32,4 @@
 
 - 6c) § 1b zákona Slovenskej národnej rady č. 369/1990 Zb.
 
-- 6d) § 10 ods. 6 zákona č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 7) Čl. 71 ods. 1 Ústavy Slovenskej republiky.
