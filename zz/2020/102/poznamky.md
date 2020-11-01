@@ -1,5 +1,13 @@
 - 1) § 10 ods. 3 až 13 zákona č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 1a) § 3 ods. 2 zákona č. 571/2009 Z. z. o rodičovskom príspevku a o zmene a doplnení niektorých zákonov.
+
+- 1b) § 2 zákona č. 571/2009 Z. z.
+
+- 1c) Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 1d) Zákon č. 571/2009 Z. z. v znení neskorších predpisov.
+
 - 2) § 10 ods. 3 zákona č. 417/2013 Z. z. v znení neskorších predpisov.
 
 - 7) § 11 ods. 2 písm. b) zákona č. 417/2013 Z. z. v znení zákona č. 42/2019 Z. z.
@@ -24,15 +32,19 @@
 
 - 20) § 18 ods. 18 zákona č. 447/2008 Z. z. v znení neskorších predpisov.
 
-- 23) § 40 ods. 8 prvá veta zákona č. 447/2008 Z. z. v znení neskorších predpisov.
+- 21) § 36 ods. 2 zákona č. 447/2008 Z. z. v znení zákona č. 180/2011 Z. z.
 
-- 24) § 40 ods. 7 zákona č. 447/2008 Z. z. v znení neskorších predpisov.
+- 22) § 36 ods. 5 zákona č. 447/2008 Z. z.
 
-- 25) § 40 ods. 8 druhá veta zákona č. 447/2008 Z. z. v znení neskorších predpisov.
+- 23) § 40 ods. 8 písm. c) zákona č. 447/2008 Z. z. v znení neskorších predpisov.
 
-- 26) § 40 ods. 9 zákona č. 447/2008 Z. z. v znení neskorších predpisov.
+- 24) § 40 ods. 8 písm. a) zákona č. 447/2008 Z. z. v znení neskorších predpisov.
 
-- 27) § 40 ods. 10 písm. c) zákona č. 447/2008 Z. z. v znení neskorších predpisov.
+- 25) § 40 ods. 8 písm. d) zákona č. 447/2008 Z. z. v znení neskorších predpisov.
+
+- 26) § 40 ods. 8 písm. e) zákona č. 447/2008 Z. z. v znení neskorších predpisov.
+
+- 27) § 40 ods. 8 písm. b) zákona č. 447/2008 Z. z. v znení neskorších predpisov.
 
 - 28) § 40 ods. 10 písm. a) zákona č. 447/2008 Z. z. v znení neskorších predpisov.
 
