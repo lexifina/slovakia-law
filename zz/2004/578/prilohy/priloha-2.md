@@ -1,1 +1,1 @@
-Príloha č. 2 k zákonu č. 578/2004 Z. z. [Vzor 02](../assets/5564401e2178192e52ec84a6d512dbcbc264fb6734bbd81cc945e049ad06493a.pdf)
+Príloha č. 2 k zákonu č. 578/2004 Z. z. [Vzor 02](../assets/210643c0772bacbe5cbc0ab8d52b008ce9a9bb825424682784d3e5298bfd33ea.pdf)
