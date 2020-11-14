@@ -10,7 +10,7 @@
 
 - a) lekár špecializovaného pracoviska, ktorý posudzoval kožnú chorobu z povolania (§ 31a ods. 2),
 
-- b) zdravotnícky pracovník príslušného orgánu verejného zdravotníctva, ktorý prešetroval pracovné podmienky a spôsob práce posudzovanej osoby pri podozrení na kožnú chorobu z povolania podľa § 7 písm. h) alebo § 11 písm. j).
+- b) zdravotnícky pracovník príslušného orgánu verejného zdravotníctva, ktorý prešetroval pracovné podmienky a spôsob práce posudzovanej osoby pri podozrení na kožnú chorobu z povolania podľa § 7 ods. 1 písm. h) alebo § 11 písm. j).
 
 (5) Na rokovanie môže predseda regionálnej komisie na posudzovanie kožných chorôb z povolania prizvať aj ďalších odborníkov; vyjadrenie odborníka nie je pre komisiu záväzné.
 
