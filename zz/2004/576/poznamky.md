@@ -321,3 +321,7 @@
 - 54) Napríklad zákon č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov, zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
 
 - 55) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
+
+- 56) § 38 ods. 1 zákona č. 578/2004 Z. z.
+
+- 57) § 6 zákona č. 406/2011 Z. z. o dobrovoľníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 440/2015 Z. z.
