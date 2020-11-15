@@ -108,17 +108,15 @@ Príloha č. 4 k vyhláške č. 271/2011 Z. z.
 
         - e) základné ročné emisie vyrobených surovín pred zavedením opatrení na ich zníženie a ročné emisie po zavedení opatrení na ich zníženie [g CO<sub>2eq</sub>/MJ],
 
-        - f) neprenosné číslo dokladu (certifikátu), ktoré jedinečným spôsobom identifikuje vykázané zníženie emisií skleníkových plynov; v prípade UER podľa § 9a ods. 5, písm. b) číslo prideľuje ministerstvo, ak nebolo organizáciou podľa § 14c ods. 12 zákona, ktorá vykonáva overenie podľa § 9a ods. 4,
+        - f) neprenosné číslo dokladu, ktoré jedinečným spôsobom identifikuje vykázané zníženie emisií skleníkových plynov; pri UER podľa § 9a ods. 5 písm. b) číslo prideľuje ministerstvo, ak nie je pridelené autorizovanou osobou alebo osobou s akreditáciou alebo iným oprávnením, ktorá vykonáva overenie podľa § 9a ods. 4,
 
-        - g) neprenosné číslo, ktoré jedinečným spôsobom identifikuje metodiku výpočtu a príslušnú schému, ak bolo pridelené; číslo prideľuje alebo oznamuje organizácia podľa § 14c ods. 12 zákona, ktorá vykonáva overenie podľa § 9a ods. 4,
-
-        - h) ak sa projekt týka ťažby ropy, pomer medzi plynom a ropou (Gas-to-oil ratio – GOR) v roztoku ako priemerná ročná historická hodnota a hodnota za sledovaný rok, tlak v nádrži, hĺbka a výnosnosť pri ťažbe surovej ropy podľa vrtov.
+        - g) neprenosné číslo, ktoré jedinečným spôsobom identifikuje metodiku výpočtu a príslušnú schému, ak je pridelené; číslo prideľuje alebo oznamuje autorizovaná osoba alebo osoba s akreditáciou alebo iným oprávnením, ktorá vykonáva overenie podľa § 9a ods. 4.
 
     - 3. Pôvod
 
       - „Pôvod“ je krajina, kde bola východisková surovina na výrobu pohonnej látky vyťažená, získaná alebo vypestovaná a jej obchodný názov, ak existuje.
 
-      - Pri pohonných látkach iných ako biopalivo je pôvod uvedený v časti 2 ôsmom bode. Údaj sa uvádza, ak je právnická osoba alebo fyzická osoba držiteľom potrebných informácií na základe
+      - Údaj sa uvádza dobrovoľne, ak je právnická osoba alebo fyzická osoba držiteľom potrebných informácií na základe
 
         - a) skutočnosti, že je právnickou osobou alebo fyzickou osobou, ktorá dováža ropu z krajiny mimo Európsku úniu alebo prijíma dodávky ropy z iného členského štátu podľa osobitného predpisu<sup>9</sup>), alebo
 
@@ -132,7 +130,7 @@ Príloha č. 4 k vyhláške č. 271/2011 Z. z.
 
     - 4. Miesto nákupu
 
-      - „Miesto nákupu“ je krajina a názov spracovateľského zariadenia alebo rafinérie, v ktorej pohonná látka alebo dodávaná energia prešli posledným podstatným spracovaním, pričom týmto označením sa uvádza pôvod pohonnej látky alebo dodávanej energie v súlade s osobitným predpisom.<sup>10</sup>) Ak právnická osoba a fyzická osoba preukáže, že sa jej ani s vynaložením všetkého úsilia nepodarilo miesto nákupu zistiť, uvedie sa, či pohonná látka a dodávaná energia pochádza z členského štátu alebo z krajiny mimo Európsku úniu.
+      - „Miesto nákupu“ je krajina a názov spracovateľského zariadenia alebo rafinérie, v ktorej pohonná látka alebo dodávaná energia prešli posledným podstatným spracovaním, pričom týmto označením sa uvádza pôvod pohonnej látky alebo dodávanej energie v súlade s osobitným predpisom.<sup>10</sup>) Údaj sa uvádza dobrovoľne.
 
     - 5. Zjednodušená metodika podávania správy
 
@@ -183,7 +181,3 @@ Príloha č. 4 k vyhláške č. 271/2011 Z. z.
   - 7. Elektrická energia
 
     - Na predkladanie správ o dodanej elektrine, ktorú spotrebúvajú elektrické vozidlá, motocykle alebo elektrické bicykle, ministerstvo zverejní na svojom webovom sídle vnútroštátnu priemernú určenú hodnotu intenzity emisií skleníkových plynov za životný cyklus elektriny. Ministerstvo zverejňuje zmenu určenej hodnoty, ak nastane významná zmena energetického mixu výroby elektriny.
-
-  - 8. Obchodný názov východiskovej suroviny
-
-  - [tabuľka](../assets/c57c29a1a5a7fb28ce61b1b99f0f0b02d796d4c27cc12893c0443fbedafa9960.pdf)

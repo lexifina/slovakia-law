@@ -10,10 +10,6 @@
 
 - c) intenzita emisií skleníkových plynov,
 
-- d) znižovanie emisií v predvýrobnej fáze,
-
-- e) pôvod,
-
-- f) miesto nákupu.
+- d) znižovanie emisií v predvýrobnej fáze.
 
 (3) Údaje uvedené v odseku 2 sa oznamujú súhrnne pre každý typ pohonnej látky a dodanej energie bez ohľadu na obchodný názov a základné vlastnosti, ako napríklad oktánové alebo cetanové číslo. Zmesi motorového benzínu a etanolu E85 sa uvádzajú ako samostatná pohonná látka.

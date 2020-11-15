@@ -4,9 +4,11 @@
 
 - a) je spojené s projektom, ktorý začal generovať úspory emisií skleníkových plynov po 1. januári 2011, pričom schéma na dosiahnutie znižovania emisií v predvýrobnej fáze sa tiež považuje za projekt,b)
 
-- b) je množstvo zníženia emisií skleníkových plynov overené autorizovanou osobou alebo osobou s akreditáciou, či iným oprávnením podľa práva členských štátov podľa odseku 4 a
+- b) je množstvo zníženia emisií skleníkových plynov overené autorizovanou osobou alebo osobou s akreditáciou, či iným oprávnením podľa práva členských štátov podľa odseku 4,
 
-- c) nie je množstvo zníženia emisií skleníkových plynov<sup>7a</sup>) zohľadnené na plnenie záväzkov<sup>7b</sup>) v žiadnom štáte.
+- c) nie je množstvo zníženia emisií skleníkových plynov<sup>7a</sup>) zohľadnené na plnenie záväzkov<sup>7b</sup>) v žiadnom štáte a
+
+- d) k nemu došlo v roku, za ktorý sa započítava.
 
 (2) Znižovanie emisií v predvýrobnej fáze sa môže uplatniť len na tú časť priemerných určených hodnôt, ktorá náleží emisiám v predvýrobnej fáze:
 

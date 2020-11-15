@@ -6,8 +6,6 @@
 
 - 3) § 2 nariadenia vlády Slovenskej republiky č. 488/2010 Z. z. o podmienkach poskytovania podpory v poľnohospodárstve formou priamych platieb.
 
-- 4) § 5 ods. 1 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 5) Napríklad § 15 zákona č. 572/2004 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov.
 
 - 6) § 19 zákona č. 137/2010 Z. z. o ovzduší.
@@ -18,13 +16,13 @@
 
 - 7b) Oznámenie Ministerstva zahraničných vecí Slovenskej republiky o uzavretí Kjótskeho protokolu k Rámcovému dohovoru Organizácie Spojených národov o zmene klímy (oznámenie č. 139/2005 Z. z.).
 
-- 7c) Súbor STN EN ISO 14064 Skleníkové plyny (83 9064), STN EN ISO 14065 Skleníkové plyny. Požiadavky na validačné a overovacie orgány na účely ich akreditácie alebo iných foriem uznávania (ISO 14065: 2013) (83 9065) a ISO 14066 Greenhouse gases - Competence requirements for greenhouse gas validation teams and verification teams (Skleníkové plyny. Požiadavky na kompetentnosť validačných a overovacích tímov (pri validácii a overovaní vyhlásení o skleníkových plynoch).
+- 7c) Súbor STN EN ISO 14064 Skleníkové plyny (83 9064), STN EN ISO 14065 Skleníkové plyny. Požiadavky na validačné a overovacie orgány na účely ich akreditácie alebo iných foriem uznávania (ISO 14065) (83 9065) a ISO 14066 Greenhouse gases - Competence requirements for greenhouse gas validation teams and verification teams (Skleníkové plyny. Požiadavky na kompetentnosť validačných a overovacích tímov (pri validácii a overovaní vyhlásení o skleníkových plynoch).
 
 - 7d) Súbor STN EN ISO 14064 Skleníkové plyny (83 9064).
 
-- 7e) STN EN ISO 14064-3 Skleníkové plyny. Časť 3: Pokyny na validáciu a overovanie výrokov o skleníkových plynoch (ISO 14064-3: 2006) (83 9064).
+- 7e) STN EN ISO 14064-3 Skleníkové plyny. Časť 3: Špecifikácia a usmernenie na validáciu a overovanie výrokov o skleníkových plynoch (ISO 14064-3) (83 9064).
 
-- 7f) STN EN ISO 14065 Skleníkové plyny. Požiadavky na validačné a overovacie orgány na účely ich akreditácie alebo iných foriem uznávania (ISO 14065: 2013) (83 9065), Nariadenia Komisie (EÚ) č. 600/2012 a 601/2012.
+- 7f) STN EN ISO 14065 Skleníkové plyny. Požiadavky na validačné a overovacie orgány na účely ich akreditácie alebo iných foriem uznávania (ISO 14065) (83 9065). Nariadenia Komisie (EÚ) č. 600/2012 a 601/2012.
 
 - 7g) Nariadenie Komisie (EÚ) č. 389/2013 z 2. mája 2013, ktorým sa zriaďuje register Únie podľa smernice Európskeho parlamentu a Rady 2003/87/ES a rozhodnutí Európskeho parlamentu a Rady č. 280/2004/ES a č. 406/2009/ES a ktorým sa zrušujú nariadenia Komisie (EÚ) č. 920/2010 a č. 1193/2011 (Ú. v. EÚ L 122, 3. 5. 2013).
 
