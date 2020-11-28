@@ -24,7 +24,7 @@
 
 - 11a) Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov.
 
-- 11b) § 535 Občianskeho zákonníka.
+- 11b) § 4b zákona č. 566/2001 Z. z. v znení zákona č. 237/2017 Z. z.
 
 - 11c) Čl. 2 ods. 1 nariadenia Európskeho parlamentu a Rady (EÚ) č. 648/2012 zo 4. júla 2012 o mimoburzových derivátoch, centrálnych protistranách a archívoch obchodných údajov (Ú. v. EÚ L 201, 27. 7. 2012) v platnom znení.
 
@@ -164,6 +164,8 @@
 
 - Nariadenie Európskej komisie (ES) č. 1725/2003 z 29. septembra 2003, ktorým sa prijímajú určité medzinárodné účtovné štandardy, v súlade s nariadením Európskeho parlamentu a Rady (ES) č. 1606/2002 (Ú. v. EÚ L 261, 13. 10. 2003, Mimoriadne vydanie Ú. v. EÚ 13/zv. 32).
 
+- 53da) Delegované nariadenie Komisie (EÚ) 2019/815 zo 17. decembra 2018, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady (EÚ) 2004/109/ES, pokiaľ ide o regulačné technické predpisy o špecifikácii jednotného elektronického formátu vykazovania (Ú. v. EÚ L 143, 29. 5. 2019) v platnom znení.
+
 - 53e) § 20a a 20b zákona č. 431/2002 Z. z. v znení zákona č. 130/2015 Z. z.
 
 - 53f) § 176b ods. 2 Obchodného zákonníka.
@@ -243,5 +245,3 @@
 - 71) § 25 zákona č. 747/2004 Z. z.
 
 - 71a) Nariadenie (EÚ) č. 600/2014.
-
-- 72) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
