@@ -827,3 +827,7 @@
 - 101) § 3 ods. 6 a 11 a § 27f ods. 1 zákona č. 530/1990 Zb. v znení neskorších predpisov.
 
 - 102) § 3 ods. 8 až 10 zákona č. 530/1990 Zb. v znení neskorších predpisov.
+
+- 103) Čl. 4 ods. 1 bod 1písm. b) nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 104) § 54 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
