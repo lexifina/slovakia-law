@@ -14,6 +14,12 @@
 
 - 2aa) Napríklad § 30 ods. 2 zákona č. 582/2004 Z. z. o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady v znení zákona č. 538/2007 Z. z.
 
+- 2ab) § 6a zákona č. 487/2013 Z. z. o protifašistickom odboji, postavení a pôsobnosti Slovenského zväzu protifašistických bojovníkov v znení zákona č. 338/2020 Z. z.
+
+- 2ac) § 7a zákona Národnej rady Slovenskej republiky č. 125/1996 Z. z. o nemorálnosti a protiprávnosti komunistického systému a ktorým sa menia a dopĺňajú niektoré zákony v znení zákona č. 338/2020 Z. z.
+
+- 2ad) § 7 ods. 1 zákona č. 553/2002 Z. z. o sprístupnení dokumentov o činnosti bezpečnostných zložiek štátu 1939 – 1989 a o založení Ústavu pamäti národa a o doplnení niektorých zákonov (zákon o pamäti národa) v znení neskorších predpisov.
+
 - 2b) § 4 ods. 1 zákona č. 184/1999 Z. z. o používaní jazykov národnostných menšín.
 
 - 2c) § 43a ods. 2 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 237/2000 Z. z.
