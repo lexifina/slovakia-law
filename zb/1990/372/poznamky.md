@@ -42,6 +42,10 @@
 
 - 3f) § 5a zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení zákona č. 299/2013 Z. z.
 
+- 3g) § 7a zákona Národnej rady Slovenskej republiky č. 125/1996 Z. z. o nemorálnosti a protiprávnosti komunistického systému v znení zákona č. 338/2020 Z. z.
+
+- § 6a zákona č. 487/2013 Z. z. o protifašistickom odboji, postavení a pôsobnosti Slovenského zväzu protifašistických bojovníkov v znení zákona č. 338/2020 Z. z.
+
 - 4) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 4a) Zákon č. 367/2000 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o zmene a doplnení niektorých zákonov.
