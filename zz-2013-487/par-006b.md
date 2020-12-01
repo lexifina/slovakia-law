@@ -1,0 +1,3 @@
+# § 6b
+
+V prípade pochybností o tom, či sa osoba považuje za predstaviteľa režimu Slovenskej republiky z rokov 1939 až 1945 alebo iného režimu založeného na fašistickej ideológii alebo nacistickej ideológii, na ktorého sa vzťahuje zákaz podľa § 6a, sa príslušný orgán obráti na Ústav pamäti národa,<sup>6</sup>) ktorý je povinný zaslať vyjadrenie v lehote do 90 dní, v ktorom zároveň posúdi aj možnú účasť posudzovanej osoby na protifašistickom odboji alebo inom odpore proti režimu Slovenskej republiky z rokov 1939 až 1945 alebo inému režimu založenému na fašistickej ideológii alebo nacistickej ideológii.
