@@ -1,0 +1,3 @@
+# § 7a
+
+Umiestňovať na pamätníkoch, pomníkoch a pamätných tabuliach texty, vyobrazenia a symboly oslavujúce, propagujúce alebo obhajujúce režim založený na komunistickej ideológii alebo jeho predstaviteľov sa zakazuje. Za predstaviteľov režimu podľa predchádzajúcej vety sa považujú členovia orgánov Komunistickej strany Československa a Komunistickej strany Slovenska na okresnej a vyššej úrovni, príslušníci bezpečnostných zložiek štátu a osoby podieľajúce sa na komunistických zločinoch<sup>4</sup>) v období od 25. februára 1948 do 30. novembra 1989. Zákaz podľa prvej vety sa nevzťahuje na predstaviteľov režimu, ktorí sa zapojili do odporu proti komunistickému režimu.
