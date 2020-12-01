@@ -54,8 +54,6 @@
 
 - 26a) § 4 zákona č. 181/2014 Z. z. o volebnej kampani a o zmene a doplnení zákona č. 85/2005 Z. z. o politických stranách a politických hnutiach v znení neskorších predpisov.
 
-- 26aa) § 3 ods. 2 zákona č. 181/2014 Z. z. v znení neskorších predpisov.
-
 - 26b) § 23 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
 - 26c) § 3 ods. 8 zákona č. 181/2014 Z. z.
