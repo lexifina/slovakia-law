@@ -40,25 +40,29 @@
 
   - 6. príspevku na učebnice,
 
-  - 7. príspevku na záujmové vzdelávanie žiakov,
+  - 7. finančných prostriedkov za mimoriadne výsledky žiakov,
 
-  - 8. finančných prostriedkov za mimoriadne výsledky žiakov,
+  - 8. finančných prostriedkov na riešenie havarijných situácií,
 
-  - 9. finančných prostriedkov na riešenie havarijných situácií,
+  - 9. príspevku na skvalitnenie podmienok výchovy a vzdelávania žiakov zo sociálne znevýhodneného prostredia,
 
-  - 10. finančných prostriedkov na realizáciu rozvojových projektov,
+  - 10. finančných prostriedkov na odchodné,
 
-  - 11. príspevku na skvalitnenie podmienok výchovy a vzdelávania žiakov zo sociálne znevýhodneného prostredia,
+  - 11. finančných prostriedkov na úhradu nákladov súvisiacich so starostlivosťou o pedagogického zamestnanca a odborného zamestnanca školy,<sup>1</sup>) v ktorej sa vzdelávanie považuje za sústavnú prípravu na povolanie, na úhradu vakcíny proti chrípke a vakcíny proti hepatitíde typu A a B,
 
-  - 12. finančných prostriedkov na odchodné,
+- d) školy alebo školského zariadenia pokutu vo výške sumy, ktorá zodpovedá sume použitej inak, za nedodržanie účelu použitia
 
-  - 13. finančných prostriedkov na úhradu nákladov súvisiacich so starostlivosťou o pedagogického zamestnanca a odborného zamestnanca školy,<sup>1</sup>) v ktorej sa vzdelávanie považuje za sústavnú prípravu na povolanie, na úhradu vakcíny proti chrípke a vakcíny proti hepatitíde typu A a B,
+  - 1. príspevku na záujmové vzdelávanie,
 
-- d) pokutu 2 000 eur za nevypracovanie správy o hospodárení podľa § 7 ods. 2 a 3,
+  - 2. príspevku na špecifiká,
 
-- e) pokutu od 300 do 2 000 eur za poskytnutie nesprávnych údajov o výsledkoch hospodárenia v správe o hospodárení podľa § 7 ods. 2 a 3,
+  - 3. finančných prostriedkov na realizáciu rozvojových projektov,
 
-- f) pokutu od 300 eur do 33 000 eur za poskytnutie nesprávnych údajov o počtoch detí alebo žiakov a ďalších údajov podľa § 7 ods. 4.
+- e) pokutu 2 000 eur za nevypracovanie správy o hospodárení podľa § 7 ods. 2 a 3,
+
+- f) pokutu od 300 do 2 000 eur za poskytnutie nesprávnych údajov o výsledkoch hospodárenia v správe o hospodárení podľa § 7 ods. 2 a 3,
+
+- g) pokutu od 300 eur do 33 000 eur za poskytnutie nesprávnych údajov o počtoch detí alebo žiakov a ďalších údajov podľa § 7 ods. 4.
 
 (2) Ministerstvo alebo okresný úrad v sídle kraja uloží
 
@@ -78,7 +82,7 @@
 
   - 3. poskytnutie nepravdivých údajov potrebných na rozdeľovanie a poukazovanie výnosu dane z príjmov obciam za školy a školské zariadenia vo svojej zriaďovateľskej pôsobnosti podľa § 7a ods. 1 až 5 pokutu od 300 eur do 33 000 eur.
 
-(3) Ministerstvo alebo okresný úrad v sídle kraja pri určení výšky pokuty podľa odseku 1 písm. e) a f) a odseku 2 písm. a) tretieho bodu a písm. b) tretieho bodu prihliada na závažnosť, spôsob a rozsah porušenia povinnosti, na následky takého porušenia a ich trvanie.
+(3) Ministerstvo alebo okresný úrad v sídle kraja pri určení výšky pokuty podľa odseku 1 písm. f) a g) a odseku 2 písm. a) tretieho bodu a písm. b) tretieho bodu prihliada na závažnosť, spôsob a rozsah porušenia povinnosti, na následky takého porušenia a ich trvanie.
 
 (4) Uložením pokuty nezaniká povinnosť, za ktorej porušenie sa uložila. Ministerstvo alebo okresný úrad v sídle kraja môže uložiť pokutu aj opakovane, a to až do odstránenia nezákonného stavu.
 

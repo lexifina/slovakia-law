@@ -1,12 +1,12 @@
 # § 4c Financovanie havarijných situácií
 
-(1) Ministerstvo môže prideliť z kapitoly ministerstva a z kapitoly ministerstva vnútra v priebehu roka na základe skutočnej potreby zriaďovateľovi verejnej školy, zriaďovateľovi verejnej materskej školy a zriaďovateľovi verejného školského zariadenia, ktorý o to požiada, účelovo finančné prostriedky na bežné výdavky na riešenie vzniknutých havarijných situácií a na kapitálové výdavky na riešenie vzniknutých havarijných situácií. Žiadosť predkladá zriaďovateľ ministerstvu prostredníctvom príslušného okresného úradu v sídle kraja v priebehu roka. Havarijné situácie sú:
+(1) Ministerstvo môže prideliť z kapitoly ministerstva a z kapitoly ministerstva vnútra v priebehu roka na základe skutočnej potreby zriaďovateľovi verejnej školy, zriaďovateľovi štátnej materskej školy a zriaďovateľovi štátneho školského zariadenia, ktorý o to požiada, účelovo finančné prostriedky na bežné výdavky na riešenie vzniknutých havarijných situácií a na kapitálové výdavky na riešenie vzniknutých havarijných situácií. Žiadosť predkladá zriaďovateľ ministerstvu prostredníctvom príslušného okresného úradu v sídle kraja v priebehu roka. Havarijné situácie sú:
 
 - a) udalosť, ktorou boli vážne ohrozené životy a zdravie osôb,
 
 - b) udalosť, ktorou bola na majetku školy alebo majetku školského zariadenia spôsobená škoda ohrozujúca jej prevádzku.
 
-(2) Havarijnou situáciou nie je udalosť podľa odseku 1 písm. b), ktorá vznikla porušením povinnosti zriaďovateľa verejnej školy, zriaďovateľa verejného školského zariadenia, riaditeľa verejnej školy s právnou subjektivitou alebo riaditeľa verejného školského zriadenia s právnou subjektivitou, ak majetok, na ktorom vznikla havarijná situácia, je vo vlastníctve tejto školy alebo školského zariadenia, postupovať v súlade s požiadavkami potrebnej odbornej alebo náležitej starostlivosti pri riadnom hospodárení s majetkom školy alebo majetkom školského zariadenia podľa osobitných predpisov.<sup>22f</sup>)
+(2) Havarijnou situáciou nie je udalosť podľa odseku 1 písm. b), ktorá vznikla porušením povinnosti zriaďovateľa verejnej školy, zriaďovateľa štátneho školského zariadenia, riaditeľa verejnej školy s právnou subjektivitou alebo riaditeľa štátneho školského zriadenia s právnou subjektivitou, ak majetok, na ktorom vznikla havarijná situácia, je vo vlastníctve tejto školy alebo školského zariadenia, postupovať v súlade s požiadavkami potrebnej odbornej alebo náležitej starostlivosti pri riadnom hospodárení s majetkom školy alebo majetkom školského zariadenia podľa osobitných predpisov.<sup>22f</sup>)
 
 (3) Žiadosť zriaďovateľa obsahuje najmä
 

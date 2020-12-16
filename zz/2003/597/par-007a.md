@@ -24,7 +24,9 @@
 
 - k) všetkých žiakov základných škôl a základných škôl pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami podľa stavu k 15. septembru začínajúceho školského roka v zriaďovateľskej pôsobnosti okresného úradu v sídle kraja, ak tieto školy nemajú na území obce zriadené vlastné zariadenie školského stravovania a žiaci sa stravujú v zariadeniach školského stravovania v zriaďovateľskej pôsobnosti obce, štátom uznanej cirkvi alebo náboženskej spoločnosti a inej právnickej osoby alebo fyzickej osoby,
 
-- l) žiakov základných škôl podľa stavu k 15. septembru začínajúceho školského roka v zriaďovateľskej pôsobnosti obce.
+- l) žiakov základných škôl podľa stavu k 15. septembru začínajúceho školského roka v zriaďovateľskej pôsobnosti obce,
+
+- m) detí so špeciálnymi výchovno-vzdelávacími potrebami v materskej škole podľa stavu k 15. septembru začínajúceho školského roka.
 
 (2) Na účely zberu údajov podľa odseku 1 sa do počtu detí, žiakov a poslucháčov započítavajú deti, žiaci a poslucháči prijatí do školy alebo do školského zariadenia na základe rozhodnutia riaditeľa školy alebo riaditeľa školského zariadenia.<sup>24g</sup>)
 

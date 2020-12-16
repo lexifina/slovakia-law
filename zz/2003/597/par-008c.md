@@ -8,7 +8,7 @@
 
 (2) Dohodovacie konanie sa začína na žiadosť zriaďovateľa. Žiadosť predkladá zriaďovateľ ministerstvu prostredníctvom príslušného okresného úradu v sídle kraja v priebehu kalendárneho roka.
 
-(3) Žiadosť zriaďovateľa podľa odseku 1 písm. a) obsahuje najmä zdôvodnenie nedostatku finančných prostriedkov poskytnutých školám, verejným materským školám a verejným školským zariadeniam
+(3) Žiadosť zriaďovateľa podľa odseku 1 písm. a) obsahuje najmä zdôvodnenie nedostatku finančných prostriedkov poskytnutých školám, štátnym materským školám a štátnym školským zariadeniam
 
 - a) na osobné náklady,
 
@@ -34,4 +34,4 @@
 
 (8) Ministerstvo každoročne zverejňuje zoznam zriaďovateľov, ktorým boli pridelené finančné prostriedky na účely podľa odseku 1 písm. a), a výšku pridelených finančných prostriedkov na svojom webovom sídle. Tento zoznam aktualizuje ministerstvo najneskôr do piatich pracovných dní po uplynutí kalendárneho štvrťroku.
 
-(9) Ministerstvo každoročne zverejňuje na svojom webovom sídle metodiku prideľovania finančných prostriedkov zriaďovateľom škôl, v ktorých sa vzdelávanie považuje za sústavnú prípravu na povolanie, verejných materských škôl a verejných školských zariadení.
+(9) Ministerstvo každoročne zverejňuje na svojom webovom sídle metodiku prideľovania finančných prostriedkov zriaďovateľom škôl, v ktorých sa vzdelávanie považuje za sústavnú prípravu na povolanie, štátnych materských škôl a štátnych školských zariadení.

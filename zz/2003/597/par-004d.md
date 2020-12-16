@@ -2,7 +2,13 @@
 
 (1) Ministerstvo môže prideliť z kapitoly ministerstva a z kapitoly ministerstva vnútra účelovo viazané finančné prostriedky na realizáciu rozvojového projektu najviac do výšky 10 000 eur. Rozvojový projekt je projekt zameraný na rozvoj výchovy a vzdelávania v školách a školských zariadeniach a služieb spojených s výchovou a vzdelávaním poskytovaných školskými účelovými zariadeniami.
 
-(2) Žiadosť o financovanie rozvojového projektu predkladá zriaďovateľ verejnej školy, verejnej materskej školy alebo verejného školského zariadenia ministerstvu prostredníctvom príslušného okresného úradu v sídle kraja. Zoznam oblastí rozvojových projektov a výzvy na podanie žiadosti o financovanie rozvojového projektu zverejňuje ministerstvo na svojom webovom sídle v priebehu kalendárneho roka.
+(2) Žiadosť o financovanie rozvojového projektu predkladá zriaďovateľ školy alebo školského zariadenia ministerstvu prostredníctvom príslušného okresného úradu v sídle kraja alebo priamo ministerstvu. Ministerstvo zverejňuje na svojom webovom sídle v priebehu kalendárneho roka
+
+- a) zoznam oblastí rozvojových projektov,
+
+- b) výzvy na podanie žiadosti o financovanie rozvojového projektu a
+
+- c) informáciu o tom, či sa žiadosť o financovanie rozvojového projektu predkladá ministerstvu prostredníctvom okresného úradu v sídle kraja alebo priamo ministerstvu.
 
 (3) Žiadosť podľa odseku 2 obsahuje najmä
 
@@ -20,7 +26,7 @@
 
 (5) Ministerstvo prideľuje finančné prostriedky na realizáciu rozvojového projektu podľa využitia rozvojového projektu
 
-- a) vo výchove a vzdelávaní v školách a školských zariadeniach alebo v službách spojených s výchovou a vzdelávaním poskytovaných verejnými školskými účelovými zariadeniami,
+- a) vo výchove a vzdelávaní v školách a školských zariadeniach alebo v službách spojených s výchovou a vzdelávaním poskytovaných školskými účelovými zariadeniami,
 
 - b) v mieste sídla žiadateľa o financovanie rozvojového projektu, v územnej pôsobnosti okresu alebo v územnej pôsobnosti kraja.
 
