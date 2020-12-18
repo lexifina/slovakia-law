@@ -10,8 +10,6 @@
 
   - 2. 3 % sumy životného minima pre jednu plnoletú fyzickú osobu podľa osobitného predpisu<sup>56</sup>) platnej k 1. januáru kalendárneho roka, v ktorom sa určuje suma starobného dôchodku alebo suma invalidného dôchodku vyplácaného po dovŕšení dôchodkového veku za každý ďalší rok obdobia dôchodkového poistenia podľa odseku 4 po získaní obdobia dôchodkového poistenia podľa odseku 4 v rozsahu 39 rokov.
 
-(2) Suma minimálneho dôchodku poberateľa starobného dôchodku, ktorý je sporiteľ alebo bol sporiteľ podľa osobitného predpisu,<sup>1</sup>) sa znižuje rovnako, ako sa znižuje suma starobného dôchodku podľa § 66 ods. 6; do obdobia účasti na starobnom dôchodkovom sporení sa započítava len obdobie podľa odseku 4.
-
 (3) Suma starobného dôchodku alebo suma invalidného dôchodku vyplácaného po dovŕšení dôchodkového veku sa zvýši tak, aby suma tohto dôchodku alebo úhrn súm podľa písmena c) sa rovnal sume minimálneho dôchodku, ak
 
 - a) poistenec získal obdobie dôchodkového poistenia podľa odseku 4 v rozsahu najmenej 30 rokov,
