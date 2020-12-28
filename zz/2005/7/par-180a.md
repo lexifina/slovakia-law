@@ -28,4 +28,12 @@ Ak majú dlhové nástroje<sup>32f</sup>) premenlivý úrok odvodený od všeobe
 
 (4)
 
-Ak je úpadcom banka alebo pobočka zahraničnej banky, tak z výťažku speňaženia majetku tvoriaceho všeobecnú podstatu po uspokojení všetkých ostatných pohľadávok vrátane podriadených pohľadávok sa uspokoja pohľadávky z cenných papierov, ktoré majú v emisných podmienkach uvedené, že ide o trvalý finančný nástroj bez povinnosti jeho vyrovnania, a je v nich uvedená skutočnosť, ktorá trvalo alebo dočasne znižuje hodnotu cenného papiera alebo umožňuje jeho konverziu na nástroje vlastného kapitálu Tier 1 podľa osobitného predpisu.<sup>32g</sup>)
+Ak je úpadcom banka alebo pobočka zahraničnej banky, tak z výťažku speňaženia majetku tvoriaceho všeobecnú podstatu po uspokojení všetkých ostatných pohľadávok vrátane podriadených pohľadávok a nástrojov kapitálu Tier 2<sup>32fa</sup>) podľa odseku 5 sa uspokoja pohľadávky z cenných papierov, ktoré majú v emisných podmienkach uvedené, že ide o trvalý finančný nástroj bez povinnosti jeho vyrovnania, a je v nich uvedená skutočnosť, ktorá trvalo alebo dočasne znižuje hodnotu cenného papiera alebo umožňuje jeho konverziu na nástroje vlastného kapitálu Tier 1 podľa osobitného predpisu.<sup>32g</sup>)
+
+(5)
+
+Pred uspokojením pohľadávok podľa odseku 4 a po uspokojení všetkých ostatných pohľadávok vrátane pohľadávok podľa § 95 ods. 2 a 3 sa uspokoja pohľadávky vyplývajúce z nástrojov kapitálu Tier 2.
+
+(6)
+
+Ak pohľadávka vyplýva z nástroja, ktorý je čo len čiastočne uznaný ako nástroj vlastných zdrojov podľa osobitného predpisu,<sup>32h</sup>) celá pohľadávka sa uspokojí podľa odseku 4 alebo odseku 5.
