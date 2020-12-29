@@ -1,6 +1,6 @@
 # § 33g
 
-(1) Národná banka Slovenska rozhodne o určení miery proticyklického kapitálového vankúša štvrťročne, pričom zohľadňuje
+(1) Národná banka Slovenska štvrťročne posúdi mieru cyklického systémového rizika a rozhodne o určení miery proticyklického kapitálového vankúša, pričom zohľadňuje
 
 - a) referenčnú hodnotu pre proticyklický kapitálový vankúš vypočítanú podľa odseku 2,
 
@@ -20,7 +20,7 @@
 
 (5) Ak Národná banka Slovenska zníži existujúcu mieru proticyklického kapitálového vankúša, tak určí aj predpokladané obdobie, počas ktorého sa neočakáva zvýšenie miery proticyklického kapitálového vankúša.
 
-(6) Národná banka Slovenska oznamuje štvrťročné určenie miery proticyklického kapitálového vankúša Európskemu výboru pre systémové riziká a na svojom webovom sídle. Oznámenie obsahuje
+(6) Národná banka Slovenska štvrťročne uverejní na svojom webovom sídle
 
 - a) platnú mieru proticyklického kapitálového vankúša,
 
@@ -30,8 +30,10 @@
 
 - d) odôvodnenie určenej miery proticyklického kapitálového vankúša,
 
-- e) dátum, od ktorého budú banky povinné uplatňovať zvýšenú mieru proticyklického kapitálového vankúša na účely výpočtu proticyklického kapitálového vankúša špecifického pre banku, ak sa miera proticyklického kapitálového vankúša zvyšuje,
+- e) dátum, od ktorého sú banky povinné uplatňovať zvýšenú mieru proticyklického kapitálového vankúša na účely výpočtu proticyklického kapitálového vankúša špecifického pre banku, ak sa miera proticyklického kapitálového vankúša zvyšuje,
 
-- f) odôvodnenie skrátenia lehoty, ak je dátum uvedený v písmene e) v lehote kratšej ako 12 kalendárnych mesiacov po dátume oznámenia,
+- f) odôvodnenie skrátenia lehoty, ak je dátum uvedený v písmene e) v lehote kratšej ako 12 kalendárnych mesiacov po dátume uverejnenia,
 
 - g) obdobie, počas ktorého sa nepredpokladá zvýšenie miery proticyklického kapitálového vankúša a jeho odôvodnenie, ak sa miera proticyklického kapitálového vankúša znižuje.
+
+(7) Národná banka Slovenska oznámi Európskemu výboru pre systémové riziká každú zmenu miery proticyklického kapitálového vankúša a informácie podľa odseku 6.

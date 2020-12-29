@@ -1,6 +1,6 @@
 # § 38a
 
-(1) Banka a pobočka zahraničnej banky sú povinné vypracovať analýzu rizík súvisiacich s bezpečnosťou prevádzkových priestorov, v ktorých ich zamestnanci uskutočňujú styk s klientmi a súčasne manipulujú s peňažnou hotovosťou.
+(1) Banka a pobočka zahraničnej banky sú povinné vypracovať analýzu rizík súvisiacich s bezpečnosťou prevádzkových priestorov, v ktorých ich zamestnanci uskutočňujú styk s klientmi a súčasne manipulujú s peňažnou hotovosťou, a aktualizovať túto analýzu v termínoch podľa odseku 5 a vždy do 30 dní od spáchania trestného činu lúpeže v týchto priestoroch alebo od zistenia násilného vniknutia do týchto priestorov.
 
 (2) Banka a pobočka zahraničnej banky sú povinné priestory, v ktorých ich zamestnanci uskutočňujú styk s klientmi a súčasne manipulujú s peňažnou hotovosťou, zabezpečiť
 
@@ -18,4 +18,4 @@
 
 - b) Policajnému zboru na jeho požiadanie poskytovať záznamy a údaje získané zariadeniami podľa odseku 2 písm. b) na účely plnenia úloh Policajného zboru.
 
-(5) Opatrením, ktoré vydá Národná banka Slovenska a ktoré sa vyhlasuje v zbierke zákonov, sa ustanoví obsah, rozsah a termíny vypracúvania analýzy rizík podľa odseku 1, čo sa rozumie pod bezpečnostnými opatreniami podľa odseku 2, a požiadavky na tieto bezpečnostné opatrenia.
+(5) Opatrením, ktoré vydá Národná banka Slovenska a ktoré sa vyhlasuje v zbierke zákonov, sa ustanoví obsah a rozsah vypracúvania analýzy rizík podľa odseku 1, termíny jej aktualizácie a čo sa rozumie pod bezpečnostnými opatreniami podľa odseku 2, a požiadavky na tieto bezpečnostné opatrenia.

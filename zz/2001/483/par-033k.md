@@ -12,19 +12,19 @@
 
 (3) Banka počas obdobia, v ktorom nespĺňa alebo neprekračuje požiadavku na kombinovaný vankúš, môže konať podľa odseku 2 iba do výšky maximálnej rozdeliteľnej sumy vypočítanej podľa odseku 4. Ak banka vykoná ktorékoľvek opatrenie podľa odseku 2 písm. a), b) alebo c), má to za následok zníženie maximálnej rozdeliteľnej sumy.
 
-(4) Banka vypočítava maximálnu rozdeliteľnú sumu ako súčin sumy vypočítanej podľa odseku 5 a koeficientu určeného podľa odseku 6.
+(4) Banka vypočítava maximálnu rozdeliteľnú sumu ako súčin sumy vypočítanej podľa odseku 5 a koeficientu určeného podľa odseku 6. Maximálna rozdeliteľná suma sa musí znížiť o sumu vyplývajúcu z opatrenia podľa odseku 2.
 
-(5) Suma podľa odseku 4 je súčtom predbežného zisku nezahrnutého do vlastného kapitálu Tier 1 podľa osobitného predpisu,<sup>30zh</sup>) ktorý bol vytvorený od posledného rozhodnutia o rozdelení ziskov alebo od posledného vykonania činnosti podľa odseku 2, podľa toho, ktoré z nich nastalo neskôr a koncoročného zisku nezahrnutého do vlastného kapitálu Tier 1 podľa osobitného predpisu,<sup>30zh)</sup> ktorý bol vytvorený od posledného rozhodnutia o rozdelení ziskov alebo od posledného vykonania činnosti podľa odseku 2, podľa toho, ktoré z nich nastalo neskôr, znížený o sumu, ktorá by bola splatná formou dane, ak by predbežný zisk a koncoročný zisk neboli rozdelené.
+(5) Suma, ktorá sa má podľa odseku 4 vynásobiť, je súčtom predbežného zisku nezahrnutého do vlastného kapitálu Tier 1 podľa osobitného predpisu,<sup>30zh</sup>) ktorý je znížený o rozdelený zisk alebo platbu vyplývajúcu z opatrení podľa odseku 2, a koncoročného zisku nezahrnutého do vlastného kapitálu Tier 1 podľa osobitného predpisu,<sup>30zh</sup>) ktorý je znížený o rozdelený zisk alebo platbu vyplývajúcu z opatrení podľa odseku 2, znížený o sumu, ktorá by bola splatnou daňou, ak by predbežný zisk a koncoročný zisk neboli rozdelené.
 
 (6) Koeficient je
 
-- a) 0, ak vlastný kapitál Tier 1 držaný bankou, ktorý sa nepoužije na splnenie požiadavky na vlastné zdroje podľa osobitného predpisu,<sup>30zi</sup>) vyjadrený ako percentuálny podiel celkovej rizikovej expozície vypočítanej podľa osobitného predpisu,<sup>30v</sup>) je v prvom kvartile požiadavky na kombinovaný vankúš,
+- a) 0, ak vlastný kapitál Tier 1 držaný bankou, ktorý sa nepoužije na splnenie požiadavky na vlastné zdroje podľa osobitného predpisu<sup>30bc</sup>) a opatrenia na nápravu podľa § 50 ods. 1 písm. m) týkajúceho sa osobitnej požiadavky na vlastné zdroje podľa § 29b na riešenie iných rizík, ako je riziko nadmerného využívania finančnej páky, vyjadrený ako percentuálny podiel celkovej rizikovej expozície vypočítanej podľa osobitného predpisu,<sup>30v</sup>) je v prvom kvartile požiadavky na kombinovaný vankúš,
 
-- b) 0,2, ak vlastný kapitál Tier 1 držaný bankou, ktorý sa nepoužije na splnenie požiadavky na vlastné zdroje podľa osobitného predpisu,<sup>30zi</sup>) vyjadrený ako percentuálny podiel celkovej rizikovej expozície podľa osobitného predpisu,<sup>30v</sup>) je v druhom kvartile požiadavky na kombinovaný vankúš,
+- b) 0,2, ak vlastný kapitál Tier 1 držaný bankou, ktorý sa nepoužije na splnenie požiadavky na vlastné zdroje podľa osobitného predpisu<sup>30bc</sup>) a opatrenia na nápravu podľa § 50 ods. 1 písm. m) týkajúceho sa osobitnej požiadavky na vlastné zdroje podľa § 29b na riešenie iných rizík, ako je riziko nadmerného využívania finančnej páky, vyjadrený ako percentuálny podiel celkovej rizikovej expozície podľa osobitného predpisu,<sup>30v</sup>) je v druhom kvartile požiadavky na kombinovaný vankúš,
 
-- c) 0,4, ak vlastný kapitál Tier 1 držaný bankou, ktorý sa nepoužije na splnenie požiadavky na vlastné zdroje podľa osobitného predpisu,<sup>30zi</sup>) vyjadrený ako percentuálny podiel celkovej rizikovej expozície podľa osobitného predpisu,<sup>30v</sup>) je v treťom kvartile požiadavky na kombinovaný vankúš,
+- c) 0,4, ak vlastný kapitál Tier 1 držaný bankou, ktorý sa nepoužije na splnenie požiadavky na vlastné zdroje podľa osobitného predpisu<sup>30bc</sup>) a opatrenia na nápravu podľa § 50 ods. 1 písm. m) týkajúceho sa osobitnej požiadavky na vlastné zdroje podľa § 29b na riešenie iných rizík, ako je riziko nadmerného využívania finančnej páky, vyjadrený ako percentuálny podiel celkovej rizikovej expozície podľa osobitného predpisu,<sup>30v</sup>) je v treťom kvartile požiadavky na kombinovaný vankúš,
 
-- d) 0,6, ak vlastný kapitál Tier 1 držaný bankou, ktorý sa nepoužije na splnenie požiadavky na vlastné zdroje podľa osobitného predpisu,<sup>30zi</sup>) vyjadrený ako percentuálny podiel celkovej rizikovej expozície podľa osobitného predpisu,<sup>30v</sup>) je vo štvrtom kvartile požiadavky na kombinovaný vankúš, alebo je vyšší ako horná hranica štvrtého kvartilu.
+- d) 0,6, ak vlastný kapitál Tier 1 držaný bankou, ktorý sa nepoužije na splnenie požiadavky na vlastné zdroje podľa osobitného predpisu<sup>30bc</sup>) a opatrenia na nápravu podľa § 50 ods. 1 písm. m) týkajúceho sa osobitnej požiadavky na vlastné zdroje podľa § 29b na riešenie iných rizík, ako je riziko nadmerného využívania finančnej páky, vyjadrený ako percentuálny podiel celkovej rizikovej expozície podľa osobitného predpisu,<sup>30v</sup>) je vo štvrtom kvartile požiadavky na kombinovaný vankúš, alebo je vyšší ako horná hranica štvrtého kvartilu.
 
 (7) Na výpočet dolnej hranice kvartilu požiadavky na kombinovaný vankúš sa použije tento vzorec:
 
@@ -79,3 +79,11 @@ Oznámenie obsahuje
 (11) Banka je povinná prijať opatrenia na zabezpečenie presného výpočtu výšky rozdeliteľného zisku a maximálnej rozdeliteľnej sumy a Národnej banke Slovenska preukáže na vyžiadanie presnosť výpočtu.
 
 (12) Obmedzenia podľa odsekov 1 až 11 sa vzťahujú len na platby, ktorých výsledkom je zníženie vlastného kapitálu Tier 1 alebo zníženie ziskov, pričom pozastavenie platieb alebo nevykonanie úhrad nepredstavuje zlyhanie ani podmienku na začatie konania v režime platobnej neschopnosti.
+
+(13) Banka nespĺňa požiadavku na kombinovaný vankúš, ak nemá vlastné zdroje vo výške a kvalite potrebnej na súčasné splnenie požiadavky na kombinovaný vankúš a každej z požiadaviek podľa
+
+- a) ustanovení osobitného predpisu<sup>30zka</sup>) a opatrenia na nápravu podľa § 50 ods. 1 písm. m) týkajúceho sa osobitnej požiadavky na vlastné zdroje podľa § 29b na riešenie iných rizík, ako je riziko nadmerného využívania finančnej páky,
+
+- b) ustanovení osobitného predpisu<sup>30zkb</sup>) a opatrenia na nápravu podľa § 50 ods. 1 písm. m) týkajúceho sa osobitnej požiadavky na vlastné zdroje podľa § 29b na riešenie iných rizík, ako je riziko nadmerného využívania finančnej páky,
+
+- c) ustanovení osobitného predpisu<sup>30zkc</sup>) a opatrenia na nápravu podľa § 50 ods. 1 písm. m) týkajúceho sa osobitnej požiadavky na vlastné zdroje podľa § 29b na riešenie iných rizík, ako je riziko nadmerného využívania finančnej páky.

@@ -34,7 +34,7 @@ Na účely tohto zákona sa rozumie
 
   - 3. obchodník s cennými papiermi alebo iná právnická osoba podľa prvého bodu; tieto tvoria sektor investičných služieb,
 
-- c) skupinou skupina osôb navzájom prepojených vzťahom ovládania podľa písmena d) vrátane podskupiny,
+- c) skupinou na účely tejto časti zákona skupina osôb navzájom prepojených vzťahom ovládania podľa písmena d) vrátane podskupiny,
 
 - d) ovládaním vzťah, ak
 

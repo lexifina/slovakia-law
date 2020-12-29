@@ -12,7 +12,7 @@
 
 (3) Národná banka Slovenska sa k ozdravnému plánu vyjadrí formou stanoviska do šiestich mesiacov od jeho predloženia podľa odseku 1. Ak má banka v inom členskom štáte zriadenú významnú pobočku a ozdravný plán obsahuje opatrenia, ktoré sa týkajú tejto pobočky, Národná banka Slovenska sa k ozdravnému plánu vyjadrí po prerokovaní s príslušným orgánom dohľadu členského štátu, v ktorom sa významná pobočka nachádza.
 
-(4) Národná banka Slovenska do piatich pracovných dní odo dňa predloženia ozdravného plánu podľa odseku 1 zašle ozdravný plán Rade pre riešenie krízových situácií<sup>30zx</sup>) (ďalej len "rezolučná rada"), ktorá ho môže preskúmať. Ak rezolučná rada zistí, že ozdravný plán obsahuje opatrenia, ktoré môžu negatívne ovplyvniť riešiteľnosť krízovej situácie banky, oznámi túto skutočnosť Národnej banke Slovenska. Oznámenie rezolučnej rady má charakter odporúčania.
+(4) Národná banka Slovenska do piatich pracovných dní odo dňa predloženia ozdravného plánu podľa odseku 1 zašle ozdravný plán rezolučnej rade, ktorá ho môže preskúmať. Ak rezolučná rada zistí, že ozdravný plán obsahuje opatrenia, ktoré môžu negatívne ovplyvniť riešiteľnosť krízovej situácie banky, oznámi túto skutočnosť Národnej banke Slovenska. Oznámenie rezolučnej rady má charakter odporúčania.
 
 (5) Ak Národná banka Slovenska zistí, že ozdravný plán nespĺňa podmienky podľa odseku 1, informuje o tom banku a požiada ju, aby sa k nedostatkom ozdravného plánu vyjadrila v lehote určenej Národnou bankou Slovenska. Po doručení vyjadrenia banky Národná banka Slovenska vyzve banku, aby v lehote do dvoch mesiacov odstránila nedostatky ozdravného plánu. Lehotu na odstránenie nedostatkov ozdravného plánu môže Národná banka Slovenska na žiadosť banky predĺžiť najviac o jeden mesiac.
 

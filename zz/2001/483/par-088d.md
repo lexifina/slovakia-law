@@ -28,6 +28,6 @@
 
 (5) Ministerstvo môže popri opatrení podľa odseku 4 uložiť banke alebo pobočke zahraničnej banky v závislosti od závažnosti porušenia povinnosti a dĺžky trvania protiprávneho stavu aj pokutu až do výšky dvojnásobku neoprávnene použitej sumy štátneho príspevku pre mladomanželov. Pri nesplnení opatrenia podľa odseku 4 možno pokutu uložiť aj opakovane, najviac však v celkovej sume, ktorá nepresiahne sumu podľa prvej vety. Výnosy z pokút sú príjmom štátneho rozpočtu.
 
-(6) Na konanie podľa odsekov 4 a 5 sa vzťahujú ustanovenia všeobecného predpisu o správnom konaní.<sup>72a</sup>)
+(6) Na konanie podľa odsekov 4 a 5 sa vzťahuje správny poriadok.
 
 (7) Zamestnanci a členovia orgánov osoby určenej podľa odseku 1 a ministerstva sú povinní dodržiavať mlčanlivosť o všetkých skutočnostiach súvisiacich s vykonávaním činnosti podľa odsekov 1 až 3. Táto povinnosť mlčanlivosti trvá aj po zrušení poverenia pre túto osobu na vykonávanie činnosti podľa odseku 1, po skončení pracovnoprávneho vzťahu, iného právneho vzťahu alebo po skončení výkonu funkcie v orgánoch tejto osoby; ustanovenia § 91 ods. 2 až 7, § 92 ods. 1 až 7 a § 93 tým nie sú dotknuté.
