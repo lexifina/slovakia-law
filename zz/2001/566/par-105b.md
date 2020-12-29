@@ -18,7 +18,7 @@
 
 - d) dátum a čas príslušného účtového zápisu na tomto technickom účte.
 
-(3) Výpis z technického účtu obsahuje počet kusov cenných papierov podľa druhov, emitentov a emisií vrátane ich podielu z príslušnej emisie.
+(3) Výpis z technického účtu obsahuje množstvo alebo objem cenných papierov podľa druhov, emitentov a emisií vrátane ich podielu z príslušnej emisie.
 
 (4) Pri úkonoch vyžadujúcich uvedenie údajov o majiteľovi cenného papiera v evidencii cenných papierov podľa tohto zákona sa pri cenných papieroch evidovaných na technickom účte nahrádzajú údaje o majiteľovi cenného papiera údajmi o centrálnom depozitári, ktorý technický účet zriadil, pričom sa uvedie táto skutočnosť.
 

@@ -36,7 +36,7 @@
 
 - 16aa) § 3, 8, 12,18 a 19 zákona č. 530/1990 Zb. v znení neskorších predpisov.
 
-- 16ab) Bod 4.2.2. prílohy XII nariadenia Komisie (ES) č. 809/2004 z 29. apríla 2004, ktorým sa vykonáva smernica Európskeho parlamentu a Rady 2003/71/ES, pokiaľ ide o informácie obsiahnuté v prospekte, ako aj ich formát, uvádzanie odkazov a uverejnenie týchto prospektov a šírenie reklamy (Mimoriadne vydanie Ú. v. EÚ, kap. 6/zv. 7; Ú. v. EÚ L 149, 30. 4. 2004) v platnom znení.
+- 16ab) Príloha č. 17 Delegovaného nariadenia Komisie (EÚ) 2019/980 zo 14. marca 2019, ktorým sa dopĺňa nariadenie Európskeho parlamentu a Rady (EÚ) 2017/1129, pokiaľ ide o formát, obsah, preskúmanie a schvaľovanie prospektu, ktorý sa má uverejniť pri verejnej ponuke cenných papierov alebo ich prijatí na obchodovanie na regulovanom trhu, a ktorým sa zrušuje nariadenie Komisie (ES) č. 809/2004 (Ú. v. EÚ L 166, 21. 6. 2019).
 
 - 16aba) Nariadenie Európskeho parlamentu a Rady (EÚ) 2017/1129 zo 14. júna 2017 o prospekte, ktorý sa má uverejniť pri verejnej ponuke cenných papierov alebo ich prijatí na obchodovanie na regulovanom trhu, a o zrušení smernice 2003/71/ES (Ú. v. EÚ L 168, 30. 6. 2017).
 
@@ -242,17 +242,29 @@
 
 - 56aa) Čl. 113 ods. 7 nariadenia (EÚ) č. 575/2013.
 
+- 56aaa) Medzinárodný účtovný štandard 28 Prílohy nariadenia Komisie (ES) č. 1126/2008 z 3. novembra 2008, ktorým sa v súlade s nariadením Európskeho parlamentu a Rady (ES) č. 1606/2002 prijímajú určité medzinárodné účtovné štandardy (Ú. v. EÚ L 320, 29. 11. 2008) v platnom znení.
+
+- 56aab) Čl. 435 ods. 2 písm. b) a c) nariadenia (EÚ) č. 575/2013 v platnom znení.
+
 - 56ab) Čl. 435 ods. 2 písm. c) nariadenia (EÚ) č. 575/2013.
 
 - 56aba) § 14 a 38a zákona č. 429/2002 Z. z. v znení neskorších predpisov.
 
 - 56abb) Napríklad § 18 a 52 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
 
+- 56abc) Antidiskriminačný zákon.
+
 - 56ac) § 34 zákona č. 423/2015 Z. z. o štatutárnom audite a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 56aca) Delegované nariadenie Komisie (EÚ) č. 604/2014 zo 4. marca 2014, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2013/36/EÚ, pokiaľ ide o regulačné technické predpisy so zreteľom na kvalitatívne a vhodné kvantitatívne kritériá na vymedzenie kategórií pracovníkov, ktorých profesionálne činnosti majú významný vplyv na rizikový profil inštitúcie (Ú. v. EÚ L 167, 6. 6. 2014).
 
-- 56ad) Čl. 28, 52 a 63 nariadenia (EÚ) č. 575/2013.
+- 56acaa) Čl. 23 delegovaného nariadenia (EÚ) č. 2017/565 v platnom znení.
+
+- 56ad) Čl. 52 alebo 63 nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 56ae) Čl. 4 ods. 1 bod 146 nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 56af) Čl. 450 ods. 1 písm. g), h), i) a k) nariadenia (EÚ) č. 575/2013 v platnom znení.
 
 - 56b) Čl. 8 ods. 1 písm. l) a čl. 76 ods. 4 nariadenia Európskeho Parlamentu a Rady (EÚ) č. 1093/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/78/ES (Ú. v. EÚ L 331, 15. 12. 2010) v platnom znení.
 
@@ -336,17 +348,25 @@
 
 - 58ja) Čl. 432 nariadenia (EÚ) č. 575/2013.
 
+- 58jaa) Čl. 8 nariadenia (EÚ) č. 1093/2010 v platnom znení.
+
 - 58jb) Čl. 326 až 350 nariadenia (EÚ) č. 575/2013.
 
 - 58jc) Čl. 345 nariadenia (EÚ) č. 575/2013.
 
 - 58jca) Čl. 15 nariadenia (EÚ) č. 575/2013 v platnom znení.
 
+- 58jcaa) Nariadenie (EÚ) č. 1093/2010 v platnom znení.
+
+- 58jcb) Čl. 4 ods. 1 bod 145 nariadenia (EÚ) č. 575/2013 v platnom znení.
+
 - 58jd) § 33a až 33n zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - 58je) § 33a a 33c zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - 58jea) Čl. 2 písm. f) nariadenia (EÚ) 2017/1129.
+
+- 58jeb) § 29a a 29b zákona č. 483/2001 Z. z. v znení zákona č. 340/2020 Z. z.
 
 - 58jf) Napríklad čl. 72 až 76 delegovaného nariadenia (EÚ) 2017/565.
 
@@ -452,10 +472,6 @@
 
 - 75) § 8 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení zákona č. 154/1999 Z. z.
 
-- 76) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
-
-- Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 76a) § 7 písmeno h) Správneho súdneho poriadku.
 
 - 77) Napríklad § 23 zákona č. 530/1990 Zb.
@@ -527,6 +543,16 @@
 - 89m) § 23a zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
 
 - 89n) § 15 zákona č. 224/2006 Z. z. v znení neskorších predpisov.
+
+- 89o) § 49 ods. 1 písm. h) zákona č. 305/2013 Z. z. v znení zákona č. 273/2015 Z. z.
+
+- 89p) § 3 a 3a zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov v znení zákona č. 52/2018 Z. z.
+
+- 89q) § 10 ods. 11 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
+
+- 89r) Čl. 2 bod 1 nariadenia Európskeho parlamentu a Rady (EÚ) č. 648/2012 zo 4. júla 2012 o mimoburzových derivátoch, centrálnych protistranách a archívoch obchodných údajov (Ú. v. EÚ L 201, 27. 7. 2012) v platnom znení.
+
+- 89s) Čl. 17 nariadenia (EÚ) č. 648/2012 v platnom znení.
 
 - 90) Nariadenie (EÚ) č. 909/2014.
 
@@ -610,11 +636,11 @@
 
 - 103) Zákon č. 429/2002 Z. z. o burze cenných papierov v znení neskorších predpisov.
 
-- 103a) Nariadenie Komisie (ES) č. 809/2004/ES z 29. apríla 2004 o vykonávaní Smernice 2003/71/ES Európskeho parlamentu a Rady, pokiaľ ide o informácie obsiahnuté v prospekte, ako ich formát, uvádzanie odkazu a uverejnenie týchto prospektov a šírenia reklám (Ú. v. EÚ L 149 z 30. 4. 2004).
+- 103a) Delegované nariadenie (EÚ) 2019/980.
 
 - 107ca) Nariadenie Európskeho parlamentu a Rady (ES) č. 1060/2009 zo 16. septembra 2009 o ratingových agentúrach (Ú. v. EÚ L 302, 17. 11. 2009).
 
-- 107cb) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 648/2012 zo 4. júla 2012 o mimoburzových derivátoch, centrálnych protistranách a archívoch obchodných údajov (Ú. v. EÚ L 201, 27. 7. 2012) v platnom znení.
+- 107cb) Nariadenie (EÚ) č. 648/2012 v platnom znení.
 
 - 107cc) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 236/2012 zo 14. marca 2012 o predaji nakrátko a určitých aspektoch swapov na úverové zlyhanie (Ú. v. EÚ L 86, 24. 3. 2012).
 
@@ -648,6 +674,12 @@
 
 - 109c) § 29 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
+- 109d) Napríklad zákon č. 483/2001 Z. z. v znení neskorších predpisov, zákon č. 39/2015 Z. z. v znení neskorších predpisov.
+
+- 109e) § 33 zákona č. 203/2011 Z. z. o kolektívnom investovaní v znení neskorších predpisov.
+
+- 109f) Čl. 15 nariadenia (EÚ) č. 575/2013 v platnom znení.
+
 - 110) § 13 zákona č. 329/2000 Z. z.
 
 - 110a) § 6 ods. 21 zákona č. 483/2001 Z. z. v znení zákona č. 46/2011 Z. z.
@@ -673,6 +705,10 @@
 - 110da) Čl. 15 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1092/2010 z 24. novembra 2010 o makroprudenciálnom dohľade Európskej únie nad finančným systémom a o zriadení Európskeho výboru pre systémové riziká (Ú. v. EÚ L 331, 15. 12. 2010).
 
 - 110e) Napríklad zákon č. 367/2000 Z. z. v znení neskorších predpisov, § 13 až 15 zákona č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
+
+- 110ea) § 6 ods. 20 písm. c) zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 110ea) Čl. 316 nariadenia (EÚ) č. 575/2013 v platnom znení.
 
 - 110f) § 47 ods. 9 a § 48 ods. 9 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
@@ -750,6 +786,8 @@
 
 - 114ha) Čl. 37 nariadenia (EÚ) 2017/2402.
 
+- 114hb) § 98 ods. 7 písm. a) zákona č. 371/2014 Z. z. v znení zákona č. 437/2015 Z. z.
+
 - 114i) § 156a Obchodného zákonníka v znení neskorších predpisov.
 
 - 115) § 25 zákona č. 747/2004 Z. z.
@@ -777,6 +815,10 @@
 - 121) § 31 ods. 4 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 
 - 121a) Nariadenie (EÚ) č. 600/2014.
+
+- 121aa) Zákon č. 747/2004 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 297/2008 Z. z. v znení neskorších predpisov.
 
 - 122) § 68 ods. 7 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 

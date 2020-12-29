@@ -1,20 +1,22 @@
 # § 71da Zásady odmeňovania u obchodníka s cennými papiermi
 
-(1) Obchodník s cennými papiermi je povinný uplatňovať zásady odmeňovania podľa tohto zákona u
+(1) Obchodník s cennými papiermi je povinný uplatňovať zásady odmeňovania podľa tohto zákona pre osoby, ktorých profesionálne činnosti majú významný vplyv na rizikový profil obchodníka s cennými papiermi, a to spôsobom, ktorý zohľadňuje jeho veľkosť, vnútornú organizáciu a povahu, rozsah a zložitosti jeho činností, u
 
-- a) všetkých členov štatutárneho orgánu obchodníka s cennými papiermi,
+- a) všetkých členov predstavenstva,
 
-- b) vedúcich zamestnancov zodpovedných za riadenie rizík obchodníka s cennými papiermi,
+- b) všetkých členov dozornej rady,
 
-- c) vedúcich zamestnancov zodpovedných za vykonávanie obchodov obchodníka s cennými papiermi,
+- c) vedúcich zamestnancov,
 
-- d) zamestnancov zodpovedných za riadenie rizík obchodníka s cennými papiermi vrátane zamestnancov oprávnených určovať limity alebo prekročenie limitov v rámci riadenia rizík obchodníka s cennými papiermi,
+- d) zamestnancov s riadiacou zodpovednosťou za kontrolné funkcie alebo významné obchodné útvary,
 
-- e) všetkých členov dozornej rady obchodníka s cennými papiermi,
+- e) zamestnancov, ktorí majú nárok na významnú odmenu za predchádzajúce účtovné obdobie, ak
 
-- f) vedúceho útvaru vnútorného auditu,
+  - 1. odmena tohto zamestnanca je rovná alebo vyššia ako 500 000 eur a je rovná alebo vyššia ako priemerná odmena priznaná osobám podľa písmen a) až c),
 
-- g) ďalších zamestnancov, ktorí nie sú uvedení v písmenách a) až d), ktorí sú zodpovední za podstupovanie rizika a ktorých profesionálne činnosti majú významný vplyv na rizikový profil banky podľa osobitného predpisu.<sup>56aca</sup>)
+  - 2. vykonávajú profesionálnu činnosť vo významnom obchodnom útvare ustanovenom v súlade s osobitným predpisom<sup>56aca</sup>) a táto činnosť má významný vplyv na rizikový profil príslušného obchodného útvaru,
+
+- f) ďalších zamestnancov, ktorí nie sú uvedení v písmenách a) až e) a ktorých odborné činnosti majú vplyv na rizikový profil obchodníka s cennými papiermi a sú určení podľa osobitného predpisu.<sup>56aca</sup>)
 
 (2) V rámci zásad odmeňovania osôb podľa odseku 1 obchodník s cennými papiermi uplatňuje
 
