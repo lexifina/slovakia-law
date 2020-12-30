@@ -2,8 +2,6 @@
 
 - 2) Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 220/2012 Z. z., ktorou sa ustanovujú podrobnosti o zásobovaní vodou na obdobie krízovej situácie.
 
-- 3) § 46 ods. 1 písm. j) zákona č. 576/2004 Z. z. o zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení zákona č. 662/2007 Z. z.
-
 - 4) Zákon č. 372/2012 Z. z. o štátnych hmotných rezervách a o doplnení zákona č. 25/2007 Z. z. o elektronickom výbere mýta za užívanie vymedzených úsekov pozemných komunikácií a o zmene a doplnení niektorých zákonov v znení neskorších predpisov v znení neskorších predpisov.
 
 - 5) § 19 ods. 8 zákona č. 372/2012 Z. z.
