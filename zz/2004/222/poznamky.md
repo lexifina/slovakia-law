@@ -46,6 +46,18 @@
 
 - 6ac) § 116 Občianskeho zákonníka.
 
+- 6aca) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
+
+- 6acb) § 11 až 107b zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 6acc) § 166 až 171d zákona č. 7/2005 Z. z. v znení neskorších predpisov.
+
+- 6acd) § 187 Civilného mimosporového poriadku.
+
+- 6ace) § 188 Civilného mimosporového poriadku.
+
+- 6acf) § 205 Civilného mimosporového poriadku.
+
 - 6ad) § 3 zákona č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zmene a doplnení niektorých zákonov.
 
 - 6ae) § 5 ods. 2 zákona č. 112/2018 Z. z.
@@ -95,6 +107,8 @@
 - 21a) Čl. 343 Konsolidovaného znenia Zmluvy o fungovaní Európskej únii (Ú. v. EÚ C 83, 30. 3. 2010).
 
 - Dohoda medzi vládou Slovenskej republiky a Komisiou Európskych spoločenstiev o vykonávaní protokolmi o výsadách a imunitách Európskych spoločenstiev (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 553/2004 Z. z.).
+
+- 21b) Čl. 335 ods. 4 vykonávacieho nariadenia Komisie (EÚ) 2015/2447 z 24. novembra 2015, ktorým sa stanovujú podrobné pravidlá vykonávania určitých ustanovení nariadenia Európskeho parlamentu a Rady (EÚ) č. 952/2013, ktorým sa ustanovuje Colný kódex Únie (Ú. v. EÚ L 343, 29. 12. 2015) v platnom znení.
 
 - 22) Nariadenie Rady (EHS) č. 918/83 z 28. marca 1983 ustanovujúce v spoločenstve systém oslobodení od cla (Úradný vestník Európskej únie L 105 z 23. 4. 1983) v platnom znení.
 
