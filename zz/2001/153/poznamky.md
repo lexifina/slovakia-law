@@ -24,7 +24,7 @@
 
 - 4) Zákon Národnej rady Slovenskej republiky č. 350/1996 Z. z. v znení neskorších predpisov.
 
-- 4a) Napríklad § 243e Občianskeho súdneho poriadku, § 47 ods. 3 a 4, § 369 a 389 Trestného poriadku.
+- 4a) Napríklad Civilný sporový poriadok, Civilný mimosporový poriadok, Správny súdny poriadok, Trestný poriadok.
 
 - 4b) Napríklad § 207a ods. 2, § 363 až 367, § 380 ods. 4 a § 530 Trestného poriadku, § 4 ods. 2 zákona č. 256/1998 Z. z. o ochrane svedka a o zmene a doplnení niektorých zákonov, zákon č. 548/2003 Z. z. o Justičnej akadémii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 94 ods. 1 písm. d) zákona č. 475/2005 Z. z. o výkone trestu odňatia slobody a o zmene a doplnení niektorých zákonov, zákon č. 383/2011 Z. z. o zastúpení Slovenskej republiky v Eurojuste.
 
@@ -122,8 +122,6 @@
 
 - 30b) § 3 ods. 1 zákona č. 54/2019 Z. z. o ochrane oznamovateľov protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
 
-- 30c) Čl. 25 ods. 6 nariadenia (EÚ) 2017/1939.
-
 - 31) Civilný sporový poriadok, Civilný mimosporový poriadok a Správny súdny poriadok.
 
 - § 13 až 24 Trestného poriadku.
@@ -169,5 +167,11 @@
 - § 51 zákona č. 312/2001 Z. z.
 
 - 46a) Zákon č. 383/2011 Z. z. v znení zákona č. 316/2016 Z. z.
+
+- 46b) § 3 písm. l) a § 11 ods. 1 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení zákona č. 273/2015 Z. z.
+
+- 46c) § 14 a 15 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
+
+- 46d) § 16 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
 
 - 47) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
