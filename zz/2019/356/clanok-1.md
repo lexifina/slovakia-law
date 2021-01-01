@@ -1834,6 +1834,8 @@ Zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení zákona č. 525/
 
 - 143. V § 74 ods. 2 druhá veta znie: „Platnosť preukazu člena stráže prírody je päť rokov; po uplynutí tejto doby a absolvovaní preskúšania okresný úrad v sídle kraja vydá členovi stráže prírody nový preukaz.“.
 
+- 144. V § 74 ods. 3 sa slová „sú uvedené v prílohe č. 1“ nahrádzajú slovami „ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo“.
+
 - 145. V § 75 ods. 1 písm. h) a i) sa slová „predviesť ju na útvar“ nahrádzajú slovami „bezodkladne ju odovzdať útvaru“.
 
 - 146. V § 75 ods. 1 písm. o) sa za slovami „chránenom území“ vkladajú slová „alebo jeho ochrannom pásme“.
@@ -2144,6 +2146,28 @@ Zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení zákona č. 525/
 
   - Doterajšie písmeno c) sa označuje ako písmeno b).
 
+- 200. § 98 vrátane nadpisu znie:
+
+- „§ 98
+
+- Podmienky nároku na náhradu škody
+
+- (1)
+
+- Náhradu škody na vybraných domestikovaných živočíchoch, rybách, včelstvách a včelárskych zariadeniach a drevinách možno poskytnúť, ak boli prijaté primerané preventívne opatrenia na ich ochranu pred určeným živočíchom. Podrobnosti o primeraných preventívnych opatreniach ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.
+
+- (2)
+
+- Náhradu škody na rybách možno poskytnúť, ak škoda bola spôsobená určeným živočíchom, ktorý sa v čase a na mieste vzniku škody preukázateľne zdržiava.
+
+- (3)
+
+- Náhradu škody na rybách a poľovnej raticovej zveri nemožno poskytnúť osobe vykonávajúcej chov rýb a užívateľovi poľovného revíru, ak im bola povolená výnimka z podmienok druhovej ochrany podľa § 35 ods. 1 písm. a) až c) na odchyt, usmrcovanie alebo rušenie určeného živočícha, ktorá mala platnosť aj v čase vzniku škody.
+
+- (4)
+
+- Náhradu škody na poľných plodinách nemožno poskytnúť, ak neboli pozbierané v agrotechnickom termíne na ich zber, obvyklom pre dané územie; náhrada škody sa však poskytne, ak sa zber v agrotechnickom termíne neuskutočnil z dôvodu ochrany prírody a krajiny.“.
+
 - 201. V § 99 ods. 3 sa na konci pripája táto veta: „Pri určení rozsahu škôd na rybách sa vychádza zo zaznamenanej početnosti výskytu určených živočíchov v blízkosti vodnej plochy, v ktorej sa uskutočňuje chov rýb.“.
 
 - 202. V § 100 ods. 1 sa slovo „piatich“ nahrádza slovom „60“.
@@ -2275,3 +2299,5 @@ Zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení zákona č. 525/
 - 213. Slová „stav ochrany“ vo všetkých tvaroch sa v celom texte zákona nahrádzajú slovom „stav“ v príslušnom tvare.
 
 - 214. Slová „navrhované územie európskeho významu“ vo všetkých tvaroch sa v celom texte zákona nahrádzajú slovom „územie európskeho významu“ v príslušnom tvare.
+
+- 215. Príloha č. 1 sa vypúšťa.
