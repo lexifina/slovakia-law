@@ -10,7 +10,7 @@
 
 - c) ktorý užíva koncesionár v rozsahu, za podmienok a v lehote dohodnutej v koncesnej zmluve na uskutočnenie stavebných prác alebo v koncesnej zmluve na poskytnutie služby uzatvorenej podľa osobitného predpisu<sup>20c</sup>) (ďalej len "koncesná zmluva"), ak takýto prechod koncesná zmluva vylučuje,
 
-- d) ktorý je v správe zriaďovateľa, Kancelárie Národnej rady Slovenskej republiky, Kancelárie prezidenta Slovenskej republiky, Ústavného súdu Slovenskej republiky, Najvyššieho kontrolného úradu Slovenskej republiky, Kancelárie Najvyššieho súdu Slovenskej republiky a Slovenskej informačnej služby; to neplatí, ak títo správcovia rozhodnú o prechode nimi spravovaného nehnuteľného majetku štátu do správy centrálneho správcu,
+- d) ktorý je v správe zriaďovateľa, Kancelárie Národnej rady Slovenskej republiky, Kancelárie prezidenta Slovenskej republiky, Ústavného súdu Slovenskej republiky, Najvyššieho kontrolného úradu Slovenskej republiky, Kancelárie Najvyššieho súdu Slovenskej republiky, Kancelárie Najvyššieho správneho súdu Slovenskej republiky a Slovenskej informačnej služby; to neplatí, ak títo správcovia rozhodnú o prechode nimi spravovaného nehnuteľného majetku štátu do správy centrálneho správcu,
 
 - e) ktorý musí spravovať správca ako prijímateľ účelových prostriedkov podľa osobitných predpisov a medzinárodných zmlúv, ktorými je Slovenská republika viazaná.<sup>10b</sup>)
 
