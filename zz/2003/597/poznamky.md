@@ -8,8 +8,6 @@
 
 - 5) § 15 zákona č. 596/2003 Z. z.
 
-- 5a) § 19 zákona č. 245/2008 Z. z.
-
 - 5b) § 3 zákona č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov.
 
 - 5c) Zákon č. 417/2013 Z. z. v znení neskorších prepisov.

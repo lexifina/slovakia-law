@@ -14,9 +14,9 @@
 
   - 5. predloženie zúčtovania podľa § 4a ods. 5,
 
-  - 6. rozpis finančných prostriedkov pridelených prostredníctvom príspevku na výchovu a vzdelávanie na kalendárny rok pre jednotlivé materské školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 6b ods. 4 písm. a),
+  - 6. rozpis finančných prostriedkov pridelených prostredníctvom príspevku na výchovu a vzdelávanie na kalendárny rok pre jednotlivé materské školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 6b ods. 6 písm. a),
 
-  - 7. úpravu finančných prostriedkov pridelených prostredníctvom príspevku na výchovu a vzdelávanie na nový školský rok pre jednotlivé materské školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 6b ods. 4 písm. b),
+  - 7. úpravu finančných prostriedkov pridelených prostredníctvom príspevku na výchovu a vzdelávanie na nový školský rok pre jednotlivé materské školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 6b ods. 6 písm. b),
 
   - 8. predloženie správy o hospodárení okresnému úradu v sídle kraja podľa § 7 ods. 1,
 
