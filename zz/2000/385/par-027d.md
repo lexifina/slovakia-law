@@ -12,7 +12,7 @@
 
 (3) Na základe vykonaného prieskumu pridelí hodnotiaca komisia hodnotenému sudcovi najviac 30 bodov.
 
-(4) Činnosti podľa odsekov 1 až 3 na najvyššom súde vykonáva trojčlenná komisia určená sudcovskou radou zo sudcov tohto súdu; na základe vykonaného prieskumu pridelí komisia hodnotenému sudcovi najviac 30 bodov, o čom podá písomnú správu predsedovi príslušného kolégia.
+(4) Činnosti podľa odsekov 1 až 3 na najvyššom súde a na najvyššom správnom súde vykonáva trojčlenná komisia určená sudcovskou radou zo sudcov príslušného súdu; na základe vykonaného prieskumu pridelí komisia hodnotenému sudcovi najviac 30 bodov, o čom podá písomnú správu predsedovi príslušného kolégia.
 
 (5) Na základe stanovísk odvolacích senátov alebo dovolacích senátov, stanoviska sudcovskej rady k dodržiavaniu zásad sudcovskej etiky a vlastných poznatkov o činnosti hodnoteného sudcu pridelí hodnotenému sudcovi ten, kto vykonáva hodnotenie (§ 27b), najviac 35 bodov.
 

@@ -56,7 +56,7 @@
 
 - 11aaa) § 3 písm. b) a c) zákona č. 583/2008 Z. z. o prevencii kriminality a inej protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
 
-- 12) § 143a Občianskeho zákonníka.
+- 12) Zákon č. 185/2002 Z. z. o Súdnej rade Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 13) § 115 Občianskeho zákonníka.
 
@@ -123,3 +123,7 @@
 - 38) § 18g zákona č. 371/2004 Z. z. o sídlach a obvodoch súdov Slovenskej republiky a o zmene zákona č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov v znení zákona č. 517/2008 Z. z.
 
 - 39) § 26 ods. 4 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 40) § 116a zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriadku Národnej rady Slovenskej republiky v znení neskorších predpisov.
+
+- 41) § 6 a 7 zákona č. 185/2002 Z. z. v znení neskorších predpisov.

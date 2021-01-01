@@ -2,20 +2,20 @@
 
 Všeobecne záväzný právny predpis, ktorý vydá ministerstvo, ustanoví
 
-- a) náležitosti vyhlásenia výberového konania na funkciu justičného čakateľa,
+- a) náležitosti vyhlásenia výberového konania na funkciu stážistu,
 
-- b) zoznam dokladov, ktoré má uchádzač o funkciu justičného čakateľa predložiť,
+- b) zoznam dokladov, ktoré má uchádzač o funkciu stážistu predložiť,
 
-- c) spôsob vykonania výberového konania na funkciu justičného čakateľa,
+- c) spôsob vykonania výberového konania na funkciu stážistu,
 
-- d) podrobnosti o písomnom teste, preklade z cudzieho jazyka a o ústnej časti výberového konania na funkciu justičného čakateľa,
+- d) podrobnosti o písomnom teste, preklade z cudzieho jazyka, psychologickom posúdení a o ústnej časti výberového konania na funkciu stážistu,
 
-- e) spôsob vyhodnotenia výsledkov výberového konania na funkciu justičného čakateľa,
+- e) spôsob vyhodnotenia výsledkov výberového konania na funkciu stážistu,
 
-- f) náležitosti zápisnice o priebehu výberového konania na funkciu justičného čakateľa,
+- f) náležitosti zápisnice o priebehu výberového konania na funkciu stážistu,
 
 - g) odmeňovanie členov výberovej komisie, ktorí nie sú sudcami,
 
-- h) podrobnosti o postupe pri služobnom hodnotení justičného čakateľa, oblastiach služobného hodnotenia justičného čakateľa vrátane počtu bodov, ktoré možno dosiahnuť za hodnotenú oblasť, výsledkoch služobného hodnotenia a o administratívnom zabezpečení služobného hodnotenia,
+- h) podrobnosti o záverečnom hodnotení odborného justičného stážistu,
 
-- i) náležitosti výkazu praxe justičného čakateľa.
+- i) náležitosti výkazu praxe stážistu.

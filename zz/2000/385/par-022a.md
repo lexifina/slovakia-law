@@ -2,7 +2,7 @@
 
 (1) Dočasne pozastaviť výkon funkcie sudcu možno aj sudcovi, u ktorého existujú dôvodné pochybnosti o tom, že spĺňa predpoklady sudcovskej spôsobilosti, ak tým môže byť vážne ohrozená dôveryhodnosť súdnictva alebo dobrá povesť súdnictva.
 
-(2) O dočasnom pozastavení výkonu funkcie sudcu podľa odseku 1 rozhoduje súdna rada na návrh predsedu súdnej rady, ministra alebo predsedu najvyššieho súdu. Sudca má právo vyjadriť sa k návrhu na dočasné pozastavenie výkonu funkcie sudcu na zasadnutí súdnej rady, na ktoré ho predseda súdnej rady pozve.
+(2) O dočasnom pozastavení výkonu funkcie sudcu podľa odseku 1 rozhoduje súdna rada na návrh predsedu súdnej rady alebo ministra, a pri sudcoch najvyššieho súdu aj na návrh predsedu najvyššieho súdu a pri sudcoch najvyššieho správneho súdu aj na návrh predsedu najvyššieho správneho súdu. Sudca má právo vyjadriť sa k návrhu na dočasné pozastavenie výkonu funkcie sudcu na zasadnutí súdnej rady, na ktoré ho predseda súdnej rady pozve.
 
 (3) O návrhu na dočasné pozastavenie výkonu funkcie sudcu podľa odseku 1 musí súdna rada rozhodnúť do 30 dní od doručenia návrhu na dočasné pozastavenie výkonu funkcie sudcu.
 

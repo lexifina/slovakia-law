@@ -1,3 +1,3 @@
-# § 72a Príplatok za vedenie justičného čakateľa
+# § 72a Príplatok za vedenie stážistu
 
-Sudcovi, ktorý vykonáva činnosť školiteľa justičného čakateľa, patrí osobitný príplatok vo výške 100 eur mesačne.
+Sudcovi, ktorý vykonáva činnosť školiteľa stážistu, patrí osobitný príplatok vo výške 100 eur mesačne.

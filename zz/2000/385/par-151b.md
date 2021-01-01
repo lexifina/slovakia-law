@@ -2,7 +2,7 @@
 
 (1) Sudca zvolený do funkcie pred nadobudnutím účinnosti tohto zákona nemusí preukazovať bezúhonnosť podľa tohto zákona.
 
-(2) Ak voľné miesto sudcu určené ministrom podľa osobitného zákona možno obsadiť justičným čakateľom, ktorý sa stal justičným čakateľom pred nadobudnutím účinnosti tohto zákona, ustanovenie § 28 ods. 1 sa nepoužije. Ak voľné miesto možno obsadiť viacerými justičnými čakateľmi, ktorí sa stali justičnými čakateľmi pred nadobudnutím účinnosti tohto zákona, predseda súdu, na ktorom je zriadená sudcovská rada, vyhlasuje výberové konanie iba pre týchto justičných čakateľov.
+(2) Ak voľné miesto sudcu určené ministrom podľa osobitného zákona možno obsadiť stážistom, ktorý sa stal stážistom pred nadobudnutím účinnosti tohto zákona, ustanovenie § 28 ods. 1 sa nepoužije. Ak voľné miesto možno obsadiť viacerými stážistami, ktorí sa stali stážistami pred nadobudnutím účinnosti tohto zákona, predseda súdu, na ktorom je zriadená sudcovská rada, vyhlasuje výberové konanie iba pre týchto stážistov.
 
 (3) Sudcovia disciplinárnych senátov ustanovení do funkcie podľa doterajších predpisov zostávajú vo funkciách až do ustanovenia sudcov disciplinárnych senátov podľa tohto zákona, ak tento zákon neustanovuje inak.
 

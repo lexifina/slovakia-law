@@ -1,7 +1,7 @@
 # § 149k
 
-(1) Priebeh odbornej prípravy justičného čakateľa sa vyznačuje vo výkaze praxe, ktorý justičnému čakateľovi vydá predseda krajského súdu po zložení sľubu.
+(1) Priebeh odbornej justičnej stáže sa vyznačuje vo výkaze praxe, ktorý stážistovi vydá predseda krajského súdu.
 
-(2) Školiteľ vedie výkaz praxe justičného čakateľa, v ktorom vykonáva záznamy o činnosti justičného čakateľa.
+(2) Školiteľ vedie výkaz praxe stážistu, v ktorom vykonáva záznamy o činnosti stážistu.
 
-(3) Výkaz praxe justičného čakateľa je justičný čakateľ povinný predložiť predsedovi krajského súdu na jeho výzvu.
+(3) Výkaz praxe stážistu je stážista povinný predložiť predsedovi krajského súdu na jeho výzvu.

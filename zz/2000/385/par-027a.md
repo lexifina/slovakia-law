@@ -6,7 +6,7 @@
 
 - a) po piatich rokoch výkonu funkcie sudcu; hodnoteným obdobím je v tomto prípade obdobie piatich rokov, ktoré predchádza hodnoteniu,
 
-- b) v súvislosti s výberovým konaním; to neplatí, ak ide o postup na súd vyššieho stupňa, keď postačuje predložiť výberovej komisii hodnotenie nie staršie ako jeden rok,
+- b) v súvislosti s výberovým konaním; to neplatí, ak sa výberovej komisii predloží hodnotenie sudcu nie staršie ako jeden rok,
 
 - c) na návrh osoby, ktorá je oprávnená podať návrh na začatie disciplinárneho konania (§ 120 ods. 2); hodnoteným obdobím je v tomto prípade obdobie piatich rokov, ktoré predchádza hodnoteniu, alebo obdobie výkonu funkcie sudcu, ak sudca vykonáva funkciu kratšie ako päť rokov,
 
