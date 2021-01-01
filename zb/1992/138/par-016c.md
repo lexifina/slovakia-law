@@ -1,6 +1,6 @@
 # § 16c Uznávanie odbornej kvalifikácie
 
-(1) Slovenská komora architektov na účely zapísania do zoznamu autorizovaných architektov automaticky uznáva odbornú kvalifikáciu architekta získanú v domovskom členskom štáte na základe vzdelania, ktoré zodpovedá minimálnym požiadavkám na architektonické vzdelanie podľa § 16 ods. 6, a na základe odbornej praxe v trvaní najmenej tri roky a vykonanej autorizačnej alebo inak označenej skúšky spôsobilosti architekta.
+(1) Slovenská komora architektov na účely zapísania do zoznamu autorizovaných architektov automaticky uznáva odbornú kvalifikáciu architekta získanú v domovskom členskom štáte na základe vzdelania, ktoré zodpovedá minimálnym požiadavkám na architektonické vzdelanie podľa § 16 ods. 10, a na základe odbornej praxe v trvaní najmenej tri roky a vykonanej autorizačnej alebo inak označenej skúšky spôsobilosti architekta.
 
 (2) Ak povolanie architekta nie je v domovskom členskom štáte regulované, alebo je regulované, ale na výkon povolania sa nevyžaduje odborná prax alebo autorizačná alebo inak označená skúška spôsobilosti, Slovenská komora architektov je oprávnená uplatniť kompenzačné opatrenie podľa § 23b; to neplatí, ak žiadateľ podľa osvedčenia regulačného orgánu domovského členského štátu vykonával povolanie architekta v domovskom členskom štáte viac ako sedem rokov pred dňom podania žiadosti alebo ak odbornú spôsobilosť získal v inom členskom štáte na základe dokladu o vzdelaní uvedeného v prílohe č. 2 alebo v prílohe č. 3.
 
@@ -14,6 +14,8 @@
 
 (7) Od kompenzačného opatrenia podľa odsekov 4 a 6 komora upustí, ak existuje spoločný rámec pre odbornú prípravu a spoločné skúšky odbornej prípravy, ktoré tvorí sústava kritérií posudzovania odbornej kvalifikácie, ktorá kompenzuje podstatné rozdiely v trvaní a v obsahu odbornej prípravy krajinných architektov a stavebných inžinierov podľa stavu v najmenej dvoch tretinách členských štátov vrátane tých, v ktorých sú tieto povolania regulované.
 
-(8) Slovenská komora architektov môže na účely zapísania do zoznamu autorizovaných architektov uznať odbornú kvalifikáciu aj na základe iného vzdelania, ak uchádzač svojou viac ako sedemročnou odbornou praxou v oblasti architektúry a kvalitou svojej práce dostatočne preukázal tvorivé schopnosti a potrebnú technickú spôsobilosť.
+(8) Slovenská komora architektov môže na účely zapísania do zoznamu autorizovaných architektov uznať odbornú kvalifikáciu aj na základe iného vzdelania, ak uchádzač kvalitou svojej práce dostatočne preukázal tvorivé schopnosti a potrebnú technickú spôsobilosť. Architektonická povaha činností príslušnej osoby sa potvrdzuje osvedčením vydaným jej domovským členským štátom.
 
 (9) Slovenská komora architektov a Slovenská komora stavebných inžinierov na účely hosťovania uznávajú odborné kvalifikácie uznané v domovskom členskom štáte, ak uchádzačovi dovoľujú poskytovať rovnaké služby, ako sú uvedené v § 4, 4a a 5.
+
+(10) Na štátnych príslušníkov členského štátu, ktorí majú právo používať titul „architekt“ na základe zákona, ktorý dáva príslušnému orgánu členského štátu právo udeľovať tituly štátnym príslušníkom členských štátov, ktorí osobitne vynikajú kvalitou svojej práce v oblasti architektúry, sa hľadí, ako keby spĺňali požadované podmienky výkonu činností architekta s profesijným titulom „architekt“. Architektonická povaha činností tohto príslušníka členského štátu sa potvrdzuje osvedčením, ktoré vydá jeho domovský členský štát.
