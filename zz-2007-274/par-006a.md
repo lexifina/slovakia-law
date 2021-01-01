@@ -1,0 +1,5 @@
+# § 6a Prechodné ustanovenia k úpravám účinným od 1. januára 2021
+
+(1) Do 31. decembra 2021 sa na konanie o nároku na príplatok fyzickej osoby, ktorá bola internovaná v centralizovaných kláštoroch, a pozostalých po tejto osobe ustanovenie § 4 ods. 2 nepoužije.
+
+(2) O nároku na príplatok fyzickej osoby uvedenej v odseku 1 rozhodne Sociálna poisťovňa alebo orgán príslušný na výplatu dôchodku podľa osobitného predpisu<sup>3</sup>) bez písomnej žiadosti fyzickej osoby, ak bola fyzická osoba odškodnená za dobu internácie v centralizovaných kláštoroch podľa osobitného predpisu. Údaje potrebné na rozhodnutie o nároku na príplatok fyzickej osoby uvedenej v odseku 1 poskytne Sociálnej poisťovni alebo orgánu príslušnému na výplatu dôchodku podľa osobitného predpisu<sup>3</sup>) Ústav pamäti národa. Konanie sa začína na základe doručenia údajov podľa druhej vety Sociálnej poisťovni alebo orgánu príslušnému na výplatu dôchodku podľa osobitného predpisu.<sup>3</sup>) Dňom podania žiadosti na účely § 4 ods. 3 je 1. január 2021.
