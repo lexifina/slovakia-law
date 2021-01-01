@@ -16,6 +16,10 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 
 - dobrovoľným účastníkom systému obchodovania prevádzkovateľ každej prevádzky prevádzkovanej na území Slovenskej republiky, pre ktorú získal povolenie na vypúšťanie emisií skleníkových plynov na základe podanej žiadosti,
 
+- p)
+
+- novým účastníkom systému obchodovania prevádzkovateľ prevádzky, ktorá vykonáva jednu alebo viac činností uvedených v prílohe č. 1 tabuľkách A a B a ktorá získala povolenie na vypúšťanie emisií skleníkových plynov po prvýkrát po 30. júni 2019 pre obdobie piatich rokov začínajúce 1. januárom 2021 a po 30. júni 2024 pre obdobie piatich rokov začínajúce 1. januárom 2026,
+
 - q)
 
 - výrobcom elektrickej energie prevádzkovateľ prevádzky, ktorá od 1. januára 2005 vyrábala elektrickú energiu na predaj tretím stranám a v ktorej sa nevykonávala iná činnosť uvedená v prílohe č. 1 tabuľkách A a B okrem spaľovania palív,
@@ -25,6 +29,10 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 - modernizačným fondom fond zriadený Európskou úniou v rámci systému obchodovania, ktorý je určený na podporu investícií, na modernizáciu energetických systémov a zlepšenie energetickej efektívnosti.“.
 
 - 5. V § 3 ods. 2 písm. i) sa slovo „schémy“ nahrádza slovami „systému obchodovania“.
+
+- 6. V § 6 sa vypúšťa odsek 4.
+
+  - Doterajší odsek 5 sa označuje ako odsek 4.
 
 - 7. V § 7 sa vypúšťa odsek 2.
 
@@ -41,6 +49,8 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
   - Poznámka pod čiarou k odkazu 8 znie:
 
   - „<sup>8</sup>) Delegované nariadenie Komisie (EÚ) 2019/331 z 19. decembra 2018, ktorým sa ustanovujú prechodné pravidlá harmonizácie bezodplatného prideľovania emisných kvót podľa článku 10a smernice Európskeho parlamentu a Rady 2003/87/ES platné v celej Únii (Ú. v. EÚ L 59, 27. 2. 2019).“.
+
+- 11. V § 10 ods. 3 sa vypúšťa posledná veta.
 
 - 13. V § 17 ods. 5 sa slová „§ 26 ods. 1 písm. n)“ nahrádzajú slovami „§ 26 ods. 1 písm. m)“ a slová „§ 26 ods. 1 písm. t)“ sa nahrádzajú slovami „§ 26 ods. 1 písm. s)“.
 
@@ -79,6 +89,14 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 - 22. Poznámka pod čiarou k odkazu 19 znie:
 
 - „<sup>19</sup>) Vykonávacie nariadenie Komisie (EÚ) 2018/2067 z 19. decembra 2018 o overovaní údajov a o akreditácii overovateľov podľa smernice Európskeho parlamentu a Rady 2003/87/ES (Ú. v. EÚ L 334, 31. 12. 2018).“.
+
+- 23. V § 23 odsek 2 znie:
+
+- „(2)
+
+- Pri kvótach vydávaných od 1. januára 2021 sa musí uviesť, v ktorom desaťročnom obchodovateľnom období počnúc 1. januárom 2021 sa vydali, pričom platia pre emisie od prvého roka daného obdobia.“.
+
+- 24. V § 23 sa vypúšťa odsek 3.
 
 - 25. Poznámky pod čiarou k odkazom 23 a 23a znejú:
 
