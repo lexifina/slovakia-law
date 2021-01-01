@@ -44,13 +44,11 @@
 
 - 18) § 53 ods. 5 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
 
-- 18a) § 28 ods. 4 zákona č. 245/2008 Z. z.
-
 - 19) § 47 a 48 zákona č. 138/2019 Z. z.
 
 - 20) § 36 zákona č. 29/1984 Zb. v znení neskorších predpisov.
 
-- 21) § 18 ods. 2 zákona č. 281/2002 Z. z. o prídavku na dieťa a o príspevku k prídavku na dieťa v znení zákona č. 658/2002 Z. z.
+- 21) § 12a ods. 1 písm. a) zákona č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - 22) Zákon č. 416/2001 Z. z. o prechode niektorých pôsobností z orgánov štátnej správy na obce a na vyššie územné celky.
 
