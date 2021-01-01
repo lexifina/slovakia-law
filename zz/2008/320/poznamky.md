@@ -1,4 +1,4 @@
-- 1) Vyhláška Ministerstva školstva Slovenskej republiky č. 437/2009 Z. z., ktorou sa ustanovujú kvalifikačné predpoklady a osobitné kvalifikačné požiadavky pre jednotlivé kategórie pedagogických zamestnancov a odborných zamestnancov v znení neskorších predpisov.
+- 1) Vyhláška Ministerstva školstva, vedy, výskumu a športu Slovenskej republiky č. 1/2020 Z. z. o kvalifikačných predpokladoch pedagogických zamestnancov a odborných zamestnancov.
 
 - 1a) Vyhláška Ministerstva vnútra Slovenskej republiky č. 23/2006 Z. z., ktorou sa vykonávajú niektoré ustanovenia zákona č. 544/2002 Z. z. o Horskej záchrannej službe v znení neskorších predpisov v znení vyhlášky č. 134/2008 Z. z.
 
