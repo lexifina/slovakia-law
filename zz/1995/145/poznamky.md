@@ -138,7 +138,7 @@
 
 - 16a) § 25 zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
 
-- 16b) Nariadenie Európskeho parlamentu a Rady (ES) č. 810/2009 z 13. júla 2009, ktorým sa ustanovuje vízový kódex Spoločenstva (vízový kódex), (Ú. v. EÚ L 243, 15. 9. 2009).
+- 16b) Nariadenie Európskeho parlamentu a Rady (ES) č. 810/2009 z 13. júla 2009, ktorým sa ustanovuje vízový kódex Spoločenstva (vízový kódex), (Ú. v. EÚ L 243, 15. 9. 2009) v platnom znení.
 
 - 16c) § 2 ods. 5 zákona č. 404/2011 Z. z.
 

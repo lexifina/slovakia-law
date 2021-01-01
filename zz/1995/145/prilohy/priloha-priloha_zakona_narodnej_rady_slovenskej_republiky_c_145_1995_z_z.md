@@ -106,11 +106,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - n) | vyhotovenie výstupu z informačného systému Obchodný register okresným úradom ..... | 4 eurá
 
-  - o) | Vyhotovenie fotokópie listiny, ktorá je súčasťou podania na začatie konania na správnom orgáne podľa osobitných predpisov<sup>8c</sup>) za každé aj začaté dve strany | 0,50 eura.
+  - o) | Vyhotovenie fotokópie listiny, ktorá je súčasťou podania na začatie konania na správnom orgáne podľa osobitných predpisov<sup>8c</sup>) za každé aj začaté dve strany | 0,50 eura
+
+  - p) | Vyhotovenie viacjazyčného štandardného formulára podľa osobitného predpisu | 5 eur.
 
   - Oslobodenie Od poplatkov podľa písmen a) a c) tejto položky sú oslobodené osvetové strediská, hvezdárne, planetáriá, knižnice, múzeá, galérie a štátne divadlá. Od poplatkov podľa písmena i) sú oslobodené úkony týkajúce sa dokladov o získaných špecializáciách zdravotníckych pracovníkov. | |
 
-  - Poznámky 1. Poplatok podľa písmen a) a o) tejto položky sa vyberie po vykonaní úkonu na základe ústnej alebo písomnej výzvy. 2. Poplatok podľa písmena b) tejto položky sa nevyberie za vyhotovenie úradného výpisu z knihy narodení, knihy manželstiev, knihy úmrtí po oprave chybného údaja vykonaného z úradnej povinnosti. | |
+  - Poznámky 1. Poplatok podľa písmen a) a o) tejto položky sa vyberie po vykonaní úkonu na základe ústnej alebo písomnej výzvy. 2. Poplatok podľa písmena b) tejto položky sa nevyberie za vyhotovenie úradného výpisu z knihy narodení, knihy manželstiev, knihy úmrtí po oprave chybného údaja vykonaného z úradnej povinnosti. 3. Poplatok podľa písmena p) tejto položky sa vyberá podľa čl. 11 nariadenia Európskeho parlamentu a Rady (EÚ) č. 2016/1191 zo 6. júla 2016 o podporovaní voľného pohybu občanov prostredníctvom zjednodušenia požiadaviek na predkladanie určitých verejných listín v Európskej únii a o zmene nariadenia (EÚ) č. 1024/2012 (Ú.v. EÚ L 200, 26. 7. 2016). | |
 
     - Položka 3
 
@@ -444,7 +446,15 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - e) Udelenie štátneho občianstva Slovenskej republiky osobe, ktorej aspoň jeden z rodičov alebo prarodičov bol československým štátnym občanom | 20 eur
 
+  - f) Udelenie štátneho občianstva Slovenskej republiky osobe, ktorá má vydané platné osvedčenie preukazujúce postavenie Slováka žijúceho v zahraničí | 400 eur
+
   - Oslobodenie Od poplatkov podľa tejto položky sú oslobodení cudzinci, ktorým sa udelil azyl<sup>16a</sup>) a presídlenci z Ukrajiny z oblasti Černobyľu, cudzinci nad 65 rokov veku, invalidní dôchodcovia, osoby s ťažkým zdravotným postihnutím a cudzinci, ktorí stratili štátne občianstvo Slovenskej republiky po 1. januári 1993. |
+
+  - Splnomocnenie Správny orgán môže poplatok podľa tejto položky znížiť alebo upustiť od jeho vybratia u osoby, ktorá |
+
+  - a) je osobou bez štátnej príslušnosti, alebo |
+
+  - b) má vydané platné osvedčenie preukazujúce postavenie Slováka žijúceho v zahraničí, z osobitného dôvodu, ktorým je skutočnosť, že táto osoba sa významne zaslúžila o prínos pre Slovenskú republiku alebo pre komunitu Slovákov žijúcich v zahraničí, z ktorej pochádza, v oblasti ekonomickej, vedeckej, technickej, kultúrnej, sociálnej alebo športovej, alebo skutočnosť, že táto osoba sa preukázateľným spôsobom dlhodobo angažuje v prospech komunity Slovákov žijúcich v zahraničí; správny orgán posúdi túto skutočnosť po predchádzajúcom stanovisku Úradu pre Slovákov žijúcich v zahraničí. |
 
   - Poznámka Poplatok podľa tejto položky sa vyberie až po vykonaní úkonu. |
 
@@ -5592,39 +5602,39 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 240
 
-  - a) Žiadosť o udelenie schengenského víza<sup>16b</sup>) | 60 eur,
+    - a) Žiadosť o udelenie schengenského víza<sup>16b</sup>) – sadzbu poplatku ustanovuje osobitný predpis,<sup>16b</sup>) |
 
-  - b) žiadosť o udelenie schengenského víza dieťaťa vo veku od 6 rokov do 12 rokov | 35 eur,
+    - b) Žiadosť o udelenie národného víza, ak je to potrebné na plnenie záväzkov Slovenskej republiky vyplývajúcich z medzinárodných zmlúv | 35 eur,
 
-  - c) žiadosť o udelenie národného víza, ak je to potrebné na plnenie záväzkov Slovenskej republiky vyplývajúcich z medzinárodných zmlúv, ak je to v záujme Slovenskej republiky alebo ak je to potrebné v súvislosti s udelením povolenia na pobyt v Slovenskej republike okrem prípadu podľa písmena d) | 33 eur,
+    - c) Žiadosť o udelenie národného víza, ak je to v záujme Slovenskej republiky | 35 eur,
 
-  - d) žiadosť o udelenie národného víza, ak je to potrebné v súvislosti s prevzatím udeleného povolenia na pobyt v Slovenskej republike | 9,50 eur,
+    - d) Žiadosť o udelenie národného víza, ak je to potrebné v súvislosti s udelením povolenia na pobyt v Slovenskej republike okrem prípadu podľa písmena e) | 60 eur,
 
-  - e) Podanie odvolania proti rozhodnutiu, ktorým bola žiadosť o udelenie schengenského víza zamietnutá, alebo proti rozhodnutiu, ktorým bolo udelené schengenské vízum zrušené alebo odvolané | 30 eur.
+    - e) Žiadosť o udelenie národného víza, ak je to potrebné v súvislosti s prevzatím udeleného povolenia na pobyt v Slovenskej republike | 10 eur,
 
-  - Oslobodenie: |
+    - f) Podanie odvolania proti rozhodnutiu, ktorým bola žiadosť o udelenie schengenského víza zamietnutá, alebo proti rozhodnutiu, ktorým bolo udelené schengenské vízum zrušené alebo odvolané | 80 eur.
 
-  - 1. Od poplatku podľa písmen a) a b) sú oslobodené osoby podľa osobitného predpisu.<sup>16b</sup>) |
+    - Oslobodenie: |
 
-  - 2. Od poplatku podľa tejto položky sú oslobodení rodinní príslušníci občanov Európskeho hospodárskeho priestoru.<sup>16c</sup>) |
+    - 1. Od poplatku podľa písmena a) sú oslobodené osoby podľa osobitného predpisu.<sup>16b</sup>) |
 
-  - 3. Od poplatku podľa tejto položky sú oslobodení rodinní príslušníci občanov Slovenskej republiky v rozsahu rodinných príslušníkov občanov Európskeho hospodárskeho priestoru podľa druhého bodu. |
+    - 2. Od poplatku podľa tejto položky sú oslobodení rodinní príslušníci občanov Európskeho hospodárskeho priestoru.<sup>16c</sup>) |
 
-  - 4. Od poplatku podľa písmena e) sú oslobodené osoby, ktoré podávajú odvolanie proti rozhodnutiu útvaru Policajného zboru, a rodinní príslušníci azylanta a cudzinca, ktorému sa poskytla doplnková ochrana. |
+    - 3. Od poplatku podľa tejto položky sú oslobodení rodinní príslušníci občanov Slovenskej republiky v rozsahu rodinných príslušníkov občanov Európskeho hospodárskeho priestoru podľa druhého bodu. |
 
-  - Splnomocnenie: |
+    - 4. Od poplatku podľa písmena f) sú oslobodené osoby, ktoré podávajú odvolanie proti rozhodnutiu útvaru Policajného zboru, a rodinní príslušníci azylanta a cudzinca, ktorému sa poskytla doplnková ochrana. |
 
-  - 1. Správny orgán môže oslobodiť od poplatku aj ďalšie osoby podľa osobitného predpisu.<sup>16b</sup>) |
+    - Splnomocnenie: |
 
-  - 2. Správny orgán môže v jednotlivých prípadoch poplatok znížiť alebo od neho upustiť z dôvodu podpory kultúrnych alebo športových záujmov, ako aj záujmov v oblasti zahraničnej politiky, politiky rozvoja a ostatných oblastí zásadného verejného záujmu alebo z humanitárnych dôvodov. |
+    - 1. Správny orgán môže oslobodiť od poplatku aj ďalšie osoby podľa osobitného predpisu.<sup>16b</sup>) |
 
-  - 3. Správny orgán môže podľa osobitného predpisu zaokrúhliť poplatok.<sup>16b</sup>) |
+    - 2. Správny orgán môže v jednotlivých prípadoch poplatok znížiť alebo od neho upustiť z dôvodu podpory kultúrnych alebo športových záujmov, ako aj záujmov v oblasti zahraničnej politiky, politiky rozvoja a ostatných oblastí zásadného verejného záujmu alebo z humanitárnych dôvodov. |
 
-  - 4. Správny orgán vráti poplatok z dôvodov uvedených v osobitnom predpise.<sup>16b</sup>) |
+    - 3. Správny orgán vráti poplatok z dôvodov uvedených v osobitnom predpise.<sup>16b</sup>) |
 
-  - 5. Správny orgán vráti poplatok podľa písmena e), ak sa odvolaniu vyhovie. |
+    - 4. Správny orgán vráti poplatok podľa písmena f), ak sa odvolaniu vyhovie. |
 
-  - 6. Poplatok podľa písmen a) a b) tejto položky je možno platiť aj prostredníctvom externého poskytovateľa služieb určeného podľa osobitného predpisu.<sup>16b</sup>) |
+    - 5. Poplatok podľa písmena a) tejto položky je možno platiť aj prostredníctvom externého poskytovateľa služieb určeného podľa osobitného predpisu.<sup>16b</sup>) |
 
     - Položka 241
 
@@ -5726,7 +5736,15 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - e) Udelenie štátneho občianstva Slovenskej republiky osobe, ktorej aspoň jeden z rodičov alebo prarodičov bol československým štátnym občanom | 20 eur
 
+  - f) Udelenie štátneho občianstva Slovenskej republiky osobe, ktorá má vydané platné osvedčenie preukazujúce postavenie Slováka žijúceho v zahraničí | 400 eur
+
   - Oslobodenie Od poplatkov podľa tejto položky sú oslobodení cudzinci, ktorým sa udelil azyl, presídlenci z Ukrajiny z oblasti Černobyľu, cudzinci nad 65 rokov veku, invalidní dôchodcovia, osoby s ťažkým zdravotným postihnutím a cudzinci, ktorí stratili štátne občianstvo Slovenskej republiky po 1. januári 1993. |
+
+  - Splnomocnenie Ministerstvo zahraničných vecí a európskych záležitostí Slovenskej republiky alebo zastupiteľský úrad Slovenskej republiky môže poplatok podľa tejto položky znížiť alebo upustiť od jeho vybratia u osoby, ktorá |
+
+  - a) je osobou bez štátnej príslušnosti, alebo |
+
+  - b) má vydané platné osvedčenie preukazujúce postavenie Slováka žijúceho v zahraničí, z osobitného dôvodu, ktorým je skutočnosť, že táto osoba sa významne zaslúžila o prínos pre Slovenskú republiku alebo pre komunitu Slovákov žijúcich v zahraničí, z ktorej pochádza, v oblasti ekonomickej, vedeckej, technickej, kultúrnej, sociálnej alebo športovej, alebo skutočnosť, že táto osoba sa preukázateľným spôsobom dlhodobo angažuje v prospech komunity Slovákov žijúcich v zahraničí; Ministerstvo zahraničných vecí a európskych záležitostí Slovenskej republiky alebo zastupiteľský úrad Slovenskej republiky posúdi túto skutočnosť po predchádzajúcom stanovisku Úradu pre Slovákov žijúcich v zahraničí. |
 
   - Poznámka Poplatok podľa tejto položky sa vyberie až po vykonaní úkonu. |
 
@@ -5766,10 +5784,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Žiadosť o zápis matričnej udalosti v cudzine do osobitnej matriky ..................................................... | 25 eur
 
-    - Položka 252
-
-  - Spísanie písomnosti o právnych úkonoch, najmä zmlúv ......................................... | 50 eur
-
     - Položka 254
 
   - a) Osvedčenie podpisu na listine a na jej rovnopise, za každý podpis ..... | 10 eur
@@ -5805,18 +5819,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - Poznámka Poplatok podľa tejto položky sa vyberie až po vykonaní úkonu. |
 
   - Oslobodenie Od poplatku podľa písmena a) tejto položky je oslobodené vyhotovenie prekladu záznamu pohovoru so žiadateľom o udelenie pobytu do štátneho jazyka. |
-
-    - Položka 257
-
-  - Úkony v konaní o dedičstve v cudzine (vrátane intervencie na príslušných orgánoch, vymáhanie a doručenie dedičstva) z vybranej sumy z hodnoty dedičstva ..... | 1 %, najmenej 30 eur
-
-  - Poznámka 1. Poplatok podľa tejto položky je možné vybrať aj po vykonaní úkonu. 2. Poplatok za úkony v konaní o dedičstve podľa tejto položky sa vyberá z hodnoty dedičstva nezníženej o honorár právneho zástupcu pred poukázaním dedičstva do Slovenskej republiky. |
-
-    - Položka 258
-
-  - Úradná úschova listín alebo spisov........................................................................................ | 20 eur
-
-  - Poznámka Poplatok sa nevyberie, ak je predmet uložený na zastupiteľskom úrade len na účely jeho doručenia. |
 
     - Položka 259
 
@@ -5862,11 +5864,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - b) | Potvrdenie zápisov o nalodení a vylodení v lodnom denníku ..... | 30 eur
 
-  - c) | Potvrdenie zápisu o nalodení a vylodení v námorníckej knižke ..... | 30 eur
-
-  - d) | Potvrdenie námorného protestu ..... | 66 eur
-
-  - e) | Vystavenie dočasného registračného listu ..... | 140 eur
+  - c) | Potvrdenie námorného protestu ..... | 66 eur
 
   - Poznámka Poplatok podľa písmena b) sa vyberie len raz bez ohľadu na počet odtlačkov pečiatok vyznačených v denníku posádky. | |
 
@@ -5886,15 +5884,17 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - b) Vydanie viacjazyčného štandardného formulára ............................................................... | 5 eur
 
+    - Položka 264a
+
+  - Podanie žiadosti o výpis z registra trestov | 10 eur
+
     - Položka 265
 
-  - a) Podanie žiadosti o výpis alebo odpis z registra trestov ............................................................................. | 10 eur
+  - a) Žiadosť o vydanie osvedčenia Slováka žijúceho v zahraničí<sup>47a</sup>) ............................................................. | 10 eur
 
-  - b) Žiadosť o vydanie osvedčenia Slováka žijúceho v zahraničí<sup>47a</sup>) ............................................................. | 10 eur
+  - b) Vydanie osvedčenia Slováka žijúceho v zahraničí ako náhrady za stratené, zničené alebo poškodené osvedčenie........... | 20 eur
 
-  - c) Vydanie osvedčenia Slováka žijúceho v zahraničí ako náhrady za stratené, zničené alebo poškodené osvedčenie........... | 20 eur
-
-  - d) vydanie nového osvedčenia Slováka žijúceho v zahraničí v prípade zápisu zmien a doplnkov ................ | 10 eur
+  - c) vydanie nového osvedčenia Slováka žijúceho v zahraničí v prípade zápisu zmien a doplnkov ................ | 10 eur
 
   - XX. ČASŤ DÔVERYHODNÉ SLUŽBY
 
