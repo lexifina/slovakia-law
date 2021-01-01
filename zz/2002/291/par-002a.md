@@ -28,9 +28,7 @@
 
 - m) štátny podnik, právnická osoba, v ktorej má štát majetkovú účasť, a právnická osoba zriadená osobitným zákonom,<sup>9a</sup>) ktoré nie sú klientom uvedeným v písmenách a) až l), na základe písomnej dohody so Štátnou pokladnicou uzavretou po predchádzajúcom písomnom súhlase ministerstva,
 
-- n) verejná výskumná inštitúcia,<sup>9b</sup>)
-
-- o) politická strana a politické hnutie na účely vedenia a používania príspevkov zo štátneho rozpočtu, ak spĺňajú podmienky na poskytovanie príspevku podľa osobitného predpisu.<sup>9c</sup>)
+- n) verejná výskumná inštitúcia.<sup>9b</sup>)
 
 (2) Vstupom do záväzku sa rozumie právny úkon, na ktorého základe sa uskutoční výdavok z rozpočtu klienta, najmä uzavretie zmluvy o dielo na dodávku tovarov alebo služieb, objednávka alebo rozhodnutie o transfere z rozpočtu klienta.
 
