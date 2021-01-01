@@ -22,6 +22,6 @@ Zákon č. 212/1997 Z. z. o povinných výtlačkoch periodických publikácií, 
 
 - 6. Prílohy č. 1 až 3 znejú:
 
-- „[Prílohy č. 1 až 3](assets/4195d2e44604c95afb0a1e0b16add648e5b1ede6be68a19a1dfcf2147852d3b7.pdf)“.
+- „[Prílohy č. 1 až 3](assets/bdc0a26e8c60aff98215ed7b41c94ad99ce020f27e7dfe21d82a7e04f5248cdf.pdf)“.
 
 - 7. V Prílohe č. 4 sa slovo „Tlač“ nahrádza slovami „Periodická tlač“ a slovo „tlač“ sa nahrádza slovami „periodická tlač“.
