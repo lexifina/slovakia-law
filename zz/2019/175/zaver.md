@@ -1,1 +1,0 @@
-Peter Pellegrini v.r.
