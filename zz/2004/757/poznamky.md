@@ -22,6 +22,8 @@
 
 - 9) Ústavný zákon č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu v znení ústavného zákona č. 113/2004 Z. z.
 
+- 9a) § 27hc ods. 1 zákona č. 185/2002 Z. z. o Súdnej rade Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení zákona č. 423/2020 Z. z.
+
 - 10) § 116 Občianskeho zákonníka.
 
 - 11) § 17 a nasl. zákona č. 385/2000 Z. z. v znení neskorších predpisov.

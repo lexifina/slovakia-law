@@ -1,6 +1,6 @@
 # § 82ba Zverejňovanie zoznamu pojednávaných vecí
 
-Súd na účely informovania verejnosti o konaniach pred súdmi zverejňuje v budove súdu a na webovom sídle ministerstva, a ak ide o najvyšší súd na webovom sídle najvyššieho súdu, zoznam pojednávaných vecí, ktorý obsahuje
+Súd na účely informovania verejnosti o konaniach pred súdmi zverejňuje v budove súdu a na webovom sídle ministerstva, a ak ide o najvyšší súd a najvyšší správny súd na ich webovom sídle zoznam pojednávaných vecí, ktorý obsahuje
 
 - a) dátum a čas úkonu súdu,
 
