@@ -24,7 +24,7 @@ Príloha k vyhláške č. 9/2014 Z. z.
 
   - c) Okruh spravodajských jednotiek
 
-    - Poskytovateľ zdravotnej starostlivosti, operačné stredisko záchrannej zdravotnej služby, Úrad verejného zdravotníctva Slovenskej republiky, regionálny úrad verejného zdravotníctva, Sociálna poisťovňa, Ministerstvo obrany Slovenskej republiky, Ministerstvo vnútra Slovenskej republiky, Ministerstvo dopravy, výstavby a regionálneho rozvoja Slovenskej republiky, Finančné riaditeľstvo Slovenskej republiky, vyšší územný celok, Generálne riaditeľstvo Zboru väzenskej a justičnej stráže, držiteľ povolenia na zaobchádzanie s liekmi a so zdravotníckymi pomôckami, zdravotná poisťovňa a Úrad pre dohľad nad zdravotnou starostlivosťou.
+    - Poskytovateľ zdravotnej starostlivosti, operačné stredisko záchrannej zdravotnej služby, Úrad verejného zdravotníctva Slovenskej republiky, regionálny úrad verejného zdravotníctva, Sociálna poisťovňa, Ministerstvo obrany Slovenskej republiky, Ministerstvo vnútra Slovenskej republiky, Ministerstvo dopravy a výstavby Slovenskej republiky, Finančné riaditeľstvo Slovenskej republiky, vyšší územný celok, Generálne riaditeľstvo Zboru väzenskej a justičnej stráže, Ústredie práce, sociálnych vecí a rodiny, organizátor prehliadok mŕtvych tiel, držiteľ povolenia na zaobchádzanie s liekmi a so zdravotníckymi pomôckami, zdravotná poisťovňa a Úrad pre dohľad nad zdravotnou starostlivosťou.
 
   - d) Podrobnosti o lehotách hlásení
 
