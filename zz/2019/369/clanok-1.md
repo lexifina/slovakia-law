@@ -60,9 +60,31 @@ Zákon č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplne
 
 - 20. V § 48 ods. 2 prvej vete sa slová „deň uvedený v oznámení“ nahrádzajú slovami „deň po doručení oznámenia o určovaní dane podľa pomôcok“.
 
+- 21. V § 52 sa za odsek 14 vkladá nový odsek 15, ktorý znie:
+
+- „(15)
+
+- Finančné riaditeľstvo na svojom webovom sídle zverejňuje aktualizovaný zoznam daňových subjektov registrovaných na daň z príjmov. V zozname sa uvedie daňové identifikačné číslo a
+
+- a)
+
+- meno a priezvisko fyzickej osoby, adresa jej trvalého pobytu alebo miesto podnikania, ak je odlišné od adresy trvalého pobytu,
+
+- b)
+
+- názov právnickej osoby a jej sídlo,
+
+- c)
+
+- identifikačné číslo organizácie, ak bolo pridelené.“.
+
+  - Doterajší odsek 15 sa označuje ako odsek 16.
+
 - 22. V § 55 ods. 6 písm. d) sa za slová „nedoplatku na cle“ vkladá čiarka a slová „pohľadávky na iných platbách“.
 
 - 23. V § 55 ods. 7 prvej vete sa za slová „hotových výdavkov“ vkladá čiarka a slová „pohľadávok na iných platbách“.
+
+- 24. V § 55 ods. 9 sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „ak suma použitej platby je vyššia ako 5 eur.“.
 
 - 25. V § 57 ods. 6 sa na konci pripája táto veta: „Ak zanikla daň, na ktorú správca dane povolil odklad alebo jej zaplatenie v splátkach, ruší sa rozhodnutie o povolení odkladu platenia dane alebo rozhodnutie o povolení platenia dane v splátkach vrátane rozhodnutia o úroku podľa odseku 5.“.
 
@@ -98,6 +120,16 @@ Zákon č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplne
 
   - Doterajší siedmy bod až deviaty bod sa označujú ako šiesty bod až ôsmy bod.
 
+- 30. § 67 sa dopĺňa odsekmi 12 a 13, ktoré znejú:
+
+- „(12)
+
+- Ak tak ustanovujú osobitné predpisy,<sup>1</sup>) správca dane zaregistruje daňový subjekt z úradnej moci. Správca dane zaregistruje daňový subjekt v lehote do 30 dní odo dňa zápisu do registra právnických osôb, podnikateľov a orgánov verejnej moci. Ak ide o daňový subjekt, ktorý nie je zapísaný v registri podľa druhej vety, zaregistruje ho správca dane do 30 dní odo dňa podania jeho prvého daňového priznania. Správca dane pri registrácii pridelí daňovému subjektu daňové identifikačné číslo a číslo účtu správcu dane vedeného pre daňový subjekt, ak mu predtým nebolo oznámené.
+
+- (13)
+
+- Ak vznikla daňovému subjektu rovnaká oznamovacia povinnosť voči inej inštitúcii a táto inštitúcia nové alebo zmenené skutočnosti oznamuje správcovi dane, daňovník nie je povinný tieto skutočnosti oznámiť správcovi dane.“.
+
 - 31. V § 68 ods. 3 piata veta znie: „Správca dane vydá rozhodnutie do troch mesiacov od uplynutia lehoty určenej vo výzve podľa prvej vety.“ a na konci sa pripája táto veta: „Správca dane o predĺžení lehoty upovedomí daňový subjekt.“.
 
 - 32. V § 68 ods. 6 sa za slovo „určí“ vkladajú slová „sumu alebo“.
@@ -105,6 +137,8 @@ Zákon č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplne
 - 33. V § 69 ods. 4 sa za slovo „konaní“ vkladajú slová „alebo orgánov Policajného zboru“.
 
 - 34. V § 73 ods. 2 sa slová „začatia odvolacieho konania“ nahrádzajú slovami „nasledujúceho po uplynutí lehoty na podanie odvolania alebo odo dňa doručenia doplneného odvolania na výzvu prvostupňového orgánu“.
+
+- 35. V § 79 ods. 1 sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „ak suma použitého preplatku je vyššia ako 5 eur.“.
 
 - 36. V § 79 ods. 6 sa na začiatok vkladajú nová prvá veta až tretia veta, ktoré znejú: „Ak daňový subjekt v žiadosti o vrátenie daňového preplatku neuvedie číslo účtu, správca dane vráti daňový preplatok na jeden z účtov daňového subjektu, ktorý mu bol oznámený podľa § 26 ods. 3. Poštovým poukazom na adresu daňového subjektu možno zaslať preplatok do výšky 15 000 eur vrátane. Ak správca dane nemá k dispozícii číslo účtu daňového subjektu a výška preplatku presiahne sumu podľa druhej vety, lehota podľa odseku 2 plynie odo dňa oznámenia čísla účtu.“.
 
