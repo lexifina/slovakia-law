@@ -16,7 +16,7 @@
 
 - b) technická dokumentácia a opis výrobných a skladovacích zariadení, pričom skladovacie zariadenie musí spĺňať podmienky podľa § 18 ods. 5.
 
-(3) Výrobca biogénnej látky je povinný oznámiť colnému úradu každú zmenu údajov podľa odseku 1 písm. a) do 30 dní odo dňa jej vzniku, podľa odseku 1 písm. b) a c) a odseku 2 písm. b) do 15 dní odo dňa jej vzniku.
+(3) Výrobca biogénnej látky je povinný oznámiť colnému úradu každú zmenu údajov podľa odseku 1 písm. a) do 30 dní odo dňa jej vzniku, podľa odseku 1 písm. b) a c) do 15 dní odo dňa jej vzniku a každú zmenu údajov podľa odseku 2 písm. b) najneskôr päť pracovných dní pred jej vznikom.
 
 (4) Colný úrad pred zaradením žiadateľa do evidencie výrobcov biogénnych látok preverí skutočnosti a údaje v žiadosti a v prílohách. Ak sú tieto skutočnosti a údaje pravdivé, colný úrad zaradí žiadateľa do evidencie výrobcov biogénnych látok do 60 dní odo dňa podania tejto žiadosti.
 

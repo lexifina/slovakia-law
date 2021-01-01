@@ -26,17 +26,11 @@
 
 - 2ca) § 14f zákona č. 309/2009 Z. z. v znení zákona č. 181/2017 Z. z.
 
-- 2d) Napríklad STN EN 228 Automobilové palivá. Bezolovnatý benzín. Požiadavky a skúšobné metódy.
+- 2d) Napríklad STN EN 228 + A1 Automobilové palivá. Bezolovnatý benzín. Požiadavky a skúšobné metódy (65 6505).
 
 - 2e) Príloha č. 1 k zákonu č. 309/2009 Z. z. v znení neskorších predpisov.
 
-- 2ea) Napríklad STN EN ISO 4259 Ropné výrobky. Určovanie a využívanie údajov presnosti výsledkov vo vzťahu k skúšobným metódam.
-
-- 2f) Napríklad STN EN 590 Automobilové palivá. Nafta. Požiadavky a skúšobné metódy.
-
-- 2g) Napríklad zákon č. 309/2009 Z. z. v znení neskorších predpisov, vyhláška Ministerstva životného prostredia Slovenskej republiky č. 271/2011 Z. z., ktorou sa ustanovujú kritériá trvalej udržateľnosti a ciele na zníženie emisií skleníkových plynov z pohonných látok.
-
-- 2h) § 14a ods. 1 zákona č. 309/2009 Z. z. v znení neskorších predpisov.
+- 2f) Napríklad STN EN 590 Automobilové palivá. Motorová nafta. Požiadavky a skúšobné metódy (65 6506).
 
 - 3) Vyhláška Štatistického úradu Slovenskej republiky č. 632/2002 Z. z., ktorou sa vydáva štatistická klasifikácia produkcie.
 
@@ -84,13 +78,13 @@
 
 - 12) Vyhláška Ministerstva vnútra Slovenskej republiky č. 96/2004 Z. z., ktorou sa ustanovujú zásady protipožiarnej bezpečnosti pri manipulácii a skladovaní horľavých kvapalín, ťažkých vykurovacích olejov a rastlinných a živočíšnych tukov a olejov.
 
-- 13) STN 753415 Ochrana vody pred ropnými látkami, objekty pre manipuláciu s ropnými látkami a ich skladovanie.
+- 13) STN 75 3415 Ochrana vody pred ropnými látkami. Objekty na manipuláciu s ropnými látkami a ich skladovanie (75 3415).
 
-- STN 650201 Horľavé kvapaliny, prevádzky a sklady.
+- STN 65 0201 Horľavé kvapaliny. Prevádzky a sklady (65 0201).
 
-- STN 920800 Požiarna bezpečnosť stavieb Horľavé kvapaliny.
+- STN 92 0800 Požiarna bezpečnosť stavieb. Horľavé kvapaliny (92 0800).
 
-- 14) Zákon č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov.
+- 14) Zákon č. 157/2018 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení zákona č. 198/2020 Z. z.
 
 - 14a) Napríklad zákon č. 218/2013 Z. z. o núdzových zásobách ropy a ropných výrobkov a o riešení stavu ropnej núdze a o zmene a doplnení niektorých zákonov.
 
@@ -128,17 +122,21 @@
 
 - 20aa) Zákon č. 563/2009 Z. z.
 
-- 20b) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 20b) Čl. 3 ods. 12 nariadenia Európskeho parlamentu a Rady (EÚ) č. 910/2014 z 23. júla 2014 o elektronickej identifikácii a dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zrušení smernice 1999/93/ES (Ú. v. EÚ L 257, 28. 8. 2014).
 
 - 20c) Napríklad čl. 1 ods. 4 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu, zákon č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu v znení neskorších predpisov.
 
 - 20d) § 33 zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
-- 20e) Položka 1.3.13 prílohy č. 1 k vyhláške č. 210/2000 Z. z. o meradlách a metrologickej kontrole v znení neskorších predpisov.
+- 20e) Príloha č. 1 položka 1.3.8 vyhlášky Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 161/2019 Z. z. o meradlách a metrologickej kontrole.
 
 - 20f) Zákon č. 455/1991 Zb. v znení neskorších predpisov.
 
-- 21) Napríklad zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 142/2000 Z. z. v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 294/2005 Z. z. o meradlách.
+- 21) Napríklad zákon č. 56/2018 Z. z. o posudzovaní zhody výrobku, sprístupňovaní určeného výrobku na trhu a o zmene a doplnení niektorých zákonov, zákon č. 157/2018 Z. z. v znení zákona č. 198/2020 Z. z., nariadenie vlády Slovenskej republiky č. 145/2016 Z. z. o sprístupňovaní meradiel na trhu v znení nariadenia vlády Slovenskej republiky č. 328/2019 Z. z.
+
+- 21a) § 14 zákona č. 157/2018 Z. z.
+
+- Vyhláška Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 188/2018 Z. z. o spotrebiteľskom balení, o fľaši ako odmernej nádobe, o požiadavkách na kontrolu množstva výrobku v spotrebiteľskom balení a o požiadavkách na kontrolu skutočného objemu fľaše ako odmernej nádoby v znení vyhlášky č. 433/2019 Z. z.
 
 - 22) Napríklad STN EN 1442+A1 Zariadenie a príslušenstvo na LPG. Plniteľné zvárané oceľové fľaše na prepravu skvapalneného uhľovodíkového plynu (LPG). Návrh a konštrukcia (Konsolidovaný text) (078518).
 

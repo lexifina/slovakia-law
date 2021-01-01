@@ -12,7 +12,7 @@
 
 - e) dovezeného z tretích štátov,
 
-- f) vyvezeného z územia únie,
+- f) vyvezeného z územia Európskej únie,
 
 - g) stavu zásob minerálneho oleja k poslednému dňu kalendárneho mesiaca.
 
