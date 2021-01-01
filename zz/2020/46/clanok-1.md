@@ -106,6 +106,12 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 
 - priemerné mesačné sumy dôchodkových dávok platné k 31. decembru kalendárneho roka, ktorý predchádza príslušnému kalendárnemu roku, do 31. augusta príslušného kalendárneho roka,“.
 
+- 12. V § 226 ods. 1 sa písmeno p) dopĺňa šiestym bodom, ktorý znie:
+
+- „6.
+
+- priemerné mesačné sumy dôchodkových dávok platné k 31. decembru kalendárneho roka, ktorý predchádza príslušnému kalendárnemu roku, do 31. augusta príslušného kalendárneho roka,“.
+
 - 14. V § 233 ods. 10 a 11 sa za slovami „týmto zákonom“ čiarka nahrádza slovom „a“ a vypúšťajú sa slová „a na účely poskytovania vianočného príspevku“.
 
 - 15. Za § 293ep sa vkladá § 293eq, ktorý vrátane nadpisu znie:
