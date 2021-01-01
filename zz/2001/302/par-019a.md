@@ -32,7 +32,7 @@
 
 (9) Zastupiteľstvo môže odvolať hlavného kontrolóra z funkcie, ak
 
-- a) poruší povinnosti zamestnanca alebo vedúceho zamestnanca,<sup>18a</sup>)
+- a) poruší povinnosti zamestnanca alebo vedúceho zamestnanca;<sup>18a</sup>) odvolanie musí byť zdôvodnené,
 
 - b) hrubo alebo opakovane zanedbáva povinnosti vyplývajúce z jeho funkcie a bol na to aspoň raz písomne upozornený zastupiteľstvom,
 
