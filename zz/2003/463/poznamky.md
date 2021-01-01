@@ -21,3 +21,23 @@
 - 10) § 69 zákona č. 328/2002 Z. z. v znení zákona č. 463/2003 Z. z.
 
 - 11) § 70 zákona č. 328/2002 Z. z. v znení zákona č. 463/2003 Z. z.
+
+- 12) Zákon č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
+
+- 13) § 115 Občianskeho zákonníka.
+
+- 14) § 8 Občianskeho zákonníka.
+
+- 15) § 4 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 16) § 3 ods. 1 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
+
+- 17) Zákon č. 328/2002 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+
+- Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 18) § 38 a 40 zákona č. 328/2002 Z. z. v znení neskorších predpisov.
+
+- 19) § 2 písm. a) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
