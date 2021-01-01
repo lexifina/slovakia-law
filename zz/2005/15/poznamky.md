@@ -106,6 +106,8 @@
 
 - 38) Čl. 1 písm. a) nariadenia Komisie (ES) č. 1808/2001.
 
+- 38a) Čl. 2 písm. q) nariadenia (ES) č. 338/97 v platnom znení.
+
 - 38b) § 45 ods. 6 a 7 zákona č. 543/2002 Z. z.
 
 - 38c) § 2 ods. 2 písm. zn) zákona č. 543/2002 Z. z. v znení zákona č. 310/2018 Z. z.
