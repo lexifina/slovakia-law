@@ -12,4 +12,4 @@
 
 (6) Poskytovateľ, ktorý je držiteľom povolenia alebo držiteľom licencie na výkon samostatnej zdravotníckej praxe, nesmie pri poskytovaní zdravotnej starostlivosti podľa odsekov 1 až 4 uprednostňovať poistenca z iného členského štátu pred poskytovaním zdravotnej starostlivosti poistencovi, ktorý čaká na poskytnutie zdravotnej starostlivosti.<sup>58a</sup>)
 
-(7) Poskytovateľ, ktorý je držiteľom povolenia alebo držiteľom licencie na výkon samostatnej zdravotníckej praxe, je povinný poskytnúť zdravotnú starostlivosť osobe s poskytnutou doplnkovou ochranou, ktorá sa preukáže dokladom o oprávnení na poskytnutie zdravotnej starostlivosti.<sup>58cf</sup>)
+(7) Poskytovateľ, ktorý je držiteľom povolenia alebo držiteľom licencie na výkon samostatnej zdravotníckej praxe, je povinný poskytnúť zdravotnú starostlivosť cudzincovi s poskytnutou doplnkovou ochranou, ktorá sa preukáže preukazom cudzinca s poskytnutou doplnkovou ochranou o nároku na úhradu zdravotnej starostlivosti.<sup>58cf</sup>)

@@ -282,6 +282,8 @@
 
 - 55ca) § 3 ods. 1 zákona č. 576/2004 Z. z. v znení zákona č. 428/2015 Z. z.
 
+- 55cb) § 67b ods. 3 zákona č. 581/2004 Z. z. v znení zákona č. 392/2020 Z. z.
+
 - 55d) § 14 ods. 1 písm. a) až d) zákona č. 153/2013 Z. z.
 
 - 55e) § 11 zákona č. 153/2013 Z. z.
@@ -356,6 +358,10 @@
 
 - 55jawe) Príloha č. 2 k zákonu č. 577/2004 Z. z. v znení neskorších predpisov.
 
+- 55jawf) § 233 ods. 2 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+
+- § 12a a 12b zákona č. 576/2004 Z. z. v znení zákona č. 467/2019 Z. z.
+
 - 55jb) § 73 ods. 2 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 55jc) § 201, 201a, 201b a 202 Trestného zákona.
@@ -416,7 +422,7 @@
 
 - Zákon č. 363/2011 Z. z. o rozsahu a podmienkach úhrady liekov, zdravotníckych pomôcok a dietetických potravín na základe verejného zdravotného poistenia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 58cf) § 27c ods. 3 zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+- 58cf) § 9h ods. 4 zákona č. 580/2004 Z. z. v znení zákona č. 393/2020 Z. z.
 
 - 58d) § 15, 18 a 60 zákona č. 362/2011 Z. z.
 

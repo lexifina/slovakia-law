@@ -1,6 +1,6 @@
 # § 102e
 
-(1) Technik laboratórnej medicíny, medicínsko-technický laborant, zdravotnícky laborant, farmaceutický laborant, laborant pre zdravotnícke pomôcky, verejný zdravotník, rádiologický asistent, zdravotnícky záchranár, dentálna hygienička, asistent hygieny a epidemiológie, asistent výživy, masér, sanitár, praktická sestra, optometrista a očný optik, ktorý je ku dňu účinnosti tohto zákona členom Slovenskej komory iných zdravotníckych pracovníkov, asistentov, laborantov a technikov, stáva sa členom Slovenskej komory laborantov, asistentov a technikov a jeho členstvo v doterajšej komore zaniká.
+(1) Technik laboratórnej medicíny, medicínsko-technický laborant, zdravotnícky laborant, farmaceutický laborant, laborant pre zdravotnícke pomôcky, verejný zdravotník, rádiologický asistent, zdravotnícky záchranár, dentálna hygienička, asistent hygieny a epidemiológie, asistent výživy, masér, sanitár, zdravotnícky asistent, optometrista a očný optik, ktorý je ku dňu účinnosti tohto zákona členom Slovenskej komory iných zdravotníckych pracovníkov, asistentov, laborantov a technikov, stáva sa členom Slovenskej komory laborantov, asistentov a technikov a jeho členstvo v doterajšej komore zaniká.
 
 (2) Fyzioterapeut, ktorý je ku dňu účinnosti tohto zákona členom Slovenskej komory iných zdravotníckych pracovníkov, asistentov, laborantov a technikov, stáva sa členom Slovenskej komory fyzioterapeutov a jeho členstvo v doterajšej komore zaniká.
 
