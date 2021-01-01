@@ -16,6 +16,10 @@
 
 - 7) § 4 ods. 2 a 3 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
 
+- 7a) § 31 písm. k) zákona č. 95/2019 Z. z. o informačných technológiách vo verejnej správe a o zmene a doplnení niektorých zákonov.
+
+- § 40 vyhlášky Úradu podpredsedu vlády Slovenskej republiky pre investície a informatizáciu č. 78/2020 Z. z. o štandardoch pre informačné technológie verejnej správy.
+
 - 8) Napríklad zákon č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
 - 9) § 16 zákona č. 595/2003 Z. z. v znení zákona č. 177/2004 Z. z.
@@ -34,8 +38,6 @@
 
 - 13a) Napríklad zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov.
 
-- 13aa) Čl. 8 ústavného zákona č. 493/2011 Z. z.
-
 - 13ab) § 2 písm. c) zákona č. 526/2010 Z. z. o poskytovaní dotácií v pôsobnosti Ministerstva vnútra Slovenskej republiky v znení zákona č. 146/2017 Z. z.
 
 - 13b) Zákon č. 543/2007 Z. z. o pôsobnosti orgánov štátnej správy pri poskytovaní podpory v pôdohospodárstve a rozvoji vidieka v znení neskorších predpisov.
@@ -43,6 +45,8 @@
 - 14) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
 - 14a) Napríklad zákon č. 68/1997 Z. z. o Matici slovenskej v znení neskorších predpisov, zákon č. 131/2002 Z. z. v znení neskorších predpisov, zákon č. 553/2002 Z. z. o sprístupnení dokumentov o činnosti bezpečnostných zložiek štátu 1939 – 1989 a o založení Ústavu pamäti národa a o doplnení niektorých zákonov (zákon o pamäti národa) v znení neskorších predpisov, zákon č. 607/2003 Z. z. v znení neskorších predpisov, zákon č. 639/2004 Z. z. o Národnej diaľničnej spoločnosti a o zmene a doplnení zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov v znení zákona č. 664/2007 Z. z., zákon č. 238/2006 Z. z. v znení neskorších predpisov, zákon č. 460/2007 Z. z. o Slovenskom Červenom kríži a ochrane znaku a názvu Červeného kríža a o zmene a doplnení niektorých zákonov.
+
+- 14aa) § 2 písm. a) zákona č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu.
 
 - 14b) Zákon č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 125/2006 Z. z.
 
@@ -64,6 +68,12 @@
 
 - 14cb) § 5 a 6 zákona č. 474/2005 Z. z. o Slovákoch žijúcich v zahraničí a o zmene a doplnení niektorých zákonov.
 
+- 14d) § 1b zákona č. 575/2001 Z. z. v znení zákona č. 134/2020 Z. z.
+
+- 14e) Zákon č. 387/2002 Z. z. v znení neskorších predpisov.
+
+- § 43 zákona č. 7/2010 Z. z. o ochrane pred povodňami v znení zákona č. 71/2015 Z. z.
+
 - 15) Napríklad zákon č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
 - 16) Čl. 2 a 3 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu.
@@ -74,9 +84,15 @@
 
 - 18a) Čl. 3 a 4 nariadenia Rady (ES) č. 1466/97 zo 7. júla 1997 o posilnení dohľadu nad stavmi rozpočtov a o dohľade nad hospodárskymi politikami a ich koordinácii (Mimoriadne vydanie Ú. v. EÚ, kap. 10/zv. 1, Ú. v. ES L 209, 2. 8. 1997) v platnom znení.
 
+- 18aa) § 100a zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 18ab) Čl. 6 ods. 1 ústavného zákona č. 493/2011 Z. z.
+
 - 18b) § 27 ods. 2 zákona č. 400/2015 Z. z. o tvorbe právnych predpisov a o Zbierke zákonov Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení zákona č. 310/2016 Z. z.
 
 - 18c) Čl. 14 ods. 1 nariadenia Rady (ES) č. 479/2009 z 25. mája 2009 o uplatňovaní Protokolu o postupe pri nadmernom schodku, ktorý tvorí prílohu Zmluvy o založení Európskeho spoločenstva (kodifikované znenie) (Ú. v. EÚ L 145, 10. 6. 2009) v platnom znení.
+
+- 18d) Čl. 8 ústavného zákona č. 493/2011 Z. z.
 
 - 19) Napríklad zákon č. 461/2003 Z. z. v znení neskorších predpisov, zákon č. 92/1991 Zb. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov.
 
@@ -116,8 +132,6 @@
 
 - 22ac) § 20f až 20j Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
 
-- 22b) Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 22ba) § 2 ods. 2 zákona č. 375/2015 Z. z. o zrušení Fondu národného majetku Slovenskej republiky a o zmene a doplnení niektorých zákonov.
 
 - 23) Zákon č. 92/1991 Zb. v znení neskorších predpisov.
@@ -136,23 +150,31 @@
 
 - 24ad) Čl. 2 ods. 87 nariadenia Komisie (EÚ) č. 651/2014 zo 17. júna 2014 o vyhlásení určitých kategórií pomoci za zlučiteľné s vnútorným trhom podľa článkov 107 a 108 zmluvy (Ú. v. EÚ L 187/1, 26. 6. 2014) v platnom znení.
 
-- 24ae) § 2 písm. h) zákona č. 254/1998 Z. z. o verejných prácach v znení zákona č. 260/2007 Z. z.
+- 24ae) § 22 zákona č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 24af) § 5 písm. h) zákona č. 57/2018 Z. z. o regionálnej investičnej pomoci a o zmene a doplnení niektorých zákonov.
+- 24af) § 26 a 101 zákona č. 343/2015 Z. z. v znení zákona č. 345/2018 Z. z.
 
-- 24ag) § 26 a 101 zákona č. 343/2015 Z. z.
+- 24ag) Zákon č. 343/2015 Z. z. v znení neskorších predpisov.
 
 - 24ah) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 24ai) § 2 zákona Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov.
+- 24ai) § 6 ods. 10 zákona č. 215/2004 Z. z.
 
-- § 2 zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve v znení neskorších predpisov.
+- Vyhláška Národného bezpečnostného úradu č. 48/2019 Z. z., ktorou sa ustanovujú podrobnosti o administratívnej bezpečnosti utajovaných skutočností.
 
 - 24aj) § 22 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
 - 24ak) § 23 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
 - 24al) Bod 15.08. kapitoly 15 prílohy A nariadenia Európskeho parlamentu a Rady (EÚ) č. 549/2013 z 21. mája 2013 o európskom systéme národných a regionálnych účtov v Európskej únii (Ú. v. EÚ L 174, 26. 6. 2013) v platnom znení.
+
+- 24am) § 2 ods. 5 písm. g) zákona č. 343/2015 Z. z. v znení zákona č. 345/2018 Z. z.
+
+- 24an) § 2 zákona Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov.
+
+- § 39a zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
+
+- § 2 zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve v znení neskorších predpisov.
 
 - 24b) Článok 34 ods. 1 Aktu o podmienkach pristúpenia pripojeného k Zmluve o pristúpení Slovenskej republiky k Európskej únii (oznámenie č. 185/2004 Z. z.).
 
