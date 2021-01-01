@@ -2,6 +2,28 @@
 
 Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., zákona č. 177/2004 Z. z., zákona č. 191/2004 Z. z., zákona č. 391/2004 Z. z., zákona č. 538/2004 Z. z., zákona č. 539/2004 Z. z., zákona č. 659/2004 Z. z., zákona č. 68/2005 Z. z., zákona č. 314/2005 Z. z., zákona č. 534/2005 Z. z., zákona č. 660/2005 Z. z., zákona č. 688/2006 Z. z., zákona č. 76/2007 Z. z., zákona č. 209/2007 Z. z., zákona č. 519/2007 Z. z., zákona č. 530/2007 Z. z., zákona č. 561/2007 Z. z., zákona č. 621/2007 Z. z., zákona č. 653/2007 Z. z., zákona č. 168/2008 Z. z., zákona č. 465/2008 Z. z., zákona č. 514/2008 Z. z., zákona č. 563/2008 Z. z., zákona č. 567/2008 Z. z., zákona č. 60/2009 Z. z., zákona č. 184/2009 Z. z., zákona č. 185/2009 Z. z., zákona č. 504/2009 Z. z., zákona č. 563/2009 Z. z., zákona č. 374/2010 Z. z., zákona č. 548/2010 Z. z., zákona č. 129/2011 Z. z., zákona č. 231/2011 Z. z., zákona č. 250/2011 Z. z., zákona č. 331/2011 Z. z., zákona č. 362/2011 Z. z., zákona č. 406/2011 Z. z., zákona č. 547/2011 Z. z., zákona č. 548/2011 Z. z., zákona č. 69/2012 Z. z., uznesenia Ústavného súdu Slovenskej republiky č. 188/2012 Z. z., zákona č. 189/2012 Z. z., zákona č. 252/2012 Z. z., zákona č. 288/2012 Z. z., zákona č. 395/2012 Z. z., zákona č. 70/2013 Z. z., zákona č. 135/2013 Z. z., zákona č. 318/2013 Z. z., zákona č. 463/2013 Z. z., zákona č. 180/2014 Z. z., zákona č. 183/2014 Z. z., zákona č. 333/2014 Z. z., zákona č. 364/2014 Z. z., zákona č. 371/2014 Z. z., zákona č. 25/2015 Z. z., zákona č. 61/2015 Z. z., zákona č. 62/2015 Z. z., zákona č. 79/2015 Z. z., zákona č. 140/2015 Z. z., zákona č. 176/2015 Z. z., zákona č. 253/2015 Z. z., zákona č. 361/2015 Z. z., zákona č. 375/2015 Z. z., zákona č. 378/2015 Z. z., zákona č. 389/2015 Z. z., zákona č. 437/2015 Z. z., zákona č. 440/2015 Z. z., zákona č. 341/2016 Z. z., zákona č. 264/2017 Z. z., zákona č. 279/2017 Z. z., zákona č. 335/2017 Z. z., zákona č. 344/2017 Z. z., zákona č. 57/2018 Z. z., zákona č. 63/2018 Z. z., zákona č. 112/2018 Z. z., zákona č. 209/2018 Z. z., zákona č. 213/2018 Z. z., zákona č. 317/2018 Z. z., zákona č. 347/2018 Z. z., zákona č. 368/2018 Z. z., zákona č. 385/2018 Z. z., zákona č. 4/2019 Z. z., zákona č. 10/2019 Z. z., zákona č. 54/2019 Z. z., zákona č. 88/2019 Z. z., zákona č. 155/2019 Z. z., zákona č. 221/2019 Z. z., zákona č. 223/2019 Z. z., zákona č. 228/2019 Z. z. a zákona č. 233/2019 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 2 písmeno w) znie:
+
+- „w)
+
+- mikrodaňovníkom daňovník, ktorý je fyzickou osobou, ktorého príjmy (výnosy) podľa § 6 ods. 1 a 2 za zdaňovacie obdobie neprevyšujú sumu ustanovenú osobitným predpisom,<sup>2a</sup>) a daňovník, ktorý je právnickou osobou, ktorého príjmy (výnosy) za zdaňovacie obdobie neprevyšujú sumu ustanovenú osobitným predpisom;<sup>2a</sup>) mikrodaňovníkom nie je daňovník,
+
+- 1.
+
+- ktorý je závislou osobou podľa písmen n) až r) a realizuje kontrolovanú transakciu za toto zdaňovacie obdobie,
+
+- 2.
+
+- na ktorého bol vyhlásený konkurz, vstúpil do likvidácie alebo mu bol povolený splátkový kalendár,
+
+- 3.
+
+- ktorého zdaňovacie obdobie je kratšie ako 12 po sebe nasledujúcich kalendárnych mesiacov, okrem daňovníka, ktorý má kratšie zdaňovacie obdobie z dôvodu úmrtia,“.
+
+  - Poznámka pod čiarou k odkazu 2a znie:
+
+  - „<sup>2a</sup>) § 4 ods. 1 zákona č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.“.
+
 - 2. V § 2 písm. x) sa slovo „nezmluvného“ nahrádza slovom „nespolupracujúceho“, vypúšťajú sa slová „ak § 52zb neustanovuje inak,“ a na konci sa pripájajú tieto slová: „a zároveň tento štát nie je uvedený v zozname Európskej únie uverejnenom v Úradnom vestníku Európskej únie k 1. januáru kalendárneho roka“.
 
 - 3. V § 2 sa písmeno ac) dopĺňa tretím bodom, ktorý znie:
@@ -39,6 +61,14 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
   - Poznámka pod čiarou k odkazu 23a znie:
 
   - „<sup>23a</sup>) Napríklad § 30e zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 577/2004 Z. z. v znení neskorších predpisov.“.
+
+- 9. V § 5 ods. 7 písmeno m) znie:
+
+- „m)
+
+- nepeňažné plnenie poskytnuté zamestnancovi zamestnávateľom za účelom zabezpečenia dopravy zamestnanca na miesto výkonu práce a späť podľa § 19 ods. 2 písm. s) prvého bodu v úhrnnej sume najviac 60 eur mesačne; ak nepeňažné plnenie vypočítané z prostriedkov preukázateľne vynaložených zamestnávateľom prepočítaných na jedno miesto v motorovom vozidle podľa § 19 ods. 2 písm. s) prvého bodu presiahne sumu 60 eur, do základu dane (čiastkového základu dane) sa zahrnie len plnenie nad takto ustanovenú sumu,“.
+
+  - Poznámka pod čiarou k odkazu 24c sa vypúšťa.
 
 - 10. V § 5 ods. 7 písm. p) sa suma „60 eur“ nahrádza sumou „100 eur“.
 
@@ -280,6 +310,12 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - k odpisu pohľadávky, zvýši o sumu opravnej položky, ktorej tvorba bola uznaná za daňový výdavok podľa § 19, a súčasne zníži o výdavok (náklad) podľa § 19 ods. 2 písm. h) alebo sa zníži o výdavok (náklad) podľa § 19 ods. 2 písm. r), ak bola pohľadávka v zdaňovacom období odpisu pohľadávky aspoň jeden kalendárny deň nepremlčaná; pri odpise pohľadávky, ktorá v zdaňovacom období jej odpisu nebola aspoň jeden kalendárny deň nepremlčaná, je možné základ dane znížiť o výdavok (náklad) podľa § 19 ods. 2 písm. r) najviac do výšky opravnej položky, ktorá bola daňovníkom uplatnená ako daňový výdavok v čase, keď ešte nebola pohľadávka premlčaná,“.
 
+- 43. V § 17 odsek 31 znie:
+
+- „(31)
+
+- Pri vyradení hmotného majetku, pri ktorom boli uplatnené odpisy podľa § 26 ods. 13, pred uplynutím doby odpisovania podľa § 26 ods. 1 a 5, je daňovník povinný zvýšiť základ dane o kladný rozdiel medzi už uplatnenými odpismi podľa § 26 ods. 13 a odpismi vyčíslenými podľa § 27 alebo § 28.“.
+
 - 44. V § 17 odsek 32 znie:
 
 - „(32)
@@ -508,6 +544,14 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - vzdelávanie zamestnanca,<sup>18a</sup>) ktoré súvisí s činnosťou alebo s podnikaním zamestnávateľa, vlastné vzdelávacie zariadenia,“.
 
+- 52. V § 19 ods. 3 písm. a) sa za slová „doby prenájmu tohto majetku“ vkladá čiarka a slová „pričom tento limit výšky odpisov sa nevzťahuje na prenájom hmotného majetku zaradeného v odpisových skupinách 0 až 4 u mikrodaňovníka, a ak ide o mikrodaňovníka, ktorým je fyzická osoba, len na prenájom hmotného majetku zaradeného do obchodného majetku [§ 2 písm. m)] v súvislosti s dosahovaním príjmov podľa § 6 ods. 1 a 2“.
+
+- 53. V § 20 sa odsek 2 dopĺňa písmenom h), ktoré znie:
+
+- „h)
+
+- nepremlčaným pohľadávkam u mikrodaňovníka (odsek 23).“.
+
 - 54. V § 20 ods. 3 sa na konci pripája táto veta: „Pohľadávka sa na účely tohto zákona považuje k poslednému dňu zdaňovacieho obdobia za nepremlčanú, ak v príslušnom zdaňovacom období bola aspoň jeden kalendárny deň nepremlčaná.“.
 
 - 55. V § 20 ods. 9 písm. b) sa slová „do doby zabezpečenia“ nahrádzajú slovami „od založenia kultúry alebo vzniku náletu do ukončenia prečistky“.
@@ -517,6 +561,14 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 - „<sup>99</sup>) § 21 zákona č. 326/2005 Z. z.“.
 
 - 57. V § 20 ods. 10 prvej a štvrtej vete sa za slovo „pohľadávkam“ vkladá čiarka a slová „ktoré boli zahrnuté do zdaniteľných príjmov,“.
+
+- 58. V § 20 ods. 15 sa slová „14 a 17“ nahrádzajú slovami „14, 17 a 23“.
+
+- 59. § 20 sa dopĺňa odsekom 23, ktorý znie:
+
+- „(23)
+
+- Tvorba opravnej položky k pohľadávke, pri ktorej je riziko, že ju dlžník úplne alebo čiastočne nezaplatí, ktorá bola zahrnutá do zdaniteľných príjmov, sa môže zahrnúť do výdavkov u mikrodaňovníka účtujúceho v sústave podvojného účtovníctva v súlade s osobitným predpisom.<sup>1</sup>) Postup podľa prvej vety sa môže uplatniť aj pri tvorbe opravnej položky k príslušenstvu pohľadávky, pri ktorom je riziko, že ho dlžník úplne alebo čiastočne nezaplatí, ktoré bolo zahrnuté do zdaniteľných príjmov.“.
 
 - 60. V § 21 ods. 1 sa vypúšťa písmeno l).
 
@@ -542,11 +594,15 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - 64. V § 21 ods. 2 písm. m) treťom bode sa na konci pripájajú tieto slová: „okrem bezodplatného odovzdania zásob potravín Potravinovej banke Slovenska alebo daňovníkovi podľa § 12 ods. 3, ktorého predmetom činnosti je účel vymedzený v § 50 ods. 5, alebo registrovanému sociálnemu podniku,<sup>105aa</sup>) ktorého predmetom činnosti je účel vymedzený v § 50 ods. 5 písm. a), c), e) a i),“.
 
+- 65. V § 22 ods. 9 sa za druhú vetu vkladá nová tretia veta, ktorá znie: „Prerušenie odpisovania nemôže uplatniť ani mikrodaňovník, ak uplatňuje odpisy podľa § 26 ods. 13.“.
+
 - 66. V § 22 ods. 9 písm. a) sa na konci pripájajú tieto slová: „a hmotného majetku podľa § 26 ods. 7 poskytnutého na základe zmluvy o výpožičke<sup>110</sup>)“.
 
   - Poznámka pod čiarou k odkazu 110 znie:
 
   - „<sup>110</sup>) § 659 až 662 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.“.
+
+- 67. V § 25 ods. 3 sa slová „34 a 39“ nahrádzajú slovami „31, 34 a 39“.
 
 - 68. V § 25a písm. a) sa na konci pripájajú tieto slová: „upravená o všetky zníženia tejto ceny, ktoré neboli zahrnuté do základu dane, okrem zníženia tejto ceny z dôvodu výplaty príjmu zo zníženia základného imania obchodnej spoločnosti alebo družstva v časti, v akej bolo do dňa nadobudnutia finančného majetku zvýšené zo zisku po zdanení [§ 3 ods. 1 písm. e), § 12 ods. 7 písm. c) prvý bod],“.
 
@@ -584,6 +640,20 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - 73. V § 26 ods. 10, § 27 ods. 3 a § 28 ods. 5 sa slová „na celé eurá nahor“ nahrádzajú slovami „podľa § 47“.
 
+- 74. § 26 sa dopĺňa odsekom 13, ktorý znie:
+
+- „(13)
+
+- Mikrodaňovník môže odpisovať hmotný majetok zaradený do odpisových skupín 0 až 4 okrem osobného automobilu zatriedeného do kódu Klasifikácie produktov 29.10.2 so vstupnou cenou (§ 25) 48 000 eur a viac, najviac počas doby odpisovania podľa odsekov 1 a 5 v ním určenej výške najviac do výšky vstupnej ceny podľa § 25 ods. 1. Rovnako sa postupuje aj pri inom majetku uvedenom v § 22 ods. 6 písm. e). Tento spôsob odpisovania použije daňovník, ktorým je
+
+- a)
+
+- právnická osoba, na hmotný majetok zaradený do užívania v zdaňovacom období, v ktorom bol daňovník považovaný za mikrodaňovníka,
+
+- b)
+
+- fyzická osoba, na hmotný majetok zaradený do obchodného majetku [§ 2 písm. m)] v súvislosti s dosahovaním príjmov podľa § 6 ods. 1 a 2, v zdaňovacom období, v ktorom bol daňovník považovaný za mikrodaňovníka.“.
+
 - 75. V § 27 ods. 1 sa pred odpisovú skupinu 1 vkladá odpisová skupina 0, ktorá znie
 
 - „
@@ -599,6 +669,10 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 - „(1)
 
 - Od základu dane daňovníka, ktorý je právnickou osobou, alebo od základu dane (čiastkového základu dane) z príjmov podľa § 6 ods. 1 a 2 daňovníka, ktorý je fyzickou osobou, možno odpočítať daňovú stratu počas najviac piatich bezprostredne po sebe nasledujúcich zdaňovacích období, počnúc zdaňovacím obdobím bezprostredne nasledujúcim po zdaňovacom období, za ktoré bola táto daňová strata vykázaná. Daňovník si môže uplatniť tento odpočet daňovej straty najviac do výšky
+
+- a)
+
+- základu dane u daňovníka, ktorý je právnickou osobou, alebo základu dane (čiastkového základu dane) z príjmov podľa § 6 ods. 1 a 2 u daňovníka, ktorý je fyzickou osobou, ak sa v príslušnom zdaňovacom období, v ktorom si uplatňuje odpočet daňovej straty, považuje za mikrodaňovníka,
 
 - b)
 
@@ -802,6 +876,164 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - zaokrúhľovaná číslica, po ktorej nasleduje číslica päť alebo číslica väčšia ako päť, sa zväčšuje o jednu.“.
 
+- 132. § 49a vrátane nadpisu znie:
+
+- „§ 49a
+
+- Registračná povinnosť a oznamovacia povinnosť
+
+- (1)
+
+- Fyzickú osobu alebo právnickú osobu, ktorá je na území Slovenskej republiky zapísaná do registra právnických osôb, podnikateľov a orgánov verejnej moci,<sup>136ag</sup>) zaregistruje správca dane v lehote a spôsobom ustanoveným osobitným predpisom.<sup>128</sup>)
+
+- (2)
+
+- Fyzickú osobu alebo organizačnú jednotku združenia, ktorá koná vo svojom mene,<sup>136ah</sup>) a ktorá nie je zapísaná do registra právnických osôb, podnikateľov a orgánov verejnej moci,<sup>136ag</sup>) zaregistruje správca dane v lehote a spôsobom ustanoveným osobitným predpisom<sup>128</sup>) na základe prvého podaného daňového priznania.
+
+- (3)
+
+- Fyzická osoba a právnická osoba, ktorá nie je registrovaná podľa odseku 1 alebo odseku 2, je povinná v lehote do konca kalendárneho mesiaca nasledujúceho po uplynutí mesiaca, v ktorom vznikla povinnosť zrážať daň alebo preddavky na daň, alebo daň vyberať, požiadať správcu dane o registráciu ako platiteľ dane. Registračná povinnosť podľa tohto ustanovenia sa nevzťahuje na platiteľa dane uvedeného v § 43 ods. 17.
+
+- (4)
+
+- Ak fyzickej osobe alebo právnickej osobe, ktorá nie je registrovaná podľa odsekov 1 až 3, vznikla na území Slovenskej republiky stála prevádzkareň, je povinná požiadať správcu dane o registráciu do konca kalendárneho mesiaca po uplynutí mesiaca, v ktorom vznikla stála prevádzkareň. Ak táto fyzická osoba alebo právnická osoba už je registrovaná podľa odsekov 1 až 3, je povinná správcovi dane oznámiť vznik stálej prevádzkarne v lehote do konca kalendárneho mesiaca nasledujúceho po uplynutí mesiaca, v ktorom tejto fyzickej osobe alebo právnickej osobe vznikla stála prevádzkareň. Oznámenie o vzniku stálej prevádzkarne sa podáva na tlačive, ktorého vzor určí finančné riaditeľstvo a uverejní ho na svojom webovom sídle. Toto oznámenie obsahuje
+
+- a)
+
+- označenie daňovníka, ktorý podáva oznámenie, v rozsahu
+
+- 1.
+
+- daňové identifikačné číslo,
+
+- 2.
+
+- meno, priezvisko, dátum narodenia, adresa trvalého pobytu v zahraničí, telefónne číslo a e-mailová adresa,
+
+- 3.
+
+- obchodné meno alebo názov, adresa sídla v zahraničí, právna forma, identifikačné číslo organizácie, ak bolo pridelené, telefónne číslo a e-mailová adresa,
+
+- 4.
+
+- ďalšie údaje identifikujúce daňovníka, ktorý podáva oznámenie,
+
+- b)
+
+- údaje o stálej prevádzkarni daňovníka v rozsahu
+
+- 1.
+
+- druh stálej prevádzkarne,
+
+- 2.
+
+- názov,
+
+- 3.
+
+- meno a priezvisko alebo názov zástupcu,
+
+- 4.
+
+- adresa umiestnenia na území Slovenskej republiky,
+
+- 5.
+
+- dátum vzniku stálej prevádzkarne,
+
+- 6.
+
+- ďalšie údaje o stálej prevádzkarni daňovníka.
+
+- (5)
+
+- Daňovník s neobmedzenou daňovou povinnosťou a daňovník s obmedzenou daňovou povinnosťou, ktorý má na území Slovenskej republiky stálu prevádzkareň, je povinný oznámiť miestne príslušnému správcovi dane uzatvorenie zmluvy s daňovníkom so sídlom alebo s bydliskom v zahraničí, na základe ktorej môže daňovníkovi so sídlom alebo s bydliskom v zahraničí vzniknúť na území Slovenskej republiky stála prevádzkareň alebo daňová povinnosť zamestnancov alebo osôb pre neho pracujúcich na území Slovenskej republiky, a to do 15 dní po uzatvorení takej zmluvy. Oznámenie sa podáva na tlačive, ktorého vzor určí finančné riaditeľstvo a uverejní ho na svojom webovom sídle. Toto oznámenie obsahuje
+
+- a)
+
+- označenie daňovníka, ktorý podáva oznámenie, v rozsahu
+
+- 1.
+
+- daňové identifikačné číslo,
+
+- 2.
+
+- meno, priezvisko, adresa trvalého pobytu, telefónne číslo a e-mailová adresa,
+
+- 3.
+
+- obchodné meno alebo názov, adresa sídla, telefónne číslo a e-mailová adresa,
+
+- 4.
+
+- adresa umiestnenia stálej prevádzkarne na území Slovenskej republiky,
+
+- 5.
+
+- ďalšie údaje identifikujúce daňovníka, ktorý podáva oznámenie,
+
+- b)
+
+- označenie daňovníka, s ktorým uzatvoril zmluvu, v rozsahu
+
+- 1.
+
+- meno, priezvisko, dátum narodenia, adresa trvalého pobytu v zahraničí,
+
+- 2.
+
+- obchodné meno alebo názov, adresa sídla v zahraničí, právna forma,
+
+- 3.
+
+- ďalšie údaje identifikujúce daňovníka, s ktorým uzatvoril zmluvu,
+
+- c)
+
+- údaje o uzatvorenej zmluve v rozsahu
+
+- 1.
+
+- druh zmluvy,
+
+- 2.
+
+- dátum uzatvorenia zmluvy,
+
+- 3.
+
+- ďalšie údaje o uzatvorenej zmluve,
+
+- d)
+
+- miesto na osobitné záznamy daňovníka.
+
+- (6)
+
+- Držiteľ je povinný predložiť správcovi dane oznámenie o výške nepeňažného plnenia nad rozsah určený osobitným predpisom<sup>37ab</sup>) a dátume jeho poskytnutia do konca mesiaca po uplynutí kalendárneho roka, v ktorom bolo toto nepeňažné plnenie poskytnuté poskytovateľovi zdravotnej starostlivosti okrem nepeňažných plnení oznamovaných podľa § 43 ods. 17, pričom ak ho poskytol
+
+- a)
+
+- fyzickej osobe, tlačivo obsahuje tiež jej meno, priezvisko, adresu zdravotníckeho zariadenia, v ktorom fyzická osoba poskytuje zdravotnú starostlivosť alebo vykonáva závislú činnosť zamestnanca, dátum narodenia, daňové identifikačné číslo tejto fyzickej osoby, ak jej bolo pridelené,
+
+- b)
+
+- právnickej osobe, tlačivo obsahuje tiež jej obchodné meno alebo názov, adresu sídla a jej daňové identifikačné číslo.
+
+- (7)
+
+- Výšku zdaniteľného nepeňažného plnenia, okrem nepeňažných plnení oznamovaných podľa § 43 ods. 17, je povinný oznámiť držiteľ príjemcovi v lehote do konca kalendárneho mesiaca po uplynutí kalendárneho roka, v ktorom nepeňažné plnenie poskytol. Ak nepeňažné plnenie poskytol držiteľ prostredníctvom iného držiteľa, ktorý je treťou osobou, ktorá sprostredkuje poskytnutie tohto plnenia, výšku nepeňažného plnenia prijímateľovi tohto plnenia oznamuje tento iný držiteľ, ak sa držitelia písomne nedohodnú inak; to neplatí, ak je týmto držiteľom, ktorý je treťou osobou, ktorá sprostredkuje poskytnutie plnenia od držiteľa, zahraničná osoba.“.
+
+  - Poznámky pod čiarou k odkazom 136ag a 136ah znejú:
+
+  - „<sup>136ag</sup>) Zákon č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov v znení zákona č. 52/2018 Z. z.
+
+  - <sup>136ah</sup>) § 11a zákona č. 83/1990 Zb. v znení zákona č. 346/2018 Z. z.“.
+
+  - Poznámky pod čiarou k odkazom 136c, 136d a 136e sa vypúšťajú.
+
 - 133. V § 50 ods. 2 sa vypúšťajú slová „ods. 1“.
 
 - 134. Poznámka pod čiarou k odkazu 142a znie:
@@ -825,6 +1057,18 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 - 138. Poznámka pod čiarou k odkazu 146ac znie:
 
 - „<sup>146ac</sup>) Zákon č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
+- 139. Za § 51e sa vkladá § 51f, ktorý znie:
+
+- „§ 51f
+
+- Opatrenia týkajúce sa mikrodaňovníkov, ktoré sú štátnou pomocou, možno vykonať len v súlade s predpismi v oblasti štátnej pomoci.<sup>146ad</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 146ad znie:
+
+  - „<sup>146ad</sup>) Napríklad čl. 107 a 108 Zmluvy o fungovaní Európskej únie v platnom znení (Ú. v. EÚ C 326, 26. 10. 2012), zákon č. 358/2015 Z. z.“.
+
+  - Poznámky pod čiarou k odkazom 146ae a 146af sa vypúšťajú.
 
 - 140. Za § 52zy sa vkladajú § 52zz až 52zzc, ktoré vrátane nadpisov znejú:
 
