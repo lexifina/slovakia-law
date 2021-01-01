@@ -62,9 +62,7 @@
 
 - 38d) § 51 a 129 zákona č. 328/2002 Z. z. v znení neskorších predpisov.
 
-- 38e) § 143al zákona č. 328/2002 Z. z. v znení zákona č. 45/2020 Z. z.
-
-- § 77a a 77b zákona č. 461/2003 Z. z. v znení zákona č. 45/2020 Z. z.
+- 38e) § 293fg zákona č. 461/2003 Z. z. v znení zákona č. 275/2020 Z. z.
 
 - 40) Zákon č. 221/2006 Z. z. o výkone väzby v znení neskorších predpisov.
 
@@ -229,6 +227,8 @@
 - Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
 - 88a) § 23 zákona č. 431/2002 Z. z. v znení zákona č. 547/2011 Z. z.
+
+- 88b) § 34 ods. 3 písm. d) zákona č. 324/2011 Z. z. o poštových službách a o zmene a doplnení niektorých zákonov.
 
 - 89) § 226 zákona č. 461/2003 Z. z. v znení zákona č. 43/2004 Z. z.
 

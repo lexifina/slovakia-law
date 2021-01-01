@@ -58,7 +58,7 @@
 
 - c) ďalšie riziká, ktoré sa rozlišujú na účely riadenia rizík,
 
-- d) dodatočné náležitosti informačného prospektu dôchodkového fondu a ročnej správy o hospodárení s majetkom v dôchodkovom fonde týkajúce sa merania a riadenia rizík v dôchodkovom fonde,
+- d) dodatočné náležitosti ročnej správy o hospodárení s majetkom v dôchodkovom fonde týkajúce sa merania a riadenia rizík v dôchodkovom fonde,
 
 - e) podrobnosti
 

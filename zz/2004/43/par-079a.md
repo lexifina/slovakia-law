@@ -12,7 +12,7 @@
 
 (4) Zanikajúce dôchodkové fondy zanikajú dňom účinnosti zlúčenia; k tomuto dňu sa sporitelia v týchto dôchodkových fondoch stávajú sporiteľmi v nástupníckom dôchodkovom fonde.
 
-(5) Dôchodková správcovská spoločnosť je povinná informovať sporiteľov o zámere zlúčiť dôchodkové fondy podľa odseku 1 pred podaním žiadosti o predchádzajúci súhlas podľa § 52 ods. 4 a do 30 dní od nadobudnutia právoplatnosti rozhodnutia Národnej banky Slovenska o vydaní predchádzajúceho súhlasu zverejniť toto rozhodnutie, informačný prospekt nástupníckeho dôchodkového fondu a informovať dotknutých sporiteľov podľa postupu určeného v štatúte na oboznamovanie sporiteľov so zmenami štatútu a informačného prospektu. Informácie podľa prvej vety obsahujú najmä stručný popis investičnej stratégie a hlavných rizík nástupníckeho dôchodkového fondu.
+(5) Dôchodková správcovská spoločnosť je povinná informovať sporiteľov o zámere zlúčiť dôchodkové fondy podľa odseku 1 pred podaním žiadosti o predchádzajúci súhlas podľa § 52 ods. 4 a do 30 dní od nadobudnutia právoplatnosti rozhodnutia Národnej banky Slovenska o vydaní predchádzajúceho súhlasu zverejniť toto rozhodnutie, kľúčové informácie nástupníckeho dôchodkového fondu a informovať dotknutých sporiteľov podľa postupu určeného v štatúte na oboznamovanie sporiteľov so zmenami štatútu a kľúčových informácií. Informácie podľa prvej vety obsahujú najmä stručný popis investičnej stratégie a hlavných rizík nástupníckeho dôchodkového fondu.
 
 (6) Dôchodková správcovská spoločnosť určí deň, ku ktorému sa vypočíta konečný počet dôchodkových jednotiek v zanikajúcom dôchodkovom fonde, a čistú hodnotu majetku zanikajúceho dôchodkového fondu.
 

@@ -52,7 +52,7 @@
 
 - d) Ústredie práce, sociálnych vecí a rodiny a úrad práce, sociálnych vecí a rodiny na účely posudzovania nároku na pomoc v hmotnej núdzi, a to k údajom podľa odseku 2 písm. f) až h) a m).
 
-(7) Sociálna poisťovňa poskytuje údaje podľa odseku 2 písm. f) až h), j) až m) a o) ministerstvu a Národnej banke Slovenska na štatistické a analytické účely.
+(7) Sociálna poisťovňa poskytuje údaje podľa odseku 2 písm. f) až h), j) až m) a o) ministerstvu, Ministerstvu financií Slovenskej republiky (ďalej len „ministerstvo financií“) a Národnej banke Slovenska na štatistické a analytické účely.
 
 (8) Najneskôr pred predložením prvej ponuky podľa § 46 ods. 1 písm. a) alebo oznámenia podľa § 46 ods. 1 písm. b) poistiteľ zaeviduje do ponukového systému najnižšiu mesačnú sumu doživotného dôchodku bez zvyšovania dôchodku a bez pozostalostných dôchodkov, ktorú má poistiteľ záujem vyplácať.
 
@@ -64,4 +64,4 @@
 
 - b) priemernú sumu starobného dôchodku, predčasného starobného dôchodku, pozostalostného dôchodku a výnosu z investovania do 31. januára kalendárneho roka, ktorý nasleduje po kalendárnom roku, za ktorý sa tieto priemerné sumy určujú.
 
-(11) Sociálna poisťovňa uzavrie s poistiteľom a dôchodkovou správcovskou spoločnosťou zmluvu, ktorej obsahom budú práva a povinnosti pri používaní ponukového systému. Náležitosti zmluvy podľa predchádzajúcej vety môže ministerstvo ustanoviť opatrením, ktoré sa vyhlási v Zbierke zákonov Slovenskej republiky.
+(11) Sociálna poisťovňa uzavrie s poistiteľom a dôchodkovou správcovskou spoločnosťou zmluvu, ktorej obsahom budú práva a povinnosti pri používaní ponukového systému. Náležitosti zmluvy podľa predchádzajúcej vety môže ministerstvo ustanoviť opatrením.
