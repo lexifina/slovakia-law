@@ -12,6 +12,8 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 
 - 3. V § 28 ods. 4 písm. b) sa na konci pripájajú tieto slová: „najmenej na obdobie dvoch kalendárnych rokov“.
 
+- 4. V § 30 ods. 7 prvej vete sa vypúšťajú slová „individuálne plnenie vyhradených povinností,“ a na konci sa pripája táto veta: „Ak ide o zmenu, ktorou je prechod na individuálne plnenie vyhradených povinností, výrobca vyhradeného výrobku je povinný podať žiadosť o udelenie autorizácie najneskôr do 30. septembra kalendárneho roka.“.
+
 - 5. V § 31 sa odsek 12 dopĺňa písmenom f), ktoré znie:
 
 - „f)
@@ -48,7 +50,11 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 
 - 10. V § 59 sa odsek 1 dopĺňa písmenami f) až h), ktoré znejú:
 
-- „g)
+- „f)
+
+- zabezpečiť vykonávanie triedeného zberu komunálnych odpadov pre odpady z obalov a odpady z neobalových výrobkov najmenej v rozsahu vyplývajúcom z požiadaviek ustanovených pre triedený zber komunálnych odpadov [§ 105 ods. 3 písm. w)],
+
+- g)
 
 - uhradiť náklady na zabezpečenie triedeného zberu a zhodnotenia odpadov z obalov a odpadov z neobalových výrobkov vo výške ekonomicky oprávnených výdavkov ustanovených vykonávacím predpisom [§ 105 ods. 3 písm. m)],
 
@@ -111,6 +117,12 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 - „3.
 
 - oddelene vyzbieraný odpad z obalov z iných zdrojov a oddelene vyzbieraný odpad z neobalových výrobkov z iných zdrojov.“.
+
+- 16. V § 81 ods. 7 písmeno c) znie:
+
+- „c)
+
+- zabezpečiť zavedenie a vykonávanie triedeného zberu komunálnych odpadov pre papier, plasty, kovy, sklo a kompozitné obaly na báze lepenky,“.
 
 - 17. V § 81 ods. 13 sa za slovami „spätný zber“ slovo „a“ nahrádza čiarkou a na konci sa pripájajú tieto slová: „a na zber oddelene vyzbieraného odpadu z iných zdrojov“.
 
