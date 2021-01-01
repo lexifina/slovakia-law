@@ -1,0 +1,1 @@
+Príloha k vyhláške č. 431/2020 Z. z. [ZOZNAM FARMACEUTICKO-NÁKLADOVÝCH SKUPÍN NA ROK 2021](../assets/983b8992cbc568fe104ddecdc2af8ca14b1cc1a27cc5f3a9070936fb2e23e595.pdf)
