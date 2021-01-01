@@ -72,6 +72,24 @@ Z. z., zákona č. 266/2017 Z. z., zákona č. 279/2017 Z. z., zákona č. 63/20
 
 - 70. V § 212 ods. 5 sa slová „do troch dní od uloženia, posledný deň tejto lehoty“ nahrádzajú slovami „počas odbernej lehoty, deň vrátenia nedoručenej zásielky organizačnej zložke Sociálnej poisťovne“.
 
+- 79. V § 226 ods. 1 sa za písmeno m) vkladá nové písmeno n), ktoré znie:
+
+- „n)
+
+- prideliť identifikačné číslo právneho vzťahu zamestnanca a sprístupniť ho zamestnávateľovi bezodkladne po doručení prihlášky do registra poistencov a sporiteľov starobného dôchodkového sporenia,“.
+
+  - Doterajšie písmená n) až p) sa označujú ako písmená o) až q).
+
+- 81. V § 226 ods. 5 sa za slovo „účtu“ vkladajú slová „a identifikačného čísla právneho vzťahu zamestnanca“.
+
+- 99. V § 232 ods. 2 sa za písmeno b) vkladá nové písmeno c), ktoré znie:
+
+- „c)
+
+- identifikačné číslo právneho vzťahu podľa § 226 ods. 1 písm. n),“.
+
+  - Doterajšie písmená c) až f) sa označujú ako písmená d) až g).
+
 - 102. V § 233 odsek 3 znie:
 
 - „(3)
@@ -81,3 +99,23 @@ Z. z., zákona č. 266/2017 Z. z., zákona č. 279/2017 Z. z., zákona č. 63/20
   - Poznámka pod čiarou k odkazu 71 znie:
 
   - „<sup>71</sup>) Napríklad zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 513/2009 Z. z. o dráhach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
+- 105. Nadpis § 235 znie:
+
+- „Identifikačné číslo sociálneho zabezpečenia fyzickej osoby a identifikačné číslo právneho vzťahu zamestnanca“.
+
+- 106. Doterajší text § 235 sa označuje ako odsek 1 a dopĺňa sa odsekom 2, ktorý znie:
+
+- „(2)
+
+- Zamestnávateľ je povinný od sprístupnenia identifikačného čísla právneho vzťahu zamestnanca podľa § 226 ods. 1 písm. n) uvádzať toto číslo pri komunikácii so Sociálnou poisťovňou.“.
+
+- 114. Za § 293ee sa vkladajú § 293ef a 293eg, ktoré vrátane nadpisov znejú:
+
+- „§ 293ef
+
+- Prechodné ustanovenie účinné od 1. januára 2021
+
+- Sociálna poisťovňa pridelí identifikačné číslo právneho vzťahu zamestnanca, ktorý je
+
+- k 1. januáru 2021 v právnom vzťahu k zamestnávateľovi a zamestnávateľ z tohto dôvodu prihlásil zamestnanca pred 1. januárom 2021 do registra poistencov a sporiteľov starobného dôchodkového sporenia, a sprístupní ho zamestnávateľovi do 31. januára 2021.“.
