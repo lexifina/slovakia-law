@@ -1,14 +1,6 @@
 # § 82b Zvýšenie sumy starobného dôchodku a sumy invalidného dôchodku vyplácaného po dovŕšení dôchodkového veku na sumu minimálneho dôchodku
 
-(1) Suma minimálneho dôchodku, ak odsek 2 neustanovuje inak, je
-
-- a) 33 % priemernej mesačnej nominálnej mzdy zamestnanca v hospodárstve Slovenskej republiky zverejnenej štatistickým úradom za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa určuje suma starobného dôchodku alebo suma invalidného dôchodku vyplácaného po dovŕšení dôchodkového veku, ak poistenec získal obdobie dôchodkového poistenia podľa odseku 4 v rozsahu 30 rokov, alebo
-
-- b) percentuálna výmera podľa písmena a) zvýšená o
-
-  - 1. 2 % sumy životného minima pre jednu plnoletú fyzickú osobu podľa osobitného predpisu<sup>56</sup>) platnej k 1. januáru kalendárneho roka, v ktorom sa určuje suma starobného dôchodku alebo suma invalidného dôchodku vyplácaného po dovŕšení dôchodkového veku za každý ďalší rok obdobia dôchodkového poistenia podľa odseku 4 po získaní obdobia dôchodkového poistenia podľa odseku 4 v rozsahu 30 rokov,
-
-  - 2. 3 % sumy životného minima pre jednu plnoletú fyzickú osobu podľa osobitného predpisu<sup>56</sup>) platnej k 1. januáru kalendárneho roka, v ktorom sa určuje suma starobného dôchodku alebo suma invalidného dôchodku vyplácaného po dovŕšení dôchodkového veku za každý ďalší rok obdobia dôchodkového poistenia podľa odseku 4 po získaní obdobia dôchodkového poistenia podľa odseku 4 v rozsahu 39 rokov.
+(1) Suma minimálneho dôchodku, ak odsek 2 neustanovuje inak, sa určuje podľa prílohy č. 4a.
 
 (3) Suma starobného dôchodku alebo suma invalidného dôchodku vyplácaného po dovŕšení dôchodkového veku sa zvýši tak, aby suma tohto dôchodku alebo úhrn súm podľa písmena c) sa rovnal sume minimálneho dôchodku, ak
 
@@ -30,13 +22,19 @@
 
 - d) poistenec si uplatnil nárok na dôchodok podľa písmena c) prvého bodu, druhého bodu a štvrtého bodu.
 
-(4) Obdobie dôchodkového poistenia na účely minimálneho dôchodku je
+(4) Obdobie dôchodkového poistenia na účely minimálneho dôchodku je obdobie dôchodkového poistenia a obdobie, ktoré sa pripočítalo k obdobiu dôchodkového poistenia na určenie sumy invalidného dôchodku, získané
 
-- a) obdobie dôchodkového poistenia,
+- a) v kalendárnom roku, za ktorý sa osobný mzdový bod určil najmenej v hodnote 0,241, ak v písmenách b) až d) nie je ustanovené inak,
 
-- b) obdobie, ktoré sa pripočítalo k obdobiu dôchodkového poistenia na určenie sumy invalidného dôchodku,
+- b) pred 1. januárom 1993,
 
-- c) obdobie podľa písmen a) a b) získané v cudzine.
+- c) v cudzine alebo
+
+- d) v kalendárnom roku,
+
+  - 1. v ktorom boli splnené podmienky nároku na starobný dôchodok alebo invalidný dôchodok,
+
+  - 2. do ktorého patrí deň, od ktorého bol priznaný starobný dôchodok alebo invalidný dôchodok podľa predpisov účinných pred 1. januárom 2004.
 
 (5) Ak obdobie, ktoré sa pripočítalo k obdobiu dôchodkového poistenia na určenie sumy invalidného dôchodku, je dlhšie ako obdobie od vzniku nároku na invalidný dôchodok do dovŕšenia dôchodkového veku poistenca, započítava sa do obdobia dôchodkového poistenia podľa odseku 4 postupne aj po dovŕšení dôchodkového veku poistenca.
 

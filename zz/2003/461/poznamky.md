@@ -302,6 +302,8 @@
 
 - 95aa) Zákon č. 112/2015 Z. z. o príspevku športovému reprezentantovi a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
+- 95aaa) Zákon č. 274/2007 Z. z. o príplatku k dôchodku politickým väzňom v znení neskorších predpisov.
+
 - 96) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov.
 
 - 96a) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -379,8 +381,6 @@
 - 113) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. v znení neskorších predpisov.
 
 - 113a) Zákon č. 592/2006 Z. z. o poskytovaní vianočného príspevku niektorým poberateľom dôchodku a o doplnení niektorých zákonov.
-
-- 113b) Zákon č. 274/2007 Z. z. o príplatku k dôchodku politickým väzňom.
 
 - 114) Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov.
 

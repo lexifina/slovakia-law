@@ -1,0 +1,3 @@
+# § 293fi
+
+Ak dôchodkový vek poistenca, ktorému bol priznaný predčasný starobný dôchodok do 31. decembra 2020, je alebo by bol podľa § 65 ods. 2 a príloh č. 3a a 3b v znení účinnom od 1. januára 2021 nižší ako dôchodkový vek podľa tohto zákona v znení účinnom do 31. decembra 2020, predčasný starobný dôchodok alebo starobný dôchodok podľa § 69a ods. 1 sa zvýši o 0,5 % percentuálne nezníženej sumy podľa § 68 ods. 1 za každých začatých 30 dní obdobia rozdielu dôchodkového veku podľa § 65 ods. 2 a príloh č. 3a a 3b v znení účinnom od 1. januára 2021 a dôchodkového veku určeného podľa tohto zákona v znení účinnom do 31. decembra 2020.
