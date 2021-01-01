@@ -154,4 +154,18 @@ Zákon č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl 
 
 - Na účely prideľovania príspevku na výchovu a vzdelávanie detí materských škôl sa do počtu detí materskej školy v roku 2021 započítavajú aj deti prijaté do materskej školy od 16. septembra 2020 do 31. decembra 2020 z dôvodu výstavby, prístavby, modernizácie alebo rekonštrukcie školského objektu alebo z dôvodu zaradenia elokovaného pracoviska do siete podľa osobitného predpisu.<sup>5</sup>)“.
 
+- 17. Za § 9j sa vkladá § 9k, ktorý vrátane nadpisu znie:
+
+- „§ 9k
+
+- Prechodné ustanovenia k úpravám účinným od 1. januára 2021
+
+- (1)
+
+- Príspevok na výchovu a vzdelávanie pre materskú školu na kalendárny rok 2021 sa určí podľa predpisov účinných do 31. decembra 2020.
+
+- (2)
+
+- Ministerstvo po 1. októbri 2021 na základe skutočného počtu detí podľa údajov k 15. septembru 2021 a výšky sumy životného minima platnej k 1. septembru 2021 určí úpravu časti príspevku na výchovu a vzdelávanie pre materskú školu na mesiace september až december 2021 podľa predpisov účinných od 1. januára 2021.“.
+
 - 18. Slová „verejné školské zariadenie“ vo všetkých tvaroch sa v celom texte zákona okrem § 9a písm. b) nahrádzajú slovami „štátne školské zariadenie“ v príslušnom tvare a slová „verejná materská škola“ vo všetkých tvaroch sa v celom texte zákona nahrádzajú slovami „štátna materská škola“ v príslušnom tvare.
