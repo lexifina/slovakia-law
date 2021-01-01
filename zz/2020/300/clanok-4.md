@@ -106,6 +106,10 @@ Zákon č. 284/2014 Z. z. o Fonde na podporu umenia a o zmene a doplnení zákon
 
 - 14. V § 20 ods. 2 písm. g) sa vypúšťajú slová „a rozpočtom obcí“.
 
+- 15. V § 23 ods. 6 úvodnej vete sa číslo „96,5“ nahrádza číslom „95“.
+
+- 16. V § 23 ods. 7 písm. a) sa číslo „3,5“ nahrádza číslom „5“.
+
 - 17. V § 25a písmeno b) znie:
 
 - „b)
