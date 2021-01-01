@@ -48,6 +48,8 @@ Zákon č. 280/2006 Z. z. o povinnej základnej kvalifikácii a pravidelnom výc
 
 - vozidiel používaných alebo prenajímaných bez vodiča poľnohospodárskymi, záhradníckymi, lesníckymi, chovateľskými alebo rybárskymi podnikmi na prepravu tovaru ako súčasť ich podnikateľskej činnosti v okruhu do 50 kilometrov od základne podniku, ktorý vozidlo vlastní, prenajíma alebo používa na základe lízingu a za predpokladu, že vedenie takéhoto vozidla nie je hlavnou činnosťou vodiča.“.
 
+- 3. V § 4 ods. 2 sa na konci pripája táto veta: „V kurzoch základnej kvalifikácie môže byť časť výučby teórie nahradená prostredníctvom informačných technológií (ďalej len „e-learning“) a praktická zručnosť nahradená na výkonnom trenažéri v rozsahu podľa prílohy č. 1 oddielu 2 a 3.“.
+
 - 4. V § 4 ods. 7 písm. c) sa na konci pripájajú tieto slová: „a praktickej jazdy alebo praktickej zručnosti,“.
 
 - 5. V § 4 sa za odsek 7 vkladá nový odsek 8, ktorý znie:
@@ -317,6 +319,8 @@ Zákon č. 280/2006 Z. z. o povinnej základnej kvalifikácii a pravidelnom výc
 - 13. V § 8 ods. 1 prvá veta znie:
 
 - „Pravidelný výcvik je aktualizácia úrovne vedomostí a praktickej zručnosti potrebnej pre výkon povolania vodiča s osobitným dôrazom na bezpečnosť cestnej premávky, bezpečnosť a ochranu zdravia pri práci, racionalizáciu spotreby pohonných hmôt, zníženie vplyvu vedenia vozidiel na životné prostredie a na zásady defenzívnej jazdy.“.
+
+- 14. V § 9 ods. 2 sa na konci pripája táto veta: „V kurzoch pravidelného výcviku môže byť časť výučby teórie nahradená prostredníctvom e-learningu a praktická zručnosť nahradená na autocvičisku v rozsahu podľa prílohy č. 1 oddielu 4.“.
 
 - 15. V § 9 ods. 4 písm. c) sa na konci pripájajú tieto slová: „a praktickej jazdy alebo praktickej zručnosti,“.
 
