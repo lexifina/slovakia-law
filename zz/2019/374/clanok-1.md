@@ -92,9 +92,13 @@ Zákon č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zme
 
 - 19. V § 6 ods. 3 písm. d) sa na konci pripájajú tieto slová: „alebo zakladateľská listina“.
 
+- 20. V § 7 ods. 1 tretia veta znie: „Žiadosť o štatút sa podáva v elektronickej podobe prostredníctvom elektronického formulára zaslaného do informačného systému sociálnej ekonomiky.“.
+
 - 21. V § 7 ods. 1 písm. a) sa na konci pripájajú tieto slová: „alebo výpis z registra trestov nie starší ako tri mesiace“.
 
 - 22. V § 7 ods. 1 písm. c) sa vypúšťajú slová „ak ide o žiadateľa, ktorý je začínajúcim podnikom, alebo o žiadateľa podľa odseku 5 poslednej vety,“.
+
+- 23. V § 7 ods. 2 a § 28 ods. 3 sa slová „ods. 7“ nahrádzajú slovami „ods. 8“.
 
 - 24. V § 7 ods. 4 sa na konci pripája táto veta: „Z osvedčenia o priznaní štatútu registrovaného sociálneho podniku musí vyplývať, ktorú spoločensky prospešnú službu registrovaný sociálny podnik poskytuje.“.
 
@@ -290,9 +294,15 @@ Zákon č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zme
 
 - „(10)
 
-- Ministerstvo práce sústreďuje príjmy a realizuje výdavky súvisiace s predajom, odkúpením a spätným výkupom servisných poukážok prostredníctvom samostatného účtu.“.
+- Ministerstvo práce sústreďuje príjmy a realizuje výdavky súvisiace s predajom, odkúpením a spätným výkupom servisných poukážok prostredníctvom samostatného účtu.
+
+- (11)
+
+- Ministerstvo práce môže zabezpečiť plnenie úloh podľa odsekov 2, 4, 6 až 8 prostredníctvom právnickej osoby alebo fyzickej osoby, ktorú na tento účel vyberie podľa osobitného predpisu.<sup>64a</sup>)“.
 
   - Poznámka pod čiarou k odkazu 64a znie:
+
+  - „<sup>64a</sup>) Zákon č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
 
 - 58. V § 24 odsek 1 znie:
 
@@ -376,6 +386,16 @@ Zákon č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zme
 
 - Ústredie práce, sociálnych vecí a rodiny vypracúva a realizuje národné projekty v oblasti sociálnej ekonomiky.“.
 
+- 67. V § 26 sa za odsek 3 vkladá nový odsek 4, ktorý znie:
+
+- „(4)
+
+- Žiadosť o priznanie strešnej organizácie sektora sociálnej ekonomiky a žiadosť o priznanie najvyššej strešnej organizácie sektora sociálnej ekonomiky sa podáva v elektronickej podobe prostredníctvom elektronického formulára zaslaného do informačného systému sociálnej ekonomiky.“.
+
+  - Doterajšie odseky 4 až 9 sa označujú ako odseky 5 až 10.
+
+- 68. V § 26 ods. 7 písm. b) a c) a ods. 9 sa slová „odseku 7“ nahrádzajú slovami „odseku 8“.
+
 - 69. V § 27 sa odsek 2 dopĺňa písmenom i), ktoré znie:
 
 - „i)
@@ -385,6 +405,154 @@ Zákon č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zme
 - 70. V § 27 ods. 3 sa slová „ods. 5“ nahrádzajú slovami „ods. 4“.
 
 - 71. V § 27 ods. 4 sa za slovo „okrem“ vkladajú slová „dátumu narodenia a“.
+
+- 72. Za § 27 sa vkladajú § 27a a 27b, ktoré vrátane nadpisu znejú:
+
+- „§ 27a
+
+- Informačný systém sociálnej ekonomiky
+
+- (1)
+
+- Informačný systém sociálnej ekonomiky je informačný systém verejnej správy<sup>73</sup>) na úseku práce, sociálnych vecí a rodiny v oblasti sociálnej ekonomiky. Ministerstvo práce spracúva osobné údaje o fyzickej osobe vedenej v informačnom systéme sociálnej ekonomiky v rozsahu uvedenom v odseku 5 a § 27 ods. 2.
+
+- (2)
+
+- V informačnom systéme sociálnej ekonomiky sa vedie
+
+- a)
+
+- evidencia žiadostí o štatút,
+
+- b)
+
+- evidencia žiadostí o priznanie postavenia organizácie sektora sociálnej ekonomiky,
+
+- c)
+
+- register sociálnych podnikov,
+
+- d)
+
+- evidencia zamestnancov integračných podnikov,
+
+- e)
+
+- evidencia ekonomickej činnosti registrovaných sociálnych podnikov,
+
+- f)
+
+- evidencia podpory poskytnutej registrovaným sociálnym podnikom podľa tohto zákona,
+
+- g)
+
+- evidencia sankcionovania registrovaných sociálnych podnikov.
+
+- (3)
+
+- Evidencia žiadostí o štatút obsahuje údaje zo žiadosti o štatút a prílohy k žiadosti o štatút.
+
+- (4)
+
+- Evidencia žiadostí o priznanie postavenia organizácie sektora sociálnej ekonomiky obsahuje údaje zo žiadosti o priznanie postavenia strešnej organizácie sektora sociálnej ekonomiky, údaje zo žiadosti o priznanie postavenia hlavnej strešnej organizácie sektora sociálnej ekonomiky a prílohy k týmto žiadostiam.
+
+- (5)
+
+- Evidencia zamestnancov integračného podniku obsahuje osobné údaje o zamestnancoch v rozsahu
+
+- a)
+
+- meno, priezvisko a titul,
+
+- b)
+
+- adresa trvalého pobytu alebo adresa prechodného pobytu,
+
+- c)
+
+- rodné číslo, ak je pridelené, a dátum narodenia,
+
+- d)
+
+- dohodnutý rozsah pracovného času,
+
+- e)
+
+- dátum vzniku pracovného pomeru a dátum skončenia alebo zániku pracovného pomeru,
+
+- f)
+
+- druh vykonávanej pracovnej činnosti podľa štatistickej klasifikácie zamestnaní,<sup>74</sup>)
+
+- g)
+
+- určenie znevýhodnenia podľa § 2 ods. 5,
+
+- h)
+
+- určenie zraniteľnosti podľa § 2 ods. 6.
+
+- (6)
+
+- Evidencia podpory poskytnutej registrovaným sociálnym podnikom podľa tohto zákona obsahuje
+
+- a)
+
+- údaje o investičnej pomoci,
+
+- b)
+
+- údaje o kompenzačnej pomoci,
+
+- c)
+
+- údaje o pomoci na podporu dopytu vrátane evidencie servisných poukážok.
+
+- (7)
+
+- Evidencia sankcionovania registrovaných sociálnych podnikov obsahuje údaje o uložených pokutách.
+
+- § 27b
+
+- (1)
+
+- V elektronickej podobe prostredníctvom elektronického formulára zaslaného do informačného systému sociálnej ekonomiky poskytuje ministerstvu práce
+
+- a)
+
+- registrovaný sociálny podnik údaje podľa § 27a ods. 2 písm. e) a ods. 3 do desiatich dní odo dňa, keď nastala zmena týchto údajov,
+
+- b)
+
+- integračný podnik údaje podľa § 27a ods. 5 do desiatich dní odo dňa, keď nastala zmena týchto údajov,
+
+- c)
+
+- organizácia sektora sociálnej ekonomiky údaje podľa § 27a ods. 4 do desiatich dní odo dňa, keď nastala zmena týchto údajov,
+
+- d)
+
+- iné ministerstvo, Ústredie práce, sociálnych vecí a rodiny, obec a vyšší územný celok údaje podľa § 27a ods. 6 písm. a) a b),
+
+- e)
+
+- úrad práce, sociálnych vecí a rodiny, obec a vyšší územný celok údaje podľa § 27a ods. 6 písm. c).
+
+- (2)
+
+- Ak nastane prerušenie prevádzky informačného systému sociálnej ekonomiky, ktoré bráni poskytnúť údaje podľa odseku 1, lehota podľa odseku 1 je zachovaná, ak sú údaje doručené v elektronickej podobe prostredníctvom elektronického formulára zaslaného do informačného systému sociálnej ekonomiky najneskôr do piatich dní odo dňa obnovenia prevádzky informačného systému sociálnej ekonomiky.
+
+- (3)
+
+- Ministerstvo práce bezplatne zabezpečí registrovaným sociálnym podnikom, organizáciám sektora sociálnej ekonomiky, iným ministerstvám, Ústrediu práce, sociálnych vecí a rodiny, úradom práce, sociálnych vecí a rodiny, obciam a vyšším územným celkom prístup do informačného systému sociálnej ekonomiky na účely poskytovania údajov podľa odseku 1.“.
+
+  - Poznámky pod čiarou k odkazom 73 a 74 znejú:
+
+  - „<sup>73</sup>) § 2 ods. 4 zákona č. 95/2019 Z. z. o informačných technológiách vo verejnej správe a o zmene a doplnení niektorých zákonov.
+
+  - <sup>74</sup>) § 19 ods. 2 zákona č. 540/2001 Z. z. o štátnej štatistike.
+
+  - Vyhláška Štatistického úradu Slovenskej republiky č. 384/2015 Z. z., ktorou sa vydáva štatistická klasifikácia zamestnaní.“.
 
 - 73. V § 28 ods. 4 sa slovo „uloží“ nahrádza slovami „môže uložiť“.
 
