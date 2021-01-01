@@ -1,0 +1,1 @@
+- 1) Odporúčanie Komisie č. 2009/824/ES z 29. októbra 2009 k používaniu medzinárodnej štandardnej klasifikácie zamestnaní (ISCO-08) (Ú. v. EÚ L 292, 10. 11. 2009).
