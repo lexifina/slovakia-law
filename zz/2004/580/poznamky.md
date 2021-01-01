@@ -70,6 +70,8 @@
 
 - 13aaa) § 40 Občianskeho zákonníka v znení neskorších predpisov.
 
+- 13aab) Čl. 3 ods. 10 nariadenia Európskeho parlamentu a Rady (EÚ) č. 910/2014 z 23. júla 2014 o elektronickej identifikácii a dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zrušení smernice 1999/93/ES (Ú. v. EÚ L 257, 28. 8. 2014) v platnom znení.
+
 - 14) § 2 ods. 11 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 
 - 15) § 2 ods. 3 zákona č. 576/2004 Z. z.
@@ -106,7 +108,13 @@
 
 - 16hd) Nariadenie vlády Slovenskej republiky č. 296/2010 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolania, spôsobe ďalšieho vzdelávania zdravotníckych pracovníkov, sústave špecializačných odborov a sústave certifikovaných pracovných činností v znení neskorších predpisov.
 
+- 16hda) § 58 ods. 1 písm. c), § 58 ods. 3 zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 16hdb) § 20 ods. 3 zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+
 - 16he) Čl. 1 písm. k) nariadenia (ES) č. 883/2004 v platnom znení.
+
+- 16m) Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
 
 - 17) Rozhodnutie č. S1 z 12. júna 2009 o európskom preukaze zdravotného poistenia (Ú. v. EÚ C 106, 24. 4. 2010).
 

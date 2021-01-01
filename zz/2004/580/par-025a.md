@@ -19,3 +19,5 @@
 (5) Na preverenie opodstatnenosti námietky dlžníka voči zaradeniu do zoznamu dlžníkov sa nevťahujú všeobecné predpisy o správnom konaní.<sup>56</sup>)
 
 (6) Príslušná zdravotná poisťovňa zodpovedá za škodu<sup>53c</sup>) spôsobenú nesprávnym zaradením dlžníka do zoznamu dlžníkov.
+
+(7) Dlžníkom nie je poistenec alebo platiteľ poistného, ak boli pohľadávky voči nemu odpísané podľa § 17c ods. 1 a 2 a zdravotná poisťovňa voči nemu neeviduje žiadne iné pohľadávky na poistnom a na preddavkoch na poistné po splatnosti.

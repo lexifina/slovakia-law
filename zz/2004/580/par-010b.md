@@ -10,11 +10,11 @@
 
   - 3. z dohody o vykonaní práce poberateľov výsluhového dôchodku z výsluhového zabezpečenia policajtov a vojakov, ak dovŕšili dôchodkový vek podľa osobitného predpisu,<sup>8ab</sup>) poberateľov invalidného výsluhového dôchodku z výsluhového zabezpečenia policajtov a vojakov,<sup>19a</sup>) poberateľov starobného dôchodku, poberateľov predčasného starobného dôchodku alebo poberateľov invalidného dôchodku,
 
-  - 4. z dohody o pracovnej činnosti poberateľov výsluhového dôchodku z výsluhového zabezpečenia policajtov a vojakov, ak dovŕšili dôchodkový vek podľa osobitného predpisu,<sup>8ab</sup>) poberateľov invalidného výsluhového dôchodku z výsluhového zabezpečenia policajtov a vojakov,<sup>19a</sup>) poberateľov starobného dôchodku, poberateľov predčasného starobného dôchodku alebo poberateľov invalidného dôchodku, odchodného, výsluhového príspevku,
+  - 4. z dohody o pracovnej činnosti poberateľov výsluhového dôchodku z výsluhového zabezpečenia policajtov a vojakov, ak dovŕšili dôchodkový vek podľa osobitného predpisu,<sup>8ab</sup>) poberateľov invalidného výsluhového dôchodku z výsluhového zabezpečenia policajtov a vojakov,<sup>19a</sup>) poberateľov starobného dôchodku, poberateľov predčasného starobného dôchodku alebo poberateľov invalidného dôchodku,
 
   - 5. zo zmluvy o výkone činnosti športového odborníka poberateľov výsluhového dôchodku z výsluhového zabezpečenia policajtov a vojakov, ak dovŕšili dôchodkový vek podľa osobitného predpisu,<sup>8ab</sup>) poberateľov invalidného výsluhového dôchodku z výsluhového zabezpečenia policajtov a vojakov,<sup>19a</sup>) poberateľov starobného dôchodku, poberateľov predčasného starobného dôchodku alebo poberateľov invalidného dôchodku,
 
-  - 6. z rekreačnej starostlivosti podľa osobitného predpisu,<sup>19a</sup>)
+  - 6. z odchodného, výsluhového príspevku alebo príjmov z rekreačnej starostlivosti podľa osobitného predpisu,<sup>19a</sup>)
 
 - b) dosahovanie príjmu z podnikania a z inej samostatnej zárobkovej činnosti podľa osobitného predpisu<sup>20</sup>) okrem príjmu z výkonu činnosti osobného asistenta,<sup>21</sup>)
 
