@@ -50,7 +50,7 @@ Zákon č. 15/2005 Z. z. o ochrane druhov voľne žijúcich živočíchov a voľ
 
 - „(2)
 
-- Evidenciu podľa odseku 1 písm. a) vedie držiteľ živého exemplára plazov, vtákov a cicavcov okrem exemplára druhov, ktoré sú uvedené v zozname [§ 15 ods. 5 písm. g)].“.
+- Evidenciu podľa odseku 1 písm. a) vedie držiteľ živého exemplára plazov, vtákov a cicavcov okrem exemplára druhov, ktoré sú uvedené v zozname [§ 15 ods. 5 písm. g)]. Držiteľ exemplára druhu uvedeného v prílohe A osobitného predpisu<sup>9</sup>) oznamuje písomne alebo elektronicky každú zmenu údajov v druhovej karte vedeckému orgánu<sup>38a</sup>) (§21) doručením kópie časti druhovej karty s vyznačenou zmenou do 30 dní odo dňa zápisu zmeny. Držiteľ exemplára druhu uvedeného v prílohe B osobitného predpisu<sup>9</sup>) oznamuje písomne alebo elektronicky každú zmenu údajov v druhovej karte vedeckému orgánu doručením kópie časti druhovej karty s vyznačenou zmenou do 14 dní odo dňa zápisu zmeny.“.
 
   - Poznámka pod čiarou k odkazu 38a znie:
 
