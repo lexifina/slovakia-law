@@ -12,6 +12,18 @@ Opatrenie Ministerstva financií Slovenskej republiky zo 16. decembra 2002 č. 2
 
 - 4. V § 37 ods. 11 druhá veta znie: „Pri zlúčení, ak zanikajúca účtovná jednotka má podiel v nástupníckej účtovnej jednotke, sa účtuje goodwill ako rozdiel medzi reálnou hodnotou podielu pripadajúceho na účtovnú hodnotu majetku a záväzkov v nástupníckej účtovnej jednotke a hodnotou vlastného imania nástupnickej účtovnej jednotky, ktorá pripadá na podiel zanikajúcej účtovnej jednotky v nástupnickej účtovnej jednotke, okrem zlúčenia podľa § 26 ods. 7.“.
 
+- 5. V § 52 sa za odsek 10 vkladá nový odsek 11, ktorý znie:
+
+- „(11) Na účte 343 – Daň z pridanej hodnoty sa účtuje zníženie dane z pridanej hodnoty, ak po vzniku daňovej povinnosti odberateľ úplne alebo čiastočne nezaplatil za dodanie tovaru alebo služby a jeho pohľadávka z tohto dodania sa stala nevymožiteľná30n) so súvzťažným zápisom na účet pohľadávok. Na účte 343 – Daň z pridanej hodnoty sa účtuje oprava odpočítanej dane z pridanej hodnoty pri nevymožiteľnej pohľadávke30o) so súvzťažným zápisom na účet záväzkov.“.
+
+- Doterajšie odseky 11 až 16 sa označujú ako odseky 12 až 17.
+
+- Poznámky pod čiarou k odkazom 30n a 30o znejú:
+
+- „30n) § 25a zákona č. 222/2004 Z. z. v znení zákona č. 344./2020 Z. z.
+
+- 30o) § 53b zákona č. 222/2004 Z. z. v znení zákona č. .344./2020 Z. z.“.
+
 - 6. § 52a sa dopĺňa odsekom 8, ktorý znie:
 
 - „(8) V účtovníctve nájomcu na základe oznámenia o schválení dotácie32aa) sa účtuje predpis dotácie na nájomné na ťarchu účtu 346 – Dotácie zo štátneho rozpočtu a so súvzťažným zápisom v prospech účtu 648 – Ostatné výnosy z hospodárskej činnosti vo vecnej a časovej súvislosti so vzniknutými nákladmi na nájomné. Suma v akej sa nájomca zriekol plnenia z dotácie na nájomné v prospech prenajímateľa sa účtuje na ťarchu účtu 321 – Dodávatelia a so súvzťažným zápisom v prospech účtu 346 – Dotácie zo štátneho rozpočtu. V účtovníctve prenajímateľa sa suma v akej sa nájomca zriekol plnenia z dotácie na nájomné v prospech prenajímateľa účtuje v prospech vecne príslušného účtu pohľadávok a so súvzťažným zápisom na ťarchu účtu 315 – Ostatné pohľadávky.“.
