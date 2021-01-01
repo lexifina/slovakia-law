@@ -62,8 +62,6 @@
 
 - 18) Zákon č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
-- 18b) Zákon č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení neskorších predpisov.
-
 - 19) § 41 ods. 2 Trestného zákona.
 
 - 20) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
