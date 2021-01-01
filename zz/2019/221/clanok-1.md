@@ -42,6 +42,12 @@ Zákon č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratí
 
   - „<sup>3c</sup>) § 170 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.“.
 
+- 5. V § 1 sa odsek 3 dopĺňa písmenom h), ktoré znie:
+
+- „h)
+
+- informačný systém Sociálnej poisťovne v časti týkajúcej sa evidencie dôchodkových dávok a dávok nemocenského poistenia.“.
+
 - 6. V § 1 sa za odsek 3 vkladá nový odsek 4, ktorý znie:
 
 - „(4)

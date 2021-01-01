@@ -16,6 +16,8 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
   - Zákon č. 55/2017 Z. z. v znení neskorších predpisov.“.
 
+- 3. V § 37 ods. 3 sa za tretiu vetu vkladá nová štvrtá veta, ktorá znie: „Rozhodnutie o priznaní dôchodku alebo doklad o ročnom úhrne vyplateného dôchodku podľa odseku 1 písm. b) sa nepredkladá zamestnávateľovi podľa osobitného predpisu.<sup>125a</sup>)“.
+
 - 4. V § 50 ods. 6 písmeno g) znie:
 
 - „g)

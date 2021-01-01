@@ -2,6 +2,8 @@
 
 Zákon č. 201/2008 Z. z. o náhradnom výživnom a o zmene a doplnení zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení nálezu Ústavného súdu Slovenskej republiky č. 615/2006 Z. z. v znení zákona č. 554/2008 Z. z., zákona č. 468/2011 Z. z. a zákona č. 66/2018 Z. z. sa mení takto:
 
+- 1. V § 11 ods. 5 písm. d) sa vypúšťajú slová „potvrdenie Sociálnej poisťovne o výške sirotského dôchodku, sirotských dôchodkov alebo potvrdenie o nepriznaní sirotského dôchodku, alebo“.
+
 - 2. V § 11 ods. 5 písmeno e) znie:
 
 - „e)

@@ -22,8 +22,14 @@ Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektor
 
   - <sup>35c</sup>) § 25 ods. 5 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 221/2019 Z. z.“.
 
+- 2. V § 36 ods. 6 sa vypúšťajú slová „uchádzač o zamestnanie alebo“.
+
 - 3. V § 53e ods. 3 písmeno d) znie:
 
 - „d)
 
 - zdravotná poisťovňa neeviduje voči malému zamestnávateľovi pohľadávky po splatnosti podľa osobitného predpisu<sup>35c</sup>) viac ako 180 dní a malý zamestnávateľ nemá evidované nedoplatky na poistnom na sociálne poistenie podľa osobitného predpisu,<sup>35ba</sup>)“.
+
+- 4. V prílohe č. 2 časti A sa vypúšťa písmeno i).
+
+  - Doterajšie písmeno j) sa označuje ako písmeno i).
