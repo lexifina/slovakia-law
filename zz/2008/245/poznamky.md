@@ -90,9 +90,11 @@
 
 - 32a) Napríklad zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 24 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov, vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 527/2007 Z. z. o podrobnostiach o požiadavkách na zariadenia pre deti a mládež.
 
-- 32b) § 29 ods. 2 písm. a) zákona č. 61/2015 Z. z.
+- 32aa) § 5 ods. 14 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
-- 33) § 5 ods. 13 písm. c) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
+- 32ab) § 24 ods. 1 písm. c) a e) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení zákona č. 40/2017 Z. z.
+
+- 32b) § 29 ods. 2 písm. a) zákona č. 61/2015 Z. z.
 
 - 34) § 5 ods. 3 písm. a) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
@@ -116,7 +118,7 @@
 
 - 46) § 72 zákona č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
-- 47) § 5 ods. 13 písm. a) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
+- 47) § 5 ods. 14 písm. a) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
 - 47a) § 19 ods. 2 písm. d) a e) zákona č. 596/2003 Z. z.
 
