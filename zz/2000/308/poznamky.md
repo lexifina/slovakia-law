@@ -132,13 +132,13 @@
 
 - 40) § 52 zákona č. 97/1963 Zb. o medzinárodnom práve súkromnom a procesnom.
 
+- 40a) § 2 písm. a) zákona č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu.
+
 - 41) § 177 až 193 Správneho súdneho poriadku.
 
 - 42) § 476 až 488 Obchodného zákonníka v znení neskorších predpisov.
 
 - 43) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov. Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
-
-- 44) § 251 až 275 Občianskeho súdneho poriadku v znení neskorších predpisov.
 
 - 45) Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 

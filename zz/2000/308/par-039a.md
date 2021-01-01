@@ -6,7 +6,7 @@
 
 (3) Umiestňovanie produktov je povolené v prípade bezodplatného poskytnutia určitého tovaru alebo služby, najmä rekvizity alebo ceny v súťaži. Týmto nie sú dotknuté podmienky ustanovené v odseku 5.
 
-(4) Iné ako bezodplatné umiestňovanie produktov podľa odseku 3 je povolené v kinematografických dielach, filmoch, seriáloch, v športových programoch a zábavných programoch.
+(4) Iné ako bezodplatné umiestňovanie produktov podľa odseku 3 je povolené v kinematografických dielach, filmoch, seriáloch, v športových programoch, zábavných programoch a v programoch vysielaných v rámci rozhlasovej programovej služby.
 
 (5) Umiestňovanie produktov podľa odsekov 3 a 4 je povolené v programoch, ktoré spĺňajú tieto požiadavky:
 
@@ -16,7 +16,7 @@
 
 - c) nepripisujú neprimeranú dôležitosť príslušnému tovaru alebo službe,
 
-- d) verejnosť je zreteľne informovaná o existencii umiestňovania produktov označením na začiatku a na konci programu, ako aj pri pokračovaní programu po prerušení mediálnou komerčnou komunikáciou. To sa nevzťahuje na program, ktorého výroba nebola objednaná alebo ktorý nebol vyrobený vysielateľom alebo poskytovateľom audiovizuálnej mediálnej služby na požiadanie, ktorý tento program vysiela alebo poskytuje.
+- d) verejnosť je zreteľne informovaná o existencii umiestňovania produktov označením na začiatku a na konci programu, ako aj pri pokračovaní programu po prerušení mediálnou komerčnou komunikáciou. To sa nevzťahuje na program, ktorého výroba nebola objednaná alebo ktorý nebol vyrobený vysielateľom alebo poskytovateľom audiovizuálnej mediálnej služby na požiadanie, ktorý tento program vysiela alebo poskytuje a na program vysielaný v rámci rozhlasovej programovej služby, v ktorého prípade je verejnosť zreteľne informovaná o existencii umiestňovania produktov označením na začiatku programu alebo na konci programu.
 
 (6) Umiestňovanie produktov v programoch pre vekovú skupinu maloletých do 12 rokov<sup>36</sup>) sa zakazuje.
 

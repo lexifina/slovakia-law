@@ -10,7 +10,11 @@
 
 - d) politickej reklame, ak je vysielaná bezplatne alebo v čase podľa osobitného predpisu,<sup>35a</sup>)
 
-- e) označeniu sponzora programu vysielaného podľa § 38 ods. 2 a označeniu umiestňovania produktov podľa § 39a ods. 5 písm. d).
+- e) označeniu sponzora programu vysielaného podľa § 38 ods. 2 a označeniu umiestňovania produktov podľa § 39a ods. 5 písm. d),
+
+- f) dlhšiemu reklamnému oznámeniu,
+
+- g) výzve na pozorné prečítanie poučenia o správnom použití lieku obsiahnutého v písomnej informácii pre používateľov liekov pribalenej k lieku a odporúčaniu poradiť sa o použití lieku s osobou oprávnenou predpisovať lieky alebo vydávať lieky, ktoré sú vysielané v rozhlasovom vysielaní podľa § 33 ods. 4.
 
 (2) Vlastná propagácia na účely tohto zákona je činnosť vysielateľa určená na získanie a udržanie pozornosti verejnosti na vlastné vysielanie, programy, tovary alebo služby, priamo spojené s vysielaním a programami; za vlastnú propagáciu sa nepovažuje oznámenie vysielateľa, ktorým informuje verejnosť o vlastnom programe.
 
