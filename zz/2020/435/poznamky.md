@@ -1,0 +1,1 @@
+- 1) § 2 zákona č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl a školských zariadení v znení neskorších predpisov.
