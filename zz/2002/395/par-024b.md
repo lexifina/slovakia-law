@@ -58,4 +58,6 @@
 
 - e) formu vedenia správy registratúry,
 
-- f) dátum vykonaných kontrol.
+- f) dátum vykonaných kontrol,
+
+- g) údaje o vývoze registratúrnych záznamov.

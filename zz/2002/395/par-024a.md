@@ -16,7 +16,7 @@
 
   - 3. archívnymi dokumentmi uloženými u vlastníkov, ktorí nezriadili archív,
 
-- c) schvaľujú registratúrny poriadok a registratúrny plán pôvodcu registratúry, ako aj bádateľský poriadok archívu,
+- c) schvaľujú registratúrny poriadok a registratúrny plán pôvodcu registratúry, ako aj bádateľský poriadok archívu; ak registratúrny poriadok upravuje manipuláciu s registratúrnymi záznamami obsahujúcimi utajované skutočnosti, prihliadajú pri jeho schvaľovaní na stanovisko Národného bezpečnostného úradu,
 
 - d) rozhodujú o
 
@@ -30,6 +30,6 @@
 
   - 2. štátny archív s regionálnou územnou pôsobnosťou od štátnych orgánov so sídlom a pôsobnosťou v jeho územnom obvode a nimi zriadených a založených právnických osôb, samosprávneho kraja so sídlom v jeho územnom obvode a ním zriadených a založených právnických osôb, obcí nachádzajúcich sa v jeho územnom obvode a nimi zriadených a založených právnických osôb, univerzít a iných vysokých škôl so sídlom v jeho územnom obvode, právnických osôb najmä z oblasti hospodárskeho života so sídlom v jeho územnom obvode, fyzických osôb, ktoré sú osobnosťami spoločenského života regionálneho významu a majú trvalý pobyt v jeho územnom obvode, a od pôvodcov, ktorých určí ministerstvo,
 
-- f) umožňujú prístup k archívnym dokumentom, ktoré spravujú a spravujú archívny informačný systém,
+- f) umožňujú prístup k archívnym dokumentom, ktoré spravujú, rozhodujú o ich vypožičaní na výstavné účely a spravujú archívny informačný systém,
 
-- g) vyberajú správne poplatky podľa osobitného predpisu.<sup>22</sup>)
+- g) vyberajú správne poplatky podľa osobitného predpisu a úhrady za služby archívu.

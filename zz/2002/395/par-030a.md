@@ -26,7 +26,7 @@
 
 - l) dovezie na územie Slovenskej republiky cudzí archívny dokument bez povolenia štátu vývozu alebo dovezie cudzí archívny dokument odcudzený v inom štáte,
 
-- m) nepredloží archívny dokument na reštaurovanie alebo konzervovanie,
+- m) nepredloží archívny dokument na reštaurovanie, konzervovanie alebo na kontrolu po spätnom dovoze,
 
 - n) nezabezpečí správu registratúry,
 
@@ -40,7 +40,7 @@
 
 - t) neponúkne ministerstvu archívne dokumenty na prednostné odkúpenie,
 
-- u) vyvezie dočasne bez povolenia registratúrne záznamy,
+- u) vyvezie dočasne bez oznámenia registratúrne záznamy,
 
 - v) neoznámi zmenu vlastníka alebo držiteľa archívneho dokumentu, zmenu uloženia, stratu, odcudzenie, opätovné nadobudnutie, poškodenie alebo zničenie archívneho dokumentu,
 
@@ -50,9 +50,11 @@
 
 - y) nevráti povolenie, ktoré nepoužil,
 
-- z) nepredloží návrh na vyradenie v lehote podľa § 18 ods. 3.
+- z) nepredloží návrh na vyradenie v lehote podľa § 18 ods. 3,
 
-(2) Za priestupok podľa odseku 1 písm. a) až d) možno uložiť pokutu do 33 193 eur, za priestupok podľa odseku 1 písm. e) až j) pokutu do 16 596 eur, za priestupok podľa odseku 1 písm. k) až p) pokutu do 3319 eur a za priestupok podľa odseku 1 písm. r) až z) pokutu do 1659 eur.
+- za) bráni alebo marí výkon kontroly podľa § 26a.
+
+(2) Za priestupok podľa odseku 1 písm. a) až d) možno uložiť pokutu do 33 193 eur, za priestupok podľa odseku 1 písm. e) až j) pokutu do 16 596 eur, za priestupok podľa odseku 1 písm. k) až p) pokutu do 3319 eur a za priestupok podľa odseku 1 písm. r) až za) pokutu do 1659 eur.
 
 (3) Priestupky podľa tohto zákona prejednáva ministerstvo.
 
