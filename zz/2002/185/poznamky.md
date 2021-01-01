@@ -22,6 +22,8 @@
 
 - 4b) § 19a a 29k zákona Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov Slovenskej republiky v znení zákona č. 195/2014 Z. z.
 
+- 4c) § 50 ods. 3 zákona č. 757/2004 Z. z. v znení zákona č. 423/2020 Z. z.
+
 - 5) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
 - 5a) Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -44,10 +46,20 @@
 
 - 11) Zákon č. 355/2007 Z. z. v znení zákona č. 140/2008 Z. z.
 
-- 12) § 11 ods. 1 zákona č. 385/2000 Z. z. v znení neskorších predpisov.
+- 12) § 31 zákona č. 385/2000 Z. z. v znení neskorších predpisov.
 
-- 13) § 69a zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení zákona č. 195/2014 Z. z.
+- 13) § 32 zákona č. 385/2000 Z. z. v znení neskorších predpisov.
 
-- 14) § 28 ods. 2 zákona č. 385/2000 Z. z. v znení neskorších predpisov.
+- 14) § 91 ods. 10 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 15) § 74da zákona č. 38/1993 Z. z. Národnej rady Slovenskej republiky o organizácii Ústavného súdu Slovenskej republiky, o konaní pred ním a o postavení jeho sudcov v znení zákona č. 195/2014 Z. z.
+- 15) Napríklad § 129 ods. 2 až 7 Trestného zákona.
+
+- 16) Zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov.
+
+- Zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve v znení neskorších predpisov.
+
+- 17) § 29 zákona č. 385/2000 Z. z. v znení neskorších predpisov.
+
+- 18) § 151zf ods. 2 zákona č. 385/2000 Z. z. v znení zákona č. 423/2020 Z. z.
+
+- 19) § 3 písm. b) a c) zákona č. 583/2008 Z. z. o prevencii kriminality a inej protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.

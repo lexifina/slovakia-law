@@ -1,9 +1,15 @@
-# § 3b Dohľad súdnej rady
+# § 3b Pôsobnosť v rámci preverovania predpokladov sudcovskej spôsobilosti a majetkových pomerov sudcov
 
-Pri výkone pôsobnosti podľa čl. 141a ods. 5 písm. i) Ústavy Slovenskej republiky súdna rada
+Pri výkone pôsobnosti podľa čl. 141b ústavy súdna rada
 
-- a) presadzuje opatrenia zamerané na trvalé spĺňanie predpokladov sudcovskej spôsobilosti, ktoré dávajú záruku, že sudca bude svoju funkciu vykonávať riadne (ďalej len „predpoklady sudcovskej spôsobilosti“),
+- a) koná vo veciach písomného vyhlásenia sudcu a majetkového priznania sudcu a vo veciach majetkových pomerov sudcu,
 
-- b) schvaľuje harmonogram overovania spĺňania predpokladov sudcovskej spôsobilosti,
+- b) presadzuje opatrenia zamerané na trvalé spĺňanie predpokladov sudcovskej spôsobilosti, ktoré dávajú záruku, že sudca bude funkciu vykonávať riadne (ďalej len „predpoklady sudcovskej spôsobilosti“),
 
-- c) vyhodnocuje informácie o konaní sudcu, ktoré je nezlučiteľné s predpokladmi sudcovskej spôsobilosti získané od súdov, iných orgánov verejnej moci alebo zistené z vlastnej činnosti.
+- c) vykonáva dohľad nad spĺňaním predpokladov sudcovskej spôsobilosti,
+
+- d) overuje spĺňanie predpokladov sudcovskej spôsobilosti u kandidátov na funkciu sudcu,
+
+- e) prijíma stanoviská podľa tohto zákona,
+
+- f) uplatňuje návrhové oprávnenia vo veciach disciplinárnej zodpovednosti sudcov.

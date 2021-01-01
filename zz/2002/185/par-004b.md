@@ -10,7 +10,7 @@
 
 - d) smrťou,
 
-- e) neodstránením dôvodov nezlučiteľnosti výkonu funkcie predsedu súdnej rady podľa čl. 141a ods. 3 Ústavy Slovenskej republiky, alebo
+- e) neodstránením dôvodov nezlučiteľnosti výkonu funkcie predsedu súdnej rady podľa čl. 141a ods. 3 ústavy, alebo
 
 - f) ak predsedu súdnej rady už nemožno považovať za bezúhonného.
 

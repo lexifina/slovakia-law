@@ -20,13 +20,13 @@
 
 - d) má plnú spôsobilosť na právne úkony a je zdravotne spôsobilý na výkon funkcie sudcu,<sup>11</sup>)
 
-- e) zložil odbornú justičnú skúšku, prokurátorskú skúšku, advokátsku skúšku alebo notársku skúšku a aspoň päť rokov vykonával právnickú prax.
+- e) aspoň päť rokov vykonával právnickú prax.
 
 (3) Návrh na kandidáta na sudcu, ktorý by mal pôsobiť za Slovenskú republiku v medzinárodnom súdnom orgáne, sa podáva súdnej rade. Návrh obsahuje
 
 - a) meno, priezvisko, akademický titul kandidáta, dátum narodenia, profesionálny životopis kandidáta preukazujúci splnenie podmienok podľa odseku 2, dátum a podpis navrhovateľa,
 
-- b) doklad o tom, že kandidát zložil odbornú justičnú skúšku, advokátsku skúšku, prokurátorskú skúšku alebo notársku skúšku a že aspoň päť rokov vykonával právnickú prax,
+- b) doklad o tom, že kandidát aspoň päť rokov vykonával právnickú prax,
 
 - c) údaje potrebné na vyžiadanie odpisu registra trestov,<sup>1c</sup>)
 

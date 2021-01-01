@@ -1,15 +1,9 @@
-# § 27h Súčinnosť súdov a orgánov verejnej moci so súdnou radou
+## Výkon pôsobnosti v rámci preverovania predpokladov sudcovskej spôsobilosti a majetkových pomerov sudcov
 
-(1) Súdy a orgány verejnej moci sú povinné poskytnúť súdnej rade súčinnosť pri výkone jej pôsobnosti, najmä sú povinné poskytnúť súdnej rade na požiadanie dokumenty a informácie, ktoré súdna rada potrebuje na jej rozhodovanie.
+# § 27h Konanie vo veciach písomného vyhlásenia sudcu a majetkového priznania sudcu
 
-(2) V súvislosti s výkonom pôsobnosti súdnej rady sú poverení členovia súdnej rady oprávnení vykonať úkony potrebné na zistenie skutočností a zabezpečenie dôkazov nevyhnutných na rozhodovanie súdnej rady, súdna rada je najmä oprávnená nahliadnuť do spisu orgánu verejnej moci alebo súdneho spisu vrátane spisov v trestnom konaní, tým nie sú dotknuté ustanovenia Trestného poriadku a robiť si z nich odpisy, výpisy a kópie.
+(1) Ak sudca nepodá včas písomné vyhlásenie<sup>12</sup>) alebo majetkové priznanie,<sup>13</sup>) vyzve ho predseda súdnej rady, aby splnil túto povinnosť dodatočne do 30 dní.
 
-(3) Pri výkone pôsobnosti v súvislosti s oprávnením predsedu súdnej rady podať návrh na začatie disciplinárneho konania voči sudcovi je predseda súdnej rady oprávnený požadovať od disciplinárne zodpovedného sudcu stanovisko k disciplinárnemu previneniu a k veciam súvisiacim s disciplinárnym previnením; na tento účel si predseda súdnej rady môže vyžiadať súdny spis vrátane spisov v trestnom konaní, tým nie sú dotknuté ustanovenia Trestného poriadku a robiť z neho odpisy, výpisy, kópie a žiadať doplňujúce vyjadrenia.
+(2) Súdna rada preskúma úplnosť písomného vyhlásenia a majetkového priznania a v prípade potreby vyzve sudcu, aby ich do 30 dní v potrebnom rozsahu spresnil alebo doplnil.
 
-(4) Orgán činný v trestnom konaní je povinný bezodkladne oznámiť súdnej rade
-
-- a) začatie trestného konania, ktoré môže súvisieť s dohľadom súdnej rady (§ 3b),
-
-- b) vznesenie obvinenia voči sudcovi.
-
-(5) Členovia súdnej rady sú povinní zachovávať mlčanlivosť o skutočnostiach, ktoré sa dozvedeli pri výkone pôsobnosti súdnej rady; povinnosť zachovávať mlčanlivosť trvá aj po skončení výkonu funkcie a tej ich môže zbaviť len súdna rada.
+(3) Ak sudca nesplní niektorú z povinností uvedených v odsekoch 1 a 2, predseda súdnej rady podá návrh na začatie disciplinárneho konania.
