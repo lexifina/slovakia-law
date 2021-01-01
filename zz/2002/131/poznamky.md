@@ -194,6 +194,10 @@
 
 - 50d) § 150 ods. 8 písm. c) a d) zákona č. 245/2008 Z. z. v znení zákona č. 56/2020 Z. z.
 
+- 50e) Napríklad zákon č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
+
+- 50f) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
 - 51) § 2 ods. 1 písm. a) zákona č. 53/1964 Zb.
 
 - Vyhláška Slovenskej komisie pre vedecké hodnosti č. 65/1977 Zb. v znení vyhlášky č. 302/1990 Zb.
