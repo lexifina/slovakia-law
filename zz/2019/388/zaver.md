@@ -1,1 +1,0 @@
-Andrea Kalavská v. r.
