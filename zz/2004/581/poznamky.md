@@ -76,6 +76,8 @@
 
 - 17c) Príloha č. 2 k zákonu č. 577/2004 Z. z. v znení neskorších predpisov.
 
+- 17d) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
+
 - 18) Zákon č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 270/2008 Z. z.
 
 - 18a) § 26 zákona č. 431/2002 Z. z. v znení zákona č. 561/2004 Z. z.
@@ -106,9 +108,9 @@
 
 - 18k) § 9a až 9f a § 10 zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
 
-- 18l) Nariadenie Európskeho parlamentu a Rady (ES) č. 883/2004 z 29. apríla 2004 o koordinácii systémov sociálneho zabezpečenia (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 5; Ú. v. EÚ L 200, 7. 6. 2004) v platnom znení.
+- 18l) Článok 17 až 27 nariadenia (ES) č. 883/2004.
 
-- Nariadenie Európskeho parlamentu a Rady (ES) č. 987/2009 zo 16. septembra 2009, ktorým sa stanovuje postup vykonávania nariadenia (ES) č. 883/2004 o koordinácii systémov sociálneho zabezpečenia (Ú. v. EÚ L 284, 30. 10. 2009) v platnom znení.
+- Nariadenie Európskeho parlamentu a Rady (ES) č. 987/2009 zo 16. septembra 2009, ktorým sa stanovuje postup vykonávania nariadenia (ES) č. 883/2004 o koordinácii systémov sociálneho zabezpečenia (Ú.v. EÚ L 284, 30. 10. 2009) v platnom znení.
 
 - 18m) § 10 zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
 
@@ -170,6 +172,14 @@
 
 - 27aac) § 118 zákona č. 362/2011 Z. z. v znení neskorších predpisov.
 
+- 27aad) § 4 písm. d) zákona č. 578/2004 Z. z. v znení zákona č. 392/2020 Z. z.
+
+- 27aad) § 8 ods. 11 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+
+- 27aae) § 79 ods. 1 písm. ap) zákona č. 578/2004 Z. z. v znení neskorších predpisov.
+
+- 27aaf) § 9 ods. 7 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
 - 27b) § 27a ods. 9 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
 - 27c) § 3 zákona č. 153/2013 Z. z.
@@ -185,6 +195,10 @@
 - 28) § 17 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 28a) § 2 ods. 2 a 12 zákona č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+
+- 28b) § 12 ods. 2 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+
+- 28c) § 30 ods. 2 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
 - 29) § 18 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
@@ -234,6 +248,8 @@
 
 - 35aak) Nariadenie (ES) č. 987/2009 v platnom znení.
 
+- 35aal) § 88 zákona č. 363/2011 Z. z. v znení neskorších predpisov.
+
 - 35ab) § 60b ods. 4 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 358/2007 Z. z.
 
 - 35b) § 9 ods. 4 zákona č. 580/2004 Z. z.
@@ -280,6 +296,8 @@
 
 - 39e) § 28 ods. 8 zákona č. 580/2004 Z. z. v znení zákona č. 185/2012 Z. z.
 
+- 39f) § 19 ods. 16 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
 - 40) § 4 ods. 3 zákona č. 576/2004 Z. z. v znení zákona č. 350/2005 Z. z.
 
 - 40a) § 4 ods. 6 zákona č. 576/2004 Z. z. v znení zákona č. 185/2014 Z. z.
@@ -315,10 +333,6 @@
 - 41d) § 7 a 11 zákona č. 578/2004 Z. z. v znení zákona č. 351/2005 Z. z.
 
 - 41e) § 7 až 11 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
-
-- 41f) Zákon č. 56/2018 Z. z. o posudzovaní zhody výrobku, sprístupňovaní určeného výrobku na trhu a o zmene a doplnení niektorých zákonov.
-
-- Zákon č. 505/2009 Z. z. o akreditácii orgánov posudzovania zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 41g) Zákon č. 577/2004 Z. z. v znení neskorších predpisov.
 
@@ -500,6 +514,10 @@
 
 - 82a) § 3 ods. 3 zákona č. 7/2005 Z. z. v znení zákona č. 520/2005 Z. z.
 
+- 82aa) Zákon č. 56/2018 Z. z. o posudzovaní zhody výrobku, sprístupňovaní určeného výrobku na trhu a o zmene a doplnení niektorých zákonov.
+
+- Zákon č. 505/2009 Z. z. o akreditácii orgánov posudzovania zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 83) § 154 a § 162 až 176 Obchodného zákonníka.
 
 - § 2 zákona č. 530/2003 Z. z.
@@ -538,8 +556,6 @@
 
 - 95b) Napríklad zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov, zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov, zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
 
-- 95ba) Zákon č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 95c) § 153 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
 - 95d) Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -577,7 +593,5 @@
 - 100) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - § 156 ods. 7 Obchodného zákonníka.
-
-- 101) Čl. 1 ods. 2 písm. a) nariadenia Európskeho parlamentu a Rady (ES) č. 987/2009 zo 16. septembra 2009, ktorým sa stanovuje postup vykonávania nariadenia (ES) č. 883/2004 o koordinácii systémov sociálneho zabezpečenia (Ú. v. EÚ L 284, 30. 10. 2009) v platnom znení.
 
 - 102) § 49k zákona č. 576/2004 Z. z. v znení zákona č. 125/2020 Z. z.

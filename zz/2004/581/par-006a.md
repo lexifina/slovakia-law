@@ -2,11 +2,7 @@
 
 (1) Zdravotná poisťovňa môže v kalendárnom roku vynaložiť na prevádzkové činnosti výdavky najviac do výšky zodpovedajúcej podielu na úhrne poistného pred prerozdelením poistného za kalendárny rok (ďalej len „ročný úhrn“). Podiel na ročnom úhrne sa vypočíta podľa vzorca, ktorý je uvedený v prílohe č. 1, a zaokrúhľuje sa na dve desatinné miesta smerom nahor.
 
-(2) Výdavky na prevádzkové činnosti zdravotnej poisťovne podľa odseku 1 sú:
-
-- a) výdavky súvisiace so správou a zabezpečením činnosti zdravotnej poisťovne pri vykonávaní verejného zdravotného poistenia (§ 6),
-
-- b) výdavky vynaložené na splátky úrokov z úverov alebo pôžičiek, ak zdravotná poisťovňa použila úver alebo pôžičku na úhradu výdavkov podľa písmena a).
+(2) Výdavky na prevádzkové činnosti zdravotnej poisťovne podľa odseku 1 sú výdavky, ktoré nie sú uvedené v odseku 3.
 
 (3) Výdavky na prevádzkové činnosti zdravotnej poisťovne podľa odseku 1 nie sú:
 

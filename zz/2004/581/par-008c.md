@@ -6,7 +6,7 @@
 
 - a) zmluva o poskytovaní zdravotnej starostlivosti obsahuje náležitosti podľa § 7 ods. 9 písm. e) a f),
 
-- b) počítačový program zdravotnej poisťovne má osvedčenú zhodu podľa § 20ca ods. 11.
+- b) počítačový program zdravotnej poisťovne má osvedčenú zhodu podľa § 67d.
 
 (3) Príslušná zdravotná poisťovňa uhrádza zdravotné výkony poskytnuté poistencovi zariadením spoločných zložiek počas poskytovania ústavnej zdravotnej starostlivosti hradenej podľa klasifikačného systému poskytovateľovi ústavnej starostlivosti, kde úhrada za zdravotné výkony zariadenia spoločných zložiek je zahrnutá v celkovej úhrade za poskytnutú ústavnú zdravotnú starostlivosť, alebo zariadeniu spoločných zložiek v závislosti od dohody o úhrade podľa § 7 ods. 9 písm. f).
 
