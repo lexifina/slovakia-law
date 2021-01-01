@@ -136,10 +136,6 @@
 
 - 45) Zákon Národnej rady Slovenskej republiky č. 199/1994 Z. z. o psychologickej činnosti a Slovenskej komore psychológov v znení zákona č. 578/2004 Z. z.
 
-- 45a) Zákon č. 417/2013 Z. z. v znení neskorších predpisov.
-
-- 45b) § 5 a 6 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
-
 - 45c) § 2 písm. a) zákona č. 601/2003 Z. z. v znení neskorších predpisov.
 
 - 45d) § 10 ods. 2 písm. a) zákona č. 417/2013 Z. z.
