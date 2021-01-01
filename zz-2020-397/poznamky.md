@@ -1,0 +1,3 @@
+- 1) Napríklad § 2 zákona č. 435/2001 Z. z. o patentoch, dodatkových ochranných osvedčeniach a o zmene a doplnení niektorých zákonov (patentový zákon) v znení zákona č. 84/2007 Z. z., § 2 zákona č. 444/2002 Z. z. o dizajnoch, § 1 zákona č. 517/2007 Z. z. o úžitkových vzoroch a o zmene a doplnení niektorých zákonov.
+
+- 2) § 8 ods. 1 písm. d) a e) zákona č. 126/2015 Z. z. o knižniciach a o zmene a doplnení zákona č. 206/2009 Z. z. o múzeách a o galériách a o ochrane predmetov kultúrnej hodnoty a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení zákona č. 38/2014 Z. z.
