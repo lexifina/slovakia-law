@@ -8,7 +8,7 @@
 
 - c) nevie preukázať v súlade s týmto zákonom pôvod alebo spôsob nadobudnutia tabakových výrobkov u nej zistených, ktoré sa u nej nachádzajú alebo ktoré sa u nej nachádzali, a to bez ohľadu na to, či nakladá alebo nakladala s tabakovými výrobkami ako s vlastnými,
 
-- d) použije tabakové výrobky oslobodené od dane podľa § 7 písm. f), § 8 ods. 2 alebo § 19aa ods. 17 na iný ako určený účel,
+- d) použije tabakové výrobky oslobodené od dane podľa § 7 písm. f), § 8 ods. 2 alebo § 19aa ods. 19 na iný ako určený účel,
 
 - e) nevie preukázať v súlade s týmto zákonom pôvod alebo spôsob nadobudnutia tabakovej suroviny u nej zistenej, ktorá sa u nej nachádza alebo sa nachádzala, a to bez ohľadu na to, či nakladá alebo nakladala s tabakovou surovinou ako s vlastnou,
 

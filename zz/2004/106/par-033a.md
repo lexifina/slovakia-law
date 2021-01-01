@@ -38,19 +38,19 @@
 
 (11) Zahraničný zástupca je povinný pri každom nákupe tabakových výrobkov v daňovom sklade pre zahraničných zástupcov predložiť povolenie na nákup tabakových výrobkov oslobodených od dane v daňovom sklade pre zahraničných zástupcov a odpisový list. Prevádzkovateľ daňového skladu pre zahraničných zástupcov zaznamená v odpisovom liste množstvo zakúpených tabakových výrobkov v kusoch alebo v kilogramoch a ponechá si kópiu povolenia na nákup tabakových výrobkov oslobodených od dane v daňovom sklade pre zahraničných zástupcov a kópiu odpisového listu.
 
-(12) Zahraničný zástupca uvedený v odseku 2 písm. a) a b) môže nakúpiť za kalendárny rok tabakové výrobky najviac v množstve 12 000 ks cigariet.
+(12) Zahraničný zástupca uvedený v odseku 2 písm. a) a b) môže nakúpiť za kalendárny rok tabakové výrobky najviac v množstve 12 000 ks cigariet, 1 000 kusov cigár, 1 000 kusov cigariek, 1 kg tabaku.
 
 (13) Zahraničný zástupca uvedený v odseku 2 písm. c) až f) môže nakúpiť na osobnú spotrebu za kalendárny rok tabakové výrobky najviac v týchto množstvách:
 
-- a) vedúci misie 10 000 ks cigariet,
+- a) vedúci misie 10 000 ks cigariet, 800 kusov cigár, 800 kusov cigariek, 750 g tabaku,
 
-- b) vedúci konzulárneho úradu 10 000 ks cigariet,
+- b) vedúci konzulárneho úradu 10 000 ks cigariet, 800 kusov cigár, 800 kusov cigariek, 750 g tabaku,
 
-- c) člen diplomatického personálu 6 000 ks cigariet,
+- c) člen diplomatického personálu 6 000 ks cigariet, 500 kusov cigár, 500 kusov cigariek, 500 g tabaku,
 
-- d) člen administratívneho a technického personálu 4 000 ks cigariet.
+- d) člen administratívneho a technického personálu 4 000 ks cigariet, 300 kusov cigár, 300 kusov cigariek, 250 g tabaku.
 
-(14) Zahraničný zástupca uvedený v odseku 2 písm. g) môže nakúpiť na osobnú spotrebu za kalendárny rok tabakové výrobky najviac v množstve 4 000 ks cigariet.
+(14) Zahraničný zástupca uvedený v odseku 2 písm. g) môže nakúpiť na osobnú spotrebu za kalendárny rok tabakové výrobky najviac v množstve 4 000 ks cigariet, 300 kusov cigár, 300 kusov cigariek, 250 g tabaku.
 
 (15) Povolenie na nákup tabakových výrobkov oslobodených od dane v daňovom sklade pre zahraničných zástupcov Colný úrad Bratislava vydá v rozsahu podľa odsekov 12 až 14 len zahraničným zástupcom tých štátov, ktoré poskytujú obdobné zvýhodnenie alebo vracajú daň občanom Slovenskej republiky, ak požívajú výsady a imunity podľa medzinárodnej zmluvy<sup>8a</sup>) (ďalej len „slovenský zástupca"). Vzájomnosť sa nevzťahuje na medzinárodné organizácie a ich úradníkov.
 
@@ -61,3 +61,5 @@
 (18) Colný úrad preverí u žiadateľa skutočnosti a údaje podľa odseku 17 a § 33b ods. 1 a doplní povolenie na prevádzkovanie daňového skladu o povolenie na prevádzkovanie daňového skladu pre zahraničných zástupcov do 30 dní odo dňa podania žiadosti; colný úrad, ktorý doplnil povolenie na prevádzkovanie daňového skladu o povolenie na prevádzkovanie daňového skladu pre zahraničných zástupcov, oznámi bezodkladne túto skutočnosť Colnému úradu Bratislava. Ak žiadateľ v tejto lehote nepreukáže splnenie všetkých podmienok, colný úrad ho vyzve, aby uvedené nedostatky odstránil, a doplní povolenie na prevádzkovanie daňového skladu o povolenie na prevádzkovanie daňového skladu pre zahraničných zástupcov do 15 dní odo dňa odstránenia nedostatkov.
 
 (19) Prevádzkovateľ daňového skladu pre zahraničných zástupcov môže dodávať slovenskému zástupcovi podľa odseku 15 tabakové výrobky v pozastavení dane s elektronickým dokumentom a osvedčením o oslobodení od spotrebnej dane,<sup>6</sup>) ktoré vydal hostiteľský štát. Na takúto prepravu tabakových výrobkov sa zábezpeka na daň nevyžaduje.
+
+(20) Každé množstvo tabakových výrobkov ustanovené v odsekoch 12 až 14 predstavuje 100% celkového povoleného množstva pre tabakové výrobky. Oslobodenie od dane sa môže uplatňovať na akúkoľvek kombináciu tabakových výrobkov za predpokladu, že súhrnný percentuálny podiel jednotlivých povolených množstiev nepresahuje 100% celkového povoleného množstva.

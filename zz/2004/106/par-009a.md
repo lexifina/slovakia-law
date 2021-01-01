@@ -2,11 +2,13 @@
 
 (1) Dovozca tabakových výrobkov, ktorým sa rozumie osoba, ktorá chce v rámci podnikania dovážať spotrebiteľské balenie tabakových výrobkov z územia tretích štátov a uvádzať ho do daňového voľného obehu na daňovom území okrem prevádzkovateľa daňového skladu, je povinná požiadať colný úrad o zaradenie do evidencie dovozcov tabakových výrobkov. Žiadosť o zaradenie do evidencie dovozcov tabakových výrobkov musí obsahovať
 
-- a) identifikačné údaje žiadateľa,
+- a) obchodné meno a sídlo, ak ide o právnickú osobu, alebo ak ide o fyzickú osobu, meno, priezvisko a trvalý pobyt alebo miesto podnikania, ak nie je totožné s trvalým pobytom (ďalej len „identifikačné údaje“) žiadateľa,
 
 - b) obchodný názov spotrebiteľského balenia tabakového výrobku a predpokladané celkové ročné množstvo dovážaného tabaku, cigár a cigariek v kilogramoch alebo cigariet v kusoch,
 
-- c) údaje potrebné na vyžiadanie výpisu z registra trestov<sup>8aaa</sup>) žiadateľa alebo jeho zodpovedného zástupcu, ak je žiadateľom fyzická osoba; ak je žiadateľom právnická osoba, údaje potrebné na vyžiadanie výpisu z registra trestov tejto právnickej osoby, zodpovedného zástupcu a fyzických osôb, ktoré sú členmi riadiacich orgánov alebo kontrolných orgánov, na účel preukázania splnenia podmienky podľa odseku 3 písm. d).
+- c) údaje potrebné na vyžiadanie výpisu z registra trestov<sup>8aaa</sup>) žiadateľa alebo jeho zodpovedného zástupcu, ak je žiadateľom fyzická osoba; ak je žiadateľom právnická osoba, údaje potrebné na vyžiadanie výpisu z registra trestov tejto právnickej osoby, zodpovedného zástupcu a fyzických osôb, ktoré sú členmi riadiacich orgánov alebo kontrolných orgánov, na účel preukázania splnenia podmienky podľa odseku 3 písm. e),
+
+- d) zoznam majetkovo prepojených osôb a personálne prepojených osôb so žiadateľom.
 
 (2) Dovozca tabakových výrobkov je povinný pred odberom kontrolných známok alebo pred dovozom tabakových výrobkov, ak dovozca neodoberá kontrolné známky, zložiť zábezpeku na daň vo výške dane pripadajúcej na množstvo tabakových výrobkov, ktoré chce uviesť do daňového voľného obehu. Na zábezpeku na daň sa použije § 20 primerane. Colný úrad vráti zloženú zábezpeku na daň, ak bolo spotrebiteľské balenie tabakových výrobkov prepustené do voľného obehu,<sup>2aa</sup>) ak sa colný úrad s dovozcom tabakových výrobkov nedohodne inak; ustanovenie § 41 ods. 1 písm. m) sa nepoužije.
 
@@ -16,17 +18,19 @@
 
 - b) nemá nedoplatky voči colnému úradu ani daňovému úradu,
 
-- c) nemá evidované nedoplatky na poistnom na sociálne poistenie a zdravotná poisťovňa neeviduje voči nemu pohľadávky po splatnosti podľa osobitných predpisov,<sup>7</sup>)
+- c) nemá voči colnému úradu nedoplatky na dani ani osoba, ktorá je personálne prepojená alebo majetkovo prepojená so žiadateľom, alebo osoba, ktorá bola personálne prepojená alebo majetkovo prepojená so žiadateľom v priebehu desiatich rokov pred podaním žiadosti podľa odseku 1, a ani osoba, ktorá zanikla a ktorá by sa považovala za osobu personálne prepojenú alebo majetkovo prepojenú so žiadateľom, nemala v priebehu desiatich rokov predo dňom podania žiadosti podľa odseku 1 nedoplatky na dani, ktoré neboli do zániku tejto osoby uhradené; to sa vzťahuje aj na nedoplatky na dani, ktoré boli postúpené na tretiu osobu podľa osobitných predpisov,<sup>13</sup>)
 
-- d) nebol právoplatne odsúdený za úmyselný trestný čin hospodársky, trestný čin proti majetku alebo iný trestný čin, ktorého skutková podstata súvisí s predmetom podnikania; to sa vzťahuje aj na zodpovedného zástupcu a fyzické osoby, ktoré sú členmi riadiacich orgánov alebo kontrolných orgánov žiadateľa,
+- d) nemá evidované nedoplatky na poistnom na sociálne poistenie a zdravotná poisťovňa neeviduje voči nemu pohľadávky po splatnosti podľa osobitných predpisov,<sup>7</sup>)
 
-- e) nie je v likvidácii, nie je na neho právoplatne vyhlásený konkurz, povolené vyrovnanie, potvrdené nútené vyrovnanie alebo povolená reštrukturalizácia.
+- e) nebol právoplatne odsúdený za úmyselný trestný čin hospodársky, trestný čin proti majetku alebo iný trestný čin, ktorého skutková podstata súvisí s predmetom podnikania; to sa vzťahuje aj na zodpovedného zástupcu a fyzické osoby, ktoré sú členmi riadiacich orgánov alebo kontrolných orgánov žiadateľa,
+
+- f) nie je v likvidácii, nie je na neho právoplatne vyhlásený konkurz, povolené vyrovnanie, potvrdené nútené vyrovnanie alebo povolená reštrukturalizácia.
 
 (4) Žiadateľ je povinný na požiadanie colného úradu spresniť údaje uvedené v žiadosti.
 
 (5) Colný úrad pred zaradením žiadateľa do evidencie dovozcov tabakových výrobkov preverí skutočnosti a údaje uvedené v žiadosti a splnenie podmienok podľa odseku 3. Ak sú tieto skutočnosti a údaje pravdivé a žiadateľ spĺňa podmienky uvedené v odseku 3, colný úrad zaradí žiadateľa do evidencie dovozcov tabakových výrobkov a vydá mu potvrdenie o zaradení do evidencie dovozcov tabakových výrobkov do 30 dní odo dňa podania tejto žiadosti.
 
-(6) Dovozca tabakových výrobkov je povinný oznámiť colnému úradu každú zmenu údajov podľa odseku 1 písm. a) do 30 dní odo dňa jej vzniku a zmenu podmienok podľa odseku 3 najneskôr do 15 dní odo dňa ich vzniku. Colný úrad preverí údaje uvedené v oznámení a s prihliadnutím na rozsah a závažnosť zmien doplní pôvodné potvrdenie o zaradení do evidencie dovozcov tabakových výrobkov alebo vydá nové potvrdenie o zaradení do evidencie dovozcov tabakových výrobkov.
+(6) Dovozca tabakových výrobkov je povinný oznámiť colnému úradu každú zmenu údajov podľa odseku 1 písm. a) do 30 dní odo dňa jej vzniku a zmenu údajov podľa odseku 1 písm. c) a podmienok podľa odseku 3 písm. f) najneskôr do 15 dní odo dňa ich vzniku. Colný úrad preverí údaje uvedené v oznámení a s prihliadnutím na rozsah a závažnosť zmien doplní pôvodné potvrdenie o zaradení do evidencie dovozcov tabakových výrobkov alebo vydá nové potvrdenie o zaradení do evidencie dovozcov tabakových výrobkov.
 
 (7) Colný úrad vyradí dovozcu tabakových výrobkov z evidencie dovozcov tabakových výrobkov, ak
 
