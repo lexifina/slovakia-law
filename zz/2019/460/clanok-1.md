@@ -168,6 +168,20 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 
   - „<sup>22b</sup>) § 139b ods. 7 zákona č. 50/1976 Zb. v znení neskorších predpisov.“.
 
+- 26. V § 13 sa písmeno e) dopĺňa deviatym bodom, ktorý znie:
+
+- „9.
+
+- odpad, ktorý neprešiel úpravou okrem
+
+- 9.1
+
+- inertného odpadu, ktorého úprava s cieľom zníženia množstva odpadu alebo jeho nebezpečenstva pre zdravie ľudí alebo pre životné prostredie nie je technicky možná,
+
+- 9.2
+
+- odpadu, u ktorého by úprava neviedla k zníženiu množstva odpadu ani nezabránila ohrozeniu zdravia ľudí alebo ohrozeniu životného prostredia,“.
+
 - 27. V § 13 písmeno g) znie:
 
 - „g)
@@ -230,11 +244,35 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 
 - Postup podľa odseku 14 sa uplatní aj po oznámení orgánu Policajného zboru podľa odseku 15, ktorý začal konať na základe inej skutočnosti, ako je oznámenie podľa odseku 7.“.
 
+- 36. V § 16 odsek 2 znie:
+
+- „(2)
+
+- Okrem povinností podľa odseku 1 je ten, kto vykonáva
+
+- a)
+
+- zber odpadu alebo výkup odpadu od fyzickej osoby, povinný zaradiť odpad odobratý od takej osoby ako komunálny odpad; toto ustanovenie sa nevzťahuje na zber starých vozidiel a odpadových pneumatík,
+
+- b)
+
+- zber odpadu od fyzickej osoby, povinný oznamovať obci, na území ktorej sa zber odpadu uskutočňuje, údaje o druhu a množstve vyzbieraného odpadu,
+
+- c)
+
+- výkup odpadu od fyzickej osoby, oznamovať obci, z ktorej vykúpený odpad pochádza, údaje o druhu a množstve vykúpeného odpadu.“.
+
 - 37. V § 16 ods. 4 písm. b) časť vety za bodkočiarkou znie:
 
 - „okrem elektroodpadu a použitých batérií a akumulátorov, pre ktoré má ten, kto vykonáva výkup, uzatvorenú zmluvu s výrobcom, ktorý si plní vyhradené povinnosti individuálne, treťou osobou alebo príslušnou organizáciou zodpovednosti výrobcov.“.
 
 - 38. V poznámke pod čiarou k odkazu 35 sa citácia „§ 8 zákona č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení zákona č. 431/2004 Z. z.“ nahrádza citáciou „§ 11 zákona č. 157/2018 Z. z. o metrológii a o zmene a doplnení niektorých zákonov.“.
+
+- 40. § 16 sa dopĺňa odsekom 11, ktorý znie:
+
+- „(11)
+
+- Ten, kto vykonáva výkup odpadu od fyzickej osoby, je povinný od nej vyžadovať poskytnutie údaju o obci, z ktorej vykúpený odpad pochádza.“.
 
 - 41. Za § 16 sa vkladá § 16a, ktorý vrátane nadpisu znie:
 
@@ -288,6 +326,10 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 
 - 49. V § 27 ods. 7 písm. d) sa slová „písm. e)“ nahrádzajú slovami „písm. g)“.
 
+- 50. V § 28 ods. 4 písm. k) časť vety za bodkočiarkou znie:
+
+- „ak ide o použité batérie a akumulátory a odpadové pneumatiky, aj zoznam miest ich zberu, a ak ide o elektroodpad, zoznam miest zberu a zoznam miest spätného zberu.“.
+
 - 51. V § 28 sa odsek 4 dopĺňa písmenami af) až ah), ktoré znejú:
 
 - „af)
@@ -305,6 +347,12 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
   - Poznámka pod čiarou k odkazu 58c znie:
 
   - „<sup>58c</sup>) Napríklad § 22, 23 a 27 zákona č. 423/2015 Z. z. o štatutárnom audite a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve.“.
+
+- 52. V § 28 ods. 9 písmeno f) znie:
+
+- „f)
+
+- informácie o spôsobe financovania systému združeného nakladania s vyhradeným prúdom odpadu a nákladoch na činnosti vykonávané v systéme združeného nakladania s vyhradeným prúdom odpadu; ak ide o organizáciu zodpovednosti výrobcov pre obaly, Správa o činnosti organizácie zodpovednosti výrobcov obsahuje tieto informácie s rozlíšením nákladov na zber jednotlivých odpadových materiálov a nákladov na výkup jednotlivých odpadových materiálov,“.
 
 - 53. V § 28 sa odsek 9 dopĺňa písmenami j) a k), ktoré znejú:
 
@@ -327,6 +375,8 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 - „o)
 
 - podieľať sa na vytvorení finančnej garancie podľa § 31a, pričom úhradu príspevku tvoriaceho finančnú garanciu je povinný vykonať do 28. februára; táto povinnosť sa nevzťahuje na výrobcu obalov, ktorý si plní vyhradené povinnosti individuálne.“.
+
+- 58. V § 29 ods. 2 sa vypúšťa písmeno g).
 
 - 59. V § 31 ods. 6 sa na konci pripájajú tieto vety: „Zakladatelia koordinačného centra sa po jeho založení stávajú členmi koordinačného centra a musia mať uzatvorenú zmluvu s koordinačným centrom podľa § 28 ods. 4 písm. f), § 29 ods. 1 písm. c) alebo § 44 ods. 8 písm. d). Za člena koordinačného centra sa považuje každý, kto má udelenú autorizáciu podľa § 89 ods. 1 písm. b) alebo c) a má uzatvorenú zmluvu s koordinačným centrom podľa § 28 ods. 4 písm. f), § 29 ods. 1 písm. c) alebo § 44 ods. 8 písm. d).“.
 
@@ -486,7 +536,15 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 
 - aj iné druhy tašiek.“.
 
+- 75. V § 59 ods. 4 písm. a) sa za slová „triedený zber“ vkladajú slová „v rozlíšení nákladov na jednotlivé odpadové materiály“.
+
 - 76. V § 59 ods. 5 sa za slová „v obci“ vkladá čiarka a slová „s ktorou má uzatvorenú zmluvu podľa odseku 2,“ a na konci sa bodka nahrádza bodkočiarkou a pripájajú sa tieto slová: „overenie funkčnosti triedeného zberu sa vykonáva v súčinnosti s touto obcou.“.
+
+- 77. V § 61 sa odsek 1 dopĺňa písmenom k), ktoré znie:
+
+- „k)
+
+- uzatvoriť písomnú zmluvu o spracovaní starých vozidiel so spracovateľom starých vozidiel.“.
 
 - 78. V § 64 ods. 2 písm. g) a § 65 ods. 1 písm. v) sa za slovo „zaslať“ vkladá slovo „bezodkladne“ a za slová „a následne mu“ sa vkladajú slová „do 30 dní“.
 
@@ -503,6 +561,12 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 - „(1)
 
 - Distribútor pneumatík je povinný“.
+
+- 82. V § 71 sa odsek 1 dopĺňa písmenom g), ktoré znie:
+
+- „g)
+
+- uzatvoriť zmluvu o spätnom zbere s výrobcom pneumatík alebo s organizáciou zodpovednosti výrobcov pre pneumatiky.“.
 
 - 84. V § 76 ods. 4 písm. a) prvý bod a druhý bod znejú:
 
@@ -616,9 +680,39 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 
 - písm. w)],“.
 
+- 96. V § 81 ods. 7 písmeno h) znie:
+
+- „h)
+
+- zverejniť na svojom webovom sídle podrobný všeobecne zrozumiteľný popis celého systému nakladania s komunálnymi odpadmi vrátane triedeného zberu v obci a konkrétnych opatrení zavedených na podporu predchádzania vzniku odpadu na území obce,“.
+
 - 97. V § 81 ods. 9 úvodnej vete sa za slovo „odpadov“ vkladá čiarka a slová „okrem skutočností podľa odseku 1 písm. b)“.
 
 - 98. V § 81 ods. 15 sa slová „programom obce“ nahrádza slovami „programom kraja“.
+
+- 99. V § 81 odsek 21 znie:
+
+- „(21)
+
+- Povinnosť zaviesť a zabezpečovať vykonávanie triedeného zberu komunálneho odpadu pre biologicky rozložiteľný kuchynský odpad sa nevzťahuje na tú časť obce, ktorá
+
+- a)
+
+- má zabezpečené energetické zhodnotenie týchto odpadov v zariadení na zhodnocovanie odpadov činnosťou R1 uvedenou v prílohe č. 1,
+
+- b)
+
+- preukáže, že 100 % domácností kompostuje vlastný odpad alebo
+
+- c)
+
+- preukáže, že to neumožňujú technické problémy vykonávania zberu v historických centrách miest a v riedko osídlených oblastiach.“.
+
+- 101. V § 81 odsek 25 znie:
+
+- „(25)
+
+- Obec je povinná nahlásiť ministerstvu a organizácii zodpovednosti výrobcov pre obaly, s ktorou má uzatvorenú zmluvu podľa § 59 ods. 2, údaje o produkcii zmesového odpadu a komunálnych odpadov z obalov a komunálnych odpadov z neobalových výrobkov oddelene vyzbieraných v obci za predchádzajúci kalendárny rok do 28. februára.“.
 
 - 102. § 81 sa dopĺňa odsekom 26, ktorý znie:
 
@@ -633,6 +727,14 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 - 103. V § 82 ods. 1 úvodnej vete sa za slovo „odpadu“ vkladajú slová „a právnická osoba alebo fyzická osoba – podnikateľ môže bezplatne odovzdať oddelene vyzbieraný komunálny odpad z obalov a komunálny odpad z neobalových výrobkov z iných zdrojov“.
 
 - 104. V § 82 ods. 2 sa za slovo „ako“ vkladá slovo „osobou“ a za slová „odseku 1“ sa vkladajú slová „alebo inej oddelene zbieranej zložky komunálneho odpadu, ako je uvedená v odseku 1“.
+
+- 105. V § 82 ods. 3 písm. b) sa na konci pripájajú tieto slová: „[§ 105 ods. 3 písm. d)]“.
+
+- 106. V § 83 odsek 2 znie:
+
+- „(2)
+
+- Prevádzkovateľ kuchyne je povinný okrem povinností podľa § 14 a § 81 ods. 9 a 16 vytvoriť, prevádzkovať a udržiavať funkčný systém triedeného zberu pre biologicky rozložiteľný kuchynský odpad a reštauračný odpad, ktorého je pôvodcom.“.
 
 - 107. V § 88a ods. 5 sa za slová „odseku 3“ vkladajú slová „alebo odseku 4“.
 
