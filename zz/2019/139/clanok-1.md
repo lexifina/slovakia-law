@@ -896,6 +896,14 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - prevziať prepravovanú osobu od zamestnanca ambulancie dopravnej zdravotnej služby,
 
+- ba)
+
+- zaviesť interný systém hodnotenia bezpečnosti pacienta,
+
+- bb)
+
+- dodržiavať interný systém hodnotenia bezpečnosti pacienta a minimálne požiadavky na interný systém hodnotenia bezpečnosti pacienta,
+
 - bc)
 
 - podrobiť sa výkonu klinického auditu v súlade s § 9d ods. 2.“.
