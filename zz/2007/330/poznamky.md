@@ -36,6 +36,8 @@
 
 - 13a) § 119a ods. 3 a § 119b ods. 2 písm. a) zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 13b) Zákon č. 176/2015 Z. z. o komisárovi pre deti a komisárovi pre osoby so zdravotným postihnutím a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 14) § 3 ods. 4, § 24 a 25 zákona č. 185/2002 Z. z. v znení zákona č. 426/2003 Z. z.
 
 - 15) Zákon č. 8/2005 Z. z.
