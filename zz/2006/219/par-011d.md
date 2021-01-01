@@ -1,0 +1,3 @@
+# § 11d Prechodné ustanovenie k úpravám účinným od 1. januára 2021
+
+Ústav pamäti národa je povinný Sociálnej poisťovni alebo orgánu príslušnému na výplatu dôchodku podľa osobitného predpisu<sup>7ab</sup>) písomne oznámiť údaje podľa § 11a ods. 3 a § 11b ods. 5 aj o osobách, ktorým bolo postavenie veterána protikomunistického odboja priznané pred 1. januárom 2021. Na účely konania o nároku na príplatok k dôchodku podľa osobitného predpisu<sup>7c</sup>) je Ústav pamäti národa povinný poskytnúť okrem údajov podľa § 11a ods. 3 a § 11b ods. 5 aj údaj o období internácie v centralizovaných kláštoroch.

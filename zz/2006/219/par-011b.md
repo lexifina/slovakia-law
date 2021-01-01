@@ -25,3 +25,13 @@
   - 4. štátne občianstvo.
 
 (4) Ak Ústav pamäti národa prizná postavenie veterána protikomunistického odboja in memoriam, vydá blízkej osobe zosnulej osoby preukaz veterána protikomunistického odboja in memoriam.
+
+(5) Ústav pamäti národa je povinný na účely priznania jednorazového príplatku podľa osobitného predpisu<sup>7ac</sup>) písomne oznámiť Sociálnej poisťovni alebo orgánu príslušnému na výplatu dôchodku podľa osobitného predpisu<sup>7ab</sup>) tieto údaje:
+
+- a) titul, meno a priezvisko veterána protikomunistického odboja in memoriam,
+
+- b) dátum a miesto narodenia,
+
+- c) rodné číslo.
+
+(6) Lehota na zaslanie údajov podľa odseku 5 je 30 dní odo dňa priznania postavenia veterána protikomunistického odboja in memoriam.
