@@ -56,6 +56,8 @@
 
 - 21a) § 75k Obchodného zákonníka.
 
+- 21aa) § 106j zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení zákona č. 421/2020 Z. z.
+
 - 22) Zákon č. 540/2001 Z. z. o štátnej štatistike.
 
 - 22a) Nariadenie Európskeho parlamentu a Rady (ES) č. 1606/2002 z 19. júla 2002 o uplatňovaní medzinárodných účtovných noriem (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 29; Ú. v. ES L 243, 11. 9. 2002) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 297/2008 z 11. marca 2008 (Ú. v. EÚ L 97, 9. 4. 2008).
