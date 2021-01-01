@@ -32,6 +32,10 @@ Zákon č. 440/2015 Z. z. o športe a o zmene a doplnení niektorých zákonov v
 
   - Doterajší štvrtý bod sa označuje ako tretí bod.
 
+- 5. V § 67 ods. 1 písm. c) sa slová „ods. 3“ nahrádzajú slovami „ods. 1“.
+
+- 6. V § 67 ods. 1 písm. d) sa vypúšťa slovo „disciplinárna“ a slová „ods. 3“ sa nahrádzajú slovami „ods. 1“.
+
 - 7. V § 86 ods. 1 sa na konci pripájajú tieto slová: „v súlade s medzinárodnými zmluvami, ktorými je Slovenská republika viazaná,<sup>34b</sup>) podľa pravidiel Svetového antidopingového programu“.
 
   - Poznámka pod čiarou k odkazu 34b znie:
@@ -201,6 +205,66 @@ Zákon č. 440/2015 Z. z. o športe a o zmene a doplnení niektorých zákonov v
 - 7.
 
 - športovca, ktorý má na území Slovenskej republiky trvalý pobyt.
+
+- Doping
+
+- § 88
+
+- (1)
+
+- Dopingom podľa pravidiel agentúry prijatých podľa § 87 ods. 1 je
+
+- a)
+
+- prítomnosť zakázanej látky alebo jej metabolitov alebo jej markerov v odobratej vzorke,
+
+- b)
+
+- použitie alebo pokus o použitie zakázanej látky alebo zakázanej metódy športovcom,
+
+- c)
+
+- vyhýbanie sa, odmietnutie alebo nepodrobenie sa odberu vzorky športovcom,
+
+- d)
+
+- neposkytnutie informácie o mieste pobytu športovca,
+
+- e)
+
+- falšovanie alebo pokus o falšovanie počas časti dopingovej kontroly športovcom alebo inou osobou,
+
+- f)
+
+- držba zakázanej látky alebo prostriedkov umožňujúcich použitie zakázanej metódy športovcom alebo sprievodným personálom športovca,
+
+- g)
+
+- obchodovanie alebo pokus o obchodovanie so zakázanou látkou alebo zakázanou metódou športovcom alebo inou osobou,
+
+- h)
+
+- podanie alebo pokus o podanie zakázanej látky alebo zakázanej metódy športovcom alebo inou osobou športovcovi počas súťaže alebo podanie alebo pokus o podanie zakázanej látky alebo zakázanej metódy, ktoré sú zakázané mimo súťaže, športovcovi v období mimo súťaže.
+
+- i)
+
+- spoluúčasť alebo pokus o spoluúčasť pri dopingu športovcom alebo inou osobou,
+
+- j)
+
+- zakázané združovanie športovca alebo inej osoby,
+
+- k)
+
+- odrádzanie od oznámenia dopingu podľa písmen a) až j) príslušnému orgánu alebo pomsta za oznámenie dopingu podľa písmen a) až j) príslušnému orgánu zo strany športovca alebo inej osoby, ak nejde o konanie podľa písmena e).
+
+- (2)
+
+- Doping sa zakazuje počas súťaže alebo mimo nej, v súvislosti s účasťou športovca na súťaži.
+
+- (3)
+
+- Ak bola športovcovi udelená terapeutická výnimka, dopingom nie je skutočnosť alebo konanie podľa odseku 1 písm. a), b), f) alebo h).
 
 - Dopingová kontrola
 
@@ -422,7 +486,59 @@ Zákon č. 440/2015 Z. z. o športe a o zmene a doplnení niektorých zákonov v
 
 - (13)
 
-- Podrobnosti o organizácii a činnosti komisií pre konanie vo veci dopingu upraví štatút príslušnej komisie pre konanie vo veci dopingu, ktorý prijme ministerstvo školstva.“.
+- Podrobnosti o organizácii a činnosti komisií pre konanie vo veci dopingu upraví štatút príslušnej komisie pre konanie vo veci dopingu, ktorý prijme ministerstvo školstva.
+
+- § 93
+
+- Konanie vo veci dopingu
+
+- (1)
+
+- Komisie pre konanie vo veci dopingu prejednávajú doping podľa pravidiel agentúry prijatých podľa § 87 ods. 1 pri dodržiavaní zásad spravodlivého procesu v rozsahu podľa § 89 ods. 1 písm. e).
+
+- (2)
+
+- Účastníkmi konania vo veci dopingu sú osoby, ktoré sú dôvodne podozrivé z dopingu a na ktoré sa vzťahuje povinnosť dodržiavať pravidlá Svetového antidopingového programu a pravidlá agentúry prijaté podľa § 87 ods. 1.
+
+- (3)
+
+- Ak so zreteľom na pomer člena komisie pre konanie vo veci dopingu k veci alebo k osobám zúčastneným na konaní možno mať odôvodnené pochybnosti o jeho nezaujatosti alebo ak v konkrétnej veci existuje alebo hrozí konflikt záujmov člena komisie pre konanie vo veci dopingu, tento člen je povinný na konflikt záujmov upozorniť a nesmie sa zúčastniť na jej prerokovaní a rozhodovaní. Ak je pochybnosť o existencii alebo o hrozbe konfliktu záujmov, rozhoduje predseda komisie pre konanie vo veci dopingu, o ktorej člena ide; ak ide o predsedu komisie pre konanie vo veci dopingu, o existencii alebo o hrozbe konfliktu záujmov rozhodujú ostatní členovia príslušnej komisie pre konanie vo veci dopingu tajným hlasovaním. Vylúčený je aj člen komisie pre konanie vo veci dopingu, ktorý prejednával a rozhodoval tú istú vec na komisii pre konanie vo veci dopingu iného stupňa alebo pred iným orgánom. Vylúčeného člena komisie pre konanie vo veci dopingu v predmetnej veci zastúpi náhradník komisie pre konanie vo veci dopingu; pri výbere náhradníka komisie pre konanie vo veci dopingu sa použije postup podľa druhej vety.
+
+- (4)
+
+- Na prejednávaní veci komisiou pre konanie vo veci dopingu má právo byť prítomný zástupca agentúry.
+
+- (5)
+
+- Príslušná komisia pre konanie vo veci dopingu je povinná doručiť kópiu spisu prejednávanej veci agentúre bezodkladne po vydaní rozhodnutia.
+
+- (6)
+
+- Komisia pre konanie vo veci dopingu rozhoduje hlasovaním. Na prijatie rozhodnutia komisie pre konanie vo veci dopingu je potrebný súhlas aspoň dvoch členov.
+
+- (7)
+
+- Rokovania komisie pre konanie vo veci dopingu sú verejné.
+
+- (8)
+
+- Rozhodnutia komisie podpisuje predseda príslušnej komisie pre konanie vo veci dopingu alebo ním poverený iný člen príslušnej komisie pre konanie vo veci dopingu. Člen komisie pre konanie vo veci dopingu, ktorý nesúhlasí s rozhodnutím komisie alebo s jeho odôvodnením, môže vypracovať rozdielne stanovisko, ktoré sa pripojí k rozhodnutiu. Rozdielne stanovisko člena komisie pre konanie vo veci dopingu sa doručuje a uverejňuje rovnako ako ostatné časti rozhodnutia.
+
+- (9)
+
+- Rozhodnutie vo veci dopingu musí obsahovať výrok, odôvodnenie a poučenie a ostatné náležitosti podľa pravidiel agentúry prijatých podľa § 87 ods. 1. V odôvodnení rozhodnutia sa uvádza, ktoré skutočnosti boli podkladom na rozhodnutie, ako boli vyhodnotené dôkazy, ako sa príslušný orgán vyrovnal s návrhmi a námietkami dotknutých osôb a s ich vyjadreniami k podkladom rozhodnutia.
+
+- (10)
+
+- Poučenie obsahuje údaj, či možno proti rozhodnutiu podať opravný prostriedok, v akej lehote, na ktorý orgán a kde možno opravný prostriedok podať.
+
+- (11)
+
+- V písomnom vyhotovení rozhodnutia sa uvedie aj názov orgánu, ktorý rozhodnutie vydal, dátum vydania rozhodnutia a meno a priezvisko fyzickej osoby alebo názov právnickej osoby, ktorej sa rozhodnutie týka.
+
+- (12)
+
+- Proti rozhodnutiu vo veci dopingu môže podať opravný prostriedok fyzická osoba alebo právnická osoba, ktorej sa rozhodnutie týka, spôsobom, v lehote a postupom určeným pravidlami agentúry prijatými podľa § 87 ods. 1.“.
 
 - 11. V § 100 ods. 1 písm. a) sa slová „medzinárodným dohovorom, ktorým je Slovenská republika viazaná,<sup>40</sup>)“ nahrádzajú slovami „medzinárodnou zmluvou, ktorou je Slovenská republika viazaná,<sup>34b</sup>)“.
 
@@ -437,3 +553,7 @@ Zákon č. 440/2015 Z. z. o športe a o zmene a doplnení niektorých zákonov v
   - (2) Minister školstva vymenuje členov a náhradníkov komisií pre konanie vo veci dopingu najneskôr do 28. februára 2021.
 
   - (3) Ministerstvo školstva vydá štatút príslušnej komisie pre konanie vo veci dopingu najneskôr do 31. januára 2021.
+
+  - § 106g Prechodné ustanovenie k úpravám účinným od 1. januára 2021
+
+  - Konanie vo veci porušenia antidopingových pravidiel, ktoré sa začalo pred 1. januárom 2021, sa dokončí pred príslušnými komisiami, ktorých členov vymenúva a odvoláva príslušný národný športový zväz alebo organizátor príslušnej športovej súťaže, podľa predpisov účinných do 31. decembra 2020.”.
