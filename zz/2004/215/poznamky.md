@@ -80,7 +80,7 @@
 
 - 28) § 61 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 28a) § 27ga ods. 7 a § 31 ods. 7 zákona č. 185/2002 Z. z. o Súdnej rade Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení zákona č. 195/2014 Z. z.
+- 28a) § 24 ods. 3 písm. c) a § 24a písm. c) zákona č. 395/2002 Z. z. v znení zákona č. 364/2020 Z. z.
 
 - 28b) § 5 ods. 7 zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení zákona č. 195/2014 Z. z.
 
