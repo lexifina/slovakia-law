@@ -5,3 +5,5 @@
 - 3) Zákon č. 598/2003 Z. z. o štátnom rozpočte na rok 2004.
 
 - 4) § 33 zákona č. 523/2004 Z. z.
+
+- 5) § 9j zákona č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl a školských zariadení v znení zákona č. 371/2020 Z. z.
