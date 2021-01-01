@@ -226,7 +226,7 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 
 - Populačný skríning rakoviny krčka maternice a rakoviny prsníka |
 
-- Obsah | Populačný skríning rakoviny krčka maternice a rakoviny prsníka je zameraný na aktívne a organizované vyhľadávanie rakoviny krčka maternice a prsníka. Indikovaných poistencov na populačný skríning pozýva zdravotná poisťovňa. Skríning vyhodnocuje Národný onkologický inštitút v Národnom onkologickom ústave.
+- Obsah | Populačný skríning rakoviny krčka maternice a rakoviny prsníka je zameraný na aktívne a organizované vyhľadávanie rakoviny krčka maternice a prsníka. Indikovaných poistencov na populačný skríning pozýva zdravotná poisťovňa. Skríning vyhodnocuje Národné centrum zdravotníckych informácií a Národný onkologický inštitút v Národnom onkologickom ústave.
 
 - Vykonáva | Populačný skríning rakoviny krčka maternice vykonáva lekár so špecializáciou v špecializačnom odbore gynekológia a pôrodníctvo. Cytologické stery z krčka maternice vyhodnocujú certifikované cytologické laboratóriá, ktoré patria do siete pre populačný skríning. Populačný skríning rakoviny prsníka sa vykonáva komplexne na skríningovom mamografickom pracovisku, ktoré je určené na výkon populačného skríningu.
 
@@ -422,7 +422,7 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 
 - Populačný skríning rakoviny konečníka a hrubého čreva |
 
-- Obsah | Populačný skríning rakoviny konečníka a hrubého čreva je zameraný na aktívne a organizované vyhľadávanie rakoviny konečníka a hrubého čreva. Indikovaných poistencov na populačný skríning pozýva zdravotná poisťovňa. Populačný skríning vyhodnocuje Národný onkologický inštitút v Národnom onkologickom ústave.
+- Obsah | Populačný skríning rakoviny konečníka a hrubého čreva je zameraný na aktívne a organizované vyhľadávanie rakoviny konečníka a hrubého čreva. Indikovaných poistencov na populačný skríning pozýva zdravotná poisťovňa. Populačný skríning vyhodnocuje Národné centrum zdravotníckych informácií a Národný onkologický inštitút v Národnom onkologickom ústave.
 
 - Vykonáva | lekár so špecializáciou v špecializovanom odbore všeobecné lekárstvo, ktorý vyhodnocuje štandardizovaný test na okultné krvácanie a lekár so špecializáciou v špecializačnom odbore gastroenterológia, chirurgia alebo vnútorné lekárstvo a s certifikátom v certifikovanej pracovnej činnosti diagnostická a intervenčná kolonoskopia, ktorý vykonáva skríningovú kolonoskopiu pri pozitívnom štandardizovanom teste na okultné krvácanie.
 
