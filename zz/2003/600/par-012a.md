@@ -2,7 +2,7 @@
 
 (1) Platiteľ rozhodne o určení osobitného príjemcu prídavku a príplatku k prídavku, ak
 
-- a) z písomného oznámenia riaditeľa školy vyplynie, že oprávnená osoba nedbá o riadne plnenie povinnej školskej dochádzky nezaopatreného dieťaťa,<sup>19e</sup>)
+- a) z písomného oznámenia riaditeľa školy vyplynie, že oprávnená osoba nedbá o riadne plnenie povinnej školskej dochádzky nezaopatreného dieťaťa alebo nedbá o riadne plnenie povinného predprimárneho vzdelávania nezaopatreného dieťaťa,<sup>19e</sup>)
 
 - b) zistí, že oprávnená osoba nevyužíva prídavok a príplatok k prídavku na účel podľa § 1 ods. 2 a 3,
 
@@ -26,7 +26,7 @@
 
 (6) Platiteľ rozhodne o uvoľnení osobitného príjemcu prídavku a príplatku k prídavku určeného podľa
 
-- a) odseku 1 písm. a), ak oprávnená osoba dbá o riadne plnenie povinnej školskej dochádzky nezaopatreného dieťaťa, najskôr po uplynutí troch po sebe nasledujúcich kalendárnych mesiacov od určenia osobitného príjemcu,
+- a) odseku 1 písm. a), ak oprávnená osoba dbá o riadne plnenie povinnej školskej dochádzky nezaopatreného dieťaťa alebo ak oprávnená osoba dbá o riadne plnenie povinného predprimárneho vzdelávania nezaopatreného dieťaťa, najskôr po uplynutí troch po sebe nasledujúcich kalendárnych mesiacov od určenia osobitného príjemcu,
 
 - b) odseku 1 písm. b), ak pominuli dôvody na jeho určenie,
 

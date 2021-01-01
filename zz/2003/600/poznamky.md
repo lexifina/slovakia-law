@@ -88,7 +88,7 @@
 
 - 19d) § 383 ods. 2 Civilného mimosporového poriadku.
 
-- 19e) § 5 ods. 11 a 12 zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení zákona č. 214/2009 Z. z.
+- 19e) § 5 ods. 11, 12, 15 a 16 zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 19f) § 60 ods. 3 písm. e) zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
