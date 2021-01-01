@@ -4,9 +4,11 @@
 
 - Zákon č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 1b) § 2 ods. 3 Obchodného zákonníka.
+
 - 2) § 116 a 117 Občianskeho zákonníka.
 
-- 2a) § 20 písm. b) zákona č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 2a) § 4 ods. 1 zákona č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.
 
 - 2aa) § 22 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
@@ -44,7 +46,7 @@
 
 - 13) Zákon Národnej rady Slovenskej republiky č. 152/1994 Z. z. o sociálnom fonde a o zmene a doplnení zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov v znení neskorších predpisov.
 
-- 14) Napríklad § 39 zákona Slovenskej národnej rady č. 194/1990 Zb. o lotériách a iných podobných hrách v znení neskorších predpisov.
+- 14) Napríklad § 16 ods. 15 až 19 zákona č. 30/2019 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov.
 
 - 15) Napríklad zákon č. 283/2002 Z. z. o cestovných náhradách.
 
@@ -89,32 +91,6 @@
 - 24a) Napríklad § 15 ods. 24 zákona č. 150/2013 Z. z. o Štátnom fonde rozvoja bývania.
 
 - 24b) § 12a zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení zákona č. 185/2014 Z. z.
-
-- 24c) Vyhláška Štatistického úradu Slovenskej republiky č. 250/2017 Z. z., ktorou sa vydáva Program štátnych štatistických zisťovaní na roky 2018 až 2020.
-
-- 24d) § 118 ods. 4 písm. a) Zákonníka práce v znení zákona č. 63/2018 Z. z.
-
-- § 20 ods. 1 písm. f) zákona č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení zákona č. 63/2018 Z. z.
-
-- § 142 ods. 1 písm. g) zákona č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 63/2018 Z. z.
-
-- 24e) § 130 ods. 2 Zákonníka práce v znení neskorších predpisov.
-
-- § 20 ods. 2 zákona č. 553/2003 Z. z. v znení zákona č. 63/2018 Z. z.
-
-- § 142 ods. 5 zákona č. 55/2017 Z. z. v znení zákona č. 63/2018 Z. z.
-
-- 24f) § 134 Zákonníka práce v znení neskorších predpisov.
-
-- § 29 ods. 2 zákona č. 553/2003 Z. z. v znení neskorších predpisov.
-
-- § 160 ods. 2 zákona č. 55/2017 Z. z.
-
-- 24g) § 118 ods. 4 písm. b) Zákonníka práce v znení zákona č. 63/2018 Z. z.
-
-- § 20 ods. 1 písm. g) zákona č. 553/2003 Z. z. v znení zákona č. 63/2018 Z. z.
-
-- § 142 ods. 1 písm. h) zákona č. 55/2017 Z. z. v znení zákona č. 63/2018 Z. z.
 
 - 24h) § 42 Zákonníka práce v znení neskorších predpisov.
 
@@ -212,6 +188,8 @@
 
 - 46) Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení zákona č. 191/2004 Z. z.
 
+- 46a) § 54 ods. 1 písm. e) zákona č. 5/2004 Z. z. v znení neskorších predpisov.
+
 - 47) § 19b zákona č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov v znení zákona č. 518/2007 Z. z.
 
 - 47a) § 14c ods. 1 písm. a), c) a d) zákona č. 570/2005 Z. z. v znení zákona č. 378/2015 Z. z.
@@ -242,9 +220,11 @@
 
 - 54) Napríklad § 10 zákona Slovenskej národnej rady č. 310/1992 Zb. o stavebnom sporení v znení neskorších predpisov.
 
+- 54a) § 2 ods. 1 písm. e) zákona č. 299/2020 Z. z. o poskytovaní dotácií v pôsobnosti Ministerstva kultúry Slovenskej republiky.
+
 - 55) § 79 ods. 3 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
-- 56) Zákon Slovenskej národnej rady č. 194/1990 Zb. v znení neskorších predpisov.
+- 56) Zákon č. 30/2019 Z. z. v znení zákona č. 221/2019 Z. z.
 
 - 57) § 115 Občianskeho zákonníka.
 
@@ -319,8 +299,6 @@
 - 64) Napríklad zákon č. 235/1998 Z. z. v znení neskorších predpisov, zákon č. 238/1998 Z. z. v znení neskorších predpisov, zákon č. 280/2002 Z. z. v znení neskorších predpisov, zákon č. 600/2003 Z. z. v znení zákona č. 485/2004 Z. z.
 
 - 65) § 19 zákona č. 650/2004 Z. z. v znení neskorších predpisov.
-
-- 65a) § 33 zákona č. 538/2005 Z. z. o prírodných liečivých vodách, prírodných liečebných kúpeľoch, kúpeľných miestach a prírodných minerálnych vodách a o zmene a doplnení niektorých zákonov.
 
 - 66) Zákon č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov.
 
@@ -424,7 +402,7 @@
 
 - 80aa) § 37 ods. 20 zákona č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov v znení zákona č. 374 /2010 Z. z.
 
-- 80aaa) § 23 zákona č. 7/2005 Z. z.
+- 80aaa) § 23 a 106c zákona č. 7/2005 Z. z. v znení zákona č. 421/2020 Z. z.
 
 - 80aaaa) § 570 až 574 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
 
@@ -492,7 +470,7 @@
 
 - 88a) § 31 ods. 1 zákona č. 157/2018 Z. z. o metrológii a o zmene a doplnení niektorých zákonov.
 
-- 88aa) § 4 ods. 6 zákona č. 171/2005 Z. z.
+- 88aa) § 5 ods. 6 zákona č. 30/2019 Z. z.
 
 - 88aaa) § 61n ods. 1 písm. a), c) a d) zákona č. 233/1995 Z. z. v znení zákona č. 2/2017 Z. z.
 
@@ -714,6 +692,10 @@
 
 - 132c) § 13 zákona č. 281/2015 Z. z. o štátnej službe profesionálnych vojakov a o zmene a doplnení niektorých zákonov.
 
+- 132d) § 106f ods. 1 a 3 zákona č. 7/2005 Z. z. v znení zákona č. 421/2020 Z. z.
+
+- 132e) § 106j zákona č. 7/2005 Z. z. v znení zákona č. 421/2020 Z. z.
+
 - 133) § 75j ods. 1 a § 768s Obchodného zákonníka.
 
 - 133a) § 16 ods. 4 a § 17 ods. 6 zákona č. 431/2002 Z. z.
@@ -754,15 +736,13 @@
 
 - 136af) § 34 ods. 1 zákona č. 429/2002 Z. z. o burze cenných papierov v znení neskorších predpisov.
 
+- 136ag) Zákon č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov v znení zákona č. 52/2018 Z. z.
+
+- 136ah) § 11a zákona č. 83/1990 Zb. v znení zákona č. 346/2018 Z. z.
+
 - 136bf) § 68 ods. 6 Obchodného zákonníka v znení neskorších predpisov.
 
 - 136bg) § 58 ods. 10 Zákonníka práce v znení neskorších predpisov.
-
-- 136c) Napríklad § 66ba zákona č. 455/1991 Zb. v znení neskorších predpisov, § 10 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 136d) § 2 ods. 1 a 2 Obchodného zákonníka.
-
-- 136e) § 45a ods. 2 a § 66ba ods. 3 písm. c) zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
 - 136f) § 3 ods. 1 zákona č. 406/2011 Z. z.
 
@@ -804,11 +784,7 @@
 
 - 146ac) Zákon č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 146ad) § 12 ods. 1 zákona č. 572/2004 Z. z.
-
-- 146ae) § 12 ods. 10 zákona č. 572/2004 Z. z.
-
-- 146af) § 17 ods. 2 písm. c) zákona č. 572/2004 Z. z.
+- 146ad) Napríklad čl. 107 a 108 Zmluvy o fungovaní Európskej únie v platnom znení (Ú. v. EÚ C 326, 26. 10. 2012), zákon č. 358/2015 Z. z.
 
 - 147) Zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
 
@@ -834,8 +810,8 @@
 
 - 153d) § 768s ods. 2 písm. b) a c) a ods. 9 Obchodného zákonníka.
 
-- 154) Zákon č. 580/2004 Z. z. v znení neskorších predpisov.
+- 154) Napríklad § 66ba zákona č. 455/1991 Zb. v znení neskorších predpisov, § 10 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- Zákon č. 461/2003 Z. z. v znení neskorších predpisov.
+- 155) § 45a ods. 2 a § 66ba ods. 3 písm. c) zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
-- Zákon č. 328/2002 Z. z. v znení neskorších predpisov.
+- 156) Zákon č. 57/2018 Z. z. v znení neskorších predpisov.
