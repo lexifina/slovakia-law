@@ -28,6 +28,8 @@
 
 - 14) § 40 ods. 8 zákona č. 251/2012 Z. z.
 
+- 14a) § 2 písm. b) zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
+
 - 15) § 34 ods. 2 písm. f) prvý bod zákona č. 251/2012 Z. z.
 
 - 15a) § 2 písm. a) bod 15. zákona č. 251/2012 Z. z.

@@ -26,6 +26,8 @@ Príloha č. 9 k vyhláške č. 24/2013 Z. z.
 
     - (4) Zmeny identifikačných údajov, zánik odberného miesta a vznik nového odberného miesta dodávateľa elektriny, ako aj iné procesy týkajúce sa odberných miest sú riešené v technickej špecifikácii.
 
+    - (5) Distribúcia elektriny a dodávka elektriny do spoločných častí a spoločných zariadení bytového domu tvoriacich odberné miesto bytového domu, ktoré je spojené výlučne s užívaním bytov, nebytových priestorov alebo spoločných častí a spoločných zariadení bytového domu len domácnosťami, sa považuje za distribúciu elektriny a dodávku elektriny pre domácnosť. Podrobnosti ustanovuje prevádzkový poriadok prevádzkovateľa distribučnej sústavy.
+
   - C. Práva a povinnosti prevádzkovateľa distribučnej sústavy
 
     - (1) Prevádzkovateľ distribučnej sústavy zabezpečuje prístup a distribúciu elektriny pre každé odberné miesto do výšky dohodnutej rezervovanej kapacity s výnimkou, ak tomu bránia okolnosti nezávislé na vôli prevádzkovateľa distribučnej sústavy.
