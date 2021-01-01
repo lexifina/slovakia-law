@@ -1,4 +1,6 @@
-- 1) Zákon č. 219/2006 Z. z. o protikomunistickom odboji.
+- 1) § 6 zákona č. 219/2006 Z. z. o protikomunistickom odboji v znení zákona č. 58/2009 Z. z.
+
+- 1a) § 10 ods. 2 zákona č. 219/2006 Z. z. v znení zákona č. 58/2009 Z. z.
 
 - 2) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
@@ -17,6 +19,8 @@
 - 3c) Zákon č. 87/1991 Zb. o mimosúdnych rehabilitáciách v znení neskorších predpisov.
 
 - 4) § 112 až 114, § 117 a 118 zákona č. 461/2003 Z. z.
+
+- 4a) § 11a ods. 3 a 4 a § 11b ods. 5 a 6 zákona č. 219/2006 Z. z. v znení zákona č. 365/2020 Z. z.
 
 - 7) § 285 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
