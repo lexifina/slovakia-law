@@ -108,6 +108,8 @@
 
 - 49a) Zákon č. 461/2003 Z. z. o sociálnom poistení.
 
+- 49b) § 12 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 50) Zákon č. 73/1998 Z. z. v znení neskorších predpisov.Zákon č. 200/1998 Z. z. v znení neskorších predpisov.
 
 - 52) Zákon č. 71/1967 Zb.

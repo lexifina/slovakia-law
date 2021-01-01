@@ -10,7 +10,7 @@
 
 (2) Za špeciálneho prokurátora môže byť zvolený občan Slovenskej republiky, ktorý je voliteľný do národnej rady, dosiahol vek 40 rokov, má vysokoškolské právnické vzdelanie druhého stupňa, je najmenej 15 rokov činný v právnickom povolaní, má odbornú justičnú skúšku, je bezúhonný, posledné dva roky pred vymenovaním nevykonával funkciu prezidenta Slovenskej republiky, poslanca národnej rady, poslanca Európskeho parlamentu, člena vlády, predsedu, vedúceho, riaditeľa alebo podpredsedu ostatného ústredného orgánu štátnej správy alebo orgánu štátnej správy s celoštátnou pôsobnosťou, štátneho tajomníka, verejného ochrancu práv, generálneho tajomníka služobného úradu, predsedu samosprávneho kraja, primátora alebo starostu a jeho morálne vlastnosti a doterajší život dávajú záruku, že funkciu špeciálneho prokurátora bude riadne a čestne vykonávať. Splnenie týchto podmienok overuje príslušný výbor národnej rady pred hlasovaním o návrhu na zvolenie.
 
-(3) Návrh na voľbu jedného kandidáta na špeciálneho prokurátora môžu podať národnej rade
+(3) Jeden návrh na voľbu kandidáta na špeciálneho prokurátora môžu podať národnej rade
 
 - a) poslanec národnej rady,
 
