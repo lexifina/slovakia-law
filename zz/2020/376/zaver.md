@@ -1,0 +1,1 @@
+Andrej Doležal v. r.
