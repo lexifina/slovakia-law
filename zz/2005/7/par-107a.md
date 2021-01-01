@@ -1,3 +1,7 @@
+## Druhý oddiel
+
+## Konkurzné ustanovenia súvisiace s trestným konaním
+
 # § 107a
 
 (1) Ak príslušný súd<sup>22a</sup>) doručí konkurznému súdu právoplatné rozhodnutie o uložení trestu prepadnutia majetku, konkurzný súd bezodkladne bez návrhu rozhodne o vyhlásení konkurzu na majetok toho, komu bol takýto trest uložený. Konkurzný súd rozhoduje uznesením, proti ktorému nie je prípustné odvolanie. Takto vyhlásený konkurz sa vedie podľa tejto časti zákona.

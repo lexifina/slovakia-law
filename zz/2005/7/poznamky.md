@@ -14,6 +14,8 @@
 
 - 3c) Čl. 5 nariadenia (EÚ) č. 2015/848 v platnom znení.
 
+- 3d) § 17 zákona č. 421/2020 Z. z. o dočasnej ochrane podnikateľov vo finančných ťažkostiach a o zmene a doplnení niektorých zákonov.
+
 - 4) § 127 Civilného sporového poriadku.
 
 - 4a) § 2 písm. e) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 323/2007 Z. z.
@@ -29,6 +31,10 @@
 - 8) Zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
 
 - 8a) Zákon č. 371/2014 Z. z. o riešení krízových situácií na finančnom trhu a o zmene a doplnení niektorých zákonov.
+
+- 8aa) § 14 ods. 2 zákona 374/2014 Z. z. o pohľadávkach štátu a o zmene a doplnení niektorých zákonov v znení zákona č. 87/2015 Z. z.
+
+- 8ab) § 15 zákona č. 374/2014 Z. z.
 
 - 8b) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 655/2004 Z. z. o odmenách a náhradách advokátov za poskytovanie právnych služieb v znení neskorších predpisov.
 
@@ -126,7 +132,7 @@
 
 - 28a) § 1 a § 99 až 111 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
-- 28b) § 63 až 79 zákona č. 492/2009 Z. z.
+- 28b) § 63 až 79b zákona č. 492/2009 Z. z. v znení neskorších predpisov.
 
 - 28c) Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -141,6 +147,8 @@
 - 31) § 51 zákona č. 492/2009 Z. z.
 
 - § 107a zákona č. 566/2001 Z. z. v znení zákona č. 510/2002 Z. z.
+
+- 32) Zákon č. 421/2020 Z. z.
 
 - 32a) § 3 ods. 3 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
