@@ -503,3 +503,5 @@
 - 82) § 5 ods. 1 písm. b) tretí bod zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
 
 - 83) § 5 ods. 1 písm. b) trinásty bod zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
+
+- 84) § 2 ods. 2 zákona č. 406/2011 Z. z. o dobrovoľníctve a o zmene a doplnení niektorých zákonov.
