@@ -329,3 +329,5 @@
 - 72) § 293ew ods. 2 písm. a) zákona č. 461/2003 Z. z. v znení zákona č. 68/2020 Z. z.
 
 - 73) § 2 ods. 1 písm. q) a § 12 ods. 2 písm. f) zákona č. 355/2007 Z. z. v znení neskorších predpisov.
+
+- 74) § 20 ods. 1 písm. k) zákona č. 581/2004 Z. z.

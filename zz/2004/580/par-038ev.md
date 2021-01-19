@@ -47,3 +47,15 @@
 - c) úhradu záväzku podľa § 27a ods. 10 do 15. marca 2021.
 
 (17) Ministerstvo zdravotníctva odvedie do 31. decembra 2020 zdravotnej poisťovni preddavok na výsledok ročného zúčtovania poistného plateného štátom, vo výške odhadu pohľadávky zdravotnej poisťovne z ročného zúčtovania poistného plateného štátom. Zúčtovanie tohto preddavku sa vykoná pri úhrade pohľadávok a záväzkov z ročného zúčtovania poistného plateného štátom.
+
+(18) Príslušná zdravotná poisťovňa počas krízovej situácie uhrádza v plnom rozsahu náklady zdravotnej starostlivosti poskytnutej poistencovi s ochorením COVID-19 v inom členskom štáte, ak klinické pracovisko príslušného špecializačného odboru [§ 10 ods. 7 písm. b)] potvrdilo zdravotnú indikáciu a odôvodnenie potreby poskytnutia navrhovanej liečby v inom členskom štáte a táto zdravotná starostlivosť je poskytovaná u poskytovateľa ústavnej zdravotnej starostlivosti v inom členskom štáte, ktorý je financovaný z verejného systému. O presune poistenca k poskytovateľovi zdravotnej starostlivosti v inom členskom štáte podľa predchádzajúcej vety bezodkladne informuje príslušnú zdravotnú poisťovňu poskytovateľ zdravotnej starostlivosti, ktorý rozhodol o presune poistenca do iného členského štátu.
+
+(19) Informácia o presune poistenca musí obsahovať meno, priezvisko, dátum narodenia, rodné číslo, ak je pridelené, označenie poskytovateľa zdravotnej starostlivosti v inom členskom štáte a potvrdenie klinického pracoviska podľa odseku 18.
+
+(20) Na účely preukázania nároku na úhradu nákladov zdravotnej starostlivosti poskytnutej poistencovi s ochorením COVID-19 počas krízovej situácie v inom členskom štáte v plnom rozsahu podľa odseku 18 je príslušná zdravotná poisťovňa povinná vydať prenosný dokument S2 bezodkladne po doručení informácie podľa odseku 19; postup podľa § 9f sa nepoužije.
+
+(21) Na úhradu nákladov ústavnej zdravotnej starostlivosti podľa odseku 18 sa vzťahuje postup podľa § 9b ods. 8.
+
+(22) Preprava poistenca v súvislosti s poskytnutím zdravotnej starostlivosti v inom členskom štáte podľa odseku 18 sa na účel úhrady nákladov za prepravu pokladá za prepravu na území Slovenskej republiky.
+
+(23) Pri úmrtí poistenca s ochorením COVID-19, ktoré nastane u poskytovateľa ústavnej zdravotnej starostlivosti v inom členskom štáte, kam bol poistenec preložený podľa odseku 18, prevoz mŕtveho tela do Slovenskej republiky zabezpečuje a uhrádza úrad; primerane sa použijú ustanovenia osobitného predpisu.<sup>74</sup>)
