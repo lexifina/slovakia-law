@@ -1,6 +1,6 @@
 - 1) § 8 a 9 zákona č. 129/2002 Z. z. o integrovanom záchrannom systéme v znení zákona č. 579/2004 Z. z.
 
-- 1a) Ústavný zákon č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu v znení ústavného zákona č. 113/2004 Z. z.
+- 1a) Ústavný zákon č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu v znení neskorších predpisov.
 
 - 1b) § 48 ods. 2 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení zákona č. 172/2011 Z. z.
 
