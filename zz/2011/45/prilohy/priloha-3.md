@@ -19,3 +19,5 @@ Príloha č. 3 k zákonu č. 45/2011 Z. z.
 - 8. Zdravotníctvo | | Ministerstvo zdravotníctva Slovenskej republiky
 
 - 9. Financie | Bankovníctvo; tým nie sú dotknuté vylúčenia podľa osobitného predpisu o kybernetickej bezpečnosti.<sup>10</sup>) Finančné trhy; tým nie sú dotknuté vylúčenia podľa osobitného predpisu o kybernetickej bezpečnosti.<sup>10</sup>) Systémy riadenia verejných financií. | Ministerstvo financií Slovenskej republiky
+
+- 10. Pôdohospodárstvo | poľnohospodárstvo potravinárstvo | Ministerstvo pôdohospodárstva a rozvoja vidieka Slovenskej republiky
