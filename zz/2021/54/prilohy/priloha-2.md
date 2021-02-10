@@ -1,0 +1,1 @@
+Príloha č. 2 k rozhodnutiu predsedu Národnej rady Slovenskej republiky č. 54/2021 Z. z. [LEHOTY na vykonanie volieb do orgánov samosprávy obcí 15. mája 2021](../assets/7ed354f7b709cbd25a69966fc0d2ff164ac8cc7925c634711ae6e99540dffb1c.pdf)

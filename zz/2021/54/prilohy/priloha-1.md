@@ -1,0 +1,1 @@
+Príloha č. 1 k rozhodnutiu predsedu Národnej rady Slovenskej republiky č. 54/2021 Z. z. [ZOZNAM OBCÍ, v ktorých sa vyhlasujú voľby do orgánov samosprávy obcí na 15. mája 2021](../assets/106a0e6a212885419671e172a57d0678689969ab86f2644946771d06966746bb.pdf)
