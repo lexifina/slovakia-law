@@ -1,0 +1,1 @@
+Ján Mičovský v. r.
