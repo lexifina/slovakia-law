@@ -1,0 +1,5 @@
+Príloha č. 1 k vyhláške č. 486/2011 Z. z.
+
+- ŽIADOSŤ O SKÚŠANIE BIOLOGICKEJ ÚČINNOSTI PRÍPRAVKOV NA OCHRANU RASTLÍN
+
+- [Vzor 01](../assets/d3a4b82b1b1b6ef119b35827782aefe54765d958644bd496d092b5ca8225d544.pdf)
