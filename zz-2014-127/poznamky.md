@@ -1,0 +1,1 @@
+- 1) Nariadenie vlády Slovenskej republiky č. 513/2011 Z. z. o používaní profesijných titulov a ich skratiek viažucich sa na odbornú spôsobilosť na výkon zdravotníckeho povolania.
