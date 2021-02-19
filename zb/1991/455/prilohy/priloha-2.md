@@ -146,7 +146,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 53a. | Wellness masérske služby | Osvedčenie o čiastočnej kvalifikácii alebo osvedčenie o úplnej kvalifikácii | § 19 zákona č. 568/2009 Z. z. |
 
-- 54. | Ubytovacie služby v ubytovacích zariadeniach s prevádzkovaním pohostinských činností v týchto zariadeniach a v chatovej osade triedy 3, v kempingoch triedy 3 a 4 | – vysokoškolské vzdelanie druhého stupňa a dva roky praxe v odbore alebo – vysokoškolské vzdelanie prvého stupňa alebo vyššie odborné vzdelanie a tri roky praxe v odbore alebo – úplné stredné všeobecné vzdelanie alebo úplné stredné odborné vzdelanie a štyri roky praxe v odbore | | III
+- 54. | Ubytovacie služby v ubytovacích zariadeniach s prevádzkovaním pohostinských činností v týchto zariadeniach | – vysokoškolské vzdelanie druhého stupňa a dva roky praxe v odbore alebo – vysokoškolské vzdelanie prvého stupňa alebo vyššie odborné vzdelanie a tri roky praxe v odbore alebo – úplné stredné všeobecné vzdelanie alebo úplné stredné odborné vzdelanie a štyri roky praxe v odbore | | III
 
 - 55. | Reštaurovanie s výnimkou kultúrnych pamiatok a zbierkových predmetov, ktoré sú dielami výtvarného umenia [§ 3 ods. 1 písm. d) desiaty bod] | – stredoškolské vzdelanie reštaurátorského zamerania a 3 roky praxe v odbore reštaurovania alebo – úplné stredné vzdelanie príbuzného odboru a 5 rokov praxe v odbore reštaurovania alebo – vysokoškolské umelecké vzdelanie reštaurátorského zamerania alebo príbuzného odboru a 1 rok praxe v odbore reštaurovania | | I
 
@@ -249,5 +249,3 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 - | Zneškodňovanie fluórovaných skleníkových plynov vrátane podnikania v oblasti nakladania s odpadmi s obsahom fluórovaných skleníkových plynov | | |
 
 - | Uvádzanie fluórovaných skleníkových plynov na trh | | |
-
-- 95. | Pravidelná kontrola detského ihriska | certifikát odbornej spôsobilosti | § 10 ods. 2 zákona č. 371/2019 Z. z. o základných požiadavkách na bezpečnosť detského ihriska a o zmene a doplnení niektorých zákonov |
