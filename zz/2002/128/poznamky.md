@@ -50,8 +50,6 @@
 
 - 9f) Zákon č. 302/2019 Z. z. o zálohovaní jednorazových obalov na nápoje a o zmene a doplnení niektorých zákonov.
 
-- 9g) Zákon č. 371/2019 Z. z. o základných požiadavkách na bezpečnosť detského ihriska a o zmene a doplnení niektorých zákonov.
-
 - 10) § 6a zákona č. 634/1992 Zb. v znení neskorších predpisov.
 
 - 10a) Zákon č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
