@@ -20,7 +20,7 @@
 
 - c) neohlási zmeny údajov obsiahnutých v ohlásení (§ 49 ods. 1),
 
-- d) poruší povinnosť podľa § 30 ods. 5,
+- d) poruší povinnosť podľa § 30 ods. 4,
 
 - e) neoznámi zrušenie prevádzkarne (§ 17 ods. 6).
 
