@@ -185,3 +185,5 @@
 - 40a) Napríklad § 63 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov.
 
 - 41) Zákon Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov.
+
+- 42) § 152 ods. 7 zákona č. 311/2001 Z. z. v znení zákona č. 76/2021 Z. z.
