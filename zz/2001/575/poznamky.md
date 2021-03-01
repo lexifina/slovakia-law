@@ -4,7 +4,9 @@
 
 - 1aa) § 244 Občianskeho súdneho poriadku.
 
-- 1aaa) Zákon č. 55/2017 Z. z. v znení neskorších predpisov.
+- 1aaa) § 9e zákona č. 45/2011 Z. z. o kritickej infraštruktúre v znení zákona č. 72/2021 Z. z.
+
+- 1ab) Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 1b) § 15 a 16 zákona č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
 
