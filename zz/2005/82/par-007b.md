@@ -14,7 +14,7 @@
 
 (5) Právnická osoba alebo fyzická osoba, ktorá je podnikateľom, nesmie prijať prácu alebo službu, ktorú jej na základe zmluvy dodáva alebo poskytuje právnická osoba alebo fyzická osoba (ďalej len „poskytovateľ služby“) prostredníctvom fyzickej osoby, ktorú nelegálne zamestnáva, ak ide
 
-- a) o cezhraničné poskytovanie služby po dobu presahujúcu päť dní v období 12 mesiacov od prvého poskytnutia služby alebo
+- a) o cezhraničné poskytovanie služby po dobu presahujúcu 30 dní v období 12 mesiacov od prvého poskytnutia služby alebo
 
 - b) o vnútroštátnu dodávku práce alebo cezhraničnú dodávku práce.
 
