@@ -1,1 +1,0 @@
-Príloha č. 6 k vyhláške č. 331/2018 Z. z. [Záznam o konverzii pre zaručenú konverziu z elektronickej podoby do elektronickej podoby](../assets/19755c6ce15ed9bf17b2d9891a4d54c5c0155364755f39a96d6e57a875e39fc2.pdf)

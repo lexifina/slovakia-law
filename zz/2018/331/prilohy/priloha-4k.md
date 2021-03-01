@@ -1,1 +1,0 @@
-Príloha č. 4 k vyhláške č. 331/2018 Z. z. [Záznam o konverzii pre zaručenú konverziu z listinnej podoby do elektronickej podoby](../assets/1a1b436e7a32ec0a6f12bb6aeb0ada4dc649a767ca667838dd345a14c42d163c.pdf)
