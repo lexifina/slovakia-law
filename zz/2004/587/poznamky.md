@@ -46,7 +46,7 @@
 
 - 11g) §18 vyhlášky Ministerstva pôdohospodárstva a rozvoja vidieka Slovenskej republiky č. 453/2006 Z. z. o hospodárskej úprave lesov a o ochrane lesa.
 
-- 11h) § 7 ods. 1 písm. a) a b) zákona č. 329/2018 Z. z.
+- 11h) § 7 ods. 1 písm. a) až c) zákona č. 329/2018 Z. z. v znení zákona č. 67/2021 Z. z.
 
 - 11i) § 7 ods. 1 písm. c) a d) zákona č. 329/2018 Z. z.
 
