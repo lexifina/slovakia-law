@@ -1,4 +1,4 @@
-- 1) Zákon č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia.
+- 1) Zákon č. 39/2013 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 1a) § 2 zákona č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -10,7 +10,7 @@
 
 - 2ab) Nariadenie Európskeho parlamentu a Rady (EÚ) 2016/1628 zo 14. septembra 2016 o požiadavkách na emisné limity plynných a pevných znečisťujúcich látok a typové schválenie spaľovacích motorov necestných pojazdných strojov, ktorým sa menia nariadenia (EÚ) č. 1024/2012 a (EÚ) č. 167/2013 a ktorým sa mení a zrušuje smernica 97/68/ES (Ú. v. EÚ L 252, 16. 9. 2016).
 
-- 3) STN 65 6481 Skvapalnené uhľovodíkové plyny. Propán. STN 65 6482 Skvapalnené uhľovodíkové plyny. Propán-bután. STN 65 6483 Skvapalnené uhľovodíkové plyny. Bután.
+- 3) STN P 65 6481 Skvapalnené ropné plyny. Vykurovacie plyny. Propán, bután a ich zmesi. Požiadavky a skúšobné metódy (65 6481).
 
 - 4) Vykonávacie rozhodnutie Komisie 2012/115/EÚ z 10. februára 2012, ktorým sa ustanovujú pravidlá týkajúce sa prechodných národných programov podľa smernice Európskeho parlamentu a Rady 2010/75/EÚ o priemyselných emisiách (Ú. v. EÚ L 52, 24. 2. 2012).
 
@@ -70,9 +70,19 @@
 
 - 28) Čl. 6 ods. 3, 4 a 5 Nariadenia Európskej komisie (EÚ) č. 142/2011.
 
-- 29) Bod 11 Vestníka Ministerstva životného prostredia Slovenskej republiky č. 5/2008 Všeobecné emisné závislosti a všeobecné emisné faktory pre vybrané technológie a zariadenia.
+- 29) Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 516/2006 Z. z. o prijatí Protokolu o znížení acidifikácie, eutrofizácie a prízemného ozónu k Dohovoru o diaľkovom znečisťovaní ovzdušia prechádzajúcom hranicami štátov z roku 1979.
 
-- 29a) Napríklad vykonávacie rozhodnutie Komisie 2013/163/EÚ z 26. marca 2013, ktorým sa stanovujú závery o najlepších dostupných technikách (BAT) podľa smernice Európskeho parlamentu a Rady 2010/75/EÚ o priemyselných emisiách na výrobu cementu, vápna a oxidu horečnatého (Ú. v. EÚ L 100, 9. 4. 2013).
+- 29a) § 2 písm. b) zákona č. 136/2000 Z. z. o hnojivách v znení neskorších predpisov.
+
+- 29b) § 2 písm. o) a p) zákona č. 136/2000 Z. z.
+
+- 29c) § 2 písm. n) zákona č. 136/2000 Z. z.
+
+- 29d) § 2 písm. m) zákona č. 136/2000 Z. z.
+
+- 29e) Zákon č. 136/2000 Z. z.
+
+- 29f) § 10c zákona č. 136/2000 Z. z.
 
 - 30) § 7, 14 a 15 vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 411/2012 Z. z. (o monitorovaní)
 

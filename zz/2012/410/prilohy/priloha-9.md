@@ -22,7 +22,7 @@ Príloha č. 9 k vyhláške č. 410/2012 Z. z.
 
       - Najnižšia výška komína alebo výduchu sa určí na základe hmotnostného toku znečisťujúcej látky a koeficientu charakterizujúceho jej škodlivosť a ďalších rozptylových parametrov postupom zverejneným vo vestníku Ministerstva životného prostredia Slovenskej republiky,<sup>31</sup>) pričom
 
-      - a) najnižšia výška komína alebo výduchu musí byť ≥ 4 m nad terénom; uvedené neplatí pre záhradné chatky, záhradné krby, maringotky a prenosné stacionárne zdroje, ak sú splnené požiadavky na rozptyl emisií podľa bodu 1,
+      - a) najnižšia výška komína alebo výduchu musí byť ≥ 4 m nad terénom; uvedené neplatí pre záhradné chatky, záhradné krby, maringotky, dieselagregáty na núdzovú prevádzku s MTP ≤ 1 MW v priemyselných areáloch, malé zdroje na núdzovú prevádzku a malé prenosné stacionárne zdroje, ak sú splnené požiadavky na rozptyl emisií podľa bodu 1,
 
       - b) do výšky komína alebo výduchu možno zarátať aj rozdiel nadmorských výšok základu budovy stacionárneho zdroja a päty komína alebo výduchu, najmä ak ide o situovanie komína alebo výduchu vo svahu,
 
@@ -40,7 +40,7 @@ Príloha č. 9 k vyhláške č. 410/2012 Z. z.
 
       - 5.2 Spaľovacie zariadenia
 
-        - 5.2.1 Pre spaľovacie zariadenia s MTP < 0,3 MW sa určí poloha ústia komína alebo výduchu a jeho prevýšenie nad strechou samotnej budovy podľa technickej normy.<sup>32</sup>)
+        - 5.2.1 Pre spaľovacie zariadenia s MTP < 0,3 MW sa určí poloha ústia komína alebo výduchu a jeho prevýšenie nad strechou samotnej budovy podľa technickej normy<sup>32</sup>) alebo inej obdobnej technickej špecifikácie.
 
         - 5.2.2 Ak ide o prevýšenie ústia komína alebo výduchu nad hrebeňom šikmej strechy so sklonom nad 20° pre spaľovacie zariadenia, ak
 
