@@ -222,6 +222,8 @@
 
 - 90a) § 24 ods. 1 a § 48 ods. 4 písm. e) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 90aa) § 47a zákona č. 461/2003 Z. z. v znení zákona č. 426/2020 Z. z.
+
 - 91) § 2 ods. 2 Obchodného zákonníka.
 
 - 92) Zákon č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 678/2006 Z. z.
