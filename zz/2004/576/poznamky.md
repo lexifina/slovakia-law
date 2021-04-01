@@ -230,6 +230,10 @@
 
 - Nariadenie Európskeho parlamentu a Rady (EÚ) 2017/745 z 5. apríla 2017 o zdravotníckych pomôckach, zmene smernice 2001/83/ES, nariadenia (ES) č. 178/2002 a nariadenia (ES) č. 1223/2009 a o zrušení smerníc Rady 90/385/EHS a 93/42/EHS (Ú. v. EÚ L 117, 5. 5. 2017) v platnom znení.
 
+- 39ab) § 10 zákona č. 176/2015 Z. z. o komisárovi pre deti a komisárovi pre osoby so zdravotným postihnutím a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Článok 14, 15 a 25 Dohovoru o právach osôb so zdravotným postihnutím (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 317/2010 Z. z.) v znení Opčného protokolu k Dohovoru o právach osôb so zdravotným postihnutím (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 318/2010 Z. z.).
+
 - 40) § 15 ods. 12 zákona č. 140/1998 Z. z.
 
 - 40a) § 110 ods. 1 zákona č. 87/2018 Z. z. o radiačnej ochrane a o zmene a doplnení niektorých zákonov.
