@@ -172,6 +172,8 @@
 
 - 49aba) § 2 ods. 2 Obchodného zákonníka.
 
+- 49abaa) § 47a zákona č. 461/2003 Z. z. v znení zákona č. 426/2020 Z. z.
+
 - 49b) § 4 ods. 2 zákona Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky v znení neskorších predpisov.
 
 - 49ba) § 13 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
