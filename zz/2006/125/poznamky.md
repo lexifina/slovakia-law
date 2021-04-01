@@ -4,7 +4,7 @@
 
 - 2) Napríklad Zákonník práce, zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov, zákon č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 2a) Zákon č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
+- 2a) Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 3) § 39 Zákonníka práce.
 
@@ -32,7 +32,9 @@
 
 - 12) § 22 zákona č. 124/2006 Z. z.
 
-- 13) Napríklad zákon č. 124/2006 Z. z., vyhláška Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 718/2002 Z. z. na zaistenie bezpečnosti a ochrany zdravia pri práci a bezpečnosti technických zariadení.
+- 12a) Zákon č. 422/2015 Z. z. o uznávaní dokladov o vzdelaní a o uznávaní odborných kvalifikácií a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 13) Zákon č. 124/2006 Z. z. v znení neskorších predpisov.
 
 - 14) § 5 ods. 2 až 10 Zákonníka práce.
 
@@ -54,7 +56,7 @@
 
 - 16) Zákon č. 128/2015 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov.
 
-- 16a) § 16 ods. 1 písm. a) prvý bod zákona č. 124/2006 Z. z. v znení zákona č. 154/2013 Z. z.
+- 16a) § 6 ods. 3 písm. v) a § 7 písm. i) zákona č. 355/2007 Z. z. v znení neskorších predpisov.
 
 - 17) § 11 ods. 4 a 5 Zákonníka práce.
 
@@ -82,7 +84,7 @@
 
 - 18ad) § 5a a 7c zákona č. 82/2005 Z. z. v znení zákona č. 223/2011 Z. z.
 
-- § 5 až 7 zákona č. 293/2007 Z. z. o uznávaní odborných kvalifikácií.
+- § 42 a 43 zákona č. 422/2015 Z. z. v znení neskorších predpisov.
 
 - § 21 ods. 1 zákona č. 54/2019 Z. z.
 
@@ -128,10 +130,10 @@
 
 - 25) Napríklad zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov, zákon č. 302/2001 Z. z. o samospráve vyšších územných celkov (zákon o samosprávnych krajoch) v znení neskorších predpisov.
 
-- 25a) Zákon č. 124/2006 Z. z. v znení neskorších predpisov.
-
 - 25b) § 224 ods. 2 písm. e) Zákonníka práce.
 
 - 26) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 27) Napríklad zákon Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov, zákon č. 314/2001 Z. z. v znení neskorších predpisov, zákon č. 5/2004 Z. z. v znení neskorších predpisov, zákon č. 126/2006 Z. z.
+
+- 28) § 4 ods. 1 a 2 zákona č. 505/2009 Z. z.
