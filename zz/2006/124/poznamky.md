@@ -74,6 +74,10 @@
 
 - 19b) § 87 ods. 1 až 4 zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 19c) § 6 ods. 1 písm. e) zákona č. 125/2006 Z. z. v znení zákona č. 73/2021 Z. z.
+
+- 19d) § 2 písm. d) zákona č. 136/2010 Z. z. o službách na vnútornom trhu a o zmene a doplnení niektorých zákonov.
+
 - 20) Napríklad Zákonník práce, zákon č. 73/1998 Z. z. v znení neskorších predpisov, zákon č. 200/1998 Z. z. v znení neskorších predpisov.
 
 - 21) Zákon č. 128/2015 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov.
@@ -102,6 +106,8 @@
 
 - 32) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
-- 32a) § 3 až 8 a § 10 až 16 zákona č. 136/2010 Z. z. o službách na vnútornom trhu a o zmene a doplnení niektorých zákonov.
+- 32a) § 3 až 8 a § 10 až 16 zákona č. 136/2010 Z. z.
+
+- 32b) § 22c zákona č. 125/2006 Z. z. v znení zákona č. 73/2021 Z. z.
 
 - 33) Vyhláška Štatistického úradu Slovenskej republiky č. 306/2007 Z. z. , ktorou sa vydáva Štatistická klasifikácia ekonomických činností.

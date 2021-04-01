@@ -2,7 +2,7 @@ Príloha č. 1b k zákonu č. 124/2006 Z. z. v znení zákona č. 309/2007 Z. z.
 
 - Minimálny počet bezpečnostných technikov alebo autorizovaných bezpečnostných technikov podľa počtu zamestnancov
 
-  - A. Minimálny počet autorizovaných bezpečnostných technikov alebo bezpečnostných technikov u zamestnávateľa, ktorého kód podľa štatistickej klasifikácie ekonomických činností je uvedený v prílohe č. 1
+  - A. Minimálny počet autorizovaných bezpečnostných technikov alebo bezpečnostných technikov u zamestnávateľa, ktorého kód podľa štatistickej klasifikácie ekonomických činností na úrovni divízie alebo skupiny je uvedený v prílohe č. 1
 
   - Počet zamestnancov | Počet autorizovaných bezpečnostných technikov alebo bezpečnostných technikov
 
@@ -14,7 +14,7 @@ Príloha č. 1b k zákonu č. 124/2006 Z. z. v znení zákona č. 309/2007 Z. z.
 
   - nad 1 200 zamestnancov | najmenej traja autorizovaní bezpečnostní technici alebo najmenej dvaja autorizovaní bezpečnostní technici a jeden bezpečnostný technik a na každých začatých 1 000 zamestnancov najmenej jeden ďalší autorizovaný bezpečnostný technik alebo bezpečnostný technik tak, aby z celkového počtu autorizovaných bezpečnostných technikov a bezpečnostných technikov boli najmenej dve tretiny autorizovaní bezpečnostní technici
 
-  - B. Minimálny počet bezpečnostných technikov u zamestnávateľa, ktorého kód podľa štatistickej klasifikácie ekonomických činností nie je uvedený v prílohe č. 1
+  - B. Minimálny počet bezpečnostných technikov u zamestnávateľa, ktorého kód podľa štatistickej klasifikácie ekonomických činností na úrovni divízie alebo skupiny nie je uvedený v prílohe č. 1
 
   - Počet zamestnancov | Počet bezpečnostných technikov
 
