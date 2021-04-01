@@ -42,7 +42,7 @@
 
 - 16b) Článok 1 písm. q), r) a va) nariadenia Európskeho parlamentu a Rady (ES) č. 883/2004 z 29. apríla 2004 o koordinácii systémov sociálneho zabezpečenia (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 5; Ú. v. EÚ L 200, 7. 6. 2004) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 988/2009 zo 16. septembra 2009 (Ú. v. EÚ L 284, 30. 10. 2009).
 
-- 16c) § 4 zákona č. 363/2011 Z. z. o rozsahu a podmienkach úhrady liekov, zdravotníckych pomôcok a dietetických potravín na základe verejného zdravotného poistenia a o zmene a doplnení niektorých zákonov.
+- 16c) § 87a zákona č. 363/2011 Z. z.
 
 - 16d) § 19 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
