@@ -146,6 +146,8 @@
 
 - 50a) § 25 ods. 2 zákona č. 314/2018 Z. z. o Ústavnom súde Slovenskej republiky a o zmene a doplnení niektorých zákonov.
 
+- 50b) § 12b zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení zákona č. 467/2019 Z. z.
+
 - 51) Zákon č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnosti zamestnanca a o zmene a doplnení niektorých zákonov.
 
 - 53) Napríklad § 162 zákona č. 311/2001 Z. z.
