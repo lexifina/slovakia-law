@@ -178,11 +178,13 @@
 
 - 42) § 34 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
-- 43) § 42 ods. 1 zákona č. 461/2003 Z. z.
+- 43) § 42 písm. a) zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
-- 44) § 39 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+- 44) § 42 písm. b) zákona č. 461/2003 Z. z.. v znení neskorších predpisov.
 
-- 44a) § 12a zákona č. 576/2004 Z. z. v znení zákona č. 185/2014 Z. z.
+- § 12a alebo § 12b zákona č. 576/2004 Z. z. v znení zákona č. 467/2019 Z. z.
+
+- 44a) § 12a alebo § 12b zákona č. 576/2004 Z. z. v znení zákona č. 467/2019 Z. z.
 
 - 44b) § 4 ods. 1 písm. d) zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
