@@ -359,3 +359,9 @@
 - 99) Zákon č. 293/2007 Z. z. o uznávaní odborných kvalifikácií.
 
 - 100) § 104g ods. 11 zákona č. 543/2002 Z. z. v znení zákona č. 356/2019 Z. z.
+
+- 101) § 3 ods. 1 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
+
+- 102) Čl. 5 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu v znení neskorších predpisov.
+
+- 103) Čl. 4 ústavného zákona č. 227/2002 Z. z. v znení neskorších predpisov.
