@@ -1,0 +1,3 @@
+Príloha č. 10 k zákonu č. 138/2010 Z. z.
+
+- SPRIEVODNÝ LIST LESNÉHO REPRODUKČNÉHO MATERIÁLU [Vzor 05](../assets/de678d6c9e08d4c84b8510d980514cb98c9bd24a4e35c1951ccd315a1d5159cd.pdf)

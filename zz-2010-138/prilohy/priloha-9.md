@@ -1,0 +1,3 @@
+Príloha č. 9 k zákonu č. 138/2010 Z. z.
+
+- LIST O PÔVODE LESNÉHO REPRODUKČNÉHO MATERIÁLU [Vzor 04](../assets/e33ae53df41af2e30789d8b0166c65c1772619e18ff9b299395a0fd9fb00a271.pdf)

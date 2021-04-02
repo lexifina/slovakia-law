@@ -1,0 +1,3 @@
+# § 32c Prechodné ustanovenie počas trvania mimoriadnej situácie, núdzového stavu alebo výnimočného stavu vyhláseného v súvislosti so šírením nebezpečnej nákazlivej ľudskej choroby COVID-19
+
+Ak z dôvodu mimoriadnej situácie,<sup>20aa</sup>) núdzového stavu<sup>20ab</sup>) alebo výnimočného stavu<sup>20ac</sup>) vyhláseného v súvislosti so šírením nebezpečnej nákazlivej ľudskej choroby COVID-19 nie je možné zúčastniť sa školenia podľa § 18 ods. 2, lehota piatich rokov na účasť na školení sa považuje za splnenú, ak sa držiteľ osvedčenia školenia zúčastní v termíne, ktorý mu oznámi ministerstvo alebo ním poverená osoba na vykonanie školenia.
