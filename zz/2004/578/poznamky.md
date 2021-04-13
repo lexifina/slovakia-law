@@ -248,8 +248,6 @@
 
 - 47) § 12 ods. 8 zákona č. 576/2004 Z. z. v znení zákona č. 350/2005 Z. z.
 
-- 47a) § 2 ods. 1 zákona č. 153/2013 Z. z.
-
 - 48) § 19 až 21 zákona č. 576/2004 Z. z.
 
 - 49) § 18, § 24 a 25 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
@@ -505,3 +503,7 @@
 - 83) § 5 ods. 1 písm. b) trinásty bod zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
 
 - 84) § 2 ods. 2 zákona č. 406/2011 Z. z. o dobrovoľníctve a o zmene a doplnení niektorých zákonov.
+
+- 85) § 10 ods. 7 písm. b), § 38ev ods. 18 až 23 zákona č. 580/2004 Z. z.
+
+- 86) § 10b ods. 1 písm. b) zákona č. 579/2004 Z. z. v znení zákona č. 133/2021 Z. z.
