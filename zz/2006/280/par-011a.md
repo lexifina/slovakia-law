@@ -12,7 +12,9 @@
 
 - d) vydáva preukazy kontrolóra a vedie ich evidenciu,
 
-- e) prevádzkuje informačný systém.
+- e) prevádzkuje informačný systém,
+
+- f) môže poskytnúť príspevok na podporu prevádzkovateľov školiacich stredísk v súvislosti so zmiernením negatívnych následkov pandémie, ktorá vznikla z dôvodu ochorenia COVID-19.
 
 (2) Na kontrolu výkonu štátnej správy sa vzťahujú ustanovenia osobitného predpisu o kontrole upravujúce vnútornú kontrolu v štátnej správe.<sup>5ab</sup>)
 

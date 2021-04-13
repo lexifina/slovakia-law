@@ -66,6 +66,10 @@
 
 - 7) Článok 5 ods. 1 písm. b) a ods. 2 písm. c) nariadenia Rady (EHS) 3820/85 z 20. decembra 1985 o zosúlaďovaní niektorých právnych predpisov v sociálnej oblasti, ktoré sa týkajú cestnej dopravy (Ú. v. ES L 370, 31. 12. 1985) v platnom znení.
 
+- 7a) Zákon č. 358/2015 Z. z. o úprave niektorých vzťahov v oblasti štátnej pomoci a minimálnej pomoci a o zmene a doplnení niektorých zákonov (zákon o štátnej pomoci).
+
+- 7b) Napríklad čl. 107 a 108 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 202, 7. 6. 2016) v platnom znení, zákon č. 358/2015 Z. z.
+
 - 8) Čl. 5 nariadenia Európskeho parlamentu a Rady (ES) č. 1072/2009 z 21. októbra 2009 o spoločných pravidlách prístupu nákladnej cestnej dopravy na medzinárodný trh (prepracované znenie) (Ú. v. EÚ L 300, 14. 11. 2009) v platnom znení.
 
 - 9) Nariadenie Európskeho parlamentu a Rady (ES) č. 561/2006 z 15. marca 2006 o harmonizácii niektorých právnych predpisov v sociálnej oblasti, ktoré sa týkajú cestnej dopravy, ktorým sa menia a dopĺňajú nariadenia Rady (EHS) č. 3821/85 a (ES) č. 2135/98 a zrušuje nariadenie Rady (EHS) č. 3820/85 (Ú. v. EÚ L 102, 11. 4. 2006) v platnom znení.

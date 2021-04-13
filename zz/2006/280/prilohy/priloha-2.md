@@ -118,4 +118,4 @@ Príloha č. 2 k zákonu č. 280/2006 Z. z.
 
   - C. Vzor Európskej únie pre kvalifikačnú kartu vodiča
 
-- [Vzor Európskej únie pre kvalifikačnú kartu vodiča](../assets/8015db85d29527899ed4f42b8b6d36df54f5b60d2f4e49657a926405eedf90d8.pdf)
+- [Vzor Európskej únie pre kvalifikačnú kartu vodiča](../assets/4bb4d6380c06665628e3e844c573f775c17fd363695f53a35fb9f92b35801409.pdf)
