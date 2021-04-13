@@ -55,3 +55,7 @@
 - 15) § 57 ods. 1 písm. e) zákona č. 455/1991 Zb. v znení zákona č. 279/2001 Z. z.
 
 - 16) § 52 ods. 17 zákona č. 595/2003 Z. z. o dani z príjmov.
+
+- 17) Zákon č. 358/2015 Z. z. o úprave niektorých vzťahov v oblasti štátnej pomoci a minimálnej pomoci a o zmene a doplnení niektorých zákonov (zákon o štátnej pomoci).
+
+- 18) Napríklad čl. 107 a 108 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 202, 7. 6. 2016) v platnom znení, zákon č. 358/2015 Z. z.
