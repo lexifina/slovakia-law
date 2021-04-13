@@ -1,0 +1,83 @@
+# § 11d Štátny odborný dozor
+
+(1) Štátny odborný dozor sa vykonáva ako
+
+- a) hlavný štátny odborný dozor ministerstva dopravy,
+
+- b) štátny odborný dozor okresného úradu v sídle kraja a okresného úradu.
+
+(2) Štátnym odborným dozorom sa kontroluje, ako fyzické osoby, fyzické osoby – podnikatelia a právnické osoby (ďalej len „kontrolovaná osoba“) dodržiavajú tento zákon, vykonávacie predpisy, rozhodnutia vydané na základe tohto zákona a ďalšie súvisiace predpisy, štatúty, plány, poriadky a pravidlá. Orgány štátneho odborného dozoru vykonávajú štátny odborný dozor v rozsahu podľa odsekov 3 až 7.
+
+(3) Ministerstvo dopravy v rámci hlavného štátneho odborného dozoru s pôsobnosťou na území Slovenskej republiky kontroluje prevádzkovateľov školiaceho strediska, lektorov školiaceho strediska, osoby, ktoré majú vydané osvedčenie o technickej spôsobilosti typu identifikačného zariadenia, kurzy základnej kvalifikácie, kurzy pravidelného výcviku a skúšku po skončení kurzov základnej kvalifikácie.
+
+(4) Orgán štátneho odborného dozoru získava potrebné údaje
+
+- a) kontrolou na mieste,
+
+- b) súčinnosťou so štátnymi orgánmi, s orgánmi územnej samosprávy a osobami podľa odsekov 14 a 15,
+
+- c) vyžiadaním informácií a stanovísk od kontrolovanej osoby,
+
+- d) z informačných systémov,
+
+- e) z aplikácie na kontrolovanie výcviku a výučby školiaceho strediska.
+
+(5) Okresný úrad v sídle kraja v rámci štátneho odborného dozoru s pôsobnosťou na území kraja kontroluje kurzy základnej kvalifikácie, kurzy pravidelného výcviku, prevádzkovateľov školiaceho strediska a lektorov školiaceho strediska.
+
+(6) Okresný úrad v rámci štátneho odborného dozoru s pôsobnosťou na území okresu kontroluje kurzy základnej kvalifikácie, kurzy pravidelného výcviku, prevádzkovateľov školiaceho strediska a lektorov školiaceho strediska.
+
+(7) Orgány štátneho odborného dozoru v rozsahu svojej pôsobnosti kontrolujú aj osoby vykonávajúce činnosť podľa tohto zákona bez registrácie na vykonávanie kurzov základnej kvalifikácie, osoby, ktorých činnosť súvisí s vykonávaním kurzov základnej kvalifikácie, kurzov pravidelného výcviku a s prevádzkovaním školiaceho strediska.
+
+(8) Štátny odborný dozor vykonávajú poverení zamestnanci ministerstva dopravy, okresného úradu v sídle kraja, okresného úradu, ktorým ministerstvo dopravy vydalo preukaz kontrolóra (ďalej len „kontrolór“). Preukaz kontrolóra je oprávnením na vykonanie kontroly.
+
+(9) Na vykonanie kontroly môže orgán štátneho odborného dozoru prizvať zamestnancov iných orgánov verejnej správy alebo iných právnických osôb alebo fyzické osoby (ďalej len „prizvaná osoba“) s ich súhlasom, ak je to odôvodnené osobitnou povahou kontroly. Prizvaná osoba vykonáva kontrolu len na základe písomného poverenia orgánu štátneho odborného dozoru, ktorý ju výkonom poveril a za účasti kontrolóra.
+
+(10) Orgány štátneho odborného dozoru pri výkone štátneho odborného dozoru postupujú podľa základných pravidiel kontrolnej činnosti<sup>5ac</sup>) a podľa tohto zákona.
+
+(11) Pri výkone štátneho odborného dozoru nad praktickou jazdou alebo praktickou zručnosťou alebo výučbou v školiacom stredisku kontrolóri vypracujú protokol z vykonania štátneho odborného dozoru na mieste, ak sa štátnym odborným dozorom v tejto oblasti zistia nedostatky alebo záznam z vykonania štátneho odborného dozoru na mieste, ak sa nedostatky nezistia. Pri ich vypracovaní postupujú primerane podľa osobitného predpisu.<sup>5ae</sup>) Protokol z vykonania štátneho odborného dozoru na mieste alebo záznam z vykonania štátneho odborného dozoru na mieste sú výslednými materiálmi a zasielajú sa kontrolovanej osobe. V protokole z vykonania štátneho odborného dozoru na mieste sa kontrolovanej osobe uloží povinnosť v určenej lehote odstrániť zistené nedostatky a predložiť orgánu štátneho odborného dozoru správu o ich odstránení.
+
+(12) Okrem oprávnení a povinností podľa základných pravidiel kontrolnej činnosti<sup>5ad</sup>) sú kontrolóri oprávnení
+
+- a) vstupovať na pozemky, do budov, do priestorov, kde sa vykonáva výučba a výcvik, do prevádzkových priestorov kontrolovanej osoby a do kontrolovaných vozidiel, premeriavať ich rozmery a vybavenie a kontrolovať funkčnosť zariadení a vozidiel,
+
+- b) zisťovať, či výcvikové vozidlo je vedené v účtovníctve, či označenie a vybavenie výcvikového vozidla je v súlade s vykonávacím predpisom a so schváleným typom a či má platné osvedčenie o evidencii časť I, protokol o kontrole technického stavu časť A – technická kontrola, protokol o kontrole technického stavu časť B – emisná kontrola,
+
+- c) zisťovať, či kontrolovaná osoba má inštruktorské oprávnenie, vodičské oprávnenie, ako aj ďalšie doklady súvisiace s vykonávaním činnosti v školiacom stredisku alebo s prevádzkovaním školiaceho strediska,
+
+- d) zúčastniť sa na výučbe a výcviku účastníkov kurzov a skúške,
+
+- e) overovať totožnosť osôb vykonávaných činnosti v rozsahu kontrolovanej osoby, ako aj totožnosť účastníkov kurzov a skúšky,
+
+- f) vyžadovať od kontrolovanej osoby pristavenie výcvikových vozidiel v určenej lehote a na určené miesto,
+
+- g) vyžadovať od kontrolovanej osoby a jej zamestnancov, aby im v určenej lehote poskytli
+
+  - 1. doklady vrátane ich prvopisov a iné písomnosti a informácie vrátane informácií na technických nosičoch údajov, ako aj dokumentáciu potrebnú na účely kontroly a ich fotokópie,
+
+  - 2. vysvetlenia, vyjadrenia a iné ústne alebo písomné informácie a podklady k predmetu kontroly a k zisteným nedostatkom,
+
+- h) nahliadať do dokladov a evidencií kontrolovanej osoby v jej prevádzkových priestoroch a vo vozidlách, prevziať a odniesť v odôvodnených prípadoch aj mimo priestorov kontrolovanej osoby prvopisy dokladov a iné písomnosti,
+
+- i) vyhotovovať fotografie a fotokópie predložených dokladov a materiálov vrátane dokladov totožnosti na účely dokumentácie k výsledku kontroly,
+
+- j) zisťovať označenie prevádzkových priestorov a kontrolovaných vozidiel,
+
+- k) prepravovať sa v kontrolovanom vozidle, ak kontrolný úkon možno vykonať len v pohybujúcom sa vozidle,
+
+- l) vykonávať potrebné zistenia a úkony nevyhnutne súvisiace s výkonom kontroly aj pred preukázaním sa preukazom kontrolóra,
+
+- m) zaznamenať kontrolované skutočnosti audiovizuálnou technikou,
+
+- n) vyžadovať súčinnosť kontrolovanej osoby a jej zamestnancov a požadovať potrebné sprevádzanie,
+
+- o) zadržať inštruktorský preukaz a zakázať pokračovať vo výučbe alebo výcviku, ak je inštruktor autoškoly pod vplyvom alkoholu alebo inej návykovej látky.
+
+(13) Kontrolovaná osoba je povinná umožniť výkon štátneho odborného dozoru, poskytnúť kontrolórom súčinnosť zodpovedajúcu ich oprávneniam, v určenej lehote prijať opatrenia na odstránenie zistených nedostatkov a predložiť orgánu štátneho odborného dozoru správu o ich odstránení. Kontrolovaná osoba je povinná pre prípad svojej neprítomnosti alebo práceneschopnosti poveriť inú osobu na zastupovanie pred orgánom štátneho odborného dozoru počas výkonu štátneho odborného dozoru. Takto poverená osoba má povinnosti kontrolovanej osoby.
+
+(14) Štátny odborný dozor možno vykonať a jeho výsledok zaznamenať aj prostredníctvom informačného systému vrátane oboznamovania, prerokovania a zasielania dokumentov súvisiacich s kontrolou, vzájomnej komunikácie kontrolórov s kontrolovanou osobou a elektronického podpisovania dokumentácie súvisiacej s kontrolou.
+
+(15) Policajný zbor, inšpektoráty práce, štátne orgány a orgány územnej samosprávy, Národná diaľničná spoločnosť a Sociálna poisťovňa poskytujú ministerstvu dopravy, okresným úradom v sídle kraja a okresným úradom na účely štátneho odborného dozoru súčinnosť; na tento účel sú povinní im poskytnúť požadované doklady, podklady, vyjadrenia, výstupy z informačných systémov a informácie, ktoré získali pri výkone svojej činnosti, a to bez súhlasu dotknutej osoby.
+
+(16) Osoby iné, ako sú uvedené v odseku 15, ktoré majú doklady, podklady alebo informácie súvisiace s činnosťou štátneho odborného dozoru podľa tohto zákona, sú povinné ich predložiť ministerstvu dopravy, okresným úradom v sídle kraja a okresným úradom na ich vyžiadanie.
+
+(17) Ministerstvo dopravy a okresné úrady zasielajú výsledné materiály z kontroly miestne príslušnému okresnému úradu v sídle kraja ako podklad na uloženie sankcií.

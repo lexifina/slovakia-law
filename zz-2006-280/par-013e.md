@@ -1,0 +1,5 @@
+# § 13e Prechodné ustanovenie súvisiace s krízovou situáciou spôsobenou ochorením COVID-19
+
+(1) Platnosť osvedčenia o základnej kvalifikácii, osvedčenia o pravidelnom výcviku a kvalifikačnej karty vodiča, ktorá uplynie alebo uplynula počas mimoriadnej situácie, núdzového stavu alebo výnimočného stavu vyhláseného v súvislosti s ochorením COVID-19 (ďalej len „krízová situácia“), sa predlžuje až do uplynutia štyroch mesiacov od odvolania krízovej situácie. Predĺženie lehoty podľa prvej vety sa vzťahuje aj na prípad, ak platnosť osvedčenia o základnej kvalifikácii, osvedčenia o pravidelnom výcviku a kvalifikačnej karty vodiča uplynie alebo uplynula do jedného mesiaca od odvolania krízovej situácie.
+
+(2) Počas krízovej situácie možno rozsah vyučovacích hodín výučby teórie v riadnych kurzoch základnej kvalifikácie podľa prílohy č. 1 oddielu 2, rozsah vyučovacích hodín výučby teórie v kurzoch zrýchlenej základnej kvalifikácie podľa prílohy č. 1 oddielu 3 a rozsah vyučovacích hodín výučby teórie v kurzoch pravidelného výcviku podľa prílohy č. 1 oddielu 4 nahradiť v rozsahu 100 % individuálne s lektorom školiaceho strediska dištančnou formou alebo e-learningom.
