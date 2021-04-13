@@ -46,6 +46,8 @@
 
 - 23aa) § 9 a § 14 ods. 2 zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
 
+- 23aaa) Príloha č. 6 časť Indikačný zoznam pre kúpeľnú starostlivosť tabuľková časť skupina V. Netuberkulózne choroby dýchacích ciest, VI. Nervové choroby alebo VII. Choroby pohybového ústrojenstva k zákonu č. 578/2004 Z. z. v znení zákona č. 133/2021 Z. z.
+
 - 23ab) § 20 ods. 1 písm. d) zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 23b) § 11 zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov.
