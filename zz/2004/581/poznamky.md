@@ -595,3 +595,5 @@
 - § 156 ods. 7 Obchodného zákonníka.
 
 - 102) § 49k zákona č. 576/2004 Z. z. v znení zákona č. 125/2020 Z. z.
+
+- 103) § 79 ods. 1 písm. bi) zákona č. 578/2004 Z. z. v zmení neskorších predpisov.

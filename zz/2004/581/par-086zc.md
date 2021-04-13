@@ -17,3 +17,13 @@
 - d) výška úhrady zdravotnej poisťovne za odber biologického materiálu poskytovateľovi zdravotnej starostlivosti je tri eurá, ak odberový set dodá regionálny úrad verejného zdravotníctva, pričom cena nezahŕňa odberový set; ak odberový set dodá zariadenie spoločných zložiek, odber biologického materiálu uhrádza poskytovateľovi zdravotnej starostlivosti zariadenie spoločných zložiek,
 
 - e) výška úhrady zdravotnej poisťovne poskytovateľovi zdravotnej starostlivosti, ktorý je držiteľom povolenia na prevádzkovanie agentúry domácej ošetrovateľskej starostlivosti, poskytovateľovi zdravotnej starostlivosti, ktorý je držiteľom povolenia na prevádzkovanie mobilného odberového miesta, alebo zariadeniu sociálnych služieb, ktoré má zmluvu so zdravotnou poisťovňou, za vyhodnotenie COVID-19 IgM/IgG rýchleho diagnostického kazetového imunochromatografického testu je 2,20 eura za vyhodnotenie testu.
+
+(5) Počas krízovej situácie sa za porušenie povinnosti zachovávať mlčanlivosť osôb uvedených v § 76 ods. 1 nepovažuje, ak zdravotná poisťovňa na účely očkovania poistencov proti ochoreniu COVID-19 poskytuje informácie na vyžiadanie
+
+- a) národnému centru v rozsahu rodné číslo, ak ho má poistenec pridelené, alebo bezvýznamové identifikačné číslo, meno, priezvisko poistenca, telefonický kontakt, ak ho zdravotná poisťovňa spracúva,
+
+- b) samosprávnemu kraju v rozsahu rodné číslo, ak ho má poistenec pridelené, alebo bezvýznamové identifikačné číslo, meno, priezvisko poistenca, dátum a čas očkovania, telefónne číslo, ak ho zdravotná poisťovňa spracúva.
+
+(6) Zdravotná poisťovňa je povinná údaje podľa odseku 5 poskytnúť národnému centru a samosprávnemu kraju najneskôr do siedmich dní od vyžiadania.
+
+(7) Ak počas krízovej situácie samosprávny kraj alebo poskytovateľ zdravotnej starostlivosti, ktorý vykonáva očkovanie proti ochoreniu COVID-19, požiada zdravotnú poisťovňu, zdravotná poisťovňa telefonicky alebo prostredníctvom elektronickej komunikácie informuje, pozýva a ak je to technicky možné, aj registruje svojich poistencov s ich súhlasom na očkovanie proti ochoreniu COVID-19 na termín určený príslušným poskytovateľom zdravotnej starostlivosti, podľa poradia stanoveného osobitným predpisom.<sup>103</sup>)
