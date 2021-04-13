@@ -15,3 +15,5 @@
 (4) Povinnosti mlčanlivosti môže osobu podľa odseku 2 zbaviť iba osoba, ktorej sa skutočnosti týkajú, alebo orgán príslušný na vydanie povolenia na prevádzkovanie zdravotníckeho zariadenia, a to na žiadosť orgánov činných v trestnom konaní a súdov; ak nemožno určiť orgán príslušný na vydanie povolenia na prevádzkovanie zdravotníckeho zariadenia, povinnosti mlčanlivosti o skutočnostiach, o ktorých sa osoba podľa odseku 2 dozvedela v súvislosti s výkonom činnosti podľa odseku 2, môže osobu podľa odseku 2 na žiadosť orgánov činných v trestnom konaní a súdov zbaviť ministerstvo zdravotníctva.
 
 (5) Osoba podľa odseku 2 sa považuje za odborne spôsobilú na výkon činností podľa odseku 2.
+
+(6) Počas krízovej situácie je ministerstvo zdravotníctva oprávnené usmerňovať a koordinovať činnosť poskytovateľov a operačného strediska tiesňového volania záchrannej zdravotnej služby.
