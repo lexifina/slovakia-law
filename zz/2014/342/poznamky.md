@@ -2,6 +2,8 @@
 
 - 2) Čl. 36 nariadenia (EÚ) č. 1307/2013 v platnom znení.
 
+- 2a) Čl. 41 a 42 nariadenia (EÚ) č. 1307/2013 v platnom znení.
+
 - 3) Čl. 43 až 47 nariadenia (EÚ) č. 1307/2013 v platnom znení.
 
 - 4) Čl. 50 a 51 nariadenia (EÚ) č. 1307/2013 v platnom znení.
@@ -76,6 +78,8 @@
 
 - 41) Čl. 13 ods. 1 tretí pododsek delegovaného nariadenia (EÚ) č. 640/2014.
 
+- 41a) Čl. 15 ods. 1 vykonávacieho nariadenia (EÚ) č. 809/2014 v platnom znení.
+
 - 42) § 4 písm. b) zákona č. 189/2009 Z. z. o ekologickej poľnohospodárskej výrobe.
 
 - 43) Napríklad § 9 a 12 nariadenia vlády Slovenskej republiky č. 51/2007 Z. z., ktorým sa ustanovujú požiadavky na uvádzanie osiva olejnín a priadnych rastlín na trh v znení v znení nariadenia vlády Slovenskej republiky č. 175/2011 Z. z.
@@ -111,6 +115,8 @@
 - 56) Hlava III a Hlava V vykonávacieho nariadenia (EÚ) č. 809/2014.
 
 - 57) Čl. 36 ods. 2 nariadenia (EÚ) č. 1307/2013 v platnom znení.
+
+- 57a) Čl. 41 ods. 4 nariadenia (EÚ) č. 1307/2013 v platnom znení.
 
 - 58) Čl. 43 ods. 9 nariadenia (EÚ) č. 1307/2013 v platnom znení.
 
