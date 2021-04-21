@@ -2,7 +2,7 @@
 
 - 2) § 2 a 9 zákona č. 17/1992 Zb. o životnom prostredí v znení zákona Národnej rady Slovenskej republiky č. 287/1994 Z. z.
 
-- 3) Zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 3) Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 4) § 2 písm. i) zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon).
 
@@ -22,7 +22,7 @@
 
 - 9) § 4 písm. a) a c) zákona č. 597/2006 Z. z. o pôsobnosti orgánov štátnej správy v oblasti registrácie odrôd pestovaných rastlín a uvádzaní množiteľského materiálu pestovaných rastlín na trh.
 
-- 10) § 13 ods. 4 písm. g) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
+- 10) § 13 ods. 4 písm. f) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
 
 - 10c) Čl. 15 a 19 nariadenia Európskeho parlamentu a Rady (ES) č. 1946/2003 v platnom znení.
 
@@ -41,6 +41,8 @@
 - 15) § 2 zákona č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 309/2007 Z. z.
 
 - 16) § 8 až 16 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení zákona č. 502/2001 Z. z.
+
+- 16a) Čl. 39 ods. 2 písm. a), b) a c) nariadenia (ES) č. 178/2002 Európskeho parlamentu a Rady z 28. januára 2002, ktorým sa ustanovujú všeobecné zásady a požiadavky potravinového práva, zriaďuje Európsky úrad pre bezpečnosť potravín a stanovujú postupy v záležitostiach bezpečnosti potravín (Ú. v. ES L 31, 1. 2. 2002; Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 6) v znení nariadenia Európskeho parlamentu a Rady (EÚ) 2019/1381 z 20. júna 2019 (Ú. v. EÚ L 231, 6. 9. 2019).
 
 - 17) Čl. 4, 6 a 12 nariadenia Európskeho parlamentu a Rady (ES) č. 1946/2003.
 
