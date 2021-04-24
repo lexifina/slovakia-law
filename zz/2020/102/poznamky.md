@@ -8,6 +8,8 @@
 
 - 1d) Zákon č. 571/2009 Z. z. v znení neskorších predpisov.
 
+- 1e) § 293feh a 293fej zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 130/2021 Z. z.
+
 - 2) § 10 ods. 3 zákona č. 417/2013 Z. z. v znení neskorších predpisov.
 
 - 7) § 11 ods. 2 písm. b) zákona č. 417/2013 Z. z. v znení zákona č. 42/2019 Z. z.
