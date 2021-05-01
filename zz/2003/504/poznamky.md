@@ -38,6 +38,8 @@
 
 - 12a) § 7 ods. 4 zákona č. 42/1992 Zb. o úprave majetkových vzťahov a vyporiadaní majetkových nárokov v družstvách v znení neskorších predpisov.
 
+- 12aa) § 22 ods. 2 zákona č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov.
+
 - 12b) § 2 ods. 2 písm. a) zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov.
 
 - 12ba) § 5 ods. 4 písm. j) zákona č. 330/1991 Zb. v znení neskorších predpisov.
