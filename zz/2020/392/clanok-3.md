@@ -19,3 +19,11 @@ Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s
 - b)
 
 - určený zdravotnícky asistent.“.
+
+- 3. V § 25 ods. 1 písm. e) sa na konci pripájajú slová „a prostredníctvom úradu pre dohľad aj znalcovi a prizvanej osobe v rozsahu podľa osobitného predpisu,<sup>37a</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 37a znie:
+
+  - „<sup>37a</sup>) § 43 ods. 13 zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
+- 4. V § 25 ods. 1 písm. j) sa za slová „pred súdom“ vkladajú slová „alebo ktorého požiadal o vypracovanie znaleckého posudku poskytovateľ zdravotnej starostlivosti na účel posudzovania správnosti postupu pri poskytovaní zdravotnej starostlivosti v prípade úmrtia osoby,“.

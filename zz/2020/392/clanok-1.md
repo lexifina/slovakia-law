@@ -248,6 +248,12 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 
   - „<sup>39f</sup>) § 19 ods. 16 zákona č. 580/2004 Z. z. v znení neskorších predpisov.“.
 
+- 30. V § 18 ods. 1 písm. b) sa slovo „starostlivosti,<sup>40</sup>)“ nahrádza slovami „starostlivosti<sup>40</sup>) a vedenie zdravotnej dokumentácie<sup>40aaa</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 40aaa znie:
+
+  - „<sup>40aaa</sup>) § 19 až 21 zákona č. 576/2004 Z. z. v znení neskorších predpisov.“.
+
 - 31. V § 18 ods. 1 písm. j) sa na konci pripájajú tieto slová: „a technicky zabezpečuje prenos údajov vyplývajúcich z uplatňovania osobitných predpisov,<sup>18l</sup>) v podmienkach Slovenskej republiky,“.
 
 - 32. V § 20 ods. 1 písm. e) piatom bode sa za slovo „úmrtia,“ vkladajú slová „adresu trvalého pobytu, adresu prechodného pobytu alebo adresu bydliska, ak zdravotnícky pracovník nemá na území Slovenskej republiky trvalý pobyt,“.
@@ -294,7 +300,495 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 
   - Doterajšie písmeno i) sa označuje ako písmeno h).
 
+- 40. V § 43 ods. 3 sa na konci pripája táto veta: „Ak ide o výkon dohľadu v prípade úmrtia osoby, úrad je povinný vykonať dohľad na mieste, získavať informácie z originálu zdravotnej dokumentácie a zistiť skutočný stav materiálno-technického vybavenia a personálneho zabezpečenia poskytovateľa zdravotnej starostlivosti.“.
+
+- 41. V § 43 ods. 7 úvodnej vete sa vypúšťajú slová „na mieste“.
+
+- 42. V § 43 odsek 10 znie:
+
+- „(10)
+
+- Úrad môže vykonať nový dohľad nad zdravotnou starostlivosťou v tej istej veci, ak vyjdú najavo nové skutočnosti alebo dôkazy, ktoré mohli mať podstatný vplyv na skutočnosti podľa § 47 ods. 1 písm. e), alebo ak závery výkonu dohľadu nad zdravotnou starostlivosťou vychádzajú z nedostatočne zisteného skutkového stavu veci. Úrad môže začať výkon nového dohľadu nad zdravotnou starostlivosťou v tej istej veci najneskôr do dvoch rokov od ukončenia predchádzajúceho dohľadu v tej istej veci. Nový dohľad nad zdravotnou starostlivosťou v tej istej veci nemôžu vykonávať zamestnanci úradu a prizvané osoby, ktoré vykonávali predchádzajúci dohľad nad zdravotnou starostlivosťou v tej istej veci, ani zamestnanci pobočky úradu, ktorí vykonávali predchádzajúci dohľad nad zdravotnou starostlivosťou.“.
+
+- 43. V § 43 sa za odsek 10 vkladajú nové odseky 11 až 13, ktoré znejú:
+
+- „(11)
+
+- Výkon dohľadu na mieste a výkon dohľadu na diaľku vykonáva pobočka úradu, v ktorej územnom obvode sa nenachádza miesto prevádzkovania poskytovateľa zdravotnej starostlivosti alebo sídlo stanice záchrannej zdravotnej služby. Na konanie o uložení sankcie podľa § 50 ods. 2, 12 a 13 je príslušná pobočka úradu, ktorá vykonala dohľad nad poskytovaním zdravotnej starostlivosti.
+
+- (12)
+
+- Ak ide o výkon dohľadu nad poskytovaním zdravotnej starostlivosti v prípade úmrtia, prizvanou osobou musí byť znalec podľa osobitného predpisu,<sup>61c</sup>) ktorý má odbornú spôsobilosť podľa osobitného predpisu<sup>61a</sup>) v tých pracovných činnostiach, v ktorých sa má vykonávať dohľad nad poskytovaním zdravotnej starostlivosti.
+
+- (13)
+
+- Ak ide o výkon dohľadu nad poskytovaním zdravotnej starostlivosti zamestnanci úradu zašlú znalcovi a prizvanej osobe kópiu zdravotnej dokumentácie a určia im lehotu na vypracovanie posudku alebo znaleckého posudku.“.
+
+  - Doterajší odsek 11 sa označuje ako odsek 14.
+
+  - Poznámka pod čiarou k odkazu 61c znie:
+
+  - „<sup>61c</sup>) § 4 zákona č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
+- 44. Za § 43 sa vkladá § 43a, ktorý vrátane nadpisu znie:
+
+- „§ 43a
+
+- Podnet na výkon dohľadu nad zdravotnou starostlivosťou
+
+- (1)
+
+- Dohľad nad zdravotnou starostlivosťou sa vykoná na základe poznatkov získaných z vlastnej činnosti úradu, z kontrolnej, dohľadovej a hodnotiacej činnosti Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky alebo na podnet podávateľa podnetu, ktorým je osoba, ktorá sa domnieva, že boli porušené jej práva alebo právom chránené záujmy pri poskytovaní zdravotnej starostlivosti alebo pri vykonávaní verejného zdravotného poistenia, alebo jej zákonný zástupca.
+
+- (2)
+
+- Podávateľom podnetu môže byť aj blízka osoba<sup>57</sup>)osoby, ktorej práva alebo právom chránené záujmy pri poskytovaní zdravotnej starostlivosti alebo pri vykonávaní verejného zdravotného poistenia mohli byť porušené, ak
+
+- a)
+
+- osoba, ktorej práva alebo právom chránené záujmy pri poskytovaní zdravotnej starostlivosti alebo pri vykonávaní verejného zdravotného poistenia mohli byť porušené, nežije,
+
+- b)
+
+- zdravotný stav osoby, ktorej práva alebo právom chránené záujmy pri poskytovaní zdravotnej starostlivosti alebo pri vykonávaní verejného zdravotného poistenia mohli byť porušené, neumožňuje podať podnet a táto osoba s podaním podnetu preukázateľne súhlasí.
+
+- (3)
+
+- Súhlas podľa odseku 2 písm. b) sa nevyžaduje, ak zdravotný stav osoby, ktorej práva alebo právom chránené záujmy pri poskytovaní zdravotnej starostlivosti alebo pri vykonávaní verejného zdravotného poistenia mohli byť porušené, neumožňuje takýto súhlas vyjadriť.
+
+- (4)
+
+- Podnet musí mať písomnú formu a musí obsahovať
+
+- a)
+
+- identifikačné údaje o podávateľovi podnetu a o osobe, ktorej práva alebo právom chránené záujmy mohli byť porušené, ak nejde o tú istú osobu, v rozsahu
+
+- 1.
+
+- meno, priezvisko, adresa trvalého pobytu alebo adresa prechodného pobytu, ak ide o fyzickú osobu; ak ide o cudzinca uvádza sa aj identifikačné číslo cestovného dokladu alebo preukazu totožnosti, adresa trvalého pobytu v cudzine a kontaktná adresa na území Slovenskej republiky,
+
+- 2.
+
+- obchodné meno alebo názov inštitúcie, meno a priezvisko ak sa líši od obchodného mena, miesto podnikania, identifikačné číslo organizácie, ak ide o fyzickú osobu – podnikateľa, alebo
+
+- 3.
+
+- obchodné meno, sídlo, právnu formu, identifikačné číslo, ak je pridelené a ak ide o právnickú osobu,
+
+- b)
+
+- vzťah podávateľa podnetu k osobe, ktorej práva alebo právom chránené záujmy mohli byť porušené,
+
+- c)
+
+- údaje umožňujúce jednoznačnú identifikáciu zdravotnej poisťovne, platiteľa poistného, poskytovateľa zdravotnej starostlivosti alebo zariadenia sociálnej pomoci, nad ktorým má byť vykonaný dohľad nad zdravotnou starostlivosťou,
+
+- d)
+
+- opis skutočností, ktorými malo dôjsť k porušeniu práva alebo právom chráneného záujmu a obdobie, v ktorom malo dôjsť k porušeniu práva alebo právom chráneného záujmu,
+
+- e)
+
+- súhlas osoby, ktorej práva a právom chránené záujmy mohli byť porušené, podľa odseku 2 písm. b), ak v odseku 3 nie je ustanovené inak,
+
+- f)
+
+- kontaktné údaje blízkej osoby,<sup>57</sup>) ktorej úrad zašle výsledok výkonu dohľadu nad zdravotnou starostlivosťou, ak osoba, ktorej práva a právom chránené záujmy mohli byť porušené, nežije,
+
+- g)
+
+- vlastnoručný podpis podávateľa podnetu alebo podpis s uvedením mena, priezviska a funkcie oprávnenej osoby, ak je podávateľ podnetu právnická osoba.
+
+- (5)
+
+- Podávateľ podnetu môže v listinnej podobe, s úradne osvedčeným podpisom, splnomocniť inú osobu na podanie podnetu a na úkony súvisiace s podaním podnetu (ďalej len „splnomocnený zástupca“); úradné osvedčenie podpisu sa nevyžaduje, ak ide o splnomocnenie na zastupovanie advokátom. Ak podávateľ podnetu má splnomocneného zástupcu, úrad uskutočňuje úkony súvisiace s výkonom dohľadu nad zdravotnou starostlivosťou voči splnomocnenému zástupcovi, ak v odseku 9 a 10 a v § 47 ods. 2 písm. c) nie je ustanovené inak.
+
+- (6)
+
+- Podávateľ podnetu alebo splnomocnený zástupca sú povinní poskytnúť úradu súčinnosť v rozsahu potrebnom na výkon dohľadu nad zdravotnou starostlivosťou.
+
+- (7)
+
+- Ak podnet nemá všetky náležitosti podľa odseku 4, úrad bezodkladne vyzve podávateľa podnetu alebo splnomocneného zástupcu, aby v určenej lehote, ktorá nemôže byť kratšia ako 10 pracovných dní, podnet doplnil. Vo výzve na doplnenie podávateľa podnetu alebo splnomocneného zástupcu poučí o spôsobe, akým je potrebné podnet doplniť a o skutočnosti, že ak podnet nedoplní, úrad ho odmietne. Úrad môže odpustiť na žiadosť podávateľa podnetu zmeškanie lehoty na doplnenie podnetu.
+
+- (8)
+
+- Úrad podnet odmietne, ak
+
+- a)
+
+- podávateľ podnetu alebo splnomocnený zástupca napriek výzve úradu podľa odseku 6 podnet nedoplnil a to ani v lehote stanovenej úradom po podaní žiadosti o odpustenie zmeškanej lehoty a dohľad nad zdravotnou starostlivosťou z tohto dôvodu nemožno vykonať,
+
+- b)
+
+- v tej istej veci už bol dohľad nad zdravotnou starostlivosťou vykonaný a nie sú splnené podmienky na výkon nového dohľadu nad zdravotnou starostlivosťou v tej istej veci podľa § 43 ods. 10.
+
+- (9)
+
+- Úrad bezodkladne písomne oboznámi podávateľa podnetu podľa odseku 2, osobu podľa odseku 4 písm. f), alebo splnomocneného zástupcu, a osobu, ktorej práva alebo právom chránené záujmy mohli byť porušené,
+
+- a)
+
+- so začatím výkonu dohľadu nad zdravotnou starostlivosťou,
+
+- b)
+
+- s odmietnutím výkonu dohľadu nad zdravotnou starostlivosťou spolu s odôvodnením,
+
+- c)
+
+- so zastavením výkonu dohľadu nad zdravotnou starostlivosťou spolu s odôvodnením,
+
+- d)
+
+- s výsledkom výkonu dohľadu nad zdravotnou starostlivosťou.
+
+- (10)
+
+- Úrad bezodkladne písomne oboznámi osobu, ktorej práva a právom chránené záujmy mohli byť porušené alebo jej zákonného zástupcu, s výsledkom výkonu dohľadu nad zdravotnou starostlivosťou, ktorý obsahuje skutočnosti zistené pri výkone dohľadu nad zdravotnou starostlivosťou a informáciu, či sa zistilo porušenie všeobecne záväzných právnych predpisov s uvedením konkrétnych ustanovení. Úrad oboznámi podávateľa podnetu podľa odseku 2 alebo splnomocneného zástupcu s informáciou či sa zistilo porušenie všeobecne záväzných právnych predpisov s uvedením konkrétnych ustanovení.
+
+- (11)
+
+- Úrad zastaví výkon dohľadu nad zdravotnou starostlivosťou, ak
+
+- a)
+
+- podávateľ podnetu podľa odseku 2 alebo splnomocnený zástupca, alebo osoba, ktorej práva alebo právom chránené záujmy mohli byť porušené, písomne požiada o zastavenie výkonu dohľadu nad zdravotnou starostlivosťou,
+
+- b)
+
+- podávateľ podnetu alebo splnomocnený zástupca neposkytne v lehote určenej úradom súčinnosť a dohľad nad zdravotnou starostlivosťou preto nemožno vykonať; úrad podávateľa podnetu alebo splnomocneného zástupcu v žiadosti o súčinnosť poučí o tom, že neposkytnutie súčinnosti môže byť dôvodom na zastavenie výkonu dohľadu nad zdravotnou starostlivosťou,
+
+- c)
+
+- počas výkonu dohľadu nad zdravotnou starostlivosťou sa zistili skutočnosti, pre ktoré dohľad nad zdravotnou starostlivosťou nemožno vykonať.
+
+- (12)
+
+- Po skončení výkonu dohľadu nad poskytovaním zdravotnej starostlivosti úrad poskytne na základe písomnej žiadosti kópiu predbežného a záverečného protokolu osobe, ktorej práva alebo právom chránené záujmy mohli byť porušené, jej zákonnému zástupcovi alebo splnomocnenému zástupcovi. Identifikačné údaje osôb, ktoré vykonali dohľad nad zdravotnou starostlivosťou sa nesprístupňujú.
+
+- (13)
+
+- Úrad je povinný zabezpečiť, aby sa postupom podľa odsekov 10 až 12 pri výkone dohľadu nad verejným zdravotným poistením nesprístupnila utajovaná skutočnosť, bankové tajomstvo, daňové tajomstvo, obchodné tajomstvo alebo neporušila zákonom uložená povinnosť mlčanlivosti.
+
+- (14)
+
+- Ak podávateľ podnetu podá podnet na výkon nového dohľadu nad zdravotnou starostlivosťou v tej istej veci, úrad postupuje podľa § 43 ods. 10. Na konanie o uložení sankcie podľa § 50 ods. 2, 12 a 13 je príslušná pobočka úradu, ktorá vykonala nový dohľad nad zdravotnou starostlivosťou v tej istej veci.“.
+
+- 45. V § 45 ods. 2 písmeno c) znie:
+
+- „c)
+
+- vyhotoviť predbežný protokol o výkone dohľadu nad zdravotnou starostlivosťou, doručiť dohliadanému subjektu jedno vyhotovenie, určiť dohliadanému subjektu primeranú lehotu na predloženie písomných námietok k zisteniam uvedeným v predbežnom protokole, najmenej však sedem pracovných dní, a preveriť opodstatnenosť písomných námietok,“.
+
+- 46. V § 45 sa odsek 2 dopĺňa písmenom e), ktoré znie:
+
+- „e)
+
+- vyhotoviť záverečný protokol o výkone dohľadu nad zdravotnou starostlivosťou a doručiť dohliadanému subjektu jedno vyhotovenie; osoba oprávnená na výkon dohľadu vyhotovuje záverečný protokol len ak dohliadaný subjekt podal písomné námietky k predbežnému protokolu.“.
+
+- 47. V § 45 ods. 2 písm. d) za slová „námietok k“ vkladá slovo „predbežnému“.
+
+- 48. V § 46 ods. 1 písm. d) sa za slovo „prerokovania“ vkladá slovo „predbežného“.
+
+- 49. § 46 ods. 1 sa dopĺňa písmenami f) a g), ktoré znejú:
+
+- „f)
+
+- informovať svojich zamestnancov, ktorí sú zdravotníckymi pracovníkmi, o výkone dohľadu nad zdravotnou starostlivosťou, zisteniach uvedených v predbežnom protokole a záverečnom protokole, konkrétnych porušeniach ustanovení všeobecne záväzných právnych predpisov a s uvedením konkrétnych porušení vo vedení zdravotnej dokumentácie, ak sa výkon dohľadu nad zdravotnou starostlivosťou týka nesprávneho vedenia zdravotnej dokumentácie, opatreniach na odstránenie zistených nedostatkov, prijatých opatreniach na odstránenie zistených nedostatkov o zistených skutočnostiach, vyhodnotení opatrení na odstránenie zistených nedostatkov a uložených pokutách,
+
+- g)
+
+- písomne informovať úrad do 30 dní od skončenia výkonu dohľadu nad zdravotnou starostlivosťou o prijatých opatreniach na odstránenie zistených nedostatkov o zistených skutočnostiach, ak úrad uložil opatrenia, a o vyhodnotení opatrení na odstránenie zistených nedostatkov.“.
+
+- 50. V § 46 odsek 2 znie:
+
+- „(2)
+
+- Dohliadaný subjekt má právo
+
+- a)
+
+- oboznámiť sa s obsahom podnetu v takom rozsahu a čase, aby nedošlo k mareniu výkonu dohľadu nad zdravotnou starostlivosťou,
+
+- b)
+
+- vyjadriť sa písomne k obsahu podnetu počas výkonu dohľadu nad zdravotnou starostlivosťou,
+
+- c)
+
+- po doručení predbežného protokolu, v lehote určenej osobou oprávnenou na výkon dohľadu, ktorá nemôže byť kratšia ako sedem pracovných dní, podať písomné námietky k skutočnostiam uvedeným v predbežnom protokole,
+
+- d)
+
+- zúčastniť sa prerokovania námietok.“.
+
+- 51. Za § 46 sa vkladá § 46a, ktorý vrátane nadpisu znie:
+
+- „§ 46a
+
+- Súčinnosť tretích osôb
+
+- (1)
+
+- Počas výkonu dohľadu nad zdravotnou starostlivosťou je tretia osoba povinná osobe oprávnenej na výkon dohľadu na jej výzvu poskytnúť súčinnosť v rozsahu primeranom na účely výkonu dohľadu nad zdravotnou starostlivosťou. Tretia osoba poskytne údaje potrebné na výkon dohľadu nad zdravotnou starostlivosťou podľa tohto zákona; tým nie je dotknutá povinnosť zachovávať mlčanlivosť podľa § 76 a osobitných predpisov.<sup>63aa</sup>)
+
+- (2)
+
+- Súčinnosť podľa tohto zákona je tretia osoba povinná bezodplatne poskytnúť osobe oprávnenej na výkon dohľadu do siedmich pracovných dní odo dňa doručenia výzvy na poskytnutie súčinnosti.
+
+- (3)
+
+- Treťou osobou na účely tohto zákona je každý u koho je predpoklad, že disponuje takými informáciami, ktoré sú pre výkon dohľadu nad zdravotnou starostlivosťou nevyhnutné.
+
+- (4)
+
+- O úkonoch uvedených v odsekoch 1 a 2 vykoná osoba oprávnená na výkon dohľadu záznam v spise, ktorý je vytvorený na účely výkonu dohľadu nad zdravotnou starostlivosťou.“.
+
+  - Poznámka pod čiarou k odkazu 63aa znie:
+
+  - „<sup>63aa</sup>) Napríklad § 5 ods. 4, § 18 ods. 3, § 49 zákona č. 576/2004 Z. z. v znení neskorších predpisov a § 30a ods. 4 a 5, 64 ods. 6 a § 80 ods. 3 až 7 zákona č. 578/2004 Z. z. v znení neskorších predpisov.“.
+
+- 52. § 47 vrátane nadpisu znie:
+
+- „§ 47
+
+- Predbežný protokol a záverečný protokol
+
+- (1)
+
+- Predbežný protokol obsahuje
+
+- a)
+
+- meno, priezvisko a adresu alebo obchodné meno a sídlo dohliadaného subjektu,
+
+- b)
+
+- miesto a dátum výkonu dohľadu nad zdravotnou starostlivosťou,
+
+- c)
+
+- predmet dohľadu nad zdravotnou starostlivosťou,
+
+- d)
+
+- dohliadané obdobie,
+
+- e)
+
+- zistené skutočnosti pri výkone dohľadu nad zdravotnou starostlivosťou s uvedením konkrétnych porušení ustanovení všeobecne záväzných právnych predpisov a s uvedením konkrétnych porušení vo vedení zdravotnej dokumentácie, ak sa výkon dohľadu nad zdravotnou starostlivosťou týka nesprávneho vedenia zdravotnej dokumentácie,
+
+- f)
+
+- výsledok výkonu dohľadu nad zdravotnou starostlivosťou,
+
+- g)
+
+- opatrenia na odstránenie zistených nedostatkov a ich príčin, ak úrad určil takéto opatrenia,
+
+- h)
+
+- dátum vypracovania predbežného protokolu,
+
+- i)
+
+- meno, priezvisko a podpis zamestnanca úradu, ktorý dohľad nad zdravotnou starostlivosťou vykonal.
+
+- (2)
+
+- Úrad je povinný
+
+- a)
+
+- zaslať predbežný protokol dohliadanému subjektu bezodkladne po jeho vypracovaní na predloženie písomných námietok,
+
+- b)
+
+- vypracovať vyjadrenie k písomným námietkam,
+
+- c)
+
+- prerokovať písomné námietky do 60 dní odo dňa doručenia písomných námietok k predbežnému protokolu súčasne s
+
+- 1.
+
+- dohliadaným subjektom,
+
+- 2.
+
+- osobou oprávnenou na výkon dohľadu, ktorá dohľad nad zdravotnou starostlivosťou vykonala,
+
+- 3.
+
+- osobou, ktorá sa domnieva, že boli porušené jej práva alebo právom chránené záujmy pri poskytovaní zdravotnej starostlivosti alebo jej zákonným zástupcom, alebo blízkou osobou<sup>57</sup>) osoby, ktorej práva alebo právom chránené záujmy pri poskytovaní zdravotnej starostlivosti mohli byť porušené, ak osoba, ktorej práva alebo právom chránené záujmy pri poskytovaní zdravotnej starostlivosti mohli byť porušené, nežije,
+
+- d)
+
+- vyhotoviť zápisnicu z prerokovania písomných námietok k predbežnému protokolu,
+
+- e)
+
+- zaslať záverečný protokol do 30 dní od prerokovania písomných námietok k predbežnému protokolu; v prípade ak dohliadaný subjekt nepodá písomné námietky k zisteniam uvedeným v predbežnom protokole, úrad záverečný protokol nezašle a predbežný protokol sa považuje za záverečný protokol,
+
+- f)
+
+- skončiť výkon dohľadu nad zdravotnou starostlivosťou do 9 mesiacov od začatia výkonu dohľadu nad zdravotnou starostlivosťou, ak v odseku 10 nie je ustanovené inak; ak sa dohľad nad zdravotnou starostlivosťou vykonáva na podnet podávateľa podnetu, táto lehota začína plynúť odo dňa nasledujúceho po dni podania podnetu a ak je podnet neúplný, táto lehota začína plynúť odo dňa doručenia riadne doplneného podnetu.
+
+- (3)
+
+- Záverečný protokol obsahuje
+
+- a)
+
+- meno, priezvisko a adresu alebo obchodné meno a sídlo dohliadaného subjektu,
+
+- b)
+
+- číslo predbežného protokolu o výkone dohľadu nad zdravotnou starostlivosťou,
+
+- c)
+
+- zistené skutočnosti pri výkone dohľadu nad zdravotnou starostlivosťou s uvedením konkrétnych porušení ustanovení všeobecne záväzných právnych predpisov a s uvedením konkrétnych porušení vo vedení zdravotnej dokumentácie, ak sa výkon dohľadu nad zdravotnou starostlivosťou týka nesprávneho vedenia zdravotnej dokumentácie; úrad túto informáciu neuvádza, ak sú zistené skutočnosti rovnaké so zistenými skutočnosťami uvedenými v predbežnom protokole,
+
+- d)
+
+- dátum vypracovania záverečného protokolu,
+
+- e)
+
+- výsledok výkonu dohľadu nad zdravotnou starostlivosťou; úrad takúto informáciu neuvádza, ak je výsledok výkonu dohľadu nad zdravotnou starostlivosťou rovnaký ako výsledok výkonu dohľadu nad zdravotnou starostlivosťou uvedený v predbežnom protokole,
+
+- f)
+
+- meno, priezvisko a podpis zamestnanca úradu, ktorý výkon dohľadu nad zdravotnou starostlivosťou vykonal,
+
+- g)
+
+- námietky dohliadaného subjektu k predbežnému protokolu,
+
+- h)
+
+- zápisnicu z prerokovania písomných námietok k predbežnému protokolu,
+
+- i)
+
+- vyjadrenie úradu k námietkam dohliadaného subjektu k predbežnému protokolu a zápisnici z prerokovania písomných námietok a konkrétny spôsob zapracovania takýchto námietok do výsledku výkonu dohľadu nad zdravotnou starostlivosťou.
+
+- (4)
+
+- Zápisnica obsahuje
+
+- a)
+
+- meno, priezvisko a adresu alebo obchodné meno a sídlo dohliadaného subjektu,
+
+- b)
+
+- stanovisko zúčastnených osôb k predloženým písomným námietkam dohliadaného subjektu,
+
+- c)
+
+- meno, priezvisko a podpis osôb, ktoré vykonali dohľad nad zdravotnou starostlivosťou,
+
+- d)
+
+- meno, priezvisko a podpis dohliadaného subjektu alebo jeho zástupcu.
+
+- (5)
+
+- Súčasťou záverečného protokolu môžu byť opatrenia na odstránenie zistených nedostatkov alebo povinnosť prijať opatrenia na odstránenie zistených nedostatkov a ich príčin.
+
+- (6)
+
+- Výkon dohľadu nad zdravotnou starostlivosťou je skončený
+
+- a)
+
+- márnym uplynutím lehoty určenej podľa § 45 ods. 2 písm. c),
+
+- b)
+
+- doručením záverečného protokolu.
+
+- (7)
+
+- Predbežný protokol a záverečný protokol úrad uchováva desať rokov po skončení výkonu dohľadu nad zdravotnou starostlivosťou.
+
+- (8)
+
+- Úrad je povinný zverejňovať za každý kalendárny rok na svojom webovom sídle údaje o všetkých podnetoch na výkon dohľadu nad zdravotnou starostlivosťou, zisteniach uvedených v predbežnom protokole a záverečnom protokole bez uvedenia osobných údajov osoby, ktorej práva alebo právom chránené záujmy mohli byť porušené, konkrétnych porušeniach ustanovení všeobecne záväzných právnych predpisov a s uvedením konkrétnych porušení vo vedení zdravotnej dokumentácie, ak sa výkon dohľadu nad zdravotnou starostlivosťou týka nesprávneho vedenia zdravotnej dokumentácie, uložených opatreniach na odstránenie zistených nedostatkov, prijatých opatreniach na odstránenie zistených nedostatkov zistených skutočnostiach, vyhodnotení opatrení na odstránenie zistených nedostatkov a uložených pokutách; formu a štruktúru údajov určí a zverejní ministerstvo zdravotníctva na svojom webovom sídle.
+
+- (9)
+
+- Ak úrad uloží poskytovateľovi zdravotnej starostlivosti pokutu za nesprávne vedenie zdravotnej dokumentácie, je povinný o tom informovať orgán, ktorý tomuto poskytovateľovi zdravotnej starostlivosti vydal povolenie.
+
+- (10)
+
+- Lehotu podľa odseku 2 písm. f) môže predseda úradu predlžiť v prípadoch hodných osobitného zreteľa, najviac však o tri mesiace.“.
+
+- 53. V § 50 ods. 2 sa vypúšťajú slová „alebo ak úrad zistí porušenie povinností ustanovených v § 46 ods. 1“.
+
+- 54. V § 50 ods. 3 sa za slovo „Ak“ vkladajú slová „v odseku 13 nie je ustanovené inak, ak“.
+
+- 55. V § 50 ods. 5 sa za slová „ak úrad zistí“ vkladajú slová „porušenie povinností poskytovateľa zdravotnej starostlivosti v súvislosti s vedením zdravotnej dokumentácie,<sup>40aaa</sup>) alebo“.
+
+- 56. Poznámka pod čiarou k odkazu 71a znie:
+
+- „<sup>71a</sup>) § 79 ods. 1 písm. l) a w) zákona č. 578/2004 Z. z. v znení neskorších predpisov.“.
+
+- 57. § 50 sa dopĺňa odsekmi 12 až 14, ktoré znejú:
+
+- „(12)
+
+- Ak úrad pri výkone dohľadu nad poskytovaním zdravotnej starostlivosti zistí porušenie povinností ustanovených v § 46 ods. 1, podľa závažnosti zistených nedostatkov a ich následkov môže uložiť poskytovateľovi zdravotnej starostlivosti
+
+- a)
+
+- pokutu (§ 64 ods. 9) alebo
+
+- b)
+
+- zákaz výkonu zdravotníckeho povolania najviac na jeden rok; ak poskytovateľom zdravotnej starostlivosti je právnická osoba, zákaz výkonu zdravotníckeho povolania môže uložiť jej odbornému zástupcovi.
+
+- (13)
+
+- Ak úrad pri výkone dohľadu nad poskytovaním zdravotnej starostlivosti zistí porušenie povinnosti viesť zdravotnú dokumentáciu<sup>40aaa</sup>) podľa osobitného predpisu,<sup>40aaa</sup>) podľa závažnosti zistených nedostatkov a ich následkov môže uložiť poskytovateľovi zdravotnej starostlivosti pokutu (§ 64 ods. 10).
+
+- (14)
+
+- Ak úrad pri výkone dohľadu nad poskytovaním zdravotnej starostlivosti u toho istého poskytovateľa zdravotnej starostlivosti opakovane zistí, že zdravotná starostlivosť nebola poskytnutá správne,<sup>40</sup>) môže podľa závažnosti zistených nedostatkov a ich následkov uložiť poskytovateľovi zdravotnej starostlivosti pokutu až do výšky dvojnásobku pokuty uloženej podľa § 64 ods. 2 najviac do úhrnnej výšky dvojnásobku sumy uvedenej v § 64 ods. 2.“.
+
 - 58. V § 61 ods. 6 písm. c) sa slová „§ 20 ods. 2 písm. o)“ nahrádzajú slovami „§ 20 ods. 2 písm. n)“.
+
+- 59. V § 64 sa za odsek 7 vkladajú nové odseky 8 až 10, ktoré znejú:
+
+- „(8)
+
+- Úrad môže uložiť tretej osobe za porušenie povinnosti poskytnúť potrebnú súčinnosť pokutu až do výšky 330 eur, a to aj opakovane.
+
+- (9)
+
+- Úrad môže uložiť poskytovateľovi zdravotnej starostlivosti za podmienok ustanovených v § 50 ods. 12 pokutu až do výšky
+
+- a)
+
+- 3 319 eur, ak ide o fyzickú osobu,
+
+- b)
+
+- 9 958 eur, ak ide o právnickú osobu.
+
+- (10)
+
+- Úrad môže uložiť poskytovateľovi zdravotnej starostlivosti za podmienok ustanovených v § 50 ods. 13 pokutu až do výšky 9 958 eur.“.
+
+  - Doterajšie odseky 8 až 11 sa označujú ako 11 až 14.
+
+- 60. V § 64 ods. 12 sa slovo „dvoch“ nahrádza slovom „troch“ a slovo „troch“ sa nahrádza slovom „piatich“.
+
+- 61. V § 65 ods. 3 sa slová „§ 64 ods. 8 až 10“ nahrádzajú slovami „§ 64 ods. 9 až 14“.
 
 - 62. Za siedmu časť sa vkladá nová ôsma časť, ktorá vrátane nadpisu znie:
 

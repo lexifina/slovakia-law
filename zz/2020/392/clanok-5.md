@@ -40,6 +40,14 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
   - „<sup>55cb</sup>) § 67b ods. 3 zákona č. 581/2004 Z. z. v znení zákona č. 392/2020 Z. z.“.
 
+- 6. V § 81 ods. 1 písm. a) sa za slová „(§ 11), ak“ vkladajú slová „v osobitnom predpise nie je ustanovené inak<sup>59a</sup>) a“.
+
+  - Poznámka pod čiarou k odkazu 59a znie:
+
+  - „<sup>59a</sup>) § 64 ods. 10 zákona č. 581/2004 Z. z. v znení zákona č. 392/2020 Z. z.“.
+
+- 7. V § 81 ods. 1 písm. b) sa za slová „písmene f)“ vkladajú slová „alebo v osobitnom predpise <sup>59a</sup>)“.
+
 - 8. Za § 102al sa vkladá § 102am, ktorý vrátane nadpisu znie:
 
 - „§ 102am
