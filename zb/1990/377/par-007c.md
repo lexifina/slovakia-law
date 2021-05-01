@@ -1,0 +1,3 @@
+# § 7c Spolupráca Bratislavy a mestských častí
+
+Bratislava a mestské časti ako správcovia miestnych komunikácií môžu spolupracovať na základe zmluvy<sup>2a</sup>) aj na účel zabezpečenia odstraňovania vozidiel podľa osobitného zákona,<sup>2b</sup>) a to nariadenia odstránenia vozidla, technického výkonu jeho odstránenia a vymáhania nákladov za jeho odstránenie. Zabezpečením odstraňovania vozidiel môžu zmluvné strany poveriť aj inú niektorou z nich alebo nimi spoločne založenú alebo zriadenú právnickú osobu<sup>2c</sup>) za predpokladu, že v takto poverenej právnickej osobe má jedna zo zmluvných strán výlučnú majetkovú účasť alebo v ktorej majú viaceré zmluvné strany spoločne výlučnú majetkovú účasť.
