@@ -206,7 +206,7 @@
 
 - 37) § 43 zákona č. 581/2004 Z. z.
 
-- 37a) Zákon č. 152/1998 Z. z. o sťažnostiach.
+- 37a) § 43 ods. 13 zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 38) § 153 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
