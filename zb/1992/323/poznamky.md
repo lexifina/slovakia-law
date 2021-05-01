@@ -1,6 +1,6 @@
 - 1) § 7 a 9 zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 1a) Napríklad Občiansky súdny poriadok.
+- 1a) Napríklad Civilný mimosporový poriadok.
 
 - 1aa) Zákon č. 420/2004 Z. z. o mediácii a o doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -38,12 +38,6 @@
 
 - 5) Zákon č. 191/1950 Zb. zákon zmenkový a šekový.
 
-- 6) § 134 Občianskeho zákonníka.
-
-- 6a) Napríklad § 11 zákona č. 61/1977 Zb. o lesoch v znení zákona Národnej rady Slovenskej republiky č. 183/1993 Z. z., zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov, § 17 zákona č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov, § 34 ods. 2 prvá veta zákona Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov a § 6 zákona Národnej rady Slovenskej republiky č. 181/1995 Z. z. o pozemkových spoločenstvách.
-
-- 6b) Napríklad § 34 ods. 2 druhá veta zákona Slovenskej národnej rady č. 330/1991 Zb. v znení zákona č. 80/1998 Z. z., § 16 ods. 1 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom.
-
 - 6ba) Napríklad § 151ma ods. 5 Občianskeho zákonníka, § 14 a 32 zákona č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov v znení neskorších predpisov.
 
 - 6baa) Napríklad nariadenie Rady (ES) č. 2157/2001 z 8. októbra 2001 o stanovách európskej spoločnosti (SE) (Úradný vestník Európskych spoločenstiev L 294 z 10. novembra 2001), zákon č. 562/2004 Z. z. o európskej spoločnosti a o zmene a doplnení niektorých zákonov, zákon č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov.
@@ -62,4 +56,4 @@
 
 - 6d) § 181 ods. 1 Správneho súdneho poriadku.
 
-- 7) Občiansky súdny poriadok.
+- 7) Civilný mimosporový poriadok.
