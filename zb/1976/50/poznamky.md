@@ -98,6 +98,8 @@
 
 - 8a) § 65 až 69 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 527/2003 Z. z.
 
+- 8aa) § 45 ods. 2 písm. f) zákona č. 233/1995 Z. z. v znení neskorších predpisov.
+
 - 9) § 712 Občianskeho zákonníka.
 
 - § 5 zákona Slovenskej národnej rady č. 189/1992 Zb. o úprave niektorých pomerov súvisiacich s nájmom bytov a s bytovými náhradami.
