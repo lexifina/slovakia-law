@@ -43,3 +43,15 @@ Nariadenie vlády Slovenskej republiky č. 102/2020 Z. z. o niektorých opatreni
   - Poznámka pod čiarou k odkazu 1e znie:
 
   - „<sup>1e</sup>) § 293feh a 293fej zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 130/2021 Z. z.“.
+
+- 4. § 2 a 7 sa vypúšťajú.
+
+  - Poznámky pod čiarou k odkazom 1, 2, 7 a 8 sa vypúšťajú.
+
+- 5. V poznámke pod čiarou k odkazu 11 sa na konci pripájajú tieto slová: „o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov.“.
+
+- 6. V § 10 úvodnej vete sa nad slovami „nezníženej podľa osobitného predpisu“ odkaz „<sup>1</sup>)“ nahrádza odkazom „<sup>12a</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 12a znie:
+
+  - „<sup>12a</sup>) § 10 ods. 3 až 13 zákona č. 417/2013 Z. z. v znení neskorších predpisov.“.
