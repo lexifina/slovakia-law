@@ -16,7 +16,7 @@
 
 - c) ak ide o cesty a miestne komunikácie pre cestnú nemotorovú dopravu vo vlastníctve samosprávneho kraja, samosprávny kraj, prípadne právnické osoby ním na tento účel založené alebo zriadené,
 
-- d) ak ide o prejazdné úseky ciest vo vlastníctve obce, o miestne komunikácie a účelové komunikácie vo vlastníctve obce – obce, prípadne právnické osoby nimi na tento účel založené alebo zriadené,
+- d) ak ide o prejazdné úseky ciest vo vlastníctve obce, o miestne komunikácie a účelové komunikácie vo vlastníctve obce – obce, prípadne právnické osoby nimi na tento účel založené alebo zriadené, ak osobitný predpis<sup>2caa</sup>) neustanovuje inak,
 
 - e) ak ide o účelové komunikácie vo vlastníctve štátu<sup>2b</sup>) – právnické osoby, ktorým celkom alebo prevažne slúžia,
 
