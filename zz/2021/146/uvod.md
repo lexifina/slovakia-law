@@ -1,0 +1,9 @@
+## 146
+
+ZÁKON
+
+z 31. marca 2021,
+
+## ktorým sa mení a dopĺňa zákon č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov
+
+Národná rada Slovenskej republiky sa uzniesla na tomto zákone:
