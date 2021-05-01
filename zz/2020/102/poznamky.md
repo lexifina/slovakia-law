@@ -1,5 +1,3 @@
-- 1) § 10 ods. 3 až 13 zákona č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 1a) § 3 ods. 2 zákona č. 571/2009 Z. z. o rodičovskom príspevku a o zmene a doplnení niektorých zákonov.
 
 - 1b) § 2 zákona č. 571/2009 Z. z.
@@ -10,15 +8,11 @@
 
 - 1e) § 293feh a 293fej zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 130/2021 Z. z.
 
-- 2) § 10 ods. 3 zákona č. 417/2013 Z. z. v znení neskorších predpisov.
-
-- 7) § 11 ods. 2 písm. b) zákona č. 417/2013 Z. z. v znení zákona č. 42/2019 Z. z.
-
-- 8) § 12 ods. 3 písm. b) tretí bod až šiesty bod zákona č. 417/2013 Z. z. v znení zákona č. 42/2019 Z. z.
-
-- 11) § 12 ods. 3 písm. a) zákona č. 417/2013 Z. z.
+- 11) § 12 ods. 3 písm. a) zákona č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov.
 
 - 12) § 12 ods. 3 písm. b) piaty bod a šiesty bod zákona č. 417/2013 Z. z. v znení neskorších predpisov.
+
+- 12a) § 10 ods. 3 až 13 zákona č. 417/2013 Z. z. v znení neskorších predpisov.
 
 - 13) Zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
