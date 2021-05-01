@@ -430,6 +430,8 @@
 
 - 59) § 24 a 25 zákona č. 576/2004 Z. z.
 
+- 59a) § 64 ods. 10 zákona č. 581/2004 Z. z. v znení zákona č. 392/2020 Z. z.
+
 - 60) Napríklad zákon Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v znení neskorších predpisov.
 
 - 60aa) § 119 ods. 3 Zákonníka práce.
