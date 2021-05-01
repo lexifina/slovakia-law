@@ -216,6 +216,10 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Za zápis závetu a listiny o vydedení do zoznamu závetov (listín) | 6,50 eura
 
+- Položka 18f |
+
+- Za návrh na začatie konania o potvrdení vydržania | 99,50 eura
+
 - Spoločná poznámka k položkám 1 až 18e: Poznámky č. 2, 3, 4, 6, 7 k položke 1 platia podľa povahy veci aj pre položky 1 až 18e sadzobníka. |
 
 - II. Poplatky za úkony súdov |
