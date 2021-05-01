@@ -46,6 +46,8 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
 - individuálne pripravovaného humánneho lieku so špecifickými podmienkami výroby a dodania do 30 dní,“.
 
+- 3. V § 23 ods. 1 písm. s) sa za slová „lekárske predpisy označené šikmým modrým pruhom,“ vkladajú slová „pri ktorých predpisujúci lekár nevytvoril preskripčný záznam,“.
+
 - 4. V § 106 ods. 6 sa slová „§ 119 ods. 21“ nahrádzajú slovami „§ 119 ods. 23“.
 
 - 5. § 119 vrátane nadpisu znie:
@@ -478,6 +480,14 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
 - Ustanovenie odseku 1 písm. v) sa nevzťahuje na lekársky predpis, lekársky predpis označený šikmým modrým pruhom a lekársky poukaz vystavený ručne z dôvodu nefunkčnosti technických zariadení alebo ručne pri poskytovaní zdravotnej starostlivosti formou návštevnej služby v domácom prostredí alebo v inom prirodzenom prostredí osoby, ktorej sa ambulantná starostlivosť poskytuje. Predpisujúci lekár je povinný bezodkladne po opätovnom sfunkčnení technických zariadení alebo po poskytnutí takejto zdravotnej starostlivosti vytvoriť preskripčný záznam. Ak lekársky predpis neobsahuje identifikátor záznamu podľa odseku 1 písm. v), predpísaný počet balení humánneho lieku nesmie prekročiť počet balení potrebných na liečbu pacienta v trvaní troch mesiacov, ak pacient predpísaný liek pravidelne užíva; tým nie je dotknuté ustanovenie odseku 1 písm. h).“.
 
+- 8. V § 120 odsek 8 znie.
+
+- „(8) Pri predpisovaní humánnych liekov s obsahom omamnej látky II. skupiny alebo psychotropných látok II. skupiny sa evidencia dokladov preukazujúcich príjem a výdaj omamných a psychotropných látok<sup>83ab</sup>) vykonáva prostredníctvom preskripčných a dispenzačných záznamov.“.
+
+  - Poznámka pod čiarou k odkazu 83ab znie:
+
+  - „<sup>83ab</sup>) § 30 zákona č. 139/1998 Z. z. v znení neskorších predpisov.“.
+
 - 9. § 121 vrátane nadpisu znie:
 
 - „§ 121
@@ -573,6 +583,8 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 - písm. g),“.
 
 - 13. V § 138 ods. 5 písm. i) sa za slová „vydá bez“ vkladajú slová „preskripčného záznamu,“.
+
+- 14. V § 138 ods. 5 písm. q) sa za slovo „pruhom“ vkladá čiarka a slová „pri ktorých predpisujúci lekár nevytvoril preskripčný záznam,“.
 
 - 15. V § 138 ods. 5 písm. t) druhom bode sa za slová „lekárňou na“ vkladajú slová „preskripčný záznam,“ a štvrtom bode sa za slová „verejnosti na“ vkladajú slová „preskripčný záznam“.
 
