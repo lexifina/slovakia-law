@@ -304,6 +304,8 @@
 
 - 40aa) Zákon č. 231/2019 Z. z. o výkone detencie a o zmene a doplnení niektorých zákonov.
 
+- 40aaa) § 19 až 21 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+
 - 41) Nariadenie Rady (EHS) č. 574/72 z 21. marca 1972, ktorým sa ustanovuje postup na vykonávanie nariadenia Rady (EHS) č. 1408/71 o uplatňovaní systémov sociálneho zabezpečenia na zamestnané osoby, samostatne zárobkovo činné osoby a ich rodinných príslušníkov, ktorí sa pohybujú v rámci spoločenstva (Úradný vestník Európskych spoločenstiev L 28, 30.01.1977) v platnom znení.
 
 - 41aa) § 35 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -430,11 +432,15 @@
 
 - 61b) § 33 ods. 6 zákona č. 578/2004 Z. z. v znení zákona č. 351/2005 Z. z.
 
+- 61c) § 4 zákona č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 62) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
 
 - 63) § 25 ods. 1 písm. e) zákona č. 576/2004 Z. z.
 
 - 63a) § 89 ods. 9 Trestného zákona.
+
+- 63aa) Napríklad § 5 ods. 4, § 18 ods. 3, § 49 zákona č. 576/2004 Z. z. v znení neskorších predpisov a § 30a ods. 4 a 5, 64 ods. 6 a § 80 ods. 3 až 7 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
 - 63b) § 3 ods. 1 písm. g) zákona č. 578/2004 Z. z. v znení zákona č. 351/2017 Z. z.
 
@@ -476,7 +482,7 @@
 
 - 71) § 81 ods. 1 písm. a) a b) zákona č. 578/2004 Z. z. v znení zákona č. 351/2005 Z. z.
 
-- 71a) § 79 ods. 1 písm. w) zákona č. 578/2004 Z. z. v znení neskorších predpisov.
+- 71a) § 79 ods. 1 písm. l) a w) zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
 - 72) Zákon č. 599/2001 Z. z. o osvedčovaní listín a podpisov na listinách obvodnými úradmi a obcami v znení zákona č. 515/2003 Z. z.
 
