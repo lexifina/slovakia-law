@@ -10,7 +10,9 @@
 
 - c) núdzové zásobovanie a núdzové ubytovanie alebo
 
-- d) použitie základných zložiek integrovaného záchranného systému a ostatných zložiek integrovaného záchranného systému.<sup>1</sup>)
+- d) použitie základných zložiek integrovaného záchranného systému a ostatných zložiek integrovaného záchranného systému,<sup>1</sup>)
+
+- e) nariadenie vykonávania niektorých opatrení hospodárskej mobilizácie v súlade s osobitným predpisom,<sup>1aa</sup>) ak je to vzhľadom na povahu mimoriadnej udalosti potrebné.
 
 (3) Príslušný orgán, ktorý vyhlásil mimoriadnu situáciu, je povinný bezodkladne odvolať mimoriadnu situáciu po vykonaní úloh a opatrení podľa odseku 2.
 
