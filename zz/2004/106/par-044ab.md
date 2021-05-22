@@ -22,7 +22,7 @@ cigarety | 74,60 eura/1 000 kusov | 23 % z ceny cigariet.
 
 (8) Na kontrolných známkach určených na označovanie spotrebiteľských balení tabaku je od 1. februára 2021 uvedený znak pre sadzbu dane, ktorým je veľké písmeno „D“.
 
-(9) Spotrebiteľské balenie tabaku označené kontrolnou známkou, na ktorej je znak pre platnosť sadzby spotrebnej dane, ktorým je veľké písmeno „C“, možno uvádzať do daňového voľného obehu do 31. januára 2021 a predávať do 31. júla 2021; po tomto dátume sa takto označené spotrebiteľské balenie tabaku považuje za neoznačené. Osoba, ktorá je oprávnená v rámci podnikania predávať spotrebiteľské balenia tabaku a ktorá skladuje spotrebiteľské balenia tabaku uvedené v prvej vete, ktoré nepredala do 31. júla 2021, je povinná do 15. augusta 2021 oznámiť miestne príslušnému colnému úradu množstvo takýchto spotrebiteľských balení tabaku a zároveň v tejto lehote požiadať colný úrad o ich zničenie, pričom colný úrad takéto spotrebiteľské balenia tabaku zničí na náklady tejto osoby a o zničení vyhotoví úradný záznam o zničení; ustanovenie § 41 ods. 1 písm. a) sa nepoužije.
+(9) Spotrebiteľské balenie tabaku označené kontrolnou známkou, na ktorej je znak pre platnosť sadzby spotrebnej dane, ktorým je veľké písmeno „C“, možno uvádzať do daňového voľného obehu do 31. januára 2021 a predávať do 31. januára 2022; po tomto dátume sa takto označené spotrebiteľské balenie tabaku považuje za neoznačené. Osoba, ktorá je oprávnená v rámci podnikania predávať spotrebiteľské balenia tabaku a ktorá skladuje spotrebiteľské balenia tabaku uvedené v prvej vete, ktoré nepredala do 31. januára 2022, je povinná do 15. februára 2022 oznámiť miestne príslušnému colnému úradu množstvo takýchto spotrebiteľských balení tabaku a zároveň v tejto lehote požiadať colný úrad o ich zničenie, pričom colný úrad takéto spotrebiteľské balenia tabaku zničí na náklady tejto osoby a o zničení vyhotoví úradný záznam o zničení; ustanovenie § 41 ods. 1 písm. a) sa nepoužije.
 
 (10) V období od 1. februára 2021 do 31. januára 2022 sa sadzba dane z tabaku v bezdymovom tabakovom výrobku ustanovuje vo výške 132,20 eura/kg.
 
@@ -40,7 +40,7 @@ cigarety | 79,60 eura/1 000 kusov | 23 % z ceny cigariet.
 
 (14) V období od 1. februára 2022 do 31. januára 2023 je minimálna sadzba dane z cigariet 124,30 eura/1 000 kusov.
 
-(15) Spotrebiteľské balenie cigariet uvedené do daňového voľného obehu od 1. februára 2022 musí byť označené kontrolnou známkou, na ktorej je uvedený znak, ktorým je veľké písmeno „I“, označujúci platnosť sadzby dane z cigariet účinnú od 1. februára 2021.
+(15) Spotrebiteľské balenie cigariet uvedené do daňového voľného obehu od 1. februára 2022 musí byť označené kontrolnou známkou, na ktorej je uvedený znak, ktorým je veľké písmeno „I“, označujúci platnosť sadzby dane z cigariet účinnú od 1. februára 2022.
 
 (16) Spotrebiteľské balenie cigariet označené kontrolnou známkou podľa predpisu účinného do 31. januára 2022 je zakázané uvádzať do daňového voľného obehu po 31. januári 2022.
 
