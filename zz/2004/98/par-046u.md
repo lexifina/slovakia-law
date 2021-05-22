@@ -62,7 +62,7 @@
 
 - g) má vydané povolenie podľa osobitného prepisu,<sup>6baa</sup>) ak je žiadateľom podľa odseku 6.
 
-(10) Colný úrad pred vydaním povolenia na použitie a odberného poukazu preverí skutočnosti a údaje uvedené v žiadosti podľa odsekov 5 a 6 a v prílohách podľa odseku 8. Ak sú tieto skutočnosti a údaje pravdivé a žiadateľ spĺňa podmienky podľa odseku 9, colný úrad vydá žiadateľovi povolenie na použitie a odberný poukaz do 60 dní odo dňa podania tejto žiadosti. Colný úrad v povolení na použitie uvedie údaje podľa odseku 6 písm. a), druh a príslušný kód kombinovanej nomenklatúry daňovo zvýhodneného minerálneho oleja podľa § 11 ods. 3 písm. c) v znení účinnom od 1. júla 2021 a účel použitia tohto minerálneho oleja.
+(10) Colný úrad pred vydaním povolenia na použitie a odberného poukazu preverí skutočnosti a údaje uvedené v žiadosti podľa odsekov 5 a 6 a v prílohách podľa odseku 8. Ak sú tieto skutočnosti a údaje pravdivé a žiadateľ spĺňa podmienky podľa odseku 9, colný úrad vydá žiadateľovi povolenie na použitie a odberný poukaz do 60 dní odo dňa podania tejto žiadosti. Colný úrad v povolení na použitie uvedie údaje podľa odseku 6 písm. a), druh a príslušný kód kombinovanej nomenklatúry daňovo zvýhodneného minerálneho oleja podľa § 11 ods. 3 v znení účinnom od 1. júla 2021 a účel použitia tohto minerálneho oleja.
 
 (11) Colný úrad vydá žiadateľovi odberný poukaz pre každého dodávateľa daňovo zvýhodneného minerálneho oleja uvedeného v odseku 6 písm. d), v ktorom uvedie lehotu platnosti odberného poukazu a povolené množstvo odberu daňovo zvýhodneného minerálneho oleja. Colný úrad vydá odberný pokaz v dvoch vyhotoveniach; jedno vyhotovenie doručí žiadateľovi a druhé dodávateľovi daňovo zvýhodneného minerálneho oleja uvedenému v odbernom poukaze. Ak užívateľský podnik postupuje podľa § 29 ods. 4, vyhotovenie odberného poukazu určené pre dodávateľa daňovo zvýhodneného minerálneho oleja colný úrad nevydáva.
 
@@ -115,3 +115,5 @@
 (17) Ak bola v období od 1. júla 2021 do 12. februára 2023 osobe opakovane uložená pokuta za správny delikt podľa odseku 15 písm. o) a colný úrad zistí, že nebola vykonaná náprava, podá podnet na miestne príslušný živnostenský úrad na konanie podľa osobitného predpisu.<sup>30aa</sup>)
 
 (18) Ak konanie o správnom delikte podľa odseku 15 v znení účinnom do 12. februára 2023 nebolo právoplatne ukončené do 12. februára 2023, ukončí sa podľa predpisu účinného do 12. februára 2023 a na pokutu sa vzťahuje odsek 16.
+
+(20) Daň z minerálneho oleja preukázateľne zdaneného na daňovom území možno vrátiť užívateľskému podniku podľa § 11 zákona v znení účinnom do 30. júna 2021, ak použil tento minerálny olej do 30. júna 2021 na účely oslobodené od dane uvedené v odbernom poukaze platnom do 30. júna 2021.
