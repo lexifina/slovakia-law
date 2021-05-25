@@ -2,7 +2,7 @@
 
 (1) Združenie,<sup>9aa</sup>) zväz výrobcov poľnohospodárskych výrobkov alebo potravín alebo zväz spracovateľov poľnohospodárskych výrobkov alebo potravín alebo fyzická osoba alebo právnická osoba, ktorá v čase podania prihlášky ako jediná výrobok vyrába, spracúva a pripravuje, môže prostredníctvom Úradu priemyselného vlastníctva Slovenskej republiky požiadať o ochranu označenia pôvodu alebo zemepisného označenia.<sup>9aaa</sup>)
 
-(2) Pred podaním žiadosti o ochranu označenia pôvodu alebo zemepisného označenia musí byť špecifikácia poľnohospodárskeho výrobku alebo potraviny a technická dokumentácia liehovín uchádzajúcich sa o zápis zemepisného označenia a zavedených zemepisných označení liehovín<sup>9abc</sup>) odborne posúdená a odsúhlasená ministerstvom.
+(2) Pred podaním žiadosti o ochranu označenia pôvodu alebo zemepisného označenia musí byť špecifikácia poľnohospodárskeho výrobku alebo potraviny a špecifikácia liehovín uchádzajúcich sa o zápis zemepisného označenia a zavedených zemepisných označení liehovín<sup>9abc</sup>) odborne posúdená a odsúhlasená ministerstvom.
 
 (3) Žiadosť o zápis do registra označení zaručených tradičných špecialít z poľnohospodárskeho výrobku alebo potraviny uverejní ministerstvo vo Vestníku Ministerstva pôdohospodárstva Slovenskej republiky (ďalej len „vestník ministerstva").
 
