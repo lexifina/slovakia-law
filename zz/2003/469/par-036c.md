@@ -1,11 +1,5 @@
-# § 36c
+# § 36c Zmena špecifikácie výrobku
 
-(1) Po zverejnení podstatných náležitostí žiadosti o ochranu pre vína vo vestníku môže namietateľ podať v lehote troch mesiacov od tohto zverejnenia úradu námietky proti tejto žiadosti. Námietky musia byť odôvodnené a musia v nich byť označené dôkazy, z ktorých vyplýva, že prihlasované označenie pôvodu alebo zemepisné označenie nespĺňa podmienky ustanovené osobitným predpisom<sup>8d</sup>) na zápis do registra chránených označení pôvodu a zemepisných označení vedeného Európskou komisiou.<sup>8e</sup>)
+(1) Žiadosť o zmenu špecifikácie výrobku s pôvodom v Slovenskej republike alebo v cezhraničnej zemepisnej oblasti sa podáva úradu.
 
-(2) Ak úrad zistí, že námietky neboli podané namietateľom, včas, nie sú riadne odôvodnené alebo v nich neboli označené dôkazy, z ktorých vyplýva, že prihlasované označenie pôvodu alebo zemepisné označenie nespĺňa podmienky ustanovené osobitným predpisom<sup>8d</sup>) na zápis do registra chránených označení pôvodu a zemepisných označení vedeného Európskou komisiou,<sup>8e</sup>) úrad konanie o námietkach zastaví. Rozhodnutie o zastavení konania o námietkach úrad doručí žiadateľovi a namietateľovi.
-
-(3) Úrad námietky, o ktorých sa konanie nezastavilo podľa odseku 2, zašle žiadateľovi; zároveň vyzve žiadateľa a namietateľa, aby rozpor odstránili zmierom v lehote dvoch mesiacov. Ak rozpor nebol odstránený, žiadateľ a namietateľ zašlú úradu svoje vyjadrenia v lehote jedného mesiaca od márneho uplynutia lehoty na ukončenie konania zmierom.
-
-(4) Ak sa nepodarí zmierovacím konaním odstrániť rozpor medzi žiadateľom a namietateľom podľa odseku 3, rozhodne o námietkach úrad. Ak sa námietky týkajú špecifikácie výrobku alebo vymedzenia zvláštnosti zemepisného prostredia,<sup>8f</sup>) úrad požiada pred rozhodnutím o námietkach ministerstvo o vyjadrenie, či sú námietky oprávnené.
-
-(5) Ak úrad v konaní o námietkach zistí, že prihlásené označenie nespĺňa podmienky ustanovené osobitným predpisom,<sup>8d</sup>) žiadosť o ochranu pre vína zamietne; v opačnom prípade zamietne námietky.
+(2) Ak ide o zmenu špecifikácie výrobku, ktorá je podľa osobitného predpisu považovaná za podstatnú zmenu<sup>8h</sup>) alebo za zmenu na úrovni Európskej únie,<sup>8i</sup>) na konanie o tejto zmene sa primerane použijú § 32 až 34 a § 36 až 36b.
