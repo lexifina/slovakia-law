@@ -356,6 +356,16 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
   - <sup>104</sup>) Príloha č. 9 časť III bod 2.1. písm. c) a bod 2.4. nariadenia vlády Slovenskej republiky č. 166/2020 Z. z.“.
 
+- 3. § 145 sa dopĺňa ôsmym a deviatym bodom, ktoré znejú:
+
+- „8.
+
+- Nariadenie vlády Slovenskej republiky č. 167/2020 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody aktívnych implantovateľných zdravotníckych pomôcok.
+
+- 9.
+
+- Nariadenie vlády Slovenskej republiky č. 166/2020 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody zdravotníckych pomôcok.“.
+
 - 4. Príloha č. 2 sa dopĺňa bodmi 14 a 15, ktoré znejú:
 
 - „14.
