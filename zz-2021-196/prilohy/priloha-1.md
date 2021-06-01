@@ -1,0 +1,1 @@
+Príloha č. 1 k nariadeniu vlády č. 196/2021 Z. z. [VYMEDZENIE HRANICE PRÍRODNEJ PAMIATKY](../assets/37a07f9c954766add92e0a8ea083082177de54ec072dbd4603e9d57203732714.pdf)
