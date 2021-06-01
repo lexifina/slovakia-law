@@ -1,0 +1,1 @@
+Príloha č. 1 k nariadeniu vlády č. 195/2021 Z. z. [VYMEDZENIE HRANICE PRÍRODNEJ REZERVÁCIE](../assets/3ebe49584c5f4308a4d9ed06957c4d20f2003e7137e22688b5ba3294782a51b5.pdf)
