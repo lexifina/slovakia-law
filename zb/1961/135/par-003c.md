@@ -8,7 +8,7 @@
 
 - c) nad cestami II. a III. triedy okresné úrady,
 
-- d) nad miestnymi komunikáciami a účelovými komunikáciami obce.
+- d) nad miestnymi cestami a účelovými cestami obce.
 
 (2) Orgány štátneho odborného dozoru dbajú na zabezpečenie ochrany pozemných komunikácií a dozerajú, či sa dodržiavajú povinnosti a podmienky užívania pozemných komunikácií ustanovené týmto zákonom, predpismi vydanými na jeho vykonanie, ako aj opatrenia cestných správnych orgánov.
 
@@ -18,4 +18,4 @@
 
 (5) Zamestnanci poverení výkonom štátneho odborného dozoru sú povinní viesť užívateľov k ochrane pozemných komunikácií a k zachovávaniu poriadku na nich. Sú oprávnení zisťovať totožnosť osôb, ktorých konanie ohrozuje pozemnú komunikáciu alebo prevádzku na nej. Pri výkone štátneho odborného dozoru sú povinní preukázať sa preukazom.
 
-(6) Dohľad na výkon štátneho odborného dozoru nad cestami, miestnymi komunikáciami a účelovými komunikáciami patrí ministerstvu (hlavný štátny odborný dozor).
+(6) Dohľad na výkon štátneho odborného dozoru nad cestami, miestnymi cestami a účelovými cestami patrí ministerstvu (hlavný štátny odborný dozor).

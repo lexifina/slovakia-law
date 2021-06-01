@@ -1,9 +1,7 @@
 # § 4a Cesty
 
-(1) Cesty vrátane ich prejazdných úsekov cez colné priestory a obce sú pozemné komunikácie zaradené do cestnej siete. Do cestnej siete patria aj pozemné komunikácie mimo súvisle zastavaného územia alebo územia určeného na zastavanie, ktoré spájajú železničné stanice, terminály kombinovanej dopravy, letiská pre pravidelnú verejnú dopravu a verejné prístavy s diaľnicami a cestami, ak neslúžia ako účelové komunikácie prevažne na prevádzku alebo na správu týchto zariadení.
+(1) Cesty I. triedy sú štátne cesty, ktoré majú nadregionálny dopravný význam a vzájomne prepájajú dopravné centrá vyššej úrovne a pripájajú ich k diaľniciam.
 
-(2) Účelné usporiadanie cestnej siete sa zabezpečuje výstavbou nových ciest alebo zaradením miestnych komunikácií, prípadne účelových komunikácií do cestnej siete. Cesty, ktoré nie sú potrebné na účelné usporiadanie cestnej siete, môžu sa z tejto siete vyradiť a zaradiť do siete miestnych komunikácií alebo preradiť medzi účelové komunikácie alebo zrušiť.
+(2) Cesty II. triedy sú krajské cesty, ktoré majú regionálny dopravný význam a vzájomne prepájajú dopravné centrá nižšej úrovne a pripájajú ich k diaľniciam a cestám I. triedy.
 
-(3) Medzinárodné cestné ťahy sú pozemné komunikácie zaradené do niektorej z medzinárodných cestných sústav, ktorých usporiadanie je určené medzinárodnými dohodami.
-
-(4) Ak usporiadanie cestnej siete vyžaduje zmenu vlastníckych vzťahov k pozemnej komunikácii, môže ministerstvo vydať rozhodnutie o usporiadaní cestnej siete [§ 3 ods. 3 písm. d)] iba na základe zmluvy o budúcej zmluve o prevode vlastníckeho práva k dotknutej pozemnej komunikácii uzatvorenej medzi terajším vlastníkom a budúcim vlastníkom. Do ukončenia prevodu vlastníckeho práva k dotknutej pozemnej komunikácii vykonáva všetky práva a povinnosti k tejto pozemnej komunikácii jej doterajší správca alebo vlastník. So súhlasom ministerstva sa prevod vlastníckeho práva k pozemnej komunikácii na obce alebo na samosprávne kraje môže vykonať bezodplatne. Na konanie o udelenie súhlasu sa nevzťahujú všeobecné predpisy o správnom konaní.<sup>1</sup>)
+(3) Cesty III. triedy sú lokálne cesty, ktoré vzájomne prepájajú ostatné sídelné útvary a pripájajú ich k cestám I. a II. triedy, výnimočne k diaľniciam.

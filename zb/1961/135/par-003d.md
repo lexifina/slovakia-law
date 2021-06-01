@@ -4,9 +4,9 @@
 
 (2) Cesty II. triedy a III. triedy vrátane ich prejazdných úsekov cez obce sú vo vlastníctve samosprávneho kraja, ak osobitný predpis<sup>2a</sup>) neustanovuje inak. Prejazdné úseky ciest II. a III. triedy cez colné priestory sú vo vlastníctve štátu.
 
-(3) Miestne komunikácie sú vo vlastníctve obcí. Miestne komunikácie pre cestnú nemotorovú dopravu sú vo vlastníctve štátu, samosprávneho kraja, obce alebo iných právnických osôb alebo fyzických osôb.
+(3) Miestne cesty sú vo vlastníctve obcí. Miestne cesty pre cestnú nemotorovú dopravu sú vo vlastníctve štátu, samosprávneho kraja, obce alebo iných právnických osôb alebo fyzických osôb.
 
-(4) Účelové komunikácie sú vo vlastníctve štátu<sup>2b</sup>) alebo iných právnických osôb alebo fyzických osôb.
+(4) Účelové cesty sú vo vlastníctve štátu<sup>2b</sup>) alebo iných právnických osôb alebo fyzických osôb.
 
 (5) Správu pozemných komunikácií vykonávajú,
 
@@ -14,11 +14,11 @@
 
 - b) ak ide o cesty vo vlastníctve štátu okrem ich prejazdných úsekov cez colné priestory – právnické osoby na tento účel zriadené ministerstvom,<sup>2c</sup>)
 
-- c) ak ide o cesty a miestne komunikácie pre cestnú nemotorovú dopravu vo vlastníctve samosprávneho kraja, samosprávny kraj, prípadne právnické osoby ním na tento účel založené alebo zriadené,
+- c) ak ide o cesty a miestne cesty pre cestnú nemotorovú dopravu vo vlastníctve samosprávneho kraja, samosprávny kraj, prípadne právnické osoby ním na tento účel založené alebo zriadené,
 
-- d) ak ide o prejazdné úseky ciest vo vlastníctve obce, o miestne komunikácie a účelové komunikácie vo vlastníctve obce – obce, prípadne právnické osoby nimi na tento účel založené alebo zriadené, ak osobitný predpis<sup>2caa</sup>) neustanovuje inak,
+- d) ak ide o prejazdné úseky ciest vo vlastníctve obce, o miestne cesty a účelové cesty vo vlastníctve obce – obce, prípadne právnické osoby nimi na tento účel založené alebo zriadené, ak osobitný predpis<sup>2caa</sup>) neustanovuje inak,
 
-- e) ak ide o účelové komunikácie vo vlastníctve štátu<sup>2b</sup>) – právnické osoby, ktorým celkom alebo prevažne slúžia,
+- e) ak ide o účelové cesty vo vlastníctve štátu<sup>2b</sup>) – právnické osoby, ktorým celkom alebo prevažne slúžia,
 
 - f) ak ide o prejazdné úseky cez colné priestory – príslušné colné orgány po dohode s cestným správnym orgánom a správcom diaľnice alebo cesty vedúcej k hraničnému priechodu,
 
@@ -28,7 +28,7 @@
 
 (7) Súčasti diaľnic a ciest vo vlastníctve štátu sa môžu prenechať v nájme, po odsúhlasení ministerstvom, na základe nájomnej zmluvy. Na prenajatých súčastiach diaľnic a ciest možno zriadiť a prevádzkovať stavby slúžiace užívateľom diaľnic a ciest, najmä motoresty, motely, čerpacie stanice pohonných látok, reklamné stavby, iné zariadenia, a tiež stavby súvisiace s prevádzkou týchto stavieb.
 
-(8) Správcovia diaľnic, ciest a miestnych komunikácií vedú o týchto pozemných komunikáciách technickú evidenciu.
+(8) Správcovia diaľnic, ciest a miestnych ciest vedú o týchto pozemných komunikáciách technickú evidenciu.
 
 (9) Samosprávny kraj
 
@@ -42,9 +42,9 @@
 
 - a) informačný systém zimnej spravodajskej služby ako súčasť jednotného informačného systému zimnej spravodajskej služby a údaje o stave zjazdnosti pozemných komunikácií vo svojom vlastníctve poskytujú bezplatne ministerstvu,
 
-- b) technickú evidenciu ciest a miestnych komunikácií v ich vlastníctve v súlade s centrálnou evidenciou,
+- b) technickú evidenciu ciest a miestnych ciest v ich vlastníctve v súlade s centrálnou evidenciou,
 
-- c) stavebnotechnické vybavenie ciest a miestnych komunikácií v ich vlastníctve podľa potrieb cestnej dopravy a obrany štátu.
+- c) stavebnotechnické vybavenie ciest a miestnych ciest v ich vlastníctve podľa potrieb cestnej dopravy a obrany štátu.
 
 (11) Samosprávny kraj je povinný zachovať účelové určenie majetku, ktorý nadobudol do svojho vlastníctva podľa tohto zákona, počas jeho upotrebiteľnosti.
 

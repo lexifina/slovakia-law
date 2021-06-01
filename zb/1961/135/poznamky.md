@@ -38,6 +38,10 @@
 
 - 2cbd) Zákon č. 45/2011 Z. z. o kritickej infraštruktúre.
 
+- 2cbe) § 611 Občianskeho zákonníka.
+
+- 2cbf) § 11 ods. 4 a 9 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
+
 - 2d) Vyhláška Federálneho ministerstva vnútra č. 99/1989 Zb. o pravidlách premávky na pozemných komunikáciách (pravidlá cestnej premávky) v znení neskorších predpisov.
 
 - 2da) Zákon č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky v znení zákona č. 512/2002 Z. z.
@@ -80,13 +84,17 @@
 
 - 3a) § 69 ods. 1 písm. f) zákona č. 8/2009 Z. z. v znení zákona č. 144/2010 Z. z.
 
-- 3b) Zákon č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 3b) § 16 zákona č. 157/2018 Z. z. o metrológii a o zmene a doplnení niektorých zákonov.
+
+- 3ba) § 17 zákona č. 157/2018 Z. z.
 
 - 3c) § 44 ods. 12 a 13 a § 69 ods. 2 a 7 zákona č. 106/2018 Z. z. o prevádzke vozidiel v cestnej premávke a o zmene a doplnení niektorých zákonov.
 
 - 3d) Čl. 18 nariadenia Európskeho parlamentu a Rady (ES) č. 1071/2009 z 21. októbra 2009, ktorým sa ustanovujú spoločné pravidlá týkajúce sa podmienok, ktoré je potrebné dodržiavať pri výkone povolania prevádzkovateľa cestnej dopravy, a ktorým sa zrušuje smernica Rady 96/26/ES (Ú. v. EÚ L 300, 14. 11. 2009) v platnom znení.
 
 - 3e) Nariadenie Európskeho parlamentu a Rady (ES) č. 1100/2008 z 22. októbra 2008 o odstránení kontrol vykonávaných na hraniciach členských štátov v cestnej a vnútrozemskej vodnej doprave (kodifikované znenie) (Ú. v. EÚ L 304, 14. 11. 2008).
+
+- 3f) § 11 ods. 2 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 4) § 6 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení.
 
