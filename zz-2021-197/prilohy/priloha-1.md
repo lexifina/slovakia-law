@@ -1,0 +1,1 @@
+Príloha č. 1 k nariadeniu vlády č. 197/2021 Z. z. [VYMEDZENIE HRANICE CHRÁNENÉHO AREÁLU](../assets/93d4ec71ec189247d313cb61430c26d3235009b80f11fee1742005497f882079.pdf)
