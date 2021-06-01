@@ -276,7 +276,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Oslobodenie | | |
 
-  - 1. Od poplatkov podľa tejto položky sú oslobodené obce a vyššie územné celky, ak žiadajú o vykonanie týchto spoplatňovaných úkonov na účely usporiadania vlastníckych práv k pozemným komunikáciám a ku školám, ktoré prešli do ich pôsobnosti podľa osobitných predpisov. 2. Od poplatkov podľa tejto položky je oslobodená Slovenská správa ciest a Národná diaľničná spoločnosť, a. s., ak žiadajú o vykonanie týchto spoplatňovaných úkonov na účely usporiadania vlastníckych práv k pozemkom pod pozemnými komunikáciami – diaľnicami a rýchlostnými komunikáciami a cestami prvej triedy. 3. Od poplatkov podľa tejto položky sú oslobodené orgány štátnej správy, ich rozpočtové a príspevkové organizácie, ak žiadajú o vykonanie týchto spoplatňovaných úkonov na účely vyhotovenia dokumentácie ochrany prírody a krajiny a zápisu osobitne chránených častí prírody a krajiny do katastra nehnuteľností alebo výkonu štátneho dozoru na úseku ochrany prírody a krajiny a prevencie a manažmentu introdukcie a šírenia inváznych nepôvodných druhov. 4. Od poplatkov podľa tejto položky sú oslobodené orgány verejnej moci na účely výkonu verejnej moci elektronicky podľa osobitného predpisu.<sup>10g</sup>) | | |
+  - 1. Od poplatkov podľa tejto položky sú oslobodené obce a vyššie územné celky, ak žiadajú o vykonanie týchto spoplatňovaných úkonov na účely usporiadania vlastníckych práv k pozemným komunikáciám a ku školám, ktoré prešli do ich pôsobnosti podľa osobitných predpisov. 2. Od poplatkov podľa tejto položky je oslobodená Slovenská správa ciest a Národná diaľničná spoločnosť, a. s., ak žiadajú o vykonanie týchto spoplatňovaných úkonov na účely usporiadania vlastníckych práv k pozemkom pod pozemnými komunikáciami – diaľnicami a cestami prvej triedy. 3. Od poplatkov podľa tejto položky sú oslobodené orgány štátnej správy, ich rozpočtové a príspevkové organizácie, ak žiadajú o vykonanie týchto spoplatňovaných úkonov na účely vyhotovenia dokumentácie ochrany prírody a krajiny a zápisu osobitne chránených častí prírody a krajiny do katastra nehnuteľností alebo výkonu štátneho dozoru na úseku ochrany prírody a krajiny a prevencie a manažmentu introdukcie a šírenia inváznych nepôvodných druhov. 4. Od poplatkov podľa tejto položky sú oslobodené orgány verejnej moci na účely výkonu verejnej moci elektronicky podľa osobitného predpisu.<sup>10g</sup>) | | |
 
   - Poznámky | | |
 
@@ -2372,7 +2372,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 80
 
-    - Vydanie povolenia na zvláštne užívanie diaľnic, ciest a miestnych komunikácií pri nadrozmernej doprave alebo nadmernej doprave
+    - Vydanie povolenia na zvláštne užívanie diaľnic, ciest a miestnych ciest pri nadrozmernej doprave alebo nadmernej doprave
 
       - a) za každú jednotlivú dopravu
 
@@ -2520,33 +2520,33 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Povolenie na zvláštne užívanie<sup>25af</sup>) | |
 
-  - a) | diaľnic a rýchlostných ciest ..... | 200 eur
+  - a) | diaľnic ..... | 200 eur
 
   - b) | ciest ..... | 120 eur
 
-  - c) | miestnych komunikácií ..... | 80 eur
+  - c) | miestnych ciest a verejných účelových ciest ..... | 80 eur
 
-  - Splnomocnenie Správny orgán môže v odôvodnených prípadoch znížiť, prípadne odpustiť poplatok podľa tejto položky. V závislosti od rozsahu a doby užívania komunikácie môže správny orgán zvýšiť poplatok až na päťnásobok. | |
+  - Splnomocnenie Správny orgán môže v odôvodnených prípadoch znížiť poplatok podľa tejto položky o 50 % alebo o 100 %. V závislosti od rozsahu a doby užívania pozemnej komunikácie môže správny orgán zvýšiť poplatok podľa tejto položky o 50 %, o 100 % alebo o 200 %. | |
 
     - Položka 83
 
-  - a) | Povolenie úplnej uzávierky diaľnice alebo rýchlostnej cesty ..... | 470 eur
+  - a) | Povolenie úplnej uzávierky diaľnice ..... | 470 eur
 
-  - b) | Povolenie čiastočnej uzávierky diaľnice alebo rýchlostnej cesty ..... | 340 eur
+  - b) | Povolenie čiastočnej uzávierky diaľnice ..... | 340 eur
 
   - c) | Povolenie uzávierky, prípadne obchádzky ciest I. a II. triedy ..... | 170 eur
 
-  - d) | Povolenie o zmenu termínu úplnej alebo čiastočnej uzávierky diaľnice alebo rýchlostnej cesty ..... | 100 eur
+  - d) | Povolenie o zmenu termínu úplnej alebo čiastočnej uzávierky diaľnice ..... | 100 eur
 
-  - e) | Povolenie uzávierky, prípadne obchádzky ciest III. triedy a miestnych komunikácií ..... | 70 eur
+  - e) | Povolenie uzávierky, prípadne obchádzky ciest III. triedy a miestnych ciest ..... | 70 eur
 
-  - f) | Povolenie o zmenu termínu uzávierky, prípadne obchádzky ciest I., II., III. triedy a miestnych komunikácií ..... | 40 eur
+  - f) | Povolenie o zmenu termínu uzávierky, prípadne obchádzky ciest I., II., III. triedy a miestnych ciest ..... | 40 eur
 
     - Položka 84
 
-  - a) | Povolenie na pripojenie miestnej komunikácie alebo účelovej komunikácie na cestu I., II. a III. triedy ..... | 75 eur
+  - a) | Povolenie na pripojenie miestnej cesty alebo účelovej cesty na cestu I., II. a III. triedy ..... | 75 eur
 
-  - b) | Povolenie na pripojenie účelovej komunikácie na miestnu komunikáciu ..... | 40 eur
+  - b) | Povolenie na pripojenie účelovej cesty na miestnu cestu..... | 40 eur
 
   - Splnomocnenie Správny orgán môže v odôvodnených prípadoch poplatok podľa tejto položky znížiť, prípadne ho odpustiť. V závislosti od dopravného významu dotknutej štátnej cesty môže správny orgán poplatok zvýšiť až na päťnásobok. | |
 
@@ -2570,7 +2570,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 1. | cestou ..... | 115 eur
 
-  - | 2. | miestnou komunikáciou ..... | 75 eur
+  - | 2. | miestnou cestou ..... | 75 eur
 
   - Splnomocnenie Správny orgán môže v odôvodnených prípadoch poplatok podľa písmena a), c) alebo d) tejto položky zvýšiť až na päťnásobok, prípadne ho znížiť alebo odpustiť. Správny orgán môže v odôvodnených prípadoch poplatok podľa písmena b) tejto položky zvýšiť až na dvojnásobok, prípadne ho znížiť alebo odpustiť. | | |
 
