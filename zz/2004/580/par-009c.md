@@ -30,7 +30,9 @@
 
 - d) formulárom E121,
 
-- e) prenosným dokumentom S1.
+- e) prenosným dokumentom S1,
+
+- f) štruktúrovaným elektronickým dokumentom S072.
 
 (7) Na základe predloženia nárokového dokladu podľa odseku 6 zdravotná poisťovňa ako inštitúcia miesta bydliska vydá poistencovi iného členského štátu preukaz poistenca s označením „EU“ na účel preukazovania sa u poskytovateľa zdravotnej starostlivosti na čerpanie zdravotnej starostlivosti v plnom rozsahu [odsek 1 písm. b)].
 

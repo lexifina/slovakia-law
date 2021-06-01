@@ -24,7 +24,9 @@
 
 - d) formulár E121,
 
-- e) prenosný dokument S1.
+- e) prenosný dokument S1,
+
+- f) štruktúrovaným elektronickým dokumentom S072.
 
 (6) Nárok na úhradu nákladov potrebnej zdravotnej starostlivosti podľa odseku 2 preukazuje poistenec poskytovateľovi zdravotnej starostlivosti v inom členskom štáte
 

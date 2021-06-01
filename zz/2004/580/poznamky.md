@@ -282,6 +282,10 @@
 
 - 55d) Zákon č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratívnej záťaže využívaním informačných systémov verejnej správy a o zmene a doplnení niektorých zákonov (zákon proti byrokracii) v znení zákona č. 221/2019 Z. z.
 
+- 55e) § 12 ods. 10 zákona č. 576/2004 Z. z. v znení zákona č. 374/2018 Z. z.
+
+- 55f) § 93b ods. 1 písm. a) zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov.
+
 - 56) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 57) Zákon č. 581/2004 Z. z.
