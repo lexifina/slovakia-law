@@ -1,0 +1,1 @@
+Príloha č. 2 k rozhodnutiu predsedu Národnej rady Slovenskej republiky č. 235/2021 Z. z. [Lehoty na vykonanie volieb do orgánov samosprávy](../assets/89853bb8b6e01cf35914861bbe2ceceeeb1d4c9b8b380fc346fd06eb06b81e82.pdf)

@@ -1,0 +1,1 @@
+Príloha č. 1 k rozhodnutiu predsedu Národnej rady Slovenskej republiky č. 235/2021 Z. z. [Zoznam obcí, v ktorých sa vyhlasujú voľby do orgánov samosprávy obcí](../assets/544b735f388612ce0a3e62fcfc89907fbd62498255f390fba616fc3858939874.pdf)
