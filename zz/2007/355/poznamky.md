@@ -320,6 +320,8 @@
 
 - 67) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
+- 67a) Napríklad zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov v znení neskorších predpisov.
+
 - 68) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 68a) § 3 až 8 a § 10 až 16 zákona č. 136/2010 Z. z. o službách na vnútornom trhu a o zmene a doplnení niektorých zákonov.
