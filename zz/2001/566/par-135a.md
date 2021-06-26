@@ -39,3 +39,11 @@
 (17) Národná banka Slovenska je povinná spolupracovať a vymieňať si informácie so Štátnou veterinárnou a potravinovou správou Slovenskej republiky a príslušnými orgánmi iných členských štátov zodpovednými za dohľad, správu a reguláciu poľnohospodárskych trhov podľa osobitného predpisu.<sup>110jd</sup>)
 
 (18) Ak Národná banka Slovenska podľa odseku 3 odmietne poskytnúť informácie, vykonať dohľad alebo konzultácie, informuje o tejto skutočnosti a dôvodoch žiadajúci orgán členského štátu a Európsky orgán dohľadu (Európsky orgán pre cenné papiere a trhy) a poskytne im informácie o súdnom konaní podľa odseku 3 písm. a) alebo o rozsudku podľa odseku 3 písm. b), ak ich má a ak je možné ich poskytnúť podľa osobitného predpisu.<sup>108a</sup>)
+
+(19) Národná banka Slovenska informuje Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) o
+
+- a) postupe preskúmania a hodnotenia podľa § 135 ods. 8 až 11,
+
+- b) metodike používanej na prijímanie rozhodnutí podľa § 74e, § 74f a § 144,
+
+- c) výške sankcií podľa § 144.

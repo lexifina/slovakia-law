@@ -84,9 +84,9 @@
 
 - 21b) Napríklad § 7 ods. 15 zákona č. 483/2001 Z. z. v znení neskorších predpisov, § 4 ods. 11 zákona č. 429/2002 Z. z. v znení zákona č. 747/2004 Z. z., § 48 ods. 11 zákona č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení zákona č. 747/2004 Z. z., § 23 ods. 11 zákona č. 650/2004 Z. z., § 3 písm. a) zákona č. 8/2008 Z. z. v znení neskorších predpisov, § 23 ods. 1 zákona č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 2 ods. 31 zákona č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov v znení zákona č. 394/2011 Z. z., § 28 ods. 10 zákona č. 203/2011 Z. z. o kolektívnom investovaní.
 
-- 22) § 3 zákona č. 594/2003 Z. z.
+- 22) § 27 zákona č. 203/2011 Z. z. v znení neskorších predpisov.
 
-- 23) Zákon č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 23) Zákon č. 39/2015 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 24) Zákon č. 650/2004 Z. z. v znení neskorších predpisov.
 
@@ -94,11 +94,13 @@
 
 - 24aa) § 41 a 42 zákona č. 429/2002 Z. z. o burze cenných papierov v znení neskorších predpisov.
 
+- 24aaa) Napríklad čl. 4 ods. 1 bod 14 nariadenia Európskeho parlamentu a Rady (EÚ) 2019/2033 z 27. novembra 2019 o prudenciálnych požiadavkách na investičné spoločnosti a o zmene nariadení (EÚ) č. 1093/2010, (EÚ) č. 575/2013, (EÚ) č. 600/2014 a (EÚ) č. 806/2014 (Ú. v. EÚ L 314, 5. 12. 2019) v platnom znení.
+
 - 24b) § 31 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 149/2001 Z. z.
 
 - 24c) § 535 Občianskeho zákonníka.
 
-- 24d) Čl. 4 ods. 1 bod 73 nariadenia Európskeho parlamentu a Rady (EÚ) č. 575/2013 z 26. júna 2013 o prudenciálnych požiadavkách na úverové inštitúcie a investičné spoločnosti a o zmene nariadenia (EÚ) č. 648/2012 (Ú. v. EÚ L 176, 27. 6. 2013) v platnom znení.
+- 24d) Čl. 8 nariadenia (EÚ) 2019/2033 v platnom znení.
 
 - 25) Napríklad § 2 ods. 6 zákona č. 483/2001 Z. z.
 
@@ -156,7 +158,7 @@
 
 - § 46 a § 95 ods. 2 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení zákona č. 276/2009 Z. z.
 
-- 47b) § 2 ods. 1 písm. b) alebo ods. 2 zákona č. 483/2001 Z. z.
+- 47b) § 2 ods. 2 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - 47c) Napríklad zákon č. 594/2003 Z. z.
 
@@ -184,17 +186,69 @@
 
 - 50) § 21 a 28 ods. 3 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 
-- 50a) Zákon č. 340/2005 Z. z. o sprostredkovaní poistenia a sprostredkovaní zaistenia a o zmene a doplnení niektorých zákonov.
+- 50a) Čl. 9 nariadenia (EÚ) 2019/2033 v platnom znení.
 
 - 50aa) Napríklad zákon č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov.
 
 - 50aaa) Zákon č. 492/2009 Z. z. v znení neskorších predpisov.
 
-- 50ab) Čl. 92 až 95 a časť IV nariadenia (EÚ) č. 575/2013 v platnom znení.
-
-- 50b) § 10 ods. 5 zákona č. 340/2005 Z. z.
+- 50aab) Napríklad čl. 31 nariadenia (EÚ) č. 600/2014 v platnom znení.
 
 - 50c) § 56 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
+
+- 50ca) Čl. 12 ods. 1 nariadenia (EÚ) 2019/2033 v platnom znení.
+
+- 50cb) Nariadenie (EÚ) 2019/2033 v platnom znení.
+
+- 50cc) Čl. 5 a 6 nariadenia (EÚ) 2019/2033 v platnom znení.
+
+- 50cd) Čl. 1 ods. 2 a 5 nariadenia (EÚ) 2019/2033 v platnom znení.
+
+- 50ce) § 6 ods. 13, 28 a 29 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 50cf) § 6 ods. 14 až 17 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 50cg) § 27 ods. 7 a 8 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 50ch) § 23 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 50ci) § 23a až 23e zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 50cj) § 27 ods. 1 až 6 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 50ck) § 30 a 31 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 50cl) § 6 ods. 31 písm. e), § 31 ods. 4 a § 31a zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- Opatrenie Národnej banky Slovenska z 28. októbra 2008 č. 18/2008 o likvidite bánk a pobočiek zahraničných bánk a o postupe riadenia rizika likvidity bánk a likvidity pobočiek zahraničných bánk a o zmene opatrenia Národnej banky Slovenska č. 11/2007 o predkladaní výkazov, hlásení a iných správ bankami, pobočkami zahraničných bánk, obchodníkmi s cennými papiermi a pobočkami zahraničných obchodníkov s cennými papiermi na účely vykonávania dohľadu a na štatistické účely (oznámenie č. 423/2008 Z. z.).
+
+- Opatrenie Národnej banky Slovenska z 31. marca 2015 č. 4/2015 o ďalších druhoch rizík, o podrobnostiach o systéme riadenia rizík banky a pobočky zahraničnej banky a ktorým sa ustanovuje čo sa rozumie náhlou a neočakávanou zmenou úrokových mier na trhu (oznámenie č. 81/2015 Z. z.).
+
+- 50cm) § 6 a § 37 ods. 6 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- Opatrenie Národnej banky Slovenska č. 4/2015 (oznámenie č. 81/2015 Z. z.).
+
+- 50cn) § 6, § 16, § 27 ods. 9, § 29a až 29c, § 33, § 39, § 46 ods.1 a 4 a § 47 ods. 9 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- Opatrenie Národnej banky Slovenska č. 18/2008 (oznámenie č. 423/2008 Z. z.).
+
+- Opatrenie Národnej banky Slovenska z 2. septembra 2014 č. 16/2014 o uverejňovaní informácií bankami a pobočkami zahraničných bánk (oznámenie č. 237/2014 Z. z.).
+
+- Opatrenie Národnej banky Slovenska č. 4/2015 (oznámenie č. 81/2015 Z. z.).
+
+- 50co) § 44 až 49 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 50cp) § 33a až 33n zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 50cq) Nariadenie (EÚ) č. 575/2013 v platnom znení.
+
+- 50cr) Čl. 4 ods. 1 bod 3 nariadenia (EÚ) 2019/2033 v platnom znení.
+
+- 50cs) Čl. 4 ods. 1 bod 150 nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 50ct) Čl. 4 ods. 1 bod 1 písm. b) nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 50cu) § 7b zákona č. 483/2001 Z. z. v znení zákona č. 209/2021 Z. z.
 
 - 50d) Napríklad delegované nariadenie (EÚ) 2017/565, delegované nariadenie Komisie (EÚ) 2017/571 z 2. júna 2016, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ, pokiaľ ide o regulačné technické predpisy týkajúce sa udeľovania povolenia, organizačných požiadaviek a uverejňovania transakcií pre poskytovateľov služieb vykazovania údajov (Ú. v. EÚ L 87, 31. 3. 2017), delegované nariadenie Komisie (EÚ) 2017/589 z 19. júla 2016, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ, pokiaľ ide o regulačné technické predpisy, ktorými sa spresňujú organizačné požiadavky investičných spoločností zapojených do algoritmického obchodovania (Ú. v. EÚ L 87, 31. 3. 2017).
 
@@ -232,7 +286,7 @@
 
 - 54g) Napríklad zákon č. 335/2014 Z. z. o spotrebiteľskom rozhodcovskom konaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 420/2004 Z. z. o mediácii a o doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 55) § 28 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+- 55) § 66b Obchodného zákonníka.
 
 - 55a) Zákon č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov.
 
@@ -246,7 +300,7 @@
 
 - 56aab) Čl. 435 ods. 2 písm. b) a c) nariadenia (EÚ) č. 575/2013 v platnom znení.
 
-- 56ab) Čl. 435 ods. 2 písm. c) nariadenia (EÚ) č. 575/2013.
+- 56ab) Čl. 48 nariadenia (EÚ) 2019/2033 v platnom znení.
 
 - 56aba) § 14 a 38a zákona č. 429/2002 Z. z. v znení neskorších predpisov.
 
@@ -258,13 +312,15 @@
 
 - 56aca) Delegované nariadenie Komisie (EÚ) č. 604/2014 zo 4. marca 2014, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2013/36/EÚ, pokiaľ ide o regulačné technické predpisy so zreteľom na kvalitatívne a vhodné kvantitatívne kritériá na vymedzenie kategórií pracovníkov, ktorých profesionálne činnosti majú významný vplyv na rizikový profil inštitúcie (Ú. v. EÚ L 167, 6. 6. 2014).
 
-- 56acaa) Čl. 23 delegovaného nariadenia (EÚ) č. 2017/565 v platnom znení.
+- 56acaa) Čl. 7 nariadenia (EÚ) 2019/2033 v platnom znení.
 
-- 56ad) Čl. 52 alebo 63 nariadenia (EÚ) č. 575/2013 v platnom znení.
+- 56acab) Čl. 11 nariadenia (EÚ) 2019/2033 v platnom znení.
 
-- 56ae) Čl. 4 ods. 1 bod 146 nariadenia (EÚ) č. 575/2013 v platnom znení.
+- 56ad) Tretia a piata časť nariadenia (EÚ) 2019/2033 v platnom znení.
 
-- 56af) Čl. 450 ods. 1 písm. g), h), i) a k) nariadenia (EÚ) č. 575/2013 v platnom znení.
+- 56ae) Čl. 52 alebo 63 nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 56af) Čl. 51 písm. c) a d) nariadenia (EÚ) 2019/2033 v platnom znení.
 
 - 56b) Čl. 8 ods. 1 písm. l) a čl. 76 ods. 4 nariadenia Európskeho Parlamentu a Rady (EÚ) č. 1093/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/78/ES (Ú. v. EÚ L 331, 15. 12. 2010) v platnom znení.
 
@@ -294,13 +350,15 @@
 
 - 57c) Čl. 2 bod 1 delegovaného nariadenia (EÚ) 2017/565 v platnom znení.
 
+- 57d) Čl. 22 delegovaného nariadenia (EÚ) 2017/565 v platnom znení.
+
 - 58) § 65 Obchodného zákonníka.
 
 - 58a) § 3 zákona č. 428/2002 Z. z. o ochrane osobných údajov.
 
 - 58b) Napríklad zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov, § 3a a § 27 až 33 Obchodného zákonníka, § 2 ods. 2 a § 10 a 11 zákona č. 34/2002 Z. z. o nadáciách a o zmene Občianskeho zákonníka v znení neskorších predpisov, § 9 ods. 1 a 2 a § 10 zákona č. 147/1997 Z. z. o neinvestičných fondoch a o doplnení zákona Národnej rady Slovenskej republiky č. 207/1996 Z. z., § 9 ods. 1 a 2 a § 11 zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení zákona č. 35/2002 Z. z., § 6, 7, 9 a 9a zákona č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov, § 6 ods. 1 a § 7 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov a § 5 ods. 1 a 2 zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov.
 
-- 58c) Napríklad zákon č. 367/2000 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o zmene a doplnení niektorých zákonov, zákon č. 431/2002 Z. z. o účtovníctve, zákon č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov.
+- 58c) Napríklad zákon č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 431/2002 Z. z. v znení neskorších predpisov, zákon č. 297/2008 Z. z. v znení neskorších predpisov.
 
 - 58d) § 4 ods. 5 a § 7 ods. 3 zákona č. 428/2002 Z. z.
 
@@ -311,6 +369,8 @@
 - 58g) Napríklad § 12 ods. 1 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z.
 
 - 58h) § 23 a 55 zákona č. 428/2002 Z. z.
+
+- 58ha) Čl. 54 a 55 delegovaného nariadenia (EÚ) 2017/565 v platnom znení.
 
 - 58haa) Čl. 50 delegovaného nariadenia (EÚ) 2017/565.
 
@@ -340,33 +400,25 @@
 
 - 58hg) Čl. 61 a 71 delegovaného nariadenia (EÚ) 2017/565.
 
-- 58hh) Čl. 4 ods. 1 bod 118 nariadenia (EÚ) č. 575/2013.
+- 58ja) Čl. 46 nariadenia (EÚ) 2019/2033 v platnom znení.
 
-- 58hi) Čl. 92 až 386 nariadenia (EÚ) č. 575/2013.
+- 58jaa) Čl. 46 ods. 2 nariadenia (EÚ) 2019/2033 v platnom znení.
 
-- 58j) § 31 až 33d zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+- 58jb) Čl. 52 nariadenia (EÚ) 2019/2033 v platnom znení.
 
-- 58ja) Čl. 432 nariadenia (EÚ) č. 575/2013.
+- 58jc) Tretia alebo štvrtá časť nariadenia (EÚ) 2019/2033 v platnom znení.
 
-- 58jaa) Čl. 8 nariadenia (EÚ) č. 1093/2010 v platnom znení.
+- 58jca) Tretia a štvrtá časť nariadenia (EÚ) 2019/2033 v platnom znení.
 
-- 58jb) Čl. 326 až 350 nariadenia (EÚ) č. 575/2013.
+- 58jcb) Čl. 11 ods. 1 písm. a), b) a c) nariadenia (EÚ) 2019/2033 v platnom znení.
 
-- 58jc) Čl. 345 nariadenia (EÚ) č. 575/2013.
+- 58jd) Tretia časť nariadenia (EÚ) 2019/2033 v platnom znení.
 
-- 58jca) Čl. 15 nariadenia (EÚ) č. 575/2013 v platnom znení.
+- 58je) Čl. 43 ods. 1 nariadenia (EÚ) 2019/2033 v platnom znení.
 
-- 58jcaa) Nariadenie (EÚ) č. 1093/2010 v platnom znení.
+- 58jea) Piata časť nariadenia (EÚ) 2019/2033 v platnom znení.
 
-- 58jcb) Čl. 4 ods. 1 bod 145 nariadenia (EÚ) č. 575/2013 v platnom znení.
-
-- 58jd) § 33a až 33n zákona č. 483/2001 Z. z. v znení neskorších predpisov.
-
-- 58je) § 33a a 33c zákona č. 483/2001 Z. z. v znení neskorších predpisov.
-
-- 58jea) Čl. 2 písm. f) nariadenia (EÚ) 2017/1129.
-
-- 58jeb) § 29a a 29b zákona č. 483/2001 Z. z. v znení zákona č. 340/2020 Z. z.
+- 58jeb) Čl. 43 nariadenia (EÚ) 2019/2033 v platnom znení.
 
 - 58jf) Napríklad čl. 72 až 76 delegovaného nariadenia (EÚ) 2017/565.
 
@@ -385,6 +437,8 @@
 - 60a) § 19 ods. 1 zákona č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 60aa) § 23 zákona č. 431/2002 Z. z.
+
+- 60aaa) Čl. 4 ods. 1 bod 26 nariadenia (EÚ) č. 575/2013 v platnom znení.
 
 - 60ab) § 32c ods. 2 písm. b) zákona č. 650/2004 Z. z. v znení zákona č. 156/2019 Z. z.
 
@@ -582,7 +636,7 @@
 
 - čl. 17, 18, 21, 23, 24 a 25 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006).
 
-- 94) § 2 ods. 1 písm. d) a § 4 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
+- 94) § 2 ods. 1 písm. b), c), e) a l) a § 76 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
 - 95) Zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
@@ -666,23 +720,7 @@
 
 - 109) Civilný sporový poriadok.
 
-- 109a) § 44 až 49 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
-
-- 109b) § 33c zákona č. 483/2001 Z. z.
-
-- 109ba) § 6 ods. 14 písm. b) a c) a ods. 15 až 17 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
-
-- 109c) § 29 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
-
-- 109d) Napríklad zákon č. 483/2001 Z. z. v znení neskorších predpisov, zákon č. 39/2015 Z. z. v znení neskorších predpisov.
-
-- 109e) § 33 zákona č. 203/2011 Z. z. o kolektívnom investovaní v znení neskorších predpisov.
-
-- 109f) Čl. 15 nariadenia (EÚ) č. 575/2013 v platnom znení.
-
 - 110) § 13 zákona č. 329/2000 Z. z.
-
-- 110a) § 6 ods. 21 zákona č. 483/2001 Z. z. v znení zákona č. 46/2011 Z. z.
 
 - 110b) § 2 zákona č. 8/2008 Z. z. v znení neskorších predpisov.
 
@@ -691,6 +729,8 @@
 - Čl. 54 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1093/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/78/ES (Ú. v. EÚ L 331, 15. 12. 2010).
 
 - Čl. 54 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1094/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre poisťovníctvo a dôchodkové poistenie zamestnancov) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/79/ES (Ú. v. EÚ L 331, 15. 12. 2010).
+
+- 110bb) § 29 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - 110c) Napríklad zákon č. 483/2001 Z. z. v znení neskorších predpisov, zákon č. 95/2002 Z. z. v znení neskorších predpisov.
 
@@ -704,21 +744,27 @@
 
 - 110da) Čl. 15 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1092/2010 z 24. novembra 2010 o makroprudenciálnom dohľade Európskej únie nad finančným systémom a o zriadení Európskeho výboru pre systémové riziká (Ú. v. EÚ L 331, 15. 12. 2010).
 
+- 110daa) § 44 ods. 3 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
 - 110e) Napríklad zákon č. 367/2000 Z. z. v znení neskorších predpisov, § 13 až 15 zákona č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
 
 - 110ea) § 6 ods. 20 písm. c) zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - 110ea) Čl. 316 nariadenia (EÚ) č. 575/2013 v platnom znení.
 
-- 110f) § 47 ods. 9 a § 48 ods. 9 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+- 110f) Nariadenie (EÚ) č. 575/2013 v platnom znení.
 
-- 110g) § 30 až 32 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+- Nariadenie (EÚ) č. 600/2014 v platnom znení.
+
+- Nariadenie (EÚ) 2019/2033 v platnom znení.
+
+- 110fa) Nariadenie (EÚ) č. 1093/2010 v platnom znení.
+
+- 110g) Čl. 22 nariadenia (EÚ) 2019/2033 v platnom znení.
 
 - 110h) Čl. 366 nariadenia (EÚ) č. 575/2013.
 
-- 110i) § 31 ods. 1 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
-
-- 110j) Čl. 92 až 386 nariadenia (EÚ) č. 575/2013.
+- 110i) Čl. 15 nariadenia (EÚ) 1093/2010 v platnom znení.
 
 - 110ja) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) č. 596/2014 zo 16. apríla 2014 o zneužívaní trhu (nariadenie o zneužívaní trhu) a o zrušení smernice Európskeho parlamentu a Rady 2003/6/ES a smerníc Komisie 2003/124/ES, 2003/125/ES a 2004/72/ES (Ú. v. EÚ L 173, 12. 6. 2014) v platnom znení, nariadenie (EÚ) 2015/2365, nariadenie (EÚ) 2016/1011, nariadenie Európskeho parlamentu a Rady (EÚ) 2017/2402 z 12. decembra 2017, ktorým sa ustanovuje všeobecný rámec pre sekuritizáciu a vytvára sa osobitný rámec pre jednoduchú, transparentnú a štandardizovanú sekuritizáciu a ktorým sa menia smernice 2009/65/ES, 2009/138/ES a 2011/61/EÚ a nariadenie (ES) č. 1060/2009 a nariadenie (EÚ) č. 648/2012 (Ú. v. EÚ L 347, 28. 12. 2017).
 
@@ -735,6 +781,34 @@
 - 110l) Čl. 19 nariadenia (EÚ) č. 1093/2010.
 
 - 110la) Čl. 63 ods. 2 nariadenia (EÚ) č. 909/2014.
+
+- 110laa) Čl. 23 ods. 1 prvý pododsek písm. c) nariadenia (EÚ) 2019/2033 v platnom znení.
+
+- 110lb) Čl. 4 ods. 1 bod 11 nariadenia (EÚ) 2019/2033 v platnom znení.
+
+- 110lc) Čl. 4 ods. 1 bod 56 nariadenia (EÚ) 2019/2033 v platnom znení.
+
+- 110ld) Čl. 4 ods. 1 bod 57 nariadenia (EÚ) 2019/2033 v platnom znení.
+
+- 110le) Čl. 4 ods. 1 bod 58 nariadenia (EÚ) 2019/2033 v platnom znení.
+
+- 110lf) Čl. 4 ods. 1 bod 23 nariadenia (EÚ) 2019/2033 v platnom znení.
+
+- 110lg) § 33a zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 110lh) Čl. 4 ods. 1 bod 25 nariadenia (EÚ) 2019/2033 v platnom znení.
+
+- 110li) Čl. 1 až 8 nariadenia (EÚ) 2019/2033 v platnom znení.
+
+- 110lj) Čl. 18 nariadenia (EÚ) č. 1093/2010 v platnom znení.
+
+- 110lk) Čl. 23 ods. 1 prvý pododsek písm. c) a čl. 23 ods. 2 nariadenia (EÚ) 2019/2033 v platnom znení.
+
+- 110ll) Čl. 21 nariadenia (EÚ) č. 1093/2010 v platnom znení.
+
+- 110lm) Čl. 21 nariadenia (EÚ) č. 1095/2010 v platnom znení.
+
+- 110ln) Čl. 19 ods. 1 druhý pododsek nariadenia (EÚ) č. 1093/2010 v platnom znení.
 
 - 110m) Napríklad čl. 30 ods. 1 nariadenia (EÚ) č. 596/2014 v platnom znení, čl. 22 nariadenia (EÚ) 2015/2365, čl. 42 nariadenia (EÚ) 2016/1011, čl. 32 nariadenia (EÚ) 2017/2402.
 
@@ -814,17 +888,15 @@
 
 - 121) § 31 ods. 4 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 
-- 121a) Nariadenie (EÚ) č. 600/2014.
+- 121a) § 38 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
 
 - 121aa) Zákon č. 747/2004 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 297/2008 Z. z. v znení neskorších predpisov.
 
+- 121ab) Nariadenie (EÚ) č. 600/2014 v platnom znení.
+
 - 122) § 68 ods. 7 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
-
-- 123) § 70 až 75 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
-
-- § 65 ods. 7 zákona č. 483/2001 Z. z.
 
 - 123a) Napríklad čl. 4 ods. 1 bod 40 nariadenia (EÚ) č. 575/2013.
 

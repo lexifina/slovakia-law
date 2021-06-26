@@ -1,5 +1,5 @@
-# § 71b Riadenie rizík
+# § 71b
 
-(1) Obchodník s cennými papiermi, ktorý je významný z hľadiska svojej veľkosti, vnútornej organizácie a povahy, rozsahu a zložitosti svojich činností, je povinný vytvoriť výbor pre riadenie rizík zložený z členov riadiaceho orgánu, ktorí u príslušného obchodníka s cennými papiermi nevykonávajú žiadnu výkonnú funkciu. Členovia výboru pre riziká musia mať primerané vedomosti, zručnosti a odborné znalosti na to, aby úplne chápali a monitorovali stratégiu riadenia rizík a ochotu obchodníka s cennými papiermi podstupovať riziká. Obchodník s cennými papiermi, ktorý sa nepovažuje za významného podľa prvej vety, nie je povinný zriadiť výbor pre riadenie rizík, ak riadenie rizík vykonáva výborom pre audit podľa osobitného predpisu.<sup>56ac</sup>)
+(1) Ak sa na obchodníka s cennými papiermi vzťahuje osobitný predpis,<sup>24d</sup>) obchodník s cennými papiermi uplatňuje požiadavky podľa § 71 ods. 2, 3, 6 a 7, § 71c, § 71d, § 71da, § 71db, § 71dd, § 71de a § 77 ods. 1, 2 a 9 na individuálnom základe.
 
-(2) Ustanovenia o riadení rizík podľa osobitného predpisu<sup>15</sup>) je obchodník s cennými papiermi povinný dodržiavať vo vzťahu k rizikám podľa osobitného predpisu.<sup>56acaa</sup>)
+(2) Ak sa na obchodníka s cennými papiermi vzťahuje osobitný predpis,<sup>56acaa</sup>) obchodník s cennými papiermi uplatňuje požiadavky podľa § 71 ods. 2, 3, 6 a 7, § 71c, § 71d, § 71da, § 71db, § 71dd, § 71de a § 77 ods. 1, 2 a 9 na individuálnom základe a na konsolidovanom základe; to neplatí, ak je obchodník s cennými papiermi dcérskou spoločnosťou so sídlom v štáte, ktorý nie je členským štátom a ak materská spoločnosť v Európskej únii preukáže nesúlad s právom štátu, ktorý nie je členským štátom.

@@ -12,15 +12,13 @@
 
   - 4. cenných papierov štandardných fondov a európskych štandardných fondov okrem štruktúrovaných štandardných fondov a štruktúrovaných európskych štandardných fondov podľa osobitného predpisu,<sup>58hca</sup>)
 
-  - 5. nekomplexných finančných nástrojov<sup>58hcb</sup>) iných ako uvedených v prvom až štvrtom bode, ktoré spĺňajú kritériá podľa osobitného predpisu,<sup>58hcb</sup>)
+  - 5. štruktúrovaných vkladov okrem tých, ktoré majú takú štruktúru, ktorá sťažuje klientovi porozumieť riziku návratnosti alebo nákladom spojeným s predčasným ukončením platnosti produktu,
 
-  - 6. štruktúrovaných vkladov okrem tých, ktoré majú takú štruktúru, ktorá sťažuje klientovi porozumieť riziku návratnosti alebo nákladom spojeným s predčasným ukončením platnosti produktu,
-
-  - 7. ostatných nekomplexných finančných nástrojov,
+  - 6. ostatných nekomplexných finančných nástrojov na účely tohto odseku,<sup>58hcb</sup>)
 
 - b) investičná služba je poskytovaná z podnetu klienta alebo potenciálneho klienta,
 
-- c) klient alebo potenciálny klient bol jasne informovaný, že pri poskytovaní tejto služby sa nevyžaduje, aby obchodník s cennými papiermi posudzoval vhodnosť poskytovaného alebo ponúkaného finančného nástroja alebo investičnej služby a že z tohto dôvodu nepožíva výhodu zodpovedajúcej ochrany na základe príslušných ustanovení tohto zákona o pravidlách činnosti vo vzťahu ku klientom; toto upozornenie sa môže poskytnúť v štandardizovanej forme,
+- c) klient alebo potenciálny klient bol jasne informovaný, že pri poskytovaní tejto služby sa nevyžaduje, aby obchodník s cennými papiermi posudzoval primeranosť poskytovaného alebo ponúkaného finančného nástroja alebo investičnej služby a že z tohto dôvodu nepožíva výhodu zodpovedajúcej ochrany na základe príslušných ustanovení tohto zákona o pravidlách činnosti vo vzťahu ku klientom; toto upozornenie sa môže poskytnúť v štandardizovanej forme,
 
 - d) obchodník s cennými papiermi dodržiava povinnosti podľa § 71l.
 

@@ -28,7 +28,7 @@ Na účely tohto zákona sa rozumie
 
 - b) finančným sektorom sektor, v ktorom pôsobí jedna právnická osoba alebo viaceré z týchto právnických osôb:
 
-  - 1. banka, iná finančná inštitúcia podľa osobitného zákona<sup>110a</sup>) alebo podnik pomocných bankových služieb; tieto tvoria bankový sektor,
+  - 1. banka, iná finančná inštitúcia<sup>60aaa</sup>) alebo podnik pomocných bankových služieb; tieto tvoria bankový sektor,
 
   - 2. poisťovňa, zaisťovňa<sup>110b</sup>) alebo poisťovacia holdingová spoločnosť podľa osobitného predpisu;<sup>23</sup>) tieto tvoria sektor poisťovníctva,
 

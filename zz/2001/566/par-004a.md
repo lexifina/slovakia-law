@@ -8,7 +8,7 @@
 
 - c) kombináciou spôsobov podľa písmen a) a b).
 
-(2) Emitentom investičného certifikátu môže byť len banka, zahraničná banka, obchodník s cennými papiermi, ktorý spĺňa požiadavky na výšku základného imania najmenej v rozsahu podľa § 54 ods. 12, alebo obdobný zahraničný obchodník s cennými papiermi.
+(2) Emitentom investičného certifikátu môže byť len banka, zahraničná banka, obchodník s cennými papiermi, ktorý spĺňa požiadavky na výšku počiatočného kapitálu najmenej v rozsahu podľa § 54 ods. 12, alebo obdobný zahraničný obchodník s cennými papiermi.
 
 (3) Investičný certifikát musí obsahovať
 

@@ -1,39 +1,49 @@
 # § 71db Pohyblivá zložka celkovej odmeny
 
-(1) Pohyblivú zložku celkovej odmeny tvoria
+(1) Na pohyblivú zložku celkovej odmeny, ktorú obchodník s cennými papiermi prizná a vyplatí osobám uvedeným v § 71da ods. 2, sa uplatňujú okrem zásad podľa § 71da ods. 1 aj zásady podľa odsekov 2 až 14.
 
-- a) motivačná zložka odmeny, ktorej výška závisí od hodnotenia výkonnosti osoby podľa § 71da ods. 1, obchodníka s cennými papiermi alebo od kombinácie týchto hodnotení, najviac za obdobie jedného roka,
+(2) Ak pohyblivá zložka celkovej odmeny závisí od výkonnosti, celková výška pohyblivej zložky celkovej odmeny závisí od kombinácie posúdenia výkonnosti osoby uvedenej v § 71da ods. 2, príslušného obchodného útvaru obchodníka s cennými papiermi a celkových výsledkov obchodníka s cennými papiermi, pričom pri hodnotení výkonnosti osoby uvedenej v § 71da ods. 2 sa zohľadňujú finančné kritériá a nefinančné kritériá.
 
-- b) motivačná zložka odmeny určená formou podielu na zisku obchodníka s cennými papiermi,
+(3) Hodnotenie výkonnosti je určené dlhodobou obchodnou stratégiou, ktorá zohľadňuje obchodný cyklus obchodníka s cennými papiermi a riziká priamo súvisiace s obchodnou činnosťou obchodníka s cennými papiermi.
 
-- c) motivačná zložka odmeny, ktorej výška závisí od plnenia dosahovaných výsledkov dlhodobej obchodnej stratégie a záujmov obchodníka s cennými papiermi,
+(4) Určenie pohyblivej zložky celkovej odmeny nesmie mať vplyv na schopnosť obchodníka s cennými papiermi plniť povinnosti podľa § 74.
 
-- d) cenné papiere, pri ktorých možnosť obchodovania na trhu s cennými papiermi bude odložená najmenej o tri roky od ich vydania osobe podľa § 71da ods. 1,
+(5) Ak obchodník s cennými papiermi plní povinnosti podľa § 74, osobe uvedenej v § 71da ods. 2, ktorá sa pripravuje na samostatnú prácu, možno výnimočne v období odo dňa vzniku pracovného pomeru s obchodníkom s cennými papiermi najdlhšie do uplynutia jedného roka poskytovať pohyblivú zložku celkovej odmeny v zaručenej výške.
 
-- e) vždy, ak je to možné, iné finančné nástroje podľa osobitného predpisu<sup>56ad</sup>) alebo iné nástroje, ktoré možno plne konvertovať na nástroje kapitálu Tier 1 alebo odpísať, pričom musí byť zabezpečené, že tieto nástroje primerane odrážajú kreditnú kvalitu obchodníka s cennými papiermi pri pokračovaní jeho činnosti,
+(6) Zmluvné odstupné poskytované osobe podľa § 71da ods. 2 v súvislosti s predčasným skončením pracovnoprávneho vzťahu alebo iného obdobného vzťahu musí zohľadňovať výkonnosť tejto osoby za hodnotené obdobie; zlyhanie alebo pochybenie tejto osoby pri plnení svojich úloh je dôvodom na jeho nevyplatenie.
 
-- f) dobrovoľné platby dôchodkového zabezpečenia.
+(7) Vyplatenie kompenzácie v spojitosti s predchádzajúcim zamestnaním osoby uvedenej v § 71da ods. 2 musí byť v súlade s dlhodobou stratégiou obchodníka s cennými papiermi.
 
-(2) Najmenej 40 % pohyblivej zložky celkovej odmeny sa odkladá na obdobie najmenej štyroch až piatich rokov od určenia predpokladanej výšky pohyblivej zložky celkovej odmeny, pričom obdobie odkladu musí byť riadne zosúladené s povahou činností a rizikami obchodníka s cennými papiermi a činnosťou osoby podľa § 71da ods. 1. Obchodník s cennými papiermi, ktorý je významný z hľadiska svojej veľkosti, vnútornej organizácie a povahy, rozsahu a zložitosti svojich činností, osobe podľa § 71da ods. 1 písm. a) až c) odloží najmenej 40 % pohyblivej zložky celkovej odmeny na obdobie najmenej päť rokov od určenia predpokladanej výšky pohyblivej zložky celkovej odmeny, pričom obdobie odkladu musí byť riadne zosúladené s povahou činnosti a rizikami obchodníka s cennými papiermi a činnosťou osoby podľa § 71da ods. 1 písm. a) až c). Nárok na vyplatenie odloženej odmeny nesmie uplynúť skôr ako pri pomernom vyplácaní. Ak úhrn predpokladanej pohyblivej zložky celkovej odmeny v priemere na mesiac predstavuje viac ako 200 % zaručenej pevnej zložky celkovej odmeny, podiel plnení viazaných na obdobie štyroch rokov alebo piatich rokov nesmie byť nižší ako 60 % pohyblivej zložky celkovej odmeny. Dĺžka obdobia odkladu sa určuje v súlade s obchodným cyklom, povahou podnikania, jeho rizikami a činnosťami dotknutej osoby podľa § 71da ods. 1.
+(8) Postup merania výkonnosti na účely výpočtu pohyblivých zložiek celkovej odmeny musí zohľadniť všetky druhy súčasných a budúcich rizík a náklady na kapitál a likviditu podľa osobitného predpisu.<sup>56ad</sup>)
 
-(3) Podmienky priznania pohyblivej zložky celkovej odmeny podľa odseku 1 písm. c) obchodník s cennými papiermi určí v nadväznosti na svoju dlhodobú obchodnú stratégiu, záujmy a ciele, ktoré chce dosiahnuť. Osobe podľa § 71da ods. 1 bude priznaná táto pohyblivá zložka celkovej odmeny vo výške určenej podľa vyhodnotenia skutočne dosahovaných výsledkov obchodníka s cennými papiermi najskôr po uplynutí obdobia štyroch až piatich rokov plnenia dosahovaných výsledkov.
+(9) Pri určení pohyblivej zložky celkovej odmeny zohľadňuje obchodník s cennými papiermi všetky druhy súčasných a budúcich rizík.
 
-(4) V súlade s dlhodobou obchodnou stratégiou a záujmami obchodníka s cennými papiermi určí obchodník s cennými papiermi konkrétne ciele zohľadňované v rámci systému riadenia rizík, a to tak, aby zodpovedali súčasným a budúcim rizikám vyplývajúcim z činnosti obchodníka s cennými papiermi a kritériá hodnotenia individuálnej výkonnosti osoby podľa § 71da ods. 1, ktoré bude obchodník s cennými papiermi uplatňovať na určenie výšky pohyblivej zložky celkovej odmeny. Obchodník s cennými papiermi určí tieto ciele a kritériá tak, aby v prípade nesplnenia určených cieľov alebo kritérií hodnotenia individuálnej výkonnosti bola pohyblivá zložka celkovej odmeny osoby podľa § 71da ods. 1 úmerne neplneniu znížená až po možnosť nepriznania pohyblivej zložky celkovej odmeny za hodnotené obdobie.
+(10) Najmenej 50 % pohyblivej zložky celkovej odmeny, ktorá nepredstavuje odmenu za vykonanú prácu poskytovanú podľa Zákonníka práce, tvoria tieto nástroje:
 
-(5) Podiel pohyblivej zložky celkovej odmeny, ktorá bude osobe podľa § 71da ods. 1 poskytovaná vo forme cenných papierov a iných finančných nástrojov podľa odseku 1 písm. d) a e), musí predstavovať najmenej 50 % sumy pohyblivej zložky celkovej odmeny.
+- a) akcie alebo rovnocenné majetkové podiely,
 
-(6) Osobe podľa § 71da ods. 1, ktorá sa pripravuje na samostatnú prácu, možno výnimočne v období od uzavretia pracovného pomeru s obchodníkom s cennými papiermi najdlhšie do uplynutia jedného roka poskytovať pohyblivú zložku celkovej odmeny v zaručenej výške bez ohľadu na hodnotenie plnenia úloh touto osobou.
+- b) akcie alebo rovnocenné bezhotovostné nástroje,
 
-(7) Pri určení pohyblivej zložky celkovej odmeny sa zohľadňuje aj schopnosť obchodníka s cennými papiermi plniť povinnosti podľa § 74.
+- c) finančné nástroje podľa osobitného predpisu<sup>56ae</sup>) alebo iné nástroje, ktoré možno plne konvertovať na nástroje kapitálu Tier 1 alebo odpísať, pričom musí byť zabezpečené, že tieto nástroje primerane odrážajú kreditnú kvalitu obchodníka s cennými papiermi pri pokračovaní jeho činnosti,
 
-(8) Obchodník s cennými papiermi v rámci zásad odmeňovania určuje kritériá na zrážky z pohyblivej zložky celkovej odmeny a na spätné vymáhanie vyplatenej pohyblivej zložky celkovej odmeny. Zrážkam z pohyblivej zložky celkovej odmeny a spätnému vymáhaniu pohyblivej zložky celkovej odmeny podlieha až 100 % pohyblivej zložky celkovej odmeny. Kritériá zahŕňajú situáciu, keď sa osoba podľa § 71da ods. 1 podieľala na konaní, ktoré viedlo k významným finančným stratám obchodníka s cennými papiermi alebo bola za také konanie zodpovedná.
+- d) bezhotovostné nástroje, ktoré zohľadňujú nástroje spravovaných portfólií.
 
-(9) Obchodník s cennými papiermi v rámci zásad odmeňovania určuje kritériá pre dobrovoľné platby dôchodkového zabezpečenia.
+(11) Ak obchodník s cennými papiermi neemituje nástroje uvedené v odseku 10, Národná banka Slovenska môže na tieto účely schváliť alternatívne opatrenia.
 
-(10) Zamestnanci podľa § 71da ods. 1 písm. b) až d) nemôžu zabezpečiť nevyplatenie svojej pohyblivej zložky celkovej odmeny uzatvorením poistenia pre prípad jej nevyplatenia.
+(12) Obchodník s cennými papiermi osobe podľa § 71da ods. 2 odloží najmenej 40 % pohyblivej zložky celkovej odmeny na obdobie troch až piatich rokov od určenia predpokladanej výšky pohyblivej zložky celkovej odmeny, pričom obdobie odkladu závisí od obchodného cyklu obchodníka s cennými papiermi, povahy jeho obchodnej činnosti, rizík a činnosti osoby uvedenej v § 71da ods. 2. Pri významne vysokej pohyblivej zložke celkovej odmeny, podiel odloženej pohyblivej zložky celkovej odmeny predstavuje najmenej 60 %. Nárok na vyplatenie odloženej pohyblivej zložky celkovej odmeny neuplynie rýchlejšie ako pri pomernom vyplácaní.
 
-(11) Ustanovenia odsekov 2, 3 a 5 sa neuplatňujú na
+(13) Obchodník s cennými papiermi je povinný zaviesť opatrenia, ktoré mu umožnia odňať priznanie nároku na pohyblivú zložku celkovej odmeny alebo jeho časti a požadovať späť už vyplatenú pohyblivú zložku celkovej odmeny alebo jej časť, ak sa finančná situácia obchodníka s cennými papiermi výrazne zhorší alebo je negatívna; týmto nie sú dotknuté ustanovenia Zákonníka práce o mzde, dojednaní mzdy a o vykonaní zrážok zo mzdy. Kritériá na použitie opatrení podľa prvej vety zahŕňajú situáciu, keď sa osoba uvedená v § 71da ods. 2 podieľala na konaní, ktoré viedlo k významným finančným stratám obchodníka s cennými papiermi alebo bola za také konanie zodpovedná a už sa nepovažuje za odborne spôsobilú a vhodnú.
 
-- a) obchodníka s cennými papiermi, ktorý nie je veľkou inštitúciou podľa osobitného predpisu<sup>56ae</sup>) a ktorého priemerná hodnota aktív na individuálnom základe podľa tohto zákona a osobitného predpisu<sup>16ae</sup>) počas obdobia štyroch rokov, ktoré predchádzajú aktuálnemu účtovnému obdobiu, je rovná alebo nižšia ako 5 000 000 000 eur,
+(14) Obchodník s cennými papiermi je povinný v rámci zásad odmeňovania určiť kritériá pre dobrovoľné platby dôchodkového zabezpečenia v súlade s jeho obchodnou stratégiou, cieľmi, hodnotami a dlhodobými záujmami. Ak obchodník s cennými papiermi poskytuje dobrovoľné platby dôchodkového zabezpečenia a osoba uvedená v § 71da ods. 2 ukončí pracovnoprávny vzťah alebo iný obdobný vzťah s obchodníkom s cennými papiermi pred vznikom nároku na starobný dôchodok, obchodník s cennými papiermi je povinný počas piatich rokov držať dobrovoľné platby dôchodkového zabezpečenia v podobe nástrojov uvedených v odseku 10. Ak obchodník s cennými papiermi poskytuje dobrovoľné platby dôchodkového zabezpečenia a osobe uvedenej v § 71da ods. 2 vznikne nárok na starobný dôchodok, dobrovoľné platby dôchodkového zabezpečenia sa tejto osobe vyplatia v podobe nástrojov uvedených v odseku 10, a to pri uplatnení päťročného odkladu.
 
-- b) zamestnanca, ktorého ročná pohyblivá zložka odmeny je nižšia ako 50 000 eur a nie je vyššia ako tretina celkovej ročnej odmeny tohto zamestnanca.
+(15) Osoby uvedené v § 71da ods. 2 nemôžu zabezpečiť nevyplatenie svojej pohyblivej zložky celkovej odmeny hedžingovými stratégiami ani uzatvorením poistenia pre prípad jej nevyplatenia.
+
+(16) Pohyblivá zložka celkovej odmeny nesmie byť vyplatená formou finančných nástrojov alebo spôsobom, ktorý by umožnil nedodržiavanie tohto zákona alebo osobitného predpisu.<sup>50cb</sup>)
+
+(17) Cenné papiere a iné finančné nástroje podľa odseku 10 musia byť počas primeraného obdobia podľa zásad odmeňovania obchodníka s cennými papiermi zadržiavané tak, aby motivácia osôb podľa § 71da ods. 2 bola zosúladená s dlhodobou stratégiou obchodníka s cennými papiermi.
+
+(18) Ustanovenia odsekov 10,12 a odseku 14 druhej vety a tretej vety sa nevzťahujú na
+
+- a) obchodníka s cennými papiermi, ak priemerná hodnota jeho súvahových aktív a podsúvahových aktív nepresahuje 100 000 000 eur počas štyroch rokov bezprostredne predchádzajúcich príslušnému hospodárskemu roku,
+
+- b) osobu, ktorej ročná pohyblivá zložka celkovej odmeny je nižšia ako 50 000 eur a nie je vyššia ako štvrtina jej celkovej ročnej odmeny.

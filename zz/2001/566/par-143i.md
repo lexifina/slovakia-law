@@ -8,4 +8,4 @@
 
 (4) Pri významných vnútroskupinových obchodoch s osobami s osobitným vzťahom sa postupuje podľa osobitného zákona.<sup>110d</sup>)
 
-(5) Ak finančný konglomerát ovláda zmiešaná finančná holdingová spoločnosť a ak je najdôležitejším finančným sektorom finančného konglomerátu sektor investičných služieb, na vnútroskupinové obchody sektora investičných služieb a zmiešanej finančnej holdingovej spoločnosti sa vzťahuje § 138 ods. 4.
+(5) Ak finančný konglomerát ovláda zmiešaná finančná holdingová spoločnosť a ak je najdôležitejším finančným sektorom finančného konglomerátu sektor investičných služieb, na vnútroskupinové obchody sektora investičných služieb a zmiešanej finančnej holdingovej spoločnosti sa vzťahuje osobitný predpis.<sup>110daa</sup>)

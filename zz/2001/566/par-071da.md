@@ -1,43 +1,57 @@
 # § 71da Zásady odmeňovania u obchodníka s cennými papiermi
 
-(1) Obchodník s cennými papiermi je povinný uplatňovať zásady odmeňovania podľa tohto zákona pre osoby, ktorých profesionálne činnosti majú významný vplyv na rizikový profil obchodníka s cennými papiermi, a to spôsobom, ktorý zohľadňuje jeho veľkosť, vnútornú organizáciu a povahu, rozsah a zložitosti jeho činností, u
+(1) Obchodník s cennými papiermi je povinný uplatňovať tieto zásady odmeňovania:
 
-- a) všetkých členov predstavenstva,
+- a) odmeňovanie je jednoznačne zdokumentované a primerané veľkosti, vnútornej organizácii a povahe, rozsahu a zložitosti činností obchodníka s cennými papiermi,
 
-- b) všetkých členov dozornej rady,
+- b) odmeňovanie je založené na rovnakej odmene pre mužov a ženy za rovnakú prácu alebo prácu rovnakej hodnoty,
 
-- c) vedúcich zamestnancov,
+- c) odmeňovanie je v súlade s riadnym a účinným riadením rizík obchodníka s cennými papiermi a podporuje ho,
 
-- d) zamestnancov s riadiacou zodpovednosťou za kontrolné funkcie alebo významné obchodné útvary,
+- d) odmeňovanie je v súlade s obchodnou stratégiou a cieľmi obchodníka s cennými papiermi a zohľadňuje dlhodobé účinky prijatých investičných rozhodnutí,
 
-- e) zamestnancov, ktorí majú nárok na významnú odmenu za predchádzajúce účtovné obdobie, ak
+- e) odmeňovanie zahŕňa aj opatrenia na zabránenie konfliktu záujmov a podporuje zodpovedné podnikanie a presadzovanie informovanosti o rizikách a obozretnom podstupovaní rizika,
 
-  - 1. odmena tohto zamestnanca je rovná alebo vyššia ako 500 000 eur a je rovná alebo vyššia ako priemerná odmena priznaná osobám podľa písmen a) až c),
+- f) dozorná rada prijíma a pravidelne skúma zásady odmeňovania a zodpovedá za ich vypracovanie, schválenie a dodržiavanie,
 
-  - 2. vykonávajú profesionálnu činnosť vo významnom obchodnom útvare ustanovenom v súlade s osobitným predpisom<sup>56aca</sup>) a táto činnosť má významný vplyv na rizikový profil príslušného obchodného útvaru,
+- g) uplatňovanie zásad odmeňovania sa aspoň raz ročne podrobí nezávislému preskúmaniu mechanizmom vnútornej kontroly,
 
-- f) ďalších zamestnancov, ktorí nie sú uvedení v písmenách a) až e) a ktorých odborné činnosti majú vplyv na rizikový profil obchodníka s cennými papiermi a sú určení podľa osobitného predpisu.<sup>56aca</sup>)
+- h) zamestnanci s kontrolným funkciami vykonávajú svoju funkciu nezávisle, majú primerané právomoci a sú odmeňovaní podľa ich dosahovaných výsledkov, a to nezávisle od vyhodnotenia dosahovaných výsledkov obchodníka s cennými papiermi,
 
-(2) V rámci zásad odmeňovania osôb podľa odseku 1 obchodník s cennými papiermi uplatňuje
+- i) na odmeňovanie vedúcich zamestnancov zodpovedných za riadenie rizík a vedúcich zamestnancov zodpovedných za funkciu dodržiavania dohliada výbor pre odmeňovanie podľa § 71dd, ak sa zriaďuje alebo dozorná rada,
 
-- a) zaručenú pevnú zložku celkovej odmeny ako
+- j) obchodník s cennými papiermi uplatňuje
 
-  - 1. základnú zložku mzdy, ak ide o zamestnanca,
+  - 1. zaručenú pevnú zložku celkovej odmeny ako
 
-  - 2. pevnú zložku odmeny, ak ide o člena štatutárneho orgánu obchodníka s cennými papiermi a člena dozornej rady obchodníka s cennými papiermi,
+    - 1a. základnú zložku mzdy, ak ide o zamestnanca,
 
-- b) pohyblivú zložku celkovej odmeny.
+    - 1b. pevnú zložku odmeny, ak ide o člena štatutárneho orgánu obchodníka s cennými papiermi a člena dozornej rady obchodníka s cennými papiermi,
 
-(3) Zaručená pevná zložka celkovej odmeny osoby podľa odseku 1 musí byť primerane vyvážená s pohyblivou zložkou celkovej odmeny; pohyblivá zložka celkovej odmeny nikdy nepresiahne zaručenú pevnú zložku celkovej odmeny. Zaručená pevná zložka celkovej odmeny má predstavovať dostatočne vysoký podiel odmeny, aby bolo možné uplatňovať pružnú politiku v oblasti pohyblivých zložiek odmeny vrátane možnosti nevyplatiť žiadne pohyblivé zložky celkovej odmeny. Zaručená pevná zložka celkovej odmeny má zohľadňovať odbornú spôsobilosť a zodpovednosť osoby podľa odseku 1 v rámci organizácie a riadenia obchodníka s cennými papiermi.
+  - 2. pohyblivú zložku celkovej odmeny,
 
-(4) Zásady odmeňovania podľa odseku 1 sa vzťahujú aj na poskytovanie odstupného, odchodného a na ďalšie kompenzácie v spojitosti s predchádzajúcim zamestnaním osôb podľa odseku 1.
+- k) zaručená pevná zložka celkovej odmeny predstavuje dostatočne vysoký podiel odmeny, aby bolo možné uplatňovať pružnú politiku v oblasti pohyblivých zložiek odmeny vrátane možnosti nevyplatiť žiadne pohyblivé zložky celkovej odmeny.
 
-(5) Zásady odmeňovania obchodníka s cennými papiermi podľa odseku 1 musia byť v súlade s účinným systémom riadenia rizík, obchodnou stratégiou a dlhodobými cieľmi obchodníka s cennými papiermi a majú zahŕňať aj opatrenia na zabránenie konfliktu záujmov.
+(2) Zásady odmeňovania podľa odseku 1 uplatňuje obchodník s cennými papiermi u
 
-(6) Ak obchodníkovi s cennými papiermi bolo poskytnuté stabilizačné opatrenie štátu sledujúce zmiernenie vplyvov globálnej finančnej krízy, je povinný uplatniť aj zásady odmeňovania na
+- a) všetkých členov štatutárneho orgánu obchodníka s cennými papiermi,
 
-- a) pohyblivé zložky celkovej odmeny osoby podľa odseku 1, ktoré nepresiahnu 1 % z čistých príjmov, ak nie sú v súlade s obchodnou stratégiou obchodníka s cennými papiermi, jeho záujmami a s ukončením poskytnutej stabilizačnej pomoci,
+- b) všetkých členov dozornej rady obchodníka s cennými papiermi,
 
-- b) základe požiadania Národnej banky Slovenska tak, aby upravil ich štruktúru, a ak je to potrebné, aj určenie limitov na odmeňovanie členov štatutárneho orgánu a členov dozornej rady, takým spôsobom, aby boli v súlade s vhodným riadením rizík,
+- c) vrcholového manažmentu,
 
-- c) pohyblivé zložky celkovej odmeny členov štatutárneho orgánu a členov dozornej rady, ktoré sa nepriznajú za hodnotené obdobie, ak sú neodôvodnené.
+- d) osôb zodpovedných za podstupovanie rizík,
+
+- e) zamestnancov s kontrolnými funkciami,
+
+- f) všetkých zamestnancov, ktorí nie sú uvedení v písmenách a) až e), ktorých profesionálne činnosti majú významný vplyv na rizikový profil obchodníka s cennými papiermi podľa osobitného predpisu<sup>56aca</sup>) alebo aktíva, ktoré spravuje a ktorí majú nárok na celkovú odmenu rovnajúcu sa aspoň najnižšej odmene osôb podľa písmena c) alebo písmena d).
+
+(3) Obchodník s cennými papiermi je povinný určiť primeraný pomer medzi pevnou zložkou celkovej odmeny a pohyblivou zložkou celkovej odmeny zamestnanca obchodníka s cennými papiermi v súlade s obchodnou stratégiou, súvisiacimi rizikami a vplyvom zamestnancov uvedených v odseku 2 na rizikový profil obchodníka s cennými papiermi.
+
+(4) Zásady odmeňovania podľa odseku 1 uplatňuje obchodník s cennými papiermi spôsobom, ktorý je primeraný jeho veľkosti, vnútornej organizácii a povahe, rozsahu a zložitosti jeho činností.
+
+(5) Ak obchodníkovi s cennými papiermi bolo poskytnuté stabilizačné opatrenie štátu sledujúce zmiernenie vplyvov globálnej finančnej krízy, pohyblivé zložky celkovej odmeny
+
+- a) členov štatutárneho orgánu a členov dozornej rady sa nepriznajú za hodnotené obdobie,
+
+- b) osoby uvedenej v odseku 2 písm. c) až f) sa obmedzia na časť čistých príjmov, ak nie sú v súlade s obchodnou stratégiou obchodníka s cennými papiermi, jeho záujmami a s ukončením poskytnutého stabilizačného opatrenia štátu.

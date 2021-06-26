@@ -30,7 +30,7 @@ Príloha k zákonu č. 566/2001 Z. z.
 
   - 14. Smernica Európskeho parlamentu a Rady 2011/89/EÚ zo 16. novembra 2011, ktorou sa menia a dopĺňajú smernice 98/78/ES, 2002/87/ES, 2006/48/ES a 2009/138/ES, pokiaľ ide o doplnkový dohľad nad finančnými inštitúciami vo finančnom konglomeráte (Ú. v. EÚ L 326, 8. 12. 2011).
 
-  - 15. Smernica Európskeho parlamentu a Rady 2013/36/EÚ z 26. júna 2013 o prístupe k činnosti úverových inštitúcií a prudenciálnom dohľade nad úverovými inštitúciami a investičnými spoločnosťami, o zmene smernice 2002/87/ES a o zrušení smerníc 2006/48/ES a 2006/49/ES (Ú. v. EÚ L 176, 27. 6. 2013).
+  - 15. Smernica Európskeho parlamentu a Rady 2013/36/EÚ z 26. júna 2013 o prístupe k činnosti úverových inštitúcií a prudenciálnom dohľade nad úverovými inštitúciami, o zmene smernice 2002/87/ES a o zrušení smerníc 2006/48/ES a 2006/49/ES (Ú. v. EÚ L 176, 27. 6. 2013).
 
   - 16. Smernica Európskeho parlamentu a Rady 2014/59/EÚ z 15. mája 2014, ktorou sa stanovuje rámec pre ozdravenie a riešenie krízových situácií úverových inštitúcií a investičných spoločností a ktorou sa mení smernica Rady 82/891/EHS a smernice Európskeho parlamentu a Rady 2001/24/ES, 2002/47/ES, 2004/25/ES, 2005/56/ES, 2007/36/ES, 2011/35/EÚ, 2012/30/EÚ a 2013/36/EÚ a nariadenia Európskeho parlamentu a Rady (EÚ) č. 1093/2010 a (EÚ) č. 648/2012 (Ú. v. EÚ L 173, 12. 6. 2014).
 
@@ -49,3 +49,9 @@ Príloha k zákonu č. 566/2001 Z. z.
   - 23. Smernica Európskeho parlamentu a Rady (EÚ) 2019/878 z 20. mája 2019, ktorou sa mení smernica 2013/36/EÚ, pokiaľ ide o oslobodené subjekty, finančné holdingové spoločnosti, zmiešané finančné holdingové spoločnosti, odmeňovanie, opatrenia a právomoci v oblasti dohľadu a opatrenia na zachovanie kapitálu (Ú. v. EÚ L 150, 7. 6. 2019).
 
   - 24. Smernica Európskeho parlamentu a Rady (EÚ) 2019/879 z 20. mája 2019, ktorou sa mení smernica 2014/59/EÚ, pokiaľ ide o kapacitu úverových inštitúcií a investičných spoločností na absorpciu strát a rekapitalizáciu, a smernica 98/26/ES (Ú. v. EÚ L 150, 7. 6. 2019).
+
+  - 25. Smernica Európskeho Parlamentu a Rady (EÚ) 2019/2034 z 27. novembra 2019 o prudenciálnom dohľade nad investičnými spoločnosťami a o zmene smerníc 2002/87/ES, 2009/65/ES, 2011/61/EÚ, 2013/36/EÚ, 2014/59/EÚ a 2014/65/EÚ (Ú. v. EÚ L 314, 5. 12. 2019).
+
+  - 26. Smernica Európskeho parlamentu a Rady (EÚ) 2019/2177 z 18. decembra 2019, ktorou sa mení smernica 2009/138/ES o začatí a vykonávaní poistenia a zaistenia (Solventnosť II), smernica 2014/65/EÚ o trhoch s finančnými nástrojmi a smernica (EÚ) 2015/849 o predchádzaní využívaniu finančného systému na účely prania špinavých peňazí alebo financovania terorizmu (Ú. v. EÚ L 334, 27. 12. 2019).
+
+  - 27. Smernica Európskeho parlamentu a Rady (EÚ) 2020/1504 zo 7. októbra 2020, ktorou sa mení smernica 2014/65/EÚ o trhoch s finančnými nástrojmi (Ú. v. EÚ L 347, 20. 10. 2020).
