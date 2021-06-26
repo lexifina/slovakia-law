@@ -1,6 +1,6 @@
 # § 33g
 
-(1) Národná banka Slovenska štvrťročne posúdi mieru cyklického systémového rizika a rozhodne o určení miery proticyklického kapitálového vankúša, pričom zohľadňuje
+(1) Národná banka Slovenska štvrťročne posúdi mieru cyklického systémového rizika a primeranosť miery proticyklického kapitálového vankúša a podľa potreby rozhodne o určení miery proticyklického kapitálového vankúša, pričom zohľadňuje
 
 - a) referenčnú hodnotu pre proticyklický kapitálový vankúš vypočítanú podľa odseku 2,
 

@@ -40,7 +40,7 @@ E<sub>i</sub> je výška rizikovej expozície pre podsúbor expozícií i vypoč
 
 - f) podsúbory expozícií podľa písmena b).
 
-(3) Národná banka Slovenska určí vankúš na krytie systémového rizika na všetky expozície alebo podsúbory expozícií podľa odseku 2 pre všetky banky alebo na jednu alebo viaceré podsúbory expozícií bánk postupne na základe úprav o 0,5 percentuálneho bodu. Národná banka Slovenska môže určiť rôzne vankúše na krytie systémového rizika pre jednotlivé banky a podsúbory expozícií. Vankúš na krytie systémového rizika sa nevzťahuje na riziká, ktoré sú kryté vankúšmi podľa § 33c a 33d.
+(3) Národná banka Slovenska určí vankúš na krytie systémového rizika na všetky expozície alebo podsúbory expozícií podľa odseku 2 pre všetky banky alebo pre jednu alebo viacero podskupín bánk postupne na základe úprav o 0,5 percentuálneho bodu alebo jeho násobku. Národná banka Slovenska môže určiť rôzne vankúše na krytie systémového rizika pre jednotlivé banky a podsúbory expozícií. Vankúš na krytie systémového rizika sa nevzťahuje na riziká, ktoré sú kryté vankúšmi podľa § 33c a 33d.
 
 (4) Národná banka Slovenska pri určení vankúša na krytie systémového rizika zabezpečí, aby vankúš na krytie systémového rizika nespôsoboval neprimerané negatívne účinky na celý finančný systém alebo jeho časti v iných členských štátoch alebo v Európskej únii ako celku a nepredstavoval alebo nevytváral tak prekážku fungovaniu vnútorného trhu Európskej únie. Národná banka Slovenska prehodnocuje vankúš na krytie systémového rizika najmenej raz za dva roky. Vankúš na krytie systémového rizika sa nepoužije na riešenie rizík, ktoré sú kryté vankúšmi podľa § 33c a 33d.
 

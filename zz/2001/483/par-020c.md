@@ -35,3 +35,5 @@
 - c) je jedinou inštitúciou skupiny mimo územia členského štátu v Európskej únii alebo
 
 - d) je súčasťou skupiny mimo územia členského štátu, ktorej celková hodnota aktív, ktoré má vo všetkých členských štátoch, je menej ako 40 000 000 000 eur.
+
+(8) Na účely tohto paragrafu a § 122yd ods. 2 sa za inštitúciu považuje aj obchodník s cennými papiermi a investičná spoločnosť podľa osobitného predpisu,<sup>24j</sup>) ktorej bolo udelené povolenie v súlade s právnymi predpismi iného členského štátu.

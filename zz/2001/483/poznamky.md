@@ -4,7 +4,11 @@
 
 - 1aa) § 2 ods. 1 zákona č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov.
 
-- 1ab) Čl. 4 ods. 1 bod 1 nariadenia Európskeho parlamentu a Rady (EÚ) č. 575/2013 z 26. júna 2013 o prudenciálnych požiadavkách na úverové inštitúcie a investičné spoločnosti a o zmene nariadenia (EÚ) č. 648/2012 (Ú. v. EÚ L 176, 27. 6. 2013).
+- 1ab) Čl. 4 ods. 1 bod 1 nariadenia Európskeho parlamentu a Rady (EÚ) č. 575/2013 z 26. júna 2013 o prudenciálnych požiadavkách na úverové inštitúcie a o zmene nariadenia (EÚ) č. 648/2012 (Ú. v. EÚ L 176, 27. 6. 2013).
+
+- 1ac) Čl. 4 ods. 1 bod 1 písm. b) nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 1ad) § 6 ods. 1 písm. c) a f) zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 2) § 313 až 322 Obchodného zákonníka.
 
@@ -172,6 +176,8 @@
 
 - § 22 ods. 3 a 4 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
+- 24aad) § 54 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
 - 24b) § 36 ods. 1 a 2 Občianskeho zákonníka.
 
 - 24c) § 1 ods. 2, § 6 ods. 3 a § 8 ods. 3 nariadenia vlády Slovenskej republiky č. 42/2004 Z. z. o Obchodnom vestníku v znení nariadenia vlády Slovenskej republiky č. 76/2005 Z. z.
@@ -195,6 +201,8 @@
 - 24i) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - Nariadenie Európskeho parlamentu a Rady (EÚ) č. 600/2014 z 15. mája 2014 o trhoch s finančnými nástrojmi, ktorým sa mení nariadenie (EÚ) č. 648/2012 (Ú. v. EÚ L 173, 12. 6. 2014) v platnom znení.
+
+- 24j) Čl. 4 ods. 1 bod 2 nariadenia (EÚ) č. 575/2013 v platnom znení.
 
 - 25) § 173 a 174 Obchodného zákonníka.
 
