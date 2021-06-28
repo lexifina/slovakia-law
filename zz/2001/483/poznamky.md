@@ -332,6 +332,8 @@
 
 - 30k) Čl. 366 nariadenia (EÚ) č. 575/2013.
 
+- 30ka) Čl. 4 ods. 1 bod 145 nariadenia (EÚ) č. 575/2013 v platnom znení.
+
 - 30l) Čl. 312 až 320 nariadenia (EÚ) č. 575/2013.
 
 - 30la) Čl. 4 ods. 1 bod 134 nariadenia (EÚ) č. 575/2013 v platnom znení.
