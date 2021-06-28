@@ -970,6 +970,52 @@ Zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov 
 
   - <sup>30bg</sup>) Tretia a siedma časť nariadenia (EÚ) č. 575/2013 v platnom znení.“.
 
+- 39. Za § 31 sa vkladá § 31a, ktorý vrátane nadpisu znie:
+
+- „§ 31a
+
+- Úrokové riziko vyplývajúce z činností, ktoré nie sú zaznamenané v obchodnej knihe
+
+- (1)
+
+- Banka je povinná zaviesť interné systémy, používať štandardizovanú metodiku alebo zjednodušenú štandardizovanú metodiku na identifikáciu, hodnotenie, riadenie a zmierňovanie rizík vyplývajúcich z možných zmien úrokových sadzieb, ktoré ovplyvňujú ekonomickú hodnotu vlastného imania a čisté príjmy z úrokov z jej činností, ktoré nie sú zaznamenané v obchodnej knihe. Štandardizovaná metodika alebo zjednodušená štandardizovaná metodika používaná bankou musí byť v súlade s osobitným predpisom o vydaní regulačného technického predpisu vydaným na základe osobitného predpisu.<sup>13o</sup>)
+
+- (2)
+
+- Banka je povinná zaviesť interné systémy na posudzovanie a monitorovanie rizík vyplývajúcich z možných zmien kreditných rozpätí, ktoré ovplyvňujú ekonomickú hodnotu vlastného imania a čisté príjmy z úrokov z jej činností, ktoré nie sú zaznamenané v obchodnej knihe.
+
+- (3)
+
+- Národná banka Slovenska môže od banky vyžadovať, aby na účely riadenia úrokového rizika vyplývajúceho z činností, ktoré nie sú zaznamenané v obchodnej knihe, použila štandardizovanú metodiku podľa odseku 1, ak interné systémy riadenia úrokového rizika vyplývajúceho z činností, ktoré nie sú zaznamenané v obchodnej knihe, používané bankou nie sú uspokojivé.
+
+- (4)
+
+- Národná banka Slovenska môže od malej a menej zložitej banky podľa osobitného predpisu<sup>30ka</sup>) vyžadovať, aby na účely riadenia úrokového rizika vyplývajúceho z činností, ktoré nie sú zaznamenané v obchodnej knihe, používala štandardizovanú metodiku podľa odseku 1, ak podľa Národnej banky Slovenska zjednodušená štandardizovaná metodika podľa odseku 1 nie je vhodná na zachytenie úrokového rizika vyplývajúceho z činností banky, ktoré nie sú zaznamenané v obchodnej knihe.“.
+
+  - Poznámka pod čiarou k odkazu 30ka znie:
+
+  - „<sup>30ka</sup>) Čl. 4 ods. 1 bod 145 nariadenia (EÚ) č. 575/2013 v platnom znení.“.
+
+- 40. V § 33 odsek 1 znie:
+
+- „(1)
+
+- Národná banka Slovenska uloží banke opatrenie na nápravu podľa § 50 ods. 1 alebo určí iné modelovacie predpoklady a parametrické predpoklady, ako sú ustanovené v súlade s osobitným predpisom o vydaní regulačného technického predpisu vydaným na základe osobitného predpisu<sup>13o</sup>), aspoň vtedy, ak
+
+- a)
+
+- ekonomická hodnota vlastného imania klesne o viac ako 15 % jej kapitálu Tier 1 následkom náhlej a neočakávanej zmeny úrokových sadzieb podľa ktoréhokoľvek zo šiestich šokových scenárov pre úrokové sadzby ustanovených v súlade s osobitným predpisom o vydaní regulačného technického predpisu vydaným na základe osobitného predpisu,<sup>13o</sup>)
+
+- b)
+
+- v banke dôjde k veľkému poklesu čistého úrokového výnosu v dôsledku náhlej a neočakávanej zmeny úrokových sadzieb podľa jedného z dvoch šokových scenárov pre úrokové sadzby ustanovených v súlade s osobitným predpisom o vydaní regulačného technického predpisu vydaným na základe osobitného predpisu.<sup>13o</sup>)“.
+
+- 41. § 33 sa dopĺňa odsekom 4, ktorý znie:
+
+- „(4)
+
+- Ak na základe preskúmania a hodnotenia podľa § 6 ods. 2 Národná banka Slovenska dospeje k záveru, že riadenie úrokového rizika vyplývajúceho z činností, ktoré nie sú zaznamenané v obchodnej knihe, zo strany banky je primerané a že banka nie je nadmerne vystavená úrokovému riziku vyplývajúcemu z činností, ktoré nie sú zaznamenané v obchodnej knihe, Národná banka Slovenska nemusí uložiť opatrenia na nápravu ani určiť iné modelovacie predpoklady a parametrické predpoklady podľa odseku 1.“.
+
 - 42. V § 33a písmená b) až d) znejú:
 
 - „b)
