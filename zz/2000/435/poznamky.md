@@ -34,6 +34,8 @@
 
 - 1bi) Kapitola I časť A-I/6 Medzinárodného dohovoru o normách výcviku, kvalifikácie a strážnej služby námorníkov (STCW) 1978 (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.) v platnom znení.
 
+- 1bia) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
 - 1bj) § 26 písm. h) zákona č. 56/2018 Z. z. o posudzovaní zhody výrobku, sprístupňovaní určeného výrobku na trhu a o zmene a doplnení niektorých zákonov.
 
 - Nariadenie vlády Slovenskej republiky č. 262/2016 Z. z. o vybavení námorných lodí.
@@ -94,6 +96,14 @@
 
 - 10) § 23 ods. 3 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách.
 
+- 10a) § 2 písm. b) nariadenia vlády Slovenskej republiky č. 67/2007 Z. z. o monitorovacom a informačnom systéme pre námornú plavbu.
+
+- 10b) § 1 nariadenia vlády Slovenskej republiky č. 67/2007 Z. z. v znení neskorších predpisov.
+
+- 10c) Prílohy č. I, II, IV, V a VI Medzinárodného dohovoru o zabránení znečisťovania z lodí (MARPOL 1973) v znení neskorších predpisov (oznámenie Ministerstva zahraničných vecí SR č. 165/2001 Z. z.).
+
+- 10d) Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 11) Napríklad § 420 až 450 Občianskeho zákonníka, § 373 až 386 Obchodného zákonníka.
 
 - 12) § 187 až 205c Zákonníka práce v znení neskorších predpisov.
@@ -135,8 +145,6 @@
 - 20a) Zákon č. 56/2018 Z. z.
 
 - 20c) Nariadenie vlády Slovenskej republiky č. 579/2006 Z. z., ktorým sa ustanovujú podmienky bezpečnej nakládky a vykládky námornej lode na hromadný náklad.
-
-- Nariadenie vlády Slovenskej republiky č. 66/2007 Z. z. o prístavných zberných zariadeniach na lodný odpad a na zvyšky nákladu.
 
 - 21) Napríklad Obchodný zákonník v znení neskorších predpisov, zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
