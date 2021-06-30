@@ -248,6 +248,10 @@
 
 - 35aak) Nariadenie (ES) č. 987/2009 v platnom znení.
 
+- 35aakb) Čl. 2 ods. 2 nariadenia Európskeho parlamentu a Rady (EÚ) 2021/953 zo 14. júna 2021 o rámci pre vydávanie, overovanie a uznávanie interoperabilných potvrdení o očkovaní proti ochoreniu COVID-19, o vykonaní testu a prekonaní tohto ochorenia (digitálny COVID preukaz EÚ) s cieľom uľahčiť voľný pohyb počas pandémie ochorenia COVID-19 (Ú. v. EÚ L 211, 15. 6. 2021).
+
+- 35aakc) § 12 ods. 7 písm. c) zákona č. 153/2013 Z. z. v znení zákona č. 252/2021 Z. z.
+
 - 35aal) § 88 zákona č. 363/2011 Z. z. v znení neskorších predpisov.
 
 - 35ab) § 60b ods. 4 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 358/2007 Z. z.
@@ -262,7 +266,7 @@
 
 - 35cb) § 9 ods. 7 písm. c) zákona č. 580/2004 Z. z. v znení zákona č. 356/2016 Z. z.
 
-- 35cc) Napríklad zákon č. 576/2004 Z. z. v znení neskorších predpisov, zákon č. 578/2004 Z. z. v znení neskorších predpisov, zákon č. 580/2004 Z. z. v znení neskorších predpisov, zákon č. 362/2011 Z. z. v znení neskorších predpisov, zákon č. 153/2013 Z. z. v znení neskorších predpisov.
+- 35cc) Napríklad zákon č. 576/2004 Z. z. v znení neskorších predpisov, zákon č. 578/2004 Z. z. v znení neskorších predpisov, zákon č. 580/2004 Z. z. v znení neskorších predpisov, zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 362/2011 Z. z. v znení neskorších predpisov, zákon č. 153/2013 Z. z. v znení neskorších predpisov.
 
 - 35cd) Civilný sporový poriadok, Civilný mimosporový poriadok, Správny súdny poriadok, Správny poriadok.
 
@@ -569,6 +573,8 @@
 - 95e) Napríklad zákon č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov, zákon č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 95f) § 25 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
+- 95fa) Napríklad zákon č. 153/2013 Z. z. v znení neskorších predpisov.
 
 - 95g) § 2 ods. 1 a § 3 ods. 2 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
 
