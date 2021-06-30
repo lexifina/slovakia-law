@@ -51,5 +51,3 @@
 (7) Ak bola v období od 1. januára 2021 do 30. júna 2021 osobe opakovane uložená pokuta za správny delikt podľa odseku 4 písm. o) a colný úrad zistí, že nebola vykonaná náprava, podá podnet na miestne príslušný živnostenský úrad na konanie podľa osobitného predpisu.<sup>30aa</sup>)
 
 (8) Ak konanie o správnom delikte podľa odseku 4 v znení účinnom do 30. júna 2021 nebolo právoplatne ukončené do 30. júna 2021, ukončí sa podľa predpisu účinného do 30. júna 2021 a na pokutu sa vzťahuje odsek 5.
-
-(9) Proti rozhodnutiu colného úradu vydanému podľa § 11 ods. 12, 13 a 14, § 19 ods. 10, § 19a ods. 5, § 21 ods. 8, 9 a ods. 10 písm. a) a d), § 22 ods. 12, § 22a ods. 1, § 23 ods. 3 a 14, § 24 ods. 12 a 13, § 25 ods. 16, 17 a ods. 18 písm. a) a d), § 25a ods. 11, § 25b ods. 11 a 19, § 26 ods. 6, § 28 ods. 10 a § 31 ods. 4 nemožno podať odvolanie.
