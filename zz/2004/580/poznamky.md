@@ -339,3 +339,5 @@
 - 73) § 2 ods. 1 písm. q) a § 12 ods. 2 písm. f) zákona č. 355/2007 Z. z. v znení neskorších predpisov.
 
 - 74) § 20 ods. 1 písm. k) zákona č. 581/2004 Z. z.
+
+- 75) Čl. 16 ods. 1 nariadenia č. 883/2004 v platnom znení.

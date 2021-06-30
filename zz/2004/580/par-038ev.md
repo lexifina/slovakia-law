@@ -59,3 +59,7 @@
 (22) Preprava poistenca v súvislosti s poskytnutím zdravotnej starostlivosti v inom členskom štáte podľa odseku 18 sa na účel úhrady nákladov za prepravu pokladá za prepravu na území Slovenskej republiky.
 
 (23) Pri úmrtí poistenca s ochorením COVID-19, ktoré nastane u poskytovateľa ústavnej zdravotnej starostlivosti v inom členskom štáte, kam bol poistenec preložený podľa odseku 18, prevoz mŕtveho tela do Slovenskej republiky zabezpečuje a uhrádza úrad; primerane sa použijú ustanovenia osobitného predpisu.<sup>74</sup>)
+
+(24) Na zamestnanca, ktorý je zdravotne poistený v cudzine, ktorému bola udelená výnimka z uplatniteľnej legislatívy podľa osobitného predpisu,<sup>75</sup>) alebo ktorý splní podmienky podľa § 3 ods. 3 a ktorého počas krízovej situácie krátkodobo zamestnáva zamestnávateľ, ktorý je poskytovateľom zdravotnej starostlivosti, sa nevzťahujú povinnosti podľa § 6 až 8 a § 23. Povinnosť podľa § 24 ods. 1 písm. c), vykázanie poistného a odvod preddavku na poistné za takéhoto zamestnanca splní a vykoná zamestnávateľ, ktorý je poskytovateľom zdravotnej starostlivosti, do zdravotnej poisťovne s najväčším počtom poistencov. Na zdravotnú poisťovňu sa pri zamestnancovi podľa prvej vety nevzťahujú povinnosti podľa § 25 ods. 1 písm. a).
+
+(25) Postup podľa odseku 24 je možný, iba ak má zamestnávateľ, ktorý je poskytovateľom zdravotnej starostlivosti, udelený písomný súhlas na takýto postup od ministerstva zdravotníctva.
