@@ -48,6 +48,8 @@
 
 - § 16 výnosu Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky z 25. júla 2007 č. 16826/2007-OL, ktorým sa vydáva hlava Potravinového kódexu Slovenskej republiky upravujúca požiadavky na potraviny na osobitné výživové účely a na výživové doplnky (oznámenie č. 370/2007 Z. z.).
 
+- 12e) § 12 ods. 7 zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov.
+
 - 13) Čl. 2 ods. 1 písm. a) nariadenia Európskeho parlamentu a Rady (ES) č. 1223/2009 z 30. novembra 2009 o kozmetických výrobkoch (Ú. v. EÚ L 342, 22. 12. 2009) v platnom znení.
 
 - 13a) § 3 ods. 15 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov.
