@@ -4,6 +4,10 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 
 - 1. V § 1 písm. a) sa za slová „Kjótskeho protokolu“ vkladajú slová „k Rámcovému dohovoru Organizácie Spojených národov o zmene klímy (ďalej len „Kjótsky protokol“)“.
 
+- 2. V § 2 sa vypúšťajú písmená i) a j).
+
+  - Doterajšie písmená k) až o) sa označujú ako písmená i) až m).
+
 - 3. V § 2 písm. i) sa za slová „členského štátu Európskej únie“ vkladajú slová „alebo iného štátu, ktorý je zmluvnou stranou Dohody o Európskom hospodárskom priestore“.
 
 - 4. § 2 sa dopĺňa písmenami n) až r), ktoré znejú:
@@ -51,6 +55,8 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
   - „<sup>8</sup>) Delegované nariadenie Komisie (EÚ) 2019/331 z 19. decembra 2018, ktorým sa ustanovujú prechodné pravidlá harmonizácie bezodplatného prideľovania emisných kvót podľa článku 10a smernice Európskeho parlamentu a Rady 2003/87/ES platné v celej Únii (Ú. v. EÚ L 59, 27. 2. 2019).“.
 
 - 11. V § 10 ods. 3 sa vypúšťa posledná veta.
+
+- 12. § 11 sa vypúšťa. Poznámky pod čiarou k odkazom 11 a 11a sa vypúšťajú.
 
 - 13. V § 17 ods. 5 sa slová „§ 26 ods. 1 písm. n)“ nahrádzajú slovami „§ 26 ods. 1 písm. m)“ a slová „§ 26 ods. 1 písm. t)“ sa nahrádzajú slovami „§ 26 ods. 1 písm. s)“.
 
@@ -143,6 +149,8 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 - 33. V § 29 ods. 1 sa vypúšťa písmeno c).
 
   - Doterajšie písmeno d) sa označuje ako písmeno c).
+
+- 34. V § 32 ods. 1 sa za slovom „dochádza“ vypúšťa čiarka a slová „údaje o používaní jednotiek zníženia emisií (ERU) a jednotiek certifikovaného zníženia emisií (CER)“.
 
 - 35. § 32 sa dopĺňa odsekmi 3 a 4, ktoré znejú:
 
