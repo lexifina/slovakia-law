@@ -81,3 +81,5 @@
 - f) osobách, na ktoré sa podľa osobitných predpisov<sup>3a</sup>) vzťahujú právne predpisy Slovenskej republiky v rozsahu meno, priezvisko, dátum narodenia, rodné číslo, alebo ak ide o cudzinca, identifikačné číslo sociálneho zabezpečenia pridelené Sociálnou poisťovňou, adresa trvalého pobytu alebo adresa na doručovanie a dátum začiatku a ukončenia uplatňovania právnych predpisov Slovenskej republiky, štát uplatniteľnej legislatívy, štát, ktorý vydal prenosný dokument, číslo prenosného dokumentu, charakter pozície.
 
 (21) Povinnosť platiť poistné na verejné zdravotné poistenie sa nevzťahuje na dividendy vyplácané zo zisku dosiahnutého v účtovnom období, ktoré sa začalo 1. januára 2017 alebo neskôr.
+
+(22) Subjekty uvedené v odsekoch 8, 9, 12 až 14 a 20 poskytujú úradu údaje o fyzickej osobe, u ktorej došlo k zmene platiteľa poistného z dôvodu uvedeného v § 11 ods. 7 písm. c), m) alebo s), najmenej raz za 14 dní.
