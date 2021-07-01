@@ -16,11 +16,13 @@
 
 - 8a) § 65 až 77 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
+- 8aa) § 29 zákona č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 8b) § 3 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
 - 8c) § 2 ods. 1 zákona č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov.
 
-- 9) § 7 ods. 1 zákona č. 351/2011 Z. z. o elektronických komunikáciách.
+- 9) § 1 ods. 1 zákona č. 402/2013 Z. z. o Úrade pre reguláciu elektronických komunikácií a poštových služieb a Dopravnom úrade a o zmene a doplnení niektorých zákonov.
 
 - 10) § 4 zákona č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách v znení zákona č. 498/2009 Z. z.
 
@@ -38,9 +40,23 @@
 
 - Viedenský dohovor o konzulárnych stykoch (vyhláška ministra zahraničných vecí č. 32/1969 Zb. o Viedenskom dohovore o konzulárnych stykoch).
 
+- 17) § 223 až 228a Zákonníka práce.
+
 - 21) § 31 ods. 2 písm. x) zákona č. 251/2012 Z. z.
 
-- 22) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
+- 21a) Zákon č. 461/2003 Z. z. v znení neskorších predpisov.
+
+- 21b) § 21 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+
+- 21c) § 11 ods. 2 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
+
+- 21d) § 12 až 23 zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
+
+- 21e) § 23a až 23c zákona č. 253/1998 Z. z. v znení neskorších predpisov.
+
+- 21f) § 15 písm. a) prvý a druhý bod, štvrtý až šiesty bod a trinásty bod, § 15 písm. b), § 16 písm. a) prvý a druhý bod, štvrtý až šiesty bod a trinásty bod, § 16 písm. b) a § 23b ods. 1 písm. d) prvý až štvrtý bod, jedenásty bod, štrnásty bod a šestnásty bod zákona č. 253/1998 Z. z. v znení zákona č. 190/2013 Z. z.
+
+- 22) Zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 23) § 4 ods. 1 a § 29 zákona č. 324/2011 Z. z. o poštových službách a o zmene a doplnení niektorých zákonov.
 
