@@ -266,6 +266,12 @@ Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona �
 
 - 40. V § 29b ods. 13 sa na konci pripájajú tieto slová: „a na účel preukázania skutočností podľa § 11 ods. 7 písm. j) rodné číslo, meno, priezvisko, dátum narodenia dieťaťa a údaje o fyzickej osobe, za ktorú je platiteľom štát podľa § 11 ods. 7 písm. m) prvého bodu pre toto dieťa v rozsahu rodné číslo, meno, priezvisko, dátum narodenia fyzickej osoby“.
 
+- 41. § 29b sa dopĺňa odsekom 22, ktorý znie:
+
+- „(22)
+
+- Subjekty uvedené v odsekoch 8, 9, 12 až 14 a 20 poskytujú úradu údaje o fyzickej osobe, u ktorej došlo k zmene platiteľa poistného z dôvodu uvedeného v § 11 ods. 7 písm. c), m) alebo s), najmenej raz za 14 dní.“.
+
 - 42. V § 38ev sa vypúšťajú odseky 7, 11 a 17. Doterajšie odseky 8 až 20 sa označujú ako odseky 7 až 17.
 
 - 43. V § 38ev ods. 14 sa slová „ôsmich dní od odvolania krízovej situácie“ nahrádzajú slovami „8. januára 2021“.
