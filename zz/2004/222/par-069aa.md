@@ -1,6 +1,6 @@
 # § 69aa Daňový zástupca pri nadobudnutí tovaru z iného členského štátu, ktorý je určený na dodanie do iného členského štátu alebo tretieho štátu
 
-(1) Zahraničná osoba, ktorá nadobúda tovar v tuzemsku z iného členského štátu podľa § 11 na účel jeho dodania s oslobodením od dane podľa § 43 alebo § 47 alebo dodania formou zásielkového predaja s miestom dodania v inom členskom štáte, sa môže dať zastúpiť daňovým zástupcom, ak
+(1) Zahraničná osoba, ktorá nadobúda tovar v tuzemsku z iného členského štátu podľa § 11 na účel jeho dodania s oslobodením od dane podľa § 43 alebo § 47 alebo predaja tovaru na diaľku na území Európskej únie, sa môže dať zastúpiť daňovým zástupcom, ak
 
 - a) tieto dodania tovaru zahraničná osoba uskutočňuje výlučne prostredníctvom využitia elektronického komunikačného rozhrania ako je elektronické trhovisko, elektronická platforma, elektronický portál alebo podobný elektronický prostriedok,
 
@@ -8,7 +8,7 @@
 
 - c) nedodáva tovar alebo službu, pri ktorej by jej vznikla povinnosť platiť splatnú daň v tuzemsku, keby mala postavenie platiteľa podľa tohto zákona.
 
-(2) Daňový zástupca môže zastupovať zahraničnú osobu podľa odseku 1 len vo veci nadobudnutia tovaru v tuzemsku z iného členského štátu podľa § 11 a jeho následného dodania s oslobodením od dane podľa § 43 alebo § 47 alebo jeho následného dodania formou zásielkového predaja s miestom dodania v inom členskom štáte. Zahraničná osoba môže byť zastúpená vo veci podľa prvej vety len jedným daňovým zástupcom.
+(2) Daňový zástupca môže zastupovať zahraničnú osobu podľa odseku 1 len vo veci nadobudnutia tovaru v tuzemsku z iného členského štátu podľa § 11 a jeho následného dodania s oslobodením od dane podľa § 43 alebo § 47 alebo jeho následného predaja tovaru na diaľku na území Európskej únie. Zahraničná osoba môže byť zastúpená vo veci podľa prvej vety len jedným daňovým zástupcom.
 
 (3) Daňovým zástupcom podľa odseku 2 môže byť len zdaniteľná osoba so sídlom alebo bydliskom v tuzemsku a na zastupovanie zahraničnej osoby musí mať udelené písomné plnomocenstvo a musí mať pridelené osobitné identifikačné číslo pre daň Daňovým úradom Bratislava.
 
@@ -36,11 +36,11 @@
 
 - c) základ dane pri jednotlivých dodaniach tovaru s oslobodením od dane podľa § 43 alebo § 47,
 
-- d) základ dane pri jednotlivých dodaniach tovaru formou zásielkového predaja v členení podľa miesta dodania v inom členskom štáte.
+- d) základ dane pri jednotlivých predajoch tovaru na diaľku na území Európskej únie v členení podľa miesta dodania v inom členskom štáte.
 
 (9) Zdaňovacím obdobím zastúpenej zahraničnej osoby je kalendárny mesiac. Daňový zástupca podľa odseku 2 je povinný podať za zastúpené zahraničné osoby jedno spoločné daňové priznanie, jeden spoločný kontrolný výkaz a jeden spoločný súhrnný výkaz, v ktorých uvádza údaje za všetky zastúpené zahraničné osoby; súhrnný výkaz je povinný podávať za obdobie kalendárneho mesiaca.
 
-(10) Ak zahraničná osoba zastúpená daňovým zástupcom podľa odseku 2 má dodať v tuzemsku tovar alebo službu a týmto dodaním by prestala plniť podmienku podľa odseku 1 písm. c), je povinná podať žiadosť o registráciu pre daň podľa § 5 alebo § 6 a písomne odvolať plnomocenstvo udelené podľa odseku 3 najneskôr ku dňu, ktorý predchádza dňu dodania tohto tovaru alebo služby.
+(10) Ak zahraničná osoba zastúpená daňovým zástupcom podľa odseku 2 má dodať v tuzemsku tovar alebo službu a týmto dodaním by prestala plniť podmienku podľa odseku 1 písm. c), je povinná podať žiadosť o registráciu pre daň podľa § 5 a písomne odvolať plnomocenstvo udelené podľa odseku 3 najneskôr ku dňu, ktorý predchádza dňu dodania tohto tovaru alebo služby.
 
 (11) Daňový zástupca podľa odseku 2 zodpovedá spoločne a nerozdielne za daň z dodaných tovarov podľa odseku 10, ak pri ich nadobudnutí v tuzemsku z iného členského štátu zastupoval zahraničnú osobu a v čase ich dodania nebolo písomne odvolané alebo vypovedané plnomocenstvo.
 

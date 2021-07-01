@@ -12,18 +12,6 @@
 
 - 4d) § 79 ods. 1 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
 
-- 5) Zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení neskorších predpisov.
-
-- Zákon č. 104/2004 Z. z. o spotrebnej dani z vína v znení neskorších predpisov.
-
-- Zákon č. 105/2004 Z. z. o spotrebnej dani z liehu a o zmene a doplnení zákona č. 467/2002 Z. z. o výrobe a uvádzaní liehu na trh v znení zákona č. 211/2003 Z. z. v znení neskorších predpisov.
-
-- Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení neskorších predpisov.
-
-- Zákon č. 107/2004 Z. z. o spotrebnej dani z piva v znení neskorších predpisov.
-
-- Zákon č. 609/2007 Z. z. o spotrebnej dani z elektriny, uhlia a zemného plynu a o zmene a doplnení zákona č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení neskorších predpisov v znení neskorších predpisov.
-
 - 5a) Čl. 219 ods. 1 až 3 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 326, 26. 10. 2012).
 
 - Čl. 12 ods. 12.1 Protokolu o štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 83, 30. 3. 2010).
@@ -32,17 +20,25 @@
 
 - 5aa) § 4 a 5 zákona č. 406/2011 Z. z. o dobrovoľníctve a o zmene a doplnení niektorých zákonov.
 
+- 5ab) Čl. 5b vykonávacieho nariadenia Rady (EÚ) 2019/2026 z 21. novembra 2019, ktorým sa mení vykonávacie nariadenie (EÚ) č. 282/2011, pokiaľ ide o dodania tovaru alebo poskytovania služieb uľahčované elektronickými rozhraniami, ako aj o osobitné úpravy pre zdaniteľné osoby, ktoré poskytujú služby nezdaniteľným osobám, uskutočňujú predaj tovaru na diaľku a určité domáce dodania tovaru (Ú. v. EÚ L 313, 4. 12. 2019).
+
+- 5ac) Čl. 1 bod 48 delegovaného nariadenia Komisie (EÚ) 2020/877 z 3. apríla 2020, ktorým sa mení a opravuje delegované nariadenie (EÚ) 2015/2446, ktorým sa dopĺňa nariadenie Európskeho parlamentu a Rady (EÚ) č. 952/2013, pokiaľ ide o podrobné pravidlá, ktorými sa bližšie určujú niektoré ustanovenia Colného kódexu Únie, a ktorým sa mení delegované nariadenie (EÚ) 2016/341, ktorým sa dopĺňa nariadenie (EÚ) č. 952/2013, pokiaľ ide o prechodné pravidlá pre určité ustanovenia Colného kódexu Únie, keď príslušné elektronické systémy ešte nie sú funkčné (Ú. v. EÚ L 203, 26. 6. 2020).
+
 - 6) Napríklad zákon č. 107/2004 Z. z. o spotrebnej dani z piva.
 
 - 6a) Zákon č. 610/2003 Z. z. o elektronických komunikáciách.
 
 - 6aa) § 7 ods. 1 a 2 zákona č. 529/2002 Z. z. o obaloch a o zmene a doplnení niektorých zákonov.
 
+- 6aaa) Čl. 5a vykonávacieho nariadenia (EÚ) 2019/2026.
+
 - 6ab) Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 732/2002 Z. z. o zozname zálohovaných obalov, ktoré nie sú opakovane použiteľné, a o výške zálohy za ne a o výške zálohy za zálohované opakovane použiteľné obaly.
 
 - 6aba) Čl. 77 ods. 1 písm. a) nariadenia Európskeho parlamentu a Rady (EÚ) č. 952/2013 z 9. októbra 2013, ktorým sa ustanovuje Colný kódex Únie (prepracované znenie) (Ú. v. EÚ L 269, 10. 10. 2013).
 
 - 6abb) Čl. 79 nariadenia (EÚ) č. 952/2013.
+
+- 6abc) Čl. 41a vykonávacieho nariadenia (EÚ) 2019/2026.
 
 - 6ac) § 116 Občianskeho zákonníka.
 
@@ -166,15 +162,15 @@
 
 - 28a) Čl. 496 nariadenia Komisie (EHS) č. 2454/93 z 2. júla 1993, ktorým sa vykonáva nariadenie Rady (EHS) č. 2913/92, ktorým sa ustanovuje Colný kódex spoločenstva (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 6; Ú. v. ES L 253, 11.10.1993) v platnom znení.
 
-- 28aa) Vykonávacie nariadenie Komisie (EÚ) č. 815/2012 z 13. septembra 2012, ktorým sa ustanovujú podrobné pravidlá uplatňovania nariadenia Rady (EÚ) č. 904/2010, pokiaľ ide o osobitné úpravy pre neusadené zdaniteľné osoby, ktoré poskytujú telekomunikačné služby, služby rozhlasového vysielania a televízneho vysielania alebo elektronické služby nezdaniteľným osobám (Ú. v. EÚ L 249, 14. 9. 2012).
+- 28aa) Vykonávacie nariadenie Komisie (EÚ) 2020/194 z 12. februára 2020, ktorým sa stanovujú podrobné pravidlá uplatňovania nariadenia Rady (EÚ) č. 904/2010, pokiaľ ide o osobitné úpravy pre zdaniteľné osoby, ktoré poskytujú služby nezdaniteľným osobám, uskutočňujú predaj tovaru na diaľku a určité domáce dodania tovaru (Ú. v. EÚ L 40, 13.2.2020).
 
-- 28ab) § 13 ods. 5 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
+- 28ab) § 13 ods. 5 a 6 a § 14 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
 
-- 28ac) § 13 ods. 6 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
+- 28ac) Čl. 63c vykonávacieho nariadenia (EÚ) 2019/2026.
 
-- 28ad) Nariadenie Rady (EÚ) č. 967/2012 z 9. októbra 2012, ktorým sa mení a dopĺňa vykonávacie nariadenie EÚ č. 282/2011, pokiaľ ide o osobitné úpravy pre neusadené zdaniteľné osoby, ktoré poskytujú telekomunikačné služby, služby rozhlasového a televízneho vysielania alebo elektronické služby nezdaniteľným osobám (Ú. v. EÚ L 290, 20. 10. 2012).
+- 28ad) Vykonávacie nariadenie Rady (EÚ) č. 282/2011 z 15. marca 2011, ktorým sa ustanovujú vykonávacie opatrenia smernice 2006/112/ES o spoločnom systéme dane z pridanej hodnoty (prepracované znenie) (Ú. v. EÚ L 77, 23. 3. 2011) v platnom znení.
 
-- 28ae) § 155 ods. 1 písm. g) a ods. 5 zákona č. 563/2009 Z. z.
+- 28ae) Čl. 61a vykonávacieho nariadenia (EÚ) 2019/2026.
 
 - 28b) Zákon č. 572/2004 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -189,6 +185,10 @@
 - 28dc) Čl. 54a vykonávacieho nariadenia Rady (EÚ) 2018/1912 zo 4. decembra 2018, ktorým sa mení vykonávacie nariadenie (EÚ) č. 282/2011, pokiaľ ide o určité oslobodenia od dane pri transakciách v rámci Spoločenstva (Ú. v. EÚ L 311, 7. 12. 2018).
 
 - 28e) § 2 písm. al) zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov.
+
+- 28f) Čl. 54b vykonávacieho nariadenia (EÚ) 2019/2026.
+
+- 28g) Čl. 54c vykonávacieho nariadenia (EÚ) 2019/2026.
 
 - 29) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení zákona č. 679/2004 Z. z.
 

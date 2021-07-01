@@ -40,7 +40,7 @@
 
 (12) Dátum skončenia uplatňovania osobitnej úpravy podľa odseku 11 platiteľ alebo jeho právny nástupca písomne oznámi daňovému úradu najneskôr do piatich dní od skončenia zdaňovacieho obdobia, v ktorom uplatňovanie osobitnej úpravy skončil.
 
-(13) Posledným dňom zdaňovacieho obdobia, v ktorom platiteľ skončil uplatňovanie osobitnej úpravy, a dňom, uplynutím ktorého prestala byť právnická osoba alebo fyzická osoba platiteľom podľa § 81 ods. 5, vzniká daňová povinnosť z dodania tovarov a služieb za obdobie uplatňovania osobitnej úpravy, ktorá by bola vznikla, ak by nebol uplatňoval osobitnú úpravu, okrem daňovej povinnosti, ktorá vznikla za zdaňovacie obdobia, v ktorých uplatňoval osobitnú úpravu. V tomto zdaňovacom období platiteľ môže odpočítať daň z tovarov a služieb, pri ktorých by bolo vzniklo právo odpočítať daň v období uplatňovania osobitnej úpravy, ak by nebol uplatňoval osobitnú úpravu, okrem dane, ktorú už odpočítal.
+(13) Posledným dňom zdaňovacieho obdobia, v ktorom platiteľ skončil uplatňovanie osobitnej úpravy, a dňom, uplynutím ktorého prestala byť právnická osoba alebo fyzická osoba platiteľom podľa § 81 ods. 4, vzniká daňová povinnosť z dodania tovarov a služieb za obdobie uplatňovania osobitnej úpravy, ktorá by bola vznikla, ak by nebol uplatňoval osobitnú úpravu, okrem daňovej povinnosti, ktorá vznikla za zdaňovacie obdobia, v ktorých uplatňoval osobitnú úpravu. V tomto zdaňovacom období platiteľ môže odpočítať daň z tovarov a služieb, pri ktorých by bolo vzniklo právo odpočítať daň v období uplatňovania osobitnej úpravy, ak by nebol uplatňoval osobitnú úpravu, okrem dane, ktorú už odpočítal.
 
 (14) Daňový úrad uloží pokutu do výšky 10 000 eur, ak
 

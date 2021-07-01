@@ -25,3 +25,5 @@
 (4) Žiadateľ má nárok na vrátenie dane, ak by takáto daň bola odpočítateľná podľa § 49.
 
 (5) Žiadateľ nemá nárok na vrátenie dane, ktorú dodávateľ neuplatnil v súlade s týmto zákonom, a dane uplatnenej pri tovare, ktorý je alebo môže byť oslobodený od dane podľa § 43 alebo § 47 ods. 2. Ak žiadateľ podľa zákona platného v inom členskom štáte uplatňuje osobitnú úpravu zodpovedajúcu ustanoveniam podľa § 65, nemá nárok na vrátenie dane pri tovaroch a službách obstaraných na účel uskutočnenia cesty.
+
+(6) Žiadateľ, ktorý je identifikovaný pre uplatňovanie osobitnej úpravy podľa § 68c v tuzemsku alebo osobitnej úpravy podľa ustanovení zákona platného v inom členskom štáte zodpovedajúcich § 68b alebo § 68c, má nárok na vrátenie dane uplatnenej pri tovaroch a službách, ktoré súvisia s dodaním tovarov a služieb uvedených v § 68 ods. 1 písm. b) a c); splnenie podmienky podľa odseku 2 písm. c) sa nevyžaduje.
