@@ -1,0 +1,1 @@
+- 1) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 260/2012 zo 14. marca 2012, ktorým sa ustanovujú technické a obchodné požiadavky na úhrady a inkasá v eurách a ktorým sa mení a dopĺňa nariadenie (ES) č. 924/2009 (Ú. v. EÚ L 94, 30.3.2012) v platnom znení.
