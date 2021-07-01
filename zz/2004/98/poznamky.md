@@ -52,7 +52,11 @@
 
 - 6ba) § 10 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
 
-- 6c) Rozhodnutie Európskeho parlamentu a Rady (ES) č. 1152/2003/ES zo 16. júna 2003 o informatizácii prepravy a kontroly výrobkov podliehajúcich spotrebnej dani (Mimoriadne vydanie Ú. v. EÚ, kap. 9/zv. 1; Ú. v. EÚ L 162, 1. 7. 2003).
+- 6baa) § 7 a 8 zákona č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 6bab) Zákon č. 254/2011 Z. z. o prepravovateľných tlakových zariadeniach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 6c) Rozhodnutie Európskeho parlamentu a Rady (EÚ) 2020/263 z 15. januára 2020 o informatizácii prepravy a kontroly tovaru podliehajúceho spotrebnej dani (prepracované znenie) (Ú. v. EÚ L 58, 27. 2. 2020).
 
 - 6ca) Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -104,7 +108,7 @@
 
 - § 86 zákona č. 563/2009 Z. z.
 
-- 19) § 170 ods. 21 zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 221/2019 Z. z.
+- 19) § 170 ods. 21 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - § 25 ods. 5 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 221/2019 Z. z.
 
@@ -137,8 +141,6 @@
 - 21a) § 14 zákona č. 157/2018 Z. z.
 
 - Vyhláška Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 188/2018 Z. z. o spotrebiteľskom balení, o fľaši ako odmernej nádobe, o požiadavkách na kontrolu množstva výrobku v spotrebiteľskom balení a o požiadavkách na kontrolu skutočného objemu fľaše ako odmernej nádoby v znení vyhlášky č. 433/2019 Z. z.
-
-- 22) Napríklad STN EN 1442+A1 Zariadenie a príslušenstvo na LPG. Plniteľné zvárané oceľové fľaše na prepravu skvapalneného uhľovodíkového plynu (LPG). Návrh a konštrukcia (Konsolidovaný text) (078518).
 
 - 25a) Čl. 269 nariadenia (EÚ) č. 952/2013.
 

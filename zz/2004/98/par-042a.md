@@ -8,7 +8,7 @@
 
 - c) použije minerálny olej oslobodený od dane podľa § 10a ods. 2 na iný ako určený účel,
 
-- d) použije, dodá alebo ponúka na použitie minerálny olej uvedený v § 6 ods. 1 písm. f) druhom bode ako pohonnú látku,
+- d) použije, dodá alebo ponúka na použitie minerálny olej uvedený v § 6 ods. 5 ako pohonnú látku,
 
 - e) použije, dodá alebo ponúka na použitie minerálny olej uvedený v § 6 ods. 1 písm. g) ako pohonnú látku alebo ako palivo.
 

@@ -116,4 +116,8 @@
 
 (18) Ak konanie o správnom delikte podľa odseku 15 v znení účinnom do 12. februára 2023 nebolo právoplatne ukončené do 12. februára 2023, ukončí sa podľa predpisu účinného do 12. februára 2023 a na pokutu sa vzťahuje odsek 16.
 
+(19) Proti rozhodnutiu colného úradu vydanému podľa § 11 ods. 17, 18 a 19, § 19 ods. 10, § 19a ods. 5, § 21 ods. 8, 9 a ods. 10 písm. d), § 22 ods. 12, § 22a ods. 1, § 23 ods. 3 a 14, § 24 ods. 12 a 13, § 25 ods. 16, 17 a ods. 18 písm. d), § 25a ods. 10, § 25b ods. 11 a 19, § 26 ods. 6, § 28 ods. 10 a § 31 ods. 4 nemožno podať odvolanie.
+
 (20) Daň z minerálneho oleja preukázateľne zdaneného na daňovom území možno vrátiť užívateľskému podniku podľa § 11 zákona v znení účinnom do 30. júna 2021, ak použil tento minerálny olej do 30. júna 2021 na účely oslobodené od dane uvedené v odbernom poukaze platnom do 30. júna 2021.
+
+(21) Povolenie na použitie vydané colným úradom podľa odseku 10 na použitie minerálneho oleja uvedeného v § 11 ods. 3 písm. c) v znení účinnom od 1. júla 2021 sa považuje za povolenie na použitie vydané podľa § 11 v znení účinnom od 1. júla 2021.
