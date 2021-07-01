@@ -298,6 +298,8 @@
 
 - § 30a zákona č. 523/2004 Z. z. v znení zákona č. 436/2013 Z. z.
 
+- 93adh) Zákon č. 340/2012 Z. z. o úhrade za služby verejnosti poskytované Rozhlasom a televíziou Slovenska a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 94) § 44 zákona č. 43/2004 Z. z. v znení zákona č. 183/2014 Z. z.
 
 - 95a) § 139 a 140a zákona č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 252/2012 Z. z.
