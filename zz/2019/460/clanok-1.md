@@ -522,6 +522,12 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 
   - Doterajšie odseky 29 a 30 sa označujú ako odseky 34 a 35.
 
+- 73. Za § 53 sa vkladá § 53a, ktorý znie:
+
+- „§ 53a
+
+- Zakazuje sa uvádzať jednorazové výrobky z plastu uvedené v prílohe č. 7a a obaly z oxo-degradovateľných plastov na trh Slovenskej republiky.“.
+
 - 74. V § 54 odsek 5 znie:
 
 - „(5)
@@ -567,6 +573,12 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 - „g)
 
 - uzatvoriť zmluvu o spätnom zbere s výrobcom pneumatík alebo s organizáciou zodpovednosti výrobcov pre pneumatiky.“.
+
+- 83. Za § 73 sa vkladá § 73a, ktorý znie:
+
+- „§ 73a
+
+- Zakazuje sa uvádzať jednorazové výrobky z plastu uvedené v prílohe č. 7a a neobalové výrobky z oxo-degradovateľných plastov na trh Slovenskej republiky.“.
 
 - 84. V § 76 ods. 4 písm. a) prvý bod a druhý bod znejú:
 
@@ -936,6 +948,12 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 
 - 139. V § 105 ods. 4 písm. c) sa číslo „šiestich“ nahrádza číslom „18“.
 
+- 140. § 106 sa dopĺňa písmenom h), ktoré znie:
+
+- „h)
+
+- kontroluje dodržiavanie povinností uvedených v § 53a, § 73a a § 135g.“.
+
 - 141. V § 107 písm. d) sa vypúšťajú slová „posudzuje program obce a“ a slová „ktoré presahujú“ sa nahrádzajú slovami „ktorý presahuje“.
 
 - 142. V § 107 písm. e) sa na konci pripájajú tieto slová: „a vyjadrenie k dokumentácii v konaní o povolení terénnych úprav podľa § 99 ods. 1 písm. b) štvrtého bodu“.
@@ -955,6 +973,14 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 - ohlásení podľa § 14 ods. 1 písm. g) a § 17 ods. 1 písm. m),“.
 
 - 146. V § 108 ods. 1 písm. e) druhom bode sa slová „§ 21 ods. 3 písm. p)“ nahrádzajú slovami „§ 21 ods. 3 písm. o)“ a v treťom bode sa slová „§ 21 ods. 3 písm. r)“ nahrádzajú slovami „§ 21 ods. 3 písm. p)“.
+
+- 147. V § 110 ods. 1 písm. a) sa za slovo „povinností“ vkladajú slová „vo vzťahu k spotrebiteľovi okrem prvovýroby,“ za slová „§ 53,“ sa vkladajú slová „§ 53a,“ a za slová „§ 61 ods. 1 písm. a) až c) a h),“ sa vkladajú slová „§ 73a a § 135g a v“.
+
+- 148. § 111 sa dopĺňa odsekom 6, ktorý znie:
+
+- „(6)
+
+- Colný úrad a Kriminálny úrad finančnej správy je orgánom štátneho dozoru (§ 112) na účel kontroly dodržiavania povinností uvedených v § 53a a 73a, ak sa táto kontrola vykonáva v súvislosti s cezhraničným pohybom jednorazových výrobkov z plastu. Ak colný úrad alebo Kriminálny úrad finančnej správy zistí porušenie povinností podľa § 53a a 73a, bezodkladne telefonicky alebo elektronicky informuje ministerstvo a inšpekciu.“.
 
 - 149. V § 112 ods. 5 sa na konci pripája táto veta: „Poverenie vedúceho orgánu kontroly alebo ním splnomocneného zástupcu podľa osobitného predpisu<sup>145a</sup>) sa na výkon štátneho dozoru podľa tohto zákona nevyžaduje.“.
 
@@ -1383,6 +1409,70 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 - 15.
 
 - Podpora nepretržitého dialógu a spolupráce medzi všetkými zainteresovanými stranami v oblasti odpadového hospodárstva a podpora dobrovoľných dohôd a podávania správ podnikov o odpadoch.“.
+
+- 175. Za prílohu č. 7 sa vkladá príloha č. 7a, ktorá vrátane nadpisu znie:
+
+- „Príloha č. 7a
+
+- k zákonu č. 79/2015 Z. z.
+
+- JEDNORAZOVÉ VÝROBKY Z PLASTU, KTORÉ JE ZAKÁZANÉ UVÁDZAŤ
+
+- NA TRH SLOVENSKEJ REPUBLIKY
+
+- Na trh Slovenskej republiky je zakázané uvádzať tieto jednorazové výrobky z plastu:
+
+- 1.
+
+- vatové tyčinky do uší, na ktoré sa nevzťahuje osobitný predpis,<sup>162</sup>)
+
+- 2.
+
+- príbory (vidličky, nože, lyžice, paličky na jedenie),
+
+- 3.
+
+- taniere,
+
+- 4.
+
+- slamky, na ktoré sa nevzťahuje osobitný predpis,<sup>162</sup>)
+
+- 5.
+
+- miešadlá na nápoje,
+
+- 6.
+
+- paličky určené na pripevnenie k balónom a podopieranie balónov okrem balónov na priemyselné alebo iné profesionálne využitie a uplatnenie, ktoré sa nedistribuujú spotrebiteľom, ako aj mechanizmy takých paličiek,
+
+- 7.
+
+- nádoby na potraviny vyrobené z expandovaného polystyrénu, t. j. nádoby, ako sú škatule, s viečkom alebo bez viečka, ktoré sa používajú na potraviny, ktoré sú:
+
+- a)
+
+- určené na priamu konzumáciu buď na mieste predaja, alebo na inom mieste, ako je miesto predaja (tzv. take-away),
+
+- b)
+
+- spravidla konzumované priamo z tejto nádoby, a
+
+- c)
+
+- hotové na konzumáciu bez akejkoľvek ďalšej prípravy, napríklad varenia alebo zohrievania, vrátane nádob na potraviny určené na rýchle občerstvenie (tzv. fast-food) alebo na akékoľvek iné jedlá určené na priamu konzumáciu okrem nápojových obalov, tanierov a balení a vrecúšok obsahujúcich potraviny,
+
+- 8.
+
+- nápojové obaly vyrobené z expandovaného polystyrénu vrátane ich uzáverov a viečok,
+
+- 9.
+
+- poháre na nápoje vyrobené z expandovaného polystyrénu vrátane ich uzáverov a viečok.“.
+
+  - Poznámka pod čiarou k odkazu 162 znie:
+
+  - „<sup>162</sup>) Napríklad zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 527/2008 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody aktívnych implantovateľných zdravotníckych pomôcok.“.
 
 - 176. Za prílohu č. 8a sa vkladá príloha č. 8b, ktorá vrátane nadpisu znie:
 
