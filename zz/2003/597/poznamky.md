@@ -155,3 +155,5 @@
 - 25c) § 90 ods. 11 zákona č. 245/2008 Z. z. v znení zákona č. 462/2008 Z. z.
 
 - 26) § 2 písm. p) zákona č. 245/2008 Z. z.
+
+- 27) § 161l zákona č. 245/2008 Z. z. v znení zákona č. 273/2021 Z. z.
