@@ -92,8 +92,6 @@
 
 - 32aa) § 5 ods. 14 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
-- 32ab) § 24 ods. 1 písm. c) a e) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení zákona č. 40/2017 Z. z.
-
 - 32b) § 29 ods. 2 písm. a) zákona č. 61/2015 Z. z.
 
 - 34) § 5 ods. 3 písm. a) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
@@ -245,3 +243,5 @@
 - 94) Zákon č. 395/2002 Z. z. v znení neskorších predpisov.
 
 - 95) Zákon č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
+
+- 96) § 24 ods. 1 písm. c) a e) zákona č. 355/2007 Z. z. v znení zákona č. 40/2017 Z. z.

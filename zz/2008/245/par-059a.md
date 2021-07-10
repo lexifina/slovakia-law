@@ -6,6 +6,10 @@
 
 (3) Dieťa môže plniť povinné predprimárne vzdelávanie mimo obce, v ktorej má trvalý pobyt, na základe rozhodnutia riaditeľa materskej školy, do ktorej sa hlási. Riaditeľ materskej školy, do ktorej bolo dieťa prijaté, oznámi túto skutočnosť riaditeľovi spádovej materskej školy.
 
-(4) Dieťa, ktoré nemá trvalý pobyt v Slovenskej republike, plní povinné predprimárne vzdelávanie v materskej škole, ktorú určí orgán miestnej štátnej správy v školstve.
+(4) Orgán miestnej štátnej správy v školstve určí materskú školu, v ktorej bude plniť povinné predprimárne vzdelávanie dieťa, ktoré
+
+- a) nie je možné prijať do materskej školy podľa odsekov 1 až 3 alebo
+
+- b) nemá trvalý pobyt v Slovenskej republike.
 
 (5) Povinné predprimárne vzdelávanie plní dieťa formou pravidelného denného dochádzania v pracovných dňoch v rozsahu najmenej štyri hodiny denne, okrem času školských prázdnin; tým nie je dotknuté právo tohto dieťaťa zúčastňovať sa na predprimárnom vzdelávaní aj v čase školských prázdnin.
