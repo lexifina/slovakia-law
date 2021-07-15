@@ -24,6 +24,32 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 
   - <sup>35aakc</sup>) § 12 ods. 7 písm. c) zákona č. 153/2013 Z. z. v znení zákona č. 252/2021 Z. z.“.
 
+- 9. V § 43 odsek 3 znie:
+
+- „(3)
+
+- Dohľadom na mieste sa rozumie získavanie informácií a dokumentov priamo u dohliadaného subjektu alebo od jeho zamestnancov a vyhodnocovanie takto získaných informácií a dokumentov.“.
+
+- 10. V § 43 odsek 11 znie:
+
+- „(11)
+
+- Ak ide o výkon dohľadu nad poskytovaním zdravotnej starostlivosti v prípade úmrtia, úrad môže pribrať poverením znalca podľa osobitného predpisu<sup>61c</sup>) na podanie znaleckého posudku. Úrad v súlade s osobitným predpisom<sup>61c</sup>) je povinný uviesť, k akej otázke sa má znalec najmä vyjadriť a aká skutočnosť má byť predmetom posúdenia. Od vydania poverenia do podania znaleckého posudku znalcom lehota podľa § 47 ods. 2 písm. f) neplynie.“.
+
+- 11. V § 43 sa vypúšťajú odseky 12 a 13.
+
+  - Doterajší odsek 14 sa označuje ako odsek 12.
+
+- 12. V § 43a ods. 4 písm. a) prvom bode sa za slovo „priezvisko,“ vkladajú slová „dátum narodenia,“.
+
+- 18. V § 50 ods. 13 sa slová „(§ 64 ods. 10)“ nahrádzajú slovami „(§ 64 ods. 5)“.
+
+- 21. V § 64 sa vypúšťa odsek 10.
+
+  - Doterajšie odseky 11 až 14 sa označujú ako odseky 10 až 13.
+
+- 22. V § 65 ods. 3 sa slová „až 14“ nahrádzajú slovami „až 13“.
+
 - 23. V § 76 ods. 5 sa písmeno a) dopĺňa desiatym bodom, ktorý znie:
 
 - „10.
@@ -33,3 +59,17 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
   - Poznámka pod čiarou k odkazu 95fa znie:
 
   - „<sup>95fa</sup>) Napríklad zákon č. 153/2013 Z. z. v znení neskorších predpisov.“.
+
+- 25. Za § 86zg sa vkladá § 86zh, ktorý vrátane nadpisu znie:
+
+- „§ 86zh
+
+- Prechodné ustanovenia k úpravám účinným od 15. júla 2021
+
+- (1)
+
+- Výkon dohľadu nad zdravotnou starostlivosťou, ktorý začal a nebol právoplatne ukončený do 14. júla 2021, sa dokončí podľa zákona v znení účinnom do 14. júla 2021.
+
+- (2)
+
+- Konania o udelení pokuty začaté a právoplatne neukončené do 14. júla 2021 sa dokončia podľa zákona v znení účinnom od 15. júla 2021.“.
