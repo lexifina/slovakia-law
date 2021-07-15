@@ -14,7 +14,7 @@
 
 - a) identifikačné údaje o podávateľovi podnetu a o osobe, ktorej práva alebo právom chránené záujmy mohli byť porušené, ak nejde o tú istú osobu, v rozsahu
 
-  - 1. meno, priezvisko, adresa trvalého pobytu alebo adresa prechodného pobytu, ak ide o fyzickú osobu; ak ide o cudzinca uvádza sa aj identifikačné číslo cestovného dokladu alebo preukazu totožnosti, adresa trvalého pobytu v cudzine a kontaktná adresa na území Slovenskej republiky,
+  - 1. meno, priezvisko, dátum narodenia, adresa trvalého pobytu alebo adresa prechodného pobytu, ak ide o fyzickú osobu; ak ide o cudzinca uvádza sa aj identifikačné číslo cestovného dokladu alebo preukazu totožnosti, adresa trvalého pobytu v cudzine a kontaktná adresa na území Slovenskej republiky,
 
   - 2. obchodné meno alebo názov inštitúcie, meno a priezvisko ak sa líši od obchodného mena, miesto podnikania, identifikačné číslo organizácie, ak ide o fyzickú osobu – podnikateľa, alebo
 
