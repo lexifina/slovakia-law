@@ -1,0 +1,1 @@
+- [Odlišné stanovisko sudcu Petra Straku](../assets/ad2b5e8def258d398c7c9ce62de4011e3091ac5b2f3d6257d3756085a8082eb2.pdf)
