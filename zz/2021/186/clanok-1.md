@@ -54,6 +54,30 @@ Zákon č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákon
 
   - Čl. 12 ods. 12.1 Protokolu (č. 4) o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky pripojený k Zmluve o fungovaní Európskej únie (konsolidované znenie) (Ú. v. EÚ C 202, 7. 6. 2016) v platnom znení.“.
 
+- 2. § 5 znie:
+
+- „§ 5
+
+- (1)
+
+- Pri dovážaných výrobkoch navrhovaných na prepustenie do voľného obehu colný úrad kontroluje, či sú dané dôvody na odloženie prepustenia podľa osobitného predpisu.<sup>4b</sup>)
+
+- (2)
+
+- Colný úrad dovážaný výrobok zničí, ak orgán dozoru, dohľadu a kontroly<sup>4c</sup>) nariadi jeho zničenie podľa osobitného predpisu.<sup>4d</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 4b až 4d znejú:
+
+  - „<sup>4b</sup>) Čl. 26 ods. 1 nariadenia Európskeho parlamentu a Rady (EÚ) 2019/1020 z 20. júna 2019 o dohľade nad trhom a súlade výrobkov a o zmene smernice 2004/42/ES a nariadení (ES) č. 765/2008 a (EÚ) č. 305/2011 (Ú. v. EÚ L 169, 25. 6. 2019).
+
+  - <sup>4c</sup>) § 3 ods. 1 zákona č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov.
+
+  - <sup>4d</sup>) Čl. 28 ods. 4 nariadenia (EÚ) 2019/1020.
+
+  - § 20 ods. 3 písm. g) zákona č. 250/2007 Z. z. v znení zákona č. 397/2008 Z. z.“.
+
+  - Poznámky pod čiarou k odkazom 4e až 4h sa vypúšťajú.
+
 - 3. V § 12 ods. 20 písm. b) sa slovo „ministerstva“ nahrádza slovami „Ministerstva financií Slovenskej republiky (ďalej len „ministerstvo“)“.
 
 - 4. V § 72 ods. 1 písmeno n) znie:
