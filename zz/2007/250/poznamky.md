@@ -148,12 +148,6 @@
 
 - 25b) § 2 písm. c) nariadenia vlády Slovenskej republiky č. 404/2007 Z. z.
 
-- 25c) § 5 zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 25d) Napríklad nariadenie Komisie (ES) č. 1275/2008 zo 17. decembra 2008, ktorým sa vykonáva smernica Európskeho parlamentu a Rady 2005/32/ES, pokiaľ ide o požiadavky na ekodizajn elektrických a elektronických zariadení v domácnosti a kancelárskych zariadení v súvislosti so spotrebou elektrickej energie v stave pohotovosti a vo vypnutom stave (Ú. v. EÚ L 339, 18. 12. 2008) v platnom znení.
-
-- 25e) § 21 zákona č. 264/1999 Z. z. v znení neskorších predpisov.
-
 - 25ea) Zákon č. 747/2004 Z. z. v znení neskorších predpisov.
 
 - 25f) § 52 až 54, § 612 až 627 a § 741a až 741k Občianskeho zákonníka.
