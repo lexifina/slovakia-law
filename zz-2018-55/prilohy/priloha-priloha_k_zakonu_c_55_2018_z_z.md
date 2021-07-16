@@ -1,0 +1,5 @@
+Príloha k zákonu č. 55/2018 Z. z.
+
+- ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
+
+  - Smernica Európskeho parlamentu a Rady (EÚ) 2015/1535 z 9. septembra 2015, ktorou sa stanovuje postup pri poskytovaní informácií v oblasti technických predpisov a pravidiel vzťahujúcich sa na služby informačnej spoločnosti (kodifikované znenie) (Ú. v. EÚ L 241, 17. 09. 2015).
