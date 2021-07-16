@@ -5558,19 +5558,23 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 237
 
-    - a) | Rozhodnutie o autorizácii podľa osobitného predpisu,<sup>47ab</sup>) ak prílohu k žiadosti tvoria dokumenty podľa osobitného predpisu<sup>47ac</sup>) | 1 000 eur
+      - a) Rozhodnutie o autorizácii podľa osobitného predpisu,<sup>47ab</sup>) ak prílohu k žiadosti tvoria dokumenty podľa osobitného predpisu<sup>47ac</sup>) ............................................. 1 000 eur,
 
-    - b) | Rozhodnutie o autorizácii podľa osobitného predpisu,<sup>47ab</sup>) ak prílohu k žiadosti tvoria aspoň pre jeden technický predpis z oblasti posudzovania zhody výlučne dokumenty podľa osobitného predpisu<sup>47ad</sup>) | 5 000 eur
+      - b) Rozhodnutie o autorizácii podľa osobitného predpisu,<sup>47ab</sup>) ak prílohu k žiadosti tvoria aspoň pre jeden technický predpis z oblasti posudzovania zhody,
 
-    - c) | Rozhodnutie o predĺžení autorizácie podľa osobitného predpisu<sup>47ae</sup>) | 330 eur
+      - pre určený výrobok<sup>47ad</sup>) alebo pre postup posudzovania zhody<sup>47ae</sup>) výlučne dokumenty podľa osobitného predpisu<sup>47af</sup>) .............................................................. 5 000 eur,
 
-    - d) | Rozhodnutie o zmene autorizácie podľa osobitného predpisu<sup>47af</sup>) | 33 eur
+      - c) Rozhodnutie o autorizácii, ktorým sa predlžuje autorizácia podľa osobitného predpisu<sup>47ag</sup>) .............................................................................................................. 330 eur,
 
-    - e) | Rozhodnutie o zmene autorizácie podľa osobitného predpisu<sup>47ag</sup>) | 330 eur
+      - d) Rozhodnutie o autorizácii, ktorým sa zmení autorizácia podľa osobitného predpisu<sup>47ah</sup>) ..................................................................................................................... 33 eur,
 
-    - Poznámka
+      - e) Rozhodnutie o autorizácii, ktorým sa zmení autorizácia podľa osobitného predpisu<sup>47ai</sup>) .................................................................................................................... 330 eur,
 
-    - Sadzba poplatku podľa tejto položky sa neznižuje podľa § 6 ods. 2.
+      - f) Potvrdenie o autorizácii podľa osobitného predpisu<sup>47aj</sup>) .......................................................................................................................................................................... 5 eur.
+
+      - Poznámka
+
+      - Sadzba poplatku podľa tejto položky sa neznižuje podľa § 6 ods. 2.
 
     - Položka 238
 

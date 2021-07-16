@@ -568,17 +568,23 @@
 
 - 47aa) Zákon č. 157/2018 Z. z. o metrológii a o zmene a doplnení niektorých zákonov.
 
-- 47ab) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 47ab) § 14 zákona č. 56/2018 Z. z. o posudzovaní zhody výrobku, sprístupňovaní určeného výrobku na trhu a o zmene a doplnení niektorých zákonov v znení zákona č. 259/2021 Z. z.
 
-- 47ac) § 11 ods. 3 písm. a) alebo písm. b) zákona č. 264/1999 Z. z.
+- 47ac) § 11 ods. 3 písm. e) prvý a druhý bod zákona č. 56/2018 Z. z.
 
-- 47ad) § 11 ods. 3 písm. c) zákona č. 264/1999 Z. z.
+- 47ad) § 11 ods. 2 písm. f) zákona č. 56/2018 Z. z.
 
-- 47ae) § 16 zákona č. 56/2018 Z. z. o posudzovaní zhody výrobku, sprístupňovaní určeného výrobku na trhu a o zmene a doplnení niektorých zákonov.
+- 47ae) § 11 ods. 2 písm. g) zákona č. 56/2018 Z. z.
 
-- 47af) § 15 ods. 1 písm. a) až d) zákona č. 56/2018 Z. z.
+- 47af) § 11 ods. 3 písm. e) tretí bod zákona č. 56/2018 Z. z.
 
-- 47ag) § 15 ods. 1 písm. e) a f) zákona č. 56/2018 Z. z.
+- 47ag) § 16 zákona č. 56/2018 Z. z. v znení zákona č. 259/2021 Z. z.
+
+- 47ah) § 15 ods. 1 písm. a) až d) zákona č. 56/2018 Z. z. v znení zákona č. 259/2021 Z. z.
+
+- 47ai) § 15 ods. 1 písm. e) a f) zákona č. 56/2018 Z. z. v znení zákona č. 259/2021 Z. z.
+
+- 47aj) § 14 ods. 6 zákona č. 56/2018 Z. z. v znení zákona č. 259/2021 Z. z.
 
 - 47b) § 15 zákona č. 507/2001 Z. z. o poštových službách.
 
