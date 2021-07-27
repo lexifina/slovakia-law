@@ -1,0 +1,1 @@
+Príloha č. 1 k rozhodnutiu predsedu Národnej rady Slovenskej republiky č. 301/2021 Z. z. [Zoznam obcí, v ktorých sa vyhlasujú voľby do orgánov samosprávy obcí](../assets/24d8375716b4c23e8703eedfba50ec133f8fe6dd87adec70c3575e7e5590195d.pdf)

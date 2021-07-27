@@ -1,0 +1,1 @@
+Príloha č. 2 k rozhodnutiu predsedu Národnej rady Slovenskej republiky č. 301/2021 Z. z. [Lehoty na vykonanie volieb do orgánov samosprávy obcí](../assets/d43bb7b29a951521cdb58eb08b4a83cad9dbd2d53509272da462645743e27486.pdf)
