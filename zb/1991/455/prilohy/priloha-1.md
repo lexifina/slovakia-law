@@ -4,7 +4,7 @@ Príloha č. 1 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - SKUPINA | 101 - Výroba kovov a kovových výrobkov |
 
-- 1. 2. 3. 4. 5. | Zámočníctvo Nástrojárstvo Kovoobrábanie Galvanizácia kovov Smaltovanie | I I I I I
+- 1. 2. 3. | Zámočníctvo Nástrojárstvo Kovoobrábanie | I I I
 
 - SKUPINA | 103 - Výroba motorových a ostatných dopravných prostriedkov |
 
