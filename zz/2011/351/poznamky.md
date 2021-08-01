@@ -194,6 +194,8 @@
 
 - 46h) § 12 ods. 2 písm. a) alebo písm. b) zákona č. 355/2007 Z. z.
 
+- 46i) § 20 zákona č. 69/2018 Z. z.
+
 - 47) Nariadenie Európskeho parlamentu a Rady (ES) č. 460/2004 z 10. marca 2004 o zriadení Európskej agentúry pre bezpečnosť sietí a informácií (Mimoriadne vydanie Ú. v. EÚ, kap. 1/zv. 5, Ú. v. EÚ L 77, 13. 3. 2004) v platnom znení.
 
 - 48) Zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. v znení neskorších predpisov.
@@ -255,6 +257,8 @@
 - Čl. 219 ods. 1 až 3 Zmluvy o fungovaní Európskej únie v platnom znení (Ú. v. EÚ C 326, 26. 10. 2012).
 
 - Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky pripojený k Zmluve o Európskej únii a k Zmluve o fungovaní Európskej únie (Ú. v. EÚ C 326, 26. 10. 2012).
+
+- 58b) § 17 zákona č. 69/2018 Z. z.
 
 - 59) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
 
