@@ -2,6 +2,18 @@
 
 Zákon č. 544/2010 Z. z. o dotáciách v pôsobnosti Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky v znení zákona č. 393/2012 Z. z., zákona č. 96/2013 Z. z., zákona č. 177/2018 Z. z., zákona č. 375/2018 Z. z., zákona č. 222/2019 Z. z., zákona č. 89/2020 Z. z. a zákona č. 417/2020 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 4 sa odsek 3 dopĺňa písmenom c), ktoré znie:
+
+- „c)
+
+- dieťa, ktoré navštevuje posledný ročník materskej školy alebo základnú školu a žije v domácnosti, v ktorej si ani jeden člen domácnosti neuplatnil na toto dieťa nárok na sumu daňového zvýhodnenia na vyživované dieťa, ktoré dovŕšilo šesť rokov veku a nedovŕšilo 15 rokov veku, žijúce s ním v domácnosti podľa osobitného predpisu;<sup>34aaa</sup>) táto skutočnosť sa žiadateľovi podľa § 4 ods. 4 preukazuje čestným vyhlásením.“.
+
+  - Poznámka pod čiarou k odkazu 34aaa znie:
+
+  - „<sup>34aaa</sup>) § 52zzj ods. 2 písm. c) zákona č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 416/2020 Z. z.“.
+
+- 3. V poznámke pod čiarou k odkazu 38 sa vypúšťajú slová „o dani z príjmov“.
+
 - 4. V § 9b sa za odsek 4 vkladá nový odsek 5, ktorý znie:
 
 - „(5)
