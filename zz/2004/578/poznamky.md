@@ -56,7 +56,7 @@
 
 - 13a) § 22 zákona č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 185/2014 Z. z.
 
-- 13aa) § 25 ods. 1 písm. n) zákona č. 576/2004 Z. z. v znení zákona č. 139/2019 Z. z.
+- 13aa) § 25 ods. 1 písm. o) zákona č. 576/2004 Z. z. v znení neskorších predpisov.
 
 - 13b) § 45 ods. 1 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení zákona č. 466/2008 Z. z.
 
@@ -476,7 +476,7 @@
 
 - 74) § 420 až 450 Občianskeho zákonníka.
 
-- 74a) Napríklad § 6 ods. 7, § 9 ods. 3 až 5 a ods. 8 zákona č. 581/2004 Z. z. v znení neskorších predpisov, § 11, 19 a 20 zákona č. 577/2004 Z. z. v znení neskorších predpisov, § 25 ods. 1 písm. d) zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+- 74a) Napríklad § 6 ods. 7, § 9 ods. 3 až 5 a ods. 8 zákona č. 581/2004 Z. z. v znení neskorších predpisov, § 11, 19 a 20 zákona č. 577/2004 Z. z. v znení neskorších predpisov, § 25 ods. 1 písm. e) zákona č. 576/2004 Z. z. v znení neskorších predpisov.
 
 - 75) Zákon č. 92/1991 Zb. v znení neskorších predpisov.
 
