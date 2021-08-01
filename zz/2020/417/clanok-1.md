@@ -64,7 +64,49 @@ Zákon č. 544/2010 Z. z. o dotáciách v pôsobnosti Ministerstva práce, soci�
 
 - 8. V § 3 ods. 9 sa slová „uskutočnenie rekonštrukcie alebo stavebnej úpravy“ nahrádzajú slovami „kúpu, výstavbu, rekonštrukciu alebo stavebné úpravy“.
 
+- 9. V § 4 odsek 3 znie:
+
+- „(3)
+
+- Dotáciu na podporu výchovy k stravovacím návykom dieťaťa možno poskytnúť na zabezpečenie obeda a iného jedla (ďalej len „strava“) v materskej škole<sup>33</sup>) a v základnej škole<sup>34</sup>) na
+
+- a)
+
+- každé dieťa, ktoré navštevuje materskú školu alebo základnú školu a v materskej škole alebo v základnej škole je najmenej 50 % detí z domácností, ktorým sa poskytuje pomoc v hmotnej núdzi,
+
+- b)
+
+- dieťa, ktoré navštevuje materskú školu alebo základnú školu a žije v domácnosti, ktorej sa poskytuje pomoc v hmotnej núdzi alebo ktorej príjem je najviac vo výške životného minima.“.
+
+- 10. V § 4 ods. 6 prvej vete sa slová „1,20 eura“ nahrádzajú slovami „1,30 eura“ a na konci sa bodka nahrádza bodkočiarkou a pripájajú sa tieto slová: „za vyučovanie v základnej škole sa považuje aj individuálne vzdelávanie, ktoré sa uskutočňuje bez pravidelnej účasti na vzdelávaní v základnej škole.<sup>34aa</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 34aa znie:
+
+  - „<sup>34aa</sup>) § 23 písm. a) a § 24 zákona č. 245/2008 Z. z. v znení neskorších predpisov.“.
+
+- 11. V § 4 ods. 7 druhej vete sa vypúšťajú slová „druhého bodu“ a slová „písm. c)“ sa nahrádzajú slovami „písm. a)“.
+
+- 12. V § 4 ods. 8 úvodnej vete sa vypúšťajú slová „podľa odseku 3 písm. b) a c)“.
+
 - 13. V § 4 ods. 8 písm. b) sa za slovo „úradu“ vkladajú slová „práce, sociálnych vecí a rodiny (ďalej len „úrad“)“.
+
+- 14. V § 4 ods. 8 písm. b) sa vypúšťajú slová „druhého bodu“.
+
+- 15. V § 4 ods. 9 sa vypúšťajú slová „podľa odseku 3 písm. b) a c)“ a za slová „materskej škole“ sa vkladajú slová „alebo v základnej škole“.
+
+- 16. V § 4 odsek 10 znie:
+
+- „(10)
+
+- Žiadateľ je povinný úradu
+
+- a)
+
+- oznámiť zmeny v skutočnostiach rozhodujúcich pre výpočet sumy dotácie na podporu výchovy k stravovacím návykom dieťaťa do konca kalendárneho mesiaca, v ktorom zmena nastala,
+
+- b)
+
+- doručiť do 10. augusta príslušného rozpočtového roka aktualizovaný zoznam detí podľa § 10 ods. 4 písm. b), na ktoré žiada poskytnutie dotácie na podporu výchovy k stravovacím návykom dieťaťa, na obdobie od 1. septembra do 31. decembra príslušného rozpočtového roka.“.
 
 - 17. § 9a vrátane nadpisu znie:
 
@@ -404,6 +446,12 @@ Zákon č. 544/2010 Z. z. o dotáciách v pôsobnosti Ministerstva práce, soci�
 
 - rozpočet, ak predmetom financovania je rekonštrukcia, stavebná úprava, kúpa alebo výstavba podľa § 3 ods. 1 písm. g) a k).“.
 
+- 23. V § 10 ods. 4 písmeno b) znie:
+
+- „b)
+
+- zoznam detí, na ktoré možno poskytnúť tieto dotácie, s uvedením ich mena, priezviska, rodného čísla a adresy pobytu,“.
+
 - 24. V § 10 ods. 7 sa za slovo „pomoci“ vkladajú slová „a o dotáciu na podporu dobrovoľníckej činnosti“.
 
 - 25. V § 10 odsek 8 znie:
@@ -466,4 +514,12 @@ Zákon č. 544/2010 Z. z. o dotáciách v pôsobnosti Ministerstva práce, soci�
 
 - (4)
 
-- Ministerstvo môže určiť prioritné oblasti podpory rovnosti žien a mužov a rovnosti príležitostí a podpory plnenia funkcií rodiny, ktoré zverejní na svojom webovom sídle do 10. januára 2021.“.
+- Ministerstvo môže určiť prioritné oblasti podpory rovnosti žien a mužov a rovnosti príležitostí a podpory plnenia funkcií rodiny, ktoré zverejní na svojom webovom sídle do 10. januára 2021.
+
+- § 16e
+
+- Prechodné ustanovenie k úpravám účinným od 1. augusta 2021
+
+- Dotácia na podporu výchovy k stravovacím návykom dieťaťa sa za august 2021 určí pre dieťa, ktoré navštevuje materskú školu, podľa tohto zákona v znení účinnom do 31. júla 2021.“.
+
+- 30. Slová „dieťaťa ohrozeného sociálnym vylúčením“ sa v celom texte zákona nahrádzajú slovom „dieťaťa“.
