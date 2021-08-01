@@ -386,6 +386,8 @@
 
 - 113a) Zákon č. 592/2006 Z. z. o poskytovaní vianočného príspevku niektorým poberateľom dôchodku a o doplnení niektorých zákonov.
 
+- 113b) § 5d zákona č. 285/2009 Z. z. v znení zákona č. 265/2021 Z. z.
+
 - 114) Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov.
 
 - 115) § 123f zákona č. 43/2004 Z. z. v znení zákona č. 555/2007 Z. z.
