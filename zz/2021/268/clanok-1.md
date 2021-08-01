@@ -14,6 +14,8 @@ Nariadenie vlády Slovenskej republiky č. 200/2019 Z. z. o poskytovaní pomoci 
 
   - „<sup>6</sup>) § 27 ods. 2 písm. h) zákona č. 245/2008 Z. z. v znení neskorších predpisov.“.
 
+- 3. V § 1 písm. c) prvom bode sa za slovo „ochutnávku“ vkladá slovo „školských“ a za slovo „alebo“ sa vkladá slovo „školského“.
+
 - 4. V § 2 písm. p) a r) sa za slovo „dodávanie“ vkladajú slová „alebo distribúciu“.
 
 - 5. V § 2 písm. q) sa slová „druh školského mliečneho výrobku“ nahrádzajú slovami „školský mliečny výrobok toho druhu“.
@@ -60,6 +62,8 @@ Nariadenie vlády Slovenskej republiky č. 200/2019 Z. z. o poskytovaní pomoci 
 
 - 12. V § 5 ods. 8, ods. 9 úvodnej vete, ods. 9 písm. a), ods. 11 písm. b) a ods. 15 písm. b) sa slová „§ 7 ods. 22“ nahrádzajú slovami „§ 7 ods. 28“.
 
+- 13. V § 5 ods. 8, ods. 9 úvodnej vete, ods. 9 písm. a), ods. 11 písm. b) a ods. 15 písm. b) sa slová „§ 7 ods. 28“ nahrádzajú slovami „§ 7 ods. 28 a 29“.
+
 - 14. V § 6 ods. 2 sa vypúšťajú slová „alebo distribuuje“.
 
 - 15. V § 6 ods. 7 sa slová „10 a 12“ nahrádzajú slovami „14 a 16“.
@@ -69,6 +73,18 @@ Nariadenie vlády Slovenskej republiky č. 200/2019 Z. z. o poskytovaní pomoci 
 - 17. V § 6 ods. 12 sa slová „jednej škole“ nahrádzajú slovami „pre zmluvných žiakov jednej školy“ a slová „žiadateľovi v realizačnom období“ sa nahrádzajú slovami „žiadateľovi počas celého realizačného obdobia alebo jeho časti“.
 
 - 18. V § 6 ods. 13 a 14 sa slová „v týchto realizačných obdobiach“ nahrádzajú slovami „počas celého trvania realizačných období alebo ich časti“.
+
+- 19. V § 6 sa za odsek 14 vkladajú nové odseky 15 a 16, ktoré znejú:
+
+- „(15)
+
+- Škola, ktorej boli v rámci zabezpečovania činností podľa § 1 písm. a) alebo písm. b) v príslušnom školskom roku pre zmluvných žiakov dodané školské mliečne výrobky alebo školské ovocie a zelenina, je povinná tieto školské mliečne výrobky alebo toto školské ovocie a zeleninu distribuovať svojim zmluvným žiakom v tom istom školskom roku.
+
+- (16)
+
+- Škola, ktorej boli pre zmluvných žiakov dodané školské mliečne výrobky alebo školské ovocie a zelenina v rámci zabezpečovania činností podľa § 1 písm. a) alebo písm. b), nesmie tieto školské mliečne výrobky alebo toto školské ovocie a zeleninu do ich distribuovania jej zmluvným žiakom upraviť spôsobom, v dôsledku ktorého by tieto školské mliečne výrobky alebo toto školské ovocie a zelenina neboli oprávnenými mliečnymi výrobkami alebo oprávneným ovocím a zeleninou.“.
+
+  - Doterajšie odseky 15 a 16 sa označujú ako odseky 17 a 18.
 
 - 20. V § 6 odseky 15 a 16 znejú:
 
@@ -80,9 +96,13 @@ Nariadenie vlády Slovenskej republiky č. 200/2019 Z. z. o poskytovaní pomoci 
 
 - Ak výška úhrady uvedená v prílohách č. 1 a 2, ktorú môže schválený žiadateľ okrem základnej pomoci žiadať za školské mliečne výrobky alebo školské ovocie a zeleninu, ktoré sú dodávané alebo distribuované v rámci zabezpečovania činností podľa § 1 písm. a) alebo písm. b), nedosahuje úhrnnú výšku dane, ktorej základom podľa osobitného predpisu<sup>35</sup>) je základná pomoc, ktorá sa na dodávanie alebo distribúciu týchto školských mliečnych výrobkov alebo tohto školského ovocia a zeleniny zmluvným žiakom poskytuje, schválený žiadateľ môže za tieto školské mliečne výrobky alebo za toto školské ovocie a zeleninu okrem tejto pomoci žiadať úhradu najviac vo výške dane, ktorej základom podľa osobitného predpisu<sup>35</sup>) je táto pomoc.“.
 
+- 21. V § 6 ods. 17 sa slová „odseku 16“ nahrádzajú slovami „odseku 18“.
+
 - 22. V § 7 ods. 2 písm. b) sa za slovo „žiadateľ“ vkladajú slová „v rámci zabezpečovania činností podľa § 1 písm. a) alebo písm. b)“ a slová „zmluvným žiakom v každej škole“ sa nahrádzajú slovami „pre zmluvných žiakov každej školy“.
 
 - 23. V § 7 ods. 2 písm. c) prvom bode sa vypúšťajú slová „alebo ktoré distribuoval jej zmluvným žiakom“ a za slová „o množstvách“ sa vkladá slovo „týchto“.
+
+- 24. V § 7 ods. 2 písm. c) prvom bode sa za slovom „škole“ vypúšťa slovo „a“ a na konci sa pripájajú tieto slová: „a o tom, či pred distribúciou týchto školských mliečnych výrobkov alebo tohto školského ovocia a zeleniny svojim zmluvným žiakom dodržala zákaz podľa § 6 ods. 16,“.
 
 - 25. V § 7 ods. 2 písm. c) druhom bode sa slová „úhradách, ktoré zmluvní žiaci zaplatili“ nahrádzajú slovami „úhradách zaplatených“.
 
@@ -154,6 +174,8 @@ Nariadenie vlády Slovenskej republiky č. 200/2019 Z. z. o poskytovaní pomoci 
 
   - Doterajšie odseky 6 až 24 sa označujú ako odseky 7 až 25.
 
+- 34. V § 7 ods. 6 sa slová „možno okrem základnej pomoci poskytovať aj dodatočnú“ nahrádzajú slovami „sa okrem základnej pomoci poskytuje aj dodatočná“ a slová „príslušnom školskom roku“ sa nahrádzajú slovami „realizačnom období“.
+
 - 35. V § 7 odsek 7 znie:
 
 - „(7)
@@ -210,6 +232,14 @@ Nariadenie vlády Slovenskej republiky č. 200/2019 Z. z. o poskytovaní pomoci 
 
   - Doterajšie odseky 25 a 26 sa označujú ako odseky 27 a 28.
 
+- 47. V § 7 ods. 28 sa za slová „písm. d)“ vkladajú slová „nezahŕňajúcich dodávanie alebo distribúciu školských mliečnych výrobkov alebo školského ovocia a zeleniny v rámci zabezpečovania činností podľa § 1 písm. c)“.
+
+- 48. § 7 sa dopĺňa odsekom 29, ktorý znie:
+
+- „(29)
+
+- Pomoc na zabezpečovanie činností podľa § 1 písm. c) spočívajúcich v dodaní alebo distribuovaní školských mliečnych výrobkov alebo školského ovocia a zeleniny možno poskytnúť na pokrytie najviac 80 % nákladov, ktoré boli na vykonávanie týchto činností oprávnene vynaložené a ktoré nezahŕňajú daň. Za výšku oprávnene vynaložených nákladov na dodávanie alebo distribúciu školských mliečnych výrobkov alebo školského ovocia a zeleniny v rámci zabezpečovania činností podľa § 1 písm. c), ktoré nezahŕňajú daň, sa považuje výška základnej pomoci, ktorá by sa na ich dodávanie alebo distribúciu poskytovala, ak by boli dodávané alebo distribuované v rámci zabezpečovania činností podľa § 1 písm. a) alebo písm. b).“.
+
 - 49. Za § 8b sa vkladá § 8c, ktorý vrátane nadpisu znie:
 
 - „§ 8c
@@ -245,6 +275,12 @@ Nariadenie vlády Slovenskej republiky č. 200/2019 Z. z. o poskytovaní pomoci 
 - *Výška pomoci na zabezpečovanie činností podľa § 1 písm. b) a úhrada, ktorú možno okrem základnej pomoci najviac žiadať, sú ustanovené na 1 kg ovocia a zeleniny.
 
 - **Výška pomoci na zabezpečovanie činností podľa § 1 písm. b) a úhrada, ktorú možno okrem základnej pomoci najviac žiadať, sú ustanovené na jeden liter ovocia a zeleniny.“.
+
+- 56. Prílohy č. 1 a 2 vrátane nadpisov znejú:
+
+- „[Príloha č. 1 k nariadeniu vlády č. 200/2019 Z. z.](assets/045ab882ea281353a8ecda6a08470d4e94d27ff5cde921102894401f4ee9c90e.pdf)
+
+- [Príloha č. 2 k nariadeniu vlády č. 200/2019 Z. z.](assets/a5cd700d69b322f4938b038dac0d1cfde314a4c306714f480939b02a509e2509.pdf)“.
 
 - 57. Príloha č. 3 sa dopĺňa siedmym až desiatym bodom, ktoré znejú:
 
