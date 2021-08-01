@@ -52,10 +52,6 @@
 
 - 13) Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
-- 13a) § 140a zákona 50/1976 Zb. v znení neskorších predpisov.
-
-- 13b) § 59 ods. 1 písm. c) zákona č. 50/1976 Zb. v znení neskorších predpisov.
-
 - 13c) § 55 ods. 1 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 14) § 12 zákona č. 276/2001 Z. z. v znení zákona č. 442/2002 Z. z.
@@ -107,3 +103,5 @@
 - 22) § 65 zákona č. 656/2004 Z. z.
 
 - 23) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
+
+- 24) § 140b zákona č. 50/1976 Zb.
