@@ -224,7 +224,7 @@
 
 - 39a) § 3 ods. 1 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 352/2005 Z. z.
 
-- 39aa) § 9b ods. 2 zákona č. 578/2004 Z. z. v znení zákona č. 139/2019 Z. z.
+- 39aa) § 9b ods. 5 zákona č. 578/2004 Z. z. v znení zákona č. 139/2019 Z. z.
 
 - 39aaa) § 111a až § 111h zákona č. 362/2011 Z. z.
 
