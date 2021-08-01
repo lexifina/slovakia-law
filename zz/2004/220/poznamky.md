@@ -48,6 +48,8 @@
 
 - 11aa) § 32 ods. 2 zákona č. 50/1976 Zb. v znení zákona č. 254/2015 Z. z.
 
+- 11ab) Zákon č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko účinnej kombinovanej výroby a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 11b) Napríklad zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov, zákon č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 12a) Zákon č. 175/1999 Z. z. o niektorých opatreniach týkajúcich sa prípravy významných investícií a o doplnení niektorých zákonov v znení neskorších predpisov.
