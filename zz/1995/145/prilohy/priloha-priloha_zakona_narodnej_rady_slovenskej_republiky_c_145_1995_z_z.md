@@ -54,6 +54,8 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
 - XXIV. | Výkon verejnej moci elektronicky | 274
 
+- XXV. | Kybernetická bezpečnosť | 276
+
   - SADZOBNÍK SPRÁVNYCH POPLATKOV
 
   - I. ČASŤ VŠEOBECNÁ SPRÁVA
@@ -5997,3 +5999,15 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - 9. za každú, aj začatú stranu formátu A4 novovzniknutého dokumentu obsahujúcu konverziu informačného obsahu podľa § 2 písm. g) zákona .... | 0,5 eura
 
   - Poznámka 1. Sadzba poplatku podľa tejto položky sa neznižuje podľa § 6 ods. 2. 2. Súčasťou poplatku podľa písmena e) sú aj hotové výdavky na spotrebný materiál. |
+
+  - XXV. ČASŤ KYBERNETICKÁ BEZPEČNOSŤ
+
+    - Položka 276
+
+    - Podanie žiadosti o akreditáciu jednotky pre riešenie kybernetických bezpečnostných incidentov (jednotky CSIRT) ............................................................................1 000 eur
+
+    - Podanie žiadosti o certifikáciu produktu .......................................................1 000 eur
+
+    - Podanie žiadosti o certifikáciu služby ...........................................................1 000 eur
+
+    - Podanie žiadosti o certifikáciu procesu ........................................................1 000 eur.
