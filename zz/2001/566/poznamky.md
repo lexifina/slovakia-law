@@ -116,6 +116,10 @@
 
 - 31) Napríklad § 12 ods. 5 zákona č. 530/1990 Zb. v znení zákona č. 361/1999 Z. z.
 
+- 31a) Napríklad Trestný poriadok, zákon č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 289/2016 Z. z. o vykonávaní medzinárodných sankcií a o doplnení zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov v znení zákona č. 52/2018 Z. z.
+
+- 31b) Zákon č. 312/2020 Z. z. o výkone rozhodnutia o zaistení majetku a správe zaisteného majetku a o zmene a doplnení niektorých zákonov.
+
 - 32) Napríklad § 69 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 
 - 33) § 476 až 488 Obchodného zákonníka v znení neskorších predpisov.
