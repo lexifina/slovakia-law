@@ -34,6 +34,8 @@ Nariadenie vlády Slovenskej republiky č. 200/2019 Z. z. o poskytovaní pomoci 
 
   - Čl. 5 ods. 3 nariadenia (EÚ) č. 1370/2013 v platnom znení.“.
 
+- 7. V § 3 ods. 5 sa číslo „6“ nahrádza číslom „5“.
+
 - 8. V § 4 ods. 1 sa slová „Pôdohospodárskej platobnej agentúre (ďalej len „platobná agentúra“)“ nahrádzajú slovami „platobnej agentúre“ a slová „31. januára“ sa nahrádzajú slovami „31. mája“.
 
 - 9. V § 4 ods. 10 sa slová „31. januára“ nahrádzajú slovami „31. mája“.
@@ -204,7 +206,13 @@ Nariadenie vlády Slovenskej republiky č. 200/2019 Z. z. o poskytovaní pomoci 
 
 - Prechodné ustanovenie k úpravám účinným od 1. augusta 2020
 
-- Žiadosti o schválenie poskytovania pomoci na zabezpečovanie činností podľa § 1 písm. a) až d) v období, ktoré sa začalo v príslušnom školskom roku, ktorý sa začal v kalendárnom roku 2019, žiadosti o zmenu alebo doplnenie schválenia poskytovania pomoci na zabezpečovanie činností podľa § 1 písm. a) až d) v období, ktoré sa začalo v príslušnom školskom roku, ktorý sa začal v kalendárnom roku 2019, žiadosti o pridelenie maximálnej výšky pomoci na zabezpečovanie činností podľa § 1 písm. a) až d) v príslušnom školskom roku, ktorý sa začal v kalendárnom roku 2019, a žiadosti o poskytnutie pomoci na zabezpečovanie činností podľa § 1 písm. a) až d) v príslušnom školskom roku, ktorý sa začal v kalendárnom roku 2019, o ktorých sa právoplatne nerozhodlo do 31. júla 2020, sa posudzujú podľa tohto nariadenia vlády v znení účinnom do 31. júla 2020.“.
+- Žiadosti o schválenie poskytovania pomoci na zabezpečovanie činností podľa § 1 písm. a) až d) v období, ktoré sa začalo v príslušnom školskom roku, ktorý sa začal v kalendárnom roku 2019, žiadosti o zmenu alebo doplnenie schválenia poskytovania pomoci na zabezpečovanie činností podľa § 1 písm. a) až d) v období, ktoré sa začalo v príslušnom školskom roku, ktorý sa začal v kalendárnom roku 2019, žiadosti o pridelenie maximálnej výšky pomoci na zabezpečovanie činností podľa § 1 písm. a) až d) v príslušnom školskom roku, ktorý sa začal v kalendárnom roku 2019, a žiadosti o poskytnutie pomoci na zabezpečovanie činností podľa § 1 písm. a) až d) v príslušnom školskom roku, ktorý sa začal v kalendárnom roku 2019, o ktorých sa právoplatne nerozhodlo do 31. júla 2020, sa posudzujú podľa tohto nariadenia vlády v znení účinnom do 31. júla 2020.
+
+- § 8b
+
+- Prechodné ustanovenie k úpravám účinným od 1. augusta 2021
+
+- Žiadosti o schválenie poskytovania pomoci na zabezpečovanie činností podľa § 1 písm. a) až d) v období, ktoré sa začalo v príslušnom školskom roku, ktorý sa začal v kalendárnom roku 2020, žiadosti o zmenu alebo doplnenie schválenia poskytovania pomoci na zabezpečovanie činností podľa § 1 písm. a) až d) v období, ktoré sa začalo v príslušnom školskom roku, ktorý sa začal v kalendárnom roku 2020, žiadosti o pridelenie maximálnej výšky pomoci na zabezpečovanie činností podľa § 1 písm. a) až d) v príslušnom školskom roku, ktorý sa začal v kalendárnom roku 2020, a žiadosti o poskytnutie pomoci na zabezpečovanie činností podľa § 1 písm. a) až d) v príslušnom školskom roku, ktorý sa začal v kalendárnom roku 2020, o ktorých sa právoplatne nerozhodlo do 31. júla 2021, sa posudzujú podľa tohto nariadenia vlády v znení účinnom do 31. júla 2021.“.
 
 - 47. Prílohy č. 1 a 2 vrátane nadpisov znejú:
 
