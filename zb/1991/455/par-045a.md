@@ -1,6 +1,6 @@
 # § 45a Iné údaje k ohláseniu
 
-(1) Fyzická osoba a právnická osoba uvedie zároveň s ohlásením živnosti tiež údaje potrebné na vyžiadanie výpisu z registra trestov, ktorými sú miesto a okres narodenia, meno a priezvisko otca, meno, priezvisko a rodné priezvisko matky, pri zmene mena a zmene priezviska aj pôvodné meno alebo pôvodné priezvisko osôb Slovenskej republiky, na ktoré sa podľa tohto zákona vzťahuje podmienka bezúhonnosti.
+(1) Fyzická osoba a právnická osoba pri ohlásení živnosti uvedie tiež údaje potrebné na vyžiadanie výpisu z registra trestov<sup>36cb</sup>) na účely zistenia splnenia podmienky bezúhonnosti o fyzických osobách, ktoré sú občanmi Slovenskej republiky a na ktoré sa podľa tohto zákona vzťahuje podmienka bezúhonnosti, ak tieto údaje nemožno získať z informačného systému podľa osobitného predpisu.<sup>36cc</sup>)
 
 (2) Fyzická osoba, ktorá nie je registrovaná u správcu dane, ktorým je daňový úrad, zároveň s ohlásením živnosti uvedie aj údaje na splnenie registračnej povinnosti a oznamovacej povinnosti vyžadované podľa osobitného zákona.<sup>36d</sup>) Právnická osoba, ktorá nie je registrovaná u správcu dane, ktorým je daňový úrad, zároveň s ohlásením živnosti môže uviesť aj údaje na splnenie registračnej povinnosti a oznamovacej povinnosti vyžadované podľa osobitného zákona.<sup>36d</sup>)
 

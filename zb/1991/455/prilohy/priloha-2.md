@@ -12,9 +12,9 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 3. | Opravy, odborné prehliadky a odborné skúšky vyhradených technických zariadení | oprávnenie na činnosť alebo osvedčenie na vykonávanie činnosti alebo preukaz na vykonávanie činnosti | § 8a ods. 7 zákona č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov *) len v oblasti pôsobnosti dozoru štátnej banskej správy |
 
-- 4. | Vývoj a výroba zbraní alebo streliva | – stredné odborné vzdelanie v odbore puškárstvo a dva roky praxe v odbore alebo – 10 rokov praxe v odbore | | I
+- 4. | Vývoj a výroba zbraní alebo streliva | – stredné odborné vzdelanie v odbore puškárstvo a dva roky praxe v odbore alebo – 6 rokov praxe v odbore | | I
 
-- 5. | Opravy, úpravy, ničenie, znehodnocovanie alebo výroba rezu zbraní | – stredné odborné vzdelanie v odbore puškárstvo a dva roky praxe v odbore alebo – 10 rokov praxe v odbore | |
+- 5. | Opravy, úpravy, ničenie, znehodnocovanie alebo výroba rezu zbraní | – stredné odborné vzdelanie v odbore puškárstvo a dva roky praxe v odbore alebo – 6 rokov praxe v odbore | |
 
 - SKUPINA 204 – Výroba zdravotníckych výrobkov, presných a optických prístrojov a hodín | | | |
 
@@ -42,7 +42,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 16. | Vykonávanie trhacích prác | 1. oprávnenie strelmajstra, vek 21 rokov alebo 2. oprávnenie technického vedúceho odstrelu, vek 24 rokov | § 32 a 33 zákona č. 58/2014 Z. z. o výbušninách, výbušných predmetoch a munícii a o zmene a doplnení niektorých zákonov |
 
-- 17. | Uskutočňovanie krajinno-architektonických sadovníckych diel | – vysokoškolské vzdelanie záhradníckeho, poľnohospodárskeho alebo lesníckeho smeru, alebo – odborné stredoškolské vzdelanie záhradníckeho, poľnohospodárskeho alebo lesníckeho smeru a dva roky praxe v odbore | |
+- 17. | Uskutočňovanie krajinno-architektonických sadovníckych diel | – vysokoškolské vzdelanie záhradníckeho, poľnohospodárskeho alebo lesníckeho smeru, alebo – odborné stredoškolské vzdelanie záhradníckeho, poľnohospodárskeho alebo lesníckeho smeru a jeden rok praxe v odbore | |
 
 - 18. | Technické osvedčovanie stavebných výrobkov | oprávnenie vydávať a zrušovať technické osvedčenia podľa zákona č. 90/1998 Z. z. o stavebných výrobkoch v znení neskorších predpisov | § 4 ods. 4 zákona č. 90/1998 Z. z. o stavebných výrobkoch v znení neskorších predpisov |
 
@@ -56,7 +56,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 23. | Vyučovanie v odbore cudzích jazykov alebo Prekladateľské a tlmočnícke služby*) | – dokončené štúdium príslušných jazykov na vysokej škole alebo vysvedčenie o zložení štátnej jazykovej skúšky alebo – preukázanie aspoň 10-ročného pobytu v štáte s úradným jazykom, ktorý sa má vyučovať, prekladať alebo tlmočiť | *) nevzťahuje sa na výkon činnosti tlmočníkov a prekladateľov podľa zákona č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov |
 
-- 24. | Vyučovanie v odbore umenia | – dokončené štúdium na príslušnej umeleckej škole alebo – spôsobilosť preukázaná 10-ročnou praktickou činnosťou v odbore | |
+- 24. | Vyučovanie v odbore umenia | – dokončené štúdium na príslušnej umeleckej škole alebo – spôsobilosť preukázaná 6-ročnou praktickou činnosťou v odbore | |
 
 - 25. | Poradenstvo, výchova a vzdelávanie v oblasti ochrany práce*) | oprávnenie | § 5 ods. 6 zákona č. 51/1988 Zb. *) len v oblasti pôsobnosti dozoru štátnej banskej správy |
 
@@ -90,9 +90,9 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 41. | Klasifikácia jatočne opracovaných tiel | osvedčenie o odbornej spôsobilosti | § 7 ods. 5 zákona č. 491/2001 Z. z. o organizovaní trhu s vybranými poľnohospodárskymi výrobkami v znení neskorších predpisov |
 
-- 42. | Predaj prípravkov na ochranu rastlín alebo iných prípravkov | osvedčenie o odbornej spôsobilosti na uvádzanie prípravkov na ochranu rastlín alebo iných prípravkov na trh | § 18 ods. 1 zákona č. 193/2005 Z. z. o rastlinolekárskej starostlivosti v znení neskorších predpisov |
+- 42. | Predaj prípravkov na ochranu rastlín alebo iných prípravkov | osvedčenie o odbornej spôsobilosti na uvádzanie prípravkov na ochranu rastlín alebo iných prípravkov na trh | § 32 zákona č. 405/2011 Z. z. o rastlinolekárskej starostlivosti a o zmene zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov |
 
-- 43. | Aplikácia prípravkov na ochranu rastlín alebo iných prípravkov | osvedčenie o odbornej spôsobilosti na aplikáciu prípravkov na ochranu rastlín alebo iných prípravkov | § 18a ods. 1 zákona č. 193/2005 Z. z. |
+- 43. | Aplikácia prípravkov na ochranu rastlín alebo iných prípravkov | osvedčenie o odbornej spôsobilosti na aplikáciu prípravkov na ochranu rastlín alebo iných prípravkov | § 32 zákona č. 405/2011 Z. z. o rastlinolekárskej starostlivosti a o zmene zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov |
 
 - 44. | Inseminácia | – vysokoškolské vzdelanie veterinárnej medicíny alebo zootechniky alebo – osvedčenie o odbornej spôsobilosti | § 25 ods. 1 písm. d) a § 25 ods. 2 zákona č. 194/1998 Z. z. o šľachtení a plemenitbe hospodárskych zvierat a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov |
 
@@ -136,19 +136,19 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 49l. | Vyhľadávanie nevybuchnutej munície | Oprávnenie pyrotechnika D Oprávnenie pyrotechnika E | § 35 ods. 6 § 35 ods. 7 zákona č. 58/2014 Z. z. |
 
-- 50. | Prevádzkovanie cestovnej kancelárie | – vysokoškolské vzdelanie druhého stupňa a dva roky praxe v odbore alebo – vysokoškolské vzdelanie prvého stupňa alebo vyššie odborné vzdelanie a tri roky praxe v odbore alebo – úplné stredné všeobecné vzdelanie alebo úplné stredné odborné vzdelanie a štyri roky praxe v odbore | | II
+- 50. | Prevádzkovanie cestovnej kancelárie | – vysokoškolské vzdelanie druhého stupňa a jeden rok praxe v odbore alebo – vysokoškolské vzdelanie prvého stupňa alebo vyššie odborné vzdelanie a dva roky praxe v odbore alebo – úplné stredné všeobecné vzdelanie alebo úplné stredné odborné vzdelanie a tri roky praxe v odbore | | II
 
-- 51. | Prevádzkovanie cestovnej agentúry | – vysokoškolské vzdelanie druhého stupňa a jeden rok praxe v odbore alebo – vysokoškolské vzdelanie prvého stupňa alebo vyššie odborné vzdelanie a dva roky praxe v odbore alebo – úplné stredné všeobecné vzdelanie alebo úplné stredné odborné vzdelanie a tri roky praxe v odbore | | II
+- 51. | Prevádzkovanie cestovnej agentúry | – vysokoškolské vzdelanie druhého stupňa a šesť mesiacov praxe v odbore alebo – vysokoškolské vzdelanie prvého stupňa alebo vyššie odborné vzdelanie a jeden rok praxe v odbore alebo – úplné stredné všeobecné vzdelanie alebo úplné stredné odborné vzdelanie a dva roky praxe v odbore | | II
 
-- 52. | Sprievodca cestovného ­ruchu | osvedčenie o absolvovaní akreditovaného vzdelávacieho programu vydané vzdelávacou inštitúciou akreditovanou Ministerstvom školstva Slovenskej republiky | § 14 zákona č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení niektorých zákonov |
+- 52. | Sprievodca cestovného ­ruchu | osvedčenie o absolvovaní akreditovaného vzdelávacieho programu v odbore vydané vzdelávacou inštitúciou akreditovanou Ministerstvom školstva Slovenskej republiky | § 14 zákona č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení niektorých zákonov |
 
 - 53. | Masérske služby | – absolvovanie strednej zdravotníckej školy alebo – absolvovanie lekárskej fakulty alebo zdravotníckej univerzity alebo – absolvovanie vysokej školy telovýchovného smeru | |
 
-- 53a. | Wellness masérske služby | Osvedčenie o čiastočnej kvalifikácii alebo osvedčenie o úplnej kvalifikácii | § 19 zákona č. 568/2009 Z. z. |
+- 53a. | Wellness masérske služby | Osvedčenie o úplnej kvalifikácii | § 19 zákona č. 568/2009 Z. z. |
 
 - 54. | Ubytovacie služby v ubytovacích zariadeniach s prevádzkovaním pohostinských činností v týchto zariadeniach | – vysokoškolské vzdelanie druhého stupňa a dva roky praxe v odbore alebo – vysokoškolské vzdelanie prvého stupňa alebo vyššie odborné vzdelanie a tri roky praxe v odbore alebo – úplné stredné všeobecné vzdelanie alebo úplné stredné odborné vzdelanie a štyri roky praxe v odbore | | III
 
-- 55. | Reštaurovanie s výnimkou kultúrnych pamiatok a zbierkových predmetov, ktoré sú dielami výtvarného umenia [§ 3 ods. 1 písm. d) desiaty bod] | – stredoškolské vzdelanie reštaurátorského zamerania a 3 roky praxe v odbore reštaurovania alebo – úplné stredné vzdelanie príbuzného odboru a 5 rokov praxe v odbore reštaurovania alebo – vysokoškolské umelecké vzdelanie reštaurátorského zamerania alebo príbuzného odboru a 1 rok praxe v odbore reštaurovania | | I
+- 55. | Reštaurovanie s výnimkou kultúrnych pamiatok a zbierkových predmetov, ktoré sú dielami výtvarného umenia [§ 3 ods. 1 písm. d) desiaty bod] | – stredoškolské vzdelanie reštaurátorského zamerania a 2 roky praxe v odbore reštaurovania alebo – úplné stredné vzdelanie príbuzného odboru a 4 roky praxe v odbore reštaurovania alebo – vysokoškolské umelecké vzdelanie reštaurátorského zamerania alebo príbuzného odboru a šesť mesiacov praxe v odbore reštaurovania | | I
 
 - 56. | Činnosť vodohospodára | – vysokoškolské vzdelanie 2. stupňa v odbore technických vied alebo prírodných vied a najmenej trojročná odborná prax, alebo – úplné stredné odborné vzdelanie technického smeru a najmenej šesťročná odborná prax, prípadne – vysokoškolské vzdelanie 1. stupňa v odbore technických vied alebo prírodných vied a najmenej štvorročná odborná prax | § 70 zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov Odborná prax je prax vodohospodárskeho smeru, chemicko-technologického smeru alebo iného príbuzného smeru |
 
@@ -158,9 +158,9 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 58. | Vykonávanie školení žiadateľov o vydanie osvedčenia o odbornej spôsobilosti bezpečnostného poradcu | poverenie | § 5a ods. 5 zákona č. 338/2000 Z. z. § 20 ods. 11 zákona č. 168/1996 Z. z. |
 
-- 59. | Činnosť autorizovanej osoby | – rozhodnutie o autorizácii | § 15 zákona č. 90/1998 Z. z. |
+- 59. | Činnosť autorizovanej osoby | – rozhodnutie o autorizácii | § 14 zákona č. 133/2013 Z. z. o stavebných výrobkoch a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z. |
 
-- 61. | Sprostredkovanie predaja, prenájmu a kúpy nehnuteľností (realitná činnosť) | – vysokoškolské vzdelanie ekonomického alebo právnického alebo ­stavebného alebo architektonického smeru ­alebo – úplné stredné vzdelanie s maturitnou skúškou, 2 roky praxe v odbore a osvedčenie o absolvovaní akreditovaného vzdelávacieho programu vydané vzdelávacou inštitúciou akreditovanou Ministerstvom školstva, vedy, výskumu a športu Slovenskej republiky | § 14 zákona č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení niektorých zákonov. |
+- 61. | Sprostredkovanie predaja, prenájmu a kúpy nehnuteľností (realitná činnosť) | – vysokoškolské vzdelanie ekonomického alebo právnického alebo ­stavebného alebo architektonického smeru ­alebo – úplné stredné vzdelanie s maturitnou skúškou a osvedčenie o absolvovaní akreditovaného vzdelávacieho programu v odbore vydané vzdelávacou inštitúciou akreditovanou Ministerstvom školstva, vedy, výskumu a športu Slovenskej republiky | § 14 zákona č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení niektorých zákonov. |
 
 - 62. | Bezpečnostnotechnické služby | – oprávnenie alebo – osvedčenie bezpečnostného technika alebo – osvedčenie autorizovaného bezpečnostného technika | § 21, 23, 24 zákona č. 124/2006 Z. z. v znení neskorších predpisov |
 
@@ -206,11 +206,11 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 82b. | Poskytovanie služieb peňaženky virtuálnej meny | úplné stredné všeobecné vzdelanie alebo úplné stredné odborné vzdelanie | |
 
-- 83. | Zasielateľstvo | – stredoškolské vzdelanie a najmenej 2 roky praxe v odbore alebo – vysokoškolské vzdelanie a najmenej jednoročná prax v odbore | | II
+- 83. | Zasielateľstvo | – vysokoškolské vzdelanie v odbore alebo – stredoškolské vzdelanie v odbore a jednoročná prax v odbore alebo – osvedčenie o absolvovaní akreditovaného vzdelávacieho programu v odbore a dvojročná prax v odbore | § 14 zákona č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení niektorých zákonov | II
 
 - 84. | Prevádzkovanie závodného hasičského útvaru | oprávnenie na zriaďovanie a prevádzkovanie závodného hasičského útvaru | § 17 ods. 1 písm. n) zákona č. 314/2001 Z. z. |
 
-- 85. | Organizovanie dobrovoľných dražieb | – vysokoškolské vzdelanie a 3 roky praxe alebo – úplné stredné vzdelanie a 8 rokov praxe | § 6 zákona č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov“. |
+- 85. | Organizovanie dobrovoľných dražieb | – vysokoškolské vzdelanie a 3 roky praxe alebo – úplné stredné vzdelanie a 8 rokov praxe | § 6 zákona č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov |
 
 - 86. | Vykonávanie kvalifikačného kurzu žiadateľov o preukaz odbornej spôsobilosti vodcu malého plavidla | poverenie | § 31 ods. 4 zákona č. 338/2000 Z. z. v znení zákona č. 556/2010 Z. z. |
 

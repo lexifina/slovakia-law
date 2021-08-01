@@ -8,9 +8,7 @@
 
 - a) neustanoví v prípadoch, keď je povinný to urobiť, zodpovedného zástupcu pre živnosť (§ 11 ods. 6 až 8),
 
-- b) neohlási zriadenie prevádzkarne živnostenskému úradu,
-
-- c) nedodržiava podmienky podľa § 29 ods. 1; pokutu nemožno uložiť, ak iný orgán začal v rovnakej veci konanie o uloženie pokuty podľa osobitných predpisov.
+- b) nedodržiava podmienky podľa § 29 ods. 1; pokutu nemožno uložiť, ak iný orgán začal v rovnakej veci konanie o uloženie pokuty podľa osobitných predpisov.
 
 (2) Živnostenský úrad v sídle kraja môže uložiť podnikateľovi pokutu až do 663 eur, ak podnikateľ
 
@@ -22,6 +20,6 @@
 
 - d) poruší povinnosť podľa § 30 ods. 4,
 
-- e) neoznámi zrušenie prevádzkarne (§ 17 ods. 6).
+- e) neohlási zriadenie prevádzkarne alebo neohlási zrušenie prevádzkarne.
 
 (3) Živnostenský úrad v sídle kraja môže uložiť zodpovednému zástupcovi pokutu až do 663 eur, ak vykonáva funkciu zodpovedného zástupcu vo viacerých prevádzkarňach ako v jednej prevádzkarni (§ 11 ods. 5).

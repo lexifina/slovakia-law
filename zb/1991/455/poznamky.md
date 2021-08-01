@@ -174,7 +174,7 @@
 
 - 24a) § 3 a 5 zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
 
-- 24b) § 36 až 39 zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 24b) § 42 až 57 zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 24e) § 69 a 70 Trestného zákona v znení neskorších predpisov.
 
@@ -194,7 +194,7 @@
 
 - 28aa) § 2a zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 125/2006 Z. z.
 
-- 28ab) Zákon č. 48/2002 Z. z. v znení neskorších predpisov.
+- 28ab) Zákon č. 404/2011 Z. z. v znení neskorších predpisov.
 
 - 28b) § 3 vyhlášky Úradu bezpečnosti práce Slovenskej republiky č. 74/1996 Z. z. na zaistenie bezpečnosti a ochrany zdravia pri práci, bezpečnosti tlakových, zdvíhacích, elektrických a plynových technických zariadení a o odbornej spôsobilosti.
 
@@ -212,6 +212,8 @@
 
 - 32) Napríklad zákon č. 634/1992 Zb. o ochrane spotrebiteľa v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov, § 20 až 24 vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 79/1997 Z. z. o opatreniach na predchádzanie prenosným ochoreniam v znení vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 54/2000 Z. z.
 
+- 32a) Napríklad zákon č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov.
+
 - 33) § 7 ods. 3 Obchodného zákonníka.
 
 - § 14 zákona č. 634/1992 Zb. v znení neskorších predpisov.
@@ -225,6 +227,10 @@
 - 36c) Zákon č. 108/2000 Z. z. o ochrane spotrebiteľa pri podomovom predaji a zásielkovom predaji.
 
 - 36ca) § 27 zákona č. 540/2001 Z. z. o štátnej štatistike.
+
+- 36cb) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
+- 36cc) § 12 zákona č. 253/1998 Z. z. v znení zákona č. 206/2008 Z. z.
 
 - 36d) § 31 ods. 1 a 3 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 

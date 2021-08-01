@@ -32,7 +32,7 @@
 
 - a) v listinnej podobe, ktoré jednotné kontaktné miesto po uhradení správneho poplatku prevedie do elektronickej podoby, alebo
 
-- b) elektronicky podpísané zaručeným elektronickým podpisom.
+- b) elektronicky podpísané kvalifikovaným elektronickým podpisom.
 
 (5) Jednotné kontaktné miesto údaje podľa odseku 3 písm. b) až f) preverí a zapíše do informačného systému jednotných kontaktných miest a zodpovedá za ich správnosť. V pochybnostiach o správnosti údajov podľa odseku 3 sprístupní dokumentáciu príslušnému orgánu. Správcom informačného systému jednotných kontaktných miest je Ministerstvo vnútra Slovenskej republiky.
 
