@@ -8,6 +8,6 @@
 
 - b) dvojnásobok sumy podľa písmena a) mesačne, ak vyživované dieťa nedovŕšilo šesť rokov veku, a to poslednýkrát za kalendárny mesiac, v ktorom vyživované dieťa dovŕši šesť rokov veku, alebo
 
-- c) 1,7-násobok sumy podľa písmena a) mesačne, ak vyživované dieťa dovŕšilo šesť rokov veku a nedovŕšilo 15 rokov veku, a to poslednýkrát za kalendárny mesiac, v ktorom vyživované dieťa dovŕši 15 rokov veku.
+- c) 1,7-násobok sumy podľa písmena a) mesačne, ak vyživované dieťa dovŕšilo šesť rokov veku a nedovŕšilo 15 rokov veku, a to poslednýkrát za kalendárny mesiac, v ktorom vyživované dieťa dovŕši 15 rokov veku; to neplatí, ak sa na vyživované dieťa poskytuje dotácia na podporu výchovy k stravovacím návykom dieťaťa.
 
 (3) Nárok na daňový bonus podľa odseku 2 si daňovník môže uplatniť prvýkrát za kalendárny mesiac júl 2021 a poslednýkrát za kalendárny mesiac december 2021.
