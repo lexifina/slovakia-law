@@ -126,6 +126,8 @@
 
 - 33a) § 53a a § 54 ods. 1 a 2 zákona č. 315/2001 Z. z. v znení neskorších predpisov.
 
+- 33aa) § 27b zákona č. 553/2002 Z. z. o sprístupnení dokumentov o činnosti bezpečnostných zložiek štátu 1939 – 1989 a o založení Ústavu pamäti národa a o doplnení niektorých zákonov (zákon o pamäti národa) v znení zákona č. 283/2021 Z. z.
+
 - 33b) § 173 zákona č. 281/2015 Z. z.
 
 - 33c) § 179 zákona č. 281/2015 Z. z.
@@ -151,6 +153,8 @@
 - 35aa) § 69b až 69d zákona č. 461/2003 Z. z. v znení zákona č. 140/2015 Z. z.
 
 - 35ab) Zákon č. 285/2009 Z. z. o poskytovaní príspevku účastníkom národného boja za oslobodenie a vdovám a vdovcom po týchto osobách a o zmene a doplnení niektorých zákonov.
+
+- 35ac) § 27c ods. 5 zákona č. 553/2002 Z. z. v znení zákona č. 283/2021 Z. z.
 
 - 36) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
 
@@ -283,3 +287,5 @@
 - § 166 ods. 1 Zákonníka práce.
 
 - 69) § 77a a 77b zákona č. 461/2003 Z. z. v znení zákona č. 45/2020 Z. z.
+
+- 70) § 82c zákona č. 461/2003 Z. z. v znení zákona č. 283/2021 Z. z.
