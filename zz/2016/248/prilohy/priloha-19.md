@@ -1,1 +1,1 @@
-Príloha č. 19 k vyhláške č. 248/2016 Z. z. [príloha](../assets/aecd492e470ee0d9b29f17201c7ad2527612cf96c4e6adac7169f759f245f360.pdf)
+Príloha č. 19 k vyhláške č. 248/2016 Z. z. [Príloha č. 19 k vyhláške č. 248/2016 Z. z.](../assets/b52ca795efc3e7a4ea7de8d63ea36f52d06a1dd3ea76a65d7f9d224eab79362c.pdf)

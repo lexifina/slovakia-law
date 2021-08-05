@@ -1,1 +1,1 @@
-Príloha č. 10 k vyhláške č. 248/2016 Z. z. [príloha](../assets/4373d035e21a42da65f6454e867eaa9f7ec5da3dfd695a1a2488ab065bfef698.pdf)
+Príloha č. 10 k vyhláške č. 248/2016 Z. z. [príloha](../assets/68ea4c9648aea318d6e1a1dad027295211b99ee9dca39898765b768db6bd11c6.pdf)

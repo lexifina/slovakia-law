@@ -1,1 +1,1 @@
-Príloha č. 8 k vyhláške č. 248/2016 Z. z. [Príloha č. 8 k vyhláške č. 248/2016 Z. z.](../assets/feb7e6fdb57730f3065376ea3bb37f2f89259fddf259648a668246a2db595546.pdf)
+Príloha č. 8 k vyhláške č. 248/2016 Z. z. [Príloha č. 8 k vyhláške č. 248/2016 Z. z.](../assets/3ad99e4ce17dac500ab1186c83e3fbb3fae9ff9a9063922485e7ac27407fcef2.pdf)

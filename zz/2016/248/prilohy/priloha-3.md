@@ -1,1 +1,1 @@
-Príloha č. 3 k vyhláške č. 248/2016 Z. z. [príloha](../assets/d24e844a99b3209039ba9e40750ee4006fa63800c6e4f3839f7e82d464031bf6.pdf)
+Príloha č. 3 k vyhláške č. 248/2016 Z. z. [Príloha č. 3 k vyhláške č. 248/2016 Z. z.](../assets/8968e3f5083dbda557c514990cc5f21d0b6f516efeaff3c3759dd337a34062c5.pdf)
