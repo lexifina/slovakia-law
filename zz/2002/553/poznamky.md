@@ -28,6 +28,20 @@
 
 - 9) § 11 ods. 3 písm. b) zákona Slovenskej národnej rady č. 149/1975 Zb. o archívnictve v znení neskorších predpisov.
 
+- 9a) § 1 ods. 3 zákona Národnej rady Slovenskej republiky č. 125/1996 Z. z. o nemorálnosti a protiprávnosti komunistického režimu v znení zákona č. 338/2020 Z. z.
+
+- 9b) Napríklad § 143an zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení zákona č. 283/2021 Z. z., § 293fob zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 283/2021 Z. z.
+
+- 9c) Napríklad § 84 ods. 5 zákona č. 328/2002 Z. z. v znení zákona č. 283/2021 Z. z., § 218aa zákona č. 461/2003 Z. z. v znení zákona č. 283/2021 Z. z.
+
+- 9d) § 27 ods. 1 a § 32 ods. 3 písm. c) Správneho súdneho poriadku.
+
+- 9e) § 27 ods. 1 Správneho súdneho poriadku.
+
 - 10) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 11) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
+- 12) Zákon č. 328/2002 Z. z. v znení neskorších predpisov.
+
+- 13) § 143an zákona č. 328/2002 Z. z. v znení zákona č. 283/2021 Z. z., § 293fob zákona č. 461/2003 Z. z. v znení zákona č. 283/2021 Z. z.
