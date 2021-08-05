@@ -46,4 +46,6 @@
 
 - 23) § 78 ods. 5 zákona č. 364/2004 Z. z. v znení zákona č. 409/2014 Z. z.
 
+- 23a) § 3 písm. l) a § 11 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
+
 - 24) § 17 až 22 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
