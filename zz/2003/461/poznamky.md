@@ -162,6 +162,8 @@
 
 - 55aa) Napríklad zákon č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov, zákon č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 55ab) § 27b zákona č. 553/2002 Z. z. o sprístupnení dokumentov o činnosti bezpečnostných zložiek štátu 1939 – 1989 a o založení Ústavu pamäti národa a o doplnení niektorých zákonov (zákon o pamäti národa) v znení zákona č. 283/2021 Z. z.
+
 - 55b) Čl. 52 ods. 1 písm. a) nariadenia Európskeho parlamentu a Rady (ES) č. 883/2004 z 29. apríla 2004 o koordinácii systémov sociálneho zabezpečenia (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 5; Ú. v. EÚ L 200, 7. 6. 2004) v platnom znení.
 
 - 55c) Čl. 46 ods. 1 nariadenia Európskeho parlamentu a Rady (ES) č. 883/2004 z 29. apríla 2004 o koordinácii systémov sociálneho zabezpečenia (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 5; Ú. v. EÚ L 200, 7. 6. 2004) v platnom znení.
@@ -315,6 +317,8 @@
 - 97) § 61 zákona č. 195/1998 Z. z. v znení neskorších predpisov.
 
 - 98) § 5 zákona č. 283/2002 Z. z. o cestovných náhradách.
+
+- 99) § 27c ods. 5 zákona č. 553/2002 Z. z. v znení zákona č. 283/2021 Z. z.
 
 - 100a) § 26 ods. 3 zákona č. 43/2004 Z. z.
 
