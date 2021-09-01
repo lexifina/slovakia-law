@@ -248,6 +248,8 @@
 
 - 35aak) Nariadenie (ES) č. 987/2009 v platnom znení.
 
+- 35aaka) § 2 ods. 1 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 35aakb) Čl. 2 ods. 2 nariadenia Európskeho parlamentu a Rady (EÚ) 2021/953 zo 14. júna 2021 o rámci pre vydávanie, overovanie a uznávanie interoperabilných potvrdení o očkovaní proti ochoreniu COVID-19, o vykonaní testu a prekonaní tohto ochorenia (digitálny COVID preukaz EÚ) s cieľom uľahčiť voľný pohyb počas pandémie ochorenia COVID-19 (Ú. v. EÚ L 211, 15. 6. 2021).
 
 - 35aakc) § 12 ods. 7 písm. c) zákona č. 153/2013 Z. z. v znení zákona č. 252/2021 Z. z.
