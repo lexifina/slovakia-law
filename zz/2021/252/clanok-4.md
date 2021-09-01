@@ -12,6 +12,18 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 
   - „<sup>35cc</sup>) Napríklad zákon č. 576/2004 Z. z. v znení neskorších predpisov, zákon č. 578/2004 Z. z. v znení neskorších predpisov, zákon č. 580/2004 Z. z. v znení neskorších predpisov, zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 362/2011 Z. z. v znení neskorších predpisov, zákon č. 153/2013 Z. z. v znení neskorších predpisov.“.
 
+- 2. V § 15 ods.1 písm. ab) sa slová „písmena z)“ nahrádzajú slovami „písmen z) a ah)“.
+
+- 3. V § 15 sa odsek 1 dopĺňa písmenom ah), ktoré znie:
+
+- „ah)
+
+- poskytovať národnému centru k 8. a 20. dňu príslušného kalendárneho mesiaca v elektronickej podobe údaje o vzniku verejného zdravotného poistenia poistenca a údaje o zániku verejného zdravotného poistenia poistenca v rozsahu dátum vzniku verejného zdravotného poistenia, dátum zániku verejného zdravotného poistenia, dôvod zániku verejného zdravotného poistenia, číselný kód príslušnej zdravotnej poisťovne, označenie platiteľa poistného, typ platiteľa poistného podľa osobitného predpisu,<sup>35aaka</sup>) číselný kód pobočky príslušnej zdravotnej poisťovne, identifikačné číslo poistenca v príslušnej zdravotnej poisťovni, meno, priezvisko, rodné priezvisko a dátum narodenia poistenca, rodné číslo, ak ho má poistenec pridelené, predchádzajúce rodné číslo, ak došlo k jeho zmene, pohlavie, identifikátor fyzickej osoby pridelený registrom fyzických osôb Ministerstva vnútra Slovenskej republiky.“.
+
+  - Poznámka pod čiarou k odkazu 35aaka znie:
+
+  - „<sup>35aaka</sup>) § 2 ods. 1 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
 - 4. V § 15 sa odsek 1 dopĺňa písmenom ai), ktoré znie:
 
 - „ai)
@@ -23,6 +35,14 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
   - „<sup>35aakb</sup>) Čl. 2 ods. 2 nariadenia Európskeho parlamentu a Rady (EÚ) 2021/953 zo 14. júna 2021 o rámci pre vydávanie, overovanie a uznávanie interoperabilných potvrdení o očkovaní proti ochoreniu COVID-19, o vykonaní testu a prekonaní tohto ochorenia (digitálny COVID preukaz EÚ) s cieľom uľahčiť voľný pohyb počas pandémie ochorenia COVID-19 (Ú. v. EÚ L 211, 15. 6. 2021).
 
   - <sup>35aakc</sup>) § 12 ods. 7 písm. c) zákona č. 153/2013 Z. z. v znení zákona č. 252/2021 Z. z.“.
+
+- 5. V 16 odsek 6 znie:
+
+- „(6)
+
+- Zoznam podľa odseku 1 písm. f) je zdravotná poisťovňa povinná poskytnúť úradu v elektronickej podobe za každý kalendárny mesiac k 8. a 20. dňu príslušného kalendárneho mesiaca. Zoznamy podľa odseku 1 písm. g) až k) je zdravotná poisťovňa povinná poskytnúť úradu v elektronickej podobe za každý kalendárny mesiac najneskôr do 20. dňa nasledujúceho kalendárneho mesiaca.“.
+
+- 8. V § 20 ods. 1 písm. e) prvom bode sa za slová „označenie platiteľa poistného“ vkladá čiarka a slová „typ platiteľa poistného podľa osobitného predpisu,<sup>35aaka</sup>)“.
 
 - 9. V § 43 odsek 3 znie:
 
@@ -59,6 +79,20 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
   - Poznámka pod čiarou k odkazu 95fa znie:
 
   - „<sup>95fa</sup>) Napríklad zákon č. 153/2013 Z. z. v znení neskorších predpisov.“.
+
+- 24. V § 76 odsek 9 znie:
+
+- „(9)
+
+- Za porušenie povinnosti zachovávať mlčanlivosť sa nepovažuje zverejnenie informácií osobami podľa odseku 1, ktorými zdravotná poisťovňa verejne informuje o
+
+- a)
+
+- svojej činnosti, výsledkoch hospodárenia a plnení zákonných povinností, ktoré vzišli z činnosti alebo údajov zdravotnej poisťovne, alebo
+
+- b)
+
+- poistencovi, platiteľovi poistného a poskytovateľovi zdravotnej starostlivosti s ich výslovným súhlasom.<sup>35ca</sup>)“.
 
 - 25. Za § 86zg sa vkladá § 86zh, ktorý vrátane nadpisu znie:
 
