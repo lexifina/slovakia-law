@@ -716,6 +716,10 @@ Zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení zákona č. 525/
 
 - Na účely primeraného hodnoteniu vplyvov je navrhovateľ povinný vypracovať alternatívne riešenia návrhu plánu alebo projektu a opatrenia s cieľom vylúčiť nepriaznivý vplyv návrhu plánu alebo projektu na územie európskej sústavy chránených území alebo v čo možno najväčšej miere takýto vplyv zmierniť, ak jeho vylúčenie nemožno dosiahnuť.
 
+- (10)
+
+- Primerané hodnotenie vplyvov návrhu plánu alebo projektu sa vypracúva ako súčasť dokumentácie podľa osobitného predpisu.<sup>64d</sup>) Dokumentáciu k primeranému hodnoteniu vplyvov je oprávnená vyhotovovať autorizovaná osoba (§ 28a) alebo organizácia ochrany prírody prostredníctvom autorizovanej osoby, ktorá je v pracovnoprávnom vzťahu s organizáciou ochrany prírody.
+
 - (11)
 
 - Ak sa na základe primeraného hodnotenia vplyvov v konaní podľa osobitného predpisu<sup>64</sup>) nepreukáže, že plán alebo projekt nebude mať nepriaznivý vplyv na integritu územia, a neexistujú iné alternatívne riešenia bez nepriaznivého vplyvu na integritu územia, alebo ak také nie sú, s menším nepriaznivým vplyvom, takýto plán alebo projekt možno podľa tohto zákona alebo osobitných predpisov schváliť alebo povoliť, len ak sa musí realizovať z naliehavých dôvodov vyššieho verejného záujmu a za podmienky uloženia kompenzačných opatrení. Kompenzačné opatrenia musia byť v porovnateľnom rozsahu zamerané na nepriaznivo ovplyvnené druhy a biotopy a musia zabezpečiť funkcie porovnateľné s funkciami, ktoré plnilo územie ovplyvnené plánom alebo projektom tak, aby bola zabezpečená ochrana celkovej koherencie európskej sústavy chránených území.
@@ -746,11 +750,109 @@ Zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení zákona č. 525/
 
   - <sup>64b</sup>) § 3 písm. d) zákona č. 24/2006 Z. z. v znení neskorších predpisov.
 
-  - <sup>64c</sup>) § 3 písm. f) zákona č. 24/2006 Z. z. v znení neskorších predpisov.“.
+  - <sup>64c</sup>) § 3 písm. f) zákona č. 24/2006 Z. z. v znení neskorších predpisov.
+
+  - <sup>64d</sup>) § 9 a 31 zákona č. 24/2006 Z. z. v znení neskorších predpisov.“.
 
 - 74. Za § 28 sa vkladajú § 28a a 28b, ktoré vrátane nadpisov znejú:
 
-- „§ 28b
+- „§ 28a
+
+- Autorizovaná osoba
+
+- (1)
+
+- Dokumentáciu k primeranému hodnoteniu vplyvov návrhov plánov alebo projektov (§ 28 ods. 10) a k návrhu kompenzačných opatrení (§ 28 ods. 14) vyhotovujú fyzické osoby, ktoré sú držiteľmi osvedčenia vydaného ministerstvom (ďalej len „autorizovaná osoba“). Právnická osoba sa môže zaviazať k vyhotoveniu tejto dokumentácie, ak pre ňu túto činnosť zabezpečujú autorizované osoby.
+
+- (2)
+
+- Osvedčenie môže na základe písomnej žiadosti získať fyzická osoba, ktorá má na uvedenú činnosť odbornú spôsobilosť a je bezúhonná.
+
+- (3)
+
+- Odborná spôsobilosť sa preukazuje
+
+- a)
+
+- dokladom o ukončenom vysokoškolskom vzdelaní príslušného odborného zamerania,
+
+- b)
+
+- dokladom o najmenej päťročnej odbornej praxi v oblasti ochrany prírody a krajiny,
+
+- c)
+
+- dokladom o absolvovaní odbornej prípravy zabezpečovanej ministerstvom poverenou organizáciou a úspešnom vykonaní skúšky pred odbornou komisiou zriadenou ministerstvom.
+
+- (4)
+
+- Za bezúhonnú sa považuje osoba, ktorá nebola právoplatne odsúdená za úmyselný trestný čin alebo za trestný čin ohrozenia životného prostredia spáchaný z nedbanlivosti;<sup>72</sup>) táto skutočnosť sa preukazuje dokladmi uvedenými v § 44 ods. 7.
+
+- (5)
+
+- Osvedčenie sa vydáva s platnosťou najviac na päť rokov. Platnosť osvedčenia možno predĺžiť najviac o ďalších päť rokov, pokiaľ sa nezmenili podmienky na vydanie osvedčenia a držiteľ osvedčenia požiada o predĺženie jeho platnosti najmenej šesť mesiacov pred uplynutím platnosti osvedčenia.
+
+- (6)
+
+- Osvedčenie zaniká
+
+- a)
+
+- uplynutím času, na ktorý bolo vydané,
+
+- b)
+
+- smrťou oprávnenej osoby, alebo
+
+- c)
+
+- jeho odňatím.
+
+- (7)
+
+- Ministerstvo môže odňať osvedčenie, ak
+
+- a)
+
+- autorizovaná osoba prestala byť spôsobilá na právne úkony,
+
+- b)
+
+- autorizovaná osoba bola právoplatne odsúdená za úmyselný trestný čin alebo trestný čin ohrozenia životného prostredia spáchaný z nedbanlivosti,<sup>72</sup>)
+
+- c)
+
+- bolo osvedčenie vydané na základe nepravdivých údajov uvedených v žiadosti alebo pripojených dokladoch,
+
+- d)
+
+- autorizovaná osoba závažným spôsobom alebo opakovane porušila právne predpisy súvisiace s výkonom jej činnosti, alebo
+
+- e)
+
+- autorizovaná osoba požiadala o odňatie osvedčenia,
+
+- f)
+
+- autorizovaná osoba nesplní povinnosť podľa odseku 8 písm. b).
+
+- (8)
+
+- Autorizovaná osoba je povinná
+
+- a)
+
+- oznámiť ministerstvu bezodkladne zmenu údajov, na základe ktorých jej bolo vydané osvedčenie,
+
+- b)
+
+- zúčastniť sa na základe výzvy ministerstva preškolenia alebo úspešne absolvovať skúšku na overenie odbornej spôsobilosti, ak dôjde k zásadným zmenám v príslušných všeobecne záväzných právnych predpisoch alebo v prípade zistenia závažných nedostatkov v jej činnosti.
+
+- (9)
+
+- Podrobnosti o vydaní osvedčenia, odbornej spôsobilosti, odbornej príprave a skúške odbornej spôsobilosti ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.
+
+- § 28b
 
 - Územie medzinárodného významu
 
@@ -1129,6 +1231,56 @@ Zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení zákona č. 525/
   - „<sup>79b</sup>) § 34 ods. 3 zákona Slovenskej národnej rady č. 330/1991 Zb. v znení neskorších predpisov, § 50 ods. 6 zákona č. 326/2005 Z. z. v znení zákona č. 499/2009 Z. z.“.
 
 - 97. V § 50 ods. 8 sa slová „odsekov 1 až 9“ nahrádzajú slovami „odsekov 1 až 7“.
+
+- 98. § 51 vrátane nadpisu znie:
+
+- „§ 51
+
+- Štátny zoznam osobitne chránených častí prírody a krajiny
+
+- (1)
+
+- Štátny zoznam osobitne chránených častí prírody a krajiny (ďalej len „štátny zoznam“) je informačný systém verejnej správy, v ktorom sa evidujú údaje o chránených územiach a ich ochranných pásmach, územiach európskeho významu, územiach medzinárodného významu, súkromných chránených územiach a ich ochranných pásmach a chránených stromoch a ich ochranných pásmach.
+
+- (2)
+
+- Štátny zoznam obsahuje súpis, popis a geometrické a polohové určenie osobitne chránených častí prírody a krajiny podľa odseku 1, ako aj dokumentáciu týkajúcu sa týchto území. Údaje o geometrickom a polohovom určení osobitne chránených častí prírody a krajiny zapísaných v štátnom zozname sú v rozsahu ich vyhlásenej ochrany záväzné.
+
+- (3)
+
+- Správcom štátneho zoznamu je ministerstvo. Štátny zoznam prevádzkuje ministerstvom poverená organizácia ochrany prírody.
+
+- (4)
+
+- Orgán ochrany prírody zašle do 15 dní odo dňa nadobudnutia účinnosti všeobecne záväzného právneho predpisu, ktorým sa vyhlásila ochrana osobitne chránenej časti prírody a krajiny, podklady organizácii ochrany prírody na vykonanie jej zápisu do štátneho zoznamu; ak sa osobitne chránená časť prírody a krajiny vyhlásila nariadením vlády, príslušným orgánom je ministerstvo.
+
+- (5)
+
+- Organizácia ochrany prírody zapíše osobitne chránenú časť prírody a krajiny do štátneho zoznamu do 30 dní odo dňa doručenia podkladov podľa odseku 4. Ak osobitne chránená časť prírody a krajiny bola vyhlásená na základe podkladov vypracovaných organizáciou ochrany prírody, osobitne chránenú časť prírody a krajiny organizácia ochrany prírody zapíše do štátneho zoznamu do 30 dní odo dňa nadobudnutia účinnosti všeobecne záväzného právneho predpisu, ktorým sa vyhlásila ochrana osobitne chránenej časti prírody a krajiny; ustanovenie odseku 4 sa v tomto prípade nepoužije.
+
+- (6)
+
+- Po vykonaní zápisu osobitne chránenej časti prírody a krajiny do štátneho zoznamu okresný úrad na základe podkladov predložených organizáciou ochrany prírody do 30 dní vyznačí osobitne chránenú časť prírody a krajiny v katastri nehnuteľností;<sup>80</sup>) ak ide o obecné chránené územie, podklady predkladá obec. Prílohou žiadosti o zápis osobitne chránenej časti prírody a krajiny do katastra nehnuteľností je zjednodušený operát geometrického plánu.
+
+- (7)
+
+- Postup podľa odsekov 4 až 6 sa rovnako uplatní aj na zmenu osobitne chránenej časti prírody a krajiny.
+
+- (8)
+
+- V prípade zrušenia ochrany osobitne chránenej časti prírody a krajiny organizácia ochrany prírody zápis zo štátneho zoznamu vyškrtne. Po vyškrtnutí zápisu osobitne chránenej časti prírody a krajiny sa primerane uplatní postup podľa odseku 6 prvej vety.
+
+- (9)
+
+- Údaje zo štátneho zoznamu sú prístupné verejnosti cez sieťové služby.<sup>81</sup>)
+
+- (10)
+
+- Podrobnosti o vedení štátneho zoznamu ustanoví ministerstvo všeobecne záväzným právnym predpisom.“.
+
+  - Poznámka pod čiarou k odkazu 81 znie:
+
+  - „<sup>81</sup>) § 6 zákona č. 3/2010 Z. z. o národnej infraštruktúre pre priestorové informácie v znení zákona č. 362/2015 Z. z.“.
 
 - 99. V § 54 ods. 2 písmená a) a b) znejú:
 
