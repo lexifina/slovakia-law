@@ -322,6 +322,8 @@
 
 - 53aa) § 79 ods. 1 písm. ap) zákona č. 578/2004 Z. z. v znení zákona č. 257/2017 Z. z.
 
+- 53aaa) § 12 ods. 3 písm. t) zákona č. 153/2013 Z. z. v znení zákona č. 351/2017 Z. z.
+
 - 54) Napríklad zákon č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov, zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
 
 - 55) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
