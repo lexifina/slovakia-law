@@ -64,6 +64,130 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - do 500 eur zdravotníckemu pracovníkovi, ak poruší povinnosť podľa § 39a ods. 11.“.
 
+- 4. § 92a vrátane nadpisu znie:
+
+- „§ 92a
+
+- Centrálny register zdravotníckych pracovníkov v ďalšom vzdelávaní
+
+- (1)
+
+- Centrálny register zdravotníckych pracovníkov v ďalšom vzdelávaní (ďalej len „centrálny register“) je neverejný informačný systém, ktorého správcom a prevádzkovateľom je ministerstvo zdravotníctva.
+
+- (2)
+
+- Centrálny register slúži na
+
+- a)
+
+- evidenciu zdravotníckych pracovníkov zaradených do ďalšieho vzdelávania podľa § 39
+
+- ods. 3,
+
+- b)
+
+- evidenciu vydaných diplomov o špecializácii v príslušnom špecializačnom odbore podľa § 33 ods. 4,
+
+- c)
+
+- evidenciu vydaných certifikátov v príslušnej certifikovanej pracovnej činnosti podľa § 33 ods. 5,
+
+- d)
+
+- evidenciu vydaných osvedčení o príprave na výkon práce v zdravotníctve podľa § 33 ods. 3,
+
+- e)
+
+- štatistické účely,
+
+- f)
+
+- kontrolné účely a
+
+- g)
+
+- výmenu informácií pri uznávaní odborných kvalifikácií medzi členskými štátmi.
+
+- (3)
+
+- Centrálny register obsahuje
+
+- a)
+
+- meno a priezvisko, profesijný titul, dátum, miesto a štát narodenia, miesto trvalého pobytu, pohlavie, štátne občianstvo,
+
+- b)
+
+- údaj o zdravotníckom povolaní,
+
+- c)
+
+- kópiu dokladu o registrácii v príslušnej komore,
+
+- d)
+
+- kópiu dokladu o odbornej spôsobilosti na výkon zdravotníckeho povolania podľa § 33,
+
+- e)
+
+- kópiu osvedčenia o príprave na výkon práce v zdravotníctve podľa § 27 ods. 2,
+
+- f)
+
+- názov vzdelávacej ustanovizne, ktorá zdravotníckeho pracovníka zaradila do špecializačného štúdia alebo certifikačnej prípravy,
+
+- g)
+
+- názov špecializačného odboru alebo certifikovanej pracovnej činnosti,
+
+- h)
+
+- dátum zaradenia do špecializačného štúdia alebo certifikačnej prípravy,
+
+- i)
+
+- názov zamestnávateľa a údaj o rozsahu pracovného úväzku,
+
+- j)
+
+- údaj o započítaní časti ukončeného špecializačného štúdia s uvedením názvu špecializačného odboru, z ktorého sa časť započítala, a dĺžky započítanej časti,
+
+- k)
+
+- údaj o dĺžke prerušenia špecializačného štúdia alebo certifikačnej prípravy,
+
+- l)
+
+- dôvod prerušenia špecializačného štúdia alebo certifikačnej prípravy,
+
+- m)
+
+- údaj o zmene zaradenia špecializačného štúdia v príslušnom špecializačnom odbore na iný špecializačný odbor s uvedením dátumu zmeny,
+
+- n)
+
+- údaj o zmene vzdelávacej ustanovizne s pokračovaním v špecializačnom štúdiu v tom istom špecializačnom odbore s uvedením dátumu zmeny,
+
+- o)
+
+- údaj o zmene vzdelávacej ustanovizne s pokračovaním v špecializačnom štúdiu v inom špecializačnom odbore s uvedením dátumu zmeny,
+
+- p)
+
+- kópiu diplomu o špecializácii alebo certifikátu.
+
+- (4)
+
+- Vzdelávacia ustanovizeň, ktorej ministerstvo zdravotníctva vydalo osvedčenie o akreditácii, poskytuje elektronicky údaje do centrálneho registra podľa § 40.
+
+- (5)
+
+- Na uchovávanie údajov v centrálnom registri sa vzťahuje osobitný predpis.<sup>25</sup>) Osobné údaje dotknutej osoby podľa odseku 3 sa uchovávajú v centrálnom registri 60 rokov od vydania diplomu o špecializácii alebo vydania certifikátu alebo osvedčenia o príprave na výkon práce v zdravotníctve.
+
+- (6)
+
+- Vzdelávacia ustanovizeň, ktorej ministerstvo zdravotníctva vydalo osvedčenie o akreditácii, je povinná údaje podľa odseku 3 poskytovať ministerstvu zdravotníctva do 30 dní od termínu zaradenia zdravotníckeho pracovníka do špecializačného štúdia alebo certifikačnej prípravy pre správne a úplné vedenie aktuálneho registra. Zmeny údajov podľa odseku 3 je vzdelávacia ustanovizeň povinná poskytnúť do centrálneho registra bezodkladne.“.
+
 - 5. Za § 102z sa vkladá § 102aa, ktorý znie:
 
 - „§ 102aa
@@ -100,7 +224,7 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - 10. V prílohe č. 3 časti A písm. a) tabuľky č. 1 a 2 znejú:
 
-- „[tabuľka1](assets/9408dfc96d0b59a1c5721f02d7012b46b4ea185ca4eac02a8bf20b34094e4913.pdf)“.
+- „[tabuľka1](assets/07a2f5f70de8e4c171b832def07a2162b40c4d025b6822039c5ba4eeced1d238.pdf)“.
 
 - 11. V prílohe č. 3 časti A písm. b) desiaty bod znie:
 
@@ -142,12 +266,12 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - 12. V prílohe č. 3 časti A písm. c) tabuľka č. 3 znie:
 
-- „[tabuľka2](assets/6668b7eea32dcdc1220ebc660023f5aa9ee9a421d7ecd1a713e0abf30d28aa24.pdf)“.
+- „[tabuľka2](assets/d5b6377f3e70d02b8aa66f7a9219813375bbc9680b5f43b3135d88287177a221.pdf)“.
 
 - 13. V prílohe č. 3 časti B písm. a) tabuľka č. 1 znie:
 
-- „[tabuľka3](assets/a46a4b13e562f34efaeb47309e842c37046d57bf6f707338a057b828aefe64d9.pdf)“.
+- „[tabuľka3](assets/bfea864519a22240f706d7c9d2877d971cbd3875a9ec9ae755493e347b5b4761.pdf)“.
 
 - 14. V prílohe č. 3 časti B písm. b) tabuľka č. 2 znie:
 
-- „[tabuľka4](assets/cb005ddf6d4c45fde8ec2cd67f1b97392a64d4a70880250b59a40a22217c26d0.pdf)“.
+- „[tabuľka4](assets/e8d93b6c3074e57d8dbc5cb930c7d00a2e021321c80ad31b9172e2db2b20bd71.pdf)“.
