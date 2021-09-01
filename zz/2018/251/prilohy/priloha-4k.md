@@ -1,1 +1,1 @@
-Príloha č. 4 k vyhláške č. 251/2018 Z. z. [Príloha č. 4 k vyhláške č. 251/2018 Z. z.](../assets/00283de0076316a367de0bdac4fa973aece33e775956f10162731439c9a8af1a.pdf)
+Príloha č. 4 k vyhláške č. 251/2018 Z. z. [Príloha č. 4 k vyhláške č. 251/2018 Z. z.](../assets/7ee341f6a9e727b311cb9a72d66cd27651d01a64c695adcd3fd7bc3880e95140.pdf)
