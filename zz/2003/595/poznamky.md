@@ -766,8 +766,6 @@
 
 - § 25 ods. 5 zákona č. 580/2004 Z. z. v znení zákona č. 221/2019 Z. z.
 
-- 143b) Zákon č. 346/2018 Z. z. o registri mimovládnych neziskových organizácií a o zmene a doplnení niektorých zákonov.
-
 - 144) § 10 zákona Slovenskej národnej rady č. 323/1992 Zb. v znení neskorších predpisov.
 
 - 145) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
