@@ -142,7 +142,9 @@
 
 - 24e) § 55 zákona č. 422/2015 Z. z.
 
-- 25) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení zákona č. 602/2003 Z. z.
+- 25) Nariadenie Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) (Ú. v. EÚ L 119, 4. 5. 2016) v platnom znení.
+
+- Zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 26) § 12 ods. 6 zákona č. 576/2004 Z. z.
 
@@ -203,6 +205,8 @@
 - Zákon č. 245/2008 Z. z. v znení neskorších predpisov.
 
 - 33aa) § 17 ods. 1 vyhlášky Ministerstva zdravotníctva slovenskej republiky č. 84/2016 Z. z., ktorou sa ustanovujú určujúce znaky jednotlivých druhov zdravotníckych zariadení.
+
+- 33ab) § 14 ods. 1 písm. a) zákona č. 153/2013 Z. z. v znení neskorších predpisov.
 
 - 34) Zákon č. 219/2002 Z. z. o povolaní lekára, o Slovenskej lekárskej komore, o povolaní zubného lekára, o Slovenskej komore zubných lekárov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -467,6 +471,8 @@
 - 72) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
 
 - 72a) Zákon č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov.
+
+- 72aa) § 3 ods. 1 písm. a) bod 2 a príloha č. 1 časť B zákona č. 153/2013 Z. z. v znení neskorších predpisov.
 
 - 73) Zákon č. 219/2002 Z. z. v znení neskorších predpisov.
 
