@@ -8,6 +8,8 @@
 
 - 1e) § 293feh a 293fej zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 130/2021 Z. z.
 
+- 2) § 8 ods. 1 prvá veta a ods. 3 zákona č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+
 - 11) § 12 ods. 3 písm. a) zákona č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov.
 
 - 12) § 12 ods. 3 písm. b) piaty bod a šiesty bod zákona č. 417/2013 Z. z. v znení neskorších predpisov.
@@ -21,8 +23,6 @@
 - 15) § 14 ods. 5 písm. d) zákona č. 417/2013 Z. z.
 
 - 16) § 15 zákona č. 417/2013 Z. z. v znení neskorších predpisov.
-
-- 17) § 1 a § 2 ods. 3 zákona č. 201/2008 Z. z. o náhradnom výživnom a o zmene a doplnení zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení nálezu Ústavného súdu Slovenskej republiky č. 615/2006 Z. z. v znení neskorších predpisov v znení zákona č. 66/2018 Z. z.
 
 - 18) § 13 ods. 5 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov.
 
@@ -68,7 +68,7 @@
 
 - 39) § 10 zákona č. 238/1998 Z. z. o príspevku na pohreb.
 
-- § 15 ods. 1 zákona č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+- § 15 ods. 1 zákona č. 600/2003 Z. z. v znení neskorších predpisov.
 
 - § 7 zákona č. 561/2008 Z. z. o príspevku na starostlivosť o dieťa a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -80,7 +80,7 @@
 
 - § 15 zákona č. 627/2005 Z. z. o príspevkoch na podporu náhradnej starostlivosti o dieťa v znení neskorších predpisov.
 
-- § 11 ods. 4 a § 12 ods. 1 zákona č. 201/2008 Z. z.
+- § 11 ods. 4 a § 12 ods. 1 zákona č. 201/2008 Z. z. o náhradnom výživnom a o zmene a doplnení zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení nálezu Ústavného súdu Slovenskej republiky č. 615/2006 Z. z. v znení neskorších predpisov.
 
 - § 9 ods. 2 a § 10 ods. 1 zákona č. 561/2008 Z. z. v znení neskorších predpisov.
 

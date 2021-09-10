@@ -1,4 +1,6 @@
-# § 1a Opatrenia na úseku štátnych sociálnych dávok
+## Opatrenia na úseku štátnych sociálnych dávok
+
+# § 1a
 
 (1) Ak v čase krízovej situácie nárok na rodičovský príspevok zanikol z dôvodu neplnenia podmienky nároku na rodičovský príspevok ustanovenej osobitným predpisom,<sup>1a</sup>) rodičovský príspevok patrí aj od kalendárneho mesiaca nasledujúceho po kalendárnom mesiaci, v ktorom zanikol nárok na rodičovský príspevok, a to v sume, v akej bol poskytovaný do zániku nároku, ak odsek 4 neustanovuje inak.
 
