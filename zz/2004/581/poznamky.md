@@ -456,8 +456,6 @@
 
 - 63e) § 2 ods. 4 zákona č. 576/2004 Z. z. znení zákona č. 77/2015 Z. z.
 
-- 63f) § 8a ods. 2 zákona č. 576/2004 Z. z. v znení zákona č. 351/2017 Z. z.
-
 - 63g) § 7 ods. 1 písm. a) prvý bod zákona č. 576/2004 Z. z.
 
 - 63h) § 7 ods. 1 písm. a) tretí bod zákona č. 576/2004 Z. z. v znení neskorších predpisov.
