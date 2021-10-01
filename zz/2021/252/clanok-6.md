@@ -46,6 +46,10 @@ Zákon 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene
 
 - 6. V § 5 ods. 15 sa za slová „podľa odseku 1 písm. b)“ vkladajú slová „pätnásteho bodu“.
 
+- 7. V § 10 ods. 8 sa slová „vyšší územný celok, Ústredie práce, sociálnych vecí a rodiny a organizátor prehliadok mŕtvych tiel<sup>34ab</sup>)“ nahrádzajú slovami „vyšší územný celok a Ústredie práce, sociálnych vecí a rodiny“.
+
+  - Poznámka pod čiarou k odkazu 34ab sa vypúšťa.
+
 - 8. § 12 sa dopĺňa odsekmi 7 a 8, ktoré znejú:
 
 - „(7)
@@ -219,6 +223,12 @@ Zákon 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene
   - <sup>37cd</sup>) § 33 ods. 5 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
   - <sup>37ce</sup>) § 33 ods. 3 zákona č. 578/2004 Z. z. v znení neskorších predpisov.“.
+
+- 11. V prílohe č. 1 časti C písm. a) sa vypúšťajú slová „organizátora prehliadok mŕtvych tiel,“.
+
+- 12. V prílohe č. 1 časti C písm. c) sa vypúšťajú slová „organizátor prehliadok mŕtvych tiel,“.
+
+- 13. V prílohe č. 1 časti C písm. e) sa vypúšťajú slová „organizátora prehliadok mŕtvych tiel,“.
 
 - 14. Príloha č. 1 sa dopĺňa časťou D, ktorá vrátane nadpisu znie:
 

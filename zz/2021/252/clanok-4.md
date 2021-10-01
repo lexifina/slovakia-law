@@ -42,6 +42,40 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 
 - Zoznam podľa odseku 1 písm. f) je zdravotná poisťovňa povinná poskytnúť úradu v elektronickej podobe za každý kalendárny mesiac k 8. a 20. dňu príslušného kalendárneho mesiaca. Zoznamy podľa odseku 1 písm. g) až k) je zdravotná poisťovňa povinná poskytnúť úradu v elektronickej podobe za každý kalendárny mesiac najneskôr do 20. dňa nasledujúceho kalendárneho mesiaca.“.
 
+- 6. V § 18 ods. 1 sa vypúšťajú písmená p) a q).
+
+  - Doterajšie písmená r) až x) sa označujú ako písmená p) až v).
+
+- 7. V § 18 ods. 1 písmená p) a q) znejú:
+
+- „p)
+
+- zabezpečuje vykonávanie prehliadok mŕtvych tiel a vypracúva rozpis vykonávania prehliadok mŕtvych tiel (ďalej len „rozpis úradu“) podľa § 47da,
+
+- q)
+
+- uhrádza
+
+- 1.
+
+- úhradu za vykonanú prehliadku mŕtveho tela a úhradu za prepravu prehliadajúceho lekára na miesto vykonania prehliadky mŕtveho tela a späť, ak sa prehliadajúci lekár dopravil na miesto prehliadky mŕtveho tela na vlastné náklady,
+
+- 1a.
+
+- poskytovateľovi všeobecnej ambulantnej zdravotnej starostlivosti a poskytovateľovi špecializovanej ambulantnej starostlivosti, ktorého lekár vykonal prehliadku mŕtveho tela na základe rozpisu úradu podľa § 47da,
+
+- 1b.
+
+- prehliadajúcemu lekárovi, ktorý nie je lekárom poskytovateľa všeobecnej ambulantnej zdravotnej starostlivosti alebo poskytovateľa špecializovanej ambulantnej starostlivosti a ktorý vykonal prehliadku mŕtveho tela na základe rozpisu úradu podľa § 47da,
+
+- 2.
+
+- úhradu za vykonanú prehliadku mŕtveho tela prehliadajúcemu lekárovi alebo poskytovateľovi zdravotnej starostlivosti, ktorého lekár vykonal prehliadku mŕtveho tela, ak sa prehliadka mŕtveho tela vykonala v zdravotníckom zariadení ústavnej zdravotnej starostlivosti,
+
+- 3.
+
+- úhradu za vykonanie prehliadky mŕtveho tela poskytovateľovi, ktorý má vydané povolenie na prevádzkovanie ambulancie rýchlej lekárskej pomoci,“.
+
 - 8. V § 20 ods. 1 písm. e) prvom bode sa za slová „označenie platiteľa poistného“ vkladá čiarka a slová „typ platiteľa poistného podľa osobitného predpisu,<sup>35aaka</sup>)“.
 
 - 9. V § 43 odsek 3 znie:
@@ -62,7 +96,163 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 
 - 12. V § 43a ods. 4 písm. a) prvom bode sa za slovo „priezvisko,“ vkladajú slová „dátum narodenia,“.
 
+- 13. § 47da vrátane nadpisu znie:
+
+- „§ 47da
+
+- Prehliadka mŕtveho tela mimo zdravotníckeho zariadenia ústavnej zdravotnej starostlivosti
+
+- (1)
+
+- Prehliadky mŕtvych tiel mimo zdravotníckeho zariadenia ústavnej zdravotnej starostlivosti sa vykonávajú na základe rozpisu úradu, ak nie je v odseku 9 uvedené inak. Úrad vyhotoví rozpis úradu tak, aby úplne zabezpečil nepretržité vykonávanie prehliadok mŕtvych tiel na území okresu; úrad úplne zabezpečí vykonávanie prehliadok mŕtvych tiel, ak bude na každý deň rozpisu úradu zabezpečený dostatočný počet prehliadajúcich lekárov, aby bolo pokryté celé územie okresu, pre ktorý sa rozpis úradu vyhotovuje.
+
+- (2)
+
+- Úrad zaradí do rozpisu úradu najprv na základe dobrovoľnosti prehliadajúcich lekárov, ktorí majú vydané oprávnenie na vykonávanie prehliadok mŕtvych tiel podľa § 47f ods. 1; úrad do rozpisu úradu nezaradí zdravotníckeho pracovníka v povolaní lekár, ktorý má vydané oprávnenie na vykonávanie prehliadok mŕtvych tiel podľa § 47f ods. 1 a ktorý vykonáva štátnu službu profesionálneho vojaka vo vojenskom zdravotníctve.
+
+- (3)
+
+- Ak úrad nedokáže na území okresu úplne zabezpečiť vykonávanie prehliadok mŕtvych tiel podľa odseku 2 na základe dobrovoľnosti, doplní do rozpisu úradu lekára poskytovateľa všeobecnej ambulantnej zdravotnej starostlivosti<sup>63g</sup>) alebo lekára poskytovateľa špecializovanej ambulantnej starostlivosti,<sup>63h</sup>) ktorý poskytuje zdravotnú starostlivosť na území okresu, pre ktorý nie je zabezpečené vykonávanie prehliadok mŕtvych tiel podľa odseku 2. Lekár poskytovateľa všeobecnej ambulantnej zdravotnej starostlivosti alebo lekár poskytovateľa špecializovanej ambulantnej starostlivosti, ktorý je uvedený v rozpise úradu, sa považuje za prehliadajúceho lekára; osvedčenie o absolvovaní školenia k prehliadkam mŕtvych tiel a oprávnenie na vykonávanie prehliadok mŕtvych tiel sa nevyžaduje.
+
+- (4)
+
+- Úrad je povinný do rozpisu úradu zaraďovať prehliadajúcich lekárov podľa odseku 3 rovnomerne.
+
+- (5)
+
+- Úrad zverejňuje rozpis úradu na svojom webovom sídle najneskôr k poslednému dňu kalendárneho mesiaca, ktorý o jeden mesiac predchádza kalendárnemu mesiacu, na ktorý sa rozpis úradu vyhotovuje; úrad zverejňuje rozpis v rozsahu uvedenom v odseku 6 okrem telefonického kontaktu. Ak má úrad k dispozícii e-mailovú adresu poskytovateľa všeobecnej ambulantnej zdravotnej starostlivosti, poskytovateľa špecializovanej ambulantnej starostlivosti alebo lekára uvedeného v rozpise úradu, zašle rozpis úradu aj na túto e-mailovú adresu. Rozpis úradu sa považuje za doručený poskytovateľom zdravotnej starostlivosti a lekárom dňom nasledujúcim po dni jeho zverejnenia na webovom sídle úradu. Úrad zašle rozpis úradu operačnému stredisku tiesňového volania záchrannej zdravotnej služby najneskôr desať pracovných dní pred začiatkom obdobia, na ktoré sa rozpis úradu vyhotovuje.
+
+- (6)
+
+- Rozpis úradu zasielaný operačnému stredisku tiesňového volania záchrannej zdravotnej služby obsahuje najmä
+
+- a)
+
+- obdobie, na ktoré sa rozpis úradu vyhotovuje,
+
+- b)
+
+- určenie okresu, pre ktorý sa vykonávanie prehliadok mŕtvych tiel zabezpečuje,
+
+- c)
+
+- zoznam prehliadajúcich lekárov s uvedením mena a priezviska, telefonického kontaktu a dátumu a času, v ktorom budú vykonávať prehliadky mŕtvych tiel.
+
+- (7)
+
+- Prehliadajúci lekár je povinný
+
+- a)
+
+- vykonávať prehliadky mŕtvych tiel na základe rozpisu úradu,
+
+- b)
+
+- poskytnúť úradu kontaktné údaje vrátane telefonického kontaktu na účely vykonávania prehliadok mŕtvych tiel podľa rozpisu úradu,
+
+- c)
+
+- bezodkladne po oznámení úmrtia operačným strediskom tiesňového volania záchrannej zdravotnej služby vykonať prehliadku mŕtveho tela,
+
+- d)
+
+- nariaďovať pitvy podľa § 48.
+
+- (8)
+
+- Prehliadka mŕtveho tela lekárom poskytovateľa všeobecnej ambulantnej zdravotnej starostlivosti alebo lekárom poskytovateľa špecializovanej ambulantnej zdravotnej starostlivosti, ktorý je uvedený v rozpise úradu, je vykonaná bezodkladne aj vtedy, ak k oznámeniu úmrtia operačným strediskom tiesňového volania záchrannej zdravotnej služby dôjde
+
+- a)
+
+- počas jeho ordinačných hodín schválených podľa osobitného predpisu<sup>63i</sup>) a lekár vykoná prehliadku mŕtveho tela bezodkladne po ich skončení alebo
+
+- b)
+
+- v čase, v ktorom je týmto lekárom poskytovaná pevná ambulantná pohotovostná služba podľa osobitného predpisu<sup>63j</sup>) a lekár vykoná prehliadku mŕtveho tela bezodkladne po ukončení času, v ktorom sa pevná ambulantná pohotovostná služba poskytuje.
+
+- (9)
+
+- Ak prehliadajúci lekár zaradený v rozpise úradu podľa odseku 5 nemôže v čase určenom v rozpise úradu vykonávať prehliadky mŕtvych tiel, je povinný
+
+- a)
+
+- vopred zabezpečiť svoje zastupovanie v rozsahu rozpisu zverejnenom na webovom sídle úradu podľa odseku 5 a
+
+- b)
+
+- najneskôr v deň, keď má vykonávať prehliadky mŕtvych tiel podľa rozpisu zverejneného podľa odseku 5, oznámiť úradu a operačnému stredisku tiesňového volania záchrannej zdravotnej služby meno a priezvisko, telefonický kontakt na zastupujúceho lekára spoločne s dátumom a časom, v ktorom bude zastupujúci lekár vykonávať prehliadky mŕtvych tiel.
+
+- (10)
+
+- Prehliadku mŕtveho tela mimo zdravotníckeho zariadenia ústavnej zdravotnej starostlivosti môže vykonať aj lekár poskytovateľa, ktorý má vydané povolenie na prevádzkovanie ambulancie rýchlej lekárskej pomoci, a to v prípade, ak vykonaním prehliadky mŕtveho tela neohrozí poskytovanie neodkladnej zdravotnej starostlivosti inej osobe. Ak smrť osoby nastala až po začatí poskytovania zdravotnej starostlivosti tejto osobe lekárom podľa prvej vety, tento lekár je po vykonaní prehliadky mŕtveho tela povinný nariadiť pitvu podľa § 48.“.
+
+  - Poznámka pod čiarou k odkazu 63f sa vypúšťa.
+
+- 14. § 47f vrátane nadpisu znie:
+
+- „§ 47f
+
+- Oprávnenie na vykonávanie prehliadok mŕtvych tiel
+
+- (1)
+
+- Úrad vydá oprávnenie na vykonávanie prehliadok mŕtvych tiel
+
+- a)
+
+- zdravotníckemu pracovníkovi poskytovateľa zdravotnej starostlivosti v povolaní lekár,<sup>63c</sup>) ktorý požiadal úrad o vydanie oprávnenia na vykonávanie prehliadok mŕtvych tiel,
+
+- b)
+
+- zdravotníckemu pracovníkovi v povolaní lekár,<sup>63c</sup>) ktorý nie je poskytovateľom zdravotnej starostlivosti ani zdravotníckym pracovníkom poskytovateľa zdravotnej starostlivosti a ktorý požiadal úrad o vydanie oprávnenia na vykonávanie prehliadok mŕtvych tiel,
+
+- c)
+
+- zamestnancovi úradu, ktorý je zdravotníckym pracovníkom v povolaní lekár, ktorý požiadal úrad o vydanie oprávnenia na vykonávanie prehliadok mŕtvych tiel a ktorý má osvedčenie o absolvovaní školenia k prehliadkam mŕtvych tiel.
+
+- (2)
+
+- K žiadosti podľa odseku 1 písm. a) a b) zdravotnícky pracovník priloží kópiu osvedčenia o absolvovaní školenia k prehliadkam mŕtvych tiel.
+
+- (3)
+
+- Oprávnenie na vykonávanie prehliadok mŕtvych tiel zaniká
+
+- a)
+
+- smrťou oprávnenej fyzickej osoby alebo vyhlásením oprávnenej fyzickej osoby za mŕtvu alebo
+
+- b)
+
+- vrátením oprávnenia na vykonávanie prehliadok mŕtvych tiel úradu.
+
+- (4)
+
+- Na vydávanie oprávnenia na vykonávanie prehliadok mŕtvych tiel sa nevzťahuje všeobecný predpis o správnom konaní.“.
+
+- 15. V § 48 sa odsek 3 dopĺňa písmenom l), ktoré znie:
+
+- „l)
+
+- pri úmrtí osoby po začatí poskytovania zdravotnej starostlivosti tejto osobe lekárom poskytovateľa, ktorý má vydané povolenie na prevádzkovanie ambulancie rýchlej lekárskej pomoci, ak prehliadku mŕtveho tela vykonal tento lekár.“.
+
+- 16. V § 50 ods. 8 sa vypúšťajú slová „alebo § 47da ods. 12“.
+
+- 17. V § 50 odsek 9 znie:
+
+- „(9)
+
+- Ak úrad zistí porušenie povinností podľa § 47da ods. 7 a 9, podľa závažnosti zistených nedostatkov a ich následkov môže uložiť lekárovi pokutu (§ 64 ods. 6).“.
+
 - 18. V § 50 ods. 13 sa slová „(§ 64 ods. 10)“ nahrádzajú slovami „(§ 64 ods. 5)“.
+
+- 19. V § 64 ods. 5 sa vypúšťajú slová „alebo § 47da ods. 12“.
+
+- 20. V § 64 odsek 6 znie:
+
+- „(6)
+
+- Úrad môže uložiť lekárovi za porušenie povinnosti podľa § 47da ods. 6 a za podmienok ustanovených v § 50 ods. 9 pokutu až do výšky 1 000 eur.“.
 
 - 21. V § 64 sa vypúšťa odsek 10.
 
@@ -107,3 +297,11 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 - (2)
 
 - Konania o udelení pokuty začaté a právoplatne neukončené do 14. júla 2021 sa dokončia podľa zákona v znení účinnom od 15. júla 2021.“.
+
+- 26. Za § 86zh sa vkladá § 86zi, ktorý vrátane nadpisu znie:
+
+- „§ 86zi
+
+- Prechodné ustanovenie k úpravám účinným od 1. októbra 2021
+
+- Oprávnenia na vykonávanie prehliadok mŕtvych tiel vydané úradom do 30. septembra 2021 sa považujú za oprávnenie na vykonávanie prehliadok mŕtvych tiel podľa § 47f účinného od 1. októbra 2021.“.
