@@ -114,6 +114,8 @@ Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona �
 
 - azylanta<sup>4</sup>) v období šesť po sebe nasledujúcich kalendárnych mesiacov od dátumu udelenia azylu,“.
 
+- 14. V § 12 ods. 4 sa za slová „§ 24“ vkladajú slová „ods. 1“.
+
 - 15. V § 13 ods. 11 písmeno a) znie:
 
 - „a)
@@ -152,11 +154,19 @@ Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona �
 
 - 25. V § 24 písm. n) sa vypúšťajú slová „listinnej podobe alebo“.
 
+- 26. Doterajší text § 24 sa označuje ako odsek 1 a dopĺňa sa odsekom 2, ktorý znie:
+
+- „(2)
+
+- Ak zdravotnej poisťovni poskytuje údaj o zmene platiteľa poistného z dôvodu uvedeného v § 11 ods. 7 písm. c), m) a s) úrad podľa § 29b ods. 6, povinnosť platiteľa poistného oznamovať túto zmenu zdravotnej poisťovni nevzniká.“.
+
 - 27. § 25a sa dopĺňa odsekom 7, ktorý znie:
 
 - „(7)
 
 - Dlžníkom nie je poistenec alebo platiteľ poistného, ak boli pohľadávky voči nemu odpísané podľa § 17c ods. 1 a 2 a zdravotná poisťovňa voči nemu neeviduje žiadne iné pohľadávky na poistnom a na preddavkoch na poistné po splatnosti.“.
+
+- 28. V § 26 ods. 1 písm. c) sa za slová „§ 24“ vkladajú slová „ods. 1“.
 
 - 29. V § 27 ods. 3 úvodnej vete sa za slová „preddavkov na poistné“ vkladajú slová „po odpočítaní súčtu preddavkov na nadlimitnú sumu podľa odseku 12 za všetky zdravotné poisťovne“.
 
