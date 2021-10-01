@@ -270,6 +270,34 @@ Zákon č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov v znení z
 
   - Doterajšie odseky 10 a 11 sa označujú ako odseky 11 a 12.
 
+- 70. V § 39 sa odsek 1 dopĺňa písmenami s) až u), ktoré znejú:
+
+- „s)
+
+- register schválených odosielateľov,
+
+- t)
+
+- register schválených príjemcov,
+
+- u)
+
+- evidenciu prevádzkovateľov malých samostatných pivovarov.“.
+
+- 71. V § 39 sa odsek 2 dopĺňa písmenami q) až s), ktoré znejú:
+
+- „q)
+
+- identifikačné údaje schváleného odosielateľa, jeho registračné číslo, dátum pridelenia a dátum zrušenia registračného čísla,
+
+- r)
+
+- identifikačné údaje schváleného príjemcu, jeho registračné číslo, dátum pridelenia a dátum zrušenia registračného čísla,
+
+- s)
+
+- identifikačné údaje prevádzkovateľa malého samostatného pivovaru.“.
+
 - 74. V § 41 ods. 1 sa slová „ods. 4 písm. f)“ nahrádzajú slovom „g)“ a na konci sa pripája táto veta: „Žiadateľ o zaradenie do evidencie podnikov musí spĺňať podmienku podľa § 9 ods. 4 písm. f).“.
 
 - 75. V § 41 sa odsek 4 dopĺňa písmenom d), ktoré znie:
@@ -370,11 +398,179 @@ Zákon č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov v znení z
 
 - 105. V § 54 ods. 22 sa vypúšťa druhá veta a tretia veta.
 
+- 108. § 66 vrátane nadpisu znie:
+
+- „§ 66
+
+- Malý samostatný pivovar
+
+- (1)
+
+- Malým samostatným pivovarom je pivovar, ktorý v rámci podnikania vyrába alkoholický nápoj, ktorým je pivo, a spĺňa tieto podmienky:
+
+- a)
+
+- ročná výroba piva nie je väčšia ako 200 000 hl,
+
+- b)
+
+- nevyrába pivo na základe licencie,<sup>78</sup>)
+
+- c)
+
+- výrobné priestory a prevádzkové priestory nie sú technologicky prepojené s výrobnými priestormi a prevádzkovými priestormi inej osoby, ktorá v rámci podnikania vyrába pivo,
+
+- d)
+
+- nie je majetkovo ani personálne prepojený s inou osobou, ktorá v rámci podnikania vyrába pivo.
+
+- (2)
+
+- Ročnou výrobou piva sa na účely tohto zákona rozumie celkové množstvo piva v hl, ktoré bolo v kalendárnom roku vyrobené v malom samostatnom pivovare. Ak výroba piva v malom samostatnom pivovare začne v priebehu kalendárneho roka, predpokladaná ročná výroba piva sa vypočíta ako dvanásťnásobok podielu predpokladanej výroby piva od jej začatia do konca roku a počtu mesiacov výroby piva v kalendárnom roku vrátane mesiaca, v ktorom sa začala výroba.
+
+- (3)
+
+- Osoba, ktorá chce prevádzkovať malý samostatný pivovar, musí požiadať colný úrad o zaradenie do evidencie prevádzkovateľov malých samostatných pivovarov. Žiadosť o zaradenie do evidencie prevádzkovateľov malých samostatných pivovarov musí obsahovať
+
+- a)
+
+- identifikačné údaje žiadateľa a adresy umiestnenia jeho prevádzkarní, ak nie sú totožné so sídlom alebo s trvalým pobytom žiadateľa,
+
+- b)
+
+- predpokladanú ročnú výrobu piva v hl,
+
+- c)
+
+- obchodný názov a príslušný kód kombinovanej nomenklatúry piva, ktoré chce vyrábať.
+
+- (4)
+
+- Prílohami k žiadosti podľa odseku 3 sú
+
+- a)
+
+- technická dokumentácia a nákres zariadenia na výrobu piva,
+
+- b)
+
+- technologický opis postupu výroby piva s uvedením zoznamu spracúvaných základných surovín,
+
+- c)
+
+- zoznam majetkovo prepojených osôb a personálne prepojených osôb so žiadateľom na účel preukázania splnenia podmienky podľa odseku 5 písm. c).
+
+- (5)
+
+- Žiadateľ uvedený v odseku 3 musí spĺňať tieto podmienky:
+
+- a)
+
+- nevyrába pivo na základe licencie,<sup>78</sup>)
+
+- b)
+
+- výrobné priestory a prevádzkové priestory nie sú technologicky prepojené s výrobnými priestormi a prevádzkovými priestormi inej osoby, ktorá v rámci podnikania vyrába pivo,
+
+- c)
+
+- nie je majetkovo ani personálne prepojený s inou osobou, ktorá v rámci podnikania vyrába pivo,
+
+- d)
+
+- nemá nedoplatky voči colnému úradu ani daňovému úradu.
+
+- (6)
+
+- Colný úrad pred zaradením do evidencie prevádzkovateľov malých samostatných pivovarov preverí skutočnosti a údaje podľa odsekov 3 a 4. Ak sú tieto skutočnosti a údaje pravdivé a žiadateľ uvedený v odseku 3 spĺňa podmienky podľa odseku 5, colný úrad takéhoto žiadateľa zaeviduje a vydá mu osvedčenie o zaradení do evidencie prevádzkovateľov malých samostatných pivovarov do 30 dní odo dňa podania tejto žiadosti.
+
+- (7)
+
+- Prevádzkovateľ malého samostatného pivovaru je povinný každú zmenu skutočností a údajov uvedených v odseku 3 písm. a) oznámiť colnému úradu do 30 dní odo dňa jej vzniku a každú zmenu skutočností a údajov uvedených v odseku 3 písm. c) a odseku 5 písm. a) a b) a skutočnosť, že celkové množstvo piva vyrobené v malom samostatnom pivovare v kalendárnom roku prevýšilo 200 000 hl, oznámiť colnému úradu do 15 dní odo dňa jej vzniku, okrem zmeny skutočností a údajov uvedených v odseku 4 písm. a) a b), ktorých zmenu je povinný oznámiť colnému úradu najneskôr 5 pracovných dní vopred. Colný úrad preverí u prevádzkovateľa malého samostatného pivovaru skutočnosti a údaje uvedené v oznámení a s prihliadnutím na rozsah a závažnosť zmien doplní pôvodné osvedčenie o zaradení do evidencie prevádzkovateľov malých samostatných pivovarov alebo vydá nové osvedčenie o zaradení do evidencie prevádzkovateľov malých samostatných pivovarov. Prevádzkovateľ malého samostatného pivovaru je povinný oznámiť colnému úradu najneskôr do 25. januára príslušného kalendárneho roka predpokladanú ročnú výrobu piva v hl v daňovom priznaní za zdaňovacie obdobie, ktorým je december predchádzajúceho kalendárneho roka.
+
+- (8)
+
+- Ak celkové množstvo piva vyrobené v malom samostatnom pivovare v kalendárnom roku prevýšilo 200 000 hl, alebo nie je splnená niektorá z podmienok podľa odseku 5 písm. a) až c), je prevádzkovateľ malého samostatného pivovaru povinný uplatniť základnú sadzbu dane na celkové množstvo piva vyrobené v malom samostatnom pivovare v kalendárnom roku.
+
+- (9)
+
+- Prevádzkovateľ malého samostatného pivovaru je povinný viesť evidenciu piva vyrobeného v malom samostatnom pivovare v hl podľa dní s uvedením
+
+- a)
+
+- množstva vyrobeného piva, osobitne podľa obchodného názvu piva,
+
+- b)
+
+- množstva vydaného piva, osobitne podľa obchodného názvu piva a
+
+- c)
+
+- stavu zásob piva, osobitne podľa obchodného názvu piva.
+
+- (10)
+
+- Daňová povinnosť vzniká dňom vyrobenia piva v malom samostatnom pivovare, ak odsek 12 neustanovuje inak. Platiteľom dane je prevádzkovateľ malého samostatného pivovaru.
+
+- (11)
+
+- Zdaňovacím obdobím je kalendárny mesiac. Prevádzkovateľ malého samostatného pivovaru je povinný podať daňové priznanie colnému úradu a zaplatiť daň najneskôr do 25. dňa kalendárneho mesiaca nasledujúceho po mesiaci, v ktorom mu vznikla daňová povinnosť. Na daňové priznanie sa uplatní § 12 primerane.
+
+- (12)
+
+- Za každé zdaňovacie obdobie predchádzajúce zdaňovaciemu obdobiu, v ktorom vznikli skutočnosti podľa odseku 8, je prevádzkovateľ malého samostatného pivovaru povinný podať dodatočné daňové priznanie v lehote na podanie daňového priznania za zdaňovacie obdobie, v ktorom vznikli skutočnosti podľa odseku 8, a zaplatiť daň. V dodatočnom daňovom priznaní vyznačí zdaňovacie obdobie, ktorého sa týka, a uvedie rozdiel medzi daňou vypočítanou podľa základnej sadzby dane a daňou uvedenou v daňovom priznaní a zaplatí daň. Z rozdielu dane sa neuplatní sankcia podľa osobitného predpisu.<sup>79</sup>)
+
+- (13)
+
+- Colný úrad vyradí prevádzkovateľa malého samostatného pivovaru z evidencie prevádzkovateľov malých samostatných pivovarov, ak
+
+- a)
+
+- prestal spĺňať niektorú z podmienok podľa odseku 5,
+
+- b)
+
+- celkové množstvo piva vyrobené v malom samostatnom pivovare v kalendárnom roku prevýšilo 200 000 hl,
+
+- c)
+
+- požiada o vyradenie z evidencie prevádzkovateľov malých samostatných pivovarov.
+
+- (14)
+
+- Prevádzkovateľa malého samostatného pivovaru, ktorý bol vyradený z evidencie prevádzkovateľov malých samostatných pivovarov podľa odseku 13 písm. a) a b), môže colný úrad opäť zaradiť do evidencie prevádzkovateľov malých samostatných pivovarov najskôr v kalendárnom roku nasledujúcom po kalendárnom roku, v ktorom bol vyradený z evidencie prevádzkovateľov malých samostatných pivovarov.
+
+- (15)
+
+- Na pivo vyrobené v malom samostatnom pivovare sa uplatní znížená sadzba dane za podmienok ustanovených týmto zákonom.“.
+
 - 109. V § 70 ods. 1 písmeno l) znie:
 
 - „l)
 
 - nesplní oznamovaciu povinnosť podľa § 49 ods. 6 písm. a) a b),“.
+
+- 110. V § 70 sa odsek 1 dopĺňa písmenami af) až aj), ktoré znejú:
+
+- „af)
+
+- vyrobí pivo bez povolenia na prevádzkovanie daňového skladu alebo bez osvedčenia o zaradení do evidencie prevádzkovateľov malých samostatných pivovarov, okrem podniku na výrobu piva, ktorý vyrobil pivo v daňovom voľnom obehu,
+
+- ag)
+
+- nesplní oznamovaciu povinnosť v lehote podľa § 66 ods. 7 a neoznámi skutočnosti a údaje uvedené v § 66 odseku 3 písm. c), odseku 4 písm. a) a b) a odseku 5 písm. a) a b) a skutočnosť, že celkové množstvo piva vyrobené v malom samostatnom pivovare v kalendárnom roku prevýšilo 200 000 hl,
+
+- ah)
+
+- ukončí prepravu alkoholického nápoja v pozastavení dane alebo oslobodeného od dane podľa § 40 ods. 1, § 60 ods. 1 alebo § 65 na inom mieste než na mieste priameho dodania alebo na mieste prijatia uvedenom v elektronickom dokumente alebo sprievodnom dokumente,
+
+- ai)
+
+- ukončí prepravu alkoholického nápoja v daňovom voľnom obehu na podnikateľské účely na inom mieste než na mieste prijatia uvedenom v zjednodušenom elektronickom dokumente alebo zjednodušenom dokumente,
+
+- aj)
+
+- nesplní povinnosť podľa § 66 ods. 8.“.
 
 - 111. V § 70 ods. 2 písmeno g) znie:
 
@@ -387,6 +583,24 @@ Zákon č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov v znení z
 - „w)
 
 - do 50 000 eur za správny delikt podľa odseku 1 písm. z),“.
+
+- 113. V § 70 sa odsek 2 dopĺňa písmenami ac) až af), ktoré znejú:
+
+- „ac)
+
+- vo výške dane vypočítanej ako súčin základnej sadzby dane a množstva piva vyrobeného bez povolenia na prevádzkovanie daňového skladu alebo bez osvedčenia o zaradení do evidencie prevádzkovateľov malých samostatných pivovarov, najmenej však 3 319 eur za správny delikt podľa odseku 1 písm. af),
+
+- ad)
+
+- do 166 eur za správny delikt podľa odseku 1 písm. ag),
+
+- ae)
+
+- od 100 eur do 10 000 eur za správny delikt podľa odseku 1 písm. ah) alebo písm. ai),
+
+- af)
+
+- do 331 eur za správny delikt podľa odseku 1 písm. aj).“.
 
 - 115. V § 71 ods. 2 písmeno a) znie:
 
