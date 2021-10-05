@@ -54,11 +54,7 @@
 
 - 25) § 31 zákona č. 243/2017 Z. z.
 
-- 26) Napríklad § 13 zákona č. 151/2002 Z. z. o používaní genetických technológií a geneticky modifikovaných organizmov v znení zákona č. 100/2008 Z. z.,
-
-- § 5 ods. 3 zákona č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov v znení zákona č. 21/2007 Z. z.,
-
-- § 26a zákona č. 172/2005 Z. z. o organizácii štátnej podpory výskumu a vývoja a o doplnení zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov v znení zákona č. 233/2008 Z. z.
+- 26) Napríklad § 36 ods. 4, § 40 ods. 6, 8 a 9 a § 41 ods. 1 a 2 zákona č. 49/2002 Z. z. v znení neskorších predpisov, § 13 zákona č. 151/2002 Z. z. o používaní genetických technológií a geneticky modifikovaných organizmov v znení zákona č. 100/2008 Z. z., § 5 ods. 3 zákona č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 26a zákona č. 172/2005 Z. z. v znení neskorších predpisov.
 
 - 27) Zákon Národnej rady Slovenskej republiky č. 152/1994 Z. z. o sociálnom fonde a o zmene a doplnení zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov v znení neskorších predpisov.
 
@@ -75,5 +71,17 @@
 - § 12 a 21 zákona č. 517/2007 Z. z. o úžitkových vzoroch a o zmene a doplnení niektorých zákonov,
 
 - § 18 zákona č. 506/2009 Z. z. o ochranných známkach.
+
+- 30a) § 13 ods. 7 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
+
+- 30b) § 4 ods. 2 písm. a) až f) a h) zákona č. 243/2017 Z. z. v znení zákona č. 346/2021 Z. z.
+
+- 30c) § 39 ods. 2 písm. a) až c) a e) a ods. 3 zákona č. 243/2017 Z. z.
+
+- 30d) § 3 ods. 1 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov.
+
+- 30e) § 38 ods. 1 zákona č. 243/2017 Z. z.
+
+- 30f) Napríklad § 33 zákona č. 146/2000 Z. z., § 57 zákona č. 435/2001 Z. z. v znení zákona č. 242/2017 Z. z., § 55 zákona č. 517/2007 Z. z. v znení zákona č. 242/2017 Z. z., § 41 zákona č. 506/2009 Z. z.
 
 - 31) § 3 až 5 zákona č. 243/2017 Z. z.
