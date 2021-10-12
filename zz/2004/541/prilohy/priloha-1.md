@@ -2,7 +2,7 @@ Príloha č. 1 k zákonu č. 541/2004 Z. z.
 
 - DOKUMENTÁCIA JADROVÝCH ZARIADENÍ POTREBNÁ K JEDNOTLIVÝM ROZHODNUTIAM
 
-  - A. Dokumentácia potrebná k písomnej žiadosti o súhlas na umiestnenie stavby jadrového zariadenia
+  - A. Dokumentácia potrebná k písomnej žiadosti o vydanie súhlasu na umiestnenie stavby jadrového zariadenia podľa § 5 ods. 2 a povolenia na umiestnenie stavby jadrového zariadenia podľa § 5 ods. 3 písm. o)
 
     - a) zadávacia bezpečnostná správa,
 

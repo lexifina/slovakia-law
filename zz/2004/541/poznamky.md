@@ -54,7 +54,7 @@
 
 - 10c) § 60 ods. 3 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
-- 11) § 66, 76, 83 a 84 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 11) § 66, 76, 83 a 84 zákona č. 50/1976 Zb. v znení neskorších predpisov a § 29 alebo § 37a zákona č. 24/2006 Z. z. v znení neskorších predpisov.
 
 - 11aa) § 8 ods. 1 zákona č. 54/2015 Z. z.
 
@@ -104,9 +104,13 @@
 
 - 21) Čl. 41 Zmluvy o založení Európskeho spoločenstva pre atómovú energiu.
 
+- 21a) § 37 ods. 8 zákona č. 24/2006 Z. z.
+
 - 22) § 43 až 85 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 23) § 66 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 23a) § 37a zákona č. 24/2006 Z. z. v znení zákona č. 363/2021 Z. z.
 
 - 24) Zákon č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení neskorších predpisov.
 
@@ -160,6 +164,8 @@
 
 - 38a) Čl. 1 a 2 Dohovoru o včasnom oznamovaní jadrovej havárie (oznámenie č. 327/2001 Z. z.).
 
+- 38aa) § 144 ods. 3 písm. a), b), e) a m) zákona č. 87/2018 Z. z.
+
 - 38b) Čl. 1 rozhodnutia Rady 87/600/Euratom.
 
 - 38c) Napríklad zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov, zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov, § 3 zákona č. 355/2007 Z. z. v znení neskorších predpisov.
@@ -191,8 +197,6 @@
 - 45aa) § 56 zákona č. 71/1967 Zb.
 
 - 45ab) § 33 ods. 2 zákona č. 71/1967 Zb.
-
-- 45ac) § 62 až 68 zákona č. 71/1967 Zb.
 
 - 45b) § 29 až 33 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
 
