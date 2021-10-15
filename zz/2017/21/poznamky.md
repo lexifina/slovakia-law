@@ -52,6 +52,8 @@
 
 - 25) § 13 ods. 3 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
+- 25a) § 3 písm. l) a § 11 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
+
 - 26) § 3 ods. 1 písm. a) a § 4 ods. 1 vyhlášky č. 397/2003 Z. z.
 
 - 27) § 2 ods. 2 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.

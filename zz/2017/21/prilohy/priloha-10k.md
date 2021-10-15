@@ -1,1 +1,1 @@
-Príloha č. 10 k vyhláške č. 21/2017 Z. z. [20](../assets/95ea83d5ccf150e6010072f08d3eacc9a4f58c28433f73e68fe52123ce4a28c1.pdf)
+Príloha č. 10 k vyhláške č. 21/2017 Z. z. [20](../assets/28ba90399a87ad86fb8f5de46b3fe2d88a6e344c297ed990ed77d05dedf4a225.pdf)
