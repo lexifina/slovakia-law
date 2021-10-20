@@ -1,1 +1,1 @@
-Príloha č. 6 k vyhláške č. 223/2016 Z. z. [Príloha č. 6 k vyhláške č. 223/2016 Z. z.](../assets/38ed11c7729471e1deb3921e22c07e85e4b4cbcca8b00edb1c27281fac5a56db.pdf)
+Príloha č. 6 k vyhláške č. 223/2016 Z. z. [Príloha č. 6 k vyhláške č. 223/2016 Z. z.](../assets/3d1266458f9fc5c0a13c4d805a7b3173b8c2bd1b7705238a32033b92c5f9f30d.pdf)

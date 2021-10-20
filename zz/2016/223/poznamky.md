@@ -54,6 +54,10 @@
 
 - 26) § 31 ods. 4 zákona č. 251/2012 Z. z. v znení zákona č. 321/2014 Z. z.
 
+- 26a) Čl. 3 ods. 2 nariadenia Komisie (EÚ) 2017/459 zo 16. marca 2017, ktorým sa stanovuje sieťový predpis o mechanizmoch prideľovania kapacity v plynárenských prepravných sieťach a ktorým sa zrušuje nariadenie (EÚ) č. 984/2013 (Ú. v. EÚ, L 72, 17. 3. 2017).
+
+- 26b) Nariadenie Komisie (EÚ) 2017/460 zo 16. marca 2017, ktorým sa stanovuje sieťový predpis o harmonizovaných štruktúrach taríf za prepravu plynu (Ú. v. EÚ, L 72, 17. 3. 2017).
+
 - 27) Čl. 3 ods. 3 nariadenia Komisie (EÚ) č. 312/2014 z 26. marca 2014 o vytvorení sieťového predpisu na vyvažovanie plynu v prepravných sieťach (Ú. v. EÚ, L 91, 27. 3. 2014).
 
 - 28) § 47 ods. 3 a 4 vyhlášky Úradu pre reguláciu sieťových odvetví č. 24/2013 Z. z., ktorou sa ustanovujú pravidlá pre fungovanie vnútorného trhu s elektrinou a pravidlá pre fungovanie vnútorného trhu s plynom.

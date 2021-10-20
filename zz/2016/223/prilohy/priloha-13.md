@@ -1,1 +1,1 @@
-Príloha č. 13 k vyhláške č. 223/2016 Z. z. [Príloha č. 13 k vyhláške č. 223/2016 Z. z.](../assets/cfb567a909533ed276f5cab3b9648e96cbef3453f6d83d02c86905055ba817e2.pdf)
+Príloha č. 13 k vyhláške č. 223/2016 Z. z. [Príloha č. 13 k vyhláške č. 223/2016 Z. z.](../assets/56b04e4491a92a6433ada30b4f70567b4f8adfb8e5129530e58dbafbd214e32a.pdf)

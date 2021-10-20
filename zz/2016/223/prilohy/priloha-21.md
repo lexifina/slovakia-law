@@ -1,1 +1,1 @@
-Príloha č. 21 k vyhláške č. 223/2016 Z. z. [Príloha č. 21 k vyhláške č. 223/2016 Z. z.](../assets/64c1e002dd9a724f29ba3cf9d42dc8c4cf085e2395208a1b2328de89a6858f80.pdf)
+Príloha č. 21 k vyhláške č. 223/2016 Z. z. [Príloha č. 21 k vyhláške č. 223/2016 Z. z.](../assets/519c41f33f689fb1c100e16d039c70808583253aa8536af19593307c9ba8523e.pdf)

@@ -1,1 +1,1 @@
-Príloha č. 19 k vyhláške č. 223/2016 Z. z. [Príloha č. 19 k vyhláške č. 223/2016 Z. z.](../assets/310fdb370fc0027f0837cc59adac1b1d2a19c9e093e6f3920f33c8cfe5932b24.pdf)
+Príloha č. 19 k vyhláške č. 223/2016 Z. z. [Príloha č. 19 k vyhláške č. 223/2016 Z. z.](../assets/8b5cb140d6c56a1245185a016fa3007e19a9fd72d129b061a710a7c316e96ac5.pdf)
