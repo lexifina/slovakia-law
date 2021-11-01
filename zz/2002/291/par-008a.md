@@ -1,6 +1,6 @@
 # § 8a
 
-(1) Podľa odsekov 2 až 4 postupuje klient uvedený v § 2a ods. 1 písm. b), c) a h).
+(1) Podľa odsekov 2 až 4 postupuje klient uvedený v § 2a ods. 1 písm. b), c), h) a n).
 
 (2) Klient predloží Štátnej pokladnici rozpočet klienta<sup>21</sup>) do konca mesiaca po nadobudnutí účinnosti zákona o štátnom rozpočte.
 
