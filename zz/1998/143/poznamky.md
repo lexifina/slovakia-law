@@ -68,7 +68,7 @@
 
 - Príloha IV nariadenia (EÚ) č. 1178/2011 v platnom znení.
 
-- 4) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+- 4) Čl. 10a ods. 1 nariadenia (EÚ) č. 1178/2011 v platnom znení.
 
 - 5) Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon), (úplné znenie č. 109/1998 Z. z.).
 
