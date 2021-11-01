@@ -66,6 +66,8 @@
 
 - 11be) § 325 ods. 2 písm. e) Civilného sporového poriadku.
 
+- 11bea) § 28a zákona č. 274/2017 z. z. o obetiach trestných činov a o zmene a doplnení niektorých zákonov v znení zákona č. 217/2021 Z. z.
+
 - 11bf) § 1 zákona Slovenskej národnej rady č. 189/1992 Zb. o úprave niektorých pomerov súvisiacich s nájmom bytov a s bytovými náhradami v znení neskorších predpisov.
 
 - 11bg) § 47 ods. 1 písm. a) zákona Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov.
