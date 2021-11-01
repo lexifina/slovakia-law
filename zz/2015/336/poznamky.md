@@ -2,17 +2,19 @@
 
 - 1a) § 2 písm. e) zákona č. 539/2008 Z. z. v znení zákona č. 309/2014 Z. z.
 
-- 2) § 5 zákona č. 539/2008 Z. z. v znení zákona č. 309/2014 Z. z.
+- 1b) § 5 zákona č. 539/2008 Z. z. v znení zákona č. 309/2014 Z. z.
 
-- 3) Napríklad zákon č. 292/2014 Z. z. o príspevku poskytovanom z európskych štrukturálnych a investičných fondov a o zmene a doplnení niektorých zákonov, zákon č. 561/2007 Z. z. o investičnej pomoci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 528/2008 Z. z. o pomoci a podpore poskytovanej z fondov Európskeho spoločenstva v znení neskorších predpisov.
+- 2) § 7 zákona č. 539/2008 Z. z. v znení zákona č. 309/2014 Z. z.
 
-- 3a) Zákon č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 3) Napríklad zákon č. 528/2008 Z. z. o pomoci a podpore poskytovanej z fondov Európskeho spoločenstva v znení neskorších predpisov, zákon č. 292/2014 Z. z. o príspevku poskytovanom z európskych štrukturálnych a investičných fondov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 57/2018 Z. z. o regionálnej investičnej pomoci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 3a) § 8a ods. 4 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 3aa) § 170 ods. 21 zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 221/2019 Z. z.
 
 - § 25 ods. 5 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 221/2019 Z. z.
 
-- 3b) Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov v znení zákona č. 38/2017 Z. z.
+- 3b) § 8 ods. 11 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
 
 - 4) Napríklad čl. 107 až 109 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 326, 26. 10. 2012).
 
