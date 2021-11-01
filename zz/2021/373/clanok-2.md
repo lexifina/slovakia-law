@@ -1,0 +1,7 @@
+# Čl. II
+
+Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení zákona č. 543/2002 Z. z., zákona č. 747/2004 Z. z., zákona č. 628/2005 Z. z., zákona č. 207/2008 Z. z., zákona č. 477/2008 Z. z., zákona č. 145/2010 Z. z., zákona č. 546/2010 Z. z., zákona č. 204/2011 Z. z., zákona č. 220/2011 Z. z., zákona č. 382/2011 Z. z., zákona č. 341/2012 Z. z., zákona č. 340/2015 Z. z., zákona č. 125/2016 Z. z., zákona č. 276/2020 Z. z. a zákona č. 392/2020 Z. z. sa mení takto:
+
+- 1. V § 9 ods. 1 druhá veta znie: „Ak dotknutá osoba nežije, taký súhlas môže poskytnúť jej blízka osoba;<sup>13</sup>) súhlas sa nevyžaduje, ak ide o sprístupňovanie osobných údajov zosnulej dotknutej osoby na vedecký účel, na štatistický účel, na účel archivácie, dokumentačnej činnosti, historického výskumu, činností pohrebísk, umiestnenia pamätníkov a pamätných tabúľ, konania spomienkových podujatí a piety v rozsahu nevyhnutnom pre jeho naplnenie.“.
+
+- 2. V § 9 ods. 2 tretia veta znie: „Ak dotknutá osoba nežije, taký súhlas môže poskytnúť jej blízka osoba;<sup>13</sup>) súhlas sa nevyžaduje, ak ide o sprístupňovanie osobných údajov zosnulej dotknutej osoby na vedecký účel, na štatistický účel, na účel archivácie, dokumentačnej činnosti, historického výskumu, činností pohrebísk, umiestnenia pamätníkov a pamätných tabúľ, konania spomienkových podujatí a piety v rozsahu nevyhnutnom pre jeho naplnenie.“.
