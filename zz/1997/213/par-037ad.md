@@ -1,0 +1,3 @@
+# § 37ad Prechodné ustanovenie k úprave účinnej od 1. novembra 2021
+
+Doterajšie funkčné obdobie členov správnej rady, vrátane predsedu správnej rady neziskovej organizácie založenej štátom, ak vklad štátu pri jej založení presiahol polovicu hodnoty všetkých vkladov, zaniká 1. novembra 2021. Zakladatelia neziskových organizácií založených štátom, ak vklad štátu pri ich založení presiahol polovicu hodnoty všetkých vkladov, vymenujú nových členov správnych rád tak, aby ich funkčné obdobie začalo plynúť najneskôr od 2. novembra 2021. Ustanovenia prvej vety a druhej vety sa použijú aj na neziskovú organizáciu podľa § 19 ods. 4.
