@@ -60,6 +60,8 @@
 
 - 16) § 21 ods. 1 zákona č. 523/2004 Z. z.
 
+- 16a) Napríklad zákon č. 131/2002 Z. z. v znení neskorších predpisov, zákon č. 185/2009 Z. z. o stimuloch pre výskum a vývoj a o doplnení zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov v znení neskorších predpisov.
+
 - 17) § 5 zákona č. 552/2003 Z. z o výkone práce vo verejnom záujme v znení neskorších predpisov.
 
 - 18) § 1 ods. 1 písm. a) zákona č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
