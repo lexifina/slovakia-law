@@ -4486,19 +4486,19 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - c) Vydanie rozhodnutia o udelení súhlasu na prevádzkovanie zariadenia na zhodnocovanie odpadov<sup>38</sup>) okrem spaľovní odpadov, zariadení na spoluspaľovanie odpadov, vodných stavieb, v ktorých sa zhodnocujú osobitné druhy kvapalných odpadov, zariadení na zhodnocovanie biologicky rozložiteľného komunálneho odpadu zo zelene, ak jeho ročná kapacita neprevyšuje 100 ton a zariadení na zmenšovanie objemu komunálnych odpadov, ak jeho ročná kapacita neprevyšuje 50 ton | 11 eur
 
-  - d) Vydanie rozhodnutia o udelení súhlasu na prevádzkovanie zariadenia na zber odpadov,<sup>38</sup>) ak ide o zariadenie, na prevádzku ktorého nebol daný súhlas podľa písmen a) a c) vrátane zberného dvora<sup>38</sup>) | 11 eur
+  - d) Vydanie rozhodnutia o udelení súhlasu na prevádzkovanie zariadenia na zber odpadov,<sup>38</sup>) ak ide o zariadenia, na prevádzkovanie ktorého nebol daný súhlas podľa písmen a) a c) alebo zberného dvora<sup>38</sup>) | 11 eur
 
   - e) Vydanie rozhodnutia o udelení súhlasu na vydanie prevádzkového poriadku zariadenia na zneškodňovanie odpadov, zariadenia na zhodnocovanie odpadov a vydanie prevádzkového poriadku mobilného zariadenia na zhodnocovanie alebo zneškodňovanie odpadov<sup>38</sup>) | 11 eur
 
-  - f) Vydanie rozhodnutia o udelení súhlasu na nakladanie s nebezpečnými odpadmi<sup>38</sup>) vrátane ich prepravy, ak nie je súčasťou žiadosti podľa iných písmen tejto položky, a to v prípade, ak pôvodca odpadu alebo držiteľ odpadu ročne nakladá v súhrne s väčším množstvom ako 1 tona alebo ak prepravca prepravuje ročne väčšie množstvo ako 1 tona nebezpečných odpadov | 11 eur
+  - f) Vydanie rozhodnutia o udelení súhlasu na prevádzkovanie zariadenia na recykláciu lodí | 50 eur
 
-  - g) Vydanie rozhodnutia o udelení súhlasu na zhromažďovanie nebezpečných odpadov u pôvodcu alebo držiteľa, ak zhromažďuje ročne väčšie množstvo ako 1 tona nebezpečných odpadov<sup>38</sup>) | 11 eur
+  - g) Vydanie rozhodnutia o udelení súhlasu na schválenie plánu na recykláciu lode | 20 eur
 
   - h) Vydanie rozhodnutia o udelení súhlasu na zhodnocovanie odpadov alebo zneškodňovanie odpadov mobilným zariadením;<sup>38</sup>) v tom prípade sa ustanovenia písmen a) až c) nepoužijú | 11 eur
 
   - i) Vydanie rozhodnutia o udelení súhlasu na zhromažďovanie odpadov držiteľom odpadu bez predchádzajúceho triedenia,<sup>38</sup>) ak vzhľadom na následný spôsob ich zhodnocovania alebo zneškodňovania nie je triedenie a oddelené zhromažďovanie možné alebo účelné | 11 eur
 
-  - j) Vydanie rozhodnutia o udelení súhlasu na uzavretie skládky odpadov alebo jej časti, vykonanie iei rekultivácie a jej následné monitorovanie<sup>38</sup>) | 11 eur
+  - j) Vydanie rozhodnutia o udelení súhlasu na uzavretie skládky odpadov alebo jej časti, vykonanie jej rekultivácie a jej následné monitorovanie<sup>38</sup>) | 11 eur
 
   - k) Vydanie rozhodnutia o udelení súhlasu na využívanie odpadov na spätné zasypávanie | 11 eur
 
@@ -4516,8 +4516,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - s) Vydanie rozhodnutia o udelení súhlasu na prevádzkovanie úložiska dočasného uskladnenia odpadovej ortuti, na uzavretie úložiska dočasného uskladnenia odpadovej ortuti alebo jeho časti, a jeho následné monitorovanie, na prevádzkovanie úložiska trvalého uskladnenia odpadovej ortuti, na uzavretie úložiska trvalého uskladnenia odpadovej ortuti alebo jeho časti, a jeho následné monitorovanie<sup>38</sup>) | 11 eur
 
-  - t) Vydanie rozhodnutia o udelení súhlasu na zhromažďovanie odpadu dlhšie ako jeden rok pred jeho zneškodnením alebo dlhšie ako tri roky pred jeho zhodnotením.<sup>38</sup>) | 11 eur
-
   - u) Vydanie rozhodnutia o udelení autorizácie, predĺženie autorizácie alebo jej zmeny<sup>38</sup>) | 20 eur
 
   - v) Vydanie rozhodnutia o udelení povolenia na cezhraničný pohyb odpadov<sup>38</sup>) | 50 eur
@@ -4532,7 +4530,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - ac) Vydanie súhlasu na zmeny používaných palív a surovín, na zmeny technologických zariadení stacionárnych zdrojov a na zmeny ich užívania a na prevádzku stacionárnych zdrojov po vykonaných zmenách<sup>38b</sup>) | 5 eur
 
-  - ad) Vydanie súhlasu na vydanie súboru technicko-prevádzkových parametrov a technicko--organizačných opatrení a na ieho zmeny<sup>38c</sup>) | 10 eur
+  - ad) Vydanie súhlasu na vydanie súboru technicko-prevádzkových parametrov a technicko-organizačných opatrení a na jeho zmeny<sup>38c</sup>) | 10 eur
 
   - ae) Vydanie súhlasu na prevádzku výskumno-vývojových technologických celkov patriacich do kategórie veľkých zdrojov alebo stredných zdrojov<sup>38d</sup>) | 10 eur
 
@@ -4547,10 +4545,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - aj) Vydanie rozhodnutia o udelení súhlasu na prevádzkovanie prekládkovej stanice komunálneho odpadu | 11 eur
 
   - ak) Vydanie rozhodnutia o udelení súhlasu na skladovanie výkopovej zeminy pre pôvodcu odpadov | 11 eur
-
-  - al) Vydanie rozhodnutia o udelení súhlasu na prevádzkovanie zariadenia na recykláciu lodí | 50 eur
-
-  - am) Vydanie rozhodnutia o udelení súhlasu na schválenie plánu na recykláciu lode | 20 eur
 
     - Položka 163
 
