@@ -272,7 +272,7 @@ Príloha č. 8 k zákonu č. 24/2006 Z. z.
 
   - 9. | Stavby, zariadenia, objekty a priestory na nakladanie s nebezpečnými odpadmi | | od 10 t/rok
 
-  - 10. | Zhromažďovanie odpadov zo železných kovov, z neželezných kovov alebo starých vozidiel | | bez limitu
+  - 10. | Zhromažďovanie odpadov zo železných kovov a z neželezných kovov a starých vozidiel, – okrem zhromažďovania odpadov zo zálohovaných jednorazových obalov na nápoje z kovu | | bez limitu od 5 000 t/rok
 
   - 11. | Zariadenie na zhodnocovanie ostatného stavebného odpadu | od 100 000 t/rok | od 50 000 t/rok do 100 000 t/rok
 
