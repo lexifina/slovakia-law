@@ -188,6 +188,8 @@
 
 - 49b) Napríklad zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, nariadenie Európskeho parlamentu a Rady (ES) č. 714/2009 z 13. júla 2009 o podmienkach prístupu do sústavy pre cezhraničné výmeny elektriny, ktorým sa zrušuje nariadenie (ES) č. 1228/2003 (Ú. v. EÚ L 211, 14. 8. 2009) v platnom znení, nariadenie Európskeho parlamentu a Rady (ES) č. 715/2009 z 13. júla 2009 o podmienkach prístupu do prepravných sietí pre zemný plyn, ktorým sa zrušuje nariadenie (ES) č. 1775/2005 (Ú. v. EÚ L 211, 14. 8. 2009) v platnom znení.
 
+- 49c) Čl. 2 ods. 1 písm. e) nariadenia Európskeho parlamentu a Rady (EÚ) 2020/1503 zo 7. októbra 2020 o európskych poskytovateľoch služieb hromadného financovania pre podnikanie a o zmene nariadenia (EÚ) 2017/1129 a smernice (EÚ) 2019/1937 (Ú. v. EÚ L 347, 20. 10. 2020).
+
 - 50) § 21 a 28 ods. 3 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 
 - 50a) Čl. 9 nariadenia (EÚ) 2019/2033 v platnom znení.
