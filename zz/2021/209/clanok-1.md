@@ -40,6 +40,16 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 
 - „<sup>47b</sup>) § 2 ods. 2 zákona č. 483/2001 Z. z. v znení neskorších predpisov.“.
 
+- 13. V § 54 sa odsek 3 dopĺňa písmenom l), ktoré znie:
+
+- „l)
+
+- pre poskytovateľov služieb hromadného financovania podľa osobitného predpisu.<sup>49c</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 49c znie:
+
+  - „<sup>49c</sup>) Čl. 2 ods. 1 písm. e) nariadenia Európskeho parlamentu a Rady (EÚ) 2020/1503 zo 7. októbra 2020 o európskych poskytovateľoch služieb hromadného financovania pre podnikanie a o zmene nariadenia (EÚ) 2017/1129 a smernice (EÚ) 2019/1937 (Ú. v. EÚ L 347, 20. 10. 2020).“.
+
 - 14. V § 54 ods. 7 prvej vete sa slová „zákona<sup>50aaa</sup>) a“ nahrádzajú slovami „zákona,<sup>50aaa</sup>)“ a na konci sa pripájajú tieto slová: „a ďalších činností, ktoré je obchodník s cennými papiermi oprávnený vykonávať v súlade s osobitným predpisom<sup>50aab</sup>)“.
 
   - Poznámka pod čiarou k odkazu 50aab znie:
