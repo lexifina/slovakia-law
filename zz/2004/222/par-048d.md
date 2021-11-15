@@ -4,7 +4,7 @@
 
 (2) Osobitný sklad musí mať na uskladnenie tovaru pevne zabudovanú stacionárnu nádrž používanú ako meradlo objemu, ktorá musí byť vybavená určeným meradlom,<sup>25b</sup>) ktoré umožňuje pri príjme a výdaji tovaru merať množstvo pretečeného tovaru.
 
-(3) Na prevádzkovanie osobitného skladu musí mať platiteľ povolenie vydané daňovým úradom. Žiadosť o povolenie na prevádzkovanie osobitného skladu platiteľ podá na tlačive, ktorého vzor zverejní finančné riaditeľstvo na webovom sídle Finančného riaditeľstva Slovenskej republiky (ďalej len „webové sídlo finančného riaditeľstva“).
+(3) Na prevádzkovanie osobitného skladu musí mať platiteľ povolenie vydané daňovým úradom. Žiadosť o povolenie na prevádzkovanie osobitného skladu platiteľ podá na tlačive, ktorého vzor zverejní finančné riaditeľstvo na webovom sídle finančného riaditeľstva.
 
 (4) Žiadosť podľa odseku 3 musí obsahovať
 

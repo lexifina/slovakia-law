@@ -1,3 +1,3 @@
 Príloha č. 4 k zákonu č. 222/2004 Z. z.
 
-- ŽIADOSŤ o vrátenie dane z pridanej hodnoty zahraničnému zástupcovi [Vzor 04](../assets/3d2e1f8d78068e88b8a9e91c088d358d5fd1ddf3161aa5c842d48044dbb009b7.pdf)
+- ŽIADOSŤ o vrátenie dane z pridanej hodnoty zahraničnému zástupcovi [Vzor 04](../assets/154a7b9ab4b9a1e00320d1727fcbb41accd5cca4b13aa1c500eceaca529947c2.pdf)

@@ -12,6 +12,8 @@
 
 - 4d) § 79 ods. 1 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
 
+- 5) § 2 ods. 9 zákona č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov.
+
 - 5a) Čl. 219 ods. 1 až 3 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 326, 26. 10. 2012).
 
 - Čl. 12 ods. 12.1 Protokolu o štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 83, 30. 3. 2010).
@@ -23,6 +25,8 @@
 - 5ab) Čl. 5b vykonávacieho nariadenia Rady (EÚ) 2019/2026 z 21. novembra 2019, ktorým sa mení vykonávacie nariadenie (EÚ) č. 282/2011, pokiaľ ide o dodania tovaru alebo poskytovania služieb uľahčované elektronickými rozhraniami, ako aj o osobitné úpravy pre zdaniteľné osoby, ktoré poskytujú služby nezdaniteľným osobám, uskutočňujú predaj tovaru na diaľku a určité domáce dodania tovaru (Ú. v. EÚ L 313, 4. 12. 2019).
 
 - 5ac) Čl. 1 bod 48 delegovaného nariadenia Komisie (EÚ) 2020/877 z 3. apríla 2020, ktorým sa mení a opravuje delegované nariadenie (EÚ) 2015/2446, ktorým sa dopĺňa nariadenie Európskeho parlamentu a Rady (EÚ) č. 952/2013, pokiaľ ide o podrobné pravidlá, ktorými sa bližšie určujú niektoré ustanovenia Colného kódexu Únie, a ktorým sa mení delegované nariadenie (EÚ) 2016/341, ktorým sa dopĺňa nariadenie (EÚ) č. 952/2013, pokiaľ ide o prechodné pravidlá pre určité ustanovenia Colného kódexu Únie, keď príslušné elektronické systémy ešte nie sú funkčné (Ú. v. EÚ L 203, 26. 6. 2020).
+
+- 5ad) § 33 ods. 2 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 6) Napríklad zákon č. 107/2004 Z. z. o spotrebnej dani z piva.
 
