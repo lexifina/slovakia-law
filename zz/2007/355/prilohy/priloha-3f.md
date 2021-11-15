@@ -1,1 +1,1 @@
-Príloha č. 3f k zákonu č. 355/2007 Z. z. [príloha 3f](../assets/5112f00597d3a1f0909b62430a53eaa0fcaafb2afc44fd0e11d7c034b888d286.pdf)
+Príloha č. 3f k zákonu č. 355/2007 Z. z. [príloha 3f](../assets/64791bc150af62db2e3d0d3a957eb12c06fda39253a268cc35fd54818515fe13.pdf)
