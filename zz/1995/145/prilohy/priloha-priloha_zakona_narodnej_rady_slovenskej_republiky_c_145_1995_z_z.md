@@ -1844,7 +1844,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - p) | Vydanie poverenia na vykonávanie skúšok dráhových vozidiel ..... | 200 eur
 
-  - q) | Vydanie poverenia na vydávanie osvedčení osobám zodpovedným za údržbu železničných nákladných vozňov a údržbárskym dielňam na údržbu nákladných vozňov ..... | 200 eur
+  - q) | Vydanie poverenia na posudzovanie zhody subsystémov s vnútroštátnymi predpismi ..... | 200 eur
 
   - Poznámky 1. Príslušný správny dráhový úrad vyberie poplatok podľa písmen b), d) a g) tejto položky bez zreteľa na počet odchýlok od schváleného typu alebo povoleného typu dráhového vozidla v rámci jedného podania. 2. Správny poplatok podľa písmena e) tejto položky sa vyberie, len ak sa typ výstroja alebo súčasti schvaľuje oddelene od schvaľovania typu alebo podstatnej zmeny dráhového vozidla. | |
 
@@ -2580,7 +2580,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 85a
 
-    - Podanie žiadosti o udelenie oprávnenia na poskytovanie Európskej služby elektronického výberu mýta<sup>25aaa</sup>) ........... 200 000 eur.
+    - Podanie žiadosti o udelenie oprávnenia na poskytovanie Európskej služby elektronického výberu mýta<sup>25aaa</sup>) ........... 10 000 eur.
 
     - Položka 86
 
