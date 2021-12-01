@@ -22,7 +22,7 @@
 
 - b) dočasnej preťaženosti okresného súdu, a to len v prípade, ak nie je pre hosťujúceho sudcu určený výkon funkcie podľa písmena a).
 
-(3) Výkon funkcie sudcu ako hosťujúceho sudcu na okresnom súde podľa odseku 2 písm. a) sa skončí dňom, keď zastupovaný sudca začne znovu vykonávať funkciu sudcu. Výkon funkcie sudcu ako hosťujúceho sudcu na okresnom súde podľa odseku 2 písm. b) sa skončí dňom určenia výkonu funkcie sudcu ako hosťujúceho sudcu podľa odseku 2 písm. a).
+(3) Výkon funkcie sudcu ako hosťujúceho sudcu na okresnom súde podľa odseku 2 písm. a) sa skončí dňom, keď zastupovaný sudca začne znovu vykonávať funkciu sudcu; predseda krajského súdu môže podľa odseku 2 zmeniť okresný súd, na ktorom vykonáva hosťujúci sudca funkciu sudcu pred skončením výkonu funkcie sudcu na pôvodne určenom okresnom súde len vo výnimočných prípadoch, ak to vyžaduje zabezpečenie činnosti okresného súdu v obvode krajského súdu. Výkon funkcie sudcu ako hosťujúceho sudcu na okresnom súde podľa odseku 2 písm. b) sa skončí dňom určenia výkonu funkcie sudcu ako hosťujúceho sudcu podľa odseku 2 písm. a).
 
 (4) Po štyroch rokoch výkonu funkcie sudcu ako hosťujúceho sudcu môže byť hosťujúci sudca na svoju žiadosť preložený na voľné miesto sudcu na okresnom súde alebo na základe výsledkov výberového konania na krajskom súde. Do lehoty podľa prvej vety sa nezapočítava čas materskej dovolenky, rodičovskej dovolenky, stáže sudcu, poverenia sudcu plnením úloh v orgáne Európskej únie alebo orgáne vytvorenom spoločne členskými štátmi Európskej únie (ďalej len „orgán Európskej únie“), prerušenia výkonu funkcie sudcu a dočasného pozastavenia výkonu funkcie sudcu.
 

@@ -100,13 +100,11 @@
 
 - 25) Zákon č. 461/2003 Z. z. v znení neskorších predpisov.
 
+- 26) Zákon č. 432/2021 Z. z. o disciplinárnom poriadku Najvyššieho správneho súdu Slovenskej republiky a o zmene a doplnení niektorých zákonov (disciplinárny súdny poriadok).
+
 - 28a) § 4 ods. 2 písm. b) zákona č. 185/2002 Z. z. o Súdnej rade Slovenskej republiky a o zmene a doplnení niektorých zákonov.
 
 - 28b) Napríklad zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
-
-- 28c) § 82a zákona č. 757/2004 Z. z. v znení zákona č. 33/2011 Z. z.
-
-- 29) § 29 až 203 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
 
 - 30) Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
