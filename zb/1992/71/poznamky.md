@@ -111,3 +111,7 @@
 - 9a) Zákon č. 54/2017 Z. z. o európskom príkaze na zablokovanie účtov a o doplnení zákona Slovenskej národnej rady č. 71/1992 Zb. o súdnych poplatkoch a poplatku za výpis z registra trestov v znení neskorších predpisov.
 
 - 10) Nariadenie Európskeho parlamentu a Rady (ES) č. 1896/2006 z 12. decembra 2006, ktorým sa zavádza európske konanie o platobnom rozkaze (Ú. v. EÚ L 399, 30. 12. 2006) v platnom znení.
+
+- 10a) § 15g ods. 10 zákona č. 530/2003 Z. z. v znení zákona č. 390/2019 Z. z.
+
+- 10b) § 15h ods. 1 zákona č. 530/2003 Z. z. v znení zákona č. 403/2021 Z. z.
