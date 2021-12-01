@@ -1,11 +1,15 @@
-## Disciplinárny senát
+# § 222b Zánik disciplinárnej zodpovednosti
 
-# § 222b
+(1) Zodpovednosť exekútora za disciplinárne previnenie zaniká uplynutím premlčacej lehoty, ktorá je
 
-(1) O disciplinárnej zodpovednosti exekútora rozhoduje a disciplinárne opatrenia podľa tohto zákona ukladá disciplinárna komisia prostredníctvom disciplinárneho senátu.
+- a) päť rokov, ak ide o disciplinárne previnenie, ktorého sa disciplinárne obvinený dopustil zavineným konaním, ktoré má za následok prieťahy v konaní,
 
-(2) Disciplinárny senát je trojčlenný a skladá sa z predsedu disciplinárneho senátu a dvoch členov disciplinárneho senátu.
+- b) tri roky v ostatných prípadoch.
 
-(3) Činnosť disciplinárnych senátov organizačne a technicky zabezpečuje komora.
+(2) Premlčanie disciplinárneho previnenia sa prerušuje
 
-(4) Prezident komory je povinný bezodkladne zabezpečiť zverejnenie zloženia disciplinárnych senátov na webovom sídle komory; rovnako je povinný zabezpečiť zverejnenie zmeny v personálnom zložení disciplinárnych senátov.
+- a) podaním disciplinárneho návrhu za disciplinárne previnenie, o ktorého premlčanie ide, a po ňom nasledujúcimi úkonmi disciplinárneho senátu smerujúcimi k ukončeniu disciplinárneho konania alebo
+
+- b) ak sa v premlčacej lehote exekútor dopustí iného disciplinárneho previnenia.
+
+(3) Prerušením premlčania začína plynúť nová premlčacia lehota.

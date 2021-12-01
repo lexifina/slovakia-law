@@ -26,7 +26,7 @@
 
 (5) Exekútor má právo vyjadriť sa k priebehu a ku všetkým skutočnostiam týkajúcim sa kontroly exekučnej činnosti. Exekútor je oprávnený počas kontroly exekučnej činnosti, najneskôr však do 14 dní od doručenia protokolu o vykonaní kontroly exekučnej činnosti, podať písomné námietky proti pravdivosti a preukázateľnosti zistení vyplývajúcich z kontroly exekučnej činnosti. Kontrolná komisia opodstatnenosť námietok preverí a výsledok písomne oznámi exekútorovi. Námietky exekútora proti zisteniam kontrolnej komisie a oznámenie kontrolnej komisie o výsledku preverenia námietok sú súčasťou protokolu o vykonaní kontroly exekučnej činnosti.
 
-(6) Oznámenie o výsledku kontroly exekučnej činnosti zašle kontrolná komisia tomu, na podnet koho bola kontrola exekučnej činnosti vykonaná. Ak kontrolná komisia na základe výsledkov kontroly exekučnej činnosti zistí, že sa exekútor dopustil disciplinárneho previnenia, podá predseda kontrolnej komisie po predchádzajúcom vyjadrení prezídia komory návrh na začatie disciplinárneho konania; súčasťou návrhu na začatie disciplinárneho konania je protokol o vykonaní kontroly exekučnej činnosti.
+(6) Oznámenie o výsledku kontroly exekučnej činnosti zašle kontrolná komisia tomu, na podnet koho bola kontrola exekučnej činnosti vykonaná. Ak kontrolná komisia na základe výsledkov kontroly exekučnej činnosti zistí, že sa exekútor dopustil disciplinárneho previnenia, podá predseda kontrolnej komisie po predchádzajúcom vyjadrení prezídia komory disciplinárny návrh; súčasťou disciplinárneho návrhu je protokol o vykonaní kontroly exekučnej činnosti.
 
 (7) Náklady kontroly exekučnej činnosti znáša komora.
 

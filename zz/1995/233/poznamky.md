@@ -26,8 +26,6 @@
 
 - 3i) § 12 zákona č. 201/2008 Z. z. o náhradnom výživnom a o zmene a doplnení zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení nálezu Ústavného súdu Slovenskej republiky č. 615/2006 Z. z.
 
-- 3j) Zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov v znení neskorších predpisov.
-
 - 4) § 4 ods. 1 zákona č. 153/2001 Z. z. o prokuratúre v znení neskorších predpisov.
 
 - § 2 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
@@ -204,9 +202,9 @@
 
 - 17d) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
-- 18) § 214 ods. 1, § 244 ods. 1 písm. b), § 280 ods. 2 a § 320 ods. 1 písm. a) Trestného poriadku.
+- 18) § 9 ods. 1 písm. b) zákona č. 432/2021 Z. z. o disciplinárnom poriadku Najvyššieho správneho súdu Slovenskej republiky a o zmene a doplnení niektorých zákonov (disciplinárny súdny poriadok).
 
-- 19) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 19) Zákon č. 432/2021 Z. z.
 
 - 19a) § 181 ods. 1 Správneho súdneho poriadku.
 
