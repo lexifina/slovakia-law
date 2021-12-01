@@ -2,9 +2,9 @@
 
 # § 217b
 
-(1) Ak sa navrhovateľ alebo disciplinárna komisia domnieva, že disciplinárne previnenie prokurátora spočíva v porušení pravidiel prokurátorskej etiky, požiada o stanovisko Etickú komisiu prokuratúry (ďalej len „etická komisia“). Etická komisia vydá stanovisko do 30 dní od doručenia žiadosti navrhovateľa alebo disciplinárnej komisie.
+(1) Ak sa osoba oprávnená podať disciplinárny návrh domnieva, že disciplinárne previnenie prokurátora spočíva v porušení pravidiel prokurátorskej etiky, požiada o stanovisko Etickú komisiu prokuratúry (ďalej len „etická komisia“). Etická komisia vydá stanovisko do 30 dní od doručenia žiadosti navrhovateľa.
 
-(2) Stanovisko etickej komisie je pre navrhovateľa záväzné; pre disciplinárnu komisiu nie je záväzné.
+(2) Stanovisko etickej komisie je pre osobu oprávnenú podať disciplinárny návrh záväzné.
 
 (3) Etická komisia môže posudzovať etické otázky a etickú prijateľnosť správania sa prokurátorov aj bez návrhu.
 

@@ -126,9 +126,7 @@
 
 - 56a) Čl. 113 ods. 3 a 4 nariadenia (EÚ) 2017/1939.
 
-- 57) Napríklad § 2 zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov, § 92 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, § 77 zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov, § 11 zákona č. 377/2004 Z. z. o ochrane nefajčiarov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 57a) Napríklad § 13 ods. 3, § 15 ods. 2 a § 35 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v znení neskorších predpisov, § 104 ods. 4 a 5 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 91 ods. 1 písm. d) piaty bod zákona č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 57) Zákon č. 432/2021 Z. z. o disciplinárnom poriadku Najvyššieho správneho súdu Slovenskej republiky a o zmene a doplnení niektorých zákonov (disciplinárny súdny poriadok).
 
 - 57b) Zákon č. 372/1990 Z. z. v znení neskorších predpisov.
 
@@ -138,25 +136,7 @@
 
 - 57da) Čl. 17 ods. 4 nariadenia (EÚ) 2017/1939.
 
-- 57e) § 53 zákona č. 153/2001 Z. z. v znení neskorších predpisov.
-
-- 58) Napríklad zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
-
-- 59) § 159 ods. 1 písm. b), § 171 ods. 1, § 188 ods. 1 písm. b), § 222 ods. 2 a § 257 písm. a) zákona č. 141/1961 Zb. o trestnom konaní súdnom (Trestný poriadok) v znení neskorších predpisov.
-
-- 60) § 49 ods. 1 písm. a) zákona Slovenskej národnej rady č. 372/1990 Zb.
-
-- 61) § 49 ods. 1 písm. b) zákona Slovenskej národnej rady č. 372/1990 Zb.
-
-- 62) § 49 ods. 1 písm. d) zákona Slovenskej národnej rady č. 372/1990 Zb.
-
-- 63) § 50 zákona Slovenskej národnej rady č. 372/1990 Zb.
-
-- 64) § 100 zákona č. 141/1961 Zb.
-
-- 64a) § 250l až 250s Občianskeho súdneho poriadku v znení neskorších predpisov.
-
-- 65) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
+- 66) § 9 ods. 1 písm. a) zákona č. 432/2021 Z. z.
 
 - 66a) § 30a až 30c zákona č. 153/2001 Z. z. v znení zákona č. 401/2015 Z. z.
 

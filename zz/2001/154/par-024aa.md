@@ -24,7 +24,7 @@
 
 - f) nie je spôsobilý zo zdravotných dôvodov vykonávať svoju funkciu po čas dlhší ako jeden rok,
 
-- g) spáchal čin, ktorý je podľa právoplatného rozhodnutia disciplinárnej komisie vydaného v disciplinárnom konaní nezlučiteľný s výkonom funkcie špeciálneho prokurátora,
+- g) spáchal čin, ktorý je podľa právoplatného disciplinárneho rozhodnutia nezlučiteľný s výkonom funkcie špeciálneho prokurátora,
 
 - h) nemá trvalý pobyt na území Slovenskej republiky.
 
