@@ -1,0 +1,1 @@
+Veronika Remišová v. r.
