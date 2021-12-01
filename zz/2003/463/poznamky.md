@@ -16,6 +16,10 @@
 
 - 8a) § 117 Občianskeho zákonníka.
 
+- 8b) § 7 zákona č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 8c) Čl. 2 ods. 1 ústavného zákona č. 357/2004 Z. z. o ochrane verejného záujmu pri výkone funkcií verejných funkcionárov v znení neskorších predpisov.
+
 - 9) § 5a zákona č. 105/2002 Z. z. o poskytnutí jednorazového finančného príspevku príslušníkom československých zahraničných alebo spojeneckých armád, ako aj domáceho odboja v rokoch 1939 – 1945 v znení zákona č. 439/2002 Z. z.
 
 - 10) § 69 zákona č. 328/2002 Z. z. v znení zákona č. 463/2003 Z. z.
