@@ -1,6 +1,6 @@
 # § 15b Mimoriadne vymenovanie a mimoriadne povýšenie
 
-(1) Vojak mimoriadnej služby môže byť mimoriadne vymenovaný alebo mimoriadne povýšený do vojenskej hodnosti o jeden stupeň vyššej, než akú dosiahol, ak významnou mierou prispel k plneniu služobných povinností alebo ak vykonal záslužný čin.
+(1) Vojak mimoriadnej služby môže byť mimoriadne vymenovaný do vojenskej hodnosti alebo mimoriadne povýšený do vojenskej hodnosti o jeden stupeň vyššej, než akú dosiahol, ak významnou mierou prispel k plneniu služobných povinností alebo ak vykonal záslužný čin.
 
 (2) Vojaka mimoriadnej služby, ktorý vykonáva mimoriadnu službu vo vojenskom útvare uvedenom v § 2 ods. 1 písm. g) druhom bode alebo treťom bode v hodnostnom zbore
 
@@ -34,4 +34,4 @@
 
   - 2. brigádny generál až generál, vymenúva alebo povyšuje prezident Slovenskej republiky.
 
-(5) Vojak mimoriadnej služby, ktorý zahynul pri plnení služobných povinností alebo v súvislosti s ním, môže byť mimoriadne vymenovaný alebo mimoriadne povýšený do vojenskej hodnosti in memoriam.
+(5) Vojak mimoriadnej služby, ktorý zahynul pri plnení služobných povinností alebo v súvislosti s ním, môže byť mimoriadne vymenovaný do vojenskej hodnosti alebo mimoriadne povýšený do vojenskej hodnosti in memoriam.

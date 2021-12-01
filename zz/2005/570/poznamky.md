@@ -134,21 +134,15 @@
 
 - 33a) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
-- 34) § 38 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení zákona č. 732/2004 Z. z.
+- 34) Čl. 2 ods. 1 ústavného zákona č. 357/2004 Z. z. o ochrane verejného záujmu pri výkone funkcií verejných funkcionárov v znení neskorších predpisov.
 
 - 34aa) § 38 a 40 zákona č. 328/2002 Z. z. v znení neskorších predpisov.
-
-- 34aaa) Zákon č. 463/2003 Z. z. o vojnových veteránoch a o doplnení zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov v znení neskorších predpisov.
 
 - 34ab) Zákon č. 255/1946 Zb. o príslušníkoch československej armády v zahraničí a o niektorých iných účastníkoch národného boja za oslobodenie v znení zákona č. 101/1964 Zb.
 
 - 34ac) Zákon č. 119/1990 Zb. o súdnej rehabilitácii v znení neskorších predpisov.
 
 - Zákon č. 87/1991 Zb. o mimosúdnych rehabilitáciách v znení neskorších predpisov.
-
-- 34ad) § 5a zákona č. 105/2002 Z. z. o poskytnutí jednorazového finančného príspevku príslušníkom československých zahraničných alebo spojeneckých armád, ako aj domáceho odboja v rokoch 1939 – 1945 v znení zákona č. 439/2002 Z. z.
-
-- § 4 zákona č. 463/2003 Z. z.
 
 - 34b) § 10 zákona Národnej rady Slovenskej republiky č. 181/1995 Z. z. o pozemkových spoločenstvách v znení neskorších predpisov.
 
