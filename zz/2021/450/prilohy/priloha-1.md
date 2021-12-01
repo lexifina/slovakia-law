@@ -1,0 +1,1 @@
+[Zmeny a doplnenia k ZmluvZmluve medzi Slovenskou republikou a Maďarskou republikou o zamedzení dvojakého zdanenia a zabránení daňovému úniku v odbore daní z príjmov a z majetku uverejnenuverejnenej v Zbierke zákonov SR pod číslom 80/1996 Z. z.](../assets/b825db65c1cb3674ef2c4d067a9d4ba95a9842aadbde9c2a7b3e6d0ef5380a31.pdf)
