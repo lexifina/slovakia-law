@@ -158,6 +158,10 @@
 
 - 23a) Zákon č. 200/2011 Z. z. o Obchodnom vestníku a o zmene a doplnení niektorých zákonov.
 
+- 23aa) § 23a zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
+
+- 23ab) § 3 písm. l) zákona č. 305/2013 Z. z. v znení zákona č. 273/2015 Z. z.
+
 - 24) § 12 ods. 6 zákona č. 659/2007 Z. z.
 
 - 25) § 9 ods. 7 zákona č. 659/2007 Z. z.
