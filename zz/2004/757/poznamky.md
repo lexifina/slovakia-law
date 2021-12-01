@@ -26,6 +26,8 @@
 
 - 10) § 116 Občianskeho zákonníka.
 
+- 10a) § 32 zákona č. 385/2000 Z. z. v znení neskorších predpisov.
+
 - 11) § 17 a nasl. zákona č. 385/2000 Z. z. v znení neskorších predpisov.
 
 - 11a) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
