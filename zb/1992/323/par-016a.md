@@ -7,5 +7,3 @@
 (3) Notár, ktorému bol prerušený výkon notárskeho úradu, môže vo výkone notárskeho úradu pokračovať až po uplynutí doby výkonu verejnej funkcie. Skutočnosť, že notár môže znovu začať vykonávať notársky úrad, oznámi notár komore a ministerstvu najmenej 30 dní pred skončením výkonu verejnej funkcie. Ak to vzhľadom na okolnosti skončenia výkonu verejnej funkcie nie je možné, oznámi notár, že môže pokračovať vo výkone notárskeho úradu komore a ministerstvu bezodkladne.
 
 (4) Počas prerušenia výkonu notárskeho úradu zastupuje notára zástupca podľa § 17.
-
-(5) Prerušenie výkonu notárskeho úradu nebráni začatiu a pokračovaniu v disciplinárnom konaní vedenom proti notárovi.

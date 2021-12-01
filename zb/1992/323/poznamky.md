@@ -22,9 +22,13 @@
 
 - 2ca) § 13 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 2cb) § 27 zákona č. 432/2021 Z. z. o disciplinárnom poriadku Najvyššieho správneho súdu Slovenskej republiky a o zmene a doplnení niektorých zákonov (disciplinárny súdny poriadok).
+
 - 2d) Napríklad § 48 zákona č. 366/1999 Z. z. o daniach z príjmov v znení zákona č. 561/2001 Z. z.
 
 - 2da) Zákon č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 2db) § 9 ods. 1 písm. c) zákona č. 432/2021 Z. z.
 
 - 2e) Napríklad § 11 ods. 1 a 9 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov, § 1 ods. 2 a § 6 až 35 zákona č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -54,6 +58,6 @@
 
 - 6c) Zákon č. 9/2010 Z. z. o sťažnostiach v znení zákona č. 289/2012 Z. z.
 
-- 6d) § 181 ods. 1 Správneho súdneho poriadku.
+- 6d) Zákon č. 432/2021 Z. z.
 
 - 7) Civilný mimosporový poriadok.
