@@ -1,1 +1,0 @@
-Peter Kostolný v. r.
