@@ -1,0 +1,1 @@
+[Zmeny a doplnenia k Zmluve medzi Slovenskou republikou a Chorvátskou republikou o zamedzení dvojakého zdanenia v odbore daní z príjmov a z majetku uverejnenej v Zbierke zákonov SR pod číslom 220/1997 Z. z](../assets/1b5085ba3ae7847ecd465bb02e6b9be2400517c47a9febdd661a3c0b01c7ff61.pdf)
