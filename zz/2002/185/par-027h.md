@@ -6,4 +6,4 @@
 
 (2) Súdna rada preskúma úplnosť písomného vyhlásenia a majetkového priznania a v prípade potreby vyzve sudcu, aby ich do 30 dní v potrebnom rozsahu spresnil alebo doplnil.
 
-(3) Ak sudca nesplní niektorú z povinností uvedených v odsekoch 1 a 2, predseda súdnej rady podá návrh na začatie disciplinárneho konania.
+(3) Ak sudca nesplní niektorú z povinností uvedených v odsekoch 1 a 2, predseda súdnej rady podá disciplinárny návrh.

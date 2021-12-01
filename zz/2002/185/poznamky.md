@@ -10,6 +10,8 @@
 
 - 2a) § 6 ods. 1 zákona č. 548/2003 Z. z. o Justičnej akadémii a o zmene a doplnení niektorých zákonov.
 
+- 2b) § 9 ods. 1 písm. d) zákona č. 432/2021 Z. z. o disciplinárnom poriadku Najvyššieho správneho súdu Slovenskej republiky a o zmene a doplnení niektorých zákonov (disciplinárny súdny poriadok).
+
 - 3) § 45 zákona č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov.
 
 - 4) Napríklad zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov.
