@@ -302,6 +302,16 @@
 
 - 93adh) Zákon č. 340/2012 Z. z. o úhrade za služby verejnosti poskytované Rozhlasom a televíziou Slovenska a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 93adj) § 2 ods. 1 zákona č. 483/2001 Z. z. v znení zákona č. 213/2014 Z. z.
+
+- 93adk) § 2 ods. 8 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 93adl) § 3 písm. h) zákona č. 323/2015 Z. z. o finančných nástrojoch financovaných z európskych štrukturálnych a investičných fondov a o zmene a doplnení niektorých zákonov.
+
+- § 25 ods. 5 písm. a) a § 25a ods. 6 zákona č. 67/2020 Z. z. o niektorých mimoriadnych opatreniach vo finančnej oblasti v súvislosti so šírením nebezpečnej nákazlivej ľudskej choroby COVID-19.
+
+- 93adm) § 90 ods. 3 zákona č. 483/2001 v znení zákona č. 279/2017 Z. z.
+
 - 94) § 44 zákona č. 43/2004 Z. z. v znení zákona č. 183/2014 Z. z.
 
 - 95a) § 139 a 140a zákona č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 252/2012 Z. z.
