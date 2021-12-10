@@ -78,8 +78,6 @@
 
 - 11) § 53 až 62 zákona č. 483/2001 Z. z.
 
-- 11a) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
-
 - 12) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 12a) § 2 ods. 2 zákona č. 492/2009 Z. z.
