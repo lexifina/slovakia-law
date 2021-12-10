@@ -706,6 +706,20 @@
 
 - 107cd) Nariadenie Európskeho parlamentu a Rady (EÚ) 2016/1011 z 8. júna 2016 o indexoch používaných ako referenčné hodnoty vo finančných nástrojoch a finančných zmluvách alebo na meranie výkonnosti investičných fondov, ktorým sa menia smernice 2008/48/ES a 2014/17/EÚ a nariadenie (EÚ) č. 596/2014 (Ú. v. EÚ L 171, 29. 6. 2016).
 
+- 107ce) Nariadenie Európskeho parlamentu a Rady (EÚ) 2020/1503 zo 7. októbra 2020 o európskych poskytovateľoch služieb hromadného financovania pre podnikanie a o zmene nariadenia (EÚ) 2017/1129 a smernice (EÚ) 2019/1937 (Ú. v. EÚ L 347, 20. 10. 2020).
+
+- 107cf) Čl. 23 nariadenia (EÚ) 2020/1503.
+
+- 107cg) Čl. 2 ods. 1 písm. h) a čl. 23 ods. 9 nariadenia (EÚ) 2020/1503.
+
+- 107ch) Čl. 23 ods. 10 nariadenia (EÚ) 2020/1503.
+
+- 107ci) Čl. 24 nariadenia (EÚ) 2020/1503.
+
+- 107cj) Čl. 2 ods. 1 písm. e) a čl. 24. ods. 4 nariadenia (EÚ) 2020/1503.
+
+- 107ck) Čl. 24 ods. 5 nariadenia (EÚ) 2020/1503.
+
 - 107d) § 33 zákona č. 428/2002 Z. z.
 
 - 107e) § 2 zákona Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení zákona č. 256/1999 Z. z.
@@ -772,7 +786,7 @@
 
 - 110i) Čl. 15 nariadenia (EÚ) 1093/2010 v platnom znení.
 
-- 110ja) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) č. 596/2014 zo 16. apríla 2014 o zneužívaní trhu (nariadenie o zneužívaní trhu) a o zrušení smernice Európskeho parlamentu a Rady 2003/6/ES a smerníc Komisie 2003/124/ES, 2003/125/ES a 2004/72/ES (Ú. v. EÚ L 173, 12. 6. 2014) v platnom znení, nariadenie (EÚ) 2015/2365, nariadenie (EÚ) 2016/1011, nariadenie Európskeho parlamentu a Rady (EÚ) 2017/2402 z 12. decembra 2017, ktorým sa ustanovuje všeobecný rámec pre sekuritizáciu a vytvára sa osobitný rámec pre jednoduchú, transparentnú a štandardizovanú sekuritizáciu a ktorým sa menia smernice 2009/65/ES, 2009/138/ES a 2011/61/EÚ a nariadenie (ES) č. 1060/2009 a nariadenie (EÚ) č. 648/2012 (Ú. v. EÚ L 347, 28. 12. 2017).
+- 110ja) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) č. 596/2014 zo 16. apríla 2014 o zneužívaní trhu (nariadenie o zneužívaní trhu) a o zrušení smernice Európskeho parlamentu a Rady 2003/6/ES a smerníc Komisie 2003/124/ES, 2003/125/ES a 2004/72/ES (Ú. v. EÚ L 173, 12. 6. 2014) v platnom znení, nariadenie (EÚ) 2015/2365, nariadenie (EÚ) 2016/1011, nariadenie Európskeho parlamentu a Rady (EÚ) 2017/2402 z 12. decembra 2017, ktorým sa ustanovuje všeobecný rámec pre sekuritizáciu a vytvára sa osobitný rámec pre jednoduchú, transparentnú a štandardizovanú sekuritizáciu a ktorým sa menia smernice 2009/65/ES, 2009/138/ES a 2011/61/EÚ a nariadenie (ES) č. 1060/2009 a nariadenie (EÚ) č. 648/2012 (Ú. v. EÚ L 347, 28. 12. 2017), nariadenie (EÚ) 2020/1503.
 
 - 110jb) Čl. 25 ods. 2 nariadenia (EÚ) č. 596/2014.
 
@@ -816,9 +830,9 @@
 
 - 110ln) Čl. 19 ods. 1 druhý pododsek nariadenia (EÚ) č. 1093/2010 v platnom znení.
 
-- 110m) Napríklad čl. 30 ods. 1 nariadenia (EÚ) č. 596/2014 v platnom znení, čl. 22 nariadenia (EÚ) 2015/2365, čl. 42 nariadenia (EÚ) 2016/1011, čl. 32 nariadenia (EÚ) 2017/2402.
+- 110m) Napríklad čl. 30 ods. 1 nariadenia (EÚ) č. 596/2014 v platnom znení, čl. 22 nariadenia (EÚ) 2015/2365, čl. 42 nariadenia (EÚ) 2016/1011, čl. 32 nariadenia (EÚ) 2017/2402, čl. 39 ods. 1 nariadenia (EÚ) 2020/1503.
 
-- 110n) Napríklad čl. 30 ods. 2 a čl. 31 nariadenia (EÚ) č. 596/2014 v platnom znení, čl. 22 a 23 nariadenia (EÚ) 2015/2365, čl. 42 a 43 nariadenia (EÚ) 2016/1011, čl. 32 ods. 2 a 3 a čl. 33 nariadenia (EÚ) 2017/2402.
+- 110n) Napríklad čl. 30 ods. 2 a čl. 31 nariadenia (EÚ) č. 596/2014 v platnom znení, čl. 22 a 23 nariadenia (EÚ) 2015/2365, čl. 42 a 43 nariadenia (EÚ) 2016/1011, čl. 32 ods. 2 a 3 a čl. 33 nariadenia (EÚ) 2017/2402, čl. 39 ods. 2 a čl. 40 nariadenia (EÚ) 2020/1503.
 
 - 111) Napríklad Obchodný zákonník v znení neskorších predpisov, Občiansky zákonník v znení neskorších predpisov, zákon č. 659/2007 Z. z.
 

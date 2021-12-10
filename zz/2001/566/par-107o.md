@@ -52,7 +52,7 @@
 
 (15) Emitent a sprostredkovateľ sú oprávnení uchovávať osobné údaje akcionárov získané v súlade s odsekmi 1 až 12 najviac po dobu 12 mesiacov po tom, ako sa dozvedeli, že dotknutá osoba prestala byť akcionárom; to neplatí, ak na uchovávanie týchto údajov je týmto zákonom (§ 75) alebo osobitným predpisom<sup>58jf</sup>) ustanovená dlhšia doba.
 
-(16) Emitentom sa na účely odsekov 1 až 15 rozumie akciová spoločnosť so sídlom v Slovenskej republike, ktorej akcie sú prijaté na obchodovanie na regulovanom trhu v Slovenskej republike alebo v inom členskom štáte.
+(16) Emitentom sa na účely odsekov 1 až 15 rozumie akciová spoločnosť so sídlom v Slovenskej republike alebo v inom členskom štáte, ktorej akcie sú prijaté na obchodovanie na regulovanom trhu v Slovenskej republike alebo v inom členskom štáte.
 
 (17) Ustanovenia odsekov 1 až 15 sa vzťahujú na sprostredkovateľov, ak poskytujú služby akcionárom alebo iným sprostredkovateľom v súvislosti s akciami akciových spoločností so sídlom v Slovenskej republike, ktoré sú prijaté na obchodovanie na regulovanom trhu v Slovenskej republike alebo v inom členskom štáte. Ustanovenia odsekov 1 až 15 sa vzťahujú aj na sprostredkovateľov z nečlenského štátu, ak poskytujú služby akcionárom podľa prvej vety. Ustanoveniami odsekov 1 až 3 nie je dotknuté ustanovenie § 107 ods. 10.
 
