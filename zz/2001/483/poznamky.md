@@ -498,6 +498,16 @@
 
 - 37aa) Zákon č. 80/1997 Z. z. o Exportno-importnej banke Slovenskej republiky v znení neskorších predpisov.
 
+- 37aaa) § 13 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
+
+- 37aab) § 31a zákona č. 305/2013 Z. z. v znení neskorších predpisov.
+
+- 37aac) § 5 ods. 1 písm. a) zákona č. 305/2013 Z. z.
+
+- 37aad) Čl. 3 ods. 12 nariadenia Európskeho parlamentu a Rady (EÚ) č. 910/2014 z 23. júla 2014 o elektronickej identifikácii a dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zrušení smernice 1999/93/ES (Ú. v. EÚ L 257, 28. 8. 2014).
+
+- 37aae) § 23a zákona č. 305/2013 Z. z. v znení neskorších predpisov.
+
 - 37ab) § 41 a 42 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
 
 - 37aba) Napríklad § 27 Obchodného zákonníka v znení neskorších predpisov, § 60 až 60b zákona č. 455/1991 Zb. v znení neskorších predpisov, § 20 a 21 zákona č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov, § 170 ods. 3 a § 226 ods. 1 písm. e) zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov, zákon č. 530/2003 Z. z. v znení neskorších predpisov.
