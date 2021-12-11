@@ -68,6 +68,10 @@
 
 - Zákon č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 20b) § 43a ods. 3 písm. o) a § 43c ods. 1 písm. i) zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
+- Kód 19 prílohy č. 7 a kód 10 prílohy č. 10 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
+
 - 21) Napríklad zákon č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov, zákon č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov, zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov, zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
 - 22) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
@@ -75,6 +79,10 @@
 - 22a) Napríklad Občiansky zákonník, Obchodný zákonník.
 
 - 22b) Napríklad § 20 zákona č. 442/2002 Z. z. o verejných vodovodoch a verejných kanalizáciách a o zmene a doplnení zákona č. 276/2001 Z. z. o regulácii v sieťových odvetviach, § 10 zákona č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov v znení neskorších predpisov, § 10 zákona č. 657/2004 Z. z. o tepelnej energetike v znení zákona č. 99/2007 Z. z.
+
+- 22d) § 2 písm. ag) zákona č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 344/2017 Z. z.
+
+- 22e) § 55 ods. 11 druhá a tretia veta zákona č. 563/2009 Z. z.
 
 - 23a) § 2 ods. 2 zákona Slovenskej národnej rady č. 369/1990 Zb. v znení zákona č. 453/2001 Z. z.
 

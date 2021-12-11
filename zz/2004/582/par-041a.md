@@ -1,0 +1,9 @@
+# § 41a Oznamovacia povinnosť
+
+(1) Platiteľ dane je povinný obci oznámiť najneskôr v deň začatia poskytovania odplatného prechodného ubytovania ubytovaciu kapacitu zariadenia a ukončenie poskytovania odplatného prechodného ubytovania je platiteľ dane povinný obci oznámiť najneskôr do 30 dní odo dňa ukončenia poskytovania odplatného prechodného ubytovania. Platiteľ dane je povinný obci oznámiť všetky zmeny skutočností rozhodujúcich pre určenie dane do 30 dní odo dňa, keď tieto skutočnosti nastali.
+
+(2) Platiteľ dane je povinný na účely tejto dane viesť podrobnú evidenciu fyzických osôb, ktorým bolo odplatné prechodné ubytovanie poskytované. Evidenciu fyzických osôb vedie v listinnej podobe alebo elektronickej podobe formou evidenčnej knihy, ktorá obsahuje meno a priezvisko fyzickej osoby, adresu trvalého pobytu, dátum narodenia, číslo a druh preukazu totožnosti, ktorým môže byť občiansky preukaz, cestovný pas alebo iný doklad preukazujúci totožnosť daňovníka, dĺžku pobytu (počet prenocovaní) a ďalšie záznamy potrebné pre správne určenie dane. Evidenčnú knihu je povinný viesť prehľadne a zápisy usporadúvať postupne z časového hľadiska podľa vzniku daňovej povinnosti.
+
+(3) Platiteľ dane je povinný obci oznámiť, že namiesto neho daň z časti alebo úplne vyberá zástupca platiteľa dane, ktorý na seba preberá plnenie daňovej povinnosti za platiteľa dane. Platiteľ dane vedie podrobnú evidenciu podľa odseku 2 za všetky fyzické osoby, ktorým bolo odplatné prechodné ubytovanie poskytnuté.
+
+(4) Platiteľ dane oznamuje obci základ dane podľa § 39 v lehote a spôsobom ustanoveným všeobecne záväzným nariadením.<sup>11</sup>) Ak časť povinnosti alebo celú daňovú povinnosť plní za platiteľa dane zástupca platiteľa dane, základ dane podľa § 39 sa znižuje o základ dane, ktorý za platiteľa dane prebral jeho zástupca.
