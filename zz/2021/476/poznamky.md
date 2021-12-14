@@ -1,0 +1,3 @@
+- 1) § 7 ods. 4 písm. e) a f) zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 538/2005 Z. z. o prírodných liečivých vodách, prírodných liečebných kúpeľoch, kúpeľných miestach a prírodných minerálnych vodách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 2) Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
