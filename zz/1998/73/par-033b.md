@@ -1,19 +1,59 @@
-# § 33b
+# § 33b Vymenovanie do funkcie a zánik výkonu funkcie riaditeľa Úradu inšpekčnej služby
 
-(1) Výberové konanie na funkciu prezidenta Policajného zboru vyhlasuje Ministerstvo vnútra Slovenskej republiky na svojom webovom sídle najneskôr tri mesiace pred uplynutím funkčného obdobia prezidenta Policajného zboru. Ak zanikne výkon funkcie prezidenta Policajného zboru podľa § 33a ods. 5 písm. b) až d), Ministerstvo vnútra Slovenskej republiky vyhlási výberové konanie na funkciu prezidenta Policajného zboru do 30 dní od zániku výkonu funkcie.
+(1) Príslušníka Policajného zboru do funkcie riaditeľa Úradu inšpekčnej služby vymenúva vláda na návrh ministra.
 
-(2) Oznámenie o vyhlásení výberového konania obsahuje
+(2) Minister predloží kandidáta na funkciu riaditeľa Úradu inšpekčnej služby výboru pre obranu a bezpečnosť na verejné vypočutie pred predložením návrhu na jeho vymenovanie na funkciu riaditeľa Úradu inšpekčnej služby vláde.
 
-- a) uvedenie funkcie, na obsadenie ktorej sa vyhlasuje výberové konanie,
+(3) Do funkcie riaditeľa Úradu inšpekčnej služby možno vymenovať len toho, kto
 
-- b) uvedenie predpokladov na výkon funkcie podľa § 33a ods. 3 a zoznam dokumentov podľa odseku 3,
+- a) je alebo bol príslušníkom Policajného zboru,
 
-- c) adresu, na ktorú je potrebné doručiť žiadosť o zaradenie do výberového konania, a dátum, do ktorého je potrebné doručiť túto žiadosť; lehota na doručenie žiadosti nesmie byť kratšia ako 30 dní od vyhlásenia výberového konania,
+- b) nebol odsúdený za spáchanie trestného činu,
 
-- d) poučenie, že na žiadosť o zaradenie do výberového konania, ku ktorej nie sú priložené dokumenty podľa odseku 3, a na žiadosť o zaradenie do výberového konania doručenú po termíne určenom v oznámení o vyhlásení výberového konania sa neprihliada a uchádzač nebude zaradený do výberového konania.
+- c) má vysokoškolské vzdelanie druhého stupňa,
 
-(3) Uchádzač k žiadosti o zaradenie do výberového konania priloží životopis a koncepciu rozvoja a riadenia Policajného zboru.
+- d) bol spolu najmenej desať rokov v služobnom pomere
 
-(4) Uchádzača, ktorý spĺňa predpoklady podľa § 33a ods. 3 a ktorý doručil žiadosť o zaradenie do výberového konania spolu s dokumentmi podľa odseku 3 v lehote určenej v oznámení o vyhlásení výberového konania, Ministerstvo vnútra Slovenskej republiky pozve na výberové konanie najmenej desať dní pred jeho uskutočnením.
+  - 1. príslušníka Policajného zboru v inšpekčnej službe alebo v službe kriminálnej polície,
 
-(5) Ministerstvo vnútra Slovenskej republiky bezodkladne po pozvaní uchádzačov podľa odseku 4 zverejní na svojom webovom sídle ich životopisy a dátum a miesto výberového konania.
+  - 2. príslušníka Zboru väzenskej a justičnej stráže ako poverený príslušník Zboru väzenskej a justičnej stráže alebo
+
+  - 3. prokurátora ako prokurátor, ktorý vykonáva dozor v trestnom konaní, a
+
+- e) bol spolu najmenej päť rokov
+
+  - 1. nadriadeným, ktorý riadil aspoň jedného príslušníka Policajného zboru alebo Zboru väzenskej a justičnej stráže, ktorý bol nadriadeným, alebo
+
+  - 2. vedúcim prokurátorom.
+
+(4) Kandidát na funkciu riaditeľa Úradu inšpekčnej služby, ktorý nie je príslušníkom Policajného zboru, musí ku dňu vymenovania do funkcie riaditeľa Úradu inšpekčnej služby spĺňať podmienky prijatia do služobného pomeru.
+
+(5) Ministerstvo požiada pre riaditeľa Úradu inšpekčnej služby, ktorý nemá bezpečnostnú previerku stupňa utajenia Prísne tajné, o jej vykonanie do 30 dní od jeho vymenovania.
+
+(6) Výkon funkcie riaditeľa Úradu inšpekčnej služby zaniká
+
+- a) vzdaním sa funkcie,
+
+- b) odvolaním z funkcie,
+
+- c) skončením služobného pomeru.
+
+(7) Vláda odvolá riaditeľa Úradu inšpekčnej služby z funkcie, ak
+
+- a) nevykonáva svoju funkciu najmenej šesť mesiacov,
+
+- b) bola obmedzená jeho spôsobilosť na právne úkony,
+
+- c) stratil štátne občianstvo Slovenskej republiky,
+
+- d) bol odsúdený za spáchanie trestného činu,
+
+- e) sa stal členom politickej strany alebo politického hnutia,
+
+- f) začal vykonávať funkciu alebo činnosť, ktorá je nezlučiteľná s výkonom funkcie policajta,
+
+- g) nemá trvalý pobyt na území Slovenskej republiky alebo
+
+- h) do desiatich mesiacov od vymenovania do funkcie nezíska oprávnenie na oboznamovanie sa s utajovanými skutočnosťami stupňa utajenia Prísne tajné alebo mu zanikne oprávnenie na oboznamovanie sa s utajovanými skutočnosťami stupňa utajenia Prísne tajné.
+
+(8) Vláda môže odvolať riaditeľa Úradu inšpekčnej služby z funkcie na návrh ministra aj bez uvedenia dôvodu.
