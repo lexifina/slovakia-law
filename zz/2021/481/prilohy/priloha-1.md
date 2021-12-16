@@ -1,0 +1,1 @@
+Príloha č. 1 k rozhodnutiu predsedu Národnej rady Slovenskej republiky č. 481/2021 Z. z. [ZOZNAM OBCÍ v ktorých sa vyhlasujú voľby do orgánov samosprávy obcí na 19. marca 2022](../assets/e88dc22f378bf63026846338616fafa4f1b5448766d7925a65ee0330f6f26c5a.pdf)

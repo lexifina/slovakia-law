@@ -1,0 +1,1 @@
+Príloha č. 2 k rozhodnutiu predsedu Národnej rady Slovenskej republiky č. 481/2021 Z. z. [LEHOTY na vykonanie volieb do orgánov samosprávy obcí 19. marca 2022](../assets/16f59fbd49f761acee6418426e0e5370969b9dafaa411f3680e6257efb2df3f5.pdf)
