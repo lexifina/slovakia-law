@@ -38,10 +38,6 @@
 
 - a) má živnostenské oprávnenie na obchodnú živnosť<sup>20f</sup>) a má zámer v rámci podnikania nakupovať a predávať minerálny olej uvedený v § 6 ods. 1 písm. a) a d),
 
-- b) má ročný objem predaja minerálneho oleja uvedeného v § 6 ods. 1 písm. a) a d) minimálne 10 000 000 l, ak je žiadateľom o vydanie povolenia na distribúciu podľa odseku 1; to neplatí, ak je žiadateľom o vydanie povolenia na distribúciu osoba, ktorá dodáva len minerálny olej podľa § 6 ods. 1 písm. d) užívateľskému podniku podľa § 11 na účely oslobodené od dane podľa § 10 ods. 1 písm. a),
-
-- c) má splatené vklady do základného imania v minimálnej výške 500 000 eur, ak je právnickou osobou alebo nakupuje a predáva v rámci podnikania minerálny olej uvedený v § 6 ods. 1 písm. a) a d) minimálne jeden rok pred podaním žiadosti o vydanie povolenia na distribúciu, ak je fyzickou osobou; to platí, ak žiadateľ o vydanie povolenia na distribúciu v čase podania žiadosti o vydanie povolenia na distribúciu nedosahuje ročný objem predaja minerálneho oleja uvedeného v písmene b),
-
 - d) vedie účtovníctvo podľa osobitného predpisu,<sup>17</sup>)
 
 - e) nemá nedoplatky voči colnému úradu ani daňovému úradu,
