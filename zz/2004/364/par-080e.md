@@ -2,7 +2,7 @@
 
 (1) § 16a sa nevzťahuje na územné konanie pre navrhovanú činnosť alebo iné konanie o povolení navrhovanej činnosti začaté a právoplatne neskončené pred 15. marcom 2018.
 
-(2) Povolenia na odber podzemných vôd vydané podľa § 21 ods. 1 v znení účinnom do 14. marca 2018, ktoré nie sú v súlade s týmto zákonom v znení účinnom od 15. marca 2018, je potrebné do 31. decembra 2021 uviesť s ním do súladu, inak strácajú platnosť.
+(2) Právnické osoby a fyzické osoby, ktorým boli vydané povolenia na odber podzemných vôd podľa § 21 ods. 1 v znení účinnom do 14. marca 2018, ktoré nie sú v súlade s týmto zákonom v znení účinnom od 15. marca 2018, sú povinné do 31. decembra 2022 požiadať o ich prehodnotenie, inak tieto povolenia strácajú platnosť.
 
 (3) Konania začaté a právoplatne neukončené pred 15. marcom 2018 sa dokončia podľa doterajších predpisov.
 
