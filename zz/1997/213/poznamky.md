@@ -36,6 +36,8 @@
 
 - 12a) Zákon č. 423/2015 Z. z. o štatutárnom audite a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov v znení zákona č. 91/2016 Z. z.
 
+- 12aa) Zákon č. 368/2021 Z. z. o mechanizme na podporu obnovy a odolnosti a o zmene a doplnení niektorých zákonov.
+
 - 12b) § 2 ods. 4 písm. f) zákona č. 431/2002 Z. z.
 
 - 12c) § 19 ods. 4 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
