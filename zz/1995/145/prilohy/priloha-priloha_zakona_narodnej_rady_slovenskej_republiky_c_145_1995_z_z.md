@@ -1698,7 +1698,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
       - l) schválenie prestavby jednotlivého vozidla
 
-        - 1. montážou plynového zariadenia .................................................... 20 eur
+        - 1. montážou plynového zariadenia alebo
+
+        - demontážou plynového zariadenia .................................................... 20 eur
 
         - 2. pre kategórie vozidiel O1, O2, Ra, Sa ........................................... 100 eur
 
@@ -1755,6 +1757,8 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
       - 1. Od poplatku podľa písmen f) až h) tejto položky sú oslobodené osoby, ktoré mali jednotlivo dovezené vozidlo v zahraničí evidované na svoje meno v rámci zastupiteľských úradov, diplomati, konzuli z povolania a ďalšie osoby, ktoré podľa medzinárodného práva požívajú výsady a imunity počas svojho pôsobenia.
 
       - 2. Od poplatku podľa písmena o) tejto položky sú oslobodené osoby, ktorým sa vydáva osvedčenie o evidencii časť II alebo technické osvedčenie vozidla, v ktorom je zapísaná iná technická zmena na vozidle, ak ide o opravu nesprávnych technických údajov a táto chyba bola zapríčinená orgánom, ktorý osvedčenie o evidencii časť II alebo technické osvedčenie vozidla vydal, okrem prípadov, keď chybné osvedčenie o evidencii časť II alebo technické osvedčenie vozidla vystavil výrobca alebo zástupca výrobcu.
+
+      - 3. Od poplatku podľa písmena r) tejto položky je oslobodená výmena technického osvedčenia vozidla za osvedčenie o evidencii časť II pre vozidlo kategórie L1e.
 
     - Splnomocnenie
 
@@ -1932,9 +1936,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
       - v orgánoch Európskej hospodárskej komisie .................................................. 100 eur
 
+      - g) udelenie poverenia na vykonávanie určitých činností podľa dohody ADR ... 200 eur
+
+      - h) zmenu v poverení na vykonávanie určitých činností podľa dohody ADR .... 100 eur
+
     - Poznámky
 
-      - 1. Poplatok podľa písmen a) a b) tejto položky zahŕňa aj vydanie príslušných dokladov.
+      - 1. Poplatok podľa písmen a), b), g) a h) tejto položky zahŕňa aj vydanie príslušných dokladov.
 
       - 2. Poplatok podľa tejto položky sa nevyberie, ak ide o zmenu z úradného príkazu, napríklad zmenu názvu ulice a podobne.
 
@@ -2164,7 +2172,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
       - a) povolenie na zriadenie
 
-        - 1. stanice technickej kontroly ........................................................... 600 eur
+        - 1. stanice technickej kontroly
+
+          - 1a. na základe povolenia na zriadenie stanice technickej kontroly
+
+          - nad rámec existujúcej siete ........................................................ 600 eur
+
+          - 1b. v iných prípadoch ako v bode 1a. ........................................ 9 600 eur
 
         - 2. pracoviska emisnej kontroly ......................................................... 600 eur
 
@@ -2196,7 +2210,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
         - 1. stanice technickej kontroly nad rámec
 
-        - existujúcej siete ...................................................................... 3 000 eur
+        - existujúcej siete ...................................................................... 9 000 eur
 
         - 2. pracoviska emisnej kontroly nad rámec
 
