@@ -36,17 +36,23 @@
 
 - Nariadenie Európskeho parlamentu a Rady (ES) č. 1272/2008 zo 16. decembra 2008 o klasifikácii, označovaní a balení látok a zmesí, o zmene, doplnení a zrušení smerníc 67/548/EHS a 1999/45/ES a o zmene a doplnení nariadenia (ES) č. 1907/2006 (Ú. v. EÚ L 353, 31. 12. 2008) v platnom znení.
 
-- Nariadenie Európskeho parlamentu a Rady (ES) č. 1222/2009 z 25. novembra 2009 o označovaní pneumatík vzhľadom na palivovú úspornosť a iné základné parametre (Ú. v. EÚ L 342, 22. 12. 2009) v platnom znení.
-
 - 9c) Napríklad zákon č. 182/2011 Z. z. o štítkovaní energeticky významných výrobkov a o zmene a doplnení niektorých zákonov, delegované nariadenie Komisie (EÚ) č. 1059/2010 z 28. septembra 2010, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/30/EÚ, pokiaľ ide o označovanie umývačiek riadu pre domácnosť energetickými štítkami (Ú. v. EÚ L 314, 30. 11. 2010), delegované nariadenie Komisie (EÚ) č. 1060/2010 z 28. septembra 2010, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/30/EÚ, pokiaľ ide o označovanie chladiacich spotrebičov pre domácnosť energetickými štítkami (Ú. v. EÚ L 314, 30. 11. 2010), delegované nariadenie Komisie (EÚ) č. 1061/2010 z 28. septembra 2010, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/30/EÚ, pokiaľ ide o označovanie práčok pre domácnosť energetickými štítkami (Ú. v. EÚ L 314, 30. 11. 2010), delegované nariadenie Komisie (EÚ) č. 1062/2010 z 28. septembra 2010, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/30/EÚ, pokiaľ ide o označovanie televízorov energetickými štítkami (Ú. v. EÚ L 314, 30. 11. 2010).
 
 - 9d) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 1007/2011 z 27. septembra 2011 o názvoch textilných vlákien a súvisiacom označení vláknového zloženia textilných výrobkov etiketou a iným označením, ktorým sa zrušuje smernica Rady 73/44/EHS a smernice Európskeho parlamentu a Rady 96/73/ES a 2008/121/ES (Ú. v. EÚ L 272, 18. 10. 2011) v platnom znení.
 
-- 9e) § 22 a 53 zákona č. 106/2018 Z. z.
+- 9e) Zákon č. 106/2018 Z. z. v znení neskorších predpisov.
 
-- Nariadenie vlády Slovenskej republiky č. 384/2004 Z. z. o dostupnosti spotrebiteľských informácií o spotrebe paliva a o emisiách CO<sub>2</sub> pri predaji a leasingu nových osobných automobilov.
+- Nariadenie Európskeho parlamentu a Rady (EÚ) č. 167/2013 z 5. februára 2013 o schvaľovaní poľnohospodárskych a lesných vozidiel a o dohľade nad trhom s týmito vozidlami (Ú. v. EÚ L 60, 2. 3. 2013) v platnom znení.
 
-- Čl. 5 a 6 nariadenia (ES) č. 1222/2009.
+- Nariadenie Európskeho parlamentu a Rady (EÚ) č. 168/2013 z 15. januára 2013 o schvaľovaní a dohľade nad trhom dvoj- alebo trojkolesových vozidiel a štvorkoliek (Ú. v. EÚ L 60, 2. 3. 2013) v platnom znení.
+
+- Nariadenie Európskeho parlamentu a Rady (EÚ) 2016/1628 zo 14. septembra 2016 o požiadavkách na emisné limity plynných a pevných znečisťujúcich látok a typové schválenie spaľovacích motorov necestných pojazdných strojov, ktorým sa menia nariadenia (EÚ) č. 1024/2012 a (EÚ) č. 167/2013, a ktorým sa mení a zrušuje smernica 97/68/ES (Ú. v. EÚ L 252, 16. 9. 2016) v platnom znení.
+
+- Nariadenie Európskeho parlamentu a Rady (EÚ) 2018/858 z 30. mája 2018 o schvaľovaní motorových vozidiel a ich prípojných vozidiel, ako aj systémov, komponentov a samostatných technických jednotiek určených pre takéto vozidlá a o dohľade nad trhom s nimi, ktorým sa menia nariadenia (ES) č. 715/2007 a (ES) č. 595/2009 a zrušuje smernica 2007/46/ES (Ú. v. EÚ L 151, 14. 6. 2018).
+
+- 9ea) Nariadenie Európskeho parlamentu a Rady (EÚ) 2020/740 z 25. mája 2020 o označovaní pneumatík vzhľadom na palivovú úspornosť a iné parametre, ktorým sa mení nariadenie (EÚ) 2017/1369 a zrušuje nariadenie (ES) č. 1222/2009 (Ú. v. EÚ L 177, 5. 6. 2020) v platnom znení.
+
+- 9eb) Nariadenie vlády Slovenskej republiky č. 384/2004 Z. z. o dostupnosti spotrebiteľských informácií o spotrebe paliva a o emisiách CO<sub>2</sub> pri predaji a leasingu nových osobných automobilov.
 
 - 9f) Zákon č. 302/2019 Z. z. o zálohovaní jednorazových obalov na nápoje a o zmene a doplnení niektorých zákonov.
 
@@ -86,9 +92,7 @@
 
 - 17a) Napríklad zákon č. 634/1992 Zb. v znení neskorších predpisov, zákon č. 264/1999 Z. z. v znení neskorších predpisov, zákon č. 178/1998 Z. z. v znení neskorších predpisov, zákon č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v znení neskorších predpisov, zákon č. 217/2003 Z. z. o podmienkach uvedenia biocídnych výrobkov na trh a o zmene a doplnení niektorých zákonov v znení zákona č. 434/2004 Z. z., zákon č. 182/2011 Z. z.
 
-- 18) Zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- Zákon č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov.
+- 18) Napríklad zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 106/2018 Z. z. v znení neskorších predpisov.
 
 - 18a) § 2 písm. a) zákona č. 22/2004 Z. z.
 
