@@ -1,0 +1,1 @@
+Príloha k opatreniu č. 24/2021 R. o. [príloha](../assets/0c143809f7759ea1db69b95f2ba363b1649ffd402b1e7761d8e8f10420b95c73.pdf) [príloha](../assets/2f30a694b0f7ebe8e90f1e0b91f6faf43d31c888275e47ed206904cb3a1e0a14.pdf)
