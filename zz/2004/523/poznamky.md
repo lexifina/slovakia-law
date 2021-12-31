@@ -1,6 +1,6 @@
 - 1) Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
-- 1a) Napríklad zákon č. 543/2007 Z. z. o pôsobnosti orgánov štátnej správy pri poskytovaní podpory v pôdohospodárstve a rozvoji vidieka v znení neskorších predpisov, zákon č. 528/2008 Z. z. o pomoci a podpore poskytovanej z fondov Európskeho spoločenstva v znení neskorších predpisov, zákon č. 292/2014 Z. z. o príspevku poskytovanom z európskych štrukturálnych a investičných fondov a o zmene a doplnení niektorých zákonov.
+- 1a) Napríklad zákon č. 543/2007 Z. z. o pôsobnosti orgánov štátnej správy pri poskytovaní podpory v pôdohospodárstve a rozvoji vidieka v znení neskorších predpisov, zákon č. 528/2008 Z. z. o pomoci a podpore poskytovanej z fondov Európskeho spoločenstva v znení neskorších predpisov, zákon č. 292/2014 Z. z. o príspevku poskytovanom z európskych štrukturálnych a investičných fondov a o zmene a doplnení niektorých zákonov, zákon č. 368/2021 Z. z. o mechanizme na podporu obnovy a odolnosti a o zmene a doplnení niektorých zákonov.
 
 - 2) § 9 zákona č. 528/2008 Z. z. v znení neskorších predpisov,
 
@@ -177,6 +177,8 @@
 - § 2 zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve v znení neskorších predpisov.
 
 - 24b) Článok 34 ods. 1 Aktu o podmienkach pristúpenia pripojeného k Zmluve o pristúpení Slovenskej republiky k Európskej únii (oznámenie č. 185/2004 Z. z.).
+
+- 24c) Zákon č. 368/2021 Z. z.
 
 - 25) § 4 ods. 2 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
