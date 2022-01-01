@@ -1,14 +1,18 @@
 - 1) § 18 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
 
-- 2) § 21 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
+- 2) § 21 ods. 4 písm. b) Obchodného zákonníka.
 
 - 3) Napríklad zákon č. 34/2002 Z. z. o nadáciách a o zmene Občianskeho zákonníka v znení neskorších predpisov.
+
+- 3a) § 21 ods. 4 písm. a) Obchodného zákonníka.
 
 - 4) Zákon č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
 - 4a) § 6 ods. 11 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
-- 4b) § 27 ods. 2 písm. c) Obchodného zákonníka v znení neskorších predpisov.
+- 4aa) § 3 zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
+
+- § 42 zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
 
 - 4c) Zákon č. 97/2013 Z. z. o pozemkových spoločenstvách.
 
@@ -36,7 +40,7 @@
 
 - 15) Napríklad § 1 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov, § 3 zákona č. 594/2003 Z. z. v znení neskorších predpisov.
 
-- 16) § 37 Obchodného zákonníka v znení zákona č. 600/1992 Zb.
+- 16) Napríklad § 14 zákona č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zmene a doplnení niektorých zákonov, § 12 zákona č. 170/2018 Z. z. o zájazdoch, spojených službách cestovného ruchu, niektorých podmienkach podnikania v cestovnom ruchu a o zmene a doplnení niektorých zákonov v znení zákona č. 198/2020 Z. z.
 
 - 17) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
@@ -48,7 +52,7 @@
 
 - § 68 ods. 4 písm. c) Obchodného zákonníka.
 
-- 20b) § 309d až 309h Civilného mimosúdneho poriadku.
+- 20b) § 309d až 309h Civilného mimosporového poriadku.
 
 - § 68 a 68b Obchodného zákonníka.
 
@@ -108,7 +112,7 @@
 
 - 27a) §161d ods. 2 Obchodného zákonníka.
 
-- 28) Napríklad § 35 ods. 2 zákona č. 34/2002 Z. z.
+- 28) Napríklad § 25 ods. 3 zákona č. 147/1997 Z. z. v znení neskorších predpisov, § 34 ods. 2 zákona č. 213/1997 Z. z. v znení zákona č. 112/2018 Z. z., § 35 ods. 2 zákona č. 34/2002 Z. z. v znení neskorších predpisov.
 
 - 28a) Napríklad zákon č. 581/2004 Z. z. v znení neskorších predpisov.
 
@@ -134,23 +138,27 @@
 
 - 29c) § 2 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 29d) Zákon č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 29d) Zákon č. 95/2019 Z. z. o informačných technológiách vo verejnej správe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 29da) § 34 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
 
 - 29db) § 5 písm. ab) zákona č. 483/2001 Z. z. v znení zákona č. 213/2014 Z. z.
 
-- 29e) Napríklad § 24 zákona č. 147/1997 Z. z. v znení zákona č. 445/2008 Z. z., § 33 zákona č. 213/1997 Z. z. v znení neskorších predpisov, § 8 zákona č. 119/2010 Z. z. o obaloch a o zmene zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 90/2008 Z. z. o európskom zoskupení územnej spolupráce a o doplnení zákona č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov.
+- 29g) § 41 ods. 1 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
-- 29f) § 14 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov.
+- § 15 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 29g) § 41 ods. 1 zákona č. 595/2003 Z. z. v znení zákona č. 548/2010 Z. z., § 15 zákona č. 563/2009 Z. z.
+- 29h) Napríklad § 24 zákona č. 147/1997 Z. z. v znení neskorších predpisov, § 33 zákona č. 213/1997 Z. z. v znení neskorších predpisov.
 
-- 29h) Napríklad § 24 zákona č. 147/1997 Z. z. v znení zákona č. 445/2008 Z. z., § 33 zákona č. 213/1997 Z. z. v znení neskorších predpisov.
-
-- 29ha) Napríklad § 25 zákona č. 147/1997 Z. z. v znení zákona č. 352/2013 Z. z., § 34 zákona č. 213/1997 Z. z. v znení neskorších predpisov, § 35 zákona č. 34/2002 Z. z. v znení neskorších predpisov.
+- 29ha) Napríklad § 25 zákona č. 147/1997 Z. z. v znení neskorších predpisov, § 34 zákona č. 213/1997 Z. z. v znení neskorších predpisov, § 35 zákona č. 34/2002 Z. z. v znení neskorších predpisov.
 
 - 29i) Napríklad § 24 ods. 3 zákona č. 147/1997 Z. z., § 33 ods. 4 zákona č. 213/1997 Z. z., zákon č. 595/2003 Z. z. v znení neskorších predpisov.
+
+- 29ia) § 13 ods. 5 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
+
+- 29ib) Delegované nariadenie Komisie (EÚ) 2019/815 zo 17. decembra 2018, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady (EÚ) 2004/109/ES, pokiaľ ide o regulačné technické predpisy o špecifikácii jednotného elektronického formátu vykazovania (Ú. v. EÚ L 143, 29. 5. 2019) v platnom znení.
+
+- 29ic) § 27 až 29 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
 
 - 29j) § 2 ods. 2 písm. h) zákona č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -163,6 +171,10 @@
 - 29l) Napríklad zákon č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách v znení neskorších predpisov, zákon č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 29m) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
+
+- 29n) Čl. 3 bod 12 nariadenia Európskeho parlamentu a Rady (EÚ) č. 910/2014 z 23. júla 2014 o elektronickej identifikácii a dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zrušení smernice 1999/93/ES (Ú. v. EÚ L 257, 28. 8. 2014).
+
+- 29na) Čl. 3 bod 27 nariadenia (EÚ) č. 910/2014.
 
 - 29o) § 66b ods. 3 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
@@ -222,11 +234,19 @@
 
 - 45a) Napríklad zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov, zákon č. 105/2004 Z. z. o spotrebnej dani z liehu a o zmene a doplnení zákona č. 467/2002 Z. z. o výrobe a uvádzaní liehu na trh v znení zákona č. 211/2003 Z. z. v znení neskorších predpisov.
 
+- 45aa) § 35 ods. 2 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení zákona č. 273/2015 Z. z.
+
+- Vyhláška Ministerstva investícií, regionálneho rozvoja a informatizácie Slovenskej republiky č. 70/2021 Z. z. o zaručenej konverzii.
+
+- 45ab) Napríklad § 16 ods. 2 písm. e) zákona č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov v znení neskorších predpisov, § 38 ods. 1 zákona č. 305/2013 Z. z. v znení zákona č. 273/2015 Z. z.
+
+- 45ac) § 203 Civilného mimosporového poriadku.
+
 - 46) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
 - 47) § 2 ods. 1 a 8 zákona č. 483/2001 Z. z.
 
-- 47a) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
+- 47a) Zákon č. 563/2009 Z. z. v znení neskorších predpisov.
 
 - 47aa) § 1 ods. 2 písm. e) zákona č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
 
