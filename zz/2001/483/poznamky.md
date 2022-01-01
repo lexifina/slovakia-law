@@ -160,7 +160,7 @@
 
 - § 22 ods. 4 zákona č. 431/2002 Z. z. v znení zákona č. 561/2004 Z. z.
 
-- 24aaaa) § 10 ods. 4 a 5 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+- 24aaaa) § 10 ods. 4 a 5 a § 13 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 24aaab) § 34a ods. 1 a 2 a § 34b zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
@@ -271,6 +271,10 @@
 - 27fbc) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon) v znení neskorších predpisov.
 
 - 27fbd) § 167o ods. 4 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 27fbe) § 3 ods. 2 a 4, § 5 ods. 5 a 6 a § 6 ods. 8 a 9 zákona č. 181/2014 Z. z. o volebnej kampani a o zmene a doplnení zákona č. 85/2005 Z. z. o politických stranách a politických hnutiach v znení neskorších predpisov.
+
+- 27fbf) § 3, 5 a 6 zákona č. 181/2014 Z. z. v znení neskorších predpisov.
 
 - 27g) § 6 ods. 1 písm. f) zákona č. 566/2001 Z. z. v znení zákona č. 209/2007 Z. z.
 
@@ -401,6 +405,8 @@
 - 30zkb) Čl. 92 ods. 1 písm. b) nariadenia (EÚ) č. 575/2013 v platnom znení.
 
 - 30zkc) Čl. 92 ods. 1 písm. c) nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 30zkd) Čl. 429 ods. 4 nariadenia (EÚ) č. 575/2013 v platnom znení.
 
 - 30zl) Čl. 124 ods. 2 nariadenia (EÚ) č. 575/2013.
 
@@ -810,7 +816,7 @@
 
 - 86db) § 11 ods. 2 zákona č. 199/2004 Z. z. v znení neskorších predpisov.
 
-- § 5 ods. 3 písm. h), i) a l) zákona č. 333/2011 Z. z. o orgánoch štátnej správy v oblasti daní, poplatkov a colníctva v znení zákona č. 441/2012 Z. z.
+- § 4 ods. 3 písm. y) a § 9 ods. 2 písm. h), i) a l) zákona č. 35/2019 Z. z. o finančnej správe a o zmene a doplnení niektorých zákonov v znení zákona č. 431/2021 Z. z.
 
 - 86dc) § 4 ods. 2, § 14 ods. 5 a 6 a § 16 ods. 6 zákona č. 126/2011 Z. z. v znení zákona č. 394/2011 Z. z.
 
@@ -831,6 +837,12 @@
 - 86dj) § 7 a 12 zákona č. 54/2019 Z. z. o ochrane oznamovateľov protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
 
 - 86dk) § 27ha ods. 6 zákona č. 185/2002 Z. z. o Súdnej rade Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení zákona č. 423/2020 Z. z.
+
+- 86dl) § 3 ods. 2, § 5 ods. 3 a 4 a § 6 ods. 6 a 7 zákona č. 181/2014 Z. z. v znení neskorších predpisov.
+
+- 86dm) § 3 ods. 5, § 5 ods. 7 a § 6 ods. 8 zákona č. 181/2014 Z. z. v znení neskorších predpisov.
+
+- 86dn) § 73b zákona Slovenskej národnej rady č. 323/1992 Zb. v znení zákona č. 357/2003 Z. z.
 
 - 86e) Zákon č. 126/2011 Z. z.
 

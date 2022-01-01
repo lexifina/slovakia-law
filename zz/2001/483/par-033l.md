@@ -1,6 +1,6 @@
 # § 33l
 
-(1) Ak banka nespĺňa požiadavku na kombinovaný vankúš, banka vypracuje plán na zachovanie kapitálu a predloží ho Národnej banke Slovenska najneskôr do piatich pracovných dní od zistenia, že nespĺňa uvedenú požiadavku. Lehotu podľa prvej vety je Národná banka Slovenska oprávnená predĺžiť najviac o päť pracovných dní.
+(1) Ak banka nespĺňa požiadavku na kombinovaný vankúš alebo požiadavku na vankúš ukazovateľa finančnej páky, banka vypracuje plán na zachovanie kapitálu a predloží ho Národnej banke Slovenska najneskôr do piatich pracovných dní od zistenia, že nespĺňa uvedenú požiadavku. Lehotu podľa prvej vety je Národná banka Slovenska oprávnená predĺžiť najviac o päť pracovných dní.
 
 (2) Plán na zachovanie kapitálu obsahuje
 
