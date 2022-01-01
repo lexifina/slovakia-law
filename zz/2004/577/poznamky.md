@@ -78,8 +78,6 @@
 
 - 24) Zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 27) § 57 a 64 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
-
 - 28) § 27 Občianskeho zákonníka.
 
 - Zákon č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov.

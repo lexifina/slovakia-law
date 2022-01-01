@@ -26,12 +26,6 @@
 
 - c) 2 eurá, ak bol poistenec k poskytovateľovi ústavnej pohotovostnej služby odoslaný bezprostredne po poskytnutí ambulantnej pohotovostnej služby.
 
-(7) Pri poskytovaní lekárenskej starostlivosti pri výdaji liekov alebo dietetických potravín je výška úhrady poistenca za služby uvedené v § 38 ods. 3 písm. d) 0,17 eura, ak poistenec nie je oslobodený od povinnosti úhrady podľa § 38 ods. 8 písm. d); ak ide o lekársky predpis s identifikátorom preskripčného záznamu<sup>28b</sup>) v elektronickej zdravotnej knižke,<sup>28c</sup>) je výška úhrady poistenca 0 eur.
+(7) Pri poskytovaní ústavnej zdravotnej starostlivosti je výška úhrady poistenca za jeden deň pobytu sprievodcu za služby uvedené v § 38 ods. 3 písm. d) 3,30 eura, ak poistenec nie je oslobodený od povinnosti úhrady podľa § 38 ods. 8 písm. d).
 
-(8) Pri poskytovaní lekárenskej starostlivosti pri výdaji zdravotníckych pomôcok je výška úhrady poistenca za služby uvedené v § 38 ods. 3 písm. e) 0,17 eura, ak poistenec nie je oslobodený od povinnosti úhrady podľa § 38 ods. 8 písm. e); ak ide o lekársky poukaz s identifikátorom preskripčného záznamu v elektronickej zdravotnej knižke, je výška úhrady poistenca 0 eur.
-
-(9) Pri poskytovaní ústavnej zdravotnej starostlivosti je výška úhrady poistenca za jeden deň pobytu sprievodcu za služby uvedené v § 38 ods. 3 písm. f) 3,30 eura, ak poistenec nie je oslobodený od povinnosti úhrady podľa § 38 ods. 8 písm. f).
-
-(10) Pri poskytovaní dopravy je výška úhrady poistenca za služby uvedené v § 38 ods. 3 písm. g) 0,10 eura za jeden kilometer jazdy, ak poistenec nie je oslobodený od povinnosti úhrady podľa § 38 ods. 8 písm. g).
-
-(11) Pri poskytnutí výpisu zo zdravotnej dokumentácie na účely súvisiace s poskytovaním zdravotnej starostlivosti je výška úhrady poistenca najviac 2 eurá.
+(8) Pri poskytnutí výpisu zo zdravotnej dokumentácie na účely súvisiace s poskytovaním zdravotnej starostlivosti je výška úhrady poistenca najviac 2 eurá.
