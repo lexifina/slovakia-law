@@ -20,15 +20,15 @@
 
 (4) Dátum rozhodujúci pre počet detí použitý pri určovaní príspevku na výchovu a vzdelávanie je podľa § 7 ods. 4.
 
-(5) Okresný úrad v sídle kraja
+(5) Regionálny úrad
 
 - a) oznámi najneskôr do 30 pracovných dní po nadobudnutí účinnosti zákona o štátnom rozpočte zriaďovateľovi materskej školy<sup>2b</sup>) výšku príspevku na výchovu a vzdelávanie pre materské školy<sup>2b</sup>) v jeho zriaďovateľskej pôsobnosti podľa odseku 1 a určených podľa odseku 2; pre výpočet príspevku na výchovu a vzdelávanie pre materskú školu<sup>2b</sup>) na nový školský rok sa použije počet detí v školskom roku, ktorý začal v predchádzajúcom kalendárnom roku, nahlásený zriaďovateľom podľa § 7 ods. 4 a výška sumy životného minima pre jedno nezaopatrené dieťa<sup>23g</sup>) platnej k 1. januáru príslušného kalendárneho roka,
 
 - b) oznámi najneskôr do 30. októbra zriaďovateľovi materskej školy<sup>2b</sup>) úpravu výšky príspevku na výchovu a vzdelávanie pre materské školy<sup>2b</sup>) v jeho zriaďovateľskej pôsobnosti podľa odseku 6 písm. a); úprava zodpovedá rozdielu príspevku na výchovu a vzdelávanie pre materské školy<sup>2b</sup>) v zriaďovateľskej pôsobnosti zriaďovateľa na nový školský rok určenému podľa odseku 2 zo skutočných počtov detí v novom školskom roku nahlásených zriaďovateľom podľa § 7 ods. 4 a výšky sumy životného minima pre jedno nezaopatrené dieťa<sup>23g</sup>) platnej k 1. septembru príslušného kalendárneho roka a príspevku na výchovu a vzdelávanie pre materské školy<sup>2b</sup>) v zriaďovateľskej pôsobnosti zriaďovateľa na nový školský rok určenému podľa odseku 2 z počtov detí nahlásených zriaďovateľom podľa § 7 ods. 4 v minulom kalendárnom roku a výšky sumy životného minima pre jedno nezaopatrené dieťa<sup>23g</sup>) platnej k 1. januáru príslušného kalendárneho roka,
 
-- c) poskytuje zriaďovateľom materských škôl<sup>2b</sup>) finančné prostriedky z kapitoly ministerstva vnútra podľa odseku 1 v priebehu roka podľa osobitného predpisu.<sup>22</sup>)
+- c) poskytuje zriaďovateľom materských škôl<sup>2b</sup>) finančné prostriedky z kapitoly ministerstva podľa odseku 1 v priebehu roka podľa osobitného predpisu.<sup>22</sup>)
 
-(6) Zriaďovateľ materskej školy<sup>2b</sup>) do 30 dní po doručení oznámenia okresného úradu v sídle kraja
+(6) Zriaďovateľ materskej školy<sup>2b</sup>) do 30 dní po doručení oznámenia regionálneho úradu
 
 - a) podľa odseku 5 písm. a) rozpíše finančné prostriedky na kalendárny rok pre jednotlivé materské školy<sup>2b</sup>) vo svojej zriaďovateľskej pôsobnosti,
 

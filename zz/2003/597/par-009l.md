@@ -44,7 +44,7 @@
 
   - 2. učebnými pomôckami na rozvíjanie prírodovednej gramotnosti a matematickej gramotnosti detí.
 
-(7) V kapitole ministerstva vnútra sa rozpočtujú finančné prostriedky pre zriaďovateľov registrovaných zariadení na príspevok na výchovu a vzdelávanie. Finančné prostriedky na príspevok na výchovu a vzdelávanie sa pre zriaďovateľov registrovaných zariadení poskytujú prostredníctvom okresných úradov v sídle kraja.
+(7) V kapitole ministerstva sa rozpočtujú finančné prostriedky pre zriaďovateľov registrovaných zariadení na príspevok na výchovu a vzdelávanie. Finančné prostriedky na príspevok na výchovu a vzdelávanie sa pre zriaďovateľov registrovaných zariadení poskytujú prostredníctvom regionálnych úradov školskej správy.
 
 (8) Registrované zariadenie vypracúva správu o hospodárení za predchádzajúci kalendárny rok a predkladá ju zriaďovateľovi. Správa o hospodárení registrovaného zariadenia obsahuje
 
@@ -54,17 +54,17 @@
 
 - c) ďalšie údaje určené ministerstvom.
 
-(9) Zriaďovatelia registrovaných zariadení predložia okresnému úradu v sídle kraja do 15. apríla súhrnnú správu o hospodárení za predchádzajúci kalendárny rok za registrované zariadenia vo svojej zriaďovateľskej pôsobnosti. Okresné úrady v sídle kraja predložia ministerstvu v lehote určenej ministerstvom súhrnnú správu o hospodárení za zriaďovateľov registrovaných zariadení v územnej pôsobnosti príslušného okresného úradu v sídle kraja. Obsah a formu súhrnnej správy o hospodárení zriaďovateľov registrovaných zariadení za predchádzajúci kalendárny rok zverejní ministerstvo na svojom webovom sídle do 31. januára.
+(9) Zriaďovatelia registrovaných zariadení predložia regionálnemu úradu školskej správy do 15. apríla súhrnnú správu o hospodárení za predchádzajúci kalendárny rok za registrované zariadenia vo svojej zriaďovateľskej pôsobnosti. Regionálne úrady školskej správy predložia ministerstvu v lehote určenej ministerstvom súhrnnú správu o hospodárení za zriaďovateľov registrovaných zariadení v územnej pôsobnosti príslušného regionálnemu úradu školskej správy. Obsah a formu súhrnnej správy o hospodárení zriaďovateľov registrovaných zariadení za predchádzajúci kalendárny rok zverejní ministerstvo na svojom webovom sídle do 31. januára.
 
-(10) Podmienkou na pridelenie finančných prostriedkov podľa odseku 1 na nasledujúci rok je vypracovanie správy o hospodárení registrovaného zariadenia za predchádzajúci rok, ak počas neho už bolo zaregistrované, a jej predloženie prostredníctvom zriaďovateľa príslušnému okresnému úradu v sídle kraja.
+(10) Podmienkou na pridelenie finančných prostriedkov podľa odseku 1 na nasledujúci rok je vypracovanie správy o hospodárení registrovaného zariadenia za predchádzajúci rok, ak počas neho už bolo zaregistrované, a jej predloženie prostredníctvom zriaďovateľa príslušnému regionálnemu úradu školskej správy.
 
 (11) Ministerstvo na základe predložených podkladov a objemu finančných prostriedkov ustanovených zákonom o štátnom rozpočte zverejní na svojom webovom sídle do 30 pracovných dní po nadobudnutí účinnosti zákona o štátnom rozpočte údaje a postup, ktoré boli použité pri rozpise finančných prostriedkov zriaďovateľom registrovaných zariadení.
 
 (12) Celkový objem finančných prostriedkov na bežné výdavky vyčlenený na účely tohto paragrafu v príslušnom kalendárnom roku sa zohľadňuje na účely § 7 ods. 7 rovnako ako celkový objem finančných prostriedkov na bežné výdavky vyčlenený na účely príspevku na výchovu a vzdelávanie detí materských škôl.
 
-(13) Ministerstvo a okresný úrad v sídle kraja pri výkone dohľadu kontrolujú správnosť použitia metód a postupov pri financovaní registrovaných zariadení.
+(13) Ministerstvo a regionálny úrad školskej správy pri výkone dohľadu kontrolujú správnosť použitia metód a postupov pri financovaní registrovaných zariadení.
 
-(14) Ministerstvo alebo okresný úrad v sídle kraja uloží zriaďovateľovi registrovaného zariadenia
+(14) Ministerstvo alebo regionálny úrad školskej správy uloží zriaďovateľovi registrovaného zariadenia
 
 - a) pokutu 200 eur za nedodržanie lehoty určenej na
 
@@ -72,7 +72,7 @@
 
   - 2. úpravu finančných prostriedkov pridelených prostredníctvom príspevku na výchovu a vzdelávanie na nový školský rok pre jednotlivé registrované zariadenia v zriaďovateľskej pôsobnosti zriaďovateľa podľa odseku 5 písm. b),
 
-  - 3. predloženie správy o hospodárení okresnému úradu v sídle kraja,
+  - 3. predloženie správy o hospodárení regionálnemu úradu školskej správy,
 
 - b) pokutu 2 000 eur za nevypracovanie správy o hospodárení,
 

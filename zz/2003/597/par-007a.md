@@ -2,11 +2,11 @@
 
 (1) Na účely rozdeľovania a poukazovania výnosu dane z príjmov obciam na nasledujúci kalendárny rok podľa osobitného predpisu<sup>24d</sup>) sa zbierajú údaje o počte
 
-- a) žiakov základnej umeleckej školy v individuálnej forme vzdelávania a v skupinovej forme vzdelávania od piatich rokov veku do dovŕšenia 25 rokov veku podľa stavu k 15. septembru začínajúceho školského roka; v cirkevných školách a v súkromných školách žiakov do dovŕšenia 15 rokov veku,
+- a) žiakov základnej umeleckej školy v individuálnej forme vzdelávania a v skupinovej forme vzdelávania od piatich rokov veku do dovŕšenia 25 rokov veku podľa stavu k 15. septembru začínajúceho školského roka,
 
 - b) detí materskej školy podľa stavu k 15. septembru začínajúceho školského roka,
 
-- c) poslucháčov jazykovej školy vo veku plnenia povinnej školskej dochádzky do dovŕšenia 25 rokov veku podľa stavu k 15. septembru začínajúceho školského roka; v cirkevných školách a v súkromných školách poslucháčov do dovŕšenia15 rokov veku,
+- c) poslucháčov jazykovej školy vo veku plnenia povinnej školskej dochádzky do dovŕšenia 25 rokov veku podľa stavu k 15. septembru začínajúceho školského roka,
 
 - d) detí v školských zariadeniach výchovného poradenstva a prevencie v predchádzajúcom školskom roku, ktorým boli poskytnuté služby; v novovzniknutých školských zariadeniach výchovného poradenstva a prevencie detí podľa stavu k 15. septembru začínajúceho školského roka; v cirkevných školských zariadeniach a v súkromných školských zariadeniach detí do dovŕšenia 15 rokov veku,
 
@@ -22,7 +22,7 @@
 
 - j) všetkých žiakov základných škôl, základných škôl pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami, päťročných gymnázií, osemročných gymnázií a osemročných konzervatórií podľa stavu k 15. septembru začínajúceho školského roka v zriaďovateľskej pôsobnosti obce, štátom uznanej cirkvi alebo náboženskej spoločnosti a inej právnickej osoby alebo fyzickej osoby, ak je na území obce zriadené zariadenie školského stravovania; v cirkevných stredných školách a v súkromných stredných školách žiakov do dovŕšenia 15 rokov veku,
 
-- k) všetkých žiakov základných škôl a základných škôl pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami podľa stavu k 15. septembru začínajúceho školského roka v zriaďovateľskej pôsobnosti okresného úradu v sídle kraja, ak tieto školy nemajú na území obce zriadené vlastné zariadenie školského stravovania a žiaci sa stravujú v zariadeniach školského stravovania v zriaďovateľskej pôsobnosti obce, štátom uznanej cirkvi alebo náboženskej spoločnosti a inej právnickej osoby alebo fyzickej osoby,
+- k) všetkých žiakov základných škôl a základných škôl pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami podľa stavu k 15. septembru začínajúceho školského roka v zriaďovateľskej pôsobnosti regionálneho úradu, ak tieto školy nemajú na území obce zriadené vlastné zariadenie školského stravovania a žiaci sa stravujú v zariadeniach školského stravovania v zriaďovateľskej pôsobnosti obce, štátom uznanej cirkvi alebo náboženskej spoločnosti a inej právnickej osoby alebo fyzickej osoby,
 
 - l) žiakov základných škôl podľa stavu k 15. septembru začínajúceho školského roka v zriaďovateľskej pôsobnosti obce,
 
@@ -48,9 +48,9 @@
 
 (7) Údaje podľa odsekov 1 až 5 je
 
-- a) obec povinná poskytnúť za všetky školy a školské zariadenia so sídlom na jej území príslušnému okresnému úradu v sídle kraja najneskôr do 5. októbra kalendárneho roka,
+- a) obec povinná poskytnúť za všetky školy a školské zariadenia so sídlom na jej území príslušnému regionálnemu úradu najneskôr do 5. októbra kalendárneho roka,
 
-- b) okresný úrad v sídle kraja povinný oznámiť za obce vo svojej územnej pôsobnosti ministerstvu do 15. októbra kalendárneho roka.
+- b) regionálny úrad povinný oznámiť za obce vo svojej územnej pôsobnosti ministerstvu do 15. októbra kalendárneho roka.
 
 (8) Podrobnosti o požadovaných údajoch a forme ich poskytnutia oznámi ministerstvo zriaďovateľom škôl a školských zariadení a obciam každoročne najneskôr do 31. augusta.
 

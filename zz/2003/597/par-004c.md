@@ -1,6 +1,6 @@
 # § 4c Financovanie havarijných situácií
 
-(1) Ministerstvo môže prideliť z kapitoly ministerstva a z kapitoly ministerstva vnútra v priebehu roka na základe skutočnej potreby zriaďovateľovi verejnej školy, zriaďovateľovi štátnej materskej školy a zriaďovateľovi štátneho školského zariadenia, ktorý o to požiada, účelovo finančné prostriedky na bežné výdavky na riešenie vzniknutých havarijných situácií a na kapitálové výdavky na riešenie vzniknutých havarijných situácií. Žiadosť predkladá zriaďovateľ ministerstvu prostredníctvom príslušného okresného úradu v sídle kraja v priebehu roka. Havarijné situácie sú:
+(1) Ministerstvo môže prideliť z kapitoly ministerstva v priebehu roka na základe skutočnej potreby zriaďovateľovi verejnej školy, zriaďovateľovi štátnej materskej školy a zriaďovateľovi štátneho školského zariadenia, ktorý o to požiada, účelovo finančné prostriedky na bežné výdavky na riešenie vzniknutých havarijných situácií a na kapitálové výdavky na riešenie vzniknutých havarijných situácií. Žiadosť predkladá zriaďovateľ ministerstvu prostredníctvom príslušného regionálneho úradu v priebehu roka. Havarijné situácie sú:
 
 - a) udalosť, ktorou boli vážne ohrozené životy a zdravie osôb,
 
@@ -14,7 +14,7 @@
 
 - b) predpokladané nevyhnutné náklady na odstránenie havarijnej situácie.
 
-(4) Ak na základe popisu vzniknutej havarijnej situácie a príčin jej vzniku podľa odseku 3 písm. a) nie je možné určiť, či došlo k porušeniu povinnosti podľa odseku 2, ministerstvo vyzve zriaďovateľa prostredníctvom okresného úradu v sídle kraja na predloženie
+(4) Ak na základe popisu vzniknutej havarijnej situácie a príčin jej vzniku podľa odseku 3 písm. a) nie je možné určiť, či došlo k porušeniu povinnosti podľa odseku 2, ministerstvo vyzve zriaďovateľa prostredníctvom regionálneho úradu na predloženie
 
 - a) dokladu o odbornom posúdení vzniknutej havarijnej situácie a príčin jej vzniku znalcom v príslušnom odbore alebo odvetví,<sup>22fa</sup>)
 

@@ -4,7 +4,7 @@
 
 (2) Dotáciu na činnosti podľa odseku 1 (ďalej len „aktivity“) možno poskytnúť po splnení podmienok podľa tohto zákona a podľa osobitného predpisu<sup>23i</sup>) žiadateľom, ktorými sú:
 
-- a) zriaďovatelia škôl a školských zariadení okrem zriaďovateľa školy a školského zariadenia, ktorým je okresný úrad v sídle kraja,
+- a) zriaďovatelia škôl a školských zariadení okrem zriaďovateľa školy a školského zariadenia, ktorým je regionálny úrad,
 
 - b) občianske združenia,<sup>23j</sup>) nadácie<sup>23k</sup>) a neziskové organizácie poskytujúce všeobecne prospešné služby<sup>23l</sup>) alebo štátom uznaná cirkev alebo náboženská spoločnosť,<sup>23m</sup>) ktoré nie sú zriaďovateľmi škôl a školských zariadení a podieľajú sa na výchove a vzdelávaní v školách a v školských zariadeniach alebo v spolupráci so školou alebo školským zariadením,
 

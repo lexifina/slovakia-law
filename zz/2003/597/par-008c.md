@@ -1,12 +1,12 @@
 # § 8c Dohodovacie konanie
 
-(1) Ministerstvo môže v rámci dohodovacieho konania so zriaďovateľom na jeho žiadosť upraviť v rámci kapitoly ministerstva alebo v rámci kapitoly ministerstva vnútra objem pridelených finančných prostriedkov. Dohodovacím konaním je úprava výšky pridelených finančných prostriedkov zriaďovateľovi podľa § 4 o objem finančných prostriedkov pridelený najmä z dôvodu
+(1) Ministerstvo môže v rámci dohodovacieho konania so zriaďovateľom na jeho žiadosť upraviť v rámci kapitoly ministerstva objem pridelených finančných prostriedkov. Dohodovacím konaním je úprava výšky pridelených finančných prostriedkov zriaďovateľovi podľa § 4 o objem finančných prostriedkov pridelený najmä z dôvodu
 
 - a) nedostatku finančných prostriedkov na osobné náklady a na prevádzkové náklady,
 
 - b) nákladov súvisiacich s činnosťou predsedu školskej maturitnej komisie, predsedu predmetovej maturitnej komisie a jej členov vrátane odborníkov z praxe, predsedu skúšobnej komisie pre záverečnú skúšku a pre absolventskú skúšku a jej členov vrátane odborníkov z praxe podľa osobitného predpisu.<sup>25aa</sup>)
 
-(2) Dohodovacie konanie sa začína na žiadosť zriaďovateľa. Žiadosť predkladá zriaďovateľ ministerstvu prostredníctvom príslušného okresného úradu v sídle kraja v priebehu kalendárneho roka.
+(2) Dohodovacie konanie sa začína na žiadosť zriaďovateľa. Žiadosť predkladá zriaďovateľ ministerstvu prostredníctvom príslušného regionálneho úradu v priebehu kalendárneho roka.
 
 (3) Žiadosť zriaďovateľa podľa odseku 1 písm. a) obsahuje najmä zdôvodnenie nedostatku finančných prostriedkov poskytnutých školám, štátnym materským školám a štátnym školským zariadeniam
 

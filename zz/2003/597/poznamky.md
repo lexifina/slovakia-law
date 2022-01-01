@@ -46,10 +46,6 @@
 
 - 20) Napríklad § 476 až 480 Občianskeho zákonníka.
 
-- 20a) § 13 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
-
-- 20aa) § 2 písm. k) zákona č. 245/2008 Z. z.
-
 - 20b) § 13 ods. 6 až 9 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
 
 - 21) § 76a Zákonníka práce v znení zákona č. 257/2011 Z. z.

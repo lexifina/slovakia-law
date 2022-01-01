@@ -1,6 +1,6 @@
 # § 8b
 
-(1) Ministerstvo alebo okresný úrad v sídle kraja uloží zriaďovateľovi
+(1) Ministerstvo alebo regionálny úrad uloží zriaďovateľovi
 
 - a) pokutu 200 eur za nedodržanie lehoty určenej na
 
@@ -18,7 +18,7 @@
 
   - 7. úpravu finančných prostriedkov pridelených prostredníctvom príspevku na výchovu a vzdelávanie na nový školský rok pre jednotlivé materské školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 6b ods. 6 písm. b),
 
-  - 8. predloženie správy o hospodárení okresnému úradu v sídle kraja podľa § 7 ods. 1,
+  - 8. predloženie správy o hospodárení regionálnemu úradu podľa § 7 ods. 1,
 
   - 9. predloženie údajov o počtoch detí alebo žiakov a ďalších údajov podľa § 7 ods. 4 alebo
 
@@ -64,7 +64,7 @@
 
 - g) pokutu od 300 eur do 33 000 eur za poskytnutie nesprávnych údajov o počtoch detí alebo žiakov a ďalších údajov podľa § 7 ods. 4.
 
-(2) Ministerstvo alebo okresný úrad v sídle kraja uloží
+(2) Ministerstvo alebo regionálny úrad uloží
 
 - a) zriaďovateľovi<sup>24ca</sup>) školy alebo školského zariadenia za
 
@@ -82,9 +82,9 @@
 
   - 3. poskytnutie nepravdivých údajov potrebných na rozdeľovanie a poukazovanie výnosu dane z príjmov obciam za školy a školské zariadenia vo svojej zriaďovateľskej pôsobnosti podľa § 7a ods. 1 až 5 pokutu od 300 eur do 33 000 eur.
 
-(3) Ministerstvo alebo okresný úrad v sídle kraja pri určení výšky pokuty podľa odseku 1 písm. f) a g) a odseku 2 písm. a) tretieho bodu a písm. b) tretieho bodu prihliada na závažnosť, spôsob a rozsah porušenia povinnosti, na následky takého porušenia a ich trvanie.
+(3) Ministerstvo alebo regionálny úrad pri určení výšky pokuty podľa odseku 1 písm. f) a g) a odseku 2 písm. a) tretieho bodu a písm. b) tretieho bodu prihliada na závažnosť, spôsob a rozsah porušenia povinnosti, na následky takého porušenia a ich trvanie.
 
-(4) Uložením pokuty nezaniká povinnosť, za ktorej porušenie sa uložila. Ministerstvo alebo okresný úrad v sídle kraja môže uložiť pokutu aj opakovane, a to až do odstránenia nezákonného stavu.
+(4) Uložením pokuty nezaniká povinnosť, za ktorej porušenie sa uložila. Ministerstvo alebo regionálny úrad môže uložiť pokutu aj opakovane, a to až do odstránenia nezákonného stavu.
 
 (5) O uložení pokuty podľa odsekov 1 a 2 rozhoduje ten, kto zistil porušenie zákona. Na konanie o uložení pokuty podľa tohto zákona sa vzťahuje všeobecný predpis o správnom konaní.<sup>25a</sup>)
 
@@ -92,4 +92,4 @@
 
 (7) Pokuta uložená podľa tohto zákona je splatná do 30 dní odo dňa nadobudnutia právoplatnosti rozhodnutia, ktorým bola uložená.
 
-(8) Pokutu možno uložiť do jedného roka odo dňa, keď ministerstvo alebo okresný úrad v sídle kraja zistili porušenie povinností podľa tohto zákona, najneskôr do troch rokov odo dňa, keď k porušeniu povinnosti došlo.
+(8) Pokutu možno uložiť do jedného roka odo dňa, keď ministerstvo alebo regionálny úrad zistili porušenie povinností podľa tohto zákona, najneskôr do troch rokov odo dňa, keď k porušeniu povinnosti došlo.

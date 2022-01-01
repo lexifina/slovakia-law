@@ -1,10 +1,10 @@
 # § 4aa Príspevok na dopravu
 
-(1) Ministerstvo pridelí z kapitoly ministerstva a z kapitoly ministerstva vnútra príspevok na dopravu na žiadosť zriaďovateľa verejnej školy, materskej školy zriadenej obcou, štátnej materskej školy, cirkevnej školy alebo zriaďovateľa cirkevnej materskej školy; to neplatí, ak obec alebo vyšší územný celok zabezpečuje bezplatnú autobusovú dopravu dieťaťa, pre ktoré je predprimárne vzdelávanie povinné, alebo žiaka formou zmluvy o službách vo verejnom záujme<sup>22ba</sup>) z dotácie na financovanie bezplatnej autobusovej dopravy detí, pre ktoré je predprimárne vzdelávanie povinné, žiakov základných škôl alebo žiakov stredných škôl poskytnutej podľa osobitného predpisu.<sup>22bb</sup>)
+(1) Ministerstvo pridelí z kapitoly ministerstva príspevok na dopravu na žiadosť zriaďovateľa verejnej školy, materskej školy zriadenej obcou, štátnej materskej školy, cirkevnej školy alebo zriaďovateľa cirkevnej materskej školy; to neplatí, ak obec alebo vyšší územný celok zabezpečuje bezplatnú autobusovú dopravu dieťaťa, pre ktoré je predprimárne vzdelávanie povinné, alebo žiaka formou zmluvy o službách vo verejnom záujme<sup>22ba</sup>) z dotácie na financovanie bezplatnej autobusovej dopravy detí, pre ktoré je predprimárne vzdelávanie povinné, žiakov základných škôl alebo žiakov stredných škôl poskytnutej podľa osobitného predpisu.<sup>22bb</sup>)
 
 (2) Škola, ktorú dieťa, pre ktoré je predprimárne vzdelávanie povinné, alebo žiak navštevuje, mesačne uhrádza jeho zákonnému zástupcovi cestovné náklady na dopravu takého dieťaťa alebo takého žiaka z obce jeho trvalého pobytu do školy a späť vo výške najnižšieho žiackeho zľavneného cestovného v pravidelnej autobusovej doprave, ak zriaďovateľ nezabezpečí dopravu takého dieťaťa alebo takého žiaka inak.
 
-(3) Zákonný zástupca dieťaťa verejnej školy, materskej školy zriadenej obcou, štátnej materskej školy, cirkevnej školy alebo cirkevnej materskej školy, pre ktoré je predprimárne vzdelávanie povinné, a zákonný zástupca žiaka verejnej školy alebo cirkevnej školy majú právo na úhradu cestovných nákladov na dopravu dieťaťa alebo žiaka podľa odseku 2 z obce jeho trvalého pobytu do
+(3) Zákonný zástupca dieťaťa materskej školy zriadenej obcou, štátnej materskej školy alebo cirkevnej materskej školy, pre ktoré je predprimárne vzdelávanie povinné, a zákonný zástupca žiaka verejnej školy alebo cirkevnej školy majú právo na úhradu cestovných nákladov na dopravu dieťaťa alebo žiaka podľa odseku 2 z obce jeho trvalého pobytu do
 
 - a) verejnej školy v spoločnom školskom obvode,<sup>22d</sup>) v ktorej žiak plní povinnú školskú dochádzku, a späť, ak obec, v ktorej má žiak trvalý pobyt, na účel zabezpečenia plnenia povinnej školskej dochádzky nezriadi základnú školu,
 
@@ -32,7 +32,7 @@
 
 (6) Doba trvania zdravotného stavu dieťaťa, pre ktoré je predprimárne vzdelávanie povinné, alebo zdravotného stavu žiaka, ktorý neumožňuje jeho prepravu do školy hromadnou dopravou, sa preukazuje potvrdením lekára so špecializáciou v špecializačnom odbore pediatria, ktorý poskytuje všeobecnú ambulantnú starostlivosť pre deti a dorast.
 
-(7) Žiadosť o príspevok na dopravu predkladá zriaďovateľ ministerstvu prostredníctvom príslušného okresného úradu v sídle kraja najneskôr do 30. septembra príslušného kalendárneho roka.
+(7) Žiadosť o príspevok na dopravu predkladá zriaďovateľ ministerstvu prostredníctvom príslušného regionálneho úradu najneskôr do 30. septembra príslušného kalendárneho roka.
 
 (8) Žiadosť o príspevok na dopravu obsahuje údaje o výške denných cestovných nákladov na dopravu detí, pre ktoré je predprimárne vzdelávanie povinné, alebo žiakov do školy z miesta trvalého pobytu a späť v cene najnižšieho žiackeho zľavneného cestovného v pravidelnej autobusovej doprave a počte dochádzajúcich detí, pre ktoré je predprimárne vzdelávanie povinné, alebo počte dochádzajúcich žiakov.
 

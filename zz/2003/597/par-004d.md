@@ -1,14 +1,14 @@
 # § 4d Financovanie rozvojových projektov
 
-(1) Ministerstvo môže prideliť z kapitoly ministerstva a z kapitoly ministerstva vnútra účelovo viazané finančné prostriedky na realizáciu rozvojového projektu najviac do výšky 10 000 eur. Rozvojový projekt je projekt zameraný na rozvoj výchovy a vzdelávania v školách a školských zariadeniach a služieb spojených s výchovou a vzdelávaním poskytovaných školskými účelovými zariadeniami.
+(1) Ministerstvo môže prideliť z kapitoly ministerstva účelovo viazané finančné prostriedky na realizáciu rozvojového projektu najviac do výšky 10 000 eur. Rozvojový projekt je projekt zameraný na rozvoj výchovy a vzdelávania v školách a školských zariadeniach a služieb spojených s výchovou a vzdelávaním poskytovaných školskými účelovými zariadeniami.
 
-(2) Žiadosť o financovanie rozvojového projektu predkladá zriaďovateľ školy alebo školského zariadenia ministerstvu prostredníctvom príslušného okresného úradu v sídle kraja alebo priamo ministerstvu. Ministerstvo zverejňuje na svojom webovom sídle v priebehu kalendárneho roka
+(2) Žiadosť o financovanie rozvojového projektu predkladá zriaďovateľ školy alebo školského zariadenia ministerstvu prostredníctvom príslušného regionálneho úradu alebo priamo ministerstvu. Ministerstvo zverejňuje na svojom webovom sídle v priebehu kalendárneho roka
 
 - a) zoznam oblastí rozvojových projektov,
 
 - b) výzvy na podanie žiadosti o financovanie rozvojového projektu a
 
-- c) informáciu o tom, či sa žiadosť o financovanie rozvojového projektu predkladá ministerstvu prostredníctvom okresného úradu v sídle kraja alebo priamo ministerstvu.
+- c) informáciu o tom, či sa žiadosť o financovanie rozvojového projektu predkladá ministerstvu prostredníctvom regionálneho úradu alebo priamo ministerstvu.
 
 (3) Žiadosť podľa odseku 2 obsahuje najmä
 
