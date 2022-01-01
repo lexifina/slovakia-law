@@ -40,6 +40,28 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 
 - 7. V § 15 ods. 17 sa slová „orgány policajného zboru“ nahrádzajú slovami „Policajný zbor“.
 
+- 8. § 16 sa dopĺňa odsekom 12, ktorý znie:
+
+- „(12)
+
+- Ten, kto vykonáva triedený zber komunálnych odpadov z obalov a komunálnych odpadov z neobalových výrobkov, je povinný
+
+- a)
+
+- zasielať ministerstvu a príslušnej organizácii zodpovednosti výrobcov pre obaly, s ktorou má uzatvorenú zmluvu podľa odseku 3, údaje za
+
+- 1.
+
+- kalendárny štvrťrok najneskôr do konca druhého mesiaca nasledujúceho po uplynutí kalendárneho štvrťroka v súlade s vykonávacím predpisom,
+
+- 2.
+
+- kalendárny rok najneskôr do 30. júna kalendárneho roka v súlade s vykonávacím predpisom,
+
+- b)
+
+- zverejňovať na svojom webovom sídle do 31. augusta a do 28. februára kalendárneho roka za predchádzajúce kalendárne polroky údaje ustanovené vo vykonávacom predpise.“.
+
 - 9. V § 19 ods. 1 písmeno g) znie:
 
 - „g)
@@ -70,6 +92,18 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 
 - 14. V § 28 ods. 4 písm. h) sa na konci čiarka nahrádza bodkočiarkou a pripájajú sa tieto slová: „táto povinnosť sa nevzťahuje na organizáciu zodpovednosti výrobcov pre obaly,“.
 
+- 15. V § 28 ods. 4 písm. p) sa slová „podľa odseku 10“ nahrádzajú slovami „ustanovenom vo vykonávacom predpise“.
+
+- 16. V § 28 ods. 4 písm. z) sa slová „podľa odseku 9 písmen c), d), f) až h)“ nahrádzajú slovami „v rozsahu ustanovenom vykonávacím predpisom“ a slová „konca mesiaca nasledujúceho“ sa nahrádzajú slovami „troch mesiacov“.
+
+- 17. V § 28 odsek 9 znie:
+
+- „(9)
+
+- Organizácia zodpovednosti výrobcov je povinná doručiť ministerstvu v ustanovenom rozsahu Správu o činnosti organizácie zodpovednosti výrobcov za predchádzajúci kalendárny rok.“.
+
+- 18. V § 28 ods. 10 sa slová „rozsahu písm. c), d), f) až h), j) a k)“ nahrádzajú slovami „ustanovenom rozsahu“.
+
 - 19. V § 52 odsek 24 znie:
 
 - „(24)
@@ -79,6 +113,8 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 - 20. Poznámka pod čiarou k odkazu 72a znie:
 
 - „<sup>72a</sup>) Čl. 3 piaty bod nariadenia (ES) č. 1907/2006 v platnom znení.“.
+
+- 21. V § 56 ods. 7 sa slová „200 m<sup>2</sup>“ nahrádzajú slovami „100 m<sup>2</sup>“.
 
 - 22. V § 59 sa odsek 4 dopĺňa písmenami d) a e), ktoré znejú:
 
@@ -394,6 +430,32 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 
 - Organizácia zodpovednosti výrobcov plní povinnosti podľa § 28 ods. 4 písm. n) a p) za kalendárny rok 2021 podľa doterajších právnych predpisov.“.
 
+- 90. Príloha č. 3 časť III sa dopĺňa deviatym bodom, ktorý znie:
+
+- „9.
+
+- ak ide o OZV pre obaly, mieru recyklácie odpadov z plastových obalov, najmenej vo výške
+
+- rok 2022 ...... 40 %,
+
+- rok 2024 ...... 34 %,
+
+- rok 2025 ...... 35 %,
+
+- rok 2027 ...... 36 %,
+
+- rok 2030 ...... 42 %,
+
+- mieru recyklácie kovových obalov, najmenej vo výške
+
+- rok 2022 až 2024 ...... 51%,
+
+- mieru recyklácie hliníkových obalov, najmenej vo výške
+
+- rok 2025 ...... 11 %,
+
+- rok 2030 ...... 31 %.“.
+
 - 91. V prílohe č. 3 bod V. znie:
 
 - „V.Cieľ odpadového hospodárstva v oblasti komunálnych odpadov
@@ -533,3 +595,23 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 - 60 % | 63 % | 66 % | 70 % | 80 %
 
 - Poznámka: Potenciál vzniku odpadov z obalov a odpadov z neobalových výrobkov v komunálnom odpade zverejní ministerstvo každoročne na svojej webovej stránke.“.
+
+- 93. Príloha č. 8a znie:
+
+- „Prípustná miera znečistenia oddelene zbieranej zložky komunálneho odpadu v zbernej nádobe podľa § 59 ods. 9 je
+
+- Rok | Prípustná miera znečistenia
+
+- 2019 | do 45 % vrátane
+
+- 2020 | do 40 % vrátane
+
+- 2021 | do 35 % vrátane
+
+- 2022 | do 30 % vrátane
+
+- 2023 | do 25 % vrátane
+
+- 2024 a nasledujúce roky | do 20 % vrátane
+
+- “.
