@@ -56,13 +56,17 @@
 
 - 11) § 66, 76, 83 a 84 zákona č. 50/1976 Zb. v znení neskorších predpisov a § 29 alebo § 37a zákona č. 24/2006 Z. z. v znení neskorších predpisov.
 
+- 11a) Čl. 4 ods. 1 nariadenia Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) (Ú. v. EÚ L 119, 4. 5. 2016) v platnom znení.
+
+- § 5 písm. e) zákona č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení zákona č. 221/2019 Z. z.
+
 - 11aa) § 8 ods. 1 zákona č. 54/2015 Z. z.
 
 - 11ab) § 8 ods. 5 až 8 zákona č. 54/2015 Z. z.
 
-- 11b) Dohovor o prístupe k informáciám, účasti verejnosti na rozhodovacom procese a prístupe k spravodlivosti v záležitostiach životného prostredia (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 43/2006 Z. z.).
+- 11b) Napríklad zákon č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratívnej záťaže využívaním informačných systémov verejnej správy a o zmene a doplnení niektorých zákonov (zákon proti byrokracii) v znení neskorších predpisov.
 
-- 11c) § 24 a 25 zákona č. 24/2006 Z. z. v znení neskorších predpisov.
+- 11c) Napríklad zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov, zákon č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 11d) Zákon č. 50/1976 Zb. v znení neskorších predpisov.
 
@@ -144,6 +148,14 @@
 
 - 36) § 15 ods. 1 písm. c) zákona č. 355/2007 Z. z.
 
+- 36a) § 3 zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
+
+- 36b) Zákon č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 36c) § 3 ods. 2 písm. a) zákona č. 422/2015 Z. z. o uznávaní dokladov o vzdelaní a o uznávaní odborných kvalifikácií a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 36d) § 2 ods. 1 písm. n) zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 37) Napríklad zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 37a) Prílohy č. 1 a 2 vyhlášky Úradu jadrového dozoru Slovenskej republiky č. 51/2006 Z. z., ktorou sa ustanovujú podrobnosti o požiadavkách na zabezpečenie fyzickej ochrany, Príloha II Dohovoru o fyzickej ochrane jadrových materiálov (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 329/2001 Z. z. o prijatí Dohovoru o fyzickej ochrane jadrových materiálov).
@@ -205,6 +217,8 @@
 - 45d) § 6 ods. 10 zákona č. 215/2004 Z. z.
 
 - Vyhláška Národného bezpečnostného úradu č. 453/2007 Z. z. o administratívnej bezpečnosti v znení neskorších predpisov.
+
+- 45e) Napríklad § 3 ods. 6 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov, zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
 - 46) Smernica Európskeho parlamentu a Rady 98/34/ES z 22. júna 1998 o postupe pri poskytovaní informácií v oblasti technických noriem a predpisov, ako aj pravidiel vzťahujúcich sa na služby informačnej spoločnosti (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 20) v platnom znení.
 
