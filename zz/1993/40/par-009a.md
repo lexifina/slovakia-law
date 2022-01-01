@@ -28,11 +28,11 @@
 
 - a) doklad totožnosti,
 
-- b) rodný list a
+- b) rodný list, ak sa žiadateľ narodil v cudzine a narodenie nie je zapísané v osobitnej matrike,
 
-- c) doklad o osobnom stave, ktorým je sobášny list, právoplatný rozsudok alebo potvrdenie o rozvode manželstva, úmrtný list manžela, ak je žiadateľ ženatý muž alebo vydatá žena, rozvedený alebo ovdovený,
+- c) doklad o osobnom stave, ktorým je sobášny list, právoplatný rozsudok alebo potvrdenie o rozvode manželstva, úmrtný list manžela, ak je žiadateľ ženatý muž alebo vydatá žena, rozvedený alebo ovdovený; sobášny list a úmrtný list manžela sa nepredkladajú, ak sobáš a úmrtie manžela nastali na území Slovenskej republiky, alebo sú zapísané v osobitnej matrike, pričom žiadateľ uvedie miesto sobáša alebo miesto úmrtia manžela,
 
-- d) ďalšie doklady potrebné na posúdenie žiadosti, ak je vyzvaný obvodným úradom v sídle kraja na ich predloženie.
+- d) ďalšie doklady potrebné na posúdenie žiadosti, ak je vyzvaný obvodným úradom v sídle kraja na ich predloženie a údaje v nich obsiahnuté nie je možné získať z informačných systémov podľa osobitného predpisu.<sup>12aa</sup>)
 
 (5) Ak sa žiadateľ nenachádza v Ústrednej evidencii nadobudnutia a straty štátneho občianstva Slovenskej republiky alebo ak sú pochybnosti o jeho štátnom občianstve, obvodný úrad v sídle kraja požiada ministerstvo o súhlas s vydaním osvedčenia o štátnom občianstve Slovenskej republiky.
 
