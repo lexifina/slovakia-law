@@ -185,3 +185,7 @@ Zákon č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl 
   - Poznámka pod čiarou k odkazu 27 znie:
 
   - „<sup>27</sup>) § 161l zákona č. 245/2008 Z. z. v znení zákona č. 273/2021 Z. z.“.
+
+- 5. V § 9l ods. 7 sa vypúšťa slovo „vnútra“.
+
+- 6. V § 9l celom texte sa slová „okresný úrad v sídle kraja“ vo všetkých tvaroch nahrádzajú slovami „regionálny úrad školskej správy“ v príslušnom tvare.
