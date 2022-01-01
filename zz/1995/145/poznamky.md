@@ -414,6 +414,12 @@
 
 - 36mk) Čl. 74, príloha XV kapitola II nariadenia (EÚ) 2017/745.
 
+- 36maw) § 12 zákona č. 540/2021 Z. z. o kategorizácii ústavnej zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
+
+- 36max) § 13 zákona č. 540/2021 Z. z.
+
+- 36may) § 14 zákona č. 540/2021 Z. z.
+
 - 36n) Zákon č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v znení neskorších predpisov.
 
 - 36p) Zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
