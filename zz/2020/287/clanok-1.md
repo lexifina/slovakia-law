@@ -44,6 +44,8 @@ Zákon č. 30/2019 Z. z. o hazardných hrách a o zmene a doplnení niektorých 
 
   - Poznámka pod čiarou k odkazu 24 sa vypúšťa.
 
+- 6. V § 33 ods. 2 sa slová „písm. c) a e) až h)“ nahrádzajú slovami „písm. c) až h)“.
+
 - 7. V § 40 ods. 2 sa slová „podľa § 79 ods. 3, 4, 6 alebo 7“ nahrádzajú slovami „podľa § 79 ods. 3, 4, 5 alebo 6“.
 
 - 8. V § 77 odsek 8 znie:
