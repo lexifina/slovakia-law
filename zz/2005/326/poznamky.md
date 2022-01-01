@@ -282,6 +282,24 @@
 
 - 74f) § 139 ods. 1 písm. a) a b) zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
+- 74g) § 2 ods. 3 zákona č. 49/2002 Z. z. o ochrane pamiatkového fondu v znení zákona č. 104/2014 Z. z.
+
+- 74h) § 32 ods. 1 zákona č. 49/2002 Z. z. v znení neskorších predpisov.
+
+- 74i) § 11 ods. 2 písm. d) zákona č. 49/2002 Z. z. v znení neskorších predpisov.
+
+- 74j) Zákon č. 281/1997 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 319/2002 Z. z. v znení neskorších predpisov.
+
+- § 62 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
+
+- 74k) Druhá časť zákona č. 582/2004 Z. z. o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady v znení neskorších predpisov.
+
+- 74l) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
+
+- 74m) § 5a ods. 8 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení zákona č. 382/2011 Z. z.
+
 - 75) Napríklad § 18 až 20a a § 20f až 21 Občianskeho zákonníka v znení neskorších predpisov.
 
 - 75a) § 4 zákona č. 139/2002 Z. z. o rybárstve v znení neskorších predpisov.
