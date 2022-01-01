@@ -1,1 +1,1 @@
-Príloha č. 3 k vyhláške č. 292/2020 Z. z. [ROZSAH A VYUŽÍVANIE ADMINISTRATÍVNYCH ZDROJOV NA ÚČELY ŠTÁTNEJ ŠTATISTIKY](../assets/3313906c132d745fb98528db69aa03ab1630ff2ddcb27b56c1d8d618f20e2ac2.pdf)
+Príloha č. 3 k vyhláške č. 292/2020 Z. z. [Príloha č. 3 k vyhláške č. 292/2020 Z. z.](../assets/f62042c2b09af86307b9179bf82660e3fc34279e8afb65fae31c69e2f999e92b.pdf)

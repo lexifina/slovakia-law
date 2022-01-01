@@ -1,1 +1,1 @@
-Príloha č. 1 k vyhláške č. 292/2020 Z. z. [ŠTATISTICKÉ ZISŤOVANIA VYKONÁVANÉ ŠTATISTICKÝM ÚRADOM SLOVENSKEJ REPUBLIKY V ROKOCH 2021 AŽ 2023](../assets/76e54ad6d4ce81fc192cb18b192140b78eda06d08b6afab33188ed9867f4ca64.pdf)
+Príloha č. 1 k vyhláške č. 292/2020 Z. z. [Príloha č. 1 k vyhláške č. 292/2020 Z. z.](../assets/b9607a53905d73cc1038162f8d9b919563976c0fd9c8c435f6c25b0e2f62d04f.pdf)
