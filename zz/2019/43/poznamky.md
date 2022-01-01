@@ -8,13 +8,15 @@
 
 - 5) Zákon č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 5a) § 170 ods. 21 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+
+- § 25 ods. 5 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 221/2019 Z. z.
+
 - 6) Napríklad nariadenie (EÚ) č. 651/2014 v platnom znení, nariadenie (EÚ) č. 702/2014 v platnom znení, Usmernenia Európskej únie o štátnej pomoci v odvetviach poľnohospodárstva a lesného hospodárstva a vo vidieckych oblastiach na roky 2014 až 2020 (2014/C 204/01) (Ú. v. EÚ C 204, 1. 7. 2014), zákon č. 358/2015 Z. z. o úprave niektorých vzťahov v oblasti štátnej pomoci a minimálnej pomoci a o zmene a doplnení niektorých zákonov (zákon o štátnej pomoci).
 
 - 7) § 9 zákona č. 280/2017 Z. z. o poskytovaní podpory a dotácie v pôdohospodárstve a rozvoji vidieka a o zmene zákona č. 292/2014 Z. z. o príspevku poskytovanom z európskych štrukturálnych a investičných fondov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 8) Časť 2.2. Usmernení o štátnej pomoci na záchranu a reštrukturalizáciu nefinančných podnikov v ťažkostiach (2014/C 249/01) (U. v. EÚ C 249/1, 31. 7. 2014).
-
-- 9) § 7 ods. 3 písm. n) zákona č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 223/2011 Z. z.
 
 - 10) Zákon č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
