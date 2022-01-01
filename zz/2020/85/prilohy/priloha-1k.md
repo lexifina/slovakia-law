@@ -1,1 +1,1 @@
-Príloha č. 1 k vyhláške č. 85/2020 Z. z. [Projektové výstupy, manažérske produkty a špecializované produkty jednotlivých fáz projektu](../assets/a0334ebb940f753d5c61eca94cd5ad6b97872d6735c25a5c78b449366535b692.pdf)
+Príloha č. 1 k vyhláške č. 85/2020 Z. z. [Príloha č. 1 k vyhláške č. 85/2020 Z. z.](../assets/5ac5dece11a7bc60d9c3a0d68514ac9ac442f2a60e28b043a946bb424d44fe29.pdf)

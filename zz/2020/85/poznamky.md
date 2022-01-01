@@ -4,4 +4,4 @@
 
 - Zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení zákona č. 221/2019 Z. z.
 
-- 3) § 35 ods. 1 vyhlášky Úradu podpredsedu vlády Slovenskej republiky pre investície a informatizáciu č. 78/2020 Z. z. o štandardoch pre informačné technológie verejnej správy.
+- 3) Vyhláška Ministerstva investícií, regionálneho rozvoja a informatizácie Slovenskej republiky č. 547/2021 Z. z. o elektronizácii agendy verejnej správy.
