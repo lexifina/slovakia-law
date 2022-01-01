@@ -298,6 +298,12 @@ Zákon č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov v znení z
 
 - identifikačné údaje prevádzkovateľa malého samostatného pivovaru.“.
 
+- 72. V § 40 sa odsek 1 dopĺňa písmenom h), ktoré znie:
+
+- „h)
+
+- na výrobu a prípravu výživových doplnkov,<sup>48</sup>) ktoré sú uvádzané do daňového voľného obehu v spotrebiteľskom balení s objemom 0,15 litra a nižším.“.
+
 - 74. V § 41 ods. 1 sa slová „ods. 4 písm. f)“ nahrádzajú slovom „g)“ a na konci sa pripája táto veta: „Žiadateľ o zaradenie do evidencie podnikov musí spĺňať podmienku podľa § 9 ods. 4 písm. f).“.
 
 - 75. V § 41 sa odsek 4 dopĺňa písmenom d), ktoré znie:
