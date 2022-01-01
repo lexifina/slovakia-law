@@ -8,7 +8,7 @@
 
 (4) Vzor tlačiva daňového priznania k dani z príjmov fyzickej osoby typ A a typ B a vzor tlačiva daňového priznania k dani z príjmov právnickej osoby uvedené v prílohách č. 1 až 3 k opatreniu Ministerstva financií Slovenskej republiky z 8. novembra 2018 č. MF/010685/2018-721, ktorým sa ustanovujú vzory tlačív daňových priznaní k dani z príjmov (oznámenie č. 338/2018 Z. z.) v znení opatrenia z 22. augusta 2019 č. MF/013624/2019-721 (oznámenie č. 344/2019 Z. z.) sa použijú pri podávaní daňových priznaní u daňovníkov, ktorým posledný deň lehoty na podanie daňového priznania uplynul najneskôr 31. decembra 2020.
 
-(5) Pri plnení registračnej povinnosti a oznamovacej povinnosti fyzická osoba, právnická osoba a daňovník uvedení v odsekoch 6 až 16, správca dane a finančné riaditeľstvo postupujú od 1. januára 2021 do 31. decembra 2021 podľa odsekov 6 až 16.
+(5) Pri plnení registračnej povinnosti a oznamovacej povinnosti fyzická osoba, právnická osoba a daňovník uvedení v odsekoch 6 až 16, správca dane a finančné riaditeľstvo postupujú od 1. januára 2021 do 31. decembra 2022 podľa odsekov 6 až 16.
 
 (6) Fyzická osoba alebo právnická osoba, ktorá na území Slovenskej republiky získa povolenie na podnikanie alebo oprávnenie na podnikanie, je povinná požiadať správcu dane o registráciu do konca kalendárneho mesiaca po uplynutí mesiaca, v ktorom získala povolenie na podnikanie alebo oprávnenie na podnikanie. Na účely tohto zákona sa dňom získania povolenia na podnikanie alebo oprávnenia na podnikanie považuje deň, keď je fyzická osoba alebo právnická osoba oprávnená začať podnikať na území Slovenskej republiky.
 

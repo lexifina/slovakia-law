@@ -1,6 +1,6 @@
 # § 30c Odpočet výdavkov (nákladov) na výskum a vývoj
 
-(1) Od základu dane zníženého o odpočet daňovej straty u daňovníka, ktorý je právnickou osobou, alebo od základu dane (čiastkového základu dane) z príjmov podľa § 6 ods. 1 a 2 zníženého o odpočet daňovej straty u daňovníka, ktorý je fyzickou osobou, pri realizácii projektu výskumu a vývoja možno odpočítať 200 % výdavkov (nákladov) vynaložených na výskum a vývoj<sup>1</sup>) v zdaňovacom období, za ktoré sa podáva daňové priznanie.
+(1) Od základu dane zníženého o odpočet daňovej straty u daňovníka, ktorý je právnickou osobou, alebo od základu dane (čiastkového základu dane) z príjmov podľa § 6 ods. 1 a 2 zníženého o odpočet daňovej straty u daňovníka, ktorý je fyzickou osobou, pri realizácii projektu výskumu a vývoja možno odpočítať 100 % výdavkov (nákladov) vynaložených na výskum a vývoj<sup>1</sup>) v zdaňovacom období, za ktoré sa podáva daňové priznanie.
 
 (2) Odpočet podľa odseku 1 možno v zdaňovacom období zvýšiť o 100 % kladného rozdielu medzi priemerom úhrnu výdavkov (nákladov) vynaložených v
 

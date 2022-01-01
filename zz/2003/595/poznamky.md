@@ -56,7 +56,7 @@
 
 - 17) Napríklad zákon Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení neskorších predpisov.
 
-- 17a) § 152 Zákonníka práce.
+- 17a) Napríklad § 152 Zákonníka práce.
 
 - 17b) § 152a Zákonníka práce.
 
@@ -430,7 +430,13 @@
 
 - 80cd) § 156 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
 
+- 80ce) § 4 ods. 5 a 6 zákona č. 203/2011 Z. z. v znení neskorších predpisov.
+
+- 80cf) § 105, 154, 220h a 221 Obchodného zákonníka.
+
 - 80d) § 154 ods. 1 písm. i) zákona č. 563/2009 Z. z.
+
+- 81) § 53d zákona č. 563/2009 Z. z. v znení neskorších predpisov.
 
 - 82) § 44 až 47 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
@@ -650,6 +656,8 @@
 
 - 120s) § 8 ods. 2 zákona č. 112/2018 Z. z.
 
+- 120t) Napríklad Nariadenie Európskeho parlamentu a Rady (EÚ) č. 1303/2013 zo 17. decembra 2013, ktorým sa stanovujú spoločné ustanovenia o Európskom fonde regionálneho rozvoja, Európskom sociálnom fonde, Kohéznom fonde, Európskom poľnohospodárskom fonde pre rozvoj vidieka a Európskom námornom a rybárskom fonde a ktorým sa stanovujú všeobecné ustanovenia o Európskom fonde regionálneho rozvoja, Európskom sociálnom fonde, Kohéznom fonde a Európskom námornom a rybárskom fonde, a ktorým sa zrušuje nariadenie Rady (ES) č. 1083/2006 (Ú. v. EÚ L 347, 20. 12. 2013) v platnom znení, zákon č. 323/2015 Z. z. o finančných nástrojoch financovaných z európskych štrukturálnych a investičných fondov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 368/2021 Z. z. o mechanizme na podporu obnovy a odolnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 121) § 24 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
 - 122a) Napríklad Viedenský dohovor o diplomatických stykoch (vyhláška ministra zahraničných vecí č. 157/1964 Zb.), Viedenský dohovor o konzulárnych stykoch (vyhláška ministra zahraničných vecí č. 32/1969 Zb.).
@@ -669,6 +677,8 @@
 - 125a) § 2 ods. 1 písm. d) tretí bod zákona č. 600/2003 Z. z.
 
 - 126) § 79 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
+
+- 126a) § 4 ods. 3 písm. c) zákona č. 544/2010 Z. z. o dotáciách v pôsobnosti Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky v znení neskorších predpisov.
 
 - 127) §155 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
@@ -769,6 +779,8 @@
 - 144) § 10 zákona Slovenskej národnej rady č. 323/1992 Zb. v znení neskorších predpisov.
 
 - 145) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
+
+- 145a) Napríklad § 10 ods. 2 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení zákona č. 273/2015 Z. z., zákon č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratívnej záťaže využívaním informačných systémov verejnej správy a o zmene a doplnení niektorých zákonov (zákon proti byrokracii) v znení neskorších predpisov.
 
 - 146) § 31 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
 
