@@ -24,7 +24,7 @@
 
 - d) deň nadobudnutia účinnosti plnomocenstva.
 
-(6) Daňový úrad Bratislava vydá na žiadosť zdaniteľnej osoby najneskôr do siedmich dní odo dňa doručenia žiadosti osobitné osvedčenie o pridelení osobitného identifikačného čísla pre daň, pod ktorým táto zdaniteľná osoba bude ako daňový zástupca podľa odseku 2 konať v mene a na účet zastúpenej zahraničnej osoby. Pod týmto osobitným identifikačným číslom pre daň môže daňový zástupca podľa odseku 2 konať v mene a na účet viacerých zahraničných osôb. Žiadosť podľa prvej vety sa podáva na tlačive, ktorého vzor zverejní finančné riaditeľstvo na webovom sídle finančného riaditeľstva.
+(6) Daňový úrad Bratislava pridelí na žiadosť zdaniteľnej osoby najneskôr do siedmich dní odo dňa doručenia žiadosti osobitné identifikačné číslo pre daň, pod ktorým táto zdaniteľná osoba koná ako daňový zástupca podľa odseku 2 v mene a na účet zastúpenej zahraničnej osoby; proti tomuto rozhodnutiu nemožno podať odvolanie. Pod týmto osobitným identifikačným číslom pre daň môže daňový zástupca podľa odseku 2 konať v mene a na účet viacerých zahraničných osôb. Žiadosť podľa prvej vety sa podáva na tlačive, ktorého vzor zverejní finančné riaditeľstvo na webovom sídle finančného riaditeľstva.
 
 (7) Daňový zástupca podľa odseku 2 je povinný písomne oznámiť Daňovému úradu Bratislava meno a priezvisko alebo názov zastúpenej zahraničnej osoby a adresu jej sídla, miesta podnikania, prevádzkarne, bydliska alebo miesta, kde sa obvykle zdržiava, a to do desiatich dní po skončení kalendárneho mesiaca, v ktorom bolo udelené plnomocenstvo podľa odseku 3, a do desiatich dní po skončení kalendárneho mesiaca, v ktorom bolo odvolané alebo vypovedané plnomocenstvo podľa odseku 3. Oznámenie podľa prvej vety sa podáva na tlačive, ktorého vzor zverejní finančné riaditeľstvo na webovom sídle finančného riaditeľstva.
 
@@ -46,9 +46,9 @@
 
 (12) Ak zahraničná osoba zastúpená daňovým zástupcom podľa odseku 2 dodá v tuzemsku tovar alebo službu a týmto dodaním prestane plniť podmienku podľa odseku 1 písm. c) a písomne neodvolá plnomocenstvo podľa odseku 3 najneskôr ku dňu, ktorý predchádza dňu dodania tohto tovaru alebo služby, Daňový úrad Bratislava uloží tejto zahraničnej osobe pokutu do výšky 10 000 eur.
 
-(13) Daňový úrad Bratislava odníme daňovému zástupcovi podľa odseku 2 osobitné osvedčenie o pridelení osobitného identifikačného čísla pre daň, ak daňový zástupca požiada o jeho odňatie.
+(13) Daňový úrad Bratislava zruší daňovému zástupcovi podľa odseku 2 osobitné identifikačné číslo pre daň, ak daňový zástupca požiada o jeho zrušenie; proti tomuto rozhodnutiu nemožno podať odvolanie.
 
-(14) Daňový úrad Bratislava môže odňať daňovému zástupcovi podľa odseku 2 osobitné osvedčenie o pridelení osobitného identifikačného čísla pre daň, ak daňový zástupca
+(14) Daňový úrad Bratislava môže zrušiť daňovému zástupcovi podľa odseku 2 osobitné identifikačné číslo pre daň, ak daňový zástupca
 
 - a) opakovane poruší povinnosti podľa odseku 7, odseku 8 alebo odseku 9,
 

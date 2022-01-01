@@ -34,7 +34,7 @@
 
 - d) sa zrušuje bez likvidácie, a to dňom, ktorý predchádza dňu jeho zániku,
 
-- e) je fyzickou osobou pokračujúcou v živnosti po úmrtí platiteľa podľa § 83, a to posledným dňom posledného zdaňovacieho obdobia, v ktorom sa skončí konanie o dedičstve,
+- e) je fyzickou osobou pokračujúcou v podnikaní po úmrtí platiteľa podľa § 83, a to posledným dňom posledného zdaňovacieho obdobia, v ktorom sa skončí konanie o dedičstve,
 
 - f) nastane skutočnosť na zmenu registrácie pre daň podľa § 6a ods. 2, a to dňom, ktorý predchádza dňu, keď táto skutočnosť nastala.
 

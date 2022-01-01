@@ -49,3 +49,7 @@ Príloha č. 6 k zákonu č. 222/2004 Z. z.
   - 23. Smernica Rady (EÚ) 2019/1995 z 21. novembra 2019, ktorou sa mení smernica 2006/112/ES, pokiaľ ide o ustanovenia týkajúce sa predaja tovaru na diaľku a určitých domácich dodaní tovaru (Ú. v. EÚ L 310, 2. 12. 2019).
 
   - 24. Rozhodnutie Rady EÚ 2020/1109 z 20. júla 2020, ktorým sa v reakcii na pandémiu COVID-19 menia smernice (EÚ) 2017/2455 a (EÚ) 2019/1995, pokiaľ ide o dátumy transpozície a uplatňovania (Ú. v. EÚ L 244, 29. 7. 2020).
+
+  - 26. Smernica Rady (EÚ) 2020/1756 z 20. novembra 2020, ktorou sa mení smernica 2006/112/ES o spoločnom systéme dane z pridanej hodnoty, pokiaľ ide o identifikáciu zdaniteľných osôb v Severnom Írsku (Ú. v. EÚ L 396, 25. 11. 2020).
+
+  - 27. Smernica Rady (EÚ) 2021/1159 z 13. júla 2021, ktorou sa mení smernica 2006/112/ES, pokiaľ ide o dočasné oslobodenia od dane pri dovoze a pri určitých dodaniach v reakcii na pandémiu ochorenia COVID-19 (Ú. v. EÚ L 250, 15. 7. 2021).

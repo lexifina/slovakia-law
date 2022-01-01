@@ -22,7 +22,7 @@
 
   - 3. sa začína aj skončí odoslanie alebo preprava tovaru pri dodaní tovaru podľa § 68 ods. 1 písm. b) tretieho bodu.
 
-(2) Ak sa zdaniteľná osoba, ktorá dodáva tovar podľa § 68 ods. 1 písm. b) prvého bodu a tretieho bodu, a zdaniteľná osoba neusadená v členskom štáte spotreby, ktorá dodáva služby podľa § 68 ods. 1 písm. b) druhého bodu, rozhodnú pre uplatňovanie osobitnej úpravy a členským štátom identifikácie je tuzemsko alebo si tuzemsko zvolia ako členský štát identifikácie, oznámia daňovému úradu začatie tejto činnosti. Zdaniteľné osoby podľa prvej vety musia v oznámení o začatí činnosti uviesť obchodné meno, adresu, elektronickú adresu vrátane webových sídiel a ďalšie údaje uvedené v osobitnom predpise.<sup>28aa</sup>) Daňový úrad oznámi zdaniteľnej osobe, že jej povoľuje uplatňovanie osobitnej úpravy a súčasne jej pridelí a oznámi identifikačné číslo pre daň na účely uplatňovania osobitnej úpravy, ak táto zdaniteľná osoba nemá v tuzemsku pridelené identifikačné číslo pre daň.
+(2) Ak sa zdaniteľná osoba, ktorá dodáva tovar podľa § 68 ods. 1 písm. b) prvého bodu a tretieho bodu, a zdaniteľná osoba neusadená v členskom štáte spotreby, ktorá dodáva služby podľa § 68 ods. 1 písm. b) druhého bodu, rozhodnú pre uplatňovanie osobitnej úpravy a členským štátom identifikácie je tuzemsko alebo si tuzemsko zvolia ako členský štát identifikácie, oznámia daňovému úradu začatie tejto činnosti. Zdaniteľné osoby podľa prvej vety musia v oznámení o začatí činnosti uviesť obchodné meno, adresu, elektronickú adresu vrátane webových sídiel a ďalšie údaje uvedené v osobitnom predpise.<sup>28aa</sup>) Daňový úrad oznámi zdaniteľnej osobe, že jej povoľuje uplatňovanie osobitnej úpravy a súčasne jej pridelí a oznámi identifikačné číslo pre daň na účely uplatňovania osobitnej úpravy, ak táto zdaniteľná osoba nemá v tuzemsku pridelené identifikačné číslo pre daň; proti tomuto rozhodnutiu nemožno podať odvolanie.
 
 (3) Ak zdaniteľná osoba nespĺňa podmienky na uplatňovanie osobitnej úpravy, daňový úrad vydá rozhodnutie o tom, že jej nepovoľuje uplatňovanie osobitnej úpravy; proti tomuto rozhodnutiu môže zdaniteľná osoba podať odvolanie.
 
@@ -48,7 +48,7 @@
 
 - d) táto zdaniteľná osoba opakovane porušuje povinnosti týkajúce sa uplatňovania osobitnej úpravy.
 
-(11) Daňový úrad o zrušení povolenia podľa odseku 10 vydá rozhodnutie; proti tomuto rozhodnutiu môže zdaniteľná osoba uvedená v odseku 2 podať odvolanie, ktoré nemá odkladný účinok.
+(11) Daňový úrad o zrušení povolenia podľa odseku 10 vydá rozhodnutie; proti tomuto rozhodnutiu môže zdaniteľná osoba uvedená v odseku 2 podať odvolanie, ktoré nemá odkladný účinok. Zrušením povolenia zaniká platnosť identifikačného čísla pre daň na účely uplatňovania tejto osobitnej úpravy.
 
 (12) Zdaňovacím obdobím, za ktoré je zdaniteľná osoba uvedená v odseku 2 povinná podať daňové priznanie podľa § 68 ods. 2, je kalendárny štvrťrok; daňové priznanie sa musí podať aj za zdaňovacie obdobie, v ktorom tovar a služby podľa § 68 ods. 1 písm. b) neboli dodané. Daňové priznanie sa podáva do konca kalendárneho mesiaca nasledujúceho po skončení zdaňovacieho obdobia, za ktoré sa daňové priznanie podáva. Ak koniec lehoty na podanie daňového priznania pripadne na sobotu, nedeľu alebo deň pracovného pokoja, posledným dňom lehoty je tento deň.
 

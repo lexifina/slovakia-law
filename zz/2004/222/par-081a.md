@@ -4,6 +4,6 @@
 
 (2) Ak skupina prestane spĺňať podmienky podľa § 4a, zástupca skupiny je povinný bezodkladne podať žiadosť o zrušenie registrácie skupiny. Daňový úrad zruší registráciu skupiny najneskôr do 30 dní odo dňa podania žiadosti o zrušenie registrácie skupiny. Ak daňový úrad zistí, že skupina prestane spĺňať podmienky podľa § 4a, zruší registráciu skupiny z úradnej moci.
 
-(3) Platnosť osvedčenia o registrácii skupiny a jej identifikačného čísla pre daň zaniká ku dňu zrušenia registrácie skupiny. Členovia skupiny sú povinní do desiatich dní od zrušenia registrácie skupiny odovzdať daňovému úradu osvedčenia o registrácii pre daň.
+(3) Platnosť identifikačného čísla pre daň skupiny zaniká ku dňu zrušenia registrácie skupiny.
 
-(4) V deň nasledujúci po dni zrušenia registrácie skupiny prechádzajú práva a povinnosti skupiny vyplývajúce z tohto zákona na členov skupiny v rozsahu, v akom sa vzťahujú na plnenia uskutočnené a prijaté členmi skupiny, a členovia skupiny sa stávajú samostatnými platiteľmi; týmto platiteľom daňový úrad vydá osvedčenia o registrácii pre daň a pridelí identifikačné čísla pre daň.
+(4) V deň nasledujúci po dni zrušenia registrácie skupiny prechádzajú práva a povinnosti skupiny vyplývajúce z tohto zákona na členov skupiny v rozsahu, v akom sa vzťahujú na plnenia uskutočnené a prijaté členmi skupiny, a členovia skupiny sa stávajú samostatnými platiteľmi. Daňový úrad týchto platiteľov zaregistruje pre daň a pridelí im identifikačné čísla pre daň; proti tomuto rozhodnutiu nemožno podať odvolanie.

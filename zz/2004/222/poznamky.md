@@ -44,6 +44,8 @@
 
 - 6abc) Čl. 41a vykonávacieho nariadenia (EÚ) 2019/2026.
 
+- 6abd) § 2 písm. b) zákona č. 302/2019 Z. z. o zálohovaní jednorazových obalov na nápoje a o zmene a doplnení niektorých zákonov.
+
 - 6ac) § 116 Občianskeho zákonníka.
 
 - 6aca) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
@@ -186,6 +188,12 @@
 
 - 28db) Nariadenie Komisie (EÚ) č. 1209/2014 z 29. októbra 2014, ktorým sa mení nariadenie Európskeho parlamentu a Rady (ES) č. 451/2008, ktorým sa zavádza nová štatistická klasifikácia produktov podľa činností (CPA) a ktorým sa zrušuje nariadenie Rady (EHS) č. 3696/93.
 
+- 28dba) Vyhláška Ministerstva financií Slovenskej republiky č. 378/2011 Z. z. o spôsobe označovania platby dane v znení neskorších predpisov.
+
+- 28dbb) § 67 ods. 12 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
+
+- 28dbc) § 55 ods. 11 zákona č. 563/2009 Z. z. v znení zákona č. 435/2011 Z. z.
+
 - 28dc) Čl. 54a vykonávacieho nariadenia Rady (EÚ) 2018/1912 zo 4. decembra 2018, ktorým sa mení vykonávacie nariadenie (EÚ) č. 282/2011, pokiaľ ide o určité oslobodenia od dane pri transakciách v rámci Spoločenstva (Ú. v. EÚ L 311, 7. 12. 2018).
 
 - 28e) § 2 písm. al) zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov.
@@ -214,7 +222,7 @@
 
 - 31) Zákon č. 431/2002 Z. z. o účtovníctve v znení zákona č. 562/2003 Z. z.
 
-- 32) § 13 ods. 1 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 279/2001 Z. z.
+- 32) Napríklad § 13 ods. 1 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 33) Zákon č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 

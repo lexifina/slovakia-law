@@ -1,6 +1,6 @@
 # § 69b Ručenie za daň
 
-(1) Daň uvedenú na faktúre, ktorú dodávateľ v lehote splatnosti podľa § 78 neuhradil alebo uhradil len jej časť (ďalej len „nezaplatená daň“), je povinný uhradiť platiteľ, ktorý ručí za daň podľa § 69 ods. 14 (ďalej len „ručiteľ“).
+(1) Daň uvedenú na faktúre, ktorú dodávateľ v lehote splatnosti podľa § 78 neuhradil alebo uhradil len jej časť (ďalej len „nezaplatená daň“), je povinný uhradiť platiteľ, ktorý ručí za daň podľa § 69 ods. 14 (ďalej len „ručiteľ“), ak § 69c ods. 2 neustanovuje inak.
 
 (2) Zánikom dodávateľa bez právneho nástupcu nie je povinnosť ručiteľa ručiť dotknutá.
 
