@@ -20,17 +20,15 @@
 
 - c) zmluvu alebo listinu o založení právnickej osoby,
 
-- d) doklad o pridelení identifikačného čísla, ak je pridelené,
+- d) doklad o zaplatení správneho poplatku,
 
-- e) doklad o zaplatení správneho poplatku,
+- e) opis a farebné vyobrazenie rovnošaty, nášiviek, znaku alebo iného vonkajšieho označenia, ak sa majú používať pri poskytovaní bezpečnostnej služby,
 
-- f) opis a farebné vyobrazenie rovnošaty, nášiviek, znaku alebo iného vonkajšieho označenia, ak sa majú používať pri poskytovaní bezpečnostnej služby,
+- f) osvedčený doklad preukazujúci, že v posledných 24 mesiacoch vykonávala prepravu peňažnej hotovosti podľa tohto zákona,
 
-- g) osvedčený doklad preukazujúci, že v posledných 24 mesiacoch vykonávala prepravu peňažnej hotovosti podľa tohto zákona,
+- g) doklad preukazujúci, že má uzavreté poistenie zodpovednosti za škodu pri prevádzkovaní bezpečnostnej služby,
 
-- h) doklad preukazujúci, že má uzavreté poistenie zodpovednosti za škodu pri prevádzkovaní bezpečnostnej služby,
-
-- i) doklad preukazujúci držbu vozidla uvedeného v § 11a ods. 1 písm. j) a doklad preukazujúci, že toto vozidlo spĺňa niektorú z podmienok uvedených v osobitnom predpise.<sup>8a</sup>)
+- h) doklad preukazujúci držbu vozidla uvedeného v § 11a ods. 1 písm. j) a doklad preukazujúci, že toto vozidlo spĺňa niektorú z podmienok uvedených v osobitnom predpise.<sup>8a</sup>)
 
 (3) Ustanovenia odseku 1 písm. b) a odseku 2 písm. a) sa primerane vzťahujú aj na prokuristu, zodpovedného zástupcu, vedúceho organizačnej zložky podniku, vedúceho podniku zahraničnej osoby a splnomocnenca prevádzkovateľa.
 
