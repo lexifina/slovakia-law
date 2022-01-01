@@ -1,8 +1,8 @@
 # § 19a Výrobca biogénnej látky
 
-(1) Osoba, ktorá vyrába na daňovom území biogénnu látku uvedenú v § 4 ods. 7 písm. a) a b) mimo pozastavenia dane, je povinná požiadať colný úrad do 15 dní odo dňa začatia tejto výroby o zaradenie do evidencie výrobcov biogénnych látok. Žiadosť musí obsahovať
+(1) Osoba, ktorá vyrába na daňovom území biogénnu látku uvedenú v § 4 ods. 7 písm. a) a b) mimo pozastavenia dane, je povinná požiadať colný úrad do 15 dní odo dňa začatia tejto výroby o zaradenie do evidencie výrobcov biogénnych látok. Žiadosť musí obsahovať okrem údajov podľa osobitného predpisu<sup>30b</sup>)
 
-- a) identifikačné údaje žiadateľa a adresu umiestnenia jeho prevádzkarní, ak nie sú totožné so sídlom alebo s trvalým pobytom žiadateľa,
+- a) adresu umiestenia prevádzkarní žiadateľa, ak nie sú totožné s jeho sídlom alebo trvalým pobytom,
 
 - b) druh predmetu dane, obchodný názov biogénnej látky a príslušný kód kombinovanej nomenklatúry,
 

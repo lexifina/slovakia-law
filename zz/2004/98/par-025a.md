@@ -12,9 +12,9 @@
 
 (4) Žiadateľ o vydanie povolenia na obchodovanie nesmie mať nedoplatky voči colnému úradu.
 
-(5) Žiadosť o vydanie povolenia na obchodovanie musí obsahovať
+(5) Žiadosť o vydanie povolenia na obchodovanie musí obsahovať okrem údajov podľa osobitného predpisu<sup>30b</sup>)
 
-- a) identifikačné údaje žiadateľa a adresu umiestnenia jeho prevádzkarní, ak nie sú totožné so sídlom alebo s trvalým pobytom žiadateľa,
+- a) adresu umiestenia prevádzkarní žiadateľa, ak nie sú totožné s jeho sídlom alebo trvalým pobytom,
 
 - b) druh vybraného minerálneho oleja, obchodný názov vybraného minerálneho oleja a príslušný kód kombinovanej nomenklatúry,
 
@@ -34,7 +34,17 @@
 
 (9) Držiteľ povolenia na obchodovanie je povinný
 
-- a) oznámiť colnému úradu každú zmenu skutočností a údajov podľa odseku 5 písm. a) do 30 dní odo dňa jej vzniku, podľa odseku 5 písm. b) a odseku 6 písm. c) do 15 dní odo dňa jej vzniku, zmenu údajov podľa odseku 6 písm. b) najneskôr päť pracovných dní pred ich vznikom a zmenu údajov podľa odseku 6 písm. a) do 15 dní odo dňa podania návrhu na zmenu údajov príslušnému orgánu,
+- a) oznámiť colnému úradu každú zmenu skutočností a údajov podľa
+
+  - 1. odseku 5 písm. a) do 30 dní odo dňa jej vzniku,
+
+  - 2. odseku 5 písm. b) do 15 dní odo dňa jej vzniku,
+
+  - 3. odseku 6 písm. a) do 15 dní odo dňa podania návrhu na zmenu údajov príslušnému orgánu,
+
+  - 4. odseku 6 písm. b) najneskôr 5 pracovných dní pred jej vznikom,
+
+  - 5. odseku 6 písm. c) do 15 dní; to platí pri zmene dodávateľa alebo odberateľa vybraného minerálneho oleja,
 
 - b) predávať a dodávať vybraný minerálny olej na daňovom území len držiteľovi povolenia na obchodovanie alebo registrovanej osobe,
 

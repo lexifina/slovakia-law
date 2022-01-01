@@ -162,7 +162,7 @@
 
 - 30aa) § 58 ods. 2 písm. a) zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
-- 30b) § 67 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
+- 30b) § 67 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
 
 - 30c) Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení neskorších predpisov.
 
