@@ -104,7 +104,7 @@
 
 - Zákon č. 475/2005 Z. z. o výkone trestu odňatia slobody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 39e) § 71 ods. 10 zákona č. 35/2019 Z. z.
+- 39e) § 71 ods. 9 zákona č. 35/2019 Z. z. v znení zákona č. 431/2021 Z. z.
 
 - 40) § 11 ods. 2 písm. a) a b) a ods. 3 a 4 zákona č. 378/2015 Z. z.
 
@@ -120,7 +120,7 @@
 
 - 42c) § 107 ods. 5 zákona č. 35/2019 Z. z.
 
-- 42d) § 108 zákona č. 35/2019 Z. z.
+- 42d) § 108, § 113 ods. 6 štvrtá veta a § 262 ods. 4 zákona č. 35/2019 Z. z. v znení zákona č. 431/2021 Z. z.
 
 - 42e) § 107 ods. 8 zákona č. 35/2019 Z. z.
 
