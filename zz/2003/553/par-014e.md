@@ -2,7 +2,7 @@
 
 (1) Pedagogickému zamestnancovi a odbornému zamestnancovi patrí príplatok za profesijný rozvoj v sume
 
-- a) 6 % z platovej tarify platovej triedy a pracovnej triedy, do ktorej je zaradený, za úspešné absolvovanie rozširujúceho štúdia podľa osobitného predpisu,<sup>30h</sup>)
+- a) 12 % z platovej tarify platovej triedy a pracovnej triedy, do ktorej je zaradený, za úspešné absolvovanie rozširujúceho štúdia podľa osobitného predpisu,<sup>30h</sup>)
 
 - b) 12 % z platovej tarify platovej triedy a pracovnej triedy, do ktorej je zaradený, za úspešné absolvovanie štátnej jazykovej skúšky podľa osobitného predpisu,<sup>30i</sup>)
 
@@ -10,11 +10,11 @@
 
 - d) 3 % z platovej tarify platovej triedy a pracovnej triedy, do ktorej je zaradený, za úspešné absolvovanie inovačného vzdelávania podľa osobitného predpisu.<sup>30k</sup>)
 
-(2) Príplatok za profesijný rozvoj podľa odseku 1 zamestnávateľ prizná na dobu siedmich rokov najviac v sume 12 % z platovej tarify platovej triedy a pracovnej triedy, do ktorej je pedagogický zamestnanec alebo odborný zamestnanec zaradený, z toho najviac v sume 9 % za profesijný rozvoj podľa odseku 1 písm. d).
+(2) Príplatok za profesijný rozvoj zamestnávateľ prizná na dobu siedmich rokov najviac v sume 12 % z platovej tarify platovej triedy a pracovnej triedy, do ktorej je pedagogický zamestnanec alebo odborný zamestnanec zaradený.
 
 (3) Príplatok za profesijný rozvoj podľa odseku 1 zamestnávateľ prizná od prvého dňa kalendárneho mesiaca nasledujúceho po mesiaci, v ktorom pedagogický zamestnanec a odborný zamestnanec požiadal o priznanie príplatku za profesijný rozvoj. Príplatok za profesijný rozvoj sa určí pevnou sumou zaokrúhlenou na 50 eurocentov nahor.
 
-(4) Riaditeľovi školy, riaditeľovi školského zariadenia, riaditeľovi zariadenia sociálno-právnej ochrany detí a sociálnej kurately<sup>30l</sup>) a riaditeľovi zariadenia sociálnych služieb<sup>30m</sup>) prizná príplatok za profesijný rozvoj zriaďovateľ.
+(4) Riaditeľovi školy a riaditeľovi školského zariadenia prizná príplatok za profesijný rozvoj zriaďovateľ.
 
 (5) Zamestnávateľ príplatok za profesijný rozvoj pedagogickému zamestnancovi a odbornému zamestnancovi odoberie alebo zníži od prvého dňa nasledujúceho po uplynutí siedmich rokov od jeho priznania.
 

@@ -108,10 +108,6 @@
 
 - 30k) § 64 ods. 2 písm. a) štvrtý bod zákona č. 138/2019 Z. z.
 
-- 30l) § 45 zákona č. 305/2005 Z. z. v znení neskorších predpisov.
-
-- 30m) § 32 a § 38 až 40 zákona č. 448/2008 Z. z. v znení neskorších predpisov.
-
 - 30n) § 10 až 12 zákona č. 138/2019 Z. z.
 
 - 30o) § 31 zákona č. 138/2019 Z. z.
