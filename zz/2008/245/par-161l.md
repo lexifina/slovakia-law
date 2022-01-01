@@ -4,7 +4,7 @@
 
 (2) Podmienka absolvovania povinného predprimárneho vzdelávania sa do 31. augusta 2024 považuje za splnenú, ak dieťa, pre ktoré je predprimárne vzdelávanie povinné, navštevuje zariadenie predprimárneho vzdelávania podľa osobitného predpisu<sup>96</sup>) vedené v registri zariadení predprimárneho vzdelávania.
 
-(3) Register zariadení predprimárneho vzdelávania vedie ministerstvo školstva. Ministerstvo školstva zapíše do registra zariadení predprimárneho vzdelávania zariadenie pre deti a mládež, ak jeho zriaďovateľ predloží
+(3) Register zariadení predprimárneho vzdelávania vedie ministerstvo školstva, ktoré je jeho správcom. Ministerstvo školstva zapíše do registra zariadení predprimárneho vzdelávania zariadenie pre deti a mládež, ak jeho zriaďovateľ predloží
 
 - a) rozhodnutie príslušného regionálneho úradu verejného zdravotníctva o uvedení priestorov zariadenia predprimárneho vzdelávania do prevádzky,
 
@@ -14,7 +14,7 @@
 
 (4) Zariadenie predprimárneho vzdelávania poskytuje povinné predprimárne vzdelávanie v rozsahu najmenej štyri hodiny denne.
 
-(5) Ak dieťa po dovŕšení šiesteho roka veku nedosiahlo školskú spôsobilosť, môže pokračovať v plnení povinného predprimárneho vzdelávania v zariadení predprimárneho vzdelávania na základe písomného súhlasu príslušného zariadenia výchovného poradenstva a prevencie, písomného súhlasu všeobecného lekára pre deti a dorast a s informovaným súhlasom zákonného zástupcu alebo zástupcu zariadenia. Ak dieťa ani po pokračovaní plnenia povinného predprimárneho vzdelávania nedosiahlo školskú spôsobilosť, začne najneskôr 1. septembra, ktorý nasleduje po dni, v ktorom dieťa dovŕšilo siedmy rok veku, plniť povinnú školskú dochádzku v základnej škole.
+(5) Ak dieťa po dovŕšení šiesteho roka veku nedosiahlo školskú spôsobilosť, môže pokračovať v plnení povinného predprimárneho vzdelávania v zariadení predprimárneho vzdelávania na základe písomného súhlasu príslušného zariadenia poradenstva a prevencie, písomného súhlasu všeobecného lekára pre deti a dorast a s informovaným súhlasom zákonného zástupcu alebo zástupcu zariadenia. Ak dieťa ani po pokračovaní plnenia povinného predprimárneho vzdelávania nedosiahlo školskú spôsobilosť, začne najneskôr 1. septembra, ktorý nasleduje po dni, v ktorom dieťa dovŕšilo siedmy rok veku, plniť povinnú školskú dochádzku v základnej škole.
 
 (6) Zariadenie predprimárneho vzdelávania vedie dokumentáciu o povinnom predprimárnom vzdelávaní, ktorá obsahuje
 

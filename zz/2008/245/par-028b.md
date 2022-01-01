@@ -8,7 +8,7 @@
 
 - b) jeho zákonný zástupca alebo zástupca zariadenia o to požiada.
 
-(3) Ak zákonný zástupca dieťaťa alebo zástupca zariadenia požiada o povolenie individuálneho vzdelávania podľa odseku 2 písm. a), prílohou k žiadosti je písomný súhlas všeobecného lekára pre deti a dorast; predprimárne vzdelávanie dieťaťa, ktorému bolo povolené individuálne vzdelávanie, zabezpečuje kmeňová materská škola, ktorej riaditeľ rozhodol o povolení individuálneho vzdelávania, v rozsahu najmenej dve hodiny týždenne.
+(3) Ak zákonný zástupca dieťaťa alebo zástupca zariadenia požiada o povolenie individuálneho vzdelávania podľa odseku 2 písm. a), prílohou k žiadosti je písomný súhlas všeobecného lekára pre deti a dorast alebo odporúčanie zariadenia poradenstva a prevencie; predprimárne vzdelávanie dieťaťa, ktorému bolo povolené individuálne vzdelávanie, zabezpečuje kmeňová materská škola, ktorej riaditeľ rozhodol o povolení individuálneho vzdelávania, v rozsahu najmenej dve hodiny týždenne.
 
 (4) Výdavky spojené s individuálnym vzdelávaním podľa odseku 2 písm. b) znáša zákonný zástupca alebo zástupca zariadenia. Predprimárne vzdelávanie dieťaťa, ktorému bolo povolené individuálne vzdelávanie podľa odseku 2 písm. b), zabezpečuje zákonný zástupca dieťaťa alebo zástupca zariadenia prostredníctvom osoby, ktorá má ukončené najmenej úplné stredné všeobecné vzdelanie alebo úplné stredné odborné vzdelanie.
 

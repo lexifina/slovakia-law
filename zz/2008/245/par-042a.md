@@ -6,11 +6,9 @@
 
 (3) Neoddeliteľnou súčasťou výchovy a vzdelávania v strednej športovej škole je športová príprava organizovaná podľa športových odvetví.
 
-(4) Stredná športová škola zabezpečuje športovú prípravu najmenej v piatich športových odvetviach, z toho aspoň jedno je kolektívny šport.
+(4) Športovej prípravy organizovanej strednou športovou školou počas hlavných školských prázdnin sa môže zúčastniť aj ten, kto bol prijatý do prvého ročníka vzdelávacieho programu v strednej športovej škole od nasledujúceho školského roka za rovnakých podmienok ako žiaci strednej športovej školy.
 
-(5) Športovej prípravy organizovanej strednou športovou školou počas hlavných školských prázdnin sa môže zúčastniť aj ten, kto bol prijatý do prvého ročníka vzdelávacieho programu v strednej športovej škole od nasledujúceho školského roka za rovnakých podmienok ako žiaci strednej športovej školy.
-
-(6) Stredná športová škola poskytuje
+(5) Stredná športová škola poskytuje
 
 - a) stredné odborné vzdelanie,
 
@@ -18,4 +16,4 @@
 
 - c) úplné stredné odborné vzdelanie.
 
-(7) Žiak, ktorý už vykonal maturitnú skúšku v inom študijnom odbore, študuje v strednej športovej škole len odborné vyučovacie predmety.
+(6) Žiak, ktorý už vykonal maturitnú skúšku v inom študijnom odbore, študuje v strednej športovej škole len odborné vyučovacie predmety.
