@@ -5,3 +5,51 @@ Opatrenie Ministerstva financií Slovenskej republiky z 8. decembra 2004 č. MF/
 - 1. § 1 sa dopĺňa odsekom 8, ktorý znie:
 
 - „ (8) Ak sa podľa osobitného predpisu alebo na základe osobitného predpisu zriadi alebo založí nová právnická osoba, na ktorú sa má vzťahovať druhová klasifikácia alebo organizačná klasifikácia podľa tohto opatrenia, pre zaradenie do príslušnej časti klasifikácie sa použije číselný kód najbližšie nasledujúci po číselnom kóde pridelenom v poradí poslednej právnickej osobe v príslušnej časti druhovej klasifikácie alebo organizačnej klasifikácie.“.
+
+- 2. V prílohe tretej časti písmene A. položka 221 znie:
+
+- „ 221 Administratívne poplatky
+
+- 221001 Súdne poplatky
+
+- 221002 Správne poplatky
+
+- 221003 Puncové poplatky
+
+- 221004 Ostatné poplatky
+
+- 221005 Licencie“.
+
+- 3. V prílohe tretej časti písmene B. položke 635 názov podpoložky 635009 znie:
+
+- „Unikátneho softvéru“.
+
+- 4. V prílohe tretej časti písmene B. položke 635 sa za podpoložku 635010 vkladá podpoložka 635011, ktorá znie:
+
+- „635011 Špecializovaného konfigurovateľného softvéru a krabicového softvéru“.
+
+- 5. V prílohe tretej časti písmene B. položke 637 názov podpoložky 637033 znie:
+
+- „Platby štátnej rozpočtovej organizácii na projekty Európskej únie“.
+
+- 6. V prílohe tretej časti písmene B. položke 637 sa za podpoložku 637042 vkladajú podpoložky 637043 a 637044, ktoré znejú:
+
+- „637043 Platby za dostupnosť
+
+- 637044 Daň z pridanej hodnoty“.
+
+- 7. V prílohe tretej časti písmene B. položke 719 sa za podpoložku 719014 vkladá podpoložka 719015, ktorá znie:
+
+- „719015 Platby štátnej rozpočtovej organizácii na projekty Európskej únie“.
+
+- 8. V prílohe tretej časti písmene C. sa položka 456 dopĺňa podpoložkami 456006 a 456007, ktoré znejú:
+
+- „456006 Príjmové finančné operácie súvisiace so znížením základného imania
+
+- 456007 Príjmové finančné operácie súvisiace s vrátením finančných zábezpek zo záruk za úvery“.
+
+- 9. V prílohe tretej časti písmene C. sa položka 819 dopĺňa podpoložkami 819006 a 819007, ktoré znejú:
+
+- „819006 Výdavkové finančné operácie súvisiace so znížením základného imania
+
+- 819007 Výdavkové finančné operácie súvisiace s poskytnutím finančných zábezpek ako záruk za úvery“.
