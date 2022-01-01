@@ -10,6 +10,10 @@ Zákon č. 286/2009 Z. z. o fluórovaných skleníkových plynoch a o zmene a do
 
 - 4. V § 3 ods. 2 sa za slová „Vlastník zariadenia“ vkladá čiarka a slová „ktoré obsahuje fluórované skleníkové plyny v množstve päť ton ekvivalentu CO<sub>2</sub> alebo viac a v inej ako penovej forme a je kontrolované na únik,“ a na konci sa pripája táto veta: „Ak vlastník zariadenia neurčí prevádzkovateľa zariadenia, stáva sa prevádzkovateľom zariadenia.“.
 
+- 5. V § 3 sa vypúšťa odsek 3.
+
+  - Doterajší odsek 4 sa označuje ako odsek 3.
+
 - 6. Poznámka pod čiarou k odkazu 12 znie:
 
 - „<sup>12</sup>) Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
@@ -35,6 +39,90 @@ Zákon č. 286/2009 Z. z. o fluórovaných skleníkových plynoch a o zmene a do
   - b) názov, sídlo a identifikačné číslo dodávateľa a odberateľa fluórovaných skleníkových plynov,
 
   - c) číslo certifikátu o odbornej spôsobilosti na nakladanie s fluórovanými skleníkovými plynmi odberateľa.“.
+
+- 10. Za § 5 sa vkladá § 5a, ktorý vrátane nadpisu znie:
+
+- „§ 5a
+
+- Evidencia a oznamovacia povinnosť
+
+- (1)
+
+- Evidenciu o fluórovaných skleníkových plynoch a iných fluórovaných skleníkových plynoch uvedených v osobitnom predpise,<sup>15b</sup>) výrobkoch a zariadeniach vedie
+
+- a)
+
+- výrobca,
+
+- b)
+
+- dovozca, vývozca, distribútor,
+
+- c)
+
+- odborne spôsobilá osoba.
+
+- (2)
+
+- Z evidencie musí byť zrejmé, akým spôsobom sa nakladá s fluórovanými skleníkovými plynmi a inými fluórovanými skleníkovými plynmi uvedenými v osobitnom predpise, výrobkami alebo zariadeniami; záznamy sa uchovávajú najmenej päť rokov.
+
+- (3)
+
+- Dovozca, vývozca a distribútor fluórovaných skleníkových plynov vedie evidenciu, ktorá obsahuje
+
+- a)
+
+- množstvo dovezeného, vyvezeného a predaného fluórovaného skleníkového plynu s uvedením dátumu dovozu, vývozu a predaja pre každý druh fluórovaného skleníkového plynu,
+
+- b)
+
+- názov, sídlo a identifikačné číslo dodávateľa a odberateľa fluórovaných skleníkových plynov,
+
+- c)
+
+- číslo certifikátu o odbornej spôsobilosti na nakladanie s fluórovanými skleníkovými plynmi odberateľa.
+
+- (4)
+
+- Výrobca, dovozca, vývozca alebo distribútor fluórovaných skleníkových plynov alebo iných fluórovaných skleníkových plynov uvedených v osobitnom predpise je povinný oznámiť Ministerstvu životného prostredia Slovenskej republiky (ďalej len „ministerstvo“) prostredníctvom formulárov údaje o fluórovaných skleníkových plynoch alebo iných fluórovaných skleníkových plynoch uvedených v osobitnom predpise každoročne do 31. januára nasledujúceho roka.
+
+- (5)
+
+- Výrobca, dovozca, vývozca alebo distribútor výrobkov alebo zariadení je povinný oznámiť certifikačnému orgánu určenému ministerstvom údaje o výrobkoch alebo zariadeniach prostredníctvom elektronického systému oznamovania údajov o výrobkoch a zariadeniach každoročne do 31. januára nasledujúceho roka.
+
+- (6)
+
+- Odborne spôsobilá osoba, ktorá vykonáva činnosti uvedené v osobitnom predpise,<sup>16</sup>) je povinná na základe evidencie oznámiť certifikačnému orgánu určenému ministerstvom údaje o fluórovaných skleníkových plynoch, výrobkoch a zariadeniach každoročne, najneskôr do 31. januára nasledujúceho roka.
+
+- (7)
+
+- Odborne spôsobilá osoba po vykonaní kontroly výrobku alebo zariadenia na únik podľa osobitného predpisu<sup>14</sup>) označí výrobok a zariadenie štítkom vykonanej kontroly na únik.“.
+
+- 11. Za § 5a sa vkladá § 5b, ktorý vrátane nadpisu znie:
+
+- „§ 5b
+
+- Register prevádzkovateľov zariadení, ktoré obsahujú fluórované skleníkové plyny
+
+- (1)
+
+- Zriaďuje sa register prevádzkovateľov zariadení, ktoré obsahujú fluórované skleníkové plyny na účely registrácie prevádzkovateľov a zariadení, ktoré obsahujú fluórované skleníkové plyny v množstve päť ton ekvivalentu CO<sub>2</sub> alebo viac a v inej ako penovej forme a sú kontrolované na únik podľa osobitného predpisu,<sup>14b</sup>) a na účely vedenia evidencie a oznamovania údajov.
+
+- (2)
+
+- Register prevádzkovateľov zariadení, ktoré obsahujú fluórované skleníkové plyny, je elektronický systém, ktorý je informačným systémom verejnej správy, ktorého správcom je ministerstvo. Prevádzku, fungovanie a dostupnosť tohto elektronického systému zabezpečí organizácia poverená ministerstvom.
+
+- (3)
+
+- Organizácia poverená ministerstvom je povinná zabezpečiť ministerstvu prístup do registra prevádzkovateľov zariadení, ktoré obsahujú fluórované skleníkové plyny, a poskytovať ministerstvu údaje a informácie z registra prevádzkovateľov zariadení, ktoré obsahujú fluórované skleníkové plyny.
+
+- (4)
+
+- Prevádzkovateľ zariadenia, ktoré obsahuje fluórované skleníkové plyny v množstve päť ton ekvivalentu CO<sub>2</sub> alebo viac a v inej ako penovej forme a je kontrolované na únik podľa osobitného predpisu,<sup>14b</sup>) je povinný v registri prevádzkovateľov zariadení, ktoré obsahujú fluórované skleníkové plyny, zaregistrovať existujúce zariadenie najneskôr do 31. marca 2022 a nové zariadenie najneskôr do 30 dní od uvedenia zariadenia do prevádzky.
+
+- (5)
+
+- Prevádzkovateľ zariadenia podľa odseku 4 vedie evidenciu podľa tohto zákona a osobitného predpisu<sup>15</sup>) a zabezpečí zápis údajov prostredníctvom odborne spôsobilej osoby po vykonaní činností podľa osobitného predpisu<sup>14</sup>) v registri prevádzkovateľov zariadení, ktoré obsahujú fluórované skleníkové plyny. Odborne spôsobilá osoba zapíše v registri prevádzkovateľov zariadení, ktoré obsahujú fluórované skleníkové plyny, údaje súvisiace s vykonaním činností podľa osobitného predpisu<sup>14</sup>) najneskôr do 30 dní od ich vykonania. Prevádzkovateľ zabezpečí, aby evidencia za príslušný kalendárny rok bola v registri prevádzkovateľov zariadení, ktoré obsahujú fluórované skleníkové plyny, úplná najneskôr do 31. marca nasledujúceho roka.“.
 
 - 12. V § 6 ods. 3 písm. c), § 6 ods. 5 písm. c), § 6 ods. 9 písm. d) a § 6 ods. 10 písm. d) sa slová „elektronickej forme“ nahrádzajú slovami „elektronickej podobe“.
 
@@ -256,6 +344,10 @@ Zákon č. 286/2009 Z. z. o fluórovaných skleníkových plynoch a o zmene a do
 
 - 22. V poznámke pod čiarou k odkazu 34 sa citácia „Nariadenie Komisie (ES) č. 1494/2007 (Ú. v. EÚ L 332, 18. 12. 2007).“ nahrádza citáciou „Vykonávacie nariadenie (EÚ) 2015/2068.“.
 
+- 23. V § 8 sa vypúšťa písmeno b).
+
+  - Doterajšie písmeno c) sa označuje ako písmeno b).
+
 - 24. V § 9 sa za písmeno a) vkladá nové písmeno b), ktoré znie:
 
 - „b)
@@ -269,6 +361,8 @@ Zákon č. 286/2009 Z. z. o fluórovaných skleníkových plynoch a o zmene a do
 - „f)
 
 - vydáva, mení a ruší poverenia vydané pre hodnotiaci orgán a certifikačný orgán.“.
+
+- 26. § 10 sa vypúšťa.
 
 - 27. V § 11 odsek 1 znie:
 
@@ -288,6 +382,78 @@ Zákon č. 286/2009 Z. z. o fluórovaných skleníkových plynoch a o zmene a do
 
 - nesplní povinnosť podľa § 6a ods. 1 a 3 a § 6b ods. 1, 3 a 4.“.
 
+- 30. Za § 12 sa vkladá § 12a, ktorý vrátane nadpisu nad paragrafom znie:
+
+- „Správne delikty
+
+- § 12a
+
+- Správneho deliktu sa dopustí fyzická osoba podnikateľ alebo právnická osoba, ktorá
+
+- a)
+
+- uvádza fluórované skleníkové plyny alebo výrobky a zariadenia na trh napriek zákazu a obmedzeniam podľa osobitného predpisu<sup>36</sup>) alebo uvádza na trh fluórované skleníkové plyny bez certifikátu o odbornej spôsobilosti, alebo uvádza na trh fluórované skleníkové plyny osobám bez certifikátu o odbornej spôsobilosti,
+
+- b)
+
+- neoznačí výrobky alebo zariadenia pri ich uvádzaní na trh podľa § 7 a podľa osobitného predpisu<sup>34</sup>) alebo nezaregistruje zariadenie do registra prevádzkovateľov zariadení, ktoré obsahujú fluórované skleníkové plyny podľa § 5b ods. 4,
+
+- c)
+
+- nesplní oznamovaciu povinnosť o fluórovaných skleníkových plynoch, iných fluórovaných skleníkových plynoch uvedených v osobitnom predpise, výrobkoch alebo zariadeniach podľa § 5a ods. 4, 5 a 6 alebo nesplní oznamovaciu povinnosť voči Európskej komisii,<sup>37</sup>)
+
+- d)
+
+- nevedie alebo neuchováva evidenciu o fluórovaných skleníkových plynoch, iných fluórovaných skleníkových plynoch uvedených v osobitnom predpise, výrobkoch alebo zariadeniach podľa § 5a a 5b a podľa osobitného predpisu,<sup>15</sup>)
+
+- e)
+
+- neurčí prevádzkovateľa zariadenia podľa § 3 ods. 2 alebo podľa § 15b,
+
+- f)
+
+- vykonáva činnosť uvedenú v osobitnom predpise<sup>16</sup>) bez certifikátu o odbornej spôsobilosti alebo v rozpore s ním,
+
+- g)
+
+- nevykonáva preventívne opatrenia proti únikom fluórovaných skleníkových plynov alebo nezabezpečí kontrolu zariadení na únik,<sup>14</sup>)
+
+- h)
+
+- nezabezpečí vykonanie opravy zariadenia po zistení úniku podľa osobitného predpisu,<sup>37a</sup>)
+
+- i)
+
+- nezabezpečí, aby strata chladiva neprevýšila ustanovené limity úniku,
+
+- j)
+
+- nezabezpečí prístup k rozoberateľným spojom podľa § 4 ods. 4,
+
+- k)
+
+- nesplní povinnosť podľa 11 ods. 3 alebo neumožní odobrať vzorku fluórovaných skleníkových plynov podľa § 11 ods. 4,
+
+- l)
+
+- nevykoná opatrenia na nápravu podľa § 11 ods. 5,
+
+- m)
+
+- nezabezpečí inštaláciu systému detekcie úniku a jeho kontrolu podľa osobitného predpisu,<sup>37b</sup>)
+
+- n)
+
+- nepožiada Európsku komisiu o pridelenie kvóty prostredníctvom elektronického registra kvót podľa § 14 ods. 3, prekročí kvótu na uvedenie fluórovaných uhľovodíkov<sup>37c</sup>) na trh, ktorá mu bola pridelená podľa osobitného predpisu,<sup>37d</sup>) alebo vyrobí alebo dovezie fluórované uhľovodíky bez pridelenej kvóty,
+
+- o)
+
+- nesplní povinnosť podľa § 14 ods. 2.
+
+- p)
+
+- nesplní povinnosť podľa § 6a ods. 1 a 3 a § 6b ods. 1, 3 a 4.“.
+
 - 31. V § 13 ods. 2 písmená a) až c) znejú:
 
 - „a)
@@ -301,6 +467,46 @@ Zákon č. 286/2009 Z. z. o fluórovaných skleníkových plynoch a o zmene a do
 - c)
 
 - od 5 000 eur do 99 600 eur za správne delikty uvedené v § 12 písm. a), g) alebo v písm. n).“.
+
+- 32. Za § 13 sa vkladá § 13a, ktorý znie:
+
+- „§ 13a
+
+- (1)
+
+- Správne delikty podľa § 12a prejednáva inšpekcia.
+
+- (2)
+
+- Inšpekcia uloží pokutu
+
+- a)
+
+- od 300 eur do 7 000 eur za správne delikty uvedené v § 12a písm. b), c), e), o) alebo v písm. p),
+
+- b)
+
+- od 300 eur do 34 000 eur za správne delikty uvedené v § 12a písm. d), g), h), i), j), k), l) alebo v písm. n),
+
+- c)
+
+- od 5 000 eur do 99 600 eur za správne delikty uvedené v § 12a písm. a), f) alebo v písm. m).
+
+- (3)
+
+- Inšpekcia pri rozhodovaní o výške pokuty podľa odseku 2 prihliada na závažnosť a rozsah porušenia povinnosti, na okolnosti, ktoré viedli k tomuto porušeniu, a na čas trvania protiprávneho stavu.
+
+- (4)
+
+- Ak povinný v určenej lehote nevykoná opatrenia na nápravu, uloží sa mu ďalšia pokuta až do výšky dvojnásobku príslušnej hornej hranice pokuty.
+
+- (5)
+
+- Konanie o uložení pokuty možno začať do jedného roka odo dňa, keď sa inšpekcia dozvedela o porušení povinnosti, najneskôr však do troch rokov odo dňa, keď k porušeniu povinnosti došlo.
+
+- (6)
+
+- Výnosy pokút sú príjmom Environmentálneho fondu.<sup>38</sup>)“.
 
 - 33. § 13 sa dopĺňa odsekom 7, ktorý znie:
 
