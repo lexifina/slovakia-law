@@ -28,6 +28,8 @@
 
 - Zákon č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 11a) Zákon č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 12) § 2 ods. 4 zákona č. 231/1999 Z. z. o štátnej pomoci v znení zákona č. 82/2005 Z. z.
 
 - § 8a ods. 5 a § 37d ods. 3 zákona č. 523/2004 Z. z. v znení zákona č. 383/2008 Z. z.
