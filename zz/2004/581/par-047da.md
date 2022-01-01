@@ -1,6 +1,6 @@
 # § 47da Prehliadka mŕtveho tela mimo zdravotníckeho zariadenia ústavnej zdravotnej starostlivosti
 
-(1) Prehliadky mŕtvych tiel mimo zdravotníckeho zariadenia ústavnej zdravotnej starostlivosti sa vykonávajú na základe rozpisu úradu, ak nie je v odseku 9 uvedené inak. Úrad vyhotoví rozpis úradu tak, aby úplne zabezpečil nepretržité vykonávanie prehliadok mŕtvych tiel na území okresu; úrad úplne zabezpečí vykonávanie prehliadok mŕtvych tiel, ak bude na každý deň rozpisu úradu zabezpečený dostatočný počet prehliadajúcich lekárov, aby bolo pokryté celé územie okresu, pre ktorý sa rozpis úradu vyhotovuje.
+(1) Prehliadky mŕtvych tiel mimo zdravotníckeho zariadenia ústavnej zdravotnej starostlivosti sa vykonávajú na základe rozpisu úradu, ak nie je v odseku 10 uvedené inak. Úrad vyhotoví rozpis úradu tak, aby úplne zabezpečil nepretržité vykonávanie prehliadok mŕtvych tiel na území okresu; úrad úplne zabezpečí vykonávanie prehliadok mŕtvych tiel, ak bude na každý deň rozpisu úradu zabezpečený dostatočný počet prehliadajúcich lekárov, aby bolo pokryté celé územie okresu, pre ktorý sa rozpis úradu vyhotovuje.
 
 (2) Úrad zaradí do rozpisu úradu najprv na základe dobrovoľnosti prehliadajúcich lekárov, ktorí majú vydané oprávnenie na vykonávanie prehliadok mŕtvych tiel podľa § 47f ods. 1; úrad do rozpisu úradu nezaradí zdravotníckeho pracovníka v povolaní lekár, ktorý má vydané oprávnenie na vykonávanie prehliadok mŕtvych tiel podľa § 47f ods. 1 a ktorý vykonáva štátnu službu profesionálneho vojaka vo vojenskom zdravotníctve.
 

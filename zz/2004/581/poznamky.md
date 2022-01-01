@@ -68,6 +68,12 @@
 
 - 16n) § 2 ods. 34 zákona č. 576/2004 Z. z. v znení zákona č. 139/2019 Z. z.
 
+- 16o) § 87b zákona č. 363/2011 Z. z. v znení zákona č. 81/2021 Z. z.
+
+- 16p) § 87b ods. 2 zákona č. 363/2011 Z. z. v znení zákona č. 81/2021 Z. z.
+
+- 16q) § 87b ods. 4 a 5 zákona č. 363/2011 Z. z. v znení zákona č. 81/2021 Z. z.
+
 - 17) § 2 ods. 3 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 
 - 17a) § 11 zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov.
@@ -118,7 +124,7 @@
 
 - 18o) § 9d ods. 1 zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
 
-- 19) § 5 zákona č. 578/2004 Z. z.
+- 19) § 5 až 5d zákona č. 578/2004 Z. z.
 
 - 19a) § 6 zákona č. 578/2004 Z. z.
 
@@ -127,6 +133,8 @@
 - 21) § 12 ods. 1 a 6 zákona č. 576/2004 Z. z.
 
 - 22) § 7 ods. 1 písm. c) a § 10 zákona č. 576/2004 Z. z.
+
+- 23) § 4 ods. 2 písm. a) štvrtý bod zákona č. 540/2021 Z. z.
 
 - 24) § 11 ods. 1 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
 
@@ -256,9 +264,13 @@
 
 - 35aal) § 88 zákona č. 363/2011 Z. z. v znení neskorších predpisov.
 
+- 35aam) Zákon č. 358/2021 Z. z. o Národnom inštitúte pre hodnotu a technológie v zdravotníctve a o zmene a doplnení niektorých zákonov.
+
 - 35ab) § 60b ods. 4 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 358/2007 Z. z.
 
 - 35b) § 9 ods. 4 zákona č. 580/2004 Z. z.
+
+- 35ba) § 87a až 87d zákona č. 363/2011 Z. z. v znení zákona č. 81/2021 Z. z.
 
 - 35c) Príloha č. 2 k zákonu č. 577/2004 Z. z. v znení neskorších predpisov.
 
@@ -321,6 +333,8 @@
 - 41aab) § 25 ods. 1 písm. e) druhý bod zákona č. 580/2004 Z. z. v znení zákona č. 250/2011 Z. z.
 
 - 41aac) § 11 ods. 3 zákona č. 578/2004 Z. z. v znení zákona č. 139/2019 Z. z.
+
+- 41aaca) § 5c, 5d, § 6e zákona č. 578/2004 Z. z. v znení zákona č. 540/2021 Z. z.
 
 - 41aad) § 6 ods. 11 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
@@ -448,8 +462,6 @@
 
 - 63aa) Napríklad § 5 ods. 4, § 18 ods. 3, § 49 zákona č. 576/2004 Z. z. v znení neskorších predpisov a § 30a ods. 4 a 5, 64 ods. 6 a § 80 ods. 3 až 7 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
-- 63b) § 3 ods. 1 písm. g) zákona č. 578/2004 Z. z. v znení zákona č. 351/2017 Z. z.
-
 - 63c) § 27 ods. 1 písm. a) zákona č. 578/2004 Z. z. v znení zákona č. 192/2009 Z. z.
 
 - 63d) § 7 ods. 2 písm. b) zákona č. 578/2004 Z. z. v znení zákona č. 653/2007 Z. z.
@@ -518,6 +530,8 @@
 
 - Zákon č. 577/2004 Z. z. v znení neskorších predpisov.
 
+- § 38 zákona č. 540/2021 Z. z.
+
 - 81b) § 10 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
 - 82) § 181 Správneho súdneho poriadku.
@@ -575,6 +589,8 @@
 - 95f) § 25 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
 - 95fa) Napríklad zákon č. 153/2013 Z. z. v znení neskorších predpisov.
+
+- 95fb) § 39 a 40 zákona č. 540/2021 Z. z.
 
 - 95g) § 2 ods. 1 a § 3 ods. 2 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
 
