@@ -24,11 +24,13 @@
 
 - 8a) § 79 ods. 1 písm. zr) zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
+- 8b) § 4 zákona č. 540/2021 Z. z. o kategorizácii ústavnej zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
+
 - 9) § 7 zákona č. 129/2002 Z. z.
 
 - 9a) § 17b zákona č. 578/2004 Z. z. v znení zákona č. 351/2005 Z. z.
 
-- 10) § 7 ods. 3 písm. a) zákona č. 578/2004 Z. z.
+- 10) § 2 ods. 14 zákona č. 540/2021 Z. z.
 
 - 11) § 2 ods. 9 zákona č. 576/2004 Z. z.
 
