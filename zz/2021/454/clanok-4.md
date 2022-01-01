@@ -4,6 +4,10 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 
 - 1. V § 54 ods. 7 sa za slová „zákona,<sup>50aaa</sup>)“ vkladajú slová „vykonávania činnosti poskytovateľa služieb hromadného financovania podľa osobitného predpisu,<sup>49c</sup>)“.
 
+- 2. V § 56 sa vypúšťa odsek 13.
+
+  - Doterajšie odseky 14 a 15 sa označujú ako odseky 13 a 14.
+
 - 3. V § 107o ods. 16 sa za slová „sídlom v Slovenskej republike“ vkladajú slová „alebo v inom členskom štáte“.
 
 - 4. V § 120 odsek 2 znie:
