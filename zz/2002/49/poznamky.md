@@ -20,6 +20,8 @@
 
 - 10aa) § 2 ods. 4 zákona č. 207/2009 Z. z. o podmienkach vývozu a dovozu predmetu kultúrnej hodnoty a o doplnení zákona č. 652/2004 Z. z. o orgánoch štátnej správy v colníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov v znení zákona č. 160/2018 Z. z.
 
+- 10ab) § 50c ods. 4 posledná veta zákona č. 326/2005 Z. z. o lesoch v znení zákona č. 389/2021 Z. z.
+
 - 10b) Čl. 1 ods. 4 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu.
 
 - § 2 písm. a) zákona č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu.
