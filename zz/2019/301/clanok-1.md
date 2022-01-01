@@ -72,6 +72,12 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - 10. V § 5 ods. 7 písm. p) sa suma „60 eur“ nahrádza sumou „100 eur“.
 
+- 11. V § 5 sa odsek 7 dopĺňa písmenom r), ktoré znie:
+
+- „r)
+
+- nepeňažné plnenie poskytnuté zamestnancovi v úhrnnej sume najviac 500 eur za zdaňovacie obdobie od všetkých zamestnávateľov, ak tento zákon neustanovuje inak a zamestnávateľom vynaložené prostriedky na toto nepeňažné plnenie nie sú uplatnené ako výdavky (náklady) na dosiahnutie, zabezpečenie a udržanie zdaniteľných príjmov [§ 2 písm. i)]; do základu dane (čiastkového základu dane) sa zahrnie len plnenie nad takto ustanovenú sumu.“.
+
 - 12. Poznámka pod čiarou k odkazu 37af znie:
 
 - „<sup>37af</sup>) Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
