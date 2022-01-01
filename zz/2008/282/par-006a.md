@@ -1,13 +1,13 @@
 # § 6a Mládežnícky parlament
 
-(1) Obec môže zriadiť mládežnícky parlament. Zloženie mládežníckeho parlamentu, spôsob ustanovenia mládežníckeho parlamentu a úlohy mládežníckeho parlamentu určí obec.<sup>5a</sup>)
+(1) Fyzická osoba, právnická osoba alebo zastupiteľstvo vyššieho územného celku, okrem obce, môže zriadiť mládežnícky parlament.
 
-(2) Mládežnícky parlament najmä
+(2) Zloženie mládežníckeho parlamentu, spôsob ustanovenia mládežníckeho parlamentu a úlohy mládežníckeho parlamentu určí jeho zriaďovateľ v jeho štatúte.
 
-- a) prerokúva návrhy všeobecne záväzných nariadení obce, návrhy iných dokumentov a opatrení prerokúvaných obecným zastupiteľstvom, ktoré sa týkajú mládeže v obci,
+(3) Mládežnícky parlament najmä
 
-- b) prerokúva s obecným zastupiteľstvom a starostom návrhy, ktoré sa týkajú zlepšenia práce s mládežou v obci alebo majú vplyv na mládež v obci,
+- a) prerokúva návrhy, ktoré sa týkajú zlepšenia práce s mládežou alebo majú vplyv na mládež,
 
-- c) spolupracuje s mládežníckymi parlamentmi v iných obciach.
+- b) spolupracuje s ďalšími školskými parlamentmi alebo s mládežníckymi parlamentmi,
 
-(3) Zástupcovia mládežníckeho parlamentu sú prizývaní na zasadnutia obecného zastupiteľstva.
+- c) spolupracuje s ďalšími mládežníckymi organizáciami v Slovenskej republike.
