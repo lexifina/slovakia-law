@@ -26,6 +26,8 @@
 
 - 9ac) § 6 ods. 3 zákona č. 329/2018 Z. z. o poplatkoch za uloženie odpadov a o zmene a doplnení zákona č. 587/2004 Z. z. o Environmentálnom fonde a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 9ad) § 18 ods. 14 zákona č. 414/2012 Z. z. v znení zákona č. 535/2021 Z. z.
+
 - 10) § 21 ods. 4 zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 11) § 41 ods. 1 zákona č. 364/2004 Z. z.
@@ -99,6 +101,12 @@
 - 12p) § 31 zákona č. 359/2007 Z. z.
 
 - 12q) § 108 ods. 1 písm. q) zákona č. 79/2015 Z. z.
+
+- 12r) § 18 ods. 14 zákona č. 414/2012 Z. z. v znení zákona č. 535/2021 Z. z.
+
+- 12s) § 18 ods. 15 zákona č. 414/2012 Z. z. v znení zákona č. 535/2021 Z. z.
+
+- 12t) § 26 ods. 4 zákona č. 414/2012 Z. z. v znení zákona č. 535/2021 Z. z.
 
 - 13) § 30 ods. 2 zákona č. 523/2004 Z. z.
 
