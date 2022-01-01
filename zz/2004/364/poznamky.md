@@ -72,11 +72,7 @@
 
 - 22) Zákon č. 539/2008 Z. z. o podpore regionálneho rozvoja v znení zákona č. 309/2014 Z. z.
 
-- 22a) § 4 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov.
-
 - 22aa) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
-
-- 22b) § 31 a 36 zákona č. 24/2006 Z. z.
 
 - 23) Napríklad zákon č. 17/1992 Zb. v znení neskorších predpisov, zákon č. 543/2002 Z. z. v znení neskorších predpisov, zákon č. 139/2002 Z. z. v znení neskorších predpisov.
 
@@ -113,6 +109,14 @@
 - 31b) § 57 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
 - 32) § 66 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 32a) § 2 písm. m) zákona č. 442/2002 Z. z. v znení neskorších predpisov.
+
+- 32b) § 2 ods. 1 písm. n) zákona č. 442/2002 Z. z. v znení neskorších predpisov.
+
+- 32c) § 15 ods. 5 a § 16 ods. 5 zákona č. 442/2002 Z. z. v znení zákona č. 516/2021 Z. z.
+
+- 32d) § 15 ods. 3 a § 16 ods. 3 zákona č. 442/2002 Z. z. v znení zákona č. 516/2021 Z. z.
 
 - 33) § 120 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
@@ -239,6 +243,8 @@
 - 66) Zákon č. 39/2013 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 66a) § 140a ods. 1 písm. a) zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
+
+- 66aa) § 140a ods. 1 písm. c) zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 66b) § 140b zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
 
