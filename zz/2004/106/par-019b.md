@@ -22,7 +22,7 @@
 
 (5) Colný úrad preverí skutočnosti a údaje uvedené v oznámení podľa odseku 3 alebo odseku 4. Ak sú tieto skutočnosti a údaje pravdivé, colný úrad vydá osobe uvedenej v odseku 3 alebo v odseku 4 potvrdenie o vyradení z evidencie technologických zariadení na výrobu tabakových výrobkov.
 
-(6) Akúkoľvek inú zmenu skutočností a údajov, na základe ktorých colný úrad vydal potvrdenie o zaevidovaní, je osoba povinná oznámiť colnému úradu do 15 dní odo dňa ich vzniku. Colný úrad preverí skutočnosti a údaje uvedené v oznámení a s prihliadnutím na rozsah a závažnosť zmien doplní pôvodné potvrdenie o zaevidovaní alebo vydá nové potvrdenie o zaevidovaní.
+(6) Akúkoľvek inú zmenu skutočností a údajov, na základe ktorých colný úrad vydal potvrdenie o zaevidovaní, okrem zmeny identifikačných údajov, je osoba povinná oznámiť colnému úradu do 15 dní odo dňa ich vzniku. Colný úrad preverí skutočnosti a údaje uvedené v oznámení a s prihliadnutím na rozsah a závažnosť zmien doplní pôvodné potvrdenie o zaevidovaní alebo vydá nové potvrdenie o zaevidovaní.
 
 (7) Finančné riaditeľstvo vedie evidenciu držby technologického zariadenia na výrobu tabakových výrobkov v členení podľa
 

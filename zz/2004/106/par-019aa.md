@@ -36,9 +36,9 @@
 
 (8) Osoba, ktorá v rámci podnikania prepraví z iného členského štátu bezdymový tabakový výrobok na daňové územie alebo dodá bezdymový tabakový výrobok do iného členského štátu na podnikateľské účely, je povinná takúto prepravu alebo dodanie preukázať obchodným dokumentom, na ktorom musí byť uvedený odosielateľ, príjemca, miesto dodania, presná identifikácia prepravovaného tovaru a jeho množstva.
 
-(9) Osoba, ktorá chce na daňovom území v rámci podnikania obchodovať s bezdymovým tabakovým výrobkom, musí pred každým prijatím alebo dovozom bezdymového tabakového výrobku požiadať colný úrad o vydanie povolenia na prijatie a dovoz bezdymového tabakového výrobku. Žiadosť o vydanie povolenia na prijatie a dovoz bezdymového tabakového výrobku musí obsahovať
+(9) Osoba, ktorá chce na daňovom území v rámci podnikania obchodovať s bezdymovým tabakovým výrobkom, musí pred každým prijatím alebo dovozom bezdymového tabakového výrobku požiadať colný úrad o vydanie povolenia na prijatie a dovoz bezdymového tabakového výrobku. Žiadosť o vydanie povolenia na prijatie a dovoz bezdymového tabakového výrobku musí obsahovať okrem údajov podľa osobitného predpisu<sup>25d</sup>)
 
-- a) identifikačné údaje žiadateľa a adresy umiestnenia jeho prevádzkarní, ak nie sú totožné so sídlom alebo s trvalým pobytom žiadateľa,
+- a) adresy umiestnenia prevádzkarní žiadateľa, ak nie sú totožné so sídlom alebo s trvalým pobytom žiadateľa,
 
 - b) obchodný názov bezdymového tabakového výrobku,
 
