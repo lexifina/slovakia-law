@@ -12,6 +12,54 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 
   - „<sup>16c</sup>) § 87a zákona č. 363/2011 Z. z.“.
 
+- 2. V § 6 sa odsek 1 dopĺňa písmenami ae) až ag), ktoré znejú:
+
+- „ae)
+
+- vytvára zoznam poistencov s nárokom na okamžité uplatnenie limitu spoluúčasti u poskytovateľa lekárenskej starostlivosti podľa podmienok ustanovených osobitným predpisom,<sup>16o</sup>)
+
+- af)
+
+- uhrádza poskytovateľovi lekárenskej starostlivosti doplatky vo výške prepočítaného doplatku za najlacnejší náhradný liek, najlacnejšiu náhradnú zdravotnícku pomôcku a najlacnejšiu náhradnú dietetickú potravinu čiastočne uhrádzanú na základe verejného zdravotného poistenia za osoby, ktoré majú nárok na limit spoluúčasti vo výške 0 eur podľa osobitného predpisu,<sup>16p</sup>)
+
+- ag)
+
+- uplatňuje nárok na úhradu pohľadávky prepočítaného doplatku za najlacnejší náhradný liek, najlacnejšiu náhradnú zdravotnícku pomôcku a najlacnejšiu náhradnú dietetickú potravinu voči poistencovi, ktorý zdravotná poisťovňa uhradila poskytovateľovi lekárenskej starostlivosti a na ktorú poistenec nemal nárok podľa osobitného predpisu.<sup>16q</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 16o až 16q znejú:
+
+  - „<sup>16o</sup>) § 87b zákona č. 363/2011 Z. z. v znení zákona č. 81/2021 Z. z.
+
+  - <sup>16p</sup>) § 87b ods. 2 zákona č. 363/2011 Z. z. v znení zákona č. 81/2021 Z. z.
+
+  - <sup>16q</sup>) § 87b ods. 4 a 5 zákona č. 363/2011 Z. z. v znení zákona č. 81/2021 Z. z.“.
+
+- 3. V § 16 ods. 2 písmeno n) znie:
+
+- „n)
+
+- údaje o
+
+- 1.
+
+- výške prepočítaného doplatku poistenca za najlacnejší náhradný liek, najlacnejšiu náhradnú zdravotnícku pomôcku a najlacnejšiu náhradnú dietetickú potravinu podľa osobitného predpisu,<sup>35ba</sup>)
+
+- 2.
+
+- čiastke, o ktorú bol limit spoluúčasti prekročený,
+
+- 3.
+
+- zaradení poistenca do zoznamu poistencov s nárokom na okamžité uplatnenie limitu spoluúčasti u poskytovateľa lekárenskej starostlivosti podľa podmienok ustanovených osobitným predpisom,<sup>16o</sup>)
+
+- 4.
+
+- výške doplatku za najlacnejší náhradný liek, najlacnejšiu náhradnú zdravotnícku pomôcku a najlacnejšiu náhradnú dietetickú potravinu, ktorý uhradila zdravotná poisťovňa poskytovateľovi lekárenskej starostlivosti podľa osobitného predpisu.“.
+
+  - Poznámka pod čiarou k odkazu 35ba znie:
+
+  - „<sup>35ba</sup>) § 87a až 87d zákona č. 363/2011 Z. z. v znení zákona č. 81/2021 Z. z.“.
+
 - 4. V § 77c ods. 1 a 2 a 4 až 6 sa na konci pripájajú tieto slová: „a výška dôchodku“.
 
 - 5. Za § 86zf sa vkladá § 86zg, ktorý vrátane nadpisu znie:
