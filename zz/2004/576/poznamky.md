@@ -6,6 +6,8 @@
 
 - 2a) § 11 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
+- 2aa) § 5 ods. 6 zákona č. 578/2004 Z. z. v znení zákona č. 540/2021 Z. z.
+
 - 2b) § 7 zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 2ba) § 2 ods. 6 zákona č. 579/2004 Z. z. v znení zákona č. 139/2019 Z. z.
@@ -200,6 +202,8 @@
 
 - 34) § 31 Občianskeho zákonníka.
 
+- 34a) § 29n ods. 1, § 29n ods. 3 písm. a) a § 29 ods. 2 písm. e) bod 3 zákona č. 362/2011 Z. z. v znení neskorších predpisov.
+
 - 35) Zákon č. 599/2001 Z. z. o osvedčovaní listín a podpisov na listinách obvodnými úradmi a obcami v znení zákona č. 515/2003 Z. z.
 
 - 36) § 9 ods. 1 až 5 zákona č. 581/2004 Z. z.
@@ -312,6 +316,8 @@
 
 - 52aaj) § 55 zákona č. 422/2015 Z. z.
 
+- 52aak) Zákon č. 358/2021 Z. z. o Národnom inštitúte pre hodnotu a technológie v zdravotníctve a o zmene a doplnení niektorých zákonov.
+
 - 52ab) § 21 ods. 5 písm. b) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
 - § 33 zákona č. 317/2016 Z. z.
@@ -323,6 +329,14 @@
 - 53aa) § 79 ods. 1 písm. ap) zákona č. 578/2004 Z. z. v znení zákona č. 257/2017 Z. z.
 
 - 53aaa) § 12 ods. 3 písm. t) zákona č. 153/2013 Z. z. v znení zákona č. 351/2017 Z. z.
+
+- 53aaaa) § 5 ods. 7 a 8 zákona č. 578/2004 Z. z. v znení zákona č. 540/2021 Z. z.
+
+- 53b) § 5b ods. 3 písm. d) a § 79 ods. 20 zákona č. 578/2004 Z. z. v znení zákona č. 540/2021 Z. z.
+
+- 53c) § 6d a 6e zákona č. 578/2004 Z. z. v znení zákona č. 540/2021 Z. z.
+
+- 53d) § 6d zákona č. 578/2004 Z. z. v znení zákona č. 540/2021 Z. z.
 
 - 54) Napríklad zákon č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov, zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
 
