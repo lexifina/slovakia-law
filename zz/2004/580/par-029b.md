@@ -83,3 +83,11 @@
 (21) Povinnosť platiť poistné na verejné zdravotné poistenie sa nevzťahuje na dividendy vyplácané zo zisku dosiahnutého v účtovnom období, ktoré sa začalo 1. januára 2017 alebo neskôr.
 
 (22) Subjekty uvedené v odsekoch 8, 9, 12 až 14 a 20 poskytujú úradu údaje o fyzickej osobe, u ktorej došlo k zmene platiteľa poistného z dôvodu uvedeného v § 11 ods. 7 písm. c), m) alebo s), najmenej raz za 14 dní.
+
+(22) Ústredie práce, sociálnych vecí a rodiny je povinné úradu na účely vykonávania zdravotného poistenia oznámiť v rozsahu a spôsobom určeným úradom údaje súvisiace s poskytovaním podpory v čase skrátenej práce,<sup>50b</sup>) ktorými sú
+
+- a) identifikačné údaje zamestnávateľa,
+
+- b) meno, priezvisko a rodné číslo zamestnanca,
+
+- c) obdobie v kalendárnom mesiaci, za ktoré sa zamestnávateľovi poskytla podpora v čase skrátenej práce, a to v členení na jednotlivých zamestnancov.

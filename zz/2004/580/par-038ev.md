@@ -22,7 +22,7 @@
 
 (9) Lehota určená v § 10a ods. 1 a 3 sa počas krízovej situácie neuplatňuje, ak lehotu nie je možné dodržať z dôvodu, ktorý zdravotná poisťovňa nemohla ovplyvniť. Zdravotná poisťovňa je povinná doručiť poistencovi preukaz poistenca a európsky preukaz elektronicky najneskôr do ôsmeho dňa po odvolaní krízovej situácie.
 
-(10) Preddavok na poistné, ktorého platiteľom je štát podľa § 16 ods. 2 písm. e), môže počas krízovej situácie vypočítať, platiť a odvádzať štát aj v sume vyššej, ako je ustanovená v § 16 ods. 2 písm. e). Preddavok na poistné podľa prvej vety sa rozdelí medzi zdravotné poisťovne pomerne podľa počtu poistencov oznámených podľa § 23 ods. 9 písm. c). Preddavok na poistné vypočítaný, vyplatený a odvedený podľa prvej vety vstupuje do výpočtu ročného zúčtovania poistného plateného štátom podľa § 19 ods. 20.
+(10) Preddavok na poistné, ktorého platiteľom je štát podľa § 16 ods. 2 písm. e), môže počas krízovej situácie vypočítať, platiť a odvádzať štát aj v sume vyššej, ako je ustanovená v § 16 ods. 2 písm. e). Preddavok na poistné podľa prvej vety sa rozdelí medzi zdravotné poisťovne pomerne podľa počtu poistencov oznámených podľa § 23 ods. 9 písm. c). Preddavok na poistné vypočítaný, vyplatený a odvedený podľa prvej vety vstupuje do výpočtu ročného zúčtovania poistného plateného štátom podľa § 19 ods. 22.
 
 (11) Zdravotná poisťovňa vykoná ročné zúčtovanie poistného podľa § 19 ods. 1 za rok 2019 do 31. decembra 2020.
 

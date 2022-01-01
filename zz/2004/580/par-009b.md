@@ -52,7 +52,7 @@
 
 (10) Poistenec má nárok na úhradu nákladov zdravotnej starostlivosti so súhlasom príslušnej zdravotnej poisťovne podľa odseku 4, ak ide o plánovanú zdravotnú starostlivosť poskytnutú v inom členskom štáte, na ktorú príslušná zdravotná poisťovňa udelila súhlas. Príslušná zdravotná poisťovňa súhlas udelí, ak ide o plánovanú zdravotnú starostlivosť, ktorá patrí do rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia v Slovenskej republike,<sup>1</sup>) a
 
-- a) ochorenie nie je možné liečiť v Slovenskej republike v primeranej lehote<sup>16b</sup>) pri zohľadnení súčasného zdravotného stavu poistenca a možného vývoja jeho ochorenia,
+- a) ochorenie nie je možné liečiť v Slovenskej republike v lehote časovej dostupnosti ústavnej zdravotnej starostlivosti stanovenej kategorizáciou ústavnej zdravotnej starostlivosti,<sup>16b</sup>)
 
 - b) požadovaná liečba, ani ekvivalent liečby s porovnateľnou účinnosťou a bezpečnosťou liečby, sa v Slovenskej republike nevykonáva,
 

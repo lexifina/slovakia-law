@@ -84,7 +84,7 @@
 
 - 16a) § 18 ods. 1 písm. f) zákona č. 581/2004 Z. z. v znení zákona č. 220/2013 Z. z.
 
-- 16b) § 6 ods. 2 až 12 zákona č. 581/2004 Z. z. v znení neskorších predpisov.
+- 16b) § 44 ods. 2 písm. a) piaty bod zákona č. 540/2021 Z. z. o kategorizácii ústavnej zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 
 - 16c) Čl. 20 nariadenia (ES) č. 883/2004 v platnom znení.
 
@@ -234,6 +234,8 @@
 
 - 52a) § 61g zákona č. 581/2004 Z. z. v znení zákona č. 250/2011 Z. z.
 
+- 52aa) § 8a, § 8b a 30 zákona č. 581/2004 Z. z.
+
 - 52b) § 61f ods. 3 až 5 zákona č. 581/2004 Z. z. v znení zákona č. 250/2011 Z. z.
 
 - 53) § 7 zákona č. 581/2004 Z. z.
@@ -244,7 +246,7 @@
 
 - 53aaa) § 61 až 61h zákona č. 581/2004 Z. z. v znení zákona č. 250/2011 Z. z.
 
-- 53aab) § 61f ods. 2 písm. b) zákona č. 581/2004 Z. z. v znení zákona č. 250/2011 Z. z.
+- 53aab) § 87a až 87d zákona č. 363/2011 Z. z. v znení zákona č. 81/2021 Z. z.
 
 - 53aac) § 73 a 73a zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 

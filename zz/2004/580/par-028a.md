@@ -34,7 +34,7 @@
 
 - b) číslo viacročnej nákladovej skupiny, v ktorej je poistenec zaradený.
 
-(6) Úrad oznámi zdravotnej poisťovni do 31. januára údaje o poistencoch zdravotnej poisťovne podľa stavu k 1. januáru v rozsahu
+(6) Úrad oznámi zdravotnej poisťovni do konca februára údaje o poistencoch zdravotnej poisťovne podľa stavu k 1. januáru v rozsahu
 
 - a) rodné číslo poistenca zaradeného vo viacročnej nákladovej skupine s nenulovým indexom; ak ide o cudzinca, ktorý nemá pridelené rodné číslo, bezvýznamové identifikačné číslo a dátum narodenia,
 
