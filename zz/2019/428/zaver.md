@@ -1,1 +1,0 @@
-Miroslav Hlivák v. r.
