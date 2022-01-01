@@ -54,4 +54,4 @@
 
 (17) Vyvlastňovaný a oprávnený z vecného bremena, ktorých práva sa odo dňa právoplatnosti rozhodnutia o predbežnej držbe neuplatňujú, majú za čas výkonu predbežnej držby a za čas uskutočňovania navrátenia nehnuteľnosti do pôvodného stavu právo na finančnú náhradu. Vyvlastňovanému sa finančná náhrada poskytuje vo výške všeobecnej hodnoty nájmu určenej znaleckým posudkom. Oprávnenému z vecného bremena sa poskytuje finančná náhrada vo výške všeobecnej hodnoty dočasného obmedzenia práva zodpovedajúceho vecnému bremenu určenej znaleckým posudkom. Po zrušení rozhodnutia o predbežnej držbe má vyvlastniteľ voči vyvlastňovanému a voči oprávnenému z vecného bremena nárok na vrátenie vyplatenej finančnej náhrady alebo jej pomernej časti. Vyvlastniteľ sa na výške a spôsobe uspokojenia tohto nároku dohodne s vyvlastňovaným a s oprávneným z vecného bremena, inak rozhodne o nich súd.
 
-(18) Na konanie o predbežnej držbe sa vzťahuje všeobecný predpis o správnom konaní okrem § 28 a § 29 ods. 2.
+(18) Na konanie o predbežnej držbe sa vzťahuje správny poriadok okrem § 28 a § 29 ods. 2.

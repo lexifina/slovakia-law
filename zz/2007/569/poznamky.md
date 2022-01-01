@@ -26,8 +26,6 @@
 
 - 10a) § 10 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
 
-- 11a) § 27 zákona č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov.
-
 - 11b) § 11 zákona č. 136/2010 Z. z.,
 
 - § 66b zákona č. 455/1991 Zb. v znení zákona č. 136/2010 Z. z.
@@ -153,8 +151,6 @@
 - 50) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
 
 - 51) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
-
-- 52) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 53) § 3 až 8 a § 10 až 16 zákona č. 136/2010 Z. z.
 
