@@ -12,8 +12,6 @@
 
 - 5) § 43 zákona č. 581/2004 Z. z.
 
-- 5a) § 47b až 47f zákona č. 581/2004 Z. z. v znení zákona č. 351/2017 Z. z.
-
 - 5b) Zákon č. 231/2019 Z. z. o výkone detencie a o zmene a doplnení niektorých zákonov.
 
 - 6) Napríklad zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -38,7 +36,15 @@
 
 - 10a) § 8a ods. 1 písm. a) zákona č. 576/2004 Z. z. v znení zákona č. 257/2017 Z. z.
 
+- 10d) § 12 ods. 1 zákona č. 576/2004 Z. z.
+
 - 11) § 7 zákona č. 581/2004 Z. z.
+
+- 11a) § 7 ods. 1 prvá veta zákona č. 581/2004 Z. z. v znení zákona č. 540/2021 Z. z.
+
+- 11b) Čl. 107 a 108 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 202, 7. 6. 2016) v platnom znení.
+
+- Zákon o štátnej pomoci.
 
 - 12) § 34 ods. 2 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
 
@@ -57,6 +63,8 @@
 - 13a) § 22 zákona č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 185/2014 Z. z.
 
 - 13aa) § 25 ods. 1 písm. o) zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+
+- 13aaa) § 4 ods. 2 písm. a) a b) zákona č. 540/2021 Z. z.
 
 - 13b) § 45 ods. 1 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení zákona č. 466/2008 Z. z.
 
@@ -398,6 +406,8 @@
 
 - 55n) § 14 ods. 1 zákona č. 576/2004 Z. z. v znení zákona č. 139/2019 Z. z.
 
+- 55o) § 44 ods. 2 písm. c) prvého bodu zákona č. 540/2021 Z. z.
+
 - 56) § 25a zákona č. 580/2004 Z. z. v znení zákona č. 356/2016 Z. z.
 
 - 57) § 9 ods. 3 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
@@ -451,6 +461,8 @@
 - 60b) § 18 ods. 1 písm. b) a c) zákona č. 581/2004 Z. z. v znení neskorších predpisov.
 
 - 60ca) § 23 ods. 4 a 5 zákona č. 576/2004 Z. z. v znení zákona č. 374/2018 Z. z.
+
+- 60caa) § 43 zákona č. 540/2021 Z. z.
 
 - 60d) § 64 ods. 5 zákona č. 581/2004 Z. z. v znení neskorších predpisov.
 
