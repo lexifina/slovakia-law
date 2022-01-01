@@ -182,6 +182,8 @@
 
 - 64) Napríklad zákon č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a o registri obyvateľov Slovenskej republiky v znení neskorších predpisov, zákon č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 404/2011 Z. z. v znení zákona č. 75/2013 Z. z.
 
+- 64a) § 1 ods. 3 zákona č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratívnej záťaže využívaním informačných systémov verejnej správy a o zmene a doplnení niektorých zákonov (zákon proti byrokracii) v znení neskorších predpisov.
+
 - 65) § 21b zákona č. 4/2001 Z. z. v znení zákona č. 372/2013 Z. z.
 
 - 69) § 6 ods. 4 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z.
