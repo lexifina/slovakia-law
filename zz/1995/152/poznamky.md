@@ -90,6 +90,10 @@
 
 - Čl. 4 ods. 2 a kapitola I prílohy II nariadenia (ES) č. 852/2004 v platnom znení.
 
+- 8dae) Napríklad nariadenie (ES) č. 110/2008 v platnom znení, nariadenie (EÚ) č. 1151/2012 v platnom znení, zákon č. 469/2003 Z. z. v znení neskorších predpisov.
+
+- 8daf) Zákon č. 189/2009 Z. z. o ekologickej poľnohospodárskej výrobe v znení zákona č. 177/2018 Z. z.
+
 - 8e) Čl. 2 ods. 2 nariadenia Komisie (EÚ) č. 16/2011 z 10. januára 2011, ktorým sa stanovujú vykonávacie opatrenia pre systém rýchleho varovania pre potraviny a krmivá (Ú. v. EÚ L 64, 11. 3. 2011).
 
 - 8ea) Čl. 9 ods. 1 písm. e) a čl. 32 písm. b) nariadenia (EÚ) 2017/625.
