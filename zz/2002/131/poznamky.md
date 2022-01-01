@@ -100,6 +100,8 @@
 
 - 35ab) § 16 ods. 1 zákona č. 172/2005 Z. z. v znení zákona č. 233/2008 Z. z.
 
+- 35b) § 27 ods. 2 písm. a) zákona č. 269/2018 Z. z. o zabezpečovaní kvality vysokoškolského vzdelávania a o zmene a doplnení zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov v znení zákona č. 345/2021 Z. z.
+
 - 36a) Napríklad zákon Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 296/2010 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolania, spôsobe ďalšieho vzdelávania zdravotníckych pracovníkov, sústave špecializačných odborov a sústave certifikovaných pracovných činností v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 5/2016 Z. z., ktorým sa vykonávajú niektoré ustanovenia zákona č. 219/2014 Z. z. o sociálnej práci a o podmienkach na výkon niektorých odborných činností v oblasti sociálnych vecí a rodiny a o zmene a doplnení niektorých zákonov.
 
 - 37) Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
