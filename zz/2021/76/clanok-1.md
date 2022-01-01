@@ -120,6 +120,18 @@ Zákon č. 311/2001 Z. z. Zákonník práce v znení zákona č. 165/2002 Z. z.,
 
 - 5. V § 58a ods. 1 sa na konci pripája táto veta: „Pri dočasnom pridelení zamestnanca v pracovnom pomere medzi ovládajúcou osobou a ovládanou osobou dohodnutom bezodplatne sa ustanovenie druhej vety neuplatní; tým nie je dotknutá náhrada nákladov preukázateľne vynaložených na pracovné podmienky vrátane mzdových podmienok a na podmienky zamestnávania zamestnanca.“.
 
+- 6. V § 60 ods. 2 sa na konci pripájajú tieto slová: „a f)“.
+
+- 7. V § 63 sa odsek 1 dopĺňa písmenom f), ktoré znie:
+
+- „f)
+
+- zamestnanec dovŕšil 65 rokov veku a vek určený na nárok na starobný dôchodok.“.
+
+- 8. V § 63 ods. 2 sa za slová „skončiť pracovný pomer,“ vkladajú slová „alebo o výpoveď podľa odseku 1 písm. f),“.
+
+- 9. V § 76 ods. 1 a 2 sa slová „a) alebo písm. b)“ nahrádzajú slovami „a), b) alebo písm. f)“.
+
 - 10. § 89 znie:
 
 - „§ 89
@@ -131,6 +143,8 @@ Zákon č. 311/2001 Z. z. Zákonník práce v znení zákona č. 165/2002 Z. z.,
 - (2)
 
 - Ustanovenie odseku 1 sa neuplatní, ak pracovná cesta zasahuje výlučne do základného pracovného času alebo ak sa zamestnávateľ so zamestnancom dohodnú inak. Zamestnávateľ môže po dohode so zástupcami zamestnancov určiť ďalšie prípady, v ktorých sa ustanovenie odseku 1 neuplatní.“.
+
+- 11. V § 103 ods. 2 sa na konci pripája táto veta: „Zamestnancovi, ktorý sa začne alebo prestane trvale starať o dieťa v priebehu kalendárneho roka, zvýšenie dovolenky za kalendárny rok podľa prvej vety nad rámec základnej výmery dovolenky podľa odseku 1 patrí v pomernom rozsahu určenom ako podiel počtu dní trvalej starostlivosti o dieťa v príslušnom kalendárnom roku a počtu dní kalendárneho roka.“.
 
 - 12. V § 106 ods. 3 sa za slová „rodiny Slovenskej republiky“ vkladajú slová „(ďalej len „ministerstvo práce“)“.
 
@@ -183,6 +197,8 @@ Zákon č. 311/2001 Z. z. Zákonník práce v znení zákona č. 165/2002 Z. z.,
 - Suma finančného príspevku na stravovanie je suma, ktorou zamestnávateľ prispieva na stravovanie iným zamestnancom podľa odseku 3 prvej vety, najmenej však 55 % minimálnej hodnoty stravovacej poukážky podľa odseku 4. Ak zamestnávateľ neprispieva na stravovanie iným zamestnancom podľa odseku 3, suma finančného príspevku na stravovanie je najmenej 55 % minimálnej hodnoty stravovacej poukážky podľa odseku 4, najviac však 55 % stravného poskytovaného pri pracovnej ceste v trvaní 5 až 12 hodín podľa osobitného predpisu. Okrem sumy podľa prvej vety alebo druhej vety zamestnávateľ poskytuje zamestnancovi príspevok podľa osobitného predpisu.“.
 
   - Doterajší odsek 8 sa označuje ako odsek 9.
+
+- 23. V § 155 ods. 6 písm. b) sa slová „a) a b)“ nahrádzajú slovami „a), b) alebo písm. f)“.
 
 - 24. V § 188 sa za slovo ,,určení“ vkladá slovo ,,výšky“.
 
