@@ -52,6 +52,8 @@
 
 - Zákon č. 747/2004 Z. z. v znení neskorších predpisov.
 
+- 16aab) § 79b zákona č. 566/2001 Z. z. v znení zákona č. 209/2021 Z. z.
+
 - 16ab) § 79i ods. 2 písm. g) a ods. 5 písm. g) zákona č. 566/2001 Z. z. v znení zákona č. 237/2017 Z. z.
 
 - Čl. 6, 10 a 26 nariadenia Európskeho parlamentu a Rady (EÚ) č. 600/2014 z 15. mája 2014 o trhoch s finančnými nástrojmi, ktorým sa mení nariadenie (EÚ) č. 648/2012 (Ú. v. EÚ L 173, 12. 6. 2014) v platnom znení.
@@ -233,6 +235,8 @@
 - 69) § 54 ods. 3 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 69a) Delegované nariadenie Komisie (EÚ) 2017/574 zo 7. júna 2016, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ, pokiaľ ide o regulačné technické predpisy týkajúce sa úrovne presnosti obchodných hodín (Ú. v. EÚ L 87, 31. 3. 2017).
+
+- 69b) § 79b ods. 2 zákona č. 566/2001 Z. z. v znení zákona č. 209/2021 Z. z.
 
 - 70) Napríklad Zákonník práce, Trestný zákon.
 
