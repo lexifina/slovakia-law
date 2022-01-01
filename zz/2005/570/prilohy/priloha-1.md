@@ -1,1 +1,1 @@
-Príloha č. 1 k zákonu č. 570/2005 Z. z. [Vzor 01](../assets/125bd75a9fa34af50ebb71fc3cfd619e8a8e796c21ec5fc921839a001cc14b47.pdf)
+Príloha č. 1 k zákonu č. 570/2005 Z. z. [Vzor 01](../assets/56d13df0330298ae14ca61546a762c548fb568886801c333d729ffa8fc33ad1a.pdf)
