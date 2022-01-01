@@ -1,3 +1,5 @@
+## Opatrenia na úseku štátnych sociálnych dávok
+
 # § 1b
 
 (1) Suma prídavku na dieťa podľa osobitného predpisu<sup>2</sup>) sa za september 2021 zvýši o 74,50 eura na nezaopatrené dieťa, ktoré do konca septembra 2021 je mladšie ako 18 rokov veku alebo v septembri 2021 dovŕši 18 rokov veku.

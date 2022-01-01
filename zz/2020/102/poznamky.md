@@ -1,13 +1,3 @@
-- 1a) § 3 ods. 2 zákona č. 571/2009 Z. z. o rodičovskom príspevku a o zmene a doplnení niektorých zákonov.
-
-- 1b) § 2 zákona č. 571/2009 Z. z.
-
-- 1c) Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 1d) Zákon č. 571/2009 Z. z. v znení neskorších predpisov.
-
-- 1e) § 293feh a 293fej zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 130/2021 Z. z.
-
 - 2) § 8 ods. 1 prvá veta a ods. 3 zákona č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - 11) § 12 ods. 3 písm. a) zákona č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov.
