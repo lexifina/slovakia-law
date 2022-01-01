@@ -1,0 +1,11 @@
+# § 5b Register prevádzkovateľov zariadení, ktoré obsahujú fluórované skleníkové plyny
+
+(1) Zriaďuje sa register prevádzkovateľov zariadení, ktoré obsahujú fluórované skleníkové plyny na účely registrácie prevádzkovateľov a zariadení, ktoré obsahujú fluórované skleníkové plyny v množstve päť ton ekvivalentu CO<sub>2</sub> alebo viac a v inej ako penovej forme a sú kontrolované na únik podľa osobitného predpisu,<sup>14b</sup>) a na účely vedenia evidencie a oznamovania údajov.
+
+(2) Register prevádzkovateľov zariadení, ktoré obsahujú fluórované skleníkové plyny, je elektronický systém, ktorý je informačným systémom verejnej správy, ktorého správcom je ministerstvo. Prevádzku, fungovanie a dostupnosť tohto elektronického systému zabezpečí organizácia poverená ministerstvom.
+
+(3) Organizácia poverená ministerstvom je povinná zabezpečiť ministerstvu prístup do registra prevádzkovateľov zariadení, ktoré obsahujú fluórované skleníkové plyny, a poskytovať ministerstvu údaje a informácie z registra prevádzkovateľov zariadení, ktoré obsahujú fluórované skleníkové plyny.
+
+(4) Prevádzkovateľ zariadenia, ktoré obsahuje fluórované skleníkové plyny v množstve päť ton ekvivalentu CO<sub>2</sub> alebo viac a v inej ako penovej forme a je kontrolované na únik podľa osobitného predpisu,<sup>14b</sup>) je povinný v registri prevádzkovateľov zariadení, ktoré obsahujú fluórované skleníkové plyny, zaregistrovať existujúce zariadenie najneskôr do 31. marca 2022 a nové zariadenie najneskôr do 30 dní od uvedenia zariadenia do prevádzky.
+
+(5) Prevádzkovateľ zariadenia podľa odseku 4 vedie evidenciu podľa tohto zákona a osobitného predpisu<sup>15</sup>) a zabezpečí zápis údajov prostredníctvom odborne spôsobilej osoby po vykonaní činností podľa osobitného predpisu<sup>14</sup>) v registri prevádzkovateľov zariadení, ktoré obsahujú fluórované skleníkové plyny. Odborne spôsobilá osoba zapíše v registri prevádzkovateľov zariadení, ktoré obsahujú fluórované skleníkové plyny, údaje súvisiace s vykonaním činností podľa osobitného predpisu<sup>14</sup>) najneskôr do 30 dní od ich vykonania. Prevádzkovateľ zabezpečí, aby evidencia za príslušný kalendárny rok bola v registri prevádzkovateľov zariadení, ktoré obsahujú fluórované skleníkové plyny, úplná najneskôr do 31. marca nasledujúceho roka.
