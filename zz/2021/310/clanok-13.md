@@ -1,0 +1,7 @@
+# Čl. XIII
+
+Zákon č. 429/2002 Z. z. o burze cenných papierov v znení zákona č. 594/2003 Z. z., zákona č. 43/2004 Z. z., zákona č. 635/2004 Z. z., zákona č. 747/2004 Z. z., zákona č. 336/2005 Z. z., zákona č. 209/2007 Z. z., zákona č. 8/2008 Z. z., zákona č. 297/2008 Z. z., zákona č. 552/2008 Z. z., zákona č. 487/2009 Z. z., zákona č. 520/2011 Z. z., zákona č. 547/2011 Z. z., zákona č. 352/2013 Z. z., zákona č. 206/2014 Z. z., zákona č. 388/2015 Z. z., zákona č. 91/2016 Z. z., zákona č. 125/2016 Z. z., zákona č. 292/2016 Z. z., zákona č. 237/2017 Z. z., zákona č. 177/2018 Z. z., zákona 373/2018 Z. z., zákona č. 340/2020 Z. z. a zákona č. 209/2021 Z. z. sa mení takto:
+
+- 1. V § 4 ods. 4 písm. e) sa vypúšťa čiarka a slová „kópia dokladu totožnosti a kópia rodného listu každej dotknutej osoby na účely preverovania jej totožnosti a správnosti poskytnutých údajov“.
+
+- 2. V § 4 ods. 12 druhá veta znie: „Na účely preskúmavania a preukazovania skutočností o bezúhonnosti má žiadateľ aj dotknutá osoba povinnosť písomne poskytnúť Národnej banke Slovenska údaje,<sup>13b</sup>) ktoré sú potrebné na vyžiadanie výpisu z registra trestov, pričom na poskytovanie a preverovanie týchto údajov, na preverovanie totožnosti a na vyžiadanie, vydanie a zaslanie výpisu z registra trestov sa vzťahujú osobitné predpisy;<sup>16aaa</sup>) tieto údaje Národná banka Slovenska bezodkladne zašle v elektronickej podobe prostredníctvom elektronickej komunikácie Generálnej prokuratúre Slovenskej republiky na vydanie výpisu z registra trestov.“.
