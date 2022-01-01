@@ -114,12 +114,6 @@
 
 - 51a) § 7 ods. 14 až 16 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
-- 51aa) § 34a ods. 1 a 2 a § 34b zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
-
-- § 10 ods. 1, 5, 6, 7, 10 a 11 a § 12 zákona č. 330/2007 Z. z. v znení neskorších predpisov.
-
-- Zákon č. 747/2004 Z. z. v znení neskorších predpisov.
-
 - 52) § 8 písm. i) zákona č. 566/2001 Z. z.
 
 - 53) § 8 písm. j) zákona č. 566/2001 Z. z.
