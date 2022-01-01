@@ -2,9 +2,17 @@
 
 Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení zákona č. 291/2002 Z. z., zákona č. 510/2002 Z. z., zákona č. 162/2003 Z. z., zákona č. 594/2003 Z. z., zákona č. 43/2004 Z. z., zákona č. 635/2004 Z. z., zákona č. 747/2004 Z. z., zákona č. 7/2005 Z. z., zákona č. 266/2005 Z. z., zákona č. 336/2005 Z. z., zákona č. 213/2006 Z. z., zákona č. 644/2006 Z. z., zákona č. 209/2007 Z. z., zákona č. 659/2007 Z. z., zákona č. 70/2008 Z. z., zákona č. 297/2008 Z. z., zákona č. 552/2008 Z. z., zákona č. 160/2009 Z. z., zákona č. 186/2009 Z. z., zákona č. 276/2009 Z. z., zákona č. 487/2009 Z. z., zákona č. 492/2009 Z. z., zákona č. 129/2010 Z. z., zákona č. 505/2010 Z. z., zákona č. 46/2011 Z. z., zákona č. 130/2011 Z. z., zákona č. 394/2011 Z. z., zákona č. 520/2011 Z. z., zákona č. 440/2012 Z. z., zákona č. 132/2013 Z. z., zákona č. 206/2013 Z. z., zákona č. 352/2013 Z. z., zákona č. 213/2014 Z. z., zákona č. 371/2014 Z. z., zákona č. 39/2015 Z. z., zákona č. 117/2015 Z. z., zákona č. 253/2015 Z. z., zákona č. 323/2015 Z. z., zákona č. 359/2015 Z. z., zákona č. 361/2015 Z. z., zákona č. 375/2015 Z. z., zákona č. 388/2015 Z. z., zákona č. 389/2015 Z. z., zákona č. 437/2015 Z. z., zákona č. 91/2016 Z. z., zákona č. 125/2016 Z. z., zákona č. 289/2016 Z. z., zákona č. 292/2016 Z. z., zákona č. 237/2017 Z. z., zákona č. 177/2018 Z. z., zákona č. 373/2018 Z. z., zákona č. 156/2019 Z. z., zákona č. 211/2019 Z. z., zákona č. 312/2020 Z. z., zákona č. 340/2020 Z. z. a zákona č. 423/2020 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 1 sa vypúšťajú slová „poskytovanie služieb vykazovania údajov,“.
+
 - 2. V § 4a ods. 2 sa slová „základného imania“ nahrádzajú slovami „počiatočného kapitálu“.
 
 - 3. V § 7 ods. 11 úvodnej vete sa za slovo „prostredníctvom“ vkladajú slová „obchodníkov s cennými papiermi, pobočiek zahraničných obchodníkov s cennými papiermi a iných“.
+
+- 4. V § 7 sa vypúšťajú odseky 17 až 19 a odsek 23.
+
+  - Doterajšie odseky 20 až 22 a 24 až 30 sa označujú ako odseky 17 až 26.
+
+  - Poznámky pod čiarou k odkazom 18c a 18d sa vypúšťajú.
 
 - 7. V § 8 písmeno c) znie:
 
@@ -29,6 +37,12 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
   - Poznámka pod čiarou k odkazu 24d znie:
 
   - „<sup>24d</sup>) Čl. 8 nariadenia (EÚ) 2019/2033 v platnom znení.“.
+
+- 9. V § 8 písm. v) a w) sa za slovo „údajov“ vkladajú slová „podľa osobitného predpisu<sup>24e</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 24e znie:
+
+  - „<sup>24e</sup>) Čl. 2 ods. 1 bod 36a nariadenia (EÚ) č. 600/2014 v platnom znení.“.
 
 - 10. § 8 sa dopĺňa písmenom z), ktoré znie:
 
@@ -940,6 +954,30 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 
   - „<sup>60aaa</sup>) Čl. 4 ods. 1 bod 26 nariadenia (EÚ) č. 575/2013 v platnom znení.“.
 
+- 71. § 79b znie:
+
+- „§ 79b
+
+- (1)
+
+- Činnosť a udelenie povolenia poskytovateľa schváleného mechanizmu zverejňovania (APA) a poskytovateľa schváleného mechanizmu podávania správ (ARM) ustanovuje osobitný predpis.<sup>60t</sup>)
+
+- (2)
+
+- Ak Národná banka Slovenska udelí povolenie a vykonáva dohľad podľa osobitného predpisu<sup>60u</sup>) nad činnosťou poskytovateľa schváleného mechanizmu zverejňovania (APA) a nad činnosťou poskytovateľa schváleného mechanizmu podávania správ (ARM), monitoruje činnosť poskytovateľa schváleného mechanizmu zverejňovania (APA) a poskytovateľa schváleného mechanizmu podávania správ (ARM) a získava informácie s cieľom posúdiť dodržiavanie podmienok podľa osobitného predpisu.<sup>60ua</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 60t až 60ua znejú:
+
+  - „<sup>60t</sup>) Čl. 27a až 27i nariadenia (EÚ) č. 600/2014 v platnom znení.
+
+  - <sup>60u</sup>) Čl. 2 ods. 3 nariadenia (EÚ) č. 600/2014 v platnom znení.
+
+  - <sup>60ua</sup>) Čl. 4 nariadenia Európskeho parlamentu a Rady (EÚ) 2019/2175 z 18. decembra 2019, ktorým sa mení nariadenie (EÚ) č. 1093/2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre bankovníctvo), nariadenie (EÚ) č. 1094/2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre poisťovníctvo a dôchodkové poistenie zamestnancov), nariadenie (EÚ) č. 1095/2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre cenné papiere a trhy), nariadenie (EÚ) č. 600/2014 o trhoch s finančnými nástrojmi, nariadenie (EÚ) 2016/1011 o indexoch používaných ako referenčné hodnoty vo finančných nástrojoch a finančných zmluvách alebo na meranie výkonnosti investičných fondov a nariadenie (EÚ) 2015/847 o údajoch sprevádzajúcich prevody finančných prostriedkov (Ú. v. EÚ L 334, 27. 12. 2019).“.
+
+- 72. § 79c až 79k sa vypúšťajú.
+
+  - Poznámky pod čiarou k odkazom 60v až 60x sa vypúšťajú.
+
 - 73. V § 84 ods. 5 písm. a) a ods. 6 písm. a) sa vypúšťajú slová „alebo 14“.
 
 - 74. V § 85 ods. 7 sa slová „písm. f)“ nahrádzajú slovami „písm. d)“.
@@ -1529,6 +1567,8 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
   - Poznámka pod čiarou k odkazu 121ab znie:
 
   - „<sup>121ab</sup>) Nariadenie (EÚ) č. 600/2014 v platnom znení.“.
+
+- 104. V § 156 sa vypúšťa odsek 3.
 
 - 105. V § 157 ods. 1 sa na konci pripája táto veta: „Obchodník s cennými papiermi je povinný prihliadať na požiadavky a potrebné zdroje, ktoré sú založené na reálnom časovom rozvrhu a udržiavaní vlastných zdrojov a likvidity pri zohľadnení udržateľnosti obchodných modelov a stratégií.“.
 
