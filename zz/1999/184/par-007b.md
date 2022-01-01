@@ -12,13 +12,13 @@
 
 - e) nezabezpečí na svojom území označenie obce v jazyku menšiny vo svojej pôsobnosti v prípadoch ustanovených v § 4 ods. 1,
 
-- f) nezabezpečí uvedenie informácií, nápisov a oznamov vo svojej pôsobnosti podľa § 4 ods. 6 prvej vety,
+- f) nezabezpečí uvedenie informácií, nápisov a oznamov vo svojej pôsobnosti podľa § 4 ods. 7 prvej vety,
 
-- g) nezabezpečí na požiadanie informácie o všeobecne záväzných právnych predpisoch aj v jazyku menšiny (§ 4 ods. 8),
+- g) nezabezpečí na požiadanie informácie o všeobecne záväzných právnych predpisoch aj v jazyku menšiny (§ 4 ods. 9),
 
 - h) neposkytne úradu vlády informácie a písomné podklady podľa § 7a ods. 3.
 
-(2) Správneho deliktu na úseku používania jazykov menšín sa dopustí právnická osoba alebo fyzická osoba podnikateľ, ktorá neuvedie nápis alebo oznam podľa § 4 ods. 6 aj v jazyku menšiny, ak ide o nápis alebo oznam obsahujúci informáciu týkajúcu sa ohrozenia života, zdravia, majetku alebo bezpečnosti občanov Slovenskej republiky.
+(2) Správneho deliktu na úseku používania jazykov menšín sa dopustí právnická osoba alebo fyzická osoba podnikateľ, ktorá neuvedie nápis alebo oznam podľa § 4 ods. 7 aj v jazyku menšiny, ak ide o nápis alebo oznam obsahujúci informáciu týkajúcu sa ohrozenia života, zdravia, majetku alebo bezpečnosti občanov Slovenskej republiky.
 
 (3) Správne delikty podľa odsekov 1 a 2 prejednáva úrad vlády.
 

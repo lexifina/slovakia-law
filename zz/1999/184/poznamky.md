@@ -14,6 +14,10 @@
 
 - 3aa) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. v znení neskorších predpisov.
 
+- 3ab) § 2 zákona Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov.
+
+- 3ac) Vyhláška Ministerstva vnútra Slovenskej republiky č. 30/2020 Z. z. o dopravnom značení.
+
 - 3b) § 18 zákona Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii v znení neskorších predpisov.
 
 - 3c) § 11a zákona Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov.

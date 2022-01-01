@@ -10,4 +10,4 @@
 
 (4) Ustanovenie § 2 ods. 6 sa nepoužije, ak sa označenie orgánu verejnej správy v jazyku menšiny zhoduje s názvom v štátnom jazyku.
 
-(5) Ustanovenia § 4 ods. 1 až 3 sa nepoužijú, ak sa označenie obce v jazyku menšiny zhoduje s názvom v štátnom jazyku.
+(5) Ustanovenia § 4 ods. 1 až 4 sa nepoužijú, ak sa označenie obce v jazyku menšiny zhoduje s názvom v štátnom jazyku.
