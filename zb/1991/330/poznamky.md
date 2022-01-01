@@ -294,6 +294,34 @@
 
 - 24) Zákon SNR č. 253/1991 Zb. o pôsobnosti vo veciach prevodov majetku štátu na iné osoby a o Fonde národného majetku Slovenskej republiky.
 
+- 24a) Zákon č. 50/1976 Zb. v znení neskorších predpisov.
+
+- Zákon č. 92/1991 Zb. v znení neskorších predpisov.
+
+- Zákon č. 229/1991 Zb. v znení neskorších predpisov.
+
+- Zákon Národnej rady Slovenskej republiky č.180/1995 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 543/2002 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 503/2003 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 504/2003 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 326/2005 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 274/2009 Z. z. o poľovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 97/2013 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 140/2014 Z. z. v znení neskorších predpisov.
+
+- Nariadenie vlády Slovenskej republiky č. 237/2010 Z. z., ktorým sa ustanovujú podrobnosti o postupe Slovenského pozemkového fondu pri poskytovaní náhradných pozemkov v znení neskorších predpisov.
+
+- Nariadenie vlády Slovenskej republiky č. 238/2010 Z. z. v znení neskorších predpisov.
+
+- 24b) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. v znení neskorších predpisov.
+
 - 25) § 6 ods. 1 písm. d) zákona č. 229/1991 Zb.Zákon č. 503/2003 Z. z. o navrátení vlastníctva k pozemkom a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov v znení zákona č. 217/2004 Z. z.
 
 - 26) Zákon SNR č. 81/1949 Zb. SNR o úprave právnych pomerov pasienkového majetku bývalých urbárnikov, komposesorátov a podobných právnych útvarov.
