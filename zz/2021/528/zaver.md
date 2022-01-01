@@ -1,0 +1,1 @@
+Ivan Korčok v. r.
