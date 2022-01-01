@@ -42,7 +42,11 @@
 
 (15) Odborné veterinárne činnosti môže vykonávať aj veterinárny lekár, občan členského štátu, ktorý získal doklad o vzdelaní alebo ktorého vzdelanie sa začalo v Talianskej republike pred 1. januárom 1985, ak tento doklad o vzdelaní doloží osvedčením o odbornej spôsobilosti vydaným príslušným orgánom Talianskej republiky, ktorým potvrdí, že podľa právneho poriadku Talianskej republiky vykonával veterinárnu činnosť najmenej počas troch za sebou nasledujúcich rokov v období piatich rokov pred vydaním takého osvedčenia alebo ktorým potvrdí, že doklad o vzdelaní bol udelený po skončení vzdelávania a odbornej prípravy, ktorej obsah je v súlade s prílohou č. 1.
 
-(16) Osvedčenie vydané príslušným orgánom členského štátu nesmie byť pri predložení staršie ako tri mesiace. Osvedčenie a doklad o vzdelaní musia byť predložené spolu s úradne osvedčeným prekladom do štátneho jazyka.
+(16) Osvedčenie vydané príslušným orgánom členského štátu nesmie byť pri predložení staršie ako tri mesiace. Osvedčenie a doklad o vzdelaní vydané príslušným orgánom členského štátu musia byť predložené spolu s ich prekladom do štátneho jazyka v písomnej forme. Osvedčený preklad osvedčenia alebo dokladu o vzdelaní vydaného príslušným orgánom členského štátu môže štátna veterinárna a potravinová správa alebo komora vyžadovať, ak
+
+- a) správnosť alebo úplnosť prekladu nebolo možné overiť prostredníctvom spolupráce<sup>19</sup>) príslušných orgánov a
+
+- b) má pochybnosti o jeho pravosti.
 
 (17) Ak má štátna veterinárna a potravinová správa alebo komora pri uznávaní dokladu o vzdelaní pochybnosti o pravosti alebo úplnosti dokladu o vzdelaní vydaného v členskom štáte, postupuje podľa osobitného predpisu.<sup>18</sup>)
 
