@@ -6,6 +6,8 @@
 
 - 4) § 13 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z.
 
+- 4a) § 2 ods. 1 zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov v znení neskorších predisov.
+
 - 5) § 23 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z.
 
 - 6) § 6 a 7 zákona Národnej rady Slovenskej republiky č. 73/1995 Z. z. o pobyte cudzincov na území Slovenskej republiky.
@@ -17,6 +19,8 @@
 - 9) § 9 zákona Národnej rady Slovenskej republiky č. 73/1995 Z. z.
 
 - 10) § 11 a 17 zákona č. 256/1992 Zb.
+
+- 10a) § 1 ods. 3 písm. i) zákona č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratívnej záťaže využívaním informačných systémov verejnej správy a o zmene a doplnení niektorých zákonov (zákon proti byrokracii) v znení neskorších predpisov.
 
 - 11) Napríklad § 88b Trestného poriadku v znení neskorších predpisov.
 
