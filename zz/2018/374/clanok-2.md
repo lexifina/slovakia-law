@@ -28,6 +28,12 @@ Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s
 
 - 4. V § 8 ods. 11 sa na konci pripája táto veta: „Údaj o zaradení osoby na dispenzarizáciu, ako aj o jej vyradení z dispenzarizácie je ošetrujúci lekár povinný zaznamenať v príslušnom elektronickom zdravotnom zázname v elektronickej zdravotnej knižke.“.
 
+- 7. V § 13 sa vypúšťa písmeno d) vrátane poznámky pod čiarou k odkazu 15.
+
+  - Doterajšie písmená e) až h) sa označujú ako písmená d) až g).
+
+- 8. V § 14 ods. 1 úvodnej vete sa slová „písm. e)“ nahrádzajú slovami „písm. d)“.
+
 - 9. V § 17 ods. 3 písm. a) sa slová „Úrad pre dohľad nad zdravotnou starostlivosťou (ďalej len „úrad pre dohľad“)” nahrádzajú slovami „úrad pre dohľad”.
 
 - 10. V § 18 ods. 1 sa slová „osobitným predpisom<sup>20</sup>)“ nahrádzajú slovami „osobitnými predpismi<sup>20</sup>)“.
