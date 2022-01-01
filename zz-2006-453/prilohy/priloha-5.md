@@ -1,0 +1,3 @@
+Príloha č. 5 k vyhláške č. 453/2006 Z. z.
+
+- ZOZNAM DIELCOV, V KTORÝCH SA NAVRHUJE VYHLÁSENIE OCHRANNÝCH LESOV [Vzor 05](../assets/f17fddeda72235e8cba7d30c202fc3c8fa7ee54615f2ca98a73b94edc190631d.pdf)
