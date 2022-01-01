@@ -1,0 +1,1 @@
+Príloha k vyhláške č. 538/2021 Z. z. [Image omitted: https://static.slov-lex.sk/pdf/prilohy/SK/ZZ/2021/538/20220101_5374345-2.pdf; Zoznam zdravotných výkonov pre klasifikačný systém diagnosticko-terapeutických skupín (príloha v PDF); reason: too large]
