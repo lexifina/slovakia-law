@@ -12,6 +12,10 @@ Zákon č. 544/2010 Z. z. o dotáciách v pôsobnosti Ministerstva práce, soci�
 
   - „<sup>34aaa</sup>) § 52zzj ods. 2 písm. c) zákona č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 416/2020 Z. z.“.
 
+- 2. Poznámka pod čiarou k odkazu 34aaa znie:
+
+- „<sup>34aaa</sup>) § 33 ods. 1 písm. c) zákona č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 416/2020 Z. z.“.
+
 - 3. V poznámke pod čiarou k odkazu 38 sa vypúšťajú slová „o dani z príjmov“.
 
 - 4. V § 9b sa za odsek 4 vkladá nový odsek 5, ktorý znie:
