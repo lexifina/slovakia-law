@@ -26,7 +26,7 @@
 
   - 2. dátum a miesto narodenia,
 
-  - 3. dátum a miesto úmrtia a úradne overenú kópiu úmrtného listu,
+  - 3. dátum a miesto úmrtia,
 
   - 4. dosiahnutú vojenskú hodnosť a
 
