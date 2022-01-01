@@ -80,7 +80,9 @@
 
 - 30d) § 6 zákona Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov.
 
-- 30e) § 7a zákona č. 597/2003 Z. z. v znení zákona č. 325/2012 Z. z.
+- 30e) § 7a zákona č. 597/2003 Z. z. v znení neskorších predpisov.
+
+- 30ea) § 2 ods. 1 písm. c) nariadenia vlády Slovenskej republiky č. 668/2004 Z. z. o rozdeľovaní výnosu dane z príjmov územnej samospráve v znení neskorších predpisov.
 
 - 30f) § 8 zákona č. 302/2001 Z. z. v znení neskorších predpisov.
 
@@ -107,6 +109,10 @@
 - 36) § 4 zákona č. 302/2001 Z. z.
 
 - 36a) § 31 ods. 2 a 3 zákona č. 61/2015 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov.
+
+- 36b) § 8 zákona Národnej rady Slovenskej republiky č. 221/1996 Z. z. o územnom a správnom usporiadaní Slovenskej republiky.
+
+- 36c) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
 - 37) § 21 ods. 1 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
 
@@ -144,6 +150,8 @@
 
 - 47d) § 154 ods. 7 písm. b) zákona č. 245/2008 Z. z.
 
+- 47da) § 6 zákona č. 138/2019 Z. z. v znení zákona č. 414/2021 Z. z.
+
 - 47e) § 104 ods. 1 zákona č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
 
 - 48) § 8 zákona č. 597/2003 Z. z.
@@ -176,11 +184,9 @@
 
 - 57) Napríklad § 2 zákona Národnej rady Slovenskej republiky č. 279/1993 Z. z. v znení neskorších predpisov, § 1 zákona č. 29/1984 Zb. v znení neskorších predpisov.
 
-- 58) § 45 zákona č. 29/1984 Zb. v znení neskorších predpisov.
-
 - 60a) § 11 ods. 1 písm. d) zákona č. 138/2019 Z. z.
 
-- 61) § 1 zákona Národnej rady Slovenskej republiky č. 191/1994 Z. z. o označovaní obcí v jazyku národnostných menšín.
+- 61) § 2 zákona č. 184/1999 Z. z. o používaní jazykov národnostných menšín v znení neskorších predpisov.
 
 - 62) § 44 zákona č. 29/1984 Zb. v znení neskorších predpisov.
 
@@ -208,9 +214,9 @@
 
 - 80) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
-- 81) § 7 Občianskeho súdneho poriadku.
-
 - 81a) Zákon č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení zákona č. 84/2014 Z. z.
+
+- 81b) Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
 
 - 82) § 15 ods. 2 zákona č. 29/1984 Zb. v znení neskorších predpisov.
 

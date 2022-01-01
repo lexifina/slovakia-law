@@ -6,7 +6,7 @@
 
 (3) Hlavný školský inšpektor uloží pokutu do 663,50 eura zriaďovateľovi, ktorý vymenoval do funkcie riaditeľa osobu, ktorá nespĺňa predpoklady podľa § 3 ods. 5, a rozhodne o opatrení na odstránenie zisteného nedostatku.
 
-(4) Okresný úrad v sídle kraja uloží pokutu
+(4) Regionálny úrad uloží pokutu
 
 - a) do 663,50 eura
 

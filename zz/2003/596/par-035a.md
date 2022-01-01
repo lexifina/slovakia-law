@@ -28,4 +28,6 @@
 
 (3) Podrobnosti o údajoch požadovaných podľa odsekov 1 a 2, termíne a forme ich poskytnutia oznámi ministerstvo na svojom webovom sídle každoročne do 31. augusta.
 
-(4) Zriaďovatelia škôl a školských zariadení, ktoré sú zaradené do siete, majú povinnosť pri štvrťročných zisťovaniach poskytnúť ministerstvu prostredníctvom okresných úradov v sídle kraja do 15. dňa nasledujúceho kalendárneho štvrťroka údaje za kalendárny štvrťrok týkajúce sa najmä počtu zamestnancov, vyplatených mzdových prostriedkov, čerpaní prostriedkov zo štátneho rozpočtu a z mimorozpočtových zdrojov. Podrobnosti o požadovaných údajoch a forme ich poskytnutia oznámi ministerstvo na svojom webovom sídle každoročne do 31. januára.
+(4) Zriaďovatelia škôl a školských zariadení, ktoré sú zaradené do siete, majú povinnosť pri štvrťročných zisťovaniach poskytnúť ministerstvu prostredníctvom regionálnych úradov do 15. dňa nasledujúceho kalendárneho štvrťroka údaje za kalendárny štvrťrok týkajúce sa najmä počtu zamestnancov, vyplatených mzdových prostriedkov, čerpaní prostriedkov zo štátneho rozpočtu a z mimorozpočtových zdrojov. Podrobnosti o požadovaných údajoch a forme ich poskytnutia oznámi ministerstvo na svojom webovom sídle každoročne do 31. januára.
+
+(5) Správu o výchovno-vzdelávacej činnosti, jej výsledkoch a podmienkach vypracúvajú školy a školské zariadenia okrem školských účelových zariadení.
