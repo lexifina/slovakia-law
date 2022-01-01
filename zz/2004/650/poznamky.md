@@ -60,12 +60,6 @@
 
 - § 139 ods. 7 zákona č. 39/2015 Z. z.
 
-- 18a) § 34a ods. 1 a 2 a § 34b zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
-
-- § 10 ods. 1, 5, 6, 7, 10 a 11 a § 12 zákona č. 330/2007 Z. z. v znení neskorších predpisov.
-
-- Zákon č. 747/2004 Z. z. v znení neskorších predpisov.
-
 - 20) § 48 ods. 14 zákona č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 20a) § 7 ods. 14 a 15 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
