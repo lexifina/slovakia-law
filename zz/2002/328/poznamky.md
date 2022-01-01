@@ -226,7 +226,7 @@
 
 - 47c) § 107 ods. 5 zákona č. 35/2019 Z. z.
 
-- 47d) § 108 zákona č. 35/2019 Z. z.
+- 47d) § 108, § 113 ods. 6 štvrtá veta a § 262 ods. 4 zákona č. 35/2019 Z. z. v znení zákona č. 431/2021 Z. z.
 
 - 48) § 8a ods. 1 písm. r) zákona č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení zákona č. 158/2001 Z. z.
 
