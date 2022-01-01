@@ -38,7 +38,7 @@
 
 - d) osoba, ktorá je platiteľom dane zo zemného plynu, ak jej vznikla daňová povinnosť podľa odseku 3.
 
-(6) O registráciu platiteľa dane zo stlačeného zemného plynu a o vydanie osvedčenia o registrácii platiteľa dane zo stlačeného zemného plynu najneskôr v deň vzniku prvej daňovej povinnosti je povinná požiadať colný úrad
+(6) O registráciu platiteľa dane zo stlačeného zemného plynu a o vydanie rozhodnutia o registrácii platiteľa dane zo stlačeného zemného plynu najneskôr v deň vzniku prvej daňovej povinnosti je povinná požiadať colný úrad
 
 - a) osoba podľa odseku 4 a odseku 5 písm. a), ak už nie je registrovaná ako platiteľ dane zo zemného plynu podľa § 35,
 
@@ -48,7 +48,7 @@
 
 (7) Zahraničná osoba, ktorá je platiteľom dane zo stlačeného zemného plynu podľa odseku 5 písm. b), je povinná požiadať Colný úrad Bratislava o registráciu platiteľa dane zo stlačeného zemného plynu najneskôr v deň vzniku prvej daňovej povinnosti. Na žiadosť o registráciu platiteľa dane zo stlačeného zemného plynu sa vzťahuje odsek 8 primerane.
 
-(8) Na registráciu platiteľa dane zo stlačeného zemného plynu, vydanie osvedčenia o registrácii platiteľa dane zo stlačeného zemného plynu, odňatie osvedčenia o registrácii platiteľa dane zo stlačeného zemného plynu a zrušenie registrácie platiteľa dane zo stlačeného zemného plynu sa použije § 35 primerane.
+(8) Na registráciu platiteľa dane zo stlačeného zemného plynu, vydanie rozhodnutia o registrácii platiteľa dane zo stlačeného zemného plynu, zrušenie rozhodnutia o registrácii platiteľa dane zo stlačeného zemného plynu a zrušenie registrácie platiteľa dane zo stlačeného zemného plynu sa použije § 35 primerane.
 
 (9) Prílohami k žiadosti o registráciu platiteľa dane zo stlačeného zemného plynu sú
 
@@ -60,7 +60,7 @@
 
 (11) Na vrátenie dane platiteľovi dane zo stlačeného zemného plynu sa použije § 37 primerane.
 
-(12) Platiteľ dane zo stlačeného zemného plynu podľa odseku 6 písm. b) je povinný predložiť dodávateľovi zemného plynu alebo dodávateľovi stlačeného zemného plynu osvedčenie o registrácii platiteľa dane zo stlačeného zemného plynu alebo osvedčenie o registrácii platiteľa dane zo zemného plynu vydané colným úradom najneskôr pred prvým odberom zemného plynu alebo stlačeného zemného plynu. Dodávateľ zemného plynu alebo dodávateľ stlačeného zemného plynu nesmie dodať zemný plyn alebo stlačený zemný plyn bez dane osobe bez predloženia osvedčenia o registrácii platiteľa dane zo stlačeného zemného plynu alebo osvedčenia o registrácii platiteľa dane zo zemného plynu.
+(12) Platiteľ dane zo stlačeného zemného plynu podľa odseku 6 písm. b) je povinný predložiť dodávateľovi zemného plynu alebo dodávateľovi stlačeného zemného plynu rozhodnutie o registrácii platiteľa dane zo stlačeného zemného plynu alebo rozhodnutie o registrácii platiteľa dane zo zemného plynu vydané colným úradom najneskôr pred prvým odberom zemného plynu alebo stlačeného zemného plynu. Dodávateľ zemného plynu alebo dodávateľ stlačeného zemného plynu nesmie dodať zemný plyn alebo stlačený zemný plyn bez dane osobe bez predloženia rozhodnutia o registrácii platiteľa dane zo stlačeného zemného plynu alebo rozhodnutia o registrácii platiteľa dane zo zemného plynu.
 
 (13) Platiteľ dane zo stlačeného zemného plynu, podľa svojej činnosti, je povinný priebežne viesť evidenciu množstva
 
