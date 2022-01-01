@@ -1,0 +1,7 @@
+Príloha č. 3 k zákonu č. 487/2021 Z. z.
+
+- ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
+
+  - 1. Smernica Európskeho parlamentu a Rady 2005/36/ES zo 7. septembra 2005 o uznávaní odborných kvalifikácií (Ú. v. EÚ L 255, 30. 9. 2005) v znení smernice Rady 2006/100/ES z 20. novembra 2006 (Ú. v. EÚ L 363, 20. 12. 2006), nariadenia Komisie (ES) č. 1430/2007 z 5. decembra 2007 (Ú. v. EÚ L 320, 6. 12. 2007), nariadenia Komisie (ES) č. 755/2008 z 31. júla 2008 (Ú. v. EÚ L 205, 1. 8. 2008), nariadenia Európskeho parlamentu a Rady (ES) č. 1137/2008 z 22. októbra 2008 (Ú. v. EÚ L 311, 21. 11. 2008), nariadenia Komisie (ES) č. 279/2009 zo 6. apríla 2009 (Ú. v. EÚ L 93, 7. 4. 2009), nariadenia Komisie (EÚ) č. 213/2011 z 3. marca 2011 (Ú. v. EÚ L 59, 4. 3. 2011), nariadenia Komisie (EÚ) č. 623/2012 z 11. júla 2012 (Ú. v. EÚ L 180, 12. 7. 2012), smernice Rady 2013/25/EÚ z 13. mája 2013 (Ú. v. EÚ L 158, 10. 6. 2013), smernice Európskeho parlamentu a Rady 2013/55/EÚ z 20. novembra 2013 (Ú. v. EÚ L 354, 28. 12. 2013), delegovaného rozhodnutia Komisie (EÚ) 2016/790 z 13. januára 2016 (Ú. v. EÚ L 134, 24. 5. 2016), delegovaného rozhodnutia Komisie (EÚ) 2017/2113 z 11. septembra 2017 (Ú. v. EÚ L 317, 1. 12. 2017), delegovaného rozhodnutia Komisie (EÚ) 2019/608 zo 16. januára 2019 (Ú. v. EÚ L 104, 15. 4. 2019) a delegovaného rozhodnutia Komisie (EÚ) 2020/548 z 23. januára 2020 (Ú. v. EÚ L 131, 24. 4. 2020).
+
+  - 2. Smernica Európskeho parlamentu a Rady 2006/123/ES z 12. decembra 2006 o službách na vnútornom trhu (Ú. v. EÚ L 376, 27. 12. 2006).
