@@ -1,0 +1,1 @@
+Príloha k opatreniu č. 31/2021 R. o. [príloha](../assets/c5727cda8188fc28b3f94257d26517cdd1e87dca0e9d46fd53402222a5e53b6c.pdf) [príloha](../assets/7aa20d7fa366732f196d8d7f05817c75021b84f091181b196411bc37c4b62876.pdf)
