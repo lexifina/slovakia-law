@@ -58,6 +58,24 @@ Zákon č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona
 
 - Poskytovateľ sociálnej služby je povinný každý zápis obmedzenia prijímateľa sociálnej služby a údaje uvedené v registri obmedzení bezodkladne po použití prostriedkov obmedzenia oznámiť ministerstvu, zákonnému zástupcovi prijímateľa sociálnej služby, dôverníkovi prijímateľa sociálnej služby a opatrovníkovi ustanovenému prijímateľovi sociálnej služby súdom.<sup>22</sup>)“.
 
+- 5. V § 10 odsek 6 znie:
+
+- „(6)
+
+- Poskytovateľ sociálnej služby je povinný použitie prostriedkov obmedzenia bezodkladne a každý zápis obmedzenia prijímateľa sociálnej služby vrátane údajov uvedených v registri obmedzení do ôsmich dní po použití prostriedkov obmedzenia oznámiť
+
+- a)
+
+- zákonnému zástupcovi prijímateľa sociálnej služby,
+
+- b)
+
+- dôverníkovi prijímateľa sociálnej služby a
+
+- c)
+
+- opatrovníkovi ustanovenému prijímateľovi sociálnej služby súdom.<sup>22</sup>)“.
+
 - 6. V § 10 ods. 7 prvej vete sa slová „služby alebo“ nahrádzajú slovami „služby, dôverníka prijímateľa sociálnej služby a“ a vypúšťa sa druhá veta.
 
 - 7. V § 55 ods. 1 sa nad slovom „opatrovníkovi“ odkaz „<sup>28</sup>)“ nahrádza odkazom „<sup>15</sup>)“.
@@ -120,6 +138,10 @@ Zákon č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona
 
   - Doterajšie odseky 16 až 20 sa označujú ako odseky 17 až 21.
 
+- 11. V § 94c ods. 1 sa vypúšťa písmeno e).
+
+  - Doterajšie písmená f) až j) sa označujú ako písmená e) až i).
+
 - 12. V § 94c sa odsek 1 dopĺňa písmenom j), ktoré znie:
 
 - „j)
@@ -132,7 +154,15 @@ Zákon č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona
 
 - dôverníkovi.“.
 
+- 14. V § 94c sa odsek 2 dopĺňa písmenom l), ktoré znie:
+
+- „l)
+
+- dôverníkovi.“.
+
 - 15. V § 94c ods. 3 písm. e) sa za slová „písm. f)“ vkladajú slová „a j)“.
+
+- 16. V § 101 písm. a) piatom bode sa slová „až 19“ nahrádzajú slovami „až 20“.
 
 - 17. V § 101 písm. e) sa slová „až 19“ nahrádzajú slovami „až 20“.
 
