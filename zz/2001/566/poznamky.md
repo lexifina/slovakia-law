@@ -62,10 +62,6 @@
 
 - 18b) § 3 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení neskorších predpisov.
 
-- 18c) Čl. 20 a 21 nariadenia (EÚ) č. 600/2014.
-
-- 18d) Čl. 6, 7, 10,12, 13, 20 a 21 nariadenia (EÚ) č. 600/2014.
-
 - 18e) Čl. 2 ods. 1 bod 28 nariadenia (EÚ) č. 600/2014.
 
 - 18f) Čl. 2 ods. 1 bod 29 nariadenia (EÚ) č. 600/2014.
@@ -101,6 +97,8 @@
 - 24c) § 535 Občianskeho zákonníka.
 
 - 24d) Čl. 8 nariadenia (EÚ) 2019/2033 v platnom znení.
+
+- 24e) Čl. 2 ods. 1 bod 36a nariadenia (EÚ) č. 600/2014 v platnom znení.
 
 - 25) Napríklad § 2 ods. 6 zákona č. 483/2001 Z. z.
 
@@ -480,19 +478,11 @@
 
 - 60s) § 11 zákona č. 483/2001 Z. z. v znení zákona č. 214/2006 Z. z.
 
-- 60t) Delegované nariadenie (EÚ) 2017/571.
+- 60t) Čl. 27a až 27i nariadenia (EÚ) č. 600/2014 v platnom znení.
 
-- 60u) Napríklad § 4 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
+- 60u) Čl. 2 ods. 3 nariadenia (EÚ) č. 600/2014 v platnom znení.
 
-- 60ua) Čl. 6 a 20 nariadenia (EÚ) č. 600/2014.
-
-- 60v) Čl. 4 ods. 1 písm. a) a b) nariadenia (EÚ) č. 600/2014.
-
-- 60va) Čl. 10 a 21 nariadenia (EÚ) č. 600/2014.
-
-- 60w) Čl. 3 ods. 1 nariadenia (EÚ) č. 600/2014.
-
-- 60x) Čl. 26 nariadenia (EÚ) č. 600/2014.
+- 60ua) Čl. 4 nariadenia Európskeho parlamentu a Rady (EÚ) 2019/2175 z 18. decembra 2019, ktorým sa mení nariadenie (EÚ) č. 1093/2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre bankovníctvo), nariadenie (EÚ) č. 1094/2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre poisťovníctvo a dôchodkové poistenie zamestnancov), nariadenie (EÚ) č. 1095/2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre cenné papiere a trhy), nariadenie (EÚ) č. 600/2014 o trhoch s finančnými nástrojmi, nariadenie (EÚ) 2016/1011 o indexoch používaných ako referenčné hodnoty vo finančných nástrojoch a finančných zmluvách alebo na meranie výkonnosti investičných fondov a nariadenie (EÚ) 2015/847 o údajoch sprevádzajúcich prevody finančných prostriedkov (Ú. v. EÚ L 334, 27. 12. 2019).
 
 - 61) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
 

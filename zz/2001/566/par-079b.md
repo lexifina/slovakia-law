@@ -1,9 +1,5 @@
-# § 79b Služby vykazovania údajov
+# § 79b
 
-Službou vykazovania údajov sa rozumie
+(1) Činnosť a udelenie povolenia poskytovateľa schváleného mechanizmu zverejňovania (APA) a poskytovateľa schváleného mechanizmu podávania správ (ARM) ustanovuje osobitný predpis.<sup>60t</sup>)
 
-- a) vykonávanie činnosti poskytovateľa schváleného mechanizmu zverejňovania (APA),
-
-- b) vykonávanie činnosti poskytovateľa konsolidovaného informačného systému (CTP),
-
-- c) vykonávanie činnosti poskytovateľa schváleného mechanizmu podávania správ (ARM).
+(2) Ak Národná banka Slovenska udelí povolenie a vykonáva dohľad podľa osobitného predpisu<sup>60u</sup>) nad činnosťou poskytovateľa schváleného mechanizmu zverejňovania (APA) a nad činnosťou poskytovateľa schváleného mechanizmu podávania správ (ARM), monitoruje činnosť poskytovateľa schváleného mechanizmu zverejňovania (APA) a poskytovateľa schváleného mechanizmu podávania správ (ARM) a získava informácie s cieľom posúdiť dodržiavanie podmienok podľa osobitného predpisu.<sup>60ua</sup>)
