@@ -20,7 +20,7 @@
 
   - 2. dátum a miesto narodenia,
 
-  - 3. dátum a miesto úmrtia a úradne overenú kópiu úmrtného listu a
+  - 3. dátum a miesto úmrtia a úradne overenú kópiu úmrtného listu, ak údaje nie je možné získať z informačných systémov verejnej správy podľa osobitného predpisu,<sup>7aba</sup>)
 
   - 4. štátne občianstvo.
 
