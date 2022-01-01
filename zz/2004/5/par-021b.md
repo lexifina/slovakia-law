@@ -28,7 +28,7 @@
 
 - a) že zamestnávateľ, ktorý má záujem prijať do zamestnania štátneho príslušníka tretej krajiny, užívateľský zamestnávateľ, ak ide o štátneho príslušníka tretej krajiny podľa § 21 ods. 4 druhej vety, alebo hostiteľský subjekt
 
-  - 1. spĺňa podmienky podľa § 70 ods. 7 písm. a), b), e) a f); na zisťovanie a preukazovanie splnenia podmienok podľa § 70 ods. 7 písm. a) a b) sa primerane vzťahuje § 70 ods. 8 a splnenie podmienok podľa § 70 ods. 7 písm. e) a f) na žiadosť úradu preukazuje zamestnávateľ, užívateľský zamestnávateľ alebo hostiteľský subjekt,
+  - 1. spĺňa podmienky podľa § 70 ods. 7 písm. a), b), e) a f); na zisťovanie a preukazovanie splnenia podmienok podľa § 70 ods. 7 písm. a), b) a e) sa primerane vzťahuje § 70 ods. 8 a splnenie podmienky podľa § 70 ods. 7 písm. f) na žiadosť úradu preukazuje zamestnávateľ, užívateľský zamestnávateľ alebo hostiteľský subjekt,
 
   - 2. nemal uloženú pokutu podľa osobitného predpisu<sup>22kd</sup>) za porušenie povinnosti podľa § 23b ods. 11 v období piatich rokov pred podaním žiadosti o udelenie prechodného pobytu na účel zamestnania; splnenie týchto podmienok zisťuje úrad,
 

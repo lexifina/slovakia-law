@@ -18,9 +18,7 @@ Príloha č. 2 k zákonu č. 5/2004 Z. z.
 
     - g) doklad o skončení dočasnej pracovnej neschopnosti,
 
-    - h) potvrdenie o prepustení z väzby a potvrdenie o prepustení z výkonu trestu odňatia slobody,
-
-    - i) rodný list, ak mladistvý občan nemá spôsobilosť na právne úkony a je zastúpený zákonným zástupcom.
+    - h) potvrdenie o prepustení z väzby a potvrdenie o prepustení z výkonu trestu odňatia slobody.
 
   - B. Uchádzač o zamestnanie na účely sprostredkovania zamestnania predkladá tieto doklady:
 
