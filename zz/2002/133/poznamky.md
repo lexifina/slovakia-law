@@ -10,23 +10,31 @@
 
 - 6) Zákon č. 53/1964 Zb. o udeľovaní vedeckých hodností a o Štátnej komisii pre vedecké hodnosti v znení zákona Národnej rady Slovenskej republiky č. 324/1996 Z. z.
 
-- 7) Zákon č. 39/1977 Zb. o výchove nových vedeckých pracovníkov a o ďalšom zvyšovaní kvalifikácie vedeckých pracovníkov v znení zákona Národnej rady Slovenskej republiky č. 324/1996 Z. z.
-
-- Vyhláška Československej akadémie vied č. 55/1977 Zb. o ďalšom zvyšovaní kvalifikácie a o hodnotení tvorivej spôsobilosti vedeckých pracovníkov.
+- 7a) Napríklad § 4 ods. 1 písm. a) a b) a ods. 2 písm. a) zákona č. 49/2002 Z. z. o ochrane pamiatkového fondu, § 3 ods. 3 písm. c) a § 4 ods. 1 písm. a) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení zákona č. 204/2014 Z. z., § 36 ods. 1 písm. a) zákona č. 569/2007 Z. z. o geologických prácach (geologický zákon) v znení zákona č. 347/2021 Z. z.
 
 - 8) § 9 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
 
 - 9) Zákon č. 523/2004 Z. z. v znení neskorších predpisov.
 
+- 9a) § 1 ods. 4 zákona č. 243/2017 Z. z. v znení zákona č. 346/2021 Z. z.
+
+- 9b) § 54 ods. 22 zákona č. 131/2002 Z. z. v znení zákona č. 270/2018 Z. z.
+
 - 10) Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov.
 
 - Zákon č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 10a) Čl. 4 ods. 7 nariadenia Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) (Ú. v. EÚ L 119, 4. 5. 2016) v platnom znení.
+
+- § 5 písm. o) zákona č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
+
+- 10b) § 7 písm. a) a c) až e) zákona č. 172/2005 Z. z. o organizácii štátnej podpory výskumu a vývoja a o doplnení zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov v znení neskorších predpisov.
 
 - 13) Článok 102 Ústavy Slovenskej republiky.
 
 - 13a) § 25 ods. 1 a 2 zákona č. 243/2017 Z. z.
 
-- 15) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení zákona č. 502/2001 Z. z.
+- 15) Zákon č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 16) Napríklad zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky v znení neskorších predpisov,
 
@@ -34,19 +42,7 @@
 
 - 16a) Zákon č. 243/2017 Z. z.
 
-- 17) Zákon č. 523/2004 Z. z. v znení neskorších predpisov.
-
-- 17a) § 8a zákona č. 172/2005 Z. z. o organizácii štátnej podpory výskumu a vývoja a o doplnení zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov v znení neskorších predpisov.
-
-- 18) § 28 zákona č. 243/2017 Z. z. v znení neskorších predpisov.
-
-- 19) Napríklad zákon č. 49/2002 Z. z. o ochrane pamiatkového fondu v znení neskorších predpisov.
-
-- 20) § 54 zákona č. 131/2002 Z. z. v znení neskorších predpisov.
-
-- 21) § 1 ods. 4 zákona č. 552/2003 Z. z. v znení zákona č. 257/2011 Z. z.
-
-- 22) § 4 ods. 3 vyhlášky Československej akadémie vied č. 55/1977 Zb.
+- 16aa) Napríklad zákon č. 172/2005 Z. z. v znení neskorších predpisov, zákon č. 243/2017 Z. z. v znení zákona č. 346/2021 Z. z.
 
 - 23) § 4 ods. 2 písm. a) až f) a h) zákona č. 243/2017 Z. z.
 
