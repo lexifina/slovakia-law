@@ -4,6 +4,10 @@ Nariadenie vlády Slovenskej republiky č. 630/2008 Z. z., ktorým sa ustanovuj�
 
 - 1. V § 3 ods. 1 úvodnej vete sa vypúšťajú slová „a v rozpočtovej kapitole Ministerstva vnútra Slovenskej republiky (ďalej len „ministerstvo vnútra“) podľa § 3 ods. 3 písm. a) zákona“.
 
+- 2. V § 4 ods. 4 prvej vete sa za slovo „žiakov“ vkladajú slová „a účastníkov výchovy a vzdelávania“.
+
+- 3. V § 4 ods. 6 písm. c) sa za slovo „žiaci“ vkladajú slová „a účastníci výchovy a vzdelávania“.
+
 - 4. V § 6 ods. 1 úvodnej vete sa slová „vnútra podľa § 3 ods. 3 písm. a)“ nahrádzajú slovami „podľa § 3 ods. 2 písm. a) prvého bodu“.
 
 - 5. V § 7 ods. 12 druhej vete a ods. 15, § 10 úvodnej vete a § 11 sa slová „okresný úrad v sídle kraja“ vo všetkých tvaroch nahrádzajú slovami „regionálny úrad školskej správy“ v príslušnom tvare.
