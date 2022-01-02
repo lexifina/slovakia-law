@@ -38,7 +38,7 @@
 
   - 5. príspevku na školu v prírode,
 
-  - 6. príspevku na učebnice,
+  - 6. príspevku na edukačné publikácie,
 
   - 7. finančných prostriedkov za mimoriadne výsledky žiakov,
 
@@ -62,7 +62,7 @@
 
 - f) pokutu od 300 do 2 000 eur za poskytnutie nesprávnych údajov o výsledkoch hospodárenia v správe o hospodárení podľa § 7 ods. 2 a 3,
 
-- g) pokutu od 300 eur do 33 000 eur za poskytnutie nesprávnych údajov o počtoch detí alebo žiakov a ďalších údajov podľa § 7 ods. 4.
+- g) pokutu vo výške sumy, ktorá zodpovedá sume neoprávnene získaných finančných prostriedkov za poskytnutie nesprávnych údajov o počtoch detí alebo žiakov a ďalších údajov podľa § 7 ods. 4.
 
 (2) Ministerstvo alebo regionálny úrad uloží
 

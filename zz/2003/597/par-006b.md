@@ -79,3 +79,5 @@
 - c) úhradu nákladov súvisiacich s pobytom detí na aktivitách podľa osobitného predpisu<sup>23ha</sup>) alebo
 
 - d) úhradu nákladov za spotrebný materiál použitý pri výchove a vzdelávaní detí.
+
+(9) Ak je zriaďovateľom materskej školy vysoká škola, ústredný orgán štátnej správy alebo samosprávny kraj, príspevok na výchovu a vzdelávanie pozostáva len z príspevku na výchovu a vzdelávanie podľa odseku 1 písm. a).

@@ -46,13 +46,15 @@
 
 - 20) Napríklad § 476 až 480 Občianskeho zákonníka.
 
-- 20b) § 13 ods. 6 až 9 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
+- 20b) § 13 ods. 4 zákona č. 245/2008 Z. z. v znení zákona č. 415/2021 Z. z.
 
 - 21) § 76a Zákonníka práce v znení zákona č. 257/2011 Z. z.
 
 - 22) Zákon č. 291/2002 Z. z. o štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 22a) § 95 ods. 1 a § 104 ods. 1 zákona č. 245/2008 Z. z.
+
+- 22aa) § 2 písm. ah) zákona č. 245/2008 Z. z. v znení zákona č. 415/2021 Z. z.
 
 - 22b) § 3 a 5 vyhlášky Ministerstva školstva Slovenskej republiky č. 322/2008 Z. z. o špeciálnych školách.
 

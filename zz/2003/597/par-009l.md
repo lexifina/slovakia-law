@@ -8,7 +8,7 @@
 
 - b) súčinu 4-násobku objemu finančných prostriedkov pripadajúceho na 43,75 % sumy životného minima pre jedno nezaopatrené dieťa platnej k 1. septembru príslušného kalendárneho roka a počtu detí registrovaného zariadenia, pre ktoré je predprimárne vzdelávanie povinné, v školskom roku, ktorý sa začína v bežnom kalendárnom roku.
 
-(3) Dátum rozhodujúci pre počet detí použitý pri určovaní príspevku na výchovu a vzdelávanie pre registrované zariadenie je 15. september začínajúceho školského roka. Zriaďovatelia registrovaných zariadení sú povinní poskytnúť ministerstvu do 30. septembra kalendárneho roka počty detí podľa stavu k 15. septembru začínajúceho školského roka v štruktúre a formáte určenom ministerstvom.
+(3) Dátum rozhodujúci pre počet detí použitý pri určovaní príspevku na výchovu a vzdelávanie pre registrované zariadenie je 15. september začínajúceho školského roka. Zriaďovatelia registrovaných zariadení sú povinní poskytnúť ministerstvu do 30. septembra kalendárneho roka zoznam detí v rozsahu meno, priezvisko a rodné číslo a počty detí podľa stavu k 15. septembru začínajúceho školského roka v štruktúre a formáte určenom ministerstvom.
 
 (4) Ministerstvo
 
