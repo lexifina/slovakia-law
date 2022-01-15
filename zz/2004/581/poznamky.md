@@ -336,6 +336,10 @@
 
 - 41aaca) § 5c, 5d, § 6e zákona č. 578/2004 Z. z. v znení zákona č. 540/2021 Z. z.
 
+- 41aacb) § 10b zákona č. 576/2004 Z. z. v znení zákona č. 2/2022 Z. z.
+
+- § 152a zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov v znení zákona č. 2/2022 Z. z.
+
 - 41aad) § 6 ods. 11 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
 - 41ab) § 3 ods. 1 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov.
@@ -499,6 +503,8 @@
 - 71) § 81 ods. 1 písm. a) a b) zákona č. 578/2004 Z. z. v znení zákona č. 351/2005 Z. z.
 
 - 71a) § 79 ods. 1 písm. l) a w) zákona č. 578/2004 Z. z. v znení neskorších predpisov.
+
+- 71b) § 4 ods. 8 zákona č. 576/2004 Z. z. v znení zákona č. 2/2022 Z. z.
 
 - 72) Zákon č. 599/2001 Z. z. o osvedčovaní listín a podpisov na listinách obvodnými úradmi a obcami v znení zákona č. 515/2003 Z. z.
 
