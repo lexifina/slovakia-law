@@ -64,6 +64,8 @@
 
 - 6c) § 4 zákona Slovenskej národnej rady č. 73/1986 Zb. o umelom prerušení tehotenstva v znení zákona č. 419/1991 Zb.
 
+- 6d) § 152a zákona č. 245/2008 Z. z. v znení zákona č. 2/2022 Z. z.
+
 - 7) § 5 zákona č. 578/2004 Z. z.
 
 - 7a) Zákon č. 579/2004 Z. z. v znení neskorších predpisov.
@@ -98,7 +100,9 @@
 
 - 9aa) § 31 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
-- 9ab) § 7a zákona č. 581/2004 Z. z. v znení zákona č. 351/2017 Z. z.
+- 9ab) § 27 ods. 1 písm. a), d), g) a l) zákona č. 578/2004 Z. z. v znení neskorších predpisov.
+
+- 9ac) § 2 písm. k) zákona č. 245/2008 Z. z.
 
 - 10) § 5 zákona č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
 
