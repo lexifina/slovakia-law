@@ -214,6 +214,10 @@
 
 - 91) § 2 ods. 2 Obchodného zákonníka.
 
+- 91a) § 27 ods. 1 písm. a), d), g) a l) zákona č. 578/2004 Z. z. v znení neskorších predpisov.
+
+- 91b) § 6 zákona č. 576/2004 Z. z. v znení zákona č. 2/2022 Z. z.
+
 - 92) Zákon č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 678/2006 Z. z.
 
 - 92a) § 19 zákona č. 61/2015 Z. z.
