@@ -68,6 +68,10 @@
 
 - 13b) § 45 ods. 1 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení zákona č. 466/2008 Z. z.
 
+- 13ba) § 10b zákona č. 576/2004 Z. z. v znení zákona č. 2/2022 Z. z.
+
+- § 152a zákona č. 245/2008 Z. z. v znení zákona č. 2/2022 Z. z.
+
 - 14) Zákon č. 579/2004 Z. z. o záchrannej zdravotnej službe a o zmene a doplnení niektorých zákonov.
 
 - 14a) § 8 ods. 1 písm. a) zákona č. 579/2004 Z. z.
