@@ -1,6 +1,6 @@
 # § 65a Štátna ochrana prírody Slovenskej republiky
 
-(1) Štátna ochrana prírody Slovenskej republiky je odborná organizácia ochrany prírody a krajiny s celoslovenskou pôsobnosťou zriadená ministerstvom ako príspevková organizácia,<sup>98a</sup>) ktorá zabezpečuje úlohy na úseku ochrany prírody a krajiny podľa tohto zákona a osobitných predpisov.<sup>98b</sup>)
+(1) Štátna ochrana prírody Slovenskej republiky je odborná organizácia ochrany prírody a krajiny s celoslovenskou pôsobnosťou zriadená ministerstvom ako príspevková organizácia,<sup>98a</sup>) ktorá zabezpečuje úlohy na úseku ochrany prírody a krajiny podľa tohto zákona a osobitných predpisov<sup>98b</sup>) okrem úloh, ktoré sú v pôsobnosti správy národného parku podľa § 65b ods. 3.
 
 (2) Štátna ochrana prírody Slovenskej republiky
 
@@ -40,9 +40,9 @@
 
 - r) vyberá vstupné do chránených území,
 
-- s) spravuje jaskyne a pozemky vo vlastníctve štátu v chránených územiach a ich ochranných pásmach vrátane lesných pozemkov a poľnohospodárskej pôdy nadobudnuté podľa § 28 ods. 14 a 15, § 30 ods. 8, § 61c ods. 1 a § 63,
+- s) spravuje jaskyne a pozemky vo vlastníctve štátu v chránených územiach a ich ochranných pásmach vrátane lesných pozemkov a poľnohospodárskej pôdy nadobudnuté podľa § 28 ods. 14 a 15, § 30 ods. 8, § 61c ods. 1 a § 63 a osobitných predpisov,<sup>99</sup>)
 
-- t) užíva pozemky v chránených územiach a ich ochranných pásmach, ktoré sú predmetom nájmu podľa § 30 ods. 8 a § 61b, ako aj iné pozemky v chránených územiach a ich ochranných pásmach, ktoré má v nájme alebo výpožičke,
+- t) užíva pozemky v chránených územiach a ich ochranných pásmach, ktoré sú predmetom nájmu podľa § 30 ods. 8 a § 61b, ako aj iné pozemky, ktoré má v nájme alebo vo výpožičke alebo v správe, ak nie sú predmetom nájmu alebo výpožičky,
 
 - u) poskytuje vlastníkovi alebo nájomcovi pozemku súčinnosť pri zabezpečení starostlivosti o pozemok podľa § 61d,
 

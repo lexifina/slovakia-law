@@ -186,7 +186,7 @@
 
 - 64e) Napríklad Dohovor o mokradiach majúcich medzinárodný význam predovšetkým ako biotopy vodného vtáctva (oznámenie Federálneho ministerstva zahraničných vecí č. 396/1990 Zb.), Dohovor o ochrane svetového kultúrneho a prírodného dedičstva (oznámenie Federálneho ministerstva zahraničných vecí č. 159/1991 Zb.), Dohovor o biologickej diverzite (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 34/1996 Z. z.), Dohovor o ochrane sťahovavých druhov voľne žijúcich živočíchov (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 91/1998 Z. z.), Dohovor o ochrane európskych voľne žijúcich organizmov a prírodných stanovíšť (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 93/1998 Z. z.), Dohoda o ochrane netopierov v Európe (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 250/1999 Z. z.), Dohoda o ochrane africko-euroázijských druhov vodného sťahovavého vtáctva (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 268/2002 Z. z.), Rámcový dohovor o ochrane a trvalo udržateľnom rozvoji Karpát (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 111/2006 Z. z.).
 
-- 64f) § 4 ods. 1 a ods. 2 písm. a), g), h) a j) zákona č. 544/2002 Z. z. o Horskej záchrannej službe v znení neskorších predpisov.
+- 64f) § 4 ods. 1 a 2 zákona č. 544/2002 Z. z. o Horskej záchrannej službe v znení neskorších predpisov.
 
 - 65) § 39 ods. 4 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení zákona č. 255/2001 Z. z.
 
@@ -334,7 +334,7 @@
 
 - 98c) § 23 ods. 10 písm. b) zákona č. 326/2005 Z. z. v znení neskorších predpisov.
 
-- 99) Čl. V zákona Slovenskej národnej rady č. 295/1992 Zb. o niektorých opatreniach v miestnej samospráve a v štátnej správe.
+- 99) Napríklad § 9 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov, § 51 zákona č. 364/2004 Z. z. v znení neskorších predpisov.
 
 - 100) Zákon č. 283/2002 Z. z. o cestovných náhradách.
 
@@ -445,3 +445,41 @@
 - 125) Príloha č. 1 zákona č. 138/2010 Z. z.
 
 - 126) § 22 ods. 2 písm. a) zákona č. 326/2005 Z. z. v znení zákona č. 117/2010 Z. z.
+
+- 127) § 21 ods. 11 a 13 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
+
+- 128) § 17 ods. 1 zákona č. 229/1991 Zb. v znení neskorších predpisov.
+
+- § 50 a § 50a zákona č. 326/2005 Z. z. v znení neskorších predpisov.
+
+- 129) Napríklad zákon č. 326/2005 Z. z. v znení neskorších predpisov, zákon č. 97/2013 Z. z. v znení neskorších predpisov.
+
+- 130) § 50 ods. 6 zákona č. 326/2005 Z. z. v znení neskorších predpisov.
+
+- 131) Prvá časť zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. v znení neskorších predpisov.
+
+- 132) Zákon č. 330/1991 Zb. v znení neskorších predpisov.
+
+- 133) Zákon č. 97/2013 Z. z. v znení neskorších predpisov.
+
+- 134) § 3 písm. a) zákona č. 138/2010 Z. z. o lesnom reprodukčnom materiáli v znení neskorších predpisov.
+
+- 135) Napríklad § 13 ods. 4 zákona č. 504/2003 Z. z. v znení neskorších predpisov, § 51b zákona č. 326/2005 Z. z., § 12 ods. 2 zákona č. 97/2013 Z. z. v znení zákona č. 110/2018 Z. z.
+
+- 136) Zákon č. 292/2014 Z. z. o príspevku poskytovanom z európskych štrukturálnych a investičných fondov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 137) Zákon č. 206/2009 Z. z. o múzeách a o galériách a o ochrane predmetov kultúrnej hodnoty a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov.
+
+- 138) Napríklad druhá a tretia časť zákona č. 229/1991 Zb. v znení neskorších predpisov, § 50 až 50b zákona č. 326/2005 Z. z. v znení neskorších predpisov.
+
+- 139) Napríklad tretia a štvrtá časť zákona č. 229/1991 Zb. v znení neskorších predpisov, § 15b ods. 2 zákona č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov v znení neskorších predpisov.
+
+- 140) § 2 písm. p) a § 4 až 4g zákona č. 326/2005 Z. z. v znení neskorších predpisov.
+
+- 141) § 2 písm. y) zákona č. 138/2010 Z. z.
+
+- 142) Zákon č. 274/2009 Z. z. v znení neskorších predpisov.
+
+- 143) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 995/2010 z 20. októbra 2010, ktorým sa ustanovujú povinnosti hospodárskych subjektov uvádzajúcich na trh drevo a výrobky z dreva (Ú. v. EÚ L 295, 12. 11. 2010) v platnom znení.
+
+- Zákon č. 113/2018 Z. z. o uvádzaní dreva a výrobkov z dreva na vnútorný trh a o zmene a doplnení zákona č. 280/2017 Z. z. o poskytovaní podpory a dotácie v pôdohospodárstve a rozvoji vidieka a o zmene zákona č. 292/2014 Z. z. o príspevku poskytovanom z európskych štrukturálnych a investičných fondov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov v znení zákona č. 355/2019 Z. z.
