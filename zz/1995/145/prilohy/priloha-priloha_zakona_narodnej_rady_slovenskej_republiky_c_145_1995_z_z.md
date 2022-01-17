@@ -3080,45 +3080,97 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Oslobodenie Od poplatku podľa položky 90 až 92 je oslobodená osoba, ktorej sa vydáva dokument, rozhodnutie, osvedčenie alebo preukaz ako náhrada pri zmene nezavinenej fyzickou osobou alebo právnickou osobou, alebo ak bola v dokumente, rozhodnutí, osvedčení alebo preukaze zistená chyba zapríčinená štátnym orgánom, ktorý dokument, rozhodnutie, osvedčenie alebo preukaz vydal. Od poplatku podľa položky 92 písm. b) je oslobodený výmaz lietadla, o ktorého vyradení z prevádzky rozhodol Letecký úrad Slovenskej republiky. | | |
 
-    - Položka 93
+  - Položka 93
 
-  - a) Vykonanie skúšky na získanie osvedčenia o odbornej spôsobilosti dopravcu | 150 eur |
+    - a) Vykonanie skúšky na získanie osvedčenia o odbornej spôsobilosti dopravcu ...........150 eur
 
-  - b) Vykonanie skúšky odbornej spôsobilosti člena posádky plavidla alebo vedúceho plavby na plavebnej komore | 165,50 eura |
+    - b) Vydanie osvedčenia o odbornej spôsobilosti dopravcu .............................................. 20 eur
 
-  - c) Vykonanie skúšky odbornej spôsobilosti vodcu malého plavidla | 33 eur |
+    - c) Vydanie duplikátu osvedčenia o odbornej spôsobilosti dopravcu ............................... 10 eur
 
-  - d) Vykonanie opravnej skúšky podľa | |
+    - d) Zmena údajov v osvedčení o odbornej spôsobilosti dopravcu ................................... 10 eur
 
-  - 1. písmena b) | 82,50 eura |
+    - e) Vykonanie skúšky bezpečnostného poradcu alebo odborníka ................................. 166 eur
 
-  - 2. písmena c) | 16,50 eura |
+    - f) Vydanie osvedčenia o odbornej spôsobilosti bezpečnostného
 
-  - e) Vydanie preukazu odbornej spôsobilosti podľa písmen b) alebo c) | 9,50 eura |
+    - poradcu alebo odborníka ................................................................................................ 16 eur
 
-  - f) Vydanie duplikátu preukazu odbornej spôsobilosti podľa písmena e) | 9,50 eura |
+    - g) Vydanie duplikátu osvedčenia o odbornej spôsobilosti podľa písmena f) .................. 10 eur
 
-  - g) Vydanie služobnej lodníckej knižky člena lodnej posádky | 33 eur |
+    - h) Vykonanie teoretickej skúšky na získanie odbornej spôsobilosti ............................. 166 eur
 
-  - h) Vydanie osvedčenia o odbornej spôsobilosti dopravcu | 20 eur |
+    - i) Vykonanie teoretickej skúšky na získanie osobitného povolenia
 
-  - i) Vydanie duplikátu osvedčenia o odbornej spôsobilosti dopravcu | 10 eur |
+    - na plavbu pomocou radaru alebo na získanie osobitného povolenia
 
-  - j) Podanie žiadosti o zmenu údajov v osvedčení o odbornej spôsobilosti dopravcu | 10 eur |
+    - na vodných cestách námorného charakteru .................................................................. 60 eur
 
-  - k) Vykonanie skúšky bezpečnostného poradcu alebo odborníka | 165,50 eura |
+    - j) Vykonanie praktickej skúšky alebo opravnej praktickej skúšky na získanie
 
-  - l) Vydanie osvedčenia o odbornej spôsobilosti bezpečnostného poradcu alebo odborníka | 16,50 eura |
+      - 1. odbornej spôsobilosti lodný kapitán EÚ alebo odborník
 
-  - m) Vydanie duplikátu osvedčenia o odbornej spôsobilosti podľa písmena l) | 9,50 eura |
+      - na skvapalnený zemný plyn ..................................................................................... 500 eur
 
-  - n) Vydanie potvrdenia zdravotnej spôsobilosti | 5 eur |
+      - 2. odbornej spôsobilosti odborník na prepravu cestujúcich ..................................... 500 eur
 
-  - o) Vydanie potvrdenia o znalosti špecifických úsekov vodnej cesty Dunaj | 10 eur |
+      - 3. osobitného povolenia na plavbu pomocou radaru ............................................... 500 eur
 
-  - Oslobodenie Od poplatku podľa písmen c) až e) tejto položky sú oslobodení príslušníci Hasičského a záchranného zboru na služobné účely a plavební inšpektori. |
+    - k) Vykonanie opravnej teoretickej skúšky podľa
 
-  - Poznámka Poplatky podľa tejto položky sa vzťahujú iba na vnútrozemskú plavbu. |
+      - 1. písmena h) ........................................................................................................... 83 eur
+
+      - 2. písmena i) ............................................................................................................ 30 eur
+
+    - l) Vykonanie skúšky odbornej spôsobilosti vodcu malého plavidla ............................... 32 eur
+
+    - m) Vykonanie opravnej skúšky podľa písmena l) .......................................................... 16 eur
+
+    - n) Vydanie preukazu odbornej spôsobilosti vodcu malého plavidla .............................. 10 eur
+
+    - o) Vydanie preukazu odbornej spôsobilosti – lodný kapitán Európskej únie,
+
+    - preukazu odbornej spôsobilosti Európskej únie – odborník na skvapalnený
+
+    - zemný plyn, preukazu odbornej spôsobilosti Európskej únie – odborník
+
+    - na prepravu cestujúcich, preukazu odbornej spôsobilosti – lodný strojník,
+
+    - preukazu odbornej spôsobilosti – vnútroštátny lodný kapitán, preukazu
+
+    - odbornej spôsobilosti – vnútroštátny lodník, preukazu odbornej
+
+    - spôsobilosti – vnútroštátny pomocný lodník, preukazu vedúceho plavby
+
+    - na plavebných komorách Slovenskej republiky, preukazu odbornej
+
+    - spôsobilosti – vodca prievoznej lode bez vlastného strojového pohonu alebo
+
+    - preukazu odbornej spôsobilosti – vodca plávajúceho stroja .......................................... 10 eur
+
+    - p) Vydanie služobnej lodníckej knižky Európskej únie
+
+    - alebo služobnej lodníckej knižky ako jediného dokladu ................................................. 30 eur
+
+    - q) Vydanie vnútroštátnej služobnej lodníckej knižky ...................................................... 30 eur
+
+    - r) Vydanie poverenia na posudzovanie zdravotnej spôsobilosti ..................................... 10 eur
+
+    - s) Vydanie lodného denníka ........................................................................................... 50 eur
+
+    - t) Schválenie simulátora ................................................................................................100 eur
+
+    - u) Vydanie poverenia na vykonávanie výcvikového kurzu alebo vydanie
+
+    - poverenia na vykonávanie základného bezpečnostného výcviku ..................................150 eur
+
+    - Oslobodenie
+
+    - Od poplatku podľa písmen l) až n) tejto položky sú oslobodení plavební inšpektori. Od poplatku podľa písmena o) tejto položky je oslobodené vydanie preukazu odbornej spôsobilosti – lodný kapitán Európskej únie, preukazu odbornej spôsobilosti Európskej únie – odborník na skvapalnený zemný plyn a preukazu odbornej spôsobilosti Európskej únie – odborník na prepravu cestujúcich v elektronickej podobe.
+
+    - Poznámka
+
+    - Poplatky podľa tejto položky sa vzťahujú iba na vnútrozemskú plavbu.
 
     - Položka 94
 

@@ -222,8 +222,6 @@
 
 - 25aaa) § 14 a 15 zákona č. 474/2013 Z. z. o výbere mýta za užívanie vymedzených úsekov pozemných komunikácií a o zmene a doplnení niektorých zákonov.
 
-- 25b) § 39 zákona č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 26) § 67 až 67d, § 67f a 77 zákona č. 351/2011 Z. z. o elektronických komunikáciách v znení zákona č. 247/2015 Z. z.
 
 - 27) § 31 zákona č. 610/2003 Z. z.
