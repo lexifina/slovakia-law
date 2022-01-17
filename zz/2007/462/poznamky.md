@@ -36,7 +36,7 @@
 
 - 13d) § 2 písm. l) zákona č. 338/2000 Z. z. v znení neskorších predpisov.
 
-- 13e) § 28 ods. 12 zákona č. 338/2000 Z. z. v znení neskorších predpisov.
+- 13e) § 28 ods. 13 zákona č. 338/2000 Z. z. v znení neskorších predpisov.
 
 - 13f) § 16 ods. 1 nariadenia vlády Slovenskej republiky č. 193/2009 Z. z. o technickej spôsobilosti a prevádzkovej spôsobilosti plavidiel.
 

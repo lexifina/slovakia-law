@@ -1,1 +1,1 @@
-Príloha č. 3 k zákonu č. 462/2007 Z. z. [príloha](../assets/118937b6515ebb0349b61a5fd002dd2c53c23594419bd1b5a91bc39ea318a3b5.pdf)
+Príloha č. 3 k zákonu č. 462/2007 Z. z. [príloha](../assets/6980b91e62564868b06b7077539bb12c30e98a73050162506ad91469d7f0cd5b.pdf)
