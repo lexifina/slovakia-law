@@ -12,9 +12,9 @@
 
 - e) osobitné povolenie na prepravu plavidla podľa § 39 písm. f),
 
-- f) lodné listiny, preukazy odbornej spôsobilosti a služobné lodnícke knižky podľa § 39 písm. i) prvého bodu až piateho bodu,
+- f) lodné listiny, doklady a preukazy podľa § 39 písm. i) prvého bodu až piateho bodu,
 
-- g) potvrdenie zdravotnej spôsobilosti podľa § 39 písm. k) prvého bodu,
+- g) lodné denníky podľa § 39 písm. k) prvého bodu,
 
 - h) povolenie na medzinárodnú prepravu nebezpečného tovaru v tankových plavidlách podľa § 39 písm. t),
 
@@ -22,9 +22,7 @@
 
 - j) osvedčenie o osobitných znalostiach podľa § 39 písm. x),
 
-- k) preukaz radarového navigátora podľa § 39 písm. i) druhého bodu a
-
-- l) potvrdenie znalosti špecifických úsekov vodnej cesty Dunaj podľa § 39 písm. k) druhého bodu.
+- k) doklad o poučení zo znalosti rizík príslušnej pracovnej pozície posudzovanej osoby podľa § 39 písm. k) druhého bodu.
 
 (2) V konaní podľa tohto zákona ministerstvo vydáva alebo udeľuje a doručuje výlučne v listinnej podobe<sup>25</sup>) tieto dokumenty:
 

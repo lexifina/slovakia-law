@@ -8,7 +8,7 @@
 
 (4) Vykonávaním technickej prehliadky malého plavidla poverí Dopravný úrad na základe písomnej žiadosti fyzickú osobu – podnikateľa, ktorá má bydlisko na území členského štátu, alebo právnickú osobu, ktorá má sídlo, podnik alebo organizačnú zložku podniku umiestnenú na území členského štátu, ak
 
-- a) predloží výpis z obdobného registra, akým je obchodný register alebo živnostenský register vedený v cudzom štáte nie starší ako tri mesiace,
+- a) predloží osvedčený preklad výpisu z obdobného registra, akým je obchodný register alebo živnostenský register vedený v cudzom štáte nie starší ako tri mesiace,
 
 - b) má vnútornú organizačnú štruktúru a systém riadenia kvality na vykonávanie technických prehliadok odsúhlasený akreditačným orgánom<sup>12e</sup>) alebo iným národným akreditačným orgánom<sup>12f</sup>) podľa technickej normy<sup>12fa</sup>) alebo obdobnej technickej špecifikácie,
 

@@ -16,7 +16,7 @@
 
 - a) písomne požiada o poverenie vykonávať technické prehliadky plavidiel podľa osobitného predpisu,
 
-- b) predloží výpis z obdobného registra, akým je obchodný register vedený v cudzom štáte, nie starší ako tri mesiace, ak je žiadateľ cudzinec,
+- b) predloží osvedčený preklad výpisu z obdobného registra, akým je obchodný register vedený v cudzom štáte, nie starší ako tri mesiace, ak je žiadateľ cudzinec,
 
 - c) má vnútornú organizačnú štruktúru a systém riadenia kvality na vykonávanie technických prehliadok odsúhlasený akreditačným orgánom<sup>12e</sup>) alebo iným národným akreditačným orgánom<sup>12f</sup>) podľa technickej normy<sup>12fa</sup>) alebo obdobnej technickej špecifikácie,
 

@@ -14,11 +14,11 @@
 
 (3) Dopravný úrad uloží pokutu od 330 eur do 6 635 eur
 
-- a) prevádzkovateľovi plavidla, ak porušil povinnosti ustanovené v tomto zákone (§ 22 až 23, § 24 ods. 8, § 26 a 27, § 28 ods. 2, 3 a 6 a § 39c ods. 4),
+- a) prevádzkovateľovi plavidla, ak porušil povinnosti ustanovené v tomto zákone (§ 22 až 23, § 24 ods. 9, § 26 a 27, § 28 ods. 2, 3 a 6, § 29 ods. 8 a § 39c ods. 4),
 
 - b) dopravcovi, ak vykonával verejnú vodnú dopravu bez licencie (§ 7 ods. 5) alebo ak porušil povinnosti dopravcu stanovené v tomto zákone alebo v osobitnom predpise<sup>24f</sup>) alebo povinnosti vyplývajúce z medzinárodných dohôd o vnútrozemskej plavbe, ktorými je Slovenská republika viazaná,
 
-- c) prevádzkovateľovi verejného prístavu alebo užívateľovi verejného prístavu, ak porušil povinnosti pri prevádzke a používaní prístavov (§ 5),
+- c) osobe poverenej vykonávaním výcvikového kurzu, ktorá porušila povinnosti pri vykonávaní výcvikového kurzu alebo vykonáva výcvikový kurz v rozpore s týmto zákonom alebo súvisiacimi všeobecne záväznými právnymi predpismi,
 
 - d) správcovi vodného toku, ak porušil povinnosti týkajúce sa udržiavania a zlepšovania podmienok na prevádzku plavidiel na sledovaných vodných cestách alebo ak neuposlúchol pokyn Dopravného úradu týkajúci sa vytýčenia plavebnej dráhy, vyznačenia plavebných prekážok na vodných cestách alebo ich odstránenia (§ 3 ods. 2),
 
@@ -42,17 +42,21 @@
 
 - n) usporiadateľovi verejného podujatia podľa článku 1.23 Európskych pravidiel pre plavbu na vnútrozemských vodných cestách, ak ho uskutočnil bez súhlasu Dopravného úradu alebo ak nedodržal podmienky určené v súhlase na usporiadanie takéhoto verejného podujatia,
 
-- o) prevádzkovateľovi prístaviska, prekladiska, výväziska alebo kotviska, ak prevádzkuje prístavisko, prekladisko, výväzisko alebo kotvisko bez rozhodnutia o povolení na ich prevádzku alebo porušil podmienky uvedené v rozhodnutí o povolení na ich prevádzku alebo povinnosti ustanovené týmto zákonom alebo všeobecne záväzným právnym predpisom vydaným na jeho vykonanie.
+- o) prevádzkovateľovi prístaviska, prekladiska, výväziska alebo kotviska, ak prevádzkuje prístavisko, prekladisko, výväzisko alebo kotvisko bez rozhodnutia o povolení na ich prevádzku alebo porušil podmienky uvedené v rozhodnutí o povolení na ich prevádzku alebo povinnosti ustanovené týmto zákonom alebo všeobecne záväzným právnym predpisom vydaným na jeho vykonanie,
+
+- p) osobe, ktorá vykonáva výcvikový kurz bez poverenia na vykonávanie výcvikového kurzu vydaného Dopravným úradom,
+
+- q) osobe, ktorá vykonáva základný bezpečnostný výcvik bez poverenia na vykonávanie základného bezpečnostného výcviku vydaného Dopravným úradom,
+
+- r) osobe poverenej vykonávaním základného bezpečnostného výcviku, ktorá porušila povinnosti pri vykonávaní základného bezpečnostného výcviku alebo vykonáva základný bezpečnostný výcvik v rozpore s týmto zákonom alebo súvisiacimi všeobecne záväznými právnymi predpismi.
 
 (4) Dopravný úrad uloží pokutu od 100 eur do 1 660 eur
 
 - a) správcovi vodného toku, vodcovi plavidla alebo Slovenskému hydrometeorologickému ústavu, ak neposkytne Dopravnému úradu informácie podľa § 39b ods. 2,
 
-- b) vodcovi plavidla, ak nepodá Dopravnému úradu hlásenie z lode podľa § 39b ods. 3,
+- b) vodcovi plavidla, ak porušil povinnosti ustanovené v § 39c ods. 6 až 8 a 10,
 
-- c) vodcovi plavidla, ak porušil povinnosti ustanovené v § 39c ods. 6 až 8 a 10,
-
-- d) prevádzkovateľovi plavidla, ak porušil povinnosti ustanovené v § 28 ods. 3, 4 a 6.
+- c) prevádzkovateľovi plavidla, ak porušil povinnosti ustanovené v § 28 ods. 3, 4 a 6.
 
 (5) Dopravný úrad uloží prevádzkovateľovi plavidla pokutu od 1 000 eur do 10 000 eur, ak do troch rokov od uloženia sankcie opakovane naplní znaky skutkovej podstaty podľa odseku 3 písm. g).
 
@@ -66,8 +70,8 @@
 
 (10) Dopravný úrad môže rozhodnutím odňať
 
-- a) členovi posádky plavidla alebo vodcovi malého plavidla ňou vydaný preukaz o odbornej spôsobilosti zadržaný podľa § 39d ods. 5 písm. a) na určitý čas, najviac tri roky, a v prípade straty zdravotnej spôsobilosti natrvalo; vrátenie odňatého preukazu je podmienené preskúšaním jeho držiteľa,
+- a) členovi posádky plavidla alebo vodcovi malého plavidla ním vydaný doklad podľa § 30 ods. 3 až 6 alebo § 31 zadržaný podľa § 39d ods. 5 písm. a) na určitý čas, najviac tri roky, a v prípade straty zdravotnej spôsobilosti natrvalo; vrátenie odňatého dokladu podľa § 30 ods. 3 až 6 alebo § 31 je podmienené preskúšaním jeho držiteľa,
 
 - b) lodné osvedčenie alebo lodné osvedčenie malého plavidla zadržané podľa § 39d ods. 5 písm. b) na čas potrebný na odstránenie zistených závad alebo nedostatkov; v prípade úplnej straty spôsobilosti plavidla na plavbu natrvalo.
 
-(11) Rozklad proti rozhodnutiu o odňatí preukazu o odbornej spôsobilosti alebo lodného osvedčenia alebo lodného osvedčenia malého plavidla nemá odkladný účinok.
+(11) Rozklad proti rozhodnutiu o odňatí dokladu podľa § 30 ods. 3 až 6 alebo § 31 alebo lodného osvedčenia alebo lodného osvedčenia malého plavidla nemá odkladný účinok.

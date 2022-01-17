@@ -2,7 +2,7 @@
 
 # § 39d
 
-(1) Štátny odborný dozor zahŕňa okrem úloh podľa § 39 písm. a) aj zisťovanie, ako prevádzkovateľ plavidla, posádka plavidla a osoby nachádzajúce sa na plavidle a osoba poverená vykonávaním kvalifikačného kurzu a školiteľ dodržiavajú tento zákon, súvisiace všeobecne záväzné právne predpisy, rozhodnutia vydané na jeho základe a medzinárodné zmluvy, ktorými je Slovenská republika viazaná.
+(1) Štátny odborný dozor zahŕňa okrem úloh podľa § 39 písm. a) aj zisťovanie, ako prevádzkovateľ plavidla, posádka plavidla a osoby nachádzajúce sa na plavidle a osoba poverená vykonávaním kvalifikačného kurzu, výcvikového kurzu alebo základného bezpečnostného výcviku a školiteľ dodržiavajú tento zákon, súvisiace všeobecne záväzné právne predpisy, rozhodnutia vydané na jeho základe a medzinárodné zmluvy, ktorými je Slovenská republika viazaná.
 
 (2) Úlohy Dopravného úradu na úseku štátneho odborného dozoru vykonáva Dopravný úrad plavebnými inšpektormi.
 
@@ -12,7 +12,7 @@
 
 (5) Ak plavebný inšpektor pri výkone štátneho odborného dozoru zistí
 
-- a) závažné alebo opakované porušenie tohto zákona alebo súvisiacich všeobecne záväzných právnych predpisov, môže členovi posádky plavidla zadržať preukaz o odbornej spôsobilosti alebo vodcovi malého plavidla preukaz odbornej spôsobilosti vodcu malého plavidla vydané Dopravným úradom alebo príslušným orgánom cudzieho štátu,
+- a) závažné alebo opakované porušenie tohto zákona alebo súvisiacich všeobecne záväzných právnych predpisov, môže členovi posádky plavidla, odborníkovi na prepravu cestujúcich, odborníkovi na skvapalnený zemný plyn a vedúcemu na plavebných komorách zadržať doklad podľa § 30 ods. 3 až 6 alebo vodcovi malého plavidla preukaz odbornej spôsobilosti vodcu malého plavidla vydané Dopravným úradom alebo príslušným orgánom cudzieho štátu,
 
 - b) závady alebo nedostatky na plavidle, ktoré by mohli ohroziť bezpečnosť prevádzky plavidla, bezpečnosť prepravy nebezpečných tovarov alebo bezpečnosť prepravy na vodnej ceste, môže zadržať lodné osvedčenie, lodné osvedčenie malého plavidla alebo osvedčenie o schválení plavidla vydané Dopravným úradom alebo príslušným orgánom cudzieho štátu,
 
@@ -24,10 +24,10 @@
 
 (6) Ak prevádzkovateľ plavidla preukáže splnenie opatrení uložených podľa odseku 5 písm. c), Dopravný úrad na základe žiadosti prevádzkovateľa plavidla predĺži platnosť lodného osvedčenia alebo lodného osvedčenia malého plavidla alebo vydá nové lodné osvedčenie alebo nové lodné osvedčenie malého plavidla.
 
-(7) O zadržaní preukazov a lodných osvedčení podľa odseku 5 písm. a) až c), ktoré boli vydané iným členským štátom, alebo o zákaze pokračovať v plavbe vydanom podľa odseku 5 písm. d) plavidlu, ktorého lodné osvedčenie vydal iný členský štát, informuje Dopravný úrad príslušný orgán tohto členského štátu do siedmich dní od zistenia tejto skutočnosti alebo uloženia zákazu.
+(7) O zadržaní lodných osvedčení podľa odseku 5 písm. b) a c), ktoré boli vydané iným členským štátom, alebo o zákaze pokračovať v plavbe vydanom podľa odseku 5 písm. d) plavidlu, ktorého lodné osvedčenie vydal iný členský štát, informuje Dopravný úrad príslušný orgán tohto členského štátu do siedmich dní od zistenia tejto skutočnosti alebo uloženia zákazu. O zadržaní dokladov uvedených v § 30 ods. 3 a 5, ktoré boli zadržané podľa odseku 5 písm. a) Dopravný úrad bezodkladne vykoná záznam v Databáze odborných spôsobilostí členov posádky plavidla Európskej únie.
 
 (8) Plavebný inšpektor pri výkone štátneho odborného dozoru ďalej môže zadržať lodné listiny a doklady vydané podľa § 39 písm. i) alebo obdobné doklady vydané príslušným orgánom cudzieho štátu aj vtedy, ak je dôvodné podozrenie z ich falšovania alebo pozmeňovania. O zadržaní je plavebný inšpektor povinný vydať potvrdenie a odovzdať zadržané lodné listiny alebo doklady Dopravnému úradu; Dopravný úrad bezodkladne postúpi vec orgánom činným v trestnom konaní.
 
-(9) Preukazy o odbornej spôsobilosti vydané Dopravným úradom a zadržané podľa odseku 5 písm. a) a lodné osvedčenie alebo lodné osvedčenie malého plavidla vydané Dopravným úradom a zadržané podľa odseku 5 písm. b) postúpi plavebný inšpektor Dopravnému úradu na ďalšie konanie. Preukazy o odbornej spôsobilosti vydané príslušným orgánom cudzieho štátu a zadržané podľa odseku 5 písm. a) a lodné osvedčenie alebo lodné osvedčenie malého plavidla vydané príslušným orgánom cudzieho štátu a zadržané podľa odseku 5 písm. b) zasiela Dopravný úrad príslušnému orgánu cudzieho štátu, ktorý preukaz o odbornej spôsobilosti alebo lodné osvedčenie alebo lodné osvedčenie malého plavidla vydal. Ak plavebný inšpektor zistí pri výkone štátneho odborného dozoru podľa § 39 písm. a) šiesteho bodu porušenie tohto zákona alebo súvisiacich všeobecne záväzných právnych predpisov, postúpi vec Dopravnému úradu na ďalšie konanie.
+(9) Doklady podľa § 30 ods. 3 až 6 alebo § 31 vydané Dopravným úradom a zadržané podľa odseku 5 písm. a) a lodné osvedčenie alebo lodné osvedčenie malého plavidla vydané Dopravným úradom a zadržané podľa odseku 5 písm. b) postúpi plavebný inšpektor Dopravnému úradu na ďalšie konanie. Doklady podľa § 30 ods. 3 až 6 alebo § 31 vydané príslušným orgánom cudzieho štátu a zadržané podľa odseku 5 písm. a) a lodné osvedčenie alebo lodné osvedčenie malého plavidla vydané príslušným orgánom cudzieho štátu a zadržané podľa odseku 5 písm. b) zasiela Dopravný úrad príslušnému orgánu cudzieho štátu, ktorý doklady podľa § 30 ods. 3 až 6 alebo § 31 alebo lodné osvedčenie alebo lodné osvedčenie malého plavidla vydal. Ak plavebný inšpektor zistí pri výkone štátneho odborného dozoru podľa § 39 písm. a) šiesteho bodu porušenie tohto zákona alebo súvisiacich všeobecne záväzných právnych predpisov, postúpi vec Dopravnému úradu na ďalšie konanie.
 
 (10) Podrobnosti o vystrojení a označení zamestnancov podľa § 39 písm. q) ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.

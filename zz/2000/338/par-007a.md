@@ -14,7 +14,7 @@
 
 - a) kópia platného občianskeho preukazu alebo obdobného dokladu vydaného príslušným orgánom cudzieho štátu,
 
-- b) výpis z obdobného registra, akým je obchodný register alebo živnostenský register vedený v cudzom štáte, nie starší ako tri mesiace, ak je žiadateľ cudzinec,
+- b) osvedčený preklad výpisu z obdobného registra, akým je obchodný register alebo živnostenský register vedený v cudzom štáte, nie starší ako tri mesiace, ak je žiadateľ cudzinec,
 
 - c) pri akciovej spoločnosti aj výpis zo zoznamu akcionárov, ak ide o listinné cenné papiere alebo výpis z účtu majiteľa cenných papierov, ak ide o zaknihované cenné papiere alebo obdobný výpis a kópia stanov akciovej spoločnosti alebo kópia obdobnej listiny,
 

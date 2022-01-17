@@ -16,7 +16,7 @@
 
 (7) Centrum riečnych informačných služieb je miesto, z ktorého prevádzkový personál riadi riečne informačné služby.
 
-(8) Užívatelia riečnych informačných služieb sú rôzne skupiny užívateľov vrátane vodcov plavidiel, prevádzkového personálu riečnych informačných služieb, prevádzkovateľov plavebných komôr, plavebných správ, prevádzkovateľov prístavov, personálu v kalamitných centrách pohotovostných služieb, manažérov nautického servisu, lodných zasielateľov, sprostredkovateľov prepravy nákladu, vlastníkov plavidiel, prevádzkovateľov plavidiel, prevádzkovateľov terminálov, prevádzkovateľov prístavísk, prevádzkovateľov vodnej cesty, colných orgánov, Hasičského a záchranného zboru, poskytovateľov záchrannej zdravotnej služby,<sup>23g</sup>) útvarov Policajného zboru, útvaru vedúceho hygienika ministerstva, Štátnej veterinárnej a potravinovej správy Slovenskej republiky, Štatistického úradu Slovenskej republiky a Úradu jadrového dozoru Slovenskej republiky.
+(8) Užívatelia riečnych informačných služieb sú rôzne skupiny užívateľov vrátane vodcov plavidiel, prevádzkového personálu riečnych informačných služieb, prevádzkovateľov plavebných komôr, plavebných správ, prevádzkovateľov prístavov, personálu v kalamitných centrách pohotovostných služieb, manažérov nautického servisu, lodných zasielateľov, sprostredkovateľov prepravy nákladu, vlastníkov plavidiel, prevádzkovateľov plavidiel, prevádzkovateľov terminálov, prevádzkovateľov prístavísk, prevádzkovateľov vodnej cesty, orgánov finančnej správy, Hasičského a záchranného zboru, poskytovateľov záchrannej zdravotnej služby,<sup>23i</sup>) útvarov Policajného zboru, útvaru vedúceho hygienika ministerstva, Štátnej veterinárnej a potravinovej správy Slovenskej republiky, Štatistického úradu Slovenskej republiky a Úradu jadrového dozoru Slovenskej republiky.
 
 (9) Z riečnych informačných služieb možno poskytnúť na základe pridelených užívateľských práv tieto informácie podľa odsekov 4 a 5:
 
@@ -52,7 +52,7 @@
 
 - b) správcom systémov riečnych informačných služieb tretieho štátu v rozsahu vymedzenom v uzavretej vzájomnej dohode o poskytovaní týchto informácií na účely plnenia úloh riečnych informačných služieb,
 
-- c) orgánom verejnej správy na účely plnenia ich úloh podľa osobitných predpisov,<sup>23h</sup>)
+- c) orgánom verejnej správy na účely plnenia ich úloh podľa osobitných predpisov,<sup>23j</sup>)
 
 - d) prevádzkovateľom plavebných komôr na účely prevádzky plavebných komôr,
 

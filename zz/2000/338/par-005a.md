@@ -10,7 +10,7 @@
 
 (5) Ministerstvo poverí na základe písomnej žiadosti vykonávaním školení žiadateľov o vydanie osvedčenia (ďalej len „poverenie“) fyzickú osobu, ktorá má miesto podnikania, podnik alebo organizačnú zložku podniku umiestnenú na území členského štátu a nepodniká v oblasti prepravy nebezpečného tovaru, alebo právnickú osobu, ktorá má sídlo, podnik alebo organizačnú zložku podniku umiestnenú na území členského štátu a nepodniká v oblasti prepravy nebezpečného tovaru (ďalej len „poverená osoba“) ak predloží
 
-- a) výpis z obdobného registra, akým je obchodný register alebo živnostenský register vedený v inom členskom štáte, nie starší ako tri mesiace, ak je žiadateľ cudzinec,
+- a) osvedčený preklad výpisu z obdobného registra, akým je obchodný register alebo živnostenský register vedený v inom členskom štáte, nie starší ako tri mesiace, ak je žiadateľ cudzinec,
 
 - b) zoznam lektorov, ktorý obsahuje aj osobné údaje v rozsahu meno, priezvisko, titul a doklady o ich kvalifikácii a praxi v oblasti prepravy, nakládky a vykládky nebezpečného tovaru,
 
