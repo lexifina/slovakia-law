@@ -1,0 +1,1 @@
+Príloha č. 1 k vyhláške č. 423/2021 Z. z. [Rozsah jednotlivých častí skúšky z odbornej spôsobilosti člena posádky plavidla a vedúceho plavby na plavebných komorách Slovenskej republiky](../assets/bf819cd5d616398f23e470dea69003931b0c2f05ad7fdbadcad335bec9e8dde0.pdf)

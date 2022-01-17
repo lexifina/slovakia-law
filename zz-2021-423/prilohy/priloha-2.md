@@ -1,0 +1,1 @@
+Príloha č. 2 k vyhláške č. 423/2021 Z. z. [Vzory preukazov odbornej spôsobilosti členov posádky plavidla a vedúceho plavby na plavebných komorách Slovenskej republiky](../assets/559d78c55acdd639bb192e9a910ab0ee872939671327da4cdee06a748f6083a3.pdf)
