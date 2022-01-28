@@ -102,9 +102,11 @@
 
 - 33) Zákon č. 190/2003 Z. z. o strelných zbraniach a strelive a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 33a) § 46 zákona č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov.
+- 33a) § 46 a 84 zákona č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 33b) § 2 ods. 2 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
+
+- 33c) § 10 ods. 1 zákona č. 39/2007 Z. z. o veterinárnej starostlivosti v znení neskorších predpisov.
 
 - 34) § 5 ods. 2 zákona č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon).
 

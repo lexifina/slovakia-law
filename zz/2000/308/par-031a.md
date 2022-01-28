@@ -38,7 +38,7 @@
 
 - b) nesmie nabádať na nestriedme požívanie alkoholických nápojov.
 
-(10) Mediálna komerčná komunikácia týkajúca sa liekov, ktoré sú dostupné len na lekársky predpis, a zdravotných výkonov uhrádzaných na základe verejného zdravotného poistenia podľa osobitných predpisov<sup>32</sup>) sa zakazuje.
+(10) Mediálna komerčná komunikácia týkajúca sa lieku, ktorého výdaj je viazaný na lekársky predpis alebo veterinárny lekársky predpis, a zdravotného výkonu uhrádzaného na základe verejného zdravotného poistenia podľa osobitných predpisov<sup>32</sup>) sa zakazuje.
 
 (11) Vysielateľ a poskytovateľ audiovizuálnej mediálnej služby na požiadanie je povinný zabezpečiť, aby mediálna komerčná komunikácia nemohla spôsobiť fyzickú alebo morálnu ujmu maloletým, a preto mediálna komerčná komunikácia nesmie
 
