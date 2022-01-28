@@ -1,6 +1,10 @@
-- 1) Napríklad zákon č. 634/1992 Zb. o ochrane spotrebiteľa v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 1/1996 Z. z. o audiovízii v znení neskorších predpisov, zákon č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách v znení zákona č. 147/2001 Z. z., zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 1) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) 2019/6 z 11. decembra 2018 o veterinárnych liekoch a o zrušení smernice 2001/82/ES (Ú. v. EÚ L 4, 7. 1. 2019).
+
+- 1a) Napríklad zákon č. 634/1992 Zb. o ochrane spotrebiteľa v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 1/1996 Z. z. o audiovízii v znení neskorších predpisov, zákon č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách v znení zákona č. 147/2001 Z. z., zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 1b) Napríklad zákon Slovenskej národnej rady č. 78/1992 Zb. o daňových poradcoch a Slovenskej komore daňových poradcov v znení neskorších predpisov, zákon č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov, zákon č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov v znení neskorších predpisov.
+
+- 1c) Čl. 4 ods. 40 nariadenia (EÚ) 2019/6.
 
 - 2) § 8 až 12 Obchodného zákonníka.
 
@@ -28,7 +32,7 @@
 
 - 13a) § 35 až 39d zákona č. 576/2004 Z. z. zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 14) § 2 ods. 7 a § 64 ods. 1 zákona č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov.
+- 14) § 2 ods. 7, § 64 ods. 1 a § 87 ods. 1 zákona č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 15) § 62 zákona č. 362/2011 Z. z.
 
@@ -44,6 +48,8 @@
 
 - 18a) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
 
+- 18b) Čl. 119 ods. 9 nariadenia (EÚ) 2019/6.
+
 - 19) § 6 ods. 3 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z.
 
 - 20) § 23 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov.
@@ -53,6 +59,8 @@
 - 21a) § 3 ods. 1 písm. b) a c) zákona č. 126/2006 Z. z. o verejnom zdravotníctve a o zmene a doplnení niektorých zákonov.
 
 - 21b) § 1 ods. 3 písm. c) zákona č. 747/2004 Z. z. v znení neskorších predpisov.
+
+- 21c) Čl. 119 až 121 nariadenia (EÚ) 2019/6.
 
 - 22) Zákon Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení neskorších predpisov.
 
