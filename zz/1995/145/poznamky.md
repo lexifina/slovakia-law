@@ -394,15 +394,7 @@
 
 - 36cn) § 59 zákona č. 362/2011 Z. z.
 
-- 36k) § 6 ods. 2 zákona č. 17/2018 Z. z. o veterinárnych prípravkoch a veterinárnych technických pomôckach.
-
-- 36l) § 16 ods. 2 zákona č. 17/2018 Z. z.
-
-- 36m) § 8 ods. 1 zákona č. 17/2018 Z. z.
-
 - 36ma) § 8 ods. 2 zákona č. 17/2018 Z. z.
-
-- 36maa) § 111 zákona č. 362/2011 Z. z.
 
 - 36mh) § 110b ods. 8 zákona č. 362/2011 Z. z.
 
@@ -411,6 +403,80 @@
 - 36mj) Čl. 75, príloha XV kapitola II nariadenia (EÚ) 2017/745.
 
 - 36mk) Čl. 74, príloha XV kapitola II nariadenia (EÚ) 2017/745.
+
+- 36ml) § 91 zákona č. 362/2011 Z. z. v znení zákona č. 532/2021 Z. z.
+
+- 36mm) Čl. 8 nariadenia Európskeho parlamentu a Rady (EÚ) 2019/6 z 11. decembra 2018 o veterinárnych liekoch a o zrušení smernice 2001/82/ES (Ú. v. EÚ L 4, 7. 1. 2019).
+
+- 36mn) Čl. 22 nariadenia (EÚ) 2019/6.
+
+- 36mo) Čl. 18 nariadenia (EÚ) 2019/6.
+
+- 36mp) Čl. 21 nariadenia (EÚ) 2019/6.
+
+- 36mq) Čl. 19 nariadenia (EÚ) 2019/6.
+
+- 36mr) Čl. 20 nariadenia (EÚ) 2019/6.
+
+- 36ms) Čl. 87 nariadenia (EÚ) 2019/6.
+
+- 36mt) § 87 zákona č. 362/2011 Z. z. v znení zákona č. 532/2021 Z. z.
+
+- 36mu) § 88 zákona č. 362/2011 Z. z. v znení zákona č. 532/2021 Z. z.
+
+- 36mv) Čl. 23 nariadenia (EÚ) 2019/6.
+
+- 36mw) Čl. 25 a 26 nariadenia (EÚ) 2019/6.
+
+- 36mx) § 92 a 143u zákona č. 362/2011 Z. z. v znení zákona č. 532/2021 Z. z.
+
+- 36my) Čl. 24 nariadenia (EÚ) 2019/6.
+
+- 36mz) Čl. 27 nariadenia (EÚ) 2019/6.
+
+- 36maa) Čl. 48 a 49 nariadenia (EÚ) 2019/6.
+
+- 36mab) Čl. 51 a 52 nariadenia (EÚ) 2019/6.
+
+- 36mac) § 94 ods. 1 zákona č. 362/2011 Z. z. v znení zákona č. 532/2021 Z. z.
+
+- 36mad) Čl. 62 a čl. 66 až 68 nariadenia (EÚ) 2019/6.
+
+- 36mae) § 97 zákona č. 362/2011 Z. z. v znení zákona č. 532/2021 Z. z.
+
+- 36maf) § 95 zákona č. 362/2011 Z. z. v znení zákona č. 532/2021 Z. z.
+
+- 36mag) § 78 a 79 zákona č. 362/2011 Z. z. v znení zákona č. 532/2021 Z. z.
+
+- 36mah) § 80 zákona č. 362/2011 Z. z. v znení zákona č. 532/2021 Z. z.
+
+- 36mai) § 84 ods. 2 zákona č. 362/2011 Z. z. v znení zákona č. 532/2021 Z. z.
+
+- 36maj) § 84 ods. 2 písm. d) zákona č. 362/2011 Z. z. v znení zákona č. 532/2021 Z. z.
+
+- 36mak) § 84 ods. 2 písm. b) zákona č. 362/2011 Z. z. v znení zákona č. 532/2021 Z. z.
+
+- 36mal) § 84 ods. 2 písm. h) zákona č. 362/2011 Z. z. v znení zákona č. 532/2021 Z. z.
+
+- 36mam) § 84 ods. 2 písm. a) zákona č. 362/2011 Z. z. v znení zákona č. 532/2021 Z. z.
+
+- 36man) § 19b zákona č. 362/2011 Z. z. v znení zákona č. 532/2021 Z. z.
+
+- 36mao) § 18 ods. 21 zákona č. 362/2011 Z. z. v znení zákona č. 532/2021 Z. z.
+
+- 36map) § 18 ods. 24 zákona č. 362/2011 Z. z. v znení zákona č. 532/2021 Z. z.
+
+- 36maq) Čl. 98 nariadenia (EÚ) 2019/6.
+
+- 36mar) § 7 zákona č. 17/2018 Z. z. o veterinárnych prípravkoch a veterinárnych technických pomôckach a o zmene zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
+
+- 36mas) § 8 zákona č. 17/2018 Z. z
+
+- 36mat) § 16 zákona č. 17/2018 Z. z.
+
+- 36mau) § 20 zákona č. 17/2018 Z. z.
+
+- 36mav) § 11 a 13 zákona č. 17/2018 Z. z.
 
 - 36maw) § 12 zákona č. 540/2021 Z. z. o kategorizácii ústavnej zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 

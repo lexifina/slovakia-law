@@ -3880,7 +3880,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - c) | Vyhotovenie duplikátu povolení uvedených v písmenách a) a b) ..... | | 10 eur
 
-  - d) | Vydanie povolenia na zaobchádzanie alebo manipuláciu s humánnymi alebo veterinárnymi liečivami a na zaobchádzanie alebo manipuláciu so zdravotníckymi alebo s veterinárnymi pomôckami alebo potrebami podľa osobitného predpisu pre | |
+  - d) | Vydanie povolenia na zaobchádzanie alebo manipuláciu s humánnymi alebo veterinárnymi liečivami a na zaobchádzanie alebo manipuláciu so zdravotníckymi pomôckami alebo potrebami podľa osobitného predpisu pre | |
 
   - | 1. | fyzickú osobu ..... | 100 eur
 
@@ -4042,6 +4042,8 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - ai) | Oznámenie výroby, dovozu alebo distribúcie účinnej látky ..... | | 100 eur
 
+  - aj) | Vydanie posudku o splnení podmienok v oblasti zaobchádzania s omamnými a psychotropnými látkami pri poskytovaní odborných veterinárnych činností podľa § 36d zákona č. 139/1998 Z. z. o omamných látkach, psychotropných látkach a prípravkoch v znení zákona č. 362/2011 Z. z. ........... | | 30 eur
+
     - Položka 150a
 
   - a) | Vydanie povolenia na činnosť agentúry podporovaného zamestnávania pre | |
@@ -4106,255 +4108,673 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - n) | Vydanie poverenia Štátnej kúpeľnej komisie na výkon činnosti balneotechnika<sup>36br</sup>)..... | 100 eur
 
-    - Položka 152
+  - Položka 152
 
-  - a) | Vydanie rozhodnutia o registrácii humánneho lieku | | |
+  - a)
 
-  - | 1. | Vydanie rozhodnutia o registrácii humánneho lieku<sup>36c</sup>) | |
+  - Vydanie rozhodnutia o registrácii humánneho lieku
 
-  - | | 1.1. | Vydanie rozhodnutia o samostatnej registrácii humánneho lieku podloženej úplnými experimentálnymi údajmi – nové liečivo<sup>36ca</sup>)..... | 9 600 eur
+  - 1.
 
-  - | | 1.2. | Vydanie rozhodnutia o samostatnej registrácii humánneho lieku podloženej úplnými experimentálnymi údajmi – známe liečivo<sup>36ca</sup>)..... | 8 000 eur
+  - Vydanie rozhodnutia o registrácii humánneho lieku<sup>36c</sup>)
 
-  - | | 1.3. | Vydanie rozhodnutia o registrácii humánneho lieku s odkazom na vedecké práce<sup>36cb</sup>)..... | 6 400 eur
+  - 1.1.
 
-  - | | 1.4. | Vydanie rozhodnutia o registrácii generického humánneho lieku<sup>36cc</sup>)..... | 8 000 eur
+  - Vydanie rozhodnutia o samostatnej registrácii humánneho lieku podloženej
 
-  - | | 1.5. | Vydanie rozhodnutia o registrácii hybridného humánneho lieku<sup>36cd</sup>)..... | 8 500 eur
+  - úplnými experimentálnymi údajmi – nové liečivo<sup>36ca</sup>).............................9 600 eur
 
-  - | | 1.6. | Vydanie rozhodnutia o registrácii humánneho lieku s novou kombináciou liečiv<sup>36ce</sup>)..... | 8 000 eur
+  - 1.2.
 
-  - | | 1.7. | Vydanie rozhodnutia o registrácii humánneho lieku so súhlasom iného držiteľa<sup>36cf</sup>)..... | 3 000 eur
+  - Vydanie rozhodnutia o samostatnej registrácii humánneho lieku podloženej
 
-  - | | 1.8. | Vydanie rozhodnutia o registrácii homeopatického lieku – samostatná registrácia podložená úplnými experimentálnymi údajmi alebo odkazom na vedecké práce<sup>36cg</sup>)..... | 8 000 eur
+  - úplnými experimentálnymi údajmi – známe liečivo<sup>36ca</sup>)..........................8 000 eur
 
-  - | | 1.9. | Vydanie rozhodnutia o registrácii homeopatického lieku zjednodušeným postupom<sup>36ch</sup>)..... | 6 400 eur
+  - 1.3.
 
-  - | | 1.10. | Vydanie rozhodnutia o registrácii tradičného rastlinného lieku<sup>36ci</sup>)..... | 6 400 eur
+  - Vydanie rozhodnutia o registrácii humánneho lieku s odkazom na vedecké práce<sup>36cb</sup>)...............................................................................................6 400 eur
 
-  - | | 1.11. | Vydanie rozhodnutia o registrácii ďalšej sily alebo liekovej formy lieku <sup>36cj</sup>)..... | 2 000 eur
+  - 1.4.
 
-  - | 2. | Vydanie rozhodnutia o registrácii humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania,<sup>36ck</sup>) ak Slovenská republika nie je referenčný členský štát | |
+  - Vydanie rozhodnutia o registrácii generického humánneho lieku<sup>36cc</sup>).....8 000 eur
 
-  - | | 2.1. | Vydanie rozhodnutia o samostatnej registrácii humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát, podloženej úplnými experimentálnymi údajmi – nové liečivo<sup>36ca</sup>)..... | 6 000 eur
+  - 1.5.
 
-  - | | 2.2. | Vydanie rozhodnutia o samostatnej registrácii humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát, podloženej úplnými experimentálnymi údajmi – známe liečivo<sup>36ca</sup>)..... | 5 000 eur
+  - Vydanie rozhodnutia o registrácii hybridného humánneho lieku<sup>36cd</sup>)......8 500 eur
 
-  - | | 2.3. | Vydanie rozhodnutia o registrácii humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát, s odkazom na vedecké práce<sup>36cb</sup>)..... | 4 000 eur
+  - 1.6.
 
-  - | | 2.4. | Vydanie rozhodnutia o registrácii generického humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát<sup>36cc</sup>)..... | 5 000 eur
+  - Vydanie rozhodnutia o registrácii humánneho lieku s novou kombináciou liečiv<sup>36ce</sup>).....8 000 eur
 
-  - | | 2.5. | Vydanie rozhodnutia o registrácii hybridného humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát<sup>36cd</sup>)..... | 5 500 eur
+  - 1.7.
 
-  - | | 2.6. | Vydanie rozhodnutia o registrácii humánneho lieku decentralizovaným postupom alebo postupom vzájom- ného uznania, ak Slovenská republika nie je referenčný členský štát, s novou kombináciou liečiv<sup>36ce</sup>)..... | 5 000 eur
+  - Vydanie rozhodnutia o registrácii humánneho lieku so súhlasom iného držiteľa<sup>36cf</sup>).....3 000 eur
 
-  - | | 2.7. | Vydanie rozhodnutia o registrácii humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát, so súhlasom iného držiteľa<sup>36cf</sup>)..... | 2 000 eur
+  - 1.8.
 
-  - | | 2.8. | Vydanie rozhodnutia o registrácii homeopatického lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát – samostatná registrácia podložená úplnými experimentálnymi údajmi alebo odkazom na vedecké práce<sup>36cg</sup>)..... | 5 000 eur
+  - Vydanie rozhodnutia o registrácii homeopatického lieku – samostatná registrácia podložená úplnými experimentálnymi údajmi alebo odkazom na vedecké práce<sup>36cg</sup>).....8 000 eur
 
-  - | | 2.9. | Vydanie rozhodnutia o registrácii homeopatického lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát, zjednodušeným postupom<sup>36ch</sup>) ..... | 4 000 eur
+  - 1.9.
 
-  - | | 2.10. | Vydanie rozhodnutia o registrácii tradičného rastlinného lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát<sup>36ci</sup>) ..... | 4 000 eur
+  - Vydanie rozhodnutia o registrácii homeopatického lieku zjednodušeným postupom<sup>36ch</sup>).....6 400 eur
 
-  - | | 2.11. | Vydanie rozhodnutia o registrácii ďalšej sily alebo liekovej formy lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát<sup>36cj</sup>) ..... | 2 000 eur
+  - 1.10.
 
-  - | 3. | Vydanie rozhodnutia o registrácii humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania,<sup>36ck</sup>) ak Slovenská republika je referenčný členský štát | |
+  - Vydanie rozhodnutia o registrácii tradičného rastlinného lieku<sup>36ci</sup>).....6 400 eur
 
-  - | | 3.1. | Vydanie rozhodnutia o samostatnej registrácii humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika je referenčný členský štát, podloženej úplnými experimentálnymi údajmi – nové liečivo<sup>36ca</sup>) ..... | 11 000 eur
+  - 1.11.
 
-  - | | 3.2. | Vydanie rozhodnutia o samostatnej registrácii humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika je referenčný členský štát, podloženej úplnými experimentálnymi údajmi – známe liečivo<sup>36ca</sup>) ..... | 9 000 eur
+  - Vydanie rozhodnutia o registrácii ďalšej sily alebo liekovej formy lieku<sup>36cj</sup>).....2 000 eur
 
-  - | | 3.3. | Vydanie rozhodnutia o registrácii humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika je referenčný členský štát, s odkazom na vedecké práce<sup>36cb</sup>) ..... | 7 200 eur
+  - 2.
 
-  - | | 3.4. | Vydanie rozhodnutia o registrácii generického humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika je referenčný členský štát<sup>36cc</sup>) ..... | 9 000 eur
+  - Vydanie rozhodnutia o registrácii humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania,<sup>36ck</sup>) ak Slovenská republika nie je referenčný členský štát
 
-  - | | 3.5. | Vydanie rozhodnutia o registrácii hybridného humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika je referenčný členský štát<sup>36cd</sup>) ..... | 9 600 eur
+  - 2.1.
 
-  - | | 3.6. | Vydanie rozhodnutia o registrácii humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika je referenčný členský štát, s novou kombináciou liečiv<sup>36ce</sup>) ..... | 9 000 eur
+  - Vydanie rozhodnutia o samostatnej registrácii humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát, podloženej úplnými experimentálnymi údajmi – nové liečivo<sup>36ca</sup>).....6 000 eur
 
-  - | | 3.7. | Vydanie rozhodnutia o registrácii humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika je referenčný členský štát, so súhlasom iného držiteľa<sup>36cf</sup>) | 3 500 eur
+  - 2.2.
 
-  - | | 3.8. | Vydanie rozhodnutia o registrácii homeopatického lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika je referenčný členský štát – samostatná registrácia podložená úplnými experimentálnymi údajmi alebo odkazom na vedecké práce<sup>36cg</sup>) ..... | 9 000 eur
+  - Vydanie rozhodnutia o samostatnej registrácii humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát, podloženej úplnými experimentálnymi údajmi – známe liečivo<sup>36ca</sup>).....5 000 eur
 
-  - | | 3.9. | Vydanie rozhodnutia o registrácii homeopatického lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika je referenčný členský štát, zjednodušeným postupom<sup>36ch</sup>) ..... | 7 500 eur
+  - 2.3.
 
-  - | | 3.10. | Vydanie rozhodnutia o registrácii tradičného rastlinného lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika je referenčný členský štát<sup>36ci</sup>) ..... | 7 500eur
+  - Vydanie rozhodnutia o registrácii humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát, s odkazom na vedecké práce<sup>36cb</sup>).....4 000 eur
 
-  - | | 3.11. | Vydanie rozhodnutia o registrácii ďalšej sily alebo liekovej formy lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika je referenčný členský štát<sup>36cj</sup>) ..... | 2 000 eur
+  - 2.4.
 
-  - b) | Žiadosť o registráciu veterinárneho lieku | | |
+  - Vydanie rozhodnutia o registrácii generického humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát<sup>36cc</sup>).....5 000 eur
 
-  - | 1. | Žiadosť o samostatnú registráciu podloženú úplnými experimentálnymi alebo literárnymi údajmi – veterinárne lieky určené pre viac ako dva druhy cieľových zvierat ..... | | 2 489,50 eura
+  - 2.5.
 
-  - | 2. | Žiadosť o samostatnú registráciu podloženú úplnými experimentálnymi alebo literárnymi údajmi – veterinárne lieky určené pre menej ako dva druhy cieľových zvierat ..... | | 1 991,50 eura
+  - Vydanie rozhodnutia o registrácii hybridného humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát<sup>36cd</sup>).....5 500 eur
 
-  - | 3. | Žiadosť o registráciu generickú a registráciu so súhlasom iného držiteľa ..... | | 1 327,50 eura
+  - 2.6.
 
-  - | 4. | Žiadosť o hybridnú registráciu, to znamená registráciu generickú s údajmi nad rámec zásadnej podobnosti ..... | | 1 659,50 eura
+  - Vydanie rozhodnutia o registrácii humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát, s novou kombináciou liečiv<sup>36ce</sup>).....5 000 eur
 
-  - | 5. | Žiadosť o registráciu ďalšej sily alebo liekovej formy, rozšírenie registrácie – veterinárne lieky určené pre viac ako dva cieľové druhy zvierat ..... | | 995,50 eura
+  - 2.7.
 
-  - | 6. | Žiadosť o registráciu ďalšej sily alebo liekovej formy, rozšírenie registrácie – veterinárne lieky určené pre menej ako dva cieľové druhy zvierat ..... | | 663,50 eura
+  - Vydanie rozhodnutia o registrácii humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát, so súhlasom iného držiteľa<sup>36cf</sup>).....2 000 eur
 
-  - | 7. | Žiadosť o registráciu veterinárneho homeopatického lieku zjednodušeným postupom ..... | | 497,50 eura
+  - 2.8.
 
-  - | 8. | Žiadosť o registráciu ďalšej sily/síl alebo liekovej formy veterinárneho homeopatického lieku – rozšírenie registrácie ..... | | 165,50 eura
+  - Vydanie rozhodnutia o registrácii homeopatického lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát – samostatná registrácia podložená úplnými experimentálnymi údajmi alebo odkazom na vedecké práce<sup>36cg</sup>).....5 000 eur
 
-  - c) | Vydanie rozhodnutia o predĺžení platnosti registrácie humánneho lieku, homeopatického lieku, tradičného rastlinného lieku<sup>36cl</sup>) ..... | | |
+  - 2.9.
 
-  - | 1. | Vydanie rozhodnutia o predĺžení platnosti registrácie humánneho lieku ..... | | 5 000 eur
+  - Vydanie rozhodnutia o registrácii homeopatického lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát, zjednodušeným postupom<sup>36ch</sup>) .....4 000 eur
 
-  - | 2. | Vydanie rozhodnutia o predĺžení registrácie humánneho lieku registrovaného decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát ..... | | 4 000 eur
+  - 2.10.
 
-  - | 3. | Vydanie rozhodnutia o predĺžení platnosti registrácie humánneho lieku registrovaného decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika je referenčný členský štát ..... | | 5 000 eur
+  - Vydanie rozhodnutia o registrácii tradičného rastlinného lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát<sup>36ci</sup>) .....4 000 eur
 
-  - d) | Žiadosť o predĺženie platnosti registrácie veterinárnych liekov okrem veterinárnych homeopatických liekov ..... | | | 995,50 eura
+  - 2.11.
 
-  - e) | Zmena registrácie humánneho lieku, homeopatického lieku, tradičného rastlinného lieku<sup>36cm</sup>) ..... | | |
+  - Vydanie rozhodnutia o registrácii ďalšej sily alebo liekovej formy lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát<sup>36cj</sup>) .....2 000 eur
 
-  - | 1. | Typ I | |
+  - 3.
 
-  - | | 1.1. | Potvrdenie platnosti oznámenia o zmene typu IA alebo IB registrácie humánneho lieku ..... | 200 eur
+  - Vydanie rozhodnutia o registrácii humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania,<sup>36ck</sup>) ak Slovenská republika je referenčný členský štát
 
-  - | | 1.2. | Potvrdenie platnosti oznámenia o zmene typu IA alebo IB registrácie humánneho lieku registrovaného decentralizovanou procedúrou alebo procedúrou vzájomného uznania, ak Slovenská republika nie je referenčný členský štát ..... | 200 eur
+  - 3.1.
 
-  - | | 1.3. | Potvrdenie platnosti oznámenia o zmene typu IA alebo IB registrácie humánneho lieku registrovaného decentralizovanou procedúrou alebo procedúrou vzájomného uznania, ak Slovenská republika je referenčný členský štát ..... | 200 eur
+  - Vydanie rozhodnutia o samostatnej registrácii humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika je referenčný členský štát, podloženej úplnými experimentálnymi údajmi – nové liečivo<sup>36ca</sup>) .....11 000 eur
 
-  - | 2. | Typ II | |
+  - 3.2.
 
-  - | | 2.1. | Vydanie rozhodnutia o zmene typu II registrácie humánneho lieku ..... | 4 000 eur
+  - Vydanie rozhodnutia o samostatnej registrácii humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika je referenčný členský štát, podloženej úplnými experimentálnymi údajmi – známe liečivo<sup>36ca</sup>) .....9 000 eur
 
-  - | | 2.2. | Vydanie rozhodnutia o zmene typu II registrácie humánneho lieku pre každú ďalšiu silu ..... | 200 eur
+  - 3.3.
 
-  - | | 2.3. | Vydanie rozhodnutia o zmene typu II registrácie humánneho lieku registrovaného decentralizovanou procedúrou alebo procedúrou vzájomného uznania, ak Slovenská republika nie je referenčný členský štát ..... | 3 200 eur
+  - Vydanie rozhodnutia o registrácii humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika je referenčný členský štát, s odkazom na vedecké práce<sup>36cb</sup>) .....7 200 eur
 
-  - | | 2.4. | Vydanie rozhodnutia o zmene typu II registrácie humánneho lieku registrovaného decentralizovanou procedúrou alebo procedúrou vzájomného uznania, ak Slovenská republika nie je referenčný členský štát, pre každú ďalšiu silu ..... | 200 eur
+  - 3.4.
 
-  - | | 2.5. | Vydanie rozhodnutia o zmene typu II registrácie humánneho lieku registrovaného decentralizovanou procedúrou alebo procedúrou vzájomného uznania, ak Slovenská republika je referenčný členský štát ..... | 5 000 eur
+  - Vydanie rozhodnutia o registrácii generického humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika je referenčný členský štát<sup>36cc</sup>) .....9 000 eur
 
-  - | | 2.6. | Vydanie rozhodnutia o zmene typu II registrácie humánneho lieku registrovaného decentralizovanou procedúrou alebo procedúrou vzájomného uznania, ak Slovenská republika je referenčný členský štát, pre každú ďalšiu silu ..... | 200 eur
+  - 3.5.
 
-  - f) | Vydanie rozhodnutia o zmene registrácie veterinárneho lieku | | |
+  - Vydanie rozhodnutia o registrácii hybridného humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika je referenčný členský štát<sup>36cd</sup>) .....9 600 eur
 
-  - | 1. | Typ I | |
+  - 3.6.
 
-  - | | 1.1. | Žiadosť o zmenu registrácie veterinárneho lieku typu IA a IB ..... | 99,50 eura
+  - Vydanie rozhodnutia o registrácii humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika je referenčný členský štát, s novou kombináciou liečiv<sup>36ce</sup>) .....9 000 eur
 
-  - | | 1.2. | Žiadosť o zmenu registrácie veterinárneho lieku postupom vzájomného uznania registrácie lieku v referenčnom členskom štáte (typ IA a IB) ..... | 99,50 eura
+  - 3.7.
 
-  - | | 1.3. | Žiadosť o zmenu registrácie veterinárneho lieku postupom vzájomného uznania vydaného príslušným orgánom iného členského štátu (typ IA a IB) ..... | 99,50 eura
+  - Vydanie rozhodnutia o registrácii humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika je referenčný členský štát, so súhlasom iného držiteľa<sup>36cf</sup>) .....3 500 eur
 
-  - | | 1.4. | Žiadosť o zmenu registrácie veterinárneho lieku decentralizovaným postupom (typ IA a IB) ..... | 99,50 eura
+  - 3.8.
 
-  - | 2. | Typ II | |
+  - Vydanie rozhodnutia o registrácii homeopatického lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika je referenčný členský štát – samostatná registrácia podložená úplnými experimentálnymi údajmi alebo odkazom na vedecké práce<sup>36cg</sup>) .....9 000 eur
 
-  - | | 2.1. | Žiadosť o zmenu registrácie veterinárneho lieku typu II ..... | 663,50 eura
+  - 3.9.
 
-  - | | 2.2. | Skrátenie ochrannej lehoty po zmene maximálneho limitu rezíduí zverejnenej v Úradnom vestníku Európskej komisie ..... | 663,50 eura
+  - Vydanie rozhodnutia o registrácii homeopatického lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika je referenčný členský štát, zjednodušeným postupom .....7 500 eur
 
-  - | | 2.3. | Žiadosť o zmenu registrácie veterinárneho lieku typu II postupom vzájomného uznania vydaného príslušným orgánom iného členského štátu ..... | 497,50 eura
+  - 3.10.
 
-  - | | 2.4. | Žiadosť o zmenu registrácie veterinárneho lieku typu II decentralizovaným postupom ..... | 995,50 eura
+  - Vydanie rozhodnutia o registrácii tradičného rastlinného lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika je referenčný členský štát<sup>36ci</sup>) .....7 500 eur
 
-  - g) | Žiadosť o vzájomné uznanie registrácie veterinárneho lieku | | |
+  - 3.11.
 
-  - | 1. | Žiadosť o uznanie rozhodnutia o registrácii veterinárneho lieku vydaného príslušným orgánom iného členského štátu ..... | | 1 659,50 eura
+  - Vydanie rozhodnutia o registrácii ďalšej sily alebo liekovej formy lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika je referenčný členský štát<sup>36cj</sup>) .....2 000 eur
 
-  - | 2. | Žiadosť o uznanie rozhodnutia o registrácii veterinárneho lieku s odkazom na vedeckú literatúru vydaného príslušným orgánom iného členského štátu ..... | | 1 327,50 eura
+  - b)
 
-  - | 3. | Žiadosť o uznanie rozhodnutia o registrácii homeopatického veterinárneho lieku zjednodušeným postupom vydaného príslušným orgánom iného členského štátu ..... | | 663,50 eura
+  - Vydanie rozhodnutia o predĺžení platnosti registrácie humánneho lieku, homeopatického lieku, tradičného rastlinného lieku<sup>36cl</sup>)
 
-  - | 4. | Žiadosť o uznanie rozhodnutia o registrácii veterinárneho lieku so súhlasom držiteľa rozhodnutia o registrácii veterinárneho lieku, žiadosť o registráciu veterinárneho lieku (rozšírenie radu) ..... | | 995,50 eura
+  - 1.
 
-  - | 5. | Žiadosť o uznanie registrácie veterinárneho lieku decentralizovaným postupom, ak je Slovenská republika referenčným členským štátom ..... | | 4 979 eur
+  - Vydanie rozhodnutia o predĺžení platnosti registrácie humánneho lieku .....5 000 eur
 
-  - | 6. | Žiadosť o vzájomné uznanie registrácie veterinárneho lieku, ak je Slovenská republika referenčným členským štátom ..... | | 2 655,50 eura
+  - 2.
 
-  - | 7. | Žiadosť o vzájomné uznanie registrácie veterinárneho lieku s odkazom na vedeckú literatúru, ak je Slovenská republika referenčným členským štátom ..... | | 1 991,50 eura
+  - Vydanie rozhodnutia o predĺžení registrácie humánneho lieku registrovaného decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát .....4 000 eur
 
-  - | 8. | Žiadosť o vzájomné uznanie registrácie veterinárneho homeopatického lieku zjednodušeným postupom, ak je Slovenská republika referenčným členským štátom ..... | | 995,50 eura
+  - 3.
 
-  - | 9. | Žiadosť o vzájomné uznanie registrácie veterinárneho lieku so súhlasom držiteľa (rozšírenie radu), ak je Slovenská republika referenčným členským štátom ..... | | 1 327,50 eura
+  - Vydanie rozhodnutia o predĺžení platnosti registrácie humánneho lieku registrovaného decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika je referenčný členský štát .....5 000 eur
 
-  - | 10. | Vydanie povolenia na súbežný dovoz veterinárneho lieku ..... | | 16,50 eur
+  - c)
 
-  - h) | Vydanie rozhodnutia o prevode registrácie humánneho lieku<sup>36cn</sup>) ..... | | | 500 eur
+  - Zmena registrácie humánneho lieku, homeopatického lieku, tradičného rastlinného lieku<sup>36cm</sup>)
 
-  - i) | Žiadosť o prevod registrácie veterinárneho lieku ..... | | | 165,50 eura
+  - 1.
 
-  - j) | Žiadosť o schválenie veterinárneho prípravku<sup>36k</sup>) a oznámenie uvádzania veterinárnej technickej pomôcky na trh<sup>36l</sup>) ..... | | | 200 eur
+  - Typ I
 
-  - k) | Žiadosť o predĺženie platnosti rozhodnutia o schválení veterinárneho prípravku<sup>36m</sup>) ..... | | | 150 eur
+  - 1.1.
 
-  - l) | Žiadosť o schválenie zmeny údajov a skutočností uvedených v žiadosti o schválenie veterinárneho prípravku<sup>36ma</sup>) ..... | | | 100 eur
+  - Potvrdenie platnosti oznámenia o zmene typu IA alebo IB registrácie humánneho lieku .....200 eur
 
-  - m) | Vydanie povolenia na dovoz a uvádzanie do obehu neregistrovaného veterinárneho lieku<sup>36m</sup>) ..... | | | 16,50 eura
+  - 1.2.
 
-  - n) | Vydanie rozhodnutia o povolení klinického skúšania zdravotníckej pomôcky<sup>36maa</sup>) ..... | | | 300 eur
+  - Potvrdenie platnosti oznámenia o zmene typu IA alebo IB registrácie humánneho lieku registrovaného decentralizovanou procedúrou alebo procedúrou vzájomného uznania, ak Slovenská republika nie je referenčný členský štát .....200 eur
 
-  - o) | Vydanie rozhodnutia o povolení klinického skúšania zdravotníckej pomôcky ..... | | | 165,50 eura
+  - 1.3.
 
-  - p) | Žiadosť o zrušenie registrácie veterinárneho lieku s ďalšími požiadavkami ..... | | | 66 eur
+  - Potvrdenie platnosti oznámenia o zmene typu IA alebo IB registrácie humánneho lieku registrovaného decentralizovanou procedúrou alebo procedúrou vzájomného uznania, ak Slovenská republika je referenčný členský štát .....200 eur
 
-  - q) | Rozhodovanie o žiadosti o úradné určenie ceny lieku ..... | | | 200 eur
+  - 2.
 
-  - r) | Rozhodovanie o žiadosti o zvýšenie úradne určenej ceny lieku ..... | | | 200 eur
+  - Typ II
 
-  - s) | Rozhodovanie o žiadosti o zaradenie lieku do zoznamu kategorizovaných liekov a úradné určenie ceny lieku (liek, ktorý svojou charakteristikou nepatrí do žiadnej referenčnej skupiny zaradenej v zozname kategorizovaných liekov) ..... | | | 5 100 eur
+  - 2.1.
 
-  - t) | Rozhodovanie o žiadosti o zaradenie lieku do zoznamu kategorizovaných liekov a úradné určenie ceny lieku (liek, ktorý svojou charakteristikou patrí do niektorej referenčnej skupiny zaradenej v zozname kategorizovaných liekov) ..... | | | 600 eur
+  - Vydanie rozhodnutia o zmene typu II registrácie humánneho lieku .....4 000 eur
 
-  - u) | Rozhodovanie o žiadosti o podmienené zaradenie lieku do zoznamu kategorizovaných liekov a úradné určenie ceny lieku ..... | | | 6 100 eur
+  - 2.2.
 
-  - v) | Rozhodovanie o žiadosti o zaradenie zdravotníckej pomôcky do zoznamu kategorizovaných zdravotníckych pomôcok a úradné určenie ceny zdravotníckej pomôcky ..... | | | 1 300 eur
+  - Vydanie rozhodnutia o zmene typu II registrácie humánneho lieku pre každú ďalšiu silu .....200 eur
 
-  - w) | Rozhodovanie o žiadosti o zaradenie zdravotníckej pomôcky do zoznamu kategorizovaných špeciálnych zdravotníckych materiálov a úradné určenie ceny zdravotníckej pomôcky ..... | | | 1 300 eur
+  - 2.3.
 
-  - x) | Rozhodovanie o žiadosti o zaradenie dietetickej potraviny do zoznamu kategorizovaných dietetických potravín a úradné určenie ceny dietetickej potraviny ..... | | | 1 300 eur
+  - Vydanie rozhodnutia o zmene typu II registrácie humánneho lieku registrovaného decentralizovanou procedúrou alebo procedúrou vzájomného uznania, ak Slovenská republika nie je referenčný členský štát .....3 200 eur
 
-  - y) | Rozhodovanie o žiadosti o zvýšenie úradne určenej ceny lieku zaradeného v zozname kategorizovaných liekov ..... | | | 600 eur
+  - 2.4.
 
-  - z) | Rozhodovanie o žiadosti o zvýšenie úradne určenej ceny zdravotníckej pomôcky zaradenej v zozname kategorizovaných zdravotníckych pomôcok ..... | | | 300 eur
+  - Vydanie rozhodnutia o zmene typu II registrácie humánneho lieku registrovaného decentralizovanou procedúrou alebo procedúrou vzájomného uznania, ak Slovenská republika nie je referenčný členský štát, pre každú ďalšiu silu .....200 eur
 
-  - aa) | Rozhodovanie o žiadosti o zvýšenie úradne určenej ceny zdravotníckej pomôcky zaradenej v zozname kategorizovaných špeciálnych zdravotníckych materiálov ..... | | | 300 eur
+  - 2.5.
 
-  - ab) | Rozhodovanie o žiadosti o zvýšení úradne určenej ceny dietetickej potraviny zaradenej v zozname kategorizovaných dietetických potravín ..... | | | 300 eur
+  - Vydanie rozhodnutia o zmene typu II registrácie humánneho lieku registrovaného decentralizovanou procedúrou alebo procedúrou vzájomného uznania, ak Slovenská republika je referenčný členský štát .....5 000 eur
 
-  - ac) | Rozhodovanie o žiadosti o zmenu charakteristík referenčnej skupiny ..... | | | 1 600 eur
+  - 2.6.
 
-  - ad) | Rozhodovanie o žiadosti o zmenu charakteristík podskupiny zdravotníckych pomôcok ..... | | | 600 eur
+  - Vydanie rozhodnutia o zmene typu II registrácie humánneho lieku registrovaného decentralizovanou procedúrou alebo procedúrou vzájomného uznania, ak Slovenská republika je referenčný členský štát, pre každú ďalšiu silu .....200 eur
 
-  - ae) | Rozhodovanie o žiadosti o zmenu charakteristík podskupiny špeciálnych zdravotníckych materiálov ..... | | | 600 eur
+  - d)
 
-  - af) | Rozhodovanie o žiadosti o zmenu charakteristík podskupiny dietetických potravín ..... | | | 600 eur
+  - Vydanie rozhodnutia o prevode registrácie humánneho lieku<sup>36cn</sup>) .....500 eur
 
-  - ag) | Rozhodovanie o žiadosti o vyradení lieku zo zoznamu kategorizovaných liekov....... | | | 600 eur
+  - e)
 
-  - ah) | Rozhodovanie o žiadosti o vyradení zdravotníckej pomôcky zo zoznamu kategorizovaných zdravotníckych pomôcok....... | | | 600 eur
+  - Vydanie rozhodnutia o povolení klinického skúšania zdravotníckej pomôcky<sup>36maa</sup>) .....300 eur
 
-  - ai) | Rozhodovanie o žiadosti o vyradení zdravotníckej pomôcky zo zoznamu kategorizovaných špeciálnych zdravotníckych materiálov | | | 600 eur
+  - f)
 
-  - aj) | Rozhodovanie o žiadosti o vyradení dietetickej potraviny zo zoznamu kategorizovaných dietetických potravín...... | | | 600 eur
+  - Rozhodovanie o žiadosti o úradné určenie ceny lieku .....200 eur
 
-  - al) | Vydanie rozhodnutia o registrácii distribútora zdravotníckej pomôcky podľa osobitného predpisu<sup>36mh</sup>) | | | 500 eur
+  - g)
 
-  - am) | Konanie o povolenie klinického skúšania zdravotníckej pomôcky<sup>36mi</sup>) | | | 500 eur
+  - Rozhodovanie o žiadosti o zvýšenie úradne určenej ceny lieku .....200 eur
 
-  - an) | Posúdenie oznámenia | | |
+  - h)
 
-  - | 1. podstatnej zmeny klinického skúšania zdravotníckej pomôcky<sup>36mj</sup>) | | | 500 eur
+  - Rozhodovanie o žiadosti o zaradenie lieku do zoznamu kategorizovaných liekov a úradné určenie ceny lieku (liek, ktorý svojou charakteristikou nepatrí do žiadnej referenčnej skupiny zaradenej v zozname kategorizovaných liekov) .....5 100 eur
 
-  - | 2. o klinickom skúšaní zdravotníckej pomôcky s označením CE<sup>36mk</sup>) | | | 500 eur
+  - i)
 
-  - ao) | Vydanie certifikátu o voľnom predaji zdravotníckej pomôcky........... | | | 300 eur
+  - Rozhodovanie o žiadosti o zaradenie lieku do zoznamu kategorizovaných liekov a úradné určenie ceny lieku (liek, ktorý svojou charakteristikou patrí do niektorej referenčnej skupiny zaradenej v zozname kategorizovaných liekov) .....600 eur
 
-  - ap) | Vydanie rozhodnutia o pridelení kódu zdravotníckej pomôcke štátnym ústavom........... | | | 7 eur
+  - j)
 
-  - aq) | Vydanie rozhodnutia o zmene kódu prideleného štátnym ústavom zdravotníckej pomôcke...... | | | 4 eurá
+  - Rozhodovanie o žiadosti o podmienené zaradenie lieku do zoznamu kategorizovaných liekov a úradné určenie ceny lieku .....6 100 eur
 
-  - Oslobodenie Od poplatkov podľa písmen ac) až af) je účastník konania oslobodený, ak predmetom žiadosti je 1. zníženie maximálnej výšky úhrady zdravotnej poisťovne za štandardnú dávku liečiva, 2. zníženie maximálnej výšky úhrady zdravotnej poisťovne za zdravotnícku pomôcku zaradenú v podskupine zdravotníckych pomôcok, 3. zníženie maximálnej výšky úhrady zdravotnej poisťovne za zdravotnícku pomôcku zaradenú v podskupine špeciálnych zdravotníckych materiálov, 4. zníženie maximálnej výšky úhrady zdravotnej poisťovne za jednotku referenčnej dávky dietetickej potraviny, 5. zúženie preskripčného obmedzenia, 6. zúženie indikačného obmedzenia, 7. zníženie množstvového limitu alebo 8. zníženie finančného limitu. | | | |
+  - k)
 
-  - Poznámky 1. Žiadosť o zrušenie registrácie veterinárneho lieku bez ďalších požiadaviek sa nespoplatňuje. 2. Zmena v registrácii podmienená nariadením Európskej komisie sa nespoplatňuje. 3. Úhrada poplatku pre žiadosti podľa písmen q) až aj) musí byť pripísaná na účet Ministerstva zdravotníctva Slovenskej republiky najneskôr siedmy deň odo dňa doručenia žiadosti, inak sa konanie zastaví. 4. Ak konanie podľa písmen q) až aj) bolo zastavené, uhradené poplatky sa nevracajú. 5. Poplatok podľa písmena s) sa zníži o a) 40 %, ak je navrhovaná celková suma úhrad za liek alebo za spoločne posudzované lieky do 400 000 eur za 24 po sebe nasledujúcich mesiacov od nadobudnutia vykonateľnosti rozhodnutia o zaradení lieku do zoznamu kategorizovaných liekov, b) 25 %, ak je navrhovaná celková suma úhrad za liek alebo za spoločne posudzované lieky viac ako 400 000 eur, ale menej ako 1 000 000 eur za 24 po sebe nasledujúcich mesiacov od nadobudnutia vykonateľnosti rozhodnutia o zaradení lieku do zoznamu kategorizovaných liekov. 6. Poplatok podľa písmena u) sa zníži o a) 40 %, ak je navrhovaná celková suma úhrad za liek alebo za spoločne posudzované lieky najviac 400 000 eur za 24 po sebe nasledujúcich mesiacov od nadobudnutia vykonateľnosti rozhodnutia o podmieneného zaradenia lieku do zoznamu kategorizovaných liekov, b) 25 %, ak je navrhovaná celková suma úhrad za liek alebo za spoločne posudzované lieky viac ako 400 000 eur, ale menej ako 1 000 000 eur za 24 po sebe nasledujúcich mesiacov od nadobudnutia vykonateľnosti rozhodnutia o podmienenom zaradení lieku do zoznamu kategorizovaných liekov. 7. Poplatok podľa písmen v) až x) sa zníži o a) 75 %, ak je navrhovaná celková suma úhrad za zdravotnícku pomôcku alebo dietetickú potravinu najviac 2 000 eur za 24 po sebe nasledujúcich mesiacov od nadobudnutia vykonateľnosti rozhodnutia o zaradení zdravotníckej pomôcky do zoznamu kategorizovaných zdravotníckych pomôcok alebo rozhodnutia o zaradení dietetickej potraviny do zoznamu kategorizovaných dietetických potravín, b) 50 %, ak je navrhovaná celková suma úhrad za zdravotnícku pomôcku alebo dietetickú potravinu viac ako 2 000 eur, ale menej ako 100 000 eur za 24 po sebe nasledujúcich mesiacov od nadobudnutia vykonateľnosti rozhodnutia o zaradení zdravotníckej pomôcky do zoznamu kategorizovaných zdravotníckych pomôcok alebo rozhodnutia o zaradení dietetickej potraviny do zoznamu kategorizovaných dietetických potravín. 8. Poplatok podľa písmena ag) sa zníži o a) 100 %, ak je reálna celková suma úhrad za liek alebo za spoločne posudzované lieky najviac 10 000 eur za 12 kalendárnych mesiacov predchádzajúcich dňu podania žiadosti, b) 50 %, ak je reálna celková suma úhrad za liek alebo za spoločne posudzované lieky viac ako 10 000 eur, ale menej ako 50 000 eur za 12 kalendárnych mesiacov predchádzajúcich dňu podania žiadosti. 9. Poplatok podľa písmen ah) až aj) sa zníži o a) 100 %, ak je reálna celková suma úhrad za zdravotnícku pomôcku alebo dietetickú potravinu najviac 1 000 eur za 12 kalendárnych mesiacov predchádzajúcich dňu podania žiadosti, b) 50 %, ak je reálna celková suma úhrad za zdravotnícku pomôcku alebo dietetickú potravinu viac ako 1 000 eur, ale menej ako 50 000 eur za 12 kalendárnych mesiacov predchádzajúcich dňu podania žiadosti. 10. Ak suma úhrad zdravotných poisťovní za liek, dietetickú potravinu, zdravotnícku pomôcku za 24 mesiacov odo dňa nadobudnutia vykonateľnosti rozhodnutia o zaradení lieku alebo podmienenom zaradení lieku do zoznamu kategorizovaných liekov, zaradení zdravotníckej pomôcky do zoznamu kategorizovaných zdravotníckych pomôcok alebo do zoznamu špeciálnych zdravotníckych materiálov alebo zaradení dietetickej potraviny do zoznamu kategorizovaných dietetických potravín bola vyššia ako celková suma úhrad za liek, zdravotnícku pomôcku alebo dietetickú potravinu navrhnutá v žiadosti, osoba, ktorá podávala žiadosť, je povinná na základe výzvy (§ 8) Ministerstva zdravotníctva Slovenskej republiky uhradiť rozdiel medzi poplatkom uvedeným v položkách s), u) až x) a uhradeným poplatkom. | | | |
+  - Rozhodovanie o žiadosti o zaradenie zdravotníckej pomôcky do zoznamu kategorizovaných zdravotníckych pomôcok a úradné určenie ceny zdravotníckej pomôcky .....1 300 eur
+
+  - l)
+
+  - Rozhodovanie o žiadosti o zaradenie zdravotníckej pomôcky do zoznamu kategorizovaných špeciálnych zdravotníckych materiálov a úradné určenie ceny zdravotníckej pomôcky .....1 300 eur
+
+  - m)
+
+  - Rozhodovanie o žiadosti o zaradenie dietetickej potraviny do zoznamu kategorizovaných dietetických potravín a úradné určenie ceny dietetickej potraviny .....1 300 eur
+
+  - n)
+
+  - Rozhodovanie o žiadosti o zvýšenie úradne určenej ceny lieku zaradeného v zozname kategorizovaných liekov .....600 eur
+
+  - o)
+
+  - Rozhodovanie o žiadosti o zvýšenie úradne určenej ceny zdravotníckej pomôcky zaradenej v zozname kategorizovaných zdravotníckych pomôcok .....300 eur
+
+  - p)
+
+  - Rozhodovanie o žiadosti o zvýšenie úradne určenej ceny zdravotníckej pomôcky zaradenej v zozname kategorizovaných špeciálnych zdravotníckych materiálov .....300 eur
+
+  - q)
+
+  - Rozhodovanie o žiadosti o zvýšení úradne určenej ceny dietetickej potraviny zaradenej v zozname kategorizovaných dietetických potravín .....300 eur
+
+  - r)
+
+  - Rozhodovanie o žiadosti o zmenu charakteristík referenčnej skupiny .....1 600 eur
+
+  - s)
+
+  - Rozhodovanie o žiadosti o zmenu charakteristík podskupiny zdravotníckych
+
+  - pomôcok .......................................................... 600 eur
+
+  - t)
+
+  - Rozhodovanie o žiadosti o zmenu charakteristík podskupiny špeciálnych zdravotníckych materiálov .....600 eur
+
+  - u)
+
+  - Rozhodovanie o žiadosti o zmenu charakteristík podskupiny dietetických
+
+  - potravín ................................600 eur
+
+  - v)
+
+  - Rozhodovanie o žiadosti o vyradení lieku zo zoznamu kategorizovaných liekov.......600 eur
+
+  - w)
+
+  - Rozhodovanie o žiadosti o vyradení zdravotníckej pomôcky zo zoznamu kategorizovaných zdravotníckych pomôcok.......600 eur
+
+  - x)
+
+  - Rozhodovanie o žiadosti o vyradení zdravotníckej pomôcky zo zoznamu kategorizovaných špeciálnych zdravotníckych materiálov.......600 eur
+
+  - y)
+
+  - Rozhodovanie o žiadosti o vyradení dietetickej potraviny zo zoznamu kategorizovaných dietetických potravín......600 eur
+
+  - z)
+
+  - Vydanie rozhodnutia o registrácii distribútora zdravotníckej pomôcky podľa osobitného predpisu<sup>36mh</sup>) .......500 eur
+
+  - aa)
+
+  - Konanie o povolenie klinického skúšania zdravotníckej pomôcky<sup>36mi</sup>) .......500 eur
+
+  - ab)
+
+  - Posúdenie oznámenia
+
+  - 1.
+
+  - podstatnej zmeny klinického skúšania zdravotníckej pomôcky<sup>36mj</sup>) .......500 eur
+
+  - 2.
+
+  - o klinickom skúšaní zdravotníckej pomôcky s označením CE<sup>36mk</sup>) .......500 eur
+
+  - ac)
+
+  - Vydanie certifikátu o voľnom predaji zdravotníckej pomôcky a diagnostickej zdravotníckej pomôcky in vitro...........300 eur
+
+    - Oslobodenie
+
+    - Od poplatkov podľa písmen s) až v) je účastník konania oslobodený, ak predmetom žiadosti je
+
+      - 1. zníženie maximálnej výšky úhrady zdravotnej poisťovne za štandardnú dávku liečiva,
+
+      - 2. zníženie maximálnej výšky úhrady zdravotnej poisťovne za zdravotnícku pomôcku zaradenú
+
+      - v podskupine zdravotníckych pomôcok,
+
+      - 3. zníženie maximálnej výšky úhrady zdravotnej poisťovne za zdravotnícku pomôcku zaradenú
+
+      - v podskupine špeciálnych zdravotníckych materiálov,
+
+      - 4. zníženie maximálnej výšky úhrady zdravotnej poisťovne za jednotku referenčnej dávky dietetickej potraviny,
+
+      - 5. zúženie preskripčného obmedzenia,
+
+      - 6. zúženie indikačného obmedzenia,
+
+      - 7. zníženie množstvového limitu alebo
+
+      - 8. zníženie finančného limitu.
+
+    - Poznámky
+
+      - 1. Zmena v registrácii podmienená nariadením Európskej komisie sa nespoplatňuje.
+
+      - 2. Poplatok podľa písmena g) až z) musí byť uhradený najneskôr do siedmich dní odo dňa doručenia žiadosti, inak sa konanie zastaví.
+
+      - 3. Ak konanie podľa písmen g) až z) bolo zastavené, uhradené poplatky sa nevracajú.
+
+      - 4. Poplatok podľa písmena i) sa zníži o
+
+        - a) 40 %, ak je navrhovaná celková suma úhrad za liek alebo za spoločne posudzované lieky do 400 000 eur za 24 po sebe nasledujúcich mesiacov od nadobudnutia vykonateľnosti rozhodnutia o zaradení lieku do zoznamu kategorizovaných liekov,
+
+        - b) 25 %, ak je navrhovaná celková suma úhrad za liek alebo za spoločne posudzované lieky viac ako 400 000 eur, ale menej ako 1 000 000 eur za 24 po sebe nasledujúcich mesiacov od nadobudnutia vykonateľnosti rozhodnutia o zaradení lieku do zoznamu kategorizovaných liekov.
+
+      - 5. Poplatok podľa písmena k) sa zníži o
+
+        - a) 40 %, ak je navrhovaná celková suma úhrad za liek alebo za spoločne posudzované lieky najviac 400 000 eur za 24 po sebe nasledujúcich mesiacov od nadobudnutia vykonateľnosti rozhodnutia o podmieneného zaradenia lieku do zoznamu kategorizovaných liekov,
+
+        - b) 25 %, ak je navrhovaná celková suma úhrad za liek alebo za spoločne posudzované lieky viac ako 400 000 eur, ale menej ako 1 000 000 eur za 24 po sebe nasledujúcich mesiacov od nadobudnutia vykonateľnosti rozhodnutia o podmienenom zaradení lieku do zoznamu kategorizovaných liekov.
+
+      - 6. Poplatok podľa písmen l) až n) sa zníži o
+
+        - a) 75 %, ak je navrhovaná celková suma úhrad za zdravotnícku pomôcku alebo dietetickú potravinu najviac 2 000 eur za 24 po sebe nasledujúcich mesiacov od nadobudnutia vykonateľnosti rozhodnutia o zaradení zdravotníckej pomôcky do zoznamu kategorizovaných zdravotníckych pomôcok alebo rozhodnutia o zaradení dietetickej potraviny do zoznamu kategorizovaných dietetických potravín,
+
+        - b) 50 %, ak je navrhovaná celková suma úhrad za zdravotnícku pomôcku alebo dietetickú potravinu viac ako 2 000 eur, ale menej ako 100 000 eur za 24 po sebe nasledujúcich mesiacov od nadobudnutia vykonateľnosti rozhodnutia o zaradení zdravotníckej pomôcky do zoznamu kategorizovaných zdravotníckych pomôcok alebo rozhodnutia o zaradení dietetickej potraviny do zoznamu kategorizovaných dietetických potravín.
+
+      - 7. Poplatok podľa písmena w) sa zníži o
+
+        - a) 100 %, ak je reálna celková suma úhrad za liek alebo za spoločne posudzované lieky najviac 10 000 eur za 12 kalendárnych mesiacov predchádzajúcich dňu podania žiadosti,
+
+        - b) 50 %, ak je reálna celková suma úhrad za liek alebo za spoločne posudzované lieky viac ako 10 000 eur, ale menej ako 50 000 eur za 12 kalendárnych mesiacov predchádzajúcich dňu podania žiadosti.
+
+      - 8. Poplatok podľa písmen x) až z) sa zníži o
+
+        - a) 100 %, ak je reálna celková suma úhrad za zdravotnícku pomôcku alebo dietetickú potravinu najviac 1 000 eur za 12 kalendárnych mesiacov predchádzajúcich dňu podania žiadosti,
+
+        - b) 50 %, ak je reálna celková suma úhrad za zdravotnícku pomôcku alebo dietetickú potravinu viac ako 1 000 eur, ale menej ako 50 000 eur za 12 kalendárnych mesiacov predchádzajúcich dňu podania žiadosti.
+
+      - 9. Ak suma úhrad zdravotných poisťovní za liek, dietetickú potravinu, zdravotnícku pomôcku za 24 mesiacov odo dňa nadobudnutia vykonateľnosti rozhodnutia o zaradení lieku alebo podmienenom zaradení lieku do zoznamu kategorizovaných liekov, zaradení zdravotníckej pomôcky do zoznamu kategorizovaných zdravotníckych pomôcok alebo do zoznamu špeciálnych zdravotníckych materiálov alebo zaradení dietetickej potraviny do zoznamu kategorizovaných dietetických potravín bola vyššia ako celková suma úhrad za liek, zdravotnícku pomôcku alebo dietetickú potravinu navrhnutá v žiadosti, osoba, ktorá podávala žiadosť, je povinná na základe výzvy (§ 8) Ministerstva zdravotníctva Slovenskej republiky uhradiť rozdiel medzi poplatkom uvedeným v položkách i), k) až n) a uhradeným poplatkom.
+
+  - Položka 152a
+
+  - a)
+
+  - Vydanie rozhodnutia o vnútroštátnej registrácii veterinárneho lieku<sup>36ml</sup>)
+
+  - 1.
+
+  - Vydanie rozhodnutia o samostatnej registrácii veterinárneho lieku podloženej úplnými experimentálnymi údajmi<sup>36mm</sup>) .........................................................3 800 eur
+
+  - 2.
+
+  - Vydanie rozhodnutia o registrácii veterinárneho lieku s odkazom na bibliografické údaje<sup>36mn</sup>)...................................................................................................... 3 700 eur
+
+  - 3.
+
+  - Vydanie rozhodnutia o registrácii generického veterinárneho lieku<sup>36mo</sup>)......2 800 eur
+
+  - 4.
+
+  - Vydanie rozhodnutia o registrácii veterinárneho lieku s odkazom na informovaný súhlas<sup>36mp</sup>) .....................................................................................................2 400 eur
+
+  - 5.
+
+  - Vydanie rozhodnutia o registrácii hybridného a kombinovaného veterinárneho lieku<sup>36mq</sup>) ...................................................................................................... 3 600 eur
+
+  - 6.
+
+  - Vydanie rozhodnutia o registrácii veterinárneho lieku s novou kombináciou liečiv<sup>36mr</sup>) ...................................................................................................... 3 800 eur
+
+  - 7.
+
+  - Vydanie rozhodnutia o registrácii homeopatického veterinárneho lieku zjednodušeným postupom<sup>36ms</sup>)......................................................................1 200 eur
+
+  - 8.
+
+  - Vydanie rozhodnutia o registrácii tradičného rastlinného veterinárneho lieku<sup>36mt</sup>)........................................................................................................1 200 eur
+
+  - 9.
+
+  - Vydanie rozhodnutia o registrácii veterinárneho lieku pre spoločenské zvieratá<sup>36mu</sup>) .......................................................................................................................1 500 eur
+
+  - 10.
+
+  - Vydanie rozhodnutia o registrácii veterinárneho lieku na obmedzený trh<sup>36mv</sup>)............................................................................................................1 300 eur
+
+  - 11.
+
+  - Vydanie rozhodnutia o registrácii veterinárneho lieku za výnimočných okolností<sup>36mw</sup>)................................................................................................. 1 300 eur
+
+  - 12.
+
+  - Vydanie rozhodnutia o predĺžení registrácie veterinárneho lieku<sup>36mx</sup>)...........1 200 eur
+
+  - 13.
+
+  - Vydanie rozhodnutia o predĺžení registrácie veterinárneho lieku na obmedzený trh<sup>36my</sup>).............................................................................................................700 eur
+
+  - 14.
+
+  - Vydanie rozhodnutia o predĺžení registrácie veterinárneho lieku za výnimočných okolností<sup>36mz</sup>)................................................................................................... 400 eur
+
+  - b)
+
+  - Vydanie rozhodnutia o registrácii veterinárneho lieku decentralizovaným postupom<sup>36maa</sup>) alebo postupom vzájomného uznania,<sup>36mab</sup>) ak Slovenská republika nie je referenčný členský štát
+
+  - 1.
+
+  - Vydanie rozhodnutia o samostatnej registrácii veterinárneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát, podloženej úplnými experimentálnymi údajmi<sup>36mm</sup>)................................................................................................ 2 400 eur
+
+  - 2.
+
+  - Vydanie rozhodnutia o registrácii veterinárneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát, s odkazom na bibliografické údaje<sup>36mn</sup>) ......................................2 100 eur
+
+  - 3.
+
+  - Vydanie rozhodnutia o registrácii generického veterinárneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát<sup>36mo</sup>) .................................................1 900 eur
+
+  - 4.
+
+  - Vydanie rozhodnutia o registrácii hybridného a kombinovaného veterinárneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát<sup>36mq</sup>) ................................................ 2 300 eur
+
+  - 5.
+
+  - Vydanie rozhodnutia o registrácii veterinárneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát, s novou kombináciou liečiv<sup>36mr</sup>) ............................................ 2 300 eur
+
+  - 6.
+
+  - Vydanie rozhodnutia o registrácii veterinárneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát, s odkazom na informovaný súhlas<sup>36mp</sup>)................................... 1 300 eur
+
+  - 7.
+
+  - Vydanie rozhodnutia o registrácii homeopatického veterinárneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát, zjednodušeným postupom<sup>36ms</sup>) ..................................................................................................................... 1 000 eur
+
+  - 8.
+
+  - Vydanie rozhodnutia o predĺžení registrácie veterinárneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát<sup>36mx</sup>) ............................................................................1 200 eur
+
+  - c)
+
+  - Vydanie rozhodnutia o registrácii veterinárneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika je referenčný členský štát
+
+  - 1.
+
+  - Vydanie rozhodnutia o samostatnej registrácii veterinárneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika je referenčný členský štát, podloženej úplnými experimentálnymi údajmi<sup>36mm</sup>)......................................................................................................5 500 eur
+
+  - 2.
+
+  - Vydanie rozhodnutia o registrácii veterinárneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika je referenčný členský štát, s odkazom na bibliografické údaje<sup>36mn</sup>)..................................................5 000 eur
+
+  - 3.
+
+  - Vydanie rozhodnutia o registrácii generického veterinárneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika je referenčný členský štát<sup>36mo</sup>)...................................................... 4 800 eur
+
+  - 4.
+
+  - Vydanie rozhodnutia o registrácii hybridného a kombinovaného veterinárneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika je referenčný členský štát<sup>36mq</sup>)....................................................... 5 400 eur
+
+  - 5.
+
+  - Vydanie rozhodnutia o registrácii veterinárneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika je referenčný členský štát, s novou kombináciou liečiv<sup>36mr</sup>) ........................................................... 5 300 eur
+
+  - 6.
+
+  - Vydanie rozhodnutia o registrácii veterinárneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika je referenčný členský štát, s odkazom na informovaný súhlas<sup>36mp</sup>) ................................................. 3 800 eur
+
+  - 7.
+
+  - Vydanie rozhodnutia o registrácii homeopatického veterinárneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika je referenčný členský štát, zjednodušeným postupom<sup>36ms</sup>)........... 2 000 eur
+
+  - 8.
+
+  - Vydanie rozhodnutia o predĺžení registrácie veterinárneho lieku, ak Slovenská republika je referenčný členský štát<sup>36mx</sup>) ...................................................... 1 500 eur
+
+  - d)
+
+  - Žiadosti o zmenu registrácie vyžadujúcej posúdenie<sup>36mac</sup>)
+
+  - 1.
+
+  - Vydanie rozhodnutia o zmene vnútroštátnej registrácie veterinárneho lieku vyžadujúcej posúdenie<sup>36mad</sup>)............................................................................ 2 000 eur
+
+  - 2.
+
+  - Vydanie rozhodnutia o zmene registrácie veterinárneho lieku registrovaného decentralizovanou procedúrou alebo procedúrou vzájomného uznania, ak Slovenská republika nie je referenčný členský štát, ktorá vyžaduje posúdenie<sup>36mad</sup>) .......1 000 eur
+
+  - 3.
+
+  - Vydanie rozhodnutia o zmene registrácie veterinárneho lieku registrovaného decentralizovanou procedúrou alebo procedúrou vzájomného uznania, ak Slovenská republika je referenčný členský štát, ktorá vyžaduje posúdenie<sup>36mad</sup>) ....................................................................................................................... 2 500 eur
+
+  - 4.
+
+  - Vydanie rozhodnutia o prevode registrácie veterinárneho lieku na iného držiteľa<sup>36mae</sup>).......................................................................................................200 eur
+
+  - 5.
+
+  - Vydanie rozhodnutia o pozastavení registrácie veterinárneho lieku<sup>36maf</sup>) ............. 200 eur
+
+  - e)
+
+  - Žiadosť o povolenie klinického skúšania<sup>36mag</sup>)
+
+  - 1.
+
+  - Vydanie povolenia na klinické skúšanie veterinárnych liekov<sup>36mah</sup>) ..................350 eur
+
+  - 2.
+
+  - Vydanie povolenia na zmenu klinického skúšania veterinárnych liekov na základe predošlého povolenia<sup>36mah</sup>)..................................................................................150 eur
+
+  - f)
+
+  - Žiadosť o povolenie na dovoz a používanie neregistrovaného veterinárneho lieku<sup>36mai</sup>)
+
+  - 1.
+
+  - Vydanie povolenia na veterinárny liek registrovaný v inom členskom štáte<sup>36maj</sup>).....50 eur
+
+  - 2.
+
+  - Vydanie povolenia na imunologický veterinárny liek, ktorý nie je registrovaný v inom členskom štáte<sup>36mak</sup>).....................................................................100 eur
+
+  - 3.
+
+  - Vydanie povolenia na imunologický veterinárny liek – veterinárna autogénna vakcína<sup>36mal</sup>)....100 eur
+
+  - 4.
+
+  - Vydanie povolenia na veterinárny liek určený na výskum a vývoj<sup>36mam</sup>)..................30 eur
+
+  - 5.
+
+  - Vydanie povolenia na zmenu dovozu a používania neregistrovaného veterinárneho lieku<sup>36mai</sup>)..................................................................................................................30 eur
+
+  - g)
+
+  - Žiadosť o povolenie na súbežný obchod registrovaného veterinárneho lieku
+
+  - 1.
+
+  - Vydanie povolenia na súbežný obchod veterinárneho lieku<sup>36man</sup>) ........................180 eur
+
+  - 2.
+
+  - Vydanie povolenia na udelenie výnimky na dovoz malého množstva veterinárneho lieku v inom jazyku alebo úpravu vonkajšieho obalu, vnútorného obalu a písomnej informácie pre používateľov<sup>36mao</sup>)..................................................................................100 eur
+
+  - 3.
+
+  - Vydanie povolenia na dopredaj veterinárneho lieku po zrušení registrácie veterinárneho lieku<sup>36map</sup>) ..................................................................................................100 eur
+
+  - 4.
+
+  - Vydanie povolenia na udelenie výnimky na dopredaj veterinárneho lieku bez zrušenia registrácie (za každú silu a liekovú formu zvlášť) vrátane povolenia preznačenia vonkajších a vnútorných obalov<sup>36map</sup>) ........................................................................50 eur
+
+  - 5.
+
+  - Vydanie certifikátu<sup>36maq</sup>) na žiadosť výrobcu alebo vývozcu veterinárnych liekov alebo orgánov dovážajúcej tretej krajiny.................................................................... 30 eur
+
+  - h)
+
+  - Žiadosť o schválenie veterinárneho prípravku a oznámenie uvádzania veterinárnej technickej pomôcky
+
+  - 1.
+
+  - Vydanie rozhodnutia o schválení veterinárneho prípravku<sup>36mar</sup>).........................200 eur
+
+  - 2.
+
+  - Vydanie rozhodnutia o predĺžení platnosti rozhodnutia o schválení veterinárneho prípravku<sup>36mas</sup>).............................................................................................150 eur
+
+  - 3.
+
+  - Vydanie rozhodnutia o schválení zmeny údajov a skutočností uvedených v rozhodnutí o schválení veterinárneho prípravku<sup>36mas</sup>)............................................................... 100 eur
+
+  - 4.
+
+  - Oznámenie uvádzania veterinárnej technickej pomôcky na trh<sup>36mat</sup>) .......................100 eur
+
+  - i)
+
+  - Žiadosť o povolenie na klinické hodnotenie veterinárneho prípravku a veterinárnej technickej pomôcky<sup>36mau</sup>)
+
+  - 1.
+
+  - Vydanie povolenia na klinické skúšanie veterinárneho prípravku a veterinárnej technickej pomôcky ..........................................................................................................................150 eur
+
+  - 2.
+
+  - Vydanie povolenia na zmenu klinického skúšania veterinárneho prípravku a veterinárnej technickej pomôcky...........................................................................................................100 eur
+
+  - j)
+
+  - Žiadosť o povolenie výroby veterinárneho prípravku<sup>36mav</sup>)
+
+  - 1.
+
+  - Vydanie povolenia na základe žiadosti výrobcu veterinárnych prípravku o výrobu veterinárnych liekov ......................................................................................30 eur
+
+  - 2.
+
+  - Vydanie povolenia na základe žiadosti výrobcu veterinárneho prípravku o zmenu povolenia výroby veterinárneho prípravku ....................................................30 eur
+
+  - Poznámka
+
+  - Poplatok pre žiadosti uvedené v písmenách a) až j) musí byť uhradený najneskôr do 21 dní odo dňa doručenia žiadosti, inak sa konanie zastaví.
+
+  - Oslobodenie
+
+  - Žiadosť o zrušenie registrácie veterinárneho lieku bez ďalších požiadaviek sa nespoplatňuje.
 
   - Položka 152b
 
