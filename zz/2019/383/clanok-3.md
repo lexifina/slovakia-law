@@ -32,6 +32,14 @@ Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s
 
   - Nariadenie Európskeho parlamentu a Rady (EÚ) 2017/745 z 5. apríla 2017 o zdravotníckych pomôckach, zmene smernice 2001/83/ES, nariadenia (ES) č. 178/2002 a nariadenia (ES) č. 1223/2009 a o zrušení smerníc Rady 90/385/EHS a 93/42/EHS (Ú. v. EÚ L 117, 5. 5. 2017) v platnom znení.“.
 
+- 5. V § 26 ods. 2 sa na konci pripájajú tieto slová: „a pre klinické skúšanie humánnych liekov, ktoré sa vykonáva za podmienok ustanovených v osobitných predpisoch<sup>39aab</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 39aab znie:
+
+  - „<sup>39aab</sup>) § 29 až 44 zákona č. 362/2011 Z. z.
+
+  - Nariadenie Európskeho parlamentu a Rady (EÚ) č. 536/2014 zo 16. apríla 2014 o klinickom skúšaní liekov na humánne použitie, ktorým sa zrušuje smernica 2001/20/ES (Ú. v. EÚ L 158, 27. 5. 2014) v platnom znení.“.
+
 - 6. V § 26 sa za odsek 7 vkladá nový odsek 8, ktorý znie:
 
 - „(8)
@@ -39,3 +47,11 @@ Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s
 - Ak je biomedicínskym výskumom klinické skúšanie zdravotníckej pomôcky, biomedicínsky výskum povoľuje Štátny ústav pre kontrolu liečiv v súčinnosti s etickou komisiou [§ 5 ods. 1 a ods. 2 písm. a)] podľa osobitného predpisu.<sup>39aaa</sup>)“.
 
   - Doterajšie odseky 8 až 11 sa označujú ako odseky 9 až 12.
+
+- 7. V § 26 sa za odsek 8 vkladá nový odsek 9, ktorý znie:
+
+- „(9)
+
+- Ak je biomedicínskym výskumom klinické skúšanie humánneho lieku, biomedicínsky výskum povoľuje Štátny ústav pre kontrolu liečiv v súčinnosti s etickou komisiou [§ 5 ods. 1 a ods. 2 písm. a)] podľa osobitného predpisu.<sup>39aab</sup>)“.
+
+  - Doterajšie odseky 9 až 12 sa označujú ako odseky 10 až 13.

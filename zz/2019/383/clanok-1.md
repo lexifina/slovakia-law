@@ -4,6 +4,8 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
 - 1. Slová „orgán, ktorý povolenie vydal“ vo všetkých tvaroch sa v celom texte zákona nahrádzajú slovami „orgán príslušný na vydanie povolenia“ v príslušnom tvare.
 
+- 2. Slová „etická komisia pre klinické skúšanie“ vo všetkých tvaroch sa v celom texte zákona nahrádzajú slovami „etická komisia“ v príslušnom tvare.
+
 - 3. V § 2 sa vypúšťajú odseky 19 a 21 až 26.
 
   - Doterajšie odseky 20 a 27 až 52 sa označujú ako odseky 19 až 45.
@@ -322,6 +324,12 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
   - Poznámky pod čiarou k odkazom 30ac a 30ad sa vypúšťajú.
 
+- 43. § 29a sa dopĺňa odsekom 7, ktorý znie:
+
+- „(7)
+
+- Ochrana maloletých osôb a iných zraniteľných osôb sa zabezpečuje podľa osobitného predpisu.<sup>42a</sup>)“.
+
 - 44. § 29b vrátane nadpisu znie:
 
 - „§ 29b
@@ -409,6 +417,8 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
   - <sup>42ed</sup>) Kapitola II, Kapitola VI čl. 74 a príloha XV nariadenia (EÚ) 2017/745.“.
 
 - 45. § 29c sa vypúšťa.
+
+- 46. V § 29d ods. 4, § 29j ods. 1 a 2 úvodnej vete, § 29k ods. 1, § 29m ods. 3 písm. a) a b) a ods. 11 a § 29n ods. 4 sa slová „§ 29b ods. 2“ nahrádzajú slovami „§ 29b ods. 2 písm. a) prvého bodu až tretieho bodu“.
 
 - 47. V § 46 sa vypúšťajú odseky 10 a 11.
 
@@ -1794,7 +1804,7 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
 - 119. Príloha č. 1 vrátane nadpisu znie:
 
-- „[príloha](assets/9d449813baa38253b9e3a8a5cced32004b61c2abf4236ab70475ffce7657cdeb.pdf)
+- „[príloha](assets/f6410907a3a6d777428e78bbcce3944bc37ae4ed8cf7f923b110219f477800a0.pdf)
 
 - “.
 
