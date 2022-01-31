@@ -4442,6 +4442,150 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Vydanie certifikátu o voľnom predaji zdravotníckej pomôcky a diagnostickej zdravotníckej pomôcky in vitro...........300 eur
 
+  - ad)
+
+  - Klinické skúšanie humánneho lieku
+
+  - 1.
+
+  - Konanie o povolení klinického skúšania lieku<sup>36ma</sup>) okrem nízkointervenčného klinického skúšania<sup>36mb</sup>), ak je Slovenská republika spravodajským členským štátom<sup>36mc</sup>) a klinické skúšanie
+
+  - 1.1.
+
+  - nezahŕňa lieky na inovatívnu liečbu alebo lieky uvedené v osobitnom predpise<sup>36md</sup>) ............................................................................................................ 6 100 eur
+
+  - 1.2.
+
+  - zahŕňa lieky na inovatívnu liečbu alebo lieky uvedené v osobitnom predpise<sup>36md</sup>) ............................................................................................................ 9 100 eur
+
+  - 2.
+
+  - Konanie o povolení klinického skúšania lieku<sup>36ma</sup>) okrem nízkointervenčného klinického skúšania,<sup>36mb</sup>) ak Slovenská republika nie je spravodajským členským štátom a klinické skúšanie
+
+  - 2.1.
+
+  - nezahŕňa lieky na inovatívnu liečbu alebo lieky uvedené v osobitnom predpise<sup>36md</sup>) ............................................................................................................ 3 500 eur
+
+  - 2.2.
+
+  - zahŕňa skúšané lieky na inovatívnu liečbu alebo lieky uvedené v osobitnom predpise<sup>36mb</sup>) ....................................................................................... 5 250 eur
+
+  - 3.
+
+  - Konanie o povolení podstatnej zmeny klinického skúšania<sup>36me</sup>) okrem nízkointervenčného klinického skúšania,<sup>36mb</sup>) ak Slovenská republika je spravodajským členským štátom a klinické skúšanie
+
+  - 3.1.
+
+  - nezahŕňa lieky na inovatívnu liečbu alebo lieky uvedené v osobitnom predpise<sup>36md</sup>) ............................................................................................................ 3 050 eur
+
+  - 3.2.
+
+  - zahŕňa lieky na inovatívnu liečbu alebo lieky uvedené v osobitnom predpise<sup>36md</sup>) ............................................................................................................ 4 600 eur
+
+  - 4.
+
+  - Konanie o povolení podstatnej zmeny klinického skúšania<sup>36me</sup>) okrem nízkointervenčného klinického skúšania,<sup>36mb</sup>) ak Slovenská republika nie je spravodajským členským štátom a klinické skúšanie
+
+  - 4.1.
+
+  - nezahŕňa lieky na inovatívnu liečbu alebo lieky uvedené v osobitnom predpise<sup>36md</sup>) ............................................................................................................ 1 750 eur
+
+  - 4.2.
+
+  - zahŕňa skúšané lieky na inovatívnu liečbu alebo lieky uvedené v osobitnom predpise<sup>36md</sup>) ....................................................................................... 2 650 eur
+
+  - 5.
+
+  - Konanie o povolení pridania Slovenskej republiky do klinického skúšania povoleného v iných členských štátoch,<sup>36mf</sup>) ak
+
+  - 5.1.
+
+  - ide o nízkointervenčné klinické skúšanie,<sup>36mb</sup>) ktoré nezahŕňa lieky na inovatívnu liečbu alebo lieky uvedené v osobitnom predpise<sup>36md</sup>) .......................................................................................................... 2 800 eur
+
+  - 5.2.
+
+  - ide o nízkointervenčné klinické skúšanie,<sup>36mb</sup>) ktoré zahŕňa lieky na inovatívnu liečbu alebo lieky uvedené v osobitnom predpise<sup>36md</sup>) ......................................... ............................................................................................................. 4 200 eur
+
+  - 5.3.
+
+  - nejde o nízkointervenčné klinické skúšanie,<sup>36mb</sup>) ktoré nezahŕňa lieky na inovatívnu liečbu alebo lieky uvedené v osobitnom predpise<sup>36md</sup>) ..................................... ............................................................................................................. 3 500 eur
+
+  - 5.4.
+
+  - nejde o nízkointervenčné klinické skúšanie,<sup>36mb</sup>) ktoré zahŕňa lieky na inovatívnu liečbu alebo lieky uvedené v osobitnom predpise<sup>36md</sup>) ............................................................................................................. 5 250 eur
+
+  - 6.
+
+  - Konanie o povolení nízkointervenčného klinického skúšania,<sup>36mb</sup>) ak
+
+  - 6.1.
+
+  - Slovenská republika je spravodajským členským štátom a klinické skúšanie nezahŕňa lieky na inovatívnu liečbu alebo lieky uvedené v osobitnom predpise<sup>36md</sup>) ...................................................................................................... 4 900 eur
+
+  - 6.2.
+
+  - Slovenská republika je spravodajským členským štátom a klinické skúšanie zahŕňa lieky na inovatívnu liečbu alebo lieky uvedené v osobitnom predpise<sup>36md</sup>) ..................................................................................................... 7 300 eur
+
+  - 6.3.
+
+  - Slovenská republika nie je spravodajským členským štátom a klinické skúšanie nezahŕňa lieky na inovatívnu liečbu alebo lieky uvedené v osobitnom predpise<sup>36md</sup>) ...................................................................................................... 4 900 eur
+
+  - 6.4.
+
+  - Slovenská republika nie je spravodajským členským štátom a klinické skúšanie zahŕňa skúšané lieky na inovatívnu liečbu alebo lieky uvedené v osobitnom predpise<sup>36md</sup>) ....................................................................................... 4 200 eur
+
+  - 7.
+
+  - Konanie o povolení klinického skúšania bez zdravotnej indikácie, resp. prvé podanie človeku, ak je Slovenská republika spravodajským členským štátom a klinické skúšanie
+
+  - 7.1.
+
+  - nezahŕňa lieky na inovatívnu liečbu alebo lieky uvedené v osobitnom predpise<sup>36md</sup>) ............................................................................................................. 7 300 eur
+
+  - 7.2.
+
+  - zahŕňa lieky na inovatívnu liečbu alebo lieky uvedené v osobitnom predpise<sup>36md</sup>) ............................................................................................................ 11 000 eur
+
+  - 8.
+
+  - Konanie o povolení klinického skúšania bez zdravotnej indikácie, resp. prvé podanie človeku, ak nie je Slovenská republika spravodajským členským štátom a klinické skúšanie
+
+  - 8.1.
+
+  - nezahŕňa lieky na inovatívnu liečbu alebo lieky uvedené v osobitnom predpise<sup>36md</sup>) ............................................................................................................ 4 200 eur
+
+  - 8.2.
+
+  - zahŕňa lieky na inovatívnu liečbu alebo lieky uvedené v osobitnom predpise<sup>36md</sup>) ............................................................................................................ 6 300 eur
+
+  - 9.
+
+  - Konanie o povolení podstatnej zmeny nízkointervenčného klinického skúšania, ak Slovenská republika je spravodajským členským štátom a klinické skúšanie
+
+  - 9.1.
+
+  - nezahŕňa skúšané lieky na inovatívnu liečbu alebo lieky uvedené v osobitnom predpise<sup>36md</sup>) .......................................................................................... 2 450 eur
+
+  - 9.2.
+
+  - zahŕňa lieky na inovatívnu liečbu alebo lieky uvedené v osobitnom predpise<sup>36md</sup>) ............................................................................................................ 3 650 eur
+
+  - 10.
+
+  - Konanie o povolení podstatnej zmeny nízkointervenčného klinického skúšania,<sup>36mb</sup>) ak Slovenská republika nie je spravodajským členským štátom a klinické skúšanie
+
+  - 10.1.
+
+  - nezahŕňa lieky na inovatívnu liečbu alebo lieky uvedené v osobitnom predpise<sup>36md</sup>) ........................................................................................................ 1 400 eur
+
+  - 10.2.
+
+  - zahŕňa lieky na inovatívnu liečbu alebo lieky uvedené v osobitnom predpise<sup>36md</sup>) ....................................................................................................... 2 100 eur
+
+  - 11.
+
+  - Výkon inšpekcie správnej klinickej praxe<sup>36mg</sup>) a vyhotovenie správy z inšpekcie ...................................................................................................................... 1 200 eur
+
     - Oslobodenie
 
     - Od poplatkov podľa písmen s) až v) je účastník konania oslobodený, ak predmetom žiadosti je

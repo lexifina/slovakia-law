@@ -394,7 +394,19 @@
 
 - 36cn) § 59 zákona č. 362/2011 Z. z.
 
-- 36ma) § 8 ods. 2 zákona č. 17/2018 Z. z.
+- 36ma) Kapitola II nariadenia Európskeho parlamentu a Rady (EÚ) č. 536/2014 zo 16. apríla 2014 o klinickom skúšaní liekov na humánne použitie, ktorým sa zrušuje smernica 2001/20/ES (Ú. v. EÚ L 158, 27. 5. 2014) v platnom znení.
+
+- 36mb) Čl. 2 ods. 2 bod 3 nariadenia (EÚ) č. 536/2014.
+
+- 36mc) Čl. 5 ods. 1 nariadenia (EÚ) č. 536/2014.
+
+- 36md) Nariadenie Európskeho parlamentu a Rady (ES) č. 1394/2007 z 13. novembra 2007 o liekoch na inovatívnu liečbu, ktorým sa mení a dopĺňa smernica 2001/83/ES a nariadenie (ES) č. 726/2004 (Ú. v. EÚ L 324, 10. 12. 2007) v platnom znení.
+
+- 36me) Kapitola III nariadenia (EÚ) č. 536/2014.
+
+- 36mf) Článok 14 nariadenia (EÚ) č. 536/2014.
+
+- 36mg) Kapitola VIII nariadenia (EÚ) č. 536/2014.
 
 - 36mh) § 110b ods. 8 zákona č. 362/2011 Z. z.
 
