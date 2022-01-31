@@ -778,7 +778,97 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
 - 83. V § 23 ods. 1 písm. ba) sa za slová „štátnej správy“ vkladajú slová „a samosprávy“.
 
+- 84. V § 29 ods. 6 sa slová „zdravému človeku“ nahrádzajú slovom „účastníkovi“.
+
+- 85. V § 29a sa za odsek 1 vkladá nový odsek 2, ktorý znie:
+
+- „(2)
+
+- Úlohy etickej komisie podľa osobitného predpisu<sup>42aa</sup>) plní etická komisia pre klinické skúšanie zriadená podľa § 142a ods. 3.“.
+
+  - Doterajšie odseky 2 až 7 sa označujú ako odseky 3 až 8.
+
+- 86. § 29a sa dopĺňa odsekmi 9 až 12, ktoré znejú:
+
+- „(9)
+
+- Spisová dokumentácia podľa osobitného predpisu<sup>42h</sup>) sa podáva v slovenskom jazyku.
+
+- (10)
+
+- Hodnotiaca správa podľa osobitného predpisu<sup>42a</sup>) sa vypracuje v anglickom jazyku.
+
+- (11)
+
+- Stanovisko etickej komisie pre klinické skúšanie sa vypracuje v slovenskom jazyku.
+
+- (12)
+
+- Rozhodnutie štátneho ústavu sa vypracuje v slovenskom jazyku.“.
+
 - 87. § 29b až 29g vrátane poznámky pod čiarou k odkazu 42f sa vypúšťajú.
+
+- 88. V nadpise § 29h sa slová „výkone dohľadu nad priebehom povoleného klinického skúšania“ nahrádzajú slovami „centralizovanom klinickom skúšaní“.
+
+- 89. V § 29h sa za odsek 1 vkladajú nové odseky 2 a 3, ktoré znejú:
+
+- „(2)
+
+- Štátny ústav vypracuje stanovisko k hodnotiacej správe časť I.<sup>42a</sup>)
+
+- (3)
+
+- Etická komisia pre klinické skúšanie vypracuje stanovisko k hodnotiacej správe časti II a môže sa vyjadriť k časti I.“.
+
+  - Doterajšie odseky 2 až 5 sa označujú ako odseky 4 až 7.
+
+- 90. V § 29h sa vypúšťa odsek 5.
+
+  - Doterajšie odseky 6 a 7 sa označujú ako odseky 5 a 6.
+
+- 91. V § 29h odsek 6 znie:
+
+- „(6)
+
+- Štátny ústav požiada etickú komisiu pre klinické skúšanie o stanovisko vždy, keď môže byť etická komisia zapojená do posúdenia povoľovania a priebehu klinického skúšania podľa osobitného predpisu<sup>42a</sup>). Etická komisia pre klinické skúšanie vypracuje stanovisko a predloží ho štátnemu ústavu v lehote stanovenej štátnym ústavom.“.
+
+- 92. § 29i a 29j vrátane poznámok pod čiarou k odkazom 42u až 42aa, 42ac a 42ae sa vypúšťajú.
+
+- 93. V § 29k odsek 1 znie:
+
+- „(1)
+
+- Ak je podľa osobitného predpisu zadávateľ oprávnený podať odvolanie proti rozhodnutiu štátneho ústavu vydaného podľa osobitného predpisu,<sup>42a</sup>) zadávateľ môže podať odvolanie prostredníctvom európskeho elektronického portálu pre klinické skúšanie do 15 dní odo dňa oznámenia rozhodnutia.“.
+
+- 94. V § 29k ods. 2 sa na konci pripája táto veta: „Ak zadávateľ vzal odvolanie späť, nemôže podať odvolanie znova.“.
+
+- 95. V § 29k ods. 3 sa slová „klinické skúšanie humánneho lieku nebolo povolené z dôvodu“ nahrádzajú slovami „zadávateľ podal odvolanie proti rozhodnutiu vydanému na základe“.
+
+- 96. V § 29k ods. 4 sa slová „klinické skúšanie humánneho lieku nebolo povolené z dôvodu“ nahrádzajú slovami „rozhodnutie bolo vydané na základe“.
+
+- 97. V § 29l sa vypúšťa odsek 3.
+
+- 98. V § 29m sa vypúšťa odsek 6.
+
+  - Doterajšie odseky 7 až 13 sa označujú ako odseky 6 až 12.
+
+- 99. V § 29m ods. 9 sa za slová „v nemocničnej lekárni“ vkladajú slová „alebo môžu byť pripravované držiteľom povolenia na výrobu liekov v rámci klinického skúšania“.
+
+- 100. V § 29m sa vypúšťa odsek 10.
+
+  - Doterajšie odseky 11 až 12 sa označujú ako odseky 10 a 11.
+
+- 101. V § 29n sa odsek 2 dopĺňa písmenom d), ktoré znie:
+
+- „d)
+
+- uchovávať skúšaný humánny liek a sprievodný liek v nemocničnej lekárni poskytovateľa zdravotnej starostlivosti, v ktorom sa nachádza pracovisko, alebo v nemocničnej lekárni alebo vo verejnej lekárni alebo na pracovisku, ktoré spĺňa podmienky na uchovávanie skúšaného humánneho lieku alebo sprievodného lieku uvedené v protokole.“.
+
+- 102. V § 29n odsek 4 znie:
+
+- „(4)
+
+- Zadávateľ klinického skúšania môže začať klinické skúšanie až po prijatí oznámenia o povolení klinického skúšania prostredníctvom európskeho elektronického portálu pre klinické skúšanie alebo rozhodnutia, ak je uplatniteľné.“.
 
 - 103. V § 46 ods. 4 sa na konci pripája táto veta: „Na lieky, ktorých terapeutické použitie povolilo ministerstvo zdravotníctva podľa prvej vety, sa nevzťahujú požiadavky podľa § 61 až 63.“.
 
@@ -3826,6 +3916,6 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
 - 271. Za prílohu č. 2 sa vkladajú prílohy č. 3 a 4, ktoré znejú:
 
-- „[Príloha č. 3 a č. 4 k zákonu č. 362/2011 Z. z.](assets/4575ec16acbcf93633972da7a2c563fb299fa1c0351677440f4e401aeae7930d.pdf)“.
+- „[Príloha č. 3 a č. 4 k zákonu č. 362/2011 Z. z.](assets/4a28aa15e95d6937a9ded71acf753fc364b7c5b1b78fd0772416ea0a4e3c8592.pdf)“.
 
 - 272. Slová „etická komisia“ vo všetkých tvaroch sa v celom texte zákona okrem § 1 ods. 1 písm. c), § 29a ods. 2 a 11, § 29h ods. 3 a 6, § 111 ods. 2, § 111h ods. 2, § 111j a § 111k, § 142a, § 142b nadpisu paragrafu, odseku 1 písm. a), h) až j), písm. q), odseku 2 písm. a), h) až j), písm. q), odseku 3, odseku 5 úvodnej vety, odseku 5 písm. e), odseku 6, 7, § 142c ods. 1 až 6 a odsekov 10 a 11 a § 143u nahrádzajú slovami „etická komisia pre klinické skúšanie“ v príslušnom tvare.
