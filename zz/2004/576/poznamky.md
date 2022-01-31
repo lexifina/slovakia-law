@@ -94,7 +94,9 @@
 
 - 8f) § 7 ods. 15 zákona č. 578/2004 Z. z. v znení zákona č. 351/2017 Z. z.
 
-- 9) Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 9) § 29 až 44 zákona č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Nariadenie Európskeho parlamentu a Rady (EÚ) č. 536/2014 zo 16. apríla 2014 o klinickom skúšaní liekov na humánne použitie, ktorým sa zrušuje smernica 2001/20/ES (Ú. v. EÚ L 158, 27. 5. 2014) v platnom znení.
 
 - 9a) § 9d ods. 1 zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
 
@@ -238,11 +240,13 @@
 
 - Nariadenie Európskeho parlamentu a Rady (EÚ) 2017/745 z 5. apríla 2017 o zdravotníckych pomôckach, zmene smernice 2001/83/ES, nariadenia (ES) č. 178/2002 a nariadenia (ES) č. 1223/2009 a o zrušení smerníc Rady 90/385/EHS a 93/42/EHS (Ú. v. EÚ L 117, 5. 5. 2017) v platnom znení.
 
+- 39aab) § 29 až 44 zákona č. 362/2011 Z. z.
+
+- Nariadenie Európskeho parlamentu a Rady (EÚ) č. 536/2014 zo 16. apríla 2014 o klinickom skúšaní liekov na humánne použitie, ktorým sa zrušuje smernica 2001/20/ES (Ú. v. EÚ L 158, 27. 5. 2014) v platnom znení.
+
 - 39ab) § 10 zákona č. 176/2015 Z. z. o komisárovi pre deti a komisárovi pre osoby so zdravotným postihnutím a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - Článok 14, 15 a 25 Dohovoru o právach osôb so zdravotným postihnutím (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 317/2010 Z. z.) v znení Opčného protokolu k Dohovoru o právach osôb so zdravotným postihnutím (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 318/2010 Z. z.).
-
-- 40) § 15 ods. 12 zákona č. 140/1998 Z. z.
 
 - 40a) § 110 ods. 1 zákona č. 87/2018 Z. z. o radiačnej ochrane a o zmene a doplnení niektorých zákonov.
 
