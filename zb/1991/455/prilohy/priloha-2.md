@@ -12,9 +12,9 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 3. | Opravy, odborné prehliadky a odborné skúšky vyhradených technických zariadení | oprávnenie na činnosť alebo osvedčenie na vykonávanie činnosti alebo preukaz na vykonávanie činnosti | § 8a ods. 7 zákona č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov *) len v oblasti pôsobnosti dozoru štátnej banskej správy |
 
-- 4. | Vývoj a výroba zbraní alebo streliva | – stredné odborné vzdelanie v odbore puškárstvo a dva roky praxe v odbore alebo – 6 rokov praxe v odbore | | I
+- 4. | Vývoj a výroba zbraní alebo streliva | – stredné odborné vzdelanie so zameraním na výrobu a opravy strelných zbraní a streliva a dva roky praxe v odbore alebo – 6 rokov praxe v odbore | | I
 
-- 5. | Opravy, úpravy, ničenie, znehodnocovanie alebo výroba rezu zbraní | – stredné odborné vzdelanie v odbore puškárstvo a dva roky praxe v odbore alebo – 6 rokov praxe v odbore | |
+- 5. | Opravy, úpravy, ničenie, znehodnocovanie alebo výroba rezu zbraní a streliva | – stredné odborné vzdelanie so zameraním na výrobu a opravy strelných zbraní a streliva a dva roky praxe v odbore alebo – 6 rokov praxe v odbore | |
 
 - SKUPINA 204 – Výroba zdravotníckych výrobkov, presných a optických prístrojov a hodín | | | |
 
