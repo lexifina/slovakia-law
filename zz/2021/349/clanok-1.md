@@ -12,6 +12,38 @@ Nariadenie vlády Slovenskej republiky č. 50/2007 Z. z. o registrácii odrôd p
 
 - 2. Nadpis § 10 znie: „Transpozičné ustanovenie“.
 
+- 3. V prílohe č. 1 časti A osemnásta položka znie:
+
+- „
+
+- 18. | Festuca trachyphylla (Hack.) Hack. | kostrava drsnolistá“.
+
+- “.
+
+- 4. V prílohe č. 1 časti A stoprvá položka až stotretia položka znejú:
+
+- „
+
+- 101. | Sorghum bicolor (L.) Moench subsp. bicolor | cirok dvojfarebný
+
+- 102. | Sorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex Davidse | cirok sudánska tráva
+
+- 103. | Sorghum bicolor (L.) Moench subsp. bicolor x Sorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex Davidse | hybridy ciroku dvojfarebného a ciroku sudánskej trávy“.
+
+- “.
+
+- 5. V prílohe č. 1 časti A stopiata položka až stosiedma položka znejú:
+
+- „
+
+- 105. | Triticum aestivum L. subsp. aestivum | pšenica letná
+
+- 106. | Triticum turgidum L. subsp. durum (Desf.) van Slageren | pšenica tvrdá
+
+- 107. | Triticum aestivum L. subsp. spelta (L.) Thell. | pšenica špaldová“.
+
+- “.
+
 - 6. V prílohe č. 3 časti A prvý bod a druhý bod znejú:
 
 - „1.
@@ -289,3 +321,9 @@ Nariadenie vlády Slovenskej republiky č. 50/2007 Z. z. o registrácii odrôd p
 - „34.
 
 - Vykonávacia smernica Komisie (EÚ) 2021/746 zo 6. mája 2021, ktorou sa menia smernice 2003/90/ES a 2003/91/ES, pokiaľ ide o protokoly na skúšanie určitých odrôd poľnohospodárskych rastlinných druhov a druhov zeleniny, a ktorou sa mení smernica 2003/90/ES, pokiaľ ide o niektoré botanické názvy rastlín (Ú. v. EÚ L 160, 7. 5. 2021).“.
+
+- 8. Príloha č. 4 sa dopĺňa tridsiatym piatym bodom, ktorý znie:
+
+- „35.
+
+- Vykonávacia smernica Komisie (EÚ) 2021/415 z 8. marca 2021, ktorou sa menia smernice Rady 66/401/EHS a 66/402/EHS na účely prispôsobenia taxonomických skupín a názvov určitých druhov osív a burín vývoju vedeckých a technických poznatkov (Ú. v. EÚ L 81, 9. 3. 2021).“.
