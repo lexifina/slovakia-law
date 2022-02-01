@@ -66,7 +66,15 @@
 
 - 18a) § 10 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
 
-- 19) Čl. 8 ods. 2 nariadenia Rady (ES) č. 338/97.
+- 19) § 44 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
+
+- 19a) § 45 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
+
+- 19b) § 54 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
+
+- 19c) Nariadenie vlády Slovenskej republiky č. 377/2012 Z. z., ktorým sa ustanovujú požiadavky na ochranu zvierat používaných na vedecké účely alebo vzdelávacie účely v znení neskorších predpisov.
+
+- 19d) Napríklad § 12 ods. 2 písm. j), § 14 ods. 2 písm. b), § 22 ods. 18 a 19 zákona č. 39/2007 Z. z. v znení neskorších predpisov.
 
 - 20) § 2 ods. 2 Obchodného zákonníka.
 
@@ -176,19 +184,29 @@
 
 - Kolónka 23 prílohy I k nariadeniu Komisie (ES) č. 1808/2001.
 
-- 54) Napríklad zákon č. 71/1967 Zb. v znení neskorších predpisov, zákon č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+- 55) Napríklad zákon č. 281/1997 Z.z. o vojenských obvodoch a zákon, ktorým sa mení zákon Národnej rady Slovenskej republiky č. 222/1996 Z.z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov v znení neskorších predpisov, Trestný poriadok v znení neskorších predpisov, zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 55) Napríklad zákon č. 281/1997 Z. z. o vojenských obvodoch a zákon, ktorým sa mení zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 172/2003 Z. z., Trestný poriadok.
+- 56) Zákon č. 215/2004 Z. z. v znení neskorších predpisov.
 
-- 56) Zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 57) § 63 ods. 1 zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení zákona č. 144/2010 Z. z.
 
-- Trestný poriadok.
+- 58) § 110 ods. 2 zákona č. 452/2021 Z. z. o elektronických komunikáciách.
 
-- 57) Zákon č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
+- 59) § 63 ods. 6 zákona č. 351/2011 Z. z. v znení neskorších predpisov.
 
-- 58) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení zákona č. 530/2004 Z. z.
+- 59a) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
-- 59) § 10 a § 11 ods. 1 písm. c) zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
+- 59b) Napríklad § 136 a 138 Zákonníka práce, zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 59c) § 116 zákona č. 40/1964 Zb. Občiansky zákonník.
+
+- 59d) § 72 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore.
+
+- 59e) § 10 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
+
+- 59f) § 8 zákona Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov.
+
+- § 8 zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve.
 
 - 60) Čl. 11 ods. 3 nariadenia Rady (ES) č. 338/97.
 
@@ -219,6 +237,8 @@
 - Nariadenie (EÚ) č. 737/2010.
 
 - Nariadenie (EÚ) č. 757/2012.
+
+- 70b) § 4 ods. 1 písm. c) zákona č. 39/2007 Z. z. o veterinárnej starostlivosti v znení neskorších predpisov.
 
 - 71) Napríklad Trestný poriadok, zákon č. 199/2004 Z. z.
 
