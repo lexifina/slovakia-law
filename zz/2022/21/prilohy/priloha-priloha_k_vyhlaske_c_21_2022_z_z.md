@@ -1,0 +1,1 @@
+Príloha k vyhláške č. 21/2022 Z. z. [Rozsah pedagogickej dokumentácie a ďalšej dokumentácie, ktorá sa vedie dvojjazyčne](../assets/0e0f913dc3638d4890c9cc1b360606f4e1b37fc4ef470925d6b5b36d2affcd3b.pdf)
