@@ -1,6 +1,6 @@
 Príloha č. 6 k zákonu č. 190/2003 Z. z.
 
-- Druhy zbrane, hlavné časti zbrane, súčasti zbrane, druhy streliva, komponenty streliva, druhy striel
+- Druhy zbrane, hlavné časti zbrane, druhy streliva, komponenty streliva, druhy striel
 
   - A. Druhy zbrane
 
@@ -10,7 +10,7 @@ Príloha č. 6 k zákonu č. 190/2003 Z. z.
 
     - c) mechanická zbraň je zbraň, ktorej funkcia je založená na okamžitom uvoľnení energie nahromadenej mechanickým pôsobením,
 
-    - d) expanzná zbraň je palná zbraň skonštruovaná výhradne na použitie streliva určeného do expanzných zbraní, vylučujúca použitie guľového náboja alebo náboja s hromadnou strelou s výnimkou nábojok s granulami,
+    - d) expanzná zbraň je palná zbraň skonštruovaná výhradne na použitie streliva určeného do expanzných zbraní, vylučujúca použitie guľového náboja alebo náboja s hromadnou strelou s výnimkou nábojok s granulami; za expanznú zbraň sa považuje najmä poplašná zbraň, akustická zbraň, salutná zbraň,
 
     - e) expanzný prístroj je pracovný prístroj, v ktorom je primárnym zdrojom energie výbušná látka obsiahnutá v strelive do expanzných prístrojov, s výnimkou ručných upevňovacích zariadení s výbušnou náplňou a iných nárazových strojových zariadení podľa osobitného predpisu,<sup>41</sup>)
 
@@ -20,23 +20,23 @@ Príloha č. 6 k zákonu č. 190/2003 Z. z.
 
     - h) kombinovaná zbraň je palná zbraň s hlavňou (hlavňami) na streľbu s guľovými nábojmi (strelami) a s hlavňou (hlavňami) na streľbu s brokovými nábojmi (strelami),
 
-    - i) krátka zbraň je zbraň, ktorej dĺžka hlavne nepresahuje 300 mm alebo jej celková dĺžka nepresahuje 600 mm, spravidla pri streľbe ovládaná jednou rukou,
+    - i) krátka zbraň je palná zbraň, ktorej dĺžka hlavne nepresahuje 300 mm alebo jej celková dĺžka vrátane sklopnej pažby, teleskopickej pažby alebo inej pažby, ktorú možno odstrániť bez použitia technických prostriedkov, nepresahuje 600 mm,
 
-    - j) dlhá zbraň je zbraň, ktorej dĺžka hlavne presahuje 300 mm alebo jej celková dĺžka presahuje 600 mm, spravidla pri streľbe ovládaná obidvomi rukami,
+    - j) dlhá zbraň je palná zbraň, ktorá nie je krátkou zbraňou,
 
-    - k) samočinná zbraň je palná zbraň, ktorej opätovné nabitie a napnutie bicieho mechanizmu prebieha v dôsledku predchádzajúceho výstrelu a ktorej konštrukcia umožňuje viac výstrelov na jedno stlačenie spúšte,
+    - k) samočinná zbraň je palná zbraň, ktorej funkčný cyklus prebieha v dôsledku predchádzajúceho výstrelu a ktorej konštrukcia umožňuje viac výstrelov na jedno stlačenie spúšte,
 
-    - l) samonabíjacia zbraň je palná zbraň, ktorej opätovné nabitie a napnutie bicieho mechanizmu prebieha v dôsledku predchádzajúceho výstrelu a ktorej konštrukcia neumožňuje viac výstrelov na jedno stlačenie spúšte,
+    - l) samonabíjacia zbraň je palná zbraň, ktorej funkčný cyklus prebieha v dôsledku predchádzajúceho výstrelu a ktorej konštrukcia neumožňuje viac výstrelov na jedno stlačenie spúšte,
 
-    - m) opakovacia zbraň je jednohlavňová palná zbraň so zásobovacím zariadením (zásobník, nábojová schránka), v ktorej sa vsunutie náboja do nábojovej komory, vytiahnutie a vyhodenie nábojnice a napnutie bicieho mechanizmu vykonáva ručným ovládaním záveru, alebo palná zbraň s viacerými nábojovými komorami, napríklad usporiadanými v otočnom valci (revolver),
+    - m) opakovacia zbraň je palná zbraň so zásobovacím zariadením, ktorej funkčný cyklus je ovládaný ručne alebo palná zbraň s viacerými nábojovými komorami, napríklad usporiadanými v otočnom valci (revolver),
 
-    - n) jednovýstrelová zbraň je palná zbraň bez zásobníka alebo iného podávacieho zariadenia, pri ktorej sa opätovné nabitie vykonáva ručným vložením náboja do nábojovej komory, hlavne alebo nábojiska,
+    - n) jednovýstrelová zbraň je jednohlavňová palná zbraň bez zásobovacieho zariadenia, pri ktorej sa opätovné nabitie zbrane vykonáva ručne,
 
-    - o) viacvýstrelová zbraň je palná zbraň bez zásobníka alebo iného podávacieho zariadenia s dvoma alebo viacerými hlavňami, pri ktorej sa opätovné nabitie vykonáva ručným vložením nábojov do nábojových komôr, hlavní alebo nábojísk,
+    - o) viacvýstrelová zbraň je palná zbraň bez zásobovacieho zariadenia s dvoma alebo viacerými hlavňami, pri ktorej sa opätovné nabitie zbrane vykonáva ručne,
 
     - p) historická zbraň je zbraň, ktorá bola vyrobená do 31. decembra 1890,
 
-    - q) vojenská zbraň je palná zbraň, ktorá je vojenským materiálom podľa osobitného predpisu,<sup>42</sup>) s výnimkou zbraní označených civilnou overovacou značkou,
+    - q) vojenská zbraň je palná zbraň, ktorá je výrobkom obranného priemyslu, s výnimkou zbraní označených civilnou overovacou značkou,
 
     - r) odpaľovacie zariadenie je zariadenie na odpaľovanie striel s reaktívnym pohonom alebo streliva s reaktívnym účinkom nábojky,
 
@@ -50,9 +50,15 @@ Príloha č. 6 k zákonu č. 190/2003 Z. z.
 
     - w) signálna zbraň je palná zbraň určená výhradne na používanie signálnych nábojov kalibru väčšieho ako 19 mm,
 
-    - x) znehodnotená zbraň je zbraň, ktorá bola znehodnotená ustanoveným postupom,
+    - x) znehodnotená zbraň je zbraň, ktorá bola znehodnotená ustanoveným postupom tak, aby všetky jej hlavné časti boli trvalo nepoužiteľné, a aby nebolo možné ich odstrániť, nahradiť alebo upraviť spôsobom, ktorý by umožnil jej opätovné sfunkčnenie; za znehodnotenú zbraň sa považuje zbraň uvedená v § 7 ods. 1 písm. i) a j),
 
-    - y) airsoftová zbraň je replika zbrane vystreľujúca strely z plastu, určená na hru v teréne podľa príslušných pravidiel.
+    - y) airsoftová zbraň je replika zbrane vystreľujúca strely z plastu, určená na hru v teréne podľa príslušných pravidiel,
+
+    - z) poplašná zbraň je palná zbraň so zásobovacím zariadením, ktorá je navrhnutá iba na streľbu s použitím nábojok, dráždivých látok, iných účinných látok alebo pyrotechnického signálneho streliva a ktorú nie je možné upraviť na uvedenie strely do pohybu uvoľnením nahromadenej energie,
+
+    - aa) salutná zbraň je expanzná zbraň určená výhradne na streľbu nábojok s akustickým efektom pri kultúrnej činnosti,
+
+    - ab) akustická zbraň je expanzná zbraň určená výhradne na streľbu nábojok s akustickým efektom primárne na vytvorenie akustického efektu, napríklad štartovacia pištoľ.
 
   - B. Hlavné časti zbrane
 
@@ -64,29 +70,27 @@ Príloha č. 6 k zákonu č. 190/2003 Z. z.
 
     - d) valec revolvera je otočná časť revolveru, v ktorej sú uložené náboje v nábojových komorách,
 
-    - e) záver je zariadenie uzavierajúce alebo uzamykajúce nábojovú komoru.
+    - e) záver je zariadenie uzavierajúce alebo uzamykajúce nábojovú komoru,
 
-  - C. Súčasti zbrane, iné ako hlavné časti zbrane
+    - f) rám zbrane je časť revolvera, v ktorej sú uložené alebo sú na nej upevnené ostatné hlavné časti zbrane,
 
-    - a) rám zbrane je súčasť revolvera, v ktorej sú uložené alebo sú na nej upevnené ostatné súčasti zbrane,
+    - g) telo zbrane je časť zbrane inej ako revolver, v ktorej sú uložené alebo sú na nej upevnené ostatné hlavné časti zbrane,
 
-    - b) telo zbrane je súčasť zbrane inej ako revolver, v ktorej sú uložené alebo sú na nej upevnené ostatné súčasti zbrane,
+    - h) puzdro záveru je časť zbrane, v ktorej je uložený záver,
 
-    - c) puzdro záveru je súčasť zbrane, v ktorej je uložený záver,
+    - i) závorník je časť záveru, ktorá bezprostredne uzatvára nábojovú komoru.
 
-    - d) závorník je súčasť záveru, ktorá bezprostredne uzatvára nábojovú komoru.
-
-  - D. Druhy streliva
+  - C. Druhy streliva
 
     - a) náboj je celok určený na vkladanie (nabíjanie) do palnej zbrane, skladajúci sa z nábojnice, zápalky alebo zápalkovej zlože, výmetovej náplne a strely, alebo v ktorom výmetová náplň nahrádza nábojnicu,
 
     - b) nábojka je celok určený na vkladanie (nabíjanie) do expanznej zbrane, pracovného expanzného prístroja alebo zvláštneho expanzného prístroja, skladajúci sa z nábojnice, zápalky alebo zápalkovej zlože; môže obsahovať výmetovú náplň, granuly, chemickú dráždivú alebo paralyzujúcu látku,
 
-    - c) prebíjané strelivo je laborované strelivo pre vlastnú potrebu na športové alebo poľovné účely za použitia príslušnej technológie, pri ktorom sa používajú nové alebo už použité komponenty,
+    - c) prebíjané strelivo je laborované strelivo pre vlastnú potrebu za použitia príslušnej technológie, pri ktorom sa používajú nové alebo už použité komponenty,
 
     - d) skúšobné strelivo je strelivo určené na preskúšanie zbraní podľa osobitného predpisu,<sup>3</sup>)
 
-    - e) vojenské strelivo je strelivo, ktoré je vojenským materiálom podľa osobitného predpisu,<sup>42</sup>) mimo streliva označeného na civilné použitie,
+    - e) vojenské strelivo je strelivo, ktoré je výrobkom obranného priemyslu, mimo streliva označeného na civilné použitie,
 
     - f) neaktívne strelivo je strelivo, ktoré neobsahuje výbušninu a iné aktívne náplne vrátane delaborovaného streliva, znehodnoteného streliva, rezu streliva a makety streliva,
 
@@ -94,9 +98,9 @@ Príloha č. 6 k zákonu č. 190/2003 Z. z.
 
     - h) znehodnotené strelivo je strelivo, ktoré bolo znehodnotené ustanoveným postupom,
 
-    - i) signálny náboj je náboj, ktorý vo svojej zostave okrem iného obsahuje pyrotechnickú zlož alebo puzdro touto zložou.
+    - i) signálny náboj je náboj, ktorý vo svojej zostave okrem iného obsahuje pyrotechnickú zlož alebo puzdro s touto zložou.
 
-  - E. Komponenty streliva
+  - D. Komponenty streliva
 
     - a) zápalka je súčasť náboja alebo nábojky obsahujúca zápalkovú zlož alebo jednostranné uzatvorené valcové puzdro obsahujúce zápalkovú zlož (zápalka určená pre perkusné zbrane), ktorá sa nárazom alebo iným spôsobom vznieti a zapáli výmetovú náplň,
 
@@ -104,7 +108,7 @@ Príloha č. 6 k zákonu č. 190/2003 Z. z.
 
     - c) strela je nevystrelené teleso, súbor telies alebo látka v tuhom skupenstve, kvapalnom skupenstve alebo plynnom skupenstve určená na zasiahnutie cieľa alebo vyvolanie iného efektu.
 
-  - F. Druhy striel
+  - E. Druhy striel
 
     - a) jednotná strela je teleso určené na zasiahnutie cieľa alebo vyvolanie iného efektu, ktoré sa po opustení hlavne nerozdelí,
 

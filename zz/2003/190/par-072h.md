@@ -18,7 +18,7 @@
 
 (5) Platnosť zbrojného sprievodného listu, nákupného povolenia a európskeho zbrojného pasu , ktorá uplynula alebo uplynie od vyhlásenia krízovej situácie do dvoch mesiacov od jej odvolania, sa predlžuje o čas trvania krízovej situácie.
 
-(6) Do lehoty podľa § 17 ods. 5 pri dokladoch uvedených v § 17 ods. 2 písm. b) až f) a ods. 3 a 4 sa nezapočítava čas trvania krízovej situácie.
+(6) Do lehoty podľa § 17 ods. 5 pri dokladoch uvedených v § 17 ods. 2 písm. b) až d) a ods. 4 a 5 sa nezapočítava čas trvania krízovej situácie.
 
 (7) Ak od vyhlásenia krízovej situácie do dvoch mesiacov od jej odvolania uplynie desať rokov od vydania dokladu o psychickej spôsobilosti držať alebo nosiť zbraň a strelivo na účely podľa § 28 ods. 1 písm. d) a f), považuje sa tento doklad do uplynutia dvoch mesiacov od odvolania krízovej situácie za doklad o psychickej spôsobilosti držať alebo nosiť zbraň a strelivo.
 

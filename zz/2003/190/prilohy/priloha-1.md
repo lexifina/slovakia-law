@@ -1,1 +1,1 @@
-Príloha č. 1 k zákonu č. 190/2003 Z. z. [Vzor 01](../assets/c418bdd3a5033f0e4906e6a3cba3b465d87dfdaa550433c7f562c79417eeb2a5.pdf)
+Príloha č. 1 k zákonu č. 190/2003 Z. z. [Príloha č. 1 k zákonu č. 190/2003 Z. z.](../assets/c59b413c0ef50216e6d628fa2e8e0b82e2aed23006c50d996f47ec0820147774.pdf)

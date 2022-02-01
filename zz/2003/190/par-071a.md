@@ -1,3 +1,3 @@
-# § 71a
+# § 71a Transpozičné ustanovenie
 
-Týmto zákonom sa preberajú právne akty Európskej únie uvedené v prílohe č. 7.
+Týmto zákonom sa preberajú právne záväzné akty Európskej únie uvedené v prílohe č. 7.
