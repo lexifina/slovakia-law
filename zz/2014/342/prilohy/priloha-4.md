@@ -1,17 +1,103 @@
 Príloha č. 4 k nariadeniu vlády č. 342/2014 Z. z.
 
-- Kritériá udržiavania poľnohospodárskej plochy v stave vhodnom na pastvu alebo pestovanie v rámci plôch trvalých trávnych porastov Nadmorská výška (m n. m.) | Prvú operáciu na plochách trvalých trávnych porastov (pasenie, kosenie alebo mulčovanie<sup>a</sup>) vykonať najneskôr do: |
+- Zoznam medonosných plodín Názov plodiny | |
 
-- | pasenie | kosenie
+- | slovenský | latinský
 
-- 0-400 | 1.6. | 22.6.
+- 1. | Bôbovité plodiny |
 
-- 401-600 | 8.6. | 8.7.
+- | Ďatelina egyptská | Trifolium alexandrinum L.
 
-- 601-800 | 9.7. | 29.7.
+- | Ďatelina lúčna | Trifolium pratense L.
 
-- nad 800 | 15.7. | 8.8.
+- | Ďatelina purpurová | Trifolium incarnatum L.
 
-- Poznámka:
+- | Ďatelina obrátená | Trifolium resupinatum L.
 
-- <sup>a</sup>) Doplnkovosť mulčovania spočíva v tom, že každý pozemok musí byť obhospodarovaný kosením alebo pasením ako základnou technológiou a mulčovanie je akceptované iba ako doplnková činnosť, po vykonaní, prípadne pred vykonaním hlavnej operácie. Hlavná operácia musí byť vykonaná najneskôr v termínoch uvedených v tabuľke.
+- | Ďatelina mechúrikatá | Trifolium vesiculosum Savi
+
+- | Ďatelina plazivá | Trifolium repens L.
+
+- | Hrach siaty | Pisum sativum L.
+
+- | Lupina biela | Lupinus albus L.
+
+- | Lupina úzkolistá | Lupinus angustifolius L.
+
+- | Lupina žltá | Lupinus luteus L.
+
+- | Vika panónska | Vicia pannonica Crantz
+
+- | Vika siata | Vicia sativa L.
+
+- | Vika huňatá | Vicia villosa Roth
+
+- | Vtáčia noha siata | Ornitophus sativus
+
+- | Komonica lekárska | Melilotus officinalis (L.) Pall.
+
+- | Ľadenec rožkatý | Lotus corniculatus L.
+
+- | Lucerna ďatelinová | Medicago lupulina
+
+- | Lucerna siata | Medicago sativa L.
+
+- | Ranostajovec pestrý | Securigera varia (L.) Lassen
+
+- | Sekernica vencová | Hedysarum coronarium L.
+
+- | Vičenec vikolistý | Onobrychis viciifolia Scop.
+
+- 2. | Mrkvovité plodiny |
+
+- | Fenikel obyčajný | Foeniculum vulgare Mill.
+
+- | Bedrovník lomikameňový | Pimpinella saxifraga L.
+
+- | Koriander siaty | Coriandrum sativum L.
+
+- | Kôpor voňavý | Anethum graveolens L.
+
+- | Mrkva obyčajná | Daucus carota L.
+
+- | Paštrnák siaty | (Pastinaca sativa L.)
+
+- | Petržlen záhradný | Petroselinum crispum (Mill.) A. W. Hill
+
+- | Rasca lúčna | Carum carvi L.
+
+- 3. | Ostatné medonosné plodiny |
+
+- | Pohánka jedlá | Fagopyrum esculentum Moench
+
+- | Borák lekársky | Borago officinalis L.
+
+- | Facélia vratičolistá | Phacelia tanacetifolia Benth.
+
+- | Horčica biela | Sinapis alba L.
+
+- | Ľan siaty | Linum usitatissimum L.
+
+- | Ľaničník siaty | Camelina sativa (L.) Crantz
+
+- | Požlt farbiarsky | Carthamus tinctorius L.
+
+- | Slnečnica ročná | Helianthus annuus L.
+
+- | Skorocel kopijovitý | Plantago lanceolata L.
+
+- | Benedikt lekársky | Cnicus benedictus L.
+
+- | Nechtík lekársky | Calendula officinalis L.
+
+- | Nevädza poľná | Cyanus segetum Hill
+
+- | Reďkev siata | Raphanus sativus L.
+
+- | Slez nebadaný | Malva neglecta Wallr.
+
+- | Slez praslenatý | Malva verticillata L.
+
+- | druhy rodu Šalvia | Salvia spp.
+
+- | Pupalka dvojročná | Oenothera biennis

@@ -1,1 +1,1 @@
-Príloha č. 3 k nariadeniu vlády č. 342/2014 Z. z. [príloha](../assets/9bd01e105f5b60474cccff3fd247a7e01a35689572a890a69a5faecb158bf44c.pdf)
+Príloha č. 3 k nariadeniu vlády č. 342/2014 Z. z. [príloha](../assets/90ed94a446fb650ce09314858cdd50314d09803beb789198fbbb756584d43ba4.pdf)

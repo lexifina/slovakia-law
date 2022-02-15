@@ -27,3 +27,5 @@ Príloha č. 5 k nariadeniu vlády č. 342/2014 Z. z.
 - Plochy s plodinami, ktoré viažu dusík | | 1
 
 - Medze iné ako medze uvedené v prílohe č. 2 | | 1,5
+
+- Pôda ležiaca úhorom pre medonosné plodiny | | 1,5

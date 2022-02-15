@@ -6,6 +6,8 @@ Príloha č. 7 k nariadeniu vlády č. 342/2014 Z. z.
 
 - Ďatelina purpurová | Trifolium incarnatum
 
+- Ďatelina egyptská | Trifolium alexandrinum
+
 - Bôb obyčajný | Vicia faba
 
 - Cirok zrnový | Sorghum bicolor L. Moench

@@ -116,7 +116,7 @@
 
 - 57) Čl. 36 ods. 2 nariadenia (EÚ) č. 1307/2013 v platnom znení.
 
-- 57a) Čl. 41 ods. 4 nariadenia (EÚ) č. 1307/2013 v platnom znení.
+- 57a) Čl. 41 ods. 4 a 5 nariadenia (EÚ) č. 1307/2013 v platnom znení.
 
 - 58) Čl. 43 ods. 9 nariadenia (EÚ) č. 1307/2013 v platnom znení.
 
