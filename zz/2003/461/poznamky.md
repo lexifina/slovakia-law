@@ -302,6 +302,8 @@
 
 - 93adh) Zákon č. 340/2012 Z. z. o úhrade za služby verejnosti poskytované Rozhlasom a televíziou Slovenska a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 93adi) § 7a zákona č. 56/2012 Z. z. o cestnej doprave v znení zákona č. 397/2021 Z. z.
+
 - 93adj) § 2 ods. 1 zákona č. 483/2001 Z. z. v znení zákona č. 213/2014 Z. z.
 
 - 93adk) § 2 ods. 8 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
