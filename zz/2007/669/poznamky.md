@@ -10,7 +10,19 @@
 
 - 4a) Zákon č. 282/2015 Z. z. o vyvlastňovaní pozemkov a stavieb a o nútenom obmedzení vlastníckeho práva k nim a o zmene a doplnení niektorých zákonov.
 
-- 4c) § 67 ods. 2 zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
+- 4c) § 18 ods. 13 zákona č. 135/1961 Zb. v znení neskorších predpisov.
+
+- 4d) § 83 zákona č. 50/1976 Zb. v znení zákona č. 229/1997 Z. z.
+
+- 4e) § 82 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 4f) § 34 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení neskorších predpisov.
+
+- 4g) § 24 ods. 1. písm. g), § 67 ods. 4 a § 79l ods. 2 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení neskorších predpisov.
+
+- 4h) Bod F.2 prílohy č. 3 k vyhláške Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku v znení neskorších predpisov.
+
+- 4i) § 3 písm. f) zákona č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 5) § 79 zákona č. 50/1976 Zb.
 
