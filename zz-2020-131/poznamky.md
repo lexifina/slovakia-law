@@ -1,0 +1,1 @@
+- 1) Nariadenie vlády Slovenskej republiky č. 76/2020 Z. z. o spôsobe určenia poklesu čistého obratu a príjmov z podnikania a z inej samostatnej zárobkovej činnosti v znení nariadenia vlády Slovenskej republiky č. 132/2020 Z. z.
