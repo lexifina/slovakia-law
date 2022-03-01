@@ -1,0 +1,1 @@
+Mária Kolíková v. r.
