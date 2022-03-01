@@ -14,6 +14,34 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 
   - Poznámky pod čiarou k odkazom 18c a 18d sa vypúšťajú.
 
+- 5. Poznámka pod čiarou k odkazu 18h znie:
+
+- „<sup>18h</sup>) Čl. 1 a príloha I časti I až XX a XXIV oddiel 1 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1308/2013 zo 17. decembra 2013, ktorým sa vytvára spoločná organizácia trhov s poľnohospodárskymi výrobkami, a ktorým sa zrušujú nariadenia Rady (EHS) č. 922/72, (EHS) č. 234/79, (ES) č. 1037/2001 a (ES) č. 1234/2007 (Ú. v. L EÚ 347, 20. 12. 2013) v platnom znení.
+
+- Príloha I nariadenia Európskeho parlamentu a Rady (EÚ) č. 1379/2013 z 11. decembra 2013 o spoločnej organizácii trhov s produktmi rybolovu a akvakultúry, ktorým sa menia nariadenia Rady (ES) č. 1184/2006 a (ES) č. 1224/2009 a zrušuje nariadenie Rady (ES) č. 104/2000 (Ú. v. EÚ L 354, 28. 12. 2013) v platnom znení.“.
+
+- 6. § 7 sa dopĺňa odsekmi 27 až 30, ktoré znejú:
+
+- „(27)
+
+- Zámenou finančného nástroja je predaj finančného nástroja a nákup iného finančného nástroja alebo uplatnenie práva na zámenu existujúceho finančného nástroja.
+
+- (28)
+
+- Doložkou o splatení v úplnom rozsahu je doložka zameraná na ochranu investora zabezpečením toho, že pri predčasnom splatení dlhopisu je emitent povinný zaplatiť majiteľovi dlhopisu sumu rovnajúcu sa súčtu čistej súčasnej hodnoty zostávajúcich výplat kupónov očakávaných do splatnosti a istiny dlhopisu, ktorý sa má splatiť.
+
+- (29)
+
+- Elektronickým formátom je akékoľvek trvanlivé médium iné než v listinnej podobe.
+
+- (30)
+
+- Prevažne obchodnou skupinou je skupina, pre ktorú nie je hlavným predmetom podnikania poskytovanie investičných služieb podľa tohto zákona, vykonávanie akejkoľvek činnosti uvedenej v osobitnom zákone<sup>18i</sup>) alebo konanie ako tvorca trhu vo vzťahu ku komoditným derivátom.“.
+
+  - Poznámka pod čiarou k odkazu 18i znie:
+
+  - „<sup>18i</sup>) § 2 zákona č. 483/2001 Z. z. v znení neskorších predpisov.“.
+
 - 7. V § 8 písmeno c) znie:
 
 - „c)
@@ -53,6 +81,12 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 - 11. Poznámka pod čiarou k odkazu 47b znie:
 
 - „<sup>47b</sup>) § 2 ods. 2 zákona č. 483/2001 Z. z. v znení neskorších predpisov.“.
+
+- 12. V § 54 ods. 3 písmeno g) znie:
+
+- „g)
+
+- pre osoby, ktoré obchodujú na vlastný účet s komoditnými derivátmi alebo emisnými kvótami alebo ich derivátmi vrátane tvorcov trhu, okrem osôb, ktoré obchodujú na vlastný účet pri vykonávaní pokynov klientov, alebo ktoré poskytujú svojim zákazníkom alebo dodávateľom v rámci svojho hlavného predmetu činnosti iné investičné služby v oblasti komoditných derivátov alebo emisných kvót alebo ich derivátov ako obchodovanie na vlastný účet, ak jednotlivo a aj súhrnne ide o vedľajšiu činnosť týchto osôb k ich hlavnému predmetu činnosti pri posúdení na skupinovom základe, tieto osoby nie sú súčasťou skupiny, ktorej hlavnou činnosťou je poskytovanie investičných služieb podľa tohto zákona, vykonávanie bankových činností podľa osobitného zákona<sup>15</sup>) alebo činnosť tvorcu trhu v súvislosti s komoditnými derivátmi, tieto osoby nepoužívajú metódu vysokofrekvenčného algoritmického obchodovania; tieto osoby sú na žiadosť Národnej banky Slovenska povinné preukázať dôvod, na ktorého základe považujú túto činnosť za vedľajšiu k ich hlavnému predmetu činnosti.“.
 
 - 13. V § 54 sa odsek 3 dopĺňa písmenom l), ktoré znie:
 
@@ -706,9 +740,75 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 
   - „<sup>57d</sup>) Čl. 22 delegovaného nariadenia (EÚ) 2017/565 v platnom znení.“.
 
+- 50. Za § 71n sa vkladá § 71o, ktorý vrátane nadpisu znie:
+
+- „§ 71o
+
+- Výnimky z požiadaviek na vytváranie finančných nástrojov a ich distribúciu
+
+- Na obchodníka s cennými papiermi sa nevzťahujú požiadavky ustanovené v § 71m a 71n, ak sa investičná služba týka dlhopisov, ktoré neobsahujú iný vložený derivát okrem doložky o splatení v úplnom rozsahu alebo ak sa finančné nástroje ponúkajú alebo distribuujú výlučne oprávneným protistranám.“.
+
 - 51. Poznámka pod čiarou k odkazu 58c znie:
 
 - „<sup>58c</sup>) Napríklad zákon č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 431/2002 Z. z. v znení neskorších predpisov, zákon č. 297/2008 Z. z. v znení neskorších predpisov.“.
+
+- 52. V § 73b sa za odsek 17 vkladajú nové odseky 18 až 20, ktoré znejú:
+
+- „(18)
+
+- Poskytovanie investičného prieskumu tretími osobami obchodníkovi s cennými papiermi, ktorý poskytuje investičnú službu riadenie portfólia alebo iné investičné služby alebo doplnkové služby klientom, sa považuje za plnenie povinností podľa odseku 1, ak
+
+- a)
+
+- pred vykonaním pokynov alebo poskytnutím prieskumných služieb bola uzavretá dohoda medzi obchodníkom s cennými papiermi a poskytovateľom investičného prieskumu, v ktorej sa určí, ktorá časť kombinovaných poplatkov alebo spoločných platieb za vykonanie pokynov a investičného prieskumu pripadá na investičný prieskum,
+
+- b)
+
+- obchodník s cennými papiermi informuje svojho klienta o spoločných platbách za vykonanie pokynov a investičný prieskum uhrádzaných poskytovateľom investičného prieskumu,
+
+- c)
+
+- investičný prieskum, za ktorý sa uhrádzajú kombinované poplatky alebo spoločné platby, sa vzťahuje na emitentov, ktorí nepresiahli trhovú kapitalizáciu vo výške 1 000 000 000 eur počas 36 mesiacov pred uskutočnením investičného prieskumu.
+
+- (19)
+
+- Na účely tohto paragrafu sa investičným prieskumom rozumie výskumný materiál alebo služby týkajúce sa jedného alebo viacerých finančných nástrojov alebo iných aktív, alebo emitentov finančných nástrojov alebo potenciálnych emitentov finančných nástrojov alebo výskumný materiál alebo služby úzko súvisiace s konkrétnym odvetvím alebo príslušným trhom, ktorý informuje o finančných nástrojoch, aktívach alebo emitentoch v rámci konkrétneho odvetvia alebo príslušného trhu.
+
+- (20)
+
+- Investičný prieskum zahŕňa aj materiál alebo služby, ktoré priamo alebo nepriamo odporúčajú alebo navrhujú investičnú stratégiu a poskytujú opodstatnené stanoviská k súčasnej alebo budúcej hodnote alebo cene finančných nástrojov alebo aktív, alebo obsahujú pôvodné poznatky, analýzy a závery založené na nových alebo existujúcich informáciách, ktoré by sa mohli použiť na informovanie o investičnej stratégii a ktoré by boli relevantné a spôsobilé ovplyvniť rozhodnutia obchodníka s cennými papiermi v mene klientov, ktorí uhrádzajú poplatky za takýto investičný prieskum.“.
+
+  - Doterajšie odseky 18 a 19 sa označujú ako odseky 21 a 22.
+
+- 53. § 73d sa dopĺňa odsekmi 11 až 15, ktoré znejú:
+
+- „(11)
+
+- Ak sa dohoda o kúpe alebo predaji finančného nástroja uzatvára pomocou prostriedkov komunikácie na diaľku, ktoré bránia poskytovaniu informácií o nákladoch a poplatkoch podľa odseku 1 písm. d), obchodník s cennými papiermi môže poskytnúť informácie o nákladoch a poplatkoch v elektronickej podobe bez zbytočného odkladu po uzavretí transakcie, ak sú splnené tieto podmienky:
+
+- a)
+
+- obchodník s cennými papiermi umožnil klientovi odložiť uzavretie transakcie, kým klient neprijme tieto informácie,
+
+- b)
+
+- klient súhlasil s prijatím informácií bez zbytočného odkladu po ukončení transakcie.
+
+- (12)
+
+- Obchodník s cennými papiermi je povinný poskytovať informácie podľa tohto zákona klientovi alebo potenciálnemu klientovi v elektronickej podobe; to neplatí, ak klient alebo potenciálny klient ako neprofesionálny klient alebo potenciálny neprofesionálny klient požiadal o prijatie informácií v listinnej podobe, pričom obchodník s cennými papiermi poskytne tieto informácie bezodplatne v listinnej podobe.
+
+- (13)
+
+- Obchodník s cennými papiermi je povinný ponúknuť klientovi pred uzavretím transakcie možnosť získať informácie podľa odseku 1 vrátane splnenia podmienok podľa odseku 11 telefonicky.
+
+- (14)
+
+- Obchodník s cennými papiermi je povinný informovať neprofesionálneho klienta alebo potenciálneho neprofesionálneho klienta, že informácie podľa odseku 13 možno poskytnúť v listinnej podobe.
+
+- (15)
+
+- Obchodník s cennými papiermi je povinný informovať existujúcich neprofesionálnych klientov, ktorí prijímali informácie požadované týmto zákonom v listinnej podobe, o skutočnosti, že tieto informácie sa im zašlú v elektronickej podobe najmenej osem týždňov pred odoslaním týchto informácií v elektronickej podobe. Obchodník s cennými papiermi je povinný informovať existujúcich neprofesionálnych klientov o možnosti pokračovania v prijímaní informácií v listinnej podobe alebo v elektronickej podobe. Obchodník s cennými papiermi je tiež povinný informovať existujúcich neprofesionálnych klientov o tom, že ak nepožiadajú o pokračovanie poskytovania informácií v listinnej podobe počas ôsmych týždňov, uskutoční sa automatický prechod na poskytovanie informácií v elektronickej podobe. Existujúcich neprofesionálnych klientov, ktorým sa poskytujú informácie podľa tohto zákona v elektronickej podobe obchodník s cennými papiermi nemusí o tejto skutočnosti informovať.“.
 
 - 54. V § 73f ods. 1 sa za slovo „stratu“ vkladá čiarka a slová „jeho odolnosť voči riziku“, slová „so zreteľom na zistenú úroveň jeho znalostí a skúseností“ sa nahrádzajú slovami „a ktoré zodpovedajú jeho odolnosti voči riziku a schopnosti znášať straty<sup>58ha</sup>)“ a slová „ods. 19“ sa nahrádzajú slovami „ods. 22“.
 
@@ -737,6 +837,26 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 - 58. V § 73h ods. 1 písm. a) sa vypúšťa siedmy bod.
 
 - 59. V § 73h ods. 1 písm. c) sa slovo „vhodnosť“ nahrádza slovom „primeranosť“.
+
+- 60. V § 73u ods. 1 sa za slová „73t“ vkladajú slová „okrem § 73d ods. 13 až 15.“.
+
+- 61. Za § 73u sa vkladá § 73v, ktorý vrátane nadpisu znie:
+
+- „§ 73v
+
+- Služby poskytované profesionálnym klientom
+
+- (1)
+
+- Požiadavky podľa § 73d ods. 1 písm. d) sa nevzťahujú na služby poskytované profesionálnemu klientovi okrem investičného poradenstva a investičnej služby riadenie portfólia.
+
+- (2)
+
+- Požiadavky podľa § 73f ods. 2 až 7 sa nevzťahujú na služby poskytované profesionálnemu klientovi, ak o to požiada v listinnej podobe alebo elektronickej podobe obchodníka s cennými papiermi.
+
+- (3)
+
+- Obchodník s cennými papiermi je povinný viesť záznamy o žiadostiach podaných v listinnej podobe podľa odseku 2.“.
 
 - 62. § 74 znie:
 
@@ -1539,6 +1659,8 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 - Sankcie podľa odseku 1 môže Národná banka Slovenska uložiť investičnej holdingovej spoločnosti, zmiešanej finančnej holdingovej spoločnosti a holdingovej spoločnosti so zmiešanou činnosťou alebo ich vrcholovému manažmentu.“.
 
 - 97. V § 145 ods. 1 písm. d) sa slová „§ 140 ods. 1 alebo 3“ nahrádzajú slovami „§ 138 až 142“.
+
+- 98. V § 146a ods. 2 sa slová „poskytovateľ služieb vykazovania údajov“ nahrádzajú slovami „schválený mechanizmus zverejňovania (APA) a schválený mechanizmus podávania výkazov (ARM), ktorým v súlade s osobitným predpisom<sup>60u</sup>) udelila povolenie Národná banka Slovenska“.
 
 - 99. V § 147 sa vypúšťa odsek 3.
 
