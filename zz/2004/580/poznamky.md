@@ -186,8 +186,6 @@
 
 - 44a) § 12a alebo § 12b zákona č. 576/2004 Z. z. v znení zákona č. 467/2019 Z. z.
 
-- 44b) § 4 ods. 1 písm. d) zákona č. 461/2003 Z. z. v znení neskorších predpisov.
-
 - 44c) § 36 ods. 1 písm. u) zákona č. 5/2004 Z. z. v znení zákona č. 376/2018 Z. z.
 
 - 45) Zákon č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -197,10 +195,6 @@
 - 47) § 5 písm. a), b) a d) zákona č. 328/2002 Z. z. v znení neskorších predpisov.
 
 - 47a) Zákon č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 47aa) § 8 ods. 1 písm. c) zákona č. 5/2004 Z. z. v znení neskorších predpisov.
-
-- 47aaa) § 2 ods. 1 zákona č. 336/2015 Z. z. o podpore najmenej rozvinutých okresov a o zmene a doplnení niektorých zákonov.
 
 - 47ab) § 2 ods. 2 zákona č. 378/2015 Z. z. o dobrovoľnej vojenskej príprave a o zmene a doplnení niektorých zákonov.
 
@@ -218,7 +212,11 @@
 
 - 50a) § 5 ods. 7 písm. n) a o) zákona č. 595/2003 Z. z. v znení zákona č. 63/2018 Z. z.
 
-- 51) Napríklad zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov, zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov, zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení neskorších predpisov, zákon č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov, zákon č. 346/2005 Z. z. v znení neskorších predpisov.
+- 50b) Zákon č. 215/2021 Z. z. o podpore v čase skrátenej práce a o zmene a doplnení niektorých zákonov.
+
+- 50c) § 2 písm. d) zákona č. 215/2021 Z. z.
+
+- 51) Napríklad zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov, zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení neskorších predpisov, zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov, zákon č. 281/2015 Z. z. o štátnej službe profesionálnych vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 35/2019 Z. z. o finančnej správe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 51a) § 77a zákona č. 581/2004 Z. z. v znení neskorších predpisov.
 
@@ -320,7 +318,7 @@
 
 - § 20 ods. 1 písm. f) zákona č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení zákona č. 63/2018 Z. z.
 
-- § 142 ods. 1 písm. g) zákona č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 63/2018 Z. z.
+- § 142 ods. 1 písm. g) zákona č. 55/2017 Z. z. v znení zákona č. 63/2018 Z. z.
 
 - 67) § 134 Zákonníka práce v znení neskorších predpisov.
 

@@ -1,6 +1,6 @@
 # § 13a Odpočítateľná položka
 
-(1) Vymeriavací základ zamestnanca podľa § 13 ods. 1, ktorý vykonáva zárobkovú činnosť v pracovnom pomere, štátnozamestnaneckom pomere, služobnom pomere alebo obdobnom pracovnom vzťahu,<sup>51</sup>) z ktorého má právo na príjem zo zárobkovej činnosti podľa § 10b ods. 1 písm. a) a ods. 2 až 4 (ďalej len "príjem na uplatnenie odpočítateľnej položky") sa znižuje o odpočítateľnú položku; to neplatí, ak ide o zamestnanca podľa § 11 ods. 7 písm. v).
+(1) Vymeriavací základ zamestnanca podľa § 13 ods. 1, ktorý vykonáva zárobkovú činnosť v pracovnom pomere, štátnozamestnaneckom pomere, služobnom pomere alebo obdobnom pracovnom vzťahu,<sup>51</sup>) z ktorého má právo na príjem zo zárobkovej činnosti podľa § 10b ods. 1 písm. a) a ods. 2 až 4 (ďalej len "príjem na uplatnenie odpočítateľnej položky") sa znižuje o odpočítateľnú položku.
 
 (2) Odpočítateľná položka je 4 560 eur v rozhodujúcom období, ak v odsekoch 3 až 6 nie je ustanovené inak.
 

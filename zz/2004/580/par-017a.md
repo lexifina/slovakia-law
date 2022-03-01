@@ -1,6 +1,6 @@
 # § 17a Výkaz nedoplatkov
 
-(1) Zdravotná poisťovňa môže uplatniť voči poistencovi alebo platiteľovi poistného výkazom nedoplatkov dlžné poistné vyplývajúce z neodvedeného preddavku na poistné, nedoplatku alebo úrokov z omeškania.
+(1) Zdravotná poisťovňa môže uplatniť voči poistencovi alebo platiteľovi poistného výkazom nedoplatkov pohľadávku na preddavku na poistnom, na nedoplatku z ročného zúčtovania poistného a na úrokoch z omeškania (ďalej len „pohľadávka“).
 
 (2) Výkaz nedoplatkov obsahuje
 

@@ -22,7 +22,7 @@
 
 (5) Ročné prerozdeľovanie poistného za rok 2020 sa vykoná v roku 2021 podľa tohto zákona v znení účinnom do 31. decembra 2020.
 
-(6) Subjekty uvedené v § 29b ods. 8, 9, 12 až 14 a 20 uzatvoria dohodu o poskytovaní údajov podľa § 29b ods. 22 s úradom najneskôr do 30. septembra 2021.
+(6) Subjekty uvedené v § 29b ods. 8, 9, 12 až 14 a 19 uzatvoria dohodu o poskytovaní údajov podľa § 29b ods. 22 s úradom najneskôr do 30. septembra 2021.
 
 (7) Za azylanta, ktorému bol azyl udelený pred 1. januárom 2021, je štát platiteľom poistného do 30. júna 2021, ak v § 11 ods. 8 nie je ustanovené inak.
 
