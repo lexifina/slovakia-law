@@ -1,36 +1,44 @@
 # § 57a Obmedzenia pozícií v komoditných derivátoch
 
-(1) Národná banka Slovenska je povinná zaviesť a uplatňovať obmedzenia na veľkosť čistej pozície, ktorú môže osoba držať v každom čase v komoditných derivátoch obchodovaných na obchodných miestach a v ekonomicky rovnocenných mimoburzových derivátových zmluvách v súlade s metodikou výpočtu ustanovenou v osobitnom predpise.<sup>67</sup>) Obmedzenia sa určia na základe všetkých pozícií držaných osobou a pozícií držaných v jej mene na úrovni celej skupiny s cieľom
+(1) Národná banka Slovenska je povinná zaviesť a uplatňovať obmedzenia na veľkosť čistej pozície, ktorú môže osoba držať v poľnohospodárskych komoditných derivátoch a kritických derivátoch alebo významných komoditných derivátoch, s ktorými sa obchoduje na obchodných miestach, a v ekonomicky rovnocenných mimoburzových derivátových zmluvách v súlade s metodikou výpočtu ustanovenou v osobitnom predpise.<sup>67</sup>) Komoditné deriváty sa považujú za kritické alebo významné, ak súčet všetkých čistých pozícií držiteľov koncových pozícií predstavuje veľkosť ich otvoreného záujmu minimálne 300 000 lotov v priemere za jeden rok. Obmedzenia sa určia na základe všetkých pozícií držaných osobou a pozícií držaných v jej mene na úrovni celej skupiny s cieľom
 
 - a) predchádzať zneužitiu trhu,
 
 - b) podporovať riadnu tvorbu cien a podmienky vyrovnania vrátane predchádzania pozíciám narúšajúcim trh a zabezpečiť najmä zbližovanie medzi cenami derivátov v mesiaci dodania a spotovými cenami podkladovej komodity bez toho, aby bolo dotknuté určenie cien podkladovej komodity na trhu.
 
-(2) Obmedzenia pozícií sa neuplatňujú na pozície držané nefinančným subjektom alebo v jeho mene, ktoré sú objektívne merateľné ako znižujúce riziká priamo súvisiace s obchodnou činnosťou príslušného nefinančného subjektu.
+(2) Obmedzenia pozícií sa nevzťahujú na
+
+- a) pozície držané nefinančným subjektom alebo v jeho mene a ktoré sú objektívne merateľné ako znižujúce riziká priamo súvisiace s obchodnou činnosťou tohto nefinančného subjektu,
+
+- b) pozície držané finančným subjektom alebo v jeho mene, ktorý je súčasťou prevažne obchodnej skupiny a koná v mene nefinančného subjektu tejto prevažne obchodnej skupiny, a ktoré sú objektívne merateľné ako znižujúce riziká priamo spojené s obchodnou činnosťou tohto nefinančného subjektu,
+
+- c) pozície držané finančnými protistranami a nefinančnými protistranami pre pozície, ktoré sú objektívne merateľné ako dôsledok transakcií uzavretých s cieľom splniť povinnosti zabezpečiť likviditu na obchodnom mieste pre komoditné deriváty a emisné kvóty, ak takéto povinnosti požadujú príslušné orgány dohľadu,
+
+- d) cenné papiere uvedené v § 8 písm. m) treťom bode týkajúce sa komodity alebo podkladového aktíva, ktoré sú uvedené v § 5 ods. 11 písm. j).
 
 (3) Obmedzeniami pozícií sa určia jednoznačné kvantitatívne prahové hodnoty pre maximálnu veľkosť pozície v komoditnom deriváte, ktorú osoby môžu držať.
 
-(4) Národná banka Slovenska určí obmedzenia podľa odseku 1 pre každú zmluvu na komoditný derivát obchodovaný na obchodných miestach postupom podľa osobitného predpisu.<sup>67</sup>) Uvedené obmedzenie pozície zahŕňa ekonomicky rovnocenné mimoburzové derivátové zmluvy.
+(4) Národná banka Slovenska určí obmedzenia pozícií podľa odseku 1 pre kritické deriváty alebo významné komoditné deriváty obchodované na obchodných miestach postupom podľa osobitného predpisu.<sup>67</sup>) Uvedené obmedzenie pozície zahŕňa ekonomicky rovnocenné mimoburzové derivátové zmluvy.
 
-(5) Národná banka Slovenska preskúma obmedzenia pozícií vždy, ak dôjde k významnej zmene doručiteľnej ponuky alebo čistých otvorených pozícií alebo akejkoľvek inej významnej zmene na trhu, a to na základe zistenej doručiteľnej ponuky alebo čistej otvorenej pozície, a určí nové obmedzenie pozícií v súlade s metodikou výpočtu určenou v osobitnom predpise.<sup>67</sup>)
+(5) Národná banka Slovenska preskúma obmedzenia pozícií vždy, ak dôjde k významnej zmene na trhu vrátane významnej zmeny doručiteľnej ponuky alebo čistých otvorených pozícií, a to na základe zistenej doručiteľnej ponuky alebo čistej otvorenej pozície, a určí nové obmedzenie pozícií v súlade s metodikou výpočtu ustanovenou v osobitnom predpise.<sup>67</sup>)
 
 (6) Národná banka Slovenska oznámi Európskemu orgánu dohľadu (Európskemu orgánu pre cenné papiere a trhy) presné obmedzenia pozícií, ktoré má v úmysle určiť v súlade s metodikou výpočtu určenou v osobitnom predpise<sup>67</sup>) podľa odseku 1. Národná banka Slovenska obmedzenia pozícií zmení v súlade so stanoviskom Európskeho orgánu dohľadu (Európskeho orgánu pre cenné papiere a trhy) posudzujúcim zlučiteľnosť obmedzení pozícií podľa prvej vety s cieľmi podľa odseku 1 a metodikou výpočtu ustanovenou v osobitnom predpise<sup>67</sup>) alebo poskytne Európskemu orgánu dohľadu (Európskemu orgánu pre cenné papiere a trhy) odôvodnenie, prečo zmenu nepovažuje za potrebnú. Ak Národná banka Slovenska zavedie obmedzenia, ktoré sú v rozpore so stanoviskom Európskeho orgánu dohľadu (Európskeho orgánu pre cenné papiere a trhy), bezodkladne zverejní na svojom webovom sídle oznámenie, v ktorom úplne vysvetlí dôvody svojho konania.
 
 (7) Ak sa s rovnakým komoditným derivátom obchoduje vo významných objemoch na obchodných miestach vo viac ako jednom štáte, a najväčší objem obchodov sa uskutočňuje na obchodnom mieste v Slovenskej republike, Národná banka Slovenska ako centrálny orgán dohľadu určí jednotné obmedzenie pozícií, ktoré sa uplatní na obchodovanie s príslušnou derivátovou zmluvou na komoditné deriváty na všetkých obchodných miestach. Národná banka Slovenska ako centrálny orgán dohľadu konzultuje s príslušnými orgánmi iných obchodných miest, na ktorých sa tento derivát obchoduje vo významných objemoch, o jednotnom obmedzení pozícií, ktoré sa má uplatniť, a o akýchkoľvek zmenách tohto jednotného obmedzenia pozícií.
 
-(8) Ak sa s rovnakým komoditným derivátom obchoduje vo významných objemoch na obchodných miestach vo viac ako jednom štáte, a najväčší objem obchodov sa neuskutočňuje na obchodnom mieste v Slovenskej republike, Národná banka Slovenska konzultuje s centrálnym orgánom dohľadu obchodného miesta s najväčším objemom obchodov a príslušnými orgánmi dohľadu obchodných miest, na ktorých sa s týmto derivátom obchoduje vo významných objemoch, o jednotnom obmedzení pozícií. Ak Národná banka Slovenska nesúhlasí s ustanoveným jednotným obmedzením pozícií, ktoré sa má uplatniť alebo zmeniť, písomne o tom informuje centrálny orgán dohľadu, ktorý určil jednotné obmedzenia pozícií a uvedie úplné a podrobné dôvody, pre ktoré sa domnieva, že požiadavky určené v odseku 1 nie sú splnené.
+(8) Ak sa s poľnohospodárskymi komoditnými derivátmi a kritickými derivátmi alebo významnými komoditnými derivátmi založenými na rovnakom podklade a zdieľajúcimi rovnaké charakteristiky obchoduje vo významných objemoch na obchodných miestach vo viac ako jednom štáte, centrálny orgán dohľadu, ktorým je orgán dohľadu obchodného miesta s najväčším objemom obchodov, určí jednotné obmedzenie pozícií, ktoré sa bude uplatňovať na každé obchodovanie s týmito derivátmi. Ak Národná banka Slovenska nesúhlasí s určeným jednotným obmedzením pozícií, ktoré sa má uplatniť alebo zmeniť, písomne o tom informuje centrálny orgán dohľadu, ktorý určil jednotné obmedzenia pozícií a úplne a podrobne odôvodní, že požiadavky uvedené v odseku 1 nie sú splnené.
 
-(9) Národná banka Slovenska uzavrie dohody o spolupráci vrátane vzájomnej výmeny príslušných údajov s cieľom umožniť monitorovanie a presadzovanie jednotného obmedzenia pozícií s príslušnými orgánmi obchodných miest, na ktorých sa obchoduje s rovnakým komoditným derivátom, a príslušnými orgánmi držiteľov pozícií v tomto komoditnom deriváte.
+(9) Národná banka Slovenska ako príslušný orgán dohľadu nad obchodnými miestami, na ktorých sa obchoduje s poľnohospodárskymi komoditnými derivátmi a kritickými derivátmi alebo významnými komoditnými derivátmi, ktoré sú založené na rovnakom podkladovom aktíve a majú rovnaké znaky, uzavrie dohody o spolupráci vrátane vzájomnej výmeny príslušných údajov s cieľom umožniť monitorovanie a presadzovanie jednotného obmedzenia pozícií s príslušnými orgánmi držiteľov pozícií v týchto derivátoch.
 
-(10) Burza alebo obchodník s cennými papiermi organizujúci obchodné miesto, na ktorom sa obchoduje s komoditnými derivátmi, sú povinní uplatňovať mechanizmy kontroly nad riadením pozícií, pričom je oprávnený
+(10) Burza alebo obchodník s cennými papiermi organizujúci obchodné miesto, na ktorom sa obchoduje s komoditnými derivátmi, sú povinní uplatňovať mechanizmy kontroly nad riadením pozícií, pričom sú oprávnení
 
 - a) monitorovať čisté otvorené pozície osôb,
 
-- b) mať prístup k informáciám, vrátane všetkých príslušných dokumentov, od osôb o veľkosti a účele pozície alebo expozície, do ktorej vstúpili, k informáciám o konečných vlastníkoch alebo o vlastníkoch podkladových aktív, akýchkoľvek dohodách o konaní v zhode a akýchkoľvek súvisiacich aktívach alebo o záväzkoch na trhu s podkladovým aktívom,
+- b) získavať informácie, vrátane všetkých príslušných dokumentov, od osôb o veľkosti a účele pozície alebo expozície, do ktorej vstúpili, k informáciám o konečných vlastníkoch alebo o vlastníkoch podkladových aktív, dohodách o konaní v zhode a súvisiacich aktívach alebo o záväzkoch na trhu s podkladovým aktívom, a ak je to vhodné aj o pozíciách držaných v komoditných derivátoch, ktoré sú založené na rovnakom podkladovom aktíve a majú rovnaké znaky s inými derivátmi obchodovanými na iných obchodných miestach a mimoburzových transakciách prostredníctvom členov a účastníkov,
 
 - c) požadovať, aby osoba uzavrela alebo znížila pozíciu, a to dočasne alebo trvalo podľa toho, ako si to vyžaduje konkrétna situácia, a jednostranne prijať vhodné opatrenia s cieľom zabezpečiť uzavretie alebo zníženie pozície, ak príslušná osoba požiadavke nevyhovie,
 
-- d) požadovať, aby osoba dočasne dodala likviditu trhu späť pri dohodnutej cene a objeme s výslovným zámerom zmierniť vplyv veľkej pozície alebo dominantnej pozície, ak je to potrebné.
+- d) požadovať, aby osoba dočasne dodala likviditu trhu späť pri dohodnutej cene a objeme so zámerom zmierniť vplyv veľkej pozície alebo dominantnej pozície, ak je to potrebné.
 
 (11) Obmedzenia pozícií a mechanizmy kontroly nad riadením pozícií musia byť prehľadné a nediskriminačné, a musí v nich byť uvedené, ako sa uplatňujú na osoby, a zohľadňovať povahu a zloženie účastníkov trhu a za akým účelom sa využívajú obchodované zmluvy na komoditné deriváty.
 

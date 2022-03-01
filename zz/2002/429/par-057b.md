@@ -12,15 +12,11 @@
 
   - 4. počet osôb v každej kategórii,
 
-- b) poskytovať na požiadanie Národnej banke Slovenska úplný zoznam pozícií držaných všetkými osobami vrátane členov alebo účastníkov obchodného miesta a ich klientov na tomto obchodnom mieste najmenej za jednotlivé dni.
+- b) poskytovať na požiadanie Národnej banke Slovenska úplný zoznam pozícií držaných všetkými osobami vrátane členov alebo účastníkov obchodného miesta a ich klientov na tomto obchodnom mieste najmenej za jednotlivé dni; poskytovanie zoznamu pozícií sa nevzťahuje na cenné papiere uvedené v § 8 písm. m) treťom bode týkajúce sa komodity alebo podkladových aktív uvedených v § 5 ods. 11 písm. j).
 
 (2) Povinnosť uvedená v odseku 1 písm. a) sa uplatňuje, len ak počet osôb a ich otvorené pozície presahujú minimálne prahové hodnoty podľa osobitného predpisu.<sup>68</sup>)
 
-(3) Obchodník s cennými papiermi obchodujúci s komoditnými derivátmi alebo s emisnými kvótami alebo s ich derivátmi mimo obchodného miesta je povinný poskytovať úplný zoznam svojich pozícií držaných v komoditných derivátoch alebo v emisných kvótach alebo v ich derivátoch, s ktorými sa obchoduje na obchodnom mieste, a v ekonomicky rovnocenných mimoburzových derivátových zmluvách, ako aj pozícií svojich klientov a klientov svojich klientov až po konečného klienta najmenej za jednotlivé dni v súlade s osobitným predpisom<sup>68a</sup>)
-
-- a) Národnej banke Slovenska, ak je orgánom dohľadu nad obchodným miestom, na ktorom sa s komoditnými derivátmi alebo s emisnými kvótami alebo s ich derivátmi obchoduje, alebo ak je centrálnym orgánom dohľadu, ak sa s komoditnými derivátmi alebo s emisnými kvótami alebo s ich derivátmi obchoduje vo významných objemoch na obchodných miestach vo viac ako jednom štáte alebo
-
-- b) inému príslušnému orgánu dohľadu alebo inému príslušnému centrálnemu orgánu dohľadu.
+(3) Obchodník s cennými papiermi obchodujúci s komoditnými derivátmi alebo s emisnými kvótami alebo s ich derivátmi mimo obchodného miesta je povinný poskytovať úplný zoznam svojich pozícií držaných v komoditných derivátoch alebo v emisných kvótach alebo v ich derivátoch, s ktorými sa obchoduje na obchodnom mieste, a v ekonomicky rovnocenných mimoburzových derivátových zmluvách, ako aj pozícií svojich klientov a klientov svojich klientov až po konečného klienta najmenej za jednotlivé dni v súlade s osobitným predpisom<sup>68a</sup>) centrálnemu orgánu dohľadu podľa § 57a ods. 8.
 
 (4) Členovia alebo účastníci regulovaných trhov a členovia alebo účastníci mnohostranných obchodných systémov a klienti organizovaných obchodných systémov sú povinní na účely monitorovania súladu s ustanovením § 57a ods. 1 podávať obchodníkovi s cennými papiermi alebo burze organizujúcim príslušné obchodné miesto správy o podrobnostiach týkajúcich sa ich vlastných pozícií držaných prostredníctvom derivátových zmlúv, s ktorými sa obchoduje na príslušnom obchodnom mieste, najmenej za jednotlivé dni, ako aj pozícií ich klientov a klientov ich klientov až po konečného klienta.
 
