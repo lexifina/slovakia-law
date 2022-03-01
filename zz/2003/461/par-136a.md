@@ -1,0 +1,3 @@
+# § 136a Sadzba poistného na financovanie podpory
+
+Sadzba poistného na financovanie podpory je pre zamestnávateľa 0,5 % z vymeriavacieho základu.

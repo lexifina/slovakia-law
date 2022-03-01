@@ -4,7 +4,7 @@
 
 # § 241a
 
-(1) Ak Sociálna poisťovňa nepostúpi príspevky na starobné dôchodkové sporenie na bežný účet nepriradených platieb príslušnej dôchodkovej správcovskej spoločnosti v lehote podľa § 226 ods. 1 písm. f), je povinná bez zbytočného odkladu od zistenia ich výšky vypočítať a zaplatiť penále z dlžnej sumy príspevkov na starobné dôchodkové sporenie za každý deň omeškania. Penále podľa prvej vety je vo výške jednej tristošesťdesiatpätiny základnej úrokovej sadzby Európskej centrálnej banky platnej k 1. januáru kalendárneho roka, za ktorý sa penále počíta.
+(1) Ak Sociálna poisťovňa nepostúpi príspevky na starobné dôchodkové sporenie na bežný účet nepriradených platieb príslušnej dôchodkovej správcovskej spoločnosti v lehote podľa § 226 ods. 1 písm. f) prvého bodu, je povinná bez zbytočného odkladu od zistenia ich výšky vypočítať a zaplatiť penále z dlžnej sumy príspevkov na starobné dôchodkové sporenie za každý deň omeškania. Penále podľa prvej vety je vo výške jednej tristošesťdesiatpätiny základnej úrokovej sadzby Európskej centrálnej banky platnej k 1. januáru kalendárneho roka, za ktorý sa penále počíta.
 
 (2) Sociálna poisťovňa neplatí penále
 

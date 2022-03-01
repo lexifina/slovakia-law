@@ -26,13 +26,9 @@
 
 - 7) Zákon č. 595/2003 Z. z. v znení neskorších predpisov.
 
-- 7a) § 8 ods. 1 písm. c) zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 7aa) Zákon č. 61/2015 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov.
 
 - 7aaa) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 7b) § 2 ods. 1 zákona č. 336/2015 Z. z. o podpore najmenej rozvinutých okresov a o zmene a doplnení niektorých zákonov.
 
 - 8) § 31 zákona č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
@@ -208,7 +204,11 @@
 
 - 69b) Ústavný zákon č. 357/2004 Z. z. o ochrane verejného záujmu pri výkone funkcií verejných funkcionárov.
 
+- 69ba) Zákon č. 215/2021 Z. z. o podpore v čase skrátenej práce a o zmene a doplnení niektorých zákonov.
+
 - 69c) § 10 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
+- 70) § 2 písm. d) zákona č. 215/2021 Z. z.
 
 - 71) Napríklad zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 513/2009 Z. z. o dráhach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -368,7 +368,7 @@
 
 - 102a) § 45 zákona č. 43/2004 Z. z. v znení zákona č. 183/2014 Z. z.
 
-- 102aa) Zákon č. 5/2004 Z. z. v znení neskorších predpisov.
+- 102aa) Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - Zákon č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
