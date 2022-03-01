@@ -51,3 +51,17 @@
 (9) Informovanie o malých nepeňažných výhodách sa musí uskutočniť pred poskytnutím príslušných investičných služieb alebo vedľajších služieb klientom. Malé nepeňažné výhody môžu byť opísané všeobecným spôsobom.
 
 (10) Informácie o nákladoch a poplatkoch podľa odseku 1 vrátane nákladov a poplatkov v súvislosti s investičnou službou a finančným nástrojom, ktoré nie sú spôsobené výskytom základného trhového rizika, musia byť zrátané, aby klient vedel pochopiť celkové náklady, ako aj kumulatívny vplyv na návratnosť investície, a na žiadosť klienta sa musí poskytnúť rozpis obsahujúci jednotlivé položky. Ak je to vhodné, tieto informácie sa poskytujú klientovi pravidelne, najmenej raz ročne, v priebehu životnosti investície.
+
+(11) Ak sa dohoda o kúpe alebo predaji finančného nástroja uzatvára pomocou prostriedkov komunikácie na diaľku, ktoré bránia poskytovaniu informácií o nákladoch a poplatkoch podľa odseku 1 písm. d), obchodník s cennými papiermi môže poskytnúť informácie o nákladoch a poplatkoch v elektronickej podobe bez zbytočného odkladu po uzavretí transakcie, ak sú splnené tieto podmienky:
+
+- a) obchodník s cennými papiermi umožnil klientovi odložiť uzavretie transakcie, kým klient neprijme tieto informácie,
+
+- b) klient súhlasil s prijatím informácií bez zbytočného odkladu po ukončení transakcie.
+
+(12) Obchodník s cennými papiermi je povinný poskytovať informácie podľa tohto zákona klientovi alebo potenciálnemu klientovi v elektronickej podobe; to neplatí, ak klient alebo potenciálny klient ako neprofesionálny klient alebo potenciálny neprofesionálny klient požiadal o prijatie informácií v listinnej podobe, pričom obchodník s cennými papiermi poskytne tieto informácie bezodplatne v listinnej podobe.
+
+(13) Obchodník s cennými papiermi je povinný ponúknuť klientovi pred uzavretím transakcie možnosť získať informácie podľa odseku 1 vrátane splnenia podmienok podľa odseku 11 telefonicky.
+
+(14) Obchodník s cennými papiermi je povinný informovať neprofesionálneho klienta alebo potenciálneho neprofesionálneho klienta, že informácie podľa odseku 13 možno poskytnúť v listinnej podobe.
+
+(15) Obchodník s cennými papiermi je povinný informovať existujúcich neprofesionálnych klientov, ktorí prijímali informácie požadované týmto zákonom v listinnej podobe, o skutočnosti, že tieto informácie sa im zašlú v elektronickej podobe najmenej osem týždňov pred odoslaním týchto informácií v elektronickej podobe. Obchodník s cennými papiermi je povinný informovať existujúcich neprofesionálnych klientov o možnosti pokračovania v prijímaní informácií v listinnej podobe alebo v elektronickej podobe. Obchodník s cennými papiermi je tiež povinný informovať existujúcich neprofesionálnych klientov o tom, že ak nepožiadajú o pokračovanie poskytovania informácií v listinnej podobe počas ôsmych týždňov, uskutoční sa automatický prechod na poskytovanie informácií v elektronickej podobe. Existujúcich neprofesionálnych klientov, ktorým sa poskytujú informácie podľa tohto zákona v elektronickej podobe obchodník s cennými papiermi nemusí o tejto skutočnosti informovať.

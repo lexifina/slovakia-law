@@ -1,6 +1,6 @@
 # § 73u
 
-(1) Obchodník s cennými papiermi, ktorý má v povolení na poskytovanie investičných služieb uvedenú investičnú službu podľa § 6 ods. 1 písm. a), b) alebo c), môže začať alebo uzavierať obchody s oprávnenými protistranami, pričom ustanovenia § 73b až 73m a 73o až 73t sa vo vzťahu k týmto obchodom alebo vo vzťahu k vedľajšej službe priamo spojenej s týmito obchodmi nepoužijú.
+(1) Obchodník s cennými papiermi, ktorý má v povolení na poskytovanie investičných služieb uvedenú investičnú službu podľa § 6 ods. 1 písm. a), b) alebo c), môže začať alebo uzavierať obchody s oprávnenými protistranami, pričom ustanovenia § 73b až 73m a 73o až 73t okrem § 73d ods. 13 až 15 sa vo vzťahu k týmto obchodom alebo vo vzťahu k vedľajšej službe priamo spojenej s týmito obchodmi nepoužijú.
 
 (2) Oprávnenou protistranou podľa odseku 1 je
 

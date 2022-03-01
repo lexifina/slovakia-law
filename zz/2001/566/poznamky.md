@@ -70,6 +70,10 @@
 
 - 18h) Čl. 1 a príloha I časti I až XX a XXIV oddiel 1 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1308/2013 zo 17. decembra 2013, ktorým sa vytvára spoločná organizácia trhov s poľnohospodárskymi výrobkami, a ktorým sa zrušujú nariadenia Rady (EHS) č. 922/72, (EHS) č. 234/79, (ES) č. 1037/2001 a (ES) č. 1234/2007 (Ú. v. L EÚ 347, 20. 12. 2013) v platnom znení.
 
+- Príloha I nariadenia Európskeho parlamentu a Rady (EÚ) č. 1379/2013 z 11. decembra 2013 o spoločnej organizácii trhov s produktmi rybolovu a akvakultúry, ktorým sa menia nariadenia Rady (ES) č. 1184/2006 a (ES) č. 1224/2009 a zrušuje nariadenie Rady (ES) č. 104/2000 (Ú. v. EÚ L 354, 28. 12. 2013) v platnom znení.
+
+- 18i) § 2 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
 - 19) § 13 ods. 1 až 6 a § 14 ods. 3 písm. f) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
 - 20) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
