@@ -346,6 +346,8 @@
 
 - 53d) § 6d zákona č. 578/2004 Z. z. v znení zákona č. 540/2021 Z. z.
 
+- 53e) § 39 ods. 8 zákona č. 578/2004 Z. z. v znení zákona č. 67/2022 Z. z.
+
 - 54) Napríklad zákon č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov, zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
 
 - 55) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
