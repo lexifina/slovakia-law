@@ -28,7 +28,7 @@
 
 - 9ad) § 18 ods. 14 zákona č. 414/2012 Z. z. v znení zákona č. 535/2021 Z. z.
 
-- 10) § 21 ods. 4 zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 10) § 17 ods. 2 zákona č. 79/2015 Z. z. v znení zákona č. 460/2019 Z. z.
 
 - 11) § 41 ods. 1 zákona č. 364/2004 Z. z.
 
@@ -36,11 +36,15 @@
 
 - 11aa) § 18 ods. 6 písm. c) zákona č. 414/2012 Z. z. v znení zákona č. 399/2014 Z. z.
 
-- 11b) § 14 ods. 1 nariadenia vlády Slovenskej republiky č. 755/2004 Z. z., ktorým sa ustanovuje výška neregulovaných platieb, výška poplatkov a podrobnosti súvisiace so spoplatňovaním užívania vôd.
+- 11b) § 79 ods. 7 zákona č. 364/2004 Z. z. v znení neskorších predpisov.
+
+- § 14 ods. 1 nariadenia vlády Slovenskej republiky č. 755/2004 Z. z., ktorým sa ustanovuje výška neregulovaných platieb, výška poplatkov a podrobnosti súvisiace so spoplatňovaním užívania vôd.
 
 - 11c) § 35 ods. 4 zákona č. 44/1988 Zb. v znení neskorších predpisov.
 
 - 11d) § 28 ods. 2 zákona č. 326/2005 Z. z. o lesoch.
+
+- 11da) § 28 ods. 3 zákona č. 326/2005 Z. z.
 
 - 11e) § 29 ods. 4 a 5 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
@@ -56,13 +60,15 @@
 
 - 11ib) § 15 ods. 14 písm. b) zákona č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 11ic) § 14 ods. 1 písm. l) zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
+
 - 11j) Zákon č. 305/2018 Z. z. o chránených oblastiach prirodzenej akumulácie vôd a o zmene a doplnení niektorých zákonov.
 
 - 11k) § 5 ods. 1 písm. c) zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov.
 
 - 11l) § 2 ods. 2 písm. o) zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
 
-- 12) Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme.
+- 12) Zákon č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 12a) § 79 ods. 7 zákona č. 364/2004 Z. z. v znení neskorších predpisov.
 
@@ -76,7 +82,7 @@
 
 - 12e) § 8a ods. 4 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- Zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
+- Zákon č. 358/2015 Z. z. o úprave niektorých vzťahov v oblasti štátnej pomoci a minimálnej pomoci a o zmene a doplnení niektorých zákonov (zákon o štátnej pomoci).
 
 - 12f) § 18 ods. 6 písm. a) a b) zákona č. 414/2012 Z. z. v znení zákona č. 399/2014 Z. z.
 
@@ -98,6 +104,10 @@
 
 - 12o) § 18 ods. 1 písm. g) zákona č. 359/2007 Z. z.
 
+- 12oa) § 20f zákona č. 40/1964 Zb. Občianskeho zákonníka.
+
+- § 20b zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
+
 - 12p) § 31 zákona č. 359/2007 Z. z.
 
 - 12q) § 108 ods. 1 písm. q) zákona č. 79/2015 Z. z.
@@ -114,25 +124,29 @@
 
 - 15) Zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 282/2006 Z. z.
 
-- 16) § 3a zákona č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení zákona č. 618/2004 Z. z.
+- 16) Zákon č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 17) Napríklad Obchodný zákonník, zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 18) § 9 zákona č. 525/2003 Z. z.
 
-- 19) Zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
-
-- 20) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
+- 19) Zákon č. 358/2015 Z. z.
 
 - 21) § 11 a § 108 až 165 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov.
 
 - § 19 zákona č. 583/2004 Z. z. o rozpočtových pravidlách územnej samosprávy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 21a) Napríklad § 225, § 259, § 328 a nasl. zákona č. 300/2005 Z. z. Trestný zákon v znení neskorších predpisov.
+
+- 21b) § 10 zákona č. 91/2016 Z. z. o trestnej zodpovednosti právnických osôb a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 22) Zákon č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov.
 
 - Zákon č. 523/2004 Z. z. v znení neskorších predpisov.
 
 - 22b) § 31 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
+
+- 22ba) § 4 ods. 4 písm. b) až e) zákona č. 357/2015 Z. z.
 
 - 23) § 5 a 9 zákona č. 525/2003 Z. z.
 

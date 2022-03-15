@@ -18,7 +18,7 @@
 
 (4) Dotáciu podľa odseku 1 písm. e) možno poskytnúť fyzickej osobe – podnikateľovi alebo právnickej osobe, ktorá preukáže, že v rámci svojho výrobného procesu zníži produkciu odpadu.
 
-(5) Žiadateľ, ktorý žiada o podporu podľa § 4 ods. 1 písm. ah), podáva žiadosť v písomnej forme najneskôr do 31. októbra predchádzajúceho rozpočtového roka. Vzor žiadosti fond uverejní na svojom webovom sídle. Žiadosť obsahuje
+(5) Žiadateľ, ktorý žiada o podporu podľa § 4 ods. 1 písm. ah), podáva žiadosť v písomnej forme najneskôr v lehote určenej fondom v špecifikácii činnosti podľa § 4 ods. 5. Vzor žiadosti fond uverejní na svojom webovom sídle. Žiadosť obsahuje
 
 - a) názov alebo obchodné meno žiadateľa,
 
@@ -34,13 +34,13 @@
 
 - g) výšku nákladov na projekt vynaložených ku dňu podania žiadosti,
 
-- h) zdôvodnenie účelnosti projektu z hľadiska jeho environmentálneho významu a súladu s prioritami a cieľmi stratégie štátnej environmentálnej politiky,
+- h) zdôvodnenie účelnosti projektu z hľadiska jeho environmentálneho významu a súladu s prioritami a cieľmi stratégie stratégie environmentálnej politiky Slovenskej republiky,
 
 - i) stručný opis a prínosy projektu,
 
 - j) opis financovania projektu,
 
-- k) ďalšie údaje a doklady potrebné na posúdenie žiadosti, ktoré určí špecifikácia činností zverejnená podľa § 4 ods. 3.
+- k) ďalšie údaje a doklady potrebné na posúdenie žiadosti, ktoré určí špecifikácia činností zverejnená podľa § 4 ods. 5.
 
 (6) Fond vedie evidenciu podaných žiadostí a vykoná ich kontrolu formálnej správnosti a úplnosti. Fond môže vyzvať žiadateľa, aby v lehote určenej fondom žiadosť doplnil. Ak žiadateľ v tejto lehote žiadosť nedoplní, fond ju nezaradí do zoznamu žiadostí o podporu formou dotácie. Zoznam žiadostí o podporu formou dotácie obsahuje úplné, formálne a vecne správne žiadosti o podporu formou dotácie. Zoznam žiadostí o podporu formou dotácie je podkladom na rokovanie rady fondu a ministra.
 
@@ -50,4 +50,4 @@
 
 (9) Na poskytnutie dotácie nie je právny nárok.
 
-(10) Na poskytnutie dotácie sa nevzťahujú § 8 a 9, všeobecne záväzný právny predpis vydaný podľa § 13 a správny poriadok.
+(10) Na poskytnutie dotácie sa nevzťahujú § 8 a 9 okrem § 9 ods. 10, vykonávací predpis podľa § 13 a správny poriadok.

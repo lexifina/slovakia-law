@@ -1,6 +1,6 @@
 # § 4a Dotácia na projekt a kompenzácia financovaná z výnosov získaných z dražieb kvót
 
-(1) Dotáciu na projekt reálne dosiahnuteľných a merateľných úspor emisií skleníkových plynov, zvýšenia energetickej účinnosti, znižovania spotreby primárnych zdrojov energie, náhrady fosílnych palív obnoviteľnými zdrojmi energie a zavádzania najlepšie dostupných technológií vedúcich k znižovaniu emisií skleníkových plynov a znečisťujúcich látok financovanú z výnosov získaných z dražieb kvót (ďalej len "dotácia na projekt") a dotáciu prevádzkam, pri ktorých sa predpokladá značné riziko úniku uhlíka v súvislosti s premietnutím nákladov kvót do cien elektrickej energie financovanú z výnosov získaných z dražieb kvót (ďalej len "kompenzácia") možno poskytnúť prevádzkovateľovi stacionárnej prevádzky, v ktorej sa vykonáva jedna činnosť alebo viac činností uvedených v osobitnom predpise<sup>12d</sup>) za podmienok ustanovených týmto zákonom a osobitnými predpismi<sup>12e</sup>) na podporu financovania projektov<sup>12f</sup>) na základe výzvy na predloženie žiadostí na poskytnutie dotácie na projekty a kompenzácie (ďalej len "žiadosť). Výzvu na predloženie žiadosti zverejňuje fond na svojom webovom sídle najneskôr 30 dní pred termínom podania žiadosti.
+(1) Dotáciu na projekt reálne dosiahnuteľných a merateľných úspor emisií skleníkových plynov, zvýšenia energetickej účinnosti, znižovania spotreby primárnych zdrojov energie, náhrady fosílnych palív obnoviteľnými zdrojmi energie a zavádzania najlepšie dostupných technológií vedúcich k znižovaniu emisií skleníkových plynov a znečisťujúcich látok financovanú z výnosov získaných z dražieb kvót (ďalej len "dotácia na projekt") a dotáciu prevádzkam, pri ktorých sa predpokladá značné riziko úniku uhlíka v súvislosti s premietnutím nákladov kvót do cien elektrickej energie financovanú z výnosov získaných z dražieb kvót (ďalej len "kompenzácia") možno poskytnúť prevádzkovateľovi stacionárnej prevádzky, v ktorej sa vykonáva jedna činnosť alebo viac činností uvedených v osobitnom predpise<sup>12d</sup>) za podmienok ustanovených týmto zákonom a osobitnými predpismi<sup>12e</sup>) na podporu financovania projektov<sup>12f</sup>) na základe výzvy na predloženie žiadostí na poskytnutie dotácie na projekty a kompenzácie (ďalej len "žiadosť). Výzvu na predloženie žiadosti zverejňuje fond na svojom webovom sídle najneskôr 60 dní pred termínom podania žiadosti.
 
 (2) Žiadosť sa podáva v písomnej forme v lehote uvedenej vo výzve na predloženie žiadostí. Vzor žiadosti fond uverejní na svojom webovom sídle. Žiadosť obsahuje
 
@@ -30,7 +30,7 @@
 
 (8) Minister rozhodne o poskytnutí dotácie na projekt a kompenzácie na základe vyjadrenia rady fondu podľa zoznamu žiadostí. Na základe rozhodnutia ministra fond uzavrie so žiadateľom zmluvu o poskytnutí dotácie na projekt alebo zmluvu o poskytnutie kompenzácie.
 
-(9) Na rozhodovanie o poskytnutí dotácie na projekt a kompenzácie sa nevzťahuje všeobecný predpis o správnom konaní.
+(9) Na rozhodovanie o poskytnutí dotácie na projekt a kompenzácie sa nevzťahuje správny poriadok.
 
 (10) Fond na svojom webovom sídle priebežne zverejňuje
 
@@ -40,4 +40,4 @@
 
 - c) zoznam žiadateľov, ktorým bola poskytnutá dotácia na projekt alebo kompenzácia a sumu poskytnutej dotácie na projekt alebo sumu kompenzácie.
 
-(11) Na poskytovanie dotácií na projekt a kompenzácie sa nevzťahujú § 6 až 9 a vykonávací predpis podľa § 13.
+(11) Na poskytovanie dotácií na projekt a kompenzácie sa nevzťahujú § 6 až 9 okrem § 9 ods. 10, vykonávací predpis podľa § 13 a správny poriadok.

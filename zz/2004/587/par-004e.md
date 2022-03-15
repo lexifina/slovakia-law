@@ -4,7 +4,7 @@
 
 - a) obec, ak sa podporné programové aktivity týkajú jej územia,
 
-- b) záujmové združenie právnických osôb, ktorého členmi sú len obce.
+- b) záujmové združenie právnických osôb, ktorého členmi sú len obce, zriadené podľa osobitných predpisov.<sup>12oa</sup>)
 
 (2) Dotáciu podľa odseku 1 možno poskytnúť na základe výzvy na predloženie žiadostí o poskytnutie dotácie. Výzvu na predloženie žiadosti na poskytnutie dotácie zverejňuje fond na svojom webovom sídle najneskôr 30 dní pred termínom podania žiadosti.
 
@@ -16,4 +16,4 @@
 
 (6) Na poskytnutie dotácie nie je právny nárok.
 
-(7) Na poskytovanie prostriedkov fondu na účel § 4 ods. 2 sa nevzťahujú § 8 a 9, všeobecne záväzný právny predpis vydaný podľa § 13 a všeobecný predpis o správnom konaní.
+(7) Na poskytovanie prostriedkov fondu na účel § 4 ods. 2 sa nevzťahujú § 8 a 9 okrem § 9 ods. 10, vykonávací predpis podľa § 13 a správny poriadok.
