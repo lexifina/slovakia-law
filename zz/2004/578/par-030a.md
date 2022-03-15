@@ -1,6 +1,6 @@
 # § 30a Dočasná odborná stáž
 
-(1) Dočasnou odbornou stážou (ďalej len „stáž“) sa rozumie výkon odborných pracovných činností stážistom v rozsahu ustanovenom pre lekára podľa § 28 ods. 2, sestru alebo pôrodnú asistentku podľa § 28 ods. 1 v súvislosti s krízovou situáciou z dôvodu ochorenia COVID-19; stážistom je občan členského štátu alebo občan tretieho štátu, ktorý má uznaný doklad o vzdelaní podľa osobitného predpisu<sup>24da</sup>) na účely výkonu zdravotníckeho povolania lekár, sestra alebo pôrodná asistentka a vykonáva odborné pracovné činnosti
+(1) Dočasnou odbornou stážou (ďalej len „stáž“) sa rozumie výkon odborných pracovných činností stážistom v rozsahu ustanovenom pre lekára podľa § 28 ods. 2, sestru alebo pôrodnú asistentku podľa § 28 ods. 1; stážistom je občan členského štátu alebo občan tretieho štátu, ktorý má uznaný doklad o vzdelaní podľa osobitného predpisu<sup>24da</sup>) na účely výkonu zdravotníckeho povolania lekár, sestra alebo pôrodná asistentka a vykonáva odborné pracovné činnosti
 
 - a) v pracovnoprávnom vzťahu alebo obdobnom pracovnom vzťahu s poskytovateľom ústavnej zdravotnej starostlivosti,
 
@@ -52,4 +52,6 @@
 
 (5) Povinnosti mlčanlivosti môže stážistu zbaviť iba osoba, ktorej sa skutočnosti týkajú, alebo orgán príslušný na vydanie povolenia, a to na žiadosť orgánov činných v trestnom konaní a súdov; ak nemožno určiť orgán príslušný na vydanie povolenia, povinnosti mlčanlivosti o skutočnostiach, o ktorých sa stážista dozvedel v súvislosti s výkonom stáže, môže stážistu na žiadosť orgánov činných v trestnom konaní a súdov zbaviť ministerstvo zdravotníctva.
 
-(6) Stáž podľa odseku 1 možno vykonávať najdlhšie do 180 dní odo dňa skončenia krízovej situácie.
+(6) Stáž podľa odseku 1, ktorá začala po skončení krízovej situácie z dôvodu ochorenia COVID-19, možno vykonávať najviac 18 mesiacov bez prerušenia, len u jedného poskytovateľa a bez možnosti jej opakovania.
+
+(7) Stáž podľa odseku 1, ktorá začala počas trvania krízovej situácie z dôvodu ochorenia COVID-19, možno vykonávať najdlhšie do 180 dní odo dňa skončenia krízovej situácie z dôvodu ochorenia COVID-19.

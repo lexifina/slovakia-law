@@ -31,3 +31,9 @@ Príloha č. 1 k zákonu č. 578/2004 Z. z.
   - 14. Smernica Rady 2013/59/EURATOM z 5. decembra 2013, ktorou sa stanovujú základné bezpečnostné normy ochrany pred nebezpečenstvami vznikajúcimi v dôsledku ionizujúceho žiarenia, a ktorou sa zrušujú smernice 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom a 2003/122/Euratom (Ú. v. EÚ L13, 17. 1. 2014).
 
   - 15. Delegované rozhodnutie Komisie (EÚ) 2017/2113 z 11. septembra 2017, ktorým sa mení príloha V k smernici Európskeho parlamentu a Rady 2005/36/ES, pokiaľ ide o doklady o formálnej kvalifikácii a názvy špecializačných odborov (Ú. v. EÚ L 317, 1. 12. 2017).
+
+  - 16. Delegované rozhodnutie Komisie (EÚ) 2019/608 zo 16. januára 2019, ktorým sa mení príloha V k smernici Európskeho parlamentu a Rady 2005/36/ES, pokiaľ ide o doklady o formálnej kvalifikácii a názvy špecializačných odborov (Ú. v. EÚ L 104, 15. 4. 2019).
+
+  - 17. Delegované rozhodnutie Komisie (EÚ) 2020/548 z 23. januára 2020, ktorým sa mení príloha V k smernici Európskeho parlamentu a Rady 2005/36/ES, pokiaľ ide o doklady o formálnej kvalifikácii a názvy špecializačných odborov (Ú. v. EÚ L 131, 24. 4. 2020).
+
+  - 18. Delegované rozhodnutie Komisie (EÚ) 2021/2183 z 25. augusta 2021, ktorým sa mení príloha V k smernici Európskeho parlamentu a Rady 2005/36/ES, pokiaľ ide o doklady o formálnej kvalifikácii a názvy špecializačných odborov (Ú. v. EÚ L 444, 10. 12. 2021).

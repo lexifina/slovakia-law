@@ -2,12 +2,8 @@
 
 (1) Špecializačné štúdium sa ukončuje záverečnou skúškou. Záverečnou skúškou špecializačného štúdia je špecializačná skúška.
 
-(2) Na vykonanie špecializačnej skúšky zriaďuje vzdelávacia ustanovizeň skúšobnú komisiu. Skúšobná komisia je zložená najmä zo špecialistov v príslušnom špecializačnom odbore, ktorí sú aj špecialisti z iných vzdelávacích ustanovizní uskutočňujúcich akreditovaný špecializačný študijný program v príslušnom špecializačnom odbore.
+(2) Na vykonanie špecializačnej skúšky zriaďuje vzdelávacia ustanovizeň skúšobnú komisiu. Skúšobná komisia je zložená najmä zo špecialistov v príslušnom špecializačnom odbore, v ktorej sú zastúpení špecialisti zo všetkých vzdelávacích ustanovizní uskutočňujúcich akreditovaný špecializačný študijný program v príslušnom špecializačnom odbore.
 
 (3) Certifikačná príprava sa ukončuje záverečnou skúškou. Záverečnou skúškou certifikačnej prípravy je certifikačná skúška.
 
 (4) Na vykonanie certifikačnej skúšky vzdelávacia ustanovizeň ustanoví skúšobnú komisiu.
-
-(5) Príprava na výkon práce v zdravotníctve sa ukončí odborným pohovorom pred komisiou.
-
-(6) Na vykonanie odborného pohovoru Slovenská zdravotnícka univerzita ustanoví komisiu.

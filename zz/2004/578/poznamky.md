@@ -170,9 +170,9 @@
 
 - 27d) § 25 ods. 3 zákona č. 422/2015 Z. z.
 
-- 28aa) § 154 Zákonníka práce.
-
 - 28ab) § 140 Zákonníka práce.
+
+- 28ac) § 18a zákona č. 422/2015 Z. z. v znení neskorších predpisov.
 
 - 28b) § 2 ods. 5 zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení zákona č. 75/2013 Z. z.
 
@@ -193,6 +193,14 @@
 - 31) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
 
 - 31a) § 19 ods. 2 písm. c) tretí bod zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
+
+- 31aa) § 45 Zákonníka práce.
+
+- 31ab) § 6 až 11 zákona č. 362/2011 Z. z. v znení neskorších predpisov.
+
+- 31ac) § 46 ods. 1 písm. p) zákona č. 576/2004 Z. z. v znení zákona č. 67/2022 Z. z.
+
+- § 135 ods. 1 písm. l) zákona č. 362/2011 Z. z. v znení zákona č. 67/2022 Z. z.
 
 - 31b) § 6 ods. 11 písm. d) zákona č. 581/2004 Z. z. v znení zákona č. 353/2005 Z. z.
 
@@ -463,6 +471,8 @@
 - 60ac) Zákonník práce.
 
 - 60b) § 18 ods. 1 písm. b) a c) zákona č. 581/2004 Z. z. v znení neskorších predpisov.
+
+- 60c) § 8 až 13 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
 
 - 60ca) § 23 ods. 4 a 5 zákona č. 576/2004 Z. z. v znení zákona č. 374/2018 Z. z.
 

@@ -6,9 +6,9 @@
 
 - a) evidenciu zdravotníckych pracovníkov zaradených do ďalšieho vzdelávania podľa § 39 ods. 3,
 
-- b) evidenciu vydaných diplomov o špecializácii v príslušnom špecializačnom odbore podľa § 33 ods. 4 zdravotníckym pracovníkom podľa písmena a),
+- b) evidenciu vydaných diplomov o špecializácii v príslušnom špecializačnom odbore podľa § 33 ods. 5 zdravotníckym pracovníkom podľa písmena a),
 
-- c) evidenciu vydaných certifikátov v príslušnej certifikovanej pracovnej činnosti podľa § 33 ods. 5 zdravotníckym pracovníkom podľa písmena a),
+- c) evidenciu vydaných certifikátov v príslušnej certifikovanej pracovnej činnosti podľa § 33 ods. 6 zdravotníckym pracovníkom podľa písmena a),
 
 - d) evidenciu vydaných osvedčení o príprave na výkon práce v zdravotníctve podľa § 33 ods. 3 zdravotníckym pracovníkom podľa písmena a),
 
