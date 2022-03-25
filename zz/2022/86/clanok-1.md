@@ -1,0 +1,5 @@
+# Čl. I
+
+Zákon č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 438/2015 Z. z., zákona č. 315/2016 Z. z., zákona č. 93/2017 Z. z., zákona č. 248/2017 Z. z., zákona č. 264/2017 Z. z., zákona č. 112/2018 Z. z., zákona č. 177/2018 Z. z., zákona č. 269/2018 Z. z., zákona č. 345/2018 Z. z., zákona č. 215/2019 Z. z., zákona č. 221/2019 Z. z., zákona č. 62/2020 Z. z., zákona č. 9/2021 Z. z., zákona č. 141/2021 Z. z., zákona č. 214/2021 Z. z., zákona č. 395/2021 Z. z. a zákona č. 64/2022 Z. z. sa mení a dopĺňa takto:
+
+- 3. V § 11 ods. 2 sa slová „podľa § 81 písm. c) alebo § 115 ods. 1 písm. c); ak ide zákazku s nízkou hodnotou, splnenie podmienok podľa § 81 písm. c) alebo § 115 ods. 1 písm. c) sa nevyžaduje“ nahrádzajú slovami „na použitie priameho rokovacieho konania z dôvodu mimoriadnej udalosti, alebo z naliehavého dôvodu spôsobeného krízou; ak ide o zákazku s nízkou hodnotou, splnenie podmienok pre použitie priameho rokovacieho konania sa nevyžaduje“.
