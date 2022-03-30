@@ -1,0 +1,3 @@
+# § 161r Prechodné ustanovenie počas trvania mimoriadnej situácie vyhlásenej v súvislosti s hromadným prílevom cudzincov na územie Slovenskej republiky spôsobeným ozbrojeným konfliktom na území Ukrajiny
+
+Plnoletá tehotná žiačka strednej školy, ktorá je štátnou občiankou Ukrajiny alebo rodinnou príslušníčkou štátneho občana Ukrajiny a je odídencom, sa počas trvania mimoriadnej situácie vyhlásenej v súvislosti s hromadným prílevom cudzincov na územie Slovenskej republiky spôsobeným ozbrojeným konfliktom na území Ukrajiny považuje na účely priznávania tehotenského štipendia za žiačku s trvalým pobytom na území Slovenskej republiky.
