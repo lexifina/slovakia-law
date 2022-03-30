@@ -1,1 +1,1 @@
-Príloha č. 3 k zákonu č. 480/2002 Z. z. [Vzor 04](../assets/6ad63a7ebf2fcd8f2fd7d0b617287d0fb6675988342b4f5a821fee8563404fde.pdf)
+Príloha č. 3 k zákonu č. 480/2002 Z. z. [Vzor 04](../assets/5bc5d7d20587404a3ad8f56a6ce6c946cececae9795fe8c151760fef33038994.pdf)

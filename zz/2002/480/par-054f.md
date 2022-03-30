@@ -1,0 +1,3 @@
+# § 54f Prechodné ustanovenie počas trvania mimoriadnej situácie vyhlásenej v súvislosti s hromadným prílevom cudzincov na územie Slovenskej republiky spôsobeným ozbrojeným konfliktom na území Ukrajiny
+
+Žiadateľ, ktorý je štátnym občanom Ukrajiny alebo rodinným príslušníkom štátneho občana Ukrajiny, môže počas trvania mimoriadnej situácie vyhlásenej v súvislosti s hromadným prílevom cudzincov na územie Slovenskej republiky spôsobeným ozbrojeným konfliktom na území Ukrajiny vstupovať do pracovnoprávneho vzťahu aj pred uplynutím deviatich mesiacov od začatia konania o udelenie azylu. Za rodinného príslušníka štátneho občana Ukrajiny sa na účely prvej vety považuje manžel štátneho občana Ukrajiny a rodič maloletého dieťaťa, ktoré je štátnym občanom Ukrajiny.

@@ -54,6 +54,26 @@
 
 - 13a) § 53 ods. 7 zákona č. 305/2005 Z. z. v znení neskorších predpisov.
 
+- 13b) § 27k zákona č. 91/2010 Z. z. o podpore cestovného ruchu v znení zákona č. 92/2022 Z. z.
+
+- 13c) Napríklad zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov, zákon č. 179/2011 Z. z. o hospodárskej mobilizácii a o zmene a doplnení zákona č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu v znení neskorších predpisov v znení neskorších predpisov.
+
+- 13d) § 12 zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení zákona č. 216/2008 Z. z.
+
+- 13e) § 62 ods. 1 písm. f) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení zákona č. 533/2021 Z. z.
+
+- § 8 ods. 2 vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 259/2008 Z. z. o podrobnostiach o požiadavkách na vnútorné prostredie budov a o minimálnych požiadavkách na byty nižšieho štandardu a na ubytovacie zariadenia.
+
+- 13f) § 43b ods. 5 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 237/2000 Z. z.
+
+- 13g) Napríklad zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 258/1993 Z. z. o Železniciach Slovenskej republiky v znení neskorších predpisov.
+
+- 13h) § 10 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
+- 13i) § 62 ods. 1 písm. f) zákona č. 355/2007 Z. z. v znení zákona č. 533/2021 Z. z.
+
+- § 9 ods. 1 a 2 vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 259/2008 Z. z.
+
 - 15) Zákon č. 381/1997 Z. z. o cestovných dokladoch v znení zákona č. 48/2002 Z. z.
 
 - 16) Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
