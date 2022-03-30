@@ -110,6 +110,10 @@
 
 - 16hda) § 58 ods. 1 písm. c), § 58 ods. 3 zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 16hdaa) § 29 zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+
+- 16hdab) § 31 ods. 1 a § 54e ods. 1 zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+
 - 16hdb) § 20 ods. 3 zákona č. 480/2002 Z. z. v znení neskorších predpisov.
 
 - 16he) Čl. 1 písm. k) nariadenia (ES) č. 883/2004 v platnom znení.
@@ -341,3 +345,5 @@
 - 74) § 20 ods. 1 písm. k) zákona č. 581/2004 Z. z.
 
 - 75) Čl. 16 ods. 1 nariadenia č. 883/2004 v platnom znení.
+
+- 76) § 29 ods. 2 zákona č. 480/2002 Z. z. v znení neskorších predpisov.
