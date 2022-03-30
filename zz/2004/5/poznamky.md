@@ -357,3 +357,5 @@
 - 65) § 75 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
 
 - 66) Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 67) § 73 ods. 18 druhá veta zákona č. 404/2011 Z. z. v znení neskorších predpisov.
