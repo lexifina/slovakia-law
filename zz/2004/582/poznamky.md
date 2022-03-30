@@ -74,6 +74,8 @@
 
 - 21) Napríklad zákon č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov, zákon č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov, zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov, zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
+- 21a) § 2 písm. j) zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov.
+
 - 22) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
 - 22a) Napríklad Občiansky zákonník, Obchodný zákonník.
