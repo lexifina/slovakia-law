@@ -760,6 +760,12 @@
 
 - 74d) § 23a zákona č. 253/1998 Z. z. v znení neskorších predpisov.
 
+- 74e) § 29 až 36 zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+
+- 74f) § 32 ods. 1 písm. a) zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+
+- 74g) § 8 zákona č. 297/2008 Z. z. v znení neskorších predpisov.
+
 - 75) § 2 ods. 2 Obchodného zákonníka.
 
 - 76) § 23 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
