@@ -1,0 +1,3 @@
+# § 45b Prechodné ustanovenie počas trvania mimoriadnej situácie vyhlásenej v súvislosti s hromadným prílevom cudzincov na územie Slovenskej republiky spôsobeným ozbrojeným konfliktom na území Ukrajiny a po jej odvolaní
+
+Počas mimoriadnej situácie vyhlásenej v súvislosti s hromadným prílevom cudzincov na územie Slovenskej republiky spôsobeným ozbrojeným konfliktom na území Ukrajiny a v období 12 mesiacov po jej odvolaní je ministerstvo, rozpočtová organizácia zriadená ministerstvom a príspevková organizácia zriadená ministerstvom oprávnená poskytnúť fyzickej osobe alebo právnickej osobe materiálnu pomoc na účel ochrany kultúrneho dedičstva na území Ukrajiny. Materiálna pomoc sa poskytuje formou darovania.<sup>3a</sup>)
