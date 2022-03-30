@@ -39,3 +39,5 @@
 - 14) § 114 ods. 2 a 3 zákona č. 55/2017 Z. z..
 
 - 15) § 22 ods. 1 zákona č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 16) § 2 písm. j) zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
