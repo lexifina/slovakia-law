@@ -124,6 +124,8 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - i) Z návrhu na vydanie rozhodnutia o vykonateľnosti cudzích orgánov verejnej správy | 66 eur
 
+- j) Zo správnej žaloby proti rozhodnutiu Úradu pre verejné obstarávanie v konaní o preskúmanie úkonov kontrolovaného | 0,05 % z predpokladanej hodnoty zákazky alebo koncesie, najmenej však 1 000 eur a najviac 25 000 eur. Ak predpokladaná hodnota zákazky alebo koncesie nie je ustanovená alebo ak ide o zmenu zmluvy, koncesnej zmluvy alebo rámcovej dohody, výška poplatku je 1 000 eur.
+
 - Položka 13 |
 
 - a) Z návrhu na vykonanie exekúcie | 16,50 eura
