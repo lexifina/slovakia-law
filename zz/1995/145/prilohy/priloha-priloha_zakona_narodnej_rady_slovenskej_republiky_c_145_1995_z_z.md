@@ -170,7 +170,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - f) Vydanie odpisu osvedčenia o čiastočnej kvalifikácii alebo osvedčenia o úplnej kvalifikácii ..... | 10 eur
 
-  - g) Zápis do zoznamu odborne spôsobilých osôb podľa osobitného predpisu<sup>10a</sup>) ..... | 66 eur
+  - g) Zápis do zoznamu odborných garantov na verejné obstarávanie podľa osobitného predpisu<sup>10a</sup>) ..... | 66 eur
 
   - h) Zápis do zoznamu znalcov, tlmočníkov a prekladateľov ..... | 165,50 eura
 

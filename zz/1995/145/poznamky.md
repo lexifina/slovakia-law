@@ -98,7 +98,7 @@
 
 - 10) Napríklad zákon č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení niektorých zákonov, zákon č. 288/1997 Z. z. o telesnej kultúre a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 282/2008 Z. z. o podpore práce s mládežou a o zmene a doplnení zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 10a) § 129 a 132 zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 232/2008 Z. z.
+- 10a) § 184f ods. 2 zákona č. 343/2015 o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 395/2021 Z. z.
 
 - 10b) Zákon č. 8/2005 Z. z. o správcoch a o zmene a doplnení niektorých zákonov.
 
