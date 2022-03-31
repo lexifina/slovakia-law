@@ -1,0 +1,3 @@
+# Čl. XII
+
+Predseda Národnej rady Slovenskej republiky sa splnomocňuje, aby v Zbierke zákonov Slovenskej republiky vyhlásil úplné znenie zákona č. 343/2015 Z. z., ako vyplýva zo zmien a doplnení vykonaných zákonom č. 438/2015 Z. z., zákonom č. 315/2016 Z. z., zákonom č. 93/2017 Z. z., zákonom č. 248/2017 Z. z., zákonom č. 264/2017 Z. z., zákonom č. 112/2018 Z. z., zákonom č. 177/2018 Z. z., zákonom č. 269/2018 Z. z., zákonom č. 345/2018 Z. z., zákonom č. 215/2019 Z. z., zákonom č. 221/2019 Z. z., zákonom č. 62/2020 Z. z., zákonom č. 9/2021 Z. z., zákonom č. 141/2021 Z. z., zákonom č. 214/2021 Z. z. a zákonom č. 395/2021 Z. z.
