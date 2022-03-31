@@ -48,7 +48,7 @@
 
 - s) zmluva týkajúca sa razby mincí, medailí, žetónov alebo obdobných predmetov.
 
-(6) Povinne zverejňovaná zmluva, ktorej účastníkom je povinná osoba, sa zverejňuje v registri; to neplatí, ak ide o Národnú banku Slovenska a povinné osoby, ktorými sú obce, vyššie územné celky, povinné osoby, ktoré sú ich rozpočtovou organizáciou alebo príspevkovou organizáciou, a povinné osoby, v ktorých majú viac ako 50 % účasť.
+(6) Povinne zverejňovaná zmluva, ktorej účastníkom je povinná osoba, sa zverejňuje v registri; to neplatí, ak ide o Národnú banku Slovenska.
 
 (7) Povinná osoba zašle bezodkladne Úradu vlády Slovenskej republiky zmluvu na zverejnenie. Úrad vlády Slovenskej republiky zodpovedá za súlad zverejnenej zmluvy s jej zaslaným znením podľa prvej vety.
 
