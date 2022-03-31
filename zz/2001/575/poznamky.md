@@ -16,6 +16,12 @@
 
 - 1cc) § 7 zákona č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
 
+- 1cd) § 13 zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 1ce) § 15 ods. 7 a 8 zákona č. 343/2015 Z. z. v znení neskorších predpisov.
+
+- 1cf) § 141 zákona č. 343/2015 Z. z. v znení neskorších predpisov.
+
 - 2) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
 
 - 3) Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
