@@ -236,6 +236,14 @@
 
 - 42ab) § 23 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
+- 42aba) Čl. 2 písm. a) ústavného zákona č. 493/2011 Z. z.
+
+- 42abb) Čl. 2 písm. c) ústavného zákona č. 493/2011 Z. z.
+
+- 42abc) Čl. 5 ods. 6 písm. c), čl. 5 ods. 7 písm. a), čl. 12 ods. 5 písm. c), čl. 12 ods. 6 písm. a) a čl. 13 ústavného zákona č. 493/2011 Z. z.
+
+- 42abd) Čl. 5 ods. 4 až 8, čl. 12 ods. 3 až 7 a čl. 13 ústavného zákona č. 493/2011 Z. z.
+
 - 42ac) Čl. 3 ods. 1 písm. b) Zmluvy o stabilite, koordinácii a správe v hospodárskej a menovej únii medzi Belgickým kráľovstvom, Bulharskou republikou, Dánskym kráľovstvom, Spolkovou republikou Nemecko, Estónskou republikou, Írskom, Helénskou republikou, Španielskym kráľovstvom, Francúzskou republikou, Talianskou republikou, Cyperskou republikou, Lotyšskou republikou, Litovskou republikou, Luxemburským veľkovojvodstvom, Maďarskom, Maltou, Holandským kráľovstvom, Rakúskou republikou, Poľskou republikou, Portugalskou republikou, Rumunskom, Slovinskou republikou, Slovenskou republikou, Fínskou republikou a Švédskym kráľovstvom (oznámenie Ministerstva zahraničných vecí a európskych záležitostí Slovenskej republiky č. 18/2013 Z. z.).
 
 - Nariadenie (ES) č. 1466/97 v platnom znení.
@@ -246,11 +254,11 @@
 
 - 42ae) Čl. 2 písm. a) ústavného zákona č. 493/2011 Z. z.
 
-- 42af) Čl. 6 nariadenia (ES) č. 1466/97.
+- 42af) Čl. 6 nariadenia (ES) č. 1466/97 v platnom znení.
 
-- 42ag) Čl. 5 a 6 nariadenia (ES) č. 1466/97.
+- 42ag) Čl. 5 a 6 nariadenia (ES) č. 1466/97 v platnom znení.
 
-- Čl. 3 ods. 4 nariadenia (ES) č. 1467/97.
+- Čl. 3 ods. 4 nariadenia (ES) č. 1467/97 v platnom znení.
 
 - 42ah) Čl. 3 ústavného zákona č. 493/2011 Z. z.
 
@@ -275,3 +283,7 @@
 - 49) Napríklad zákon č. 13/2002 Z. z. o podmienkach premeny niektorých rozpočtových organizácií a príspevkových organizácií na neziskové organizácie poskytujúce všeobecne prospešné služby (transformačný zákon) a ktorým sa mení a dopĺňa zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov v znení neskorších predpisov.
 
 - 50) Napríklad zákon č. 416/2001 Z. z. v znení neskorších predpisov.
+
+- 51) Čl. 12 a 13 ústavného zákona č. 493/2011 Z. z.
+
+- 52) Čl. 12 ods. 3 až 7 a čl. 13 ústavného zákona č. 493/2011 Z. z.
