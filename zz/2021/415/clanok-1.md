@@ -2526,6 +2526,18 @@ Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene
 
   - Poznámky pod čiarou k odkazom 85 až 88 a 90 sa vypúšťajú.
 
+- 262. V § 149a ods. 3 sa vypúšťa čiarka za slovom „lekárom“ a slová „a potvrdenie Sociálnej poisťovne o tom, že jej nevznikol nárok na výplatu tehotenského“.
+
+- 263. V § 149a ods. 8 sa vypúšťa písmeno a).
+
+  - Doterajšie písmená b) až e) sa označujú ako písmená a) až d).
+
+- 264. V § 149a odsek 9 znie:
+
+- „(9)
+
+- Žiačka oznámi strednej škole skončenie tehotenstva do desiatich pracovných dní odo dňa, keď táto skutočnosť nastala, ak tehotenstvo skončilo inak ako narodením dieťaťa.“.
+
 - 265. V § 150 ods. 2 sa na konci pripája táto veta: „Termíny školských prázdnin sa nevzťahujú na materské školy.“.
 
 - 266. V § 150 ods. 5 sa za slovo „poskytnúť“ vkladajú slová „deťom alebo“ a na konci sa pripája táto veta: „V čase mimoriadnej situácie, núdzového stavu alebo výnimočného stavu môže riaditeľ školy poskytnúť deťom alebo žiakom viac ako päť dní voľna; počet dní určí ministerstvo školstva.“.
@@ -2662,6 +2674,28 @@ Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene
 
   - Doterajší ôsmy bod až devätnásty bod sa označujú ako deviaty bod až dvadsiaty bod.
 
+- 286. V § 157 ods. 3 sa písmeno a) dopĺňa dvadsiatym prvým bodom až dvadsiatym piatym bodom, ktoré znejú:
+
+- „21.
+
+- výsledky monitorovania a hodnotenia kvality výchovy a vzdelávania,
+
+- 22.
+
+- výsledky zo súťaží a olympiád,
+
+- 23.
+
+- priznanie štipendia a jeho výška,
+
+- 24.
+
+- číslo bankového účtu, na ktorý sa poskytuje štipendium,
+
+- 25.
+
+- dátum skončenia tehotenstva, ak ide o žiačku, ktorej sa poskytuje tehotenské štipendium.“.
+
 - 287. V § 157 ods. 3 písm. b) prvom bode sa slová „prvého až dvanásteho“ nahrádzajú slovami „prvého bodu, deviateho bodu a jedenásteho až trinásteho“.
 
 - 288. V § 157 sa odsek 3 dopĺňa písmenom c), ktoré znie:
@@ -2679,6 +2713,28 @@ Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene
 - meno, priezvisko, miesto podnikania a identifikačné číslo organizácie, ak ide o fyzickú osobu.“.
 
 - 289. V § 157 ods. 7 písm. e) sa slovo „alebo“ nahrádza čiarkou.
+
+- 290. V § 157 sa odsek 7 dopĺňa písmenami g) až j), ktoré znejú:
+
+- „g)
+
+- vzdelávania,
+
+- h)
+
+- výplaty príspevku pri narodení dieťaťa,
+
+- i)
+
+- overovania trvania nároku na tehotenské štipendium,
+
+- j)
+
+- poskytovania elektronických služieb podľa osobitného predpisu.<sup>93aaa</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 93aaa znie:
+
+  - „<sup>93aaa</sup>) Zákon č. 305/2013 Z. z. v znení neskorších predpisov.“.
 
 - 291. V § 157 odsek 10 znie:
 
