@@ -6,7 +6,7 @@
 
 (3) Výška tehotenského štipendia je 200 eur mesačne. Vláda môže ustanoviť nariadením inú výšku tehotenského štipendia; výška tehotenského štipendia uvedená v prvej vete stráca platnosť ustanovením jej výšky nariadením.
 
-(4) Tehotenské štipendium sa priznáva na základe písomnej žiadosti študentky, ktorej prílohou je lekárske potvrdenie o tom, že začal 27. týždeň pred očakávaným dňom pôrodu určeným lekárom, a potvrdenie Sociálnej poisťovne o tom, že jej nevznikol nárok na výplatu tehotenského.
+(4) Tehotenské štipendium sa priznáva na základe písomnej žiadosti študentky, ktorej prílohou je lekárske potvrdenie o tom, že začal 27. týždeň pred očakávaným dňom pôrodu určeným lekárom.
 
 (5) O priznaní tehotenského štipendia rozhoduje rektor vysokej školy alebo ak to ustanoví štatút vysokej školy, rozhoduje dekan fakulty.
 
@@ -18,15 +18,13 @@
 
 (9) Nárok na tehotenské štipendium zaniká
 
-- a) vznikom nároku na výplatu rodičovského príspevku po narodení dieťaťa na dieťa, na ktoré študentka poberá tehotenské štipendium,
+- a) vznikom nároku na výplatu tehotenského,
 
-- b) vznikom nároku na výplatu tehotenského,
+- b) skončením tehotenstva alebo
 
-- c) skončením tehotenstva alebo
+- c) skončením štúdia.
 
-- d) skončením štúdia.
-
-(10) Študentka oznámi vysokej škole skutočnosť podľa odseku 9 písm. a), b) alebo písm. c) do desiatich pracovných dní odo dňa, kedy nastala.
+(10) Študentka oznámi vysokej škole skončenie tehotenstva do desiatich pracovných dní odo dňa, keď táto skutočnosť nastala, ak tehotenstvo skončilo inak ako narodením dieťaťa.
 
 (11) Osoba, ktorej bolo za rovnaké obdobie poskytnuté tehotenské štipendium a vyplatené tehotenské, je povinná vrátiť vysokej škole poskytnuté tehotenské štipendium za príslušné obdobie.
 
