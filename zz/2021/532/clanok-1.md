@@ -1850,7 +1850,23 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
 - (13)
 
-- Ak je na preskripčnom zázname v elektronickej zdravotnej knižke predpísaný humánny liek, predpísaná dietetická potravina alebo predpísaná zdravotnícka pomôcka, ktorú držiteľ povolenia na poskytovanie lekárenskej starostlivosti k dispozícii nemá alebo ju nemá v predpísanom počte balení, môže držiteľ povolenia na poskytovanie lekárenskej starostlivosti po dohode s pacientom objednať predpísaný humánny liek, zdravotnícku pomôcku alebo dietetickú potravinu a zároveň vyhotoviť v elektronickej zdravotnej knižke rezerváciu preskripčného záznamu na dobu potrebnú podľa § 23 ods. 1 písm. g). Držiteľ povolenia na poskytovanie lekárenskej starostlivosti je povinný na žiadosť pacienta vystaviť potvrdenie o rezervácii obsahujúce údaj o poskytovateľovi lekárenskej starostlivosti a údaje podľa § 120 ods. 1 písm. a), b), o), p) a u).“.
+- Ak je na preskripčnom zázname v elektronickej zdravotnej knižke predpísaný humánny liek, predpísaná dietetická potravina alebo predpísaná zdravotnícka pomôcka, ktorú držiteľ povolenia na poskytovanie lekárenskej starostlivosti k dispozícii nemá alebo ju nemá v predpísanom počte balení, môže držiteľ povolenia na poskytovanie lekárenskej starostlivosti po dohode s pacientom objednať predpísaný humánny liek, zdravotnícku pomôcku alebo dietetickú potravinu a zároveň vyhotoviť v elektronickej zdravotnej knižke rezerváciu preskripčného záznamu na dobu potrebnú podľa § 23 ods. 1 písm. g). Držiteľ povolenia na poskytovanie lekárenskej starostlivosti je povinný na žiadosť pacienta vystaviť potvrdenie o rezervácii obsahujúce údaj o poskytovateľovi lekárenskej starostlivosti a údaje podľa § 120 ods. 1 písm. a), b), o), p) a u).
+
+- (14)
+
+- Na účely tohto zákona sa bezlepkovou potravinou rozumie dietetická potravina, ktorá je zaradená v zozname kategorizovaných dietetických potravín v podskupine V06CE Bezlepkové potraviny a suroviny; zdravotníckou pomôckou pre inkontinenciu sa rozumie zdravotnícka pomôcka zaradená v zozname kategorizovaných zdravotníckych pomôcok v príslušnej podskupine B1-B5 Zdravotnícke pomôcky pre inkontinenciu.
+
+- (15)
+
+- Ak je pacientovi predpísaná zdravotnícka pomôcka pre inkontinenciu alebo bezlepková potravina, osoba, ktorá vydáva humánny liek, zdravotnícku pomôcku a dietetickú potravinu je oprávnená na základe preskripčného záznamu, lekárskeho predpisu alebo na základe lekárskeho poukazu vydať náhradnú zdravotnícku pomôcku pre inkontinenciu alebo náhradnú bezlepkovú potravinu, ak o to poistenec požiada, a to podľa jeho vlastného výberu maximálne do množstva, ktoré je predpísané v preskripčnom zázname, na lekárskom predpise alebo na lekárskom poukaze. Výdajom náhradnej zdravotníckej pomôcky pre inkontinenciu alebo náhradnej bezlepkovej potraviny nemôže byť prekročený množstvový ani finančný limit uvedený v zozname kategorizovaných zdravotníckych pomôcok alebo v zozname kategorizovaných dietetických potravín.
+
+- (16)
+
+- Náhradnou zdravotníckou pomôckou pre inkontinenciu je zdravotnícka pomôcka pre inkontinenciu, ktorá je zaradená v zozname kategorizovaných zdravotníckych pomôcok v rovnakej podskupine a triede ako predpísaná zdravotnícka pomôcka, ktorú možno vydať pre príslušný stupeň inkontinencie, ktorý je definovaný diagnózou uvedenou na preskripčnom zázname alebo na lekárskom poukaze. Náhradnou bezlepkovou potravinou je bezlepková potravina, ktorá je zaradená v zozname kategorizovaných dietetických potravín v rovnakej podskupine a v rovnakom množstvovom limite ako bezlepková potravina predpísaná v preskripčnom zázname alebo na lekárskom predpise.
+
+- (17)
+
+- Osoba, ktorá vydáva humánny liek, zdravotnícku pomôcku a dietetickú potravinu je povinná informovať pacienta o možnosti výberu náhradnej zdravotníckej pomôcky pre inkontinenciu alebo náhradnej bezlepkovej potraviny.“.
 
 - 190. V § 121a ods. 1 sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „alebo humánny liek povolený podľa § 46 ods. 3 a 4.“.
 
@@ -3916,6 +3932,6 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
 - 271. Za prílohu č. 2 sa vkladajú prílohy č. 3 a 4, ktoré znejú:
 
-- „[Príloha č. 3 a č. 4 k zákonu č. 362/2011 Z. z.](assets/4a28aa15e95d6937a9ded71acf753fc364b7c5b1b78fd0772416ea0a4e3c8592.pdf)“.
+- „[Príloha č. 3 a č. 4 k zákonu č. 362/2011 Z. z.](assets/37cf963c73530175107f1b6b9b0e61cc669be90521d651515402051c232312e0.pdf)“.
 
 - 272. Slová „etická komisia“ vo všetkých tvaroch sa v celom texte zákona okrem § 1 ods. 1 písm. c), § 29a ods. 2 a 11, § 29h ods. 3 a 6, § 111 ods. 2, § 111h ods. 2, § 111j a § 111k, § 142a, § 142b nadpisu paragrafu, odseku 1 písm. a), h) až j), písm. q), odseku 2 písm. a), h) až j), písm. q), odseku 3, odseku 5 úvodnej vety, odseku 5 písm. e), odseku 6, 7, § 142c ods. 1 až 6 a odsekov 10 a 11 a § 143u nahrádzajú slovami „etická komisia pre klinické skúšanie“ v príslušnom tvare.
