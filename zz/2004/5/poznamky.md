@@ -326,6 +326,10 @@
 
 - 61aaa) § 36a, § 108 ods. 2 a § 117 ods. 1 zákona č. 343/2015 Z. z. v znení zákona č. 112/2018 Z. z.
 
+- 61ab) Čl. 4 ústavného zákona č. 493/2011 Z. z. o rozpočtovej zodpovednosti.
+
+- § 30aa ods. 21 zákona č. 523/2004 Z. z. v znení zákona č. 101/2022 Z. z.
+
 - 62) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
 
 - Zákon č. 357/2015 Z. z.
