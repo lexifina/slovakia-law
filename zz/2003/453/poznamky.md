@@ -16,11 +16,17 @@
 
 - 4c) § 90 ods. 3 zákona č. 305/2005 Z. z. v znení neskorších predpisov.
 
+- 4d) Čl. 4 ústavného zákona č. 493/2011 Z. z. o rozpočtovej zodpovednosti.
+
+- § 30aa ods. 21 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 101/2022 Z. z.
+
 - 5) Napríklad zákon č. 5/2004 Z. z. v znení neskorších predpisov, zákon č. 305/2005 Z. z. v znení neskorších predpisov, zákon č. 417/2013 Z. z.
 
 - 5a) § 73 ods. 2 písm. b) druhý bod až piaty bod zákona č. 305/2005 Z. z.
 
 - 5b) Napríklad § 14 ods. 5 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 5c) § 11 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 6) Zákon č. 195/1998 Z. z. vznení neskorších predpisov.
 
