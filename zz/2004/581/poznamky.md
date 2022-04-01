@@ -238,6 +238,10 @@
 
 - 35aab) § 27 ods. 2 a § 27a ods. 2 zákona č. 580/2004 Z. z. v znení zákona č. 185/2012 Z. z.
 
+- 35aaba) § 7 ods. 1 písm. a) bod 1. zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+
+- 35aabb) § 7 ods. 1 písm. a) bod 2.1. zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+
 - 35aac) § 14 ods. 1 písm. a) a d) zákona č. 153/2013 Z. z.
 
 - 35aad) § 9 a § 14 ods. 2 zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
