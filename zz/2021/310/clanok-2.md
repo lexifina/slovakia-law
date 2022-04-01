@@ -2,6 +2,10 @@
 
 Zákon Národnej rady Slovenskej republiky č. 40/1993 Z. z. o štátnom občianstve Slovenskej republiky v znení zákona č. 70/1997 Z. z., zákona č. 515/2003 Z. z., zákona č. 36/2005 Z. z., zákona č. 265/2005 Z. z., zákona č. 344/2007 Z. z., zákona č. 445/2008 Z. z., zákona č. 250/2010 Z. z., zákona č. 131/2015 Z. z., zákona č. 177/2018 Z. z. a zákona č. 221/2019 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 8 ods. 3 písm. i) sa vypúšťa siedmy bod.
+
+  - Doterajší ôsmy bod sa označuje ako siedmy bod.
+
 - 2. V § 9 ods. 6 písmeno b) znie:
 
 - „b)

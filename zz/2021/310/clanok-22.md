@@ -5,3 +5,17 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 - 1. V § 16 ods. 3 posledná veta znie: „Súčasťou oznámenia je doklad o zmene údaju, okrem dokladu o zmene podľa odseku 1 písm. b).“.
 
 - 2. V § 72 ods. 2 sa vypúšťa posledná veta.
+
+- 3. V § 79 sa odsek 1 dopĺňa písmenom bj), ktoré znie:
+
+- „bj)
+
+- najneskôr nasledujúci deň po narodení živého dieťaťa alebo po narodení mŕtveho dieťaťa zaslať údaje v rozsahu údajov podľa registra záznamov o narodení<sup>55jawg</sup>) okrem rodného čísla národnému centru prostredníctvom národného zdravotníckeho informačného systému.“.
+
+  - Poznámka pod čiarou k odkazu 55jawg znie:
+
+  - „<sup>55jawg</sup>) § 3 ods. 1 písm. f) a príloha č. 1a zákona č. 153/2013 Z. z. v znení zákona č. 310/2021 Z. z.“.
+
+- 4. V § 79 ods. 3 písm. e) sa slová „zr) a aa)“ nahrádzajú slovami „zr), aa) a bj)“.
+
+- 5. V § 82 ods. 1 písm. a) sa slová „az) a bd)“ nahrádzajú slovami „az), bd) a bj)“.

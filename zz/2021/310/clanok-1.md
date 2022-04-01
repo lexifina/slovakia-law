@@ -24,6 +24,56 @@ Zákon č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratí
 
   - <sup>3cb</sup>) Zákon č. 98/1987 Zb. o osobitnom príspevku baníkom v znení neskorších predpisov.“.
 
+- 4. V § 1 sa odsek 3 dopĺňa písmenami l) až n), ktoré znejú:
+
+- „l)
+
+- Národný zdravotnícky informačný systém,<sup>3cc</sup>) ak ide o poskytovanie údajov na účely konania vo veciach štátnych sociálnych dávok alebo sociálnych dávok a na účely hlásenia o narodení, a to údajov
+
+- 1.
+
+- o uzavretí dohody o poskytovaní zdravotnej starostlivosti oprávnenej osoby so všeobecným lekárom a s lekárom so špecializáciou v špecializačnom odbore gynekológia a pôrodníctvo,<sup>3cd</sup>)
+
+- 2.
+
+- o uzavretí dohody o poskytovaní všeobecnej ambulantnej starostlivosti pre dieťa,<sup>3ce</sup>)
+
+- 3.
+
+- o poradí pôrodu a účasti matky dieťaťa na preventívnych prehliadkach u lekára so špecializáciou v špecializačnom odbore gynekológia a pôrodníctvo,<sup>3cf</sup>)
+
+- 4.
+
+- o spôsobe opustenia zdravotníckeho zariadenia ústavnej zdravotnej starostlivosti matkou dieťaťa po pôrode,<sup>3cg</sup>)
+
+- 5.
+
+- z registra záznamov o narodení,<sup>3ch</sup>)
+
+- m)
+
+- centrálny informačný systém na účely služieb zamestnanosti<sup>3ci</sup>) v časti týkajúcej sa evidencie uchádzačov o zamestnanie,
+
+- n)
+
+- informačný systém riadenia sociálnych dávok v časti týkajúcej sa pomoci v hmotnej núdzi a v časti týkajúcej sa evidencie fyzických osôb s ťažkým zdravotným postihnutím.“.
+
+  - Poznámky pod čiarou k odkazom 3cc až 3ci znejú:
+
+  - „<sup>3cc</sup>) § 2 ods. 1 zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov v znení zákona č. 77/2015 Z. z.
+
+  - <sup>3cd</sup>) § 12 ods. 3 písm. w) prvý bod zákona č. 153/2013 Z. z. v znení zákona č. 310/2021 Z. z.
+
+  - <sup>3ce</sup>) § 12 ods. 3 písm. w) druhý bod zákona č. 153/2013 Z. z. v znení zákona č. 310/2021 Z. z.
+
+  - <sup>3cf</sup>) § 12 ods. 3 písm. w) tretí bod zákona č. 153/2013 Z. z. v znení zákona č. 310/2021 Z. z.
+
+  - <sup>3cg</sup>) § 12 ods. 3 písm. w) štvrtý bod zákona č. 153/2013 Z. z. v znení zákona č. 310/2021 Z. z.
+
+  - <sup>3ch</sup>) § 12 ods. 3 písm. w) zákona č. 153/2013 Z. z. v znení zákona č. 310/2021 Z. z.
+
+  - <sup>3ci</sup>) § 67 ods. 1 zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení zákona č. 96/2013 Z. z.“.
+
 - 8. V § 1 odsek 4 znie:
 
 - „(4)
