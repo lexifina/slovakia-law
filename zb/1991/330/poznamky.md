@@ -22,6 +22,8 @@
 
 - 5a) § 2 písm. q) zákona č. 326/2005 Z. z. o lesoch.
 
+- 5aa) § 65 ods. 1 písm. k), § 65a a § 65b zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
+
 - 5b) § 34 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 79/1996 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).
 
 - 5ba) § 58 zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
@@ -215,6 +217,8 @@
 - 23h) § 10 zákona č. 97/2013 Z. z. o pozemkových spoločenstvách.
 
 - 23ha) Príloha č. 3, časť E.3.1 k vyhláške č. 492/2004 Z. z.
+
+- 23haa) § 65a ods. 2 písm. s) a § 65b ods. 5 zákona č. 543/2002 Z. z. v znení zákona č. 6/2022 Z. z.
 
 - 23hb) Zákon č. 229/1991 Zb. v znení neskorších predpisov.
 
