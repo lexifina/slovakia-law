@@ -6,7 +6,7 @@
 
 - 2) § 2 písm. b) zákona č. 478/2002 Z. z. o ochrane ovzdušia a ktorým sa dopĺňa zákon č. 401/1998 Z. z. o poplatkoch za znečisťovanie ovzdušia v znení neskorších predpisov (zákon o ovzduší) v znení zákona č. 541/2004 Z. z.
 
-- 3) Napríklad § 5 ods. 4 zákona č. 281/1997 Z. z. o vojenských obvodoch a zákon, ktorým sa mení a dopĺňa zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 17 zákona č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov, § 65 ods. 1 písm. k) devätnásty bod zákona č. 543/2002 Z. z. o ochrane prírody a krajiny.
+- 3) Napríklad § 5 ods. 4 zákona č. 281/1997 Z. z. o vojenských obvodoch a zákon, ktorým sa mení a dopĺňa zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 17 zákona č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov, § 65 ods. 1 písm. k), § 65a a § 65b zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
 
 - 3a) Zákon Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a pozemkových spoločenstvách v znení neskorších predpisov.
 
@@ -94,11 +94,11 @@
 
 - 25) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
+- 25a) § 65 ods. 1 písm. k), § 65a a § 65b zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
+
 - 26) § 32 zákona č. 364/2004 Z. z. v znení zákona č. 230/2005 Z. z.
 
 - 27) § 54 ods. 4 písm. a) zákona č. 543/2002 Z. z.
-
-- 27a) § 65a zákona č. 543/2002 Z. z. v znení neskorších predpisov.
 
 - 28) § 10 a 67 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
 

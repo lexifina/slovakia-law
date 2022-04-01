@@ -6,7 +6,7 @@
 
 - b) § 14 ods. 2 písm. i).
 
-(2) Návrh na vyhlásenie lesov osobitného určenia podľa odseku 1 obsahuje najmä náležitosti podľa § 16 ods. 4 písm. a) až d) a záväzné stanovisko právnickej osoby podľa § 38 ods. 2, ktoré vydá po prerokovaní s navrhovateľom lesov osobitného určenia a po dohode s organizáciou ochrany prírody.<sup>27a</sup>)
+(2) Návrh na vyhlásenie lesov osobitného určenia podľa odseku 1 obsahuje najmä náležitosti podľa § 16 ods. 4 písm. a) až d) a záväzné stanovisko právnickej osoby podľa § 38 ods. 2, ktoré vydá po prerokovaní s navrhovateľom lesov osobitného určenia a po dohode s organizáciou ochrany prírody.
 
 (3) Lesy osobitného určenia podľa § 14 ods. 2 písm. i) vyhlasuje orgán štátnej správy lesného hospodárstva na návrh vlastníka alebo správcu.
 
