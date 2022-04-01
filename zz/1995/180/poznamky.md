@@ -10,6 +10,12 @@
 
 - 7a) § 5 zákona č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov.
 
+- 7aa) § 65b ods. 5 zákona č. 543/2002 Z. z. v znení zákona č. 6/2022 Z. z.
+
+- 7ab) § 2 písm. q) zákona č. 326/2005 Z. z. o lesoch v znení neskorších predpisov.
+
+- 7ac) § 65 ods. 1 písm. k), § 65a a § 65b zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
+
 - 7b) § 4 zákona č. 229/1991 Zb. v znení neskorších predpisov.
 
 - 8) Zákon č. 71/1967 Zb.
@@ -73,8 +79,6 @@
 - Zákon Slovenskej národnej rady č. 330/1991 Zb. v znení neskorších predpisov.
 
 - 30a) Napríklad zákon č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov, zákon č. 326/2005 Z. z. o lesoch v znení neskorších predpisov.
-
-- 30aa) § 2 písm. q) zákona č. 326/2005 Z. z.
 
 - 31) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z.
 
