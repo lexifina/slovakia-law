@@ -384,6 +384,10 @@
 
 - § 12a a 12b zákona č. 576/2004 Z. z. v znení zákona č. 467/2019 Z. z.
 
+- 55jawg) § 3 ods. 1 písm. f) a príloha č. 1a zákona č. 153/2013 Z. z. v znení zákona č. 310/2021 Z. z.
+
+- 55jawh) § 7 ods. 1 písm. a) bod 1.2. zákona č. 576/2004 Z. z. v znení zákona č. 662/2007 Z. z.
+
 - 55jb) § 73 ods. 2 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 55jc) § 201, 201a, 201b a 202 Trestného zákona.
