@@ -4,8 +4,6 @@
 
 - 4) § 110 ods. 5 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 5) § 16 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov.
-
 - 6) Rozhodnutie zástupcov vlád členských štátov Európskej únie, ktorí sa zišli na zasadnutí Rady 94/409/SZBP z 25. júna 1996 o zavedení cestovného preukazu (Mimoriadne vydanie Ú. v. EÚ, kap. 18/zv. 1; Ú. v. ES L 168, 6. 7. 1996) v platnom znení.
 
 - 6a) Napríklad § 22 zákona č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 40 zákona č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 503/2011 Z. z.
@@ -35,6 +33,8 @@
 - 14) Napríklad § 43 ods. 5 písm. n), § 44 ods. 5 písm. o) a § 106a zákona č. 131/2002 Z. z. v znení neskorších predpisov, zákon č. 293/2007 Z. z. o uznávaní odborných kvalifikácií, príloha č. 7 k zákonu č. 488/2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov v znení neskorších predpisov.
 
 - 15) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
+
+- 15a) § 1 ods. 3 zákona č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratívnej záťaže využívaním informačných systémov verejnej správy a o zmene a doplnení niektorých zákonov (zákon proti byrokracii) v znení neskorších predpisov.
 
 - 16) § 111 Civilného mimosporového poriadku.
 
