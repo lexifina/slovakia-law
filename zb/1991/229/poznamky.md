@@ -84,6 +84,8 @@
 
 - 16aa) § 5 ods. 3 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení zákona č. 72/1999 Z. z.
 
+- 16ab) § 65 ods. 1 písm. k), § 65a a § 65b zákona č. 543/2002 Z. z. v znení neskorších predpisov.
+
 - 17) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby.Zákon Slovenskej národnej rady č. 330/1991 Zb.
 
 - 17a) § 2 písm. q) zákona č. 326/2005 Z. z.
