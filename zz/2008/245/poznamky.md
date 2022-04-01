@@ -230,6 +230,8 @@
 
 - 93aa) § 2 ods. 1 zákona č. 336/2015 Z. z. o podpore najmenej rozvinutých okresov a o zmene a doplnení niektorých zákonov.
 
+- 93aaa) Zákon č. 305/2013 Z. z. v znení neskorších predpisov.
+
 - 93b) Zákon č. 305/2013 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratívnej záťaže využívaním informačných systémov verejnej správy a o zmene a doplnení niektorých zákonov (zákon proti byrokracii) v znení neskorších predpisov.
