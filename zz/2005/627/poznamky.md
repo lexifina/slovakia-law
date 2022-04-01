@@ -14,7 +14,7 @@
 
 - 6b) Zákon č. 383/2013 Z. z. o príspevku pri narodení dieťaťa a príspevku na viac súčasne narodených detí a o zmene a doplnení niektorých zákonov.
 
-- 6c) § 4 ods. 1 písm. a) a § 15 zákona č. 383/2013 Z. z.
+- 6c) § 4 ods. 1 písm. a) a § 15 zákona č. 383/2013 Z. z. v znení zákona č. 310/2021 Z. z.
 
 - 7) § 3 zákona č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení.
 
