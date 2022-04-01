@@ -2,7 +2,7 @@
 
 (1) Štátne občianstvo Slovenskej republiky nevznikne, ak sa po prevzatí listiny o udelení štátneho občianstva Slovenskej republiky preukáže, že
 
-- a) doklady, na základe ktorých bola listina vydaná, sú sfalšované alebo pozmenené,
+- a) doklady, na základe ktorých bola listina vydaná, sú sfalšované alebo pozmenené, alebo závažné skutočnosti uvedené v nich alebo v dotazníku žiadateľa sú nepravdivé,
 
 - b) žiadateľ nie je osoba, ktorej doklady predložil,
 
