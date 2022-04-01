@@ -1,0 +1,17 @@
+# Čl. I
+
+Nariadenie vlády Slovenskej republiky č. 116/2020 Z. z. o niektorých opatreniach v oblasti sociálnych služieb v čase mimoriadnej situácie, núdzového stavu alebo výnimočného stavu vyhláseného v súvislosti s ochorením COVID-19 v znení nariadenia vlády Slovenskej republiky č. 152/2020 Z. z. sa mení takto:
+
+- § 4 znie:
+
+- „§ 4
+
+- V čase mimoriadnej situácie a najneskôr do konca rozpočtového roka 2022 sa finančný príspevok na prevádzku poskytovanej sociálnej služby podľa § 77 zákona poskytuje neverejnému poskytovateľovi pobytovej formy sociálnej služby v zariadení v plnej výške aj vtedy, ak sa táto sociálna služba neposkytuje z dôvodu neprítomnosti prijímateľa sociálnej služby viac ako 30 po sebe nasledujúcich dní, ak
+
+- a)
+
+- tento dôvod neprítomnosti súvisí s výskytom a šírením ochorenia COVID-19 v tomto zariadení a
+
+- b)
+
+- prejaví sa v preukázateľnom náraste počtu dní neprítomnosti prijímateľov sociálnej služby alebo neobsadených miest, ktorý súvisí s výskytom a šírením ochorenia COVID-19 v tomto zariadení.“.
