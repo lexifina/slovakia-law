@@ -197,3 +197,5 @@ Zákon č. 181/2014 Z. z. o volebnej kampani a o zmene a doplnení zákona č. 8
 - Prechodné ustanovenie k úpravám účinným od 1. januára 2022
 
 - Konanie o uložení pokuty podľa § 19 v znení účinnom do 31. decembra 2021, ktoré sa začalo a právoplatne neskončilo do 31. decembra 2021, sa dokončí podľa tohto zákona v znení účinnom do 31. decembra 2021.“.
+
+- 36. Slová „kandidát bez politickej príslušnosti“ vo všetkých tvaroch sa v celom texte zákona nahrádzajú slovami „nezávislý kandidát“ v príslušnom tvare.

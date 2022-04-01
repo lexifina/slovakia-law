@@ -323,3 +323,5 @@ Zákon č. 180/2014 Z. z. o podmienkach výkonu volebného práva a o zmene a do
   - Doterajšie odseky 1 až 5 sa označujú ako odseky 2 až 6.
 
 - 82. V § 206 ods. 6 sa číslo „4“ nahrádza číslom „5“.
+
+- 83. Slová „kandidát bez politickej príslušnosti“ vo všetkých tvaroch sa v celom texte zákona nahrádzajú slovami „nezávislý kandidát“ v príslušnom tvare.
