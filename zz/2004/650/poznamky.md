@@ -170,6 +170,10 @@
 
 - 43) Zákon č. 540/2001 Z. z. o štátnej štatistike v znení zákona č. 215/2004 Z. z.
 
+- 43a) Čl. 4 ústavného zákona č. 493/2011 Z. z. o rozpočtovej zodpovednosti.
+
+- § 30aa ods. 21 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 101/2022 Z. z.
+
 - 44) Obchodný zákonník.
 
 - 45) Zákon č. 244/2002 Z. z. o rozhodcovskom konaní.
