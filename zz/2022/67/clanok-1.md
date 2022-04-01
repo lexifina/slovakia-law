@@ -372,6 +372,16 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - 65. V § 62 ods. 11 sa za slovom „psychológa“ vypúšťa čiarka a slová „ak spĺňajú podmienky podľa § 33 ods. 3“.
 
+- 66. V § 79 sa odsek 1 dopĺňa písmenom bk), ktoré znie:
+
+- „bk)
+
+- oznamovať národnému centru v elektronickej podobe údaj o uzatvorení dohody o poskytovaní všeobecnej ambulantnej starostlivosti<sup>55jawh</sup>) novorodencovi najneskôr do siedmich dní po skončení kalendárneho mesiaca, v ktorom bola uzatvorená dohoda o poskytovaní zdravotnej starostlivosti, ak ide o poskytovateľa, ktorý poskytuje všeobecnú ambulantnú starostlivosť pre deti a dorast; lehota nemusí byť dodržaná v prípadoch hodných osobitného zreteľa.“.
+
+  - Poznámka pod čiarou k odkazu 55jawh znie:
+
+  - „<sup>55jawh</sup>) § 7 ods. 1 písm. a) bod 1.2. zákona č. 576/2004 Z. z. v znení zákona č. 662/2007 Z. z.“.
+
 - 67. V § 80aa ods. 2, § 80ab ods. 2, § 80ac ods. 2, § 80 ad ods. 2, § 80 ae ods. 2, § 80af ods. 2, § 80ai ods. 2, § 80ak ods. 2, § 80al ods. 2, § 80ar ods. 2, § 80as ods. 2, § 80at ods. 2,
 
 - § 80au ods. 2, § 80aw ods. 2 a § 92a ods. 2 písm. c) sa slová „§ 33 ods. 5“ nahrádzajú slovami „§ 33 ods. 6“.
@@ -381,6 +391,8 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 - 69. Poznámka pod čiarou k odkazu 60c znie:
 
 - „<sup>60c</sup>) § 8 až 13 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.“.
+
+- 70. V § 82 ods. 1 písm. a) sa slová „bd) a bj)“ nahrádzajú slovami „bd), bj) a bk)“.
 
 - 71. V § 82 ods. 6 písm. a) a b) sa slová „§ 40 ods. 25“ nahrádzajú slovami „§ 40 ods. 23“.
 
@@ -426,16 +438,16 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - 85. V prílohe č. 3 časti A písm. a) tabuľky č. 1 a 2 znejú:
 
-- „[Tabuľky č. 1 a 2](assets/dffae5e5db25f504dddbde57528d2df5b1c8581fcae9029642b857c40f8a966b.pdf)“.
+- „[Tabuľky č. 1 a 2](assets/33018ec9fa33fe2a80a1655fdfd4c052e06f93718b84d2878380238ca9031869.pdf)“.
 
 - 86. V prílohe č. 3 časti A písm. c) tabuľka č. 3 znie:
 
-- „[Tabuľka č. 3](assets/f057e32913cc0407e202a85b5a47f5e8e85eb01dcdf222f64526d8088f4b4de9.pdf)“.
+- „[Tabuľka č. 3](assets/1ddb3688bd36f47ff8aa718c7f1a2334e1b94370c192a008908c8025f63a05c6.pdf)“.
 
 - 87. V prílohe č. 3 časti B písm. a) tabuľka č. 1 znie:
 
-- „[Tabuľka č. 1](assets/233be8eae1b49a85d8bc9039dd33b79ec148ea1a539d182ca117e3ac1cee0e2a.pdf)“.
+- „[Tabuľka č. 1](assets/7c1f8b73da48ee8604494c30eb429bf45dfb53efc6e252f38a36b6f1559b475e.pdf)“.
 
 - 88. V prílohe č. 3 časti B písm. b) tabuľka č. 2 znie:
 
-- „[Tabuľka č. 2](assets/5a10590c2d1a718cda1a963b28ead4fd140d54de3d54fbe00e234ea360a41960.pdf)“.
+- „[Tabuľka č. 2](assets/6b7b4b177824d45a1b98e84e88f40c26245c91db90eb5e08a3083f29a6c59d70.pdf)“.
