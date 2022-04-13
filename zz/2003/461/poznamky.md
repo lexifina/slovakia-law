@@ -312,6 +312,8 @@
 
 - 93adm) § 90 ods. 3 zákona č. 483/2001 v znení zákona č. 279/2017 Z. z.
 
+- 93adn) § 3 ods. 1 písm. g) a príloha č. 1b zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov v znení zákona č. 125/2022 Z. z.
+
 - 94) § 44 zákona č. 43/2004 Z. z. v znení zákona č. 183/2014 Z. z.
 
 - 95a) § 139 a 140a zákona č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 252/2012 Z. z.
