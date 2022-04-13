@@ -1,0 +1,3 @@
+# Čl. XIX Účinnosť
+
+Tento zákon nadobúda účinnosť dňom vyhlásenia okrem čl. I bodov 1 až 6, 8 až 10, 15, 17, 18, 20, 22, 24 až 26, 30, 33, 36 až 41, 44 až 54, 57, 58, 60 až 64, 66, 68 až 71, 73, 76, 77, 79, 81 až 94, 97 až 99, § 293fs a § 293ft v bode 100, bodu 101 a čl. II až VI, čl. VIII bodov 4 až 14, čl. IX až XVIII, ktoré nadobúdajú účinnosť 1. júna 2022, čl. I bodov 7, 11 až 14, 16, 19, 21, 23, 27 až 29, 31, 34, 35, 43, 55, 56, 59, 65, 67, 72, 74, 75, 78, 80, § 293fu a § 293fv v bode 100 a čl. VII bodov 1 a 2, ktoré nadobúdajú účinnosť 1. januára 2023, a čl. VIII bodov 1 až 3, ktoré nadobúdajú účinnosť 1. januára 2024.
