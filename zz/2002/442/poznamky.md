@@ -14,8 +14,6 @@
 
 - 2a) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
-- 2c) § 45 ods. 1 písm. a) zákona č. 50/1976 Zb. v znení neskorších predpisov.
-
 - 3) Zákon č. 314/2001 Z. z. o ochrane pred požiarmi v znení neskorších predpisov.
 
 - 4) § 2 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
