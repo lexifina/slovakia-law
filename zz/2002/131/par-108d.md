@@ -20,7 +20,7 @@
 
 - i) názov a adresu pracoviska,
 
-- j) pracovné zaradenie alebo funkciu.
+- j) pracovné zaradenie, funkčné miesto alebo funkciu.
 
 (2) Na účely súvisiace s hodnotením výskumných projektov a umeleckých projektov v rámci vnútorného grantového systému ministerstva školstva môže ministerstvo školstva využívať údaje z registra zamestnancov, centrálneho registra študentov, centrálneho registra evidencie publikačnej činnosti a centrálneho registra evidencie umeleckej činnosti v plnom rozsahu.
 

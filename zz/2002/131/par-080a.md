@@ -12,4 +12,4 @@
 
 - d) dátum skončenia pracovného pomeru s vysokou školou.
 
-(3) Na informačné účely a na účely prezentácie vedúcich zamestnancov je vysoká škola oprávnená sprístupniť alebo zverejniť podobizne rektora, prorektorov, dekanov, prodekanov, vedúcich zamestnancov vysokej školy a vedúcich zamestnancov fakulty.
+(3) Na informačné účely a na účely prezentácie vedúcich zamestnancov je vysoká škola oprávnená sprístupniť alebo zverejniť podobizne rektora, prorektorov, dekanov, vedúcich zamestnancov vysokej školy a vedúcich zamestnancov fakulty.

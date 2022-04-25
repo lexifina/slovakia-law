@@ -8,11 +8,11 @@
 
 (4) Agentúra zapisuje do registra študijných odborov
 
-- a) údaje o akreditáciách habilitačného konania a inauguračného konania, obsahové vymedzenie odboru habilitačného konania a inauguračného konania zo žiadosti o udelenie príslušnej akreditácie; ak má viac vysokých škôl udelenú akreditáciu habilitačného konania a inauguračného konania v rovnakom odbore habilitačného konania a inauguračného konania, uvádza sa obsahové vymedzenie tohto odboru z každej žiadosti o udelenie akreditácie a
+- a) údaje o akreditáciách habilitačného konania a údaje o akreditáciách inauguračného konania, obsahové vymedzenie odboru habilitačného konania a inauguračného konania zo žiadosti o udelenie príslušnej akreditácie; ak má viac vysokých škôl udelenú akreditáciu habilitačného konania a akreditáciu inauguračného konania v rovnakom odbore habilitačného konania a inauguračného konania, uvádza sa obsahové vymedzenie tohto odboru z každej žiadosti o udelenie akreditácie a
 
 - b) vymedzenie študijných odborov a stupňov, v ktorých môže vysoká škola vytvárať, uskutočňovať a upravovať študijné programy a obmedzenia týchto oprávnení.
 
-(5) Register študijných programov slúži najmä na zabezpečenie štatistického zisťovania, rozpočtové účely, evidenciu akreditovaných študijných programov a ich aktuálneho stavu a monitorovanie podmienok, za ktorých sa uskutočňujú akreditované študijné programy.
+(5) Register študijných programov slúži najmä na štatistické účely, rozpočtové účely, evidenciu akreditovaných študijných programov a ich aktuálneho stavu a monitorovanie podmienok, za ktorých sa uskutočňujú akreditované študijné programy.
 
 (6) V registri študijných programov sa zaznamenajú aj údaje o vyučujúcich jednotlivých predmetov študijných programov formou odkazu na údaje v registri zamestnancov; to sa nevzťahuje na vyučujúcich, ktorí sú zamestnancami špecializovaných výučbových zariadení, vedú záverečné práce študentov alebo na členov skúšobných komisií na vykonanie štátnych skúšok. Údaje v rozsahu meno a priezvisko a akademický titul, vedecko-pedagogický titul, umelecko-pedagogický titul a vedecká hodnosť sa zverejňujú bez obmedzenia.
 

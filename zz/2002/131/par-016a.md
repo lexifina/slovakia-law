@@ -1,6 +1,6 @@
-# § 16a Finančné fondy verejnej vysokej školy
+# § 16a Fondy verejnej vysokej školy
 
-(1) Verejná vysoká škola tvorí najmä tieto finančné fondy:
+(1) Verejná vysoká škola tvorí najmä tieto fondy:
 
 - a) rezervný fond,
 
@@ -12,9 +12,9 @@
 
 - e) fondy podľa osobitných predpisov.<sup>6</sup>)
 
-(2) Finančné fondy verejnej vysokej školy okrem fondov podľa odseku 1 písm. e) sa tvoria z kladného celkového hospodárskeho výsledku verejnej vysokej školy (ďalej len „zisk verejnej vysokej školy“), z darov, z dedičstva a z výnosov z nich, ak tento zákon neustanovuje inak. Účelovo určené peňažné dary sa použijú v súlade s ich určením. Celkový hospodársky výsledok verejnej vysokej školy je súčet jej hospodárskeho výsledku v hlavnej činnosti a hospodárskeho výsledku v podnikateľskej činnosti (§ 18) po zdanení.
+(2) Fondy verejnej vysokej školy okrem fondov podľa odseku 1 písm. e) sa tvoria z kladného celkového výsledku hospodárenia verejnej vysokej školy (ďalej len „zisk verejnej vysokej školy“) a výnosov z neho a z finančných prostriedkov podľa odsekov 4, 6 a 7. Účelovo určené peňažné dary a účelovo určené dedičstvo sa použijú v súlade s ich určením. Celkový výsledok hospodárenia verejnej vysokej školy je súčet jej výsledku hospodárenia v hlavnej činnosti a výsledku hospodárenia v podnikateľskej činnosti po zdanení.
 
-(3) Verejná vysoká škola použije najmenej 40 % svojho zisku na tvorbu rezervného fondu. Rezervný fond používa verejná vysoká škola na vyrovnanie straty z predchádzajúceho roka a na krytie neuhradenej straty z minulých rokov, ak takúto stratu vykazuje. Verejná vysoká škola môže na vyrovnanie straty z predchádzajúceho roka a na krytie neuhradenej straty z minulých rokov použiť iba prostriedky rezervného fondu. Ak verejná vysoká škola nevykazuje nevyrovnanú stratu z predchádzajúceho roka a neuhradenú stratu z minulých rokov, môže prostriedky rezervného fondu použiť prostredníctvom svojho rozpočtu [§ 16 ods. 3 písm. g)] a na doplnenie ostatných finančných fondov verejnej vysokej školy.
+(3) Verejná vysoká škola použije najmenej 40 % svojho zisku na tvorbu rezervného fondu. Rezervný fond používa verejná vysoká škola na vyrovnanie straty z predchádzajúceho roka a na krytie neuhradenej straty z minulých rokov, ak takúto stratu vykazuje. Verejná vysoká škola môže na vyrovnanie straty z predchádzajúceho roka a na krytie neuhradenej straty z minulých rokov použiť iba prostriedky rezervného fondu. Ak verejná vysoká škola nevykazuje nevyrovnanú stratu z predchádzajúceho roka a neuhradenú stratu z minulých rokov, môže prostriedky rezervného fondu použiť na doplnenie ostatných fondov verejnej vysokej školy.
 
 (4) Fond reprodukcie sa okrem prostriedkov podľa odsekov 2 a 3 vytvára
 
@@ -36,4 +36,4 @@
 
 (8) Ak sa finančné prostriedky fondu vedú na samostatnom účte podľa osobitných predpisov,<sup>9</sup>) stav fondu sa zvyšuje o kreditné úroky a kurzové zisky a znižuje sa o výdavky súvisiace s vedením účtu a kurzové straty.
 
-(9) Rozdelenie zisku verejnej vysokej školy sa uskutoční po schválení výročnej správy o hospodárení verejnej vysokej školy za predchádzajúci kalendárny rok akademickým senátom verejnej vysokej školy [§ 9 ods. 1 písm. k)] a správnou radou verejnej vysokej školy, a to najneskôr do konca bežného kalendárneho roka.
+(9) Rozdelenie zisku alebo vysporiadanie straty verejnej vysokej školy za predchádzajúci kalendárny rok možno uskutočniť až po schválení výročnej správy o hospodárení verejnej vysokej školy, a to najneskôr do konca bežného kalendárneho roka.

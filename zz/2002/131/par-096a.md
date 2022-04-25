@@ -6,8 +6,10 @@
 
 - b) za vynikajúce plnenie študijných povinností, dosiahnutie vynikajúceho výsledku v oblasti štúdia, výskumu, vývoja, umeleckej alebo športovej činnosti.
 
-(2) Vysoká škola rozhodne o priznaní motivačného štipendia. V rozhodnutí uvedie výšku motivačného štipendia a odôvodnenie priznania.
+(2) Vysoká škola priznáva študentom z prostriedkov štátneho rozpočtu motivačné štipendium za dosiahnutie vynikajúceho výsledku športovej činnosti. Kritériá pre jeho priznanie a jeho výšku zverejňuje ministerstvo školstva na svojom webovom sídle.
 
-(3) Štipendium podľa odseku 1 písm. a) sa priznáva najviac päťdesiatim percentám študentov určeného študijného odboru príslušnej vysokej školy. Štipendium podľa odseku 1 písm. b) sa priznáva najviac desiatim percentám študentov príslušnej vysokej školy.
+(3) Vysoká škola rozhodne o priznaní motivačného štipendia. V rozhodnutí uvedie výšku motivačného štipendia a odôvodnenie priznania.
 
-(4) Vysoká škola upraví postup priznávania a poskytovania motivačného štipendia v štipendijnom poriadku vysokej školy alebo v štipendijnom poriadku fakulty, ak o jeho priznávaní rozhoduje fakulta.
+(4) Štipendium podľa odseku 1 písm. a) sa priznáva najviac päťdesiatim percentám študentov určeného študijného odboru príslušnej vysokej školy. Štipendium podľa odseku 1 písm. b) sa priznáva najviac desiatim percentám študentov príslušnej vysokej školy.
+
+(5) Vysoká škola upraví postup priznávania a poskytovania motivačného štipendia v štipendijnom poriadku vysokej školy alebo vo vnútornom predpise fakulty, ak o jeho priznávaní rozhoduje fakulta.

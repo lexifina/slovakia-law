@@ -1,15 +1,17 @@
-# § 53a Učiteľský kombinačný študijný program a prekladateľský kombinačný študijný program
+# § 53a Učiteľské študijné programy a študijné programy zamerané na vychovávateľstvo a neformálne vzdelávanie detí a žiakov
 
-(1) Učiteľský kombinačný študijný program sa uskutočňuje ako bakalársky študijný program alebo magisterský študijný program v študijnom odbore, ktorý má v názve slovo „učiteľstvo“, alebo v kombinácii takých študijných odborov a vzťahuje sa na dva vyučovacie predmety.
+(1) Učiteľský študijný program sa môže uskutočňovať ako bakalársky študijný program, magisterský študijný program alebo študijný program spájajúci prvý stupeň a druhý stupeň. Učiteľský študijný program sa môže uskutočňovať ako profesijne orientovaný študijný program. Učiteľský študijný program sa zameriava na zvládnutie použitia teoretických a didaktických poznatkov pri výkone pracovnej činnosti pedagogického zamestnanca.
 
-(2) Prekladateľský kombinačný študijný program sa uskutočňuje ako bakalársky študijný program alebo magisterský študijný program v študijnom odbore prekladateľstvo a tlmočníctvo a vzťahuje sa na dva jazyky.
+(2) Aprobáciou učiteľského študijného programu sa označuje získanie spôsobilosti vyučovať príslušné vzdelávacie oblasti alebo príslušné vyučovacie predmety pre vymedzené stupne vzdelávania podľa štátnych vzdelávacích programov pre predprimárne vzdelávanie a základné vzdelávanie alebo získanie spôsobilosti vyučovať príslušné všeobecne vzdelávacie predmety alebo odborné vyučovacie predmety podľa štátneho vzdelávacieho programu pre vzdelávanie v stredných školách.
 
-(3) Súbor predmetov a pravidiel, ktoré sa vzťahujú na jeden vyučovací predmet alebo na jeden jazyk, sa označuje ako aprobácia.
+(3) Aprobáciu učiteľského študijného programu možno získať pre
 
-(4) Akreditovaným študijným programom sa stáva vytvorená kombinácia z aprobácií vrátane predmetov
+- a) všetky vzdelávacie oblasti pre predprimárne vzdelávanie a primárne vzdelávanie,
 
-- a) pedagogicko-psychologického základu, sociálno-vedného základu a didaktiky vyučovacích predmetov, ak ide o učiteľský kombinačný študijný program,
+- b) jednu vzdelávaciu oblasť pre nižšie stredné vzdelanie, nižšie stredné odborné vzdelanie, stredné odborné vzdelanie, úplné stredné všeobecné vzdelanie a úplné stredné odborné vzdelanie alebo
 
-- b) translatologického základu, ak ide o prekladateľský kombinačný študijný program.
+- c) jeden vyučovací predmet alebo dva vyučovacie predmety pre nižšie stredné vzdelanie, nižšie stredné odborné vzdelanie, stredné odborné vzdelanie, úplné stredné všeobecné vzdelanie a úplné stredné odborné vzdelanie.
 
-(5) Vysoká škola o každej aprobácii zapisuje do registra študijných programov rovnaké údaje, ako o študijnom programe.
+(4) Vysoká škola zapisuje o každej aprobácii učiteľských študijných programov do registra študijných programov rovnaké údaje ako o študijnom programe.
+
+(5) Študijné programy zamerané na vychovávateľstvo, pedagogickú asistenciu a neformálne vzdelávanie detí a žiakov sa môžu uskutočňovať ako profesijne orientované bakalárske študijné programy.

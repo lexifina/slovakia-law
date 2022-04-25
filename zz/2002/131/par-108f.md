@@ -6,27 +6,27 @@
 
 - a) absolvent príslušného študijného programu bol právoplatne odsúdený za úmyselný trestný čin a spáchaním tohto trestného činu získal výhodu, ktorá mala vplyv na riadne skončenie štúdia alebo na splnenie podmienok na prijatie na toto štúdium,
 
-- b) záverečnú prácu alebo jej časť preukázateľne nevypracoval absolvent,
+- b) absolvent sa ako študent dopustil akademického podvodu,
 
 - c) absolvent neoprávnene použil predmet ochrany duševného vlastníctva inej osoby, a týmto konaním získal výhodu, ktorá mala vplyv na riadne skončenie štúdia alebo na splnenie podmienok na prijatie na toto štúdium, alebo
 
 - d) absolvent v dôsledku rozhodnutia o neplatnosti štátnej skúšky alebo jej súčasti v študijnom programe nižšieho stupňa alebo v dôsledku vzdania sa akademického titulu nižšieho stupňa prestal spĺňať základnú podmienku na prijatie na štúdium príslušného absolvovaného študijného programu vyššieho stupňa.
 
-(2) Rektor rozhodne o neplatnosti rigoróznej skúšky alebo jej súčasti, ak
+(2) Rektor rozhodne o neplatnosti rigoróznej skúšky alebo jej súčasti, ak osoba, ktorej bol udelený akademický titul v rigoróznom konaní,
 
-- a) osoba, ktorej bol udelený akademický titul v rigoróznom konaní, bola právoplatne odsúdená za úmyselný trestný čin a spáchaním tohto trestného činu získala výhodu, ktorá mala vplyv na úspešné vykonanie rigoróznej skúšky alebo na začatie rigorózneho konania,
+- a) bola právoplatne odsúdená za úmyselný trestný čin a spáchaním tohto trestného činu získala výhodu, ktorá mala vplyv na úspešné vykonanie rigoróznej skúšky alebo na začatie rigorózneho konania,
 
-- b) rigoróznu prácu alebo jej časť preukázateľne nevypracovala osoba, ktorej bol udelený akademický titul v rigoróznom konaní,
+- b) dopustila sa akademického podvodu ako účastník rigorózneho konania,
 
-- c) osoba, ktorej bol udelený akademický titul v rigoróznom konaní, neoprávnene použila predmet ochrany duševného vlastníctva inej osoby, a týmto konaním získala výhodu, ktorá mala vplyv na úspešné vykonanie rigoróznej skúšky alebo na začatie rigorózneho konania, alebo
+- c) použila neoprávnene predmet ochrany duševného vlastníctva inej osoby, a týmto konaním získala výhodu, ktorá mala vplyv na úspešné vykonanie rigoróznej skúšky alebo na začatie rigorózneho konania, alebo
 
-- d) osoba, ktorej bol udelený akademický titul v rigoróznom konaní, v dôsledku rozhodnutia o neplatnosti štátnej skúšky alebo jej súčasti alebo v dôsledku vzdania sa akademického titulu prestala spĺňať podmienku na začatie absolvovaného rigorózneho konania.
+- d) prestala spĺňať podmienku na začatie absolvovaného rigorózneho konania v dôsledku rozhodnutia o neplatnosti štátnej skúšky alebo jej súčasti alebo v dôsledku vzdania sa akademického titulu.
 
 (3) Rektor odníme vedecko-pedagogický titul alebo umelecko-pedagogický titul „docent“, ak
 
 - a) osoba, ktorej bol udelený vedecko-pedagogický titul alebo umelecko-pedagogický titul „docent“, bola právoplatne odsúdená za úmyselný trestný čin a spáchaním tohto trestného činu získala výhodu, ktorá mala vplyv na splnenie podmienok na získanie vedecko-pedagogického titulu alebo umelecko-pedagogického titulu „docent“ alebo na splnenie podmienok na začatie habilitačného konania,
 
-- b) habilitačnú prácu alebo jej časť preukázateľne nevypracovala osoba, ktorej bol udelený vedecko-pedagogický titul alebo umelecko-pedagogický titul „docent“,
+- b) osoba, ktorej bol udelený vedecko-pedagogický titul alebo umelecko-pedagogický titul „docent“, sa ako účastník habilitačného konania dopustila akademického podvodu,
 
 - c) osoba, ktorej bol udelený vedecko-pedagogický titul alebo umelecko-pedagogický titul „docent“, neoprávnene použila predmet ochrany duševného vlastníctva inej osoby, a týmto konaním získala výhodu, ktorá mala vplyv na splnenie podmienok na získanie vedecko-pedagogického titulu alebo umelecko-pedagogického titulu „docent“ alebo na splnenie podmienok na začatie habilitačného konania,
 

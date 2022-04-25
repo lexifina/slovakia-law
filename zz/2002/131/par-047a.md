@@ -1,6 +1,6 @@
 # § 47a
 
-(1) Najvyšším riadiacim a rozhodujúcim orgánom súkromnej vysokej školy je správna rada súkromnej vysokej školy. Pôsobnosť správnej rady súkromnej vysokej školy je určená štatútom súkromnej vysokej školy.
+(1) Najvyšším riadiacim a rozhodujúcim orgánom súkromnej vysokej školy je správna rada súkromnej vysokej školy. Správna rada súkromnej vysokej školy rozhoduje o zriadení, zlúčení, splynutí, zrušení, rozdelení, zmene názvu alebo zmene sídla súčasti súkromnej vysokej školy a schvaľuje rozpočet súkromnej vysokej školy. Ďalšie pôsobnosti správnej rady súkromnej vysokej školy určuje štatút súkromnej vysokej školy.
 
 (2) Orgánmi akademickej samosprávy súkromnej vysokej školy sú:
 

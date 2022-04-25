@@ -6,7 +6,7 @@
 
 (3) Vysoká škola vydá študentovi potvrdenie, že je študentom vysokej školy, a uvedie obdobie, počas ktorého má trvať jeho štúdium. Vysoká škola vydá študentovi preukaz študenta [§ 67 ods. 1 písm. a)], ak ho nie je možné nahradiť obdobným dokladom o štúdiu vydaným vysielajúcou vysokou školou.
 
-(4) Vysoká škola môže prijať podľa odseku 1 len študenta inej vysokej školy, ktorý svojím štúdiom na vysokej škole bude pokračovať v štúdiu začatom na inej vysokej škole a po skončení študijného pobytu na vysokej škole sa vráti a skončí štúdium na vysielajúcej vysokej škole. Študent, je povinný k prihláške doložiť doklady preukazujúce priebeh jeho štúdia na vysielajúcej vysokej škole.
+(4) Vysoká škola môže prijať podľa odseku 1 len študenta inej vysokej školy, ktorý svojím štúdiom na vysokej škole bude pokračovať v štúdiu začatom na inej vysokej škole a po skončení študijného pobytu na vysokej škole sa vráti a skončí štúdium na vysielajúcej vysokej škole.
 
 (5) Študent prijatý na štúdium podľa odseku 1 sa nezohľadňuje v počte študentov podľa § 55 ods. 7 a § 89 ods. 4.
 

@@ -26,9 +26,9 @@
 
 - b) doklady o vzdelaní získané absolvovaním štúdia v Slovenskej republike by neboli rovnocenné s dokladmi o vzdelaní získanými absolvovaním príslušného štúdia v členskom štáte sídla zahraničnej vysokej školy,
 
-- c) absolventi štúdia v Slovenskej republike by nemali nárok na vydanie dokladu o vzdelaní, ak ho nevydáva zahraničná vysoká škola, ale iný na to oprávnený orgán podľa právnych predpisov členského štátu jej sídla vysokej školy, alebo
+- c) absolventi štúdia v Slovenskej republike by nemali nárok na vydanie dokladu o vzdelaní, ak ho nevydáva zahraničná vysoká škola, ale iný na to oprávnený orgán podľa právnych predpisov členského štátu jej sídla vysokej školy,
 
-- d) pôsobenie zahraničnej vysokej školy na území Slovenskej republiky by bolo podľa informácie príslušného orgánu členského štátu v rozpore s právnymi predpismi členského štátu jej sídla alebo s právnymi predpismi Slovenskej republiky,
+- d) pôsobenie zahraničnej vysokej školy na území Slovenskej republiky by bolo podľa informácie príslušného orgánu členského štátu v rozpore s právnymi predpismi členského štátu jej sídla alebo s právnymi predpismi Slovenskej republiky alebo
 
 - e) má štúdium pripravovať na výkon zdravotníckeho povolania a podľa stanoviska ministerstva zdravotníctva by jeho absolventi nespĺňali podmienky na výkon zdravotníckeho povolania podľa osobitného predpisu.<sup>35</sup>)
 
@@ -40,7 +40,7 @@
 
 (11) Ak ministerstvo školstva zistí, že zahraničná vysoká škola nepôsobí v súlade s oprávnením, vyzve zahraničnú vysokú školu, aby nedostatky odstránila v lehote do 90 dní. Ak zahraničná vysoká škola nedostatky neodstráni, ministerstvo školstva vydá rozhodnutie o odňatí oprávnenia. Odvolanie proti rozhodnutiu o odňatí oprávnenia má odkladný účinok.
 
-(12) Na zamestnancov zahraničnej vysokej školy sa ustanovenia tohto zákona nevzťahujú okrem § 74 ods. 4, § 80a a 80b. Na študenta zahraničnej vysokej školy sa ustanovenia tohto zákona nevzťahujú okrem § 73. Na zahraničné vysoké školy sa tento zákon nevzťahuje, ak nie je uvedené inak.
+(12) Na zamestnancov zahraničnej vysokej školy sa ustanovenia tohto zákona nevzťahujú okrem § 74 ods. 5, § 80a a 80b. Na študenta zahraničnej vysokej školy sa ustanovenia tohto zákona nevzťahujú okrem § 73. Na zahraničné vysoké školy sa tento zákon nevzťahuje, ak nie je uvedené inak.
 
 (13) Ministerstvo školstva na svojom webovom sídle zverejňuje informácie o udelení oprávnenia podľa odseku 1 a informácie o odňatí oprávnenia podľa odseku 1, ktoré sa stali právoplatné.
 

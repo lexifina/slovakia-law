@@ -4,9 +4,9 @@
 
 - 3) § 7 zákona č. 172/2005 Z. z. o organizácii štátnej podpory výskumu a vývoja a o doplnení zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
-- 3a) § 2 zákona č. 455/2004 Z. z. o zriadení Akadémie ozbrojených síl generála Milana Rastislava Štefánika, o zlúčení Vojenskej leteckej akadémie generála Milana Rastislava Štefánika v Košiciach s Technickou univerzitou v Košiciach, o zriadení Národnej akadémie obrany maršala Andreja Hadika a o zmene a doplnení niektorých zákonov.
-
 - 3aa) § 20f Občianskeho zákonníka.
+
+- 3ab) Zákon č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
 - 4) Čl. 102 ods. 1 písm. h) Ústavy Slovenskej republiky.
 
@@ -38,7 +38,7 @@
 
 - 16) Zákon č. 431/2002 Z. z.
 
-- 18) Zákon č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov v znení neskorších predpisov.
+- 18) Zákon č. 423/2015 Z. z. o štatutárnom audite a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov v znení neskorších predpisov.
 
 - 19) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení zákona č. 618/2004 Z. z.
 
@@ -52,6 +52,10 @@
 
 - 21) Zákon č. 183/2000 Z. z. o knižniciach, o doplnení zákona Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti a o zmene a doplnení zákona č. 68/1997 Z. z. o Matici slovenskej v znení zákona č. 416/2001 Z. z.
 
+- 21a) § 6 ods. 3 zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
+
+- 21b) § 5 zákona č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov.
+
 - 22) § 7 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
 - 22a) § 91 ods. 4 zákona č. 578/2004 Z. z.
@@ -60,13 +64,15 @@
 
 - 24) § 50 zákona č. 326/2005 Z. z. o lesoch v znení neskorších predpisov.
 
-- 25) § 2 zákona č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov.
+- 25) § 2 ods. 2 zákona č. 346/2018 Z. z. o registri mimovládnych neziskových organizácií a o zmene a doplnení niektorých zákonov.
 
-- 26) Zákon č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
+- 25a) § 2 písm. n) zákona č. 595/2003 Z. z. v znení zákona č. 344/2017 Z. z.
 
-- 27) § 136 ods. 1 zákona č. 311/2001 Z. z. Zákonník práce.
+- 25b) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
-- 28) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
+- 25c) § 136 ods. 1 Zákonníka práce.
+
+- 25d) § 20 ods. 1 písm. a) a b) zákona č. 553/2003 Z. z.
 
 - 28a) § 7 ods. 5 zákona č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky.
 
@@ -87,8 +93,6 @@
 - 32) Zákon č. 73/1998 v znení neskorších predpisov.
 
 - 33) § 27 zákona č. 578/2004 Z. z. v znení zákona č. 351/2005 Z. z.
-
-- 33c) Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 34a) Napríklad § 33 zákona č. 578/2004 Z. z. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov, zákon Slovenskej národnej rady č. 10/1992 Zb. o súkromných veterinárnych lekároch a o Komore veterinárnych lekárov Slovenskej republiky v znení neskorších predpisov, zákon č. 488/2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov.
 
@@ -150,8 +154,6 @@
 
 - 41) § 23 ods. 7 zákona č. 269/2018 Z. z.
 
-- 42) Zákon č. 311/2001 Z. z.
-
 - 43) § 18 ods. 7 zákona č. 132/2002 Z. z. o vede a technike.
 
 - 44) § 16 ods. 2 písm. b) zákona č. 172/2005 Z. z.
@@ -159,6 +161,8 @@
 - 45) § 16 ods. 2 písm. a) zákona č. 172/2005 Z. z.
 
 - 45a) § 1 ods. 2 zákona č. 184/1999 Z. z. o používaní jazykov národnostných menšín v znení zákona č. 204/2011 Z. z.
+
+- 45aa) § 26aa zákona č. 172/2005 Z. z. v znení zákona č. 137/2022 Z. z.
 
 - 45b) § 7 ods. 1 zákona č. 474/2005 Z. z. o Slovákoch žijúcich v zahraničí a o zmene a doplnení niektorých zákonov.
 
@@ -185,6 +189,8 @@
 - 49ba) § 13 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
 
 - 49c) § 29b ods. 6 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
+- 49ca) § 2 ods. 4 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov.
 
 - 49d) § 60 ods. 3 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
@@ -215,3 +221,5 @@
 - 53) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
 - 54) § 15 zákona č. 472/2000 Z. z. o štátnom rozpočte na rok 2001.
+
+- 55) § 37 ods. 1 zákona č. 269/2018 Z. z. v znení zákona č. 410/2020 Z. z.

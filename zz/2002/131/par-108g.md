@@ -26,13 +26,9 @@
 
   - 1. akademického senátu vysokej školy, na ktorej sa uskutočnilo príslušné štúdium, rigorózne konanie, habilitačné konanie alebo inauguračné konanie,
 
-  - 2. akademického senátu fakulty, na ktorej sa uskutočnilo príslušné štúdium, rigorózne konanie, habilitačné konanie alebo inauguračné konanie,
+  - 2. príslušného orgánu fakulty, na ktorej sa uskutočnilo príslušné štúdium, rigorózne konanie, habilitačné konanie alebo inauguračné konanie,
 
   - 3. vedeckej rady, umeleckej rady alebo vedeckej a umeleckej rady vysokej školy, na ktorej sa uskutočnilo príslušné štúdium, rigorózne konanie, habilitačné konanie alebo inauguračné konanie,
-
-  - 4. vedeckej rady, umeleckej rady alebo vedeckej a umeleckej rady fakulty, na ktorej sa uskutočnilo príslušné štúdium, rigorózne konanie, habilitačné konanie alebo inauguračné konanie, alebo
-
-  - 5. dekana fakulty, na ktorej sa uskutočnilo príslušné štúdium, rigorózne konanie, habilitačné konanie alebo inauguračné konanie,
 
 - c) odôvodneného návrhu ministerstva školstva,
 
@@ -48,15 +44,15 @@
 
   - 2. vedecko-pedagogického titulu alebo umelecko-pedagogického titulu „docent“, ak ide o rozhodovanie o podaní návrhu na odvolanie profesora.
 
-(7) Konanie o odňatí titulu možno začať najneskôr
+(7) Konanie o odňatí titulu možno začať
 
-- a) jeden rok odo dňa nadobudnutia právoplatnosti rozsudku podľa § 108f ods. 1 písm. a), ods. 2 písm. a), ods. 3 písm. a) alebo ods. 4 písm. a) alebo
+- a) najneskôr jeden rok odo dňa nadobudnutia právoplatnosti rozsudku podľa § 108f ods. 1 písm. a), ods. 2 písm. a), ods. 3 písm. a) alebo ods. 4 písm. a) alebo
 
-- b) päť rokov odo dňa riadneho skončenia štúdia, vykonania rigoróznej skúšky, udelenia vedecko-pedagogického titulu alebo umelecko-pedagogického titulu „docent“ alebo vymenovania za profesora, ak nejde o skutočnosť podľa písmena a).
+- b) bez časového obmedzenia, ak nejde o skutočnosť podľa písmena a).
 
 (8) Rektorovi podáva stanovisko k odňatiu titulu komisia, ktorej členov vymenúva a odvoláva rektor. Členmi komisie sú
 
-- a) štyria vysokoškolskí učitelia vo funkcii profesora alebo vo funkcii docenta, ktorí pedagogicky a vedecky pôsobia v príslušnom študijnom odbore alebo v príslušnom odbore habilitačného konania a inauguračného konania, z toho najviac dvaja zo zamestnancov príslušnej vysokej školy, navrhnutí zamestnaneckou časťou akademického senátu príslušnej vysokej školy,
+- a) štyria vysokoškolskí učitelia na funkčnom mieste profesora alebo na funkčnom mieste docenta, ktorí pedagogicky a vedecky pôsobia v príslušnom študijnom odbore alebo v príslušnom odbore habilitačného konania a inauguračného konania, z toho najviac dvaja zo zamestnancov príslušnej vysokej školy, navrhnutí zamestnaneckou časťou akademického senátu príslušnej vysokej školy,
 
 - b) dve osoby s vysokoškolským vzdelaním druhého stupňa v študijnom odbore právo, ktoré nie sú zamestnancami príslušnej vysokej školy, a
 

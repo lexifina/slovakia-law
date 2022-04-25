@@ -4,38 +4,26 @@
 
 (2) Akademický senát súkromnej vysokej školy
 
-- a) vyjadruje sa k návrhom na zriadenie, zlúčenie, splynutie, rozdelenie, zrušenie, zmenu názvu alebo zmenu sídla fakulty súkromnej vysokej školy,
+- a) vyjadruje sa k návrhom vnútorných predpisov súkromnej vysokej školy podľa § 48 ods. 1 písm. c), j), k) a l) predložených rektorom súkromnej vysokej školy a schvaľuje na návrh predsedu akademického senátu súkromnej vysokej školy vnútorné predpisy podľa § 48 ods. 1 písm. g) a h),
 
-- b) vyjadruje sa k návrhom vnútorných predpisov súkromnej vysokej školy podľa § 48 ods. 1 písm. b), c), j), k) a l) predložených rektorom súkromnej vysokej školy a schvaľuje na návrh predsedu akademického senátu súkromnej vysokej školy vnútorné predpisy podľa § 48 ods. 1 písm. g) a h),
+- b) vyjadruje sa k návrhom vnútorných predpisov súkromnej vysokej školy podľa § 48 ods. 1 písm. a), d) až f) a k návrhu vnútorných predpisov fakulty súkromnej vysokej školy,
 
-- c) vyjadruje sa k návrhom vnútorných predpisov súkromnej vysokej školy podľa § 48 písm. a), d) až f) a k návrhu vnútorných predpisov fakulty podľa § 33 ods. 2 písm. a), § 33 ods. 3 písm. a),
+- c) vyjadruje sa k návrhu rektora na vymenovanie a odvolanie prorektorov,
 
-- d) navrhuje kandidáta na rektora správnej rade súkromnej vysokej školy a navrhuje odvolanie rektora z funkcie správnej rade súkromnej vysokej školy. Správna rada súkromnej vysokej školy do 15 dní návrh kandidáta na rektora potvrdí a predloží ho ministrovi školstva alebo návrh kandidáta zamietne,
+- d) schvaľuje návrh rektora na vymenovanie a odvolanie členov vedeckej rady súkromnej vysokej školy,
 
-- e) vyjadruje sa k návrhu rektora na vymenovanie a odvolanie prorektorov,
+- e) schvaľuje výročnú správu o činnosti súkromnej vysokej školy a výročnú správu o hospodárení súkromnej vysokej školy,
 
-- f) schvaľuje návrh rektora na vymenovanie a odvolanie členov vedeckej rady súkromnej vysokej školy,
+- f) schvaľuje podmienky prijatia na štúdium predložené rektorom, ak ich schválenie nepatrí do pôsobnosti orgánu fakulty určeného štatútom súkromnej vysokej školy,
 
-- g) vyjadruje sa k návrhu rozpočtu súkromnej vysokej školy, ktorý predložil štatutárny orgán súkromnej vysokej školy,
+- g) volí zástupcu súkromnej vysokej školy do Rady vysokých škôl,
 
-- h) schvaľuje dlhodobý zámer súkromnej vysokej školy [§ 49 ods. 1 písm. c)] predložený štatutárnym orgánom po prerokovaní vo vedeckej rade súkromnej vysokej školy a jeho aktualizácii,
+- h) volí zástupcu súkromnej vysokej školy do Študentskej rady vysokých škôl; tohto zástupcu volí len jeho študentská časť,
 
-- i) schvaľuje výročnú správu o činnosti a výročnú správu o hospodárení,
+- i) podáva raz ročne akademickej obci súkromnej vysokej školy správu o svojej činnosti, ktorú zverejní na webovom sídle súkromnej vysokej školy najmenej na štyri roky,
 
-- j) schvaľuje podmienky prijatia na štúdium predložené rektorom, ak ich schválenie nepatrí do pôsobnosti akademického senátu fakulty,
+- j) vykonáva za podmienok a v rozsahu ustanovenom štatútom súkromnej vysokej školy počas nevyhnutnej doby pôsobnosť orgánu fakulty určeného štatútom súkromnej vysokej školy,
 
-- k) vyjadruje sa k návrhu vnútorného systému súkromnej vysokej školy na návrh rektora súkromnej vysokej školy pred jeho predložením vedeckej rade súkromnej vysokej školy,
+- k) plní iné úlohy podľa tohto zákona a vnútorných predpisov súkromnej vysokej školy.
 
-- l) vyjadruje sa k návrhu štatutárneho orgánu na zriadenie, zmenu názvu, zlúčenie, splynutie, rozdelenie alebo zrušenie súčastí súkromnej vysokej školy, ktoré nie sú fakultami,
-
-- m) volí zástupcu súkromnej vysokej školy do Rady vysokých škôl (§ 107 ods. 3),
-
-- n) volí zástupcu súkromnej vysokej školy do Študentskej rady vysokých škôl (§ 107 ods. 4); tohto zástupcu volí len jeho študentská časť,
-
-- o) raz za rok podáva akademickej obci súkromnej vysokej školy správu o svojej činnosti, ktorú zverejní na webovom sídle súkromnej vysokej školy najmenej na štyri roky,
-
-- p) za podmienok a v rozsahu ustanovenom štatútom súkromnej vysokej školy vykonáva počas nevyhnutnej doby pôsobnosť akademického senátu fakulty,
-
-- q) plní iné úlohy podľa tohto zákona a vnútorných predpisov súkromnej vysokej školy.
-
-(3) Akademický senát súkromnej vysokej školy v otázkach uvedených v odseku 2 písm. d) a f) rozhoduje tajným hlasovaním, ako aj v ostatných otázkach uvedených v odseku 2, ak o tajnom hlasovaní v danej veci rozhodne.
+(3) Akademický senát súkromnej vysokej školy v otázkach uvedených v odseku 2 písm. d), g) a h) rozhoduje tajným hlasovaním; pri výkone ostatných pôsobností podľa odseku 2 môže rozhodovať tajným hlasovaním podľa potreby.
