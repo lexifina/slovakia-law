@@ -40,6 +40,8 @@
 
 - 13ab) § 2 písm. c) zákona č. 526/2010 Z. z. o poskytovaní dotácií v pôsobnosti Ministerstva vnútra Slovenskej republiky v znení zákona č. 146/2017 Z. z.
 
+- 13ac) § 12 ods. 2 a 3 zákona č. 172/2005 Z. z. o organizácii štátnej podpory výskumu a vývoja a o doplnení zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov v znení neskorších predpisov.
+
 - 13b) Zákon č. 543/2007 Z. z. o pôsobnosti orgánov štátnej správy pri poskytovaní podpory v pôdohospodárstve a rozvoji vidieka v znení neskorších predpisov.
 
 - 14) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
