@@ -2,7 +2,7 @@
 
 (1) V čase mimoriadnej situácie, núdzového stavu alebo výnimočného stavu minister školstva môže
 
-- a) predĺžiť dobu poskytovania finančných prostriedkov nad rozsah podľa § 12 ods. 7, a to najviac o šesť mesiacov,
+- a) predĺžiť dobu poskytovania finančných prostriedkov nad rozsah podľa § 12 ods. 8, a to najviac o šesť mesiacov,
 
 - b) zmeniť náležitosti vyhlásenej verejnej výzvy podľa § 18 ods. 2, a to aj po uplynutí dátumu predloženia žiadosti a
 

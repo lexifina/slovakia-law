@@ -12,7 +12,7 @@
 
 (4) Žiadateľom o dotáciu môže byť právnická osoba alebo fyzická osoba - podnikateľ.
 
-(5) Dotáciu možno poskytnúť žiadateľovi, ktorý je bezúhonný podľa § 14 ods. 3, spĺňa podmienky podľa tohto zákona a podľa osobitného predpisu.<sup>12b</sup>) Bezúhonnosť sa preukazuje výpisom z registra trestov. Na účel preukázania bezúhonnosti žiadateľ poskytne údaje potrebné na vyžiadanie výpisu z registra trestov.<sup>12ba</sup>) Údaje podľa tretej vety ministerstvo bezodkladne zašle v elektronickej podobe prostredníctvom elektronickej komunikácie Generálnej prokuratúre Slovenskej republiky na vydanie výpisu z registra trestov.
+(5) Dotáciu možno poskytnúť žiadateľovi, ktorý je bezúhonný, spĺňa podmienky podľa tohto zákona a podľa osobitného predpisu.<sup>12b</sup>) Bezúhonnosť sa preukazuje výpisom z registra trestov. Na účel preukázania bezúhonnosti žiadateľ poskytne údaje potrebné na vyžiadanie výpisu z registra trestov.<sup>12ba</sup>) Údaje podľa tretej vety ministerstvo školstva bezodkladne zašle v elektronickej podobe prostredníctvom elektronickej komunikácie Generálnej prokuratúre Slovenskej republiky na vydanie výpisu z registra trestov.
 
 (6) Dotáciu, ktorá je štátnou pomocou,<sup>12c</sup>) možno poskytnúť žiadateľovi, ak spĺňa podmienky podľa tohto zákona a podľa osobitného predpisu.<sup>12d</sup>)
 

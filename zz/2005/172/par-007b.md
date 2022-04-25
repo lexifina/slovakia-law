@@ -1,6 +1,6 @@
 # § 7b Špecializovaná organizácia vedy a techniky
 
-(1) Špecializovaná organizácia vedy a techniky je obchodná spoločnosť,<sup>9a</sup>) ktorej hlavnou činnosťou je podpora činností zameraných na prenos výsledkov aplikovaného výskumu alebo výsledkov vývoja do praxe a poskytovanie vedecko-technických služieb podľa § 8 ods. 2 a podľa § 24 ods. 1 písm. e).
+(1) Špecializovaná organizácia vedy a techniky je obchodná spoločnosť,<sup>9a</sup>) ktorej hlavnou činnosťou je podpora činností zameraných na prenos výsledkov aplikovaného výskumu alebo výsledkov vývoja do praxe a poskytovanie vedecko-technických služieb podľa § 8 ods. 2.
 
 (2) Špecializované organizácie vedy a techniky sú
 
@@ -24,7 +24,7 @@
 
 (5) Výskumno-vývojové centrum zabezpečuje využitie výsledkov výskumu a vývoja vykonávaného právnickou osobou podľa § 7 vo vlastnej výrobnej praxi. Zakladateľmi a spoločníkmi výskumno-vývojového centra sú podnikateľ<sup>9</sup>) a právnická osoba podľa § 7, ktorej výsledky výskumu a vývoja sa budú využívať vo výrobnej praxi výskumno-vývojového centra.
 
-(6) Technologický inkubátor vytvára podporné prostredie pre začínajúcich malých podnikateľov, ktorí využívajú výsledky výskumu a vývoja pre inováciu tovarov a služieb alebo samy vykonávajú výskum a vývoj. Technologický inkubátor poskytuje začínajúcim malým podnikateľom okrem podpory podľa odseku 3 aj
+(6) Technologický inkubátor vytvára podporné prostredie pre začínajúcich malých podnikateľov, ktorí využívajú výsledky výskumu a vývoja pre inováciu tovarov a služieb alebo samy vykonávajú výskum a vývoj. Technologický inkubátor poskytuje začínajúcim malým podnikateľom okrem podpory podľa odseku 3 najmä
 
 - a) poradenstvo pri začiatku podnikania,
 
@@ -36,7 +36,7 @@
 
 - e) služby pre podporu exportu.
 
-(7) Technologický inkubátor poskytuje podporu začínajúcim malým podnikateľom najviac tri roky od získania ich oprávnenia podnikať.
+(7) Doba poskytovania podpory malému podnikateľovi v technologickom inkubátore nesmie presiahnuť tri roky.
 
 (8) Vznik špecializovaných výskumných a vývojových pracovísk na vysokých školách upravuje osobitný predpis.<sup>9b</sup>)
 
