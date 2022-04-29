@@ -1,0 +1,1 @@
+[Zmluva medzi Slovenskou republikoua Ukrajinou o zmene a doplnení Zmluvy medzi Slovenskourepublikou a Ukrajinou o malom pohraničnom styku](../assets/a7034c7fa24c170fa9127ecf709fc489efd1ea5205e71f9d92f5540a5c27e8f5.pdf)
