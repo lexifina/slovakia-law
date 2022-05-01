@@ -1,3 +1,3 @@
 Príloha č. 4 k zákonu č. 576/2004 Z. z. v znení zákona č. 662/2007 Z. z.
 
-- Poučenie a písomný informovaný súhlas pacienta podľa § 6 zákona č. 576/2004 Z. z. [Príloha č. 4 k zákonu č. 576/2004 Z. z.](../assets/d8fe327cf5344782b4a7d6bb00571ad63dbabedf54b5ce10a7bfe19b41705131.pdf)
+- Poučenie a písomný informovaný súhlas pacienta podľa § 6 zákona č. 576/2004 Z. z. [Príloha č. 4 k zákonu č. 576/2004 Z. z.](../assets/5b33d8d9773d46095c4266b2ce397c5a1a02c4630155cefc96e739f008887bec.pdf)
