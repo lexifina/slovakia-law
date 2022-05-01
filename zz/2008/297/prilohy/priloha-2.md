@@ -14,9 +14,11 @@ Príloha č. 2 k zákonu č. 297/2008 Z. z.
 
     - e) klient, ktorý je štátnym príslušníkom tretej krajiny a ktorý žiada o právo na pobyt alebo o občianstvo v členskom štáte výmenou za prevody kapitálu, nákup majetku alebo vládnych dlhopisov, alebo za investície do podnikateľských subjektov v danom členskom štáte,
 
-    - f) klient pri svojej podnikateľskej činnosti intenzívne využíva hotovosť, alebo
+    - f) klient pri svojej činnosti intenzívne využíva hotovosť,
 
-    - g) vlastnícka štruktúra klienta sa javí ako neobvyklá alebo nadmerne zložitá so zreteľom na povahu jeho obchodnej činnosti.
+    - g) vlastnícka štruktúra klienta sa javí ako neobvyklá alebo nadmerne zložitá so zreteľom na povahu jeho obchodnej činnosti, alebo
+
+    - h) klient je osobou oprávnenou zo životného poistenia.
 
   - 2) Rizikové faktory z hľadiska produktu, služby, obchodu alebo distribučného kanála:
 

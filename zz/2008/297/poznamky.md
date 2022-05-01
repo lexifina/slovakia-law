@@ -148,6 +148,10 @@
 
 - 53c) Napríklad § 4 zákona č. 394/2012 Z. z. o obmedzení platieb v hotovosti, čl. 4 až 6 nariadenia Európskeho parlamentu a Rady (EÚ) 2015/847 z 20. mája 2015 o údajoch sprevádzajúcich prevody finančných prostriedkov, ktorým sa zrušuje nariadenie (ES) č. 1781/2006 (Ú. v. EÚ L 141, 5. 6. 2015), zákon č. 289/2016 Z. z. o vykonávaní medzinárodných sankcií a o doplnení zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov.
 
+- 53d) Príloha I k nariadeniu Európskeho parlamentu a Rady (EÚ) 2016/794 z 11. mája 2016 o Agentúre Európskej únie pre spoluprácu v oblasti presadzovania práva (Europol), ktorým sa nahrádzajú a zrušujú rozhodnutia Rady 2009/371/SVV, 2009/934/SVV, 2009/935/SVV, 2009/936/SVV a 2009/968/SVV (Ú. v. EÚ L 135, 24. 5. 2016) v platnom znení.
+
+- 53e) § 4 ods. 1 zákona č. 123/2022 Z. z. o centrálnom registri účtov a o zmene a doplnení niektorých zákonov.
+
 - 54) § 1 ods. 3 písm. a) zákona č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 2 písm. n) zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z.
 
 - 56) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.

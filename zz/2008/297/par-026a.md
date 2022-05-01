@@ -4,6 +4,6 @@
 
 (2) Posudzovanie rizík podľa odseku 1 zohľadňuje rizikové faktory uvedené v prílohe č. 2, ako aj hodnotenie rizík vypracované orgánmi Európskej únie a ďalšími medzinárodnými inštitúciami.
 
-(3) Národné hodnotenie rizík sa aktualizuje najmä s ohľadom na vývoj rizík legalizácie a financovania terorizmu a s ohľadom na činnosť orgánov Európskej únie.
+(3) Národné hodnotenie rizík sa aktualizuje najmä s ohľadom na vývoj rizík legalizácie a financovania terorizmu a s ohľadom na činnosť orgánov Európskej únie. Aktualizované národné hodnotenie rizík sa predkladá vláde Slovenskej republiky na schválenie najneskôr štyri roky od predchádzajúceho schválenia.
 
 (4) Finančná spravodajská jednotka poskytne výsledky národného hodnotenia rizík výboru Rady Európy, Európskej komisii, účastníkom Európskeho systému finančného dohľadu a iným členským štátom na účely predchádzania legalizácii a financovania terorizmu. Finančná spravodajská jednotka zverejní záverečnú správu z národného hodnotenia rizík na svojom webovom sídle. Finančná spravodajská jednotka priebežne informuje povinné osoby o rizikách identifikovaných v národnom hodnotení rizík a o opatreniach vykonávaných k ich zmierňovaniu.
