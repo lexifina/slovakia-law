@@ -656,6 +656,8 @@
 
 - 97bb) Zákon č. 359/2015 Z. z. o automatickej výmene informácií o finančných účtoch na účely správy daní a o zmene a doplnení niektorých zákonov.
 
+- 97bc) § 4 zákona č. 123/2022 Z. z. o centrálnom registri účtov a o zmene a doplnení niektorých zákonov.
+
 - 97c) § 6 zákona č. 375/2015 Z. z.
 
 - 98) § 159 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
