@@ -850,6 +850,10 @@
 
 - 86dn) § 73b zákona Slovenskej národnej rady č. 323/1992 Zb. v znení zákona č. 357/2003 Z. z.
 
+- 86do) Čl. 7 ods. 3a nariadenia Európskeho parlamentu a Rady (EÚ, EURATOM) č. 883/2013 z 11. septembra 2013 o vyšetrovaniach vykonávaných Európskym úradom pre boj proti podvodom (OLAF), ktorým sa zrušuje nariadenie Európskeho parlamentu a Rady (ES) č. 1073/1999 a nariadenie Rady (Euratom) č. 1074/1999 (Ú. v. EÚ L 248, 18. 9. 2013) v platnom znení.
+
+- 86dp) Napríklad Trestný poriadok, § 29a ods. 4 a § 76 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov, § 11 ods. 2 zákona č. 199/2004 Z. z. v znení zákona č. 672/2006 Z. z., § 4 ods. 5 písm. c) zákona č. 101/2010 Z. z., zákon č. 35/2019 Z. z. v znení neskorších predpisov.
+
 - 86e) Zákon č. 126/2011 Z. z.
 
 - 86f) § 20f až 20j Občianskeho zákonníka.
@@ -863,6 +867,8 @@
 - 86i) § 20 ods. 1 písm. a) zákona č. 129/2010 Z. z. v znení zákona č. 35/2015 Z. z.
 
 - 86j) Zákon č. 69/2018 Z. z. o kybernetickej bezpečnosti a o zmene a doplnení niektorých zákonov.
+
+- 86k) § 4 zákona č. 123/2022 Z. z. o centrálnom registri účtov a o zmene a doplnení niektorých zákonov.
 
 - 87) Napríklad zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch v znení zákona č. 238/2000 Z. z., zákon č. 466/2002 Z. z.
 
