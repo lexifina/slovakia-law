@@ -184,21 +184,23 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - m) ročný poplatok správcu-právnickej osoby za každý rok trvania zápisu v zozname správcov podľa osobitného predpisu,<sup>10b</sup>) za každého spoločníka ..... | 165,50 eura
 
-  - n) výpis zo zoznamu správcov podľa osobitného predpisu,<sup>10b</sup>) za každú stranu ..... | 1,50 eura
+  - n) vykonanie špeciálnej správcovskej skúšky<sup>10b</sup>) | 5 000 eur
 
-  - o) zápis spoločníka do zoznamu správcov, ktorý pristúpil do právnickej osoby zapísanej do zoznamu správcov ..... | 200 eur
+  - o) výpis zo zoznamu správcov podľa osobitného predpisu,<sup>10b</sup>) za každú stranu ..... | 1,50 eura
 
-  - p) iná zmena údajov zapísaných v zozname správcov ..... | 10 eur
+  - p) zápis spoločníka do zoznamu správcov, ktorý pristúpil do právnickej osoby zapísanej do zoznamu správcov ..... | 200 eur
 
-  - q) Konanie o udelenie povolenia rozhodovať spotrebiteľské spory zriaďovateľovi stáleho rozhodcovského súdu | 3 000 eur
+  - q) iná zmena údajov zapísaných v zozname správcov ..... | 10 eur
 
-  - r) Konanie o udelenie povolenia rozhodovať spotrebiteľské spory rozhodcovi | 500 eur
+  - r) Konanie o udelenie povolenia rozhodovať spotrebiteľské spory zriaďovateľovi stáleho rozhodcovského súdu | 3 000 eur
 
-  - s) Vykonanie skúšky odbornej spôsobilosti rozhodcu podľa osobitného predpisu | 300 eur
+  - s) Konanie o udelenie povolenia rozhodovať spotrebiteľské spory rozhodcovi | 500 eur
 
-  - t) Výpis zo zoznamu rozhodcov oprávnených rozhodovať spotrebiteľské spory, za každú stranu | 1,50 eura
+  - t) Vykonanie skúšky odbornej spôsobilosti rozhodcu podľa osobitného predpisu | 300 eur
 
-  - u) Výpis zo zoznamu stálych rozhodcovských súdov oprávnených rozhodovať spotrebiteľské spory, za každú stranu | 1,50 eura
+  - u) Výpis zo zoznamu rozhodcov oprávnených rozhodovať spotrebiteľské spory, za každú stranu | 1,50 eura
+
+  - v) Výpis zo zoznamu stálych rozhodcovských súdov oprávnených rozhodovať spotrebiteľské spory, za každú stranu | 1,50 eura
 
   - Poznámka Poplatok podľa písmena c) tejto položky sa vyberie po vykonaní úkonu na základe ústnej alebo písomnej výzvy. Ročný poplatok správcu je splatný do 90 dní od uplynutia roka, za ktorý sa poplatok vyberá. Správca-fyzická osoba nemá povinnosť platiť ročný poplatok správcu, ak je spoločníkom správcu-právnickej osoby. Ročný poplatok správcu sa nevyberá za obdobie, počas ktorého má správca pozastavený výkon správcovskej činnosti. |
 
@@ -5042,7 +5044,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - f) Vydanie dovozného, vývozného alebo tranzitného povolenia na omamné látky, psychotropné látky a prípravky s obsahom omamných látok alebo psychotropných látok ..... | 33 eur
 
-  - g) Vydanie povolenia na vývoz určených látok alebo povolenia na dovoz určených látok alebo jednorazového povolenia na dovoz obmedzených prekurzorov výbušnín podľa osobitného predpisu<sup>36u</sup>) ..... | 33 eur
+  - g) Vydanie povolenia na vývoz určených látok alebo povolenia na dovoz určených látok ..... | 33 eur
 
   - h) Vydanie licencie na dovoz alebo vývoz vybraných chemických látok a prípravkov podľa osobitného predpisu<sup>36n</sup>) ..... | 33 eur
 
