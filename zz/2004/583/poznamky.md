@@ -70,6 +70,10 @@
 
 - 22b) § 18 ods. 3 písm. c) zákona č. 284/2014 Z. z. o Fonde na podporu umenia a o zmene a doplnení zákona č. 434/2010 Z. z. o poskytovaní dotácií v pôsobnosti Ministerstva kultúry Slovenskej republiky v znení zákona č. 79/2013 Z. z.
 
+- 22c) § 3 písm. g) zákona č. 323/2015 Z. z. o finančných nástrojoch financovaných z európskych štrukturálnych a investičných fondov a o zmene a doplnení niektorých zákonov.
+
+- § 3 písm. l) zákona č. 121/2022 Z. z. o príspevkoch z fondov Európskej únie a o zmene a doplnení niektorých zákonov.
+
 - 23) § 6 ods. 1 zákona č. 150/2013 Z. z. o Štátnom fonde rozvoja bývania zákona v znení neskorších predpisov.
 
 - 23a) § 66 a 97 zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
