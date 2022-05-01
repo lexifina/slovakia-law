@@ -22,6 +22,10 @@
 
 - 10a) § 40 ods. 1 zákona č. 7/2005 Z. z.
 
+- 10aab) Položka 5 písm. n) Prílohy zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení zákona č. 111/2022 Z. z.
+
+- 10aac) § 3 ods. 10 zákona č. 548/2003 Z. z. o Justičnej akadémii a o zmene a doplnení niektorých zákonov v znení zákona č. 111/2022 Z. z.
+
 - 11) Zákon č. 466/2002 Z. z. o audítoroch a Slovenskej komore audítorov.
 
 - Zákon Slovenskej národnej rady č. 78/1992 Zb. o daňových poradcoch a Slovenskej komore daňových poradcov v znení neskorších predpisov.
