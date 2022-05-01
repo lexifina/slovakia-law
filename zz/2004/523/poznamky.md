@@ -6,6 +6,8 @@
 
 - § 9 zákona č. 292/2014 Z. z.
 
+- 2a) § 6 zákona č. 121/2022 Z. z. o príspevkoch z fondov Európskej únie a o zmene a doplnení niektorých zákonov.
+
 - 3) § 19 až 21 zákona č. 540/2001 Z. z. o štátnej štatistike.
 
 - 4) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -149,6 +151,10 @@
 - 24ac) § 5 ods. 7 zákona č. 343/2015 Z. z.
 
 - Vyhláška Úradu pre verejné obstarávanie č. 118/2018 Z. z., ktorou sa ustanovuje finančný limit pre nadlimitnú zákazku, finančný limit pre nadlimitnú koncesiu a finančný limit pri súťaži návrhov.
+
+- 24aca) § 3 písm. f) zákona č. 323/2015 Z. z. o finančných nástrojoch financovaných z európskych štrukturálnych a investičných fondov a o zmene a doplnení niektorých zákonov.
+
+- § 3 písm. k) zákona č. 121/2022 Z. z.
 
 - 24ad) Čl. 2 ods. 87 nariadenia Komisie (EÚ) č. 651/2014 zo 17. júna 2014 o vyhlásení určitých kategórií pomoci za zlučiteľné s vnútorným trhom podľa článkov 107 a 108 zmluvy (Ú. v. EÚ L 187/1, 26. 6. 2014) v platnom znení.
 
