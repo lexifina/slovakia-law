@@ -2,6 +2,8 @@
 
 - 3) Zákon č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení zákona č. 84/2014 Z. z.
 
+- 3a) § 18 zákona č. 8/2005 Z. z. o správcoch a o zmene a doplnení niektorých zákonov v znení zákona č. 111/2022 Z. z.
+
 - 4) Zákon č. 311/1999 Z. z. o registri trestov v znení neskorších predpisov.
 
 - 4a) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
