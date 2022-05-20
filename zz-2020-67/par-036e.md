@@ -1,0 +1,5 @@
+# § 36e
+
+(1) Počas obdobia pandémie nebude v roku 2021 spoločenstvo vlastníkov bytov a nebytových priestorov v bytovom dome alebo v nebytovej budove alebo právnická osoba alebo fyzická osoba, s ktorou vlastníci bytov a nebytových priestorov v bytovom dome alebo v nebytovej budove uzatvorili zmluvu o výkone správy, v omeškaní s povinnosťou predložiť vlastníkom bytov a nebytových priestorov v bytovom dome alebo v nebytovej budove (ďalej len „vlastníci“) správu o svojej činnosti za predchádzajúci rok týkajúcej sa bytového domu alebo nebytovej budovy a vyúčtovanie použitia fondu prevádzky, údržby a opráv, úhrad za plnenia rozúčtované na jednotlivé byty a nebytové priestory v bytovom dome alebo v nebytovej budove v lehote podľa osobitného predpisu,<sup>59g</sup>) ak z dôvodu negatívnych podmienok výkonu správy počas pandémie predložia takúto správu a takéto vyúčtovanie do 31. júla 2021.
+
+(2) Ustanovením odseku 1 nie sú dotknuté práva a povinnosti vyplývajúce z predloženého vyúčtovania použitia fondu prevádzky, údržby a opráv a úhrad za plnenia.

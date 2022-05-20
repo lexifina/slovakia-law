@@ -1,0 +1,3 @@
+# § 24h Zmeškanie lehoty pre splatnosť nákladov v súvislosti s presadzovaním práv duševného vlastníctva colnými orgánmi
+
+Pri rozhodovaní o zrušení rozhodnutia, ktorým bola schválená žiadosť o prijatie opatrenia proti porušovaniu práv duševného vlastníctva pri tovare, ktorý sa nachádza na domácom trhu,<sup>40m</sup>) z dôvodu, že držiteľ rozhodnutia opakovane v lehote splatnosti neuhradil náklady v súvislosti s prijatím takéhoto opatrenia,<sup>40n</sup>) finančné riaditeľstvo neprihliadne na omeškanie od začatia obdobia pandémie do konca kalendárneho mesiaca nasledujúceho po skončení obdobia pandémie, ak tieto náklady boli uhradené do konca kalendárneho mesiaca nasledujúceho po skončení obdobia pandémie.

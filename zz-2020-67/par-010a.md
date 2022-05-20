@@ -1,0 +1,3 @@
+# § 10a Daňové preplatky
+
+Daňový preplatok na dani z príjmov, ktorý si daňový subjekt uplatní v daňovom priznaní k dani z príjmov podanom počas obdobia pandémie, správca dane daňovému subjektu vráti do 40 dní od konca kalendárneho mesiaca, v ktorom daňový subjekt podal daňové priznanie k dani z príjmov. Daňový preplatok na dani z príjmov, ktorý si daňový subjekt uplatnil v daňovom priznaní k dani z príjmov za zdaňovacie obdobie, ktorým je kalendárny rok 2019, podanom od 1. januára 2020 do začatia obdobia pandémie, správca dane daňovému subjektu vráti do 40 dní od 31. marca 2020. Ustanovenia osobitného predpisu o použití daňového preplatku<sup>8b</sup>) tým nie sú dotknuté.

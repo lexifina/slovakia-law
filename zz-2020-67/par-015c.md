@@ -1,0 +1,7 @@
+# § 15c Osobitné ustanovenia na ochranu verejného zdravia
+
+(1) Ak počas účinnosti opatrenia na predchádzanie vzniku a šíreniu prenosných ochorení alebo opatrenia pri ohrození verejného zdravia nariadených príslušným orgánom verejného zdravotníctva vydaných na základe osobitného predpisu, ktorým sa pre zamestnávateľa upravuje dočasné podmieňovanie vstupu na pracovisko príslušným dokladom, príslušník finančnej správy nepredložil služobnému úradu príslušný doklad preukazujúci skutočnosti podľa osobitného predpisu, alebo príslušník finančnej správy, ktorý nepredložil tento doklad, odmietol možnosť bezplatného otestovania ponúknutú služobným úradom a služobný úrad mu z tohto dôvodu neumožnil vstup na pracovisko a výkon štátnej služby, príslušníkovi finančnej správy sa poskytne služobné voľno bez nároku na služobný plat.
+
+(2) Ak nie sú splnené podmienky na uplatnenie odseku 1, služobný úrad môže dočasne podmieniť vstup na pracovisko predložením príslušného dokladu príslušníka finančnej správy preukazujúceho skutočnosti podľa osobitného predpisu alebo bezplatným otestovaním príslušníka finančnej správy, ak je to nevyhnutné na účely zabezpečenia ochrany zdravia pri práci podľa osobitných predpisov vrátane takého spôsobu organizácie výkonu štátnej služby, ktorý vylúči alebo zníži nebezpečenstvo šírenia nebezpečnej nákazlivej ľudskej choroby COVID-19.
+
+(3) Ustanovenia odsekov 1 a 2 sa od 1. mája 2022 nepoužijú.

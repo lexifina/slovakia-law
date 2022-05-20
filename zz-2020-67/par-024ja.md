@@ -1,0 +1,3 @@
+# § 24ja Uplatnenie nulovej sadzby dane z pridanej hodnoty
+
+Do 30. júna 2021 sa nulová sadzba dane z pridanej hodnoty uplatňuje na osobný ochranný prostriedok, ktorý je určeným výrobkom podľa osobitného predpisu,<sup>40qa</sup>) patrí do skupiny osobných ochranných prostriedkov rizikovej kategórie III podľa osobitného predpisu<sup>40qb</sup>) a slúži na ochranu dýchacích orgánov pred látkami a zmesami, ktoré sú nebezpečné pre zdravie, a pred škodlivými biologickými faktormi podľa osobitného predpisu,<sup>40qc</sup>) a ktorý je filtračnou tvárovou polmaskou kategórie FFP2 alebo filtračnou tvárovou polmaskou kategórie FFP3.

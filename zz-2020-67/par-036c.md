@@ -1,0 +1,11 @@
+## ŠIESTA ČASŤ
+
+## OPATRENIA V OBLASTI MAJETKU VEREJNEJ SPRÁVY A SPRÁVY BYTOV A NEBYTOVÝCH PRIESTOROV
+
+# § 36c
+
+(1) Ak má osoba, voči ktorej má štát právo na peňažné plnenie (ďalej len „dlžník štátu“), uzavretú dohodu o splátkach podľa osobitného predpisu,<sup>59d</sup>) ale z dôvodu negatívnych následkov pandémie neuhradí splátku vo výške a v lehote dohodnutej v dohode o splátkach, čím sa stane splatným celý dlh, správca pohľadávky štátu<sup>59d</sup>) je oprávnený uzavrieť počas obdobia pandémie s dlžníkom štátu novú dohodu o splátkach podľa osobitného predpisu,<sup>59d</sup>) ak sa v nej dlžník štátu zaviaže, že najneskôr do konca tretieho kalendárneho mesiaca nasledujúceho po skončení obdobia pandémie začne uhrádzať splátky podľa podmienok dohodnutých v novej dohode o splátkach. Ak hrozí zánik práva na vymáhanie pohľadávky štátu z dôvodu uplynutia lehoty podľa osobitného predpisu,<sup>59d</sup>) správca pohľadávky štátu je v novej dohode o splátkach povinný dohodnúť podmienky splácania pohľadávky štátu tak, aby nezaniklo právo na vymáhanie pohľadávky štátu.
+
+(2) Ak dlžník štátu uzavrie so správcom pohľadávky štátu novú dohodu o splátkach podľa odseku 1, nie je v omeškaní s úhradou splátok po dobu od začatia obdobia pandémie až do splatnosti prvej splátky dohodnutej v novej dohode o splátkach.
+
+(3) Počas obdobia pandémie sa na nakladanie s hnuteľným majetkom štátu, ktorý je potrebný na zamedzenie šírenia pandémie vrátane predaja alebo darovania liekov alebo zdravotníckych pomôcok do zahraničia, zmiernenie negatívnych následkov pandémie alebo na poskytovanie zdravotnej starostlivosti, nepoužije postup podľa osobitného predpisu.<sup>59e</sup>) Pri takomto nakladaní je správca povinný postupovať účelne, hospodárne a v súlade s verejným záujmom; darovanie hnuteľného majetku štátu na účely podľa prvej vety vo verejnom záujme, najmä testov, liekov a ochranných pomôcok, sa nepovažuje za nehospodárne nakladanie. Na platnosť zmluvy uzavretej počas obdobia pandémie, ktorej predmetom je nakladanie s hnuteľným majetkom štátu podľa prvej vety, sa súhlas podľa osobitného predpisu nevyžaduje.<sup>59e</sup>) Rozhodnutie o prebytočnosti alebo dočasnej prebytočnosti tohto hnuteľného majetku štátu podľa osobitného predpisu<sup>59f</sup>) sa nevydáva.

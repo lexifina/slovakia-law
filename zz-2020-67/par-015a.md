@@ -1,0 +1,3 @@
+# § 15a Služobné voľno pri starostlivosti ozbrojeného príslušníka finančnej správy o dieťa
+
+Pri starostlivosti o dieťa mladšie ako 11 rokov z dôvodu, že detské výchovné zariadenie, v ktorého starostlivosti dieťa inak je, alebo škola, do ktorej chodí, boli uzatvorené podľa nariadenia príslušných orgánov, poskytne nadriadený počas obdobia pandémie ozbrojenému príslušníkovi finančnej správy služobné voľno s nárokom na služobný plat vo výške 100 % naposledy priznaného služobného platu najviac na dobu prvých 7 dní, ak potreba starostlivosti počas nich trvá. V tom istom prípade starostlivosti o dieťa sa služobné voľno poskytne len raz a len jednému z oprávnených.
