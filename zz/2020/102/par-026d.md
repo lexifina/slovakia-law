@@ -1,0 +1,3 @@
+# § 26d Prechodné ustanovenie k úpravám účinným od 20. mája 2022
+
+Prehodnotenie príjmu pri opakovaných peňažných príspevkoch na kompenzáciu podľa osobitného predpisu<sup>47</sup>) za rok 2021 sa vykoná v septembri 2022. Takto zistený príjem platí do konca júna 2023. Na účel poskytovania opakovaných peňažných príspevkov na kompenzáciu sa do uplatnenia prehodnoteného príjmu podľa prvej vety uplatňuje príjem platný na základe posledného prehodnotenia alebo zisťovania. Prehodnotenie príjmu pri opakovaných peňažných príspevkoch na kompenzáciu podľa osobitného predpisu<sup>47</sup>) za rok 2019 a 2020 sa nevykoná.
