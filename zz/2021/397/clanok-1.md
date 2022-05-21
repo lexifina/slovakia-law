@@ -428,7 +428,11 @@ Zákon č. 56/2012 Z. z. o cestnej doprave v znení zákona č. 317/2012 Z. z., 
 
 - (2)
 
-- Odosielateľ, zasielateľ, dodávateľ a subdodávateľ je povinný rešpektovať pri objednávaní dopravných služieb povinnosti, ktoré vyplývajú pre prevádzkovateľov cestnej dopravy z osobitného predpisu.<sup>62b</sup>)“.
+- Odosielateľ, zasielateľ, dodávateľ a subdodávateľ je povinný rešpektovať pri objednávaní dopravných služieb povinnosti, ktoré vyplývajú pre prevádzkovateľov cestnej dopravy z osobitného predpisu.<sup>62b</sup>)
+
+- (3)
+
+- Prevádzkovateľ cestnej dopravy vykonávajúci medzinárodnú dopravu motorovými vozidlami alebo jazdnými súpravami, ktorých najväčšia prípustná celková hmotnosť presahuje 2,5 tony a nepresahuje 3,5 tony, je povinný mať udelené povolenie prevádzkovateľa cestnej dopravy a byť držiteľom licencie Spoločenstva.“.
 
 - 39. V § 56i odsek 1 znie:
 
