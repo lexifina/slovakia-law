@@ -768,6 +768,40 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
   - „<sup>25a</sup>) § 35 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
 
+- 75. V § 22 sa odsek 2 dopĺňa písmenom c), ktoré znie:
+
+- „c)
+
+- diagnostické zdravotnícke pomôcky in vitro na samotestovanie triedy B a triedy C,<sup>26a</sup>) ktoré spĺňajú požiadavky na uvedenie na trh podľa osobitného predpisu.<sup>26b</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 26a a 26b znejú:
+
+  - „<sup>26a</sup>) Čl. 47 nariadenia Európskeho parlamentu a Rady (EÚ) 2017/746 z 5. apríla 2017 o diagnostických zdravotníckych pomôckach in vitro a o zrušení smernice 98/79/ES a rozhodnutia Komisie 2010/227/EÚ (Ú. v. EÚ L 117, 5. 5. 2017) v platnom znení.
+
+  - <sup>26b</sup>) Nariadenie (EÚ) 2017/746.“.
+
+- 76. V § 22 odsek 3 znie:
+
+- „(3)
+
+- Internetový výdaj, a to aj do zahraničia, môže vykonávať len držiteľ povolenia na poskytovanie lekárenskej starostlivosti vo verejnej lekárni, ak ide o výdaj humánneho lieku, veterinárneho lieku, zdravotníckej pomôcky alebo diagnostickej zdravotníckej pomôcky in vitro alebo držiteľ povolenia na poskytovanie lekárenskej starostlivosti vo výdajni zdravotníckych pomôcok, ak ide o výdaj zdravotníckej pomôcky alebo diagnostickej zdravotníckej pomôcky in vitro. Iným fyzickým osobám alebo právnickým osobám sa vykonávanie internetového výdaja zakazuje.“.
+
+- 77. V § 22 sa odsek 6 dopĺňa písmenom c), ktoré znie:
+
+- „c)
+
+- diagnostické zdravotnícke pomôcky in vitro na samotestovanie triedy B a triedy C,<sup>26a</sup>) ktoré spĺňajú požiadavky na uvedenie na trh podľa osobitného predpisu.<sup>42eb</sup>)“.
+
+- 78. V § 22 ods. 7 písm. a) prvom bode sa slová „humánny liek alebo zdravotnícku pomôcku“ nahrádzajú slovami „humánny liek, zdravotnícku pomôcku alebo diagnostickú zdravotnícku pomôcku in vitro“.
+
+- 79. V § 22 sa odsek 7 dopĺňa písmenom d), ktoré znie:
+
+- „d)
+
+- na požiadanie predložiť štátnemu ústavu kópiu EÚ vyhlásenia o zhode diagnostickej zdravotníckej pomôcky in vitro, ktorá je predmetom internetového výdaja.“.
+
+- 80. V § 22 ods. 9 sa slová „lieky alebo zdravotnícke pomôcky“ nahrádzajú slovami „lieky, zdravotnícke pomôcky alebo diagnostické zdravotnícke pomôcky in vitro“.
+
 - 81. V § 23 ods. 1 písm. p) sa slová „nežiaduce účinky“ za slovami „veterinárnych liečiv“ nahrádzajú slovami „nežiaduce udalosti“.
 
 - 82. V § 23 ods. 1 písmeno t) znie:
@@ -1740,6 +1774,144 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
 - 160. § 109 sa vypúšťa.
 
+- 161. § 110a a 110b vrátane nadpisov znejú:
+
+- „§ 110a
+
+- Revidovaný regulačný rámec pre zdravotnícke pomôcky a diagnostické zdravotnícke pomôcky in vitro
+
+- (1)
+
+- Revidovaný regulačný rámec pre zdravotnícke pomôcky a diagnostické zdravotnícke pomôcky in vitro upravujú osobitné predpisy.<sup>72a</sup>)
+
+- (2)
+
+- Autorizáciu<sup>72b</sup>) notifikovaných osôb, notifikáciu<sup>72c</sup>) notifikovaných osôb, plnenie informačných povinností<sup>72d</sup>) vo vzťahu ku Komisii a členským štátom, ktoré vykonáva členský štát podľa osobitných predpisov,<sup>72a</sup>) vykonáva Úrad pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky (ďalej len „úrad“). Úrad je orgánom zodpovedným za notifikované osoby.<sup>72e</sup>)
+
+- (3)
+
+- Štátny ústav vykonáva
+
+- a)
+
+- registráciu distribútorov zdravotníckych pomôcok alebo diagnostických zdravotníckych pomôcok in vitro sprístupňujúcich zdravotnícke pomôcky alebo diagnostické zdravotnícke pomôcky in vitro; registrácia distribútora je platná päť rokov od dátumu registrácie,
+
+- b)
+
+- kontrolu vložených údajov v elektronickom systéme registrácie výrobcov, splnomocnených zástupcov a dovozcov,
+
+- c)
+
+- plní úlohy členského štátu podľa osobitného predpisu<sup>72a</sup>) pri
+
+- 1.
+
+- klinickom skúšaní zdravotníckych pomôcok,
+
+- 2.
+
+- dohľade nad bezpečnosťou zdravotníckych pomôcok,
+
+- 3.
+
+- výkone trhového dohľadu nad zdravotníckymi pomôckami,
+
+- 5.
+
+- štúdii výkonu diagnostických zdravotníckych pomôcok in vitro,
+
+- 6.
+
+- dohľade nad bezpečnosťou diagnostických zdravotníckych pomôcok in vitro,
+
+- 7.
+
+- výkone trhového dohľadu nad diagnostickými zdravotníckymi pomôckami in vitro,
+
+- 8.
+
+- spolupráci medzi členskými štátmi a pri výmene informácií.
+
+- § 110b
+
+- Všeobecné povinnosti výrobcu, splnomocneného zástupcu, dovozcu a distribútora zdravotníckej pomôcky alebo diagnostickej zdravotníckej pomôcky in vitro
+
+- (1)
+
+- Výrobca, splnomocnený zástupca, dovozca a distribútor sú povinní zabezpečiť, aby k zdravotníckej pomôcke a k diagnostickej zdravotníckej pomôcke in vitro sprístupnenej pre používateľa alebo pacienta boli pripojené informácie uvedené v osobitnom predpise<sup>72f</sup>) v štátnom jazyku.
+
+- (2)
+
+- Výrobca, splnomocnený zástupca, dovozca alebo distribútor, ktorý sprístupnil zdravotnícku pomôcku alebo diagnostickú zdravotnícku pomôcku in vitro na trh v Slovenskej republike podľa osobitného predpisu,<sup>72a</sup>) písomne oznámi v lehote 14 dní od sprístupnenia na trh štátnemu ústavu predložením štandardizovaného formulára, EÚ vyhlásenia o zhode, certifikátov o posúdení zhody, vonkajšieho obalu a návodu na použitie svoje meno alebo názov, adresu miesta podnikania alebo adresu sídla, názov a adresu sídla výrobcu, názov a adresu sídla splnomocneného zástupcu a názov, triedu zdravotníckej pomôcky alebo diagnostickej zdravotníckej pomôcky in vitro sprístupnenej na trh v Slovenskej republike; dokumentácia a informácie musia byť štátnemu ústavu na vyžiadanie poskytnuté v štátnom jazyku.
+
+- (3)
+
+- Štátny ústav môže požiadať výrobcu, splnomocneného zástupcu, dovozcu a distribútora, ktorý má miesto výkonu činnosti v Slovenskej republike, aby poskytol vzorky zdravotníckej pomôcky alebo diagnostickej zdravotníckej pomôcky in vitro zdarma, alebo ak to nie je možné, aby umožnil prístup k zdravotníckej pomôcke alebo k diagnostickej zdravotníckej pomôcke in vitro.
+
+- (4)
+
+- Ak výrobca, splnomocnený zástupca, dovozca alebo distribútor nespolupracuje so štátnym ústavom alebo ak sú poskytnuté informácie alebo dokumentácia neúplné alebo nesprávne, štátny ústav môže v záujme zabezpečenia ochrany verejného zdravia a bezpečnosti pacientov zakázať sprístupnenie zdravotníckej a diagnostickej zdravotníckej pomôcky in vitro na trhu Slovenskej republiky, nariadiť stiahnutie zdravotníckej pomôcky a diagnostickej zdravotníckej pomôcky in vitro z trhu Slovenskej republiky alebo z používania dovtedy, kým výrobca, splnomocnený zástupca, dovozca alebo distribútor nezačne spolupracovať alebo neposkytne úplné a správne informácie.
+
+- (5)
+
+- Štátny ústav po oznámení podľa odseku 2 bez zbytočného odkladu pridelí zdravotníckej pomôcke a diagnostickej zdravotníckej pomôcke in vitro kód, ak takáto zdravotnícka pomôcka a diagnostická zdravotnícka pomôcka in vitro vstupuje do procesu kategorizácie zdravotníckych pomôcok a špeciálneho zdravotníckeho materiálu. Štátny ústav vedie, kontroluje, aktualizuje a zverejňuje na svojom webovom sídle databázu kódov pridelených štátnym ústavom.
+
+- (6)
+
+- Ak zdravotnícka pomôcka alebo diagnostická zdravotnícka pomôcka in vitro nespĺňa požiadavky na uvedenie na trh, štátny ústav vyzve osobu, ktorá zdravotnícku pomôcku alebo diagnostickú zdravotnícku pomôcku in vitro uviedla na trh v Slovenskej republike, na odstránenie nedostatkov. Ak nie sú nedostatky v stanovenej lehote odstránené, štátny ústav zdravotníckej pomôcke alebo diagnostickej zdravotníckej pomôcke in vitro rozhodnutím zruší kód pridelený štátnym ústavom a písomne o tom informuje distribútora. Štátny ústav poskytuje v elektronickej podobe údaje z databázy kódov pridelených štátnym ústavom národnému centru.
+
+- (7)
+
+- Výrobca zdravotníckej pomôcky na mieru je povinný oznámiť štátnemu ústavu sprístupnenie zdravotníckej pomôcky na mieru na území Slovenskej republiky.
+
+- (8)
+
+- Držiteľ povolenia na poskytovanie zdravotnej starostlivosti je povinný elektronicky ukladať a uchovávať unikátny identifikátor<sup>72g</sup>) zdravotníckej pomôcky alebo diagnostickej zdravotníckej pomôcky in vitro, ktorá mu bola dodaná, a na požiadanie ho poskytnúť štátnemu ústavu.
+
+- (9)
+
+- Poskytovateľ zdravotnej starostlivosti môže pri poskytovaní zdravotnej starostlivosti používať len zdravotnícku pomôcku alebo diagnostickú zdravotnícku pomôcku in vitro, ktorá spĺňa požiadavky na uvedenie na trh, a je povinný používať ju v súlade s účelom určenia a v súlade s návodom na použitie.
+
+- (10)
+
+- Štátny ústav plní úlohy členského štátu pri vkladaní údajov o zdravotníckych pomôckach a diagnostických zdravotníckych pomôckach in vitro do európskej databanky zdravotníckych pomôcok (Eudamed) podľa osobitného predpisu<sup>72</sup>) do času, kým nebude EUDAMED plne funkčný.
+
+- (11)
+
+- Úrad plní úlohy členského štátu pri vkladaní údajov o notifikovaných osobách, ktoré autorizoval, a certifikátoch vydaných týmito notifikovanými osobami do európskej databanky zdravotníckych pomôcok (Eudamed) podľa osobitného predpisu.<sup>72</sup>)
+
+- (12)
+
+- Štátny ústav ako orgán dohľadu nad určenými výrobkami podľa osobitného predpisu<sup>72h</sup>) je oprávnený si pri výkone trhového dohľadu<sup>72i</sup>) nad zdravotníckymi pomôckami alebo diagnostickými zdravotníckymi pomôckami in vitro vyžiadať od kontrolovaného subjektu servisný záznam, dodací list, zákazkový list alebo faktúru, ktoré je kontrolovaný subjekt na požiadanie povinný štátnemu ústavu predložiť.“.
+
+- Poznámky pod čiarou k odkazom 72a až 72i znejú:“.
+
+- <sup>72a</sup>) Nariadenie (EÚ) 2017/745 v platnom znení.
+
+- Nariadenie (EÚ) 2017/746.
+
+- <sup>72b</sup>) § 10 až 19 zákona č. 56/2018 Z. z.
+
+- <sup>72c</sup>) § 20 zákona č. 56/2018 Z. z.
+
+- <sup>72d</sup>) § 29 zákona č. 56/2018 Z. z.
+
+- <sup>72e</sup>) Čl. 35 nariadenia (EÚ) 2017/745 v platnom znení.
+
+- Čl. 31 nariadenia (EÚ) 2017/746.
+
+- <sup>72f</sup>) Kapitola II čl. 10 bod 11 a príloha č. I oddiel 23 nariadenia (EÚ) 2017/745 v platnom znení.
+
+- Kapitola II Čl. 10 bod 10 a príloha I oddiel 20 nariadenia (EÚ) 2017/746.
+
+- <sup>72g</sup>) Čl. 2 bod 15 nariadenia (EÚ) 2017/745 v platnom znení.
+
+- Čl. 2 bod 15 nariadenia (EÚ) 2017/746.
+
+- <sup>72h</sup>) § 26 písm. d) zákona č. 56/2018 Z. z.
+
+- <sup>72i</sup>) § 27 zákona č. 56/2018 Z. z. v znení zákona č. 259/2011 Z. z.“.
+
 - 162. V § 111 sa za odsek 1 vkladá nový odsek 2, ktorý znie:
 
 - „(2)
@@ -1763,6 +1935,176 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 - 167. V § 111e ods. 3 sa slová „klinické skúšanie zdravotníckej pomôcky nebolo povolené z dôvodu“ nahrádzajú slovami „zadávateľ podal odvolanie proti rozhodnutiu vydanému na základe“.
 
 - 168. V § 111e ods. 4 sa slová „klinické skúšanie zdravotníckej pomôcky nebolo povolené z dôvodu“ nahrádzajú slovami „rozhodnutie bolo vydané na základe“.
+
+- 169. Za § 111g sa vkladajú § 111h až § 111l, ktoré vrátane nadpisov znejú:
+
+- „§ 111h
+
+- Všeobecné ustanovenia o štúdii výkonu diagnostickej zdravotníckej pomôcky in vitro podľa revidovaného regulačného rámca
+
+- (1)
+
+- Štúdiou výkonu diagnostickej zdravotníckej pomôcky in vitro podľa nového regulačného rámca sa rozumie postup štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro podľa osobitného predpisu.<sup>42eb</sup>)
+
+- (2)
+
+- Úlohy etickej komisie podľa osobitného predpisu<sup>42eb</sup>) plní etická komisia pre klinické skúšanie zriadená podľa § 142a ods. 3. Etická komisia pre klinické skúšanie vypracuje stanovisko k hodnotiacej správe časti II a môže sa vyjadriť k časti I.
+
+- (3)
+
+- Na štúdiu výkonu diagnostickej zdravotníckej pomôcky in vitro, ktorá je geneticky modifikovaným organizmom alebo genetické organizmy obsahuje, sa vyžaduje súhlas ministerstva životného prostredia podľa osobitného predpisu.<sup>42b</sup>)
+
+- (4)
+
+- Na štúdiu výkonu diagnostickej zdravotníckej pomôcky in vitro, pri ktorej sa predpokladá ožiarenie účastníka štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro<sup>42c</sup>) hodnotenou diagnostickou zdravotníckou pomôckou in vitro alebo ožiarenie zdravotníckeho pracovníka vykonávajúceho štúdiu výkonu diagnostickej zdravotníckej pomôcky in vitro, sa vyžaduje súhlas príslušného orgánu radiačnej ochrany podľa osobitného predpisu.<sup>42d</sup>)
+
+- (5)
+
+- Na štúdiu výkonu diagnostickej zdravotníckej pomôcky in vitro, pri ktorej sa predpokladá odber ľudského orgánu, ľudského tkaniva alebo ľudských buniek alebo transplantácia ľudského orgánu, ľudského tkaniva alebo ľudských buniek účastníka štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro, sa vyžaduje, aby malo pracovisko, na ktorom sa má štúdia výkonu diagnostickej zdravotníckej pomôcky in vitro vykonávať, súhlas na výkon činnosti transplantačného centra podľa osobitných predpisov.<sup>42e</sup>)
+
+- (6)
+
+- Zakazuje sa vykonávať génové terapeutické skúšky smerujúce k zmenám genetickej identity účastníka štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro.
+
+- (7)
+
+- Zakazuje sa, aby účastníkom štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro bola osoba, ktorá je vo výkone väzby alebo vo výkone trestu odňatia slobody.
+
+- § 111i
+
+- Spolupráca štátneho ústavu a etickej komisie pre klinické skúšanie pri výkone dohľadu nad priebehom povolenej štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro
+
+- (1)
+
+- Štátny ústav pri výkone dohľadu nad priebehom povolenej štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro podľa tohto zákona a podľa osobitného predpisu<sup>42eb</sup>) spolupracuje s etickou komisiou pre klinické skúšanie.
+
+- (2)
+
+- Ak štátny ústav pri výkone dohľadu nad priebehom povolenej štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro zistí nové skutočnosti ovplyvňujúce bezpečnosť účastníka štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro alebo zistí porušenie ustanovení týkajúcich sa štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro, informuje o týchto zisteniach etickú komisiu pre klinické skúšanie a požiada ju o stanovisko k zisteným skutočnostiam.
+
+- (3)
+
+- Ak z oznámenia o závažnej nežiaducej udalosti, o nehode alebo o zistení súvisiacom so závažnou nežiaducou udalosťou alebo nehodou, ktorú zadávateľ predkladá členským štátom, v ktorých sa štúdia výkonu diagnostickej zdravotníckej pomôcky in vitro vykonáva prostredníctvom elektronického systému podľa osobitného predpisu,<sup>76c</sup>) vyplývajú riziká pre bezpečnosť účastníka štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro, štátny ústav informuje o tomto oznámení etickú komisiu pre klinické skúšanie a požiada ju o stanovisko k predmetnému oznámeniu; etická komisia pre klinické skúšanie vypracuje stanovisko a predloží ho štátnemu ústavu do troch dní odo dňa doručenia žiadosti štátneho ústavu.
+
+- § 111j
+
+- Odvolanie zadávateľa štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro
+
+- (1)
+
+- Ak je podľa osobitného predpisu zadávateľ oprávnený podať odvolanie proti rozhodnutiu štátneho ústavu vydaného podľa osobitného predpisu,<sup>42eb</sup>) zadávateľ môže podať odvolanie do 15 dní odo dňa oznámenia rozhodnutia.
+
+- (2)
+
+- Zadávateľ štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro môže odvolanie vziať späť, kým sa o ňom nerozhodlo. Ak zadávateľ vzal odvolanie späť, nemôže podať odvolanie znova.
+
+- (3)
+
+- Ak štúdia výkonu diagnostickej zdravotníckej pomôcky in vitro nebola povolená z dôvodu nesúhlasného stanoviska etickej komisie pre klinické skúšanie, štátny ústav bezodkladne požiada etickú komisiu pre klinické skúšanie o stanovisko k odvolaniu zadávateľa; etická komisia pre klinické skúšanie vypracuje stanovisko k odvolaniu zadávateľa do 20 dní od predloženia odvolania zadávateľom.
+
+- (4)
+
+- Štátny ústav môže o odvolaní sám rozhodnúť, ak odvolaniu v plnom rozsahu vyhovie. Ak rozhodnutie bolo vydané na základe nesúhlasného stanoviska etickej komisie pre klinické skúšanie, štátny ústav môže o odvolaní rozhodnúť len vtedy, ak s rozhodnutím súhlasí etická komisia pre klinické skúšanie.
+
+- (5)
+
+- Ak štátny ústav o odvolaní nerozhodne, predloží ho spolu s vyjadrením etickej komisie pre klinické skúšanie, ministerstvu zdravotníctva najneskôr do 30 dní od predloženia odvolania zadávateľom.
+
+- (6)
+
+- Ministerstvo zdravotníctva o odvolaní rozhodne do 60 dní. Proti rozhodnutiu ministerstva zdravotníctva nie je odvolanie prípustné.
+
+- § 111k
+
+- Povinnosti skúšajúceho štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro
+
+- Skúšajúci štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro je povinný
+
+- a)
+
+- zabezpečiť vykonávanie štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro v súlade s osobitným predpisom,<sup>42eb</sup>)
+
+- b)
+
+- oznámiť poskytovateľovi zdravotnej starostlivosti, s ktorým má účastník štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro uzatvorenú dohodu o poskytovaní zdravotnej starostlivosti, že účastník štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro bol zaradený do štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro, bezodkladne po zaradení účastníka do štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro,
+
+- c)
+
+- oznámiť zdravotnej poisťovni vykonávajúcej verejné zdravotné poistenie účastníka štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro zaradenie účastníka štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro do štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro s uvedením univerzálneho čísla a dátumu zaradenia účastníka do štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro bezodkladne po zaradení účastníka do štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro,
+
+- d)
+
+- oznámiť zdravotnej poisťovni vykonávajúcej verejné zdravotné poistenie účastníka štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro vyradenie účastníka štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro s uvedením čísla univerzálneho čísla, dátumu vyradenia účastníka zo štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro a dôvod vyradenia účastníka zo štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro bezodkladne po vyradení účastníka zo štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro,
+
+- e)
+
+- bezodkladne oznámiť zdravotnej poisťovni vykonávajúcej verejné zdravotné poistenie účastníka štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro závažnú nežiaducu udalosť a závažný nedostatok a prijať potrebné opatrenia na ochranu života a zdravia účastníka štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro,
+
+- f)
+
+- predložiť zdravotnej poisťovni vykonávajúcej verejné zdravotné poistenie účastníka štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro bezprostredne po prešetrení kópiu písomnej správy z prešetrenia závažnej nežiaducej udalosti a závažného nedostatku, ktoré sa vzťahujú na účastníka štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro.
+
+- § 111l
+
+- Povinnosti zadávateľa štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro
+
+- Zadávateľ štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro je povinný
+
+- a)
+
+- plniť úlohy zadávateľa štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro ustanovené osobitným predpisom,<sup>42eb</sup>)
+
+- b)
+
+- uhradiť náklady spojené
+
+- 1.
+
+- so štúdiou výkonu diagnostickej zdravotníckej pomôcky in vitro vrátane nákladov spojených s laboratórnymi vyšetreniami, zobrazovacími vyšetreniami a inými vyšetreniami uvedenými v protokole štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro a nákladov súvisiacich s poskytnutím ústavnej zdravotnej starostlivosti, ak je poskytnutá v súvislosti so štúdiou výkonu diagnostickej zdravotníckej pomôcky in vitro,
+
+- 2.
+
+- s liečbou zdravotných komplikácií alebo trvalých následkov na zdraví vzniknutých účastníkovi štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro v dôsledku štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro,
+
+- 3.
+
+- s uzatvorením zmluvy o poistení zodpovednosti zadávateľa štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro za škodu spôsobenú účastníkovi štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro pre prípad poškodenia zdravia účastníka štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro, úmrtia účastníka štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro alebo inej majetkovej ujmy alebo nemajetkovej ujmy, ktorá musí byť uzavretá a účinná počas celého priebehu štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro,
+
+- 4.
+
+- s uzatvorením zmluvy o poistení zodpovednosti poskytovateľa zdravotnej starostlivosti za škodu, ktorá môže byť spôsobená účastníkovi štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro, ktorá musí byť uzavretá a účinná počas celého priebehu štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro,
+
+- c)
+
+- predložiť na požiadanie zdravotnej poisťovne, ktorá vykonáva verejné zdravotné poistenie účastníka štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro, údaje a dokumentáciu o štúdii výkonu diagnostickej zdravotníckej pomôcky in vitro,
+
+- d)
+
+- začať štúdiu výkonu diagnostickej zdravotníckej pomôcky in vitro až po nadobudnutí právoplatnosti rozhodnutia štátneho ústavu o vydaní povolenia na štúdiu výkonu diagnostickej zdravotníckej pomôcky in vitro.“.
+
+  - Poznámky pod čiarou k odkazom 76b a 76c znejú:
+
+  - „<sup>76b</sup>) Čl. 74 nariadenia (EÚ) 2017/746.
+
+  - <sup>76c</sup>) Čl. 76 nariadenia (EÚ) 2017/746.“.
+
+- 170. § 116 vrátane nadpisu znie:
+
+- „§ 116
+
+- Oznamovanie a vyhodnocovanie závažnej nehody diagnostickej zdravotníckej pomôcky in vitro
+
+- (1)
+
+- Zdravotnícki pracovníci, poskytovatelia zdravotnej starostlivosti, výrobcovia a ich splnomocnenci sú povinní bezodkladne oznamovať štátnemu ústavu závažnú nehodu diagnostickej zdravotníckej pomôcky in vitro sprístupnenej na trh a zdravotné poisťovne sú povinné oznamovať štátnemu ústavu závažnú nehodu diagnostickej zdravotníckej pomôcky in vitro sprístupnenej na trh, o ktorej sa dozvedeli pri svojej kontrolnej činnosti alebo ktorú im nahlásil poistenec.
+
+- (2)
+
+- Štátny ústav každé oznámenie týkajúce sa závažnej nehody diagnostickej zdravotníckej pomôcky in vitro, ktorá nastala na území Slovenskej republiky, vyhodnocuje spoločne s výrobcom, a ak je to potrebné, s dotknutou notifikovanou osobou.
+
+- (3)
+
+- Štátny ústav nariadi potrebné nápravné opatrenia na základe oznámenia podľa odseku 1 spoločne s výrobcom a ak je to potrebné s dotknutou notifikovanou osobou.“.
 
 - 171. V § 119 ods. 3 sa vypúšťa prvá veta a druhá veta znie:
 
@@ -2244,6 +2586,26 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
 - 203. V § 126a ods. 6, 7 a 9 sa slová „správnej veľkodistribučnej praxe“ nahrádzajú slovami „správnej distribučnej praxe pre veterinárne lieky“.
 
+- 204. V § 128 ods. 1 sa písmeno g) dopĺňa piatym bodom, ktorý znie:
+
+- „5.
+
+- na základe riadne odôvodnenej žiadosti poskytovateľa zdravotnej starostlivosti použitie diagnostickej zdravotníckej pomôcky in vitro pri poskytovaní zdravotnej starostlivosti pre jedného pacienta alebo skupinu pacientov, na ktorú sa neuplatnil postup posudzovania zhody, ak jej použitie pri poskytovaní zdravotnej starostlivosti je v záujme ochrany verejného zdravia a bezpečnosti alebo zdravia pacienta a nie je na trhu dostupná diagnostická zdravotnícka pomôcka in vitro, ktorá spĺňa požiadavky na uvedenie na trh alebo do prevádzky podľa osobitných predpisov; zodpovednosť za použitie diagnostickej zdravotníckej pomôcky in vitro, na ktorú sa neuplatnil postup posudzovania zhody, pri poskytovaní zdravotnej starostlivosti má poskytovateľ zdravotnej starostlivosti, ktorý podal žiadosť,“.
+
+- 205. V § 128 ods. 1 písmeno i) znie:
+
+- „i)
+
+- oznamuje Komisii a príslušným orgánom členských štátov vydanie povolenia podľa písmena g)
+
+- 1.
+
+- štvrtého bodu, ak povolí použitie zdravotníckej pomôcky, na ktorú sa neuplatnil postup posudzovania zhody, pri poskytovaní zdravotnej starostlivosti pre skupinu pacientov,
+
+- 2.
+
+- piateho bodu, ak povolí použitie diagnostickej zdravotníckej pomôcky in vitro, na ktorú sa neuplatnil postup posudzovania zhody, pri poskytovaní zdravotnej starostlivosti pre skupinu pacientov.“.
+
 - 206. V § 129 ods. 1 sa na konci pripájajú tieto slová: „Slovenskej republiky“.
 
 - 207. V § 129 ods. 2 písmeno z) znie:
@@ -2257,6 +2619,38 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
   - „<sup>89a</sup>) Nariadenie Európskeho parlamentu a Rady (EÚ) 2019/1020 z 20. júna 2019 o dohľade nad trhom a súlade výrobkov a o zmene smernice 2004/42/ES a nariadení (ES) č. 765/2008 a (EÚ) č. 305/2011 (Ú. v. EÚ L 169, 25. 6. 2019).“.
 
   - Poznámky pod čiarou k odkazom 89b a 89c sa vypúšťajú.
+
+- 208. V § 129 ods. 2 písmená ad) až ag) znejú:
+
+- „ad)
+
+- posudzuje žiadosti o povolenie klinického skúšania zdravotníckej pomôcky a vydáva povolenia na klinické skúšanie zdravotníckej pomôcky podľa osobitného predpisu,<sup>91d</sup>)
+
+- ae)
+
+- posudzuje žiadosti o povolenie štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro a vydáva povolenie na štúdiu výkonu diagnostickej zdravotníckej pomôcky in vitro podľa osobitného predpisu,<sup>91e</sup>)
+
+- af)
+
+- plní úlohy členského štátu v oblasti klinického hodnotenia a klinického skúšania zdravotníckych pomôcok,<sup>91d</sup>) hodnotenia klinických dôkazov a hodnotenia výkonu a štúdie výkonu diagnostických zdravotníckych pomôcok in vitro<sup>91e</sup>) a dohľadu nad bezpečnosťou a trhového dohľadu nad zdravotníckymi pomôckami a nad diagnostickými zdravotníckymi pomôckami in vitro podľa osobitného predpisu,<sup>91f</sup>)
+
+- ag)
+
+- plní úlohy členského štátu pri vykonávaní osobitných predpisov.<sup>91g</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 91e až 91g znejú:
+
+  - „<sup>91e</sup>) Kapitola VI čl. 56 až 76 nariadenia (EÚ) 2017/746.
+
+  - <sup>91f</sup>) Kapitola VII nariadenia (EÚ) 2017/745 v platnom znení.
+
+  - Kapitola VII nariadenia (EÚ) 2017/746.
+
+  - <sup>91g</sup>) Nariadenie (EÚ) č. 536/2014.
+
+  - Nariadenie (EÚ) 2017/745 v platnom znení.
+
+  - Nariadenie (EÚ) 2017/746.“.
 
 - 209. V § 129 sa odsek 2 dopĺňa písmenami ah) a ai), ktoré znejú:
 
@@ -2597,6 +2991,132 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 - 233. V § 138 ods. 22 písm. af) sa vypúšťajú slová „alebo bez platného odporúčania odborného lekára“.
 
 - 234. V § 138 ods. 32 sa za slová „až ak)“ vkladá čiarka a slová „ar) a aq)“.
+
+- 235. Za § 138b sa vkladá § 138c, ktorý vrátane nadpisu znie:
+
+- „§ 138c
+
+- Správne delikty pri revidovanom regulačnom rámci pre diagnostické zdravotnícke pomôcky in vitro
+
+- (1)
+
+- Skúšajúci štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro sa dopustí správneho deliktu, ak
+
+- a)
+
+- nezabezpečí vykonávanie štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro v súlade s osobitným predpisom,<sup>42eb</sup>)
+
+- b)
+
+- neoznámi poskytovateľovi zdravotnej starostlivosti, s ktorým má účastník štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro uzatvorenú dohodu o poskytovaní zdravotnej starostlivosti, že účastník štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro bol zaradený do štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro bezodkladne po zaradení účastníka do štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro,
+
+- c)
+
+- neoznámi zdravotnej poisťovni vykonávajúcej verejné zdravotné poistenie účastníka štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro zaradenie účastníka štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro do štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro s uvedením univerzálneho čísla a dátumu zaradenia účastníka do štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro bezodkladne po zaradení účastníka do štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro,
+
+- d)
+
+- neoznámi zdravotnej poisťovni vykonávajúcej verejné zdravotné poistenie účastníka štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro vyradenie účastníka štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro s uvedením univerzálneho čísla, dátumu vyradenia účastníka zo štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro a dôvod vyradenia účastníka zo štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro bezodkladne po vyradení účastníka zo štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro,
+
+- e)
+
+- bezodkladne neoznámi zdravotnej poisťovni vykonávajúcej verejné zdravotné poistenie účastníka štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro závažnú nežiaducu udalosť a závažný nedostatok a neprijme potrebné opatrenia na ochranu života a zdravia účastníka štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro,
+
+- f)
+
+- nepredloží zdravotnej poisťovni vykonávajúcej verejné zdravotné poistenie účastníka štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro bezprostredne po prešetrení kópiu písomnej správy z prešetrenia závažnej nežiaducej udalosti a závažného nedostatku, ktoré sa vzťahujú na účastníka štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro.
+
+- (2)
+
+- Zadávateľ štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro sa dopustí iného správneho deliktu, ak
+
+- a)
+
+- neplní úlohy zadávateľa štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro ustanovené osobitným predpisom,<sup>42eb</sup>)
+
+- b)
+
+- neuhradí náklady spojené
+
+- 1.
+
+- so štúdiou výkonu diagnostickej zdravotníckej pomôcky in vitro vrátane nákladov spojených s laboratórnymi, zobrazovacími a inými vyšetreniami uvedenými v protokole štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro a nákladov súvisiacich s poskytnutím ústavnej zdravotnej starostlivosti, ak je poskytnutá v súvislosti so štúdiou výkonu diagnostickej zdravotníckej pomôcky in vitro,
+
+- 2.
+
+- s liečbou zdravotných komplikácií alebo trvalých následkov na zdraví vzniknutých účastníkovi štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro v dôsledku štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro,
+
+- 3.
+
+- s uzatvorením zmluvy o poistení zodpovednosti zadávateľa štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro za škodu spôsobenú účastníkovi štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro pre prípad poškodenia zdravia účastníka štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro, úmrtia účastníka štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro alebo inej majetkovej ujmy alebo nemajetkovej ujmy, ktorá má byť uzavretá a účinná počas celého priebehu štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro,
+
+- 4.
+
+- s uzatvorením zmluvy o poistení zodpovednosti poskytovateľa zdravotnej starostlivosti za škodu, ktorá môže byť spôsobená účastníkovi štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro, ktorá má byť uzavretá a účinná počas celého priebehu štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro,
+
+- c)
+
+- nepredloží na požiadanie zdravotnej poisťovne, ktorá vykonáva verejné zdravotné poistenie účastníka štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro, údaje a dokumentáciu o štúdii výkonu diagnostickej zdravotníckej pomôcky in vitro,
+
+- d)
+
+- začne štúdiu výkonu diagnostickej zdravotníckej pomôcky in vitro bez kladného rozhodnutia štátneho ústavu.
+
+- (3)
+
+- Zdravotnícky pracovník sa dopustí iného správneho deliktu, ak bezodkladne neoznámi štátnemu ústavu závažnú nehodu diagnostickej zdravotníckej pomôcky in vitro sprístupnenej na trh.
+
+- (4)
+
+- Poskytovateľ zdravotnej starostlivosti sa dopustí iného správneho deliktu, ak
+
+- a)
+
+- bezodkladne neoznámi štátnemu ústavu závažnú nehodu diagnostickej zdravotníckej pomôcky in vitro sprístupnenej na trh,
+
+- b)
+
+- pri poskytovaní zdravotnej starostlivosti nepoužíva diagnostické zdravotnícke pomôcky in vitro v súlade s účelom určenia, ktorý bol predmetom posudzovania zhody, na ktorého základe sa preukázalo, že spĺňajú požiadavky na uvedenie na trh alebo na uvedenie do prevádzky.
+
+- (5)
+
+- Zdravotná poisťovňa sa dopustí iného správneho deliktu, ak bezodkladne neoznámi štátnemu ústavu závažnú nehodu diagnostickej zdravotníckej pomôcky in vitro sprístupnenej na trh.
+
+- (6)
+
+- Výrobca alebo jeho splnomocnenec sa dopustí iného správneho deliktu, ak
+
+- a)
+
+- bezodkladne neoznámi štátnemu ústavu závažnú nehodu diagnostickej zdravotníckej pomôcky in vitro sprístupnenej na trh,
+
+- b)
+
+- poruší zákaz internetového výdaja diagnostickej zdravotníckej pomôcky in vitro uvedený v § 22 ods. 9.
+
+- (7)
+
+- Držiteľ povolenia na poskytovanie lekárenskej starostlivosti, fyzická osoba a právnická osoba sa dopustí iného správneho deliktu, ak poruší zákaz internetového výdaja diagnostickej zdravotníckej pomôcky in vitro uvedený v § 22 ods. 9.
+
+- (8)
+
+- Štátny ústav uloží pokutu za iné správne delikty podľa odsekov 1 až 7 od 300 eur do 35 000 eur.
+
+- (9)
+
+- Konanie o uloženie pokuty možno začať do jedného roka odo dňa, keď sa štátny ústav dozvedel o porušení povinnosti, najneskôr však do troch rokov odo dňa, keď k porušeniu povinnosti došlo.
+
+- (10)
+
+- Pokuta je splatná do 30 dní odo dňa nadobudnutia právoplatnosti rozhodnutia, ktorým bola uložená.
+
+- (11)
+
+- Pokuty uložené štátnym ústavom sú príjmom štátneho rozpočtu.
+
+- (12)
+
+- Zodpovednosti za porušenie povinností, ktoré sú iným správnym deliktom podľa odsekov 1 až 7, sa osoba zbaví, ak preukáže, že v dôsledku okolností hodných osobitného zreteľa, ktoré nemohla ovplyvniť svojím konaním, nemohla splniť povinnosti, ktorých porušenie je iným správnym deliktom podľa odsekov 1 až 7. Zbavením sa zodpovednosti za porušenie povinnosti nie je dotknutá povinnosť osôb túto povinnosť dodatočne splniť po odpadnutí dôvodov, na ktorých základe sa osoba zbaví tejto zodpovednosti.“.
 
 - 236. V § 139 ods. 1 písm. g) sa slová „nežiaduce účinky“ nahrádzajú slovami „nežiaduce udalosti“.
 
@@ -3924,7 +4444,17 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
 - (4)
 
-- Ustanovenia § 142a až 143c upravujúce činnosť a fungovanie etickej komisie pre klinické skúšanie sa pre klinické skúšanie zdravotníckej pomôcky in vitro neuplatňujú do 25. mája 2022. Etické posudzovanie klinického skúšania zdravotníckej pomôcky in vitro sa do 25. mája 2022 vykonáva podľa osobitného predpisu.“.
+- Ustanovenia § 142a až 143c upravujúce činnosť a fungovanie etickej komisie pre klinické skúšanie sa pre klinické skúšanie zdravotníckej pomôcky in vitro neuplatňujú do 25. mája 2022. Etické posudzovanie klinického skúšania zdravotníckej pomôcky in vitro sa do 25. mája 2022 vykonáva podľa osobitného predpisu.
+
+- § 143v
+
+- Prechodné ustanovenie k úprave účinnej od 26. mája 2022
+
+- Konanie o žiadosti o povolenie štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro začaté a právoplatne neskončené do 25. mája 2022 a štúdia výkonu diagnostickej zdravotníckej pomôcky in vitro povolená do 25. mája 2022 sa dokončia podľa predpisov účinných do 25. mája 2022.“.
+
+- 269. V prílohe č. 2 sa vypúšťa prvý bod.
+
+  - Doterajší druhý bod až štrnásty bod sa označujú ako prvý bod až trinásty bod.
 
 - 270. V prílohe č. 2 sa vypúšťa tretí bod.
 
@@ -3932,6 +4462,6 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
 - 271. Za prílohu č. 2 sa vkladajú prílohy č. 3 a 4, ktoré znejú:
 
-- „[Príloha č. 3 a č. 4 k zákonu č. 362/2011 Z. z.](assets/37cf963c73530175107f1b6b9b0e61cc669be90521d651515402051c232312e0.pdf)“.
+- „[Príloha č. 3 a č. 4 k zákonu č. 362/2011 Z. z.](assets/09a67217bc388a24075027d7cb3a8deda2540d6f16cf261448604e3def43074f.pdf)“.
 
 - 272. Slová „etická komisia“ vo všetkých tvaroch sa v celom texte zákona okrem § 1 ods. 1 písm. c), § 29a ods. 2 a 11, § 29h ods. 3 a 6, § 111 ods. 2, § 111h ods. 2, § 111j a § 111k, § 142a, § 142b nadpisu paragrafu, odseku 1 písm. a), h) až j), písm. q), odseku 2 písm. a), h) až j), písm. q), odseku 3, odseku 5 úvodnej vety, odseku 5 písm. e), odseku 6, 7, § 142c ods. 1 až 6 a odsekov 10 a 11 a § 143u nahrádzajú slovami „etická komisia pre klinické skúšanie“ v príslušnom tvare.
