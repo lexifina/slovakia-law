@@ -6,6 +6,20 @@ Zákon č. 35/2019 Z. z. o finančnej správe a o zmene a doplnení niektorých 
 
 - 2. V § 4 ods. 3 písm. z) sa slová „zamestnancov finančného riaditeľstva“ nahrádzajú slovami „zamestnancami finančného riaditeľstva pri výkone prác vo verejnom záujme alebo prác na základe dohôd podľa Zákonníka práce“.
 
+- 3. V § 4 ods. 3 sa za písmeno z) vkladá nové písmeno aa), ktoré znie:
+
+- „aa)
+
+- plní a zabezpečuje úlohy v oblasti vyšetrovania a skráteného vyšetrovania trestných činov príslušníkov finančnej správy pri výkone štátnej služby a zamestnancov finančného riaditeľstva pri výkone prác vo verejnom záujme alebo prác na základe dohôd podľa Zákonníka práce, ak ide o trestné činy spáchané v súvislosti s porušením daňových predpisov v oblasti dane z pridanej hodnoty pri dovoze a spotrebných daní alebo colných predpisov,“.
+
+  - Doterajšie písmená aa) až ae) sa označujú ako písmená ab) až af).
+
+- 4. § 4 sa dopĺňa odsekom 7, ktorý znie:
+
+- „(7)
+
+- Súčasťou organizačnej štruktúry finančného riaditeľstva je osobitný útvar, ktorý vykonáva úlohy uvedené v odseku 3 písm. y) až aa).“.
+
 - 5. V § 6 ods. 3 písmeno b) znie:
 
 - „b)
@@ -43,6 +57,8 @@ Zákon č. 35/2019 Z. z. o finančnej správe a o zmene a doplnení niektorých 
 - „h)
 
 - plní a zabezpečuje úlohy v oblasti odhaľovania trestných činov spáchaných v súvislosti s porušením daňových predpisov v oblasti dane z pridanej hodnoty a spotrebných daní alebo colných predpisov a v súvislosti s nedovoleným dovozom, vývozom a tranzitom alebo s nedovoleným obchodovaním medzi členskými štátmi s omamnými látkami, psychotropnými látkami, ich prekurzormi, látkami s anabolickým alebo iným hormonálnym účinkom, zbraňami a jadrovými materiálmi, rádioaktívnymi látkami, vysoko rizikovými chemickými látkami a vysoko rizikovými biologickými agensmi a toxínmi a zisťovania ich páchateľov; pri plnení a zabezpečovaní úloh v oblasti odhaľovania trestných činov v súvislosti s jadrovými materiálmi, rádioaktívnymi látkami, vysoko rizikovými chemickými látkami a vysoko rizikovými biologickými agensmi a toxínmi bezodkladne o tejto skutočnosti informuje určené pracovisko Policajného zboru,“.
+
+- 8. V § 9 ods. 2 písm. i) sa na konci pripájajú tieto slová: „ak § 4 ods. 3 písm. aa) neustanovuje inak,“.
 
 - 9. V § 9 ods. 6 sa za slová „v konaní podľa“ vkladajú slová „Trestného poriadku,“ a za slovo „koná“ sa vkladajú slová „pred orgánmi činnými v trestnom konaní a“.
 
@@ -347,6 +363,22 @@ Zákon č. 35/2019 Z. z. o finančnej správe a o zmene a doplnení niektorých 
 - 78. V § 119 ods. 3 sa na konci bodka nahrádza bodkočiarkou a pripájajú sa tieto slová: „ozbrojený príslušník finančnej správy je povinný podrobiť sa opakovanému psychologickému vyšetreniu, o ktoré požiadal podľa § 120 ods. 4. Ozbrojený príslušník finančnej správy je povinný sa pravidelne zúčastňovať výcviku a previerok za podmienok a v termínoch ustanovených vnútorným predpisom, ktorý vydá prezident. Povinnosť podrobiť sa previerke fyzickej zdatnosti sa nevyžaduje u ozbrojeného príslušníka finančnej správy, ktorý dosiahol 50 rokov veku, a u ozbrojenej príslušníčky finančnej správy, ktorá dosiahla 40 rokov veku.“.
 
 - 79. V § 119 ods. 10 prvej vete sa slová „lekárskej služby prvej pomoci v štátnych zdravotníckych zariadeniach alebo v neštátnych zdravotníckych zariadeniach“ nahrádzajú slovami „pracovných činností s prevahou fyzickej práce, s ktorými nadriadený vyslovil predchádzajúci písomný súhlas, na výkon záchrannej zdravotnej služby“, za slovo „predpisu<sup>135</sup>)“ sa vkladá čiarka, za slová „prekladateľskú činnosť,“ sa vkladajú slová „znaleckú činnosť, činnosť odborného konzultanta podľa § 151 Trestného poriadku, tlmočnícku činnosť,“, za slovo „kraja,“ sa vkladajú slová „na činnosť člena komisie zriadenej orgánmi územnej samosprávy,“ a vypúšťa sa druhá veta.
+
+- 80. V § 122 ods. 1 sa slová „Poverený príslušník finančnej správy“ nahrádzajú slovami „Príslušník finančnej správy zaradený na osobitnom útvare finančného riaditeľstva uvedenom v § 4 ods. 7“.
+
+- 81. V § 122 ods. 4 sa slová „povereného príslušníka finančnej správy“ nahrádzajú slovami „príslušníka finančnej správy vykonávajúceho previerku podľa odseku 1“.
+
+- 82. V § 122 ods. 5 sa slová „Poverený príslušník finančnej správy“ nahrádzajú slovami „Príslušník finančnej správy vykonávajúci previerku podľa odseku 1“.
+
+- 83. V § 122 ods. 6 sa slová „poverený príslušník finančnej správy“ nahrádzajú slovami „príslušník finančnej správy vykonávajúci previerku podľa odseku 1“.
+
+- 84. V § 122 ods. 7 prvej vete sa slová „poverený príslušník finančnej správy“ nahrádzajú slovami „príslušník finančnej správy vykonávajúci previerku podľa odseku 1“, v druhej vete sa slová „určený príslušník finančnej správy“ nahrádzajú slovami „príslušník finančnej správy vykonávajúci previerku podľa odseku 1“ a v tretej vete sa slová „Poverený príslušník finančnej správy“ nahrádzajú slovami „Príslušník finančnej správy vykonávajúci previerku podľa odseku 1“.
+
+- 85. § 122 sa dopĺňa odsekom 8, ktorý znie:
+
+- „(8)
+
+- Ak by postupom podľa odseku 7 mohlo byť ohrozené splnenie účelu prebiehajúceho trestného konania alebo splnenie úlohy uvedenej v § 4 ods. 3 písm. y) alebo písm. aa), príslušník finančnej správy vykonávajúci previerku podľa odseku 1 postupuje podľa odseku 7, až keď toto ohrozenie pominie.“.
 
 - 86. V § 123 ods. 8 sa na konci bodka nahrádza bodkočiarkou a pripájajú sa tieto slová: „to neplatí, ak od podania posledného majetkového priznania uplynulo päť rokov.“.
 
