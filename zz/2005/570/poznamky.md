@@ -82,6 +82,8 @@
 
 - 26b) § 132, § 138, §140 až 150 zákona č. 281/2015 Z. z. v znení zákona č. 125/2016 Z. z.
 
+- 26ba) § 12a ods. 3 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+
 - 26c) § 178 až 180, § 181 ods. 1 a 2, § 182 až 184, § 185 ods. 1 a 2, § 186 až 189, § 191 ods. 2 a § 192 až 198 Zákonníka práce.
 
 - § 209 až 216 zákona č. 281/2015 Z. z.
