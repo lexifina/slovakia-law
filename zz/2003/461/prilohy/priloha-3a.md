@@ -40,7 +40,7 @@ Príloha č. 3a k zákonu č. 461/2003 Z. z. Rok narodenia poistenca | Muž | Ž
 
 1962 | 63r 4m | 63r 4m | 62r 10m | 62r 4m | 61r 10m | 61r 7m
 
-1963 | 63r 6m | 63r 6m | 63r m | 62r 6m | 62r | 61r 11m
+1963 | 63r 6m | 63r 6m | 63r | 62r 6m | 62r | 61r 11m
 
 1964 | 63r 8m | 63r 8m | 63r 2m | 62r 8m | 62r 2m | 62r 2m
 

@@ -220,9 +220,11 @@
 
 - Zákon Národnej rady Slovenskej republiky č. 98/1995 Z. z. v znení neskorších predpisov.
 
-- 88) Zákon Národnej rady Slovenskej republiky č. 98/1995 Z. z. v znení neskorších predpisov.
+- 88) § 4a ods. 2 písm. c) prvý bod a § 11 ods. 1 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
 
-- Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení neskorších predpisov.
+- § 2 ods. 2 zákona č. 576/2004 Z. z.
+
+- Nariadenie vlády Slovenskej republiky č. 776/2004 Z. z., ktorým sa vydáva Katalóg zdravotných výkonov v znení neskorších predpisov.
 
 - 89) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
@@ -244,7 +246,9 @@
 
 - 92) § 1 zákona č. 431/2002 Z. z. o účtovníctve.
 
-- 92aa) § 4 ods. 1 zákona č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
+- 92aa) Čl. 4 ods. 1 nariadenia Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) (Ú. v. EÚ L 119, 4. 5. 2016).
+
+- § 2 zákona č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
 
 - 92aaa) § 14 ods. 5 zákona č. 523/2004 Z. z. v znení zákona č. 310/2016 Z. z.
 
@@ -357,6 +361,8 @@
 - 100b) § 27 ods. 2 zákona č. 43/2004 Z. z. v znení neskorších predpisov.
 
 - 100c) § 6 ods. 1 zákona č. 98/1987 Zb. o osobitnom príspevku baníkom v znení neskorších predpisov.
+
+- 100ca) Napríklad zákon č. 647/2007 Z. z. o cestovných dokladoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 101) § 8a ods. 1 písm. r) zákona Národnej rady Slovenskej republiky č. 330/1996 Z. z. v znení zákona č. 158/2001 Z. z.
 

@@ -14,7 +14,7 @@
 
 - b) určuje dĺžku predĺženia podporného obdobia, ak poistenec spĺňa podmienky podľa odseku 1 písm. b) a c).
 
-(3) Vystavenie potvrdenia podľa odseku 2 písm. a) sa považuje za zdravotný výkon na účely sociálneho poistenia podľa § 156 ods. 1 písm. f).
+(3) Vystavenie potvrdenia podľa odseku 2 písm. a) sa považuje za zdravotný výkon na účely sociálneho poistenia podľa § 156 ods. 1 písm. g).
 
 (4) Podporné obdobie možno predĺžiť aj opakovane, v úhrne najdlhšie o jeden rok.
 
