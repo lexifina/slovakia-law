@@ -10,7 +10,7 @@
 
 (2) Ministerstvo školstva môže poskytovať štipendium študentovi vysokej školy so sídlom na území Slovenskej republiky za dosiahnutie mimoriadnych výsledkov vzdelávania počas vzdelávania v strednej škole.
 
-(3) Ministerstvo školstva môže poskytovať štipendium študentovi podľa štipendijného programu schváleného vládou alebo ministerstvom školstva.
+(3) Ministerstvo školstva môže poskytovať štipendium študentovi podľa štipendijného programu schváleného vládou alebo ministerstvom školstva alebo podľa štipendijného programu na základe medzištátnej zmluvy alebo medzinárodnej zmluvy.
 
 (4) Za každého študenta, ktorému sa poskytuje štipendium podľa odseku 1 písm. b) alebo odseku 2, možno vysokej škole so sídlom na území Slovenskej republiky poskytnúť finančné prostriedky na účel určený ministerstvom školstva.
 
@@ -27,3 +27,11 @@
 (7) Počet študentov, ktorým sa priznáva štipendium, požadované študijné výsledky, lehotu na podávanie žiadostí, kritériá a spôsob hodnotenia žiadostí a ďalšie podmienky priznania štipendia podľa odsekov 1 a 2 určuje a zverejňuje ministerstvo školstva na svojom webovom sídle. Pre študentov so špecifickými potrebami podľa § 100 ods. 2 a študentov zo sociálne znevýhodneného prostredia možno požadované študijné výsledky a podmienky priznania štipendia podľa odsekov 1 a 2 určiť osobitne. Ak ide o štipendiá poskytované podľa odseku 3, štipendijný program zverejňuje ministerstvo školstva na svojom webovom sídle.
 
 (8) V rozhodnutí o priznaní štipendia podľa odseku 1 alebo podľa odseku 2 sa uvádza výška štipendia a odôvodnenie jeho priznania; ak sa štipendium neprizná, táto skutočnosť sa vyznačí na webovom sídle určenom ministerstvom školstva. Rozhodnutie o priznaní štipendia vydáva ministerstvo školstva; ak ministerstvo školstva poverí podľa odseku 5 vysokú školu, rozhodnutie o priznaní štipendia vydáva vysoká škola.
+
+(9) Ministerstvo môže poskytnúť štipendium postupom podľa odsekov 3 až 6 a 8 v súvislosti s podporou vysokého školstva alebo na účely rozvoja vedy a výskumu aj
+
+- a) vysokoškolským učiteľom, výskumným pracovníkom alebo umeleckým pracovníkom pôsobiacim na vysokej škole alebo
+
+- b) výskumným pracovníkom pôsobiacim v oblasti vedy a výskumu.<sup>48a</sup>)
+
+(10) Príslušný štipendijný program alebo príslušnú medzištátnu zmluvu alebo medzinárodnú zmluvu, na základe ktorej bolo poskytované štipendium podľa odseku 9, zverejňuje ministerstvo školstva na svojom webovom sídle.

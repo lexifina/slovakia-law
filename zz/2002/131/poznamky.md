@@ -170,6 +170,8 @@
 
 - 48) Zákon č. 396/2012 Z. z.
 
+- 48a) Napríklad zákon č. 133/2002 Z. z. o Slovenskej akadémii vied v znení neskorších predpisov, zákon č. 243/2017 Z. z. o verejnej výskumnej inštitúcii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 49) Zákon č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 49a) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
