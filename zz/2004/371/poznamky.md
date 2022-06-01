@@ -13,3 +13,5 @@
 - 2) § 50 ods. 2 písm. f) zákona č. 757/2004 Z. z.
 
 - 3) § 151n zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení zákona č. 59/2009 Z. z.
+
+- 5) § 24 ods. 4 zákona č. 385/2000 Z. z. v znení neskorších predpisov.
