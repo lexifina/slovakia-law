@@ -12,7 +12,7 @@
 
 - 6) Dohovor o právnom postavení utečencov (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 319/1996 Z. z.).Dohovor o ochrane ľudských práv a základných slobôd (oznámenie Federálneho ministerstva zahraničných vecí č. 209/1992 Zb.).
 
-- 6a) Zákon č. 404/2011 Z. z. v znení zákona č. 75/2013 Z. z.
+- 6a) Zákon č. 404/2011 Z. z. v znení neskorších predpisov.
 
 - 6aa) § 81 ods. 1, 2 a 4 zákona č. 404/2011 Z. z. v znení zákona č. 75/2013 Z. z.,
 
@@ -26,15 +26,17 @@
 
 - 8) § 8 ods. 2 Občianskeho zákonníka.
 
-- 8a) Zákon č. 94/1963 Zb. o rodine v znení neskorších predpisov.
+- 8a) § 60 zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov.
 
 - 8b) § 16 ods. 2 zákona č. 71/1967 Zb.
 
 - 8c) § 5 zákona č. 327/2005 Z. z. o poskytovaní právnej pomoci osobám v materiálnej núdzi a o zmene a doplnení zákona č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 8/2005 Z. z.
 
-- 8d) § 24a zákona č. 327/2005 Z. z. v znení zákona č. 451/2008 Z. z.
+- 8d) § 24a zákona č. 327/2005 Z. z. v znení neskorších predpisov.
 
-- 8e) § 56 ods. 7 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov.
+- 8e) § 46 ods. 9 a 10 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení zákona č. 61/2018 Z. z.
+
+- 8f) Nariadenie Európskeho parlamentu a Rady (EÚ) 2021/2303 z 15. decembra 2021 o Agentúre Európskej únie pre azyl a o zrušení nariadenia (EÚ) č. 439/2010 (Ú. v. EÚ L 468, 30. 12. 2021).
 
 - 9) § 20 zákona č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
 
@@ -44,7 +46,13 @@
 
 - 11ac) § 3 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 11b) § 17 vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 79/1997 Z. z.
+- 11ad) Zákon Národnej rady Slovenskej republiky č. 199/1994 Z. z. o psychologickej činnosti a Slovenskej komore psychológov v znení zákona č. 578/2004 Z. z.
+
+- 11ae) Zákon č. 219/2014 Z. z. o sociálnej práci a o podmienkach na výkon niektorých odborných činností v oblasti sociálnych vecí a rodiny a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 11af) § 19 vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 585/2008 Z. z., ktorou sa ustanovujú podrobnosti o prevencii a kontrole prenosných ochorení.
+
+- 11b) § 18 vyhlášky č. 585/2008 Z. z.
 
 - 11c) § 3 ods. 3 písm. a) zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
@@ -52,9 +60,9 @@
 
 - 13) § 2 Obchodného zákonníka.
 
-- 13a) § 53 ods. 7 zákona č. 305/2005 Z. z. v znení neskorších predpisov.
+- 13a) § 55 ods. 2 zákona č. 305/2005 Z. z. v znení neskorších predpisov.
 
-- 13b) § 27k zákona č. 91/2010 Z. z. o podpore cestovného ruchu v znení zákona č. 92/2022 Z. z.
+- 13b) § 2 zákona č. 601/2003 Z. z. v znení neskorších predpisov.
 
 - 13c) Napríklad zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov, zákon č. 179/2011 Z. z. o hospodárskej mobilizácii a o zmene a doplnení zákona č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu v znení neskorších predpisov v znení neskorších predpisov.
 
@@ -74,16 +82,6 @@
 
 - § 9 ods. 1 a 2 vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 259/2008 Z. z.
 
-- 15) Zákon č. 381/1997 Z. z. o cestovných dokladoch v znení zákona č. 48/2002 Z. z.
-
-- 16) Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 17) § 34 až 37 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.Vyhláška Ministerstva školstva Slovenskej socialistickej republiky č. 143/1984 Zb. o základnej škole v znení neskorších predpisov.
-
-- 18) Zákon č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
-
-- 19) § 41 ods. 2 Trestného zákona.
-
 - 20) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
 
 - 20a) Napríklad zákon č. 475/2005 Z. z. o výkone trestu odňatia slobody a o zmene a doplnení niektorých zákonov, zákon č. 221/2006 Z. z. o výkone väzby.
@@ -94,7 +92,7 @@
 
 - 21) § 83 ods. 1 zákona č. 404/2011 Z. z. v znení zákona č. 75/2013 Z. z.
 
-- 22) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
+- 22) Zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 22aa) § 17 ods. 1 písm. a) zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente).
 

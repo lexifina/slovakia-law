@@ -2,7 +2,7 @@
 
 (1) Doplnková ochrana zaniká
 
-- a) udelením azylu na území Slovenskej republiky,
+- a) udelením azylu podľa § 8; doplnková ochrana, ktorá sa poskytla podľa § 13b, zaniká aj udelením azylu podľa § 10,
 
 - b) udelením trvalého pobytu na území Slovenskej republiky, ak sa doplnková ochrana poskytla podľa § 13b,
 

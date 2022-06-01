@@ -2,13 +2,15 @@
 
 Cudzinec, ktorému sa poskytla doplnková ochrana, je povinný
 
-- a) dodržiavať vnútorný poriadok počas pobytu v pobytovom tábore,
+- a) spolupracovať s ministerstvom a príslušnými orgánmi pri jeho integrácii,
 
-- b) oznámiť ministerstvu do 20 dní narodenie svojho dieťaťa na území Slovenskej republiky,
+- b) dodržiavať vnútorný poriadok počas pobytu v pobytovom tábore,
 
-- c) oznámiť písomne policajnému útvaru, že sa bude nepretržite viac ako 90 dní zdržiavať mimo územia Slovenskej republiky,
+- c) oznámiť ministerstvu do 20 dní narodenie svojho dieťaťa na území Slovenskej republiky,
 
-- d) oznámiť bezodkladne ministerstvu
+- d) oznámiť písomne policajnému útvaru, že sa bude nepretržite viac ako 90 dní zdržiavať mimo územia Slovenskej republiky,
+
+- e) oznámiť bezodkladne ministerstvu
 
   - 1. nadobudnutie štátneho občianstva,
 
