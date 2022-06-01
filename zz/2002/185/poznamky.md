@@ -54,6 +54,8 @@
 
 - 14) § 91 ods. 10 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- § 110 ods. 1 zákona o cenných papieroch.
+
 - 15) Napríklad § 129 ods. 2 až 7 Trestného zákona.
 
 - 16) Zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov.
