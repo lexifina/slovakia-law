@@ -224,7 +224,7 @@
 
 - 38a) § 14 ods. 4 zákona č. 73/1998 Z. z. v znení neskorších predpisov.
 
-- 38b) § 15, 16 a 84 zákona č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 38b) Zákon č. 281/2015 Z. z. o štátnej službe profesionálnych vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 38c) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
