@@ -1,3 +1,3 @@
 Príloha č. 2a k zákonu č. 480/2002 Z. z.
 
-- Žiadosť o udelenie azylu na dobu neurčitú/predĺženie doplnkovej ochrany [Príloha č. 2a k zákonu č. 480/2002 Z. z.](../assets/cade36c5cb8a771e80aa44e1dc195ae3ea5684a648e0f3a79779fa601500fb09.pdf)
+- Žiadosť o udelenie azylu na dobu neurčitú/predĺženie doplnkovej ochrany [Príloha č. 2a k zákonu č. 480/2002 Z. z.](../assets/8f0955d35cca612edeb9542e33b68aaecb980e476e298accdc6185b987dd6213.pdf)

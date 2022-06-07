@@ -64,6 +64,10 @@
 
 - 13b) § 2 zákona č. 601/2003 Z. z. v znení neskorších predpisov.
 
+- 13ba) § 2 ods. 4 zákona č. 404/2011 Z. z.
+
+- 13bb) § 10 zákona č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 13c) Napríklad zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov, zákon č. 179/2011 Z. z. o hospodárskej mobilizácii a o zmene a doplnení zákona č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu v znení neskorších predpisov v znení neskorších predpisov.
 
 - 13d) § 12 zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení zákona č. 216/2008 Z. z.
@@ -71,8 +75,6 @@
 - 13e) § 62 ods. 1 písm. f) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení zákona č. 533/2021 Z. z.
 
 - § 8 ods. 2 vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 259/2008 Z. z. o podrobnostiach o požiadavkách na vnútorné prostredie budov a o minimálnych požiadavkách na byty nižšieho štandardu a na ubytovacie zariadenia.
-
-- 13f) § 43b ods. 5 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 237/2000 Z. z.
 
 - 13g) Napríklad zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 258/1993 Z. z. o Železniciach Slovenskej republiky v znení neskorších predpisov.
 
