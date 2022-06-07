@@ -1,0 +1,1 @@
+- 1) § 64 ods. 2 školského zákona.
