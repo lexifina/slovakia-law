@@ -8,4 +8,4 @@
 
 (4) Orgán sociálnoprávnej ochrany detí a sociálnej kurately podľa § 73 ods. 1 a centrum podľa odseku 1 uzatvárajú zmluvu o poskytnutí finančného príspevku podľa odseku 1, ktorej súčasťou je aj dohodnutý počet miest; na tento účel môžu uzatvoriť rámcovú zmluvu, najdlhšie na tri rozpočtové roky.
 
-(5) Na predloženie návrhu zmluvy o poskytnutí finančného príspevku podľa odseku 1 sa § 89a ods. 4 vzťahuje rovnako.
+(5) Na predloženie návrhu zmluvy o poskytnutí finančného príspevku podľa odseku 1 a na zvýšenie finančného príspevku podľa odseku 1 v priebehu bežného rozpočtového roka sa § 89a ods. 4 a 5 vzťahuje rovnako.

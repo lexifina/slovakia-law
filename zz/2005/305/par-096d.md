@@ -12,11 +12,11 @@
 
   - 2. plnoletú fyzickú osobu na základe dohody s touto osobu,
 
-- d) zmenu štruktúry centra podľa § 48 ods. 1 a § 51 ods. 1 a podmienky vykonávania opatrení pobytovou formou v rozsahu nevyhnutnom na ochranu zdravia detí a plnoletých fyzických osôb,
+- d) zmenu štruktúry centra podľa § 48 ods. 1 a § 51 ods. 1 a podmienky vykonávania opatrení v centre v rozsahu nevyhnutnom na zohľadnenie najlepšieho záujmu dieťaťa alebo na ochranu zdravia detí a plnoletých fyzických osôb,
 
 - e) podmienky overenia odbornej spôsobilosti podľa § 82 ods. 1 písm. b) a podmienky preukázania splnenia podmienok akreditácie,
 
-- f) podmienky vykonávania opatrení, metód, techník a postupov v rozsahu nevyhnutnom na predchádzanie alebo znižovanie rizika ohrozenia života alebo zdravia fyzických osôb, pre ktoré sú vykonávané opatrenia podľa tohto zákona, a zamestnancov vykonávajúcich opatrenia podľa tohto zákona.
+- f) podmienky vykonávania opatrení, metód, techník a postupov v rozsahu nevyhnutnom na zohľadnenie najlepšieho záujmu dieťaťa alebo na predchádzanie alebo znižovanie rizika ohrozenia života alebo zdravia fyzických osôb, pre ktoré sú vykonávané opatrenia podľa tohto zákona, a zamestnancov vykonávajúcich opatrenia podľa tohto zákona.
 
 (2) Ústredie práce, sociálnych vecí a rodiny
 
