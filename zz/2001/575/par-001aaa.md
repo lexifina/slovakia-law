@@ -11,3 +11,5 @@
 (2) Podpredseda vlády podľa odseku 1 po posúdení podľa odseku 1 písm. b) a c) navrhuje opatrenia na racionalizáciu a optimalizáciu poskytovania týchto služieb s cieľom vyššej hospodárnosti a účelnosti.
 
 (3) Podpredseda vlády podľa odseku 1, na základe štatútu, plní aj ďalšie úlohy zverené Úradu vlády Slovenskej republiky a priamo riadi odborné útvary Úradu vlády Slovenskej republiky určené jeho organizačným poriadkom.
+
+(4) Podpredseda vlády podľa odseku 1 od vymenovania predsedu Úradu pre územné plánovanie a výstavbu Slovenskej republiky vládou do konca kalendárneho mesiaca, v ktorom uplynulo šesť mesiacov od vymenovania predsedu Úradu pre územné plánovanie a výstavbu Slovenskej republiky vládou, napomáha predsedovi Úradu pre územné plánovanie a výstavbu Slovenskej republiky pri plnení jeho úloh súvisiacich s administratívnym, organizačným, technickým a materiálnym zabezpečením činnosti Úradu pre územné plánovanie a výstavbu Slovenskej republiky.
