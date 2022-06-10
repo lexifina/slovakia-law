@@ -146,11 +146,13 @@
 
 - 46) § 66a Obchodného zákonníka.
 
-- 47) § 107 ods. 9 zákona č. 566/2001 Z. z.
+- 46a) Čl. 1 bod 5 písm. j) nariadenia (EÚ) 2017/1129 v platnom znení.
+
+- 47) Čl. 1 delegovaného nariadenia (EÚ) 2017/568.
 
 - 48) § 7 ods. 6 zákona č. 566/2001 Z. z.
 
-- 51) § 156 ods. 8 Obchodného zákonníka.
+- 48a) Delegované nariadenie (EÚ) 2017/568.
 
 - 52) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
@@ -173,8 +175,6 @@
 - 53f) § 176b ods. 2 Obchodného zákonníka.
 
 - 55) Napríklad § 99 ods. 4 písm. a) zákona č. 566/2001 Z. z.
-
-- 56) § 28 ods. 3 písm. e) a f) zákona č. 566/2001 Z. z.
 
 - 56a) § 5 ods. 1 písm. d) až j) zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
