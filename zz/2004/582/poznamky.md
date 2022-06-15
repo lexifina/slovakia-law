@@ -32,6 +32,16 @@
 
 - 11b) § 139b zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
+- 11ba) § 86 ods. 1 zákona č. 50/1976 Z. z.
+
+- 11bb) § 86 ods. 2 zákona č. 50/1976 Z. z. v znení zákona č. 237/2000 Z. z.
+
+- 11bc) § 43d zákona č. 50/1976 Z. z. v znení neskorších predpisov.
+
+- 11bd) § 87 zákona č. 50/1976 Z. z. v znení zákona č. 237/2000 Z. z.
+
+- 11be) § 88 ods. 1 písm. a) zákona č. 50/1976 Z. z.
+
 - 11c) § 16 ods. 4 a 5 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
 
 - 11ca) § 16 ods. 3 zákona č. 245/2008 Z. z. v znení zákona č. 324/2012 Z. z.
