@@ -228,6 +228,8 @@
 
 - 33ab) § 14 ods. 1 písm. a) zákona č. 153/2013 Z. z. v znení neskorších predpisov.
 
+- 33ac) Príloha č. 1 časť B písm. a) zákona č. 153/2013 Z. z. v znení zákona č. 252/2021 Z. z.
+
 - 34) Zákon č. 219/2002 Z. z. o povolaní lekára, o Slovenskej lekárskej komore, o povolaní zubného lekára, o Slovenskej komore zubných lekárov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 35) Zákon č. 216/2002 Z. z. o povolaní lekárnika, o Slovenskej lekárnickej komore a o doplnení zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov v znení neskorších predpisov.
