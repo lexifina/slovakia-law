@@ -398,11 +398,33 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - 72. V § 82 ods. 6 písm. d) sa slová „13 a 16“ nahrádzajú slovami „12 písm. d) až l) a ods. 15“.
 
+- 73. V 82 ods. 6 sa za písmeno e) vkladá písmeno f), ktoré znie:
+
+  - f) do 3 000 eur vzdelávacej ustanovizni, ak poruší povinnosť podľa § 40 ods. 12 písm. m) a n),“.
+
 - 74. V § 82 sa odsek 6 dopĺňa písmenom h), ktoré znie:
 
 - „h)
 
 - do 500 eur vzdelávacej ustanovizni, ak poruší povinnosť podľa § 39b ods. 26.“.
+
+- 75. V § 92a ods. 2 sa vypúšťa písmeno d).
+
+  - Doterajšie písmená e) až g) sa označujú ako písmená d) až f).
+
+- 76. V § 92a ods. 3 písm. e), k), l) a p) sa slová „špecializačného štúdia, certifikačnej prípravy alebo prípravy na výkon práce v zdravotníctve“ nahrádzajú slovami „špecializačného štúdia alebo certifikačnej prípravy“.
+
+- 77. V § 92a ods. 3 písmeno f) znie:
+
+- „f)
+
+- označenie špecializačného študijného programu alebo certifikačného študijného programu,“.
+
+- 78. V § 92a ods. 3 písm. h) sa vypúšťajú slová „údaj o rozsahu pracovného úväzku zdravotníckeho pracovníka v ďalšom vzdelávaní a“.
+
+- 79. V § 92a ods. 3 písm. r) sa slová „diplomu o špecializácii, certifikátu alebo osvedčenia o príprave na výkon práce v zdravotníctve“ nahrádzajú slovami „diplomu o špecializácii alebo certifikátu“.
+
+- 80. V § 92a ods. 5 druhej vete sa vypúšťajú slová „alebo osvedčenia o príprave na výkon práce v zdravotníctve“.
 
 - 81. V § 102al ods. 7 sa slová „§ 40 ods. 20“ nahrádzajú slovami „§ 40 ods. 19“ a slová „§ 40 ods. 11“ sa nahrádzajú slovami „§ 40 ods. 10“.
 
@@ -438,16 +460,16 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - 85. V prílohe č. 3 časti A písm. a) tabuľky č. 1 a 2 znejú:
 
-- „[Tabuľky č. 1 a 2](assets/33018ec9fa33fe2a80a1655fdfd4c052e06f93718b84d2878380238ca9031869.pdf)“.
+- „[Tabuľky č. 1 a 2](assets/6362fd5b83c185f1bc6e117bd93ea6305fbb6a09b80b1bc650021c8881f43395.pdf)“.
 
 - 86. V prílohe č. 3 časti A písm. c) tabuľka č. 3 znie:
 
-- „[Tabuľka č. 3](assets/1ddb3688bd36f47ff8aa718c7f1a2334e1b94370c192a008908c8025f63a05c6.pdf)“.
+- „[Tabuľka č. 3](assets/baf2c93f11b5a3beb552c46ca4e41609f76137546427ba525aab652b18bdb350.pdf)“.
 
 - 87. V prílohe č. 3 časti B písm. a) tabuľka č. 1 znie:
 
-- „[Tabuľka č. 1](assets/7c1f8b73da48ee8604494c30eb429bf45dfb53efc6e252f38a36b6f1559b475e.pdf)“.
+- „[Tabuľka č. 1](assets/53b3a2c332c45f7a647324f6578837c79c39fb22e341e3cc678294d71b9bd5c9.pdf)“.
 
 - 88. V prílohe č. 3 časti B písm. b) tabuľka č. 2 znie:
 
-- „[Tabuľka č. 2](assets/6b7b4b177824d45a1b98e84e88f40c26245c91db90eb5e08a3083f29a6c59d70.pdf)“.
+- „[Tabuľka č. 2](assets/0da84edc06fce23351174176daf2e2064883d517d74aac9ab723a130a4148309.pdf)“.
