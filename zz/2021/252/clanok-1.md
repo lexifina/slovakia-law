@@ -56,11 +56,21 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - l)
 
-- uskutočniť špecializačnú skúšku v rámci rezidentského štúdia najneskôr do dvoch mesiacov od prijatia písomnej prihlášky zdravotníckeho pracovníka na vykonanie špecializačnej skúšky,“.
+- uskutočniť špecializačnú skúšku v rámci rezidentského štúdia najneskôr do dvoch mesiacov od prijatia písomnej prihlášky zdravotníckeho pracovníka na vykonanie špecializačnej skúšky,
+
+- m)
+
+- poskytovať elektronicky postupom, metódami a v lehotách podľa osobitného predpisu<sup>33ab</sup>) kópie dokladov a údaje podľa § 92a ods. 3 národnému centru,
+
+- n)
+
+- zabezpečiť pri poskytovaní kópií dokladov a poskytovaní údajov podľa písmena m) spracúvanie osobných údajov v Centrálnom registri zdravotníckych pracovníkov v ďalšom vzdelávaní výlučne v rozsahu spracúvaných osobných údajov podľa osobitného predpisu.<sup>33ac</sup>)“.
 
   - Poznámky pod čiarou k odkazom 33ab a 33ac znejú:
 
-  - „<sup>33ab</sup>) § 14 ods. 1 písm. a) zákona č. 153/2013 Z. z. v znení neskorších predpisov.“.
+  - „<sup>33ab</sup>) § 14 ods. 1 písm. a) zákona č. 153/2013 Z. z. v znení neskorších predpisov.
+
+  - <sup>33ac</sup>) Príloha č. 1 časť B písm. a) zákona č. 153/2013 Z. z. v znení zákona č. 252/2021 Z. z.“.
 
 - 3. V § 40 odseky 20 a 21 znejú:
 
