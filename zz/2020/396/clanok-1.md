@@ -30,6 +30,14 @@ Zákon č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov v znení z
 
 - <sup>11</sup>) Príloha č. 57 bod 7 vyhlášky Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 161/2019 Z. z. o meradlách a metrologickej kontrole.“.
 
+- 5. V § 7 ods. 2 sa za písmeno f) vkladá nové písmeno g), ktoré znie:
+
+- „g)
+
+- prepravený na daňové územie z iného členského štátu v pozastavení dane ozbrojenými silami iných členských štátov na použitie týmito ozbrojenými silami a ich civilnými zamestnancami pri obrannom úsilí v rámci spoločnej bezpečnostnej a obrannej politiky Európskej únie; preprava alkoholického nápoja v pozastavení dane sa uskutoční podľa § 18 ods. 12,“.
+
+  - Doterajšie písmená g) a h) sa označujú ako písmená h) a i).
+
 - 6. V § 9 ods. 2 písm. c) a ods. 12 písm. d), § 15 ods. 1 písm. b), § 15a ods. 2 písm. c), § 19 ods. 2 písm. b) a c), § 20 ods. 2 písm. b), § 29 ods. 3 písm. b) sa slová „mernej jednotke“ nahrádzajú slovami „meracej jednotke<sup>19a</sup>)“.
 
   - Poznámka pod čiarou k odkazu 19a znie:
@@ -67,6 +75,18 @@ Zákon č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov v znení z
 - 13. V § 9 ods. 17 sa na konci pripájajú tieto vety:
 
 - „Ak užívateľský podnik podľa prvej vety nevykonáva svoju činnosť, colný úrad môže upustiť od povinnosti zabezpečiť prítomnosť zamestnanca colného úradu v tomto užívateľskom podniku, pričom je povinný priestory, v ktorých sa lieh používa na účely oslobodené od dane podľa § 40 ods. 1 písm. a) alebo sa lieh regeneruje, zabezpečiť uzáverou colného úradu. Uzáverou priestoru sa rozumie uzamknutie a zabezpečenie uzáverou colného úradu všetkých prístupových miest do priestoru, v ktorom sa lieh používa na účely oslobodené od dane podľa § 40 ods. 1 písm. a) alebo sa lieh regeneruje, a to za prítomnosti prevádzkovateľa užívateľského podniku, pričom odstránenie uzáver colného úradu a odomknutie je možné uskutočniť len v prítomnosti zamestnanca colného úradu a prevádzkovateľa užívateľského podniku. Ak nie je možné zabezpečiť uzáverou colného úradu priestory užívateľského podniku, colný úrad zabezpečí technické zariadenia a technologické zariadenia v užívateľskom podniku uzáverami colného úradu tak, aby sa zabránilo použitiu liehu na účely oslobodené od dane podľa § 40 ods. 1 písm. a) alebo regenerácii liehu.“.
+
+- 15. V § 10 ods. 1 písmeno j) znie:
+
+- „j)
+
+- prijatia alkoholického nápoja osobou uvedenou v § 32 ods. 2 alebo ozbrojenými silami iných štátov, ktoré sú stranami Severoatlantickej zmluvy, na použitie týmito ozbrojenými silami a ich civilnými zamestnancami v súvislosti s aktivitami podľa medzinárodnej zmluvy,<sup>19</sup>) ak na takéto prijatie nenadväzuje oslobodenie od dane podľa § 7 ods. 2 písm. f), alebo ozbrojenými silami iných členských štátov na použitie týmito ozbrojenými silami a ich civilnými zamestnancami pri obrannom úsilí v rámci spoločnej bezpečnostnej a obrannej politiky Európskej únie, ak na takéto prijatie nenadväzuje oslobodenie od dane podľa § 7 ods. 2 písm. g).“.
+
+- 18. V § 11 ods. 1 písmeno j) znie:
+
+- „j)
+
+- ktorá je uvedená v § 32 ods. 2 alebo ozbrojené sily iných štátov, ktoré sú stranami Severoatlantickej zmluvy, ktoré prijali alkoholický nápoj na použitie týmito ozbrojenými silami a ich civilnými zamestnancami v súvislosti s aktivitami podľa medzinárodnej zmluvy,<sup>19</sup>) ak na takéto prijatie nenadväzuje oslobodenie od dane podľa § 7 ods. 2 písm. f), alebo ozbrojené sily iných členských štátov, ktoré prijali alkoholický nápoj na použitie týmito ozbrojenými silami a ich civilnými zamestnancami pri obrannom úsilí v rámci spoločnej bezpečnostnej a obrannej politiky Európskej únie, ak na takéto prijatie nenadväzuje oslobodenie od dane podľa § 7 ods. 2 písm. g).“.
 
 - 22. V § 13 ods. 2 písmeno c) znie:
 
@@ -136,11 +156,15 @@ Zákon č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov v znení z
 
   - „<sup>18a</sup>) Zákon č. 98/2004 Z. z. v znení neskorších predpisov.“.
 
+- 35. V § 18 ods. 1 písm. a) a ods. 10 prvej vete sa na konci pripájajú tieto slová: „alebo ozbrojeným silám Slovenskej republiky na použitie týmito ozbrojenými silami a ich civilnými zamestnancami pri obrannom úsilí v rámci spoločnej bezpečnostnej a obrannej politiky Európskej únie“.
+
 - 36. V § 18 ods. 1 písm. b) sa za slovo „do“ vkladá slovo „iného“.
 
 - 37. V § 18 ods. 7 tretej vete sa vypúšťajú slová „alebo prijatia v mieste priameho dodania“.
 
 - 38. V § 18 ods. 9 sa vypúšťajú slová „okrem prepravy alkoholického nápoja na miesto priameho dodania“.
+
+- 39. V § 18 ods. 12 druhá veta znie: „Preprava alkoholického nápoja v pozastavení dane z územia Európskej únie ozbrojeným silám iných členských štátov, ktoré sú stranami Severoatlantickej zmluvy, a ich civilným zamestnancom, na použitie v súvislosti s aktivitami podľa medzinárodnej zmluvy,<sup>19</sup>) alebo z územia Európskej únie ozbrojeným silám iných členských štátov na použitie týmito ozbrojenými silami a ich civilnými zamestnancami pri obrannom úsilí v rámci spoločnej bezpečnostnej a obrannej politiky Európskej únie alebo z daňového územia ozbrojeným silám Slovenskej republiky a ich civilným zamestnancom na použitie v súvislosti s aktivitami podľa medzinárodnej zmluvy,<sup>19</sup>) na územie štátov, ktoré sú stranami Severoatlantickej zmluvy, alebo z daňového územia ozbrojeným silám Slovenskej republiky na použitie týmito ozbrojenými silami a ich civilnými zamestnancami pri obrannom úsilí v rámci spoločnej bezpečnostnej a obrannej politiky Európskej únie, sa uskutočňuje s osvedčením o oslobodení.“.
 
 - 40. § 18 sa dopĺňa odsekom 13, ktorý znie:
 
@@ -367,6 +391,12 @@ Zákon č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov v znení z
 - § 14 zákona č. 157/2018 Z. z.
 
 - Vyhláška Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 188/2018 Z. z. o spotrebiteľskom balení, o fľaši ako odmernej nádobe, o požiadavkách na kontrolu množstva výrobku v spotrebiteľskom balení a o požiadavkách na kontrolu skutočného objemu fľaše ako odmernej nádoby v znení vyhlášky č. 433/2019 Z. z.“.
+
+- 87. V § 51 sa odsek 9 dopĺňa písmenom o), ktoré znie:
+
+- „o)
+
+- prijatý ozbrojenými silami iných členských štátov na použitie týmito ozbrojenými silami a ich civilnými zamestnancami pri obrannom úsilí v rámci spoločnej bezpečnostnej a obrannej politiky Európskej únie.“.
 
 - 88. V § 52 ods. 1 písm. b) sa slová „vydaním kontrolných známok“ nahrádzajú slovami „dovozom spotrebiteľského balenia“.
 
@@ -608,6 +638,8 @@ Zákon č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov v znení z
 
 - do 331 eur za správny delikt podľa odseku 1 písm. aj).“.
 
+- 114. V § 71 ods. 1 písm. b) a ods. 2 písm. b) sa slová „písm. h)“ nahrádzajú slovami „písm. i)“.
+
 - 115. V § 71 ods. 2 písmeno a) znie:
 
 - „a)
@@ -710,7 +742,75 @@ Zákon č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov v znení z
 
 - (8)
 
-- Konanie o uložení pokuty právoplatne neukončené k 30. júnu 2021 sa ukončí podľa § 70 a 71 v znení účinnom od 1. júla 2021, ak je to pre právnickú osobu alebo fyzickú osobu priaznivejšie.“.
+- Konanie o uložení pokuty právoplatne neukončené k 30. júnu 2021 sa ukončí podľa § 70 a 71 v znení účinnom od 1. júla 2021, ak je to pre právnickú osobu alebo fyzickú osobu priaznivejšie.
+
+- § 76f
+
+- Prechodné ustanovenia k úpravám účinným od 1. júla 2022
+
+- (1)
+
+- Osoba, ktorá chce byť schváleným odosielateľom a od 13. februára 2023 odosielať alkoholický nápoj uvedený do daňového voľného obehu na územie iného členského štátu na podnikateľské účely, musí najneskôr do 31. decembra 2022 požiadať colný úrad o registráciu a vydanie povolenia odosielať alkoholický nápoj na podnikateľské účely.
+
+- (2)
+
+- Žiadosť o registráciu a vydanie povolenia odosielať alkoholický nápoj na podnikateľské účely musí obsahovať okrem údajov podľa osobitného predpisu<sup>84</sup>)
+
+- a)
+
+- obchodný názov alkoholického nápoja a príslušný kód kombinovanej nomenklatúry,
+
+- b)
+
+- údaj o predpokladanom ročnom objeme alkoholického nápoja odosielaného v daňovom voľnom obehu v príslušnej meracej jednotke.
+
+- (3)
+
+- Prílohou k žiadosti podľa odseku 2 je doklad preukazujúci oprávnenie na podnikanie nie starší ako 30 dní alebo jeho osvedčená kópia, ak je žiadateľom právnická osoba, ktorá nemá sídlo na daňovom území, alebo fyzická osoba, ktorá nemá trvalý pobyt na daňovom území.
+
+- (4)
+
+- Colný úrad pred vykonaním registrácie a vydaním povolenia odosielať alkoholický nápoj na podnikateľské účely preverí skutočnosti a údaje podľa odsekov 2 a 3 a ak sú tieto skutočnosti a údaje pravdivé, colný úrad žiadateľa zaregistruje a vydá mu povolenie odosielať alkoholický nápoj na podnikateľské účely do 30 dní odo dňa podania tejto žiadosti.
+
+- (5)
+
+- Osoba, ktorá chce byť schváleným príjemcom a od 13. februára 2023 prijímať alkoholický nápoj uvedený do daňového voľného obehu na území iného členského štátu na daňovom území na podnikateľské účely, musí najneskôr do 31. decembra 2022 požiadať colný úrad o registráciu a vydanie povolenia prijímať alkoholický nápoj na podnikateľské účely.
+
+- (6)
+
+- Žiadosť o registráciu a vydanie povolenia prijímať alkoholický nápoj na podnikateľské účely musí obsahovať okrem údajov podľa osobitného predpisu<sup>84</sup>)
+
+- a)
+
+- obchodný názov prijímaného alkoholického nápoja a príslušný kód kombinovanej nomenklatúry,
+
+- b)
+
+- údaj o predpokladanom ročnom objeme alkoholického nápoja prijímaného v daňovom voľnom obehu v príslušnej meracej jednotke,
+
+- c)
+
+- údaje potrebné na vyžiadanie výpisu z registra trestov<sup>20a</sup>) žiadateľa alebo jeho zodpovedného zástupcu, ak je žiadateľom fyzická osoba; ak je žiadateľom právnická osoba, údaje potrebné na vyžiadanie výpisu z registra trestov tejto právnickej osoby, zodpovedného zástupcu a fyzických osôb, ktoré sú členmi riadiacich orgánov alebo kontrolných orgánov, ak chce prijímať lieh v spotrebiteľskom balení,
+
+- d)
+
+- zoznam majetkovo prepojených osôb a personálne prepojených osôb so žiadateľom, ak chce prijímať lieh v spotrebiteľskom balení.
+
+- (7)
+
+- Prílohou k žiadosti podľa odseku 6 je doklad preukazujúci oprávnenie na podnikanie nie starší ako 30 dní alebo jeho osvedčená kópia, ak je žiadateľom právnická osoba, ktorá nemá sídlo na daňovom území, alebo fyzická osoba, ktorá nemá trvalý pobyt na daňovom území.
+
+- (8)
+
+- Ak chce žiadateľ podľa odseku 5 prijímať lieh v spotrebiteľskom balení, musí spĺňať aj podmienky podľa § 52 ods. 3.
+
+- (9)
+
+- Colný úrad pred vykonaním registrácie a vydaním povolenia prijímať alkoholický nápoj na podnikateľské účely preverí skutočnosti a údaje podľa odsekov 6 a 7. Ak sú tieto skutočnosti a údaje pravdivé a žiadateľ spĺňa podmienky podľa odseku 8, colný úrad žiadateľa zaregistruje a vydá mu povolenie prijímať alkoholický nápoj na podnikateľské účely do 30 dní odo dňa podania tejto žiadosti.
+
+- (10)
+
+- Ak konanie o žiadosti o zaradenie do evidencie príjemcov (odberateľov) liehu podľa § 26 ods. 1 v znení účinnom do 12. februára 2023 nebolo právoplatne ukončené do 12. februára 2023, konanie sa zastavuje.“.
 
 - 123. Príloha č. 2 sa dopĺňa siedmym až desiatym bodom, ktoré znejú:
 
