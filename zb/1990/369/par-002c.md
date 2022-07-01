@@ -1,6 +1,6 @@
 # § 2c Číslovanie budov
 
-(1) Obec určuje, mení alebo zrušuje súpisné číslo a orientačné číslo budovám, vedie evidenciu súpisných čísiel a evidenciu orientačných čísiel a udržiava ju v aktuálnom stave. Obec zmení alebo zruší súpisné číslo alebo orientačné číslo aj bez žiadosti, ak sa zmení alebo pominie dôvod, pre ktorý bolo určené.
+(1) Obec určuje, mení alebo zrušuje súpisné číslo a orientačné číslo budovám, vedie evidenciu súpisných čísiel a evidenciu orientačných čísiel a udržiava ju v aktuálnom stave. Obec zmení alebo zruší súpisné číslo alebo orientačné číslo aj bez žiadosti, ak sa zmení alebo pominie dôvod, pre ktorý bolo určené; to neplatí, ak je iný dôvod na ponechanie súpisného čísla alebo orientačného čísla.
 
 (2) Na označovanie budov súpisnými číslami obstaráva obec na vlastné náklady tabuľky rovnakého vzoru. Obec môže rozhodnúť o označovaní budov orientačnými číslami na tabuľkách rovnakého vzoru.
 

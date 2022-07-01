@@ -10,4 +10,4 @@
 
 (5) Označovanie ulíc a iných verejných priestranstiev názvami zabezpečuje obec na vlastné náklady.
 
-(6) Vlastník budovy<sup>2c</sup>) je povinný strpieť označenie budovy názvom ulice alebo iného verejného priestranstva.
+(6) Vlastník stavby je povinný strpieť označenie budovy<sup>2c</sup>) alebo inej stavby názvom ulice alebo iného verejného priestranstva.
