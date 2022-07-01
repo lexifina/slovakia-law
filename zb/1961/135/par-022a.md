@@ -10,7 +10,7 @@ Cestný správny orgán a obec v rozsahu svojej pôsobnosti uložia pokutu do 33
 
   - 1. užíva diaľnicu, cestu alebo miestnu cestu iným spôsobom než zvyčajným alebo na iné účely, než na ktoré sú určené, s výnimkou nadrozmerných dopráv a nadmerných dopráv (zvláštne užívanie),
 
-  - 2. vykoná uzávierku diaľnice, cesty alebo miestnej cesty alebo nedodrží povolený termín uzávierky a obchádzky,
+  - 2. vykoná uzávierku diaľnice, cesty, miestnej cesty alebo verejnej účelovej cesty alebo nedodrží povolený termín uzávierky a obchádzky,
 
   - 3. v ochrannom pásme diaľnice, cesty alebo miestnej cesty vykoná práce (činnosti), ktoré by mohli ohroziť pozemnú komunikáciu alebo premávku na nej,
 
