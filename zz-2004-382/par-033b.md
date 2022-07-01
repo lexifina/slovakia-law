@@ -1,0 +1,3 @@
+# § 33b Spoločné ustanovenie k elektronicky podávaným žiadostiam a úkonom
+
+Ak osobitný predpis neustanovuje inak,<sup>16c</sup>) prílohy k žiadostiam a úkonom podľa tohto zákona, ktoré sú vyhotovené v listinnej podobe, možno ministerstvu a zadávateľovi doručiť v elektronickej podobe tak, že sa prevedú do elektronickej podoby a pripoja sa k elektronickej žiadosti alebo úkonu podľa tohto zákona, ktoré podávateľ žiadosti, znalec, tlmočník alebo prekladateľ autorizoval; autorizácia takto vyhotovených elektronických dokumentov sa nevyžaduje a ustanovenia osobitného predpisu<sup>16d</sup>) o zaručenej konverzii sa nepoužijú. Ministerstvo a zadávateľ úkonu si môžu vyžiadať predloženie týchto príloh v listinnej podobe, ak to považujú za potrebné.
