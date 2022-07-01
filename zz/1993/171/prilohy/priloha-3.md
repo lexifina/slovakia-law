@@ -28,7 +28,7 @@ Príloha č. 3 k zákonu č. 171/1993 Z. z.
 
     - l) podvod vrátane podvodu týkajúceho sa finančných záujmov Európskej únie, poškodzovanie finančných záujmov Európskej únie,
 
-    - m) legalizácia príjmu z trestnej činnosti a falšovanie, pozmeňovanie a neoprávnená výroba peňazí a cenných papierov,
+    - m) legalizácia príjmu z trestnej činnosti a financovanie terorizmu a falšovanie, pozmeňovanie a neoprávnená výroba peňazí a cenných papierov,
 
     - n) počítačová kriminalita,
 

@@ -16,4 +16,4 @@
 
 (5) Záznam o cestujúcom a výsledok jeho spracúvania podľa odseku 1 písm. b) môže byť poskytnutý národnou ústredňou príslušnému orgánu a Europolu výlučne na prijatie ďalších opatrení pri predchádzaní, odhaľovaní alebo stíhaní vybraného trestného činu alebo pri pátraní po páchateľovi vybraného trestného činu.
 
-(6) Pri postupoch podľa odseku 1 písm. a) a b) je národná ústredňa oprávnená porovnávať záznam o cestujúcom s údajmi v iných informačných systémoch.
+(6) Pri postupoch podľa odseku 1 je národná ústredňa oprávnená porovnávať záznam o cestujúcom s údajmi v iných informačných systémoch.

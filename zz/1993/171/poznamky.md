@@ -16,13 +16,13 @@
 
 - 2c) Zákon č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 2d) Rozhodnutie Rady 2007/845/SVV zo 6. decembra 2007 o spolupráci medzi úradmi pre vyhľadávanie majetku v členských štátoch pri vypátraní a identifikácii príjmov z trestnej činnosti alebo iného majetku súvisiaceho s trestnou činnosťou (Ú. v. EÚ L 332, 18. 12. 2007).
+
 - 3) Napr. zákon Národnej rady Slovenskej republiky č. 162/1993 Z. z. o občianskych preukazoch, zákon č. 190/2003 Z. z. o strelných zbraniach a strelive a o zmene a doplnení niektorých zákonov, zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 4) Napríklad Trestný zákon, Civilný sporový poriadok, Civilný mimosporový poriadok, Správny súdny poriadok, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
 - 4a) Napríklad § 141 až 152 Trestného poriadku.
-
-- 5) Zákon Národnej rady Slovenskej republiky č. 328/1996 Z. z., ktorým sa ustanovujú nové sídla a obvody súdov, a o zmene a doplnení niektorých zákonov v znení zákona č. 481/2002 Z. z.
 
 - 5a) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) (Ú. v. EÚ L 119, 4. 5. 2016), zákon č. 85/1990 Zb. o petičnom práve v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov, zákon č. 9/2010 Z. z. o sťažnostiach v znení neskorších predpisov, zákon č. 307/2014 Z. z. o niektorých opatreniach súvisiacich s oznamovaním protispoločenskej činnosti a o zmene a doplnení niektorých zákonov v znení zákona č. 125/2016 Z. z., zákon č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov v znení zákona č. 177/2018 Z. z. a zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -30,15 +30,11 @@
 
 - 7) Zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
 
-- 7a) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov.
-
 - 8) § 116 zákona č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov.
 
 - 8a) Napríklad § 101 Civilného sporového poriadku, § 77 Správneho súdneho poriadku, § 120 ods. 3 a § 128 Trestného poriadku, § 42 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 9) Napr. zákon Národnej rady Slovenskej republiky č. 162/1993 Z. z. o občianskych preukazoch, zákon č. 381/1997 Z. z. o cestovných dokladoch v znení neskorších predpisov, zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 10) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 10a) § 742 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
 
@@ -49,6 +45,8 @@
 - 10b) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
 - 11) § 2 Obchodného zákonníka.
+
+- 11a) § 7 ods. 2 zákona č. 143/1998 Z. z. v znení zákona č. 402/2013 Z. z.
 
 - 11b) § 4 ods. 1 písm. f) zákona č. 428/2002 Z. z. o ochrane osobných údajov v znení zákona č. 602/2003 Z. z.
 
@@ -84,7 +82,9 @@
 
 - 11f) § 91 ods. 4 písm. g) zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
 
-- 11g) Zákon č. 367/2000 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o zmene a doplnení niektorých zákonov.
+- 11g) Čl. 3 nariadenia Európskeho parlamentu a Rady (EÚ) 2021/784 z 29. apríla 2021 o riešení šírenia teroristického obsahu online (Ú. v. EÚ L 172, 17. 5. 2021).
+
+- 11h) Čl. 4 nariadenia (EÚ) 2021/784.
 
 - 12) § 4 a 5 zákona Národnej rady Slovenskej republiky č. 219/1996 Z. z. o ochrane pred zneužívaním alkoholických nápojov a o zriaďovaní a prevádzke protialkoholických záchytných izieb.
 
@@ -144,7 +144,7 @@
 
 - 27db) Zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. v znení neskorších predpisov.
 
-- 27dc) § 45 zákona č. 428/2002 Z. z. v znení zákona č. 90/2005 Z. z.
+- 27dc) Napríklad § 20 ods. 3 písm. f) zákona č. 15/2005 Z. z. o ochrane druhov voľne žijúcich živočíchov a voľne rastúcich rastlín reguláciou obchodu s nimi a o zmene a doplnení niektorých zákonov v znení zákona č. 7/2022 Z. z.
 
 - 27dd) Napríklad rozhodnutie Rady 2008/615/SVV z 23. júna 2008 o zintenzívnení cezhraničnej spolupráce, najmä v boji proti terorizmu a cezhraničnej trestnej činnosti (Ú. v. EÚ L 210, 6. 8. 2008).
 

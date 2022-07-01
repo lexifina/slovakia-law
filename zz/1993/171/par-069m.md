@@ -18,7 +18,7 @@
 
 - g) názov leteckého dopravcu, číslo letu, dátum, čas a miesto odletu lietadla a dátum, čas a miesto príletu lietadla.
 
-(3) Pseudonymizovaný záznam o cestujúcom možno použiť v úplnom rozsahu na účely uvedené v § 69j ods. 1 alebo ods. 2 alebo poskytnúť príslušnému orgánu, Europolu alebo inému štátu len na základe žiadosti, ktorá musí byť založená na individuálnom základe a riadne odôvodnená a len so súhlasom prezidenta Policajného zboru alebo ním poverenej osoby z národnej ústredne.
+(3) Pseudonymizovaný záznam o cestujúcom možno použiť v úplnom rozsahu na účely uvedené v § 69j ods. 1 alebo ods. 2 alebo poskytnúť príslušnému orgánu, Europolu alebo inému štátu len na základe žiadosti, ktorá musí byť založená na individuálnom základe a riadne odôvodnená a len so súhlasom prezidenta Policajného zboru alebo ním poverenej osoby.
 
 (4) Výsledky spracúvania záznamu o cestujúcom sa v informačnom systéme záznamov o cestujúcich uchovávajú len na účely ich poskytnutia príslušnému orgánu, Europolu alebo inému štátu.
 

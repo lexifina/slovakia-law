@@ -1,6 +1,6 @@
 # § 69i Povinnosti leteckého dopravcu
 
-(1) Letecký dopravca je povinný poskytovať národnej ústredni záznam o cestujúcom pri každom lete mimo Európskej únie. Letecký dopravca je povinný poskytovať národnej ústredni záznam o cestujúcom aj pri lete v rámci Európskej únie, ak tak určí národná ústredňa; zoznam týchto letov sa uverejňuje v leteckej informačnej príručke.<sup>27ef</sup>) Na určenie letov v rámci Európskej únie podľa predchádzajúcej vety sa nevzťahuje všeobecný predpis o správnom konaní.<sup>10</sup>)
+(1) Letecký dopravca je povinný poskytovať národnej ústredni záznam o cestujúcom pri každom lete mimo Európskej únie aj pri každom lete v rámci Európskej únie.
 
 (2) Ak ide o let so spoločnými letovými kódmi jedného alebo viacerých leteckých dopravcov, záznam o cestujúcom je povinný poskytnúť ten letecký dopravca, ktorý let prevádzkuje.
 
@@ -14,7 +14,7 @@
 
 (5) Letecký dopravca môže pri zasielaní záznamu o cestujúcom zaslať len tie údaje, ktoré boli doplnené alebo zmenené oproti predchádzajúcemu zaslanému záznamu.
 
-(6) Záznam o cestujúcom sa zasiela v rozsahu údajov, ktoré má letecký dopravca v danom čase k dispozícii; najviac však v rozsahu podľa prílohy č. 4.
+(6) Záznam o cestujúcom sa zasiela v rozsahu údajov, ktoré má letecký dopravca v danom čase k dispozícii; najviac však v rozsahu podľa prílohy č. 4. Záznam o cestujúcom v rozsahu údajov podľa prílohy č. 4 písm. a) až g) je letecký dopravca povinný zaslať vždy pri prílete alebo odlete cez vonkajšiu hranicu; tento záznam o cestujúcom je letecký dopravca povinný vymazať do 24 hodín od pristátia daného letu.
 
 (7) Záznam o cestujúcom sa zasiela jedným z možných formátov údajov prostredníctvom podporovaného protokolu ustanoveného osobitným predpisom.<sup>27eg</sup>) Letecký dopravca je povinný oznámiť národnej ústredni spoločný protokol a formát údajov, ktorými bude poskytovať záznam o cestujúcom.
 

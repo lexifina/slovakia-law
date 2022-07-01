@@ -1,6 +1,6 @@
 # § 27a Oprávnenie vykázať zo spoločného obydlia
 
-(1) Policajt je oprávnený vykázať z bytu alebo domu alebo iného priestoru spoločne obývaného s ohrozenou osobou a aj z jeho bezprostredného okolia (ďalej len „spoločné obydlie“) osobu, u ktorej možno na základe zistených skutočností očakávať útok na život, zdravie, slobodu alebo zvlášť závažný útok na ľudskú dôstojnosť ohrozenej osoby, najmä vzhľadom na predchádzajúce takéto útoky; súčasťou vykázania zo spoločného obydlia je aj zákaz vstupu vykázanej osobe do spoločného obydlia počas 14 dní od vykázania. Policajt je oprávnený vykázať zo spoločného obydlia takúto osobu aj počas jej neprítomnosti.
+(1) Policajt je oprávnený vykázať z bytu alebo domu alebo iného priestoru spoločne obývaného s ohrozenou osobou a aj z jeho bezprostredného okolia (ďalej len „spoločné obydlie“) osobu, u ktorej možno na základe zistených skutočností očakávať útok na život, zdravie, slobodu alebo zvlášť závažný útok na ľudskú dôstojnosť ohrozenej osoby, najmä vzhľadom na predchádzajúce takéto útoky; súčasťou vykázania zo spoločného obydlia je aj zákaz vstupu vykázanej osobe do spoločného obydlia počas 14 dní od vykázania, pričom do tejto doby sa počíta aj deň vykázania. Policajt je oprávnený vykázať zo spoločného obydlia takúto osobu aj počas jej neprítomnosti.
 
 (2) Počas vykázania zo spoločného obydlia je vykázaná osoba povinná nepribližovať sa k ohrozenej osobe na vzdialenosť menšiu ako 50 metrov.
 

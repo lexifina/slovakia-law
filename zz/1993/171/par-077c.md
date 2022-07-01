@@ -15,3 +15,5 @@
 (3) Činnosť príslušníka polície iného štátu pri vykonávaní úloh podľa odseku 2 riadi policajt.
 
 (4) Pri náhrade škody vzniknutej v súvislosti s vykonávaním úloh podľa odseku 2 sa postupuje podľa § 78 a podľa osobitného zákona.<sup>7</sup>)
+
+(5) Za príslušníka polície iného štátu sa považuje aj člen stáleho zboru európskej pohraničnej a pobrežnej stráže.
