@@ -124,6 +124,8 @@
 
 - 19) § 63 ods. 1 písm. a) až c) zákona Národnej rady Slovenskej republiky č. 38/1993 Z. z. o organizácii Ústavného súdu Slovenskej republiky, o konaní pred ním a o postavení jeho sudcov.
 
+- 19a) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
 - 20) § 14 ods. 5 zákona Slovenskej národnej rady č. 472/1990 Zb. o organizácii miestnej štátnej správy.
 
 - § 13 ods. 4 zákona Slovenskej národnej rady č. 595/1990 Zb. o štátnej správe pre životné prostredie.
