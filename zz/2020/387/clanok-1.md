@@ -78,6 +78,12 @@ Zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení zákona
 
 - v pozastavení dane, a to pri zistení chýbajúceho množstva pripadajúceho na technologické straty, manipulačné straty, straty pri skladovaní, prepravné straty a na prirodzené úbytky minerálneho oleja, ak sú tieto straty technicky zdôvodnené a uznané colným úradom alebo správcom dane iného členského štátu; straty uznané colným úradom nemôžu byť vyššie, ako sú normy strát minerálneho oleja podľa § 7,“.
 
+- 13. V § 10 sa odsek 2 dopĺňa písmenom j), ktoré znie:
+
+- „j)
+
+- prepravený na daňové územie z iného členského štátu v pozastavení dane ozbrojenými silami iných členských štátov na použitie týmito ozbrojenými silami a ich civilnými zamestnancami pri obrannom úsilí v rámci spoločnej bezpečnostnej a obrannej politiky Európskej únie; preprava minerálneho oleja v pozastavení dane sa uskutoční podľa § 24 ods. 14.“.
+
 - 14. § 11 vrátane nadpisu znie:
 
 - „§ 11
@@ -448,11 +454,23 @@ Zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení zákona
 
   - § 25 ods. 5 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 221/2019 Z. z.“.
 
+- 15. V § 12 ods. 1 písmeno j) znie:
+
+- „j)
+
+- prijatia minerálneho oleja osobou uvedenou v § 16 ods. 2 alebo ozbrojenými silami iných štátov, ktoré sú stranami Severoatlantickej zmluvy, na použitie týmito ozbrojenými silami a ich civilnými zamestnancami v súvislosti s aktivitami podľa medzinárodnej zmluvy,<sup>5</sup>) ak na takéto prijatie nenadväzuje oslobodenie od dane podľa § 10 ods. 2 písm. g), alebo ozbrojenými silami iného členského štátu a ich civilnými zamestnancami na použitie pri obrannom úsilí v rámci spoločnej bezpečnostnej a obrannej politiky Európskej únie, ak na takéto prijatie nenadväzuje oslobodenie od dane podľa § 10 ods. 2 písm. j),“.
+
 - 16. V § 12 ods. 2 písmeno e) znie:
 
 - „e)
 
 - použitia, dodania alebo ponúkania na použitie minerálneho oleja uvedeného v § 6 ods. 5 ako pohonnej látky,“.
+
+- 19. V § 13 ods. 1 písmeno j) znie:
+
+- „j)
+
+- uvedená v § 16 ods. 2 alebo ozbrojené sily iných štátov, ktoré sú stranami Severoatlantickej zmluvy, ktoré prijali minerálny olej na použitie týmito ozbrojenými silami a ich civilnými zamestnancami v súvislosti s aktivitami podľa medzinárodnej zmluvy,<sup>5</sup>) ak na takéto prijatie nenadväzuje oslobodenie od dane podľa § 10 ods. 2 písm. g), alebo ozbrojené sily iných členských štátov, ktoré prijali minerálny olej na použitie týmito ozbrojenými silami a ich civilnými zamestnancami pri obrannom úsilí v rámci spoločnej bezpečnostnej a obrannej politiky Európskej únie, ak na takéto prijatie nenadväzuje oslobodenie od dane podľa § 10 ods. 2 písm. j),“.
 
 - 20. V § 13 ods. 2 písmeno e) znie:
 
@@ -485,6 +503,14 @@ Zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení zákona
 - 28. V § 15 sa vypúšťa odsek 4.
 
   - Doterajšie odseky 5 a 6 sa označujú ako odseky 4 a 5.
+
+- 29. V § 17 sa v nadpise vypúšťa čiarka a slová „ktoré sú stranami Severoatlantickej zmluvy“.
+
+- 30. V § 17 odsek 1 znie:
+
+- „(1)
+
+- Daň možno vrátiť Ministerstvu obrany Slovenskej republiky z preukázateľne zdaneného minerálneho oleja dodaného na území Slovenskej republiky bez dane ozbrojeným silám iných štátov, ktoré sú stranami Severoatlantickej zmluvy, alebo ozbrojeným silám iných členských štátov (ďalej len „ozbrojené sily iných štátov“), ktoré prijali minerálny olej na použitie v služobných vozidlách, lietadlách a lodiach týmito ozbrojenými silami a ich civilnými zamestnancami v súvislosti s aktivitami podľa medzinárodnej zmluvy,<sup>5</sup>) alebo pri obrannom úsilí v rámci spoločnej bezpečnostnej a obrannej politiky Európskej únie.“.
 
 - 31. V § 18 ods. 5 sa za slová „technickými normami<sup>13</sup>)“ vkladajú slová „alebo s inou obdobnou technickou špecifikáciou s porovnateľnými alebo prísnejšími požiadavkami“.
 
@@ -564,7 +590,15 @@ Zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení zákona
 
 - 46. V § 23 ods. 16 a § 24 ods. 16 sa slovo „prijatí“ nahrádza slovom „dopravení“ a slovo „prijatie“ sa nahrádza slovom „dopravenie“.
 
+- 47. V § 24 ods. 1 písm. a) sa na konci pripájajú tieto slová: „alebo ozbrojeným silám Slovenskej republiky na použitie týmito ozbrojenými silami a ich civilnými zamestnancami pri obrannom úsilí v rámci spoločnej bezpečnostnej a obrannej politiky Európskej únie“.
+
 - 48. V § 24 ods. 1 písm. b) sa za slovo „do“ vkladá slovo „iného“.
+
+- 49. V § 24 ods. 12 prvej vete sa na konci pripájajú tieto slová: „alebo ozbrojeným silám Slovenskej republiky na použitie týmito ozbrojenými silami a ich civilnými zamestnancami pri obrannom úsilí v rámci spoločnej bezpečnostnej a obrannej politiky Európskej únie.“.
+
+- 50. V § 24 ods. 14 druhá veta znie:
+
+- „Preprava minerálneho oleja v pozastavení dane z územia Európskej únie ozbrojeným silám iných členských štátov, ktoré sú stranami Severoatlantickej zmluvy, a ich civilným zamestnancom na použitie v súvislosti s aktivitami podľa medzinárodnej zmluvy,<sup>5</sup>) alebo z územia Európskej únie ozbrojeným silám iných členských štátov na použitie týmito ozbrojenými silami a ich civilnými zamestnancami pri obrannom úsilí v rámci spoločnej bezpečnostnej a obrannej politiky Európskej únie, alebo z daňového územia ozbrojeným silám Slovenskej republiky a ich civilným zamestnancom na použitie v súvislosti s aktivitami podľa medzinárodnej zmluvy,<sup>5</sup>) na územie štátov, ktoré sú stranami Severoatlantickej zmluvy, alebo z daňového územia ozbrojeným silám Slovenskej republiky na použitie týmito ozbrojenými silami a ich civilnými zamestnancami pri obrannom úsilí v rámci spoločnej bezpečnostnej a obrannej politiky Európskej únie, sa uskutočňuje s osvedčením o oslobodení.“.
 
 - 51. V § 25 odsek 14 znie:
 
