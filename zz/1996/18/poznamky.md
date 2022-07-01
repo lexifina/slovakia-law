@@ -22,6 +22,8 @@
 
 - 7b) § 13 ods. 1 písm. e) zákona č. 507/2001 Z. z. o poštových službách v znení zákona č. 15/2004 Z. z.
 
+- 7c) Zákon č. 222/2022 Z. z. o štátnej podpore nájomného bývania a o zmene a doplnení niektorých zákonov.
+
 - 9) § 6 ods. 2 písm. a) zákona č. 491/2001 Z. z. o organizovaní trhu s vybranými poľnohospodárskymi výrobkami.
 
 - 10) § 8 ods. 1 zákona č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
