@@ -18,8 +18,6 @@
 
 - 7) § 3 zákona č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení.
 
-- 8) § 45 a 51 zákona č. 36/2005 Z. z. v znení zákona č. 175/2015 Z. z.
-
 - 9) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -53,6 +51,10 @@
 - 20) § 58 zákona č. 195/1998 Z. z. v znení neskorších predpisov.
 
 - 20a) Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006). § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
+
+- 20aa) Zákon č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 20ab) § 120 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 21) § 2 ods. 1, 5 a 8 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
