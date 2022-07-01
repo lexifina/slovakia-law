@@ -30,19 +30,25 @@
 
 - 14) Zákon č. 59/1997 Z. z., zákon č. 214/1997 Z. z., zákon č. 226/1997 Z. z.
 
-- 14a) Nariadenie Rady (ES) č. 1234/2007 (Ú. v. EÚ L 299, 16. 11. 2007) v platnom znení, nariadenie Rady (ES) č. 104/2000 zo 17. decembra 1999 o spoločnej organizácii trhov s výrobkami rybolovu a akvakultúry (Mimoriadne vydanie Ú. v. EÚ, kap. 4/zv. 4; Ú. v. ES L 17, 21. 1. 2000) v platnom znení, nariadenie Komisie (ES) č. 2848/98 z 22. decembra 1998 stanovujúce podrobné pravidlá pre uplatňovanie nariadenia Rady (EHS) č. 2075/92 o prémiovej schéme, pestovateľských kvótach a špecifickej pomoci, ktorá sa udeľuje skupinám pestovateľov v sektore nespracovaného tabaku (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 24; Ú. v. ES L 358, 31.12.1998) v platnom znení.
+- 14a) Čl. 152 až 163 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1308/2013 zo 17. decembra 2013, ktorým sa vytvára spoločná organizácia trhov s poľnohospodárskymi výrobkami a ktorým sa zrušujú nariadenia Rady (EHS) č. 922/72, (EHS) č. 234/79, (ES) č. 1037/2001 a (ES) č. 1234/2007 (Ú. v. EÚ L 347, 20. 12. 2013) v platnom znení.
 
-- 14b) Čl. 125e nariadenia Rady (ES) č. 1234/2007 (Ú. v. EÚ L 299, 16. 11. 2007) v platnom znení.
+- Čl. 14 až 21 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1379/2013 z 11. decembra 2013 o spoločnej organizácii trhov s produktmi rybolovu a akvakultúry, ktorým sa menia nariadenia Rady (ES) č. 1184/2006 a (ES) č. 1224/2009 a zrušuje nariadenie Rady (ES) č. 104/2000 (Ú. v. EÚ L 354, 28. 12. 2013) v platnom znení.
 
-- 14c) Čl. 122 písm. a) bod iii) nariadenia Rady (ES) č. 1234/2007 (Ú. v. EÚ L 299, 16. 11. 2007) v platnom znení.
+- 14b) Príloha I k Zmluve o fungovaní Európskej únie (Ú. v. EÚ C 202, 7. 6. 2016) v platnom znení.
 
-- 14d) Čl. 125c nariadenia Rady (ES) č. 1234/2007 (Ú. v. EÚ L 299, 16. 11. 2007) v platnom znení.
+- 14c) Čl. 1 ods. 1 nariadenia (EÚ) č. 1308/2013 v platnom znení.
 
-- 14e) Čl. 123 ods. 3 nariadenia Rady (ES) č. 1234/2007 (Ú. v. EÚ L 299, 16. 11. 2007) v platnom znení.
+- Čl. 1 nariadenia (EÚ) č. 1379/2013 v platnom znení.
 
-- 15) § 20f Občianskeho zákonníka.
+- 14d) Čl. 67 ods. 1 písm. b) nariadenia Európskeho parlamentu a Rady (EÚ) 2021/2115 z 2. decembra 2021, ktorým sa stanovujú pravidlá podpory strategických plánov, ktoré majú zostaviť členské štáty v rámci spoločnej poľnohospodárskej politiky (strategické plány SPP) a ktoré sú financované z Európskeho poľnohospodárskeho záručného fondu (EPZF) a Európskeho poľnohospodárskeho fondu pre rozvoj vidieka (EPFRV), a ktorým sa zrušujú nariadenia (EÚ) č. 1305/2013 a (EÚ) č. 1307/2013 (Ú. v. EÚ L 435, 6. 12. 2021).
 
-- 16) § 56 až 260 Obchodného zákonníka.
+- 14e) Čl. 5 písm. a) nariadenia (EÚ) č. 1379/2013 v platnom znení.
+
+- 14f) Čl. 5 písm. b) nariadenia (EÚ) č. 1379/2013 v platnom znení.
+
+- 15) Čl. 156 ods. 1 nariadenia (EÚ) č. 1308/2013 v platnom znení.
+
+- 16) Čl. 152 ods. 1 nariadenia (EÚ) č. 1308/2013 v platnom znení.
 
 - 16a) Nariadenie Komisie (ES) č. 1580/2007 z 21. decembra 2007, ktorým sa ustanovujú vykonávacie pravidlá pre nariadenia Rady (ES) č. 2200/96, (ES) č. 2201/96 a (ES) č. 1182/2007 v sektore ovocia a zeleniny (Ú v. EÚ L 350, 31. 12. 2007).
 
