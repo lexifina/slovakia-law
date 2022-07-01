@@ -18,4 +18,12 @@ Nariadenie vlády Slovenskej republiky č. 174/2017 Z. z., ktorým sa ustanovuj�
 
 - 3. Príloha č. 2 znie:
 
-- „[Príloha č. 2 k nariadeniu vlády č. 174/2017 Z. z.](assets/b23fe6887c1bae0df8236523ab44dab2eefb958e1218c6b61ea40aad94a120e0.pdf)“.
+- „[Príloha č. 2 k nariadeniu vlády č. 174/2017 Z. z.](assets/f08c4f6667bc24e0218bdce76fe29f293c71dd19ef738ab58912af77c45c1f24.pdf)“.
+
+- 4. Prílohy č. 1 a 2 vrátane nadpisov znejú:
+
+- „[Príloha č. 1 a 2 k nariadeniu vlády č. 174/2017 Z. z.](assets/157ece465e4cc96508c36c40f6063b4a6abb430fd30f177a37b31fb1471745d9.pdf)“.
+
+- Poznámka pod čiarou k odkazu 3 znie:
+
+- „<sup>3</sup>) Príloha vyhlášky Štatistického úradu Slovenskej republiky č. 438/2004 Z. z, ktorou sa vydáva klasifikácia štatistických územných jednotiek.“.
