@@ -30,6 +30,14 @@ Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zá
 
 - 6. V § 6 ods. 5 sa za slovom „poradí“ vypúšťa bodkočiarka a slová „to neplatí pri označovaní spotrebiteľského balenia cigár podľa § 9 ods. 7, ak ide o cigary uvedené v § 4 ods. 3 písm. b) prvom bode“.
 
+- 7. V § 7 sa za písmeno g) vkladá nové písmeno h), ktoré znie:
+
+- „h)
+
+- prepravené na daňové územie z iného členského štátu v pozastavení dane ozbrojenými silami iných členských štátov na použitie týmito ozbrojenými silami a ich civilnými zamestnancami pri obrannom úsilí v rámci spoločnej bezpečnostnej a obrannej politiky Európskej únie; preprava tabakových výrobkov v pozastavení dane sa uskutoční podľa § 22 ods. 11,“.
+
+  - Doterajšie písmeno h) sa označuje ako písmeno i).
+
 - 8. V § 9 ods. 3 sa vypúšťa posledná veta.
 
 - 9. V § 9 odsek 4 znie:
@@ -51,6 +59,12 @@ Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zá
 - 15. V § 9 ods. 12 písm. j) sa za slovom „letu“ vypúšťa bodkočiarka a slová „to neplatí pre spotrebiteľské balenie cigariet a spotrebiteľské balenie tabaku“.
 
 - 16. V § 9 ods. 12 písm. k) sa za slovom „zmluvy“ vypúšťa bodkočiarka a slová „to neplatí pre spotrebiteľské balenie cigariet a spotrebiteľské balenie tabaku“.
+
+- 17. V § 9 sa odsek 12 dopĺňa písmenom p), ktoré znie:
+
+- „p)
+
+- prijaté ozbrojenými silami iných členských štátov na použitie týmito ozbrojenými silami a ich civilnými zamestnancami pri obrannom úsilí v rámci spoločnej bezpečnostnej a obrannej politiky Európskej únie.“.
 
 - 18. V § 9 odsek 15 znie:
 
@@ -95,6 +109,18 @@ Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zá
   - „<sup>14c</sup>) Čl. 3 ods. 12 nariadenia Európskeho parlamentu a Rady (EÚ) č. 910/2014 o elektronickej identifikácii a dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zrušení smernice 1999/93/ES (Ú. v. EÚ L 257, 28. 8. 2014).“.
 
 - 27. V § 9b ods. 22 písm. d) prvom bode a druhom bode sa na konci pripájajú tieto slová: „pričom konečný stav nenávratne zničených kontrolných známok sa zaokrúhľuje na celé kusy nadol,“.
+
+- 28. V § 11 ods. 1 písmeno j) znie:
+
+- „j)
+
+- prijatia tabakových výrobkov osobou uvedenou v § 33a ods. 2 alebo ozbrojenými silami iných štátov, ktoré sú stranami Severoatlantickej zmluvy, na použitie týmito ozbrojenými silami a ich civilnými zamestnancami v súvislosti s aktivitami podľa medzinárodnej zmluvy,<sup>5</sup>) ak na takéto prijatie nenadväzuje oslobodenie od dane podľa § 7 písm. g) alebo ozbrojenými silami iných členských štátov na použitie týmito ozbrojenými silami a ich civilnými zamestnancami pri obrannom úsilí v rámci spoločnej bezpečnostnej a obrannej politiky Európskej únie, ak na takéto prijatie nenadväzuje oslobodenie od dane podľa § 7 písm. h).“.
+
+- 30. V § 12 ods. 1 písmeno j) znie:
+
+- „j)
+
+- ktorá je uvedená v § 33a ods. 2, alebo ozbrojené sily iných štátov, ktoré sú stranami Severoatlantickej zmluvy, ktoré prijali tabakové výrobky na použitie týmito ozbrojenými silami a ich civilnými zamestnancami v súvislosti s aktivitami podľa medzinárodnej zmluvy,<sup>5</sup>) ak na takéto prijatie nenadväzuje oslobodenie od dane podľa § 7 písm. g) alebo ozbrojené sily iných členských štátov, ktoré prijali tabakové výrobky na použitie týmito ozbrojenými silami a ich civilnými zamestnancami pri obrannom úsilí v rámci spoločnej bezpečnostnej a obrannej politiky Európskej únie, ak na takéto prijatie nenadväzuje oslobodenie od dane podľa § 7 písm. h).“.
 
 - 32. V § 13 ods. 2 prvej vete sa slová „prevádzkovateľ tranzitného daňového skladu, prevádzkovateľ daňového skladu pre zahraničných zástupcov“ nahrádzajú slovami „osoba, ktorej colný úrad vydal povolenie na prevádzkovanie tranzitného daňového skladu (ďalej len „prevádzkovateľ tranzitného daňového skladu“), osoba, ktorej colný úrad vydal povolenie na prevádzkovanie daňového skladu pre zahraničných zástupcov (ďalej len „prevádzkovateľ daňového skladu pre zahraničných zástupcov“),“.
 
@@ -263,6 +289,14 @@ Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zá
 - „<sup>14a</sup>) Rozhodnutie Európskeho parlamentu a Rady (EÚ) 2020/263 z 15. januára 2020 o informatizácii prepravy a kontroly tovaru podliehajúceho spotrebnej dani (prepracované znenie) (Ú. v. EÚ L 58, 27. 2. 2020).“.
 
 - 60. V § 21 ods. 12 a § 22 ods. 12 sa slovo „prijatí“ nahrádza slovom „dopravení“ a slovo „prijatie“ slovom „dopravenie“.
+
+- 61. V § 22 ods. 1 písm. a) sa na konci pripájajú tieto slová: „alebo ozbrojeným silám Slovenskej republiky na použitie týmito ozbrojenými silami a ich civilnými zamestnancami pri obrannom úsilí v rámci spoločnej bezpečnostnej a obrannej politiky Európskej únie,“.
+
+- 62. V § 22 ods. 10 prvej vete sa na konci pripájajú tieto slová: „alebo ozbrojeným silám Slovenskej republiky na použitie týmito ozbrojenými silami a ich civilnými zamestnancami pri obrannom úsilí v rámci spoločnej bezpečnostnej a obrannej politiky Európskej únie“.
+
+- 63. V § 22 ods. 11 druhá veta znie:
+
+- „Preprava tabakových výrobkov v pozastavení dane z územia Európskej únie ozbrojeným silám iných členských štátov, ktoré sú stranami Severoatlantickej zmluvy, a ich civilným zamestnancom, na použitie v súvislosti s aktivitami podľa medzinárodnej zmluvy,<sup>5</sup>) alebo z územia Európskej únie ozbrojeným silám iných členských štátov na použitie týmito ozbrojenými silami a ich civilnými zamestnancami pri obrannom úsilí v rámci spoločnej bezpečnostnej a obrannej politiky Európskej únie alebo z daňového územia ozbrojeným silám Slovenskej republiky a ich civilným zamestnancom, na použitie v súvislosti s aktivitami podľa medzinárodnej zmluvy,<sup>5</sup>) na územie štátov, ktoré sú stranami Severoatlantickej zmluvy, alebo z daňového územia ozbrojeným silám Slovenskej republiky na použitie týmito ozbrojenými silami a ich civilnými zamestnancami pri obrannom úsilí v rámci spoločnej bezpečnostnej a obrannej politiky Európskej únie, sa uskutočňuje s osvedčením o oslobodení.“.
 
 - 64. V § 23 odsek 13 znie:
 
@@ -505,6 +539,58 @@ Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zá
 - (24)
 
 - Spotrebiteľské balenie tabaku označené kontrolnou známkou, na ktorej je znak pre platnosť sadzby spotrebnej dane, ktorým je veľké písmeno „D“, možno uvádzať do daňového voľného obehu do 31. januára 2022 a predávať do 31. júla 2022; po tomto dátume sa takto označené spotrebiteľské balenie tabaku považuje za neoznačené. Osoba, ktorá je oprávnená v rámci podnikania predávať potrebiteľské balenia tabaku a ktorá skladuje spotrebiteľské balenia tabaku uvedené v prvej vete, ktoré nepredala do 31. júla 2022, je povinná do 15. augusta 2022 oznámiť miestne príslušnému colnému úradu množstvo takýchto spotrebiteľských balení tabaku a zároveň v tejto lehote požiadať colný úrad o ich zničenie, pričom colný úrad takéto spotrebiteľské balenia tabaku zničí na náklady tejto osoby a o zničení vyhotoví úradný záznam o zničení; ustanovenie § 41 ods. 1 písm. a) sa nepoužije.
+
+- § 44ac
+
+- Prechodné ustanovenia účinné od 1. júla 2022
+
+- (1)
+
+- Osoba, ktorá chce byť schváleným odosielateľom a od 13. februára 2023 odosielať tabakové výrobky uvedené do daňového voľného obehu na územie iného členského štátu na podnikateľské účely, je povinná do 31. decembra 2022 požiadať colný úrad o registráciu a vydanie povolenia odosielať tabakové výrobky v daňovom voľnom obehu na územie iného členského štátu na podnikateľské účely.
+
+- (2)
+
+- Žiadosť o registráciu a vydanie povolenia odosielať tabakové výrobky v daňovom voľnom obehu na územie iného členského štátu na podnikateľské účely, musí obsahovať okrem údajov podľa osobitného predpisu<sup>25d</sup>)
+
+- a)
+
+- obchodný názov a presné vymedzenie odosielaného tabakového výrobku,
+
+- b)
+
+- údaj o predpokladanom ročnom objeme tabakových výrobkov odosielaných v daňovom voľnom obehu v príslušnej mernej jednotke.
+
+- (3)
+
+- Prílohou k žiadosti podľa odseku 2 je doklad preukazujúci oprávnenie na podnikanie nie starší ako 30 dní alebo jeho osvedčená kópia, ak je žiadateľom právnická osoba, ktorá nemá sídlo na daňovom území, alebo fyzická osoba, ktorá nemá trvalý pobyt na daňovom území.
+
+- (4)
+
+- Colný úrad pred vykonaním registrácie a vydaním povolenia odosielať tabakové výrobky v daňovom voľnom obehu na územie iného členského štátu na podnikateľské účely preverí skutočnosti a údaje podľa odsekov 2 a 3 a ak sú tieto skutočnosti a údaje pravdivé, colný úrad žiadateľa zaregistruje a vydá mu povolenie odosielať tabakové výrobky v daňovom voľnom obehu na územie iného členského štátu na podnikateľské účely do 30 dní odo dňa podania žiadosti podľa odseku 2.
+
+- (5)
+
+- Osoba, ktorá chce byť schváleným príjemcom a od 13. februára 2023 prijímať tabakové výrobky uvedené do daňového voľného obehu na území iného členského štátu na daňovom území na podnikateľské účely, je povinná do 31. decembra 2022 požiadať colný úrad o registráciu a vydanie povolenia prijímať tabakové výrobky uvedené do daňového voľného obehu na území iného členského štátu na podnikateľské účely.
+
+- (6)
+
+- Žiadosť o registráciu a vydanie povolenia prijímať tabakové výrobky uvedené do daňového voľného obehu na území iného členského štátu na podnikateľské účely musí obsahovať okrem údajov podľa osobitného predpisu<sup>25d</sup>)
+
+- a)
+
+- obchodný názov a presné vymedzenie prijímaného tabakového výrobku,
+
+- b)
+
+- údaj o predpokladanom ročnom objeme tabakových výrobkov prijímaných v daňovom voľnom obehu v príslušnej mernej jednotke.
+
+- (7)
+
+- Prílohou k žiadosti podľa odseku 6 je doklad preukazujúci oprávnenie na podnikanie nie starší ako 30 dní alebo jeho osvedčená kópia, ak je žiadateľom právnická osoba, ktorá nemá sídlo na daňovom území, alebo fyzická osoba, ktorá nemá trvalý pobyt na daňovom území.
+
+- (8)
+
+- Colný úrad pred vykonaním registrácie a vydaním povolenia prijímať tabakové výrobky uvedené do daňového voľného obehu na území iného členského štátu na podnikateľské účely preverí skutočnosti a údaje podľa odsekov 6 a 7 a ak sú tieto skutočnosti a údaje pravdivé, colný úrad žiadateľa zaregistruje a vydá mu povolenie prijímať tabakové výrobky uvedené do daňového voľného obehu na území iného členského štátu na podnikateľské účely do 30 dní odo dňa podania žiadosti podľa odseku 6.
 
 - § 44ad
 
