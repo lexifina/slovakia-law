@@ -22,6 +22,8 @@
 
 - 5a) § 146 ods. 2 a § 705a Občianskeho zákonníka v znení zákona č. 526/2002 Z. z.
 
+- 5aa) Zákon č. 222/2022 Z. z. o štátnej podpore nájomného bývania a o zmene a doplnení niektorých zákonov.
+
 - 5b) § 16 ods. 2 písm. a) zákona č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov v znení zákona č. 216/2007 Z. z.
 
 - 5c) Zákon č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
