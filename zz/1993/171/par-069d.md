@@ -2,7 +2,7 @@
 
 (1) Policajný zbor poskytuje a sprístupňuje osobné údaje iným orgánom alebo osobám, ak
 
-- a) to ustanovuje zákon,
+- a) to ustanovuje zákon,<sup>27dc</sup>)
 
 - b) je to na prospech osoby, o ktorej sa vedú osobné údaje, a ak táto osoba dala na poskytnutie alebo sprístupnenie súhlas,
 
