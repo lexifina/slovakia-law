@@ -42,7 +42,9 @@
 
 - 2cbf) § 11 ods. 4 a 9 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
-- 2d) Vyhláška Federálneho ministerstva vnútra č. 99/1989 Zb. o pravidlách premávky na pozemných komunikáciách (pravidlá cestnej premávky) v znení neskorších predpisov.
+- 2d) Zákon č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov.
 
 - 2da) Zákon č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky v znení zákona č. 512/2002 Z. z.
 
@@ -67,6 +69,8 @@
 - 2h) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
 
 - 2i) § 2 písm. a) nariadenia vlády Slovenskej republiky č. 344/2006 Z. z. o minimálnych bezpečnostných požiadavkách na tunely v cestnej sieti.
+
+- 2j) Zákon č. 249/2011 Z. z. o riadení bezpečnosti pozemných komunikácií a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 2k) Zmluva medzi štátmi, ktoré sú stranami Severoatlantickej zmluvy, a inými štátmi zúčastnenými v Partnerstve za mier vzťahujúca sa na štatút ich ozbrojených síl (oznámenie č. 324/1997 Z. z.).
 

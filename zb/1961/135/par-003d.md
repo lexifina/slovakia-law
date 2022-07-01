@@ -26,11 +26,13 @@
 
 (6) Vlastníci a správcovia pozemných komunikácií sú povinní pozemné komunikácie udržiavať v stave zodpovedajúcom účelu, na ktorý sú určené.
 
-(7) Súčasti diaľnic a ciest vo vlastníctve štátu sa môžu prenechať v nájme, po odsúhlasení ministerstvom, na základe nájomnej zmluvy. Na prenajatých súčastiach diaľnic a ciest možno zriadiť a prevádzkovať stavby slúžiace užívateľom diaľnic a ciest, najmä motoresty, motely, čerpacie stanice pohonných látok, reklamné stavby, iné zariadenia, a tiež stavby súvisiace s prevádzkou týchto stavieb.
+(7) Správca pozemnej komunikácie príslušný podľa odseku 5 je oprávnený zabezpečiť plnenie niektorých činností spojených so správou pozemných komunikácií prostredníctvom tretej osoby, a to na základe zmluvy.<sup>2d</sup>)
 
-(8) Správcovia diaľnic, ciest a miestnych ciest vedú o týchto pozemných komunikáciách technickú evidenciu.
+(8) Súčasti diaľnic a ciest vo vlastníctve štátu sa môžu prenechať v nájme, po odsúhlasení ministerstvom, na základe nájomnej zmluvy. Na prenajatých súčastiach diaľnic a ciest možno zriadiť a prevádzkovať stavby slúžiace užívateľom diaľnic a ciest, najmä motoresty, motely, čerpacie stanice pohonných látok, reklamné stavby, iné zariadenia, a tiež stavby súvisiace s prevádzkou týchto stavieb.
 
-(9) Samosprávny kraj
+(9) Správcovia diaľnic, ciest a miestnych ciest vedú o týchto pozemných komunikáciách technickú evidenciu.
+
+(10) Samosprávny kraj
 
 - a) poskytuje informácie a podklady o plánovaní, príprave a výstavbe ciest v jeho vlastníctve na účely spracovania štátnej koncepcie diaľnic a ciest bezplatne ministerstvu,
 
@@ -38,7 +40,7 @@
 
 - c) schvaľuje po kladnom prerokovaní s ministerstvom operačné plány zimnej údržby ciest vo vlastníctve samosprávneho kraja.
 
-(10) Samosprávny kraj a obec zabezpečujú
+(11) Samosprávny kraj a obec zabezpečujú
 
 - a) informačný systém zimnej spravodajskej služby ako súčasť jednotného informačného systému zimnej spravodajskej služby a údaje o stave zjazdnosti pozemných komunikácií vo svojom vlastníctve poskytujú bezplatne ministerstvu,
 
@@ -46,6 +48,6 @@
 
 - c) stavebnotechnické vybavenie ciest a miestnych ciest v ich vlastníctve podľa potrieb cestnej dopravy a obrany štátu.
 
-(11) Samosprávny kraj je povinný zachovať účelové určenie majetku, ktorý nadobudol do svojho vlastníctva podľa tohto zákona, počas jeho upotrebiteľnosti.
+(12) Samosprávny kraj je povinný zachovať účelové určenie majetku, ktorý nadobudol do svojho vlastníctva podľa tohto zákona, počas jeho upotrebiteľnosti.
 
-(12) Na majetok samosprávneho kraja, ktorý nadobudol do svojho vlastníctva podľa tohto zákona, nemožno zriadiť záložné právo,<sup>2ca</sup>) uskutočniť výkon rozhodnutia, exekúciu, konkurzné konanie a vyrovnávacie konanie podľa osobitných predpisov.<sup>2cb</sup>)
+(13) Na majetok samosprávneho kraja, ktorý nadobudol do svojho vlastníctva podľa tohto zákona, nemožno zriadiť záložné právo,<sup>2ca</sup>) uskutočniť výkon rozhodnutia, exekúciu, konkurzné konanie a vyrovnávacie konanie podľa osobitných predpisov.<sup>2cb</sup>)
