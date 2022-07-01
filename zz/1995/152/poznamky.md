@@ -8,10 +8,6 @@
 
 - 1ac) Napríklad nariadenie (ES) č. 178/2002 v platnom znení, nariadenie (ES) č. 1830/2003 Európskeho parlamentu a Rady z 22. septembra 2003 o sledovateľnosti a označovaní geneticky modifikovaných organizmov a sledovateľnosti potravín a krmív vyrobených z geneticky modifikovaných organizmov a ktorým sa mení a dopĺňa smernica 2001/18/ES (mimoriadne vydanie Ú. v. EÚ kap.13/zv. 32, Ú. v. EÚ L 268, 18. 10. 2003) v platnom znení, nariadenie Európskeho parlamentu a Rady (ES) č. 852/2004 z 29. apríla 2004 o hygiene potravín (mimoriadne vydanie Ú. v. EÚ kap. 13/zv. 34, Ú. v. EÚ L 139, 30. 4. 2004) v platnom znení, nariadenie Komisie (ES) č. 2073/2005 z 15. novembra 2005 o mikrobiologických kritériách pre potraviny (Ú. v. EÚ L 338, 22. 12. 2005) v platnom znení, nariadenie Komisie (ES) č. 1881/2006 z 19. decembra 2006, ktorým sa ustanovujú maximálne hodnoty obsahu niektorých kontaminantov v potravinách (Ú. v. ES L 364, 20. 12. 2006) v platnom znení, nariadenie Európskeho parlamentu a Rady (ES) č. 110/2008 z 15. januára 2008 o definovaní, popise, prezentácii, označovaní a ochrane zemepisných označení liehovín a o zrušení nariadenia (EHS) č. 1576/89 (Ú. v. EÚ L 39, 13. 2. 2008) v platnom znení, nariadenie Európskeho parlamentu a Rady (EÚ) č. 1169/2011 z 25. októbra 2011 o poskytovaní informácií o potravinách spotrebiteľom, ktorým sa menia a dopĺňajú nariadenia Európskeho parlamentu a Rady (ES) č. 1924/2006 a (ES) č. 1925/2006 a ktorým sa zrušuje smernica Komisie 87/250/EHS, smernica Rady 90/496/EHS, smernica Komisie 1999/10/ES, smernica Európskeho parlamentu a Rady 2000/13/ES, smernice Komisie 2002/67/ES a 2008/5/ES a nariadenie Komisie (ES) č. 608/2004 (Ú. v. EÚ L 304, 22. 11. 2011) v platnom znení, nariadenie Európskeho parlamentu a Rady (EÚ) č. 1151/2012 z 21. novembra 2012 o systémoch kvality pre poľnohospodárske výrobky a potraviny (Ú. v. EÚ L 343, 14. 12. 2012), čl. 73 až 91 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1308/2013 zo 17. decembra 2013, ktorým sa vytvára spoločná organizácia trhov s poľnohospodárskymi výrobkami a ktorým sa zrušujú nariadenia Rady (EHS) č. 922/72, (EHS) č. 234/79, (ES) č. 1037/2001 a (ES) č. 1234/2007 (Ú. v. EÚ L 347, 20. 12. 2013) v platnom znení, nariadenie Európskeho parlamentu a Rady (EÚ) 2017/625 z 15. marca 2017 o úradných kontrolách a iných úradných činnostiach vykonávaných na zabezpečenie uplatňovania potravinového a krmivového práva a pravidiel pre zdravie zvierat a dobré životné podmienky zvierat, pre zdravie rastlín a pre prípravky na ochranu rastlín, o zmene nariadení Európskeho parlamentu a Rady (ES) č. 999/2001, (ES) č. 396/2005, (ES) č. 1069/2009, (ES) č. 1107/2009, (EÚ) č. 1151/2012, (EÚ) č. 652/2014, (EÚ) 2016/429 a (EÚ) 2016/2031, nariadení Rady (ES) č. 1/2005 a (ES) č. 1099/2009 a smerníc Rady 98/58/ES, 1999/74/ES, 2007/43/ES, 2008/119/ES a 2008/120/ES a o zrušení nariadení Európskeho parlamentu a Rady (ES) č. 854/2004 a (ES) č. 882/2004, smerníc Rady 89/608/EHS, 89/662/EHS, 90/425/EHS, 91/496/EHS, 96/23/ES, 96/93/ES a 97/78/ES a rozhodnutia Rady 92/438/EHS (nariadenie o úradných kontrolách) (Ú. v. EÚ L 95, 7. 4. 2017).
 
-- 1aca) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 609/2013 z 12. júna 2013 o potravinách určených pre dojčatá a malé deti, potravinách na osobitné lekárske účely a o celkovej náhrade stravy na účely regulácie hmotnosti a ktorým sa zrušuje smernica Rady 92/52/EHS, smernica Komisie 96/8/ES, 1999/21/ES, 2006/125/ES a 2006/141/ES, smernica Európskeho parlamentu a Rady 2009/39/ES a nariadenie Komisie (ES) č. 41/2009 a (ES) č. 953/2009 (Ú. v. EÚ L 181, 29. 6. 2013) v platnom znení.
-
-- Nariadenie Európskeho parlamentu a Rady (EÚ) 2015/2283 z 25. novembra 2015 o nových potravinách, ktorým sa mení nariadenie Európskeho parlamentu a Rady (EÚ) č. 1169/2011, ktorým sa zrušuje nariadenie Európskeho parlamentu a Rady (ES) č. 258/97 a nariadenie Komisie (ES) č. 1852/2001 (Ú. v. EÚ L 327, 11. 12. 2015).
-
 - 1ad) Čl. 2 ods. 2 písm. u) nariadenia (EÚ) č. 1169/2011 v platnom znení.
 
 - § 2 ods. 1 zákona č. 102/2014 Z. z. o ochrane spotrebiteľa pri predaji tovaru alebo poskytovaní služieb na základe zmluvy uzavretej na diaľku alebo zmluvy uzavretej mimo prevádzkových priestorov predávajúceho a o zmene a doplnení niektorých zákonov v znení zákona č. 173/2015 Z. z.
@@ -21,8 +17,6 @@
 - Čl. 60 a 61 nariadenia Európskeho parlamentu a Rady (EÚ) č. 952/2013 z 9. októbra 2013, ktorým sa ustanovuje Colný kódex Únie (Ú. v. EÚ L 269, 10. 10. 2013) v platnom znení.
 
 - Čl. 5 až 7 vykonávacieho nariadenia Komisie (EÚ) č. 1337/2013 z 13. decembra 2013, ktorým sa stanovujú pravidlá pre uplatňovanie nariadenia Európskeho parlamentu a Rady (EÚ) č. 1169/2011, pokiaľ ide o uvedenie krajiny pôvodu alebo miesta pôvodu pre čerstvé, chladené a mrazené mäso zo svíň, oviec, kôz a hydiny (Ú. v. EÚ L 335, 14. 12. 2013).
-
-- 1b) Nariadenie (EÚ) 2015/2283.
 
 - 1e) Napríklad nariadenie (ES) č. 178/2002 v platnom znení, nariadenie (ES) č. 852/2004 v platnom znení, nariadenie (EÚ) č. 1308/2013 v platnom znení, nariadenie (EÚ) 2017/625.
 
@@ -45,6 +39,8 @@
 - 3) § 51 ods. 1 písm. d) zákona č. 355/2007 Z. z. v znení neskorších predpisov.
 
 - § 22 ods. 2 vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 585/2008 Z. z., ktorou sa ustanovujú podrobnosti o prevencii a kontrole prenosných ochorení v znení vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 544/2011 Z. z.
+
+- 4) Napríklad zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 147/1997 Z. z. o neinvestičných fondoch a o doplnení zákona Národnej rady Slovenskej republiky č. 207/1996 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení neskorších predpisov a zákon č. 34/2002 Z. z. o nadáciách a o zmene Občianskeho zákonníka v znení neskorších predpisov v znení neskorších predpisov.
 
 - 6) § 39 zákona č. 39/2007 Z. z.
 
@@ -81,10 +77,6 @@
 - 8da) § 6 zákona č. 39/2007 Z. z. v znení neskorších predpisov.
 
 - 8daa) Čl. 24 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1169/2011 z 25. októbra 2011 o poskytovaní informácií o potravinách spotrebiteľom, ktorým sa menia a dopĺňajú nariadenia Európskeho parlamentu a Rady (ES) č. 1924/2006 a (ES) č. 1925/2006 a ktorým sa zrušuje smernica Komisie 87/250/EHS, smernica Rady 90/496/EHS, smernica Komisie 1999/10/ES, smernica Európskeho parlamentu a Rady 2000/13/ES, smernice Komisie 2002/67/ES a 2008/5/ES a nariadenie Komisie (ES) č. 608/2004 (Ú. v. EÚ L 304, 22. 11. 2011) v platnom znení.
-
-- 8dab) Čl. 2 ods. 2 písm. r) a čl. 24 nariadenia (EÚ) č. 1169/2011.
-
-- 8dac) Napríklad zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 147/1997 Z. z. o neinvestičných fondoch a o doplnení zákona Národnej rady Slovenskej republiky č. 207/1996 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení neskorších predpisov a zákon č. 34/2002 Z. z. o nadáciách a o zmene Občianskeho zákonníka v znení neskorších predpisov.
 
 - 8dad) § 52 ods. 1 písm. b) zákona č. 355/2007 Z. z. v znení neskorších predpisov.
 
@@ -186,6 +178,12 @@
 
 - 12ab) Čl. 138 ods. 2 písm. h) a j) nariadenia (EÚ) 2017/625.
 
+- 12aba) Čl. 138 nariadenia (EÚ) 2017/625 v platnom znení.
+
+- 12abb) Napríklad zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 351/2011 Z. z. o elektronických komunikáciách v znení neskorších predpisov.
+
+- 12abc) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
+
 - 12ac) § 15 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
 
 - 12b) Čl. 4 nariadenia (EÚ) 2017/625.
@@ -230,6 +228,10 @@
 
 - 18) Čl. 87 až 89 nariadenia (EÚ) 2017/625.
 
+- 19) § 3 ods. 1 a § 3b zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
+
+- 19a) Čl. 4 a 5 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu v znení neskorších predpisov.
+
 - 20) Nariadenie Európskeho parlamentu a Rady (ES) č. 765/2008 z 9. júla 2008, ktorým sa stanovujú požiadavky akreditácie a dohľadu nad trhom v súvislosti s uvádzaním výrobkov na trh a ktorým sa zrušuje nariadenie (EHS) č. 339/93 (Ú. v. EÚ L 218, 13. 8. 2008).
 
 - 21a) Čl. 37 nariadenia (EÚ) 2017/625.
@@ -242,11 +244,17 @@
 
 - 23) § 19 ods. 1 písm. c) a § 22 zákona č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov.
 
-- 23a) § 2 ods. 1 písm. a) zákona č. 178/1998 Z. z. v znení neskorších predpisov.
+- 23a) § 2 ods. 1 písm. a) a § 2 ods. 2 zákona č. 178/1998 Z. z. v znení neskorších predpisov.
+
+- 23ab) § 2 ods. 1 písm. e) zákona č. 178/1998 Z. z. v znení neskorších predpisov.
 
 - 24a) Napríklad nariadenie Európskeho parlamentu a Rady č. 1829/2003 z 22. septembra 2003 o geneticky modifikovaných potravinách a krmovinách (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 32), nariadenie Európskeho parlamentu a Rady č. 1830/2003 z 22. septembra 2003 o vysledovateľnosti a označovaní geneticky modifikovaných potravín a krmovín vyrobených z geneticky modifikovaných organizmov a ktorým sa mení a dopĺňa smernica 2001/18/ES (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 32).
 
 - 24b) Čl. 138 ods. 1 nariadenia (EÚ) 2017/625.
+
+- 25) Čl. 1 ods. 4 písm. a) nariadenia (EÚ) 2017/625 v platnom znení.
+
+- 25a) Čl. 139 ods. 2 nariadenia (EÚ) 2017/625 v platnom znení.
 
 - 26) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
