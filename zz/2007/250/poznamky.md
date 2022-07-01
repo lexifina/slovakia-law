@@ -40,6 +40,8 @@
 
 - 12ca) § 2 ods. 7 zákona č. 102/2014 Z. z. o ochrane spotrebiteľa pri predaji tovaru alebo poskytovaní služieb na základe zmluvy uzavretej na diaľku alebo zmluvy uzavretej mimo prevádzkových priestorov predávajúceho a o zmene a doplnení niektorých zákonov.
 
+- 12caa) § 1 ods. 3 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. v znení neskorších predpisov.
+
 - 12cb) § 2 ods. 19 zákona č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 12cc) § 2 ods. 3 zákona č. 492/2009 Z. z. v znení neskorších predpisov.
