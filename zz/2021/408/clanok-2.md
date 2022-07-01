@@ -244,4 +244,4 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - 17. Zákon sa dopĺňa prílohou č. 3, ktorá vrátane nadpisu znie:
 
-- „[Príloha č. 3 k zákonu č. 595/2003 Z. z.](assets/a4abc647ff0633282800066cc5f591b444aed9a24e59e5ce93b50aa793e2ec1e.pdf)“.
+- „[Príloha č. 3 k zákonu č. 595/2003 Z. z.](assets/0a190d38c54a2c8652902c8ab766cf3a6a933a7e55c6106f18775475354791a9.pdf)“.

@@ -80,11 +80,27 @@ Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení zákona č. 350/200
 
 - 8. V § 7 ods. 3 a § 7a ods. 3 sa za slovami „registrovať pre daň“ vypúšťa čiarka a slová „vydať jej osvedčenie o registrácii pre daň“ a na konci sa pripája táto veta: „Proti rozhodnutiu podľa prvej vety nemožno podať odvolanie.“.
 
+- 9. V § 11 sa za odsek 12 vkladá nový odsek 13, ktorý znie:
+
+- „(13)
+
+- Za nadobudnutie tovaru za protihodnotu v tuzemsku z iného členského štátu sa považuje aj pridelenie tovaru ozbrojeným silám členského štátu podieľajúceho sa na obrannom úsilí vynakladanom na účely vykonávania činnosti Európskej únie v rámci spoločnej bezpečnostnej a obrannej politiky, na ich použitie alebo na použitie civilnými zamestnancami, ktorí ich sprevádzajú, ak tento tovar nebol kúpený podľa všeobecných pravidiel zdanenia v členskom štáte pridelenia a ak by dovoz tohto tovaru nebol oslobodený od dane podľa § 48 ods. 13.“.
+
+  - Doterajší odsek 13 sa označuje ako odsek 14.
+
 - 10. V § 22 ods. 3 sa na konci pripája táto veta: „Pri dodaní nápoja v zálohovanom jednorazovom obale na nápoje<sup>6abd</sup>) sa do základu dane podľa odseku 1 nezahŕňa záloh na tento obal.“.
 
   - Poznámka pod čiarou k odkazu 6abd znie:
 
   - „<sup>6abd</sup>) § 2 písm. b) zákona č. 302/2019 Z. z. o zálohovaní jednorazových obalov na nápoje a o zmene a doplnení niektorých zákonov.“.
+
+- 11. V § 43 sa odsek 6 dopĺňa písmenom e), ktoré znie:
+
+- „e)
+
+- do iného členského štátu pre ozbrojené sily členského štátu, určené na použitie týmito ozbrojenými silami alebo civilnými zamestnancami, ktorí ich sprevádzajú, a na zásobenie ich stravovacích zariadení, ak tieto ozbrojené sily nie sú ozbrojenými silami členského štátu určenia dodávok a ak sa podieľajú na obrannom úsilí vynakladanom na účely vykonávania činnosti Európskej únie v rámci spoločnej bezpečnostnej a obrannej politiky.“.
+
+- 12. V § 44 písm. b) sa za slová „4 až 9“ vkladajú slová „a 13“.
 
 - 13. V § 47 ods. 13 sa slová „Finančnému riaditeľstvu Slovenskej republiky (ďalej len „finančné riaditeľstvo“)“ nahrádzajú slovami „finančnému riaditeľstvu“.
 
@@ -96,7 +112,11 @@ Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení zákona č. 350/200
 
 - (12)
 
-- Ak sa prestali plniť podmienky na oslobodenie od dane v súvislosti s dovozom tovaru podľa odseku 11, Európska komisia, agentúra alebo orgán zriadený podľa práva Európskej únie sú povinné o tejto skutočnosti bez zbytočného odkladu informovať colný úrad; colný úrad vyrubí daň podľa sadzby dane, ktorá bola platná v danom čase.“.
+- Ak sa prestali plniť podmienky na oslobodenie od dane v súvislosti s dovozom tovaru podľa odseku 11, Európska komisia, agentúra alebo orgán zriadený podľa práva Európskej únie sú povinné o tejto skutočnosti bez zbytočného odkladu informovať colný úrad; colný úrad vyrubí daň podľa sadzby dane, ktorá bola platná v danom čase.
+
+- (13)
+
+- Oslobodený od dane je dovoz tovaru ozbrojenými silami iného členského štátu, určeného na použitie týmito ozbrojenými silami alebo civilnými zamestnancami, ktorí ich sprevádzajú, vrátane tovaru určeného na zásobenie stravovacích zariadení týchto ozbrojených síl podieľajúcich sa na obrannom úsilí vynakladanom na účely vykonávania činnosti Európskej únie v rámci spoločnej bezpečnostnej a obrannej politiky.“.
 
 - 15. V § 48d ods. 3 sa slová „webovom sídle Finančného riaditeľstva Slovenskej republiky (ďalej len „webové sídlo finančného riaditeľstva“)“ nahrádzajú slovami „webovom sídle finančného riaditeľstva“.
 
@@ -141,6 +161,16 @@ Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení zákona č. 350/200
 - (6)
 
 - Ak bolo rozhodnutie zrušené podľa odseku 5 a ak už bola daň vrátená, Európska komisia, agentúra alebo orgán zriadený podľa práva Európskej únie sú povinné vrátiť vrátenú daň do 15 dní odo dňa nadobudnutia právoplatnosti rozhodnutia podľa odseku 5; ak bola určená suma dane na vrátenie podľa odseku 5 druhej vety, Európska komisia, agentúra alebo orgán zriadený podľa práva Európskej únie sú povinné vrátiť rozdiel medzi pôvodne vrátenou sumou dane a daňou, na vrátenie ktorej má nárok, do 15 dní odo dňa nadobudnutia právoplatnosti rozhodnutia podľa odseku 5.“.
+
+- 19. V § 63 sa za odsek 1 vkladá nový odsek 2, ktorý znie:
+
+- „(2)
+
+- Ozbrojené sily iného členského štátu majú nárok na vrátenie dane zaplatenej v cenách tovarov a služieb určených na použitie týmito ozbrojenými silami alebo civilnými zamestnancami, ktorí ich sprevádzajú, alebo na zásobenie ich stravovacích zariadení, ak sa tieto ozbrojené sily podieľajú na obrannom úsilí vynakladanom na účely vykonávania činnosti Európskej únie v rámci spoločnej bezpečnostnej a obrannej politiky.“.
+
+  - Doterajšie odseky 2 a 3 sa označujú ako odseky 3 a 4.
+
+- 20. V § 63 ods. 4 prvej vete sa za slová „odseku 1“ vkladajú slová „alebo odseku 2“.
 
 - 21. V § 68 ods. 4 časť vety pred bodkočiarkou znie: „Písomnosti týkajúce sa uplatňovania osobitnej úpravy podľa § 68a, § 68b alebo podľa § 68c sa doručujú zdaniteľnej osobe, ktorá uplatňuje osobitnú úpravu, elektronickými prostriedkami“.
 
@@ -390,7 +420,11 @@ Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení zákona č. 350/200
 
 - 51. Príloha č. 6 sa dopĺňa bodmi 25 až 27, ktoré znejú:
 
-- „26.
+- „25.
+
+- Smernica Rady (EÚ) 2019/2235 zo 16. decembra 2019, ktorou sa mení smernica 2006/112/ES o spoločnom systéme dane z pridanej hodnoty a smernica 2008/118/ES o všeobecnom systéme spotrebných daní, pokiaľ ide o obranné úsilie v rámci Únie (Ú. v. EÚ L 336, 30. 12. 2019).
+
+- 26.
 
 - Smernica Rady (EÚ) 2020/1756 z 20. novembra 2020, ktorou sa mení smernica 2006/112/ES o spoločnom systéme dane z pridanej hodnoty, pokiaľ ide o identifikáciu zdaniteľných osôb v Severnom Írsku (Ú. v. EÚ L 396, 25. 11. 2020).
 
