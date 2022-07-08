@@ -32,6 +32,16 @@ Zákon č. 203/2011 Z. z. o kolektívnom investovaní v znení zákona č. 547/2
 
 - „<sup>34</sup>) § 74 zákona č. 566/2001 Z. z. v znení neskorších predpisov.“.
 
+- 12. V § 89 odsek 7 znie:
+
+- „(7)
+
+- Hodnota dlhopisov vydaných jednou bankou alebo zahraničnou bankou v členskom štáte, ktoré boli vydané pred 8. júlom 2022 a spĺňajú podmienky, že ich emitent podlieha dohľadu chrániacemu záujmy majiteľov dlhopisov a peňažné prostriedky získané emisiou dlhopisov sú investované do takých aktív, ktoré do splatnosti dlhopisov kryjú záväzky emitenta spojené s emisiou týchto dlhopisov a ktoré môžu byť pri platobnej neschopnosti emitenta prednostne použité na vyplatenie menovitej hodnoty dlhopisov a výnosu z dlhopisov, alebo ktoré sú vymedzené ako kryté dlhopisy osobitným predpisom,<sup>51a</sup>) nesmie tvoriť viac ako 25 % hodnoty majetku v štandardnom fonde. Súčet hodnoty dlhopisov nadobudnutých do majetku v štandardnom fonde podľa prvej vety nesmie prekročiť 80 % hodnoty majetku v štandardnom fonde.“.
+
+  - Poznámka pod čiarou k odkazu 51a znie:
+
+  - „<sup>51a</sup>) § 67 zákona č. 483/2001 Z. z. v znení neskorších predpisov.“.
+
 - 13. V § 125 ods. 6 písm. b) sa na konci pripájajú tieto slová: „okrem cenných papierov špeciálnych fondov kvalifikovaných investorov“.
 
 - 14. V § 129 sa za odsek 7 vkladá nový odsek 8, ktorý znie:
@@ -59,3 +69,15 @@ Zákon č. 203/2011 Z. z. o kolektívnom investovaní v znení zákona č. 547/2
 - 20. V § 207 ods. 1 písm. a) sa slová „základné imanie“ nahrádzajú slovami „počiatočný kapitál“, slovo „kleslo“ sa nahrádza slovom „klesol“ a na konci sa pripájajú tieto slová: „alebo počiatočný kapitál samosprávneho investičného fondu klesol pod 300 000 eur,“.
 
 - 21. V § 207 ods. 3 písm. d) sa slová „základné imanie“ nahrádzajú slovami „počiatočný kapitál“ a na konci sa pripájajú tieto slová: „alebo počiatočný kapitál alebo vlastné zdroje samosprávneho investičného fondu klesli pod úroveň vyžadovanú podľa § 26c ods. 5,“.
+
+- 22. V § 210 sa vypúšťa odsek 2.
+
+  - Doterajšie odseky 3 až 10 sa označujú ako odseky 2 až 9.
+
+- 23. V § 220a ods. 8 sa slová „ods. 8“ nahrádzajú slovami „ods. 7“ a slová „ods. 9“ sa nahrádzajú slovami „ods. 8“.
+
+- 24. Príloha č. 1 sa dopĺňa trinástym bodom, ktorý znie:
+
+- „13.
+
+- Smernica Európskeho parlamentu a Rady (EÚ) 2019/2162 z 27. novembra 2019 o emisii krytých dlhopisov a verejnom dohľade nad krytými dlhopismi a ktorou sa menia smernice 2009/65/ES a 2014/59/EÚ (Ú. v. EÚ L 328, 18. 12. 2019).“.
