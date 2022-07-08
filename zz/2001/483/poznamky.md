@@ -476,6 +476,10 @@
 
 - 35aa) Čl. 432 nariadenia (EÚ) č. 575/2013.
 
+- 35aaa) § 7 ods. 4 zákona č. 566/2001 Z. z.
+
+- 35aab) Čl. 178 nariadenia (EÚ) č. 575/2013 v platnom znení.
+
 - 35b) Zákon č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov.
 
 - 35ba) § 6 a 7 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení neskorších predpisov.
@@ -684,45 +688,81 @@
 
 - 61) § 20b zákona č. 530/1990 Zb. v znení neskorších predpisov.
 
-- 61a) § 2 ods. 1 písm. t) zákona č. 530/2003 Z. z. v znení zákona č. 91/2016 Z. z.
+- 61a) Čl. 129 nariadenia (EÚ) č. 575/2013 v platnom znení.
 
-- 61aa) §195a ods. 2 až 8 zákona č. 7/2005 Z. z. v znení zákona č. 279/2007 Z. z.
+- 61aa) § 195a zákona č. 7/2005 Z. z. v znení neskorších predpisov.
 
 - 61ab) § 61q ods. 1 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení zákona č. 2/2017 Z. z.
 
-- 61b) § 1 ods. 3 zákona č. 90/2016 Z. z. o úveroch na bývanie a o zmene a doplnení niektorých zákonov.
+- 61ac) Čl. 129 ods. 3a nariadenia (EÚ) č. 575/2013 v platnom znení.
 
-- 61c) Čl. 178 ods. 1 nariadenia (EÚ) č. 575/2013.
+- 61b) Čl. 129 ods. 1 písm. a) nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 61c) Čl. 129 ods. 1a až 3 nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 61d) Čl. 129 ods. 1 písm. d) a f) nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 61e) § 1 ods. 3 zákona č. 90/2016 Z. z. o úveroch na bývanie a o zmene a doplnení niektorých zákonov.
 
 - 62) Zákon č. 371/2014 Z. z. v znení neskorších predpisov.
 
-- 62a) § 8 ods. 16 zákona č. 90/2016 Z. z. v znení zákona č. 299/2016 Z. z.
+- 62a) § 8 ods. 16 zákona č. 90/2016 Z. z. v znení neskorších predpisov.
 
 - § 6 ods. 2 opatrenia Národnej banky Slovenska z 13. decembra 2016 č. 10/2016, ktorým sa ustanovujú podrobnosti o posúdení schopnosti spotrebiteľa splácať úver na bývanie (oznámenie č. 373/2016 Z. z.).
 
+- 62aa) Napríklad zákon č. 657/2004 Z. z. o tepelnej energetike v znení neskorších predpisov, zákon č. 747/2004 Z. z. v znení neskorších predpisov, zákon č. 351/2011 Z. z. o elektronických komunikáciách v znení neskorších predpisov, zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 62ab) Napríklad zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 63) § 15 ods. 1 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení neskorších predpisov.
 
-- § 8 ods. 16 a § 9 zákona č. 90/2016 Z. z. v znení zákona č. 299/2016 Z. z.
+- § 8 ods. 16 a § 9 zákona č. 90/2016 Z. z. v znení neskorších predpisov.
 
-- 64) § 8 ods. 16 zákona č. 90/2016 Z. z. v znení zákona č. 299/2016 Z. z.
+- 63a) Čl. 4 ods. 1 bod 76 nariadenia (EÚ) č. 575/2013 v platnom znení.
 
-- § 8 opatrenia č. 10/2016 (oznámenie č. 373/2016 Z. z.).
+- 63b) Čl. 4 ods. 1 bod 74 nariadenia (EÚ) č. 575/2013 v platnom znení.
 
-- 64a) Čl. 129 ods.1 písm. c) nariadenia (EÚ) č. 575/2013.
+- 63c) Napríklad zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 64b) Usmernenie Európskej centrálnej banky (EÚ) 2015/510 (ECB/2014/60) z 19. decembra 2014 o vykonávaní rámca menovej politiky Eurosystému (Ú. v. EÚ L 91, 2. 4. 2015) v platnom znení.
+- 64) § 8 ods. 16 zákona č. 90/2016 Z. z. v znení neskorších predpisov.
+
+- § 8 opatrenia č. 10/2016 (oznámenie č. 373/2016 Z. z.) v znení opatrenia č. 7/2018 (oznámenie č. 169/2018 Z. z.).
+
+- Čl. 208 ods. 3 nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 64a) Usmernenie Európskej centrálnej banky (EÚ) 2015/510 z 19. decembra 2014 o vykonávaní rámca menovej politiky Eurosystému (ECB/2014/60) (prepracované znenie) (Ú. v. EÚ L 91, 2. 4. 2015) v platnom znení.
+
+- 64b) Čl. 129 ods. 1 písm. b) nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 64c) Čl. 129 ods. 1 písm. c) nariadenia (EÚ) č. 575/2013 v platnom znení.
 
 - 65) § 5 ods. 1 písm. d) zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 66) Čl. 30 delegovaného nariadenia Komisie (EÚ) 2016/2251 zo 4. októbra 2016, ktorým sa dopĺňa nariadenie Európskeho parlamentu a Rady (EÚ) č. 648/2012 o mimoburzových derivátoch, centrálnych protistranách a archívoch obchodných údajov, pokiaľ ide o regulačné technické predpisy pre postupy zmierňovania rizika pre zmluvy o mimoburzových derivátoch, ktoré centrálna protistrana nezúčtovala (Ú. v. EÚ L 340, 15. 12. 2016) v platnom znení.
 
-- Odsek 6.4.1 Prílohy k nariadenia Komisie (EÚ) 2016/2067 z 22. novembra 2016, ktorým sa mení nariadenie (ES) č. 1126/2008, ktorým sa v súlade s nariadením Európskeho parlamentu a Rady (ES) č. 1606/2002 prijímajú určité medzinárodné účtovné štandardy, pokiaľ, ide o medzinárodný štandard finančného výkazníctva 9 (Ú. v. EÚ L 323, 29. 11. 2016) v platnom znení.
+- Odsek 6.4.1 prílohy nariadenia Komisie (ES) č. 1126/2008 z 3. novembra 2008, ktorým sa v súlade s nariadením Európskeho parlamentu a Rady (ES) č. 1606/2002 prijímajú určité medzinárodné účtovné štandardy (Ú. v. EÚ L 320, 29. 11. 2008) v platnom znení.
 
-- 66a) Čl. 10 a 11 delegovaného nariadenia Komisie (EÚ) 2015/61 z 10. októbra 2014, ktorým sa dopĺňa nariadenie Európskeho parlamentu a Rady (EÚ) č. 575/2013, pokiaľ ide o požiadavku na krytie likvidity pre úverové inštitúcie (Ú. v. EÚ L 11, 17. 1. 2015).
+- 66a) Čl. 9 až 13 delegovaného nariadenia Komisie (EÚ) 2015/61 z 10. októbra 2014, ktorým sa dopĺňa nariadenie Európskeho parlamentu a Rady (EÚ) č. 575/2013, pokiaľ ide o požiadavku na krytie likvidity pre úverové inštitúcie (Ú. v. EÚ L 11, 17. 1. 2015) v platnom znení.
+
+- 66aa) Čl. 129 ods. 1 písm. c) nariadenia (EÚ) č. 575/2013 v platnom znení.
 
 - 66b) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení neskorších predpisov.
 
+- 66ba) § 70, 94, 95 a 195a ods. 2 a 3 zákona č. 7/2005 Z. z. v znení neskorších predpisov.
+
 - 66c) Napríklad § 34b ods. 1 písm. a) až c) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov, § 36 ods. 2 až 4 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
+
+- 66d) § 32 až 83 a 195a zákona č. 7/2005 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 371/2014 Z. z. v znení neskorších predpisov.
+
+- 66e) § 2 ods. 1 písm. u) zákona č. 530/2003 Z. z. v znení neskorších predpisov.
+
+- 66f) § 195a ods. 2 až 8 zákona č. 7/2005 Z. z. v znení neskorších predpisov.
+
+- 66g) § 38 ods. 1 zákona č. 371/2014 Z. z. v znení zákona č. 291/2016 Z. z.
+
+- 66h) § 38 ods. 5 zákona č. 371/2014 Z. z. v znení neskorších predpisov.
 
 - 67) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
@@ -951,3 +991,5 @@
 - 103) Čl. 4 ods. 1 bod 1písm. b) nariadenia (EÚ) č. 575/2013 v platnom znení.
 
 - 104) § 54 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- 105) Čl. 129 ods. 1 písm. d) a ods. 1c nariadenia (EÚ) č. 575/2013 v platnom znení.

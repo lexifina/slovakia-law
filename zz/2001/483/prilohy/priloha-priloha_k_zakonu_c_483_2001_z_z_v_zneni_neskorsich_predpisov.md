@@ -25,3 +25,5 @@ Príloha k zákonu č. 483/2001 Z. z. v znení neskorších predpisov
   - 11. Smernica Európskeho parlamentu a Rady (EÚ) 2019/878 z 20. mája 2019, ktorou sa mení smernica 2013/36/EÚ, pokiaľ ide o oslobodené subjekty, finančné holdingové spoločnosti, zmiešané finančné holdingové spoločnosti, odmeňovanie, opatrenia a právomoci v oblasti dohľadu a opatrenia na zachovanie kapitálu (Ú. v. EÚ L 150, 7. 6. 2019).
 
   - 12. Smernica Európskeho parlamentu a Rady (EÚ) 2019/2034 z 27. novembra 2019 o prudenciálnom dohľade nad investičnými spoločnosťami a o zmene smerníc 2002/87/ES, 2009/65/ES, 2011/61/ES, 2013/36/EÚ, 2014/59/EÚ a 2014/65/EÚ (Ú. v. EÚ L 314, 5. 12. 2019).
+
+  - 13. Smernica Európskeho parlamentu a Rady (EÚ) 2019/2162 z 27. novembra 2019 o emisii krytých dlhopisov a verejnom dohľade nad krytými dlhopismi a ktorou sa menia smernice 2009/65/ES a 2014/59/EÚ (Ú. v. EÚ L 328, 18. 12. 2019).
