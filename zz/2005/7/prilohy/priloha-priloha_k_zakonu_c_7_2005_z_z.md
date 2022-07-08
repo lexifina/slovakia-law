@@ -15,3 +15,5 @@ Príloha k zákonu č. 7/2005 Z. z.
   - 6. Smernica Európskeho parlamentu a Rady (EÚ) 2017/2399 z 12. decembra 2017, ktorou sa mení smernica 2014/59/EÚ, pokiaľ ide o postavenie nezabezpečených dlhových nástrojov v hierarchii konkurzného konania (Ú. v. EÚ L 345, 27. 12. 2017).
 
   - 7. Smernica Európskeho parlamentu a Rady (EÚ) 2019/879 z 20. mája 2019, ktorou sa mení smernica 2014/59/EÚ, pokiaľ ide o kapacitu úverových inštitúcií a investičných spoločností na absorpciu strát a rekapitalizáciu, a smernica 98/26/ES (Ú. v. EÚ L 150, 7. 6. 2019).
+
+  - 8. Smernica Európskeho parlamentu a Rady (EÚ) 2019/2162 z 27. novembra 2019 o emisii krytých dlhopisov a verejnom dohľade nad krytými dlhopismi a ktorou sa menia smernice 2009/65/ES a 2014/59/EÚ (Ú. v. EÚ L 328, 18. 12. 2019).

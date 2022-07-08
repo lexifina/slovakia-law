@@ -172,17 +172,17 @@
 
 - 32h) Čl. 4 ods. 1 bod 119 nariadenia (EÚ) č. 575/2013 v platnom znení.
 
-- 33) § 67 ods. 10 až 13 zákona č. 483/2001 Z. z. v znení zákona č. 279/2007 Z. z.
+- 33) § 82 ods. 3 až 6 a ods. 10 až 14 zákona č. 483/2001 Z. z. v znení zákona č. 454/2021 Z. z.
 
 - 33a) Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
 
 - 33aa) § 1 ods. 6 zákona č. 90/2016 Z. z. v znení zákona č. 279/2017 Z. z.
 
-- 33b) § 67 až 80 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+- 33b) § 67 až 82 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - 33c) § 68 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
-- 33d) § 55 a § 67 ods. 10 až 13 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+- 33d) § 55 a § 82 ods. 3 až 6 a ods. 10 až 13 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - 33e) § 28 ods. 1 písm. g) a ods. 2 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
