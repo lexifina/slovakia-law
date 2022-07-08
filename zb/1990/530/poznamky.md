@@ -46,6 +46,8 @@
 
 - 3fd) § 67 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
+- 3fe) § 82 ods. 3 až 13 zákona č. 483/2001 Z. z. v znení zákona č. 454/2021 Z. z.
+
 - 3g) Napríklad Obchodný zákonník, zákon č. 566/2001 Z. z.
 
 - 4) § 78 až 82 zákona č. 483/2001 Z. z.
