@@ -4,6 +4,6 @@
 
 (2) Osobitným druhom zabezpečeného dlhopisu je krytý dlhopis vydaný bankou podľa osobitného predpisu.<sup>3fd</sup>)
 
-(3) Emisné podmienky zabezpečených dlhopisov musia obsahovať údaj o tom, kde sa môže investor oboznámiť so zmluvou, ktorou sa dohodla záruka, údaje o inom zabezpečení a o spôsobe, akým bude zabezpečenie uplatnené.
+(3) Emisné podmienky zabezpečených dlhopisov musia obsahovať údaj o tom, kde sa môže investor oboznámiť so zmluvou, ktorou sa dohodla záruka, údaje o inom zabezpečení a o spôsobe, akým bude zabezpečenie uplatnené. Emisné podmienky krytých dlhopisov musia obsahovať informácie o možnosti predĺženia splatnosti krytého dlhopisu podľa osobitného predpisu.<sup>3fe</sup>)
 
 (4) Záložné právo v prospech majiteľov dlhopisov je možné zriadiť aj zmluvou uzavretou medzi emitentom alebo iným záložcom a spoločným zástupcom alebo inou treťou osobou ako záložným veriteľom. Záložný veriteľ vykonáva záložné právo vo vlastnom mene a na účet majiteľov dlhopisov.
