@@ -1,1 +1,1 @@
-Príloha č. 1 až 8 k zákonu č. 136/2000 Z. z. [Príloha č. 1 až 8 k zákonu č. 136/2000 Z. z.](../assets/3e2ee9a50259282079922d127947233e04349285ba2df32b3c7a1a603ca5edbb.pdf)
+Príloha č. 1 až 8 k zákonu č. 136/2000 Z. z. [Príloha č. 1 až 8 k zákonu č. 136/2000 Z. z.](../assets/844e5fe67417d21e48c19b2a08fc1710f2bc4ef046371b5a7b9bb4a297aac054.pdf)
