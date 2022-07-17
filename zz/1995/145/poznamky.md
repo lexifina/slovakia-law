@@ -8,6 +8,12 @@
 
 - 1b) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
+- 1ba) Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 111/2022 Z. z. o riešení hroziaceho úpadku a o zmene a doplnení niektorých zákonov.
+
+- 1bb) § 72 Obchodného zákonníka.
+
 - 1c) § 5 ods. 1 zákona č. 460/2007 Z. z. o Slovenskom Červenom kríži a ochrane znaku a názvu Červeného kríža a o zmene a doplnení niektorých zákonov.
 
 - 2) Vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch.
@@ -100,7 +106,7 @@
 
 - 10a) § 184f ods. 2 zákona č. 343/2015 o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 395/2021 Z. z.
 
-- 10b) Zákon č. 8/2005 Z. z. o správcoch a o zmene a doplnení niektorých zákonov.
+- 10b) Zákon č. 8/2005 Z. z. o správcoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 10c) § 11 ods. 5 zákona č. 314/2001 Z. z. o ochrane pred požiarmi v znení zákona č. 129/2015 Z. z.
 

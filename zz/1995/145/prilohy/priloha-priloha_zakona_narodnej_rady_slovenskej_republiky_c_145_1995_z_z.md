@@ -180,9 +180,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - k) zápis právnickej osoby do zoznamu správcov podľa osobitného predpisu,<sup>10b</sup>) za každého spoločníka ..... | 200 eur
 
-  - l) ročný poplatok správcu-fyzickej osoby za každý rok trvania zápisu v zozname správcov podľa osobitného predpisu<sup>10b</sup>) ..... | 165,50 eura
+  - l) ročný poplatok správcu-fyzickej osoby za každý, aj neskončený rok trvania zápisu v zozname správcov podľa osobitného predpisu<sup>10b</sup>) ..... | 200 eur
 
-  - m) ročný poplatok správcu-právnickej osoby za každý rok trvania zápisu v zozname správcov podľa osobitného predpisu,<sup>10b</sup>) za každého spoločníka ..... | 165,50 eura
+  - m) ročný poplatok správcu-právnickej osoby za každý, aj neskončený rok trvania zápisu v zozname správcov podľa osobitného predpisu<sup>10b</sup>) ..... | 400 eur
 
   - n) vykonanie špeciálnej správcovskej skúšky<sup>10b</sup>) | 5 000 eur
 
@@ -202,7 +202,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - v) Výpis zo zoznamu stálych rozhodcovských súdov oprávnených rozhodovať spotrebiteľské spory, za každú stranu | 1,50 eura
 
-  - Poznámka Poplatok podľa písmena c) tejto položky sa vyberie po vykonaní úkonu na základe ústnej alebo písomnej výzvy. Ročný poplatok správcu je splatný do 90 dní od uplynutia roka, za ktorý sa poplatok vyberá. Správca-fyzická osoba nemá povinnosť platiť ročný poplatok správcu, ak je spoločníkom správcu-právnickej osoby. Ročný poplatok správcu sa nevyberá za obdobie, počas ktorého má správca pozastavený výkon správcovskej činnosti. |
+  - Poznámka Poplatok podľa písmena c) tejto položky sa vyberie po vykonaní úkonu na základe ústnej alebo písomnej výzvy. Povinnosť zaplatiť ročný poplatok správcu vzniká 1. júla kalendárneho roka, a to hoci za jeden deň trvania zápisu správcu v zozname správcov v období od 1. júla kalendárneho roka predchádzajúceho kalendárneho roka, v ktorom sa ročný poplatok správcu uhrádza, do 30. júna kalendárneho roka, v ktorom sa ročný poplatok správcu uhrádza. Ročný poplatok správcu je splatný 31. júla kalendárneho roka, v ktorom sa ročný poplatok uhrádza. |
 
   - Oslobodenie Od poplatku podľa písmena d) tejto položky sú oslobodené gymnázia, stredné odborné školy, konzervatóriá, školy pre deti a žiakov so špeciálnymi výchovno-vzdelávacími potrebami, základné umelecké školy, jazykové školy, ktoré žiadajú o akreditáciu vzdelávacieho programu ďalšieho vzdelávania zodpovedajúcu študijným odborom alebo učebným odborom, ktoré sú uvedené pre príslušnú školu v sieti,<sup>20</sup>) a vysoká škola, ktorá žiada o akreditáciu vzdelávacieho programu ďalšieho vzdelávania v rozsahu platnej akreditácie vysokoškolských študijných programov.<sup>21</sup>) |
 
