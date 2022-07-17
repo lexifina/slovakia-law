@@ -38,15 +38,9 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Položka 5 |
 
-- a) Za konkurzné konanie podľa osobitného predpisu<sup>3g</sup>) | 1,2 % zo speňaženej sumy z podstaty, najviac 1 991,50 eura
+- a) Za konkurzné konanie podľa osobitného predpisu<sup>3g</sup>) | 1 % z každého výťažku zo speňaženia majetku zapísaného do súpisu majetku vo všeobecnej podstate najviac 33 193,50 eur a 0,5 % z výťažku v oddelenej podstate najviac 33 193,50 eur
 
-- b) Za vyrovnacie konanie | 0,3 % zo sumy použitej na uspokojenie veriteľov, najviac 497,50 eura
-
-- c) Za konkurzné konanie podľa osobitného predpisu<sup>3f</sup>) | 0,2 % z výťažku zahrnutého do čiastkového rozvrhu výťažku zo všeobecnej podstaty, najviac 3 319 eur; poplatok sa však neplatí z výťažku, ktorý bol zaradený do všeobecnej podstaty z oddelenej podstaty, pokiaľ už bol aspoň raz predmetom rozvrhu 0,2 % z výťažku zahrnutého do konečného rozvrhu výťažku zo všeobecnej podstaty, najviac 3 319 eur; poplatok sa platí len zo zvyšného výťažku zahrnutého do konečného rozvrhu výťažku; poplatok sa však neplatí z výťažku, ktorý bol zaradený do všeobecnej podstaty z oddelenej podstaty, pokiaľ už bol aspoň raz predmetom rozvrhu 0,2 % z výťažku zahrnutého do rozvrhu výťažku z oddelenej podstaty, najviac 3 319 eur; poplatok sa však neplatí z výťažku, ktorý bol zaradený do oddelenej podstaty z inej oddelenej podstaty, pokiaľ už bol aspoň raz predmetom rozvrhu
-
-- d) Za podanie námietky zaujatosti v konkurznom konaní alebo reštrukturalizačnom konaní podľa osobitného predpisu,<sup>3f</sup>) ktorá bola uplatnená na príslušnom súde do uplynutia lehoty na prihlasovanie pohľadávok | 331,50 eura
-
-- e) Za podanie námietky zaujatosti v konkurznom konaní alebo reštrukturalizačnom konaní podľa osobitného predpisu,<sup>3f</sup>) ktorá bola uplatnená na príslušnom súde po uplynutí lehoty na prihlasovanie pohľadávok | 1 % zo sumy prihlásených pohľadávok
+- b) Za podanie námietky zaujatosti podľa osobitného predpisu<sup>3g</sup>) | 500 eur
 
 - Položka 6 |
 
