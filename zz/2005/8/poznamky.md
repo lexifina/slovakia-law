@@ -1,4 +1,6 @@
-- 1) Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov.
+- 1) Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- § 7 až 49 zákona č. 111/2022 Z. z. o riešení hroziaceho úpadku a o zmene a doplnení niektorých zákonov.
 
 - 1a) § 3 až 8 a § 10 až 16 zákona č. 136/2010 Z. z. o službách na vnútornom trhu a o zmene a doplnení niektorých zákonov.
 
@@ -22,9 +24,17 @@
 
 - 10a) § 40 ods. 1 zákona č. 7/2005 Z. z.
 
+- 10aa) § 1 zákona č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratívnej záťaže využívaním informačných systémov verejnej správy a o zmene a doplnení niektorých zákonov (zákon proti byrokracii) v znení neskorších predpisov.
+
+- 10aaa) § 11 až 107c, § 166 až 171d zákona č. 7/2005 Z. z. v znení neskorších predpisov.
+
 - 10aab) Položka 5 písm. n) Prílohy zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení zákona č. 111/2022 Z. z.
 
 - 10aac) § 3 ods. 10 zákona č. 548/2003 Z. z. o Justičnej akadémii a o zmene a doplnení niektorých zákonov v znení zákona č. 111/2022 Z. z.
+
+- 10b) § 108 až 165 zákona č. 7/2005 Z. z. v znení neskorších predpisov.
+
+- 10c) § 7 až 49 zákona č. 111/2022 Z. z.
 
 - 11) Zákon č. 466/2002 Z. z. o audítoroch a Slovenskej komore audítorov.
 
@@ -66,9 +76,11 @@
 
 - 14aa) § 13 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 14b) Zákon č. 328/1991 Zb. v znení neskorších predpisov.
+- 14b) Zákon č. 422/2015 Z. z. o uznávaní dokladov o vzdelaní a o uznávaní odborných kvalifikácií a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- Zákon č. 7/2005 Z. z. v znení neskorších predpisov.
+- 14ba) Položka 5 písm. m) a l) Prílohy zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení zákona č. 111/2022 Z. z.
+
+- 14bb) Napríklad zákon č. 7/2005 Z. z. v znení neskorších predpisov, zákon č. 111/2022 Z. z.
 
 - 14c) Zákon Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov.
 
