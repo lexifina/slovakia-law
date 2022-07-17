@@ -1,6 +1,6 @@
 # § 166j Správca
 
-(1) Správcu ustanovuje súd na základe náhodného výberu pomocou technických a programových prostriedkov schválených ministerstvom. Ak je však vyhlásený konkurz alebo sa vedie konanie o určení splátkového kalendára ohľadom manžela dlžníka a táto okolnosť vyplýva z návrhu na vyhlásenie konkurzu alebo návrhu na určenie splátkového kalendára, súd druhému z manželov ustanoví totožného správcu. Správcu súd odvolá, ak opakovane alebo závažne porušil svoje povinnosti alebo mu vo výkone funkcie bráni zákonná prekážka.
+(1) Správcu ustanovuje súd na základe náhodného výberu pomocou technických a programových prostriedkov schválených ministerstvom. Ak je však vyhlásený konkurz alebo sa vedie konanie o určení splátkového kalendára ohľadom manžela dlžníka a táto okolnosť vyplýva z návrhu na vyhlásenie konkurzu alebo návrhu na určenie splátkového kalendára, súd druhému z manželov ustanoví totožného správcu. Správcu súd odvolá, ak opakovane alebo závažne porušil svoje povinnosti alebo mu vo výkone funkcie bráni zákonná prekážka. Ustanovenie § 42 ods. 7 sa použije rovnako.
 
 (2) Opakovaným porušením povinnosti správcu sa rozumie, ak správca napriek písomnému upozorneniu súdom naďalej porušuje povinnosť, na ktorej porušenie bol upozornený.
 

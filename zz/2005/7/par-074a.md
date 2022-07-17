@@ -8,7 +8,7 @@
 
 (5) Povinnosti zaplatiť zmluvnú pokutu sa zbaví ten, kto osvedčí, že
 
-- a) konal s odbornou starostlivosťou, najmä ak pre nedostatok súčinnosti tých, s ktorými koná spoločne, nemohol túto povinnosť splniť, pričom bez zbytočného odkladu, ako sa dozvedel alebo mohol dozvedieť o predlžení, uložil do zbierky listín oznámenie, že dlžník je v predlžení,
+- a) konal s odbornou starostlivosťou, najmä ak pre nedostatok súčinnosti tých, s ktorými koná spoločne, nemohol túto povinnosť splniť, pričom bez zbytočného odkladu, ako sa dozvedel alebo mohol dozvedieť o úpadku, uložil do zbierky listín oznámenie, že dlžník je v úpadku,
 
 - b) ako člen štatutárneho orgánu bol ustanovený počas úpadku za účelom jeho prekonania a návrh na vyhlásenie konkurzu podal bez zbytočného odkladu po tom, ako pri konaní s odbornou starostlivosťou zistil, že prijaté opatrenia nebudú viesť k jeho prekonaniu,
 

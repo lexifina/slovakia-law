@@ -8,7 +8,7 @@
 
 (2)
 
-Ak je úpadcom banka alebo pobočka zahraničnej banky, uspokoja sa z výťažku speňaženia majetku tvoriaceho všeobecnú podstatu, ktorý zvýšil po uspokojení pohľadávok podľa odseku 1 a po uspokojení nezabezpečených pohľadávok podľa § 95 ods. 1, avšak pred uspokojením pohľadávok podľa § 95 ods. 2, zmluvných pokút a spriaznených pohľadávok podľa § 95 ods. 3 pohľadávky vyplývajúce z dlhových nástrojov,<sup>32f</sup>) ktoré spĺňajú tieto podmienky:
+Ak je úpadcom banka alebo pobočka zahraničnej banky, uspokoja sa z výťažku speňaženia majetku tvoriaceho všeobecnú podstatu, ktorý zvýšil po uspokojení pohľadávok podľa odseku 1 a po uspokojení nezabezpečených pohľadávok podľa § 95 ods. 1, avšak pred uspokojením pohľadávok podľa § 95 ods. 2 a zmluvných pokút podľa § 95 ods. 3 pohľadávky vyplývajúce z dlhových nástrojov,<sup>32f</sup>) ktoré spĺňajú tieto podmienky:
 
 a)
 

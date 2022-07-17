@@ -1,6 +1,6 @@
 # § 166g Poctivý zámer
 
-(1) Dlžník má poctivý zámer, ak z jeho správania po podaní návrhu možno usudzovať, že vynaložil úprimnú snahu riešiť svoj dlh v medziach svojich možností a schopností, najmä ak poskytoval správcovi a veriteľom potrebnú súčinnosť, vynaložil snahu získať zamestnanie, zamestnal sa alebo si zabezpečil iný zdroj príjmov, v prípade nie nepatrného dedenia, daru alebo výhry zo stávky alebo hry ponúkol aspoň polovicu takéhoto zdroja dobrovoľne veriteľom na uspokojenie nevymáhateľného dlhu, prípadne vynaložil snahu o zaradenie sa do spoločnosti alebo sa do spoločnosti opätovne zaradil.
+(1) Dlžník má poctivý zámer, ak z jeho správania po podaní návrhu možno usudzovať, že vynaložil úprimnú snahu riešiť svoj dlh v medziach svojich možností a schopností, najmä ak poskytoval správcovi a veriteľom potrebnú súčinnosť, vynaložil snahu získať zamestnanie, zamestnal sa alebo si zabezpečil iný zdroj príjmov, pokračoval vo výkone podnikateľskej činnosti alebo inej obdobnej činnosti alebo začal podnikať, v prípade nie nepatrného dedenia, daru alebo výhry zo stávky alebo hry ponúkol aspoň polovicu takéhoto zdroja dobrovoľne veriteľom na uspokojenie nevymáhateľného dlhu, prípadne vynaložil snahu o zaradenie sa do spoločnosti alebo sa do spoločnosti opätovne zaradil.
 
 (2) Dlžník nemá poctivý zámer najmä, ak
 
@@ -24,7 +24,7 @@
 
 - j) bez vážneho dôvodu riadne a včas neplní výživné pre dieťa, na ktoré vznikol nárok po rozhodujúcom dni; tohto dôvodu sa môže dovolávať iba dieťa alebo zákonný zástupca dieťaťa,
 
-- k) bez vážneho dôvodu riadne a včas neplní povinnosť vrátiť Centru právnej pomoci hodnotu poskytnutého preddavku na úhradu paušálnej odmeny správcu; tohto dôvodu sa môže dovolávať iba Centrum právnej pomoci,
+- k) bez vážneho dôvodu riadne a včas neplní povinnosť vrátiť Centru právnej pomoci hodnotu poskytnutého preddavku na úhradu paušálnej odmeny správcu; tohto dôvodu sa môže dovolávať iba Centrum právnej pomoci alebo poverená osoba podľa osobitného predpisu,<sup>8aa</sup>)
 
 - l) dlžník sa domáhal zbavenia dlhov napriek tomu, že na území Slovenskej republiky nemal v čase podania návrhu centrum hlavných záujmov.
 

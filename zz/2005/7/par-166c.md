@@ -12,7 +12,7 @@
 
 - e) pohľadávka dieťaťa na výživné vrátane príslušenstva takejto pohľadávky,
 
-- f) pracovnoprávne nároky voči dlžníkovi,
+- f) pracovnoprávne nároky zamestnancov dlžníka voči dlžníkovi,
 
 - g) peňažný trest podľa Trestného zákona,
 

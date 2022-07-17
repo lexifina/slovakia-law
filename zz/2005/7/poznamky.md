@@ -2,7 +2,15 @@
 
 - 1a) § 408a Obchodného zákonníka.
 
-- 1b) § 67a ods. 2 Obchodného zákonníka.
+- 1aa) § 7 až 49 zákona č. 111/2022 Z. z. o riešení hroziaceho úpadku a o zmene a doplnení niektorých zákonov.
+
+- 1b) Zákon č. 111/2022 Z. z.
+
+- 1c) § 171 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+
+- § 25a zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- § 52 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 2) § 9 ods. 3 a § 42 ods. 2 Zákonníka práce.
 
@@ -14,7 +22,11 @@
 
 - 3c) Čl. 5 nariadenia (EÚ) č. 2015/848 v platnom znení.
 
-- 3d) § 17 zákona č. 421/2020 Z. z. o dočasnej ochrane podnikateľov vo finančných ťažkostiach a o zmene a doplnení niektorých zákonov.
+- 3ca) Napríklad § 61n ods. 6 Exekučného poriadku, § 309f Civilného mimosporového poriadku.
+
+- 3d) § 16 zákona č. 111/2022 Z. z.
+
+- 3e) Čl. 39 nariadenia (EÚ) č. 2015/848 v platnom znení.
 
 - 4) § 127 Civilného sporového poriadku.
 
@@ -36,6 +48,10 @@
 
 - 8ab) § 15 zákona č. 374/2014 Z. z.
 
+- 8ac) Čl. 2 ods. 12 nariadenia (EÚ) č. 2015/848 v platnom znení.
+
+- 8ad) Čl. 55 nariadenia (EÚ) č. 2015/848 v platnom znení.
+
 - 8b) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 655/2004 Z. z. o odmenách a náhradách advokátov za poskytovanie právnych služieb v znení neskorších predpisov.
 
 - 8c) § 3 ods. 1 zákona č. 523/2004 Z. z.
@@ -43,6 +59,8 @@
 - 9) Zákon č. 8/2005 Z. z. o správcoch a o zmene a doplnení niektorých zákonov.
 
 - 9a) § 31 ods. 2 písm. c) zákona č. 483/2001 Z. z. v znení zákona č. 644/2006 Z. z.
+
+- 9aa) § 2 ods. 1 písm. f) zákona č. 111/2022 Z. z.
 
 - 9b) § 8 písm. o) zákona č. 566/2001 Z. z. v znení zákona č. 336/2005 Z. z.
 
@@ -96,6 +114,10 @@
 
 - 22c) § 59 ods. 1 Trestného zákona v znení zákona č. 224/2010 Z. z.
 
+- 22d) § 15 zákona č. 111/2022 Z. z.
+
+- 22e) § 12 zákona č. 111/2022 Z. z.
+
 - 23) Obchodný zákonník.
 
 - 24) Zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
@@ -103,6 +125,8 @@
 - 25) § 502 Obchodného zákonníka.
 
 - 25a) Zákon č. 327/2005 Z. z. o poskytovaní právnej pomoci osobám v materiálnej núdzi a o zmene a doplnení zákona č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 8/2005 Z. z. v znení neskorších predpisov.
+
+- 25aa) § 2 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 112/2018 Z. z.
 
 - 25b) Zákon č. 98/2014 Z. z. o krátkodobom nájme bytu v znení zákona č. 125/2016 Z. z.
 
@@ -147,8 +171,6 @@
 - 31) § 51 zákona č. 492/2009 Z. z.
 
 - § 107a zákona č. 566/2001 Z. z. v znení zákona č. 510/2002 Z. z.
-
-- 32) Zákon č. 421/2020 Z. z.
 
 - 32a) § 3 ods. 3 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 

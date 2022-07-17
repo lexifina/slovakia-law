@@ -17,3 +17,5 @@ Príloha k zákonu č. 7/2005 Z. z.
   - 7. Smernica Európskeho parlamentu a Rady (EÚ) 2019/879 z 20. mája 2019, ktorou sa mení smernica 2014/59/EÚ, pokiaľ ide o kapacitu úverových inštitúcií a investičných spoločností na absorpciu strát a rekapitalizáciu, a smernica 98/26/ES (Ú. v. EÚ L 150, 7. 6. 2019).
 
   - 8. Smernica Európskeho parlamentu a Rady (EÚ) 2019/2162 z 27. novembra 2019 o emisii krytých dlhopisov a verejnom dohľade nad krytými dlhopismi a ktorou sa menia smernice 2009/65/ES a 2014/59/EÚ (Ú. v. EÚ L 328, 18. 12. 2019).
+
+  - 8. Smernica Európskeho parlamentu a Rady (EÚ) 2019/1023 z 20. júna 2019 o rámcoch preventívnej reštrukturalizácie, o oddlžení a diskvalifikácii a o opatreniach na zvýšenie účinnosti reštrukturalizačných, konkurzných a oddlžovacích konaní a o zmene smernice (EÚ) 2017/1132 (Smernica o reštrukturalizácii a insolvencii) (Ú. v. EÚ L 172, 26. 6. 2019).

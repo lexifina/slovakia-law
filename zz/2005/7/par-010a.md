@@ -1,6 +1,6 @@
 # § 10a Register úpadcov
 
-(1) Register úpadcov je informačný systém verejnej správy<sup>3a</sup>) sprístupnený na webovom sídle ministerstva, ktorého správcom a prevádzkovateľom je ministerstvo.
+(1) Register úpadcov je informačný systém verejnej správy<sup>3a</sup>) sprístupnený na webovom sídle Ministerstva spravodlivosti Slovenskej republiky (ďalej len „ministerstvo“), ktorého správcom a prevádzkovateľom je ministerstvo.
 
 (2) V registri úpadcov sa zverejňujú
 
