@@ -10,7 +10,9 @@
 
 - d) zrušení konkurzu pre nedostatok majetku,<sup>15ad</sup>)
 
-- e) zrušení konkurzu po splnení konečného rozvrhu výťažku.<sup>15ad</sup>)
+- e) zrušení konkurzu po splnení konečného rozvrhu výťažku,<sup>15ad</sup>)
+
+- f) zrušení konkurzu po splnení rozvrhového uznesenia.
 
 (2) Súd aj bez návrhu vykoná výmaz spoločnosti, ak tak ustanoví osobitný zákon.<sup>15b</sup>)
 
