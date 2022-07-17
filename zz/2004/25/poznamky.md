@@ -24,11 +24,7 @@
 
 - § 7 ods. 17 zákona č. 530/2003 Z. z. v znení zákona č. 390/2019 Z. z.
 
-- 2aac) § 115 ods. 10 Obchodného zákonníka v znení zákona č. 264/2017 Z. z.
-
 - 2ab) § 59b ods. 3 Obchodného zákonníka.
-
-- 2ac) § 115 ods. 6 až 8 a § 117 ods. 4 Obchodného zákonníka v znení zákona č. 264/2017 Z. z.
 
 - 2ad) Článok 14 nariadenia Rady (EHS) č. 2137/85 z 25. júla 1985 o európskom zoskupení hospodárskych záujmov (EZHZ) (Mimoriadne vydanie Ú. v. EÚ, kap. 17/zv. 1).
 

@@ -1,1 +1,1 @@
-Príloha č. 16 k vyhláške 25/2004 Z. z. [Príloha č. 16 k vyhláške 25/2004 Z. z.](../assets/e29f20e067311b7bc7f12ea9dfff8423eaa88a921e3d7e855140129f4dcee215.pdf)
+Príloha č. 16 k vyhláške 25/2004 Z. z. [Príloha č. 16 k vyhláške 25/2004 Z. z.](../assets/9e9449edf7de226456825b2eaf6f6176264f841cdc392cddf54459a407571e82.pdf)
