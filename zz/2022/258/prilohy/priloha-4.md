@@ -1,0 +1,1 @@
+Príloha č. 4 k vyhláške č. 258/2022 Z. z. [Oznámenie o skladových zásobách komodít podľa § 24 ods. 2 zákona č. 152/1995 Z. z. o potravinách v znení zákona č. 211/2022 Z. z.](../assets/69ebebb190b1ed8aeb8e84ad8458c9715b7f49caa982b2d4c88f46522bdd3633.pdf)

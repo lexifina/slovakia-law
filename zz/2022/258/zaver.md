@@ -1,0 +1,1 @@
+Samuel Vlčan v. r.

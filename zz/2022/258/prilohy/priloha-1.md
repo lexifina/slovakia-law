@@ -1,0 +1,1 @@
+Príloha č. 1 k vyhláške č. 258/2022 Z. z. [Zoznam komodít, ktoré sú nevyhnutné na zabezpečenie potravinovej bezpečnosti štátu](../assets/36103ee645c2ea6701a23f8167a103ed0a18108213d8ad81ef807ce23aefbfe3.pdf)

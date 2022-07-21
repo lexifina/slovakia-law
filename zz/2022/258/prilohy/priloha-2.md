@@ -1,0 +1,1 @@
+Príloha č. 2 k vyhláške č. 258/2022 Z. z. [Kritická hodnota skladových zásob komodít, ktoré sú nevyhnutné na zabezpečenie potravinovej bezpečnosti štátu](../assets/c94f6ef04a050b591cc02e85ed6fd7df4929fb8bd123bb8d1cbcac3ed2e8da9c.pdf)
