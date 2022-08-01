@@ -82,7 +82,7 @@
 
   - 8. dôvod zmeny rozhodnutia,
 
-- d) poistencov, ktorým bola poskytnutá následná zdravotná starostlivosť<sup>18o</sup>) v Slovenskej republike, v rozsahu
+- d) poistencov, ktorým bola poskytnutá pokračujúca zdravotná starostlivosť<sup>18o</sup>) v Slovenskej republike, v rozsahu
 
   - 1. poradové číslo,
 

@@ -124,6 +124,16 @@
 
 - 18o) § 9d ods. 1 zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
 
+- 18p) § 2 ods. 37 zákona č. 576/2004 Z. z. v znení zákona č. 267/2022 Z. z.
+
+- 18r) § 7 ods. 3 písm. e) zákona č. 578/2004 Z. z.
+
+- § 7 ods. 4 písm. d) zákona č. 578/2004 Z. z.
+
+- 18s) Zákon č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov.
+
+- 18t) Príloha č. 2 zákona č. 576/2004 Z. z. v znení zákona č. 267/2022 Z. z.
+
 - 19) § 5 až 5d zákona č. 578/2004 Z. z.
 
 - 19a) § 6 zákona č. 578/2004 Z. z.
@@ -267,6 +277,10 @@
 - 35aakb) Čl. 2 ods. 2 nariadenia Európskeho parlamentu a Rady (EÚ) 2021/953 zo 14. júna 2021 o rámci pre vydávanie, overovanie a uznávanie interoperabilných potvrdení o očkovaní proti ochoreniu COVID-19, o vykonaní testu a prekonaní tohto ochorenia (digitálny COVID preukaz EÚ) s cieľom uľahčiť voľný pohyb počas pandémie ochorenia COVID-19 (Ú. v. EÚ L 211, 15. 6. 2021).
 
 - 35aakc) § 12 ods. 7 písm. c) zákona č. 153/2013 Z. z. v znení zákona č. 252/2021 Z. z.
+
+- 35aakd) § 10d ods. 1 zákona č. 576/2004 Z. z. v znení zákona č. 267/2022 Z. z.
+
+- 35aake) § 10e ods. 3 písm. b) a c) zákona č. 576/2004 Z. z. v znení zákona č. 267/2022 Z. z.
 
 - 35aal) § 88 zákona č. 363/2011 Z. z. v znení neskorších predpisov.
 
@@ -637,3 +651,13 @@
 - 102) § 49k zákona č. 576/2004 Z. z. v znení zákona č. 125/2020 Z. z.
 
 - 103) § 79 ods. 1 písm. bi) zákona č. 578/2004 Z. z. v zmení neskorších predpisov.
+
+- 104) § 10a ods. 3 zákona č. 576/2004 Z. z.
+
+- 105) § 7 ods. 3 písm. e) zákona č. 578/2004 Z. z.
+
+- 106) § 7 ods. 3 písm. g) zákona č. 578/2004 Z. z.
+
+- 107) § 7 ods. 4 písm. c) zákona č. 578/2004 Z. z.
+
+- 108) § 12 ods. 2 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
