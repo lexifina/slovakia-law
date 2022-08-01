@@ -48,17 +48,7 @@
 
 - 11a) § 17 ods. 5 zákona č. 343/2007 Z. z. o podmienkach evidencie, verejného šírenia a uchovávania audiovizuálnych diel, multimediálnych diel a zvukových záznamov umeleckých výkonov a o zmene a doplnení niektorých zákonov (audiovizuálny zákon).
 
-- 11b) § 47 zákona č. 308/2000 Z. z. v znení neskorších predpisov.
-
-- § 27 zákona č. 220/2007 Z. z. v znení zákona č. 373/2013 Z. z.
-
-- 11c) § 2 ods. 8 zákona č. 212/1997 Z. z. o povinných výtlačkoch periodických publikácií, neperiodických publikácií a rozmnoženín audiovizuálnych diel.
-
-- Zákon č. 184/1999 Z. z. v znení neskorších predpisov.
-
-- 11d) § 2 ods. 1 a 4 zákona č. 167/2008 Z. z. o periodickej tlači a agentúrnom spravodajstve a o zmene a doplnení niektorých zákonov (tlačový zákon).
-
-- 11e) § 2 ods. 3 zákona č. 212/1997 Z. z.
+- 11b) § 157 až 173 zákona č. 264/2022 Z. z. o mediálnych službách a o zmene a doplnení niektorých zákonov (zákon o mediálnych službách).
 
 - 11f) Zákon č. 49/2002 Z. z. o ochrane pamiatkového fondu v znení zákona č. 479/2005 Z. z.
 
