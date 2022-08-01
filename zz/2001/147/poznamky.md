@@ -62,6 +62,6 @@
 
 - 21c) Čl. 119 až 121 nariadenia (EÚ) 2019/6.
 
-- 22) Zákon Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení neskorších predpisov.
+- 22) § 26 zákona č. 265/2022 Z. z. o vydavateľoch publikácií a o registri v oblasti médií a audiovízie a o zmene a doplnení niektorých zákonov (zákon o publikáciách).
 
 - 23) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
