@@ -8,12 +8,10 @@
 
 (4) Počas krízovej situácie lehota na vydanie preukazu, licencie na prevádzkovanie bezpečnostnej služby, licencie na prevádzkovanie technickej služby, akreditácie alebo na určenie termínu a miesta konania kvalifikačnej skúšky neplynie.
 
-(5) Lehoty podľa § 10 ods. 2, § 15 ods. 2, § 19 ods. 6 a 10, § 27 ods. 2 a 4, § 33 ods. 1 písm. c) a ods. 4, § 33a ods. 3, § 46, § 66 ods. 1 a 4, § 69 ods. 2, § 77 ods. 1 písm. c) a ods. 4, § 82 ods. 5 písm. c) počas krízovej situácie neplynú.
+(5) Lehoty podľa § 10 ods. 2, § 15 ods. 2, § 19 ods. 6 a 10, § 27 ods. 2, § 33 ods. 4, § 33a ods. 3, § 46, § 66 ods. 1 a 4, § 69 ods. 2, § 77 ods. 4, § 82 ods. 5 písm. c) počas krízovej situácie neplynú.
 
 (6) Lehoty podľa § 19 ods. 9 druhej vety, § 29 ods. 2 až 5, § 45 ods. 1 druhej vety a ods. 2 druhej vety, § 46a ods. 1 druhej vety a ods. 2 druhej vety a § 48 ods. 5, ktoré uplynuli alebo uplynú od vyhlásenia krízovej situácie do jedného mesiaca od jej odvolania, sa predlžujú až do uplynutia dvoch mesiacov od odvolania krízovej situácie.
 
 (7) Splnenie povinností podľa § 46a ods. 1 prvej vety a ods. 2 prvej vety počas krízovej situácie sa vyžaduje najneskôr do uplynutia jedného mesiaca od odvolania krízovej situácie; uchádzač o zamestnanie sa do uplynutia tejto doby považuje za zdravotne spôsobilého.
 
 (8) Namiesto podmienky podľa § 48 ods. 1 písm. f) na účely § 3 písm. a) a b) počas krízovej situácie postačuje osvedčenie o absolvovaní odbornej prípravy.
-
-(9) Počas krízovej situácie môže akreditovaná osoba vykonávať odbornú prípravu prostredníctvom elektronických prostriedkov.

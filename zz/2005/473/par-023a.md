@@ -4,7 +4,7 @@
 
 - a) obchodné meno a sídlo,<sup>19</sup>) prípadne adresu miesta činnosti organizačnej zložky podniku alebo podniku zahraničnej osoby,
 
-- b) meno, priezvisko, titul, dátum a miesto narodenia, rodné číslo, adresu pobytu a štátne občianstvo fyzickej osoby alebo fyzických osôb, ktoré sú štatutárnym orgánom právnickej osoby alebo jeho členmi, s uvedením spôsobu, akým konajú v jej mene,
+- b) meno, priezvisko, titul, rodné číslo alebo dátum narodenia, ak rodné číslo nebolo pridelené, adresu pobytu a štátne občianstvo fyzickej osoby alebo fyzických osôb, ktoré sú štatutárnym orgánom právnickej osoby alebo jeho členmi, s uvedením spôsobu, akým konajú v jej mene,
 
 - c) identifikačné číslo, ak je pridelené,
 

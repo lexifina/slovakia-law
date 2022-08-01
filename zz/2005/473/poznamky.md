@@ -30,6 +30,8 @@
 
 - 12) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
 
+- 12a) § 2 ods. 1, 2 a 4 zákona č. 139/1998 Z. z. o omamných látkach, psychotropných látkach a prípravkoch v znení neskorších predpisov.
+
 - 13) § 16 zákona 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 
 - 14) § 16 ods. 4 písm. c) a d) zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
@@ -59,6 +61,8 @@
 - 25) § 673 až 681 Obchodného zákonníka.
 
 - 26) § 46 Občianskeho zákonníka.
+
+- 26a) § 27 ods. 2 zákona č. 319/2002 Z. z. o obrane Slovenskej republiky v znení zákona č. 330/2003 Z. z.
 
 - 27) Napríklad § 340 Trestného zákona, § 127 Trestného poriadku, § 7 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 

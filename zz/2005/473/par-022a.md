@@ -2,7 +2,7 @@
 
 (1) Fyzická osoba v žiadosti o udelenie licencie na prevádzkovanie bezpečnostnej služby podľa § 2 ods. 1 písm. b) uvedie
 
-- a) meno, priezvisko, titul, dátum a miesto narodenia, rodné číslo, adresu pobytu a štátne občianstvo,
+- a) meno, priezvisko, titul, rodné číslo alebo dátum narodenia, ak rodné číslo nebolo pridelené, adresu pobytu a štátne občianstvo,
 
 - b) obchodné meno<sup>18</sup>) a miesto činnosti fyzickej osoby, identifikačné číslo, ak je pridelené,
 

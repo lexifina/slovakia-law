@@ -18,8 +18,8 @@
 
 - h) dňom vrátenia preukazu ministerstvu.
 
-(2) Ak platnosť preukazu zanikne podľa odseku 1 písm. b), c), e) a f), vydá ministerstvo nový preukaz na základe písomnej žiadosti držiteľa neplatného preukazu a po preukázaní dôvodov na jeho vydanie s platnosťou podľa preukazu, za ktorý sa nový preukaz vydáva.
+(2) Ak platnosť preukazu zanikne podľa odseku 1 písm. b), c), e) a f), vydá ministerstvo nový preukaz na základe písomnej žiadosti držiteľa neplatného preukazu a po preukázaní dôvodov na jeho vydanie s platnosťou podľa preukazu, za ktorý sa nový preukaz vydáva; ak zanikla platnosť preukazu podľa odseku 1 písm. e) a f), žiadateľ priloží k žiadosti neplatný preukaz.
 
-(3) Ak platnosť preukazu zanikne podľa odseku 1 písm. a) a h), na vydanie nového preukazu je potrebné absolvovať odbornú prípravu a úspešne vykonať skúšku. Odbornú prípravu možno absolvovať najskôr šesť mesiacov pred skončením platnosti preukazu.
+(3) Ak platnosť preukazu zanikne podľa odseku 1 písm. a) a h), na vydanie nového preukazu je potrebné absolvovať odbornú prípravu a úspešne vykonať skúšku.
 
-(4) Držiteľ neplatného preukazu je povinný ho odovzdať ministerstvu do 15 dní od zániku jeho platnosti podľa odseku 1 písm. a), d) až f).
+(4) Držiteľ neplatného preukazu je povinný ho odovzdať ministerstvu alebo ktorémukoľvek útvaru Policajného zboru do 15 dní od zániku jeho platnosti podľa odseku 1 písm. a), e) a f), ak odsek 2 neustanovuje inak. Držiteľ neplatného preukazu je povinný ho odovzdať orgánu, ktorý rozhodol o jeho odňatí, do 15 dní od zániku jeho platnosti podľa odseku 1 písm. d).
