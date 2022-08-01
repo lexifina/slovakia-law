@@ -252,4 +252,14 @@ Zákon č. 97/1963 Zb. o medzinárodnom práve súkromnom a procesnom v znení z
 
 - Osobitným výrokom o uznaní cudzieho rozhodnutia rozhoduje súd len na návrh, aj keď to tento zákon alebo medzinárodná zmluva nevyžaduje.“.
 
+- 19. V § 68b ods. 1 sa na konci pripája táto veta: „Návrh na neuznanie cudzieho rozhodnutia z dôvodu, že uznanie by sa priečilo slovenskému verejnému poriadku, môže podať aj prokurátor.“.
+
+- 20. § 68c sa dopĺňa odsekom 4, ktorý znie:
+
+- „(4)
+
+- Ak návrh podáva prokurátor podľa § 68b ods. 1, k návrhu nie je povinný pripojiť písomnosti uvedené v § 68c ods. 2 písm. c) a d). Overené preklady pripojených listín do slovenského jazyka zabezpečí konajúci súd.“.
+
+- 21. V § 68g ods. 2 sa na konci pripája táto veta: „Ak je dôvodom na neuznanie cudzieho rozhodnutia rozpor s verejným poriadkom, súd cudzie rozhodnutie uzná len v rozsahu, v ktorom to neodporuje slovenskému verejnému poriadku, a ak je takéto uznanie s ohľadom na obsah cudzieho rozhodnutia možné.“.
+
 - 22. V § 68h ods. 2 sa za slová „na konanie“ vkladajú slová „o návrhu na uznanie alebo neuznanie cudzieho rozhodnutia, o návrhu na určenie, že nie sú dané dôvody neuznania cudzieho rozhodnutia alebo“.
