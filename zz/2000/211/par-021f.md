@@ -14,8 +14,10 @@
 
 (5) Podmienky opakovaného použitia informácií určí povinná osoba tak, aby boli v súlade so štandardmi pre informačné systémy verejnej správy,<sup>27n</sup>) nediskriminačné a obmedzovali opakované použitie informácií len v nevyhnutnej miere.
 
-(6) Povinná osoba, ktorá opakovane používa informáciu na podnikateľský účel odlišný od plnenia úloh tejto povinnej osoby, má rovnaké povinnosti ako žiadateľ, ktorý opakovane používa informáciu na podnikateľské účely.
+(6) Povinná osoba podľa § 21b ods. 3, ktorá opakovane používa informáciu na podnikateľský účel odlišný od plnenia úloh tejto povinnej osoby, má rovnaké povinnosti ako žiadateľ, ktorý opakovane používa informáciu na podnikateľské účely.
 
 (7) Povinná osoba zverejňuje podmienky opakovaného použitia informácií na svojom webovom sídle, ak ho má zriadené, inak ich zverejňuje podľa § 6 ods. 2.
 
 (8) Ak povinná osoba zruší alebo zmení podmienky opakovaného použitia informácií, bez zbytočného odkladu o tom informuje na svojom webovom sídle, ak ho má zriadené, inak podľa § 6 ods. 2.
+
+(9) Bez toho, aby bolo dotknuté ustanovenie § 21c ods. 1 písm. c), výskumné údaje sa sprístupňujú na účel opakovaného použitia, na podnikateľský účel alebo nepodnikateľský účel, ak sú financované z finančných prostriedkov, s ktorými hospodária právnické osoby verejnej správy<sup>7aa</sup>) vrátane neštátnych účelových fondov, a zároveň osoby vykonávajúce výskum a vývoj alebo osoby financujúce výskum a vývoj ich už sprístupnili prostredníctvom inštitucionálnej databázy alebo tematickej databázy.

@@ -130,49 +130,77 @@
 
 - 27b) § 66a Obchodného zákonníka.
 
+- 27ba) § 9 zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 27bb) Čl. 2 nariadenia Európskeho parlamentu a Rady (ES) č. 1370/2007 z 23. októbra 2007 o službách vo verejnom záujme v železničnej a cestnej osobnej doprave, ktorým sa zrušujú nariadenia Rady (EHS) č. 1191/69 a (EHS) č. 1107/70 (Ú. v. EÚ L 315, 3. 12. 2007) v platnom znení.
+
+- 27bc) Čl. 16 nariadenia Európskeho parlamentu a Rady (ES) č. 1008/2008 z 24. septembra 2008 o spoločných pravidlách prevádzky leteckých dopravných služieb v Spoločenstve (prepracované znenie) (Ú. v. EÚ L 293, 31. 10. 2008) v platnom znení.
+
+- 27bd) Čl. 4 nariadenia Rady (EHS) č. 3577/92 zo 7. decembra 1992, ktorým sa uplatňuje zásada slobody poskytovania služieb na námornú dopravu v rámci členských štátov (námorná kabotáž) (Ú. v. ES L 364, 12. 12. 1992; Mimoriadne vydanie Ú. v. EÚ, kap. 6/zv. 2) v platnom znení.
+
+- 27be) § 24 ods. 1 zákona č. 95/2019 Z. z. o informačných technológiách vo verejnej správe a o zmene a doplnení niektorých zákonov.
+
+- § 18 až 25 vyhlášky Úradu podpredsedu vlády Slovenskej republiky pre investície a informatizáciu č. 78/2020 Z. z. o štandardoch pre informačné technológie verejnej správy v znení vyhlášky Ministerstva investícií, regionálneho rozvoja a informatizácie Slovenskej republiky č. 546/2021 Z. z.
+
+- 27bf) § 31 písm. k) zákona č. 95/2019 Z. z.
+
+- § 18 vyhlášky Úradu podpredsedu vlády Slovenskej republiky pre investície a informatizáciu č. 78/2020 Z. z. v znení vyhlášky Ministerstva investícií, regionálneho rozvoja a informatizácie Slovenskej republiky č. 546/2021 Z. z.
+
 - 27c) Zákon č. 532/2010 Z. z. o Rozhlase a televízii Slovenska a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 27d) § 27 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
-
-- 27e) § 2 ods. 2 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení zákona č. 363/2007 Z. z.
-
-- 27ea) § 8 zákona č. 126/2015 Z. z. o knižniciach a o zmene a doplnení zákona č. 206/2009 Z. z. o múzeách a o galériách a o ochrane predmetov kultúrnej hodnoty a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení zákona č. 38/2014 Z. z.
 
 - 27f) § 2 ods. 5 a 6 zákona č. 206/2009 Z. z. o múzeách a o galériách a o ochrane predmetov kultúrnej hodnoty a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 27g) § 2 ods. 1 zákona č. 126/2015 Z. z.
 
+- 27ga) § 8 zákona č. 126/2015 Z. z. o knižniciach a o zmene a doplnení zákona č. 206/2009 Z. z. o múzeách a o galériách a o ochrane predmetov kultúrnej hodnoty a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení zákona č. 38/2014 Z. z.
+
 - 27h) § 4 zákona č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov.
 
-- 27j) § 29 písm. a) výnosu Ministerstva financií Slovenskej republiky č. 55/2014 Z. z. o štandardoch pre informačné systémy verejnej správy
+- 27j) § 3 ods. 3 vyhlášky Národného bezpečnostného úradu č. 362/2018 Z. z., ktorou sa ustanovuje obsah bezpečnostných opatrení, obsah a štruktúra bezpečnostnej dokumentácie a rozsah všeobecných bezpečnostných opatrení.
 
-- 27k) § 16 zákona č. 428/2002 Z. z.
+- Vyhláška Úradu podpredsedu vlády Slovenskej republiky pre investície a informatizáciu č. 179/2020 Z. z., ktorou sa ustanovuje spôsob kategorizácie a obsah bezpečnostných opatrení informačných technológií verejnej správy.
+
+- 27k) § 23 ods. 1 zákona č. 95/2019 Z. z. v znení zákona č. 287/2021 Z. z.
+
+- § 2 ods. 4 vyhlášky Úradu podpredsedu vlády Slovenskej republiky pre investície a informatizáciu č. 179/2020 Z. z.
 
 - 27ka) Napríklad § 55aa zákona č. 153/2001 Z. z. v znení zákona č. 192/2011 Z. z., § 10 ods. 4 až 6 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 27kb) Napríklad § 13 zákona č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 27kc) § 94 zákona č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 27kd) § 2 písm. k) zákona č. 45/2011 Z. z. o kritickej infraštruktúre.
+
 - 27l) Napríklad zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 200/2011 Z. z.
 
 - 27la) Zákon č. 185/2015 Z. z. Autorský zákon.
 
-- 27m) § 2 písm. j) zákona č. 275/2006 Z. z. v znení zákona č. 570/2009 Z. z.
+- 27laa) § 184 ods. 1 zákona č. 343/2015 Z. z.
+
+- 27lab) § 135 ods. 1 Autorského zákona.
 
 - 27ma) § 76 zákona č. 185/2015 Z. z.
 
-- 27n) Výnos Ministerstva financií Slovenskej republiky č. 55/2014 Z. z.
+- 27n) § 31 písm. k) zákona č. 95/2019 Z. z.
 
-- 27na) § 52 výnosu Ministerstva financií Slovenskej republiky č. 55/2014 Z. z. v znení výnosu č. 276/2014 Z. z.
+- Vyhláška Úradu podpredsedu vlády Slovenskej republiky pre investície a informatizáciu č. 78/2020 Z. z. v znení vyhlášky Ministerstva investícií, regionálneho rozvoja a informatizácie Slovenskej republiky č. 546/2021 Z. z.
 
-- 27nb) § 51 ods. 2 výnosu Ministerstva financií Slovenskej republiky č. 55/2014 Z. z.
+- 27na) § 31 písm. k) zákona č. 95/2019 Z. z. o informačných technológiách vo verejnej správe a o zmene a doplnení niektorých zákonov.
 
-- 27nc) § 2 písm. w) výnosu Ministerstva financií Slovenskej republiky č. 55/2014 Z. z.
+- § 39 vyhlášky Úradu podpredsedu vlády Slovenskej republiky pre investície a informatizáciu č. 78/2020 Z. z.
 
-- 27o) § 6 zákona č. 275/2006 Z. z. v znení zákona č. 570/2009 Z. z.
+- 27nb) § 31 písm. k) zákona č. 95/2019 Z. z. o informačných technológiách vo verejnej správe a o zmene a doplnení niektorých zákonov.
 
-- Výnos Ministerstva financií Slovenskej republiky č. 55/2014 Z. z.
+- § 38 ods. 2 vyhlášky Úradu podpredsedu vlády Slovenskej republiky pre investície a informatizáciu č. 78/2020 Z. z.
 
-- 27p) § 2 ods. 1 zákona č. 663/2007 Z. z. o minimálnej mzde v znení zákona č. 460/2008 Z. z.
+- 27nc) § 31 písm. k) zákona č. 95/2019 Z. z. o informačných technológiách vo verejnej správe a o zmene a doplnení niektorých zákonov.
+
+- § 2 písm. l) vyhlášky Úradu podpredsedu vlády Slovenskej republiky pre investície a informatizáciu č. 78/2020 Z. z.
+
+- 27o) § 24 ods. 1 a 2 zákona č. 95/2019 Z. z.
 
 - 28) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 

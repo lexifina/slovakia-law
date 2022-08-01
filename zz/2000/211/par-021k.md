@@ -1,19 +1,29 @@
 # § 21k
 
-(1) Úhrada za opakované použitie informácií je príjmom povinnej osoby a môže byť jednorazová alebo opakovaná.
+(1) Informácie na účely opakovaného použitia sa sprístupňujú bezplatne. Povinná osoba môže požadovať iba úhradu zahrňujúcu materiálne náklady spojené s vyhotovením rozmnoženiny informácie, s poskytovaním a šírením informácie ako aj s anonymizáciou osobných údajov a opatreniami na ochranu dôverných obchodných informácií.
 
-(2) Úhrada za opakované použitie informácií nesmie prekročiť výšku nevyhnutne a účelne vynaložených nákladov spojených s umožnením prístupu k informáciám prostredníctvom nového alebo existujúceho priameho alebo nepriameho prepojenia alebo pripojenia žiadateľa k databáze informácií povinnej osoby, so zhotovením kópií, so zadovážením technických nosičov, s odoslaním informácií žiadateľovi a s vynaloženou ľudskou prácou. Náklady na ľudskú prácu podľa predchádzajúcej vety sa vypočítajú podľa počtu hodín na základe minimálnej hodinovej mzdy za predchádzajúci kalendárny rok určenej podľa osobitného predpisu.<sup>27p</sup>) Ustanovenia § 21e ods. 1 a § 21f ods. 5 sa použijú rovnako.
+(2) Ustanovenie odseku 1 druhej vety sa nepoužije na
 
-(3) Príplatok nepresahujúci 5 % účelne vynaložených nákladov určených podľa odseku 2 je oprávnená pripočítať si povinná osoba, ktorá
+- a) súbor informácií s vysokou hodnotou okrem informácie, ktorú má k dispozícii
 
-- a) vytvára príjmy, ktorými pokrýva podstatnú časť nákladov súvisiacich s výkonom svojich verejných úloh,
+  - 1. povinná osoba podľa § 21b ods. 5, ak v zmysle vykonávacieho právne záväzného aktu Európskej komisie ustanovujúceho zoznam konkrétnych súborov údajov s vysokou hodnotou predstavuje informáciu, ktorej bezplatné sprístupnenie môže viesť k narušeniu hospodárskej súťaže na trhu,
 
-- b) je múzeom, galériou, knižnicou, akademickou knižnicou alebo archívom.
+  - 2. múzeum, galéria, knižnica, akademická knižnica a archív,
 
-(4) Príplatok podľa odseku 3 povinná osoba použije najmä na skvalitňovanie prístupu žiadateľov k informáciám, predovšetkým na vytvorenie alebo inováciu osobitných technických prepojení alebo pripojení alebo na konverziu informácií do elektronickej podoby, ak spôsob financovania povinnej osoby umožňuje nakladať s týmto príplatkom.
+- b) výskumné údaje.
 
-(5) Povinná osoba zverejňuje výšku úhrady podľa odseku 2 a výšku príplatku podľa odseku 3 na svojom webovom sídle, ak ho má zriadené, inak ju zverejňuje podľa § 6 ods. 2.
+(3) Ustanovenie odseku 1 sa nepoužije, ak odsek 2 neustanovuje inak a ak informáciu sprístupňuje
 
-(6) Ak o to žiadateľ požiada, povinná osoba mu písomne oznámi skutočnosti, ktoré boli podkladom na výpočet výšky úhrady podľa odseku 2.
+- a) povinná osoba podľa § 21b ods. 3, ktorá vytvára príjmy, ktorými pokrýva podstatnú časť nákladov súvisiacich s výkonom svojich verejných úloh,
 
-(7) Povinná osoba môže od zaplatenia úhrady podľa odseku 2 alebo príplatku podľa odseku 3 upustiť; musí však postupovať rovnako pri všetkých žiadostiach rovnakého druhu.
+- b) múzeum, galéria, knižnica, akademická knižnica a archív,
+
+- c) povinná osoba podľa § 21b ods. 5.
+
+(4) Povinné osoby podľa odseku 3 písm. a) a c) vypočítavajú celkovú sumu úhrady v súlade s objektívnymi, transparentnými a overiteľnými kritériami, pričom celková úhrada za sprístupnenie informácií za príslušné účtovné obdobie nesmie presiahnuť náklady spojené so zberom informácie, s uchovávaním informácie, s vyhotovením rozmnoženiny informácie, s poskytovaním a šírením informácie, s anonymizáciou osobných údajov a s opatreniami na ochranu dôverných obchodných informácií; v nákladoch možno zohľadniť aj primeranú návratnosť investícií. Povinné osoby podľa odseku 3 písm. b) môžu okrem nákladov uvedených v prvej vete zohľadniť tiež náklady spojené s vysporiadaním práv duševného vlastníctva. Kritériá podľa prvej vety zverejňuje ministerstvo investícií na svojom webovom sídle.
+
+(5) Ministerstvo investícií zverejňuje na portáli podľa § 21d ods. 3 zoznam povinných osôb podľa odseku 3 písm. a). Na účely vytvorenia zoznamu podľa prvej vety poskytnú tieto povinné osoby ministerstvu investícií potrebnú súčinnosť.
+
+(6) Povinné osoby zverejňujú výšku úhrady a skutočnosti, ktoré boli podkladom na výpočet úhrady, podľa odseku 1 druhej vety na svojom webovom sídle, ak ho majú zriadené, inak podľa § 6 ods. 2.
+
+(7) Ak o to žiadateľ požiada, povinná osoba mu písomne oznámi skutočnosti, ktoré boli podkladom na výpočet výšky úhrady.

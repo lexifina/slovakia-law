@@ -13,3 +13,9 @@
 (4) Ak sa uplatní postup podľa odseku 3 písm. a), lehota na vybavenie žiadosti začína plynúť odo dňa podania oznámenia žiadateľa o splnení požiadaviek prístupu takto určených podmienok opakovaného použitia informácií.
 
 (5) Ak žiadateľ prestal spĺňať podmienky opakovaného použitia informácií, povinná osoba na základe rozhodnutia zruší opakované použitie informácií.
+
+(6) Ustanovenia odsekov 1 až 5 sa nevzťahujú na
+
+- a) povinnú osobu podľa § 21b ods. 5,
+
+- b) vzdelávaciu inštitúciu, osobu vykonávajúcu výskum a vývoj a osobu financujúcu výskum a vývoj, ak ide o sprístupnenie výskumných údajov.
