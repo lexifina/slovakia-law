@@ -1260,6 +1260,134 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
 - 132. Nadpis nad § 87 sa vypúšťa.
 
+- 133. § 87 vrátane nadpisu znie:
+
+- „§ 87
+
+- Registrácia tradičného rastlinného veterinárneho lieku
+
+- (1)
+
+- Rastlinný veterinárny liek je veterinárny liek obsahujúci výlučne ako aktívne zložky jednu alebo viac rastlinných látok (§ 64 ods. 2) alebo jeden alebo viac rastlinných prípravkov (§ 64 ods. 3), alebo jednu alebo viac rastlinných látok v kombinácii s jedným alebo s viacerými rastlinnými prípravkami.
+
+- (2)
+
+- Tradičný rastlinný veterinárny liek je rastlinný veterinárny liek, ktorý
+
+- a)
+
+- je určený na perorálne podanie alebo na inhaláciu,
+
+- b)
+
+- je určený na podávanie len podľa špecifikovaného obsahu a dávkovania,
+
+- c)
+
+- je podávaný len v sile<sup>61h</sup>) a dávkovaní, ktoré zodpovedajú zvykovému použitiu,
+
+- d)
+
+- sa môže používať bez dohľadu veterinárneho lekára a jeho použitie zodpovedá výhradne zvykovému použitiu rastlinných liekov vo veterinárnej medicíne,
+
+- e)
+
+- nie je za špecifikovaných podmienok používania škodlivý; údaje o jeho farmakologických účinkoch a o jeho účinnosti sú hodnoverne potvrdené jeho dlhodobým používaním a skúsenosťami a
+
+- f)
+
+- obsahuje vitamíny alebo minerálne látky, ak sa preukáže, že ich používanie na určené indikácie je bezpečné, za predpokladu, že účinok vitamínov alebo minerálnych látok je vedľajší pri porovnaní s účinkom rastlinných aktívnych zložiek.
+
+- (3)
+
+- Žiadosť o registráciu tradičného rastlinného veterinárneho lieku musí obsahovať
+
+- a)
+
+- údaje podľa osobitného predpisu<sup>61g</sup>) s výnimkou technickej dokumentácie podľa požiadaviek ustanovených v osobitnom predpise,
+
+- b)
+
+- dokumentáciu potrebnú na preukázanie kvality, bezpečnosti a účinnosti veterinárneho lieku, ktorá obsahuje
+
+- 1.
+
+- výsledky farmaceutického skúšania,
+
+- 2.
+
+- návrh súhrnu charakteristických vlastností rastlinného veterinárneho lieku v štátnom jazyku bez klinických informácií podľa osobitného predpisu,<sup>61i</sup>)
+
+- 3.
+
+- bibliografický prehľad údajov o bezpečnosti tradičného rastlinného veterinárneho lieku alebo rastlinného veterinárneho produktu a jeho účinkoch,
+
+- 4.
+
+- doklady o registrácii tradičného rastlinného veterinárneho lieku v iných štátoch, ak je v nich registrovaný, a zoznam štátov, v ktorých je tento liek registrovaný alebo má povolenie na uvedenie na trh v Európskej únii alebo v tretích štátoch a podrobnosti o zamietnutí, pozastavení alebo zrušení registrácie alebo povolenia v členských štátoch alebo v tretích štátoch a dôvody týchto rozhodnutí.
+
+- 5.
+
+- dôkaz publikovaný vo vedeckých prácach o tom, že tradičný rastlinný veterinárny liek alebo rastlinný veterinárny produkt sa používal na liečenie vo veterinárnej medicíne najmenej 30 rokov, z toho najmenej 15 rokov v členských štátoch.
+
+- (4)
+
+- Rovnocenný rastlinný veterinárny produkt je rastlinný produkt, ktorý má rovnaké aktívne zložky, bez ohľadu na použité pomocné látky, má rovnaký alebo podobný požadovaný účinok, rovnaký obsah aktívnych zložiek, rovnaké dávkovanie a rovnakú cestu podania ako tradičný rastlinný veterinárny liek, ktorý je predmetom žiadosti.
+
+- (5)
+
+- Požiadavka týkajúca sa dôkazu o liečebnom používaní v priebehu 30 rokov uvedená v odseku 3 písm. b) piatom bode sa považuje za splnenú aj vtedy, ak rastlinný produkt nebol uvedený na trh na základe povolenia; táto požiadavka je splnená aj vtedy, ak sa počas tohto obdobia zmenšil počet alebo obsah aktívnych zložiek v tradičnom rastlinnom veterinárnom lieku.
+
+- (6)
+
+- Pri rozhodovaní o žiadosti o registráciu tradičného rastlinného veterinárneho lieku sa postupuje primerane podľa § 91 až 95.
+
+- (7)
+
+- Ústav kontroly veterinárnych liečiv zamietne žiadosť o registráciu tradičného rastlinného veterinárneho lieku, ak
+
+- a)
+
+- žiadosť neobsahuje náležitosti podľa odseku 3,
+
+- b)
+
+- rastlinný liek nemá deklarované kvalitatívne a kvantitatívne látkové zloženie,
+
+- c)
+
+- indikácie nie sú v súlade s odsekom 2,
+
+- d)
+
+- rastlinný veterinárny liek by mohol byť za určených podmienok používania škodlivý pre zdravie zvierat,
+
+- e)
+
+- údaje o tradičnom používaní sú nedostatočné, najmä ak farmakologické účinky a účinnosť rastlinného lieku nie sú hodnoverne preukázané jeho dlhodobým používaním a skúsenosťami s používaním alebo
+
+- f)
+
+- predložené výsledky farmaceutického skúšania nepreukázali, že aktívne zložky a pomocné látky obsiahnuté v rastlinnom lieku a lieková forma spĺňajú požiadavky na kvalitu.
+
+- (8)
+
+- Označenie vonkajšieho obalu tradičného rastlinného veterinárneho lieku musí okrem údajov podľa osobitného predpisu<sup>61j</sup>) obsahovať aj označenie „TRADIČNÝ RASTLINNÝ VETERINÁRNY LIEK“.
+
+- (9)
+
+- Ak tradičný rastlinný veterinárny liek už nie je v súlade s dokladmi uvedenými v odseku 3, je držiteľ rozhodnutia o registrácii veterinárneho lieku povinný v lehote 180 dní odo dňa, keď prestal spĺňať podmienky na registráciu, požiadať o zmenu podmienok registrácie veterinárneho lieku<sup>61k</sup>) (ďalej len „zmena registrácie veterinárneho lieku“). Ak držiteľ rozhodnutia o registrácii veterinárneho lieku nesplní povinnosť podľa prvej vety, registrácia tradičného veterinárneho lieku zanikne prvým dňom mesiaca nasledujúceho po mesiaci, v ktorom uplynula lehota stanovená na podanie žiadosti o zmenu registrácie veterinárneho lieku.“.
+
+  - Poznámky pod čiarou k odkazom 61h až 61k znejú:
+
+  - „<sup>61h</sup>) Čl. 4 ods. 22 nariadenia (EÚ) 2019/6.
+
+  - <sup>61i</sup>) Čl. 35 ods. 1 písm. c) nariadenia (EÚ) 2019/6.
+
+  - <sup>61j</sup>) Čl. 11 nariadenia (EÚ) 2019/6.
+
+  - <sup>61k</sup>) Čl. 4 ods. 39 nariadenia (EÚ) 2019/6.“.
+
 - 134. § 88 vrátane nadpisu znie:
 
 - „§ 88
@@ -4462,6 +4590,6 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
 - 271. Za prílohu č. 2 sa vkladajú prílohy č. 3 a 4, ktoré znejú:
 
-- „[Príloha č. 3 a č. 4 k zákonu č. 362/2011 Z. z.](assets/09a67217bc388a24075027d7cb3a8deda2540d6f16cf261448604e3def43074f.pdf)“.
+- „[Príloha č. 3 a č. 4 k zákonu č. 362/2011 Z. z.](assets/875e553727bc469089a12f098cffc539bc9a0d5ef6eb157efe1d923e930805f2.pdf)“.
 
 - 272. Slová „etická komisia“ vo všetkých tvaroch sa v celom texte zákona okrem § 1 ods. 1 písm. c), § 29a ods. 2 a 11, § 29h ods. 3 a 6, § 111 ods. 2, § 111h ods. 2, § 111j a § 111k, § 142a, § 142b nadpisu paragrafu, odseku 1 písm. a), h) až j), písm. q), odseku 2 písm. a), h) až j), písm. q), odseku 3, odseku 5 úvodnej vety, odseku 5 písm. e), odseku 6, 7, § 142c ods. 1 až 6 a odsekov 10 a 11 a § 143u nahrádzajú slovami „etická komisia pre klinické skúšanie“ v príslušnom tvare.
