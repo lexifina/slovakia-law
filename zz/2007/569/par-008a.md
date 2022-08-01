@@ -38,4 +38,4 @@
 
 (13) Ak zahraničný poskytovateľ pri skúške odbornej spôsobilosti nevyhovie, ministerstvo jeho žiadosť o geologické oprávnenie zamietne.
 
-(14) Zahraničný poskytovateľ môže na území Slovenskej republiky dočasne a príležitostne vykonávať geologické práce bez geologického oprávnenia, ak spĺňa podmienky na vykonávanie geologických prác podľa práva iného členského štátu Európskej únie, v ktorom je usadený,<sup>12a</sup>) alebo podľa práva štátu, ktorý je zmluvnou stranou Dohody o Európskom hospodárskom priestore. Na dočasné a príležitostné vykonávanie geologických prác sa vzťahuje § 9 odsek 12.
+(14) Zahraničný poskytovateľ môže na území Slovenskej republiky dočasne a príležitostne vykonávať geologické práce bez geologického oprávnenia, ak spĺňa podmienky na vykonávanie geologických prác podľa práva iného členského štátu Európskej únie, v ktorom je usadený,<sup>12a</sup>) alebo podľa práva štátu, ktorý je zmluvnou stranou Dohody o Európskom hospodárskom priestore. Na dočasné a príležitostné vykonávanie geologických prác sa vzťahuje § 9 odsek 15.

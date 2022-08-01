@@ -10,7 +10,7 @@
 
 - c) geologické práce, na ktoré bola priznaná odborná spôsobilosť,
 
-- d) dátum poslednej skúšky,
+- d) dátum poslednej skúšky a dátum posledného preškolenia,
 
 - e) evidenciu pečiatky so štátnym znakom.
 
@@ -18,8 +18,8 @@
 
 (4) Ministerstvo vyčiarkne odborne spôsobilú osobu z registra odborne spôsobilých osôb, ak
 
-- a) jej odňalo preukaz o odbornej spôsobilosti podľa § 40 ods. 1,
+- a) jej odňalo preukaz o odbornej spôsobilosti podľa § 40 ods. 1 alebo podľa § 9 ods. 11,
 
-- b) táto osoba nepožiada o overenie odbornej spôsobilosti podľa § 9 ods. 3,
+- b) odborne spôsobilá osoba zomrela alebo bola vyhlásená za mŕtvu.
 
-- c) odborne spôsobilá osoba zomrela alebo bola vyhlásená za mŕtvu.
+(5) Ministerstvo zverejňuje na svojom webovom sídle údaje podľa odseku 2.
