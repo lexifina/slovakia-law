@@ -416,6 +416,8 @@ Zákon č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektor
 
 - 49. V § 19 ods. 3 sa na konci pripája táto veta: „Ak sa po uzavretí zmluvy, koncesnej zmluvy alebo rámcovej dohody stala konečným užívateľom výhod dodávateľa, jeho subdodávateľa alebo jeho subdodávateľa podľa osobitného predpisu<sup>33</sup>) osoba podľa § 11 ods. 1 písm. c), verejný obstarávateľ a obstarávateľ môžu po uplynutí 30 dní odo dňa, keď táto skutočnosť nastala, ak táto skutočnosť stále trvá, odstúpiť od zmluvy, koncesnej zmluvy alebo rámcovej dohody.“.
 
+- 50. V § 20 ods. 1 sa na konci pripája táto veta: „Verejný obstarávateľ a obstarávateľ môžu na elektronickú komunikáciu použiť výlučne elektronický prostriedok zapísaný v zozname elektronických prostriedkov podľa § 158a.“.
+
 - 51. V § 20 ods. 2 až 6 sa slová „informačný systém“ vo všetkých tvaroch nahrádzajú slovami „elektronický prostriedok“ v príslušnom tvare.
 
 - 52. V § 20 ods. 2 sa slová „bez využitia elektronického trhoviska“ nahrádzajú slovami „postupom podľa § 112 až 116“.
