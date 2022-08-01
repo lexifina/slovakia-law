@@ -10,9 +10,7 @@
 
 - 6) § 3 písm. p) zákona č. 308/2000 Z. z. v znení zákona č. 498/2009 Z. z.
 
-- 7) § 41 zákona č. 220/2007 Z. z.
-
-- 8) § 3 písm. k) zákona č. 308/2000 Z. z. v znení zákona č. 498/2009 Z. z.
+- 7) § 26 zákona č. 264/2022 Z. z. o mediálnych službách a o zmene a doplnení niektorých zákonov (zákon o mediálnych službách).
 
 - 9) Napríklad § 4 písm. c) zákona Národnej rady Slovenskej republiky č. 149/1995 Z. z. o posunkovej reči nepočujúcich osôb, § 18 ods. 2 a 3 zákona č. 308/2000 Z. z. v znení zákona č. 220/2007 Z. z.
 
@@ -24,7 +22,11 @@
 
 - 13) Zákon č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon) v znení neskorších predpisov.
 
+- 13a) § 81 zákona č. 264/2022 Z. z.
+
 - 14) § 32 až 39a zákona č. 308/2000 Z. z. v znení neskorších predpisov.
+
+- 14a) § 69 zákona č. 185/2015 Z. z. Autorský zákon v znení zákona č. 71/2022 Z. z.
 
 - 15) § 673 až 681 Obchodného zákonníka.
 
@@ -82,7 +84,7 @@
 
 - 38) § 134 a 135 Zákonníka práce.
 
-- 39) § 10 zákona č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení zákona č. 490/2008 Z. z.
+- 39) § 59a zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriadku Národnej rady Slovenskej republiky v znení zákona č. 264/2022 Z. z.
 
 - 40) § 52 zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriadku Národnej rady Slovenskej republiky v znení zákona č. 86/2000 Z. z.
 
