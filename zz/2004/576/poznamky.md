@@ -12,6 +12,10 @@
 
 - 2ba) § 2 ods. 6 zákona č. 579/2004 Z. z. v znení zákona č. 139/2019 Z. z.
 
+- 2bb) Zákon č. 219/2014 Z. z. o sociálnej práci a o podmienkach na výkon niektorých odborných činností v oblasti sociálnych vecí a rodiny a o zmene a doplnení niektorých zákonov v znení neskorších prepisov.
+
+- 2bc) § 7 a 9 zákona č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností.
+
 - 2c) § 11 zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 3) § 3 ods. 1 až 4 zákona č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti.
@@ -32,6 +36,10 @@
 
 - 4ac) § 6b zákona č. 578/2004 Z. z. v znení zákona č. 257/2017 Z. z.
 
+- 4ad) Zákon č. 219/2014 Z. z. v znení neskorších prepisov.
+
+- § 7 a 9 zákona č. 308/1991 Zb.
+
 - 5) § 365 a 367 Civilného mimosporového poriadku.
 
 - § 37 ods. 3 a § 54 zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení zákona č. 175/2015 Z. z.
@@ -39,6 +47,8 @@
 - Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 5a) § 3 a 4 zákona č. 317/2016 Z. z. o požiadavkách a postupoch pri odbere a transplantácii ľudského orgánu, ľudského tkaniva a ľudských buniek a o zmene a doplnení niektorých zákonov (transplantačný zákon).
+
+- 5aa) § 5 ods. 3 zákona č. 184/1999 Z. z. o používaní jazykov národnostných menšín v znení zákona č. 204/2011 Z. z.
 
 - 6) § 72 Trestného zákona.
 

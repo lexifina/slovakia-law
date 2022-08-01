@@ -1,6 +1,6 @@
 # § 10a Ošetrovateľská starostlivosť v zariadení sociálnej pomoci
 
-(1) Zariadenie sociálnej pomoci môže poskytovať ošetrovateľskú starostlivosť, ak ju poskytujú zamestnanci, ktorí spĺňajú podmienky na výkon zdravotníckeho povolania podľa osobitného predpisu.<sup>9aa</sup>)
+(1) Zariadenie sociálnej pomoci môže poskytovať ošetrovateľskú starostlivosť, ak ju poskytujú zamestnanci, ktorí spĺňajú podmienky na výkon zdravotníckeho povolania podľa osobitného predpisu.<sup>9aa</sup>) Zariadenie sociálnej pomoci môže poskytovať ošetrovateľskú starostlivosť podľa prvej vety vrátane ošetrovateľskej starostlivosti poskytovanej v rámci následnej zdravotnej starostlivosti (ďalej len „následná ošetrovateľská starostlivosť“) alebo ošetrovateľskej starostlivosti poskytovanej v rámci dlhodobej zdravotnej starostlivosti, ktorá nie je následnou zdravotnou starostlivosťou (ďalej len „dlhodobá ošetrovateľská starostlivosť“).
 
 (2) Zariadenie sociálnej pomoci, ktoré poskytuje ošetrovateľskú starostlivosť, je povinné
 
@@ -31,3 +31,5 @@
 (6) Zariadenie sociálnej pomoci podľa odseku 3 poskytuje ošetrovateľskú starostlivosť osobe umiestnenej v zariadení sociálnej pomoci, ktorá spĺňa indikačné kritériá na poskytovanie ošetrovateľskej starostlivosti (ďalej len „indikačné kritériá“). Splnenie indikačných kritérií v súlade so štandardnými diagnostickými postupmi a štandardnými terapeutickými postupmi posudzuje zodpovedná osoba a indikuje všeobecný lekár na základe návrhu zodpovednej osoby o potrebe poskytovania ošetrovateľskej starostlivosti.
 
 (7) Indikačné kritériá na poskytovanie ošetrovateľskej starostlivosti v zariadení sociálnej pomoci podľa odseku 3 a vzor návrhu zodpovednej osoby na indikáciu poskytovania ošetrovateľskej starostlivosti osobe umiestnenej v zariadení sociálnej pomoci ustanoví ministerstvo zdravotníctva všeobecne záväzným právnym predpisom.
+
+(8) Odseky 3 až 5 sa vzťahujú aj na zariadenie sociálnoprávnej ochrany detí a sociálnej kurately, ktoré nemá uzatvorenú zmluvu so zdravotnou poisťovňou.
