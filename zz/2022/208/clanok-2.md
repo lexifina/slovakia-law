@@ -9,3 +9,11 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 - „(4)
 
 - Obchodník s cennými papiermi je povinný predložiť Národnej banke Slovenska každoročne do 31. marca zoznam svojich akcionárov. Na vyžiadanie ministerstva a v ním určenej lehote je obchodník s cennými papiermi povinný predložiť ministerstvu zoznam podľa prvej vety.“.
+
+- 22. Za § 174d sa vkladá § 174e, ktorý vrátane nadpisu znie:
+
+- „§ 174e
+
+- Zrušovacie ustanovenie účinné od 1. augusta 2022
+
+- Zrušuje sa opatrenie Národnej banky Slovenska zo 7. októbra 2014 č. 20/2014 o uverejňovaní informácií obchodníkmi s cennými papiermi a pobočkami zahraničných obchodníkov s cennými papiermi (oznámenie č. 289/2014 Z. z.).“.
