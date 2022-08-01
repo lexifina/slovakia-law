@@ -1,3 +1,0 @@
-# § 76dn Prechodné ustanovenie účinné dňom vyhlásenia
-
-Konania o udelenie alebo zmenu licencie na rozhlasové terestriálne vysielanie podľa ustanovenia § 48, ktoré sa začali podľa doterajších právnych predpisov a ktoré sa ku dňu nadobudnutia účinnosti tohto zákona neskončili, sa týmto dňom prerušujú do ukončenia núdzového stavu vyhláseného v súvislosti s ochorením COVID-19 (ďalej len „núdzový stav“). Lehoty podľa tohto zákona v čase prerušenia konania neplynú; lehoty určené radou podľa § 48 sa predlžujú o čas trvania núdzového stavu, lehota na predkladanie žiadostí však neuplynie skôr než na 45. deň odo dňa skončenia núdzového stavu.
