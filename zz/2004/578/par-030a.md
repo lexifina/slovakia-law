@@ -10,7 +10,7 @@
 
 - a) kópiu dokladu totožnosti,
 
-- b) kópiu rozhodnutia o uznaní dokladu o vzdelaní podľa osobitného predpisu<sup>24d</sup>) na účely výkonu zdravotníckeho povolania lekár, sestra alebo pôrodná asistentka,
+- b) kópiu rozhodnutia o uznaní dokladu o vzdelaní podľa osobitného predpisu<sup>24d</sup>) na účely výkonu zdravotníckeho povolania podľa § 27,
 
 - c) doklad, ktorým sa preukazuje zdravotná spôsobilosť podľa § 32 ods. 1 a 7,
 
@@ -28,7 +28,7 @@
 
 - d) evidenčné číslo rozhodnutia o uznaní dokladu o vzdelaní podľa osobitného predpisu,<sup>24da</sup>)
 
-- e) meno a priezvisko dohliadajúceho zdravotníckeho pracovníka,
+- e) meno, priezvisko a zdravotnícke povolanie dohliadajúceho zdravotníckeho pracovníka,
 
 - f) informáciu, že stážista predložil všetky dokumenty podľa odseku 2.
 

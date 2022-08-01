@@ -30,7 +30,7 @@
 
 - f) označenie špecializačného študijného programu alebo certifikačného študijného programu,
 
-- g) dátum zaradenia do špecializačného štúdia, certifikačnej prípravy alebo prípravy na výkon práce v zdravotníctve,
+- g) dátum zaradenia do špecializačného štúdia alebo certifikačnej prípravy,
 
 - h) údaje o žiadateľovi o zaradenie zdravotníckeho pracovníka do ďalšieho vzdelávania v rozsahu názov a identifikačné číslo, ak je žiadateľom organizácia, vrátane údajov zamestnávateľa v prípade jeho zmeny počas ďalšieho vzdelávania, ak bol žiadateľom zamestnávateľ, alebo meno a priezvisko, ak je žiadateľom zdravotnícky pracovník,
 

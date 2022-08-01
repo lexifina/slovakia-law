@@ -390,6 +390,8 @@
 
 - 55jawh) § 7 ods. 1 písm. a) bod 1.2. zákona č. 576/2004 Z. z. v znení zákona č. 662/2007 Z. z.
 
+- 55jawi) § 7a, § 29a, § 57a zákona č. 363/2011 Z. z. v znení zákona č. 266/2022 Z. z.
+
 - 55jb) § 73 ods. 2 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 55jc) § 201, 201a, 201b a 202 Trestného zákona.
