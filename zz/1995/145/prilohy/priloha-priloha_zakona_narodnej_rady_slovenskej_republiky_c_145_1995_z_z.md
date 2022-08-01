@@ -312,69 +312,51 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Ak sú predmetom návrhu na vklad do katastra nehnuteľností právne vzťahy z viacerých druhov právnych úkonov, poplatok sa vyberie za každý právny úkon osobitne podľa tejto položky. |
 
-    - Položka 13
+    - Položka 12
 
-  - a) Udelenie licencie na vysielanie<sup>14</sup>) |
+      - Žiadosť o
 
-  - 1. celoplošné alebo multiregionálne | 265,50 eura
+        - a) zápis do zoznamu periodických publikácií<sup>13</sup>) 5 eur
 
-  - 2. do zahraničia | 199 eur
+        - b) zmenu zápisu v zozname periodických publikácií<sup>13</sup>) 5 eur
 
-  - 3. regionálne | 132,50 eura
+  - Položka 13
 
-  - 4. lokálne | 66 eur
+    - a) Autorizácia vysielania<sup>14</sup>)
 
-  - b) Udelenie krátkodobej licencie na vysielanie | 33 eur
+      - 1. žiadosť o autorizáciu vysielania 150 až 660 eur
 
-  - c) Vydanie rozhodnutia o predĺžení platnosti licencie na vysielanie - správny orgán vyberie poplatok vo výške poplatku za udelenie licencie podľa písmena a) |
+      - 2. žiadosť o zmenu autorizácie vysielania 30 až 160 eur
 
-  - d) Vydanie rozhodnutia o zmene licencie na vysielanie okrem zmeny podľa písmena c) | 33 eur až 165,50 eura
+    - b) Autorizácia poskytovania<sup>14a</sup>)
 
-  - e) Registrácia retransmisie<sup>14</sup>) | 165,50 eura až 663,50 eura
+      - 1. žiadosť o autorizáciu poskytovania 260 eur
 
-  - f) Vydanie rozhodnutia o zmene registrácie retransmisie | 33 eur až 165,50 eura
+      - 2. žiadosť o zmenu autorizácie poskytovania 30 až 160 eur
 
-  - Oslobodenie Od poplatku podľa písmena d) tejto položky je oslobodené vydanie rozhodnutia o zmene licencie, ktorým sa vykonáva zmena v identifikačných údajoch vysielateľa, v údajoch o osobách, ktoré majú účasť na základnom imaní alebo podiel na hlasovacích právach vysielateľa, alebo v údajoch o štatutárnych orgánoch a kontrolných orgánoch vysielateľa. |
+    - c) Registrácia retransmisie<sup>14b</sup>)
 
-  - Splnomocnenie Poplatok v rámci určeného rozpätia podľa písmen d) až f) tejto položky určí príslušný správny orgán. |
+      - 1. žiadosť o registráciu retransmisie 150 až 660 eur
 
-  - Poznámka Poplatok podľa tejto položky sa vyberie až po vykonaní úkonu; poplatok za udelenie licencie sa vyberie po vydaní rozhodnutia o jej udelení a poplatok za registráciu retransmisie sa vyberie po vydaní rozhodnutia o jej registrácii. |
+      - 2. žiadosť o zmenu registrácie retransmisie 30 až 160 eur
 
-    - Položka 13a
+    - d) Licencia<sup>14c</sup>)
 
-  - a) Udelenie licencie na celoplošné digitálne vysielanie<sup>14a</sup>) |
+      - 1. žiadosť o udelenie alebo rozšírenie licencie 260 eur
 
-  - 1. televíznej programovej služby ..... | 663,50 eura
+      - 2. žiadosť o predĺženie licencie 30 až 160 eur
 
-  - 2. rozhlasovej programovej služby ..... | 331,50 eura
+      - 3. žiadosť o zmenu licencie 30 až 160 eur
 
-  - b) Udelenie licencie na regionálne digitálne vysielanie<sup>14a</sup>) |
+      - 4. žiadosť o krátkodobú licenciu 30 eur
 
-  - 1. televíznej programovej služby ..... | 331,50 eura
+    - Oslobodenie
 
-  - 2. rozhlasovej programovej služby ..... | 165,50 eura
+    - Od poplatku podľa tejto položky je oslobodená žiadosť o zmenu, ktorou sa vykonáva zmena v identifikačných údajoch žiadateľa, v údajoch o osobách, ktoré sú konečnými užívateľmi výhod alebo ktoré majú podiel na základnom imaní alebo podiel na hlasovacích právach žiadateľa, alebo v údajoch o štatutárnych orgánoch alebo členoch štatutárnych orgánov alebo kontrolných orgánoch alebo osobách s hlasovacím právom v riadiacom orgáne žiadateľa.
 
-  - c) Udelenie licencie na lokálne digitálne vysielanie<sup>14a</sup>) |
+    - Splnomocnenie
 
-  - 1. televíznej programovej služby ..... | 66 eur
-
-  - 2. rozhlasovej programovej služby ..... | 33 eur
-
-  - d) Doplnenie licencie na digitálne vysielanie o<sup>14b</sup>) |
-
-  - 1. doložku doplnkových obsahových služieb ..... | 165,50 eura
-
-  - 2. zahraničnú doložku ..... | 331,50 eura
-
-  - 3. doložku iného verejného prenosu ..... | 331,50 eura
-
-  - e) Vydanie rozhodnutia o zmene licencie na digitálne vysielanie okrem zmeny podľa písmena d) ..... | 33 eur až 165,50 eura
-
-  - Oslobodenie Od poplatku podľa písmena e) tejto položky je oslobodené vydanie rozhodnutia o zmene licencie, ktorým sa vykonáva zmena v osobe vysielateľa alebo v identifikačných údajoch vysielateľa, v údajoch o osobách, ktoré majú podiel na základnom imaní alebo podiel na hlasovacích právach vysielateľa, alebo v údajoch o štatutárnych orgánoch a kontrolných orgánoch vysielateľa. |
-
-  - Splnomocnenie Poplatok v rámci určeného rozpätia podľa písmena e) tejto položky určí príslušný správny orgán. |
-
-  - Poznámka Poplatok podľa tejto položky sa vyberie až po vykonaní úkonu; poplatok za udelenie licencie sa vyberie po vydaní rozhodnutia o jej udelení a poplatok za udelenie doložky k licencii sa vyberie po vydaní rozhodnutia, ktorým sa licencia dopĺňa. |
+    - Poplatok v rámci určeného rozpätia podľa tejto položky určí príslušný správny orgán.
 
     - Položka 15
 
@@ -1506,7 +1488,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
       - Poznámky
 
-        - 1. Poplatok podľa tejto položky sa zníži o 50 %, najviac však o 100 eur, pri zápise držiteľa motorového vozidla, ktorým je držiteľ preukazu fyzickej osoby s ťažkým zdravotným postihnutím alebo preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom alebo ak ide o motorové vozidlo upravené na vedenie fyzickou osobou s ťažkým zdravotným postihnutím a nebol na kúpu motorového vozidla kategórie M1 a N1 poskytnutý príspevok podľa zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+        - 1. Poplatok podľa tejto položky sa zníži o 50 % pri zápise držiteľa motorového vozidla, ktorým je držiteľ preukazu fyzickej osoby s ťažkým zdravotným postihnutím alebo preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom alebo ak ide o motorové vozidlo upravené na vedenie fyzickou osobou s ťažkým zdravotným postihnutím a nebol na kúpu motorového vozidla kategórie M1 a N1 poskytnutý príspevok podľa zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
         - 2. Poplatníkom je nový držiteľ motorového vozidla alebo prípojného vozidla.
 
@@ -1688,7 +1670,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
         - 3. inou prestavbou ako v prvom a druhom bode .................................... 50 eur
 
-      - y) povolenie skúšobnej prevádzky vozidla ................................................. 100 eur
+      - y) povolenie skúšobnej prevádzky vozidla inej ako v písmene z) .............. 100 eur
+
+      - z) povolenie skúšobnej prevádzky vozidla, ak sa skúšobná prevádzka vozidla vykonáva v rámci výskumu na zvýšenie bezpečnosti cestnej premávky a typový schvaľovací orgán má záujem o výsledky tohto výskumu z dôvodu zmeny technických požiadaviek ...................... 10 eur.
 
     - Splnomocnenie
 
@@ -1824,7 +1808,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
       - 2. Za podanie návrhu o dodatočné vydanie povolenia podľa písmena k) tejto položky správny orgán vyberie poplatok vo výške päťnásobku určenej sadzby.
 
-      - 3. Správny orgán vyberie trojnásobok poplatku podľa písmen f) až h), ak poplatník (účastník konania) pri doručení návrhu žiada rozhodnúť urýchlene do piatich pracovných dní. Ak sa konanie prerušilo, lehota prestáva plynúť dňom vydania rozhodnutia o prerušení konania. Trojnásobok poplatku podľa písmen f) až h) za urýchlené rozhodnutie je splatný v deň podania návrhu. Ak sa konanie zastavilo alebo návrh bol zamietnutý, poplatok sa nevracia. Ak správny orgán v skrátenom termíne o návrhu nerozhodne, vráti rozdiel medzi poplatkom zaplateným podľa splnomocnenia za urýchlené rozhodnutie a poplatkom určeným podľa príslušného písmena tejto položky.
+      - 3. Správny orgán vyberie trojnásobok poplatku podľa písmen d), f) až h), ak poplatník (účastník konania) pri doručení návrhu žiada rozhodnúť urýchlene do piatich pracovných dní. Ak sa konanie prerušilo, lehota prestáva plynúť dňom vydania rozhodnutia o prerušení konania. Trojnásobok poplatku podľa písmen d), f) až h) za urýchlené rozhodnutie je splatný v deň podania návrhu. Ak sa konanie zastavilo alebo návrh bol zamietnutý, poplatok sa nevracia. Ak správny orgán v skrátenom termíne o návrhu nerozhodne, vráti rozdiel medzi poplatkom zaplateným podľa splnomocnenia za urýchlené rozhodnutie a poplatkom určeným podľa príslušného písmena tejto položky.
 
     - Poznámky
 
@@ -2157,6 +2141,8 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - g) vydanie tabuľky s evidenčným číslom vyrobenej zo zliatin ľahkých kovov určenej na nosič bicykla | 16,50 eura
 
   - h) vydanie tabuľky s evidenčným číslom zo skladových zásob orgánu Policajného zboru, o ktorej zloženie číslic požiadal vlastník vozidla alebo držiteľ vozidla, a to za každú tabuľku ......... | 165,50 eura
+
+  - Splnomocnenie Ak sa vydáva nová tabuľka s evidenčným číslom za tabuľku s evidenčným číslom, ktorá nebola vydaná podľa požiadavky držiteľa vozidla, správny poplatok podľa tejto položky sa znižuje o uhradenú sumu za už vydanú tabuľku s evidenčným číslom. |
 
   - Poznámky 1. Za neupotrebiteľnú tabuľku s evidenčným číslom (štátnou poznávacou značkou) sa považuje tabuľka vydaná podľa právnej úpravy platnej do 31. marca 1997, ktorú je držiteľ vozidla povinný podľa § 129 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách vymeniť. 2. Poplatky podľa tejto položky zahŕňajú aj vydanie príslušných dokladov. |
 
@@ -4410,7 +4396,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - j)
 
-  - Rozhodovanie o žiadosti o podmienené zaradenie lieku do zoznamu kategorizovaných liekov a úradné určenie ceny lieku .....6 100 eur
+  - Rozhodovanie o žiadosti o určenie alebo zrušenie určenia, že liek podlieha osobitnej cenovej regulácii ...................................... 600 eur
 
   - k)
 
@@ -4681,12 +4667,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
         - a) 40 %, ak je navrhovaná celková suma úhrad za liek alebo za spoločne posudzované lieky do 400 000 eur za 24 po sebe nasledujúcich mesiacov od nadobudnutia vykonateľnosti rozhodnutia o zaradení lieku do zoznamu kategorizovaných liekov,
 
         - b) 25 %, ak je navrhovaná celková suma úhrad za liek alebo za spoločne posudzované lieky viac ako 400 000 eur, ale menej ako 1 000 000 eur za 24 po sebe nasledujúcich mesiacov od nadobudnutia vykonateľnosti rozhodnutia o zaradení lieku do zoznamu kategorizovaných liekov.
-
-      - 5. Poplatok podľa písmena k) sa zníži o
-
-        - a) 40 %, ak je navrhovaná celková suma úhrad za liek alebo za spoločne posudzované lieky najviac 400 000 eur za 24 po sebe nasledujúcich mesiacov od nadobudnutia vykonateľnosti rozhodnutia o podmieneného zaradenia lieku do zoznamu kategorizovaných liekov,
-
-        - b) 25 %, ak je navrhovaná celková suma úhrad za liek alebo za spoločne posudzované lieky viac ako 400 000 eur, ale menej ako 1 000 000 eur za 24 po sebe nasledujúcich mesiacov od nadobudnutia vykonateľnosti rozhodnutia o podmienenom zaradení lieku do zoznamu kategorizovaných liekov.
 
       - 6. Poplatok podľa písmen l) až n) sa zníži o
 
@@ -5274,7 +5254,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - a) Podanie prihlášky na skúšku odbornej spôsobilosti na projektovanie, vykonávanie a vyhodnocovanie geologických prác ........................................................................................ | 33 eur
 
-  - c) Vydanie duplikátu preukazu odbornej spôsobilosti na projektovanie, vykonávanie a vyhodnocovanie geologických prác ........................................................................................ | 10 eur
+  - c) Vydanie nového preukazu o odbornej spôsobilosti na dobu neurčitú ................................... | 10 eur
+
+  - d) Zmena údajov v preukaze o odbornej spôsobilosti ............................................................... | 10 eur
 
   - Poznámka Poplatok podľa písmena a) zahŕňa aj vydanie preukazu na projektovanie, vykonávanie a vyhodnocovanie geologických prác. |
 
@@ -5316,7 +5298,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Splnomocnenie Správny orgán môže znížiť poplatok podľa písmena a) tejto položky až o 50 % príslušnej sadzby, ak ide o jednoduché výpočty zásob výhradných ložísk. |
 
-  - Oslobodenie Od poplatku podľa písmena a) je oslobodené vydanie rozhodnutia o schválení výpočtu zásob výhradného ložiska, ak bola geologická úloha financovaná zo štátneho rozpočtu. |
+  - Oslobodenie Od poplatku podľa písmen a) až f) je oslobodené vydanie rozhodnutia, ak bola geologická úloha financovaná zo štátneho rozpočtu alebo z fondov Európskej únie.<sup>39baa</sup>) |
 
     - Položka 169
 

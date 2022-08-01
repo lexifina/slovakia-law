@@ -134,11 +134,15 @@
 
 - 12b) § 3 zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
-- 14) Napríklad § 45 až 52, § 55 a § 56 až 60 zákona č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách.
+- 13) § 3 zákona č. 265/2022 Z. z. o vydavateľoch publikácií a o registri v oblasti médií a audiovízie a o zmene a doplnení niektorých zákonov (zákon o publikáciách).
 
-- 14a) § 27 zákona č. 220/2007 Z. z. o digitálnom vysielaní programových služieb a poskytovaní iných obsahových služieb prostredníctvom digitálneho prenosu a o zmene a doplnení niektorých zákonov (zákon o digitálnom vysielaní).
+- 14) § 157 zákona č. 264/2022 Z. z. o mediálnych službách a o zmene a doplnení niektorých zákonov (zákon o mediálnych službách).
 
-- 14b) § 34, 36 a 38 zákona č. 220/2007 Z. z.
+- 14a) § 174 zákona č. 264/2022 Z. z.
+
+- 14b) § 179 zákona č. 264/2022 Z. z.
+
+- 14c) § 190 zákona č. 264/2022 Z. z.
 
 - 15) § 4 zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov.
 
@@ -569,6 +573,8 @@
 - 39b) § 26 ods. 5 zákona č. 313/1999 Z. z.
 
 - 39ba) § 4 ods. 2 písm. d) zákona č. 258/2011 Z. z. o trvalom ukladaní oxidu uhličitého do geologického prostredia a o zmene a doplnení niektorých zákonov.
+
+- 39baa) § 2 zákona č. 121/2022 Z. z. o príspevkoch z fondov Európskej únie a o zmene a doplnení niektorých zákonov.
 
 - 39bb) § 20 ods. 3 písm. b) zákona č. 137/2010 Z. z. o ovzduší.
 
