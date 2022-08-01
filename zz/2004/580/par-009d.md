@@ -1,6 +1,6 @@
 # § 9d Preplatenie nákladov cezhraničnej zdravotnej starostlivosti poskytnutej poistencovi v inom členskom štáte Európskej únie
 
-(1) Cezhraničná zdravotná starostlivosť je zdravotná starostlivosť poskytovaná alebo indikovaná poistencovi v inom členskom štáte Európskej únie, ktorú poistenec uhrádza poskytovateľovi zdravotnej starostlivosti iného členského štátu Európskej únie priamo. Ak bola poistencovi poskytnutá cezhraničná zdravotná starostlivosť v inom členskom štáte Európskej únie a existuje potreba poskytnutia následnej zdravotnej starostlivosti v záujme dokončenia liečebného procesu alebo zlepšenia zdravotného stavu, poistenec má právo na poskytnutie následnej zdravotnej starostlivosti v Slovenskej republike. Cezhraničnou zdravotnou starostlivosťou nie je
+(1) Cezhraničná zdravotná starostlivosť je zdravotná starostlivosť poskytovaná alebo indikovaná poistencovi v inom členskom štáte Európskej únie, ktorú poistenec uhrádza poskytovateľovi zdravotnej starostlivosti iného členského štátu Európskej únie priamo. Ak bola poistencovi poskytnutá cezhraničná zdravotná starostlivosť v inom členskom štáte Európskej únie a existuje potreba poskytnutia pokračujúcej zdravotnej starostlivosti v záujme dokončenia liečebného procesu alebo zlepšenia zdravotného stavu, poistenec má právo na poskytnutie pokračujúcej zdravotnej starostlivosti v Slovenskej republike. Cezhraničnou zdravotnou starostlivosťou nie je
 
 - a) sociálna služba,<sup>16f</sup>)
 
