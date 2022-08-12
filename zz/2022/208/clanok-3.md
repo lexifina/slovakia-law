@@ -92,6 +92,30 @@ Zákon č. 429/2002 Z. z. o burze cenných papierov v znení zákona č. 594/200
 
 - 16. V § 38 ods. 3 prvá veta znie: „Burza môže pozastaviť obchodovanie s finančným nástrojom podľa § 12 ods. 3 a tohto paragrafu.“.
 
+- 17. Za § 38a sa vkladá § 38b, ktorý vrátane nadpisu znie:
+
+- „§ 38b
+
+- Pozastavenie obchodovania s finančnými nástrojmi na vyžiadanie
+
+- Rady pre riešenie krízových situácií
+
+- (1)
+
+- Burza je povinná bezodkladne pozastaviť obchodovanie s finančnými nástrojmi v obchodnom systéme burzy na regulovanom trhu, na mnohostrannom obchodnom systéme alebo na organizovanom obchodnom systéme na vyžiadanie Rady pre riešenie krízových situácií (ďalej len „rezolučná rada“) podľa osobitného predpisu.<sup>56b</sup>) Na pozastavenie obchodovania podľa prvej vety sa nevzťahuje povinnosť príslušných orgánov burzy podľa § 10 ods. 1 písm. e) a § 12 ods. 3 rozhodnúť o pozastavení obchodovania s finančnými nástrojmi.
+
+- (2)
+
+- Na pozastavenie obchodovania s finančnými nástrojmi podľa odseku 1 sa nevzťahuje § 65 ods. 1 a 2.
+
+- (3)
+
+- Burza bezodkladne oznámi pozastavenie obchodovania rezolučnej rade a Národnej banke Slovenska a zverejní ho v tlači s celoštátnou pôsobnosťou.“.
+
+  - Poznámka pod čiarou k odkazu 56b znie:
+
+  - „<sup>56b</sup>) Zákon č. 371/2014 Z. z. o riešení krízových situácií na finančnom trhu a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
 - 18. V § 50 sa číslo „49“ nahrádza slovami „38 a 41 až 49“.
 
 - 19. V § 68 ods. 6 sa nad slovom „trhu“ vypúšťa odkaz 56.
