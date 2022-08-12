@@ -178,6 +178,8 @@
 
 - 56a) § 5 ods. 1 písm. d) až j) zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
+- 56b) Zákon č. 371/2014 Z. z. o riešení krízových situácií na finančnom trhu a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 57) § 119 zákona č. 566/2001 Z. z.
 
 - 57a) Delegované nariadenie Komisie (EÚ) 2017/569 z 24. mája 2016, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ, pokiaľ ide o regulačné technické predpisy týkajúce sa pozastavenia obchodovania s finančnými nástrojmi a vylúčenia finančných nástrojov z obchodovania (Ú. v. EÚ L 87, 31. 3. 2017).
