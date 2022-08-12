@@ -34,4 +34,6 @@
 
 - c) vykonáva svoju činnosť prostredníctvom prevádzkarne v Slovenskej republike a nemá sídlo ani ústredie v inom členskom štáte.
 
-(8) Na poradcov pre hlasovanie sa nevzťahujú ustanovenia § 135 až 158.
+(8) Ak sa uplatnia nástroje riešenia krízových situácií, právomoci riešiť krízové situácie a mechanizmy riešenia krízových situácií podľa osobitných predpisov,<sup>42a</sup>) odseky 1 až 7 sa nepoužijú.
+
+(9) Na poradcov pre hlasovanie sa nevzťahujú ustanovenia § 135 až 158.

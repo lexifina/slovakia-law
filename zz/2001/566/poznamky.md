@@ -146,6 +146,10 @@
 
 - 42) § 131 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení zákona č. 280/1999 Z. z.
 
+- 42a) Zákon č. 371/2014 Z. z. o riešení krízových situácií na finančnom trhu a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Nariadenie Európskeho parlamentu a Rady (EÚ) 2021/23 zo 16. decembra 2020 o rámci na ozdravenie a riešenie krízových situácií centrálnych protistrán a o zmene nariadení (EÚ) č. 1095/2010, (EÚ) č. 648/2012, (EÚ) č. 600/2014, (EÚ) č. 806/2014 a (EÚ) 2015/2365 a smerníc 2002/47/ES, 2004/25/ES, 2007/36/ES, 2014/59/EÚ a (EÚ) 2017/1132 (Ú. v. EÚ L 22, 22. 1. 2021).
+
 - 43) § 261 až 408 Obchodného zákonníka.
 
 - 44) Napríklad § 19 zákona č. 191/1950 Zb.
@@ -782,7 +786,7 @@
 
 - 110i) Čl. 15 nariadenia (EÚ) 1093/2010 v platnom znení.
 
-- 110ja) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) č. 596/2014 zo 16. apríla 2014 o zneužívaní trhu (nariadenie o zneužívaní trhu) a o zrušení smernice Európskeho parlamentu a Rady 2003/6/ES a smerníc Komisie 2003/124/ES, 2003/125/ES a 2004/72/ES (Ú. v. EÚ L 173, 12. 6. 2014) v platnom znení, nariadenie (EÚ) 2015/2365, nariadenie (EÚ) 2016/1011, nariadenie Európskeho parlamentu a Rady (EÚ) 2017/2402 z 12. decembra 2017, ktorým sa ustanovuje všeobecný rámec pre sekuritizáciu a vytvára sa osobitný rámec pre jednoduchú, transparentnú a štandardizovanú sekuritizáciu a ktorým sa menia smernice 2009/65/ES, 2009/138/ES a 2011/61/EÚ a nariadenie (ES) č. 1060/2009 a nariadenie (EÚ) č. 648/2012 (Ú. v. EÚ L 347, 28. 12. 2017), nariadenie (EÚ) 2020/1503.
+- 110ja) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) č. 596/2014 zo 16. apríla 2014 o zneužívaní trhu (nariadenie o zneužívaní trhu) a o zrušení smernice Európskeho parlamentu a Rady 2003/6/ES a smerníc Komisie 2003/124/ES, 2003/125/ES a 2004/72/ES (Ú. v. EÚ L 173, 12. 6. 2014) v platnom znení, nariadenie (EÚ) 2015/2365, nariadenie (EÚ) 2016/1011, nariadenie Európskeho parlamentu a Rady (EÚ) 2017/2402 z 12. decembra 2017, ktorým sa ustanovuje všeobecný rámec pre sekuritizáciu a vytvára sa osobitný rámec pre jednoduchú, transparentnú a štandardizovanú sekuritizáciu a ktorým sa menia smernice 2009/65/ES, 2009/138/ES a 2011/61/EÚ a nariadenie (ES) č. 1060/2009 a nariadenie (EÚ) č. 648/2012 (Ú. v. EÚ L 347, 28. 12. 2017), nariadenie (EÚ) 2020/1503, nariadenie (EÚ) 2021/23.
 
 - 110jb) Čl. 25 ods. 2 nariadenia (EÚ) č. 596/2014.
 
@@ -826,9 +830,9 @@
 
 - 110ln) Čl. 19 ods. 1 druhý pododsek nariadenia (EÚ) č. 1093/2010 v platnom znení.
 
-- 110m) Napríklad čl. 30 ods. 1 nariadenia (EÚ) č. 596/2014 v platnom znení, čl. 22 nariadenia (EÚ) 2015/2365, čl. 42 nariadenia (EÚ) 2016/1011, čl. 32 nariadenia (EÚ) 2017/2402, čl. 39 ods. 1 nariadenia (EÚ) 2020/1503.
+- 110m) Napríklad čl. 30 ods. 1 nariadenia (EÚ) č. 596/2014 v platnom znení, čl. 22 nariadenia (EÚ) 2015/2365, čl. 42 nariadenia (EÚ) 2016/1011, čl. 32 nariadenia (EÚ) 2017/2402, čl. 39 ods. 1 nariadenia (EÚ) 2020/1503, čl. 82 ods. 1 nariadenia (EÚ) 2021/23.
 
-- 110n) Napríklad čl. 30 ods. 2 a čl. 31 nariadenia (EÚ) č. 596/2014 v platnom znení, čl. 22 a 23 nariadenia (EÚ) 2015/2365, čl. 42 a 43 nariadenia (EÚ) 2016/1011, čl. 32 ods. 2 a 3 a čl. 33 nariadenia (EÚ) 2017/2402, čl. 39 ods. 2 a čl. 40 nariadenia (EÚ) 2020/1503.
+- 110n) Napríklad čl. 30 ods. 2 a čl. 31 nariadenia (EÚ) č. 596/2014 v platnom znení, čl. 22 a 23 nariadenia (EÚ) 2015/2365, čl. 42 a 43 nariadenia (EÚ) 2016/1011, čl. 32 ods. 2 a 3 a čl. 33 nariadenia (EÚ) 2017/2402, čl. 39 ods. 2 a čl. 40 nariadenia (EÚ) 2020/1503, čl. 82 ods. 2 nariadenia (EÚ) 2021/23.
 
 - 111) Napríklad Obchodný zákonník v znení neskorších predpisov, Občiansky zákonník v znení neskorších predpisov, zákon č. 659/2007 Z. z.
 

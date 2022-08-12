@@ -5,3 +5,5 @@
 (2) Ak sú informácie podľa odseku 1 verejne dostupné, správca aktív nie je povinný poskytnúť informácie priamo inštitucionálnemu investorovi.
 
 (3) Inštitucionálnym investorom sa na účely odsekov 1 a 2 rozumie poisťovňa vykonávajúca činnosť v odvetviach životného poistenia, zaisťovňa vykonávajúca činnosť vo vzťahu k záväzkom zo životného poistenia a doplnková dôchodková spoločnosť.
+
+(4) Ustanovenia tohto paragrafu a § 78 sa nepoužijú, ak sa uplatnia nástroje riešenia krízových situácií, právomoci riešiť krízové situácie a mechanizmy riešenia krízových situácií podľa osobitných predpisov.<sup>42a</sup>)

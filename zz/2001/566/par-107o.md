@@ -59,3 +59,5 @@
 (18) Národná banka Slovenska informuje Komisiu o významných praktických problémoch pri presadzovaní odsekov 1 až 15 alebo o ich nedodržiavaní sprostredkovateľmi z členského štátu alebo z nečlenského štátu. Národná banka Slovenska informuje Európsky orgán dohľadu (Európsky orgán pre cenné papiere a trhy) o tom, či Slovenská republika obmedzila identifikáciu akcionárov podľa tohto paragrafu na tých akcionárov, ktorí vlastnia počet akcií prekračujúci určitý percentuálny podiel akcií alebo hlasovacích práv v akciovej spoločnosti.
 
 (19) Na rozsah, formu, lehoty a spôsob informácie a jej odovzdávanie podľa tohto paragrafu sa vzťahuje osobitný predpis.<sup>91</sup>)
+
+(20) Ak sa uplatnia nástroje riešenia krízových situácií, právomoci riešiť krízové situácie a mechanizmy riešenia krízových situácií podľa osobitných predpisov,<sup>42a</sup>) odseky 1 až 19 sa nepoužijú.
