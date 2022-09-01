@@ -112,13 +112,9 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 48. | Vykonávanie ohňostrojných prác | Oprávnenie odpaľovača ohňostrojov | § 34 ods. 2 zákona č. 58/2014 Z. z. |
 
-- 49. | Predaj pyrotechnických výrobkov kategórie F2, kategórie F3, kategórie T1 a kategórie P1 | 1. oprávnenie pyrotechnika alebo strelmajstra alebo odpaľovača ohňostrojov, 2. osvedčenie o odbornej spôsobilosti predavača pyrotechnických výrobkov | § 52 ods. 10 zákona č. 58/2014 Z. z. | III
-
 - 49a. | Odborná príprava na získanie odbornej spôsobilosti pri výrobe a spracovaní, používaní a ničení výbušnín a výbušných predmetov | Oprávnenie pyrotechnika C | § 35 ods. 5 zákona č. 58/2014 Z. z. |
 
 - 49b. | Odborná príprava na získanie odbornej spôsobilosti pri výrobe a spracovaní, používaní a ničení výbušnín, výbušných predmetov a munície | Oprávnenie pyrotechnika D Oprávnenie pyrotechnika E | § 35 ods. 6 § 35 ods. 7 zákona č. 58/2014 Z. z. |
-
-- 49c. | Odborná príprava na získanie odbornej spôsobilosti predavača pyrotechnických výrobkov | Oprávnenie odpaľovača ohňostrojov | § 34 zákona č. 58/2014 Z. z. |
 
 - 49d. | Odborná príprava na získanie odbornej spôsobilosti odpaľovača ohňostrojov | Oprávnenie odpaľovača ohňostrojov | § 34 zákona č. 58/2014 Z. z. |
 
