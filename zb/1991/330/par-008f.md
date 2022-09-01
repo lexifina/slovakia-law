@@ -6,7 +6,7 @@
 
 (3) Nároky na vyrovnanie za pôvodné pozemky na území mimo Slovenskej republiky môžu byť špecifikované aj na základe kartometrického zisťovania.
 
-(4) Na pozemky určené na účely vyrovnania podľa § 7 ods. 4 písm. h), ktoré sú v obvode projektu pozemkových úprav, vyznačí okresný úrad zákaz nakladania<sup>7i</sup>) na základe právoplatného rozhodnutia o nariadení pozemkových úprav.
+(4) Na pozemky určené na účely vyrovnania podľa § 7 ods. 4 písm. h), ktoré sú v obvode projektu pozemkových úprav, vyznačí okresný úrad zákaz scudzenia a zaťaženia<sup>7i</sup>) na základe právoplatného rozhodnutia o nariadení pozemkových úprav.
 
 (5) Súčasťou úvodných podkladov je aj súpis nárokov na vyrovnanie za pôvodné pozemky, ktoré prešli na územie iného štátu; súpis nárokov sa vyhotoví vo forme zjednodušeného registra.<sup>6ag</sup>)
 
