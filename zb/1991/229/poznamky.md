@@ -163,3 +163,5 @@
 - 28) § 2 písm. q) zákona č. 326/2005 Z. z.
 
 - 29) § 26 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
+
+- 30) Nariadenie vlády Slovenskej republiky č. 237/2010 Z. z., ktorým sa ustanovujú podrobnosti o postupe Slovenského pozemkového fondu pri poskytovaní náhradných pozemkov v znení neskorších predpisov.
