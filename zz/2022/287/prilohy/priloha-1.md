@@ -1,0 +1,1 @@
+Príloha č. 1 k vyhláške č. 287/2022 Z. z. [ŠTUDIJNÝ ODBOR PODĽA § 1 ODS. 2 od 01.09.2022](../assets/7643b300f591e6d3144465d5a495265d76317bdf09645f5064ad77ba38f34250.pdf)
