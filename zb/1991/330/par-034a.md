@@ -1,12 +1,12 @@
 # § 34a
 
-(1) Pozemkový fond hospodári podľa rozpočtu príjmov a výdavkov, ktorý schvaľuje vláda Slovenskej republiky. Pozemkový fond je povinný predložiť vláde návrh svojho rozpočtu do 15. augusta bežného roka, ak vláda neurčí neskorší termín. Rozpočet pozemkového fondu nie je súčasťou štátneho rozpočtu; tým nie sú dotknuté povinnosti pozemkového fondu podľa osobitného predpisu.<sup>23i</sup>)
+(1) Pozemkový fond hospodári podľa rozpočtu príjmov a výdavkov, ktorý schvaľuje vláda Slovenskej republiky. Pozemkový fond je povinný predložiť vláde návrh svojho rozpočtu v súlade s osobitným predpisom.<sup>23i</sup>) Rozpočet pozemkového fondu nie je súčasťou štátneho rozpočtu; tým nie sú dotknuté povinnosti pozemkového fondu podľa osobitného predpisu.<sup>23i</sup>)
 
 (2) Pozemkový fond nemôže prijímať úvery alebo pôžičky ani vstupovať do úverových alebo pôžičkových vzťahov ako ručiteľ.
 
 (3) Účtovnú závierku pozemkového fondu overenú audítorom a rozdelenie jeho hospodárskeho výsledku schvaľuje vláda Slovenskej republiky po prerokovaní vo Výbore Národnej rady Slovenskej republiky pre pôdohospodárstvo, životné prostredie a ochranu prírody (ďalej len „výbor“)
 
-(4) Pozemkový fond predkladá výročnú správu na rokovanie Národnej rady Slovenskej republiky do konca apríla nasledujúceho kalendárneho roka.
+(4) Pozemkový fond predkladá výročnú správu za predchádzajúci kalendárny rok na rokovanie Národnej rady Slovenskej republiky do konca marca nasledujúceho kalendárneho roka.
 
 (5) Na zabezpečenie financovania svojej činnosti pozemkový fond tvorí
 

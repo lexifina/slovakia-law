@@ -4,6 +4,4 @@
 
 (2) Pri nepreukázaní účelnosti podľa § 7 ods. 2 písm. a), nepreukázaní záujmu podľa § 7 ods. 2 písm. c) alebo nepreukázaní zabezpečenia financovania nákladov podľa odseku 1 okresný úrad pozemkové úpravy nepovolí.
 
-(3) Ak je potrebné pre spoločné zariadenia a opatrenia vyčleniť nevyhnutnú výmeru poľnohospodárskej pôdy, lesných pozemkov alebo inej pôdy, vlastníci prispievajú podľa § 12 ods. 8; ustanovenie § 11 ods. 7 sa nepoužije.
-
-(4) Vyrovnanie v peniazoch sa vykoná medzi žiadateľom podľa odseku 1 a vlastníkom pozemku v lehote určenej v rozhodnutí o schválení vykonania projektu pozemkových úprav.
+(3) Vyrovnanie v peniazoch sa vykoná medzi žiadateľom podľa odseku 1 a vlastníkom pozemku v lehote určenej v rozhodnutí o schválení vykonania projektu pozemkových úprav.

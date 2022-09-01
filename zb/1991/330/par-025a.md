@@ -6,7 +6,7 @@
 
 (3) K žiadosti podľa odseku 2 žiadateľ priloží
 
-- a) doklad o absolvovaní vysokoškolského vzdelania druhého stupňa technického smeru so zameraním na pozemkové úpravy, geodéziu a kartografiu, vodné hospodárstvo, lesné hospodárstvo alebo poľnohospodárskeho smeru so zameraním na záhradníctvo a krajinné inžinierstvo alebo prírodovedného smeru so zameraním na životné prostredie a geografiu, banskomeračského zamerania hlbinného zamerania; ustanovenie osobitného predpisu<sup>16ba</sup>) tým nie je dotknuté,
+- a) doklad o získaní vysokoškolského vzdelania druhého stupňa v študijnom odbore zameranom na pozemkové úpravy, geodéziu a kartografiu, poľnohospodárstvo a krajinárstvo, lesníctvo, hydromeliorácie, krajinnú a záhradnú architektúru, priestorové plánovanie, alebo ochranu a využívanie prírody a krajiny; ustanovenie osobitného predpisu<sup>16ba</sup>) tým nie je dotknuté,
 
 - b) doklad o odbornej praxi v oblasti pozemkových úprav v trvaní najmenej troch rokov,
 
@@ -30,14 +30,26 @@
 
 (10) Držiteľ osvedčenia musí každých desať rokov opakovať odbornú prípravu a vykonanie skúšky.
 
-(11) Fyzickej osobe oprávnenie na projektovanie pozemkových úprav zanikne, ak
+(11) Fyzickej osobe oprávnenie na projektovanie pozemkových úprav zanikne
 
-- a) prestane spĺňať podmienku podľa odseku 5 písm. a),
+- a) dňom, ktorým prestane spĺňať podmienku bezúhonnosti podľa odseku 5 písm. a),
 
-- b) sa nezúčastnila na opakovanej odbornej príprave a skúške podľa odseku 10,
+- b) 31. decembra kalendárneho roka, v ktorom uplynie lehota podľa odseku 10, ak sa nezúčastní na opakovanej odbornej príprave a nevykoná skúšku podľa odseku 10,
 
-- c) oznámila písomne ministerstvu skončenie činnosti, na ktorú jej bolo osvedčenie vydané.
+- c) dňom doručenia písomného oznámenia o skončení činnosti na projektovanie pozemkových úprav ministerstvu alebo neskorším dňom uvedeným v tomto oznámení,
 
-(12) Evidenciu osvedčení podľa odseku 1 vedie ministerstvo.
+- d) dňom nadobudnutia právoplatnosti rozhodnutia, ktorým je pozbavená spôsobilosti na právne úkony alebo obmedzená v spôsobilosti na právne úkony,
 
-(13) Ministerstvo odoberie oprávnenie na projektovanie pozemkových úprav na základe návrhu okresného úradu podľa § 25 ods. 4 alebo z vlastného podnetu, ak osoba opakovane porušila povinnosť podľa § 25 ods. 3.
+- e) smrťou alebo dňom vyhlásenia za mŕtvu.
+
+(12) Register osvedčení podľa odseku 1 vedie ministerstvo.
+
+(13) Do registra osvedčení podľa odseku 1 sa zapisuje
+
+- a) číslo osvedčenia,
+
+- b) meno, priezvisko, titul, dátum narodenia, rodné číslo a adresa trvalého pobytu držiteľa osvedčenia,
+
+- c) dátum vydania osvedčenia.
+
+(14) Ministerstvo odoberie oprávnenie na projektovanie pozemkových úprav na základe návrhu okresného úradu podľa § 25 ods. 4 alebo z vlastného podnetu, ak osoba opakovane porušila povinnosť podľa § 25 ods. 3.

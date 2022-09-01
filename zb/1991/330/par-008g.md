@@ -1,8 +1,8 @@
 # § 8g Jednoduché pozemkové úpravy vykonávané na usporiadanie vlastníckych a užívacích pomerov k pozemkom pod osídleniami
 
-(1) Žiadosť o jednoduché pozemkové úpravy vykonávané z dôvodu podľa § 2 ods. 1 písm. j) podáva obec, na ktorej území sa osídlenie alebo jeho väčšia časť nachádza; prílohou k žiadosti je súhlas obecného zastupiteľstva.
+(1) Žiadosť o jednoduché pozemkové úpravy vykonávané z dôvodu podľa § 2 ods. 1 písm. j) podáva obec, na ktorej území sa osídlenie alebo jeho časť nachádza. Žiadosť obsahuje aj mapový podklad pozemkov pod osídlením, ktorý s dostatočnou presnosťou určuje navrhovanú hranicu obvodu projektu pozemkových úprav; prílohou k žiadosti je súhlas obecného zastupiteľstva.
 
-(2) Umiestnenie osídlenia a účel využitia pozemkov musí byť v súlade s platným územným plánom obce. Ak sa osídlenie nachádza na území obce, ktorá nemá a nie je povinná mať územný plán obce,<sup>6af</sup>) umiestnenie osídlenia a účel využitia pozemkov musí byť odsúhlasený uznesením obecného zastupiteľstva a obec musí preukázať splnenie podmienok podľa osobitného predpisu.<sup>6ac</sup>)
+(2) Umiestnenie osídlenia a účel využitia pozemkov musí byť v súlade s platným územným plánom obce.<sup>6af</sup>) Ak sa osídlenie nachádza na území obce, ktorá nemá a nie je povinná mať územný plán obce do dátumu podľa osobitného predpisu,<sup>6afa</sup>) alebo ak mapový podklad podľa odseku 1, umiestnenie osídlenia alebo jeho budúce usporiadanie nie je v súlade s platným územným plánom, mapový podklad podľa odseku 1, umiestnenie osídlenia a účel využitia pozemkov musí byť odsúhlasený uznesením obecného zastupiteľstva. Ak žiadosť podľa odseku 1 obsahuje aj plochy bez obydlí, obec je povinná predložiť aj súhlas dotknutého orgánu podľa osobitných predpisov.<sup>6ac</sup>)
 
 (3) Pri nepreukázaní účelnosti podľa § 7 ods. 2 písm. a), nepreukázaní záujmu podľa § 7 ods. 2 písm. d) alebo nesplnení podmienok podľa odseku 2 okresný úrad pozemkové úpravy nepovolí.
 
@@ -16,13 +16,13 @@
 
 (8) Okresný úrad súčasne s výpisom z registra pôvodného stavu doručí vlastníkovi výzvu, aby sa v lehote 30 dní od doručenia výzvy písomne vyjadril, či žiada vyrovnanie v pozemkoch na účely vyrovnania, alebo v pozemkoch pod osídlením, alebo v peniazoch. Vyjadrenie vlastníka je záväzné a nemožno ho počas konania meniť. Ak sa vlastník v lehote podľa prvej vety písomne nevyjadrí, patrí mu vyrovnanie v pozemkoch na účely vyrovnania. Ak nie je dostatočná výmera pozemkov na účely vyrovnania, vlastníkom sa poskytne vyrovnanie v pozemkoch na účely vyrovnania pomerne podľa pomeru ich vzájomných nárokov na vyrovnanie a zvyšok nárokov sa vyrovná v peniazoch.
 
-(9) Na vyrovnanie v pozemkoch na účely vyrovnania sa použijú pozemky poskytnuté podľa § 7 ods. 4 písm. i) v prvom rade obcou a v druhom rade Slovenským pozemkovým fondom.
+(9) Na vyrovnanie v pozemkoch na účely vyrovnania sa použijú pozemky poskytnuté podľa § 7 ods. 4 písm. i) v prvom rade obcou a v druhom rade Slovenským pozemkovým fondom alebo správcom.
 
 (10) Vyrovnanie v peniazoch poskytuje obec. Vyrovnanie v peniazoch sa vykoná medzi obcou a vlastníkom pozemku v lehote určenej v rozhodnutí o schválení vykonania projektu pozemkových úprav.
 
 (11) Nové pozemky sa vlastníkom poskytnú v rovnakej výmere, ako majú pôvodné pozemky so zohľadnením úbytku výmery na spoločné zariadenia a opatrenia okrem postupu podľa odseku 7 poslednej vety; ustanovenia § 11 ods. 1 až 6 sa nepoužijú.
 
-(12) Pozemky pod osídlením, za ktoré vlastníci dostanú vyrovnanie v pozemkoch na účely vyrovnania alebo vyrovnanie v peniazoch, a pozemky pod osídlením, ktoré sú vo vlastníctve štátu okrem tých, ktoré môžu byť len vo vlastníctve štátu, alebo tých, ktoré sa nachádzajú v ochrannom pásme letísk, dráh alebo ciest,<sup>6ah</sup>) prejdú do vlastníctva obce. Obec nesmie pozemok pod osídlením scudziť ani zaťažiť okrem prevodu pozemku pod obydlím alebo priľahlého pozemku do vlastníctva obyvateľovi tohto obydlia; toto obmedzenie sa vyznačí v katastri nehnuteľností na základe rozhodnutia o schválení vykonania projektu pozemkových úprav. Na účel prevodu pozemku podľa druhej vety obec potvrdí, či ide o obyvateľa obydlia.
+(12) Pozemky pod osídlením, za ktoré vlastníci dostanú vyrovnanie v pozemkoch na účely vyrovnania alebo vyrovnanie v peniazoch, a pozemky pod osídlením, ktoré sú vo vlastníctve štátu okrem tých, ktoré môžu byť len vo vlastníctve štátu, alebo tých, ktoré sa nachádzajú v ochrannom pásme letísk, dráh alebo ciest,<sup>6ah</sup>) prejdú do vlastníctva obce. Obec nesmie pozemok pod osídlením scudziť ani zaťažiť okrem prevodu alebo nájmu pozemku pod obydlím alebo priľahlého pozemku do vlastníctva obyvateľovi tohto obydlia; toto obmedzenie sa vyznačí v katastri nehnuteľností na základe rozhodnutia o schválení vykonania projektu pozemkových úprav. Na účel prevodu pozemku podľa druhej vety obec potvrdí, či ide o obyvateľa obydlia.
 
 (13) Obec neprevedie vlastníctvo k pozemku pod obydlím alebo priľahlému pozemku obyvateľovi obydlia, voči ktorému je vedené exekučné konanie podľa osobitného predpisu.<sup>6ai</sup>)
 
