@@ -1948,6 +1948,12 @@ Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene
 
 - 229. V § 114 ods. 1 sa za slovo „vyučovanie“ vkladá čiarka a slová „záujmovú činnosť“.
 
+- 230. V § 114 odsek 2 znie:
+
+- „(2)
+
+- Školský klub detí sa člení na oddelenia spravidla podľa veku detí, pričom počet detí v oddelení je najviac 26; počet detí v oddeleniach pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami je rovnaký ako v triedach, v ktorých sa vzdelávajú.“.
+
 - 231. V § 114 odsek 4 znie:
 
 - „(4)
