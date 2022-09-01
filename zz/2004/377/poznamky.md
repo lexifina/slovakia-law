@@ -4,6 +4,12 @@
 
 - 1aa) § 2 písm. b) zákona č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov.
 
+- 1ab) § 2 ods. 3 písm. e) zákona č. 89/2016 Z. z.
+
+- 1ac) § 2 ods. 3 písm. p) zákona č. 89/2016 Z. z.
+
+- 1ad) § 2 ods. 1 zákona č. 102/2014 Z. z. ochrane spotrebiteľa pri predaji tovaru alebo poskytovaní služieb na základe zmluvy uzavretej na diaľku alebo zmluvy uzavretej mimo prevádzkových priestorov predávajúceho a o zmene a doplnení niektorých zákonov v znení zákona č. 173/2015 Z. z.
+
 - 2) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 2a) § 2 písm. j) zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
