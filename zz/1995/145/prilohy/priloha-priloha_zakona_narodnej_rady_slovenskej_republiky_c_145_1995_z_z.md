@@ -5010,55 +5010,55 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 13. | Výmaz biocídneho výrobku z registra biocídnych výrobkov sprístupnených na trhu v Slovenskej republike na vlastnú žiadosť právnickej osoby alebo fyzickej osoby podnikateľa | 100 eur
 
-    - Položka 154
+  - Položka 154 |
 
-  - a) Udelenie licencie na obchodovanie s určenými výrobkami, z hodnoty určených výrobkov ..... | 0,1 %, najmenej 33 eur
+  - a) Udelenie licencie na obchodovanie s určenými výrobkami podľa osobitných predpisov<sup>36ta</sup>) – z hodnoty určených výrobkov | 0,2 %, najmenej 50 eur, pri vývoze najviac 2 000 eur
 
-  - b) Vydanie potvrdenia na vyhlásení o konečnom použití určených výrobkov, dovozného certifikátu položiek s dvojakým použitím ..... | 18 eur
+  - b) Udelenie povolenia na transfer určených výrobkov/výbušnín<sup>36ta</sup>) | 40 eur
 
-  - c) Vydanie povolenia na obchodovanie s výrobkami obranného priemyslu ..... | 1 659,50 eura
+  - c) Udelenie povolenia na vývoz, poskytovanie technickej pomoci, prepravu, tranzit, poskytovanie sprostredkovateľských služieb týkajúcich sa vývozu položiek s dvojakým použitím – z hodnoty položiek s dvojakým použitím | 0,2 %, najmenej 50 eur, pri vývoze najviac 2 000 eur
 
-  - d) vydanie licencie na dovoz výrobkov obranného priemyslu alebo licencie na vývoz výrobkov obranného priemyslu z hodnoty tovaru povolenej v licencii ..... | 0,1 % najmenej 33 eur
+  - d) Vydanie potvrdenia na vyhlásení o konečnom použití určených výrobkov, dovozného certifikátu položiek s dvojakým použitím, certifikátu konečného užívateľa položiek s dvojakým použitím, zápisu do registra pred uskutočnením prvého vývozu pri využití všeobecného povolenia pri položkách s dvojakým použitím, certifikátu konečného užívateľa výrobkov obranného priemyslu, dovozného certifikátu výrobkov obranného priemyslu | 33 eur
 
-  - e) Vydanie licencie na dovoz a vývoz vojenského materiálu, zbraní, streliva a výbušnín zrýchleným obežníkovým spôsobom, z hodnoty tovaru udelenej v licencii ..... | 0,5 % najmenej 99,50 eura
+  - e) Vydanie povolenia na obchodovanie s výrobkami obranného priemyslu | 2 000 eur
 
-  - f) Vydanie dovozného, vývozného alebo tranzitného povolenia na omamné látky, psychotropné látky a prípravky s obsahom omamných látok alebo psychotropných látok ..... | 33 eur
+  - f) Udelenie licencie na dovoz výrobkov obranného priemyslu, licencie na vývoz výrobkov obranného priemyslu, transferovej licencie na výrobky obranného priemyslu, licencie na sprostredkovanie zahraničnoobchodnej činnosti s výrobkami obranného priemyslu, licencie na tranzit výrobkov obranného priemyslu, licencie na inú formu zahraničnoobchodnej činnosti s výrobkami obranného priemyslu – z hodnoty výrobkov obranného priemyslu alebo služby na výrobkoch obranného priemyslu povolenej v licencii | 0,2 %, najmenej 50 eur, najviac 2 000 eur
 
-  - g) Vydanie povolenia na vývoz určených látok alebo povolenia na dovoz určených látok ..... | 33 eur
+  - g) Vydanie certifikátu príjemcu výrobkov obranného priemyslu | 500 eur
 
-  - h) Vydanie licencie na dovoz alebo vývoz vybraných chemických látok a prípravkov podľa osobitného predpisu<sup>36n</sup>) ..... | 33 eur
+  - h) Vydanie osvedčenia o zápise do registra zberateľov znehodnotených výrobkov obranného priemyslu | 33 eur
 
-  - i) Vydanie povolenia na transfer určených výrobkov ..... | 40 eur
+  - i) Vydanie povolenia na nákup/predaj znehodnotených výrobkov obranného priemyslu | 20 eur
 
-  - j) Vydanie duplikátu podľa písmen a), b) a d) až i) ..... | 18 eur
+  - j) Vydanie dovozného, vývozného alebo tranzitného povolenia na omamné látky, psychotropné látky a prípravky s obsahom omamných látok alebo psychotropných látok | 33 eur
 
-  - k) vydanie globálnej transferovej licencie ..... | 33 eur
+  - k) Vydanie povolenia na vývoz určených látok alebo povolenia na dovoz určených látok alebo jednorazového povolenia na dovoz obmedzených prekurzorov výbušnín podľa osobitného predpisu<sup>36u</sup>) | 33 eur
 
-  - l) vydanie individuálnej transferovej licencie ..... | 0,1 %, najmenej 33 eur
+  - l) Vydanie licencie na dovoz alebo vývoz vybraných chemických látok a prípravkov podľa osobitného predpisu<sup>36n</sup>) | 33 eur
 
-  - m) vydanie všeobecnej transferovej licencie ..... | 33 eur
+  - m) Vydanie predbežného súhlasu na rokovanie so zahraničným partnerom podľa osobitných predpisov<sup>36na</sup>) | 30 eur
 
-  - n) vydanie certifikátu príjemcu výrobkov obranného priemyslu ..... | 333 eur
+  - n) Vydanie certifikátu o overení dodávky alebo potvrdenia o dodaní množstva určených výrobkov | 50 eur
 
-  - o) vydanie osvedčenia o zápise do registra zberateľov znehodnotených výrobkov obranného priemyslu ..... | 33 eur
+  - o) Vydanie súhlasu na ďalší transfer/vývoz výrobkov obranného priemyslu alebo určených výrobkov | 33 eur
 
-  - p) vydanie duplikátu povolenia na obchodovanie s výrobkami obranného priemyslu, vydanie duplikátu licencie na dovoz výrobkov obranného priemyslu alebo licencie na vývoz výrobkov obranného priemyslu, vydanie duplikátu globálnej transferovej licencie, vydanie duplikátu individuálnej transferovej licencie, vydanie duplikátu všeobecnej transferovej licencie, vydanie duplikátu certifikátu príjemcu výrobkov obranného priemyslu, vydanie duplikátu osvedčenia o zápise do registra zberateľov znehodnotených výrobkov obranného priemyslu podľa písmen c), d), k) až o) ..... | 66 eur
+  - p) Vydanie duplikátu podľa písmen a) až n) | 18 eur
 
-  - q) vydanie rozhodnutia o predĺžení platnosti licencie na dovoz výrobkov obranného priemyslu alebo licencie na vývoz výrobkov obranného priemyslu, vydanie rozhodnutia o predĺžení platnosti globálnej transferovej licencie, vydanie rozhodnutia o predĺžení platnosti individuálnej transferovej licencie, vydanie rozhodnutia o predĺžení platnosti všeobecnej transferovej licencie podľa písmen d) a k) až m) ..... | 33 eur
+  - r) Vydanie rozhodnutia o predĺžení platnosti podľa písmen a), c) a f) | 33 eur
 
-  - r) Zmena údaja (okrem údaja týkajúceho sa hodnoty) na povolení, licencii, dovoznom certifikáte, vyhlásení konečného užívateľa podľa písmen a) až i) ..... | 18 eur
+  - s) Zmena údaja (okrem údaja týkajúceho sa hodnoty) podľa písmen a) až l) | 18 eur
 
-  - s) Zmena údaja týkajúceho sa hodnoty ..... | rozdiel medzi 0,1 % z novej hodnoty a pôvodným poplatkom, najmenej 18 eur
+  - t) Zvýšenie základu poplatku podľa písmen a), c) a f) | 0,2 % z rozdielu medzi novým základom poplatku a pôvodným základom poplatku, najmenej 50 eur, pri vývoze najviac do sumy 2 000 eur
 
-  - t) Vydanie predbežného súhlasu na rokovanie so zahraničným partnerom ..... | 18 eur
+  - Splnomocnenie
 
-  - Splnomocnenie |
+  - Poplatky určené v sadzobníku pevnou sumou a poplatky určené percentuálnou sadzbou sa platia bez písomnej výzvy správneho orgánu a sú splatné pri podaní, ktoré smeruje k vykonaniu úkonu alebo k uskutočneniu konania.
 
-  - V prípade podlimitných dodávok môže správny orgán znížiť určenú sadzbu poplatku. Poplatky možno zaplatiť aj bez písomnej výzvy správneho orgánu. |
+    - Poznámka
 
-  - Poznámka |
+    - Správny orgán nevyberie poplatok podľa tejto položky, ak ide o dovoz vzoriek výbušnín
 
-  - Správny orgán nevyberie poplatok podľa tejto položky, ak ide o dovoz vzoriek výbušnín a výbušných predmetov určených na vykonanie ich certifikácie a klasifikácie notifikovanou osobou. |
+    - a výbušných predmetov určených na vykonanie ich certifikácie a klasifikácie notifikovanou osobou.
 
   - X. ČASŤ ŽIVOTNÉ PROSTREDIE
 
@@ -5530,7 +5530,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 181
 
-  - a) Vydanie poverenia na výučbu strelmajstrov, technických vedúcich odstrelov alebo odpaľovačov ohňostrojov, pyrotechnikov a predavačov pyrotechnických výrobkov, odbornú spôsobilosť zamestnancov na práce s výbušninami, výbušnými predmetmi a muníciou, na priame organizovanie a riadenie prác s výbušninami a výbušnými predmetmi, na priame organizovanie a riadenie prác s výbušninami, výbušnými predmetmi a muníciou vrátane miestneho zisťovania a schvaľovanie učebných osnov a testov ............................ | 33 eur
+  - a) Vydanie poverenia na výučbu strelmajstrov, technických vedúcich odstrelov alebo odpaľovačov ohňostrojov, pyrotechnikov, odbornú spôsobilosť zamestnancov na práce s výbušninami, výbušnými predmetmi a muníciou, na priame organizovanie a riadenie prác s výbušninami a výbušnými predmetmi, na priame organizovanie a riadenie prác s výbušninami, výbušnými predmetmi a muníciou vrátane miestneho zisťovania a schvaľovanie učebných osnov a testov ............................ | 33 eur
 
   - b) Zmena povolenia podľa písmena a) ...................... | 6,50 eura
 

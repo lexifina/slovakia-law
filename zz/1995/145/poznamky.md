@@ -508,7 +508,9 @@
 
 - 36may) § 14 zákona č. 540/2021 Z. z.
 
-- 36n) Zákon č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v znení neskorších predpisov.
+- 36n) Zákon č. 67/2010 Z. z. o podmienkach uvedenia chemických látok a chemických zmesí na trh a o zmene a doplnení niektorých zákonov (chemický zákon) v znení neskorších predpisov.
+
+- 36na) Zákon č. 39/2011 Z. z. o položkách s dvojakým použitím a o zmene zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov v znení neskorších predpisov.
 
 - 36p) Zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
 
@@ -517,6 +519,8 @@
 - 36s) § 7 a 8 zákona č. 163/2001 Z. z.
 
 - 36t) § 29 ods. 3 zákona č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v znení zákona č. 308/2005 Z. z.
+
+- 36ta) Zákon č. 144/2013 Z. z. o obchodovaní s určenými výrobkami, ktorých držba sa obmedzuje z bezpečnostných dôvodov a ktorým sa mení zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov v znení neskorších predpisov.
 
 - 37) Napríklad zákon č. 70/1998 Z. z. o energetike a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 58/1997 Z. z., ktorým sa mení a dopĺňa zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave a zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov, zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
 
