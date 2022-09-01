@@ -79,3 +79,5 @@
 - 30) § 34 ods. 1 zákona Slovenskej národnej rady č. 330/1991 Zb.
 
 - 31) § 3 ods. 1 nariadenia vlády Slovenskej republiky č. 237/2010 Z. z., ktorým sa ustanovujú podrobnosti o postupe Slovenského pozemkového fondu pri poskytovaní náhradných pozemkov.
+
+- 32) Nariadenie vlády Slovenskej republiky č. 237/2010 Z. z. v znení neskorších predpisov.
