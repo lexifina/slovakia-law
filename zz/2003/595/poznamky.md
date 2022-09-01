@@ -168,6 +168,8 @@
 
 - 39b) § 3 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
 
+- 39c) § 11 zákona Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov.
+
 - 40) § 5 a § 20 ods. 1 písm. a) zákona č. 328/2002 Z. z.
 
 - 40a) Zákon č. 43/2004 Z. z. v znení neskorších predpisov.
