@@ -82,7 +82,7 @@
 
 - 31) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z.
 
-- 31a) § 2 ods. 1 písm. a) zákona Národnej rady Slovenskej republiky č. 181/1995 Z. z. o pozemkových spoločenstvách.
+- 31a) § 11 ods. 7 zákona Slovenskej národnej rady č. 330/1991 Zb. v znení neskorších predpisov.
 
 - 31b) § 20 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
@@ -142,9 +142,19 @@
 
 - 58) § 13 až 17 zákona Slovenskej národnej rady č. 293/1992 Zb.
 
-- 59) § 142, 149, 481 a 484 Občianskeho zákonníka.
+- 59) § 10 ods. 1, 6 a 7 zákona č. 97/2013 Z. z. v znení zákona č. 6/2022 Z. z.
 
-- 60) § 2 zákona č. 265/1992 Zb.
+- 60) Napríklad § 34 ods. 3 zákona Slovenskej národnej rady č. 330/1991 Zb. v znení neskorších predpisov, zákon č. 66/2009 Z. z. o niektorých opatreniach pri majetkovoprávnom usporiadaní pozemkov pod stavbami, ktoré prešli z vlastníctva štátu na obce a vyššie územné celky a o zmene a doplnení niektorých zákonov.
+
+- 60a) § 34 ods. 18 zákona Slovenskej národnej rady č. 330/1991 Zb. v znení neskorších predpisov.
+
+- 60b) Napríklad druhá a tretia časť zákona č. 229/1991 Zb. v znení neskorších predpisov, § 15b ods. 2 zákona Slovenskej národnej rady č. 138/1991 Zb. v znení zákona č. 306/1992 Zb.
+
+- 60c) Zákon Slovenskej národnej rady č. 330/1991 Zb. v znení neskorších predpisov.
+
+- 60d) § 12 zákona č. 97/2013 Z. z. v znení zákona č. 110/2018 Z. z.
+
+- 60e) Napríklad § 13 ods. 4 zákona č. 504/2003 Z. z. o nájme poľnohospodárskych pozemkov, poľnohospodárskeho podniku a lesných pozemkov a o zmene niektorých zákonov v znení neskorších predpisov, § 12 ods. 2 zákona č. 97/2013 Z. z. v znení zákona č. 110/2018 Z. z.
 
 - 61) § 9 ods. 4 a 5 zákona Slovenskej národnej rady č. 330/1991 Zb. v znení neskorších predpisov.
 
