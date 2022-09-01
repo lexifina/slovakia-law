@@ -1,0 +1,3 @@
+# § 17a Prechodné ustanovenie k úprave účinnej od 1. septembra 2022
+
+Kontrolný ústav každoročne do 28. februára oznamuje<sup>9a</sup>) Komisii a ostatným členským štátom množstvo osiva hybridov pšenice letnej (Triticum aestivum subsp. aestivum), pšenice špaldovej (Triticum aestivum subsp. spelta) a pšenice tvrdej (Triticum turgidum subsp. durum) podľa prílohy č. 1 ods. 8 a prílohy č. 2 ods. 1 časti C vyrobeného za predchádzajúci kalendárny rok, súlad poľných prehliadok s príslušnými požiadavkami na toto osivo, percentuálny podiel dávok tohto osiva, ktoré boli zamietnuté z dôvodu nedostatočných parametrov kvality, výsledky následnej úradnej kontroly a všetky skutočnosti, ktoré odôvodňujú toto zamietnutie. Táto oznamovacia povinnosť sa uplatňuje do 28. februára 2030.
