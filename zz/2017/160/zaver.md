@@ -1,1 +1,0 @@
-Lucia Žitňanská v. r.
