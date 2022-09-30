@@ -1,0 +1,1 @@
+Príloha č. 13 k vyhláške č. 316/2022 Z. z. [Zoznam medicínskych služieb so zaradením do programov a podmienky pre poskytnutie medicínskych služieb podľa § 44 ods. 2 písm. c) druhého a tretieho bodu](../assets/ae0c005b66f0c95c0e0343becd1efdf0b7982cb91543b0ab3793021aa3e3e9c9.pdf)

@@ -1,0 +1,1 @@
+Príloha č. 7 k vyhláške č. 316/2022 Z. z. [Spôsob určenia medicínskej služby podľa kombinácie hlavného výkonu a odbornosti](../assets/cea43c6ab8117504328776d1b25602971761ef6a58147b9ff8c04f5e04b54f36.pdf)

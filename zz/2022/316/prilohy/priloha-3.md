@@ -1,0 +1,1 @@
+Príloha č. 3 k vyhláške č. 316/2022 Z. z. [Spôsob určenia medicínskej služby podľa skupiny klasifikačného systému a diagnózy](../assets/ec84adae0ed94e53619caedcce46fe26d8c798035dd65559e2db0cda67199ef6.pdf)
