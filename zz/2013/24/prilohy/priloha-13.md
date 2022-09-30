@@ -30,7 +30,9 @@ Príloha č. 13 k vyhláške č. 24/2013 Z. z.
 
       - 4. proces nového prihlásenia,
 
-      - 5. proces ukončenia distribúcie.
+      - 5. proces ukončenia distribúcie,
+
+      - 6. proces výmeny dodávateľa elektriny pri začiatku a ukončení dodávky poslednej inštancie.
 
     - b) zmeny zmluvných kmeňových údajov zo strany dodávateľa alebo prevádzkovateľa regionálnej distribučnej sústavy
 

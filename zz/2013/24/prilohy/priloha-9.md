@@ -92,7 +92,7 @@ Príloha č. 9 k vyhláške č. 24/2013 Z. z.
 
   - F. Platobné podmienky
 
-    - (1) Prevádzkovateľ distribučnej sústavy je oprávnený vykonávať hodnotenie kreditného rizika dodávateľov elektriny. Prevádzkovateľ distribučnej sústavy vykonáva hodnotenie kreditného rizika každého dodávateľa, ktorý požiada o uzatvorenie zmluvy. Výsledkom hodnotenia je zaradenie dodávateľa do jednej zo skupín A až D, pričom pre každú z týchto skupín sú určené osobitné platobné podmienky za prístup a distribúciu elektriny spolu s ostatnými regulovanými službami a inými poplatkami podľa zákonov a rozhodnutí úradu.
+    - (1) Prevádzkovateľ distribučnej sústavy je oprávnený vykonávať hodnotenie kreditného rizika dodávateľov elektriny. Prevádzkovateľ distribučnej sústavy vykonáva hodnotenie kreditného rizika každého dodávateľa, ktorý požiada o uzatvorenie zmluvy. Výsledkom hodnotenia je zaradenie dodávateľa do jednej zo skupín A až D, pričom pre každú z týchto skupín sú určené osobitné platobné podmienky za prístup a distribúciu elektriny spolu s ostatnými regulovanými službami a inými poplatkami podľa zákonov a rozhodnutí úradu. Prevádzkovateľ distribučnej sústavy nemôže od dodávateľa elektriny jednostranne požadovať dodatočné finančné zabezpečenie, ktoré je nad rámec skupín A až D podľa odseku 7. Dodávateľ elektriny môže na dobrovoľne alebo po dohode s prevádzkovateľom distribučnej sústavy zložiť finančné zabezpečenie vo vyššej ako požadovanej hodnote.
 
     - (2) Prevádzkovateľ distribučnej sústavy vykoná hodnotenie kreditného rizika transparentne a nediskriminačne voči všetkým dodávateľom elektriny rovnako.
 
@@ -114,11 +114,13 @@ Príloha č. 9 k vyhláške č. 24/2013 Z. z.
 
       - a) skupina A, ak dodávateľ elektriny poskytne prevádzkovateľovi distribučnej sústavy adekvátnu zábezpeku (neodvolateľnú bankovú garanciu od banky s adekvátnym ratingom, záruku materskej firmy s adekvátnym ratingom alebo vinkulovaný vklad vo výške predpokladaných distribučných poplatkov za obdobie jeden a pol kalendárneho mesiaca) prevádzkovateľ distribučnej sústavy fakturuje za distribučné služby v mesiaci nasledujúcom po mesiaci, v ktorom bola uskutočnená distribúcia elektriny, so splatnosťou v 15. deň mesiaca. Za adekvátny sa považuje dlhodobý kreditný rating minimálne na úrovni BBB+ (Standard & Poor´s) alebo Baa1 (Moody´s). Ak nie je dostupný rating materskej spoločnosti alebo banky podľa hodnotenia Standard& Poor´s alebo Moody´s, prevádzkovateľ distribučnej sústavy má právo záruku odmietnuť,
 
-      - b) skupina B, ak dodávatelia elektriny s dobrou platobnou schopnosťou, bez platieb meškajúcich v priemere viac ako 3 dni počas predchádzajúcich 12 mesiacov, uhrádzajú 60 % predpokladanej mesačnej platby v 15. deň mesiaca a vyúčtovaciu faktúru v mesiaci nasledujúcom po mesiaci, v ktorom bola uskutočnená distribúcia elektriny, so splatnosťou v 15. deň mesiaca,
+      - b) skupina B, ak dodávatelia elektriny s dobrou platobnou schopnosťou, bez platieb meškajúcich v priemere viac ako 3 dni počas predchádzajúcich 12 mesiacov, uhrádzajú 50 % predpokladanej mesačnej platby v 15. deň mesiaca a vyúčtovaciu faktúru v mesiaci nasledujúcom po mesiaci, v ktorom bola uskutočnená distribúcia elektriny, so splatnosťou v 15. deň mesiaca,
 
-      - c) skupina C, ak dodávatelia elektriny so zhoršenou platobnou schopnosťou (s meškajúcimi platbami podľa týchto obchodných podmienok v priemere viac ako 3 dni za akúkoľvek platbu podľa týchto obchodných podmienok v priemere počas predchádzajúcich 12 mesiacov) alebo noví dodávatelia uhrádzajú 80 % predpokladanej mesačnej platby v 15. deň mesiaca, 20 % predpokladanej mesačnej platby v 25. deň mesiaca a vyúčtovaciu faktúru v mesiaci nasledujúcom po mesiaci, v ktorom bola uskutočnená distribúcia elektriny, so splatnosťou v 15. deň mesiaca,
+      - c) skupina C, ak dodávatelia elektriny so zhoršenou platobnou schopnosťou (s meškajúcimi platbami podľa týchto obchodných podmienok v priemere viac ako 3 dni za akúkoľvek platbu podľa týchto obchodných podmienok v priemere počas predchádzajúcich 12 mesiacov) alebo noví dodávatelia uhrádzajú 50 % predpokladanej mesačnej platby v 15. deň mesiaca, 30 % predpokladanej mesačnej platby v 25. deň mesiaca a vyúčtovaciu faktúru v mesiaci nasledujúcom po mesiaci, v ktorom bola uskutočnená distribúcia elektriny, so splatnosťou v 15. deň mesiaca,
 
       - d) skupina D, ak dodávatelia elektriny so záporným vlastným imaním alebo so záväzkami po lehote splatnosti voči subjektom verejnej správy uhrádzajú platby za distribúciu elektriny podľa písmena c) a zároveň zložia zábezpeku podľa písmena a).
+
+    - (8) Pri predčasnom ukončení rámcovej distribučnej zmluvy je prevádzkovateľ distribučnej sústavy oprávnený vyhotoviť faktúru za posledné zúčtovacie obdobie do 15 dní od ukončenia rámcovej distribučnej zmluvy so splatnosťou 15 kalendárnych dní.
 
   - G. Obmedzenie, prerušenie alebo ukončenie distribúcie do odberného miesta
 

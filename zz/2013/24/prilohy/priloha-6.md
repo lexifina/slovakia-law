@@ -18,11 +18,11 @@ Príloha č. 6 k vyhláške č. 24/2013 Z. z.
 
   - B. Vysporiadanie zúčtovacieho obdobia
 
-    - (1) Na základe dekádneho vyhodnotenia odchýlok organizátor krátkodobého trhu s elektrinou vysporiada zálohové platby za odchýlky so subjektmi zúčtovania.
+    - (1) Organizátor krátkodobého trhu s elektrinou vysporiada platby za odchýlky so subjektom zúčtovania na základe denného, dekádneho, mesačného a konečného vyhodnotenia odchýlok podľa § 17 ods. 13.
 
-    - (2) Subjekt zúčtovania môže reklamovať dekádne vyhodnotenie odchýlok do piatich dní po skončení mesiaca, ktorého sa dekádne vyhodnotenie týka.
+    - (2) Subjekt zúčtovania môže reklamovať denné vyhodnotenie odchýlok do piatich dní odo dňa oznámenia ich výsledkov.
 
-    - (3) Na základe mesačného vyhodnotenia odchýlok organizátor krátkodobého trhu s elektrinou vysporiada platby za odchýlky so subjektmi zúčtovania a platby za obstaranú regulačnú elektrinu s dodávateľmi regulačnej elektriny.
+    - (3) Subjekt zúčtovania môže reklamovať dekádne vyhodnotenie odchýlok do piatich dní odo dňa oznámenia ich výsledkov.
 
     - (4) Subjekt zúčtovania môže reklamovať mesačné vyhodnotenie odchýlok do 20 dní odo dňa poskytnutia mesačného vyhodnotenia odchýlok organizátorom krátkodobého trhu s elektrinou.
 

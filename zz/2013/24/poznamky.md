@@ -6,6 +6,8 @@
 
 - 3a) § 2 písm. h) zákona č. 157/2018 Z. z. o metrológii a o zmene a doplnení niektorých zákonov.
 
+- 3aa) § 27 ods. 5 zákona č. 251/2012 Z. z.
+
 - 4) § 37 ods. 8 zákona č. 251/2012 Z. z.
 
 - 5) § 49 ods. 2 zákona č. 251/2012 Z. z.
@@ -33,6 +35,8 @@
 - 15) § 34 ods. 2 písm. f) prvý bod zákona č. 251/2012 Z. z.
 
 - 15a) § 2 písm. a) bod 15. zákona č. 251/2012 Z. z.
+
+- 15aa) § 2 písm. k) tretí a štvrtý bod zákona č. 250/2012 Z. z. v znení zákona č. 85/2022 Z. z.
 
 - 16) § 2 písm. a) druhý bod zákona č. 251/2012 Z. z.
 
@@ -79,6 +83,8 @@
 - 25a) § 12 vyhlášky Úradu pre reguláciu sieťových odvetví č. 18/2017 Z. z., ktorou sa ustanovuje cenová regulácia v elektroenergetike a niektoré podmienky vykonávania regulovaných činností v elektroenergetike v znení neskorších predpisov.
 
 - 25b) § 2 ods. 3 písm. n) zákona č. 309/2009 Z. z. v znení zákona č. 309/2018 Z. z.
+
+- 25c) § 2 písm. k) prvý, tretí a piaty bod zákona č. 250/2012 Z. z. v znení zákona č. 85/2022 Z. z.
 
 - 26) Napríklad Občiansky zákonník v znení neskorších predpisov, Obchodný zákonník v znení neskorších predpisov a zákon č. 251/2012 Z. z.
 
@@ -137,6 +143,14 @@
 - 47a) Napríklad nariadenie Európskeho parlamentu a Rady (ES) č. 715/2009 z 13. júla 2009 o podmienkach prístupu do prepravných sietí pre zemný plyn, ktorým sa zrušuje nariadenie (ES) č. 1775/2005 (Ú. v. EÚ L 211, 14. 8. 2009) a nariadenie Komisie (EÚ) 2017/459 zo 16. marca 2017, ktorým sa stanovuje sieťový predpis o mechanizmoch prideľovania kapacity v plynárenských prepravných sieťach a ktorým sa zrušuje nariadenie (EÚ) č. 984/2013 (Ú. v. EÚ L 72, 17. 3. 2017).
 
 - 48) § 29 ods. 1 písm. h) zákona č. 250/2012 Z. z.
+
+- 48a) Nariadenie Komisie (EÚ) č. 2017/459.
+
+- 48b) Rozhodnutie Komisie č. 2012/490/EÚ z 24. augusta 2012 o zmene a doplnení prílohy I k nariadeniu Európskeho parlamentu a Rady (ES) č. 715/2009 o podmienkach prístupu do prepravných sietí pre zemný plyn (Ú. v. EÚ L 231, 28. 8. 2012).
+
+- 48c) Príloha II čl. 2 nariadenia Európskeho parlamentu a Rady (ES) č. 715/2009 z 13. júla 2009 o podmienkach prístupu do prepravných sietí pre zemný plyn, ktorým sa zrušuje nariadenie (ES) č. 1775/2005 (Ú. v. EÚ L 211, 14. 8. 2009).
+
+- 48d) Nariadenie Komisie (EÚ) č. 312/2014 z 26. marca 2014 o vytvorení sieťového predpisu na vyvažovanie plynu v prepravných sieťach (Ú. v. EÚ L 91, 27. 3. 2014).
 
 - 49) § 66 ods. 2 zákona č. 251/2012 Z. z.
 
