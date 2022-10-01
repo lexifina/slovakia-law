@@ -1,0 +1,3 @@
+Príloha č. 1 k nariadeniu vlády č. 278/2022 Z. z.
+
+- [VYMEDZENIE HRANICE NÁRODNÉHO PARKU, JEHO ZÓN A OCHRANNÉHO PÁSMA](../assets/038199e5809bcc0aa93e2cde24fd559103983c6bc0698e382aa2180f984df804.pdf)
