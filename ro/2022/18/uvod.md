@@ -1,0 +1,11 @@
+## 18
+
+OPATRENIE
+
+Národnej banky Slovenska
+
+z 23. augusta 2022, č. 4/2022
+
+## ktorým sa mení a dopĺňa opatrenie Národnej banky Slovenska zo 14. novembra 2017 č. 10/2017, ktorým sa ustanovujú podrobnosti o posúdení schopnosti spotrebiteľa splácať spotrebiteľský úver v znení neskorších predpisov
+
+Národná banka Slovenska podľa § 7 ods. 41 písm. a) až c) a f) zákona č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a pôžičkách pre spotrebiteľov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov ustanovuje:
