@@ -488,15 +488,17 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
       - 3. Od poplatku podľa písmena a) tejto položky sú oslobodení občania, ktorým sa vydáva občiansky preukaz za platný občiansky preukaz bez elektronického čipu.
 
-      - 4. Od poplatku podľa písmena a) tejto položky sú oslobodení občania, ktorým sa vydáva občiansky preukaz po obmedzení spôsobilosti na právne úkony, po zmene obmedzenia spôsobilosti na právne úkony alebo po navrátení spôsobilosti na právne úkony.
+      - 4. Od poplatku podľa písmena a) tejto položky sú oslobodení občania, ktorým sa vydáva občiansky preukaz za platný občiansky preukaz s elektronickým čipom, ak na elektronický čip nemožno zapísať údaje z dôvodu, že elektronický čip bez zavinenia občana nespĺňa podmienky na ich zápis podľa osobitných predpisov.<sup>16aa</sup>)
 
-      - 5. Od poplatku podľa písmena a) tejto položky sú oslobodení občania starší ako 15 rokov, ak existuje dôvod na oslobodenie od poplatku podľa písmena a) tejto položky a zároveň sa do občianskeho preukazu uvedú nové údaje alebo sa zmenia alebo zrušia v ňom uvedené údaje.
+      - 5. Od poplatku podľa písmena a) tejto položky sú oslobodení občania, ktorým sa vydáva občiansky preukaz po obmedzení spôsobilosti na právne úkony, po zmene obmedzenia spôsobilosti na právne úkony alebo po navrátení spôsobilosti na právne úkony.
 
-      - 6. Od poplatku podľa písmen a) a c) tejto položky sú oslobodení občania starší ako 60 rokov, občania, ktorí sú držiteľmi preukazu fyzickej osoby s ťažkým zdravotným postihnutím a občania, ktorí sú držiteľmi preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom.
+      - 6. Od poplatku podľa písmena a) tejto položky sú oslobodení občania starší ako 15 rokov, ak existuje dôvod na oslobodenie od poplatku podľa písmena a) tejto položky a zároveň sa do občianskeho preukazu uvedú nové údaje alebo sa zmenia alebo zrušia v ňom uvedené údaje.
 
-      - 7. Od poplatku podľa písmena b) tejto položky sú oslobodení občania, ktorým sa vydáva občiansky preukaz z dôvodu straty alebo odcudzenia po uplynutí platnosti občianskeho preukazu, ktorý bol stratený alebo odcudzený.
+      - 7. Od poplatku podľa písmen a) a c) tejto položky sú oslobodení občania starší ako 60 rokov, občania, ktorí sú držiteľmi preukazu fyzickej osoby s ťažkým zdravotným postihnutím a občania, ktorí sú držiteľmi preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom.
 
-      - 8. Od poplatku podľa písmena c) tejto položky sú oslobodení občania, ktorým sa vydáva občiansky preukaz z dôvodu odcudzenia občianskeho preukazu, ak sa občianskeho preukazu zmocnila násilím iná osoba a táto skutočnosť bola ohlásená príslušnému útvaru Policajného zboru alebo príslušnému policajnému orgánu v krajine, kde sa udalosť stala.
+      - 8. Od poplatku podľa písmena b) tejto položky sú oslobodení občania, ktorým sa vydáva občiansky preukaz z dôvodu straty alebo odcudzenia po uplynutí platnosti občianskeho preukazu, ktorý bol stratený alebo odcudzený.
+
+      - 9. Od poplatku podľa písmena c) tejto položky sú oslobodení občania, ktorým sa vydáva občiansky preukaz z dôvodu odcudzenia občianskeho preukazu, ak sa občianskeho preukazu zmocnila násilím iná osoba a táto skutočnosť bola ohlásená príslušnému útvaru Policajného zboru alebo príslušnému policajnému orgánu v krajine, kde sa udalosť stala.
 
     - Splnomocnenie
 

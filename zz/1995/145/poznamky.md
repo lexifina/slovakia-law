@@ -150,6 +150,8 @@
 
 - 16a) § 25 zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
 
+- 16aa) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) č. 910/2014 z 23. júla 2014 o elektronickej identifikácii a dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zrušení smernice 1999/93/ES (Ú. v. EÚ L 257, 28. 8. 2014) v platnom znení, zákon č. 272/2016 Z. z. o dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zmene a doplnení niektorých zákonov (zákon o dôveryhodných službách) v znení neskorších predpisov.
+
 - 16b) Nariadenie Európskeho parlamentu a Rady (ES) č. 810/2009 z 13. júla 2009, ktorým sa ustanovuje vízový kódex Spoločenstva (vízový kódex), (Ú. v. EÚ L 243, 15. 9. 2009) v platnom znení.
 
 - 16c) § 2 ods. 5 zákona č. 404/2011 Z. z.
