@@ -18,6 +18,8 @@
 
 - 18) § 13 ods. 5 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov.
 
+- 19) § 2 ods. 3 písm. d) zákona č. 2/1991 Zb. o kolektívnom vyjednávaní v znení zákona č. 416/2013 Z. z.
+
 - 20) § 18 ods. 18 zákona č. 447/2008 Z. z. v znení neskorších predpisov.
 
 - 21) § 36 ods. 2 zákona č. 447/2008 Z. z. v znení zákona č. 180/2011 Z. z.
@@ -83,3 +85,5 @@
 - 46) § 11 ods. 7 písm. b) zákona č. 447/2008 Z. z.
 
 - 47) § 18 ods. 8 druhá veta zákona č. 447/2008 Z. z.
+
+- 48) § 2 ods. 3 písm. c) zákona č. 2/1991 Zb. v znení neskorších predpisov.
