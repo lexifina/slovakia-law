@@ -18,6 +18,8 @@
 
 - 8a) § 2 ods. 1 písm. b) zákona č. 392/2011 Z. z. o obchodovaní s výrobkami obranného priemyslu a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 8b) Zákon č. 64/2019 Z. z. v znení neskorších predpisov.
+
 - 9) § 4 zákona č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 10) Napríklad zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 319/2002 Z. z. o obrane Slovenskej republiky v znení neskorších predpisov, zákon č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o z mene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 45/2011 Z. z. o kritickej infraštruktúre v znení neskorších predpisov.
