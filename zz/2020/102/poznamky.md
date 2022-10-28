@@ -6,6 +6,8 @@
 
 - 5) § 360 a 365 Civilného mimosporového poriadku.
 
+- 6) § 4 písm. b) zákona č. 201/2008 Z. z. o náhradnom výživnom a o zmene a doplnení zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení nálezu Ústavného súdu Slovenskej republiky č. 615/2006 Z. z. v znení zákona č. 489/2021 Z. z.
+
 - 11) § 12 ods. 3 písm. a) zákona č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov.
 
 - 12) § 12 ods. 3 písm. b) piaty bod a šiesty bod zákona č. 417/2013 Z. z. v znení neskorších predpisov.
@@ -58,6 +60,10 @@
 
 - 38) § 40 zákona č. 447/2008 Z. z. v znení neskorších predpisov.
 
+- 38a) § 18 zákona č. 447/2008 Z. z. v znení neskorších predpisov.
+
+- 38b) § 36 ods. 4 a 5 zákona č. 447/2008 Z. z. v znení zákona č. 180/2011 Z. z.
+
 - 39) § 10 zákona č. 238/1998 Z. z. o príspevku na pohreb.
 
 - § 15 ods. 1 zákona č. 600/2003 Z. z. v znení neskorších predpisov.
@@ -78,7 +84,7 @@
 
 - § 9 ods. 3 a 4 zákona č. 383/2013 Z. z.
 
-- 43) Napríklad § 5 zákona č. 238/1998 Z. z. v znení neskorších predpisov, § 9 a § 14 ods. 1 písm. b) a ods. 2 zákona č. 600/2003 Z. z. v znení neskorších predpisov, § 14 ods. 2 a § 15 zákona č. 627/2005 Z. z. v znení neskorších predpisov, § 8 ods. 4, § 11 ods. 2 a § 12 ods. 1 zákona č. 201/2008 Z. z. o náhradnom výživnom a o zmene a doplnení zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení nálezu Ústavného súdu Slovenskej republiky č. 615/2006 Z. z. v znení neskorších predpisov, § 55 a 57 zákona č. 447/2008 Z. z. v znení neskorších predpisov, § 9 ods. 1 a 3 a § 10 ods. 1 zákona č. 561/2008 Z. z. v znení neskorších predpisov, § 5 ods. 4, § 8 ods. 1 a § 9 zákona č. 571/2009 Z. z. v znení neskorších predpisov, § 8 ods. 1 zákona č. 383/2013 Z. z. v znení zákona č. 310/2021 Z. z., § 19 ods. 1 a § 28 zákona č. 417/2013 Z. z. v znení neskorších predpisov, § 5 ods. 2 zákona č. 385/2019 Z. z. o kompenzačnom príspevku baníkom a o zmene a doplnení niektorých zákonov.
+- 43) Napríklad § 5 zákona č. 238/1998 Z. z. v znení neskorších predpisov, § 9 a § 14 ods. 1 písm. b) a ods. 2 zákona č. 600/2003 Z. z. v znení neskorších predpisov, § 14 ods. 2 a § 15 zákona č. 627/2005 Z. z. v znení neskorších predpisov, § 8 ods. 4, § 11 ods. 2 a § 12 ods. 1 zákona č. 201/2008 Z. z. v znení neskorších predpisov, § 55 a 57 zákona č. 447/2008 Z. z. v znení neskorších predpisov, § 9 ods. 1 a 3 a § 10 ods. 1 zákona č. 561/2008 Z. z. v znení neskorších predpisov, § 5 ods. 4, § 8 ods. 1 a § 9 zákona č. 571/2009 Z. z. v znení neskorších predpisov, § 8 ods. 1 zákona č. 383/2013 Z. z. v znení zákona č. 310/2021 Z. z., § 19 ods. 1 a § 28 zákona č. 417/2013 Z. z. v znení neskorších predpisov, § 5 ods. 2 zákona č. 385/2019 Z. z. o kompenzačnom príspevku baníkom a o zmene a doplnení niektorých zákonov.
 
 - 44) § 11 zákona č. 447/2008 Z. z. v znení neskorších predpisov.
 

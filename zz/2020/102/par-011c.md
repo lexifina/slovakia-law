@@ -6,4 +6,6 @@ Za príjem sa na účely poskytovania pomoci v hmotnej núdzi nepovažuje
 
 - b) opakovaný príspevok náhradnému rodičovi podľa § 1c ods. 2,
 
-- c) zvýšenie sumy peňažného príspevku na opatrovanie podľa § 17a.
+- c) zvýšenie sumy peňažného príspevku na opatrovanie podľa § 17a,
+
+- d) zvýšenie sumy náhradného výživného podľa § 1f.
