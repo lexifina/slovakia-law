@@ -16,4 +16,4 @@ Príloha č. 5 k zákonu č. 461/2003 Z. z. v znení zákona č. 543/2010 Z. z.
 
   - 7. Smernica Európskeho parlamentu a Rady 2010/41/EÚ zo 7. júla 2010 o uplatňovaní zásady rovnakého zaobchádzania so ženami a mužmi vykonávajúcimi činnosť ako samostatne zárobkovo činné osoby a o zrušení smernice Rady 86/613/EHS (Ú. v. EÚ, L 180, 15. 7. 2010).
 
-  - 8. Smernica Rady 2010/18/EÚ z 8. marca 2010, ktorou sa vykonáva revidovaná Rámcová dohoda o rodičovskej dovolenke uzavretá medzi BUSINESSEUROPE, UEAPME, CEEP a ETUC a zrušuje smernica 96/34/ES (Ú. v. EÚ L 68, 18. 3. 2010).
+  - 8. Smernica Európskeho parlamentu a Rady (EÚ) 2019/1158 z 20. júna 2019 o rovnováhe medzi pracovným a súkromným životom rodičov a osôb s opatrovateľskými povinnosťami, ktorou sa zrušuje smernica Rady 2010/18/EÚ (Ú. v. EÚ L 188/79, 12. 7. 2019).
