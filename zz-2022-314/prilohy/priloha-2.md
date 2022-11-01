@@ -1,0 +1,1 @@
+Príloha č. 2 k vyhláške č. 314/2022 Z. z. [Vzor - Osobitné tlačivo veterinárneho lekárskeho predpisu označené šikmým modrým pruhom](../assets/8a0a501f5290cf48321e7fa8b6a8a5eaef9376b4fed7f24a3b433cc85151d58f.pdf)
