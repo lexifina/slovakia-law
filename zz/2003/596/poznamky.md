@@ -218,6 +218,14 @@
 
 - 81b) Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
 
+- 81c) § 11 ods. 1 a § 13 ods. 2 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
+
+- 81d) § 3 písm. l) zákona č. 305/2013 Z. z. v znení zákona č. 273/2015 Z. z.
+
+- 81e) § 12 ods. 6 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
+
+- 81f) § 12 ods. 3 zákona č. 305/2013 Z. z.
+
 - 82) § 15 ods. 2 zákona č. 29/1984 Zb. v znení neskorších predpisov.
 
 - 83) Nariadenie vlády Slovenskej republiky č. 157/1997 Z. z. o osobitných kvalifikačných predpokladoch na výkon niektorých činností v krajských úradoch a okresných úradoch.
