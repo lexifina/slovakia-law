@@ -20,6 +20,8 @@
 
 - 4) Napríklad Zmluva medzi Slovenskou republikou a Ukrajinou o režime na slovensko-ukrajinských hraniciach, spolupráci a vzájomnej pomoci v hraničných otázkach (oznámenie č. 2/1995 Z. z.), Dohoda medzi vládou Slovenskej republiky a vládou Poľskej republiky o cezhraničnej spolupráci (oznámenie č. 44/1995 Z. z.), Zmluva medzi Slovenskou republikou a Maďarskou republikou o režime a spolupráci na spoločnej štátnej hranici (oznámenie č. 269/1996 Z. z.), Dohoda medzi vládou Slovenskej republiky a vládou Maďarskej republiky o spolupráci a vzájomnej pomoci pri katastrofách (oznámenie č. 315/1997 Z. z.).
 
+- 4a) Napríklad Základná zmluva medzi Slovenskou republikou a Svätou stolicou (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 326/2001 Z. z.), Zmluva medzi Slovenskou republikou a Svätou stolicou o duchovnej službe katolíckym veriacim v ozbrojených silách a ozbrojených zboroch Slovenskej republiky (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 648/2002 Z. z.), Zmluva č. 250/2002 Z. z. medzi Slovenskou republikou a registrovanými cirkvami a náboženskými spoločnosťami.
+
 - 5) § 5 ods. 4 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
 - 6) § 25 až 29 zákona č. 314/2001 Z. z.
