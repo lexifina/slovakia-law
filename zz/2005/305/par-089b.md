@@ -9,3 +9,9 @@
 (4) Orgán sociálnoprávnej ochrany detí a sociálnej kurately podľa § 73 ods. 1 a centrum podľa odseku 1 uzatvárajú zmluvu o poskytnutí finančného príspevku podľa odseku 1, ktorej súčasťou je aj dohodnutý počet miest; na tento účel môžu uzatvoriť rámcovú zmluvu, najdlhšie na tri rozpočtové roky.
 
 (5) Na predloženie návrhu zmluvy o poskytnutí finančného príspevku podľa odseku 1 a na zvýšenie finančného príspevku podľa odseku 1 v priebehu bežného rozpočtového roka sa § 89a ods. 4 a 5 vzťahuje rovnako.
+
+(6) Centrum podľa odseku 1 je povinné vrátiť pomernú časť poskytnutého finančného príspevku podľa odseku 1 za obdobie, v ktorom sú neobsadené miesta v centre z dôvodu, že
+
+- a) centrum podľa odseku 1 požiadalo o zrušenie akreditácie a akreditácia nezanikla dňom doručenia žiadosti o zrušenie akreditácie z dôvodu uvedeného v § 84 písm. c),
+
+- b) ministerstvo prerušilo konanie podľa § 85 ods. 3 začaté podľa § 85 ods. 1 písm. a) a orgán sociálnoprávnej ochrany detí a sociálnej kurately nevydáva odporúčania na vykonávanie pobytového opatrenia na základe dohody v tomto centre.

@@ -216,13 +216,15 @@
 
 - 69) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
+- 69a) Zákon č. 345/2022 Z. z. o inšpekcii v sociálnych veciach a o zmene a doplnení niektorých zákonov.
+
+- 69b) Zákon č. 581/2004 Z. z. v znení neskorších predpisov.
+
 - 70) Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 71) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
-- 72) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
-
-- Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení zákona č. 618/2004 Z. z.
+- 72) Napríklad zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov, zákon č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 345/2022 Z. z.
 
 - 73) § 2, § 17 až 19 nariadenia vlády Slovenskej republiky č. 296/2010 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolania, spôsobe ďalšieho vzdelávania zdravotníckych pracovníkov, sústave špecializačných odborov a sústave certifikovaných pracovných činností v znení neskorších predpisov.
 
