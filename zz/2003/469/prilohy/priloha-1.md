@@ -1,4 +1,4 @@
-Príloha k zákonu č. 469/2003 Z. z.
+Príloha č. 1 k zákonu č. 469/2003 Z. z.
 
 - ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
 
