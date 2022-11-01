@@ -82,7 +82,7 @@
 
 - 21a) § 2 ods. 1 zákona č. 8/2005 Z. z. o správcoch a o zmene a doplnení niektorých zákonov.
 
-- 21b) § 7 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
+- 21b) § 26 ods. 2 zákona č. 95/2019 Z. z. o informačných technológiách vo verejnej správe a o zmene a doplnení niektorých zákonov v znení zákona č. 325/2022 Z. z.
 
 - 21c) § 17 ods. 6 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
 
