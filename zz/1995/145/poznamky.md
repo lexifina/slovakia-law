@@ -28,7 +28,7 @@
 
 - 4) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 5) § 7 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente).
+- 5) § 26 ods. 2 zákona č. 95/2019 Z. z. o informačných technológiách vo verejnej správe a o zmene a doplnení niektorých zákonov v znení zákona č. 325/2022 Z. z.
 
 - 6) § 6 ods. 10 zákona č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení zákona č. 211/2019 Z. z.
 
@@ -53,8 +53,6 @@
 - 7ac) § 6 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
 
 - 7ad) § 5 ods. 3 zákona č. 305/2013 Z. z. v znení zákona č. 273/2015 Z. z.
-
-- 7ae) § 7 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
 
 - 7af) Zákon č. 200/2011 Z. z. o Obchodnom vestníku a o zmene a doplnení niektorých zákonov v znení zákona č. 264/2017 Z. z.
 
