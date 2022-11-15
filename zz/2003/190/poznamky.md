@@ -110,6 +110,12 @@
 
 - 30c) Čl. 5 ods. 1 písm. c) nariadenia (EÚ) č. 1214/2011.
 
+- 30d) Príloha č. 9 zákona č. 64/2019 Z. z.
+
+- 30e) Príloha č. 10 zákona č. 64/2019 Z. z.
+
+- 30f) § 12 ods. 13 zákona č. 64/2019 Z. z. v znení zákona č. 268/2022 Z. z.
+
 - 31) Zákon č. 144/2013 Z. z. o obchodovaní s určenými výrobkami, ktorých držba sa obmedzuje z bezpečnostných dôvodov a ktorým sa mení zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
 - 32) § 56 zákona č. 42/1980 Zb. o hospodárskych stykoch so zahraničím v znení neskorších predpisov.

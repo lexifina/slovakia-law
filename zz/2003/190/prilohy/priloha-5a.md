@@ -1,1 +1,1 @@
-Príloha č. 5a k zákonu č. 190/2003 Z. z. [Príloha č. 5a k zákonu č. 190/2003 Z. z.](../assets/aee7ee630410cabf68d7359f6a912c5e9a086ed4abdefe1a7fbfd6aaba0600f3.pdf)
+Príloha č. 5a k zákonu č. 190/2003 Z. z. [Príloha č. 5a k zákonu č. 190/2003 Z. z.](../assets/eb16d28e86d4557395d56e70d78b304f8256c258452bd5743daad9c47f42b810.pdf)
