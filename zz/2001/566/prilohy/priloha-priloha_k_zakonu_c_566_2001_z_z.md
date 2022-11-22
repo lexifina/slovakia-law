@@ -57,3 +57,5 @@ Príloha k zákonu č. 566/2001 Z. z.
   - 27. Smernica Európskeho parlamentu a Rady (EÚ) 2020/1504 zo 7. októbra 2020, ktorou sa mení smernica 2014/65/EÚ o trhoch s finančnými nástrojmi (Ú. v. EÚ L 347, 20. 10. 2020).
 
   - 28. Smernica Európskeho parlamentu a Rady (EÚ) 2021/338 zo 16. februára 2021, ktorou sa mení smernica 2014/65/EÚ, pokiaľ ide o požiadavky na informácie, správu produktov a obmedzenia pozícií, a smernice 2013/36/EÚ a (EÚ) 2019/878, pokiaľ ide o ich uplatňovanie na investičné spoločnosti, v záujme pomoci pri obnove po kríze spôsobenej ochorením COVID-19 (Ú. v. EÚ L 68, 26. 2. 2021).
+
+  - 29. Delegovaná smernica Komisie (EÚ) 2021/1269 z 21. apríla 2021, ktorou sa mení delegovaná smernica (EÚ) 2017/593, pokiaľ ide o začlenenie faktorov udržateľnosti do povinností v oblasti riadenia produktov (Ú. v. EÚ L 277, 2. 8. 2021).

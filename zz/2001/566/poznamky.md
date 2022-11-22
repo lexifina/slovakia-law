@@ -74,6 +74,8 @@
 
 - 18i) § 2 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
+- 18j) Čl. 2 bod 24 nariadenia Európskeho parlamentu a Rady (EÚ) 2019/2088 z 27. novembra 2019 o zverejňovaní informácií o udržateľnosti v sektore finančných služieb (Ú. v. EÚ L 317, 9. 12. 2019) v platnom znení.
+
 - 19) § 13 ods. 1 až 6 a § 14 ods. 3 písm. f) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
 - 20) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.

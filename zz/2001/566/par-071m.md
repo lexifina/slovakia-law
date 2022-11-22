@@ -34,7 +34,7 @@
 
 (11) Ak obchodník s cennými papiermi pri vytváraní finančného nástroja spolupracuje s osobami, ktoré nemajú povolenie a nie sú dohliadané podľa tohto zákona alebo s osobami z nečlenských štátov, je povinný uviesť ich vzájomné práva a povinnosti v písomnej zmluve.
 
-(12) Obchodník s cennými papiermi je povinný identifikovať na dostatočnej úrovni potenciálny cieľový trh pre každý finančný nástroj a špecifikovať typ klienta, pre ktorého potreby, charakteristiky a ciele je finančný nástroj vhodný. Ako súčasť tohto procesu je povinný obchodník s cennými papiermi identifikovať každú skupinu klientov, pre ktorých potreby, charakteristiky a ciele finančný nástroj nie je vhodný. Ak obchodníci s cennými papiermi spolupracujú pri vytváraní finančného nástroja, postačuje identifikovať len jeden cieľový trh.
+(12) Obchodník s cennými papiermi je povinný identifikovať na dostatočnej úrovni potenciálny cieľový trh pre každý finančný nástroj a špecifikovať typ klienta, s ktorého potrebami, charakteristickými znakmi a cieľmi vrátane akýchkoľvek cieľov súvisiacich s udržateľnosťou je tento finančný nástroj zlučiteľný. Ako súčasť tohto procesu je povinný obchodník s cennými papiermi identifikovať každú skupinu klientov, s ktorých potrebami, charakteristickými znakmi a cieľmi tento finančný nástroj nie je zlučiteľný; to neplatí, ak sa v rámci finančných nástrojov zohľadňujú faktory udržateľnosti. Ak obchodníci s cennými papiermi spolupracujú pri vytváraní finančného nástroja, postačuje identifikovať len jeden cieľový trh.
 
 (13) Obchodník s cennými papiermi, ktorý vytvára finančný nástroj distribuovaný prostredníctvom iného obchodníka s cennými papiermi, určí potreby a charakteristiky klientov, pre ktorých je finančný nástroj vhodný, na základe jeho teoretických vedomostí a skúseností s finančným nástrojom alebo podobnými finančnými nástrojmi, s finančnými trhmi a na základe potrieb, charakteristík a cieľov potenciálnych konečných klientov.
 
@@ -50,9 +50,11 @@
 
 (15) Obchodník s cennými papiermi je povinný určiť, či finančný nástroj spĺňa identifikované potreby, charakteristiky a ciele cieľového trhu, okrem iného tým, že skúma najmä tieto skutočnosti:
 
-- a) profil rizika a výnosu finančného nástroja je v súlade s cieľovým trhom a
+- a) profil rizika a výnosu finančného nástroja je v súlade s cieľovým trhom,
 
-- b) či z vytvorenia finančného nástroja má prospech klient a nie obchodný model, ktorého ziskovosť je založená na slabej výkonnosti finančného nástroja pre klienta.
+- b) či faktory udržateľnosti finančného nástroja, ak sú relevantné, zodpovedajú cieľovému trhu a
+
+- c) či z vytvorenia finančného nástroja má prospech klient a nie obchodný model, ktorého ziskovosť je založená na slabej výkonnosti finančného nástroja pre klienta.
 
 (16) Obchodník s cennými papiermi zváži štruktúru poplatkov navrhnutú pre vytváraný finančný nástroj, pričom skúma najmä, či
 
@@ -62,7 +64,7 @@
 
 - c) štruktúra poplatkov finančného nástroja je primerane prehľadná pre cieľový trh, najmä neskrýva poplatky alebo nie je príliš zložitá na pochopenie.
 
-(17) Obchodník s cennými papiermi je povinný preskúmavať finančné nástroje, ktoré vytvára, v pravidelných intervaloch, pričom berie do úvahy každú udalosť, ktorá by mohla významne ovplyvniť možné riziko pre identifikovaný cieľový trh, a musí zvážiť, či finančný nástroj stále spĺňa potreby, charakteristiky a ciele cieľového trhu, a či je distribuovaný na cieľovom trhu, alebo sa dostáva ku klientom, pre ktorých potreby, charakteristiky a ciele tento finančný nástroj nie je vhodný.
+(17) Obchodník s cennými papiermi je povinný preskúmavať finančné nástroje, ktoré vytvára, v pravidelných intervaloch, pričom berie do úvahy každú udalosť, ktorá by mohla významne ovplyvniť možné riziko pre identifikovaný cieľový trh, a musí zvážiť, či finančný nástroj stále spĺňa potreby, charakteristiky a ciele cieľového trhu vrátane akýchkoľvek cieľov súvisiacich s udržateľnosťou, a či je distribuovaný na cieľovom trhu, alebo sa dostáva ku klientom, s ktorých potrebami, charakteristickými znakmi a cieľmi tento finančný nástroj nie je zlučiteľný.
 
 (18) Obchodník s cennými papiermi je povinný preskúmavať finančný nástroj pred každým ďalším vydaním alebo opätovným uvedením na trh, ak si je vedomý akejkoľvek udalosti, ktorá by mohla podstatným spôsobom ovplyvniť možné riziko pre investorov a v pravidelných intervaloch posudzovať, či finančný nástroj napĺňa zamýšľané ciele. Obchodník s cennými papiermi je povinný určiť interval preskúmavania vytváraného finančného nástroja na základe podstatných faktorov, vrátane faktorov súvisiacich so zložitosťou alebo inovatívnym charakterom investičných stratégií. Obchodník s cennými papiermi je povinný identifikovať kľúčové udalosti, ktoré by mohli ovplyvniť možné riziko alebo očakávanú výnosnosť finančného nástroja, najmä
 
@@ -88,4 +90,4 @@
 
 - h) informovanie Národnej banky Slovenska.
 
-(20) Obchodník s cennými papiermi je povinný zabezpečiť, že poskytovanie informácií o finančnom nástroji distribútorom obsahuje informácie o vhodných spôsoboch distribúcie finančného nástroja, informácie o schvaľovacom procese finančného nástroja a informácie o posúdení cieľového trhu. Tieto informácie sú poskytované na primeranej úrovni, ktorá umožní distribútorom porozumieť finančnému nástroju, a tento správne odporučiť alebo predať.
+(20) Obchodník s cennými papiermi je povinný zabezpečiť, že poskytovanie informácií o finančnom nástroji distribútorom obsahuje informácie o vhodných spôsoboch distribúcie finančného nástroja, informácie o schvaľovacom procese finančného nástroja a informácie o posúdení cieľového trhu. Tieto informácie sú poskytované na primeranej úrovni, ktorá umožní distribútorom porozumieť finančnému nástroju, a tento správne odporučiť alebo predať. Faktory udržateľnosti finančného nástroja musia byť prezentované transparentným spôsobom a poskytovať distribútorom príslušné informácie na náležité zohľadnenie akýchkoľvek cieľov klienta alebo potenciálneho klienta súvisiacich s udržateľnosťou.
