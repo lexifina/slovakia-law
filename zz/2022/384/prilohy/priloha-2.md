@@ -1,0 +1,1 @@
+Príloha č. 2 k rozhodnutiu predsedu Národnej rady Slovenskej republiky č. 384/2022 Z. z. [LEHOTY na vykonanie volieb do orgánov samosprávy obcí 25. marca 2023](../assets/91ed26001589ca53853a0438556da6d7d86e02e7f443eca13140558758fc31c2.pdf)

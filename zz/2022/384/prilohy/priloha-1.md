@@ -1,0 +1,1 @@
+Príloha č. 1 k rozhodnutiu predsedu Národnej rady Slovenskej republiky č. 384/2022 Z. z. [ZOZNAM OBCÍ, v ktorých sa vyhlasujú voľby do orgánov samosprávy obcí na 25. marca 2023](../assets/35a2ac2265eb8f1ebfc3c29469d36c70ad3cd009c492d57ab5cf305d5391884a.pdf)
