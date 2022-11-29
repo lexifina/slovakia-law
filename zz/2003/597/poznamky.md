@@ -155,3 +155,5 @@
 - 26) § 2 písm. p) zákona č. 245/2008 Z. z.
 
 - 27) § 161l zákona č. 245/2008 Z. z. v znení zákona č. 273/2021 Z. z.
+
+- 28) § 161o až 161q zákona č. 245/2008 Z. z. v znení zákona č. 415/2021 Z. z.
