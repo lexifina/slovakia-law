@@ -76,6 +76,10 @@
 
 - 42b) § 179 ods. 1 písm. h) zákona č. 461/2003 Z. z. v znení zákona č. 183/2014 Z. z.
 
+- 42ba) Zákon č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratívnej záťaže využívaním informačných systémov verejnej správy a o zmene a doplnení niektorých zákonov (zákon proti byrokracii) v znení neskorších predpisov.
+
+- 42bb) Napríklad § 32a ods. 1 písm. a) šiesty bod zákona č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 548/2010 Z. z., § 24 ods. 1 zákona č. 221/2006 Z. z. v znení zákona č. 371/2013 Z. z.
+
 - 42c) § 2 zákona č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov v znení zákona č. 129/2010 Z. z.
 
 - 43) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.

@@ -52,7 +52,11 @@
 
 - d) Ústredie práce, sociálnych vecí a rodiny a úrad práce, sociálnych vecí a rodiny na účely posudzovania nároku na pomoc v hmotnej núdzi, a to k údajom podľa odseku 2 písm. f) až h) a m).
 
-(7) Sociálna poisťovňa poskytuje údaje podľa odseku 2 písm. f) až h), j) až m) a o) vrátane osobných údajov bez súhlasu dotknutých osôb ministerstvu, Ministerstvu financií Slovenskej republiky (ďalej len „ministerstvo financií“), Rade pre rozpočtovú zodpovednosť prostredníctvom Kancelárie Rady pre rozpočtovú zodpovednosť a Národnej banke Slovenska na štatistické a analytické účely.
+(7) Sociálna poisťovňa poskytuje údaje
+
+- a) podľa odseku 2 písm. f) až h), j) až m) a o) vrátane osobných údajov bez súhlasu dotknutých osôb ministerstvu, Ministerstvu financií Slovenskej republiky (ďalej len „ministerstvo financií“), Rade pre rozpočtovú zodpovednosť prostredníctvom Kancelárie Rady pre rozpočtovú zodpovednosť a Národnej banke Slovenska na štatistické a analytické účely,
+
+- b) z ponukového systému vrátane osobných údajov bez súhlasu dotknutých osôb na žiadosť orgánu verejnej moci podľa osobitného predpisu<sup>42ba</sup>) v rozsahu a na účel podľa osobitného predpisu.<sup>42bb</sup>)
 
 (8) Najneskôr pred predložením prvej ponuky podľa § 46 ods. 1 písm. a) alebo oznámenia podľa § 46 ods. 1 písm. b) poistiteľ zaeviduje do ponukového systému najnižšiu mesačnú sumu doživotného dôchodku bez zvyšovania dôchodku a bez pozostalostných dôchodkov, ktorú má poistiteľ záujem vyplácať.
 
