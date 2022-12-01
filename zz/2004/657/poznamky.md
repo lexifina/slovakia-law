@@ -2,6 +2,8 @@
 
 - 1a) § 6 ods. 1 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
 
+- 1b) § 2 ods. 1 písm. m) zákona č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko účinnej kombinovanej výroby a o zmene a doplnení niektorých zákonov v znení zákona č. 363/2022 Z. z.
+
 - 2) § 8 zákona č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení zákona č. 431/2004 Z. z.
 
 - 2a) § 43b a 43c zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 237/2000 Z. z.
@@ -42,6 +44,8 @@
 
 - 12ab) § 34 a 35 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení neskorších predpisov.
 
+- 12b) § 52 ods. 1 písm. l) zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení zákona č. 51/2018 Z. z.
+
 - 12c) § 2 ods. 2 písm. b) zákona č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko účinnej kombinovanej výroby a o zmene a doplnení niektorých zákonov.
 
 - 12d) § 2 ods. 2 písm. j) zákona č. 309/2009 Z. z.
@@ -56,7 +60,7 @@
 
 - 14) § 12 zákona č. 276/2001 Z. z. v znení zákona č. 442/2002 Z. z.
 
-- 14a) § 4 ods. 5 zákona č. 309/2009 Z. z.
+- 14a) Napríklad § 4 ods. 5, § 14h ods. 2 a 3 zákona č. 309/2009 Z. z. v znení neskorších predpisov.
 
 - 14b) § 2 ods. 7 zákona č. 555/2005 Z. z. o energetickej hospodárnosti budov a o zmene a doplnení niektorých zákonov v znení zákona č. 300/2012 Z. z.
 
@@ -71,6 +75,10 @@
 - § 43 až 51 Občianskeho zákonníka v znení neskorších predpisov.
 
 - 15a) § 30 ods. 1 písm. a) a c) zákona č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 15b) § 2 ods. 8 zákona č. 555/2005 Z. z. v znení neskorších predpisov.
+
+- 15c) § 3 ods. 1 zákona č. 555/2005 Z. z.
 
 - 16) § 415 až 459 Občianskeho zákonníka v znení neskorších predpisov.
 
