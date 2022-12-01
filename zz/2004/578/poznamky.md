@@ -12,8 +12,6 @@
 
 - 5) § 43 zákona č. 581/2004 Z. z.
 
-- 5b) Zákon č. 231/2019 Z. z. o výkone detencie a o zmene a doplnení niektorých zákonov.
-
 - 6) Napríklad zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 7) Napríklad Zákonník práce.
@@ -76,6 +74,8 @@
 
 - 14a) § 8 ods. 1 písm. a) zákona č. 579/2004 Z. z.
 
+- 14aa) § 3 ods. 2 zákona č. 231/2019 Z. z.
+
 - 14b) § 60 ods. 3 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
 - 15) § 13 ods. 4 písm. a) zákona č. 355/2007 Z. z.
@@ -89,6 +89,8 @@
 - Nariadenie Európskeho parlamentu a Rady (EÚ) 2018/1139 zo 4. júla 2018 o spoločných pravidlách v oblasti civilného letectva, ktorým sa zriaďuje Agentúra Európskej únie pre bezpečnosť letectva a ktorým sa menia nariadenia Európskeho parlamentu a Rady (ES) č. 2111/2005, (ES) č. 1008/2008, (EÚ) č. 996/2010, (EÚ) č. 376/2014 a smernice Európskeho parlamentu a Rady 2014/30/EÚ a 2014/53/EÚ a zrušujú nariadenia Európskeho parlamentu a Rady (ES) č. 552/2004 a (ES) č. 216/2008 a nariadenie Rady (EHS) č. 3922/91 (Ú. v. EÚ L 212, 22. 8. 2018).
 
 - 15c) CAT.POL.H.225 príloha IV nariadenia (EÚ) č. 965/2012.
+
+- 15d) § 3 ods. 2 zákona č. 231/2019 Z. z.
 
 - 16) Zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení zákona č. 432/2004 Z. z.
 
