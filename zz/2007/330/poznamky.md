@@ -102,6 +102,8 @@
 
 - 33ac) § 141 ods. 5 zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 395/2021 Z. z.
 
+- 33ad) § 3 ods. 1 písm. d) a k) a § 5 zákona č. 376/2022 Z. z. o profesionálnych náhradných rodičoch a o zmene a doplnení niektorých zákonov.
+
 - 33b) Čl. 13 Európskeho dohovoru o vzájomnej pomoci v trestných veciach (oznámenie č. 550/1992 Zb.).
 
 - 34) Zákon Slovenskej národnej rady č. 71/1992 Zb. o súdnych poplatkoch a poplatku za výpis z registra trestov v znení neskorších predpisov.

@@ -1,1 +1,1 @@
-Príloha č. 1 k zákonu č. 330/2007 Z. z. [Žiadosť](../assets/b4324332315c9cd94d54c57a1db1c4aa2397a0419c14a98eb2f826004329516b.pdf)
+Príloha č. 1 k zákonu č. 330/2007 Z. z. [Žiadosť](../assets/453bdda12f9d5e69ebfcdbd182f150b5af4bae01840c4fad7024b7c89ed19d19.pdf)
