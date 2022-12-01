@@ -132,6 +132,8 @@
 
 - 41) Zákon č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
 
+- 41c) § 8 ods. 3 zákona č. 376/2022 Z. z. o profesionálnych náhradných rodičoch a o zmene a doplnení niektorých zákonov.
+
 - 42) § 2 písm. c) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 43) Zákon č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
@@ -210,6 +212,10 @@
 
 - 66) Čl. 17 Dohovoru o ochrane detí a o spolupráci pri medzištátnych osvojeniach (oznámenie č. 380/2001 Z. z.).
 
+- 66a) § 3 ods. 1 písm. c) a § 4 zákona č. 376/2022 Z. z.
+
+- 66b) § 5 zákona č. 376/2022 Z. z.
+
 - 67) Napríklad zákon č. 36/2005 Z. z., Civilný sporový poriadok, Civilný mimosporový poriadok a Správny súdny poriadok.
 
 - 68) § 136 ods. 1 Zákonníka práce.
@@ -219,6 +225,8 @@
 - 69a) Zákon č. 345/2022 Z. z. o inšpekcii v sociálnych veciach a o zmene a doplnení niektorých zákonov.
 
 - 69b) Zákon č. 581/2004 Z. z. v znení neskorších predpisov.
+
+- 69c) § 7 zákona č. 376/2022 Z. z.
 
 - 70) Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
