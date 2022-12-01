@@ -2,7 +2,7 @@
 
 (1) Zdravotná poisťovňa je povinná zaslať do 20. augusta 2022 ministerstvu zdravotníctva na účel analýzy, výpočtu a aktualizácie prerozdeľovania poistného, údaje o
 
-- a) poskytnutí zdravotnej starostlivosti v zdravotníckom zariadení ústavnej zdravotnej starostlivosti,<sup>12</sup>) ktorého trvanie je najmenej dva po sebe nasledujúce dni, pričom prvý a posledný deň sa považuje za jeden deň (ďalej len „hospitalizácia“), poistencovi v období od 1. januára 2021 do 31. decembra 2021, ktorá bola zaevidovaná v účtovnej evidencii, v rozsahu
+- a) hospitalizácii poistenca v období od 1. januára 2021 do 31. decembra 2021, ktorá bola zaevidovaná v účtovnej evidencii, v rozsahu
 
   - 1. rodné číslo poistenca; ak ide o cudzinca, ktorý nemá pridelené rodné číslo, bezvýznamové identifikačné číslo a dátum narodenia,
 
@@ -22,7 +22,7 @@
 
   - 4. dátum vzniku poistného vzťahu so zdravotnou poisťovňou,
 
-- c) poistencoch, ktorým bola poskytnutá zdravotnícka pomôcka plne alebo čiastočne uhrádzaná na základe verejného zdravotného poistenia (ďalej len „uhrádzaná zdravotnícka pomôcka“) v období od 1. januára 2021 do 31. decembra 2021, zaevidovaná v účtovnej evidencii zdravotnej poisťovne, v rozsahu
+- c) poistencoch, ktorým bola poskytnutá uhrádzaná zdravotnícka pomôcka v období od 1. januára 2021 do 31. decembra 2021, zaevidovaná v účtovnej evidencii zdravotnej poisťovne, v rozsahu
 
   - 1. rodné číslo poistenca; ak ide o cudzinca, ktorý nemá pridelené rodné číslo, bezvýznamové identifikačné číslo a dátum narodenia,
 

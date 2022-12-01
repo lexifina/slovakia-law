@@ -6,9 +6,13 @@
 
 - a) celkovú sumu poistného, ktoré je platiteľ poistného podľa § 11 ods. 1 písm. a) až e) a ods. 2 povinný odviesť zdravotnej poisťovni podľa § 15 za rozhodujúce obdobie, vrátane preddavkov na poistné a poistného vyčíslených zdravotnou poisťovňou podľa § 20 ods. 3 a 4 za rozhodujúce obdobie (ďalej len „povinné poistné“), upravenú o sumu výsledku ročného zúčtovania poistného za rozhodujúce obdobie kalendárneho roka podľa evidencie zdravotnej poisťovne k 20. novembru kalendárneho roka nasledujúceho po rozhodujúcom období, ktorým je obdobie kalendárneho roka, za ktorý sa ročné prerozdeľovanie vykonáva; povinné poistné musí byť v evidencii zdravotnej poisťovne rozčlenené na preddavky na poistné a ročné zúčtovanie poistného a evidované podľa platiteľa poistného uvedeného v § 11 ods. 1 písm. a) až e) a ods. 2 a podľa rozhodujúceho obdobia, na ktoré sa vzťahuje,
 
-- b) počet poistencov zaradených do jednotlivých farmaceuticko-nákladových skupín podľa § 27b ods. 2 a 3 za rozhodujúce obdobie.
+- b) počet poistencov zaradených do jednotlivých farmaceuticko-nákladových skupín podľa § 27b ods. 2 a 3 za rozhodujúce obdobie,
 
-(3) Základom ročného prerozdeľovania poistného je 95 % povinného poistného podľa odseku 2 písm. a) po odpočítaní nadlimitnej sumy podľa § 27aa ods. 1 za všetkých poistencov zdravotnej poisťovne (ďalej len „základ ročného prerozdeľovania”).
+- c) počet poistencov zaradených do jednotlivých diagnosticko-nákladových skupín podľa § 27d ods. 4 a 5 za rozhodujúce obdobie,
+
+- d) počet poistencov zaradených do jednotlivých nákladových skupín zdravotníckych pomôcok podľa § 27e ods. 4 a 5 za rozhodujúce obdobie.
+
+(3) Základom ročného prerozdeľovania poistného je 96 % povinného poistného podľa odseku 2 písm. a) po odpočítaní nadlimitnej sumy podľa § 27aa ods. 1 za všetkých poistencov zdravotnej poisťovne (ďalej len „základ ročného prerozdeľovania”).
 
 (4) Štandardizovaný príjem na účely ročného prerozdeľovania na jedného prepočítaného poistenca (§ 28 ods. 1) je podiel celkového základu ročného prerozdeľovania a celkového počtu prepočítaných poistencov. Celkový základ ročného prerozdeľovania je súčet základov ročného prerozdeľovania za všetky zdravotné poisťovne. Celkový počet prepočítaných poistencov je súčet prepočítaných poistencov všetkých zdravotných poisťovní.
 
@@ -32,13 +36,17 @@
 
   - 2. počet poistencov podľa pohlavia a veku podľa odseku 2 písm. b) a odseku 12,
 
-  - 3. počet prepočítaných poistencov podľa § 28 ods. 1,
+  - 3. počet poistencov podľa odseku 2 písm. c),
 
-  - 4. počet poistencov s nenulovou nadlimitnou sumou podľa § 27aa ods. 1,
+  - 4. počet poistencov podľa odseku 2 písm. d),
 
-  - 5. celkovú sumu, ktorá predstavuje súčet nadlimitných súm za všetkých poistencov podľa štvrtého bodu,
+  - 5. počet prepočítaných poistencov podľa § 28 ods. 1,
 
-  - 6. celkové priemerné náklady na jedného poistenca (§ 27aa ods. 3),
+  - 6. počet poistencov s nenulovou nadlimitnou sumou podľa § 27aa ods. 1,
+
+  - 7. celkovú sumu, ktorá predstavuje súčet nadlimitných súm za všetkých poistencov podľa šiesteho bodu,
+
+  - 8. celkové priemerné náklady na jedného poistenca (§ 27aa ods. 3),
 
 - b) rozhodne o
 

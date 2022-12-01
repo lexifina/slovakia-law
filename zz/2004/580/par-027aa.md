@@ -20,7 +20,7 @@
 
 - c) výška skutočných nákladov zdravotnej poisťovne na zdravotnú starostlivosť na poistenca,
 
-- d) zaradenie poistenca do skupiny určenej indexom podľa § 28 ods. 3,
+- d) zaradenie poistenca do skupín určených indexom podľa § 28 ods. 3,
 
 - e) výška nadlimitnej sumy za poistenca,
 

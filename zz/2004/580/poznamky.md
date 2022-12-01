@@ -260,6 +260,8 @@
 
 - 53ae) § 67 ods. 6 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
+- 53af) § 20 ods. 1 písm. s) zákona č. 581/2004 Z. z.
+
 - 53ag) Čl. 4 ústavného zákona č. 493/2011 Z. z. o rozpočtovej zodpovednosti.
 
 - § 30aa ods. 21 zákona č. 523/2004 Z. z. v znení zákona č. 101/2022 Z. z.
@@ -301,6 +303,10 @@
 - 57a) § 61f ods. 8 zákona č. 581/2004 Z. z. v znení zákona č. 250/2011 Z. z.
 
 - 57aa) § 8 zákona č. 363/2011 Z. z. o rozsahu a podmienkach úhrady liekov, zdravotníckych pomôcok a dietetických potravín na základe verejného zdravotného poistenia a o zmene a doplnení niektorých zákonov.
+
+- 57ab) § 7 ods. 4 zákona č. 578/2004 Z. z.
+
+- 57ac) § 29 ods. 2 zákona č. 363/2011 Z. z.
 
 - 57b) § 61h zákona č. 581/2004 Z. z. v znení zákona č. 250/2011 Z. z.
 
