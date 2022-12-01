@@ -36,6 +36,10 @@
 
 - 14b) § 3 ods. 2 zákona č. 492/2009 Z. z.
 
+- 14ba) § 5 písm. l) zákona č. 179/2011 Z. z. o hospodárskej mobilizácii a o zmene a doplnení zákona č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu v znení neskorších predpisov.
+
+- 14bb) § 7 ods. 1 písm. l) zákona č. 523/2004 Z. z. v znení neskorších predpisov.
+
 - 14c) § 10 ods. 6 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
 
 - 15) § 4 ods. 4 zákona č. 523/2004 Z. z.
@@ -58,9 +62,7 @@
 
 - 24) Napríklad § 21 zákona č. 131/2002 Z. z.
 
-- 24a) § 6 ods. 1 a § 9 zákona č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení zákona č. 618/2004 Z. z.
-
-- 24b) § 6 ods. 2 a § 10 zákona č. 502/2001 Z. z. v znení zákona č. 618/2004 Z. z.
+- 24a) § 7 zákona č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 24c) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
@@ -86,9 +88,13 @@
 
 - 28aa) Napríklad zákon č. 381/2010 Z. z. o špecifických štátnych zárukách a o zmene a doplnení niektorých zákonov.
 
+- 28aaa) Zákon č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 28ab) Zákon č. 149/2020 Z. z. o mimoriadnych štátnych zárukách a o doplnení niektorých zákonov.
 
-- 28b) § 8 písm. d) zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+- 28ac) § 19 ods. 2 zákona č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov.
+
+- 28b) § 7 ods. 21 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 29a) § 45 až 62 zákona č. 492/2009 Z. z.
 
