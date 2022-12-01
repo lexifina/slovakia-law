@@ -30,6 +30,8 @@
 
 - 9) Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 9a) Zákon č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratívnej záťaže využívaním informačných systémov verejnej správy a o zmene a doplnení niektorých zákonov (zákon proti byrokracii) v znení neskorších predpisov.
+
 - 10) § 59 ods. 4 písm. b) zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení zákona č. 420/2019 Z. z.
 
 - 10a) § 10 Trestného poriadku.
