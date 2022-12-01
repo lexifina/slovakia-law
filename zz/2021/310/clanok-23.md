@@ -7,3 +7,19 @@ Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona �
 - 2. V § 23 ods. 3 písm. c) sa vypúšťajú slová „alebo kópiu rodného listu osoby staršej ako 80 rokov,“.
 
 - 3. V § 23 ods. 3 písm. d) sa vypúšťajú slová „kópiu sobášneho listu a“.
+
+- 4. V § 23 odsek 7 znie:
+
+- „(7)
+
+- Príslušný úrad poverený vedením matriky je povinný elektronicky oznámiť úradu<sup>13</sup>) úmrtie fyzickej osoby, ktoré mu nebolo oznámené úradom<sup>13</sup>) podľa osobitného predpisu,<sup>53af</sup>) alebo vyhlásenie za mŕtveho (§ 5 ods. 1) do desiatich dní od vykonania zápisu do knihy úmrtí.“.
+
+  - Poznámka pod čiarou k odkazu 53af znie:
+
+  - „<sup>53af</sup>) § 20 ods. 1 písm. s) zákona č. 581/2004 Z. z.“.
+
+- 5. V § 23 odsek 11 znie:
+
+- „(11)
+
+- Poistenec je povinný oznámiť príslušnej zdravotnej poisťovni skutočnosti podľa odseku 1 písm. e) od doručenia potvrdenia o tejto skutočnosti; fyzická osoba preukazuje invaliditu a percentuálnu mieru poklesu jej telesnej schopnosti, duševnej schopnosti alebo zmyslovej schopnosti rozhodnutím Sociálnej poisťovne alebo rozhodnutím útvaru sociálneho zabezpečenia podľa osobitného predpisu<sup>53ba</sup>) alebo rozhodnutím príslušného úradu.“.

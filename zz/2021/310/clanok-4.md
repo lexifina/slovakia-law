@@ -16,6 +16,12 @@ Zákon Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v zne
 
   - <sup>6ab</sup>) Príloha č. 1a zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov v znení zákona č. 310/2021 Z. z.“.
 
+- 3. V § 15 ods. 2 prvá veta znie: „Zápis úmrtia sa do knihy úmrtí vykoná na základe údajov poskytnutých Úradom pre dohľad nad zdravotnou starostlivosťou prostredníctvom informačného systému alebo prehliadajúcim lekárom neodkladne, najneskôr do troch pracovných dní po prehliadke mŕtveho.<sup>8a</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 8a znie:
+
+  - „<sup>8a</sup>) Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov.“.
+
 - 4. V § 27 ods. 1 sa vypúšťajú písmená a), c) a d).
 
   - Doterajšie písmená b), e) a f) sa označujú ako písmená a) až c).

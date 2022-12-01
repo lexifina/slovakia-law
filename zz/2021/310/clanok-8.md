@@ -11,3 +11,5 @@ Zákon č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a reg
 - 2. V § 3 ods. 8 písm. c) sa nad slovami „osobitného predpisu,“ odkaz „<sup>4e</sup>)“ nahrádza odkazom „<sup>4ca</sup>)“.
 
   - Poznámka pod čiarou k odkazu 4e sa vypúšťa.
+
+- 3. V § 7 ods. 2 písmeno a) znie: „a) ak budú naplnené podmienky podľa osobitného predpisu,<sup>4ca</sup>) právoplatné rozhodnutie súdu o rozvode manželstva, ak bolo manželstvo rozvedené,“.

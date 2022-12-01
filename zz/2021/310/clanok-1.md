@@ -4,6 +4,8 @@ Zákon č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratí
 
 - 1. V § 1 ods. 1 sa slová „v informačnom systéme podľa odseku 4“ nahrádzajú slovami „v informačných systémoch podľa odseku 4“.
 
+- 2. V § 1 ods. 3 písm. h) sa za slovami „dôchodkových dávok“ slovo „a“ nahrádza čiarkou a na konci sa pripájajú tieto slová: „a dôchodkov starobného dôchodkového sporenia“.
+
 - 3. V § 1 sa odsek 3 dopĺňa písmenami i) až k), ktoré znejú:
 
 - „i)
@@ -73,6 +75,32 @@ Zákon č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratí
   - <sup>3ch</sup>) § 12 ods. 3 písm. w) zákona č. 153/2013 Z. z. v znení zákona č. 310/2021 Z. z.
 
   - <sup>3ci</sup>) § 67 ods. 1 zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení zákona č. 96/2013 Z. z.“.
+
+- 5. V § 1 ods. 3 písm. k) sa slová „údaje o tom, či je vedené konkurzné konanie, či bol vyhlásený konkurz, či bola povolená reštrukturalizácia, či bol zrušený konkurz pre nedostatok majetku, alebo či bolo konkurzné konanie zastavené pre nedostatok majetku“ označujú ako prvý bod a dopĺňa sa druhý bod, ktorý znie:
+
+- „2.
+
+- právoplatné alebo vykonateľné rozhodnutie súdu vo veciach starostlivosti o maloletých, právoplatné rozhodnutie súdu o zverení maloletého do predosvojiteľskej starostlivosti, právoplatné rozhodnutie súdu o obmedzení alebo pozbavení spôsobilosti na právne úkony a s tým súvisiace rozhodnutie o určení opatrovníka, a to na účely rozhodovania štátneho orgánu o nároku na sociálne dávky.<sup>3cj</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 3cj znie:
+
+  - „<sup>3cj</sup>) Napríklad zákon č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov, zákon č. 627/2005 Z. z. o príspevkoch na podporu náhradnej starostlivosti o dieťa v znení neskorších predpisov, zákon č. 201/2008 Z. z. o náhradnom výživnom a o zmene a doplnení zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení nálezu Ústavného súdu Slovenskej republiky č. 615/2006 Z. z. v znení neskorších predpisov, zákon č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 561/2008 Z. z. o príspevku na starostlivosť o dieťa a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 571/2009 Z. z. o rodičovskom príspevku a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 383/2013 Z. z. o príspevku pri narodení dieťaťa a príspevku na viac súčasne narodených detí a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
+- 6. V § 1 sa odsek 3 dopĺňa písmenami o) a p), ktoré znejú:
+
+- „o)
+
+- register úmrtí fyzických osôb alebo vyhlásení za mŕtveho,<sup>3ck</sup>)
+
+- p)
+
+- informačný systém sociálnych služieb v časti týkajúcej sa registra poskytovateľov sociálnych služieb.<sup>3cl</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 3ck a 3cl znejú:
+
+  - „<sup>3ck</sup>) § 71 zákona č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+  - <sup>3cl</sup>) § 79 ods. 1 písm. h) zákona č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.“.
 
 - 8. V § 1 odsek 4 znie:
 

@@ -2,6 +2,26 @@
 
 Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení zákona č. 186/2004 Z. z., zákona č. 439/2004 Z. z., zákona č. 721/2004 Z. z., zákona č. 747/2004 Z. z., zákona č. 310/2006 Z. z., zákona č. 644/2006 Z. z., zákona č. 677/2006 Z. z., zákona č. 519/2007 Z. z., zákona č. 555/2007 Z. z., zákona č. 659/2007 Z. z., zákona č. 62/2008 Z. z., zákona č. 434/2008 Z. z., zákona č. 449/2008 Z. z., zákona č. 137/2009 Z. z., zákona č. 572/2009 Z. z., zákona č. 105/2010 Z. z., nálezu Ústavného súdu Slovenskej republiky č. 355/2010 Z. z., zákona č. 543/2010 Z. z., zákona č. 334/2011 Z. z., zákona č. 546/2011 Z. z., zákona č. 547/2011 Z. z., zákona č. 252/2012 Z. z., zákona č. 413/2012 Z. z., zákona č. 132/2013 Z. z., zákona č. 352/2013 Z. z., zákona č. 183/2014 Z. z., zákona č. 301/2014 Z. z., zákona č. 25/2015 Z. z., zákona č. 140/2015 Z. z., zákona č. 91/2016 Z. z., zákona č. 125/2016 Z. z., zákona č. 292/2016 Z. z., zákona č. 97/2017 Z. z., zákona č. 279/2017 Z. z., zákona č. 109/2018 Z. z., zákona č. 177/2018 Z. z., zákona č. 317/2018 Z. z., zákona č. 231/2019 Z. z., zákona č. 234/2019 Z. z., zákona č. 46/2020 Z. z., zákona č. 66/2020 Z. z., zákona č. 68/2020 Z. z., zákona č. 95/2020 Z. z., zákona č. 275/2020 Z. z. a zákona č. 296/2020 Z. z. sa mení takto:
 
+- 1. V § 46e odsek 7 znie:
+
+- „(7)
+
+- Sociálna poisťovňa poskytuje údaje
+
+- a)
+
+- podľa odseku 2 písm. f) až h), j) až m) a o) ministerstvu, Ministerstvu financií Slovenskej republiky (ďalej len „ministerstvo financií“) a Národnej banke Slovenska na štatistické a analytické účely,
+
+- b)
+
+- z ponukového systému vrátane osobných údajov bez súhlasu dotknutých osôb na žiadosť orgánu verejnej moci podľa osobitného predpisu<sup>42ba</sup>) v rozsahu a na účel podľa osobitného predpisu.<sup>42bb</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 42ba a 42bb znejú:
+
+  - „<sup>42ba</sup>) Zákon č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratívnej záťaže využívaním informačných systémov verejnej správy a o zmene a doplnení niektorých zákonov (zákon proti byrokracii) v znení neskorších predpisov.
+
+  - <sup>42bb</sup>) Napríklad § 32a ods. 1 písm. a) šiesty bod zákona č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 548/2010 Z. z., § 24 ods. 1 zákona č. 221/2006 Z. z. v znení zákona č. 371/2013 Z. z.“.
+
 - 2. V § 48 ods. 2 písm. a) sa slová „písm. k)“ nahrádzajú slovami „písm. j)“.
 
 - 3. V § 48 ods. 4 sa vypúšťa písmeno g).

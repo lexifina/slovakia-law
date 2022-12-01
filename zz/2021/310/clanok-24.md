@@ -2,6 +2,14 @@
 
 Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení zákona č. 719/2004 Z. z., zákona č. 353/2005 Z. z., zákona č. 538/2005 Z. z., zákona č. 660/2005 Z. z., zákona č. 282/2006 Z. z., zákona č. 522/2006 Z. z., zákona č. 12/2007 Z. z., zákona č. 215/2007 Z. z., zákona č. 309/2007 Z. z., zákona č. 330/2007 Z. z., zákona č. 358/2007 Z. z., zákona č. 530/2007 Z. z., zákona č. 594/2007 Z. z., zákona č. 232/2008 Z. z., zákona č. 297/2008 Z. z., zákona č. 461/2008 Z. z., zákona č. 581/2008 Z. z., zákona č. 192/2009 Z. z., zákona č. 533/2009 Z. z., zákona č. 121/2010 Z. z., zákona č. 34/2011 Z. z., zákona č. 79/2011 Z. z., zákona č. 97/2011 Z. z., zákona č. 133/2011 Z. z., zákona č. 250/2011 Z. z., zákona č. 362/2011 Z. z., zákona č. 547/2011 Z. z., zákona č. 185/2012 Z. z., zákona č. 313/2012 Z. z., zákona č. 421/2012 Z. z., zákona č. 41/2013 Z. z., zákona č. 153/2013 Z. z., zákona č. 220/2013 Z. z., zákona č. 338/2013 Z. z., zákona č. 352/2013 Z. z., zákona č. 185/2014 Z. z., zákona č. 77/2015 Z. z., zákona č. 140/2015 Z. z., zákona č. 265/2015 Z. z., zákona č. 429/2015 Z. z., zákona č. 91/2016 Z. z., zákona č. 125/2016 Z. z., zákona č. 286/2016 Z. z., zákona č. 315/2016 Z. z., zákona č. 317/2016 Z. z., zákona č. 356/2016 Z. z., zákona č. 41/2017 Z. z., zákona č. 238/2017 Z. z., zákona č. 257/2017 Z. z., zákona č. 266/2017 Z. z., zákona č. 336/2017 Z. z., zákona č. 351/2017 Z. z., zákona č. 87/2018 Z. z., zákona č. 109/2018 Z. z., zákona č. 156/2018 Z. z., zákona č. 177/2018 Z. z., zákona č. 192/2018 Z. z., zákona č. 345/2018 Z. z., zákona č. 351/2018 Z. z., zákona č. 35/2019 Z. z., zákona č. 139/2019 Z. z., zákona č. 221/2019 Z. z., zákona č. 231/2019 Z. z., zákona č. 398/2019 Z. z., zákona č. 125/2020 Z. z., zákona č. 264/2020 Z. z., zákona č. 392/2020 Z. z., zákona č. 81/2021 Z. z., zákona č. 133/2021 Z. z. a zákona č. 252/2021 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 20 sa odsek 1 dopĺňa písmenom s), ktoré znie:
+
+- „s)
+
+- poskytuje príslušnému úradu poverenému vedením matriky, národnému centru a Štatistickému úradu Slovenskej republiky informácie o úmrtí bezodkladne po prehliadke mŕtveho tela.“.
+
+- 2. V § 47b ods. 3 sa slová „vyplniť list o prehliadke mŕtveho tela a štatistické hlásenie o úmrtí“ nahrádzajú slovami „vyplniť elektronicky oznámenie o úmrtí“.
+
 - 3. V § 47b sa vypúšťa odsek 4.
 
   - Doterajšie odseky 5 až 7 sa označujú ako odseky 4 až 6.
