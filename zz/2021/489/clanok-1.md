@@ -168,6 +168,32 @@ Zákon č. 201/2008 Z. z. o náhradnom výživnom a o zmene a doplnení zákona 
 
 - 14. V § 11 ods. 4 druhej vete sa za slovo „údaje“ vkladá čiarka a vypúšťajú sa slová „o svojej osobe alebo o osobách, ktoré sa s ním spoločne posudzujú podľa § 3 a“.
 
+- 15. V § 11 odsek 4 znie:
+
+- „(4)
+
+- Žiadosť obsahuje meno, priezvisko, rodné číslo a trvalý pobyt oprávnenej osoby, európsky identifikátor judikatúry (ECLI) rozhodnutia súdu, na základe ktorého povinná osoba je povinná platiť výživné oprávnenej osobe, a ak žiadateľ o náhradné výživné nie je oprávnená osoba, žiadosť obsahuje aj meno, priezvisko, rodné číslo a trvalý pobyt žiadateľa o náhradné výživné. Na výzvu úradu žiadateľ o náhradné výživné doplní ďalšie údaje, ktoré sú nevyhnutné na konanie o náhradnom výživnom. Úrad osobné údaje môže spracúvať a sprístupňovať len na účel náhradného výživného.“.
+
+- 16. V § 11 sa za odsek 4 vkladá nový odsek 5, ktorý znie:
+
+- „(5)
+
+- Ak rozhodnutie súdu, na základe ktorého povinná osoba je povinná platiť výživné oprávnenej osobe, neobsahuje európsky identifikátor judikatúry (ECLI), žiadateľ alebo poberateľ náhradného výživného je povinný uviesť
+
+- a)
+
+- spisovú značku rozhodnutia,
+
+- b)
+
+- dátum vydania rozhodnutia a
+
+- c)
+
+- súd, ktorý rozhodnutie vydal.“.
+
+  - Doterajšie odseky 5 až 9 sa označujú ako odseky 6 až 10.
+
 - 17. V § 11 ods. 5 písmená a) až c) znejú:
 
 - „a)
@@ -185,6 +211,22 @@ Zákon č. 201/2008 Z. z. o náhradnom výživnom a o zmene a doplnení zákona 
 - 18. V § 11 sa vypúšťa odsek 6.
 
   - Doterajšie odseky 7 až 10 sa označujú ako odseky 6 až 9.
+
+- 19. V § 11 ods. 6 sa vypúšťa písmeno a).
+
+  - Doterajšie písmená b) až f) sa označujú ako písmená a) až e).
+
+- 20. V § 11 sa za odsek 6 vkladá nový odsek 7, ktorý znie:
+
+- „(7)
+
+- Povinnosť priložiť písomnosti podľa odseku 6 sa považuje za splnenú, ak možno údaje v nich obsiahnuté získať z informačných systémov podľa osobitného predpisu.<sup>9a</sup>)“.
+
+  - Doterajšie odseky 7 až 10 sa označujú ako odseky 8 až 11.
+
+  - Poznámka pod čiarou k odkazu 9a znie:
+
+  - „<sup>9a</sup>) Zákon č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratívnej záťaže využívaním informačných systémov verejnej správy a o zmene a doplnení niektorých zákonov (zákon proti byrokracii) v znení neskorších predpisov.“.
 
 - 21. V § 12 ods. 1 sa vkladá nové písmeno a), ktoré znie:
 
