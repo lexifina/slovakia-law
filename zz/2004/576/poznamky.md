@@ -1,7 +1,5 @@
 - 1) § 2 ods. 1 písm. b) zákona č. 579/2004 Z. z. o záchrannej zdravotnej službe a o zmene a doplnení niektorých zákonov.
 
-- 1a) Zákon č. 231/2019 Z. z. o výkone detencie a o zmene a doplnení niektorých zákonov.
-
 - 2) § 33 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov.
 
 - 2a) § 11 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
@@ -50,7 +48,7 @@
 
 - 5aa) § 5 ods. 3 zákona č. 184/1999 Z. z. o používaní jazykov národnostných menšín v znení zákona č. 204/2011 Z. z.
 
-- 6) § 72 Trestného zákona.
+- 6) § 73 a 81 Trestného zákona.
 
 - § 365 a 367 Civilného mimosporového poriadku.
 
@@ -99,6 +97,8 @@
 - 8ca) § 6 ods. 12 zákona č. 581/2004 Z. z. v znení neskorších predpisov.
 
 - 8d) § 5 ods. 1 písm. b) siedmy bod zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
+
+- 8da) § 17 ods. 1 zákona č. 231/2019 Z. z. o výkone detencie a o zmene a doplnení niektorých zákonov.
 
 - 8e) § 5 ods. 1 písm. b) deviaty bod zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
 
@@ -232,7 +232,9 @@
 
 - § 116 ods. 2 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 38a) § 14 ods. 4 zákona č. 73/1998 Z. z. v znení neskorších predpisov.
+- 38a) § 14 ods. 1 písm. d) a § 14a ods. 1 zákona č. 73/1998 Z. z. v znení neskorších predpisov.
+
+- 38aa) § 14a ods. 2 a § 223 ods. 1 zákona č. 73/1998 Z. z. v znení neskorších predpisov.
 
 - 38b) Zákon č. 281/2015 Z. z. o štátnej službe profesionálnych vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -273,6 +275,8 @@
 - 41b) § 6 zákona č. 129/2002 Z. z. o integrovanom záchrannom systéme v znení neskorších predpisov.
 
 - 42) § 17 zákona č. 581/2004 Z. z.
+
+- 42a) § 18 zákona č. 231/2019 Z. z.
 
 - 43) § 10 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v znení neskorších predpisov.
 
