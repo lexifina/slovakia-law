@@ -32,13 +32,15 @@
 
 - 12) Napríklad zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
-- 12a) § 2c zákona č. 291/2002 Z. z. v znení zákona č. 659/2005 Z. z.
+- 12a) § 6 ods. 8 zákona č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 12aa) Napríklad § 28 zákona č. 528/2008 Z. z. v znení neskorších predpisov, § 42 a 43 zákona č. 292/2014 Z. z. o príspevku poskytovanom z európskych štrukturálnych a investičných fondov a o zmene a doplnení niektorých zákonov.
 
 - 13) Nariadenie Rady (ES) č. 318/2006 z 20. februára 2006 o spoločnej organizácii trhov v sektore cukru v platnom znení (Ú. v. EÚ L 58, 28. 2. 2006).
 
 - 13a) Napríklad zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov.
+
+- 13aa) § 2c zákona č. 291/2002 Z. z. v znení neskorších predpisov.
 
 - 13ab) § 2 písm. c) zákona č. 526/2010 Z. z. o poskytovaní dotácií v pôsobnosti Ministerstva vnútra Slovenskej republiky v znení zákona č. 146/2017 Z. z.
 
