@@ -482,27 +482,23 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Oslobodenie
 
-      - 1. Od poplatku podľa písmena a) tejto položky sú oslobodení občania, ktorým sa vydáva občiansky preukaz z dôvodu dovŕšenia veku 15 rokov a občania, ktorým sa vydáva občiansky preukaz z dôvodu uplynutia jeho platnosti.
+      - 1. Od poplatku podľa písmena a) tejto položky je oslobodený občan podľa § 2 ods. 3 prvej vety zákona č. 395/2019 Z. z. o občianskych preukazoch a o zmene a doplnení niektorých zákonov (ďalej len „zákon č. 395/2019 Z. z.“), ktorému sa vydáva občiansky preukaz z dôvodu dovŕšenia veku 15 rokov a občan, ktorému sa vydáva občiansky preukaz z dôvodu uplynutia jeho platnosti.
 
-      - 2. Od poplatku podľa písmena a) tejto položky sú oslobodení občania, ktorým sa vydáva občiansky preukaz po zmene nezavinenej občanom alebo ak bola v občianskom preukaze zistená chyba zapríčinená výrobcom občianskeho preukazu alebo chyba zapríčinená útvarom Policajného zboru príslušným na vydávanie občianskych preukazov alebo zastupiteľským úradom Slovenskej republiky v zahraničí.
+      - 2. Od poplatku podľa písmena a) tejto položky je oslobodený občan, ktorému sa vydáva občiansky preukaz po zmene nezavinenej občanom alebo ak bola v občianskom preukaze zistená chyba zapríčinená výrobcom občianskeho preukazu alebo chyba zapríčinená útvarom Policajného zboru príslušným na vydávanie občianskych preukazov alebo zastupiteľským úradom Slovenskej republiky v zahraničí.
 
-      - 3. Od poplatku podľa písmena a) tejto položky sú oslobodení občania, ktorým sa vydáva občiansky preukaz za platný občiansky preukaz bez elektronického čipu.
+      - 3. Od poplatku podľa písmena a) tejto položky je oslobodený občan podľa § 2 ods. 3 prvej vety zákona č. 395/2019 Z. z., ktorému sa vydáva občiansky preukaz za platný občiansky preukaz bez elektronického čipu.
 
-      - 4. Od poplatku podľa písmena a) tejto položky sú oslobodení občania, ktorým sa vydáva občiansky preukaz za platný občiansky preukaz s elektronickým čipom, ak na elektronický čip nemožno zapísať údaje z dôvodu, že elektronický čip bez zavinenia občana nespĺňa podmienky na ich zápis podľa osobitných predpisov.<sup>16aa</sup>)
+      - 4. Od poplatku podľa písmena a) tejto položky je oslobodený občan podľa § 2 ods. 3 prvej vety zákona č. 395/2019 Z. z., ktorému sa vydáva občiansky preukaz po obmedzení spôsobilosti na právne úkony alebo po zrušení obmedzenia spôsobilosti na právne úkony.
 
-      - 5. Od poplatku podľa písmena a) tejto položky sú oslobodení občania, ktorým sa vydáva občiansky preukaz po obmedzení spôsobilosti na právne úkony, po zmene obmedzenia spôsobilosti na právne úkony alebo po navrátení spôsobilosti na právne úkony.
+      - 5. Od poplatku podľa písmena a) tejto položky je oslobodený občan podľa § 2 ods. 3 prvej vety zákona č. 395/2019 Z. z., ak existuje dôvod na oslobodenie od poplatku podľa písmena a) tejto položky a zároveň sa do občianskeho preukazu uvedie nový údaj alebo sa zmení alebo zruší v ňom uvedený údaj.
 
-      - 6. Od poplatku podľa písmena a) tejto položky sú oslobodení občania starší ako 15 rokov, ak existuje dôvod na oslobodenie od poplatku podľa písmena a) tejto položky a zároveň sa do občianskeho preukazu uvedú nové údaje alebo sa zmenia alebo zrušia v ňom uvedené údaje.
+      - 6. Od poplatku podľa písmen a) a c) tejto položky je oslobodený občan podľa § 2 ods. 3 prvej vety zákona č. 395/2019 Z. z. starší ako 60 rokov a občan, ktorý je držiteľom preukazu fyzickej osoby s ťažkým zdravotným postihnutím alebo preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom.
 
-      - 7. Od poplatku podľa písmen a) a c) tejto položky sú oslobodení občania starší ako 60 rokov, občania, ktorí sú držiteľmi preukazu fyzickej osoby s ťažkým zdravotným postihnutím a občania, ktorí sú držiteľmi preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom.
-
-      - 8. Od poplatku podľa písmena b) tejto položky sú oslobodení občania, ktorým sa vydáva občiansky preukaz z dôvodu straty alebo odcudzenia po uplynutí platnosti občianskeho preukazu, ktorý bol stratený alebo odcudzený.
-
-      - 9. Od poplatku podľa písmena c) tejto položky sú oslobodení občania, ktorým sa vydáva občiansky preukaz z dôvodu odcudzenia občianskeho preukazu, ak sa občianskeho preukazu zmocnila násilím iná osoba a táto skutočnosť bola ohlásená príslušnému útvaru Policajného zboru alebo príslušnému policajnému orgánu v krajine, kde sa udalosť stala.
+      - 7. Od poplatku podľa písmena c) tejto položky je oslobodený občan podľa § 2 ods. 3 prvej vety zákona č. 395/2019 Z. z., ktorému sa vydáva občiansky preukaz z dôvodu odcudzenia občianskeho preukazu, ak sa občianskeho preukazu zmocnila násilím iná osoba a táto skutočnosť bola ohlásená príslušnému útvaru Policajného zboru alebo príslušnému policajnému orgánu v krajine, kde sa udalosť stala.
 
     - Splnomocnenie
 
-      - 1. Správny orgán vyberie poplatok vo výške podľa písmena a) tejto položky za vydanie občianskeho preukazu s platnosťou na menej ako 10 rokov z dôvodu odcudzenia občianskeho preukazu, ak sa občianskeho preukazu zmocnila násilím iná osoba a táto skutočnosť bola ohlásená príslušnému útvaru Policajného zboru alebo príslušnému policajnému orgánu v krajine, kde sa udalosť stala.
+      - 1. Správny orgán vyberie poplatok vo výške podľa písmena a) tejto položky za vydanie občianskeho preukazu podľa § 2 ods. 3 druhej vety zákona č. 395/2019 Z. z. z dôvodu odcudzenia občianskeho preukazu, ak sa občianskeho preukazu zmocnila násilím iná osoba a táto skutočnosť bola ohlásená príslušnému útvaru Policajného zboru alebo príslušnému policajnému orgánu v krajine, kde sa udalosť stala.
 
       - 2. Správny orgán vyberie okrem poplatku podľa písmen a) až d) tejto položky poplatok vo výške 20 eur za urýchlené vydanie občianskeho preukazu do dvoch pracovných dní na žiadosť občana.
 
@@ -522,7 +518,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Splnomocnenie 1. Správny orgán vyberie poplatok podľa tejto položky vo výške dvojnásobku príslušnej sadzby pri prvej strate, odcudzení alebo poškodení cestovného dokladu v dobe jeho platnosti, vo výške päťnásobku príslušnej sadzby pri druhej strate, odcudzení alebo poškodení cestovného dokladu v dobe jeho platnosti opakovane v priebehu dvoch po sebe nasledujúcich rokov a vo výške desaťnásobku príslušnej sadzby pri tretej strate, odcudzení alebo poškodení cestovného dokladu v dobe jeho platnosti opakovane v priebehu dvoch po sebe nasledujúcich rokov; zvýšený správny poplatok sa nevyberie, ak by ku dňu podania žiadosti uplynula doba platnosti strateného alebo odcudzeného cestovného dokladu podľa § 22 písm. a) zákona č. 647/2007 Z. z. o cestovných dokladoch a o zmene a doplnení niektorých zákonov. Správny orgán zvýšený správny poplatok za odcudzenie cestovného dokladu nevyberie, ak sa cestovného dokladu zmocnila násilím iná osoba a táto skutočnosť bola ohlásená príslušnému útvaru Policajného zboru. 2. Správny orgán vyberie poplatok podľa tejto položky v základnej sadzbe, ak vydáva cestovný doklad na požiadanie občana z humanitných dôvodov. 3. Správny orgán vyberie za urýchlené vydanie cestovného dokladu na výslovnú žiadosť poplatníka poplatok podľa tejto položky vo výške trojnásobku príslušnej sadzby do dvoch pracovných dní a vo výške dvojnásobku príslušnej sadzby do desiatich pracovných dní. 4. Správny orgán vyberie poplatok podľa tejto položky vo výške polovice príslušnej sadzby, ak vydáva nový cestovný doklad ako náhradu za platný cestovný doklad pri zápise údaja o ťažkom zdravotnom postihnutí. |
 
-  - Oslobodenie 1. Od poplatku podľa písmen a) až d) tejto položky sú oslobodené osoby, ktorým sa vydáva cestovný doklad ako náhrada za platný cestovný doklad pri zmene nezavinenej občanom, alebo ak bola v cestovnom doklade zistená chyba zapríčinená výrobcom cestovného dokladu alebo chyba zapríčinená orgánom, ktorý cestovný doklad vydal. 2. Od poplatku podľa písmen a) až d) tejto položky sú oslobodené osoby, ktorým sa vydáva nový cestovný doklad ako náhrada za platný cestovný doklad pri obmedzení spôsobilosti na právne úkony alebo pozbavení spôsobilosti na právne úkony. | |
+  - Oslobodenie 1. Od poplatku podľa písmen a) až e) tejto položky sú oslobodené osoby, ktorým sa vydáva cestovný doklad ako náhrada za platný cestovný doklad pri zmene nezavinenej občanom, alebo ak bola v cestovnom doklade zistená chyba zapríčinená výrobcom cestovného dokladu alebo chyba zapríčinená orgánom, ktorý cestovný doklad vydal. 2. Od poplatku podľa písmen a) až d) tejto položky sú oslobodené osoby, ktorým sa vydáva nový cestovný doklad ako náhrada za platný cestovný doklad pri obmedzení spôsobilosti na právne úkony alebo pozbavení spôsobilosti na právne úkony. | |
 
     - Položka 24
 
@@ -6520,25 +6516,23 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Oslobodenie
 
-      - 1. Od poplatku podľa písmena a) tejto položky sú oslobodení občania, ktorým sa vydáva občiansky preukaz z dôvodu dovŕšenia veku 15 rokov a občania, ktorým sa vydáva občiansky preukaz z dôvodu uplynutia jeho platnosti.
+      - 1. Od poplatku podľa písmena a) tejto položky je oslobodený občan podľa § 2 ods. 3 prvej vety zákona č. 395/2019 Z. z., ktorému sa vydáva občiansky preukaz z dôvodu dovŕšenia veku 15 rokov a občania, ktorým sa vydáva občiansky preukaz z dôvodu uplynutia jeho platnosti.
 
-      - 2. Od poplatku podľa písmena a) tejto položky sú oslobodení občania, ktorým sa vydáva občiansky preukaz po zmene nezavinenej občanom alebo ak bola v občianskom preukaze zistená chyba zapríčinená výrobcom občianskeho preukazu alebo chyba zapríčinená útvarom Policajného zboru príslušným na vydávanie občianskych preukazov alebo zastupiteľským úradom Slovenskej republiky v zahraničí.
+      - 2. Od poplatku podľa písmena a) tejto položky je oslobodený občan, ktorému sa vydáva občiansky preukaz po zmene nezavinenej občanom alebo ak bola v občianskom preukaze zistená chyba zapríčinená výrobcom občianskeho preukazu alebo chyba zapríčinená útvarom Policajného zboru príslušným na vydávanie občianskych preukazov alebo zastupiteľským úradom Slovenskej republiky v zahraničí.
 
-      - 3. Od poplatku podľa písmena a) tejto položky sú oslobodení občania, ktorým sa vydáva občiansky preukaz za platný občiansky preukaz bez elektronického čipu.
+      - 3. Od poplatku podľa písmena a) tejto položky je oslobodený občan podľa § 2 ods. 3 prvej vety zákona č. 395/2019 Z. z., ktorému sa vydáva občiansky preukaz za platný občiansky preukaz bez elektronického čipu.
 
-      - 4. Od poplatku podľa písmena a) tejto položky sú oslobodení občania, ktorým sa vydáva občiansky preukaz po obmedzení spôsobilosti na právne úkony, po zmene obmedzenia spôsobilosti na právne úkony alebo po navrátení spôsobilosti na právne úkony.
+      - 4. Od poplatku podľa písmena a) tejto položky je oslobodený občan podľa § 2 ods. 3 prvej vety zákona č. 395/2019 Z. z., ktorému sa vydáva občiansky preukaz po obmedzení spôsobilosti na právne úkony alebo po zrušení obmedzenia spôsobilosti na právne úkony.
 
-      - 5. Od poplatku podľa písmena a) tejto položky sú oslobodení občania starší ako 15 rokov, ak existuje dôvod na oslobodenie od poplatku podľa písmena a) tejto položky a zároveň sa do občianskeho preukazu uvedú nové údaje alebo sa zmenia alebo zrušia v ňom uvedené údaje.
+      - 5. Od poplatku podľa písmena a) tejto položky je oslobodený občan podľa § 2 ods. 3 prvej vety zákona č. 395/2019 Z. z., ak existuje dôvod na oslobodenie od poplatku podľa písmena a) tejto položky a zároveň sa do občianskeho preukazu uvedie nový údaj alebo sa zmení alebo zruší v ňom uvedený údaj.
 
-      - 6. Od poplatku podľa písmen a) a c) tejto položky sú oslobodení občania starší ako 60 rokov, občania, ktorí sú držiteľmi preukazu fyzickej osoby s ťažkým zdravotným postihnutím a občania, ktorí sú držiteľmi preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom.
+      - 6. Od poplatku podľa písmen a) a c) tejto položky je oslobodený občan podľa § 2 ods. 3 prvej vety zákona č. 395/2019 Z. z. starší ako 60 rokov a občan, ktorý je držiteľom preukazu fyzickej osoby s ťažkým zdravotným postihnutím alebo preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom.
 
-      - 7. Od poplatku podľa písmena b) tejto položky sú oslobodení občania, ktorým sa vydáva občiansky preukaz z dôvodu straty alebo odcudzenia po uplynutí platnosti občianskeho preukazu, ktorý bol stratený alebo odcudzený.
-
-      - 8. Od poplatku podľa písmena c) tejto položky sú oslobodení občania, ktorým sa vydáva občiansky preukaz z dôvodu odcudzenia občianskeho preukazu, ak sa občianskeho preukazu zmocnila násilím iná osoba a táto skutočnosť bola ohlásená príslušnému útvaru Policajného zboru alebo príslušnému policajnému orgánu v krajine, kde sa udalosť stala.
+      - 7. Od poplatku podľa písmena c) tejto položky je oslobodený občan podľa § 2 ods. 3 prvej vety zákona č. 395/2019 Z. z., ktorému sa vydáva občiansky preukaz z dôvodu odcudzenia občianskeho preukazu, ak sa občianskeho preukazu zmocnila násilím iná osoba a táto skutočnosť bola ohlásená príslušnému útvaru Policajného zboru alebo príslušnému policajnému orgánu v krajine, kde sa udalosť stala.
 
     - Splnomocnenie
 
-      - Správny orgán vyberie poplatok vo výške podľa písmena a) tejto položky za vydanie občianskeho preukazu s platnosťou na menej ako 10 rokov z dôvodu odcudzenia občianskeho preukazu, ak sa občianskeho preukazu zmocnila násilím iná osoba a táto skutočnosť bola ohlásená príslušnému útvaru Policajného zboru alebo príslušnému policajnému orgánu v krajine, kde sa udalosť stala.
+      - Správny orgán vyberie poplatok vo výške podľa písmena a) tejto položky za vydanie občianskeho preukazu podľa § 2 ods. 3 druhej vety zákona č. 395/2019 Z. z. z dôvodu odcudzenia občianskeho preukazu, ak sa občianskeho preukazu zmocnila násilím iná osoba a táto skutočnosť bola ohlásená príslušnému útvaru Policajného zboru alebo príslušnému policajnému orgánu v krajine, kde sa udalosť stala.
 
     - Položka 259a
 
