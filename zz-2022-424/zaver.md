@@ -1,0 +1,1 @@
+Pavol Naď v. r.
