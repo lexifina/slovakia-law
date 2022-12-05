@@ -1,0 +1,1 @@
+Richard Sulík v. r.
