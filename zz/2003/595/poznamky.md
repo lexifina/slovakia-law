@@ -398,6 +398,8 @@
 
 - 79f) Zákon č. 385/2018 Z. z. o osobitnom odvode obchodných reťazcov a o doplnení zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
+- 79g) § 25a až 25k zákona č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov v znení zákona č. 433/2022 Z. z.
+
 - 80) Napríklad § 51, § 151n až 151r, § 659 až 662 a § 664 až 669 Občianskeho zákonníka v znení neskorších predpisov, § 6 zákona č. 116/1990 Zb. o nájme a podnájme nebytových priestorov.
 
 - 80a) Zákon č. 213/1997 Z. z. v znení neskorších predpisov.
@@ -501,6 +503,8 @@
 - 90a) § 2 zákona č. 582/2004 Z. z. o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady.
 
 - 90aa) Zákon č. 361/2014 Z. z. o dani z motorových vozidiel a o zmene a doplnení niektorých zákonov v znení zákona č. 253/2015 Z. z.
+
+- 90ab) Zákon č. 447/2015 Z. z. o miestnom poplatku za rozvoj a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 90b) § 55f zákona č. 222/2004 Z. z. v znení zákona č. 471/2009 Z. z.
 
