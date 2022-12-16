@@ -1,0 +1,1 @@
+Príloha č. 5 k vyhláške č. 451/2022 Z. z. [Bilancia prepravných kapacít prevádzkovateľa prepravnej siete na vstupe do prepravnej siete](../assets/3e9ea0efcf02ecd561797ed74076ffaf297cb426650c11b5bd7948f93e07386a.pdf)

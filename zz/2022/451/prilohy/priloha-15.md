@@ -1,0 +1,1 @@
+Príloha č. 15 k vyhláške č. 451/2022 Z. z. [Prehľad o hmotnom majetku a nehmotnom majetku využívanom na distribúciu plynu a odpisoch](../assets/3b9501229dbec661eb27e7c738d71affe425050521be9d583c8231d81998c5fa.pdf)

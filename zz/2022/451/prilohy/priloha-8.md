@@ -1,0 +1,1 @@
+Príloha č. 8 k vyhláške č. 451/2022 Z. z. [Údaje o plánovaných nákladoch a skutočných nákladoch projektu výskumu a vývoja](../assets/d5b3f5923ad2177479aabf2c2fce54c324b2310740da99c3e270c6e5686f9a27.pdf)
