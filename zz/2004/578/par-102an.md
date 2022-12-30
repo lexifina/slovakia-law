@@ -8,4 +8,4 @@
 
 (4) Národné centrum je povinné do 30. júna 2022 zapracovať údaje z Centrálneho registra zdravotníckych pracovníkov v ďalšom vzdelávaní do Národného registra zdravotníckych pracovníkov.<sup>72aa</sup>)
 
-(5) Vzdelávacia ustanovizeň je povinná poskytovať do Národného registra zdravotníckych pracovníkov<sup>72aa</sup>) chýbajúce údaje a doklady účastníkov akreditovaného programu podľa § 40 ods. 12 písm. b) v rozsahu Centrálneho registra zdravotníckych pracovníkov v ďalšom vzdelávaní podľa § 92a ods. 3 do 31. decembra 2022.
+(5) Vzdelávacia ustanovizeň je povinná poskytovať do Národného registra zdravotníckych pracovníkov<sup>72aa</sup>) chýbajúce údaje a doklady účastníkov akreditovaného programu podľa § 40 ods. 12 písm. b) v rozsahu Centrálneho registra zdravotníckych pracovníkov v ďalšom vzdelávaní podľa § 92a ods. 3 do 31. decembra 2023.
