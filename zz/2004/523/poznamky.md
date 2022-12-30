@@ -254,6 +254,10 @@
 
 - 42abd) Čl. 5 ods. 4 až 8, čl. 12 ods. 3 až 7 a čl. 13 ústavného zákona č. 493/2011 Z. z.
 
+- 42abe) Nariadenie (ES) č. 1466/97 v platnom znení.
+
+- Nariadenie (ES) č. 1467/97 v platnom znení.
+
 - 42ac) Čl. 3 ods. 1 písm. b) Zmluvy o stabilite, koordinácii a správe v hospodárskej a menovej únii medzi Belgickým kráľovstvom, Bulharskou republikou, Dánskym kráľovstvom, Spolkovou republikou Nemecko, Estónskou republikou, Írskom, Helénskou republikou, Španielskym kráľovstvom, Francúzskou republikou, Talianskou republikou, Cyperskou republikou, Lotyšskou republikou, Litovskou republikou, Luxemburským veľkovojvodstvom, Maďarskom, Maltou, Holandským kráľovstvom, Rakúskou republikou, Poľskou republikou, Portugalskou republikou, Rumunskom, Slovinskou republikou, Slovenskou republikou, Fínskou republikou a Švédskym kráľovstvom (oznámenie Ministerstva zahraničných vecí a európskych záležitostí Slovenskej republiky č. 18/2013 Z. z.).
 
 - Nariadenie (ES) č. 1466/97 v platnom znení.
