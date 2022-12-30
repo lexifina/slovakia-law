@@ -10,7 +10,7 @@
 
 - 4c) Príloha č. 4 k zákonu č. 461/2003 Z. z. v znení zákona č. 310/2006 Z. z.
 
-- 5) § 10 ods. 1 a 6 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 5) Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 6) § 30 ods. 2 zákona č. 312/2001 Z. z. v znení neskorších predpisov.
 
