@@ -506,6 +506,8 @@
 
 - 90ab) Zákon č. 447/2015 Z. z. o miestnom poplatku za rozvoj a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 90ac) Zákon č. 519/2022 Z. z. o solidárnom príspevku z činností v odvetviach ropy, zemného plynu, uhlia a rafinérií a o doplnení niektorých zákonov.
+
 - 90b) § 55f zákona č. 222/2004 Z. z. v znení zákona č. 471/2009 Z. z.
 
 - 91) § 642 až 651 Obchodného zákonníka.
