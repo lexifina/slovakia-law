@@ -357,3 +357,5 @@
 - 75) Čl. 16 ods. 1 nariadenia č. 883/2004 v platnom znení.
 
 - 76) § 29 ods. 2 zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+
+- 77) § 102at zákona č. 578/2004 Z. z. v znení zákona č. 518/2022 Z. z.
