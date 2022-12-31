@@ -477,3 +477,5 @@
 - 137) § 49 ods. 3 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
 - § 21 zákona č. 67/2020 Z. z.
+
+- 138) § 102at zákona č. 578/2004 Z. z. v znení zákona č. 518/2022 Z. z.
