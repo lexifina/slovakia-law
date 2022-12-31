@@ -3,3 +3,57 @@
 Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 720/2004 Z. z., zákona č. 351/2005 Z. z., zákona č. 538/2005 Z. z., zákona č. 282/2006 Z. z., zákona č. 527/2006 Z. z., zákona č. 673/2006 Z. z., zákona č. 18/2007 Z. z., zákona č. 272/2007 Z. z., zákona č. 330/2007 Z. z., zákona č. 464/2007 Z. z., zákona č. 653/2007 Z. z., zákona č. 206/2008 Z. z., zákona č. 284/2008 Z. z., zákona č. 447/2008 Z. z., zákona č. 461/2008 Z. z., zákona č. 560/2008 Z. z., zákona č. 192/2009 Z. z., zákona č. 214/2009 Z. z., zákona č. 8/2010 Z. z., zákona č. 133/2010 Z. z., zákona č. 34/2011 Z. z., zákona č. 250/2011 Z. z., zákona č. 362/2011 Z. z., zákona č. 390/2011 Z. z., zákona č. 512/2011 Z. z., nálezu Ústavného súdu Slovenskej republiky č. 5/2012 Z. z., zákona č. 185/2012 Z. z., zákona č. 313/2012 Z. z., zákona č. 324/2012 Z. z., zákona č. 41/2013 Z. z., zákona č. 153/2013 Z. z., zákona č. 204/2013 Z. z., zákona č. 220/2013 Z. z., zákona č. 365/2013 Z. z., zákona č. 185/2014 Z. z., zákona č. 333/2014 Z. z., zákona č. 53/2015 Z. z., zákona č. 77/2015 Z. z., zákona č. 393/2015 Z. z., zákona č. 422/2015 Z. z., zákona č. 428/2015 Z. z., zákona č. 91/2016 Z. z., zákona č. 125/2016 Z. z., zákona č. 167/2016 Z. z., zákona č. 317/2016 Z. z., zákona č. 356/2016 Z. z., zákona č. 41/2017 Z. z., zákona č. 92/2017 Z. z., zákona č. 257/2017 Z. z., zákona č. 336/2017 Z. z., zákona č. 351/2017 Z. z., zákona č. 4/2018 Z. z., zákona č. 87/2018 Z. z., zákona č. 109/2018 Z. z., zákona č. 156/2018 Z. z., zákona č. 177/2018 Z. z., zákona č. 192/2018 Z. z., zákona č. 270/2018 Z. z., zákona č. 351/2018 Z. z., zákona č. 374/2018 Z. z., zákona č. 139/2019 Z. z., zákona č. 212/2019 Z. z., zákona č. 231/2019 Z. z., zákona č. 383/2019 Z. z., zákona č. 398/2019 Z. z., zákona č. 467/2019 Z. z., zákona č. 125/2020 Z. z., zákona č. 158/2020 Z. z., zákona č. 243/2020 Z. z., zákona č. 319/2020 Z. z., zákona č. 346/2020 Z. z., nálezu Ústavného súdu Slovenskej republiky č. 347/2020 Z. z., zákona č. 392/2020 Z. z., zákona č. 393/2020 Z. z., zákona č. 9/2021 Z. z., zákona č. 133/2021 Z. z., zákona č. 213/2021 Z. z., zákona č. 252/2021 Z. z., zákona č. 264/2021 Z. z., zákona č. 310/2021 Z. z., zákona č. 540/2021 Z. z., zákona č. 2/2022 Z. z., zákona č. 67/2022 Z. z., zákona č. 92/2022 Z. z., zákona č. 266/2022 Z. z., zákona č. 267/2022 Z. z., zákona č. 341/2022 Z. z., zákona č. 390/2022 Z. z., zákona č. 419/2022 Z. z. a zákona č. 495/2022 Z. z. sa mení a dopĺňa takto:
 
 - 36. V § 102an ods. 5 sa slová „do 31. decembra 2022“ nahrádzajú slovami „do 31. decembra 2023“.
+
+- 38. Za § 102as sa vkladá § 102at, ktorý vrátane nadpisu znie:
+
+- „§ 102at
+
+- Prechodné ustanovenia účinné od 31. decembra 2022
+
+- (1)
+
+- Ak v odseku 2 nie je ustanovené inak, zdravotníckemu pracovníkovi podľa § 27 ods. 1 písm. c) až v) a ods. 2 patrí stabilizačný príspevok vo výške 5 000 eur, ak
+
+- a)
+
+- jeho pracovný pomer u poskytovateľa, ktorý prevádzkuje zdravotnícke zariadenie podľa § 7 ods. 3 písm. a) štvrtého bodu a ods. 4 písm. a) až g), začal do 22. novembra 2022 a vykonáva zdravotnícke povolanie v tomto zdravotníckom zariadení,
+
+- b)
+
+- mu neplynie výpovedná doba,
+
+- c)
+
+- uzatvoril do 19. decembra 2022 dohodu o poskytnutí stabilizačného príspevku podľa uznesenia vlády Slovenskej republiky, ktorým schválila finančné prostriedky na stabilizáciu zdravotníckych pracovníkov v rámci ústavnej zdravotnej starostlivosti a ambulancií záchrannej zdravotnej služby prostredníctvom stabilizačného príspevku, a
+
+- d)
+
+- zaviaže sa zotrvať v pracovnom pomere u toho istého poskytovateľa v zdravotníckom zariadení podľa § 7 ods. 3 písm. a) štvrtého bodu a ods. 4 písm. a) až g) po dobu troch rokov od uzatvorenia dohody o poskytnutí stabilizačného príspevku.
+
+- (2)
+
+- Ak je zdravotnícky pracovník v pracovnom pomere u poskytovateľa podľa odseku 1 písm. a) na kratší ako ustanovený týždenný pracovný čas, patrí mu stabilizačný príspevok v alikvotnej čiastke v rozsahu jeho pracovného úväzku.
+
+- (3)
+
+- Stabilizačný príspevok vyplatí zdravotníckemu pracovníkovi poskytovateľ do 31. januára 2023.
+
+- (4)
+
+- Do doby zotrvania zdravotníckeho pracovníka v pracovnom pomere podľa odseku 1 sa nezapočítava doba
+
+- a)
+
+- trvania dlhodobej pracovnej neschopnosti a ošetrovania člena rodiny, ak presiahnu dobu 45 dní úhrnne,
+
+- b)
+
+- materskej dovolenky, otcovskej dovolenky a rodičovskej dovolenky,
+
+- c)
+
+- neprítomnosti v práci z dôvodu výkonu nepodmienečného trestu odňatia slobody alebo výkonu väzby.
+
+- (5)
+
+- Zdravotnícky pracovník je povinný vrátiť alikvotnú časť stabilizačného príspevku za podmienok ustanovených v dohode o poskytnutí stabilizačného príspevku.“.
