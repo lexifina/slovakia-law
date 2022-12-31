@@ -68,13 +68,11 @@
 
 - Nariadenie Komisie (ES) č. 1126/2008 z 3. novembra 2008, ktorým sa v súlade s nariadením Európskeho parlamentu a Rady (ES) č. 1606/2002 prijímajú určité medzinárodné účtovné štandardy (Ú. v. EÚ L 320, 29. 11. 2008) v platnom znení.
 
-- 22aa) § 25 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
-
 - 22aaa) Zákon Národnej rady Slovenskej republiky č. 258/1993 Z. z. o Železniciach Slovenskej republiky v znení neskorších predpisov.
 
 - 22ab) Napríklad § 17 ods.1 písm. c) zákona č. 595/2003 Z. z. v znení zákona č. 534/2005 Z. z., Obchodný zákonník.
 
-- 22ac) Medzinárodný účtovný štandard 27 bod 38, Medzinárodné účtovné štandardy 28 a 31, nariadenie (ES) č. 1126/2008 v platnom znení.
+- 22ac) Medzinárodný účtovný štandard 27 bod 38, Medzinárodné účtovné štandardy 28 a 31 Prílohy k nariadeniu (ES) č. 1126/2008 v platnom znení.
 
 - 22ad) Zákon č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -135,6 +133,8 @@
 - 29b) Napríklad zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 258/1993 Z. z. v znení neskorších predpisov.
 
 - 29ba) § 5 zákona č. 523/2004 Z. z.
+
+- 29bb) Zákon č. 243/2017 Z. z. o verejnej výskumnej inštitúcii a o zmene a doplnení niektorých zákonov v znení zákona č. 346/2021 Z. z.
 
 - 29c) § 2 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 

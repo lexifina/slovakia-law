@@ -16,7 +16,7 @@
 
 (3) Účtovná jednotka okrem účtovnej jednotky podľa odseku 1 sa môže rozhodnúť zostavovať individuálnu účtovnú závierku podľa osobitných predpisov,<sup>22a</sup>) ak
 
-- a) v účtovnom období emitovala cenné papiere a tieto boli prijaté na obchodovanie na regulovanom trhu,<sup>22aa</sup>) alebo
+- a) v účtovnom období emitovala cenné papiere a tieto boli prijaté na obchodovanie na regulovanom trhu členského štátu, alebo
 
 - b) je platobnou inštitúciou,<sup>22ad</sup>) inštitúciou elektronických peňazí, obchodníkom s cennými papiermi, pobočkou zahraničného obchodníka s cennými papiermi a nie je súčasne bankou, pobočkou zahraničnej banky, správcovskou spoločnosťou alebo pobočkou zahraničnej správcovskej spoločnosti, alebo
 
