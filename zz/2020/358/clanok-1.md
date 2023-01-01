@@ -214,6 +214,12 @@ Zákon č. 443/2010 Z. z. o dotáciách na rozvoj bývania a o sociálnom bývan
 
 - 25. V § 11 ods. 1 písm. c) a ods. 3 sa slovo „oprávnený“ nahrádza slovom „obstarávací“.
 
+- 26. V § 11 sa odsek 1 dopĺňa písmenom e), ktoré znie:
+
+- „e)
+
+- z celkového počtu obstarávaných nájomných bytov v bytovej budove alebo v nebytovej budove, ktorá má zriadený výťah, minimálne 15 % bytov je navrhnutých univerzálne z hľadiska stavebných konštrukcií, a to tak, aby ich mohli využívať osoby so zdravotným postihnutím bez dodatočných úprav týchto konštrukcií; podrobnosti univerzálneho navrhovania ustanoví ministerstvo všeobecne záväzným právnym predpisom.“.
+
 - 27. § 11 sa dopĺňa odsekom 4, ktorý znie:
 
 - „(4)
