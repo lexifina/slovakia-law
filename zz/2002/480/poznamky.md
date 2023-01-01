@@ -44,8 +44,6 @@
 
 - 11ab) § 2 písm. a) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 11ac) § 3 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 11ad) Zákon Národnej rady Slovenskej republiky č. 199/1994 Z. z. o psychologickej činnosti a Slovenskej komore psychológov v znení zákona č. 578/2004 Z. z.
 
 - 11ae) Zákon č. 219/2014 Z. z. o sociálnej práci a o podmienkach na výkon niektorých odborných činností v oblasti sociálnych vecí a rodiny a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -53,8 +51,6 @@
 - 11af) § 19 vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 585/2008 Z. z., ktorou sa ustanovujú podrobnosti o prevencii a kontrole prenosných ochorení.
 
 - 11b) § 18 vyhlášky č. 585/2008 Z. z.
-
-- 11c) § 3 ods. 3 písm. a) zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
 - 12) Napríklad Zákonník práce.
 
@@ -93,6 +89,8 @@
 - Nariadenie Európskeho parlamentu a Rady (EÚ) č. 604/2013 z 26. júna 2013, ktorým sa stanovujú kritériá a mechanizmy na určenie členského štátu zodpovedného za posúdenie žiadosti o medzinárodnú ochranu podanej štátnym príslušníkom tretej krajiny alebo osobou bez štátnej príslušnosti v jednom z členských štátov (prepracované znenie) (Ú. v. EÚ L 180, 29. 6. 2013).
 
 - 21) § 83 ods. 1 zákona č. 404/2011 Z. z. v znení zákona č. 75/2013 Z. z.
+
+- 21a) § 9h ods. 2 písm. d) zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 22) Zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
