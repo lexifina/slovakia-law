@@ -96,6 +96,8 @@
 
 - 28b) § 7 ods. 21 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
+- 28c) § 22a zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+
 - 29a) § 45 až 62 zákona č. 492/2009 Z. z.
 
 - 29b) § 91 a 92 zákona č. 483/2001 Z. z. v znení neskorších predpisov.

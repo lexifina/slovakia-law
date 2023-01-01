@@ -34,4 +34,4 @@
 
 - n) môže určiť priority realizácie výdavkov klienta uvedeného v § 2a ods. 1 písm. a) v prípade nesúladu medzi príjmami štátneho rozpočtu a výdavkami štátneho rozpočtu.
 
-(2) Usporiadanie, obsahové vymedzenie, spôsob, termín a miesto predkladania informácií z účtovníctva a údajov potrebných na účely hodnotenia plnenia rozpočtu verejnej správy predkladaných subjektmi verejnej správy ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.
+(2) Ministerstvo zostavuje súbory údajov z účtovných výkazov a údajov potrebných na účely hodnotenia plnenia rozpočtu verejnej správy predkladaných subjektom verejnej správy. Na účel zostavenia súborov údajov podľa prvej vety je subjekt verejnej správy povinný predkladať ministerstvu údaje podľa prvej vety. Usporiadanie, obsahové vymedzenie, spôsob, termín a miesto predkladania informácií z účtovníctva a údajov potrebných na účely hodnotenia plnenia rozpočtu verejnej správy predkladaných subjektmi verejnej správy ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.
