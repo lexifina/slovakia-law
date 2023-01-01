@@ -1,0 +1,1 @@
+Príloha č. 4 k zákonu č. 526/2022 Z. z. [Výdavky štátneho rozpočtu na realizáciu programov vlády SR a častí programov vlády SR na rok 2023](../assets/803a568621c73bdace1c54497c3537cd79bad52508b7ff9680117fb7d3803a32.pdf)
