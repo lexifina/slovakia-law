@@ -16,6 +16,8 @@
 
 - 5) § 19 ods. 1 zákona č. 595/2003 Z. z. o dani z príjmov.
 
+- 5a) § 1 ods. 2 zákona č. 243/2017 Z. z. o verejnej výskumnej inštitúcii a o zmene a doplnení niektorých zákonov.
+
 - 6) § 27 až 31 Zákonníka práce.
 
 - 7) Zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
