@@ -1,1 +1,1 @@
-Príloha k vyhláške č. 396/2018 Z. z. [Príloha k vyhláške č 396/2018 Z. z.](../assets/4217af156a4f7c4aacf0fdfb9ff0c6f82cae0db672347ee3daf5154ccce9dbb6.pdf)
+Príloha k vyhláške č. 396/2018 Z. z. [Príloha k vyhláške č 396/2018 Z. z.](../assets/0fa5a82c50d89502af744e84a13948d387ce44e928719c569b6b9743db93e523.pdf)
