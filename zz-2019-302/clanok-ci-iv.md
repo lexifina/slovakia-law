@@ -1,0 +1,3 @@
+# ČI. IV
+
+Tento zákon nadobúda účinnosť 1. decembra 2019 okrem čl. III § 103 ods. 1 až 20 v bode 5, bodov 6, 7, 8 a 9, ktoré nadobúdajú účinnosť 1. januára 2020, čl. III bodu 2 a § 103 ods. 22 v bode 5, ktoré nadobúdajú účinnosť 1. januára 2021, čl. III § 103 odseku 21 v bode 5, ktorý nadobúda účinnosť 1. júla 2021, čl. I § 3, § 4 ods. 1 písm. a) až c), f) až h), § 5 ods. 1 písm. a) až c), f) až j), § 6 ods. 10, § 7 ods. 1 písm. c), d), g), i), n), q) až s) a čl. III bodov 1, 3, 4, ktoré nadobúdajú účinnosť 1. januára 2022 a okrem čl. III § 103 ods. 23 v bode 5, ktorý nadobúda účinnosť 1. januára 2023.
