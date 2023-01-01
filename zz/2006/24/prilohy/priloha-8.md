@@ -246,7 +246,7 @@ Príloha č. 8 k zákonu č. 24/2006 Z. z.
 
     - Ministerstvo hospodárstva Slovenskej republiky pre položky č. 1, 13, 14, 15
 
-    - Ministerstvo dopravy, výstavby a regionálneho rozvoja Slovenskej republiky pre položku č. 16
+    - Úrad pre územné plánovanie a výstavbu Slovenskej republiky pre položku č. 16
 
     - Ministerstvo zdravotníctva Slovenskej republiky pre položku č. 17
 
@@ -382,7 +382,7 @@ Príloha č. 8 k zákonu č. 24/2006 Z. z.
 
     - Rezortný orgán:
 
-    - Ministerstvo dopravy, výstavby a regionálneho rozvoja Slovenskej republiky pre položky č. 1 – 15
+    - Ministerstvo dopravy Slovenskej republiky pre položky 1 – 15
 
     - Ministerstvo životného prostredia Slovenskej republiky pre položku č. 10
 
@@ -428,7 +428,7 @@ Príloha č. 8 k zákonu č. 24/2006 Z. z.
 
     - Ministerstvo školstva, vedy, výskumu a športu Slovenskej republiky
 
-    - Ministerstvo dopravy, výstavby a regionálneho rozvoja Slovenskej republiky
+    - Úrad pre územné plánovanie a výstavbu Slovenskej republiky
 
   - Pol. číslo | Činnosti, objekty a zariadenia | Prahové hodnoty |
 
