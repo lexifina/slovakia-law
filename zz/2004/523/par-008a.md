@@ -14,7 +14,7 @@
 
 - c) nie je voči nemu vedený výkon rozhodnutia,<sup>14</sup>)
 
-- d) neporušil v predchádzajúcich troch rokoch zákaz nelegálneho zamestnávania podľa osobitného predpisu,<sup>14b</sup>)
+- d) mu nebola v predchádzajúcich troch rokoch uložená pokuta za porušenie zákazu nelegálneho zamestnávania podľa osobitného predpisu,<sup>14b</sup>)
 
 - e) nemá evidované nedoplatky na poistnom na sociálne poistenie a zdravotná poisťovňa neeviduje voči nemu pohľadávky po splatnosti podľa osobitných predpisov,<sup>14baa</sup>)
 
@@ -30,7 +30,7 @@
 
 - b) čestným vyhlásením žiadateľa, že voči nemu nie je vedený výkon rozhodnutia, ak ide o splnenie podmienky podľa odseku 4 písm. c),
 
-- c) potvrdením príslušného inšpektorátu práce<sup>14c</sup>) nie starším ako tri mesiace, že neporušil zákaz nelegálneho zamestnávania podľa osobitného predpisu,<sup>14b</sup>) ak ide o splnenie podmienky podľa odseku 4 písm. d).
+- c) potvrdením príslušného inšpektorátu práce<sup>14c</sup>) nie starším ako tri mesiace, že mu nebola uložená pokuta za porušenie zákazu nelegálneho zamestnávania podľa osobitného predpisu,<sup>14b</sup>) ak ide o splnenie podmienky podľa odseku 4 písm. d).
 
 (6) Na žiadateľa, ktorý je subjektom verejnej správy, sa ustanovenia odseku 4 písm. b) a c) a odseku 5 písm. b) nevzťahujú. Ustanovenia odseku 4 písm. c) a odseku 5 písm. b) sa nevzťahujú ani na žiadateľa, ktorým je štátny podnik, aj keď nie je subjektom verejnej správy. Splnenie podmienky podľa odseku 4 písm. b) sa vzťahuje len na žiadateľa, ktorým je právnická osoba a fyzická osoba – podnikateľ. Fyzická osoba a právnická osoba, ktorá je žiadateľom o dotáciu na účely financovania aktivít zameraných na podporu Slovákov žijúcich v zahraničí podľa osobitného predpisu,<sup>14cb</sup>) preukazuje splnenie podmienok uvedených v odseku 4 čestným vyhlásením. Splnenie podmienok podľa odseku 4 písm. f) a g) sa vzťahuje len na žiadateľa, ktorým je právnická osoba, okrem právnickej osoby podľa osobitného predpisu;<sup>14caa</sup>) na preukázanie splnenia týchto podmienok žiadateľ poskytne údaje potrebné na vyžiadanie výpisu z registra trestov.<sup>14cab</sup>) Údaje podľa piatej vety poskytovateľ dotácie bezodkladne zašle v elektronickej podobe prostredníctvom elektronickej komunikácie Generálnej prokuratúre Slovenskej republiky na vydanie výpisu z registra trestov.
 
@@ -42,4 +42,4 @@
 
 (10) Právnické osoby a fyzické osoby sú povinné na žiadosť orgánu oprávneného na výkon kontroly alebo vládneho auditu podľa osobitného predpisu<sup>47</sup>) preukázať účel použitia dotácie poskytnutej zo štátneho rozpočtu listinnými dôkazmi, ktorých obsah dokazuje skutočnosti vzťahujúce sa na použitie dotácie.
 
-(11) Právnické osoby a fyzické osoby - podnikatelia, ktoré porušili zákaz nelegálneho zamestnávania štátnych príslušníkov tretích krajín podľa osobitného predpisu,<sup>14ca</sup>) sú povinné vrátiť dotáciu podľa odseku 1 poskytnutú v období 12 mesiacov predchádzajúcich dňu nadobudnutia právoplatnosti rozhodnutia o uložení pokuty za porušenie zákazu nelegálneho zamestnávania, a to do 30 dní odo dňa nadobudnutia právoplatnosti tohto rozhodnutia.
+(11) Právnické osoby a fyzické osoby - podnikatelia, ktorým bola uložená pokuta za porušenie zákazu nelegálneho zamestnávania štátnych príslušníkov tretích krajín podľa osobitného predpisu,<sup>14ca</sup>) sú povinné vrátiť dotáciu podľa odseku 1 poskytnutú v období 12 mesiacov predchádzajúcich dňu nadobudnutia právoplatnosti rozhodnutia o uložení pokuty za porušenie zákazu nelegálneho zamestnávania, a to do 30 dní odo dňa nadobudnutia právoplatnosti tohto rozhodnutia.
