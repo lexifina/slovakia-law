@@ -36,6 +36,8 @@
 
 - 13) Zákon č. 124/2006 Z. z. v znení neskorších predpisov.
 
+- 13a) § 28 zákona č. 422/2015 Z. z. v znení zákona č. 114/2022 Z. z.
+
 - 14) § 5 ods. 2 až 10 Zákonníka práce.
 
 - 14a) § 5 ods. 10 Zákonníka práce.
@@ -131,6 +133,8 @@
 - 25) Napríklad zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov, zákon č. 302/2001 Z. z. o samospráve vyšších územných celkov (zákon o samosprávnych krajoch) v znení neskorších predpisov.
 
 - 25b) § 224 ods. 2 písm. e) Zákonníka práce.
+
+- 25c) § 5 ods. 4 a 5 zákona č. 82/2005 Z. z. v znení neskorších predpisov.
 
 - 26) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
