@@ -118,6 +118,8 @@
 
 - 19) Zákon č. 153/2001 Z. z. o prokuratúre v znení zákona č. 458/2003 Z. z.
 
+- 19a) § 150f zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriadku Národnej rady Slovenskej republiky v znení zákona č. 252/2022 Z. z.
+
 - 20) Zákon č. 84/1990 Zb. o zhromažďovacom práve.
 
 - 21) Zákon Slovenskej národnej rady č. 315/1992 Zb. o verejných telovýchovných, športových a turistických podujatiach.
