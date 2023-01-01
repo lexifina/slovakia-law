@@ -8,6 +8,68 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 
 - rodičovský dôchodok,“.
 
+- 2. V § 64 odsek 3 znie:
+
+- „(3)
+
+- Dôchodková hodnota platná k 31. decembru kalendárneho roka sa upravuje od 1. januára nasledujúceho kalendárneho roka podľa vzorca uvedeného v prílohe č. 3aa. Takto určená dôchodková hodnota platí vždy od 1. januára do 31. decembra kalendárneho roka.“.
+
+- 3. V § 64 sa vypúšťa odsek 4.
+
+  - Doterajšie odseky 5 a 6 sa označujú ako odseky 4 a 5.
+
+- 4. V § 64 ods. 5 sa slová „odsekov 1 až 5“ nahrádzajú slovami „odsekov 1 až 4“.
+
+- 5. V § 65 odsek 2 znie:
+
+- „(2)
+
+- Dôchodkový vek je všeobecný dôchodkový vek pre príslušný ročník znížený o
+
+- a)
+
+- 6 mesiacov, ak poistenec vychoval jedno dieťa,
+
+- b)
+
+- 12 mesiacov, ak poistenec vychoval dve deti,
+
+- c)
+
+- 18 mesiacov, ak poistenec vychoval tri deti alebo viac detí.“.
+
+- 6. V § 65 sa za odsek 2 vkladajú nové odseky 3 až 5, ktoré znejú:
+
+- „(3)
+
+- Všeobecný dôchodkový vek pre príslušný ročník je neupravený všeobecný dôchodkový vek pre príslušný ročník zaokrúhlený na roky a kalendárne mesiace. Kalendárne mesiace sa zaokrúhľujú na celý mesiac nadol. Neupravený všeobecný dôchodkový vek sa pre príslušný ročník určí podľa vzorca uvedeného v prílohe č. 3c.
+
+- (4)
+
+- Príslušný ročník je rok narodenia osôb narodených v rovnakom kalendárnom roku.
+
+- (5)
+
+- Ak obdobie výchovy dieťaťa nemožno zohľadniť na určenie dôchodkového veku žene, zohľadní sa mužovi, ktorý dieťa vychoval.“.
+
+  - Doterajšie odseky 3 a 4 sa označujú ako odseky 6 a 7.
+
+- 7. § 65 sa dopĺňa odsekmi 8 a 9, ktoré znejú:
+
+- „(8)
+
+- Ministerstvo práce, sociálnych vecí a rodiny Slovenskej republiky (ďalej len „ministerstvo“) vydá všeobecne záväzný právny predpis, ktorým zverejní neupravený všeobecný dôchodkový vek pre príslušný ročník a ustanoví všeobecný dôchodkový vek pre príslušný ročník. Všeobecne záväzným právnym predpisom podľa prvej vety sa v kalendárnom roku zverejňuje neupravený všeobecný dôchodkový vek a ustanovuje všeobecný dôchodkový vek len pre jeden ročník.
+
+- (9)
+
+- Ministerstvo vydá všeobecne záväzný právny predpis podľa odseku 8 v kalendárnom roku, ktorý šesť kalendárnych rokov predchádza kalendárnemu roku, v ktorom osoby narodené v príslušnom ročníku dovŕšia všeobecný dôchodkový vek pre príslušný ročník.“.
+
+- 8. V § 66 ods. 6 písm. h) sa číslovka „2022“ nahrádza číslovkou „2024“.
+
+- 9. V § 66 ods. 6 písm. i) sa slová „2023 do 31. decembra 2023“ nahrádzajú slovami „2025 do 31. decembra 2026“.
+
+- 10. V § 66 ods. 6 písm. j) sa číslovka „2023“ nahrádza číslovkou „2026“.
+
 - 11. V prvej časti tretej hlave sa za druhý diel vkladá nový tretí diel, ktorý vrátane nadpisu znie:
 
 - „TRETÍ DIEL
@@ -140,9 +202,61 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 
   - Doterajší tretí diel až siedmy diel sa označujú ako štvrtý diel až ôsmy diel.
 
+- 12. V § 67 ods. 1 písm. b) a § 67 ods. 2 písm. b) sa za slovo „veku“ vkladajú slová „alebo získal najmenej 40 odpracovaných rokov“.
+
 - 13. V § 67 ods. 1 písm. c) sa slová „1,2-násobku“ nahrádzajú slovami „1,6-násobku“.
 
 - 14. V § 67 ods. 2 písm. c) sa slová „1,2-násobok“ nahrádzajú slovami „1,6-násobku“.
+
+- 15. § 67 sa dopĺňa odsekom 8, ktorý znie:
+
+- „(8)
+
+- Na účely nároku na predčasný starobný dôchodok je odpracovaným rokom rok dôchodkového poistenia okrem
+
+- a)
+
+- obdobia podľa § 142 ods. 3 písm. b) a c), za ktoré bolo dodatočne zaplatené poistné na dôchodkové poistenie,
+
+- b)
+
+- doby nezamestnanosti, doby odborného školenia alebo politického školenia a doby štúdia.“.
+
+- 16. V § 68 odsek 1 znie:
+
+- „(1)
+
+- Suma predčasného starobného dôchodku sa určí ako súčin priemerného osobného mzdového bodu, obdobia dôchodkového poistenia získaného ku dňu vzniku nároku na predčasný starobný dôchodok a aktuálnej dôchodkovej hodnoty znížený o
+
+- a)
+
+- 0,5 % za každých začatých 30 dní odo dňa vzniku nároku na predčasný starobný dôchodok do dovŕšenia dôchodkového veku, ak ide o poistenca, ktorý nezískal najmenej 40 odpracovaných rokov; § 63 ods. 1 tretia veta a štvrtá veta platia rovnako,
+
+- b)
+
+- 0,3 % za každých začatých 30 dní odo dňa vzniku nároku na predčasný starobný dôchodok do dovŕšenia dôchodkového veku, ak ide o poistenca, ktorý získal najmenej 40 odpracovaných rokov; § 63 ods. 1 tretia veta a štvrtá veta platia rovnako; ak dôchodkový vek poistenca nie je známy, za dôchodkový vek tohto poistenca sa na účely určenia sumy predčasného starobného dôchodku považuje posledný určený všeobecný dôchodkový vek znížený za výchovu detí a zvýšený o dva mesiace za každý kalendárny rok rozdielu roku narodenia tohto poistenca a príslušného ročníku, pre ktorý bol určený posledný všeobecný dôchodkový vek.“.
+
+- 17. V § 68 sa za odsek 3 vkladá nový odsek 4, ktorý znie:
+
+- „(4)
+
+- Suma predčasného starobného dôchodku sa zvýši o 0,2 % súčinu podľa odseku 1 za každých začatých 30 dní odo dňa, ku ktorému poistenec získal 40 odpracovaných rokov do dňa dovŕšenia dôchodkového veku, ak poistenec uvedený v
+
+- a)
+
+- odseku 2 získal 40 odpracovaných rokov,
+
+- b)
+
+- odseku 3 ku dňu zániku dôchodkového poistenia získal 40 odpracovaných rokov.“.
+
+  - Doterajšie odseky 4 až 7 sa označujú ako odseky 5 až 8.
+
+- 18. V § 68 ods. 5 a 8 sa slová „odsekov 2 a 3“ nahrádzajú slovami „odsekov 2 až 4“.
+
+- 19. V § 69a ods. 2 druhá veta znie: „Suma starobného dôchodku podľa odseku 1 určená podľa § 68 ods. 2 až 4 a zvýšená podľa § 82 sa zvýši o 0,5 % za každých začatých 30 dní pred dňom, ku ktorému získal 40 odpracovaných rokov, a o 0,3 % za každých začatých 30 dní odo dňa, ku ktorému získal 40 odpracovaných rokov, počas ktorých netrval nárok na výplatu predčasného starobného dôchodku; § 82 ods. 4 sa v tomto prípade neuplatní.“.
+
+- 20. V § 75 ods. 3 prvej vete a § 77 ods. 3 prvej vete sa slová „§ 68 ods. 2 a 3 a zvýšeného podľa § 82, ktorý sa zvýši o 0,5 % za každých začatých 30 dní, počas ktorých netrval nárok na výplatu predčasného starobného dôchodku“ nahrádzajú slovami „§ 68 ods. 2 až 4 a zvýšeného podľa § 82, ktorý sa zvýši o 0,5 % za každých začatých 30 dní pred dňom, ku ktorému získal 40 odpracovaných rokov, a o 0,3 % za každých začatých 30 dní odo dňa, ku ktorému získal 40 odpracovaných rokov, počas ktorých netrval nárok na výplatu predčasného starobného dôchodku“.
 
 - 21. V § 81 ods. 6 sa slová „ods. 8“ nahrádzajú slovami „ods. 9“.
 
@@ -163,6 +277,24 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
   - Doterajšie odseky 3 až 8 sa označujú ako odseky 4 až 9.
 
 - 25. V § 116 ods. 8 sa slová „odseku 6“ nahrádzajú slovami „odseku 7“.
+
+- 26. V § 123 ods. 3 písm. c) sa slová „Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky (ďalej len „ministerstvo“)“ nahrádzajú slovom „ministerstva“.
+
+- 27. V § 131 ods. 2 písm. b) siedmom bode a písm. c) siedmom bode sa slová „roku 2022“ nahrádzajú slovami „rokoch 2022 až 2024“.
+
+- 28. V § 131 ods. 2 písm. b) ôsmom bode a písm. c) ôsmom bode sa slová „roku 2023“ nahrádzajú slovami „rokoch 2025 a 2026“.
+
+- 29. V § 131 ods. 2 písm. b) deviatom bode a písm. c) deviatom bode sa číslovka „2024“ nahrádza číslovkou „2027“.
+
+- 30. V § 139 ods. 1 písm. b) sa na konci pripájajú tieto slová: „a ods. 2“.
+
+- 31. V § 139b sa za odsek 1 vkladá nový odsek 2, ktorý znie:
+
+- „(2)
+
+- Pri určení pomernej časti podľa odseku 1 sa neprihliada na obdobie, za ktoré bolo zaplatené poistné z maximálneho vymeriavacieho základu.“.
+
+  - Doterajší odsek 2 sa označuje ako odsek 3.
 
 - 32. V § 151 ods. 3 sa slová „ods. 7“ nahrádzajú slovami „ods. 8“.
 
@@ -213,3 +345,135 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 - (5)
 
 - Za rok 2023 sa rodičovský dôchodok vyplatí v jednej úhrnnej splátke; § 116 ods. 3 v znení účinnom od 1. novembra 2022 sa nepoužije.“.
+
+- 37. Za § 293fv sa vkladajú § 293fw až 293fz, ktoré vrátane nadpisu § 293fz znejú:
+
+- „§ 293fw
+
+- Dôchodkový vek poistenca narodeného pred rokom 1967 sa určí podľa prílohy č. 3a, ak tento zákon v § 274 neustanovuje inak; ak obdobie výchovy dieťaťa nemožno zohľadniť na určenie dôchodkového veku žene, dôchodkový vek muža narodeného v rokoch 1957 až 1966, ktorý dieťa vychoval, sa určí podľa prílohy č. 3b. Na účely podľa prvej vety platí § 65 ods. 6 a 7 v znení účinnom od 1. januára 2023 rovnako.
+
+- § 293fx
+
+- (1)
+
+- Sociálna poisťovňa novo určí sumu predčasného starobného dôchodku alebo starobného dôchodku podľa § 69a ods. 1 podľa tohto zákona v znení účinnom od 1. januára 2023 poistencovi, ktorý získal 40 odpracovaných rokov do dovŕšenia dôchodkového veku pred 1. januárom 2023, najneskôr do 31. decembra 2026.
+
+- (2)
+
+- Do odpracovaných rokov sa nezapočítava obdobie, za ktoré bola zvýšená suma predčasného starobného dôchodku alebo starobného dôchodku podľa § 293fi.
+
+- § 293fy
+
+- (1)
+
+- Ak je príjem podľa § 3 ods. 1 písm. a) a ods. 2 a 3 plynúci z právneho vzťahu na základe
+
+- a)
+
+- dohody o prácach vykonávaných mimo pracovného pomeru určenej podľa § 227a v znení účinnom do 31. decembra 2022, ktorý zakladá právo na pravidelný mesačný príjem, zúčtovaný po 31. decembri 2022 za obdobie pred 1. januárom 2023, povinné dôchodkové poistenie fyzickej osoby v tomto právnom vzťahu sa za obdobie pred 1. januárom 2023 posudzuje podľa tohto zákona v znení účinnom do 31. decembra 2022,
+
+- b)
+
+- dohody o prácach vykonávaných mimo pracovného pomeru, ktorý zakladá právo na nepravidelný príjem, zúčtovaný za obdobie pred 1. januárom 2023, povinné dôchodkové poistenie fyzickej osoby v tomto právnom vzťahu sa za obdobie pred 1. januárom 2023 posudzuje podľa tohto zákona v znení účinnom do 31. decembra 2022.
+
+- (2)
+
+- Ak fyzickej osobe podľa odseku 1 vznikne povinné dôchodkové poistenie zamestnanca, na určenie vymeriavacieho základu, platenie poistného a na povinnosť zamestnávateľa prihlásiť tohto zamestnanca do registra poistencov a sporiteľov starobného dôchodkového sporenia sa vzťahuje tento zákon v znení účinnom do 31. decembra 2022; na právny vzťah podľa odseku 1 písm. b), ktorý trvá po 31. decembri 2022, sa na účely posúdenia povinného dôchodkového poistenia a určenia vymeriavacieho základu hľadí, akoby zanikol 31. decembra 2022. Ak fyzickej osobe podľa odseku 1 nevznikne povinné dôchodkové poistenie zamestnanca, na určenie vymeriavacieho základu zamestnávateľa a na platenie poistného na úrazové poistenie a poistného na garančné poistenie sa vzťahuje tento zákon v znení účinnom do 31. decembra 2022.“.
+
+- 38. Za prílohu č. 3 sa vkladá príloha č. 3aa, ktorá vrátane nadpisu znie:
+
+- „Príloha č. 3aa
+
+- k zákonu č. 461/2003 Z. z.
+
+- Vzorec na určenie dôchodkovej hodnoty
+
+- ![obrázok](assets/8a9ff509378f88cffee0eb8cdc32ae22520175a9d909d4f13b293a3d2de03aeb.svg)
+
+- A
+
+- D
+
+- H
+
+- r
+
+- =
+
+- A
+
+- D
+
+- H
+
+- r
+
+- -
+
+- 1
+
+- ×
+
+- 1
+
+- +
+
+- P
+
+- M
+
+- r
+
+- -
+
+- 1
+
+- P
+
+- M
+
+- r
+
+- -
+
+- 2
+
+- -
+
+- 1
+
+- ×
+
+- 0,95
+
+- kde:
+
+- ADH je aktuálna dôchodková hodnota,
+
+- PM je priemerná mesačná mzda v hospodárstve Slovenskej republiky zistená štatistickým úradom za tretí štvrťrok kalendárneho roka,
+
+- r je kalendárny rok, od ktorého sa upravuje aktuálna dôchodková hodnota.“.
+
+- 39. V prílohách č. 3a a 3b poslednom riadku sa vypúšťajú slová „a viac“.
+
+- 40. Za prílohu č. 3b sa vkladá príloha č. 3c, ktorá vrátane nadpisu znie:
+
+- „Príloha č. 3c
+
+- k zákonu č. 461/2003 Z. z.
+
+- Vzorec na určenie neupraveného všeobecného dôchodkového veku pre príslušný ročník
+
+- ![vzorec](assets/57c1e2a57e70a64fceb12afe83d4e1e067da658ccb8c96dc574a706f2af436e8.png)
+
+- kde
+
+- NVDV je neupravený všeobecný dôchodkový vek určený v rokoch zaokrúhlený na štyri desatinné miesta,
+
+- ročník je príslušný ročník, pre ktorý sa určuje neupravený všeobecný dôchodkový vek,
+
+- SDŽ je stredná dĺžka života v kalendárnom roku a v referenčnom veku vykázaná štatistickým úradom, spoločná pre mužov a ženy,
+
+- r je kalendárny rok, v ktorom sa určuje neupravený všeobecný dôchodkový vek pre príslušný ročník na účel ustanovenia všeobecného dôchodkového veku pre príslušný ročník všeobecne záväzným právnym predpisom podľa § 65 ods. 8,
+
+- rv je referenčný vek, ktorý je neupravený všeobecný dôchodkový vek osôb narodených v kalendárnom roku, ktorý bezprostredne predchádza príslušnému ročníku, zaokrúhlený na celé roky nadol.“.
