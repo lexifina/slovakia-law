@@ -252,6 +252,8 @@
 
 - 69a) § 13 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. v znení neskorších predpisov.
 
+- 69b) Napríklad stavebný zákon, zákon č. 220/2004 Z. z. v znení neskorších predpisov.
+
 - 70) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 71) Zákon č. 504/2003 Z. z. o nájme poľnohospodárskych pozemkov, poľnohospodárskeho podniku a lesných pozemkov a o zmene niektorých zákonov v znení zákona č. 549/2004 Z. z.
