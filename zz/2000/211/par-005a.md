@@ -78,7 +78,7 @@
 
 (13) Ak je zmluva zverejnená viacerými spôsobmi alebo viacerými účastníkmi zmluvy, rozhodujúce je prvé zverejnenie zmluvy. Povinná osoba alebo účastník zmluvy podávajúci návrh na zverejnenie podľa odseku 10 sú povinní zabezpečiť súlad zverejnenej zmluvy so skutočným stavom a nesprístupnenie ustanovení zmluvy obsahujúcich informáciu, ktorá sa podľa tohto zákona nesprístupňuje; to neplatí o osobných údajoch účastníka zmluvy odlišného od povinnej osoby v rozsahu titul, meno, priezvisko, adresa trvalého pobytu a o označení nehnuteľnosti v rozsahu podľa osobitného predpisu,<sup>7fa</sup>) ak ide o zmluvu, ktorá na vznik, zmenu alebo zánik práva vyžaduje vklad do katastra nehnuteľností podľa osobitného predpisu.<sup>7fb</sup>)
 
-(14) Povinne zverejňovaná zmluva sa zverejňuje nepretržite počas existencie záväzku vzniknutého z povinne zverejňovanej zmluvy, najmenej však počas piatich rokov od nadobudnutia účinnosti podľa zákona.<sup>7g</sup>)
+(14) Povinne zverejňovaná zmluva sa zverejňuje nepretržite počas existencie záväzku vzniknutého z povinne zverejňovanej zmluvy, najmenej však počas desiatich rokov od nadobudnutia účinnosti podľa zákona.<sup>7g</sup>)
 
 (15) Podrobnosti o zverejňovaní zmlúv v registri a náležitosti informácie podľa § 5a ods. 3 ustanoví nariadenie vlády Slovenskej republiky.
 
