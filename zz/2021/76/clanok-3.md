@@ -6,6 +6,8 @@ Zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru,
 
 - 2. V § 141 ods. 2 písm. i) sa za prvú vetu vkladá nová druhá veta, ktorá znie: „Pri zabezpečovaní stravovania prostredníctvom právnickej osoby alebo fyzickej osoby, ktorá má oprávnenie sprostredkovať stravovacie služby, prostredníctvom stravovacích poukážok je výška poplatku za sprostredkované stravovacie služby najviac 2 % z hodnoty sumy uvedenej na stravovacej poukážke.“.
 
+- 3. V § 141 ods. 2 písm. i) sa na konci pripája táto veta: „Nadriadený poskytuje stravovaciu poukážku v elektronickej forme; to neplatí, ak použitie stravovacej poukážky v elektronickej forme policajtom počas zmeny na pracovisku alebo v jeho blízkosti nie je možné.“.
+
 - 4. V § 141 ods. 3 sa slová „písm. h) až j)“ nahrádzajú slovami „písm. h) a i)“.
 
 - 5. V § 141 sa za odsek 3 vkladá nový odsek 4, ktorý znie:

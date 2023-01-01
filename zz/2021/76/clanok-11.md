@@ -6,6 +6,8 @@ Zákon č. 35/2019 Z. z. o finančnej správe a o zmene a doplnení niektorých 
 
 - 2. V § 213 ods. 3 sa na konci pripája táto veta: „Pri zabezpečovaní stravovania prostredníctvom právnickej osoby alebo fyzickej osoby, ktorá má oprávnenie sprostredkovať stravovacie služby, prostredníctvom stravovacích poukážok je výška poplatku za sprostredkované stravovacie služby najviac 2 % z hodnoty sumy uvedenej na stravovacej poukážke.“.
 
+- 3. V § 213 ods. 3 sa na konci pripája táto veta: „Služobný úrad poskytuje stravovaciu poukážku v elektronickej forme; to neplatí, ak použitie stravovacej poukážky v elektronickej forme príslušníkom finančnej správy počas zmeny na pracovisku alebo v jeho blízkosti nie je možné.“.
+
 - 4. V § 213 ods. 5 sa za slovo „príspevok“ vkladajú slová „na stravovanie“.
 
 - 5. V § 213 sa za odsek 5 vkladá nový odsek 6, ktorý znie:

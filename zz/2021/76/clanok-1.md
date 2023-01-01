@@ -162,6 +162,8 @@ Zákon č. 311/2001 Z. z. Zákonník práce v znení zákona č. 165/2002 Z. z.,
 
 - 18. V § 152 ods. 2 sa slová „Nárok na poskytnutie stravy“ nahrádzajú slovami „Nárok na zabezpečenie stravovania alebo poskytnutie finančného príspevku na stravovanie“ a slová „poskytnutie ďalšieho teplého hlavného jedla“ sa nahrádzajú slovami „ďalšie stravovanie alebo poskytnúť ďalší finančný príspevok na stravovanie“.
 
+- 19. V § 152 ods. 4 sa na konci pripája táto veta: „Zamestnávateľ poskytuje stravovaciu poukážku v elektronickej forme; to neplatí, ak použitie stravovacej poukážky v elektronickej forme zamestnancom počas pracovnej zmeny na pracovisku alebo v jeho blízkosti nie je možné.“.
+
 - 20. V § 152 ods. 5 sa slová „maximálne 3 %“ nahrádzajú slovami „maximálne 2 %“.
 
 - 21. V § 152 odseky 6 a 7 znejú:
