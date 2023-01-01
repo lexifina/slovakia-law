@@ -94,6 +94,16 @@ Zákon č. 442/2002 Z. z. o verejných vodovodoch a verejných kanalizáciách a
 
 - 13. V § 4 ods. 2 sa za slová „kanalizačnej prípojky“ vkladajú slová „(ďalej len „zaústenie“)“ a vypúšťa sa slovo „toto“.
 
+- 14. V § 4 ods. 2 sa na konci pripájajú tieto vety:
+
+- „Zaústenie je odbočenie z potrubia verejnej kanalizácie, ktoré, ak sa realizuje na verejnom priestranstve,<sup>2a</sup>) tvorí odbočovací kus osadený na potrubí verejnej kanalizácie a potrubie ukončené spravidla revíznou šachtou. Potrubie, ktoré tvorí zaústenie realizované na verejnom priestranstve sa určuje v dĺžke od odbočovacieho kusa po hranicu nehnuteľnosti, najviac však desať metrov a v priemere, ktorý musí byť primeraný pre pripojenie budúcej kanalizačnej prípojky. Ak sa zaústenie realizuje na inom pozemku ako na verejnom priestranstve, tvorí ho len odbočovací kus osadený na potrubí verejnej kanalizácie. Zaústenie sa realizuje podľa podmienok určených vlastníkom verejnej kanalizácie alebo jej prevádzkovateľom a podľa plánu rozvoja určeného vlastníkom verejnej kanalizácie. Na účely povoľovania sa zaústenie považuje za kanalizačnú prípojku.<sup>2b</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 2a a 2b znejú:
+
+  - „<sup>2a</sup>) § 2b ods. 1 zákona Slovenskej národnej rady č. 369/1990 Zb. v znení zákona č. 70/2018 Z. z.
+
+  - <sup>2b</sup>) § 139b ods. 8 písm. c) zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku v znení zákona č. 312/2018 Z. z.“.
+
 - 15. V § 4 ods. 3 sa vypúšťajú slová „a ktorá odoberá vodu z verejného vodovodu“.
 
 - 16. V § 4 ods. 4 sa slová „a ktorá vypúšťa odpadové vody do verejnej kanalizácie“ nahrádzajú slovami „na účely vypúšťania odpadových vôd do verejnej kanalizácie“.
@@ -145,6 +155,32 @@ Zákon č. 442/2002 Z. z. o verejných vodovodoch a verejných kanalizáciách a
 - 19. V § 4 sa vypúšťajú odseky 9 a 11.
 
   - Doterajší odsek 10 sa označuje ako odsek 9.
+
+- 20. § 4 sa dopĺňa odsekmi 10 až 14, ktoré znejú:
+
+- „(10)
+
+- Meradlo je umiestnené na vodovodnej prípojke spravidla vo vodomernej šachte. Vodomerná šachta musí byť vybudovaná v súlade s technickými požiadavkami vlastníka verejného vodovodu alebo jeho prevádzkovateľa tak, aby bola chránená proti vnikaniu vody, plynov a nečistôt, odvodniteľná, vetrateľná a bezpečne prístupná. Meradlo je príslušenstvom verejného vodovodu.
+
+- (11)
+
+- Náklady na zriadenie zaústenia znáša vlastník verejnej kanalizácie. Náklady na zriadenie zaústenia môže uhradiť žiadateľ o pripojenie na verejnú kanalizáciu, ak sa tak dohodne s vlastníkom verejnej kanalizácie.
+
+- (12)
+
+- Vlastník verejného vodovodu a vlastník verejnej kanalizácie je povinný prevziať pripojenie vodovodnej prípojky a zaústenie, ktoré boli realizované na vlastné náklady odberateľom alebo producentom po 1. januári 2023, do svojho vlastníctva a prevádzky, ak pri budovaní pripojenia alebo zaústenia boli splnené podmienky výstavby určené prevádzkovateľom verejného vodovodu, prevádzkovateľom verejnej kanalizácie, vlastníkom verejného vodovodu alebo vlastníkom verejnej kanalizácie.
+
+- (13)
+
+- Podmienky zriadenia vodovodnej prípojky a kanalizačnej prípojky, najmä miesto a spôsob pripojenia, určuje vlastník verejného vodovodu a vlastník verejnej kanalizácie alebo ich prevádzkovateľ vo vyjadrení k dokumentácii pre územné rozhodnutie alebo k dokumentácii pre stavebné povolenie stavby,<sup>3a</sup>) v ktorej je riešenie prípojky zahrnuté, k projektovej dokumentácii prípojky, ak ide o vodnú stavbu, alebo vo vyjadrení k žiadosti o pripojenie na verejný vodovod alebo na verejnú kanalizáciu.
+
+- (14)
+
+- Obec uloží povinnosť vlastníkovi stavby alebo vlastníkovi pozemku pripojiť stavbu alebo pozemok, kde vznikajú odpadové vody, na verejnú kanalizáciu podľa § 23 ods. 2.“.
+
+  - Poznámka pod čiarou k odkazu 3a znie:
+
+  - „<sup>3a</sup>) § 43 zákona č. 50/1976 Zb. v znení zákona č. 293/2014 Z. z.“.
 
 - 21. V § 6a ods. 2 sa na konci pripájajú tieto slová: „schválených ministerstvom“.
 
@@ -734,6 +770,18 @@ Zákon č. 442/2002 Z. z. o verejných vodovodoch a verejných kanalizáciách a
 
 - zabezpečuje podmienky na zásobovanie obyvateľov pitnou vodou z verejného vodovodu, na odvádzanie a zneškodňovanie odpadových vôd verejnou kanalizáciou od jej obyvateľov a ďalších osôb v obci, na vyprázdňovanie obsahu domových žúmp v obci, na núdzové zásobovanie pitnou vodou,<sup>21</sup>) na náhradné zásobovanie pitnou vodou a odvádzanie odpadových vôd,“.
 
+- 88. V § 36 ods. 7 sa za písmeno a) vkladajú nové písmená b) a c), ktoré znejú:
+
+- „b)
+
+- zabezpečuje rozvoj verejných vodovodov a verejných kanalizácií zodpovedajúci potrebám obce,
+
+- c)
+
+- rozhoduje o uložení povinnosti vlastníka stavby alebo pozemku pripojiť sa na verejnú kanalizáciu podľa § 4 ods. 14,“.
+
+  - Doterajšie písmená b) až e) sa označujú ako písmená d) až g).
+
 - 89. V § 38 odsek 3 znie:
 
 - „(3)
@@ -881,6 +929,24 @@ Zákon č. 442/2002 Z. z. o verejných vodovodoch a verejných kanalizáciách a
 - (6)
 
 - Nútená správa podľa § 14, ktorá bola vyhlásená do 31. decembra 2021, musí byť do 31. decembra 2024 uvedená do súladu so znením účinným od 1. januára 2022, inak okresný úrad v sídle kraja vyhlásenie nútenej správy zruší.“.
+
+- 113. Za § 42bc sa vkladá § 42bd, ktorý vrátane nadpisu znie:
+
+- „§ 42bd
+
+- Prechodné ustanovenia k úpravám účinným od 1. januára 2023
+
+- (1)
+
+- Náklady na zriadenie zaústenia do existujúcej verejnej kanalizácie, ktorým sa zabezpečí pripojenie stavby alebo pozemku, kde vznikali odpadové vody do 31. decembra 2022, na verejnú kanalizáciu, znáša vlastník verejnej kanalizácie, ak vlastník stavby alebo vlastník pozemku preukáže zriadenie kanalizačnej prípojky, ktorá spĺňa technické podmienky určené vlastníkom verejnej kanalizácie a je spôsobilá na pripojenie na zaústenie, a ak vlastník stavby alebo vlastník pozemku prejaví záujem dohodnúť sa na uzatvorení zmluvy o pripojení s vlastníkom verejnej kanalizácie k dátumu zriadenia zaústenia.
+
+- (2)
+
+- Povinnosť vlastníka verejného vodovodu a vlastníka verejnej kanalizácie prevziať pripojenie vodovodnej prípojky a zaústenie podľa § 4 ods. 12 sa nevzťahuje na pripojenie vodovodnej prípojky a zaústenie, ktoré boli realizované na vlastné náklady odberateľom alebo producentom do 31. decembra 2022.
+
+- (3)
+
+- Ustanovenie odseku 2 sa nepoužije, ak sa vlastník verejnej kanalizácie s vlastníkom stavby alebo s vlastníkom pozemku dohodnú inak.“.
 
 - 114. § 42c znie:
 
