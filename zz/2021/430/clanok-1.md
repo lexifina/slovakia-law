@@ -8,6 +8,12 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 
   - Doterajšie odseky 31 až 35 sa označujú ako odseky 29 až 33.
 
+- 3. Za § 53 sa vkladá § 53aa, ktorý znie:
+
+- „§ 53aa
+
+- Orgány štátnej správy nesmú na účely svojej činnosti obstarávať kúpu nápojov v jednorazových obaloch.“.
+
 - 4. § 53a sa vypúšťa.
 
 - 5. § 73a sa vypúšťa.
@@ -202,6 +208,22 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 
 - Rozšírená zodpovednosť výrobcu osobitného výrobku z plastu
 
+- (1)
+
+- Výrobca jednorazového plastového výrobku uvedeného v prílohe č. 7a časti E oddiele I je okrem povinností podľa § 27 a 52 povinný znášať náklady
+
+- a)
+
+- na opatrenia na zvyšovanie informovanosti o svojich výrobkoch uvádzaných na trh Slovenskej republiky,
+
+- b)
+
+- spojené so zberom, prepravou, zhodnotením, recykláciou, spracovaním a zneškodnením odpadu z výrobkov,
+
+- c)
+
+- spojené s vyčistením prostredia znečisteného odpadom z týchto výrobkov, ktoré neboli vhodené do miestnych systémov zberu odpadu.
+
 - (2)
 
 - Výrobca tabakových výrobkov na účely povinnosti podľa odseku 1 písm. b) môže zriadiť špecifickú infraštruktúru zberu odpadu z týchto výrobkov.
@@ -265,6 +287,8 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 - 9. V § 110 ods. 1 písm. a) sa vypúšťajú slová „§ 53a“ a slová „§ 73a a § 135g“.
 
 - 10. V § 111 ods. 6 sa slová „§ 53a a 73a“ nahrádzajú slovami „§ 75c“.
+
+- 11. V § 117 ods. 1 sa za slová „53 ods. 7, 8; § 54 ods. 1 písm. f), ods. 5;“ vkladajú slová „§ 53aa;“.
 
 - 12. V § 117 odsek 6 znie:
 
