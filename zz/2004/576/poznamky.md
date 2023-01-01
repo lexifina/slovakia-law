@@ -1,5 +1,9 @@
 - 1) § 2 ods. 1 písm. b) zákona č. 579/2004 Z. z. o záchrannej zdravotnej službe a o zmene a doplnení niektorých zákonov.
 
+- 1b) § 123 ods. 1 písm. f) zákona č. 281/2015 Z. z. v znení zákona č. 420/2022 Z. z.
+
+- 1c) § 8 ods. 1 písm. c) zákona č. 579/2004 Z. z. v znení zákona č. 284/2008 Z. z.
+
 - 2) § 33 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov.
 
 - 2a) § 11 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
@@ -112,6 +116,10 @@
 
 - 9aa) § 31 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
+- 9aaa) § 20 ods. 1 písm. d) zákona č. 581/2004 Z. z.
+
+- 9aab) § 62 až 66 zákona č. 448/2008 Z. z.
+
 - 9ab) § 27 ods. 1 písm. a), d), g) a l) zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
 - 9ac) § 2 písm. k) zákona č. 245/2008 Z. z.
@@ -131,6 +139,8 @@
 - 14a) Napríklad § 233 ods. 2 písm. d) zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 43/2004 Z. z.
 
 - 14aa) § 5 ods. 2 zákona č. 317/2016 Z. z.
+
+- 14aca) Napríklad § 365 a 367 Civilného mimosporového poriadku, § 37 ods. 3 a § 54 zákona č. 36/2005 Z. z. v znení zákona č. 175/2015 Z. z., zákon č. 245/2008 Z. z. v znení neskorších predpisov, zákon č. 231/2019 Z. z. v znení zákona č. 390/2022 Z. z., § 45 zákona č. 305/2005 Z. z. v znení neskorších predpisov.
 
 - 14b) § 9f zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
 
@@ -158,7 +168,9 @@
 
 - 20aa) § 5 a 6 a príloha č. 2 prvý bod k zákonu č. 153/2013 Z. z. v znení neskorších predpisov.
 
-- 20ab) § 5 zákona č. 153/2013 Z. z. v znení neskorších predpisov.
+- 20ab) Zákon č. 581/2004 Z. z. v znení zákona č. 518/2022 Z. z.
+
+- § 5 zákona č. 153/2013 Z. z. v znení neskorších predpisov.
 
 - 21) Čl. 3 ods. 12 nariadenia Európskeho parlamentu a Rady (EÚ) č. 910/2014 z 23. júla 2014 o elektronickej identifikácii a dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zrušení smernice 1999/93/ES (Ú. v. EÚ L 257, 28. 8. 2014).
 
@@ -191,6 +203,8 @@
 - § 6 zákona č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení.
 
 - § 19 zákona č. 5/2004 Z. z. o službách v zamestnanosti a o zmene a doplnení niektorých zákonov.
+
+- § 25a zákona č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zmene a doplnení niektorých zákonov v znení zákona č. 494/2022 Z. z.
 
 - 29) § 6 ods. 3 písm. b) zákona č. 95/2000 Z. z. o inšpekcii práce a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 

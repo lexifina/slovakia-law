@@ -16,10 +16,12 @@ Príloha č. 3 k zákonu č. 576/2004 Z. z.
 
   - 7. Vykonávacia smernica Komisie 2012/25/EÚ z 9. októbra 2012, ktorou sa stanovujú informačné postupy na výmenu ľudských orgánov určených na transplantáciu medzi členskými štátmi (Ú. v. EÚ L 275, 10. 10. 2012).
 
-  - 8. Smernica Európskeho parlamentu a Rady 2013/55/EÚ z 20. novembra 2013, ktorou sa mení smernica 2005/36/ES o uznávaní odborných kvalifikácií a nariadenie (EÚ) č. 1024/2012 o administratívnej spolupráci prostredníctvom informačného systému o vnútornom trhu (nariadenie o IMI) (Ú. v. EÚ L 354, 28. 12. 2013).
+  - 8. Smernica Európskeho parlamentu a Rady 2005/36/ES zo 7. septembra 2005 o uznávaní odborných kvalifikácií (Ú. v. EÚ L 255, 30. 9. 2005) v znení smernice Rady 2006/100/ES z 20. novembra 2006 (Ú. v. EÚ L 363, 20. 12. 2006), nariadenia Komisie (ES) č. 1430/2007 z 5. decembra 2007 (Ú. v. EÚ L 320, 6. 12. 2007), nariadenia Komisie (ES) č. 755/2008 z 31. júla 2008 (Ú. v. EÚ L 205, 1. 8. 2008), nariadenia Európskeho parlamentu a Rady (ES) č. 1137/2008 z 22. októbra 2008 (Ú. v. EÚ L 311, 21. 11. 2008), nariadenia Komisie (ES) č. 279/2009 zo 6. apríla 2009 (Ú. v. EÚ L 93, 7. 4. 2009), nariadenia Komisie (EÚ) č. 213/2011 z 3. marca 2011 (Ú. v. EÚ L 59, 4. 3. 2011), nariadenia Komisie (EÚ) č. 623/2012 z 11. júla 2012 (Ú. v. EÚ L 180, 12. 7. 2012), smernice Rady 2013/25/EÚ z 13. mája 2013 (Ú. v. EÚ L 158, 10. 6. 2013) a smernice Európskeho parlamentu a Rady 2013/55/EÚ z 20. novembra 2013 (Ú. v. EÚ L 354, 28. 12. 2013).
 
-  - 9. Smernica Komisie (EÚ) 2015/565 z 8. apríla 2015, ktorou sa mení smernica 2006/86/ES, pokiaľ ide o určité technické požiadavky na kódovanie ľudských tkanív a buniek (Ú. v. EÚ L 93, 9. 4. 2015).
+  - 9. Smernica Európskeho parlamentu a Rady 2013/55/EÚ z 20. novembra 2013, ktorou sa mení smernica 2005/36/ES o uznávaní odborných kvalifikácií a nariadenie (EÚ) č. 1024/2012 o administratívnej spolupráci prostredníctvom informačného systému o vnútornom trhu (nariadenie o IMI) (Ú. v. EÚ L 354, 28. 12. 2013).
 
-  - 10. Smernica Komisie (EÚ) 2015/566 z 8. apríla 2015, ktorou sa vykonáva smernica 2004/23/ES, pokiaľ ide o postupy overovania ekvivalentných noriem kvality a bezpečnosti dovážaných tkanív a buniek (Ú. v. EÚ L 93, 9. 4. 2015).
+  - 10. Smernica Komisie (EÚ) 2015/565 z 8. apríla 2015, ktorou sa mení smernica 2006/86/ES, pokiaľ ide o určité technické požiadavky na kódovanie ľudských tkanív a buniek (Ú. v. EÚ L 93, 9. 4. 2015).
 
-  - 11. Smernica Rady 2013/59/EURATOM z 5. decembra 2013, ktorou sa stanovujú základné bezpečnostné normy ochrany pred nebezpečenstvami vznikajúcimi v dôsledku ionizujúceho žiarenia, a ktorou sa zrušujú smernice 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom a 2003/122/Euratom (Ú. v. EÚ L13, 17. 1. 2014).
+  - 11. Smernica Komisie (EÚ) 2015/566 z 8. apríla 2015, ktorou sa vykonáva smernica 2004/23/ES, pokiaľ ide o postupy overovania ekvivalentných noriem kvality a bezpečnosti dovážaných tkanív a buniek (Ú. v. EÚ L 93, 9. 4. 2015).
+
+  - 12. Smernica Rady 2013/59/EURATOM z 5. decembra 2013, ktorou sa stanovujú základné bezpečnostné normy ochrany pred nebezpečenstvami vznikajúcimi v dôsledku ionizujúceho žiarenia, a ktorou sa zrušujú smernice 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom a 2003/122/Euratom (Ú. v. EÚ L13, 17. 1. 2014).

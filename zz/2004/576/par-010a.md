@@ -8,7 +8,9 @@
 
 - b) spĺňať základné materiálno-technické vybavenie podľa prílohy č. 1,
 
-- c) viesť zdravotnú dokumentáciu podľa § 19 ods. 2.
+- c) viesť zdravotnú dokumentáciu podľa § 19 ods. 2 a vykonávať v nej zápisy podľa § 21 ods. 4 až 6,
+
+- d) požiadať o pridelenie číselného kódu zariadenia sociálnej pomoci poskytujúceho ošetrovateľskú starostlivosť podľa osobitného predpisu,<sup>9aaa</sup>) do ôsmich dní od zápisu do registra sociálnych služieb, ktorý vedie vyšší územný celok podľa osobitného predpisu,<sup>9aab</sup>) ak ide o poskytovateľa sociálnej služby.
 
 (3) Zariadenie sociálnej pomoci, ktoré má uzatvorenú so zdravotnou poisťovňou zmluvu podľa osobitného predpisu,<sup>9ab</sup>) musí mať určenú osobu zodpovednú za poskytovanie ošetrovateľskej starostlivosti v zariadení sociálnej pomoci (ďalej len „zodpovedná osoba“). Zodpovedná osoba môže byť určená najviac pre dve zariadenia sociálnej pomoci, ak každé z týchto zariadení sociálnej pomoci má menej ako 10 lôžok určených na poskytovanie ošetrovateľskej starostlivosti, a musí byť v pracovnoprávnom vzťahu s každým z týchto zariadení sociálnej pomoci.
 
@@ -33,3 +35,5 @@
 (7) Indikačné kritériá na poskytovanie ošetrovateľskej starostlivosti v zariadení sociálnej pomoci podľa odseku 3 a vzor návrhu zodpovednej osoby na indikáciu poskytovania ošetrovateľskej starostlivosti osobe umiestnenej v zariadení sociálnej pomoci ustanoví ministerstvo zdravotníctva všeobecne záväzným právnym predpisom.
 
 (8) Odseky 3 až 5 sa vzťahujú aj na zariadenie sociálnoprávnej ochrany detí a sociálnej kurately, ktoré nemá uzatvorenú zmluvu so zdravotnou poisťovňou.
+
+(9) Zariadenie sociálnoprávnej ochrany detí a sociálnej kurately môže poskytovať deťom umiestneným v tomto zariadení aj fyzioterapeutickú starostlivosť, ak ju poskytujú zamestnanci tohto zariadenia, ktorí spĺňajú podmienky na výkon zdravotníckeho povolania podľa osobitného predpisu<sup>9aa</sup>) v povolaní fyzioterapeut.
