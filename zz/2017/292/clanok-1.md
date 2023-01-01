@@ -144,6 +144,10 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 
 - Odpadová ortuť sa zneškodňuje činnosťami D 12 alebo D 15 podľa prílohy č. 2 tak, aby bola zabezpečená vysoká úroveň ochrany životného prostredia a zdravia ľudí.
 
+- (3)
+
+- Dočasne uskladňovať odpadovú ortuť v kvapalnom skupenstve v povrchových zariadeniach určených a vybavených na tento účel (ďalej len „úložisko dočasného uskladnenia odpadovej ortuti“) sa zakazuje.
+
 - (4)
 
 - Odpadová ortuť sa pred jej zneškodnením trvalým uložením podľa osobitného predpisu<sup>39a</sup>) upravuje v zariadeniach určených a vybavených na tento účel (ďalej len „zariadenie na úpravu odpadovej ortuti“).
