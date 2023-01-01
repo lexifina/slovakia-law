@@ -4,10 +4,6 @@
 
 - 2a) § 29 ods. 1 zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov.
 
-- 2b) § 24 ods. 2 zákona č. 36/2005 Z. z. v znení zákona č. 217/2010 Z. z.
-
-- 2c) § 24 ods. 3 zákona č. 36/2005 Z. z. v znení zákona č. 217/2010 Z. z.
-
 - 3) § 19 až 22 a 97 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov v znení zákona č. 324/2012 Z. z.
 
 - 3a) § 19 ods. 9 zákona č. 245/2008 Z. z.
@@ -75,6 +71,8 @@
 - 18da) § 40 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení zákona č. 180/2011 Z. z.
 
 - 18db) § 19, § 20, § 157 ods. 3 a § 158 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
+
+- 18dd) § 19, § 20, § 157 ods. 3 a § 158 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
 
 - 19) § 2 ods. 1, 5 a 8 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
