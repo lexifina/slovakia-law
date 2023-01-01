@@ -1,0 +1,1 @@
+Jaroslav Naď v. r.

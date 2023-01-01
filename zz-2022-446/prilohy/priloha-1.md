@@ -1,0 +1,1 @@
+Príloha č. 1 k vyhláške č. 446/2022 Z. z. [ZOZNAM CHORÔB A PRÍBUZNÝCH ZDRAVOTNÝCH PROBLÉMOV](../assets/e64eed461fdc32cf965e6c8ff9073bf67e6f8d21843b16b4120a585d61189a61.pdf)
