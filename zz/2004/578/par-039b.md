@@ -6,7 +6,7 @@
 
 - b) splnil podmienky podľa § 31 okrem § 31 ods. 1 písm. c) a e).
 
-(2) Účelovo viazané finančné prostriedky na rezidentské štúdium poskytuje ministerstvo zdravotníctva prostredníctvom vzdelávacej ustanovizne zamestnávateľovi zdravotníckeho pracovníka zaradeného do rezidentského štúdia (ďalej len „rezident“) na náhradu mzdy<sup>31d</sup>) rezidenta vo výške 1,25-násobku priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, za ktorý sa náhrada mzdy za príslušný mesiac kalendárneho roku poskytuje a odvodov poistného podľa osobitných predpisov<sup>31e</sup>) zamestnávateľa za poskytnutú náhradu mzdy.
+(2) Účelovo viazané finančné prostriedky na rezidentské štúdium poskytuje ministerstvo zdravotníctva prostredníctvom vzdelávacej ustanovizne zamestnávateľovi zdravotníckeho pracovníka zaradeného do rezidentského štúdia (ďalej len „rezident“) na náhradu mzdy<sup>31d</sup>) rezidenta vo výške 1,25-násobku priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, za ktorý sa náhrada mzdy za príslušný mesiac kalendárneho roku poskytuje a odvodov poistného podľa osobitných predpisov<sup>31e</sup>) zamestnávateľa za poskytnutú náhradu mzdy; to neplatí, ak ide o zdravotníckeho pracovníka v povolaní lekár, kedy účelovo viazané finančné prostriedky na rezidentské štúdium poskytuje ministerstvo zdravotníctva prostredníctvom vzdelávacej ustanovizne zamestnávateľovi lekára zaradeného do rezidentského štúdia na náhradu mzdy<sup>31d</sup>) rezidenta vo výške 1,5-násobku priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, za ktorý sa náhrada mzdy za príslušný mesiac kalendárneho roku poskytuje a odvodov poistného podľa osobitných predpisov<sup>31e</sup>) zamestnávateľa za poskytnutú náhradu mzdy. Zamestnávateľom rezidenta môže byť iba poskytovateľ ústavnej zdravotnej starostlivosti.
 
 (3) Ministerstvo zdravotníctva môže účelovo viazané finančné prostriedky na rezidentské štúdium poskytnúť vzdelávacej ustanovizni aj na
 
@@ -54,7 +54,7 @@
 
 - c) umožniť rezidentovi absolvovať rezidentské štúdium v dĺžke ustanovenej podľa § 40 ods. 2.
 
-(12) Rezidentské štúdium je možné prerušiť z dôvodu dočasnej pracovnej neschopnosti, materskej dovolenky alebo rodičovskej dovolenky, iných okolností hodných osobitného zreteľa alebo skončenia pracovného pomeru v dôsledku okolností hodných osobitného zreteľa, ktoré rezident nemohol ovplyvniť svojím konaním; na obdobie prerušenia rezidentského štúdia ministerstvo zdravotníctva pozastaví poskytovanie finančných prostriedkov.
+(12) Rezidentské štúdium je možné prerušiť z dôvodu dočasnej pracovnej neschopnosti, materskej dovolenky alebo rodičovskej dovolenky, iných okolností hodných osobitného zreteľa alebo skončenia pracovného pomeru; na obdobie prerušenia rezidentského štúdia ministerstvo zdravotníctva pozastaví poskytovanie finančných prostriedkov. Rezidentské štúdium je možné z dôvodu skončenia pracovného pomeru prerušiť najviac na dva roky.
 
 (13) Ak zdravotnícky pracovník úspešne ukončil rezidentské štúdium v špecializačnom odbore všeobecné lekárstvo, je povinný
 
@@ -66,7 +66,7 @@
 
 - d) vykonávať špecializované pracovné činnosti podľa písmena a) najmenej v rozsahu polovice rozsahu ordinačných hodín podľa § 79 ods. 1 písm. aj).
 
-(14) Do lehoty podľa odseku 13 písm. a), odseku 23 písm. a) a doby podľa odseku 13 písm. b) sa nezapočítava obdobie dočasnej pracovnej neschopnosti, obdobie materskej dovolenky, obdobie rodičovskej dovolenky alebo obdobie, v ktorom zdravotnícky pracovník nemohol poskytovať zdravotnú starostlivosť z iných dôvodov hodných osobitného zreteľa.
+(14) Do lehoty podľa odseku 13 písm. a) a doby podľa odseku 13 písm. b) sa nezapočítava obdobie dočasnej pracovnej neschopnosti, obdobie materskej dovolenky, obdobie rodičovskej dovolenky alebo obdobie, v ktorom zdravotnícky pracovník nemohol poskytovať zdravotnú starostlivosť z iných dôvodov hodných osobitného zreteľa.
 
 (15) Poskytovateľ, ktorý má vydané povolenie na prevádzkovanie všeobecnej ambulancie a uskutočňuje v rezidentskom štúdiu praktickú výučbu v špecializačnom odbore všeobecné lekárstvo alebo v špecializačnom odbore pediatria, musí spĺňať tieto podmienky:
 
@@ -90,9 +90,9 @@
 
 (19) Ak sa rezident neprihlásil na špecializačnú skúšku v lehote podľa odseku 9 písm. a), ministerstvo zdravotníctva mu uloží pokutu do výšky 500 eur. Ak rezident úspešne neukončil rezidentské štúdium špecializačnou skúškou najneskôr v druhom opravnom termíne, je povinný uhradiť ministerstvu zdravotníctva 5 000 eur za každý začatý rok rezidentského štúdia.
 
-(20) Ak zdravotnícky pracovník, ktorý po úspešnom ukončení rezidentského štúdia nezačal poskytovať zdravotnú starostlivosť podľa odseku 13 písm. a) alebo odseku 23 písm. a), je povinný uhradiť ministerstvu zdravotníctva 5 000 eur za každý rok rezidentského štúdia.
+(20) Ak zdravotnícky pracovník, ktorý po úspešnom ukončení rezidentského štúdia nezačal poskytovať zdravotnú starostlivosť podľa odseku 13 písm. a), je povinný uhradiť ministerstvu zdravotníctva 5 000 eur za každý rok rezidentského štúdia.
 
-(21) Ak zdravotnícky pracovník, ktorý po úspešnom ukončení rezidentského štúdia neposkytoval zdravotnú starostlivosť podľa odseku 13 písm. b) alebo odseku 23 písm. a), je povinný uhradiť ministerstvu zdravotníctva 5 000 eur za každý rok, v ktorom neposkytoval zdravotnú starostlivosť podľa odseku 13 písm. b) alebo odseku 23 písm. a).
+(21) Ak zdravotnícky pracovník, ktorý po úspešnom ukončení rezidentského štúdia neposkytoval zdravotnú starostlivosť podľa odseku 13 písm. b), je povinný uhradiť ministerstvu zdravotníctva 5 000 eur za každý rok, v ktorom neposkytoval zdravotnú starostlivosť podľa odseku 13 písm. b).
 
 (22) Povinnosť úhrady podľa odsekov 19 až 21 nevzniká, ak
 
@@ -100,18 +100,14 @@
 
 - b) rezident prestal spĺňať podmienku na výkon zdravotníckeho povolania podľa § 31 ods. 1 písm. b),
 
-- c) rezident neposkytoval zdravotnú starostlivosť podľa odseku 13 písm. a) a b) alebo odseku 23 písm. a) z iných dôvodov hodných osobitného zreteľa.
+- c) rezident neposkytoval zdravotnú starostlivosť podľa odseku 13 písm. a) a b) z iných dôvodov hodných osobitného zreteľa.
 
-(23) Na zdravotníckeho pracovníka, ktorý úspešne ukončil rezidentské štúdium v špecializačnom odbore inom ako všeobecné lekárstvo, sa vzťahujú povinnosti podľa odseku 13 alebo tieto povinnosti:
+(23) Ak zamestnávateľ neumožní rezidentovi absolvovať rezidentské štúdium podľa odseku 11 písm. c), je povinný uhradiť ministerstvu zdravotníctva 5 000 eur za každý začatý rok rezidentského štúdia.
 
-- a) bezodkladne začať vykonávať zdravotnícke povolanie podľa § 3 ods. 4 písm. a) v špecializačnom odbore, v ktorom úspešne ukončil rezidentské štúdium u zamestnávateľa, ktorý podal žiadosť o zaradenie zdravotníckeho pracovníka do rezidentského štúdia, a to úhrnne najmenej päť rokov počas siedmich rokov od úspešného absolvovania špecializačnej skúšky najmenej v rozsahu ustanoveného týždenného pracovného času alebo úhrnne päť rokov počas desiatich rokov od úspešného absolvovania špecializačnej skúšky najmenej v rozsahu polovice ustanoveného týždenného pracovného času,
+(24) Ak sa ďalšie vzdelávanie neuskutočňuje z dôvodu vyhlásenej krízovej situácie z dôvodu ochorenia COVID-19, poskytovanie finančných prostriedkov podľa odseku 2 sa na obdobie prerušenia rezidentského štúdia z tohto dôvodu neprerušuje. Ustanovenia upravujúce povinnosti rezidenta a zamestnávateľa rezidenta uvedené v odseku 9 a odseku 11 písm. a) a c) sa počas krízovej situácie z dôvodu ochorenia COVID-19 neuplatňujú.
 
-- b) oznámiť ministerstvu zdravotníctva do 30 dní od začatia poskytovania zdravotnej starostlivosti názov a adresu sídla poskytovateľa, dohodnutý pracovný čas, dátum začatia poskytovania zdravotnej starostlivosti a bezodkladne každú zmenu týchto údajov.
+(25) Vzdelávacia ustanovizeň je povinná do desiatich dní od vykonania špecializačnej skúšky rezidentom zaslať samosprávnemu kraju označenému v žiadosti o zaradenie zdravotníckeho pracovníka do rezidentského štúdia podľa odseku 6 písm. f) zoznam absolventov rezidentského štúdia.
 
-(24) Ak zamestnávateľ neumožní rezidentovi absolvovať rezidentské štúdium podľa odseku 11 písm. c), je povinný uhradiť ministerstvu zdravotníctva 5 000 eur za každý začatý rok rezidentského štúdia.
+(26) Zoznam podľa odseku 25 obsahuje meno a priezvisko rezidenta, dátum vykonania špecializačnej skúšky, názov špecializačného odboru a kontaktné údaje, ktorými sú telefónne číslo, emailová adresa alebo kontaktná adresa.
 
-(25) Ak sa ďalšie vzdelávanie neuskutočňuje z dôvodu vyhlásenej krízovej situácie z dôvodu ochorenia COVID-19, poskytovanie finančných prostriedkov podľa odseku 2 sa na obdobie prerušenia rezidentského štúdia z tohto dôvodu neprerušuje. Ustanovenia upravujúce povinnosti rezidenta a zamestnávateľa rezidenta uvedené v odseku 9 a odseku 11 písm. a) a c) sa počas krízovej situácie z dôvodu ochorenia COVID-19 neuplatňujú.
-
-(26) Vzdelávacia ustanovizeň je povinná do desiatich dní od vykonania špecializačnej skúšky rezidentom zaslať samosprávnemu kraju označenému v žiadosti o zaradenie zdravotníckeho pracovníka do rezidentského štúdia podľa odseku 6 písm. f) zoznam absolventov rezidentského štúdia.
-
-(27) Zoznam podľa odseku 26 obsahuje meno a priezvisko rezidenta, dátum vykonania špecializačnej skúšky, názov špecializačného odboru a kontaktné údaje, ktorými sú telefónne číslo, emailová adresa alebo kontaktná adresa.
+(27) Zamestnávateľ rezidenta nemôže rezidenta zaväzovať, aby po ukončení rezidentského štúdia zotrval u neho v pracovnom pomere alebo požadovať úhradu nákladov vynaložených na jeho vzdelávanie, ak uňho rezident nezotrvá v pracovnom pomere.

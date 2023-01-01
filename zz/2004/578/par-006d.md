@@ -14,7 +14,7 @@
 
 - f) neobsadené pracovné miesta u poskytovateľov všeobecnej ambulantnej starostlivosti na území kraja, ak samosprávny kraj požiadajú o zverejnenie.
 
-(2) Informácie podľa ods. 1 písm. a) až d) a f) samosprávny kraj uverejňuje na svojom webovom sídle a na úradnej tabuli, priebežne ich aktualizuje podľa obsadzovania a uvoľňovania lekárskych miest v rámci kraja z informácií z vlastnej činnosti pri vydávaní povolení podľa § 11 a z informácií poskytnutých poskytovateľmi všeobecnej ambulantnej starostlivosti podľa § 79 ods. 20.
+(2) Informácie podľa ods. 1 písm. a) až d) a f) samosprávny kraj uverejňuje na svojom webovom sídle a na úradnej tabuli, priebežne ich aktualizuje podľa obsadzovania a uvoľňovania lekárskych miest v rámci kraja z informácií z vlastnej činnosti pri vydávaní povolení podľa § 11 a z informácií poskytnutých poskytovateľmi všeobecnej ambulantnej starostlivosti podľa § 79 ods. 18.
 
 (3) Informácie podľa odseku 1 písm. e) samosprávny kraj aktualizuje a uverejňuje na svojom webovom sídle a na úradnej tabuli každoročne do 15. februára. Aktualizované informácie platné 1. januára kalendárneho roka, ktorý nasleduje po kalendárnom roku, v ktorom sa vyhodnocuje stav siete podľa § 5 ods. 6, zasielajú samosprávnemu kraju a ministerstvu zdravotníctva zdravotné poisťovne každoročne do 1. februára.
 

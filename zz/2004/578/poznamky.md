@@ -196,8 +196,6 @@
 
 - 31a) § 19 ods. 2 písm. c) tretí bod zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
-- 31aa) § 45 Zákonníka práce.
-
 - 31ab) § 6 až 11 zákona č. 362/2011 Z. z. v znení neskorších predpisov.
 
 - 31ac) § 46 ods. 1 písm. p) zákona č. 576/2004 Z. z. v znení zákona č. 67/2022 Z. z.
@@ -307,6 +305,8 @@
 - 55c) § 20 ods. 1 písm. m) zákona č. 581/2004 Z. z. v znení neskorších predpisov.
 
 - 55ca) § 3 ods. 1 zákona č. 576/2004 Z. z. v znení zákona č. 428/2015 Z. z.
+
+- 55caa) § 67b ods. 3 písm. d) a j) zákona č. 581/2004 Z. z.
 
 - 55cb) § 67b ods. 3 zákona č. 581/2004 Z. z. v znení zákona č. 392/2020 Z. z.
 
@@ -428,15 +428,9 @@
 
 - 55n) § 14 ods. 1 zákona č. 576/2004 Z. z. v znení zákona č. 139/2019 Z. z.
 
-- 55o) § 44 ods. 2 písm. c) prvého bodu zákona č. 540/2021 Z. z.
-
-- 56) § 25a zákona č. 580/2004 Z. z. v znení zákona č. 356/2016 Z. z.
-
 - 57) § 9 ods. 3 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
 
 - 58) § 8 ods. 3 zákona č. 581/2004 Z. z.
-
-- 58a) § 6 ods. 2 zákona č. 581/2004 Z. z. v znení zákona č. 353/2005 Z. z.
 
 - 58b) § 2 ods. 11 zákona č. 576/2004 Z. z.
 
@@ -479,6 +473,8 @@
 - 60ab) § 85 Zákonníka práce.
 
 - 60ac) Zákonník práce.
+
+- 60ad) Napríklad nariadenie Európskeho parlamentu a Rady (ES) č. 883/2004 z 29. apríla 2004 o koordinácii systémov sociálneho zabezpečenia (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 5; Ú. v. EÚ L 200, 7. 6. 2004) v platnom znení, nariadenie Európskeho parlamentu a Rady (ES) č. 987/2009 zo 16. septembra 2009, ktorým sa stanovuje postup vykonávania nariadenia (ES) č. 883/2004 o koordinácii systémov sociálneho zabezpečenia (Ú. v. EÚ L 284, 30. 10. 2009) v platnom znení, zákon č. 461/2003 Z. z. v znení neskorších predpisov.
 
 - 60b) § 18 ods. 1 písm. b) a c) zákona č. 581/2004 Z. z. v znení neskorších predpisov.
 

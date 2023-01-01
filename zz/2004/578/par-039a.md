@@ -19,3 +19,5 @@
 (2) Štátna rozpočtová organizácia a štátna príspevková organizácia plánujú finančné prostriedky na ďalšie vzdelávanie vlastných zamestnancov na kalendárny rok priamo v rozpočte; tieto prostriedky sa použijú v súlade s plánom vzdelávania zamestnancov. Ak tieto organizácie získajú doplnkové zdroje financovania, financujú ďalšie vzdelávanie aj z týchto zdrojov.<sup>31c</sup>)
 
 (3) Výšku úhrad podľa odseku 1 písm. d) ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo zdravotníctva.
+
+(4) Poskytovateľ, ktorý je štátnou rozpočtovou organizáciou, štátnou príspevkovou organizáciou alebo právnickou osobou so 100 % majetkovou účasťou štátu, nemôže v dohode o zvyšovaní kvalifikácie uzatvorenej podľa osobitného predpisu vyžadovať od zdravotníckeho pracovníka vrátenie nákladov za poskytnutú náhradu mzdy vrátane odvodov za pracovné voľno poskytnuté na praktickú časť špecializačného štúdia, počas ktorého zdravotnícky pracovník vykonával prácu zdravotníckeho pracovníka u iného poskytovateľa, ktorý je štátnou rozpočtovou organizáciou, štátnou príspevkovou organizáciou alebo právnickou osobou so 100 % majetkovou účasťou štátu.
