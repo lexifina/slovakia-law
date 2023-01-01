@@ -118,6 +118,8 @@
 
 - 15acd) § 56 ods. 3 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení zákona č. 2/2017 Z. z.
 
+- 15ace) § 7 ods. 10 druhá veta zákona č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zmene a doplnení niektorých zákonov v znení zákona č. 494/2022 Z. z.
+
 - 15ad) § 68 ods. 4 písm. c) Obchodného zákonníka.
 
 - 15b) § 68 ods. 2 Obchodného zákonníka.
