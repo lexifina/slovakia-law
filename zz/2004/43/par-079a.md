@@ -1,6 +1,6 @@
 # § 79a
 
-(1) Ustanovenia odsekov 2 až 11 sa vzťahujú na zlúčenie, ktoré nie je zlúčením podľa § 79.
+(1) Ustanovenia odsekov 2 až 9 sa vzťahujú na zlúčenie, ktoré nie je zlúčením podľa § 79.
 
 (2) Zlúčenie je proces spojenia majetku v jednom alebo vo viacerých zanikajúcich dôchodkových fondoch s majetkom v nástupníckom dôchodkovom fonde, pri ktorom sa
 
@@ -21,7 +21,3 @@
 (8) Zlúčenie dôchodkových fondov nemožno vyhlásiť za neplatné.
 
 (9) Ak v dôsledku zlúčenia dôchodkových fondov dôjde k nedodržaniu obmedzení pre zloženie majetku v nástupníckom dôchodkovom fonde podľa tohto zákona alebo podľa štatútu nástupníckeho dôchodkového fondu, dôchodková správcovská spoločnosť je povinná zosúladiť zloženie majetku s ustanoveniami tohto zákona v lehote do šiestich mesiacov odo dňa účinnosti zlúčenia dôchodkových fondov. V odôvodnených prípadoch a v záujme ochrany majetku sporiteľov môže Národná banka Slovenska na žiadosť dôchodkovej správcovskej spoločnosti lehotu podľa prvej vety predĺžiť.
-
-(10) Zlúčenie garantovaného dôchodkového fondu sa zakazuje, ak je nástupníckym dôchodkovým fondom negarantovaný dôchodkový fond.
-
-(11) Ak je zanikajúcim dôchodkovým fondom garantovaný dôchodkový fond a zlúčenie podľa odsekov 2 až 9 sa má vykonať počas plynutia sledovaného obdobia podľa § 63d ods. 4, dôchodková správcovská spoločnosť je povinná oceniť majetok v zanikajúcom dôchodkovom fonde podľa § 88b ku dňu podľa odseku 6 a v tento deň doplniť majetok podľa § 63d, pričom za posledný kalendárny mesiac sledovaného obdobia sa považuje kalendárny mesiac, ktorý bezprostredne predchádza kalendárnemu mesiacu, v ktorom sa nachádza deň podľa odseku 6, a za prvý kalendárny mesiac sledovaného obdobia sa považuje kalendárny mesiac plynúceho sledovaného obdobia, ktoré začalo plynúť ako prvé v poradí.

@@ -30,13 +30,15 @@
 
 - 20) § 138 zákona č. 461/2003 Z. z. v znení zákona č. 543/2010 Z. z.
 
+- 21) § 138 ods. 9 písm. b) a ods. 12 písm. b) zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+
 - 29) § 139 zákona č. 461/2003 Z. z.
 
-- 30) § 140 ods. 1 a 3 zákona č. 461/2003 Z. z.
+- 30) § 140 ods. 2 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
-- 31) § 140 ods. 1 a 4 zákona č. 461/2003 Z. z.
+- 31) § 140 ods. 3 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
-- 32) § 140 ods. 1 a 2 zákona č. 461/2003 Z. z.
+- 32) § 140 ods. 1 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
 - 33) § 12 ods. 4 zákona č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -62,7 +64,7 @@
 
 - 38d) § 51 a 129 zákona č. 328/2002 Z. z. v znení neskorších predpisov.
 
-- 38e) § 293fg zákona č. 461/2003 Z. z. v znení zákona č. 275/2020 Z. z.
+- 38e) § 66b a § 293fg zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
 - 40) Zákon č. 221/2006 Z. z. o výkone väzby v znení neskorších predpisov.
 
@@ -232,7 +234,7 @@
 
 - 90) Zákon č. 540/2001 Z. z. štátnej štatistike.
 
-- 91) Obchodný zákonník a Zákonník práce
+- 91) Napríklad § 35 až 38 zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov, § 14 ods. 5 a § 30aa ods. 21 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 92) Zákon č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov.
 

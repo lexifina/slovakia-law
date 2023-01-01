@@ -16,7 +16,7 @@
 
 (2) Náklady podľa odseku 1 písm. a) až f) sa uhrádzajú z majetku dôchodkového fondu.
 
-(3) Odplata za správu dôchodkového fondu za jeden kalendárny rok správy dôchodkového fondu určená v štatúte dôchodkového fondu nesmie presiahnuť 0,3 % priemernej ročnej predbežnej čistej hodnoty majetku v dôchodkovom fonde.
+(3) Odplata za správu dôchodkového fondu za jeden kalendárny rok správy dôchodkového fondu určená v štatúte dôchodkového fondu nesmie presiahnuť 0,4 % priemernej ročnej predbežnej čistej hodnoty majetku v dôchodkovom fonde.
 
 (4) Na výpočet odplaty za správu dôchodkového fondu sa použije údaj o čistej predbežnej hodnote majetku v dôchodkovom fonde vypočítaný podľa § 75 ods. 4.
 
