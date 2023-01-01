@@ -4,7 +4,7 @@
 
 - a) nie je povinný uviesť žiadne údaje o plneniach,
 
-- b) je povinný uviesť len údaje o dodaní tovaru oslobodeného od dane podľa § 43 alebo § 47 alebo údaje o dodaní tovaru podľa § 45 a súčasne v ktorom neuvádza údaje o odpočítaní dane alebo uvádza len odpočítanie dane podľa § 49 ods. 2 písm. d).
+- b) je povinný uviesť len údaje o dodaní tovaru oslobodeného od dane podľa § 43 alebo § 47 a súčasne v ktorom neuvádza údaje o odpočítaní dane alebo uvádza len odpočítanie dane podľa § 49 ods. 2 písm. d).
 
 (2) Kontrolný výkaz musí obsahovať údaje o daňovej povinnosti a odpočítaní dane za príslušné zdaňovacie obdobie v tomto členení:
 
@@ -68,7 +68,7 @@
 
 - b) pri ktorej platiteľ nie je povinný vyhotoviť opravný doklad, sa v kontrolnom výkaze uvádza suma, o ktorú sa opravil základ dane a daň.
 
-(10) Pri oprave odpočítanej dane a oprave opravenej odpočítanej dane podľa § 53b sa v kontrolnom výkaze uvádzajú tieto údaje:
+(10) Pri oprave odpočítanej dane podľa § 53b ods. 1 písm. b) a oprave opravenej odpočítanej dane podľa § 53b ods. 4 písm. b) sa v kontrolnom výkaze uvádzajú tieto údaje:
 
 - a) identifikačné číslo pre daň dodávateľa,
 
@@ -80,10 +80,12 @@
 
 - e) sadzba dane.
 
-(11) Ak platiteľ, ktorý podal kontrolný výkaz, zistí pred uplynutím lehoty na podanie kontrolného výkazu, že údaje uvedené v kontrolnom výkaze sú neúplné alebo nesprávne, podá opravný kontrolný výkaz, pričom na pôvodne podaný kontrolný výkaz sa neprihliada. Ak platiteľ, ktorý podal kontrolný výkaz, zistí po uplynutí lehoty na podanie kontrolného výkazu, že údaje v kontrolnom výkaze sú neúplné alebo nesprávne, podá dodatočný kontrolný výkaz, v ktorom uvedie len doplnené alebo opravené údaje.
+(11) Pri oprave odpočítanej dane podľa § 53b ods. 1 písm. a) alebo ods. 2 a oprave opravenej odpočítanej dane podľa § 53b ods. 4 písm. a) sa v kontrolnom výkaze uvádzajú údaje podľa odseku 10 písm. a), d) a e) a poradové číslo faktúry o dodaní tovaru alebo služby, ktorého sa oprava týka.
 
-(12) Ak nebol kontrolný výkaz podaný v lehote podľa odseku 1, daňový úrad vyzve platiteľa na jeho podanie. Ak vzniknú pochybnosti o správnosti, pravdivosti alebo úplnosti podaného kontrolného výkazu alebo o pravdivosti údajov v ňom uvedených, oznámi daňový úrad tieto pochybnosti platiteľovi, ktorý kontrolný výkaz podal, a vyzve ho, aby sa k nim vyjadril, neúplné údaje doplnil, nejasnosti vysvetlil a nepravdivé údaje opravil alebo pravdivosť údajov riadne preukázal. Na základe tejto výzvy je platiteľ povinný do piatich pracovných dní od doručenia výzvy nedostatky podaného kontrolného výkazu odstrániť.
+(12) Ak platiteľ, ktorý podal kontrolný výkaz, zistí pred uplynutím lehoty na podanie kontrolného výkazu, že údaje uvedené v kontrolnom výkaze sú neúplné alebo nesprávne, podá opravný kontrolný výkaz, pričom na pôvodne podaný kontrolný výkaz sa neprihliada. Ak platiteľ, ktorý podal kontrolný výkaz, zistí po uplynutí lehoty na podanie kontrolného výkazu, že údaje v kontrolnom výkaze sú neúplné alebo nesprávne, podá dodatočný kontrolný výkaz, v ktorom uvedie len doplnené alebo opravené údaje.
 
-(13) Ak platiteľ nedoručí kontrolný výkaz daňovému úradu, doručí kontrolný výkaz oneskorene, uvedie v kontrolnom výkaze neúplné alebo nesprávne údaje alebo v lehote určenej vo výzve daňového úradu neodstráni nedostatky podaného kontrolného výkazu, daňový úrad uloží platiteľovi pokutu do výšky 10 000 eur. Ak platiteľ poruší povinnosti podľa prvej vety opakovane, daňový úrad uloží pokutu do výšky 100 000 eur. Pri určení výšky pokuty prihliadne daňový úrad na závažnosť a dĺžku trvania protiprávneho stavu.
+(13) Ak nebol kontrolný výkaz podaný v lehote podľa odseku 1, daňový úrad vyzve platiteľa na jeho podanie. Ak vzniknú pochybnosti o správnosti, pravdivosti alebo úplnosti podaného kontrolného výkazu alebo o pravdivosti údajov v ňom uvedených, oznámi daňový úrad tieto pochybnosti platiteľovi, ktorý kontrolný výkaz podal, a vyzve ho, aby sa k nim vyjadril, neúplné údaje doplnil, nejasnosti vysvetlil a nepravdivé údaje opravil alebo pravdivosť údajov riadne preukázal. Na základe tejto výzvy je platiteľ povinný do piatich pracovných dní od doručenia výzvy nedostatky podaného kontrolného výkazu odstrániť.
 
-(14) Platiteľ uvedie údaje podľa odsekov 2 až 10 v kontrolnom výkaze v členení, ktorého vzor ustanoví všeobecne záväzný právny predpis, ktorý vydá Ministerstvo financií Slovenskej republiky. Kontrolný výkaz sa podáva vo formáte Extensible Markup Language (XML), ktorého opis dátového rozhrania je zverejnený na webovom sídle finančného riaditeľstva; na kontrolný výkaz, ktorý platiteľ doručil inak, sa neprihliada.
+(14) Ak platiteľ nedoručí kontrolný výkaz daňovému úradu, doručí kontrolný výkaz oneskorene, uvedie v kontrolnom výkaze neúplné alebo nesprávne údaje alebo v lehote určenej vo výzve daňového úradu neodstráni nedostatky podaného kontrolného výkazu, daňový úrad uloží platiteľovi pokutu do výšky 10 000 eur. Ak platiteľ poruší povinnosti podľa prvej vety opakovane, daňový úrad uloží pokutu do výšky 100 000 eur. Pri určení výšky pokuty prihliadne daňový úrad na závažnosť a dĺžku trvania protiprávneho stavu.
+
+(15) Platiteľ uvedie údaje podľa odsekov 2 až 11 v kontrolnom výkaze v členení, ktorého vzor ustanoví všeobecne záväzný právny predpis, ktorý vydá Ministerstvo financií Slovenskej republiky. Kontrolný výkaz sa podáva vo formáte Extensible Markup Language (XML), ktorého opis dátového rozhrania je zverejnený na webovom sídle finančného riaditeľstva; na kontrolný výkaz, ktorý platiteľ doručil inak, sa neprihliada.

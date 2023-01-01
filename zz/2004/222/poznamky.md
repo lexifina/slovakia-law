@@ -60,11 +60,19 @@
 
 - 6acf) § 205 Civilného mimosporového poriadku.
 
+- 6acg) Napríklad § 14 ods. 2 zákona č. 307/2016 Z. z. o upomínacom konaní a o doplnení niektorých zákonov.
+
 - 6ad) § 3 zákona č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zmene a doplnení niektorých zákonov.
 
 - 6ae) § 5 ods. 2 zákona č. 112/2018 Z. z.
 
 - 6af) § 4 zákona č. 112/2018 Z. z.
+
+- 6ag) § 2 písm. b) zákona č. 222/2022 Z. z. o štátnej podpore nájomného bývania a o zmene a doplnení niektorých zákonov.
+
+- 6ah) § 2 písm. g) zákona č. 222/2022 Z. z.
+
+- 6ai) § 2 písm. j) zákona č. 222/2022 Z. z.
 
 - 6b) Čl. 12 nariadenia Rady (EHS) č. 2913/92 z 12.10.1992, ktorým sa ustanovuje Colný kódex Spoločenstva (Ú. v. ES L 302,19.10. 1992).
 
@@ -233,3 +241,9 @@
 - 36) Čl. 14 nariadenia Rady (ES) č. 479/2009 z 25. mája 2009 o uplatňovaní Protokolu o postupe pri nadmernom schodku, ktorý tvorí prílohu Zmluvy o založení Európskeho spoločenstva (kodifikované znenie) (Ú. v. EÚ L 145, 10. 6. 2009).
 
 - 37) § 35b ods. 1 písm. h) zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení zákona č. 83/2009 Z. z.
+
+- 38) § 62 ods. 1 písm. h) zákona č. 563/2009 Z. z.
+
+- 39) § 19 ods. 4 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení zákona č. 306/2012 Z. z.
+
+- 40) Čl. 6 vykonávacieho nariadenia Rady (EÚ) č. 282/2011 z 15. marca 2011, ktorým sa ustanovujú vykonávacie opatrenia smernice 2006/112/ES o spoločnom systéme dane z pridanej hodnoty (prepracované znenie) (Ú. v. EÚ L 77, 23. 3. 2011) v platnom znení.

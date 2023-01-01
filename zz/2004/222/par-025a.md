@@ -4,7 +4,13 @@
 
 (2) Na účely tohto zákona sa pohľadávka z dodania tovaru alebo služby stáva nevymožiteľnou pohľadávkou, ak
 
-- a) je vymáhaná v exekučnom konaní<sup>6aca</sup>) a v priebehu 12 mesiacov od začatia exekučného konania nebola uspokojená, a to dňom, ktorý nasleduje po uplynutí 12 mesiacov od začatia exekučného konania, a v rozsahu, v akom nebola uspokojená,
+- a) uplynulo 150 dní od splatnosti pohľadávky za dodanie tovaru alebo služby, v rozsahu, v akom nebola zaplatená, a táto pohľadávka
+
+  - 1. nie je viac ako 1 000 eur vrátane dane a platiteľ preukáže, že vykonal akýkoľvek úkon, ktorý smeruje k získaniu úhrady pohľadávky,
+
+  - 2. je viac ako 1 000 eur vrátane dane a platiteľ preukáže, že sa domáha zaplatenia pohľadávky žalobou na súde okrem rozhodcovského súdu, alebo
+
+  - 3. je viac ako 1 000 eur vrátane dane a platiteľ preukáže, že je vymáhaná v exekučnom konaní podľa osobitného predpisu,<sup>6aca</sup>)
 
 - b) sa odberateľ (dlžník) nachádza v konkurznom konaní<sup>6acb</sup>) a
 
@@ -30,9 +36,7 @@
 
   - 2. táto pohľadávka bola v lehote určenej súdom prihlásená v konaní o likvidácii dedičstva,<sup>6acf</sup>) v rozsahu, v akom bola prihlásená, a to dňom, ktorý nasleduje po uplynutí lehoty na prihlásenie pohľadávok; ak platiteľ neprihlásil pohľadávku do konania o likvidácii dedičstva, dňom právoplatného skončenia likvidácie dedičstva, a to v rozsahu, v akom platiteľ preukáže, že by jeho pohľadávka nebola uspokojená, ani ak by bola prihlásená, za podmienky, že táto pohľadávka k tomuto dňu nebola premlčaná,
 
-- f) uplynulo 12 mesiacov od splatnosti pohľadávky za dodanie tovaru alebo služby a táto pohľadávka nie je viac ako 300 eur vrátane dane, ak platiteľ preukáže, že vykonal akýkoľvek úkon, ktorý smeruje k získaniu úhrady pohľadávky,
-
-- g) bolo zverejnené uznesenie o skončení reštrukturalizácie a pohľadávka v tomto konaní nebola prihlásená, a to dňom zverejnenia tohto uznesenia v Obchodnom vestníku v rozsahu, v akom platiteľ preukáže, že by jeho pohľadávka nebola uspokojená, ani ak by bola prihlásená, za podmienky, že táto pohľadávka k tomuto dňu nebola premlčaná.
+- f) bolo zverejnené uznesenie o skončení reštrukturalizácie a pohľadávka v tomto konaní nebola prihlásená, a to dňom zverejnenia tohto uznesenia v Obchodnom vestníku v rozsahu, v akom platiteľ preukáže, že by jeho pohľadávka nebola uspokojená, ani ak by bola prihlásená, za podmienky, že táto pohľadávka k tomuto dňu nebola premlčaná.
 
 (3) Platiteľ môže vykonať opravu základu dane podľa odseku 1 najviac vo výške, ktorá zodpovedá neprijatej protihodnote za dodanie tovaru alebo služby. Rozdiel medzi pôvodným základom dane a opraveným základom dane a rozdiel medzi pôvodnou daňou a opravenou daňou sa uvedie najskôr v daňovom priznaní za zdaňovacie obdobie, v ktorom sa pohľadávka stala nevymožiteľnou podľa odseku 2; pôvodný základ dane sa nemôže znížiť o sumu, ktorú platiteľ prijal v súvislosti s dodaním tovaru alebo služby po tom, ako sa pohľadávka stala nevymožiteľnou podľa odseku 2.
 
@@ -46,23 +50,21 @@
 
 (5) Právo platiteľa vykonať opravu základu dane pri nevymožiteľnej pohľadávke podľa odseku 2 zaniká uplynutím troch rokov od posledného dňa lehoty na podanie daňového priznania za zdaňovacie obdobie, v ktorom bol tovar alebo služba dodaná. Doba podľa prvej vety neplynie
 
-- a) počas súdneho konania alebo rozhodcovského konania, ak platiteľ na základe výsledkov týchto konaní uplatnil pohľadávku voči odberateľovi (dlžníkovi) v exekučnom konaní alebo uplatnil pohľadávku alebo mohol uplatniť pohľadávku v začatom konkurznom konaní,
+- a) počas súdneho konania alebo rozhodcovského konania, ak platiteľ na základe výsledkov týchto konaní uplatnil alebo mohol uplatniť pohľadávku voči odberateľovi (dlžníkovi) v začatom konkurznom konaní,
 
-- b) odo dňa začatia exekučného konania vedeného za účelom vymoženia pohľadávky platiteľa do uplynutia 12 mesiacov odo dňa začatia exekučného konania,
+- b) odo dňa začatia konkurzného konania do dňa zastavenia konkurzného konania pre nedostatok majetku alebo zrušenia konkurzu pre nedostatok majetku,
 
-- c) odo dňa začatia konkurzného konania do dňa zastavenia konkurzného konania pre nedostatok majetku alebo zrušenia konkurzu pre nedostatok majetku,
+- c) odo dňa začatia konkurzného konania do dňa zistenia pohľadávky platiteľa v konkurznom konaní,
 
-- d) odo dňa začatia konkurzného konania do dňa zistenia pohľadávky platiteľa v konkurznom konaní,
+- d) odo dňa vyhlásenia rozhodnutia o oddlžení konkurzom do dňa zrušenia konkurzu z dôvodu, že konkurzná podstata nepokryje náklady konkurzu,
 
-- e) odo dňa vyhlásenia rozhodnutia o oddlžení konkurzom do dňa zrušenia konkurzu z dôvodu, že konkurzná podstata nepokryje náklady konkurzu,
+- e) odo dňa vyhlásenia rozhodnutia o oddlžení konkurzom do dňa zistenia pohľadávky platiteľa v konkurznom konaní,
 
-- f) odo dňa vyhlásenia rozhodnutia o oddlžení konkurzom do dňa zistenia pohľadávky platiteľa v konkurznom konaní,
+- f) odo dňa zverejnenia uznesenia o poskytnutí ochrany dlžníkovi pred veriteľmi v Obchodnom vestníku do dňa skončenia konania o určení splátkového kalendára, v ktorom je zahrnutá pohľadávka platiteľa,
 
-- g) odo dňa zverejnenia uznesenia o poskytnutí ochrany dlžníkovi pred veriteľmi v Obchodnom vestníku do dňa skončenia konania o určení splátkového kalendára, v ktorom je zahrnutá pohľadávka platiteľa,
+- g) odo dňa úmrtia dlžníka do dňa nadobudnutia právoplatnosti uznesenia o zastavení konania o dedičstve alebo do prihlásenia pohľadávky v konaní o likvidácii dedičstva,
 
-- h) odo dňa úmrtia dlžníka do dňa nadobudnutia právoplatnosti uznesenia o zastavení konania o dedičstve alebo do prihlásenia pohľadávky v konaní o likvidácii dedičstva,
-
-- i) od začatia reštrukturalizačného konania do jeho skončenia, ak platiteľ v tomto konaní pohľadávku neprihlásil.
+- h) od začatia reštrukturalizačného konania do jeho skončenia, ak platiteľ v tomto konaní pohľadávku neprihlásil.
 
 (6) Ak po znížení základu dane podľa odseku 3 platiteľ prijme v súvislosti s nevymožiteľnou pohľadávkou podľa odseku 2 akúkoľvek platbu, je platiteľ povinný vykonať opravu zníženého základu dane, a to vo výške zodpovedajúcej prijatej platbe; ak platiteľ postúpi pohľadávku inej osobe, považuje sa to, že prijal platbu vo výške nevymožiteľnej pohľadávky podľa odseku 2. Platiteľ vykoná opravu zníženého základu dane v daňovom priznaní za zdaňovacie obdobie, v ktorom túto platbu prijal.
 
@@ -111,3 +113,13 @@
 (13) Ak platiteľ opravil základ dane podľa odseku 3 a nesplnil povinnosť podľa odseku 11 písm. a), oprava základu dane uvedená v daňovom priznaní za zdaňovacie obdobie, v ktorom vykonal opravu základu dane, sa neuzná.
 
 (14) Na opravu základu dane pri predaji tovarov a služieb, na ktoré sa vzťahuje uplatňovanie osobitných úprav podľa § 65 a 66 z dôvodu, že zákazník úplne alebo čiastočne nezaplatil za tieto tovary alebo služby, a táto pohľadávka sa stala nevymožiteľnou pohľadávkou podľa odseku 2, sa použijú odseky 3 až 6.
+
+(15) Platiteľ je povinný vykonať opravu zníženého základu dane v daňovom priznaní za zdaňovacie obdobie, v ktorom došlo k niektorej zo skutočností uvedených v písmenách a) až c), ak po znížení základu dane podľa odseku 3, z dôvodu, že sa pohľadávka stala nevymožiteľnou podľa odseku 2 písm. a) druhého bodu,
+
+- a) platiteľ vezme žalobu celkom alebo sčasti späť,
+
+- b) dôjde k zastaveniu konania podľa osobitného predpisu<sup>6acg</sup>) z dôvodov na strane platiteľa (dodávateľa) alebo
+
+- c) súd celkom alebo sčasti nepriznal platiteľovi uplatňovaný nárok.
+
+(16) Opravu zníženého základu dane podľa odseku 15 platiteľ vykoná vo výške zodpovedajúcej sume, v akej sa na základe skutočností uvedených v odseku 15 písm. a) až c) nemôže domáhať zaplatenia pohľadávky v príslušnom konaní.
