@@ -10,4 +10,6 @@ Opatrenie Ministerstva zdravotníctva Slovenskej republiky z 30. decembra 2003 �
 
 - V období od 1. novembra 2022 do 31. decembra 2022 je pevná cena za poskytovanie ošetrovateľskej starostlivosti v zariadeniach sociálnych služieb a zariadeniach sociálnoprávnej ochrany detí a sociálnej kurately 13,20 eura na osobu a deň v rozsahu minimálneho počtu lôžok na účely poskytovania ošetrovateľskej starostlivosti v zariadeniach sociálnych služieb a zariadeniach sociálnoprávnej ochrany detí a sociálnej kurately podľa príslušného samosprávneho kraja, ktoré majú v tomto období uzatvorenú so zdravotnou poisťovňou zmluvu o poskytovaní ošetrovateľskej starostlivosti.“.
 
-[Konsolidovane znenie](assets/2fd19585a88e160f945ee998a1bba928921bacfe88f1c148499cb8dfe0844c1b.pdf)
+- 2. V prílohe č. 4 časti A položke 6 Ošetrovateľská starostlivosť v zariadeniach sociálnych služieb a zariadeniach sociálnoprávnej ochrany detí a sociálnej kurately sa slová „3,30 eura“ nahrádzajú slovami „6,60 eura“.
+
+[Konsolidovane znenie](assets/ec4a003d45824bd513ede9396ba035380e34d52058c440bfeddb5f3e62f5b3f6.pdf)
