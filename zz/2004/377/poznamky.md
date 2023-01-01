@@ -10,6 +10,8 @@
 
 - 1ad) § 2 ods. 1 zákona č. 102/2014 Z. z. ochrane spotrebiteľa pri predaji tovaru alebo poskytovaní služieb na základe zmluvy uzavretej na diaľku alebo zmluvy uzavretej mimo prevádzkových priestorov predávajúceho a o zmene a doplnení niektorých zákonov v znení zákona č. 173/2015 Z. z.
 
+- 1ae) § 2 odsek 3 zákona č. 89/2016 Z. z. v znení zákona č. 367/2022 Z. z.
+
 - 2) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 2a) § 2 písm. j) zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
