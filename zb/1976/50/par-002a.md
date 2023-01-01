@@ -12,13 +12,13 @@
 
 - c) zloží požadovanú skúšku.
 
-(4) Odbornú spôsobilosť overuje Ministerstvo výstavby a regionálneho rozvoja Slovenskej republiky (ďalej len „ministerstvo“) skúškou.
+(4) Odbornú spôsobilosť overuje Úrad pre územné plánovanie a výstavbu Slovenskej republiky (ďalej len „úrad“) skúškou.
 
 (5) Odborná spôsobilosť sa osvedčuje vydaním preukazu o odbornej spôsobilosti a overuje sa každých desať rokov.
 
-(6) Ministerstvo vedie register odborne spôsobilých osôb.
+(6) Úrad vedie register odborne spôsobilých osôb.
 
-(7) Ministerstvo vyčiarkne z registra odborne spôsobilých osôb toho, kto
+(7) Úrad vyčiarkne z registra odborne spôsobilých osôb toho, kto
 
 - a) zomrel alebo bol vyhlásený za mŕtveho,
 
@@ -28,10 +28,10 @@
 
 - d) bol do registra zapísaný na základe nepravdivých alebo neúplných údajov,
 
-- e) porušuje napriek písomnému upozorneniu ministerstva predpisy o obstarávaní územnoplánovacích podkladov alebo územnoplánovacej dokumentácie,
+- e) porušuje napriek písomnému upozorneniu úradu predpisy o obstarávaní územnoplánovacích podkladov alebo územnoplánovacej dokumentácie,
 
 - f) písomne požiadal o vyčiarknutie alebo
 
 - g) po uplynutí 10 rokov od posledného overenia odbornej spôsobilosti nemá overenú odbornú spôsobilosť podľa odseku 5.
 
-(8) Bezúhonným na účely tohto zákona je ten, kto nebol právoplatne odsúdený za úmyselný trestný čin alebo za trestný čin spáchaný v súvislosti so zabezpečením obstarávania územnoplánovacích podkladov alebo územnoplánovacej dokumentácie. Bezúhonnosť sa preukazuje výpisom z registra trestov. Na účel preukázania bezúhonnosti poskytne fyzická osoba údaje potrebné na vyžiadanie výpisu z registra trestov.<sup>1ca</sup>) Údaje podľa tretej vety ministerstvo bezodkladne zašle v elektronickej podobe prostredníctvom elektronickej komunikácie Generálnej prokuratúre Slovenskej republiky na vydanie výpisu z registra trestov.
+(8) Bezúhonným na účely tohto zákona je ten, kto nebol právoplatne odsúdený za úmyselný trestný čin alebo za trestný čin spáchaný v súvislosti so zabezpečením obstarávania územnoplánovacích podkladov alebo územnoplánovacej dokumentácie. Bezúhonnosť sa preukazuje výpisom z registra trestov. Na účel preukázania bezúhonnosti poskytne fyzická osoba údaje potrebné na vyžiadanie výpisu z registra trestov.<sup>1ca</sup>) Údaje podľa tretej vety úrad bezodkladne zašle v elektronickej podobe prostredníctvom elektronickej komunikácie Generálnej prokuratúre Slovenskej republiky na vydanie výpisu z registra trestov.
