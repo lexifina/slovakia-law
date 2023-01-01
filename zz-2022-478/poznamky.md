@@ -1,0 +1,1 @@
+- 1) § 5 ods. 3 písm. c) zákona č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov.
