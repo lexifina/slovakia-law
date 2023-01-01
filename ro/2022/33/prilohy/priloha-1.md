@@ -1,0 +1,1 @@
+[príloha](../assets/a12322b93dc11d487736fd4ca04065943fb57961a03b8d3e532a8acc748ad5ba.pdf)
