@@ -70,6 +70,8 @@
 
 - 16b) § 9h ods. 4 zákona č. 580/2004 Z. z. v znení zákona č. 393/2020 Z. z.
 
+- 16c) § 2 ods. 3 a § 14 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+
 - 22) § 11 ods. 2 písm. h) zákona č. 578/2004 Z. z.
 
 - 23) § 2 ods. 5 zákona č. 576/2004 Z. z.
@@ -95,6 +97,8 @@
 - 29) § 15 ods. 1 písm. ae) zákona č. 581/2004 Z. z. v znení zákona č. 87/2018 Z. z.
 
 - 30) § 7 zákona č. 581/2004 Z. z.
+
+- 31) § 40 ods. 14 zákona č. 540/2021 Z. z. o kategorizácii ústavnej zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 
 - 32) § 2 ods. 5 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení neskorších predpisov.
 
