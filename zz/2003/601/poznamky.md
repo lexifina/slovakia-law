@@ -43,3 +43,7 @@
 - 18) § 8 ods. 1 druhá veta zákona č. 600/2003 Z. z. v znení zákona č. 226/2019 Z. z.
 
 - 19) § 293fg zákona č. 461/2003 Z. z. v znení zákona č. 275/2020 Z. z.
+
+- 20) § 66b zákona č. 461/2003 Z. z. v znení zákona č. 352/2022 Z. z.
+
+- 21) § 8 ods. 1 písm. b) zákona č. 600/2003 Z. z. v znení zákona č. 397/2022 Z. z.
