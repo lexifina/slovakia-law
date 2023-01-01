@@ -10,9 +10,13 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 
 - z pokuty uloženej za porušenie povinností ustanovených v § 228 ods. 1 písm. a) a b), § 231 ods. 1 písm. a), písm. b) prvom bode, písm. e) a l),“.
 
+- 3. V § 168 ods. 2 písm. i) sa slová „písm. e) a l)“ nahrádzajú slovami „písm. f) a m)“.
+
 - 4. V poznámke pod čiarou k odkazu 93ada sa za citáciu „§ 24 ods. 3“ vkladá citácia „a § 24a“.
 
 - 5. V § 170 ods. 21 sa slová „ods. 1 alebo § 231 ods. 1 písm. f)“ nahrádzajú slovami „ods. 1 písm. a) a b) alebo § 231 ods. 1 písm. e)“.
+
+- 6. V § 170 ods. 21 sa slová „písm. e)“ nahrádzajú slovami „písm. f)“.
 
 - 7. § 170 sa dopĺňa odsekom 22, ktorý znie:
 
@@ -115,6 +119,8 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
   - b) porušenie povinnosti podľa prvej vety, ak povinná osoba splní túto povinnosť do siedmich dní od uplynutia lehoty ustanovenej týmto zákonom.“.
 
 - 28. V § 241a ods. 2 písm. a) sa slová „písm. f)“ nahrádzajú slovami „písm. e)“.
+
+- 29. V § 241a ods. 2 písm. a) sa slová „písm. e)“ nahrádzajú slovami „písm. f)“.
 
 - 30. V § 244 odsek 4 znie:
 
