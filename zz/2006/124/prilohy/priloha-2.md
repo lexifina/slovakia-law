@@ -12,7 +12,7 @@ Príloha č. 2 k zákonu č. 124/2006 Z. z.
 
     - 01.2 bezpečnostných technikov
 
-    - 01.3 zamestnávateľov, ktorí budú osobne vykonať úlohy bezpečnostných technikov a autorizovaných bezpečnostných technikov
+    - 01.3 zamestnávateľov, ktorí budú osobne vykonať úlohy bezpečnostných technikov
 
   - skupina 02 Bezpečnosť a ochrana zdravia pri práci na vyhradených technických zariadeniach tlakových
 

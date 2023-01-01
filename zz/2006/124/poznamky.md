@@ -50,7 +50,7 @@
 
 - 14) Napríklad zákon Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov, zákon č. 125/2006 Z. z.
 
-- 15) Napríklad zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 571/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na výťahy v znení nariadenia vlády Slovenskej republiky č. 327/2003 Z. z., nariadenie vlády Slovenskej republiky č. 310/2004 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na strojové zariadenia.
+- 15) Napríklad zákon č. 56/2018 Z. z. o posudzovaní zhody výrobku, sprístupňovaní určeného výrobku na trhu a o zmene a doplnení niektorých zákonov v znení zákona č. 259/2021 Z. z., nariadenie vlády Slovenskej republiky č. 436/2008 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na strojové zariadenia v znení nariadenia vlády Slovenskej republiky č. 140/2011 Z. z., nariadenie vlády Slovenskej republiky č. 235/2015 Z. z. o uvádzaní výťahov na trh a sprístupňovaní bezpečnostných častí do výťahov na trhu v znení nariadenia vlády Slovenskej republiky č. 22/2017 Z. z.
 
 - 16) Napríklad nariadenie vlády Slovenskej republiky č. 391/2006 Z. z. o minimálnych bezpečnostných a zdravotných požiadavkách na pracovisko, nariadenie vlády Slovenskej republiky č. 392/2006 Z. z. o minimálnych bezpečnostných a zdravotných požiadavkách pri používaní pracovných prostriedkov, nariadenie vlády Slovenskej republiky č. 396/2006 Z. z. o minimálnych bezpečnostných a zdravotných požiadavkách na stavenisko.
 
@@ -68,7 +68,7 @@
 
 - Zákon č. 513/2009 Z. z. o dráhach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 19) Zákon č. 264/1999 Z. z. v znení neskorších predpisov.
+- 19) Zákon č. 505/2009 Z. z. o akreditácii orgánov posudzovania zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 19a) § 16 ods. 1 písm. a) zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 
@@ -97,6 +97,8 @@
 - Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 27a) § 5 ods. 3 písm. e) zákona Slovenskej národnej rady č. 51/1988 Zb. v znení zákona č. 58/2014 Z. z.
+
+- 28) § 10 zákona č. 125/2006 Z. z. v znení neskorších predpisov.
 
 - 29) Zákon Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov.
 
