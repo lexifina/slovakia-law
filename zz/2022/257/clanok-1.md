@@ -936,6 +936,14 @@ Zákon Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usp
 
   - § 65a ods. 2 písm. s) a § 65b ods. 5 zákona č. 543/2002 Z. z. v znení neskorších predpisov.“.
 
+- 127. V § 34 ods. 18 sa na konci pripája táto veta: „Ak sa v konaní pred orgánom verejnej správy podľa osobitných predpisov<sup>23hab</sup>) vyžaduje súhlasné stanovisko fondu a fond sa nevyjadrí v lehote určenej osobitným predpisom<sup>23hab</sup>) alebo v lehote 60 dní, ak lehota nie je určená osobitným predpisom,<sup>23hab</sup>) platí, že fond vydal súhlasné stanovisko; to sa nevzťahuje na stanovisko a vyjadrenie vzťahujúce sa k územiu európskej sústavy chránených území.<sup>23hac</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 23hab a 23hac znejú:
+
+  - „<sup>23hab</sup>) Napríklad stavebný zákon, zákon č. 220/2004 Z. z. v znení neskorších predpisov.
+
+  - <sup>23hac</sup>) § 28 zákona č. 543/2002 Z. z. v znení neskorších predpisov.“.
+
 - 128. V § 34 odsek 21 znie:
 
 - „(21)
