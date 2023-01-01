@@ -1,4 +1,4 @@
-- 1) § 4 ods. 1 zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 543/2010 Z. z.
+- 1) § 4 ods. 1 a § 4b zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - 2) § 7 zákona č. 461/2003 Z. z. v znení zákona č. 543/2010 Z. z.
 
