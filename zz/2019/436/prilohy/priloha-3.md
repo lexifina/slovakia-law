@@ -1,1 +1,0 @@
-Príloha č. 3 k vyhláške č. 436/2019 Z. z. [ROZSAH TRVANIA A ČASOVÝ INTERVAL AUDITU KYBERNETICKEJ BEZPEČNOSTI](../assets/eacef251101ec4eccc0a51d3faa34825cf9df96e67216da996fda7ebe46ed9bf.pdf)
