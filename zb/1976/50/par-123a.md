@@ -1,8 +1,8 @@
 # § 123a Slovenská stavebná inšpekcia
 
-(1) Zriaďuje sa Slovenská stavebná inšpekcia (ďalej len „inšpekcia”), ktorá je odborným orgánom, prostredníctvom ktorého ministerstvo vykonáva hlavný štátny stavebný dohľad.
+(1) Zriaďuje sa Slovenská stavebná inšpekcia (ďalej len „inšpekcia”), ktorá je odborným orgánom, prostredníctvom ktorého úrad vykonáva hlavný štátny stavebný dohľad.
 
-(2) Inšpekcia je štátna rozpočtová organizácia zapojená finančnými vzťahmi na rozpočet ministerstva. Inšpekciu tvorí riaditeľstvo inšpekcie so sídlom v Bratislave a stavebné inšpektoráty (ďalej len „inšpektoráty”), ktoré sú preddavkovými organizáciami zapojenými na rozpočet riaditeľstva inšpekcie. Riaditeľstvo inšpekcie je služobným úradom zamestnancov, ktorí v inšpekcii vykonávajú štátnu službu<sup>11b</sup>) a zamestnávateľom zamestnancov, ktorí v inšpekcii vykonávajú práce vo verejnom záujme.<sup>11c</sup>) Na čele riaditeľstva inšpekcie je riaditeľ inšpekcie, ktorého vymenúva a odvoláva minister výstavby a regionálneho rozvoja Slovenskej republiky (ďalej len „minister”). Riaditeľ inšpekcie je vedúcim služobného úradu. Na čele inšpektorátov sú riaditelia inšpektorátov, ktorých vymenúva a odvoláva riaditeľ inšpekcie.
+(2) Inšpekcia je štátna rozpočtová organizácia zapojená finančnými vzťahmi na rozpočet úradu. Inšpekciu tvorí riaditeľstvo inšpekcie so sídlom v Bratislave a stavebné inšpektoráty (ďalej len „inšpektoráty”), ktoré sú preddavkovými organizáciami zapojenými na rozpočet riaditeľstva inšpekcie. Riaditeľstvo inšpekcie je služobným úradom zamestnancov, ktorí v inšpekcii vykonávajú štátnu službu<sup>11b</sup>) a zamestnávateľom zamestnancov, ktorí v inšpekcii vykonávajú práce vo verejnom záujme.<sup>11c</sup>) Na čele riaditeľstva inšpekcie je riaditeľ inšpekcie, ktorého vymenúva a odvoláva predseda Úradu pre územné plánovanie a výstavbu Slovenskej republiky. Riaditeľ inšpekcie je vedúcim služobného úradu. Na čele inšpektorátov sú riaditelia inšpektorátov, ktorých vymenúva a odvoláva riaditeľ inšpekcie.
 
 (3) Inšpekcia vykonáva štátny stavebný dohľad podľa § 98 až 102 a dohľad nad
 

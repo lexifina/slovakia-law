@@ -26,11 +26,11 @@
 
 (4) Prílohou žiadosti je výpis z registra právnických osôb; to neplatí, ak je register právnických osôb prístupný na webovom sídle príslušného orgánu.<sup>12ac</sup>)
 
-(5) Ak žiadosť nie je úplná alebo má ministerstvo dôvodné pochybnosti o pravdivosti údajov uvedených v žiadosti, ministerstvo vyzve žiadateľa, aby žiadosť doplnil alebo pravdivosť údajov preukázal a určí mu nato primeranú lehotu. Ak žiadateľ v určenej lehote žiadosť nedoplní alebo pravdivosť údajov nepreukáže, ministerstvo žiadateľa do registra nezapíše a vráti žiadosť žiadateľovi.
+(5) Ak žiadosť nie je úplná alebo má úrad dôvodné pochybnosti o pravdivosti údajov uvedených v žiadosti, úrad vyzve žiadateľa, aby žiadosť doplnil alebo pravdivosť údajov preukázal a určí mu nato primeranú lehotu. Ak žiadateľ v určenej lehote žiadosť nedoplní alebo pravdivosť údajov nepreukáže, úrad žiadateľa do registra nezapíše a vráti žiadosť žiadateľovi.
 
-(6) Zmenu zápisu v registri podľa odseku 1 uskutoční ministerstvo na žiadosť záujmového združenia vlastníkov reklamných stavieb o zmenu údajov v zápise alebo z vlastného podnetu. Z vlastného podnetu ministerstvo uskutoční zmenu zápisu v registri podľa odseku 1, ak zistí, že zapísané údaje nie sú pravdivé alebo nie sú úplné.
+(6) Zmenu zápisu v registri podľa odseku 1 uskutoční úrad na žiadosť záujmového združenia vlastníkov reklamných stavieb o zmenu údajov v zápise alebo z vlastného podnetu. Z vlastného podnetu úrad uskutoční zmenu zápisu v registri podľa odseku 1, ak zistí, že zapísané údaje nie sú pravdivé alebo nie sú úplné.
 
-(7) Výmaz z registra podľa odseku 1 uskutoční ministerstvo na žiadosť záujmového združenia vlastníkov reklamných stavieb alebo z vlastného podnetu. Z vlastného podnetu ministerstvo uskutoční výmaz z registra podľa odseku 1, ak zistí, že
+(7) Výmaz z registra podľa odseku 1 uskutoční úrad na žiadosť záujmového združenia vlastníkov reklamných stavieb alebo z vlastného podnetu. Z vlastného podnetu úrad uskutoční výmaz z registra podľa odseku 1, ak zistí, že
 
 - a) záujmové združenie vlastníkov reklamných stavieb bolo zapísané na základe nepravdivých údajov,
 
