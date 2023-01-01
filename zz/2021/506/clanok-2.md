@@ -33,3 +33,11 @@ Zákon č. 443/2010 Z. z. o dotáciách na rozvoj bývania a o sociálnom bývan
 - obstarávaný nájomný byt už bol predmetom zmluvy o poskytnutí dotácie podľa tohto zákona, ktorá zanikla odstúpením od zmluvy.“.
 
 - 6. V § 22 ods. 3 písm. b) sa slovo „štvornásobku“ nahrádza slovom „päťnásobku“.
+
+- 7. Za § 24d sa vkladá § 24e, ktorý vrátane nadpisu znie:
+
+- „§ 24e
+
+- Prechodné ustanovenie k úpravám účinným od 1. januára 2023
+
+- Podmienka podľa § 11 ods. 1 písm. e) sa použije prvýkrát na posudzovanie žiadostí podaných od 15. januára 2024.“.

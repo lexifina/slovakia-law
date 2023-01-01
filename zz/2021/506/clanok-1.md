@@ -73,3 +73,11 @@ Zákon č. 150/2013 Z. z. o Štátnom fonde rozvoja bývania v znení zákona č
 - 11. V § 16 ods. 2 písm. j) sa na konci dopĺňajú tieto slová: „alebo § 10 ods. 11 písm. b) prvého a druhého bodu“.
 
 - 12. V § 18 ods. 4 sa za slová „podľa § 10 ods. 10 písm. c) prvého bodu“ vkladá čiarka a slová „podľa § 10 ods. 11 písm. b) prvého bodu“.
+
+- 13. Za § 23h sa vkladá § 23i, ktorý vrátane nadpisu znie:
+
+- „§ 23i
+
+- Prechodné ustanovenie k úpravám účinným od 1. januára 2023
+
+- Podmienka podľa § 10 ods. 10 písm. d) sa použije prvýkrát na posudzovanie žiadostí podaných od 15. januára 2024.“.
