@@ -138,6 +138,8 @@
 
 - 43) Zákon č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
+- 43a) § 20 ods. 3 zákona č. 376/2022 Z. z.
+
 - 44) § 101 a 102 zákona č. 36/2005 Z. z. v znení zákona č. 175/2015 Z. z.
 
 - 45) Zákon Národnej rady Slovenskej republiky č. 199/1994 Z. z. o psychologickej činnosti a Slovenskej komore psychológov v znení zákona č. 578/2004 Z. z.
