@@ -1288,6 +1288,666 @@ Zákon č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko ú�
 
   - <sup>17aca</sup>) § 11a ods. 2 zákona č. 251/2012 Z. z. v znení zákona č. 256/2022 Z. z.“.
 
+- 78. § 14a až 14d vrátane nadpisov znejú:
+
+- „§ 14a
+
+- Povinnosť plnenia referenčných hodnôt pri uvádzaní pohonných látok na trh
+
+- (1)
+
+- Pri uvádzaní pohonných látok na trh je minimálny energetický obsah (ďalej len „referenčná hodnota“)
+
+- a)
+
+- primiešaných udržateľných pohonných látok z celkového energetického obsahu motorovej nafty a motorového benzínu uvedeného na trh
+
+- 1.
+
+- 8,2 % pre rok 2022,
+
+- 2.
+
+- 8,6 % pre rok 2023,
+
+- 3.
+
+- 8,8 % pre rok 2024,
+
+- 4.
+
+- 9,2 % pre rok 2025,
+
+- 5.
+
+- 9,5 % pre rok 2026,
+
+- 6.
+
+- 10,0 % pre rok 2027,
+
+- 7.
+
+- 10,4 % pre rok 2028,
+
+- 8.
+
+- 10,8 % pre rok 2029,
+
+- 9.
+
+- 11,4 % pre rok 2030,
+
+- b)
+
+- udržateľných pohonných látok z celkového energetického obsahu stlačeného zemného plynu a skvapalneného zemného plynu uvedeného na trh
+
+- 1.
+
+- 2,0 % pre rok 2023,
+
+- 2.
+
+- 3,0 % pre rok 2024,
+
+- 3.
+
+- 4,0 % pre rok 2025,
+
+- 4.
+
+- 6,0 % pre rok 2026,
+
+- 5.
+
+- 8,0 % pre rok 2027,
+
+- 6.
+
+- 10,0 % pre rok 2028,
+
+- 7.
+
+- 12,0 % pre rok 2029,
+
+- 8.
+
+- 14,0 % pre rok 2030.
+
+- (2)
+
+- Právnická osoba alebo fyzická osoba, ktorá uvádza na trh pohonné látky, je povinná zabezpečiť splnenie referenčnej hodnoty podľa odseku 1 za kalendárny rok. Uvedením na trh sa na účely tohto zákona rozumie
+
+- a)
+
+- pri pohonnej látke uvedenej v § 2 ods. 4 písm. a) prvom bode a druhom bode jej
+
+- 1.
+
+- uvedenie do daňového voľného obehu<sup>17a</sup>) osobou podľa osobitného predpisu,<sup>17b</sup>)
+
+- 2.
+
+- prepravenie na územie Slovenskej republiky mimo pozastavenia dane na podnikateľské účely,<sup>17c</sup>)
+
+- b)
+
+- pri pohonnej látke uvedenej v § 2 ods. 4 písm. a) štvrtého bodu vznik daňovej povinnosti podľa osobitného predpisu,<sup>17d</sup>)
+
+- c)
+
+- výroba plynného paliva z biomasy a jeho predaj ako pohonnej látky.
+
+- (3)
+
+- Právnická osoba alebo fyzická osoba podľa odseku 2, ktorá uvádza na trh motorovú naftu alebo motorový benzín, je povinná v kalendárnom štvrťroku uvádzať na trh
+
+- a)
+
+- motorovú naftu s objemom metylesteru mastných kyselín minimálne 6,9 %,
+
+- b)
+
+- motorový benzín s objemom bioetanolovej zložky minimálne 9 %; na účely tohto zákona sa bioetanolovou zložkou rozumie bioetyltercbutyléter alebo zmes bioetyltercbutyléteru a bioetanolu, pričom zmes musí obsahovať podiel bioetyltercbutyléteru najmenej 3 %, čo predstavuje objem 1,41 % bioetanolovej zložky a z objemu bioetyltercbutyléteru sa do objemu bioetanolovej zložky zmesi započítava 47 %.
+
+- (4)
+
+- Právnická osoba alebo fyzická osoba, ktorá uvádza na trh pohonné látky s obsahom udržateľných pohonných látok, je povinná
+
+- a)
+
+- vydať potvrdenie o udržateľnosti podľa § 14b prostredníctvom elektronickej evidencie palív v doprave podľa § 14g do 25 dní po skončení kalendárneho štvrťroka,
+
+- b)
+
+- zabezpečiť overenie plnenia kritérií trvalej udržateľnosti,
+
+- c)
+
+- vyhotoviť správu o plnení povinnosti primiešania udržateľných pohonných látok prostredníctvom elektronickej evidencie palív v doprave podľa § 14g do 40 dní po skončení kalendárneho štvrťroka.
+
+- (5)
+
+- Finančné riaditeľstvo Slovenskej republiky na účel kontroly plnenia povinností právnických osôb a fyzických osôb podľa odseku 2 zašle za kalendárny štvrťrok do 40 dní po skončení príslušného kalendárneho štvrťroka ministerstvu a Slovenskému hydrometeorologickému ústavu súhrnnú informáciu, v ktorej uvedie
+
+- a)
+
+- zoznam osôb podľa odseku 2 obsahujúci obchodné meno, sídlo a identifikačné číslo právnickej osoby alebo meno, priezvisko, adresu trvalého pobytu a identifikačné číslo fyzickej osoby, ak sa tento zoznam zasiela prvýkrát alebo ak došlo v priebehu príslušného kalendárneho štvrťroka k zmene v tomto zozname,
+
+- b)
+
+- množstvo pohonnej látky uvedenej v § 2 ods. 4 písm. a) prvom bode a druhom bode, ktoré osoba podľa osobitného predpisu<sup>17b</sup>) uviedla do daňového voľného obehu,<sup>17a</sup>)
+
+- c)
+
+- množstvo pohonnej látky uvedenej v § 2 ods. 4 písm. a) prvom bode a druhom bode, ktoré osoba podľa osobitného predpisu<sup>17c</sup>) prepravila na územie Slovenskej republiky mimo pozastavenia dane na podnikateľské účely,
+
+- d)
+
+- množstvo pohonnej látky uvedenej v § 2 ods. 4 písm. a) prvom bode a druhom bode, z ktorého bola vrátená daň podľa osobitného predpisu<sup>17f</sup>) osobe podľa písmen b) a c) z množstva podľa písmen b) a c),
+
+- e)
+
+- množstvo pohonnej látky uvedenej v § 2 ods. 4 písm. a) štvrtom bode, z ktorého vznikla daňová povinnosť podľa osobitného predpisu.<sup>17d</sup>)
+
+- (6)
+
+- Povinnosti podľa odsekov 1 a 3 sa nevzťahujú na
+
+- a)
+
+- skladovanie a predaj leteckých pohonných látok v priestoroch letísk,
+
+- b)
+
+- minerálny olej uvádzaný na trh, ak ide o stav ropnej núdze alebo plnenie medzinárodných záväzkov v oblasti ropnej bezpečnosti,
+
+- c)
+
+- minerálny olej určený na použitie pre ozbrojené sily Slovenskej republiky a pre ozbrojené sily iných štátov, ktoré sú stranami Severoatlantickej zmluvy, a ich civilnými zamestnancami v rámci aktivít podľa medzinárodnej zmluvy,<sup>17h</sup>) ktorou je Slovenská republika viazaná,
+
+- d)
+
+- minerálny olej určený na použitie pre ozbrojené sily iných členských štátov, na použitie týmito ozbrojenými silami a ich civilnými zamestnancami pri obrannom úsilí v rámci spoločnej bezpečnostnej a obrannej politiky Európskej únie,
+
+- e)
+
+- minerálny olej, ktorým je lodná prevádzková látka podľa osobitného predpisu,<sup>17ha</sup>)
+
+- f)
+
+- minerálny olej, ktorý tvorí núdzové zásoby ropy a ropných výrobkov podľa osobitného predpisu.<sup>17hb</sup>)
+
+- (7)
+
+- Na účely plnenia povinností podľa odseku 2 sa započítavajú len udržateľné pohonné látky, pre ktoré bolo vydané potvrdenie o udržateľnosti podľa § 14b a spĺňajú podmienku evidencie podľa odseku 8.
+
+- (8)
+
+- Podmienka evidencie udržateľnej pohonnej látky je splnená, ak právnická osoba alebo fyzická osoba vloží údaje o udržateľnej pohonnej látke do elektronickej evidencie palív v doprave podľa § 14g do dvadsiateho piateho dňa kalendárneho mesiaca nasledujúceho po kalendárnom štvrťroku, v ktorom ju dodala na trh a splní povinnosť podľa § 14h ods. 15.
+
+- (9)
+
+- Na účely plnenia referenčnej hodnoty podľa odseku 1 písm. a) sa započítava energetický obsah
+
+- a)
+
+- pokročilých biopalív podľa prílohy č. 1 dvojnásobne,
+
+- b)
+
+- biopalív z použitých kuchynských olejov a rastlinných tukov alebo živočíšnych tukov zaradených do kategórií 1 a 2 podľa osobitného predpisu<sup>17g</sup>) alebo z ich zmesí dvojnásobne, najviac však do výšky 1,76 % z celkového energetického obsahu motorovej nafty a motorového benzínu uvedeného na trh,
+
+- c)
+
+- biopalív vyrobených z potravinárskych a krmovinárskych plodín do výšky 6 % z celkového energetického obsahu motorovej nafty a motorového benzínu uvedeného na trh,
+
+- d)
+
+- kvapalných a plynných palív v doprave z obnoviteľných zdrojov nebiologického pôvodu aj vtedy, ak boli použité ako medziprodukty na výrobu motorovej nafty alebo motorového benzínu,
+
+- e)
+
+- biopalív vyrobených z kvapalných palív z biomasy spoločne spracovaných v rafinérii s fosílnymi palivami,
+
+- f)
+
+- biopalív, biokvapalín alebo palív z biomasy vyrobených z potravinárskych alebo krmovinárskych plodín, pri ktorých hrozí vysoké riziko nepriamej zmeny využívania pôdy a pri ktorých bolo pozorované významné rozšírenie oblasti výroby na pôdu s vysokými zásobami uhlíka, ak tieto palivá nie sú certifikované ako biopalivá, biokvapaliny alebo palivá z biomasy s nízkym rizikom nepriamej zmeny využívania pôdy od 1. januára 2023 vo výške 0 %.
+
+- (10)
+
+- Na účely plnenia referenčnej hodnoty podľa odseku 1 písm. b) sa energetický obsah
+
+- a)
+
+- plynných palív z biomasy vyrobených zo surovín alebo palív uvedených v prílohe č. 1 započítava dvojnásobne,
+
+- b)
+
+- plynných palív z biomasy vyrobených z potravinárskych a krmovinárskych plodín započíta do výšky 6 % celkového energetického obsahu stlačeného zemného plynu a skvapalneného zemného plynu uvedeného na trh,
+
+- c)
+
+- kvapalných a plynných palív z obnoviteľných zdrojov nebiologického pôvodu započítava aj vtedy, ak boli použité ako medziprodukty na výrobu stlačeného zemného plynu alebo skvapalneného zemného plynu,
+
+- d)
+
+- obnoviteľného plynu deklarovaný zárukou pôvodu obnoviteľného plynu obsahujúcou potvrdenie o udržateľnosti podľa § 14b, započíta držiteľovi, ktorý záruku pôvodu pre obnoviteľný plyn na účely plnenia referenčnej hodnoty zruší.
+
+- (11)
+
+- Právnická osoba alebo fyzická osoba podľa odseku 2, ktorá uvádza na trh stlačený zemný plyn alebo skvapalnený zemný plyn, je povinná za kalendárny rok uviesť udržateľné pohonné látky zo surovín uvedených v prílohe č. 1 minimálne v referenčnej hodnote, ktorá je
+
+- a)
+
+- 0,5 % pre rok 2023,
+
+- b)
+
+- 0,65 % pre rok 2024,
+
+- c)
+
+- 1,05 % pre roky 2025 a 2026,
+
+- d)
+
+- 1,40 % pre roky 2027 a 2028,
+
+- e)
+
+- 1,75 % pre rok 2029,
+
+- f)
+
+- 2,1 % pre rok 2030.
+
+- (12)
+
+- Právnická osoba alebo fyzická osoba, ktorá vyrába 100-percentné biopalivo, je povinná každoročne do 31. marca oznámiť ministerstvu
+
+- a)
+
+- informácie o spôsobe výroby biopaliva,
+
+- b)
+
+- objemy biopalív vyrobených na území Slovenskej republiky za predchádzajúci kalendárny rok,
+
+- c)
+
+- objemy biopalív uvedených na trh za predchádzajúci kalendárny rok,
+
+- d)
+
+- emisie skleníkových plynov počas životného cyklu na jednotku energie vrátane predbežných stredných hodnôt odhadovaných emisií z biopalív vyplývajúcich z nepriamej zmeny využívania pôdy.
+
+- (13)
+
+- Právnická osoba alebo fyzická osoba, ktorá prepravuje na územie Slovenskej republiky pohonné látky s obsahom biopaliva mimo pozastavenia dane na podnikateľské účely,<sup>17c</sup>) a právnická osoba, ktorá takéto pohonné látky dováža na územie Slovenskej republiky z iných členských štátov alebo z tretích štátov, je povinná každoročne do 31. marca oznámiť ministerstvu
+
+- a)
+
+- informácie o pôvode biopaliva,
+
+- b)
+
+- objemy biopalív prepravených alebo dovezených na územie Slovenskej republiky za predchádzajúci kalendárny rok,
+
+- c)
+
+- objemy biopalív uvedených na trh za predchádzajúci kalendárny rok,
+
+- d)
+
+- emisie skleníkových plynov počas životného cyklu na jednotku energie vrátane predbežných stredných hodnôt odhadovaných emisií z biopalív vyplývajúcich z nepriamej zmeny využívania pôdy.
+
+- (14)
+
+- Údaje podľa odseku 12 písm. b) a c) a odseku 13 písm. b) a c) sa oznamujú v členení podľa surovín:
+
+- a)
+
+- obilniny a iné plodiny bohaté na škrob,
+
+- b)
+
+- cukornaté plodiny,
+
+- c)
+
+- olejniny.
+
+- § 14b
+
+- Potvrdenie o udržateľnosti
+
+- (1)
+
+- Potvrdenie o udržateľnosti je doklad, ktorým sa preukazuje súlad s kritériami udržateľnosti a úspory emisií skleníkových plynov podľa § 19b ods. 1 písm. a). Potvrdenie o udržateľnosti vydáva právnická osoba alebo fyzická osoba, ktorá uvádza na trh pohonné látky s obsahom udržateľných pohonných látok alebo biokvapalinu, a dodávateľ paliva z biomasy, výrobca elektriny alebo výrobca tepla podľa § 14i. Potvrdenie môže vydať aj právnická osoba alebo fyzická osoba, ktorá uvádza na trh pohonnú látku vrátane vodíka, ktorá je vyrobená z biomasy a z obnoviteľných zdrojov nebiologického pôvodu, alebo palivo s obsahom recyklovaného uhlíka.
+
+- (2)
+
+- Potvrdenie o udržateľnosti možno vydať len pod dohľadom
+
+- a)
+
+- právnickej osoby alebo fyzickej osoby s odbornou spôsobilosťou podľa § 14d,
+
+- b)
+
+- právnickej osoby alebo fyzickej osoby uznanej v inom členskom štáte na účely overovania potvrdenia o udržateľnosti alebo
+
+- c)
+
+- dobrovoľného certifikačného systému uznaného členským štátom alebo Európskou komisiou (ďalej len „dobrovoľný certifikačný systém“).
+
+- (3)
+
+- Dohľadom podľa odseku 2 sa rozumie overovanie splnenia kritérií trvalej udržateľnosti vrátane dodržania systému hmotnostnej bilancie. Podmienkou pre vykonávanie dohľadu je registrácia v registri odborne spôsobilých osôb na účely overovania výpočtu podľa § 14d ods. 10.
+
+- (4)
+
+- Prílohou potvrdenia o udržateľnosti na účel jeho overenia podľa odseku 3 je vyhlásenie pestovateľa alebo dodávateľa biomasy alebo suroviny o splnení kritérií trvalej udržateľnosti určených pre pestovanie alebo výrobu základnej suroviny. Potvrdenie o udržateľnosti sa po overení môže používať bez prílohy podľa prvej vety.
+
+- (5)
+
+- Ak sa zmenia podmienky, ktoré môžu ovplyvniť splnenie kritérií trvalej udržateľnosti, právnická osoba alebo fyzická osoba podľa odseku 1 vydá potvrdenie o udržateľnosti bezodkladne po zmene podmienok. Za zmenu podmienok podľa prvej vety sa považuje zmena pestovateľa alebo dodávateľa biomasy, zmena technológie výroby vrátane subdodávateľov, zvýšená prepravná vzdialenosť alebo iná skutočnosť, ktorá ovplyvňuje výpočet úspory emisií skleníkových plynov.
+
+- (6)
+
+- Úspora emisií skleníkových plynov vyplývajúca z využitia udržateľnej pohonnej látky, biokvapaliny a paliva z biomasy sa vypočíta podľa metodiky určenej Ministerstvom životného prostredia Slovenskej republiky (ďalej len „ministerstvo životného prostredia“) alebo podľa metodiky uznanej iným členským štátom. Tieto metodiky sa na účel výpočtu emisií skleníkových plynov počas životného cyklu udržateľných pohonných látok, biokvapalín a palív z biomasy považujú za rovnocenné.
+
+- (7)
+
+- Na účely tohto zákona sa uznávajú potvrdenia o udržateľnosti overené právnickými osobami alebo fyzickými osobami uznanými na tieto účely v iných členských štátoch alebo vydané pod dohľadom dobrovoľného certifikačného systému.
+
+- (8)
+
+- Potvrdenie o udržateľnosti možno vydať aj pre pohonnú látku vrátane vodíka, ktorá je vyrobená z biomasy a z obnoviteľných zdrojov nebiologického pôvodu.
+
+- § 14c
+
+- Povinnosť znižovania emisií skleníkových plynov v doprave
+
+- (1)
+
+- Právnická osoba alebo fyzická osoba, ktorá uvádza na trh v Slovenskej republike pohonnú látku používanú na pohon cestných vozidiel, dráhových vozidiel, necestných strojov, plavidiel vnútrozemskej vodnej dopravy, poľnohospodárskych traktorov a lesných traktorov, rekreačných plavidiel alebo dodáva elektrinu používanú na pohon v cestných vozidlách, je povinná monitorovať, každoročne vypracovať a do 31. mája nasledujúceho kalendárneho roka zaslať Slovenskému hydrometeorologickému ústavu na overenie správu o úrovni tvorby emisií skleníkových plynov počas životného cyklu na jednotku energie z pohonnej látky a dodávanej energie za predchádzajúci kalendárny rok.
+
+- (2)
+
+- Správa podľa odseku 1 obsahuje
+
+- a)
+
+- celkový objem každého typu pohonnej látky alebo dodávanej energie spolu s údajom o mieste ich nákupu a pôvode,
+
+- b)
+
+- emisie skleníkových plynov počas životného cyklu na jednotku energie,
+
+- c)
+
+- údaje potrebné na identifikáciu pohonnej látky alebo dodávanej energie,
+
+- d)
+
+- spôsob dosahovania úspor emisií skleníkových plynov,
+
+- e)
+
+- spôsob výpočtu úspor emisií skleníkových plynov,
+
+- f)
+
+- ďalšie údaje podľa § 19b ods. 1 písm. r).
+
+- (3)
+
+- Právnická osoba alebo fyzická osoba, ktorá je malým podnikom<sup>17j</sup>) alebo stredným podnikom,<sup>17k</sup>) môže pri podávaní správy podľa odseku 2 použiť zjednodušenú metodiku podľa § 19b ods. 1 písm. f).
+
+- (4)
+
+- Právnická osoba alebo fyzická osoba, ktorá uvádza pohonnú látku na trh v Slovenskej republike, je povinná
+
+- a)
+
+- znížiť priemerné ročné emisie skleníkových plynov počas životného cyklu na jednotku energie z pohonných látok a dodávanej energie o 6 % v porovnaní s referenčnou hodnotou 94,1 g CO<sub>2ekv</sub>/MJ,
+
+- b)
+
+- plniť priebežné ciele podľa § 19b ods. 1 písm. k).
+
+- (5)
+
+- Povinnosť podľa odseku 4 sa nevzťahuje na právnickú osobu alebo fyzickú osobu, ktorá uvádza na trh v Slovenskej republike pohonnú látku podľa § 14a ods. 6.
+
+- (6)
+
+- Právnická osoba alebo fyzická osoba môže povinnosť podľa odseku 4 splniť aj dodávkami udržateľných pohonných látok na trh v Slovenskej republike na využitie v leteckej doprave alebo vnútrozemskej vodnej doprave, ak spĺňajú kritériá trvalej udržateľnosti.
+
+- (7)
+
+- Právnická osoba alebo fyzická osoba môže povinnosti podľa odsekov 1 a 4 plniť spoločne s inými právnickými osobami alebo fyzickými osobami na základe zmluvy. Zmluva musí byť predložená Slovenskému hydrometeorologickému ústavu spolu so správou podľa odseku 2 a musí obsahovať vzájomné rozdelenie zodpovednosti pre prípad nesplnenia cieľov podľa odseku 4.
+
+- (8)
+
+- Dodávateľ elektriny využívanej v cestných vozidlách môže prispieť k plneniu povinnosti znížiť emisie skleníkových plynov počas životného cyklu na jednotku energie podľa odseku 4, ak preukáže, že môže náležite merať alebo iným spôsobom podľa § 19b ods. 1 písm. m) sledovať množstvo elektriny dodávanej na využívanie v týchto vozidlách. Pri výpočte úspor emisií skleníkových plynov sa použije vnútroštátna priemerná určená hodnota intenzity emisií skleníkových plynov za životný cyklus elektriny zverejnená ministerstvom životného prostredia podľa § 14e písm. k).
+
+- (9)
+
+- Právnická osoba alebo fyzická osoba môže na účel splnenia povinnosti podľa odseku 4 použiť aj zníženie emisií skleníkových plynov v predvýrobnej fáze dosiahnuté za kalendárny rok v inom štáte. Zníženie emisií skleníkových plynov v predvýrobnej fáze je možné započítať, ak
+
+- a)
+
+- opatrenia na zníženie emisií skleníkových plynov boli zavedené po 1. januári 2011,
+
+- b)
+
+- množstvo zníženia emisií skleníkových plynov bolo overené autorizovanou osobou, osobou s akreditáciou alebo iným oprávnením podľa právneho poriadku členského štátu a
+
+- c)
+
+- množstvo zníženia emisií skleníkových plynov nebolo zohľadnené pri plnení iných záväzkov v Slovenskej republike, ani v inom štáte.
+
+- § 14d
+
+- Odborná spôsobilosť na účely overovania výpočtu emisií skleníkových plynov
+
+- (1)
+
+- Odborná spôsobilosť na účely overovania výpočtu emisií skleníkových plynov (ďalej len „overovanie výpočtu emisií“) je preukázanie kvalifikačných predpokladov, odbornej praxe a výsledkov úspešne vykonanej skúšky odbornej spôsobilosti na účely overovania výpočtu emisií.
+
+- (2)
+
+- Ministerstvo životného prostredia vydá osvedčenie o odbornej spôsobilosti na účely overovania výpočtu emisií fyzickej osobe, ktorá
+
+- a)
+
+- podá žiadosť o vydanie osvedčenia o odbornej spôsobilosti na účely overovania výpočtu emisií,
+
+- b)
+
+- spĺňa kvalifikačné predpoklady na výkon činnosti,
+
+- c)
+
+- absolvuje skúšku odbornej spôsobilosti na účely overovania výpočtu emisií,
+
+- d)
+
+- je spôsobilá na právne úkony v plnom rozsahu.
+
+- (3)
+
+- Kvalifikačné predpoklady podľa odseku 2 písm. b) sú:
+
+- a)
+
+- vysokoškolské vzdelanie druhého stupňa v príslušnom študijnom odbore a najmenej trojročná odborná prax,
+
+- b)
+
+- vysokoškolské vzdelanie prvého stupňa v príslušnom študijnom odbore a najmenej päťročná odborná prax, alebo
+
+- c)
+
+- stredné odborné vzdelanie v príslušnom učebnom odbore vzdelávacieho programu a najmenej osemročná odborná prax.
+
+- (4)
+
+- Ministerstvo životného prostredia vydá osvedčenie o odbornej spôsobilosti na účely overovania výpočtu emisií právnickej osobe, ak odborný zamestnanec právnickej osoby splní podmienky podľa odseku 2.
+
+- (5)
+
+- Platnosť osvedčenia o odbornej spôsobilosti na účely overovania výpočtu emisií je päť rokov od jeho vydania.
+
+- (6)
+
+- Platnosť osvedčenia o odbornej spôsobilosti na účely overenia výpočtu emisií podľa odseku 5 sa predĺži o ďalších päť rokov, ak odborne spôsobilá osoba na účely overovania výpočtu emisií absolvuje preskúšanie odbornej spôsobilosti, ktoré vykonáva ministerstvo životného prostredia.
+
+- (7)
+
+- Ministerstvo životného prostredia rozhodne o odobratí osvedčenia o odbornej spôsobilosti na účely overovania výpočtu emisií, ak odborne spôsobilá osoba na účely overovania výpočtu emisií (ďalej len „odborne spôsobilá osoba na účely overovania výpočtu“)
+
+- a)
+
+- si neplní povinnosti podľa odsekov 12 a 13 riadne a včas,
+
+- b)
+
+- písomne požiada o zrušenie odbornej spôsobilosti na účely overovania výpočtu emisií.
+
+- (8)
+
+- Proti rozhodnutiu o odobratí osvedčenia o odbornej spôsobilosti na účely overovania výpočtu emisií sa odborne spôsobilá osoba na účely overovania výpočtu môže odvolať do 15 dní odo dňa doručenia písomného rozhodnutia o odobratí osvedčenia o odbornej spôsobilosti na účely overovania výpočtu emisií. Ministerstvo životného prostredia vyradí osobu, ktorej bolo odobraté osvedčenie o odbornej spôsobilosti na účely overovania výpočtu emisií z registra odborne spôsobilých osôb na účely overovania výpočtu.
+
+- (9)
+
+- Odborná spôsobilosť na účely overovania výpočtu emisií zaniká
+
+- a)
+
+- pozbavením spôsobilosti na právne úkony odborne spôsobilej osoby na účely overovania výpočtu alebo obmedzením jej spôsobilosti na právne úkony,
+
+- b)
+
+- smrťou odborne spôsobilej osoby na účely overovania výpočtu.
+
+- (10)
+
+- Ministerstvo životného prostredia písomne oznámi výsledky skúšky odbornej spôsobilosti na účely overovania výpočtu emisií a preskúšania odbornej spôsobilosti na účely overovania výpočtu emisií do 10 dní od ich konania.
+
+- (11)
+
+- Ministerstvo životného prostredia vedie, aktualizuje a zverejňuje register odborne spôsobilých osôb na účely overovania výpočtu na svojom webovom sídle. Na tieto účely možno do registra zaevidovať právnickú osobu alebo fyzickú osobu certifikovanú v niektorom z členských štátov. Ministerstvo životného prostredia zaeviduje takúto osobu do registra po tom, čo mu boli doručené doklady vydané v súlade s právnymi predpismi členského štátu.
+
+- (12)
+
+- Odborne spôsobilá osoba na účely overovania výpočtu je povinná
+
+- a)
+
+- vykonávať činnosť v súlade s osvedčením o odbornej spôsobilosti na účely overovania výpočtu emisií transparentne a nestranne,
+
+- b)
+
+- umožniť kontrolu výkonu svojej činnosti zo strany Slovenského hydrometeorologického ústavu alebo ministerstva životného prostredia,
+
+- c)
+
+- bezodkladne oznámiť zmenu údajov uvedených v žiadosti o vydanie osvedčenia o odbornej spôsobilosti na účely overovania výpočtu emisií,
+
+- d)
+
+- najmenej raz ročne skontrolovať plnenie kritérií trvalej udržateľnosti a hmotnostnej bilancie u právnických osôb a fyzických osôb, u ktorých vykonáva dohľad podľa § 14b ods. 3,
+
+- e)
+
+- pri kontrole dodávateľa biomasy a dodávateľa suroviny na výrobu udržateľnej pohonnej látky, biokvapaliny a paliva z biomasy skontrolovať plnenie kritérií trvalej udržateľnosti a hmotnostnej bilancie najmenej u 3 % pestovateľov a dodávateľov biomasy, od ktorých biomasu odobral,
+
+- f)
+
+- pri kontrole výrobcu alebo dovozcu kvapalných alebo plynných produktov určených na výrobu udržateľných pohonných látok, biokvapalín a plynného paliva z biomasy a výrobcu alebo dovozcu udržateľných pohonných látok, biokvapalín a paliva z biomasy, ktorý odoberal biomasu priamo od pestovateľov alebo dodávateľov, skontrolovať plnenie kritérií trvalej udržateľnosti a hmotnostnej bilancie najmenej u 3 % pestovateľov alebo dodávateľov biomasy alebo suroviny nebiologického pôvodu, od ktorých biomasu priamo odobral,
+
+- g)
+
+- vypracovať správy o výsledkoch kontroly podľa písmen d) až f) a tieto uchovávať najmenej päť rokov,
+
+- h)
+
+- bezodkladne oznámiť Slovenskému hydrometeorologickému ústavu zistené závažné nedostatky pri kontrole,
+
+- i)
+
+- zasielať Slovenskému hydrometeorologickému ústavu súhrnnú správu o vykonaných kontrolách alebo oznámenie o nevykonaní žiadnej kontroly v kalendárnom roku do 15. marca nasledujúceho kalendárneho roka.
+
+- (13)
+
+- Ak ide o udržateľné pohonné látky, ktorých energetický obsah sa započítava dvojnásobne, alebo biokvapaliny a plynné palivá z biomasy vyrobené zo surovín uvedených v prílohe č. 1, odborne spôsobilá osoba na účely overovania výpočtu je povinná
+
+- a)
+
+- najmenej dvakrát ročne skontrolovať plnenie kritérií trvalej udržateľnosti a hmotnostnej bilancie a overiť, že nedošlo k úmyselným úpravám odpadov a zvyškov po spracovaní u právnických osôb a fyzických osôb, ktoré sú prvým miestom zhromažďovania, skladovania alebo vytrieďovania týchto surovín a ktorým overuje potvrdenie o udržateľnosti,
+
+- b)
+
+- pri kontrole dodávateľa biomasy skontrolovať plnenie kritérií trvalej udržateľnosti a hmotnostnej bilancie najmenej u 5 % pestovateľov a dodávateľov biomasy vyrobenej zo surovín podľa § 2 ods. 6 písm. h), i) okrem drevitých energetických plodín alebo písm. j) prvého bodu a druhého bodu a 25 % pestovateľov a dodávateľov ostatnej biomasy, od ktorých dodávateľ tieto suroviny odobral,
+
+- c)
+
+- pri kontrole výrobcu alebo dovozcu kvapalných alebo plynných produktov určených na výrobu udržateľných pohonných látok, biokvapalín a plynného paliva z biomasy a výrobcu alebo dovozcu udržateľných pohonných látok, biokvapalín a plynného paliva z biomasy, ktorý odoberal biomasu priamo od pestovateľov alebo dodávateľov, skontrolovať plnenie kritérií trvalej udržateľnosti a hmotnostnej bilancie najmenej u 5 % pestovateľov a dodávateľov biomasy vyrobenej zo surovín podľa § 2 ods. 6 písm. h), i) okrem drevitých energetických plodín alebo písm. j) prvého bodu a druhého bodu a 25 % pestovateľov alebo dodávateľov ostatnej biomasy, od ktorých výrobca alebo dovozca tieto suroviny priamo odobral.
+
+- (14)
+
+- Právnická osoba alebo fyzická osoba plniaca úlohu podľa § 14b ods. 3, ktorá vykonáva nezávislý dohľad v rámci dobrovoľného certifikačného systému na území Slovenskej republiky, je povinná
+
+- a)
+
+- požiadať o zaevidovanie do registra odborne spôsobilých osôb na účely overovania výpočtu,
+
+- b)
+
+- vykonávať činnosť v súlade s rozhodnutím o uznaní dobrovoľného certifikačného systému transparentne a nestranne,
+
+- c)
+
+- používať národné hodnoty na účel výpočtu emisií skleníkových plynov zverejnené ministerstvom životného prostredia,
+
+- d)
+
+- umožniť kontrolu výkonu svojej činnosti Slovenským hydrometeorologickým ústavom alebo ministerstvom životného prostredia,
+
+- e)
+
+- oznámiť bezodkladne zmenu údajov uvedených v žiadosti o zaevidovanie do registra odborne spôsobilých osôb na účely overovania výpočtu,
+
+- f)
+
+- najmenej raz ročne skontrolovať plnenie kritérií trvalej udržateľnosti a hmotnostnej bilancie u právnických osôb a fyzických osôb, u ktorých vykonáva dohľad podľa § 14b ods. 3,
+
+- g)
+
+- vypracovať správu o výsledkoch kontroly podľa písmena f) a uchovávať ju najmenej päť rokov,
+
+- h)
+
+- oznámiť bezodkladne Slovenskému hydrometeorologickému ústavu zistené závažné nedostatky pri kontrole,
+
+- i)
+
+- zasielať Slovenskému hydrometeorologickému ústavu súhrnnú správu o vykonaných kontrolách na území Slovenskej republiky alebo oznámenie o nevykonaní žiadnej kontroly v kalendárnom roku do 15. marca nasledujúceho kalendárneho roka.“.
+
+  - Poznámky pod čiarou k odkazom 17a, 17b a 17d znejú:
+
+  - „<sup>17a</sup>) § 2 ods. 1 písm. i) prvý bod až tretí bod zákona č. 98/2004 Z. z. v znení neskorších predpisov.
+
+  - <sup>17b</sup>) § 13 ods. 1 písm. g) a h), § 21 a § 25 zákona č. 98/2004 Z. z. v znení neskorších predpisov.
+
+  - <sup>17d</sup>) § 33 ods. 1 písm. c) a § 39a ods. 3 písm. a) a c) zákona č. 609/2007 Z. z. v znení neskorších predpisov.“.
+
+  - Poznámky pod čiarou k odkazom 17ga a 17i sa vypúšťajú.
+
 - 79. V § 14e písmeno j) znie:
 
 - „j)
@@ -1409,6 +2069,218 @@ Zákon č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko ú�
 - i)
 
 - 2,1 % pre rok 2030.“.
+
+- 83. Za § 14f sa vkladajú § 14g až 14i, ktoré vrátane nadpisov znejú:
+
+- „§ 14g
+
+- Elektronická evidencia palív v doprave
+
+- (1)
+
+- Elektronickú evidenciu palív v doprave zriaďuje a vedie Slovenský hydrometeorologický ústav na evidovanie množstva, pôvodu a druhu biomasy alebo suroviny a vlastností trvalej udržateľnosti vrátane emisií skleníkových plynov udržateľných pohonných látok, pohonných látok s obsahom udržateľnej pohonnej látky, biokvapalín a plynných palív z biomasy vyrobených v Slovenskej republike, dovezených na územie Slovenskej republiky, vyvezených z územia Slovenskej republiky alebo uvedených na trh v Slovenskej republike osobami podľa § 14a ods. 2, vrátane každého nadobudnutia a dodania udržateľných pohonných látok, pohonných látok s obsahom udržateľnej pohonnej látky osobami podľa § 14a ods. 2, na vydávanie potvrdení o udržateľnosti podľa § 14b a na vyhotovovanie hlásení o plnení povinnosti primiešavania udržateľných pohonných látok.
+
+- (2)
+
+- Údaje do elektronickej evidencie palív v doprave vkladá právnická osoba alebo fyzická osoba zapojená do životného cyklu udržateľnej pohonnej látky od okamihu jej výroby alebo dovozu na územie Slovenskej republiky najneskôr do dvadsiateho piateho dňa kalendárneho mesiaca nasledujúceho po kalendárnom štvrťroku, v ktorom ju dodá na trh.
+
+- (3)
+
+- Údaje vložené do elektronickej evidencie palív v doprave môže upravovať Slovenský hydrometeorologický ústav na žiadosť právnickej osoby alebo fyzickej osoby podľa odseku 2 do piatich mesiacov od ich vloženia do elektronickej evidencie palív v doprave.
+
+- (4)
+
+- Údaje vložené do elektronickej evidencie palív v doprave overuje odborne spôsobilá osoba na účely overovania výpočtu alebo právnická osoba alebo fyzická osoba, ktorá vykonáva nezávislý dohľad v rámci dobrovoľného certifikačného systému.
+
+- (5)
+
+- Údaje vložené do elektronickej evidencie palív v doprave sa uchovávajú 10 rokov, pričom prístup k nim má zriaďovateľ elektronickej evidencie palív v doprave.
+
+- (6)
+
+- Poplatok na pokrytie nákladov spojených s vedením elektronickej evidencie palív v doprave ustanovených podľa § 19b ods. 1 písm. s) platí právnická osoba alebo fyzická osoba podľa odseku 2 Slovenskému hydrometeorologickému ústavu. Osobám podľa § 14ea písm. i) sa údaje z elektronickej evidencie palív v doprave poskytujú bezodplatne.
+
+- (7)
+
+- Na účely tohto zákona sa elektronická evidencia palív v doprave považuje za nedostupnú, ak je evidencia nedostupná u jej zriaďovateľa a nie je možné vydať potvrdenie o udržateľnosti podľa § 14b prostredníctvom evidencie, vyhotoviť hlásenie o plnení povinnosti primiešavania udržateľných pohonných látok prostredníctvom evidencie, alebo vložiť údaje o udržateľnej pohonnej látke do evidencie.
+
+- (8)
+
+- Ak je elektronická evidencia palív v doprave nedostupná, povinnosti podľa § 14a ods. 4 písm. a) a c) sa považujú za splnené, ak právnická osoba alebo fyzická osoba, ktorá uvádza na trh pohonné látky s obsahom udržateľných pohonných látok, do dvadsiateho piateho dňa kalendárneho mesiaca nasledujúceho po príslušnom kalendárnom štvrťroku
+
+- a)
+
+- podá ministerstvu hlásenie o množstve pohonných látok uvedených na trh za uplynulý kalendárny štvrťrok vyhotovené podľa vzoru, ktorý zverejní ministerstvo na svojom webovom sídle; prílohou hlásenia je potvrdenie o udržateľnosti podľa § 14b ods. 1 a
+
+- b)
+
+- zašle Slovenskému hydrometeorologickému ústavu rovnopis potvrdenia o udržateľnosti podľa § 14b ods. 1.
+
+- (9)
+
+- Ak sa elektronická evidencia palív v doprave po nedostupnosti sprístupní, právnická osoba alebo fyzická osoba je povinná postupovať podľa odseku 2 a § 14a ods. 4 a doplniť chýbajúce údaje do evidencie do 10 pracovných dní od zverejnenia oznámenia o sprístupnení evidencie na webovom sídle Slovenského hydrometeorologického ústavu. Ak je elektronická evidencia palív v doprave nedostupná dlhšie ako päť pracovných dní, správca evidencie určí lehotu na doplnenie chýbajúcich údajov do evidencie a zverejní ju na svojom webovom sídle. Táto lehota nesmie byť kratšia ako 10 pracovných dní.
+
+- § 14h
+
+- Preukazovanie kritérií udržateľnosti a úspor emisií skleníkových plynov pre biopalivá, biokvapaliny a palivá z biomasy
+
+- (1)
+
+- Energia z biopalív, biokvapalín a palív z biomasy využívaných v zariadeniach podľa odsekov 2 a 3 sa zohľadňuje na účely plnenia povinností podľa tohto zákona, posudzovania oprávnenosti finančnej podpory a plnenia cieľa pre obnoviteľné zdroje energie uvedeného v integrovanom národnom energetickom a klimatickom pláne, ak biopalivá, biokvapaliny a palivá z biomasy spĺňajú kritériá trvalej udržateľnosti.
+
+- (2)
+
+- Splnenie kritérií trvalej udržateľnosti palív z biomasy sa vyžaduje pre zariadenia na výrobu elektriny a zariadenia na výrobu tepla s celkovým menovitým tepelným príkonom aspoň
+
+- a)
+
+- 20 MW, ak sa používajú tuhé palivá z biomasy, alebo
+
+- b)
+
+- 2 MW, ak sa používajú plynné palivá z biomasy.
+
+- (3)
+
+- Splnenie kritérií trvalej udržateľnosti palív z biomasy sa vyžaduje aj pre zariadenia na výrobu elektriny a zariadenia na výrobu tepla, ak je splnenie kritérií trvalej udržateľnosti podmienkou poskytnutia finančných prostriedkov na ich výstavbu, rekonštrukciu alebo modernizáciu z mechanizmu na podporu obnovy a odolnosti<sup>17l</sup>) alebo z fondov Európskej únie.<sup>17m</sup>)
+
+- (4)
+
+- Splnenie kritérií trvalej udržateľnosti preukazuje výrobca biopaliva, biokvapaliny alebo palív z biomasy vydaním potvrdenia o udržateľnosti, v ktorom uvedie aj výšku úspor emisií skleníkových plynov.
+
+- (5)
+
+- Splnenie kritérií udržateľnosti preukazuje pestovateľ alebo dodávateľ biomasy vyhlásením pestovateľa alebo dodávateľa biomasy. Náležitosti vyhlásenia pestovateľa alebo dodávateľa biomasy ustanoví všeobecne záväzný právny predpis, ktorý vydá Ministerstvo pôdohospodárstva a rozvoja vidieka Slovenskej republiky.
+
+- (6)
+
+- Právnická osoba alebo fyzická osoba, ktorá je dodávateľom biomasy alebo suroviny alebo ktorá vyrába biopalivo, biokvapalinu alebo palivo z biomasy, má právo vydať potvrdenie o udržateľnosti, ak sa voči nej vykonáva dohľad podľa § 14b ods. 3.
+
+- (7)
+
+- Právnická osoba alebo fyzická osoba je povinná pri vydaní potvrdenia o udržateľnosti použiť systém hmotnostnej bilancie a uchovávať jeho prílohu podľa § 14b ods. 4 aspoň päť rokov.
+
+- (8)
+
+- Biopalivá, biokvapaliny a palivá z biomasy vyrábané z odpadu a zo zvyškov, ktoré pochádzajú z poľnohospodárskej pôdy, spĺňajú kritériá udržateľnosti, ak dodávatelia suroviny na ich výrobu dodržiavajú povinnosti týkajúce sa kontroly bilancie uhlíka a riadenia kvality pôdy a uhlíka v pôde podľa osobitného predpisu.<sup>17n</sup>)
+
+- (9)
+
+- Biopalivá, biokvapaliny a palivá z biomasy vyrobené z lesnej biomasy vrátane stromov, ktoré boli vyťažené ako súčasť opatrení na ochranu lesa alebo ako súčasť opatrení spojených s odstraňovaním následkov pôsobenia škodlivých činiteľov v lesoch spĺňajú kritériá udržateľnosti, ak má dodávateľ lesnej biomasy hospodárske opatrenie odsúhlasené orgánom štátnej správy lesného hospodárstva alebo schválený program starostlivosti o lesy.<sup>17o</sup>)
+
+- (10)
+
+- Ak lesná biomasa pochádza zo štátu, ktorý nemá zavedenú právnu úpravu podľa odseku 9, pestovateľ alebo dodávateľ lesnej biomasy je povinný splnenie kritérií udržateľnosti preukázať vyhlásením pestovateľa alebo dodávateľa biomasy, že má na úrovni lesnej zdrojovej oblasti zavedené systémy riadenia, ktoré zabezpečujú, že
+
+- a)
+
+- operácie zberu a ťažby sú zákonné,
+
+- b)
+
+- les v oblastiach zberu a ťažby sa obnovuje,
+
+- c)
+
+- sa chránia oblasti určené medzinárodným právom, vnútroštátnym právom alebo príslušným orgánom na ochranu prírody vrátane mokradí a rašelinísk, ak sa neposkytnú dôkazy, že zber a ťažba tejto suroviny nie je v rozpore s takouto ochranou prírody,
+
+- d)
+
+- ťažba a zber sa uskutočňuje s ohľadom na zachovanie kvality pôdy a biodiverzity s cieľom minimalizovať negatívne dopady a
+
+- e)
+
+- zberom a ťažbou sa zachováva alebo zlepšuje dlhodobá produkčná kapacita lesa.
+
+- (11)
+
+- Pestovateľ biomasy nesmie vydať vyhlásenie pestovateľa alebo dodávateľa biomasy, ak biomasa nespĺňa kritériá udržateľnosti biomasy podľa tohto paragrafu alebo podľa § 19b ods. 1 písm. a). Ak biomasa nespĺňa kritériá udržateľnosti biomasy podľa tohto paragrafu alebo podľa § 19b ods. 1 písm. a), vyhlásenie pestovateľa alebo dodávateľa biomasy vydané v inom štáte sa neuzná.
+
+- (13)
+
+- Splnenie kritérií udržateľnosti podľa odsekov 8 a 9 je možné preukázať aj dokladom preukazujúcim splnenie kritérií trvalej udržateľnosti uznaným v inom členskom štáte alebo vydaným pod dohľadom v rámci dobrovoľného certifikačného systému.
+
+- (14)
+
+- Právnická osoba alebo fyzická osoba zapojená do životného cyklu výroby udržateľnej pohonnej látky, biokvapaliny a paliva z biomasy od pestovania alebo vzniku suroviny po jej dodanie na trh v Slovenskej republike, je povinná
+
+- a)
+
+- poskytovať svojmu odberateľovi presné, úplné a pravdivé informácie o pôvode biomasy alebo suroviny,
+
+- b)
+
+- viesť evidenciu o hmotnostnej bilancii a pohybe biomasy alebo suroviny a uchovávať ju najmenej päť rokov,
+
+- c)
+
+- poskytnúť na žiadosť Slovenskej obchodnej inšpekcii, Slovenskej lesnícko-drevárskej inšpekcii, Ministerstvu pôdohospodárstva a rozvoja vidieka Slovenskej republiky, Finančnému riaditeľstvu Slovenskej republiky, Slovenskému hydrometeorologickému ústavu a ministerstvu životného prostredia informácie nevyhnutné na preukázanie plnenia kritérií trvalej udržateľnosti, princípov hmotnostnej bilancie biomasy alebo suroviny a informácie nevyhnutné na výpočet úspor emisií skleníkových plynov viažuci sa na životný cyklus paliva z biomasy od začiatku životného cyklu do aktuálnej etapy životného cyklu.
+
+- (15)
+
+- Ak ministerstvo životného prostredia zverejní na svojom webovom sídle oznámenie o zriadení databázy Európskou komisiou na účel sledovania kvapalných a plynných palív v doprave, ktoré spĺňajú podmienku na to, aby sa započítavali do cieľa alebo ktoré sa zohľadňujú na účely uvedené v § 14h ods. 1 na úrovni Európskej únie, právnická osoba alebo fyzická osoba uvedená v oznámení je povinná vkladať údaje do tejto databázy. Povinnosť podľa prvej vety sa považuje za splnenú, ak sú údaje vložené do elektronickej evidencie palív v doprave podľa § 14g a ministerstvo životného prostredia poverí Slovenský hydrometeorologický ústav zasielať údaje evidované v elektronickej evidencii palív v doprave podľa § 14g do databázy podľa prvej vety.
+
+- (16)
+
+- Ministerstvo pôdohospodárstva a rozvoja vidieka Slovenskej republiky určí príspevkovú organizáciu vo svojej pôsobnosti, ktorá spravuje a aktualizuje databázu území, na ktorých vypestovaná biomasa spĺňa kritériá udržateľnosti a zároveň v nich možno očakávať, že emisie skleníkových plynov z pestovania poľnohospodárskych surovín nepresahujú limitné hodnoty pre emisie skleníkových plynov podľa § 19b ods. 1 písm. a).
+
+- § 14i
+
+- Povinnosti výrobcu elektriny a výrobcu tepla z biomasy
+
+- (1)
+
+- Ak sa pre zariadenie podľa § 14h vyžaduje splnenie kritérií trvalej udržateľnosti pre biokvapalinu alebo palivo z biomasy, výrobca elektriny a výrobca tepla je povinný
+
+- a)
+
+- do 31. januára vykonať bilanciu spotreby biokvapaliny a palív z biomasy za predchádzajúci kalendárny rok,
+
+- b)
+
+- do 31. januára zverejniť na svojom webovom sídle informácie o geografickom pôvode a druhu biomasy použitej na výrobu biokvapalín alebo palív z biomasy za každého dodávateľa paliva a každoročne tieto údaje aktualizovať.
+
+- (2)
+
+- Výrobca elektriny a výrobca tepla podľa odseku 1 preukazuje splnenie kritérií trvalej udržateľnosti
+
+- a)
+
+- potvrdením o udržateľnosti získaným od dodávateľa palív z biomasy alebo
+
+- b)
+
+- potvrdením o udržateľnosti, ktoré výrobca elektriny alebo výrobca tepla vydal pre biokvapalinu alebo palivo z biomasy, ktoré ním boli vyrobené a využité v jeho zariadení.
+
+- (3)
+
+- Výrobca elektriny a výrobca tepla je povinný päť rokov archivovať
+
+- a)
+
+- potvrdenie o udržateľnosti a
+
+- b)
+
+- vyhlásenia pestovateľa alebo dodávateľa biomasy, ak na ich základe vydal potvrdenie o udržateľnosti.
+
+- (4)
+
+- Výrobca elektriny a výrobca tepla môže preukázať splnenie kritérií trvalej udržateľnosti aj vyhlásením pestovateľa alebo dodávateľa biomasy, ak bolo zariadenie uvedené do prevádzky pred 1. januárom 2021. Vyhlásenie pestovateľa alebo dodávateľa biomasy je povinný archivovať päť rokov.
+
+- (5)
+
+- Práva a povinnosti výrobcu elektriny podľa tohto paragrafu sa vzťahujú aj na výrobcu elektriny kombinovanou výrobou.“.
+
+  - Poznámky pod čiarou k odkazom 17l až 17o znejú:
+
+  - „<sup>17l</sup>) Zákon č. 368/2021 Z. z. o mechanizme na podporu obnovy a odolnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+  - <sup>17m</sup>) Napríklad zákon č. 292/2014 Z. z. o príspevku poskytovanom z európskych štrukturálnych a investičných fondov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 121/2022 Z. z. o príspevkoch z fondov Európskej únie a o zmene a doplnení niektorých zákonov.
+
+  - <sup>17n</sup>) Napríklad § 7 zákona č. 220/2004 Z. z. o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení zákona č. 57/2013 Z. z., vyhláška Ministerstva pôdohospodárstva Slovenskej republiky č. 508/2004 Z. z., ktorou sa vykonáva § 27 zákona č. 220/2004 Z. z. o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení vyhlášky č. 59/2013 Z. z.
+
+  - <sup>17o</sup>) § 40 ods. 1 zákona č. 326/2005 Z. z. o lesoch v znení neskorších predpisov.“.
 
 - 84. V § 16 ods. 1 písm. h) sa slová „ods. 9“ nahrádzajú slovami „ods. 10“ a slová „ods. 8“ sa nahrádzajú slovami „ods. 9“.
 
