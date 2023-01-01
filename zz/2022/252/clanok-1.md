@@ -4,6 +4,14 @@ Zákon Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriad
 
 - 1. V § 28 ods. 1 štvrtá veta znie: „V prípade prerokovania návrhu na vyslovenie nedôvery členovi vlády podľa § 109 dĺžka rečníckeho času tohto člena vlády a člena vlády povereného vládou odôvodniť stanovisko vlády v národnej rade, ktorý toto stanovisko na schôdzi národnej rady predniesol, nie je obmedzená.“.
 
+- 2. V § 32 odsek 2 znie:
+
+- „(2)
+
+- Predsedajúci vyzve zachovať poriadok poslanca, ktorý svojimi prejavmi alebo činmi v rokovacej sále prekročil hranice slušnosti alebo ktorý svojím konaním narúša priebeh rokovania. Ak výzva na zachovanie poriadku nevedie u poslanca k náprave, predsedajúci vykáže poslanca z rokovacej sály až do skončenia rokovania v tom istom dni. Ak predsedajúci vykáže poslanca, je poslanec povinný opustiť rokovaciu miestnosť, a to aj v prípade, ak podal námietku podľa odseku 7. Ak vykázaný poslanec ani po opätovnej výzve predsedajúceho neopustí rokovaciu sálu, predsedajúci preruší schôdzu národnej rady na čas nevyhnutne potrebný na obnovenie poriadku a vykázaného poslanca môže dať vyviesť. Predseda národnej rady bezodkladne zvolá poslanecké grémium. Vykázaný alebo vyvedený poslanec má právo v dni, v ktorom bol vykázaný alebo vyvedený, zúčastniť sa na hlasovaní o každom návrhu okrem hlasovania o procedurálnych návrhoch (§ 34).“.
+
+- 3. V § 32 ods. 5 sa na konci bodka nahrádza bodkočiarkou a pripájajú sa tieto slová: „to neplatí, ak bol poslanec vyvedený podľa odseku 2.“.
+
 - 4. Za § 49 sa vkladá § 49a, ktorý vrátane nadpisu znie:
 
 - „§ 49a
@@ -54,10 +62,32 @@ Zákon Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriad
 
 - 10. V § 139 ods. 5 sa v celom texte za slovami „na schôdzi národnej rady“ vkladajú slová „alebo na schôdzi výboru“.
 
+- 11. Za § 144 sa vkladá § 144a, ktorý vrátane nadpisu znie:
+
+- „§ 144a
+
+- Parlamentná stráž
+
+- (1)
+
+- Na ochranu poriadku a bezpečnosti v budove národnej rady, vrátane zabezpečenia poriadku v rokovacej sále (§ 32), a tam, kde národná rada rokuje, sa zriaďuje Parlamentná stráž.
+
+- (2)
+
+- Úlohy, organizáciu a riadenie Parlamentnej stráže, práva a povinnosti jej príslušníkov ustanoví osobitný zákon.“.
+
 - 12. Za § 150e sa vkladá § 150f, ktorý znie:
 
 - „§ 150f
 
 - (1)
 
-- Ustanovenia § 139 ods. 1 a 4 v znení účinnom od 1. septembra 2022 sa po prvýkrát použijú na disciplinárne konania začaté po 31. auguste 2022.“.
+- Ustanovenia § 139 ods. 1 a 4 v znení účinnom od 1. septembra 2022 sa po prvýkrát použijú na disciplinárne konania začaté po 31. auguste 2022.
+
+- (2)
+
+- Do prijatia osobitného zákona podľa § 144a ods. 2 vyvedie poslanca vykázaného podľa § 32 z rokovacej sály na základe pokynu predsedajúceho príslušník Policajného zboru zaradený v službe ochrany určených osôb.<sup>90</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 90 znie:
+
+  - „<sup>90</sup>) § 4 ods. 1 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.“.
