@@ -78,15 +78,19 @@
 
 - 16) § 116 Občianskeho zákonníka.
 
-- 16a) Zákon č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnosti zamestnanca a o zmene a doplnení niektorých zákonov.
+- 16a) § 6 ods. 7 až 9 zákona č. 328/2002 Z. z. v znení zákona č. 80/2013 Z. z.
 
 - 16b) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
+
+- 16c) § 7 ods. 8 zákona č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 470/2019 Z. z.
 
 - 17) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
 - 17a) § 13 zákona č. 314/2001 Z. z.§ 19 vyhlášky Ministerstva vnútra Slovenskej republiky č. 121/2002 Z. z. o požiarnej prevencii.
 
 - 17aa) Zákon č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
+
+- 17ab) § 5 ods. 4 a 5 zákona Národnej rady Slovenskej republiky č. 219/1996 Z. z. o ochrane pred zneužívaním alkoholických nápojov a o zriaďovaní a prevádzke protialkoholických záchytných izieb v znení zákona č. 313/2011 Z. z.
 
 - 17aaa) § 65 zákona č. 461/2003 Z. z. o sociálnom poistení.
 
