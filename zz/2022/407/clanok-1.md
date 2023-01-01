@@ -18,6 +18,8 @@ Zákon č. 431/2002 Z. z. o účtovníctve v znení zákona č. 562/2003 Z. z., 
 
 - 7. V § 20 ods. 2 sa slová „odsekoch 1 a 16“ nahrádzajú slovami „odsekoch 1 a 17“.
 
+- 8. V § 20 ods. 3 písm. e) sa za slová „v nej“ vkladajú slová „získaných počas auditu účtovnej závierky“.
+
 - 9. V § 20 ods. 7 úvodná veta znie:
 
 - „Ak účtovná jednotka emitovala cenné papiere, a aspoň niektoré z nich sú prijaté na obchodovanie na regulovanom trhu členského štátu a týka sa ich ponuka na prevzatie, je povinná vo výročnej správe uviesť aj údaje o“.
@@ -92,10 +94,26 @@ Zákon č. 431/2002 Z. z. o účtovníctve v znení zákona č. 562/2003 Z. z., 
 
 - 22. V § 23a ods. 3 prvej vete sa za slovo „ak“ vkladajú slová „§ 22a ods. 3 alebo“.
 
+- 26. V § 27 ods. 5 písm. b) sa na konci pripájajú tieto slová: „za cenu ponúkanú na tomto trhu“.
+
+- 27. V § 29 ods. 3 prvá veta znie: „Pri hmotnom majetku okrem zásob a peňažných prostriedkov v hotovosti môže účtovná jednotka vykonať inventarizáciu v inej lehote, ako je ustanovená v odseku 2, ktorá však nesmie prekročiť štyri roky, okrem účtovnej jednotky, ktorou je štátna rozpočtová organizácia, štátna príspevková organizácia, štátny fond, obec, vyšší územný celok a rozpočtová organizácia a príspevková organizácia v ich zriaďovateľskej pôsobnosti, ktoré vykonávajú inventarizáciu v lehote ustanovenej v odseku 2.“.
+
+- 28. V § 31 ods. 8 sa za prvú vetu vkladá nová druhá veta, ktorá znie: „Daňový úrad vyzve účtovnú jednotku na predloženie účtovných záznamov v ním určenej lehote<sup>29ic</sup>) a poučí ju o následkoch nepredloženia účtovných záznamov.“.
+
+- 30. V § 38 ods. 1 písm. k) sa na konci pripájajú tieto slová: „alebo nevyhovela výzve podľa § 31 ods. 8 v určenej lehote alebo určenom rozsahu“.
+
+- 32. V § 38 ods. 2 písm. e) sa za slová „písm. c)“ vkladajú slová „a k)“.
+
 - 34. Za § 39x sa vkladajú § 39y až 39za, ktoré vrátane nadpisov znejú:
 
 - „§ 39y
 
 - Prechodné ustanovenie k úpravám účinným od 31. decembra 2022
 
-- Ustanovenia § 20 ods. 7 až 17 v znení účinnom od 31. decembra 2022 sa prvýkrát použijú pri vyhotovení výročnej správy za účtovné obdobie končiace k 31. decembru 2022.“.
+- Ustanovenia § 20 ods. 7 až 17 v znení účinnom od 31. decembra 2022 sa prvýkrát použijú pri vyhotovení výročnej správy za účtovné obdobie končiace k 31. decembru 2022.
+
+- § 39z
+
+- Prechodné ustanovenie k úpravám účinným od 1. januára 2023
+
+- Ustanovenia § 38 ods. 1 písm. k) a ods. 2 písm. e) v znení účinnom od 1. januára 2023 sa použijú na správne delikty spáchané po 31. decembri 2022.“.
