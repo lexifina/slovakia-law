@@ -1,0 +1,1 @@
+Vazil Hudák v. r.
