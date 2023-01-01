@@ -1,1 +1,0 @@
-Príloha č. 2 k nariadeniu vlády č. 220/2022 Z. z. [PLATOVÉ TARIFY PEDAGOGICKÝCH ZAMESTNANCOV A ODBORNÝCH ZAMESTNANCOV](../assets/a71d799f3cbc85cb93c81990dcceff1cae2333025bcd8f0c8867ab9b92fd575f.pdf)

@@ -1,1 +1,0 @@
-Príloha č. 1 k nariadeniu vlády č. 220/2022 Z. z. [ZÁKLADNÁ STUPNICA PLATOVÝCH TARÍF ZAMESTNANCOV PRI VÝKONE PRÁCE VO VEREJNOM ZÁUJME](../assets/bc5d6e644736f3f1613815be5b78dcf57c340934afd552f22dbbddc88a0fb54c.pdf)
