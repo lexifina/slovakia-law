@@ -18,6 +18,10 @@
 
 - 7) § 3 zákona č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení.
 
+- 8) § 2 ods. 1 písm. a) tretí bod zákona č. 201/2008 Z. z. o náhradnom výživnom a o zmene a doplnení zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení nálezu Ústavného súdu Slovenskej republiky č. 615/2006 Z. z. v znení neskorších predpisov.
+
+- 8a) § 2 ods. 1 písm. a) štvrtý bod zákona č. 201/2008 Z. z. v znení neskorších predpisov.
+
 - 9) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -25,12 +29,6 @@
 - 10) Zákon č. 461/2003 Z. z. v znení neskorších predpisov.
 
 - 11) Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 12) § 5 a 6 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
-
-- 12a) § 5 ods. 1 písm. l) zákona č. 595/2003 Z. z. v znení zákona č. 61/2015 Z. z.
-
-- 12b) § 227 a 228 Zákonníka práce.
 
 - 13) § 100 ods. 12 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov.
 
