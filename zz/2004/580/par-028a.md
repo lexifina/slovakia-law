@@ -10,7 +10,7 @@
 
 - d) 25 % tvoria poistenci, ktorí sú zaradení do farmaceuticko-nákladovej skupiny s indexom rizika nákladov nad 5,0000.
 
-(2) Úrad je povinný vykonať dohľad nad zaradením poistencov do diagnosticko-nákladových skupín a do nákladových skupín zdravotníckych pomôcok na účely mesačného prerozdeľovania v zdravotnej poisťovni raz za kalendárny rok a skontrolovať zaradenie najmenej 300 poistencov, z ktorých
+(2) Úrad je povinný vykonať dohľad nad zaradením poistencov do diagnosticko-nákladových skupín a do nákladových skupín zdravotníckych pomôcok na účely mesačného prerozdeľovania v zdravotnej poisťovni raz za kalendárny rok a skontrolovať zaradenie najmenej 300 poistencov, z ktorých najmenej
 
 - a) 25 % tvorí náhodný výber poistencov zaradených do diagnosticko-nákladových skupín a do nákladových skupín zdravotníckych pomôcok,
 

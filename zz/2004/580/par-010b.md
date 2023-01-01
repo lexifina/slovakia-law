@@ -24,7 +24,7 @@
 
 - e) podiel na zisku, vyrovnací podiel a podiel na výsledku podnikania, ktoré nie sú predmetom dane z príjmov podľa osobitného predpisu<sup>24</sup>) okrem podielu na zisku akciovej spoločnosti alebo obdobnej obchodnej spoločnosti so sídlom v zahraničí, ktorej akcie sú prijaté na obchodovanie na regulovanom trhu<sup>23a</sup>) alebo na obdobnom zahraničnom regulovanom trhu a okrem podielu na likvidačnom zostatku obchodnej spoločnosti alebo družstva a podiel na zisku, ktorý je oslobodený od dane z príjmov podľa osobitného predpisu<sup>24a</sup>) (ďalej len „dividendy“).
 
-(2) Zárobková činnosť je aj činnosť podľa odseku 1, z ktorej príjem nepodlieha dani z príjmov podľa osobitného predpisu<sup>25</sup>) z dôvodu, že tak ustanovujú predpisy o zamedzení dvojitého zdanenia.
+(2) Zárobková činnosť je aj činnosť podľa odseku 1, z ktorej príjem nepodlieha dani z príjmov podľa osobitného predpisu<sup>25</sup>) z dôvodu, že tak ustanovujú predpisy o zamedzení dvojitého zdanenia. Ak je príjem z tejto činnosti uvedený v cudzej mene, na prepočet cudzej meny na eurá sa použije referenčný výmenný kurz určený a vyhlásený Európskou centrálnou bankou, platný k poslednému dňu kalendárneho roka, ktorého sa príjem podľa prvej vety týka.
 
 (3) Zárobková činnosť je aj činnosť podľa odseku 1, z ktorej príjem nepodlieha dani z príjmov podľa osobitného predpisu,<sup>25</sup>) ktorú vykonáva fyzická osoba na území Slovenskej republiky, a na ktorú sa v právnych vzťahoch povinného verejného zdravotného poistenia uplatňujú predpisy Slovenskej republiky podľa osobitného predpisu<sup>16h</sup>) alebo podľa medzinárodnej zmluvy, ktorá má prednosť pred zákonmi Slovenskej republiky.
 

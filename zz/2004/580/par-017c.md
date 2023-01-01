@@ -4,7 +4,7 @@
 
 - a) o potvrdení vyrovnania dlhu, na základe ktorého zanikla povinnosť splatiť zdravotnej poisťovni pohľadávku z dôvodu, že na jej plnenie nebol povinný podľa obsahu vyrovnania,
 
-- b) po skončení reštrukturalizácie, ak pohľadávky zdravotnej poisťovne prihlásené do reštrukturalizácie a zistené v reštrukturalizácii neboli po splnení reštrukturalizačného plánu v celom rozsahu uspokojené, a to ani zo zisku,
+- b) po skončení reštrukturalizácie, ak pohľadávky zdravotnej poisťovne prihlásené do reštrukturalizácie a zistené v reštrukturalizácii neboli po splnení reštrukturalizačného plánu v celom rozsahu uspokojené,
 
 - c) o oddlžení platiteľa poistného, na základe ktorého zanikla povinnosť splatiť zdravotnej poisťovni pohľadávku,
 

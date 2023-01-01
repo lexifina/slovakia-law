@@ -10,7 +10,7 @@
 
 - d) maloletého poistenca vykonáva
 
-  - 1. zákonný zástupca alebo iná fyzická osoba alebo právnická osoba, ktorej bol maloletý zverený do starostlivosti nahrádzajúcej starostlivosť rodičov,
+  - 1. zákonný zástupca, ak nebol maloletý poistenec zverený do starostlivosti nahrádzajúcej starostlivosť rodičov inej fyzickej osobe alebo právnickej osobe na základe rozhodnutia súdu; v takom prípade práva a povinnosti za maloletého poistenca podľa tohto zákona vykonáva iná fyzická osoba alebo právnická osoba, ktorej bol maloletý zverený do starostlivosti nahrádzajúcej starostlivosť rodičov,
 
   - 2. poskytovateľ zdravotnej starostlivosti<sup>11</sup>) alebo
 

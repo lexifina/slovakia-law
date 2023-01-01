@@ -1,6 +1,6 @@
 # § 27d Diagnosticko-nákladové skupiny
 
-(1) Diagnostická skupina je skupina diagnóz podľa Medzinárodnej klasifikácie chorôb pri prepustení z hospitalizácie v období od 1. januára do 31. decembra kalendárneho roka, ktorý dva roky predchádza kalendárnemu roku, na ktorý sa vypočítava index rizika nákladov, je uvedená v zozname diagnosticko-nákladových skupín a umožňuje odhadnúť budúce náklady na poskytovanú zdravotnú starostlivosť poistenca s diagnózou uvedenou v zozname diagnostických skupín.
+(1) Diagnostická skupina je skupina diagnóz podľa Medzinárodnej klasifikácie chorôb pri prepustení z hospitalizácie v období od 1. januára do 31. decembra kalendárneho roka, ktorý tri roky predchádza kalendárnemu roku, na ktorý sa vypočítava index rizika nákladov, je uvedená v zozname diagnosticko-nákladových skupín a umožňuje odhadnúť budúce náklady na poskytovanú zdravotnú starostlivosť poistenca s diagnózou uvedenou v zozname diagnostických skupín.
 
 (2) Diagnosticko-nákladové skupiny tvoria diagnostické skupiny zlúčené do 15 diagnosticko-nákladových skupín v závislosti od priemerných nákladov na diagnostickú skupinu metódou hierarchického aglomeratívneho zhlukovania s Wardovým kritériom. Popis použitia metódy hierarchického aglomeratívneho zhlukovania s Wardovým kritériom sa uvedie vo všeobecne záväznom právnom predpise vydanom podľa § 28 ods. 16 písm. b).
 

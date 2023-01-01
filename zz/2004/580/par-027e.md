@@ -6,7 +6,7 @@
 
 (3) Na účely prerozdeľovania poistného sa za poistenca, ktorému bola poskytnutá uhrádzaná zdravotnícka pomôcka za celý kalendárny mesiac, považuje poistenec, ktorý mal uhrádzanú zdravotnícku pomôcku poskytnutú aspoň jeden deň v tomto kalendárnom mesiaci.
 
-(4) Príslušná zdravotná poisťovňa zaradí poistenca v kalendárnom mesiaci, za ktorý sa vykonáva mesačné prerozdeľovanie, do nákladovej skupiny zdravotníckych pomôcok uvedenej v zozname nákladových skupín zdravotníckych pomôcok, ak mu počas sledovaného obdobia bola poskytnutá uhrádzaná zdravotnícka pomôcka uvedená v zozname nákladových skupín zdravotníckych pomôcok v minimálnom počte mesiacov podľa odseku 7 písm. d) a ktorú príslušná zdravotná poisťovňa alebo zdravotná poisťovňa, ktorá naposledy vykonávala verejné zdravotné poistenie poistenca, zaevidovala v účtovnej evidencii.
+(4) Príslušná zdravotná poisťovňa zaradí poistenca v kalendárnom mesiaci, za ktorý sa vykonáva mesačné prerozdeľovanie, do nákladovej skupiny zdravotníckych pomôcok uvedenej v zozname nákladových skupín zdravotníckych pomôcok, ak mu počas sledovaného obdobia bola poskytnutá uhrádzaná zdravotnícka pomôcka uvedená v zozname nákladových skupín zdravotníckych pomôcok v minimálnom počte mesiacov podľa odseku 8 písm. e) a ktorú príslušná zdravotná poisťovňa alebo zdravotná poisťovňa, ktorá naposledy vykonávala verejné zdravotné poistenie poistenca, zaevidovala v účtovnej evidencii.
 
 (5) Ak možno poistenca zaradiť podľa odseku 4 do viacerých nákladových skupín zdravotníckych pomôcok, poistenec sa na účely mesačného prerozdeľovania zaradí len do nákladovej skupiny zdravotníckych pomôcok s najvyšším indexom rizika nákladov.
 

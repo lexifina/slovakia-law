@@ -44,6 +44,8 @@
 
 - 8aac) § 35 zákona č. 440/2015 Z. z. o športe a o zmene a doplnení niektorých zákonov.
 
+- 8aad) § 94a zákona 131/2002 Z. z.
+
 - 8ab) § 65 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - 8b) Napríklad článok 1 písm. e) nariadenia (ES) č. 883/2004 v znení nariadenia (ES) č. 988/2009.
@@ -60,6 +62,12 @@
 
 - 12) § 7 ods. 3 zákona č. 578/2004 Z. z.
 
+- 12a) § 20 ods. 1 písm. e) druhý bod zákona č. 581/2004 Z. z.
+
+- 12b) Čl. 3 ods. 10 nariadenia Európskeho parlamentu a Rady (EÚ) č. 910/2014 z 23. júla 2014 o elektronickej identifikácii a dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zrušení smernice 1999/93/ES (Ú. v. EÚ L 257, 28. 8. 2014) v platnom znení.
+
+- 12c) Čl. 3 ods. 12 nariadenia Európskeho parlamentu a Rady (EÚ) č. 910/2014 z 23. júla 2014.
+
 - 13) § 17 zákona č. 581/2004 Z. z.
 
 - 13a) § 16 ods. 5 zákona č. 581/2004 Z. z. v znení zákona č. 353/2005 Z. z.
@@ -69,8 +77,6 @@
 - § 45a ods. 3 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 13aaa) § 40 Občianskeho zákonníka v znení neskorších predpisov.
-
-- 13aab) Čl. 3 ods. 10 nariadenia Európskeho parlamentu a Rady (EÚ) č. 910/2014 z 23. júla 2014 o elektronickej identifikácii a dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zrušení smernice 1999/93/ES (Ú. v. EÚ L 257, 28. 8. 2014) v platnom znení.
 
 - 14) § 2 ods. 11 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 
@@ -110,9 +116,19 @@
 
 - 16hda) § 58 ods. 1 písm. c), § 58 ods. 3 zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 16hdaa) § 29 zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+- 16hdaa) § 29 a 30 zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+
+- 16hdaaa) § 2 písm. h) zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+
+- 16hdaab) § 30 ods. 1 a § 31 ods. 3 zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+
+- 16hdaac) § 47a zákona č. 480/2002 Z. z. v znení neskorších predpisov.
 
 - 16hdab) § 31 ods. 1 a § 54e ods. 1 zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+
+- 16hdac) § 5 zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+
+- 16hdad) § 31 ods. 5 zákona č. 480/2002 Z. z. v znení neskorších predpisov.
 
 - 16hdb) § 20 ods. 3 zákona č. 480/2002 Z. z. v znení neskorších predpisov.
 

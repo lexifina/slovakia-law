@@ -1,6 +1,10 @@
 # § 10a Preukaz poistenca a európsky preukaz
 
-(1) Príslušná zdravotná poisťovňa je povinná poistencovi vydať preukaz poistenca do desiatich pracovných dní odo dňa potvrdenia prihlášky (§ 6 ods. 10).
+(1) Príslušná zdravotná poisťovňa je povinná poistencovi vydať preukaz poistenca do
+
+- a) desiatich pracovných dní odo dňa potvrdenia prihlášky, ak bola poistencovi potvrdená prihláška podľa § 6 ods. 10 písm. a),
+
+- b) 15. decembra príslušného kalendárneho roka, ak bola poistencovi potvrdená prihláška podľa § 6 ods. 10 písm. b).
 
 (2) Preukaz poistenca obsahuje
 
