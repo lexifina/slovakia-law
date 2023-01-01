@@ -1,0 +1,1 @@
+Príloha k opatreniu č. MF/14522/2022-36 [Rámcová účtová osnova pre štátne rozpočtové organizácie, štátne príspevkové organizácie a štátne účelové fondy](../assets/90afcdc709a1c18ee9325642887517c275afaf661cc6d1298e79855f38902990.pdf)
