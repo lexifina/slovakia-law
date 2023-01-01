@@ -1,1 +1,1 @@
-Príloha č. 1 k opatreniu č. 376/2020 Z. z. [ŽIADOSŤ O POSKYTNUTIE DOTÁCIE NA OBSTARANIE NÁJOMNÉHO BYTU NA ÚČEL SOCIÁLNEHO BÝVANIA A NA OBSTARANIE PRISLÚCHAJÚCEJ TECHNICKEJ VYBAVENOSTI](../assets/cbecb294e2ec1f54f81b1a97197cb40750233ad9dc5a3bca55320a5eac2b852b.pdf)
+Príloha č. 1 k opatreniu č. 376/2020 Z. z. [Príloha č. 1 k opatreniu č. 376/2020 Z. z.](../assets/15af6f2db3ef9c1153fc844d0e9c83835b0bcc4794b2ef4b77fed7bbad49886f.pdf)

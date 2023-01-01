@@ -1,1 +1,1 @@
-Príloha č. 3 k opatreniu č. 376/2020 Z. z. [ŽIADOSŤ O POSKYTNUTIE DOTÁCIE NA OBSTARANIE TECHNICKEJ VYBAVENOSTI](../assets/2850c08a18e629a9f4d0eb567781005a9eb3e5d6159fdfc0d6b83b54111b61dc.pdf)
+Príloha č. 3 k opatreniu č. 376/2020 Z. z. [Príloha č. 3 k opatreniu č. 376/2020 Z. z.](../assets/42cdbb1ec8b9cfd21573cf37756aebd9a9a7aaf528e695f304d45043b8768655.pdf)
