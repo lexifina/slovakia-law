@@ -202,6 +202,12 @@ Zákon č. 150/2013 Z. z. o Štátnom fonde rozvoja bývania v znení zákona č
 
 - 40. V § 10 ods. 10 písm. c) treťom bode sa slová „odsek 15“ nahrádzajú slovami „odsek 17“.
 
+- 41. V § 10 sa odsek 10 dopĺňa písmenom d), ktoré znie:
+
+- „d)
+
+- z celkového počtu obstarávaných nájomných bytov v bytovej budove alebo v nebytovej budove, ktorá má zriadený výťah, minimálne 15 % bytov je navrhnutých univerzálne z hľadiska stavebných konštrukcií a to tak, aby ich mohli využívať osoby so zdravotným postihnutím bez dodatočných úprav týchto konštrukcií; podrobnosti univerzálneho navrhovania ustanoví ministerstvo všeobecne záväzným právnym predpisom.“.
+
 - 42. V § 10 ods. 11 písm. b) prvom bode sa slová „odseku 12“ nahrádzajú slovami „odseku 10“.
 
 - 43. V § 10 ods. 11 písm. b) treťom bode sa slová „obstarávacej ceny“ nahrádzajú slovami „obstarávacieho nákladu“.
