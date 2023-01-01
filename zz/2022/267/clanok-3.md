@@ -12,6 +12,10 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - 3. V § 39 ods. 4 sa vypúšťajú slová „získaním osvedčenia o príprave na výkon práce v zdravotníctve a“.
 
+- 4. V § 40 ods. 12 sa vypúšťa písmeno f).
+
+  - Doterajšie písmená g) až n) sa označujú ako písmená f) až m).
+
 - 5. V § 79 ods. 1 písm. zg) sa slovo „následnú“ nahrádza slovom „pokračujúcu“.
 
 - 6. V § 92a ods. 3 písmeno g) znie:
