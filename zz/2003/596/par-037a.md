@@ -1,6 +1,12 @@
 # § 37a Správne delikty
 
-(1) Obec uloží pokutu do 331,50 eura zákonnému zástupcovi dieťaťa, ktorý je právnickou osobou a ktorý ohrozil jeho výchovu a vzdelávanie alebo zanedbal starostlivosť o povinnú školskú dochádzku dieťaťa, najmä ak dieťa neprihlásil na povinnú školskú dochádzku alebo dieťa neospravedlnene vynechalo viac ako 60 vyučovacích hodín v príslušnom školskom roku.
+(1) Obec uloží pokutu od 30 eur do 331,50 eur, a to aj opakovane, zákonnému zástupcovi dieťaťa, ktorý je právnickou osobou a ktorý
+
+- a) ohrozuje jeho výchovu a vzdelávanie,
+
+- b) zanedbáva starostlivosť o povinnú školskú dochádzku dieťaťa, najmä ak dieťa neprihlási na povinnú školskú dochádzku alebo dieťa neospravedlnene vynechá viac ako 15 vyučovacích hodín v mesiaci alebo viac ako 60 vyučovacích hodín v príslušnom školskom roku alebo
+
+- c) zanedbáva starostlivosť o povinné predprimárne vzdelávanie dieťaťa, najmä ak dieťa neprihlási na plnenie povinného predprimárneho vzdelávania alebo ak dieťa, pre ktoré je predprimárne vzdelávanie povinné, neospravedlnene vynechá viac ako päť dní v mesiaci.
 
 (2) Školský inšpektor uloží pokutu do 331,50 eura zodpovednému zamestnancovi, ktorý neodstránil nedostatky zistené školskou inšpekciou okrem opatrení týkajúcich sa riešenia sťažností a petícií.
 
