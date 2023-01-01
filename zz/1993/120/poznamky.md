@@ -20,6 +20,8 @@
 
 - 1d) § 63 ods. 7 zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriadku Národnej rady Slovenskej republiky v znení neskorších predpisov.
 
+- 1e) § 32 ods. 2 zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z. v znení neskorších predpisov.
+
 - 2) § 124 ods. 1 Zákonníka práce.
 
 - 3) Napr. zákon č. 143/1992 Zb. o plate a odmene za pracovnú pohotovosť v rozpočtových a v niektorých ďalších organizáciách a orgánoch, nariadenie vlády Slovenskej republiky č. 249/1992 Zb. o platových pomeroch zamestnancov v rozpočtových a v niektorých ďalších organizáciách a orgánoch.
