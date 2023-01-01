@@ -2,7 +2,7 @@
 
 (1) Odplata za správu doplnkového dôchodkového fondu za jeden rok správy doplnkového dôchodkového fondu nesmie presiahnuť
 
-- a) 1,2 % z priemernej ročnej čistej hodnoty majetku v príspevkovom doplnkovom dôchodkovom fonde,
+- a) 1 % z priemernej ročnej čistej hodnoty majetku v príspevkovom doplnkovom dôchodkovom fonde,
 
 - b) 0,6 % z priemernej ročnej čistej hodnoty majetku vo výplatnom doplnkovom dôchodkovom fonde.
 

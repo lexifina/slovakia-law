@@ -170,9 +170,7 @@
 
 - 43) Zákon č. 540/2001 Z. z. o štátnej štatistike v znení zákona č. 215/2004 Z. z.
 
-- 43a) Čl. 4 ústavného zákona č. 493/2011 Z. z. o rozpočtovej zodpovednosti.
-
-- § 30aa ods. 21 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 101/2022 Z. z.
+- 43a) Napríklad § 35 až 38 zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov, § 14 ods. 5 a § 30aa ods. 21 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, čl. 4 ústavného zákona č. 493/2011 Z. z. o rozpočtovej zodpovednosti.
 
 - 44) Obchodný zákonník.
 
