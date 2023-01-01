@@ -1,0 +1,5 @@
+# § 11c Prechodné ustanovenia k úpravám účinným od 1. januára 2023
+
+(1) Ak oprávnenej osobe, ktorej bolo maloleté dieťa rozhodnutím súdu zverené do striedavej osobnej starostlivosti, vznikol nárok na príspevok podľa tohto zákona v znení účinnom do 31. decembra 2022 a nárok na príspevok trvá k 31. decembru 2022, na výplatu príspevku sa do 31. januára 2023 vzťahuje § 3 ods. 5 a 6 v znení účinnom do 31. decembra 2022.
+
+(2) Ak oprávnené osoby, ktorým bolo maloleté dieťa rozhodnutím súdu zverené do striedavej osobnej starostlivosti a ktoré spĺňajú podmienky nároku na príspevok do 31. decembra 2022, nedoručia platiteľovi do 31. januára 2023 písomnú dohodu o zmene oprávnenej osoby na výplatu príspevku alebo písomný prejav vôle oprávnenej osoby, ktorej sa príspevok nevyplácal, aby sa príspevok vyplácal spôsobom podľa § 3 ods. 5 písm. a) v znení účinnom od 1. januára 2023, platiteľ vypláca príspevok oprávnenej osobe, ktorej patrí príspevok podľa tohto zákona v znení účinnom do 31. decembra 2022; oprávnenie rodičov podľa § 3 ods. 5 prvej vety v znení účinnom od 1. januára 2023, tým nie je dotknuté.

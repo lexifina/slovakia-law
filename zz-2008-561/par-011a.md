@@ -1,0 +1,5 @@
+# § 11a Prechodné ustanovenia k úpravám účinným od 1. januára 2011
+
+(1) O žiadostiach o príspevok a o žiadostiach o príspevok rodičovi podaných do 31. decembra 2010, o ktorých sa právoplatne nerozhodlo do 31. decembra 2010, sa rozhodne a príspevok a príspevok rodičovi sa vyplatí za obdobie do 31. decembra 2010 podľa zákona účinného do 31. decembra 2010; ak nárok na príspevok trval aj po 31. decembri 2010, považuje sa tento príspevok od 1. januára 2011 za príspevok priznaný podľa zákona účinného od 1. januára 2011.
+
+(2) Ak oprávnená osoba uplatňuje nárok na príspevok a nárok na príspevok rodičovi po 31. decembri 2010 za obdobie pred 1. januárom 2011, o nároku na tento príspevok a príspevok rodičovi sa rozhodne a príspevok a príspevok rodičovi sa vyplatí za obdobie do 31. decembra 2010 podľa zákona účinného do 31. decembra 2010; ak nárok na príspevok trvá aj po 31. decembri 2010, považuje sa tento príspevok od 1. januára 2011 za príspevok priznaný podľa zákona účinného od 1. januára 2011.
