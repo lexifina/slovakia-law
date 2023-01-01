@@ -120,6 +120,8 @@
 
 - 34) § 69 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení zákona č. 331/2011 Z. z.
 
+- 34a) Zákon č. 129/2022 Z. z. o celoeurópskom osobnom dôchodkovom produkte a o zmene a doplnení niektorých zákonov.
+
 - 35) Zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov.
 
 - 36) § 45 až 52 zákona č. 383/1997 Z. z. v znení zákona č. 234/2000 Z. z.
@@ -301,6 +303,8 @@
 - 63e) § 2 ods. 3 zákona č. 447/2008 Z. z.
 
 - 64) Napríklad zákon č. 235/1998 Z. z. v znení neskorších predpisov, zákon č. 238/1998 Z. z. v znení neskorších predpisov, zákon č. 280/2002 Z. z. v znení neskorších predpisov, zákon č. 600/2003 Z. z. v znení zákona č. 485/2004 Z. z.
+
+- 64a) Čl. 4 nariadenia Európskeho parlamentu a Rady (EÚ) 2019/1238 z 20. júna 2019 o celoeurópskom osobnom dôchodkovom produkte (PEPP) (Ú. v. EÚ L 198, 25. 7. 2019) v platnom znení.
 
 - 65) § 19 zákona č. 650/2004 Z. z. v znení neskorších predpisov.
 
@@ -488,6 +492,8 @@
 
 - § 2 ods. 1 písm. a) a b) zákona č. 233/2019 Z. z. o ukončení niektorých exekučných konaní a o zmene a doplnení niektorých zákonov.
 
+- 88aab) Zákon č. 111/2022 Z. z. o riešení hroziaceho úpadku a o zmene a doplnení niektorých zákonov.
+
 - 88b) § 8 ods. 2 a § 16 zákona č. 61/2015 Z. z.
 
 - 88c) § 24a zákona č. 61/2015 Z. z. v znení zákona č. 209/2018 Z. z.
@@ -523,12 +529,6 @@
 - 96a) § 1 ods. 3 zákona č. 371/2014 Z. z.
 
 - 97) § 30a a 30b zákona č. 80/1997 Z. z. v znení neskorších predpisov.
-
-- § 20 ods. 8 zákona č. 381/2001 Z. z. o povinnom zmluvnom poistení zodpovednosti za škodu spôsobenú prevádzkou motorového vozidla a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 97a) § 171 až 177 zákona č. 39/2015 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov.
-
-- 97b) § 167 zákona č. 39/2015 Z. z.
 
 - 98) Zákon č. 326/2005 Z. z. o lesoch.
 
@@ -758,8 +758,6 @@
 
 - 136ag) Zákon č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov v znení zákona č. 52/2018 Z. z.
 
-- 136ah) § 11a zákona č. 83/1990 Zb. v znení zákona č. 346/2018 Z. z.
-
 - 136bf) § 68 ods. 6 Obchodného zákonníka v znení neskorších predpisov.
 
 - 136bg) § 58 ods. 10 Zákonníka práce v znení neskorších predpisov.
@@ -835,3 +833,5 @@
 - 155) § 45a ods. 2 a § 66ba ods. 3 písm. c) zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
 - 156) Zákon č. 57/2018 Z. z. v znení neskorších predpisov.
+
+- 157) Medzinárodný štandard finančného výkazníctva 9 a 17 Prílohy k nariadeniu Komisie (ES) č. 1126/2008 z 3. novembra 2008, ktorým sa v súlade s nariadením Európskeho parlamentu a Rady (ES) č. 1606/2002 prijímajú určité medzinárodné účtovné štandardy (Ú. v. EÚ L 320, 29. 11. 2008) v platnom znení.

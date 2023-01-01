@@ -1,8 +1,8 @@
 # § 49a Registračná povinnosť a oznamovacia povinnosť
 
-(1) Fyzickú osobu alebo právnickú osobu, ktorá je na území Slovenskej republiky zapísaná do registra právnických osôb, podnikateľov a orgánov verejnej moci,<sup>136ag</sup>) zaregistruje správca dane v lehote a spôsobom ustanoveným osobitným predpisom.<sup>128</sup>)
+(1) Fyzickú osobu alebo právnickú osobu, ktorá je zapísaná do registra právnických osôb, podnikateľov a orgánov verejnej moci,<sup>136ag</sup>) na základe údajov z tohto registra, ktoré boli prevzaté do tohto registra z obchodného registra, zo živnostenského registra a z iných registrov podľa oznámenia finančného riaditeľstva uverejneného na jeho webovom sídle, zaregistruje správca dane v lehote a spôsobom ustanoveným osobitným predpisom.<sup>128</sup>)
 
-(2) Fyzickú osobu alebo organizačnú jednotku združenia, ktorá koná vo svojom mene,<sup>136ah</sup>) a ktorá nie je zapísaná do registra právnických osôb, podnikateľov a orgánov verejnej moci, zaregistruje správca dane v lehote a spôsobom ustanoveným osobitným predpisom<sup>128</sup>) na základe prvého podaného daňového priznania.
+(2) Fyzická osoba, ktorá nie je registrovaná podľa odseku 1, je povinná v lehote do konca kalendárneho mesiaca nasledujúceho po uplynutí mesiaca, v ktorom na území Slovenskej republiky začala vykonávať inú samostatnú zárobkovú činnosť alebo v ktorom na území Slovenskej republiky prenajala nehnuteľnosť okrem pozemku, požiadať správcu dane o registráciu.
 
 (3) Fyzická osoba a právnická osoba, ktorá nie je registrovaná podľa odseku 1 alebo odseku 2, je povinná v lehote do konca kalendárneho mesiaca nasledujúceho po uplynutí mesiaca, v ktorom vznikla povinnosť zrážať daň alebo preddavky na daň alebo daň vyberať, požiadať správcu dane o registráciu ako platiteľ dane. Registračná povinnosť podľa prvej vety sa nevzťahuje na platiteľa dane uvedeného v § 43 ods. 17.
 
@@ -83,3 +83,7 @@
 (10) Ak správca dane následne zistí, že príjmy (výnosy) reverzného hybridného subjektu neboli zdanené podľa tohto zákona alebo podľa daňových predpisov platných v zahraničí, uloží reverznému hybridnému subjektu pokutu vo výške rozdielu dane vyrubeného reverznému hybridnému subjektu.
 
 (11) Ak spoločník verejnej obchodnej spoločnosti, komplementár komanditnej spoločnosti, príjemca príjmu (výnosu) plynúceho od subjektu s právnou subjektivitou alebo príjemca príjmu (výnosu) plynúceho od subjektu bez právnej subjektivity prestane spĺňať podmienky podľa § 17j ods. 3, alebo dôjde k zmene skutočností uvedených v oznámení podľa odseku 9, je povinný oznámiť tieto skutočnosti správcovi dane do konca kalendárneho mesiaca nasledujúceho po mesiaci, v ktorom tieto skutočnosti nastali.
+
+(12) Ak dôjde k zmenám skutočností zakladajúcich povinnosť registrácie podľa tohto zákona, najmä ak daňovníkovi zanikne daňová povinnosť, je povinný tieto skutočnosti oznámiť správcovi dane do konca kalendárneho mesiaca nasledujúceho po uplynutí mesiaca, v ktorom tieto zmeny nastali. Ak nastali skutočnosti, ktoré majú za následok zrušenie registrácie, daňovník je povinný požiadať o zrušenie registrácie podľa osobitného predpisu.<sup>128</sup>)
+
+(13) Registračná povinnosť sa nevzťahuje na daňovníka, ktorý má príjmy len podľa § 5, § 7 alebo § 8 alebo len príjmy, z ktorých sa daň vyberá zrážkou (§ 43), alebo kombináciu týchto príjmov.

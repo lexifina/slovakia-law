@@ -1,6 +1,6 @@
 # § 52zzn Prechodné ustanovenia účinné od 1. júla 2022
 
-(1) Pri uplatňovaní daňového bonusu od 1. júla 2022 do 31. decembra 2022 postupuje daňovník spôsobom podľa odsekov 2 až 14, ak nie je vyšší nárok na daňový bonus vypočítaný spôsobom podľa § 33 v znení účinnom do 30. júna 2022.
+(1) Pri uplatňovaní daňového bonusu od 1. júla 2022 do 31. decembra 2022 postupuje daňovník spôsobom podľa odsekov 2 až 16, ak nie je vyšší nárok na daňový bonus vypočítaný spôsobom podľa § 33 v znení účinnom do 30. júna 2022.
 
 (2) Pri priznaní daňového bonusu za kalendárne mesiace júl 2022 až december 2022 zamestnávateľ postupuje spôsobom podľa odseku 1 a § 35 ods. 5 prvej vety v znení účinnom od 1. júla 2022, ak nie je vyšší nárok na daňový bonus vypočítaný spôsobom podľa § 33, § 35 ods. 5 a 7 a § 36 ods. 5 v znení účinnom do 30. júna 2022. Zamestnávateľ, ktorý je platiteľom dane pri ročnom zúčtovaní podľa § 38, nárok na daňový bonus za kalendárne mesiace júl 2022 až december 2022, ktorý by vznikol podľa odsekov 3 až 14, porovná s nárokom na daňový bonus podľa § 33, § 35 ods. 5 a 7 a § 36 ods. 5 v znení účinnom do 30. júna 2022 a prizná zamestnancovi nárok na daňový bonus za kalendárne mesiace júl 2022 až december 2022, ktorý je pre neho výhodnejší. Pri vyplatení rozdielu medzi vyššou sumou nároku podľa prvej vety a výškou vyplateného daňového bonusu za kalendárne mesiace júl 2022 až december 2022 zamestnávateľ, ktorý je platiteľom dane, postupuje podľa § 38 ods. 6. Zamestnanec, ktorý nepožiada zamestnávateľa, ktorý je platiteľom dane, o vykonanie ročného zúčtovania podľa § 38, postupuje obdobne v daňovom priznaní.
 
@@ -45,3 +45,7 @@ Počet vyživovaných detí | Percentuálny limit polovice základu dane (čiast
 (13) Nárok na daňový bonus podľa odsekov 1 až 12 si daňovník môže uplatniť prvýkrát za kalendárny mesiac júl 2022 a poslednýkrát za kalendárny mesiac december 2022.
 
 (14) Suma daňového bonusu podľa odsekov 1 až 13 je od dane oslobodená.
+
+(15) Ak dôjde v priebehu zdaňovacieho obdobia k zmene počtu vyživovaných detí, na ktoré sa uplatňuje daňový bonus, výška nároku na daňový bonus sa uplatní ako úhrn nárokov na daňový bonus vypočítaných podľa odseku 8 stanovených v pomernej výške zodpovedajúcej počtu mesiacov, v ktorých daňovník vyživoval príslušný počet detí, na ktoré si uplatňuje daňový bonus.
+
+(16) Ak bol daňovníkovi v priebehu zdaňovacieho obdobia zamestnávateľom priznaný vyšší nárok na daňový bonus podľa tohto zákona ako mu vznikne pri prepočítaní po skončení zdaňovacieho obdobia, nestráca nárok na už priznaný daňový bonus.

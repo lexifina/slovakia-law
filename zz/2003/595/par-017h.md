@@ -10,7 +10,7 @@
 
 (3) Kontrolovanou zahraničnou spoločnosťou sa rozumie aj stála prevádzkareň daňovníka podľa § 2 písm. d) druhého bodu umiestnená v zahraničí, ktorej príjmy nie sú predmetom dane podľa § 12 alebo sú od dane oslobodené podľa § 13 alebo na ktorej základ dane sa uplatňuje metóda vyňatia príjmov podľa § 45, ak daň z príjmov právnickej osoby platená z príjmov stálej prevádzkarne v zahraničí je nižšia ako rozdiel medzi daňou z príjmov právnickej osoby vypočítanou podľa § 17 až 29 pripadajúcou na túto stálu prevádzkareň a daňou z príjmov právnickej osoby platenej z príjmov stálej prevádzkarne v zahraničí.
 
-(4) Súčasťou základu dane daňovníka podľa § 2 písm. d) druhého bodu sú aj príjmy kontrolovanej zahraničnej spoločnosti plynúce z opatrenia alebo viacerých opatrení, ktoré nie sú skutočné a ktoré boli vykonané za účelom získania daňovej výhody v rozsahu, v akom k nim nebola vykonaná úprava základu dane podľa § 17 ods. 5.
+(4) Súčasťou základu dane daňovníka podľa § 2 písm. d) druhého bodu sú aj príjmy kontrolovanej zahraničnej spoločnosti plynúce z opatrenia alebo viacerých opatrení, ktoré nie sú skutočné a ktoré boli vykonané za účelom získania daňovej výhody v rozsahu, v akom k nim nebola vykonaná úprava základu dane podľa § 17 ods. 5 písm. a).
 
 (5) Na účely odseku 4 sa opatrenie alebo viaceré opatrenia pri dosahovaní príjmu alebo jeho časti nepovažujú za skutočné v rozsahu, v akom by k tomuto príjmu prislúchajúci majetok a riziká nepatrili kontrolovanej zahraničnej spoločnosti, ak by nebola riadená a kontrolovaná daňovníkom podľa § 2 písm. d) druhého bodu, ktorý vykonáva významné funkcie, ku ktorým tento majetok a riziká prislúchajú a ktoré slúžia na vytváranie príjmov kontrolovanej zahraničnej spoločnosti.
 
