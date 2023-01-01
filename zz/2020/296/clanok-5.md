@@ -30,6 +30,8 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 
 - 12. V § 226 ods. 1 písm. p) sa vypúšťa šiesty bod.
 
+- 13. V § 226 ods. 1 písm. q) sa vypúšťa šiesty bod.
+
 - 14. V § 233 ods. 10 prvej vete sa slová „zákonom a“ nahrádzajú slovom „zákonom,“ a na konci sa pripájajú tieto slová: „a na účely poskytovania 13. dôchodku<sup>101c</sup>)“.
 
   - Poznámka pod čiarou k odkazu 101c znie:
