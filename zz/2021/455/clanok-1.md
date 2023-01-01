@@ -18,6 +18,12 @@ Zákon č. 106/2018 Z. z. o prevádzke vozidiel v cestnej premávke a o zmene a 
 
   - Poznámka pod čiarou k odkazu 13 sa vypúšťa.
 
+- 4. V § 13 ods. 1 druhá veta znie: „Základný elektronický formát, štruktúru a prostriedky na výmenu údajov prostredníctvom medzinárodného informačného systému vozidiel<sup>24</sup>) ustanovuje osobitný predpis.<sup>24a</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 24a znie:
+
+  - „<sup>24a</sup>) Vykonávacie nariadenie Komisie (EÚ) 2021/133 zo 4. februára 2021, ktorým sa vykonáva nariadenie Európskeho parlamentu a Rady (EÚ) 2018/858, pokiaľ ide o základný formát, štruktúru a prostriedky na výmenu údajov týkajúcich sa osvedčení o zhode v elektronickej forme (Ú. v. EÚ L 42, 5. 2. 2021) v platnom znení.“.
+
 - 5. Poznámka pod čiarou k odkazu 34 znie:
 
 - „<sup>34</sup>) Čl. 4 až 7 a čl. 9 nariadenia Európskeho parlamentu a Rady (EÚ) 2020/740 z 25. mája 2020 o označovaní pneumatík vzhľadom na palivovú úspornosť a iné parametre, ktorým sa mení nariadenie (EÚ) 2017/1369 a zrušuje nariadenie (ES) č. 1222/2009 (Ú. v. EÚ L 177, 5. 6. 2020).“.
