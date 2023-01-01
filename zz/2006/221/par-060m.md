@@ -1,10 +1,10 @@
 # § 60m Súčinnosť tretích osôb
 
-(1) Poisťovňa je na účely rozhodovania v konaní podľa tohto zákona alebo výkonu rozhodnutia povinná oznámiť ústavu alebo generálnemu riaditeľstvu na jeho písomnú žiadosť výplaty poistných plnení obvineným.
+(1) Poisťovňa je na účely rozhodovania v konaní podľa tohto zákona alebo výkonu rozhodnutia povinná oznámiť ústavu alebo generálnemu riaditeľstvu na jeho žiadosť výplaty poistných plnení obvineným.
 
 (2) Banka a pobočka zahraničnej banky je povinná ústavu alebo generálnemu riaditeľstvu na jeho žiadosť poskytnúť podľa osobitného predpisu<sup>43c</sup>) údaje nevyhnutné na účely výkonu rozhodnutia od obvineného, ktorý je klientom banky alebo pobočky zahraničnej banky.
 
-(3) Štátny orgán, obec, notár alebo iná osoba, ktorá z úradnej moci alebo vzhľadom na predmet svojej činnosti vedie evidenciu osôb a majetku, je na účely rozhodovania v konaní podľa tohto zákona alebo výkonu rozhodnutia povinná oznámiť ústavu alebo generálnemu riaditeľstvu na jeho písomnú žiadosť potrebné údaje.
+(3) Štátny orgán, obec, notár alebo iná osoba, ktorá z úradnej moci alebo vzhľadom na predmet svojej činnosti vedie evidenciu osôb a majetku, je na účely rozhodovania v konaní podľa tohto zákona alebo výkonu rozhodnutia povinná oznámiť ústavu alebo generálnemu riaditeľstvu na jeho žiadosť potrebné údaje.
 
 (4) Iná osoba, ktorá má údaje, listiny a iné veci potrebné na účely rozhodovania v konaní podľa tohto zákona alebo výkonu rozhodnutia, ak to možno od nej požadovať, je povinná ústavu alebo generálnemu riaditeľstvu na jeho písomnú žiadosť tieto údaje poskytnúť, listiny a veci vydať alebo vypožičať, ak možno od nej splnenie tejto povinnosti požadovať.
 

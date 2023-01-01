@@ -8,8 +8,10 @@
 
 (4) Ak je dôkazným prostriedkom výpoveď svedka, uvedie sa stručný obsah výpovede s jeho vlastnoručným podpisom. Každý je povinný vypovedať ako svedok; musí vypovedať pravdivo a nesmie nič zamlčovať. Svedok je oprávnený odoprieť vypovedať, ak by výpoveďou spôsobil nebezpečenstvo trestného stíhania sebe alebo blízkej osobe.<sup>40a</sup>) Svedok je oprávnený odoprieť vypovedať aj vtedy, ak by výpoveďou porušil spovedné tajomstvo alebo tajomstvo informácie, ktorá mu bola zverená ústne alebo písomne pod podmienkou mlčanlivosti ako osobe poverenej pastoračnou starostlivosťou. O dôvodnosti odopretia výpovede rozhoduje oprávnený orgán. Oprávnený orgán poučí svedka o možnosti odoprieť výpoveď, o jeho povinnosti vypovedať pravdivo a nič nezamlčať a o právnych následkoch nepravdivej alebo neúplnej výpovede.
 
-(5) Ak je to potrebné na objasnenie skutku, oprávnený orgán môže zaistiť vec alebo listinu na nevyhnutne potrebný čas. Oprávnený orgán môže uložiť osobe, ktorá má listinu potrebnú na vykonanie dôkazov, aby ju predložila. Náklady spojené s predložením listiny, ktoré vznikli tomu, kto nie je účastníkom konania, uhrádza oprávnený orgán.
+(5) Ak je dôvodná obava, že oznámením totožnosti svedka je ohrozený jeho život, zdravie, telesná integrita alebo ak také nebezpečenstvo hrozí jemu blízkej osobe, môže sa svedkovi povoliť, aby neuvádzal údaje o svojej osobe. Materiály, ktoré umožňujú zistenie totožnosti takého svedka, sa ukladajú u príslušníka zboru z preventívno-bezpečnostnej služby. Súhlas na utajenie totožnosti svedka dáva riaditeľ ústavu.
 
-(6) Ak sa v konaní vyskytne otázka, o ktorej už bolo právoplatne rozhodnuté, je oprávnený orgán takým rozhodnutím viazaný.
+(6) Ak je to potrebné na objasnenie skutku, oprávnený orgán môže zaistiť vec alebo listinu na nevyhnutne potrebný čas. Oprávnený orgán môže uložiť osobe, ktorá má listinu potrebnú na vykonanie dôkazov, aby ju predložila. Náklady spojené s predložením listiny, ktoré vznikli tomu, kto nie je účastníkom konania, uhrádza oprávnený orgán.
 
-(7) Oprávnený orgán hodnotí dôkazy podľa svojej úvahy založenej na starostlivom uvážení všetkých okolností prípadu, a to každý dôkaz jednotlivo a všetky dôkazy v ich vzájomnej súvislosti.
+(7) Ak sa v konaní vyskytne otázka, o ktorej už bolo právoplatne rozhodnuté, je oprávnený orgán takým rozhodnutím viazaný.
+
+(8) Oprávnený orgán hodnotí dôkazy podľa svojej úvahy založenej na starostlivom uvážení všetkých okolností prípadu, a to každý dôkaz jednotlivo a všetky dôkazy v ich vzájomnej súvislosti.

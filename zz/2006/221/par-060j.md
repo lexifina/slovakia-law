@@ -1,6 +1,6 @@
 # § 60j Odvolacie konanie
 
-(1) Ak sa v § 41 ods. 2, § 42 ods. 4 alebo v tejto hlave neustanovuje inak, pokiaľ sa účastník konania odvolania písomne alebo ústne do zápisnice nevzdal, proti rozhodnutiu možno podať odvolanie v konaniach podľa § 60a ods. 1 písm. a) až c) do troch dní a v konaniach podľa § 60a ods. 1 písm. d) až f) do desiatich dní odo dňa oznámenia rozhodnutia.
+(1) Ak sa v § 41 ods. 2, § 42 ods. 4 alebo v tejto hlave neustanovuje inak, pokiaľ sa účastník konania odvolania písomne alebo ústne do zápisnice nevzdal, proti rozhodnutiu možno podať odvolanie do desiatich dní odo dňa oznámenia rozhodnutia.
 
 (2) Odvolanie nemá odkladný účinok okrem odvolania proti rozhodnutiu o uložení disciplinárneho trestu podľa § 40 ods. 3 písm. a) až c).
 
@@ -14,7 +14,7 @@
 
 (7) Odvolacím orgánom je
 
-- a) v disciplinárnom konaní vedúci oddelenia výkonu väzby, ak rozhodnutie vydal samostatný referent režimu; riaditeľ ústavu, ak rozhodnutie vydal vedúci oddelenia výkonu väzby,
+- a) v disciplinárnom konaní vedúci oddelenia výkonu väzby,
 
 - b) v konaní o náhrade škody riaditeľ ústavu alebo generálny riaditeľ v prípade škody, ktorá vznikla na majetku štátu v správe generálneho riaditeľstva,
 
@@ -26,7 +26,7 @@
 
 (9) Odvolací orgán preskúma napadnuté rozhodnutie v celom rozsahu; ak je to nevyhnutné, doterajšie konanie doplní, prípadne zistené nedostatky odstráni a
 
-- a) ak sú na to dôvody, rozhodnutie zmení alebo zruší,
+- a) ak sú na to dôvody, rozhodnutie zmení v prospech obvineného alebo zruší,
 
 - b) odvolanie zamietne a rozhodnutie potvrdí,
 
@@ -35,5 +35,3 @@
 (10) Účastník konania môže písomne vziať odvolanie späť, kým sa o ňom nerozhodlo. Ak účastník konania vzal odvolanie späť, nemôže sa znovu odvolať.
 
 (11) Proti rozhodnutiu o odvolaní sa nemožno odvolať.
-
-(12) Proti rozhodnutiu riaditeľa ústavu v disciplinárnom konaní, ak nejde o rozhodnutie o odvolaní, možno podať rozklad. O rozklade rozhoduje riaditeľ ústavu na základe návrhu ním ustanovenej osobitnej komisie; proti tomuto rozhodnutiu sa nemožno odvolať. Pre rozklad a konanie o ňom platia ustanovenia o odvolaní.
