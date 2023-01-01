@@ -1,0 +1,5 @@
+# Čl. II
+
+Zákon č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení zákona č. 75/2013 Z. z., zákona č. 388/2013 Z. z., zákona č. 495/2013 Z. z., zákona č. 131/2015 Z. z., zákona č. 353/2015 Z. z., zákona č. 444/2015 Z. z., zákona č. 125/2016 Z. z., zákona č. 82/2017 Z. z., zákona č. 179/2017 Z. z., zákona č. 57/2018 Z. z., zákona č. 68/2018 Z. z., zákona č. 108/2018 Z. z., zákona č. 376/2018 Z. z., nálezu Ústavného súdu Slovenskej republiky č. 70/2019 Z. z., zákona č. 83/2019 Z. z., zákona č. 221/2019 Z. z., zákona č. 310/2019 Z. z., zákona č. 73/2020 Z. z., zákona č. 424/2020 Z. z., zákona č. 310/2021 Z. z., zákona č. 92/2022 Z. z. a zákona č. 113/2022 Z. z. sa mení a dopĺňa takto:
+
+- V § 23 ods. 6 písm. d) sa na konci čiarka nahrádza bodkočiarkou a pripájajú sa tieto slová: „to neplatí, ak počas konania o udelenie prechodného pobytu na účel zamestnania štátny príslušník tretej krajiny zmenil v žiadosti o udelenie prechodného pobytu na účel zamestnania zamestnávateľa alebo zamestnanie,“.
