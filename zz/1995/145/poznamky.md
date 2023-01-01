@@ -144,8 +144,6 @@
 
 - 15) § 4 zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov.
 
-- 16) § 30 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v znení zákona č. 14/2006 Z. z.
-
 - 16a) § 25 zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
 
 - 16aa) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) č. 910/2014 z 23. júla 2014 o elektronickej identifikácii a dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zrušení smernice 1999/93/ES (Ú. v. EÚ L 257, 28. 8. 2014) v platnom znení, zákon č. 272/2016 Z. z. o dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zmene a doplnení niektorých zákonov (zákon o dôveryhodných službách) v znení neskorších predpisov.
@@ -156,7 +154,7 @@
 
 - 17) Zákon Slovenskej národnej rady č. 63/1973 Zb. o verejných zbierkach a o lotériách a iných podobných hrách v znení neskorších predpisov.
 
-- 17a) § 39 zákona č. 488/2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov.
+- 17a) § 44 ods. 1 až 3 zákona č. 39/2007 Z. z. o veterinárnej starostlivosti v znení neskorších predpisov.
 
 - 17aa) § 42 ods. 3 a § 47 ods. 4 zákona č. 326/2005 Z. z. o lesoch v znení neskorších predpisov.
 
@@ -166,11 +164,25 @@
 
 - § 17 ods. 1 zákona č. 138/2010 Z. z. o lesnom reprodukčnom materiáli v znení neskorších predpisov.
 
-- 17b) § 31 zákona č. 405/2011 Z. z o rastlinolekárskej starostlivosti a o zmene zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
+- 17b) § 6 ods. 2 písm. an) zákona č. 39/2007 Z. z. v znení neskorších predpisov.
 
-- 17c) § 23 zákona č. 387/2013 Z. z. o pomocných prípravkoch v ochrane rastlín a o zmene a doplnení niektorých zákonov.
+- 17c) § 6 ods. 2 písm. ay) zákona č. 39/2007 Z. z. v znení neskorších predpisov.
 
-- 17d) § 32 zákona č. 193/2005 Z. z.
+- 17d) § 8 ods. 3 písm. aj) zákona č. 39/2007 Z. z. v znení neskorších predpisov.
+
+- 17e) § 6 ods. 2 písm. as) zákona č. 39/2007 Z. z. v znení neskorších predpisov.
+
+- 17f) § 8 ods. 3 písm. an) zákona č. 39/2007 Z. z. v znení neskorších predpisov.
+
+- 17g) § 39a ods. 1 zákona č. 39/2007 Z. z. v znení neskorších predpisov.
+
+- 17h) § 39a ods. 4 zákona č. 39/2007 Z. z. v znení neskorších predpisov.
+
+- 17i) § 6 ods. 2 písm. aa) a al), § 8 ods. 3 písm. j), q), x), ac) zákona č. 39/2007 Z. z. v znení neskorších predpisov.
+
+- 17j) § 6 ods. 2 písm. i) body 8 až 10, § 6 ods. 2 písm. av), § 8 ods. 3 písm. h), i) bod 2, § 8 ods. 3 písm. z) body 2, 3, 6, 7, 8, 9, § 39 ods. 1 zákona č. 39/2007 Z. z. v znení neskorších predpisov.
+
+- 17k) Napríklad zákon č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 39/2013 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 137/2010 Z. z. o ovzduší v znení neskorších predpisov.
 
 - 18) Vyhláška Federálneho ministerstva pre technický a investičný rozvoj č. 83/1976 Zb. o všeobecných technických požiadavkách na výstavbu v znení neskorších predpisov.
 
@@ -195,6 +207,8 @@
 - 21) § 83 zákona č. 131/2002 v znení neskorších predpisov.
 
 - 21b) Zákon č. 387/2015 Z. z. o jednotnom informačnom systéme v cestnej doprave a o zmene a doplnení niektorých zákonov.
+
+- 22) § 116 ods. 17 zákona č. 8/2009 Z. z. v znení neskorších predpisov.
 
 - 22a) § 41 ods. 1 písm. p) zákona č. 56/2012 Z. z. o cestnej doprave.
 

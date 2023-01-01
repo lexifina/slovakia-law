@@ -382,25 +382,21 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 18
 
-  - a) Povolenie uzavrieť manželstvo pred iným než príslušným matričným úradom<sup>15</sup>) medzi štátnymi občanmi Slovenskej republiky | 20 eur
+  - a) Uzavretie manželstva medzi štátnymi občanmi Slovenskej republiky pred matričným úradom, v ktorého obvode nemá ani jeden zo snúbencov trvalý pobyt | 20 eur
 
-  - b) Uzavretie manželstva pred iným než príslušným matričným úradom<sup>15</sup>) medzi štátnymi občanmi Slovenskej republiky | 20 eur
+  - b) Povolenie uzavrieť manželstvo mimo určenej doby | 20 eur
 
-  - c) Povolenie uzavrieť manželstvo mimo určenej doby | 20 eur
+  - c) Povolenie uzavrieť manželstvo mimo úradne určenej miestnosti<sup>15</sup>) | 70 eur
 
-  - d) Povolenie uzavrieť manželstvo mimo úradne určenej miestnosti<sup>15</sup>) | 70 eur
+  - d) Uzavretie manželstva medzi štátnym občanom Slovenskej republiky a cudzincom | 70 eur
 
-  - e) Povolenie uzavrieť manželstvo pred iným než príslušným matričným úradom<sup>15</sup>) medzi štátnym občanom Slovenskej republiky a cudzincom alebo medzi cudzincami | 35 eur
+  - e) Uzavretie manželstva medzi cudzincami | 200 eur
 
-  - f) Uzavretie manželstva medzi štátnym občanom Slovenskej republiky a cudzincom | 70 eur
+  - f) Uzavretie manželstva, ak ani jeden zo snúbencov nemá na území Slovenskej republiky trvalý pobyt | 200 eur
 
-  - g) Uzavretie manželstva medzi cudzincami | 200 eur
+  - Oslobodenie 1. Od poplatku podľa tejto položky sú oslobodené osoby, ktorých život je priamo ohrozený, a držitelia preukazu osoby s ťažkým zdravotným postihnutím. 2. Od poplatku podľa písmena a) tejto položky sú oslobodení snúbenci, ktorí uzavierajú manželstvo pred matričným úradom podľa miesta prechodného pobytu jedného z nich. |
 
-  - h) Uzavretie manželstva, ak ani jeden zo snúbencov nemá na území Slovenskej republiky trvalý pobyt<sup>16</sup>) | 200 eur
-
-  - Oslobodenie 1. Od poplatku podľa tejto položky sú oslobodené osoby, ktorých život je priamo ohrozený, a držitelia preukazu osoby s ťažkým zdravotným postihnutím. 2. Od poplatku podľa písmen a) a b) tejto položky sú oslobodení snúbenci, ktorí uzavierajú manželstvo pred matričným úradom podľa miesta prechodného pobytu jedného z nich. |
-
-  - Poznámky 1. Poplatok podľa tejto položky sa vyberie len od jedného zo snúbencov. 2. Poplatok podľa písmen f) až h) tejto položky vyberie matričný úrad, pred ktorým sa manželstvo v skutočnosti uzaviera a ktorý vykonáva zápis uzavretia manželstva do matriky. Ak sa manželstvo uzaviera pred orgánom registrovanej cirkvi alebo náboženskej spoločnosti, poplatok podľa písmen f) až h) tejto položky vyberie príslušný matričný úrad,<sup>15</sup>) ktorý pripravil podklady na uzavretie manželstva. 3. Ak sa vyberie poplatok podľa písmena h) tejto položky, poplatok podľa písmena f) alebo g) tejto položky sa nevyberie. 4. Poplatok podľa písmen a) a e) tejto položky vyberie matričný úrad, ktorý pripravil podklady na uzavretie manželstva (delegujúci matričný úrad). 5. Poplatok podľa písmen b) až d) tejto položky vyberie matričný úrad, pred ktorým sa manželstvo v skutočnosti uzaviera a ktorý vykonáva zápis uzavretia manželstva do matriky. |
+  - Poznámky 1. Poplatok podľa tejto položky sa vyberie len od jedného zo snúbencov. 2. Poplatok podľa tejto položky vyberie matričný úrad, ktorý vykonáva zápis uzavretia manželstva do matriky; to platí aj v prípade, ak sa manželstvo uzatvára pred orgánom registrovanej cirkvi alebo náboženskej spoločnosti. 3. Ak sa vyberie poplatok podľa písmena f) tejto položky, poplatok podľa písmena d) alebo e) tejto položky sa nevyberie. |
 
     - Položka 19
 
@@ -1088,11 +1084,229 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - h) Žiadosť o vydanie povolenia na zmenu najmenšieho prípustného množstva použitia denaturačného prostriedku ..... | 9,50 eura |
 
-  - IV. ČASŤ VETERINÁRNA SPRÁVA
+  - IV. ČASŤ VETERINÁRNA SPRÁVA Položka 56
 
-    - Položka 56
+    - Vydanie záväzného posudku<sup>17a</sup>) pre
 
-  - Vydanie záväzného posudku<sup>17a</sup>) ........................................................................................... | 33 eur
+    - 1. fyzickú osobu .......................................................................................................... 50 eur
+
+    - 2. fyzickú osobu – podnikateľa a právnickú osobu .................................................... 100 eur
+
+  - Položka 57
+
+  - a)
+
+  - Registrácia prevádzkarní potravinárskych podnikov pre potraviny živočíšneho pôvodu alebo potraviny rastlinného pôvodu .................................................................................... 50 eur
+
+  - b)
+
+  - Vydanie rozhodnutia o schválení prevádzkarne pre potraviny živočíšneho pôvodu bez časového obmedzenia ............................................................................................... 100 eur
+
+  - c)
+
+  - Vydanie rozhodnutia o podmienečnom schválení prevádzkarne pre potraviny živočíšneho pôvodu .................................................................................................................... 100 eur
+
+  - d)
+
+  - Vydanie rozhodnutia o predĺžení podmienečného schválenia prevádzkarne pre potraviny živočíšneho pôvodu ...................................................................................................100 eur
+
+  - e)
+
+  - Vydanie certifikátu o spôsobilosti na prvotné vyšetrenie voľne žijúcej zveri na mieste a na jej vyšetrenie po usmrtení<sup>17b</sup>) ............................................................................................15 eur
+
+  - f)
+
+  - Vydanie rozhodnutia o povolení výnimky z frekvencie bakteriologického odberu malým bitúnkom a prevádzkarňam vyrábajúcim mleté mäso a mäsové prípravky v malých množstvách<sup>17c</sup>) ............................................................................................................ 25 eur
+
+  - g)
+
+  - Vydanie rozhodnutia o povolení výnimky z povinnosti označovať vajcia<sup>17d</sup>) ....................50 eur
+
+  - Položka 58
+
+  - a)
+
+  - Posúdenie vypracovania príručky osvedčených postupov<sup>17e</sup>) ...................................... 80 eur
+
+  - b)
+
+  - Vydanie povolenia na usmrcovanie zvierat rituálnym spôsobom ............................... 50 eur
+
+  - c)
+
+  - Vydanie rozhodnutia o schválení postupu vykonávaného na zvieratách .................. 200 eur
+
+  - d)
+
+  - Vydanie rozhodnutia o zmene rozhodnutia o schválení postupu vykonávaného na zvieratách ............................................................................................................................... 100 eur
+
+  - e)
+
+  - Vydanie rozhodnutia o schválení zariadenia fyzických osôb – podnikateľov alebo zariadenia právnických osôb, ktoré vykonáva postupy na zvieratách, chová zvieratá alebo dodáva zvieratá na účely takého postupu ........................................................................... 200 eur
+
+  - f)
+
+  - Vydanie rozhodnutia o zmene rozhodnutia o schválení zariadenia fyzických osôb – podnikateľov alebo zariadenia právnických osôb, ktoré vykonáva postupy na zvieratách, chová zvieratá alebo dodáva zvieratá na účely takého postupu ............................................................................................................................... 100 eur
+
+  - g)
+
+  - Overenie súladu formátu pasu spoločenského zvieraťa a pridelenie sériových čísiel pasov spoločenských zvierat výrobcom pasov spoločenských zvierat ................................. 300 eur
+
+  - h)
+
+  - Poverenie súkromných veterinárnych lekárov na vydávanie pasov spoločenských zvierat ................................................................................................................................. 50 eur
+
+  - i)
+
+  - Vydanie rozhodnutia o schválení stredísk na zhromažďovanie hospodárskych zvierat a zberných stredísk zvierat pri obchodoch ...............................................................100 eur
+
+  - j)
+
+  - Vydanie rozhodnutia o schválení činností súvisiacich so sprostredkovaním nákupu a predaja hospodárskych zvierat pri obchodoch a vývoze do tretích krajín ...............100 eur
+
+  - k)
+
+  - Vydanie rozhodnutia o schválení stredísk na zhromažďovanie spoločenských zvierat a zberných stredísk zvierat pri obchodoch ............................................................... 200 eur
+
+  - l)
+
+  - Vydanie rozhodnutia o schválení činností súvisiacich so sprostredkovaním nákupu a predaja spoločenských zvierat pri obchodoch a vývoze do tretích krajín ................ 200 eur
+
+  - m)
+
+  - Vydanie rozhodnutia o schválení odchytu túlavých zvierat ...................................... 100 eur
+
+  - n)
+
+  - Vydanie rozhodnutia o schválení pre karanténne stanice a útulky........................... 100 eur
+
+  - o)
+
+  - Vydanie rozhodnutia o schválení zariadenia pre akvakultúru ................................... 50 eur
+
+  - p)
+
+  - Registrácia zariadenia pre akvakultúru .................................................................... 15 eur
+
+  - q)
+
+  - Vydanie rozhodnutia o schválení inseminačných staníc a tímov na odber a prenos embryí pri obchodoch a vývoze do tretích krajín ..................................................................100 eur
+
+  - r)
+
+  - Registrácia chovov hospodárskych zvierat a chovov farmových zvierat pre
+
+  - 1.
+
+  - fyzickú osobu ....................................................................................................... 33 eur
+
+  - 2.
+
+  - fyzickú osobu – podnikateľa a právnickú osobu .................................................. 100 eur
+
+  - s)
+
+  - Zmena registrácie chovu hospodárskych zvierat alebo chovu farmových zvierat ........ 10 eur
+
+  - t)
+
+  - Vydanie rozhodnutia o schválení prevádzkarne na získavanie násadových vajec, jednodňovej hydiny, chovnej hydiny a úžitkovej hydiny ........................................... 100 eur
+
+  - u)
+
+  - Vydanie rozhodnutia o zmene rozhodnutia o schválení prevádzkarne na získavanie násadových vajec, jednodňovej hydiny, chovnej hydiny a úžitkovej hydiny ................ 50 eur
+
+  - v)
+
+  - Registrácia prevádzok a chovov zvierat podľa osobitného predpisu<sup>17f</sup>) ........................ 50 eur
+
+  - w)
+
+  - Vydanie rozhodnutia o povolení prepravcu zvierat ...................................................150 eur
+
+  - x)
+
+  - Vydanie rozhodnutia o zmene rozhodnutia o povolení prepravcu zvierat ................... 20 eur
+
+  - y)
+
+  - Vydanie osvedčenia o spôsobilosti vodičov a sprievodcov .......................................... 15 eur
+
+  - z)
+
+  - Vydanie osvedčenia o schválení cestného dopravného prostriedku ............................ 30 eur
+
+  - aa)
+
+  - Potvrdenie o štatúte chovu hovädzieho dobytka, oviec alebo kôz na žiadosť chovateľa ................................................................................................................................. 10 eur
+
+  - Položka 58a
+
+  - a)
+
+  - Registrácia prevádzkarne podľa osobitného predpisu<sup>17g</sup>) ........................................... 100 eur
+
+  - b)
+
+  - Zrušenie registrácie podľa osobitného predpisu<sup>17h</sup>) ..................................................... 25 eur
+
+  - c)
+
+  - Vydanie rozhodnutia o schválení prevádzkarne na nakladanie s vedľajšími živočíšnymi produktmi bez časového obmedzenia .......................................................................100 eur
+
+  - d)
+
+  - Vydanie rozhodnutia o podmienečnom schválení prevádzkarne na nakladanie s vedľajšími živočíšnymi produktmi ........................................................................................... 100 eur
+
+  - e)
+
+  - Vydanie rozhodnutia o predĺžení podmienečného schválenia prevádzkarne na nakladanie s vedľajšími živočíšnymi produktmi ........................................................................ 100 eur
+
+  - f)
+
+  - Vydanie rozhodnutia o schválení prevádzkarne na prípravu medikovaných krmív bez časového obmedzenia .............................................................................................100 eur
+
+  - g)
+
+  - Vydanie rozhodnutia o podmienečnom schválení prevádzkarne na prípravu medikovaných krmív .....................................................................................................................100 eur
+
+  - h)
+
+  - Vydanie rozhodnutia o predĺžení podmienečného schválenia prevádzkarne na prípravu medikovaných krmív ............................................................................................. 100 eur
+
+  - i)
+
+  - Posúdenie vnútroštátnych príručiek správnej hygienickej praxe a na uplatnenie zásad analýzy rizika a kritických kontrolných bodov (HACCP), ak ide o produkty živočíšneho pôvodu alebo vedľajšie živočíšne produkty ............................................................. 100 eur
+
+  - Položka 58b
+
+  - a)
+
+  - Vydanie rozhodnutia o povolení činnosti podľa osobitného predpisu<sup>17i</sup>) ..................... 75 eur
+
+  - b)
+
+  - Vydanie rozhodnutia o schválení podľa osobitného predpisu<sup>17j</sup>) ............................... 100 eur
+
+  - c)
+
+  - Vydanie stanoviska podľa osobitných predpisov<sup>17k</sup>) .................................................... 50 eur
+
+  - d)
+
+  - Potvrdenie o plnení veterinárnych požiadaviek vydané na žiadosť prevádzkovateľa potravinárskeho podniku ......................................................................................... 25 eur
+
+  - e)
+
+  - Vykonanie auditu prevádzkarne na žiadosť prevádzkovateľa potravinárskeho podniku na účely obchodovania s inými členskými štátmi alebo vývozu do tretích krajín .......... 150 eur
+
+  - f)
+
+  - Vydanie certifikátu na vývoz potravín neživočíšneho pôvodu do tretích krajín ........... 50 eur
+
+  - g)
+
+  - Vydanie potvrdenia o registrácii v registri Štátnej veterinárnej a potravinovej správy Slovenskej republiky ............................................................................................... 50 eur.
 
   - V. ČASŤ STAVEBNÁ SPRÁVA
 
@@ -1488,15 +1702,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
         - 1. Poplatok podľa tejto položky sa zníži o 50 % pri zápise držiteľa motorového vozidla, ktorým je držiteľ preukazu fyzickej osoby s ťažkým zdravotným postihnutím alebo preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom alebo ak ide o motorové vozidlo upravené na vedenie fyzickou osobou s ťažkým zdravotným postihnutím a nebol na kúpu motorového vozidla kategórie M1 a N1 poskytnutý príspevok podľa zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-        - 2. Poplatníkom je nový držiteľ motorového vozidla alebo prípojného vozidla.
+        - 2. Poplatok podľa písmena a) tejto položky sa zníži o 50 %, najviac však na 33 eur, pri zápise držiteľa motorového vozidla kategórie M1 s najmenej šiestimi miestami na sedenie s výkonom motora do 110 kW vrátane, ak ide o zápis držiteľa, ktorým je osoba podľa osobitného predpisu<sup>20ac</sup>) uplatňujúca si nárok na prídavok na dieťa najmenej na štyri deti najneskôr do dovŕšenia 19 rokov veku.
 
-        - 3. Poplatok podľa písmena a) tejto položky sa zníži o 50 %, najviac však na 33 eur, pri zápise držiteľa motorového vozidla kategórie M1 s najmenej šiestimi miestami na sedenie s výkonom motora do 110 kW vrátane, ak ide o zápis držiteľa, ktorým je osoba podľa osobitného predpisu<sup>20ac</sup>) uplatňujúca si nárok na prídavok na dieťa najmenej na štyri deti najneskôr do dovŕšenia 19 rokov veku.
+        - 3. Poplatník môže pri zápise motorového vozidla podľa písmena a) tejto položky predložiť znalecký posudok podľa osobitného predpisu,<sup>20ad</sup>) na ktorého základe sa vypočíta iný koeficient zostatkovej hodnoty vozidla ako je uvedený v tabuľke č. 2 zodpovedajúci veku vozidla odo dňa prvej evidencie vozidla. Koeficient zostatkovej hodnoty vozidla sa vypočíta na základe znaleckého posudku ako pomer zostatkovej hodnoty vozidla vyjadrenej v eurách a počiatočnej hodnoty vozidla vyjadrenej v eurách. Takto vypočítaný koeficient zostatkovej hodnoty vozidla zaokrúhlený matematicky na dve desatinné miesta sa použije vo vzorci na výpočet poplatku podľa písmena a) tejto položky.
 
-        - 4. Poplatník môže pri zápise motorového vozidla podľa písmena a) tejto položky predložiť znalecký posudok podľa osobitného predpisu,<sup>20ad</sup>) na ktorého základe sa vypočíta iný koeficient zostatkovej hodnoty vozidla ako je uvedený v tabuľke č. 2 zodpovedajúci veku vozidla odo dňa prvej evidencie vozidla. Koeficient zostatkovej hodnoty vozidla sa vypočíta na základe znaleckého posudku ako pomer zostatkovej hodnoty vozidla vyjadrenej v eurách a počiatočnej hodnoty vozidla vyjadrenej v eurách. Takto vypočítaný koeficient zostatkovej hodnoty vozidla zaokrúhlený matematicky na dve desatinné miesta sa použije vo vzorci na výpočet poplatku podľa písmena a) tejto položky.
+        - 4. Poplatok podľa písmena a) tejto položky sa zníži o 50 %, najviac však na 33 eur, pri zápise držiteľa hybridného motorového vozidla, motorového vozidla s pohonom na stlačený zemný plyn (CNG), motorového vozidla s pohonom na skvapalnený zemný plyn (LNG) alebo motorového vozidla na vodíkový pohon.
 
-        - 5. Poplatok podľa písmena a) tejto položky sa zníži o 50 %, najviac však na 33 eur, pri zápise držiteľa hybridného motorového vozidla, motorového vozidla s pohonom na stlačený zemný plyn (CNG), motorového vozidla s pohonom na skvapalnený zemný plyn (LNG) alebo motorového vozidla na vodíkový pohon.
-
-        - 6. Ak predmetom podnikania osoby uvedenej v písmene d) je predaj vozidiel na základe zmluvného vzťahu s výrobcom vozidla alebo zástupcom výrobcu vozidla, pri zápise držiteľa vozidla do evidencie vozidiel je povinná tento vzťah preukázať správnemu orgánu. Ak držiteľ motorového vozidla podľa písmena d) do jedného roka odo dňa zápisu motorového vozidla do evidencie vozidiel nevykoná prevod držby motorového vozidla na inú osobu, je povinný najneskôr pri nasledujúcej zmene v evidencii vozidiel zaplatiť poplatok podľa písmena a) v sume zodpovedajúcej sume poplatku pri prvej evidencii vozidla.
+        - 5. Ak predmetom podnikania osoby uvedenej v písmene d) je predaj vozidiel na základe zmluvného vzťahu s výrobcom vozidla alebo zástupcom výrobcu vozidla, pri zápise držiteľa vozidla do evidencie vozidiel je povinná tento vzťah preukázať správnemu orgánu. Ak držiteľ motorového vozidla podľa písmena d) do jedného roka odo dňa zápisu motorového vozidla do evidencie vozidiel nevykoná prevod držby motorového vozidla na inú osobu, je povinný najneskôr pri nasledujúcej zmene v evidencii vozidiel zaplatiť poplatok podľa písmena a) v sume zodpovedajúcej sume poplatku pri prvej evidencii vozidla.
 
     - Položka 66
 
@@ -2142,6 +2354,8 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Splnomocnenie Ak sa vydáva nová tabuľka s evidenčným číslom za tabuľku s evidenčným číslom, ktorá nebola vydaná podľa požiadavky držiteľa vozidla, správny poplatok podľa tejto položky sa znižuje o uhradenú sumu za už vydanú tabuľku s evidenčným číslom. |
 
+  - Oslobodenie Poplatok za pridelenie evidenčného čísla a vydanie tabuľky s evidenčným číslom sa nevyberie, ak držiteľ vozidla požiadal o opätovné použitie ponechanej tabuľky s evidenčným číslom podľa osobitného predpisu<sup>22</sup>) na iné vozidlo. |
+
   - Poznámky 1. Za neupotrebiteľnú tabuľku s evidenčným číslom (štátnou poznávacou značkou) sa považuje tabuľka vydaná podľa právnej úpravy platnej do 31. marca 1997, ktorú je držiteľ vozidla povinný podľa § 129 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách vymeniť. 2. Poplatky podľa tejto položky zahŕňajú aj vydanie príslušných dokladov. |
 
     - Položka 77
@@ -2510,31 +2724,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
       - 1. Správny orgán zníži poplatok alebo upustí od jeho vybratia na základe vzájomnosti.
 
-      - 2. Poplatok vyberaný dodatočne rozhodnutím cestného správneho orgánu za nadrozmernú dopravu sa zvýši na trojnásobok, ak sa už táto doprava čiastočne alebo celkom vykonala bez predchádzajúceho povolenia cestného správneho orgánu.
-
-      - 3. Pri určení poplatku vyberaného dodatočne rozhodnutím cestného správneho orgánu za nadmernú dopravu, ak sa už táto doprava čiastočne alebo celkom vykonala bez predchádzajúceho povolenia cestného správneho orgánu, sa čiastkové sadzby podľa písmena a) bodov 2a. a 2b. posudzujú jednotlivo podľa toho, o aké percentuálne preťaženie najväčšej povolenej celkovej hmotnosti vrátane nákladu alebo nápravového zaťaženia ide
-
-        - 3a. pri prekročení najväčšej povolenej celkovej hmotnosti vrátane nákladu, ak preťaženie (vyjadrené v %) je
-
-        - do 10 % vrátane ........... päťnásobok sadzby určenej podľa písmena a) bodu 2a,
-
-        - nad 10 % ................ desaťnásobok sadzby určenej podľa písmena a) bodu 2a,
-
-        - 3b. pri prekročení prípustnej hmotnosti na nápravu bez rozdielu, o akú nápravu ide, ak preťaženie (vyjadrené v %) je
-
-        - do 10 % vrátane ........... päťnásobok sadzby určenej podľa písmena a) bodu 2b,
-
-        - nad 10 % ..................... desaťnásobok sadzby určenej podľa písmena a) bodu 2b.
-
-        - Výsledný poplatok pri dodržaní bodov 6 a 8 časti Poznámky sa určí ako súčet čiastkových sadzieb bodov 3a. a 3b.
-
-      - 4. Správny orgán môže pri nadmerných dopravách alebo nadrozmerných dopravách organizovaných tuzemskou alebo zahraničnou inštitúciou na účel humanitnej pomoci alebo poskytnutia daru štátu upustiť od vybratia poplatku.
+      - 2. Správny orgán môže pri nadmerných dopravách alebo nadrozmerných dopravách organizovaných tuzemskou alebo zahraničnou inštitúciou na účel humanitnej pomoci alebo poskytnutia daru štátu upustiť od vybratia poplatku.
 
     - Poznámky
 
-      - 1. Poplatok podľa tejto položky na hraničných priechodoch vonkajších hraníc Európskej únie vyberá správca priľahlého úseku cesty vedúcej k hraničnému priechodu. Poplatok podľa tejto položky vyberaný dodatočne rozhodnutím cestného správneho orgánu vyberá cestný správny orgán.
+      - 1. Poplatok podľa tejto položky na hraničných priechodoch vonkajších hraníc Európskej únie vyberá správca priľahlého úseku cesty vedúcej k hraničnému priechodu.
 
-      - 2. Poplatníkom podľa tejto položky je dopravca vykonávajúci dopravu vozidlom alebo jazdnou súpravou, ktoré prekračujú najväčšie povolené rozmery alebo najväčšie povolené hmotnosti.
+      - 2. Poplatníkom podľa tejto položky je prevádzkovateľ vozidla alebo vodič vozidla vykonávajúci dopravu vozidlom alebo jazdnou súpravou, ktoré prekračujú najväčšie povolené rozmery alebo najväčšie povolené hmotnosti. Prevádzkovateľom vozidla je prevádzkovateľ vozidla alebo prevádzkovateľ jazdnej súpravy, ktorý je zapísaný v osvedčení o evidencii motorového vozidla časť I a časť II ako držiteľ osvedčenia alebo takáto osoba zapísaná v osvedčení o evidencii motorového vozidla vydanom v cudzine.
 
       - 3. Za základ výpočtu poplatku za nadrozmernosť sa berie najväčší rozmer vozidla alebo jazdnej súpravy, ktorý prekračuje prípustnú mieru v šírke alebo vo výške alebo v dĺžke.
 
@@ -2557,8 +2753,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
       - 12. Poplatky podľa písmena d) sa použijú, ak dopravcom je vlastník alebo užívateľ stavebného mechanizmu alebo právnická osoba, fyzická osoba oprávnená na podnikanie v doprave a ide o dopravu mechanizmu na stavbu alebo zo stavby do miesta jeho parkovania.
 
       - 13. Ak sa už čiastočne alebo celkom vykonala doprava podľa písmena b) alebo c) a meraním celkovej hmotnosti, hmotnosti pripadajúcej na nápravu a rozmerov sa zistí, že boli porušené podmienky povolenia na zvláštne užívanie, taká doprava sa posudzuje ako doprava bez povolenia na zvláštne užívanie.
-
-      - 14. Ak sa už čiastočne alebo celkom vykonala doprava podľa písmena d) bez povolenia na zvláštne užívanie, dodatočne rozhodnutím cestného správneho orgánu podľa Splnomocnenia bodu 3 sa posudzuje suma z čiastkových sadzieb uvedených v písmene a).
 
     - Položka 80a
 
@@ -5094,7 +5288,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 161a
 
-  - Podanie žiadosti na vydanie povolenia na dovoz, vývoz alebo potvrdenia na opätovný vývoz exemplárov<sup>37a</sup>) ..... | 15 eur.
+  - Podanie žiadosti na vydanie povolenia na dovoz, vývoz alebo potvrdenia na opätovný vývoz exemplárov<sup>37a</sup>) ..... | 20 eur.
 
   - Oslobodenie Od poplatku podľa tejto položky sú oslobodené múzeá s prírodovedným zameraním, zoologické záhrady, ktorých zriaďovateľom je štát, vyšší územný celok alebo obec a Štátna ochrana prírody Slovenskej republiky. |
 
@@ -5102,13 +5296,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Podanie žiadosti o udelenie výnimky zo zákazu komerčných činností podľa osobitných predpisov alebo vydanie súhlasu na premiestnenie živých exemplárov podľa osobitných predpisov<sup>37a</sup>) | |
 
-  - 1. | pre 1 až 20 exemplárov ..... | 6 eur za každý exemplár
+  - 1. | za každý exemplár ..... | 10 eur
 
-  - 2. | pre 21 až 100 exemplárov ..... | 130 eur
-
-  - 3. | pre viac ako 100 exemplárov ..... | 300 eur
-
-  - 4. | pre exemplár s uvedením jednotiek používaných podľa osobitného predpisu<sup>37aa</sup>)......... | 6 eur
+  - 2. | za exemplár s uvedením jednotiek používaných podľa osobitného predpisu<sup>37aa</sup>) ..... | 10 eur
 
   - Oslobodenie Od poplatku podľa tejto položky sú oslobodené múzeá s prírodovedným zameraním, zoologické záhrady, ktorých zriaďovateľom je štát, vyšší územný celok alebo obec a Štátna ochrana prírody Slovenskej republiky. | |
 
@@ -5684,7 +5874,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - c) Vydanie oprávnenia na výchovu a vzdelávanie v oblasti ochrany práce<sup>42</sup>) | 82,50 eura
 
-  - d) Vydanie osvedčenia autorizovaného bezpečnostného technika<sup>42</sup>) | 33 eur
+  - d) Vydanie osvedčenia o odbornej spôsobilosti bezpečnostného technika<sup>42</sup>) | 33 eur
 
   - e) Vydanie preukazu a osvedčenia na vykonávanie činnosti podľa osobitného predpisu<sup>42a)</sup> | 5 eur
 
