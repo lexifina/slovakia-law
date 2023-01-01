@@ -1,1 +1,0 @@
-Eduard Heger v. r.
