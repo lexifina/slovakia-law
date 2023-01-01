@@ -246,6 +246,8 @@
 
 - 92) § 1 zákona č. 431/2002 Z. z. o účtovníctve.
 
+- 92a) Napríklad § 14 ods. 5 zákona č. 523/2004 Z. z. v znení neskorších predpisov, čl. 4 ods. 2 ústavného zákona č. 493/2011 Z. z. o rozpočtovej zodpovednosti.
+
 - 92aa) Čl. 4 ods. 1 nariadenia Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) (Ú. v. EÚ L 119, 4. 5. 2016).
 
 - § 2 zákona č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
@@ -336,8 +338,6 @@
 
 - 98) § 5 zákona č. 283/2002 Z. z. o cestovných náhradách.
 
-- 100a) § 26 ods. 3 zákona č. 43/2004 Z. z.
-
 - 100aa) Napríklad zákon č. 328/2002 Z. z. v znení neskorších predpisov, zákon č. 43/2004 Z. z. v znení neskorších predpisov, zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 100ab) § 73 ods. 10 a § 74 ods. 7 písm. h) zákona č. 448/2008 Z. z. v znení neskorších predpisov.
@@ -367,6 +367,14 @@
 - 100ca) Napríklad zákon č. 647/2007 Z. z. o cestovných dokladoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 101) § 8a ods. 1 písm. r) zákona Národnej rady Slovenskej republiky č. 330/1996 Z. z. v znení zákona č. 158/2001 Z. z.
+
+- 101a) § 19 ods. 2 zákona č. 540/2001 Z. z. o štátnej štatistike.
+
+- Vyhláška Štatistického úradu Slovenskej republiky č. 597/2002 Z. z., ktorou sa vydáva štatistický číselník krajov, štatistický číselník okresov a štatistický číselník obcí v znení vyhlášky Štatistického úradu Slovenskej republiky č. 61/2011 Z. z.
+
+- 101b) § 19 ods. 2 zákona č. 540/2001 Z. z.
+
+- Vyhláška Štatistického úradu Slovenskej republiky č. 384/2015 Z. z., ktorou sa vydáva štatistická klasifikácia zamestnaní.
 
 - 101c) Zákon č. 296/2020 Z. z. o 13. dôchodku a o zmene a doplnení niektorých zákonov.
 

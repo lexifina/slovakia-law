@@ -18,7 +18,7 @@ Príloha č. 3b k zákonu č. 461/2003 Z. z. Rok narodenia poistenca | Muž, kto
 
 1965 | 63r 4m | 62r 10m | 62r 4m
 
-1966 a viac | 63r 6m | 63r | 62r 6m
+1966 | 63r 6m | 63r | 62r 6m
 
 - kde
 
