@@ -1,1 +1,0 @@
-Milan Krajniak v. r.
