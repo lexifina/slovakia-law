@@ -4,7 +4,7 @@
 
 (2) Zdravotná poisťovňa pri schvaľovaní žiadosti o preplatenie nákladov zdravotnej starostlivosti postupuje podľa osobitného predpisu.<sup>18k</sup>)
 
-(3) Zdravotná poisťovňa je povinná poskytovať ministerstvu zdravotníctva a úradu v súvislosti s poskytovaním cezhraničnej zdravotnej starostlivosti informácie o poistencoch, ktorým bola poskytnutá zdravotná starostlivosť v inom členskom štáte Európskej únie, Nórsku, Lichtenštajnsku, Islande a Švajčiarsku (ďalej len „členský štát“) v členení na zdravotnú starostlivosť podľa osobitných predpisov<sup>18l</sup>) a cezhraničnú zdravotnú starostlivosť v elektronickej podobe najneskôr do 15. februára nasledujúceho kalendárneho roka za predchádzajúci kalendárny rok, a to zoznam
+(3) Zdravotná poisťovňa je povinná poskytovať ministerstvu zdravotníctva a úradu v súvislosti s poskytovaním cezhraničnej zdravotnej starostlivosti informácie o poistencoch, ktorým bola poskytnutá zdravotná starostlivosť v inom členskom štáte v členení na zdravotnú starostlivosť podľa osobitných predpisov<sup>18l</sup>) a cezhraničnú zdravotnú starostlivosť v elektronickej podobe najneskôr do 15. februára nasledujúceho kalendárneho roka za predchádzajúci kalendárny rok, a to zoznam
 
 - a) žiadostí o preplatenie nákladov<sup>18m</sup>) za poskytnutú zdravotnú starostlivosť v inom členskom štáte, ktoré boli v predchádzajúcom kalendárnom roku preplatené jednotlivo za každého poistenca v rozsahu
 

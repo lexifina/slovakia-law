@@ -1,4 +1,4 @@
-## ÔSMA ČASŤ
+## DEVIATA ČASŤ
 
 ## VÝKON ŠTÁTNEJ SPRÁVY
 
@@ -20,14 +20,14 @@
 
 - i) na svojom webovom sídle uverejňuje rozsah, štruktúru a lehoty na odovzdávanie údajov k regulácii cien.
 
-(2) Na účely stanovenia úhradových mechanizmov a regulácie cien zriaďuje ministerstvo zdravotníctva riadiaci výbor pre úhradové mechanizmy a reguláciu cien ako svoj poradný orgán.
+(2) Na účely určenia úhradových mechanizmov a regulácie cien zriaďuje ministerstvo zdravotníctva riadiaci výbor pre úhradové mechanizmy a riadiaci výbor pre reguláciu cien ako svoje poradné orgány, a to osobitne pre ústavnú zdravotnú starostlivosť a osobitne pre ambulantnú zdravotnú starostlivosť.
 
-(3) Riadiaci výbor pre úhradové mechanizmy a reguláciu cien má 9 členov, ktorých vymenúva a odvoláva minister zdravotníctva, z toho troch členov na návrh zdravotných poisťovní a troch členov na návrh združení zastupujúcich poskytovateľov zdravotnej starostlivosti pri uzatváraní zmluvy o poskytovaní zdravotnej starostlivosti.
+(3) Riadiaci výbor pre úhradové mechanizmy a riadiaci výbor pre reguláciu cien má každý 11 členov, ktorých vymenúva a odvoláva minister zdravotníctva, z toho troch členov na návrh zdravotných poisťovní, troch členov na návrh združení zastupujúcich poskytovateľov zdravotnej starostlivosti pri uzatváraní zmluvy o poskytovaní zdravotnej starostlivosti, jedného člena na návrh úradu a jedného člena na návrh Slovenskej lekárskej komory, jedného člena na návrh neziskovej pacientskej organizácie združujúcej neziskové pacientske organizácie.
 
 (4) Činnosť riadiaceho výboru pre úhradové mechanizmy a reguláciu cien upraví štatút, ktorý schvaľuje minister zdravotníctva. Riadiaci výbor pre úhradové mechanizmy a reguláciu cien si môže zriaďovať komisie, ktorých činnosť a štatút schvaľuje minister zdravotníctva.
 
-(5) Návrh na zaradenie nového zdravotného výkonu do zoznamu zdravotných výkonov, do zoznamu zdravotných výkonov pre klasifikačný systém, návrh na vykonanie zmeny v zozname zdravotných výkonov, v zozname zdravotných výkonov pre klasifikačný systém, návrh na vykonanie zmeny v klasifikačnom systéme, návrh na úhradový mechanizmus, návrh na zmenu úhradových mechanizmov, návrh na reguláciu cien alebo návrh na zmenu v regulácii cien zasielajú zdravotné poisťovne, komory, odborné spoločnosti, združenia zastupujúce poskytovateľov zdravotnej starostlivosti pri uzatváraní zmluvy o poskytovaní zdravotnej starostlivosti alebo úrad ministerstvu zdravotníctva najneskôr do 30. júna kalendárneho roka v elektronicky spracovateľnej podobe podľa štruktúry zverejnenej ministerstvom zdravotníctva na webovom sídle ministerstva zdravotníctva.
+(5) Návrh na zaradenie nového zdravotného výkonu do zoznamu zdravotných výkonov, do zoznamu zdravotných výkonov pre klasifikačný systém, návrh na vykonanie zmeny v zozname zdravotných výkonov, v zozname zdravotných výkonov pre klasifikačný systém, návrh na vykonanie zmeny v klasifikačnom systéme, návrh na úhradový mechanizmus, návrh na zmenu úhradových mechanizmov, návrh na reguláciu cien alebo návrh na zmenu v regulácii cien (ďalej len „návrh na zmenu“) zasielajú zdravotné poisťovne, komory, odborné spoločnosti, združenia zastupujúce poskytovateľov zdravotnej starostlivosti pri uzatváraní zmluvy o poskytovaní zdravotnej starostlivosti, užívatelia klasifikačného systému alebo úrad ministerstvu zdravotníctva najneskôr do 31. marca kalendárneho roka v elektronicky spracovateľnej podobe podľa štruktúry zverejnenej ministerstvom zdravotníctva na webovom sídle ministerstva zdravotníctva.
 
-(6) Ministerstvo zdravotníctva vyhodnotí údaje predložené podľa odseku 5, pri spracúvaní údajov zdokumentuje v chybovom protokole chybné údaje a chybový protokol zašle žiadateľovi o osvedčenie zhody. Žiadateľ o osvedčenie zhody je povinný údaje uvedené v chybovom protokole opraviť a opravené údaje zaslať ministerstvu zdravotníctva do 15 dní od doručenia chybového protokolu.
+(6) Ministerstvo zdravotníctva vyhodnotí údaje predložené podľa odseku 5 a pri zistení neúplnosti návrhu na zmenu vyzve navrhovateľa na doplnenie chýbajúcich údajov do 15 dní od doručenia výzvy na doplnenie. Ak navrhovateľ návrh na zmenu nedoplní, ministerstvo zdravotníctva návrh zamietne.
 
 (7) Ministerstvo zdravotníctva doručí údaje podľa odseku 5 v elektronicky spracovateľnej podobe riadiacemu výboru na rozhodnutie najneskôr do 15. augusta kalendárneho roka.

@@ -92,15 +92,19 @@
 
 - 18ab) § 2 ods. 9 zákona č. 153/2013 Z. z. v znení neskorších predpisov.
 
-- 18b) § 19 ods. 12 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
+- 18b) § 19 ods. 8 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
-- 18c) § 27 ods. 9 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
+- 18c) § 38a ods. 6 písm. a) zákona č. 577/2004 Z. z. v znení zákona č. 257/2017 Z. z.
 
-- 18d) § 27a ods. 10 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
+- 18d) Zákon č. 358/2021 Z. z. o Národnom inštitúte pre hodnotu a technológie v zdravotníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 266/2022 Z. z.
 
-- 18da) § 38a ods. 6 písm. a) zákona č. 577/2004 Z. z. v znení zákona č. 257/2017 Z. z.
+- 18e) § 88 ods. 7 a 8 zákona č. 363/2011 Z. z. v znení neskorších predpisov.
 
-- 18e) § 20 ods. 17 zákona č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 660/2005 Z. z.
+- 18ea) § 2 ods. 7 písm. f) a g) zákona č. 576/2004 Z. z.
+
+- 18eb) § 10 a 14 zákona č. 355/2007 Z. z. v znení zákona č. 306/2012 Z. z.
+
+- 18ec) § 42 ods. 5 a 6 zákona č. 577/2004 Z. z.
 
 - 18f) § 16 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
 
@@ -154,7 +158,13 @@
 
 - 24aaa) § 9 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
 
-- 24aab) § 7 ods. 4 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
+- 24aab) § 2 ods. 5, § 44 ods. 2 písm. c) prvého bodu zákona č. 540/2021 Z. z.
+
+- 24aaba) § 7 ods. 4 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
+
+- 24aabb) § 7 ods. 3 písm. b) zákona č. 578/2004 Z. z.
+
+- 24aabc) § 38 zákona č. 540/2021 Z. z.
 
 - 24aac) § 7 ods. 3 písm. f) zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
@@ -212,7 +222,9 @@
 
 - 28) § 17 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
-- 28a) § 2 ods. 2 a 12 zákona č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+- 28a) § 2 ods. 2 a ods. 14 zákona č. 423/2015 Z. z. o štatutárnom audite a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+
+- 28aa) § 27 ods. 2 písm. e) zákona č. 423/2015 Z. z. v znení neskorších predpisov.
 
 - 28b) § 12 ods. 2 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
@@ -270,7 +282,7 @@
 
 - 35aak) Nariadenie (ES) č. 987/2009 v platnom znení.
 
-- 35aaka) § 2 ods. 1 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 35aaka) § 11 ods. 1 a 2 zákona č. 580/2004 Z. z.
 
 - 35aakaa) § 1 zákona č. 328/2002 Z. z. v znení neskorších predpisov.
 
@@ -282,9 +294,7 @@
 
 - 35aake) § 10e ods. 3 písm. b) a c) zákona č. 576/2004 Z. z. v znení zákona č. 267/2022 Z. z.
 
-- 35aal) § 88 zákona č. 363/2011 Z. z. v znení neskorších predpisov.
-
-- 35aam) Zákon č. 358/2021 Z. z. o Národnom inštitúte pre hodnotu a technológie v zdravotníctve a o zmene a doplnení niektorých zákonov.
+- 35aal) § 3 ods. 1 písm. c) zákona č. 523/2004 Z. z. v znení neskorších predpisov.
 
 - 35ab) § 60b ods. 4 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 358/2007 Z. z.
 
@@ -303,6 +313,8 @@
 - 35ca) Nariadenie Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) (Ú. v. EÚ L 119, 4. 5. 2016).
 
 - Zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
+
+- 35caa) § 10 ods. 3 písm. h) zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení zákona č. 238/2017 Z. z.
 
 - 35cb) § 9 ods. 7 písm. c) zákona č. 580/2004 Z. z. v znení zákona č. 356/2016 Z. z.
 
@@ -352,6 +364,8 @@
 
 - 40aaa) § 19 až 21 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
 
+- 40b) § 10a ods. 2 písm. c) a d) zákona č. 576/2004 Z. z.
+
 - 41) Nariadenie Rady (EHS) č. 574/72 z 21. marca 1972, ktorým sa ustanovuje postup na vykonávanie nariadenia Rady (EHS) č. 1408/71 o uplatňovaní systémov sociálneho zabezpečenia na zamestnané osoby, samostatne zárobkovo činné osoby a ich rodinných príslušníkov, ktorí sa pohybujú v rámci spoločenstva (Úradný vestník Európskych spoločenstiev L 28, 30.01.1977) v platnom znení.
 
 - 41aa) § 35 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -381,6 +395,12 @@
 - 41bd) § 68 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
 - 41be) § 14 ods. 1 písm. a) zákona č. 153/2013 Z. z.
+
+- 41bf) § 153 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 41bg) Zákon č. 453/2003 Z. z. o orgánoch štátnej správy v oblasti sociálnych vecí, rodiny a služieb zamestnanosti a o zmene a doplnení niektorých zákonov.
 
 - 41c) § 3 až 11 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
 
@@ -474,21 +494,27 @@
 
 - 61) § 68 ods. 3 písm. e) Obchodného zákonníka.
 
-- 61a) § 33 zákona č. 578/2004 Z. z. v znení zákona č. 351/2005 Z. z.
+- 61a) § 128 ods. 1 Trestného zákona.
 
-- 61aa) § 18 až 25 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+- 61aa) § 51 Občianskeho zákonníka.
 
-- 61ab) § 5 ods. 6 písm. p) zákona č. 153/2013 Z. z. v znení zákona č. 351/2017 Z. z.
+- § 269 ods. 2 Obchodného zákonníka.
 
-- 61ac) § 7 zákona č. 153/2013 Z. z. v znení neskorších predpisov.
+- 61ab) § 4 zákona č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 61b) § 33 ods. 6 zákona č. 578/2004 Z. z. v znení zákona č. 351/2005 Z. z.
+- 61ac) § 23 Správneho poriadku.
 
-- 61c) § 4 zákona č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 61b) § 33 zákona č. 578/2004 Z. z. v znení zákona č. 351/2005 Z. z.
+
+- 61c) § 33 ods. 6 zákona č. 578/2004 Z. z. v znení zákona č. 351/2005 Z. z.
 
 - 62) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
 
-- 63) § 25 ods. 1 písm. e) zákona č. 576/2004 Z. z.
+- 62a) Zákon č. 305/2013 Z. z. v znení neskorších predpisov.
+
+- 62aa) § 18 až 25 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+
+- 63) § 25 ods. 1 písm. f) zákona č. 576/2004 Z. z.
 
 - 63a) § 89 ods. 9 Trestného zákona.
 
@@ -524,13 +550,11 @@
 
 - 69) § 43 zákona č. 71/1967 Zb. v znení neskorších predpisov.
 
-- 70) Zákon č. 578/2004 Z. z. v znení neskorších predpisov.
-
-- Zákon č. 580/2004 Z. z. v znení neskorších predpisov.
-
 - 71) § 81 ods. 1 písm. a) a b) zákona č. 578/2004 Z. z. v znení zákona č. 351/2005 Z. z.
 
-- 71a) § 79 ods. 1 písm. l) a w) zákona č. 578/2004 Z. z. v znení neskorších predpisov.
+- 71a) § 79 ods. 1 písm. w) zákona č. 578/2004 Z. z. v znení neskorších predpisov.
+
+- 71aa) Napríklad § 79 ods. 1 písm. d) a e), § 98 ods. 1 a 2 zákona č. 448/2008 Z. z. v znení neskorších predpisov.
 
 - 71b) § 4 ods. 8 zákona č. 576/2004 Z. z. v znení zákona č. 2/2022 Z. z.
 

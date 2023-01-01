@@ -24,7 +24,11 @@
 
 - j) údaje o poistencovi, ktorému bola poskytnutá zdravotná starostlivosť v predchádzajúcom mesiaci počas doplnkových ordinačných hodín alebo v rámci domácej starostlivosti podľa osobitného predpisu,<sup>27aae</sup>)
 
-- k) kód poskytnutej zdravotnej starostlivosti, za ktorú má zdravotná poisťovňa právo uplatniť svoj nárok na úhradu nákladov podľa osobitného predpisu.<sup>27aaf</sup>)
+- k) kód poskytnutej zdravotnej starostlivosti, za ktorú má zdravotná poisťovňa právo uplatniť svoj nárok na úhradu nákladov podľa osobitného predpisu,<sup>27aaf</sup>)
+
+- l) kód zdravotného výkonu a cenu zdravotného výkonu pri typoch zdravotnej starostlivosti určených úradom,
+
+- m) dátum začiatku alebo dátum ukončenia kapitácie poistenca, ak ide o úhradu formou kapitácie.
 
 (3) Zdravotná poisťovňa a poskytovateľ zdravotnej starostlivosti sú oprávnení v zmluve o poskytovaní zdravotnej starostlivosti (§ 7 až 7b) dohodnúť, že
 
@@ -33,3 +37,5 @@
 - b) účtovný doklad vyhotoví zdravotná poisťovňa podľa § 6 ods. 4 písm. s) a poskytovateľ zdravotnej starostlivosti potvrdí jeho správnosť postupom podľa § 8 ods. 17,
 
 - c) k účtovnému dokladu môžu byť pripojené ďalšie doklady poskytovateľa zdravotnej starostlivosti, ktorými preukazuje poskytnutie zdravotnej starostlivosti.
+
+(4) Formu a štruktúru zúčtovacej dávky podľa klasifikačného systému v rozsahu podľa odseku 2 určuje ministerstvo zdravotníctva v elektronickej podobe a zverejňuje ju na svojom webovom sídle. Formu a štruktúru zúčtovacej dávky podľa odseku 2, ak nejde o zúčtovaciu dávku podľa klasifikačného systému, určuje úrad v elektronickej podobe metodickým usmernením, ktoré úrad zverejňuje na svojom webovom sídle.
