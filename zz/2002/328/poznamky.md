@@ -104,13 +104,17 @@
 
 - 31b) § 223 zákona č. 281/2015 Z. z.
 
-- 31c) § 83 ods. 1 písm. c) zákona č. 281/2015 Z. z.
+- 31c) § 83 ods. 1 písm. c) a § 83 ods. 5 písm. g) a h) zákona č. 281/2015 Z. z. v znení zákona č. 420/2022 Z. z.
+
+- 31ca) § 393 až 415 Trestného zákona.
 
 - 31d) § 10 ods. 1 písm. b) Trestného zákona.
 
 - 31e) § 11 Trestného zákona.
 
-- 31f) § 13 ods. 1 písm. f) zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+- 31ea) § 234 Trestného poriadku.
+
+- 31f) § 12 ods. 2 zákona č. 281/2015 Z. z.
 
 - 31fa) § 63 ods. 1 písm. d) zákona č. 315/2001 Z. z. v znení neskorších predpisov.
 
