@@ -8,7 +8,7 @@
 
 - c) ktorý má udelený prechodný pobyt na účel zlúčenia rodiny,
 
-  - 1. po uplynutí 12 mesiacov nepretržitého pobytu na území Slovenskej republiky od udelenia prechodného pobytu na účel zlúčenia rodiny,
+  - 1. po uplynutí 9 mesiacov nepretržitého pobytu na území Slovenskej republiky od udelenia prechodného pobytu na účel zlúčenia rodiny,
 
   - 2. ktorý je rodinným príslušníkom držiteľa modrej karty,
 
@@ -16,7 +16,7 @@
 
   - 4. ktorý je rodinným príslušníkom štátneho príslušníka tretej krajiny podľa písmena f),
 
-- d) ktorý je rodinným príslušníkom občana členského štátu Európskej únie a ktorý má právo na pobyt na území Slovenskej republiky,
+- d) ktorý je rodinným príslušníkom občana členského štátu Európskej únie alebo rodinným príslušníkom občana Slovenskej republiky a ktorý má oprávnený pobyt na území Slovenskej republiky,
 
 - e) ktorý má udelený prechodný pobyt na účel štúdia, ak osobitný predpis neustanovuje inak,<sup>24</sup>) a výkon jeho práce nepresiahne u všetkých zamestnávateľov 10 hodín týždenne alebo 20 hodín týždenne, ak je študentom vysokej školy, alebo tomu zodpovedajúci počet dní alebo mesiacov za rok,
 
@@ -56,7 +56,7 @@
 
 - t) ktorý úspešne absolvoval štúdium na strednej škole alebo štúdium na vysokej škole na území Slovenskej republiky,
 
-- u) ktorý bude zamestnaný na určené obdobie na účel jeho zaškolenia, najviac na šesť po sebe nasledujúcich týždňov v kalendárnom roku, ak ide o výkon zamestnania s nedostatkom pracovnej sily v okrese podľa § 12 písm. ai), a ktorý má podanú žiadosť o udelenie prechodného pobytu na účel zamestnania spolu so všetkými náležitosťami podľa osobitného predpisu<sup>28aa</sup>) na to isté pracovné miesto,
+- u) ktorý bude zamestnaný na určené obdobie na účel jeho zaškolenia, najviac na osem po sebe nasledujúcich týždňov v kalendárnom roku, ak ide o výkon zamestnania s nedostatkom pracovnej sily v kraji podľa § 12 písm. ae), a ktorý má podanú žiadosť o udelenie prechodného pobytu na účel zamestnania spolu so všetkými náležitosťami podľa osobitného predpisu<sup>28aa</sup>) na to isté pracovné miesto,
 
 - v) ktorý nedovŕšil 26 rokov veku a ktorý bude zamestnávaný príležitostnými a časovo obmedzenými prácami v rámci výmeny medzi školami alebo v rámci programov pre mládež alebo programov pre vzdelávanie, ktorých sa Slovenská republika zúčastňuje,
 
@@ -100,6 +100,8 @@
 
 - ai) ktorého výkon práce u všetkých zamestnávateľov nepresiahne 20 hodín týždenne alebo tomu zodpovedajúci počet dní alebo mesiacov za rok, ak ide o študenta vysokej školy, ktorý sa na území Slovenskej republiky zdržiava na základe mobility,<sup>28h</sup>)
 
-- aj) ktorý pre centrum podnikových služieb<sup>28i</sup>) poskytuje odborné školenia, ak trvanie jeho pracovnoprávneho vzťahu s centrom podnikových služieb nepresiahne celkovo 90 dní v kalendárnom roku.
+- aj) ktorý pre centrum podnikových služieb<sup>28i</sup>) poskytuje odborné školenia, ak trvanie jeho pracovnoprávneho vzťahu s centrom podnikových služieb nepresiahne celkovo 90 dní v kalendárnom roku,
+
+- ak) ktorý podal žiadosť o obnovenie prechodného pobytu, ktorý oprávňuje zamestnávateľa zamestnávať štátneho príslušníka tretej krajiny, s dostatočným časovým predstihom pred uplynutím platnosti tohto prechodného pobytu, a to v období od uplynutia platnosti tohto prechodného pobytu do právoplatného skončenia konania o obnovenie prechodného pobytu; dostatočným časovým predstihom sa rozumie obdobie zodpovedajúce najmenej dĺžke lehoty na rozhodnutie o žiadosti o obnovenie prechodného pobytu podľa osobitného predpisu.<sup>28j</sup>)
 
 (2) U štátneho príslušníka tretej krajiny podľa odseku 1 sa nevyžaduje potvrdenie o možnosti obsadenia voľného pracovného miesta, ktoré zodpovedá vysokokvalifikovanému zamestnaniu, potvrdenie o možnosti obsadenia voľného pracovného miesta a povolenie na zamestnanie.

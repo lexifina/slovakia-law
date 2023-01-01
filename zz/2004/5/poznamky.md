@@ -6,13 +6,19 @@
 
 - Zákon č. 34/2002 Z. z. o nadáciách a o zmene Občianskeho zákonníka v znení neskorších predpisov.
 
-- 3) § 42 ods. 2 písm. c) zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
+- 2a) Zákon č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 2b) Napríklad čl. 24 Dohody o vystúpení Spojeného kráľovstva Veľkej Británie a Severného Írska z Európskej únie a z Európskeho spoločenstva pre atómovú energiu (Ú. v. EÚ L 29, 31. 1. 2020).
+
+- 2c) Zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 3) § 42 ods. 2 písm. c) zákona č. 404/2011 Z. z.
 
 - 4) Obchodný zákonník.
 
 - 5) Zákon č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
 
-- 6) Napríklad § 226 ods. 2 Obchodného zákonníka, zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov, zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov, zákon č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 35/2019 Z. z. o finančnej správe a o zmene a doplnení niektorých zákonov.
+- 6) Napríklad § 226 ods. 2 Obchodného zákonníka, zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov, zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov, zákon č. 281/2015 Z. z. o štátnej službe profesionálnych vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 35/2019 Z. z. o finančnej správe a o zmene a doplnení niektorých zákonov.
 
 - 8) Zákon č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností v znení neskorších predpisov.
 
@@ -42,10 +48,6 @@
 
 - 13c) § 16 ods. 4 písm. b) zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
 
-- 13d) § 2 písm. b) zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení zákona č. 692/2006 Z. z.
-
-- 13e) § 2 písm. c) zákona č. 480/2002 Z. z. v znení zákona č. 692/2006 Z. z.
-
 - 13f) § 19 zákona č. 245/2008 Z. z. v znení zákona č. 324/2012 Z. z.
 
 - 14) § 71 zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 310/2006 Z. z.
@@ -58,15 +60,9 @@
 
 - 17) § 233 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
-- Zákon č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 18) § 37 ods. 3 zákona č. 404/2011 Z. z. v znení zákona č. 495/2013 Z. z.
 
-- 18a) Zákon č. 82/2005 Z. z. v znení neskorších predpisov.
-
 - 18aa) Zákon č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 18b) § 7a ods. 1 písm. b) zákona č. 82/2005 Z. z. v znení zákona č. 223/2011 Z. z.
 
 - 18ba) Čl. 11 nariadenia Európskeho parlamentu a Rady (EÚ) 2016/589 z 13. apríla 2016 o Európskej sieti služieb zamestnanosti (EURES), prístupe pracovníkov k službám v oblasti mobility a o ďalšej integrácii trhov práce a o zmene nariadenia (EÚ) č. 492/2011 a (EÚ) č. 1296/2013 (Ú. v. EÚ L 107, 22. 4. 2016).
 
@@ -75,10 +71,6 @@
 - 18c) § 66 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
 
 - § 77 zákona č. 55/2017 Z. z.
-
-- 19) § 58 ods. 1 písm. d) zákona č. 455/1991 Zb. v znení zákona č. 279/2001 Z. z.
-
-- 19a) § 3 ods. 3 zákona č. 82/2005 Z. z. v znení zákona č. 52/2010 Z. z.
 
 - 20) § 73 zákona č. 311/2001 Z. z. v znení zákona č. 210/2003 Z. z.
 
@@ -94,7 +86,9 @@
 
 - 21a) § 63 ods. 1 zákona č. 447/2008 Z. z. v znení zákona č. 180/2011 Z. z.
 
-- 22) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
+- 22) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) (Ú. v. EÚ L 119/1, 4. 5. 2016).
+
+- Zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 22a) § 37 zákona č. 404/2011 Z. z. v znení zákona č. 495/2013 Z. z.
 
@@ -118,6 +112,8 @@
 
 - 22ha) § 3 ods. 1 písm. d) zákona č. 422/2015 Z. z.
 
+- 22haa) § 73 ods. 18 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
+
 - 22i) § 31 a 32 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
 
 - 22j) § 6 až 14 zákona č. 151/2010 Z. z. o zahraničnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 403/2010 Z. z.
@@ -129,6 +125,8 @@
 - 22kb) § 2 ods. 1 písm. s) zákona č. 404/2011 Z. z. v znení zákona č. 82/2017 Z. z.
 
 - 22kc) § 32 ods. 16 zákona č. 404/2011 Z. z. v znení zákona č. 82/2017 Z. z.
+
+- 22kca) § 111 ods. 1 písm. t) zákona č. 404/2011 Z. z. v znení neskorších predpisov.
 
 - 22kd) Zákon č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -180,6 +178,8 @@
 
 - 28i) § 5 písm. c) zákona č. 57/2018 Z. z.
 
+- 28j) § 33 ods. 8 a § 34 ods. 16 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
+
 - 29) Zákon č. 480/2002 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 404/2011 Z. z. v znení neskorších predpisov.
@@ -218,6 +218,8 @@
 
 - 35e) Zákon č. 272/2016 Z. z. o dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zmene a doplnení niektorých zákonov (zákon o dôveryhodných službách).
 
+- 35f) § 19 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
+
 - 36) Zákon č. 595/2003 Z. z. o dani z príjmov.
 
 - 37) Zákon č. 245/2008 Z. z. v znení neskorších predpisov.
@@ -228,17 +230,23 @@
 
 - Zákon č. 131/2002 Z. z. v znení neskorších predpisov.
 
+- 40) § 20f až 20j Občianskeho zákonníka.
+
+- 41) § 21 zákona č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 315/2012 Z. z.
+
+- 41a) Zákon č. 568/2009 Z. z. v znení neskorších predpisov.
+
 - 42) § 116 Občianskeho zákonníka.
+
+- 42a) Zákon č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 43) § 3 zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky.
 
 - 44) § 8 zákona č. 253/1998 Z. z.
 
-- 45) Zákon č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 45a) Zákon č. 578/2004 Z. z. v znení neskorších predpisov.
 
-- 45c) § 8 ods. 3 písm. a) zákona č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení niektorých zákonov.
+- 45c) § 8 ods. 3 písm. a) zákona č. 568/2009 Z. z.
 
 - 45d) § 8 ods. 3 písm. b) zákona č. 568/2009 Z. z.
 
@@ -256,7 +264,7 @@
 
 - 47) Zákon č. 336/2015 Z. z. o podpore najmenej rozvinutých okresov a o zmene a doplnení niektorých zákonov v znení zákona č. 378/2016 Z. z.
 
-- 49) Zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov.
+- 49) Zákon č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 49a) § 71 a 263 zákona č. 461/2003 Z. z.
 
@@ -264,43 +272,11 @@
 
 - 53) § 20f Občianskeho zákonníka.
 
-- 58) Nariadenie Komisie (EÚ) č. 1407/2013 z 18. decembra 2013 o uplatňovaní článkov 107 a 108 Zmluvy o fungovaní Európskej únie na pomoc de minimis (Ú. v. EÚ L 352, 24. 12. 2013).
-
 - 59aba) Zákon č. 57/2018 Z. z.
 
 - 59abb) § 22 ods. 17 písm. a) zákona č. 57/2018 Z. z.
 
 - 59ac) § 12 zákona č. 57/2018 Z. z.
-
-- 59ad) Príloha I nariadenia (EÚ) č. 651/2014.
-
-- 59ae) § 2 ods. 2 a 8 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 59af) Zákon č. 386/2002 Z. z. o štátnom dlhu a štátnych zárukách a ktorým sa dopĺňa zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.
-
-- 59ag) Čl. 1 nariadenia (EÚ) č. 1407/2013.
-
-- 59aga) § 15 zákona č. 374/2014 Z. z. o pohľadávkach štátu a o zmene a doplnení niektorých zákonov.
-
-- 59ah) § 8 až 16 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
-
-- 59ai) § 91 ods. 2 až 7, § 92 ods. 1 až 7 a § 93 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
-
-- 59b) § 2 ods. 5 a § 12 ods. 3 písm. a) až c) zákona č. 112/2018 Z. z. v znení zákona č. 374/2019 Z. z.
-
-- 59c) § 2 písm. n) zákona č. 595/2003 Z. z.
-
-- 59d) Zákon č. 292/2014 Z. z. o príspevku poskytovanom z európskych štrukturálnych a investičných fondov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 59e) § 2 ods. 6 a § 12 ods. 3 písm. d) až f) zákona č. 112/2018 Z. z.
-
-- 59f) § 2 ods. 5 písm. b) zákona č. 112/2018 Z. z.
-
-- 59g) Čl. 2 ods. 99 nariadenia (EÚ) č. 651/2014 v platnom znení.
-
-- 59h) § 2 ods. 5 písm. a) tretí bod a štvrtý bod zákona č. 112/2018 Z. z.
-
-- 59i) Čl. 34 ods. 2 a čl. 35 ods. 2 nariadenia (EÚ) č. 651/2014 v platnom znení.
 
 - 59j) § 2 ods. 5 a 6 zákona č. 112/2018 Z. z. v znení zákona č. 374/2019 Z. z.
 
@@ -330,13 +306,13 @@
 
 - § 30aa ods. 21 zákona č. 523/2004 Z. z. v znení zákona č. 101/2022 Z. z.
 
+- 61ac) Čl. 32 nariadenia (EÚ) č. 2016/679.
+
 - 62) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
 
 - Zákon č. 357/2015 Z. z.
 
 - Zákon č. 523/2004 Z. z. v znení neskorších predpisov.
-
-- Zákon č. 82/2005 Z. z. v znení neskorších predpisov.
 
 - 62a) § 2 ods. 2 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore.
 
@@ -352,7 +328,9 @@
 
 - 63aaaa) Štvrtá časť tretia hlava zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 63ab) Napríklad nariadenie (EÚ) č. 1407/2013, nariadenie (EÚ) č. 651/2014.
+- 63aaab) § 2 ods. 3 zákona č. 82/2005 Z. z. v znení neskorších predpisov.
+
+- 63ab) Napríklad nariadenie Komisie (EÚ) č. 1407/2013 z 18. decembra 2013 o uplatňovaní článkov 107 a 108 Zmluvy o fungovaní Európskej únie na pomoc de minimis (Ú. v. EÚ L 352, 24. 12. 2013) v platnom znení, nariadenie (EÚ) č. 651/2014.
 
 - 63ac) § 19 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -363,3 +341,5 @@
 - 66) Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 67) § 73 ods. 18 druhá veta zákona č. 404/2011 Z. z. v znení neskorších predpisov.
+
+- 68) § 2a ods. 2 zákona č. 82/2005 Z. z. v znení neskorších predpisov.

@@ -12,27 +12,31 @@ Príloha č. 1 k zákonu č. 5/2004 Z. z.
 
       - 3. adresa prechodného pobytu na území Slovenskej republiky alebo v členskom štáte Európskej únie,
 
-      - 4. rodné číslo,
+      - 4. adresa obvyklého pobytu,
 
-      - 5. dátum a miesto narodenia,
+      - 5. rodné číslo,
 
-      - 6. dátum úmrtia,
+      - 6. dátum a miesto narodenia,
 
-      - 7. pohlavie,
+      - 7. dátum úmrtia,
 
-      - 8. číslo občianskeho preukazu,
+      - 8. pohlavie,
 
-      - 9. štátne občianstvo,
+      - 9. číslo občianskeho preukazu,
 
-      - 10. národnosť,
+      - 10. štátne občianstvo,
 
-      - 11. rodinný stav,
+      - 11. národnosť,
 
-      - 12. kontaktné údaje (telefónne číslo, e-mail),
+      - 12. materinský jazyk,
 
-      - 13. bankové spojenie a údaj o tom, že uchádzač o zamestnanie je majiteľom alebo disponentom bankového účtu,
+      - 13. rodinný stav,
 
-      - 14. zdravotná poisťovňa,
+      - 14. kontaktné údaje (telefónne číslo, e-mail),
+
+      - 15. bankové spojenie a údaj o tom, že uchádzač o zamestnanie je majiteľom alebo disponentom bankového účtu,
+
+      - 16. zdravotná poisťovňa,
 
     - b) údaje o kvalifikácii, odborných zručnostiach, a to
 
@@ -94,15 +98,15 @@ Príloha č. 1 k zákonu č. 5/2004 Z. z.
 
       - 7. údaj o splnení podmienky nároku na výsluhový príspevok, výsluhový dôchodok, invalidný výsluhový dôchodok,
 
-      - 8. údaj o poberaní dávky v hmotnej núdzi a príspevkov k dávke v hmotnej núdzi,
+      - 8. údaj o poberaní pomoci v hmotnej núdzi,
 
       - 9. adresa na výplatu dávky v nezamestnanosti,
 
-    - g) údaje o dávke v hmotnej núdzi a príspevkoch k dávke v hmotnej núdzi, a to
+    - g) údaje o pomoci v hmotnej núdzi, a to
 
       - 1. dátum podania žiadosti,
 
-      - 2. dátum vzniku a zániku nároku na dávku v hmotnej núdzi a príspevku k dávke v hmotnej núdzi,
+      - 2. dátum vzniku a zániku nároku na pomoc v hmotnej núdzi,
 
       - 3. dátum začatia a dátum skončenia poberania aktivačného príspevku,
 
@@ -325,3 +329,105 @@ Príloha č. 1 k zákonu č. 5/2004 Z. z.
     - d) deň zápisu fyzickej osoby do živnostenského registra,
 
     - e) predmet činnosti fyzickej osoby.
+
+  - I. Evidencia fyzických osôb, ktorým sprostredkovateľ sprostredkoval zamestnanie za úhradu, podľa § 28 písm. a) obsahuje tieto údaje:
+
+    - a) meno a priezvisko,
+
+    - b) rodné číslo alebo iný identifikátor, ak ide o občana členského štátu Európskej únie alebo o štátneho príslušníka tretej krajiny,
+
+    - c) pohlavie,
+
+    - d) adresa trvalého pobytu,
+
+    - e) adresa miesta pobytu na území Slovenskej republiky, ak ide o občana členského štátu Európskej únie alebo o štátneho príslušníka tretej krajiny,
+
+    - f) názov štátu, ktorého je občan členského štátu Európskej únie alebo štátny príslušník tretej krajiny občanom,
+
+    - g) názov, sídlo, identifikačné číslo organizácie alebo iný identifikátor, ak ide o zamestnávateľa so sídlom v zahraničí, a druh ekonomickej činnosti zamestnávateľa, u ktorého bolo sprostredkované zamestnanie za úhradu,
+
+    - h) druh sprostredkovaného pracovnoprávneho vzťahu alebo obdobného pracovného vzťahu,
+
+    - i) názov a kód sprostredkovaného zamestnania podľa štatistickej klasifikácie zamestnaní,
+
+    - j) názov štátu, ak bolo sprostredkované zamestnanie za úhradu v zahraničí,
+
+    - k) dátum sprostredkovania zamestnania,
+
+    - l) obdobie, počas ktorého by sa malo sprostredkované zamestnanie vykonávať,
+
+    - m) dátum skutočného nástupu do sprostredkovaného zamestnania a dĺžka trvania sprostredkovaného zamestnania.
+
+  - J. Evidencia dočasných agentúrnych zamestnancov podľa § 31 ods. 1 písm. f) obsahuje tieto údaje:
+
+    - a) meno a priezvisko,
+
+    - b) rodné číslo alebo iný identifikátor, ak ide o občana členského štátu Európskej únie alebo o štátneho príslušníka tretej krajiny,
+
+    - c) pohlavie,
+
+    - d) adresa trvalého pobytu,
+
+    - e) adresa miesta pobytu na území Slovenskej republiky, ak ide o občana členského štátu Európskej únie alebo o štátneho príslušníka tretej krajiny,
+
+    - f) názov štátu, ktorého je občan členského štátu Európskej únie alebo štátny príslušník tretej krajiny občanom,
+
+    - g) obdobie trvania pracovného pomeru s agentúrou dočasného zamestnávania,
+
+    - h) názov, sídlo, identifikačné číslo organizácie a druh ekonomickej činnosti užívateľského zamestnávateľa,
+
+    - i) názov a kód vykonávaného zamestnania počas dočasného pridelenia podľa štatistickej klasifikácie zamestnaní,
+
+    - j) obdobie trvania dočasného pridelenia agentúrneho zamestnanca k užívateľskému zamestnávateľovi,
+
+    - k) dátum predčasného ukončenia dočasného pridelenia.
+
+  - K. Evidencia občanov so zdravotným postihnutím, dlhodobo nezamestnaných občanov a zamestnávateľov, ktorým agentúra podporovaného zamestnávania poskytuje služby, podľa § 58 ods. 13 písm. c) obsahuje tieto údaje:
+
+    - a) osobné údaje občanov so zdravotným postihnutím a dlhodobo nezamestnaných občanov, a to:
+
+      - 1. meno a priezvisko,
+
+      - 2. rodné číslo alebo iný identifikátor, ak ide o občana členského štátu Európskej únie alebo o štátneho príslušníka tretej krajiny,
+
+      - 3. pohlavie,
+
+      - 4. adresa trvalého pobytu,
+
+      - 5. adresa miesta pobytu na území Slovenskej republiky, ak ide o občana členského štátu Európskej únie alebo o štátneho príslušníka tretej krajiny,
+
+      - 6. názov štátu, ktorého je občan členského štátu Európskej únie alebo štátny príslušník tretej krajiny občanom,
+
+      - 7. informácia, či ide o občana so zdravotným postihnutím podľa § 9 ods. 1 bez špecifikácie zdravotného postihnutia,
+
+      - 8. druh a počet poskytnutých služieb za určené obdobie,
+
+      - 9. názov, sídlo, identifikačné číslo organizácie alebo iný identifikátor, ak ide o zamestnávateľa so sídlom v zahraničí, a druh ekonomickej činnosti zamestnávateľa, u ktorého bolo sprostredkované zamestnanie,
+
+      - 10. druh sprostredkovaného pracovnoprávneho vzťahu alebo obdobného pracovného vzťahu,
+
+      - 11. názov a kód sprostredkovaného zamestnania podľa štatistickej klasifikácie zamestnaní,
+
+      - 12. názov štátu, ak bolo sprostredkované zamestnanie v zahraničí,
+
+      - 13. dĺžka trvania sprostredkovaného zamestnania,
+
+    - b) údaje o zamestnávateľovi, a to:
+
+      - 1. názov, sídlo, identifikačné číslo organizácie alebo iný identifikátor, ak ide o zamestnávateľa so sídlom v zahraničí, a druh ekonomickej činnosti,
+
+      - 2. druh a počet poskytnutých služieb za určené obdobie.
+
+  - L. Evidencia zamestnancov, ktorí sú občanmi so zdravotným postihnutím, podľa § 63 ods. 1 písm. c) obsahuje tieto údaje:
+
+    - a) meno a priezvisko,
+
+    - b) rodné číslo alebo iný identifikátor, ak ide o občana členského štátu Európskej únie alebo o štátneho príslušníka tretej krajiny,
+
+    - c) percentuálna miera poklesu schopnosti vykonávať zárobkovú činnosť,
+
+    - d) dátum uznania za invalidného,
+
+    - e) dátum vzniku pracovnoprávneho vzťahu alebo obdobného pracovného vzťahu,
+
+    - f) názov a kód zamestnania podľa štatistickej klasifikácie zamestnaní.
