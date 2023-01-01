@@ -268,6 +268,20 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 
 - 38. V poznámke pod čiarou k odkazu 35 sa citácia „§ 8 zákona č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení zákona č. 431/2004 Z. z.“ nahrádza citáciou „§ 11 zákona č. 157/2018 Z. z. o metrológii a o zmene a doplnení niektorých zákonov.“.
 
+- 39. § 16 sa dopĺňa odsekom 10, ktorý znie:
+
+- „(10)
+
+- Ten, kto vykonáva zber zmesového odpadu alebo triedený zber komunálnych odpadov z obalov a komunálnych odpadov z neobalových výrobkov v obci, je povinný
+
+- a)
+
+- zabezpečiť vybavenie zberných vozidiel vážiacim systémom zaradeným do skupiny určených meradiel a spĺňajúcim požiadavky na určené meradlo,<sup>35</sup>)
+
+- b)
+
+- ohlasovať príslušnej obci množstvá vyzbieraného zmesového odpadu a vyzbieraných komunálnych odpadov z obalov a komunálnych odpadov z neobalových výrobkov v obci, na území ktorej vznikli tieto odpady, do 15 dní od skončenia mesiaca, v ktorom bol zber uskutočnený.“.
+
 - 40. § 16 sa dopĺňa odsekom 11, ktorý znie:
 
 - „(11)
@@ -719,6 +733,12 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 - c)
 
 - preukáže, že to neumožňujú technické problémy vykonávania zberu v historických centrách miest a v riedko osídlených oblastiach.“.
+
+- 100. V § 81 odsek 21 znie:
+
+- „(21)
+
+- Povinnosť zaviesť a zabezpečovať vykonávanie triedeného zberu komunálneho odpadu pre biologicky rozložiteľný kuchynský odpad sa nevzťahuje na tú časť obce, ktorá preukáže, že 100 % domácností kompostuje vlastný odpad.“.
 
 - 101. V § 81 odsek 25 znie:
 
