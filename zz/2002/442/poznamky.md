@@ -14,9 +14,13 @@
 
 - 2) § 52 zákona č. 364/2004 Z. z.
 
-- 2a) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
+- 2a) § 2b ods. 1 zákona Slovenskej národnej rady č. 369/1990 Zb. v znení zákona č. 70/2018 Z. z.
+
+- 2b) § 139b ods. 8 písm. c) zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku v znení zákona č. 312/2018 Z. z.
 
 - 3) Zákon č. 314/2001 Z. z. o ochrane pred požiarmi v znení neskorších predpisov.
+
+- 3a) § 43 zákona č. 50/1976 Zb. v znení zákona č. 293/2014 Z. z.
 
 - 4) § 2 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
