@@ -6,6 +6,8 @@
 
 - 2aa) Zákon č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov v znení neskorších predpisov.
 
+- 2ab) § 49b ods. 1 zákona č. 530/2011 Z. z. v znení zákona č. 511/2021 Z. z.
+
 - 3) § 60 ods. 3 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
 - 4) § 663 až 684 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
@@ -28,7 +30,9 @@
 
 - 12) Zákon č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z o reklame v znení neskorších predpisov.
 
-- 13) Zákon Národnej rady Slovenskej republiky č. 229/1995 Z. z. v znení neskorších predpisov.Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.Zákon č. 238/2001 Z. z.
+- 13) Zákon č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 14) § 10 ods. 3 zákona Národnej rady Slovenskej republiky č. 229/1995 Z. z.
 
