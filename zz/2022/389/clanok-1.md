@@ -2,6 +2,10 @@
 
 Zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení zákona č. 386/2002 Z. z., zákona č. 431/2002 Z. z., zákona č. 428/2003 Z. z., zákona č. 461/2003 Z. z., zákona č. 607/2003 Z. z., zákona č. 5/2004 Z. z., zákona č. 523/2004 Z. z., zákona č. 581/2004 Z. z., zákona č. 747/2004 Z. z., zákona č. 68/2005 Z. z., zákona č. 659/2005 Z. z., zákona č. 238/2006 Z. z., zákona č. 198/2007 Z. z., zákona č. 209/2007 Z. z., zákona č. 659/2007 Z. z., zákona č. 70/2008 Z. z., zákona č. 465/2008 Z. z., zákona č. 492/2009 Z. z., zákona č. 381/2010 Z. z., zákona č. 132/2013 Z. z., zákona č. 374/2014 Z. z., zákona č. 130/2015 Z. z., zákona č. 375/2015 Z. z., zákona č. 125/2016 Z. z., zákona č. 243/2017 Z. z., zákona č. 177/2018 Z. z., zákona č. 344/2018 Z. z., zákona č. 211/2019 Z. z., zákona č. 149/2020 Z. z., zákona č. 314/2020 Z. z. a zákona č. 346/2021 Z. z. sa mení a dopĺňa takto:
 
+- 2. V § 2b ods. 2 sa vkladá nová prvá veta a druhá veta, ktoré znejú:
+
+- „Ministerstvo zostavuje súbory údajov z účtovných výkazov a údajov potrebných na účely hodnotenia plnenia rozpočtu verejnej správy predkladaných subjektom verejnej správy. Na účel zostavenia súborov údajov podľa prvej vety je subjekt verejnej správy povinný predkladať ministerstvu údaje podľa prvej vety.“.
+
 - 3. V § 4 ods. 1 sa vypúšťajú slová „(ďalej len „riaditeľ“)“.
 
 - 4. V § 4 ods. 2 a 5 až 7 sa za slovo „riaditeľ“ vo všetkých tvaroch vkladajú slová „Štátnej pokladnice“.
@@ -21,6 +25,12 @@ Zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorý
   - Doterajšie písmená g) až zc) sa označujú ako písmená e) až aa).
 
 - 10. V § 6 ods. 3 úvodnej vete sa slová „písm. o) a q)“ nahrádzajú slovami „písm. m) a o)“.
+
+- 11. V § 6 ods. 3 písmeno a) znie:
+
+- „a)
+
+- zostavuje súbory údajov z vlastnej evidencie o klientovi uvedenom v § 2a ods. 1 písm. a) až i), k), l), m) a n),“.
 
 - 12. V § 6 ods. 4 sa vypúšťa slovo „cezhraničné“.
 
@@ -104,7 +114,15 @@ Zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorý
 
   - Poznámka pod čiarou k odkazu 24b sa vypúšťa.
 
+- 19. V § 12 ods. 1 písmeno f) znie:
+
+- „f)
+
+- poskytovať ministerstvu informácie potrebné na zostavenie súborov údajov podľa § 2b ods. 2 okrem informácií, ktoré sú utajovanými skutočnosťami,<sup>24c</sup>)“.
+
 - 20. V § 12 ods. 5 a 10 sa slová „písm. k)“ nahrádzajú slovami „písm. i)“.
+
+- 21. V § 13 ods. 1 sa za slová „až 5“ vkladajú slová „a § 12a“.
 
 - 22. V § 14 ods. 2 sa na konci pripája táto veta:
 
@@ -197,6 +215,16 @@ Zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorý
   - <sup>28b</sup>) § 7 ods. 21 zákona č. 566/2001 Z. z. v znení neskorších predpisov.“.
 
 - 27. V § 17 ods. 2 sa za slovo „operácie“ vkladajú slová „a obchody“.
+
+- 28. V § 18 sa odsek 1 dopĺňa písmenom j), ktoré znie:
+
+- „j)
+
+- poskytuje údaje týkajúce sa klienta na účel výkonu štatutárneho auditu.<sup>28c</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 28c znie:
+
+  - „<sup>28c</sup>) § 22a zákona č. 431/2002 Z. z. v znení neskorších predpisov.“.
 
 - 29. V § 19 ods. 2 prvá veta znie:
 
