@@ -88,6 +88,10 @@
 
 - 3a) § 69 ods. 1 písm. f) zákona č. 8/2009 Z. z. v znení zákona č. 144/2010 Z. z.
 
+- 3aa) Zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 3ab) § 111 ods. 2 a § 113 ods. 1 zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 3b) § 16 zákona č. 157/2018 Z. z. o metrológii a o zmene a doplnení niektorých zákonov.
 
 - 3ba) § 17 zákona č. 157/2018 Z. z.
@@ -127,6 +131,10 @@
 - § 2 Obchodného zákonníka.
 
 - 10) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- 10a) § 2 ods. 30 zákona č. 106/2018 Z. z. o prevádzke vozidiel v cestnej premávke a o zmene a doplnení niektorých zákonov v znení zákona č. 364/2019 Z. z.
+
+- 10b) § 22 ods. 4 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 11) § 88 až 93 zákona č. 50/1976 Zb.
 
