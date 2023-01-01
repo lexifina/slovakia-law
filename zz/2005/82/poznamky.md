@@ -24,15 +24,13 @@
 
 - 10) Napríklad zákon č. 455/1991 Zb. v znení neskorších predpisov, zákon č. 461/2003 Z. z. v znení neskorších predpisov, zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení zákona č. 719/2004 Z. z., zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 
-- 10a) § 12 písm. ad) a § 13 ods. 1 písm. e) piaty bod zákona č. 5/2004 Z. z. v znení zákona č. 223/2011 Z. z.
-
-- § 7 ods. 3 písm. s) zákona č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 10a) § 7 ods. 3 písm. s) zákona č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 11) § 235 zákona č. 461/2003 Z. z. v znení zákona č. 43/2004 Z. z.
 
 - 12) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
-- 13) Napríklad § 68a ods. 1 písm. b) zákona č. 5/2004 Z. z. v znení neskorších predpisov, § 8a ods. 4 písm. d) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 32 ods. 1 písm. g) zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov, § 19 ods. 2 písm. a) prvý bod zákona č. 125/2006 Z. z. v znení neskorších predpisov.
+- 13) Napríklad § 8a ods. 4 písm. d) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 32 ods. 1 písm. g) zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov, § 19 ods. 2 písm. a) prvý bod zákona č. 125/2006 Z. z. v znení neskorších predpisov.
 
 - 14) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 

@@ -30,10 +30,8 @@
 
   - 2. vyslanie fyzickej osoby z iného štátu ako Slovenskej republiky na územie Slovenskej republiky uskutočnené medzi ovládajúcou osobou a ovládanou osobou<sup>24b</sup>) alebo medzi ovládanými osobami.
 
-(8) Kontrolný orgán uloží právnickej osobe alebo fyzickej osobe, ktorá je podnikateľom, za porušenie zákazu prijať prácu alebo službu podľa odseku 5 pokutu od 2 000 eur do 200 000 eur, a ak ide o dve a viac fyzických osôb súčasne, najmenej 5 000 eur.
+(8) Inšpektorát práce uloží právnickej osobe alebo fyzickej osobe, ktorá je podnikateľom, za porušenie zákazu prijať prácu alebo službu podľa odseku 5 pokutu od 2 000 eur do 200 000 eur, a ak ide o dve a viac fyzických osôb súčasne, najmenej 5 000 eur.
 
 (9) Pokutu podľa odseku 8 možno uložiť do dvoch rokov odo dňa prerokovania protokolu o výsledku kontroly a najneskôr do troch rokov odo dňa porušenia zákazu.
 
-(10) Pokutu podľa odseku 8 nemožno uložiť právnickej osobe alebo fyzickej osobe, ktorá je podnikateľom, ktorým bola za to isté porušenie už právoplatne uložená pokuta iným kontrolným orgánom.
-
-(11) Pokuta je príjmom štátneho rozpočtu.
+(10) Pokuta je príjmom štátneho rozpočtu.
