@@ -1,3 +1,3 @@
 # § 4a
 
-Ak je dieťa štátnym občanom aj iného štátu, môže nadobudnúť priezvisko alebo priezviská (ďalej len „priezvisko") v súlade s jeho právnym poriadkom alebo tradíciou.
+Ak je dieťa štátnym občanom aj iného štátu, pri zápise narodenia do knihy narodení sa môže zapísať priezvisko alebo priezviská (ďalej len „priezvisko“) v súlade s jeho právnym poriadkom alebo tradíciou. Pri zápise priezviska preukazuje rodič dieťaťa tieto skutočnosti verejnou listinou vyhotovenou iným štátom, ktorého je dieťa štátnym občanom.
