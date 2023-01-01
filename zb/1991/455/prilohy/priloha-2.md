@@ -46,7 +46,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 18. | Technické osvedčovanie stavebných výrobkov | oprávnenie vydávať a zrušovať technické osvedčenia podľa zákona č. 90/1998 Z. z. o stavebných výrobkoch v znení neskorších predpisov | § 4 ods. 4 zákona č. 90/1998 Z. z. o stavebných výrobkoch v znení neskorších predpisov |
 
-- 19. | Vykonávanie činnosti koordinátora bezpečnosti | – osvedčenie o vykonaní skúšky odbornej spôsobilosti na výkon činnosti stavbyvedúceho alebo stavebného dozoru alebo – osvedčenie autorizovaného bezpečnostného technika | § 6 ods. 1 nariadenia vlády Slovenskej republiky č. 396/2006 Z. z. o minimálnych bezpečnostných a zdravotných požiadavkách na stavenisko |
+- 19. | Vykonávanie činnosti koordinátora bezpečnosti | – osvedčenie o vykonaní skúšky odbornej spôsobilosti na výkon činnosti stavbyvedúceho alebo stavebného dozoru alebo – osvedčenie o odbornej spôsobilosti bezpečnostného technika | § 6 ods. 1 nariadenia vlády Slovenskej republiky č. 396/2006 Z. z. o minimálnych bezpečnostných a zdravotných požiadavkách na stavenisko |
 
 - SKUPINA 214 – Ostatné | | | |
 
@@ -158,11 +158,9 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 61. | Sprostredkovanie predaja, prenájmu a kúpy nehnuteľností (realitná činnosť) | – vysokoškolské vzdelanie ekonomického alebo právnického alebo ­stavebného alebo architektonického smeru ­alebo – úplné stredné vzdelanie s maturitnou skúškou a osvedčenie o absolvovaní akreditovaného vzdelávacieho programu v odbore vydané vzdelávacou inštitúciou akreditovanou Ministerstvom školstva, vedy, výskumu a športu Slovenskej republiky | § 14 zákona č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení niektorých zákonov. |
 
-- 62. | Bezpečnostnotechnické služby | – oprávnenie alebo – osvedčenie bezpečnostného technika alebo – osvedčenie autorizovaného bezpečnostného technika | § 21, 23, 24 zákona č. 124/2006 Z. z. v znení neskorších predpisov |
+- 62. | Bezpečnostnotechnické služby | – oprávnenie alebo – osvedčenie o odbornej spôsobilosti bezpečnostného technika | § 21 a 23 zákona č. 124/2006 Z. z. v znení neskorších predpisov |
 
-- 63. | Bezpečnostný technik | osvedčenie bezpečnostného technika | § 23 zákona č. 124/2006 Z. z. v znení zákona č. 309/2007 Z. z. |
-
-- 64. | Autorizovaný bezpečnostný technik | osvedčenie autorizovaného bezpečnostného technika | § 24 zákona č. 124/2006 Z. z. v znení neskorších predpisov |
+- 63. | Bezpečnostný technik | osvedčenie o odbornej spôsobilosti bezpečnostného technika | § 23 zákona č. 124/2006 Z. z. v znení neskorších predpisov |
 
 - 65. | Pracovná zdravotná služba | oprávnenie | § 30b zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení zákona č. 204/2014 Z. z. |
 
