@@ -72,6 +72,12 @@ Zákon č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektor
 
 - 27. V § 184b ods. 7 sa za slová „každú z činností podľa“ vkladajú slová „odseku 2 písm.“.
 
+- 28. § 185 sa dopĺňa odsekom 3, ktorý znie:
+
+- „(3)
+
+- Na konanie o správnych žalobách podľa tohto zákona je kauzálne príslušný Krajský súd v Trnave.“.
+
 - 29. V § 187h ods. 7 písm. d) a ods. 10 sa slová „ods. 9“ nahrádzajú slovami „ods. 9 a 10“.
 
 - 30. V § 187h ods. 15 sa na konci pripájajú tieto slová: „a pre rozhodnutia, vydané v konaní podľa § 169 ods. 2 a 3, ktorých predmetom je preskúmanie postupu zadávania zákazky, koncesie alebo rámcovej dohody úplne alebo sčasti financovanej z prostriedkov európskych štrukturálnych a investičných fondov<sup>74aa</sup>) v programovom období 2014 – 2020“.
