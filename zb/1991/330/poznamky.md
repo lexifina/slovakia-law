@@ -274,6 +274,10 @@
 
 - § 65a ods. 2 písm. s) a § 65b ods. 5 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
 
+- 23hab) Napríklad stavebný zákon, zákon č. 220/2004 Z. z. v znení neskorších predpisov.
+
+- 23hac) § 28 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
+
 - 23hb) Zákon č. 229/1991 Zb. v znení neskorších predpisov.
 
 - Zákon Národnej rady Slovenskej republiky č. 180/1995 Z. z. v znení neskorších predpisov.
