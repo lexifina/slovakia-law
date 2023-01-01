@@ -22,6 +22,14 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 
 - 3. V § 9 ods. 9 sa slová „odsekov 1 až 6“ nahrádzajú slovami „odsekov 1 až 7“.
 
+- 4. V § 13 písm. e) sa za šiesty bod vkladá nový siedmy bod, ktorý znie:
+
+- „7.
+
+- biologicky rozložiteľný odpad z veľkoobchodu, maloobchodu a distribúcie,“.
+
+  - Doterajšie body 7, 8, 9, 9.1 a 9.2 sa označujú ako body 8, 9, 10, 10.1 a 10.2.
+
 - 5. V § 14 ods. 1 písm. i) sa vypúšťa bodkočiarka a slová „na dlhšie zhromažďovanie môže dať súhlas orgán štátnej správy odpadového hospodárstva len pôvodcovi odpadu“.
 
 - 6. V § 15 odseky 4 až 6 znejú:
@@ -173,6 +181,8 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
   - Poznámka pod čiarou k odkazu 109a znie:
 
   - „<sup>109a</sup>) § 12 a 18 zákona č. 540/2001 Z. z. o Štátnej štatistike v znení neskorších predpisov.“.
+
+- 34. V § 81 ods. 22 sa slová „jedného kalendárneho roka“ nahrádzajú slovami „dvoch kalendárnych rokov“.
 
 - 35. § 81 sa dopĺňa odsekom 27, ktorý znie:
 
