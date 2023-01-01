@@ -1,1 +1,1 @@
-Príloha č. 2 k nariadeniu vlády č. 630/2008 Z. z. [Príloha č. 2 k nariadeniu vlády č. 630/2008 Z. z.](../assets/96164cd2a0019314425adebc2ef065466d355368c0dceccbe091705e2c40e27c.pdf)
+Príloha č. 2 k nariadeniu vlády č. 630/2008 Z. z. [Príloha č. 2 k nariadeniu vlády č. 630/2008 Z. z.](../assets/451df8ace6ff6732205181fe2a9bb0095d1e76fe1cc945c43c9ba6187d926d26.pdf)
