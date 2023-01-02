@@ -1,0 +1,1 @@
+Príloha č. 2 k vyhláške č. 131/2018 Z. z. [VZOR POVOLENIA SKÚŠOBNEJ PREVÁDZKY](../assets/84dbd639e590b8f2b611c3211261d206a98fe136a0be699a683b567d378dbb12.pdf)
