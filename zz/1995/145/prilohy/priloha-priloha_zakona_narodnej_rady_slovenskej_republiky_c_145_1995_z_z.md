@@ -1882,7 +1882,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
       - y) povolenie skúšobnej prevádzky vozidla inej ako v písmene z) .............. 100 eur
 
-      - z) povolenie skúšobnej prevádzky vozidla, ak sa skúšobná prevádzka vozidla vykonáva v rámci výskumu na zvýšenie bezpečnosti cestnej premávky a typový schvaľovací orgán má záujem o výsledky tohto výskumu z dôvodu zmeny technických požiadaviek ...................... 10 eur.
+      - z) povolenie skúšobnej prevádzky vozidla, ak sa skúšobná prevádzka vozidla vykonáva v rámci výskumu na zvýšenie bezpečnosti cestnej premávky a typový schvaľovací orgán má záujem o výsledky tohto výskumu z dôvodu zmeny technických požiadaviek ...................... 10 eur
+
+      - aa) povolenie prevádzky automatizovaného doručovacieho vozidla ................... 100 eur
 
     - Splnomocnenie
 
