@@ -56,9 +56,23 @@
 
 - 17) Nariadenie vlády Slovenskej republiky č. 354/2006 Z. z., ktorým sa ustanovujú požiadavky na vodu určenú na ľudskú spotrebu a kontrolu kvality vody určenej na ľudskú spotrebu v znení nariadenia vlády Slovenskej republiky č. 496/2010 Z. z.
 
-- 18) § 19 ods. 1 a 2 zákona č. 355/2007 Z. z. v znení neskorších predpisov.
+- 17a) § 17b zákona č. 355/2007 Z. z. v znení neskorších predpisov.
 
-- 19) § 3 ods. 1 písm. b) zákona č. 355/2007 Z. z.
+- 17b) § 12 ods. 1 zákona č. 442/2002 Z. z. v znení neskorších predpisov,
+
+- § 12 ods. 2 písm. p) a § 17 ods. 7 zákona č. 355/2007 Z. z. v znení zákona č. 517/2022 Z. z.
+
+- 17c) § 3 ods. 1 písm. b) zákona č. 355/2007 Z. z. v znení neskorších predpisov.
+
+- 17d) § 3 ods. 1 písm. c) zákona č. 355/2007 Z. z. v znení neskorších predpisov.
+
+- 17e) § 17c ods. 3 zákona č. 355/2007 Z. z. v znení zákona č. 517/2022 Z. z.
+
+- 17f) § 13 ods. 4 písm. o) zákona č. 355/2007 Z. z. v znení neskorších predpisov.
+
+- 17g) § 62 ods. 1 písm. w) zákona č. 355/2007 Z. z v znení zákona č. 517/2022 Z. z.
+
+- 18) § 19 ods. 1 a 2 zákona č. 355/2007 Z. z. v znení neskorších predpisov.
 
 - 19a) § 3 ods. 1 písm. c) zákona č. 355/2007 Z. z.
 
@@ -152,9 +166,7 @@
 
 - 40) Zákon č. 305/2018 Z. z. o chránených oblastiach prirodzenej akumulácie vôd a o zmene a doplnení niektorých zákonov.
 
-- 44) Zákon č. 355/2007 Z. z. v znení neskorších predpisov.
-
-- 45) § 13 zákona č. 355/2007 Z. z. v znení neskorších predpisov.
+- 44) § 13 ods. 3 písmeno d) zákona č. 355/2007 Z. z. v znení zákona č. 517/2022 Z. z.
 
 - 45a) § 1 nariadenia vlády Slovenskej republiky č. 438/2005 Z. z. o podrobnostiach obsahu žiadosti o úhradu náhrady za obmedzenie bežného obhospodarovania pozemku a o spôsobe výpočtu náhrady.
 
@@ -229,6 +241,8 @@
 - 61f) Nariadenie vlády Slovenskej republiky č. 167/2015 Z. z.
 
 - 61g) § 12 zákona č. 305/2018 Z. z.
+
+- 61h) § 13 ods. 4 písm. n) zákona č. 355/2007 Z. z. v znení neskorších predpisov.
 
 - 62) § 8 až 13 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení zákona č. 502/2001 Z. z.
 
