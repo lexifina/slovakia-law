@@ -1,8 +1,10 @@
-- 1) § 2 písm. m) zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení zákona č. 384/2009 Z. z.
+- 1) § 17 ods. 1 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení zákona č. 517/2022 Z. z.
 
-- 1a) Zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 1a) Zákon č. 355/2007 Z. z. v znení neskorších predpisov.
 
 - 1aa) § 2 ods. 1 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 1ab) § 2 písm. m) zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení zákona č. 384/2009 Z. z.
 
 - 1b) § 10 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
 
@@ -32,11 +34,11 @@
 
 - 7) Napríklad zákon č. 364/2004 Z. z. v znení zákona č. 587/2004 Z. z.
 
-- 7a) § 17 zákona č. 355/2007 Z. z.
-
-- Nariadenie vlády Slovenskej republiky č. 354/2006 Z. z., ktorým sa ustanovujú požiadavky na vodu určenú na ľudskú spotrebu a kontrolu kvality vody určenej na ľudskú spotrebu.
+- 7a) § 17 ods. 6 zákona č. 355/2007 Z. z. v znení zákona č. 517/2022 Z. z.
 
 - 7aa) § 7 zákona č. 364/2004 Z. z. v znení zákona č. 230/2005 Z. z.
+
+- 7b) § 62 ods. 1 písm. w) zákona č. 355/2007 Z. z. v znení zákona č. 517/2022 Z. z.
 
 - 8) § 17 ods. 3 a § 17a zákona č. 355/2007 Z. z. v znení neskorších predpisov.
 
@@ -49,6 +51,14 @@
 - 8c) Vyhláška Ministerstva vnútra Slovenskej republiky č. 699/2004 Z. z. o zabezpečení stavieb vodou na hasenie požiarov v znení vyhlášky č. 562/2005 Z. z.
 
 - 8d) § 20 a 22b zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+
+- 8da) § 17c ods. 1 zákona č. 355/2007 Z. z. v znení zákona č. 517/2022 Z. z.
+
+- 8db) § 17c zákona č. 355/2007 Z. z. v znení zákona č. 517/2022 Z. z.
+
+- 8dc) § 5 a 6 zákona č. 355/2007 Z. z. v znení neskorších predpisov.
+
+- 8dd) § 62 ods. 1 písm. w) zákona č. 355/2007 Z. z. v znení zákona č. 517/2022 Z. z.
 
 - 8e) § 11 ods. 4 písm. d) zákona č. 250/2012 Z. z.
 
@@ -110,7 +120,9 @@
 
 - 25) Zákon č. 302/2001 Zb. o samospráve vyšších územných celkov (zákon o samosprávnych krajoch).
 
-- 25a) § 13 ods. 4 písm. n) zákona č. 355/2007 Z. z. v znení zákona č. 150/2017.
+- 25a) § 13 odsek 4 písm. n) zákona č. 355/2007 Z. z. v znení neskorších predpisov.
+
+- 25b) § 13 odsek 4 písm. o) zákona č. 355/2007 Z. z. v znení neskorších predpisov.
 
 - 26) § 6 zákona Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov.
 
