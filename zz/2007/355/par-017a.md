@@ -1,37 +1,65 @@
-# § 17a Povinnosti dodávateľa pitnej vody
+# § 17a Výnimka na použitie pitnej vody, ktorá nespĺňa limit ukazovateľa kvality pitnej vody
 
-(1) Dodávateľom pitnej vody je
+(1) Ak pitná voda nespĺňa limit ukazovateľa kvality pitnej vody, regionálny úrad verejného zdravotníctva môže na použitie takej pitnej vody povoliť v súlade s odsekmi 2 a 3 prvú výnimku, najviac na tri roky. Výnimku na použitie pitnej vody, ktorá nespĺňa limit ukazovateľa kvality pitnej vody, nemožno udeliť pre vodu balenú do spotrebiteľského balenia. Ak počas obdobia, na ktoré bola udelená prvá výnimka, nedošlo k zlepšeniu kvality pitnej vody, môže úrad verejného zdravotníctva výnimočne povoliť druhú výnimku najviac na tri roky.
 
-- a) prevádzkovateľ verejného vodovodu,<sup>24c</sup>)
+(2) Výnimku na použitie pitnej vody, ktorá nespĺňa limit ukazovateľa kvality pitnej vody, možno povoliť len v odôvodnených prípadoch na ukazovatele kvality pitnej vody, ktorých limit je určený ako najvyššia medzná hodnota a pre
 
-- b) fyzická osoba-podnikateľ alebo právnická osoba, ktorá dodáva pitnú vodu alebo používa pitnú vodu v rámci podnikateľskej činnosti alebo ktorá dodáva pitnú vodu alebo používa pitnú vodu vo verejnom záujme a nie je odberateľom<sup>24d</sup>) pitnej vody z verejného vodovodu.
+- a) novú plochu povodia,<sup>24f</sup>)
 
-(2) Dodávateľ pitnej vody je povinný
+- b) nový zdroj znečistenia zistený v ploche povodia alebo novozistené ukazovatele kvality pitnej vody, alebo
 
-- a) zabezpečiť, aby pitná voda spĺňala požiadavky zdravotnej bezpečnosti,
+- c) nepredvídanú a výnimočnú situáciu v existujúcej ploche povodia, ktorá by mohla viesť k dočasne obmedzenému prekročeniu limitov ukazovateľa kvality pitnej vody; pre takúto situáciu sa nemôže udeliť druhá výnimka.
 
-- b) zabezpečiť pravidelné monitorovanie kvality pitnej vody podľa všeobecne záväzného právneho predpisu vydaného podľa § 62 písm. aa),
+(3) Výnimku na použitie pitnej vody, ktorá nespĺňa limit ukazovateľa kvality pitnej vody možno povoliť, ak výnimkou povolená hodnota ukazovateľa kvality pitnej vody neohrozí zdravie ľudí a zásobovanie pitnou vodou v oblasti, v ktorej pitná voda nespĺňa limit ukazovateľa kvality pitnej vody nemožno zabezpečiť inými primeranými prostriedkami.
 
-- c) vypracovať, priebežne prehodnocovať a najmenej raz za päť rokov aktualizovať program monitorovania kvality pitnej vody,
+(4) Žiadosť o výnimku na použitie pitnej vody podľa § 13 ods. 4 písm. m), ktorá nespĺňa limit ukazovateľa kvality pitnej vody, obsahuje
 
-- d) predkladať regionálnemu úradu verejného zdravotníctva program monitorovania kvality pitnej vody a každú jeho zmenu,
+- a) údaje podľa § 13 ods. 5 písm. a) a b),
 
-- e) predkladať elektronicky výsledky monitorovania kvality pitnej vody regionálnemu úradu verejného zdravotníctva do troch mesiacov po ukončení laboratórnych analýz,
+- b) odôvodnenie žiadosti o výnimku,
 
-- f) zabezpečiť evidenciu monitorovania kvality pitnej vody a uchovávať ju desať rokov,
+- c) nový návrh limitu ukazovateľa kvality pitnej vody, ktorého sa výnimka týka, a jeho uplatňovanie pre skupiny obyvateľstva,
 
-- g) používať pri zásobovaní pitnou vodou výrobky určené na styk s pitnou vodou a látky alebo zmesi určené na chemickú úpravu pitnej vody alebo biocídne výrobky určené na dezinfekciu pitnej vody,
+- d) obdobie, na ktoré sa výnimka žiada,
 
-- h) používať pri úprave pitnej vody len technologické postupy, výrobky, látky, zmesi a biocídne výrobky, ktoré na takéto použitie určil regionálny úrad verejného zdravotníctva,
+- e) vyhodnotenie zásobovania pitnou vodou v oblasti, ktorej sa výnimka týka, vrátane množstva dodávanej pitnej vody za deň, počtu zásobovaných obyvateľov a informácie, či sa týka aj potravinárskych podnikov; vyhodnotenie musí preukázať, že dodávanie pitnej vody nemožno zabezpečiť iným spôsobom,
 
-- i) vykonávať čistenie a údržbu vodohospodárskych zariadení, plôch, priestorov a objektov, ktoré sú súčasťou vodovodného rozvodného systému pitnej vody alebo ktoré môžu nepriaznivo ovplyvniť kvalitu pitnej vody,
+- f) laboratórne analýzy kvality pitnej vody,
 
-- j) vykonať bezodkladne opakovaný odber vzorky pitnej vody, ak sa pri kontrole kvality pitnej vody zistilo prekročenie limitu ustanoveného medznou hodnotou alebo najvyššou medznou hodnotou všeobecne záväzným právnym predpisom vydaným podľa § 62 písm. aa),
+- g) hodnotenie zdravotného rizika vykonané odborne spôsobilou osobou podľa § 15 ods. 1 písm. b) na hodnotenie zdravotných rizík zo životného prostredia, ktoré vyplýva z nedodržania limitu ukazovateľa kvality pitnej vody pre zásobovaných obyvateľov vrátane odporúčaní na ochranu obyvateľov, pre ktorých by výnimka mohla predstavovať riziko ohrozenia zdravia,
 
-- k) oznámiť bezodkladne regionálnemu úradu verejného zdravotníctva prekročenie limitu ustanoveného medznou hodnotou alebo najvyššou medznou hodnotou všeobecne záväzným právnym predpisom vydaným podľa § 62 písm. aa),
+- h) návrh programu monitorovania, ktorý, ak je to potrebné, zahŕňa aj zvýšenú monitorovaciu činnosť,
 
-- l) zistiť príčiny prekročenia limitu ustanoveného medznou hodnotou alebo najvyššou medznou hodnotou všeobecne záväzným právnym predpisom vydaným podľa § 62 písm. aa) a prijať opatrenia na obnovenie kvality pitnej vody; do obnovenia kvality pitnej vody vykonávať opatrenia nariadené regionálnym úradom verejného zdravotníctva,
+- i) nápravné opatrenia a odhad súvisiacich nákladov,
 
-- m) informovať dotknutých obyvateľov o zhoršení kvality pitnej vody, ktoré by mohlo ohroziť ich zdravie, a o opatreniach, ktoré musia vykonať,
+- j) spôsob informovania obyvateľov podľa § 17a ods. 6 písm. a).
 
-- n) sprístupniť verejnosti primerané výsledky manažmentu rizík pri zásobovaní pitnou vodou.
+(5) Rozhodnutie o výnimke na použitie pitnej vody, ktorá nespĺňa limit ukazovateľa kvality pitnej vody, obsahuje
+
+- a) odôvodnenie výnimky vrátane podmienok, za akých bola výnimka povolená,
+
+- b) najvyššiu povolenú hodnotu ukazovateľa kvality pitnej vody, ktorého sa výnimka týka,
+
+- c) obdobie platnosti výnimky,
+
+- d) vymedzenie oblasti, ktorej sa výnimka týka, množstvo dodávanej pitnej vody za deň, počet dotknutých obyvateľov a informáciu, či sa výnimka týka aj potravinárskych podnikov,
+
+- e) výsledky kontroly kvality pitnej vody,
+
+- f) program monitorovania,
+
+- g) súhrn návrhu nevyhnutných nápravných opatrení vrátane harmonogramu prác, odhadu nákladov a zabezpečenia revízie opatrení.
+
+(6) Osoba, ktorej úrad verejného zdravotníctva alebo regionálny úrad verejného zdravotníctva povolil výnimku, je povinná
+
+- a) informovať bezodkladne obyvateľov, ktorých sa výnimka týka, o povolení výnimky a o podmienkach jej povolenia; ak výnimka môže pre niektorú časť obyvateľov predstavovať možné ohrozenie zdravia, do informácie je povinná zahrnúť aj pokyny na ochranu zdravia ľudí,
+
+- b) vykonať pred uplynutím platnosti každej povolenej výnimky kontrolu kvality pitnej vody a predložiť výsledky kontroly kvality pitnej vody a informácie o dosiahnutom zlepšení kvality pitnej vody regionálnemu úradu verejného zdravotníctva, ak išlo o prvú výnimku na použitie pitnej vody, ktorá nespĺňa limit ukazovateľa kvality pitnej vody, alebo úradu verejného zdravotníctva, ak išlo o druhú výnimku na použitie pitnej vody, ktorá nespĺňa limit ukazovateľa kvality pitnej vody.
+
+(7) Regionálny úrad verejného zdravotníctva môže nesplnenie limitu ukazovateľa kvality pitnej vody na základe rozsahu prekročenia a súvisiaceho rizika ohrozenia zdravia určiť za nevýznamné, ak
+
+- a) limit ukazovateľa kvality pitnej vody za posledný rok nebol prekročený celkovo viac ako 30 dní a
+
+- b) prijatými opatreniami dôjde k obnoveniu kvality pitnej vody do 30 dní odo dňa zistenia nesplnenia limitu ukazovateľa kvality pitnej vody.
+
+(8) Ak regionálny úrad verejného zdravotníctva určí nesplnenie limitu ukazovateľa kvality pitnej vody ako nevýznamné, nariadi výnimku na použitie pitnej vody, ktorá nespĺňa limit ukazovateľa kvality pitnej vody, nariadením opatrenia podľa § 12 ods. 2 písm. p) alebo podľa § 12 ods. 3 písm. j); v rozhodnutí o nariadení opatrenia určí len najvyššiu povolenú hodnotu prekročeného ukazovateľa kvality pitnej vody a lehotu na obnovenie kvality pitnej vody.

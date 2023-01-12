@@ -24,8 +24,6 @@
 
 - 9) Zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov.
 
-- 9a) Nariadenie vlády Slovenskej republiky č. 354/2006 Z. z., ktorým sa ustanovujú požiadavky na vodu určenú na ľudskú spotrebu a kontrolu kvality vody určenej na ľudskú spotrebu v znení nariadenia vlády Slovenskej republiky č. 496/2010 Z. z.
-
 - 9b) § 8 ods. 1 zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení zákona č. 306/2012 Z. z.
 
 - 9c) § 8 ods. 7 zákona č. 364/2004 Z. z. v znení zákona č. 306/2012 Z. z.
@@ -49,6 +47,8 @@
 - § 16 výnosu Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky z 25. júla 2007 č. 16826/2007-OL, ktorým sa vydáva hlava Potravinového kódexu Slovenskej republiky upravujúca požiadavky na potraviny na osobitné výživové účely a na výživové doplnky (oznámenie č. 370/2007 Z. z.).
 
 - 12e) § 12 ods. 7 zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov.
+
+- 12f) Zákon č. 7/2010 Z. z. o ochrane pred povodňami v znení neskorších predpisov.
 
 - 13) Čl. 2 ods. 1 písm. a) nariadenia Európskeho parlamentu a Rady (ES) č. 1223/2009 z 30. novembra 2009 o kozmetických výrobkoch (Ú. v. EÚ L 342, 22. 12. 2009) v platnom znení.
 
@@ -88,8 +88,6 @@
 
 - 13d) § 8 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
-- 13e) § 4c ods. 6 písm. d) zákona č. 587/2004 Z. z. o Environmentálnom fonde a o zmene a doplnení niektorých zákonov v znení zákona č. 292/2017 Z. z.
-
 - 14) Zákon č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení zákona č. 431/2004 Z. z.
 
 - 14a) Čl. 2 ods. 1 písm. q) nariadenia (ES) č.1223/2009 v platnom znení.
@@ -102,9 +100,21 @@
 
 - 16a) § 64 ods. 6 zákona č. 448/2008 Z. z. v znení zákona č. 221/2019 Z. z.
 
+- 16aa) § 32 zákona č. 364/2004 Z. z. v znení neskorších predpisov.
+
 - 17) Zákon č. 193/2005 Z. z. o rastlinolekárskej starostlivosti.
 
 - 18) Zákon č. 470/2005 Z. z. o pohrebníctve a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
+- 19) § 36 ods. 5 písm. g) zákona č. 442/2002 Z. z. v znení zákona č. 517/2022 Z. z.
+
+- § 61 písm. l) zákona č. 364/2004 Z. z. v znení zákona č. 517/2022 Z. z.
+
+- 19a) § 36 ods. 5 písm. h) zákona č. 442/2002 Z. z. v znení zákona č. 517/2022 Z. z.
+
+- § 61 písm. m) zákona č. 364/2004 Z. z. v znení zákona č. 517/2022 Z. z.
+
+- 19b) § 7a ods. 8 zákona č. 364/2004 Z. z. v znení zákona č. 517/2022 Z. z.
 
 - 20a) § 140b ods. 4 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 540/2008 Z. z.
 
@@ -116,23 +126,49 @@
 
 - 23a) Zákon č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 315/2012 Z. z.
 
-- 24) Zákon č. 505/2009 Z. z. o akreditácii orgánov posudzovania zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 24) Čl. 3 ods. 2 nariadenia Európskeho parlamentu a Rady (ES) č. 178/2002 z 28. januára 2002, ktorým sa ustanovujú všeobecné zásady a požiadavky potravinového práva, zriaďuje Európsky úrad pre bezpečnosť potravín a stanovujú postupy v záležitostiach bezpečnosti potravín (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 6; Ú. v. ES L 31, 1. 2. 2002) v platnom znení.
 
-- 24a) Nariadenie Európskeho parlamentu a Rady (ES) č. 1907/2006 z 18. decembra 2006 o registrácii, hodnotení, autorizácii a obmedzovaní chemikálií (REACH) a o zriadení Európskej chemickej agentúry, o zmene a doplnení smernice 1999/45/ES a o zrušení nariadenia Rady (EHS) č. 793/93 a nariadenia Komisie (ES) č. 1488/94, smernice Rady 76/769/EHS a smerníc Komisie 91/155/EHS, 93/67/EHS, 93/105/ES a 2000/21/ES (Ú. v. EÚ L 396, 30. 12. 2006) v platnom znení.
+- 24a) § 4 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. v znení neskorších predpisov.
 
-- Nariadenie Európskeho parlamentu a Rady (ES) č. 1272/2008 zo 16. decembra 2008 o klasifikácii, označovaní a balení látok a zmesí, o zmene, doplnení a zrušení smerníc 67/548/EHS a 1999/45/ES a o zmene a doplnení nariadenia (ES) č. 1907/2006 ( Ú. v. EÚ L 353, 31. 12. 2008) v platnom znení.
+- 24b) § 2 ods. 3 výnosu Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky z 15. marca 2004 č. 608/9/2004-100, ktorým sa vydáva hlava Potravinového kódexu Slovenskej republiky upravujúca prírodnú minerálnu vodu, pramenitú vodu a balenú pitnú vodu (oznámenie č. 198/2004 Z. z.).
 
-- 24b) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 528/2012 z 22. mája 2012 o sprístupňovaní biocídnych výrobkov na trhu a ich používaní (Ú. v. EÚ L 167, 27. 6. 2012) v platnom znení.
+- 24c) § 2 ods. 4 zákona č. 538/2005 Z. z. o prírodných liečivých vodách, prírodných liečebných kúpeľoch, kúpeľných miestach a prírodných minerálnych vodách a o zmene a doplnení niektorých zákonov.
 
-- 24c) § 3 ods. 1 zákona č. 442/2002 Z. z. o verejných vodovodoch a verejných kanalizáciách a o zmene a doplnení zákona č. 276/2001 Z. z. o regulácii v sieťových odvetviach v znení zákona č. 394/2009 Z. z.
+- 24d) § 2 ods. 2 zákona č. 538/2005 Z. z.
 
-- 24d) § 4 ods. 3 zákona č. 442/2002 Z. z.
+- 24e) § 2 písm. c) zákona č. 505/2009 Z. z. o akreditácii orgánov posudzovania zhody a o zmene a doplnení niektorých zákonov.
 
-- 24e) § 43b zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
+- 24f) § 2 písm. aw) zákona č. 364/2004 Z. z. v znení zákona č. 517/2022 Z. z.
 
-- 24f) § 43c zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
+- 24g) § 4 ods. 1 zákona č. 442/2002 Z. z. v znení neskorších predpisov.
 
-- 24g) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
+- 24h) § 2 písm. q) zákona č. 442/2002 Z. z. v znení zákona č. 517/2022 Z. z.
+
+- 24i) § 7a ods. 3 zákona č. 364/2004 Z. z. v znení zákona č. 517/2022 Z. z.
+
+- 24j) § 12 ods. 5 zákona č. 442/2002 Z. z. v znení zákona č. 517/2022 Z. z.
+
+- 24k) § 5 ods. 3 zákona č. 442/2002 Z. z.
+
+- 24l) § 21 ods. 1 zákona č. 364/2004 Z. z.
+
+- 24m) § 4 ods. 3 zákona č. 442/2002 Z. z.
+
+- 24n) Čl. 3 ods. 3 nariadenia (ES) č. 178/2002.
+
+- 24o) § 15 ods. 13 zákona č. 442/2002 Z. z. v znení zákona č. 517/2022 Z. z.
+
+- 24p) § 43b zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
+
+- 24q) § 43c zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
+
+- 24r) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
+
+- 24s) § 43c zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
+
+- 24t) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 528/2012 z 22. mája 2012 o sprístupňovaní biocídnych výrobkov na trhu a ich používaní (Ú. v. EÚ L 167, 27. 6. 2012) v platnom znení.
+
+- 24u) Napríklad STN EN 12926: 2015 Chemikálie používané pri úprave vody na pitnú vodu. Peroxodisíran sodný. (75 8165) (EN), STN EN 14805: 2022 Chemikálie používané pri úprave vody na pitnú vodu. Chlorid sodný na elektrochloráciu na mieste. (75 8166) (EN), STN EN ISO 19458 Kvalita vody. Odber vzoriek na mikrobiologickú analýzu. (ISO 19458: 2006) (75 7770) a pod.
 
 - 25) § 3 ods. 2 zákona č. 364/2004 Z. z. v znení zákona č. 384/2009 Z. z.
 
@@ -141,6 +177,8 @@
 - 25b) § 3 ods. 3 zákona č. 364/2004 Z. z. v znení zákona č. 384/2009 Z. z.
 
 - 25c) § 59 ods. 1 písm. e) zákona č. 364/2004 Z. z. v znení neskorších predpisov.
+
+- 25d) § 40 ods. 20 zákona č. 578/2004 Z. z.
 
 - 26) Zákon č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov.
 
@@ -160,9 +198,9 @@
 
 - Zákon č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov.
 
-- 32) § 52 ods. 1 zákona č. 305/2005 Z. z.
+- 32) § 45 ods. 1 písm. a) zákona č. 305/2005 Z. z. v znení neskorších predpisov.
 
-- 33) § 47 ods. 3 písm. b) prvý bod a písm. c) druhý bod a § 63 ods. 4 zákona č. 305/2005 Z. z.
+- 33) § 45 ods. 1 písm. e) zákona č. 305/2005 Z. z. v znení neskorších predpisov.
 
 - 33a) § 3d ods. 5 zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
 
@@ -250,6 +288,18 @@
 
 - 44) Nariadenie vlády Slovenskej republiky č. 355/2006 Z. z.
 
+- 44a) Nariadenie Komisie (EÚ) 2020/1149 z 3. augusta 2020, ktorým sa mení príloha XVII k nariadeniu Európskeho parlamentu a Rady (ES) č. 1907/2006 o registrácii, hodnotení, autorizácii a obmedzovaní chemikálií (REACH), pokiaľ ide o diizokyanáty (Ú. v. EÚ L 252, 4. 8. 2020).
+
+- 44b) Príloha XVII položka 74 body 1 a 2 nariadenia (EÚ) 2020/1149.
+
+- 44c) Príloha XVII položka 74 body 4 a 5 nariadenia (EÚ) 2020/1149.
+
+- 44d) Príloha XVII položka 74 bod 4 nariadenia (EÚ) 2020/1149.
+
+- 44e) § 23 a 24 zákona č. 124/2006 Z. z. v znení neskorších predpisov.
+
+- 44f) Príloha XVII položka 74 bod 8 nariadenia (EÚ) 2020/1149.
+
 - 45) Nariadenie vlády Slovenskej republiky č. 356/2006 Z. z. o ochrane zdravia zamestnancov pred rizikami súvisiacimi s expozíciou karcinogénnym a mutagénnym faktorom pri práci.
 
 - 45a) § 11 nariadenia vlády Slovenskej republiky č. 253/2006 Z. z.
@@ -304,7 +354,15 @@
 
 - 62) § 12 až 15 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov.
 
+- 62a) § 3 ods. 2 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení zákona č. 117/1998 Z. z.
+
+- 62b) § 3 zákona č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu v znení neskorších predpisov.
+
 - 63) Zákon č. 448/2008 Z. z. v znení neskorších predpisov.
+
+- 63a) Nariadenie vlády Slovenskej republiky č. 391/2006 Z. z. o minimálnych bezpečnostných a zdravotných požiadavkách na pracovisko.
+
+- 63b) Príloha č. 1 osemnásty bod nariadenia vlády Slovenskej republiky č. 391/2006 Z. z.
 
 - 64) § 3 ods. 6 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov.
 

@@ -1,3 +1,3 @@
 Príloha č. 6 k zákonu č. 355/2007 Z. z.
 
-- Individuálne hlásenie prenosnej choroby ošetrujúcimi lekármi [Vzor 06](../assets/8b76b5ad8affd06d3919d3637936871cbd21ca1e3e5207e013854f36244e3fdd.pdf)
+- Individuálne hlásenie prenosnej choroby ošetrujúcimi lekármi [Vzor 06](../assets/d6efb719a1c4e8e5f88f0a058599c7bce5463383fca7be420da60e1dbfdccbb7.pdf)

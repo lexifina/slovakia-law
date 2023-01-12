@@ -1,1 +1,1 @@
-Príloha č. 3g k zákonu č. 355/2007 Z. z. [príloha 3g](../assets/11316e82dc62540b4980eb6617b5700c2acf4c3834191833e4a321651d2cc184.pdf)
+Príloha č. 3g k zákonu č. 355/2007 Z. z. [príloha 3g](../assets/e9e5858be8319746bd7209308e2a18e6554b9f6c9ab2d3d0efc16c5c5a77ceb5.pdf)
