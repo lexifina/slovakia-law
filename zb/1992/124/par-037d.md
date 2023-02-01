@@ -8,9 +8,11 @@
 
 - c) vstupovať do chráneného vojenského objektu [§ 37c ods. 1 písm. a)],
 
-- d) činnosti lietadla spôsobilého lietať bez pilota v chránenom vojenskom objekte do výšky 120 metrov nad úrovňou zeme [§ 37c ods. 1 písm. b)].
+- d) činnosti bezpilotného lietadla vo vojenskom objekte do výšky 120 metrov nad úrovňou zeme alebo do výšky hornej hranice určenej časti vzdušného priestoru, v ktorom bolo z obranných a bezpečnostných dôvodov obmedzené vykonávanie letov civilných lietadiel [§ 37c ods. 1 písm. b) prvý bod],
 
-(2) Za priestupky podľa odseku 1 možno uložiť pokutu do 500 eur.
+- e) činnosti bezpilotného lietadla v priestore nad vojenským konvojom a vojenským transportom do výšky 120 metrov nad úrovňou zeme, presúvajúcim sa po trase a v termíne, ktoré boli zverejnené na webovom sídle ministerstva obrany [§ 37c ods. 1 písm. b) druhý bod].
+
+(2) Za priestupky podľa odseku 1 možno uložiť pokutu do 500 eur. V blokovom konaní možno za priestupky podľa odseku 1 uložiť pokutu do 300 eur.
 
 (3) Priestupky podľa odseku 1 objasňuje Vojenská polícia.
 
