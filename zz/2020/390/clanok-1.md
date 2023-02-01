@@ -28,6 +28,32 @@ Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zá
 
 - <sup>2ac</sup>) Napríklad STN 56 0280-6 Metódy skúšania tabakových výrobkov. Stanovenie hmotnosti obsahu balíčkov tabaku (56 0280).“.
 
+- 5. V § 6 odseky 1 až 3 znejú:
+
+- „(1)
+
+- Sadzba dane z tabakových výrobkov okrem cigariet a s výnimkou podľa § 44ab sa ustanovuje takto:
+
+- opis tovaru | sadzba dane
+
+- cigary, cigarky | 89,30 eura/kg
+
+- tabak | 101,30 eura/kg.
+
+- (2)
+
+- Sadzba dane z cigariet s výnimkou podľa odseku 3 a § 44ab sa ustanovuje takto:
+
+- kombinovaná sadzba dane | |
+
+- opis tovaru | špecifická časť | percentuálna časť
+
+- cigarety | 84,60 eura/1 000 kusov | 23 % z ceny cigariet.
+
+- (3)
+
+- Minimálna sadzba dane z cigariet je 132,10 eura/1 000 kusov s výnimkou podľa § 44ab.“.
+
 - 6. V § 6 ods. 5 sa za slovom „poradí“ vypúšťa bodkočiarka a slová „to neplatí pri označovaní spotrebiteľského balenia cigár podľa § 9 ods. 7, ak ide o cigary uvedené v § 4 ods. 3 písm. b) prvom bode“.
 
 - 7. V § 7 sa za písmeno g) vkladá nové písmeno h), ktoré znie:
@@ -211,6 +237,8 @@ Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zá
 - Na odňatie a zánik povolenia sa použije § 19 ods. 8 až 11 primerane. Na vyradenie držiteľa povolenia na obchodovanie s tabakovou surovinou z evidencie držiteľov povolenia na obchodovanie s tabakovou surovinou sa použije § 19 ods. 10 a 11 primerane.“.
 
 - 50. V § 19aa ods. 2 sa vypúšťa posledná veta.
+
+- 51. V § 19aa ods. 3 tretej vete sa slová „sadzby dane na tabak“ nahrádzajú slovami „187,80 eura/kg“.
 
 - 52. V § 19aa odsek 8 znie:
 
