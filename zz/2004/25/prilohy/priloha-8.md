@@ -1,1 +1,1 @@
-Príloha č. 8 k vyhláške č. 25/2004 Z. z. [Príloha č. 8 k vyhláške č. 25/2004 Z. z.](../assets/fbda0e77902c73987342de736de8e827d86af277e12660de7ef6dc6a2d6ec12a.pdf)
+Príloha č. 8 k vyhláške č. 25/2004 Z. z. [Príloha č. 8 k vyhláške č. 25/2004 Z. z.](../assets/10140ea91f1bb30cb24e6ebacf16a1aae8b5f881af86d31a5e37ae3067220333.pdf)

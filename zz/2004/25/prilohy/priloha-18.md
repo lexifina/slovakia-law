@@ -1,1 +1,1 @@
-Príloha č. 18 k vyhláške č. 25/2004 Z. z. [Príloha č. 18 k vyhláške č. 25/2004 Z. z.](../assets/3ccb3a7a44026ee867cfd12d1340cc23e15e2ae440bde7e10280eeef2fe0f072.pdf)
+Príloha č. 18 k vyhláške č. 25/2004 Z. z. [Príloha č. 18 k vyhláške č. 25/2004 Z. z.](../assets/458de2221471c9b541b68ff491ea785eb743864509ae5feeda285aa0bf8a8c4f.pdf)

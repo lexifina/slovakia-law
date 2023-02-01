@@ -1,1 +1,1 @@
-Príloha č. 27 k vyhláške č. 25/2004 Z. z. [Príloha č. 27 k vyhláške č. 25/2004 Z. z.](../assets/9a0b7d818be0c9c66ba350b75e57a5f48bf00271ac3c83c9483d680cad4ab6a8.pdf)
+Príloha č. 27 k vyhláške č. 25/2004 Z. z. [Príloha č. 27 k vyhláške č. 25/2004 Z. z.](../assets/47c9f04646d51d7e3590ce3183ad4249e29bef55c2a7e625b3766b8509af69a5.pdf)

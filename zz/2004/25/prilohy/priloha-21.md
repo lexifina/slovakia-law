@@ -1,1 +1,1 @@
-Príloha č. 21 k vyhláške č. 25/2004 Z. z. [Príloha č. 21 k vyhláške č. 25/2004 Z. z.](../assets/84955cd11fbcb59b834d334dbe100e0aad03f4f804943cc12baa6f194fa7a6c9.pdf)
+Príloha č. 21 k vyhláške č. 25/2004 Z. z. [Príloha č. 21 k vyhláške č. 25/2004 Z. z.](../assets/e0d3f3dbd0a60d9357dfe8c22f5789fff365eaa7ec91f2a25e28a51ab83e5eab.pdf)

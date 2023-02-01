@@ -10,9 +10,7 @@
 
 - 1e) § 23 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
 
-- 1f) Nariadenie vlády Slovenskej republiky č. 258/1996 Z. z., ktorým sa vydáva Zoznam obcí a vojenských obvodov tvoriacich jednotlivé okresy v znení neskorších predpisov.
-
-- Vyhláška Štatistického úradu Slovenskej republiky č. 112/2012 Z. z., ktorou sa vydáva Štatistický číselník krajín v znení neskorších predpisov.
+- 1f) Napríklad § 54 ods. 4 zákona č. 305/2013 Z. z. v znení zákona č. 273/2015 Z. z., § 25 zákona č. 95/2019 Z. z. o informačných technológiách vo verejnej správe a o zmene a doplnení niektorých zákonov, nariadenie vlády Slovenskej republiky č. 258/1996 Z. z., ktorým sa vydáva Zoznam obcí a vojenských obvodov tvoriacich jednotlivé okresy v znení neskorších predpisov, vyhláška Štatistického úradu Slovenskej republiky č. 112/2012 Z. z., ktorou sa vydáva Štatistický číselník krajín v znení neskorších predpisov.
 
 - 2) § 60 ods. 4 Obchodného zákonníka.
 
@@ -23,6 +21,8 @@
 - 2aaa) § 105b ods. 2 Obchodného zákonníka v znení zákona č. 357/2013 Z. z.
 
 - § 7 ods. 17 zákona č. 530/2003 Z. z. v znení zákona č. 390/2019 Z. z.
+
+- 2aab) § 110a ods. 2 písm. g) Obchodného zákonníka.
 
 - 2ab) § 59b ods. 3 Obchodného zákonníka.
 
