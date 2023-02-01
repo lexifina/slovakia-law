@@ -378,7 +378,19 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 
 - (2)
 
-- Ak fyzickej osobe podľa odseku 1 vznikne povinné dôchodkové poistenie zamestnanca, na určenie vymeriavacieho základu, platenie poistného a na povinnosť zamestnávateľa prihlásiť tohto zamestnanca do registra poistencov a sporiteľov starobného dôchodkového sporenia sa vzťahuje tento zákon v znení účinnom do 31. decembra 2022; na právny vzťah podľa odseku 1 písm. b), ktorý trvá po 31. decembri 2022, sa na účely posúdenia povinného dôchodkového poistenia a určenia vymeriavacieho základu hľadí, akoby zanikol 31. decembra 2022. Ak fyzickej osobe podľa odseku 1 nevznikne povinné dôchodkové poistenie zamestnanca, na určenie vymeriavacieho základu zamestnávateľa a na platenie poistného na úrazové poistenie a poistného na garančné poistenie sa vzťahuje tento zákon v znení účinnom do 31. decembra 2022.“.
+- Ak fyzickej osobe podľa odseku 1 vznikne povinné dôchodkové poistenie zamestnanca, na určenie vymeriavacieho základu, platenie poistného a na povinnosť zamestnávateľa prihlásiť tohto zamestnanca do registra poistencov a sporiteľov starobného dôchodkového sporenia sa vzťahuje tento zákon v znení účinnom do 31. decembra 2022; na právny vzťah podľa odseku 1 písm. b), ktorý trvá po 31. decembri 2022, sa na účely posúdenia povinného dôchodkového poistenia a určenia vymeriavacieho základu hľadí, akoby zanikol 31. decembra 2022. Ak fyzickej osobe podľa odseku 1 nevznikne povinné dôchodkové poistenie zamestnanca, na určenie vymeriavacieho základu zamestnávateľa a na platenie poistného na úrazové poistenie a poistného na garančné poistenie sa vzťahuje tento zákon v znení účinnom do 31. decembra 2022.
+
+- § 293fz
+
+- Prechodné ustanovenie účinné od 1. februára 2023
+
+- (1)
+
+- Sociálna poisťovňa nepredpíše penále alebo odpustí povinnosť zaplatiť predpísané penále, ktoré sa viaže na dlžné poistné a dlžné príspevky na starobné dôchodkové sporenie podľa osobitného predpisu<sup>1</sup>) za celé obdobie pred 1. júlom 2022, splatné do 31. januára 2023, ak toto dlžné poistné a dlžné príspevky na starobné dôchodkové sporenie boli v plnom rozsahu zaplatené do 31. augusta 2023; § 170 ods. 21 posledná veta sa vzťahuje rovnako.
+
+- (2)
+
+- Pôsobnosť podľa odseku 1 patrí vecne príslušnej pobočke, ktorá rozhoduje o uložení penále podľa § 178 ods. l písm. a) deviateho bodu.“.
 
 - 38. Za prílohu č. 3 sa vkladá príloha č. 3aa, ktorá vrátane nadpisu znie:
 
