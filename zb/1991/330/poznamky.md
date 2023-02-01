@@ -70,6 +70,8 @@
 
 - 6ag) § 1 ods. 3 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. v znení zákona č. 24/2015 Z. z.
 
+- 6aga) § 4 ods. 3 písm. h) zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení zákona č. 369/2004 Z. z.
+
 - 6ah) Čl. 4 Ústavy Slovenskej republiky.
 
 - § 11 zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
