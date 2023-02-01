@@ -52,6 +52,8 @@
 
 - 8ad) Čl. 55 nariadenia (EÚ) č. 2015/848 v platnom znení.
 
+- 8ae) § 35 až 39 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
+
 - 8b) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 655/2004 Z. z. o odmenách a náhradách advokátov za poskytovanie právnych služieb v znení neskorších predpisov.
 
 - 8c) § 3 ods. 1 zákona č. 523/2004 Z. z.
@@ -140,9 +142,7 @@
 
 - 25e) § 22 zákona č. 527/2002 Z. z.
 
-- 26) Nariadenie Rady (ES) č. 1346/2000 z 29. mája 2000 o konkurznom konaní (Mimoriadne vydanie Ú. v. EÚ, kap. 19/zv. 01; Ú. v. ES L 160, 30. 6. 2004) v platnom znení.
-
-- Nariadenie (EÚ) č. 2015/848 v platnom znení.
+- 26) Nariadenie (EÚ) č. 2015/848 v platnom znení.
 
 - 26a) Čl. 36 nariadenia (EÚ) č. 2015/848 v platnom znení.
 
@@ -196,7 +196,7 @@
 
 - 33) § 82 ods. 3 až 6 a ods. 10 až 14 zákona č. 483/2001 Z. z. v znení zákona č. 454/2021 Z. z.
 
-- 33a) Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
+- 33a) Zákon č. 305/2013 Z. z. v znení neskorších predpisov.
 
 - 33aa) § 1 ods. 6 zákona č. 90/2016 Z. z. v znení zákona č. 279/2017 Z. z.
 
