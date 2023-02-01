@@ -20,6 +20,8 @@
 
 - 5b) Napríklad Severoatlantická zmluva (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 301/2004 Z. z.) v znení protokolu k Severoatlantickej zmluve o pristúpení Chorvátskej republiky (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 157/2009 Z. z.), protokolu k Severoatlantickej zmluve o pristúpení Albánskej republiky (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 158/2009 Z. z.) a protokolu k Severoatlantickej zmluve o pristúpení Čiernej Hory (oznámenie Ministerstva zahraničných vecí a európskych záležitostí Slovenskej republiky č. 154/2017 Z. z.), Protokol o statuse medzinárodných vojenských veliteľstiev zriadených podľa Severoatlantickej zmluvy (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 551/2004 Z. z.).
 
+- 5c) Čl. 3 ods. 30 nariadenia Európskeho parlamentu a Rady (EÚ) 2018/1139 zo 4. júla 2018 o spoločných pravidlách v oblasti civilného letectva, ktorým sa zriaďuje Agentúra Európskej únie pre bezpečnosť letectva a ktorým sa menia nariadenia Európskeho parlamentu a Rady (ES) č. 2111/2005, (ES) č. 1008/2008, (EÚ) č. 996/2010, (EÚ) č. 376/2014 a smernice Európskeho parlamentu a Rady 2014/30/EÚ a 2014/53/EÚ a zrušujú nariadenia Európskeho parlamentu a Rady (ES) č. 552/2004 a (ES) č. 216/2008 a nariadenie Rady (EHS) č. 3922/91 (Ú. v. EÚ L 212, 22. 8. 2018) v platnom znení.
+
 - 7) Napríklad ústavný zákon č. 227/2002 Z. z., zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
 
 - 8) Zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -91,6 +93,10 @@
 - 31a) § 21 ods. 17 zákona č. 570/2005 Z. z. v znení neskorších predpisov.
 
 - § 206 ods. 6 zákona č. 281/2015 Z. z.
+
+- 31aa) § 63 ods. 1 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
+
+- 31ab) Čl. 2 ods. 2 písm. c) a čl. 4 ods. 1 písm. c) nariadenia Komisie (ES) č. 2150/2005 z 23. decembra 2005, ktorým sa stanovujú spoločné pravidlá pružného využívania vzdušného priestoru (Ú. v. EÚ L 342, 24. 12. 2005).
 
 - 31b) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
