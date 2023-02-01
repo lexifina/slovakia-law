@@ -190,7 +190,7 @@
 
 - Zákon SNR č. 372/1990 Zb. o priestupkoch v znení zákona SNR č. 524/1990 Zb.
 
-- 28a) § 21 Obchodného zákonníka.
+- 28a) § 21 ods. 6 a § 110a Obchodného zákonníka.
 
 - 28aa) § 2a zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 125/2006 Z. z.
 
