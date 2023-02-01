@@ -1,0 +1,1 @@
+Ján Horecký v. r.
