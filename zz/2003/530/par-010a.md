@@ -1,0 +1,5 @@
+## Výmena informácií prostredníctvom systému prepojenia registrov
+
+# § 10a Zápis podniku alebo organizačnej zložky podniku slovenskej právnickej osoby
+
+Registrový súd aj bez návrhu vykoná zápis údajov o podniku alebo o organizačnej zložke podniku slovenskej právnickej osoby, ak zahraničný obchodný register alebo iná evidencia, v ktorej je podnik alebo organizačná zložka podniku slovenskej právnickej osoby zapísaná alebo povinná ukladať listiny, oznámi prostredníctvom systému prepojenia registrov, že došlo k zápisu podniku alebo organizačnej zložky podniku slovenskej právnickej osoby v zahraničnom obchodnom registri alebo inej evidencii; pred vykonaním zápisu údajov o podniku alebo o organizačnej zložke podniku slovenskej právnickej osoby do obchodného registra, registrový súd potvrdí zahraničnému obchodnému registru alebo inej evidencii, v ktorej je podnik alebo organizačná zložka podniku slovenskej právnickej osoby zapísaná alebo povinná ukladať listiny, prostredníctvom systému prepojenia registrov, doručenie tohto oznámenia.

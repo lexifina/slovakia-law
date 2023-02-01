@@ -9,3 +9,5 @@ Príloha k zákonu č. 530/2003 Z. z. v znení neskorších predpisov
   - 3. Smernica Európskeho parlamentu a Rady (EÚ) 2017/1132 zo 14. júna 2017 týkajúca sa niektorých aspektov práva obchodných spoločností (kodifikované znenie) (Ú. v. EÚ L 169/46, 30. 6. 2017).
 
   - 4. Smernica Európskeho parlamentu a Rady (EÚ) 2015/849 z 20. mája 2015 o predchádzaní využívaniu finančného systému na účely prania špinavých peňazí alebo financovania terorizmu, ktorou sa mení nariadenie Európskeho parlamentu a Rady (EÚ) č. 648/2012 a zrušuje smernica Európskeho parlamentu a Rady 2005/60/ES a smernica Komisie 2006/70/ES (Ú. v. EÚ L 141, 5. 6. 2015).
+
+  - 5. Smernica Európskeho parlamentu a Rady (EÚ) 2019/1151 z 20. júna 2019, ktorou sa mení smernica (EÚ) 2017/1132, pokiaľ ide o používanie digitálnych nástrojov a postupov v rámci práva obchodných spoločností (Ú. v. EÚ L 186, 11. 7. 2019).

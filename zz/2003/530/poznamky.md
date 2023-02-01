@@ -32,6 +32,8 @@
 
 - 6a) § 6 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
 
+- 6aa) § 279a Civilného mimosporového poriadku.
+
 - 6b) § 5 ods. 3 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
 
 - 6ba) § 5 ods. 3 zákona č. 305/2013 Z. z.
@@ -58,7 +60,7 @@
 
 - 9) § 93 ods. 3 Obchodného zákonníka.
 
-- 10) § 110 ods. 1 Obchodného zákonníka.
+- 10) § 110 ods. 1 a § 110a Obchodného zákonníka.
 
 - 11) § 108 ods. 1, § 109 ods. 1 a 2 a § 111 Obchodného zákonníka.
 
@@ -120,6 +122,12 @@
 
 - 15ace) § 7 ods. 10 druhá veta zákona č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zmene a doplnení niektorých zákonov v znení zákona č. 494/2022 Z. z.
 
+- 15ach) § 110a Obchodného zákonníka.
+
+- 15aci) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
+- 15acj) § 21 ods. 6 Obchodného zákonníka.
+
 - 15ad) § 68 ods. 4 písm. c) Obchodného zákonníka.
 
 - 15b) § 68 ods. 2 Obchodného zákonníka.
@@ -130,7 +138,7 @@
 
 - 16) Civilný mimosporový poriadok.
 
-- 16a) Vykonávacie nariadenie Komisie (EÚ) 2015/884 z 8. júna 2015, ktorým sa stanovujú technické špecifikácie a postupy potrebné pre systém prepojenia registrov stanovený smernicou Európskeho parlamentu a Rady 2009/101/ES (Ú. v. EÚ L 144, 10. 6. 2015).
+- 16a) Vykonávacie nariadenie Komisie (EÚ) 2021/1042 z 18. júna 2021, ktorým sa stanovujú pravidlá uplatňovania smernice Európskeho parlamentu a Rady (EÚ) 2017/1132, pokiaľ ide o technické špecifikácie a postupy pre systém prepojenia registrov, a ktorým sa zrušuje vykonávacie nariadenie Komisie (EÚ) 2020/2244 (Ú. v. EÚ L 225, 25. 6. 2021).
 
 - 17) Zákon č. 150/2001 Z. z. o daňových orgánoch a ktorým sa mení a dopĺňa zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení zákona č. 182/2002 Z. z.
 
@@ -161,6 +169,8 @@
 - 23a) Zákon č. 200/2011 Z. z. o Obchodnom vestníku a o zmene a doplnení niektorých zákonov.
 
 - 23aa) § 23a zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
+
+- 23aaa) Bod 9 prílohy k Vykonávaciemu nariadeniu (EÚ) 2021/1042.
 
 - 23ab) § 3 písm. l) zákona č. 305/2013 Z. z. v znení zákona č. 273/2015 Z. z.
 
