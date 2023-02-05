@@ -310,6 +310,44 @@ Zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákono
 
 - Podmienky a postup podľa § 37 ods. 10 a 12 špecificky pre zabezpečenie činností agregátora, prevádzkovateľa zariadenia na uskladňovanie elektriny, energetického spoločenstva a aktívneho odberateľa určí úrad tak, aby organizátor krátkodobého trhu s elektrinou bol schopný výkon týchto činností plnohodnotne zabezpečovať prostredníctvom dátového a funkčného rozhrania ním prevádzkovaného elektronického systému najneskôr od 1. júla 2024.“.
 
+- 9. Za § 87 sa vkladá § 87a, ktorý vrátane nadpisu znie:
+
+- „§ 87a
+
+- Osobitné ustanovenie upravujúce pravidlá pri obchodovaní s ropou a ropnými výrobkami, na ktoré sa vzťahujú sankcie
+
+- (1)
+
+- Právnická osoba alebo fyzická osoba, ktorá vyrába ropné výrobky podľa osobitného predpisu<sup>84a</sup>) z ropy, na ktorú sa vzťahujú sankcie podľa osobitného predpisu,<sup>84b</sup>) je povinná o takýchto ropných výrobkoch a rope viesť hmotnostnú bilanciu a označovať ich v súlade so všeobecne záväzným právnym predpisom vydaným podľa § 95 ods. 1 písm. p).
+
+- (2)
+
+- Právnická osoba alebo fyzická osoba, ktorá dováža na územie Slovenskej republiky ropu, na ktorú sa vzťahujú sankcie podľa osobitného predpisu,<sup>84b</sup>) a právnická osoba alebo fyzická osoba, ktorá prepravuje ropné výrobky označené podľa odseku 1 do Českej republiky, je povinná oznamovať ministerstvu každé tri mesiace údaje súvisiace s ropou a ropnými výrobkami, na ktoré sa vzťahujú sankcie podľa osobitného predpisu,<sup>84b</sup>) v rozsahu ustanovenom všeobecne záväzným právnym predpisom vydaným podľa § 95 ods. 1 písm. p).
+
+- (3)
+
+- Právnická osoba alebo fyzická osoba, ktorá vyrába, dováža, vyváža, nakupuje alebo predáva ropu a ropné výrobky označené podľa odseku 1, je povinná viesť evidenciu množstva takýchto vyrobených, dovezených, predaných alebo nakúpených výrobkov a množstva takejto nakúpenej, dovezenej alebo prepravenej ropy. Ak právnická osoba alebo fyzická osoba vyrobí, dovezie alebo nakúpi ropné výrobky označené podľa odseku 1 na vlastnú spotrebu, povinnosť podľa prvej vety sa na ňu nevzťahuje.
+
+- (4)
+
+- S ropnými výrobkami a ropou označenými podľa odseku 1 je možné nakladať len v súlade s osobitným predpisom.<sup>84c</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 84a až 84c znejú:
+
+  - „<sup>84a</sup>) Položka 2710 kombinovanej nomenklatúry Spoločného colného sadzobníka v prílohe I k nariadeniu Rady (EHS) č. 2658/87 o colnej a štatistickej nomenklatúre a o Spoločnom colnom sadzobníku (Ú. v . ES L 256, 7. 9. 1987) v platnom znení.
+
+  - <sup>84b</sup>) Čl. 3m ods. 3 písm. d) a ods. 4 nariadenia Rady (EÚ) č. 833/2014 z 31. júla 2014 o reštriktívnych opatreniach s ohľadom na konanie Ruska, ktorým destabilizuje situáciu na Ukrajine (Ú. v. EÚ L 229, 31. 7. 2014) v platnom znení.
+
+  - <sup>84c</sup>) Čl. 3m ods. 8 nariadenia (EÚ) 833/2014 v platnom znení.“.
+
+- 10. V § 89 ods. 1 sa za slová „§ 84 až 87“ vkladá čiarka a slová „§ 87a“.
+
+- 11. V § 91 sa odsek 1 dopĺňa písmenom h), ktoré znie:
+
+- „h)
+
+- od 5 000 eur do 1 000 000 eur alebo do výšky trojnásobku hodnoty tovaru, ak je hodnota tovaru vyššia ako 1 000 000 eur, za porušenie povinností uložených v § 87a ods. 1 až 4; hodnota tovaru sa určí podľa hodnoty uvedenej v sprievodnej dokumentácii tovaru pri ktorom k porušeniu došlo.“.
+
 - 12. § 94 sa dopĺňa odsekmi 5 až 10, ktoré znejú:
 
 - „(5)
@@ -422,6 +460,12 @@ Zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákono
 
   - Zákon č. 121/2022 Z. z. o príspevkoch z fondov Európskej únie a o zmene a doplnení niektorých zákonov.“.
 
+- 13. V § 95 sa odsek 1 dopĺňa písmenom p), ktoré znie:
+
+- „p)
+
+- rozsah oznamovaných údajov súvisiacich s ropou a ropnými výrobkami, na ktoré sa vzťahujú sankcie podľa osobitného predpisu,<sup>84b</sup>) a spôsob ich oznamovania, podrobnosti o označovaní ropy a ropných výrobkov a podrobnosti o vedení hmotnostnej bilancie.“.
+
 - 14. Za § 96j sa vkladajú § 96k a 96l, ktoré vrátane nadpisov znejú:
 
 - „§ 96k
@@ -434,4 +478,10 @@ Zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákono
 
 - (2)
 
-- Zmluvy o združenej dodávke elektriny a zmluvy o združenej dodávke plynu za ceny nepodliehajúce cenovej regulácii uzatvorené na dobu nepresahujúcu 31. december 2022 so zraniteľnými odberateľmi podľa § 3 písm. a) bodov 10.3. až 10.8. zostávajú nedotknuté. Ak má zraniteľný odberateľ podľa § 3 písm. a) bodov 10.3. až 10.8. uzatvorenú zmluvu o združenej dodávke elektriny alebo zmluvu o združenej dodávke plynu na dobu presahujúcu 31. december 2022, môže si do 31. decembra 2022 uplatniť právo na dodávku elektriny alebo na dodávku plynu za cenu regulovanú úradom podľa osobitného predpisu<sup>2</sup>) na kalendárny rok 2023. Tým nie sú dotknuté ustanovenia § 17 ods. 9 až 11.“.
+- Zmluvy o združenej dodávke elektriny a zmluvy o združenej dodávke plynu za ceny nepodliehajúce cenovej regulácii uzatvorené na dobu nepresahujúcu 31. december 2022 so zraniteľnými odberateľmi podľa § 3 písm. a) bodov 10.3. až 10.8. zostávajú nedotknuté. Ak má zraniteľný odberateľ podľa § 3 písm. a) bodov 10.3. až 10.8. uzatvorenú zmluvu o združenej dodávke elektriny alebo zmluvu o združenej dodávke plynu na dobu presahujúcu 31. december 2022, môže si do 31. decembra 2022 uplatniť právo na dodávku elektriny alebo na dodávku plynu za cenu regulovanú úradom podľa osobitného predpisu<sup>2</sup>) na kalendárny rok 2023. Tým nie sú dotknuté ustanovenia § 17 ods. 9 až 11.
+
+- § 96l
+
+- Prechodné ustanovenie k úpravám účinným od 5. februára 2023
+
+- Právnická osoba alebo fyzická osoba, ktorá dováža na územie Slovenskej republiky ropu, na ktorú sa vzťahujú sankcie podľa osobitného predpisu,<sup>84b</sup>) a právnická osoba alebo fyzická osoba, ktorá prepravuje ropné výrobky označené podľa § 87 ods. 1 do Českej republiky, je povinná oznámiť údaje podľa § 87a ods. 2 prvýkrát do 8. marca 2023.“.
