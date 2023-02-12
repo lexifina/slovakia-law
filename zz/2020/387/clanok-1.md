@@ -1142,10 +1142,6 @@ Zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení zákona
 
 - Ak konanie o správnom delikte podľa odseku 15 v znení účinnom do 12. februára 2023 nebolo právoplatne ukončené do 12. februára 2023, ukončí sa podľa predpisu účinného do 12. februára 2023 a na pokutu sa vzťahuje odsek 16.
 
-- (19)
-
-- Proti rozhodnutiu colného úradu vydanému podľa § 11 ods. 17, 18 a 19, § 19 ods. 10, § 19a ods. 5, § 21 ods. 8, 9 a ods. 10 písm. d), § 22 ods. 12, § 22a ods. 1, § 23 ods. 3 a 14, § 24 ods. 12 a 13, § 25 ods. 16, 17 a ods. 18 písm. d), § 25a ods. 10, § 25b ods. 11 a 19, § 26 ods. 6, § 28 ods. 10 a § 31 ods. 4 nemožno podať odvolanie.
-
 - § 46v
 
 - Prechodné ustanovenia k úpravám účinným od 1. júla 2022
