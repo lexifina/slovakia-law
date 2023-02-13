@@ -142,13 +142,41 @@ Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zá
 
 - prijatia tabakových výrobkov osobou uvedenou v § 33a ods. 2 alebo ozbrojenými silami iných štátov, ktoré sú stranami Severoatlantickej zmluvy, na použitie týmito ozbrojenými silami a ich civilnými zamestnancami v súvislosti s aktivitami podľa medzinárodnej zmluvy,<sup>5</sup>) ak na takéto prijatie nenadväzuje oslobodenie od dane podľa § 7 písm. g) alebo ozbrojenými silami iných členských štátov na použitie týmito ozbrojenými silami a ich civilnými zamestnancami pri obrannom úsilí v rámci spoločnej bezpečnostnej a obrannej politiky Európskej únie, ak na takéto prijatie nenadväzuje oslobodenie od dane podľa § 7 písm. h).“.
 
+- 29. V § 11 sa odsek 2 dopĺňa písmenami d) a e), ktoré znejú:
+
+- „d)
+
+- prijatia tabakových výrobkov na daňovom území na podnikateľské účely uvedených do daňového voľného obehu na území iného členského štátu,
+
+- e)
+
+- prepravenia tabakových výrobkov uvedených do daňového voľného obehu na území iného členského štátu na daňové územie na podnikateľské účely alebo dňom použitia tabakových výrobkov uvedených do daňového voľného obehu na území iného členského štátu na podnikateľské účely na daňovom území, ak nie je známy deň prepravenia týchto tabakových výrobkov na daňové územie na podnikateľské účely a daňová povinnosť nevznikla podľa písmena d).“.
+
 - 30. V § 12 ods. 1 písmeno j) znie:
 
 - „j)
 
 - ktorá je uvedená v § 33a ods. 2, alebo ozbrojené sily iných štátov, ktoré sú stranami Severoatlantickej zmluvy, ktoré prijali tabakové výrobky na použitie týmito ozbrojenými silami a ich civilnými zamestnancami v súvislosti s aktivitami podľa medzinárodnej zmluvy,<sup>5</sup>) ak na takéto prijatie nenadväzuje oslobodenie od dane podľa § 7 písm. g) alebo ozbrojené sily iných členských štátov, ktoré prijali tabakové výrobky na použitie týmito ozbrojenými silami a ich civilnými zamestnancami pri obrannom úsilí v rámci spoločnej bezpečnostnej a obrannej politiky Európskej únie, ak na takéto prijatie nenadväzuje oslobodenie od dane podľa § 7 písm. h).“.
 
+- 31. V § 12 sa odsek 2 dopĺňa písmenami d) a e), ktoré znejú:
+
+- „d)
+
+- prijala tabakové výrobky na daňovom území na podnikateľské účely uvedené do daňového voľného obehu na území iného členského štátu,
+
+- e)
+
+- nie je osobou podľa písmena d) a má ako prvá na daňovom území v držbe prepravené tabakové výrobky uvedené do daňového voľného obehu na území iného členského štátu na podnikateľské účely, alebo ktorá takéto tabakové výrobky ako prvá použila, ak nie je známy deň prepravenia týchto tabakových výrobkov na daňové územie.“.
+
 - 32. V § 13 ods. 2 prvej vete sa slová „prevádzkovateľ tranzitného daňového skladu, prevádzkovateľ daňového skladu pre zahraničných zástupcov“ nahrádzajú slovami „osoba, ktorej colný úrad vydal povolenie na prevádzkovanie tranzitného daňového skladu (ďalej len „prevádzkovateľ tranzitného daňového skladu“), osoba, ktorej colný úrad vydal povolenie na prevádzkovanie daňového skladu pre zahraničných zástupcov (ďalej len „prevádzkovateľ daňového skladu pre zahraničných zástupcov“),“.
+
+- 33. V § 13 ods. 3 sa na konci pripája táto veta: „Platiteľ dane podľa § 12 ods. 2 písm. e), ktorý nemá sídlo alebo trvalý pobyt na daňovom území, je povinný podať Colnému úradu Bratislava daňové priznanie a zaplatiť daň podľa sadzieb dane platných v deň prepravenia alebo použitia tabakových výrobkov.“.
+
+- 34. V § 14 ods. 2 písmeno a) znie:
+
+- „a)
+
+- dodala na územie iného členského štátu na podnikateľské účely a prijatie takýchto tabakových výrobkov správca dane iného členského štátu potvrdí príjemcovi tabakových výrobkov v inom členskom štáte zaevidovaním správy o prijatí alebo písomnej správy o prijatí,“.
 
 - 35. V § 14 ods. 2 písmeno c) znie:
 
@@ -370,6 +398,206 @@ Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zá
 
 - Ak je počas prepravy tabakových výrobkov v pozastavení dane pri vývoze elektronický systém<sup>14a</sup>) nedostupný podľa § 25, môže vývozca, ktorý zložil zábezpeku na daň, zmeniť miesto výstupu, len ak oznámil colnému úradu vývozu<sup>19b</sup>) informácie spôsobom podľa osobitného predpisu.<sup>14b</sup>) Vývozca je povinný požadované informácie zaslať colnému úradu vývozu<sup>19b</sup>) pred zmenou miesta výstupu; odsek 5 sa použije primerane.“.
 
+- 75. § 29 vrátane nadpisu znie:
+
+- „§ 29
+
+- Schválený odosielateľ
+
+- (1)
+
+- Schváleným odosielateľom na daňovom území je osoba, ktorá má povolenie odosielať tabakové výrobky uvedené do daňového voľného obehu na daňovom území na územie iného členského štátu na podnikateľské účely. Schváleným odosielateľom je aj osoba na území iného členského štátu oprávnená podľa právnych predpisov príslušného členského štátu odosielať tabakové výrobky uvedené do daňového voľného obehu v príslušnom členskom štáte na podnikateľské účely. Osoba, ktorá chce byť schváleným odosielateľom na daňovom území, musí požiadať colný úrad o registráciu a vydanie povolenia odosielať tabakové výrobky v daňovom voľnom obehu na územie iného členského štátu na podnikateľské účely (ďalej len „povolenie odosielať tabakové výrobky na podnikateľské účely“).
+
+- (2)
+
+- Žiadosť o registráciu a vydanie povolenia odosielať tabakové výrobky na podnikateľské účely musí obsahovať okrem údajov podľa osobitného predpisu<sup>25d</sup>)
+
+- a)
+
+- obchodný názov a presné vymedzenie odosielaného tabakového výrobku,
+
+- b)
+
+- údaj o predpokladanom ročnom objeme tabakového výrobku odosielaného v daňovom voľnom obehu v príslušnej mernej jednotke.
+
+- (3)
+
+- Prílohou k žiadosti podľa odseku 2 je doklad preukazujúci oprávnenie na podnikanie nie starší ako 30 dní alebo jeho osvedčená kópia, ak je žiadateľom právnická osoba, ktorá nemá sídlo na daňovom území, alebo fyzická osoba, ktorá nemá trvalý pobyt na daňovom území.
+
+- (4)
+
+- Colný úrad pred vykonaním registrácie a vydaním povolenia odosielať tabakové výrobky na podnikateľské účely preverí skutočnosti a údaje podľa odsekov 2 a 3 a ak sú tieto skutočnosti a údaje pravdivé, colný úrad žiadateľa zaregistruje a vydá mu povolenie odosielať tabakové výrobky na podnikateľské účely do 30 dní odo dňa podania žiadosti podľa odseku 2.
+
+- (5)
+
+- Na zmenu údajov, odňatie a zánik povolenia odosielať tabakové výrobky na podnikateľské účely sa použije § 23 primerane.“.
+
+- 76. Za § 29 sa vkladá § 29a, ktorý vrátane nadpisu znie:
+
+- „§ 29a
+
+- Schválený príjemca
+
+- (1)
+
+- Schváleným príjemcom na daňovom území je osoba, ktorá má povolenie prijímať tabakové výrobky uvedené do daňového voľného obehu na území iného členského štátu na podnikateľské účely. Schváleným príjemcom je aj osoba na území iného členského štátu oprávnená podľa právnych predpisov príslušného členského štátu prijímať tabakové výrobky uvedené do daňového voľného obehu na území iného členského štátu na podnikateľské účely. Osoba, ktorá chce byť schváleným príjemcom na daňovom území, musí požiadať colný úrad o registráciu a vydanie povolenia prijímať tabakové výrobky uvedené do daňového voľného obehu na území iného členského štátu na podnikateľské účely (ďalej len „povolenie prijímať tabakové výrobky na podnikateľské účely“).
+
+- (2)
+
+- Žiadosť o registráciu a vydanie povolenia prijímať tabakové výrobky na podnikateľské účely musí obsahovať okrem údajov podľa osobitného predpisu<sup>25d</sup>)
+
+- a)
+
+- obchodný názov a presné vymedzenie prijímaného tabakového výrobku,
+
+- b)
+
+- údaj o predpokladanom ročnom objeme tabakového výrobku prijímaného v daňovom voľnom obehu v príslušnej mernej jednotke.
+
+- (3)
+
+- Prílohou k žiadosti podľa odseku 2 je doklad preukazujúci oprávnenie na podnikanie nie starší ako 30 dní alebo jeho osvedčená kópia, ak je žiadateľom právnická osoba, ktorá nemá sídlo na daňovom území, alebo fyzická osoba, ktorá nemá trvalý pobyt na daňovom území.
+
+- (4)
+
+- Colný úrad pred vykonaním registrácie a vydaním povolenia prijímať tabakové výrobky na podnikateľské účely preverí skutočnosti a údaje podľa odsekov 2 a 3 a ak sú tieto skutočnosti a údaje pravdivé, colný úrad žiadateľa zaregistruje a vydá mu povolenie prijímať tabakové výrobky na podnikateľské účely do 30 dní odo dňa podania žiadosti podľa odseku 2.
+
+- (5)
+
+- Na zmenu údajov, odňatie a zánik povolenia prijímať tabakové výrobky na podnikateľské účely sa použije § 23 primerane.
+
+- (6)
+
+- Schválený príjemca je povinný pred prijatím tabakových výrobkov uvedených do daňového voľného obehu na území iného členského štátu na podnikateľské účely zložiť zábezpeku na daň vo výške dane pripadajúcej na množstvo prijímaných tabakových výrobkov; na zábezpeku na daň sa použije § 20 primerane.
+
+- (7)
+
+- Zábezpeka na daň zložená v inom členskom štáte je platná na daňovom území.
+
+- (8)
+
+- Schválený príjemca je povinný podať daňové priznanie a zaplatiť daň v lehote podľa § 13 ods. 3. Schválenému príjemcovi, ktorý prijíma tabakové výrobky v zdaňovacom období podľa § 13 ods. 1 opakovane, môže colný úrad na žiadosť schváleného príjemcu povoliť, aby množstvo tabakových výrobkov prijaté schváleným príjemcom v zdaňovacom období podľa § 13 ods. 1 bolo zahrnuté do jedného daňového priznania a podanie daňového priznania a zaplatenie dane bolo uskutočnené v lehote podľa § 13 ods. 2.
+
+- (9)
+
+- Na úhradu dane je možné po dohode s colným úradom použiť zloženú zábezpeku na daň, pričom § 41 ods. 1 písm. m) sa nepoužije; povinnosť vyrovnať prípadné rozdiely z použitia zábezpeky na daň tým nie je dotknutá.
+
+- (10)
+
+- Ak daň nie je zaplatená v lehote splatnosti ustanovenej týmto zákonom, colný úrad použije zábezpeku na daň na úhradu dane a oznámi túto skutočnosť schválenému príjemcovi.“.
+
+- 77. § 30 vrátane nadpisu znie:
+
+- „§ 30
+
+- Postup pri preprave tabakových výrobkov
+
+- mimo pozastavenia dane na podnikateľské účely
+
+- (1)
+
+- Tabakové výrobky uvedené do daňového voľného obehu je možné prepravovať na podnikateľské účely od
+
+- a)
+
+- schváleného odosielateľa na daňovom území schválenému príjemcovi v inom členskom štáte,
+
+- b)
+
+- schváleného odosielateľa v inom členskom štáte schválenému príjemcovi na daňovom území alebo na miesto určenia; miestom určenia sa na účely tohto zákona rozumie miesto uvedené schváleným odosielateľom v elektronickom zjednodušenom administratívnom dokumente vyhotovenom prostredníctvom elektronického systému<sup>14a</sup>) (ďalej len „zjednodušený elektronický dokument“), na ktoré sú tabakové výrobky uvedené do daňového voľného obehu na území iného členského štátu prepravené na podnikateľské účely,
+
+- c)
+
+- schváleného odosielateľa na daňovom území cez územie iného členského štátu schválenému príjemcovi na daňovom území.
+
+- (2)
+
+- Prepravu tabakových výrobkov podľa odseku 1 je možné uskutočniť len na základe zjednodušeného elektronického dokumentu, a to spôsobom uvedeným v osobitnom predpise,<sup>14b</sup>) ak § 30a neustanovuje inak. Návrh zjednodušeného elektronického dokumentu a aj akákoľvek zmena vykonaná prostredníctvom elektronického systému musia byť podpísané kvalifikovaným elektronickým podpisom,<sup>14c</sup>) ak sa schválený odosielateľ s colným úradom nedohodne inak. Tabakovými výrobkami určenými na podnikateľské účely na účely tohto zákona sa rozumejú tabakové výrobky dodané na iné účely ako na súkromné účely podľa § 31 ods. 1 alebo v rámci zásielkového obchodu podľa § 32 ods. 1.
+
+- (3)
+
+- Pred začatím prepravy tabakových výrobkov podľa odseku 1 schválený odosielateľ vyhotoví návrh zjednodušeného elektronického dokumentu, ktorý zašle colnému úradu schváleného odosielateľa. Colný úrad schváleného odosielateľa elektronicky overí údaje v návrhu zjednodušeného elektronického dokumentu a ak sú údaje správne, pridelí k návrhu zjednodušeného elektronického dokumentu jedinečný zjednodušený administratívny referenčný kód (ďalej len „zjednodušený referenčný kód“) a zároveň zašle zjednodušený elektronický dokument s prideleným zjednodušeným referenčným kódom schválenému odosielateľovi a správcovi dane iného členského štátu schváleného príjemcu. Ak údaje uvedené v návrhu zjednodušeného elektronického dokumentu nie sú správne, colný úrad schváleného odosielateľa o tejto skutočnosti bezodkladne informuje odosielateľa návrhu zjednodušeného elektronického dokumentu. Prepravu tabakových výrobkov podľa odseku 1 je možné začať až po pridelení zjednodušeného referenčného kódu, ak § 30a neustanovuje inak. Tabakové výrobky prepravované podľa odseku 1 musí sprevádzať písomný dokument obsahujúci zjednodušený referenčný kód.
+
+- (4)
+
+- Schválený odosielateľ môže zrušiť prostredníctvom elektronického systému zjednodušený elektronický dokument, ak sa nezačala preprava tabakových výrobkov podľa odseku 1. Preprava tabakových výrobkov podľa odseku 1 sa začína, keď tabakové výrobky opustia sklad schváleného odosielateľa alebo miesto odoslania na daňovom území, ktoré schválený odosielateľ oznámil colnému úradu.
+
+- (5)
+
+- Počas prepravy tabakových výrobkov podľa odseku 1 môže schválený odosielateľ prostredníctvom elektronického systému zmeniť miesto určenia uvedené v zjednodušenom elektronickom dokumente alebo schváleného príjemcu, a to spôsobom uvedeným v osobitnom predpise.<sup>14b</sup>)
+
+- (6)
+
+- Ak sa tabakové výrobky uvedené do daňového voľného obehu na území iného členského štátu na podnikateľské účely prepravujú podľa odseku 1 písm. b), colný úrad schváleného príjemcu je povinný zjednodušený elektronický dokument zaslaný správcom dane členského štátu schváleného odosielateľa zaslať schválenému príjemcovi.
+
+- (7)
+
+- Ak sa tabakové výrobky uvedené do daňového voľného obehu na daňovom území na podnikateľské účely prepravujú cez územie iného členského štátu na daňové územie na podnikateľské účely, je schválený odosielateľ povinný vyhotoviť zjednodušený elektronický dokument a postupovať podľa odseku 3. Schválený príjemca, ktorý chce tieto tabakové výrobky prijať, je povinný postupovať podľa § 29a ods. 7 a podľa odseku 8.
+
+- (8)
+
+- Ak sa tabakové výrobky prepravujú podľa odseku 1, schválený príjemca je povinný najneskôr do piatich pracovných dní odo dňa ukončenia prepravy týchto tabakových výrobkov predložiť colnému úradu schváleného príjemcu správu o prijatí; správa o prijatí musí byť podpísaná kvalifikovaným elektronickým podpisom, ak sa schválený príjemca s colným úradom nedohodne inak. Colný úrad schváleného príjemcu elektronicky overí údaje v správe o prijatí a ak sú tieto údaje správne, potvrdí schválenému príjemcovi zaevidovanie správy o prijatí. Správu o prijatí colný úrad schváleného príjemcu po jej zaevidovaní bezodkladne zašle schválenému odosielateľovi a colnému úradu schváleného odosielateľa. Ak údaje uvedené v správe o prijatí nie sú správne, colný úrad schváleného príjemcu o tejto skutočnosti bezodkladne informuje odosielateľa správy o prijatí.
+
+- (9)
+
+- Colný úrad môže prostredníctvom elektronického systému uložiť schválenému príjemcovi po začatí prepravy tabakových výrobkov uvedených do daňového voľného obehu na území iného členského štátu na podnikateľské účely povinnosť bezodkladne po dopravení týchto tabakových výrobkov v mieste určenia oznámiť dopravenie týchto tabakových výrobkov prostredníctvom elektronického systému colnému úradu a počas dvoch hodín od zaslania oznámenia o tejto skutočnosti prostredníctvom elektronického systému tieto tabakové výrobky nevyložiť alebo s týmito tabakovými výrobkami nenakladať.
+
+- (10)
+
+- Ak pri preprave tabakových výrobkov podľa odseku 1 došlo k nenávratnému zničeniu tabakových výrobkov v dôsledku nehody, havárie alebo vplyvom vyššej moci, alebo došlo pri preprave tabakových výrobkov na podnikateľské účely k stratám tabakových výrobkov, ktoré pripadajú na prirodzené úbytky tabakových výrobkov súvisiace s ich fyzikálno-chemickými vlastnosťami počas prepravy, a ak sú tieto straty tabakových výrobkov alebo nenávratné zničenie tabakových výrobkov na základe úradného zistenia a potvrdenia uznané colným úradom alebo správcom dane iného členského štátu, daňová povinnosť vo výške dane pripadajúcej na množstvo tabakových výrobkov, ktoré bolo uznané ako strata tabakových výrobkov alebo nenávratné zničenie tabakových výrobkov, nevzniká. Colný úrad na žiadosť vráti zábezpeku na daň zloženú podľa § 29a ods. 7 vo výške dane pripadajúcej na množstvo tabakových výrobkov, ktoré bolo colným úradom alebo správcom dane iného členského štátu uznané ako strata tabakových výrobkov alebo nenávratné zničenie tabakových výrobkov.
+
+- (11)
+
+- Ak sa tabakové výrobky uvedené do daňového voľného obehu na území iného členského štátu prepravujú v rámci podnikania na daňové územie na miesto určenia, je schválený príjemca povinný bezodkladne pred začatím prepravy oznámiť colnému úradu adresu miesta určenia uvedeného v zjednodušenom elektronickom dokumente a identifikačné údaje osoby, ktorá má sídlo, trvalý pobyt alebo miesto podnikania v mieste určenia.“.
+
+- 78. Za § 30 sa vkladá § 30a, ktorý vrátane nadpisu znie:
+
+- „§ 30a
+
+- Postup pri preprave tabakových výrobkov mimo pozastavenia dane
+
+- na podnikateľské účely pri nedostupnom elektronickom systéme
+
+- (1)
+
+- Ak je elektronický systém nedostupný, schválený odosielateľ je povinný
+
+- a)
+
+- oznámiť colnému úradu schváleného odosielateľa začatie prepravy tabakových výrobkov v daňovom voľnom obehu podľa § 30 ods. 1,
+
+- b)
+
+- vyhotoviť zjednodušený dokument, ktorý obsahuje rovnaké údaje ako zjednodušený elektronický dokument vyhotovený podľa § 30.
+
+- (2)
+
+- Tabakové výrobky prepravované v daňovom voľnom obehu musí sprevádzať zjednodušený dokument vyhotovený schváleným odosielateľom. Schválený odosielateľ si ponechá kópiu zjednodušeného dokumentu a ďalšiu kópiu zjednodušeného dokumentu je povinný pred začatím prepravy tabakových výrobkov zaslať colnému úradu schváleného odosielateľa.
+
+- (3)
+
+- Ak sa preprava tabakových výrobkov v daňovom voľnom obehu ukončila so zjednodušeným dokumentom alebo ak je elektronický systém nedostupný v čase prijatia tabakových výrobkov schváleným príjemcom, schválený príjemca je povinný vyhotoviť písomnú správu o prijatí, ktorá musí obsahovať rovnaké údaje ako správa o prijatí podľa § 30 ods. 8. Písomná správa o prijatí je potvrdením o ukončení prepravy tabakových výrobkov v daňovom voľnom obehu pri nedostupnom elektronickom systéme. Schválený príjemca je povinný túto písomnú správu o prijatí predložiť colnému úradu schváleného príjemcu, ktorý kópiu písomnej správy o prijatí zasiela správcovi dane schváleného odosielateľa v inom členskom štáte.
+
+- (4)
+
+- Ak sa elektronický systém sprístupní, colný úrad, schválený odosielateľ a schválený príjemca sú povinní bezodkladne postupovať podľa § 30; rovnako sú povinní postupovať, ak bola preprava týchto tabakových výrobkov ukončená pri nedostupnom elektronickom systéme. Schválený príjemca zjednodušený dokument vyhotovený podľa odseku 1 písm. b) zaeviduje vo svojom účtovníctve.
+
+- (5)
+
+- Ak nebola schváleným príjemcom vyhotovená správa o prijatí alebo písomná správa o prijatí z iného dôvodu, ako je nedostupnosť elektronického systému, je schválený príjemca povinný predložiť colnému úradu schváleného príjemcu iný dôkaz o ukončení prepravy tabakových výrobkov v daňovom voľnom obehu, ktorý musí obsahovať rovnaké náležitosti, ako sú uvedené v správe o prijatí podľa § 30 ods. 8. Ak colný úrad schváleného príjemcu uzná iný dôkaz o ukončení prepravy tabakových výrobkov v daňovom voľnom obehu, oznámi túto skutočnosť správcovi dane schváleného odosielateľa v inom členskom štáte a ukončí prepravu tabakových výrobkov v daňovom voľnom obehu prostredníctvom elektronického systému.
+
+- (6)
+
+- Ak je počas prepravy tabakových výrobkov v daňovom voľnom obehu elektronický systém nedostupný, schválený odosielateľ môže zmeniť miesto určenia tabakových výrobkov v daňovom voľnom obehu alebo zmeniť schváleného príjemcu, len ak oznámil colnému úradu schváleného odosielateľa informácie podľa § 30 ods. 5. Schválený odosielateľ je povinný požadované informácie zaslať colnému úradu schváleného odosielateľa pred zmenou miesta určenia; odsek 4 sa použije primerane.“.
+
+- 79. V § 31 ods. 3 úvodnej vete sa slová „§ 29“ nahrádzajú slovami „§ 30 alebo § 30a“.
+
+- 80. V § 32 sa odsek 1 dopĺňa písmenom c), ktoré znie:
+
+- „c)
+
+- schváleným príjemcom podľa tohto zákona.“.
+
 - 81. V § 32 ods. 6 sa slová „je daňovo spoľahlivá (§ 20 ods. 10)“ nahrádzajú slovami „spĺňa podmienky podľa § 19 ods. 4 písm. a), c), e) až g)“.
 
 - 82. V § 32 odsek 7 znie:
@@ -402,6 +630,10 @@ Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zá
 
   - Doterajšie odseky 8 až 12 sa označujú ako odseky 9 až 13.
 
+- 84. V § 32a ods. 1 sa slová „§ 29“ nahrádzajú slovami „§ 30, § 30a“.
+
+- 85. V § 32a ods. 6 sa slová „príjemca (odberateľ) tabakových výrobkov, ktorý zložil zábezpeku na daň podľa § 29 ods. 2 písm. b)“ nahrádzajú slovami „schválený príjemca, ktorý zložil zábezpeku na daň podľa § 29a ods. 6“.
+
 - 86. V § 33a ods. 12 sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „1 000 kusov cigár, 1 000 kusov cigariek, 1 kg tabaku.“.
 
 - 87. V § 33a ods. 13 písm. a) a b) sa na konci pripájajú tieto slová: „800 kusov cigár, 800 kusov cigariek, 750 g tabaku,“.
@@ -416,9 +648,35 @@ Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zá
 
 - Každé množstvo tabakových výrobkov ustanovené v odsekoch 12 až 14 predstavuje 100% celkového povoleného množstva pre tabakové výrobky. Oslobodenie od dane sa môže uplatňovať na akúkoľvek kombináciu tabakových výrobkov za predpokladu, že súhrnný percentuálny podiel jednotlivých povolených množstiev nepresahuje 100% celkového povoleného množstva.“.
 
+- 91. V § 40 ods. 1 sa za slová „registrovaných odosielateľov,“ vkladajú slová „schválených odosielateľov, schválených príjemcov,“.
+
+- 92. V § 40 sa odsek 2 dopĺňa písmenami l) a m), ktoré znejú:
+
+- „l)
+
+- identifikačné údaje schváleného odosielateľa, jeho registračné číslo, dátum pridelenia a dátum zrušenia registračného čísla,
+
+- m)
+
+- identifikačné údaje schváleného príjemcu, jeho registračné číslo, dátum pridelenia a dátum zrušenia registračného čísla.“.
+
 - 93. V § 41 ods. 1 písm. j) sa slová „ods. 16“ nahrádzajú slovami „ods. 18“.
 
+- 94. V § 41 ods. 1 písm. m) sa slová „§ 29 ods. 5“ nahrádzajú slovami „§ 29a ods. 9“.
+
 - 95. V § 41 ods. 1 písm. n) prvom bode a druhom bode sa vypúšťa slovo „vrátane“.
+
+- 96. V § 41 sa odsek 1 dopĺňa písmenom y), ktoré znie:
+
+- „y)
+
+- prepravila v daňovom voľnom obehu na podnikateľské účely tabakové výrobky na iné miesto ako je miesto určenia uvedené v zjednodušenom elektronickom dokumente.“.
+
+- 97. V § 41 sa odsek 2 dopĺňa písmenom d), ktoré znie:
+
+- „d)
+
+- podľa odseku 1 písm. y) od 100 eur do 10 000 eur.“.
 
 - 98. V § 41a ods. 1 písm. d) sa slová „ods. 17“ nahrádzajú slovami „ods. 19“.
 
@@ -431,6 +689,8 @@ Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zá
 - „(6)
 
 - Proti rozhodnutiu colného úradu vydanému podľa § 19 ods. 8, 9 a ods. 10 písm. d), § 20a ods. 1 a ods. 2 druhej vety, § 23 ods. 15, 16 a ods. 17 písm. d), § 24 ods. 6, § 29 ods. 4 a § 33 ods. 11 nemožno podať odvolanie.“.
+
+- 102. V § 42 ods. 6 sa slová „§ 29 ods. 4“ nahrádzajú slovami „§ 29a ods. 9“.
 
 - 103. V § 42 ods. 7 sa slová „ods. 16“ nahrádzajú slovami „ods. 19“ a slová „ods. 8 a 10“ sa nahrádzajú slovami „ods. 9 a 11“.
 
@@ -662,7 +922,31 @@ Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zá
 
 - (10)
 
-- Spotrebiteľské balenie bezdymového tabakového výrobku označené kontrolnou známkou s uvedeným znakom pre sadzbu dane, ktorým je veľké písmeno „E“, možno prijímať a dovážať do 31. januára 2023, a predávať najneskôr do 30. apríla 2023; po tomto dátume sa takto označené spotrebiteľské balenie bezdymového tabakového výrobku považuje za neoznačené. Osoba, ktorá je oprávnená v rámci podnikania prijímať a dovážať spotrebiteľské balenia bezdymového tabakového výrobku uvedené v prvej vete, ktoré nepredala do 30. apríla 2023, je povinná do 15. mája 2023 oznámiť colnému úradu množstvo takýchto spotrebiteľských balení bezdymového tabakového výrobku a zároveň v tejto lehote požiadať miestne príslušný colný úrad o ich zničenie; colný úrad takéto spotrebiteľské balenia bezdymového tabakového výrobku zničí na náklady tejto osoby a o zničení vyhotoví protokol o zničení, pričom ustanovenie § 41 ods. 1 písm. a) sa nepoužije.“.
+- Spotrebiteľské balenie bezdymového tabakového výrobku označené kontrolnou známkou s uvedeným znakom pre sadzbu dane, ktorým je veľké písmeno „E“, možno prijímať a dovážať do 31. januára 2023, a predávať najneskôr do 30. apríla 2023; po tomto dátume sa takto označené spotrebiteľské balenie bezdymového tabakového výrobku považuje za neoznačené. Osoba, ktorá je oprávnená v rámci podnikania prijímať a dovážať spotrebiteľské balenia bezdymového tabakového výrobku uvedené v prvej vete, ktoré nepredala do 30. apríla 2023, je povinná do 15. mája 2023 oznámiť colnému úradu množstvo takýchto spotrebiteľských balení bezdymového tabakového výrobku a zároveň v tejto lehote požiadať miestne príslušný colný úrad o ich zničenie; colný úrad takéto spotrebiteľské balenia bezdymového tabakového výrobku zničí na náklady tejto osoby a o zničení vyhotoví protokol o zničení, pričom ustanovenie § 41 ods. 1 písm. a) sa nepoužije.
+
+- § 44ae
+
+- Prechodné ustanovenia k úpravám účinným od 13. februára 2023
+
+- (1)
+
+- Osoba podľa § 29 v znení účinnom do 12. februára 2023, ktorá chce prepravovať tabakové výrobky uvedené do daňového voľného obehu na podnikateľské účely podľa § 29 v znení účinnom do 12. februára 2023, môže postupovať podľa § 29 v znení účinnom do 12. februára 2023 najneskôr do 31. decembra 2023.
+
+- (2)
+
+- Na prepravu tabakových výrobkov podľa § 29 v znení účinnom do 12. februára 2023 je možné použiť zjednodušený sprievodný dokument vyhotovený podľa § 30 v znení účinnom do 12. februára 2023 najneskôr do 31. decembra 2023.
+
+- (3)
+
+- Prepravu tabakových výrobkov uvedených do daňového voľného obehu na podnikateľské účely, ktorá začala podľa § 29 v znení účinnom do 12. februára 2023 a nebola ukončená do 31. decembra 2023, je možné ukončiť podľa § 29 v znení účinnom do 12. februára 2023.
+
+- (4)
+
+- Ak konanie o žiadosti o registráciu a vydanie povolenia odosielať tabakové výrobky na podnikateľské účely podľa § 44ac ods. 2 v znení účinnom od 1. júla 2022 nebolo ukončené do 12. februára 2023, v konaní sa pokračuje podľa § 29 v znení účinnom od 13. februára 2023.
+
+- (5)
+
+- Ak konanie o žiadosti o registráciu a vydanie povolenia prijímať tabakové výrobky na podnikateľské účely podľa § 44ac ods. 6 v znení účinnom od 1. júla 2022 nebolo ukončené do 12. februára 2023, v konaní sa pokračuje podľa § 29a v znení účinnom od 13. februára 2023.“.
 
 - 105. Príloha č. 1 vrátane nadpisu znie:
 
