@@ -76,17 +76,47 @@ Zákon č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov v znení z
 
 - „Ak užívateľský podnik podľa prvej vety nevykonáva svoju činnosť, colný úrad môže upustiť od povinnosti zabezpečiť prítomnosť zamestnanca colného úradu v tomto užívateľskom podniku, pričom je povinný priestory, v ktorých sa lieh používa na účely oslobodené od dane podľa § 40 ods. 1 písm. a) alebo sa lieh regeneruje, zabezpečiť uzáverou colného úradu. Uzáverou priestoru sa rozumie uzamknutie a zabezpečenie uzáverou colného úradu všetkých prístupových miest do priestoru, v ktorom sa lieh používa na účely oslobodené od dane podľa § 40 ods. 1 písm. a) alebo sa lieh regeneruje, a to za prítomnosti prevádzkovateľa užívateľského podniku, pričom odstránenie uzáver colného úradu a odomknutie je možné uskutočniť len v prítomnosti zamestnanca colného úradu a prevádzkovateľa užívateľského podniku. Ak nie je možné zabezpečiť uzáverou colného úradu priestory užívateľského podniku, colný úrad zabezpečí technické zariadenia a technologické zariadenia v užívateľskom podniku uzáverami colného úradu tak, aby sa zabránilo použitiu liehu na účely oslobodené od dane podľa § 40 ods. 1 písm. a) alebo regenerácii liehu.“.
 
+- 14. V § 10 ods. 1 úvodnej vete a § 12 ods. 1 a 3 sa vypúšťa číslo „26,“.
+
 - 15. V § 10 ods. 1 písmeno j) znie:
 
 - „j)
 
 - prijatia alkoholického nápoja osobou uvedenou v § 32 ods. 2 alebo ozbrojenými silami iných štátov, ktoré sú stranami Severoatlantickej zmluvy, na použitie týmito ozbrojenými silami a ich civilnými zamestnancami v súvislosti s aktivitami podľa medzinárodnej zmluvy,<sup>19</sup>) ak na takéto prijatie nenadväzuje oslobodenie od dane podľa § 7 ods. 2 písm. f), alebo ozbrojenými silami iných členských štátov na použitie týmito ozbrojenými silami a ich civilnými zamestnancami pri obrannom úsilí v rámci spoločnej bezpečnostnej a obrannej politiky Európskej únie, ak na takéto prijatie nenadväzuje oslobodenie od dane podľa § 7 ods. 2 písm. g).“.
 
+- 16. V § 10 sa odsek 2 dopĺňa písmenami c) a d), ktoré znejú:
+
+- „c)
+
+- prijatia alkoholického nápoja uvedeného do daňového voľného obehu na území iného členského štátu na podnikateľské účely na daňovom území,
+
+- d)
+
+- prepravenia alkoholického nápoja uvedeného do daňového voľného obehu na území iného členského štátu na daňové územie na podnikateľské účely alebo dňom použitia alkoholického nápoja uvedeného do daňového voľného obehu na území iného členského štátu na podnikateľské účely na daňovom území, ak nie je známy deň prepravenia tohto alkoholického nápoja na daňové územie na podnikateľské účely a daňová povinnosť nevznikla podľa písmena c).“.
+
+- 17. V § 11 ods. 1 úvodnej vete sa vypúšťa číslo „26,“.
+
 - 18. V § 11 ods. 1 písmeno j) znie:
 
 - „j)
 
 - ktorá je uvedená v § 32 ods. 2 alebo ozbrojené sily iných štátov, ktoré sú stranami Severoatlantickej zmluvy, ktoré prijali alkoholický nápoj na použitie týmito ozbrojenými silami a ich civilnými zamestnancami v súvislosti s aktivitami podľa medzinárodnej zmluvy,<sup>19</sup>) ak na takéto prijatie nenadväzuje oslobodenie od dane podľa § 7 ods. 2 písm. f), alebo ozbrojené sily iných členských štátov, ktoré prijali alkoholický nápoj na použitie týmito ozbrojenými silami a ich civilnými zamestnancami pri obrannom úsilí v rámci spoločnej bezpečnostnej a obrannej politiky Európskej únie, ak na takéto prijatie nenadväzuje oslobodenie od dane podľa § 7 ods. 2 písm. g).“.
+
+- 19. V § 11 sa odsek 2 dopĺňa písmenami c) a d), ktoré znejú:
+
+- „c)
+
+- je schváleným príjemcom a prijala alkoholický nápoj uvedený do daňového voľného obehu na území iného členského štátu na podnikateľské účely na daňovom území,
+
+- d)
+
+- nie je osobou podľa písmena c) a má ako prvá na daňovom území v držbe prepravený alkoholický nápoj uvedený do daňového voľného obehu na území iného členského štátu na podnikateľské účely, alebo ktorá takýto alkoholický nápoj ako prvá použila, ak nie je známy deň prepravenia tohto alkoholického nápoja na daňové územie.“.
+
+- 20. V § 12 ods. 3 sa na konci pripája táto veta: „Platiteľ dane podľa § 11 ods. 2 písm. d), ktorý nemá sídlo alebo trvalý pobyt na daňovom území, je povinný podať Colnému úradu Bratislava daňové priznanie a zaplatiť daň podľa sadzieb dane platných v deň prepravenia alebo použitia alkoholického nápoja.“.
+
+- 21. V § 13 ods. 2 písm. a) sa vypúšťa prvý bod.
+
+  - Doterajší druhý bod a tretí bod sa označujú ako prvý bod a druhý bod.
 
 - 22. V § 13 ods. 2 písmeno c) znie:
 
@@ -220,6 +250,14 @@ Zákon č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov v znení z
 
 - zoznam majetkovo prepojených osôb a personálne prepojených osôb so žiadateľom.“.
 
+- 47. Poznámky pod čiarou k odkazom 41 a 42 znejú:
+
+- „<sup>41</sup>) Čl. 1 bod 16 delegovaného nariadenia Komisie (EÚ) č. 2015/2446 z 28. júla 2015, ktorým sa dopĺňa nariadenie Európskeho parlamentu a Rady (EÚ) č. 952/2013, pokiaľ ide o podrobné pravidlá, ktorými sa bližšie určujú niektoré ustanovenia Colného kódexu Únie v platnom znení (Ú. v. EÚ L 343, 29. 12. 2015).
+
+- <sup>42</sup>) Čl. 329 ods. 5 vykonávacieho nariadenia Komisie (EÚ) č. 2015/2447 z 24. novembra 2015, ktorým sa stanovujú podrobné pravidlá vykonávania určitých ustanovení nariadenia Európskeho parlamentu a Rady (EÚ) č. 952/2013, ktorým sa ustanovuje Colný kódex Únie (Ú. v. EÚ L 343, 29. 12. 2015) v platnom znení.
+
+- Čl. 189 ods. 4 delegovaného nariadenia Komisie (EÚ) č. 2015/2446 (Ú. v. EÚ L 343, 29. 12. 2015) v platnom znení.“.
+
 - 48. V § 21 ods. 2 písmeno a) znie:
 
 - „a)
@@ -260,6 +298,248 @@ Zákon č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov v znení z
 
 - Ak je počas prepravy alkoholického nápoja v pozastavení dane pri vývoze elektronický systém<sup>36</sup>) nedostupný podľa § 21, môže vývozca, ktorý zložil zábezpeku na daň, zmeniť miesto výstupu, len ak oznámil colnému úradu vývozu<sup>41</sup>) informácie spôsobom uvedeným v osobitnom predpise.<sup>37</sup>) Vývozca je povinný požadované informácie zaslať colnému úradu vývozu<sup>41</sup>) pred zmenou miesta výstupu; odsek 5 sa použije primerane.“.
 
+- 58. § 26 vrátane nadpisu znie:
+
+- „§ 26
+
+- Schválený odosielateľ
+
+- (1)
+
+- Schváleným odosielateľom na daňovom území je osoba, ktorá má povolenie odosielať alkoholický nápoj uvedený do daňového voľného obehu na daňovom území na územie iného členského štátu na podnikateľské účely (ďalej len „povolenie odosielať alkoholický nápoj na podnikateľské účely“). Schváleným odosielateľom je aj osoba na území iného členského štátu oprávnená podľa právnych predpisov príslušného členského štátu odosielať alkoholický nápoj uvedený do daňového voľného obehu v príslušnom členskom štáte na podnikateľské účely. Osoba, ktorá chce byť schváleným odosielateľom na daňovom území, je povinná požiadať colný úrad o registráciu a vydanie povolenia odosielať alkoholický nápoj na podnikateľské účely.
+
+- (2)
+
+- Žiadosť o registráciu a vydanie povolenia odosielať alkoholický nápoj na podnikateľské účely musí obsahovať okrem údajov podľa osobitného predpisu<sup>84</sup>)
+
+- a)
+
+- obchodný názov alkoholického nápoja a príslušný kód kombinovanej nomenklatúry,
+
+- b)
+
+- údaj o predpokladanom ročnom objeme alkoholického nápoja odosielaného v daňovom voľnom obehu v príslušnej meracej jednotke.
+
+- (3)
+
+- Prílohou k žiadosti podľa odseku 2 je doklad preukazujúci oprávnenie na podnikanie nie starší ako 30 dní alebo jeho osvedčená kópia, ak je žiadateľom právnická osoba, ktorá nemá sídlo na daňovom území, alebo fyzická osoba, ktorá nemá trvalý pobyt na daňovom území.
+
+- (4)
+
+- Colný úrad pred vykonaním registrácie a vydaním povolenia odosielať alkoholický nápoj na podnikateľské účely preverí skutočnosti a údaje podľa odsekov 2 a 3 a ak sú tieto skutočnosti a údaje pravdivé, colný úrad žiadateľa zaregistruje a vydá mu povolenie odosielať alkoholický nápoj na podnikateľské účely do 30 dní odo dňa podania tejto žiadosti.
+
+- (5)
+
+- Na zmenu údajov, odňatie a zánik povolenia odosielať alkoholický nápoj na podnikateľské účely sa použije § 19 primerane.“.
+
+- 59. Za § 26 sa vkladá § 26a, ktorý vrátane nadpisu znie:
+
+- „§ 26a
+
+- Schválený príjemca
+
+- (1)
+
+- Schváleným príjemcom na daňovom území je osoba, ktorá má povolenie prijímať alkoholický nápoj uvedený do daňového voľného obehu na území iného členského štátu na podnikateľské účely (ďalej len „povolenie prijímať alkoholický nápoj na podnikateľské účely“). Schváleným príjemcom je aj osoba na území iného členského štátu oprávnená podľa právnych predpisov príslušného členského štátu prijímať alkoholický nápoj uvedený do daňového voľného obehu na území iného členského štátu na podnikateľské účely. Osoba, ktorá chce byť schváleným príjemcom na daňovom území, musí požiadať colný úrad o registráciu a vydanie povolenia prijímať alkoholický nápoj na podnikateľské účely.
+
+- (2)
+
+- Žiadosť o registráciu a vydanie povolenia prijímať alkoholický nápoj na podnikateľské účely musí obsahovať okrem údajov podľa osobitného predpisu<sup>84</sup>)
+
+- a)
+
+- obchodný názov prijímaného alkoholického nápoja a príslušný kód kombinovanej nomenklatúry,
+
+- b)
+
+- údaj o predpokladanom ročnom objeme alkoholického nápoja prijímaného v daňovom voľnom obehu v príslušnej meracej jednotke,
+
+- c)
+
+- údaje potrebné na vyžiadanie výpisu z registra trestov<sup>20a</sup>) žiadateľa alebo jeho zodpovedného zástupcu, ak je žiadateľom fyzická osoba; ak je žiadateľom právnická osoba, údaje potrebné na vyžiadanie výpisu z registra trestov tejto právnickej osoby, zodpovedného zástupcu a fyzických osôb, ktoré sú členmi riadiacich orgánov alebo kontrolných orgánov, ak chce prijímať lieh v spotrebiteľskom balení,
+
+- d)
+
+- zoznam majetkovo prepojených osôb a personálne prepojených osôb so žiadateľom, ak chce prijímať lieh v spotrebiteľskom balení.
+
+- (3)
+
+- Prílohou k žiadosti podľa odseku 2 je doklad preukazujúci oprávnenie na podnikanie nie starší ako 30 dní alebo jeho osvedčená kópia, ak je žiadateľom právnická osoba, ktorá nemá sídlo na daňovom území, alebo fyzická osoba, ktorá nemá trvalý pobyt na daňovom území.
+
+- (4)
+
+- Ak chce žiadateľ podľa odseku 1 prijímať lieh v spotrebiteľskom balení, musí spĺňať aj podmienky podľa § 52 ods. 3.
+
+- (5)
+
+- Colný úrad pred vykonaním registrácie a vydaním povolenia prijímať alkoholický nápoj na podnikateľské účely preverí skutočnosti a údaje podľa odsekov 2 a 3 a pri žiadateľovi podľa odseku 4 splnenie podmienok podľa § 52 ods. 3. Ak sú tieto skutočnosti a údaje pravdivé, colný úrad žiadateľa zaregistruje a vydá mu povolenie prijímať alkoholický nápoj na podnikateľské účely do 30 dní odo dňa podania tejto žiadosti.
+
+- (6)
+
+- Na zmenu údajov, odňatie a zánik povolenia prijímať alkoholický nápoj na podnikateľské účely sa použije § 19 primerane; to neplatí na zmenu údajov pre schváleného príjemcu spotrebiteľského balenia podľa odseku 9.
+
+- (7)
+
+- Zábezpeka na daň zložená v inom členskom štáte je platná na daňovom území.
+
+- (8)
+
+- Schválený príjemca alkoholického nápoja uvedeného do daňového voľného obehu na území iného členského štátu na podnikateľské účely je povinný pred každým prijatím tohto alkoholického nápoja
+
+- a)
+
+- zložiť zábezpeku na daň vo výške dane pripadajúcej na množstvo prijímaného alkoholického nápoja; na zábezpeku na daň sa použije § 16 primerane,
+
+- b)
+
+- postupovať podľa § 53, ak prijíma lieh v spotrebiteľskom balení,
+
+- c)
+
+- oznámiť adresu umiestnenia jeho prevádzkarne, ak nie je totožná so sídlom alebo trvalým pobytom žiadateľa, kde sa skladuje a označuje spotrebiteľské balenie kontrolnou známkou.
+
+- (9)
+
+- Schválený príjemca spotrebiteľského balenia je povinný oznámiť colnému úradu zmenu údajov podľa odseku 2 písm. c) a § 52 ods. 3 písm. f) do 15 dní odo dňa ich vzniku a podľa odseku 3 do 15 dní odo dňa podania návrhu na zmenu údajov príslušnému orgánu. Zmenu údajov podľa odseku 8 písm. c) je schválený príjemca povinný oznámiť colnému úradu do 15 dní pred prijatím neoznačeného spotrebiteľského balenia kontrolnou známkou z iného členského štátu.
+
+- (10)
+
+- Na úhradu dane je možné po dohode s colným úradom použiť zloženú zábezpeku na daň, pričom § 70 ods. 1 písm. v) sa nepoužije; povinnosť vyrovnať prípadné rozdiely z použitia zábezpeky na daň tým nie je dotknutá.
+
+- (11)
+
+- Ak daň nie je zaplatená v lehote splatnosti ustanovenej týmto zákonom, colný úrad použije zábezpeku na daň na úhradu dane a oznámi túto skutočnosť schválenému príjemcovi.“.
+
+- 60. § 27 vrátane nadpisu znie:
+
+- „§ 27
+
+- Postup pri preprave alkoholického nápoja
+
+- mimo pozastavenia dane na podnikateľské účely
+
+- (1)
+
+- Alkoholickým nápojom určeným na podnikateľské účely sa na účely tohto zákona rozumie alkoholický nápoj dodaný na iné účely ako na súkromné účely podľa § 28 ods. 1 alebo v rámci zásielkového obchodu podľa § 29 ods. 1. Alkoholický nápoj uvedený do daňového voľného obehu je možné prepravovať na podnikateľské účely od
+
+- a)
+
+- schváleného odosielateľa na daňovom území schválenému príjemcovi v inom členskom štáte,
+
+- b)
+
+- schváleného odosielateľa v inom členskom štáte schválenému príjemcovi na daňovom území,
+
+- c)
+
+- schváleného odosielateľa na daňovom území cez územie iného členského štátu schválenému príjemcovi na daňovom území.
+
+- (2)
+
+- Prepravu alkoholického nápoja v daňovom voľnom obehu na podnikateľské účely je možné uskutočniť len na základe elektronického zjednodušeného administratívneho dokumentu vyhotoveného prostredníctvom elektronického systému,<sup>36</sup>) a to spôsobom uvedeným v osobitnom predpise,<sup>37</sup>) (ďalej len „zjednodušený elektronický dokument“), ak § 27a neustanovuje inak. Návrh zjednodušeného elektronického dokumentu a aj akákoľvek zmena vykonaná prostredníctvom elektronického systému<sup>36</sup>) musí byť podpísaná kvalifikovaným elektronickým podpisom,<sup>38</sup>) ak sa schválený odosielateľ s colným úradom nedohodne inak.
+
+- (3)
+
+- Pred začatím prepravy alkoholického nápoja v daňovom voľnom obehu na podnikateľské účely schválený odosielateľ vyhotoví návrh zjednodušeného elektronického dokumentu, ktorý zašle colnému úradu schváleného odosielateľa. Colný úrad schváleného odosielateľa elektronicky overí údaje v návrhu zjednodušeného elektronického dokumentu a ak sú údaje správne, pridelí k návrhu zjednodušeného elektronického dokumentu jedinečný zjednodušený administratívny referenčný kód (ďalej len „zjednodušený referenčný kód“) a zároveň zašle zjednodušený elektronický dokument s prideleným zjednodušeným referenčným kódom schválenému odosielateľovi a správcovi dane členského štátu schváleného príjemcu. Ak údaje uvedené v návrhu zjednodušeného elektronického dokumentu nie sú správne, colný úrad schváleného odosielateľa o tejto skutočnosti bezodkladne informuje schváleného odosielateľa návrhu zjednodušeného elektronického dokumentu. Prepravu alkoholického nápoja v daňovom voľnom obehu na podnikateľské účely je možné začať až po pridelení zjednodušeného referenčného kódu, ak § 27a neustanovuje inak. Alkoholický nápoj prepravovaný v daňovom voľnom obehu na podnikateľské účely musí sprevádzať písomný dokument obsahujúci zjednodušený referenčný kód.
+
+- (4)
+
+- Schválený odosielateľ môže zrušiť prostredníctvom elektronického systému<sup>36</sup>) zjednodušený elektronický dokument, ak sa nezačala preprava alkoholického nápoja v daňovom voľnom obehu na podnikateľské účely. Preprava alkoholického nápoja v daňovom voľnom obehu na podnikateľské účely sa začína, keď alkoholický nápoj opustí sklad schváleného odosielateľa alebo miesto odoslania na daňovom území, ktoré schválený odosielateľ oznámil colnému úradu.
+
+- (5)
+
+- Počas prepravy alkoholického nápoja v daňovom voľnom obehu na podnikateľské účely môže schválený odosielateľ prostredníctvom elektronického systému<sup>36</sup>) zmeniť miesto prijatia uvedené v zjednodušenom elektronickom dokumente alebo schváleného príjemcu, a to spôsobom uvedeným v osobitnom predpise.<sup>37</sup>)
+
+- (6)
+
+- Ak sa alkoholický nápoj uvedený do daňového voľného obehu na území iného členského štátu na podnikateľské účely prepravuje podľa odseku 1 písm. b), colný úrad schváleného príjemcu je povinný zjednodušený elektronický dokument zaslaný správcom dane členského štátu schváleného odosielateľa zaslať schválenému príjemcovi.
+
+- (7)
+
+- Ak sa alkoholický nápoj uvedený do daňového voľného obehu na daňovom území na podnikateľské účely prepravuje cez územie iného členského štátu na daňové územie na podnikateľské účely, schválený odosielateľ je povinný vyhotoviť zjednodušený elektronický dokument a postupovať podľa odseku 3. Schválený príjemca, ktorý chce tento alkoholický nápoj prijať, je povinný oznámiť údaje podľa § 26a ods. 8 a postupovať podľa odseku 8.
+
+- (8)
+
+- Ak sa alkoholický nápoj uvedený do daňového voľného obehu na území iného členského štátu prepravuje na daňové územie na podnikateľské účely, schválený príjemca je povinný najneskôr do piatich pracovných dní odo dňa ukončenia prepravy tohto alkoholického nápoja predložiť colnému úradu schváleného príjemcu správu o prijatí; správa o prijatí musí byť podpísaná kvalifikovaným elektronickým podpisom,<sup>38</sup>) ak sa schválený príjemca s colným úradom nedohodne inak. Colný úrad schváleného príjemcu elektronicky overí údaje v správe o prijatí a ak sú tieto údaje správne, potvrdí schválenému príjemcovi zaevidovanie správy o prijatí. Správu o prijatí colný úrad schváleného príjemcu po jej zaevidovaní bezodkladne zašle schválenému odosielateľovi a colnému úradu schváleného odosielateľa. Ak údaje uvedené v správe o prijatí nie sú správne, colný úrad schváleného príjemcu o tejto skutočnosti bezodkladne informuje schváleného odosielateľa správy o prijatí.
+
+- (9)
+
+- Alkoholický nápoj uvedený do daňového voľného obehu na daňovom území prepravovaný do iného členského štátu na podnikateľské účely alebo alkoholický nápoj uvedený do daňového voľného obehu na území iného členského štátu prepravovaný na daňové územie na podnikateľské účely sa považuje za alkoholický nápoj dodaný na podnikateľské účely dňom prijatia tohto alkoholického nápoja schváleným príjemcom, ak sa preprava uskutočňuje so zjednodušeným elektronickým dokumentom.
+
+- (10)
+
+- Ak pri preprave alkoholického nápoja podľa odseku 1 došlo k nenávratnému zničeniu alkoholického nápoja v dôsledku nehody, havárie alebo vplyvom vyššej moci, alebo došlo pri preprave alkoholického nápoja na podnikateľské účely k stratám alkoholického nápoja, ktoré pripadajú na prirodzené úbytky alkoholického nápoja súvisiace s jeho fyzikálno-chemickými vlastnosťami počas prepravy, a ak sú tieto straty alkoholického nápoja alebo nenávratné zničenie alkoholického nápoja na základe úradného zistenia a potvrdenia uznané colným úradom alebo správcom dane iného členského štátu, daňová povinnosť vo výške dane pripadajúcej na množstvo alkoholického nápoja, ktoré bolo uznané ako strata alkoholického nápoja alebo nenávratné zničenie alkoholického nápoja, nevzniká. Colný úrad na žiadosť vráti zábezpeku na daň zloženú podľa § 26a ods. 8 písm. a) vo výške dane pripadajúcej na množstvo alkoholického nápoja, ktoré bolo colným úradom alebo správcom dane iného členského štátu uznané ako strata alkoholického nápoja alebo nenávratné zničenie alkoholického nápoja.
+
+- (11)
+
+- Colný úrad môže prostredníctvom elektronického systému<sup>36</sup>) uložiť schválenému príjemcovi po začatí prepravy alkoholického nápoja v daňovom voľnom obehu na podnikateľské účely povinnosť bezodkladne po dopravení alkoholického nápoja na miesto prijatia oznámiť dopravenie alkoholického nápoja prostredníctvom elektronického systému<sup>36</sup>) colnému úradu a počas dvoch hodín od zaslania oznámenia o tejto skutočnosti prostredníctvom elektronického systému<sup>36</sup>) alkoholický nápoj nevyložiť, neprečerpať alebo s týmto alkoholickým nápojom nenakladať.
+
+- (12)
+
+- Alkoholický nápoj uvedený do daňového voľného obehu na daňovom území alebo na území iného členského štátu dodaný na paluby lietadiel alebo lodí uskutočňujúcich prepravu na daňové územie alebo na územie iného členského štátu, ktorý nie je ponúkaný na predaj na daňovom území, sa na účely tohto zákona nepovažuje za alkoholický nápoj určený na podnikateľské účely na daňovom území.
+
+- (13)
+
+- Za alkoholický nápoj, ktorým je lieh, uvedený do daňového voľného obehu sa považuje aj všeobecne denaturovaný lieh vyrobený na daňovom území alebo dopravený na daňové územie z územia iného členského štátu. Osoba, ktorá chce prepravovať všeobecne denaturovaný lieh na územie iného členského štátu na podnikateľské účely, je povinná požiadať colný úrad o registráciu schváleného odosielateľa, vydanie povolenia odosielať alkoholický nápoj na podnikateľské účely a postupovať podľa odseku 3. Na prepravu všeobecne denaturovaného liehu sa zábezpeka na daň nevyžaduje.
+
+- (14)
+
+- Ak odberateľ alkoholického nápoja, ktorým je oprávnený príjemca, chce alkoholický nápoj uvedený do daňového voľného obehu na daňovom území prepravovať na účely reklamácie dodávateľovi reklamovaného alkoholického nápoja, ktorým je prevádzkovateľ daňového skladu v inom členskom štáte, môže takýto alkoholický nápoj prepravovať len so zjednodušeným elektronickým dokumentom. Pri preprave reklamovaného alkoholického nápoja musí odosielateľ (dodávateľ) vyhotoviť zjednodušený elektronický dokument a postupovať podľa odsekov 1 až 5. Povinnosť registrovať sa a požiadať o vydanie povolenia podľa § 26 ods. 1 až 4 sa na neho nevzťahuje. Na zjednodušenom elektronickom dokumente alebo sprievodnom dokumente je oprávnený príjemca povinný uviesť počet kontrolných známok a ich identifikačné čísla, ak sa reklamovaný alkoholický nápoj, ktorým je lieh, nachádza v spotrebiteľskom balení a prepravuje sa v rámci reklamácie na územie iného členského štátu označený kontrolnou známkou. Oprávnený príjemca pri vrátení dane postupuje primerane podľa § 13; potvrdenie správcu dane iného členského štátu o vysporiadaní dane v tomto členskom štáte sa nevyžaduje.“.
+
+  - Poznámka pod čiarou k odkazu 36 znie:
+
+  - „<sup>36</sup>) Rozhodnutie Európskeho parlamentu a Rady (EÚ) 2020/263 z 15. januára 2020 o informatizácii prepravy a kontroly tovaru podliehajúceho spotrebnej dani (prepracované znenie) (Ú. v. EÚ L 58, 27. 2. 2020).“.
+
+  - Poznámka pod čiarou k odkazu 44 sa vypúšťa.
+
+- 61. Za § 27 sa vkladá § 27a, ktorý vrátane nadpisu znie:
+
+- „§ 27a
+
+- Postup pri preprave alkoholického nápoja mimo pozastavenia dane
+
+- na podnikateľské účely pri nedostupnom elektronickom systéme
+
+- (1)
+
+- Ak je elektronický systém<sup>36</sup>) nedostupný, schválený odosielateľ je povinný
+
+- a)
+
+- oznámiť colnému úradu schváleného odosielateľa začatie prepravy alkoholického nápoja v daňovom voľnom obehu na podnikateľské účely,
+
+- b)
+
+- vyhotoviť zjednodušený administratívny dokument v písomnej forme (ďalej len „zjednodušený dokument“), ktorý obsahuje rovnaké údaje ako zjednodušený elektronický dokument vyhotovený podľa § 27.
+
+- (2)
+
+- Alkoholický nápoj prepravovaný v daňovom voľnom obehu na podnikateľské účely musí sprevádzať zjednodušený dokument vyhotovený schváleným odosielateľom. Schválený odosielateľ si ponechá kópiu zjednodušeného dokumentu a ďalšiu kópiu zjednodušeného dokumentu je povinný pred začatím prepravy alkoholického nápoja v daňovom voľnom obehu na podnikateľské účely zaslať colnému úradu schváleného odosielateľa.
+
+- (3)
+
+- Ak je počas prepravy alkoholického nápoja v daňovom voľnom obehu na podnikateľské účely elektronický systém<sup>36</sup>) nedostupný, schválený odosielateľ môže zmeniť miesto prijatia alkoholického nápoja alebo schváleného príjemcu, len ak oznámil colnému úradu schváleného odosielateľa informácie spôsobom uvedeným v osobitnom predpise.<sup>37</sup>) Schválený odosielateľ je povinný požadované informácie zaslať colnému úradu schváleného odosielateľa pred zmenou miesta prijatia; odsek 6 sa použije primerane.
+
+- (4)
+
+- Ak sa preprava alkoholického nápoja v daňovom voľnom obehu na podnikateľské účely ukončila so zjednodušeným dokumentom alebo ak je elektronický systém<sup>36</sup>) nedostupný v čase prijatia alkoholického nápoja prepravovaného v daňovom voľnom obehu na podnikateľské účely, schválený príjemca je povinný vyhotoviť písomnú správu o prijatí, ktorá musí obsahovať rovnaké údaje ako správa o prijatí podľa § 27 ods. 8. Písomná správa o prijatí je potvrdením o ukončení prepravy alkoholického nápoja v daňovom voľnom obehu na podnikateľské účely pri nedostupnom elektronickom systéme.<sup>36</sup>) Schválený príjemca je povinný túto písomnú správu o prijatí predložiť colnému úradu schváleného príjemcu, ktorý kópiu písomnej správy o prijatí zasiela správcovi dane členského štátu schváleného odosielateľa.
+
+- (5)
+
+- Ak nebola schváleným príjemcom vyhotovená správa o prijatí alebo písomná správa o prijatí z iného dôvodu ako je nedostupnosť elektronického systému,<sup>36</sup>) je schválený príjemca povinný predložiť colnému úradu schváleného príjemcu iný dôkaz o ukončení prepravy alkoholického nápoja v daňovom voľnom obehu na podnikateľské účely, ktorý musí obsahovať rovnaké náležitosti, ako sú uvedené v správe o prijatí podľa § 27 ods. 8. Ak colný úrad schváleného príjemcu uzná iný dôkaz o ukončení prepravy alkoholického nápoja v daňovom voľnom obehu na podnikateľské účely, oznámi túto skutočnosť colnému úradu schváleného odosielateľa alebo správcovi dane členského štátu schváleného odosielateľa a ukončí prepravu alkoholického nápoja v daňovom voľnom obehu na podnikateľské účely prostredníctvom elektronického systému.<sup>36</sup>)
+
+- (6)
+
+- Ak sa elektronický systém<sup>36</sup>) sprístupní, colný úrad, schválený odosielateľ a schválený príjemca sú povinní bezodkladne postupovať podľa § 27; rovnako sú povinní postupovať, ak bola preprava tohto alkoholického nápoja ukončená pri nedostupnom elektronickom systéme.<sup>36</sup>) Schválený príjemca zjednodušený dokument vyhotovený podľa odseku 1 písm. b) zaeviduje vo svojom účtovníctve.“.
+
+- 62. V § 28 ods. 3 úvodnej vete sa slová „§ 26“ nahrádzajú slovami „§ 27“.
+
+- 63. V § 29 sa odsek 1 dopĺňa písmenom c), ktoré znie:
+
+- „c)
+
+- schváleným príjemcom podľa tohto zákona.“.
+
 - 64. V § 29 odsek 7 znie:
 
 - „(7)
@@ -294,6 +574,24 @@ Zákon č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov v znení z
 
   - Doterajšie odseky 10 a 11 sa označujú ako odseky 11 a 12.
 
+- 66. V § 30 ods. 1 sa slová „§ 26“ nahrádzajú slovami „§ 27 alebo § 27a“.
+
+- 67. V § 30 ods. 6 sa slová „príjemca (odberateľ) alkoholického nápoja, ktorý zložil zábezpeku na daň podľa § 26 ods. 2 písm. b)“ nahrádzajú slovami „schválený príjemca, ktorý zložil zábezpeku na daň podľa § 26a ods. 8 písm. a)“.
+
+- 68. V § 38 sa za odsek 3 vkladajú nové odseky 4 a 5, ktoré znejú:
+
+- „(4)
+
+- Schválený odosielateľ je povinný viesť evidenciu alkoholického nápoja uvedeného do daňového voľného obehu na daňovom území prepraveného do iného členského štátu na podnikateľské účely.
+
+- (5)
+
+- Schválený príjemca je povinný viesť evidenciu alkoholického nápoja uvedeného do daňového voľného obehu na území iného členského štátu prijatého na podnikateľské účely.“.
+
+  - Doterajší odsek 4 sa označuje ako odsek 6.
+
+- 69. V § 38 ods. 6 sa slová „odsekoch 1 až 3“ nahrádzajú slovami „odsekoch 1 až 5“.
+
 - 70. V § 39 sa odsek 1 dopĺňa písmenami s) až u), ktoré znejú:
 
 - „s)
@@ -327,6 +625,8 @@ Zákon č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov v znení z
 - „h)
 
 - na výrobu a prípravu výživových doplnkov,<sup>48</sup>) ktoré sú uvádzané do daňového voľného obehu v spotrebiteľskom balení s objemom 0,15 litra a nižším.“.
+
+- 73. V § 40 ods. 2 písm. a) sa slovo „sprievodným“ nahrádza slovom „elektronickým“.
 
 - 74. V § 41 ods. 1 sa slová „ods. 4 písm. f)“ nahrádzajú slovom „g)“ a na konci sa pripája táto veta: „Žiadateľ o zaradenie do evidencie podnikov musí spĺňať podmienku podľa § 9 ods. 4 písm. f).“.
 
@@ -392,6 +692,12 @@ Zákon č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov v znení z
 
 - Vyhláška Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 188/2018 Z. z. o spotrebiteľskom balení, o fľaši ako odmernej nádobe, o požiadavkách na kontrolu množstva výrobku v spotrebiteľskom balení a o požiadavkách na kontrolu skutočného objemu fľaše ako odmernej nádoby v znení vyhlášky č. 433/2019 Z. z.“.
 
+- 84. V § 51 ods. 3 sa slová „príjemca (odberateľ) liehu podľa § 26 ods. 1“ nahrádzajú slovami „schválený príjemca spotrebiteľského balenia“.
+
+- 85. V § 51 ods. 4 sa slová „príjemca (odberateľ) liehu podľa § 26 ods. 1“ nahrádzajú slovami „schválený príjemca spotrebiteľského balenia“ a slová „§ 26 tým nie je dotknuté“ sa nahrádzajú slovami „§ 10 ods. 2 písm. c) a d) tým nie sú dotknuté“.
+
+- 86. V § 51 ods. 9 písm. e) sa slová „§ 26“ nahrádzajú slovami „§ 27 alebo § 27a“.
+
 - 87. V § 51 sa odsek 9 dopĺňa písmenom o), ktoré znie:
 
 - „o)
@@ -399,6 +705,50 @@ Zákon č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov v znení z
 - prijatý ozbrojenými silami iných členských štátov na použitie týmito ozbrojenými silami a ich civilnými zamestnancami pri obrannom úsilí v rámci spoločnej bezpečnostnej a obrannej politiky Európskej únie.“.
 
 - 88. V § 52 ods. 1 písm. b) sa slová „vydaním kontrolných známok“ nahrádzajú slovami „dovozom spotrebiteľského balenia“.
+
+- 89. V § 52 odsek 2 znie:
+
+- „(2)
+
+- Prílohami k žiadosti podľa odseku 1 písm. a) sú
+
+- a)
+
+- doklad preukazujúci oprávnenie na podnikanie nie starší ako 30 dní alebo jeho osvedčená kópia, ak je žiadateľom právnická osoba, ktorá nemá sídlo na daňovom území, alebo fyzická osoba, ktorá nemá trvalý pobyt na daňovom území,
+
+- b)
+
+- zoznam majetkovo prepojených osôb a personálne prepojených osôb so žiadateľom na účel preukázania splnenia podmienky podľa odseku 3 písm. c).“.
+
+- 90. V § 52 ods. 3 úvodnej vete sa vypúšťajú slová „alebo príjemca (odberateľ) podľa § 26 ods. 1,“.
+
+- 91. V § 52 ods. 5 sa vypúšťajú slová „alebo do evidencie príjemcov (odberateľov) liehu podľa § 26 ods. 1,“.
+
+- 92. V § 52 odseky 6 a 7 znejú:
+
+- „(6)
+
+- Dovozca spotrebiteľského balenia je povinný každú zmenu údajov podľa odseku 1 alebo odseku 2 písm. a) oznámiť colnému úradu do 30 dní odo dňa jej vzniku okrem zmeny údajov podľa odseku 1 písm. a) druhého bodu a písm. b), c) a e) alebo zmenu podmienky podľa odseku 3 písm. f) oznámiť colnému úradu najneskôr do 15 dní odo dňa ich vzniku. Colný úrad preverí údaje uvedené v oznámení a s prihliadnutím na rozsah a závažnosť zmien doplní pôvodné potvrdenie o zaradení do evidencie dovozcov spotrebiteľského balenia alebo vydá nové potvrdenie o zaradení do evidencie dovozcov spotrebiteľského balenia.
+
+- (7)
+
+- Colný úrad vyradí dovozcu spotrebiteľského balenia z evidencie vedenej podľa odseku 1 a vráti zloženú zábezpeku na daň podľa odseku 1 písm. b), ak
+
+- a)
+
+- v priebehu 12 po sebe nasledujúcich kalendárnych mesiacov neuskutoční dovoz spotrebiteľského balenia,
+
+- b)
+
+- požiada o vyradenie z evidencie vedenej podľa odseku 1,
+
+- c)
+
+- prestal spĺňať niektorú z podmienok podľa odseku 3.“.
+
+- 93. V § 53 ods. 6 sa slová „príjemca (odberateľ) liehu podľa § 26 ods. 1“ nahrádzajú slovami „schválený príjemca spotrebiteľského balenia“ a slová „§ 26 ods. 2 písm. b)“ sa nahrádzajú slovami „§ 26a ods. 8 písm. a)“.
+
+- 94. V § 53 ods. 13 sa slová „podľa § 26 ods. 1“ nahrádzajú slovami „na území iného členského štátu“ a za slová „na daňovom území“ sa vkladajú slová „na podnikateľské účely“.
 
 - 95. V § 53 ods. 19 písm. d) sa na konci pripájajú tieto slová: „pričom konečný stav nenávratne zničených kontrolných známok sa zaokrúhľuje na celé kusy nadol,“.
 
@@ -418,6 +768,12 @@ Zákon č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov v znení z
 
 - 99. V § 54 ods. 10 sa na konci pripájajú tieto slová: „a zoznam majetkovo prepojených osôb a personálne prepojených osôb so žiadateľom na účel preukázania splnenia podmienky podľa odseku 11 písm. i)“.
 
+- 100. V § 54 odsek 13 znie:
+
+- „(13)
+
+- Povinnosť podľa odseku 9 a splnenie podmienok podľa odseku 11 sa nevzťahuje na osobu registrovanú colným úradom podľa § 15, 19 a 26a, ak prijíma spotrebiteľské balenie, alebo evidovanú colným úradom podľa § 52 ods. 5. Colný úrad vydá osobe podľa prvej vety oprávnenie na distribúciu a pridelí jej číslo oprávnenia na distribúciu ku dňu vydania povolenia na prevádzkovanie daňového skladu, v ktorom sa vyrába, skladuje, prijíma alebo odosiela spotrebiteľské balenie, ku dňu vydania povolenia na prijatie liehu z iného členského štátu v pozastavení dane, ku dňu vydania povolenia prijímať alkoholický nápoj na podnikateľské účely alebo ku dňu zaradenia do evidencie dovozcov spotrebiteľského balenia. Ak oprávnený príjemca, ktorý má povolenie prijať lieh v pozastavení dane príležitostne, schválený príjemca spotrebiteľského balenia alebo dovozca spotrebiteľského balenia, ktorému colný úrad vydal oprávnenie na distribúciu podľa druhej vety, nespĺňa podmienky podľa odseku 11, môže na základe takto vydaného oprávnenia na distribúciu predávať len spotrebiteľské balenie, ktoré v tejto súvislosti prijal v pozastavení dane, prepravil podľa § 27 alebo § 27a na podnikateľské účely alebo doviezol z územia tretieho štátu.“.
+
 - 101. V § 54 ods. 14 písmeno a) znie:
 
 - „a)
@@ -432,7 +788,15 @@ Zákon č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov v znení z
 
 - 103. V § 54 ods. 19 sa vypúšťa prvá veta.
 
+- 104. V § 54 ods. 21 písm. b) piatom bode sa za slová „§ 19“ vkladajú slová „alebo § 26a“ a v šiestom bode sa vypúšťajú slová „alebo príjemcov (odberateľov) liehu podľa § 26 ods. 1“.
+
 - 105. V § 54 ods. 22 sa vypúšťa druhá veta a tretia veta.
+
+- 106. V § 63 ods. 5 sa slová „§ 26 ods. 2 až 6“ nahrádzajú slovami „§ 26a ods. 8 a 10“ a vypúšťa sa druhá veta.
+
+- 107. V § 63 sa vypúšťa odsek 6.
+
+  - Doterajší odsek 7 sa označuje ako odsek 6.
 
 - 108. § 66 vrátane nadpisu znie:
 
@@ -810,7 +1174,31 @@ Zákon č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov v znení z
 
 - (10)
 
-- Ak konanie o žiadosti o zaradenie do evidencie príjemcov (odberateľov) liehu podľa § 26 ods. 1 v znení účinnom do 12. februára 2023 nebolo právoplatne ukončené do 12. februára 2023, konanie sa zastavuje.“.
+- Ak konanie o žiadosti o zaradenie do evidencie príjemcov (odberateľov) liehu podľa § 26 ods. 1 v znení účinnom do 12. februára 2023 nebolo právoplatne ukončené do 12. februára 2023, konanie sa zastavuje.
+
+- § 76g
+
+- Prechodné ustanovenia k úpravám účinným od 13. februára 2023
+
+- (1)
+
+- Osoba, ktorá chce prepravovať alkoholický nápoj uvedený do daňového voľného obehu na podnikateľské účely podľa § 26 v znení účinnom do 12. februára 2023, môže postupovať podľa § 26 v znení účinnom do 12. februára 2023 najneskôr do 31. decembra 2023.
+
+- (2)
+
+- Na prepravu alkoholického nápoja podľa § 26 v znení účinnom do 12. februára 2023 je možné použiť zjednodušený sprievodný dokument vyhotovený podľa § 27 v znení účinnom do 12. februára 2023 najneskôr do 31. decembra 2023.
+
+- (3)
+
+- Preprava alkoholického nápoja uvedeného do daňového voľného obehu na podnikateľské účely, ktorá začala podľa § 26 v znení účinnom do 12. februára 2023 a nebola ukončená do 31. decembra 2023, sa ukončí podľa § 26 v znení účinnom do 12. februára 2023.
+
+- (4)
+
+- Príjemca (odberateľ) liehu podľa § 26 ods. 1 v znení účinnom do 12. februára 2023 je povinný do 15. decembra 2023 preukázať colnému úradu použitie odobraných kontrolných známok spôsobom podľa § 53 ods. 17 a nepoužité kontrolné známky odovzdať colnému úradu. Colný úrad nepoužité kontrolné známky zničí na náklady príjemcu (odberateľa) liehu podľa § 26 ods. 1 v znení účinnom do 12. februára 2023. Colný úrad o zničení kontrolných známok vyhotoví zápisnicu.
+
+- (5)
+
+- Zaradenie do evidencie príjemcov (odberateľov) liehu podľa § 26 ods. 1 v znení účinnom do 12. februára 2023 podľa § 52 ods. 5 v znení účinnom do 12. februára 2023 zaniká k 31. decembru 2023.“.
 
 - 123. Príloha č. 2 sa dopĺňa siedmym až desiatym bodom, ktoré znejú:
 
