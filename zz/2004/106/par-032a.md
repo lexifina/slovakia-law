@@ -1,6 +1,6 @@
 # § 32a Nezrovnalosti pri preprave tabakových výrobkov mimo pozastavenia dane na podnikateľské účely alebo pri zásielkovom obchode
 
-(1) Nezrovnalosťou pri preprave tabakových výrobkov podľa § 29 alebo § 32 sa na účely tohto zákona rozumejú okolnosti, v ktorých dôsledku sa preprava tabakových výrobkov alebo časť prepravy tabakových výrobkov uvedených do daňového voľného obehu neukončila podľa tohto zákona.
+(1) Nezrovnalosťou pri preprave tabakových výrobkov podľa § 30, § 30a alebo § 32 sa na účely tohto zákona rozumejú okolnosti, v ktorých dôsledku sa preprava tabakových výrobkov alebo časť prepravy tabakových výrobkov uvedených do daňového voľného obehu neukončila podľa tohto zákona.
 
 (2) Za nezrovnalosť pri preprave tabakových výrobkov v daňovom voľnom obehu sa na účely tohto zákona nepovažuje, ak
 
@@ -14,7 +14,7 @@
 
 (5) Ak sa pred uplynutím troch rokov odo dňa vzniku nezrovnalosti podľa odseku 4 zistí, že k nezrovnalosti pri preprave tabakových výrobkov, ktoré boli uvedené do daňového voľného obehu v inom členskom štáte, došlo v inom členskom štáte a v tom členskom štáte bola daň zaplatená, colný úrad daň zaplatenú na daňovom území vráti platiteľovi dane do 30 dní odo dňa predloženia dokladu o zaplatení dane v inom členskom štáte. Po uplynutí lehoty troch rokov odo dňa vzniku nezrovnalosti podľa odseku 4 nemožno vrátiť daň.
 
-(6) Platiteľom dane je príjemca (odberateľ) tabakových výrobkov, ktorý zložil zábezpeku na daň podľa § 29 ods. 2 písm. b), alebo odosielateľ (dodávateľ) tabakových výrobkov, ktorý zložil zábezpeku na daň podľa § 32 ods. 3 písm. c).
+(6) Platiteľom dane je schválený príjemca, ktorý zložil zábezpeku na daň podľa § 29a ods. 6, alebo odosielateľ (dodávateľ) tabakových výrobkov, ktorý zložil zábezpeku na daň podľa § 32 ods. 3 písm. c).
 
 (7) Ak sa pri preprave tabakových výrobkov v daňovom voľnom obehu zistí, že nezrovnalosť na daňovom území nevznikla, colný úrad zloženú zábezpeku na daň vráti príjemcovi (odberateľovi) tabakových výrobkov alebo odosielateľovi (dodávateľovi) tabakových výrobkov, ktorý zložil zábezpeku na daň na daňovom území a preukázal, že nezrovnalosť nevznikla na daňovom území.
 
