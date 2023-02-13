@@ -150,8 +150,6 @@
 
 - 25d) Čl. 174 nariadenia (EÚ) č. 952/2013.
 
-- 26) Nariadenie Komisie (EHS) č. 3649/92 zo 17. decembra 1992 o zjednodušenom sprievodnom dokumente na prepravu tovaru podliehajúceho spotrebnej dani vo vnútri Spoločenstva, ktorý bol uvoľnený do daňového voľného obehu v odosielajúcom členskom štáte (Úradný vestník Európskych spoločenstiev L 369, 18/12/1992, s. 17–24).
-
 - 27) § 44 až 47 zákona č. 563/2009 Z. z.
 
 - 28) § 69 zákona č. 563/2009 Z. z.

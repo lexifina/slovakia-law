@@ -14,7 +14,7 @@
 
 (5) Ak sa pred uplynutím troch rokov odo dňa vzniku nezrovnalosti podľa odseku 4 zistí, že k nezrovnalosti pri preprave minerálneho oleja, ktorý bol uvedený do daňového voľného obehu v inom členskom štáte, došlo v inom členskom štáte a v tom členskom štáte bola daň zaplatená, colný úrad daň zaplatenú na daňovom území vráti platiteľovi dane do 30 dní odo dňa predloženia dokladu o zaplatení dane v inom členskom štáte. Po uplynutí lehoty troch rokov odo dňa vzniku nezrovnalosti podľa odseku 4 nemožno vrátiť daň.
 
-(6) Platiteľom dane je príjemca (odberateľ) minerálneho oleja, ktorý zložil zábezpeku na daň podľa § 31 ods. 2 písm. b), alebo odosielateľ (dodávateľ) minerálneho oleja, ktorý zložil zábezpeku na daň podľa § 34 ods. 3 písm. c).
+(6) Platiteľom dane je schválený príjemca, ktorý zložil zábezpeku na daň podľa § 32a ods. 6, alebo odosielateľ (dodávateľ) minerálneho oleja, ktorý zložil zábezpeku na daň podľa § 34 ods. 3 písm. c).
 
 (7) Ak sa pri preprave minerálneho oleja v daňovom voľnom obehu zistí, že nezrovnalosť na daňovom území nevznikla, colný úrad zloženú zábezpeku na daň vráti príjemcovi (odberateľovi) minerálneho oleja alebo odosielateľovi (dodávateľovi) minerálneho oleja, ktorý zložil zábezpeku na daň na daňovom území a preukázal, že nezrovnalosť nevznikla na daňovom území.
 

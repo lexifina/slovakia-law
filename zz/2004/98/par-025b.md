@@ -106,7 +106,9 @@
 
 - h) spĺňať podmienky podľa odseku 7 písm. a), b), d) až i) počas celého obdobia platnosti povolenia na distribúciu, pričom ak v čase podania žiadosti o vydanie povolenia na distribúciu preukázal splnenie podmienky podľa odseku 7 písm. c), po uplynutí jedného roka odo dňa právoplatnosti povolenia na distribúciu musí preukázať splnenie podmienky podľa odseku 7 písm. b),
 
-- i) spĺňať podmienky podľa odseku 8 počas celého obdobia platnosti povolenia na distribúciu, ak má skladovacie zariadenie na skladovanie minerálneho oleja uvedeného v § 6 ods. 1 písm. a) a d).
+- i) spĺňať podmienky podľa odseku 8 počas celého obdobia platnosti povolenia na distribúciu, ak má skladovacie zariadenie na skladovanie minerálneho oleja uvedeného v § 6 ods. 1 písm. a) a d),
+
+- j) postupovať pri preprave minerálneho oleja uvedeného v § 6 ods. 1 písm. a) a d) podľa § 31.
 
 (15) Predajca pohonných látok je povinný
 
@@ -130,7 +132,9 @@
 
 - f) spĺňať podmienky podľa odseku 7 písm. a), d) až i) a odseku 8 počas celého obdobia platnosti povolenia na predaj,
 
-- g) vydávať minerálny olej uvedený v § 6 ods. 1 písm. a a d) na konečnú spotrebu len prostredníctvom výdajného stojana na pohonné látky okrem výdaja tohto minerálneho oleja v uzavretých spotrebiteľských baleniach na konečnú spotrebu; to neplatí, ak predajca pohonných látok vydáva minerálny olej uvedený v § 6 ods. 1 písm. a) a d) znehodnotený z dôvodu nepredvídateľných okolností na prepracovanie alebo zneškodnenie podľa osobitného predpisu<sup>6ca</sup>) a oznámi túto skutočnosť colnému úradu.
+- g) vydávať minerálny olej uvedený v § 6 ods. 1 písm. a a d) na konečnú spotrebu len prostredníctvom výdajného stojana na pohonné látky okrem výdaja tohto minerálneho oleja v uzavretých spotrebiteľských baleniach na konečnú spotrebu; to neplatí, ak predajca pohonných látok vydáva minerálny olej uvedený v § 6 ods. 1 písm. a) a d) znehodnotený z dôvodu nepredvídateľných okolností na prepracovanie alebo zneškodnenie podľa osobitného predpisu<sup>6ca</sup>) a oznámi túto skutočnosť colnému úradu,
+
+- h) postupovať pri preprave minerálneho oleja uvedeného v § 6 ods. 1 písm. a) a d) podľa § 31.
 
 (16) Osoba, ktorá chce na daňovom území nakupovať alebo inak odoberať v rámci svojej podnikateľskej činnosti v daňovom voľnom obehu na vlastnú spotrebu minerálny olej uvedený v § 6 ods. 1 písm. a) a d) od osoby podľa odseku 1 (ďalej len „spotrebiteľ pohonných látok“), je povinná oznámiť túto skutočnosť colnému úradu najneskôr pred prvým nákupom tohto minerálneho oleja alebo jeho prvým odberom. Ak spotrebiteľ pohonných látok skladuje nakúpený alebo odobratý minerálny olej uvedený v § 6 ods. 1 písm. a) a d), musí mať skladovacie zariadenie podľa odseku 8 okrem spotrebiteľa pohonných látok, ktorý nakupuje tento minerálny olej v uzavretých spotrebiteľských baleniach na konečnú spotrebu. Spotrebiteľ pohonných látok v oznámení podľa prvej vety okrem údajov podľa osobitného predpisu<sup>30b</sup>) uvedie
 
@@ -154,7 +158,9 @@
 
 - e) predložiť na požiadanie colného úradu účtovné doklady o nadobudnutí minerálneho oleja uvedeného v § 6 ods. 1 písm. a) a d),
 
-- f) viesť evidenciu prijatého a spotrebovaného minerálneho oleja uvedeného v § 6 ods. 1 písm. a) a d) a evidenciu stavu zásob tohto minerálneho oleja.
+- f) viesť evidenciu prijatého a spotrebovaného minerálneho oleja uvedeného v § 6 ods. 1 písm. a) a d) a evidenciu stavu zásob tohto minerálneho oleja,
+
+- g) postupovať pri preprave minerálneho oleja uvedeného v § 6 ods. 1 písm. a) a d) podľa § 31.
 
 (19) Colný úrad vyradí spotrebiteľa pohonných látok z evidencie spotrebiteľov pohonných látok, ak
 
