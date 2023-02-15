@@ -1,0 +1,1 @@
+Príloha č. 2 k vyhláške č. 40/2023 Z. z. [VZOR OSVEDČENIA o získaní osobitného kvalifikačného predpokladu na zabezpečenie úloh štátnej správy v oblasti pozemkových úprav](../assets/2a848c99ad54574a7a1e8b7e81be2e67474af8a8ad6708ea40eac974a7e49bfe.pdf)
