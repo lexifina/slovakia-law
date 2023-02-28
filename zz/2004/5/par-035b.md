@@ -38,7 +38,7 @@
 
 (3) Založenie Aliancie sektorových rád zabezpečí ministerstvo a ministerstvo školstva v spolupráci s reprezentatívnymi združeniami zamestnávateľov a reprezentatívnymi združeniami odborových zväzov, ktoré si uplatnili právo byť členom Aliancie sektorových rád podľa odseku 2.
 
-(4) Spôsob prijímania členov, dôvody zániku členstva, spôsob rokovania, spôsob hlasovania členov, financovanie Aliancie sektorových rád, spôsob jej zrušenia a naloženie s jej likvidačným zostatkom upravia stanovy Aliancie sektorových rád. Stanovy Aliancie sektorových rád a ich zmeny nenadobudnú účinnosť bez súhlasu vlády Slovenskej republiky.
+(4) Spôsob prijímania členov, dôvody zániku členstva, spôsob hlasovania členov, financovanie Aliancie sektorových rád, spôsob jej zrušenia a naloženie s jej likvidačným zostatkom upravia stanovy Aliancie sektorových rád. Stanovy Aliancie sektorových rád a ich zmeny nenadobudnú účinnosť bez súhlasu vlády Slovenskej republiky; to sa nevzťahuje na zmenu stanov v oblastiach neuvedených v prvej vete.
 
 (5) Činnosť Aliancie sektorových rád je financovaná zo zdrojov Európskej únie, štátneho rozpočtu alebo z iných zdrojov, ktorými sú najmä vklady členov vo forme členských príspevkov a príjmy z vlastnej činnosti.
 
