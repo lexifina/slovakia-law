@@ -1,6 +1,6 @@
 # § 10a Správy predkladané Slovenskou republikou Európskej komisii
 
-(1) Údaje podľa odsekov 2 a 3 sa oznamujú Európskej komisii každoročne do 31. augusta. Tieto údaje sa oznamujú za všetky pohonné látky a dodanú energiu uvedené na trh. Ak sa s pohonnými látkami inými ako biopalivo zmiešavajú rôzne druhy biopalív alebo biopalivá s rozdielnymi vlastnosťami trvalej udržateľnosti, predkladajú sa údaje za každé biopalivo.
+(1) Údaje podľa odsekov 2 a 3 sa oznamujú Európskej komisii každoročne do 31. augusta. Tieto údaje sa oznamujú za všetky pohonné látky a dodanú energiu uvedené na trh. Ak sa s inými pohonnými látkami zmiešavajú rôzne druhy biopalív alebo biopalivá s rozdielnymi vlastnosťami trvalej udržateľnosti, predkladajú sa údaje za každé biopalivo.
 
 (2) Pre každý typ pohonnej látky a dodanej energie sa oznamujú súhrnne tieto údaje:
 

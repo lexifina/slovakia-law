@@ -2,7 +2,7 @@
 
 (1) Znižovanie emisií v predvýrobnej fáze sa započítava, ak
 
-- a) je spojené s projektom, ktorý začal generovať úspory emisií skleníkových plynov po 1. januári 2011, pričom schéma na dosiahnutie znižovania emisií v predvýrobnej fáze sa tiež považuje za projekt,b)
+- a) je spojené s projektom, ktorý začal generovať úspory emisií skleníkových plynov po 1. januári 2011, pričom schéma na dosiahnutie znižovania emisií v predvýrobnej fáze sa tiež považuje za projekt,
 
 - b) je množstvo zníženia emisií skleníkových plynov overené autorizovanou osobou alebo osobou s akreditáciou, či iným oprávnením podľa práva členských štátov podľa odseku 4,
 
@@ -28,7 +28,7 @@ g) | maximálne použiteľný objem pri reťazci výroby pohonných látok zo ze
 
 (3) Na započítavanie znižovania emisií v predvýrobnej fáze nie je potrebné preukázať, že by k znižovaniu emisií v predvýrobnej fáze nedošlo bez požiadaviek na predkladanie správ pod
 
-§ 14c ods. 3 zákona a požiadaviek na znižovanie emisií skleníkových plynov podľa § 14c ods. 6 zákona.
+§ 14c ods. 1 zákona a požiadaviek na znižovanie emisií skleníkových plynov podľa § 14c ods. 4 zákona.
 
 (4) Znižovanie emisií v predvýrobnej fáze sa odhaduje a potvrdzuje v súlade s medzinárodnými zásadami a medzinárodnými štandardmi určenými napríklad v technickej norme<sup>7c</sup>) alebo iným obdobným spôsobom. Znižovanie emisií v predvýrobnej fáze a základné emisie sa monitorujú, nahlasujú a overujú podľa medzinárodných štandardov najmä podľa technickej normy<sup>7d</sup>) alebo iným obdobným spôsobom. Metódy odhadovania znižovania emisií v predvýrobnej fáze sa musia overovať podľa medzinárodných štandardov najmä podľa technickej normy<sup>7e</sup>) alebo iným obdobným spôsobom a organizácia, ktorá vykonáva overenie, musí byť akreditovaná podľa medzinárodných štandardov najmä podľa technickej normy<sup>7f</sup>) alebo iným obdobným spôsobom.
 
@@ -38,4 +38,6 @@ g) | maximálne použiteľný objem pri reťazci výroby pohonných látok zo ze
 
 - b) ministerstvu, ak nejde o jednotky podľa písmena a).
 
-(6) Potvrdenie o prevode jednotiek znižovania emisií v predvýrobnej fáze v registri Únie podľa odseku 5 písm. a) sa prikladá k správe podľa § 14c ods. 3 zákona.
+(6) Potvrdenie o prevode jednotiek znižovania emisií v predvýrobnej fáze v registri Únie podľa odseku 5 písm. a) sa prikladá k správe podľa § 14c ods. 1 zákona.
+
+(7) Splnenie podmienok podľa odseku 1 písm. a) a b) a odseku 4 je možné preukázať potvrdením o uznaní projektu, ktorý produkuje zaslané jednotky znižovania emisií v predvýrobnej fáze, iným členským štátom.

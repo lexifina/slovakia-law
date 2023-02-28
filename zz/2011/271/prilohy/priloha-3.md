@@ -11,3 +11,5 @@ Príloha č. 3 k vyhláške č. 271/2011 Z. z.
   - 4. Smernica Európskeho parlamentu a Rady (EÚ) 2015/1513 z 9. septembra 2015, ktorou sa mení smernica 98/70/ES týkajúca sa kvality benzínu a naftových palív a ktorou sa mení smernica 2009/28/ES o podpore využívania energie z obnoviteľných zdrojov energie (Ú. v. EÚ L 239, 15. 9. 2015).
 
   - 5. Nariadenie Európskeho parlamentu a Rady (EÚ) 2018/1999 z 11. decembra 2018 o riadení energetickej únie a opatrení v oblasti klímy, ktorým sa menia nariadenia Európskeho parlamentu a Rady (ES) č. 663/2009 a (ES) č. 715/2009, smernice Európskeho parlamentu a Rady 94/22/ES, 98/70/ES, 2009/31/ES, 2009/73/ES, 2010/31/EÚ, 2012/27/EÚ a 2013/30/EÚ, smernice Rady 2009/119/ES a (EÚ) 2015/652 a ktorým sa zrušuje nariadenie Európskeho parlamentu a Rady (EÚ) č. 525/2013 (Ú. v. EÚ L 328, 21. 12. 2018).
+
+  - 6. Smernica Európskeho parlamentu a Rady (EÚ) 2018/2001 z 11. decembra 2018 o podpore využívania energie z obnoviteľných zdrojov (prepracované znenie) (Ú. v. EÚ L 328, 21. 12. 2018).
