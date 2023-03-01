@@ -6,7 +6,7 @@ Príloha č. 3 k zákonu č. 45/2011 Z. z.
 
 - 2. Elektronické komunikácie | Satelitná komunikácia Siete a služby pevných elektronických komunikácií a mobilných elektronických komunikácií | Ministerstvo dopravy a výstavby Slovenskej republiky
 
-- 3. Energetika | Baníctvo Elektroenergetika Plynárenstvo Ropa a ropné produkty | Ministerstvo hospodárstva Slovenskej republiky
+- 3. Energetika | Baníctvo Elektroenergetika Plynárenstvo Ropa a ropné produkty Jadrová energetika Tepelná energetika | Ministerstvo hospodárstva Slovenskej republiky
 
 - 4. Pošta | Poskytovanie poštových služieb, poštový platobný styk a obstarávateľská činnosť | Ministerstvo dopravy a výstavby Slovenskej republiky
 
