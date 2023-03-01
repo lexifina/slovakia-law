@@ -1,1 +1,0 @@
-- 1) Vyhláška Štatistického úradu Slovenskej republiky č. 597/2002 Z. z., ktorou sa vydáva štatistický číselník krajov, štatistický číselník okresov a štatistický číselník obcí v znení vyhlášky č. 61/2011 Z. z.
