@@ -1,0 +1,1 @@
+Príloha č. 3 k vyhláške č. 63/2023 Z. z. [ZOZNAM DIAGNOSTICKO-NÁKLADOVÝCH SKUPÍN NA ROK 2023](../assets/b1eefdf7bc3453632b26e109b7d09f8308b773a0c80af1b413730bf58f7e65f6.pdf)
