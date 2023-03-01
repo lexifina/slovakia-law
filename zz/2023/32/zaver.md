@@ -1,0 +1,1 @@
+Viliam Karas v. r.

@@ -1,0 +1,1 @@
+Príloha k vyhláške č. 32/2023 Z. z. [Hodnoty výstrojných súčastí, ktoré tvoria hodnotu služobnej rovnošaty a jej súčastí](../assets/70a32abbd05e39fbdbc125986e9c40e5ea2443be44ea4b21fcd63c08540b50c7.pdf)
