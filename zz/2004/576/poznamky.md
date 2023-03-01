@@ -108,6 +108,12 @@
 
 - 8f) § 7 ods. 15 zákona č. 578/2004 Z. z. v znení zákona č. 351/2017 Z. z.
 
+- 8g) § 12 zákona č. 231/2019 Z. z.
+
+- 8h) Príloha č. 3 nariadenia vlády Slovenskej republiky č. 296/2010 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolania, spôsobe ďalšieho vzdelávania zdravotníckych pracovníkov, sústave špecializačných odborov a sústave certifikovaných pracovných činností v znení neskorších predpisov.
+
+- 8i) § 18 zákona č. 153/2001 Z. z. o prokuratúre v znení neskorších predpisov.
+
 - 9) § 29 až 44 zákona č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - Nariadenie Európskeho parlamentu a Rady (EÚ) č. 536/2014 zo 16. apríla 2014 o klinickom skúšaní liekov na humánne použitie, ktorým sa zrušuje smernica 2001/20/ES (Ú. v. EÚ L 158, 27. 5. 2014) v platnom znení.
@@ -139,6 +145,8 @@
 - 14a) Napríklad § 233 ods. 2 písm. d) zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 43/2004 Z. z.
 
 - 14aa) § 5 ods. 2 zákona č. 317/2016 Z. z.
+
+- 14aaa) § 26 a nasl. Občianskeho zákonníka.
 
 - 14aca) Napríklad § 365 a 367 Civilného mimosporového poriadku, § 37 ods. 3 a § 54 zákona č. 36/2005 Z. z. v znení zákona č. 175/2015 Z. z., zákon č. 245/2008 Z. z. v znení neskorších predpisov, zákon č. 231/2019 Z. z. v znení zákona č. 390/2022 Z. z., § 45 zákona č. 305/2005 Z. z. v znení neskorších predpisov.
 
