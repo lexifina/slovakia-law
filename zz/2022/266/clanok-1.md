@@ -342,7 +342,11 @@ Zákon č. 363/2011 Z. z. o rozsahu a podmienkach úhrady liekov, zdravotníckyc
 
 - „21.
 
-- označenie, či ide o liek na ojedinelé ochorenie, liek na inovatívnu liečbu alebo liek určený na liečbu závažného ochorenia,“.
+- označenie, či ide o liek na ojedinelé ochorenie, liek na inovatívnu liečbu alebo liek určený na liečbu závažného ochorenia,
+
+- 22.
+
+- identifikačný údaj, na základe ktorého možno identifikovať maximálnu výšku úhrady zdravotnej poisťovne za štandardnú dávku liečiva určenú samostatne pre každú indikáciu osobitne vymedzenú v indikačnom obmedzení.“.
 
 - 27. V § 9 ods. 1 poslednej vete sa vypúšťajú slová „alebo § 15“.
 
@@ -735,6 +739,10 @@ Zákon č. 363/2011 Z. z. o rozsahu a podmienkach úhrady liekov, zdravotníckyc
 - 2.
 
 - je návrh na zrušenie alebo zmenu preskripčného obmedzenia alebo indikačného obmedzenia referenčnej skupiny, v ktorej sú zaradené len originálne lieky, v dôsledku ktorého zdravotné poisťovne uhradia za lieky zaradené v tejto referenčnej skupine najmenej 1 500 000 eur za 1 až 12, 13 až 24 alebo 25 až 36 po sebe nasledujúcich kalendárnych mesiacov od nadobudnutia vykonateľnosti rozhodnutia o zrušení alebo zmene preskripčného obmedzenia alebo indikačného obmedzenia; ak je súčasne podaných viacero žiadostí o zrušenie alebo zmenu preskripčného obmedzenia alebo indikačného obmedzenia referenčných skupín, v ktorých sú zaradené len originálne lieky s obsahom rovnakého liečiva, predpokladaná suma úhrad, ktorú zdravotné poisťovne uhradia v dôsledku navrhovanej zmeny sa posúdi spoločne.
+
+- (6)
+
+- V odôvodnených prípadoch ministerstvo môže pre indikáciu osobitne vymedzenú v indikačnom obmedzení určiť osobitnú maximálnu výšku úhrady zdravotnej poisťovne za štandardnú dávku liečiva.
 
 - (7)
 
@@ -1831,6 +1839,34 @@ Zákon č. 363/2011 Z. z. o rozsahu a podmienkach úhrady liekov, zdravotníckyc
   - Poznámka pod čiarou k odkazu 18c znie:
 
   - „<sup>18c</sup>) § 15 ods. 8 zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
+- 124. V § 89 odsek 4 znie:
+
+- „(4)
+
+- Odsek 1 sa neuplatňuje na
+
+- a)
+
+- liek, ktorý je zaradený v zozname kategorizovaných liekov v referenčnej skupine, v ktorej nie je zaradený iný generický liek alebo biologicky podobný liek,
+
+- b)
+
+- liek, zdravotnícku pomôcku alebo dietetickú potravinu, ktorá je predmetom zmluvy o podmienkach úhrady lieku, zmluvy o podmienkach úhrady zdravotníckej pomôcky alebo zmluvy o podmienkach úhrady dietetickej potraviny,
+
+- c)
+
+- liek, zdravotnícku pomôcku alebo dietetickú potravinu, ktorej doplatok poistenca je vyšší ako 3 % z priemernej nominálnej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa určuje úhrada,
+
+- d)
+
+- liek, ktorý je zaradený v zozname kategorizovaných liekov v referenčnej skupine, v ktorej je zaradený liek podľa písmena c), zdravotnícku pomôcku, ktorá je zaradená v zozname kategorizovaných zdravotníckych pomôcok alebo v zozname kategorizovaných špeciálnych zdravotníckych materiálov v referenčnej podskupine, v ktorej je zaradená zdravotnícka pomôcka podľa písmena c) alebo dietetickú potravinu, ktorá je zaradená v zozname kategorizovaných dietetických potravín v referenčnej podskupine, v ktorej je zaradená dietetická potravina podľa písmena c),
+
+- e)
+
+- liek, ktorý podlieha osobitnej cenovej regulácii.“.
+
+- 125. V § 89 sa vypúšťa odsek 5.
 
 - 126. § 90 sa dopĺňa odsekmi 3 a 4, ktoré znejú:
 
