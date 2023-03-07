@@ -170,6 +170,10 @@
 
 - 13ad) § 23 zákona č. 56/2018 Z. z.
 
+- 13ae) Nariadenie Európskeho parlamentu a Rady (EÚ) 2018/1862 z 28. novembra 2018 o zriadení, prevádzke a využívaní Schengenského informačného systému (SIS) v oblasti policajnej spolupráce a justičnej spolupráce v trestných veciach, o zmene a zrušení rozhodnutia Rady 2007/533/SVV a o zrušení nariadenia Európskeho parlamentu a Rady (ES) č. 1986/2006 a rozhodnutia Komisie 2010/261/EÚ (Ú. v. EÚ L 312, 7. 12. 2018) v platnom znení.
+
+- § 69 ods. 9 písm. h) zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení zákona č. 187/2022 Z. z.
+
 - 13b) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení neskorších predpisov, zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 13c) Delegované nariadenie Komisie (EÚ) 2020/473 z 20. januára 2020, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady (EÚ) 2017/2397, pokiaľ ide o normy pre databázy preukazov odbornej spôsobilosti Únie, služobných lodníckych knižiek a lodných denníkov (Ú. v. EÚ L 100/1, 1. 4. 2020).

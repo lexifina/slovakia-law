@@ -14,7 +14,7 @@
 
 (3) Dopravný úrad uloží pokutu od 330 eur do 6 635 eur
 
-- a) prevádzkovateľovi plavidla, ak porušil povinnosti ustanovené v tomto zákone (§ 22 až 23, § 24 ods. 9, § 26 a 27, § 28 ods. 2, 3 a 6, § 29 ods. 8 a § 39c ods. 4),
+- a) prevádzkovateľovi plavidla, ak porušil povinnosti ustanovené v tomto zákone (§ 22 až 23, § 24 ods. 10, § 26 a 27, § 28 ods. 2, 3 a 6, § 29 ods. 8 a § 39c ods. 4),
 
 - b) dopravcovi, ak vykonával verejnú vodnú dopravu bez licencie (§ 7 ods. 5) alebo ak porušil povinnosti dopravcu stanovené v tomto zákone alebo v osobitnom predpise<sup>24f</sup>) alebo povinnosti vyplývajúce z medzinárodných dohôd o vnútrozemskej plavbe, ktorými je Slovenská republika viazaná,
 
@@ -70,8 +70,8 @@
 
 (10) Dopravný úrad môže rozhodnutím odňať
 
-- a) členovi posádky plavidla alebo vodcovi malého plavidla ním vydaný doklad podľa § 30 ods. 3 až 6 alebo § 31 zadržaný podľa § 39d ods. 5 písm. a) na určitý čas, najviac tri roky, a v prípade straty zdravotnej spôsobilosti natrvalo; vrátenie odňatého dokladu podľa § 30 ods. 3 až 6 alebo § 31 je podmienené preskúšaním jeho držiteľa,
+- a) členovi posádky plavidla alebo vodcovi malého plavidla ním vydaný doklad podľa § 30 ods. 3 až 6 alebo § 31 zadržaný podľa § 39d ods. 6 písm. a) na určitý čas, najviac tri roky, a v prípade straty zdravotnej spôsobilosti natrvalo; vrátenie odňatého dokladu podľa § 30 ods. 3 až 6 alebo § 31 je podmienené preskúšaním jeho držiteľa,
 
-- b) lodné osvedčenie alebo lodné osvedčenie malého plavidla zadržané podľa § 39d ods. 5 písm. b) na čas potrebný na odstránenie zistených závad alebo nedostatkov; v prípade úplnej straty spôsobilosti plavidla na plavbu natrvalo.
+- b) lodné osvedčenie alebo lodné osvedčenie malého plavidla zadržané podľa § 39d ods. 6 písm. b) na čas potrebný na odstránenie zistených závad alebo nedostatkov; v prípade úplnej straty spôsobilosti plavidla na plavbu natrvalo.
 
 (11) Rozklad proti rozhodnutiu o odňatí dokladu podľa § 30 ods. 3 až 6 alebo § 31 alebo lodného osvedčenia alebo lodného osvedčenia malého plavidla nemá odkladný účinok.
