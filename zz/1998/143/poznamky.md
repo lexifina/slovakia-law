@@ -68,6 +68,12 @@
 
 - Príloha IV nariadenia (EÚ) č. 1178/2011 v platnom znení.
 
+- 3e) Napríklad zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 3f) Nariadenie Európskeho parlamentu a Rady (EÚ) 2018/1862 z 28. novembra 2018 o zriadení, prevádzke a využívaní Schengenského informačného systému (SIS) v oblasti policajnej spolupráce a justičnej spolupráce v trestných veciach, o zmene a zrušení rozhodnutia Rady 2007/533/SVV a o zrušení nariadenia Európskeho parlamentu a Rady (ES) č. 1986/2006 a rozhodnutia Komisie 2010/261/EÚ (Ú. v. EÚ L 312, 7. 12. 2018) v platnom znení.
+
+- § 69 ods. 9 písm. h) zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení zákona č. 187/2022 Z. z.
+
 - 4) Čl. 10a ods. 1 nariadenia (EÚ) č. 1178/2011 v platnom znení.
 
 - 5) Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon), (úplné znenie č. 109/1998 Z. z.).
