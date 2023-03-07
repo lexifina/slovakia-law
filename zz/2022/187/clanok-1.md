@@ -170,6 +170,18 @@ Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore
 
 - 28. V § 38a ods. 1, § 39 ods. 2 a § 77e ods. 4 a 5 sa slová „ochrany štátnej hranice“ nahrádzajú slovami „kontroly hraníc Slovenskej republiky“.
 
+- 29. V § 39 ods. 1 sa slová „dopravných prostriedkov“ nahrádzajú slovom „vecí“.
+
+- 30. V § 39 odsek 3 znie:
+
+- „(3)
+
+- Monitorovaním osôb a vecí sa na účely tohto zákona rozumie spracúvanie informácií o osobách a veciach podľa osobitného predpisu,<sup>18ac</sup>) ktoré získali útvary Policajného zboru pri plnení svojich úloh.“.
+
+  - Poznámka pod čiarou k odkazu 18ac znie:
+
+  - „<sup>18ac</sup>) Čl. 36 a 37 nariadenia Európskeho parlamentu a Rady (EÚ) 2018/1862 z 28. novembra 2018 o zriadení, prevádzke a využívaní Schengenského informačného systému (SIS) v oblasti policajnej spolupráce a justičnej spolupráce v trestných veciach, o zmene a zrušení rozhodnutia Rady 2007/533/SVV a o zrušení nariadenia Európskeho parlamentu a Rady (ES) č. 1986/2006 a rozhodnutia Komisie 2010/261/EÚ (Ú. v. EÚ L 312, 7. 12. 2018) v platnom znení.“.
+
 - 31. Za § 49 sa vkladá § 49a, ktorý vrátane nadpisu znie:
 
 - „§ 49a
@@ -205,6 +217,60 @@ Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore
 - „e)
 
 - je dôvodné podozrenie, že vodič dopravného prostriedku mal účasť na dopravnej nehode a nezotrval na mieste dopravnej nehody a nezdržuje sa v blízkosti dopravného prostriedku.“.
+
+- 35. V § 69 ods. 7, 9 a 10 sa nad slovom „predpisu“ odkaz „<sup>18aa</sup>)“ nahrádza odkazom „<sup>18ad</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 18ad znie:
+
+  - „<sup>18ad</sup>) Nariadenie Európskeho parlamentu a Rady (EÚ) 2018/1860 z 28. novembra 2018 o využívaní Schengenského informačného systému na účely návratu neoprávnene sa zdržiavajúcich štátnych príslušníkov tretích krajín (Ú. v. EÚ L 312, 7. 12. 2018).
+
+  - Nariadenie Európskeho parlamentu a Rady (EÚ) 2018/1861 z 28. novembra 2018 o zriadení, prevádzke a využívaní Schengenského informačného systému (SIS) v oblasti hraničných kontrol, o zmene Dohovoru, ktorým sa vykonáva Schengenská dohoda a o zmene a zrušení nariadenia (ES) č. 1987/2006 (Ú. v. EÚ L 312, 7. 12. 2018) v platnom znení.
+
+  - Nariadenie (EÚ) 2018/1862 v platnom znení.“.
+
+- 36. V § 69 ods. 9 úvodnej vete sa vypúšťajú slová „a informácie a osobné údaje z osobitného informačného systému a automatizovanej databázy Interpolu“.
+
+- 37. V § 69 sa odsek 9 dopĺňa písmenami g) a h), ktoré znejú:
+
+- „g)
+
+- Ministerstvu dopravy a výstavby Slovenskej republiky,
+
+- h)
+
+- Dopravnému úradu.“.
+
+- 38. V § 69 sa za odsek 10 vkladá nový odsek 11, ktorý znie:
+
+- „(11)
+
+- Informácie a osobné údaje z osobitného informačného systému a automatizovanej databázy Interpolu sa poskytujú
+
+- a)
+
+- ministerstvu,
+
+- b)
+
+- Ministerstvu spravodlivosti Slovenskej republiky,
+
+- c)
+
+- Ministerstvu zahraničných vecí a európskych záležitostí Slovenskej republiky,
+
+- d)
+
+- súdu,
+
+- e)
+
+- prokuratúre,
+
+- f)
+
+- finančnej správe.“.
+
+  - Doterajšie odseky 11 až 13 sa označujú ako odseky 12 až 14.
 
 - 39. V § 69d ods. 1 písm. a) sa nad slovo „zákon,“ umiestňuje odkaz 27dc.
 
