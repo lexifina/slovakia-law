@@ -110,6 +110,14 @@
 
 - 18ab) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
+- 18ac) Čl. 36 a 37 nariadenia Európskeho parlamentu a Rady (EÚ) 2018/1862 z 28. novembra 2018 o zriadení, prevádzke a využívaní Schengenského informačného systému (SIS) v oblasti policajnej spolupráce a justičnej spolupráce v trestných veciach, o zmene a zrušení rozhodnutia Rady 2007/533/SVV a o zrušení nariadenia Európskeho parlamentu a Rady (ES) č. 1986/2006 a rozhodnutia Komisie 2010/261/EÚ (Ú. v. EÚ L 312, 7. 12. 2018) v platnom znení.
+
+- 18ad) Nariadenie Európskeho parlamentu a Rady (EÚ) 2018/1860 z 28. novembra 2018 o využívaní Schengenského informačného systému na účely návratu neoprávnene sa zdržiavajúcich štátnych príslušníkov tretích krajín (Ú. v. EÚ L 312, 7. 12. 2018).
+
+- Nariadenie Európskeho parlamentu a Rady (EÚ) 2018/1861 z 28. novembra 2018 o zriadení, prevádzke a využívaní Schengenského informačného systému (SIS) v oblasti hraničných kontrol, o zmene Dohovoru, ktorým sa vykonáva Schengenská dohoda a o zmene a zrušení nariadenia (ES) č. 1987/2006 (Ú. v. EÚ L 312, 7. 12. 2018) v platnom znení.
+
+- Nariadenie (EÚ) 2018/1862 v platnom znení.
+
 - 18b) § 117 ods. 3 Trestného poriadku.
 
 - 18c) § 136 ods. 5 Trestného poriadku.
