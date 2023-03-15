@@ -476,6 +476,10 @@
 
 - 86ac) § 4, § 6 a 6a zákona č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl a školských zariadení v znení neskorších predpisov.
 
+- 86b) § 28 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 86c) § 32b zákona č. 448/2008 Z. z. v znení neskorších predpisov.
+
 - 87) Zákon č. 283/2002 Z. z.
 
 - 87a) § 14 zákona č. 283/2002 Z. z.
