@@ -82,6 +82,8 @@ Zákon č. 157/2018 Z. z. o metrológii a o zmene a doplnení niektorých zákon
 
 - 21. V § 26 ods. 6 a 11 a § 27 ods. 9 sa za slovo „ústav“ vkladá čiarka a slová „autorizovaná osoba“.
 
+- 22. V § 26 ods. 6 a 11 a § 27 ods. 9 sa za slovom „ústav“ vypúšťa čiarka a vkladá slovo „alebo“.
+
 - 23. V § 27 ods. 1 sa slová „po vykonanej oprave určeného meradla.“ nahrádzajú slovami „každé overenie určeného meradla uvedeného na trh alebo do prevádzky po posúdení zhody podľa osobitných predpisov<sup>23</sup>) alebo sprístupneného na trhu alebo uvedeného do používania po posúdení zhody podľa osobitných predpisov.<sup>24</sup>)“.
 
   - Poznámka pod čiarou k odkazu 23 znie:
