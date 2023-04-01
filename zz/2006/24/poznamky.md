@@ -66,6 +66,8 @@
 
 - 22b) § 47 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
+- 22c) § 139 ods. 3 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
 - 23) § 126 ods. 4 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 24) § 14 zákona č. 71/1967 Zb.
