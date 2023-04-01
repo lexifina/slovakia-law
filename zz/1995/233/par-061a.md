@@ -21,3 +21,5 @@
 - i) poučenie o možnosti namietať proti uznaniu alebo výkonu cudzieho rozhodnutia, ak sa podľa osobitného predpisu nevyžaduje vyhlásenie vykonateľnosti,<sup>7l</sup>) v rozsahu, v akom to tento osobitný predpis dovoľuje.
 
 (2) Ak je podkladom na vykonanie exekúcie cudzí exekučný titul, k upovedomeniu o začatí exekúcie sa pripoja aj iné listiny, ak tak ustanovuje osobitný predpis.<sup>7l</sup>) K upovedomeniu sa pripojí aj cudzí exekučný titul, ak povinnému nebol doručený už skôr.
+
+(3) Ak ide o exekúciu, v ktorej môže byť uložené donucovacie opatrenie, upovedomenie o začatí exekúcie obsahuje poučenie o možnosti uloženia donucovacieho opatrenia.

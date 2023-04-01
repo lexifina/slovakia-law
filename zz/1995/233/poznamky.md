@@ -42,15 +42,27 @@
 
 - 7a) Napríklad zákon č. 215/2004 Z. z. v znení neskorších predpisov, zákon č. 324/2011 Z. z. o poštových službách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 351/2011 Z. z. o elektronických komunikáciách v znení neskorších predpisov.
 
+- 7aa) § 17 a 18 zákona č. 215/2004 Z. z. v znení zákona č. 255/2006 Z. z.
+
+- 7ab) § 16 ods. 7 zákona č. 374/2014 Z. z. o pohľadávkach štátu a o zmene a doplnení niektorých zákonov.
+
 - 7b) § 73 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov.
 
 - 7c) § 5 ods. 1 zákona č. 351/2011 Z. z. o elektronických komunikáciách v znení neskorších predpisov.
 
 - 7d) Napríklad § 113 ods. 1 zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 91 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
+- 7da) § 70 ods. 11 zákona č. 8/2009 Z. z. v znení zákona č. 48/2023 Z. z.
+
+- 7db) § 112 ods. 11 zákona č. 8/2009 Z. z. v znení zákona č. 48/2023 Z. z.
+
+- 7dc) § 82k zákona č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov v znení zákona č. 87/2015 Z. z.
+
 - 7e) Napríklad čl. 132 ods. 3, čl. 263, 277, 288, 299 a čl. 325 ods. 1 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 202, 7. júna 2016).
 
 - 7f) § 8 zákona č. 466/2009 Z. z. o medzinárodnej pomoci pri vymáhaní niektorých finančných pohľadávok a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 7fa) § 6 ods. 3 zákona č. 233/2019 Z. z. o ukončení niektorých exekučných konaní a o zmene a doplnení niektorých zákonov.
 
 - 7g) Napríklad § 105 a § 161 ods. 3 zákona č. 7/2005 Z. z. v znení neskorších predpisov.
 
@@ -79,6 +91,12 @@
 - 7q) § 75 ods. 1 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 7r) § 82a zákona č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 7ra) § 52 zákona č. 563/2009 Z. z.
+
+- 7rb) § 25a zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 7rc) Napríklad čl. 107 Zmluvy o fungovaní Európskej únie, zákon č. 358/2015 Z. z. o úprave niektorých vzťahov v oblasti štátnej pomoci a minimálnej pomoci a o zmene a doplnení niektorých zákonov (zákon o štátnej pomoci).
 
 - 7s) Zákon č. 7/2005 Z. z. v znení neskorších predpisov.
 
@@ -158,7 +176,7 @@
 
 - 11e) § 11 zákona č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov.
 
-- 11f) § 5 ods. 3 zákona č. 541/2004 Z. z. v znení zákona č. 21/2007 Z. z.
+- 11f) § 5 ods. 3 zákona č. 541/2004 Z. z. v znení neskorších predpisov.
 
 - 11g) § 64 zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov.
 
@@ -166,11 +184,11 @@
 
 - 12b) Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch).
 
-- 13) Zákon č. 600/1992 Zb. o cenných papieroch v znení neskorších predpisov.
+- 13) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 13a) § 20 zákona č. 330/2000 Z. z. o burze cenných papierov.
 
-- 13b) Napríklad zákon č. 600/1992 Zb. v znení neskorších predpisov, zákon č. 191/1950 Zb. zákon zmenkový a šekový, zákon č. 144/1998 Z. z. o skladiskovom záložnom liste, tovarovom záložnom liste a o doplnení niektorých ďalších zákonov.
+- 13b) Napríklad zákon č. 566/2001 Z. z. v znení neskorších predpisov, zákon č. 191/1950 Zb. zákon zmenkový a šekový, zákon č. 144/1998 Z. z. o skladiskovom záložnom liste, tovarovom záložnom liste a o doplnení niektorých ďalších zákonov.
 
 - 13ba) § 137 písm. c) Civilného sporového poriadku.
 
@@ -186,9 +204,9 @@
 
 - 17) § 8 a 9 zákona Národnej rady Slovenskej republiky č. 188/1994 Z. z. o ochrane hospodárskej súťaže.
 
-- 17a) § 22 ods. 1 a § 27 ods. 3 písm. a) zákona č. 600/1992 Zb. v znení neskorších predpisov.
+- 17a) § 46 ods. 8 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení zákona č. 173/2004 Z. z.
 
-- 17b) § 2 ods. 1 zákona č. 600/1992 Zb. v znení neskorších predpisov.
+- 17b) § 35 až 39 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
 
 - 17ba) § 108 Civilného sporového poriadku.
 

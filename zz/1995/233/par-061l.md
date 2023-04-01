@@ -1,6 +1,6 @@
 # § 61l
 
-(1) O návrhoch na zastavenie exekúcie, ktoré majú odkladný účinok, rozhoduje súd prednostne.
+(1) O návrhoch na zastavenie exekúcie, ktoré majú odkladný účinok, a o návrhoch na zastavenie exekúcie podľa § 61k ods. 4 písm. b) a c) rozhoduje súd prednostne.
 
 (2) Na prejednanie návrhu na zastavenie exekúcie nie je potrebné nariaďovať pojednávanie. Pred rozhodnutím môže súd nariadiť vypočutie určitej osoby.
 

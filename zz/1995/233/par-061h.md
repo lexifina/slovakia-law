@@ -8,7 +8,7 @@
 
 - b) bola podaná vylučovacia žaloba alebo prebieha konanie o určení vlastníckeho práva podľa § 44 ods. 9,
 
-- c) povinný, ktorý je fyzickou osobou, podal žiadosť o povolenie splátok, na ktorú sa prihliada,
+- c) povinný podal žiadosť o povolenie splátok, na ktorú sa prihliada,
 
 - d) povinný, ktorý je fyzickou osobou, podal žiadosť o odklad exekúcie a vyhlásil, že sa bez svojej viny ocitol prechodne v takom postavení, že by neodkladná exekúcia mohla mať pre neho alebo pre príslušníkov jeho rodiny zvlášť nepriaznivé následky,
 
