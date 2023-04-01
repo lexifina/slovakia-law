@@ -14,7 +14,7 @@
 
 (7) Ak v priebehu územného konania o umiestnení stavby, územného konania o využití územia, stavebného konania alebo kolaudačného konania vznikne potreba vykonania zmeny, v dôsledku ktorej sa predmet tohto konania stane navrhovanou činnosťou alebo zmenou navrhovanej činnosti,<sup>15f</sup>) ktorá je predmetom povoľovania, je navrhovateľ povinný oznámiť stavebnému úradu skutočnosť, že v súvislosti s uvedenou zmenou predkladá príslušnému orgánu oznámenie o zmene podľa osobitného predpisu<sup>15g</sup>) alebo zámer podľa osobitného predpisu.<sup>15h</sup>) Stavebný úrad preruší konanie až do ukončenia konania príslušného orgánu k tejto navrhovanej činnosti alebo zmene navrhovanej činnosti podľa osobitného predpisu.<sup>15d</sup>)
 
-(8) Proti územnému rozhodnutiu o umiestnení stavby, územnému rozhodnutiu o využití územia, stavebnému povoleniu a kolaudačnému rozhodnutiu, ktorému predchádzalo konanie podľa osobitného predpisu,<sup>15b</sup>) má právo podať odvolanie aj ten, kto nebol účastníkom konania, ale len v rozsahu, v akom sa namieta nesúlad povolenia s obsahom rozhodnutia podľa osobitného predpisu.<sup>15d</sup>)
+(8) Proti územnému rozhodnutiu o umiestnení stavby, územnému rozhodnutiu o využití územia, stavebnému povoleniu a kolaudačnému rozhodnutiu vydanému v spojenom konaní podľa § 81 ods. 4, ktorému predchádzalo konanie podľa osobitného predpisu,<sup>15b</sup>) má právo podať odvolanie aj ten, kto nebol účastníkom konania, ale len v rozsahu, v akom sa namieta nesúlad povolenia s obsahom rozhodnutia podľa osobitného predpisu.<sup>15d</sup>)
 
 (9) Lehota na podanie odvolania podľa odseku 8 je 15 pracovných dní a začne plynúť odo dňa zverejnenia povolení uvedených v odseku 8.
 
