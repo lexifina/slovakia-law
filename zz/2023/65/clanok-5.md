@@ -4,6 +4,20 @@ Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektor
 
 - 1. V § 35b ods. 4 prvej vete sa vypúšťajú slová „spôsob rokovania,“ a v druhej vete sa na konci bodka nahrádza bodkočiarkou a pripájajú sa tieto slová: „to sa nevzťahuje na zmenu stanov v oblastiach neuvedených v prvej vete.“.
 
+- 2. V § 54 odsek 3 znie:
+
+- „(3)
+
+- Za aktívne opatrenia na trhu práce sa považujú aj projekty a programy na
+
+- a)
+
+- podporu opätovného začlenenia a udržania znevýhodneného uchádzača o zamestnanie, ktorý bol členom domácnosti, ktorej sa poskytuje pomoc v hmotnej núdzi,<sup>49</sup>) na trhu práce,
+
+- b)
+
+- zlepšenie postavenia fyzických osôb na trhu práce prostredníctvom komplexného prístupu pri poskytovaní nástrojov a služieb podporujúcich ich uplatnenie sa na trhu práce, zlepšenie ich zamestnateľnosti a zvýšenie a udržanie ich zamestnanosti, ktoré schvaľuje ministerstvo.“.
+
 - 3. V § 70 ods. 7 úvodnej vete sa za slovo „zákona“ vkladajú slová „alebo príspevku v rámci projektu alebo programu podľa § 54“ a za slová „fyzická osoba“ sa vkladá čiarka a slová „ktorá je zamestnávateľom, samostatne zárobkovo činná osoba“.
 
 - 4. V § 70 ods. 11 sa slová „fyzickej osobe alebo právnickej osobe“ nahrádzajú slovami „alebo príspevku v rámci projektu alebo programu podľa § 54 právnickej osobe, fyzickej osobe, ktorá je zamestnávateľom, alebo samostatne zárobkovo činnej osobe“ a slová „Fyzická osoba alebo právnická osoba“ sa nahrádzajú slovami „Právnická osoba, fyzická osoba, ktorá je zamestnávateľom, alebo samostatne zárobkovo činná osoba“.
