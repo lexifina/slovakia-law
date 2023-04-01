@@ -16,11 +16,9 @@
 
 - 5a) § 2 písm. a) zákona č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu.
 
-- 6) Napríklad § 3 ods. 17 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení zákona č. 117/1998 Z. z., § 3 nariadenia vlády Slovenskej socialistickej republiky č. 32/1975 Zb. o ochrane pred povodňami.
+- 6) Napríklad § 3 ods. 17 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení zákona č. 117/1998 Z. z., § 10 zákona č. 7/2010 Z. z. o ochrane pred povodňami v znení neskorších predpisov.
 
-- 7) Zákon č. 195/2000 Z. z. o telekomunikáciách v znení zákona č. 308/2000 Z. z.
-
-- 8) § 26 zákona č. 195/2000 Z. z.
+- 7) § 93 zákona č. 452/2021 Z. z. o elektronických komunikáciách.
 
 - 9) Zákon č. 315/2001 Z. z. v znení neskorších predpisov.
 
@@ -32,11 +30,11 @@
 
 - 13) § 7 zákona Slovenskej národnej rady č. 51/1988 Zb. v znení zákona Slovenskej národnej rady č. 499/1991 Zb.
 
-- 14) § 7 zákona Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení zákona Slovenskej národnej rady č. 499/1991 Zb.
+- 14) Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
 - 14a) Zákon č. 544/2002 Z. z. o Horskej záchrannej službe v znení neskorších predpisov.
 
-- 15) Zákon Národnej rady Slovenskej republiky č. 3/1993 Z. z. o zriadení Armády Slovenskej republiky v znení neskorších predpisov.
+- 15) Zákon č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky v znení neskorších predpisov.
 
 - 16) § 33 zákona č. 314/2001 Z. z.
 
@@ -52,7 +50,11 @@
 
 - 22a) § 3 ods. 1 zákona č. 579/2004 Z. z.
 
+- 22aa) § 9 zákona č. 525/2003 Z. z. o štátnej správe starostlivosti o životné prostredie a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 23) Zákon Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov.
+
+- 23a) § 2 ods. 1 a 2 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov.
 
 - 24) Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
 
@@ -61,6 +63,14 @@
 - 26) § 420 až 450 Občianskeho zákonníka v znení neskorších predpisov.
 
 - 27) Napríklad zákon č. 314/2001 Z. z.
+
+- 27a) § 38 ods. 11 písm. b) zákona č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
+
+- 27b) § 2 písm. a) a b) zákona č. 526/2010 Z. z. o poskytovaní dotácií v pôsobnosti Ministerstva vnútra Slovenskej republiky v znení zákona č. 146/2017 Z. z.
+
+- 27c) § 8 až 13 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
+
+- 27d) Zákon č. 9/2010 Z. z. o sťažnostiach v znení neskorších predpisov.
 
 - 28) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
