@@ -1,0 +1,1 @@
+Príloha č. 1 k vyhláške č. 107/2023 Z. z. [Podklady k návrhu ceny dodávateľa elektriny pre zraniteľných odberateľov v domácnosti](../assets/07170cc90334373cd406f7d4dbd2fcdfce7586d1b617d512801303c58846efaf.pdf)
