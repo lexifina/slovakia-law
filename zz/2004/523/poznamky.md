@@ -228,8 +228,6 @@
 
 - 39a) § 2 písm. a) nariadenia vlády Slovenskej republiky č. 384/2004 Z. z. o dostupnosti spotrebiteľských informácií o spotrebe paliva a o emisiách CO<sub>2</sub> pri predaji a leasingu nových osobných automobilov.
 
-- 39b) § 3 ods. 1 písm. b) zákona č. 214/2021 Z. z. o podpore ekologických vozidiel cestnej dopravy a o zmene a doplnení niektorých zákonov.
-
 - 40) Napríklad zákon č. 131/2002 Z. z. v znení neskorších predpisov.
 
 - 41) Napríklad § 43 zákona č. 475/2005 Z. z. o výkone trestu odňatia slobody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
