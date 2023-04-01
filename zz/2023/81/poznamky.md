@@ -1,0 +1,1 @@
+- 1) Vyhláška Ministerstva dopravy, výstavby a regionálneho rozvoja Slovenskej republiky č. 59/2014 Z. z., ktorou sa ustanovujú podrobnosti o hodnotiacich kritériách a spôsobe hodnotenia žiadostí o poskytnutie dotácií na spracovanie územnoplánovacej dokumentácie obcí v znení vyhlášky č. 270/2016 Z. z..
