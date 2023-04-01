@@ -1,0 +1,1 @@
+Príloha č. 3 k vyhláške č. 286/2022 Z. z. [Priradenie množín číslovacieho plánu verejnej elektronickej komunikačnej siete](../assets/1384950d1ca80f4083d0d789d878e3abd58a71a7c8af5ba0f7a50a0173f63d76.pdf)

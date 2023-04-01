@@ -1,0 +1,1 @@
+Príloha č. 9 k vyhláške č. 286/2022 Z. z. [Všeobecná štruktúra sieťového smerovacieho čísla v združenej adrese s volaným číslom v národnom tvare](../assets/0e139c3f3cce295c917df26be41fec36e4bc55de7f91abd6785d07a36cb55a2b.pdf)

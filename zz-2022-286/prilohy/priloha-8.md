@@ -1,0 +1,1 @@
+Príloha č. 8 k vyhláške č. 286/2022 Z. z. [Štruktúra čísla medzinárodných telekomunikačných kariet vydaných v Slovenskej republike](../assets/fdae3eabd3eb1ef053dd88db79fb9d75b1c646697c3ef285fa1ce7f6387e693b.pdf)

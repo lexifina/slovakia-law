@@ -1,0 +1,1 @@
+Príloha č. 7 k vyhláške č. 286/2022 Z. z. [Štruktúra medzinárodnej identity IMSI pre účastníka so subskripciou v mobilnej elektronickej komunikačnej sieti v Slovenskej republike](../assets/fc51d250d77803f7046fa9d3b2d0dfdd8d0d1422bc8c8085cbfbe2024709c172.pdf)

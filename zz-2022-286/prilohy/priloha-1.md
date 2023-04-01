@@ -1,0 +1,1 @@
+Príloha č. 1 k vyhláške č. 286/2022 Z. z. [Štruktúra medzinárodného čísla E.164 pre očíslovanie účastníkov vo verejnej elektronickej komunikačnej sieti v Slovenskej republike](../assets/204cce8d007f10c41d3e78b43cdfb73a9558624c0a72cdb967137359fa0eb571.pdf)

@@ -1,0 +1,1 @@
+Príloha č. 6 k vyhláške č. 286/2022 Z. z. [Usporiadanie národnej signalizačnej siete SS7 a jej pripojenie k medzinárodnej signalizačnej sieti](../assets/5a3d3dbc3b27b724aba04576df5ba4b52955fff54e9f24804f4bf0ffbbf15b19.pdf)

@@ -1,0 +1,1 @@
+Príloha č. 5 k vyhláške č. 286/2022 Z. z. [Štruktúra medzinárodného čísla X.121 na identifikáciu rozhraní koncových zariadení dátovej siete](../assets/b8feeaf4f4dea56b37efe24224c290ae9fb350935b4ea905715220f7f003aeac.pdf)
