@@ -1,3 +1,0 @@
-# § 79c Prechodné ustanovenie k úpravám účinným od 30. septembra 2022
-
-Odberateľ plynu v domácnosti, ktorý počas trvania dodávky poslednej inštancie neuzavrel zmluvu o dodávke plynu alebo o združenej dodávke plynu s dodávateľom poslednej inštancie alebo iným dodávateľom plynu a trojmesačná lehota dodávky plynu poslednej inštancie uplynula do 29. septembra 2022, považuje sa jeho odber plynu za odber plynu na základe konkludentne uzatvorenej zmluvy o združenej dodávke plynu na dobu neurčitú v sadzbe, produkte a cene určenej dodávateľom poslednej inštancie zodpovedajúcej odhadovanej ročnej spotrebe odberateľa plynu a spôsobu využitia plynu na základe údajov prevádzkovateľa distribučnej siete.
