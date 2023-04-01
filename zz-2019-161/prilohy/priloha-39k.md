@@ -1,0 +1,1 @@
+Príloha č. 39 k vyhláške č. 161/2019 Z. z. [ZARIADENIA NA MECHANICKÉ SKÚŠKY MATERIÁLOV](../assets/56e8a20bf6ef18e6662ff53b8d08bd0e1652e6d53e1f67a8b09793c6931d9d80.pdf)

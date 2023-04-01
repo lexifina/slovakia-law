@@ -1,0 +1,1 @@
+Príloha č. 50 k vyhláške č. 161/2019 Z. z. [MERACIE TRANSFORMÁTORY PRÚDU A NAPÄTIA POUŽÍVANÉ V SPOJENÍ S ELEKTROMERMI](../assets/28e14d8429b4c8fbfdd05c695ba7ae9377a50206ebc1d90fbbfe67ba61b4d081.pdf)

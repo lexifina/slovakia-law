@@ -1,0 +1,1 @@
+Príloha č. 48 k vyhláške č. 161/2019 Z. z. [KOMBINOVANÉ SNÍMAČE TEPLOTY URČENÉ PRE JADROVÉ ELEKTRÁRNE](../assets/3cb52e86edd268c0e17fcc8b3f09144653e5ad056a123ee3910467489bd8f0bf.pdf)
