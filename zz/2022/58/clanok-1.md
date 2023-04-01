@@ -4,6 +4,10 @@ Zákon č. 157/2018 Z. z. o metrológii a o zmene a doplnení niektorých zákon
 
 - 1. V § 2 písm. m) sa za slovo „prenose“ vkladá čiarka a slovo „ukladaní“.
 
+- 2. V § 2 sa vypúšťa písmeno s).
+
+  - Doterajšie písmená t) až aq) sa označujú ako písmená s) až ap).
+
 - 3. § 2 sa dopĺňa písmenami ap) a aq), ktoré znejú:
 
 - „ap)
@@ -17,6 +21,12 @@ Zákon č. 157/2018 Z. z. o metrológii a o zmene a doplnení niektorých zákon
 - 4. Poznámka pod čiarou k odkazu 5 znie:
 
 - „<sup>5</sup>) Vyhláška Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 161/2019 Z. z. o meradlách a metrologickej kontrole.“.
+
+- 5. V § 4 písm. c) znie:
+
+- „c)
+
+- určuje druhy určených meradiel, technické požiadavky a metrologické požiadavky na jednotlivé druhy určených meradiel, spôsob ich metrologickej kontroly a požiadavky štatistickej kontroly určených meradiel,“.
 
 - 6. V § 4 písm. g) tretí bod znie:
 
@@ -56,6 +66,16 @@ Zákon č. 157/2018 Z. z. o metrológii a o zmene a doplnení niektorých zákon
 
 - 12. V § 6 ods. 2 písm. p) sa za slovom „metrológie“ vypúšťa čiarka a slová „ktorý obsahuje najmenej číslo vydaného dokladu, dátum vydania dokladu a platnosť dokladu,“ sa nahrádzajú slovami „a kópie dokladov o spôsobilosti v oblasti metrológie“.
 
+- 13. § 6 odsek 2 sa dopĺňa písmenami w) a x), ktoré znejú:
+
+- „w)
+
+- vykonáva štatistickú kontrolu určených meradiel a zodpovedá za vykonanie štatistickej výberovej skúšky pri štatistickej kontrole určených meradiel,
+
+- x)
+
+- môže poveriť autorizovanú osobu na vykonanie činnosti podľa § 27a ods. 13.“.
+
 - 14. V § 16 ods. 2 písm. d) sa za slovom „druhu“ vypúšťa čiarka, vkladajú sa slová „a meracieho rozsahu“ a slová „ktorý je na daný účel použitia určený“ sa nahrádzajú slovami „ktoré sú na daný účel použitia určené“.
 
 - 15. V § 17 ods. 1 písmeno c) znie:
@@ -67,6 +87,8 @@ Zákon č. 157/2018 Z. z. o metrológii a o zmene a doplnení niektorých zákon
 - 16. V § 17 ods. 1 písm. d) sa za slovo „používania,“ vkladajú slová „intervalu kalibrácie“.
 
 - 17. V § 20 ods. 8 a 9 sa za slovo „Ústav“ vkladá čiarka a slová „autorizovaná osoba“.
+
+- 18. V § 20 ods. 8 a 9 sa za slovom „ústav“ vypúšťa čiarka a vkladá slovo „alebo“.
 
 - 19. V § 25 odsek 3 znie:
 
@@ -91,6 +113,106 @@ Zákon č. 157/2018 Z. z. o metrológii a o zmene a doplnení niektorých zákon
   - „<sup>23</sup>) Nariadenie Európskeho parlamentu a Rady (EÚ) 2017/745 z 5. apríla 2017 o zdravotníckych pomôckach, zmene smernice 2001/83/ES, nariadenia (ES) č. 178/2002 a nariadenia (ES) č. 1223/2009 a o zrušení smerníc Rady 90/385/EHS a 93/42/EHS (Ú. v. EÚ L 117, 5. 5. 2017) v platnom znení.“.
 
 - 24. V § 27 ods. 8 sa za slovo „ústavu“ vkladá čiarka a slová „autorizovanej osobe“.
+
+- 25. V § 27 ods. 8 sa za slovom „ústavu“ vypúšťa čiarka a vkladá slovo „alebo“.
+
+- 26. Za § 27 sa vkladá § 27a, ktorý vrátane nadpisu znie:
+
+- „§ 27a
+
+- Štatistická kontrola určených meradiel
+
+- (1)
+
+- Štatistická kontrola určených meradiel (ďalej len „štatistická kontrola“) je kontrola, ktorá sa vykonáva na účel predĺženia času platnosti overenia vybraných druhov určených meradiel podľa osobitného predpisu<sup>5</sup>) v základnom súbore, podľa kritérií na jej vyhodnotenie na základe výsledkov štatistickej výberovej skúšky.
+
+- (2)
+
+- Štatistickú kontrolu vykoná ústav na základe písomnej žiadosti o štatistickú kontrolu podanej ústavu žiadateľom o štatistickú kontrolu, ktorý je používateľom určených meradiel, a ktorý ju podá pod svojím menom; na vykonanie štatistickej kontroly môže ústav, so súhlasom úradu, využiť výsledky štatistickej výberovej skúšky vykonanej autorizovanou osobou.
+
+- (3)
+
+- Základným súborom na vykonanie štatistickej kontroly sú určené meradlá, ktoré žiadateľ o štatistickú kontrolu uvádza v žiadosti o štatistickú kontrolu.
+
+- (4)
+
+- Výberom na vykonanie štatistickej kontroly je súbor určených meradiel, ktoré sú vybrané zo základného súboru a sú predložené na štatistickú výberovú skúšku.
+
+- (5)
+
+- Náhradným výberom na vykonanie štatistickej kontroly je súbor určených meradiel, ktoré sú vybrané zo základného súboru a sú určené ako náhrada za určené meradlá z výberu.
+
+- (6)
+
+- Štatistickou výberovou skúškou je kontrola, podľa ktorej ústav určí, či základný súbor spĺňa požiadavky na predĺženie času platnosti overenia.
+
+- (7)
+
+- Žiadateľ o štatistickú kontrolu podá žiadosť o štatistickú kontrolu najskôr dva roky a najneskôr jeden rok pred uplynutím času platnosti overenia určených meradiel v základnom súbore.
+
+- (8)
+
+- Ústav písomne potvrdí alebo odmietne žiadosť o štatistickú kontrolu podanú podľa odseku 2 do 21 dní od jej doručenia. Odmietnutie žiadosti o štatistickú kontrolu musí byť odôvodnené.
+
+- (9)
+
+- Ústav do 15 dní od potvrdenia žiadosti o štatistickú kontrolu žiadateľovi určí
+
+- a)
+
+- určené meradlá, ktoré tvoria výber a náhradný výber,
+
+- b)
+
+- typ štatistickej výberovej skúšky,
+
+- c)
+
+- predbežný termín vykonania štatistickej kontroly a
+
+- d)
+
+- termín a miesto odovzdania určených meradiel, ktoré tvoria výber a náhradný výber.
+
+- (10)
+
+- Žiadateľ o štatistickú kontrolu predloží ústavu na určenom mieste odovzdania určené meradlá, ktoré tvoria výber a náhradný výber do 90 dní od písomného potvrdenia žiadosti o štatistickú kontrolu; ak nie je dodržaná táto lehota, ústav ukončí štatistickú kontrolu.
+
+- (11)
+
+- Žiadateľ o štatistickú kontrolu zabezpečí, že pri skladovaní, preprave alebo pri inej manipulácii s určenými meradlami, ktoré tvoria výber a náhradný výber, sú dodržané požiadavky na manipuláciu, skladovanie a prepravu.
+
+- (12)
+
+- Žiadateľ o štatistickú kontrolu vyhotoví pri predložení určených meradiel, ktoré tvoria výber a náhradný výber, dodací list.
+
+- (13)
+
+- Ústav alebo autorizovaná osoba na základe poverenia podľa § 6 ods. 2 písm. x) potvrdí v dodacom liste dátum prevzatia určených meradiel, ktoré tvoria výber a náhradný výber, a vykoná ich kontrolu.
+
+- (14)
+
+- Ústav vykoná štatistickú kontrolu do 90 dní od prevzatia určených meradiel, ktoré tvoria výber a náhradný výber.
+
+- (15)
+
+- Ústav do 21 dní od ukončenia štatistickej kontroly vydá
+
+- a)
+
+- doklad o predĺžení času platnosti overenia, ak je výsledok štatistickej kontroly kladný; platnosť overenia určených meradiel v základnom súbore sa predĺži podľa odseku 17, alebo
+
+- b)
+
+- zamietací list, ak je výsledok štatistickej kontroly záporný; dňom vydania zamietacieho listu zaniká platnosť overenia tých určených meradiel vo výbere a náhradnom výbere, pre ktoré bol výsledok štatistickej kontroly záporný.
+
+- (16)
+
+- Žiadateľ o štatistickú kontrolu a ústav vedú evidenciu každého určeného meradla, ktoré je predmetom štatistickej kontroly, ktorá umožňuje jeho jednoznačnú identifikáciu s uvedením miesta jeho používania spolu s dátumom predĺženia času platnosti overenia, ktorú na žiadosť sprístupnia úradu alebo inšpektorátu.
+
+- (17)
+
+- Predĺženie času platnosti overenia určeného meradla na základe výsledkov vykonanej štatistickej kontroly sa počíta odo dňa nasledujúceho po dni, ktorým končí čas platnosti overenia určeného meradla.“.
 
 - 27. § 29 vrátane nadpisu znie:
 
@@ -290,6 +412,14 @@ Zákon č. 157/2018 Z. z. o metrológii a o zmene a doplnení niektorých zákon
 
 - 51. V § 41 ods. 1 písm. e) sa slovo „p)“ nahrádza slovom „n)“.
 
+- 52. V § 41 ods. 1 sa za písmeno i) vkladá nové písmeno j), ktoré znie:
+
+- „j)
+
+- zasielať na základe žiadosti úradu identifikáciu každého overovaného určeného meradla s uvedením dátumu jeho overenia, pri overení určeného meradla na mieste používania aj s uvedením miesta jeho používania,“.
+
+  - Doterajšie písmená j) až l) sa označujú ako písmená k) až m).
+
 - 53. V § 41 ods. 1 písm. l) sa vypúšťajú druhý a tretí bod.
 
   - Doterajší štvrtý až šiesty bod sa označujú ako druhý až štvrtý bod.
@@ -454,6 +584,16 @@ Zákon č. 157/2018 Z. z. o metrológii a o zmene a doplnení niektorých zákon
 
   - „<sup>38a</sup>) § 28 Správneho poriadku.“.
 
+- 81. V § 59 písm. m) sa na konci vkladá čiarka a vypúšťa sa slovo „a“.
+
+- 82. V § 59 písm. n) sa na konci vypúšťa bodka a vkladá sa slovo „a“.
+
+- 83. § 59 sa dopĺňa písmenom o), ktoré znie:
+
+- „o)
+
+- podrobnosti o štatistickej kontrole, druhy určených meradiel na štatistickú kontrolu, náležitosti žiadosti o vykonanie štatistickej kontroly, kritériá určenia základného súboru, rozsahu výberu a náhradného výberu, požiadavky na manipuláciu, skladovanie a prepravu určených meradiel, podrobnosti o kontrole úplnosti a stavu výberu, požiadavky na štatistickú výberovú skúšku a vyhodnotenie, náležitosti záznamu výsledkov štatistickej výberovej skúšky, podrobnosti o štatistickej výberovej skúške, náležitosti dokladu o predĺžení platnosti overenia, čas predĺženia času platnosti overenia a náležitosti zamietacieho listu.“.
+
 - 84. Za § 60a sa vkladá § 60b, ktorý vrátane nadpisu znie:
 
 - „§ 60b
@@ -483,3 +623,5 @@ Zákon č. 157/2018 Z. z. o metrológii a o zmene a doplnení niektorých zákon
 - Prechodné ustanovenie k úpravám účinným od 1. apríla 2023
 
 - Slovenská legálna metrológia, n. o. sa od 1. apríla 2023 považuje za autorizovanú osobu podľa § 31 v rozsahu a počas platnosti jej akreditácie, ak do 31. januára 2023 predloží dokumentáciu, ktorou preukáže úradu splnenie požiadaviek podľa § 33 ods. 1 písm. d) až n) a p). Úrad vydá Slovenskej legálnej metrológii, n. o. autorizovanej podľa prvej vety rozhodnutie o autorizácii primerane podľa § 35.“.
+
+- 86. Slová „alebo s určenou organizáciou“, slová „určenou organizáciou“ a slová „alebo určenú organizáciu“ vo všetkých tvaroch sa v celom texte zákona vypúšťajú.
