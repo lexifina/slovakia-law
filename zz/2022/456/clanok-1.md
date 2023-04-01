@@ -2,6 +2,10 @@
 
 Zákon č. 544/2002 Z. z. o Horskej záchrannej službe v znení zákona č. 515/2003 Z. z., zákona č. 567/2005 Z. z., zákona č. 358/2007 Z. z., zákona č. 519/2007 Z. z., zákona č. 445/2008 Z. z., zákona č. 192/2009 Z. z., zákona č. 58/2014 Z. z., zákona č. 274/2015 Z. z. a zákona č. 73/2020 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 3 ods. 1 sa vypúšťajú písmená b), c) a h).
+
+  - Doterajšie písmená d) až g) sa označujú ako písmená b) až e) a doterajšie písmená i) až o) sa označujú ako písmená f) až l).
+
 - 2. V § 4 sa odsek 1 dopĺňa písmenom h), ktoré znie:
 
 - „h)
