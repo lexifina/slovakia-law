@@ -20,6 +20,8 @@
 
 - 8) Napríklad zákon Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach v znení neskorších predpisov.
 
+- 8a) Zákon č. 406/2011 Z. z. o dobrovoľníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 9) Napríklad zákon č. 36/2005 Z. z. v znení neskorších predpisov, zákon č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 9a) § 179,180 a 367 Trestného zákona.
