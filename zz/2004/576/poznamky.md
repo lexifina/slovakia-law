@@ -312,7 +312,7 @@
 
 - 46b) § 109 zákona č. 87/2018 Z. z.
 
-- 47) § 63 nariadenia vlády Slovenskej republiky č. 296/2010 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolania, spôsobe ďalšieho vzdelávania zdravotníckych pracovníkov, sústave špecializačných odborov a sústave certifikovaných pracovných činností.
+- 47) Nariadenie vlády Slovenskej republiky č. 296/2010 Z. z. o odbornej spôsobilosti na výkon povolania, spôsobe ďalšieho vzdelávania zdravotníckych pracovníkov, sústave špecializačných odborov a sústave certifikovaných pracovných činností v znení neskorších predpisov.
 
 - 47a) § 109 zákona č. 87/2018 Z. z.
 
