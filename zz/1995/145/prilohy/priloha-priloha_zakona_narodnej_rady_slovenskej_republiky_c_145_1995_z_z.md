@@ -4172,7 +4172,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 7. | prepravu zásielok rádioaktívneho materiálu, za jedno UN číslo ..... | 50 eur
 
-  - | 8. | výrobu zdroja ionizujúceho žiarenia alebo výrobu ionizačných hlásičov požiaru ..... | 50 eur
+  - | 8. | výrobu zdroja ionizujúceho žiarenia alebo výrobu technologického zariadenia, ktorého súčasťou je inštalácia zdroja ionizujúceho žiarenia ..... | 50 eur
 
   - | 9. | nakladanie s opustenými žiaričmi, rádioaktívnym materiálom neznámeho pôvodu a zachyteným rádioaktívnym materiálom ..... | 50 eur
 
@@ -4180,7 +4180,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 11. | pridávanie rádionuklidov alebo rádioaktívnych látok do spotrebných výrobkov a predmetov, do liekov a zdravotníckych pomôcok, dovoz a vývoz takých výrobkov ..... | 50 eur
 
-  - | 12. | vykonávanie skúšok zdrojov ionizujúceho žiarenia podľa § 28 ods. 2 písm. f), vykonávanie inštalácie, údržby a opráv zdrojov ionizujúceho žiarenia ..... | 50 eur
+  - | 12. | vykonávanie skúšok zdrojov ionizujúceho žiarenia podľa § 28 ods. 2 písm. f) ..... | 50 eur
 
   - | 13. | zber, zhromažďovanie, skladovanie a úpravu rádioaktívnych žiaričov vrátane ionizačných hlásičov požiaru na likvidáciu, prevádzkovanie pracoviska určeného na zhromažďovanie alebo skladovanie rádioaktívnych žiaričov vrátane prepravy v rámci pracoviska ..... | 50 eur
 
@@ -4192,7 +4192,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 17. | prevádzku generátora žiarenia alebo zariadenia, ktorého súčasťou je generátor žiarenia .... | 50 eur
 
-  - | 18. | odber, skladovanie a používanie uzavretého žiariča alebo zariadenia, ktoré obsahuje uzavretý žiarič .... | 50 eur
+  - | 18. | odber, skladovanie a používanie uzavretého žiariča alebo zariadenia, obsahujúceho uzavretý žiarič určeného na ožarovanie predmetov bežného používania a iných materiálov a surovín, ožarovanie krvi alebo na prevádzku iného stacionárneho ožarovača určeného na účely výskumu a vývoja alebo na technický účel .... | 50 eur
 
   - | 19. | odber, skladovanie a používanie vysokoaktívneho žiariča alebo zariadenia, ktoré obsahuje vysokoaktívny žiarič alebo odber, skladovanie a používanie uzavretého žiariča na nedeštruktívne testovanie materiálu ... | 50 eur
 
@@ -4206,9 +4206,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 24. | používanie zdroja ionizujúceho žiarenia na vykonávanie lekárskeho ožiarenia ... | 50 eur
 
-  - | 25. | uvoľňovanie rádioaktívnych látok a rádioaktívne kontaminovaných predmetov, ktoré vznikli alebo sa používali pri činnosti vedúcej k ožiareniu spod administratívnej kontroly ... | 50 eur
+  - | 25. | uvoľňovanie rádioaktívnych látok a rádioaktívne kontaminovaných predmetov, ktoré vznikli alebo sa používali pri činnosti vedúcej k ožiareniu spod administratívnej kontroly a na uvoľňovanie prírodného rádioaktívneho materiálu, v ktorom bol obsah rádionuklidov zvýšený technologickým procesom spod administratívnej kontroly ... | 50 eur
 
-  - | 26. | zmiešavanie rádioaktívneho materiálu uvoľňovaného z pracoviska, kde sa nakladá s materiálom so zvýšeným obsahom prírodných rádionuklidov s nerádioaktívnym materiálom na opätovné použitie alebo recykláciu ... | 50 eur
+  - | 26. | zmiešavanie prírodného rádioaktívneho materiálu, v ktorom bol obsah rádionuklidov zvýšený technologickým procesom s nerádioaktívnym materiálom na opätovné použitie alebo recykláciu ... | 50 eur
 
   - | 27. | nakladanie s produktmi banskej činnosti, ktoré vznikli v súvislosti so získavaním rádioaktívneho nerastu a sú uložené na odvaloch a odkaliskách ... | 50 eur
 
@@ -4217,6 +4217,8 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - | 29. | dovoz zdroja ionizujúceho žiarenia z tretích krajín ... | 50 eur
 
   - | 30. | poskytovanie služby dôležitej z hľadiska radiačnej ochrany ... | 50 eur
+
+  - | 31. | vykonávanie inštalácie, údržby a opráv zdrojov ionizujúceho žiarenia okrem servisnej činnosti pre generátory žiarenia, ktorá nie je spojená s ožiarením osôb ... | 50 eur
 
   - t) | Zmena povolenia | |
 
@@ -4230,7 +4232,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 2. | služby dôležitej z hľadiska radiačnej ochrany alebo jeho zmena ... | 30 eur
 
-  - v) | Vydanie rozhodnutia ... | | 50 eur
+  - v) | Vydanie rozhodnutia v rámci posudkovej činnosti orgánu radiačnej ochrany ... | | 50 eur
 
   - w) | Vydanie záväzného stanoviska | |
 
@@ -4242,7 +4244,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 4. | k projektu dobývania ložiska rádioaktívneho nerastu, ťažby a spracovania materiálov, ktoré obsahujú prírodné rádionuklidy ... | 50 eur
 
-  - | 5. | k optimalizačnej štúdii k uvoľňovaniu rádioaktívnych materiálov z pracoviska ... | 50 eur
+  - | 5. | k optimalizačnej štúdii k uvoľňovaniu rádioaktívnych materiálov ... | 50 eur
 
   - | 6. | k projektu skúšky technologického zariadenia ... | 50 eur
 
