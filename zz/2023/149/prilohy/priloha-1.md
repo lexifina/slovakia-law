@@ -1,0 +1,1 @@
+[Zmeny Poplatkového poriadku k Dohovoru o udeľovaní európskych patentov (Európskemu patentovému dohovoru) v slovenskom jazyku](../assets/a532f2b7e59e474523d8c2381d3ed7e18685deab984e6c28de53ee0b9382ba30.pdf)
