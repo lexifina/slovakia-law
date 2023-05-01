@@ -12,4 +12,6 @@
 
 - b) za obdobie odo dňa, v ktorom vznikol sporiteľovi podľa osobitného predpisu,<sup>1</sup>) ktorému sa nevypláca starobný dôchodok alebo predčasný starobný dôchodok podľa osobitného predpisu,<sup>1</sup>) nárok na výplatu materského, najneskôr do uplynutia 60 dní odo dňa vydania rozhodnutia o priznaní materského,
 
-- c) za obdobie odo dňa vydania certifikátu podľa osobitného predpisu<sup>102a</sup>) do dňa zániku účasti na starobnom dôchodkovom sporení alebo do skončenia záväznosti ponuky doživotného starobného dôchodku, doživotného predčasného starobného dôchodku, dočasného starobného dôchodku alebo dočasného predčasného starobného dôchodku podľa osobitného predpisu.<sup>102b</sup>)
+- c) za obdobie odo dňa vydania certifikátu podľa osobitného predpisu<sup>102a</sup>) do dňa zániku účasti na starobnom dôchodkovom sporení alebo do skončenia záväznosti ponuky doživotného starobného dôchodku, doživotného predčasného starobného dôchodku, dočasného starobného dôchodku alebo dočasného predčasného starobného dôchodku podľa osobitného predpisu,<sup>102b</sup>)
+
+- d) za obdobie odo dňa, v ktorom sporiteľovi vznikla prvá účasť na starobnom dôchodkovom sporení do konca kalendárneho mesiaca nasledujúceho po kalendárnom mesiaci, v ktorom Sociálna poisťovňa určila dôchodkovú správcovskú spoločnosť podľa osobitného predpisu.<sup>1</sup>)
