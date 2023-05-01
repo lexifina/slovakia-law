@@ -24,7 +24,7 @@
 
 (10) V súvislosti s uzatvorením dohody o vyplácaní dôchodku programovým výberom sa nesmie vykonávať finančné sprostredkovanie podľa osobitného predpisu.<sup>42c</sup>)
 
-(11) Dohoda o vyplácaní dôchodku programovým výberom uzatvorená na základe záväznej ponuky podľa § 46b alebo na základe žiadosti podľa § 46d medzi sporiteľom a dôchodkovou správcovskou spoločnosťou je súčasťou zmluvy o starobnom dôchodkovom sporení. Ustanovenia § 64 ods. 9 písm. f), § 64a, 64b a 97 sa nepoužijú.
+(11) Dohoda o vyplácaní dôchodku programovým výberom uzatvorená na základe záväznej ponuky podľa § 46b alebo na základe žiadosti podľa § 46d medzi sporiteľom a dôchodkovou správcovskou spoločnosťou je súčasťou zmluvy o starobnom dôchodkovom sporení. Ustanovenia § 64a, 64b a 97 sa nepoužijú.
 
 (12) Dohodu o vyplácaní dôchodku programovým výberom možno dohodou meniť, len ak
 

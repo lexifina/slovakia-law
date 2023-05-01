@@ -10,7 +10,7 @@
 
 - b) fyzická osoba, ktorá uzatvorila zmluvu o starobnom dôchodkovom sporení, nespĺňa podmienky na uzatvorenie zmluvy o starobnom dôchodkovom sporení podľa § 64 alebo § 64b,
 
-- c) sporiteľovi, ktorý uzatvoril zmluvu o starobnom dôchodkovom sporení podľa § 64b ods. 1, Sociálna poisťovňa nevydala akceptačný list podľa § 64b ods. 2,
+- c) bola uzatvorená v rozpore s § 64 ods. 1,
 
 - d) sporiteľ uzatvoril zmluvu o starobnom dôchodkovom sporení podľa § 64b ods. 1 po zadaní pokynu na vydanie certifikátu pre tohto sporiteľa a záväznosť ponúk podľa § 46, § 46a alebo § 46b trvá.
 

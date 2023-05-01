@@ -1,5 +1,3 @@
-## Prechodné ustanovenie k úpravám účinným od 1. mája 2023
-
 # § 123be
 
 (1) Dôchodková správcovská spoločnosť je povinná do 28. februára 2023 zaslať informáciu, že od 1. júla 2023 sa stáva sporiteľom v predvolenej investičnej stratégii, ak v lehote podľa odseku 2 neprejaví vôľu nebyť sporiteľom v predvolenej investičnej stratégii, sporiteľovi,
