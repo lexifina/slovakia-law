@@ -444,6 +444,78 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 
 - 52. V § 25 ods. 1 písm. g) sa za slovami „zamestnancov úradu“ vkladajú slová „a paušálnu náhradu predsedovi úradu“.
 
+- 55. § 31 a 32 vrátane nadpisu nad § 31 znejú:
+
+- „Úhrada za činnosť úradu
+
+- § 31
+
+- (1)
+
+- Úrad vyberá úhradu za
+
+- a)
+
+- podanie žiadosti o vydanie povolenia (§ 37),
+
+- b)
+
+- podanie žiadosti o zmenu povolenia (§ 38),
+
+- c)
+
+- podanie žiadosti o vydanie predchádzajúceho súhlasu (§ 41),
+
+- d)
+
+- predloženie ozdravného plánu na schválenie (§ 51),
+
+- e)
+
+- podanie návrhu postupu prevodu poistného kmeňa podľa § 61a,
+
+- f)
+
+- vydanie náhradného rozhodnutia k žiadosti alebo k návrhu podľa písmen a) až e),
+
+- g)
+
+- vydanie povolenia na prevádzkovanie ambulancií záchrannej zdravotnej služby podľa osobitného predpisu.<sup>41aac</sup>)
+
+- (2)
+
+- Ak úhrada podľa odseku 1 písm. a) až c), e) a g) nebola zaplatená pri podaní žiadosti alebo návrhu (§ 32 ods. 2 prvá veta), úrad konanie zastaví. Ak nebola úhrada podľa odseku 1 písm. d) zaplatená ani na základe písomnej výzvy úradu na jej úhradu (§ 32 ods. 2), úrad pristúpi k jej vymáhaniu.
+
+- (3)
+
+- Výška úhrady sa ustanovuje pevnou sumou.
+
+- (4)
+
+- Výšku úhrady za úkony podľa odseku 1 ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo zdravotníctva.
+
+- § 32
+
+- (1)
+
+- Ten, kto požaduje vykonanie úkonu, ktorý podlieha úhrade, je povinný úhradu vykonať.
+
+- (2)
+
+- Úhrada za úkony podľa § 31 ods. 1 písm. a) až c), e) a g) sa platí bez výzvy a je splatná pri podaní žiadosti alebo návrhu. Ak úhrada podľa § 31 ods. 1 písm. d) nebola zaplatená pri predložení ozdravného plánu na schválenie, je splatná do ôsmich dní odo dňa doručenia písomnej výzvy úradu na jej zaplatenie.
+
+- (3)
+
+- Úhrady podľa § 31 ods. 1 sú príjmom úradu.
+
+- (4)
+
+- Ak úrad zistí, že úhradu vykonal ten, kto ju nebol povinný zaplatiť, alebo účastník konania zaplatil vyššiu úhradu, úrad úhradu alebo jej časť vráti do 30 dní od tohto zistenia.
+
+- (5)
+
+- Úhradu alebo jej časť úrad nevráti, ak suma neprevyšuje tri eurá.“.
+
 - 56. V § 33 ods. 1 písmeno l) znie:
 
 - „l)

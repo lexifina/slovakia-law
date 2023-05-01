@@ -240,6 +240,52 @@ Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona �
 
 - zdravotnej starostlivosti poskytovanej na liečbu chronického ochorenia.“.
 
+- 24. V § 9f odsek 1 znie:
+
+- „(1)
+
+- Žiadosť o udelenie súhlasu podľa § 9a ods. 2, § 9b ods. 10 a § 9d ods. 3 podáva poistenec príslušnej zdravotnej poisťovni.“.
+
+- 25. V § 9f sa za odsek 1 vkladajú nové odseky 2 a 3, ktoré znejú:
+
+- „(2)
+
+- Žiadosť o udelenie súhlasu podľa § 9a ods. 2 a § 9b ods. 10 musí obsahovať
+
+- a)
+
+- údaje o poistencovi v rozsahu meno, priezvisko, dátum narodenia, rodné číslo, ak je pridelené, a adresu bydliska poistenca,
+
+- b)
+
+- diagnózu poistenca a odôvodnenie potreby plánovanej zdravotnej starostlivosti v cudzine poskytovateľom zdravotnej starostlivosti,<sup>16hc</sup>)
+
+- c)
+
+- potvrdenie zdravotnej indikácie a odôvodnenie potreby poskytnutia navrhovanej liečby v cudzine klinickým pracoviskom príslušného špecializačného odboru,
+
+- d)
+
+- výpočet predpokladaných nákladov plánovanej zdravotnej starostlivosti v cudzine vypracovaný poskytovateľom zdravotnej starostlivosti v cudzine, kde sa má zdravotná starostlivosť poskytnúť, a
+
+- e)
+
+- potvrdenie o možnom prijatí poistenca u poskytovateľa zdravotnej starostlivosti v cudzine po kladnom rozhodnutí zdravotnej poisťovne.
+
+- (3)
+
+- Žiadosť o udelenie súhlasu podľa § 9d ods. 3 musí obsahovať meno, priezvisko, dátum narodenia, rodné číslo, ak je pridelené, adresu bydliska poistenca, diagnózu poistenca a odôvodnenie potreby plánovanej zdravotnej starostlivosti v cudzine poskytovateľom zdravotnej starostlivosti,<sup>16hc</sup>) potvrdenie zdravotnej indikácie a odôvodnenie potreby poskytnutia navrhovanej liečby v cudzine klinickým pracoviskom príslušného špecializačného odboru alebo poskytovateľom zdravotnej starostlivosti iného členského štátu. Žiadosť podľa prvej vety môže obsahovať výpočet predpokladaných nákladov plánovanej zdravotnej starostlivosti v cudzine vypracovaný poskytovateľom zdravotnej starostlivosti v cudzine, kde sa má zdravotná starostlivosť poskytnúť.“.
+
+  - Doterajšie odseky 2 až 7 sa označujú ako odseky 4 až 9.
+
+- 26. V § 9f ods. 4 sa slová „odseku 1“ nahrádzajú slovami „odseku 2 písm. c)“.
+
+- 27. V § 9f ods. 6 sa slová „žiadosti podľa odsekov 1 a 3“ nahrádzajú slovami „žiadostiach podľa odsekov 1 a 5“.
+
+- 28. V § 9f ods. 8 sa slová „odseku 5“ nahrádzajú slovami „odseku 7“.
+
+- 29. V § 9f ods. 9 sa slová „1 a 3 až 6“ nahrádzajú slovami „1 a 5 až 8“.
+
 - 30. V § 9h odsek 2 znie:
 
 - „(2)
