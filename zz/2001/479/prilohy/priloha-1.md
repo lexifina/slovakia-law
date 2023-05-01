@@ -1,3 +1,0 @@
-Príloha č. 1 k vyhláške č. 479/2001 Z. z.
-
-- OCHRANNÉ PÁSMO I. STUPŇA PRÍRODNÝCH ZDROJOV MINERÁLNYCH STOLOVÝCH VÔD V LIPOVCIACH ![Obrázok 01-1](../assets/f5ef5c13904c664debeb6e4cd311ff610c39b796bca7658f88189455dd73b95c.png)
