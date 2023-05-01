@@ -15,3 +15,9 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 - 8. V § 168 ods. 3 sa vypúšťa písmeno g).
 
   - Doterajšie písmeno h) sa označuje ako písmeno g).
+
+- 9. V § 241a sa odsek 2 dopĺňa písmenom d), ktoré znie:
+
+- „d)
+
+- za obdobie odo dňa, v ktorom sporiteľovi vznikla prvá účasť na starobnom dôchodkovom sporení do konca kalendárneho mesiaca nasledujúceho po kalendárnom mesiaci, v ktorom Sociálna poisťovňa určila dôchodkovú správcovskú spoločnosť podľa osobitného predpisu.<sup>1</sup>)“.
