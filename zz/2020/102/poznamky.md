@@ -46,18 +46,6 @@
 
 - 31) § 40 ods. 10 písm. b) zákona č. 447/2008 Z. z. v znení neskorších predpisov.
 
-- 32) § 27 ods. 1, § 32 ods. 10, § 33 ods. 8, § 34 ods. 10 a ods. 12 písm. a) a b), § 35 ods. 9 a § 37 ods. 9 prvá veta zákona č. 447/2008 Z. z. v znení zákona č. 191/2018 Z. z.
-
-- 33) § 34 ods. 16 a § 42 ods. 1 zákona č. 447/2008 Z. z. v znení neskorších predpisov.
-
-- 34) § 37 ods. 10 prvá veta zákona č. 447/2008 Z. z. v znení neskorších predpisov.
-
-- 35) § 55 ods. 11 zákona č. 447/2008 Z. z. v zákona č. 180/2011 Z. z.
-
-- 36) § 21 ods. 6 zákona č. 447/2008 Z. z.
-
-- 37) § 56a ods. 2 zákona č. 447/2008 Z. z.
-
 - 38) § 40 zákona č. 447/2008 Z. z. v znení neskorších predpisov.
 
 - 38a) § 18 zákona č. 447/2008 Z. z. v znení neskorších predpisov.
