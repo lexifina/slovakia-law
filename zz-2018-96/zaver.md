@@ -1,0 +1,1 @@
+Tomáš Drucker v. r.
