@@ -2,7 +2,7 @@
 
 (1) Výbor pre kybernetickú bezpečnosť pri koordinácii plánovania opatrení zameraných na zachovanie bezpečnosti Slovenskej republiky v kybernetickom priestore (ďalej len „kybernetická bezpečnosť“)
 
-- a) vyhodnocuje bezpečnostnú situáciu v Slovenskej republike a vo svete v oblasti kybernetickej bezpečnosti; správu o výsledkoch vyhodnotení zasiela bezodkladne, najmenej jedenkrát mesačne Kancelárii Bezpečnostnej rady Slovenskej republiky,
+- a) vyhodnocuje bezpečnostnú situáciu v Slovenskej republike a vo svete v oblasti kybernetickej bezpečnosti; správu o výsledkoch vyhodnotení zasiela bezodkladne, najmenej jedenkrát ročne Kancelárii Bezpečnostnej rady Slovenskej republiky,
 
 - b) pripravuje pre Bezpečnostnú radu návrhy opatrení na zníženie alebo odstránenie rizík ohrozenia v oblasti kybernetickej bezpečnosti,
 
