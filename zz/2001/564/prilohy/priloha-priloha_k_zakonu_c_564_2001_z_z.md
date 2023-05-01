@@ -594,7 +594,7 @@ Príloha k zákonu č. 564/2001 Z. z.
 
     - 2.23 Druhové, kvantitatívne a kvalitatívne preberanie tovaru, jeho uskladnenie, vedenie predpísanej evidencie s využitím výpočtovej techniky, účasť na inventarizácii.
 
-    - 2.24 Inštalačná a kúrenárska práca, napr. montáž a opravy potrubia vnútornej kanalizácie, dodatočné urobenie prípojok plynovodov pre spotrebiče, montáž obehových čerpadiel pre nízkotlakové a teplovodné systémy s vyregulovaním chodu a s preskúšaním podľa STN 736660 a STN 690012, zhotovovanie tlakových expanzívnych nádrží zváraním.
+    - 2.24 Inštalačná a kúrenárska práca, napr. montáž a opravy potrubia vnútornej kanalizácie, dodatočné urobenie prípojok plynovodov pre spotrebiče, montáž obehových čerpadiel pre nízkotlakové a teplovodné systémy s vyregulovaním chodu a s preskúšaním napríklad podľa STN 736660 a STN 690012, zhotovovanie tlakových expanzívnych nádrží zváraním.
 
     - 2.25 Odborná obsluha a údržba automatizovanej kotolne, výmenníkových staníc vrátane opravy a údržby strojového zariadenia tepelného hospodárstva.
 
@@ -626,7 +626,7 @@ Príloha k zákonu č. 564/2001 Z. z.
 
     - 3.04 Vedenie skladov tovaru, materiálu a drobného hmotného majetku, vedenie predpísanej evidencie s využitím výpočtovej techniky a účasť na inventarizáciách.
 
-    - 3.05 Inštalačná a kúrenárska práca, napr. samostatná montáž a opravy domových plynovodov s príslušenstvom vrátane skúšok, samostatná montáž a opravy potrubia a armatúr v kotolniach a strojovniach, montáž a oprava potrubia domových vodovodov s príslušenstvom vrátane vykonania skúšok tesnosti podľa STN 736660 a STN 690012 a pod.
+    - 3.05 Inštalačná a kúrenárska práca, napr. samostatná montáž a opravy domových plynovodov s príslušenstvom vrátane skúšok, samostatná montáž a opravy potrubia a armatúr v kotolniach a strojovniach, montáž a oprava potrubia domových vodovodov s príslušenstvom vrátane vykonania skúšok tesnosti napríklad podľa STN 736660 a STN 690012.
 
     - 3.06 Oprava, údržba a nastavovanie elektrotechnických systémov na meranie a reguláciu teplôt alebo iných veličín.
 
@@ -666,4 +666,4 @@ Príloha k zákonu č. 564/2001 Z. z.
 
     - 9. | 1 145,50
 
-    - [Stupnica platových taríf](../assets/d2d7dccfc1a76863f4428ae998795e45c1c669be242f319c013f880a5352df00.pdf)
+    - [Stupnica platových taríf](../assets/490ffbcbf632e849d31e3412bacb442d1d2311ba9e82255e2fab32d88849479a.pdf)

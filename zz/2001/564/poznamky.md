@@ -2,6 +2,8 @@
 
 - 2) Napríklad zákon Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov, zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 280/1997 Z. z. o Spoločnej zdravotnej poisťovni v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov, zákon Slovenskej národnej rady č. 13/1992 Zb. o Slovenskej lekárskej komore, Slovenskej komore zubných lekárov a Slovenskej lekárnickej komore.
 
+- 2a) Dohovor proti mučeniu a inému krutému, neľudskému alebo ponižujúcemu zaobchádzaniu alebo trestaniu (vyhláška ministra zahraničných vecí č. 143/1988 Zb.) v znení Opčného protokolu k Dohovoru proti mučeniu a inému krutému, neľudskému alebo ponižujúcemu zaobchádzaniu alebo trestaniu.
+
 - 3) § 116 zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - § 197 ods. 1 zákona č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení zákona č. 220/2011 Z. z.
@@ -29,6 +31,12 @@
 - Civilný mimosporový poriadok.
 
 - Správny súdny poriadok.
+
+- 12b) Čl. 2 Opčného protokolu k Dohovoru proti mučeniu a inému krutému, neľudskému alebo ponižujúcemu zaobchádzaniu alebo trestaniu.
+
+- 12c) Zákon č. 176/2015 Z. z. o komisárovi pre deti a komisárovi pre osoby so zdravotným postihnutím a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 12d) § 4 ods. 1 písm. b) druhý bod a § 10 ods. 1 písm. b) druhý bod zákona č. 176/2015 Z. z. v znení neskorších predpisov.
 
 - 13) Zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov Slovenskej republiky v znení neskorších predpisov.
 
