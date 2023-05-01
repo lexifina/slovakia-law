@@ -40,7 +40,7 @@
 
 - 8) § 23 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v znení neskorších predpisov.
 
-- 8a) Čl. 8, čl. 15 ods. 2 Prílohy VI. nariadenia Európskeho parlamentu a rady č. 211/2011, Ú. v. EÚ L 65, 11. 3. 2011, s. 1 až 22.
+- 8a) Čl. 12, čl. 20 ods. 2 a príloha VI. nariadenia Európskeho parlamentu a Rady (EÚ) 2019/788 zo 17. apríla 2019 o európskej iniciatíve občanov (Ú. v. EÚ L 130, 17. 5. 2019) v platnom znení.
 
 - 8aa) Zákon č. 335/2014 Z. z. spotrebiteľskom rozhodcovskom konaní a o zmene a doplnení niektorých zákonov.
 
