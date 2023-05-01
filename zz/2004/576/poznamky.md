@@ -278,9 +278,11 @@
 
 - Nariadenie Európskeho parlamentu a Rady (EÚ) č. 536/2014 zo 16. apríla 2014 o klinickom skúšaní liekov na humánne použitie, ktorým sa zrušuje smernica 2001/20/ES (Ú. v. EÚ L 158, 27. 5. 2014) v platnom znení.
 
-- 39ab) § 10 zákona č. 176/2015 Z. z. o komisárovi pre deti a komisárovi pre osoby so zdravotným postihnutím a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 39ab) Zákon č. 176/2015 Z. z. o komisárovi pre deti a komisárovi pre osoby so zdravotným postihnutím a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- Článok 14, 15 a 25 Dohovoru o právach osôb so zdravotným postihnutím (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 317/2010 Z. z.) v znení Opčného protokolu k Dohovoru o právach osôb so zdravotným postihnutím (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 318/2010 Z. z.).
+- 39ac) Zákon č. 564/2001 Z. z. o verejnom ochrancovi práv v znení neskorších predpisov.
+
+- 39ad) § 18 zákona č. 153/2001 Z. z. o prokuratúre v znení neskorších predpisov.
 
 - 40a) § 110 ods. 1 zákona č. 87/2018 Z. z. o radiačnej ochrane a o zmene a doplnení niektorých zákonov.
 
