@@ -148,6 +148,16 @@
 
 - 37aa) § 2 písm. a) prvý bod zákona č. 136/2000 Z. z. v znení zákona č. 394/2015 Z. z.
 
+- 37aaa) § 57 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
+- § 5 vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 453/2000 Z. z., ktorou sa vykonávajú niektoré ustanovenia stavebného zákona.
+
+- Príloha č. 8, tabuľka č. 10 prvý až siedmy bod zákona č. 24/2006 Z. z.
+
+- 37aab) § 9 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z.
+
+- 37aac) Napríklad zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov, zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov, zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov, zákon č. 302/2001 Z. z. o samospráve vyšších územných celkov (zákon o samosprávnych krajoch) v znení neskorších predpisov, zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 37ab) Napríklad zákon č. 405/2011 Z. z. o rastlinolekárskej starostlivosti a o zmene zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov v znení zákona č. 387/2013 Z. z.
 
 - 37b) § 22 zákona č. 569/2007 Z. z. v znení neskorších predpisov.
@@ -173,6 +183,8 @@
 - 46) Nariadenie vlády Slovenskej republiky č. 438/2005 Z. z.
 
 - 46a) Napríklad zákon č. 326/2005 Z. z. v znení neskorších predpisov, zákon č. 220/2004 Z. z. o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 46aa) § 2 a 8 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 46b) § 4 ods. 3 písm. g) zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
@@ -203,6 +215,8 @@
 - 56) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
 - 56a) § 38a ods. 2 zákona č. 338/2000 Z. z. v znení neskorších predpisov.
+
+- 56b) § 3 zákona č. 371/2021 Z. z. o významných investíciách v znení neskorších predpisov.
 
 - 57) Zákon č. 7/2010 Z. z. v znení neskorších predpisov.
 

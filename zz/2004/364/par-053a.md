@@ -24,4 +24,4 @@ Vlastník, správca alebo užívateľ hydromelioračnej stavby alebo kanála, kt
 
 (5)
 
-Na kanál, ktorý je súčasťou hydromelioračnej stavby, sa v primeranej miere vzťahujú ustanovenia § 43 ods. 2 a 4 až 7, § 47 a § 49 ods. 1 písm. b) a c).
+Na kanál, ktorý je súčasťou hydromelioračnej stavby, sa v primeranej miere vzťahujú ustanovenia § 43 ods. 2 a 5 až 8, § 47 a § 49 ods. 1 písm. b) a c).
