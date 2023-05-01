@@ -26,22 +26,26 @@
 
 - 5) Napríklad zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov, § 11 zákona č. 563/2009 o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov, § 89 až 93b zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 5a) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 211/2011 zo 16. februára 2011 o iniciatíve občanov (Ú. v. EÚ L 65, 11. 3. 2011) v platnom znení.
+- 5a) Nariadenie Európskeho parlamentu a Rady (EÚ) 2019/788 zo 17. apríla 2019 o európskej iniciatíve občanov (Ú. v. EÚ L 130, 17. 5. 2019) v platnom znení.
 
-- 5b) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- § 22 ods. 3 zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
 
-- 5c) Čl. 6 a príloha IV nariadenia (EÚ) č. 211/2011.
+- 5aa) Čl. 4 ods. 6 nariadenia (EÚ) 2019/788 v platnom znení.
 
-- 5d) Čl. 6 ods. 4 nariadenia (EÚ) č. 211/2011.
+- 5ab) Čl. 5 nariadenia (EÚ) 2019/788 v platnom znení.
 
-- 5e) Príloha IV nariadenia (EÚ) č. 211/2011.
+- 5ac) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 910/2014 z 23. júla 2014 o elektronickej identifikácii a dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zrušení smernice 1999/93/ES (Ú. v. EÚ L 257, 28. 8. 2014) v platnom znení.
 
-- 5f) Čl. 8 a čl. 15 ods. 2 nariadenia (EÚ) č. 211/2011.
+- Zákon č. 272/2016 Z. z. o dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zmene a doplnení niektorých zákonov (zákon o dôveryhodných službách) v znení zákona č. 211/2019 Z. z.
 
-- 5g) Čl. 2 ods. 3 nariadenia (EÚ) č. 211/2011.
+- 5ad) § 23 ods. 1 písm. a) tretí bod zákona č. 305/2013 Z. z. v znení zákona č. 238/2017 Z. z.
+
+- 5b) Čl. 5 ods. 6 nariadenia (EÚ) 2019/788 v platnom znení.
 
 - 5h) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 6) Napríklad § 133 a 134 zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriadku Národnej rady Slovenskej republiky.
 
 - 7) Zákon č. 9/2010 Z. z. o sťažnostiach.
+
+- 8) Čl. 11 ods. 7 nariadenia (EÚ) 2019/788 v platnom znení.
