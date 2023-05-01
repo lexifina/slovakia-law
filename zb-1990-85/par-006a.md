@@ -1,0 +1,5 @@
+# § 6a Súčinnosť pri vybavovaní petície
+
+(1) Na výzvu príslušného orgánu verejnej moci je zástupca povinný do desiatich pracovných dní od doručenia výzvy poskytnúť nevyhnutnú súčinnosť pri vybavovaní petície. Ak zástupca bez objektívneho dôvodu neposkytne súčinnosť v tejto lehote, orgán verejnej moci nie je povinný petíciu vybaviť. O tomto následku musí byť zástupca písomne poučený už vo výzve na poskytnutie súčinnosti pri vybavovaní petície. V čase od odoslania výzvy na poskytnutie súčinnosti do jej poskytnutia lehota na vybavenie petície neplynie.
+
+(2) Orgány verejnej moci a nimi zriadené organizácie, ako aj štátne fondy a verejnoprávne inštitúcie sú povinné poskytnúť orgánu vybavujúcemu petíciu potrebné doklady, iné písomnosti, vyjadrenia, informácie vrátane technických nosičov údajov na vybavenie petície, ako aj súčinnosť nevyhnutnú pri vybavovaní petície, ak osobitný predpis<sup>5</sup>) neustanovuje inak. Od iných právnických osôb a od fyzických osôb možno požadovať súčinnosť len s ich súhlasom, ak osobitný predpis<sup>5</sup>) neustanovuje inak.
