@@ -1,0 +1,1 @@
+Rudolf Zajac v. r.
