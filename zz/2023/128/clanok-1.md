@@ -2,11 +2,25 @@
 
 Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., zákona č. 177/2004 Z. z., zákona č. 191/2004 Z. z., zákona č. 391/2004 Z. z., zákona č. 538/2004 Z. z., zákona č. 539/2004 Z. z., zákona č. 659/2004 Z. z., zákona č. 68/2005 Z. z., zákona č. 314/2005 Z. z., zákona č. 534/2005 Z. z., zákona č. 660/2005 Z. z., zákona č. 688/2006 Z. z., zákona č. 76/2007 Z. z., zákona č. 209/2007 Z. z., zákona č. 519/2007 Z. z., zákona č. 530/2007 Z. z., zákona č. 561/2007 Z. z., zákona č. 621/2007 Z. z., zákona č. 653/2007 Z. z., zákona č. 168/2008 Z. z., zákona č. 465/2008 Z. z., zákona č. 514/2008 Z. z., zákona č. 563/2008 Z. z., zákona č. 567/2008 Z. z., zákona č. 60/2009 Z. z., zákona č. 184/2009 Z. z., zákona č. 185/2009 Z. z., zákona č. 504/2009 Z. z., zákona č. 563/2009 Z. z., zákona č. 374/2010 Z. z., zákona č. 548/2010 Z. z., zákona č. 129/2011 Z. z., zákona č. 231/2011 Z. z., zákona č. 250/2011 Z. z., zákona č. 331/2011 Z. z., zákona č. 362/2011 Z. z., zákona č. 406/2011 Z. z., zákona č. 547/2011 Z. z., zákona č. 548/2011 Z. z., zákona č. 69/2012 Z. z., zákona č. 189/2012 Z. z., zákona č. 252/2012 Z. z., zákona č. 288/2012 Z. z., zákona č. 395/2012 Z. z., zákona č. 70/2013 Z. z., zákona č. 135/2013 Z. z., zákona č. 318/2013 Z. z., zákona č. 463/2013 Z. z., zákona č. 180/2014 Z. z., zákona č. 183/2014 Z. z., zákona č. 333/2014 Z. z., zákona č. 364/2014 Z. z., zákona č. 371/2014 Z. z., zákona č. 25/2015 Z. z., zákona č. 61/2015 Z. z., zákona č. 62/2015 Z. z., zákona č. 79/2015 Z. z., zákona č. 140/2015 Z. z., zákona č. 176/2015 Z. z., zákona č. 253/2015 Z. z., zákona č. 361/2015 Z. z., zákona č. 375/2015 Z. z., zákona č. 378/2015 Z. z., zákona č. 389/2015 Z. z., zákona č. 437/2015 Z. z., zákona č. 440/2015 Z. z., zákona č. 341/2016 Z. z., zákona č. 264/2017 Z. z., zákona č. 279/2017 Z. z., zákona č. 335/2017 Z. z., zákona č. 344/2017 Z. z., zákona č. 57/2018 Z. z., zákona č. 63/2018 Z. z., zákona č. 112/2018 Z. z., zákona č. 209/2018 Z. z., zákona č. 213/2018 Z. z., zákona č. 317/2018 Z. z., zákona č. 347/2018 Z. z., zákona č. 368/2018 Z. z., zákona č. 385/2018 Z. z., zákona č. 4/2019 Z. z., zákona č. 10/2019 Z. z., zákona č. 54/2019 Z. z., zákona č. 88/2019 Z. z., zákona č. 155/2019 Z. z., zákona č. 221/2019 Z. z., zákona č. 223/2019 Z. z., zákona č. 228/2019 Z. z., zákona č. 233/2019 Z. z., zákona č. 301/2019 Z. z., zákona č. 315/2019 Z. z., zákona č. 316/2019 Z. z., zákona č. 319/2019 Z. z., zákona č. 390/2019 Z. z., zákona č. 393/2019 Z. z., zákona č. 462/2019 Z. z., zákona č. 46/2020 Z. z., zákona č. 198/2020 Z. z., zákona č. 296/2020 Z. z., zákona č. 416/2020 Z. z., zákona č. 420/2020 Z. z., zákona č. 421/2020 Z. z., zákona č. 76/2021 Z. z., zákona č. 215/2021 Z. z., zákona č. 257/2021 Z. z., zákona č. 310/2021 Z. z., zákona č. 408/2021 Z. z., zákona č. 416/2021 Z. z., zákona č. 129/2022 Z. z., zákona č. 222/2022 Z. z., zákona č. 232/2022 Z. z., zákona č. 257/2022 Z. z., zákona č. 433/2022 Z. z., zákona č. 496/2022 Z. z., zákona č. 519/2022 Z. z., zákona č. 59/2023 Z. z., zákona č. 60/2023 Z. z., zákona č. 65/2023 Z. z. a zákona č. 123/2023 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 6 ods. 2 písmeno e) znie:
+
+- „e)
+
+- príjmy z činnosti športového odborníka podľa osobitného predpisu,<sup>29aa</sup>) pri ktorých daňovník uplatnil postup podľa § 43 ods. 14, a príjmy z činnosti športovca vrátane príjmov športovca alebo športového odborníka na základe zmluvy o sponzorstve v športe.<sup>29ab</sup>)“.
+
 - 2. V § 16 ods. 1 písm. e) treťom bode sa vypúšťajú slová „z výnosov z dlhopisov okrem výnosov zo štátnych dlhopisov a štátnych pokladničných poukážok,“, za slovami „depozitných certifikátov“ sa vypúšťa čiarka a slová „pokladničných poukážok“ a na konci sa pripájajú tieto slová: „okrem výnosov z dlhopisov a pokladničných poukážok,“.
 
 - 3. V § 43 ods. 2 sa za slovom „pôžičiek“ vypúšťa čiarka a slová „výnosy z dlhopisov, ak plynú daňovníkovi s obmedzenou daňovou povinnosťou podľa § 2 písm. e) tretieho bodu okrem výnosov zo štátnych dlhopisov a štátnych pokladničných poukážok,“.
 
+- 4. V § 43 sa odsek 3 dopĺňa písmenom u), ktoré znie:
+
+- „u)
+
+- príjmy z činnosti športového odborníka podľa osobitného predpisu,<sup>29aa</sup>) ak daňovník neuplatní postup podľa odseku 14.“.
+
 - 5. V § 43 ods. 6 sa vypúšťa písmeno d).
+
+- 6. V § 43 ods. 14 sa za slová „podľa odseku 3 písm. h)“ vkladajú slová „a u)“.
 
 - 7. Za § 52zzs sa vkladajú § 52zzt a 52zzu, ktoré vrátane nadpisov znejú:
 
@@ -14,4 +28,10 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - Prechodné ustanovenie k úpravám účinným dňom vyhlásenia
 
-- Ustanovenie § 43 ods. 6 písm. d) v znení účinnom do dňa predchádzajúceho dňu vyhlásenia sa použije pri podaní daňového priznania za zdaňovacie obdobie roku 2023.“.
+- Ustanovenie § 43 ods. 6 písm. d) v znení účinnom do dňa predchádzajúceho dňu vyhlásenia sa použije pri podaní daňového priznania za zdaňovacie obdobie roku 2023.
+
+- § 52zzu
+
+- Prechodné ustanovenie k úpravám účinným od 1. mája 2023
+
+- Postup podľa § 6 ods. 2 písm. e), § 43 ods. 3 písm. u) a § 43 ods. 14 v znení účinnom od 1. mája 2023 sa prvýkrát použije pri zdanení výnosov (príjmov) daňovníka plynúcich od 1. januára 2024.“.
