@@ -1,0 +1,1 @@
+Príloha č. 1 k vyhláške č. 141/2023 Z. z. [OCHRANNÉ PÁSMO I. STUPŇA PRÍRODNÝCH MINERÁLNYCH ZDROJOV V LIPOVCIACH](../assets/ffbae065b720845dcfe364b33a1fa75fa91b41936e0d98ac760de3d9ac342ec6.pdf)
