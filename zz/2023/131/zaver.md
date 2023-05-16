@@ -1,1 +1,0 @@
-Karel Hirman v. r.
