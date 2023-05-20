@@ -198,6 +198,20 @@ Zákon č. 106/2018 Z. z. o prevádzke vozidiel v cestnej premávke a o zmene a 
 
   - <sup>79b</sup>) Čl. 11 vykonávacieho nariadenia Komisie (EÚ) 2021/392.“.
 
+- 35. § 74 sa dopĺňa odsekom 13, ktorý znie:
+
+- „(13)
+
+- Technická služba technickej kontroly je povinná
+
+- a)
+
+- počas celej doby poverenia disponovať nevýhradnou a prevoditeľnou licenciou na zmeny a prevádzku celoštátneho informačného systému technických kontrol a neustále udržiavať dokumentáciu k celoštátnemu informačnému systému technických kontrol v aktuálnom stave,
+
+- b)
+
+- bezodplatne poskytnúť licenciu podľa písmena a) k celoštátnemu informačnému systému technických kontrol vrátane poskytnutia zdrojových kódov aplikačného programového vybavenia, ktoré sú súčasťou celoštátneho informačného systému technických kontrol, všetkých spravovaných údajov podľa odseku 1 písm. h) a dokumentácie týkajúcej sa celoštátneho informačného systému technických kontrol typovému schvaľovaciemu orgánu na zabezpečenie činností výhradne súvisiacich s technickou službou technickej kontroly podľa § 70 ods. 2 v deň zrušenia poverenia podľa § 72 ods. 3 alebo v deň zániku poverenia podľa § 72 ods. 4.“.
+
 - 36. V § 75 ods. 1 písm. h) časť vety za bodkočiarkou znie: „technická služba emisnej kontroly umožňuje na svojom webovom sídle overenie platnosti emisnej kontroly a so súhlasom ministerstva dopravy môže zverejňovať tieto údaje z celoštátneho informačného systému emisných kontrol na svojom webovom sídle alebo poskytovať tretím osobám v elektronickej podobe“.
 
 - 37. § 75 sa dopĺňa odsekom 8, ktorý znie:
@@ -205,6 +219,20 @@ Zákon č. 106/2018 Z. z. o prevádzke vozidiel v cestnej premávke a o zmene a 
 - „(8)
 
 - Technická služba emisnej kontroly je povinná pred zvýšením poplatkov za svoje služby poskytované oprávneným osobám emisnej kontroly týkajúcich sa prístupu do celoštátneho informačného systému emisných kontrol a distribúcie tlačív požiadať typový schvaľovací orgán o schválenie zvýšenia poplatkov spolu s odôvodnením a preukázaním primeranosti zvýšenia poplatkov.“.
+
+- 38. § 75 sa dopĺňa odsekom 9, ktorý znie:
+
+- „(9)
+
+- Technická služba emisnej kontroly je povinná
+
+- a)
+
+- počas celej doby poverenia disponovať nevýhradnou a prevoditeľnou licenciou na zmeny a prevádzku celoštátneho informačného systému emisných kontrol a neustále udržiavať dokumentáciu k celoštátnemu informačnému systému emisných kontrol v aktuálnom stave,
+
+- b)
+
+- bezodplatne poskytnúť licenciu podľa písmena a) k celoštátnemu informačnému systému emisných kontrol vrátane poskytnutia zdrojových kódov aplikačného programového vybavenia, ktoré sú súčasťou celoštátneho informačného systému emisných kontrol, všetkých spravovaných údajov podľa odseku 1 písm. h) a dokumentácie týkajúcej sa celoštátneho informačného systému emisných kontrol typovému schvaľovaciemu orgánu na zabezpečenie činností výhradne súvisiacich s technickou službou emisnej kontroly podľa § 70 ods. 2 v deň zrušenia poverenia podľa § 72 ods. 3 alebo v deň zániku poverenia podľa § 72 ods. 4.“.
 
 - 39. V § 76 ods. 1 písm. g) časť vety za bodkočiarkou znie: „technická služba kontroly originality umožňuje na svojom webovom sídle overenie výsledku kontroly originality a so súhlasom ministerstva dopravy môže zverejňovať tieto údaje z celoštátneho informačného systému kontrol originality na svojom webovom sídle alebo poskytovať tretím osobám v elektronickej podobe“.
 
@@ -218,11 +246,39 @@ Zákon č. 106/2018 Z. z. o prevádzke vozidiel v cestnej premávke a o zmene a 
 
 - Technická služba kontroly originality je povinná pred zvýšením poplatkov za svoje služby poskytované oprávneným osobám kontroly originality týkajúcich sa prístupu do celoštátneho informačného systému kontrol originality a distribúcie tlačív požiadať typový schvaľovací orgán o schválenie zvýšenia poplatkov spolu s odôvodnením a preukázaním primeranosti zvýšenia poplatkov.“.
 
+- 43. § 76 sa dopĺňa odsekom 9, ktorý znie:
+
+- „(9)
+
+- Technická služba kontroly originality je povinná
+
+- a)
+
+- počas celej doby poverenia disponovať nevýhradnou a prevoditeľnou licenciou na zmeny a prevádzku celoštátneho informačného systému kontrol originality a neustále udržiavať dokumentáciu k celoštátnemu informačnému systému kontrol originality v aktuálnom stave,
+
+- b)
+
+- bezodplatne poskytnúť licenciu podľa písmena a) k celoštátnemu informačnému systému kontrol originality vrátane poskytnutia zdrojových kódov aplikačného programového vybavenia, ktoré sú súčasťou celoštátneho informačného systému kontrol originality, všetkých spravovaných údajov podľa odseku 1 písm. h) a dokumentácie týkajúcej sa celoštátneho informačného systému kontrol originality typovému schvaľovaciemu orgánu na zabezpečenie činností výhradne súvisiacich s technickou službou kontroly originality podľa § 70 ods. 2 v deň zrušenia poverenia podľa § 72 ods. 3 alebo v deň zániku poverenia podľa § 72 ods. 4.“.
+
 - 44. § 77 sa dopĺňa odsekom 5, ktorý znie:
 
 - „(5)
 
 - Technická služba montáže plynových zariadení je povinná pred zvýšením poplatkov za svoje služby poskytované oprávneným osobám montáže plynových zariadení týkajúcich sa prístupu do celoštátneho informačného systému montáže plynových zariadení a distribúcie tlačív požiadať typový schvaľovací orgán o schválenie zvýšenia poplatkov spolu s odôvodnením a preukázaním primeranosti zvýšenia poplatkov.“.
+
+- 45. § 77 sa dopĺňa odsekom 6, ktorý znie:
+
+- „(6)
+
+- Technická služba montáže plynových zariadení
+
+- a)
+
+- počas celej doby poverenia disponovať nevýhradnou a prevoditeľnou licenciou na zmeny a prevádzku celoštátneho informačného systému montáže plynových zariadení a neustále udržiavať dokumentáciu k celoštátnemu informačnému systému montáže plynových zariadení v aktuálnom stave,
+
+- b)
+
+- bezodplatne poskytnúť licenciu podľa písmena a) k celoštátnemu informačnému systému montáže plynových zariadení vrátane poskytnutia zdrojových kódov aplikačného programového vybavenia, ktoré sú súčasťou celoštátneho informačného systému montáže plynových zariadení, všetkých spravovaných údajov podľa odseku 1 písm. f) a dokumentácie týkajúcej sa celoštátneho informačného systému montáže plynových zariadení typovému schvaľovaciemu orgánu na zabezpečenie činností výhradne súvisiacich s technickou službou montáže plynových zariadení podľa § 70 ods. 2 v deň zrušenia poverenia podľa § 72 ods. 3 alebo v deň zániku poverenia podľa § 72 ods. 4.“.
 
 - 46. V § 79 ods. 11 písm. b) sa slová „stanici technickej kontroly alebo v pracovisku emisnej kontroly“ nahrádzajú slovami „priestore podľa písmena c)“ a na konci sa pripájajú tieto slová: „s uvedením zoznamu zariadení, na ktorých bude vykonaná kalibrácia“.
 
@@ -477,6 +533,16 @@ Zákon č. 106/2018 Z. z. o prevádzke vozidiel v cestnej premávke a o zmene a 
 - „c)
 
 - od 2 000 eur do 10 000 eur, ak poruší niektorú z povinností podľa § 74 ods. 11, § 75 ods. 8, § 76 ods. 8 alebo § 77 ods. 5.“.
+
+- 93. V § 148 sa odsek 6 dopĺňa písmenami d) a e), ktoré znejú:
+
+- „d)
+
+- od 5 000 eur do 20 000 eur, ak poruší niektorú z povinností podľa § 74 ods. 13 písm. a), § 75 ods. 9 písm. a), § 76 ods. 9 písm. a) alebo § 77 ods. 6 písm. a),
+
+- e)
+
+- od 20 000 eur do 250 000 eur, ak poruší niektorú z povinností podľa § 74 ods. 13 písm. b), § 75 ods. 9 písm. b), § 76 ods. 9 písm. b) alebo § 77 ods. 6 písm. b).“.
 
 - 94. V § 148 ods. 12 písmeno b) znie:
 
