@@ -24,8 +24,6 @@
 
 - a) žiadateľ má viac štátnych občianstiev a odmieta ochranu štátu, ktorého je štátnym občanom, pričom nejde o štát podľa § 13a,
 
-- b) žiadateľ nie je vystavený reálnej hrozbe vážneho bezprávia v inej časti krajiny pôvodu alebo má v nej prístup k ochrane pred vážnym bezprávím, môže bezpečne a oprávnene vycestovať a vstúpiť do tejto časti krajiny pôvodu, pričom sa v nej môže usadiť; pri posudzovaní reálnej hrozby vážneho bezprávia alebo prístupu k ochrane ministerstvo prihliada na všeobecné okolnosti prevládajúce v tejto časti krajiny pôvodu a na osobné pomery žiadateľa,
+- b) žiadateľ nie je vystavený reálnej hrozbe vážneho bezprávia v inej časti krajiny pôvodu alebo má v nej prístup k ochrane pred vážnym bezprávím, môže bezpečne a oprávnene vycestovať a vstúpiť do tejto časti krajiny pôvodu, pričom sa v nej môže usadiť; pri posudzovaní reálnej hrozby vážneho bezprávia alebo prístupu k ochrane ministerstvo prihliada na všeobecné okolnosti prevládajúce v tejto časti krajiny pôvodu a na osobné pomery žiadateľa, alebo
 
-- c) žiadateľ pred vstupom na územie Slovenskej republiky spáchal iný čin, ako je uvedený v odseku 2, ktorý je podľa osobitného predpisu<sup>7a</sup>) trestným činom, za ktorý možno uložiť trest odňatia slobody s dolnou hranicou trestnej sadzby najmenej päť rokov, a krajinu pôvodu opustil len z dôvodu, aby sa vyhol trestnému stíhaniu, alebo
-
-- d) stanovisko podľa § 19a ods. 10 obsahuje nesúhlas s poskytnutím doplnkovej ochrany.
+- c) žiadateľ pred vstupom na územie Slovenskej republiky spáchal iný čin, ako je uvedený v odseku 2, ktorý je podľa osobitného predpisu<sup>7a</sup>) trestným činom, za ktorý možno uložiť trest odňatia slobody s dolnou hranicou trestnej sadzby najmenej päť rokov, a krajinu pôvodu opustil len z dôvodu, aby sa vyhol trestnému stíhaniu.

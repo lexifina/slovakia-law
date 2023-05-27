@@ -1,1 +1,1 @@
-Príloha č. 2b k zákonu č. 480/2002 Z. z. [Žiadosť o poskytnutie jednorazového príspevku](../assets/f7e84c33089234409947b812ac798f3d29e5e2f2f1e859e1750ba155c163133d.pdf)
+Príloha č. 2b k zákonu č. 480/2002 Z. z. [Žiadosť o poskytnutie jednorazového príspevku](../assets/f4d04ad5cea500dfefabfa93e725344c9dfddf7826ab27ac1f43cadce5d610b2.pdf)
