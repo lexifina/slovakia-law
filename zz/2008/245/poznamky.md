@@ -2,6 +2,8 @@
 
 - 2) Napríklad § 19 zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 19 zákona č. 314/2001 Z. z. o ochrane pred požiarmi v znení neskorších predpisov, § 142 ods. 3 zákona č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
 
+- 2a) § 2a ods. 2 a 3 zákona č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon) v znení neskorších predpisov.
+
 - 3) § 372 Trestného zákona.
 
 - 4) § 424 Trestného zákona.
@@ -89,6 +91,12 @@
 - 32a) Napríklad zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 24 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov, vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 527/2007 Z. z. o podrobnostiach o požiadavkách na zariadenia pre deti a mládež.
 
 - 32aa) § 5 ods. 14 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
+
+- 32ab) § 8a, § 9 ods. 2 písm. h) a § 10 ods. 1 písm. a) a d) a ods. 2 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
+
+- 32ac) § 2 zákona č. 571/2009 Z. z. o rodičovskom príspevku a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 32ad) Zákon č. 571/2009 Z. z. v znení neskorších predpisov.
 
 - 32b) § 29 ods. 2 písm. a) zákona č. 61/2015 Z. z.
 
@@ -197,6 +205,8 @@
 - 80a) § 17 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - 80b) Čl. 5 zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení zákona č. 175/2015 Z. z.
+
+- 80c) Časť I prílohy č. 4 k zákonu č. 448/2008 Z. z. v znení zákona č. 485/2013 Z. z.
 
 - 81) Napríklad zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 474/2005 Z. z. o Slovákoch žijúcich v zahraničí a o zmene a doplnení niektorých zákonov v znení zákona č. 344/2007 Z. z., zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 

@@ -6,6 +6,6 @@
 
 - b) žiak, ktorému bolo povolené individuálne vzdelávanie v základnej škole.
 
-(2) Individuálny vzdelávací program pre dieťa so špeciálnymi výchovno-vzdelávacími potrebami alebo pre žiaka so špeciálnymi výchovno-vzdelávacími potrebami v súlade s odporúčaniami zariadenia poradenstva a prevencie vypracuje pedagogický zamestnanec poverený riaditeľom školy v spolupráci so školským špeciálnym pedagógom, pedagogickým asistentom a odborným zamestnancom školy a po konzultácii so zákonným zástupcom.
+(2) Individuálny vzdelávací program pre dieťa so špeciálnymi výchovno-vzdelávacími potrebami alebo pre žiaka so špeciálnymi výchovno-vzdelávacími potrebami na základe odporúčaní zariadenia poradenstva a prevencie vypracuje pedagogický zamestnanec poverený riaditeľom školy v spolupráci so školským špeciálnym pedagógom, pedagogickým asistentom a odborným zamestnancom školy a po konzultácii so zákonným zástupcom; ak ide o žiaka základnej školy najmenej v piatom ročníku alebo o žiaka strednej školy, aj po konzultácii s týmto žiakom.
 
-(3) Individuálny vzdelávací program obsahuje úpravy jednotlivých častí školského vzdelávacieho programu podľa špeciálnych výchovno-vzdelávacích potrieb dieťaťa alebo žiaka, najmä úpravu obsahu, metód, foriem alebo spôsobu hodnotenia a spolupráce s odbornými zamestnancami.
+(3) Individuálny vzdelávací program obsahuje podporné opatrenie a úpravy jednotlivých častí školského vzdelávacieho programu podľa špeciálnych výchovno-vzdelávacích potrieb dieťaťa alebo žiaka, najmä úpravu obsahu, metód, foriem alebo spôsobu hodnotenia a spolupráce s odbornými zamestnancami.
