@@ -56,10 +56,6 @@
 
 - 23a) § 7 ods. 2 a § 8 ods. 2 zákona č. 245/2008 Z. z.
 
-- 24) § 3 zákona č. 29/1984 Zb. v znení neskorších predpisov.
-
-- 25) § 41 zákona č. 29/1984 Zb. v znení neskorších predpisov.
-
 - 26) § 31 zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - § 36 zákona č. 29/1984 Zb. v znení neskorších predpisov.
@@ -105,6 +101,8 @@
 - 35) § 20a zákona Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov.
 
 - 35a) Príloha č. 1 k vyhláške Ministerstva školstva Slovenskej republiky č. 437/2009 Z. z., ktorou sa ustanovujú kvalifikačné predpoklady a osobitné kvalifikačné požiadavky pre jednotlivé kategórie pedagogických zamestnancov a odborných zamestnancov v znení neskorších predpisov.
+
+- 35b) § 28c zákona č. 245/2008 Z. z. v znení zákona č. 181/2023 Z. z.
 
 - 36) § 4 zákona č. 302/2001 Z. z.
 
