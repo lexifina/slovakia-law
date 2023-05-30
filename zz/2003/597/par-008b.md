@@ -8,21 +8,15 @@
 
   - 2. úpravu normatívnych finančných prostriedkov na nový školský rok pre jednotlivé školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 4 ods. 10,
 
-  - 3. rozpis finančných prostriedkov pridelených prostredníctvom príspevku na skvalitnenie podmienok výchovy a vzdelávania žiakov zo sociálne znevýhodneného prostredia na kalendárny rok pre jednotlivé školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 4e ods. 6 písm. a),
+  - 3. rozpis finančných prostriedkov pridelených prostredníctvom príspevku na výchovu a vzdelávanie na kalendárny rok pre jednotlivé materské školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 6b ods. 6 písm. a),
 
-  - 4. úpravu finančných prostriedkov pridelených prostredníctvom príspevku na skvalitnenie podmienok výchovy a vzdelávania žiakov zo sociálne znevýhodneného prostredia na nový školský rok pre jednotlivé školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 4e ods. 6 písm. b),
+  - 4. úpravu finančných prostriedkov pridelených prostredníctvom príspevku na výchovu a vzdelávanie na nový školský rok pre jednotlivé materské školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 6b ods. 6 písm. b),
 
-  - 5. predloženie zúčtovania podľa § 4a ods. 5,
+  - 5. predloženie správy o hospodárení regionálnemu úradu podľa § 7 ods. 1,
 
-  - 6. rozpis finančných prostriedkov pridelených prostredníctvom príspevku na výchovu a vzdelávanie na kalendárny rok pre jednotlivé materské školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 6b ods. 6 písm. a),
+  - 6. predloženie údajov o počtoch detí alebo žiakov a ďalších údajov podľa § 7 ods. 4 alebo
 
-  - 7. úpravu finančných prostriedkov pridelených prostredníctvom príspevku na výchovu a vzdelávanie na nový školský rok pre jednotlivé materské školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 6b ods. 6 písm. b),
-
-  - 8. predloženie správy o hospodárení regionálnemu úradu podľa § 7 ods. 1,
-
-  - 9. predloženie údajov o počtoch detí alebo žiakov a ďalších údajov podľa § 7 ods. 4 alebo
-
-  - 10. rozpis finančných prostriedkov školám a školským zariadeniam vo svojej zriaďovateľskej pôsobnosti podľa § 7 ods. 12 písm. a) a ods. 13,
+  - 7. rozpis finančných prostriedkov školám a školským zariadeniam vo svojej zriaďovateľskej pôsobnosti podľa § 7 ods. 12 písm. a) a ods. 13,
 
 - b) pokutu 200 eur za neoznámenie výšky normatívnych finančných prostriedkov na kalendárny rok alebo na nový školský rok pre jednotlivé školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 4 ods. 11,
 
@@ -30,25 +24,21 @@
 
   - 1. normatívnych finančných prostriedkov podľa § 2 ods. 3, § 6 ods. 3 alebo § 6a ods. 3,
 
-  - 2. finančných prostriedkov na osobné náklady asistentov učiteľa pre žiakov so zdravotným znevýhodnením,
+  - 2. príspevku na dopravu,
 
-  - 3. príspevku na dopravu,
+  - 3. príspevku na kurz pohybových aktivít v prírode,
 
-  - 4. príspevku na kurz pohybových aktivít v prírode,
+  - 4. príspevku na školu v prírode,
 
-  - 5. príspevku na školu v prírode,
+  - 5. príspevku na edukačné publikácie,
 
-  - 6. príspevku na edukačné publikácie,
+  - 6. finančných prostriedkov za mimoriadne výsledky žiakov,
 
-  - 7. finančných prostriedkov za mimoriadne výsledky žiakov,
+  - 7. finančných prostriedkov na riešenie havarijných situácií,
 
-  - 8. finančných prostriedkov na riešenie havarijných situácií,
+  - 8. finančných prostriedkov na odchodné,
 
-  - 9. príspevku na skvalitnenie podmienok výchovy a vzdelávania žiakov zo sociálne znevýhodneného prostredia,
-
-  - 10. finančných prostriedkov na odchodné,
-
-  - 11. finančných prostriedkov na úhradu nákladov súvisiacich so starostlivosťou o pedagogického zamestnanca a odborného zamestnanca školy,<sup>1</sup>) v ktorej sa vzdelávanie považuje za sústavnú prípravu na povolanie, na úhradu vakcíny proti chrípke a vakcíny proti hepatitíde typu A a B,
+  - 9. finančných prostriedkov na úhradu nákladov súvisiacich so starostlivosťou o pedagogického zamestnanca a odborného zamestnanca školy,<sup>1</sup>) v ktorej sa vzdelávanie považuje za sústavnú prípravu na povolanie, na úhradu vakcíny proti chrípke a vakcíny proti hepatitíde typu A a B,
 
 - d) školy alebo školského zariadenia pokutu vo výške sumy, ktorá zodpovedá sume použitej inak, za nedodržanie účelu použitia
 
@@ -57,6 +47,8 @@
   - 2. príspevku na špecifiká,
 
   - 3. finančných prostriedkov na realizáciu rozvojových projektov,
+
+  - 4. príspevku na podporné opatrenie,
 
 - e) pokutu 2 000 eur za nevypracovanie správy o hospodárení podľa § 7 ods. 2 a 3,
 

@@ -38,13 +38,11 @@
 
 - a) osobný príplatok alebo odmenu pedagogických zamestnancov materskej školy podľa osobitného predpisu,<sup>23h</sup>) ktorí sa podieľajú na výchove a vzdelávaní detí,
 
-- b) zabezpečenie pedagogického asistenta pre deti so špeciálnymi výchovno-vzdelávacími potrebami,
+- b) zabezpečenie odborných zamestnancov materskej školy, ktorí sa podieľajú na výchove a vzdelávaní detí,<sup>23h</sup>)
 
-- c) zabezpečenie odborných zamestnancov materskej školy, ktorí sa podieľajú na výchove a vzdelávaní detí,<sup>23h</sup>)
+- c) individuálne vzdelávanie detí,
 
-- d) individuálne vzdelávanie detí,
-
-- e) vybavenie miestnosti určenej na výchovu a vzdelávanie detí
+- d) vybavenie miestnosti určenej na výchovu a vzdelávanie detí
 
   - 1. didaktickou technikou,
 
@@ -54,11 +52,11 @@
 
   - 4. kompenzačnými pomôckami,
 
-- f) úhradu nákladov súvisiacich s pobytom detí na aktivitách podľa osobitného predpisu,<sup>23ha</sup>)
+- e) úhradu nákladov súvisiacich s pobytom detí na aktivitách podľa osobitného predpisu,<sup>23ha</sup>)
 
-- g) úhradu nákladov za spotrebný materiál použitý pri výchove a vzdelávaní detí,
+- f) úhradu nákladov za spotrebný materiál použitý pri výchove a vzdelávaní detí,
 
-- h) vybavenie exteriéru materskej školy
+- g) vybavenie exteriéru materskej školy
 
   - 1. záhradným náradím, náčiním a hrovými prvkami na rozvíjanie pohybových schopností a zručností detí,
 

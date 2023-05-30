@@ -24,7 +24,9 @@
 
 - i) školy a späť do miesta jeho trvalého pobytu iným dopravným prostriedkom ako hromadnou dopravou za obdobie trvania zdravotného stavu žiaka, ktorý neumožňuje jeho prepravu do školy prostredníctvom hromadnej dopravy za podmienok podľa písmen a), c), e) a g),
 
-- j) školy a späť do miesta jeho trvalého pobytu iným dopravným prostriedkom ako hromadnou dopravou za obdobie trvania zdravotného stavu dieťaťa, pre ktoré je predprimárne vzdelávanie povinné, ktorý neumožňuje jeho prepravu do materskej školy prostredníctvom hromadnej dopravy za podmienok podľa písmen b), d), f) a h).
+- j) školy a späť do miesta jeho trvalého pobytu iným dopravným prostriedkom ako hromadnou dopravou za obdobie trvania zdravotného stavu dieťaťa, pre ktoré je predprimárne vzdelávanie povinné, ktorý neumožňuje jeho prepravu do materskej školy prostredníctvom hromadnej dopravy za podmienok podľa písmen b), d), f) a h),
+
+- k) školy a späť do miesta jeho trvalého pobytu, ak ide o školu, v ktorej výchovu a vzdelávanie dieťaťa so špeciálnymi výchovno-vzdelávacími potrebami alebo žiaka so špeciálnymi výchovno-vzdelávacími potrebami zabezpečil regionálny úrad podľa osobitného predpisu<sup>22daa</sup>) na účel poskytovania podporného opatrenia.
 
 (4) Úhrada cestovných nákladov na dopravu žiaka z obce jeho trvalého pobytu do najbližšej školy a späť podľa odseku 3 písm. g) platí rovnako aj pre žiaka so slovenskou národnosťou, ak v obci alebo v školskom obvode, v ktorom má žiak trvalý pobyt, nie je zriadená základná škola s vyučovacím jazykom slovenským.
 

@@ -56,8 +56,6 @@
 
 - 22aa) § 2 písm. ah) zákona č. 245/2008 Z. z. v znení zákona č. 415/2021 Z. z.
 
-- 22b) § 3 a 5 vyhlášky Ministerstva školstva Slovenskej republiky č. 322/2008 Z. z. o špeciálnych školách.
-
 - 22ba) § 21 zákona č. 56/2012 Z. z. o cestnej doprave.
 
 - 22bb) § 8a zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -66,6 +64,8 @@
 
 - 22da) § 13 ods. 10 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
 
+- 22daa) § 145b ods. 10 písm. a) zákona č. 245/2008 Z. z. v znení zákona č. 182/2023 Z. z.
+
 - 22e) Napríklad § 226 ods. 2 Zákonníka práce, § 4 ods. 1 písm. e) a t) zákona č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 22f) Napríklad § 86 ods. 1 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon), § 5 ods. 2 písm. h) zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení zákona č. 245/2008 Z. z., § 10 ods. 9 a § 14 ods. 3 zákona č. 583/2004 Z. z. o rozpočtových pravidlách územnej samosprávy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -73,12 +73,6 @@
 - 22fa) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 22fb) Napríklad § 415 a § 417 ods. 1 Občianskeho zákonníka v znení zákona č. 509/1991 Zb., § 7 zákona Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov, § 10 ods. 9 a § 14 ods. 3 zákona č. 583/2004 Z. z. v znení neskorších predpisov.
-
-- 22g) § 30 ods. 7 zákona č. 245/2008 Z. z.
-
-- 22h) § 14d zákona č. 553/2003 Z. z. v znení zákona č. 390/2011 Z. z.
-
-- 22i) § 4 ods. 2 zákona č. 544/2010 Z. z. o dotáciách v pôsobnosti Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky v znení neskorších predpisov.
 
 - 23) § 117 zákona č. 245/2008 Z. z.
 
