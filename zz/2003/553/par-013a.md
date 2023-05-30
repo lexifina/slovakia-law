@@ -6,6 +6,8 @@
 
 (2) Špecializovanou činnosťou podľa odseku 1 je činnosť
 
-- a) triedneho učiteľa a
+- a) triedneho učiteľa,
 
-- b) uvádzajúceho pedagogického zamestnanca a uvádzajúceho odborného zamestnanca.
+- b) uvádzajúceho pedagogického zamestnanca a uvádzajúceho odborného zamestnanca,
+
+- c) supervízora.
