@@ -12,6 +12,8 @@
 
 - § 67 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
+- 2c) § 28 ods. 1 písm. b) a d) zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
 - 3) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
 
 - 3a) § 8 až 16 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení zákona č. 502/2001 Z. z.
