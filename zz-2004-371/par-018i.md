@@ -1,0 +1,3 @@
+# § 18i Prechodné ustanovenia k úpravám účinným dňom vyhlásenia nálezu Ústavného súdu Slovenskej republiky PL. ÚS 17/08 z 20. mája 2009 v Zbierke zákonov Slovenskej republiky
+
+Výkon súdnictva, všetky práva a povinnosti vrátane prechodu správy majetku štátu, práv a povinností vyplývajúcich z pracovnoprávnych vzťahov a štátnozamestnaneckých vzťahov a iných obdobných právnych vzťahov a práv a povinností z osobných vzťahov sudcu k štátu prechádza dňom vyhlásenia nálezu Ústavného súdu Slovenskej republiky PL.ÚS 17/08 z 20. mája 2009 v Zbierke zákonov Slovenskej republiky zo Špeciálneho súdu na Špecializovaný trestný súd.
