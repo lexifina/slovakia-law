@@ -2,6 +2,14 @@
 
 Zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení zákona č. 747/2004 Z. z., zákona č. 584/2005 Z. z., zákona č. 310/2006 Z. z., zákona č. 555/2007 Z. z., zákona č. 659/2007 Z. z., zákona č. 449/2008 Z. z., zákona č. 186/2009 Z. z., zákona č. 557/2009 Z. z., zákona č. 520/2011 Z. z., zákona č. 318/2013 Z. z., zákona č. 352/2013 Z. z., zákona č. 301/2014 Z. z., zákona č. 375/2015 Z. z., zákona č. 91/2016 Z. z., zákona č. 125/2016 Z. z., zákona č. 292/2016 Z. z., zákona č. 279/2017 Z. z., zákona č. 109/2018 Z. z., zákona č. 177/2018 Z. z., zákona č. 317/2018 Z. z., zákona č. 35/2019 Z. z., zákona 156/2019 Z. z., zákona č. 68/2020 Z. z., zákona č. 95/2020 Z. z., zákona č. 310/2021 Z. z. a zákona č. 101/2022 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 28a sa za odsek 3 vkladá nový odsek 4, ktorý znie:
+
+- „(4)
+
+- Ak účastník udelil súhlas s poskytovaním údajov o doplnkovom dôchodkovom sporení, ktoré doplnková dôchodková spoločnosť spracúva podľa tohto zákona, doplnková dôchodková spoločnosť je povinná v strojovo-spracovateľnom formáte automatizovaným spôsobom prostredníctvom aplikačného programového rozhrania poskytovať prístup k údajom účastníka autentifikovanej tretej strane. Doplnková dôchodková spoločnosť je povinná komunikovať prostredníctvom aplikačného programového rozhrania bezpečným spôsobom a prijímateľ údajov podľa prvej vety je povinný získané údaje šifrovať ihneď, ako je to možné.“.
+
+  - Doterajšie odseky 4 a 5 sa označujú ako odseky 5 a 6.
+
 - 2. V § 35a ods. 1 písm. a) sa číslo „1,2“ nahrádza číslom „1“.
 
 - 3. § 67b vrátane nadpisu znie:
