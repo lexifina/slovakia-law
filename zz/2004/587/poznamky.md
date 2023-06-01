@@ -62,6 +62,10 @@
 
 - 11ic) § 14 ods. 1 písm. l) zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
 
+- 11id) § 19 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
+
+- 11ie) § 65b zákona č. 543/2002 Z. z. v znení zákona č. 6/2022 Z. z.
+
 - 11j) Zákon č. 305/2018 Z. z. o chránených oblastiach prirodzenej akumulácie vôd a o zmene a doplnení niektorých zákonov.
 
 - 11k) § 5 ods. 1 písm. c) zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov.
