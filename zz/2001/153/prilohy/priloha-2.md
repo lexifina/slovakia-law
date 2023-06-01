@@ -1,4 +1,4 @@
-Príloha k zákonu č. 153/2001 Z. z.
+Príloha č. 2 k zákonu č. 153/2001 Z. z.
 
 - ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
 
