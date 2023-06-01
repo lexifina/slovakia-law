@@ -96,6 +96,22 @@
 
 - 29) Čl. 6 nariadenia Rady (ES) č. 338/97.
 
+- 29a) Kapitola VII nariadenia (ES) č. 865/2006 v platnom znení.
+
+- 29b) Kapitola VIII nariadenia (ES) č. 865/2006 v platnom znení.
+
+- 29c) Kapitola VIIIb nariadenia (ES) č. 865/2006 v platnom znení.
+
+- 29d) Kapitola VIIIa nariadenia (ES) č. 865/2006 v platnom znení.
+
+- 29e) Čl. 34 ods. 1 nariadenia (ES) č. 865/2006 v platnom znení, príloha III časť žiadosť vykonávacieho nariadenia (EÚ) č. 792/2012 v platnom znení.
+
+- 29f) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
+
+- 29g) Nariadenie (ES) č. 338/97 v platnom znení, nariadenie (ES) č. 865/2006 v platnom znení.
+
+- 29h) Čl. 41 ods. 1, čl. 44e ods. 1, čl. 44l ods. 1 nariadenia Komisie (ES) č. 865/2006 v platnom znení, príloha I časť žiadosť vykonávacieho nariadenia (EÚ) č. 792/2012 v platnom znení.
+
 - 30) Čl. 11 ods. 2 písm. a) nariadenia Rady (ES) č. 338/97.
 
 - 31) Čl. 8 nariadenia Rady (ES) č. 338/97.
@@ -128,7 +144,7 @@
 
 - 42) Príloha VII k nariadeniu Komisie (ES) č. 1808/2001.
 
-- 43) Čl. 4, 8 a 9 nariadenia (ES) č. 338/97 v platnom znení.
+- 43) Čl. 4, 8 a 9 nariadenia (ES) č. 338/97 v platnom znení, kapitola VII a VIII nariadenia (ES) č. 865/2006 v platnom znení.
 
 - 43a) § 65a zákona č. 543/2002 Z. z. v znení neskorších predpisov.
 
@@ -159,6 +175,8 @@
 - 45b) Čl. 9 ods. 1 písm. a) nariadenia (EÚ) č. 737/2010.
 
 - 45c) Čl. 58a nariadenia (ES) č. 865/2006 v platnom znení.
+
+- 45d) Kapitola VII Čl. 30 ods. 4 nariadenia Komisie (ES) č. 865/2006 v platnom znení.
 
 - 46) Zákon č. 488/ 2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov v znení neskorších predpisov.
 
@@ -216,7 +234,7 @@
 
 - 65) Čl. 22 ods. 1 nariadenia Komisie (ES) č. 1808/2001.
 
-- 66) Čl. 7 ods. 1 nariadenia Komisie (ES) č. 1808/2001.
+- 66) Napríklad čl. 10, 11, 39, 44d, 44j nariadenia (ES) č. 865/2006 v platnom znení.
 
 - 67) Čl. 7 ods. 2 nariadenia Rady (ES) č. 338/97.
 
@@ -251,7 +269,5 @@
 - 75) § 89 ods. 13 a 14 Trestného zákona.
 
 - 76) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
-
-- 77) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
 - 78) § 35 ods. 6 a § 103 ods. 2 a 3 zákona č. 543/2002 Z. z. v znení zákona č. 310/2018 Z. z.
