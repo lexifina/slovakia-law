@@ -130,6 +130,10 @@ Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s
 
 - Poskytovateľ ústavnej starostlivosti je povinný oznámiť použitie obmedzovacieho prostriedku
 
+- a)
+
+- ministerstvu zdravotníctva v rozsahu a termíne podľa osobitného predpisu,<sup>4</sup>)
+
 - b)
 
 - prokurátorovi vykonávajúcemu dozor v zdravotníckom zariadení podľa osobitného predpisu<sup>8i</sup>) do 72 hodín od použitia obmedzovacieho prostriedku v zdravotníckom zariadení ústavnej starostlivosti v odbornom zameraní psychiatria a v odbornom zameraní detská psychiatria, v detenčnom ústave a v detenčnom ústave pre mladistvých,
