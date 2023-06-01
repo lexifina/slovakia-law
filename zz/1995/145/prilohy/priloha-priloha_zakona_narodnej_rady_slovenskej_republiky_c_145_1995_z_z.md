@@ -5292,7 +5292,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 161a
 
-  - Podanie žiadosti na vydanie povolenia na dovoz, vývoz alebo potvrdenia na opätovný vývoz exemplárov<sup>37a</sup>) ..... | 20 eur.
+  - Podanie žiadosti na vydanie povolenia na dovoz, vývoz, potvrdenia na opätovný vývoz exemplárov, potvrdenia o putovnej výstave, potvrdenia o osobnom vlastníctve, potvrdenia o hudobnom nástroji alebo potvrdenia o zbierke vzoriek<sup>37a</sup>) ..... | 20 eur.
 
   - Oslobodenie Od poplatku podľa tejto položky sú oslobodené múzeá s prírodovedným zameraním, zoologické záhrady, ktorých zriaďovateľom je štát, vyšší územný celok alebo obec a Štátna ochrana prírody Slovenskej republiky. |
 
