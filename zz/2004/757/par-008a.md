@@ -1,6 +1,6 @@
 # § 8a
 
-(1) Najvyšší správny súd vykonáva súdnictvo rozhodovaním o kasačných sťažnostiach proti rozhodnutiam krajských súdov za podmienok ustanovených Správnym súdnym poriadkom.
+(1) Najvyšší správny súd vykonáva súdnictvo rozhodovaním o kasačných sťažnostiach proti rozhodnutiam správnych súdov za podmienok ustanovených Správnym súdnym poriadkom.
 
 (2) Najvyšší správny súd ďalej vykonáva súdnictvo v prvom stupni vo veciach, ktoré ustanovuje Ústava Slovenskej republiky a Správny súdny poriadok.
 

@@ -1,4 +1,4 @@
-## PIATA HLAVA
+## ŠIESTA HLAVA
 
 ## NAJVYŠŠÍ SPRÁVNY SÚD
 
