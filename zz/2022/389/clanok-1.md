@@ -2,6 +2,16 @@
 
 Zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení zákona č. 386/2002 Z. z., zákona č. 431/2002 Z. z., zákona č. 428/2003 Z. z., zákona č. 461/2003 Z. z., zákona č. 607/2003 Z. z., zákona č. 5/2004 Z. z., zákona č. 523/2004 Z. z., zákona č. 581/2004 Z. z., zákona č. 747/2004 Z. z., zákona č. 68/2005 Z. z., zákona č. 659/2005 Z. z., zákona č. 238/2006 Z. z., zákona č. 198/2007 Z. z., zákona č. 209/2007 Z. z., zákona č. 659/2007 Z. z., zákona č. 70/2008 Z. z., zákona č. 465/2008 Z. z., zákona č. 492/2009 Z. z., zákona č. 381/2010 Z. z., zákona č. 132/2013 Z. z., zákona č. 374/2014 Z. z., zákona č. 130/2015 Z. z., zákona č. 375/2015 Z. z., zákona č. 125/2016 Z. z., zákona č. 243/2017 Z. z., zákona č. 177/2018 Z. z., zákona č. 344/2018 Z. z., zákona č. 211/2019 Z. z., zákona č. 149/2020 Z. z., zákona č. 314/2020 Z. z. a zákona č. 346/2021 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 2b sa odsek 1 dopĺňa písmenami o) a p), ktoré znejú:
+
+- „o)
+
+- usmerňuje a kontroluje monitorovanie platobných operácií realizovaných Štátnou pokladnicou,
+
+- p)
+
+- vedie evidenciu oznámení o rizikových platobných operáciách podľa § 10d ods. 5 a rizikových vybraných platobných operáciách podľa § 10e ods. 2.“.
+
 - 2. V § 2b ods. 2 sa vkladá nová prvá veta a druhá veta, ktoré znejú:
 
 - „Ministerstvo zostavuje súbory údajov z účtovných výkazov a údajov potrebných na účely hodnotenia plnenia rozpočtu verejnej správy predkladaných subjektom verejnej správy. Na účel zostavenia súborov údajov podľa prvej vety je subjekt verejnej správy povinný predkladať ministerstvu údaje podľa prvej vety.“.
@@ -23,6 +33,24 @@ Zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorý
 - 8. V § 6 ods. 1 sa vypúšťajú písmená e) a f).
 
   - Doterajšie písmená g) až zc) sa označujú ako písmená e) až aa).
+
+- 9. V § 6 sa odsek 1 dopĺňa písmenami ab) až ae), ktoré znejú:
+
+- „ab)
+
+- spolupracuje s ministerstvom pri zabezpečení riadenia rizík,
+
+- ac)
+
+- podieľa sa na definovaní rizík spojených s platobnými operáciami a navrhuje postupy, ako týmto rizikám predchádzať,
+
+- ad)
+
+- navrhuje postupy a schémy na zdokonalenie automatizovaných softvérových procesov na odhalenie rizík spojených s platobnými operáciami,
+
+- ae)
+
+- informuje ministerstvo o rizikových platobných operáciách podľa § 10d ods. 5 a rizikových vybraných platobných operáciách podľa § 10e ods. 2.“.
 
 - 10. V § 6 ods. 3 úvodnej vete sa slová „písm. o) a q)“ nahrádzajú slovami „písm. m) a o)“.
 
@@ -97,6 +125,52 @@ Zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorý
   - „<sup>14ba</sup>) § 5 písm. l) zákona č. 179/2011 Z. z. o hospodárskej mobilizácii a o zmene a doplnení zákona č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu v znení neskorších predpisov.
 
   - <sup>14bb</sup>) § 7 ods. 1 písm. l) zákona č. 523/2004 Z. z. v znení neskorších predpisov.“.
+
+- 14. Nadpis štvrtej časti znie:
+
+- „Realizácia rozpočtu klienta, realizácia platobnej operácie vybraných klientov,
+
+- monitoring platobných operácií a monitoring vybraných platobných operácií“.
+
+- “.
+
+- 15. Za § 10c sa vkladajú § 10d a 10e, ktoré vrátane nadpisov znejú:
+
+- „§ 10d
+
+- Monitoring platobných operácií
+
+- (1)
+
+- Štátna pokladnica priebežne monitoruje platobné operácie a vyhodnocuje ich rizikovosť.
+
+- (2)
+
+- Spôsob monitorovania rizikovosti platobných operácií, jeho vyhodnocovanie a kritériá vyhodnocovania ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.
+
+- (3)
+
+- Monitoringu podľa odseku 1 nepodliehajú platobné operácie
+
+- a)
+
+- medzi klientmi, ktorí sú subjektmi verejnej správy,
+
+- b)
+
+- klienta podľa § 2c,
+
+- c)
+
+- Národného bezpečnostného úradu, Slovenskej informačnej služby a Vojenského spravodajstva.
+
+- (4)
+
+- Rizikovou platobnou operáciou sa na účely tohto zákona rozumie platobná operácia, ktorú Štátna pokladnica vyhodnotí ako rizikovú podľa odseku 1.
+
+- (5)
+
+- Ak bola platobná operácia Štátnou pokladnicou vyhodnotená ako riziková platobná operácia, Štátna pokladnica o tejto skutočnosti informuje ministerstvo.“.
 
 - 16. V § 11 ods. 5 sa slová „písm. i) a k)“ nahrádzajú slovami „písm. g) a i)“ a slová „písm. j)“ sa nahrádzajú slovami „písm. h)“.
 
@@ -245,5 +319,7 @@ Zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorý
 - b)
 
 - zostavuje prognózy daňových príjmov a colných príjmov pre potreby Štátnej pokladnice.“.
+
+- 31. V § 21a sa na konci bodka nahrádza bodkočiarkou a pripájajú sa tieto slová: „to sa nevzťahuje na zákonom uloženú povinnosť Štátnej pokladnice predkladať a poskytovať údaje subjektom uvedeným v tomto zákone.“.
 
 - 32. V § 21b ods. 1 sa slová „písm. u)“ nahrádzajú slovami „písm. s)“.
