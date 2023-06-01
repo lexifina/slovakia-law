@@ -9,3 +9,5 @@
 - c) východoslovenský volebný obvod, ktorý je dvojmandátový a ktorý tvoria obvody Krajského súdu v Košiciach a Krajského súdu v Prešove.
 
 (2) Sudcovia Špecializovaného trestného súdu sa zaraďujú do volebného obvodu podľa odseku 1 písm. a).
+
+(3) Sudcovia Správneho súdu v Banskej Bystrici sa zaraďujú do volebného obvodu podľa odseku 1 písm. b). Sudcovia Správneho súdu v Bratislave sa zaraďujú do volebného obvodu podľa odseku 1 písm. a). Sudcovia Správneho súdu v Košiciach sa zaraďujú do volebného obvodu podľa odseku 1 písm. c).
