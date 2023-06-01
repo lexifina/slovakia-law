@@ -32,6 +32,10 @@
 
 - m) vydáva predchádzajúci písomný súhlas podľa § 2c ods. 6,
 
-- n) môže určiť priority realizácie výdavkov klienta uvedeného v § 2a ods. 1 písm. a) v prípade nesúladu medzi príjmami štátneho rozpočtu a výdavkami štátneho rozpočtu.
+- n) môže určiť priority realizácie výdavkov klienta uvedeného v § 2a ods. 1 písm. a) v prípade nesúladu medzi príjmami štátneho rozpočtu a výdavkami štátneho rozpočtu,
+
+- o) usmerňuje a kontroluje monitorovanie platobných operácií realizovaných Štátnou pokladnicou,
+
+- p) vedie evidenciu oznámení o rizikových platobných operáciách podľa § 10d ods. 5 a rizikových vybraných platobných operáciách podľa § 10e ods. 2.
 
 (2) Ministerstvo zostavuje súbory údajov z účtovných výkazov a údajov potrebných na účely hodnotenia plnenia rozpočtu verejnej správy predkladaných subjektom verejnej správy. Na účel zostavenia súborov údajov podľa prvej vety je subjekt verejnej správy povinný predkladať ministerstvu údaje podľa prvej vety. Usporiadanie, obsahové vymedzenie, spôsob, termín a miesto predkladania informácií z účtovníctva a údajov potrebných na účely hodnotenia plnenia rozpočtu verejnej správy predkladaných subjektmi verejnej správy ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.
