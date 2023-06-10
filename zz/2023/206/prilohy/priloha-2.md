@@ -1,0 +1,1 @@
+Príloha č. 2 k rozhodnutiu predsedu Národnej rady Slovenskej republiky č. 206/2023 Z. z. [LEHOTY na vykonanie volieb do orgánov samosprávy obcí 9. septembra 2023](../assets/28f9b877b55a53194572e08dcf19dc819f64fadf588b2f0c1912c6aab6376166.pdf)

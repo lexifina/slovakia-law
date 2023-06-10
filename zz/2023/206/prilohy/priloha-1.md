@@ -1,0 +1,1 @@
+Príloha č. 1 k rozhodnutiu predsedu Národnej rady Slovenskej republiky č. 206/2023 Z. z. [ZOZNAM OBCÍ, v ktorých sa vyhlasujú voľby do orgánov samosprávy obcí na 9. septembra 2023](../assets/b6d5c8b83fe55d076886d2826be6006df2cb591d4fb4305ead62f38822fc60fd.pdf)
