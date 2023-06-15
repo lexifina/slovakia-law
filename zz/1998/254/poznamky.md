@@ -6,7 +6,9 @@
 
 - 1c) § 8 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
-- 1d) § 37 zákona č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov.
+- 1d) Zákon č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov.
+
+- 1e) Zákon č. 371/2021 Z. z. o významných investíciách.
 
 - 2) § 5 zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
 
