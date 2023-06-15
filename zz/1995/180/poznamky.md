@@ -84,6 +84,18 @@
 
 - 31a) § 11 ods. 7 zákona Slovenskej národnej rady č. 330/1991 Zb. v znení neskorších predpisov.
 
+- 31aa) § 34 ods. 4 písm. d), ods. 9 a 10 zákona Slovenskej národnej rady č. 330/1991 Zb. v znení neskorších predpisov.
+
+- § 7 zákona Národnej rady Slovenskej republiky č. 129/1996 Z. z. o niektorých opatreniach na urýchlenie prípravy výstavby diaľnic a ciest pre motorové vozidlá v znení zákona č. 275/2007 Z. z.
+
+- § 8 zákona č. 193/2001 Z. z. o dotácii na zriadenie priemyselných parkov a o doplnení zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov v znení zákona č. 542/2004 Z. z.
+
+- § 11 zákona č. 371/2021 Z. z. o významných investíciách.
+
+- 31ab) § 43 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
+- § 2 ods. 1 zákona č. 201/2022 Z. z. o výstavbe.
+
 - 31b) § 20 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
 - 31c) Zákon č. 503/2003 Z. z. o navrátení vlastníctva k pozemkom a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov.
