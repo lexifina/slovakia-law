@@ -128,6 +128,10 @@
 
 - 28e) Príloha č. 1 sekcia A divízia 02 skupina 02.2 nariadenia (ES) č. 1893/2006 v platnom znení.
 
+- 28f) Medzinárodný účtovný štandard 1 body 102 a 103 Prílohy k nariadeniu (ES) č. 1126/2008 v platnom znení.
+
+- 28g) § 37 ods. 6 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
 - 29a) Sekcia C prílohy vyhlášky Štatistického úradu Slovenskej republiky č. 306/2007 Z. z., ktorou sa vydáva Štatistická klasifikácia ekonomických činností.
 
 - 29b) Napríklad zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 258/1993 Z. z. v znení neskorších predpisov.

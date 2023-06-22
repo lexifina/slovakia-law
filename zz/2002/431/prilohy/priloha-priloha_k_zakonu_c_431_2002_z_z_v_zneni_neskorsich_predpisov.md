@@ -21,3 +21,5 @@ Príloha k zákonu č. 431/2002 Z. z. v znení neskorších predpisov
   - 9. Smernica Rady 2014/102/EÚ zo 7. novembra 2014, ktorou sa upravuje smernica Európskeho parlamentu a Rady 2013/34/EÚ o ročných účtovných závierkach, konsolidovaných účtovných závierkach a súvisiacich správach určitých druhov podnikov z dôvodu pristúpenia Chorvátskej republiky (Ú. v. EÚ L 334, 21. 11. 2014).
 
   - 10. Smernica Európskeho parlamentu a Rady (EÚ) 2017/1132 zo 14. júna 2017 týkajúca sa niektorých aspektov práva obchodných spoločností (kodifikované znenie) (Ú. v. EÚ L 169, 30. 6. 2017) v znení smernice Európskeho parlamentu a Rady (EÚ) 2019/1023 z 20. júna 2019 (Ú. v. EÚ L 172, 26. 6. 2019) a smernice Európskeho parlamentu a Rady (EÚ) 2019/1151 z 20. júna 2019 (Ú. v. EÚ L 186, 11. 7. 2019).
+
+  - 11. Smernica Európskeho parlamentu a Rady (EÚ) 2021/2101 z 24. novembra 2021, ktorou sa mení smernica 2013/34/EÚ, pokiaľ ide o zverejňovanie informácií o dani z príjmov určitými podnikmi a pobočkami (Ú. v. EÚ L 429, 1. 12. 2021).
