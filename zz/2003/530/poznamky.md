@@ -122,6 +122,10 @@
 
 - 15ace) § 7 ods. 10 druhá veta zákona č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zmene a doplnení niektorých zákonov v znení zákona č. 494/2022 Z. z.
 
+- 15acf) § 15c ods. 3 druhá veta zákona č. 112/2018 Z. z. v znení zákona č. 494/2022 Z. z.
+
+- 15acg) § 15f ods. 6 druhá veta zákona č. 112/2018 Z. z. v znení zákona č. 494/2022 Z. z.
+
 - 15ach) § 110a Obchodného zákonníka.
 
 - 15aci) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
