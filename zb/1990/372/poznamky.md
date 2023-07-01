@@ -34,6 +34,8 @@
 
 - 3c) § 16, § 27 ods. 3, § 34 ods. 1, § 49 ods. 2, § 59 ods. 3 zákona č. 8/2009 Z. z. v znení neskorších predpisov.
 
+- 3ca) Zákon č. 183/2023 Z. z. o dopravných prostriedkoch a prepravných prostriedkoch používaných na prepravu skaziteľných potravín a o zmene a doplnení niektorých zákonov.
+
 - 3d) § 137 ods. 2 zákona č. 8/2009 Z. z. v znení neskorších predpisov.
 
 - 3da) Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov.
