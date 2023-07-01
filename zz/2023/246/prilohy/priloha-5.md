@@ -1,0 +1,1 @@
+Príloha č. 5 k vyhláške č. 246/2023 Z. z. [Údaje o plánovaných nákladoch a skutočných nákladoch projektu výskumu a vývoja](../assets/0c5e516615175fad27aea5c594279d53ce544eed18d22617820c8c8d65b473ff.pdf)

@@ -1,0 +1,1 @@
+Príloha č. 10 k vyhláške č. 246/2023 Z. z. [Podklady k návrhu ceny za prístup do miestnej distribučnej sústavy a distribúciu elektriny prevádzkovateľa miestnej distribučnej sústavy](../assets/01738936972a30fff67626f07eb128c97cb7761a916de67de4732c9af78032f7.pdf)

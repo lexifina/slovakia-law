@@ -1,0 +1,1 @@
+Príloha č. 9 k vyhláške č. 246/2023 Z. z. [Špecifikácia výnosov z cenníka služieb za distribúciu elektriny § 25 ods. 3 písm. j) piateho bodu na účely určenia DVHN,t roku t-2](../assets/ce7efa9151a7d43ed8e396ca182e66a27835883e079ab10ee23118d67184cad3.pdf)
