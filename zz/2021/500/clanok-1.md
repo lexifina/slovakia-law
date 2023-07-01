@@ -1326,6 +1326,14 @@ Zákon č. 190/2003 Z. z. o strelných zbraniach a strelive a o zmene a doplnen�
 
 - druh prepravy, údaje o prepravcovi, číslo povolenia na prepravu zbraní a streliva vydané ministerstvom, presný dátum začatia prepravy a ukončenia prepravy na území Slovenskej republiky, názov hraničného priechodu na vonkajšej štátnej hranici alebo miesto prekročenia vnútornej štátnej hranice pri vstupe do Slovenskej republiky, názov hraničného priechodu pri výstupe zo Slovenskej republiky, trasu prepravy, evidenčné číslo vozidla vykonávajúceho prepravu zbraní a streliva, zodpovednú osobu za prepravu zbraní a streliva a jej telefonický kontakt; ak ide o prepravu podľa odseku 7, aj lokalizačné údaje, ktoré umožnia Policajnému zboru nepretržité sledovanie jeho aktuálnej polohy.“.
 
+- 149. V § 47 sa za odsek 6 vkladá nový odsek 7, ktorý znie:
+
+- „(7)
+
+- Dopravný prostriedok prepravujúci zbrane uvedené v odseku 1 alebo strelivo do týchto zbraní musí byť vybavený zariadením, ktoré umožňuje nepretržité sledovanie jeho pohybu, ak sa prepravuje viac ako 100 kusov zbraní alebo viac ako 200 000 kusov streliva a ide o cestnú prepravu. Počas celej prepravy musí byť zariadenie prihlásené do systému sledovania pohybu.“.
+
+  - Doterajšie odseky 7 a 8 sa označujú ako odseky 8 a 9.
+
 - 150. V § 48 ods. 1 druhá a tretia veta znejú:
 
 - „Zároveň je povinný predložiť zbrojný sprievodný list, povolenie podľa § 47, európsky zbrojný pas alebo európsky zbrojný pas vydaný iným členským štátom. Zbrojný sprievodný list, povolenie podľa § 47, európsky zbrojný pas alebo európsky zbrojný pas vydaný iným členským štátom musí mať vždy pri sebe, ak má pri sebe zbraň, ktorá je v ňom zapísaná alebo strelivo do tejto zbrane, a predložiť ho príslušnému orgánu na kontrolu.“.
@@ -1770,19 +1778,19 @@ Zákon č. 190/2003 Z. z. o strelných zbraniach a strelive a o zmene a doplnen�
 
 - 203. Prílohy č. 1 až 5 vrátane nadpisov znejú:
 
-- „[Príloha č. 1 k zákonu č. 190/2003 Z. z. - Vzor nákupného povolenia](assets/90d55072c472c5284b2ab8117ec260f4bbc5509499146294aacfb319d94afdb2.pdf)
+- „[Príloha č. 1 k zákonu č. 190/2003 Z. z. - Vzor nákupného povolenia](assets/dc4f7add815cb4d838e5c8463129cd90c49c225e793f567ead67f8e5df8f4eb7.pdf)
 
-- [Príloha č.2 k zákonu č. 190/2003 Z. z.- Vzor zbrojného preukazu](assets/82ee782778feab682936f1b45089b53d25bc4bdf235b94f292b9e341a9448d1b.pdf)
+- [Príloha č.2 k zákonu č. 190/2003 Z. z.- Vzor zbrojného preukazu](assets/f01b47b31f6370eb06d0d584289d8c22766b7fe320ab2ade87b64d47b5f903b9.pdf)
 
-- [Príloha č. 3 k zákonu č. 190/2003 Z. z. - Vzor zbrojnej licencie](assets/914e59885551797d62112e3344aa638c859f81a0a62ad29d8368a127ce116d47.pdf)
+- [Príloha č. 3 k zákonu č. 190/2003 Z. z. - Vzor zbrojnej licencie](assets/087a90a986cd659aba9c8d100f0daf22b4765635f94926cde1c5a9f77503ac1b.pdf)
 
-- [Príloha č. 4 k zákonu č. 190/2003 Z. z. - Vzor preukazu zbrane](assets/547d1a4331d341879112c33726235437cafedbc75be4fa160cc6cf29ed27f648.pdf)
+- [Príloha č. 4 k zákonu č. 190/2003 Z. z. - Vzor preukazu zbrane](assets/6162a9522ba9dbffde2a5d3cc4c0360e8b30ec5d6f2892d0f57f1e2fa53d6613.pdf)
 
-- [Príloha č. 5 k zákonu č. 190/2003 Z. z. - Vzor zbrojného sprievodného listu](assets/2dfb07ad420f06d040cd095c7ea512b1808e18dc00a644806a54acbbd63512e3.pdf)“.
+- [Príloha č. 5 k zákonu č. 190/2003 Z. z. - Vzor zbrojného sprievodného listu](assets/383c6a25a79cdbfdf7df1c26c5e5322a30fa036dc3aa88fea27c3a3ad6f0ef5c.pdf)“.
 
 - 204. Za prílohu č. 5 sa vkladá príloha č. 5a, ktorá vrátane nadpisu znie:
 
-- „[Príloha č. 5a k zákonu č. 190/2003 Z. z. - Vzor povolenia](assets/c473f1120de88647d32e17616b182f8e345964f1b48f72e963713a1887781739.pdf)“.
+- „[Príloha č. 5a k zákonu č. 190/2003 Z. z. - Vzor povolenia](assets/e61b65bd8e5bf1eada3f2a644c60d98d4ad0c1767ea05c0f5367ce6ce5543847.pdf)“.
 
 - 205. Nadpis prílohy č. 6 znie:
 
