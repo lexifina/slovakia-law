@@ -1,0 +1,1 @@
+Michal Palkovič v. r.
