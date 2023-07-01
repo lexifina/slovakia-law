@@ -46,7 +46,9 @@ Príloha č. 1 k zákonu č. 541/2004 Z. z.
 
     - l) predbežné vymedzenie veľkosti oblasti ohrozenia jadrovým zariadením spresnením údajov uvedených v bode A písm. g),
 
-    - m) dokumentácia podľa § 6 ods. 2 písm. j).
+    - m) dokumentácia podľa § 6 ods. 2 písm. j),
+
+    - n) povolenie pre spaľovne rádioaktívnych odpadov podľa osobitného predpisu.<sup>46a</sup>)
 
   - C. Dokumentácia potrebná k písomnej žiadosti o povolenie na uvádzanie jadrového zariadenia do prevádzky a prevádzku
 
@@ -94,7 +96,11 @@ Príloha č. 1 k zákonu č. 541/2004 Z. z.
 
     - v) vymedzenie veľkosti oblasti ohrozenia jadrovým zariadením spresnením údajov uvedených v bode B písm. l),
 
-    - w) dokumentácia podľa § 6 ods. 2 písm. j).
+    - w) dokumentácia podľa § 6 ods. 2 písm. j),
+
+    - x) súhlas na povolenie skúšobnej prevádzky alebo na predčasné užívanie podľa osobitného predpisu,<sup>46b</sup>)
+
+    - y) súhlas na trvalé užívanie zdroja podľa osobitného predpisu<sup>46c</sup>) pre trvalú prevádzku.
 
   - D. Dokumentácia potrebná k písomnej žiadosti o povolenie na etapu vyraďovania
 

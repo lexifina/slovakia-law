@@ -42,6 +42,8 @@
 
 - 7c) § 4 ods. 4 zákona č. 54/2015 Z. z.
 
+- 7d) § 28 ods. 3 písm. b) zákona č. 146/2023 Z. z. o ochrane ovzdušia a o zmene a doplnení niektorých zákonov.
+
 - 8) Napríklad § 31 ods. 2 zákona č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov, zákon č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 9) Nariadenie Rady (ES) č. 428/2009 z 5. mája 2009, ktorým sa stanovuje režim Spoločenstva na kontrolu vývozu, prepravy, sprostredkovania a tranzitu položiek s dvojakým použitím (prepracované znenie) (Ú. v. EÚ L 134, 29. 5. 2009).
@@ -221,5 +223,11 @@
 - 45e) Napríklad § 3 ods. 6 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov, zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
 - 46) Smernica Európskeho parlamentu a Rady 98/34/ES z 22. júna 1998 o postupe pri poskytovaní informácií v oblasti technických noriem a predpisov, ako aj pravidiel vzťahujúcich sa na služby informačnej spoločnosti (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 20) v platnom znení.
+
+- 46a) § 27 zákona č. 146/2023 Z. z.
+
+- 46b) § 26 ods. 1 písm. b) zákona č. 146/2023 Z. z.
+
+- 46c) § 26 ods. 1 písm. c) zákona č. 146/2023 Z. z.
 
 - 47) Nariadenie Komisie (Euratom) č. 66/2006 zo 16. januára 2006, ktorým sa udeľuje výnimka na prevoz malých množstiev rúd, východiskových materiálov a osobitných štiepnych materiálov z pravidiel kapitoly o dodávkach (Ú. v. EÚ L 11, 17. 1. 2006).
