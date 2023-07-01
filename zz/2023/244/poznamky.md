@@ -1,0 +1,1 @@
+- 1) § 5 ods. 8 zákona č. 453/2003 Z. z. o orgánoch štátnej správy v oblasti sociálnych vecí, rodiny a služieb zamestnanosti a o zmene a doplnení niektorých zákonov v znení zákona č. 180/2011 Z. z.
