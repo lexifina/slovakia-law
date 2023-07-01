@@ -2,6 +2,8 @@
 
 Zákon č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zmene a doplnení niektorých zákonov v znení zákona č. 374/2019 Z. z., zákona č. 94/2020 Z. z., zákona č. 264/2020 Z. z., zákona č. 113/2022 Z. z. a zákona č. 488/2022 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 1 sa za slová „sociálne podniky,“ vkladajú slová „rodinné podniky,“ a na konci sa pripájajú tieto slová: „a rodinných podnikov“.
+
 - 2. V § 2 ods. 5 písm. a) úvodná veta znie: „v predchádzajúcich šiestich mesiacoch nebola zamestnaná okrem zamestnania v pracovnoprávnom vzťahu, ktorého trvanie nepresiahlo v úhrne 40 dní v kalendárnom roku, ktorej zdaniteľné mesačné príjmy nepresiahli v úhrne sumu životného minima pre jednu plnoletú fyzickú osobu podľa osobitného predpisu,<sup>1</sup>) ktorá nie je poberateľom starobného dôchodku, predčasného starobného dôchodku alebo výsluhového dôchodku a ktorá“.
 
 - 3. V § 2 ods. 5 písm. b) druhý bod znie:
@@ -26,7 +28,11 @@ Zákon č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zme
 
 - a)
 
-- žiadosti o priznanie štatútu registrovaného sociálneho podniku (ďalej len „žiadosť o štatút“) existuje najdlhšie jeden rok alebo ktorá v období jedného roka pred podaním žiadosti o štatút nevykonávala hospodársku činnosť viac ako dva po sebe nasledujúce mesiace,“.
+- žiadosti o priznanie štatútu registrovaného sociálneho podniku (ďalej len „žiadosť o štatút“) existuje najdlhšie jeden rok alebo ktorá v období jedného roka pred podaním žiadosti o štatút nevykonávala hospodársku činnosť viac ako dva po sebe nasledujúce mesiace,
+
+- b)
+
+- žiadosti o priznanie štatútu registrovaného rodinného podniku (ďalej len „žiadosť o registráciu“) existuje najdlhšie jeden rok.“.
 
 - 6. § 2 sa dopĺňa odsekmi 11 až 13, ktoré znejú:
 
@@ -362,6 +368,396 @@ Zákon č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zme
 
 - 46. V § 15 sa vypúšťa odsek 5.
 
+- 47. Za druhú časť sa vkladá nová tretia časť, ktorá vrátane nadpisov znie:
+
+- „TRETIA ČASŤ
+
+- RODINNÉ PODNIKY
+
+- § 15a
+
+- Rodinný podnik
+
+- (1)
+
+- Rodinný podnik je obchodná spoločnosť, družstvo alebo fyzická osoba – podnikateľ,
+
+- a)
+
+- ktorí sú podnikateľmi,<sup>48a</sup>)
+
+- b)
+
+- v ktorých, ak ide o
+
+- 1.
+
+- obchodnú spoločnosť,
+
+- 1a.
+
+- najmenej dvaja členovia spoločnej rodiny vykonávajú priamo alebo nepriamo väčšinu hlasovacích práv a najmenej jeden člen spoločnej rodiny je štatutárnym orgánom alebo členom štatutárneho orgánu,
+
+- 1b.
+
+- najmenej dvaja členovia spoločnej rodiny majú hospodársky prospech z podnikania obchodnej spoločnosti spolu viac ako 50 % zo zisku po zdanení alebo
+
+- 1c.
+
+- jeden člen spoločnej rodiny je jediným spoločníkom alebo jediným akcionárom obchodnej spoločnosti a súčasne je jej štatutárnym orgánom alebo členom štatutárneho orgánu a najmenej jeden iný člen spoločnej rodiny je štatutárnym orgánom, členom štatutárneho orgánu, prokuristom alebo členom dozornej rady tejto obchodnej spoločnosti alebo je v pracovnoprávnom vzťahu s touto obchodnou spoločnosťou,
+
+- 2.
+
+- družstvo,
+
+- 2a.
+
+- najmenej dvaja členovia spoločnej rodiny vykonávajú priamo alebo nepriamo väčšinu hlasovacích práv a najmenej jeden člen spoločnej rodiny je štatutárnym orgánom alebo členom štatutárneho orgánu alebo
+
+- 2b.
+
+- najmenej dvaja členovia spoločnej rodiny majú hospodársky prospech z podnikania družstva spolu viac ako 50 % zo zisku po zdanení,
+
+- 3.
+
+- fyzickú osobu – podnikateľa, najmenej jeden člen spoločnej rodiny je v pracovnoprávnom vzťahu s touto fyzickou osobou – podnikateľom.
+
+- (2)
+
+- Členmi spoločnej rodiny na účely tohto zákona sú
+
+- a)
+
+- manželia,
+
+- b)
+
+- príbuzní v priamom rade,
+
+- c)
+
+- súrodenci,
+
+- d)
+
+- osoby navzájom príbuzné až do štvrtého stupňa a ich manželia.
+
+- (3)
+
+- Ak fyzická osoba, ktorá nie je členom spoločnej rodiny, alebo právnická osoba majú hospodársky prospech z podnikania obchodnej spoločnosti alebo družstva spolu v rozsahu viac ako 50 % zo zisku po zdanení a ak vykonávajú v obchodnej spoločnosti alebo v družstve priamo alebo nepriamo väčšinu hlasovacích práv z dôvodu ochrany svojej investície do obchodnej spoločnosti alebo do družstva na základe investičnej zmluvy uzavretej medzi touto fyzickou osobou alebo právnickou osobou a obchodnou spoločnosťou alebo družstvom, podmienka podľa odseku 1 písm. b) prvého bodu a druhého bodu sa počas trvania tejto investície považuje za splnenú, ak
+
+- a)
+
+- investičná zmluva obsahuje
+
+- 1.
+
+- určenie dĺžky trvania investície,
+
+- 2.
+
+- predkupné právo na odkúpenie podielu tejto fyzickej osoby alebo právnickej osoby členmi spoločnej rodiny alebo určenie podmienok vykonávania väčšiny hlasovacích práv členmi spoločnej rodiny po uplynutí dĺžky trvania investície podľa prvého bodu a
+
+- b)
+
+- počas trvania investície v prípade obchodnej spoločnosti najmenej polovicu počtu spoločníkov alebo členov štatutárneho orgánu tvoria členovia spoločnej rodiny.
+
+- (4)
+
+- Rodinný podnik môže byť zaradený do evidencie rodinných podnikov. Rodinný podnik, ktorý bol zaradený do evidencie rodinných podnikov, je evidovaným rodinným podnikom.
+
+- (5)
+
+- Rodinný podnik, ktorému bol priznaný štatút registrovaného rodinného podniku, je registrovaným rodinným podnikom.
+
+- (6)
+
+- Rodinný podnik, ktorý vykonáva poľnohospodársku činnosť<sup>48b</sup>) vrátane hospodárskeho chovu rýb alebo produkuje, spracováva a obchoduje s poľnohospodárskymi surovinami a výrobkami,<sup>48c</sup>) je rodinnou farmou.
+
+- § 15b
+
+- Rada rodinného podniku
+
+- (1)
+
+- Rada rodinného podniku je kolektívny orgán rodinného podniku, ktorého vnútornú organizáciu a fungovanie upravuje štatút rady rodinného podniku. Štatút rady rodinného podniku schvaľuje obchodná spoločnosť, družstvo alebo fyzická osoba – podnikateľ. Rada rodinného podniku prerokúva najmä
+
+- a)
+
+- dlhodobé strategické smerovanie rodinného podniku,
+
+- b)
+
+- rodinnú politiku zameranú na rodinný podnik a súlad cieľov rodinného podniku a cieľov rodiny,
+
+- c)
+
+- vzťahy medzi rodinou a rodinným podnikom, práva a povinnosti členov spoločnej rodiny vo vzťahu k rodinnému podniku, potreby a požiadavky členov spoločnej rodiny,
+
+- d)
+
+- podmienky prijímania členov spoločnej rodiny do rodinného podniku alebo odchodu členov spoločnej rodiny z rodinného podniku,
+
+- e)
+
+- nástupníctvo a prípravu budúcej generácie na prevzatie rodinného podniku, generačnú výmenu štatutárneho orgánu alebo členov štatutárneho orgánu a odovzdanie vlastníctva alebo hlasovacích práv,
+
+- f)
+
+- informácie týkajúce sa rodinného podniku, ktoré poskytuje členom rady rodinného podniku.
+
+- (2)
+
+- Rada rodinného podniku má najmenej troch členov. Väčšinu členov rady rodinného podniku tvoria členovia spoločnej rodiny.
+
+- (3)
+
+- Rada rodinného podniku je schopná uznášať sa, ak je prítomná nadpolovičná väčšina všetkých členov rady rodinného podniku a viac ako 50 % prítomných členov rady rodinného podniku tvoria členovia spoločnej rodiny. Rada rodinného podniku prijíma rozhodnutia nadpolovičnou väčšinou hlasov prítomných členov rady rodinného podniku. Každý člen rady rodinného podniku má jeden hlas. Štatút rady rodinného podniku môže určiť, kedy je potrebné na prijatie rozhodnutia vyšší počet hlasov členov rady rodinného podniku.
+
+- (4)
+
+- Rada rodinného podniku zasadá najmenej raz za kalendárny rok. Zo zasadnutia rady rodinného podniku sa vyhotovuje zápisnica, ktorú rodinný podnik na požiadanie poskytne ministerstvu práce.
+
+- (5)
+
+- Zriadením rady rodinného podniku nie je dotknutá pôsobnosť štatutárneho orgánu, dozornej rady a valného zhromaždenia obchodnej spoločnosti alebo práva a povinnosti spoločníkov, ak obchodná spoločnosť nemá orgány správy a riadenia, nie je dotknutá pôsobnosť predstavenstva, členskej schôdze a kontrolnej komisie družstva a nie sú dotknuté práva a povinnosti fyzickej osoby – podnikateľa podľa osobitných predpisov.
+
+- § 15c
+
+- Evidovaný rodinný podnik
+
+- (1)
+
+- Do evidencie rodinných podnikov možno zaradiť žiadateľa, ktorý spĺňa podmienky podľa § 15a ods. 1. Žiadosť o zaradenie do evidencie rodinných podnikov (ďalej len „žiadosť o evidenciu“) sa podáva na formulári, ktorého vzor určí ministerstvo práce. Prílohou k žiadosti o evidenciu
+
+- a)
+
+- sú doklady preukazujúce splnenie podmienok podľa § 15a ods. 1 písm. b),
+
+- b)
+
+- je základný dokument, ak ide o žiadateľa, ktorý má sídlo, ak ide o právnickú osobu, alebo miesto podnikania, ak ide o fyzickú osobu – podnikateľa, na území iného členského štátu,
+
+- c)
+
+- je štatút rady rodinného podniku, ak žiadateľ má zriadenú radu rodinného podniku podľa § 15b,
+
+- d)
+
+- je informácia, či základný dokument žiadateľa obsahuje aj záväzok zosúlaďovania riadiacich, obchodných, vlastníckych a rodinných vzťahov spôsobom smerujúcim k udržiavaniu a rozvíjaniu rodinných väzieb, k posilňovaniu rodinných hodnôt a kvality rodinného života a všestranného rozvoja rodinnej hmotnej kultúry a tradície,
+
+- e)
+
+- sú doklady preukazujúce splnenie podmienky podľa § 15a ods. 6, ak ide o žiadateľa, ktorý žiada aj o zápis údaja, že je rodinnou farmou.
+
+- (2)
+
+- Ministerstvo práce zaradí rodinný podnik do evidencie rodinných podnikov odo dňa podania úplnej žiadosti. Ministerstvo práce vyradí podnik z evidencie rodinných podnikov odo dňa, keď prestal spĺňať podmienky podľa § 15a ods. 1.
+
+- (3)
+
+- Evidovaný rodinný podnik je oprávnený v písomnom styku uvádzať označenie „rodinný podnik“ alebo skratku „r. p.“. Evidovaný rodinný podnik môže podať návrh na zápis označenia „rodinný podnik“ do obchodného registra.
+
+- § 15d
+
+- Podmienky priznania štatútu registrovaného rodinného podniku
+
+- (1)
+
+- Štatút registrovaného rodinného podniku je možné priznať žiadateľovi, ak
+
+- a)
+
+- spĺňa podmienky podľa § 15a ods. 1,
+
+- b)
+
+- vykonáva hospodársku činnosť,
+
+- c)
+
+- má základný dokument, ktorý obsahuje
+
+- 1.
+
+- určenie percentuálnej časti zisku po zdanení, ktorú sa žiadateľ zaväzuje použiť podľa § 15f ods. 2,
+
+- 2.
+
+- záväzok zosúlaďovania riadiacich, obchodných, vlastníckych a rodinných vzťahov spôsobom smerujúcim k udržiavaniu a rozvíjaniu rodinných väzieb, k posilňovaniu rodinných hodnôt a kvality rodinného života a všestranného rozvoja rodinnej hmotnej kultúry a tradície,
+
+- d)
+
+- má zriadenú radu rodinného podniku podľa § 15b,
+
+- e)
+
+- má sídlo, ak ide o právnickú osobu, alebo miesto podnikania, ak ide o fyzickú osobu – podnikateľa, na území Slovenskej republiky alebo iného členského štátu,
+
+- f)
+
+- nebola mu uložená pokuta za porušenie zákazu nelegálneho zamestnávania v období troch rokov pred podaním žiadosti o registráciu,
+
+- g)
+
+- nemá na majetok vyhlásený konkurz, proti nemu nebolo zastavené konkurzné konanie pre nedostatok majetku alebo nebol zrušený konkurz pre nedostatok majetku, nie je v reštrukturalizácii a nie je v likvidácii,
+
+- h)
+
+- nemal zrušený štatút registrovaného rodinného podniku v období troch rokov pred podaním žiadosti o registráciu a nebolo u neho právoplatne rozhodnuté o nepriznaní štatútu registrovaného rodinného podniku v období šiestich mesiacoch pred podaním žiadosti o registráciu.
+
+- (2)
+
+- U žiadateľa, ktorý má sídlo, ak ide o právnickú osobu, alebo miesto podnikania, ak ide o fyzickú osobu – podnikateľa, na území Slovenskej republiky, splnenie podmienok podľa odseku 1 písm. c), e) a g) zisťuje ministerstvo práce z úradnej povinnosti; to sa nevzťahuje na podmienku podľa odseku 1 písm. c), ak ide o žiadateľa, ktorý je fyzickou osobou – podnikateľom. Ministerstvo práce zisťuje splnenie podmienok podľa odseku 1 písm. f) a h) z úradnej povinnosti u všetkých žiadateľov. Národný inšpektorát práce je povinný do piatich pracovných dní odo dňa doručenia žiadosti poskytnúť ministerstvu práce elektronicky z informačného systému informácie týkajúce sa splnenia podmienky podľa odseku 1 písm. f).
+
+- § 15e
+
+- Konanie o priznanie štatútu registrovaného rodinného podniku
+
+- (1)
+
+- Konanie o priznanie štatútu registrovaného rodinného podniku sa začína na žiadosť. Žiadosť o registráciu sa podáva na formulári, ktorého vzor určí ministerstvo práce. Prílohou k žiadosti o registráciu
+
+- a)
+
+- sú doklady preukazujúce splnenie podmienok podľa § 15a ods. 1 písm. b); to neplatí ak žiadateľom je evidovaný rodinný podnik a odo dňa zaradenia do evidencie rodinných podnikov nedošlo k zmene skutočností podľa § 15a ods. 1 písm. b),
+
+- b)
+
+- sú doklady preukazujúce vykonávanie hospodárskej činnosti,
+
+- c)
+
+- je základný dokument, ak ide o žiadateľa, ktorý je fyzickou osobou – podnikateľom,
+
+- d)
+
+- je štatút rady rodinného podniku; to neplatí, ak žiadateľom je evidovaný rodinný podnik, ktorý predložil štatút rady rodinného podniku k žiadosti o evidenciu, a odo dňa zaradenia do evidencie rodinných podnikov nedošlo k jeho zmene,
+
+- e)
+
+- sú doklady preukazujúce splnenie podmienok podľa § 15d ods. 1 písm. a), c), e) a g), ak ide o žiadateľa, ktorý má sídlo, ak ide o právnickú osobu, alebo miesto podnikania, ak ide o fyzickú osobu – podnikateľa, na území iného členského štátu; ak iný členský štát doklad na preukázanie splnenia podmienky podľa § 15d ods. 1 písm. g) nevydáva, je možné ho nahradiť čestným vyhlásením,
+
+- f)
+
+- sú doklady preukazujúce splnenie podmienky podľa § 15a ods. 6, ak ide o žiadateľa, ktorý žiada aj o zápis údaja, že je rodinnou farmou; to neplatí, ak žiadateľom je evidovaný rodinný podnik, ktorý má zapísaný údaj, že je rodinnou farmou, a odo dňa zápisu tohto údaja v evidencii rodinných podnikov nedošlo k zmene skutočností rozhodujúcich pre zápis tohto údaja.
+
+- (2)
+
+- V konaní o priznanie štatútu registrovaného rodinného podniku ministerstvo práce rozhoduje na základe overenia splnenia podmienok podľa § 15d ods. 1 a posúdenia predložených dokumentov.
+
+- (3)
+
+- Ministerstvo práce zastaví konanie o priznanie štatútu registrovaného rodinného podniku, aj ak žiadateľ neposkytol súčinnosť pri overovaní skutočností rozhodujúcich pre priznanie štatútu registrovaného rodinného podniku.
+
+- (4)
+
+- Ak žiadateľ splní podmienky podľa § 15d ods. 1, ministerstvo práce mu prizná štatút registrovaného rodinného podniku; táto skutočnosť sa vyznačí v spise a rozhodnutie sa nevyhotovuje. Ministerstvo práce doručí registrovanému rodinnému podniku osvedčenie o priznaní štatútu registrovaného rodinného podniku. Na základe písomnej žiadosti registrovaného rodinného podniku ministerstvo práce vydá duplikát osvedčenia o priznaní štatútu registrovaného rodinného podniku pri jeho strate, odcudzení alebo znehodnotení alebo pri zmene obchodného mena, adresy sídla alebo miesta podnikania registrovaného rodinného podniku.
+
+- (5)
+
+- Žiadateľovi, ktorý je novým podnikom, ministerstvo práce prizná štatút registrovaného rodinného podniku aj bez splnenia podmienky podľa § 15d ods. 1 písm. d). Registrovaný rodinný podnik, ktorému bol priznaný štatút registrovaného rodinného podniku podľa prvej vety, je povinný zriadiť radu rodinného podniku podľa § 15b a jej existenciu preukázať ministerstvu práce do troch mesiacov odo dňa priznania štatútu registrovaného rodinného podniku. Od zriadenia rady rodinného podniku podľa § 15b je registrovaný rodinný podnik povinný mať ju zriadenú počas trvania platnosti štatútu registrovaného rodinného podniku.
+
+- § 15f
+
+- Povinnosti registrovaného rodinného podniku
+
+- (1)
+
+- Registrovaný rodinný podnik je povinný spĺňať podmienky podľa § 15d ods. 1 počas trvania platnosti štatútu registrovaného rodinného podniku; táto povinnosť sa nevzťahuje na podmienku podľa § 15d ods. 1 písm. d) počas troch mesiacov odo dňa priznania štatútu registrovaného rodinného podniku, ak ide o registrovaný rodinný podnik podľa § 15e ods. 5.
+
+- (2)
+
+- Registrovaný rodinný podnik je povinný najmenej 12 % zo zisku po zdanení použiť na posilnenie svojich vnútorných vzťahov a vonkajších vzťahov v súlade so záväzkom podľa § 15d ods. 1 písm. c) druhého bodu vyjadreným v základnom dokumente v období do jedného roka odo dňa schválenia riadnej účtovnej závierky, ktorou bol preukázaný kladný výsledok hospodárenia príslušného účtovného obdobia, a to najmä na
+
+- a)
+
+- vzdelávanie členov spoločnej rodiny,
+
+- b)
+
+- dôchodkové zabezpečenie členov spoločnej rodiny,
+
+- c)
+
+- rekreačné pobyty členov spoločnej rodiny a zamestnancov registrovaného rodinného podniku,
+
+- d)
+
+- zdravotnú starostlivosť o členov spoločnej rodiny a zamestnancov registrovaného rodinného podniku,
+
+- e)
+
+- sociálnu pomoc a starostlivosť o členov spoločnej rodiny.
+
+- (3)
+
+- Za použitie zisku po zdanení sa na účely odseku 2 tiež považuje, ak sa zisk po zdanení uplatní
+
+- a)
+
+- na doplnenie osobitného fondu vytvoreného na účel jeho budúceho použitia na posilnenie vnútorných vzťahov a vonkajších vzťahov registrovaného rodinného podniku v súlade so záväzkom podľa § 15d ods. 1 písm. c) druhého bodu vyjadreným v základnom dokumente, pričom k ich použitiu musí dôjsť najneskôr do piatich rokov odo dňa schválenia riadnej účtovnej závierky, ktorou bol preukázaný kladný výsledok hospodárenia príslušného účtovného obdobia; v prípade obstarania odpisovaného majetku musí dôjsť k začatiu použitia najneskôr do piatich rokov odo dňa schválenia riadnej účtovnej závierky, ktorou bol preukázaný kladný výsledok hospodárenia príslušného účtovného obdobia, alebo
+
+- b)
+
+- na krytie účtovnej straty do výšky daňovej straty, ak na krytie tejto účtovnej straty už bol použitý celý rezervný fond alebo nedeliteľný fond, celý nerozdelený zisk z minulých období a celý zisk po zdanení, ktorý nepodlieha použitiu spôsobom podľa odseku 2.
+
+- (4)
+
+- Registrovaný rodinný podnik je povinný vo svojom účtovníctve osobitne sledovať použitie finančných prostriedkov podľa odseku 2, a to prostredníctvom tvorby analytických účtov. Ak nie je možné v účtovníctve zabezpečiť preukázanie použitia zisku podľa prvej vety prostredníctvom tvorby analytických účtov, registrovaný rodinný podnik je povinný viesť analytickú evidenciu alebo ďalšie pomocné evidencie. Registrovaný rodinný podnik je na účely preukázania splnenia podmienky podľa odseku 2 povinný uložiť riadnu účtovnú závierku za príslušné účtovné obdobie vrátane prílohy k účtovnej závierke, ktorá obsahuje presný popis účelu použitia zisku po zdanení podľa odseku 2, do siedmich mesiacov od skončenia účtovného obdobia, za ktoré sa účtovná závierka zostavuje, do registra účtovných závierok.
+
+- (5)
+
+- Registrovaný rodinný podnik je povinný písomne oznámiť ministerstvu práce každú zmenu skutočností rozhodujúcich pre posúdenie spĺňania podmienok podľa § 15d ods. 1 a zmenu údajov podľa § 27d ods. 2 písm. c), h), i) a k) do desiatich dní odo dňa, keď ku zmene došlo.
+
+- (6)
+
+- Registrovaný rodinný podnik je povinný v písomnom styku uvádzať označenie „registrovaný rodinný podnik“ alebo skratku „r. r. p.“. Označenie „registrovaný rodinný podnik“ sa zapisuje do obchodného registra. Registrovaný rodinný podnik je povinný podať návrh na zápis podľa druhej vety do troch mesiacov odo dňa priznania štatútu registrovaného rodinného podniku.
+
+- § 15g
+
+- Zánik a zrušenie štatútu registrovaného rodinného podniku
+
+- (1)
+
+- Štatút registrovaného rodinného podniku zaniká
+
+- a)
+
+- zánikom právnickej osoby alebo, ak ide o fyzickú osobu – podnikateľa, jej smrťou či vyhlásením za mŕtvu, ak nedošlo k pokračovaniu v živnosti,<sup>48d</sup>) alebo ukončením jej podnikateľskej činnosti,
+
+- b)
+
+- dňom vrátenia štatútu registrovaného rodinného podniku.
+
+- (2)
+
+- Ministerstvo práce zruší štatút registrovaného rodinného podniku, ak
+
+- a)
+
+- registrovaný rodinný podnik porušil povinnosť podľa § 15e ods. 5 druhej vety alebo tretej vety alebo povinnosť podľa § 15f ods. 1 alebo ods. 2, alebo
+
+- b)
+
+- registrovanému rodinnému podniku bola uložená pokuta za porušenie zákazu nelegálneho zamestnávania.
+
+- (3)
+
+- Ministerstvo práce môže zrušiť štatút registrovaného rodinného podniku, ak registrovaný rodinný podnik opakovane alebo závažným spôsobom porušil povinnosti podľa tohto zákona neuvedené v odseku 2.“.
+
+  - Doterajšia tretia časť až piata časť sa označuje ako štvrtá časť až šiesta časť.
+
+  - Poznámky pod čiarou k odkazom 48a až 48d znejú:
+
+  - „<sup>48a</sup>) § 2 ods. 2 Obchodného zákonníka.
+
+  - <sup>48b</sup>) Čl. 4 ods. 1 písm. c) nariadenia Európskeho parlamentu a Rady (EÚ) č. 1307/2013 zo 17. decembra 2013, ktorým sa ustanovujú pravidlá priamych platieb pre poľnohospodárov na základe režimov podpory v rámci spoločnej poľnohospodárskej politiky a ktorým sa zrušuje nariadenie Rady (ES) č. 637/2008 a nariadenie Rady (ES) č. 73/2009 (Ú. v. EÚ L 347, 20. 12. 2013) v platnom znení.
+
+  - <sup>48c</sup>) Príloha I k Zmluve o fungovaní Európskej únie (Ú. v. EÚ C 202, 7. 6. 2016) v platnom znení.
+
+  - <sup>48d</sup>) § 13 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.“.
+
 - 48. V § 16 ods. 2 sa za slovo „poskytuje,“ vkladajú slová „a dosahuje pozitívny sociálny vplyv“.
 
 - 49. V poznámke pod čiarou k odkazu 49 sa citácia „nariadenie (EÚ) č. 651/2014 v platnom znení“ nahrádza citáciou „nariadenie Komisie (EÚ) č. 651/2014 zo 17. júna 2014 o vyhlásení určitých kategórií pomoci za zlučiteľné s vnútorným trhom podľa článkov 107 a 108 zmluvy (Ú. v. EÚ L 187, 26. 6. 2014) v platnom znení“.
@@ -369,6 +765,8 @@ Zákon č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zme
 - 50. V § 16 ods. 3 sa bodkočiarka nahrádza bodkou a vypúšťajú sa slová „na tieto účely ministerstvo práce vytvorí schémy pomoci podľa osobitného predpisu.<sup>50</sup>)“.
 
   - Poznámka pod čiarou k odkazu 50 sa vypúšťa.
+
+- 51. V § 16 ods. 4 sa na konci pripája táto veta: „U registrovaného sociálneho podniku, ktorý je zároveň registrovaným rodinným podnikom, sa podmienka využívania 100 % zisku po zdanení na dosiahnutie hlavného cieľa podľa § 5 ods. 1 písm. b) považuje za splnenú, ak registrovaný sociálny podnik využíva 88 % zo zisku po zdanení na dosiahnutie hlavného cieľa podľa § 5 ods. 1 písm. b) a 12 % zo zisku po zdanení podľa § 15f ods. 2.“.
 
 - 52. V § 16 ods. 5 sa slová „písm. a) až c) a g)“ nahrádzajú slovami „písm. a) až e)“.
 
@@ -448,6 +846,16 @@ Zákon č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zme
 
   - Doterajší odsek 12 sa označuje ako odsek 13.
 
+- 65. Nadpis piatej časti znie:
+
+- „VÝKON ŠTÁTNEJ SPRÁVY V OBLASTI SOCIÁLNEJ EKONOMIKY
+
+- A V OBLASTI RODINNÝCH PODNIKOV“.
+
+- “.
+
+- 66. V § 25 ods. 1 úvodná veta znie: „Ministerstvo práce v rámci výkonu štátnej správy v oblasti sociálnej ekonomiky a v oblasti rodinných podnikov“.
+
 - 67. V § 25 ods. 1 písmená a) a b) znejú:
 
 - „a)
@@ -458,9 +866,17 @@ Zákon č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zme
 
 - štatút registrovaného sociálneho podniku,
 
+- 2.
+
+- štatút registrovaného rodinného podniku,
+
 - 3.
 
-- postavenie strešnej organizácie sektora sociálnej ekonomiky a najvyššej strešnej organizácie sektora sociálnej ekonomiky,“.
+- postavenie strešnej organizácie sektora sociálnej ekonomiky a najvyššej strešnej organizácie sektora sociálnej ekonomiky,
+
+- b)
+
+- zaraďuje rodinný podnik do evidencie rodinných podnikov a vyraďuje z evidencie rodinných podnikov,“.
 
 - 68. V § 25 ods. 1 písmená d) a e) znejú:
 
@@ -472,9 +888,17 @@ Zákon č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zme
 
 - register registrovaných sociálnych podnikov (ďalej len „register sociálnych podnikov“),
 
+- 2.
+
+- register registrovaných rodinných podnikov (ďalej len „register rodinných podnikov“),
+
 - 3.
 
 - register organizácií sektora sociálnej ekonomiky,
+
+- 4.
+
+- evidenciu rodinných podnikov,
 
 - e)
 
@@ -484,6 +908,18 @@ Zákon č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zme
 
   - „<sup>70ab</sup>) Napríklad zákon č. 5/2004 Z. z. v znení neskorších predpisov, zákon č. 523/2004 Z. z. v znení neskorších predpisov, zákon č. 358/2015 Z. z. v znení neskorších predpisov.“.
 
+- 69. V § 25 ods. 1 písmeno e) znie:
+
+- „e)
+
+- poskytuje alebo sprístupňuje bezodplatne v elektronickej podobe osobné údaje v rozsahu nevyhnutnom na účel plnenia úloh podľa osobitných predpisov<sup>70ab</sup>) na základe odôvodnenej písomnej žiadosti alebo písomnej dohody, ktorá obsahuje účel spracúvania, na aký sa majú osobné údaje poskytnúť alebo sprístupniť, z registra sociálnych podnikov, z registra rodinných podnikov, z registra organizácií sektora sociálnej ekonomiky, z evidencie rodinných podnikov a z informačného systému sociálnej ekonomiky orgánom štátnej správy, súdom, obciam, vyšším územným celkom a iným orgánom verejnej moci, fyzickým osobám a právnickým osobám, ktorým bol zverený výkon úloh podľa osobitných predpisov,“.
+
+- 70. V § 25 ods. 1 písm. i) sa na konci pripájajú tieto slová: „sociálnych podnikov a rodinných podnikov,“.
+
+- 71. V § 25 ods. 1 písm. j) sa slová „sociálnej ekonomiky a sociálnych podnikov“ nahrádzajú slovami „sociálnej ekonomiky, sociálnych podnikov a rodinných podnikov“.
+
+- 72. V § 25 ods. 1 písm. l) sa na konci pripájajú tieto slová: „a v oblasti rodinných podnikov“.
+
 - 73. V § 25 sa odsek 1 dopĺňa písmenom m), ktoré znie:
 
 - „m)
@@ -491,6 +927,8 @@ Zákon č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zme
 - vydáva duplikát osvedčenia podľa tohto zákona.“.
 
 - 74. V § 25 ods. 4 sa za slovom „práce“ vypúšťa čiarka a slová „sociálnych vecí a rodiny“.
+
+- 75. V § 25 ods. 4 sa za slovo „ekonomiky“ vkladajú slová „a v oblasti rodinných podnikov“.
 
 - 76. Za § 25 sa vkladá § 25a, ktorý vrátane nadpisu znie:
 
@@ -800,7 +1238,135 @@ Zákon č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zme
 
 - 99. Za § 27b sa vkladajú § 27c až 27e, ktoré vrátane nadpisov znejú:
 
-- „§ 27e
+- „§ 27c
+
+- Evidencia rodinných podnikov
+
+- (1)
+
+- Evidencia rodinných podnikov je verejný zoznam údajov o evidovaných rodinných podnikoch. Do evidencie rodinných podnikov sa zapisujú aj údaje o registrovanom rodinnom podniku v rozsahu podľa odseku 2.
+
+- (2)
+
+- Do evidencie rodinných podnikov sa zapisujú tieto údaje:
+
+- a)
+
+- obchodné meno,
+
+- b)
+
+- adresa sídla vrátane okresu a samosprávneho kraja, ak ide o právnickú osobu, alebo meno, priezvisko, bydlisko, dátum narodenia, rodné číslo alebo iný identifikátor, ak rodné číslo nebolo pridelené, a miesto podnikania vrátane okresu a samosprávneho kraja, ak ide o fyzickú osobu – podnikateľa,
+
+- c)
+
+- adresa prevádzkarne, ak je zriadená, vrátane okresu a samosprávneho kraja,
+
+- d)
+
+- identifikačné číslo organizácie,
+
+- e)
+
+- právna forma,
+
+- f)
+
+- predmet podnikania alebo činnosti,
+
+- g)
+
+- údaj o tom, či ide o rodinnú farmu,
+
+- h)
+
+- údaj o tom, či ide o registrovaný rodinný podnik,
+
+- i)
+
+- telefónne číslo, adresa elektronickej pošty a adresa webového sídla, ak je zriadené,
+
+- j)
+
+- dátum zaradenia do evidencie rodinných podnikov a dátum vyradenia z evidencie rodinných podnikov.
+
+- (3)
+
+- Ministerstvo práce zverejňuje údaje z evidencie rodinných podnikov okrem dátumu narodenia a rodného čísla alebo iného identifikátora, ak rodné číslo nebolo pridelené, na svojom webovom sídle.
+
+- (4)
+
+- Do evidencie rodinných podnikov sa bez zbytočného odkladu zapíše aj zmena a doplnenie zapisovaných údajov. Ministerstvo práce vykoná zmenu a doplnenie zapisovaných údajov z úradnej povinnosti, ak ide o údaje zapísané v registri právnických osôb, podnikateľov a orgánov verejnej moci.<sup>72</sup>)
+
+- § 27d
+
+- Register rodinných podnikov
+
+- (1)
+
+- Register rodinných podnikov je verejný zoznam údajov o registrovaných rodinných podnikoch.
+
+- (2)
+
+- Do registra rodinných podnikov sa zapisujú tieto údaje:
+
+- a)
+
+- obchodné meno,
+
+- b)
+
+- adresa sídla vrátane okresu a samosprávneho kraja, ak ide o právnickú osobu, alebo meno, priezvisko, bydlisko, dátum narodenia, rodné číslo alebo iný identifikátor, ak rodné číslo nebolo pridelené, a miesto podnikania vrátane okresu a samosprávneho kraja, ak ide o fyzickú osobu – podnikateľa,
+
+- c)
+
+- adresa prevádzkarne, ak je zriadená, vrátane okresu a samosprávneho kraja,
+
+- d)
+
+- identifikačné číslo organizácie,
+
+- e)
+
+- právna forma,
+
+- f)
+
+- predmet podnikania alebo činnosti a prevažujúca podnikateľská činnosť,
+
+- g)
+
+- údaj o tom, či ide o rodinnú farmu,
+
+- h)
+
+- percentuálna časť zisku po zdanení, ktorú sa registrovaný rodinný podnik zaväzuje použiť podľa § 15f ods. 2,
+
+- i)
+
+- meno, priezvisko, bydlisko, dátum narodenia a rodné číslo alebo iný identifikátor, ak rodné číslo nebolo pridelené, fyzickej osoby, ktorá je štatutárnym orgánom alebo členom štatutárneho orgánu, s uvedením spôsobu, akým táto fyzická osoba koná v mene registrovaného rodinného podniku, a s uvedením dňa vzniku funkcie a po jej skončení dňa skončenia funkcie,
+
+- j)
+
+- telefónne číslo, adresa elektronickej pošty a adresa webového sídla, ak je zriadené,
+
+- k)
+
+- číslo osvedčenia o priznaní štatútu registrovaného rodinného podniku,
+
+- l)
+
+- dátum priznania štatútu registrovaného rodinného podniku, dátum zániku štatútu registrovaného rodinného podniku a dátum zrušenia štatútu registrovaného rodinného podniku.
+
+- (3)
+
+- Ministerstvo práce zverejňuje údaje z registra rodinných podnikov okrem dátumu narodenia a rodného čísla alebo iného identifikátora, ak rodné číslo nebolo pridelené, na svojom webovom sídle.
+
+- (4)
+
+- Do registra rodinných podnikov sa bez zbytočného odkladu zapíše aj zmena a doplnenie zapisovaných údajov. Ministerstvo práce vykoná zmenu a doplnenie zapisovaných údajov z úradnej povinnosti, ak ide o údaje zapísané v registri právnických osôb, podnikateľov a orgánov verejnej moci.<sup>72</sup>)
+
+- § 27e
 
 - Register organizácií sektora sociálnej ekonomiky
 
@@ -870,6 +1436,10 @@ Zákon č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zme
 
 - registrovanému sociálnemu podniku za porušenie povinnosti podľa § 7 ods. 9 alebo povinnosti podľa § 15 ods. 4,
 
+- b)
+
+- registrovanému rodinnému podniku za porušenie povinnosti podľa § 15f ods. 5.
+
 - (3)
 
 - Ministerstvo práce uloží organizácii sektora sociálnej ekonomiky pokutu
@@ -888,9 +1458,25 @@ Zákon č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zme
 
 - a)
 
-- označenie „registrovaný sociálny podnik“ alebo skratku „r. s. p.“ a nie je registrovaným sociálnym podnikom,“.
+- označenie „registrovaný sociálny podnik“ alebo skratku „r. s. p.“ a nie je registrovaným sociálnym podnikom,
+
+- b)
+
+- označenie „registrovaný rodinný podnik“ alebo skratku „r. r. p.“ a nie je registrovaným rodinným podnikom.“.
+
+- 101. V § 28 ods. 5 sa za slovo „podniku“ vkladajú slová „alebo registrovanému rodinnému podniku“.
+
+- 102. V § 29 ods. 1 sa slová „až c)“ nahrádzajú slovami „a c)“.
+
+- 103. V § 29 ods. 2 písm. a) sa slovo „priznaní“ nahrádza slovom „priznanie“ a na konci sa pripájajú tieto slová: „a konania o priznanie štatútu registrovaného rodinného podniku“.
 
 - 104. V § 29 ods. 2 písm. b) sa slová „priznanie štatútu registrovaného sociálneho podniku“ nahrádzajú slovom „štatút“.
+
+- 105. V § 29 ods. 2 písmeno b) znie:
+
+- „b)
+
+- vzor formulára žiadosti o štatút, žiadosti o evidenciu a žiadosti o registráciu,“.
 
 - 106. V § 32 ods. 2 celom texte sa slová „ods. 6 druhej vety“ nahrádzajú slovami „ods. 9“.
 

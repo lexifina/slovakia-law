@@ -6,8 +6,20 @@ Zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých
 
 - „(21)
 
-- Pred zápisom údaja o registrovanom sociálnom podniku<sup>15ace</sup>) do ďalších právnych skutočností registrový súd z predložených listín preverí, či zapísanej osobe bol priznaný štatút registrovaného sociálneho podniku.“.
+- Pred zápisom údaja o registrovanom sociálnom podniku<sup>15ace</sup>) do ďalších právnych skutočností registrový súd z predložených listín preverí, či zapísanej osobe bol priznaný štatút registrovaného sociálneho podniku.
+
+- (22)
+
+- Pred zápisom údaja o evidovanom rodinnom podniku<sup>15acf</sup>) do ďalších právnych skutočností registrový súd z predložených listín preverí, či zapísaná osoba je evidovaným rodinným podnikom.
+
+- (23)
+
+- Pred zápisom údaja o registrovanom rodinnom podniku<sup>15acg</sup>) do ďalších právnych skutočností registrový súd z predložených listín preverí, či zapísanej osobe bol priznaný štatút registrovaného rodinného podniku.“.
 
 - Poznámky pod čiarou k odkazom 15ace až 15acg znejú:
 
-- „<sup>15ace</sup>) § 7 ods. 10 druhá veta zákona č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zmene a doplnení niektorých zákonov v znení zákona č. 494/2022 Z. z.“.
+- „<sup>15ace</sup>) § 7 ods. 10 druhá veta zákona č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zmene a doplnení niektorých zákonov v znení zákona č. 494/2022 Z. z.
+
+- <sup>15acf</sup>) § 15c ods. 3 druhá veta zákona č. 112/2018 Z. z. v znení zákona č. 494/2022 Z. z.
+
+- <sup>15acg</sup>) § 15f ods. 6 druhá veta zákona č. 112/2018 Z. z. v znení zákona č. 494/2022 Z. z.“.
