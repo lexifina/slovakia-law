@@ -1,0 +1,1 @@
+Príloha č. 3 k vyhláške č. 250/2023 Z. z. [CIEĽOVÉ HODNOTY ZNEČISŤUJÚCICH LÁTOK A DLHODOBÉ CIELE](../assets/f4a89a0985a71d62ad0ecb21432c2759a30d3ad23c7a26a83e49a26007022fbf.pdf)
