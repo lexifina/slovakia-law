@@ -1,0 +1,1 @@
+Príloha k vyhláške č. 213/2023 Z. z. [VZOR PREUKAZU KONTROLÓRA](../assets/08999879d2994bad399628418ffffbe2750606794fc1662ee1648c298ac852fc.pdf)
