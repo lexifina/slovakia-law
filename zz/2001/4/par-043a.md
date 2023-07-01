@@ -10,6 +10,8 @@
 
   - 2. na zaistenie bezpečnosti inej osoby alebo vlastnej osoby pred protiprávnym útokom, ak sa po výzve od útoku neupustí a útok bezprostredne hrozí, trvá alebo podľa všetkých znakov bude pokračovať,
 
+  - 3. aby zabránil úteku obvineného, odsúdeného alebo dodávanej osoby a pri ich bezprostrednom prenasledovaní,
+
 - b) projektily naplnené značkovacím farbivom na označenie iniciátorov útoku alebo iného protiprávneho konania,
 
 - c) projektily naplnené slzotvornou látkou na rozptýlenie neoprávnene zhromaždených obvinených alebo odsúdených, ktorí odmietajú plniť pokyny príslušníkov zboru, porušujú ústavný poriadok<sup>8</sup>) a odmietajú sa rozísť, ak sa osoba, proti ktorej zákrok smeruje, na výzvu nevzdá alebo sa zdráha opustiť úkryt, alebo ak nemožno inak prekonať odpor smerujúci k zmareniu služobného zákroku.

@@ -6,4 +6,4 @@
 
 - b) eskorte obvinených alebo odsúdených a pri ich dodávaní.
 
-(2) Pri výkone služby podľa odseku 1 s použitím ochrannej kukly musí mať príslušník zboru na viditeľnom mieste umiestnené identifikačné číslo a nápis „Zbor väzenskej a justičnej stráže“ alebo skratku zo začiatočných písmen „ZVJS“.
+(2) Pri výkone služby podľa odseku 1 s použitím ochrannej kukly musí mať príslušník zboru na viditeľnom mieste umiestnené osobitné číslo, ktoré určí nadriadený a nápis „Zbor väzenskej a justičnej stráže“ alebo skratku zo začiatočných písmen „ZVJS“.

@@ -16,4 +16,6 @@
 
 - d) zabránil násilnému vstupu nepovolaných osôb do chránených objektov, objektov súdu, objektov prokuratúry alebo na miesta, kde je vstup zakázaný,
 
-- e) zabránil činnosti podľa § 13c ods. 2.
+- e) zabránil činnosti podľa § 13c ods. 3,
+
+- f) zabránil úteku obvineného, odsúdeného alebo dodávanej osoby a pri ich bezprostrednom prenasledovaní.

@@ -6,7 +6,7 @@
 
 (1) Priestupku sa dopustí ten, kto:
 
-- a) neoprávnene vnikne do chráneného objektu,
+- a) neoprávnene vnikne do chráneného objektu alebo sa o neoprávnené vniknutie do chráneného objektu pokúsi,
 
 - b) poruší zákaz vnášať do chráneného objektu zbraň, prostriedok audiovizuálnej techniky alebo inú nedovolenú vec, ktorou by mohol byť ohrozený život, zdravie alebo bezpečnosť osôb a majetku,
 
@@ -14,7 +14,7 @@
 
 - d) poruší zákaz používať označenie zboru a služobnú rovnošatu zboru podľa § 11a,
 
-- e) odovzdá odsúdenému alebo obvinenému na pracovisku odsúdených alebo obvinených alebo zašle v korešpondencii, alebo v balíku adresovanému odsúdenému alebo obvinenému prostriedok audiovizuálnej techniky, alkoholické nápoje, lieky, omamné látky, psychotropné látky, jedy, prekurzory, tlačoviny alebo predmety propagujúce národnostnú, rasovú, etnickú alebo náboženskú neznášanlivosť, fašizmus alebo iné hnutia smerujúce k potláčaniu práv a slobôd občanov, násilie, krutosť alebo ohrozujúce mravnosť, zbrane, strelivo a predmety, ktoré možno zneužiť na zmarenie účelu výkonu väzby, účelu výkonu trestu odňatia slobody alebo na ohrozenie bezpečnosti v objektoch ústavu podľa osobitného predpisu,<sup>18c</sup>)
+- e) odovzdá alebo iným spôsobom sprístupní obvinenému alebo odsúdenému na pracovisku obvinených alebo odsúdených alebo cestou na pracovisko a späť, alebo počas eskorty obvineného alebo odsúdeného, alebo zašle v korešpondencii, alebo v balíku adresovanému obvinenému alebo odsúdenému, alebo iným spôsobom dopraví do chráneného objektu prostriedok audiovizuálnej techniky, lieky, návykové látky,<sup>18bi</sup>) tlačoviny alebo predmety propagujúce národnostnú, rasovú, etnickú alebo náboženskú neznášanlivosť, fašizmus alebo iné hnutia smerujúce k potláčaniu práv a slobôd občanov, násilie, krutosť alebo ohrozujúce mravnosť, zbrane, strelivo a predmety, ktoré možno zneužiť na zmarenie účelu výkonu väzby, účelu výkonu trestu odňatia slobody alebo na ohrozenie bezpečnosti v objektoch ústavu podľa osobitného predpisu,<sup>18c</sup>)
 
 - f) umožní vykonanie práva odsúdených alebo obvinených v rozpore s osobitnými predpismi,<sup>1</sup>)
 

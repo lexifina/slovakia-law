@@ -6,11 +6,11 @@
 
 (1) Obvinený alebo odsúdený má právo podať sťažnosť podľa tohto zákona.
 
-(2) Sťažnosť podľa tohto zákona je podanie obvineného alebo odsúdeného (ďalej len „sťažovateľ“), ktorým sa domáha ochrany svojich práv alebo právom chránených záujmov, o ktorých sa domnieva, že boli porušené činnosťou alebo nečinnosťou organizačnej zložky zboru podľa § 2 ods. 1, a zároveň poukazuje na konkrétne nedostatky, ktorých odstránenie je v pôsobnosti organizačnej zložky zboru, najmä na porušenie právnych predpisov alebo vnútorných predpisov zboru.
+(2) Sťažnosť podľa tohto zákona je podanie obvineného, odsúdeného, blízkej osoby<sup>18b</sup>) obvineného alebo odsúdeného a právneho zástupcu obvineného alebo odsúdeného (ďalej len „sťažovateľ“), ktorým sa domáha ochrany práv alebo právom chránených záujmov tohto obvineného alebo odsúdeného, o ktorých sa domnieva, že boli porušené činnosťou alebo nečinnosťou organizačnej zložky zboru podľa § 2 ods. 1, a zároveň poukazuje na konkrétne nedostatky, ktorých odstránenie je v pôsobnosti organizačnej zložky zboru, najmä na porušenie právnych predpisov alebo vnútorných predpisov zboru.
 
 (3) Sťažnosťou podľa tohto zákona nie je podanie ktoré,
 
-- a) má charakter dopytu, vyjadrenia, názoru, žiadosti, podnetu alebo návrhu a nie je v ňom jednoznačne vyjadrené, ochrany akého svojho práva alebo právom chráneného záujmu sa obvinený alebo odsúdený domáha,
+- a) má charakter dopytu, vyjadrenia, názoru, žiadosti, podnetu alebo návrhu a nie je v ňom jednoznačne vyjadrené ochrany akého práva alebo právom chráneného záujmu obvineného alebo odsúdeného sa sťažovateľ domáha,
 
 - b) poukazuje na konkrétne nedostatky v činnosti zboru, ktorých odstránenie alebo vybavenie sa vykonáva iným spôsobom, najmä podaním žaloby, podaním reklamácie alebo žiadosti o mimosúdne riešenie sporu, vykonaním inšpekcie, dozoru alebo dohľadu podľa osobitných predpisov,<sup>18ba</sup>)
 

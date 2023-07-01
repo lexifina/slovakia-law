@@ -4,7 +4,7 @@
 
 (2) Organizačná zložka zboru príslušná na vybavenie sťažnosti alebo ministerstvo vypracujú záznam o prešetrení sťažnosti, ktorý obsahuje:
 
-- a) meno, priezvisko, dátum narodenia a základné číslo sťažovateľa,
+- a) meno, priezvisko, dátum narodenia a základné číslo obvineného alebo odsúdeného,
 
 - b) označenie organizačnej zložky zboru príslušnej na vybavenie sťažnosti alebo ministerstva,
 
@@ -20,4 +20,4 @@
 
 - h) meno, priezvisko a podpis osoby oprávnenej na vybavenie sťažnosti.
 
-(3) Sťažnosť je vybavená odoslaním záznamu o prešetrení sťažnosti sťažovateľovi alebo osobným prevzatím záznamu sťažovateľom. Odoslanie alebo prevzatie záznamu o prešetrení sťažnosti musí byť preukázateľné. Odmietnutie prevzatia záznamu sťažovateľom vyznačí osoba, v ktorej prítomnosti k odmietnutiu prevzatia záznamu došlo, za prítomnosti ďalšej osoby na zázname s uvedením miesta, času, dátumu a podpisu oboch osôb.
+(3) Sťažnosť je vybavená odoslaním záznamu o prešetrení sťažnosti obvinenému, odsúdenému alebo právnemu zástupcovi obvineného alebo odsúdeného alebo osobným prevzatím záznamu obvineným, odsúdeným alebo právnym zástupcom obvineného alebo odsúdeného. Odoslanie alebo prevzatie záznamu o prešetrení sťažnosti musí byť preukázateľné. Odmietnutie prevzatia záznamu obvineným, odsúdeným alebo právnym zástupcom obvineného alebo odsúdeného vyznačí osoba, v ktorej prítomnosti k odmietnutiu prevzatia záznamu došlo, za prítomnosti ďalšej osoby na zázname s uvedením miesta, času, dátumu a podpisom oboch osôb. Ak je sťažnosť podaná blízkou osobou obvineného alebo odsúdeného, záznam o prešetrení sťažnosti sa zasiela blízkej osobe obvineného alebo odsúdeného na vedomie.
