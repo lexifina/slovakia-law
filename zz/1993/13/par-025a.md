@@ -1,3 +1,7 @@
+## ŠTVRTÁ ČASŤ
+
+## Záverečné ustanovenia
+
 ## Prechodné ustanovenia počas trvania mimoriadnej situácie, núdzového stavu alebo výnimočného stavu vyhláseného v súvislosti s ochorením COVID-19
 
 # § 25a
