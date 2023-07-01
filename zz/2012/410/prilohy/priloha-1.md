@@ -1,3 +1,0 @@
-Príloha č. 1 k vyhláške č. 410/2012 Z. z.
-
-- ČLENENIE A KATEGORIZÁCIA STACIONÁRNYCH ZDROJOV [príloha](../assets/85651b0e4412233e37540ec871c52554b86c52d054f32ee23ef8b169663a67ea.pdf)
