@@ -1,0 +1,1 @@
+Jozef Medveď v. r.
