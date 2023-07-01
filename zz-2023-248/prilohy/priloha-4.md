@@ -1,0 +1,1 @@
+Príloha č. 4 k vyhláške č. 248/2023 Z. z. [ŠPECIFICKÉ POŽIADAVKY NA SPAĽOVACIE ZARIADENIA](../assets/08f67f727757ff73acc133c5bc9ecf4fd8a259530382ec9ee8e295b1e6697a1a.pdf)

@@ -1,0 +1,1 @@
+Príloha č. 7 k vyhláške č. 248/2023 Z. z.. [ŠPECIFICKÉ POŽIADAVKY PRE TECHNOLOGICKÉ ZARIADENIA](../assets/259d5cdf5f939c0e94b7e5e7dded57c50bc4a02a196508c7e23b15a8f81da32b.pdf)
