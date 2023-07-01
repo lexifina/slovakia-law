@@ -1,1 +1,0 @@
-Martin Glváč v. r.
