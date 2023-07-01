@@ -568,22 +568,6 @@
 
 - 38) Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých predpisov.
 
-- 38a) § 17 ods. 1 písm. b) zákona č. 137/2010 Z. z. o ovzduší v znení zákona č. 318/2012 Z. z.
-
-- 38b) § 17 ods. 1 písm. c) zákona č. 137/2010 Z. z. v znení zákona č. 318/2012 Z. z.
-
-- 38c) § 17 ods. 1 písm. d) zákona č. 137/2010 Z. z. v znení zákona č. 318/2012 Z. z.
-
-- 38d) § 17 ods. 1 písm. e) zákona č. 137/2010 Z. z.
-
-- 38e) § 17 ods. 1 písm. f) zákona č. 137/2010 Z. z.
-
-- 38f) § 17 ods. 1 písm. g) zákona č. 137/2010 Z. z. v znení zákona č. 318/2012 Z. z.
-
-- 38g) § 18 ods. 9 zákona č. 137/2010 Z. z. v znení zákona č. 318/2012 Z. z.
-
-- 38h) § 31 ods. 2 zákona č. 137/2010 Z. z. v znení zákona č. 318/2012 Z. z.
-
 - 39) Zákon č. 313/1999 Z. z. o geologických prácach a o štátnej geologickej správe (geologický zákon).
 
 - 39a) § 26 ods. 4 zákona č. 313/1999 Z. z. o geologických prácach a o štátnej geologickej správe (geologický zákon).
@@ -594,7 +578,33 @@
 
 - 39baa) § 2 zákona č. 121/2022 Z. z. o príspevkoch z fondov Európskej únie a o zmene a doplnení niektorých zákonov.
 
-- 39bb) § 20 ods. 3 písm. b) zákona č. 137/2010 Z. z. o ovzduší.
+- 39bb) § 27 ods. 1 zákona č. 146/2023 Z. z. o ochrane ovzdušia a o zmene a doplnení niektorých zákonov.
+
+- 39bc) § 26 ods. 1 písm. e) zákona č. 146/2023 Z. z.
+
+- 39bd) § 26 ods. 1 písm. f) zákona č. 146/2023 Z. z.
+
+- 39be) § 26 ods. 1 písm. h) zákona č. 146/2023 Z. z.
+
+- 39bf) § 27 ods. 13 písm. a) zákona č. 146/2023 Z. z.
+
+- 39bg) § 56 ods. 1 písm. a) zákona č. 146/2023 Z. z.
+
+- 39bh) § 56 ods. 1 písm. b) zákona č. 146/2023 Z. z.
+
+- 39bi) § 56 ods. 1 písm. c) zákona č. 146/2023 Z. z.
+
+- 39bj) § 56 ods. 1 písm. d) zákona č. 146/2023 Z. z.
+
+- 39bk) § 6 zákona č. 321/2012 Z. z. o ochrane ozónovej vrstvy Zeme a o zmene a doplnení niektorých zákonov.
+
+- 39bl) § 59 zákona č. 146/2023 Z. z.
+
+- 39bm) § 57 ods. 4 a 5 zákona č. 146/2023 Z. z.
+
+- 39bn) § 8 ods. 5 zákona č. 321/2012 Z. z.
+
+- 39bo) § 11 zákona č. 146/2023 Z. z.
 
 - 39c) Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 273/2001 Z. z. o autorizácii, o vydávaní odborných posudkov vo veciach odpadov, o ustanovovaní osôb oprávnených na vydávanie odborných posudkov a o overovaní odbornej spôsobilosti týchto osôb v znení vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 399/2002 Z. z.
 

@@ -1596,7 +1596,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
       - a) Zápis držiteľa motorového vozidla kategórie L, M1 a N1, okrem kategórie N1 s najviac tromi miestami na sedenie, do evidencie vozidiel v Slovenskej republike aj s vykonaním úprav v dokladoch vrátane vydania týchto dokladov............. suma vypočítaná podľa vzorca, najmenej 33 eur
 
-        - RP = P<sub>kw</sub> x RV<sub>1-n</sub>
+        - RP = P<sub>kw</sub> x EKV
 
         - kde:
 
@@ -1604,85 +1604,61 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
         - P<sub>kw</sub> – sadzba poplatku za zápis vozidla v eurách podľa výkonu motora (prvá evidencia vozidla), ktorej hodnoty sú uvedené v tabuľke č. 1,
 
-        - RV<sub>1-n</sub> – koeficient zostatkovej hodnoty vozidla zodpovedajúci zostatkovej hodnote vozidla podľa veku vozidla v rokoch odo dňa prvej evidencie vozidla, ktorého hodnoty sú uvedené v tabuľke č. 2.
+        - EKV – ekologický koeficient vozidla
 
-      - Tabuľka č. 1
+        - Tabuľka č. 1
 
-      - Výkon motora v kW | | Sadzba poplatku v eurách
+      - Výkon motora v kW | | Sadzba poplatku v EUR
 
       - nad | do |
 
-      - | 80 vrátane | 33
+      - 80 vrátane | | 33
 
-      - 80 | 86 vrátane | 90
+      - 80 | 90 vrátane | 60
 
-      - 86 | 92 vrátane | 110
+      - 90 | 100 vrátane | 90
 
-      - 92 | 98 vrátane | 150
+      - 100 | 110 vrátane | 120
 
-      - 98 | 104 vrátane | 210
+      - 110 | 125 vrátane | 200
 
-      - 104 | 110 vrátane | 260
+      - 125 | 140 vrátane | 300
 
-      - 110 | 121 vrátane | 360
+      - 140 | 155 vrátane | 500
 
-      - 121 | 132 vrátane | 530
+      - 155 | 170 vrátane | 700
 
-      - 132 | 143 vrátane | 700
+      - 170 | 210 vrátane | 900
 
-      - 143 | 154 vrátane | 870
+      - 210 | a viac | 1 000
 
-      - 154 | 165 vrátane | 1 100
+        - Tabuľka č. 2
 
-      - 165 | 176 vrátane | 1 250
+      - | Druh vozidla vzhľadom na druh paliva* | | Ekologický koeficient vozidla
 
-      - 176 | 202 vrátane | 1 900
+      - 1. | Vozidlo staršie ako 40 rokov od dátumu prvej evidencie (bez rozdielu druhu paliva) | | 0,10
 
-      - 202 | 228 vrátane | 2 300
+      - 2. | Vozidlo s druhom paliva: H2, kombinácia akékoľvek palivo+PHEV (Plug-In hybrid) | | 0,20
 
-      - 228 | 254 vrátane | 2 700
+      - 3. | Vozidlo s iným druhom paliva ako v riadku 1 a 2 alebo iné vozidlo ako v písmene c) | |
 
-      - 254 | a viac | 3 900
+      - | Emisná norma | Dátum prvej evidencie** |
 
-      - Tabuľka č. 2
+      - | Vozidlo Euro 1/I | do 31. 12. 1996 | 1,00
 
-      - Vek vozidla | Koeficient zostatkovej hodnoty vozidla
+      - | Vozidlo Euro 2/II | od 1. 1. 1997 do 31. 12. 2001 | 0,80
 
-      - prvá evidencia | 1,00
+      - | Vozidlo Euro 3/III | od 1. 1. 2002 do 31. 12. 2006 | 0,70
 
-      - do 1 roka vrátane odo dňa prvej evidencie | 0,82
+      - | Vozidlo Euro 4/IV | od 1. 1. 2007 do 31. 12. 2011 | 0,60
 
-      - do 2 rokov vrátane odo dňa prvej evidencie | 0,68
+      - | Vozidlo Euro 5/V/EEV | od 1. 1. 2012 do 31. 8. 2016 | 0,50
 
-      - do 3 rokov vrátane odo dňa prvej evidencie | 0,56
+      - | Vozidlo Euro 6a, b, c/VIA, B, C | od 1. 9. 2016 do 31. 8. 2020 | 0,45
 
-      - do 4 rokov vrátane odo dňa prvej evidencie | 0,46
+      - | Vozidlo Euro 6d/VID a novšie | od 1. 9. 2020 | 0,40
 
-      - do 5 rokov vrátane odo dňa prvej evidencie | 0,38
-
-      - do 6 rokov vrátane odo dňa prvej evidencie | 0,32
-
-      - do 7 rokov vrátane odo dňa prvej evidencie | 0,26
-
-      - do 8 rokov vrátane odo dňa prvej evidencie | 0,23
-
-      - do 9 rokov vrátane odo dňa prvej evidencie | 0,19
-
-      - do 10 rokov vrátane odo dňa prvej evidencie | 0,16
-
-      - do 11 rokov vrátane odo dňa prvej evidencie | 0,14
-
-      - do 12 rokov vrátane odo dňa prvej evidencie | 0,12
-
-      - do 13 rokov vrátane odo dňa prvej evidencie | 0,10
-
-      - do 14 rokov vrátane odo dňa prvej evidencie | 0,09
-
-      - do 15 rokov vrátane odo dňa prvej evidencie | 0,08
-
-      - do 16 rokov vrátane odo dňa prvej evidencie | 0,07
-
-      - nad 16 rokov odo dňa prvej evidencie | 0,06
+      - Poplatok sa vzhľadom na ekologický koeficient zníži najviac na 33 eur. * Druh paliva sa určí z položky 18 Osvedčenia o evidencii časť II „Druh paliva/zdroj energie“. ** Kritériá časového rozmedzia dátumu prvej evidencie sa použijú, len ak sa pre motorové vozidlo nedá určiť emisná norma Euro. | | |
 
       - b) Zápis držiteľa motorového vozidla okrem kategórie vozidiel podľa písmena a) alebo prípojného vozidla do evidencie vozidiel v Slovenskej republike aj s vykonaním úprav v dokladoch vrátane vydania týchto dokladov.......................................................... 33 eur
 
@@ -1704,11 +1680,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
         - 2. Poplatok podľa písmena a) tejto položky sa zníži o 50 %, najviac však na 33 eur, pri zápise držiteľa motorového vozidla kategórie M1 s najmenej šiestimi miestami na sedenie s výkonom motora do 110 kW vrátane, ak ide o zápis držiteľa, ktorým je osoba podľa osobitného predpisu<sup>20ac</sup>) uplatňujúca si nárok na prídavok na dieťa najmenej na štyri deti najneskôr do dovŕšenia 19 rokov veku.
 
-        - 3. Poplatník môže pri zápise motorového vozidla podľa písmena a) tejto položky predložiť znalecký posudok podľa osobitného predpisu,<sup>20ad</sup>) na ktorého základe sa vypočíta iný koeficient zostatkovej hodnoty vozidla ako je uvedený v tabuľke č. 2 zodpovedajúci veku vozidla odo dňa prvej evidencie vozidla. Koeficient zostatkovej hodnoty vozidla sa vypočíta na základe znaleckého posudku ako pomer zostatkovej hodnoty vozidla vyjadrenej v eurách a počiatočnej hodnoty vozidla vyjadrenej v eurách. Takto vypočítaný koeficient zostatkovej hodnoty vozidla zaokrúhlený matematicky na dve desatinné miesta sa použije vo vzorci na výpočet poplatku podľa písmena a) tejto položky.
-
-        - 4. Poplatok podľa písmena a) tejto položky sa zníži o 50 %, najviac však na 33 eur, pri zápise držiteľa hybridného motorového vozidla, motorového vozidla s pohonom na stlačený zemný plyn (CNG), motorového vozidla s pohonom na skvapalnený zemný plyn (LNG) alebo motorového vozidla na vodíkový pohon.
-
-        - 5. Ak predmetom podnikania osoby uvedenej v písmene d) je predaj vozidiel na základe zmluvného vzťahu s výrobcom vozidla alebo zástupcom výrobcu vozidla, pri zápise držiteľa vozidla do evidencie vozidiel je povinná tento vzťah preukázať správnemu orgánu. Ak držiteľ motorového vozidla podľa písmena d) do jedného roka odo dňa zápisu motorového vozidla do evidencie vozidiel nevykoná prevod držby motorového vozidla na inú osobu, je povinný najneskôr pri nasledujúcej zmene v evidencii vozidiel zaplatiť poplatok podľa písmena a) v sume zodpovedajúcej sume poplatku pri prvej evidencii vozidla.
+        - 3. Ak predmetom podnikania osoby uvedenej v písmene d) je predaj vozidiel na základe zmluvného vzťahu s výrobcom vozidla alebo zástupcom výrobcu vozidla, pri zápise držiteľa vozidla do evidencie vozidiel je povinná tento vzťah preukázať správnemu orgánu. Ak držiteľ motorového vozidla podľa písmena d) do jedného roka odo dňa zápisu motorového vozidla do evidencie vozidiel nevykoná prevod držby motorového vozidla na inú osobu, je povinný najneskôr pri nasledujúcej zmene v evidencii vozidiel zaplatiť poplatok podľa písmena a) v sume zodpovedajúcej sume poplatku pri prvej evidencii vozidla.
 
     - Položka 66
 
@@ -1885,6 +1857,8 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
       - z) povolenie skúšobnej prevádzky vozidla, ak sa skúšobná prevádzka vozidla vykonáva v rámci výskumu na zvýšenie bezpečnosti cestnej premávky a typový schvaľovací orgán má záujem o výsledky tohto výskumu z dôvodu zmeny technických požiadaviek ...................... 10 eur
 
       - aa) povolenie prevádzky automatizovaného doručovacieho vozidla ................... 100 eur
+
+      - ab) osvedčovanie dopravného prostriedku alebo prepravného prostriedku používaného na prepravu skaziteľných potravín ........................................... 200 eur
 
     - Splnomocnenie
 
@@ -2194,9 +2168,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
       - h) zmenu v poverení na vykonávanie určitých činností podľa dohody ADR .... 100 eur
 
+      - i) udelenie poverenia na vykonávanie technickej služby overovania dopravných prostriedkov alebo prepravných prostriedkov používaných na prepravu skaziteľných potravín podľa dohody ATP ........................................................................ 100 eur
+
+      - j) zmenu v poverení na vykonávanie technickej služby overovania dopravných prostriedkov alebo prepravných prostriedkov používaných na prepravu skaziteľných potravín podľa dohody ATP ....................................................................... 100 eur
+
     - Poznámky
 
-      - 1. Poplatok podľa písmen a), b), g) a h) tejto položky zahŕňa aj vydanie príslušných dokladov.
+      - 1. Poplatok podľa písmen a), b), g) až j) tejto položky zahŕňa aj vydanie príslušných dokladov.
 
       - 2. Poplatok podľa tejto položky sa nevyberie, ak ide o zmenu z úradného príkazu, napríklad zmenu názvu ulice a podobne.
 
@@ -5404,25 +5382,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - aa) Vydanie rozhodnutia či zariadenie je alebo nie je elektrozariadením<sup>38</sup>) | 30 eur
 
-  - ab) Vydanie súhlasu na inštaláciu automatizovaných meracích systémov emisií a automatizovaných meracích systémov kvality ovzdušia a na ich prevádzku, na ich zmeny a na prevádzku po vykonaných zmenách<sup>38a</sup>) | 10 eur
+  - ab) Vydanie rozhodnutia o udelení súhlasu na prevádzkovanie prekládkovej stanice komunálneho odpadu | 11 eur
 
-  - ac) Vydanie súhlasu na zmeny používaných palív a surovín, na zmeny technologických zariadení stacionárnych zdrojov a na zmeny ich užívania a na prevádzku stacionárnych zdrojov po vykonaných zmenách<sup>38b</sup>) | 5 eur
-
-  - ad) Vydanie súhlasu na vydanie súboru technicko-prevádzkových parametrov a technicko-organizačných opatrení a na jeho zmeny<sup>38c</sup>) | 10 eur
-
-  - ae) Vydanie súhlasu na prevádzku výskumno-vývojových technologických celkov patriacich do kategórie veľkých zdrojov alebo stredných zdrojov<sup>38d</sup>) | 10 eur
-
-  - af) Vydanie súhlasu na inštaláciu technologických celkov patriacich do kategórie veľkých zdrojov, stredných zdrojov alebo malých zdrojov, na ich zmeny a na ich prevádzku, ak ich povoľovanie nepodlieha stavebnému konaniu<sup>38e</sup>) | 10 eur
-
-  - ag) Vydanie súhlasu na technický výpočet údajov o dodržaní emisných limitov, technických požiadaviek a podmienok prevádzkovania, určenie výnimiek alebo osobitných podmienok a osobitných lehôt zisťovania množstiev vypúšťaných znečisťujúcich látok a údajov o dodržaní určených emisných limitov, technických požiadaviek a podmienok prevádzkovania stacionárnych zdrojov a monitorovania úrovne znečistenia ovzdušia a na predĺženie lehoty alebo na upustenie od oprávnených meraní<sup>38f</sup>) | 10 eur
-
-  - ah) Vydanie rozhodnutia na povolenie ďalšej prevádzky spaľovne odpadov alebo zariadenia na spoluspaľovanie odpadov<sup>38g</sup>) | 30 eur
-
-  - ai) Vydanie rozhodnutia o zmene podmienok a požiadaviek určených na prevádzku a monitorovanie stacionárneho zdroja znečisťovania ovzdušia<sup>38h</sup>) | 10 eur
-
-  - aj) Vydanie rozhodnutia o udelení súhlasu na prevádzkovanie prekládkovej stanice komunálneho odpadu | 11 eur
-
-  - ak) Vydanie rozhodnutia o udelení súhlasu na skladovanie výkopovej zeminy pre pôvodcu odpadov | 11 eur
+  - ac) Vydanie rozhodnutia o udelení súhlasu na skladovanie výkopovej zeminy pre pôvodcu odpadov | 11 eur
 
     - Položka 163
 
@@ -5500,39 +5462,45 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 170
 
-  - a) Žiadosť o vydanie osvedčenia oprávneného posudzovateľa na vykonávanie posudkovej činnosti v oblasti ochrany ovzdušia, osvedčenia o odbornej spôsobilosti osoby oprávnenej vydávať odborné posudky vo veciach ochrany ozónovej vrstvy Zeme a osvedčenia zodpovednej osoby za vykonávanie oprávnených meraní, kalibrácií, skúšok a inšpekcií zhody ...... | 100 eur
+  - a) Konanie o vydanie povolenia pre novobudovaný stacionárny zdroj znečisťovania ovzdušia pre právnické osoby a fyzické osoby – podnikateľov<sup>39bb</sup>) | 30 eur
 
-  - b) Žiadosť o predĺženie platnosti osvedčenia podľa písmena a) tejto položky ...... | 35 eur
+  - b) Konanie o vydanie súhlasu na vydanie súboru technicko-prevádzkových parametrov a technicko-organizačných opatrení a na jeho zmeny<sup>39bc</sup>) | 10 eur
 
-  - c) Zmena priezviska, zníženie rozsahu alebo skrátenie času platnosti osvedčenia ...... | 5 eur
+  - c) Konanie o vydanie súhlasu na inštaláciu automatizovaných meracích systémov emisií a automatizovaných meracích systémov kvality ovzdušia a na ich prevádzku, na ich zmeny a na prevádzku po vykonaných zmenách<sup>39bd</sup>) | 10 eur
 
-  - d) Žiadosť o povolenie na jednotlivé oprávnené meranie, kalibráciu, skúšku alebo inšpekciu zhody ...... | 20 eur
+  - d) Konanie o vydanie súhlasu na určenie osobitných podmienok merania, zmien lehôt alebo upustenia od oprávnenej technickej činnosti<sup>39be</sup>) | 10 eur
 
-  - e) Žiadosť o povolenie vydania odborného posudku vo veciach ochrany ovzdušia alebo vo veciach ochrany ozónovej vrstvy Zeme vo výnimočnom prípade ...... | 10 eur
+  - e) Konanie o vydanie povolenia na zmenu podmienok povolenia zdroja, ak ide o zmenu používaných palív a surovín, technologických zariadení alebo zmenu ich využívania<sup>39bf</sup>) | 15 eur
 
-  - Poznámky Odňatie, pozastavenie platnosti a zánik osvedčenia sa nespoplatňujú. |
+  - f) Konanie o vydanie osvedčenia o odbornej spôsobilosti na odborné posudzovanie v oblasti ochrany ovzdušia<sup>39bg</sup>) | 100 eur
 
-  - Splnomocnenie 1. Správny orgán zníži poplatok podľa písmena a) tejto položky až o 50 %, ak ide o rozšírenie rozsahu osvedčenia. 2. Správny orgán môže odpustiť poplatok podľa písmen a) a b) tejto položky, ak ide o osvedčenie oprávneného posudzovateľa, ktorý je odborným konzultantom podľa osobitného predpisu.<sup>39bb</sup>) |
+  - g) Konanie o vydanie osvedčenia o odbornej spôsobilosti na prevádzkovanie a riadenie spaľovne odpadov alebo zariadenia na spoluspaľovanie odpadov<sup>39bh</sup>) | 100 eur
 
-    - Položka 170a
+  - h) Konanie o vydanie osvedčenia o odbornej spôsobilosti na výkon kontroly malých spaľovacích zariadení na tuhé palivo a kvapalné palivo<sup>39bi</sup>) | 20 eur
 
-    - Žiadosť o povolenie
+  - i) Konanie o vydanie osvedčenia o odbornej spôsobilosti na výkon oprávnenej technickej činnosti (osvedčenie zodpovednej osoby)<sup>39bj</sup>) | 100 eur
 
-      - a) dočasného vjazdu cestných motorových vozidiel potrebnej pre vjazd do nízkoemisnej zóny pri
+  - j) Konanie o vydanie osvedčenia o odbornej spôsobilosti na vyhotovenie odborných posudkov vo veciach ochrany ozónovej vrstvy Zeme<sup>39bk</sup>) | 100 eur
 
-        - 1. fyzickej osobe ...........................................................................................................10 eur
+  - k) Konanie o predĺženie platnosti osvedčenia a rozšírenie platnosti osvedčenia podľa písmena f), g) a i) tejto položky | 35 eur
 
-        - 2. právnickej osobe alebo fyzickej osobe – podnikateľa ............................................. 50 eur
+  - l) Konanie o vydanie povolenia na vykonanie jednotlivej oprávnenej technickej činnosti<sup>39bl</sup>) | 30 eur
 
-      - b) trvalého vjazdu cestných motorových vozidiel potrebnej pre vjazd do nízkoemisnej zóny pri
+  - m) Konanie o vydanie jednorazového povolenia na vyhotovenie odborného posudku<sup>39bm</sup>) | 30 eur
 
-        - 1. fyzickej osobe .......................................................................................................... 20 eur
+  - n) Konanie o vydanie jednorazového povolenia na vydanie odborného posudku vo veciach ochrany ozónovej vrstvy Zeme<sup>39bn</sup>) | 30 eur
 
-        - 2. právnickej osobe alebo fyzickej osobe – podnikateľa ........................................... 100 eur
+  - o) Konanie o vydanie povolenia dočasného vjazdu cestných motorových vozidiel potrebného pre vjazd do nízkoemisnej zóny pri fyzickej osobe<sup>39bo</sup>) | 10 eur
 
-    - Oslobodenie
+  - p) Konanie o vydanie povolenia dočasného vjazdu cestných motorových vozidiel potrebného pre vjazd do nízkoemisnej zóny pri právnickej osobe alebo fyzickej osobe – podnikateľovi<sup>39bo</sup>) | 50 eur
 
-    - Správny orgán môže od poplatku podľa tejto položky oslobodiť fyzickú osobu s ťažkým zdravotným postihnutím, poberateľa starobného dôchodku, poberateľa predčasného starobného dôchodku alebo invalidného dôchodku.
+  - q) Konanie o vydanie povolenia trvalého vjazdu cestných motorových vozidiel potrebného pre vjazd do nízkoemisnej zóny pri fyzickej osobe<sup>39bo</sup>) | 20 eur
+
+  - r) Konanie o vydanie povolenia trvalého vjazdu cestných motorových vozidiel potrebného pre vjazd do nízkoemisnej zóny pri právnickej osobe alebo fyzickej osobe – podnikateľovi<sup>39bo</sup>) | 100 eur
+
+  - Poznámky Odňatie, pozastavenie platnosti a zánik osvedčenia podľa písm. f) až i) sa nespoplatňujú. Vydanie povolenia na vjazd do nízkoemisnej zóny podľa písmen o) až r) sa pre poľnohospodársku techniku na zabezpečenie živočíšnej a rastlinnej výroby nespoplatňuje. |
+
+  - Oslobodenie Správny orgán môže od poplatku podľa písm. o) až r) tejto položky oslobodiť fyzickú osobu s ťažkým zdravotným postihnutím, poberateľa starobného dôchodku, poberateľa predčasného starobného dôchodku alebo invalidného dôchodku. Od poplatku podľa písmena f) je oslobodené vydanie osvedčenia na vyhotovenie odborných posudkov, ak je žiadateľom oprávnený posudzovateľ, ktorému bolo osvedčenie vydané podľa doterajšieho zákona. |
 
     - Položka 171
 
