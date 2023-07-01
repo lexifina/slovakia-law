@@ -1,0 +1,33 @@
+# Čl. II
+
+Zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov v znení zákona č. 215/2007 Z. z., zákona č. 477/2008 Z. z., zákona č. 517/2008 Z. z., zákona č. 508/2010 Z. z. a zákona č. 412/2012 Z. z. sa mení takto:
+
+- § 9 vrátane nadpisu znie:
+
+- „§ 9
+
+- Nesprávny úradný postup
+
+- (1)
+
+- Štát zodpovedá za škodu spôsobenú nesprávnym úradným postupom. Za nesprávny úradný postup sa považuje výkon právomoci orgánom verejnej moci, pri ktorom dôjde k porušeniu právnou normou ustanoveného predpísaného postupu alebo k porušeniu účelu, ku ktorému postup orgánu verejnej moci pri výkone verejnej moci smeruje. Za nesprávny úradný postup sa považuje aj porušenie povinnosti orgánu verejnej moci urobiť úkon alebo vydať rozhodnutie v zákonom ustanovenej lehote, nečinnosť orgánu verejnej moci pri výkone verejnej moci, zbytočné prieťahy v konaní alebo iný nezákonný zásah do práv, právom chránených záujmov fyzických osôb a právnických osôb.
+
+- (2)
+
+- Za nesprávny úradný postup sa nepovažuje postup alebo výsledok postupu Národnej rady Slovenskej republiky pri výkone jej pôsobnosti podľa čl. 86 písm. a) a d) Ústavy Slovenskej republiky a postup alebo výsledok postupu vlády Slovenskej republiky pri výkone jej pôsobnosti podľa čl. 119 písm. b) Ústavy Slovenskej republiky.
+
+- (3)
+
+- Za nesprávny úradný postup sa nepovažuje ani úradný postup, ktorý spočíva v úkonoch orgánu verejnej moci v rámci súdneho konania alebo iného konania, ktorými sa zhromažďovali alebo pripravovali podklady pre vydanie rozhodnutia a ktorého vady a nedostatky sa prejavili vo vydanom rozhodnutí tohto orgánu verejnej moci, a tieto vady a nedostatky je možné odstrániť uplatnením riadnych alebo mimoriadnych opravných prostriedkov. Náhradu škody spôsobenú takýmto úradným postupom je možné uplatniť len podľa § 5 a 6 a za podmienok tam uvedených.
+
+- (4)
+
+- Pri posudzovaní nesprávneho úradného postupu súdu spočívajúceho v porušení povinnosti urobiť úkon alebo vydať rozhodnutie v zákonom ustanovenej lehote, v nečinnosti pri výkone verejnej moci alebo v zbytočných prieťahoch v konaní možno vychádzať len z výsledkov vybavenia sťažnosti na prieťahy, žiadosti o prešetrenie vybavenia sťažnosti na prieťahy, z právoplatného rozhodnutia vydaného v disciplinárnom konaní, ktorým sa rozhodlo o tom, že sudca sa dopustil disciplinárneho previnenia, ktoré má za následok prieťahy v súdnom konaní, právoplatného rozhodnutia Európskeho súdu pre ľudské práva, ktorým sa rozhodlo, že bolo porušené právo na prerokovanie veci bez zbytočných prieťahov alebo z právoplatného rozhodnutia Ústavného súdu Slovenskej republiky o ústavnej sťažnosti, ktorým Ústavný súd Slovenskej republiky konštatoval, že sa porušilo právo na prerokovanie veci bez zbytočných prieťahov.
+
+- (5)
+
+- Pri posudzovaní nesprávneho úradného postupu vyšetrovateľa Policajného zboru, povereného príslušníka Policajného zboru, vyšetrovateľa finančnej správy alebo povereného pracovníka finančnej správy spočívajúceho v porušení povinnosti urobiť úkon alebo vydať rozhodnutie v zákonom ustanovenej lehote, v nečinnosti pri výkone verejnej moci alebo v zbytočných prieťahoch v konaní možno vychádzať len z výsledkov vybavenia žiadosti o preskúmanie postupu vyšetrovateľa Policajného zboru, povereného príslušníka Policajného zboru, vyšetrovateľa finančnej správy alebo povereného pracovníka finančnej správy prokurátorom.
+
+- (6)
+
+- Právo na náhradu škody spôsobenej nesprávnym úradným postupom má ten, komu bola takým postupom spôsobená škoda. Právo na náhradu škody spočívajúcej v náhrade nemajetkovej ujmy nevznikne, ak súd v správnom súdnictve v konaní o žalobe proti nečinnosti orgánu verejnej správy, Ústavný súd Slovenskej republiky v konaní o ústavnej sťažnosti rozhodoval o primeranom finančnom zadosťučinení, alebo Európsky súd pre ľudské práva v konaní o porušení práva na prejednanie veci v primeranej lehote rozhodoval o spravodlivom zadosťučinení, a to v rozsahu nemajetkovej ujmy spôsobenej skutočnosťami, ktoré pri tomto rozhodovaní mohli byť zohľadnené bez ohľadu na to, že zohľadnené neboli z dôvodu na strane poškodeného.“.
