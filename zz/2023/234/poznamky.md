@@ -1,0 +1,1 @@
+- 1) § 2 zákona Národnej rady Slovenskej republiky č. 199/1994 Z. z. o psychologickej činnosti a Slovenskej komore psychológov.
