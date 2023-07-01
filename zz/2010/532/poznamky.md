@@ -32,7 +32,7 @@
 
 - 16) Napríklad § 86 Obchodného zákonníka.
 
-- 17) Napríklad zákon č. 346/1990 Zb. v znení neskorších predpisov, zákon č. 564/1992 Zb. v znení neskorších predpisov, zákon č. 46/1999 Z. z. v znení neskorších predpisov, zákon č. 308/2000 Z. z. v znení neskorších predpisov, zákon č. 303/2001 Z. z. v znení neskorších predpisov, zákon č. 331/2003 Z. z. v znení neskorších predpisov, zákon č. 333/2004 Z. z. v znení neskorších predpisov.
+- 17) Napríklad zákon č. 181/2014 Z. z. o volebnej kampani a o zmene a doplnení zákona č. 85/2005 Z. z. o politických stranách a politických hnutiach v znení neskorších predpisov v znení neskorších predpisov, zákon č. 264/2022 Z. z. v znení zákona č. 351/2022 Z. z.
 
 - 18) § 13 ods. 1 zákona č. 176/2004 Z. z. o nakladaní s majetkom verejnoprávnych inštitúcií a o zmene zákona Národnej rady Slovenskej republiky č. 259/1993 Z. z. o Slovenskej lesníckej komore v znení zákona č. 464/2002 Z. z.
 
@@ -60,7 +60,7 @@
 
 - 26a) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
 
-- 27) § 7 zákona č. 308/2000 Z. z. v znení zákona č. 498/2009 Z. z.
+- 27) § 109 zákona č. 264/2022 Z. z. v znení zákona č. 351/2022 Z. z.
 
 - 28) § 5 zákona č. 516/2008 Z. z. o Audiovizuálnom fonde a o zmene a doplnení niektorých zákonov.
 
@@ -108,10 +108,14 @@
 
 - Zákon č. 523/2004 Z. z. v znení neskorších predpisov.
 
-- 49) Zákon č. 340/2012 Z. z. o úhrade za služby verejnosti poskytované Rozhlasom a televíziou Slovenska a o zmene a doplnení niektorých zákonov.
-
 - 50) § 38 ods. 1 zákona č. 308/2000 Z. z. v znení neskorších predpisov.
 
 - 51) Zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 52) § 24 zákona č. 516/2008 Z. z.
+
+- 53) § 19 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 54) Zákon č. 358/2015 Z. z. o úprave niektorých vzťahov v oblasti štátnej pomoci a minimálnej pomoci a o zmene a doplnení niektorých zákonov (zákon o štátnej pomoci).
+
+- 55) Napríklad zákon č. 185/2015 Z. z. Autorský zákon v znení neskorších predpisov.
