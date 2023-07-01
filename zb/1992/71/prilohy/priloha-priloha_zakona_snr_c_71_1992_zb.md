@@ -72,6 +72,8 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - b) na ochranu osobnosti spojenej s náhradou nemajetkovej ujmy | 66 eur a 3 % z výšky uplatnenej z nemajetkovej ujmy, najviac 16 596, 50 eura
 
+- Poznámka Poplatok sa platí za žalobu ako celok bez ohľadu na počet výrokov (skutkových tvrdení a súvisiacich hodnotiacich úsudkov), ktoré sú predmetom žalobného návrhu; to platí aj v odvolacom konaní. |
+
 - Položka 7c |
 
 - Z návrhu na začatie konania vo veciach opravy nepravdivých alebo pravdu skresľujúcich údajov podľa osobitných predpisov | 66 eur
