@@ -1,0 +1,1 @@
+Príloha č. 4 k vyhláške č. 254/2023 Z. z. [VZOR VYBRANÝCH ČASTÍ SÚBORU PARAMETROV A OPATRENÍ](../assets/d830254e97b0da0d809895e892faaeea0753dbe95a116f72339995602c53bf99.pdf)
