@@ -166,6 +166,8 @@
 
 - 56a) Napríklad čl. 1 nariadenia Rady (EHS Euroatom, ESUO) č. 259/1968 z 29. februára 1968, ktorým sa ustanovuje Služobný poriadok a podmienky zamestnávania ostatných zamestnancov Európskych spoločenstiev a osobitné pravidlá, ktoré sa dočasne uplatňujú na úradníkov Komisie (Ú. v. ES L 56, 4. 3. 1968) v platnom znení, čl. 36 ods. 36.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky v platnom znení (Ú. v. EÚ C 326, 26. 10. 2012), čl. 1 rozhodnutia Európskej centrálnej banky ECB/1998/4 (1999/330/ES) z 9. júna 1998 o prijatí podmienok zamestnávania zamestnancov Európskej centrálnej banky (Ú. v. ES L 125, 19. 5. 1999) v platnom znení.
 
+- 56aa) § 3 ods. 1 písm. d) zákona č. 455/1991 Zb. v znení neskorších predpisov.
+
 - 56b) Nariadenie vlády Slovenskej republiky č. 200/2012 Z. z., ktorým sa ustanovuje spôsob určenia poistno-matematického ekvivalentu nároku na starobný dôchodok vo vzťahu k dôchodkovému systému Európskej únie alebo jej inštitúcie.
 
 - 56c) § 45 ods. 6 zákona č. 43/2004 Z. z. v znení zákona č. 183/2014 Z. z.

@@ -4,7 +4,7 @@
 
 # § 66b Podmienky nároku na rodičovský dôchodok
 
-(1) Nárok na rodičovský dôchodok a nárok na jeho výplatu má poberateľ starobného dôchodku, poberateľ invalidného dôchodku vyplácaného po dovŕšení dôchodkového veku a poberateľ výsluhového dôchodku podľa osobitného predpisu<sup>2</sup>) vyplácaného po dovŕšení dôchodkového veku (ďalej len „poberateľ dôchodku po dovŕšení dôchodkového veku“), ak je
+(1) Nárok na rodičovský dôchodok a nárok na jeho výplatu má poberateľ starobného dôchodku, poberateľ invalidného dôchodku vyplácaného po dovŕšení dôchodkového veku, poberateľ výsluhového dôchodku podľa osobitného predpisu<sup>2</sup>) vyplácaného po dovŕšení dôchodkového veku a poberateľ invalidného výsluhového dôchodku podľa osobitného predpisu<sup>2</sup>) vyplácaného po dovŕšení dôchodkového veku (ďalej len „poberateľ dôchodku po dovŕšení dôchodkového veku“), ak je
 
 - a) rodičom dieťaťa uvedeného v § 60a ods. 4 písm. a) alebo písm. b) a toto dieťa
 

@@ -1,6 +1,18 @@
 # § 82b Zvýšenie sumy starobného dôchodku a sumy invalidného dôchodku vyplácaného po dovŕšení dôchodkového veku na sumu minimálneho dôchodku
 
-(1) Suma minimálneho dôchodku sa určuje podľa prílohy č. 4a.
+(1) Suma minimálneho dôchodku je
+
+- a) 136 % sumy životného minima pre jednu plnoletú fyzickú osobu podľa osobitného predpisu<sup>56</sup>) platnej k 1. januáru kalendárneho roka, v ktorom sa určuje suma starobného dôchodku alebo suma invalidného dôchodku vyplácaného po dovŕšení dôchodkového veku, ak poistenec získal obdobie dôchodkového poistenia podľa odseku 3 v rozsahu 30 rokov, alebo
+
+- b) percentuálna výmera podľa písmena a) zvýšená o
+
+  - 1. dva percentuálne body za každý ďalší rok obdobia dôchodkového poistenia podľa odseku 3 v rozsahu 31 až 39 rokov obdobia dôchodkového poistenia podľa odseku 3,
+
+  - 2. tri percentuálne body za každý ďalší rok obdobia dôchodkového poistenia podľa odseku 3 v rozsahu 40 až 49 rokov obdobia dôchodkového poistenia podľa odseku 3,
+
+  - 3. päť percentuálnych bodov za každý ďalší rok obdobia dôchodkového poistenia podľa odseku 3 v rozsahu 50 až 59 rokov obdobia dôchodkového poistenia podľa odseku 3,
+
+  - 4. sedem percentuálnych bodov za každý ďalší rok obdobia dôchodkového poistenia podľa odseku 3 po získaní obdobia dôchodkového poistenia podľa odseku 3 v rozsahu 59 rokov.
 
 (2) Suma starobného dôchodku alebo suma invalidného dôchodku vyplácaného po dovŕšení dôchodkového veku sa zvýši tak, aby suma tohto dôchodku alebo úhrn súm podľa písmena c) sa rovnal sume minimálneho dôchodku, ak
 
