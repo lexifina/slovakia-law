@@ -134,6 +134,8 @@
 
 - 28) § 7 ods. 4 až 7 zákona č. 283/2002 Z. z. v znení zákona č. 81/2005 Z. z.
 
+- 28a) § 110 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 29) § 13 zákona č. 283/2002 Z. z. v znení zákona č. 81/2005 Z. z.
 
 - 29a) § 36 ods. 2 až 6 zákona č. 283/2002 Z. z. v znení neskorších predpisov.
