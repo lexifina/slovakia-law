@@ -42,6 +42,8 @@
 
 - 6k) § 2a ods. 1 písm. m) zákona č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 6l) Napríklad zákon č. 188/2023 Z. z. o transformácii Technického skúšobného ústavu Piešťany, š. p. na akciovú spoločnosť a o doplnení zákona č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov.
+
 - 7) § 348 Hospodárskeho zákonníka č. 109/1964 Zb. v znení neskorších predpisov.
 
 - 8) Napríklad § 303 a nasl. Obchodného zákonníka.
