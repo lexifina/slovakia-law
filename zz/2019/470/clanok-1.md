@@ -56,6 +56,78 @@ Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých z
 
 - od skončenia jeho prípravy na povolanie podľa osobitného predpisu<sup>9</sup>) neuplynuli viac ako dva roky.“.
 
+- 15. Za § 9 sa vkladá § 9a, ktorý znie:
+
+- „§ 9a
+
+- (1)
+
+- Občan, ktorý spĺňa podmienky podľa § 9 písm. a) a b) a § 38 ods. 1 písm. a) až e) a ktorý v priebehu posledných dvoch rokov štúdia na vysokej škole absolvoval odbornú stáž, sa na účely tohto zákona považuje za absolventa úspešného v prvej časti hromadného výberového konania. Občana, ktorý spĺňa podmienky podľa prvej vety, zaradí úrad vlády na základe jeho písomnej žiadosti do registra úspešných absolventov [§ 25 ods. 4 písm. b)]. Splnenie podmienok podľa prvej vety sa posudzuje ku dňu podania žiadosti. Na občana zaradeného do registra úspešných absolventov sa ustanovenia § 44 ods. 6, 9 a 10 použijú primerane.
+
+- (2)
+
+- Odbornou stážou podľa odseku 1 sa rozumie stáž podľa osobitného predpisu,<sup>9a</sup>) ktorej účelom je zvyšovanie úrovne vedomostí a získavanie praktických skúseností súvisiacich s vykonávaním štátnej služby, realizovaná formou pôsobenia študenta vysokej školy v organizačnom útvare služobného úradu na základe dohody služobného úradu s fakultou vysokej školy alebo s vysokou školou.
+
+- (3)
+
+- Žiadosť podľa odseku 1 musí obsahovať tieto údaje občana:
+
+- a)
+
+- meno a priezvisko,
+
+- b)
+
+- dátum narodenia,
+
+- c)
+
+- rodné číslo,
+
+- d)
+
+- občianstvo,
+
+- e)
+
+- telefonický kontakt,
+
+- f)
+
+- e-mailový kontakt,
+
+- g)
+
+- dátum úspešného ukončenia vysokoškolského štúdia,
+
+- h)
+
+- dôvod podania žiadosti a
+
+- i)
+
+- iné údaje nevyhnutné pre zaradenie do registra úspešných absolventov.
+
+- (4)
+
+- K žiadosti podľa odseku 1 je potrebné pripojiť
+
+- a)
+
+- kópiu dokladu o dosiahnutí vysokoškolského vzdelania,
+
+- b)
+
+- čestné vyhlásenie o bezúhonnosti,
+
+- c)
+
+- kópiu potvrdenia o absolvovaní odbornej stáže.“.
+
+  - Poznámka pod čiarou k odkazu 9a znie:
+
+  - „<sup>9a</sup>) § 51 ods. 2 zákona č. 131/2002 Z. z. v znení zákona č. 455/2012 Z. z.“.
+
 - 16. V § 10 ods. 1 sa na konci pripája táto veta: „Štátny zamestnanec môže vykonávať štátnu službu na tom istom štátnozamestnaneckom mieste najviac v dvoch odboroch štátnej služby.“.
 
 - 17. V § 12 ods. 2 sa na konci pripája táto veta: „Predseda rady môže písomne poveriť iného člena rady ako svojho zástupcu, ktorý ho zastupuje v čase jeho neprítomnosti v rozsahu určenom v poverení.“.
@@ -273,6 +345,14 @@ Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých z
 - (4)
 
 - Úrad vlády ustanoví vykonávacím právnym predpisom podrobnosti o systemizácii štátnozamestnaneckých miest, o štátnozamestnaneckom mieste vhodnom pre absolventa, o minimálnom počte štátnozamestnaneckých miest v organizačných útvaroch ministerstiev a ostatných ústredných orgánov štátnej správy a o oznamovacej povinnosti služobného úradu podľa odseku 1.“.
+
+- 46. V § 23 sa za odsek 3 vkladá nový odsek 4, ktorý znie:
+
+- „(4)
+
+- Služobný úrad vedie systemizáciu štátnozamestnaneckých miest aj v registri štátnozamestnaneckých miest.“.
+
+  - Doterajší odsek 4 sa označuje ako odsek 5.
 
 - 47. § 24 vrátane nadpisu znie:
 
@@ -1395,6 +1475,14 @@ Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých z
 - (5)
 
 - Etický kódex štátneho zamestnanca vydaný podľa tohto zákona v znení účinnom do 31. decembra 2019 sa považuje za Etický kódex štátneho zamestnanca vydaný podľa tohto zákona v znení účinnom od 1. januára 2020.“.
+
+- 228. Za § 193d sa vkladá § 193e, ktorý vrátane nadpisu znie:
+
+- „§ 193e
+
+- Prechodné ustanovenie k úprave účinnej od 1. februára 2022
+
+- Za odbornú stáž podľa § 9a sa považuje aj odborná stáž absolvovaná v období od 1. septembra 2018 do 31. januára 2022.“.
 
 - 229. V čl. XI sa vypúšťajú slová „§ 23 ods. 6 a“ a slová „1. augusta 2021“ sa nahrádzajú slovami „1. februára 2022“.
 
