@@ -178,15 +178,15 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 77. | Posudzovanie vplyvov na životné prostredie | osvedčenie o odbornej spôsobilosti | § 61 zákona č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov |
 
-- 78. | Oprávnené merania emisií, všeobecných podmienok prevádzkovania, alebo technických požiadaviek na stacionárnych zdrojoch ovzdušia | osvedčenie o osobitnej odbornej spôsobilosti na odborné činnosti v členení podľa § 20 ods. 1 zákona č. 137/2010 Z. z. | § 20 zákona č. 137/2010 Z. z. o ovzduší |
+- 78. | Oprávnené merania emisií, všeobecných podmienok prevádzkovania alebo technických požiadaviek na stacionárnych zdrojoch ovzdušia | Osvedčenie o osobitnej odbornej spôsobilosti podľa § 58 ods. 1 zákona č. 146/2023 Z. z. o ochrane ovzdušia a o zmene a doplnení niektorých zákonov. | Príloha č. 9 k zákonu č. 146/2023 Z. z. o ochrane ovzdušia a o zmene a doplnení niektorých zákonov. |
 
 - | Oprávnené merania parametrov kvality ovzdušia | | |
 
-- | Oprávnené kaliberácie automatizovaných meracích systémov emisií, alebo kvality ovzdušia | | |
+- | Oprávnené kalibrácie automatizovaných meracích systémov emisií alebo kvality ovzdušia | | |
 
-- | Oprávnené skúšky automatizovaných meracích systémov emisií, alebo kvality ovzdušia | | |
+- | Oprávnené skúšky automatizovaných meracích systémov emisií alebo kvality ovzdušia | | |
 
-- | Oprávnené inšpekcie zhody automatizovaných meracích systémov emisií, alebo kvality ovzdušia | | |
+- | Oprávnené inšpekcie zhody automatizovaných meracích systémov emisií alebo kvality ovzdušia | | |
 
 - 79. | Pravidelná kontrola vykurovacích systémov, pravidelná kontrola klimatizačných systémov | potvrdenie o zápise do zoznamu odborne spôsobilých osôb | § 7 ods. 1 zákona č. 314/2012 Z. z. o pravidelnej kontrole vykurovacích systémov a klimatizačných systémov a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov |
 

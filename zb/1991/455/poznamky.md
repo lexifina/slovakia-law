@@ -140,7 +140,7 @@
 
 - 23l) § 84 ods. 4 a 6 zákona č. 106/2018 Z. z.
 
-- 23m) § 11 ods. 3 zákona č. 309/1991 Zb. o ochrane ovzdušia pred znečisťujúcimi látkami (zákon o ovzduší) v znení zákona Národnej rady Slovenskej republiky č. 148/1994 Z. z.
+- 23m) § 56 ods. 1 písm. a) až c) zákona č. 146/2023 Z. z. o ochrane ovzdušia a o zmene a doplnení niektorých zákonov.
 
 - 23n) § 7 ods. 1 zákona č. 76/1998 Z. z. o ochrane ozónovej vrstvy Zeme a o doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
