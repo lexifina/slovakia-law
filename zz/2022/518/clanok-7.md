@@ -524,6 +524,44 @@ Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona �
 
 - povinnosti podľa § 8a ods. 4.“.
 
+- 63. V § 25 odseky 4 a 5 znejú:
+
+- „(4)
+
+- Zdravotná poisťovňa je oprávnená poskytovať orgánom verejnej moci a iným orgánom podľa osobitného predpisu<sup>55a</sup>) na účely plnenia úloh podľa osobitného predpisu vrátane použitia na účely výkonu verejnej moci<sup>55b</sup>) prostredníctvom informačného systému verejnej správy podľa osobitného predpisu<sup>55c</sup>) elektronicky alebo na základe žiadosti orgánu verejnej moci a iného orgánu podľa osobitného<sup>55d</sup>) na účely plnenia úloh podľa osobitného predpisu<sup>55da</sup>) aj inou formou bez súhlasu dotknutých fyzických osôb a právnických osôb
+
+- a)
+
+- údaje o platiteľoch poistného podľa § 11 ods. 1 písm. a) až c) v rozsahu uvedenom v odseku 3 písm. a) až c),
+
+- b)
+
+- informáciu o pohľadávkach po splatnosti voči platiteľovi poistného podľa § 11 ods. 1 písm. a) až c) a výšku týchto pohľadávok,
+
+- c)
+
+- informáciu o nesplnení povinnosti poistenca podľa § 23 ods. 1 písm. b) alebo nesplnení povinnosti platiteľa poistného podľa § 20 ods. 1.
+
+- (5)
+
+- Zdravotná poisťovňa na žiadosť orgánu verejnej moci podľa osobitného predpisu<sup>55db</sup>) poskytne prostredníctvom informačného systému verejnej správy podľa osobitného predpisu<sup>55c</sup>) alebo inou formou na účely preukázania skutočnosti ustanovenej osobitným predpisom<sup>55b</sup>) informáciu o evidovaných pohľadávkach po splatnosti ku dňu poskytnutia informácie a informáciu o nesplnení povinnosti poistenca podľa § 23 ods. 1 písm. b) alebo platiteľa poistného podľa § 20 ods. 1. Zdravotná poisťovňa na žiadosť súdu poskytne prostredníctvom informačného systému verejnej správy podľa osobitného predpisu<sup>55c</sup>) na účely preukázania skutočnosti ustanovenej osobitným predpisom<sup>55dc</sup>) informáciu o evidovaných pohľadávkach po splatnosti ku dňu poskytnutia informácie, informáciu o evidovaných záväzkoch, ktoré vznikli z titulu preplatku na zdravotnom poistení, z titulu zmluvy o poskytovaní zdravotnej starostlivosti alebo z titulu podľa osobitného predpisu.<sup>53aab</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 55a až 55d a 55da až 55dc znejú:
+
+  - „<sup>55a</sup>) Napríklad § 5 ods. 1, § 6 ods. 1, § 7 ods. 1, § 8 ods. 1, § 9 ods. 1 a § 10 ods. 1 zákona č. 292/2014 Z. z. o príspevku poskytovanom z európskych štrukturálnych a investičných fondov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 5 ods. 1 písm. a), § 6 ods. 1, § 8 ods. 1, § 9 ods. 1, § 10 ods. 1, § 11 ods. 1 a § 12 ods. 1 zákona č. 121/2022 Z. z. o príspevkoch z fondov Európskej únie a o zmene a doplnení niektorých zákonov, § 5 ods. 1, § 6 ods. 1, § 7 ods. 1, § 8, § 9 ods. 1 a § 10 ods. 1 zákona č. 323/2015 Z. z. o finančných nástrojoch financovaných z európskych štrukturálnych a investičných fondov a o zmene a doplnení niektorých zákonov, § 4 ods. 1, § 5 ods. 1, § 6 ods. 1 a § 7 ods. 1 zákona č. 368/2021 Z. z. o mechanizme na podporu obnovy a odolnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 5 ods. 1 a § 9 ods. 1 zákona č. 280/2017 Z. z. o poskytovaní podpory a dotácie v pôdohospodárstve a rozvoji vidieka a o zmene zákona č. 292/2014 Z. z. o príspevku poskytovanom z európskych štrukturálnych a investičných fondov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 17 ods. 6 zákona č. 305/2013 Z. z. v znení neskorších predpisov, § 24 ods. 6 zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov, § 2 ods. 3 a 4 zákona č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov, § 7 ods. 3 zákona č. 222/2022 Z. z. o štátnej podpore nájomného bývania a o zmene a doplnení niektorých zákonov.
+
+  - <sup>55b</sup>) Napríklad § 5 ods. 2 a 3, § 6 ods. 2, § 7 ods. 2, § 8 ods. 2, § 9 ods. 2 a § 10 ods. 2 zákona č. 292/2014 Z. z. v znení neskorších predpisov, § 5 ods. 2, § 6 ods. 2 a 3, § 8 ods. 2, § 9 ods. 2, § 10 ods. 2, § 11 ods. 2 a 3 a § 12 ods. 2 zákona č. 121/2022 Z. z., § 5 ods. 1, § 6 ods. 2, § 7 ods. 2 a 3, § 8, § 9 ods. 1 a § 10 ods. 2 zákona č. 323/2015 Z. z., § 4 ods. 2 až 4, § 5 ods. 2, § 6 ods. 2 a § 7 ods. 2 zákona č. 368/2021 Z. z. v znení neskorších predpisov, § 5 ods. 2 a § 10 zákona č. 280/2017 Z. z. v znení neskorších predpisov, § 17 ods. 6 zákona č. 305/2013 Z. z. v znení neskorších predpisov, § 24 ods. 6 zákona č. 575/2001 Z. z. v znení neskorších predpisov, § 2 ods. 3 a 4 zákona č. 10/1996 Z. z. v znení neskorších predpisov, § 7 ods. 3 zákona č. 222/2022 Z. z.
+
+  - <sup>55c</sup>) § 10 ods. 3 písm. h) zákona č. 305/2013 Z. z. v znení neskorších predpisov.
+
+  - <sup>55d</sup>) Napríklad § 5 ods. 1 zákona č. 292/2014 Z. z. v znení neskorších predpisov, § 8 ods. 1 zákona č. 121/2022 Z. z., § 7 ods. 1 zákona č. 368/2021 Z. z. v znení neskorších predpisov, § 5 ods. 1 zákona č. 323/2015 Z. z., § 24 ods. 6 zákona č. 575/2001 Z. z. v znení neskorších predpisov, § 2 ods. 3 a 4 zákona č. 10/1996 Z. z. v znení neskorších predpisov.
+
+  - <sup>55da</sup>) Napríklad § 5 ods. 2 a 3 zákona č. 292/2014 Z. z. v znení neskorších predpisov, § 8 ods. 2 zákona č. 121/2022 Z. z., § 7 ods. 2 zákona č. 368/2021 Z. z. v znení neskorších predpisov, § 5 ods. 1 zákona č. 323/2015 Z. z., § 24 ods. 6 zákona č. 575/2001 Z. z. v znení neskorších predpisov, § 2 ods. 3 a 4 zákona č. 10/1996 Z. z. v znení neskorších predpisov.
+
+  - <sup>55db</sup>) Napríklad zákon č. 177/2018 Z. z. v znení zákona č. 221/2019 Z. z., § 7 ods. 3 zákona č. 222/2022 Z. z., § 5 ods. 1, § 6 ods. 1, § 7 ods. 1, § 8 ods. 1, § 9 ods. 1 a § 10 ods. 1 zákona č. 292/2014 Z. z. v znení neskorších predpisov, § 5 ods. 1 písm. a), § 6 ods. 1, § 8 ods. 1, § 9 ods. 1, § 10 ods. 1, § 11 ods. 1 a § 12 ods. 1 zákona č. 121/2022 Z. z., § 5 ods. 1, § 6 ods. 1, § 7 ods. 1, § 8, § 9 ods. 1 a § 10 ods. 1 zákona č. 323/2015 Z. z., § 5 ods. 1, § 6 ods. 1 a § 7 ods. 1 zákona č. 368/2021 Z. z. v znení neskorších predpisov, § 5 ods. 1 a § 9 ods. 1 zákona č. 280/2017 Z. z., § 24 ods. 6 zákona č. 575/2001 Z. z. v znení neskorších predpisov, § 2 ods. 3 a 4 zákona č. 10/1996 Z. z. v znení neskorších predpisov.
+
+  - <sup>55dc</sup>) § 197 až 201 zákona č. 161/2015 Z. z. Civilný mimosporový poriadok v znení neskorších predpisov.“.
+
 - 64. V § 27d ods. 1 sa slovo „dva“ nahrádza slovom „tri“.
 
 - 65. V § 27e ods. 4 sa slová „odseku 7 písm. d)“ nahrádzajú slovami „odseku 8 písm. e)“.
