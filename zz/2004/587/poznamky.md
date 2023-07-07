@@ -34,7 +34,7 @@
 
 - 11a) § 2 písm. d) zákona č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov.
 
-- 11aa) § 18 ods. 6 písm. c) zákona č. 414/2012 Z. z. v znení zákona č. 399/2014 Z. z.
+- 11aa) § 18 ods. 4 písm. a) zákona č. 414/2012 Z. z. v znení neskorších predpisov.
 
 - 11b) § 79 ods. 7 zákona č. 364/2004 Z. z. v znení neskorších predpisov.
 
@@ -92,9 +92,9 @@
 
 - 12g) § 8a ods. 5 zákona č. 523/2004 Z. z.
 
-- 12h) § 26 ods. 4 a 5 zákona č. 414/2012 Z. z.
+- 12h) § 26 ods. 2 zákona č. 414/2012 Z. z. v znení neskorších predpisov.
 
-- 12i) § 26 odsek 4 zákona č. 414/2012 Z. z.
+- 12i) § 26 ods. 2 zákona č. 414/2012 Z. z. v znení neskorších predpisov.
 
 - 12j) § 25 písm. f) zákona č. 7/2010 Z. z. o ochrane pred povodňami v znení zákona č. 292/2017 Z. z.
 
@@ -120,7 +120,7 @@
 
 - 12s) § 18 ods. 15 zákona č. 414/2012 Z. z. v znení zákona č. 535/2021 Z. z.
 
-- 12t) § 26 ods. 4 zákona č. 414/2012 Z. z. v znení zákona č. 535/2021 Z. z.
+- 12t) Vykonávacie nariadenie Komisie (Eú) 2020/1001 z 9. júla 2020, ktorým sa stanovujú podrobné pravidlá uplatňovania smernice Európskeho parlamentu a Rady 2003/87/ES, pokiaľ ide o prevádzkovanie modernizačného fondu na podporu investícií na modernizáciu energetických systémov a zlepšenie energetickej efektívnosti niektorých členských štátov.
 
 - 13) § 30 ods. 2 zákona č. 523/2004 Z. z.
 
@@ -142,7 +142,19 @@
 
 - 21a) Napríklad § 225, § 259, § 328 a nasl. zákona č. 300/2005 Z. z. Trestný zákon v znení neskorších predpisov.
 
+- 21aa) § 300 a nasl. zákona č. 300/2005 Z. z. Trestný zákon.
+
 - 21b) § 10 zákona č. 91/2016 Z. z. o trestnej zodpovednosti právnických osôb a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 21c) Zákon č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Nariadenie Európskeho parlamentu a Rady (EÚ) č. 952/2013 z 9. októbra 2013, ktorým sa ustanovuje Colný kódex Únie (prepracované znenie) (Ú. v. EÚ L 269, 10. 10. 2013) v platnom znení.
+
+- 21d) § 25 ods. 5 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 221/2019 Z. z.
+
+- 21e) § 170 ods. 21 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+
+- 21f) Zákon č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 22) Zákon č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov.
 
@@ -151,6 +163,10 @@
 - 22b) § 31 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
 
 - 22ba) § 4 ods. 4 písm. b) až e) zákona č. 357/2015 Z. z.
+
+- 22bb) § 31 ods. 14 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
+
+- § 22 ods. 6 zákona č. 357/2015 Z. z. v znení neskorších predpisov.
 
 - 23) § 5 a 9 zákona č. 525/2003 Z. z.
 
