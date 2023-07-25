@@ -1,0 +1,3 @@
+# Čl. II
+
+Táto vyhláška nadobúda účinnosť 25. júla 2023.
