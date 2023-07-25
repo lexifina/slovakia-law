@@ -1,0 +1,1 @@
+- 1) Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.
