@@ -54,6 +54,8 @@
 
 - 4aa) Napríklad § 3 ods. 5 zákona č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
+- 4aaa) Zákon č. 261/2023 Z. z. o žalobách na ochranu kolektívnych záujmov spotrebiteľov a o zmene a doplnení niektorých zákonov.
+
 - 4ab) Zákon č. 327/2005 Z. z. o poskytovaní právnej pomoci osobám v materiálnej núdzi a o zmene a doplnení zákona č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 8/2005 Z. z.
 
 - 4b) Civilný sporový poriadok. Správny súdny poriadok.
