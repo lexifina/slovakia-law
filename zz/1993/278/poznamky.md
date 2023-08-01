@@ -108,6 +108,8 @@
 
 - 21) § 659 a nasl. Občianskeho zákonníka.
 
+- 21a) Zákon č. 284/2023 Z. z. o niektorých vzťahoch súvisiacich s nájmom nehnuteľného majetku štátu a o doplnení zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
+
 - 22) § 43i ods. 1 zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
 
 - 22a) § 43a ods. 3 písm. f), g), h) a i) zákona č. 50/1976 Zb. v znení neskorších predpisov.
