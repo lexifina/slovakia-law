@@ -1,0 +1,1 @@
+Pavol Lančarič v. r.
