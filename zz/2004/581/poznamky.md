@@ -400,6 +400,14 @@
 
 - Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 41bfa) § 8 ods. 4 zákona č. 131/2010 Z. z. o pohrebníctve v znení neskorších predpisov.
+
+- 41bfb) § 11 ods. 3 zákona č. 131/2010 Z. z. v znení neskorších predpisov.
+
+- 41bfc) § 13 ods. 3 zákona č. 131/2010 Z. z. v znení neskorších predpisov.
+
+- 41bfd) § 17 ods. 4 zákona č. 131/2010 Z. z. v znení neskorších predpisov.
+
 - 41bg) Zákon č. 453/2003 Z. z. o orgánoch štátnej správy v oblasti sociálnych vecí, rodiny a služieb zamestnanosti a o zmene a doplnení niektorých zákonov.
 
 - 41c) § 3 až 11 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
