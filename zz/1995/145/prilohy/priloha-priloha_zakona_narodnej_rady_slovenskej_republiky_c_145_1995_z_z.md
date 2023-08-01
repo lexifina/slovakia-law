@@ -4746,11 +4746,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 6.3.
 
-  - Slovenská republika nie je spravodajským členským štátom a klinické skúšanie nezahŕňa lieky na inovatívnu liečbu alebo lieky uvedené v osobitnom predpise<sup>36md</sup>) ...................................................................................................... 4 900 eur
+  - Slovenská republika nie je spravodajským členským štátom a klinické skúšanie nezahŕňa lieky na inovatívnu liečbu alebo lieky uvedené v osobitnom predpise<sup>36md</sup>) ...................................................................................................... 4 200 eur
 
   - 6.4.
 
-  - Slovenská republika nie je spravodajským členským štátom a klinické skúšanie zahŕňa skúšané lieky na inovatívnu liečbu alebo lieky uvedené v osobitnom predpise<sup>36md</sup>) ....................................................................................... 4 200 eur
+  - Slovenská republika nie je spravodajským členským štátom a klinické skúšanie zahŕňa skúšané lieky na inovatívnu liečbu alebo lieky uvedené v osobitnom predpise<sup>36md</sup>) ....................................................................................... 4 900 eur
 
   - 7.
 
@@ -4800,10 +4800,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - zahŕňa lieky na inovatívnu liečbu alebo lieky uvedené v osobitnom predpise<sup>36md</sup>) ....................................................................................................... 2 100 eur
 
-  - 11.
-
-  - Výkon inšpekcie správnej klinickej praxe<sup>36mg</sup>) a vyhotovenie správy z inšpekcie ...................................................................................................................... 1 200 eur
-
     - Oslobodenie
 
     - Od poplatkov podľa písmen s) až v) je účastník konania oslobodený, ak predmetom žiadosti je
@@ -4832,35 +4828,35 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
       - 1. Zmena v registrácii podmienená nariadením Európskej komisie sa nespoplatňuje.
 
-      - 2. Poplatok podľa písmena g) až z) musí byť uhradený najneskôr do siedmich dní odo dňa doručenia žiadosti, inak sa konanie zastaví.
+      - 2. Poplatok podľa písmena f) až y) musí byť uhradený najneskôr do siedmich dní odo dňa doručenia žiadosti, inak sa konanie zastaví.
 
-      - 3. Ak konanie podľa písmen g) až z) bolo zastavené, uhradené poplatky sa nevracajú.
+      - 3. Ak konanie podľa písmen f) až y) bolo zastavené, uhradené poplatky sa nevracajú.
 
-      - 4. Poplatok podľa písmena i) sa zníži o
+      - 4. Poplatok podľa písmena h) sa zníži o
 
         - a) 40 %, ak je navrhovaná celková suma úhrad za liek alebo za spoločne posudzované lieky do 400 000 eur za 24 po sebe nasledujúcich mesiacov od nadobudnutia vykonateľnosti rozhodnutia o zaradení lieku do zoznamu kategorizovaných liekov,
 
         - b) 25 %, ak je navrhovaná celková suma úhrad za liek alebo za spoločne posudzované lieky viac ako 400 000 eur, ale menej ako 1 000 000 eur za 24 po sebe nasledujúcich mesiacov od nadobudnutia vykonateľnosti rozhodnutia o zaradení lieku do zoznamu kategorizovaných liekov.
 
-      - 6. Poplatok podľa písmen l) až n) sa zníži o
+      - 6. Poplatok podľa písmen k) až m) sa zníži o
 
         - a) 75 %, ak je navrhovaná celková suma úhrad za zdravotnícku pomôcku alebo dietetickú potravinu najviac 2 000 eur za 24 po sebe nasledujúcich mesiacov od nadobudnutia vykonateľnosti rozhodnutia o zaradení zdravotníckej pomôcky do zoznamu kategorizovaných zdravotníckych pomôcok alebo rozhodnutia o zaradení dietetickej potraviny do zoznamu kategorizovaných dietetických potravín,
 
         - b) 50 %, ak je navrhovaná celková suma úhrad za zdravotnícku pomôcku alebo dietetickú potravinu viac ako 2 000 eur, ale menej ako 100 000 eur za 24 po sebe nasledujúcich mesiacov od nadobudnutia vykonateľnosti rozhodnutia o zaradení zdravotníckej pomôcky do zoznamu kategorizovaných zdravotníckych pomôcok alebo rozhodnutia o zaradení dietetickej potraviny do zoznamu kategorizovaných dietetických potravín.
 
-      - 7. Poplatok podľa písmena w) sa zníži o
+      - 7. Poplatok podľa písmena v) sa zníži o
 
         - a) 100 %, ak je reálna celková suma úhrad za liek alebo za spoločne posudzované lieky najviac 10 000 eur za 12 kalendárnych mesiacov predchádzajúcich dňu podania žiadosti,
 
         - b) 50 %, ak je reálna celková suma úhrad za liek alebo za spoločne posudzované lieky viac ako 10 000 eur, ale menej ako 50 000 eur za 12 kalendárnych mesiacov predchádzajúcich dňu podania žiadosti.
 
-      - 8. Poplatok podľa písmen x) až z) sa zníži o
+      - 8. Poplatok podľa písmen w) až y) sa zníži o
 
         - a) 100 %, ak je reálna celková suma úhrad za zdravotnícku pomôcku alebo dietetickú potravinu najviac 1 000 eur za 12 kalendárnych mesiacov predchádzajúcich dňu podania žiadosti,
 
         - b) 50 %, ak je reálna celková suma úhrad za zdravotnícku pomôcku alebo dietetickú potravinu viac ako 1 000 eur, ale menej ako 50 000 eur za 12 kalendárnych mesiacov predchádzajúcich dňu podania žiadosti.
 
-      - 9. Ak suma úhrad zdravotných poisťovní za liek, dietetickú potravinu, zdravotnícku pomôcku za 24 mesiacov odo dňa nadobudnutia vykonateľnosti rozhodnutia o zaradení lieku alebo podmienenom zaradení lieku do zoznamu kategorizovaných liekov, zaradení zdravotníckej pomôcky do zoznamu kategorizovaných zdravotníckych pomôcok alebo do zoznamu špeciálnych zdravotníckych materiálov alebo zaradení dietetickej potraviny do zoznamu kategorizovaných dietetických potravín bola vyššia ako celková suma úhrad za liek, zdravotnícku pomôcku alebo dietetickú potravinu navrhnutá v žiadosti, osoba, ktorá podávala žiadosť, je povinná na základe výzvy (§ 8) Ministerstva zdravotníctva Slovenskej republiky uhradiť rozdiel medzi poplatkom uvedeným v položkách i), k) až n) a uhradeným poplatkom.
+      - 9. Poplatok podľa písmena ad) sa znižuje na 5 eur, ak ide o nekomerčné klinické skúšanie.
 
   - Položka 152a
 

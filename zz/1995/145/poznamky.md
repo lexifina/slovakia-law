@@ -434,7 +434,7 @@
 
 - 36mg) Kapitola VIII nariadenia (EÚ) č. 536/2014.
 
-- 36mh) § 110b ods. 8 zákona č. 362/2011 Z. z.
+- 36mh) § 110a ods. 3 písm. a) zákona č. 362/2011 Z. z.
 
 - 36mi) Čl. 70, čl. 78, čl. 82, príloha XV kapitola II nariadenia Európskeho parlamentu a Rady (EÚ) 2017/745 z 5. apríla 2017 o zdravotníckych pomôckach, zmene smernice č. 2001/83/ES, nariadenia (ES) č. 178/2002 a nariadenia (ES) č. 1223/2009 a o zrušení smerníc Rady č. 90/385/EHS a 93/42/EHS (Ú. v. EÚ L 117, 5. 5. 2017) v platnom znení.
 
