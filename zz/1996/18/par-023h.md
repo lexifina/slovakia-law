@@ -1,0 +1,3 @@
+# § 23h Prechodné ustanovenie k úpravám účinným od 1. augusta 2023
+
+Ministerstvo je povinné v lehote do 30 dní vykonať analýzu cenového vývoja základných druhov potravín<sup>25</sup>) vychádzajúc z miery inflácie, ekonomicky oprávnených nákladov a primeranej ziskovej prirážky, kalkulácie nákladov a zisku a iných dokladov odôvodňujúcich výšku ceny, ktoré si vyžiada cenový orgán. Ak sa na základe tejto analýzy preukáže pretrvávanie mimoriadnej trhovej situácie s priamym vplyvom na ceny základných potravín na tuzemskom trhu ohrozujúcim cenovú stabilitu alebo dostupnosť základných potravín, cenový orgán navrhne opatrenia na obdobie šiestich mesiacov, ktoré bezodkladne navrhne vláde Slovenskej republiky na schválenie.

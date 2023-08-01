@@ -30,6 +30,12 @@
 
 - 10a) § 26 ods. 1 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
+- 10b) § 2 ods. 6 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+
+- 10c) § 9 ods. 2 písm. a) zákona č. 431/2002 Z. z.
+
+- 10d) § 17 ods. 4 písm. b) zákona č. 431/2002 Z. z.
+
 - 11) Zákon Slovenskej národnej rady č. 322/1992 Zb. o štátnej štatistike v znení neskorších predpisov.
 
 - 12) Zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení neskorších predpisov.
@@ -58,6 +64,12 @@
 
 - 19a) Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 
+- 19aa) Zákon č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov.
+
+- 19aaa) Zákon č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov.
+
+- 19ab) Zákon č. 128/2002 Z. z. v znení neskorších predpisov.
+
 - 20) § 7 písm. h) Správneho súdneho poriadku.
 
 - 21) § 3 zákona Slovenskej národnej rady č. 500/1991 Zb. o pôsobnosti obcí vo veciach nájmu a podnájmu nebytových priestorov.
@@ -65,3 +77,5 @@
 - 23) Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
 - 24) Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
+
+- 25) Príloha č. 7 k zákonu č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.
