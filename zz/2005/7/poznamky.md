@@ -222,4 +222,6 @@
 
 - 33j) § 2 ods. 1 písm. t) zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
 
+- 33o) Napríklad Obchodný zákonník, zákon č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov, zákon č. 171/1993 Z. z. v znení neskorších predpisov, zákon č. 483/2001 Z. z. v znení neskorších predpisov, zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností v znení neskorších predpisov, zákon č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) v znení neskorších predpisov, zákon č. 563/2009 Z. z. v znení neskorších predpisov, zákon č. 500/2022 Z. z. o Vojenskom spravodajstve.
+
 - 34) § 2 písm. a) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
