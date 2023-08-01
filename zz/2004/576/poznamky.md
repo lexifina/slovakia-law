@@ -1,8 +1,16 @@
 - 1) § 2 ods. 1 písm. b) zákona č. 579/2004 Z. z. o záchrannej zdravotnej službe a o zmene a doplnení niektorých zákonov.
 
-- 1b) § 123 ods. 1 písm. f) zákona č. 281/2015 Z. z. v znení zákona č. 420/2022 Z. z.
+- 1a) § 46 ods. 1 zákona č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 1c) § 8 ods. 1 písm. c) zákona č. 579/2004 Z. z. v znení zákona č. 284/2008 Z. z.
+- 1b) § 46 ods. 3 zákona č. 362/2011 Z. z. v znení neskorších predpisov.
+
+- 1c) Nariadenie Európskeho parlamentu a Rady (EÚ) 2017/745 z 5. apríla 2017 o zdravotníckych pomôckach, zmene smernice 2001/83/ES, nariadenia (ES) č. 178/2002 a nariadenia (ES) č. 1223/2009 a o zrušení smerníc Rady 90/385/EHS a 93/42/EHS (Ú. v. EÚ L 117, 5. 5. 2017) v platnom znení.
+
+- 1d) Nariadenie Európskeho parlamentu a Rady (EÚ) 2017/746 z 5. apríla 2017 o diagnostických zdravotníckych pomôckach in vitro a o zrušení smernice 98/79/ES a rozhodnutia Komisie 2010/227/EÚ (Ú. v. EÚ L 117, 5. 5. 2017) v platnom znení.
+
+- 1e) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 609/2013 z 12. júna 2013 o potravinách určených pre dojčatá a malé deti, potravinách na osobitné lekárske účely a o celkovej náhrade stravy na účely regulácie hmotnosti a ktorým sa zrušuje smernica Rady 92/52/EHS, smernica Komisie 96/8/ES, 1999/21/ES, 2006/125/ES a 2006/141/ES, smernica Európskeho parlamentu a Rady 2009/39/ES a nariadenie Komisie (ES) č. 41/2009 a (ES) č. 953/2009 (Ú. v. EÚ L 181, 29. 6. 2013) v platnom znení.
+
+- § 6 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov.
 
 - 2) § 33 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov.
 
@@ -270,9 +278,11 @@
 
 - 39aa) § 9b ods. 5 zákona č. 578/2004 Z. z. v znení zákona č. 139/2019 Z. z.
 
-- 39aaa) § 111a až § 111h zákona č. 362/2011 Z. z.
+- 39aaa) Nariadenie Európskeho parlamentu a Rady (EÚ) 2017/745 z 5. apríla 2017 o zdravotníckych pomôckach, zmene smernice 2001/83/ES, nariadenia (ES) č. 178/2002 a nariadenia (ES) č. 1223/2009 a o zrušení smerníc Rady 90/385/EHS a 93/42/EHS (Ú. v. EÚ L 117, 5. 5. 2017) v platnom znení.
 
-- Nariadenie Európskeho parlamentu a Rady (EÚ) 2017/745 z 5. apríla 2017 o zdravotníckych pomôckach, zmene smernice 2001/83/ES, nariadenia (ES) č. 178/2002 a nariadenia (ES) č. 1223/2009 a o zrušení smerníc Rady 90/385/EHS a 93/42/EHS (Ú. v. EÚ L 117, 5. 5. 2017) v platnom znení.
+- Nariadenie Európskeho parlamentu a Rady (EÚ) 2017/746 z 5. apríla 2017 o diagnostických zdravotníckych pomôckach in vitro a o zrušení smernice 98/79/ES a rozhodnutia Komisie 2010/227/EÚ (Ú. v. EÚ L117, 5. 5. 2017) v platnom znení.
+
+- § 111 až § 111h zákona č. 362/2011 Z. z.
 
 - 39aab) § 29 až 44 zákona č. 362/2011 Z. z.
 
