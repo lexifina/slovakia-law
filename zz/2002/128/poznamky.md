@@ -56,19 +56,13 @@
 
 - 9f) Zákon č. 302/2019 Z. z. o zálohovaní jednorazových obalov na nápoje a o zmene a doplnení niektorých zákonov.
 
-- 10) § 6a zákona č. 634/1992 Zb. v znení neskorších predpisov.
+- 10) Napríklad zákon č. 56/2018 Z. z. o posudzovaní zhody výrobku, sprístupňovaní určeného výrobku na trhu a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 10a) Zákon č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+- 10a) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) 2017/1369 zo 4. júla 2017, ktorým sa stanovuje rámec pre energetické označovanie a zrušuje smernica 2010/30/EÚ (Ú. v. EÚ L 198, 28. 7. 2017) v platnom znení, zákon č. 657/2004 Z. z. v znení neskorších predpisov, zákon č. 555/2005 Z. z. v znení neskorších predpisov, zákon č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko účinnej kombinovanej výroby a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 529/2010 Z. z. o environmentálnom navrhovaní a používaní výrobkov (zákon o ekodizajne) v znení neskorších predpisov, zákon č. 251/2012 Z. z. v znení neskorších predpisov, zákon č. 314/2012 Z. z. o pravidelnej kontrole vykurovacích systémov a klimatizačných systémov a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov, zákon č. 307/2018 Z. z. o dohľade nad dodržiavaním povinností pri štítkovaní energeticky významných výrobkov a o zmene zákona č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 10aa) § 7a až 7c zákona č. 108/2000 Z. z. v znení zákona č. 367/2013 Z. z.
-
-- 10b) § 20 ods. 3 a § 25c ods. 4 zákona č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a pôžičkách pre spotrebiteľov a o zmene a doplnení niektorých zákonov v znení zákona č. 102/2014 Z. z.
-
-- 11) Napríklad § 25 a 28 zákona č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v znení zákona č. 128/2002 Z. z.
+- 10b) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) 2019/1020 z 20. júna 2019 o dohľade nad trhom a súlade výrobkov a o zmene smernice 2004/42/ES a nariadení (ES) č. 765/2008 a (EÚ) č. 305/2011 (Ú. v. EÚ L 169, 25. 6. 2019), zákon č. 251/2012 Z. z. v znení neskorších predpisov, zákon č. 56/2018 Z. z. o posudzovaní zhody výrobku, sprístupňovaní určeného výrobku na trhu a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 281/2023 Z. z. o všeobecnej bezpečnosti výrobkov a o zmene a doplnení niektorých zákonov.
 
 - 11a) § 6 ods. 2 a 3 zákona č. 377/2004 Z. z. v znení zákona č. 87/2009 Z. z.
-
-- 11b) Zákon č. 391/2015 Z. z. o alternatívnom riešení spotrebiteľských sporov a o zmene a doplnení niektorých zákonov.
 
 - 11c) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
 
@@ -84,23 +78,15 @@
 
 - 14b) Napríklad § 13 ods. 3 zákona č. 264/1999 Z. z. v znení zákona č. 436/2001 Z. z., nariadenie vlády Slovenskej republiky č. 391/1999 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách na strojové zariadenia v znení nariadenia vlády Slovenskej republiky č. 475/2000 Z. z. a nariadenia vlády Slovenskej republiky č. 161/2002 Z. z., nariadenie vlády Slovenskej republiky č. 393/1999 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách na spotrebiče plynných palív v znení nariadenia vlády Slovenskej republiky č. 148/2002 Z. z., nariadenie vlády Slovenskej republiky č. 392/1999 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody pre elektrické zariadenia, ktoré sa používajú v určitom rozsahu napätia v znení nariadenia vlády Slovenskej republiky č. 149/2002 Z. z.
 
-- 15) § 6a zákona č. 634/1992 Zb. v znení neskorších predpisov.
+- 15) Napríklad nariadenie (EÚ) 2017/1369 v platnom znení, zákon č. 56/2018 Z. z. v znení neskorších predpisov, zákon č. 106/2018 Z. z. v znení neskorších predpisov, zákon č. 281/2023 Z. z.
 
-- 16) Zákon č. 152/1995 Z. z. v znení neskorších predpisov.
-
-- 17) § 18 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení neskorších predpisov.
-
-- 17a) Napríklad zákon č. 634/1992 Zb. v znení neskorších predpisov, zákon č. 264/1999 Z. z. v znení neskorších predpisov, zákon č. 178/1998 Z. z. v znení neskorších predpisov, zákon č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v znení neskorších predpisov, zákon č. 217/2003 Z. z. o podmienkach uvedenia biocídnych výrobkov na trh a o zmene a doplnení niektorých zákonov v znení zákona č. 434/2004 Z. z., zákon č. 182/2011 Z. z.
+- 17a) Napríklad zákon č. 529/2010 Z. z. v znení neskorších predpisov, zákon č. 56/2018 Z. z. v znení neskorších predpisov, zákon č. 281/2023 Z. z.
 
 - 18) Napríklad zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 106/2018 Z. z. v znení neskorších predpisov.
 
 - 18a) § 2 písm. a) zákona č. 22/2004 Z. z.
 
-- 18b) § 7 až 9 zákona č. 250/2007 Z. z.
-
-- 18c) Zákon č. 250/2007 Z. z.
-
-- 19) § 58 zákona č. 455/1991 Zb. v znení neskorších predpisov.
+- 19) § 58 ods. 2 písm. a) zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 19a) Nariadenie vlády Slovenskej republiky č. 397/1999 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na strelné zbrane a strelivo v znení neskorších predpisov.
 
@@ -108,7 +94,7 @@
 
 - 19c) Nariadenie vlády Slovenskej republiky č. 262/2016 Z. z. o vybavení námorných lodí.
 
-- 20) Napríklad § 11 zákona č. 264/1999 Z. z. v znení zákona č. 436/2001 Z. z.
+- 20) § 10 zákona č. 56/2018 Z. z.
 
 - 21) § 58 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
