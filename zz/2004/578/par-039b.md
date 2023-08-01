@@ -56,7 +56,7 @@
 
 (12) Rezidentské štúdium je možné prerušiť z dôvodu dočasnej pracovnej neschopnosti, materskej dovolenky alebo rodičovskej dovolenky, iných okolností hodných osobitného zreteľa alebo skončenia pracovného pomeru; na obdobie prerušenia rezidentského štúdia ministerstvo zdravotníctva pozastaví poskytovanie finančných prostriedkov. Rezidentské štúdium je možné z dôvodu skončenia pracovného pomeru prerušiť najviac na dva roky.
 
-(13) Ak zdravotnícky pracovník úspešne ukončil rezidentské štúdium v špecializačnom odbore všeobecné lekárstvo, je povinný
+(13) Ak zdravotnícky pracovník úspešne ukončil rezidentské štúdium v špecializačnom odbore, je povinný
 
 - a) do 12 mesiacov od úspešného absolvovania špecializačnej skúšky začať vykonávať špecializované pracovné činnosti pri vykonávaní zdravotníckeho povolania podľa § 3 ods. 4 písm. b) v samosprávnom kraji označenom v žiadosti o zaradenie zdravotníckeho pracovníka do rezidentského štúdia podľa odseku 6 písm. f) alebo do troch mesiacov od úspešného absolvovania špecializačnej skúšky začať vykonávať špecializované pracovné činnosti pri vykonávaní zdravotníckeho povolania podľa § 3 ods. 4 písm. a) v samosprávnom kraji označenom v žiadosti o zaradenie zdravotníckeho pracovníka do rezidentského štúdia podľa odseku 6 písm. f) v špecializačnom odbore, v ktorom úspešne ukončil rezidentské štúdium,
 
