@@ -332,6 +332,8 @@
 
 - 95aaa) Zákon č. 274/2007 Z. z. o príplatku k dôchodku politickým väzňom v znení neskorších predpisov.
 
+- 95b) Zákon č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 96) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov.
 
 - 96a) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -378,7 +380,11 @@
 
 - Vyhláška Štatistického úradu Slovenskej republiky č. 384/2015 Z. z., ktorou sa vydáva štatistická klasifikácia zamestnaní.
 
+- 101ba) § 30 ods. 8 zákona č. 540/2001 Z. z. v znení zákona č. 144/2021 Z. z.
+
 - 101c) Zákon č. 296/2020 Z. z. o 13. dôchodku a o zmene a doplnení niektorých zákonov.
+
+- 101d) § 2 ods. 2 písm. n) zákona č. 540/2001 Z. z. v znení zákona č. 144/2021 Z. z.
 
 - 102) Civilný sporový poriadok.
 
@@ -489,3 +495,7 @@
 - § 21 zákona č. 67/2020 Z. z.
 
 - 138) § 102at zákona č. 578/2004 Z. z. v znení zákona č. 518/2022 Z. z.
+
+- 139) Vyhláška Štatistického úradu Slovenskej republiky č. 306/2007 Z. z., ktorou sa vydáva Štatistická klasifikácia ekonomických činností.
+
+- 140) Zákon č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
