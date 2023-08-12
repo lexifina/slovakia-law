@@ -1,0 +1,1 @@
+Príloha č. 1 k vyhláške č. 326/2023 Z. z. [URČENIE MIERY RIZIKA A PRIORITY RIZIKA](../assets/f400fc9b10bb0f380ccd753e91948cadc172349cf2e7537d6d883cac7166c372.pdf)
