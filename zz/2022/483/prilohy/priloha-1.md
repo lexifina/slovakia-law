@@ -1,1 +1,1 @@
-Príloha č. 1 k opatreniu č. 483/2022 Z. z. [Platový koeficient príslušného štátu na obdobie od 1. januára 2023 do 31. augusta 2023](../assets/8c2dc77af55bad472daf077e45a80e4f548948730b58218ed3d8b7720204177f.pdf)
+Príloha č. 1 k opatreniu č. 483/2022 Z. z. [Platový koeficient príslušného štátu na obdobie od 1. januára 2023 do 31. augusta 2023](../assets/f604cdf9af66540db922660b03684608b6be5064ca72ac5d77045075671f25b4.pdf)
