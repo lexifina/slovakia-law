@@ -1,1 +1,1 @@
-Príloha č. 8 k vyhláške č. 287/2022 Z. z. [SKUPINA ŠTUDIJNÝCH ODBOROV PODĽA § 1 ODS. 9](../assets/ced17f9aedb60f2fb0a4c14350afee62079af2167f664ffa513e2c23db293f3c.pdf)
+Príloha č. 8 k vyhláške č. 287/2022 Z. z. [Príloha č. 8 k vyhláške č. 287/2022 Z. z.](../assets/57a11b2cc5ca44dd076c28c6f0cb24a0a9b8ac58cb422a17244c1d6bc8b8839d.pdf)

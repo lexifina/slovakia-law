@@ -1,1 +1,1 @@
-Príloha č. 5 k vyhláške č. 287/2022 Z. z. [SKUPINY ŠTUDIJNÝCH ODBOROV PODĽA § 1 ODS. 6 od 01.10.2022](../assets/ff0c6f6452bd48c78f2b5e81bdc088aeaf9cb84a7816b8958ad886cd816196bd.pdf)
+Príloha č. 5 k vyhláške č. 287/2022 Z. z. [Príloha č. 5 k vyhláške č. 287/2022 Z. z.](../assets/acadb8c7861c6779e25690e3290b2a566462698599cb22895b98291bb0bb9620.pdf)
