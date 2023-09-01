@@ -3696,13 +3696,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 101
 
-  - a) podanie žiadosti o povolenie na prevádzkovanie rádiových zariadení alebo podanie žiadosti o pridelenie frekvencií<sup>27b</sup>) | 6,50 eura
+  - a) vydanie individuálneho povolenia na používanie frekvencií<sup>27b)</sup> | 6,50 eura
 
-  - b) predĺženie doby platnosti individuálneho, prevádzkového, typového, osobitného povolenia na prevádzkovanie rádiových zariadení<sup>27c</sup>) | 6,50 eura
+  - b) predĺženie doby platnosti individuálneho povolenia na používanie frekvencií alebo podanie žiadosti o obnovenie práv na využívanie harmonizovaného frekvenčného spektra<sup>27c</sup>) | 6,50 eura
 
-  - c) vydanie amatérskeho povolenia na prevádzkovanie rádiových zariadení<sup>27d</sup>) alebo predĺženie doby jeho platnosti | 3 eurá
+  - c) vydanie individuálneho povolenia na používanie frekvencií na prevádzku amatérskej stanice<sup>27b</sup>) alebo predĺženie doby jeho platnosti<sup>27c</sup>) | 3 eurá
 
-  - d) podanie žiadosti o zmenu povolenia vydanom podľa tejto položky | 3 eurá
+  - d) zmena povolenia vydaného podľa tejto položky<sup>27d</sup>) | 3 eurá
 
     - Položka 102
 
@@ -3712,13 +3712,21 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 103
 
-  - a) vydanie osvedčenia o osobitnej odbornej spôsobilosti operátora amatérskych staníc, rádiotelefonistu leteckej pohyblivej služby alebo plavebnej pohyblivej služby<sup>27e</sup>)............................... | 20 eur
+  - a) vydanie osvedčenia osobitnej odbornej spôsobilosti operátora amatérskych staníc, rádiotelefonistu leteckej pohyblivej služby alebo operátora plavebnej pohyblivej služby<sup>27e</sup>) | 20 eur
 
-  - b) vydanie osvedčenia o osobitnej odbornej spôsobilosti pre ostatné druhy osvedčení<sup>27e</sup>)............... | 30 eur
+  - b) vydanie osvedčenia osobitnej odbornej spôsobilosti pre ostatné druhy osvedčení<sup>27e</sup>) | 30 eur
 
-  - c) opravná skúška pri overení podľa písmena a).................................................................................. | 3 eurá
+  - c) opravná skúška pre vydanie osvedčenia podľa písmena a) | 10 eur
 
-  - d) opravná skúška pri overení podľa písmena b).................................................................................. | 6,50 eura
+  - d) opravná skúška pre vydanie osvedčenia podľa písmena b) | 15 eur
+
+  - e) opakovaná skúška pre vydanie osvedčenia podľa písmena a) | 10 eur
+
+  - f) opakovaná skúška pre vydanie osvedčenia podľa písmena b) | 15 eur
+
+  - g) vyrovnávacia skúška a vydanie osvedčenia osobitnej odbornej spôsobilosti rádiotelefonistu leteckej pohyblivej služby alebo operátora plavebnej pohyblivej služby | 20 eur
+
+  - h) vyrovnávacia skúška a vydanie osvedčenia osobitnej odbornej spôsobilosti pre ostatné druhy osvedčení | 30 eur
 
     - Položka 104
 

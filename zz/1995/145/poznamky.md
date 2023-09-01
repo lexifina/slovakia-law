@@ -248,21 +248,21 @@
 
 - 25aaa) § 14 a 15 zákona č. 474/2013 Z. z. o výbere mýta za užívanie vymedzených úsekov pozemných komunikácií a o zmene a doplnení niektorých zákonov.
 
-- 26) § 67 až 67d, § 67f a 77 zákona č. 351/2011 Z. z. o elektronických komunikáciách v znení zákona č. 247/2015 Z. z.
+- 26) § 22, § 30 a 128 zákona č. 452/2021 Z. z. o elektronických komunikáciách v znení zákona č. 287/2023 Z. z.
 
-- 27) § 31 zákona č. 610/2003 Z. z.
+- 27) § 55 zákona č. 452/2021 Z. z. v znení zákona č. 287/2023 Z. z.
 
-- 27a) § 31 ods. 6 písm. f) zákona č. 610/2003 Z. z.
+- 27a) § 55 ods.10 písm. e) zákona č. 452/2021 Z. z.
 
-- 27b) § 32 zákona č. 610/2003 Z. z. v znení zákona č. 117/2006 Z. z.
+- 27b) § 35 zákona č. 452/2021 Z. z.
 
-- 27c) § 32 ods. 21 a § 35 ods. 5 zákona č. 610/2003 Z. z. v znení zákona č. 117/2006 Z. z.
+- 27c) § 42 a 48 zákona č. 452/2021 Z. z. v znení zákona č. 287/2023 Z. z.
 
-- 27d) § 35 ods. 4 písm. a) zákona č. 610/2003 Z. z.
+- 27d) § 43 a § 46 ods. 2 zákona č. 452/2021 Z. z.
 
-- 27e) § 37 zákona č. 351/2011 Z. z. o elektronických komunikáciách v znení zákona č. 247/2015 Z. z.
+- 27e) § 52 zákona č. 452/2021 Z. z. v znení zákona č. 287/2023 Z. z.
 
-- 27f) § 14 ods. 3 zákona č. 610/2003 Z. z. v znení zákona č. 117/2006 Z. z.
+- 27f) § 10 ods. 3 zákona č. 452/2021 Z. z.
 
 - 27g) § 37 ods. 14 zákona č. 195/2000 Z. z.
 
