@@ -1,1 +1,1 @@
-Príloha č. 2 k opatreniu č. 508/2022 Z. z. [Objektivizované platové koeficienty na obdobie od 1. septembra 2023 do 31. decembra 2023](../assets/ffaf5a6843020890b5a1e58efc670415c4724f76de7cebcbb3d30e5ef4186186.pdf)
+Príloha č. 2 k opatreniu č. 508/2022 Z. z. [Objektivizované platové koeficienty na obdobie od 1. septembra 2023 do 31. decembra 2023](../assets/7b5dba2a8ddd3007f04e9b80d601578ebe40a58694f25691aebac78364a6ffe6.pdf)
