@@ -16,8 +16,6 @@
 
 - 8) Napríklad § 61 ods. 1 zákona č. 566/2001 Z. z. v znení zákona č. 510/2002 Z. z., § 13 zákona č. 95/2002 Z. z. v znení neskorších predpisov, zákon č. 510/2002 Z. z. v znení neskorších predpisov, zákon č. 594/2003 Z. z. v znení neskorších predpisov.
 
-- 9) § 4 ods. 5 zákona č. 22/2004 Z. z. o elektronickom obchode a o zmene a doplnení zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení zákona č. 284/2002 Z. z.
-
 - 11) § 9, § 10 ods. 2 písm. d) a § 37e zákona č. 97/1963 Zb. o medzinárodnom práve súkromnom a procesnom v znení zákona č. 589/2003 Z. z.
 
 - 12) Napríklad zákon č. 244/2002 Z. z. o rozhodcovskom konaní.
