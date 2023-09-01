@@ -34,9 +34,11 @@
 
 - b) na základe odôvodneného návrhu fyzickej osoby, ktorá uskutočňuje individuálne vzdelávanie dieťaťa,
 
-- c) na základe návrhu hlavného školského inšpektora alebo
+- c) na základe návrhu hlavného školského inšpektora,
 
-- d) ak sa neplní obsah individuálneho vzdelávania.
+- d) ak sa neplní obsah individuálneho vzdelávania alebo
+
+- e) ak zákonný zástupca nezabezpečí účasť dieťaťa na povinnom predprimárnom vzdelávaní v kmeňovej materskej škole na účel posúdenia plnenia obsahu individuálneho vzdelávania podľa odseku 6.
 
 (9) Riaditeľ kmeňovej materskej školy rozhodne o zrušení povolenia individuálneho vzdelávania do 30 dní od začatia konania a zároveň zaradí dieťa do príslušnej triedy kmeňovej materskej školy. Odvolanie proti rozhodnutiu o zrušení povolenia individuálneho vzdelávania nemá odkladný účinok.
 

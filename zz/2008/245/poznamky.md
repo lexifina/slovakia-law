@@ -208,6 +208,8 @@
 
 - 80c) Časť I prílohy č. 4 k zákonu č. 448/2008 Z. z. v znení zákona č. 485/2013 Z. z.
 
+- 80d) Zákon č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 81) Napríklad zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 474/2005 Z. z. o Slovákoch žijúcich v zahraničí a o zmene a doplnení niektorých zákonov v znení zákona č. 344/2007 Z. z., zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 82) Zákon č. 480/2002 Z. z. v znení neskorších predpisov.
@@ -237,8 +239,6 @@
 - 93) Napríklad zákon č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov, zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 461/2003 Z. z. v znení neskorších predpisov, zákon č. 596/2003 Z. z. v znení neskorších predpisov, zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 317/2009 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov v znení zákona č. 390/2011 Z. z.
 
 - 93a) § 31 zákona č. 596/2003 Z. z. v znení zákona č. 5/2005 Z. z.
-
-- 93aa) § 2 ods. 1 zákona č. 336/2015 Z. z. o podpore najmenej rozvinutých okresov a o zmene a doplnení niektorých zákonov.
 
 - 93aaa) Zákon č. 305/2013 Z. z. v znení neskorších predpisov.
 
