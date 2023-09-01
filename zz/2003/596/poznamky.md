@@ -54,7 +54,7 @@
 
 - 23) § 4 zákona Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov.
 
-- 23a) § 7 ods. 2 a § 8 ods. 2 zákona č. 245/2008 Z. z.
+- 23a) § 3 písm. b) zákona č. 245/2008 Z. z. v znení zákona č. 182/2023 Z. z.
 
 - 26) § 31 zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
@@ -73,8 +73,6 @@
 - 30b) § 27 ods. 2 písm. a), § 95 ods. 1 písm. a) a § 104 ods. 1 písm. a) zákona č. 245/2008 Z. z.
 
 - 30c) § 138 zákona č. 245/2008 Z. z.
-
-- 30d) § 6 zákona Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov.
 
 - 30e) § 7a zákona č. 597/2003 Z. z. v znení neskorších predpisov.
 
@@ -140,6 +138,8 @@
 
 - Zákon č. 152/1998 Z. z.
 
+- 47) Dohovor, ktorým sa definuje štatút Európskych škôl (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 597/2004 Z. z.).
+
 - 47a) § 7 ods. 7 zákona č. 245/2008 Z. z.
 
 - 47b) § 8 ods. 5 zákona č. 245/2008 Z. z.
@@ -157,6 +157,8 @@
 - 49) Napríklad zákon č. 312/2001 Z. z. v znení neskorších predpisov, zákon č. 552/2003 Z. z.
 
 - 50a) § 157 ods. 3 písm. c) zákona č. 245/2008 Z. z.
+
+- 50b) § 14 zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení zákona č. 454/2004 Z. z.
 
 - 51) § 2, 9a, 10a a 33a zákona č. 29/1984 Zb. v znení neskorších predpisov.
 

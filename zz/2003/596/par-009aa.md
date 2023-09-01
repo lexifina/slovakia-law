@@ -18,7 +18,7 @@
 
 - b) názov banky alebo pobočky zahraničnej banky a číslo samostatného bankového účtu zriaďovateľa príslušnej školy alebo príslušného školského zariadenia na vedenie prostriedkov poskytovaných zo štátneho rozpočtu,
 
-- c) sumu finančných prostriedkov na mzdy a prevádzku poskytovaných podľa § 6 ods. 12 písm. b) a k) alebo podľa § 9 ods. 12 písm. b) a k); ak je to potrebné, obec zohľadní rozpis finančných prostriedkov poukázaných podľa osobitného predpisu<sup>30a</sup>) v priebehu rozpočtového roka a upraví výšku poskytovaných finančných prostriedkov na zostávajúce obdobie príslušného rozpočtového roka dohodou prostredníctvom dodatku k zmluve o financovaní,
+- c) sumu finančných prostriedkov na mzdy a prevádzku poskytovaných podľa § 6 ods. 12 písm. b) a k) alebo podľa § 9 ods. 12 písm. b) a k); ak je to potrebné, obec alebo samosprávny kraj zohľadní rozpis finančných prostriedkov poukázaných podľa osobitného predpisu<sup>30a</sup>) v priebehu rozpočtového roka a do 31. októbra príslušného rozpočtového roka upraví výšku poskytovaných finančných prostriedkov na zostávajúce obdobie príslušného rozpočtového roka dohodou prostredníctvom dodatku k zmluve o financovaní,
 
 - d) lehotu na predloženie údajov, podľa ktorých obec alebo samosprávny kraj poskytne finančné prostriedky na mzdy a prevádzku,
 
