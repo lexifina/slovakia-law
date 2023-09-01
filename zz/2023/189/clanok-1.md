@@ -176,6 +176,20 @@ Zákon č. 54/2019 Z. z. o ochrane oznamovateľov protispoločenskej činnosti a
 
 - Ustanovenia tohto paragrafu sa vzťahujú aj na oznamovateľa v inom obdobnom vzťahu, ktorý urobil kvalifikované oznámenie a podal žiadosť o poskytnutie odmeny.“.
 
+- 19. V § 10 odsek 1 znie:
+
+- „(1)
+
+- Zamestnávateľ, ktorý zamestnáva najmenej 50 zamestnancov, zamestnávateľ, ktorý poskytuje finančné služby, služby v oblasti bezpečnosti dopravy alebo služby v oblasti životného prostredia, a zamestnávateľ, ktorý je orgánom verejnej moci, ktorý zamestnáva najmenej päť zamestnancov, je povinný určiť organizačnú zložku alebo osobu v rámci svojej organizácie, ktorá plní úlohy zamestnávateľa podľa odsekov 5 až 8 a § 11 ods. 1 (ďalej len „zodpovedná osoba“). Zodpovedná osoba musí mať odborné predpoklady na plnenie úloh podľa tohto zákona. V obci a vo vyššom územnom celku je zodpovednou osobou hlavný kontrolór.“.
+
+- 20. V § 10 sa za odsek 1 vkladá nový odsek 2, ktorý znie:
+
+- „(2)
+
+- Na základe zmluvy so zamestnávateľom môže v zamestnávateľovom mene prijímanie a potvrdenie oznámení vykonávať aj iná osoba, ktorá nie je jeho zamestnancom. Osoba podľa prvej vety môže vykonávať aj preverovanie oznámení v mene zamestnávateľa, ktorý nie je orgánom verejnej moci a ktorý zamestnáva menej ako 250 zamestnancov; tým nie je dotknutá povinnosť podľa odseku 1.“.
+
+  - Doterajšie odseky 2 až 8 sa označujú ako odseky 3 až 9.
+
 - 21. V § 10 odsek 3 znie:
 
 - „(3)
@@ -203,6 +217,26 @@ Zákon č. 54/2019 Z. z. o ochrane oznamovateľov protispoločenskej činnosti a
 - Zamestnávateľ podľa odseku 1 je povinný preveriť oznámenie a oznámiť oznamovateľovi výsledok preverenia oznámenia a opatrenia, ak sa prijali na základe preverenia oznámenia do 90 dní od potvrdenia prijatia oznámenia alebo ak sa prijatie oznámenia nepotvrdilo, do 90 dní od uplynutia siedmich dní od prijatia oznámenia. Ak výsledkom preverenia oznámenia je postúpenie veci na vybavenie podľa Trestného poriadku alebo osobitných predpisov, zamestnávateľ podľa odseku 1 je povinný o tejto skutočnosti vopred informovať oznamovateľa; to neplatí, ak by informovaním oznamovateľa mohlo byť zmarené prešetrenie oznámenia. Zamestnávateľ podľa odseku 1 je povinný vyžiadať si výsledok vybavenia v rozsahu, ako to umožňuje osobitný predpis a do desiatich dní od doručenia tohto výsledku s ním oboznámiť oznamovateľa.“.
 
 - 26. V § 10 ods. 9 písm. c) sa za slovo „oznamovateľa“ vkladajú slová „a totožnosti dotknutej osoby“.
+
+- 27. V § 10 sa odsek 9 dopĺňa písmenami g) a h), ktoré znejú:
+
+- „g)
+
+- prijímaní opatrení na odstránenie nedostatkov zistených pri preverovaní oznámení a o komunikácii s oznamovateľom vo veci týchto opatrení,
+
+- h)
+
+- prijímaní opatrení proti bráneniu v oznamovaní protispoločenskej činnosti.“.
+
+- 28. § 10 sa dopĺňa odsekmi 10 a 11, ktoré znejú:
+
+- „(10)
+
+- Zamestnávateľ podľa odseku 1 je povinný prijať opatrenie voči zamestnancovi, ktorý bráni urobeniu oznámenia alebo vedeniu evidencie oznámení.
+
+- (11)
+
+- Zamestnávateľ podľa odseku 1 má pri výkone kontroly podľa § 13 ods. 6 písm. b) a c) povinnosť predložiť úradu správu o opatreniach prijatých na odstránenie zistených nedostatkov.“.
 
 - 29. V § 11 ods. 1 úvodnej vete sa vypúšťa slovo „najmenej“.
 
@@ -278,6 +312,40 @@ Zákon č. 54/2019 Z. z. o ochrane oznamovateľov protispoločenskej činnosti a
 
 - 41. V § 18 ods. 2 sa suma „2 000 eur“ nahrádza sumou „6 000 eur“ a na konci sa pripája táto veta: „Tomu, kto do dvoch rokov odo dňa právoplatnosti rozhodnutia o spáchaní priestupku spácha priestupok podľa odseku 1 písm. a), b) alebo písm. c) opakovane, môže úrad uložiť pokutu do 12 000 eur.“.
 
+- 42. V § 19 odseky 1 a 2 znejú:
+
+- „(1)
+
+- Úrad môže uložiť pokutu do 30 000 eur zamestnávateľovi podľa § 10 ods. 1, ktorý
+
+- a)
+
+- neprijal opatrenia na odstránenie nedostatkov zistených pri kontrole plnenia povinností podľa § 10 ods. 9 a 10 alebo § 11, alebo
+
+- b)
+
+- nepredložil úradu písomnú správu o opatreniach prijatých na odstránenie zistených nedostatkov<sup>8</sup>) pri plnení povinností podľa § 10 ods. 8 až 10 alebo § 11 a príčin ich vzniku.
+
+- (2)
+
+- Úrad môže uložiť pokutu do 50 000 eur zamestnávateľovi, ktorý nie je orgánom verejnej moci a zamestnáva najmenej 50 zamestnancov a menej ako 250 zamestnancov alebo zamestnávateľovi, ktorý je orgánom verejnej moci a zamestnáva najmenej päť zamestnancov a menej ako 250 zamestnancov, ktorý porušil niektorú z povinností podľa § 10 ods. 1 až 8.“.
+
+- 43. V § 19 sa za odsek 2 vkladajú nové odseky 3 až 5, ktoré znejú:
+
+- „(3)
+
+- Úrad môže uložiť pokutu do 100 000 eur zamestnávateľovi, ktorý urobí voči osobe podľa § 1 ods. 4 pracovnoprávny úkon bez súhlasu úradu, ak sa súhlas vyžaduje, hrozí postihom odvetným opatrením alebo sa pokúsi o postih odvetným opatrením osoby podľa § 1 ods. 4, alebo zamestnávateľovi podľa § 10 ods. 1, ktorý zamestnáva najmenej 250 zamestnancov, ktorý porušil niektorú z povinností podľa § 10 ods. 1 až 8.
+
+- (4)
+
+- Úrad môže pri opakovanom porušení povinností podľa § 10 a 11 do dvoch rokov odo dňa právoplatnosti rozhodnutia zvýšiť pokutu až na dvojnásobok.
+
+- (5)
+
+- Úrad pri ukladaní pokuty prihliada na závažnosť, spôsob, trvanie a následky protiprávneho konania a prihliadne aj na opakované porušenie povinnosti a na to, že sa týmto konaním alebo opomenutím konania porušili viaceré povinnosti.“.
+
+  - Doterajšie odseky 3 a 4 sa označujú ako odseky 6 a 7.
+
 - 44. V § 20 ods. 2 sa slová „urobením oznámenia“ nahrádzajú slovom „oznámením“.
 
 - 45. § 22 sa dopĺňa odsekom 4, ktorý znie:
@@ -285,6 +353,58 @@ Zákon č. 54/2019 Z. z. o ochrane oznamovateľov protispoločenskej činnosti a
 - „(4)
 
 - Orgán príslušný na prijatie oznámenia bezodkladne, najneskôr do siedmich dní od prijatia oznámenia, oznamovateľovi potvrdí prijatie oznámenia; to neplatí, ak oznamovateľ uvedie, že na potvrdení prijatia oznámenia netrvá. Orgán príslušný na prijatie oznámenia nepotvrdí prijatie oznámenia, ak sa dôvodne domnieva, že potvrdenie prijatia oznámenia môže ohroziť ochranu totožnosti oznamovateľa.“.
+
+- 46. § 22 sa dopĺňa odsekmi 5 a 6, ktoré znejú:
+
+- „(5)
+
+- Orgán príslušný na prijatie oznámenia v stručnej a zrozumiteľnej podobe v časti dostupnej z titulnej stránky svojho webového sídla uvedie
+
+- a)
+
+- elektronickú adresu, poštovú adresu a telefónne číslo pre urobenie oznámenia,
+
+- b)
+
+- postup prijímania a preverovania oznámenia a opatrenia, ktoré prijíma orgán príslušný na prijatie oznámenia v nadväznosti na oznámenie,
+
+- c)
+
+- prostriedky nápravy a postupy na ochranu pred pracovnoprávnymi úkonmi bez súhlasu úradu, ak sa súhlas vyžaduje, alebo iným postihom oznamovateľa, informácie na koho sa obrátiť, ako postupovať v konkrétnej situácii, kontaktné údaje úradu na účel poskytnutia poradenstva podľa § 13 ods. 6 písm. g),
+
+- d)
+
+- poučenie o podmienkach, podľa ktorých sa na oznamovateľa vzťahuje § 1 ods. 4 a § 2 písm. a) štvrtý bod,
+
+- e)
+
+- podmienky poskytnutia ochrany podľa tohto zákona,
+
+- f)
+
+- informácie o spracúvaní osobných údajov podľa osobitného predpisu.<sup>17a</sup>)
+
+- (6)
+
+- Orgán príslušný na prijatie oznámenia každoročne v rámci svojej vecnej pôsobnosti eviduje za predchádzajúci kalendárny rok štatistické údaje o
+
+- a)
+
+- počte oznámení, ktoré prijal orgán príslušný na prijatie oznámenia,
+
+- b)
+
+- počte trestných konaní a konaní o správnom delikte, ktoré sa začali na základe oznámení podľa písmena a) a ich výsledok,
+
+- c)
+
+- odhadovanú škodu, ak sa zistila, a sumy navrátené na základe preverovaní, trestných konaní alebo konaní o správnom delikte súvisiace s urobenými oznámeniami.“.
+
+  - Poznámka pod čiarou k odkazu 17a znie:
+
+  - „<sup>17a</sup>) Čl. 13 nariadenia Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) (Ú. v. EÚ L 119, 4. 5. 2016).
+
+  - § 60 zákona č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
 
 - 47. V § 23 ods. 1 sa slová „ods. 7“ nahrádzajú slovami „ods. 8“.
 
