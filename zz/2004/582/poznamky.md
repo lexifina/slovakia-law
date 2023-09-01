@@ -12,6 +12,8 @@
 
 - 7) Príloha č. 1 k vyhláške Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov v znení vyhlášky č. 74/2011 Z. z.
 
+- 7a) Príloha č. 2 k vyhláške Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z.
+
 - 8) § 12 písm. c) zákona č. 326/2005 Z. z. o lesoch.
 
 - 9) § 43 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
