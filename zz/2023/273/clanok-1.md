@@ -84,6 +84,12 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 
   - „<sup>101d</sup>) § 2 ods. 2 písm. n) zákona č. 540/2001 Z. z. v znení zákona č. 144/2021 Z. z.“.
 
+- 12. § 233 sa dopĺňa odsekom 19, ktorý znie:
+
+- „(19)
+
+- Predškolské zariadenie, zariadenie sociálnych služieb a škola sú povinné poistencovi na účel overenia splnenia podmienok na vznik nároku na ošetrovné potvrdzovať ich uzatvorenie na základe rozhodnutia príslušných orgánov alebo nariadenia karanténneho opatrenia podľa osobitného predpisu<sup>50</sup>) na tlačive určenom Sociálnou poisťovňou.“.
+
 - 13. V § 240 ods. 2 sa na konci pripája táto veta: „Kontrolované obdobie je obdobie určené Sociálnou poisťovňou.“.
 
 - 14. V § 242 ods. 3 tretej vete sa slová „vedúcemu zamestnancovi kontroly“ nahrádzajú slovami „osobe, ktorá vydala poverenie na výkon kontroly“.
@@ -118,4 +124,4 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 
 - 19. Príloha č. 4 vrátane nadpisu znie:
 
-- „[Príloha č. 4 k zákonu č. 461/2003 Z. z. - PERCENTUÁLNA MIERA POKLESU SCHOPNOSTI VYKONÁVAŤ ZÁROBKOVÚ ČINNOSŤ PODĽA DRUHU ZDRAVOTNÉHO POSTIHNUTIA ORGÁNOV A SYSTÉMOV](assets/fe8022bd5430812d71cac21f25d87f1e2860c9f6e615f3f9ff0a8fc2ebf13451.pdf)“.
+- „[Príloha č. 4 k zákonu č. 461/2003 Z. z. - PERCENTUÁLNA MIERA POKLESU SCHOPNOSTI VYKONÁVAŤ ZÁROBKOVÚ ČINNOSŤ PODĽA DRUHU ZDRAVOTNÉHO POSTIHNUTIA ORGÁNOV A SYSTÉMOV](assets/4131c3a1978dc058c9c73482133ebc39c207a59d0220bbea8e9f88c61fbd4e44.pdf)“.
