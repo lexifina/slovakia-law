@@ -34,6 +34,8 @@
 
 - § 20 zákona č. 404/2011 Z. z.
 
+- 4aa) § 3 ods. 3 písm. k) zákona č. 579/2004 Z. z. o záchrannej zdravotnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 285/2023 Z. z.
+
 - 5) Zákon č. 180/2014 Z. z. o podmienkach výkonu volebného práva a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 5a) Napríklad zákon č. 582/2004 Z. z. o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady v znení neskorších predpisov, zákon č. 447/2015 Z. z. o miestnom poplatku za rozvoj a o zmene a doplnení niektorých zákonov.
