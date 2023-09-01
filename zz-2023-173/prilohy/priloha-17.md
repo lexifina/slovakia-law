@@ -1,0 +1,1 @@
+Príloha č. 17 k vyhláške č. 173/2023 Z. z. [Príbuznosť študijných odborov, študijných programov a odborov vzdelávania na vyučovanie predmetov v hudobnom odbore základnej umeleckej školy](../assets/5eeb255e89d215e3eec29a12ec7430a3ce6175f50dccaef76e1d95eab6b9833a.pdf)

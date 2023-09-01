@@ -1,0 +1,1 @@
+Príloha č. 4 k vyhláške č. 173/2023 Z. z. [Kvalifikačné predpoklady na výkon pracovnej činnosti pedagogického zamestnanca v kategórii korepetítor](../assets/f420bc0ee2161967077708b363bcec9cb10c697543a25656eb5315ba2c3061b5.pdf)

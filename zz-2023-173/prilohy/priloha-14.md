@@ -1,0 +1,1 @@
+Príloha č. 14 k vyhláške č. 173/2023 Z. z. [Kvalifikačné predpoklady na výkon pracovnej činnosti odborného zamestnanca v kategórii logopéd alebo školský logopéd](../assets/20b79a7c738655cae0516792b47e7b2f73840d62749e74cc7a855964e0af4c0f.pdf)

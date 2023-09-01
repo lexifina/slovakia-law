@@ -1,0 +1,1 @@
+Príloha č. 5 k vyhláške č. 173/2023 Z. z. [Kvalifikačné predpoklady na výkon pracovnej činnosti pedagogického zamestnanca v kategórii školský tréner](../assets/2ca7296a41da9d9a2ac1aa68dccf4a08c7d89432583b730e1df1e290dc219225.pdf)

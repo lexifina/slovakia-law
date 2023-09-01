@@ -1,0 +1,1 @@
+Príloha č. 7 k vyhláške č. 173/2023 Z. z. [Kvalifikačné predpoklady na výkon pracovnej činnosti pedagogického zamestnanca v kategórii zahraničný lektor](../assets/f4868ea4a2fec90e8af26900ef6395468adbb715be2681b7a1faeeb011fff41e.pdf)

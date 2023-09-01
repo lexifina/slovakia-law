@@ -1,0 +1,1 @@
+Príloha č. 15 k vyhláške č. 173/2023 Z. z. [Kvalifikačné predpoklady na výkon pracovnej činnosti odborného zamestnanca v kategórii liečebný pedagóg](../assets/79783eb68b0f231789b233cf651ac497f4d642f0e8ab301fed1dac1548db6a39.pdf)

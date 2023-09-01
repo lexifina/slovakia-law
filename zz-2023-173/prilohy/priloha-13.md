@@ -1,0 +1,1 @@
+Príloha č. 13 k vyhláške č. 173/2023 Z. z. [Kvalifikačné predpoklady na výkon pracovnej činnosti odborného zamestnanca v kategórii kariérový poradca](../assets/e521576bf7397dd94814c41e058c3118be301d065feb637c385ad1249fcaa4d4.pdf)

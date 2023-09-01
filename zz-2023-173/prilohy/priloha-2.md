@@ -1,0 +1,1 @@
+Príloha č. 2 k vyhláške č. 173/2023 Z. z. [Kvalifikačné predpoklady na výkon pracovnej činnosti pedagogického zamestnanca v kategórii majster odbornej výchovy](../assets/537d7f191c68b2940306b528549a2f4c794c737885ed51bb0850dbce852aecd9.pdf)

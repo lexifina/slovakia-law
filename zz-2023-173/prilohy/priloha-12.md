@@ -1,0 +1,1 @@
+Príloha č. 12 k vyhláške č. 173/2023 Z. z. [Kvalifikačné predpoklady na výkon pracovnej činnosti odborného zamestnanca v kategórii špeciálny pedagóg alebo terénny špeciálny pedagóg](../assets/997bc6bd0c4a5f49ec5a991b7987209dd724d7f8feea7a9ddd1ccb497ee3f623.pdf)

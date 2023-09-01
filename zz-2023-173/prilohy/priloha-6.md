@@ -1,0 +1,1 @@
+Príloha č. 6 k vyhláške č. 173/2023 Z. z. [Kvalifikačné predpoklady na výkon pracovnej činnosti pedagogického zamestnanca v kategórii pedagogický asistent](../assets/270e43f2a2eb321afacfa49a9443c636b312a09f26459162f40158c5c4c68f60.pdf)

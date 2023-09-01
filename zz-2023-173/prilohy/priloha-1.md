@@ -1,0 +1,1 @@
+Príloha č. 1 k vyhláške č. 173/2023 Z. z. [Kvalifikačné predpoklady na výkon pracovnej činnosti pedagogického zamestnanca v kategórii učiteľ](../assets/d96f04686085b09f4eac59a6de1f46e6a5197e93cde0fa4eb4d768c991c48b7d.pdf)

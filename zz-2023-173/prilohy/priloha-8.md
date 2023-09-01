@@ -1,0 +1,1 @@
+Príloha č. 8 k vyhláške č. 173/2023 Z. z. [Kvalifikačné predpoklady na výkon pracovnej činnosti pedagogického zamestnanca v kategórii školský špeciálny pedagóg](../assets/c39237dd8a6f1b63b86d16b36c048f15d402477945984677f9e8fca5493193c0.pdf)

@@ -1,0 +1,1 @@
+Príloha č. 3 k vyhláške č. 173/2023 Z. z. [Kvalifikačné predpoklady na výkon pracovnej činnosti pedagogického zamestnanca v kategórii vychovávateľ](../assets/966938c99f9bfca864cbbccec4c9a3158cff585b53201bdc4e2f14871b3fa0ea.pdf)

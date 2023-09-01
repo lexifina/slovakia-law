@@ -1,0 +1,1 @@
+Príloha č. 9 k vyhláške č. 173/2023 Z. z. [Kvalifikačné predpoklady na výkon pracovnej činnosti pedagogického zamestnanca v kategórii školský digitálny koordinátor](../assets/957893b8b6c4bfaaadfff705825fb18c106a98fc6680f71a6e06762668b34065.pdf)

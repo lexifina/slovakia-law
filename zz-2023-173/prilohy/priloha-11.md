@@ -1,0 +1,1 @@
+Príloha č. 11 k vyhláške č. 173/2023 Z. z. [Kvalifikačné predpoklady na výkon pracovnej činnosti odborného zamestnanca v kategórii psychológ alebo školský psychológ](../assets/dbde397cd16003209636d8c8f0818918ebfda0e9d03cc6a0ddb8813906904994.pdf)

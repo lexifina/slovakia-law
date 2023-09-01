@@ -1,0 +1,1 @@
+Príloha č. 10 k vyhláške č. 173/2023 Z. z. [Kvalifikačné predpoklady na výkon pracovnej činnosti pedagogického zamestnanca v kategórii učiteľ profesijného rozvoja](../assets/1b9073dcaa581cb2a2e0b11462928f5d72f5c43d4c33a695375de94c6afd5e23.pdf)

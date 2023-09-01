@@ -1,0 +1,1 @@
+Príloha č. 16 k vyhláške č. 173/2023 Z. z. [Kvalifikačné predpoklady na výkon pracovnej činnosti odborného zamestnanca v kategórii sociálny pedagóg](../assets/17e3ab3acf67c1aa9b8b985197a81f64d3bda865d1d40f449af45fab82b8635a.pdf)
