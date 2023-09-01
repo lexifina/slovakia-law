@@ -1,6 +1,6 @@
 # § 7b Štatút
 
-(1) Štatút je základným nástrojom na rozdelenie úloh samosprávy Bratislavy a prenesených pôsobností medzi Bratislavu a jej mestské časti a na úpravu postavenia a činnosti mestských orgánov a miestnych orgánov.
+(1) Štatút je základným nástrojom na rozdelenie úloh samosprávy Bratislavy, úloh mestských častí, o ktorých to ustanovuje tento zákon, a prenesených pôsobností medzi Bratislavu a jej mestské časti a na úpravu postavenia a činnosti mestských orgánov a miestnych orgánov.
 
 (2) Štatút obsahuje najmä
 
@@ -16,7 +16,7 @@
 
   - 4. pravidlá vyhlasovania a uskutočňovania miestneho referenda,
 
-- c) podrobné rozdelenie úloh samosprávy Bratislavy a prenesenej pôsobnosti medzi Bratislavu a jej mestské časti,
+- c) podrobné rozdelenie úloh samosprávy Bratislavy, úloh mestských častí, o ktorých to ustanovuje tento zákon, a prenesenej pôsobnosti medzi Bratislavu a jej mestské časti,
 
 - d) zásady hospodárenia s majetkom, najmä pravidlá rozdelenia správy majetku Bratislavy, nadobúdania majetku Bratislavy a jej mestských častí a nakladania s ním, najmä pravidlá
 
