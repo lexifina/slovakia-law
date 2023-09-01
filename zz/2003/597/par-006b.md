@@ -8,15 +8,15 @@
 
 (2) Príspevok na výchovu a vzdelávanie pre materskú školu na deti, pre ktoré je predprimárne vzdelávanie povinné, sa určí ako súčet
 
-- a) súčinu 8-násobku objemu finančných prostriedkov pripadajúceho na 43,75 % sumy životného minima pre jedno nezaopatrené dieťa platnej k 1. januáru príslušného kalendárneho roka a počtu detí materskej školy, pre ktoré je predprimárne vzdelávanie povinné, v školskom roku, ktorý sa začal v predchádzajúcom kalendárnom roku, a
+- a) súčinu 8-násobku objemu finančných prostriedkov pripadajúceho na 60 % sumy životného minima pre jedno nezaopatrené dieťa platnej k 1. januáru príslušného kalendárneho roka a počtu detí materskej školy, pre ktoré je predprimárne vzdelávanie povinné, v školskom roku, ktorý sa začal v predchádzajúcom kalendárnom roku, a
 
-- b) súčinu 4-násobku objemu finančných prostriedkov pripadajúceho na 43,75 % sumy životného minima pre jedno nezaopatrené dieťa platnej k 1. septembru príslušného kalendárneho roka a počtu detí materskej školy, pre ktoré je predprimárne vzdelávanie povinné, v školskom roku, ktorý sa začína v bežnom kalendárnom roku.
+- b) súčinu 4-násobku objemu finančných prostriedkov pripadajúceho na 60 % sumy životného minima pre jedno nezaopatrené dieťa platnej k 1. septembru príslušného kalendárneho roka a počtu detí materskej školy, pre ktoré je predprimárne vzdelávanie povinné, v školskom roku, ktorý sa začína v bežnom kalendárnom roku.
 
 (3) Príspevok na výchovu a vzdelávanie pre materskú školu na deti, ktoré sú členmi domácnosti, ktorej členovi sa poskytuje pomoc v hmotnej núdzi, sa určí ako súčet
 
-- a) súčinu 8-násobku objemu finančných prostriedkov pripadajúceho na 15 % sumy životného minima pre jedno nezaopatrené dieťa platnej k 1. januáru príslušného kalendárneho roka a počtu detí materskej školy, ktoré sú členmi domácnosti, ktorej členovi sa poskytuje pomoc v hmotnej núdzi, v školskom roku, ktorý sa začal v predchádzajúcom kalendárnom roku, a
+- a) súčinu 8-násobku objemu finančných prostriedkov pripadajúceho na 30 % sumy životného minima pre jedno nezaopatrené dieťa platnej k 1. januáru príslušného kalendárneho roka a počtu detí materskej školy, ktoré sú členmi domácnosti, ktorej členovi sa poskytuje pomoc v hmotnej núdzi, v školskom roku, ktorý sa začal v predchádzajúcom kalendárnom roku, a
 
-- b) súčinu 4-násobku objemu finančných prostriedkov pripadajúceho na 15 % sumy životného minima pre jedno nezaopatrené dieťa platnej k 1. septembru príslušného kalendárneho roka a počtu detí materskej školy, ktoré sú členmi domácnosti, ktorej členovi sa poskytuje pomoc v hmotnej núdzi, v školskom roku, ktorý sa začína v bežnom kalendárnom roku.
+- b) súčinu 4-násobku objemu finančných prostriedkov pripadajúceho na 30 % sumy životného minima pre jedno nezaopatrené dieťa platnej k 1. septembru príslušného kalendárneho roka a počtu detí materskej školy, ktoré sú členmi domácnosti, ktorej členovi sa poskytuje pomoc v hmotnej núdzi, v školskom roku, ktorý sa začína v bežnom kalendárnom roku.
 
 (4) Dátum rozhodujúci pre počet detí použitý pri určovaní príspevku na výchovu a vzdelávanie je podľa § 7 ods. 4.
 
@@ -52,15 +52,19 @@
 
   - 4. kompenzačnými pomôckami,
 
+  - 5. nábytkom na rozvíjanie schopností a zručností detí,
+
 - e) úhradu nákladov súvisiacich s pobytom detí na aktivitách podľa osobitného predpisu,<sup>23ha</sup>)
 
-- f) úhradu nákladov za spotrebný materiál použitý pri výchove a vzdelávaní detí,
+- f) úhradu nákladov za spotrebný materiál použitý pri výchove a vzdelávaní detí vrátane hygienických prostriedkov pre deti a posteľného oblečenia,
 
 - g) vybavenie exteriéru materskej školy
 
   - 1. záhradným náradím, náčiním a hrovými prvkami na rozvíjanie pohybových schopností a zručností detí,
 
-  - 2. učebnými pomôckami na rozvíjanie prírodovednej gramotnosti a matematickej gramotnosti detí.
+  - 2. učebnými pomôckami na rozvíjanie prírodovednej gramotnosti a matematickej gramotnosti detí,
+
+- h) úhradu nákladov za odevy detí použité v materskej škole pri výchove a vzdelávaní detí.
 
 (8) Finančné prostriedky pridelené zriaďovateľovi podľa odseku 1 písm. b) možno použiť na aktivity súvisiace s výchovou a vzdelávaním detí, a to len na
 
@@ -72,10 +76,14 @@
 
   - 2. učebnými pomôckami,
 
-  - 3. kompenzačnými pomôckami,
+  - 3. pracovnými zošitmi a pracovnými listami,
+
+  - 4. kompenzačnými pomôckami,
 
 - c) úhradu nákladov súvisiacich s pobytom detí na aktivitách podľa osobitného predpisu<sup>23ha</sup>) alebo
 
-- d) úhradu nákladov za spotrebný materiál použitý pri výchove a vzdelávaní detí.
+- d) úhradu nákladov za spotrebný materiál použitý pri výchove a vzdelávaní detí vrátane hygienických prostriedkov pre deti a posteľného oblečenia,
 
-(9) Ak je zriaďovateľom materskej školy vysoká škola, ústredný orgán štátnej správy alebo samosprávny kraj, príspevok na výchovu a vzdelávanie pozostáva len z príspevku na výchovu a vzdelávanie podľa odseku 1 písm. a).
+- e) úhradu nákladov za odevy detí použité v materskej škole pri výchove a vzdelávaní detí.
+
+(9) Ak je zriaďovateľom materskej školy samosprávny kraj, príspevok na výchovu a vzdelávanie pozostáva len z príspevku na výchovu a vzdelávanie podľa odseku 1 písm. a).

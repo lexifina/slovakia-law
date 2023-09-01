@@ -1,6 +1,6 @@
 # § 9l Prechodné ustanovenia k príspevku na výchovu a vzdelávanie
 
-(1) Príspevok na výchovu a vzdelávanie sa na deti, pre ktoré je predprimárne vzdelávanie povinné, poskytuje na roky 2021 až 2024 aj pre zariadenia predprimárneho vzdelávania vedené v registri podľa osobitného predpisu<sup>27</sup>) (ďalej len „registrované zariadenie“).
+(1) Príspevok na výchovu a vzdelávanie sa na deti, pre ktoré je predprimárne vzdelávanie povinné, poskytuje na roky 2021 až 2026 aj pre zariadenia predprimárneho vzdelávania vedené v registri podľa osobitného predpisu<sup>27</sup>) (ďalej len „registrované zariadenie“).
 
 (2) Príspevok na výchovu a vzdelávanie pre registrované zariadenie na deti, pre ktoré je predprimárne vzdelávanie povinné, sa určí ako súčet
 
@@ -82,4 +82,4 @@
 
 (16) Ministerstvo oznámi výšku príspevku na výchovu a vzdelávanie pre registrované zariadenie na kalendárny rok 2021 zriaďovateľovi registrovaného zariadenia do 30. októbra 2021 a zriaďovateľ registrovaného zariadenia do 15 dní po doručení tohto oznámenia rozpíše finančné prostriedky na kalendárny rok pre jednotlivé registrované zariadenia vo svojej zriaďovateľskej pôsobnosti.
 
-(17) Príspevok na výchovu a vzdelávanie pre registrované zariadenie sa na rok 2024 určí len podľa odseku 2 písm. a).
+(17) Príspevok na výchovu a vzdelávanie pre registrované zariadenie sa na rok 2026 určí len podľa odseku 2 písm. a).
