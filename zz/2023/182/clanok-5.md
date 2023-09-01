@@ -2,6 +2,8 @@
 
 Zákon č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl a školských zariadení v znení zákona č. 523/2004 Z. z., zákona č. 564/2004 Z. z., zákona č. 689/2006 Z. z., zákona č. 245/2008 Z. z., zákona č. 462/2008 Z. z., zákona č. 179/2009 Z. z., zákona č. 184/2009 Z. z., zákona č. 38/2011 Z. z., zákona č. 390/2011 Z. z., zákona č. 325/2012 Z. z., zákona č. 345/2012 Z. z., zákona č. 81/2013 Z. z., zákona č. 464/2013 Z. z., zákona č. 307/2014 Z. z., zákona č. 377/2014 Z. z., zákona č. 61/2015 Z. z., zákona č. 188/2015 Z. z., zákona č. 125/2016 Z. z., zákona č. 182/2017 Z. z., zákona č. 209/2018 Z. z., zákona č. 367/2018 Z. z., zákona č. 209/2019 Z. z., zákona č. 381/2019 Z. z., zákona č. 93/2020 Z. z., zákona č. 371/2020 Z. z., zákona č. 271/2021 Z. z., zákona č. 273/2021 Z. z., zákona č. 415/2021 Z. z., zákona č. 507/2021 Z. z. a zákona č. 394/2022 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 1 ods. 3 sa vypúšťa druhá veta.
+
 - 2. V § 3 ods. 2 písm. a) sa vypúšťa druhý bod.
 
   - Doterajší tretí bod až šestnásty bod sa označujú ako druhý bod až pätnásty bod.
@@ -11,6 +13,8 @@ Zákon č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl 
 - „10.
 
 - príspevok na podporné opatrenie vo výchove a vzdelávaní (ďalej len „podporné opatrenie“),“.
+
+- 4. V § 3 ods. 2 sa vypúšťa písmeno e).
 
 - 5. V § 4 ods. 12, § 6 ods. 1 a § 7 ods. 7 sa slová „§ 4a až“ nahrádzajú slovami „§ 4aa až“.
 
@@ -106,9 +110,43 @@ Zákon č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl 
 
 - 11. V § 6a ods. 1 sa slová „§ 4a, § 4ab až“ nahrádzajú slovami „§ 4ab až“.
 
+- 12. V § 6b ods. 2 celom texte sa číslo „43,75“ nahrádza číslom „60“.
+
+- 13. V § 6b ods. 3 celom texte sa číslo „15“ nahrádza číslom „30“.
+
 - 14. V § 6b ods. 7 sa vypúšťa písmeno b).
 
   - Doterajšie písmená c) až h) sa označujú ako písmená b) až g).
+
+- 15. V § 6b ods. 7 sa písmeno d) dopĺňa piatym bodom, ktorý znie:
+
+- „5.
+
+- nábytkom na rozvíjanie schopností a zručností detí,“.
+
+- 16. V § 6b ods. 7 písm. f) a ods. 8 písm. d) sa na konci pripájajú tieto slová: „vrátane hygienických prostriedkov pre deti a posteľného oblečenia“.
+
+- 17. V § 6b sa odsek 7 dopĺňa písmenom h), ktoré znie:
+
+- „h)
+
+- úhradu nákladov za odevy detí použité v materskej škole pri výchove a vzdelávaní detí.“.
+
+- 18. V § 6b ods. 8 písm. b) sa za druhý bod vkladá nový tretí bod, ktorý znie:
+
+- „3.
+
+- pracovnými zošitmi a pracovnými listami,“.
+
+  - Doterajší tretí bod sa označuje ako štvrtý bod.
+
+- 19. V § 6b sa odsek 8 dopĺňa písmenom e), ktoré znie:
+
+- „e)
+
+- úhradu nákladov za odevy detí použité v materskej škole pri výchove a vzdelávaní detí.“.
+
+- 20. V § 6b ods. 9 sa vypúšťajú slová „vysoká škola, ústredný orgán štátnej správy alebo“.
 
 - 21. V § 7 ods. 8 sa vypúšťa písmeno b).
 
@@ -163,6 +201,8 @@ Zákon č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl 
   - Doterajšie odseky 5 až 9 sa označujú ako odseky 6 až 10.
 
 - 32. V § 8c ods. 6 písm. a) a ods. 8 celom texte sa za slová „písm. a)“ vkladajú slová „alebo písm. c)“.
+
+- 33. V § 9l ods. 1 a 17 sa číslo „2024“ nahrádza číslom „2026“.
 
 - 34. Za § 9o sa vkladá § 9p, ktorý vrátane nadpisu znie:
 
