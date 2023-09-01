@@ -8,6 +8,8 @@
 
 - 5a) § 2 ods. 34 zákona č. 576/2004 Z. z. v znení zákona č. 139/2019 Z. z.
 
+- 5aa) § 9b ods. 10 a 13 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
 - 6) § 10 ods. 2 zákona č. 129/2002 Z. z.
 
 - 6a) § 11 zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov.
@@ -28,7 +30,11 @@
 
 - 9) § 7 zákona č. 129/2002 Z. z.
 
-- 9a) § 17b zákona č. 578/2004 Z. z. v znení zákona č. 351/2005 Z. z.
+- 9a) § 42 ods. 1 písm. a) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení zákona č. 204/2014 Z. z., nariadenie vlády Slovenskej republiky č. 395/2006 Z. z. o minimálnych požiadavkách na poskytovanie a používanie osobných ochranných pracovných prostriedkov v znení nariadenia vlády Slovenskej republiky č. 400/2021 Z. z., nariadenie vlády Slovenskej republiky č. 83/2013 Z. z. o ochrane zdravia zamestnancov pred rizikami súvisiacimi s expozíciou biologickým faktorom pri práci v znení nariadenia vlády Slovenskej republiky č. 333/2020 Z. z.
+
+- 9b) Príloha č. 2 k nariadeniu vlády Slovenskej republiky č. 83/2013 Z. z. v znení nariadenia vlády Slovenskej republiky č. 333/2020 Z. z.
+
+- 9c) § 17b zákona č. 578/2004 Z. z. v znení zákona č. 351/2005 Z. z.
 
 - 10) § 2 ods. 14 zákona č. 540/2021 Z. z.
 
@@ -56,4 +62,8 @@
 
 - 16) § 38ev ods. 22 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 9/2021 Z. z.
 
-- 17) § 102al ods. 8 zákona č. 578/2004 Z. z. v znení zákona č. 133/2021 Z. z.
+- 17) § 17 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
+
+- 18) § 17 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
+
+- 19) § 102av ods. 2 a 3 zákona č. 578/2004 Z. z. v znení zákona č. 285/2023 Z. z.
