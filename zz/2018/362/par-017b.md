@@ -1,0 +1,33 @@
+# § 17b Bezpečnostné opatrenia podľa § 20 ods. 3 písm. o) zákona
+
+(1) Prevádzkovateľ základnej služby určí požiadavky na zabezpečenie kontinuity prevádzky pre prípad vzniku kybernetického bezpečnostného incidentu.
+
+(2) Riadenie kontinuity prevádzky pozostáva najmä z
+
+- a) vypracovania stratégie a krízových plánov na zabezpečenie dostupnosti siete a informačného systému po narušení alebo zlyhaní v dôsledku kybernetického bezpečnostného incidentu na základe vykonania analýzy vplyvov kybernetického bezpečnostného incidentu na základnú službu,
+
+- b) vyčlenenia adekvátnych finančných, materiálno-technických a personálnych zdrojov na zabezpečenie riadenia kontinuity činností,
+
+- c) určenia komunikačného plánu na plnenie havarijných plánov a plánov obnovy spolu s kontaktnými údajmi, určeniami rolí a zodpovednosti za plnenie havarijných plánov a plánov obnovy po kybernetickom bezpečnostnom incidente,
+
+- d) určenia cieľovej doby obnovy jednotlivých procesov, siete a informačných systémov a aplikácií, a to najmä určením doby obnovy prevádzky, po ktorej uplynutí je po kybernetickom bezpečnostnom incidente obnovená najnižšia úroveň poskytovania základných služieb,
+
+- e) určenia cieľového bodu obnovy jednotlivých procesov, siete a informačných systémov základnej služby a aplikácií, a to najmä určením najnižšej úrovne poskytovania služieb, ktorá je dostatočná na používanie, prevádzku a správu siete a informačného systému a zachovanie kontinuity základnej služby,
+
+- f) testovania a vyhodnocovania jednotlivých procesov riadenia kontinuity činností a realizácie opatrení na zvýšenie odolnosti sietí a informačných systémov základnej služby,
+
+- g) určenia plánov havarijnej obnovy a postupov zálohovania na obnovu siete a informačného systému po jeho narušení alebo zlyhaní v dôsledku kybernetického bezpečnostného incidentu.
+
+(3) Postupy zálohovania na obnovu siete a informačného systému po jeho narušení alebo zlyhaní v dôsledku kybernetického bezpečnostného incidentu obsahujú najmä
+
+- a) frekvenciu a rozsah jej dokumentovania a schvaľovania,
+
+- b) určenie osoby zodpovednej za zálohovanie,
+
+- c) časový interval, identifikáciu rozsahu údajov, dátového média zálohovania a požiadavku zabezpečenia vedenia dokumentácie o zálohovaní,
+
+- d) požiadavku umiestnenia záloh v zabezpečenom prostredí s riadeným prístupom,
+
+- e) požiadavku zabezpečenia šifrovania záloh obsahujúcich aktíva klasifikačného stupňa „chránené“ a „prísne chránené“,
+
+- f) požiadavku na vykonávanie pravidelného preverenia záloh, testovanie obnovy záloh a precvičovanie zavedených krízových plánov najmenej raz ročne.
