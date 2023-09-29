@@ -1,0 +1,1 @@
+[Dodatkový protokol k Dohovoru o počítačovej kriminalite týkajúci sa trestnoprávneho postihu činov rasovej a xenofóbnej povahy spáchaných prostredníctvom počítačových systémov v Slovenskom jazyku](../assets/6d13b0d0bb157257f6f5c71c27350d6a740106e3d9d98d562a7af12c5b4fa104.pdf)
