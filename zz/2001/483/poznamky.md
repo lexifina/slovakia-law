@@ -954,6 +954,8 @@
 
 - 88ib) § 15 zákona č. 224/2006 Z. z. v znení neskorších predpisov.
 
+- 88ic) § 7 ods. 1 písm. b) a § 7a ods. 3 a 4 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov v znení zákona č. 302/2023 Z. z.
+
 - 88j) § 90 ods. 1 zákona č. 492/2009 Z. z. v znení zákona č. 373/2018 Z. z.
 
 - Zákon č. 391/2015 Z. z. o alternatívnom riešení spotrebiteľských sporov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
