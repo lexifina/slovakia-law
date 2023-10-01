@@ -1,0 +1,1 @@
+Andrej Juris v. r.
