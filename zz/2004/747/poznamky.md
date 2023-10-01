@@ -46,6 +46,10 @@
 
 - 11b) Napríklad § 27 Obchodného zákonníka v znení neskorších predpisov, zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 60 až 60b zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, § 2 až 9 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov, § 20 a 21 zákona č. 540/2006 Z. z. o štátnej štatistike v znení neskorších predpisov, zákon č. 330/2007 Z. z. v znení neskorších predpisov, § 170 ods. 3 a § 226 ods. 1 písm. e) zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov, zákon č. 125/2015 Z. z. o registri adries a o zmene a doplnení niektorých zákonov, zákon č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov v znení zákona č. 52/2018 Z. z.
 
+- 11c) § 12 ods. 4 a 5 zákona č. 192/2023 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
+
+- 11d) § 12 ods. 4 až 15 a § 13 zákona č. 192/2023 Z. z.
+
 - 12) Napríklad § 2 ods. 1 a § 15 zákona č. 466/2002 Z. z.
 
 - 13) Napríklad § 16 zákona č. 466/2002 Z. z.
