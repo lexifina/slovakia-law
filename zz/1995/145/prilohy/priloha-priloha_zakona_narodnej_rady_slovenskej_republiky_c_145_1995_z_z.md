@@ -132,7 +132,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Splnomocnenie Správny orgán môže poplatok podľa tejto položky zvýšiť až o 100 %, ak úkon vyžaduje zvýšenú náročnosť, urýchlené vybavenie alebo vykonanie tohto úkonu mimo úradnej miestnosti. | |
 
-  - Poznámka Poplatok podľa 2. bodu sa vyberá podľa zákona č. 311/1999 Z. z. o registri trestov v znení neskorších predpisov. | |
+  - Poznámka Poplatok podľa 2. bodu sa vyberá podľa zákona č. 192/2023 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov. | |
 
     - Položka 4
 
@@ -6736,7 +6736,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 264a
 
-  - Podanie žiadosti o výpis z registra trestov | 10 eur
+  - Podanie žiadosti o vydanie verejnej listiny z registra trestov | 10 eur
 
     - Položka 265
 
