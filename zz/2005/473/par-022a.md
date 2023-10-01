@@ -12,7 +12,7 @@
 
 (2) Fyzická osoba k žiadosti o udelenie licencie na prevádzkovanie bezpečnostnej služby podľa § 2 ods. 1 písm. b) pripojí
 
-- a) doklady a čestné vyhlásenia preukazujúce jej bezúhonnosť a spoľahlivosť okrem odpisu registra trestov,
+- a) doklady a čestné vyhlásenia podľa § 13 ods. 3 druhej vety,
 
 - b) lekársky posudok nie starší ako tri mesiace,
 
