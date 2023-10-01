@@ -334,6 +334,14 @@ Zákon č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niekto
 
 - 36. V § 18 ods. 10 úvodná veta znie: „Sumy pomoci v hmotnej núdzi a osobitného príspevku, na ktoré mala domácnosť ku dňu smrti príjemcu nárok, sa vyplatia na základe potvrdenia úradu o oprávnení na prevzatie pomoci v hmotnej núdzi alebo osobitného príspevku“.
 
+- 45. V § 22 sa za odsek 4 vkladá nový odsek 5, ktorý znie:
+
+- „(5)
+
+- Osobe, ktorej sa spätne za obdobie, v ktorom bola členom domácnosti, ktorej sa poskytovala pomoc v hmotnej núdzi, priznáva nemocenská dávka okrem tehotenského, dôchodková dávka okrem rodičovského dôchodku, úrazový príplatok, úrazová renta, pozostalostná úrazová renta, rehabilitačné, rekvalifikačné, dávka garančného poistenia alebo dávka v nezamestnanosti (ďalej len „zúčtovacia dávka“), úrad písomne oznámi, že Sociálna poisťovňa zúčtuje za toto obdobie priznanú zúčtovaciu dávku s vyplatenou pomocou v hmotnej núdzi.“.
+
+  - Doterajší odsek 5 sa označuje ako odsek 6.
+
 - 46. V § 23 ods. 1 písm. c) sa slová „pomoc v hmotnej núdzi je splatná ku dňu smrti príjemcu“ nahrádzajú slovami „nárok na pomoc v hmotnej núdzi ku dňu smrti príjemcu trval“.
 
 - 49. V § 26 ods. 2 písmeno c) znie:
