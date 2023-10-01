@@ -1,1 +1,1 @@
-Príloha č. 4 k vyhláške č. 287/2022 Z. z. [Príloha č. 4 k vyhláške č. 287/2022 Z. z.](../assets/b5b9179b7076998123f6096bcf1229d5a0567b6f6f0c77211bbcea5ada96b669.pdf)
+Príloha č. 4 k vyhláške č. 287/2022 Z. z. [Príloha č. 4 k vyhláške č. 287/2022 Z. z.](../assets/66c599a77ebe58b3e7be34863a680c1767a06a8921eaeb58c46b243d41e72084.pdf)
