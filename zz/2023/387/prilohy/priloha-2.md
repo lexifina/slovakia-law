@@ -1,0 +1,1 @@
+Príloha č. 2 k rozhodnutiu predsedu Národnej rady Slovenskej republiky č. 387/2023 Z. z. [LEHOTY na vykonanie volieb do orgánov samosprávy obcí 10. februára 2024](../assets/85332441972e3a0bfa59ca091ed1ef70ac9a32e4a97199b4e22eacbb01aca478.pdf)
