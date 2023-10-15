@@ -1,0 +1,1 @@
+Jozef Bíreš v. r.
