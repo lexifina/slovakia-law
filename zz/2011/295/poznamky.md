@@ -1,1 +1,0 @@
-- 1) Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 271/2011 Z. z., ktorou sa ustanovujú kritériá trvalej udržateľnosti a ciele na zníženie emisií skleníkových plynov z pohonných látok.
