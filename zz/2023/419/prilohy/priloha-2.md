@@ -1,0 +1,1 @@
+[Common regulations under the Lisbon agreement for the protection of appellations of origin and their international registration and the Geneva act of the Lisbon agreement on appellations of origin and geographical indications](../assets/b5a95aa62dfacc4b80ca4a9ccf66344d4bd72ca32175a73a479f4972eb176ce3.pdf)
