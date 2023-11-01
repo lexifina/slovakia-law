@@ -148,6 +148,14 @@
 
 - § 157 zákona č. 245/2008 Z. z. v znení zákona č. 221/2019 Z. z.
 
+- 38) Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
+
+- 39) § 9a ods. 1 zákona č. 305/2013 Z. z. v znení zákona č. 273/2015 Z. z.
+
+- 40) § 29 ods. 1 zákona č. 305/2013 Z. z. v znení zákona č. 273/2015 Z. z.
+
+- 41) § 23 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení neskorších predpisov.
+
 - 46a) § 30 zákona Slovenskej národnej rady č. 377/1990 Zb. o hlavnom meste Slovenskej republiky Bratislave v znení neskorších predpisov.
 
 - § 25 zákona Slovenskej národnej rady č. 401/1990 Zb. o meste Košice v znení neskorších predpisov.
