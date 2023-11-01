@@ -1,0 +1,1 @@
+Jana Dubovcová v. r.

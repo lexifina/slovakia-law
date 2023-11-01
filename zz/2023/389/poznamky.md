@@ -1,0 +1,1 @@
+- 1) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 25/2004 Z. z., ktorou sa ustanovujú vzory tlačív na podávanie návrhov na zápis do obchodného registra a zoznam listín, ktoré je potrebné k návrhu na zápis priložiť v znení neskorších predpisov.
