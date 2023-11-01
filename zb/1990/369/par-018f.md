@@ -18,7 +18,9 @@
 
 - h) je povinný vykonať kontrolu, ak ho o to požiada obecné zastupiteľstvo alebo starosta, ak vec neznesie odklad,
 
-- i) plní ďalšie úlohy ustanovené osobitným zákonom.
+- i) je povinný vykonať za predchádzajúci kalendárny rok kontrolu prevodov nehnuteľného majetku obce, ktorého všeobecná hodnota majetku prevýšila 20 000 eur, a to do 60 dní od uplynutia kalendárneho roka; obec zverejní výsledky tejto kontroly do 30 dní po predložení správy o výsledkoch kontroly obecnému zastupiteľstvu na svojej úradnej tabuli a na webovom sídle obce, ak ho má obec zriadené,
+
+- j) plní ďalšie úlohy ustanovené osobitným zákonom.
 
 (2) Hlavný kontrolór sa zúčastňuje na zasadnutiach obecného zastupiteľstva a obecnej rady s hlasom poradným; môže sa zúčastňovať aj na zasadnutiach komisií zriadených obecným zastupiteľstvom.
 
