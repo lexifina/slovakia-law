@@ -116,6 +116,8 @@
 
 - 22d) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku v znení neskorších predpisov.
 
+- 22da) Napríklad zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
+
 - 22e) § 116 Občianskeho zákonníka.
 
 - 22f) Napríklad § 140 Občianskeho zákonníka.
