@@ -1,0 +1,5 @@
+# § 9a Prechodné ustanovenia k úpravám účinným od 1. novembra 2023
+
+(1) Ak koncový odberateľ elektriny splní kritériá na zaradenie do niektorej kategórie podľa § 3 ods. 2 až 7 v znení účinnom od 1. novembra 2023 po uplynutí lehoty podľa § 7 ods. 1 alebo ods. 2 a prevádzkovateľ distribučnej sústavy ešte nenainštaloval inteligentné meracie systémy v počte zodpovedajúcom najmenej 80 % odberných miest koncových odberateľov elektriny, prevádzkovateľ distribučnej sústavy bezodplatne nainštaluje koncovému odberateľovi elektriny inteligentný merací systém do štyroch mesiacov od podania žiadosti, ak sú splnené podmienky pre montáž a prevádzku inteligentného meracieho systému podľa § 8 ods. 1.
+
+(2) Prevádzkovateľ distribučnej sústavy prvýkrát zverejní informáciu o funkciách, využiteľnosti a interoperabilite určeného meradla inteligentného meracieho systému podľa § 8 ods. 6, uplatnené náklady na inštaláciu inteligentného meracieho systému a typy inteligentných meracích systémov ponúkaných koncovým odberateľom elektriny na žiadosť koncového odberateľa podľa § 9 ods. 5 na svojom webovom sídle do 31. decembra 2023.
