@@ -180,6 +180,8 @@ Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov ve
 
 - 32. V § 13 ods. 7 sa slová „funkcie elektronickej schránky“ nahrádzajú slovami „funkcie ústredného portálu“.
 
+- 33. V § 14 ods. 1 prvá veta znie: „Deaktiváciou elektronickej schránky je úkon, ktorým sa zabezpečí, aby elektronickú schránku po tomto úkone nebolo možné použiť na účely elektronického doručovania; deaktivácia elektronickej schránky na žiadosť jej majiteľa nemá vplyv na doručovanie elektronickej úradnej správy vrátane všetkých elektronických dokumentov, ktoré boli do elektronickej schránky uložené pred vykonaním deaktivácie.“.
+
 - 34. V § 14 ods. 2 písmená d) a e) znejú:
 
 - „d)
@@ -199,6 +201,8 @@ Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov ve
 - ústavu na výkon väzby, ústavu na výkon trestu odňatia slobody, ústavu na výkon trestu odňatia slobody pre mladistvých, detenčného ústavu, detenčného ústavu pre mladistvých a nemocnice pre obvinených a odsúdených, ak ide o elektronickú schránku osoby, ktorá je vo väzbe, výkone detencie alebo výkone trestu odňatia slobody, ak s tým majiteľ elektronickej schránky vyjadril súhlas.“.
 
 - 35. V § 14 ods. 3 písm. c) sa za slová „tejto osoby“ vkladajú slová „alebo odseku 2 písm. d) na žiadosť fyzickej osoby podnikateľa“.
+
+- 36. V § 14 ods. 7 sa za slovo „deaktivovaná“ vkladajú slová „z iného dôvodu než na žiadosť jej majiteľa“.
 
 - 37. V § 17 ods. 2 prvá veta znie: „Ak vzájomne elektronicky komunikujú orgány verejnej moci, pričom nie sú navzájom v postavení orgánu aplikácie práva a účastníka konania, môžu komunikovať prostredníctvom elektronickej správy doručovanej do elektronickej schránky, prostredníctvom modulu procesnej integrácie a integrácie údajov alebo priamou formou elektronickej komunikácie medzi sebou, a to aj automatizovaným spôsobom, bez toho, aby pri elektronickej komunikácii doručovali do elektronickej schránky orgánu verejnej moci.“.
 
