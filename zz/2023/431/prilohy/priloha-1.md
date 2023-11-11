@@ -1,0 +1,1 @@
+Príloha č. 1 k rozhodnutiu predsedu Národnej rady Slovenskej republiky č. 431/2023 Z. z. [ZOZNAM OBCÍ, v ktorých sa vyhlasujú voľby do orgánov samosprávy obcí na 10. februára 2024](../assets/30d0633c8ec2ff9b4a3d990d2cd669c653de6d1a9a5b4316256016dd20142612.pdf)
