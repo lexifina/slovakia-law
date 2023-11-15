@@ -1,1 +1,0 @@
-Roman Krpelan v. r.
