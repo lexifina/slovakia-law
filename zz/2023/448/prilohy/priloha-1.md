@@ -1,0 +1,1 @@
+- [Opčný protokol k Dohovoru proti mučeniu a inému krutému, neľudskému alebo ponižujúcemu zaobchádzaniu alebo trestaniu v slovenskom jazyku](../assets/2b629e4379e8698c354251c628bb5bb5030f11929eb115fb0d8c987146e6f1aa.pdf)
