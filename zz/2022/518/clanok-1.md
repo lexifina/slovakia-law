@@ -202,9 +202,13 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 
 - Formu a štruktúru zúčtovacej dávky podľa klasifikačného systému v rozsahu podľa odseku 2 určuje ministerstvo zdravotníctva v elektronickej podobe a zverejňuje ju na svojom webovom sídle. Formu a štruktúru zúčtovacej dávky podľa odseku 2, ak nejde o zúčtovaciu dávku podľa klasifikačného systému, určuje úrad v elektronickej podobe metodickým usmernením, ktoré úrad zverejňuje na svojom webovom sídle.“.
 
+- 17. V § 8a prvej vete sa slovo „decembra“ nahrádza slovom „januára“ a v tretej vete sa na konci pripájajú tieto slová: „zaslanom v predchádzajúcom kalendárnom roku“.
+
 - 18. V § 8a druhej vete sa číslo „0,35 %“ nahrádza číslom „0,45 %“.
 
 - 19. V § 8b vrátane nadpisu sa slová „správu a rozvoj národného zdravotníckeho informačného systému“ nahrádzajú slovami „činnosť národného centra“.
+
+- 20. V § 8b sa vypúšťajú slová „na nasledujúci kalendárny rok“, slovo „decembra“ sa nahrádza slovom „januára“ a tretia veta znie: „Základom na určenie výšky príspevku je celková suma z ročného prerozdeľovania poistného<sup>27aa</sup>) uvedená v rozhodnutí o ročnom prerozdeľovaní poistného podľa osobitného prepisu<sup>27b</sup>) zaslanom v predchádzajúcom kalendárnom roku.“.
 
 - 21. V § 8b druhej vete sa číslo „0,41 %“ nahrádza číslom „0,55 %“.
 
@@ -309,6 +313,10 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 - 33. V § 15a ods. 1 sa slová „Národného inštitútu pre hodnotu a technológie v zdravotníctve<sup>35aam</sup>) (ďalej len „inštitút“)“ nahrádzajú slovom „inštitútu“.
 
   - Poznámka pod čiarou k odkazu 35aam sa vypúšťa.
+
+- 34. § 15a ods. 1 sa slová „decembra kalendárneho roka na nasledujúci kalendárny rok“ nahrádzajú slovami „januára kalendárneho roka“.
+
+- 35. V § 15a ods. 2 druhej vete sa na konci pripájajú tieto slová: „zaslanom v predchádzajúcom kalendárnom roku“.
 
 - 36. V § 16 ods. 1 písm. f) sa na konci čiarka nahrádza bodkočiarkou a pripájajú sa tieto slová: „ak poistenec nemá trvalý pobyt, uvádza sa prechodný pobyt poistenca,“.
 
@@ -461,6 +469,10 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 - Predsedovi úradu patrí mesačne paušálna náhrada na pokrytie nevyhnutných výdavkov súvisiacich s vykonávaním funkcie, a to najviac do výšky 20 % zo mzdy. Paušálna náhrada sa určuje pevnou sumou. Nárok na paušálnu náhradu vzniká odo dňa začatia vykonávania funkcie a zaniká dňom skončenia vykonávania funkcie. Paušálnu náhradu predsedovi úradu určuje správna rada uznesením.“.
 
 - 52. V § 25 ods. 1 písm. g) sa za slovami „zamestnancov úradu“ vkladajú slová „a paušálnu náhradu predsedovi úradu“.
+
+- 53. V § 30 ods. 1 sa slová „decembra kalendárneho roka na nasledujúci kalendárny rok“ nahrádzajú slovami „januára kalendárneho roka“.
+
+- 54. V § 30 ods. 2 druhej vete sa na konci pripájajú tieto slová: „zaslanom v predchádzajúcom kalendárnom roku“.
 
 - 55. § 31 a 32 vrátane nadpisu nad § 31 znejú:
 
