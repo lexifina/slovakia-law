@@ -1,9 +1,0 @@
-Príloha č. 4 k vyhláške č. 552/2005 Z. z.
-
-- POPIS HYDROGEOLOGICKEJ ŠTRUKTÚRY PRÍRODNÝCH LIEČIVÝCH ZDROJOV V ČILISTOVE
-
-  - Ochranné pásma prírodných liečivých zdrojov v Čilistove sa ustanovujú na základe výsledkov geologickej správy Analýzy geologických, geofyzikálnych, hydrogeologických a geochemických prác v hydrogeologickej štruktúre na účely revízie ochranných opatrení a ochranných pásiem prírodných liečivých zdrojov v Šamoríne – Čilistove; Franko, Zvara 2004.
-
-  - Záujmové územie Čilistov sa nachádza v priestore západnej okrajovej časti centrálnej depresie podunajskej panvy. Centrálna depresia vystupuje medzi Bratislavou a Komárnom, má misovitú brachysynklinálnu stavbu a je vyplnená sedimentmi kvartéru, rumanu, dáka, pontu a panónu. Sedimenty kvartéru a rumanu sú zastúpené štrkmi a pieskami s prítomnosťou hlín vo vrchných horizontoch a ostatné stupne striedaním ílov a piesčitých ílov s pieskami a pieskovcami. Geotermálne vody sa viažu na kolektory dáka, pontu a panónu, ktoré sú tvorené predovšetkým pieskami a pieskovcami. Nádrž týchto vôd je priestorovo zvrchu obmedzená rovinou v hĺbke 1 000 m a zbokov a zospodu relatívne nepriepustným podložím – izolátorom. Izolátor s ohľadom na stavbu depresie upadá zo všetkých strán do jej stredu. Hydrogeologicky ide o štruktúru s medzizrnovou priepustnosťou a režimom s napätou hladinou vôd.
-
-  - Na základe doterajších poznatkov štruktúru prírodného liečivého zdroja v Čilistove možno zaradiť medzi polootvorené štruktúry s prirodzenou infiltračnou a akumulačnou oblasťou a umelou výverovou oblasťou. Keďže sa tu uplatňuje najmä medzivrstevné pretekanie, akumulačná oblasť je totožná s infiltračnou oblasťou. Voda z kvartérnych štrkov preto infiltruje priamo cez podložné vrstvy do nádrže geotermálnych vôd, ktorá je exploatovaná prostredníctvom geotermálneho vrtu FGČ-1.

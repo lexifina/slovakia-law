@@ -1,3 +1,0 @@
-Príloha č. 1 k vyhláške č. 552/2005 Z. z.
-
-- OCHRANNÉ PÁSMO I. STUPŇA PRÍRODNÝCH LIEČIVÝCH ZDROJOV V ČILISTOVE ![Obrázek 01](../assets/a3e1f5665c3b872f66582def9d1ca093926f904b93d7092b6a5966d954704dfa.png)
