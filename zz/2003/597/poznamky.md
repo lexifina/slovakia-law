@@ -1,10 +1,6 @@
 - 1) § 27 ods. 3 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
 
-- 2a) § 95 ods. 1 písm. a) a § 104 ods. 1 písm. a) zákona č. 245/2008 Z. z.
-
 - 2b) § 27 ods. 2 písm. a), § 95 ods. 1 písm. a) a § 104 ods. 1 písm. a) zákona č. 245/2008 Z. z.
-
-- 4) § 112 zákona č. 245/2008 Z. z.
 
 - 5) § 15 zákona č. 596/2003 Z. z.
 
@@ -19,8 +15,6 @@
 - § 31 ods. 2 zákona č. 61/2015 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov.
 
 - 10) § 10 ods. 1 písm. h) a j) až m) zákona č. 596/2003 Z. z. v znení zákona č. 325/2012 Z. z.
-
-- 12) Čl. 42 ods. 3 Ústavy Slovenskej republiky.
 
 - 13) § 8 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 

@@ -8,21 +8,23 @@
 
   - 2. úpravu normatívnych finančných prostriedkov na nový školský rok pre jednotlivé školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 4 ods. 10,
 
-  - 3. rozpis finančných prostriedkov pridelených prostredníctvom príspevku na výchovu a vzdelávanie na kalendárny rok pre jednotlivé materské školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 6b ods. 6 písm. a),
+  - 3. rozpis normatívnych finančných prostriedkov na kalendárny rok pre jednotlivé zariadenia poradenstva a prevencie v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 6aa ods. 5,
 
-  - 4. úpravu finančných prostriedkov pridelených prostredníctvom príspevku na výchovu a vzdelávanie na nový školský rok pre jednotlivé materské školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 6b ods. 6 písm. b),
+  - 4. rozpis finančných prostriedkov pridelených prostredníctvom príspevku na výchovu a vzdelávanie na kalendárny rok pre jednotlivé materské školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 6b ods. 6 písm. a),
 
-  - 5. predloženie správy o hospodárení regionálnemu úradu podľa § 7 ods. 1,
+  - 5. úpravu finančných prostriedkov pridelených prostredníctvom príspevku na výchovu a vzdelávanie na nový školský rok pre jednotlivé materské školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 6b ods. 6 písm. b),
 
-  - 6. predloženie údajov o počtoch detí alebo žiakov a ďalších údajov podľa § 7 ods. 4 alebo
+  - 6. predloženie správy o hospodárení regionálnemu úradu podľa § 7 ods. 1,
 
-  - 7. rozpis finančných prostriedkov školám a školským zariadeniam vo svojej zriaďovateľskej pôsobnosti podľa § 7 ods. 12 písm. a) a ods. 13,
+  - 7. predloženie údajov o počtoch detí alebo žiakov a ďalších údajov podľa § 7 ods. 4 alebo
+
+  - 8. rozpis finančných prostriedkov školám a školským zariadeniam vo svojej zriaďovateľskej pôsobnosti podľa § 7 ods. 12 písm. a) a ods. 13,
 
 - b) pokutu 200 eur za neoznámenie výšky normatívnych finančných prostriedkov na kalendárny rok alebo na nový školský rok pre jednotlivé školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 4 ods. 11,
 
 - c) súkromnej školy, súkromného školského zariadenia, cirkevnej školy alebo cirkevného školského zariadenia pokutu vo výške sumy, ktorá zodpovedá sume použitej inak, ako ustanovil zákon, za nedodržanie účelu použitia
 
-  - 1. normatívnych finančných prostriedkov podľa § 2 ods. 3, § 6 ods. 3 alebo § 6a ods. 3,
+  - 1. normatívnych finančných prostriedkov podľa § 2 ods. 4, § 6 ods. 3, § 6a ods. 3 alebo § 6aa ods. 3,
 
   - 2. príspevku na dopravu,
 
