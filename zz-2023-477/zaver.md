@@ -1,0 +1,1 @@
+Zuzana Dolinková v. r.
