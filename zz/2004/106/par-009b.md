@@ -30,7 +30,7 @@
 
 - b) ceny cigariet, znaku pre platnosť sadzby spotrebnej dane, počtu kusov cigariet v spotrebiteľskom balení cigariet a dĺžky jednej cigarety pri spotrebiteľskom balení cigariet.
 
-(12) Colný úrad môže znížiť počet objednaných kusov kontrolných známok, ak nastali okolnosti, na základe ktorých možno odôvodnene predpokladať, že môže dôjsť k porušeniu daňových predpisov, a to
+(12) Colný úrad môže v odôvodnených prípadoch znížiť počet objednaných kusov kontrolných známok, a to
 
 - a) na základe údajov o stave zásob nenalepených kontrolných známok; to sa nevzťahuje na odberateľa kontrolných známok, ktorý je daňovo spoľahlivý podľa § 20 ods. 13 písm. b) a d) a dodržiava podmienky podľa § 9a ods. 3, § 19 ods. 4 alebo § 23 ods. 4 po dobu najmenej 24 predchádzajúcich po sebe nasledujúcich kalendárnych mesiacov,
 
