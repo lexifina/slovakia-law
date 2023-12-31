@@ -442,6 +442,12 @@ Zákon č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko ú�
 
 - Prevádzkovateľ regionálnej distribučnej sústavy je povinný na svojom webovom sídle zverejňovať v dvojtýždňových intervaloch úplné údaje o čerpaní voľnej kapacity pripojenia do sústavy pre zariadenia na výrobu elektriny, a to najmä čas prijatia žiadosti, typ zariadenia, inštalovaný výkon, lokalita pripojenia a doba platnosti stanoviska.“.
 
+- 42. § 5 sa dopĺňa odsekom 11, ktorý znie:
+
+- „(11)
+
+- Prevádzkovateľ distribučnej sústavy s počtom odberných miest viac ako 100 je povinný umožniť výrobcovi elektriny komunikovať s prevádzkovateľom distribučnej sústavy v elektronickej forme, najmä umožniť elektronickú komunikáciu v súvislosti s celým procesom pripojenia zariadenia výrobcu elektriny do distribučnej sústavy.“.
+
 - 43. V § 5b ods. 8 sa slová „verejnej správy.<sup>15ad</sup>)“ nahrádzajú bodkou.
 
 - 44. V § 6 ods. 5 sa na konci vypúšťa bodka a pripájajú sa tieto slová: „a ceny emisných kvót, ktoré sa použili na plnenie povinnosti podľa osobitného predpisu.<sup>15ad</sup>)“.
