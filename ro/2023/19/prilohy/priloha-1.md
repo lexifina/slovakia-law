@@ -1,0 +1,1 @@
+[Príloha k opatreniu č. MF/13542/2023-36](../assets/6385963845db19ba6b591b518534f9127a0c1647fc56ec8e0e2a3e475e2d5150.pdf)
