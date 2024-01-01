@@ -10,6 +10,10 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 
 - 3. V § 170 ods. 11 sa slová „ods. 15“ nahrádzajú slovami „ods. 16“.
 
+- 4. V § 171 ods. 2 písm. a) sa za slová „prechodný pobyt“ vkladajú slová „a identifikačné číslo organizácie, ak je pridelené“.
+
+- 5. V § 171 ods. 2 písm. b) sa slová „osoby a jej sídlo“ nahrádzajú slovami „osoby, jej sídlo a identifikačné číslo organizácie“.
+
 - 6. V § 180 ods. 1 písmeno c) znie:
 
 - „c)
@@ -33,6 +37,10 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 - b)
 
 - nie je možné určiť miestnu príslušnosť pobočky podľa odsekov 1 až 3.“.
+
+- 8. V § 225c ods. 2 písm. c) sa za slová „sídlo, identifikačné číslo“ vkladá slovo „organizácie“.
+
+- 9. V § 225j ods. 5 písm. e), ods. 7 písm. c) a ods. 9 písm. d) sa za slová „sídlo a identifikačné číslo“ vkladá slovo „organizácie“.
 
 - 10. V § 233 ods. 5 písmeno a) znie:
 
@@ -124,4 +132,4 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 
 - 19. Príloha č. 4 vrátane nadpisu znie:
 
-- „[Príloha č. 4 k zákonu č. 461/2003 Z. z. - PERCENTUÁLNA MIERA POKLESU SCHOPNOSTI VYKONÁVAŤ ZÁROBKOVÚ ČINNOSŤ PODĽA DRUHU ZDRAVOTNÉHO POSTIHNUTIA ORGÁNOV A SYSTÉMOV](assets/4131c3a1978dc058c9c73482133ebc39c207a59d0220bbea8e9f88c61fbd4e44.pdf)“.
+- „[Príloha č. 4 k zákonu č. 461/2003 Z. z. - PERCENTUÁLNA MIERA POKLESU SCHOPNOSTI VYKONÁVAŤ ZÁROBKOVÚ ČINNOSŤ PODĽA DRUHU ZDRAVOTNÉHO POSTIHNUTIA ORGÁNOV A SYSTÉMOV](assets/4f9557576ad9174997bac9aef44147ba66a9cfe26f54f4dc66e1df0c26ba259d.pdf)“.
