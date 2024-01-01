@@ -1682,6 +1682,8 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
         - 3. Ak predmetom podnikania osoby uvedenej v písmene d) je predaj vozidiel na základe zmluvného vzťahu s výrobcom vozidla alebo zástupcom výrobcu vozidla, pri zápise držiteľa vozidla do evidencie vozidiel je povinná tento vzťah preukázať správnemu orgánu. Ak držiteľ motorového vozidla podľa písmena d) do jedného roka odo dňa zápisu motorového vozidla do evidencie vozidiel nevykoná prevod držby motorového vozidla na inú osobu, je povinný najneskôr pri nasledujúcej zmene v evidencii vozidiel zaplatiť poplatok podľa písmena a) v sume zodpovedajúcej sume poplatku pri prvej evidencii vozidla.
 
+        - 4. Poplatok podľa tejto položky pri zápise mladšieho historického vozidla podľa § 2 ods. 2 písm. j) zákona č. 106/2018 Z. z. o prevádzke vozidiel v cestnej premávke a o zmene a doplnení niektorých zákonov v znení neskorších predpisov je 33 eur.
+
     - Položka 66
 
   - Podanie žiadosti o vydanie štatistických údajov z evidencie vozidiel alebo z evidencie dopravných nehôd v písomnej alebo elektronickej podobe, ktoré neobsahujú osobné údaje držiteľa vozidla alebo účastníka dopravnej nehody | 20 eur
@@ -2552,7 +2554,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 79
 
-  - a) | Vydanie dopravnej licencie alebo povolenia dopravcovi | |
+  - a) | Vydanie povolenia na prevádzkovanie autobusovej linky alebo povolenia dopravcovi | |
 
   - | 1. | na medzinárodnú pravidelnú autobusovú dopravu, za každý aj začatý rok ..... | 110 eur
 
@@ -2562,7 +2564,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 4. | na mestskú autobusovú dopravu, za každých aj začatých päť rokov na viac autobusových liniek v obci ..... | 180 eur
 
-  - b) | Vykonanie zmeny v dopravnej licencii podľa písmena a) ..... | | 50 % podľa príslušnej sadzby
+  - b) | Vykonanie zmeny v povolení na prevádzkovanie autobusovej linky podľa písmena a) ..... | | 50 % podľa príslušnej sadzby
 
   - c) | Vydanie povolenia na prevádzkovanie medzinárodnej nákladnej cestnej dopravy zahraničným dopravcom medzi dvoma miestami na území Slovenskej republiky | |
 
@@ -2879,6 +2881,12 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - Poznámka | |
 
   - Povolenie na prevádzkovanie električkových dráh alebo trolejbusových dráh a licencie na prevádzkovanie dopravy na týchto dráhach vydávajú miestne príslušné vyššie územné celky. | |
+
+    - Položka 89a
+
+    - a) Vydanie povolenia na prevádzkovanie linky mestskej dráhovej dopravy..................... 110 eur
+
+    - b) Vykonanie zmeny v povolení na prevádzkovanie linky mestskej dráhovej dopravy podľa písmena a) ...................................................... 50 % príslušnej sadzby podľa písmena a)
 
     - Položka 90
 
