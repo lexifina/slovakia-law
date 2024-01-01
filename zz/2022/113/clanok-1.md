@@ -12,6 +12,12 @@ Zákon č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 
 
 - vedie centrálny verejne prístupný zoznam fyzických osôb a právnických osôb, ktorým bola v predchádzajúcich piatich rokoch uložená pokuta za porušenie zákazu nelegálneho zamestnávania, s uvedením ich obchodného mena, miesta podnikania fyzickej osoby alebo sídla právnickej osoby, identifikačného čísla organizácie a dátumu nadobudnutia právoplatnosti rozhodnutia o uložení pokuty; Národný inšpektorát práce zapíše fyzickú osobu alebo právnickú osobu do tohto zoznamu bezodkladne po nadobudnutí právoplatnosti rozhodnutia o uložení pokuty za porušenie zákazu nelegálneho zamestnávania,“.
 
+- 4. V § 6 ods. 1 písmeno v) znie:
+
+- „v)
+
+- poskytuje na žiadosť orgánu verejnej moci v elektronickej podobe údaje o tom, že k určenému dňu nebola fyzickej osobe alebo právnickej osobe právoplatne uložená pokuta za porušenie zákazu nelegálneho zamestnávania na účely preukázania skutočnosti ustanovenej osobitným predpisom,“.
+
 - 5. V § 7 odsek 2 znie:
 
 - „(2)
