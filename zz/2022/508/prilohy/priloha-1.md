@@ -1,1 +1,0 @@
-Príloha č. 1 k opatreniu č. 508/2022 Z. z. [Objektivizované platové koeficienty na obdobie od 1. januára 2023 do 31. augusta 2023](../assets/c226b7d0ecb221db22a92af5009fbcf75cd765296d5b6ea059d2fd65c32d5729.pdf)
