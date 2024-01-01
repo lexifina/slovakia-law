@@ -190,6 +190,206 @@ Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení zákona č. 350/200
 
 - oprave odpočítanej dane podľa § 53, § 53a, § 53b ods. 1 a 2 a oprave opravenej odpočítanej dane podľa § 53b ods. 4.“.
 
+- 22. Za § 70 sa vkladá § 70a, ktorý vrátane nadpisu znie:
+
+- „§ 70a
+
+- Poskytovatelia platobných služieb
+
+- (1)
+
+- Na účely tohto ustanovenia
+
+- a)
+
+- poskytovateľom platobných služieb je poskytovateľ platobných služieb podľa osobitného predpisu,<sup>28h</sup>)
+
+- b)
+
+- tuzemským poskytovateľom platobných služieb je poskytovateľ platobných služieb podľa písmena a), ktorého domovským členským štátom alebo hostiteľským členským štátom je tuzemsko,
+
+- c)
+
+- platobnou službou je platobná služba podľa osobitného predpisu,<sup>28i</sup>)
+
+- d)
+
+- platbou je platobná operácia<sup>28j</sup>) alebo poukázanie peňazí,<sup>28k</sup>)
+
+- e)
+
+- poskytovateľom platby je platiteľ podľa osobitného predpisu,<sup>28l</sup>)
+
+- f)
+
+- príjemcom platby je príjemca,<sup>28m</sup>)
+
+- g)
+
+- domovským členským štátom je domovský členský štát podľa osobitného predpisu,<sup>28n</sup>)
+
+- h)
+
+- hostiteľským členským štátom je hostiteľský členský štát podľa osobitného predpisu,<sup>28o</sup>)
+
+- i)
+
+- cezhraničnou platbou je platba, ak sa poskytovateľ platby nachádza v členskom štáte určenom podľa odseku 6 a príjemca platby sa nachádza v inom členskom štáte alebo v treťom štáte určenom podľa odseku 7.
+
+- (2)
+
+- Tuzemský poskytovateľ platobných služieb je povinný, na účel vykonávania kontroly dodania tovaru alebo dodania služby s miestom dodania na území Európskej únie, viesť záznamy podľa odseku 8 o príjemcovi platby cezhraničnej platby a o cezhraničnej platbe v súvislosti s platobnou službou, ktorú poskytol, a to za obdobie kalendárneho štvrťroka, počas ktorého poskytol platobné služby zodpovedajúce viac ako 25 cezhraničným platbám rovnakému príjemcovi platby. Počet cezhraničných platieb podľa prvej vety sa určí podľa platobných služieb, ktoré tuzemský poskytovateľ platobných služieb poskytol, a podľa identifikátorov uvedených v odseku 7. Ak má tuzemský poskytovateľ platobných služieb informáciu, že príjemca platby má niekoľko identifikátorov, počet cezhraničných platieb sa určí podľa príjemcu platby.
+
+- (3)
+
+- Povinnosť podľa odseku 2 sa vzťahuje na tuzemského poskytovateľa platobných služieb
+
+- a)
+
+- príjemcu platby,
+
+- b)
+
+- poskytovateľa platby, ak sa ani jeden z poskytovateľov platobných služieb príjemcu platby nenachádza na území Európskej únie.
+
+- (4)
+
+- Pre určenie počtu cezhraničných platieb podľa odseku 2 je tuzemský poskytovateľ platobných služieb poskytovateľa platby podľa odseku 3 písm. b) povinný zahrnúť všetky platobné služby poskytnuté poskytovateľovi platby, ktoré zodpovedajú cezhraničným platbám rovnakému príjemcovi platby.
+
+- (5)
+
+- Tuzemský poskytovateľ platobných služieb podľa odseku 3 je povinný
+
+- a)
+
+- viesť záznamy podľa odseku 8 v elektronickom formáte počas obdobia troch kalendárnych rokov od konca kalendárneho roka, v ktorom bola platba vykonaná,
+
+- b)
+
+- sprístupniť finančnému riaditeľstvu elektronickými prostriedkami záznamy podľa odseku 8 prostredníctvom elektronického formulára najneskôr do konca kalendárneho mesiaca nasledujúceho po kalendárnom štvrťroku, ktorého sa tieto záznamy týkajú podľa osobitného predpisu.<sup>28p</sup>)
+
+- (6)
+
+- Za miesto poskytovateľa platby, ktorý vykoná cezhraničnú platbu, sa na účely tohto ustanovenia považuje členský štát identifikovaný podľa
+
+- a)
+
+- IBAN platobného účtu poskytovateľa platby alebo akéhokoľvek iného identifikátora, ktorý určuje poskytovateľa platby a jeho miesto, alebo
+
+- b)
+
+- BIC alebo akéhokoľvek iného obchodného identifikačného kódu, ktorý určuje poskytovateľa platobných služieb konajúceho v mene poskytovateľa platby a jeho miesto, ak identifikátory podľa písmena a) nie sú k dispozícii.
+
+- (7)
+
+- Za miesto príjemcu platby cezhraničnej platby sa považuje členský štát alebo tretí štát identifikovaný podľa
+
+- a)
+
+- IBAN platobného účtu príjemcu platby alebo akéhokoľvek iného identifikátora, ktorý určuje príjemcu platby a jeho miesto, alebo
+
+- b)
+
+- BIC alebo akéhokoľvek iného obchodného identifikačného kódu, ktorý určuje poskytovateľa platobných služieb konajúceho v mene príjemcu platby a jeho miesto, ak identifikátory podľa písmena a) nie sú k dispozícii.
+
+- (8)
+
+- Záznamy podľa odseku 2, ktoré je povinný viesť tuzemský poskytovateľ platobných služieb podľa odseku 3, musia obsahovať
+
+- a)
+
+- BIC alebo akýkoľvek iný obchodný identifikačný kód, ktorý určuje poskytovateľa platobných služieb,
+
+- b)
+
+- meno a priezvisko príjemcu platby alebo obchodné meno alebo názov príjemcu platby, uvedené v záznamoch poskytovateľa platobných služieb,
+
+- c)
+
+- identifikačné číslo pre daň alebo národné daňové číslo príjemcu platby, ak je k dispozícii,
+
+- d)
+
+- IBAN alebo akýkoľvek iný identifikátor, ktorý určuje príjemcu platby a jeho miesto, ak IBAN nie je k dispozícii,
+
+- e)
+
+- BIC alebo akýkoľvek iný obchodný identifikačný kód, ktorý určuje poskytovateľa platobných služieb konajúceho v mene príjemcu platby a jeho miesto, ak príjemca platby prijíma finančné prostriedky a nemá platobný účet,
+
+- f)
+
+- adresu príjemcu platby, ak je k dispozícii, uvedenú v záznamoch poskytovateľa platobných služieb,
+
+- g)
+
+- údaje o všetkých cezhraničných platbách podľa odseku 2,
+
+- h)
+
+- údaje o vrátených platbách vzťahujúcich sa k cezhraničným platbám podľa písmena g).
+
+- (9)
+
+- Pri údajoch podľa odseku 8 písm. g) sa uvedie
+
+- a)
+
+- dátum a čas platby,
+
+- b)
+
+- suma a mena platby,
+
+- c)
+
+- členský štát pôvodu platby, ktorú prijal príjemca platby alebo ktorá bola prijatá v mene príjemcu platby, a druh identifikátorov podľa odseku 6 použitých na účely určenia tohto členského štátu,
+
+- d)
+
+- akákoľvek informácia, ktorá identifikuje platbu,
+
+- e)
+
+- informácia o platbe vykonanej v priestoroch dodávateľa tovaru alebo služby, ak má o nej poskytovateľ platobných služieb vedomosť.
+
+- (10)
+
+- Pri údajoch podľa odseku 8 písm. h) sa uvedie
+
+- a)
+
+- dátum a čas vrátenia platby,
+
+- b)
+
+- suma a mena vrátenej platby,
+
+- c)
+
+- členský štát určenia vrátenej platby a druh identifikátorov podľa odseku 6 použitých na účely určenia tohto členského štátu.“.
+
+  - Poznámky pod čiarou k odkazom 28h až 28p znejú:
+
+  - „<sup>28h</sup>) § 2 ods. 3 písm. a) až d) a g) zákona č. 492/2009 Z. z. v znení zákona č. 281/2017 Z. z.
+
+  - <sup>28i</sup>) § 2 ods. 1 písm. c) až f) zákona č. 492/2009 Z. z. v znení zákona č. 281/2017 Z. z.
+
+  - <sup>28j</sup>) § 2 ods. 2 zákona č. 492/2009 Z. z. v znení zákona č. 281/2017 Z. z.
+
+  - <sup>28k</sup>) § 2 ods. 8 zákona č. 492/2009 Z. z. v znení zákona č. 454/2021 Z. z.
+
+  - <sup>28l</sup>) § 2 ods. 4 zákona č. 492/2009 Z. z. v znení neskorších predpisov.
+
+  - <sup>28m</sup>) § 2 ods. 5 zákona č. 492/2009 Z. z. v znení zákona č. 281/2017 Z. z.
+
+  - <sup>28n</sup>) § 2 ods. 25 zákona č. 492/2009 Z. z.
+
+  - <sup>28o</sup>) § 2 ods. 26 zákona č. 492/2009 Z. z. v znení zákona č. 394/2011 Z. z.
+
+  - <sup>28p</sup>) Čl. 24b a 24e nariadenia Rady (EÚ) č. 904/2010 zo 7. októbra 2010 o administratívnej spolupráci a boji proti podvodom v oblasti dane z pridanej hodnoty (prepracované znenie) (Ú. v. EÚ L 268, 12. 10. 2010) v platnom znení.
+
+  - Čl. 4 a Príloha vykonávacieho nariadenia Komisie (EÚ) 2022/1504 zo 6. apríla 2022, ktorým sa stanovujú podrobné pravidlá uplatňovania nariadenia Rady (EÚ) č. 904/2010, pokiaľ ide o vytvorenie centrálneho elektronického systému informácií o platbách (CESOP) na boj proti podvodom v oblasti DPH (Ú. v. EÚ L 235, 12. 9. 2022).“.
+
 - 23. V § 78 ods. 2 sa za slovami „§ 47“ vypúšťa čiarka a slová „dodal tovar podľa § 45“.
 
 - 24. V § 78 ods. 4 sa na konci pripája táto veta:
@@ -305,3 +505,11 @@ Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení zákona č. 350/200
 - Smernica Rady 2006/79/ES z 5. októbra 2006 o oslobodení od daní pri dovoze malých zásielok tovaru neobchodného charakteru z tretích krajín (kodifikované znenie) (Ú. v. EÚ L 286, 17. 10. 2006).“.
 
   - Doterajšie body 2 až 27 sa označujú ako body 3 až 28.
+
+- 34. V prílohe č. 6 sa za bod 24 vkladá nový bod 25, ktorý znie:
+
+- „25.
+
+- Smernica Rady (EÚ) 2020/284 z 18. februára 2020, ktorou sa mení smernica 2006/112/ES, pokiaľ ide o zavedenie určitých požiadaviek na poskytovateľov platobných služieb (Ú. v. EÚ L 62, 2. 3. 2020).“.
+
+  - Doterajšie body 25 až 28 sa označujú ako body 26 až 29.
