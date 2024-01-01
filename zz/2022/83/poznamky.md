@@ -1,1 +1,0 @@
-- 1) § 6 nariadenia vlády Slovenskej republiky č. 183/2021 Z. z. na vykonanie niektorých opatrení hospodárskej mobilizácie v súvislosti s vyhlásenou mimoriadnou situáciou na zabezpečenie riešenia koronavírusu COVID-19.
