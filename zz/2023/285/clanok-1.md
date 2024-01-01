@@ -10,11 +10,61 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
   - Doterajšie body 4b až 4e sa označujú ako body 4c až 4f.
 
+- 2. V § 11 sa odsek 1 dopĺňa písmenom k), ktoré znie:
+
+- „k)
+
+- ambulancie záchrannej zdravotnej služby,<sup>14</sup>) a to
+
+- 1.
+
+- ambulancie rýchlej lekárskej pomoci,
+
+- 2.
+
+- ambulancie rýchlej lekárskej pomoci v stretávacom režime „RV“,
+
+- 3.
+
+- ambulancie rýchlej zdravotnej pomoci,
+
+- 4.
+
+- ambulancie rýchlej lekárskej pomoci s vybavením mobilnej intenzívnej jednotky,
+
+- 5.
+
+- ambulancie vrtuľníkovej záchrannej zdravotnej služby,
+
+- 6.
+
+- ambulancie rýchlej zdravotnej pomoci „S“.
+
+- 3. V § 11 ods. 2 sa slová „podľa odseku 1 písm. e) až h) a podľa odseku 3“ nahrádzajú slovami „podľa odseku 1 písm. e) až h) a k)“.
+
+- 4. V § 11 sa vypúšťa odsek 3.
+
+  - Doterajšie odseky 4 a 5 sa označujú ako odseky 3 a 4.
+
+- 5. V § 12 ods. 1 sa za slovami „Ministerstvo zdravotníctva“ vypúšťa čiarka a vypúšťajú sa slová „úrad pre dohľad“.
+
+- 6. V § 12 ods. 4 úvodnej vete a ods. 8, § 14 ods. 1 až 4, ods. 5 písm. e) a ods. 8, 11 a 14 a § 17c ods. 1 sa slová „úrad pre dohľad“ vo všetkých tvaroch nahrádzajú slovami „ministerstvo zdravotníctva“ v príslušnom tvare.
+
+- 7. V § 12 ods. 4 a 8, § 13 ods. 6 a 7, § 14 ods. 1 a § 23 sa vypúšťajú slová „(§ 11 ods. 3)“.
+
+- 8. V § 14 ods. 5 úvodnej vete a ods. 6 a 7 sa slová „predseda úradu pre dohľad“ vo všetkých tvaroch nahrádzajú slovami „minister zdravotníctva“ v príslušnom tvare.
+
 - 10. V § 17b odsek 1 znie:
 
 - „(1)
 
 - Zmeniť sídlo stanice záchrannej zdravotnej služby mimo sídla ustanoveného osobitným predpisom<sup>14a</sup>) možno len so súhlasom úradu pre dohľad a so súhlasom ministerstva zdravotníctva, ktoré si na tento účel vyžiada stanovisko operačného strediska tiesňového volania záchrannej zdravotnej služby.<sup>19a</sup>) Úrad pre dohľad udelí súhlas na zmenu sídla stanice záchrannej zdravotnej služby, len ak ministerstvo zdravotníctva udelilo súhlas na zmenu sídla stanice záchrannej zdravotnej služby a zo stanoviska operačného strediska tiesňového volania záchrannej zdravotnej služby vyplýva, že požadovaná zmena predstavuje efektívnejšie zabezpečenie záchrannej zdravotnej služby. Zmena sídla stanice záchrannej zdravotnej služby vyžaduje vydanie nového povolenia, ktorým úrad pre dohľad súčasne zruší pôvodné povolenie.“.
+
+- 11. V § 17b odsek 1 znie:
+
+- „(1)
+
+- Zmeniť sídlo stanice záchrannej zdravotnej služby mimo sídla ustanoveného osobitným predpisom<sup>14a</sup>) možno len so súhlasom ministerstva zdravotníctva, ktoré si na tento účel vyžiada stanovisko operačného strediska tiesňového volania záchrannej zdravotnej služby.<sup>19a</sup>) Ministerstvo zdravotníctva môže udeliť súhlas na zmenu sídla stanice záchrannej zdravotnej služby, len ak zo stanoviska operačného strediska tiesňového volania záchrannej zdravotnej služby vyplýva, že požadovaná zmena predstavuje efektívnejšie zabezpečenie záchrannej zdravotnej služby. Zmena sídla stanice záchrannej zdravotnej služby vyžaduje vydanie nového povolenia, ktorým ministerstvo zdravotníctva súčasne zruší pôvodné povolenie.“.
 
 - 13. V § 17d odsek 1 znie:
 
@@ -22,13 +72,47 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - Typ ambulancie záchrannej zdravotnej služby podľa § 11 ods. 3 písm. a) až c) a e) možno zmeniť len so súhlasom úradu pre dohľad a so súhlasom ministerstva zdravotníctva, ktoré si na tento účel vyžiada stanovisko operačného strediska tiesňového volania záchrannej zdravotnej služby. Úrad pre dohľad udelí súhlas na zmenu typu ambulancie záchrannej zdravotnej služby, len ak ministerstvo zdravotníctva udelilo súhlas na zmenu typu ambulancie záchrannej zdravotnej služby a zo stanoviska operačného strediska tiesňového volania záchrannej zdravotnej služby vyplýva, že požadovaná zmena predstavuje efektívnejšie zabezpečenie záchrannej zdravotnej služby. Zmena typu ambulancie záchrannej zdravotnej služby vyžaduje vydanie nového povolenia, ktorým úrad pre dohľad súčasne zruší pôvodné povolenie.“.
 
+- 14. V § 17d odsek 1 znie:
+
+- „(1)
+
+- Typ ambulancie záchrannej zdravotnej služby podľa § 11 ods. 1 písm. k) prvého bodu až štvrtého bodu a šiesteho bodu možno zmeniť len so súhlasom ministerstva zdravotníctva, ktoré si na tento účel vyžiada stanovisko operačného strediska tiesňového volania záchrannej zdravotnej služby. Ministerstvo zdravotníctva môže udeliť súhlas na zmenu typu ambulancie záchrannej zdravotnej služby, len ak zo stanoviska operačného strediska tiesňového volania záchrannej zdravotnej služby vyplýva, že požadovaná zmena predstavuje efektívnejšie zabezpečenie záchrannej zdravotnej služby. Zmena typu ambulancie záchrannej zdravotnej služby vyžaduje vydanie nového povolenia, ktorým ministerstvo zdravotníctva súčasne zruší pôvodné povolenie.“.
+
 - 15. V §17d ods. 2 sa vypúšťa písmeno b).
 
   - Doterajšie písmeno c) sa označuje ako písmeno b).
 
+- 16. V § 17d ods. 2 písm. b) druhom bode sa slovo „alebo“ nahrádza čiarkou.
+
+- 17. V § 17d ods. 2 písm. b) treťom bode sa na konci bodka nahrádza slovom „alebo“.
+
+- 18. V § 17d ods. 2 sa písmeno b) dopĺňa štvrtým bodom, ktorý znie:
+
+- „4.
+
+- ambulancie rýchlej lekárskej pomoci na ambulanciu rýchlej lekárskej pomoci v stretávacom režime „RV“.
+
+- 20. V § 21 ods. 1 sa za slovami „samosprávny kraj“ vypúšťa čiarka a slová „regionálny úrad verejného zdravotníctva alebo úrad pre dohľad“ sa nahrádzajú slovami „alebo regionálny úrad verejného zdravotníctva“.
+
 - 21. V § 25 ods. 1 písm. c) sa na konci čiarka nahrádza bodkočiarkou a pripájajú sa tieto slová: „to neplatí pre rozhodnutie o vydaní povolenia na prevádzkovanie ambulancie záchrannej zdravotnej služby,“.
 
+- 22. V § 26 ods. 1 písm. c) sa vypúšťa bodkočiarka a vypúšťajú sa slová „to neplatí, ak je úrad pre dohľad orgánom príslušným na vydanie povolenia“.
+
+- 23. V § 26 sa vypúšťa odsek 6.
+
 - 24. V § 39b ods. 13 sa vypúšťajú slová „všeobecné lekárstvo“.
+
+- 25. V § 81 ods. 1 písm. a) sa za slová „(§ 11)“ vkladajú slová „a vo vzťahu k držiteľom povolení na prevádzkovanie ambulancie záchrannej zdravotnej služby úrad pre dohľad“.
+
+- 26. V § 81 sa za odsek 2 vkladá nový odsek 3, ktorý znie:
+
+- „(3)
+
+- Ak úrad pre dohľad pri výkone dozoru podľa odseku 1 písm. a) zistí skutočnosti oprávňujúce uložiť sankciu podľa odseku 2 písm. b) alebo písm. c), bezodkladne o tom informuje ministerstvo zdravotníctva a predloží mu podklady potrebné na rozhodnutie.“.
+
+  - Doterajšie odseky 3 až 6 sa označujú ako odseky 4 až 7.
+
+- 27. V § 82 ods. 1 úvodnej vete sa za slová „(§ 11)“ vkladajú slová „a vo vzťahu k držiteľovi povolenia na prevádzkovanie ambulancie záchrannej zdravotnej služby úrad pre dohľad“.
 
 - 28. Za § 102at sa vkladajú § 102au a §102av, ktoré vrátane nadpisov znejú:
 
