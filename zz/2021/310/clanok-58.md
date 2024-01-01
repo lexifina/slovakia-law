@@ -10,6 +10,10 @@ Zákon č. 284/2014 Z. z. o Fonde na podporu umenia a o zmene a doplnení zákon
 
 - čestné vyhlásenie žiadateľa, že proti nemu nie je vedený výkon rozhodnutia,“.
 
+- 3. V § 20 ods. 2 sa vypúšťa písmeno h).
+
+  - Doterajšie písmená i) a j) sa označujú ako písmená h) a i).
+
 - 4. V § 20 ods. 2 sa vypúšťajú písmená i) a j).
 
   - Doterajšie písmená k) a l) sa označujú ako písmená i) a j).
@@ -33,5 +37,7 @@ Zákon č. 284/2014 Z. z. o Fonde na podporu umenia a o zmene a doplnení zákon
 - 9. V § 22 ods. 14 sa slovo „dotácie“ nahrádza slovami „dotácie alebo štipendia“.
 
 - 10. V § 27 ods. 4 sa slová „§ 19 ods. 2 písm. g)“ nahrádzajú slovami „§ 19 ods. 2 písm. b), c) a g)“.
+
+- 11. V § 27 ods. 4 sa slová „§ 19 ods. 2 písm. b), c) a g)“ nahrádzajú slovami „§ 19 ods. 2 písm. b), c), f) a g)“.
 
 - 12. V § 27 ods. 6 sa slová „§ 19 ods. 2 písm. a), d) až g)“ nahrádzajú slovami „§ 19 ods. 2 písm. a), b), d) až g)“.

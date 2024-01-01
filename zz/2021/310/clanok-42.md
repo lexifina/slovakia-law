@@ -2,6 +2,10 @@
 
 Zákon č. 516/2008 Z. z. o Audiovizuálnom fonde a o zmene a doplnení niektorých zákonov v znení zákona č. 532/2010 Z. z., zákona č. 547/2011 Z. z., zákona č. 340/2012 Z. z., zákona č. 352/2013 Z. z., zákona č. 374/2013 Z. z., zákona č. 40/2015 Z. z., zákona č. 138/2017 Z. z., zákona č. 177/2018 Z. z., zákona č. 211/2018 Z. z., zákona č. 221/2019 Z. z., zákona č. 304/2019 Z. z., zákona č. 129/2020 Z. z. a zákona č. 300/2020 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 20 ods. 2 sa vypúšťa písmeno d).
+
+  - Doterajšie písmená e) až k) sa označujú ako písmená d) až j).
+
 - 2. V § 20 ods. 2 písmeno f) znie:
 
 - „f)
@@ -14,6 +18,10 @@ Zákon č. 516/2008 Z. z. o Audiovizuálnom fonde a o zmene a doplnení niektor�
 
 - 5. V § 22 ods. 1 sa vypúšťa slovo „písomnej“.
 
+- 6. V § 22e ods. 3 sa vypúšťa písmeno e).
+
+  - Doterajšie písmená f) až h) sa označujú ako písmená e) až g).
+
 - 7. V § 22e ods. 3 sa vypúšťa písmeno g).
 
   - Doterajšie písmená h) a i) sa označujú ako písmená g) a h).
@@ -23,3 +31,5 @@ Zákon č. 516/2008 Z. z. o Audiovizuálnom fonde a o zmene a doplnení niektor�
 - 9. V § 22f ods. 4 sa vypúšťa slovo „písomnej“.
 
 - 10. V § 33 ods. 5 sa slová „§ 19 ods. 3 písm. c)“ nahrádzajú slovami „§ 19 ods. 3 písm. a) až c)“.
+
+- 11. V § 33 ods. 5 sa za slová „a) až c)“ vkladajú slová „a e)“.

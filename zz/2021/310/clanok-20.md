@@ -6,6 +6,10 @@ Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmen
 
   - Doterajšie písmená c) a d) sa označujú ako písmená b) a c).
 
+- 2. V § 8a ods. 5 sa vypúšťa písmeno c).
+
+  - Poznámka pod čiarou k odkazu 14c sa vypúšťa.
+
 - 3. V § 8a odsek 6 znie:
 
 - „(6)

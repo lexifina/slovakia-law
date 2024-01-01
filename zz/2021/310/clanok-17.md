@@ -8,4 +8,6 @@ Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektor
 
 - 3. V § 70 ods. 8 šiesta veta znie: „Národný inšpektorát práce je povinný do 15 pracovných dní poskytnúť úradu elektronicky z informačného systému informácie týkajúce sa splnenia podmienky podľa odseku 7 písm. c).“.
 
+- 4. V § 70 ods. 8 sa vypúšťa šiesta veta.
+
 - 5. V prílohe č. 2 písm. A sa vypúšťa písmeno i).

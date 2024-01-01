@@ -102,6 +102,22 @@ Zákon č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratí
 
   - <sup>3cl</sup>) § 79 ods. 1 písm. h) zákona č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.“.
 
+- 7. V § 1 sa odsek 3 dopĺňa písmenami q) a r), ktoré znejú:
+
+- „q)
+
+- informačný systém sociálnej ekonomiky<sup>3cm</sup>) v časti týkajúcej sa registra sociálnych podnikov,
+
+- r)
+
+- informačný systém ochrany práce<sup>3cn</sup>) v časti týkajúcej sa zákazu nelegálneho zamestnávania.“.
+
+  - Poznámky pod čiarou k odkazom 3cm a 3cn znejú:
+
+  - „<sup>3cm</sup>) § 27a zákona č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zmene a doplnení niektorých zákonov v znení zákona č. 374/2019 Z. z.
+
+  - <sup>3cn</sup>)§ 6 ods. 1 písm. c) zákona č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov.“.
+
 - 8. V § 1 odsek 4 znie:
 
 - „(4)
