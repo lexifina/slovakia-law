@@ -54,4 +54,6 @@ Opatrenie Ministerstva financií Slovenskej republiky z 30. novembra 2005 č. MF
 
 - 10. V § 56 ods. 2 sa vypúšťa čiarka a slovo „nájomné“.
 
-[Konsolidovane znenie](assets/d5fe5b2ea37d690cd1456ead04f305a0eb307fc934e66a254092c863bd60c039.pdf)
+- 11. V § 60 ods. 6 sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „ak ide o dodávateľsko-odberateľské vzťahy.“.
+
+[Konsolidovane znenie](assets/0131de612e8e3c6c9d4f6d64039b82d9e6957f83cacd026d54b9877a69e61b51.pdf)
