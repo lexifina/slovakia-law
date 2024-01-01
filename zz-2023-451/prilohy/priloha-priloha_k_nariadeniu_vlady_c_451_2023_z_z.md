@@ -1,0 +1,1 @@
+Príloha k nariadeniu vlády č. 451/2023 Z. z. [Image omitted: https://static.slov-lex.sk/pdf/prilohy/SK/ZZ/2023/451/20240101_5587719-2.pdf; Národný zoznam území európskeho významu (príloha v PDF); reason: too large]
