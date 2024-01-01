@@ -26,6 +26,8 @@
 
 - 11a) § 11 ods. 10 zákona č. 576/2004 Z. z.
 
+- 11aa) § 5 ods. 2 a 4 vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 95/2018 Z. z., ktorou sa určuje rozsah ošetrovateľskej praxe poskytovanej sestrou samostatne, samostatne na základe indikácie lekára a v spolupráci s lekárom a rozsah praxe pôrodnej asistencie poskytovanej pôrodnou asistentkou samostatne, samostatne na základe indikácie lekára a v spolupráci s lekárom.
+
 - 11b) § 9a a § 10 zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
 
 - 11c) Nariadenie Európskeho parlamentu a Rady (ES) č. 883/2004 z 29. apríla 2004 o koordinácii systémov sociálneho zabezpečenia (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 5; Ú. v. EÚ L 200, 7. 6. 2004) v platnom znení.
@@ -59,6 +61,8 @@
 - 11p) § 35, 36, 38 a 39 zákona č. 448/2008 Z. z. v znení neskorších predpisov.
 
 - 11q) § 24a až 24d, § 25 až 29 zákona č. 448/2008 Z. z. v znení neskorších predpisov.
+
+- 11r) § 4 zákona č. 540/2021 Z. z. o kategorizácii ústavnej zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 
 - 12) § 7 ods. 1 písm. b) a § 9 zákona č. 576/2004 Z. z.
 

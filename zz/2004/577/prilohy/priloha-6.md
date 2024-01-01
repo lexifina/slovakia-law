@@ -1,3 +1,3 @@
 Príloha č. 6 k zákonu č. 577/2004 Z. z.
 
-- INDIKAČNÝ ZOZNAM PRE KÚPEĽNÚ STAROSTLIVOSŤ [Príloha č. 6 k zákonu č. 577/2004 Z. z.](../assets/160bfd45970424de1e6d8246425cfd209900011c1d4d97aa20eeb5938282e70d.pdf)
+- INDIKAČNÝ ZOZNAM PRE KÚPEĽNÚ STAROSTLIVOSŤ [Príloha č. 6 k zákonu č. 577/2004 Z. z.](../assets/d7060c24bfb7000e81edc257f75d9f1841d7c2ce9585a34fc51b71db06bff5e3.pdf)
