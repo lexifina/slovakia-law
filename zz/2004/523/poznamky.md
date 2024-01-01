@@ -64,8 +64,6 @@
 
 - 14bb) Zákon č. 315/2016 Z. z.
 
-- 14c) § 7 ods. 3 písm. n) zákona č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov.
-
 - 14ca) § 2 ods. 5 zákona č. 82/2005 Z. z. v znení zákona č. 223/2011 Z. z.
 
 - 14caa) § 5 zákona č. 91/2016 Z. z. o trestnej zodpovednosti právnických osôb a o zmene a doplnení niektorých zákonov.

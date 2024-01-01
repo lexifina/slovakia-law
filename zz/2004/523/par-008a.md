@@ -28,9 +28,7 @@
 
 - a) čestným vyhlásením žiadateľa, že má vysporiadané finančné vzťahy so štátnym rozpočtom okrem finančných vzťahov voči daňovému úradu a colnému úradu, ak ide o splnenie podmienky podľa odseku 4 písm. a),
 
-- b) čestným vyhlásením žiadateľa, že voči nemu nie je vedený výkon rozhodnutia, ak ide o splnenie podmienky podľa odseku 4 písm. c),
-
-- c) potvrdením príslušného inšpektorátu práce<sup>14c</sup>) nie starším ako tri mesiace, že mu nebola uložená pokuta za porušenie zákazu nelegálneho zamestnávania podľa osobitného predpisu,<sup>14b</sup>) ak ide o splnenie podmienky podľa odseku 4 písm. d).
+- b) čestným vyhlásením žiadateľa, že voči nemu nie je vedený výkon rozhodnutia, ak ide o splnenie podmienky podľa odseku 4 písm. c).
 
 (6) Na žiadateľa, ktorý je subjektom verejnej správy, sa ustanovenia odseku 4 písm. b) a c) a odseku 5 písm. b) nevzťahujú. Ustanovenia odseku 4 písm. c) a odseku 5 písm. b) sa nevzťahujú ani na žiadateľa, ktorým je štátny podnik, aj keď nie je subjektom verejnej správy. Splnenie podmienky podľa odseku 4 písm. b) sa vzťahuje len na žiadateľa, ktorým je právnická osoba a fyzická osoba – podnikateľ. Fyzická osoba a právnická osoba, ktorá je žiadateľom o dotáciu na účely financovania aktivít zameraných na podporu Slovákov žijúcich v zahraničí podľa osobitného predpisu,<sup>14cb</sup>) preukazuje splnenie podmienok uvedených v odseku 4 čestným vyhlásením. Splnenie podmienok podľa odseku 4 písm. f) a g) sa vzťahuje len na žiadateľa, ktorým je právnická osoba, okrem právnickej osoby podľa osobitného predpisu;<sup>14caa</sup>) na preukázanie splnenia týchto podmienok žiadateľ poskytne údaje potrebné na vyžiadanie výpisu z registra trestov.<sup>14cab</sup>) Údaje podľa piatej vety poskytovateľ dotácie bezodkladne zašle v elektronickej podobe prostredníctvom elektronickej komunikácie Generálnej prokuratúre Slovenskej republiky na vydanie výpisu z registra trestov.
 
