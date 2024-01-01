@@ -28,6 +28,16 @@ Zákon č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplne
 
 - 8. V § 148a ods. 3 sa slová „Právoplatné rozhodnutie“ nahrádzajú slovom „Rozhodnutie“.
 
+- 9. V § 155 ods. 4 sa na konci pripája táto veta:
+
+- „Daňový úrad alebo colný úrad pokutu, ktorej výšku možno určiť v rámci ustanoveného rozpätia, pri prvom porušení povinnosti neuloží.“.
+
+- 10. V § 156 odsek 8 znie:
+
+- „(8)
+
+- Úrok z omeškania nemožno vyrubiť, ak uplynulo päť rokov od konca roka, v ktorom bol daňový subjekt povinný zaplatiť daň, rozdiel dane, preddavok na daň, splátku dane alebo sumu na zabezpečenie dane, alebo odviesť vybraný preddavok na daň, vybranú daň alebo zrazenú daň. Ak suma podľa prvej vety bola uhradená, úrok z omeškania nemožno vyrubiť po uplynutí jedného roka od konca roka, v ktorom bola táto suma uhradená; lehota podľa prvej vety tým nie je dotknutá.“.
+
 - 11. Za § 157a sa vkladá § 157b, ktorý vrátane nadpisu znie:
 
 - „§ 157b
@@ -42,4 +52,16 @@ Zákon č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplne
 
 - Prechodné ustanovenie k úprave účinnej od 1. januára 2023
 
-- Ustanovenie § 165j ods. 2 sa od 1. januára 2023 nepoužije.“.
+- Ustanovenie § 165j ods. 2 sa od 1. januára 2023 nepoužije.
+
+- § 165o
+
+- Prechodné ustanovenia k úpravám účinným od 1. januára 2024
+
+- (1)
+
+- Ustanovenie § 155 ods. 4 v znení účinnom od 1. januára 2024 sa použije na uloženie pokuty, ak skutočnosť rozhodujúca pre uloženie pokuty nastala po 31. decembri 2023.
+
+- (2)
+
+- Úrok z omeškania za oneskorenú úhradu dane, rozdielu dane, preddavku na daň, splátky dane, sumy na zabezpečenie dane, vybraného preddavku na daň, vybranej dane alebo zrazenej dane, pri ktorých k úplnej úhrade došlo do 31. decembra 2023, sa vyrubí najneskôr do 31. decembra 2024.“.
