@@ -24,6 +24,12 @@ Zákon č. 473/2005 Z. z. o poskytovaní služieb v oblasti súkromnej bezpečno
 
 - 6. V § 18 ods. 3 sa číslo „20“ nahrádza číslom „15“.
 
+- 7. V § 19 odsek 2 znie:
+
+- „(2)
+
+- Skúška sa vykonáva skúšobným testom. Pred začatím skúšky osoba, ktorá absolvovala odbornú prípravu, alebo osoba uvedená v odseku 5 (ďalej len „uchádzač“) preukáže svoju totožnosť a predloží osvedčenie o absolvovaní odbornej prípravy, ak ju absolvovala. Zápisnicu o vykonaní skúšky je ministerstvo povinné uschovávať 15 rokov od uskutočnenia skúšky. Uchádzač, ktorý nevykoná úspešne skúšku, má nárok na dve opravné skúšky. Na opravnú skúšku musí byť uchádzač prihlásený do troch mesiacov od vykonania predchádzajúcej skúšky. Uchádzača, ktorý nebol prihlásený na skúšku do troch mesiacov od ukončenia odbornej prípravy, nebol prihlásený na opravnú skúšku do troch mesiacov od predchádzajúcej skúšky alebo nevyhovie pri skúške ani pri opravných skúškach, možno prihlásiť na skúšku až po opätovnom absolvovaní odbornej prípravy.“.
+
 - 8. V § 19 ods. 3 písm. b) sa na konci pripájajú tieto slová: „alebo bola príslušníkom ozbrojeného bezpečnostného zboru najmenej 15 rokov“.
 
 - 9. V § 19 ods. 5 úvodnej vete sa za slovo „skúšku“ vkladajú slová „typu S alebo“ a za slovo „zákona“ sa vkladajú slová „okrem § 90 ods. 2“.
@@ -39,6 +45,16 @@ Zákon č. 473/2005 Z. z. o poskytovaní služieb v oblasti súkromnej bezpečno
 - 11. V § 19 ods. 5 písm. c) sa slovo „druhého“ nahrádza slovami „aspoň prvého“.
 
 - 12. V § 19 ods. 6 sa slová „Osobu po absolvovaní odbornej prípravy alebo osobu uvedenú v odseku 5 (ďalej len „uchádzač“)“ nahrádzajú slovami „Uchádzača alebo osobu, ktorá nevykoná úspešne skúšku“ a slová „Skúšku možno vykonať najneskôr do šiestich“ sa nahrádzajú slovami „Na skúšku musí byť uchádzač prihlásený do troch“.
+
+- 13. V § 19 ods. 7 sa vypúšťa písmeno c).
+
+  - Doterajšie písmeno d) sa označuje ako písmeno c).
+
+- 14. V § 19 ods. 9 sa vypúšťa posledná veta.
+
+- 15. V § 19 sa vypúšťajú odseky 10 a 12.
+
+  - Doterajšie odseky 11 a 13 sa označujú ako odseky 10 a 11.
 
 - 16. V § 19 odsek 13 znie:
 
@@ -299,6 +315,8 @@ Zákon č. 473/2005 Z. z. o poskytovaní služieb v oblasti súkromnej bezpečno
 - 84. V § 93 sa vypúšťa odsek 6.
 
 - 85. V § 98c ods. 5 sa slová „§ 27 ods. 2 a 4“ nahrádzajú slovami „§ 27 ods. 2“ a vypúšťajú sa slová „ods. 1 písm. c) a“.
+
+- 86. V § 98c ods. 5 sa slová „§ 19 ods. 6 a 10“ nahrádzajú slovami „§ 19 ods. 2 a 6“.
 
 - 87. V § 98c sa vypúšťa odsek 9.
 
