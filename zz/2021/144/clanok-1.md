@@ -312,6 +312,10 @@ Zákon č. 540/2001 Z. z. o štátnej štatistike v znení zákona č. 215/2004 
 
 - vytvára štatistické produkty a zverejňuje ich alebo umožňuje prístup k nim,
 
+- d)
+
+- vypracúva a zverejňuje správy o kvalite štatistík zostavených úradom; tým nie sú dotknuté ustanovenia osobitných predpisov,<sup>1k</sup>) ktoré ustanovujú postupy, štruktúru a periodicitu správ o kvalite európskych štatistík,
+
 - e)
 
 - zabezpečuje dostupnosť štátnej štatistiky pre používateľa,
@@ -360,9 +364,17 @@ Zákon č. 540/2001 Z. z. o štátnej štatistike v znení zákona č. 215/2004 
 
 - určovaním a kontrolou plnenia požiadaviek na štatistické produkty,
 
+- 6.
+
+- určovaním spôsobu prenosu a šírenia štatistických údajov,
+
 - 7.
 
 - vydávaním výkladových stanovísk k ustanoveniam tohto zákona, ustanoveniam všeobecne záväzných právnych predpisov vydaných na jeho vykonanie, ak ide o dôležité otázky alebo ak výkon úloh štátnej štatistiky nie je jednotný,
+
+- l)
+
+- vypracúva ročnú súhrnnú hodnotiacu správu o vykonávaní úloh štátnej štatistiky, najmä na základe správ o kvalite podľa písmena d) a na základe správ o kvalite podľa § 11 ods. 1 písm. c) a predkladá ju vláde Slovenskej republiky na prerokovanie do 30. júna vždy za predchádzajúci kalendárny rok,
 
 - m)
 
@@ -386,11 +398,17 @@ Zákon č. 540/2001 Z. z. o štátnej štatistike v znení zákona č. 215/2004 
 
 - p)
 
-- plní ďalšie úlohy podľa tohto zákona.“.
+- plní ďalšie úlohy podľa tohto zákona.
+
+- (2)
+
+- Podrobnosti o obsahu, štruktúre a periodicite aktualizácie správ o kvalite vydaných podľa § 11 ods. 1 písm. c) ustanoví všeobecne záväzný právny predpis, ktorý vydá úrad.“.
 
   - Poznámky pod čiarou k odkazom 1k až 1o znejú:
 
-  - „<sup>1l</sup>) Čl. 5 ods. 2 nariadenia (ES) 223/2009 v platnom znení.
+  - „<sup>1k</sup>) Čl. 12 ods. 2 nariadenia (ES) 223/2009 v platnom znení.
+
+  - <sup>1l</sup>) Čl. 5 ods. 2 nariadenia (ES) 223/2009 v platnom znení.
 
   - <sup>1m</sup>) Čl. 2a nariadenia Rady (ES) č. 2533/98 z 23. novembra 1998 o zbere štatistických informácií Európskou centrálnou bankou (Ú. v. ES L 318, 27. 11. 1998, Mimoriadne vydanie Ú. v. EÚ, kap. 01/zv. 003) v platnom znení.
 
@@ -429,6 +447,8 @@ Zákon č. 540/2001 Z. z. o štátnej štatistike v znení zákona č. 215/2004 
   - a) môže vydať pokyny pre spravodajské jednotky k štátnemu štatistickému zisťovaniu v jeho vecnej pôsobnosti,
 
   - b) vytvára štatistické produkty a zverejňuje ich alebo umožňuje prístup k nim,
+
+  - c) vypracúva a zverejňuje správy o kvalite ním zostavených štatistík; tým nie sú dotknuté ustanovenia osobitných predpisov,<sup>1k</sup>) ktoré ustanovujú postupy, štruktúru a periodicitu správ o kvalite európskych štatistík.“.
 
 - 8. V § 11 ods. 2 sa vypúšťa posledná veta.
 
