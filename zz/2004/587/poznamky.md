@@ -8,8 +8,6 @@
 
 - 5) § 31 ods. 8 zákona č. 523/2004 Z. z. v znení zákona č. 171/2005 Z. z.
 
-- 6) § 79 ods. 4 zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon).
-
 - 7) § 7 a § 8 ods. 5 zákona č. 401/1998 Z. z. o poplatkoch za znečisťovanie ovzdušia v znení neskorších predpisov.
 
 - 8a) § 32a ods. 6 zákona č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení neskorších predpisov.
@@ -35,10 +33,6 @@
 - 11a) § 2 písm. d) zákona č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov.
 
 - 11aa) § 18 ods. 4 písm. a) zákona č. 414/2012 Z. z. v znení neskorších predpisov.
-
-- 11b) § 79 ods. 7 zákona č. 364/2004 Z. z. v znení neskorších predpisov.
-
-- § 14 ods. 1 nariadenia vlády Slovenskej republiky č. 755/2004 Z. z., ktorým sa ustanovuje výška neregulovaných platieb, výška poplatkov a podrobnosti súvisiace so spoplatňovaním užívania vôd.
 
 - 11c) § 35 ods. 4 zákona č. 44/1988 Zb. v znení neskorších predpisov.
 
@@ -66,6 +60,10 @@
 
 - 11ie) § 65b zákona č. 543/2002 Z. z. v znení zákona č. 6/2022 Z. z.
 
+- 11if) § 18 ods. 4 písm. c) zákona č. 414/2012 Z. z.
+
+- 11ig) § 18 ods. 4 písm. a) zákona č. 414/2012 Z. z. v znení zákona č. 296/2019 Z. z.
+
 - 11j) Zákon č. 305/2018 Z. z. o chránených oblastiach prirodzenej akumulácie vôd a o zmene a doplnení niektorých zákonov.
 
 - 11k) § 5 ods. 1 písm. c) zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov.
@@ -73,10 +71,6 @@
 - 11l) § 2 ods. 2 písm. o) zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
 
 - 12) Zákon č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 12a) § 79 ods. 7 zákona č. 364/2004 Z. z. v znení neskorších predpisov.
-
-- 12b) § 8 ods. 2 a § 12 ods. 2 nariadenia vlády Slovenskej republiky č. 755/2004 Z. z.
 
 - 12c) § 18 ods. 11 zákona č. 414/2012 Z. z.
 

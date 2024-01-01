@@ -18,7 +18,7 @@
 
 (4) Dotáciu podľa odseku 1 písm. e) možno poskytnúť fyzickej osobe – podnikateľovi alebo právnickej osobe, ktorá preukáže, že v rámci svojho výrobného procesu zníži produkciu odpadu.
 
-(5) Žiadateľ, ktorý žiada o podporu podľa § 4 ods. 1 písm. ah), podáva žiadosť v písomnej forme najneskôr v lehote určenej fondom v špecifikácii činnosti podľa § 4 ods. 5. Vzor žiadosti fond uverejní na svojom webovom sídle. Žiadosť obsahuje
+(5) Žiadateľ, ktorý žiada o podporu podľa § 4 ods. 1 písm. ag), podáva žiadosť v písomnej forme najneskôr v lehote určenej fondom v špecifikácii činnosti podľa § 4 ods. 5. Vzor žiadosti fond uverejní na svojom webovom sídle. Žiadosť obsahuje
 
 - a) názov alebo obchodné meno žiadateľa,
 
