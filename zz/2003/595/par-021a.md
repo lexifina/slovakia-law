@@ -5,3 +5,5 @@
 (2) Ak podmienkou pre poskytnutie úveru alebo pôžičky dlžníkovi veriteľom je poskytnutie priamo súvisiaceho úveru, pôžičky alebo vkladu tomuto veriteľovi závislou osobou, považuje sa na účely odseku 1 a vzhľadom k tomuto úveru alebo pôžičke veriteľ za závislú osobu vo vzťahu k dlžníkovi.
 
 (3) Odseky 1 a 2 sa neuplatnia u dlžníka, ktorý je bankou alebo pobočkou zahraničnej banky,<sup>94</sup>) poisťovňou, pobočkou poisťovne z iného členského štátu alebo pobočkou zahraničnej poisťovne, zaisťovňou, pobočkou zaisťovne z iného členského štátu alebo pobočkou zahraničnej zaisťovne, subjektom podľa osobitného predpisu<sup>105b</sup>) alebo lízingovou spoločnosťou.<sup>105c</sup>)
+
+(4) Odseky 1 až 3 sa neuplatnia, ak daňovník zvýšil základ dane podľa § 17k.

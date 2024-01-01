@@ -1,20 +1,20 @@
 # § 33a Daňový bonus na zaplatené úroky
 
-(1) Daňovníkovi vzniká nárok na daňový bonus na zaplatené úroky v príslušnom zdaňovacom období vypočítané z výšky poskytnutého úveru na bývanie,<sup>57a</sup>) na základe jednej zmluvy o úvere na bývanie,<sup>57a</sup>) najviac zo sumy 50 000 eur na jednu tuzemskú nehnuteľnosť určenú na bývanie,<sup>132b</sup>) ktorou je byt alebo rodinný dom, ak má
+(1) Daňovníkovi vzniká nárok na daňový bonus na zaplatené úroky v príslušnom zdaňovacom období vypočítané z výšky poskytnutého úveru na bývanie,<sup>57a</sup>) na základe jednej zmluvy o úvere na bývanie,<sup>57a</sup>) na jednu tuzemskú nehnuteľnosť určenú na bývanie,<sup>132b</sup>) ktorou je byt alebo rodinný dom slúžiace výlučne k jeho vlastnému trvalému bývaniu alebo k jeho vlastnému trvalému bývaniu spolu s blízkymi osobami,<sup>2</sup>) ak má
 
 - a) najmenej 18 rokov a najviac 35 rokov ku dňu podania žiadosti o tento úver,
 
-- b) priemerný mesačný príjem vypočítaný z jeho zdaniteľných príjmov, ktoré sú súčasťou základu dane (čiastkového základu dane) z príjmov podľa § 5, 6 a 8 a osobitného základu dane z príjmov podľa § 7 a 51e za kalendárny rok predchádzajúci kalendárnemu roku, v ktorom bola uzavretá zmluva o úvere na bývanie,<sup>57a</sup>) najviac vo výške 1,3 násobku priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok predchádzajúci kalendárnemu roku, v ktorom bola uzavretá zmluva o úvere na bývanie;<sup>57a</sup>) priemerný mesačný príjem sa vypočíta ako jedna dvanástina zo súčtu zdaniteľných príjmov, ktoré sú súčasťou základu dane (čiastkového základu dane) z príjmov podľa § 5, 6 a 8 a osobitného základu dane z príjmov podľa § 7 a 51e.
+- b) priemerný mesačný príjem vypočítaný z jeho zdaniteľných príjmov, ktoré sú súčasťou základu dane (čiastkového základu dane) z príjmov podľa § 5, 6 a 8 a osobitného základu dane z príjmov podľa § 7 a 51e za kalendárny rok predchádzajúci kalendárnemu roku, v ktorom bola uzavretá zmluva o úvere na bývanie,<sup>57a</sup>) najviac vo výške 1,6 násobku priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok predchádzajúci kalendárnemu roku, v ktorom bola uzavretá zmluva o úvere na bývanie;<sup>57a</sup>) priemerný mesačný príjem sa vypočíta ako jedna dvanástina zo súčtu zdaniteľných príjmov, ktoré sú súčasťou základu dane (čiastkového základu dane) z príjmov podľa § 5, 6 a 8 a osobitného základu dane z príjmov podľa § 7 a 51e.
 
 (2) Za tú istú zmluvu o úvere na bývanie<sup>57a</sup>) sa považuje aj zmena tejto zmluvy, pričom ustanovenia osobitného predpisu<sup>57a</sup>) tým nie sú dotknuté.
 
-(3) Daňovým bonusom na zaplatené úroky je suma vo výške 50 % zo zaplatených úrokov v príslušnom zdaňovacom období podľa odseku 1, najviac však do výšky 400 eur za rok.
+(3) Daňovým bonusom na zaplatené úroky je suma vo výške 50 % zo zaplatených úrokov v príslušnom zdaňovacom období podľa odseku 1, najviac však do výšky 1 200 eur za rok.
 
 (4) Ak je daňovník dlžníkom zo zmluvy o úvere na bývanie,<sup>57a</sup>) na ktorú si uplatňuje nárok na daňový bonus na zaplatené úroky, spolu s iným dlžníkom alebo spolu s inými viacerými dlžníkmi (ďalej len „spoludlžník“),
 
 - a) podmienku podľa odseku 1 písm. a) musí spĺňať aj spoludlžník,
 
-- b) priemerný mesačný príjem podľa odseku 1 písm. b) dlžníka spolu so spoludlžníkom nesmie presiahnuť súčin počtu dlžníka a spoludlžníka a 1,3 násobku priemernej mesačnej mzdy zamestnanca podľa odseku 1 písm. b),
+- b) priemerný mesačný príjem podľa odseku 1 písm. b) dlžníka spolu so spoludlžníkom nesmie presiahnuť súčin počtu dlžníka a spoludlžníka a 1,6 násobku priemernej mesačnej mzdy zamestnanca podľa odseku 1 písm. b),
 
 - c) spoludlžníkovi nárok na daňový bonus na zaplatené úroky nevzniká.
 

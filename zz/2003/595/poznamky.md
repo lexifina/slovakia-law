@@ -8,8 +8,6 @@
 
 - 2) § 116 a 117 Občianskeho zákonníka.
 
-- 2a) § 4 ods. 1 zákona č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.
-
 - 2aa) § 22 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
 - 2b) § 144 a 208 Obchodného zákonníka.
@@ -763,6 +761,16 @@
 - 136af) § 34 ods. 1 zákona č. 429/2002 Z. z. o burze cenných papierov v znení neskorších predpisov.
 
 - 136ag) Zákon č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov v znení zákona č. 52/2018 Z. z.
+
+- 136b) Vyhláška Štatistického úradu Slovenskej republiky č. 425/2023 Z. z., ktorou sa vydáva Program štátnych štatistických zisťovaní na roky 2024 až 2026.
+
+- 136ba) § 55 zákona č. 5/2004 Z. z. v znení neskorších predpisov.
+
+- 136bb) § 19 ods. 1 a 2 zákona č. 97/2013 Z. z. o pozemkových spoločenstvách.
+
+- 136bc) § 68 a § 68b Obchodného zákonníka.
+
+- § 309 až 309h Civilného mimosporového poriadku.
 
 - 136bf) § 68 ods. 6 Obchodného zákonníka v znení neskorších predpisov.
 

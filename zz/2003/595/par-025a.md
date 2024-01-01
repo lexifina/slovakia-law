@@ -4,7 +4,7 @@ Vstupnou cenou finančného majetku<sup>1</sup>) je
 
 - a) obstarávacia cena,<sup>118</sup>) ak bol finančný majetok nadobudnutý kúpou okrem reálnej hodnoty podľa písmena d), upravená o všetky zníženia tejto ceny, ktoré neboli zahrnuté do základu dane, okrem zníženia tejto ceny z dôvodu výplaty príjmu zo zníženia základného imania obchodnej spoločnosti alebo družstva v časti, v akej bolo do dňa nadobudnutia finančného majetku zvýšené zo zisku po zdanení [§ 3 ods. 1 písm. e), § 12 ods. 7 písm. c) prvý bod],
 
-- b) cena zistená podľa osobitného predpisu,<sup>29</sup>) ak bol finančný majetok nadobudnutý bezodplatne,
+- b) cena zistená podľa osobitného predpisu,<sup>29</sup>) ak bol finančný majetok nadobudnutý bezodplatne, okrem akcií alebo obchodných podielov na spoločnosti s ručením obmedzeným nadobudnutých v súvislosti s nepeňažným plnením podľa § 9 ods. 1 písm. p),
 
 - c) hodnota nepeňažného vkladu započítaná na vklad spoločníka,<sup>37a</sup>) ak ide o
 
