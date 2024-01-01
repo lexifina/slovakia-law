@@ -70,6 +70,8 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - 25. V § 82 ods. 1 písm. b) sa slová „ods. 15 písm. a) až d), f) až h), j), k) a n), ods. 16 písm. a), c), e) a f), ods. 17 až 19“ nahrádzajú slovami „ods. 13 písm. a) až d), f) až h), j), k) a n), ods. 14 písm. a), c), e) a f), ods. 15 až 17“.
 
+- 26. V § 82 ods. 1 písm. b) sa slová „ods. 15 až 17“ nahrádzajú slovami „ods. 15 až 18“.
+
 - 27. V § 82 ods. 1 písm. b) sa vypúšťajú slová „v § 79a ods. 1 písm. c)“.
 
 - 28. V § 82 ods. 1 písm. c) sa slová „ods. 15“ nahrádzajú slovami „ods. 13“.

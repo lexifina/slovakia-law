@@ -382,7 +382,23 @@ Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona �
 
 - štipendistu v rámci programu, ktorého vytvorenie schválila vláda Slovenskej republiky, alebo v rámci programu, ktorý sa realizuje na základe medzinárodnej zmluvy, alebo v rámci programu Európskej únie, alebo v rámci programu, ktorý sa realizuje podľa osobitného predpisu,<sup>8aad</sup>) ak takejto osobe je priznané štipendium na dobu v trvaní viac ako jeden mesiac a ak ku dňu vzniku skutočnosti zakladajúcej vznik verejného zdravotného poistenia trvá existencia programu.“.
 
+- 38. V § 12 ods. 1 sa za písmeno e) vkladá nové písmeno f), ktoré znie:
+
+- „f)
+
+- štát 5 % z vymeriavacieho základu,“.
+
+  - Doterajšie písmeno f) sa označuje ako písmeno g).
+
 - 39. V § 13 ods. 2 sa za slová „písm. b)“ vkladajú slová „a ods. 2 až 4“.
+
+- 40. V § 13 odsek 13 znie:
+
+- „(13)
+
+- Vymeriavací základ štátu je 12-násobok priemernej mesačnej mzdy, ak v druhej vete nie je ustanovené inak. Vymeriavací základ štátu pre platbu poistného za osobu uvedenú v § 11 ods. 7, ktorá bola takouto osobou len časť rozhodujúceho obdobia, je pomerná časť vymeriavacieho základu podľa prvej vety prislúchajúca k počtu kalendárnych dní, počas ktorých bola osobou uvedenou v § 11 ods. 7.“.
+
+- 41. V § 13 ods. 18 sa vypúšťa posledná veta.
 
 - 42. Za § 13a sa vkladá § 13b, ktorý vrátane nadpisu znie:
 
@@ -423,6 +439,16 @@ Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona �
 - Ak je za rozhodujúce obdobie rozdiel medzi minimálnym poistným zamestnanca a celkovým skutočným poistným poistenca kladný, poistné zamestnanca určené podľa § 13 ods. 1 za rozhodujúce obdobie sa navyšuje o tento rozdiel.“.
 
 - 43. V § 16 ods. 2 písm. b) sa za slová „písm. b)“ vkladajú slová „a ods. 2 až 4“.
+
+- 44. V § 16 ods. 2 písmeno e) znie:
+
+- „e)
+
+- štát vo výške 1/12 sumy určenej zákonom o štátnom rozpočte na príslušný rok, ktorá sa rozdelí medzi zdravotné poisťovne podľa počtu poistencov oznámených podľa § 23 ods. 9 písm. c),“.
+
+- 45. V § 16 ods. 2 písm. f) sa slová „písm. f)“ nahrádzajú slovami „písm. g)“.
+
+- 46. V § 16 ods. 8 písm. c) sa slová „písm. f)“ nahrádzajú slovami „písm. g)“.
 
 - 47. V § 16 sa odsek 8 dopĺňa písmenom f), ktoré znie:
 
@@ -482,6 +508,18 @@ Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona �
 
 - 51. V § 19 ods. 19 sa slovo „zruší“ nahrádza slovami „môže zrušiť“.
 
+- 52. V § 19 ods. 21 sa na konci tretej vety pripájajú tieto slová: „a suma získaná vynásobením vymeriavacieho základu a sadzby poistného štátu sa zaokrúhľuje na najbližší eurocent nahor.“.
+
+- 53. V § 19 odsek 22 znie:
+
+- „(22)
+
+- Zdravotná poisťovňa, ktorej vznikol záväzok voči ministerstvu zdravotníctva na základe vykonaného ročného zúčtovania poistného plateného štátom, je povinná uhradiť vzniknutý záväzok ministerstvu zdravotníctva najneskôr do 31. decembra kalendárneho roka, v ktorom sa ročné zúčtovanie poistného plateného štátom vykonalo. Ministerstvo zdravotníctva, voči ktorému vznikla zdravotnej poisťovni pohľadávka na základe vykonaného ročného zúčtovania poistného plateného štátom, je povinné uhradiť pohľadávku príslušnej zdravotnej poisťovne najneskôr do 31. decembra kalendárneho roka, v ktorom sa ročné zúčtovanie poistného plateného štátom vykonalo.“.
+
+- 54. V § 19 sa vypúšťajú odseky 23 až 26.
+
+  - Doterajšie odseky 27 až 29 sa označujú ako odseky 23 až 25.
+
 - 55. V § 21 odsek 1 znie:
 
 - „(1)
@@ -497,6 +535,8 @@ Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona �
 - úradu a Ministerstvu financií Slovenskej republiky na analytické účely do 31. decembra kalendárneho roka informáciu o prijatých prihláškach na zmenu zdravotnej poisťovne podľa § 7 ods. 2 od 1. januára nasledujúceho kalendárneho roka, za ktoré zdravotná poisťovňa vyplatila alebo plánuje vyplatiť odmenu osobe, ktorá prijatie prihlášky sprostredkovala, v rozsahu celkový počet takýchto prihlášok a celková suma odmien, ktorá bola alebo má byť vyplatená.“.
 
 - 58. V § 23 ods. 12 sa na konci pripája táto veta: „Fyzická osoba, ktorá je občanom iného štátu, je povinná preukázať skutočnosti podľa § 3 ods. 11.“.
+
+- 59. V § 23 ods. 15 sa slová „§ 19 ods. 29“ nahrádzajú slovami „§ 19 ods. 25“.
 
 - 60. V § 23 ods. 17 sa slová „ôsmeho dňa v kalendárnom mesiaci nasledujúcom po kalendárnom mesiaci“ nahrádzajú slovami „sedem dní odo dňa“.
 
@@ -643,3 +683,21 @@ Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona �
 - (2)
 
 - Zdravotná poisťovňa môže do 31. decembra 2023 postupovať podľa § 9b ods. 10 písm. a) v znení účinnom do 31. decembra 2021.“.
+
+- 70. Za § 38ezf sa vkladá § 38ezg, ktorý vrátane nadpisu znie:
+
+- „§ 38ezg
+
+- Prechodné ustanovenia k úpravám účinným od 1. januára 2024
+
+- (1)
+
+- Ročné zúčtovanie poistného plateného štátom za rok 2023 sa vykoná v roku 2024 podľa § 19 v znení účinnom do 31. decembra 2023.
+
+- (2)
+
+- Od 1. januára 2024 do 31. decembra 2024 je sadzba poistného pre štát 4,5 % z vymeriavacieho základu.
+
+- (3)
+
+- Od 1. januára 2025 do 31. decembra 2025 je sadzba poistného pre štát 4,5 % z vymeriavacieho základu.“.

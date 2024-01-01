@@ -38,6 +38,12 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 
 - 9. V § 6 ods. 2 písm. g) sa slová „ministerstvo zdravotníctva“ nahrádzajú slovami „Ministerstvo zdravotníctva Slovenskej republiky (ďalej len „ministerstvo zdravotníctva“)“.
 
+- 10. V § 6 ods. 3 písmeno c) znie:
+
+- „c)
+
+- plánovanej zdravotnej starostlivosti pre poistencov zaradených v zozname, ak predpokladaný dátum poskytnutia plánovanej zdravotnej starostlivosti je neskorší ako 30 dní odo dňa vyhotovenia návrhu na plánovanú zdravotnú starostlivosť,“.
+
 - 11. V § 6 ods. 6 písmeno d) znie:
 
 - „d)
@@ -320,6 +326,20 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 
 - 36. V § 16 ods. 1 písm. f) sa na konci čiarka nahrádza bodkočiarkou a pripájajú sa tieto slová: „ak poistenec nemá trvalý pobyt, uvádza sa prechodný pobyt poistenca,“.
 
+- 37. V § 16 ods. 2 písmeno g) znie:
+
+- „g)
+
+- údaje o zaradení poistenca do zoznamu a vyradení poistenca zo zoznamu [§ 6 ods. 1 písm. o)] v rozsahu podľa osobitného predpisu,<sup>35ac</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 35ac znie:
+
+  - „<sup>35ac</sup>) § 39 ods. 1 písm. d) zákona č. 540/2021 Z. z. v znení zákona č. 518/2022 Z. z.“.
+
+- 38. V § 16 ods. 5 sa vypúšťa písmeno h).
+
+  - Doterajšie písmená i) a j) sa označujú ako písmená h) a i).
+
 - 39. V § 16 ods. 6 prvá veta znie:
 
 - „Zdravotná poisťovňa je na účel vedenia centrálneho registra poistencov povinná zasielať úradu automatizovaným spôsobom prostredníctvom informačného systému verejnej správy podľa osobitného predpisu<sup>35caa</sup>) vždy k 8. a k 20. dňu príslušného kalendárneho mesiaca údaje v rozsahu meno, priezvisko, rodné číslo alebo bezvýznamové identifikačné číslo pridelené úradom, ak poistenec nemá rodné číslo, predchádzajúce rodné číslo alebo bezvýznamové identifikačné číslo, ak došlo k jeho zmene, počítačové číslo občana, dátum narodenia, pohlavie, štátnu príslušnosť, adresu trvalého pobytu alebo adresu prechodného pobytu, ak poistenec nemá trvalý pobyt, identifikačné číslo poistenca v centrálnom registri poistencov, dátum vzniku a zániku verejného zdravotného poistenia, dôvod vzniku a zániku verejného zdravotného poistenia, identifikačné číslo poistenca v príslušnej zdravotnej poisťovni, označenie platiteľa poistného podľa osobitného predpisu,<sup>35aaka</sup>) číselný kód príslušnej zdravotnej poisťovne, číselný kód pobočky príslušnej zdravotnej poisťovne, miesto narodenia, miesto úmrtia a dátum úmrtia, ak nimi zdravotná poisťovňa disponuje, údaje o dohodách o poskytovaní všeobecnej ambulantnej zdravotnej starostlivosti uzavretých medzi poistencom a poskytovateľom zdravotnej starostlivosti v rozsahu podľa § 15 ods. 1 písm. w) a údaje o aktualizácii údajov poistencov, údaj o tom, že ide o poistenca, ktorému bol vydaný preukaz poistenca s označením „EÚ“ podľa osobitného predpisu.<sup>11a</sup>)“.
@@ -329,6 +349,8 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
   - „<sup>35caa</sup>) § 10 ods. 3 písm. h) zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení zákona č. 238/2017 Z. z.
 
   - <sup>35aaka</sup>) § 11 ods. 1 a 2 zákona č. 580/2004 Z. z.“.
+
+- 40. V § 16 ods. 6 druhej vete sa slová „v elektronickej podobe“ nahrádzajú slovami „automatizovaným spôsobom prostredníctvom informačného systému verejnej správy podľa osobitného predpisu<sup>35caa</sup>)“.
 
 - 41. V § 18 ods. 1 písm. a) siedmy bod znie:
 
