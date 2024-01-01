@@ -1,0 +1,1 @@
+Príloha č. 6 k zákonu č. 534/2023 Z. z. [REZERVY ŠTÁTNEHO ROZPOČTU NA ROK 2024](../assets/394a454ff38698fa6271a16f3aa74051b237dd47dadf7e8f05b9e069e326f008.pdf)

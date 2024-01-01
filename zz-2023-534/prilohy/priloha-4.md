@@ -1,0 +1,1 @@
+Príloha č. 4 k zákonu č. 534/2023 Z. z. [Výdavky štátneho rozpočtu na realizáciu programov vlády SR a častí programov vlády SR na rok 2024](../assets/37b1b3dbff7dd1bd59aa6c7ab8f7c7198c52916fce9ecbb44f206d48a2e1d735.pdf)
