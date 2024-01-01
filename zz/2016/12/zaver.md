@@ -1,1 +1,0 @@
-Marek Maďarič v. r.
