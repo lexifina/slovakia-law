@@ -20,7 +20,7 @@
 
 - h) údaje o poistencovi zaradenom na dispenzarizáciu podľa osobitného predpisu<sup>27aad</sup>) na účel uvedený v § 6 ods. 1 písm. i),
 
-- i) údaje o poistencovi čakajúcom na poskytnutie plánovanej zdravotnej starostlivosti na účel uvedený v § 6 ods. 4 písm. a) až g),
+- i) údaje o poistencovi čakajúcom na poskytnutie plánovanej zdravotnej starostlivosti podľa osobitného predpisu,<sup>16aa</sup>)
 
 - j) údaje o poistencovi, ktorému bola poskytnutá zdravotná starostlivosť v predchádzajúcom mesiaci počas doplnkových ordinačných hodín alebo v rámci domácej starostlivosti podľa osobitného predpisu,<sup>27aae</sup>)
 
@@ -28,13 +28,15 @@
 
 - l) kód zdravotného výkonu a cenu zdravotného výkonu pri typoch zdravotnej starostlivosti určených úradom,
 
-- m) dátum začiatku alebo dátum ukončenia kapitácie poistenca, ak ide o úhradu formou kapitácie.
+- m) dátum začiatku alebo dátum ukončenia kapitácie poistenca, ak ide o úhradu formou kapitácie,
+
+- n) identifikačné údaje poistenca v rozsahu podľa písmena a), ktorému bolo poskytnuté očkovanie v rámci lekárenskej starostlivosti.<sup>27aaba</sup>)
 
 (3) Zdravotná poisťovňa a poskytovateľ zdravotnej starostlivosti sú oprávnení v zmluve o poskytovaní zdravotnej starostlivosti (§ 7 až 7b) dohodnúť, že
 
 - a) podkladom na úhradu zdravotnej starostlivosti z verejného zdravotného poistenia je zúčtovacia dávka vytvorená zdravotnou poisťovňou z elektronických zdravotných záznamov vytvorených poskytovateľom zdravotnej starostlivosti v elektronickej zdravotnej knižke v rozsahu podľa odseku 2, pričom v tomto prípade nie je poskytovateľ zdravotnej starostlivosti povinný zasielať zúčtovaciu dávku podľa odseku 1 a 2; zdravotná poisťovňa pristupuje za týmto účelom k elektronickým záznamom podľa osobitného predpisu,<sup>24aa</sup>)
 
-- b) účtovný doklad vyhotoví zdravotná poisťovňa podľa § 6 ods. 4 písm. s) a poskytovateľ zdravotnej starostlivosti potvrdí jeho správnosť postupom podľa § 8 ods. 17,
+- b) účtovný doklad vyhotoví zdravotná poisťovňa podľa § 6 ods. 2 písm. k) a poskytovateľ zdravotnej starostlivosti potvrdí jeho správnosť postupom podľa § 8 ods. 17,
 
 - c) k účtovnému dokladu môžu byť pripojené ďalšie doklady poskytovateľa zdravotnej starostlivosti, ktorými preukazuje poskytnutie zdravotnej starostlivosti.
 

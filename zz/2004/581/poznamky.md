@@ -40,6 +40,8 @@
 
 - 16a) § 9f zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
 
+- 16aa) § 40 zákona č. 540/2021 Z. z. o kategorizácii ústavnej zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
+
 - 16b) Článok 1 písm. q), r) a va) nariadenia Európskeho parlamentu a Rady (ES) č. 883/2004 z 29. apríla 2004 o koordinácii systémov sociálneho zabezpečenia (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 5; Ú. v. EÚ L 200, 7. 6. 2004) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 988/2009 zo 16. septembra 2009 (Ú. v. EÚ L 284, 30. 10. 2009).
 
 - 16c) § 87a zákona č. 363/2011 Z. z.
@@ -74,6 +76,8 @@
 
 - 16q) § 87b ods. 4 a 5 zákona č. 363/2011 Z. z. v znení zákona č. 81/2021 Z. z.
 
+- 16r) § 38 až 40 zákona č. 540/2021 Z. z.
+
 - 17) § 2 ods. 3 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 
 - 17a) § 11 zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov.
@@ -84,11 +88,15 @@
 
 - 17d) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
 
+- 17e) § 7a, § 29a, alebo § 57a zákona č. 363/2011 Z. z. v znení zákona č. 266/2022 Z. z.
+
+- 17f) § 90 ods. 3 a 4 alebo § 96 ods. 2 zákona č. 363/2011 Z. z. v znení zákona č. 266/2022 Z. z.
+
 - 18) Zákon č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 270/2008 Z. z.
 
 - 18a) § 26 zákona č. 431/2002 Z. z. v znení zákona č. 561/2004 Z. z.
 
-- 18aa) § 21a ods. 3 zákona č. 363/2011 Z. z v znení zákona č. 336/2017.
+- 18aa) § 98i zákona č. 363/2011 Z. z. v znení zákona č. 266/2022 Z. z.
 
 - 18ab) § 2 ods. 9 zákona č. 153/2013 Z. z. v znení neskorších predpisov.
 
@@ -150,6 +158,12 @@
 
 - 23) § 4 ods. 2 písm. a) štvrtý bod zákona č. 540/2021 Z. z.
 
+- 23a) § 2 ods. 17 zákona č. 540/2021 Z. z.
+
+- 23b) § 2 ods. 19 zákona č. 540/2021 Z. z.
+
+- 23c) § 4 zákona č. 540/2021 Z. z.
+
 - 24) § 11 ods. 1 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
 
 - 24a) Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov.
@@ -198,11 +212,15 @@
 
 - 27aab) § 121 ods. 3 písm. d) zákona č. 362/2011 Z. z.
 
+- 27aaba) § 20 ods. 1 písm. k) zákona č. 362/2011 Z. z. v znení zákona č. 293/2023 Z. z.
+
 - 27aac) § 118 zákona č. 362/2011 Z. z. v znení neskorších predpisov.
 
 - 27aad) § 4 písm. d) zákona č. 578/2004 Z. z. v znení zákona č. 392/2020 Z. z.
 
 - 27aad) § 8 ods. 11 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+
+- 27aada) § 44 ods. 2 písm. c) prvého bodu zákona č. 540/2021 Z. z.
 
 - 27aae) § 79 ods. 1 písm. ap) zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
@@ -296,9 +314,11 @@
 
 - 35aal) § 3 ods. 1 písm. c) zákona č. 523/2004 Z. z. v znení neskorších predpisov.
 
+- 35aan) § 10 ods. 1 písm. k) zákona č. 358/2021 Z. z.
+
 - 35ab) § 60b ods. 4 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 358/2007 Z. z.
 
-- 35ac) § 12 ods. 2 a 3 zákona č. 580/2004 Z. z. v znení zákona č. 499/2010 Z. z.
+- 35ac) § 39 ods. 1 písm. d) zákona č. 540/2021 Z. z. v znení zákona č. 518/2022 Z. z.
 
 - 35b) § 9 ods. 4 zákona č. 580/2004 Z. z.
 
@@ -374,7 +394,7 @@
 
 - 41aab) § 25 ods. 1 písm. e) druhý bod zákona č. 580/2004 Z. z. v znení zákona č. 250/2011 Z. z.
 
-- 41aac) § 11 ods. 3 zákona č. 578/2004 Z. z. v znení zákona č. 139/2019 Z. z.
+- 41aac) § 81 ods. 1 písm. a) zákona č. 578/2004 Z. z. v znení zákona č. 285/2023 Z. z.
 
 - 41aaca) § 5c, 5d, § 6e zákona č. 578/2004 Z. z. v znení zákona č. 540/2021 Z. z.
 
