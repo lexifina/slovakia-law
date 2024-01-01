@@ -1,1 +1,0 @@
-Rastislav Káčer v. r.

@@ -1,1 +1,0 @@
-Príloha č. 2 k opatreniu č. 483/2022 Z. z. [Platový koeficient príslušného štátu na obdobie od 1. septembra 2023 do 31. decembra 2023](../assets/52750a99d8fdc7c2a127335bbab4f817717b57d40b96ec07b6f557594e001918.pdf)
