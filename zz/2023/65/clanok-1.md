@@ -2,6 +2,14 @@
 
 Zákon č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení zákona č. 183/2014 Z. z., zákona č. 308/2014 Z. z., zákona č. 140/2015 Z. z., zákona č. 378/2015 Z. z., zákona č. 125/2016 Z. z., zákona č. 81/2017 Z. z., zákona č. 42/2019 Z. z., zákona č. 221/2019 Z. z., zákona č. 223/2019 Z. z., zákona č. 231/2019 Z. z., zákona č. 92/2022 Z. z., zákona č. 199/2022 Z. z. a zákona č. 488/2022 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 1 ods. 1 sa vypúšťa písmeno b).
+
+  - Doterajšie písmeno c) sa označuje ako písmeno b).
+
+- 2. V § 2 ods. 3 sa vypúšťajú slová „alebo osobitný príspevok“.
+
+- 3. V § 4 ods. 3 písm. a) sa vypúšťa bodkočiarka a slová „ak sa členovi domácnosti poskytuje osobitný príspevok, príjmom nie je 50 % z jeho príjmu z pracovného pomeru alebo z obdobného pracovného vzťahu alebo z obdobného príjmu v cudzine a 25 % z jeho ostatného príjmu zo závislej činnosti<sup>12</sup>) alebo z obdobného príjmu v cudzine“.
+
 - 4. V § 4 ods. 3 písm. h) sa za slovo „ktorí“ vkladajú slová „sú nezaopatreným dieťaťom a“.
 
 - 5. V § 4 ods. 3 písmeno i) znie:
@@ -23,6 +31,10 @@ Zákon č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niekto
 - 7. V § 4 ods. 3 sa vypúšťa písmeno k).
 
   - Doterajšie písmená l) až x) sa označujú ako písmená k) až w).
+
+- 8. V § 4 ods. 3 sa vypúšťa písmeno t).
+
+  - Doterajšie písmená u) až w) sa označujú ako písmená t) až v).
 
 - 9. V § 5 odsek 2 znie:
 
@@ -69,6 +81,8 @@ Zákon č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niekto
   - <sup>26c</sup>) § 34 až 40 zákona č. 448/2008 Z. z. v znení neskorších predpisov.
 
   - <sup>26d</sup>) § 41 zákona č. 448/2008 Z. z. v znení zákona č. 551/2010 Z. z.“.
+
+- 12. V nadpise tretej časti sa za slovom „núdzi“ vypúšťa čiarka a slová „osobitný príspevok“.
 
 - 13. V § 9 ods. 1 a § 15 ods. 1 sa slová „3, 5 a 8“ nahrádzajú slovami „3 a 6“.
 
@@ -330,9 +344,65 @@ Zákon č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niekto
 
 - 26. V § 15 ods. 2 sa slová „desať eurocentov nahor“ nahrádzajú slovami „celé euro“.
 
+- 27. § 16 sa vypúšťa.
+
+  - Poznámky pod čiarou k odkazom 44 až 44b sa vypúšťajú.
+
 - 28. V § 17 ods. 1 prvej vete sa slová „ktorým sa poskytuje pomoc“ nahrádzajú slovami „ktorá je“.
 
+- 29. V nadpise § 18 sa za slovom „núdzi“ vypúšťa čiarka a slová „osobitného príspevku“.
+
+- 30. V § 18 ods. 1 sa vypúšťa druhá veta.
+
+- 31. V § 18 ods. 2 sa slová „a osobitný príspevok sa poskytujú“ nahrádzajú slovami „sa poskytuje“.
+
+- 32. V § 18 ods. 5 sa slová „a osobitný príspevok sa poskytujú“ nahrádzajú slovami „sa poskytuje“ a vypúšťajú sa slová „a osobitného príspevku“.
+
+- 33. V § 18 sa vypúšťa odsek 7.
+
+  - Doterajšie odseky 8 až 13 sa označujú ako odseky 7 až 12.
+
+- 34. V § 18 ods. 8 sa slová „a osobitný príspevok sa neposkytujú“ nahrádzajú slovami „sa neposkytuje“.
+
+- 35. V § 18 odsek 9 znie:
+
+- „(9)
+
+- Suma pomoci v hmotnej núdzi, na ktorú mala domácnosť ku dňu smrti príjemcu nárok, sa vyplatí na základe potvrdenia úradu o oprávnení na prevzatie pomoci v hmotnej núdzi
+
+- a)
+
+- inému plnoletému členovi domácnosti, ktorý má spôsobilosť na právne úkony v plnom rozsahu, alebo
+
+- b)
+
+- osobitnému príjemcovi podľa § 23 ods. 1 písm. c).“.
+
 - 36. V § 18 ods. 10 úvodná veta znie: „Sumy pomoci v hmotnej núdzi a osobitného príspevku, na ktoré mala domácnosť ku dňu smrti príjemcu nárok, sa vyplatia na základe potvrdenia úradu o oprávnení na prevzatie pomoci v hmotnej núdzi alebo osobitného príspevku“.
+
+- 37. V § 18 sa vypúšťa odsek 10.
+
+  - Doterajšie odseky 11 a 12 sa označujú ako odseky 10 a 11.
+
+- 38. V § 18 ods. 10 sa slová „a osobitný príspevok sú financované“ nahrádzajú slovami „je financovaná“.
+
+- 39. V nadpise § 19 a § 28 ods. 2 písm. a) sa vypúšťajú slová „a osobitný príspevok“.
+
+- 40. V § 19 sa vypúšťa odsek 3.
+
+- 41. V nadpise § 20, § 20, nadpise šiestej časti a § 31 ods. 3 písm. m) sa vypúšťajú slová „a osobitného príspevku“.
+
+- 42. § 21 vrátane nadpisu znie:
+
+- „§ 21
+
+- Zánik nároku na poskytnutie pomoci v hmotnej núdzi
+
+- Nárok na poskytnutie pomoci v hmotnej núdzi alebo jej časti za mesiac zaniká uplynutím troch mesiacov odo dňa, od ktorého mala byť poskytnutá.“.
+
+- 43. V § 22 ods. 3 sa vypúšťajú slová „alebo o osobitnom príspevku“.
+
+- 44. V § 22 ods. 4 písm. a) sa vypúšťajú slová „alebo osobitného príspevku“.
 
 - 45. V § 22 sa za odsek 4 vkladá nový odsek 5, ktorý znie:
 
@@ -344,11 +414,95 @@ Zákon č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niekto
 
 - 46. V § 23 ods. 1 písm. c) sa slová „pomoc v hmotnej núdzi je splatná ku dňu smrti príjemcu“ nahrádzajú slovami „nárok na pomoc v hmotnej núdzi ku dňu smrti príjemcu trval“.
 
+- 47. § 25 a 25a vrátane nadpisov znejú:
+
+- „§ 25
+
+- Zmeny v poskytovaní pomoci v hmotnej núdzi
+
+- (1)
+
+- Pomoc v hmotnej núdzi sa prizná alebo sa zvýši od prvého dňa kalendárneho mesiaca, v ktorom pomoc v hmotnej núdzi patrí alebo patrí vo vyššej sume, ak sa pomoc v hmotnej núdzi
+
+- a)
+
+- priznala v nižšej sume, ako patrí,
+
+- b)
+
+- nepriznala, hoci sa priznať mala, alebo
+
+- c)
+
+- priznala neskôr, ako sa priznať mala.
+
+- (2)
+
+- Pomoc v hmotnej núdzi alebo jej časť sa odníme, ak sa priznala neprávom. Ak sa pomoc v hmotnej núdzi priznala vo vyššej sume, ako patrila, prizná sa v sume, v akej patrí. Pomoc v hmotnej núdzi alebo jej časť sa odníme podľa prvej vety alebo jej suma sa zníži podľa druhej vety od prvého dňa kalendárneho mesiaca nasledujúceho po mesiaci, za ktorý sa už poskytla.
+
+- (3)
+
+- Ak sa zmenia skutočnosti rozhodujúce na nárok na pomoc v hmotnej núdzi, pomoc v hmotnej núdzi alebo jej časť sa odníme, jej suma sa zvýši alebo zníži.
+
+- (4)
+
+- Poskytovanie pomoci v hmotnej núdzi sa zastaví, ak príjemca nevyhovie výzve úradu podľa § 28 ods. 2 písm. b) v určenej lehote preukázať skutočnosti rozhodujúce na jej poskytovanie alebo na jej výšku a bol na tento dôsledok vo výzve písomne upozornený. Poskytovanie pomoci v hmotnej núdzi sa zastaví, ak vznikol dôvod na prešetrenie trvania nároku na jej poskytnutie. Ak pominuli dôvody, pre ktoré sa zastavilo poskytovanie pomoci v hmotnej núdzi a podmienky nároku na jej poskytovanie trvajú, jej poskytovanie sa obnoví od kalendárneho mesiaca, od ktorého bolo jej poskytovanie zastavené.
+
+- (5)
+
+- Pomoc v hmotnej núdzi sa odníme aj vtedy, ak o odňatie požiadal príjemca.
+
+- (6)
+
+- Fyzická osoba je povinná vrátiť pomoc v hmotnej núdzi alebo jej časť poskytnutú neprávom alebo vo vyššej sume, ako patrila. Ak fyzická osoba spôsobila, že sa jej poskytovala alebo poskytuje pomoc v hmotnej núdzi alebo jej časť neprávom alebo vo vyššej sume, ako patrila, je povinná vrátiť poskytnutú pomoc v hmotnej núdzi alebo jej časť zvýšenú o 10 %.
+
+- (7)
+
+- Právo na vrátenie neprávom poskytnutej pomoci v hmotnej núdzi alebo jej časti zaniká uplynutím troch rokov odo dňa, keď úrad túto skutočnosť zistil, najneskôr uplynutím desiatich rokov od posledného dňa kalendárneho mesiaca, za ktorý sa pomoc v hmotnej núdzi alebo jej časť poskytla. Tieto lehoty neplynú počas konania o povinnosti vrátiť sumu podľa prvej vety, počas výkonu rozhodnutia alebo počas výkonu zrážok podľa odseku 8.
+
+- (8)
+
+- Úrad môže zrážať neprávom poskytnutú pomoc v hmotnej núdzi podľa odseku 7 z poskytovanej alebo neskôr priznanej pomoci v hmotnej núdzi.
+
+- (9)
+
+- Nárok na vrátenie neprávom poskytnutej pomoci v hmotnej núdzi alebo jej preplatku nie je predmetom dedičstva.
+
+- (10)
+
+- Pomoc v hmotnej núdzi nemožno postihnúť výkonom rozhodnutia<sup>46</sup>) okrem výkonu rozhodnutia o pokute podľa osobitného predpisu.
+
+- <sup>47</sup>)
+
+- § 25a
+
+- Zánik nároku na pomoc v hmotnej núdzi
+
+- Nárok na pomoc v hmotnej núdzi zaniká odo dňa, od ktorého
+
+- a)
+
+- bolo zastavené poskytovanie pomoci v hmotnej núdzi, ak v lehote troch mesiacov odo dňa zastavenia jej poskytovania podľa § 25 ods. 4 prvej vety príjemca nepreukáže skutočnosti rozhodujúce na jej poskytovanie,
+
+- b)
+
+- členovia domácnosti prestali spĺňať podmienky nároku na pomoc v hmotnej núdzi.“.
+
+- 48. V § 26 ods. 2 písm. a) sa vypúšťa druhý bod.
+
+  - Doterajší tretí bod sa označuje ako druhý bod.
+
 - 49. V § 26 ods. 2 písmeno c) znie:
 
 - „c)
 
 - vydáva potvrdenie o oprávnení na prevzatie pomoci v hmotnej núdzi alebo osobitného príspevku, na ktoré mala domácnosť ku dňu smrti príjemcu nárok,“.
+
+- 50. V § 26 ods. 2 písmeno c) znie:
+
+- „c)
+
+- vydáva potvrdenie o oprávnení na prevzatie pomoci v hmotnej núdzi, na ktorú mala domácnosť ku dňu smrti príjemcu nárok,“.
 
 - 51. V § 26 ods. 2 písmeno g) znie:
 
@@ -356,11 +510,35 @@ Zákon č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niekto
 
 - uzatvára dohodu o výkone menších obecných služieb a prác na predchádzanie mimoriadnej situácie s obcou, rozpočtovou organizáciou alebo príspevkovou organizáciou, ktorej zriaďovateľom je obec, a kontroluje účasť na výkone menších obecných služieb alebo prác na predchádzanie mimoriadnej situácie,“.
 
+- 52. V nadpise § 28 sa vypúšťajú slová „a žiadateľa o osobitný príspevok“.
+
+- 53. V § 28 odsek 1 znie:
+
+- „(1)
+
+- Žiadateľ o pomoc v hmotnej núdzi je povinný
+
+- a)
+
+- preukázať všetky skutočnosti rozhodujúce na vznik nároku na pomoc v hmotnej núdzi,
+
+- b)
+
+- na výzvu úradu predložiť doklady potrebné na rozhodnutie o nároku na pomoc v hmotnej núdzi, ak údaje v nich obsiahnuté nemožno získať z informačných systémov podľa osobitného predpisu,<sup>48b</sup>)
+
+- c)
+
+- umožniť overenie skutočností potrebných na posúdenie nároku na pomoc v hmotnej núdzi v mieste svojho pobytu.“.
+
 - 54. V § 28 ods. 2 písmeno e) znie:
 
 - „e)
 
 - úradu doručiť na účely § 10 potvrdenie o rozsahu odpracovaných hodín v právnom vzťahu, ktorý zakladá nárok na príjem zo závislej činnosti, alebo potvrdenie o rozsahu vykonávania dobrovoľníckej činnosti do troch pracovných dní po uplynutí kalendárneho mesiaca, v ktorom sa táto činnosť vykonala.“.
+
+- 55. V § 28 ods. 3 úvodnej vete a § 29 ods. 1 písm. b) sa za slovom „núdzi“ vypúšťa čiarka a slová „žiadateľa o osobitný príspevok“.
+
+- 56. V § 30 ods. 1 sa za slovom „núdzi“ vypúšťa čiarka a slová „poskytovania osobitného príspevku“.
 
 - 57. V § 31 ods. 1 a 5 sa slová „podľa § 10 ods. 3 písm. c)“ nahrádzajú slovami „na predchádzanie mimoriadnej situácie“.
 
@@ -369,6 +547,8 @@ Zákon č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niekto
 - „<sup>49</sup>) Nariadenie Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) (Ú. v. EÚ L 119, 4. 5. 2016) v platnom znení.
 
 - Zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
+- 59. V § 31 ods. 2 písm. a) sa za slovom „núdzi“ vypúšťa čiarka a slová „žiadateľovi o osobitný príspevok“.
 
 - 60. Za § 33b sa vkladajú § 33c a 33d, ktoré vrátane nadpisov znejú:
 
@@ -382,4 +562,10 @@ Zákon č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niekto
 
 - (2)
 
-- Aktivačný príspevok podľa § 12 ods. 3 písm. a) v znení účinnom do 31. marca 2023, na ktorý vznikol nárok do 31. marca 2023 a trvá k 31. marcu 2023, patrí za podmienok ustanovených v § 12 v znení účinnom do 31. marca 2023 najdlhšie do 31. marca 2024.“.
+- Aktivačný príspevok podľa § 12 ods. 3 písm. a) v znení účinnom do 31. marca 2023, na ktorý vznikol nárok do 31. marca 2023 a trvá k 31. marcu 2023, patrí za podmienok ustanovených v § 12 v znení účinnom do 31. marca 2023 najdlhšie do 31. marca 2024.
+
+- § 33d
+
+- Prechodné ustanovenie k úpravám účinným od 1. januára 2024
+
+- Osobitný príspevok podľa § 16 v znení účinnom do 31. decembra 2023, na ktorý vznikol nárok do 31. decembra 2023 a trvá k 31. decembru 2023, patrí za podmienok ustanovených týmto zákonom v znení účinnom do 31. decembra 2023.“.
