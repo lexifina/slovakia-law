@@ -34,6 +34,10 @@
 
 - 10a) § 8a ods. 1 písm. a) zákona č. 576/2004 Z. z. v znení zákona č. 257/2017 Z. z.
 
+- 10b) § 11 zákona č. 540/2021 Z. z. o kategorizácii ústavnej zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
+
+- 10c) § 2 ods. 17 zákona č. 540/2021 Z. z.
+
 - 10d) § 12 ods. 1 zákona č. 576/2004 Z. z.
 
 - 11) § 7 zákona č. 581/2004 Z. z.
@@ -115,6 +119,8 @@
 - 19) § 116 Občianskeho zákonníka.
 
 - 19a) § 3 zákona č. 579/2004 Z. z. v znení zákona č. 351/2005 Z. z.
+
+- 19aa) § 2 ods. 14 zákona č. 540/2021 Z. z.
 
 - 20) § 61 Trestného zákona.
 
@@ -505,6 +511,8 @@
 - 72a) Zákon č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov.
 
 - 72aa) § 3 ods. 1 písm. a) bod 2 a príloha č. 1 časť B zákona č. 153/2013 Z. z. v znení neskorších predpisov.
+
+- 72aaa) § 15 až 20 zákona č. 540/2021 Z. z.
 
 - 73) Zákon č. 219/2002 Z. z. v znení neskorších predpisov.
 

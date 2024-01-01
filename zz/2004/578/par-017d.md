@@ -1,6 +1,6 @@
 # § 17d Zmena typu ambulancie záchrannej zdravotnej služby
 
-(1) Typ ambulancie záchrannej zdravotnej služby podľa § 11 ods. 3 písm. a) až c) a e) možno zmeniť len so súhlasom úradu pre dohľad a so súhlasom ministerstva zdravotníctva, ktoré si na tento účel vyžiada stanovisko operačného strediska tiesňového volania záchrannej zdravotnej služby. Úrad pre dohľad udelí súhlas na zmenu typu ambulancie záchrannej zdravotnej služby, len ak ministerstvo zdravotníctva udelilo súhlas na zmenu typu ambulancie záchrannej zdravotnej služby a zo stanoviska operačného strediska tiesňového volania záchrannej zdravotnej služby vyplýva, že požadovaná zmena predstavuje efektívnejšie zabezpečenie záchrannej zdravotnej služby. Zmena typu ambulancie záchrannej zdravotnej služby vyžaduje vydanie nového povolenia, ktorým úrad pre dohľad súčasne zruší pôvodné povolenie.
+(1) Typ ambulancie záchrannej zdravotnej služby podľa § 11 ods. 1 písm. k) prvého bodu až štvrtého bodu a šiesteho bodu možno zmeniť len so súhlasom ministerstva zdravotníctva, ktoré si na tento účel vyžiada stanovisko operačného strediska tiesňového volania záchrannej zdravotnej služby. Ministerstvo zdravotníctva môže udeliť súhlas na zmenu typu ambulancie záchrannej zdravotnej služby, len ak zo stanoviska operačného strediska tiesňového volania záchrannej zdravotnej služby vyplýva, že požadovaná zmena predstavuje efektívnejšie zabezpečenie záchrannej zdravotnej služby. Zmena typu ambulancie záchrannej zdravotnej služby vyžaduje vydanie nového povolenia, ktorým ministerstvo zdravotníctva súčasne zruší pôvodné povolenie.
 
 (2) V žiadosti o vydanie povolenia podľa odseku 1 žiadateľ uvedie požadovanú zmenu a dôvody požadovanej zmeny. K žiadosti žiadateľ pripojí
 
@@ -10,8 +10,10 @@
 
   - 1. ambulancie rýchlej lekárskej pomoci na ambulanciu rýchlej lekárskej pomoci s vybavením mobilnej intenzívnej jednotky,
 
-  - 2. ambulancie rýchlej zdravotnej pomoci na ambulanciu rýchlej lekárskej pomoci alebo
+  - 2. ambulancie rýchlej zdravotnej pomoci na ambulanciu rýchlej lekárskej pomoci,
 
-  - 3. ambulancie rýchlej zdravotnej pomoci na ambulanciu rýchlej lekárskej pomoci s vybavením mobilnej intenzívnej jednotky.
+  - 3. ambulancie rýchlej zdravotnej pomoci na ambulanciu rýchlej lekárskej pomoci s vybavením mobilnej intenzívnej jednotky alebo
+
+  - 4. ambulancie rýchlej lekárskej pomoci na ambulanciu rýchlej lekárskej pomoci v stretávacom režime „RV“.
 
 (3) Na vydanie povolenia podľa odseku 1 sa nevzťahujú ustanovenia o výberovom konaní (§ 14).

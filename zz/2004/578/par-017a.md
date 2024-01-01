@@ -12,4 +12,4 @@
 
 (6) Určenie náhradného odborného zástupcu nevyžaduje vydanie nového povolenia.
 
-(7) Orgánom príslušným na vydanie povolenia podľa odseku 3 sa rozumie ministerstvo zdravotníctva, ak ide o určenie náhradného odborného zástupcu držiteľa povolenia na prevádzkovanie ústavného zdravotníckeho zariadenia zaradeného do koncovej siete poskytovateľov (§ 5a).
+(7) Orgánom príslušným na vydanie povolenia podľa odseku 3 sa rozumie ministerstvo zdravotníctva, ak ide o určenie náhradného odborného zástupcu držiteľa povolenia na prevádzkovanie ústavného zdravotníckeho zariadenia zaradeného do siete kategorizovaných nemocníc (§ 5a).
