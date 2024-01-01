@@ -54,6 +54,16 @@
 
 - 19) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
 
+- 20) § 65 ods. 2 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+
 - 21) § 138 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
 - 22) Zákon č. 461/2003 Z. z. v znení neskorších predpisov .
+
+- 23) § 89 ods. 8 až 10 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+
+- 24) § 112 až 114 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+
+- 25) § 116 až 118 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+
+- 26) § 236 až 237a zákona č. 461/2003 Z. z. v znení neskorších predpisov.
