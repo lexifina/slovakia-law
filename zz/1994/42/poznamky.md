@@ -6,6 +6,8 @@
 
 - 1b) § 48 ods. 2 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení zákona č. 172/2011 Z. z.
 
+- 1ba) § 12 ods. 2 zákona č. 146/2023 Z. z. o ochrane ovzdušia a o zmene a doplnení niektorých zákonov.
+
 - 1c) § 8 zákona č. 128/2015 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov.
 
 - 1d) § 13 zákona č. 128/2015 Z. z.
