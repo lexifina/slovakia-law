@@ -304,13 +304,11 @@
 
 - 70d) Zákon č. 189/2009 Z. z. o ekologickej poľnohospodárskej výrobe.
 
-- 71) Zákon č. 587/2004 Z. z. o Environmentálnom fonde a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 71) § 1 ods. 2 zákona č. 71/1967 Zb. v znení neskorších predpisov.
 
-- 72) § 1 ods. 2 zákona č. 71/1967 Zb. v znení zákona č. 527/2003 Z. z.
+- 72) § 46 zákona č. 71/1967 Zb. v znení neskorších predpisov.
 
-- 72a) Nariadenie vlády Slovenskej republiky č. 755/2004 Z. z. v znení nariadenia vlády Slovenskej republiky č. 367/2008 Z. z.
-
-- 73) § 46 zákona č. 71/1967 Zb.
+- 73) § 7 ods. 1 a 2 a § 11 ods. 1 a 2 nariadenia vlády Slovenskej republiky č. 755/2004 Z. z. v znení neskorších predpisov.
 
 - 74) § 71 ods. 1 zákona č. 71/1967 Zb. v znení zákona č. 527/2003 Z. z.
 
