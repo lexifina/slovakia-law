@@ -628,6 +628,8 @@ Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektor
 
 - 99. V § 50 ods. 1 sa vypúšťajú slová „§ 50j, § 51a,“.
 
+- 100. V § 50 ods. 1 sa vypúšťajú slová „§ 56a alebo“.
+
 - 101. V § 50 odsek 2 znie:
 
 - „(2)
@@ -876,6 +878,156 @@ Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektor
 
 - 121. V § 54 ods. 7 až 9 sa slová „2 a 5“ nahrádzajú slovami „3 a 6“.
 
+- 122. § 55 vrátane nadpisu znie:
+
+- „§ 55
+
+- Chránená dielňa a chránené pracovisko
+
+- (1)
+
+- Za chránenú dielňu sa na účely tohto zákona považuje pracovisko, na ktorom právnická osoba alebo fyzická osoba zriadi viac ako jedno pracovné miesto pre občana so zdravotným postihnutím so sťaženým prístupom na trh práce, na ktorom sú pracovné podmienky vrátane rozvrhnutia pracovného času a nárokov na pracovný výkon prispôsobené zdravotnému stavu občana so zdravotným postihnutím so sťaženým prístupom na trh práce a na ktorom pracuje v pracovnom pomere najmenej 50 % občanov so zdravotným postihnutím so sťaženým prístupom na trh práce.
+
+- (2)
+
+- Za chránené pracovisko sa na účely tohto zákona považuje pracovisko, na ktorom
+
+- a)
+
+- právnická osoba alebo fyzická osoba zriadi pracovné miesto, na ktorom zamestnáva občana so zdravotným postihnutím so sťaženým prístupom na trh práce v pracovnom pomere a na ktorom sú pracovné podmienky vrátane rozvrhnutia pracovného času a nárokov na pracovný výkon prispôsobené zdravotnému stavu občana so zdravotným postihnutím so sťaženým prístupom na trh práce, a toto pracovné miesto nie je zriadené v chránenej dielni,
+
+- b)
+
+- občan so zdravotným postihnutím so sťaženým prístupom na trh práce vykonáva alebo prevádzkuje samostatnú zárobkovú činnosť na pracovnom mieste, na ktorom sú pracovné podmienky vrátane nárokov na pracovný výkon prispôsobené zdravotnému stavu občana so zdravotným postihnutím so sťaženým prístupom na trh práce, pričom toto chránené pracovisko môže byť zriadené aj v domácnosti tohto občana so zdravotným postihnutím so sťaženým prístupom na trh práce.
+
+- (3)
+
+- Občan so zdravotným postihnutím so sťaženým prístupom na trh práce na účely tohto zákona je fyzická osoba, ktorá je občanom so zdravotným postihnutím a ktorá
+
+- a)
+
+- pred prijatím do pracovného pomeru na pracovné miesto v chránenej dielni alebo na chránenom pracovisku alebo pred začatím vykonávania alebo prevádzkovania samostatnej zárobkovej činnosti a počas trvania pracovného pomeru alebo počas vykonávania alebo prevádzkovania samostatnej zárobkovej činnosti má pre dlhodobo nepriaznivý zdravotný stav pokles schopnosti vykonávať zárobkovú činnosť o viac ako 70 % v porovnaní so zdravou fyzickou osobou,
+
+- b)
+
+- má pre dlhodobo nepriaznivý zdravotný stav pokles schopnosti vykonávať zárobkovú činnosť najviac o 70 % v porovnaní so zdravou fyzickou osobou a ktorá najmenej šesť po sebe nasledujúcich kalendárnych mesiacov predchádzajúcich kalendárnemu mesiacu, v ktorom bola prijatá do pracovného pomeru na pracovné miesto v chránenej dielni alebo na chránenom pracovisku alebo v ktorom začala vykonávať alebo prevádzkovať samostatnú zárobkovú činnosť, nebola zamestnancom, nebola v pracovnoprávnom vzťahu na základe dohody o práci vykonávanej mimo pracovného pomeru<sup>12</sup>) a nevykonávala alebo neprevádzkovala samostatnú zárobkovú činnosť okrem vykonávania činností podľa § 6 ods. 2 alebo
+
+- c)
+
+- pred prijatím do pracovného pomeru na pracovné miesto v chránenej dielni alebo na chránenom pracovisku alebo pred začatím vykonávania alebo prevádzkovania samostatnej zárobkovej činnosti bola občanom so zdravotným postihnutím
+
+- 1.
+
+- podľa písmena a) a počas trvania pracovného pomeru alebo počas vykonávania alebo prevádzkovania samostatnej zárobkovej činnosti sa stala fyzickou osobou, ktorá má pre dlhodobo nepriaznivý zdravotný stav pokles schopnosti vykonávať zárobkovú činnosť najviac o 70 % v porovnaní so zdravou fyzickou osobou,
+
+- 2.
+
+- podľa písmena b) a počas trvania pracovného pomeru alebo počas vykonávania alebo prevádzkovania samostatnej zárobkovej činnosti sa stala fyzickou osobou, ktorá má pre dlhodobo nepriaznivý zdravotný stav pokles schopnosti vykonávať zárobkovú činnosť o viac ako 70 % v porovnaní so zdravou fyzickou osobou.
+
+- (4)
+
+- Podmienkou na priznanie postavenia chránenej dielne alebo chráneného pracoviska je okrem splnenia podmienok podľa odsekov 1 a 2 aj
+
+- a)
+
+- vlastníctvo priestoru, nájom priestoru alebo správa priestoru, v ktorom bude zriadená chránená dielňa alebo chránené pracovisko, právnickou osobou alebo fyzickou osobou, ktorá žiada o priznanie postavenia chránenej dielne alebo chráneného pracoviska; splnenie podmienky vlastníctva priestoru zisťuje úrad,
+
+- b)
+
+- rozhodnutie orgánu štátnej správy na úseku verejného zdravotníctva, ktorým povoľuje uvedenie priestoru, v ktorom bude zriadená chránená dielňa alebo chránené pracovisko, do prevádzky<sup>60</sup>) alebo oznámenie orgánu štátnej správy na úseku verejného zdravotníctva pred začatím prevádzky priestorov,<sup>60a</sup>) ak sa rozhodnutie orgánu štátnej správy na úseku verejného zdravotníctva, ktorým povoľuje uvedenie priestoru do prevádzky, nevydáva,
+
+- c)
+
+- skutočnosť, že právnická osoba alebo fyzická osoba, ktorá žiada o priznanie postavenia chránenej dielne alebo chráneného pracoviska, nie je integračným podnikom.
+
+- (5)
+
+- Postavenie chránenej dielne alebo chráneného pracoviska priznáva na základe písomnej žiadosti úrad, v ktorého územnom obvode sa zriaďuje pracovné miesto pre občana so zdravotným postihnutím so sťaženým prístupom na trh práce. Súčasťou žiadosti o priznanie postavenia chránenej dielne alebo chráneného pracoviska je
+
+- a)
+
+- popis pracovnej činnosti, pracoviska a jeho umiestnenia a pracovných podmienok,
+
+- b)
+
+- doklad o nájme priestorov, ak právnická osoba alebo fyzická osoba nie je vlastníkom priestorov, alebo písomný súhlas vlastníka priestorov so zriadením chránenej dielne alebo chráneného pracoviska, ak je právnická osoba určená ako správca priestorov na liste vlastníctva, a
+
+- c)
+
+- rozhodnutie orgánu štátnej správy na úseku verejného zdravotníctva podľa odseku 4 písm. b) alebo písomné oznámenie orgánu štátnej správy na úseku verejného zdravotníctva pred začatím prevádzky priestorov, ak sa rozhodnutie orgánu štátnej správy na úseku verejného zdravotníctva, ktorým povoľuje uvedenie priestoru do prevádzky, nevydáva.
+
+- (6)
+
+- Úrad pred vydaním rozhodnutia o priznaní postavenia chránenej dielne alebo chráneného pracoviska vykoná obhliadku pracoviska, na ktorom má byť zriadená chránená dielňa alebo chránené pracovisko.
+
+- (7)
+
+- Postavenie chránenej dielne alebo chráneného pracoviska sa priznáva na neurčitý čas.
+
+- (8)
+
+- Právnická osoba alebo fyzická osoba, ktorá má priznané postavenie chránenej dielne alebo chráneného pracoviska, je povinná
+
+- a)
+
+- spĺňať podmienky podľa odseku 1 a odseku 4 písm. a) a b), ak ide o chránenú dielňu, a podľa odseku 2 a odseku 4 písm. a) a b), ak ide o chránené pracovisko,
+
+- b)
+
+- viesť osobitnú evidenciu nákladov, výkonov a výsledku hospodárenia chránenej dielne alebo chráneného pracoviska,
+
+- c)
+
+- oznámiť úradu každú zmenu súvisiacu s priznaným postavením chránenej dielne alebo chráneného pracoviska do 30 kalendárnych dní odo dňa, keď ku zmene došlo,
+
+- d)
+
+- oznámiť úradu zmenu sídla, ak ide o právnickú osobu, miesta podnikania alebo miesta výkonu činnosti, ak ide o fyzickú osobu, chránenej dielne alebo chráneného pracoviska do 5 pracovných dní odo dňa, keď ku zmene došlo.
+
+- (9)
+
+- Občan so zdravotným postihnutím so sťaženým prístupom na trh práce, ktorý je zamestnaný v chránenej dielni alebo na chránenom pracovisku, môže počas najviac desiatich dní v kalendárnom mesiaci vykonávať prácu aj mimo chránenej dielne alebo mimo chráneného pracoviska, ak vykonávanie práce mimo chránenej dielne alebo mimo chráneného pracoviska umožňuje dohodnutý druh práce.
+
+- (10)
+
+- V chránenej dielni, v ktorej počet zamestnaných občanov so zdravotným postihnutím so sťaženým prístupom na trh práce klesne pod 50 % z celkového počtu zamestnancov chránenej dielne z dôvodu uvoľnenia pracovných miest, na ktorých boli zamestnaní občania so zdravotným postihnutím so sťaženým prístupom na trh práce, sa podmienka zamestnávania najmenej 50 % občanov so zdravotným postihnutím so sťaženým prístupom na trh práce v pracovnom pomere na pracovnom mieste v chránenej dielni považuje najviac počas troch mesiacov za splnenú, ak právnická osoba alebo fyzická osoba, ktorá zriadila chránenú dielňu, písomne oznámi túto skutočnosť úradu najneskôr v deň, v ktorom prestala spĺňať uvedenú podmienku. Ak sa uvoľnilo pracovné miesto na chránenom pracovisku, podmienka zamestnávať občana so zdravotným postihnutím so sťaženým prístupom na trh práce v pracovnom pomere na pracovnom mieste na chránenom pracovisku sa považuje najviac počas troch mesiacov za splnenú, ak právnická osoba alebo fyzická osoba, ktorá zriadila chránené pracovisko, písomne oznámi túto skutočnosť úradu najneskôr v deň, v ktorom prestala spĺňať uvedenú podmienku.
+
+- (11)
+
+- Priznané postavenie chránenej dielne alebo chráneného pracoviska úrad zruší, ak právnická osoba alebo fyzická osoba, ktorá zriadila chránenú dielňu alebo chránené pracovisko, neplní povinnosť podľa odseku 8 písm. a). Na základe písomnej žiadosti právnickej osoby alebo fyzickej osoby, ktorá zriadila chránenú dielňu alebo chránené pracovisko, úrad zruší, zmení alebo pozastaví priznané postavenie chránenej dielne alebo chráneného pracoviska, zruší pozastavenie priznaného postavenia chránenej dielne alebo chráneného pracoviska pred uplynutím doby, na ktorú bolo pozastavené, alebo vydá duplikát dokladu o priznanom postavení chránenej dielne alebo chráneného pracoviska. Duplikát dokladu o priznanom postavení chránenej dielne alebo chráneného pracoviska vydá úrad pri jeho strate, odcudzení alebo znehodnotení.
+
+- (12)
+
+- Priznané postavenie chránenej dielne alebo chráneného pracoviska zanikne, ak ide o
+
+- a)
+
+- právnickú osobu alebo fyzickú osobu, ktorá zriadila chránenú dielňu alebo chránené pracovisko, dňom zániku právnickej osoby bez právneho nástupcu alebo dňom smrti fyzickej osoby alebo dňom jej vyhlásenia za mŕtvu, ak nedošlo k pokračovaniu v živnosti,<sup>60b</sup>)
+
+- b)
+
+- fyzickú osobu, ktorá je občanom so zdravotným postihnutím so sťaženým prístupom na trh práce vykonávajúcim alebo prevádzkujúcim samostatnú zárobkovú činnosť na chránenom pracovisku, dňom smrti tejto fyzickej osoby alebo dňom jej vyhlásenia za mŕtvu,
+
+- c)
+
+- právnickú osobu alebo fyzickú osobu, ktorá zriadila chránenú dielňu alebo chránené pracovisko, dňom priznania štatútu integračného podniku.
+
+- (13)
+
+- Ústredie a úrad vedie zoznam chránených dielní a chránených pracovísk, ktorý obsahuje údaje v rozsahu ustanovenom v prílohe č. 1 písm. C. Zoznam chránených dielní a chránených pracovísk ústredie a úrad zverejňuje a polročne aktualizuje na svojom webovom sídle.“.
+
+  - Poznámky pod čiarou k odkazom 60, 60a a 60b znejú:
+
+  - „<sup>60</sup>) § 13 ods. 4 písm. a) a § 52 ods. 1 písm. b) zákona č. 355/2007 Z. z. v znení zákona č. 198/2020 Z. z.
+
+  - <sup>60a</sup>) § 52 ods. 8 zákona č. 355/2007 Z. z. v znení zákona č. 198/2020 Z. z.
+
+  - <sup>60b</sup>) § 13 zákona č. 455/1991 Zb. v znení neskorších predpisov.“.
+
+- 123. V § 56 ods. 1 sa slová „uchádzača o zamestnanie, ktorý je občanom so zdravotným postihnutím, vedeného v evidencii uchádzačov o zamestnanie najmenej jeden mesiac“ nahrádzajú slovami „občana so zdravotným postihnutím so sťaženým prístupom na trh práce“.
+
+- 124. V § 56 ods. 2, 6 a ods. 9 písm. d) a e), § 57 ods. 4 a ods. 5 písm. h) a i) a § 60 ods. 1, ods. 2 písm. f), ods. 3 úvodnej vete a písm. b), f) až h) a ods. 4 sa za slová „zdravotným postihnutím“ vkladajú slová „so sťaženým prístupom na trh práce“.
+
 - 125. V § 56 odsek 3 znie:
 
 - „(3)
@@ -890,11 +1042,23 @@ Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektor
 
 - vyšším ako je celoslovenský priemer v kalendárnom roku, ktorý predchádza kalendárnemu roku, v ktorom sa príspevok poskytuje, najviac 5,2-násobok celkovej ceny práce podľa § 49 ods. 4 vypočítanej z priemernej mzdy zamestnanca v hospodárstve Slovenskej republiky za prvý až tretí štvrťrok kalendárneho roka, ktorý predchádza kalendárnemu roku, v ktorom sa príspevok poskytuje.“.
 
+- 126. V § 56 ods. 5 prvá veta znie: „Pracovné miesta, na ktorých zriadenie bol poskytnutý príspevok, sa môžu obsadzovať len občanmi so zdravotným postihnutím so sťaženým prístupom na trh práce.“.
+
+- 127. V § 56 ods. 9 písm. c) sa slová „zamestnancov so zdravotným postihnutím“ nahrádzajú slovami „zamestnancov, ktorí sú občanmi so zdravotným postihnutím so sťaženým prístupom na trh práce,“.
+
+- 128. § 56a sa vypúšťa.
+
+- 129. Nadpis § 57 znie: „Príspevok občanovi so zdravotným postihnutím so sťaženým prístupom na trh práce na samostatnú zárobkovú činnosť“.
+
 - 130. V § 57 ods. 1 sa na konci pripájajú tieto slová: „alebo príspevok na samostatnú zárobkovú činnosť v rámci projektu alebo programu podľa § 54“.
 
 - 131. V § 57 odseky 1 a 2 znejú:
 
-- „(2)
+- „(1)
+
+- Úrad môže poskytnúť príspevok občanovi so zdravotným postihnutím so sťaženým prístupom na trh práce na samostatnú zárobkovú činnosť (ďalej len „príspevok“) na čiastočnú úhradu nákladov súvisiacich s prevádzkovaním samostatnej zárobkovej činnosti občanovi so zdravotným postihnutím so sťaženým prístupom na trh práce, ktorý bude samostatne zárobkovo činnou osobou podľa § 5 ods. 1 písm. b) alebo písm. d) prevádzkujúcou samostatnú zárobkovú činnosť na chránenom pracovisku, ak o príspevok písomne požiada. Príspevok sa neposkytuje na úhradu preddavku na poistné na povinné verejné zdravotné poistenie, poistného na sociálne poistenie a povinných príspevkov na starobné dôchodkové sporenie platených samostatne zárobkovo činnou osobou, ktorá je občanom so zdravotným postihnutím so sťaženým prístupom na trh práce, a na úhradu nájomného. Príspevok sa neposkytuje, ak občan so zdravotným postihnutím so sťaženým prístupom na trh práce v období 12 mesiacov pred podaním žiadosti o príspevok pozastavil, prerušil alebo skončil prevádzkovanie samostatnej zárobkovej činnosti. Príspevok sa neposkytuje občanovi so zdravotným postihnutím so sťaženým prístupom na trh práce, ktorému bol poskytnutý príspevok podľa § 49 alebo príspevok na samostatnú zárobkovú činnosť v rámci projektu alebo programu podľa § 54.
+
+- (2)
 
 - Výška príspevku je v okresoch s priemerným podielom disponibilných uchádzačov o zamestnanie na obyvateľstve v produktívnom veku
 
@@ -906,7 +1070,19 @@ Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektor
 
 - vyšším ako je celoslovenský priemer v kalendárnom roku, ktorý predchádza kalendárnemu roku, v ktorom sa príspevok poskytuje, najviac 4,8-násobok celkovej ceny práce podľa § 49 ods. 4 vypočítanej z priemernej mzdy zamestnanca v hospodárstve Slovenskej republiky za prvý až tretí štvrťrok kalendárneho roka, ktorý predchádza kalendárnemu roku, v ktorom sa príspevok poskytuje.“.
 
+- 132. V § 57 ods. 3 prvej vete sa slová „uchádzačom o zamestnanie, ktorý je občanom so zdravotným postihnutím“ nahrádzajú slovami „občanom so zdravotným postihnutím so sťaženým prístupom na trh práce“ a v druhej vete sa za slovo „postihnutím“ vkladajú slová „so sťaženým prístupom na trh práce“.
+
 - 133. V § 57 ods. 4 sa slová „najviac 30 %“ nahrádzajú slovami „najviac 60 %“ a slová „šiestich mesiacov“ sa nahrádzajú slovami „12 mesiacov“.
+
+- 134. V § 57 ods. 5 písm. j) sa slová „uchádzača o zamestnanie“ nahrádzajú slovami „občana so zdravotným postihnutím so sťaženým prístupom na trh práce“.
+
+- 135. V § 57 ods. 6 prvá veta znie: „Úrad zabezpečí občanovi so zdravotným postihnutím so sťaženým prístupom na trh práce, ktorý je uchádzačom o zamestnanie, na základe jeho písomnej žiadosti absolvovanie prípravy na začatie prevádzkovania samostatnej zárobkovej činnosti na chránenom pracovisku.“.
+
+- 136. V § 57 ods. 7 sa pred prvú vetu vkladá nová prvá veta, ktorá znie: „Občan so zdravotným postihnutím so sťaženým prístupom na trh práce, ktorému bol poskytnutý príspevok, je povinný samostatnú zárobkovú činnosť prevádzkovať na chránenom pracovisku nepretržite najmenej dva roky.“ a v druhej vete a tretej vete sa za slová „zdravotným postihnutím“ vkladajú slová „so sťaženým prístupom na trh práce“.
+
+- 137. V § 57 ods. 8 sa slová „uchádzačovi o zamestnanie, ktorý je občanom so zdravotným postihnutím“ nahrádzajú slovami „občanovi so zdravotným postihnutím so sťaženým prístupom na trh práce“.
+
+- 138. V § 57 sa vypúšťa odsek 9.
 
 - 139. V § 58 ods. 13 sa za písmeno b) vkladá nové písmeno c), ktoré znie:
 
@@ -921,6 +1097,12 @@ Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektor
 - „d)
 
 - poskytovať ústrediu správu o svojej činnosti za uplynulý kalendárny rok spolu s údajmi z evidencie podľa písmena c) v termíne do 31. marca nasledujúceho kalendárneho roka prostredníctvom elektronického formulára zaslaného do informačného systému na účely služieb zamestnanosti.“.
+
+- 141. V § 59 ods. 7 sa nad slovom „zmluvu“ odkaz „<sup>60a</sup>)“ nahrádza odkazom „<sup>60c</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 60c znie:
+
+  - „<sup>60c</sup>) § 51 a 853 Občianskeho zákonníka.“.
 
 - 142. V § 60 ods. 2 písmeno i) znie:
 
@@ -942,11 +1124,19 @@ Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektor
 
   - Doterajšie odseky 5 až 10 sa označujú ako odseky 6 až 11.
 
+- 145. V § 60 ods. 5 až 8 a ods. 10 písm. b) celom texte sa za slová „zdravotným postihnutím“ vkladajú slová „so sťaženým prístupom na trh práce“.
+
 - 146. V § 60 ods. 8 sa slová „odseku 6“ nahrádzajú slovami „odseku 7“.
 
 - 147. V § 60 ods. 10 úvodnej vete sa slová „odseku 8“ nahrádzajú slovami „odseku 9“.
 
 - 148. V § 60 ods. 11 sa slová „až 5“ nahrádzajú slovami „až 6“ a slová „odseku 6“ sa nahrádzajú slovami „odseku 7“.
+
+- 149. V § 62 ods. 6 sa nad slovom „predpisu“ odkaz „<sup>60aa</sup>)“ nahrádza odkazom „<sup>60d</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 60d znie:
+
+  - „<sup>60d</sup>) Napríklad § 26 zákona č. 55/2017 Z. z. v znení neskorších predpisov.“.
 
 - 150. V § 63 ods. 1 písmeno c) znie:
 
@@ -966,11 +1156,25 @@ Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektor
 
 - 153. V § 63 ods. 3 sa slová „písm. d)“ nahrádzajú slovami „písm. e)“.
 
+- 154. V § 63 ods. 3 sa nad slovom „predpisov“ odkaz „<sup>60b</sup>)“ nahrádza odkazom „<sup>60e</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 60e znie:
+
+  - „<sup>60e</sup>) Zákon č. 73/1998 Z. z. v znení neskorších predpisov.
+
+  - Zákon č. 315/2001 Z. z. v znení neskorších predpisov.
+
+  - Zákon č. 281/2015 Z. z. v znení neskorších predpisov.
+
+  - Zákon č. 35/2019 Z. z. v znení neskorších predpisov.“.
+
 - 155. V § 63 ods. 5 sa slová „predchádzajúci kalendárny rok do 31. marca nasledujúceho kalendárneho roka na formulári predpísanom ústredím“ nahrádzajú slovami „uplynulý kalendárny rok v termíne do 31. marca nasledujúceho kalendárneho roka prostredníctvom elektronického formulára zaslaného do informačného systému na účely služieb zamestnanosti“.
 
 - 156. V § 64 ods. 1, 2, 5, 7 a 9, § 64a ods. 1, § 65 ods. 1 a 2 a § 65a sa slová „písm. d)“ nahrádzajú slovami „písm. e)“.
 
 - 157. V § 65b sa za slová „§ 46,“ vkladajú slová „§ 46a,“ a vypúšťajú sa slová „§ 50j,“, slová „§ 51a,“, slová „§ 52a,“, slová „§ 53c,“ a slová „§ 53f, § 53g,“.
+
+- 158. V § 65b sa vypúšťajú slová „§ 56a,“.
 
 - 159. V § 67 ods. 10 sa slová „ministerstvo financií“ nahrádzajú slovami „Ministerstvo financií Slovenskej republiky“.
 
@@ -1012,7 +1216,15 @@ Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektor
 
 - Na príspevky poskytované podľa § 46 ods. 4, § 46a, § 47, § 49 až 52, § 53b, § 53d, § 56, § 56a a 57 nie je právny nárok. Na príspevky poskytované v rámci projektu alebo programu podľa § 54 nie je právny nárok, ak podmienky projektu alebo programu neustanovujú inak.“.
 
+- 168. V § 70 ods. 6 sa za slovami „§ 56“ vypúšťa čiarka a slová „§ 56a“.
+
 - 169. V § 70 ods. 8 sa vypúšťa tretia veta až piata veta.
+
+- 170. V § 70 odsek 8 znie:
+
+- „(8)
+
+- Splnenie podmienok podľa odseku 7 písm. a) až e) a g) zisťuje ústredie alebo úrad; splnenie podmienok podľa odseku 7 písm. a) až c) môže preukázať aj žiadateľ. Splnenie podmienky podľa odseku 7 písm. f) preukazuje žiadateľ. Národný inšpektorát práce je povinný do 15 pracovných dní poskytnúť úradu elektronicky z informačného systému informácie týkajúce sa splnenia podmienky podľa § 21b ods. 4 písm. a) druhého bodu a § 22 ods. 3 písm. b).“.
 
 - 171. V § 70 ods. 10 sa slovo „tretieho“ nahrádza slovom „štvrtého“.
 
@@ -1096,7 +1308,19 @@ Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektor
 
 - (9)
 
-- Ustanovenie § 72au ods. 2 sa od 1. januára 2023 neuplatňuje.“.
+- Ustanovenie § 72au ods. 2 sa od 1. januára 2023 neuplatňuje.
+
+- § 72ax
+
+- Prechodné ustanovenia k úpravám účinným od 1. januára 2024
+
+- (1)
+
+- Občan so zdravotným postihnutím, ktorý bol zamestnaný v chránenej dielni alebo na chránenom pracovisku k 31. decembru 2023, a občan so zdravotným postihnutím, ktorý vykonával alebo prevádzkoval samostatnú zárobkovú činnosť na chránenom pracovisku k 31. decembru 2023, sa do skončenia zamestnania v chránenej dielni alebo na chránenom pracovisku alebo do skončenia vykonávania alebo prevádzkovania samostatnej zárobkovej činnosti na chránenom pracovisku považuje za občana so zdravotným postihnutím so sťaženým prístupom na trh práce podľa § 55 ods. 3 v znení účinnom od 1. januára 2024.
+
+- (2)
+
+- Konanie začaté pred 1. januárom 2024, ktoré nebolo právoplatne skončené, sa dokončí podľa tohto zákona v znení účinnom do 31. decembra 2023.“.
 
 - 176. V prílohe č. 1 písm. A písm. a) sa za tretí bod vkladá nový štvrtý bod, ktorý znie:
 
