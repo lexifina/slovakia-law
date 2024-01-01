@@ -82,6 +82,8 @@ Zákon č. 129/2002 Z. z. o integrovanom záchrannom systéme v znení zákona �
 
 - 12. V § 5 ods. 5 sa slová „i) a j)“ nahrádzajú slovami „i), j) a l)“.
 
+- 13. V § 5 ods. 5 sa za slovom „kraja“ vypúšťa čiarka a slová „ministerstva zdravotníctva“ a za slová „Policajného zboru“ sa vkladajú slová „a ministerstva zdravotníctva“.
+
 - 14. V § 5 odsek 6 znie:
 
 - „(6)
