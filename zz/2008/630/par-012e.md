@@ -1,0 +1,3 @@
+# § 12e Prechodné ustanovenie k úpravám účinným od 1. januára 2024
+
+Objem finančných prostriedkov pre zriaďovateľa na osobné náklady asistentov učiteľa pre žiakov so zdravotným znevýhodnením na obdobie od 1. januára 2024 do 31. augusta 2024 sa vypočíta ako súčin počtu úväzkov pedagogických asistentov schválených ministerstvom a normatívu na takého pedagogického zamestnanca na príslušné obdobie; úväzok na tento účel predstavuje týždenný rozsah hodín priamej výchovno-vzdelávacej činnosti. Normatív na asistenta učiteľa na príslušné obdobie sa vypočíta ako podiel objemu finančných prostriedkov vyčlenených na tento účel a počtu úväzkov asistentov učiteľa schválených ministerstvom na príslušný kalendárny rok.

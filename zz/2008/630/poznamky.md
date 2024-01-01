@@ -16,6 +16,4 @@
 
 - 17) § 27 ods. 2 a § 112 ods. 1 zákona č. 245/2008 Z. z.
 
-- 19) § 3 ods. 3 a 4 zákona č. 317/2009 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov.
-
 - 20) § 161n a 161q zákona č. 245/2008 Z. z. v znení zákona č. 415/2021 Z. z.

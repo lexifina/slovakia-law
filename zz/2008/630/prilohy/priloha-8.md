@@ -4,7 +4,7 @@ Príloha č. 8 k nariadeniu vlády č. 630/2008 Z. z.
 
 - 1. | 1,000 | 1,500 | žiak so všeobecným intelektovým nadaním [§ 103 ods. 1 písm. a) prvý bod zákona č. 245/2008 Z. z.],
 
-- 2. | 1,286 | 1,930 | žiak s vývinovou poruchou učenia [§ 94 ods. 2 písm. i) zákona č. 245/2008 Z. z.], žiak s mentálnym postihnutím vzdelávaný podľa variantu A [§ 94 ods. 2 písm. a) a § 97 ods. 5 písm. a) zákona č. 245/2008 Z. z.], žiak s poruchou správania (§ 128 ods. 1 zákona č. 245/2008 Z. z.), žiak s poruchou aktivity a pozornosti [§ 2 písm. n) zákona č. 245/2008 Z. z.],
+- 2. | 1,286 | 1,930 | žiak s vývinovou poruchou učenia [§ 94 ods. 2 písm. i) zákona č. 245/2008 Z. z.], žiak s mentálnym postihnutím vzdelávaný podľa variantu A [§ 94 ods. 2 písm. a) a § 97 ods. 5 písm. a) zákona č. 245/2008 Z. z.], žiak s poruchou správania (§ 128 ods. 1 zákona č. 245/2008 Z. z.), žiak s poruchou aktivity a pozornosti [§ 2 písm. m) zákona č. 245/2008 Z. z.],
 
 - 3. | 1,500 | 2,265 | žiak s mentálnym postihnutím vzdelávaný podľa variantu B [§ 94 ods. 2 písm. a) a § 97 ods. 5 písm. b) zákona č. 245/2008 Z. z.], žiak s narušenou komunikačnou schopnosťou [§ 94 ods. 2 písm. e) zákona č. 245/2008 Z. z.], slabozraký žiak, žiak so zvyškami zraku a žiak s poruchou binokulárneho videnia [§ 3 ods. 2 písm. a), b) a d) vyhlášky č. 322/2008 Z. z.], nedoslýchavý žiak, žiak s kochleárnym implantátom [§ 94 ods. 2 písm. b) zákona č. 245/2008 Z. z., § 3 ods. 1 písm. a) a b) vyhlášky č. 322/2008 Z. z.], žiak s telesným postihnutím okrem nechodiacich žiakov [§ 94 ods. 2 písm. d) zákona č. 245/2008 Z. z.],
 

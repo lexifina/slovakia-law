@@ -1,1 +1,1 @@
-Príloha č. 12 k nariadeniu vlády č. 630/2008 Z. z. [Príloha č. 12 k nariadeniu vlády č. 630/2008 Z. z.](../assets/0d5444acb09ad6910939e752e6718249e00c6816740d31c04aac9b2b2b5ec7f6.pdf)
+Príloha č. 12 k nariadeniu vlády č. 630/2008 Z. z. [Príloha č. 12 k nariadeniu vlády č. 630/2008 Z. z.](../assets/df56a0f273ac58eba3503d2001b477655af566a14f1462e5a0f32cbad5ada004.pdf)
