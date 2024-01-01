@@ -1,0 +1,1 @@
+Príloha č. 1 k nariadeniu vlády č. 427/2023 Z. z. [Zoznam parciel, ktoré celé alebo časťou zasahujú do národného parku Veľká Fatra a do jeho ochranného pásma](../assets/52dc652f734dfea7de59cbac5b3baf1871004219e09d20cfb6ab5c7f534b65aa.pdf)
