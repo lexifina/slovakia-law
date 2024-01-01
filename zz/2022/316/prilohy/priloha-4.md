@@ -1,1 +1,0 @@
-Príloha č. 4 k vyhláške č. 316/2022 Z. z. [Spôsob určenia medicínskej služby podľa kombinácie hlavného výkonu, diagnózy, veku pacienta a lokalizácie výkonu](../assets/08fdc1d52aebe5c4571bc85bdb6986b4f8fc2c97ec31bbad0ef60310f1e78471.pdf)

@@ -1,1 +1,0 @@
-Príloha č. 15 k vyhláške č. 316/2022 Z. z. [Špeciálne personálne zabezpečenie, špeciálne materiálno – technické vybavenie a ďalšie podmienky pre poskytovanie programov a medicínskych služieb](../assets/6c4c40bda50a372337936f9f461759f368495719ab5d614c71f93048000d7182.pdf)
