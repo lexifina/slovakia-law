@@ -1,0 +1,1 @@
+Vladimír Palko v. r.
