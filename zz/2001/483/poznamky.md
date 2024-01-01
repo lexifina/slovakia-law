@@ -884,15 +884,21 @@
 
 - 86dk) § 27ha ods. 6 zákona č. 185/2002 Z. z. o Súdnej rade Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení zákona č. 423/2020 Z. z.
 
-- 86dl) § 3 ods. 2, § 5 ods. 3 a 4 a § 6 ods. 6 a 7 zákona č. 181/2014 Z. z. v znení neskorších predpisov.
+- 86dl) § 50 ods. 6 písm. h) a ods. 7 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
-- 86dm) § 3 ods. 5, § 5 ods. 7 a § 6 ods. 8 zákona č. 181/2014 Z. z. v znení neskorších predpisov.
+- 86dm) § 50 ods. 1 písm. a) zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
 - 86dn) § 73b zákona Slovenskej národnej rady č. 323/1992 Zb. v znení zákona č. 357/2003 Z. z.
 
-- 86do) Čl. 7 ods. 3a nariadenia Európskeho parlamentu a Rady (EÚ, EURATOM) č. 883/2013 z 11. septembra 2013 o vyšetrovaniach vykonávaných Európskym úradom pre boj proti podvodom (OLAF), ktorým sa zrušuje nariadenie Európskeho parlamentu a Rady (ES) č. 1073/1999 a nariadenie Rady (Euratom) č. 1074/1999 (Ú. v. EÚ L 248, 18. 9. 2013) v platnom znení.
+- 86do) § 3 ods. 2, § 5 ods. 3 a 4 a § 6 ods. 6 a 7 zákona č. 181/2014 Z. z. v znení neskorších predpisov.
 
-- 86dp) Napríklad Trestný poriadok, § 29a ods. 4 a § 76 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov, § 11 ods. 2 zákona č. 199/2004 Z. z. v znení zákona č. 672/2006 Z. z., § 4 ods. 5 písm. c) zákona č. 101/2010 Z. z., zákon č. 35/2019 Z. z. v znení neskorších predpisov.
+- 86dp) § 3 ods. 5, § 5 ods. 7 a § 6 ods. 8 zákona č. 181/2014 Z. z. v znení neskorších predpisov.
+
+- 86dq) Čl. 7 ods. 3a nariadenia Európskeho parlamentu a Rady (EÚ, EURATOM) č. 883/2013 z 11. septembra 2013 o vyšetrovaniach vykonávaných Európskym úradom pre boj proti podvodom (OLAF), ktorým sa zrušuje nariadenie Európskeho parlamentu a Rady (ES) č. 1073/1999 a nariadenie Rady (Euratom) č. 1074/1999 (Ú. v. EÚ L 248, 18. 9. 2013) v platnom znení.
+
+- 86dqa) § 13 ods. 3 zákona č. 526/2023 Z. z. o pomoci pri splácaní úveru na bývanie a o zmene a doplnení niektorých zákonov.
+
+- 86dr) Napríklad Trestný poriadok, § 29a ods. 4 a § 76 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov, § 11 ods. 2 zákona č. 199/2004 Z. z. v znení zákona č. 672/2006 Z. z., § 4 ods. 5 písm. c) zákona č. 101/2010 Z. z., zákon č. 35/2019 Z. z. v znení neskorších predpisov.
 
 - 86e) Zákon č. 126/2011 Z. z.
 
