@@ -1,0 +1,1 @@
+Príloha č. 4 k vyhláške č. 497/2023 Z. z. [ZOZNAM NÁKLADOVÝCH SKUPÍN ZDRAVOTNÍCKYCH POMÔCOK NA ROK 2024](../assets/ab9c3aa7051c16d22fe12e85eb66b2f8aad0f6f53117c6eb46311c2f4be58799.pdf)

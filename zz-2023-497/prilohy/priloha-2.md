@@ -1,0 +1,1 @@
+Príloha č. 2 k vyhláške č. 497/2023 Z. z. [ZOZNAM DIAGNOSTICKÝCH SKUPÍN NA ROK 2024](../assets/d73c85312eed253ba336fd5a24a342852ba820dd6680adbcdb59ab04207260b7.pdf)
