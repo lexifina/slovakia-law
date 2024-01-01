@@ -1,0 +1,1 @@
+Príloha č. 2 k opatreniu č. 351/2023 Z. z. [KĽÚČOVÉ INFORMÁCIE O DÔCHODKOVOM FONDE](../assets/c0fa7e65218067544e1469082194e5b162fbc7b297103a0bfe2871298358454f.pdf)

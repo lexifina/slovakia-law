@@ -1,0 +1,1 @@
+Príloha č. 4 k opatreniu č. 351/2023 Z. z. [VZORCE NA VÝPOČET ODPLATY A NÁKLADOV DÔCHODKOVÉHO FONDU](../assets/e6228ba40b9c07a718073c1c0dddee22f680d028084a2f1e37ef19136d5cba9a.pdf)
