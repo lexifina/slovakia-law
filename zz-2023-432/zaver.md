@@ -1,0 +1,1 @@
+Peter Peťko v. r.
