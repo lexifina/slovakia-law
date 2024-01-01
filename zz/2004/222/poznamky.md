@@ -210,6 +210,26 @@
 
 - 28g) Čl. 54c vykonávacieho nariadenia (EÚ) 2019/2026.
 
+- 28h) § 2 ods. 3 písm. a) až d) a g) zákona č. 492/2009 Z. z. v znení zákona č. 281/2017 Z. z.
+
+- 28i) § 2 ods. 1 písm. c) až f) zákona č. 492/2009 Z. z. v znení zákona č. 281/2017 Z. z.
+
+- 28j) § 2 ods. 2 zákona č. 492/2009 Z. z. v znení zákona č. 281/2017 Z. z.
+
+- 28k) § 2 ods. 8 zákona č. 492/2009 Z. z. v znení zákona č. 454/2021 Z. z.
+
+- 28l) § 2 ods. 4 zákona č. 492/2009 Z. z. v znení neskorších predpisov.
+
+- 28m) § 2 ods. 5 zákona č. 492/2009 Z. z. v znení zákona č. 281/2017 Z. z.
+
+- 28n) § 2 ods. 25 zákona č. 492/2009 Z. z.
+
+- 28o) § 2 ods. 26 zákona č. 492/2009 Z. z. v znení zákona č. 394/2011 Z. z.
+
+- 28p) Čl. 24b a 24e nariadenia Rady (EÚ) č. 904/2010 zo 7. októbra 2010 o administratívnej spolupráci a boji proti podvodom v oblasti dane z pridanej hodnoty (prepracované znenie) (Ú. v. EÚ L 268, 12. 10. 2010) v platnom znení.
+
+- Čl. 4 a Príloha vykonávacieho nariadenia Komisie (EÚ) 2022/1504 zo 6. apríla 2022, ktorým sa stanovujú podrobné pravidlá uplatňovania nariadenia Rady (EÚ) č. 904/2010, pokiaľ ide o vytvorenie centrálneho elektronického systému informácií o platbách (CESOP) na boj proti podvodom v oblasti DPH (Ú. v. EÚ L 235, 12. 9. 2022).
+
 - 29) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení zákona č. 679/2004 Z. z.
 
 - 29a) Zákon č. 289/2008 Z. z. o používaní elektronickej registračnej pokladnice a o zmene a doplnení zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov v znení neskorších predpisov.

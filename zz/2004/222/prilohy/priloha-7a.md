@@ -6,7 +6,7 @@ Príloha č. 7a k zákonu č. 222/2004 Z. z.
 
 - 55 | Ubytovacie služby
 
-- 56 | Služby spojené s podávaním jedál a nápojov – len reštauračné a stravovacie služby<sup>2</sup>)
+- 56 | Služby spojené s podávaním jedál a nápojov – len reštauračné a stravovacie služby<sup>2</sup>) s výnimkou podávania alkoholických nápojov s obsahom alkoholu viac ako 0,5 % objemu
 
 - 93.11.10 | Prevádzka športových zariadení – len sprístupnenie krytých a nekrytých športových zariadení, ako napríkad štadiónov, arén, klzísk, plavární, športových ihrísk, golfových ihrísk, kolkární, tenisových kurtov a jazdiarní, na účely vykonávania športu
 
