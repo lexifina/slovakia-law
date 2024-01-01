@@ -6,6 +6,14 @@ Nariadenie vlády Slovenskej republiky č. 115/2018 Z. z., ktorým sa ustanovuje
 
 - 2. V § 2 ods. 2 sa suma „0,032862 eura“ nahrádza sumou „0,049989 eura“.
 
+- 3. V § 3 ods. 1 sa suma „10 303 eur“ nahrádza sumou „12 442 eur“.
+
+- 4. V § 3 ods. 2 sa suma „0,019916 eura“ nahrádza sumou „0,021292 eura“.
+
+- 5. V § 3 ods. 4 sa suma „0,50 eura“ nahrádza sumou „0,72 eura“.
+
+- 6. V § 4 sa suma „0,019916 eura“ nahrádza sumou „0,021292 eura“.
+
 - 7. Za § 4 sa vkladá § 4a, ktorý vrátane nadpisu znie:
 
 - „§ 4a
