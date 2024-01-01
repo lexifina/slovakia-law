@@ -60,7 +60,7 @@
 
 (5) Dopravný úrad uloží prevádzkovateľovi plavidla pokutu od 1 000 eur do 10 000 eur, ak do troch rokov od uloženia sankcie opakovane naplní znaky skutkovej podstaty podľa odseku 3 písm. g).
 
-(6) Objednávateľ uloží pokutu od 1000 do 10 000 eur verejnému dopravcovi, ak vykonával verejnú vodnú dopravu bez licencie (§ 12 ods. 4) alebo ak porušil povinnosti verejného dopravcu ustanovené v tomto zákone alebo v osobitnom predpise<sup>24f</sup>) alebo povinnosti vyplývajúce z medzinárodných zmlúv o vnútrozemskej plavbe, ktorými je Slovenská republika viazaná.
+(6) Ministerstvo uloží pokutu od 1 000 eur do 10 000 eur dopravcovi, ak vykonával verejnú vodnú dopravu bez licencie (§ 12 ods. 4).
 
 (7) Pri určení výšky pokuty sa prihliada najmä na závažnosť konania, na jeho následky, na dobu jeho trvania a na rozsah spôsobenej škody.
 

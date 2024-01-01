@@ -74,25 +74,17 @@
 
 - 4) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení zákona č. 196/2000 Z. z.
 
+- 4a) Zákon č. 332/2023 Z. z. o verejnej osobnej doprave a o zmene a doplnení niektorých zákonov.
+
 - 5) § 2 ods. 2 písm. c) Obchodného zákonníka.
 
-- 5a) Čl. 3 písm. h) nariadenia Európskeho parlamentu a Rady (EÚ) č. 1177/2010 z 24. novembra 2010 o právach cestujúcich v námornej a vnútrozemskej vodnej doprave, ktorým sa mení a dopĺňa nariadenie (ES) č. 2006/2004 (Ú. v. EÚ L 334, 17. 12. 2010).
+- 7) § 765 Občianskeho zákonníka v znení neskorších predpisov.
 
-- 5aa) Čl. 2 písm. a) nariadenia Európskeho parlamentu a Rady (ES) č. 1370/2007 z 23. októbra 2007 o službách vo verejnom záujme v železničnej a cestnej osobnej doprave, ktorým sa zrušujú nariadenia Rady (EHS) č. 1191/69 a (EHS) č. 1107/70 (Ú. v. EÚ L 315, 3. 12. 2007) v platnom znení.
-
-- 5ab) Nariadenie (ES) č. 1370/2007 v platnom znení.
-
-- Zákon č. 358/2015 Z. z.
-
-- 5b) Čl. 3 písm. a) nariadenia (EÚ) č. 1177/2010.
-
-- 6) § 762 Občianskeho zákonníka.
-
-- 6a) Články 16 až 20 nariadenia (EÚ) č. 1177/2010.
-
-- 7) § 760 a 765 Občianskeho zákonníka.§ 610 Obchodného zákonníka.
+- § 610 Obchodného zákonníka v znení neskorších predpisov.
 
 - 8) § 7 ods. 2 a § 11 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona Národnej rady Slovenskej republiky č. 132/1994 Z. z.
+
+- 8a) § 28 zákona č. 332/2023 Z. z.
 
 - 9) § 6 ods. 3 Obchodného zákonníka.
 
@@ -102,31 +94,13 @@
 
 - 11a) § 10 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
 
-- 11b) § 22 ods. 4 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 11c) § 2b zákona č. 514/2009 Z. z. o doprave na dráhach v znení zákona č. 55/2019 Z. z.
-
-- § 19 zákona č. 56/2012 Z. z. o cestnej doprave.
-
-- 11d) Čl. 2 písm. g), čl. 6 a príloha nariadenia (ES) č. 1370/2007 v platnom znení.
-
-- 11e) Čl. 2 písm. f) nariadenia (ES) č. 1370/2007 v platnom znení.
-
-- 11f) Čl. 5 nariadenia (ES) č. 1370/2007 v platnom znení.
-
-- § 29 písm. a), § 66, § 163 až 183 zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 11g) Čl. 3 nariadenia (ES) č. 1370/2007 v platnom znení.
-
-- 11h) Nariadenie (EÚ) č. 1177/2010.
-
-- 11i) Čl. 5 ods. 4 nariadenia (ES) č. 1370/2007 v platnom znení.
-
 - 12) § 21 ods. 2 Obchodného zákonníka.
 
 - 12a) Čl. 2 nariadenia Rady (EHS) č. 3921/91 zo 16. decembra 1991, ktorým sa stanovujú podmienky, za ktorých môžu dopravcovia z iných štátov vykonávať prepravu tovaru alebo osôb vnútrozemskou vodnou dopravou v rámci členského štátu (Mimoriadne vydanie Ú. v. EÚ, kap. 7/zv. 1; Ú. v. ES L 373, 31. 12. 1991).
 
 - 12aa) Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 12aaa) § 19 ods. 3 až 5 zákona č. 332/2023 Z. z.
 
 - 12b) Čl. 2 ods. 2 nariadenia Rady (ES) č. 718/1999 z 29. marca 1999 o pláne kapacity flotily Spoločenstva na podporu vnútrozemskej vodnej dopravy (Mimoriadne vydanie Ú. v. EÚ, kap. 7/zv. 4; Ú. v. ES L 90, 2. 4. 1999).
 
