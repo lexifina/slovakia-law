@@ -1,0 +1,1 @@
+- 1) Napríklad § 111 zákona č. 79/2015 Z. z. odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
