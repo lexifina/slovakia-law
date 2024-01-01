@@ -1,0 +1,13 @@
+# Čl. III
+
+Zákon č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení zákona č. 331/2011 Z. z., zákona č. 332/2011 Z. z., zákona č. 384/2011 Z. z., zákona č. 546/2011 Z. z., zákona č. 69/2012 Z. z., zákona č. 91/2012 Z. z., zákona č. 235/2012 Z. z., zákona č. 246/2012 Z. z., zákona č. 440/2012 Z. z., zákona č. 218/2013 Z. z., zákona č. 435/2013 Z. z., zákona č. 213/2014 Z. z., zákona č. 218/2014 Z. z., zákona č. 333/2014 Z. z., zákona č. 361/2014 Z. z., zákona č. 130/2015 Z. z., zákona č. 176/2015 Z. z., zákona č. 252/2015 Z. z., zákona č. 269/2015 Z. z., zákona č. 393/2015 Z. z., zákona č. 447/2015 Z. z., zákona č. 125/2016 Z. z., zákona č. 298/2016 Z. z., zákona č. 339/2016 Z. z., zákona č. 267/2017 Z. z., zákona č. 344/2017 Z. z., zákona č. 177/2018 Z. z., zákona č. 213/2018 Z. z., zákona č. 368/2018 Z. z., zákona č. 35/2019 Z. z., zákona č. 221/2019 Z. z., zákona č. 369/2019 Z. z., zákona č. 390/2019 Z. z., zákona č. 46/2020 Z. z., zákona č. 198/2020 Z. z., zákona č. 296/2020 Z. z., zákona č. 312/2020 Z. z., zákona č. 416/2020 Z. z., zákona č. 421/2020 Z. z., zákona č. 45/2021 Z. z., 395/2021 Z. z., zákona č. 408/2021 Z. z. zákona č. 39/2022 Z. z., zákona č. 250/2022 Z. z., zákona č. 325/2022 Z. z., zákona č. 395/2022 Z. z., zákona č. 433/2022 Z. z., zákona č. 496/2022 Z. z., zákona č. 519/2022 Z. z., zákona č. 59/2023 Z. z. a zákona č. 507/2023 Z. z. sa mení a dopĺňa takto:
+
+- 1. Poznámka pod čiarou k odkazu 8 znie:
+
+- „<sup>8</sup>) Napríklad zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov, zákon č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov, zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov, zákon č. 595/2003 Z. z. o dani z príjmov v znení v neskorších predpisov, zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 358/2015 Z. z. o úprave niektorých vzťahov v oblasti štátnej pomoci a minimálnej pomoci a o zmene a doplnení niektorých zákonov (zákon o štátnej pomoci), zákon č. 35/2019 Z. z. o finančnej správe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 187/2021 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení niektorých zákonov.“.
+
+- 2. V § 154 ods. 1 písm. i) štvrtom bode sa nad slovom „predpisu“ odkaz 92 nahrádza odkazom 91a.
+
+  - Poznámka pod čiarou k odkazu 91a znie:
+
+  - „<sup>91a</sup>) Napríklad § 33, 33a a §52zzy ods. 3 až 13 zákona č. 595/2003 Z. z. v znení v neskorších predpisov.“.
