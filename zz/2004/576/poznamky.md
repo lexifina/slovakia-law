@@ -192,6 +192,8 @@
 
 - 21a) § 9 zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov.
 
+- 21aa) § 2 ods. 9 zákona č. 540/2021 Z. z. o kategorizácii ústavnej zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
+
 - 21b) § 6 ods. 3, § 8 ods. 4, § 9 ods. 2 a § 28 ods. 7 zákona č. 317/2016 Z. z.
 
 - 22) § 10 a 73 zákona č. 578/2004 Z. z.

@@ -2,9 +2,11 @@
 
 (1) Dočasnú pracovnú neschopnosť osoby posudzuje a rozhoduje o nej príslušný ošetrujúci lekár, ktorým je
 
-- a) všeobecný lekár (§ 8 ods. 3) alebo lekár so špecializáciou v špecializačnom odbore gynekológia a pôrodníctvo, s ktorým má osoba uzatvorenú dohodu o poskytovaní zdravotnej starostlivosti podľa § 12, ak ide o posudzovanie a rozhodovanie o dočasnej pracovnej neschopnosti osoby pri poskytovaní ambulantnej starostlivosti, alebo
+- a) všeobecný lekár (§ 8 ods. 3), s ktorým má osoba uzatvorenú dohodu o poskytovaní zdravotnej starostlivosti podľa § 12, ak ide o posudzovanie a rozhodovanie o dočasnej pracovnej neschopnosti osoby pri poskytovaní všeobecnej ambulantnej starostlivosti,
 
-- b) lekár zdravotníckeho zariadenia ústavnej starostlivosti určený poskytovateľom, ak ide o posudzovanie a rozhodovanie o dočasnej pracovnej neschopnosti osoby pri poskytovaní ústavnej starostlivosti.
+- b) lekár zdravotníckeho zariadenia ústavnej starostlivosti určený poskytovateľom, ak ide o posudzovanie a rozhodovanie o dočasnej pracovnej neschopnosti osoby pri poskytovaní ústavnej starostlivosti, alebo
+
+- c) lekár so špecializáciou v inom špecializačnom odbore ako všeobecné lekárstvo alebo zubný lekár, ak ide o posudzovanie a rozhodovanie o dočasnej pracovnej neschopnosti osoby pri poskytovaní špecializovanej ambulantnej starostlivosti podľa § 7 ods. 1 písm. a) druhého alebo tretieho bodu.
 
 (2) Lekár podľa odseku 1 písm. b) uzná dočasnú pracovnú neschopnosť aj sprievodcovi osoby v ústavnej starostlivosti podľa § 15, ak sprevádza maloleté dieťa. Ak pri dočasnej pracovnej neschopnosti uznanej podľa prvej vety je po prepustení maloletého dieťaťa zo zdravotníckeho zariadenia ústavnej starostlivosti v tom istom prípade plánovaná ďalšia ústavná starostlivosť, ošetrujúci lekár podľa odseku 1 dočasnú pracovnú neschopnosť neukončuje.
 
