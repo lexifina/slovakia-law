@@ -1724,6 +1724,22 @@ Zákon č. 371/2014 Z. z. o riešení krízových situácií na finančnom trhu 
 
 - Rada alebo Národná banka Slovenska môže požadovať, aby osoby podľa § 1 ods. 3, na ktoré sa vzťahuje odsek 1, vykazovali informácie podľa odseku 1 aj v kratšom intervale, ako je uvedené v odseku 3.
 
+- (5)
+
+- Osoby podľa § 1 ods. 3, na ktoré sa vzťahuje odsek 1, sú povinné zverejniť najmenej raz ročne tieto informácie:
+
+- a)
+
+- sumu vlastných zdrojov, ktoré, ak sa na tieto osoby vzťahujú požiadavky podľa § 31e, spĺňajú podmienky podľa § 31e ods. 5 písm. b) a sumu oprávnených záväzkov,
+
+- b)
+
+- zloženie súm podľa písmena a) vrátane ich profilu splatnosti a poradia ich uspokojovania v konkurznom konaní,<sup>62</sup>)
+
+- c)
+
+- minimálnu požiadavku podľa § 31d alebo § 31e vyjadrenú v súlade s § 31 ods. 2.
+
 - (6)
 
 - Požiadavky podľa odsekov 1 až 5 sa nevzťahujú na osoby podľa § 1 ods. 3, ak ich plán riešenia krízových situácií predpokladá, že táto osoba sa zruší v dôsledku zrušenia konkurzu<sup>62</sup>) alebo sa zruší v likvidácii.<sup>70l</sup>)
