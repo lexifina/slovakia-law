@@ -1,0 +1,1 @@
+Príloha č. 2 k opatreniu č. 352/2023 Z. z. [VZORCE NA VÝPOČET PROGNÓZ DÔCHODKOV](../assets/59451704950ec48427465a4fb31f6f0b18ba23e450856777eefd669cd303feb9.pdf)
