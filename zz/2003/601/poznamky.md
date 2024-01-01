@@ -51,3 +51,5 @@
 - 22) § 9a zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení zákona č. 426/2020 Z. z.
 
 - § 47a až 47c zákona č. 461/2003 Z. z. v znení zákona č. 426/2020 Z. z.
+
+- 23) Zákon č. 526/2023 Z. z. o pomoci pri splácaní úveru na bývanie a o zmene a doplnení niektorých zákonov.
