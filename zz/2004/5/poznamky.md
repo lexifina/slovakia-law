@@ -280,19 +280,25 @@
 
 - 59j) § 2 ods. 5 a 6 zákona č. 112/2018 Z. z. v znení zákona č. 374/2019 Z. z.
 
-- 60) § 13 ods. 4 písm. a) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
+- 60) § 13 ods. 4 písm. a) a § 52 ods. 1 písm. b) zákona č. 355/2007 Z. z. v znení zákona č. 198/2020 Z. z.
 
-- 60a) § 51 a 853 Občianskeho zákonníka.
+- 60a) § 52 ods. 8 zákona č. 355/2007 Z. z. v znení zákona č. 198/2020 Z. z.
 
 - 60aa) Napríklad § 26 zákona č. 55/2017 Z. z.
 
-- 60b) Zákon č. 73/1998 Z. z. v znení neskorších predpisov.
+- 60b) § 13 zákona č. 455/1991 Zb. v znení neskorších predpisov.
+
+- 60c) § 51 a 853 Občianskeho zákonníka.
+
+- 60d) Napríklad § 26 zákona č. 55/2017 Z. z. v znení neskorších predpisov.
+
+- 60e) Zákon č. 73/1998 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 315/2001 Z. z. v znení neskorších predpisov.
 
-- Zákon č. 346/2005 Z. z. v znení neskorších predpisov.
+- Zákon č. 281/2015 Z. z. v znení neskorších predpisov.
 
-- Zákon č. 35/2019 Z. z.
+- Zákon č. 35/2019 Z. z. v znení neskorších predpisov.
 
 - 61) Zákon č. 151/2010 Z. z. o zahraničnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 403/2010 Z. z.
 
