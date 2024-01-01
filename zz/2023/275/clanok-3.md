@@ -8,6 +8,8 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 
 - 3. V § 82b ods. 1 písm. b) štvrtom bode sa slová „sedem percentuálnych bodov“ nahrádzajú slovami „7,5 percentuálneho bodu“.
 
+- 4. V § 179 ods. 1 sa vypúšťajú písmená r) a s).
+
 - 5. V § 293fza ods. 2 úvodnej vete sa slová „31. decembra“ nahrádzajú slovami „30. septembra“.
 
 - 6. V § 293fza ods. 2 celom texte sa slová „odseku 3“ nahrádzajú slovami „§ 82b ods. 3“.
