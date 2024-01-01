@@ -24,6 +24,8 @@
 
 - 1j) Čl. 5 ods. 1 nariadenia (ES) č. 223/2009 v platnom znení.
 
+- 1k) Čl. 12 ods. 2 nariadenia (ES) 223/2009 v platnom znení.
+
 - 1l) Čl. 5 ods. 2 nariadenia (ES) 223/2009 v platnom znení.
 
 - 1m) Čl. 2a nariadenia Rady (ES) č. 2533/98 z 23. novembra 1998 o zbere štatistických informácií Európskou centrálnou bankou (Ú. v. ES L 318, 27. 11. 1998, Mimoriadne vydanie Ú. v. EÚ, kap. 01/zv. 003) v platnom znení.
