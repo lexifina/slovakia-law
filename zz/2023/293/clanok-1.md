@@ -110,6 +110,32 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
 - 19. V § 19a ods. 1 sa na konci prvej vety bodka nahrádza bodkočiarkou a pripájajú sa tieto slová: „za dodanie podľa prvej časti vety sa považuje aj presun humánneho lieku zaradeného v zozname kategorizovaných liekov držiteľom povolenia na územie iného členského štátu alebo tretieho štátu.“.
 
+- 20. V § 20 sa odsek 1 dopĺňa písmenom k), ktoré znie:
+
+- „k)
+
+- očkovanie osoby, ktorá dovŕšila vek 18 rokov, proti chrípke (ďalej len „očkovanie“) na základe písomného odporúčania predpisujúceho lekára, ktoré môže byť súčasťou preskripčného záznamu; odporúčanie podľa prvej časti vety nemôže byť staršie ako 3 dni.“.
+
+- 21. V § 21 sa odsek 7 dopĺňa písmenom e), ktoré znie:
+
+- „e)
+
+- očkovaní.“.
+
+- 22. § 21 sa dopĺňa odsekom 14, ktorý znie:
+
+- „(14)
+
+- Očkovanie podľa § 20 ods. 1 písm. k) môže vykonávať len držiteľ povolenia na poskytovanie lekárenskej starostlivosti vo verejnej lekárni, v pobočke verejnej lekárne alebo v nemocničnej lekárni s oddelením výdaja liekov, zdravotníckych pomôcok a dietetických potravín verejnosti, ktorý
+
+- a)
+
+- oznámil, že v rámci lekárenskej starostlivosti bude vykonávať očkovanie štátnemu ústavu a orgánu, ktorý mu vydal povolenie na poskytovanie lekárenskej starostlivosti a
+
+- b)
+
+- po celú dobu výkonu očkovania plní povinnosti podľa § 23 ods. 15.“.
+
 - 23. V § 22 odsek 1 znie:
 
 - „(1)
@@ -159,6 +185,44 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 - „f)
 
 - zverejniť na svojom webovom sídle a v mobilnej aplikácii, ak ju prevádzkuje, prostredníctvom ktorých sa internetový výdaj vykonáva, kontaktné údaje o štátnom ústave, hypertextový odkaz na webové sídlo podľa odseku 8 a spoločné logo, ktoré musí byť neprehliadnuteľne uvedené na každej strane webového sídla a v mobilnej aplikácii, prostredníctvom ktorých sa internetový výdaj vykonáva; spoločné logo obsahuje hypertextový odkaz na zoznam držiteľov povolenia na poskytovanie lekárenskej starostlivosti vo verejnej lekárni alebo vo výdajni zdravotníckych pomôcok zabezpečujúcich internetový výdaj s uvedením adresy ich webového sídla.“.
+
+- 28. § 23 sa dopĺňa odsekom 15, ktorý znie:
+
+- „(15)
+
+- Držiteľ povolenia na poskytovanie lekárenskej starostlivosti, ktorý vykonáva očkovanie, je povinný:
+
+- a)
+
+- zabezpečiť očkovanie osobou odborne spôsobilou na očkovanie,<sup>30b</sup>)
+
+- b)
+
+- zabezpečiť pred očkovaním poskytnutie poučenia o očkovaní a informovaný súhlas,<sup>30c</sup>)
+
+- c)
+
+- viesť o očkovaní zdravotnú dokumentáciu podľa osobitných predpisov,<sup>30d</sup>)
+
+- d)
+
+- spracúvať, poskytovať a sprístupňovať údaje zo zdravotnej dokumentácie v rozsahu, spôsobom a na účely podľa osobitného predpisu,<sup>30e</sup>)
+
+- e)
+
+- zabezpečiť uchovávanie zdravotnej dokumentácie v rozsahu a spôsobom podľa osobitného predpisu.<sup>30f</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 30b až 30f znejú:
+
+  - „<sup>30b</sup>) Nariadenie č. 296/2010 Z. z.
+
+  - <sup>30c</sup>) § 6 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+  - <sup>30d</sup>) § 19 až 21 zákona č. 576/2004 Z. z.
+
+  - <sup>30e</sup>) § 18 zákona č. 576/2004 Z. z.
+
+  - <sup>30f</sup>) § 22 zákona č. 576/2004 Z. z.“.
 
 - 29. V § 25 ods. 3 písmeno d) znie:
 
@@ -614,7 +678,35 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
 - „ce)
 
-- pri internetovom výdaji humánnych liekov, zdravotníckych pomôcok a diagnostických zdravotníckych pomôcok in vitro nedodržiava požiadavky podľa § 22,“.
+- pri internetovom výdaji humánnych liekov, zdravotníckych pomôcok a diagnostických zdravotníckych pomôcok in vitro nedodržiava požiadavky podľa § 22,
+
+- cf)
+
+- neoznámi vopred začatie očkovania štátnemu ústavu alebo orgánu, ktorý mu povolenie na poskytovanie lekárenskej starostlivosti vydal,
+
+- cg)
+
+- očkovanie vykoná osoba, ktorá nie je odborne spôsobilá na očkovanie,<sup>30b</sup>)
+
+- ch)
+
+- nedodrží pri očkovaní požiadavky správnej lekárenskej praxe,
+
+- ci)
+
+- nezabezpečí poskytnutie poučenia a informovaný súhlas pred očkovaním,
+
+- cj)
+
+- nevedie o očkovaní zdravotnú dokumentáciu v rozsahu a spôsobom podľa osobitného predpisu,<sup>30d</sup>)
+
+- ck)
+
+- nespracuje, neposkytne alebo nesprístupní údaje zo zdravotnej dokumentácie v rozsahu alebo spôsobom podľa osobitného predpisu,<sup>30e</sup>)
+
+- cl)
+
+- nezabezpečí uchovávanie zdravotnej dokumentácie v rozsahu a spôsobom podľa osobitného predpisu.<sup>30f</sup>)“.
 
 - 93. V § 138 ods. 17 písmeno a) znie:
 
@@ -661,6 +753,8 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 - Štátny ústav uloží pokutu za iné správne delikty podľa odseku 3 písm. aq) a ar) a odseku 5 písm. y), bv) a bx) až cb) od 5 000 eur do 100 000 eur.“.
 
   - Doterajšie odseky 37 až 44 sa označujú ako odseky 38 až 45.
+
+- 102. V § 138 ods. 38 sa slová „písm. bv) až cd)“ nahrádzajú slovami „písm. bv) až cl)“.
 
 - 103. V § 138 ods. 38 sa slovo „písmen“ nahrádza slovom „písmen p),“.
 
