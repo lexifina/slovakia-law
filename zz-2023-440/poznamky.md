@@ -1,0 +1,1 @@
+- 1) ETSI TS 123 040 (3GPP TS 23.040): Technical realization of the Short Message Service (SMS).
