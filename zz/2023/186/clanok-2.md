@@ -14,6 +14,22 @@ Zákon č. 587/2004 Z. z. o Environmentálnom fonde a o zmene a doplnení niekto
 
   - <sup>11ie</sup>) § 65b zákona č. 543/2002 Z. z. v znení zákona č. 6/2022 Z. z.“.
 
+- 2. V § 4 ods. 1 písm. ap) sa nad slovo „biomase“ umiestňuje odkaz 11if.
+
+  - Poznámka pod čiarou k odkazu 11if znie:
+
+  - „<sup>11if</sup>) § 18 ods. 4 písm. c) zákona č. 414/2012 Z. z.“.
+
+- 3. V § 4 sa odsek 1 dopĺňa písmenom aq), ktoré znie:
+
+- „aq)
+
+- financovanie opatrení na zadržiavanie vody v krajine s dôrazom na zachytávanie, ukladanie a využitie organického uhlíka.<sup>11ig</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 11ig znie:
+
+  - „<sup>11ig</sup>) § 18 ods. 4 písm. a) zákona č. 414/2012 Z. z. v znení zákona č. 296/2019 Z. z.“.
+
 - 4. Za § 4i sa vkladá § 4j, ktorý vrátane nadpisu znie:
 
 - „§ 4j
@@ -51,3 +67,11 @@ Zákon č. 587/2004 Z. z. o Environmentálnom fonde a o zmene a doplnení niekto
 - Prechodné ustanovenie k úpravám účinným dňom vyhlásenia
 
 - Žiadosti o poskytnutie prostriedkov podľa § 4j ods. 1 možno podať prvýkrát v termíne do 30 dní odo dňa nadobudnutia účinnosti tohto zákona.“.
+
+- 6. Za § 15f sa vkladá § 15g, ktorý vrátane nadpisu znie:
+
+- „§ 15g
+
+- Prechodné ustanovenie k úpravám účinným od 1. januára 2024
+
+- Žiadosti o poskytnutie prostriedkov podľa § 4j ods. 1 na rok 2024 možno podať v termíne do 25. februára 2024.“.

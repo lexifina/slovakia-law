@@ -146,6 +146,28 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 
 - „<sup>13</sup>) Čl. 32 delegovaného nariadenia (EÚ) 2019/1122 v platnom znení.“.
 
+- 38. V § 18 ods. 4 písm. a) sa za slovo „použije“ vkladajú slová „na financovanie projektov na podporu činností na dosiahnutie cieľov štátnej environmentálnej politiky a na náklady spojené s odborným a administratívnym zabezpečením plnenia záväzkov Slovenskej republiky v oblasti znižovania emisií skleníkových plynov,<sup>16a</sup>) a“, čiarka na konci sa nahrádza bodkočiarkou a pripájajú sa slová „na financovanie opatrení na zadržiavanie vody v krajine s dôrazom na zachytávanie, ukladanie a využitie organického uhlíka,<sup>16a</sup>)“.
+
+- 39. V § 18 ods. 4 písm. b) sa slová „25 %“ nahrádzajú slovami „35 %“.
+
+- 40. V § 18 ods. 4 písm. c) sa slová „20 %“ nahrádzajú slovami „10 %“ a slová „podporu činností na dosiahnutie cieľov štátnej environmentálnej politiky a na náklady spojené s odborným a administratívnym zabezpečením plnenia záväzkov Slovenskej republiky v oblasti znižovania emisií skleníkových plynov,<sup>16a</sup>)“ sa nahrádzajú slovami „zabezpečenie zvýšených záchytov uhlíka v lesnej pôde a biomase<sup>16aa</sup>) uskutočnením opatrení ochrany a starostlivosti o chránené územia<sup>16ab</sup>) prostredníctvom organizácie ochrany prírody a krajiny zriadenej osobitným predpisom,<sup>16ac</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 16aa až 16ac znejú:
+
+  - „<sup>16aa</sup>) Nariadenie Európskeho parlamentu a Rady (EÚ) 2018/841 z 30. mája 2018 o začlenení emisií a odstraňovania skleníkových plynov z využívania pôdy, zo zmien vo využívaní pôdy a z lesného hospodárstva do rámca politík v oblasti klímy a energetiky na rok 2030, ktorým sa mení nariadenie (EÚ) č. 525/2013 a rozhodnutie č. 529/2013/EÚ (Ú. v. EÚ L 156, 19. 6. 2018) v platnom znení.
+
+  - <sup>16ab</sup>) § 19 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
+
+  - <sup>16ac</sup>) § 65b zákona č. 543/2002 Z. z. v znení zákona č. 6/2022 Z. z.“.
+
+- 41. V § 18 odsek 7 znie:
+
+- „(7)
+
+- Výška použiteľného ročného výnosu z dražieb kvót na účely podľa odseku 4 je 40 %.“.
+
+- 43. V § 18 ods. 8 sa za slovami „odseku 4“ bodka nahrádza čiarkou a pripájajú sa slová „s výnimkou ustanovenia odseku 4 písm. b) a c).“.
+
 - 44. V § 20 ods. 1 písm. b) sa na konci pripájajú tieto slová: „alebo inými prepojenými systémami obchodovania“.
 
 - 45. V § 20 ods. 4 sa slová „register následne zruší“ nahrádzajú slovami „nesmú byť odovzdané znovu“.
