@@ -1,0 +1,1 @@
+[VZOR Prehľad o nákladoch zdravotnej poisťovne na klasifikačný systém diagnosticko-terapeutických skupín a o ukazovateľoch produkcie](../assets/2e9bf1812bac262b8097bad6e24b3603e1a29eb31befd4ab13ce77b754480a3c.pdf)

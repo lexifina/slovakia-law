@@ -1,0 +1,1 @@
+[VZOR Prehľad o nákladoch zdravotnej starostlivosti podľa jednotlivých typov zdravotnej starostlivosti a ukazovatele produkcie](../assets/5c44f4f1b5f725ba688ba820a054053d4759afbd35ea238f888c7c1736097bf0.pdf)

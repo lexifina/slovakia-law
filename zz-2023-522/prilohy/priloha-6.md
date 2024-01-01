@@ -1,0 +1,1 @@
+[VZOR Výkaz o skutočnosti z predchádzajúceho roka, očakávanej skutočnosti ku koncu kalendárneho roka a skutočnosti za kalendárny mesiac v kalendárnom roku o výnosoch a nákladoch zdravotnej poisťovne](../assets/29944e0dc5d5966ccdcc1287c5c7b639985680fef48c4ca6313e87c23e1ddf48.pdf)

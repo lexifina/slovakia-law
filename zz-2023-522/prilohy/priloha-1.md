@@ -1,0 +1,1 @@
+Príloha č. 1 k vyhláške č. 522/2023 Z. z. [VZOR Skutočnosť za predchádzajúci rok a obchodno-finančný plán na kalendárny rok](../assets/2b86d245c38e04f1a7cbb7b56a24bce551a4575039955c59618e286f77aff8d2.pdf)
