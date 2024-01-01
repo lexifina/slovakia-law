@@ -26,13 +26,43 @@ Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení 
 
 - o)
 
-- podporuje spoluprácu cenových orgánov s orgánmi verejnej správy v oblasti ochrany spotrebiteľa,<sup>19aaa</sup>)“.
+- podporuje spoluprácu cenových orgánov s orgánmi verejnej správy v oblasti ochrany spotrebiteľa,<sup>19aaa</sup>)
+
+- p)
+
+- zabezpečuje zriadenie webového sídla a jeho prístupnosť na účel
+
+- 1.
+
+- prezentovania verejnej politiky v oblasti cien,
+
+- 2.
+
+- informovania o cenovom vývoji,
+
+- 3.
+
+- zverejňovania výsledkov z informačného systému podľa písmena g),
+
+- 4.
+
+- porovnávania cien základných potravín<sup>19aaaa</sup>) s okolitými štátmi,
+
+- 5.
+
+- podpory spolupráce cenových orgánov s orgánmi verejnej správy v oblasti ochrany spotrebiteľa podľa písmena o),
+
+- 6.
+
+- zverejňovania výsledkov konaní vo veciach porušenia cenovej disciplíny podľa písmena h) a informovania o ďalších skutočnostiach, ktoré súvisia s vývojom cien.“.
 
   - Poznámky pod čiarou k odkazom 19aa až 19aaaa znejú:
 
   - „<sup>19aa</sup>) Zákon č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov.
 
-  - <sup>19aaa</sup>) Zákon č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov.“.
+  - <sup>19aaa</sup>) Zákon č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov.
+
+  - <sup>19aaaa</sup>) Príloha č. 7 k zákonu č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.“.
 
 - 4. V § 20 odsek 4 znie:
 
