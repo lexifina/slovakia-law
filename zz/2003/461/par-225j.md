@@ -20,7 +20,7 @@
 
 - d) označenie exekučného titulu,
 
-- e) meno, priezvisko, adresu a identifikačné číslo sociálneho zabezpečenia účastníka konania, ktorý je fyzickou osobou, alebo obchodné meno, sídlo a identifikačné číslo účastníka konania, ktorý je právnickou osobou,
+- e) meno, priezvisko, adresu a identifikačné číslo sociálneho zabezpečenia účastníka konania, ktorý je fyzickou osobou, alebo obchodné meno, sídlo a identifikačné číslo organizácie účastníka konania, ktorý je právnickou osobou,
 
 - f) sumu pohľadávky,
 
@@ -34,7 +34,7 @@
 
 - b) označenie exekučného titulu,
 
-- c) meno, priezvisko, adresu a identifikačné číslo sociálneho zabezpečenia účastníka konania, ktorý je fyzickou osobou, alebo obchodné meno, sídlo a identifikačné číslo účastníka konania, ktorý je právnickou osobou,
+- c) meno, priezvisko, adresu a identifikačné číslo sociálneho zabezpečenia účastníka konania, ktorý je fyzickou osobou, alebo obchodné meno, sídlo a identifikačné číslo organizácie účastníka konania, ktorý je právnickou osobou,
 
 - d) sumu pohľadávky,
 
@@ -66,7 +66,7 @@
 
 - c) obchodné meno a sídlo banky alebo označenie a adresu umiestnenia pobočky zahraničnej banky,
 
-- d) meno, priezvisko, adresu a identifikačné číslo sociálneho zabezpečenia účastníka konania, ktorý je fyzickou osobou, alebo obchodné meno, sídlo a identifikačné číslo účastníka konania, ktorý je právnickou osobou,
+- d) meno, priezvisko, adresu a identifikačné číslo sociálneho zabezpečenia účastníka konania, ktorý je fyzickou osobou, alebo obchodné meno, sídlo a identifikačné číslo organizácie účastníka konania, ktorý je právnickou osobou,
 
 - e) sumu pohľadávky,
 

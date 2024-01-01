@@ -30,20 +30,22 @@
 
 (5) Nárok na výplatu rodičovského dôchodku, ktorý zanikol podľa odseku 4, opätovne vzniká od 1. januára príslušného kalendárneho roka, ak dieťa uvedené v § 60a ods. 4, od ktorého je odvodený nárok na rodičovský dôchodok, bolo dôchodkové poistené v kalendárnom roku, ktorý dva roky predchádza príslušnému kalendárnemu roku.
 
-(6) Na účely nároku na výplatu rodičovského dôchodku obdobie dôchodkového poistenia je
+(6) Nárok na rodičovský dôchodok v príslušnom kalendárnom roku a nárok na jeho výplatu trvá do 31. decembra príslušného kalendárneho roka, aj ak podmienky nároku na rodičovský dôchodok a nároku na jeho výplatu poberateľ dôchodku po dovŕšení dôchodkového veku prestal spĺňať po 31. máji príslušného kalendárneho roka.
+
+(7) Na účely nároku na výplatu rodičovského dôchodku obdobie dôchodkového poistenia je
 
 - a) obdobie dôchodkového poistenia podľa § 15, počas ktorého poistenec mal vymeriavací základ a nemal vylúčenú povinnosť platiť poistné počas celého kalendárneho roka,
 
 - b) obdobie podľa § 142 ods. 3, za ktoré bolo dodatočne zaplatené poistné na dôchodkové poistenie.
 
-(7) Na účely nároku na výplatu rodičovského dôchodku obdobie dôchodkového poistenia nie je obdobie povinného dôchodkového poistenia, v ktorom dieťa uvedené v § 60a ods. 4 nemalo vymeriavací základ na platenie poistného na starobné poistenie z dôvodu uplatnenia odvodovej odpočítateľnej položky pri sezónnej práci.
+(8) Na účely nároku na výplatu rodičovského dôchodku obdobie dôchodkového poistenia nie je obdobie povinného dôchodkového poistenia, v ktorom dieťa uvedené v § 60a ods. 4 nemalo vymeriavací základ na platenie poistného na starobné poistenie z dôvodu uplatnenia odvodovej odpočítateľnej položky pri sezónnej práci.
 
-(8) Na účely nároku na výplatu rodičovského dôchodku sa za príslušný kalendárny rok považuje kalendárny rok, za ktorý sa posudzuje splnenie podmienok na vznik nároku na výplatu rodičovského dôchodku.
+(9) Na účely nároku na výplatu rodičovského dôchodku sa za príslušný kalendárny rok považuje kalendárny rok, za ktorý sa posudzuje splnenie podmienok na vznik nároku na výplatu rodičovského dôchodku.
 
-(9) Na účely odseku 1 písm. b) sa § 60a ods. 5 neuplatňuje.
+(10) Na účely odseku 1 písm. b) sa § 60a ods. 5 neuplatňuje.
 
-(10) Vyhlásenie podľa odsekov 1 až 3 nevyvoláva právne účinky voči rodičovskému dôchodku, ktorého nárok nie je odvodený od dieťaťa, ktoré vyhlásenie urobilo.
+(11) Vyhlásenie podľa odsekov 1 až 3 nevyvoláva právne účinky voči rodičovskému dôchodku, ktorého nárok nie je odvodený od dieťaťa, ktoré vyhlásenie urobilo.
 
-(11) Vyhlásenie podľa odsekov 1 až 3 sa doručuje Sociálnej poisťovni.
+(12) Vyhlásenie podľa odsekov 1 až 3 sa doručuje Sociálnej poisťovni.
 
-(12) Ak poberateľovi dôchodku po dovŕšení dôchodkového veku vznikne nárok na výplatu viacerých rodičovských dôchodkov, vypláca sa len jeden rodičovský dôchodok v sume určenej ako úhrn súm rodičovských dôchodkov.
+(13) Ak poberateľovi dôchodku po dovŕšení dôchodkového veku vznikne nárok na výplatu viacerých rodičovských dôchodkov, vypláca sa len jeden rodičovský dôchodok v sume určenej ako úhrn súm rodičovských dôchodkov.

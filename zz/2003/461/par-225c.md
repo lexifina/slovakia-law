@@ -8,7 +8,7 @@
 
 - b) číslo a dátum vydania rozhodnutia,
 
-- c) meno, priezvisko, adresu trvalého pobytu a identifikačné číslo sociálneho zabezpečenia účastníka konania, ktorým je fyzická osoba, alebo obchodné meno, sídlo, identifikačné číslo účastníka konania, ktorým je právnická osoba,
+- c) meno, priezvisko, adresu trvalého pobytu a identifikačné číslo sociálneho zabezpečenia účastníka konania, ktorým je fyzická osoba, alebo obchodné meno, sídlo, identifikačné číslo organizácie účastníka konania, ktorým je právnická osoba,
 
 - d) označenie exekučného titulu,
 
