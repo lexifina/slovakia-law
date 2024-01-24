@@ -1,1 +1,0 @@
-[ÚSTAVA SVETOVEJ POŠTOVEJ ÚNIE](../assets/ffc93079edb2bee2fc22d4487453f2104beaeff462def317f5fd26e769034dbb.pdf)
