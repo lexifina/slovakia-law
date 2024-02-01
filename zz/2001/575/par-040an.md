@@ -1,0 +1,11 @@
+# § 40an
+
+(1) Pôsobnosť Ministerstva dopravy Slovenskej republiky v oblasti cestovného ruchu podľa doterajších všeobecne záväzných právnych predpisov prechádza na Ministerstvo cestovného ruchu a športu Slovenskej republiky.
+
+(2) Ak sa v doterajších právnych predpisoch používa pre oblasť podľa odseku 1 pojem „Ministerstvo dopravy Slovenskej republiky“ vo všetkých tvaroch, rozumie sa tým „Ministerstvo cestovného ruchu a športu Slovenskej republiky“ v príslušnom tvare. Ak sa v doterajších právnych predpisoch používa pre oblasť podľa odseku 1 pojem „minister dopravy Slovenskej republiky“ vo všetkých tvaroch, rozumie sa tým „minister cestovného ruchu a športu Slovenskej republiky“ v príslušnom tvare.
+
+(3) V súvislosti s prechodom kompetencie podľa odseku 1 prechádzajú od 1. februára 2024 práva a povinnosti vyplývajúce zo štátnozamestnaneckých vzťahov, z pracovnoprávnych vzťahov a iných právnych vzťahov zamestnancov zabezpečujúcich výkon tejto kompetencie, ako aj práva a povinnosti z iných právnych vzťahov z Ministerstva dopravy Slovenskej republiky na Ministerstvo cestovného ruchu a športu Slovenskej republiky. Majetok štátu, ktorý bol do 31. januára 2024 v správe Ministerstva dopravy Slovenskej republiky a ktorý slúži na zabezpečenie výkonu kompetencie v oblasti podľa odseku 1, prechádza od 1. februára 2024 do správy Ministerstva cestovného ruchu a športu Slovenskej republiky. Podrobnosti o prechode týchto práv a povinností a o prechode správy majetku štátu sa upravia dohodou medzi Ministerstvom dopravy Slovenskej republiky a Ministerstvom cestovného ruchu a športu Slovenskej republiky, v ktorej sa vymedzí najmä druh a rozsah preberaného majetku, práv a povinností.
+
+(4) V súvislosti s prechodom kompetencií v oblasti podľa odseku 1 medzi ústrednými orgánmi štátnej správy prechádza aj zriaďovateľská a zakladateľská pôsobnosť doterajšieho ústredného orgánu štátnej správy k právnickým osobám na preberajúci ústredný orgán štátnej správy. Zmeny v zriaďovateľskej a zakladateľskej pôsobnosti sa vykonajú na základe tohto zákona podľa osobitných predpisov.
+
+<sup>6</sup>) Podrobnosti o prechode správy majetkovej účasti štátu v právnickej osobe a o prechode práv a povinností súvisiacich s predmetom činnosti právnickej osoby sa upravia dohodou medzi doterajším ústredným orgánom štátnej správy a preberajúcim ústredným orgánom štátnej správy.
