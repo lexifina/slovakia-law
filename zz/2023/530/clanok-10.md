@@ -2,7 +2,33 @@
 
 Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zákona č. 556/2004 Z. z., zákona č. 631/2004 Z. z., zákona č. 533/2005 Z. z., zákona č. 610/2005 Z. z., zákona č. 547/2007 Z. z., zákona č. 378/2008 Z. z., zákona č. 465/2008 Z. z., zákona č. 305/2009 Z. z., zákona č. 477/2009 Z. z., zákona č. 491/2010 Z. z., zákona č. 546/2011 Z. z., zákona č. 547/2011 Z. z., zákona č. 288/2012 Z. z., zákona č. 381/2013 Z. z., zákona č. 218/2014 Z. z., zákona č. 323/2014 Z. z., zákona č. 54/2015 Z. z., zákona č. 130/2015 Z. z., zákona č. 241/2015 Z. z., zákona č. 360/2015 Z. z., zákona č. 296/2016 Z. z., zákona č. 269/2017 Z. z., zákona č. 92/2019 Z. z., zákona č. 221/2019 Z. z., zákona č. 198/2020 Z. z., zákona č. 390/2020 Z. z., zákona č. 186/2021 Z. z. a zákona č. 408/2021 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 6 odseky 1 až 3 znejú:
+
+- „(1)
+
+- Sadzba dane z tabakových výrobkov okrem cigariet sa ustanovuje takto:
+
+- Opis tovaru | sadzba dane
+
+- cigary, cigarky tabak | 89,30 eura/kg 139 eur/kg.
+
+- (2)
+
+- Sadzba dane z cigariet s výnimkou podľa odseku 3 sa ustanovuje takto:
+
+- kombinovaná sadzba dane | |
+
+- opis tovaru | špecifická časť | percentuálna časť
+
+- cigarety | 91,30 eura/1 000 kusov | 25 % z ceny cigariet.
+
+- (3)
+
+- Minimálna sadzba dane z cigariet je 148 eur/1 000 kusov.“.
+
 - 2. V § 9b ods. 12 úvodná veta znie: „Colný úrad môže v odôvodnených prípadoch znížiť počet objednaných kusov kontrolných známok, a to“.
+
+- 3. V § 19aa ods. 3 sa slová „187,80 eura/kg“ nahrádzajú slovami „211,30 eura/kg“.
 
 - 4. Za § 44ae sa vkladá § 44af, ktorý vrátane nadpisu znie:
 
