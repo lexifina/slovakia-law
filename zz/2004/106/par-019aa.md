@@ -8,7 +8,7 @@
 
 (2) Dovozom bezdymového tabakového výrobku na daňové územie z územia tretích štátov sa na účely tohto zákona rozumie prepustenie bezdymového tabakového výrobku do voľného obehu<sup>2aa</sup>) v mieste dovozu. Miestom dovozu je miesto, kde sa bezdymový tabakový výrobok nachádza v čase prepustenia do voľného obehu.<sup>2aa</sup>)
 
-(3) Základom dane pri bezdymovom tabakovom výrobku je hmotnosť tabaku v bezdymovom tabakovom výrobku vyjadrená v kilogramoch. Daň sa vypočíta ako súčin základu dane a príslušnej sadzby dane. Sadzba dane z tabaku v bezdymovom tabakovom výrobku sa ustanovuje vo výške 187,80 eura/kg.
+(3) Základom dane pri bezdymovom tabakovom výrobku je hmotnosť tabaku v bezdymovom tabakovom výrobku vyjadrená v kilogramoch. Daň sa vypočíta ako súčin základu dane a príslušnej sadzby dane. Sadzba dane z tabaku v bezdymovom tabakovom výrobku sa ustanovuje vo výške 211,30 eura/kg.
 
 (4) Spotrebiteľským balením bezdymového tabakového výrobku sa rozumie najmenšie balenie bezdymového tabakového výrobku určené na konečnú spotrebu. Na spotrebiteľskom balení bezdymového tabakového výrobku musí byť uvedený údaj o celkovej hmotnosti bezdymového tabakového výrobku a o hmotnosti tabaku v bezdymovom tabakovom výrobku vyjadrený v gramoch.
 
