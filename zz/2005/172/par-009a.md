@@ -1,6 +1,6 @@
 # § 9a Úrad vlády Slovenskej republiky
 
-Úrad vlády Slovenskej republiky (ďalej len „úrad vlády“) strategicky a metodicky koordinuje
+(1) Úrad vlády Slovenskej republiky (ďalej len „úrad vlády“) strategicky a metodicky koordinuje
 
 - a) tvorbu politík v oblasti financovania, riadenia a hodnotenia podpory v oblasti výskumu, vývoja a inovácií,
 
@@ -13,3 +13,5 @@
 - e) činnosť ústredných orgánov, Slovenskej akadémie vied, vysokých škôl a ďalších právnických osôb pri tvorbe národnej stratégie,
 
 - f) plnenie úloh vyplývajúcich z etického kódexu vrátane zriadenia príslušného orgánu na kontrolu dodržiavania etického kódexu.
+
+(2) Úlohy podľa odseku 1 zabezpečuje podpredseda vlády, ktorý neriadi ministerstvo.
