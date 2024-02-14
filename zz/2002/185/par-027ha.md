@@ -12,7 +12,7 @@
 
 - c) preukázal pôvod zdrojov majetku uvádzaného v čestnom alebo inom obdobnom vyhlásení,
 
-- d) objasnil majetkové pomery a pôvod zdrojov majetku svojho plnoletého dieťaťa, ako aj neplnoletého dieťaťa a manžela, ktorý s ním žije v domácnosti, a to aj vtedy, ak manželia uzavreli dohodu o zúžení alebo rozšírení zákonom určeného rozsahu bezpodielového spoluvlastníctva manželov alebo o správe spoločného majetku, alebo ak bolo ich bezpodielové spoluvlastníctvo zrušené súdom za trvania manželstva,
+- d) objasnil majetkové pomery a pôvod zdrojov majetku svojho neplnoletého dieťaťa a manžela, ktorý s ním žije v domácnosti, a to aj vtedy, ak manželia uzavreli dohodu o zúžení alebo rozšírení zákonom určeného rozsahu bezpodielového spoluvlastníctva manželov alebo o správe spoločného majetku, alebo ak bolo ich bezpodielové spoluvlastníctvo zrušené súdom za trvania manželstva,
 
 - e) objasnil pôvod darov a pôvod zdedeného majetku.
 
