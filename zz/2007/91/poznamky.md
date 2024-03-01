@@ -40,9 +40,9 @@
 
 - 20) § 68 ods. 8 a 9 Obchodného zákonníka.
 
-- 21) § 218j ods. 2 až 5 Obchodného zákonníka.
+- 21) § 48 ods. 1 až 4 zákona č. 309/2023 Z. z. o premenách obchodných spoločností a družstiev a o zmene a doplnení niektorých zákonov.
 
-- 22) § 218i ods. 2 až 6 Obchodného zákonníka.
+- 22) § 44 ods. 2, § 45 ods. 1, 2 a 9 a § 46 zákona č. 309/2023 Z. z.
 
 - 23) Čl. 29 ods. 3 nariadenia Rady (ES) č. 1435/2003.
 
