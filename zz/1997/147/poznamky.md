@@ -8,6 +8,8 @@
 
 - 1c) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
+- 2) Zákon č. 309/2023 Z. z. o premenách obchodných spoločností a družstiev a o zmene a doplnení niektorých zákonov.
+
 - 3) Zákon č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
 
 - 4) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
