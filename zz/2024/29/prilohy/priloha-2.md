@@ -1,0 +1,1 @@
+Príloha č. 2 k rozhodnutiu predsedu Národnej rady Slovenskej republiky č. 29/2024 Z. z. [LEHOTY na vykonanie volieb do orgánov samosprávy obcí 5. októbra 2024](../assets/9b8322f0150fc1ab4e375b2f92efd1b5feb965291ad3b5befe18bc0d642419f0.pdf)
