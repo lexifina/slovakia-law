@@ -1,0 +1,5 @@
+# § 10f Zápis nástupníckej spoločnosti pri cezhraničnej fúzii spoločnosti s ručením obmedzením a akciovej spoločnosti
+
+(1) Pri cezhraničnom zlúčení, pri ktorom je nástupníckou spoločnosťou slovenská spoločnosť, registrový súd, ktorý zapisuje nástupnícku spoločnosť, bez zbytočného odkladu oznámi zahraničným obchodným registrom alebo iným evidenciám, do ktorých bola povinná každá zo zúčastnených spoločností podieľajúcich sa na cezhraničnom zlúčení ukladať listiny, že cezhraničné zlúčenie nadobudlo účinnosť. Registrový súd uskutoční oznámenie podľa prvej vety prostredníctvom systému prepojenia registrov.
+
+(2) Pri cezhraničnom splynutí, pri ktorom je nástupníckou spoločnosťou slovenská spoločnosť, registrový súd, ktorý zapisuje zmenu údajov nástupníckej spoločnosti, bez zbytočného odkladu oznámi zahraničným obchodným registrom alebo iným evidenciám, do ktorých bola povinná každá zúčastnená spoločnosť ukladať listiny, že cezhraničné splynutie nadobudlo účinnosť. Registrový súd uskutoční oznámenie podľa prvej vety prostredníctvom systému prepojenia registrov.

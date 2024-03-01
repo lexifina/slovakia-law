@@ -1,0 +1,3 @@
+# § 10h Zápis spoločnosti pri cezhraničnej zmene právnej formy
+
+Pri cezhraničnej zmene právnej formy, pri ktorej spoločnosť cezhranične mení právnu formu na právnu formu obchodnej spoločnosti podľa slovenského právneho poriadku a v jej dôsledku sa zapisuje do obchodného registra, registrový súd, ktorý zapisuje takúto spoločnosť bez zbytočného odkladu oznámi zahraničnému obchodnému registru alebo inej evidencii, do ktorej bola spoločnosť pred cezhraničnou zmenou právnej formy povinná ukladať listiny, že cezhraničná zmena právnej formy nadobudla účinnosť. Registrový súd uskutoční oznámenie podľa prvej vety prostredníctvom systému prepojenia registrov.

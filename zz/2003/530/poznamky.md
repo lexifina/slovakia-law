@@ -2,8 +2,6 @@
 
 - 1a) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
-- 1b) § 69aa ods. 1 písm. d) Obchodného zákonníka.
-
 - 1c) Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov.
 
 - 1ca) § 18 zákona č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov.
@@ -22,11 +20,11 @@
 
 - 5) § 60 ods. 4 Obchodného zákonníka.
 
-- 5a) § 69aa ods. 2 Obchodného zákonníka.
+- 5a) § 87 zákona č. 309/2023 Z. z.
 
 - 5aa) § 23 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení zákona č. 273/2015 Z. z.
 
-- 5b) § 69 ods. 14 a 15 Obchodného zákonníka.
+- 5b) § 15 zákona č. 309/2023 Z. z. o premenách obchodných spoločností a družstiev a o zmene a doplnení niektorých zákonov.
 
 - 6) Zákon Slovenskej národnej rady č. 80/1992 Zb. o sídlach a obvodoch súdov Slovenskej republiky, štátnej správe súdov, vybavovaní sťažností a o voľbách prísediacich (zákon o štátnej správe súdov) v znení neskorších predpisov.
 
@@ -98,15 +96,9 @@
 
 - 14l) Napríklad zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
-- 15) § 218l ods. 1 Obchodného zákonníka.
+- 15) § 21 zákona č. 309/2023 Z. z.
 
-- 15a) § 69aa ods. 1 písm. e) druhá veta Obchodného zákonníka.
-
-- 15aa) § 69 až 69aa a § 218a až 218lk Obchodného zákonníka.
-
-- 15ab) § 69aa ods. 7 Obchodného zákonníka.
-
-- 15ac) § 218la až 218lk Obchodného zákonníka.
+- 15a) § 123 zákona č. 309/2023 Z. z.
 
 - 15aca) § 105b ods. 1 Obchodného zákonníka.
 
