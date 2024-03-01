@@ -1,1 +1,1 @@
-Príloha č. 11 k vyhláške č. 25/2004 Z. z. [Príloha č. 11 k vyhláške č. 25/2004 Z. z.](../assets/391dfe34a149721d3a856831f342baf981f4f2dbc1209b574cbb69a130c9b689.pdf)
+Príloha č. 11 k vyhláške č. 25/2004 Z. z. [Príloha č. 11 k vyhláške č. 25/2004 Z. z.](../assets/b85095787f74d44590c67b141698d7085a7c9bf836d3a1bd8e0cfddda08d70ac.pdf)

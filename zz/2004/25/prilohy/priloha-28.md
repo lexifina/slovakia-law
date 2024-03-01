@@ -1,1 +1,1 @@
-Príloha č. 28 k vyhláške č. 25/2004 Z. z. [Príloha č. 28 k vyhláške č. 25/2004 Z. z.](../assets/1e386061e520e0a367b288f061d8144779e0a3d8fad3ff8ed513d3221c4d6d03.pdf)
+Príloha č. 28 k vyhláške č. 25/2004 Z. z. [Príloha č. 28 k vyhláške č. 25/2004 Z. z.](../assets/e435226e44ee04cfee4371cfc6fbc75298a0528814602e24337cc3f9893f09e3.pdf)

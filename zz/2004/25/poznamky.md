@@ -68,31 +68,39 @@
 
 - 2n) Čl. 76 ods. 1 nariadenia Rady (ES) č. 1435/2003.
 
-- 3) § 69a ods. 3 písm. a) Obchodného zákonníka.
-
-- 4) § 69a ods. 3 písm. b) Obchodného zákonníka.
-
 - 4a) § 67a Obchodného zákonníka.
 
 - 4b) § 152a ods. 6 Obchodného zákonníka.
 
-- 4c) § 69 ods. 14 Obchodného zákonníka v znení zákona č. 264/2017 Z. z.
+- 4c) § 15 zákona č. 309/2023 Z. z. o premenách obchodných spoločností a družstiev a o zmene a doplnení niektorých zákonov.
 
-- 4d) § 69 ods. 15 Obchodného zákonníka v znení zákona č. 264/2017 Z. z.
-
-- 5) § 69a ods. 3 písm. c) Obchodného zákonníka.
+- 4d) § 15 ods. 3, § 23 a § 35 zákona č. 309/2023 Z. z.
 
 - 5a) § 2 ods. 3 zákona č. 530/2003 Z. z. v znení neskorších predpisov.
 
-- 6) § 218k ods. 1 a 5 Obchodného zákonníka.
+- 6) § 32 ods. 1, § 33 ods. 1 a 2, § 49 ods. 1 a § 50 ods. 1 a 2 zákona č. 309/2023 Z. z.
 
-- 6a) § 69aa ods. 7 Obchodného zákonníka.
+- 6a) § 87 zákona č. 309/2023 Z. z.
 
-- 6b) § 218la až 218lk Obchodného zákonníka.
+- 6b) § 123 zákona č. 309/2023 Z. z.
+
+- 6ba) § 119 ods. 3 zákona č. 309/2023 Z. z.
+
+- 6bb) § 125 ods. 1 písm. c) zákona č. 309/2023 Z. z.
+
+- 6bc) § 82 zákona č. 309/2023 Z. z.
+
+- 6bd) Napríklad § 28 ods. 1 písm. b) zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 6 ods. 1 písm. c) zákona č. 429/2002 Z. z. o burze cenných papierov v znení zákona č. 309/2023 Z. z., § 77 ods. 1 písm. b) zákona č. 39/2015 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 309/2023 Z. z.
+
+- 6be) § 63 a 69 zákona č. 309/2023 Z. z.
+
+- 6bf) § 64 a 70 zákona č. 309/2023 Z. z.
+
+- 6bg) Napríklad § 28 ods. 1 písm. c) zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení zákona č. 309/2023 Z. z., § 6 ods. 1 písm. c) zákona č. 429/2002 Z. z. o burze cenných papierov v znení zákona č. 309/2023 Z. z., § 77 ods. 1 písm. w) zákona č. 39/2015 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 309/2023 Z. z.
 
 - 6c) § 220zh ods. 1 písm. a) Obchodného zákonníka v znení zákona č. 389/2015 Z. z.
 
-- 7) § 218o ods. 1 Obchodného zákonníka.
+- 7) § 63 zákona č. 309/2023 Z. z.
 
 - 7a) § 75j ods. 4 Obchodného zákonníka.
 

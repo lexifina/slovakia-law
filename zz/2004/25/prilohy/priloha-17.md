@@ -1,1 +1,1 @@
-Príloha č. 17 k vyhláške č. 25/2004 Z. z. [Príloha č. 17 k vyhláške č. 25/2004 Z. z.](../assets/bdd879e7aa8f3302d55c68caeaa753ee5d3130b0994147592c2a0b77dbab31a5.pdf)
+Príloha č. 17 k vyhláške č. 25/2004 Z. z. [Príloha č. 17 k vyhláške č. 25/2004 Z. z.](../assets/2d09d38e60193b58b378c28ea8ce5234a2f7b8ca01c4cfdb4b0eec448f4d3462.pdf)
