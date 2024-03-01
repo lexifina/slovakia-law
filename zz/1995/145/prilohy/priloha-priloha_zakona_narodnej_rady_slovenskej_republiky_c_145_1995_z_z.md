@@ -4074,7 +4074,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - h) | oprava zverejnených údajov podľa § 8 ods. 2 zákona č. 200/2011 Z. z. o Obchodnom vestníku a o zmene a doplnení niektorých zákonov ..... | | 3,50 eura.
 
-    - Oslobodenie: Od poplatku podľa tejto položky sú oslobodené údaje zverejňované v Obchodnom vestníku registrovými úradmi,<sup>36</sup>) konkurznými správcami, súdnymi exekútormi, dražobníkmi, Národnou bankou Slovenska a údaje zverejňované podľa § 218a ods. 6, § 218o ods. 1 písm. a) a § 220gb Obchodného zákonníka. | | |
+    - Oslobodenie Od poplatku podľa tejto položky sú oslobodené údaje zverejňované v Obchodnom vestníku registrovými úradmi,<sup>36</sup>) správcami, súdnymi exekútormi, dražobníkmi, Národnou bankou Slovenska a údaje zverejňované podľa § 220gb Obchodného zákonníka a § 10 a § 83 zákona č. 309/2023 Z. z. o premenách obchodných spoločností a družstiev a o zmene a doplnení niektorých zákonov. | | |
 
     - Poznámka Sadzba poplatku podľa tejto položky sa neznižuje podľa § 6 ods. 2. | | |
 
