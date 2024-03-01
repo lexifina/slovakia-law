@@ -1,0 +1,9 @@
+# § 28a Prechodné ustanovenia k úpravám účinným od 1. decembra 2001
+
+(1) Za vklad chránený týmto zákonom, ktorý sa stal nedostupným podľa § 3 ods. 5 pred dňom, keď sa Slovenská republika stane členom Európskej únie, patrí jednému vkladateľovi alebo inej osobe oprávnenej podľa tohto zákona náhrada od fondu vo výške podľa § 9 ods. 2 písm. a); v súhrne však jednému vkladateľovi alebo inej oprávnenej osobe patrí pri vzniku nedostupnosti vkladov v čase od 1. decembra 2001 do 30. júna 2002 vrátane najviac náhrada vo výške tridsaťnásobku a pri vzniku nedostupnosti vkladov po 30. júni 2002 najviac náhrada vo výške štyridsaťnásobku priemernej mesačnej mzdy v Slovenskej republike za posledné štyri štvrťroky podľa zistení Štatistického úradu Slovenskej republiky známych ku dňu, keď sa vklady stali nedostupnými. Takto zistené násobky priemernej mesačnej mzdy sa zaokrúhľujú na celé stovky nahor.
+
+(2) Ak bude zistený a zaokrúhlený násobok podľa odseku 1 vyšší ako suma, ktorá sa rovná prepočtu 20 000 EUR na slovenské koruny podľa kurzu vyhláseného Národnou bankou Slovenska ku dňu, keď sa vklady v banke stali nedostupnými podľa § 3 ods. 5, patrí jednému vkladateľovi alebo inej oprávnenej osobe náhrada od fondu najviac vo výške sumy, ktorá sa rovná takémuto prepočtu 20 000 EUR na slovenské koruny.
+
+(3) Nárok na náhradu a výška náhrady za vklad chránený týmto zákonom, ktorý sa stal nedostupným podľa § 3 ods. 5 pred 1. decembrom 2001, sa posudzuje a zisťuje podľa predpisov platných do 1. decembra 2001.
+
+(4) Ročný príspevok stavebnej sporiteľne<sup>20</sup>) je od 1. decembra 2001 do 31. decembra 2002 50 % z určeného ročného príspevku pre ostatné banky podľa § 6 ods. 2; od 1. januára 2003 do 31. decembra 2003 je 75 % z určeného ročného príspevku pre ostatné banky podľa § 6 ods. 2 a od 1. januára 2004 do 31. decembra 2004 je 90 % z určeného ročného príspevku pre ostatné banky podľa § 6 ods. 2.
