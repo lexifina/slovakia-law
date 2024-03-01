@@ -1,0 +1,1 @@
+Príloha k vyhláške č. 18/2024 Z. z. [Hodnoty výstrojných súčastí, ktoré tvoria hodnotu služobnej rovnošaty a jej súčastí](../assets/d7696d6ed0d9b47074554e00e48731b9ff8f84e6a82ed63f8656d6f733fad574.pdf)
