@@ -1,4 +1,4 @@
-## Ocenenie v reálnych hodnotách pri predaji a kúpe podniku alebo jeho časti, nepeňažnom vklade a zlúčení, splynutí alebo rozdelení obchodných spoločností alebo družstiev
+## Ocenenie v reálnych hodnotách pri predaji a kúpe podniku alebo jeho časti, nepeňažnom vklade a premene
 
 # § 17a Predaj a kúpa podniku alebo jeho časti v reálnych hodnotách
 
@@ -26,7 +26,7 @@
 
 - a) sa daňovník zrušuje s likvidáciou, najneskôr v zdaňovacom období ukončenom ku dňu predchádzajúcemu dňu jeho vstupu do likvidácie,<sup>80b</sup>)
 
-- b) sa daňovník zrušuje bez likvidácie, najneskôr v zdaňovacom období ukončenom ku dňu predchádzajúcemu rozhodnému dňu,<sup>80b</sup>)
+- b) daňovník zaniká v dôsledku premeny alebo cezhraničnej premeny, najneskôr v zdaňovacom období ukončenom ku dňu predchádzajúcemu rozhodnému dňu,<sup>80b</sup>)
 
 - c) je na daňovníka vyhlásený konkurz, najneskôr v zdaňovacom období ukončenom ku dňu predchádzajúcemu dňu účinnosti vyhlásenia konkurzu,<sup>80b</sup>) alebo
 

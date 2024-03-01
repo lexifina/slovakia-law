@@ -1,4 +1,4 @@
-## Ocenenie v pôvodných cenách pri nepeňažnom vklade a zlúčení, splynutí alebo rozdelení obchodných spoločností alebo družstiev
+## Ocenenie v pôvodných cenách pri nepeňažnom vklade a premene
 
 # § 17d Nepeňažný vklad v pôvodných cenách
 

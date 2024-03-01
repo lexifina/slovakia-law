@@ -68,7 +68,7 @@ od 1 400 % a viac | 20 % | 30 % | 55 %.
 
 - a) sa zrušuje s likvidáciou,
 
-- b) sa zrušuje bez likvidácie,
+- b) zaniká v dôsledku premeny alebo cezhraničnej premeny alebo dôjde k vyradeniu majetku podľa odseku 5 v dôsledku rozdelenia odštiepením,
 
 - c) je naňho vyhlásený konkurz,
 

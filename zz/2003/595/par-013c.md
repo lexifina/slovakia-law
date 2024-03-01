@@ -30,9 +30,11 @@
 
   - 3. deň účinnosti písomnej zmluvy o prevode podielu na spoločnosti s ručením obmedzeným a komanditnej spoločnosti,<sup>74bh</sup>)
 
-- d) zápisu do obchodného registra, ktorým nastávajú účinky zlúčenia, splynutia alebo rozdelenia obchodných spoločností podľa osobitného predpisu<sup>74bi</sup>) u právneho nástupcu daňovníka zrušeného bez likvidácie, ak predáva akcie alebo obchodný podiel, ktoré nadobudol daňovník zrušený bez likvidácie; rovnako sa postupuje u daňovníka, ktorý zrušením daňovníka bez likvidácie nadobúda akcie alebo obchodný podiel u právneho nástupcu,
+- d) zápisu do obchodného registra, ktorým nastávajú účinky zlúčenia, splynutia alebo rozštiepenia obchodných spoločností podľa osobitného predpisu<sup>74bi</sup>) u právneho nástupcu (ďalej len „právny nástupca daňovníka zrušeného bez likvidácie“), ak predáva akcie alebo obchodný podiel, ktoré nadobudol daňovník, ktorý zaniká v dôsledku premeny alebo cezhraničnej premeny (ďalej len „daňovník zrušený bez likvidácie“); rovnako sa postupuje u daňovníka, ktorý zrušením daňovníka bez likvidácie nadobúda akcie alebo obchodný podiel u právneho nástupcu,
 
-- e) zápisu do Obchodného registra pri premiestnení sídla spoločnosti na územie Slovenskej republiky.<sup>74bj</sup>)
+- e) zápisu do Obchodného registra pri premiestnení sídla spoločnosti na územie Slovenskej republiky,<sup>74bj</sup>)
+
+- f) zápisu do obchodného registra, ktorým nastávajú účinky rozdelenia odštiepením obchodných spoločností alebo družstiev podľa osobitného predpisu<sup>74bi</sup>) u nástupníka daňovníka, ktorý sa rozdeľuje odštiepením, ak predáva akcie alebo obchodný podiel, ktoré nadobudol daňovník, ktorý sa rozdeľuje odštiepením; rovnako sa postupuje u daňovníka, ktorý odštiepením nadobúda akcie alebo obchodný podiel u nástupníka.
 
 (5) Podľa odseku 2 písm. a) sa za deň nadobudnutia priameho podielu na základnom imaní obchodnej spoločnosti podľa odseku 1 nepovažuje
 

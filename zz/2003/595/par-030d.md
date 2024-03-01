@@ -18,7 +18,7 @@
 
 - a) sa zrušuje s likvidáciou, v zdaňovacom období ukončenom ku dňu predchádzajúcemu dňu jeho vstupu do likvidácie,<sup>80b</sup>)
 
-- b) sa zrušuje bez likvidácie, v zdaňovacom období ukončenom ku dňu predchádzajúcemu rozhodnému dňu;<sup>80b</sup>) to sa nevzťahuje na zrušenie bez likvidácie v súlade s osobitným predpisom,<sup>120q</sup>) pričom podmienky použitia peňažných prostriedkov podľa odseku 5 vrátane lehoty na použitie týchto peňažných prostriedkov ostávajú zachované aj pre právneho nástupcu,
+- b) zaniká v dôsledku premeny alebo cezhraničnej premeny, v zdaňovacom období ukončenom ku dňu predchádzajúcemu rozhodnému dňu;<sup>80b</sup>) to sa nevzťahuje na zánik v dôsledku premeny alebo cezhraničnej premeny v súlade s osobitným predpisom,<sup>120q</sup>) pričom podmienky použitia peňažných prostriedkov podľa odseku 5 vrátane lehoty na použitie týchto peňažných prostriedkov ostávajú zachované aj pre právneho nástupcu,
 
 - c) je na daňovníka vyhlásený konkurz, v zdaňovacom období ukončenom ku dňu predchádzajúcemu dňu účinnosti vyhlásenia konkurzu,<sup>80b</sup>)
 

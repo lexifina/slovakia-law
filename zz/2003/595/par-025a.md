@@ -18,7 +18,7 @@ Vstupnou cenou finančného majetku<sup>1</sup>) je
 
   - 2. nadobudnutý vkladom podniku alebo jeho časti u vkladateľa nepeňažného vkladu a prijímateľa nepeňažného vkladu podľa § 17b,
 
-  - 3. nadobudnutý právnym nástupcom daňovníka zrušeného bez likvidácie pri uplatnení reálnych hodnôt podľa § 17c,
+  - 3. nadobudnutý právnym nástupcom daňovníka zrušeného bez likvidácie pri uplatnení reálnych hodnôt podľa § 17c alebo nadobudnutý nástupníkom daňovníka, ktorý sa rozdeľuje odštiepením pri uplatnení reálnych hodnôt podľa § 17ca,
 
   - 4. ktorého prvotné ocenenie v reálnej hodnote ustanovuje osobitný predpis,<sup>119a</sup>)
 
@@ -26,9 +26,11 @@ Vstupnou cenou finančného majetku<sup>1</sup>) je
 
 - e) pôvodná cena, ak ide o finančný majetok, ktorý nadobudol
 
-  - 1. prijímateľ nepeňažného vkladu pri uplatnení pôvodných cien podľa § 17d a právny nástupca daňovníka zrušeného bez likvidácie pri uplatnení pôvodných cien podľa § 17e; finančný majetok, ktorý nadobúda vkladateľ nepeňažného vkladu, je ocenený pôvodnou cenou, ktorou sa rozumie celková hodnota nepeňažného vkladu vyjadrená v pôvodných cenách, ktorú preberá príjemca nepeňažného vkladu podľa § 17d,
+  - 1. prijímateľ nepeňažného vkladu pri uplatnení pôvodných cien podľa § 17d, právny nástupca daňovníka zrušeného bez likvidácie pri uplatnení pôvodných cien podľa § 17e a nástupník daňovníka, ktorý sa rozdeľuje odštiepením pri uplatnení pôvodných cien podľa § 17ea; finančný majetok, ktorý nadobúda vkladateľ nepeňažného vkladu, je ocenený pôvodnou cenou, ktorou sa rozumie celková hodnota nepeňažného vkladu vyjadrená v pôvodných cenách, ktorú preberá príjemca nepeňažného vkladu podľa § 17d,
 
-  - 2. akcionár alebo spoločník daňovníka zrušeného bez likvidácie pri zlúčení, splynutí alebo rozdelení obchodných spoločností alebo družstiev na právnom nástupcovi daňovníka zrušeného bez likvidácie; pôvodnou cenou sa rozumie ocenenie akcií alebo podielu na daňové účely, ktorým boli akcie alebo podiel ocenené pred zlúčením, splynutím alebo rozdelením obchodných spoločností alebo družstiev,
+  - 2. akcionár alebo spoločník daňovníka zrušeného bez likvidácie pri zlúčení, splynutí alebo rozštiepení obchodných spoločností alebo družstiev na právnom nástupcovi daňovníka zrušeného bez likvidácie; pôvodnou cenou sa rozumie ocenenie akcií alebo podielu na daňové účely, ktorým boli akcie alebo podiel ocenené pred zlúčením, splynutím alebo rozštiepením obchodných spoločností alebo družstiev,
+
+  - 3. akcionár alebo spoločník daňovníka, ktorý sa rozdeľuje odštiepením na nástupníkovi daňovníka, ktorý sa rozdeľuje odštiepením v pomernej výške zodpovedajúcej pomeru vlastného imania daňovníka, ktorý sa rozdeľuje odštiepením, prevzatého jeho nástupníkom; pôvodnou cenou sa rozumie ocenenie akcií alebo podielu na daňové účely, ktorým boli akcie alebo podiel ocenené pred rozdelením odštiepením,
 
 - f) hodnota splateného peňažného vkladu [§ 2 písm. ac)],
 

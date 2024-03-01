@@ -14,7 +14,7 @@
 
 - b) daňovník je povinný počas zdaňovacích období, za ktoré si uplatňuje úľavu na dani, odpočítať od základu dane daňovú stratu alebo časť daňovej straty, o ktorú v predchádzajúcich zdaňovacích obdobiach neznižoval základ dane, a to vo výške základu dane; ak je základ dane vyšší ako výška daňovej straty, o ktorú sa v predchádzajúcich zdaňovacích obdobiach neznižoval základ dane, zníži sa základ dane o výšku tejto straty,
 
-- c) daňovník nemôže uplatniť úľavu na dani podľa odseku 4 pri zrušení bez likvidácie, pri vstupe do likvidácie, pri vyhlásení konkurzu alebo pri zrušení alebo pozastavení podnikateľskej činnosti,
+- c) daňovník nemôže uplatniť úľavu na dani podľa odseku 4 pri zániku v dôsledku premeny alebo cezhraničnej premeny, pri vstupe do likvidácie, pri vyhlásení konkurzu alebo pri zrušení alebo pozastavení podnikateľskej činnosti,
 
 - d) daňovník je povinný pri vyčíslení základu dane vo vzájomnom obchodnom vzťahu so závislou osobou postupovať podľa § 18 a dodržiavať princíp nezávislého vzťahu.
 

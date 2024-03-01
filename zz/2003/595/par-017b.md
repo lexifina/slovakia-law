@@ -8,7 +8,7 @@
 
   - 1. sa daňovník zrušuje s likvidáciou, najneskôr v zdaňovacom období ukončenom ku dňu predchádzajúcemu dňu jeho vstupu do likvidácie,<sup>80b</sup>)
 
-  - 2. sa daňovník zrušuje bez likvidácie, najneskôr v zdaňovacom období ukončenom ku dňu predchádzajúcemu rozhodnému dňu,<sup>80b</sup>)
+  - 2. daňovník zaniká v dôsledku premeny alebo cezhraničnej premeny, najneskôr v zdaňovacom období ukončenom ku dňu predchádzajúcemu rozhodnému dňu,<sup>80b</sup>)
 
   - 3. je na daňovníka vyhlásený konkurz, najneskôr v zdaňovacom období ukončenom ku dňu predchádzajúcemu dňu účinnosti vyhlásenia konkurzu<sup>80b</sup>) alebo, ak
 
@@ -48,7 +48,7 @@
 
   - 1. sa daňovník zrušuje s likvidáciou, najneskôr v zdaňovacom období ukončenom ku dňu predchádzajúcemu dňu jeho vstupu do likvidácie,<sup>80b</sup>)
 
-  - 2. sa daňovník zrušuje bez likvidácie, najneskôr v zdaňovacom období ukončenom ku dňu predchádzajúcemu rozhodnému dňu,<sup>80b</sup>)
+  - 2. daňovník zaniká v dôsledku premeny alebo cezhraničnej premeny, najneskôr v zdaňovacom období ukončenom ku dňu predchádzajúcemu rozhodnému dňu,<sup>80b</sup>)
 
   - 3. je na daňovníka vyhlásený konkurz, najneskôr v zdaňovacom období ukončenom ku dňu predchádzajúcemu dňu účinnosti vyhlásenia konkurzu<sup>80b</sup>) alebo
 

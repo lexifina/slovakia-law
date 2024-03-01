@@ -30,6 +30,8 @@
 
 - 7a) § 144 a 223 Obchodného zákonníka.
 
+- 7b) Zákon č. 309/2023 Z. z. o premenách obchodných spoločností a družstiev a o zmene a doplnení niektorých zákonov.
+
 - 8) Napríklad § 13 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 8a) § 166 až 171c zákona č. 7/2005 Z. z. v znení zákona č. 377/2016 Z. z.
@@ -360,7 +362,7 @@
 
 - 74bh) § 115 Obchodného zákonníka.
 
-- 74bi) § 69a a 256 Obchodného zákonníka v znení neskorších predpisov.
+- 74bi) § 4 zákona č. 309/2023 Z. z.
 
 - 74bj) § 26 ods. 2 Obchodného zákonníka.
 

@@ -16,7 +16,7 @@
 
 (8) Ustanovenia § 17b ods. 8, 9, 11 a 13 a § 17d ods. 7, 8, 10 až 13 v znení účinnom od 1. januára 2018 sa použijú na splatenie nepeňažného vkladu<sup>80c</sup>) po 31. decembri 2017.
 
-(9) Ustanovenia § 17c ods. 9 a 10 a § 17e ods. 8 až 10 a ods. 12 a 13 v znení účinnom od 1. januára 2018 sa použijú na zlúčenie, splynutie alebo rozdelenie obchodných spoločností alebo družstiev, u ktorých rozhodný deň nastane najskôr po 1. januári 2018.
+(9) Ustanovenia § 17c ods. 9 a 10 a § 17e ods. 8 až 10 a ods. 12 a 13 v znení účinnom od 1. januára 2018 sa použijú na zlúčenie, splynutie alebo rozštiepenie obchodných spoločností alebo družstiev, u ktorých rozhodný deň nastane najskôr po 1. januári 2018.
 
 (10) Ustanovenia § 17c ods. 3 písm. a) a ods. 11 a § 17e ods. 14 v znení účinnom od 1. januára 2018 sa prvýkrát použijú pri výplate oceňovacích rozdielov z precenenia pri zlúčení, splynutí alebo rozdelení obchodných spoločností alebo družstiev v zdaňovacom období, ktoré začína najskôr 1. januára 2018.
 

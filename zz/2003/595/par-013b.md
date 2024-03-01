@@ -18,7 +18,7 @@
 
 - b) súčtu nákladov na vývoj<sup>1</sup>) vynálezu chráneného patentom alebo technického riešenia chráneného úžitkovým vzorom a aktivovaných nákladov na vývoj<sup>1</sup>) vynálezu chráneného patentom alebo technického riešenia chráneného úžitkovým vzorom.
 
-(6) Ak daňovník, ktorý začal uplatňovať oslobodenie podľa odseku 1, zanikol v dôsledku zrušenia bez likvidácie, jeho právny nástupca nemôže pokračovať v uplatňovaní oslobodenia. Ak vkladateľ nepeňažného vkladu uplatňoval oslobodenie podľa odseku 1 a predmetom nepeňažného vkladu je vynález chránený patentom alebo technické riešenie chránené úžitkovým vzorom, prijímateľ nepeňažného vkladu nemôže pokračovať v uplatňovaní oslobodenia.
+(6) Ak daňovník, ktorý začal uplatňovať oslobodenie podľa odseku 1, zanikol v dôsledku premeny alebo cezhraničnej premeny, jeho právny nástupca nemôže pokračovať v uplatňovaní oslobodenia. Ak vkladateľ nepeňažného vkladu uplatňoval oslobodenie podľa odseku 1 a predmetom nepeňažného vkladu je vynález chránený patentom alebo technické riešenie chránené úžitkovým vzorom, prijímateľ nepeňažného vkladu nemôže pokračovať v uplatňovaní oslobodenia.
 
 (7) Finančné riaditeľstvo do troch kalendárnych mesiacov nasledujúcich po uplynutí lehoty na podanie daňového priznania zverejní v zozname daňových subjektov podľa osobitného predpisu<sup>120l</sup>) o daňovníkovi, ktorý si uplatnil oslobodenie podľa odseku 1, tieto údaje:
 

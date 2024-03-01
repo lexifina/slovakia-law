@@ -16,7 +16,7 @@
 
 - b) súčtu nákladov na vývoj<sup>1</sup>) vynálezu chráneného patentom, technického riešenia chráneného úžitkovým vzorom alebo počítačového programu (softvér) a aktivovaných nákladov na vývoj<sup>1</sup>) vynálezu chráneného patentom, technického riešenia chráneného úžitkovým vzorom alebo počítačového programu (softvér).
 
-(5) Ak daňovník, ktorý začal uplatňovať oslobodenie podľa odseku 1, zanikol v dôsledku zrušenia bez likvidácie, jeho právny nástupca nemôže pokračovať v uplatňovaní oslobodenia. Ak vkladateľ nepeňažného vkladu uplatňoval oslobodenie podľa odseku 1 a predmetom nepeňažného vkladu je vynález chránený patentom, technické riešenie chránené úžitkovým vzorom alebo počítačový program (softvér), prijímateľ nepeňažného vkladu nemôže pokračovať v uplatňovaní oslobodenia.
+(5) Ak daňovník, ktorý začal uplatňovať oslobodenie podľa odseku 1, zanikol v dôsledku premeny alebo cezhraničnej premeny, jeho právny nástupca nemôže pokračovať v uplatňovaní oslobodenia. Ak vkladateľ nepeňažného vkladu uplatňoval oslobodenie podľa odseku 1 a predmetom nepeňažného vkladu je vynález chránený patentom, technické riešenie chránené úžitkovým vzorom alebo počítačový program (softvér), prijímateľ nepeňažného vkladu nemôže pokračovať v uplatňovaní oslobodenia.
 
 (6) Finančné riaditeľstvo Slovenskej republiky (ďalej len „finančné riaditeľstvo“) do troch kalendárnych mesiacov nasledujúcich po uplynutí lehoty na podanie daňového priznania zverejní v zozname daňových subjektov podľa osobitného predpisu<sup>120l</sup>) o daňovníkovi, ktorý si uplatnil oslobodenie podľa odseku 1, tieto údaje:
 
