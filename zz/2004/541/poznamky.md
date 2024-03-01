@@ -72,6 +72,8 @@
 
 - 11d) Zákon č. 50/1976 Zb. v znení neskorších predpisov.
 
+- 11e) Zákon č. 309/2023 Z. z. o premenách obchodných spoločností a družstiev a o zmene a doplnení niektorých zákonov.
+
 - 12) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
 
 - 13) Napríklad § 44 zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení zákona č. 37/2002 Z. z.
