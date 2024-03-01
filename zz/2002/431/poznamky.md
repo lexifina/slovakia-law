@@ -16,15 +16,23 @@
 
 - 4c) Zákon č. 97/2013 Z. z. o pozemkových spoločenstvách.
 
+- 4d) § 2 ods. 1 a 2 zákona č. 309/2023 Z. z. o premenách obchodných spoločností a družstiev a o zmene a doplnení niektorých zákonov.
+
+- 4e) § 2 ods. 9 zákona č. 309/2023 Z. z.
+
+- 4f) § 2 ods. 17 písm. g) zákona č. 309/2023 Z. z.
+
 - 5) § 3 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
 - 7a) Napríklad § 69 ods. 6 písm. d) Obchodného zákonníka.
 
-- 7b) § 69a ods. 1 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
-
-- 7c) § 69 ods. 3 a 4 Obchodného zákonníka v znení neskorších predpisov.
-
 - 8) § 4 ods. 2 zákona Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky v znení neskorších predpisov.
+
+- 8a) § 8 písm. d) zákona č. 309/2023 Z. z.
+
+- 8b) § 4 ods. 1 a 2 zákona č. 309/2023 Z. z.
+
+- 8c) Napríklad § 2 zákona č. 34/2002 Z. z. o nadáciách a o zmene Občianskeho zákonníka v znení neskorších predpisov v znení zákona č. 346/2018 Z. z., § 2 zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení zákona č. 35/2002 Z. z.
 
 - 9) Napríklad § 56 zákona č. 43/2004 Z. z. v znení neskorších predpisov, § 40 zákona č. 203/2011 Z. z. v znení neskorších predpisov.
 
@@ -52,11 +60,15 @@
 
 - § 68 ods. 4 písm. c) Obchodného zákonníka.
 
+- 20aa) § 2 ods. 15 zákona č. 309/2023 Z. z.
+
+- 20ab) § 2 ods. 17 písmeno d) zákona č. 309/2023 Z. z.
+
 - 20b) § 309d až 309h Civilného mimosporového poriadku.
 
 - § 68 a 68b Obchodného zákonníka.
 
-- 21) § 69b Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
+- 21) § 4 ods. 1 zákona č. 309/2023 Z. z.
 
 - 21a) § 75k Obchodného zákonníka.
 
@@ -221,8 +233,6 @@
 - 37a) § 73a až 73j zákona č. 594/2003 Z. z. v znení zákona č. 213/2006 Z. z.
 
 - 37b) § 119 zákona č. 203/2011 Z. z.
-
-- 38) Obchodný zákonník v znení neskorších predpisov.
 
 - 41) § 659 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
 
