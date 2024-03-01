@@ -262,6 +262,8 @@
 
 - 50ct) Čl. 4 ods. 1 bod 1 písm. b) nariadenia (EÚ) č. 575/2013 v platnom znení.
 
+- 50cta) § 113 zákona č. 309/2023 Z. z. o premenách obchodných spoločností a družstiev a o zmene a doplnení niektorých zákonov.
+
 - 50cu) § 7b zákona č. 483/2001 Z. z. v znení zákona č. 209/2021 Z. z.
 
 - 50d) Napríklad delegované nariadenie (EÚ) 2017/565, delegované nariadenie Komisie (EÚ) 2017/571 z 2. júna 2016, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ, pokiaľ ide o regulačné technické predpisy týkajúce sa udeľovania povolenia, organizačných požiadaviek a uverejňovania transakcií pre poskytovateľov služieb vykazovania údajov (Ú. v. EÚ L 87, 31. 3. 2017), delegované nariadenie Komisie (EÚ) 2017/589 z 19. júla 2016, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ, pokiaľ ide o regulačné technické predpisy, ktorými sa spresňujú organizačné požiadavky investičných spoločností zapojených do algoritmického obchodovania (Ú. v. EÚ L 87, 31. 3. 2017).
@@ -287,6 +289,8 @@
 - 54) § 27 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
 
 - 54a) § 8 zákona č. 483/2001 Z. z.
+
+- 54aa) § 4 zákona č. 309/2023 Z. z.
 
 - 54b) § 7 a 8 zákona č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov.
 
