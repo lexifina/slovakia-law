@@ -2,11 +2,13 @@
 
 - 2) Zákon Národnej rady Slovenskej republiky č. 82/1994 Z. z. o štátnych hmotných rezervách v znení neskorších predpisov.
 
-- 3) Napríklad § 829 Občianskeho zákonníka.
+- 3) § 2 ods. 9 zákona č. 309/2023 Z. z. o premenách obchodných spoločností a družstiev a o zmene a doplnení niektorých zákonov.
 
-- 4a) § 66a Obchodného zákonníka.
+- 4) § 2 ods. 9 druhý bod a ods. 12 zákona č. 309/2023 Z. z.
 
-- 4b) § 2 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 4a) § 4 ods. 1 zákona č. 309/2023 Z. z.
+
+- 4b) § 4 ods. 2 zákona č. 309/2023 Z. z.
 
 - 4c) § 88 až 153 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
