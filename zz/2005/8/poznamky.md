@@ -80,6 +80,8 @@
 
 - 14ba) Položka 5 písm. m) a l) Prílohy zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení zákona č. 111/2022 Z. z.
 
+- 14baa) § 10 zákona č. 309/2023 Z. z. o premenách obchodných spoločností a družstiev a o zmene a doplnení niektorých zákonov.
+
 - 14bb) Napríklad zákon č. 7/2005 Z. z. v znení neskorších predpisov, zákon č. 111/2022 Z. z.
 
 - 14c) Zákon Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov.
