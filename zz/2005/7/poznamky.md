@@ -44,7 +44,7 @@
 
 - 8a) Zákon č. 371/2014 Z. z. o riešení krízových situácií na finančnom trhu a o zmene a doplnení niektorých zákonov.
 
-- 8aa) § 14 ods. 2 zákona 374/2014 Z. z. o pohľadávkach štátu a o zmene a doplnení niektorých zákonov v znení zákona č. 87/2015 Z. z.
+- 8aa) Zákon č. 309/2023 Z. z. o premenách obchodných spoločností a družstiev a o zmene a doplnení niektorých zákonov.
 
 - 8ab) § 15 zákona č. 374/2014 Z. z.
 
