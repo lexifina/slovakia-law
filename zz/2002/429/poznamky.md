@@ -140,8 +140,6 @@
 
 - 42) Čl. 20 nariadenia (EÚ) 2017/1129.
 
-- 44) § 69 Obchodného zákonníka.
-
 - 45) § 155 ods. 5 Obchodného zákonníka.
 
 - 46) § 66a Obchodného zákonníka.
