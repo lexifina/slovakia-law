@@ -162,7 +162,7 @@
 
 - 18b) § 91 ods. 3 zákona č. 483/2001 Z. z.
 
-- 18ba) Napríklad § 69 a 69a, § 476 až 488 Obchodného zákonníka.
+- 18ba) Napríklad § 69, § 476 až 488 Obchodného zákonníka.
 
 - 18bb) § 36 ods. 1 a 2 prvá veta, § 39 a § 452 Občianskeho zákonníka.
 
