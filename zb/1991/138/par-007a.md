@@ -14,4 +14,4 @@
 
 (3) Ak prejde do vlastníctva obcí majetok Slovenskej republiky podľa § 2b ods. 2, môže účelové určenie majetku ustanoviť osobitný zákon.
 
-(4) Na majetok vo vlastníctve obce uvedený v odseku 1 nemožno zriadiť záložné právo<sup>21c</sup>) ani zabezpečovací prevod práva,<sup>21d</sup>) uskutočniť výkon rozhodnutia, konkurzné konanie a vyrovnacie konanie podľa osobitných zákonov.<sup>21e</sup>)
+(4) Na majetok vo vlastníctve obce uvedený v odseku 1 nemožno zriadiť záložné právo<sup>21c</sup>) ani zabezpečovací prevod práva,<sup>21d</sup>) uskutočniť výkon rozhodnutia, konkurzné konanie a vyrovnacie konanie podľa osobitných zákonov.<sup>21e</sup>) Obmedzenie podľa prvej vety sa neuplatní na zriadenie záložného práva podľa osobitného predpisu<sup>21f</sup>) a jeho výkon.
