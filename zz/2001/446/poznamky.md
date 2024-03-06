@@ -60,6 +60,8 @@
 
 - 19aa) Napríklad § 66a Obchodného zákonníka, § 8 ods. 1 písm. b) zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
 
+- 19aaa) Zákon č. 150/2013 Z. z. o Štátnom fonde rozvoja bývania v znení neskorších predpisov.
+
 - 19ab) Zákon č. 25/2006 Z. z. v znení neskorších predpisov.
 
 - 19ac) § 18 zákona č. 321/2014 Z. z. o energetickej efektívnosti a o zmene a doplnení niektorých zákonov v znení zákona č. 4/2019 Z. z.
