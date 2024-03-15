@@ -42,6 +42,10 @@
 
 - Trestný poriadok.
 
+- 13a) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- 13b) § 19 ods. 5 zákona Slovenskej národnej rady č. 372/1990 Zb. v znení zákona č. 40/2024 Z. z.
+
 - 14) Zákon č. 550/2003 Z. z. o probačných a mediačných úradníkoch a o zmene a doplnení niektorých zákonov.
 
 - 15) Napríklad zákon č. 550/2003 Z. z., zákon Národnej rady Slovenskej republiky č. 279/1993 Z. z. v znení neskorších predpisov.
