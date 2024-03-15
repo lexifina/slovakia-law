@@ -1,0 +1,5 @@
+# Čl. XV
+
+Zákon č. 176/2015 Z. z. o komisárovi pre deti a komisárovi pre osoby so zdravotným postihnutím a o zmene a doplnení niektorých zákonov v znení zákona č. 338/2015 Z. z., zákona č. 340/2016 Z. z., zákona č. 334/2017 Z. z., zákona č. 177/2018 Z. z., nálezu Ústavného súdu Slovenskej republiky č. 90/2019 Z. z., zákona č. 231/2019 Z. z., zákona č. 308/2020 Z. z. a zákona č. 110/2023 Z. z. sa mení a dopĺňa takto:
+
+- V § 15 ods. 3 sa slová „trestný čin nedovolenej výroby omamných a psychotropných látok, jedov alebo prekurzorov, ich držanie a obchodovanie s nimi“ nahrádzajú slovami „trestný čin neoprávneného prechovávania omamnej látky a psychotropnej látky, trestný čin neoprávneného pestovania rastlín a húb obsahujúcich omamnú látku alebo psychotropnú látku, trestný čin neoprávnenej výroby a obchodovania s omamnou látkou a psychotropnou látkou, trestný čin neoprávneného prechovávania, výroby a obchodovania s drogovým prekurzorom a predmetom určeným na výrobu omamnej látky, psychotropnej látky alebo drogového prekurzora“.
