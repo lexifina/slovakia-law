@@ -276,6 +276,8 @@ Zákon č. 301/2005 Z. z. Trestný poriadok v znení zákona č. 650/2005 Z. z.,
 
 - 51. V § 194 ods. 1 písm. b) sa vypúšťajú slová „ods. 3 alebo 4“.
 
+- 52. V § 196 ods. 1 druhej vete sa vypúšťajú slová „Úrad špeciálnej prokuratúry, ak sa týka pôsobnosti Špecializovaného trestného súdu, a“.
+
 - 53. V § 196 ods. 2 sa za piatu vetu vkladá nová šiesta veta, ktorá znie: „Ustanovenie § 40 ods. 2 sa použije primerane.“.
 
 - 54. § 205 vrátane nadpisu znie:
