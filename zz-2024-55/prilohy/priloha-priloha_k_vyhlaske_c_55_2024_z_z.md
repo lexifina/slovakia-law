@@ -1,0 +1,1 @@
+Príloha k vyhláške č. 55/2024 Z. z. [Minimálna celková suma v eurách určená pre jednotlivé typy zdravotnej starostlivosti pre jednotlivé zdravotné poisťovne na rok 2024 z celkovej sumy výdavkov zdravotnej poisťovne na zdravotnú starostlivosť určených v rozpočte na rok 2024](../assets/ad9afb051777edc6f5bfa335acc3fec6d59b5c65b698086419f08e64c3376839.pdf)
