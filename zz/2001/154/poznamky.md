@@ -14,8 +14,6 @@
 
 - 11) § 6 zákona Národnej rady Slovenskej republiky č. 63/1993 Z. z. o štátnych symboloch Slovenskej republiky a ich používaní v znení zákona Národnej rady Slovenskej republiky č. 273/1996 Z. z.
 
-- 11a) § 26 ods. 1 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
-
 - 11b) Zákon č. 548/2003 Z. z. o Justičnej akadémii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 11ba) Napríklad zákon č. 383/2011 Z. z. o zastúpení Slovenskej republiky v Eurojuste.
@@ -27,10 +25,6 @@
 - 14) § 137 písm. c) Civilného sporového poriadku.
 
 - 14a) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
-
-- 14b) § 125 zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriadku Národnej rady Slovenskej republiky v znení neskorších predpisov.
-
-- 14c) § 55g zákona č. 153/2001 Z. z. o prokuratúre v znení neskorších predpisov.
 
 - 15) § 11 až 16 zákona č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov.
 
