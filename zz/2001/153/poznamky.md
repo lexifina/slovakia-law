@@ -116,15 +116,17 @@
 
 - 29) § 4 ods. 3 zákona č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry.
 
+- 30) § 10 ods. 7 písm. b) Trestného poriadku.
+
 - 30a) § 16 ods. 2 Trestného poriadku.
 
 - § 14a zákona č. 371/2004 Z. z. o sídlach a obvodoch súdov Slovenskej republiky a o zmene zákona č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov v znení zákona č. 517/2008 Z. z.
 
 - 30b) § 3 ods. 1 zákona č. 54/2019 Z. z. o ochrane oznamovateľov protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
 
-- 31) Civilný sporový poriadok, Civilný mimosporový poriadok a Správny súdny poriadok.
+- 31) Napríklad Trestný poriadok, Civilný sporový poriadok, Civilný mimosporový poriadok, Správny súdny poriadok, zákon č. 371/2004 Z. z. o sídlach a obvodoch súdov Slovenskej republiky a o zmene zákona č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov v znení neskorších predpisov.
 
-- § 13 až 24 Trestného poriadku.
+- 31a) § 3 ods. 1 zákona č. 54/2019 Z. z. o ochrane oznamovateľov protispoločenskej činnosti a o zmene a doplnení niektorých zákonov v znení neskorších zákonov.
 
 - 32) Čl. 10 nariadenia (EÚ) 2017/1939.
 
@@ -143,28 +145,6 @@
 - 36) Zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
 
 - 36a) § 4 ods. 1 písm. f) zákona č. 428/2002 Z. z.
-
-- 37) § 24a až 24e zákona č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení zákona č. 458/2003 Z. z.
-
-- 38) § 24a a 24b zákona č. 154/2001 Z. z. v znení zákona č. 458/2003 Z. z.
-
-- 39) § 29 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 411/2002 Z. z.
-
-- 40) § 26 ods. 1 zákona č. 215/2004 Z. z.
-
-- 41) § 39 až 43 zákona č. 312/2001 Z. z. v znení neskorších predpisov, § 1 ods. 5 zákona č. 313/2001 Z. z. o verejnej službe a § 59 až 72 zákona č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
-
-- 42) § 27 až 29 a § 39 až 44 zákona č. 312/2001 Z. z. v znení neskorších predpisov.
-
-- 43) § 1 ods. 5 zákona č. 313/2001 a § 58 až 72 a § 163 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
-
-- 44) § 24c až 24e zákona č. 154/2001 Z. z. v znení zákona č. 458/2003 Z. z.
-
-- 45) § 116 Občianskeho zákonníka.
-
-- 46) § 5 zákona č. 154/2001 Z. z.
-
-- § 51 zákona č. 312/2001 Z. z.
 
 - 46a) Zákon č. 383/2011 Z. z. v znení zákona č. 316/2016 Z. z.
 
