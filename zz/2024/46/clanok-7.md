@@ -1,0 +1,5 @@
+# Čl. VII
+
+Zákon č. 200/2022 Z. z. o územnom plánovaní v znení zákona č. 69/2023 Z. z., zákona č. 195/2023 Z. z., zákona č. 205/2023 Z. z. a zákona č. 272/2023 Z. z. sa mení a dopĺňa takto:
+
+- 36. V § 43 sa slová „okrem § 1 až 7 a 9 až 42, ktoré nadobúdajú účinnosť 1. apríla 2024.“ nahrádzajú slovami „okrem § 1 až 7, § 9 ods. 1 písm. a) až o) a ods. 2, § 10 až 23, § 24 ods. 3 až 5 a ods. 9 až 12, § 25 až 34, § 36 až 39, § 40 ods. 1, 3 a 5 až 14, § 40a až 40c, § 41 bodov 3 až 7 a 9 a § 42, ktoré nadobúdajú účinnosť 1. apríla 2024, a § 9 ods. 1 písm. p), § 24 ods. 1 a 2, ods. 6 až 8, § 35, § 40 ods. 2 a 4 a § 41 bodov 1, 2, 8, 10 a 11, ktoré nadobúdajú účinnosť 1. apríla 2025.“.
