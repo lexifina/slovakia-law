@@ -2030,6 +2030,30 @@ Zákon č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektor
 
 - Odborný garant na verejné obstarávanie
 
+- (1)
+
+- Verejný obstarávateľ, obstarávateľ a osoba podľa § 8 sú povinní vykonávať činnosti vo verejnom obstarávaní prostredníctvom odborného garanta na verejné obstarávanie (ďalej len „odborný garant“), okrem
+
+- a)
+
+- postupu zadávania zákazky s nízkou hodnotou a postupu podľa § 139,
+
+- b)
+
+- súťaže návrhov,
+
+- c)
+
+- nadobúdania tovarov alebo služieb od centrálnej obstarávacej organizácie,
+
+- d)
+
+- nadobúdania tovarov, stavebných prác alebo služieb na základe zákaziek zadaných centrálnou obstarávacou organizáciou,
+
+- e)
+
+- postupu zadávania zákazky prostredníctvom dynamického nákupného systému v hodnote finančného limitu pre zákazku s nízkou hodnotou.
+
 - (2)
 
 - Odborný garant vykonáva vo verejnom obstarávaní tieto činnosti:
