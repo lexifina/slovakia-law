@@ -142,7 +142,7 @@
 
 - 36a) § 7 zákona č. 514/2008 Z. z. o nakladaní s odpadom z ťažobného priemyslu a o zmene a doplnení niektorých zákonov.
 
-- 37) Štvrtá časť zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 37) Zákon č. 282/2015 Z. z. o vyvlastňovaní pozemkov a stavieb a o nútenom obmedzení vlastníckeho práva k nim a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 37a) § 19 zákona č. 442/2002 Z. z. v znení neskorších predpisov.
 
@@ -172,7 +172,7 @@
 
 - 39) Zákon č. 326/2005 Z. z. v znení neskorších predpisov.
 
-- 39a) § 20 až 23 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 39a) Šiesta časť zákona č. 200/2022 Z. z. o územnom plánovaní v znení neskorších predpisov.
 
 - 40) Zákon č. 305/2018 Z. z. o chránených oblastiach prirodzenej akumulácie vôd a o zmene a doplnení niektorých zákonov.
 
@@ -184,7 +184,7 @@
 
 - 46a) Napríklad zákon č. 326/2005 Z. z. v znení neskorších predpisov, zákon č. 220/2004 Z. z. o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 46aa) § 2 a 8 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 46aa) § 18 zákona č. 200/2022 Z. z. v znení zákona č. 205/2023 Z. z.
 
 - 46b) § 4 ods. 3 písm. g) zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
