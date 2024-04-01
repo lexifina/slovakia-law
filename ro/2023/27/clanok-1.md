@@ -36,6 +36,16 @@ Opatrenie Ministerstva financií Slovenskej republiky z 13. decembra 2007 č. MF
 
 - 4. V § 9 ods. 8 písm. d) sa za slovo „napríklad“ vkladajú slová „virtuálna mena,“.
 
+- 5. Poznámky pod čiarou k odkazom 13, 13a, 13b a 15 znejú:
+
+- „<sup>13</sup>) Napríklad zákon č. 314/2001 Z. z. o ochrane pred požiarmi v znení neskorších predpisov, zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 106/2018 Z. z. o prevádzke vozidiel v cestnej premávke a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 201/2022 Z. z. o výstavbe v znení neskorších predpisov.
+
+- <sup>13a</sup>) § 43 zákona č. 201/2022 Z. z.
+
+- <sup>13b</sup>) § 42 zákona č. 201/2022 Z. z.
+
+- <sup>15</sup>) § 2 zákona č. 201/2022 Z. z.“.
+
 - 6. Poznámky pod čiarou k odkazom 17, 19 a 21 znejú:
 
 - „<sup>17</sup>) Napríklad zákon č. 185/2015 Z. z. Autorský zákon v znení neskorších predpisov.
@@ -102,4 +112,4 @@ Opatrenie Ministerstva financií Slovenskej republiky z 13. decembra 2007 č. MF
 
 - 19. V § 23 ods. 2 sa na konci pripájajú tieto slová: „v peňažnom denníku podľa podmienok ustanovených osobitným predpisom<sup>4</sup>)“.
 
-[Konsolidovane znenie](assets/9ec83021657dfa7d6c7800c051ea06eef8a6c5f16ec2f5ae5f58a79cbd852b99.pdf)
+[Konsolidovane znenie](assets/bc2a3a11f2accf5b7edcdfc3a7a4300933adaeb67fe3c8da8d3a31d49a7162ba.pdf)
