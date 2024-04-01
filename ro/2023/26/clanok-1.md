@@ -40,6 +40,14 @@ Opatrenie Ministerstva financií Slovenskej republiky z 1. decembra 2010 č. MF/
 
 - 7. V § 13 ods. 4 sa slová „bankových výpisov“ nahrádzajú slovami „výpisov z účtu v banke“.
 
+- 8. Poznámky pod čiarou k odkazom 12 až 14 znejú:
+
+- „<sup>12</sup>) Napríklad zákon č. 314/2001 Z. z. o ochrane pred požiarmi v znení neskorších predpisov, zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 106/2018 Z. z. o prevádzke vozidiel v cestnej premávke a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 201/2022 Z. z. o výstavbe v znení neskorších predpisov.
+
+- <sup>13</sup>) § 43 zákona č. 201/2022 Z. z.
+
+- <sup>14</sup>) § 42 zákona č. 201/2022 Z. z.“.
+
 - 9. Poznámka pod čiarou k odkazu 18 znie:
 
 - „<sup>18</sup>) Napríklad zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, zákon č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov, zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 452/2021 Z. z. o elektronických komunikáciách v znení neskorších predpisov.“.
@@ -132,4 +140,4 @@ Opatrenie Ministerstva financií Slovenskej republiky z 1. decembra 2010 č. MF/
 
   - <sup>24f</sup>) § 152b Zákonníka práce.“.
 
-[Konsolidovane znenie](assets/8e5645e0d36525e2c6a918613453d05c808cd21ecc8d51d2ad259768dd4a57ba.pdf)
+[Konsolidovane znenie](assets/91b5055b5b49f72d173f338520dafdea13bc27d61699e3e73a4308de26fb1d7c.pdf)
