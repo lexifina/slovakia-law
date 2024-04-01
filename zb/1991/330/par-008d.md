@@ -2,7 +2,7 @@
 
 (1) Žiadateľ o jednoduché pozemkové úpravy vykonávané z dôvodu podľa § 2 ods. 1 písm. h) musí v prípravnom konaní preukázať zabezpečenie financovania nákladov spojených s jednoduchými pozemkovými úpravami predložením zmluvy uzatvorenej s fyzickou osobou alebo právnickou osobou podľa § 25 ods. 1.
 
-(2) Budúci účel využitia pozemkov v navrhovanom obvode projektu pozemkových úprav musí byť v súlade s platným územným plánom obce. Ak sa navrhovaný obvod projektu pozemkových úprav nachádza na území obce, ktorá nemá a nie je povinná mať územný plán podľa osobitného predpisu,<sup>6af</sup>) budúci účel využitia pozemkov v navrhovanom obvode projektu pozemkových úprav musí byť odsúhlasený uznesením zastupiteľstva a žiadateľ musí preukázať splnenie podmienok podľa osobitného predpisu.<sup>6ac</sup>)
+(2) Budúci účel využitia pozemkov v navrhovanom obvode projektu pozemkových úprav musí byť v súlade s platným územným plánom obce.<sup>6af</sup>) Ak sa navrhovaný obvod projektu pozemkových úprav nachádza na území obce, ktorá nemá a nie je povinná mať územný plán obce do dátumu podľa osobitného predpisu,<sup>6afa</sup>) budúci účel využitia pozemkov v navrhovanom obvode projektu pozemkových úprav musí byť odsúhlasený uznesením obecného zastupiteľstva a žiadateľ je povinný predložiť súhlas dotknutého orgánu podľa osobitného predpisu.<sup>6ac</sup>)
 
 (3) Pri nepreukázaní účelnosti podľa § 7 ods. 2 písm. a), nepreukázaní záujmu podľa § 7 ods. 2 písm. c), nepreukázaní zabezpečenia financovania nákladov podľa odseku 1 alebo nesplnení podmienok podľa odseku 2 okresný úrad pozemkové úpravy nepovolí.
 
