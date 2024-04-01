@@ -2,9 +2,9 @@
 
 - 1c) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
-- 1d) § 20 až 23 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+- 1d) § 20 až 23 zákona č. 200/2022 Z. z. o územnom plánovaní.
 
-- 1e) § 20 až 22 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 1e) § 20 a 21 zákona č. 200/2022 Z. z.
 
 - 1f) Napríklad zákon č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, vyhláška Ministerstva vnútra Slovenskej republiky č. 9/2009 Z. z., ktorou sa vykonáva zákon o cestnej premávke a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -41,6 +41,10 @@
 - 2cbe) § 611 Občianskeho zákonníka.
 
 - 2cbf) § 11 ods. 4 a 9 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
+
+- 2cbg) Zákon č. 200/2022 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 201/2022 Z. z. v znení zákona č. 205/2023 Z. z.
 
 - 2d) Zákon č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
