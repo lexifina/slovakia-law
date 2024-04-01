@@ -204,7 +204,7 @@
 
 - 21aa) § 126 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
-- 21b) § 20 až 23 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 21b) § 31 zákona č. 200/2022 Z. z. o územnom plánovaní.
 
 - 21c) Nariadenie Rady (ES) č. 1356/96 z 8. júla 1996 o spoločných pravidlách uplatniteľných na vnútrozemskú nákladnú a osobnú vodnú dopravu medzi členskými štátmi z hľadiska slobody poskytovať také dopravné služby (Mimoriadne vydanie Ú. v. EÚ, kap. 6/zv. 2; Ú. v. ES L 175, 13. 7. 1996).
 
