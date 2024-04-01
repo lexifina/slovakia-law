@@ -48,7 +48,9 @@
 
 - 16aa) § 18 ods. 1 zákona č. 261/2002 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov.
 
-- 16b) § 140a ods. 1 písm. a) zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
+- 16b) § 15 zákona č. 200/2022 Z. z. o územnom plánovaní.
+
+- § 140a ods. 1 písm. a) zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
 
 - 16ba) § 140b zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
 
