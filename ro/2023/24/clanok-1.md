@@ -40,6 +40,12 @@ Opatrenie Ministerstva financií Slovenskej republiky zo 14. novembra 2007 č. M
 
 - „<sup>17</sup>) § 22 ods. 5 zákona č. 595/2003 Z. z.“.
 
+- 7. Poznámky pod čiarou k odkazom 20 a 21 znejú:
+
+- „<sup>20</sup>) § 43 zákona č. 201/2022 Z. z. o výstavbe.
+
+- <sup>21</sup>) § 42 zákona č. 201/2022 Z. z.“.
+
 - 8. V § 20 ods. 5 tretej vete sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „ak sa rozdiel neuhrádza.“ a v štvrtej vete sa za slovo „skupiny“ vkladajú slová „07 – Oprávky k dlhodobému nehmotnému majetku alebo“.
 
 - 9. V poznámke pod čiarou k odkazu 25 sa citácia „§ 10 ods. 3 zákona č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov“ nahrádza citáciou „§ 11 zákona č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov“.
@@ -134,4 +140,4 @@ Opatrenie Ministerstva financií Slovenskej republiky zo 14. novembra 2007 č. M
 
 - 34. V prílohe v účtovej triede 4 sa vypúšťajú slová „414 – Oceňovacie rozdiely z precenenia majetku a záväzkov“.
 
-[Konsolidovane znenie](assets/1965d95a6c51bd30de80fd1d48fb77267414c3b7bbc090b442ca9bbc08ecc34e.pdf)
+[Konsolidovane znenie](assets/dfb4864cdef24e40ba807091be7abdace86c4e895f7cdac3f33bad17789cc235.pdf)
