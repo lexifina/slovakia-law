@@ -1,1 +1,1 @@
-Príloha č. 2 k zákonu č. 215/1995 Z. z. [Príloha č. 2 k zákonu č. 215/1995 Z. z.](../assets/0f39aff34444a80a6653272925b9473e0cd2f7b08cc9acc659b5ae47334ce928.pdf)
+Príloha č. 2 k zákonu č. 215/1995 Z. z. [Príloha č. 2 k zákonu č. 215/1995 Z. z.](../assets/05d048241c721cf1d2d787c7546727c4a8e4d4f23014a7531f8b55573c947da0.pdf)
