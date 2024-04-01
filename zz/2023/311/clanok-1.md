@@ -86,6 +86,16 @@ Zákon č. 539/2008 Z. z. o podpore regionálneho rozvoja v znení zákona č. 3
 
 - Program rozvoja vyššieho územného celku je strednodobý rozvojový dokument vypracovaný v súlade s cieľmi a prioritami ustanovenými v národnej stratégii a záväznou časťou príslušnej územnoplánovacej dokumentácie regiónu.<sup>6</sup>)“.
 
+- 12. V § 7 odsek 1 znie:
+
+- „(1)
+
+- Program rozvoja vyššieho územného celku je strednodobý rozvojový dokument vypracovaný v súlade s cieľmi a prioritami ustanovenými v národnej stratégii a so záväznou časťou príslušnej Koncepcie územného rozvoja regiónu a územného plánu mikroregiónu.<sup>6</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 6 znie:
+
+  - „<sup>6</sup>) § 18 zákona č. 200/2022 Z. z. o územnom plánovaní.“.
+
 - 13. V § 7 sa za odsek 1 vkladá nový odsek 2, ktorý znie:
 
 - „(2)
@@ -110,7 +120,15 @@ Zákon č. 539/2008 Z. z. o podpore regionálneho rozvoja v znení zákona č. 3
 
   - Doterajší odsek 7 sa označuje ako odsek 8.
 
+- 16. V § 7 ods. 8 sa slová „územnoplánovacej dokumentácie vyššieho územného celku“ nahrádzajú slovami „Koncepcie územného rozvoja regiónu a územného plánu mikroregiónu“.
+
+- 17. V § 8 ods. 1 sa slová „územnoplánovacej dokumentácie obce“ nahrádzajú slovami „územného plánu obce“.
+
 - 18. V § 8 ods. 3 písm. c) sa na konci pripájajú tieto slová: „okrem aktivít a opatrení súvisiacich s výkonom opatrení sociálnoprávnej ochrany detí a sociálnej kurately úradmi práce sociálnych vecí a rodiny, centrami pre deti a rodiny a akreditovanými subjektmi, ktoré nie sú centrami pre deti a rodiny,“.
+
+- 19. V § 8 ods. 6 sa slová „príslušnej územnoplánovacej dokumentácie, ak jej“ nahrádzajú slovami „príslušného územného plánu obce, ak jeho“.
+
+- 20. V § 8a ods. 1 sa slová „územnoplánovacích dokumentácií<sup>6</sup>)“ nahrádzajú slovami „územných plánov<sup>6</sup>)“.
 
 - 21. V § 8a sa za odsek 3 vkladajú nové odseky 4 až 6, ktoré znejú:
 
@@ -148,9 +166,25 @@ Zákon č. 539/2008 Z. z. o podpore regionálneho rozvoja v znení zákona č. 3
 
 - zabezpečuje a koordinuje vypracovanie a realizáciu programu rozvoja vyššieho územného celku a integrovanej územnej stratégie, pravidelne monitoruje a každoročne vyhodnocuje ich plnenie, zabezpečuje súlad s prioritami a cieľmi ustanovenými v národnej stratégii a s územnoplánovacou dokumentáciou,“.
 
+- 24. V § 11 písmeno b) znie:
+
+- „b)
+
+- zabezpečuje a koordinuje vypracovanie a realizáciu programu rozvoja vyššieho územného celku a integrovanej územnej stratégie, pravidelne monitoruje a každoročne vyhodnocuje ich plnenie, zabezpečuje súlad s prioritami a cieľmi ustanovenými v národnej stratégii a s Koncepciou územného rozvoja regiónu a územného plánu mikroregiónu,<sup>6</sup>)“.
+
 - 25. V § 11 písm. j) sa vypúšťa slovo „regionálne“.
 
 - 26. V § 12 písm. b) sa za slová „alebo spoločného programu rozvoja obcí“ vkladajú slová „a spolupracuje pri príprave integrovanej územnej stratégie územia udržateľného mestského rozvoja,“ a slovo „ho“ sa nahrádza slovami „program rozvoja obce alebo spoločný program rozvoja obcí“.
+
+- 27. V § 12 písmeno b) znie:
+
+- „b)
+
+- zabezpečuje a koordinuje vypracovanie a realizáciu programu rozvoja obce alebo spoločného programu rozvoja obcí a spolupracuje pri príprave integrovanej územnej stratégie územia udržateľného mestského rozvoja, pravidelne program rozvoja obce alebo spoločný program rozvoja obcí monitoruje a každoročne do 31. mája zasiela príslušnému vyššiemu územnému celku správu o jeho plnení a zabezpečuje súlad programu rozvoja obce alebo spoločného programu rozvoja obcí s územnými plánmi,<sup>6</sup>) ak jej spracovanie vyžaduje osobitný predpis,<sup>8</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 8 znie:
+
+  - „<sup>8</sup>) Zákon č. 200/2022 Z. z. v znení neskorších predpisov.“.
 
 - 28. V § 13 sa odsek 1 dopĺňa písmenami q) a r), ktoré znejú:
 
