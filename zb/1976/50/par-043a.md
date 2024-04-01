@@ -10,7 +10,7 @@
 
 - b) železničné, lanové a iné dráhy,
 
-- c) vzletové dráhy, pristávacie dráhy a rolovacie dráhy letísk,
+- c) pohybová plocha vrátane jej pásov, odpútacia a dosadacia plocha a plocha konečného priblíženia a vzletu určené na vzlety, pristátia, rolovanie a státie lietadiel,
 
 - d) mosty, nadjazdy, tunely, nadchody a podchody,
 
@@ -20,7 +20,7 @@
 
 - g) diaľkové a miestne rozvody vody alebo pary, úpravne vody, miestne kanalizácie a čistiarne odpadových vôd,
 
-- h) diaľkové a miestne elektronické komunikačné siete a vedenia, telekomunikačné stožiare, transformačné stanice,
+- h) elektronické komunikačné siete a ich vedenia vrátane pasívnej infraštruktúry a pridružených prostriedkov,<sup>1ib</sup>) transformačné stanice,
 
 - i) diaľkové a miestne rozvody elektriny, stožiare, transformačné stanice, televízne káblové rozvody,
 

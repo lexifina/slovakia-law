@@ -1,38 +1,20 @@
-- 1) § 6 zákona č. 17/1992 Zb. o životnom prostredí.
-
-- 1a) § 5 zákona č. 17/1992 Zb.
-
-- 1b) § 4 zákona č. 17/1992 Zb.
-
-- 1c) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
-
-- 1ca) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
-
-- 1d) Zákon Národnej rady Slovenskej republiky č. 129/1996 Z. z. o niektorých opatreniach na urýchlenie prípravy výstavby diaľnic a ciest pre motorové vozidlá.
-
-- 1e) Zákon č. 171/1998 Z. z. o prístupe k informáciám o životnom prostredí.
-
-- Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 273/1998 Z. z. o úhradách za sprístupnenie informácií o životnom prostredí.
-
-- 1f) Zákon č. 523/2003 Z. z. o verejnom obstarávaní a o zmene zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov v znení zákona č. 82/2005 Z. z.
-
-- 1fa) § 9 ods. 5 zákona č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov.
-
-- 1fb) § 9 zákona č. 24/2006 Z. z.
-
 - 1fc) § 1 ods. 3, 8, 11 a 12 zákona č. 175/1999 Z. z. o niektorých opatreniach týkajúcich sa prípravy významných investícií a o doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 1fd) § 24 ods. 3 až 5 a 9 až 12, § 40a až § 40c zákona č. 200/2022 Z. z. o územnom plánovaní v znení neskorších predpisov.
 
 - 1g) § 24 až 27 zákona č. 24/2006 Z. z. v znení neskorších predpisov.
 
 - 1ga) Zákon č. 24/2006 Z. z. v znení neskorších predpisov.
 
+- 1gb) § 2 písm. f) bod 1 zákona č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 1h) § 27 zákona č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení zákona Slovenskej národnej rady č. 498/1991 Zb.
 
 - 1ha) § 5 ods. 1 zákona č. 351/2011 Z. z. v znení neskorších predpisov.
 
-- 1i) Napríklad zákon č. 309/1991 Zb. o ochrane ovzdušia pred znečisťujúcimi látkami (zákon o ovzduší), zákon č. 44/1988 Zb., zákon č. 195/2000 Z. z. o telekomunikáciách, zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 58/1997 Z. z., zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov, zákon č. 281/1997 Z. z. o vojenských obvodoch a zákon, ktorým sa mení zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 70/1998 Z. z. o energetike a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii.
-
 - 1ia) § 27 zákona č. 319/2002 Z. z. o obrane Slovenskej republiky v znení zákona č. 330/2003 Z. z.
+
+- 1ib) § 2 ods. 1, 12, 13, 15, 16, 17 a 28 zákona č. 452/2021 Z. z. o elektronických komunikáciách v znení zákona č. 287/2023 Z. z.
 
 - 1j) Príloha I nariadenia Európskeho parlamentu a Rady (EÚ) č. 305/2011 z 9. marca 2011, ktorým sa ustanovujú harmonizované podmienky uvádzania stavebných výrobkov na trh a ktorým sa zrušuje smernica Rady 89/106/EHS (Ú. v. EÚ L 88, 4. 4. 2011).
 
@@ -76,6 +58,8 @@
 
 - § 114a ods. 1 zákona č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení zákona č. 312/2018 Z. z.
 
+- 4aaa) § 2 ods. 15 až 17 zákona č. 452/2021 Z. z. v znení neskorších predpisov.
+
 - 4ab) § 26a zákona č. 39/2013 Z. z. v znení zákona č. 193/2018 Z. z.
 
 - § 19a zákona č. 79/2015 Z. z. v znení zákona č. 312/2018 Z. z.
@@ -106,47 +90,9 @@
 
 - 10) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
-- 10a) § 128 ods. 2 Občianskeho zákonníka.
+- 10j) § 2 písm. e) zákona č. 222/2022 Z. z. o štátnej podpore nájomného bývania a o zmene a doplnení niektorých zákonov.
 
-- 10b) Zákon č. 169/1949 Zb. o vojenských obvodoch,
-
-- zákon č. 40/1961 Zb. o obrane Československej socialistickej republiky v znení zákona č. 101/1964 Zb., zákonného opatrenia Predsedníctva Federálneho zhromaždenia č. 17/1976 Zb. a zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z.,
-
-- vládne nariadenie č. 42/1961 Zb. o vyvlastnení pre účely obrany v znení vládneho nariadenia č. 44/1963 Zb.
-
-- 10c) Zákon č. 79/1957 Zb. o výrobe, rozvode a spotrebe elektriny (elektrizačný zákon).
-
-- 10d) Zákon č. 67/1960 Zb. o výrobe, rozvode a využití vyhrievacích plynov (Plynárenský zákon) v znení zákona č. 64/1962 Zb. a zákona č. 174/1968 Zb.
-
-- 10e) Zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení zákona č. 27/1984 Zb. (úplné znenie č. 55/1984 Zb.).
-
-- 10f) Zákon č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení zákona Slovenskej národnej rady č. 498/1991 Zb.,
-
-- zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení zákona Slovenskej národnej rady č. 499/1991 Zb. a zákona Národnej rady Slovenskej republiky č. 154/1995 Z. z.
-
-- 10g) Zákon č. 138/1973 Zb. o vodách (vodný zákon) v znení zákona Národnej rady Slovenskej republiky č. 238/1993 Z. z.
-
-- 10h) § 11 zákona č. 513/2009 Z. z. o dráhach a o zmene a doplnení niektorých zákonov.
-
-- 10i) Zákon Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti v znení zákona Národnej rady Slovenskej republiky č. 200/1994 Z. z.
-
-- 10j) Vládne nariadenie č. 29/1959 Zb. o oprávneniach k cudzím nehnuteľnostiam pri stavbách a prevádzke podzemných potrubí pre pohonné látky a ropu.
-
-- 10ja) § 1 ods. 2 a 3 zákona č. 175/1999 Z. z. o niektorých opatreniach týkajúcich sa prípravy významných investícií a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 10jb) § 31 zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 10jba) § 4a ods. 1 zákona č. 175/1999 Z. z. o niektorých opatreniach týkajúcich sa významných investícií a o zmene a doplnení niektorých zákonov v znení zákona č. 154/2015 Z. z.
-
-- 10jc) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
-
-- 10k) § 2 až 15, § 18 a 19 vyhlášky č. 465/1991 Zb.
-
-- 10ka) § 17 ods. 3 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom.
-
-- 10l) § 151n, 151o, 151p a 151r Občianskeho zákonníka.
-
-- 10m) Napríklad zákon č. 403/1990 Zb. o zmiernení následkov niektorých majetkových krívd v znení neskorších predpisov, zákon č. 87/1991 Zb. o mimosúdnych rehabilitáciách v znení neskorších predpisov, zákon č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 282/1993 Z. z. o zmiernení niektorých majetkových krívd spôsobených cirkvám a náboženským spoločnostiam.
+- 10ja) § 3 zákona č. 371/2021 Z. z. o významných investíciách.
 
 - 10ma) Zákon č. 245/2003 Z. z.
 
@@ -201,6 +147,8 @@
 - 15g) § 29 ods. 1 písm. b) zákona č. 24/2006 Z. z.
 
 - 15h) § 22 ods. 1 zákona č. 24/2006 Z. z.
+
+- 15i) Napríklad zákon č. 364/2004 Z. z. v znení neskorších predpisov, zákon č. 7/2010 Z. z. o ochrane pred povodňami v znení neskorších predpisov.
 
 - 17) § 2 ods. 1 zákona Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí.
 

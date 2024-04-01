@@ -1,3 +1,7 @@
+## SIEDMA ČASŤ
+
+## SÚSTAVA INFORMÁCIÍ A EVIDENCIA
+
 # § 129a Register záujmových združení vlastníkov reklamných stavieb
 
 (1) Register záujmových združení vlastníkov reklamných stavieb je elektronickou evidenciou záujmových združení právnických osôb, ktoré majú v predmete činnosti presadzovanie spoločenskej zodpovednosti ako predmetu verejného záujmu, ktoré majú záujem byť účastníkom v konaní, v ktorom sa nariaďuje odstránenie nepovolenej reklamnej stavby; je súčasťou informačného systému. Registrácia je dobrovoľná.

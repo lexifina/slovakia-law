@@ -2,7 +2,7 @@
 
 (1) Jednoduché stavby sú
 
-- a) bytové budovy, ktorých zastavaná plocha nepresahuje 300 m<sup>2</sup>, majú jedno nadzemné podlažie, môžu mať aj jedno podzemné podlažie a podkrovie,
+- a) bytové budovy, ktorých zastavaná plocha nepresahuje 300 m<sup>2</sup>, majú jedno nadzemné podlažie a môžu mať aj jedno podzemné podlažie a podkrovie, alebo majú dve nadzemné podlažia s plochou strechou a môžu mať aj jedno podzemné podlažie,
 
 - b) stavby na individuálnu rekreáciu,
 
@@ -16,7 +16,7 @@
 
 (2) Stavby uvedené v odseku 1 písm. c) a e) sa považujú za jednoduché stavby iba vtedy, ak z hľadiska požiarnej bezpečnosti je pre ich užívanie počet osôb určený podľa technickej normy, najviac však 30 osôb.
 
-(3) Za jednoduché stavby sa nepovažujú stavby skladov horľavín a výbušnín, stavby pre civilnú ochranu, stavby pre požiarnu ochranu, stavby uránového priemyslu a jadrových zariadení a stavby čerpacích staníc kvapalných palív, skvapalnených plynov alebo stlačených plynov pre pohon motorových vozidiel, stavby prečerpávacích staníc horľavých kvapalín, horľavých plynov a stavby plniarní tlakových nádob horľavým plynom alebo horenie podporujúcim plynom.
+(3) Za jednoduché stavby sa nepovažujú stavby skladov horľavín a výbušnín, stavby pre civilnú ochranu, stavby pre požiarnu ochranu, stavby uránového priemyslu a jadrových zariadení a stavby súvisiace s jadrovým zariadením<sup>1gb</sup>) a stavby čerpacích staníc kvapalných palív, skvapalnených plynov alebo stlačených plynov pre pohon motorových vozidiel, stavby prečerpávacích staníc horľavých kvapalín, horľavých plynov a stavby plniarní tlakových nádob horľavým plynom alebo horenie podporujúcim plynom.
 
 (4) Zmenami stavieb pred ich dokončením sa rozumejú zmeny vo vzťahu k stavebnému povoleniu, prípadne vo vzťahu k dokumentácii stavby overenej stavebným úradom v stavebnom konaní.
 
@@ -26,7 +26,7 @@
 
 - b) prístavby, ktorými sa stavby pôdorysne rozširujú a ktoré sú navzájom prevádzkovo spojené s doterajšou stavbou,
 
-- c) stavebné úpravy, pri ktorých sa zachováva vonkajšie pôdorysné aj výškové ohraničenie stavby.
+- c) stavebné úpravy, pri ktorých sa zachováva vonkajšie pôdorysné aj výškové ohraničenie stavby, pričom v prípade líniových stavieb sa za stavebné úpravy považuje aj výmena, zmena alebo doplnenie prvkov tvoriacich líniovú stavbu.
 
 (6) Stavebné práce za účelom uzavretia skládky odpadov alebo jej časti alebo na vykonanie jej rekultivácie sa považujú za zmenu dokončenej stavby, ak neboli povolené v stavebnom povolení stavby skládky odpadov.
 
@@ -46,9 +46,11 @@
 
 - d) nástupné ostrovčeky hromadnej verejnej dopravy, priechody cez chodníky a na susedné pozemky, priepusty a pod,
 
-- e) reklamné stavby, na ktorých najväčšia informačná plocha je menšia ako 3 m<sup>2</sup>.
+- e) reklamné stavby, na ktorých najväčšia informačná plocha je menšia ako 3 m<sup>2</sup>,
 
-(9) Za drobné stavby sa nepovažujú stavby skladov horľavín a výbušnín, stavby pre civilnú ochranu, stavby pre požiarnu ochranu, stavby uránového priemyslu a jadrových zariadení, vodné stavby, stavby čerpacích staníc kvapalných palív, skvapalnených plynov alebo stlačených plynov pre pohon motorových vozidiel, stavby prečerpávacích staníc horľavých kvapalín, horľavých plynov a stavby plniarní tlakových nádob horľavým plynom alebo horenie podporujúcim plynom.
+- f) nabíjacie stanice pre elektromobily s výkonom do 25 kW vrátane odberného elektrického zariadenia pre nabíjaciu stanicu jej vnútornej inštalácie; to neplatí pre nabíjacie stanice umiestnené v stavbe, ak celkový výkon nabíjacích staníc je viac ako 25 kW, alebo ak umiestnením ďalšej nabíjacej stanice v stavbe by celkový výkon umiestnených nabíjacích staníc presiahol 25kW.
+
+(9) Za drobné stavby sa nepovažujú stavby skladov horľavín a výbušnín, stavby pre civilnú ochranu, stavby pre požiarnu ochranu, stavby uránového priemyslu a jadrových zariadení a stavby súvisiace s jadrovým zariadením,<sup>1gb</sup>) vodné stavby, stavby čerpacích staníc kvapalných palív, skvapalnených plynov alebo stlačených plynov pre pohon motorových vozidiel, stavby prečerpávacích staníc horľavých kvapalín, horľavých plynov a stavby plniarní tlakových nádob horľavým plynom alebo horenie podporujúcim plynom.
 
 (10) Stavbami pre obranu štátu sú stavby na zabezpečenie obrany štátu, zvrchovanosti a územnej celistvosti štátu, nedotknuteľnosti hraníc, zachovávania mieru, plnenia záväzkov vyplývajúcich z medzinárodných zmlúv o spoločnej obrane proti napadnutiu a z ďalších medzinárodných zmlúv vojenskej povahy, zabezpečenia nedotknuteľnosti vzdušného priestoru a spravodajského zabezpečenia obrany podľa zákona, ktoré slúžia na plnenie úloh ministerstva obrany, ozbrojeným silám Slovenskej republiky, rozpočtovým organizáciám, príspevkovým organizáciám, akciovým spoločnostiam a štátnym podnikom v zakladateľskej alebo zriaďovateľskej pôsobnosti ministerstva obrany.
 
@@ -60,7 +62,7 @@
 
 (14) Stavbami v povrchových lomoch a skrývkach sú stavby vnútri hraníc vymedzených čiarou skutočne realizovanej skrývky alebo uskutočnenej ťažby, prípadne v území vystavenom priamym účinkom ťažby (napr. trhacích prác), ak pozemky neboli rekultivované.
 
-(15) Na stavby jadrových energetických zariadení sa vzťahujú osobitné predpisy.<sup>4</sup>)
+(15) Na stavby jadrových zariadení a stavby súvisiace s jadrovým zariadením<sup>1gb</sup>) sa vzťahujú osobitné predpisy.<sup>4</sup>)
 
 (16) Udržiavacími prácami, pri ktorých nie je potrebné ani ohlásenie (bežné udržiavacie práce), sú najmä
 
