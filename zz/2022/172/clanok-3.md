@@ -103,3 +103,23 @@ Zákon č. 608/2003 Z. z. o štátnej správe pre územné plánovanie, stavebn�
 - je správcom a prevádzkovateľom informačného systému územného plánovania a výstavby,“.
 
 - 9. V § 2 sa vypúšťa písmeno c).
+
+- 11. V § 4 ods. 1 sa vypúšťajú písmená a) a b).
+
+  - Zrušuje sa označenie písmena c).
+
+- 12. V § 4 ods. 2 sa slová „v odseku 1 písm. c)“ nahrádzajú slovami „v odseku 1“.
+
+- 14. Za § 6 sa dopĺňa § 7, ktorý vrátane nadpisu znie:
+
+- „§ 7
+
+- Prechodné ustanovenia k úpravám účinným od 1. apríla 2024
+
+- (1)
+
+- Práva a povinnosti vyplývajúce zo štátnozamestnaneckých pomerov štátnych zamestnancov, ktorí k 31. marcu 2024 vykonávali štátnu službu na okresnom úrade v sídle kraja na úsekoch územného plánovania a stavebného poriadku, prechádzajú na Úrad pre územné plánovanie a výstavbu Slovenskej republiky.
+
+- (2)
+
+- Práva a povinnosti vyplývajúce z pracovnoprávnych vzťahov zamestnancov okresných úradov v sídle kraja, ktorí k 31. marcu 2024 vykonávali verejnú službu na úsekoch územného plánovania a stavebného poriadku, prechádzajú na Úrad pre územné plánovanie a výstavbu Slovenskej republiky.“.
