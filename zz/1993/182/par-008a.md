@@ -36,6 +36,6 @@
 
 - b) vykonať nevyhnutné činnosti smerujúce k ukončeniu výkonu správy a jej odovzdaniu novému správcovi bez zbytočného odkladu po tom, ako bol správca vlastníkmi zvolený alebo vzniknutému spoločenstvu; ak správca nie je zvolený alebo spoločenstvo nevzniklo do šiestich mesiacov od nadobudnutia právoplatnosti rozhodnutia o vyčiarknutí zo zoznamu správcov, vzniká spoločenstvo zo zákona a doterajší správca je povinný použiť primerane postup podľa odseku 8,
 
-- c) do uzavretia zmluvy o výkone správy s novým správcom alebo vzniku spoločenstva zabezpečovať prevádzku bytového domu podľa § 2 ods. 8 a zabezpečiť odstránenie chyby alebo poruchy podľa § 9 ods. 4, najviac po dobu šesť mesiacov od nadobudnutia právoplatnosti rozhodnutia o vyčiarknutí zo zoznamu správcov.
+- c) do uzavretia zmluvy o výkone správy s novým správcom alebo vzniku spoločenstva zabezpečovať prevádzku bytového domu podľa § 2 ods. 1 písm. k) a zabezpečiť odstránenie chyby alebo poruchy podľa § 9 ods. 4, najviac po dobu šesť mesiacov od nadobudnutia právoplatnosti rozhodnutia o vyčiarknutí zo zoznamu správcov.
 
 (11) Ustanovenia odsekov 9 a 10 sa nevzťahujú na zmluvy o výkone správy budov, ktoré nemajú charakter bytového domu podľa § 24 ods. 1.
