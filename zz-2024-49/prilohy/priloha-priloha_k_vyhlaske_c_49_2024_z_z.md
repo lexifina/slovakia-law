@@ -1,0 +1,1 @@
+Príloha k vyhláške č. 49/2024 Z. z. [Vzor – ŽIADOSŤ o zápis do registra odborne spôsobilých osôb a na overenie odbornej spôsobilosti](../assets/bb78606278c19f1e0c7aed2b0f4dbfd6fe8ac13190e24cdef03b8c9cf12fba06.pdf)
