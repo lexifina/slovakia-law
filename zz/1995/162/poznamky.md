@@ -70,6 +70,8 @@
 
 - 16) § 82 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
+- 16a) § 139 ods. 1 zákona č. 50/1976 Zb.
+
 - 17) § 7 ods. 6 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. v znení neskorších predpisov.
 
 - 19) § 21 až 24 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. v znení neskorších predpisov.
