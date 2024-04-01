@@ -30,21 +30,19 @@
 
 - 8e) Napríklad nariadenie Rady (ES) č. 1083/2006 z 11. júla 2006, ktorým sa ustanovujú všeobecné ustanovenia o Európskom fonde regionálneho rozvoja, Európskom sociálnom fonde a Kohéznom fonde a ktorým sa zrušuje nariadenie (ES) č. 1260/1999 (Ú. v. EÚ L 210, 31. 7. 2006) v platnom znení, zákon č. 528/2008 Z. z. o pomoci a podpore poskytovanej z fondov Európskej únie v znení neskorších predpisov.
 
-- 8f) Napríklad zákon č. 50/1976 Zb. v znení neskorších predpisov, zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 543/2002 Z. z. v znení neskorších predpisov, zákon č. 364/2004 Z. z. v znení neskorších predpisov.
+- 8f) Napríklad zákon č. 200/2022 Z. z. v znení neskorších predpisov, zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 543/2002 Z. z. v znení neskorších predpisov, zákon č. 364/2004 Z. z. v znení neskorších predpisov.
 
-- 9) § 19b ods. 1 písm. a) zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
+- 9) § 29 ods. 2 zákona č. 200/2022 Z. z.
 
-- 9a) § 30 a 31 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 9a) § 6 ods. 1 zákona č. 200/2022 Z. z.
 
 - 9c) § 65 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
 
-- 13) § 21 ods. 1 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 13a) § 31 zákona č. 200/2022 Z. z.
 
-- 13a) § 8 ods. 2 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 14) § 18 ods. 5 zákona č. 200/2022 Z. z.
 
-- 14) § 31 ods. 2 zákona č. 50/1976 Zb. v znení neskorších predpisov.
-
-- 15) § 21 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 15) § 31 ods. 5 zákona č. 200/2022 Z. z.
 
 - 16) Napríklad § 11 zákona č. 223/2001 Z. z. v znení zákona č. 24/2004 Z. z., § 69 a 70 zákona č. 364/2004 Z. z., § 24 zákona č. 478/2002 Z. z., § 55 zákona č. 543/2002 Z. z., § 7 zákona č. 245/2003 Z. z.
 
@@ -67,8 +65,6 @@
 - 22b) § 47 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 22c) § 139 ods. 3 zákona č. 50/1976 Zb. v znení neskorších predpisov.
-
-- 23) § 126 ods. 4 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 24) § 14 zákona č. 71/1967 Zb.
 
@@ -108,6 +104,6 @@
 
 - 40) § 19b zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
-- 40a) Napríklad zákon č. 50/1976 Zb. v znení neskorších predpisov, zákon č. 223/2001 Z. z. v znení neskorších predpisov, zákon č. 543/2002 Z. z. v znení neskorších predpisov, zákon č. 245/2003 Z. z. v znení neskorších predpisov, zákon č. 364/2004 Z. z. v znení neskorších predpisov, zákon č. 137/2010 Z. z. o ovzduší.
+- 40a) Napríklad zákon č. 200/2021 Z. z., zákon č. 223/2001 Z. z. v znení neskorších predpisov, zákon č. 543/2002 Z. z. v znení neskorších predpisov, zákon č. 245/2003 Z. z. v znení neskorších predpisov, zákon č. 364/2004 Z. z. v znení neskorších predpisov, zákon č. 137/2010 Z. z. o ovzduší.
 
 - 40aa) § 5 ods. 4 písm. k) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení zákona č. 172/2011 Z. z.
