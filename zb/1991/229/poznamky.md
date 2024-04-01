@@ -44,13 +44,13 @@
 
 - Zákon č. 17/1992 Zb. o ochrane životného prostredia. § 1 ods. 3 písm. g) vyhlášky Ministerstva lesného a vodného hospodárstva Slovenskej socialistickej republiky č. 14/1978 Zb. o kategorizácii lesov, spôsoboch hospodárenia a hospodárskej úprave lesov v znení neskorších predpisov.
 
-- 10b) § 108 ods. 2 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+- 10b) Zákon č. 282/2015 Z. z. o vyvlastňovaní pozemkov a stavieb a o nútenom obmedzení vlastníckeho práva k nim a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 10c) § 14 ods. 4 zákona Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov.
 
 - 10d) Napríklad § 62 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
 
-- 10e) § 27 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 10e) § 5 písm. w) zákona č. 200/2022 Z. z. o územnom plánovaní.
 
 - 10f) Zákon č. 193/2001 Z. z. o podpore na zriadenie priemyselných parkov a o doplnení zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov.
 
