@@ -1,0 +1,1 @@
+Príloha č. 2 k vyhláške č. 54/2024 Z. z. [Vzor formulára na podnet, pripomienku a stanovisko k procesu obstarávania územnoplánovacej dokumentácie](../assets/6221b9363249816c35655a25bf9a48db29e6e2cbe42348e27b39c0a4927406a5.pdf)

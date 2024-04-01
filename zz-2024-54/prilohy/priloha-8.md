@@ -1,0 +1,1 @@
+Príloha č. 8 k vyhláške č. 54/2024 Z. z. [Vzor formulára žiadosti o poskytnutie dotácie na spracovanie územnoplánovacej dokumentácie](../assets/94a97d042947dbc7b33738a60ccc2edcf8ee0aee89109592e80b49a13bb87f50.pdf)

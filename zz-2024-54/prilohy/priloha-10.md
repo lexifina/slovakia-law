@@ -1,0 +1,1 @@
+Príloha č. 10 k vyhláške č. 54/2024 Z. z. [Vzor formulára na zápis zmien a doplnkov územnoplánovacej dokumentácie podľa § 40 ods. 5 zákona č. 200/2022 Z. z. o územnom plánovaní v znení zákona č. 205/2023 Z. z.](../assets/fd4c8ca490ea81254717edc640aec752fe9a660931c2d05b2f265956bd5be474.pdf)

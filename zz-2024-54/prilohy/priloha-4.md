@@ -1,0 +1,1 @@
+Príloha č. 4 k vyhláške č. 54/2024 Z. z. [Vzor formulára na predkladanie správy o prerokovaní návrhu územnoplánovacej dokumentácie](../assets/069ec8450f7bf471728c4a0161b0635c89b5b3ec6aed43819c016f19823e3302.pdf)
