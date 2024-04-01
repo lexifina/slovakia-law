@@ -4,7 +4,7 @@
 
 - 1b) § 5 ods. 1 zákona č. 503/2001 Z. z. o podpore regionálneho rozvoja v znení zákona č. 351/2004 Z. z.
 
-- 1c) § 8 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 1c) § 18 zákona č. 200/2022 Z. z. o územnom plánovaní.
 
 - 1d) Zákon č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov.
 
