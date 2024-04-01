@@ -42,9 +42,11 @@
 
 - 17) § 23 zákona č. 61/1977 Zb. v znení neskorších predpisov.
 
-- 18) § 108 ods. 2 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 18) Zákon č. 282/2015 Z. z. o vyvlastňovaní pozemkov a stavieb a o nútenom obmedzení vlastníckeho práva k nim a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 18a) § 14 ods. 4 zákona Slovenskej národnej rady č. 330/1991 Zb.
+
+- 18b) § 20 zákona č. 200/2022 Z. z. o územnom plánovaní.
 
 - 19) Zákon č. 281/1997 Z. z. o vojenských obvodoch a zákon, ktorým sa mení zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -66,7 +68,7 @@
 
 - 24) Napríklad § 62 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
 
-- 25) § 27 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 25) § 5 písm. w) zákona č. 200/2022 Z. z.
 
 - 26) Zákon č. 193/2001 Z. z. o podpore na zriadenie priemyselných parkov a o doplnení zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov.
 
