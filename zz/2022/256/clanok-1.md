@@ -4508,6 +4508,10 @@ Zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákono
 
 - uverejňuje každoročne do 31. júla správu o výsledkoch monitorovania bezpečnosti dodávok plynu a o prijatých a predpokladaných opatreniach na riešenie bezpečnosti dodávok plynu; správu uverejňuje vo vestníku ministerstva a na webovom sídle ministerstva a zasiela Komisii,“.
 
+- 208. Poznámka pod čiarou k odkazu 87a znie:
+
+- „<sup>87a</sup>) Čl. 4 ods. 3, 5 a 6 a čl. 41 ods. 1 a 5 nariadenia Komisie (EÚ) 2017/2196 z 24. novembra 2017, ktorým sa stanovuje sieťový predpis o stavoch núdze a obnovy prevádzky v sektore elektrickej energie (Ú. v. EÚ L 312, 28. 11. 2017) v platnom znení.“.
+
 - 209. V § 88 sa odsek 2 dopĺňa písmenami z) až ab), ktoré znejú:
 
 - „z)
