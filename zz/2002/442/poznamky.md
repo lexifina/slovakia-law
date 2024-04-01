@@ -94,7 +94,7 @@
 
 - 12c) § 24 ods. 1 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z.
 
-- 13) § 108 až 116 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 13) Zákon č. 282/2015 Z. z. o vyvlastňovaní pozemkov a stavieb a o nútenom obmedzení vlastníckeho práva k nim a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 14) Zákon Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov.
 
@@ -127,6 +127,10 @@
 - 26) § 6 zákona Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov.
 
 - 26a) § 11 až 14 zákona č. 364/2004 Z. z.
+
+- 26b) § 20 zákona č. 200/2022 Z. z.
+
+- 26c) § 21 zákona č. 200/2022 Z. z.
 
 - 27) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
 
