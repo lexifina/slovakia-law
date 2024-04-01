@@ -24,11 +24,11 @@
 
 - 7) § 20 až 23 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
-- 7a) § 9 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení zákona č. 479/2005 Z. z.
+- 7a) § 20 zákona č. 200/2022 Z. z. o územnom plánovaní.
 
 - 7aa) § 29 ods. 12 a § 37 ods. 1 zákona č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov v znení zákona č. 314/2014 Z. z.
 
-- 7b) § 33 ods. 2 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 7b) § 21 zákona č. 200/2022 Z. z.
 
 - 7c) § 32 písm. c) zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
