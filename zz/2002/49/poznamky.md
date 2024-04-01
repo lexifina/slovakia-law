@@ -46,6 +46,8 @@
 
 - 21) Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
+- 21a) § 18 zákona č. 200/2022 Z. z. v znení zákona č. 205/2023 Z. z.
+
 - 22) Vyhláška ministra zahraničných vecí č. 15/1980 Zb. o Dohovore o opatreniach na zákaz a zamedzenie nedovoleného dovozu, vývozu a prevodu vlastníctva kultúrnych statkov.
 
 - 23) § 17 zákona č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
@@ -64,7 +66,7 @@
 
 - 28) § 133 Občianskeho zákonníka.
 
-- 28a) § 22 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 28a) § 15 ods. 1 zákona č. 200/2022 Z. z.
 
 - 29) § 420a Občianskeho zákonníka.
 
