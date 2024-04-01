@@ -1,0 +1,1 @@
+Richard Raši v. r.
