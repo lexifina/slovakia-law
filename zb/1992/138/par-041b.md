@@ -8,11 +8,9 @@
 
 (2) Dôležitými písomnosťami sú najmä
 
-- a) výzvy na doplnenie alebo na odstránenie iného nedostatku žiadosti o zapísanie do zoznamu alebo do registra,
+- a) rozhodnutia o neuznaní dokladu, o nezapísaní uchádzača do zoznamu alebo do registra, ako aj o vyčiarknutí zo zoznamu alebo z registra,
 
-- b) rozhodnutia o neuznaní dokladu, o nezapísaní uchádzača do zoznamu alebo do registra, ako aj o vyčiarknutí zo zoznamu alebo z registra,
-
-- c) predvolania na disciplinárne konanie a disciplinárne rozhodnutia.
+- b) predvolania na disciplinárne konanie a disciplinárne rozhodnutia.
 
 (3) Ak adresát bezdôvodne odoprel prijať poštovú zásielku, považuje sa za doručenú dňom, keď k odopretiu prevzatia došlo a odopretie vyznačil doručovateľ na obálke alebo na doručenke.
 
@@ -25,3 +23,5 @@
 (7) Údaje na doručenke sa považujú za správne až dovtedy, kým sa nepreukáže opak.
 
 (8) Doručovať možno aj elektronicky s použitím zaručeného elektronického podpisu s časovou pečiatkou.
+
+(9) Doručovanie písomností, ktoré nemajú charakter dôležitých písomností podľa odseku 2, je možné zasielať do elektronickej schránky adresáta. V prípade pochybností môže o charaktere dôležitej písomnosti rozhodnúť valné zhromaždenie komory.
