@@ -1,6 +1,6 @@
 # § 43i Stavenisko
 
-(1) Stavenisko je priestor, ktorý je počas uskutočňovania stavby určený na vykonávanie stavebných prác na stavbe, na uskladňovanie stavebných výrobkov a dopravných a iných zariadení potrebných na uskutočňovanie stavby a na umiestnenie zariadenia staveniska; zahŕňa stavebný pozemok, prípadne v určenom rozsahu aj iné pozemky alebo ich časti.
+(1) Stavenisko je priestor, ktorý je počas uskutočňovania stavby určený na vykonávanie stavebných prác na stavbe, na uskladňovanie stavebných výrobkov a dopravných a iných zariadení potrebných na uskutočňovanie stavby a na umiestnenie zariadenia staveniska; zahŕňa stavebný pozemok, prípadne v určenom rozsahu aj iné pozemky alebo ich časti, ako aj pozemky pod všetkými stavebnými objektmi povoľovaného súboru stavieb.
 
 (2) Zariadením staveniska sa rozumejú stavby a zariadenia, ktoré počas uskutočňovania stavby, zmeny stavby alebo udržiavacích prác slúžia prevádzkovým účelom, výrobným účelom, skladovacím účelom a sociálnym účelom; týmto účelom slúžia dočasne.
 

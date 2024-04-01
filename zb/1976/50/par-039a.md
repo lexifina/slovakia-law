@@ -2,7 +2,7 @@
 
 (1) Rozhodnutím o umiestnení stavby sa určuje stavebný pozemok, umiestňuje sa stavba na ňom, určujú sa podmienky na umiestnenie stavby, určujú sa požiadavky na obsah projektovej dokumentácie a čas platnosti rozhodnutia. Umiestnenie stavby sa vyznačí v grafickej prílohe územného rozhodnutia.
 
-(2) V podmienkach na umiestnenie stavby sa určia požiadavky
+(2) Pokiaľ tento zákon neustanovuje inak, v podmienkach na umiestnenie stavby sa určia požiadavky
 
 - a) na ochranu prírody a krajiny a na zabezpečenie starostlivosti o životné prostredie,
 
@@ -24,6 +24,8 @@
 
 - e) reklamné stavby.
 
-(4) Stavebný úrad spojí územné konanie o umiestnení stavby so stavebným konaním pri jednoduchej stavbe alebo jej prístavbe a nadstavbe, ak sú podmienky umiestnenia jednoznačné vzhľadom na pomery v území; pri ostatných stavbách tak urobí za predpokladu, že podmienky na ich umiestnenie vyplývajú z územného plánu zóny.
+(4) Stavebný úrad spojí na žiadosť stavebníka územné konanie so stavebným konaním pri jednoduchej stavbe alebo jej prístavbe a nadstavbe; pri ostatných stavbách tak urobí za predpokladu, že podmienky na ich umiestnenie vyplývajú z územného plánu zóny alebo zo záväzného stanoviska orgánu územného plánovania.<sup>1fd</sup>)
 
 (5) Stavebný úrad môže v rozhodnutí o umiestnení jednoduchej stavby, jej prístavby alebo nadstavby určiť, že na jej uskutočnenie postačí ohlásenie podľa § 55 ods. 2. Nevzťahuje sa to na stavby povoľované špeciálnymi, vojenskými a inými stavebnými úradmi podľa § 120 a 121.
+
+(6) V prípade stavieb jadrového zariadenia a stavieb súvisiacich s jadrovým zariadením<sup>1gb</sup>) sa namiesto požiadaviek podľa odseku 2 písm. b) v podmienkach na umiestnenie stavby určí stavebný pozemok a v jeho rámci sa vymedzí možná zastavaná plocha ohraničujúca plochu, v ktorej možno umiestniť stavbu s uvedením odstupových vzdialeností od hraníc pozemku a od susedných stavieb, najvyššia prípustná výška stavby, napojenie na verejné technické a dopravné vybavenie územia. V rámci stanovených podmienok sa jednotlivé stavby umiestnia pri povoľovaní týchto stavieb v stavebnom konaní.
