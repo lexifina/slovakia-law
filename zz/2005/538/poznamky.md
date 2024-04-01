@@ -62,9 +62,11 @@
 
 - 28) Napríklad zákon č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení neskorších predpisov.
 
-- 29) § 108 až 116 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 29) Zákon č. 282/2015 Z. z. o vyvlastňovaní pozemkov a stavieb a o nútenom obmedzení vlastníckeho práva k nim a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 30) § 19 zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
+
+- 30a) § 15 ods. 1 zákona č. 200/2022 Z. z.
 
 - 31) § 2 a 10 zákona č. 127/1994 Z. z. v znení neskorších predpisov.
 
