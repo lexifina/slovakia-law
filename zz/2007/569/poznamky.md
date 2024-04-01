@@ -56,6 +56,10 @@
 
 - 23a) Zákon č. 525/2003 Z. z. o štátnej správe starostlivosti o životné prostredie a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 23aa) Zákon č. 200/2022 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 201/2022 Z. z. v znení neskorších predpisov.
+
 - 24) § 32 zákona č. 50/1976 Zb.
 
 - 25) § 2 Obchodného zákonníka.
@@ -136,11 +140,11 @@
 
 - 45) § 4 ods. 8 zákona Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii v znení neskorších predpisov.
 
-- 46) § 20 až 23 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 46) § 18 ods. 4 zákona č. 200/2022 Z. z.
 
 - 47) § 14a zákona č. 44/1988 Zb. v znení neskorších predpisov.
 
-- 48) Zákon č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 678/2006 Z. z.
+- 48) § 2 ods. 4 zákona č. 95/2019 Z. z. o informačných technológiách vo verejnej správe a o zmene a doplnení niektorých zákonov.
 
 - 49) Zákon č. 183/2000 Z. z. o knižniciach, o doplnení zákona Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti a o zmene a doplnení zákona č. 68/1997 Z. z. o Matici slovenskej v znení neskorších predpisov.
 

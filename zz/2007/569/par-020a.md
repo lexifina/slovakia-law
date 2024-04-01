@@ -1,8 +1,8 @@
 # § 20a Informačný systém environmentálnych záťaží a Štátny program sanácie environmentálnych záťaží
 
-(1) Informačný systém environmentálnych záťaží (ďalej len „informačný systém“) zabezpečuje zhromažďovanie údajov a poskytovanie informácií o environmentálnych záťažiach. Informačný systém je súčasťou informačného systému verejnej správy.
+(1) Informačný systém environmentálnych záťaží (ďalej len „informačný systém“) zabezpečuje zhromažďovanie údajov a poskytovanie informácií o environmentálnych záťažiach. Informačný systém je informačným systémom verejnej správy.
 
-(2) Informačný systém zriaďuje, prevádzkuje a údaje z neho s výnimkou údajov o pravdepodobných environmentálnych záťažiach sprístupňuje ministerstvo podľa osobitného predpisu.<sup>22</sup>) Ministerstvo môže poveriť plnením týchto úloh právnickú osobu, ktorej je zriaďovateľom.<sup>23a</sup>)
+(2) Správcom informačného systému je ministerstvo. Ministerstvo poskytuje Úradu pre územné plánovanie a výstavbu Slovenskej republiky automatizovaným spôsobom údaje z informačného systému do informačného systému územného plánovania a výstavby vrátane metaúdajov a vrátane osobných údajov bez súhlasu dotknutých osôb v rozsahu nevyhnutnom na účel podľa osobitných predpisov.<sup>23aa</sup>) Ministerstvo údaje z informačného systému s výnimkou údajov o pravdepodobných environmentálnych záťažiach sprístupňuje podľa osobitného predpisu.<sup>22</sup>) Ministerstvo môže poveriť prevádzkovaním informačného systému a plnením úloh podľa druhej a tretej vety právnickú osobu, ktorej je zriaďovateľom.<sup>23a</sup>)
 
 (3) Orgány verejnej správy a právnické osoby hospodáriace s verejnými prostriedkami sú povinné bezodkladne poskytovať bezplatne údaje a informácie súvisiace s environmentálnymi záťažami prevádzkovateľovi informačného systému.
 
