@@ -28,6 +28,8 @@
 
 - 1j) § 180b Trestného zákona.
 
+- 1ja) Napríklad Dohovor o medzinárodnom civilnom letectve (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 196/1995 Z. z.), Medzinárodný dohovor EUROCONTROL týkajúci sa spolupráce v záujme bezpečnosti letovej prevádzky, zmenený a doplnený Dodatkovým protokolom prijatým v Bruseli 6. júla 1970, Protokolom prijatým v Bruseli 21. novembra 1978 a Protokolom prijatým v Bruseli 12. februára 1981 (Medzinárodný dohovor EUROCONTROL týkajúci sa spolupráce v záujme bezpečnosti letovej prevádzky, zmenený a doplnený v Bruseli v roku 1981) (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 84/2000 Z. z.).
+
 - 1k) Zákon č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky v znení neskorších predpisov.
 
 - 2) Ústavný zákon č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu v znení zákona č. 113/2004 Z. z.
@@ -80,17 +82,15 @@
 
 - 6) § 120 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
-- 6a) § 140a ods. 1 písm. a) zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
+- 6a) § 5 zákona č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov.
 
-- 6b) § 20 až 23 zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
+- 6b) Napríklad zákon č. 44/1988 Zb. v znení neskorších predpisov, zákon č. 51/1988 Zb. v znení neskorších predpisov, zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 7) § 140b zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
+- 6c) Napríklad zákon č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení neskorších predpisov, zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov, zákon č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 452/2021 Z. z. v znení neskorších predpisov.
 
-- 7a) Napríklad čl. 38 nariadenia Európskeho parlamentu a Rady (EÚ) 2018/1139 zo 4. júla 2018 o spoločných pravidlách v oblasti civilného letectva, ktorým sa zriaďuje Agentúra Európskej únie pre bezpečnosť letectva a ktorým sa menia nariadenia Európskeho parlamentu a Rady (ES) č. 2111/2005, (ES) č. 1008/2008, (EÚ) č. 996/2010, (EÚ) č. 376/2014 a smernice Európskeho parlamentu a Rady 2014/30/EÚ a 2014/53/EÚ a zrušujú nariadenia Európskeho parlamentu a Rady (ES) č. 552/2004 a (ES) č. 216/2008 a nariadenie Rady (EHS) č. 3922/91 (Ú. v. EÚ L 212, 22. 8. 2018), Dohovor o medzinárodnom civilnom letectve (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 196/1995 Z. z).
+- 8) § 128 Občianskeho zákonníka.
 
-- 8) § 108 až 116 zákona č. 50/1976 Zb. v znení zákona č. 262/1992 Zb., zákona Národnej rady Slovenskej republiky č. 199/1995 Z. z. a zákona č. 229/1997 Z. z.
-
-- § 128 Občianskeho zákonníka.
+- Zákon č. 282/2015 Z. z. o vyvlastňovaní pozemkov a stavieb a o nútenom obmedzení vlastníckeho práva k nim a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 8a) Ústavný zákon č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu.
 
@@ -104,6 +104,8 @@
 
 - 8aaa) § 10 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
 
+- 8aaaa) Zákon č. 136/2004 Z. z. o letiskových spoločnostiach a o zmene a doplnení zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení zákona č. 37/2002 Z. z. v znení neskorších predpisov.
+
 - 8ab) Príloha VI bod 2.1.1. nariadenia (ES) č. 562/2006.
 
 - 8ac) Čl. 2 ods. 3 nariadenia (ES) č. 562/2006.
@@ -111,6 +113,12 @@
 - 8ad) Čl. 9 ods. 1 nariadenia (ES) č. 562/2006.
 
 - 8ae) Čl. 2 ods. 10 nariadenia (ES) č. 562/2006.
+
+- 8af) Čl. 35 nariadenia (EÚ) 2018/1139 v platnom znení.
+
+- 8ag) Čl. 45 nariadenia (EÚ) 2018/1139 v platnom znení.
+
+- Delegované nariadenie Komisie (EÚ) 2023/1768 zo 14. júla 2023, ktorým sa stanovujú podrobné pravidlá osvedčovania a vyhlásenia týkajúcich sa systémov manažmentu letovej prevádzky/leteckých navigačných služieb a komponentov manažmentu letovej prevádzky/leteckých navigačných služieb (Ú. v. EÚ, L 228, 15. 9. 2023).
 
 - 8b) § 35 až 38 zákona č. 379/1997 Z. z. o prevádzkovaní súkromných bezpečnostných služieb a podobných činností, o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o doplnení zákona č. 65/1965 Zb. Zákonníka práce v znení neskorších predpisov (zákon o súkromných bezpečnostných službách) v znení neskorších predpisov.
 
@@ -137,8 +145,6 @@
 - 11) Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 271/1994 Z. z. o uskutočnení notifikácie sukcesie Slovenskej republiky do Dohovoru o zjednotení niektorých pravidiel o medzinárodnej leteckej preprave vykonávanej inou osobou ako zmluvným dopravcom, dopĺňajúceho Varšavský dohovor.
 
 - 11b) Zákon č. 507/2001 Z. z. o poštových službách v znení neskorších predpisov.
-
-- 11ba) § 20 až 22 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 11bb) § 4 ods. 1 zákona č. 136/2010 Z. z. o službách na vnútornom trhu a zmene a doplnení niektorých zákonov.
 
@@ -175,12 +181,6 @@
 - 13) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 13a) § 3 až 8 a § 10 až 16 zákona č. 136/2010 Z. z.
-
-- 14) Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 196/1995 Z. z. o uskutočnení notifikácie sukcesie Slovenskej republiky do Dohovoru o medzinárodnom civilnom letectve.
-
-- Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 130/1999 Z. z. o Dohode o vývoji, prijatí a zavedení jednotných leteckých predpisov z 11. septembra 1990.
-
-- Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 84/2000 Z. z. o pristúpení Slovenskej republiky k Medzinárodnému dohovoru EUROCONTROL týkajúceho sa spolupráce v záujme bezpečnosti letovej prevádzky, zmeneného a doplneného v Bruseli v roku 1981.
 
 - 15) Dohovor o medzinárodnom civilnom letectve (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 196/1995 Z. z.).
 
