@@ -28,7 +28,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 10. | Vypracovanie dokumentácie a projektu jednoduchých stavieb, drobných stavieb a zmien týchto stavieb | vysokoškolské alebo úplné stredoškolské odborné vzdelanie príslušného technického smeru | § 45 ods. 6 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov |
 
-- 11. | Obstarávanie územnoplánovacích podkladov a územnoplánovacej dokumentácie | preukaz o odbornej spôsobilosti | § 2a ods. 5 zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z. |
+- 11. | Obstarávanie územnoplánovacích podkladov a územnoplánovacej dokumentácie | preukaz o odbornej spôsobilosti | § 13 ods. 2 zákona č. 200/2022 Z. z. o územnom plánovaní. |
 
 - 12. | Vyhotovovanie dokumentácie ochrany prírody a krajiny | potvrdenie o zápise do zoznamu odborne spôsobilých osôb | § 55 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov |
 
