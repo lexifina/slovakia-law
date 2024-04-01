@@ -1,0 +1,1 @@
+- 1) Nariadenie Európskeho parlamentu a Rady (ES) č. 853/2004 z 29. apríla 2004, ktorým sa ustanovujú osobitné hygienické predpisy pre potraviny živočíšneho pôvodu (Ú. v. ES L 139, 30. 4. 2004) v platnom znení.
