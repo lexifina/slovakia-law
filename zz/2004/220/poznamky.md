@@ -6,6 +6,8 @@
 
 - 2a) § 9 zákona č. 162/1995 Z. z.
 
+- 2aa) § 22 ods. 6 zákona č. 200/2022 Z. z. o územnom plánovaní v znení zákona č. 205/2023 Z. z.
+
 - 2b) § 12 až 16 a § 26 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
 
 - 3) Zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
@@ -34,7 +36,9 @@
 
 - 9d) Príloha č. 2 nariadenia vlády Slovenskej republiky č. 58/2013 Z. z. o odvodoch za odňatie a neoprávnený záber poľnohospodárskej pôdy.
 
-- 10) Zákon č. 50/1976 Zb. v znení neskorších predpisov.
+- 9e) § 22 ods. 3 a 6 a § 40 ods. 2 zákona č. 200/2022 Z. z.
+
+- 10) Zákon č. 200/2022 Z. z. v znení neskorších predpisov.
 
 - Zákon Slovenskej národnej rady č. 330/1991 Zb. v znení neskorších predpisov.
 
@@ -42,7 +46,7 @@
 
 - Zákon č. 184/2002 Z. z. o vodách a o zmene a doplnení niektorých zákonov (vodný zákon) v znení neskorších predpisov.
 
-- 11) § 22 až 26 a 31 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 11) Šiesta časť zákona č. 200/2022 Z. z. v znení zákona č. 205/2023 Z. z.
 
 - 11a) Napríklad zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov.
 
