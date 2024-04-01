@@ -1,1 +1,1 @@
-Príloha č. 3 k zákonu č. 595/2003 Z. z. [Príloha č. 3 k zákonu č. 595/2003 Z. z.](../assets/7d0211568acd28f15a5c8edee100b99684c4f4575b1adfb5b2954d48c773cd68.pdf)
+Príloha č. 3 k zákonu č. 595/2003 Z. z. [Príloha č. 3 k zákonu č. 595/2003 Z. z.](../assets/81a712f917874ee4cf29d669ac7fae2d0b788ce088508f67506d59ae4c9d4984.pdf)

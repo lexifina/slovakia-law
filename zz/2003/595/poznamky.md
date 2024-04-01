@@ -240,7 +240,7 @@
 
 - 59a) § 18 ods. 4 zákona č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov.
 
-- 59b) Napríklad § 141 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 59b) Napríklad § 4 zákona č. 282/2015 Z. z. o vyvlastňovaní pozemkov a stavieb a o nútenom obmedzení vlastníckeho práva k nim a o zmene a doplnení niektorých zákonov.
 
 - 59c) § 26 zákona č. 61/2015 Z. z.
 
@@ -851,3 +851,5 @@
 - 156) Zákon č. 57/2018 Z. z. v znení neskorších predpisov.
 
 - 157) Medzinárodný štandard finančného výkazníctva 9 a 17 Prílohy k nariadeniu Komisie (ES) č. 1126/2008 z 3. novembra 2008, ktorým sa v súlade s nariadením Európskeho parlamentu a Rady (ES) č. 1606/2002 prijímajú určité medzinárodné účtovné štandardy (Ú. v. EÚ L 320, 29. 11. 2008) v platnom znení.
+
+- 159) § 43 ods. 2 zákona č. 50/1976 Zb. v znení zákona č. 46/2024 Z. z.
