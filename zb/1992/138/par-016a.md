@@ -15,5 +15,3 @@
 - a) technického zamerania pre kategórie podľa § 5 ods. 1 písm. b) a ide o žiadateľa, ktorý svojou najmenej sedemročnou odbornou praxou v oblasti stavebníctva dostatočne preukázal potrebnú technickú spôsobilosť,
 
 - b) prírodovedného, lesníckeho alebo poľnohospodárskeho zamerania a ide o žiadateľa, ktorý svojou najmenej sedemročnou odbornou praxou v oblasti krajinnej alebo záhradnej architektúry dostatočne preukázal potrebnú odbornú spôsobilosť krajinného architekta.
-
-(5) Doklad o vzdelaní uznaný podľa všeobecných predpisov o uznávaní odborných kvalifikácií sa na účely autorizácie podľa § 15 alebo na účely hosťovania podľa § 15a predkladá spolu s originálom alebo s úradne osvedčenou kópiou rozhodnutia Ministerstva školstva, vedy, výskumu a športu Slovenskej republiky o jeho uznaní.

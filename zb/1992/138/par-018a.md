@@ -6,7 +6,7 @@
 
 - b) dátum narodenia,
 
-- c) adresa pobytu v domovskom členskom štáte a adresa pobytu na území Slovenskej republiky,
+- c) adresa stáleho sídla ateliéru alebo kancelárie v domovskom členskom štáte a adresa stáleho sídla ateliéru alebo kancelárie na území Slovenskej republiky,
 
 - d) označenie a adresa sídla regulačného orgánu domovského členského štátu,
 
@@ -16,6 +16,8 @@
 
 - g) lehota, na ktorú je zapísaný v registri,
 
-- h) dátum zapísania do registra.
+- h) dátum zapísania do registra,
+
+- i) rozsah oprávnenia, kategória alebo špecializácia udelené komorou.
 
 (2) Ustanovenia § 18 ods. 2 a 3 sa použijú aj na vedenie registra.
