@@ -98,7 +98,7 @@
 
 - 19a) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
-- 19b) § 7a ods. 2 písm. a) zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 19b) § 16 ods. 5 zákona č. 200/2022 Z. z. o územnom plánovaní v znení zákona č. 205/2023 Z. z.
 
 - 20) Zákon č. 656/2004 Z. z.
 
