@@ -22,6 +22,10 @@
 
 - 2ab) § 18 a 18c zákona Slovenskej národnej rady č. 369/1990 Zb.
 
+- 2ac) § 22 ods. 1 zákona č. 200/2022 Z. z. o územnom plánovaní.
+
+- 2ad) § 23 zákona č. 200/2022 Z. z.
+
 - 2b) Zákon č. 663/2007 Z. z. o minimálnej mzde v znení neskorších predpisov.
 
 - 5a) Napríklad § 13 a 13a zákona Slovenskej národnej rady č. 369/1990 Zb., zákon č. 253/1994 Z. z.
@@ -35,6 +39,8 @@
 - 6d) § 24 zákona č. 95/2019 Z. z. o informačných technológiách vo verejnej správe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - § 39 a 40 vyhlášky č. 78/2020 Z. z. o štandardoch pre informačné technológie verejnej správy v znení neskorších predpisov.
+
+- 6e) § 4 ods. 6 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení zákona č. 205/2023 Z. z.
 
 - 6f) Zákon č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratívnej záťaže využívaním informačných systémov verejnej správy a o zmene a doplnení niektorých zákonov (zákon proti byrokracii) v znení neskorších predpisov.
 
