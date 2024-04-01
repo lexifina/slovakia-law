@@ -15,3 +15,5 @@
 (7) Fyzické osoby alebo právnické osoby nesmú sprístupnené údaje z centrálnej evidencie poskytnúť tretím osobám alebo umožniť prístup k nim.
 
 (8) Ministerstvo môže odoprieť sprístupnenie údajov z centrálnej evidencie, ak fyzická osoba alebo právnická osoba neoprávnene rozširuje poskytnuté údaje.
+
+(9) Ministerstvo poskytuje Úradu pre územné plánovanie a výstavbu Slovenskej republiky údaje z centrálnej evidencie do informačného systému územného plánovania a výstavby vrátane osobných údajov bez súhlasu dotknutých osôb v rozsahu nevyhnutnom na účel podľa osobitných predpisov.<sup>2cbg</sup>)
