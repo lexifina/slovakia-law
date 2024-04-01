@@ -36,11 +36,11 @@
 
 - § 32 zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení zákona č. 230/2005 Z. z.
 
-- 9) Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+- 9) Zákon č. 200/2022 Z. z. o územnom plánovaní v znení neskorších predpisov.
 
 - 10) Zákon č. 44/1988 Zb. o ochrane a využívaní nerastného bohatstva (banský zákon) v znení neskorších predpisov.
 
-- 11) § 8 ods. 2 zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
+- 11) § 31 ods. 7 a 21 zákona č. 200/2022 Z. z.
 
 - 11a) Zákon Národnej rady Slovenskej republiky č. 129/1996 Z. z. o niektorých opatreniach na urýchlenie prípravy výstavby diaľnic a ciest pre motorové vozidlá v znení neskorších predpisov.
 
@@ -67,6 +67,8 @@
 - Zákon č. 193/2001 Z. z. o podpore na zriadenie priemyselných parkov a o doplnení zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov v znení neskorších predpisov.
 
 - 15) § 39c ods. 3 zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
+
+- 15a) § 22 ods. 4 a § 31 ods. 7 a 21 zákona č. 200/2022 Z. z.
 
 - 17) § 46 zákona č. 364/2004 Z. z.
 
@@ -264,7 +266,7 @@
 
 - 72a) § 611 Občianskeho zákonníka.
 
-- 72b) § 10 ods. 2 písm. f) a § 11 ods. 5 písm. g) zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 72b) § 5 písm. w) zákona č. 200/2022 Z. z.
 
 - 73) § 11 ods. 6 zákona Slovenskej národnej rady č. 330/1991 Zb. v znení neskorších predpisov.
 
@@ -276,9 +278,9 @@
 
 - 74b) § 6 ods. 1 zákona č. 111/1990 Zb. o štátnom podniku.
 
-- 74c) § 8 a 27 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 74c) § 18 zákona č. 200/2022 Z. z. v znení zákona č. 205/2023 Z. z.
 
-- 74d) § 11 ods. 2 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 74d) § 40 ods. 2 zákona č. 200/2022 Z. z.
 
 - 74e) § 108 ods. 2 písm. a) a ods. 3 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
@@ -349,6 +351,10 @@
 - 87) Napríklad čl. 8 ods. 1 a 2, čl. 14 ods. 1 a 2, čl. 15 ods. 1 a čl. 16 nariadenia Európskeho parlamentu a Rady (ES) č. 2152/2003 (Ú. v. EÚ L 324, 11. 12. 2003) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 788/2004 (Ú. v. EÚ L 138, 30. 4. 2004).
 
 - 87a) Zákon č. 359/2007 Z. z. o prevencii a náprave environmentálnych škôd a o zmene a doplnení niektorých zákonov.
+
+- 87aa) § 20 zákona č. 200/2022 Z. z.
+
+- 87ab) § 21 zákona č. 200/2022 Z. z.
 
 - 88) Napríklad zákon č. 193/2005 Z. z., zákon č. 217/2004 Z. z. v znení zákona č. 545/2004 Z. z.
 
