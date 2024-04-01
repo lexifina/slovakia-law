@@ -6,11 +6,9 @@
 
 - 3) § 43b zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 237/2000 Z. z.
 
-- 4) § 25 devízového zákona č. 528/1990 Zb. v znení zákona č. 228/1992 Zb., zákona č. 264/1992 Zb., zákona Národnej rady Slovenskej republiky č. 26/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 106/1993 Z. z.
-
 - 5) § 121 ods. 2 Občianskeho zákonníka.
 
-- 5a) Napríklad zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 314/2001 Z. z. o ochrane pred požiarmi v znení neskorších predpisov, zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 5a) Napríklad zákon č. 314/2001 Z. z. o ochrane pred požiarmi v znení neskorších predpisov, zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 56/2018 Z. z. o posudzovaní zhody výrobku, sprístupňovaní určeného výrobku na trhu a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 6) Napr. zákon č. 116/1990 Zb. o nájme a podnájme nebytových priestorov v znení neskorších predpisov.
 
