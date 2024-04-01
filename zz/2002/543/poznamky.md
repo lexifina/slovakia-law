@@ -22,8 +22,6 @@
 
 - Príloha č. 1 k vyhláške Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
-- 13) § 2 ods. 1 písm. c) zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
-
 - 14) § 2 ods. 2 zákona č. 513/1991 Zb. Obchodný zákonník.
 
 - 15) Napríklad § 7 zákona Slovenskej národnej rady č. 307/1992 Zb. v znení zákona č. 83/2000 Z. z.
@@ -50,7 +48,7 @@
 
 - 21b) § 40 ods. 1 zákona č. 326/2005 Z. z. o lesoch v znení neskorších predpisov.
 
-- 22) § 8 ods. 2 a § 20 až 31 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 22) § 18 zákona č. 200/2022 Z. z. v znení zákona č. 205/2023 Z. z.
 
 - 23) § 32 až 42 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
@@ -258,7 +256,7 @@
 
 - 83b) § 41 zákona č. 326/2005 Z. z. v znení neskorších predpisov.
 
-- 84) § 7a ods. 2 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 84) § 16 zákona č. 200/2022 Z. z. v znení zákona č. 205/2023 Z. z.
 
 - 85) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
 
@@ -284,7 +282,7 @@
 
 - 90) § 2 písm. k) zákona č. 326/2005 Z. z.
 
-- 91) Napríklad § 32 zákona č. 50/1976 Zb., § 27 zákona č. 44/1988 Zb. v znení neskorších predpisov, § 19 zákona Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov, zákon č. 139/2002 Z. z. v znení neskorších predpisov, § 56 ods. 3 zákona č. 274/2009 Z. z.
+- 91) Napríklad zákon č. 200/2022 Z. z. v znení neskorších predpisov, § 27 zákona č. 44/1988 Zb. v znení neskorších predpisov, § 19 zákona Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov, zákon č. 139/2002 Z. z. v znení neskorších predpisov, § 56 ods. 3 zákona č. 274/2009 Z. z.
 
 - 92) § 34 ods. 3 písm. a) zákona Slovenskej národnej rady č. 330/1991 Zb.
 
@@ -402,7 +400,7 @@
 
 - 115a) Napríklad § 20h Občianskeho zákonníka, § 6 ods. 2 písm. c) zákona č. 83/1990 Zb.
 
-- 115aa) § 8 až 13 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 115aa) Zákon č. 200/2022 Z. z. v znení neskorších predpisov.
 
 - 115b) § 28 zákona č. 326/2005 Z. z. v znení zákona č. 360/2007 Z. z.
 
@@ -483,3 +481,5 @@
 - 143) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 995/2010 z 20. októbra 2010, ktorým sa ustanovujú povinnosti hospodárskych subjektov uvádzajúcich na trh drevo a výrobky z dreva (Ú. v. EÚ L 295, 12. 11. 2010) v platnom znení.
 
 - Zákon č. 113/2018 Z. z. o uvádzaní dreva a výrobkov z dreva na vnútorný trh a o zmene a doplnení zákona č. 280/2017 Z. z. o poskytovaní podpory a dotácie v pôdohospodárstve a rozvoji vidieka a o zmene zákona č. 292/2014 Z. z. o príspevku poskytovanom z európskych štrukturálnych a investičných fondov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov v znení zákona č. 355/2019 Z. z.
+
+- 144) § 140d zákona č. 50/1976 Zb. v znení neskorších predpisov.
