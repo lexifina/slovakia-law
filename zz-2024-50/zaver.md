@@ -1,0 +1,1 @@
+Juraj Celler v. r.
