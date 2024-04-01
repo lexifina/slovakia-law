@@ -64,7 +64,7 @@
 
 - 6ae) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku v znení neskorších predpisov.
 
-- 6af) § 11 ods. 2 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+- 6af) § 22 zákona č. 200/2022 Z. z. o územnom plánovaní.
 
 - 6afa) § 40 ods. 2 zákona č. 200/2022 Z. z. o územnom plánovaní.
 
@@ -107,8 +107,6 @@
 - 6d) § 54 ods. 2 písm. c) zákona č. 543/2002 Z. z. o ochrane prírody a krajiny.
 
 - 6e) Zákon č. 543/2002 Z. z. v znení neskorších predpisov.
-
-- 6f) § 139a zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
 
 - 6fa) § 4 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
@@ -250,9 +248,9 @@
 
 - Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
-- 23e) § 8 a 26 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 23e) § 18 zákona č. 200/2022 Z. z.
 
-- 23f) § 108 ods. 2 písm. a) a ods. 3 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 23f) § 5 písm. w) zákona č. 200/2022 Z. z.
 
 - 23fa) § 659 Občianskeho zákonníka.
 
