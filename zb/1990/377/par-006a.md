@@ -12,7 +12,7 @@
 
 - a) zabezpečovať hospodársky, kultúrny a sociálny rozvoj Bratislavy, najmä tvorbu a schvaľovanie plánu hospodárskeho a sociálneho rozvoja a celomestských koncepcií a rozvojových programov,
 
-- b) zabezpečovať obstarávanie územnoplánovacích podkladov a obstarávanie a schvaľovanie územnoplánovacej dokumentácie Bratislavy,
+- b) zabezpečovať urbanistický rozvoj Bratislavy a v rámci územnoplánovacej činnosti na území Bratislavy zabezpečovať obstarávanie územnoplánovacích podkladov, návrhu územnoplánovacej dokumentácie Bratislavy a schvaľovanie metropolitného územného plánu a územnoplánovacej dokumentácie, o ktorej to určí štatút, vrátane ich zmien a doplnkov, a to spolu so všeobecne záväzným nariadením, ktorým sa vyhlasuje jeho záväzná časť,
 
 - c) zabezpečovať pravidelnú verejnú mestskú dopravu,
 
@@ -38,4 +38,6 @@
 
 - n) utvárať podmienky na rozvoj športu a plniť úlohy v oblasti telesnej kultúry,
 
-- o) byť zakladateľom základných umeleckých škôl a centier voľného času.
+- o) byť zakladateľom základných umeleckých škôl a centier voľného času,
+
+- p) vydávať záväzné stanovisko o súlade stavebného zámeru so záväznou časťou územnoplánovacej dokumentácie, ak ide o iné stavby než jednoduché stavby.

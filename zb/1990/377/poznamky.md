@@ -25,3 +25,7 @@
 - 9) § 10 ods. 11 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení zákona č. 273/2015 Z. z.
 
 - 10) Napríklad § 20 ods. 1 písm. e) zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 111 zákona č. 8/2009 Z. z. v znení neskorších predpisov, § 13 zákona č. 201/2009 Z. z. o štátnej hydrologickej službe a štátnej meteorologickej službe.
+
+- 11) § 4 ods. 6 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení zákona č. 205/2023 Z. z.
+
+- 12) Napríklad zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.

@@ -12,7 +12,7 @@
 
 - a) zabezpečovať hospodársky a sociálny rozvoj mestskej časti v nadväznosti na celomestský rozvoj a celomestské rozvojové dokumenty,
 
-- b) zabezpečovať územnoplánovacie funkcie, urbanistický rozvoj mestskej časti a reguláciu funkcií v území v nadväznosti na celomestské územnoplánovacie regulatívy, najmä obstarávať urbanistické štúdie a obstarávať a schvaľovať územné plány zón,
+- b) zabezpečovať urbanistický rozvoj mestskej časti a v rámci územnoplánovacej činnosti na území mestskej časti zabezpečovať v nadväznosti na celomestskú územnoplánovaciu dokumentáciu obstarávanie územnoplánovacích podkladov, návrhu územnoplánovacej dokumentácie a schvaľovanie územnoplánovacej dokumentácie, o ktorej to určí štatút, vrátane jej zmien a doplnkov, a to spolu so všeobecne záväzným nariadením, ktorým sa vyhlasuje jej záväzná časť,
 
 - c) dbať o ochranu a tvorbu životného prostredia v mestskej časti,
 
@@ -26,4 +26,6 @@
 
 - h) utvárať podmienky na športovanie detí, na rozvoj športu pre všetkých a plniť úlohy v oblasti telesnej kultúry,
 
-- i) vykonávať agendu stavebného úradu.
+- i) vykonávať agendu stavebného úradu,
+
+- j) vydávať záväzné stanovisko o súlade stavebného zámeru so záväznou časťou územnoplánovacej dokumentácie, ak ide o jednoduché stavby a o stavby v lokalitách, kde tak určí štatút.
