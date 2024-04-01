@@ -96,8 +96,6 @@
 
 - § 2 ods. 1 zákona č. 201/2022 Z. z. o výstavbe.
 
-- 31b) § 20 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
-
 - 31c) Zákon č. 503/2003 Z. z. o navrátení vlastníctva k pozemkom a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov.
 
 - Zákon č. 229/1991 Zb. v znení neskorších predpisov.
@@ -110,7 +108,7 @@
 
 - 35) Napríklad § 3 zákona č. 61/1977 Zb. v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 208/1994 Z. z. o nájme poľnohospodárskych a lesných nehnuteľností a o nájme poľnohospodárskeho podniku.
 
-- 39) § 108 a nasl. zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 103/1990 Zb. a zákona č. 262/1992 Zb.
+- 39) Zákon č. 282/2015 Z. z. o vyvlastňovaní pozemkov a stavieb a o nútenom obmedzení vlastníckeho práva k nim a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 39a) Napríklad zákon Slovenskej národnej rady č. 307/1992 Zb., zákon č. 50/1976 Zb.
 
