@@ -1,1 +1,0 @@
-Daniela Švecová v. r.
