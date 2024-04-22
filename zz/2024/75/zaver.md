@@ -1,0 +1,1 @@
+Ján Šikuta v. r.
