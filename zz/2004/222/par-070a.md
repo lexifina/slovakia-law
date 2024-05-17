@@ -85,3 +85,11 @@
 - b) suma a mena vrátenej platby,
 
 - c) členský štát určenia vrátenej platby a druh identifikátorov podľa odseku 6 použitých na účely určenia tohto členského štátu.
+
+(11) Tuzemský poskytovateľ platobných služieb podľa odseku 3 je povinný spôsobom podľa odseku 5 písm. b) a v lehote určenej vo výzve daňového úradu sprístupniť finančnému riaditeľstvu záznamy podľa odseku 8 za príslušný kalendárny štvrťrok, ak
+
+- a) tieto záznamy nesprístupnil v lehote alebo spôsobom podľa odseku 5 písm. b) alebo
+
+- b) sprístupnené záznamy sú neúplné alebo nesprávne.
+
+(12) Nesplnenie povinnosti podľa odseku 11 sa považuje za správny delikt podľa osobitného predpisu.<sup>28r</sup>)

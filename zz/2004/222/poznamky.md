@@ -14,6 +14,8 @@
 
 - 4d) § 79 ods. 1 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
 
+- 4e) § 66a Obchodného zákonníka.
+
 - 5) § 2 ods. 9 zákona č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov.
 
 - 5a) Čl. 219 ods. 1 až 3 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 326, 26. 10. 2012).
@@ -231,6 +233,8 @@
 - 28p) Čl. 24b a 24e nariadenia Rady (EÚ) č. 904/2010 zo 7. októbra 2010 o administratívnej spolupráci a boji proti podvodom v oblasti dane z pridanej hodnoty (prepracované znenie) (Ú. v. EÚ L 268, 12. 10. 2010) v platnom znení.
 
 - Čl. 4 a Príloha vykonávacieho nariadenia Komisie (EÚ) 2022/1504 zo 6. apríla 2022, ktorým sa stanovujú podrobné pravidlá uplatňovania nariadenia Rady (EÚ) č. 904/2010, pokiaľ ide o vytvorenie centrálneho elektronického systému informácií o platbách (CESOP) na boj proti podvodom v oblasti DPH (Ú. v. EÚ L 235, 12. 9. 2022).
+
+- 28r) § 154 ods. 1 písm. j) zákona č. 563/2009 Z. z.
 
 - 29) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení zákona č. 679/2004 Z. z.
 

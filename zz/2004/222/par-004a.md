@@ -2,7 +2,7 @@
 
 (1) Viac zdaniteľných osôb so sídlom, miestom podnikania alebo prevádzkarňou v tuzemsku, ktoré sú spojené finančne, ekonomicky a organizačne (ďalej len „člen skupiny“), sa môže považovať za jednu zdaniteľnú osobu (ďalej len „skupina“).
 
-(2) Finančne spojenými zdaniteľnými osobami sú osoby, z ktorých jedna alebo viac osôb je ovládaných ovládajúcou osobou.<sup>4a</sup>)
+(2) Finančne spojenými zdaniteľnými osobami sú osoby, z ktorých jedna alebo viac osôb je ovládaných ovládajúcou osobou.<sup>4e</sup>)
 
 (3) Ekonomicky spojenými zdaniteľnými osobami sú osoby, ktorých hlavné činnosti sú vzájomne závislé alebo majú spoločný ekonomický cieľ alebo z ktorých jedna osoba uskutočňuje celkom alebo sčasti činnosti v prospech jedného alebo viacerých členov skupiny.
 
