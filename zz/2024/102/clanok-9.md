@@ -1,0 +1,3 @@
+# Čl. IX
+
+Tento zákon nadobúda účinnosť dňom vyhlásenia okrem čl. I bodov 20 a 21, čl. II bodov 2, 3 a 5 až 8, čl. III bodov 1 až 4, čl. IV bodov 1 až 4 a čl. VIII bodov 2 a 4, ktoré nadobúdajú účinnosť 1. júla 2024, čl. I bodov 1, 3 až 19, 22 až 42, 44 až 57, 59, 61 a 62, čl. V a čl. VI bodu 1, ktoré nadobúdajú účinnosť 1. januára 2025, čl. VII, ktorý nadobúda účinnosť 30. júna 2025, čl. I § 84a ods. 1, ods. 2 písm. a) a ods. 3 až 5 v bode 58 a bodu 60, ktoré nadobúdajú účinnosť 1. júla 2025, a okrem čl. I § 84a ods. 2 písm. b) a § 84b v bode 58, čl. II bodov 1 a 4, čl. III bodu 5, čl. IV bodov 5 a 6 a čl. VIII bodov 1, 3 a 5. ktoré nadobúdajú účinnosť 1. januára 2026.
