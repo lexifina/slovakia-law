@@ -1,0 +1,1 @@
+Príloha č. 1 k rozhodnutiu predsedu Národnej rady Slovenskej republiky č. 117/2024 Z. z. [ZOZNAM OBCÍ, v ktorých sa vyhlasujú voľby do orgánov samosprávy obcí na 5. októbra 2024](../assets/a8e09a0cef05a16dbc034296c35cfab817701943d69f0ab8dc0d1a48ade6e0bc.pdf)

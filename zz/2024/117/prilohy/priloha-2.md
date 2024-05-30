@@ -1,0 +1,1 @@
+Príloha č. 2 k rozhodnutiu predsedu Národnej rady Slovenskej republiky č. 117/2024 Z. z. [LEHOTY na vykonanie volieb do orgánov samosprávy obcí 5. októbra 2024](../assets/581e27fafe55d78020d6391e6fc12a1532a0e8d67308d9586af0e253ddfb9f57.pdf)
