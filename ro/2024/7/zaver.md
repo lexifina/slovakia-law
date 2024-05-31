@@ -1,0 +1,3 @@
+Zuzana Dolinková
+
+ministerka zdravotníctva
