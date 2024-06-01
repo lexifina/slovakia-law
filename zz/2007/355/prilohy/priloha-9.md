@@ -41,3 +41,5 @@ Príloha č. 9 k zákonu č. 355/2007 Z. z.
   - 19. Smernica Rady 2006/117/Euratom z 20. novembra 2006 o dozore a kontrole pri preprave rádioaktívneho odpadu a vyhoretého jadrového paliva (Ú. v. EÚ L 337, 5. 12. 2006).
 
   - 20. Smernica Európskeho parlamentu a Rady (EÚ) 2020/2184 zo 16. decembra 2020 o kvalite vody určenej na ľudskú spotrebu (prepracované znenie) (Ú. v. EÚ L435, 23. 12. 2020).
+
+  - 21. Smernica Európskeho parlamentu a Rady (EÚ) 2022/431 z 9. marca 2022, ktorou sa mení smernica 2004/37/ES o ochrane pracovníkov pred rizikami súvisiacimi s expozíciou karcinogénom alebo mutagénom pri práci (Ú. v. EÚ L 88, 16. 3. 2022).

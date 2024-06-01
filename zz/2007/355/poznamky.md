@@ -104,6 +104,8 @@
 
 - 17) Zákon č. 193/2005 Z. z. o rastlinolekárskej starostlivosti.
 
+- 17a) Príloha I nariadenia Európskeho parlamentu a Rady (ES) č. 1272/2008 zo 16. decembra 2008 o klasifikácii, označovaní a balení látok a zmesí, o zmene, doplnení a zrušení smerníc 67/548/EHS a 1999/45/ES a o zmene a doplnení nariadenia (ES) č. 1907/2006 (Ú. v. EÚ L 353, 31. 12. 2008) v platnom znení.
+
 - 18) Zákon č. 470/2005 Z. z. o pohrebníctve a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 19) § 36 ods. 5 písm. g) zákona č. 442/2002 Z. z. v znení zákona č. 517/2022 Z. z.
@@ -200,11 +202,15 @@
 
 - 32) § 45 ods. 1 písm. a) zákona č. 305/2005 Z. z. v znení neskorších predpisov.
 
+- 32a) § 45 ods. 4 písm. a) zákona č. 305/2005 Z. z. v znení neskorších predpisov.
+
 - 33) § 45 ods. 1 písm. e) zákona č. 305/2005 Z. z. v znení neskorších predpisov.
 
 - 33a) § 3d ods. 5 zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
 
 - 33aa) § 2 písm. a) vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 123/2008 Z. z. o podrobnostiach o ochrane spoločenských zvierat a o požiadavkách na karanténne stanice a útulky pre zvieratá.
+
+- 33aaa) § 13 ods. 6 zákona č. 448/2008 Z. z. v znení neskorších predpisov.
 
 - 33b) § 3 zákona č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
