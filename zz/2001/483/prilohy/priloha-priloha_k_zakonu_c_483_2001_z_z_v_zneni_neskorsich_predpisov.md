@@ -27,3 +27,5 @@ Príloha k zákonu č. 483/2001 Z. z. v znení neskorších predpisov
   - 12. Smernica Európskeho parlamentu a Rady (EÚ) 2019/2034 z 27. novembra 2019 o prudenciálnom dohľade nad investičnými spoločnosťami a o zmene smerníc 2002/87/ES, 2009/65/ES, 2011/61/ES, 2013/36/EÚ, 2014/59/EÚ a 2014/65/EÚ (Ú. v. EÚ L 314, 5. 12. 2019).
 
   - 13. Smernica Európskeho parlamentu a Rady (EÚ) 2019/2162 z 27. novembra 2019 o emisii krytých dlhopisov a verejnom dohľade nad krytými dlhopismi a ktorou sa menia smernice 2009/65/ES a 2014/59/EÚ (Ú. v. EÚ L 328, 18. 12. 2019).
+
+  - 14. Smernica Európskeho parlamentu a Rady (EÚ) 2021/2167 z 24. novembra 2021 o správcoch úverov a nákupcoch úverov a o zmene smerníc 2008/48/ES a 2014/17/EÚ (Ú. v. EÚ L 438, 8. 12. 2021).

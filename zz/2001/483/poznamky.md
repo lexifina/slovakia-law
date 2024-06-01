@@ -916,6 +916,8 @@
 
 - 86k) § 4 zákona č. 123/2022 Z. z. o centrálnom registri účtov a o zmene a doplnení niektorých zákonov.
 
+- 86l) § 17 ods. 1 zákona č. 106/2024 Z. z. o správcoch úverov a nákupcoch úverov a o zmene a doplnení niektorých zákonov.
+
 - 87) Napríklad zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch v znení zákona č. 238/2000 Z. z., zákon č. 466/2002 Z. z.
 
 - 87a) Zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
@@ -924,11 +926,17 @@
 
 - 87ab) Napríklad zákon č. 527/2002 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
 
+- 87aba) Zákon č. 106/2024 Z. z.
+
 - 87ac) § 17 ods. 1 a 2 zákona č. 129/2010 Z. z. v znení neskorších predpisov.
 
 - § 525 ods. 2 Občianskeho zákonníka v znení neskorších predpisov.
 
 - 87ad) § 20 ods. 6 a 8 zákona č. 90/2016 Z. z.
+
+- 87ae) Čl. 47a nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 87af) § 17 ods. 2 zákona č. 106/2024 Z. z.
 
 - 87b) § 4 ods. 3, § 5, § 23 a 55 zákona č. 428/2002 Z. z.
 
