@@ -28,6 +28,8 @@
 
 - 11c) Čl. 2 ods. 1 nariadenia Európskeho parlamentu a Rady (EÚ) č. 648/2012 zo 4. júla 2012 o mimoburzových derivátoch, centrálnych protistranách a archívoch obchodných údajov (Ú. v. EÚ L 201, 27. 7. 2012) v platnom znení.
 
+- 11d) § 2 ods. 4 písm. o) zákona č. 431/2002 Z. z. v znení zákona č. 105/2024 Z. z.
+
 - 12) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
 
 - 13) § 8 písm. e) zákona č. 566/2001 Z. z.
@@ -68,7 +70,9 @@
 
 - 19) § 7 ods. 10 zákona č. 566/2001 Z. z.
 
-- 20) § 47 ods. 2 zákona č. 96/2002 Z. z.
+- 19a) Delegované nariadenie Komisie (EÚ) 2017/584 zo 14. júla 2016, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ, pokiaľ ide o regulačné technické predpisy bližšie určujúce organizačné požiadavky na obchodné miesta (Ú. v. EÚ L 87, 31. 3. 2017).
+
+- 20) § 3 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
 
 - 20a) Napríklad zákon č. 566/2001 Z. z., nariadenie Európskeho parlamentu a Rady (EÚ) č. 596/2014 zo 16. apríla 2014 o zneužívaní trhu (nariadenie o zneužívaní trhu) a o zrušení smernice Európskeho parlamentu a Rady 2003/6/ES a smerníc Komisie 2003/124/ES, 2003/125/ES a 2004/72/ES (Ú. v. EÚ L 173, 12. 6. 2014) v platnom znení.
 
@@ -160,6 +164,10 @@
 
 - 53b) § 19 zákona č. 431/2002 Z. z. v znení zákona č. 561/2004 Z. z.
 
+- 53ba) Napríklad delegované nariadenie Komisie (EÚ) 2023/2772 z 31. júla 2023, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2013/34/EÚ, pokiaľ ide o štandardy vykazovania informácií o udržateľnosti (Ú. v. EÚ L, 2023/2772, 22. 12. 2023).
+
+- 53bb) Delegované nariadenie Komisie (EÚ) 2021/2178 zo 6. júla 2021, ktorým sa dopĺňa nariadenie Európskeho parlamentu a Rady (EÚ) 2020/852 upresnením obsahu a prezentácie informácií, ktoré majú zverejňovať podniky, na ktoré sa vzťahuje článok 19a alebo 29a smernice 2013/34/EÚ, pokiaľ ide o environmentálne udržateľné hospodárske činnosti, a upresnením metodiky na splnenie uvedenej povinnosti zverejňovania (Ú. v. EÚ L 443, 10. 12. 2021) v platnom znení.
+
 - 53c) § 22 zákona č. 431/2002 Z. z. v znení zákona č. 561/2004 Z. z.
 
 - 53d) Nariadenie Európskeho parlamentu a Rady (ES) č. 1606/2002.
@@ -167,6 +175,10 @@
 - Nariadenie Európskej komisie (ES) č. 1725/2003 z 29. septembra 2003, ktorým sa prijímajú určité medzinárodné účtovné štandardy, v súlade s nariadením Európskeho parlamentu a Rady (ES) č. 1606/2002 (Ú. v. EÚ L 261, 13. 10. 2003, Mimoriadne vydanie Ú. v. EÚ 13/zv. 32).
 
 - 53da) Delegované nariadenie Komisie (EÚ) 2019/815 zo 17. decembra 2018, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady (EÚ) 2004/109/ES, pokiaľ ide o regulačné technické predpisy o špecifikácii jednotného elektronického formátu vykazovania (Ú. v. EÚ L 143, 29. 5. 2019) v platnom znení.
+
+- 53daa) § 20h zákona č. 431/2002 Z. z. v znení zákona č. 105/2024 Z. z.
+
+- 53dab) § 34c zákona č. 423/2015 Z. z. v znení zákona č. 105/2024 Z. z.
 
 - 53e) § 20a a 20b zákona č. 431/2002 Z. z. v znení zákona č. 130/2015 Z. z.
 
@@ -224,7 +236,11 @@
 
 - 66e) Čl. 79 delegovaného nariadenia (EÚ) 2017/565.
 
-- 67) Delegované nariadenie Komisie (EÚ) 2017/591 z 1. decembra 2016, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ, pokiaľ ide o regulačné technické predpisy na uplatňovanie obmedzení pozícií komoditných derivátov (Ú. v. EÚ L 87, 31. 3. 2017).
+- 67) Delegované nariadenie Komisie (EÚ) 2022/1302 z 20. apríla 2022, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ, pokiaľ ide o regulačné technické predpisy na uplatňovanie obmedzení pozícií komoditných derivátov a postupy uplatňovania výnimky z obmedzení pozícií (Ú. v. EÚ L 197, 26. 7. 2022).
+
+- 67a) § 8 písm. m) tretí bod zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- 67b) § 5 ods. 1 písm. j) zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 68) Čl. 83 delegovaného nariadenia (EÚ) 2017/565.
 

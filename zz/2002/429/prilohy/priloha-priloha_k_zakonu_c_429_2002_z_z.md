@@ -17,3 +17,7 @@ Príloha k zákonu č. 429/2002 Z. z.
   - 7. Smernica Európskeho parlamentu a Rady 2014/65/EÚ z 15. mája 2014 o trhoch s finančnými nástrojmi, ktorou sa mení smernica 2002/92/ES a smernica 2011/61/EÚ (prepracované znenie) (Ú. v. EÚ L 173, 12. 6. 2014) v znení nariadenia (EÚ) č. 909/2014 (Ú. v. EÚ L 257, 28. 8. 2014) a smernice (EÚ) 2016/1034 (Ú. v. EÚ L 175, 30. 6. 2016).
 
   - 8. Smernica Európskeho parlamentu a Rady (EÚ) 2019/2034 z 27. novembra 2019 o prudenciálnom dohľade nad investičnými spoločnosťami a o zmene smerníc 2002/87/ES, 2009/65/ES, 2011/61/ES, 2013/36/EÚ, 2014/59/EÚ a 2014/65/EÚ (Ú. v. EÚ L 314, 5. 12. 2019).
+
+  - 9. Smernica Európskeho parlamentu a Rady (EÚ) 2022/2464 zo 14. decembra 2022, ktorou sa mení nariadenie (EÚ) č. 537/2014, smernica 2004/109/ES, smernica 2006/43/ES a smernica 2013/34/EÚ, pokiaľ ide o vykazovanie informácií o udržateľnosti podnikov (Ú. v. EÚ L 322, 16. 12. 2022).
+
+  - 10. Smernica Európskeho parlamentu a Rady (EÚ) 2021/338 zo 16. februára 2021, ktorou sa mení smernica 2014/65/EÚ, pokiaľ ide o požiadavky na informácie, správu produktov a obmedzenia pozícií, a smernice 2013/36/EÚ a (EÚ) 2019/878, pokiaľ ide o ich uplatňovanie na investičné spoločnosti, v záujme pomoci pri obnove po kríze spôsobenej ochorením COVID-19 (Ú. v. EÚ L 68, 26. 2. 2021).
