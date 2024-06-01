@@ -60,6 +60,8 @@
 
 - 23) Napríklad § 27 a 28 zákona č. 523/2004 Z. z.
 
+- 23a) § 79 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 24) Napríklad § 21 zákona č. 131/2002 Z. z.
 
 - 24a) § 7 zákona č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
