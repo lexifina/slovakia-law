@@ -1,6 +1,6 @@
 # § 21c
 
-(1) Organizačná zložka zahraničného subjektu je povinná uložiť správu s informáciami o dani z príjmov týkajúcu sa jej zahraničného konečného materského subjektu alebo zahraničného samostatného subjektu do registra v súlade s § 23a ods. 11 a do zbierky listín obchodného registra, ak v každom z dvoch bezprostredne po sebe nasledujúcich účtovných obdobiach jej čistý obrat presiahne sumu 8 000 000 eur a sú splnené tieto podmienky:
+(1) Organizačná zložka zahraničného subjektu je povinná uložiť správu s informáciami o dani z príjmov týkajúcu sa jej zahraničného konečného materského subjektu alebo zahraničného samostatného subjektu do registra v súlade s § 23a ods. 11 a do zbierky listín obchodného registra, ak v každom z dvoch bezprostredne po sebe nasledujúcich účtovných obdobiach jej čistý obrat presiahne sumu 10 000 000 eur a sú splnené tieto podmienky:
 
 - a) zahraničný subjekt, ktorý zriadil organizačnú zložku zahraničného subjektu, je
 
@@ -16,10 +16,10 @@
 
 (2) Povinnosť organizačnej zložky zahraničného subjektu uložiť správu s informáciami o dani z príjmov podľa odseku 1 zaniká, ak v každom z dvoch účtovných období bezprostredne nasledujúcich po účtovnom období, za ktoré jej vznikla povinnosť uložiť správu s informáciami o dani z príjmov podľa odseku 1,
 
-- a) čistý obrat organizačnej zložky zahraničného subjektu nepresiahne sumu 8 000 000 eur alebo
+- a) čistý obrat organizačnej zložky zahraničného subjektu nepresiahne sumu 10 000 000 eur alebo
 
 - b) konsolidované výnosy zahraničného konečného materského subjektu alebo výnosy zahraničného samostatného subjektu podľa odseku 1 písm. a) nepresiahnu sumu 750 000 000 eur alebo ekvivalentnú sumu.
 
 (3) Ak organizačná zložka zahraničného subjektu uvedená v odseku 1 nemá k dispozícii správu s informáciami o dani z príjmov týkajúcu sa jej zahraničného konečného materského subjektu alebo zahraničného samostatného subjektu, požiada svoj zahraničný konečný materský subjekt alebo zahraničný samostatný subjekt, aby jej poskytol všetky informácie potrebné na to, aby mohla splniť povinnosť podľa odseku 1. Ak organizačná zložka zahraničného subjektu uvedená v odseku 1 nezíska od svojho zahraničného konečného materského subjektu alebo zahraničného samostatného subjektu všetky požadované informácie na uloženie tejto správy, vyhotoví a uloží v súlade s odsekom 1 správu s informáciami o dani z príjmov, v ktorej uvedie všetky informácie, ktoré má k dispozícii a súčasne vyhlási, že jej zahraničný konečný materský subjekt alebo zahraničný samostatný subjekt neposkytol potrebné informácie.
 
-(4) Povinnosť uložiť správu s informáciami o dani z príjmov podľa odseku 1 sa vzťahuje aj na organizačnú zložku zahraničného subjektu, ktorej čistý obrat nepresahuje v každom z dvoch bezprostredne po sebe nasledujúcich účtovných obdobiach sumu 8 000 0000 eur, ak táto účtovná jednotka vykonáva svoju činnosť len za účelom vyhýbania sa tejto povinnosti.
+(4) Povinnosť uložiť správu s informáciami o dani z príjmov podľa odseku 1 sa vzťahuje aj na organizačnú zložku zahraničného subjektu, ktorej čistý obrat nepresahuje v každom z dvoch bezprostredne po sebe nasledujúcich účtovných obdobiach sumu 10 000 000 eur, ak táto účtovná jednotka vykonáva svoju činnosť len za účelom vyhýbania sa tejto povinnosti.

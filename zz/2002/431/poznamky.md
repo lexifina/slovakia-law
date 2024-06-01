@@ -14,6 +14,8 @@
 
 - § 42 zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
 
+- 4b) Čl. 2 bod 24 nariadenia Európskeho parlamentu a Rady (EÚ) 2019/2088 z 27. novembra 2019 o zverejňovaní informácií o udržateľnosti v sektore finančných služieb (Ú. v. EÚ L 317, 9. 12. 2019) v platnom znení.
+
 - 4c) Zákon č. 97/2013 Z. z. o pozemkových spoločenstvách.
 
 - 4d) § 2 ods. 1 a 2 zákona č. 309/2023 Z. z. o premenách obchodných spoločností a družstiev a o zmene a doplnení niektorých zákonov.
@@ -22,11 +24,15 @@
 
 - 4f) § 2 ods. 17 písm. g) zákona č. 309/2023 Z. z.
 
+- 4g) § 4 ods. 2 zákona č. 39/2015 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov.
+
+- 4h) § 4 ods. 8 zákona č. 39/2015 Z. z.
+
 - 5) § 3 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
 - 7a) Napríklad § 69 ods. 6 písm. d) Obchodného zákonníka.
 
-- 8) § 4 ods. 2 zákona Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky v znení neskorších predpisov.
+- 8) § 18 zákona č. 400/2015 Z. z. o tvorbe právnych predpisov a o Zbierke zákonov Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení zákona č. 134/2020 Z. z.
 
 - 8a) § 8 písm. d) zákona č. 309/2023 Z. z.
 
@@ -40,7 +46,9 @@
 
 - 11) Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch).
 
-- 12) Zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov.
+- 12) Zákon č. 39/2015 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 581/2004 Z. z. v znení neskorších predpisov.
 
 - 13) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku v znení neskorších predpisov.
 
@@ -98,7 +106,7 @@
 
 - 22c) § 2 zákona č. 423/2015 Z. z. o štatutárnom audite a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
-- 22ca) § 14 ods. 2 zákona č. 595/2003 Z. z. v znení zákona č. 688/2006 Z. z.
+- 22ca) § 14 ods. 2 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
 - 24) Napríklad § 40 zákona č. 483/2001 Z. z., § 34 ods. 3 zákona č. 34/2002 Z. z.
 
@@ -118,9 +126,13 @@
 
 - 26aa) Napríklad § 25 zákona č. 147/1997 Z. z., § 34 zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení zákona č. 35/2002 Z. z.
 
-- 27) Napríklad § 39 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov, § 33 ods. 3 zákona č. 213/1997 Z. z. v znení zákona č. 445/2008 Z. z., § 34 ods. 3 zákona č. 34/2002 Z. z. v znení zákona č. 463/2013 Z. z.
+- 26b) § 27 ods. 6 zákona č. 423/2015 Z. z.
+
+- 27) Napríklad § 39 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov, § 9 ods. 13 zákona č. 396/2012 Z. z. o Fonde na podporu vzdelávania v znení zákona č. 175/2022 Z. z.
 
 - 27a) §161d ods. 2 Obchodného zákonníka.
+
+- 27b) § 34c zákona č. 423/2015 Z. z. v znení zákona č. 105/2024 Z. z.
 
 - 28) Napríklad § 25 ods. 3 zákona č. 147/1997 Z. z. v znení neskorších predpisov, § 34 ods. 2 zákona č. 213/1997 Z. z. v znení zákona č. 112/2018 Z. z., § 35 ods. 2 zákona č. 34/2002 Z. z. v znení neskorších predpisov.
 
@@ -130,8 +142,6 @@
 
 - 28ab) Napríklad § 15 zákona č. 429/2002 Z. z. v znení neskorších predpisov, § 76 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
-- 28b) § 23 zákona č. 540/2007 Z. z.
-
 - 28c) Napríklad § 18 zákona č. 429/2002 Z. z. o burze cenných papierov v znení neskorších predpisov.
 
 - 28ca) § 51 ods. 1 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
@@ -139,6 +149,26 @@
 - 28d) Príloha č. 1 sekcia B divízia 05 až 08 nariadenia Európskeho parlamentu a Rady (ES) č. 1893/2006 z 20. decembra 2006, ktorým sa zavádza štatistická klasifikácia ekonomických činností NACE Revision 2 a ktorým sa mení a dopĺňa nariadenie Rady (EHS) č. 3037/90 a niektoré nariadenia ES o osobitných oblastiach štatistiky (Ú. v. EÚ L 393, 30. 12. 2006) v platnom znení.
 
 - 28e) Príloha č. 1 sekcia A divízia 02 skupina 02.2 nariadenia (ES) č. 1893/2006 v platnom znení.
+
+- 28ea) Čl. 2 bod 12 písm. b) a f) nariadenia (EÚ) 2019/2088 v platnom znení.
+
+- 28eb) Čl. 3 delegovaného nariadenia Komisie (EÚ) 2019/815 zo 17. decembra 2018, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady (EÚ) 2004/109/ES, pokiaľ ide o regulačné technické predpisy o špecifikácii jednotného elektronického formátu vykazovania (Ú. v. EÚ L 143, 29. 5. 2019) v platnom znení.
+
+- 28ec) Čl. 8 nariadenia Európskeho parlamentu a Rady (EÚ) 2020/852 z 18. júna 2020 o vytvorení rámca na uľahčenie udržateľných investícií a o zmene nariadenia (EÚ) 2019/2088 (Ú. v. EÚ L 198, 22. 6. 2020).
+
+- 28ed) Oznámenie Ministerstva zahraničných vecí a európskych záležitostí Slovenskej republiky o prijatí Parížskej dohody (oznámenie č. 99/2017 Z. z.).
+
+- 28ee) Nariadenie Európskeho parlamentu a Rady (EÚ) 2021/1119 z 30. júna 2021, ktorým sa stanovuje rámec na dosiahnutie klimatickej neutrality a menia nariadenia (ES) č. 401/2009 a (EÚ) 2018/1999 (európsky právny predpis v oblasti klímy) (Ú. v. EÚ L 243, 9. 7. 2021).
+
+- 28ef) Napríklad delegované nariadenie Komisie (EÚ) 2023/2772 z 31. júla 2023, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2013/34/EÚ, pokiaľ ide o štandardy vykazovania informácií o udržateľnosti (Ú. v. EÚ L, 2023/2772, 22. 12. 2023).
+
+- 28eg) Čl. 4 ods. 1 bod 145 nariadenia Európskeho parlamentu a Rady (EÚ) č. 575/2013 z 26. júna 2013 o prudenciálnych požiadavkách na úverové inštitúcie a o zmene nariadenia (EÚ) č. 648/2012 (Ú. v. EÚ L 176, 27. 6. 2013) v platnom znení.
+
+- 28eh) § 81 ods. 1 písm. c) zákona č. 39/2015 Z. z.
+
+- 28ei) § 82 ods. 2 písm. a) až c) zákona č. 39/2015 Z. z.
+
+- 28ej) § 8a a 8b zákona č. 423/2015 Z. z. v znení zákona č. 105/2024 Z. z.
 
 - 28f) Medzinárodný účtovný štandard 1 body 102 a 103 Prílohy k nariadeniu (ES) č. 1126/2008 v platnom znení.
 
@@ -154,11 +184,19 @@
 
 - 29c) § 2 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 29ca) Zákon č. 500/2022 Z. z. o Vojenskom spravodajstve.
+
+- 29cb) Napríklad zákon č. 215/2004 Z. z. v znení neskorších predpisov.
+
 - 29d) Zákon č. 95/2019 Z. z. o informačných technológiách vo verejnej správe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 29da) § 34 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
 
+- 29daa) Čl. 26 nariadenia Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) (Ú. v. EÚ L 119, 4. 5. 2016).
+
 - 29db) § 5 písm. ab) zákona č. 483/2001 Z. z. v znení zákona č. 213/2014 Z. z.
+
+- 29dc) § 3 ods. 1 písm. q), ods. 2 písm. l), ods. 3 písm. m) a ods. 5 písm. d) zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov v znení zákona č. 302/2023 Z. z.
 
 - 29g) § 41 ods. 1 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
@@ -172,7 +210,7 @@
 
 - 29ia) § 13 ods. 5 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
 
-- 29ib) Delegované nariadenie Komisie (EÚ) 2019/815 zo 17. decembra 2018, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady (EÚ) 2004/109/ES, pokiaľ ide o regulačné technické predpisy o špecifikácii jednotného elektronického formátu vykazovania (Ú. v. EÚ L 143, 29. 5. 2019) v platnom znení.
+- 29ib) Delegované nariadenie (EÚ) 2019/815 v platnom znení.
 
 - 29ic) § 27 až 29 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
 
@@ -194,11 +232,9 @@
 
 - 29o) § 66b ods. 3 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
-- 30) Zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
+- 29p) Napríklad čl. 3 nariadenia Európskeho parlamentu a Rady (EÚ) 2017/821 zo 17. mája 2017, ktorým sa ustanovujú povinnosti náležitej starostlivosti v dodávateľskom reťazci dovozcov Únie dovážajúcich cín, tantal a volfrám, ich rudy a zlato s pôvodom v oblastiach zasiahnutých konfliktom a vo vysokorizikových oblastiach (Ú. v. EÚ L 130, 19. 5. 2017) v platnom znení.
 
-- 31) Zákon č. 483/2001 Z. z.Zákon č. 95/2002 Z. z.
-
-- 32) Zákon č. 429/2002 Z. z. o burze cenných papierov.
+- 29q) Napríklad čl. 2 bod 20 nariadenia Európskeho parlamentu a Rady (ES) č. 1221/2009 z 25. novembra 2009 o dobrovoľnej účasti organizácií v schéme Spoločenstva pre environmentálne manažérstvo a audit (EMAS), ktorým sa zrušuje nariadenie (ES) č. 761/2001 a rozhodnutia Komisie 2001/681/ES a 2006/193/ES (Ú. v. EÚ L 342, 22. 12. 2009) v platnom znení, čl. 6 nariadenia (EÚ) 2017/821 v platnom znení, § 19 zákona č. 53/2023 Z. z. o akreditácii orgánov posudzovania zhody.
 
 - 33) Napríklad zákon č. 483/2001 Z. z. v znení neskorších predpisov, zákon č. 566/2001 Z. z. v znení neskorších predpisov, zákon č. 594/2003 Z. z. v znení neskorších predpisov.
 
@@ -225,10 +261,6 @@
 - 35b) § 20 ods. 9 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
 - 35c) § 22 až 29 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
-
-- 36) § 20 zákona č. 595/2003 Z. z.
-
-- 37) Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. v znení neskorších predpisov.Zákon č. 280/1997 Z. z. v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č.118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.Zákon č. 381/2001 Z. z.
 
 - 37a) § 73a až 73j zákona č. 594/2003 Z. z. v znení zákona č. 213/2006 Z. z.
 

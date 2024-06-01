@@ -23,3 +23,7 @@ Príloha k zákonu č. 431/2002 Z. z. v znení neskorších predpisov
   - 10. Smernica Európskeho parlamentu a Rady (EÚ) 2017/1132 zo 14. júna 2017 týkajúca sa niektorých aspektov práva obchodných spoločností (kodifikované znenie) (Ú. v. EÚ L 169, 30. 6. 2017) v znení smernice Európskeho parlamentu a Rady (EÚ) 2019/1023 z 20. júna 2019 (Ú. v. EÚ L 172, 26. 6. 2019) a smernice Európskeho parlamentu a Rady (EÚ) 2019/1151 z 20. júna 2019 (Ú. v. EÚ L 186, 11. 7. 2019).
 
   - 11. Smernica Európskeho parlamentu a Rady (EÚ) 2021/2101 z 24. novembra 2021, ktorou sa mení smernica 2013/34/EÚ, pokiaľ ide o zverejňovanie informácií o dani z príjmov určitými podnikmi a pobočkami (Ú. v. EÚ L 429, 1. 12. 2021).
+
+  - 12. Smernica Európskeho parlamentu a Rady (EÚ) 2022/2464 zo 14. decembra 2022, ktorou sa mení nariadenie (EÚ) č. 537/2014, smernica 2004/109/ES, smernica 2006/43/ES a smernica 2013/34/EÚ, pokiaľ ide o vykazovanie informácií o udržateľnosti podnikov (Ú. v. EÚ L 322, 16. 12. 2022).
+
+  - 13. Delegovaná smernica Komisie (EÚ) 2023/2775 zo 17. októbra 2023, ktorou sa mení smernica Európskeho parlamentu a Rady 2013/34/EÚ, pokiaľ ide o úpravy veľkostných kritérií pre mikropodniky, malé, stredné a veľké podniky alebo skupiny (Ú. v. EÚ L, 2023/2775, 21. 12. 2023).

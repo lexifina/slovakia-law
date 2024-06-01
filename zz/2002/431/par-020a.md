@@ -1,6 +1,6 @@
 # § 20a Ročná správa o platbách orgánom verejnej moci
 
-(1) Veľká účtovná jednotka, ktorá je obchodnou spoločnosťou a subjekt verejného záujmu, ktoré pôsobia v ťažobnom priemysle alebo v klčovaní prirodzených lesov, zostavujú a zverejňujú ročnú správu o platbách orgánom verejnej moci (ďalej len „správa o platbách“). Povinnosť zostaviť a zverejniť správu o platbách nemá podnik z členského štátu, ktorý je materskou účtovnou jednotkou alebo dcérskou účtovnou jednotkou, ak materská účtovná jednotka podlieha právu niektorého členského štátu a poskytnuté platby sú zahrnuté v konsolidovanej správe o platbách orgánom verejnej moci (ďalej len „konsolidovaná správa o platbách“).
+(1) Veľká účtovná jednotka, ktorá je obchodnou spoločnosťou a subjekt verejného záujmu, ktoré pôsobia v ťažobnom priemysle alebo v klčovaní prirodzených lesov, zostavujú a zverejňujú ako súčasť výročnej správy ročnú správu o platbách orgánom verejnej moci (ďalej len „správa o platbách“). Povinnosť zostaviť a zverejniť správu o platbách nemá podnik z členského štátu, ktorý je materskou účtovnou jednotkou alebo dcérskou účtovnou jednotkou, ak materská účtovná jednotka podlieha právu niektorého členského štátu a poskytnuté platby sú zahrnuté v konsolidovanej správe o platbách orgánom verejnej moci (ďalej len „konsolidovaná správa o platbách“).
 
 (2) Na účely tohto zákona sa rozumie
 
