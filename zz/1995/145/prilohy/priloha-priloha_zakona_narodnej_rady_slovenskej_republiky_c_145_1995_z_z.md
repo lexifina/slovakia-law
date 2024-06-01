@@ -4260,7 +4260,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 5. | certifikátu experta podľa písmena z) ... | 10 eur
 
-  - ab) | oznámenie o zložení a označovaní výživových doplnkov alebo nových potravín, ktoré sa umiestňujú na trh .................... | | 30 eur
+  - ab) | Oznámenie o umiestnení výživového doplnku na trh v Slovenskej republike .................... | | 30 eur
 
   - ac) | Vydanie osvedčenia Ministerstva zdravotníctva Slovenskej republiky o akreditácii študijného programu sústavného vzdelávania<sup>36bd</sup>)..... | | 70 eur
 
