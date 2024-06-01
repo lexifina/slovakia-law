@@ -13,3 +13,5 @@ Príloha k zákonu č. 530/2003 Z. z. v znení neskorších predpisov
   - 5. Smernica Európskeho parlamentu a Rady (EÚ) 2019/1151 z 20. júna 2019, ktorou sa mení smernica (EÚ) 2017/1132, pokiaľ ide o používanie digitálnych nástrojov a postupov v rámci práva obchodných spoločností (Ú. v. EÚ L 186, 11. 7. 2019).
 
   - 6. Smernica Európskeho parlamentu a Rady (EÚ) 2019/2121 z 27. novembra 2019, ktorou sa mení smernica (EÚ) 2017/1132, pokiaľ ide o cezhraničné premeny, zlúčenia alebo splynutia a rozdelenia (Ú. v. EÚ L 321, 12. 12. 2019).
+
+  - 7. Smernica Európskeho parlamentu a Rady (EÚ) 2022/2464 zo 14. decembra 2022, ktorou sa mení nariadenie (EÚ) č. 537/2014, smernica 2004/109/ES, smernica 2006/43/ES a smernica 2013/34/EÚ, pokiaľ ide o vykazovanie informácií o udržateľnosti podnikov (Ú. v. EÚ L 322, 16. 12. 2022).
