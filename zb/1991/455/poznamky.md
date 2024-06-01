@@ -76,6 +76,8 @@
 
 - 14b) Zákon č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a pôžičkách pre spotrebiteľov a o zmene a doplnení niektorých zákonov.
 
+- 14c) Zákon č. 106/2024 Z. z. o správcoch úverov a nákupcoch úverov a o zmene a doplnení niektorých zákonov.
+
 - 15) Zákon č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov.
 
 - 16) § 2 a § 3 písm. a) zákona Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení zákona Slovenskej národnej rady č. 499/1991 Zb.
