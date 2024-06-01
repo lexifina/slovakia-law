@@ -25,3 +25,5 @@ Príloha k zákonu č. 747/2004 Z. z.
   - 11. Smernica Európskeho parlamentu a Rady (EÚ) 2016/97 z 20. januára 2016 o distribúcii poistenia (prepracované znenie) (Ú. v. EÚ L 26, 2. 2. 2016).
 
   - 12. Smernica Európskeho Parlamentu a Rady (EÚ) 2019/2034 z 27. novembra 2019 o prudenciálnom dohľade nad investičnými spoločnosťami a o zmene smerníc 2002/87/ES, 2009/65/ES, 2011/61/EÚ, 2013/36/EÚ, 2014/59/EÚ a 2014/65/EÚ (Ú. v. EÚ L 314, 5. 12. 2019).
+
+  - 13. Smernica Európskeho parlamentu a Rady (EÚ) 2021/2167 z 24. novembra 2021 o správcoch úverov a nákupcoch úverov a o zmene smerníc 2008/48/ES a 2014/17/EÚ (Ú. v. EÚ L 438, 8. 12. 2021).
