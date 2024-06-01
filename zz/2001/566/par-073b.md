@@ -94,7 +94,7 @@
 
 - b) obchodník s cennými papiermi informuje svojho klienta o spoločných platbách za vykonanie pokynov a investičný prieskum uhrádzaných poskytovateľom investičného prieskumu,
 
-- c) investičný prieskum, za ktorý sa uhrádzajú kombinované poplatky alebo spoločné platby, sa vzťahuje na emitentov, ktorí nepresiahli trhovú kapitalizáciu vo výške 1 000 000 000 eur počas 36 mesiacov pred uskutočnením investičného prieskumu.
+- c) investičný prieskum, za ktorý sa uhrádzajú kombinované poplatky alebo spoločné platby, sa vzťahuje na emitentov, ktorí nepresiahli trhovú kapitalizáciu vo výške 1 000 000 000 eur počas 36 mesiacov pred uskutočnením investičného prieskumu, vyjadrenú v koncoročných kotáciách za roky, v ktorých sú alebo boli kótované alebo vyjadrenú vlastným imaním za finančné roky, v ktorých nie sú alebo neboli kótované.
 
 (19) Na účely tohto paragrafu sa investičným prieskumom rozumie výskumný materiál alebo služby týkajúce sa jedného alebo viacerých finančných nástrojov alebo iných aktív, alebo emitentov finančných nástrojov alebo potenciálnych emitentov finančných nástrojov alebo výskumný materiál alebo služby úzko súvisiace s konkrétnym odvetvím alebo príslušným trhom, ktorý informuje o finančných nástrojoch, aktívach alebo emitentoch v rámci konkrétneho odvetvia alebo príslušného trhu.
 

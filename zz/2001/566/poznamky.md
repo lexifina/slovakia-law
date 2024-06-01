@@ -54,6 +54,8 @@
 
 - 17a) Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 17aa) Nariadenie Európskeho parlamentu a Rady (EÚ) 2022/858 z 30. mája 2022 o pilotnom režime pre trhové infraštruktúry založené na technológii distribuovanej databázy transakcií a o zmene nariadení (EÚ) č. 600/2014 a (EÚ) č. 909/2014 a smernice 2014/65/EÚ (Ú. v. EÚ L 151, 2. 6. 2022).
+
 - 17b) Čl. 9 delegovaného nariadenia Komisie (EÚ) 2017/565 z 25. apríla 2016, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ, pokiaľ ide o organizačné požiadavky a podmienky výkonu činnosti investičných spoločností, ako aj o vymedzené pojmy na účely uvedenej smernice (Ú. v. EÚ L 87, 31. 3. 2017).
 
 - 18) § 15 ods. 1 písm. b) zákona č. 330/2000 Z. z. o burze cenných papierov.
@@ -736,6 +738,8 @@
 
 - § 75 zákona č. 215/2004 Z. z. v znení zákona č. 195/2014 Z. z.
 
+- 107fa) Nariadenie Európskeho parlamentu a Rady (EÚ) 2023/2631 z 22. novembra 2023 o európskych zelených dlhopisoch a voliteľnom zverejňovaní informácií pri dlhopisoch uvádzaných na trh ako environmentálne udržateľné a pri dlhopisoch viazaných na udržateľnosť (Ú. v. EÚ L, 2023/2631, 30. 11. 2023) v platnom znení.
+
 - 107g) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) 2015/2365 z 25. novembra 2015 o transparentnosti transakcií financovania prostredníctvom cenných papierov a opätovného použitia a o zmene nariadenia (EÚ) č. 648/2012 (Ú. v. EÚ L 337, 23. 12. 2015).
 
 - 108) § 23, 26, 27 a § 29 písm. a) a d) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 149/2001 Z. z.
@@ -792,7 +796,7 @@
 
 - 110i) Čl. 15 nariadenia (EÚ) 1093/2010 v platnom znení.
 
-- 110ja) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) č. 596/2014 zo 16. apríla 2014 o zneužívaní trhu (nariadenie o zneužívaní trhu) a o zrušení smernice Európskeho parlamentu a Rady 2003/6/ES a smerníc Komisie 2003/124/ES, 2003/125/ES a 2004/72/ES (Ú. v. EÚ L 173, 12. 6. 2014) v platnom znení, nariadenie (EÚ) 2015/2365, nariadenie (EÚ) 2016/1011, nariadenie Európskeho parlamentu a Rady (EÚ) 2017/2402 z 12. decembra 2017, ktorým sa ustanovuje všeobecný rámec pre sekuritizáciu a vytvára sa osobitný rámec pre jednoduchú, transparentnú a štandardizovanú sekuritizáciu a ktorým sa menia smernice 2009/65/ES, 2009/138/ES a 2011/61/EÚ a nariadenie (ES) č. 1060/2009 a nariadenie (EÚ) č. 648/2012 (Ú. v. EÚ L 347, 28. 12. 2017), nariadenie (EÚ) 2020/1503, nariadenie (EÚ) 2021/23.
+- 110ja) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) č. 596/2014 zo 16. apríla 2014 o zneužívaní trhu (nariadenie o zneužívaní trhu) a o zrušení smernice Európskeho parlamentu a Rady 2003/6/ES a smerníc Komisie 2003/124/ES, 2003/125/ES a 2004/72/ES (Ú. v. EÚ L 173, 12. 6. 2014) v platnom znení, nariadenie (EÚ) 2015/2365, nariadenie (EÚ) 2016/1011, nariadenie Európskeho parlamentu a Rady (EÚ) 2017/2402 z 12. decembra 2017, ktorým sa ustanovuje všeobecný rámec pre sekuritizáciu a vytvára sa osobitný rámec pre jednoduchú, transparentnú a štandardizovanú sekuritizáciu a ktorým sa menia smernice 2009/65/ES, 2009/138/ES a 2011/61/EÚ a nariadenie (ES) č. 1060/2009 a nariadenie (EÚ) č. 648/2012 (Ú. v. EÚ L 347, 28. 12. 2017), nariadenie (EÚ) 2020/1503, nariadenie (EÚ) 2021/23, nariadenie (EÚ) 2023/2631 v platnom znení.
 
 - 110jb) Čl. 25 ods. 2 nariadenia (EÚ) č. 596/2014.
 
@@ -836,9 +840,9 @@
 
 - 110ln) Čl. 19 ods. 1 druhý pododsek nariadenia (EÚ) č. 1093/2010 v platnom znení.
 
-- 110m) Napríklad čl. 30 ods. 1 nariadenia (EÚ) č. 596/2014 v platnom znení, čl. 22 nariadenia (EÚ) 2015/2365, čl. 42 nariadenia (EÚ) 2016/1011, čl. 32 nariadenia (EÚ) 2017/2402, čl. 39 ods. 1 nariadenia (EÚ) 2020/1503, čl. 82 ods. 1 nariadenia (EÚ) 2021/23.
+- 110m) Napríklad čl. 30 ods. 1 nariadenia (EÚ) č. 596/2014 v platnom znení, čl. 22 nariadenia (EÚ) 2015/2365, čl. 42 nariadenia (EÚ) 2016/1011, čl. 32 nariadenia (EÚ) 2017/2402, čl. 39 ods. 1 nariadenia (EÚ) 2020/1503, čl. 82 ods. 1 nariadenia (EÚ) 2021/23, čl. 49 ods. 1 nariadenia (EÚ) 2023/2631 v platnom znení.
 
-- 110n) Napríklad čl. 30 ods. 2 a čl. 31 nariadenia (EÚ) č. 596/2014 v platnom znení, čl. 22 a 23 nariadenia (EÚ) 2015/2365, čl. 42 a 43 nariadenia (EÚ) 2016/1011, čl. 32 ods. 2 a 3 a čl. 33 nariadenia (EÚ) 2017/2402, čl. 39 ods. 2 a čl. 40 nariadenia (EÚ) 2020/1503, čl. 82 ods. 2 nariadenia (EÚ) 2021/23.
+- 110n) Napríklad čl. 30 ods. 2 a čl. 31 nariadenia (EÚ) č. 596/2014 v platnom znení, čl. 22 a 23 nariadenia (EÚ) 2015/2365, čl. 42 a 43 nariadenia (EÚ) 2016/1011, čl. 32 ods. 2 a 3 a čl. 33 nariadenia (EÚ) 2017/2402, čl. 39 ods. 2 a čl. 40 nariadenia (EÚ) 2020/1503, čl. 82 ods. 2 nariadenia (EÚ) 2021/23, čl. 49 ods. 4 nariadenia (EÚ) 2023/2631 v platnom znení.
 
 - 111) Napríklad Obchodný zákonník v znení neskorších predpisov, Občiansky zákonník v znení neskorších predpisov, zákon č. 659/2007 Z. z.
 
