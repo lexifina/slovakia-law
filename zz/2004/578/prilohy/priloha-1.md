@@ -37,3 +37,5 @@ Príloha č. 1 k zákonu č. 578/2004 Z. z.
   - 17. Delegované rozhodnutie Komisie (EÚ) 2020/548 z 23. januára 2020, ktorým sa mení príloha V k smernici Európskeho parlamentu a Rady 2005/36/ES, pokiaľ ide o doklady o formálnej kvalifikácii a názvy špecializačných odborov (Ú. v. EÚ L 131, 24. 4. 2020).
 
   - 18. Delegované rozhodnutie Komisie (EÚ) 2021/2183 z 25. augusta 2021, ktorým sa mení príloha V k smernici Európskeho parlamentu a Rady 2005/36/ES, pokiaľ ide o doklady o formálnej kvalifikácii a názvy špecializačných odborov (Ú. v. EÚ L 444, 10. 12. 2021).
+
+  - 19. Delegované rozhodnutie Komisie (EÚ) 2023/2383 z 23. mája 2023, ktorým sa mení a opravuje smernica Európskeho parlamentu a Rady 2005/36/ES, pokiaľ ide o doklady o formálnej kvalifikácii a názvy špecializačných odborov (Ú. v. EÚ L, 2023/2383, 9. 10. 2023).

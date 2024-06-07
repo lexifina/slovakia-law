@@ -182,6 +182,8 @@
 
 - 28ac) § 18a zákona č. 422/2015 Z. z. v znení neskorších predpisov.
 
+- 28aca) § 2 písm. a) druhý bod a § 7 zákona č. 474/2005 Z. z. o Slovákoch žijúcich v zahraničí a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 28b) § 2 ods. 5 zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení zákona č. 75/2013 Z. z.
 
 - 28c) § 37 zákona č. 404/2011 Z. z. v znení zákona č. 495/2013 Z. z.
@@ -218,12 +220,6 @@
 
 - Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z.z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 32) § 4 ods. 1 zákona č. 386/1997 Z. z. o ďalšom vzdelávaní a o zmene zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z. v znení zákona č. 567/2001 Z. z.
-
-- 32a) § 11 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
-
-- § 51 zákona č. 131/2002 Z. z. v znení neskorších predpisov.
-
 - 33) Zákon č. 401/2002 Z. z. o zriadení Slovenskej zdravotníckej univerzity a o doplnení zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení zákona č. 209/2002 Z. z. v znení zákona č. 528/2003 Z. z.
 
 - 33a) Zákon č. 131/2002 Z. z. v znení neskorších predpisov.
@@ -231,6 +227,8 @@
 - Zákon č. 245/2008 Z. z. v znení neskorších predpisov.
 
 - 33aa) § 17 ods. 1 vyhlášky Ministerstva zdravotníctva slovenskej republiky č. 84/2016 Z. z., ktorou sa ustanovujú určujúce znaky jednotlivých druhov zdravotníckych zariadení.
+
+- 33aaa) § 5a ods. 4 zákona č. 211/2000 Z. z.
 
 - 33ab) § 14 ods. 1 písm. a) zákona č. 153/2013 Z. z. v znení neskorších predpisov.
 
@@ -314,6 +312,8 @@
 
 - 55caa) § 67b ods. 3 písm. d) a j) zákona č. 581/2004 Z. z.
 
+- 55cab) § 2 ods. 1 zákona č. 540/2021 Z. z.
+
 - 55cb) § 67b ods. 3 zákona č. 581/2004 Z. z. v znení zákona č. 392/2020 Z. z.
 
 - 55d) § 14 ods. 1 písm. a) až d) zákona č. 153/2013 Z. z.
@@ -373,6 +373,8 @@
 - 55jat) § 2 ods. 32 zákona č. 576/2004 Z. z. v znení zákona č. 257/2017 Z. z.
 
 - 55jata) § 2 ods. 33 zákona č. 576/2004 Z. z. v znení zákona č. 351/2017 Z. z.
+
+- 55jatb) § 46 ods. 1 písm. m) zákona č. 576/2004 Z. z. v znení zákona č. 125/2024 Z. z.
 
 - 55jau) § 8 ods. 10 zákona č. 581/2004 Z. z. v znení zákona č. 257/2017 Z. z.
 

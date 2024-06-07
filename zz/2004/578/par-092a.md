@@ -22,45 +22,51 @@
 
 - b) údaj o zdravotníckom povolaní,
 
-- c) registračné číslo v príslušnej komore, dátum registrácie, dátum začatia dočasného pozastavenia registrácie, dátum skončenia dočasného pozastavenia registrácie, dátum zrušenia alebo dátum zániku registrácie,
+- c) údaj o zamestnávateľovi vrátane každej zmeny,
 
-- d) v elektronickej podobe kópiu dokladu o odbornej spôsobilosti na výkon zdravotníckeho povolania podľa § 33 získanej ku dňu zaradenia do ďalšieho vzdelávania,
+- d) registračné číslo v príslušnej komore, dátum registrácie, dátum začatia dočasného pozastavenia registrácie, dátum skončenia dočasného pozastavenia registrácie, dátum zrušenia alebo dátum zániku registrácie,
 
-- e) sídlo vzdelávacej ustanovizne, dátum zriadenia vzdelávacej ustanovizne, dátum zrušenia vzdelávacej ustanovizne, identifikačné číslo a názov vzdelávacej ustanovizne, ktorá zdravotníckeho pracovníka zaradila do špecializačného štúdia alebo certifikačnej prípravy, sídlo a označenie fakulty,
+- e) kópiu dokladu o odbornej spôsobilosti na výkon zdravotníckeho povolania podľa § 33 získanej ku dňu zaradenia do ďalšieho vzdelávania v elektronickej podobe,
 
-- f) označenie špecializačného študijného programu alebo certifikačného študijného programu,
+- f) sídlo vzdelávacej ustanovizne, dátum zriadenia vzdelávacej ustanovizne, dátum zrušenia vzdelávacej ustanovizne, identifikačné číslo a názov vzdelávacej ustanovizne, ktorá zdravotníckeho pracovníka zaradila do špecializačného štúdia alebo certifikačnej prípravy, sídlo a označenie fakulty,
 
-- g) dátum zaradenia do špecializačného štúdia alebo certifikačnej prípravy,
+- g) označenie špecializačného študijného programu alebo certifikačného študijného programu,
 
-- h) údaje o žiadateľovi o zaradenie zdravotníckeho pracovníka do ďalšieho vzdelávania v rozsahu názov a identifikačné číslo, ak je žiadateľom organizácia, vrátane údajov zamestnávateľa v prípade jeho zmeny počas ďalšieho vzdelávania, ak bol žiadateľom zamestnávateľ, alebo meno a priezvisko, ak je žiadateľom zdravotnícky pracovník,
+- h) dátum zaradenia do špecializačného štúdia alebo certifikačnej prípravy,
 
-- i) údaj o zaradení zdravotníckeho pracovníka do špecializačného štúdia podľa § 39b ods. 1,
+- i) údaje o žiadateľovi o zaradenie zdravotníckeho pracovníka do ďalšieho vzdelávania v rozsahu názov a identifikačné číslo, ak je organizácia, vrátane údajov zamestnávateľa v prípade jeho zmeny počas ďalšieho vzdelávania, ak bol žiadateľom zamestnávateľ, alebo meno a priezvisko, ak je žiadateľom zdravotnícky pracovník,
 
-- j) údaj o započítaní zdravotných výkonov a odbornej praxe absolvovanej v Slovenskej republike pred zaradením zdravotníckeho pracovníka do špecializačného štúdia,
+- j) údaj o zaradení zdravotníckeho pracovníka do špecializačného štúdia podľa § 39b ods. 1,
 
-- k) údaj o započítaní zdravotných výkonov a odbornej praxe absolvovanej v cudzine,
+- k) údaj o započítaní zdravotných výkonov a odbornej praxe absolvovanej v Slovenskej republike pred zaradením zdravotníckeho pracovníka do špecializačného štúdia,
 
-- l) údaj o započítaní časti ukončeného špecializačného štúdia s uvedením kódu a názvu špecializačného odboru, z ktorého sa časť započítala, a dĺžky započítanej časti,
+- l) údaj o započítaní zdravotných výkonov a odbornej praxe absolvovanej v cudzine,
 
-- m) údaj o započítaní zdravotných výkonov, ktoré zdravotnícky pracovník vykonal v rámci odbornej praxe pri vykonávaní špecializovaných pracovných činností nad rozsah ustanoveného týždenného pracovného času,
+- m) údaj o započítaní časti ukončeného špecializačného štúdia s uvedením kódu a názvu špecializačného odboru, z ktorého sa časť započítala, a dĺžky započítanej časti,
 
-- n) údaj o dĺžke prerušenia špecializačného štúdia alebo certifikačnej prípravy,
+- n) údaj o započítaní zdravotných výkonov, ktoré zdravotnícky pracovník vykonal v rámci odbornej praxe pri vykonávaní špecializovaných pracovných činností nad rozsah ustanoveného týždenného pracovného času,
 
-- o) dôvod prerušenia špecializačného štúdia alebo certifikačnej prípravy,
+- o) údaj o započítaní rozsahu a obsahu absolvovaného špecializačného štúdia v príslušnom špecializačnom odbore pri zmene špecializačného odboru,
 
-- p) údaj o zmene špecializačného odboru, v ktorom je zdravotnícky pracovník zaradený na iný špecializačný odbor, a dátum zmeny,
+- p) údaj o započítaní rozsahu a obsahu absolvovaného špecializačného štúdia v príslušnom špecializačnom odbore pri zmene vzdelávacej ustanovizne,
 
-- r) údaj o zmene vzdelávacej ustanovizne s pokračovaním v špecializačnom štúdiu alebo certifikačnej príprave v tom istom špecializačnom odbore alebo certifikovanej pracovnej činnosti a dátum zmeny,
+- q) údaj o započítaní rozsahu a obsahu absolvovanej certifikačnej prípravy v príslušnej certifikovanej pracovnej činnosti pri zmene vzdelávacej ustanovizne,
 
-- s) dátum vydania, typ, identifikátor a dátum vloženia kópie dokladu v elektronickej podobe podľa písmen d) a r).
+- r) údaj o dĺžke prerušenia špecializačného štúdia alebo certifikačnej prípravy,
 
-- s) údaj o zmene vzdelávacej ustanovizne s pokračovaním v špecializačnom štúdiu v inom špecializačnom odbore a dátum zmeny,
+- s) dôvod prerušenia špecializačného štúdia alebo certifikačnej prípravy,
 
-- t) dátum a spôsob ukončenia špecializačného štúdia alebo certifikačnej prípravy,
+- t) údaj o zmene špecializačného odboru, v ktorom bol zdravotnícky pracovník zaradený, na iný špecializačný odbor a dátum zmeny,
 
-- u) v elektronickej podobe kópiu diplomu o špecializácii alebo certifikátu získaného ďalším vzdelávaním zdravotníckeho pracovníka,
+- u) údaj o zmene vzdelávacej ustanovizne s pokračovaním v špecializačnom štúdiu alebo certifikačnej príprave v tom istom špecializačnom odbore alebo certifikovanej pracovnej činnosti a dátum zmeny,
 
-- v) dátum vydania, typ, identifikátor a dátum vloženia kópie dokladu v elektronickej podobe podľa písmen d) a u).
+- v) údaj o zmene vzdelávacej ustanovizne s pokračovaním v špecializačnom štúdiu v inom špecializačnom odbore a dátum zmeny,
+
+- w) dátum a spôsob ukončenia špecializačného štúdia alebo certifikačnej prípravy,
+
+- x) v elektronickej podobe kópiu diplomu o špecializácii alebo certifikátu získaného ďalším vzdelávaním zdravotníckeho pracovníka,
+
+- y) dátum vydania, typ, identifikátor a dátum vloženia kópie dokladu v elektronickej podobe podľa písmen e) a x).
 
 (4) Ak ministerstvo zdravotníctva zistí, že údaje, ktoré vzdelávacia ustanovizeň poskytla národnému centru do Centrálneho registra zdravotníckych pracovníkov v ďalšom vzdelávaní, sú nesprávne alebo sú v rozpore so všeobecne záväznými právnymi predpismi, vyzve vzdelávaciu ustanovizeň, aby tieto nedostatky odstránila v ním určenej lehote.
 
