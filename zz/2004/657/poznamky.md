@@ -18,6 +18,8 @@
 
 - 5a) § 4 ods. 1 zákona č. 136/2010 Z. z. o službách na vnútornom trhu a o zmene a doplnení niektorých zákonov.
 
+- 5aa) § 16 zákona č. 250/2012 Z. z. o regulácii v sieťových odvetviach v znení neskorších predpisov.
+
 - 6) Zákon č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
 
 - 7) Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -36,7 +38,9 @@
 
 - 11) § 220 až 230 Civilného mimosporového poriadku.
 
-- 12) § 128 Občianskeho zákonníka v znení neskorších predpisov.
+- 11a) Zákon č. 250/2012 Z. z. o regulácii v sieťových odvetviach v znení neskorších predpisov.
+
+- 12) Napríklad § 22 ods. 4 a § 29 zákona č. 250/2012 Z. z. v znení neskorších predpisov.
 
 - 12a) § 6 ods. 1 písm. b) siedmy bod zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
@@ -94,9 +98,11 @@
 
 - § 469 až 470 Obchodného zákonníka.
 
-- 19) § 3 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
+- 19) Napríklad ústavný zákon č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov, zákon č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu v znení neskorších predpisov.
 
-- 19a) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+- 19a) § 5 zákona č. 179/2011 Z. z. o hospodárskej mobilizácii a o zmene a doplnení zákona č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu v znení neskorších predpisov v znení zákona č. 173/2015 Z. z.
+
+- 19aa) Napríklad ústavný zákon č. 227/2002 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov, zákon č. 387/2002 Z. z. v znení neskorších predpisov, zákon č. 179/2011 Z. z. v znení neskorších predpisov.
 
 - 19b) § 16 ods. 5 zákona č. 200/2022 Z. z. o územnom plánovaní v znení zákona č. 205/2023 Z. z.
 
