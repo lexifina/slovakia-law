@@ -196,6 +196,8 @@
 
 - 68) § 71 ods. 1 písm. b) vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 344/2009 Z. z., ktorou sa vykonáva zákon o poľovníctve.
 
+- 68a) § 3 ods. 2 písm. d) zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení zákona č. 127/2024 Z. z.
+
 - 68b) Zákon č. 15/2005 Z. z.
 
 - 69) Zákon č. 115/1998 Z. z. o múzeách a galériách a o ochrane predmetov múzejnej hodnoty a galerijnej hodnoty v znení neskorších predpisov.
@@ -383,6 +385,8 @@
 - 111) Napríklad § 52 zákona Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov, § 12 ods. 1 Trestného poriadku.
 
 - 112) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 215/2002 Z. z.
+
+- 112a) § 3b ods. 2 písm. f) zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení zákona č. 127/2024 Z. z.
 
 - 113) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
