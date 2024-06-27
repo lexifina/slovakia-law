@@ -2,6 +2,8 @@
 
 - 1fd) § 24 ods. 3 až 5 a 9 až 12, § 40a až § 40c zákona č. 200/2022 Z. z. o územnom plánovaní v znení neskorších predpisov.
 
+- 1fe) Zákon č. 142/2024 Z. z. o mimoriadnych opatreniach pre strategické investície a pre výstavbu transeurópskej dopravnej siete a o zmene a doplnení niektorých zákonov.
+
 - 1g) § 24 až 27 zákona č. 24/2006 Z. z. v znení neskorších predpisov.
 
 - 1ga) Zákon č. 24/2006 Z. z. v znení neskorších predpisov.

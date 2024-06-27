@@ -32,4 +32,6 @@
 
 (8) Konanie o spôsobilosti stavby na užívanie vykonáva stavebný úrad, ktorý by bol príslušný vydať pre stavbu kolaudačné rozhodnutie, a ak ide o stavbu, pre ktorú sa nevyžaduje kolaudácia, orgán, ktorý by bol príslušný na povolenie stavby.
 
-(9) Ustanovenia odsekov 1 až 8 sa nevzťahujú na reklamné stavby.
+(9) Dotknutým orgánom v konaní o preskúmaní spôsobilosti stavby na užívanie je obec, ako orgán územného plánovania, ktorá schválila najnižší dostupný stupeň územnoplánovacej dokumentácie. Pôsobnosť dotknutých orgánov podľa osobitných predpisov nie je dotknutá.
+
+(10) Ustanovenia odsekov 1 až 9 sa nevzťahujú na reklamné stavby.
