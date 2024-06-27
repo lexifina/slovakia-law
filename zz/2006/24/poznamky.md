@@ -4,6 +4,10 @@
 
 - 2a) § 3 ods. 2 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
 
+- 2b) Zákon č. 142/2024 Z. z. o mimoriadnych opatreniach pre strategické investície a pre výstavbu transeurópskej dopravnej siete a o zmene a doplnení niektorých zákonov.
+
+- 2c) Príloha č. 1 k zákonu č. 142/2024 Z. z.
+
 - 3) § 6 zákona č. 17/1992 Zb.
 
 - 4) § 8 zákona č. 17/1992 Zb.

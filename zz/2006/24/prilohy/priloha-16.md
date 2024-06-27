@@ -9,3 +9,5 @@ Príloha č. 16 k zákonu č. 24/2006 Z. z.
   - 3. Smernica Európskeho parlamentu a Rady 2011/92/EÚ z 13. decembra 2011 o posudzovaní vplyvov určitých verejných a súkromných projektov na životné prostredie (kodifikované znenie) (Ú. v. EÚ L 26, 28. 1. 2012).
 
   - 4. Smernica Európskeho parlamentu a Rady 2014/52/EÚ zo 16. apríla 2014, ktorou sa mení smernica 2011/92/EÚ o posudzovaní vplyvov určitých verejných a súkromných projektov na životné prostredie (Ú. v. EÚ L 124, 25. 4. 2014).
+
+  - 5. Smernica Európskeho parlamentu a Rady (EÚ) 2021/1187 zo 7. júla 2021 o zefektívňujúcich opatreniach na dosiahnutie pokroku pri realizácii transeurópskej dopravnej siete (TEN-T) (Ú. v. EÚ L 258, 20. 7. 2021).
