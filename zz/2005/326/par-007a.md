@@ -1,6 +1,6 @@
 # § 7a Záväzné stanovisko
 
-(1) Lesné pozemky možno využívať na účely výstavby diaľnice a rýchlostnej cesty vrátane ich súčastí podľa osobitného predpisu<sup>11a</sup>) a výstavbu železničnej dráhy vrátane jej súčastí na základe záväzného stanoviska príslušného orgánu štátnej správy lesného hospodárstva najdlhšie do vydania rozhodnutia o vyňatí alebo rozhodnutia o obmedzení využívania.
+(1) Lesné pozemky možno využívať na účely výstavby strategickej investície,<sup>12b</sup>) výstavby diaľnice a rýchlostnej cesty vrátane ich súčastí podľa osobitného predpisu<sup>11a</sup>) a výstavbu železničnej dráhy vrátane jej súčastí na základe záväzného stanoviska príslušného orgánu štátnej správy lesného hospodárstva najdlhšie do vydania rozhodnutia o vyňatí alebo rozhodnutia o obmedzení využívania.
 
 (2) Žiadosť o vydanie záväzného stanoviska obsahuje
 
