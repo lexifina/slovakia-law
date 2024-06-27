@@ -8,7 +8,7 @@
 
 (4) Dotknutý orgán je viazaný obsahom svojho predchádzajúceho záväzného stanoviska, ktoré vo veci vydal; to neplatí, ak došlo k zmene ustanovení právneho predpisu, podľa ktorých dotknutý orgán záväzné stanovisko vydal, alebo k podstatnej zmene skutkových okolností, z ktorých dotknutý orgán vychádzal. Ak dotknutý orgán vydá neskoršie záväzné stanovisko, uvedie v ňom, či jeho predchádzajúce záväzné stanovisko sa neskorším záväzným stanoviskom potvrdzuje, dopĺňa, mení alebo nahrádza s uvedením dôvodov podľa zákona.
 
-(5) Lehota na podanie záväzného stanoviska, stanoviska a vyjadrenia je 30 dní; ak ide o stavby diaľnic a rýchlostných ciest je 7 dní, ak osobitný predpis neustanovuje inak.<sup>15a</sup>)
+(5) Lehota na podanie záväzného stanoviska, stanoviska a vyjadrenia je 30 dní; ak ide o stavby diaľnic a rýchlostných ciest je 7 dní, ak osobitný predpis neustanovuje inak,<sup>15a</sup>) a ak ide o stavby strategickej investície lehota je sedem dní.
 
 (6) Pri riešení rozporov medzi dotknutými orgánmi vyplývajúcich zo záväzných stanovísk sa postupuje podľa § 136. Ak námietky účastníkov konania smerujú proti obsahu záväzného stanoviska, stavebný úrad konanie preruší a vyžiada si od dotknutého orgánu stanovisko k námietkam. Ak dotknutý orgán stanovisko nezmení, stavebný úrad si vyžiada potvrdenie alebo zmenu záväzného stanoviska od orgánu, ktorý je nadriadeným orgánom dotknutého orgánu. Počas prerušenia konania neplynú lehoty na rozhodnutie veci stavebným úradom.
 
