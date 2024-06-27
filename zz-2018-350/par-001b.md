@@ -1,0 +1,7 @@
+# § 1b
+
+(1) Výkonu rozhodnutia podľa osobitných predpisov<sup>1</sup>) nepodliehajú pohľadávky vyplývajúce zo zmluvy o dodávke plynu uzatvorenej držiteľom povolenia na dodávku plynu, ktorý je dodávateľom poslednej inštancie, predmetom ktorej je dodávka plynu pre tohto držiteľa povolenia v dohodnutom predpokladanom ročnom množstve, ktoré v danom kalendárnom roku prevyšuje 50 % celkovej spotreby zemného plynu v Slovenskej republike uvedenej v správe o výsledkoch monitorovania bezpečnosti dodávok plynu<sup>2</sup>) za kalendárny rok dva roky predchádzajúci danému kalendárnemu roku (ďalej len „osobitne významná zmluva o dodávke plynu“).
+
+(2) Exekútor poverený vykonaním exekúcie je povinný pred doručením príkazu na začatie exekúcie prikázaním pohľadávky<sup>3</sup>) držiteľovi povolenia na dodávku plynu, ktorý je dodávateľom poslednej inštancie, požiadať tohto držiteľa povolenia o poskytnutie informácie, či pohľadávka, ktorá má byť postihnutá exekúciou, predstavuje pohľadávku vyplývajúcu z osobitne významnej zmluvy o dodávke plynu. Držiteľ povolenia na dodávku plynu, ktorý je dodávateľom poslednej inštancie, je povinný bezodkladne a bezodplatne poskytnúť exekútorovi informáciu podľa prvej vety.
+
+(3) Pri exekúcii prikázaním pohľadávky vyplývajúcej z osobitne významnej zmluvy o dodávke plynu patrí právo namietať neprípustnosť exekúcie aj dlžníkovi povinného. Pri uplatnení práva podľa prvej vety sa primerane použijú ustanovenia osobitného prepisu.<sup>4</sup>)
