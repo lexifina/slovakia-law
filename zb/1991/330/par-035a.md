@@ -24,6 +24,8 @@
 
   - 2. dodatku k právnemu úkonu, ktorého obsahom je odstránenie chyby v písaní, počítaní alebo inej zrejmej nesprávnosti,<sup>23ua</sup>) ak nejde o výšku plnenia za prevod alebo prenájom majetku alebo jeho výmeru,
 
+  - 3. právneho úkonu uzatváraného s investorom, ktorému bolo vydané osvedčenie o strategickej investícii o prevode vlastníctva k nehnuteľnosti uvedenej v osvedčení o strategickej investícii,
+
 - f) prerokúva návrh rozpočtu príjmov a výdavkov,
 
 - g) prerokúva účtovnú závierku overenú audítorom,
