@@ -1,6 +1,6 @@
 # § 17b Záväzné stanovisko
 
-(1) Poľnohospodársku pôdu možno použiť pre výstavbu diaľnice a cesty pre motorové vozidlá<sup>12b</sup>) iba na základe záväzného stanoviska k odňatiu poľnohospodárskej pôdy (ďalej len „záväzné stanovisko“). Záväzné stanovisko vydáva orgán ochrany poľnohospodárskej pôdy (§ 23), v obvode ktorého sa poľnohospodárska pôda navrhovaná na nepoľnohospodárske použitie nachádza.
+(1) Poľnohospodársku pôdu možno použiť pre výstavbu diaľnice a cesty pre motorové vozidlá,<sup>12b</sup>) pre výstavbu železničnej dráhy a pre výstavbu strategickej investície iba na základe záväzného stanoviska k odňatiu poľnohospodárskej pôdy (ďalej len „záväzné stanovisko“). Záväzné stanovisko vydáva orgán ochrany poľnohospodárskej pôdy (§ 23), v obvode ktorého sa poľnohospodárska pôda navrhovaná na nepoľnohospodárske použitie nachádza.
 
 (2) Žiadateľ o vydanie záväzného stanoviska je povinný predložiť
 
