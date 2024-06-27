@@ -76,6 +76,8 @@
 
 - 19) § 21 až 24 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. v znení neskorších predpisov.
 
+- 19a) Zákon č. 142/2024 Z. z. o mimoriadnych opatreniach pre strategické investície a pre výstavbu transeurópskej dopravnej siete a o zmene a doplnení niektorých zákonov.
+
 - 20) Príloha č. 2 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 21) Zákon č. 46/1971 Zb. o geodézii a kartografii v znení zákona Národnej rady Slovenskej republiky č. 132/1994 Z. z.
