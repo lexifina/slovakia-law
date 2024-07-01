@@ -64,7 +64,7 @@
 
 - 19a) § 68 zákona č. 563/2009 Z. z.
 
-- 19b) Čl. 77 ods. 1 písm. a) nariadenia Európskeho parlamentu a Rady (EÚ) č. 952/2013 z 9. októbra 2013, ktorým sa ustanovuje Colný kódex Únie (prepracované znenie) (Ú. v. EÚ L 269, 10. 10. 2013).
+- 19b) Čl. 201 nariadenia Európskeho parlamentu a Rady (EÚ) č. 952/2013 z 9. októbra 2013, ktorým sa ustanovuje Colný kódex Európskej únie (prepracované znenie) (Ú. v. EÚ L 269, 10. 10. 2013).
 
 - 20) § 2 písm. c) bod 11 zákona č. 251/2012 Z. z.
 
