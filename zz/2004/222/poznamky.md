@@ -70,8 +70,6 @@
 
 - 6ae) § 5 ods. 2 zákona č. 112/2018 Z. z.
 
-- 6af) § 4 zákona č. 112/2018 Z. z.
-
 - 6ag) § 2 písm. b) zákona č. 222/2022 Z. z. o štátnej podpore nájomného bývania a o zmene a doplnení niektorých zákonov.
 
 - 6ah) § 2 písm. g) zákona č. 222/2022 Z. z.
