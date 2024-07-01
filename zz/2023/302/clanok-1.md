@@ -344,6 +344,10 @@ Zákon č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgán
 
 - európsky jedinečný identifikačný znak pridelený podľa osobitného predpisu<sup>1o</sup>) (ďalej len „znak EUID“),
 
+- v)
+
+- kód identifikátora právneho subjektu (ďalej len „kód LEI“), ak ho má právnická osoba pridelený.
+
 - (2)
 
 - Do registra právnických osôb sa o fyzickej osobe – podnikateľovi a o fyzickej osobe podľa § 2 ods. 2 písm. c) zapisujú
@@ -407,6 +411,10 @@ Zákon č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgán
 - o)
 
 - znak EUID,
+
+- p)
+
+- kód LEI, ak ho má fyzická osoba pridelený.
 
 - (3)
 
@@ -564,6 +572,10 @@ Zákon č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgán
 
 - dátum zrušenia,
 
+- n)
+
+- údaj o tom, že organizačná zložka právnickej osoby zriadená podľa osobitného predpisu<sup>1p</sup>) koná vo svojom mene.
+
 - (5)
 
 - Ak ide o organizačnú zložku podniku zahraničnej osoby, do registra právnických osôb sa okrem údajov podľa odseku 4 zapisujú aj
@@ -652,6 +664,10 @@ Zákon č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgán
 
 - označenie zdrojového registra, z ktorého boli údaje do registra právnických osôb poskytnuté a označenie povinnej osoby, ktorá údaje poskytla,
 
+- d)
+
+- názov a identifikačné číslo organizácie slovenskej právnickej osoby, organizačnej zložky alebo orgánu verejnej moci, v ktorom zapisovaný orgán verejnej moci súčasne pôsobí, ktorý zapisovaný orgán verejnej moci riadi, alebo ktorý zabezpečuje podporu úradnej činnosti zapisovaného orgánu verejnej moci.
+
 - (8)
 
 - Údaj o sídle zapísaný v registri právnických osôb musí obsahovať adresu poskytnutú zo zdrojového registra, a ak zdrojový register neexistuje, zapíše sa adresa uvedená v štatúte, zriaďovacej listine alebo v obdobnej verejnej listine právnickej osoby, organizačnej zložky alebo orgánu verejnej moci.
@@ -659,6 +675,14 @@ Zákon č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgán
 - (9)
 
 - Ak je fyzickej osobe pridelené rodné číslo,<sup>1s</sup>) povinná osoba pri zápise údajov o fyzickej osobe do registra právnických osôb poskytne ako identifikátor fyzickej osoby jej meno a priezvisko v spojení s rodným číslom.
+
+- (10)
+
+- Ak povinná osoba pri zápise údajov podľa § 3 v spojení s menom a priezviskom zahraničnej fyzickej osoby, ktorá nemá pridelené rodné číslo, poskytne do registra právnických osôb identifikátor zahraničnej fyzickej osoby pridelený alebo určený na účely jednoznačnej identifikácie podľa právneho poriadku štátu, ktorého je zahraničná fyzická osoba štátnym občanom, je povinná poskytnúť zároveň kód cudzieho štátu, ktorý identifikátor pridelil, a označenie tohto identifikátora alebo evidencie, z ktorej identifikátor pochádza.
+
+- (11)
+
+- Ak povinná osoba poskytne pri zápise údajov o právnickej osobe, podniku zahraničnej osoby alebo organizačnej zložke podniku zahraničnej osoby do registra právnických osôb, ktorým štatistický úrad neprideľuje identifikačné číslo organizácie, identifikátor podľa osobitného predpisu<sup>1t</sup>) pridelený alebo určený na účely jednoznačnej identifikácie podľa právneho poriadku štátu, v ktorom majú sídlo alebo miesto podnikania, je povinná pri zápise poskytnúť zároveň kód cudzieho štátu, ktorý identifikátor pridelil, a označenie tohto identifikátora alebo evidencie, z ktorej identifikátor pochádza.
 
 - (12)
 
@@ -788,7 +812,11 @@ Zákon č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgán
 
 - c)
 
-- znak EUID,“.
+- znak EUID,
+
+- d)
+
+- kód LEI.“.
 
   - Poznámka pod čiarou k odkazu 5 sa vypúšťa.
 
@@ -1046,7 +1074,11 @@ Zákon č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgán
 
 - (9)
 
-- Prístupovým miestom k systému prepojenia registrov konečných užívateľov výhod v Slovenskej republike je webové sídlo štatistického úradu.“.
+- Prístupovým miestom k systému prepojenia registrov konečných užívateľov výhod v Slovenskej republike je webové sídlo štatistického úradu.
+
+- (10)
+
+- Štatistický úrad poskytne právnickej osobe z registra právnických osôb na základe jej žiadosti výlučne elektronický odpis,<sup>8</sup>) ktorý obsahuje názov, sídlo a identifikačné číslo organizácie tejto právnickej osoby a záznam o konečnom užívateľovi výhod tejto právnickej osoby. Žiadosť podľa prvej vety sa podáva prostredníctvom elektronickej služby verejnej správy a musí byť autorizovaná kvalifikovaným elektronickým podpisom alebo kvalifikovanou elektronickou pečaťou.“.
 
   - Doterajší odsek 4 sa označuje ako odsek 11.
 
@@ -1110,11 +1142,15 @@ Zákon č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgán
 
 - „(1)
 
-- Ak ide o právnickú osobu inú ako podľa odseku 3, fyzickú osobu – podnikateľa, fyzickú osobu podľa § 2 ods. 2 písm. c), podnik zahraničnej osoby alebo o organizačnú zložku, je povinná osoba, ktorá vedie zdrojový register alebo ktorá koná podľa § 4 ods. 1 písm. c) alebo ods. 5 písm. b), povinná požiadať štatistický úrad o pridelenie identifikačného čísla organizácie.
+- Ak ide o právnickú osobu inú ako podľa odseku 3, fyzickú osobu – podnikateľa, fyzickú osobu podľa § 2 ods. 2 písm. c), podnik zahraničnej osoby alebo o organizačnú zložku, je povinná osoba, ktorá vedie zdrojový register alebo ktorá koná podľa § 4 ods. 1 písm. c) alebo ods. 5 písm. b), povinná požiadať štatistický úrad o pridelenie identifikačného čísla organizácie. Živnostenský úrad je povinný požiadať štatistický úrad o pridelenie identifikačného čísla organizácie manželovi alebo dedičovi zomrelého živnostníka, ak do skončenia konania o dedičstve alebo po skončení konania o dedičstve pokračuje v prevádzkovaní živnosti zomrelého živnostníka podľa osobitného predpisu<sup>11c</sup>) a nemal pridelené identifikačné číslo organizácie ako fyzická osoba – podnikateľ alebo ako fyzická osoba podľa § 2 ods. 2 písm. c).
 
 - (2)
 
 - Ak ide o fyzickú osobu – podnikateľa podľa § 4 ods. 5 písm. c), ktorá nemá pridelené identifikačné číslo organizácie, o pridelenie identifikačného čísla organizácie požiada štatistický úrad povinná osoba podľa § 4 ods. 5 písm. c).“.
+
+  - Poznámka pod čiarou k odkazu 11c znie:
+
+  - „<sup>11c</sup>) § 13 ods. 1, 5 a 6 zákona č. 455/1991 Zb. v znení zákona č. 279/2001 Z. z.“.
 
 - 41. V § 10 ods. 3, 6 a 7 sa slová „identifikačné číslo“ vo všetkých tvaroch nahrádzajú slovami „identifikačné číslo organizácie“ v príslušnom tvare.
 
