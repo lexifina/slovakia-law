@@ -306,6 +306,10 @@
 
 - 64a) Čl. 4 nariadenia Európskeho parlamentu a Rady (EÚ) 2019/1238 z 20. júna 2019 o celoeurópskom osobnom dôchodkovom produkte (PEPP) (Ú. v. EÚ L 198, 25. 7. 2019) v platnom znení.
 
+- 64aa) § 78e zákona č. 328/2002 Z. z. v znení zákona č. 87/2024 Z. z.
+
+- § 77a až 77d zákona č. 461/2003 Z. z. v znení zákona č. 87/2024 Z. z.
+
 - 65) § 19 zákona č. 650/2004 Z. z. v znení neskorších predpisov.
 
 - 66) Zákon č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov.
