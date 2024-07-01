@@ -66,6 +66,10 @@
 
 - 38e) § 66b a § 293fg zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
+- 38f) § 78e zákona č. 328/2002 Z. z. v znení zákona č. 87/2024 Z. z.
+
+- § 77a až 77d zákona č. 461/2003 Z. z. v znení zákona č. 87/2024 Z. z.
+
 - 40) Zákon č. 221/2006 Z. z. o výkone väzby v znení neskorších predpisov.
 
 - 41) Zákon č. 475/2005 Z. z. o výkone trestu odňatia slobody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -141,6 +145,8 @@
 - 58e) § 4 ods. 3 písm. a) prvý bod a druhý bod zákona č. 122/2013 Z. z.
 
 - 58f) § 31 zákona č. 122/2013 Z. z.
+
+- 58g) § 7 ods. 3 Obchodného zákonníka.
 
 - 59) § 17 až 23 zákona č. 431/2002 Z. z. o účtovníctve.
 
