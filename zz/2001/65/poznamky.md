@@ -22,6 +22,10 @@
 
 - 2b) § 71 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
+- 2ba) § 78e zákona č. 328/2002 Z. z. v znení zákona č. 87/2024 Z. z.
+
+- § 77a až 77d zákona č. 461/2003 Z. z. v znení zákona č. 87/2024 Z. z.
+
 - 2c) Zákon č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 3) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
