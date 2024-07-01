@@ -8,6 +8,16 @@ Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení zákona č. 350/200
 
   - „<sup>4e</sup>) § 66a Obchodného zákonníka.“.
 
+- 20. V § 27 ods. 2 písmeno b) znie:
+
+- „b)
+
+- tovary a služby, ktoré v rámci aktivít sociálnej ekonomiky<sup>6ad</sup>) dodáva registrovaný sociálny podnik,<sup>6ae</sup>) ktorý 100 % svojho zisku po zdanení používa na dosiahnutie svojho hlavného cieľa.“.
+
+  - Poznámka pod čiarou k odkazu 6af sa vypúšťa.
+
+- 21. V § 32 ods. 2 písm. a) sa slová „§ 28 až 41“ nahrádzajú slovami „odseku 1 a § 28 až 36“.
+
 - 43. § 70a sa dopĺňa odsekmi 11 a 12, ktoré znejú:
 
 - „(11)
