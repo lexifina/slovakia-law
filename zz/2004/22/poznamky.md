@@ -44,8 +44,10 @@
 
 - 16c) § 5 ods. 1 zákona č. 351/2011 Z. z. o elektronických komunikáciách v znení neskorších predpisov.
 
-- 17) § 2 písm. a) zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení zákona č. 284/2002 Z. z.
+- 17) Štvrtá a piata časť zákona č. 108/2024 Z. z. o ochrane spotrebiteľa a o zmene a doplnení niektorých zákonov.
 
 - 17a) § 1 ods. 3 písm. c) zákona č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 17b) Zákon č. 747/2004 Z. z. v znení neskorších predpisov.
+
+- 18) § 41 písm. b) a c) zákona č. 108/2024 Z. z.
