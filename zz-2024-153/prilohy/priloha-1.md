@@ -1,0 +1,1 @@
+Príloha č. 1 k vyhláške č. 153/2024 Z. z. [Požiadavky na jednotný štandard štruktúry záväznej textovej časti územnoplánovacej dokumentácie](../assets/fbca2851e30f5e0295c7b0a2e5ef93a4b1b48a16312d3d219d9ae2b56b461adb.pdf)

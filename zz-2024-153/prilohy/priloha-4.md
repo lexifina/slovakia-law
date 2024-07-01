@@ -1,0 +1,1 @@
+Príloha č. 4 k vyhláške č. 153/2024 Z. z. [Požiadavky na jednotný štandard výmenného dátového formátu odovzdávaných dát územnoplánovacej dokumentácie](../assets/2bf85f341b1e7626da9031946c29e7e424106fc9fd1bcda17c5950464a267cb2.pdf)

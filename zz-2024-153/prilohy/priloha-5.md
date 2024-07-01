@@ -1,0 +1,1 @@
+Príloha č. 5 k vyhláške č. 153/2024 Z. z. [Požiadavky na jednotný štandard výmenného dátového formátu odovzdávaných dát územných štúdií](../assets/d87aa0e32a6339421c5040522b7b41af2b7ec309c6b4bc8b1faf1ee548dfc93c.pdf)

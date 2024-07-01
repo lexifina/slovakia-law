@@ -1,0 +1,1 @@
+Príloha č. 2 k vyhláške č. 153/2024 Z. z. [Požiadavky na jednotný štandard grafického vyjadrenia štandardizovaných javov záväznej grafickej časti územnoplánovacej dokumentácie](../assets/85533c51b9d5f1ee0ee12664c12bc3de40892d8e7ae2f152b9a1ef53085d6fbb.pdf)

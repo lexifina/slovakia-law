@@ -1,0 +1,1 @@
+Príloha č. 6 k vyhláške č. 153/2024 Z. z. [Metodika na spracovanie územnoplánovacej dokumentácie a územnoplánovacích podkladov a posudzovanie súladu stavebného zámeru so záväznou časťou územnoplánovacej dokumentácie](../assets/6745bf3180c9e2e429203795bec7587ae43acea740a462ddf13232b0590347c7.pdf)

@@ -1,0 +1,1 @@
+Príloha č. 7 k vyhláške č. 153/2024 Z. z. [Špecifikácia druhov funkčného využívania územia a prípustné skupiny stavieb podľa účelu ich užívania](../assets/45cb1ba7734ed45962c6ae9fbdd7375340800ab0701159b1ea2b4653b31c446b.pdf)
