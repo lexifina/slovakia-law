@@ -1,0 +1,3 @@
+Príloha č. 8 k vyhláške č. 20/2012 Z. z.
+
+- INDIVIDUÁLNY REGISTER HOVÄDZIEHO DOBYTKA V CHOVE [Vzor 07](../assets/f90b7bed60624eb68ac8b12fc7c26c199e43b4f92e38df881cc05704af21f042.pdf)
