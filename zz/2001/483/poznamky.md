@@ -424,8 +424,6 @@
 
 - 30zt) § 9 zákona č. 266/2005 Z. z.
 
-- § 27 zákona č. 250/2007 Z. z. v znení neskorších predpisov.
-
 - 30zu) § 44 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
 - 30zv) § 7 písm. h) Správneho súdneho poriadku.
@@ -480,7 +478,7 @@
 
 - 35aab) Čl. 178 nariadenia (EÚ) č. 575/2013 v platnom znení.
 
-- 35b) Zákon č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov.
+- 35b) Zákon č. 108/2024 Z. z. o ochrane spotrebiteľa a o zmene a doplnení niektorých zákonov.
 
 - 35ba) § 6 a 7 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení neskorších predpisov.
 
@@ -898,6 +896,8 @@
 
 - 86dqa) § 13 ods. 3 zákona č. 526/2023 Z. z. o pomoci pri splácaní úveru na bývanie a o zmene a doplnení niektorých zákonov.
 
+- 86dqb) § 28 ods. 6 zákona č. 108/2024 Z. z.
+
 - 86dr) Napríklad Trestný poriadok, § 29a ods. 4 a § 76 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov, § 11 ods. 2 zákona č. 199/2004 Z. z. v znení zákona č. 672/2006 Z. z., § 4 ods. 5 písm. c) zákona č. 101/2010 Z. z., zákon č. 35/2019 Z. z. v znení neskorších predpisov.
 
 - 86e) Zákon č. 126/2011 Z. z.
@@ -975,6 +975,10 @@
 - Zákon č. 391/2015 Z. z. o alternatívnom riešení spotrebiteľských sporov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 88k) Napríklad zákon č. 244/2002 Z. z. v znení neskorších predpisov, zákon č. 420/2004 Z. z. o mediácii a o doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 88l) § 2 písm. e) zákona č. 266/2005 Z. z.
+
+- 88m) Napríklad zákon č. 492/2009 Z. z. v znení neskorších predpisov, zákon č. 129/2010 Z. z. v znení neskorších predpisov, zákon č. 90/2016 Z. z. v znení neskorších predpisov.
 
 - 89) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
 
