@@ -1,3 +1,0 @@
-# § 5a
-
-Za požadované študijné odbory a učebné odbory stredného vzdelania, študijné odbory vysokoškolského vzdelania a odbornú spôsobilosť podľa § 1 až 3 sa považuje aj získanie vzdelania na uznanej vzdelávacej inštitúcii, ak štúdium na uznanej vzdelávacej inštitúcii je svojím rozsahom a úrovňou postavené na úroveň štúdia na strednej škole alebo na vysokej škole v Slovenskej republike, alebo na úroveň iného štúdia, ktoré je rovnocenné štúdiu na strednej škole alebo na vysokej škole v Slovenskej republike a ak doklad o vzdelaní alebo o odbornej kvalifikácii je uznaný podľa osobitného predpisu.<sup>6</sup>)

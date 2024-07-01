@@ -1,1 +1,0 @@
-Peter Gajdoš v. r.
