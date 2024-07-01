@@ -34,7 +34,7 @@
 
 - 5) Napríklad oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 324/1997 Z. z. o uzavretí Zmluvy medzi štátmi, ktoré sú stranami Severoatlantickej zmluvy, a inými štátmi zúčastnenými v Partnerstve za mier vzťahujúcej sa na štatút ich ozbrojených síl v znení ďalších dodatkových protokolov.
 
-- 6) Nariadenie Komisie (ES) č. 31/96 z 10. januára 1996 o osvedčení o oslobodení od spotrebnej dane (Úradný vestník Európskeho spoločenstva L 008, 11/1/1996, s. 11 –15).
+- 6) Čl. 1 vykonávacieho nariadenia (EÚ) 2022/1637.
 
 - 7) § 170 ods. 21 zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 221/2019 Z. z.
 
@@ -60,11 +60,17 @@
 
 - 8b) § 15 ods. 5 zákona č. 563/2009 Z. z.
 
-- 8c) § 55 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
+- 8c) § 55 ods. 4 zákona č. 563/2009 Z. z.
 
 - Vyhláška Ministerstva financií Slovenskej republiky č. 378/2011 Z. z. o spôsobe označovania platby dane v znení neskorších predpisov.
 
 - 9) § 68 zákona č. 563/2009 Z. z.
+
+- 9a) § 68a zákona č. 563/2009 Z. z. v znení neskorších predpisov.
+
+- 9b) § 40 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
+
+- 9c) § 4 ods. 1 zákona č. 563/2009 Z. z.
 
 - 10) § 15 zákona č. 335/2011 Z. z. o tabakových výrobkoch.
 
@@ -98,9 +104,15 @@
 
 - 14aa) Zákon č. 563/2009 Z. z.
 
-- 14b) Nariadenie Komisie (ES) č. 684/2009 z 24. júla 2009, ktorým sa implementuje smernica Rady 2008/118/ES, pokiaľ ide o elektronické postupy pri preprave tovaru podliehajúceho spotrebnej dani v režime pozastavenia dane (Ú. v. EÚ L 197, 29. 7. 2009).
+- 14b) Delegované nariadenie Komisie (EÚ) 2022/1636 z 5. júla 2022, ktorým sa dopĺňa smernica Rady (EÚ) 2020/262 stanovením štruktúry a obsahu dokumentov, ktoré sa vymieňajú v súvislosti s prepravou tovaru podliehajúceho spotrebnej dani, a stanovením prahu pre straty z dôvodu povahy tovaru (Ú. v. EÚ L 247, 23. 9. 2022).
+
+- Vykonávacie nariadenie Komisie (EÚ) 2022/1637 z 5. júla 2022, ktorým sa stanovujú pravidlá uplatňovania smernice Rady (EÚ) 2020/262, pokiaľ ide o používanie dokumentov v súvislosti s prepravou tovaru podliehajúceho spotrebnej dani v režime pozastavenia dane a s prepravou tovaru podliehajúceho spotrebnej dani po jeho uvedení do daňového voľného obehu, a ktorým sa stanovuje formulár, ktorý sa má používať pre osvedčenie o oslobodení od spotrebnej dane (Ú. v. EÚ L 247, 23. 9. 2022).
 
 - 14c) Čl. 3 ods. 12 nariadenia Európskeho parlamentu a Rady (EÚ) č. 910/2014 o elektronickej identifikácii a dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zrušení smernice 1999/93/ES (Ú. v. EÚ L 257, 28. 8. 2014).
+
+- 14d) Čl. 3 ods. 27 nariadenia (EÚ) č. 910/2014.
+
+- 14e) § 23 ods. 1 písm. a) tretí bod zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení zákona č. 238/2017 Z. z.
 
 - 19) Zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov
 

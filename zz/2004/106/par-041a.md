@@ -18,7 +18,7 @@
 
 (3) Pri určovaní výšky pokuty podľa odseku 2 prihliadne colný úrad na závažnosť, dĺžku trvania a následky protiprávneho stavu.
 
-(4) Colný úrad pri podozrení z dopustenia sa priestupku podľa odseku 1 písm. a) až c), e) a f) spotrebiteľské balenie tabakových výrobkov, tabakovú surovinu alebo bezdymový tabakový výrobok zabezpečí.<sup>3</sup>)
+(4) Colný úrad pri podozrení z dopustenia sa priestupku podľa odseku 1 písm. a) až c), e) a f) tabakové výrobky, tabakovú surovinu alebo bezdymový tabakový výrobok zabezpečí.<sup>3</sup>)
 
 (5) Tabakové výrobky, tabakovú surovinu alebo bezdymový tabakový výrobok, ktoré colný úrad zabezpečí a ktoré sa dňom nadobudnutia právoplatnosti rozhodnutia o prepadnutí tabakových výrobkov, tabakovej suroviny alebo bezdymového tabakového výrobku stanú majetkom štátu,<sup>3</sup>) je colný úrad povinný zničiť. Na postup pri ničení tabakových výrobkov sa primerane použije osobitný predpis.<sup>25b</sup>)
 

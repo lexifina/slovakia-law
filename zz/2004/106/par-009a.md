@@ -1,6 +1,8 @@
 # § 9a Evidencia dovozcov tabakových výrobkov
 
-(1) Dovozca tabakových výrobkov, ktorým sa rozumie osoba, ktorá chce v rámci podnikania dovážať spotrebiteľské balenie tabakových výrobkov z územia tretích štátov a uvádzať ho do daňového voľného obehu na daňovom území okrem prevádzkovateľa daňového skladu, je povinná požiadať colný úrad o zaradenie do evidencie dovozcov tabakových výrobkov. Žiadosť o zaradenie do evidencie dovozcov tabakových výrobkov musí obsahovať okrem údajov podľa osobitného predpisu<sup>25d</sup>)
+(1) Osoba, ktorá chce v rámci podnikania dovážať spotrebiteľské balenie tabakových výrobkov z územia tretích štátov a uvádzať ho do daňového voľného obehu na daňovom území okrem prevádzkovateľa daňového skladu (ďalej len „dovozca tabakových výrobkov“), je povinná požiadať colný úrad o zaradenie do evidencie dovozcov tabakových výrobkov. Žiadosť o zaradenie do evidencie dovozcov tabakových výrobkov musí obsahovať okrem údajov podľa osobitného predpisu
+
+<sup>25d</sup>)
 
 - a) obchodný názov spotrebiteľského balenia tabakového výrobku a predpokladané celkové ročné množstvo dovážaného tabaku, cigár a cigariek v kilogramoch alebo cigariet v kusoch,
 
@@ -22,7 +24,7 @@
 
 - e) nebol právoplatne odsúdený za úmyselný trestný čin hospodársky, trestný čin proti majetku alebo iný trestný čin, ktorého skutková podstata súvisí s predmetom podnikania; to sa vzťahuje aj na zodpovedného zástupcu a fyzické osoby, ktoré sú členmi riadiacich orgánov alebo kontrolných orgánov žiadateľa,
 
-- f) nie je v likvidácii, nie je na neho právoplatne vyhlásený konkurz, povolené vyrovnanie, potvrdené nútené vyrovnanie alebo povolená reštrukturalizácia.
+- f) nie je v likvidácii, nie je na neho právoplatne vyhlásený konkurz alebo povolená reštrukturalizácia.
 
 (4) Žiadateľ je povinný na požiadanie colného úradu spresniť údaje uvedené v žiadosti.
 
@@ -36,4 +38,4 @@
 
 - b) požiada o vyradenie z evidencie dovozcov tabakových výrobkov,
 
-- c) prestal spĺňať niektorú z podmienok uvedených v odseku 3.
+- c) prestal spĺňať niektorú z podmienok uvedených v odseku 3; to neplatí, ak dovozcovi tabakových výrobkov bola povolená reštrukturalizácia.

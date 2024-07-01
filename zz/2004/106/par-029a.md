@@ -14,7 +14,7 @@
 
 (5) Na zmenu údajov, odňatie a zánik povolenia prijímať tabakové výrobky na podnikateľské účely sa použije § 23 primerane.
 
-(6) Schválený príjemca je povinný pred prijatím tabakových výrobkov uvedených do daňového voľného obehu na území iného členského štátu na podnikateľské účely zložiť zábezpeku na daň vo výške dane pripadajúcej na množstvo prijímaných tabakových výrobkov; na zábezpeku na daň sa použije § 20 primerane.
+(6) Schválený príjemca je povinný pred prijatím tabakových výrobkov uvedených do daňového voľného obehu na území iného členského štátu na podnikateľské účely zložiť zábezpeku na daň vo výške dane pripadajúcej na množstvo prijímaných tabakových výrobkov najneskôr pred odoslaním tabakových výrobkov schváleným odosielateľom; na zábezpeku na daň sa použije § 20 primerane.
 
 (7) Zábezpeka na daň zložená v inom členskom štáte je platná na daňovom území.
 

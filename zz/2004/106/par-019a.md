@@ -34,7 +34,7 @@
 
 - c) ktorá nevie preukázať v súlade s týmto zákonom pôvod alebo spôsob nadobudnutia tabakovej suroviny u nej zistenej, ktorá sa u nej nachádza alebo nachádzala, a to bez ohľadu na to, či nakladá alebo nakladala s tabakovou surovinou ako s vlastnou,
 
-- d) na ktorej účet bolo predložené colné vyhlásenie na prepustenie tabakovej suroviny do voľného obehu,<sup>2aa</sup>) okrem predloženia colného vyhlásenia na prepustenie tabakovej suroviny do voľného obehu,<sup>2aa</sup>) ak také prepustenie je na účet držiteľa povolenia na obchodovanie s tabakovou surovinou, ktorý je prevádzkovateľom daňového skladu a nie je konečným spotrebiteľom tabakovej suroviny,
+- d) ktorá je dlžníkom podľa colných predpisov pri prepustení tabakovej suroviny do voľného obehu, ak také prepustenie je na účet držiteľa povolenia na obchodovanie s tabakovou surovinou, ktorý je prevádzkovateľom daňového skladu a nie je konečným spotrebiteľom tabakovej suroviny,
 
 - e) ktorej colný dlh vznikol iným spôsobom ako podľa písmena d).
 
@@ -72,7 +72,7 @@
 
 - e) nebol právoplatne odsúdený za úmyselný trestný čin hospodársky alebo iný trestný čin, ktorého skutková podstata súvisí s predmetom podnikania; to sa vzťahuje aj na zodpovedného zástupcu a fyzické osoby, ktoré sú členmi riadiacich orgánov alebo členmi kontrolných orgánov žiadateľa,
 
-- f) nie je v likvidácii, nie je na neho právoplatne vyhlásený konkurz, povolené vyrovnanie, potvrdené nútené vyrovnanie alebo povolená reštrukturalizácia.
+- f) nie je v likvidácii, nie je na neho právoplatne vyhlásený konkurz alebo povolená reštrukturalizácia.
 
 (12) Colný úrad pred vydaním povolenia na obchodovanie s tabakovou surovinou preverí u žiadateľa skutočnosti a údaje podľa odsekov 9 a 10 a splnenie podmienok podľa odseku 11. Ak sú tieto skutočnosti a údaje pravdivé a žiadateľ spĺňa podmienky podľa odseku 11, colný úrad vydá žiadateľovi povolenie na obchodovanie s tabakovou surovinou a zaradí ho do evidencie držiteľov povolenia na obchodovanie s tabakovou surovinou do 30 dní odo dňa podania žiadosti. Žiadateľ je povinný na požiadanie colného úradu spresniť údaje uvedené v žiadosti.
 
@@ -114,7 +114,7 @@
 
 - b) úmrtia držiteľa povolenia na obchodovanie s tabakovou surovinou alebo dňom nadobudnutia právoplatnosti rozhodnutia súdu o vyhlásení držiteľa povolenia na obchodovanie s tabakovou surovinou za mŕtveho, ak je prevádzkovateľom daňového skladu fyzická osoba,
 
-- c) nadobudnutia právoplatnosti rozhodnutia súdu o vyhlásení konkurzu, o zamietnutí návrhu na vyhlásenie konkurzu pre nedostatok majetku alebo o zrušení konkurzu pre nedostatok majetku, alebo dňom, keď bolo potvrdené nútené vyrovnanie alebo povolené vyrovnanie, alebo bola povolená reštrukturalizácia,
+- c) nadobudnutia právoplatnosti rozhodnutia súdu o vyhlásení konkurzu, o zamietnutí návrhu na vyhlásenie konkurzu pre nedostatok majetku alebo o zrušení konkurzu pre nedostatok majetku,
 
 - d) odňatia povolenia na obchodovanie s tabakovou surovinou,
 
@@ -128,7 +128,7 @@
 
 - c) požiada o odňatie povolenia na obchodovanie s tabakovou surovinou,
 
-- d) prestal spĺňať niektorú z podmienok uvedených v odseku 11.
+- d) prestal spĺňať niektorú z podmienok uvedených v odseku 11 písm. a) až e); to neplatí, ak držiteľovi povolenia na obchodovanie s tabakovou surovinou bola povolená reštrukturalizácia.
 
 (20) Držiteľ povolenia na obchodovanie s tabakovou surovinou je povinný oznámiť colnému úradu každú zmenu skutočností a údajov podľa odseku 9 písm. a) do 30 dní odo dňa jej vzniku, odseku 9 písm. b) do 15 dní odo dňa jej vzniku; zmenu údajov podľa odseku 10 písm. a) je povinný oznámiť colnému úradu do 15 dní odo dňa podania návrhu na zmenu údajov príslušnému orgánu. Zmenu údajov podľa odseku 10 písm. b) je držiteľ povolenia na obchodovanie s tabakovou surovinou povinný oznámiť najneskôr do 15 dní odo dňa jej vzniku, ak dôjde k zmene zodpovedného zástupcu a fyzických osôb, ktoré sú členmi riadiacich orgánov alebo kontrolných orgánov. Držiteľ povolenia na obchodovanie s tabakovou surovinou je povinný oznámiť colnému úradu identifikačné údaje nového dodávateľa a odberateľa podľa odseku 9 písm. d) do 15 dní. Držiteľ povolenia na obchodovanie s tabakovou surovinou je povinný predložiť na požiadanie colného úradu doklady preukazujúce spôsob nadobudnutia tabakovej suroviny.
 
