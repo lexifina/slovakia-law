@@ -174,6 +174,8 @@
 
 - Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 31a) § 77a až 77d zákona č. 461/2003 Z. z. v znení zákona č. 87/2024 Z. z.
+
 - 32) § 38 až 43, § 125 a 126 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 33) Zákon č. 571/2009 Z. z. o rodičovskom príspevku a o zmene a doplnení niektorých zákonov.
