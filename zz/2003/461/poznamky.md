@@ -168,6 +168,8 @@
 
 - 56aa) § 3 ods. 1 písm. d) zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
+- 56ab) § 78e zákona č. 328/2002 Z. z. v znení zákona č. 87/2024 Z. z.
+
 - 56b) Nariadenie vlády Slovenskej republiky č. 200/2012 Z. z., ktorým sa ustanovuje spôsob určenia poistno-matematického ekvivalentu nároku na starobný dôchodok vo vzťahu k dôchodkovému systému Európskej únie alebo jej inštitúcie.
 
 - 56c) § 45 ods. 6 zákona č. 43/2004 Z. z. v znení zákona č. 183/2014 Z. z.
@@ -323,6 +325,8 @@
 - 93adn) § 3 ods. 1 písm. g) a príloha č. 1b zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov v znení zákona č. 125/2022 Z. z.
 
 - 93ado) Napríklad § 10 ods. 11 a § 17 ods. 6 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení zákona č. 273/2015 Z. z., zákon č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratívnej záťaže využívaním informačných systémov verejnej správy a o zmene a doplnení niektorých zákonov (zákon proti byrokracii) v znení neskorších predpisov.
+
+- 93ae) § 154 zákona č. 281/2015 Z. z. o štátnej službe profesionálnych vojakov a o zmene a doplnení niektorých zákonov v znení zákona č. 420/2022 Z. z.
 
 - 94) § 44 zákona č. 43/2004 Z. z. v znení zákona č. 183/2014 Z. z.
 
