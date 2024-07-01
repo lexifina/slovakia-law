@@ -22,6 +22,12 @@
 
 - 9b) Napríklad § 23b zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov v znení zákona č. 412/2015 Z. z.
 
+- 9c) § 2 písm. g) zákona č. 108/2024 Z. z. o ochrane spotrebiteľa a o zmene a doplnení niektorých zákonov.
+
+- 9d) § 2 písm. h) zákona č. 108/2024 Z. z.,
+
+- 9e) § 6 zákona č. 108/2024 Z. z.
+
 - 10) § 41 Obchodného zákonníka.
 
 - 11) § 1 zákona Národnej rady Slovenskej republiky č. 219/1996 Z. z. o ochrane pred zneužívaním alkoholických nápojov a o zriaďovaní a prevádzke protialkoholických záchytných izieb.
@@ -62,6 +68,10 @@
 
 - 21c) Čl. 119 až 121 nariadenia (EÚ) 2019/6.
 
+- 21d) Zákon č. 747/2004 Z. z. v znení neskorších predpisov.
+
+- 21e) Štvrtá a piata časť zákona č. 108/2024 Z. z.
+
 - 22) § 26 zákona č. 265/2022 Z. z. o vydavateľoch publikácií a o registri v oblasti médií a audiovízie a o zmene a doplnení niektorých zákonov (zákon o publikáciách).
 
-- 23) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+- 23) § 41 písm. b) a c) zákona č. 108/2024 Z. z.
