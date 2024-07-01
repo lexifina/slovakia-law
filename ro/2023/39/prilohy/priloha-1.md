@@ -1,1 +1,1 @@
-Príloha č. 1 k opatreniu č. 39/2023 [príloha](../assets/b381c819a1d09101a7bf9e0d1990cd04de27d18299c98c43a8497469d958c24a.pdf)
+Príloha č. 1 k opatreniu č. 39/2023 [príloha](../assets/5b625174518941c24b38d955577510c16ff4b30f61c267dbc050bbcda9307c6c.pdf)
