@@ -192,6 +192,12 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 
 - 21. V § 140 ods. 2 písm. c) a d) sa pred slovo „prvého“ vkladá slovo „od“.
 
+- 22. § 170 sa dopĺňa odsekom 28, ktorý znie:
+
+- „(28)
+
+- Sociálna poisťovňa poskytuje autentifikovanej tretej strane na základe jej žiadosti v strojovo-spracovateľnom formáte automatizovaným spôsobom prostredníctvom aplikačného programového rozhrania údaje o dôchodkovom poistení poistenca, ak poistenec udelil súhlas s poskytovaním týchto údajov. Sociálna poisťovňa je povinná komunikovať prostredníctvom aplikačného programového rozhrania bezpečným spôsobom a prijímateľ údajov podľa prvej vety je povinný získané údaje šifrovať ihneď, ako je to možné.“.
+
 - 23. V § 171 ods. 1 sa za prvú vetu vkladá nová druhá veta, ktorá znie:
 
 - „Zverejnený zoznam obsahuje aj fyzické osoby a právnické osoby, ktoré si nesplnili povinnosť podľa § 228 ods. 1 písm. a) a b) alebo § 231 ods. 1 písm. f), ktorej nesplnenie sa považuje za evidovaný nedoplatok na poistnom na sociálne poistenie podľa § 170 ods. 21.“.
