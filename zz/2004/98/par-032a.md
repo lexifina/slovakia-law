@@ -14,7 +14,7 @@
 
 (5) Na zmenu údajov, odňatie a zánik povolenia prijímať minerálny olej na podnikateľské účely sa použije § 25 primerane.
 
-(6) Schválený príjemca je povinný pred prijatím minerálneho oleja uvedeného do daňového voľného obehu na území iného členského štátu na podnikateľské účely zložiť zábezpeku na daň vo výške dane pripadajúcej na množstvo prijímaného minerálneho oleja; na zábezpeku na daň sa použije § 22 primerane.
+(6) Schválený príjemca je povinný pred prijatím minerálneho oleja uvedeného do daňového voľného obehu na území iného členského štátu na podnikateľské účely zložiť zábezpeku na daň vo výške dane pripadajúcej na množstvo prijímaného minerálneho oleja najneskôr pred odoslaním minerálneho oleja schváleným odosielateľom; na zábezpeku na daň sa použije § 22 primerane.
 
 (7) Zábezpeka na daň zložená v inom členskom štáte je platná na daňovom území.
 

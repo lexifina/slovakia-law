@@ -12,13 +12,15 @@
 
 - 2) § 116 a 117 Občianskeho zákonníka.
 
-- 2a) Čl. 77 ods. 1 písm. a) nariadenia (EÚ) č. 952/2013.
+- 2a) Čl. 201 nariadenia (EÚ) č. 952/2013 v platnom znení.
 
 - 2aa) § 7 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov.
 
 - 2ab) § 3 až 7 zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
 
 - § 42 zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
+
+- 2ac) § 80 až 88 zákona č. 563/2009 Z. z. v znení neskorších prepisov.
 
 - 2b) Zákon č. 609/2007 Z. z. o spotrebnej dani z elektriny, uhlia a zemného plynu a o zmene a doplnení zákona č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení neskorších predpisov.
 
@@ -44,9 +46,7 @@
 
 - 5) Napríklad Zmluva medzi štátmi, ktoré sú stranami Severoatlantickej zmluvy, a inými štátmi zúčastnenými v Partnerstve za mier vzťahujúcej sa na štatút ich ozbrojených síl v znení ďalších dodatkových protokolov (oznámenie č. 324/1997 Z. z.).
 
-- 6) Nariadenie Komisie (ES) č. 31/96 z 10. januára 1996 o osvedčení o oslobodení od spotrebnej dane (Úradný vestník Európskych spoločenstiev L 008, 11/01/1996, s. 11–15).
-
-- 6a) § 50 zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov.
+- 6) Čl. 1 vykonávacieho nariadenia Komisie (EÚ) 2022/1637 z 5. júla 2022, ktorým sa stanovujú pravidlá uplatňovania smernice Rady (EÚ) 2020/262, pokiaľ ide o používanie dokumentov v súvislosti s prepravou tovaru podliehajúceho spotrebnej dani v režime pozastavenia dane a s prepravou tovaru podliehajúceho spotrebnej dani po jeho uvedení do daňového voľného obehu, a ktorým sa stanovuje formulár, ktorý sa má používať pre osvedčenie o oslobodení od spotrebnej dane (Ú. v. EÚ L 247, 23. 9. 2022).
 
 - 6b) § 115 Občianskeho zákonníka.
 
@@ -62,13 +62,17 @@
 
 - 6d) Napríklad zákon č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 7) Napríklad § 135, 456 a 462 Občianskeho zákonníka, § 64 až 66, § 68, 69, 75, 77, 83 a 84a zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 59, 60, 83 a 83b Trestného zákona v znení neskorších predpisov, § 40 až 43 zákona č. 563/2009 Z. z.
+- 7) Napríklad § 135, 456 a 462 Občianskeho zákonníka, § 64, 65, 69, 75, 77, 83 a 84a zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 59, 60 a 83 Trestného zákona, § 40 až 43 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
 
 - 7a) § 15 ods. 5 zákona č. 563/2009 Z. z.
 
-- 7aa) Vyhláška Ministerstva financií Slovenskej republiky č. 378/2011 Z. z. o spôsobe označovania platby dane.
+- 7aa) § 55 ods. 4 zákona č. 563/2009 Z. z.
+
+- Vyhláška Ministerstva financií Slovenskej republiky č. 378/2011 Z. z. o spôsobe označovania platby dane v znení neskorších predpisov.
 
 - 7b) § 68 zákona č. 563/2009 Z. z.
+
+- 7c) § 68a zákona č. 563/2009 Z. z. v znení neskorších predpisov.
 
 - 8) Napríklad vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch, vyhláška ministra zahraničných vecí č. 32/1969 Zb. o Viedenskom dohovore o konzulárnych stykoch, vyhláška ministra zahraničných vecí č. 40/1987 Zb. o Dohovore o osobitných misiách, vyhláška ministra zahraničných vecí č. 21/1968 Zb. o Dohovore o výsadách a imunitách medzinárodných odborných organizácií.
 
@@ -76,9 +80,9 @@
 
 - 10) § 2 ods. 7 písm. a) a b) vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 116/1997 Z. z.
 
-- 10a) § 16 zákona č. 563/2009 Z. z.
+- 10a) § 68 ods. 6 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
 
-- 11) § 156 zákona č. 563/2009 Z. z.
+- 11) § 154 a 155 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
 
 - 12) Vyhláška Ministerstva vnútra Slovenskej republiky č. 96/2004 Z. z., ktorou sa ustanovujú zásady protipožiarnej bezpečnosti pri manipulácii a skladovaní horľavých kvapalín, ťažkých vykurovacích olejov a rastlinných a živočíšnych tukov a olejov.
 
@@ -92,7 +96,7 @@
 
 - 14a) Napríklad zákon č. 218/2013 Z. z. o núdzových zásobách ropy a ropných výrobkov a o riešení stavu ropnej núdze a o zmene a doplnení niektorých zákonov.
 
-- 15) Zákon Národnej rady Slovenskej republiky č. 82/1994 Z. z. o štátnych hmotných rezervách v znení neskorších predpisov.
+- 15) Zákon č. 372/2012 Z. z. o štátnych hmotných rezervách a o doplnení zákona č. 25/2007 Z. z. o elektronickom výbere mýta za užívanie vymedzených úsekov pozemných komunikácií a o zmene a doplnení niektorých zákonov v znení neskorších predpisov v znení zákona č. 218/2013 Z. z.
 
 - 16) § 19 zákona č. 431/2002 Z. z. o účtovníctve.
 
@@ -122,11 +126,17 @@
 
 - § 313 až 322 Obchodného zákonníka.
 
-- 20a) Nariadenie komisie (ES) č. 684/2009 z 24. júla 2009, ktorým sa implementuje smernica Rady 2008/118/ES, pokiaľ ide o elektronické postupy pri preprave tovaru podliehajúceho spotrebnej dani v režime pozastavenia dane (Ú. v. EÚ L 197, 29. 7. 2009).
+- 20a) Delegované nariadenie Komisie (EÚ) 2022/1636 z 5. júla 2022, ktorým sa dopĺňa smernica Rady (EÚ) 2020/262 stanovením štruktúry a obsahu dokumentov, ktoré sa vymieňajú v súvislosti s prepravou tovaru podliehajúceho spotrebnej dani, a stanovením prahu pre straty z dôvodu povahy tovaru (Ú. v. EÚ L 247, 23. 9. 2022).
+
+- Vykonávacie nariadenie (EÚ) 2022/1637.
 
 - 20aa) Zákon č. 563/2009 Z. z.
 
 - 20b) Čl. 3 ods. 12 nariadenia Európskeho parlamentu a Rady (EÚ) č. 910/2014 z 23. júla 2014 o elektronickej identifikácii a dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zrušení smernice 1999/93/ES (Ú. v. EÚ L 257, 28. 8. 2014).
+
+- 20ba) Čl. 3 ods. 27 nariadenia Európskeho parlamentu a Rady (EÚ) č. 910/2014 z 23. júla 2014 o elektronickej identifikácii a dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zrušení smernice 1999/93/ES (Ú. v. EÚ L 257, 28. 8. 2014).
+
+- 20bb) § 23 ods. 1 písm. a) tretí bod zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení zákona č. 238/2017 Z. z.
 
 - 20c) Napríklad čl. 1 ods. 4 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu, zákon č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu v znení neskorších predpisov.
 
