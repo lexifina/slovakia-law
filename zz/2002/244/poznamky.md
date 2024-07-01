@@ -40,8 +40,6 @@
 
 - 13b) § 53 ods. 4 Občianskeho zákonníka.
 
-- 13c) § 7 až 9 zákona č. 250/2007 Z. z.
-
 - 15) § 41 ods. 2 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
 - 18) Civilný sporový poriadok.
