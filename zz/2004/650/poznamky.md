@@ -82,6 +82,8 @@
 
 - 24f) § 23 a 55 zákona č. 428/2002 Z. z. v znení neskorších predpisov.
 
+- 24fa) § 7 ods. 3 Obchodného zákonníka.
+
 - 24g) § 3 ods. 1 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
 
 - 25) § 17 až 22 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 561/2004 Z. z.
