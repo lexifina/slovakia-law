@@ -1,0 +1,1 @@
+Príloha č. 2 k opatreniu č. 134/2024 Z. z. [VZOR – Hlásenie o najvýznamnejších skutočnostiach dôchodkovej správcovskej spoločnosti](../assets/3f0a23d5fb3c6b6f9c05abd649db2b93e3083f7a8833720bff1951d19c01879a.pdf)
