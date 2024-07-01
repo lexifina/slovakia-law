@@ -274,6 +274,12 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
   - „<sup>55jatb</sup>) § 46 ods. 1 písm. m) zákona č. 576/2004 Z. z. v znení zákona č. 125/2024 Z. z.“.
 
+- 45. V § 79 ods. 1 písmeno aw) znie:
+
+- „aw)
+
+- zabezpečiť, ak ide o organizátora, poskytovanie pevnej ambulantnej pohotovostnej služby v ambulancii pevnej ambulantnej pohotovostnej služby pre dospelých v čase od 16. do 22. hodiny v pracovných dňoch a v čase od 7. do 22. hodiny v dňoch pracovného pokoja a v ambulancii pevnej ambulantnej pohotovostnej služby pre deti a dorast v čase od 16. do 20. hodiny v pracovných dňoch a v čase od 8. do 20. hodiny v dňoch pracovného pokoja,“.
+
 - 46. V § 79 ods. 1 písm. ze) sa za slová „podľa systému diagnosticko-terapeutických skupín“ vkladajú slová „a medicínskych služieb podľa osobitného zákona<sup>55cab</sup>)“.
 
   - Poznámka pod čiarou k odkazu 55cab znie:
@@ -418,18 +424,18 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - 56. V prílohe č. 3 časti A písm. a) tabuľky č. 1 a 2 znejú:
 
-- „[Tabuľka č. 1 a tabuľka č. 2](assets/75af3bccf332c80c64a48629fcd3221172124e75b9ae32008dfa3abdedd9bbc9.pdf)“.
+- „[Tabuľka č. 1 a tabuľka č. 2](assets/a5d44812d5cd66804f3e57e651871895f5902aa8df0d581bc3cc6ca7618d343c.pdf)“.
 
 - 57. V prílohe č. 3 časti A písm. c) tabuľka č. 3 znie:
 
-- „[Tabuľka č. 3](assets/2b266fa18a7598b8dfc81eac86e4f840dbb9c19df36081bf4a08cbbd8ab63bba.pdf)“.
+- „[Tabuľka č. 3](assets/124abeb32668559d63541a45f1c8de49dc64bd7950c323d426c4bd12cb451c4c.pdf)“.
 
 - 58. V prílohe č. 3 časti B písm. a) tabuľka č. 1 znie:
 
-- „[Tabuľka č. 1](assets/f7ec9b191255b7a73316d8e70ef5b20ea4587fb487b34618fc224b21636af1a3.pdf)
+- „[Tabuľka č. 1](assets/dc6e3fd330fd1806be683c5971e43b76bf01d0c882c110f35355a430ece2ca4a.pdf)
 
 - “.
 
 - 59. V prílohe č. 3 časti B písm. b) tabuľka č. 2 znie:
 
-- „[Tabuľka č. 2](assets/db4bfc149d55a76cd4fc8394ef5ad7e7e50e114a5edac24a36a7c30a71711670.pdf)“.
+- „[Tabuľka č. 2](assets/71318c2aa095f2be1464e7c0ccbb7c70fdba461857dd823fb0c7fb9679775c3f.pdf)“.
