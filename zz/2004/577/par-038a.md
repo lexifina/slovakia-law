@@ -22,7 +22,7 @@
 
 - a) 10 eur, ak v písmene b) alebo písmene c) nie je uvedené inak,
 
-- b) 2 eurá, ak poistenec navštívi poskytovateľa ústavnej pohotovostnej služby v čase medzi 16. a 22. hodinou v pracovných dňoch a v čase medzi 7. a 22. hodinou v dňoch pracovného pokoja v okrese, v územnom obvode ktorého sa neposkytuje ambulantná pohotovostná služba<sup>28a</sup>) alebo
+- b) 2 eurá, ak poistenec navštívi poskytovateľa ústavnej pohotovostnej služby v čase medzi 16. a 22. hodinou v pracovných dňoch a v čase medzi 7. a 22. hodinou v dňoch pracovného pokoja v okrese, v územnom obvode ktorého sa neposkytuje ambulantná pohotovostná služba<sup>28a</sup>) pre dospelých alebo v čase medzi 16. a 20. hodinou v pracovných dňoch a v čase medzi 8. a 20. hodinou v dňoch pracovného pokoja v okrese, v územnom obvode ktorého sa neposkytuje ambulantná pohotovostná služba pre deti a dorast alebo
 
 - c) 2 eurá, ak bol poistenec k poskytovateľovi ústavnej pohotovostnej služby odoslaný bezprostredne po poskytnutí ambulantnej pohotovostnej služby.
 
