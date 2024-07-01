@@ -1,31 +1,89 @@
 # § 36a Príspevok za ubytovanie odídenca
 
-(1) Vláda môže rozhodnúť o poskytovaní príspevku za ubytovanie odídenca (ďalej len „príspevok“) prostredníctvom obce, v ktorej územnom obvode sa poskytuje odídencovi ubytovanie. Vláda môže rozhodnúť, že súčasťou príspevku je aj náhrada za bezodplatné zabezpečenie stravovania odídencovi.
+(1) Ministerstvo poskytne príspevok za ubytovanie odídenca (ďalej len „príspevok“) prostredníctvom obce, v ktorej územnom obvode sa poskytuje odídencovi ubytovanie. Príspevok sa poskytne za ubytovanie odídenca
 
-(2) Príspevok poskytuje obec osobe, ktorá vlastní nehnuteľnosť slúžiacu na bývanie v jej územnom obvode, ktorá v nej poskytne bezodplatne ubytovanie odídencovi (ďalej len „oprávnená osoba“). Oprávnená osoba je povinná predložiť obci zmluvu o poskytnutí ubytovania odídencovi. Vzor zmluvy o poskytnutí ubytovania odídencovi je zverejnený na webovom sídle, ktoré určí nariadenie vlády podľa odseku 9. Za odídenca, ktorý nenadobudol plnoletosť uzatvára zmluvu o poskytnutí ubytovania odídencovi jeho zákonný zástupca, blízka osoba alebo súdom ustanovený opatrovník. Na účely poskytovania príspevku je odídenec, ktorému oprávnená osoba poskytuje ubytovanie, povinný raz mesačne počas poskytovania ubytovania osobne oznámiť obci, že mu oprávnená osoba poskytuje ubytovanie; ak oprávnená osoba zabezpečuje odídencovi popri ubytovaní aj stravovanie a náhrada za zabezpečenie stravovania odídencovi je súčasťou príspevku, odídenec je povinný oznámiť obci raz mesačne aj túto skutočnosť. Príspevok sa neposkytuje osobe, na ktorú sa vzťahuje poskytovanie príspevku za poskytnutie ubytovania odídencovi podľa osobitného predpisu<sup>13b</sup>) alebo osobe, ktorá má nárok na akékoľvek iné peňažné plnenie súvisiace s poskytnutím ubytovania odídencovi podľa osobitných predpisov.<sup>13c</sup>) Príspevok sa neposkytuje ani osobe, ktorá si uplatní nárok na poskytnutie príspevku za ubytovanie odídenca, ktorému sa poskytuje ubytovanie v azylovom zariadení. Príspevok sa poskytuje za noc ubytovania odídenca. Príspevok možno poskytnúť aj najviac za sedem nocí poskytovania ubytovania prechádzajúcich dňu poskytnutia dočasného útočiska odídencovi, najskôr však od 26. februára 2022. Obec je oprávnená na účely poskytnutia príspevku spracovávať osobné údaje uvedené v zmluve o poskytnutí ubytovania odídencovi a vo výkaze podľa odseku 7; obec je oprávnená tieto údaje overovať v informačnom systéme podľa osobitného predpisu,<sup>13d</sup>) prípadne v súčinnosti s ministerstvom. Nehnuteľnosť podľa prvej vety musí spĺňať minimálne požiadavky podľa osobitného predpisu.<sup>13e</sup>)
+- a) počas 120 dní od prvého poskytnutia dočasného útočiska na území Slovenskej republiky,
 
-(3) Príspevok sa poskytuje oprávnenej osobe najviac v sume ustanovenej nariadením vlády.
+- b) ktorý je zraniteľnou osobou podľa odseku 2.
 
-(4) Príspevok možno poskytnúť aj ďalším oprávneným osobám, a to právnickým osobám, ktoré poskytujú bezodplatne ubytovanie odídencovi v nebytovej budove slúžiacej na krátkodobé ubytovanie, ktoré vlastnia alebo spravujú,<sup>13g</sup>) ak takéto ubytovanie neposkytujú na základe oprávnenia podľa osobitného predpisu.<sup>13h</sup>) Ubytovanie podľa prvej vety musí spĺňať požiadavky na ubytovacie zariadenia podľa osobitného predpisu.<sup>13i</sup>) Ďalšia oprávnená osoba podľa prvej vety je povinná pred začatím poskytovania ubytovania odídencom v nebytovej budove slúžiacej na krátkodobé ubytovanie oznámiť obci, v ktorej územnom obvode je takáto budova, celkovú ubytovaciu kapacitu nebytovej budovy slúžiacej na krátkodobé ubytovanie. Príspevok ďalším opraveným osobám podľa prvej vety sa poskytuje za noc ubytovania odídenca v sume v súlade s nariadením vlády vydaným podľa odseku 9, najviac za ubytovanie takého počtu odídencov, ktorý zodpovedá rozsahu oznámenej ubytovacej kapacity; ak sa v nebytovej budove slúžiacej na krátkodobé ubytovanie nachádza byt, použije sa odsek 3.
+(2) Zraniteľnou osobou na účely poskytovania príspevku sa rozumie
 
-(5) Ďalšími oprávnenými osobami sú aj obec alebo vyšší územný celok, ak bezodplatne poskytujú ubytovanie odídencovi priamo alebo prostredníctvom rozpočtovej organizácie alebo príspevkovej organizácie v ich zriaďovateľskej pôsobnosti; ustanovenie odseku 4 sa použije rovnako. Rozpočtová organizácia alebo príspevková organizácia je oprávnená odídencovi poskytnúť bezodplatne ubytovanie, prípadne aj zabezpečiť bezodplatne stravovanie, pričom štátnej rozpočtovej organizácii a štátnej príspevkovej organizácii sa príspevok neposkytuje.
+- a) člen domácnosti, ktorá je príjemcom pomoci v hmotnej núdzi,
 
-(6) Na účely poskytovania a vyplácania príspevku ďalším oprávneným osobám sa vzťahujú odsek 2 druhá až desiata veta a odsek 7 rovnako.
+- b) osoba so závažným zdravotným postihnutím, ktorej sa poskytuje dotácia na podporu humanitárnej pomoci osobe so závažným zdravotným postihnutím podľa osobitného predpisu,<sup>13bc</sup>)
 
-(7) Obec vypláca príspevok oprávnenej osobe, ak sú splnené podmienky podľa odseku 2 a oprávnená osoba predložila obci výkaz, ktorý obsahuje počet nocí, počas ktorých bolo odídencovi skutočne poskytované ubytovanie, počet dní, počas ktorých bolo odídencovi skutočne zabezpečené stravovanie, ak náhrada za zabezpečenie stravovania odídencovi je súčasťou príspevku a ďalšie údaje uvedené vo vzore výkazu, ktorý je zverejnený na webovom sídle ministerstva; uvedený výkaz oprávnená osoba predkladá do 5 pracovných dní po skončení kalendárneho mesiaca, v ktorom poskytla ubytovanie odídencovi. Obec zasiela ministerstvu prehľad o uplatnených príspevkoch do 15. dňa kalendárneho mesiaca nasledujúceho po kalendárnom mesiaci, za ktorý sa príspevok poskytuje. Obec v prehľade o uplatnených príspevkoch uvedie identifikačné údaje oprávnených osôb alebo identifikačné údaje ďalších oprávnených osôb, adresu nehnuteľnosti oprávnenej osoby podľa odseku 2 prvej vety alebo adresu nehnuteľnosti ďalšej oprávnenej osoby podľa odseku 4, počet obytných miestností v tejto nehnuteľnosti alebo celkovú ubytovaciu kapacitu nehnuteľnosti, identifikačné údaje odídencov, ktorým oprávnené osoby alebo ďalšie oprávnené osoby poskytovali ubytovanie v tejto nehnuteľnosti v jednotlivom kalendárnom mesiaci, dátum začatia a dátum skončenia poskytovania ubytovania odídencovi v tejto nehnuteľnosti v jednotlivom kalendárnom mesiaci, sumu príspevku za odídencov ubytovaných v tejto nehnuteľnosti v jednotlivom kalendárnom mesiaci, počet dní, počas ktorých bolo odídencovi skutočne zabezpečené stravovanie, ak náhrada za zabezpečenie stravovania odídencovi je súčasťou príspevku, odtlačok úradnej pečiatky obce, meno, priezvisko a podpis osoby oprávnenej konať za obec a ďalšie údaje uvedené vo vzore prehľadov o uplatnených príspevkoch. Ministerstvo poskytuje obci sumu zodpovedajúcu príspevkom uplatneným oprávnenými osobami za príslušný kalendárny mesiac do konca kalendárneho mesiaca nasledujúceho po kalendárnom mesiaci, za ktorý sa príspevok poskytuje. Ministerstvo zverejní vzory prehľadov o uplatnených príspevkoch na svojom webovom sídle. Obec vypláca príspevok jednotlivým oprávneným osobám a jednotlivým ďalším oprávneným osobám do 5 pracovných dní od prijatia sumy poukázanej ministerstvom.
+- c) osoba, ktorá dosiahla vek 65 rokov,
 
-(8) Obec je oprávnená vykonávať kontrolu splnenia podmienok na poskytnutie príspevku.
+- d) jeden z rodičov, ktorý sa stará o dieťa do piatich rokov veku alebo fyzická osoba, ktorá sa osobne stará o dieťa do piatich rokov veku na základe rozhodnutia súdu,
 
-(9) Vláda nariadením ustanoví
+- e) dieťa do piatich rokov veku osoby podľa písmena d).
 
-- a) výšku jednotlivých príspevkov a dobu ich poskytovania,
+(3) Zraniteľnosť podľa odseku 2 preukazuje odídenec oprávnenej osobe a obci
 
-- b) náležitosti zmluvy podľa odseku 2,
+- a) potvrdením o poskytovaní pomoci v hmotnej núdzi, ak ide o zraniteľnú osobu podľa odseku 2 písm. a),
 
-- c) ďalšie podmienky poskytovania finančných prostriedkov obci a poskytovania príspevku oprávnenej osobe alebo ďalšej oprávnenej osobe.
+- b) oznámením o priznaní dotácie, ak ide o zraniteľnú osobu podľa odseku 2 písm. b),
 
-(10) Vláda môže nariadením ustanoviť
+- c) dokladom totožnosti, ak ide o zraniteľnú osobu podľa odseku 2 písm. c),
 
-- a) ďalšie oprávnené osoby,
+- d) ak ide o zraniteľnú osobu podľa odseku 2 písm. d) a e)
 
-- b) iné podmienky poskytovania príspevku pre ďalšie oprávnené osoby podľa písmena a).
+  - 1. čestným vyhlásením rodiča dieťaťa, že sa stará o dieťa do piatich rokov veku, alebo
+
+  - 2. rozhodnutím súdu, ak ide o fyzickú osobu, ktorá sa osobne stará o dieťa do piatich rokov veku na základe rozhodnutia súdu.
+
+(4) Príspevok poskytuje obec oprávnenej osobe, ktorou je
+
+- a) osoba, ktorá vlastní nehnuteľnosť slúžiacu na bývanie v jej územnom obvode, ktorá v nej poskytuje bezodplatne ubytovanie odídencovi,
+
+- b) právnická osoba, ktorá poskytuje bezodplatne ubytovanie odídencovi v nebytovej budove slúžiacej na krátkodobé ubytovanie, ktorú vlastní alebo spravuje, ak takéto ubytovanie neposkytuje na základe oprávnenia podľa osobitného predpisu,<sup>13c</sup>)
+
+- c) obec alebo vyšší územný celok, ak bezodplatne poskytuje ubytovanie odídencovi priamo alebo prostredníctvom rozpočtovej organizácie alebo príspevkovej organizácie vo svojej zriaďovateľskej pôsobnosti, pričom štátnej rozpočtovej organizácii a štátnej príspevkovej organizácii sa príspevok neposkytuje.
+
+(5) Ubytovanie musí spĺňať minimálne požiadavky podľa osobitných predpisov.<sup>13d</sup>)
+
+(6) Príspevok sa poskytuje oprávnenej osobe za noc ubytovania odídenca, najviac v sume ustanovenej nariadením vlády.
+
+(7) Príspevok sa neposkytuje oprávnenej osobe,
+
+- a) ktorá má nárok na iné peňažné plnenie súvisiace s poskytnutím ubytovania odídencovi podľa osobitných predpisov,<sup>13e</sup>)
+
+- b) ak ubytuje odídenca, ktorému sa poskytuje ubytovanie v azylovom zariadení,
+
+- c) ak ubytuje odídenca, ktorý je na území Slovenskej republiky vlastníkom alebo spoluvlastníkom nehnuteľnosti podľa odseku 4 písm. a) alebo písm. b),
+
+- d) ktorá poskytuje ubytovanie blízkej osobe.
+
+(8) Oprávnená osoba je povinná predložiť obci zmluvu o poskytnutí ubytovania odídencovi. Vzor zmluvy o poskytnutí ubytovania odídencovi je zverejnený na webovom sídle ministerstva. Za odídenca, ktorý nenadobudol plnoletosť, uzatvára zmluvu o poskytnutí ubytovania odídencovi jeho zákonný zástupca, blízka osoba alebo súdom ustanovený opatrovník.
+
+(9) Oprávnená osoba podľa odseku 4 písm. b) a c) je povinná pred začatím poskytovania ubytovania odídencom oznámiť obci, v ktorej územnom obvode je takáto budova, celkovú ubytovaciu kapacitu. Príspevok sa oprávnenej osobe poskytuje najviac za ubytovanie takého počtu odídencov, ktorý zodpovedá rozsahu ubytovacej kapacity.
+
+(10) Odídenec, ktorému oprávnená osoba poskytuje ubytovanie, je povinný
+
+- a) osobne oznámiť obci, že mu oprávnená osoba poskytuje ubytovanie
+
+  - 1. do troch pracovných dní od začiatku poskytovania ubytovania; súčasťou prvého oznámenia je aj preukázanie zraniteľnosti podľa odseku 3, ak ide o zraniteľnú osobu,
+
+  - 2. dvakrát za mesiac počas poskytovania ubytovania, pričom medzi jednotlivými oznámeniami musí byť najmenej 14 dní; to neplatí, ak oprávnená osoba poskytuje ubytovanie odídencovi menej ako 14 dní,
+
+- b) bezodkladne oznámiť obci a oprávnenej osobe zmeny v skutočnostiach rozhodujúcich pre posúdenie zraniteľnosti podľa odseku 2 písm. a), b), d) a e).
+
+(11) Obec vypláca príspevok oprávnenej osobe, ak sú splnené podmienky podľa tohto zákona a oprávnená osoba predložila obci výkaz, ktorého vzor je zverejnený na webovom sídle ministerstva.
+
+(12) Oprávnená osoba predkladá obci výkaz do piatich pracovných dní po skončení kalendárneho mesiaca, v ktorom poskytla ubytovanie odídencovi.
+
+(13) Obec predkladá ministerstvu prostredníctvom príslušného okresného úradu prehľad o uplatnených príspevkoch do 15. dňa kalendárneho mesiaca nasledujúceho po kalendárnom mesiaci, za ktorý sa príspevok poskytuje. Vzor prehľadov o uplatnených príspevkoch je zverejnený na webovom sídle ministerstva.
+
+(14) Ministerstvo poskytuje obci sumu zodpovedajúcu príspevkom uplatneným oprávnenými osobami za príslušný kalendárny mesiac do konca kalendárneho mesiaca nasledujúceho po kalendárnom mesiaci, za ktorý sa príspevok poskytuje.
+
+(15) Obec vypláca príspevok jednotlivým oprávneným osobám do piatich pracovných dní od prijatia sumy poukázanej ministerstvom.
+
+(16) Ministerstvo je oprávnené na účely poskytovania príspevku za ubytovanie odídenca, ktorý je zraniteľnou osobou podľa odseku 2 písm. a) a b), získavať a používať údaje evidované v informačnom systéme podľa osobitného predpisu.<sup>13f</sup>)
+
+(17) Obec je oprávnená na účely poskytnutia príspevku spracovávať osobné údaje uvedené v zmluve o poskytnutí ubytovania odídencovi a vo výkaze podľa odseku 11; obec je oprávnená tieto údaje overovať v informačnom systéme podľa osobitného predpisu<sup>13g</sup>) alebo v súčinnosti s ministerstvom.
+
+(18) Vláda nariadením ustanoví
+
+- a) výšku jednotlivých príspevkov,
+
+- b) náležitosti zmluvy podľa odseku 8.

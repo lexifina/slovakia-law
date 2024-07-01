@@ -64,15 +64,19 @@
 
 - 13bb) § 10 zákona č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 13c) Napríklad zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov, zákon č. 179/2011 Z. z. o hospodárskej mobilizácii a o zmene a doplnení zákona č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu v znení neskorších predpisov v znení neskorších predpisov.
+- 13bc) § 3n nariadenia vlády Slovenskej republiky č. 131/2022 Z. z. o niektorých opatreniach v oblasti dotácií v pôsobnosti Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky v čase mimoriadnej situácie, núdzového stavu alebo výnimočného stavu vyhláseného v súvislosti s hromadným prílevom cudzincov na územie Slovenskej republiky spôsobeným ozbrojeným konfliktom na území Ukrajiny v znení nariadenia vlády Slovenskej republiky č. 416/2022 Z. z.
 
-- 13d) § 12 zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení zákona č. 216/2008 Z. z.
+- 13c) § 10 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
-- 13e) § 62 ods. 1 písm. f) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení zákona č. 533/2021 Z. z.
+- 13d) § 62 ods. 1 písm. f) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení zákona č. 533/2021 Z. z.
 
 - § 8 ods. 2 vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 259/2008 Z. z. o podrobnostiach o požiadavkách na vnútorné prostredie budov a o minimálnych požiadavkách na byty nižšieho štandardu a na ubytovacie zariadenia.
 
-- 13g) Napríklad zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 258/1993 Z. z. o Železniciach Slovenskej republiky v znení neskorších predpisov.
+- 13e) Napríklad zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov, zákon č. 179/2011 Z. z. o hospodárskej mobilizácií a o zmene a doplnení zákona č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu v znení neskorších predpisov v znení neskorších predpisov.
+
+- 13f) § 1 ods. 3 písm. n) zákona č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratívnej záťaže využívaním informačných systémov verejnej správy a o zmene a doplnení niektorých zákonov (zákon proti byrokracii) v znení neskorších predpisov.
+
+- 13g) § 12 zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení zákona č. 216/2008 Z. z.
 
 - 13h) § 10 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
