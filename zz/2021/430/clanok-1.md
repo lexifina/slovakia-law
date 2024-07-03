@@ -164,6 +164,10 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 
 - Požiadavky na jednorazový plastový výrobok
 
+- (1)
+
+- Výrobca jednorazového plastového výrobku je povinný uvádzať na trh Slovenskej republiky nápojové obaly uvedené v prílohe č. 7a časti C za predpokladu, že uzávery alebo viečka vyrobené z plastu ostanú počas zamýšľaného používania výrobku pripevnené k nápojovým obalom.
+
 - (2)
 
 - Nápojové obaly uvedené v prílohe č. 7a časti C vyrobené v súlade s harmonizovanými normami, na ktoré bol uverejnený odkaz v Úradnom vestníku Európskej únie, sa považujú za nápojové obaly v súlade s požiadavkou podľa odseku 1.
