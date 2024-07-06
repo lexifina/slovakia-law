@@ -1,0 +1,1 @@
+Príloha č. 1 k opatreniu č. MF/009347/2024-74 [Žiadosť o vykonanie skúšky na výkon uistenia v oblasti vykazovania informácií o udržateľnosti, skúšky spôsobilosti na výkon uistenia v oblasti vykazovania informácií o udržateľnosti alebo preskúšania v oblasti udržateľnosti](../assets/2e88856b6729114a1edc64b25efbb5fe1ee3a99b403ddde4ec194d84195e7d29.pdf)
