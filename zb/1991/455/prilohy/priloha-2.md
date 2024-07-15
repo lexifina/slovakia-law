@@ -243,3 +243,11 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 - | Zneškodňovanie fluórovaných skleníkových plynov vrátane podnikania v oblasti nakladania s odpadmi s obsahom fluórovaných skleníkových plynov | | |
 
 - | Uvádzanie fluórovaných skleníkových plynov na trh | | |
+
+- 95. | Činnosť pilota v oblasti civilného letectva | preukaz spôsobilosti | § 19 ods. 3 a 11 zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov |
+
+- 96. | Činnosť pilota na diaľku v oblasti civilného letectva | preukaz spôsobilosti pilota na diaľku | § 45d ods. 1 zákona č. 143/1998 Z. z. v znení zákona č. 161/2024 Z. z. |
+
+- 97. | Činnosť inštruktora v oblasti civilného letectva | preukaz spôsobilosti s kvalifikáciou inštruktora | § 19 ods. 3 zákona č. 143/1998 Z. z. v znení neskorších predpisov |
+
+- 98. | Činnosť examinátora v oblasti civilného letectva | osvedčenie examinátora | Príloha I podčasť K nariadenia Komisie (EÚ) č. 1178/2011 z 3. novembra 2011, ktorým sa ustanovujú technické požiadavky a administratívne postupy týkajúce sa posádky civilného letectva podľa nariadenia Európskeho parlamentu a Rady (ES) č. 216/2008 (Ú. v. EÚ L 311, 25. 11. 2011) v platnom znení letecký predpis |
