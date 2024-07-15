@@ -28,13 +28,19 @@
 
 - 5c) Zákon č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 6) § 2 písm. b) zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov.
+- 6) § 2 ods. 4 zákona č. 95/2019 Z. z. o informačných technológiách vo verejnej správe a o zmene a doplnení niektorých zákonov.
 
 - 6a) § 29 ods. 2 písm. i) zákona č. 647/2007 Z. z. o cestovných dokladoch a o zmene a doplnení niektorých zákonov.
 
 - § 107 ods. 2 písm. l) zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - § 16 ods. 2 písm. f) zákona č. 395/2019 Z. z. o občianskych preukazoch a o zmene a doplnení niektorých zákonov.
+
+- 6aa) Vykonávacie nariadenie Komisie (EÚ) 2015/1501 z 8. septembra 2015 o rámci interoperability podľa článku 12 ods. 8 nariadenia Európskeho parlamentu a Rady (EÚ) č. 910/2014 o elektronickej identifikácii a dôveryhodných službách pre elektronické transakcie na vnútornom trhu (Ú. v. EÚ L 235, 9. 9. 2015).
+
+- 6b) Bod 1 písm. d) Prílohy vykonávacieho nariadenia (EÚ) 2015/1501.
+
+- 6c) Základný číselník CL004001 vydaný podľa § 25 zákona č. 95/2019 Z. z. o informačných technológiách vo verejnej správe a o zmene a doplnení niektorých zákonov.
 
 - 7) Zákon č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení zákona č. 75/2013 Z. z.
 
