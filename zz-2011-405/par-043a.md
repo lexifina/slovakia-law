@@ -1,0 +1,9 @@
+# § 43a Prechodné ustanovenia účinné od 1. januára 2014
+
+(1) Držiteľ autorizácie prípravku na ochranu rastlín, ktorý požiadal kontrolný ústav o prehodnotenie autorizácie do 31. decembra 2013, je povinný predložiť kontrolnému ústavu dokumentačný súbor údajov a požiadať odborné pracovisko o vypracovanie odborného posudku najneskôr do 31. marca 2014. Odborné pracovisko vypracuje odborný posudok na základe žiadosti držiteľa autorizácie do lehoty určenej kontrolným ústavom.
+
+(2) Kontrolný ústav zruší autorizáciu prípravku na ochranu rastlín, ktorého doba na prehodnotenie uplynula do 31. decembra 2013, okrem prípravku na ochranu rastlín s obsahom účinných látok uvedených v osobitnom predpise,<sup>67</sup>) ak držiteľ tejto autorizácie do 31. marca 2014 nepredložil kontrolnému ústavu žiadosť o prehodnotenie autorizácie tohto prípravku a dokumentačný súbor údajov alebo do 30 dní od doručenia rozhodnutia o prerušení konania nepredložil odbornému pracovisku žiadosť o vypracovanie odborného posudku, alebo v určenej lehote nepredložil kontrolnému ústavu odborné posudky.
+
+(3) Na prehodnotenie autorizácie prípravku na ochranu rastlín možno využiť aj jeho hodnotenie vypracované iným členským štátom podľa osobitného predpisu<sup>68</sup>) po schválení jeho účinných látok, ak je toto hodnotenie pre podmienky Slovenskej republiky relevantné. Držiteľ autorizácie spolu so žiadosťou o prehodnotenie autorizácie predloží kontrolnému ústavu aj hodnotiacu správu tohto členského štátu.
+
+(4) Držiteľ autorizácie prípravku na ochranu rastlín, ktorý nie je klasifikovaný podľa osobitného predpisu,<sup>44a</sup>) je povinný predložiť kontrolnému ústavu do 28. februára 2017 žiadosť o zmenu a doplnenie autorizácie z dôvodu prevodu existujúcej klasifikácie a označenia.<sup>69</sup>) Súčasťou žiadosti je návrh klasifikácie a označovania podľa osobitného predpisu;<sup>44a</sup>) za správnosť prevodu je zodpovedný držiteľ autorizácie.
