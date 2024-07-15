@@ -28,8 +28,6 @@
 
 - 4) Čl. 104 ods. 1 Ústavy Slovenskej republiky.
 
-- 4a) § 4 ods. 1 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
-
 - 5) Čl. 112 Ústavy Slovenskej republiky.
 
 - 6) Čl. 134 ods. 4 Ústavy Slovenskej republiky.
@@ -43,6 +41,8 @@
 - 8b) Zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení neskorších predpisov.
 
 - 9) Zákon Národnej rady Slovenskej republiky č. 7/1993 Z. z. o zriadení Národnej poisťovne a o financovaní zdravotného poistenia, nemocenského poistenia a dôchodkového poistenia.
+
+- 9a) § 2 ods. 1 písm. f) a § 72a zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
 - 10) Zákon č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
 
