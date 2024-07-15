@@ -46,6 +46,8 @@
 
 - 8) Napríklad § 31 ods. 2 zákona č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov, zákon č. 50/1976 Zb. v znení neskorších predpisov.
 
+- 8a) § 7 ods. 4 zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 9) Nariadenie Rady (ES) č. 428/2009 z 5. mája 2009, ktorým sa stanovuje režim Spoločenstva na kontrolu vývozu, prepravy, sprostredkovania a tranzitu položiek s dvojakým použitím (prepracované znenie) (Ú. v. EÚ L 134, 29. 5. 2009).
 
 - 10) Napríklad § 5 ods. 1 zákona č. 656/2004 Z. z. o energetike a o zmene a doplnení niektorých zákonov, zákon č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -68,6 +70,10 @@
 
 - 11b) Napríklad zákon č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratívnej záťaže využívaním informačných systémov verejnej správy a o zmene a doplnení niektorých zákonov (zákon proti byrokracii) v znení neskorších predpisov.
 
+- 11baa) Dohovor o prístupe k informáciám, účasti verejnosti na rozhodovacom procese a prístupe k spravodlivosti v záležitostiach životného prostredia (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 43/2006 Z. z.).
+
+- 11bab) Zákon č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 11c) Napríklad zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov, zákon č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 11d) Zákon č. 50/1976 Zb. v znení neskorších predpisov.
@@ -79,6 +85,10 @@
 - 13) Napríklad § 44 zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení zákona č. 37/2002 Z. z.
 
 - 14) Článok 79 Zmluvy o založení Európskeho spoločenstva pre atómovú energiu.
+
+- 14a) § 2 písm. e) zákona č. 143/1998 Z. z.
+
+- 14b) Čl. 2 ods. 2 vykonávacieho nariadenia Komisie (EÚ) 2019/947 z 24. mája 2019 o pravidlách a postupoch prevádzky bezpilotných lietadiel (Ú. v. EÚ L 152, 11. 6. 2019) v platnom znení.
 
 - 15) Zmluva o založení Európskeho spoločenstva pre atómovú energiu.
 
@@ -160,6 +170,10 @@
 
 - 36d) § 2 ods. 1 písm. n) zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 36e) § 53 ods. 2 zákona č. 473/2005 Z. z. o poskytovaní služieb v oblasti súkromnej bezpečnosti a o zmene a doplnení niektorých zákonov (zákon o súkromnej bezpečnosti) v znení neskorších predpisov.
+
+- 36f) Napríklad zákon č. 314/2001 Z. z. o ochrane pred požiarmi v znení neskorších predpisov, zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov, zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 128/2015 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 87/2018 Z. z. v znení neskorších predpisov.
+
 - 37) Napríklad zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 37a) Prílohy č. 1 a 2 vyhlášky Úradu jadrového dozoru Slovenskej republiky č. 51/2006 Z. z., ktorou sa ustanovujú podrobnosti o požiadavkách na zabezpečenie fyzickej ochrany, Príloha II Dohovoru o fyzickej ochrane jadrových materiálov (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 329/2001 Z. z. o prijatí Dohovoru o fyzickej ochrane jadrových materiálov).
@@ -171,6 +185,14 @@
 - Zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
 
 - 37d) § 50 zákona č. 215/2004 Z. z.
+
+- 37da) § 2 písm. b) vyhlášky č. 51/2006 Z. z..
+
+- 37db) Čl. 4 ods. 7 nariadenia (EÚ) 2016/679 v platnom znení.
+
+- 37dc) Napríklad zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov, zákon č. 18/2018 Z. z. o ochrane osobných údajov v znení neskorších predpisov, zákon č. 146/2023 Z. z. v znení zákona č. 272/2023 Z. z.
+
+- 37dd) Čl. 24 a 32 nariadenia (EÚ) 2016/679 v platnom znení.
 
 - 37e) § 3 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov.
 

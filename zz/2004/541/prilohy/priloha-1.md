@@ -72,7 +72,7 @@ Príloha č. 1 k zákonu č. 541/2004 Z. z.
 
     - j) pre jadrové zariadenia s jadrovým reaktorom pravdepodobnostné hodnotenie bezpečnosti prevádzky pre odstavený reaktor a pre nízke výkonové hladiny, ako aj pre plný výkon reaktora,
 
-    - k) plán fyzickej ochrany vrátane zmluvy s Policajným zborom podľa § 26 ods. 10, ako aj opisu spôsobu vykonávania leteckých činností<sup>13</sup>) v objektoch alebo v blízkosti jadrového zariadenia,
+    - k) plán fyzickej ochrany vrátane zmluvy s Policajným zborom podľa § 26 ods. 10, ako aj opisu spôsobu vykonávania letu vo vzdušnom priestore zriadenom na ochranu jadrového zariadenia,
 
     - l) plán nakladania s rádioaktívnymi odpadmi a s vyhoretým jadrovým palivom vrátane ich prepravy,
 
@@ -114,7 +114,7 @@ Príloha č. 1 k zákonu č. 541/2004 Z. z.
 
     - e) koncepcia vyraďovania pre obdobie po skončení povoľovanej etapy vyraďovania,
 
-    - f) plán fyzickej ochrany vrátane zmluvy s Policajným zborom podľa § 26 ods. 10, ako aj opisu spôsobu vykonávania leteckých činností<sup>13</sup>) v objektoch alebo v blízkosti jadrového zariadenia,
+    - f) plán fyzickej ochrany vrátane zmluvy s Policajným zborom podľa § 26 ods. 10, ako aj opisu spôsobu vykonávania letu vo vzdušnom priestore zriadenom na ochranu jadrového zariadenia,
 
     - g) plán nakladania a prepravy rádioaktívnych odpadov a plán nakladania s konvenčným odpadom z vyraďovania,
 
