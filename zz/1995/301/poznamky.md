@@ -10,13 +10,23 @@
 
 - 5) § 23 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z.
 
-- 6) § 6 a 7 zákona Národnej rady Slovenskej republiky č. 73/1995 Z. z. o pobyte cudzincov na území Slovenskej republiky.
+- 6) § 42 ods. 2 a § 63 ods. 2 zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 7) Zákon Národnej rady Slovenskej republiky č. 283/1995 Z. z. o utečencoch.
+- 6a) § 20 ods. 1 zákona č. 404/2011 Z. z.
+
+- 6b) § 58 ods. 1 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
+
+- 7) § 8 až 10 zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení zákona č. 692/2006 Z. z.
+
+- 7a) § 13a a 13b zákona č. 480/2002 Z. z. v znení zákona č. 692/2006 Z. z.
+
+- 7b) § 29 ods. 1 a § 31a zákona č. 480/2002 Z. z. v znení neskorších predpisov.
 
 - 8) § 3 ods. 5 zákona Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky.
 
-- 9) § 9 zákona Národnej rady Slovenskej republiky č. 73/1995 Z. z.
+- 9) § 73, 74a a 59 ods. 8 zákona č. 404/2011 Z. z. v znení zákona č. 160/2024 Z. z.
+
+- § 31 ods. 1 zákona č. 480/2002 Z. z. v znení neskorších predpisov.
 
 - 10) § 11 a 17 zákona č. 256/1992 Zb.
 
