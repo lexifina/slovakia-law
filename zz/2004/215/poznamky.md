@@ -72,7 +72,7 @@
 
 - 24) § 4 ods. 4 zákona Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii.
 
-- 25) § 44 zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení zákona č. 37/2002 Z. z.
+- 25) § 1 ods. 3 zákona č. 143/1998 Z. z. o civilnom letectve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 26) Napríklad Zmluva o otvorenom nebi (oznámenie č. 374/2002 Z. z.).
 
