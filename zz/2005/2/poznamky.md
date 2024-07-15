@@ -12,4 +12,6 @@
 
 - 7) § 23 ods. 1 zákona Národnej rady Slovenskej republiky č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri občanov v znení neskorších predpisov.
 
+- 7a) Čl. 2 ods. 1 nariadenia Európskeho parlamentu a Rady (EÚ) 2019/1010 z 5. júna 2019 o zosúladení povinností podávania správ v oblasti právnych predpisov týkajúcich sa životného prostredia a o zmene nariadení Európskeho parlamentu a Rady (ES) č. 166/2006 a (EÚ) č. 995/2010, smerníc Európskeho parlamentu a Rady 2002/49/ES, 2004/35/ES, 2007/2/ES, 2009/147/ES a 2010/63/EÚ, nariadení Rady (ES) č. 338/97 a (ES) č. 2173/2005 a smernice Rady 86/278/EHS (Ú. v. EÚ L 170, 25. 6. 2019).
+
 - 8) Zákon č. 71/1967 o správnom konaní (správny poriadok) v znení neskorších predpisov.
