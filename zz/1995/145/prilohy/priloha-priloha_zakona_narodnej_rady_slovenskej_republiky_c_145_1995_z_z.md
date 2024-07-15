@@ -382,15 +382,15 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 18
 
-  - a) Uzavretie manželstva medzi štátnymi občanmi Slovenskej republiky pred matričným úradom, v ktorého obvode nemá ani jeden zo snúbencov trvalý pobyt | 30 eur
+  - a) Uzavretie manželstva medzi štátnymi občanmi Slovenskej republiky, občanom Slovenskej republiky a občanom Európskej únie a medzi občanmi Európskej únie pred matričným úradom, v ktorého obvode nemá ani jeden zo snúbencov trvalý pobyt | 30 eur
 
   - b) Povolenie uzavrieť manželstvo mimo určenej doby | 30 eur
 
   - c) Povolenie uzavrieť manželstvo mimo úradne určenej miestnosti<sup>15</sup>) | 100 eur
 
-  - d) Uzavretie manželstva medzi štátnym občanom Slovenskej republiky a cudzincom | 100 eur
+  - d) Uzavretie manželstva medzi štátnym občanom Slovenskej republiky a cudzincom, ktorý nie je občanom Európskej únie | 100 eur
 
-  - e) Uzavretie manželstva medzi cudzincami | 280 eur
+  - e) Uzavretie manželstva medzi cudzincami, ktorí nie sú občanmi Európskej únie | 280 eur
 
   - f) Uzavretie manželstva, ak ani jeden zo snúbencov nemá na území Slovenskej republiky trvalý pobyt | 280 eur
 
@@ -426,7 +426,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - d) Udelenie štátneho občianstva Slovenskej republiky štátnym občanom Českej republiky narodeným po 1. 1. 1993 | 30 eur
 
-  - e) Udelenie štátneho občianstva Slovenskej republiky osobe, ktorej aspoň jeden z rodičov alebo prarodičov bol československým štátnym občanom | 30 eur
+  - e) Udelenie štátneho občianstva Slovenskej republiky osobe, ktorej aspoň jeden z rodičov, prarodičov alebo praprarodičov bol československým štátnym občanom | 30 eur
 
   - f) Udelenie štátneho občianstva Slovenskej republiky osobe, ktorá má vydané platné osvedčenie preukazujúce postavenie Slováka žijúceho v zahraničí | 560 eur
 
@@ -552,35 +552,33 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - e) | Žiadosť o obnovenie modrej karty Európskej únie | 140 eur
 
-  - f) | Vydanie |
+  - f) | Vydanie dokladu o pobyte a jeho doručenie na adresu na území Slovenskej republiky službou zavedenou na tento účel |
 
-  - | 1. dokladu o pobyte ..... | 6 eur
+  - | 1. do 30 dní | 10 eur
 
-  - | 2. dokladu o pobyte urýchlene do dvoch pracovných dní ..... | 35 eur
+  - | 2. do 2 pracovných dní | 39 eur
 
-  - g) | Vydanie dokladu o pobyte |
+  - g) | Vydanie dokladu o pobyte a jeho doručenie na adresu na území Slovenskej republiky službou zavedenou na tento účel |
 
-  - | 1. ako náhrada za stratený, zničený, poškodený alebo odcudzený doklad ..... | 25 eur
+  - | 1. ako náhrada za stratený, zničený, poškodený alebo odcudzený doklad | 29 eur
 
-  - | 2. ako náhrada za stratený, zničený, poškodený alebo odcudzený doklad do dvoch pracovných dní ..... | 50 eur
+  - | 2. ako náhrada za stratený, zničený, poškodený alebo odcudzený doklad do 2 pracovných dní | 54 eur
 
-  - | 3. ako náhrada za stratený, zničený, poškodený alebo odcudzený doklad v priebehu dvoch po sebe nasledujúcich rokov ..... | 50 eur
+  - | 3. ako náhrada za stratený, zničený, poškodený alebo odcudzený doklad v priebehu dvoch po sebe nasledujúcich rokov | 54 eur
 
-  - | 4. ako náhrada za stratený, zničený, poškodený alebo odcudzený doklad v priebehu dvoch po sebe nasledujúcich rokov do dvoch pracovných dní ..... | 75 eur
+  - | 4. ako náhrada za stratený, zničený, poškodený alebo odcudzený doklad v priebehu dvoch po sebe nasledujúcich rokov do 2 pracovných dní | 79 eur
 
-  - h) | Doručenie dokladu o pobyte na adresu na území Slovenskej republiky službou zavedenou na tento účel ..... | 4 eurá
+  - h) | Žiadosť o udelenie tolerovaného pobytu | 140 eur
 
-  - i) | Žiadosť o udelenie tolerovaného pobytu | 140 eur
+  - i) | Žiadosť o predĺženie tolerovaného pobytu | 50 eur
 
-  - j) | Žiadosť o predĺženie tolerovaného pobytu | 50 eur
+  - j) | Potvrdenie o pobyte cudzinca na území Slovenskej republiky | 4 eurá
 
-  - k) | Potvrdenie o pobyte cudzinca na území Slovenskej republiky | 4 eurá
+  - k) | Vydanie cudzineckého pasu cudzincovi | 50 eur
 
-  - l) | Vydanie cudzineckého pasu cudzincovi | 50 eur
+  - l) | Vydanie cudzineckého pasu cudzincovi od 5 do 15 rokov | 20 eur
 
-  - m) | Vydanie cudzineckého pasu cudzincovi od 5 do 15 rokov | 20 eur
-
-  - n) | Vydanie cudzineckého pasu cudzincovi mladšiemu ako 5 rokov | 12 eur
+  - m) | Vydanie cudzineckého pasu cudzincovi mladšiemu ako 5 rokov | 12 eur
 
   - Oslobodenie
 
@@ -588,7 +586,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 2. Od poplatkov podľa písmen a), b), d), e) tejto položky sú oslobodené osoby, ktoré sú pedagogickí zamestnanci alebo vysokoškolskí učitelia.
 
-  - 3. Od poplatkov podľa písmen a), c), d), i) a j) tejto položky sú oslobodené osoby mladšie ako 18 rokov.
+  - 3. Od poplatkov podľa písmen a), c), d), h) a i) tejto položky sú oslobodené osoby mladšie ako 18 rokov.
 
   - 4. Od poplatkov podľa písmen a) a d) tejto položky sú na základe vzájomnosti oslobodení stážisti, ktorým sa poskytuje štipendium Ministerstva školstva, vedy, výskumu a športu Slovenskej republiky alebo štipendium vyplývajúce zo záväzkov z medzinárodných zmlúv, ako aj lektori cudzích jazykov prichádzajúci na školy v Slovenskej republike na základe záväzkov z medzinárodných zmlúv.
 
@@ -600,11 +598,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - b) prvýkrát žiadajú o vydanie dokladu o pobyte ako cudzinci, ktorým bol udelený azyl, alebo cudzinci, ktorým bola poskytnutá doplnková ochrana.
 
-  - 7. Od poplatkov podľa písmen i) a j) tejto položky sú oslobodené osoby, ktoré žiadajú o udelenie tolerovaného pobytu podľa § 58 ods. 1 písm. a) a c) a ods. 2 zákona č. 404/2011 Z. z.
+  - 7. Od poplatkov podľa písmen h) a i) tejto položky sú oslobodené osoby, ktoré žiadajú o udelenie tolerovaného pobytu podľa § 58 ods. 1 písm. a) a c) a ods. 2 zákona č. 404/2011 Z. z.
 
-  - 8. Od poplatku podľa písmena l) tejto položky sú oslobodené osoby, ktorým bol udelený tolerovaný pobyt podľa § 58 ods. 1 písm. c) a ods. 2 zákona č. 404/2011 Z. z.
+  - 8. Od poplatku podľa písmena k) tejto položky sú oslobodené osoby, ktorým bol udelený tolerovaný pobyt podľa § 58 ods. 1 písm. c) a ods. 2 zákona č. 404/2011 Z. z.
 
-  - 9. Od poplatkov podľa písmen l) až n) tejto položky sú oslobodené
+  - 9. Od poplatkov podľa písmen k) až m) tejto položky sú oslobodené
 
   - a) osoby, ktoré majú udelený tolerovaný pobyt podľa § 58 ods. 1 písm. a) alebo ktoré zotrvávajú na území Slovenskej republiky podľa § 61a ods. 1 písm. a) zákona č. 404/2011 Z. z.,
 
@@ -2928,6 +2926,12 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 2. | zmena | 2 500 eur
 
+  - h) | Vydanie poverenia jednotného poskytovateľa spoločných informačných služieb na vykonávanie spoločnej informačnej služby | |
+
+  - | 1. | vydanie ..... | 2 500 eur
+
+  - | 2. | zmena ..... | 1 250 eur
+
     - Položka 91
 
   - a) | Vydanie rozhodnutia o povolení na prevádzkovanie letiska | | |
@@ -3276,6 +3280,58 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 4. | na viacpilotnom lietadle – pravidlá letu podľa prístrojov ..... | 320 eur
 
+    - Položka 91e
+
+  - a) Prevádzkové povolenie na prevádzku bezpilotného leteckého systému alebo bezpilotného lietadla v osobitnej kategórií prevádzky |
+
+  - 1. vydanie ..... | 600 eur
+
+  - 2. zmena ..... | 200 eur
+
+  - b) Povolenie na prevádzku bezpilotných leteckých systémov alebo bezpilotných lietadiel v rámci klubu alebo združenia leteckých modelárov |
+
+  - 1. vydanie ..... | 200 eur
+
+  - 2. zmena ..... | 100 eur
+
+  - c) Určenie zemepisnej oblasti UAS, v ktorej sa na prevádzku bezpilotných lietadiel alebo bezpilotných leteckých systémov neuplatňujú niektoré z požiadaviek otvorenej kategórie prevádzky | 200 eur
+
+  - d) Register prevádzkovateľov bezpilotných leteckých systémov |
+
+  - 1. zápis ..... | 35 eur
+
+  - 2. zmena ..... | 10 eur
+
+  - e) Register bezpilotných lietadiel, ktorých projektový návrh podlieha certifikácií |
+
+  - 1. zápis ..... | 1 000 eur
+
+  - 2. zmena ..... | 200 eur
+
+  - 3. výmaz ..... | 500 eur
+
+  - f) Osvedčenie prevádzkovateľa ľahkých bezpilotných leteckých systémov |
+
+  - 1. vydanie ..... | 2 000 eur
+
+  - 2. zmena ..... | 500 eur
+
+  - g) Osvedčenie poskytovateľa služieb U-space |
+
+  - 1. vydanie ..... | 1 000 eur
+
+  - 2. zmena ..... | 100 eur
+
+  - h) Osvedčenie poskytovateľa spoločných informačných služieb |
+
+  - 1. vydanie ..... | 1 000 eur
+
+  - 2. zmena ..... | 100 eur
+
+  - i) Skúška teoretických vedomostí pilota na diaľku ..... | 30 eur
+
+  - j) Hodnotenie praktických zručností pilota na diaľku ..... | 60 eur
+
     - Položka 92
 
   - a) | Zápis lietadla do registra lietadiel Slovenskej republiky | |
@@ -3302,7 +3358,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - i) | Podanie žiadosti o vydanie dokumentu, rozhodnutia, osvedčenia schválenia alebo preukazu spôsobilosti podľa položky 90 až 92 ako náhrada za zničený, stratený, odcudzený alebo poškodený dokument, rozhodnutie, osvedčenie schválenie alebo preukaz spôsobilosti, opakovane v priebehu dvoch po sebe nasledujúcich rokoch .... | | 35 eur
 
-  - Oslobodenie Od poplatku podľa položky 90 až 92 je oslobodená osoba, ktorej sa vydáva dokument, rozhodnutie, osvedčenie alebo preukaz ako náhrada pri zmene nezavinenej fyzickou osobou alebo právnickou osobou, alebo ak bola v dokumente, rozhodnutí, osvedčení alebo preukaze zistená chyba zapríčinená štátnym orgánom, ktorý dokument, rozhodnutie, osvedčenie alebo preukaz vydal. Od poplatku podľa položky 92 písm. b) je oslobodený výmaz lietadla, o ktorého vyradení z prevádzky rozhodol Letecký úrad Slovenskej republiky. | | |
+  - Oslobodenie Od poplatku podľa položky 90 až 92 je oslobodená osoba, ktorej sa vydáva dokument, rozhodnutie, osvedčenie alebo preukaz ako náhrada pri zmene nezavinenej fyzickou osobou alebo právnickou osobou, alebo ak bola v dokumente, rozhodnutí, osvedčení alebo preukaze zistená chyba zapríčinená štátnym orgánom, ktorý dokument, rozhodnutie, osvedčenie alebo preukaz vydal. | | |
 
   - Položka 93
 
@@ -4031,6 +4087,8 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - n) | Vydanie rozhodnutia o zmene rozhodnutia o udelení akreditácie ..... | | 100 eur
 
   - o) | Vydanie výpisu z evidencie informačného systému súkromnej bezpečnosti ..... | | 25 eur
+
+  - p) | Podanie žiadosti o preverovanie spoľahlivosti fyzickej osoby vstupujúcej do vnútorného priestoru a životne dôležitého priestoru jadrového zariadenia bez sprievodu<sup>33c</sup>) ..... | | 20 eur
 
   - Oslobodenie Od poplatku podľa písmen b) a j) tejto položky sú oslobodení príslušníci Vojenskej polície, príslušníci ozbrojených bezpečnostných zborov Slovenskej republiky a príslušníci ozbrojených zborov Slovenskej republiky. | | |
 
@@ -6496,6 +6554,8 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - 5. Poplatok podľa písmena a) tejto položky je možno platiť aj prostredníctvom externého poskytovateľa služieb určeného podľa osobitného predpisu.<sup>16b</sup>) |
 
+    - 6. Poplatok podľa písmen b) až e) tejto položky možno platiť aj prostredníctvom externého poskytovateľa služieb určeného Ministerstvom zahraničných vecí a európskych záležitostí Slovenskej republiky.<sup>47ak</sup>) |
+
     - Položka 241
 
   - Potvrdenie alebo písomné oznámenie o pobyte každej osoby v ňom uvádzanej ............... | 14 eur
@@ -6594,7 +6654,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - d) Udelenie štátneho občianstva Slovenskej republiky štátnym občanom Českej republiky narodeným po 1. 1. 1993 | 30 eur
 
-  - e) Udelenie štátneho občianstva Slovenskej republiky osobe, ktorej aspoň jeden z rodičov alebo prarodičov bol československým štátnym občanom | 30 eur
+  - e) Udelenie štátneho občianstva Slovenskej republiky osobe, ktorej aspoň jeden z rodičov, prarodičov alebo praprarodičov bol československým štátnym občanom | 30 eur
 
   - f) Udelenie štátneho občianstva Slovenskej republiky osobe, ktorá má vydané platné osvedčenie preukazujúce postavenie Slováka žijúceho v zahraničí | 600 eur
 

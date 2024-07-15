@@ -340,6 +340,8 @@
 
 - 33b) § 66b ods. 4 zákona č. 455/1991 Zb. v znení neskorších predpisov, § 4 ods. 2 písm. b) zákona č. 293/2007 Z. z. o uznávaní odborných kvalifikácií v znení zákona č. 560/2008 Z. z.
 
+- 33c) § 25a ods. 4 zákona č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 34) § 32 ods. 3 zákona č. 379/1997 Z. z. o prevádzkovaní súkromných bezpečnostných služieb a podobných činností, o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o doplnení zákona č. 65/1965 Zb. Zákonníka práce v znení neskorších predpisov (zákon o súkromných bezpečnostných službách).
 
 - 34a) § 17 ods. 2 písm. c) zákona č. 379/1997 Z. z. o prevádzkovaní súkromných bezpečnostných služieb a podobných činností, o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o doplnení zákona č. 65/1965 Zb. Zákonníka práce v znení neskorších predpisov (zákon o súkromných bezpečnostných službách) v znení neskorších predpisov.
@@ -707,6 +709,8 @@
 - 47ai) § 15 ods. 1 písm. e) a f) zákona č. 56/2018 Z. z. v znení zákona č. 259/2021 Z. z.
 
 - 47aj) § 14 ods. 6 zákona č. 56/2018 Z. z. v znení zákona č. 259/2021 Z. z.
+
+- 47ak) § 17 ods. 1 zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení zákona č. 160/2024 Z. z.
 
 - 47b) § 15 zákona č. 507/2001 Z. z. o poštových službách.
 
