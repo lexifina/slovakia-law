@@ -6,6 +6,6 @@
 
 - b) v priestore nad vojenským konvojom a vojenským transportom do výšky 120 metrov nad úrovňou zeme, presúvajúcim sa po trase a v termíne, ktoré boli zverejnené na webovom sídle ministerstva obrany.
 
-(2) Ustanovenie odseku 1 sa nevzťahuje na činnosti vykonávané s písomným súhlasom ministerstva obrany a na činnosti uskutočňované vo verejnom záujme bezpilotnými lietadlami, ktoré vykonávajú lety v štátnom záujme.
+(2) Ustanovenie odseku 1 sa nevzťahuje na činnosti vykonávané s písomným súhlasom ministerstva obrany a na činnosti uskutočňované bezpilotnými lietadlami podľa osobitného predpisu.<sup>31ac</sup>)
 
 (3) Vzor žiadosti o udelenie písomného súhlasu podľa odseku 2 zverejní ministerstvo obrany na svojom webovom sídle.

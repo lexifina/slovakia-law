@@ -98,6 +98,8 @@
 
 - 31ab) Čl. 2 ods. 2 písm. c) a čl. 4 ods. 1 písm. c) nariadenia Komisie (ES) č. 2150/2005 z 23. decembra 2005, ktorým sa stanovujú spoločné pravidlá pružného využívania vzdušného priestoru (Ú. v. EÚ L 342, 24. 12. 2005).
 
+- 31ac) § 1 ods. 3 zákona č. 143/1998 Z. z. v znení neskorších predpisov.
+
 - 31b) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 32) § 27 až 29 Zákonníka práce.
