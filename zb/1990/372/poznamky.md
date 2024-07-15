@@ -50,6 +50,8 @@
 
 - 3f) § 5a zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení zákona č. 299/2013 Z. z.
 
+- 3fa) § 2 ods. 1 písm. g) zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
+
 - 3g) § 7a zákona Národnej rady Slovenskej republiky č. 125/1996 Z. z. o nemorálnosti a protiprávnosti komunistického systému v znení zákona č. 338/2020 Z. z.
 
 - § 6a zákona č. 487/2013 Z. z. o protifašistickom odboji, postavení a pôsobnosti Slovenského zväzu protifašistických bojovníkov v znení zákona č. 338/2020 Z. z.
