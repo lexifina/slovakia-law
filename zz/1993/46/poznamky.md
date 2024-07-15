@@ -20,6 +20,8 @@
 
 - 1e) § 22 ods. 4 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 1f) § 1 ods. 3 zákona č. 143/1998 Z. z. o civilnom letectve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 2) § 8 zákona č. 428/2002 Z. z. o ochrane osobných údajov.
 
 - 2a) Napríklad zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov, zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, Trestný poriadok.
