@@ -54,7 +54,7 @@ Príloha č. 1 k zákonu č. 5/2004 Z. z.
 
       - 1. názov zamestnávateľa,
 
-      - 2. vykonávané zamestnanie,
+      - 2. názov a kód zamestnania podľa štatistickej klasifikácie zamestnaní,<sup>69</sup>)
 
       - 3. dátum začatia a dátum skončenia pracovnoprávneho vzťahu alebo obdobného pracovného vzťahu,
 
@@ -114,7 +114,7 @@ Príloha č. 1 k zákonu č. 5/2004 Z. z.
 
   - B. Evidencia voľných pracovných miest podľa § 40 obsahuje tieto údaje:
 
-    - a) názov zamestnania,
+    - a) názov a kód zamestnania podľa štatistickej klasifikácie zamestnaní,
 
     - b) dátum možného nástupu na voľné pracovné miesto,
 
@@ -188,11 +188,13 @@ Príloha č. 1 k zákonu č. 5/2004 Z. z.
 
       - 12. dosiahnutý stupeň vzdelania,
 
-      - 13. výška mesačnej mzdy,
+      - 13. názov a kód zamestnania podľa štatistickej klasifikácie zamestnaní,
 
-      - 14. typ a účel pobytu štátneho príslušníka tretej krajiny na území Slovenskej republiky, ak bol udelený,
+      - 14. výška mesačnej mzdy,
 
-      - 15. adresa pobytu na území Slovenskej republiky,
+      - 15. typ a účel pobytu štátneho príslušníka tretej krajiny na území Slovenskej republiky, ak bol udelený,
+
+      - 16. adresa pobytu na území Slovenskej republiky,
 
     - b) údaje o zamestnávateľovi, užívateľskom zamestnávateľovi, informujúcej organizácii, mieste a druhu vykonávanej práce, a to
 
@@ -204,7 +206,7 @@ Príloha č. 1 k zákonu č. 5/2004 Z. z.
 
       - 4. druh vykonávanej práce,
 
-      - 5. vykonávané zamestnanie,
+      - 5. názov a kód zamestnania podľa štatistickej klasifikácie zamestnaní,
 
       - 6. obdobie, počas ktorého by sa malo zamestnávanie vykonávať,
 
@@ -212,69 +214,25 @@ Príloha č. 1 k zákonu č. 5/2004 Z. z.
 
       - 8. kontaktné údaje (telefónne číslo, e-mail).
 
-  - E. Sociálna poisťovňa poskytuje podľa § 67 ods. 6 ústrediu
+  - E. Sociálna poisťovňa poskytuje podľa § 67 ods. 6 ústrediu tieto údaje o fyzických osobách a právnických osobách zo svojho informačného systému:
 
-    - a) údaje o poberateľoch dávky v nezamestnanosti za príslušný vykazovaný mesiac, a to
+    - a) meno a priezvisko,
 
-      - 1. identifikačné číslo sociálneho zabezpečenia,
+    - b) identifikačné číslo sociálneho zabezpečenia,
 
-      - 2. meno a priezvisko,
+    - c) dátum začatia a skončenia evidencie v registri poistencov a sporiteľov starobného dôchodkového sporenia a druh právneho vzťahu sociálneho poistenia,
 
-      - 3. začiatok a skončenie poberania dávky v nezamestnanosti,
+    - d) rozsah sociálneho poistenia,
 
-      - 4. výška dávky v nezamestnanosti,
+    - e) názov a kód zamestnania podľa štatistickej klasifikácie zamestnaní,
 
-    - b) údaje k osvedčeniu skutočností rozhodujúcich pre zaradenie do evidencie uchádzačov o zamestnanie, a to
+    - f) údaje o vymeriavacom základe,
 
-      - 1. názov a identifikačné číslo zamestnávateľa,
+    - g) údaje súvisiace s poskytovaním dávok sociálneho poistenia,
 
-      - 2. typ poistenia fyzickej osoby,
+    - h) percentuálna miera poklesu schopnosti vykonávať zárobkovú činnosť,
 
-      - 3. dátum začatia a skončenia evidencie uchádzača o zamestnanie v registri poistencov a sporiteľov starobného dôchodkového sporenia,
-
-    - c) údaje ku kontrole oznamovacej povinnosti výkonu zárobkovej činnosti a opodstatnenosti zotrvania v evidencii uchádzača o zamestnanie, a to
-
-      - 1. identifikačné číslo sociálneho zabezpečenia uchádzača o zamestnanie,
-
-      - 2. meno a priezvisko uchádzača o zamestnanie,
-
-      - 3. názov a identifikačné číslo zamestnávateľa,
-
-      - 4. dátum začatia a skončenia evidencie uchádzača o zamestnanie v registri poistencov a sporiteľov starobného dôchodkového sporenia,
-
-    - d) údaje ku kontrole opodstatnenosti zotrvania v evidencii uchádzačov o zamestnanie, a to
-
-      - 1. identifikačné číslo sociálneho zabezpečenia uchádzača o zamestnanie,
-
-      - 2. meno a priezvisko uchádzača o zamestnanie,
-
-      - 3. názov a identifikačné číslo zamestnávateľa,
-
-      - 4. dátum začatia a skončenia evidencie uchádzača o zamestnanie v registri poistencov a sporiteľov starobného dôchodkového sporenia,
-
-      - 5. suma vymeriavacieho základu zamestnanca za predchádzajúci kalendárny mesiac,
-
-    - e) údaje k prevereniu opodstatnenosti zotrvávania v evidencii uchádzačov o zamestnanie vzhľadom na vek, a to
-
-      - 1. identifikačné číslo sociálneho zabezpečenia uchádzača o zamestnanie,
-
-      - 2. meno a priezvisko uchádzača o zamestnanie,
-
-      - 3. typ dôchodku a dátum priznania alebo zmeny dôchodku uchádzača o zamestnanie,
-
-      - 4. percentuálna miera poklesu schopnosti vykonávania zárobkovej činnosti (len pri invalidnom dôchodku) uchádzača o zamestnanie,
-
-    - f) údaje na účely zistenia splnenia podmienok na poskytovanie príspevkov podľa tohto zákona, a to
-
-      - 1. meno a priezvisko zamestnanca,
-
-      - 2. identifikačné číslo sociálneho zabezpečenia zamestnanca,
-
-      - 3. dátum začatia a skončenia evidencie zamestnanca v registri poistencov a sporiteľov starobného dôchodkového sporenia,
-
-      - 4. názov a identifikačné číslo zamestnávateľa,
-
-      - 5. suma vymeriavacieho základu zamestnanca.
+    - i) názov a identifikačné číslo zamestnávateľa.
 
   - F. Ústav informácií a prognóz školstva poskytuje podľa § 67 ods. 8 ústrediu tieto osobné údaje o absolventoch stredných škôl a vysokých škôl:
 

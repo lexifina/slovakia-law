@@ -1,58 +1,88 @@
 # § 21b Potvrdenie o možnosti obsadenia voľného pracovného miesta
 
-(1) Úrad vydá potvrdenie o možnosti obsadenia voľného pracovného miesta, ktoré obsahuje súhlas alebo nesúhlas s jeho obsadením, na žiadosť útvaru Policajného zboru do piatich pracovných dní odo dňa doručenia žiadosti. Úrad vydá potvrdenie o možnosti obsadenia voľného pracovného miesta na účel zmeny údajov podľa osobitného predpisu<sup>22haa</sup>)aj na žiadosť zamestnávateľa do piatich pracovných dní odo dňa doručenia žiadosti.
+(1) Úrad vydá potvrdenie o možnosti obsadenia voľného pracovného miesta, ktoré obsahuje súhlas alebo nesúhlas s jeho obsadením, do 15 pracovných dní odo dňa doručenia žiadosti zamestnávateľa, ktorý má záujem prijať do zamestnania štátneho príslušníka tretej krajiny,
 
-(2) Žiadosť o vydanie potvrdenia o možnosti obsadenia voľného pracovného miesta sa podáva na formulári, ktorého vzor určí ústredie. Prílohou k žiadosti je
+- a) na účel konania o udelenie prechodného pobytu na účel zamestnania alebo konania o obnovenie prechodného pobytu na účel zamestnania,
 
-- a) kópia pracovnej zmluvy alebo písomného prísľubu zamestnávateľa na prijatie štátneho príslušníka tretej krajiny do zamestnania; ak ide o sezónne zamestnanie, prísľub zamestnávateľa na prijatie štátneho príslušníka tretej krajiny do zamestnania obsahuje náležitosti pracovnej zmluvy,
+- b) ktorý má udelený prechodný pobyt na účel zamestnania na základe potvrdenia o možnosti obsadenia voľného pracovného miesta,<sup>22b</sup>) alebo
 
-- b) kópia rozhodnutia o uznaní dokladu o vzdelaní štátneho príslušníka tretej krajiny podľa osobitného predpisu<sup>22g</sup>) alebo úradne overený doklad o požadovanom vzdelaní, ak ide o regulované povolanie,<sup>22ha</sup>)
+- c) ktorý je držiteľom modrej karty.
 
-- c) kópia časti žiadosti o udelenie prechodného pobytu,<sup>22i</sup>) v ktorej sú osobné údaje štátneho príslušníka tretej krajiny, a ak ide o štátneho príslušníka tretej krajiny podľa § 21 ods. 4 druhej vety, aj identifikačné údaje užívateľského zamestnávateľa; to neplatí, ak ide o žiadosť podľa odseku 1 druhej vety,
+(2) Žiadosť o vydanie potvrdenia o možnosti obsadenia voľného pracovného miesta podáva zamestnávateľ elektronickými prostriedkami podpísanú kvalifikovaným elektronickým podpisom na formulári, ktorého vzor určí ústredie. Prílohou k žiadosti o vydanie potvrdenia o možnosti obsadenia voľného pracovného miesta je
 
-- d) kópia stanoviska diplomatickej misie alebo konzulárneho úradu<sup>22j</sup>) Slovenskej republiky v zahraničí (ďalej len „zastupiteľský úrad“) podľa osobitného predpisu,<sup>22k</sup>) ak bola žiadosť o udelenie prechodného pobytu podaná na zastupiteľskom úrade; to neplatí, ak ide o žiadosť podľa odseku 1 druhej vety,
+- a) kópia pracovnej zmluvy alebo písomný prísľub zamestnávateľa na prijatie štátneho príslušníka tretej krajiny do zamestnania, ktorý obsahuje náležitosti pracovnej zmluvy; ak ide o štátneho príslušníka tretej krajiny podľa § 21 ods. 4 druhej vety, prísľub zamestnávateľa obsahuje aj súhlas užívateľského zamestnávateľa s dočasným pridelením,
 
-- e) kópia dokladu preukazujúceho názov a sídlo hostiteľského subjektu<sup>22ka</sup>) a dátum začiatku a skončenia vnútropodnikového presunu<sup>22kb</sup>) a dokladov podľa osobitného predpisu<sup>22kc</sup>) preukazujúcich skutočnosť, že ide o vnútropodnikový presun, ak ide o štátneho príslušníka tretej krajiny podľa odseku 8 písm. b) a c),
+- b) kópia rozhodnutia o uznaní dokladu o vzdelaní štátneho príslušníka tretej krajiny podľa osobitného predpisu<sup>22kf</sup>) a kópia rozhodnutia o uznaní odbornej kvalifikácie podľa osobitného predpisu,<sup>22i</sup>) ak ide o regulované povolanie,
 
-- f) písomný súhlas štátneho príslušníka tretej krajiny so žiadosťou spolu s overením pravosti jeho podpisu, ak ide o žiadosť podľa odseku 1 druhej vety.
+- c) kópia dokladov preukazujúcich skutočnosť, že ide o vnútropodnikový presun,<sup>22kg</sup>) ak tieto údaje neobsahuje pracovná zmluva, ak ide o štátneho príslušníka tretej krajiny podľa odseku 8 písm. b) alebo písm. c), a to dokladu preukazujúceho
 
-(3) Podmienkou na vydanie potvrdenia o možnosti obsadenia voľného pracovného miesta, ktoré obsahuje súhlas s jeho obsadením, je, že
+  - 1. názov a sídlo hostiteľského subjektu<sup>22kh</sup>) a dátum začiatku a skončenia vnútropodnikového presunu,
 
-- a) zamestnávateľovi, ktorý má záujem prijať do zamestnania štátneho príslušníka tretej krajiny, užívateľskému zamestnávateľovi, ak ide o štátneho príslušníka tretej krajiny podľa § 21 ods. 4 druhej vety, alebo hostiteľskému subjektu nebola uložená pokuta za porušenie zákazu nelegálneho zamestnávania v období piatich rokov pred podaním žiadosti o udelenie prechodného pobytu na účel zamestnania, pred podaním žiadosti o obnovenie prechodného pobytu na účel zamestnania alebo pred oznámením zmeny údajov podľa osobitného predpisu;<sup>22kca</sup>) na zisťovanie a preukazovanie splnenia tejto podmienky sa primerane vzťahuje § 70 ods. 8,
+  - 2. skutočnosť, že hostiteľský subjekt patrí k tomu istému zamestnávateľovi alebo k tej istej skupine zamestnávateľov, odkiaľ je štátny príslušník tretej krajiny vyslaný na územie Slovenskej republiky,
+
+  - 3. skutočnosť, že štátny príslušník tretej krajiny bol pred začiatkom vnútropodnikového presunu zamestnaný u toho istého zamestnávateľa alebo u zamestnávateľa v rámci tej istej skupiny zamestnávateľov aspoň tri mesiace, ak ide o štátneho príslušníka tretej krajiny podľa odseku 8 písm. b), alebo aspoň šesť mesiacov, ak ide o štátneho príslušníka tretej krajiny podľa odseku 8 písm. c),
+
+  - 4. skutočnosť, že štátny príslušník tretej krajiny sa po skončení vnútropodnikového presunu bude môcť vrátiť späť k tomu istému zamestnávateľovi alebo k zamestnávateľovi v rámci tej istej skupiny zamestnávateľov,
+
+  - 5. skutočnosť, že štátny príslušník tretej krajiny má vysokoškolské vzdelanie požadované na výkon zamestnania a dohodu o odbornej príprave na účely profesijného rastu alebo získania vedomostí v oblasti manažmentu podnikania, ak ide o štátneho príslušníka tretej krajiny podľa odseku 8 písm. b),
+
+  - 6. skutočnosť, že štátny príslušník tretej krajiny má odbornú kvalifikáciu a skúsenosti potrebné na výkon zamestnania, ak ide o štátneho príslušníka tretej krajiny podľa odseku 8 písm. c),
+
+  - 7. skutočnosť, že štátny príslušník tretej krajiny spĺňa podmienky na výkon regulovaného povolania, ak ide o regulované povolanie,
+
+- d) vyhlásenie zamestnávateľa alebo užívateľského zamestnávateľa, ak ide o štátneho príslušníka podľa § 21 ods. 4 druhej vety, o splnení podmienok podľa odseku 7 písm. f) na formulári, ktorého vzor určí ústredie, ak ide o výkon zamestnania s nedostatkom pracovnej sily v kraji podľa § 12 písm. ad).
+
+(3) Ak žiadosť o vydanie potvrdenia o možnosti obsadenia voľného pracovného miesta nie je úplná alebo prílohy podľa odseku 2 nie sú postačujúce pre overenie splnenia podmienok podľa odseku 4, úrad vyzve zamestnávateľa, aby ju v primerane určenej lehote doplnil; lehota podľa odseku 1 začne plynúť po doručení úplnej žiadosti.
+
+(4) Podmienkou na vydanie potvrdenia o možnosti obsadenia voľného pracovného miesta, ktoré obsahuje súhlas s jeho obsadením, je, že
+
+- a) zamestnávateľovi, ktorý má záujem prijať do zamestnania štátneho príslušníka tretej krajiny, užívateľskému zamestnávateľovi, ak ide o štátneho príslušníka tretej krajiny podľa § 21 ods. 4 druhej vety, alebo hostiteľskému subjektu nebola uložená pokuta za porušenie zákazu nelegálneho zamestnávania v období piatich rokov pred podaním žiadosti podľa odseku 2; na zisťovanie a preukazovanie splnenia tejto podmienky sa primerane vzťahuje § 70 ods. 8,
 
 - b) zamestnávateľ, ktorý má záujem prijať do zamestnania štátneho príslušníka tretej krajiny, alebo užívateľský zamestnávateľ, ak ide o štátneho príslušníka tretej krajiny podľa § 21 ods. 4 druhej vety, splnil povinnosť podľa § 62 ods. 6
 
-  - 1. najmenej 20 pracovných dní pred podaním žiadosti o udelenie prechodného pobytu na účel zamestnania alebo žiadosti o obnovenie prechodného pobytu na účel zamestnania alebo pred oznámením zmeny údajov podľa osobitného predpisu,<sup>22kca</sup>)
+  - 1. najmenej 20 pracovných dní pred podaním žiadosti podľa odseku 2,
 
-  - 2. najmenej 15 pracovných dní pred podaním žiadosti o obnovenie prechodného pobytu na účel sezónneho zamestnania,
+  - 2. najmenej 15 pracovných dní pred podaním žiadosti podľa odseku 2, ak ide o potvrdenie o možnosti obsadenia voľného pracovného miesta vydávané na účel obnovenia prechodného pobytu na účel sezónneho zamestnania, alebo
 
-  - 3. najneskôr v deň podania žiadosti o udelenie prechodného pobytu na účel zamestnania, žiadosti o obnovenie prechodného pobytu na účel zamestnania alebo oznámenia zmeny údajov podľa osobitného predpisu,<sup>22kca</sup>) ak ide o štátneho príslušníka tretej krajiny podľa odseku 7, alebo
+  - 3. najneskôr v deň podania žiadosti podľa odseku 2, ak ide o potvrdenie o možnosti obsadenia voľného pracovného miesta vydávané podľa odseku 7; táto podmienka a podmienky uvedené v prvom bode a druhom bode neplatia, ak ide o potvrdenie o možnosti obsadenia voľného pracovného miesta vydávané podľa odseku 7 písm. c) až e),
 
-  - 4. najneskôr v deň podania žiadosti o obnovenie prechodného pobytu na účel zamestnania, ak ide o štátneho príslušníka tretej krajiny, ktorý podal žiadosť o obnovenie prechodného pobytu na účel zamestnania na to isté pracovné miesto,
+- c) doklady podľa odseku 2 písm. b) zodpovedajú požiadavkám na výkon regulovaného povolania uvedeného v pracovnej zmluve alebo v prísľube zamestnávateľa podľa odseku 2 písm. a),
 
-- c) rozhodnutie alebo doklad podľa odseku 2 písm. b) zodpovedá požadovanému vzdelaniu a
+- d) agentúra dočasného zamestnávania, ak ide o štátneho príslušníka tretej krajiny podľa § 21 ods. 4 druhej vety,
 
-- d) agentúra dočasného zamestnávania vykonáva činnosť najmenej tri roky pred podaním žiadosti o udelenie prechodného pobytu na účel zamestnania alebo pred podaním žiadosti o obnovenie prechodného pobytu na účel zamestnania, ak ide o štátneho príslušníka tretej krajiny podľa § 21 ods. 4 druhej vety.
+  - 1. vykonáva činnosť agentúry dočasného zamestnávania najmenej tri roky pred podaním žiadosti podľa odseku 2,
 
-(4) Ak ide o sezónne zamestnanie alebo vnútropodnikový presun, podmienkou na vydanie potvrdenia o možnosti obsadenia voľného pracovného miesta, ktoré obsahuje súhlas s jeho obsadením, je aj,
+  - 2. predložila úradu kópiu dohody o dočasnom pridelení zamestnancov medzi agentúrou dočasného zamestnávania a užívateľským zamestnávateľom, ak si ju úrad vyžiadal.
+
+(5) Ak ide o sezónne zamestnanie alebo vnútropodnikový presun, podmienkou na vydanie potvrdenia o možnosti obsadenia voľného pracovného miesta, ktoré obsahuje súhlas s jeho obsadením, je aj,
 
 - a) že zamestnávateľ, ktorý má záujem prijať do zamestnania štátneho príslušníka tretej krajiny, užívateľský zamestnávateľ, ak ide o štátneho príslušníka tretej krajiny podľa § 21 ods. 4 druhej vety, alebo hostiteľský subjekt
 
   - 1. spĺňa podmienky podľa § 70 ods. 7 písm. a), b), e) a f); na zisťovanie a preukazovanie splnenia podmienok podľa § 70 ods. 7 písm. a), b) a e) sa primerane vzťahuje § 70 ods. 8 a splnenie podmienky podľa § 70 ods. 7 písm. f) na žiadosť úradu preukazuje zamestnávateľ, užívateľský zamestnávateľ alebo hostiteľský subjekt,
 
-  - 2. nemal uloženú pokutu podľa osobitného predpisu<sup>22kd</sup>) za porušenie povinnosti podľa § 23b ods. 11 v období piatich rokov pred podaním žiadosti o udelenie prechodného pobytu na účel zamestnania; splnenie týchto podmienok zisťuje úrad,
+  - 2. nemal uloženú pokutu podľa osobitného predpisu<sup>22ki</sup>) za porušenie povinnosti podľa § 23b ods. 10 v období piatich rokov pred podaním žiadosti podľa odseku 2; splnenie týchto podmienok zisťuje úrad,
 
 - b) že pracovná zmluva alebo prísľub zamestnávateľa podľa odseku 2 písm. a) sú v súlade so zákonom,
 
 - c) ak ide o vnútropodnikový presun, aj skutočnosť, že ide o štátneho príslušníka tretej krajiny podľa odseku 8 písm. b) alebo písm. c).
 
-(5) Ak ide o štátneho príslušníka tretej krajiny podľa § 21 ods. 4 druhej vety, podmienkou na vydanie potvrdenia o možnosti obsadenia voľného pracovného miesta, ktoré obsahuje súhlas s jeho obsadením, je, že agentúra dočasného zamestnávania na žiadosť úradu predloží kópiu dohody o dočasnom pridelení zamestnancov medzi agentúrou dočasného zamestnávania a užívateľským zamestnávateľom a kópiu dohody o dočasnom pridelení medzi agentúrou dočasného zamestnávania a štátnym príslušníkom tretej krajiny.
+(6) Úrad vydá potvrdenie o možnosti obsadenia voľného pracovného miesta, ktoré obsahuje súhlas s jeho obsadením, ak voľné pracovné miesto nemožno obsadiť uchádzačom o zamestnanie vedeným v evidencii uchádzačov o zamestnanie. Pri vydávaní potvrdenia o možnosti obsadenia voľného pracovného miesta úrad prihliada na situáciu na trhu práce, ak odsek 7 neustanovuje inak.
 
-(6) Úrad vydá potvrdenie o možnosti obsadenia voľného pracovného miesta, ktoré obsahuje súhlas s jeho obsadením, ak voľné pracovné miesto nie je možné obsadiť uchádzačom o zamestnanie vedeným v evidencii uchádzačov o zamestnanie. Pri vydávaní potvrdenia o možnosti obsadenia voľného pracovného miesta úrad prihliada na situáciu na trhu práce a na stanovisko zastupiteľského úradu podľa osobitného predpisu,<sup>22k</sup>) ak tento zákon neustanovuje inak.
+(7) Úrad vydá potvrdenie o možnosti obsadenia voľného pracovného miesta bez prihliadnutia na situáciu na trhu práce, ak ide o
 
-(7) Úrad vydá potvrdenie o možnosti obsadenia voľného pracovného miesta bez prihliadnutia na situáciu na trhu práce, ak ide o štátneho príslušníka tretej krajiny, ktorý vykonáva v Slovenskej republike sústavnú vzdelávaciu činnosť alebo vedeckú činnosť ako pedagogický zamestnanec, vysokoškolský učiteľ, výskumný pracovník alebo umelecký pracovník vysokej školy, výskumný zamestnanec alebo vývojový zamestnanec vo výskumnej činnosti, ak ide o štátneho príslušníka tretej krajiny podľa odseku 8 písm. b) a c) alebo ak ide o štátneho príslušníka tretej krajiny, ktorý podal žiadosť o obnovenie prechodného pobytu na účel zamestnania na to isté pracovné miesto. Úrad vydá potvrdenie o možnosti obsadenia voľného pracovného miesta bez prihliadnutia na situáciu na trhu práce aj vtedy, ak ide o výkon zamestnania s nedostatkom pracovnej sily štátnym príslušníkom tretej krajiny v kraji podľa § 12 písm. ae) u zamestnávateľa, ktorý ku dňu podania žiadosti o udelenie prechodného pobytu na účel zamestnania zamestnáva menej ako 30 % štátnych príslušníkov tretej krajiny z celkového počtu zamestnancov, pričom do celkového počtu zamestnancov sa započítavajú zamestnanci v pracovnom pomere dohodnutom najmenej v rozsahu polovice ustanoveného týždenného pracovného času. Splnenie podmienky podielu zamestnávania štátnych príslušníkov tretej krajiny a rozsahu týždenného pracovného času podľa druhej vety na žiadosť úradu preukazuje zamestnávateľ na formulári, ktorého vzor určí ústredie. Ak ide o štátneho príslušníka tretej krajiny podľa § 21 ods. 4 druhej vety, podmienky podľa druhej vety musí spĺňať užívateľský zamestnávateľ; na preukázanie splnenia týchto podmienok užívateľským zamestnávateľom sa rovnako vzťahuje tretia veta.
+- a) štátneho príslušníka tretej krajiny, ktorý bude vykonávať v Slovenskej republike sústavnú vzdelávaciu činnosť alebo vedeckú činnosť ako pedagogický zamestnanec, ako vysokoškolský učiteľ, výskumný pracovník alebo umelecký pracovník vysokej školy, alebo ako výskumný zamestnanec alebo vývojový zamestnanec vo výskumnej činnosti,
 
-(8) Potvrdenie o možnosti obsadenia voľného pracovného miesta, ktoré obsahuje súhlas s jeho obsadením, sa vydáva na obdobie, počas ktorého by malo zamestnanie alebo dočasné pridelenie, ak ide o štátneho príslušníka tretej krajiny podľa § 21 ods. 4 druhej vety, trvať, najviac však na
+- b) štátneho príslušníka tretej krajiny podľa odseku 8 písm. b) alebo písm. c),
+
+- c) potvrdenie o možnosti obsadenia voľného pracovného miesta vydávané na účel konania o obnovenie prechodného pobytu na účel zamestnania na to isté pracovné miesto,
+
+- d) potvrdenie o možnosti obsadenia voľného pracovného miesta vydávané na účel konania o udelenie prechodného pobytu na účel zamestnania štátnemu príslušníkovi tretej krajiny, ktorý má udelené národné vízum podľa osobitného predpisu<sup>22ka</sup>) a ktorý bude zamestnaný na tom istom pracovnom mieste,
+
+- e) potvrdenie o možnosti obsadenia voľného pracovného miesta vydávané na účel konania o udelenie prechodného pobytu na účel zamestnania štátnemu príslušníkovi tretej krajiny, ktorému sa poskytlo dočasné útočisko,<sup>22kj</sup>) ktorý je zamestnaný v pracovnom pomere na území Slovenskej republiky najmenej šesť mesiacov a ktorý bude zamestnaný na tom istom pracovnom mieste,
+
+- f) výkon zamestnania s nedostatkom pracovnej sily štátnym príslušníkom tretej krajiny v kraji podľa § 12 písm. ad) u zamestnávateľa, ktorý ku dňu podania žiadosti podľa odseku 2 zamestnáva menej ako 45 % štátnych príslušníkov tretej krajiny z celkového počtu zamestnancov, pričom do celkového počtu zamestnancov sa započítavajú zamestnanci v pracovnom pomere dohodnutom najmenej v rozsahu polovice ustanoveného týždenného pracovného času; ak ide o štátneho príslušníka tretej krajiny podľa § 21 ods. 4 druhej vety, uvedené podmienky musí spĺňať užívateľský zamestnávateľ.
+
+(8) Potvrdenie o možnosti obsadenia voľného pracovného miesta, ktoré obsahuje súhlas s jeho obsadením, podľa odseku 1 písm. a) sa vydáva na obdobie, počas ktorého by mali zamestnanie, dočasné pridelenie, ak ide o štátneho príslušníka tretej krajiny podľa § 21 ods. 4 druhej vety, alebo vnútropodnikový presun trvať, najviac však na
 
 - a) 180 dní počas 12 po sebe nasledujúcich mesiacov, ak ide o sezónne zamestnanie,
 
@@ -64,18 +94,50 @@
 
 - e) dva roky, ak nejde o prípad podľa písmen a) až d).
 
-(9) Potvrdenie o možnosti obsadenia voľného pracovného miesta sa vydáva na formulári, ktorého vzor určí ústredie.
+(9) Potvrdenie o možnosti obsadenia voľného pracovného miesta, ktoré obsahuje súhlas s jeho obsadením, podľa
 
-(10) Úrad, ktorý potvrdenie o možnosti obsadenia voľného pracovného miesta vydal, môže toto potvrdenie zrušiť, ak bolo kontrolnou činnosťou podľa § 68 zistené porušenie všeobecne záväzných právnych predpisov, pričom prihliada na závažnosť zistených nedostatkov a závažnosť ich následkov a opakované zistenie toho istého nedostatku, alebo ak štátny príslušník tretej krajiny nenastúpil do zamestnania do siedmich pracovných dní odo dňa dohodnutého ako deň nástupu do práce. Úrad, ktorý potvrdenie o možnosti obsadenia voľného pracovného miesta vydal, zruší toto potvrdenie, ak
+- a) odseku 1 písm. b) sa vydáva na obdobie, počas ktorého by malo zamestnanie trvať, najviac však na obdobie, na ktoré je udelený prechodný pobyt na účel zamestnania,
+
+- b) odseku 1 písm. c) sa vydáva na obdobie, počas ktorého by malo zamestnanie trvať, najviac však na obdobie, na ktoré je vydaná modrá karta.
+
+(10) Potvrdenie o možnosti obsadenia voľného pracovného miesta sa vydáva na formulári, ktorého vzor určí ústredie.
+
+(11) Na vydanie potvrdenia o možnosti obsadenia voľného pracovného miesta, ktoré obsahuje súhlas s jeho obsadením, nie je právny nárok.
+
+(12) Úrad bezodkladne zašle vydané potvrdenie o možnosti obsadenia voľného pracovného miesta
+
+- a) Ministerstvu vnútra Slovenskej republiky alebo Ministerstvu zahraničných vecí a európskych záležitostí Slovenskej republiky,
+
+- b) zamestnávateľovi, ktorý podal žiadosť podľa odseku 2.
+
+(13) Úrad, ktorý potvrdenie o možnosti obsadenia voľného pracovného miesta vydal, môže toto potvrdenie zrušiť, ak
+
+- a) bolo kontrolnou činnosťou podľa § 68 zistené porušenie všeobecne záväzných právnych predpisov, pričom prihliada na závažnosť zistených nedostatkov a závažnosť ich následkov a opakované zistenie toho istého nedostatku, alebo
+
+- b) štátny príslušník tretej krajiny nenastúpil do zamestnania do siedmich pracovných dní odo dňa dohodnutého ako deň nástupu do práce.
+
+(14) Úrad, ktorý potvrdenie o možnosti obsadenia voľného pracovného miesta vydal, zruší toto potvrdenie, ak
 
 - a) zamestnávateľovi alebo užívateľskému zamestnávateľovi, ak ide o sezónne zamestnanie, alebo hostiteľskému subjektu bola uložená pokuta za porušenie zákazu nelegálneho zamestnávania,
 
-- b) zamestnávateľ alebo užívateľský zamestnávateľ, ak ide o sezónne zamestnanie, alebo hostiteľský subjekt prestal spĺňať podmienku na vydanie potvrdenia o možnosti obsadenia voľného pracovného miesta uvedenú v odseku 4 písm. a) prvom bode,
+- b) zamestnávateľ alebo užívateľský zamestnávateľ, ak ide o sezónne zamestnanie, alebo hostiteľský subjekt prestal spĺňať podmienku podľa odseku 5 písm. a) prvého bodu,
 
-- c) zamestnávateľovi alebo užívateľskému zamestnávateľovi, ak ide o sezónne zamestnanie, alebo hostiteľskému subjektu bola uložená pokuta uvedená v odseku 4 písm. a) druhom bode,
+- c) zamestnávateľovi alebo užívateľskému zamestnávateľovi, ak ide o sezónne zamestnanie, alebo hostiteľskému subjektu bola uložená pokuta uvedená v odseku 5 písm. a) druhom bode,
 
-- d) agentúre dočasného zamestnávania bola pozastavená činnosť alebo bolo zrušené povolenie na vykonávanie činnosti agentúry dočasného zamestnávania podľa § 31 ods. 2, ak ide o štátneho príslušníka tretej krajiny podľa § 21 ods. 4 druhej vety,
+- d) agentúre dočasného zamestnávania bola pozastavená činnosť agentúry dočasného zamestnávania alebo bolo zrušené povolenie na vykonávanie činnosti agentúry dočasného zamestnávania podľa § 31 ods. 2, ak ide o štátneho príslušníka tretej krajiny podľa § 21 ods. 4 druhej vety,
 
-- e) dočasné pridelenie štátneho príslušníka tretej krajiny k užívateľskému zamestnávateľovi podľa odseku 2 písm. c) skončilo pred uplynutím obdobia, na ktoré bolo toto potvrdenie vydané, alebo
+- e) dočasné pridelenie štátneho príslušníka tretej krajiny podľa § 21 ods. 4 druhej vety k užívateľskému zamestnávateľovi skončilo pred uplynutím obdobia, na ktoré bolo toto potvrdenie vydané,
 
-- f) zamestnanie štátneho príslušníka tretej krajiny skončilo pred uplynutím obdobia, na ktoré bolo toto potvrdenie vydané.
+- f) zamestnanie štátneho príslušníka tretej krajiny skončilo pred uplynutím obdobia, na ktoré bolo toto potvrdenie vydané,
+
+- g) štátnemu príslušníkovi tretej krajiny zanikla modrá karta, ak ide o potvrdenie o možnosti obsadenia voľného pracovného miesta vydané podľa odseku 1 písm. c),
+
+- h) dodatočne zistí, že v žiadosti podľa odseku 2 alebo v jej prílohách zamestnávateľ uviedol nepravdivé údaje, alebo doklady boli vydané neoprávnene, sfalšované alebo neoprávnene pozmenené,
+
+- i) štátnemu príslušníkovi tretej krajiny bola zamietnutá žiadosť o udelenie prechodného pobytu na účel zamestnania,<sup>22kk</sup>)
+
+- j) štátnemu príslušníkovi tretej krajiny bola zamietnutá žiadosť o obnovenie prechodného pobytu na účel zamestnania<sup>22kl</sup>) alebo
+
+- k) štátnemu príslušníkovi tretej krajiny zanikol prechodný pobyt na účel zamestnania.<sup>22km</sup>)
+
+(15) Úrad na základe oznámenia zmeny údajov podľa § 23b ods. 1 písm. d), ktoré nemajú vplyv na splnenie podmienok podľa odsekov 4 a 5, vydá nové potvrdenie o možnosti obsadenia voľného pracovného miesta s aktualizovanými údajmi; ustanovenie odseku 12 sa vzťahuje rovnako.

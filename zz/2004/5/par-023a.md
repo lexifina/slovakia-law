@@ -12,13 +12,13 @@
 
   - 2. ktorý je rodinným príslušníkom držiteľa modrej karty,
 
-  - 3. ktorý je rodinným príslušníkom štátneho príslušníka tretej krajiny podľa § 21b ods. 8 písm. b) alebo písm. c) alebo podľa písmena ah) alebo
+  - 3. ktorý je rodinným príslušníkom štátneho príslušníka tretej krajiny podľa § 21b ods. 8 písm. b) alebo písm. c) alebo podľa písmena ag) alebo
 
   - 4. ktorý je rodinným príslušníkom štátneho príslušníka tretej krajiny podľa písmena f),
 
 - d) ktorý je rodinným príslušníkom občana členského štátu Európskej únie alebo rodinným príslušníkom občana Slovenskej republiky a ktorý má oprávnený pobyt na území Slovenskej republiky,
 
-- e) ktorý má udelený prechodný pobyt na účel štúdia, ak osobitný predpis neustanovuje inak,<sup>24</sup>) a výkon jeho práce nepresiahne u všetkých zamestnávateľov 10 hodín týždenne alebo 20 hodín týždenne, ak je študentom vysokej školy, alebo tomu zodpovedajúci počet dní alebo mesiacov za rok,
+- e) ktorý má udelený prechodný pobyt na účel štúdia, ak osobitný predpis neustanovuje inak,<sup>24</sup>) alebo ktorý má udelené národné vízum podľa osobitného predpisu,<sup>22ka</sup>) a výkon jeho práce nepresiahne u všetkých zamestnávateľov 40 hodín mesačne, ak je žiakom strednej školy, alebo 80 hodín mesačne, ak je študentom vysokej školy,
 
 - f) ktorý má udelený prechodný pobyt na účel výskumu a vývoja, ak osobitný predpis neustanovuje inak,<sup>24a</sup>) a
 
@@ -34,7 +34,7 @@
 
 - j) ktorému bola poskytnutá doplnková ochrana,
 
-- k) ktorému sa poskytlo dočasné útočisko,<sup>26</sup>)
+- k) ktorému sa poskytlo dočasné útočisko,
 
 - l) ak trvanie jeho pracovnoprávneho vzťahu alebo vyslania na výkon práce nepresiahne celkovo 30 dní v kalendárnom roku a ktorý je
 
@@ -56,52 +56,50 @@
 
 - t) ktorý úspešne absolvoval štúdium na strednej škole alebo štúdium na vysokej škole na území Slovenskej republiky,
 
-- u) ktorý bude zamestnaný na určené obdobie na účel jeho zaškolenia, najviac na osem po sebe nasledujúcich týždňov v kalendárnom roku, ak ide o výkon zamestnania s nedostatkom pracovnej sily v kraji podľa § 12 písm. ae), a ktorý má podanú žiadosť o udelenie prechodného pobytu na účel zamestnania spolu so všetkými náležitosťami podľa osobitného predpisu<sup>28aa</sup>) na to isté pracovné miesto,
+- u) ktorý nedovŕšil 26 rokov veku a ktorý bude zamestnávaný príležitostnými a časovo obmedzenými prácami v rámci výmeny medzi školami alebo v rámci programov pre mládež alebo programov pre vzdelávanie, ktorých sa Slovenská republika zúčastňuje,
 
-- v) ktorý nedovŕšil 26 rokov veku a ktorý bude zamestnávaný príležitostnými a časovo obmedzenými prácami v rámci výmeny medzi školami alebo v rámci programov pre mládež alebo programov pre vzdelávanie, ktorých sa Slovenská republika zúčastňuje,
+- v) ktorého vyslal zamestnávateľ so sídlom v členskom štáte Európskej únie v rámci poskytovania služieb zabezpečovaných týmto zamestnávateľom,
 
-- w) ktorého vyslal zamestnávateľ so sídlom v členskom štáte Európskej únie v rámci poskytovania služieb zabezpečovaných týmto zamestnávateľom,
+- w) ktorý je spoločník obchodnej spoločnosti, štatutárny orgán obchodnej spoločnosti alebo člen štatutárneho orgánu obchodnej spoločnosti, ktorý plní úlohy pre obchodnú spoločnosť, ktorej bola poskytnutá investičná pomoc,<sup>28b</sup>) vykonávaním činností, a to počas obdobia, na ktoré bolo vydané rozhodnutie o poskytnutí investičnej pomoci,
 
-- x) ktorý je spoločník obchodnej spoločnosti, štatutárny orgán obchodnej spoločnosti alebo člen štatutárneho orgánu obchodnej spoločnosti, ktorý plní úlohy pre obchodnú spoločnosť, ktorej bola poskytnutá investičná pomoc,<sup>28b</sup>) vykonávaním činností, a to počas obdobia, na ktoré bolo vydané rozhodnutie o poskytnutí investičnej pomoci,
+- x) ktorý pre obchodnú spoločnosť, ktorej bola poskytnutá investičná pomoc, zabezpečuje na základe obchodnej zmluvy dodávky tovaru alebo služieb a tento tovar dodáva alebo uskutočňuje montáž, záručné a opravárenské práce, práce týkajúce sa nastavenia systémov výrobných zariadení, programátorské práce alebo odborné školenia, a to počas obdobia, na ktoré bolo vydané rozhodnutie o poskytnutí investičnej pomoci,
 
-- y) ktorý pre obchodnú spoločnosť, ktorej bola poskytnutá investičná pomoc, zabezpečuje na základe obchodnej zmluvy dodávky tovaru alebo služieb a tento tovar dodáva alebo uskutočňuje montáž, záručné a opravárenské práce, práce týkajúce sa nastavenia systémov výrobných zariadení, programátorské práce alebo odborné školenia, a to počas obdobia, na ktoré bolo vydané rozhodnutie o poskytnutí investičnej pomoci,
+- y) ktorý je zamestnaný v medzinárodnej doprave, ak je na výkon práce vyslaný svojím zahraničným zamestnávateľom,
 
-- z) ktorý je zamestnaný v medzinárodnej hromadnej doprave, ak je na výkon práce vyslaný svojím zahraničným zamestnávateľom,
-
-- aa) ktorý vykonáva činnosť pre právnickú osobu, ktorej bolo vydané osvedčenie o významnej investícií,<sup>28c</sup>) a ktorý
+- z) ktorý vykonáva činnosť pre právnickú osobu, ktorej bolo vydané osvedčenie o významnej investícií,<sup>28c</sup>) a ktorý
 
   - 1. riadi túto právnickú osobu alebo jej organizačnú zložku alebo
 
   - 2. má mimoriadne odborné vedomosti, zručnosti, schopnosti alebo poznatky nevyhnutné na prevádzku spoločnosti, výskumné techniky alebo manažment, ak vykonávanie tejto činnosti nepresiahne celkovo 90 dní v kalendárnom roku,
 
-- ab) ktorý je akreditovaný v oblasti oznamovacích prostriedkov,
+- aa) ktorý je akreditovaný v oblasti oznamovacích prostriedkov,
 
-- ac) ktorému bol predĺžený tolerovaný pobyt z dôvodu, že je obeťou obchodovania s ľuďmi,<sup>28d</sup>)
+- ab) ktorému bol predĺžený tolerovaný pobyt z dôvodu, že je obeťou obchodovania s ľuďmi,<sup>28d</sup>)
 
-- ad) ktorému bol udelený tolerovaný pobyt z dôvodu rešpektovania jeho súkromného a rodinného života,<sup>28e</sup>)
+- ac) ktorému bol udelený tolerovaný pobyt z dôvodu rešpektovania jeho súkromného a rodinného života,<sup>28e</sup>)
 
-- ae) ktorému bol udelený tolerovaný pobyt z dôvodu nelegálneho zamestnávania za osobitne vykorisťujúcich pracovných podmienok, ak je jeho prítomnosť nevyhnutná na účely trestného konania,<sup>28f</sup>)
+- ad) ktorému bol udelený tolerovaný pobyt z dôvodu nelegálneho zamestnávania za osobitne vykorisťujúcich pracovných podmienok, ak je jeho prítomnosť nevyhnutná na účely trestného konania,<sup>28f</sup>)
 
-- af) ktorý vykonáva duchovenskú činnosť z poverenia registrovanej cirkvi alebo náboženskej spoločnosti,
+- ae) ktorý vykonáva duchovenskú činnosť z poverenia registrovanej cirkvi alebo náboženskej spoločnosti,
 
-- ag) ktorý má udelené národné vízum<sup>28g</sup>) a
+- af) ktorý má udelené národné vízum<sup>28g</sup>) a
 
   - 1. na ktorého sa vzťahuje program pracovnej dovolenky, ktorý schválila vláda Slovenskej republiky,
 
   - 2. ktorý sa podieľa na realizácii filmového projektu na území Slovenskej republiky alebo
 
-  - 3. ide o záujem Slovenskej republiky, ktorý schválila vláda Slovenskej republiky,
+  - 3. ide o záujem Slovenskej republiky, ktorý schválila vláda Slovenskej republiky, ak písmeno e) neustanovuje inak,
 
-- ah) ktorý u neho dočasne pôsobí na základe mobility<sup>28h</sup>)
+- ag) ktorý u neho dočasne pôsobí na základe mobility<sup>28h</sup>)
 
   - 1. od zamestnávateľa v členskom štáte Európskej únie v rámci vnútropodnikového presunu alebo
 
   - 2. ktorý vykonáva výskum a vývoj na základe dohody o hosťovaní alebo ktorého pedagogická činnosť nepresiahne celkovo 50 dní v kalendárnom roku,
 
-- ai) ktorého výkon práce u všetkých zamestnávateľov nepresiahne 20 hodín týždenne alebo tomu zodpovedajúci počet dní alebo mesiacov za rok, ak ide o študenta vysokej školy, ktorý sa na území Slovenskej republiky zdržiava na základe mobility,<sup>28h</sup>)
+- ah) ktorého výkon práce u všetkých zamestnávateľov nepresiahne 80 hodín mesačne, ak ide o študenta vysokej školy, ktorý sa na území Slovenskej republiky zdržiava na základe mobility,<sup>28h</sup>)
 
-- aj) ktorý pre centrum podnikových služieb<sup>28i</sup>) poskytuje odborné školenia, ak trvanie jeho pracovnoprávneho vzťahu s centrom podnikových služieb nepresiahne celkovo 90 dní v kalendárnom roku,
+- ai) ktorý pre centrum podnikových služieb<sup>28i</sup>) poskytuje odborné školenia, ak trvanie jeho pracovnoprávneho vzťahu s centrom podnikových služieb nepresiahne celkovo 90 dní v kalendárnom roku,
 
-- ak) ktorý podal žiadosť o obnovenie prechodného pobytu, ktorý oprávňuje zamestnávateľa zamestnávať štátneho príslušníka tretej krajiny, s dostatočným časovým predstihom pred uplynutím platnosti tohto prechodného pobytu, a to v období od uplynutia platnosti tohto prechodného pobytu do právoplatného skončenia konania o obnovenie prechodného pobytu; dostatočným časovým predstihom sa rozumie obdobie zodpovedajúce najmenej dĺžke lehoty na rozhodnutie o žiadosti o obnovenie prechodného pobytu podľa osobitného predpisu.<sup>28j</sup>)
+- aj) ktorý podal žiadosť o obnovenie prechodného pobytu, ktorý oprávňuje zamestnávateľa zamestnávať štátneho príslušníka tretej krajiny, s dostatočným časovým predstihom pred uplynutím platnosti tohto prechodného pobytu, a to v období od uplynutia platnosti tohto prechodného pobytu do právoplatného skončenia konania o obnovenie prechodného pobytu; dostatočným časovým predstihom sa rozumie obdobie zodpovedajúce najmenej dĺžke lehoty na rozhodnutie o žiadosti o obnovenie prechodného pobytu podľa osobitného predpisu.<sup>28j</sup>)
 
 (2) U štátneho príslušníka tretej krajiny podľa odseku 1 sa nevyžaduje potvrdenie o možnosti obsadenia voľného pracovného miesta, ktoré zodpovedá vysokokvalifikovanému zamestnaniu, potvrdenie o možnosti obsadenia voľného pracovného miesta a povolenie na zamestnanie.

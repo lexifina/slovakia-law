@@ -14,6 +14,8 @@
 
 - 3) § 42 ods. 2 písm. c) zákona č. 404/2011 Z. z.
 
+- 3a) § 21 ods. 2 a § 37 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
+
 - 4) Obchodný zákonník.
 
 - 5) Zákon č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
@@ -60,8 +62,6 @@
 
 - 17) § 233 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
-- 18) § 37 ods. 3 zákona č. 404/2011 Z. z. v znení zákona č. 495/2013 Z. z.
-
 - 18aa) Zákon č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 18ba) Čl. 11 nariadenia Európskeho parlamentu a Rady (EÚ) 2016/589 z 13. apríla 2016 o Európskej sieti služieb zamestnanosti (EURES), prístupe pracovníkov k službám v oblasti mobility a o ďalšej integrácii trhov práce a o zmene nariadenia (EÚ) č. 492/2011 a (EÚ) č. 1296/2013 (Ú. v. EÚ L 107, 22. 4. 2016).
@@ -90,7 +90,7 @@
 
 - Zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 22a) § 37 zákona č. 404/2011 Z. z. v znení zákona č. 495/2013 Z. z.
+- 22a) § 111 ods. 4 písm. b) a c) zákona č. 404/2011 Z. z. v znení neskorších predpisov.
 
 - 22b) § 23 ods. 1 zákona č. 404/2011 Z. z. v znení zákona č. 495/2013 Z. z.
 
@@ -102,33 +102,55 @@
 
 - 22da) § 30 ods. 4 zákona č. 404/2011 Z. z.
 
+- 22db) § 38 ods. 5 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
+
+- 22dc) § 32 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
+
 - 22e) § 58 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
 
-- 22f) § 38 ods. 5 písm. a) a ods. 6 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
+- 22ea) § 23 zákona č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení zákona č. 65/2018 Z. z.
 
-- 22g) Zákon č. 422/2015 Z. z. o uznávaní dokladov o vzdelaní a o uznávaní odborných kvalifikácií a o zmene a doplnení niektorých zákonov.
+- 22eb) § 3 zákona Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
-- 22h) § 38 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
+- 22ec) § 57 zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
 
-- 22ha) § 3 ods. 1 písm. d) zákona č. 422/2015 Z. z.
+- 22f) § 37 ods. 3 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
 
-- 22haa) § 73 ods. 18 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
+- 22g) § 37 ods. 5 zákona č. 404/2011 Z. z. v znení zákona č. 160/2024 Z. z.
 
-- 22i) § 31 a 32 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
+- 22h) § 30 a 39 zákona č. 422/2015 Z. z. o uznávaní dokladov o vzdelaní a o uznávaní odborných kvalifikácií a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 22j) § 6 až 14 zákona č. 151/2010 Z. z. o zahraničnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 403/2010 Z. z.
+- 22i) § 32 zákona č. 422/2015 Z. z. v znení neskorších predpisov.
 
-- 22k) § 31 ods. 2 zákona č. 404/2011 Z. z. v znení zákona č. 75/2012 Z. z.
+- 22j) § 3 ods. 1 písm. d) zákona č. 422/2015 Z. z. v znení zákona č. 357/2020 Z. z.
 
-- 22ka) § 2 ods. 1 písm. d) zákona č. 404/2011 Z. z. v znení zákona č. 82/2017 Z. z.
+- 22k) § 37 ods. 5 druhá veta zákona č. 404/2011 Z. z. v znení zákona č. 160/2024 Z. z.
 
-- 22kb) § 2 ods. 1 písm. s) zákona č. 404/2011 Z. z. v znení zákona č. 82/2017 Z. z.
+- 22ka) § 15 ods. 1 písm. d) zákona č. 404/2011 Z. z. v znení zákona č. 179/2017 Z. z.
 
-- 22kc) § 32 ods. 16 zákona č. 404/2011 Z. z. v znení zákona č. 82/2017 Z. z.
+- 22kb) § 37 ods. 3 a 4 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
 
-- 22kca) § 111 ods. 1 písm. t) zákona č. 404/2011 Z. z. v znení neskorších predpisov.
+- 22kc) § 39 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
 
-- 22kd) Zákon č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 22kd) § 41 ods. 1 až 7 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
+
+- 22ke) § 41 ods. 8 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
+
+- 22kf) § 30 zákona č. 422/2015 Z. z. v znení zákona č. 359/2019 Z. z.
+
+- 22kg) § 2 ods. 1 písm. s) zákona č. 404/2011 Z. z. v znení zákona č. 82/2017 Z. z.
+
+- 22kh) § 2 ods. 1 písm. d) zákona č. 404/2011 Z. z. v znení zákona č. 82/2017 Z. z.
+
+- 22ki) Zákon č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 22kj) § 2 písm. j) zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+
+- 22kk) § 33 ods. 6 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
+
+- 22kl) § 34 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
+
+- 22km) § 35 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
 
 - 22l) Dohovor o zrušení požiadavky vyššieho overenia zahraničných verejných listín (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 213/2002 Z. z.).
 
@@ -148,8 +170,6 @@
 
 - 25) § 23 ods. 6 zákona č. 480/2002 Z. z. v znení neskorších predpisov.
 
-- 26) § 2 písm. j) zákona č. 480/2002 Z. z. v znení neskorších predpisov.
-
 - 27) Napríklad oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 171/2011 Z. z. o uzavretí Zmluvy medzi Slovenskou republikou a Kanadou o mobilite mladých, oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 159/2012 Z. z. o uzavretí Zmluvy medzi Slovenskou republikou a Novým Zélandom o programe pracovnej dovolenky.
 
 - 28) Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 324/1997 Z. z. o uzavretí Zmluvy medzi štátmi, ktoré sú stranami Severoatlantickej zmluvy, a inými štátmi zúčastnenými v Partnerstve za mier vzťahujúcej sa na štatút ich ozbrojených síl.
@@ -159,8 +179,6 @@
 - Zákon č. 245/2008 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 184/2009 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 28aa) § 32 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
 
 - 28b) Zákon č. 57/2018 Z. z. o regionálnej investičnej pomoci a o zmene a doplnení niektorých zákonov.
 
@@ -178,7 +196,7 @@
 
 - 28i) § 5 písm. c) zákona č. 57/2018 Z. z.
 
-- 28j) § 33 ods. 8 a § 34 ods. 16 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
+- 28j) § 33 ods. 8, § 34 ods. 16 a § 40 ods. 7 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
 
 - 29) Zákon č. 480/2002 Z. z. v znení neskorších predpisov.
 
@@ -349,3 +367,5 @@
 - 67) § 73 ods. 18 druhá veta zákona č. 404/2011 Z. z. v znení neskorších predpisov.
 
 - 68) § 2a ods. 2 zákona č. 82/2005 Z. z. v znení neskorších predpisov.
+
+- 69) Vyhláška Štatistického úradu Slovenskej republiky č. 449/2020 Z. z., ktorou sa vydáva štatistická klasifikácia zamestnaní.
