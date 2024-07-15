@@ -22,29 +22,51 @@
 
 - c) kto bol právoplatne odsúdený za trestný čin ohrozenia pod vplyvom návykovej látky, opilstva, ohrozovania mravnej výchovy mládeže, porušovania povinností strážnej služby, porušovania povinností dozornej služby a porušovania povinností pri obrane vzdušného priestoru spáchaný čo aj z nedbanlivosti.
 
-(4) Za spoľahlivú nemožno považovať osobu, ktorá
+(4) Za spoľahlivú nemožno považovať osobu,
 
-- a) je alebo bola spoločníkom špiónov, teroristov, sabotérov alebo iných osôb v minulosti odôvodnene podozrievaných z týchto aktivít,
+- a) ktorá je alebo bola spoločníkom špiónov, teroristov, sabotérov alebo iných osôb v minulosti odôvodnene podozrievaných z týchto aktivít,
 
-- b) je alebo bola členom alebo podporovateľom akejkoľvek organizácie, ktorá sa násilnými, podvratnými alebo inými nezákonnými prostriedkami usiluje odstrániť demokratický spoločenský poriadok,
+- b) ktorá je alebo bola členom alebo podporovateľom akejkoľvek organizácie, ktorá sa násilnými, podvratnými alebo inými nezákonnými prostriedkami usiluje odstrániť demokratický spoločenský poriadok,
 
-- c) je pod preukázateľným nátlakom príbuzných alebo blízkych priateľov, ktorí sú zneužiteľní teroristickou skupinou, nelegálnou organizáciou, rizikovou skupinou alebo obdobným jedincom,
+- c) ktorá je pod preukázateľným nátlakom príbuzných alebo blízkych priateľov, ktorí sú zneužiteľní teroristickou skupinou, nelegálnou organizáciou, rizikovou skupinou alebo obdobným jedincom,
 
-- d) preukázateľne nadmerne požíva alkoholické nápoje alebo preukázateľne požíva iné omamné alebo psychotropné látky,
+- d) ktorá preukázateľne nadmerne požíva alkoholické nápoje alebo preukázateľne požíva iné omamné alebo psychotropné látky,
 
-- e) je pod preukázateľným nátlakom v dôsledku finančnej situácie,
+- e) ktorá je pod preukázateľným nátlakom v dôsledku finančnej situácie,
 
-- f) je alebo bola zainteresovaná na akejkoľvek forme sexuálneho konania, ktoré vedie k vydieraniu a nátlaku,
+- f) ktorá je alebo bola zainteresovaná na akejkoľvek forme sexuálneho konania, ktoré vedie k vydieraniu a nátlaku,
 
-- g) vážne alebo opakovane porušila bezpečnostné predpisy tým, že sa snažila neoprávnene prenikať do zabezpečených komunikačných alebo informačných systémov,
+- g) ktorá vážne alebo opakovane porušila bezpečnostné predpisy tým, že sa snažila neoprávnene prenikať do zabezpečených komunikačných alebo informačných systémov,
 
-- h) bola v posledných piatich rokoch uznaná za vinnú zo spáchania niektorého z priestupkov<sup>12</sup>) vyskytujúcich sa na viacerých úsekoch správy, na úseku ochrany pred alkoholizmom a inými toxikomániami, na úseku používania výbušnín, na úseku všeobecnej vnútornej správy, proti verejnému poriadku, proti občianskemu spolunažívaniu zo spáchania ublíženia na zdraví z nedbanlivosti inému alebo z úmyselného uvedenia nesprávneho alebo neúplného údaja pred štátnym orgánom, orgánom obce s cieľom získať neoprávnenú výhodu, úmyselného narušenia občianskeho spolunažívania, drobného ublíženia na zdraví, priestupku proti majetku alebo priestupku na úseku zbraní a streliva,
+- h) ktorej bola v posledných piatich rokoch uložená sankcia
 
-- i) prijíma neoprávnené platby, dary alebo iné výhody alebo zneužíva postavenie alebo funkciu na získanie neoprávnených požitkov,
+  - 1. najmenej dvakrát za niektorý z priestupkov
 
-- j) disponuje s majetkom, ktorého hodnota je neprimeraná priznaným príjmom a ktorého legálnosť pôvodu nie je schopná alebo ochotná preukázať, alebo
+    - 1a. vyskytujúcich sa na viacerých úsekoch správy, ak ide o priestupok podľa osobitného predpisu,<sup>8g</sup>)
 
-- k) z iných dôvodov neposkytuje záruku, že bude pri výkone bezpečnostnej ochrany dodržiavať právne predpisy a plniť povinnosti vyplývajúce z rozhodnutí a iných opatrení vydaných podľa tohto zákona.
+    - 1b. na úseku ochrany pred alkoholizmom a inými toxikomániami,
+
+    - 1c. proti verejnému poriadku, ak ide o priestupok podľa osobitného predpisu,<sup>8h</sup>)
+
+    - 1d. proti občianskemu spolunažívaniu, ak ide o priestupok podľa osobitného predpisu,<sup>8i</sup>)
+
+    - 1e. proti majetku,
+
+    - 1f. na úseku zbraní a streliva, ak ide o priestupok podľa osobitného predpisu<sup>8j</sup>) alebo
+
+    - 1g. na úseku civilného letectva, alebo
+
+  - 2. za niektorý z priestupkov
+
+    - 2a. na úseku používania výbušnín, ak ide o priestupok podľa osobitného predpisu,<sup>8k</sup>) alebo
+
+    - 2b. extrémizmu,
+
+- i) ktorá prijíma neoprávnené platby, dary alebo iné výhody alebo zneužíva postavenie alebo funkciu na získanie neoprávnených požitkov,
+
+- j) ktorá disponuje s majetkom, ktorého hodnota je neprimeraná priznaným príjmom a ktorého legálnosť pôvodu nie je schopná alebo ochotná preukázať, alebo
+
+- k) ktorá z iných dôvodov neposkytuje záruku, že bude pri výkone bezpečnostnej ochrany dodržiavať právne predpisy a plniť povinnosti vyplývajúce z rozhodnutí a iných opatrení vydaných podľa tohto zákona.
 
 (5) Spoľahlivosť posudzuje Dopravný úrad na základe žiadosti zamestnávateľa člena personálu bezpečnostnej ochrany. Dopravný úrad si na posúdenie spoľahlivosti vyžiada vyjadrenie Policajného zboru. Okrem údajov zo svojich evidencií Policajný zbor v prípade potreby vykonáva aj previerky v mieste bydliska o spoľahlivosti člena personálu bezpečnostnej ochrany a previerky prostredia, v ktorom žije. O vyjadrenie môže Dopravný úrad požiadať aj iný štátny orgán alebo obec, v ktorej sa žiadateľ zdržiava alebo sa v posledných piatich rokoch zdržiaval. Policajný zbor, štátny orgán a obec sú povinné žiadosti Dopravného úradu o vyjadrenie vyhovieť v lehote 30 dní od jej doručenia.
 
