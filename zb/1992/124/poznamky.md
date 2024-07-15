@@ -6,7 +6,9 @@
 
 - 2a) § 10 ods. 8 Trestného poriadku.
 
-- 2aa) § 17b zákona č. 321/2002 Z. z. v znení zákona č. 98/2019 Z. z.
+- 2aa) § 17b zákona č. 321/2002 Z. z. v znení neskorších predpisov.
+
+- § 53 a 53a zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 2b) Napríklad zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
@@ -21,6 +23,8 @@
 - 2c) Zákon č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 2d) Zákon č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu.
+
+- 2da) § 53a zákona č. 143/1998 Z. z. v znení zákona č. 161/2024 Z. z.
 
 - 2e) § 206 ods. 1 a § 208 ods. 1 zákona č. 281/2015 Z. z.
 
@@ -111,6 +115,8 @@
 - 7f) § 63 ods. 1 zákona č. 215/2004 Z. z.
 
 - 7fa) Čl. 2 ods. 2 písm. c) a čl. 4 ods. 1 písm. c) nariadenia Komisie (ES) č. 2150/2005 z 23. decembra 2005, ktorým sa stanovujú spoločné pravidlá pružného využívania vzdušného priestoru (Ú. v. EÚ L 342, 24. 12. 2005).
+
+- 7fb) § 1 ods. 3 zákona č. 143/1998 Z. z. v znení neskorších predpisov.
 
 - 7g) Zákon Slovenskej národnej rady č. 372/1992 Zb. v znení neskorších predpisov.
 

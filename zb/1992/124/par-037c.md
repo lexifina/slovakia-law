@@ -12,6 +12,6 @@
 
 (2) Ustanovenie odseku 1 písm. a) sa nevzťahuje na príslušníkov Vojenského spravodajstva pri plnení služobných úloh alebo povinností.
 
-(3) Ustanovenie odseku 1 písm. b) sa nevzťahuje na činnosti vykonávané s písomným súhlasom ministerstva a na činnosti uskutočňované vo verejnom záujme bezpilotnými lietadlami, ktoré vykonávajú lety v štátnom záujme.
+(3) Ustanovenie odseku 1 písm. b) sa nevzťahuje na činnosti vykonávané s písomným súhlasom ministerstva a na činnosti uskutočňované bezpilotnými lietadlami podľa osobitného predpisu.<sup>7fb</sup>)
 
 (4) Vzor žiadosti o udelenie písomného súhlasu podľa odseku 3 zverejní ministerstvo na svojom webovom sídle.
