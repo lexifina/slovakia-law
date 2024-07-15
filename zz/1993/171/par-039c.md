@@ -10,4 +10,4 @@
 
 (5) Policajný zbor je oprávnený pri vykonávaní operatívno-pátracej činnosti, vykonávaní kriminálneho spravodajstva, v súvislosti s používaním agenta a pri ochrane svedka používať osobitné spôsoby nakladania s majetkom štátu, ktorý je v správe ministerstva.
 
-(6) Používanie osobitných finančných prostriedkov a ich kontrolu a osobitné spôsoby nakladania s majetkom štátu, ktorý je v správe ministerstva upraví minister.
+(6) Používanie osobitných finančných prostriedkov a ich kontrolu a osobitné spôsoby nakladania s majetkom štátu, ktorý je v správe ministerstva upraví minister vnútra.
