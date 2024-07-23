@@ -72,7 +72,7 @@
 
 - 33) § 10 zákona č. 220/2004 Z. z. v znení neskorších predpisov.
 
-- 34) Napríklad § 14 ods. 3 zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
+- 34) Napríklad § 14 ods. 3 zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov, § 23 zákona č. 364/2004 Z. z. v znení neskorších predpisov.
 
 - 35) § 40 ods. 1 zákona č. 326/2005 Z. z. v znení zákona č. 117/2010 Z. z.
 
@@ -220,15 +220,15 @@
 
 - 76) Napríklad zákon č. 337/1998 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 115/1995 Z. z. o ochrane zvierat.
 
-- 76a) Príloha č. 1 k vyhláške Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
-
-- Príloha č. 8 k vyhláške Ministerstva pôdohospodárstva Slovenskej republiky č. 508/2004 Z. z., ktorou sa vykonáva § 27 zákona č. 220/2004 Z. z. o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov v znení zákona č. 59/2013 Z. z.
-
 - 77) § 125 ods. 1 Trestného zákona.
 
-- 78) Napríklad zákon č. 220/2004 Z. z. v znení neskorších predpisov, zákon č. 405/2011 Z. z. v znení neskorších predpisov.
+- 78) Napríklad zákon č. 220/2004 Z. z. v znení neskorších predpisov, § 23 zákona č. 364/2004 Z. z. v znení neskorších predpisov, zákon č. 405/2011 Z. z. o rastlinolekárskej starostlivosti v znení neskorších predpisov.
 
 - 78a) § 18a zákona č. 220/2004 Z. z. v znení zákona č. 57/2013 Z. z.
+
+- 78aa) Príloha č. 1 k vyhláške Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z. v znení vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 263/2018 Z. z.
+
+- Príloha č. 8 k vyhláške Ministerstva pôdohospodárstva Slovenskej republiky č. 508/2004 Z. z., ktorou sa vykonáva § 27 zákona č. 220/2004 Z. z. o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 59/2013 Z. z.
 
 - 78b) Napríklad zákon č. 135/1961 Zb. v znení neskorších predpisov, zákon č. 143/1998 Z. z. v znení neskorších predpisov, zákon č. 442/2002 Z. z. o verejných vodovodoch a verejných kanalizáciách a o zmene a doplnení zákona č. 276/2001 Z. z. o regulácii v sieťových odvetviach v znení neskorších predpisov, zákon č. 364/2004 Z. z. v znení neskorších predpisov, zákon č. 513/2009 Z. z., zákon č. 7/2010 Z. z. o ochrane pred povodňami v znení zákona č. 180/2013 Z. z., zákon č. 351/2011 o elektronických komunikáciách v znení neskorších predpisov, zákon č. 405/2011 Z. z. o rastlinolekárskej starostlivosti v znení neskorších predpisov, zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
