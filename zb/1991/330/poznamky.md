@@ -250,6 +250,8 @@
 
 - 23e) § 18 zákona č. 200/2022 Z. z.
 
+- 23ea) § 76 zákona č. 50/1976 Zb. v znení zákona č. 293/2014 Z. z.
+
 - 23f) § 5 písm. w) zákona č. 200/2022 Z. z.
 
 - 23fa) § 659 Občianskeho zákonníka.
