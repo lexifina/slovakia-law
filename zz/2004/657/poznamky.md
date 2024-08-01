@@ -10,7 +10,7 @@
 
 - 2b) STN EN ISO 13790/NA Energetická hospodárnosť budov. Výpočet potreby energie na vykurovanie a chladenie. Národná príloha.
 
-- 3) Zákon č. 276/2001 Z. z. o regulácii v sieťových odvetviach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 3) Zákon č. 250/2012 Z. z. o regulácii v sieťových odvetviach v znení neskorších predpisov.
 
 - 4) Napríklad § 13 a 16 Obchodného zákonníka v znení neskorších predpisov.
 
@@ -105,8 +105,6 @@
 - 19aa) Napríklad ústavný zákon č. 227/2002 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov, zákon č. 387/2002 Z. z. v znení neskorších predpisov, zákon č. 179/2011 Z. z. v znení neskorších predpisov.
 
 - 19b) § 16 ods. 5 zákona č. 200/2022 Z. z. o územnom plánovaní v znení zákona č. 205/2023 Z. z.
-
-- 20) Zákon č. 656/2004 Z. z.
 
 - 20a) § 27 ods. 2 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
