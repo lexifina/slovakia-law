@@ -14,6 +14,8 @@
 
 - 5) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
+- 5a) Čl. 13 až 15 nariadenia Európskeho parlamentu a Rady (EÚ) 2024/1263 z 29. apríla 2024 o účinnej koordinácii hospodárskych politík a mnohostrannom rozpočtovom dohľade a o zrušení nariadenia Rady (ES) č. 1466/97 (Ú. v. EÚ L, 2024/1263, 30. 4. 2024).
+
 - 6) Vyhláška Štatistického úradu Slovenskej republiky č. 195/2003 Z. z., ktorou sa vydáva štatistická klasifikácia výdavkov verejnej správy.
 
 - 7) § 4 ods. 2 a 3 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
@@ -42,11 +44,7 @@
 
 - 13aa) § 2c zákona č. 291/2002 Z. z. v znení neskorších predpisov.
 
-- 13ab) § 2 písm. c) zákona č. 526/2010 Z. z. o poskytovaní dotácií v pôsobnosti Ministerstva vnútra Slovenskej republiky v znení zákona č. 146/2017 Z. z.
-
 - 13ac) § 12 ods. 2 a 3 zákona č. 172/2005 Z. z. o organizácii štátnej podpory výskumu a vývoja a o doplnení zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov v znení neskorších predpisov.
-
-- 13b) Zákon č. 543/2007 Z. z. o pôsobnosti orgánov štátnej správy pri poskytovaní podpory v pôdohospodárstve a rozvoji vidieka v znení neskorších predpisov.
 
 - 14) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
@@ -86,9 +84,11 @@
 
 - 18) Zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 18a) Čl. 3 a 4 nariadenia Rady (ES) č. 1466/97 zo 7. júla 1997 o posilnení dohľadu nad stavmi rozpočtov a o dohľade nad hospodárskymi politikami a ich koordinácii (Mimoriadne vydanie Ú. v. EÚ, kap. 10/zv. 1, Ú. v. ES L 209, 2. 8. 1997) v platnom znení.
+- 18a) Čl. 2 ods. 5 a 6, čl. 5 a 6 nariadenia (EÚ) 2024/1263.
 
 - 18aa) § 100a zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 18aaa) Čl. 11 nariadenia (EÚ) 2024/1263.
 
 - 18ab) Čl. 6 ods. 1 ústavného zákona č. 493/2011 Z. z.
 
@@ -118,6 +118,8 @@
 
 - 20a) Čl. 5 ods. 6 a čl. 12 ods. 5 ústavného zákona č. 493/2011 Z. z. o rozpočtovej zodpovednosti.
 
+- 20b) § 25 zákona č. 121/2022 Z. z.
+
 - 21) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 22) Napríklad zákon č. 461/2003 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 152/1994 Z. z. o sociálnom fonde a o zmene a doplnení zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov v znení neskorších predpisov.
@@ -143,8 +145,6 @@
 - 24) Napríklad zákon č. 607/2003 Z. z. o Štátnom fonde rozvoja bývania v znení neskorších predpisov, zákon č. 238/2006 Z. z. o Národnom jadrovom fonde na vyraďovanie jadrových zariadení a na nakladanie s vyhoretým jadrovým palivom a rádioaktívnymi odpadmi (zákon o jadrovom fonde) a o zmene a doplnení niektorých zákonov v znení zákona č. 528/2006 Z. z.
 
 - 24a) Napríklad § 12 a 15 zákona č. 528/2008 Z. z. v znení neskorších predpisov, § 16 a 25 zákona č. 292/2014 Z. z.
-
-- 24aa) Čl. 5 nariadenia Rady (ES, Euratom) č. 1605/2002 z 25. júna 2002 o rozpočtových pravidlách, ktoré sa vzťahujú na všeobecný rozpočet Európskych spoločenstiev v platnom znení (Mimoriadne vydanie Ú. v. EÚ, kap. 1/zv. 4; Ú. v. ES L 248, 16. 9. 2002).
 
 - 24ab) § 4, § 31 a 56 zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 315/2016 Z. z.
 
@@ -244,17 +244,17 @@
 
 - 42ab) § 23 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
-- 42aba) Čl. 2 písm. a) ústavného zákona č. 493/2011 Z. z.
+- 42aba) Čl. 2 ods. 7 a čl. 21 nariadenia (EÚ) 2024/1263.
 
-- 42abb) Čl. 2 písm. c) ústavného zákona č. 493/2011 Z. z.
+- 42abb) Čl. 21 nariadenia (EÚ) 2024/1263.
 
-- 42abc) Čl. 5 ods. 6 písm. c), čl. 5 ods. 7 písm. a), čl. 12 ods. 5 písm. c), čl. 12 ods. 6 písm. a) a čl. 13 ústavného zákona č. 493/2011 Z. z.
+- 42abc) Čl. 23 nariadenia (EÚ) 2024/1263.
 
-- 42abd) Čl. 5 ods. 4 až 8, čl. 12 ods. 3 až 7 a čl. 13 ústavného zákona č. 493/2011 Z. z.
+- 42abd) Čl. 2 ods. 2 nariadenia (EÚ) 2024/1263.
 
-- 42abe) Nariadenie (ES) č. 1466/97 v platnom znení.
+- 42abe) Čl. 2 ods. 5, čl. 5, 6, 11, 13 až 15 nariadenia (EÚ) 2024/1263.
 
-- Nariadenie (ES) č. 1467/97 v platnom znení.
+- 42abf) Čl. 25 a 26 nariadenia (EÚ) 2024/1263.
 
 - 42ac) Čl. 3 ods. 1 písm. b) Zmluvy o stabilite, koordinácii a správe v hospodárskej a menovej únii medzi Belgickým kráľovstvom, Bulharskou republikou, Dánskym kráľovstvom, Spolkovou republikou Nemecko, Estónskou republikou, Írskom, Helénskou republikou, Španielskym kráľovstvom, Francúzskou republikou, Talianskou republikou, Cyperskou republikou, Lotyšskou republikou, Litovskou republikou, Luxemburským veľkovojvodstvom, Maďarskom, Maltou, Holandským kráľovstvom, Rakúskou republikou, Poľskou republikou, Portugalskou republikou, Rumunskom, Slovinskou republikou, Slovenskou republikou, Fínskou republikou a Švédskym kráľovstvom (oznámenie Ministerstva zahraničných vecí a európskych záležitostí Slovenskej republiky č. 18/2013 Z. z.).
 
