@@ -1,1 +1,0 @@
-Peter Kubovič v. r.
