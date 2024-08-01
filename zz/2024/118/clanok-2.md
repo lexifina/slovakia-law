@@ -1,0 +1,5 @@
+# Čl. II
+
+Zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení zákona č. 386/2002 Z. z., zákona č. 431/2002 Z. z., zákona č. 428/2003 Z. z., zákona č. 461/2003 Z. z., zákona č. 607/2003 Z. z., zákona č. 5/2004 Z. z., zákona č. 523/2004 Z. z., zákona č. 581/2004 Z. z., zákona č. 747/2004 Z. z., zákona č. 68/2005 Z. z., zákona č. 659/2005 Z. z., zákona č. 238/2006 Z. z., zákona č. 198/2007 Z. z., zákona č. 209/2007 Z. z., zákona č. 659/2007 Z. z., zákona č. 70/2008 Z. z., zákona č. 465/2008 Z. z., zákona č. 492/2009 Z. z., zákona č. 381/2010 Z. z., zákona č. 132/2013 Z. z., zákona č. 374/2014 Z. z., zákona č. 130/2015 Z. z., zákona č. 375/2015 Z. z., zákona č. 125/2016 Z. z., zákona č. 243/2017 Z. z., zákona č. 177/2018 Z. z., zákona č. 344/2018 Z. z., zákona č. 211/2019 Z. z., zákona č. 149/2020 Z. z., zákona č. 314/2020 Z. z., zákona č. 346/2021 Z. z. a zákona č. 389/2022 Z. z. sa mení a dopĺňa takto:
+
+- V § 12 ods. 9 sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „ak sa klient so Štátnou pokladnicou nedohodnú inak.“.
