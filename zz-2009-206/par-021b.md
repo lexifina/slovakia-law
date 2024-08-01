@@ -1,0 +1,5 @@
+# § 21b Prechodné ustanovenia počas trvania mimoriadnej situácie vyhlásenej v súvislosti s hromadným prílevom cudzincov na územie Slovenskej republiky spôsobeným ozbrojeným konfliktom na území Ukrajiny a po jej odvolaní
+
+(1) Na dovoz predmetu kultúrneho dedičstva z územia Ukrajiny, ktorý sa dováža na územie Slovenskej republiky počas mimoriadnej situácie vyhlásenej v súvislosti s hromadným prílevom cudzincov na územie Slovenskej republiky spôsobeným ozbrojeným konfliktom na území Ukrajiny a v období 12 mesiacov po jej odvolaní, na účel podľa § 6 písm. k), postačuje predloženie dokladu uznaného ministerstvom.
+
+(2) Počas mimoriadnej situácie vyhlásenej v súvislosti s hromadným prílevom cudzincov na územie Slovenskej republiky spôsobeným ozbrojeným konfliktom na území Ukrajiny a v období 12 mesiacov po jej odvolaní je ministerstvo, rozpočtová organizácia, ktorá je múzeom, galériou alebo ich zriaďovateľom, a príspevková organizácia, ktorá je múzeom, galériou alebo ich zriaďovateľom, oprávnená poskytnúť inštitúcii uchovávajúcej predmety kultúrneho dedičstva vrátane múzea a galérie na území Ukrajiny materiálnu pomoc formou darovania.<sup>36</sup>)

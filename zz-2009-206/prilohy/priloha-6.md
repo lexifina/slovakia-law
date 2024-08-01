@@ -1,0 +1,3 @@
+Príloha č. 6 k zákonu č. 206/2009 Z. z.
+
+- ŽIADOSŤ O ZMENU PODMIENOK DOČASNÉHO VÝVOZU ZBIERKOVÉHO PREDMETU/SÚBORU ZBIERKOVÝCH PREDMETOV<sup>1</sup>) [Príloha č. 6 k zákonu č. 206/2009 Z. z.](../assets/08e0989244ec34a306dda237c4fec17856162a18c751e63834c6883d7d69a3e2.pdf)
