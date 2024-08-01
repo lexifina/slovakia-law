@@ -14,8 +14,6 @@
 
 - 7) Napríklad zákon č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl a školských zariadení.
 
-- 7a) Čl. 3 a 4 nariadenia Rady (ES) č. 1466/97 zo 7. júla 1997 o posilnení dohľadu nad stavmi rozpočtov a o dohľade nad hospodárskymi politikami a ich koordinácii (Mimoriadne vydanie Ú. v. EÚ, kap. 10/zv. 1, Ú. v. ES L 209, 2. 8. 1997) v platnom znení.
-
 - 8) § 20 a 20a zákona Slovenskej národnej rady č. 369/1990 Zb. v znení zákona č. 453/2001 Z. z.
 
 - 9) § 3 zákona č. 523/2004 Z. z.
