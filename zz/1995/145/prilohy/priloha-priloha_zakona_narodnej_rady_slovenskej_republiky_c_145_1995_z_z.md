@@ -2610,7 +2610,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - p) | Podanie žiadosti o odňatie povolenia na vykonávanie povolania prevádzkovateľa nákladnej cestnej alebo osobnej cestnej dopravy, povolenia na prevádzkovanie dispečingu alebo koncesie na taxislužbu ..... | | 10 eur
 
-  - q) | Podanie žiadosti o zmenu povolenia na vykonávanie povolania prevádzkovateľa cestnej dopravy podľa písmena g) položky<sup>22bd</sup>) ..... | | 10 eur
+  - q) | Podanie žiadosti o zmenu povolenia na vykonávanie povolania prevádzkovateľa cestnej dopravy,<sup>22bd</sup>) povolenia na prevádzkovanie dispečingu a koncesie na výkon taxislužby ..... | | 10 eur
 
   - r) | Podanie prihlášky na vykonanie skúšky odbornej spôsobilosti v oblasti cestnej nákladnej dopravy alebo osobnej cestnej dopravy ..... | | 100 eur
 
