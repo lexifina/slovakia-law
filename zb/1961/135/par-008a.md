@@ -10,4 +10,6 @@
 
 (5) Povolenie na zvláštne užívanie podľa odseku 1 možno vydať na jednotlivú dopravu alebo opakovanú dopravu. Jednotlivou dopravou je vykonanie prepravy v jeden deň bez určenia trasy alebo po určenej trase, pričom dopravu možno vykonať v ktorýkoľvek deň v lehote do 30 dní odo dňa oznámenia povolenia žiadateľovi. Opakovanou dopravou je vykonanie viacerých dopráv po určenej trase, viacerých určených trasách alebo bez určenia trasy.
 
-(6) Povolenie na zvláštne užívanie pre nadmernú dopravu a pre nadrozmernú dopravu sa vykonáva podľa technických podmienok schválených ministerstvom.
+(6) Ak z povolenia na zvláštne užívanie pre nadmernú dopravu a nadrozmernú dopravu vyplýva podmienka sprevádzania vozidlami Policajného zboru alebo podmienka inej spolupráce Policajného zboru, Policajný zbor môže vykonávať tieto činnosti za úhradu účelne vynaložených nákladov, ktoré znáša prevádzkovateľ vozidla podľa odseku 2; spôsob určenia výšky nákladov a ďalšie náležitosti úhrady určí dohoda medzi Policajným zborom a prevádzkovateľom vozidla podľa odseku 2.
+
+(7) Povolenie na zvláštne užívanie pre nadmernú dopravu a pre nadrozmernú dopravu sa vykonáva podľa technických podmienok schválených ministerstvom.

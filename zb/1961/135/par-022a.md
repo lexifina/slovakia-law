@@ -4,7 +4,7 @@
 
 # § 22a Pokuty
 
-Cestný správny orgán a obec v rozsahu svojej pôsobnosti uložia pokutu do 33 190 eur právnickej osobe alebo fyzickej osobe oprávnenej na podnikanie podľa osobitných predpisov,<sup>9</sup>) ak
+(1) Cestný správny orgán a obec v rozsahu svojej pôsobnosti uložia pokutu do 33 190 eur právnickej osobe alebo fyzickej osobe oprávnenej na podnikanie podľa osobitných predpisov,<sup>9</sup>) ak
 
 - a) bez povolenia cestného správneho orgánu alebo v rozpore s vydaným povolením
 
@@ -37,3 +37,5 @@ Cestný správny orgán a obec v rozsahu svojej pôsobnosti uložia pokutu do 33
 - ch) umiestni skládky materiálov alebo reklamné stavby,<sup>3</sup>) ako aj iné zariadenia, ktoré neslúžia na správu pozemných komunikácií ani na riadenie cestnej premávky a prevádzku dopravy v rozhľadových poliach, v križovatkách, v blízkosti železničných priecestí a pri pozemných komunikáciách tak, aby zasahovali do zorného poľa vodičov vozidiel,
 
 - i) umiestni reklamnú stavbu v rozpore s § 10 ods. 3 až 5.
+
+(2) Ministerstvo uloží pokutu do 33 190 eur právnickej osobe alebo fyzickej osobe oprávnenej na podnikanie podľa osobitných predpisov,<sup>9</sup>) ak neplní opatrenie uložené ministerstvom na základe ním vykonaného štátneho odborného dozoru podľa § 3c ods. 2. Ak uloženie pokuty neviedlo k náprave v lehote 60 dní odo dňa nadobudnutia vykonateľnosti rozhodnutia o uložení pokuty, ministerstvo môže uložiť pokutu opakovane až do výšky trojnásobku hornej hranice pokuty, a to až do splnenia opatrenia. Odvolanie proti rozhodnutiu o uložení pokuty nemá odkladný účinok. Proti rozhodnutiu o uložení opakovanej pokuty sa nemožno odvolať.
