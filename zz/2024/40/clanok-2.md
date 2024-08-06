@@ -12,7 +12,7 @@ Zákon č. 301/2005 Z. z. Trestný poriadok v znení zákona č. 650/2005 Z. z.,
 
 - 3. V § 2 ods. 9 sa na konci pripája táto veta: „Podozrivý má právo na obhajobu v rozsahu, ktorý ustanovuje zákon, medzinárodná zmluva alebo priamo uplatniteľný právne záväzný akt Európskej únie.“.
 
-- 4. V § 2 ods. 12 sa za slovom „spôsobom“ vkladá čiarka a slová „ako aj dôkazy prípustné podľa § 119 ods. 5 a 6“.
+- 4. V § 2 ods. 12 sa za slovom „spôsobom“ vkladá čiarka a slová „ako aj dôkazy prípustné podľa § 119 ods. 5“.
 
 - 5. V § 9 odsek 2 znie:
 
@@ -216,7 +216,7 @@ Zákon č. 301/2005 Z. z. Trestný poriadok v znení zákona č. 650/2005 Z. z.,
 
 - „(5)
 
-- Dôkaz získaný nezákonným donútením alebo hrozbou takého donútenia alebo prostredníctvom poskytnutia nezákonného benefitu alebo sľubu nezákonného benefitu spolupracujúcej osobe alebo benefitu, ktorý prokurátor v rozpore s týmto zákonom neoznámil súdu, sa nesmie použiť v konaní okrem prípadu, keď sa použije ako dôkaz proti osobe, ktorá také donútenie alebo hrozbu donútenia použila alebo takýto benefit spolupracujúcej osobe poskytla alebo sľúbila alebo keď sa použije v prospech obvineného podľa odseku 6.“.
+- Dôkaz získaný nezákonným donútením alebo hrozbou takého donútenia alebo prostredníctvom poskytnutia nezákonného benefitu alebo sľubu nezákonného benefitu spolupracujúcej osobe alebo benefitu, ktorý prokurátor v rozpore s týmto zákonom neoznámil súdu, sa nesmie použiť v konaní okrem prípadu, keď sa použije ako dôkaz proti osobe, ktorá také donútenie alebo hrozbu donútenia použila alebo takýto benefit spolupracujúcej osobe poskytla alebo sľúbila.“.
 
 - 40. V § 128 odsek 4 znie:
 
