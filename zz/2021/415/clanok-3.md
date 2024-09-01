@@ -66,7 +66,11 @@ Zákon č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráv
 
 - „b)
 
-- kontroluje súlad medzinárodného programu s princípmi a cieľmi výchovy a vzdelávania,“.
+- kontroluje súlad medzinárodného programu s princípmi a cieľmi výchovy a vzdelávania,
+
+- c)
+
+- kontroluje súlad používania katalógu výsledkov experimentálneho overovania a inovácií vo výchove a vzdelávaní s princípmi a cieľmi výchovy a vzdelávania,“.
 
   - Doterajšie písmená b) až e) sa označujú ako písmená d) až g).
 
