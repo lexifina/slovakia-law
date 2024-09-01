@@ -1,0 +1,3 @@
+# § 39hm Prechodné ustanovenie počas trvania mimoriadnej situácie vyhlásenej v súvislosti s hromadným prílevom cudzincov na územie Slovenskej republiky spôsobeným ozbrojeným konfliktom na území Ukrajiny
+
+Obec vedie evidenciu odídencov, ktorí sú štátnymi občanmi Ukrajiny, vo veku plnenia povinného predprimárneho vzdelávania a vo veku plnenia povinnej školskej dochádzky, ktorí majú v obci adresu dočasného útočiska, a vedie evidenciu, v ktorých školách sa vzdelávajú; na tento účel obec získava a spracúva údaje z informačného systému verejnej správy podľa osobitného predpisu<sup>33a</sup>) spôsobom podľa osobitného predpisu.<sup>33b</sup>)
