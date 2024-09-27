@@ -30,6 +30,8 @@
 
 - 11b) § 14 zákona č. 25/2006 Z. z.
 
+- 12) Napríklad zákon č. 587/2004 Z. z. o Environmentálnom fonde a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 13) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z.
 
 - 14) Napríklad zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
