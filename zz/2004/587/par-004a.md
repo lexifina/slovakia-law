@@ -40,4 +40,4 @@
 
 - c) zoznam žiadateľov, ktorým bola poskytnutá dotácia na projekt alebo kompenzácia a sumu poskytnutej dotácie na projekt alebo sumu kompenzácie.
 
-(11) Na poskytovanie dotácií na projekt a kompenzácie sa nevzťahujú § 6 až 9 okrem § 9 ods. 10, vykonávací predpis podľa § 13 a správny poriadok.
+(11) Na poskytovanie dotácií na projekt a kompenzácie sa nevzťahujú § 6 až 9 okrem § 9 ods. 11, vykonávací predpis podľa § 13 a správny poriadok.

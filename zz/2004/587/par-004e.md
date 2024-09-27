@@ -16,4 +16,4 @@
 
 (6) Na poskytnutie dotácie nie je právny nárok.
 
-(7) Na poskytovanie prostriedkov fondu na účel § 4 ods. 2 sa nevzťahujú § 8 a 9 okrem § 9 ods. 10, vykonávací predpis podľa § 13 a správny poriadok.
+(7) Na poskytovanie prostriedkov fondu na účel § 4 ods. 2 sa nevzťahujú § 8 a 9 okrem § 9 ods. 11, vykonávací predpis podľa § 13 a správny poriadok.

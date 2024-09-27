@@ -32,7 +32,9 @@
 
 - 11a) § 2 písm. d) zákona č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov.
 
-- 11aa) § 18 ods. 4 písm. a) zákona č. 414/2012 Z. z. v znení neskorších predpisov.
+- 11aa) § 18 ods. 7 písm. e) zákona č. 414/2012 Z. z. v znení zákona č. 236/2024 Z. z.
+
+- 11ab) § 26 ods. 2 zákona č. 414/2012 Z. z. v znení neskorších predpisov.
 
 - 11c) § 35 ods. 4 zákona č. 44/1988 Zb. v znení neskorších predpisov.
 
@@ -60,9 +62,11 @@
 
 - 11ie) § 65b zákona č. 543/2002 Z. z. v znení zákona č. 6/2022 Z. z.
 
-- 11if) § 18 ods. 4 písm. c) zákona č. 414/2012 Z. z.
+- 11if) § 18 ods. 7 písm. b) zákona č. 414/2012 Z. z. v znení zákona č. 236/2024 Z. z.
 
-- 11ig) § 18 ods. 4 písm. a) zákona č. 414/2012 Z. z. v znení zákona č. 296/2019 Z. z.
+- 11ig) § 18 ods. 7 písm. b) zákona č. 414/2012 Z. z. v znení zákona č. 236/2024 Z. z.
+
+- 11ih) § 18 ods. 8 zákona č. 414/2012 Z. z. v znení zákona č. 236/2024 Z. z.
 
 - 11j) Zákon č. 305/2018 Z. z. o chránených oblastiach prirodzenej akumulácie vôd a o zmene a doplnení niektorých zákonov.
 
@@ -110,9 +114,13 @@
 
 - 12q) § 108 ods. 1 písm. q) zákona č. 79/2015 Z. z.
 
-- 12r) § 18 ods. 14 zákona č. 414/2012 Z. z. v znení zákona č. 535/2021 Z. z.
+- 12qa) § 18 ods. 8 zákona č. 414/2012 Z. z. v znení zákona č. 236/2024 Z. z.
 
-- 12s) § 18 ods. 15 zákona č. 414/2012 Z. z. v znení zákona č. 535/2021 Z. z.
+- 12qb) § 18 ods. 9 zákona č. 414/2012 Z. z. v znení zákona č. 236/2024 Z. z.
+
+- 12r) § 18 ods. 15 zákona č. 414/2012 Z. z. v znení zákona č. 236/2024 Z. z.
+
+- 12s) § 18 ods. 16 zákona č. 414/2012 Z. z. v znení zákona č. 236/2024 Z. z.
 
 - 12t) Vykonávacie nariadenie Komisie (Eú) 2020/1001 z 9. júla 2020, ktorým sa stanovujú podrobné pravidlá uplatňovania smernice Európskeho parlamentu a Rady 2003/87/ES, pokiaľ ide o prevádzkovanie modernizačného fondu na podporu investícií na modernizáciu energetických systémov a zlepšenie energetickej efektívnosti niektorých členských štátov.
 

@@ -10,4 +10,4 @@
 
 (5) Na poskytnutie dotácie na účel § 4 ods. 1 písm. ak) nie je právny nárok.
 
-(6) Na poskytnutie dotácie na účel § 4 ods. 1 písm. ak) sa nevzťahujú § 6 a 9 okrem § 9 ods. 10, vykonávací predpis podľa § 13 a správny poriadok.
+(6) Na poskytnutie dotácie na účel § 4 ods. 1 písm. ak) sa nevzťahujú § 6 a 9 okrem § 9 ods. 11, vykonávací predpis podľa § 13 a správny poriadok.

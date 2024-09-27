@@ -50,4 +50,4 @@
 
 (9) Na poskytnutie dotácie nie je právny nárok.
 
-(10) Na poskytnutie dotácie sa nevzťahujú § 8 a 9 okrem § 9 ods. 10, vykonávací predpis podľa § 13 a správny poriadok.
+(10) Na poskytnutie dotácie sa nevzťahujú § 8 a 9 okrem § 9 ods. 11, vykonávací predpis podľa § 13 a správny poriadok.
