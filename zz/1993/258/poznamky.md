@@ -4,6 +4,8 @@
 
 - 2a) § 566 až 576 Obchodného zákonníka.
 
+- 2b) § 18 zákona č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 3) Napríklad zákon č. 51/1964 Zb. o dráhach v znení neskorších predpisov.
 
 - 4) § 19 ods. 1 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
