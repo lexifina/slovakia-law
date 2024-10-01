@@ -216,4 +216,6 @@
 
 - 52a) § 7 ods. 8 zákona č. 307/2014 Z. z. o niektorých opatreniach súvisiacich s oznamovaním protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
 
+- 52b) § 331d zákona č. 35/2019 Z. z. o finančnej správe a o zmene a doplnení niektorých zákonov v znení zákona č. 238/2024 Z. z.
+
 - 53) § 3 zákona č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch.
