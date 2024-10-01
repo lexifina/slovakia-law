@@ -638,4 +638,10 @@ Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov ve
 
 - Zrušovacie ustanovenie účinné od 1. novembra 2022
 
-- Zrušuje sa vyhláška Ministerstva financií Slovenskej republiky č. 25/2014 Z. z. o integrovaných obslužných miestach a podmienkach ich zriaďovania, označovania, prevádzky a o sadzobníku úhrad v znení vyhlášky č. 3/2015 Z. z. a vyhlášky č. 314/2015 Z. z.“.
+- Zrušuje sa vyhláška Ministerstva financií Slovenskej republiky č. 25/2014 Z. z. o integrovaných obslužných miestach a podmienkach ich zriaďovania, označovania, prevádzky a o sadzobníku úhrad v znení vyhlášky č. 3/2015 Z. z. a vyhlášky č. 314/2015 Z. z.
+
+- § 61b
+
+- Zrušovacie ustanovenie účinné od 1. októbra 2024
+
+- Zrušuje sa vyhláška Ministerstva vnútra Slovenskej republiky č. 29/2017 Z. z., ktorou sa ustanovujú podrobnosti o alternatívnom autentifikátore v znení vyhlášky č. 239/2019 Z. z.“.
