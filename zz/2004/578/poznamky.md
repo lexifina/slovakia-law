@@ -460,7 +460,11 @@
 
 - 58cf) § 9h ods. 4 zákona č. 580/2004 Z. z. v znení zákona č. 393/2020 Z. z.
 
-- 58d) § 15, 18 a 60 zákona č. 362/2011 Z. z.
+- 58d) § 45 ods. 6 zákona č. 576/2004 Z. z. v znení zákona č. 201/2024 Z. z.
+
+- 58da) § 45 ods. 5 písm. c) zákona č. 576/2004 Z. z. v znení zákona č. 201/2024 Z. z.
+
+- 58db) § 45 ods. 1 písm. am) a an) zákona č. 576/2004 Z. z. v znení zákona č. 201/2024 Z. z.
 
 - 58e) Zákon č. 362/2011 Z. z.
 
