@@ -1,0 +1,1 @@
+- 1) Čl. 12 ods. 1 písm. e) bod viii) delegovaného nariadenia Komisie (EÚ) 2015/61 z 10. októbra 2014, ktorým sa dopĺňa nariadenie Európskeho parlamentu a Rady (EÚ) č. 575/2013, pokiaľ ide o požiadavku na krytie likvidity pre úverové inštitúcie (Ú. v. EÚ L 11, 17. 1. 2015) v platnom znení.
