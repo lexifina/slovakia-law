@@ -1,1 +1,0 @@
-Robert Kaliňák v. r.
