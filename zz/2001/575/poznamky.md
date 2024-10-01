@@ -10,6 +10,10 @@
 
 - 1b) § 3 ods. 3 zákona č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
 
+- 1ba) § 45 ods. 5 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení zákona č. 201/2024 Z. z.
+
+- 1bb) § 45 ods. 6 zákona č. 576/2004 Z. z. v znení zákona č. 201/2024 Z. z.
+
 - 1c) § 71 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
 - 1ca) Zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
