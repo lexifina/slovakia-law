@@ -26,6 +26,30 @@ Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústred
 
   - Doterajšie písmeno d) sa označuje ako písmeno e).
 
+- 11. Doterajší text § 19 sa označuje ako odsek 1 a dopĺňa sa odsekmi 2 a 3, ktoré znejú:
+
+- „(2)
+
+- Ministerstvo zdravotníctva Slovenskej republiky spôsobom podľa osobitného predpisu<sup>1ba</sup>) centrálne koordinuje procesy riadenia držiteľov povolenia na prevádzkovanie nemocnice, ktorí
+
+- a)
+
+- sú príspevkovou organizáciou Ministerstva zdravotníctva Slovenskej republiky alebo akciovou spoločnosťou, ktorej jediným akcionárom je Ministerstvo zdravotníctva Slovenskej republiky a
+
+- b)
+
+- sú uvedení v zozname podľa osobitného predpisu.<sup>1bb</sup>)
+
+- (3)
+
+- Úlohy pri výkone pôsobnosti podľa odseku 2 vykonáva na to určená samostatná organizačná zložka Ministerstva zdravotníctva Slovenskej republiky.“.
+
+  - Poznámky pod čiarou k odkazom 1ba a 1bb znejú:
+
+  - „<sup>1ba</sup>) § 45 ods. 5 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení zákona č. 201/2024 Z. z.
+
+  - <sup>1bb</sup>) § 45 ods. 6 zákona č. 576/2004 Z. z. v znení zákona č. 201/2024 Z. z.“.
+
 - 16. V § 22 ods. 5 sa za slová „§ 21“ vkladajú slová „ods. 1“.
 
 - 20. V § 24 sa odsek 1 dopĺňa písmenom e), ktoré znie:
