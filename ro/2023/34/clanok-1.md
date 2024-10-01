@@ -4,6 +4,10 @@ Opatrenie Národnej banky Slovenska z 2. septembra 2014 č. 16/2014 o uverejňov
 
 z 12. októbra 2021 č. 11/2021 (oznámenie č. 401/2021 Z. z.) sa mení a dopĺňa takto:
 
+- 1. V § 1 ods. 2 sa vypúšťa písmeno h).
+
+  - Doterajšie písmeno i) sa označuje ako písmeno h).
+
 - 2. V § 1 ods. 2 sa vypúšťa písmeno j).
 
 - 3. § 1 sa dopĺňa odsekom 8, ktorý znie:
@@ -15,6 +19,10 @@ z 12. októbra 2021 č. 11/2021 (oznámenie č. 401/2021 Z. z.) sa mení a dopĺ
   - Poznámka pod čiarou k odkazu 5a znie:
 
   - „<sup>5a</sup>) Čl. 4 ods. 1 body 145 a 148 nariadenia (EÚ) č. 575/2013 v platnom znení.“.
+
+- 4. V § 2 ods. 2 sa slová „písm. i)“ nahrádzajú slovami „písm. h)“.
+
+- 5. V § 2 ods. 3 sa slová „písm. a) až h)“ nahrádzajú slovami „písm. a) až g)“.
 
 - 6. V § 2 sa vypúšťajú odseky 4 a 6.
 
@@ -28,6 +36,8 @@ z 12. októbra 2021 č. 11/2021 (oznámenie č. 401/2021 Z. z.) sa mení a dopĺ
 
 - 8. V § 2 ods. 5 sa slová „2 až 6“ nahrádzajú slovami „2 až 4“.
 
+- 9. Príloha č. 3 sa vypúšťa.
+
 - 10. Príloha č. 5 sa nahrádza prílohou k tomuto opatreniu.
 
-[Konsolidovane znenie](assets/84079a733f1672b012233a6ccda32b18170c3a67c1959ca84536f0079cfbbed4.pdf)
+[Konsolidovane znenie](assets/745bb5ef7f2e0f90dd2911a1b252d8da34c80a17e308743b5ad22946ae6f8e5d.pdf)
