@@ -384,9 +384,17 @@
 
 - 52aak) Zákon č. 358/2021 Z. z. o Národnom inštitúte pre hodnotu a technológie v zdravotníctve a o zmene a doplnení niektorých zákonov.
 
+- 52aal) Napríklad zákon č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 52aam) Napríklad § 4 ods. 3, § 10 ods. 4 a 5, § 12 ods. 3 písm. s) zákona č. 153/2013 Z. z. v znení neskorších predpisov, § 9 ods. 1 zákona č. 540/2021 Z. z. v znení neskorších predpisov, § 6e ods. 31 zákona č. 578/2004 Z. z. v znení zákona č. 540/2021 Z. z.
+
 - 52ab) § 21 ods. 5 písm. b) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
 - § 33 zákona č. 317/2016 Z. z.
+
+- 52ac) § 79c ods. 2 zákona č. 578/2004 Z. z. v znení zákona č. 201/2024 Z. z.
+
+- 52ad) Napríklad zákon č. 357/2015 Z. z. v znení neskorších predpisov.
 
 - 53) § 18 ods. 5 zákona č. 578/2004 Z. z.
 
