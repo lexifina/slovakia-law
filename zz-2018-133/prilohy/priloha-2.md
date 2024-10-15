@@ -1,0 +1,1 @@
+Príloha č. 2 k vyhláške č. 133/2018 Z. z. [TECHNICKÁ ŠPECIFIKÁCIA OSVEDČENIA O EVIDENCII ČASTI I](../assets/a927b5eeba73b465b8e8c604ee6359ff6c3e489402907c371db04a1280a98e3d.pdf)
