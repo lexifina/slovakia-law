@@ -1,0 +1,3 @@
+# § 52a
+
+Pozemky, ktoré nie sú vo vlastníctve štátu a v správe správcu vodohospodársky významných vodných tokov, správcov drobných vodných tokov alebo právnickej osoby zriadenej alebo založenej štátom, ktorá spravuje vodné stavby podľa § 52 ods. 1 písm. a), b), c) a g) vo vlastníctve štátu z dôvodu, že dosiaľ nedošlo k ich majetkovoprávnemu usporiadaniu a nachádzajú sa pod vodnou stavbou podľa § 52 ods. 1 písm. a), b), c) a g) vo vlastníctve štátu, možno vo verejnom záujme vyvlastniť. Vyvlastňovacie konanie sa začína na návrh príslušného správcu vodnej stavby, pričom návrh na vyvlastnenie práv k takýmto pozemkom môže podať v mene štátu príslušný správca<sup>61ac</sup>) vodnej stavby do 31. decembra 2045.

@@ -242,6 +242,12 @@
 
 - 61a) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 61aa) Zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
+
+- 61ab) Napríklad vyhláška ministra zahraničných vecí č. 109/1978 Zb. o Zmluve medzi Československou socialistickou republikou a Maďarskou ľudovou republikou o výstavbe a prevádzke Sústavy vodných diel Gabčíkovo – Nagymaros.
+
+- 61ac) Napríklad zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. v znení neskorších predpisov, zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov.
+
 - 61b) Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 61c) Zákon č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
