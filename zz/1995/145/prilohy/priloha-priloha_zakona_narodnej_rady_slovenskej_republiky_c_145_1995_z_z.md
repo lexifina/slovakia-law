@@ -4374,7 +4374,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - a) | Vydanie povolenia na zaobchádzanie s omamnými látkami, psychotropnými látkami a prípravkami a určenými látkami kategórie 1 a registrácia prevádzkovateľov zaobchádzajúcich s určenými látkami kategórie 2 a 3 ..... | 50 eur
 
-  - b) | Zmena povolenia alebo registrácie vydaného podľa písmena a) ..... | 25 eur
+  - b) | Vyznačenie zmeny údajov uvedených v povolení alebo v registrácii podľa písmena a) ... | 25 eur
 
   - c) | Uznanie prírodnej liečivej vody alebo prírodnej minerálnej vody<sup>36be</sup>) alebo klimatických podmienok vhodných na liečenie<sup>36bf</sup>) Štátnou kúpeľnou komisiou Ministerstva zdravotníctva Slovenskej republiky (ďalej len „Štátna kúpeľná komisia“) ..... | 500 eur
 
