@@ -1,0 +1,17 @@
+Príloha č. 1 k vyhláške č. 350/2010 Z. z.
+
+- Rozsah technicko-bezpečnostnej skúšky stavby
+
+  - Technicko-bezpečnostná skúška sa vykonáva na stavbe dráhy, jej samostatnej časti alebo niektorej jej súčasti v rozsahu na
+
+  - a) tratiach overením geometrickej polohy koľají a výhybiek meracím vozňom, meraním absolútnej geometrickej polohy koľaje voči zaisťovacím značkám geodetickými pomôckami alebo koľajovým meracím zariadením s kontinuálnym meraním absolútnej geometrickej polohy koľaje, skúšobnou jazdou hnacím dráhovým vozidlom v oboch smeroch najvyššou traťovou rýchlosťou, skúšobnou jazdou dráhového vozidla pre meranie relevantných veličín z hľadiska vzťahov vozidla a dopravnej cesty dráhy, preukázaním predpísanej únosnosti pláne železničného spodku skúškami,
+
+  - b) zabezpečovacích zariadeniach a vedeniach prehliadkou a kontrolou vonkajších aj vnútorných častí zariadení vrátane merania technických parametrov zariadení a vykonávaním ich funkčných skúšok, overením úplnosti a správnosti vzájomných závislostí, prípadným overením činnosti zariadení skúšobnými jazdami hnacieho dráhového vozidla a vyhodnotením výsledkov týchto prehliadok, kontrol a meraní. Funkčné skúšky zabezpečovacieho zariadenia za prevádzky sa vykonávajú tak, aby neohrozili bezpečnosť prevádzkovania dráhy a dopravy na dráhe alebo bezpečnosť cestnej premávky,
+
+  - c) oznamovacích zariadeniach a vedeniach prehliadkou a kontrolou zariadení vrátane merania technických parametrov zariadení a overením ich funkčnosti,
+
+  - d) pevných elektrických trakčných a silnoprúdových zariadeniach vykonaním napäťových skúšok, na elektrických trakčných nadzemných vedeniach vykonaním skúšok mechanických (statických a dynamických) a elektrických vlastností, pričom overenie mechanických vlastností sa vykonáva skúšobnou jazdou v oboch smeroch traťovou rýchlosťou, na súvisiacich elektrotechnických zariadeniach dráhy overením bezpečnosti a prevádzkyschopnosti zariadení,
+
+  - e) stavbách a rekonštrukciách mostov a konštrukciách podobných mostom vykonaním hlavnej prehliadky alebo zaťažovacej skúšky na overenie projektovaných parametrov a správania sa konštrukcie pri extrémnom zaťažení,
+
+  - f) lanovej dráhe overením priestoru v obvode lanovej dráhy podľa projektu alebo dokumentácie skutočného vyhotovenia stavby lanovej dráhy, prístupov pre verejnosť, zabezpečenia vyhradeného obvodu lanovej dráhy proti vstupu nepovolaných osôb a sústavy informačných a orientačných prvkov. Posúdením opatrení, podľa miestnych podmienok, na letnú a zimnú prevádzku, na pravidelnú prevádzku v noci, posúdením úpravy nástupíšť a výstupíšť pre peších cestujúcich a cestujúcich s lyžami na nohách. Overením stanovených postupov pri uvedení lanovej dráhy do chodu, počas pravidelnej dopravy a pri skončení chodu lanovej dráhy. Preskúšaním funkcie všetkých druhov spojovacích a signalizačných zariadení lanovej dráhy vrátane rádiostaníc najmenej na vzdialenosť medzi stanicami. Vykonaním skúšky bŕzd lanovej dráhy bez zaťaženia a prekontrolovaní dĺžky brzdných dráh. Vykonaním jazdy, počas ktorej sa kontrolujú zariadenia na trati z vozidla lanovej dráhy. Vyskúšaním bezpečného nástupu a výstupu cestujúcich vo všetkých staniciach lanovej dráhy. Overením najvyššej prípustnej rýchlosti lanovej dráhy, overením najmenšieho časového intervalu medzi vozidlami lanovej dráhy a overením maximálneho prepravného výkonu lanovej dráhy. Preskúšaním záchranných zariadení a pomôcok, ich množstva a uloženia a vykonaním praktickej skúšky evakuácie cestujúcich z vozidiel tak, aby bolo možné overiť dodržanie časového limitu.
