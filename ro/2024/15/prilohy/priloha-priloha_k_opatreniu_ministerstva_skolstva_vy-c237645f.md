@@ -1,0 +1,1 @@
+Príloha k opatreniu Ministerstva školstva, výskumu, vývoja a mládeže Slovenskej republiky č. 15/2024 [Sumy maximálneho ročného školného na akademický rok 2025/2026 pre študijné programy v externej forme štúdia](../assets/c9475f88db8612cb266aa6d25595cec07213e4548e5832078f0d870ab1f94aa4.pdf)
