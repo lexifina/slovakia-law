@@ -12,11 +12,11 @@
 
 (4) Odseky 1 až 3 sa nepoužijú, ak celková hodnota aktív skupiny mimo územia členského štátu, ktoré má vo všetkých členských štátoch, je menej ako 40 000 000 000 eur.
 
-(5) Na účely odsekov 4, 6, 7 a § 122yc celkovou hodnotou aktív skupiny mimo územia členského štátu, ktoré má vo všetkých členských štátoch, je súčet celkovej hodnoty aktív
+(5) Na účely odsekov 4, 6, 7 a § 122yd celkovou hodnotou aktív skupiny mimo územia členského štátu, ktoré má vo všetkých členských štátoch, je súčet celkovej hodnoty aktív
 
-- a) každej inštitúcie, ktoré má vo všetkých členských štátoch skupina mimo územia členského štátu, ako vyplýva z jej konsolidovanej súvahy alebo z individuálnej súvahy, ak súvaha inštitúcie nie je konsolidovaná, a
+- a) každej inštitúcie, ktoré má vo všetkých členských štátoch skupina mimo územia členského štátu, ako vyplýva z jej konsolidovanej súvahy alebo z ich individuálnych súvah, ak súvaha inštitúcie nie je konsolidovaná, a
 
-- b) každej pobočky inštitúcie patriacej do skupiny mimo územia členského štátu, ktorej bolo udelené povolenie podľa tohto zákona, osobitných predpisov<sup>24i</sup>) alebo ktorej bolo udelené povolenie v súlade s právnymi predpismi iného členského štátu.
+- b) každej pobočky skupiny mimo územia členského štátu, ktorej bolo udelené povolenie podľa tohto zákona, osobitných predpisov<sup>24i</sup>) alebo ktorej bolo udelené povolenie v súlade s právnymi predpismi iného členského štátu.
 
 (6) Národná banka Slovenska oznámi Európskemu orgánu dohľadu (Európskemu orgánu pre bankovníctvo) o každej skupine mimo územia členského štátu, ktorá vykonáva činnosť na území Slovenskej republiky, tieto informácie:
 

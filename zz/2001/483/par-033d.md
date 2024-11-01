@@ -68,7 +68,7 @@
 
 - f) podkategória 6 vo výške 3,5 %.
 
-(13) Národná banka Slovenska môže bez toho, aby boli dotknuté odseky 1 a 12,
+(13) Národná banka Slovenska na základe posúdenia s využitím podkategórií a hraničných výsledkov podľa odseku 12 môže bez toho, aby boli dotknuté odseky 1 a 12,
 
 - a) preradiť G-SII z nižšej podkategórie do vyššej podkategórie,
 

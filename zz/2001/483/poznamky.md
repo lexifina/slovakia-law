@@ -138,6 +138,8 @@
 
 - 21a) Zákon č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov.
 
+- 21b) § 20 ods. 2 písm. h) zákona č. 297/2008 Z. z. v znení zákona č. 52/2018 Z. z.
+
 - 22a) § 54 a 55 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 22b) § 64 ods. 2 písm. j) zákona č. 492/2009 Z. z.
@@ -530,7 +532,7 @@
 
 - 39) Zákon č. 431/2002 Z. z. Opatrenie Ministerstva financií Slovenskej republiky z 10. decembra 2002 č. 21 832/2002-92, ktorým sa ustanovujú podrobnosti o usporiadaní, označovaní položiek individuálnej účtovnej závierky, obsahovom vymedzení týchto položiek a rozsahu údajov určených z účtovnej závierky na zverejnenie pre banky, pobočky zahraničných bánk, Národnú banku Slovenska, Fond ochrany vkladov, obchodníkov s cennými papiermi, pobočky zahraničných obchodníkov s cennými papiermi, Garančný fond investícií, správcovské spoločnosti, pobočky zahraničných správcovských spoločností a podielové fondy (oznámenie č. 738/2002 Z. z.).
 
-- 40) Zákon č. 540/2007 Z. z. v znení neskorších predpisov.
+- 40) Zákon č. 423/2015 Z. z. v znení neskorších predpisov.
 
 - 41) § 2 ods. 1 písm. c) a § 15 ods. 5 písm. c) zákona č. 466/2002 Z. z.
 
@@ -546,6 +548,10 @@
 
 - 44a) Čl. 28 nariadenia (EÚ) č. 1093/2010.
 
+- 44aa) Čl. 19 nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 44ab) Čl. 10a až 24 nariadenia (EÚ) č. 575/2013 v platnom znení.
+
 - 44b) Napríklad zákon č. 566/2001 Z. z. v znení neskorších predpisov, zákon č. 492/2009 Z. z. v znení neskorších predpisov, zákon č. 129/2010 Z. z. v znení neskorších predpisov, zákon č. 39/2015 Z. z. v znení neskorších predpisov.
 
 - 45) § 36 ods. 4 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 149/2001 Z. z.
@@ -557,6 +563,12 @@
 - 45aaa) § 138 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 45aaaa) Čl. 18 ods. 3 alebo 6 nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 45aaaaa) § 6 ods. 1 písm. b) až d), f) a g) zákona č. 566/2001 Z. z. v znení zákona č. 209/2007 Z. z.
+
+- 45aaab) § 138 ods. 2 písm. a) zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- 45aaac) § 138 až 143 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 45ab) Čl. 35 nariadenia (EÚ) č. 1093/2010.
 
