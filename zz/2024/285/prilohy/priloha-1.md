@@ -1,0 +1,1 @@
+Príloha č. 1 k rozhodnutiu predsedu Národnej rady Slovenskej republiky č. 285/2024 Z. z. [ZOZNAM OBCÍ, v ktorých sa vyhlasujú voľby do orgánov samosprávy obcí na 15. marca 2025](../assets/ac0bf9438df71a7341cb2950a327076465369cc622a012aba2d40986053def0d.pdf)

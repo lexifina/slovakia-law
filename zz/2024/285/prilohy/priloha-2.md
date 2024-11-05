@@ -1,0 +1,1 @@
+Príloha č. 2 k rozhodnutiu predsedu Národnej rady Slovenskej republiky č. 285/2024 Z. z. [LEHOTY na vykonanie volieb do orgánov samosprávy obcí 15. marca 2025](../assets/9892a24b48c318554ab2ac21b13ba82570dd5a0f590886a6e0a43423dcc3c721.pdf)
