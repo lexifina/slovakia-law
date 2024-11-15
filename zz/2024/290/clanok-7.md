@@ -1,0 +1,3 @@
+# Čl. VII
+
+Tento zákon nadobúda účinnosť 15. novembra 2024 okrem čl. I bodu 31, čl. II, čl. III bodov 1 až 32, 34 až 92, 94 až 99 a 101, čl. IV bodov 1 až 7, 9 až 32, 34 až 75, 77 až 85, 87 až 104, § 161r ods. 4 až 6 v bode 105 a bodu 106, čl. V a čl. VI, ktoré nadobúdajú účinnosť 1. januára 2025, čl. III bodu 100 a čl. IV § 161r ods. 3 v bode 105, ktoré nadobúdajú účinnosť 1. septembra 2025, čl. III bodov 33 a 93, ktoré nadobúdajú účinnosť 1. januára 2026, čl. IV bodu 33, ktorý nadobúda účinnosť 1. januára 2027, a čl. IV bodov 8 a 86, ktoré nadobúdajú účinnosť 1. septembra 2028.
