@@ -1,14 +1,12 @@
 - 1) § 27 ods. 3 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
 
-- 2b) § 27 ods. 2 písm. a), § 95 ods. 1 písm. a) a § 104 ods. 1 písm. a) zákona č. 245/2008 Z. z.
-
 - 5) § 15 zákona č. 596/2003 Z. z.
 
 - 5b) § 3 zákona č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov.
 
 - 5c) Zákon č. 417/2013 Z. z. v znení neskorších prepisov.
 
-- 6) § 6 ods. 1, § 9 ods. 1 a § 10 ods. 1 písm. a) až c) a e) až h) zákona č. 596/2003 Z. z. v znení zákona č. 325/2012 Z. z.
+- 6) § 6 ods. 1 písm. b), § 9 ods. 1 písm. a) a c) a § 10 ods. 1 písm. b), c), e) až h) a j) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
 - 7) § 64 ods. 3 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
 
@@ -40,6 +38,8 @@
 
 - 20) Napríklad § 476 až 480 Občianskeho zákonníka.
 
+- 20a) § 28 ods. 17 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
+
 - 20b) § 13 ods. 4 zákona č. 245/2008 Z. z. v znení zákona č. 415/2021 Z. z.
 
 - 21) § 76a Zákonníka práce v znení zákona č. 257/2011 Z. z.
@@ -60,6 +60,8 @@
 
 - 22daa) § 145b ods. 10 písm. a) zákona č. 245/2008 Z. z. v znení zákona č. 182/2023 Z. z.
 
+- 22db) § 79a zákona č. 138/2019 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov v znení zákona č. 291/2024 Z. z.
+
 - 22e) Napríklad § 226 ods. 2 Zákonníka práce, § 4 ods. 1 písm. e) a t) zákona č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 22f) Napríklad § 86 ods. 1 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon), § 5 ods. 2 písm. h) zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení zákona č. 245/2008 Z. z., § 10 ods. 9 a § 14 ods. 3 zákona č. 583/2004 Z. z. o rozpočtových pravidlách územnej samosprávy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -70,21 +72,11 @@
 
 - 23) § 117 zákona č. 245/2008 Z. z.
 
-- 23a) § 117 a 139 zákona č. 245/2008 Z. z.
-
 - 23b) § 139 zákona č. 245/2008 Z. z.
 
 - 23c) § 27 ods. 2 písm. b), § 95 ods. 1 písm. b) a § 104 ods. 1 písm. b) zákona č. 245/2008 Z. z.
 
 - 23d) § 27 ods. 2 písm. c), § 95 ods. 1 písm. c) až e) a § 104 ods. 1 písm. c) zákona č. 245/2008 Z. z.
-
-- 23g) § 2 písm. c) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 23h) § 4 ods. 1 písm. e) a t) zákona č. 553/2003 Z. z. v znení neskorších predpisov.
-
-- 23ha) § 28 ods. 16 zákona č. 245/2008 Z. z. v znení zákona č. 390/2011 Z. z.
-
-- § 4 ods. 9 vyhlášky Ministerstva školstva Slovenskej republiky č. 306/2008 Z. z. o materskej škole.
 
 - 23i) § 8a zákona č. 523/2004 Z. z. v znení neskorších predpisov.
 
@@ -124,9 +116,11 @@
 
 - § 2 ods. 1 písm. c) nariadenia vlády Slovenskej republiky č. 668/2004 Z. z. o rozdeľovaní výnosu dane z príjmov územnej samospráve v znení neskorších predpisov.
 
-- 24f) § 53 zákona č. 317/2009 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov v znení zákona č. 390/2011 Z. z.
+- 24f) § 79 zákona č. 138/2019 Z. z.
 
 - 24fa) § 29 ods. 5, § 33 ods. 1, § 97 ods. 6, § 98 ods. 3, § 99 ods. 4 a § 100 ods. 8 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
+
+- 24fb) § 17 ods. 6 zákona č. 596/2003 Z. z. v znení zákona č. 290/2024 Z. z.
 
 - 24g) § 5 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 

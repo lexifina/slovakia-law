@@ -1,6 +1,6 @@
 # § 8c Dohodovacie konanie
 
-(1) Ministerstvo môže v rámci dohodovacieho konania so zriaďovateľom na jeho žiadosť upraviť v rámci kapitoly ministerstva objem pridelených finančných prostriedkov. Dohodovacím konaním je úprava výšky pridelených finančných prostriedkov zriaďovateľovi podľa § 4 o objem finančných prostriedkov pridelený najmä z dôvodu
+(1) Ministerstvo môže v rámci dohodovacieho konania so zriaďovateľom na jeho žiadosť upraviť v rámci kapitoly ministerstva objem pridelených finančných prostriedkov. Dohodovacím konaním je úprava výšky pridelených finančných prostriedkov zriaďovateľovi podľa § 4, § 5 a 5a o objem finančných prostriedkov pridelený najmä z dôvodu
 
 - a) nedostatku finančných prostriedkov na osobné náklady a na prevádzkové náklady,
 
@@ -10,7 +10,7 @@
 
 (2) Dohodovacie konanie sa začína na žiadosť zriaďovateľa. Žiadosť predkladá zriaďovateľ ministerstvu prostredníctvom príslušného regionálneho úradu v priebehu kalendárneho roka.
 
-(3) Žiadosť zriaďovateľa podľa odseku 1 písm. a) obsahuje najmä zdôvodnenie nedostatku finančných prostriedkov poskytnutých školám, štátnym materským školám, štátnym školským zariadeniam, cirkevným zariadeniam poradenstva a prevencie a súkromným zariadeniam poradenstva a prevencie
+(3) Žiadosť zriaďovateľa podľa odseku 1 písm. a) obsahuje najmä zdôvodnenie nedostatku finančných prostriedkov poskytnutých školám, materským školám, štátnym školským zariadeniam, cirkevným zariadeniam poradenstva a prevencie a súkromným zariadeniam poradenstva a prevencie
 
 - a) na osobné náklady,
 
@@ -42,4 +42,4 @@
 
 (9) Ministerstvo každoročne zverejňuje zoznam zriaďovateľov, ktorým boli pridelené finančné prostriedky na účely podľa odseku 1 písm. a), a výšku pridelených finančných prostriedkov na svojom webovom sídle. Tento zoznam aktualizuje ministerstvo najneskôr do piatich pracovných dní po uplynutí kalendárneho štvrťroku.
 
-(10) Ministerstvo každoročne zverejňuje na svojom webovom sídle metodiku prideľovania finančných prostriedkov zriaďovateľom škôl, v ktorých sa vzdelávanie považuje za sústavnú prípravu na povolanie, štátnych materských škôl, štátnych školských zariadení, cirkevných zariadení poradenstva a prevencie a súkromných zariadení poradenstva a prevencie.
+(10) Ministerstvo každoročne zverejňuje na svojom webovom sídle metodiku prideľovania finančných prostriedkov zriaďovateľom škôl, v ktorých sa vzdelávanie považuje za sústavnú prípravu na povolanie, materských škôl, štátnych školských zariadení, cirkevných zariadení poradenstva a prevencie a súkromných zariadení poradenstva a prevencie.

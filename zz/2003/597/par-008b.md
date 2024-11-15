@@ -10,21 +10,17 @@
 
   - 3. rozpis normatívnych finančných prostriedkov na kalendárny rok pre jednotlivé zariadenia poradenstva a prevencie v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 6aa ods. 5,
 
-  - 4. rozpis finančných prostriedkov pridelených prostredníctvom príspevku na výchovu a vzdelávanie na kalendárny rok pre jednotlivé materské školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 6b ods. 6 písm. a),
+  - 4. predloženie správy o hospodárení regionálnemu úradu podľa § 7 ods. 1,
 
-  - 5. úpravu finančných prostriedkov pridelených prostredníctvom príspevku na výchovu a vzdelávanie na nový školský rok pre jednotlivé materské školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 6b ods. 6 písm. b),
+  - 5. predloženie údajov o počtoch detí alebo žiakov a ďalších údajov podľa § 7 ods. 4 alebo
 
-  - 6. predloženie správy o hospodárení regionálnemu úradu podľa § 7 ods. 1,
-
-  - 7. predloženie údajov o počtoch detí alebo žiakov a ďalších údajov podľa § 7 ods. 4 alebo
-
-  - 8. rozpis finančných prostriedkov školám a školským zariadeniam vo svojej zriaďovateľskej pôsobnosti podľa § 7 ods. 12 písm. a) a ods. 13,
+  - 6. rozpis finančných prostriedkov školám a školským zariadeniam vo svojej zriaďovateľskej pôsobnosti podľa § 7 ods. 13 písm. a) a ods. 14,
 
 - b) pokutu 200 eur za neoznámenie výšky normatívnych finančných prostriedkov na kalendárny rok alebo na nový školský rok pre jednotlivé školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 4 ods. 11,
 
-- c) súkromnej školy, súkromného školského zariadenia, cirkevnej školy alebo cirkevného školského zariadenia pokutu vo výške sumy, ktorá zodpovedá sume použitej inak, ako ustanovil zákon, za nedodržanie účelu použitia
+- c) cirkevnej školy, súkromnej školy, cirkevnej materskej školy, súkromnej materskej školy, cirkevného zariadenia poradenstva a prevencie alebo súkromného zariadenia poradenstva a prevencie pokutu vo výške sumy, ktorá zodpovedá sume použitej inak, ako ustanovil zákon, za nedodržanie účelu použitia
 
-  - 1. normatívnych finančných prostriedkov podľa § 2 ods. 4, § 6 ods. 3, § 6a ods. 3 alebo § 6aa ods. 3,
+  - 1. normatívnych finančných prostriedkov podľa § 2 ods. 4, § 6 ods. 3, § 6a ods. 3, § 6aa ods. 3 alebo § 6ab ods. 4,
 
   - 2. príspevku na dopravu,
 
@@ -48,9 +44,11 @@
 
   - 2. príspevku na špecifiká,
 
-  - 3. finančných prostriedkov na realizáciu rozvojových projektov,
+  - 3. príspevku na súčasti výchovno-vzdelávacieho procesu materskej školy,
 
-  - 4. príspevku na podporné opatrenie,
+  - 4. finančných prostriedkov na realizáciu rozvojových projektov,
+
+  - 5. príspevku na podporné opatrenie,
 
 - e) pokutu 2 000 eur za nevypracovanie správy o hospodárení podľa § 7 ods. 2 a 3,
 
@@ -62,21 +60,17 @@
 
 - a) zriaďovateľovi<sup>24ca</sup>) školy alebo školského zariadenia za
 
-  - 1. neposkytnutie údajov potrebných na rozdeľovanie a poukazovanie výnosu dane z príjmov obciam podľa § 7a ods. 1 až 5 pokutu 3 000 eur,
+  - 1. neposkytnutie údajov potrebných na rozdeľovanie a poukazovanie výnosu dane z príjmov obciam podľa § 7a ods. 1 až 5 pokutu 3 000 eur alebo
 
-  - 2. nedodržanie lehoty určenej na predloženie údajov podľa § 7a ods. 6 pokutu 300 eur alebo
-
-  - 3. poskytnutie nepravdivých údajov potrebných na rozdeľovanie a poukazovanie výnosu dane z príjmov obciam podľa § 7a ods. 1 až 5 pokutu od 300 eur do 33 000 eur,
+  - 2. poskytnutie nepravdivých údajov potrebných na rozdeľovanie a poukazovanie výnosu dane z príjmov obciam podľa § 7a ods. 1 až 5 pokutu od 300 eur do 33 000 eur,
 
 - b) obci za
 
-  - 1. neposkytnutie údajov potrebných na rozdeľovanie a poukazovanie výnosu dane z príjmov obciam podľa § 7a ods. 1 až 5 pokutu 3 000 eur,
+  - 1. neposkytnutie údajov potrebných na rozdeľovanie a poukazovanie výnosu dane z príjmov obciam podľa § 7a ods. 1 až 5 pokutu 3 000 eur alebo
 
-  - 2. nedodržanie lehoty určenej na predloženie údajov podľa § 7a ods. 7 písm. a) pokutu 300 eur alebo
+  - 2. poskytnutie nepravdivých údajov potrebných na rozdeľovanie a poukazovanie výnosu dane z príjmov obciam za školy a školské zariadenia vo svojej zriaďovateľskej pôsobnosti podľa § 7a ods. 1 až 5 pokutu od 300 eur do 33 000 eur.
 
-  - 3. poskytnutie nepravdivých údajov potrebných na rozdeľovanie a poukazovanie výnosu dane z príjmov obciam za školy a školské zariadenia vo svojej zriaďovateľskej pôsobnosti podľa § 7a ods. 1 až 5 pokutu od 300 eur do 33 000 eur.
-
-(3) Ministerstvo alebo regionálny úrad pri určení výšky pokuty podľa odseku 1 písm. f) a g) a odseku 2 písm. a) tretieho bodu a písm. b) tretieho bodu prihliada na závažnosť, spôsob a rozsah porušenia povinnosti, na následky takého porušenia a ich trvanie.
+(3) Ministerstvo alebo regionálny úrad pri určení výšky pokuty podľa odseku 1 písm. f) a g) a odseku 2 písm. a) druhého bodu a písm. b) druhého bodu prihliada na závažnosť, spôsob a rozsah porušenia povinnosti, na následky takého porušenia a ich trvanie.
 
 (4) Uložením pokuty nezaniká povinnosť, za ktorej porušenie sa uložila. Ministerstvo alebo regionálny úrad môže uložiť pokutu aj opakovane, a to až do odstránenia nezákonného stavu.
 

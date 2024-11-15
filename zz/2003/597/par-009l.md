@@ -60,7 +60,7 @@
 
 (11) Ministerstvo na základe predložených podkladov a objemu finančných prostriedkov ustanovených zákonom o štátnom rozpočte zverejní na svojom webovom sídle do 30 pracovných dní po nadobudnutí účinnosti zákona o štátnom rozpočte údaje a postup, ktoré boli použité pri rozpise finančných prostriedkov zriaďovateľom registrovaných zariadení.
 
-(12) Celkový objem finančných prostriedkov na bežné výdavky vyčlenený na účely tohto paragrafu v príslušnom kalendárnom roku sa zohľadňuje na účely § 7 ods. 7 rovnako ako celkový objem finančných prostriedkov na bežné výdavky vyčlenený na účely príspevku na výchovu a vzdelávanie detí materských škôl.
+(12) Celkový objem finančných prostriedkov na bežné výdavky vyčlenený na účely tohto paragrafu v príslušnom kalendárnom roku sa zohľadňuje na účely § 7 ods. 8.
 
 (13) Ministerstvo a regionálny úrad školskej správy pri výkone dohľadu kontrolujú správnosť použitia metód a postupov pri financovaní registrovaných zariadení.
 

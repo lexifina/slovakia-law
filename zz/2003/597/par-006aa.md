@@ -1,6 +1,6 @@
 # § 6aa Financovanie cirkevných zariadení poradenstva a prevencie a súkromných zariadení poradenstva a prevencie
 
-(1) Pri financovaní cirkevných zariadení poradenstva a prevencie a súkromných zariadení poradenstva a prevencie, ktoré sa uskutočňuje z kapitoly ministerstva, sa postupuje podľa § 4af, § 4d, § 4e a § 5 ods. 4.
+(1) Pri financovaní cirkevných zariadení poradenstva a prevencie a súkromných zariadení poradenstva a prevencie, ktoré sa uskutočňuje z kapitoly ministerstva, sa postupuje podľa § 4af, § 4d, § 4e a § 5 ods. 6.
 
 (2) Podmienkou na pridelenie finančných prostriedkov podľa odseku 1 na nasledujúci kalendárny rok je vypracovanie správy o hospodárení zariadenia poradenstva a prevencie za predchádzajúci rok podľa § 7 ods. 2 a 3, ak počas neho už pôsobilo, a jej predloženie podľa § 7 ods. 1 prostredníctvom zriaďovateľa príslušnému regionálnemu úradu.
 
