@@ -3,3 +3,5 @@
 - 2) § 85 ods. 5 až 7 Zákonníka práce.
 
 - 3) § 3 ods. 2 a 3 zákona č. 103/2007 Z. z. o trojstranných konzultáciách na celoštátnej úrovni a o zmene a doplnení niektorých zákonov (zákon o tripartite).
+
+- 4) Napríklad § 35b zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 4 ods. 3 písm. f) zákona č. 103/2007 Z. z.
