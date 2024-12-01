@@ -12,6 +12,18 @@
 
 - 7) § 663 až 723 Občianskeho zákonníka.
 
+- 7a) § 3 ods. 4 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
+
+- 7b) § 13 ods. 9 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. v znení neskorších predpisov.
+
+- 7c) § 151n až 151p Občianskeho zákonníka.
+
+- 7d) § 13a zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. v znení neskorších predpisov.
+
+- 7e) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku v znení neskorších predpisov.
+
+- 7f) § 3a a 3c zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. v znení neskorších predpisov.
+
 - 8) Obchodný zákonník.
 
 - 9) § 13 ods. 13 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení zákona č.161/2003 Z. z.
@@ -39,8 +51,6 @@
 - 20) § 54 zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení zákona č. 37/2002 Z. z.
 
 - 21) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
-
-- 22) § 2 písm. j) zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení zákona č. 136/2004 Z. z.
 
 - 23) § 4 ods. 1, § 5 ods. 2 a § 34 až 37 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení zákona č. 255/2001 Z. z.
 
