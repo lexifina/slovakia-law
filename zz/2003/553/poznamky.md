@@ -34,6 +34,8 @@
 
 - 11aa) § 28 ods. 2 a § 39 zákona č. 138/2019 Z. z.
 
+- 11aaa) § 84 ods. 8 písm. e) zákona č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
 - 11ab) § 10 zákona č. 138/2019 Z. z.
 
 - 11ac) Zákon č. 305/2005 Z. z. v znení neskorších predpisov.
