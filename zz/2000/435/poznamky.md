@@ -26,6 +26,10 @@
 
 - 1bea) Dohovor o práci v námornej doprave, 2006 (oznámenie Ministerstva zahraničných vecí a európskych záležitostí Slovenskej republiky č. 319/2018 Z. z.).
 
+- 1beb) Kapitola II-1 časť B Medzinárodného dohovoru o bezpečnosti ľudského života na mori (SOLAS 1974) v platnom znení (oznámenie Ministerstva zahraničných vecí a európskych záležitostí Slovenskej republiky č. 224/2021 Z. z.).
+
+- Nariadenie vlády Slovenskej republiky č. 580/2006 Z. z. o špecifických požiadavkách na stabilitu osobných lodí ro-ro v znení neskorších predpisov.
+
 - 1bf) Nariadenie Európskeho parlamentu a Rady (ES) č. 392/2009.
 
 - 1bg) § 8a ods. 5 nariadenia vlády Slovenskej republiky č. 67/2007 Z. z. o monitorovacom a informačnom systéme pre námornú plavbu v znení nariadenia vlády Slovenskej republiky č. 441/2010 Z. z.
@@ -43,6 +47,10 @@
 - 1bj) § 26 písm. h) zákona č. 56/2018 Z. z. o posudzovaní zhody výrobku, sprístupňovaní určeného výrobku na trhu a o zmene a doplnení niektorých zákonov.
 
 - Nariadenie vlády Slovenskej republiky č. 262/2016 Z. z. o vybavení námorných lodí.
+
+- 1bja) Nariadenie vlády Slovenskej republiky č. 262/2016 Z. z. v znení neskorších predpisov.
+
+- 1bjb) § 9 až 13 nariadenia vlády Slovenskej republiky č. 262/2016 Z. z. v znení nariadenia vlády slovenskej republiky č. 327/2019 Z. z.
 
 - 1bk) § 27 až 29 zákona č. 56/2018 Z. z.
 

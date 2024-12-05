@@ -39,3 +39,5 @@ Príloha č. 1 k zákonu č. 435/2000 Z. z.
   - 18. Smernica Európskeho parlamentu a Rady (EÚ) 2019/883 zo 17. apríla 2019 o prístavných zberných zariadeniach na vykladanie odpadu z lodí, ktorou sa mení smernica 2010/65/EÚ a zrušuje smernica 2000/59/ES (Ú. v. EÚ L 151, 7. 6. 2019).
 
   - 19. Smernica Európskeho parlamentu a Rady (EÚ) 2019/1159 z 20. júna 2019, ktorou sa mení smernica 2008/106/ES o minimálnej úrovni prípravy námorníkov a zrušuje smernica 2005/45/ES o vzájomnom uznávaní osvedčení námorníkov vydávaných v členských štátoch (Ú. v. EÚ L 188, 12. 7. 2019).
+
+  - 20. Smernica Európskeho parlamentu a Rady (EÚ) 2023/946 z 10. mája 2023, ktorou sa mení smernica 2003/25/ES, pokiaľ ide o začlenenie požiadaviek na zlepšenú stabilitu a zosúladenie uvedenej smernice s požiadavkami na stabilitu vymedzenými Medzinárodnou námornou organizáciou (Ú. v. EÚ L 128, 15. 5. 2023).
