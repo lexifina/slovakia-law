@@ -1,0 +1,1 @@
+- 1) Porovnaj ŠAMKO, P. Zásada trikrát a dosť a trest zákazu činnosti. In: Právne listy, 25. októbra 2017.
