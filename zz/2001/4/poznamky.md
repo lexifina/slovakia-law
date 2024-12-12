@@ -120,9 +120,9 @@
 
 - 17i) § 5 písm. f) zákona č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
 
-- 18) § 4 ods. 4 zákona č. 154/2010 Z. z. o európskom zatýkacom rozkaze.
+- 18) § 69ga až 69gf zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení zákona č. 299/2024 Z. z.
 
-- 18a) § 10 zákona č. 18/2018 Z. z.
+- 18a) Napríklad Dohoda medzi Radou Európskej únie a Islandskou republikou a Nórskym kráľovstvom o pridružení týchto dvoch štátov pri vykonávaní, uplatňovaní a rozvoji schengenského acquis (Ú. v. ES L 176, 10. 7. 1999; Mimoriadne vydanie Ú. v. EÚ, kap. 11/zv. 32).
 
 - 18b) § 2 písm. d) zákona č. 475/2005 Z. z.
 
