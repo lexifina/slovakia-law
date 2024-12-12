@@ -8,4 +8,6 @@ Príloha č. 5 k zákonu č. 171/1993 Z. z.
 
   - 3. Smernica Európskeho parlamentu a Rady (EÚ) 2016/681 z 27. apríla 2016 o využívaní údajov zo záznamov o cestujúcich (PNR) na účely prevencie, odhaľovania, vyšetrovania a stíhania teroristických trestných činov a závažnej trestnej činnosti (Ú. v. EÚ L 119, 4. 5. 2016).
 
-  - 4. Rámcové rozhodnutie Rady 2006/960/SVV z 18. decembra 2006 o zjednodušení výmeny informácií a spravodajských informácií medzi orgánmi členských štátov Európskej únie činnými v trestnom konaní (Ú. v. EÚ L 386, 29. 12. 2006).
+  - 4. Rámcové rozhodnutie Rady 2009/905/SVV z 30. novembra 2009 o akreditácii poskytovateľov forenzných služieb vykonávajúcich laboratórne činnosti (Ú. v. EÚ L 322, 9. 12. 2009).
+
+  - 5. Smernica Európskeho parlamentu a Rady (EÚ) 2023/977 z 10. mája 2023 o výmene informácií medzi orgánmi presadzovania práva členských štátov a zrušení rámcového rozhodnutia Rady 2006/960/SVV (Ú. v. EÚ L 134, 22. 5. 2023).
