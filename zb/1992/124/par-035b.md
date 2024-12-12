@@ -32,7 +32,7 @@
 
 - i) ďalším právnickým osobám a fyzickým osobám, len ak je to nevyhnutné na plnenie ich úloh podľa osobitného zákona,
 
-- j) do zahraničia podľa § 35ga až 35gc.
+- j) do zahraničia podľa § 35ga.
 
 (5) Vojenská polícia poskytuje vedúcemu služobného úradu alebo veliteľovi informácie a osobné údaje, ktoré získala pri plnení svojich úloh o
 
