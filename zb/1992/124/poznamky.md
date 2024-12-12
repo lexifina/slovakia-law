@@ -90,11 +90,9 @@
 
 - 5i) § 22 a 23 Trestného zákona.
 
-- 5j) § 4 ods. 4 zákona č. 154/2010 Z. z. o európskom zatýkacom rozkaze-
+- 5j) § 69ga až 69gf zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení zákona č. 299/2024 Z. z.
 
-- 5k) Trestný poriadok.
-
-- Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 5k) Napríklad Dohoda medzi Radou Európskej únie a Islandskou republikou a Nórskym kráľovstvom o pridružení týchto dvoch štátov pri vykonávaní, uplatňovaní a rozvoji schengenského acquis (Ú. v. ES L 176, 10. 7. 1999; Mimoriadne vydanie Ú. v. EÚ, kap. 11/zv. 32).
 
 - 7) § 209 až 215 zákona č. 281/2015 Z. z.
 
