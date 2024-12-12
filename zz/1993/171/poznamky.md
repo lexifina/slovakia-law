@@ -54,7 +54,9 @@
 
 - 11bb) § 4 ods. 1 písm. a) zákona č. 428/2002 Z. z. v znení zákona č. 602/2003 Z. z.
 
-- 11bc) Zákon č. 428/2002 Z. z. v znení zákona č. 602/2003 Z. z.
+- 11bc) Nariadenie (EÚ) 2016/679.
+
+- Zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 11bd) Napríklad Trestný poriadok.
 
@@ -158,13 +160,29 @@
 
 - 27dd) Napríklad rozhodnutie Rady 2008/615/SVV z 23. júna 2008 o zintenzívnení cezhraničnej spolupráce, najmä v boji proti terorizmu a cezhraničnej trestnej činnosti (Ú. v. EÚ L 210, 6. 8. 2008).
 
-- 27e) § 4 ods. 8 zákona č. 403/2004 Z. z. o európskom zatýkacom rozkaze a o zmene a doplnení niektorých zákonov.
-
 - 27ea) Napríklad Dohoda medzi Radou Európskej únie a Islandskou republikou a Nórskym kráľovstvom o pridružení týchto dvoch štátov pri vykonávaní, uplatňovaní a rozvoji schengenského acquis (Mimoriadne vydanie Ú. v. EÚ, kap. 11/zv. 32).
 
 - 27eb) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) 2016/794 z 11. mája 2016 o Agentúre Európskej únie pre spoluprácu v oblasti presadzovania práva (Europol), ktorým sa nahrádzajú a zrušujú rozhodnutia Rady 2009/371/SVV, 2009/934/SVV, 2009/935/SVV, 2009/936/SVV a 2009/968/SVV (Ú. v. EÚ L 135, 24. 5. 2016),
 
 - rozhodnutie Rady 2008/615/SVV z 23. júna 2008 o zintenzívnení cezhraničnej spolupráce, najmä v boji proti terorizmu a cezhraničnej trestnej činnosti (Ú. v. EÚ L 210, 6. 8. 2008).
+
+- 27eba) Napríklad Zmluva medzi Slovenskou republikou a Rakúskou republikou o policajnej spolupráci (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 252/2005 Z. z.).
+
+- 27ebb) Napríklad Trestný poriadok, zákon č. 154/2010 Z. z. o európskom zatýkacom rozkaze v znení neskorších predpisov, zákon č. 236/2017 Z. z. o európskom vyšetrovacom príkaze v trestných veciach a o zmene a doplnení niektorých zákonov v znení zákona č. 150/2022 Z. z.
+
+- 27ebc) Nariadenie (EÚ) 2016/794 v platnom znení.
+
+- 27ebd) Príloha II oddiel B k nariadeniu (EÚ) 2016/794 v platnom znení.
+
+- 27ebe) § 58 zákona č. 18/2018 Z. z.
+
+- 27ebf) Čl. 19 a 29 nariadenia (EÚ) 2016/794 v platnom znení.
+
+- § 58 zákona č. 18/2018 Z. z.
+
+- 27ebg) § 4 ods. 4 zákona č. 154/2010 Z. z.
+
+- 27ebh) Príloha I k nariadeniu (EÚ) 2016/794 v platnom znení.
 
 - 27ec) Čl. 3 písm. g) nariadenia Európskeho parlamentu a Rady (ES) č. 785/2004 z 21. apríla 2004 o požiadavkách na poistenie leteckých dopravcov a prevádzkovateľov lietadiel (Ú. v. ES L 138, 30. 4. 2004) v platnom znení.
 
