@@ -160,6 +160,8 @@
 
 - 35) § 8 až 27 zákona č. 293/2007 Z. z.
 
+- 35a) § 20 a 21 zákona č. 192/2023 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 36) § 15 ods. 1 písm. c) zákona č. 355/2007 Z. z.
 
 - 36a) § 3 zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
