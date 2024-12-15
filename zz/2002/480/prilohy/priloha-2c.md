@@ -1,3 +1,3 @@
 Príloha č. 2c k zákonu č. 480/2002 Z. z.
 
-- [Príloha č. 2c k zákonu č. 480/2002 Z. z.](../assets/51a588d5fd332550e55473bb500c21a1a2dea6b86e1dd378bffe9ed117c64af6.pdf)
+- [Príloha č. 2c k zákonu č. 480/2002 Z. z.](../assets/d428ea1a5126192a2d45f9a141816655ecfe658e731f3b505692e87b12328a74.pdf)

@@ -62,7 +62,11 @@
 
 - 13ba) § 2 ods. 4 zákona č. 404/2011 Z. z.
 
+- 13baa) § 59 ods. 15 zákona č. 404/2011 Z. z. v znení zákona č. 342/2024 Z. z.
+
 - 13bb) § 10 zákona č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 13bba) § 73 ods. 13 zákona č. 404/2011 Z. z. v znení zákona č. 342/2024 Z. z.
 
 - 13bc) § 3n nariadenia vlády Slovenskej republiky č. 131/2022 Z. z. o niektorých opatreniach v oblasti dotácií v pôsobnosti Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky v čase mimoriadnej situácie, núdzového stavu alebo výnimočného stavu vyhláseného v súvislosti s hromadným prílevom cudzincov na územie Slovenskej republiky spôsobeným ozbrojeným konfliktom na území Ukrajiny v znení nariadenia vlády Slovenskej republiky č. 416/2022 Z. z.
 

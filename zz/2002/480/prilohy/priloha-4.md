@@ -1,1 +1,1 @@
-Príloha č. 4 k zákonu č. 480/2002 Z. z. [Vzor 05](../assets/74866a9861a4e07cec3ac7c245c418a46c23c4f41c535461cc913bd1eb9914e0.pdf)
+Príloha č. 4 k zákonu č. 480/2002 Z. z. [Vzor 05](../assets/88636bb3ad1b07c7522f7da9c44ff7aa669087d9648c3460745118c0aa8ad7d0.pdf)

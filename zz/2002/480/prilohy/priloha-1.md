@@ -1,1 +1,1 @@
-Príloha č. 1 k zákonu č. 480/2002 Z. z. [Príloha č. 1 k zákonu č. 480/2002 Z. z.](../assets/bc6a7e21ac5c4735d57b786dfb4d3920f6d02e1d9463d7a437d30a1fb90884c5.pdf)
+Príloha č. 1 k zákonu č. 480/2002 Z. z. [Príloha č. 1 k zákonu č. 480/2002 Z. z.](../assets/abd165ea6572d060040d9d86e6e3b7697a846444bf616493b520bb9a2b959dee.pdf)
