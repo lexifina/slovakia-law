@@ -126,7 +126,9 @@
 
 - 23) § 26 zákona č. 131/2010 Z. z. o pohrebníctve.
 
-- 23a) Zákon č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 315/2012 Z. z.
+- 23a) Čl. 2 ods.1 písm. c) nariadenia Európskeho parlamentu a Rady (ES) č. 852/2004 z 29. apríla 2004 o hygiene potravín (Ú. v. EÚ L 139, 30. 4. 2004) v platnom znení.
+
+- 23b) Čl. 3 ods. 2 nariadenia Európskeho parlamentu a Rady (ES) č. 178/2002 z 28. januára 2002, ktorým sa ustanovujú všeobecné zásady a požiadavky potravinového práva, zriaďuje Európsky úrad pre bezpečnosť potravín a stanovujú postupy v záležitostiach bezpečnosti potravín (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 6; Ú. v. ES L 31, 1. 2. 2002) v platnom znení.
 
 - 24) Čl. 3 ods. 2 nariadenia Európskeho parlamentu a Rady (ES) č. 178/2002 z 28. januára 2002, ktorým sa ustanovujú všeobecné zásady a požiadavky potravinového práva, zriaďuje Európsky úrad pre bezpečnosť potravín a stanovujú postupy v záležitostiach bezpečnosti potravín (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 6; Ú. v. ES L 31, 1. 2. 2002) v platnom znení.
 
