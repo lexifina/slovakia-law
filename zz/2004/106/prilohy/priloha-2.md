@@ -1,1 +1,1 @@
-Príloha č. 2 k zákonu č. 106/2004 Z. z. [Príloha č. 2 k zákonu č. 106/2004 Z. z.](../assets/5c504068d006e6a33b7a7d2ee1c2f44380175baf7511ed41c7cde8b87c5c49bd.pdf)
+Príloha č. 2 k zákonu č. 106/2004 Z. z. [Príloha č. 2 k zákonu č. 106/2004 Z. z.](../assets/da5c172d9ea169f22fd2379b4065da7fa363767b54c5c9ff7094a60cddb2a854.pdf)
