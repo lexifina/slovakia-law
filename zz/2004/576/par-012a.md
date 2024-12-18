@@ -1,6 +1,6 @@
 # § 12a Dočasná pracovná neschopnosť
 
-(1) Dočasnú pracovnú neschopnosť osoby posudzuje a rozhoduje o nej príslušný ošetrujúci lekár, ktorým je
+(1) Ak v odseku 19 alebo 20 nie je ustanovené inak, dočasnú pracovnú neschopnosť osoby posudzuje a rozhoduje o nej príslušný ošetrujúci lekár, ktorým je
 
 - a) všeobecný lekár (§ 8 ods. 3), s ktorým má osoba uzatvorenú dohodu o poskytovaní zdravotnej starostlivosti podľa § 12, ak ide o posudzovanie a rozhodovanie o dočasnej pracovnej neschopnosti osoby pri poskytovaní všeobecnej ambulantnej starostlivosti,
 
@@ -43,3 +43,7 @@
 (16) Ak na poskytnutú neodkladnú starostlivosť podľa odseku 15 nadväzuje ústavná starostlivosť v Slovenskej republike, dočasnú pracovnú neschopnosť osoby potvrdzuje ošetrujúci lekár podľa odseku 1 písm. b). Ošetrujúci lekár podľa odseku 1 písm. b) vystaví potvrdenie o dočasnej pracovnej neschopnosti spätne, pričom dátum začiatku dočasnej pracovnej neschopnosti určí podľa lekárskej správy.
 
 (17) Ak z technických príčin nie je možné, aby príslušný ošetrujúci lekár vystavil potvrdenie o dočasnej pracovnej neschopnosti vytvorením elektronického záznamu o dočasnej pracovnej neschopnosti alebo iným spôsobom podľa ustanovení tohto paragrafu elektronický záznam o vzniku dočasnej pracovnej neschopnosti upravil a možno predpokladať, že technická príčina bude trvať viac ako tri kalendárne dni, vystaví odpis potvrdenia o dočasnej pracovnej neschopnosti na predpísanom tlačive;<sup>14a</sup>) technickou príčinou je, ak je informačný systém poskytovateľa nefunkčný alebo je nefunkčný národný zdravotnícky informačný systém.
+
+(19) Počas mimoriadnej situácie vyhlásenej z dôvodu kritickej nedostupnosti ústavnej zdravotnej starostlivosti<sup>14e</sup>) posudzuje a rozhoduje o dočasnej pracovnej neschopnosti lekára, sestry, pôrodnej asistentky, rádiologického technika, praktickej sestry – asistenta a sanitára, ktorým bola počas mimoriadnej situácie vyhlásenej z dôvodu kritickej nedostupnosti ústavnej zdravotnej starostlivosti<sup>14e</sup>) zákonom uložená povinnosť poskytovať zdravotnú starostlivosť<sup>14f</sup>) alebo uložená pracovná povinnosť, lekár poskytovateľa zdravotnej starostlivosti určeného okresným úradom podľa osobitného predpisu;<sup>14g</sup>) ak ide o posudzovanie a rozhodovanie o dočasnej pracovnej neschopnosti lekára, sestry, pôrodnej asistentky, rádiologického technika, praktickej sestry – asistenta a sanitára podľa časti vety pred bodkočiarkou, ktorým sa poskytuje ústavná starostlivosť, dočasnú pracovnú neschopnosť posudzuje lekár podľa odseku 1 písm. b).
+
+(20) Počas núdzového stavu posudzuje a rozhoduje o dočasnej pracovnej neschopnosti zdravotníckeho pracovníka, ktorému bola počas núdzového stavu uložená pracovná povinnosť, lekár poskytovateľa zdravotnej starostlivosti určeného okresným úradom podľa osobitného predpisu;<sup>14h</sup>) ak ide o posudzovanie a rozhodovanie o dočasnej pracovnej neschopnosti zdravotníckeho pracovníka podľa časti vety pred bodkočiarkou, ktorému sa poskytuje ústavná starostlivosť, dočasnú pracovnú neschopnosť posudzuje lekár podľa odseku 1 písm. b).
