@@ -200,6 +200,14 @@
 
 - 30) § 328 až 336 Trestného zákona.
 
+- 30a) § 290a Trestného zákona.
+
+- 30b) § 290b Trestného zákona.
+
+- 30c) § 290c Trestného zákona.
+
+- 30d) § 290d Trestného zákona.
+
 - 31) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
 
 - 31a) § 19 ods. 2 písm. c) tretí bod zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
@@ -402,6 +410,14 @@
 
 - 55jawi) Vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 10/2014 Z. z. ktorou sa ustanovuje zoznam štatistických výkazov v zdravotníctve, podrobnosti o postupe, metódach, okruhu spravodajských jednotiek a lehotách hlásení v rámci štatistického zisťovania v zdravotníctve a ich charakteristiky v znení vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 94/2018 Z. z.
 
+- 55jawm) § 14 ods. 1 písm. s) zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení zákona č. 363/2024 Z. z.
+
+- 55jawn) § 12a ods. 19 zákona č. 576/2004 Z. z. v znení zákona č. 363/2024 Z. z.
+
+- 55jawo) § 14 ods. 1 písm. t) zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení zákona č. 363/2024 Z. z.
+
+- 55jawp) § 12a ods. 20 zákona č. 576/2004 Z. z. v znení zákona č. 363/2024 Z. z.
+
 - 55jb) § 73 ods. 2 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 55jc) § 201, 201a, 201b a 202 Trestného zákona.
@@ -468,7 +484,7 @@
 
 - 58e) Zákon č. 362/2011 Z. z.
 
-- 58f) Čl. 1 ods. 4 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu.
+- 58f) § 3 ods. 2 písm. e) zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení zákona č. 363/2024 Z. z.
 
 - 59) § 24 a 25 zákona č. 576/2004 Z. z.
 
