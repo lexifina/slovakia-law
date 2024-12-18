@@ -19,3 +19,5 @@
 (3) Príslušný orgán, ktorý vyhlásil mimoriadnu situáciu, je povinný bezodkladne odvolať mimoriadnu situáciu po vykonaní úloh a opatrení podľa odseku 2.
 
 (4) Ak bol vyhlásený núdzový stav alebo výnimočný stav,<sup>1a</sup>) mimoriadna situácia sa z tých istých dôvodov a na tom istom území nevyhlasuje.
+
+(5) Mimoriadnu situáciu vyvolanú mimoriadnou udalosťou podľa § 3 ods. 2 písm. e) možno vyhlásiť najviac na 60 dní a predĺžiť najviac o ďalších 60 dní.
