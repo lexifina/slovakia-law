@@ -1,0 +1,11 @@
+## 358
+
+NARIADENIE VLÁDY
+
+Slovenskej republiky
+
+zo 4. decembra 2024,
+
+## ktorým sa mení nariadenie vlády Slovenskej republiky č. 296/2010 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolania, spôsobe ďalšieho vzdelávania zdravotníckych pracovníkov, sústave špecializačných odborov a sústave certifikovaných pracovných činností v znení neskorších predpisov
+
+Vláda Slovenskej republiky podľa § 33 ods. 8 a § 39 ods. 3 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov nariaďuje:
