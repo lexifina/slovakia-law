@@ -20,6 +20,12 @@
 
 - 5a) Čl. 4 ods. 1 bod 42 nariadenia (EÚ) č. 575/2013.
 
+- 5aa) Čl. 3 ods. 1 bod 7 nariadenia Európskeho parlamentu a Rady (EÚ) 2023/1114 z 31. mája 2023 o trhoch s kryptoaktívami a o zmene nariadení (EÚ) č. 1093/2010 a (EÚ) č. 1095/2010 a smerníc 2013/36/EÚ a (EÚ) 2019/1937 (Ú. v. EÚ L 150, 9. 6. 2023) v platnom znení.
+
+- 5ab) Čl. 3 ods. 1 bod 6 nariadenia (EÚ) 2023/1114 v platnom znení.
+
+- 5ac) Čl. 3 ods. 1 bod 16 nariadenia (EÚ) 2023/1114 v platnom znení.
+
 - 5b) Napríklad § 12 až 34 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
 
 - 6) Napríklad zákon č. 594/2003 Z. z., zákon č. 186/2009 Z. z.
@@ -35,6 +41,8 @@
 - 9a) Zákon č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov v znení zákona č. 129/2010 Z. z.
 
 - 9b) § 12 zákona č. 392/2015 Z. z. o rozvojovej spolupráci a o zmene a doplnení niektorých zákonov.
+
+- 9c) Napríklad čl. 17, 48 a 60 nariadenia (EÚ) 2023/1114 v platnom znení.
 
 - 10) § 19 ods. 1 zákona č. 595/2003 Z. z. o dani z príjmov.
 

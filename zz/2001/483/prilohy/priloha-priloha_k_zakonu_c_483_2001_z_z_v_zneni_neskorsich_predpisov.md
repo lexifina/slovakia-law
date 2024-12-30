@@ -29,3 +29,5 @@ Príloha k zákonu č. 483/2001 Z. z. v znení neskorších predpisov
   - 13. Smernica Európskeho parlamentu a Rady (EÚ) 2019/2162 z 27. novembra 2019 o emisii krytých dlhopisov a verejnom dohľade nad krytými dlhopismi a ktorou sa menia smernice 2009/65/ES a 2014/59/EÚ (Ú. v. EÚ L 328, 18. 12. 2019).
 
   - 14. Smernica Európskeho parlamentu a Rady (EÚ) 2021/2167 z 24. novembra 2021 o správcoch úverov a nákupcoch úverov a o zmene smerníc 2008/48/ES a 2014/17/EÚ (Ú. v. EÚ L 438, 8. 12. 2021).
+
+  - 15. Nariadenie Európskeho parlamentu a Rady (EÚ) 2023/1114 z 31. mája 2023 o trhoch s kryptoaktívami a o zmene nariadení (EÚ) č. 1093/2010 a (EÚ) č. 1095/2010 a smerníc 2013/36/EÚ a (EÚ) 2019/1937 (Ú. v. EÚ L 150, 9. 6. 2023) v znení nariadenia Európskeho parlamentu a Rady (EÚ) 2023/2869 z 13. decembra 2023 (Ú. v. EÚ L, 2023/2869, 20. 12. 2023).
