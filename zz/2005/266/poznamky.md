@@ -14,6 +14,8 @@
 
 - 7) § 3 zákona č. 258/2001 Z. z. o spotrebiteľských úveroch a o zmene a doplnení zákona Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení neskorších predpisov.
 
+- 7a) Nariadenie Európskeho parlamentu a Rady (EÚ) 2023/1114 z 31. mája 2023 o trhoch s kryptoaktívami a o zmene nariadení (EÚ) č. 1093/2010 a (EÚ) č. 1095/2010 a smerníc 2013/36/EÚ a (EÚ) 2019/1937 (Ú. v. EÚ L 150, 9. 6. 2023) v platnom znení.
+
 - 8) Napríklad § 61 ods. 1 zákona č. 566/2001 Z. z. v znení zákona č. 510/2002 Z. z., § 13 zákona č. 95/2002 Z. z. v znení neskorších predpisov, zákon č. 510/2002 Z. z. v znení neskorších predpisov, zákon č. 594/2003 Z. z. v znení neskorších predpisov.
 
 - 11) § 9, § 10 ods. 2 písm. d) a § 37e zákona č. 97/1963 Zb. o medzinárodnom práve súkromnom a procesnom v znení zákona č. 589/2003 Z. z.
