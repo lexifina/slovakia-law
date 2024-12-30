@@ -76,6 +76,14 @@
 
 - 14b) Zákon č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a pôžičkách pre spotrebiteľov a o zmene a doplnení niektorých zákonov.
 
+- 14ba) Čl. 3 ods. 1 bod 6 nariadenia Európskeho parlamentu a Rady (EÚ) 2023/1114 z 31. mája 2023 o trhoch s kryptoaktívami a o zmene nariadení (EÚ) č. 1093/2010 a (EÚ) č. 1095/2010 a smerníc 2013/36/EÚ a (EÚ) 2019/1937 (Ú. v. EÚ L 150, 9. 6. 2023) v platnom znení.
+
+- 14bb) Čl. 3 ods. 1 bod 15 nariadenia (EÚ) 2023/1114 v platnom znení.
+
+- 14bc) Nariadenie (EÚ) 2023/1114 v platnom znení.
+
+- Zákon č. 248/2024 Z. z. o niektorých povinnostiach a oprávneniach v oblasti kryptoaktív a o zmene a doplnení niektorých zákonov.
+
 - 14c) Zákon č. 106/2024 Z. z. o správcoch úverov a nákupcoch úverov a o zmene a doplnení niektorých zákonov.
 
 - 15) Zákon č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov.
@@ -323,3 +331,9 @@
 - 49) Čl. 14 až 20, 22 a 40 nariadenia (ES) č. 1060/2009.
 
 - 50) § 20 a § 26 ods. 3 a 4 zákona č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a pôžičkách pre spotrebiteľov a o zmene a doplnení niektorých zákonov.
+
+- 51) Čl. 3 ods. 1 bod 16 nariadenia (EÚ) 2023/1114 v platnom znení.
+
+- 52) Čl. 59 až 63 nariadenia (EÚ) 2023/1114 v platnom znení.
+
+- 53) Čl. 143 ods. 3 nariadenia (EÚ) 2023/1114 v platnom znení.
