@@ -162,6 +162,10 @@
 
 - 28d) § 2 ods. 1 písm. a) zákona č. 90/2016 Z. z.
 
+- 28e) Čl. 3 ods. 1 bod 15 nariadenia Európskeho parlamentu a Rady (EÚ) 2023/1114 z 31. mája 2023 o trhoch s kryptoaktívami a o zmene nariadení (EÚ) č. 1093/2010 a (EÚ) č. 1095/2010 a smerníc 2013/36/EÚ a (EÚ) 2019/1937 (Ú. v. EÚ L 150, 9. 6. 2023) v platnom znení.
+
+- 28f) Čl. 16 nariadenia (EÚ) 2023/1114 v platnom znení.
+
 - 29) § 54 ods. 1 písm. a) zákona č. 492/2009 Z. z.
 
 - Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
