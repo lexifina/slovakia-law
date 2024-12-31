@@ -2,9 +2,9 @@
 
 (1) Zdravotná poisťovňa môže nakladať s kladným výsledkom hospodárenia pri vykonávaní verejného zdravotného poistenia za podmienok ustanovených týmto zákonom.
 
-(2) Súčet položiek z účtovnej závierky zdravotnej poisťovne z výkazu ziskov a strát, ktorými sú zmena stavu technickej rezervy na poistné plnenia v hrubej výške, zmena stavu iných technických rezerv okrem zmeny stavu rezervy na prerozdeľovanie poistného a ostatné technické náklady okrem prijatých a zaplatených úrokov a okrem nákladov na prerozdeľovanie poistného, znížený o ostatné technické výnosy okrem prijatých a zaplatených úrokov a okrem výnosov z prerozdeľovania poistného, musí byť vo výške najmenej súčtu koeficientu podľa odseku 5 a 95,1 % z predpísaného poistného v hrubej výške upraveného o vplyv prerozdeľovania poistného za účtovné obdobie, za ktoré sa upravuje výsledok hospodárenia (ďalej len „náklady na zdravotnú starostlivosť“), ak v odseku 11 nie je uvedené inak. Náklady na zdravotnú starostlivosť možno znížiť o primeraný výsledok hospodárenia podľa odseku 6. Primeraným výsledkom hospodárenia sa rozumie zisk, ktorý vychádza z vývoja obvyklého podielu zisku na ekonomicky oprávnených nákladoch s prihliadnutím na kvalitu, na riziká vyplývajúce z verejného zdravotného poistenia, vývoj verejného zdravotného poistenia a na ochranu poistenca a ktorý zohľadňuje aj rozsah potrebných investícií na zabezpečenie dlhodobej prevádzkyschopnosti siete poskytovateľov zdravotnej starostlivosti. Ekonomicky oprávnenými nákladmi sa rozumejú náklady preukázateľne a v nevyhnutnom rozsahu vynaložené na vykonávanie verejného zdravotného poistenia, ktorých rozsah a výšku určuje tento zákon (odsek 3).
+(2) Súčet položiek z účtovnej závierky zdravotnej poisťovne z výkazu ziskov a strát, ktorými sú náklady na poistné plnenia, zmena stavu iných technických rezerv okrem zmeny stavu rezervy na prerozdeľovanie poistného a ostatné technické náklady okrem prijatých a zaplatených úrokov a okrem nákladov na prerozdeľovanie poistného, znížený o ostatné technické výnosy okrem prijatých a zaplatených úrokov a okrem výnosov z prerozdeľovania poistného, musí byť vo výške najmenej súčtu koeficientu podľa odseku 5 a 95,1 % z predpísaného poistného v hrubej výške upraveného o vplyv prerozdeľovania poistného za účtovné obdobie, za ktoré sa upravuje výsledok hospodárenia (ďalej len „náklady na zdravotnú starostlivosť“), ak v odseku 11 nie je uvedené inak. Náklady na zdravotnú starostlivosť možno znížiť o primeraný výsledok hospodárenia podľa odseku 6. Primeraným výsledkom hospodárenia sa rozumie zisk, ktorý vychádza z vývoja obvyklého podielu zisku na ekonomicky oprávnených nákladoch s prihliadnutím na kvalitu, na riziká vyplývajúce z verejného zdravotného poistenia, vývoj verejného zdravotného poistenia a na ochranu poistenca a ktorý zohľadňuje aj rozsah potrebných investícií na zabezpečenie dlhodobej prevádzkyschopnosti siete poskytovateľov zdravotnej starostlivosti. Ekonomicky oprávnenými nákladmi sa rozumejú náklady preukázateľne a v nevyhnutnom rozsahu vynaložené na vykonávanie verejného zdravotného poistenia.
 
-(3) Nákladmi na zdravotnú starostlivosť podľa odseku 2 sú okrem úhrady za zdravotnú starostlivosť aj
+(3) Ekonomicky oprávnenými nákladmi sú aj
 
 - a) príspevok na činnosti operačných stredísk tiesňového volania záchrannej zdravotnej služby (§ 8a),
 
@@ -12,15 +12,15 @@
 
 - c) preplatok z ročného zúčtovania poistného,<sup>18b</sup>)
 
-- c) dane a poplatky odvádzané do štátneho rozpočtu,
+- d) dane a poplatky odvádzané do štátneho rozpočtu,
 
-- d) úhrada čiastky, o ktorú bol limit spoluúčasti prekročený [§ 6 ods. 1 písm. s)],
+- e) suma, o ktorú bol limit spoluúčasti prekročený [§ 6 ods. 1 písm. s)],
 
-- e) príspevok na činnosť Národného centra zdravotníckych informácií (ďalej len „národné centrum“) (§ 8b),
+- f) príspevok na činnosť Národného centra zdravotníckych informácií (ďalej len „národné centrum“) (§ 8b),
 
-- f) preplatenie úhrady pri poskytovaní zdravotnej starostlivosti v rámci ústavnej pohotovostnej služby podľa osobitného predpisu,<sup>18c</sup>)
+- g) refundácia úhrady pri poskytovaní zdravotnej starostlivosti v rámci ústavnej pohotovostnej služby podľa osobitného predpisu,<sup>18c</sup>)
 
-- g) príspevok na činnosť Národného inštitútu pre hodnotu a technológie v zdravotníctve<sup>18d</sup>) (ďalej len „inštitút“) (§ 15a).
+- h) príspevok na činnosť Národného inštitútu pre hodnotu a technológie v zdravotníctve<sup>18d</sup>) (ďalej len „inštitút“) (§ 15a).
 
 (4) Predpísané poistné v hrubej výške je úhrn predpísaného poistného zaúčtovaného v účtovnom období, v ktorom sa kladný výsledok hospodárenia vytvoril, podľa auditovanej účtovnej závierky. Vplyv prerozdeľovania poistného je súčet všetkých výnosov súvisiacich s mesačným prerozdeľovaním preddavkov na poistné a ročným prerozdeľovaním poistného znížený o súčet všetkých nákladov súvisiacich s mesačným prerozdeľovaním preddavkov na poistné a ročným prerozdeľovaním poistného, ktoré zdravotná poisťovňa zaúčtovala v kalendárnom roku na základe rozhodnutia úradu alebo ako rezervu, ak nemala v čase účtovnej závierky rozhodnutie úradu k dispozícii.
 
@@ -48,4 +48,4 @@
 
 (10) Ak v ktoromkoľvek z predchádzajúcich účtovných období nebol dosiahnutý primeraný výsledok hospodárenia, zdravotná poisťovňa môže v účtovnom období, kedy primeraný výsledok hospodárenia dosiahnutý bol, znížiť sumu pre doplnenie fondu kvality zdravia najviac do výšky 1,5 % z predpísaného poistného v hrubej výške upraveného o vplyv prerozdeľovania poistného, pričom už raz takto odpočítanú sumu nemožno použiť na zníženie sumy pre doplnenie fondu kvality zdravia opakovane.
 
-(11) Ak ide o zdravotnú poisťovňu, ktorá má povolenie, a má v priemere za každý kalendárny mesiac podľa údajov v centrálnom registri poistencov do 1 000 000 poistencov, náklady na zdravotnú starostlivosť predstavujú súčet položiek z účtovnej závierky zdravotnej poisťovne z výkazu ziskov a strát, ktorými sú zmena stavu technickej rezervy na poistné plnenia v hrubej výške, zmena stavu iných technických rezerv okrem zmeny stavu rezervy na prerozdeľovanie poistného a ostatné technické náklady okrem prijatých a zaplatených úrokov a okrem nákladov na prerozdeľovanie poistného, znížený o ostatné technické výnosy okrem prijatých a zaplatených úrokov a okrem výnosov z prerozdeľovania poistného, ktorý musí byť najmenej vo výške súčtu koeficientu podľa odseku 5 a 94,3 % z predpísaného poistného v hrubej výške upraveného o vplyv prerozdeľovania poistného za účtovné obdobie, za ktoré sa upravuje výsledok hospodárenia.
+(11) Ak ide o zdravotnú poisťovňu, ktorá má povolenie, a má v priemere za každý kalendárny mesiac podľa údajov v centrálnom registri poistencov do 1 000 000 poistencov, náklady na zdravotnú starostlivosť predstavujú súčet položiek z účtovnej závierky zdravotnej poisťovne z výkazu ziskov a strát, ktorými sú náklady na poistné plnenia, zmena stavu iných technických rezerv okrem zmeny stavu rezervy na prerozdeľovanie poistného a ostatné technické náklady okrem prijatých a zaplatených úrokov a okrem nákladov na prerozdeľovanie poistného, znížený o ostatné technické výnosy okrem prijatých a zaplatených úrokov a okrem výnosov z prerozdeľovania poistného, ktorý musí byť najmenej vo výške súčtu koeficientu podľa odseku 5 a 94,3 % z predpísaného poistného v hrubej výške upraveného o vplyv prerozdeľovania poistného za účtovné obdobie, za ktoré sa upravuje výsledok hospodárenia.
