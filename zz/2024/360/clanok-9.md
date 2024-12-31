@@ -1,0 +1,3 @@
+# Čl. IX
+
+Tento zákon nadobúda účinnosť 31. decembra 2024 okrem čl. I bodov 1 až 25, 29 až 49 a 51 až 54, čl. II, čl. III bodov 1, 3 až 49, § 45 ods. 1 písm. ao) a ap) v bode 50, bodov 51 až 56, čl. IV bodov 1, 3 až 8, 10 a 12, čl. V bodov 2, 3, 5 až 12 a čl. VI až VIII, ktoré nadobúdajú účinnosť 1. januára 2025, čl. I bodu 50, ktorý nadobúda účinnosť 1. marca 2025, čl. I bodov 26 až 28, ktoré nadobúdajú účinnosť 30. júna 2025, čl. III bodu 2, § 45 ods. 1 písm. aq) v bode 50, čl. IV bodov 2, 9 a 11, čl. V bodov 1, 4 a 13, ktoré nadobúdajú účinnosť 1. júla 2025, a čl. III bodu 57, ktorý nadobúda účinnosť 1. januára 2027.
