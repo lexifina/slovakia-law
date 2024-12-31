@@ -302,6 +302,8 @@ Zákon č. 462/2007 Z. z. o organizácii pracovného času v doprave a o zmene a
 
 - nečerpá alebo nedodrží prestávku v práci, dobu denného alebo týždenného odpočinku, presiahne maximálny denný, týždenný alebo dvojtýždenný limit času jazdy, alebo presiahne maximálny týždenný pracovný čas,“.
 
+- 30. V § 38 ods. 1 písm. c) a g) sa číslo „28“ nahrádza číslom „56“.
+
 - 31. V § 38 ods. 1 písmeno k) znie:
 
 - „k)
