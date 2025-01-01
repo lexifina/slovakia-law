@@ -1,0 +1,1 @@
+Príloha č. 6 k zákonu č. 345/2024 Z. z. [REZERVY ŠTÁTNEHO ROZPOČTU NA ROK 2025](../assets/917a948c0f15d8a69519c8a1f4744edaf08a6eaef9037132458e84e305040847.pdf)

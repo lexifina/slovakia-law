@@ -1,0 +1,1 @@
+Príloha č. 4 k zákonu č. 345/2024 Z. z. [Výdavky štátneho rozpočtu na realizáciu programov vlády SR a častí programov vlády SR na rok 2025](../assets/04260aadd3f57cbe6530c86b1294b2cef7b490cb26f14fa3b4516c7baedc6fa5.pdf)

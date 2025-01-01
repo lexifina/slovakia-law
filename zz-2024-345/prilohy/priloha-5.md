@@ -1,0 +1,1 @@
+Príloha č. 5 k zákonu č. 345/2024 Z. z. [ZÁVÄZNÉ LIMITY DOTÁCIÍ OBCIAM A VYŠŠÍM ÚZEMNÝM CELKOM NA ROK 2025](../assets/119820ca93f7bd2f81e46c4f73f5171d700476d569efeeca1d3843be4bf5035f.pdf)
