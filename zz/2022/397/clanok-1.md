@@ -8,13 +8,23 @@ Zákon č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č
 
 - Prídavok je 60 eur mesačne. Suma podľa prvej vety sa zvýši
 
+- a)
+
+- mesačne o sumu príspevku na financovanie voľnočasových aktivít podľa osobitného predpisu<sup>18db</sup>) od pozastavenia prístupu do konta dieťaťa do obnovenia prístupu do konta dieťaťa, najdlhšie do uzavretia konta dieťaťa podľa osobitného predpisu,<sup>18dc</sup>)
+
 - b)
 
 - o 110 eur za kalendárny mesiac, v ktorom nezaopatrené dieťa prvýkrát nastúpilo do prvého ročníka základnej školy.<sup>18dd</sup>)“.
 
   - Poznámky pod čiarou k odkazom 18db až 18dd znejú:
 
-  - „<sup>18dd</sup>) § 19, § 20, § 157 ods. 3 a § 158 zákona č. 245/2008 Z. z. v znení neskorších predpisov.“.
+  - „<sup>18db</sup>) § 2 ods. 1 zákona č. 232/2022 Z. z. o financovaní voľného času dieťaťa a o zmene a doplnení niektorých zákonov.
+
+  - <sup>18dc</sup>) § 10 ods. 3 a § 15 zákona č. 232/2022 Z. z.
+
+  - § 19, § 20, § 157 ods. 3 a § 158 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
+
+  - <sup>18dd</sup>) § 19, § 20, § 157 ods. 3 a § 158 zákona č. 245/2008 Z. z. v znení neskorších predpisov.“.
 
 - 2. V § 8 sa za odsek 2 vkladá odsek 3, ktorý znie:
 
@@ -41,3 +51,21 @@ Zákon č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č
 - Suma prídavku podľa odseku 1 prvej vety, suma zvýšenia prídavku podľa odseku 1 písm. b) a suma príplatku k prídavku podľa odseku 2 sa neuplatňuje ustanovením novej sumy prídavku, sumy zvýšenia prídavku a sumy príplatku k prídavku podľa odseku 3.“.
 
 - 4. V § 8 sa vypúšťa odsek 5.
+
+- 5. Doterajší text § 17 sa označuje ako odsek 1 a dopĺňa sa odsekom 2, ktorý znie:
+
+- „(2)
+
+- Ústredie práce, sociálnych vecí a rodiny poskytuje Finančnému riaditeľstvu Slovenskej republiky na účel poskytovania príspevku na financovanie voľnočasových aktivít podľa osobitného predpisu<sup>22b</sup>) údaje v rozsahu
+
+- a)
+
+- meno, priezvisko a rodné číslo oprávnenej osoby, ktorej sa vypláca prídavok,
+
+- b)
+
+- meno, priezvisko a rodné číslo nezaopatreného dieťaťa.“.
+
+  - Poznámka pod čiarou k odkazu 22b znie:
+
+  - „<sup>22b</sup>) Zákon č. 232/2022 Z. z.“.
