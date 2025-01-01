@@ -104,9 +104,11 @@
 
 - 43) § 34 ods. 4 zákona č. 139/2002 Z. z.
 
-- 44) § 2 písm. x) zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách.
+- 44) § 2 ods. 2 písm. l) zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 45) § 1 ods. 2 až 4 zákona č. 135/1961 Zb.
+- 45) § 1 ods. 2 až 4 zákona č. 135/1961 Zb. v znení neskorších predpisov.
+
+- § 3, 7, 8 a 22 vyhlášky Federálneho ministerstva dopravy č. 35/1984 Zb., ktorou sa vykonáva zákon o pozemných komunikáciách (cestný zákon).
 
 - 45a) § 9 písm. b) až e) zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z.
 
@@ -132,9 +134,7 @@
 
 - 54) § 43b a 43c zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
 
-- 55) § 2 písm. ar) zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z.
-
-- 56) § 19 zákona Slovenskej národnej rady č. 100/1977 Zb.
+- 56) § 25 a § 31 ods. 3, 6 alebo 8 zákona č. 326/2005 Z. z. v znení neskorších predpisov.
 
 - 56a) § 22 ods. 2 písm. c) zákona č. 326/2005 Z. z. v znení zákona č. 360/2007 Z. z.
 
@@ -180,7 +180,7 @@
 
 - 64c) § 3 písm. f) zákona č. 24/2006 Z. z. v znení neskorších predpisov.
 
-- 64d) § 9 a 31 zákona č. 24/2006 Z. z. v znení neskorších predpisov.
+- 64d) § 9, 22, 29 a 31 zákona č. 24/2006 Z. z. v znení neskorších predpisov.
 
 - 64e) Napríklad Dohovor o mokradiach majúcich medzinárodný význam predovšetkým ako biotopy vodného vtáctva (oznámenie Federálneho ministerstva zahraničných vecí č. 396/1990 Zb.), Dohovor o ochrane svetového kultúrneho a prírodného dedičstva (oznámenie Federálneho ministerstva zahraničných vecí č. 159/1991 Zb.), Dohovor o biologickej diverzite (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 34/1996 Z. z.), Dohovor o ochrane sťahovavých druhov voľne žijúcich živočíchov (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 91/1998 Z. z.), Dohovor o ochrane európskych voľne žijúcich organizmov a prírodných stanovíšť (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 93/1998 Z. z.), Dohoda o ochrane netopierov v Európe (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 250/1999 Z. z.), Dohoda o ochrane africko-euroázijských druhov vodného sťahovavého vtáctva (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 268/2002 Z. z.), Rámcový dohovor o ochrane a trvalo udržateľnom rozvoji Karpát (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 111/2006 Z. z.).
 
@@ -390,11 +390,9 @@
 
 - 113) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
-- 113a) § 19 zákona č. 71/1967 Zb. v znení neskorších predpisov.
-
 - 113b) § 24 a 25 zákona č. 24/2006 Z. z. v znení neskorších predpisov.
 
-- 114) Napríklad § 18 až 20a a § 20f až 21 Občianskeho zákonníka, zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
+- 114) § 15a zákona č. 71/1967 Zb. v znení neskorších predpisov.
 
 - 114a) § 15a zákona č. 71/1967 Zb. v znení zákona č. 527/2003 Z. z.
 
