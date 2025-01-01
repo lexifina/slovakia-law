@@ -18,8 +18,48 @@ Opatrenie Ministerstva financií Slovenskej republiky zo 14. novembra 2007 č. M
 
 - ocenení pohľadávok a záväzkov vyplývajúcich z činnosti Úradu pre dohľad nad zdravotnou starostlivosťou ako styčného orgánu ku dňu, ku ktorému sa zostavuje účtovná závierka.“.
 
+- 5. V § 34 sa za odsek 3 vkladá nový odsek 4, ktorý znie:
+
+- „(4)
+
+- Na osobitne vytvorenom analytickom účte k účtu 221 – Bankové účty sa účtujú tokeny elektronických peňazí.<sup>35aa</sup>) V súvahe sa pasívny zostatok tokenov elektronických peňazí vykazuje ako krátkodobý bankový úver. Pri predaji tokenov elektronických peňazí a pri ich ocenení ku dňu, ku ktorému sa uskutočňuje účtovná závierka, sa rozdiel z prepočtu na eurá účtuje na účtoch 545 – Kurzové straty alebo 645 – Kurzové zisky. “.
+
+  - Poznámka pod čiarou k odkazu 35aa znie:
+
+  - „<sup>35aa</sup>) Čl. 3 ods. 1 bod 7 nariadenia Európskeho parlamentu a Rady (EÚ) 2023/1114 z 31. mája 2023 o trhoch s kryptoaktívami a o zmene nariadení (EÚ) č. 1093/2010 a (EÚ) č. 1095/2010 a smerníc 2013/36/EÚ a (EÚ) 2019/1937 (Ú. v. EÚ L 150, 9.6.2023) v platnom znení.“.
+
+  - Doterajšie odseky 4 až 14 sa označujú ako odseky 5 až 15.
+
+- 6. V § 34 ods. 9 tretia veta znie: „Na osobitne vytvorenom analytickom účte k účtu 251 – Majetkové cenné papiere na obchodovanie sa účtuje prírastok kryptoaktív,<sup>35b</sup>) okrem tokenov elektronických peňazí alebo úbytok kryptoaktív, okrem tokenov elektronických peňazí.“ a v štvrtej vete a piatej vete sa slová „virtuálnej meny“ nahrádzajú slovami „takýchto kryptoaktív“.
+
+  - Poznámka pod čiarou k odkazu 35b znie:
+
+  - „<sup>35b</sup>) Čl. 3 ods. 1 bod 5 nariadenia (EÚ) 2023/1114 v platnom znení.“.
+
 - 7. V poznámke pod čiarou k odkazu 37 sa vypúšťa citácia „§ 21 zákona č. 532/2010 Z. z. v znení neskorších predpisov.“ a na konci sa pripájajú tieto citácie: „zákon č. 121/2022 Z. z. o príspevkoch z fondov Európskej únie a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 27 zákona č. 157/2024 Z. z.“.
 
 - 8. V § 41 ods. 8 sa za prvú vetu vkladajú nová druhá veta a tretia veta, ktoré znejú: „Pri poskytnutí dotácie v priebehu účtovného obdobia je možné účtovať priznanie dotácie v priebehu účtovného obdobia na ťarchu účtu 346 - Dotácie a ostatné zúčtovanie so štátnym rozpočtom a v prospech účtu 384 - Výnosy budúcich období. Pri použití dotácie sa vo vecnej a časovej súvislosti s účtovaním nákladov účtuje na ťarchu účtu 384 – Výnosy budúcich období a v prospech účtu 691 - Dotácie.“.
 
-[Konsolidovane znenie](assets/7747f4cc0e7c06bc61b0fc1f459e18ad0f19926d88a5a890d753a21550ad032f.pdf)
+- 9. V § 56 sa odsek 2 dopĺňa písmenom e), ktoré znie:
+
+- „e)
+
+- daň z finančných transakcií.<sup>63b</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 63b znie:
+
+  - „<sup>63b</sup>) Zákon č. 279/2024 Z. z. o dani z finančných transakcií a o zmene a doplnení niektorých zákonov.“.
+
+- 10. V § 64 ods. 1 sa slová „zásob alebo účtu 501 - Spotreba materiálu“ nahrádzajú slovami „zásob, účtu 501 - Spotreba materiálu alebo účtu 504 – Predaný tovar“.
+
+- 11. V § 64 ods. 3 sa za slová „Spotreba materiálu“ vkladá čiarka a slová „účtu 504 – Predaný tovar“.
+
+- 12. V § 66 ods. 5 druhá veta a tretia veta znejú: „Výnos z predaja kryptoaktív, okrem tokenov elektronických peňazí, sa účtuje v prospech účtu 655 – Výnosy z krátkodobého finančného majetku. V prospech účtu 655 – Výnosy z krátkodobého finančného majetku sa účtujú kryptoaktíva nadobudnuté prírastkom získaným overovaním transakcií v sieti daného kryptoaktíva ku dňu výmeny za iný majetok alebo službu so súvzťažným zápisom na ťarchu osobitne vytvoreného analytického účtu k účtu 251 – Majetkové cenné papiere na obchodovanie.“.
+
+- 13. V § 71 ods. 2 písmeno l) znie:
+
+- „l)
+
+- kryptoaktívum nadobudnuté prírastkom získaným overovaním transakcií v sieti daného kryptoaktíva.“.
+
+[Konsolidovane znenie](assets/5202d199c3d3044f6737c24609d7d0074ebd2ba3e72efc5bed14450f73eb6d48.pdf)
