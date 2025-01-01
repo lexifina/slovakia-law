@@ -1,4 +1,4 @@
-## SIEDMA ČASŤ
+## ŠIESTA ČASŤ
 
 ## 13. DÔCHODOK
 

@@ -182,6 +182,8 @@
 
 - 39c) § 82b zákona č. 461/2003 Z. z. v znení zákona č. 140/2015 Z. z.
 
+- 39ca) § 50aa zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+
 - 39d) Napríklad zákon č. 461/2003 Z. z. v znení neskorších predpisov, zákon č. 592/2006 Z. z. v znení neskorších predpisov, zákon č. 274/2007 Z. z. v znení neskorších predpisov, zákon č. 285/2009 Z. z. v znení neskorších predpisov.
 
 - 41) Zákon č. 420/1991 Zb. v znení neskorších predpisov.
