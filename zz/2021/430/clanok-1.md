@@ -176,6 +176,14 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 
 - Kovové uzávery alebo viečka s plastovým tesnením sa nepovažujú za výrobky vyrobené z plastu.
 
+- (4)
+
+- Výrobca jednorazového plastového výrobku uvedeného v prílohe č. 7a časti F je povinný uvádzať na trh Slovenskej republiky nápojové fľaše
+
+- a)
+
+- vyrobené z polyetyléntereftalátu (ďalej len „PET nápojové fľaše“) s obsahom minimálne 25 % recyklovaných plastov z celkového množstva ním uvedených PET nápojových fliaš na území Slovenskej republiky,
+
 - (5)
 
 - Výrobca jednorazového plastového výrobku podáva správu o obsahu recyklovaných plastov podľa odseku 4 ministerstvu najneskôr do 30. apríla za predchádzajúci kalendárny rok. Túto povinnosť, ak ide o výrobcu obalov, ktorý uvádza na trh nápoje v zálohovaných jednorazových obaloch, plní osoba podľa osobitného predpisu.<sup>96f</sup>)
