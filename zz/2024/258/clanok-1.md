@@ -2,6 +2,54 @@
 
 Zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení zákona č. 438/2002 Z. z., zákona č. 666/2002 Z. z., zákona č. 424/2003 Z. z., zákona č. 451/2003 Z. z., zákona č. 462/2003 Z. z., zákona č. 180/2004 Z. z., zákona č. 215/2004 Z. z., zákona č. 365/2004 Z. z., zákona č. 382/2004 Z. z., zákona č. 447/2004 Z. z., zákona č. 729/2004 Z. z., zákona č. 254/2005 Z. z., zákona č. 561/2005 Z. z., zákona č. 404/2006 Z. z., zákona č. 256/2007 Z. z., zákona č. 327/2007 Z. z., zákona č. 330/2007 Z. z., zákona č. 519/2007 Z. z., zákona č. 614/2007 Z. z., zákona č. 445/2008 Z. z., zákona č. 591/2008 Z. z., zákona č. 82/2009 Z. z., zákona č. 199/2009 Z. z., zákona č. 602/2009 Z. z., zákona č. 151/2010 Z. z., zákona č. 543/2010 Z. z., zákona č. 48/2011 Z. z., zákona č. 400/2011 Z. z., zákona č. 345/2012 Z. z., zákona č. 80/2013 Z. z., zákona č. 190/2013 Z. z., zákona č. 37/2014 Z. z., zákona č. 307/2014 Z. z., zákona č. 129/2015 Z. z., zákona č. 375/2015 Z. z., zákona č. 125/2016 Z. z., zákona č. 177/2018 Z. z., zákona č. 347/2018 Z. z., zákona č. 319/2019 Z. z., zákona č. 466/2019 Z. z., zákona č. 73/2020 Z. z., zákona č. 76/2021 Z. z., zákona č. 310/2021 Z. z., zákona č. 412/2021 Z. z., zákona č. 125/2022 Z. z., zákona č. 127/2022 Z. z., zákona č. 222/2022 Z. z., zákona č. 350/2022 Z. z. a zákona č. 413/2022 Z. z. sa mení a dopĺňa takto:
 
+- 1. § 33 znie:
+
+- „§ 33
+
+- (1)
+
+- Pri vzniku služobného pomeru patria príslušníkovi bezplatne tieto naturálne náležitosti:
+
+- a)
+
+- rovnošata a jej súčasti,
+
+- b)
+
+- osobné ochranné pracovné prostriedky a ďalší materiál nevyhnutný na vykonávanie štátnej služby.
+
+- (2)
+
+- Služobný úrad poskytuje príslušníčke raz za rok peňažný príspevok vo výške 30 % hodnoty rovnošaty a jej súčastí na nákup súčastí, ktoré služobný úrad nezabezpečuje.
+
+- (3)
+
+- Po uplynutí prvého roku služobného pomeru patrí príslušníkovi každý rok náhrada formou nepeňažného plnenia na obnovu naturálnych náležitostí vo výške 50 % hodnoty rovnošaty a jej súčastí.
+
+- (4)
+
+- Hodnotu rovnošaty a jej súčastí podľa reálnych nákupných cien ustanoví každý rok všeobecne záväzný právny predpis, ktorý vydá ministerstvo.
+
+- (5)
+
+- Nárok na náhradu formou nepeňažného plnenia na obnovu naturálnych náležitostí príslušník uplatní do 24 mesiacov odo dňa vzniku nároku, inak zanikne.
+
+- (6)
+
+- Náhrada formou nepeňažného plnenia na obnovu naturálnych náležitostí sa pri skončení služobného pomeru preplatí príslušníkovi najviac do výšky 40 % hodnoty rovnošaty a jej súčastí.
+
+- (7)
+
+- Naturálne náležitosti, peňažný príspevok a náhrada formou nepeňažného plnenia na obnovu naturálnych náležitostí nepatria príslušníkom za čas, ktorý sa nezapočítava do času výsluhy rokov v hodnosti podľa § 34 ods. 4.
+
+- (8)
+
+- Naturálne náležitosti, peňažný príspevok, náhrada formou nepeňažného plnenia na obnovu naturálnych náležitostí a preplatenie náhrady podľa odseku 6 nepodliehajú dani z príjmu zo závislej činnosti fyzických osôb.
+
+- (9)
+
+- Podrobnosti o druhoch rovnošiat a ich súčastiach, ich poskytovaní, nosení, vyobrazení a o vykonávaní štátnej služby v občianskom odeve upraví ministerstvo služobným predpisom.“.
+
 - 2. § 97 sa dopĺňa odsekom 3, ktorý znie:
 
 - „(3)
