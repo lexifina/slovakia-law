@@ -6,6 +6,10 @@
 
 (3) Ak sa zúčastnené strany nedohodnú podľa odseku 1 alebo 2, ide o spor o určenie odborovej organizácie oprávnenej na uzatvorenie kolektívnej zmluvy.
 
-(4) Spor o určenie odborovej organizácie oprávnenej na uzatvorenie kolektívnej zmluvy rieši rozhodca zapísaný v zozname rozhodcov vedenom na Ministerstve práce, sociálnych vecí a rodiny Slovenskej republiky (ďalej len „ministerstvo") podľa tohto zákona. Ak sa zmluvné strany na osobe rozhodcu nedohodnú, na žiadosť ktorejkoľvek zo zmluvných strán ho určí ministerstvo.
+(4) Spor o určenie odborovej organizácie oprávnenej na uzatvorenie kolektívnej zmluvy rieši rozhodca zapísaný v zozname rozhodcov vedenom na Ministerstve práce, sociálnych vecí a rodiny Slovenskej republiky (ďalej len „ministerstvo“), na ktorom sa zúčastnené strany dohodnú; konanie pred rozhodcom sa začína dňom prijatia žiadosti o riešenie sporu o určenie odborovej organizácie oprávnenej na uzatvorenie kolektívnej zmluvy rozhodcom. Ak sa zúčastnené strany nedohodnú na osobe rozhodcu podľa prvej vety, na žiadosť ktorejkoľvek zo zúčastnených strán ho určí ministerstvo; konanie pred rozhodcom sa začína dňom doručenia rozhodnutia o určení rozhodcu zúčastneným stranám.
 
-(5) Rozhodca vydá doklad, ktorý oprávňuje príslušnú odborovú organizáciu alebo príslušné odborové organizácie na rokovanie a uzatváranie kolektívnej zmluvy.
+(5) Odborová organizácia je povinná poskytnúť rozhodcovi požadovanú súčinnosť do 30 dní odo dňa požiadania; neposkytnutie súčinnosti pri preukazovaní počtu členov požiadanej odborovej organizácie je na ujmu tejto odborovej organizácie pri rozhodovaní rozhodcu v spore o určenie odborovej organizácie oprávnenej na uzatvorenie kolektívnej zmluvy.
+
+(6) Rozhodca vydá doklad, ktorý oprávňuje príslušnú odborovú organizáciu alebo príslušné odborové organizácie na rokovanie a uzatváranie kolektívnej zmluvy.
+
+(7) Rozhodcovi patrí za konanie v spore o určenie odborovej organizácie oprávnenej na uzatvorenie kolektívnej zmluvy odmena v sume podľa § 15 ods. 2 a cestovné náhrady podľa osobitného predpisu.<sup>4a</sup>) Odmenu a cestovné náhrady uhrádza rozhodcovi do 30 dní odo dňa vydania dokladu podľa odseku 6 každá zo zúčastnených strán rovným dielom; ak rozhodcu určí ministerstvo, odmenu a cestovné náhrady uhrádza zúčastnená strana, ktorá o určenie rozhodcu požiadala.

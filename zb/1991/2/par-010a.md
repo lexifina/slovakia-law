@@ -18,7 +18,7 @@
 
 (4) Odborne spôsobilý občan na účely tohto zákona je občan, ktorý má odborné vedomosti najmä z pracovnoprávnej oblasti a sociálnej oblasti a má schopnosti, ktoré sú nevyhnutné na vykonávanie sprostredkovateľskej činnosti a rozhodcovskej činnosti.
 
-(5) Termín výberu sprostredkovateľov a rozhodcov a overenia ich odbornej spôsobilosti oznamuje ministerstvo v dennej tlači najmenej štyri týždne pred ich začatím.
+(5) Termín výberu sprostredkovateľov a rozhodcov a overenia ich odbornej spôsobilosti oznamuje ministerstvo na svojom webovom sídle najmenej štyri týždne pred ich začatím.
 
 (6) Ministerstvo overuje odbornú spôsobilosť sprostredkovateľov a rozhodcov vždy po uplynutí troch rokov a o výsledku overenia odbornej spôsobilosti vyhotoví záznam.
 
@@ -28,7 +28,7 @@
 
 (9) Zoznam sprostredkovateľov a zoznam rozhodcov obsahujú meno a priezvisko sprostredkovateľa alebo rozhodcu, miesto trvalého pobytu, pracovné zaradenie a odborné zameranie.
 
-(10) Zoznam sprostredkovateľov a zoznam rozhodcov zverejní ministerstvo v dennej tlači a zašle ho na vedomie reprezentatívnym združeniam zamestnávateľov a reprezentatívnym združeniam odborových zväzov.
+(10) Zoznam sprostredkovateľov a zoznam rozhodcov zverejní ministerstvo na svojom webovom sídle a zašle ho na vedomie reprezentatívnym združeniam zamestnávateľov a reprezentatívnym združeniam odborových zväzov.
 
 (11) Ministerstvo vyčiarkne sprostredkovateľa alebo rozhodcu zo zoznamu sprostredkovateľov alebo zo zoznamu rozhodcov, ak sprostredkovateľ alebo rozhodca
 
