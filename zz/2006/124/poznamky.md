@@ -102,7 +102,7 @@
 
 - 29) Zákon Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov.
 
-- 30) Zákon č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 30) § 4 ods. 1 zákona č. 292/2024 Z. z. o vzdelávaní dospelých a o zmene a doplnení niektorých zákonov.
 
 - 31) § 19 ods. 2 zákona č. 540/2001 Z. z. o štátnej štatistike.
 
