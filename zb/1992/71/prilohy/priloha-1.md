@@ -122,6 +122,8 @@ Príloha č. 1 zákona SNR č. 71/1992 Zb.
 
 - j) Zo správnej žaloby proti rozhodnutiu Úradu pre verejné obstarávanie v konaní o preskúmanie úkonov kontrolovaného | 0,05 % z predpokladanej hodnoty zákazky alebo koncesie, najmenej však 1 400 eur a najviac 35 000 eur. Ak predpokladaná hodnota zákazky alebo koncesie nie je ustanovená alebo ak ide o zmenu zmluvy, koncesnej zmluvy alebo rámcovej dohody, výška poplatku je 1 400 eur.
 
+- k) Zo žaloby vo veciach reprezentatívnosti kolektívnej zmluvy vyššieho stupňa | 100 eur
+
 - Položka 13 |
 
 - a) Z návrhu na vykonanie exekúcie | 25 eur
