@@ -1,4 +1,4 @@
-- 1) Napr. zákon č. 20/1966 o starostlivosti o zdravie ľudu v znení neskorších predpisov, zákon Slovenskej národnej rady č. 13/1992 Zb. o Slovenskej lekárskej komore, Slovenskej komore zubných lekárov a Slovenskej lekárnickej komore.
+- 1) Napríklad zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 2) Napr. § 2 ods. 2 zákona Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach.
 
