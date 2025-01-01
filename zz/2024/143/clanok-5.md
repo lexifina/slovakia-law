@@ -78,6 +78,24 @@ Zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákono
 
 - Pôvodný dodávateľ elektriny alebo pôvodný dodávateľ plynu pred vykonaním zmeny dodávateľa elektriny alebo dodávateľa plynu oznámi prevádzkovateľovi sústavy alebo prevádzkovateľovi siete, že pôvodná zmluva o dodávke elektriny alebo pôvodná zmluva o združenej dodávke elektriny do odberného miesta koncového odberateľa elektriny alebo pôvodná zmluva o dodávke plynu alebo pôvodná zmluva o združenej dodávke plynu do odberného miesta koncového odberateľa plynu podľa odseku 2 nebola ukončená. Ak pôvodný dodávateľ elektriny alebo pôvodný dodávateľ plynu oznámi, že pôvodná zmluva nebola ukončená podľa prvej vety, prevádzkovateľ sústavy alebo prevádzkovateľ siete zmenu dodávateľa elektriny alebo dodávateľa plynu nevykoná a bezodkladne o tom informuje pôvodného dodávateľa elektriny, nového dodávateľa elektriny a odberateľa elektriny alebo pôvodného dodávateľa plynu, nového dodávateľa plynu a odberateľa plynu. Prevádzkovateľ sústavy alebo prevádzkovateľ siete neposudzuje platnosť ukončenia pôvodnej zmluvy o dodávke elektriny, pôvodnej zmluvy o združenej dodávke elektriny, pôvodnej zmluvy o dodávke plynu alebo pôvodnej zmluvy o združenej dodávke plynu. Ak pôvodný dodávateľ elektriny alebo pôvodný dodávateľ plynu bezdôvodne oznámi, že pôvodná zmluva nebola ukončená, zodpovedá za škodu, ktorá vznikla odberateľovi elektriny, novému dodávateľovi elektriny a prevádzkovateľovi sústavy alebo odberateľovi plynu, novému dodávateľovi plynu a prevádzkovateľovi siete.“.
 
+- 15. V § 17f sa za odsek 4 vkladá nový odsek 5, ktorý znie:
+
+- „(5)
+
+- Vyúčtovacia faktúra nesmie obsahovať reklamu a iné údaje, ako sú údaje potrebné pre vyhotovenie vyúčtovania za dodávku elektriny pre odberateľa elektriny alebo vyúčtovania za dodávku plynu pre odberateľa plynu uvedené v odsekoch 9, 10 a v pravidlách trhu a údaje ktoré by spôsobili nejednoznačnosť a neprehľadnosť takejto faktúry.“.
+
+  - Doterajšie odseky 5 až 7 sa označujú ako odseky 6 až 8.
+
+- 16. § 17f sa dopĺňa odsekmi 9 a 10, ktoré znejú:
+
+- „(9)
+
+- Vyúčtovacia faktúra obsahuje informáciu o správnosti zaradenia odberateľa elektriny alebo odberateľa plynu do distribučnej tarify, do ktorej je jeho odberné miesto zaradené, a o možnosti preradenia odberateľa elektriny alebo odberateľa plynu do distribučnej tarify, a to zrozumiteľným spôsobom s porovnaním spotreby ostatných odberateľov elektriny alebo odberateľov plynu v jeho distribučnej tarife.
+
+- (10)
+
+- Vyúčtovacia faktúra obsahuje stručnú informáciu o predmete a podmienkach uvedených v zmluve, najmä o jej viazanosti, tarife, kontaktných údajoch odberateľa elektriny alebo odberateľa plynu a priemernej ročnej spotrebe.“.
+
 - 17. V § 24 ods. 1 písm. b) sa vypúšťajú slová „a elektriny vyrobenej z domáceho uhlia“.
 
 - 18. V § 24 ods. 1 písm. c) sa za slovom „energie“ vypúšťa čiarka a slová „kombinovanej výroby a domáceho uhlia pri výrobe elektriny“ sa nahrádzajú slovami „a kombinovanej výroby elektriny“.
