@@ -12,7 +12,7 @@ Príloha č. 1 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - SKUPINA | 104 - Výroba zdravotníckych výrobkov, presných a optických prístrojov a hodín |
 
-- 9. 10. 11. | Výroba a opravy protetických výrobkov Výroba a opravy ortopedickej obuvi Hodinárstvo | I I
+- 11. | Hodinárstvo | I
 
 - SKUPINA | 106 - Výroba a spracovanie kameniva a zemín, keramika |
 

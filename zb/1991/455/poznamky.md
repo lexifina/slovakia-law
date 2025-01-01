@@ -212,13 +212,13 @@
 
 - 29b) Nariadenie vlády Slovenskej republiky č. 400/1999 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách na ostatné určené výrobky v znení zákona č. 142/2000 Z. z.
 
-- 31) § 9 ods. 1 a 2 a § 25 ods. 1 a 7 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
+- 31) Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
 
-- 31a) Zákon č. 386/1997 Z. z. o ďalšom vzdelávaní a o zmene zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z. v znení neskorších predpisov.
+- 31a) Zákon č. 292/2024 Z. z. o vzdelávaní dospelých a o zmene a doplnení niektorých zákonov.
 
 - 31b) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 31c) Zákon č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení niektorých zákonov.
+- 31c) Zákon č. 292/2024 Z. z.
 
 - 32) Napríklad zákon č. 634/1992 Zb. o ochrane spotrebiteľa v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov, § 20 až 24 vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 79/1997 Z. z. o opatreniach na predchádzanie prenosným ochoreniam v znení vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 54/2000 Z. z.
 
@@ -238,7 +238,7 @@
 
 - 36ca) § 27 zákona č. 540/2001 Z. z. o štátnej štatistike.
 
-- 36cb) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+- 36cb) § 12 ods. 4 písm. a) zákona č. 192/2023 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
 - 36cc) § 12 zákona č. 253/1998 Z. z. v znení zákona č. 206/2008 Z. z.
 
