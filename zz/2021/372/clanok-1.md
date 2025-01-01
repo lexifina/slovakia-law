@@ -172,6 +172,8 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 
 - 31. V § 79a ods. 3 písm. b) sa slová „písm. w)“ nahrádzajú slovami „písm. f)“.
 
+- 32. V § 81 ods. 7 písm. c) sa slová „sklo a kompozitné obaly na báze lepenky“ nahrádzajú slovami „sklo, kompozitné obaly na báze lepenky a textil“.
+
 - 33. V § 81 sa odsek 7 dopĺňa písmenom j), ktoré znie:
 
 - „j)
