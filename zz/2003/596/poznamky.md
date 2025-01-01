@@ -38,10 +38,6 @@
 
 - 15) § 2 zákona č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl a školských zariadení.
 
-- 16) § 33a zákona č. 29/1984 Zb. v znení neskorších predpisov.
-
-- Zákon Národnej rady Slovenskej republiky č. 279/1993 Z. z. v znení neskorších predpisov.
-
 - 18) § 53 ods. 5 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
 
 - 19) § 47 a 48 zákona č. 138/2019 Z. z.
@@ -100,11 +96,7 @@
 
 - 35a) Príloha č. 1 k vyhláške Ministerstva školstva Slovenskej republiky č. 437/2009 Z. z., ktorou sa ustanovujú kvalifikačné predpoklady a osobitné kvalifikačné požiadavky pre jednotlivé kategórie pedagogických zamestnancov a odborných zamestnancov v znení neskorších predpisov.
 
-- 35b) § 28c zákona č. 245/2008 Z. z. v znení zákona č. 181/2023 Z. z.
-
 - 36) § 4 zákona č. 302/2001 Z. z.
-
-- 36a) § 31 ods. 2 a 3 zákona č. 61/2015 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov.
 
 - 36b) § 8 zákona Národnej rady Slovenskej republiky č. 221/1996 Z. z. o územnom a správnom usporiadaní Slovenskej republiky.
 
@@ -166,6 +158,8 @@
 
 - 52) § 56 ods.1 zákona č. 277/1994 Z. z. v znení neskorších predpisov.
 
+- 53) § 94 ods. 2 zákona č. 245/2008 Z. z. v znení zákona č. 182/2023 Z. z.
+
 - 54) § 2 zákona č. 513/1991 Zb. Obchodný zákonník.
 
 - 54a) Napríklad § 20a Občianskeho zákonníka, § 14 a 15 zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení zákona č. 35/2002 Z. z., § 14 a 15 zákona č. 34/2002 Z. z. o nadáciách a o zmene Občianskeho zákonníka v znení neskorších predpisov.
@@ -195,8 +189,6 @@
 - 65) Napríklad § 63 ods. 5 zákona č. 29/1984 Zb. v znení neskorších predpisov.
 
 - 66) § 63 ods. 8 zákona č. 29/1984 Zb. v znení neskorších predpisov.
-
-- 67) § 2 a 33a zákona č. 29/1984 Zb. v znení neskorších predpisov.
 
 - 68) § 116 Občianskeho zákonníka.
 

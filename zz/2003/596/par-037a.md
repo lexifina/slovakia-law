@@ -8,9 +8,9 @@
 
 - c) zanedbáva starostlivosť o povinné predprimárne vzdelávanie dieťaťa, najmä ak dieťa neprihlási na plnenie povinného predprimárneho vzdelávania alebo ak dieťa, pre ktoré je predprimárne vzdelávanie povinné, neospravedlnene vynechá viac ako päť dní v mesiaci.
 
-(2) Školský inšpektor uloží pokutu do 331,50 eura zodpovednému zamestnancovi, ktorý neodstránil nedostatky zistené školskou inšpekciou okrem opatrení týkajúcich sa riešenia sťažností a petícií.
+(2) Školský inšpektor uloží, a to aj opakovane, pokutu zodpovednému zamestnancovi, ktorý neodstránil nedostatky zistené školskou inšpekciou okrem opatrení týkajúcich sa riešenia sťažností a petícií do 1 500 eur alebo, ak ide o závažné nedostatky, do 3 000 eur.
 
-(3) Hlavný školský inšpektor uloží pokutu do 663,50 eura zriaďovateľovi, ktorý vymenoval do funkcie riaditeľa osobu, ktorá nespĺňa predpoklady podľa § 3 ods. 5, a rozhodne o opatrení na odstránenie zisteného nedostatku.
+(3) Hlavný školský inšpektor rozhodne o opatrení na odstránenie zisteného nedostatku a uloží pokutu, a to aj opakovane, zriaďovateľovi, ktorý vymenoval do funkcie riaditeľa osobu nespĺňajúcu predpoklady podľa § 3 ods. 5 do 7 000 eur alebo, ak má táto skutočnosť závažné dôsledky na kvalitu riadenia a poskytovania výchovy a vzdelávania v škole alebo v školskom zariadení, do 15 000 eur.
 
 (4) Regionálny úrad uloží pokutu
 
@@ -30,7 +30,7 @@
 
 (5) Ministerstvo uloží pokutu
 
-- a) do 3 319,00 eur zriaďovateľovi, ktorý porušil povinnosť podľa § 17 ods. 5 alebo podľa § 22 ods. 4,
+- a) do 3 319,00 eur zriaďovateľovi, ktorý porušil povinnosť podľa § 17 ods. 10 alebo podľa § 22 ods. 4,
 
 - b) do 33 193,50 eura zriaďovateľovi, ktorý
 
@@ -40,13 +40,7 @@
 
 - c) od 100 eur do 3000 eur zriaďovateľovi, ktorý údaje podľa § 35a neposkytol alebo poskytol nepravdivé údaje,
 
-- d) do 5 000 eur zriaďovateľovi, ktorý
-
-  - 1. nespracuje alebo spracuje nesprávne, nepravdivé alebo neúplné údaje podľa § 23a ods. 3 písm. d), g) až k) a ods. 4 písm. c) alebo
-
-  - 2. nesplní povinnosť oznámiť údaje podľa § 23a ods. 10,
-
-- e) od 1 000 eur do 10 000 eur zriaďovateľovi, ktorý neodvolá riaditeľa v lehote podľa § 3 ods. 17.
+- d) od 1 000 eur do 10 000 eur zriaďovateľovi, ktorý neodvolá riaditeľa v lehote podľa § 3 ods. 17.
 
 (6) Ministerstvo uloží pokutu do 3 000 eur škole alebo školskému zariadeniu, ak
 

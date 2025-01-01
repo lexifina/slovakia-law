@@ -26,7 +26,7 @@
 
 (3) Zmluva o financovaní musí mať písomnú formu, inak je neplatná.
 
-(4) Zriaďovatelia podľa § 6 ods. 12 písm. b) poskytnú obci najneskôr do 25. septembra príslušného kalendárneho roka údaje,<sup>30e</sup>) podľa ktorých obec poskytne finančné prostriedky v nasledujúcom kalendárnom roku. Zriaďovatelia podľa § 9 ods. 12 písm. b) poskytnú samosprávnemu kraju najneskôr do 25. septembra príslušného kalendárneho roka údaje, podľa ktorých samosprávny kraj poskytne finančné prostriedky v nasledujúcom kalendárnom roku podľa počtu detí, žiakov a poslucháčov, podľa stavu k 15. septembru príslušného kalendárneho roka.
+(4) Zriaďovatelia podľa § 6 ods. 12 písm. b) poskytnú obci najneskôr do 25. septembra príslušného kalendárneho roka údaje, podľa ktorých obec poskytne finančné prostriedky v nasledujúcom kalendárnom roku. Zriaďovatelia podľa § 9 ods. 12 písm. b) poskytnú samosprávnemu kraju najneskôr do 25. septembra príslušného kalendárneho roka údaje, podľa ktorých samosprávny kraj poskytne finančné prostriedky v nasledujúcom kalendárnom roku podľa počtu detí, žiakov a poslucháčov, podľa stavu k 15. septembru príslušného kalendárneho roka.
 
 (5) Návrh zmluvy o financovaní sa zverejňuje na úradnej tabuli a na webovom sídle poskytovateľa finančných prostriedkov, ak ho má zriadené, najmenej 15 dní pred jej uzatvorením.
 

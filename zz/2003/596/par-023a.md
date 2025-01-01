@@ -30,7 +30,9 @@
 
 - j) údaj o škole alebo školskom zariadení, či je, alebo nie je právnickou osobou a kontakt školy alebo školského zariadenia na účely komunikácie,
 
-- k) dátum zrušenia školy, školského zariadenia alebo elokovaného pracoviska.
+- k) dátum zrušenia školy, školského zariadenia alebo elokovaného pracoviska,
+
+- l) údaj o škole alebo školskom zariadení, či boli vyradené zo siete alebo zrušené.
 
 (4) V podregistri zriaďovateľov sa vedú tieto údaje:
 
@@ -40,16 +42,10 @@
 
 - c) kontakt na účely komunikácie.
 
-(5) Údaje podľa odseku 3 písm. a) až c), e) a f) spracúva v podregistri škôl, školských zariadení a elokovaných pracovísk ministerstvo na základe právoplatného rozhodnutia o zaradení školy, školského zariadenia alebo elokovaného pracoviska do siete alebo pri zmenách v sieti.
+(5) Údaje podľa odseku 3 písm. a), c) až f) a k) spracúva v podregistri škôl, školských zariadení a elokovaných pracovísk príslušný regionálny úrad a údaje podľa odseku 3 písm. b) spracúva ministerstvo na základe právoplatného rozhodnutia o zaradení školy, školského zariadenia alebo elokovaného pracoviska do siete alebo pri zmenách v sieti.
 
-(6) Údaje podľa odseku 3 písm. d), g), i) až k) spracúva v podregistri škôl, školských zariadení a elokovaných pracovísk zriaďovateľ najneskôr do posledného dňa kalendárneho mesiaca, v ktorom došlo k rozhodujúcej skutočnosti. Údaj podľa odseku 3 písm. h) spracúva zriaďovateľ v podregistri škôl, školských zariadení a elokovaných pracovísk bezodkladne.
+(6) Údaje podľa odseku 3 písm. g) až j) odosiela škola alebo školské zariadenie v elektronickej podobe prostredníctvom prístupových miest do centrálneho registra najneskôr do posledného dňa kalendárneho mesiaca, v ktorom došlo k rozhodujúcej skutočnosti.
 
-(7) Údaje podľa odseku 4 písm. a) a b) spracúva v podregistri zriaďovateľov ministerstvo na základe rozhodnutia o zaradení školy, školského zariadenia alebo elokovaného pracoviska do siete alebo pri zmenách v sieti.
+(7) Údaje podľa odseku 4 pri zaradení alebo vyradení školy alebo školského zariadenia zo siete alebo pri zmene zriaďovateľa spracúva v podregistri zriaďovateľov ministerstvo na základe príslušného rozhodnutia. Zmeny údajov v podregistri zriaďovateľov podľa potvrdenia o zmene spracúva príslušný regionálny úrad.
 
-(8) Údaj podľa odseku 4 písm. c) spracúva v podregistri zriaďovateľov zriaďovateľ do posledného dňa kalendárneho mesiaca, v ktorom došlo k rozhodujúcej skutočnosti.
-
-(9) Povinnosť podľa odsekov 6 a 8 plní zriaďovateľ priamym vložením údajov do centrálneho registra alebo synchronizáciou údajov s údajmi v Centrálnom registri detí, žiakov a poslucháčov, Centrálnom registri pedagogických zamestnancov, odborných zamestnancov a ďalších zamestnancov škôl a školských zariadení alebo v referenčných registroch.
-
-(10) Ak technické podmienky zriaďovateľa neumožňujú splnenie povinnosti podľa odsekov 6 a 8 spôsobom podľa odseku 9, splnenie povinnosti podľa odsekov 6 a 8 zabezpečí prostredníctvom príslušného regionálneho úradu. Zriaďovateľ najneskôr do posledného dňa kalendárneho mesiaca, v ktorom došlo k rozhodujúcej udalosti, oznámi údaje podľa odseku 3 písm. d), g, j) a k) a odseku 4 písm. c) príslušnému regionálnemu úradu na účely ich spracovania v centrálnom registri. Zriaďovateľ bezodkladne po rozhodujúcej udalosti oznámi údaje podľa odseku 3 písm. h) príslušnému regionálnemu úradu na účely ich spracovania v centrálnom registri.
-
-(11) Za správnosť údajov podľa odseku 3 písm. d), g) až k) a odseku 4 písm. c) zodpovedá zriaďovateľ.
+(8) Za správnosť údajov podľa odseku 3 písm. a), c) až k) a odseku 4 písm. c) zodpovedá zriaďovateľ.
