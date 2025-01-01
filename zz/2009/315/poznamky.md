@@ -1,1 +1,0 @@
-- 1) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
