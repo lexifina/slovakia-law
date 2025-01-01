@@ -1,0 +1,5 @@
+Príloha č. 1 k vyhláške č. 277/2012 Z. z.
+
+- VYHODNOTENIE ŠTANDARDOV KVALITY
+
+  - [Príloha 01](../assets/795a439161389cd69b5e4a4f016359f3985a7958693238d3f3413b0c7b381f77.pdf)
