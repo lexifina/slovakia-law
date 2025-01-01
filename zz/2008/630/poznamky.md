@@ -4,9 +4,17 @@
 
 - 6b) § 29 ods. 2 písm. a) a b) zákona č. 61/2015 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov.
 
-- 7) § 117 zákona č. 245/2008 Z. z.
+- 6c) § 28 ods. 2 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov v znení zákona č. 209/2019 Z. z.
 
-- 8) § 94 ods. 2 písm. f) a h) a § 97 ods. 5 písm. c) zákona č. 245/2008 Z. z.
+- 6d) § 28b ods. 2 zákona č. 245/2008 Z. z. v znení zákona č. 209/2019 Z. z.
+
+- 6e) § 28a ods. 5 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
+
+- 6f) § 23 písm. b) až e) a g) zákona č. 245/2008 Z. z. v znení neskorších predpisov.
+
+- 7) § 94 ods. 2 písm. f) až h) a k) zákona č. 245/2008 Z. z. v znení neskorších predpisov.
+
+- 8) § 117 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
 
 - 13) § 5 ods. 6 písm. a) zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
