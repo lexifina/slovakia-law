@@ -12,4 +12,4 @@ Príslušný orgán v rámci posudzovania vplyvov navrhovanej činnosti a posudz
 
 - e) použitých metód hodnotenia a úplnosti informácií,
 
-- f) porovnania s najlepšími dostupnými technológiami.
+- f) porovnania s najlepšími dostupnými technikami.

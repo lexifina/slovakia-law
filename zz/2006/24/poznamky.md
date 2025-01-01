@@ -58,17 +58,17 @@
 
 - 18a) § 28 ods. 6 až 8 a 10 zákona č. 543/2002 Z. z.
 
-- 19) Zákon č. 81/1966 Zb. o periodickej tlači a o ostatných hromadných informačných prostriedkoch v znení neskorších predpisov.
-
 - 20) § 1 ods. 2 zákona č. 128/2015 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov.
+
+- 21) § 2 písm. n) zákona č. 39/2013 Z. z.
 
 - 22) § 5 zákona č. 17/1992 Zb. v znení zákona č. 287/1994 Z. z.
 
 - 22a) Napríklad § 17 až 31 zákona č. 543/2002 Z. z. v znení neskorších predpisov, § 16 a 31 zákona č. 364/2004 Z. z. v znení neskorších predpisov, § 26, 32 a 35 zákona č. 538/2005 Z. z. o prírodných liečivých vodách, prírodných liečebných kúpeľoch, kúpeľných miestach a prírodných minerálnych vodách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 22b) § 47 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
-
 - 22c) § 139 ods. 3 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 23) Napríklad vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 549/2007 Z. z., ktorou sa ustanovujú podrobnosti o prípustných hodnotách hluku, infrazvuku a vibrácií a o požiadavkách na objektivizáciu hluku, infrazvuku a vibrácií v životnom prostredí v znení vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 237/2009 Z. z., nariadenie vlády Slovenskej republiky č. 201/2011 Z. z., ktorým sa ustanovujú technické špecifikácie pre chemickú analýzu a monitorovanie stavu vôd, vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 233/2014 Z. z. o podrobnostiach hodnotenia vplyvov na verejné zdravie, zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, vyhláška Ministerstva životného prostredia Slovenskej republiky č. 170/2021 Z. z., ktorou sa vykonáva zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, zákon č. 146/2023 Z. z. o ochrane ovzdušia a o zmene a doplnení niektorých zákonov v znení zákona č. 272/2023 Z. z.
 
 - 24) § 14 zákona č. 71/1967 Zb.
 
@@ -76,9 +76,17 @@
 
 - § 20f až 20j Občianskeho zákonníka.
 
-- 25a) Zákon č. 364/2004 Z. z. v znení neskorších predpisov.
+- 25a) § 29 až 33 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
 
-- 25b) § 10 a 11 zákona č. 49/2002 Z. z. o ochrane pamiatkového fondu v znení neskorších predpisov.
+- 25b) Napríklad zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov, zákon č. 39/2013 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 25c) § 58 a 61 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
+- 25d) Napríklad zákon č. 543/2002 Z. z. v znení neskorších predpisov.
+
+- 25e) Zákon č. 364/2004 Z. z. v znení neskorších predpisov.
+
+- 25f) § 10 a 11 zákona č. 49/2002 Z. z. o ochrane pamiatkového fondu v znení neskorších predpisov.
 
 - 26a) § 2 písm. f) prvý bod zákona č. 541/2004 Z. z. v znení neskorších predpisov.
 
@@ -108,6 +116,8 @@
 
 - 40) § 19b zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
-- 40a) Napríklad zákon č. 200/2021 Z. z., zákon č. 223/2001 Z. z. v znení neskorších predpisov, zákon č. 543/2002 Z. z. v znení neskorších predpisov, zákon č. 245/2003 Z. z. v znení neskorších predpisov, zákon č. 364/2004 Z. z. v znení neskorších predpisov, zákon č. 137/2010 Z. z. o ovzduší.
+- 40a) Napríklad zákon č. 200/2022 Z. z. v znení neskorších predpisov, zákon č. 543/2002 Z. z. v znení neskorších predpisov, zákon č. 364/2004 Z. z. v znení neskorších predpisov, zákon č. 39/2013 Z. z. v znení neskorších predpisov, zákon č. 79/2015 Z. z. v znení neskorších predpisov, zákon č. 146/2023 Z. z. v znení zákona č. 272/2023 Z. z.
 
 - 40aa) § 5 ods. 4 písm. k) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení zákona č. 172/2011 Z. z.
+
+- 41) Zákon č. 158/2015 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.

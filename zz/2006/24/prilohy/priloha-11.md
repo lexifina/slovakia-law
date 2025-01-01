@@ -36,7 +36,7 @@ Príloha č. 11 k zákonu č. 24/2006 Z. z.
 
     - 9. Popis technického a technologického riešenia.
 
-    - 10. Varianty navrhovanej činnosti.
+    - 10. Varianty navrhovanej činnosti podľa § 22 ods. 2.
 
     - 11. Celkové náklady (orientačné).
 
@@ -186,15 +186,15 @@ Príloha č. 11 k zákonu č. 24/2006 Z. z.
 
     - 6. Vyjadrenie k technicko-ekonomickej realizovateľnosti opatrení.
 
-  - V. Porovnanie vhodných variantov navrhovanej činnosti a návrh optimálneho variantu s prihliadnutím na vplyvy na životné prostredie
+  - V. Porovnanie vhodných variantov navrhovanej činnosti podľa § 22 ods. 2 a návrh optimálneho variantu s prihliadnutím na vplyvy na životné prostredie
 
   - (vrátane porovnania s nulovým variantom)
 
-    - 1. Tvorba súboru kritérií so zreteľom na charakter, veľkosť a rozsah navrhovanej činnosti, technológiu a umiestnenie a určenie ich dôležitosti na výber optimálneho variantu.
+    - 1. Tvorba súboru kritérií so zreteľom na charakter, veľkosť a rozsah navrhovanej činnosti, technológiu a umiestnenie a určenie ich dôležitosti na výber optimálneho variantu navrhovanej činnosti podľa § 22 ods. 2.
 
-    - 2. Výber optimálneho variantu alebo stanovenie poradia vhodnosti pre posudzované varianty.
+    - 2. Výber optimálneho variantu alebo stanovenie poradia vhodnosti pre posudzované varianty navrhovanej činnosti podľa § 22 ods. 2.
 
-    - 3. Zdôvodnenie návrhu optimálneho variantu.
+    - 3. Zdôvodnenie návrhu optimálneho variantu navrhovanej činnosti podľa § 22 ods. 2.
 
   - VI. Návrh monitoringu a poprojektovej analýzy
 

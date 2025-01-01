@@ -1,6 +1,6 @@
 # § 37a
 
-(1) Navrhovateľ je povinný pred začatím stavebného konania na stavbu jadrového zariadenia podľa osobitného predpisu<sup>26a</sup>) zaslať príslušnému orgánu žiadosť o vyhodnotenie súladu návrhu dokumentácie pre stavebné konanie s aktuálnosťou rozhodnutí vydanými podľa tohto zákona a ich podmienkami vo vzťahu k životnému prostrediu, ktorá obsahuje písomné vyhodnotenie spôsobu zapracovania podmienok určených v rozhodnutí vydanom v zisťovacom konaní alebo v záverečnom stanovisku a projektovú dokumentáciu.
+(1) Navrhovateľ je povinný pred začatím stavebného konania na stavbu jadrového zariadenia podľa osobitného predpisu<sup>26a</sup>) zaslať príslušnému orgánu žiadosť o vyhodnotenie súladu návrhu dokumentácie pre stavebné konanie s aktuálnosťou rozhodnutí vydanými podľa tohto zákona a ich podmienkami vo vzťahu k životnému prostrediu, ktorá obsahuje písomné vyhodnotenie spôsobu zapracovania podmienok určených v záväznom stanovisku zo zisťovacieho konania alebo v záverečnom stanovisku a projektovú dokumentáciu.
 
 (2) Príslušným orgánom na vyhodnotenie súladu je ministerstvo.
 

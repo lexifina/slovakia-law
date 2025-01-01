@@ -44,7 +44,7 @@ Príloha č. 12 k zákonu č. 24/2006 Z. z.
 
     - 1. Záverečné stanovisko (súhlasí, nesúhlasí).
 
-    - 2. Odsúhlasený variant.
+    - 2. Odsúhlasený variant navrhovanej činnosti podľa § 22 ods. 2.
 
     - 3. Opatrenia a podmienky na prípravu, realizáciu a prípadne na ukončenie navrhovanej činnosti alebo jej zmeny, ak je spojené s likvidáciou, sanáciou alebo rekultiváciou vrátane opatrení na vylúčenie alebo zníženie významne nepriaznivých vplyvov navrhovanej činnosti alebo jej zmeny.
 
