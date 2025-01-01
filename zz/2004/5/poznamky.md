@@ -250,9 +250,19 @@
 
 - 40) § 20f až 20j Občianskeho zákonníka.
 
-- 41) § 21 zákona č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 315/2012 Z. z.
+- 41) § 7 zákona č. 292/2024 Z. z. o vzdelávaní dospelých a o zmene a doplnení niektorých zákonov.
 
-- 41a) Zákon č. 568/2009 Z. z. v znení neskorších predpisov.
+- 41a) Zákon č. 292/2024 Z. z.
+
+- 41b) § 13 zákona č. 292/2024 Z. z.
+
+- 41c) § 7 ods. 1 zákona č. 292/2024 Z. z.
+
+- 41d) § 20 ods. 2 zákona č. 292/2024 Z. z.
+
+- 41e) § 20 ods. 5 zákona č. 292/2024 Z. z.
+
+- 41f) § 25 ods. 10 zákona č. 292/2024 Z. z.
 
 - 42) § 116 Občianskeho zákonníka.
 
@@ -264,9 +274,7 @@
 
 - 45a) Zákon č. 578/2004 Z. z. v znení neskorších predpisov.
 
-- 45c) § 8 ods. 3 písm. a) zákona č. 568/2009 Z. z.
-
-- 45d) § 8 ods. 3 písm. b) zákona č. 568/2009 Z. z.
+- 45c) § 9 ods. 1 a § 19 zákona č. 292/2024 Z. z.
 
 - 45e) Napríklad zákon č. 93/2005 Z. z. o autoškolách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 124/2006 Z. z. v znení neskorších predpisov, zákon č. 280/2006 Z. z. o povinnej základnej kvalifikácii a pravidelnom výcviku niektorých vodičov v znení neskorších predpisov.
 
@@ -348,7 +356,7 @@
 
 - 63aa) Čl. 107 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 83, 30. 3. 2010).
 
-- 63aaa) Zákon č. 568/2009 Z. z.
+- 63aaa) Zákon č. 292/2024 Z. z.
 
 - 63aaaa) Štvrtá časť tretia hlava zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
