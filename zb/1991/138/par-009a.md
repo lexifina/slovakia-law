@@ -12,7 +12,7 @@
 
 (3) Podmienky obchodnej verejnej súťaže obec uverejní minimálne na 15 dní pred uzávierkou na podávanie návrhov do obchodnej verejnej súťaže.
 
-(4) Návrhy do obchodnej verejnej súťaže sa podávajú cez elektronickú schránku<sup>22da</sup>) alebo v listinnej podobe, ak záujemca nemá aktivovanú elektronickú schránku. Všetky návrhy podané do obchodnej verejnej súťaže obec zverejňuje do 10 pracovných dní od uplynutia lehoty na predkladanie návrhov, po dobu minimálne 30 dní, na úradnej tabuli obce a na webovom sídle obce, ak ho má obec zriadené.
+(4) Návrhy do obchodnej verejnej súťaže sa podávajú v elektronickej podobe alebo v listinnej podobe, pričom o podobe podania návrhu rozhoduje záujemca; obec je povinná zabezpečiť mlčanlivosť o údajoch z podaných návrhov až do uplynutia lehoty na ich predkladanie. Všetky návrhy podané do obchodnej verejnej súťaže obec zverejňuje do 10 pracovných dní od uplynutia lehoty na predkladanie návrhov, po dobu minimálne 30 dní, na úradnej tabuli obce a na webovom sídle obce, ak ho má obec zriadené.
 
 (5) Obec prevedie svoj majetok záujemcovi, ktorý splní podmienky obchodnej verejnej súťaže a ktorého návrh je najvýhodnejší.
 
@@ -32,7 +32,7 @@
 
 <sup>22d</sup>) pri priamom predaji nesmie byť v deň schválenia prevodu obecným zastupiteľstvom staršie ako šesť mesiacov.
 
-(11) Cenové ponuky na odkúpenie majetku obce sa doručujú cez elektronickú schránku<sup>22da</sup>) alebo v listinnej podobe, ak záujemca nemá aktivovanú elektronickú schránku. Cenové ponuky všetkých záujemcov na odkúpenie majetku obce priamym predajom je obec povinná zverejniť do 10 pracovných dní od uplynutia lehoty na doručovanie cenových ponúk, po dobu minimálne 30 dní, na úradnej tabuli a na webovom sídle obce, ak ho má obec zriadené.
+(11) Cenové ponuky na odkúpenie majetku obce sa doručujú v elektronickej podobe alebo v listinnej podobe, pričom o podobe doručenia cenovej ponuky rozhoduje záujemca; obec je povinná zabezpečiť mlčanlivosť o údajoch z doručených cenových ponúk až do uplynutia lehoty na ich predkladanie. Cenové ponuky všetkých záujemcov na odkúpenie majetku obce priamym predajom je obec povinná zverejniť do 10 pracovných dní od uplynutia lehoty na doručovanie cenových ponúk, po dobu minimálne 30 dní, na úradnej tabuli a na webovom sídle obce, ak ho má obec zriadené.
 
 (12) Obec prevedie majetok obce priamym predajom záujemcovi, ktorý ponúkne najvyššiu cenu.
 
