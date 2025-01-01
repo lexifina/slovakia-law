@@ -32,7 +32,7 @@
 
   - 2. názov, meno a priezvisko, ak je iné ako názov, miesto podnikania, identifikačné číslo organizácie, ak ide o fyzickú osobu – podnikateľa, alebo
 
-  - 3. názov, sídlo, právnu formu, identifikačné číslo, ak je pridelené, ak ide o právnickú osobu,
+  - 3. názov, sídlo, právnu formu, identifikačné číslo organizácie, ak je pridelené, ak ide o právnickú osobu,
 
 - b) vzťah podávateľa podnetu k dotknutej osobe, ak nejde o tú istú osobu,
 
@@ -54,7 +54,7 @@
 
 - b) v tej istej veci už bol dohľad nad zdravotnou starostlivosťou vykonaný a nie sú splnené podmienky na výkon následného dohľadu nad zdravotnou starostlivosťou v tej istej veci (ďalej len „následný dohľad“),
 
-- c) je z neho zrejmé, že ide o opakované a zjavne bezdôvodné uplatňovanie práva na prešetrenie správnosti poskytnutej zdravotnej starostlivosti,
+- c) je z neho zrejmé, že ide o opakované alebo zjavne bezdôvodné uplatňovanie práva na prešetrenie správnosti poskytnutej zdravotnej starostlivosti, alebo zákonnosti postupu zdravotnej poisťovne,
 
 - d) obdobie, v ktorom malo dôjsť k porušeniu práva alebo právom chráneného záujmu pri poskytovaní zdravotnej starostlivosti, je viac ako päť rokov od doručenia podnetu úradu.
 

@@ -10,7 +10,7 @@
 
 (2) Poskytovateľ zdravotnej starostlivosti, ktorý má vydané povolenie na prevádzkovanie zdravotníckeho zariadenia ústavnej zdravotnej starostlivosti, zasiela úradu rozpis prehliadajúcich lekárov v zariadení ústavnej zdravotnej starostlivosti (ďalej len „rozpis poskytovateľa“)
 
-- a) najneskôr k poslednému dňu kalendárneho mesiaca, ktorý o jeden mesiac predchádza kalendárnemu mesiacu, na ktorý sa rozpis poskytovateľa vyhotovuje,
+- a) bezodkladne po vyhotovení rozpisu poskytovateľa zdravotnej starostlivosti a pri každej jeho zmene,
 
 - b) bezodkladne na základe žiadosti úradu.
 
@@ -18,8 +18,10 @@
 
 - a) obdobie, na ktoré sa rozpis poskytovateľa vyhotovuje,
 
-- b) zoznam prehliadajúcich lekárov s uvedením mena a priezviska, číselného kódu zdravotníckeho pracovníka, telefonického kontaktu, dátumu a času, v ktorom budú vykonávať prehliadky mŕtvych tiel,
+- b) zoznam prehliadajúcich lekárov s uvedením mena a priezviska, číselného kódu zdravotníckeho pracovníka, telefonického a e-mailového kontaktu, dátumu a času, v ktorom budú vykonávať prehliadky mŕtvych tiel, a čísla oprávnenia na vykonávanie prehliadok mŕtvych tiel,
 
 - c) meno, priezvisko a telefonický kontakt osoby zabezpečujúcej prehliadky mŕtvych tiel v zdravotníckom zariadení ústavnej zdravotnej starostlivosti.
 
 (4) Poskytovateľ zdravotnej starostlivosti, ktorý má vydané povolenie na prevádzkovanie zdravotníckeho zariadenia ústavnej zdravotnej starostlivosti, vytvorí podmienky na splnenie povinnosti prehliadajúceho lekára podľa § 47b v tomto zdravotníckom zariadení.
+
+(5) Poskytovateľ zdravotnej starostlivosti, ktorý má vydané povolenie na prevádzkovanie zdravotníckeho zariadenia ústavnej zdravotnej starostlivosti, je povinný písomne oznámiť úradu ukončenie zaraďovania prehliadajúceho lekára do rozpisu poskytovateľa zdravotnej starostlivosti najneskôr nasledujúci pracovný deň po tejto skutočnosti.

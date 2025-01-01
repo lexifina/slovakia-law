@@ -4,7 +4,7 @@
 
 (2) Žiadosť podľa odseku 1 obsahuje
 
-- a) obchodné meno, sídlo alebo miesto podnikania, identifikačné číslo, e-mailovú adresu a telefónne číslo, a údaje o bankovom účte žiadateľa o osvedčenie zhody vrátane medzinárodného bankového čísla účtu a medzinárodného kódu banky žiadateľa o osvedčenie zhody,
+- a) obchodné meno, sídlo alebo miesto podnikania, identifikačné číslo organizácie, e-mailovú adresu a telefónne číslo, a údaje o bankovom účte žiadateľa o osvedčenie zhody vrátane medzinárodného bankového čísla účtu a medzinárodného kódu banky žiadateľa o osvedčenie zhody,
 
 - b) titul, meno, priezvisko, názov funkcie, telefónne číslo a e-mailovú adresu povereného zástupcu žiadateľa o osvedčenie zhody,
 

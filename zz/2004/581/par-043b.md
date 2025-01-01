@@ -10,9 +10,9 @@
 
 - d) na základe poznatkov ministerstva zdravotníctva.
 
-(2) Výkon dohľadu začína vydaním poverenia úradu podľa § 43 ods. 4. Ak sa poverenie nevyhotovuje, výkon dohľadu začína doručením oznámenia o začatí výkonu dohľadu dohliadanému subjektu.
+(2) Výkon dohľadu začína dňom uvedeným v poverení vydanom podľa § 43 ods. 4. Ak sa poverenie nevyhotovuje, výkon dohľadu začína doručením oznámenia o začatí výkonu dohľadu dohliadanému subjektu.
 
-(3) Poverenie úradu na výkon dohľadu obsahuje označenie dohliadaného subjektu, meno a priezvisko osoby oprávnenej na výkon dohľadu, predmet dohľadu, deň začatia výkonu dohľadu, dátum a miesto vyhotovenia poverenia, odtlačok pečiatky úradu a meno, priezvisko, funkciu a podpis zamestnanca úradu oprávneného na vydanie poverenia.
+(3) Poverenie úradu na výkon dohľadu možno vydať v listinnej podobe alebo v elektronickej podobe. Poverenie úradu na výkon dohľadu musí byť autorizované podľa osobitného predpisu.<sup>62a</sup>) Poverenie úradu na výkon dohľadu obsahuje označenie dohliadaného subjektu, meno a priezvisko osoby oprávnenej na výkon dohľadu, predmet dohľadu, deň začatia výkonu dohľadu, dátum a miesto vyhotovenia poverenia, odtlačok pečiatky úradu, ak bolo poverenie vydané v listinnej podobe, a meno, priezvisko, funkciu a podpis zamestnanca úradu oprávneného na vydanie poverenia.
 
 (4) Podkladom na výkon dohľadu nad poskytovaním zdravotnej starostlivosti je zdravotná dokumentácia vedená podľa osobitného predpisu.<sup>62aa</sup>)
 

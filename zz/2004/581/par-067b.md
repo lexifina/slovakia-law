@@ -48,14 +48,20 @@
 
 - d) pravidlá kódovania chorôb a pravidiel kódovania zdravotných výkonov pre nasledujúci kalendárny rok do 30. novembra,
 
-- e) pravidlá pre výpočet prípadových paušálov definujúce výpočet prípadového paušálu a pravidlá pre zlučovanie hospitalizačných prípadov,
+- e) pravidlá pre výpočet prípadových paušálov definujúce výpočet prípadového paušálu pre hospitalizačné prípady a prípady jednodňovej zdravotnej starostlivosti a pravidlá pre zlučovanie hospitalizačných prípadov,
 
 - f) kalkulačnú príručku,
 
-- g) metodiku výpočtu a konvergencie základných sadzieb,
+- g) metodiku
+
+  - 1. výpočtu základných sadzieb vrátane úhrad za poskytnutú zdravotnú starostlivosť podľa klasifikačného systému zdravotnými poisťovňami za každého poskytovateľa ústavnej zdravotnej starostlivosti, úhrad za pripočítateľné položky podľa klasifikačného systému zdravotnými poisťovňami za každého poskytovateľa ústavnej zdravotnej starostlivosti a súčtu efektívnych relatívnych váh na každého poskytovateľa ústavnej zdravotnej starostlivosti za predchádzajúci kalendárny rok,
+
+  - 2. pripočítateľných položiek, zdravotných výkonov, definičnej príručky a parametrov klasifikačného systému,
 
 - h) podrobnosti k procesu osvedčovania zhody,
 
 - i) metodiku výpočtu relatívnych váh,
 
 - j) zoznam zdravotných výkonov pre klasifikačný systém diagnosticko-terapeutických skupín.
+
+(4) Ak po uplynutí lehoty podľa odseku 3 písm. a) až d) nastanú okolnosti vyžadujúce si úpravu uverejnených dokumentov, ministerstvo zdravotníctva uverejní na svojom webovom sídle ich aktualizáciu po prerokovaní s riadiacim výborom pre úhradové mechanizmy a reguláciu cien.

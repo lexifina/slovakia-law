@@ -16,9 +16,7 @@
 
 - b) výšku úhrady za ošetrovateľskú starostlivosť ustanovenú cenovým predpisom<sup>24</sup>) a
 
-- c) splatnosť úhrady za poskytnutú ošetrovateľskú starostlivosť podľa § 8 ods. 2,
-
-- d) dohodu o poskytovaní údajov na účel monitorovania dostupnosti a vyhodnotenia kvality a efektívnosti ošetrovateľskej starostlivosti v rámci dlhodobej zdravotnej starostlivosti podľa § 6c ods. 2 a 3.
+- c) splatnosť úhrady za poskytnutú ošetrovateľskú starostlivosť podľa § 8 ods. 2.
 
 (3) Zdravotná poisťovňa je oprávnená vypovedať zmluvu o poskytovaní ošetrovateľskej starostlivosti v zariadení sociálnej pomoci, ak
 

@@ -28,7 +28,7 @@
 
 - 13) § 9 ods. 7 zákona č. 580/2004 Z. z.
 
-- 14) § 6 ods. 9 a § 25 ods. 1 písm. b) zákona č. 580/2004 Z. z.
+- 14) § 6 ods. 7 a § 25 ods. 1 písm. c) zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
 - 14a) § 22 zákona č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 185/2014 Z. z.
 
@@ -92,6 +92,8 @@
 
 - 17f) § 90 ods. 3 a 4 alebo § 96 ods. 2 zákona č. 363/2011 Z. z. v znení zákona č. 266/2022 Z. z.
 
+- 17g) § 9a, § 9b a 9d zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
 - 18) Zákon č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 270/2008 Z. z.
 
 - 18a) § 26 zákona č. 431/2002 Z. z. v znení zákona č. 561/2004 Z. z.
@@ -113,6 +115,10 @@
 - 18eb) § 10 a 14 zákona č. 355/2007 Z. z. v znení zákona č. 306/2012 Z. z.
 
 - 18ec) § 42 ods. 5 a 6 zákona č. 577/2004 Z. z.
+
+- 18ed) § 42 ods. 4 zákona č. 577/2004 Z. z. v znení neskorších predpisov.
+
+- § 88 ods. 6 zákona č. 363/2011 Z. z.
 
 - 18f) § 16 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
 
@@ -136,23 +142,23 @@
 
 - 18o) § 9d ods. 1 zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
 
-- 18p) § 2 ods. 37 zákona č. 576/2004 Z. z. v znení zákona č. 267/2022 Z. z.
+- 19) § 5 až 5d zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
-- 18r) § 7 ods. 3 písm. e) zákona č. 578/2004 Z. z.
+- 19a) § 6 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
-- § 7 ods. 4 písm. d) zákona č. 578/2004 Z. z.
+- 19aa) § 5b ods. 1 zákona č. 578/2004 Z. z. v znení zákona č. 360/2024 Z. z.
 
-- 18s) Zákon č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov.
+- 19b) § 6d zákona č. 578/2004 Z. z. v znení zákona č. 360/2024 Z. z.
 
-- 18t) Príloha č. 2 zákona č. 576/2004 Z. z. v znení zákona č. 267/2022 Z. z.
-
-- 19) § 5 až 5d zákona č. 578/2004 Z. z.
-
-- 19a) § 6 zákona č. 578/2004 Z. z.
+- 19c) § 6e zákona č. 578/2004 Z. z. v znení zákona č. 360/2024 Z. z.
 
 - 20) § 7 ods. 1 písm. a) prvý bod a § 8 ods. 2 zákona č. 576/2004 Z. z.
 
 - 21) § 12 ods. 1 a 6 zákona č. 576/2004 Z. z.
+
+- 21a) § 7 ods. 1 písm. a) tretí bod zákona č. 576/2004 Z. z. v znení zákona č. 662/2007 Z. z.
+
+- 21b) Príloha č. 1a k zákonu č. 578/2004 Z. z. v znení zákona č. 360/2024 Z. z.
 
 - 22) § 7 ods. 1 písm. c) a § 10 zákona č. 576/2004 Z. z.
 
@@ -232,7 +238,13 @@
 
 - 27d) § 5 ods. 6 písm. f) a g) zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
 
+- 27da) § 2 ods. 9 zákona č. 153/2013 Z. z. v znení zákona č. 361/2024 Z. z.
+
 - 27e) § 7 zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
+
+- 27ea) § 3 ods. 8 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+
+- 27eb) § 3 ods. 5 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
 
 - 27f) § 13 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
 
@@ -302,8 +314,6 @@
 
 - 35aaka) § 11 ods. 1 a 2 zákona č. 580/2004 Z. z.
 
-- 35aakaa) § 1 zákona č. 328/2002 Z. z. v znení neskorších predpisov.
-
 - 35aakb) Čl. 2 ods. 2 nariadenia Európskeho parlamentu a Rady (EÚ) 2021/953 zo 14. júna 2021 o rámci pre vydávanie, overovanie a uznávanie interoperabilných potvrdení o očkovaní proti ochoreniu COVID-19, o vykonaní testu a prekonaní tohto ochorenia (digitálny COVID preukaz EÚ) s cieľom uľahčiť voľný pohyb počas pandémie ochorenia COVID-19 (Ú. v. EÚ L 211, 15. 6. 2021).
 
 - 35aakc) § 12 ods. 7 písm. c) zákona č. 153/2013 Z. z. v znení zákona č. 252/2021 Z. z.
@@ -311,6 +321,8 @@
 - 35aakd) § 10d ods. 1 zákona č. 576/2004 Z. z. v znení zákona č. 267/2022 Z. z.
 
 - 35aake) § 10e ods. 3 písm. b) a c) zákona č. 576/2004 Z. z. v znení zákona č. 267/2022 Z. z.
+
+- 35aakf) § 3a ods. 28 písm. e) zákona č. 153/2013 Z. z. v znení zákona č. 361/2024 Z. z.
 
 - 35aal) § 3 ods. 1 písm. c) zákona č. 523/2004 Z. z. v znení neskorších predpisov.
 
@@ -333,8 +345,6 @@
 - 35ca) Nariadenie Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) (Ú. v. EÚ L 119, 4. 5. 2016).
 
 - Zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
-
-- 35caa) § 10 ods. 3 písm. h) zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení zákona č. 238/2017 Z. z.
 
 - 35cb) § 9 ods. 7 písm. c) zákona č. 580/2004 Z. z. v znení zákona č. 356/2016 Z. z.
 
@@ -392,7 +402,7 @@
 
 - 41aaa) § 120 ods. 5 zákona č. 461/2003 Z. z. v znení zákona č. 266/2017 Z. z.
 
-- 41aab) § 25 ods. 1 písm. e) druhý bod zákona č. 580/2004 Z. z. v znení zákona č. 250/2011 Z. z.
+- 41aab) § 25 ods. 1 písm. f) druhý bod zákona č. 580/2004 Z. z. v znení zákona č. 250/2011 Z. z.
 
 - 41aac) § 81 ods. 1 písm. a) zákona č. 578/2004 Z. z. v znení zákona č. 285/2023 Z. z.
 
@@ -402,7 +412,7 @@
 
 - § 152a zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov v znení zákona č. 2/2022 Z. z.
 
-- 41aad) § 6 ods. 11 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+- 41aad) § 6 ods. 9 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
 - 41ab) § 3 ods. 1 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov.
 
@@ -415,6 +425,8 @@
 - 41bd) § 68 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
 - 41be) § 14 ods. 1 písm. a) zákona č. 153/2013 Z. z.
+
+- 41bea) § 3 ods. 1 písm. a) piaty bod zákona č. 153/2013 Z. z. v znení zákona č. 361/2024 Z. z.
 
 - 41bf) § 153 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
@@ -470,10 +482,6 @@
 
 - 45) Zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 45a) Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006).
-
-- § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
-
 - 45b) Zákon č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 46) § 41 ods. 2 a § 116 až 152 Trestného zákona.
@@ -502,7 +510,7 @@
 
 - 54) § 4 a 6 zákona č. 8/2008 Z. z.
 
-- 55) Zákon č. 123/1996 Z. z. o doplnkovom dôchodkovom poistení zamestnancov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 55) Zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 56) Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -524,13 +532,9 @@
 
 - 61a) § 128 ods. 1 Trestného zákona.
 
-- 61aa) § 51 Občianskeho zákonníka.
-
-- § 269 ods. 2 Obchodného zákonníka.
-
 - 61ab) § 4 zákona č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 61ac) § 23 Správneho poriadku.
+- 61ac) § 36 Správneho poriadku.
 
 - 61b) § 33 zákona č. 578/2004 Z. z. v znení zákona č. 351/2005 Z. z.
 
@@ -666,7 +670,13 @@
 
 - 95b) Napríklad zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov, zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov, zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
 
-- 95c) § 153 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+- 95ba) Ústavný zákon č. 493/2011 Z. z. o rozpočtovej zodpovednosti.
+
+- 95bb) § 3 ods. 3 písm. f) zákona č. 355/2007 Z. z.
+
+- 95c) § 2 zákona č. 453/2003 Z. z.
+
+- 95ca) Nariadenie Európskeho parlamentu a Rady (ES) č. 883/2004 z 29. apríla 2004 o koordinácii systémov sociálneho zabezpečenia (Mimoriadne vydanie Ú. v. EÚ, kap. 5/ zv. 5; Ú. v. EÚ L 166, 30. 4. 2004) v platnom znení.
 
 - 95d) Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 

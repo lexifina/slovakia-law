@@ -8,7 +8,7 @@
 
 (4) Ak adresát písomnosti bezdôvodne odoprel písomnosť prijať, písomnosť sa považuje za doručenú dňom, keď sa jej prijatie odoprelo.
 
-(5) Ak je podávateľ podnetu zastúpený splnomocneným zástupcom podľa § 43a ods. 6, úrad doručuje písomnosti súvisiace s prešetrením podnetu len splnomocnenému zástupcovi. Ak má podávateľ podnetu v súvislosti s prešetrením podnetu osobne niečo vykonať pri výkone dohľadu, doručuje sa výzva úradu podávateľovi podnetu aj jeho splnomocnenému zástupcovi.
+(5) Ak je adresát zastúpený splnomocneným zástupcom podľa § 43a ods. 6, úrad doručuje písomnosti súvisiace s prešetrením podnetu len splnomocnenému zástupcovi. Ak má adresát v súvislosti s prešetrením podnetu osobne niečo vykonať pri výkone dohľadu, doručuje sa výzva úradu adresátovi aj jeho splnomocnenému zástupcovi.
 
 (6) Ak nie je lehota na vykonanie úkonu ustanovená týmto zákonom, lehotu určí úrad; lehota nemôže byť kratšia ako päť pracovných dní.
 
