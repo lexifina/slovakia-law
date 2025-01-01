@@ -12,7 +12,7 @@
 
 - e) vzdelávanie zamestnancov školy zamerané na poskytovanie podporných opatrení,
 
-- f) skvalitnenie podmienok výchovy a vzdelávania žiakov zo sociálne znevýhodneného prostredia.
+- f) skvalitnenie podmienok výchovy a vzdelávania detí a žiakov zo sociálne znevýhodneného prostredia.
 
 (2) Ministerstvo môže na účel poskytovania podporných opatrení prideliť z kapitoly ministerstva v priebehu kalendárneho roka na základe skutočnej potreby zriaďovateľovi školy alebo školského zariadenia, ktorý o to požiada, príspevok na
 
