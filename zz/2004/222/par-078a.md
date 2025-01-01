@@ -1,6 +1,6 @@
 # § 78a Kontrolný výkaz
 
-(1) Platiteľ je povinný podať kontrolný výkaz elektronickými prostriedkami za každé zdaňovacie obdobie, za ktoré je povinný podať daňové priznanie, do 25 dní po skončení zdaňovacieho obdobia. Platiteľ nie je povinný podať kontrolný výkaz za zdaňovacie obdobie, za ktoré podáva daňové priznanie, v ktorom
+(1) Platiteľ je povinný podať kontrolný výkaz elektronickými prostriedkami za každé zdaňovacie obdobie, za ktoré je povinný podať daňové priznanie, do 25 dní po skončení zdaňovacieho obdobia. Ak platiteľ, ktorý splnil registračnú povinnosť, nemá do uplynutia lehoty na podanie kontrolného výkazu podľa prvej vety za prvé zdaňovacie obdobie pridelené identifikačné číslo pre daň podľa § 4 alebo § 5, je povinný podať kontrolný výkaz do piatich pracovných dní odo dňa doručenia rozhodnutia o registrácii pre daň podľa § 4 ods. 4 alebo podľa § 5 ods. 3 alebo ods. 5. Platiteľ nie je povinný podať kontrolný výkaz za zdaňovacie obdobie, za ktoré podáva daňové priznanie, v ktorom
 
 - a) nie je povinný uviesť žiadne údaje o plneniach,
 
@@ -22,7 +22,7 @@
 
 - e) údaje o oprave základu dane podľa § 25a a údaje o oprave odpočítanej dane podľa § 53b.
 
-(3) Ak platiteľ nie je povinný mať faktúru na uplatnenie práva na odpočítanie dane podľa § 51 ods. 1 písm. b), uvedie údaje do kontrolného výkazu z iného dokladu o dodaní tovaru alebo služby.
+(3) Ak platiteľ nie je povinný mať faktúru na uplatnenie práva na odpočítanie dane podľa § 51 ods. 1 písm. b), uvedie údaje do kontrolného výkazu z iného dokladu o dodaní tovaru alebo služby a ak platiteľ uplatňuje právo na odpočítanie dane podľa § 51 ods. 1 písm. c) na základe iného dokladu ako faktúry, uvedie údaje do kontrolného výkazu z tohto iného dokladu.
 
 (4) Z faktúr uvedených v odseku 2 alebo z dokladu podľa odseku 3 sa v kontrolnom výkaze uvádzajú tieto údaje:
 
@@ -86,6 +86,8 @@
 
 (13) Ak nebol kontrolný výkaz podaný v lehote podľa odseku 1, daňový úrad vyzve platiteľa na jeho podanie. Ak vzniknú pochybnosti o správnosti, pravdivosti alebo úplnosti podaného kontrolného výkazu alebo o pravdivosti údajov v ňom uvedených, oznámi daňový úrad tieto pochybnosti platiteľovi, ktorý kontrolný výkaz podal, a vyzve ho, aby sa k nim vyjadril, neúplné údaje doplnil, nejasnosti vysvetlil a nepravdivé údaje opravil alebo pravdivosť údajov riadne preukázal. Na základe tejto výzvy je platiteľ povinný do piatich pracovných dní od doručenia výzvy nedostatky podaného kontrolného výkazu odstrániť.
 
-(14) Ak platiteľ nedoručí kontrolný výkaz daňovému úradu, doručí kontrolný výkaz oneskorene, uvedie v kontrolnom výkaze neúplné alebo nesprávne údaje alebo v lehote určenej vo výzve daňového úradu neodstráni nedostatky podaného kontrolného výkazu, daňový úrad uloží platiteľovi pokutu do výšky 10 000 eur. Ak platiteľ poruší povinnosti podľa prvej vety opakovane, daňový úrad uloží pokutu do výšky 100 000 eur. Pri určení výšky pokuty prihliadne daňový úrad na závažnosť a dĺžku trvania protiprávneho stavu.
+(14) Platiteľ, ktorý nesplnil registračnú povinnosť, je povinný podať kontrolný výkaz za každé zdaňovacie obdobie, za ktoré v dôsledku nesplnenia tejto povinnosti nepodal kontrolný výkaz v lehote podľa odseku 1, v chronologickom poradí počnúc prvým zdaňovacím obdobím.
 
-(15) Platiteľ uvedie údaje podľa odsekov 2 až 11 v kontrolnom výkaze v členení, ktorého vzor ustanoví všeobecne záväzný právny predpis, ktorý vydá Ministerstvo financií Slovenskej republiky. Kontrolný výkaz sa podáva vo formáte Extensible Markup Language (XML), ktorého opis dátového rozhrania je zverejnený na webovom sídle finančného riaditeľstva; na kontrolný výkaz, ktorý platiteľ doručil inak, sa neprihliada.
+(15) Ak platiteľ nedoručí kontrolný výkaz daňovému úradu, doručí kontrolný výkaz oneskorene, uvedie v kontrolnom výkaze neúplné alebo nesprávne údaje alebo v lehote určenej vo výzve daňového úradu neodstráni nedostatky podaného kontrolného výkazu, daňový úrad uloží platiteľovi pokutu do výšky 10 000 eur. Ak platiteľ poruší povinnosti podľa prvej vety opakovane, daňový úrad uloží pokutu do výšky 100 000 eur. Pri určení výšky pokuty prihliadne daňový úrad na závažnosť a dĺžku trvania protiprávneho stavu.
+
+(16) Platiteľ uvedie údaje podľa odsekov 2 až 11 v kontrolnom výkaze v členení, ktorého vzor ustanoví všeobecne záväzný právny predpis, ktorý vydá Ministerstvo financií Slovenskej republiky. Kontrolný výkaz sa podáva vo formáte Extensible Markup Language (XML), ktorého opis dátového rozhrania je zverejnený na webovom sídle finančného riaditeľstva; na kontrolný výkaz, ktorý platiteľ doručil inak, sa neprihliada.

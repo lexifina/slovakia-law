@@ -2,15 +2,15 @@
 
 - 2) Zákon Národnej rady Slovenskej republiky č. 82/1994 Z. z. o štátnych hmotných rezervách v znení neskorších predpisov.
 
-- 3) § 2 ods. 9 zákona č. 309/2023 Z. z. o premenách obchodných spoločností a družstiev a o zmene a doplnení niektorých zákonov.
+- 3) § 4 ods. 1 zákona č. 309/2023 Z. z. o premenách obchodných spoločností a družstiev a o zmene a doplnení niektorých zákonov.
 
-- 4) § 2 ods. 9 druhý bod a ods. 12 zákona č. 309/2023 Z. z.
+- 4) § 4 ods. 2 zákona č. 309/2023 Z. z.
 
-- 4a) § 4 ods. 1 zákona č. 309/2023 Z. z.
+- 4a) § 2 ods. 9 zákona č. 309/2023 Z. z.
 
-- 4b) § 4 ods. 2 zákona č. 309/2023 Z. z.
+- 4b) § 2 ods. 9 písm. b) a ods. 12 zákona č. 309/2023 Z. z.
 
-- 4c) § 88 až 153 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
+- 4c) § 67 ods. 1 zákona č. 563/2009 Z. z.
 
 - 4d) § 79 ods. 1 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
 
@@ -45,6 +45,8 @@
 - 6aba) Čl. 77 ods. 1 písm. a) nariadenia Európskeho parlamentu a Rady (EÚ) č. 952/2013 z 9. októbra 2013, ktorým sa ustanovuje Colný kódex Únie (prepracované znenie) (Ú. v. EÚ L 269, 10. 10. 2013).
 
 - 6abb) Čl. 79 nariadenia (EÚ) č. 952/2013.
+
+- 6abba) § 156 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
 
 - 6abc) Čl. 41a vykonávacieho nariadenia (EÚ) 2019/2026.
 
@@ -174,6 +176,8 @@
 
 - 27f) § 13 ods. 6 až 9 zákona č. 563/2009 Z. z.
 
+- 27g) Príloha II vykonávacieho nariadenia Rady (EÚ) 2022/432 z 15. marca 2022, ktorým sa mení vykonávacie nariadenie (EÚ) č. 282/2011, pokiaľ ide o potvrdenie o oslobodení od DPH a/alebo spotrebnej dane (Ú. v. EÚ L 88, 16. 3. 2022).
+
 - 28) Zákon č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení zákona č. 35/2002 Z. z.
 
 - 28a) Čl. 496 nariadenia Komisie (EHS) č. 2454/93 z 2. júla 1993, ktorým sa vykonáva nariadenie Rady (EHS) č. 2913/92, ktorým sa ustanovuje Colný kódex spoločenstva (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 6; Ú. v. ES L 253, 11.10.1993) v platnom znení.
@@ -187,6 +191,12 @@
 - 28ad) Vykonávacie nariadenie Rady (EÚ) č. 282/2011 z 15. marca 2011, ktorým sa ustanovujú vykonávacie opatrenia smernice 2006/112/ES o spoločnom systéme dane z pridanej hodnoty (prepracované znenie) (Ú. v. EÚ L 77, 23. 3. 2011) v platnom znení.
 
 - 28ae) Čl. 61a vykonávacieho nariadenia (EÚ) 2019/2026.
+
+- 28af) Čl. 37b ods. 2 nariadenia Rady (EÚ) č. 904/2010 zo 7. októbra 2010 o administratívnej spolupráci a boji proti podvodom v oblasti dane z pridanej hodnoty (prepracované znenie) (Ú. v. EÚ L 268, 12. 10. 2010) v platnom znení.
+
+- Čl. 4 ods. 3 písm. a) vykonávacieho nariadenia Komisie (EÚ) 2021/2007 zo 16. novembra 2021, ktorým sa stanovujú podrobné pravidlá uplatňovania nariadenia Rady (EÚ) č. 904/2010, pokiaľ ide o osobitnú úpravu pre malé podniky (Ú. v. EÚ L 407, 17. 11. 2021).
+
+- 28ag) § 13 ods. 5 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
 
 - 28b) Zákon č. 572/2004 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -239,6 +249,8 @@
 - 29a) Zákon č. 289/2008 Z. z. o používaní elektronickej registračnej pokladnice a o zmene a doplnení zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov v znení neskorších predpisov.
 
 - 29aa) § 5 zákona č. 563/2009 Z. z.
+
+- 29aaa) § 67 ods. 7 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
 
 - 29ab) § 2 písm. n) zákona č. 289/2008 Z. z.
 

@@ -46,9 +46,9 @@
 
 - b) tovar alebo služba bola dodaná odberateľovi (dlžníkovi) po vyhlásení konkurzu na majetok odberateľa (dlžníka) alebo
 
-- c) najneskôr ku dňu dodania tovaru alebo služby vedel, vedieť mal alebo vedieť mohol, že odberateľ (dlžník) úplne alebo čiastočne nezaplatí za dodanie tovaru alebo služby, a to s prihliadnutím na okolnosti konkrétneho obchodného vzťahu.
+- c) najneskôr ku dňu dodania tovaru alebo služby vedel alebo vedieť mal a mohol, že odberateľ (dlžník) úplne alebo čiastočne nezaplatí za dodanie tovaru alebo služby, a to s prihliadnutím na okolnosti konkrétneho obchodného vzťahu.
 
-(5) Právo platiteľa vykonať opravu základu dane pri nevymožiteľnej pohľadávke podľa odseku 2 zaniká uplynutím troch rokov od posledného dňa lehoty na podanie daňového priznania za zdaňovacie obdobie, v ktorom bol tovar alebo služba dodaná. Doba podľa prvej vety neplynie
+(5) Právo platiteľa vykonať opravu základu dane pri nevymožiteľnej pohľadávke podľa odseku 2 zaniká uplynutím troch rokov od posledného dňa lehoty na podanie daňového priznania za zdaňovacie obdobie, v ktorom bol tovar alebo služba dodaná, pričom pri dodaní tovaru podľa § 8 ods. 1 písm. c) právo platiteľa vykonať opravu základu dane pri nevymožiteľnej pohľadávke podľa odseku 2 zaniká uplynutím troch rokov od uplynutia lehoty splatnosti prvej nezaplatenej splátky. Doba podľa prvej vety neplynie
 
 - a) počas súdneho konania alebo rozhodcovského konania, ak platiteľ na základe výsledkov týchto konaní uplatnil alebo mohol uplatniť pohľadávku voči odberateľovi (dlžníkovi) v začatom konkurznom konaní,
 

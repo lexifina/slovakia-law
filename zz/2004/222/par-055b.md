@@ -1,6 +1,6 @@
 # § 55b
 
-(1) Žiadateľ uplatňuje nárok na vrátenie dane podaním žiadosti o vrátenie dane v elektronickej forme prostredníctvom elektronického portálu v členskom štáte, v ktorom má sídlo, miesto podnikania, prevádzkareň, bydlisko alebo v ktorom sa obvykle zdržiava. Žiadosť o vrátenie dane sa podáva najneskôr do 30. septembra kalendárneho roka, ktorý nasleduje po období, za ktoré sa uplatňuje nárok na vrátenie dane. Daňový úrad Bratislava bezodkladne elektronickými prostriedkami oznámi žiadateľovi dátum prijatia žiadosti o vrátenie dane.
+(1) Žiadateľ uplatňuje nárok na vrátenie dane podaním žiadosti o vrátenie dane v elektronickej forme prostredníctvom elektronického portálu v členskom štáte, v ktorom má sídlo, miesto podnikania, prevádzkareň, bydlisko alebo v ktorom sa obvykle zdržiava. Žiadosť o vrátenie dane sa podáva najneskôr do 30. septembra kalendárneho roka, ktorý nasleduje po období, za ktoré sa uplatňuje nárok na vrátenie dane; ak koniec lehoty na podanie žiadosti o vrátenie dane pripadne na sobotu, nedeľu alebo deň pracovného pokoja, posledným dňom lehoty je tento deň. Daňový úrad Bratislava bezodkladne elektronickými prostriedkami oznámi žiadateľovi dátum prijatia žiadosti o vrátenie dane.
 
 (2) Žiadosť o vrátenie dane musí obsahovať
 

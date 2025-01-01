@@ -1,6 +1,6 @@
 # § 69c Osobitný spôsob úhrady dane
 
-(1) Daň uvedenú na faktúre, ktorú je z dodania tovaru alebo služby povinný platiť dodávateľ podľa § 69 ods. 1, môže najneskôr pred doručením rozhodnutia podľa § 69b ods. 3 zaplatiť spôsobom podľa osobitného predpisu<sup>28dba</sup>) na číslo účtu správcu dane vedeného pre dodávateľa podľa osobitného predpisu<sup>28dbb</sup>) platiteľ (odberateľ), ktorý v čase vzniku daňovej povinnosti vedel alebo na základe dostatočných dôvodov uvedených v § 69 ods. 14 vedieť mal alebo vedieť mohol, že celá daň alebo časť dane z tovaru alebo služby nebude zaplatená.
+(1) Daň uvedenú na faktúre, ktorú je z dodania tovaru alebo služby povinný platiť dodávateľ podľa § 69 ods. 1, môže najneskôr pred doručením rozhodnutia podľa § 69b ods. 3 zaplatiť spôsobom podľa osobitného predpisu<sup>28dba</sup>) na číslo účtu správcu dane vedeného pre dodávateľa podľa osobitného predpisu<sup>28dbb</sup>) platiteľ (odberateľ), ktorý v čase vzniku daňovej povinnosti vedel alebo na základe dostatočných dôvodov uvedených v § 69 ods. 13 vedieť mal a mohol, že celá daň alebo časť dane z tovaru alebo služby nebude zaplatená.
 
 (2) Ak vznikla nezaplatená daň podľa § 69b ods. 1 a platiteľ (odberateľ) zaplatil daň podľa odseku 1, postup podľa § 69b sa neuplatní; ak daňový úrad dodávateľa vydal rozhodnutie podľa § 69b ods. 3, toto rozhodnutie sa zaplatením dane zrušuje.
 

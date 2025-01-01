@@ -2,11 +2,11 @@
 
 (1) Platiteľ je povinný opraviť odpočítanú daň, ak
 
-- a) úplne alebo čiastočne nezaplatil za dodanie tovaru alebo služby, z ktorého je osobou povinnou platiť daň dodávateľ podľa § 69 ods. 1, v rozsahu, v akom za dodanie tohto tovaru alebo služby nezaplatil, a to v tom zdaňovacom období, v ktorom uplynulo 100 dní odo dňa splatnosti záväzku, alebo
+- a) úplne alebo čiastočne nezaplatil za dodanie tovaru alebo služby, z ktorého je osobou povinnou platiť daň dodávateľ podľa § 69 ods. 1, v rozsahu, v akom za dodanie tohto tovaru alebo služby nezaplatil, a to v tom zdaňovacom období, v ktorom nastal 101. deň odo dňa splatnosti záväzku, alebo
 
 - b) nebol povinný opraviť odpočítanú daň podľa písmena a) a po skončení zdaňovacieho obdobia, v ktorom uplatnil odpočítanie dane, nastane skutočnosť podľa § 25a ods. 2 písm. b), c) alebo písm. f) a platiteľ dostal opravný doklad podľa § 25a ods. 7 písm. a), a to v tom zdaňovacom období, v ktorom dostal tento doklad, a to v rozsahu, v akom za dodanie tovaru alebo služby nezaplatil.
 
-(2) Ak platiteľ uplatňuje právo na odpočítanie dane z tovaru alebo služby, za ktoré úplne alebo čiastočne nezaplatil, až po skončení zdaňovacieho obdobia, v ktorom uplynulo 100 dní odo dňa splatnosti záväzku, je povinný súčasne vykonať opravu odpočítanej dane v rozsahu, v akom za dodanie tohto tovaru alebo služby nezaplatil.
+(2) Ak platiteľ uplatňuje právo na odpočítanie dane z tovaru alebo služby, za ktoré úplne alebo čiastočne nezaplatil, až po skončení zdaňovacieho obdobia, v ktorom nastal 101. deň odo dňa splatnosti záväzku, je povinný súčasne vykonať opravu odpočítanej dane v rozsahu, v akom za dodanie tohto tovaru alebo služby nezaplatil.
 
 (3) Pri oprave odpočítanej dane podľa odseku 1 alebo odseku 2 platiteľ zohľadní pomerné odpočítanie dane a vykonané úpravy odpočítanej dane.
 

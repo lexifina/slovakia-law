@@ -24,6 +24,6 @@
 
 (4) Výška splatnej dane pri ukončení režimu alebo situácie podľa odsekov 1 a 2 zodpovedá výške dane, ktorá by bola splatná, keby každý uskutočnený zdaniteľný obchod podliehal dani.
 
-(5) Osoba, ktorá spôsobí, že sa na tovar prestane vzťahovať režim alebo situácia uvedená v odsekoch 1 a 2, je povinná platiť daň. Ak osoba podľa prvej vety nie je platiteľom, je povinná podať žiadosť o registráciu pre daň predtým, ako sa na tovar prestane vzťahovať režim alebo situácia uvedená v odsekoch 1 a 2. Na registráciu sa vzťahujú § 4 ods. 3 a § 5 ods. 2.
+(5) Osoba, ktorá spôsobí, že sa na tovar prestane vzťahovať režim alebo situácia uvedená v odsekoch 1 a 2, je povinná platiť daň. Ak osoba podľa prvej vety nie je platiteľom, stáva sa platiteľom okamihom, keď sa na tovar prestane vzťahovať režim alebo situácia uvedená v odsekoch 1 a 2. Na registračnú povinnosť osoby podľa druhej vety sa primerane vzťahujú § 4 ods. 2 alebo § 5 ods. 3 a na postup daňového úradu pri registrácii pre daň sa primerane vzťahujú § 4 ods. 4 alebo § 5 ods. 3.
 
 (6) Službami podľa odseku 1 písm. c) sú skladovanie, ocenenie a služby fyzicky vykonané na tomto tovare, ak po vykonaní služby tovar naďalej ostane tovarom uvedeným v prílohe č. 9 časti I, a službami podľa odseku 2 písm. c) sú skladovanie, ocenenie a služby fyzicky vykonané na tomto tovare, ak po vykonaní služby tovar naďalej ostane tovarom uvedeným v prílohe č. 9 časti II. Službami podľa odseku 2 písm. b) a d) sú preprava tovaru a doplnkové služby pri preprave tovaru.

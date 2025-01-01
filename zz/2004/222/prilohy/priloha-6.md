@@ -56,6 +56,12 @@ Príloha č. 6 k zákonu č. 222/2004 Z. z.
 
   - 27. Smernica Rady (EÚ) 2019/2235 zo 16. decembra 2019, ktorou sa mení smernica 2006/112/ES o spoločnom systéme dane z pridanej hodnoty a smernica 2008/118/ES o všeobecnom systéme spotrebných daní, pokiaľ ide o obranné úsilie v rámci Únie (Ú. v. EÚ L 336, 30. 12. 2019).
 
-  - 28. Smernica Rady (EÚ) 2020/1756 z 20. novembra 2020, ktorou sa mení smernica 2006/112/ES o spoločnom systéme dane z pridanej hodnoty, pokiaľ ide o identifikáciu zdaniteľných osôb v Severnom Írsku (Ú. v. EÚ L 396, 25. 11. 2020).
+  - 28. Smernica Rady (EÚ) 2020/285 z 18. februára 2020, ktorou sa mení smernica 2006/112/ES o spoločnom systéme dane z pridanej hodnoty, pokiaľ ide o osobitnú úpravu pre malé podniky, a nariadenie (EÚ) č. 904/2010, pokiaľ ide o administratívnu spoluprácu a výmenu informácií na účely monitorovania správneho uplatňovania osobitnej úpravy pre malé podniky (Ú. v. EÚ L 62, 2. 3. 2020).
 
-  - 29. Smernica Rady (EÚ) 2021/1159 z 13. júla 2021, ktorou sa mení smernica 2006/112/ES, pokiaľ ide o dočasné oslobodenia od dane pri dovoze a pri určitých dodaniach v reakcii na pandémiu ochorenia COVID-19 (Ú. v. EÚ L 250, 15. 7. 2021).
+  - 29. Smernica Rady (EÚ) 2020/1756 z 20. novembra 2020, ktorou sa mení smernica 2006/112/ES o spoločnom systéme dane z pridanej hodnoty, pokiaľ ide o identifikáciu zdaniteľných osôb v Severnom Írsku (Ú. v. EÚ L 396, 25. 11. 2020).
+
+  - 30. Smernica Rady (EÚ) 2021/1159 z 13. júla 2021, ktorou sa mení smernica 2006/112/ES, pokiaľ ide o dočasné oslobodenia od dane pri dovoze a pri určitých dodaniach v reakcii na pandémiu ochorenia COVID-19 (Ú. v. EÚ L 250, 15. 7. 2021).
+
+  - 31. Smernica Rady (EÚ) 2022/542 z 5. apríla 2022, ktorou sa menia smernice 2006/112/ES a (EÚ) 2020/285, pokiaľ ide o sadzby dane z pridanej hodnoty (Ú. v. EÚ L 107, 6. 4. 2022).
+
+  - 32. Smernica Rady (EÚ) 2022/890 z 3. júna 2022, ktorou sa mení smernica 2006/112/ES, pokiaľ ide o predĺženie obdobia uplatňovania voliteľného mechanizmu prenesenia daňovej povinnosti v súvislosti s dodaním určitého tovaru a poskytovaním určitých služieb, ktoré sú náchylné na podvody, a mechanizmu rýchlej reakcie proti podvodom v oblasti DPH (Ú. v. EÚ L 155, 8. 6. 2022).
