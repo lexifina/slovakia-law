@@ -116,6 +116,20 @@ Nariadenie vlády Slovenskej republiky č. 120/2023 Z. z., ktorým sa ustanovuj�
 
   - Doterajšie písmeno d) sa označuje ako písmeno c).
 
+- 17. V nadpise § 25 sa na konci pripájajú tieto slová: „a v súvislosti so sociálnou kondicionalitou“.
+
+- 18. § 25 sa dopĺňa odsekom 8, ktorý znie:
+
+- „(8)
+
+- Postup podľa odsekov 1 až 7 sa primerane vzťahuje aj na zníženie podpory v súvislosti so sociálnou kondicionalitou.<sup>80a</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 80a znie:
+
+  - „<sup>80a</sup>) Čl. 14 nariadenia (EÚ) 2021/2115 v platnom znení.
+
+  - Čl. 88 a 89 nariadenia (EÚ) 2021/2116 v platnom znení.“.
+
 - 19. Za § 30 sa vkladá § 30a, ktorý vrátane nadpisu znie:
 
 - „§ 30a
