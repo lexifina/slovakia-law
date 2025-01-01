@@ -44,6 +44,12 @@
 
 - 3fc) § 99 zákona č. 566/2001 Z. z.
 
+- 3fca) § 71h ods. 2 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- 3fcb) § 105a ods. 3 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- 3fcc) § 105a ods. 1 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
 - 3fd) § 67 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - 3fe) § 82 ods. 3 až 13 zákona č. 483/2001 Z. z. v znení zákona č. 454/2021 Z. z.
