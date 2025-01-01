@@ -166,6 +166,12 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 
 - Výška použiteľného ročného výnosu z dražieb kvót na účely podľa odseku 4 je 40 %.“.
 
+- 42. V § 18 odsek 7 znie:
+
+- „(7)
+
+- Výška použiteľného ročného výnosu z dražieb kvót na účely podľa odseku 4 je 50 %.“.
+
 - 43. V § 18 ods. 8 sa za slovami „odseku 4“ bodka nahrádza čiarkou a pripájajú sa slová „s výnimkou ustanovenia odseku 4 písm. b) a c).“.
 
 - 44. V § 20 ods. 1 písm. b) sa na konci pripájajú tieto slová: „alebo inými prepojenými systémami obchodovania“.
