@@ -1,1 +1,0 @@
-Príloha č. 4 k vyhláške č. 451/2022 Z. z. [Bilancia prepravných kapacít prevádzkovateľa prepravnej siete na výstupe z prepravnej siete](../assets/1acaa8e5afc627740ad1fcb8cba3ebc3fbeac5016bc2bdc53353c10ea722b9bf.pdf)

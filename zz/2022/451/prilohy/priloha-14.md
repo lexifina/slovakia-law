@@ -1,1 +1,0 @@
-Príloha č. 14 k vyhláške č. 451/2022 Z. z. [Údaje potrebné na určenie osobných nákladov za distribúciu plynu - priemerné ročné osobné náklady na zamestnanca](../assets/1f04c443925f4ecabb0aeba575d4bf55895009758f8d0f3d106a002acbb4785e.pdf)
