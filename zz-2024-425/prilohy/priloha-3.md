@@ -1,0 +1,1 @@
+Príloha č. 3 k vyhláške č. 425/2024 Z. z. [ZOZNAM DIAGNOSTICKO-NÁKLADOVÝCH SKUPÍN NA ROK 2025](../assets/ee7eaebb3daaed040f915558e7447d4fb481ee48d5e9e34137474794296865f1.pdf)
