@@ -38,6 +38,40 @@ Zákon č. 138/2017 Z. z. o Fonde na podporu kultúry národnostných menšín a
 
 - 6. V § 21 ods. 1 a 3 sa suma „8 300 000 eur“ nahrádza sumou „8 800 000 eur“.
 
+- 7. V § 22 odsek 1 znie:
+
+- „(1) Sumu finančných prostriedkov určených na podpornú činnosť podľa § 20 ods. 6 písm. a) okrem finančných prostriedkov viazaných podľa § 21 ods. 3 rozdelí fond medzi odborné rady podľa § 7 ods. 4 v takomto pomere:
+
+  - a) odborné rady kultúry maďarskej národnostnej menšiny 52,2 %,
+
+  - b) odborné rady kultúry rómskej národnostnej menšiny 22,1 %,
+
+  - c) odborné rady kultúry rusínskej národnostnej menšiny 6,4 %,
+
+  - d) odborné rady kultúry bulharskej národnostnej menšiny 1 %,
+
+  - e) odborné rady kultúry českej národnostnej menšiny 3,7 %,
+
+  - f) odborné rady kultúry chorvátskej národnostnej menšiny 1 %,
+
+  - g) odborné rady kultúry moravskej národnostnej menšiny 1,4 %,
+
+  - h) odborné rady kultúry nemeckej národnostnej menšiny 1,8 %,
+
+  - i) odborné rady kultúry poľskej národnostnej menšiny 1,4 %,
+
+  - j) odborné rady kultúry ruskej národnostnej menšiny 1,1 %,
+
+  - k) odborné rady kultúry srbskej národnostnej menšiny 0,7 %,
+
+  - l) odborné rady kultúry ukrajinskej národnostnej menšiny 2 %,
+
+  - m) odborné rady kultúry vietnamskej národnostnej menšiny 1,1 %,
+
+  - n) odborné rady kultúry židovskej národnostnej menšiny 1,1 % a
+
+  - o) odborná rada interkultúrneho dialógu a porozumenia 3 %.“.
+
 - 8. Za § 27 sa vkladá § 28, ktorý vrátane nadpisu znie:
 
 - „§ 28
