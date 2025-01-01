@@ -14,7 +14,7 @@
 
 - e) poistenie prepravovaných vecí.
 
-(3) Pri preprave uskutočňovanej lodnou prepravou zamestnávateľ uhradí výdavky za 20 stopový kontajner. Pri preprave uskutočňovanej leteckou prepravou zamestnávateľ uhradí výdavky za kontajner najviac do hmotnostného limitu 500 kg. Pri preprave cestným motorovým vozidlom podrobnosti prepravy určí zamestnávateľ.
+(3) Pri preprave uskutočňovanej lodnou prepravou zamestnávateľ uhradí výdavky za 20 stopový kontajner. Pri preprave uskutočňovanej leteckou prepravou zamestnávateľ uhradí výdavky za kontajner najviac do hmotnostného limitu 500 kg. Pri preprave vozidlom podrobnosti prepravy určí zamestnávateľ.
 
 (4) Zamestnancovi vyslanému na výkon práce v aktivite krízového manažmentu patrí náhrada preukázaných výdavkov za poistenie celkovej hodnoty prepravovaných osobných vecí najviac do poistnej sumy 300 eur.
 

@@ -24,8 +24,6 @@
 
 - Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov.
 
-- 6) § 4 ods. 2 zákona Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky v znení neskorších predpisov.
-
 - 7) § 58 Zákonníka práce.
 
 - 7a) § 5 ods. 6 Zákonníka práce.
@@ -34,9 +32,13 @@
 
 - § 25 a 26 zákona č. 400/2009 Z. z.
 
-- 8a) Nariadenie vlády Slovenskej republiky č. 374/2006 Z. z. o technických požiadavkách na meranie emisií oxidu uhličitého a spotreby paliva motorových vozidiel.
+- 8a) § 2 ods. 25 zákona č. 106/2018 Z. z. o prevádzke vozidiel v cestnej premávke a o zmene a doplnení niektorých zákonov.
 
-- 8b) § 23 zákona č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení zákona č. 431/2004 Z. z.
+- 8b) § 31 zákona č. 157/2018 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 8c) § 2 ods. 21 písm. a) zákona č. 106/2018 Z. z.
+
+- 8d) § 2 ods. 21 písm. b) zákona č. 106/2018 Z. z.
 
 - 9) § 21 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
