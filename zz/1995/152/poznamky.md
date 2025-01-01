@@ -228,6 +228,10 @@
 
 - 18) Čl. 87 až 89 nariadenia (EÚ) 2017/625.
 
+- 18a) § 2 zákona č. 35/2019 Z. z. o finančnej správe a o zmene a doplnení niektorých zákonov.
+
+- 18b) § 14 ods. 1 a 2 zákona č. 251/2024 Z. z. o dani zo sladených nealkoholických nápojov a o zmene a doplnení niektorých zákonov.
+
 - 19) § 3 ods. 1 a § 3b zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
 
 - 19a) Čl. 4 a 5 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu v znení neskorších predpisov.

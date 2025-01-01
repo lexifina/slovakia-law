@@ -2,4 +2,4 @@ Príloha č. 2 k zákonu č. 152/1995 Z. z.
 
 - VZOR
 
-  - [príloha](../assets/cbd578dd0bc17c217537672a60dae4fcef49c8436d14bd83949f814ab6dcfec2.pdf)
+  - [príloha](../assets/98d21d0b01266d02ff7f02e9a4ba63f71aae44a344479a452a116908a1da4471.pdf)
