@@ -28,34 +28,38 @@
 
 - d) trvalé bydlisko (obec),
 
-- e) obchodné meno, právnu formu, sídlo a identifikačné číslo právnickej osoby alebo obchodné meno, miesto podnikania a identifikačné číslo fyzickej osoby – podnikateľa, kde choroba z povolania vznikla,
+- e) zamestnanecký status osoby, ktorej bola choroba z povolania uznaná,
 
-- f) ekonomickú aktivitu zamestnávateľa,
+- f) obchodné meno, právnu formu, sídlo a identifikačné číslo právnickej osoby alebo obchodné meno, miesto podnikania a identifikačné číslo fyzickej osoby – podnikateľa, kde choroba z povolania vznikla,
 
-- g) zamestnanie (profesiu) osoby, ktorej bola choroba z povolania uznaná,
+- g) ekonomickú aktivitu zamestnávateľa,
 
-- h) položku a názov choroby z povolania zo zoznamu chorôb z povolania,
+- h) zamestnanie (profesiu) osoby, ktorej bola choroba z povolania uznaná,
 
-- i) diagnózu podľa Medzinárodnej štatistickej klasifikácie chorôb a príbuzných zdravotných problémov,
+- i) položku a názov choroby z povolania zo zoznamu chorôb z povolania,
 
-- j) dátum prvého zistenia choroby z povolania,
+- j) diagnózu podľa Medzinárodnej štatistickej klasifikácie chorôb a príbuzných zdravotných problémov,
 
-- k) dátum uznania choroby z povolania,
+- k) dátum prvého zistenia choroby z povolania,
 
-- l) závažnosť choroby pri akútnej forme,
+- l) dátum uznania choroby z povolania,
 
-- m) závažnosť choroby pri chronickej forme,
+- m) závažnosť choroby pri akútnej forme,
 
-- n) expozíciu – príčinný faktor práce a pracovného prostredia vzniku choroby z povolania,
+- n) závažnosť choroby pri chronickej forme,
 
-- o) kategóriu práce,
+- o) expozíciu – príčinný faktor práce a pracovného prostredia vzniku choroby z povolania,
 
-- p) klasifikáciu produktov podľa použitia,
+- p) kategóriu práce,
 
-- q) dĺžku expozície škodlivým faktorom práce a pracovného prostredia v rokoch a mesiacoch,
+- q) klasifikáciu produktov podľa použitia,
 
-- r) schopnosť doterajšieho výkonu práce osoby, ktorej bola choroba z povolania uznaná.
+- r) dĺžku expozície škodlivým faktorom práce a pracovného prostredia v rokoch a mesiacoch,
+
+- s) schopnosť doterajšieho výkonu práce osoby, ktorej bola choroba z povolania uznaná.
 
 (3) Vzor tlačiva určeného na hlásenie choroby z povolania je uvedený v prílohe č. 3f.
 
 (4) Poskytovateľ zdravotnej starostlivosti, ktorý poskytuje ústavnú zdravotnú starostlivosť v nemocnici v špecializačnom odbore pracovné lekárstvo, špecializačnom odbore klinické pracovné lekárstvo a klinická toxikológia alebo špecializačnom odbore dermatovenerológia, poskytuje údaje uvedené v odseku 2 po prijatí tlačiva hlásenie choroby z povolania alebo ohrozenia chorobou z povolania [odsek 1 písm. f)] do 10. dňa nasledujúceho kalendárneho mesiaca Centrálnemu registru hlásení uznaných chorôb z povolania, ktorý vedie Univerzitná nemocnica v Bratislave.
+
+(5) Osobné údaje súvisiace s prešetrovaním podozrenia na chorobu z povolania alebo ohrozenia chorobou z povolania, s hlásením choroby z povolania alebo ohrozenia chorobou z povolania a s evidenciou choroby z povolania alebo ohrozenia chorobou z povolania sú uvedené v prílohe č. 14 písm. a).

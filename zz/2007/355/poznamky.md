@@ -50,6 +50,8 @@
 
 - 12f) Zákon č. 7/2010 Z. z. o ochrane pred povodňami v znení neskorších predpisov.
 
+- 12g) Príloha č. 3 šiesty bod písm. a) zákona č. 153/2013 Z. z. v znení neskorších predpisov.
+
 - 13) Čl. 2 ods. 1 písm. a) nariadenia Európskeho parlamentu a Rady (ES) č. 1223/2009 z 30. novembra 2009 o kozmetických výrobkoch (Ú. v. EÚ L 342, 22. 12. 2009) v platnom znení.
 
 - 13a) § 3 ods. 15 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov.
@@ -384,6 +386,10 @@
 
 - 66a) § 6 ods. 5 nariadenia vlády Slovenskej republiky č. 404/2007 Z. z.
 
+- 66aa) § 5 ods. 6 písm. ab) zákona č. 153/2013 Z. z. v znení zákona č. 361/2024 Z. z.
+
+- 66ab) § 7 zákona č. 153/2013 Z. z. v znení neskorších predpisov.
+
 - 66b) § 63 ods. 21 zákona č. 351/2011 Z. z. o elektronických komunikáciách v znení neskorších predpisov.
 
 - 67) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
@@ -431,3 +437,5 @@
 - 74) Zákon č. 312/2001 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov.
+
+- 75) Nariadenie Európskeho parlamentu a Rady (EÚ) 2022/2371 z 23. novembra 2022 o závažných cezhraničných ohrozeniach zdravia, ktorým sa zrušuje rozhodnutie č. 1082/2013/EÚ (Ú. v. EÚ L 314, 6. 12. 2022).
