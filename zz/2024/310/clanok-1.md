@@ -14,6 +14,12 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 
 - 3. V § 77b ods. 6 sa za slová „priznaní 13. dôchodku“ vkladajú slová „vyplateného v priemernej mesačnej sume príslušnej dôchodkovej dávky“.
 
+- 17. V § 231 ods. 1 sa vypúšťa písmeno r).
+
+- 20. V § 233 sa odsek 18 druhý v poradí označuje ako odsek 19.
+
+  - Doterajší odsek 19 sa označuje ako odsek 20.
+
 - 24. Za § 293gj sa vkladá § 293gja, ktorý vrátane nadpisu znie:
 
 - „§ 293gja
