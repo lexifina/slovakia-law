@@ -1,0 +1,1 @@
+Príloha č. 11 k vyhláške č. 323/2022 Z. z. [Údaje potrebné na výpočet podielu režijných nákladov započítaných do ekonomicky oprávnených nákladov podľa pomeru dosiahnutých tržieb z jednotlivých regulovaných činností k celkovým tržbám podľa § 4 ods. 2 v tisícoch eur](../assets/f537912c907067fc37e199b52b7e44eb8581c36cb1162e2dede8fc3f4b3a9c7d.pdf)

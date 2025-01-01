@@ -1,0 +1,1 @@
+Príloha č. 17 k vyhláške č. 323/2022 Z. z. [Prehľad projektovaných a skutočne využívaných kapacít vodárenského majetku v členení podľa rokov jeho zaradenia](../assets/51c254abd530eec62d00a6c504b38a1883b81f0b4a44693047d84296b7ef2db6.pdf)

@@ -1,0 +1,1 @@
+Príloha č. 14 k vyhláške č. 323/2022 Z. z. [Prehľad investícií (investičnej výstavby) a prehľad investičných výdavkov v eurách](../assets/5af03bca02d507bbf029ef69a8dfd189b55b2370e3dc1f0a2dca36f9122ea09b.pdf)

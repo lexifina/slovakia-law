@@ -1,0 +1,1 @@
+Príloha č. 10 k vyhláške č. 323/2022 Z. z. [Ekonomicky oprávnené náklady vyčlenené z prílohy č. 6, ktoré sa týkajú prevádzkovania verejných vodovodov a verejných kanalizácií na základe zmluvného vzťahu medzi regulovaným subjektom a ich vlastníkom v tisícoch eur](../assets/66bd7705741227d3b75670e8cbe6017e4a329124104e920382fb72f44832175d.pdf)

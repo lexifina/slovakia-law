@@ -1,0 +1,1 @@
+Príloha č. 6 k vyhláške č. 323/2022 Z. z. [Náklady a ekonomicky oprávnené náklady na regulované činnosti podľa § 4 v tisícoch eur](../assets/0af95c14333f2fa40c7555a49e3f303d37504df10093ec88b1ebd1047fd4ca9f.pdf)

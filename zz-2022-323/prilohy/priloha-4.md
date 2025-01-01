@@ -1,0 +1,1 @@
+Príloha č. 4 k vyhláške č. 323/2022 Z. z. [Údaje potrebné na výpočet ceny za výrobu, distribúciu a dodávku pitnej vody a za odvádzanie a čistenie odpadovej vody](../assets/873d86e6a28c06e21729b3a080729597519fe861f6d6e57cdfa70a05ba6a2dd0.pdf)

@@ -1,0 +1,1 @@
+Príloha č. 18 k vyhláške č. 323/2022 Z. z. [Údaje potrebné na výpočet maximálnej ceny za pripojenie na verejnú kanalizáciu](../assets/29eaa90eeaa43baa02376724eb9685a37ab01bbdb33bcbc5df1d7aa525b2c574.pdf)
