@@ -164,47 +164,39 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - c) Vydanie osvedčenia o tuzemskom práve, za každú aj začatú stranu vybavenia ..... | 2 eurá
 
-  - d) Konanie o akreditácii vzdelávacieho programu podľa osobitných predpisov<sup>10</sup>) ..... | 140 eur
+  - d) Zápis do zoznamu odborných garantov na verejné obstarávanie podľa osobitného predpisu<sup>10a</sup>) ..... | 100 eur
 
-  - e) Konanie o udelení oprávnenia na vykonávanie skúšky na overenie odbornej spôsobilosti ..... | 280 eur
+  - e) Zápis do zoznamu znalcov, tlmočníkov a prekladateľov ..... | 250 eur
 
-  - f) Vydanie odpisu osvedčenia o čiastočnej kvalifikácii alebo osvedčenia o úplnej kvalifikácii ..... | 15 eur
+  - f) Výpis zo zoznamu znalcov, tlmočníkov a prekladateľov, za každú stranu ..... | 2 eurá
 
-  - g) Zápis do zoznamu odborných garantov na verejné obstarávanie podľa osobitného predpisu<sup>10a</sup>) ..... | 100 eur
+  - g) zápis fyzickej osoby do zoznamu správcov podľa osobitného predpisu<sup>10b</sup>) ..... | 280 eur
 
-  - h) Zápis do zoznamu znalcov, tlmočníkov a prekladateľov ..... | 250 eur
+  - h) zápis právnickej osoby do zoznamu správcov podľa osobitného predpisu,<sup>10b</sup>) za každého spoločníka ..... | 280 eur
 
-  - i) Výpis zo zoznamu znalcov, tlmočníkov a prekladateľov, za každú stranu ..... | 2 eurá
+  - i) ročný poplatok správcu-fyzickej osoby za každý, aj neskončený rok trvania zápisu v zozname správcov podľa osobitného predpisu<sup>10b</sup>) ..... | 280 eur
 
-  - j) zápis fyzickej osoby do zoznamu správcov podľa osobitného predpisu<sup>10b</sup>) ..... | 280 eur
+  - j) ročný poplatok správcu-právnickej osoby za každý, aj neskončený rok trvania zápisu v zozname správcov podľa osobitného predpisu<sup>10b</sup>) ..... | 560 eur
 
-  - k) zápis právnickej osoby do zoznamu správcov podľa osobitného predpisu,<sup>10b</sup>) za každého spoločníka ..... | 280 eur
+  - k) vykonanie špeciálnej správcovskej skúšky<sup>10b</sup>) | 7 000 eur
 
-  - l) ročný poplatok správcu-fyzickej osoby za každý, aj neskončený rok trvania zápisu v zozname správcov podľa osobitného predpisu<sup>10b</sup>) ..... | 280 eur
+  - l) výpis zo zoznamu správcov podľa osobitného predpisu,<sup>10b</sup>) za každú stranu ..... | 2 eurá
 
-  - m) ročný poplatok správcu-právnickej osoby za každý, aj neskončený rok trvania zápisu v zozname správcov podľa osobitného predpisu<sup>10b</sup>) ..... | 560 eur
+  - m) zápis spoločníka do zoznamu správcov, ktorý pristúpil do právnickej osoby zapísanej do zoznamu správcov ..... | 280 eur
 
-  - n) vykonanie špeciálnej správcovskej skúšky<sup>10b</sup>) | 7 000 eur
+  - n) iná zmena údajov zapísaných v zozname správcov ..... | 15 eur
 
-  - o) výpis zo zoznamu správcov podľa osobitného predpisu,<sup>10b</sup>) za každú stranu ..... | 2 eurá
+  - o) Konanie o udelenie povolenia rozhodovať spotrebiteľské spory zriaďovateľovi stáleho rozhodcovského súdu | 4 200 eur
 
-  - p) zápis spoločníka do zoznamu správcov, ktorý pristúpil do právnickej osoby zapísanej do zoznamu správcov ..... | 280 eur
+  - p) Konanie o udelenie povolenia rozhodovať spotrebiteľské spory rozhodcovi | 700 eur
 
-  - q) iná zmena údajov zapísaných v zozname správcov ..... | 15 eur
+  - q) Vykonanie skúšky odbornej spôsobilosti rozhodcu podľa osobitného predpisu | 420 eur
 
-  - r) Konanie o udelenie povolenia rozhodovať spotrebiteľské spory zriaďovateľovi stáleho rozhodcovského súdu | 4 200 eur
+  - r) Výpis zo zoznamu rozhodcov oprávnených rozhodovať spotrebiteľské spory, za každú stranu | 2 eurá
 
-  - s) Konanie o udelenie povolenia rozhodovať spotrebiteľské spory rozhodcovi | 700 eur
-
-  - t) Vykonanie skúšky odbornej spôsobilosti rozhodcu podľa osobitného predpisu | 420 eur
-
-  - u) Výpis zo zoznamu rozhodcov oprávnených rozhodovať spotrebiteľské spory, za každú stranu | 2 eurá
-
-  - v) Výpis zo zoznamu stálych rozhodcovských súdov oprávnených rozhodovať spotrebiteľské spory, za každú stranu | 2 eurá
+  - s) Výpis zo zoznamu stálych rozhodcovských súdov oprávnených rozhodovať spotrebiteľské spory, za každú stranu | 2 eurá
 
   - Poznámka Poplatok podľa písmena c) tejto položky sa vyberie po vykonaní úkonu na základe ústnej alebo písomnej výzvy. Povinnosť zaplatiť ročný poplatok správcu vzniká 1. júla kalendárneho roka, a to hoci za jeden deň trvania zápisu správcu v zozname správcov v období od 1. júla kalendárneho roka predchádzajúceho kalendárneho roka, v ktorom sa ročný poplatok správcu uhrádza, do 30. júna kalendárneho roka, v ktorom sa ročný poplatok správcu uhrádza. Ročný poplatok správcu je splatný 31. júla kalendárneho roka, v ktorom sa ročný poplatok uhrádza. |
-
-  - Oslobodenie Od poplatku podľa písmena d) tejto položky sú oslobodené gymnázia, stredné odborné školy, konzervatóriá, školy pre deti a žiakov so špeciálnymi výchovno-vzdelávacími potrebami, základné umelecké školy, jazykové školy, ktoré žiadajú o akreditáciu vzdelávacieho programu ďalšieho vzdelávania zodpovedajúcu študijným odborom alebo učebným odborom, ktoré sú uvedené pre príslušnú školu v sieti,<sup>20</sup>) a vysoká škola, ktorá žiada o akreditáciu vzdelávacieho programu ďalšieho vzdelávania v rozsahu platnej akreditácie vysokoškolských študijných programov.<sup>21</sup>) |
 
     - Položka 5a
 
@@ -2046,77 +2038,93 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - a) | Povolenie typu dráhového vozidla s vlastným pohonom pre železničnú dráhu alebo osobného vozňa pre rýchlosť nad 160 km/h ..... | 1 200 eur
 
-  - b) | Povolenie modernizácie alebo obnovy dráhového vozidla s vlastným pohonom pre železničnú dráhu alebo osobného vozňa pre rýchlosť nad 160 km/h ..... | 300 eur
+  - b) | Povolenie modernizácie alebo obnovy typu železničného vozidla s vlastným pohonom pre železničnú dráhu alebo osobného vozňa pre rýchlosť nad 160 km/h ..... | 400 eur
 
   - c) | Povolenie typu ťahaného dráhového vozidla pre železničnú dráhu ..... | 400 eur
 
-  - d) | Povolenie modernizácie alebo obnovy ťahaného dráhového vozidla pre železničnú dráhu ..... | 120 eur
+  - d) | Povolenie modernizácie alebo obnovy typu ťahaného železničného vozidla pre železničnú dráhu ..... | 200 eur
 
   - e) | Schválenie typu výstroja alebo súčasti dráhového vozidla ..... | 90 eur
 
-  - f) | Schválenie typu dráhového vozidla pre električkové dráhy, trolejbusové dráhy alebo existujúce špeciálne dráhy ..... | 400 eur
+  - f) | Schválenie typu dráhového vozidla pre električkové dráhy alebo trolejbusové dráhy ..... | 400 eur
 
-  - g) | Schválenie podstatnej zmeny dráhového vozidla pre električkové dráhy, trolejbusové dráhy alebo existujúce špeciálne dráhy ..... | 120 eur
+  - g) | Schválenie typu dráhového vozidla špeciálnej dráhy ........................................... | 200 eur
 
-  - h) | Schválenie typu dráhového vozidla pre lanové dráhy ..... | 90 eur
+  - h) | Schválenie podstatnej zmeny typu dráhového vozidla pre električkové dráhy alebo trolejbusové dráhy ....... | 120 eur
 
-  - i) | Povolenie skúšky koľajového vozidla pre železničné dráhy počas chodu (jazdy) ..... | 30 eur
+  - i) | Schválenie podstatnej zmeny typu dráhového vozidla pre špeciálne dráhy ............. | 100 eur
 
-  - j) | Vydanie druhého originálu dokladu o schválení typu alebo o povolení typu podľa písmen a) až h) ..... | 20 eur
+  - j) | Schválenie typu dráhového vozidla pre lanové dráhy ..... | 90 eur
 
-  - k) | Vydanie poverenia na vzdelávanie a overovanie odbornej spôsobilosti zamestnancov prevádzkovateľov dráh a dráhových podnikov, okrem prevádzkovateľov lanových dráh ..... | 200 eur
+  - k) | Vydanie povolenia na skúšobnú prevádzku a skúšky dráhového vozidla alebo vydanie dočasného povolenia na vykonanie skúšobnej prevádzky železničného vozidla ..... | 30 eur
 
-  - l) | Vydanie poverenia na posudzovanie zdravotnej spôsobilosti zamestnancov prevádzkovateľov dráh a dráhových podnikov ..... | 50 eur
+  - l) | Vydanie duplikátu dokladu o schválení typu, o povolení typu alebo o povolení modernizácie alebo obnovy typu podľa písmen a) až j) ... | 30 eur
 
-  - m) | Vydanie poverenia na posudzovanie psychickej spôsobilosti zamestnancov prevádzkovateľov dráh a dráhových podnikov ..... | 50 eur
+  - m) | Vydanie poverenia na vzdelávanie a overovanie odbornej spôsobilosti zamestnancov prevádzkovateľov dráh a dráhových podnikov, okrem prevádzkovateľov lanových dráh ..... | 200 eur
 
-  - n) | Vydanie poverenia na overovanie technickej spôsobilosti dráhových vozidiel na prevádzku ..... | 200 eur
+  - n) | Vydanie poverenia na posudzovanie zdravotnej spôsobilosti zamestnancov prevádzkovateľov dráh a dráhových podnikov ..... | 50 eur
 
-  - o) | Vydanie poverenia na vykonávanie technických kontrol dráhových vozidiel pred ich uvedením do prevádzky a počas prevádzky ..... | 200 eur
+  - o) | Vydanie poverenia na posudzovanie psychickej spôsobilosti zamestnancov prevádzkovateľov dráh a dráhových podnikov ..... | 50 eur
 
-  - p) | Vydanie poverenia na vykonávanie skúšok dráhových vozidiel ..... | 200 eur
+  - p) | Vydanie poverenia na overovanie technickej spôsobilosti dráhových vozidiel na prevádzku ..... | 200 eur
 
-  - q) | Vydanie poverenia na posudzovanie zhody subsystémov s vnútroštátnymi predpismi ..... | 200 eur
+  - q) | Vydanie poverenia na vykonávanie technických kontrol dráhových vozidiel pred ich uvedením do prevádzky a počas prevádzky ..... | 200 eur
 
-  - Poznámky 1. Príslušný správny dráhový úrad vyberie poplatok podľa písmen b), d) a g) tejto položky bez zreteľa na počet odchýlok od schváleného typu alebo povoleného typu dráhového vozidla v rámci jedného podania. 2. Správny poplatok podľa písmena e) tejto položky sa vyberie, len ak sa typ výstroja alebo súčasti schvaľuje oddelene od schvaľovania typu alebo podstatnej zmeny dráhového vozidla. | |
+  - r) | Vydanie poverenia na vykonávanie skúšok dráhových vozidiel ..... | 200 eur
+
+  - s) | Vydanie poverenia na posudzovanie zhody subsystémov s vnútroštátnymi predpismi ..... | 200 eur
+
+  - t) | Vydanie poverenia na vykonávanie školenia žiadateľov o vykonanie skúšky na získanie odbornej spôsobilosti bezpečnostného poradcu na prepravu nebezpečného tovaru v železničnej doprave ..... | 200 eur
+
+  - u) | Vydanie poverenia na vzdelávanie a overovanie odbornej spôsobilosti zamestnancov prevádzkovateľov lanových dráh a dráhových podnikov poskytujúcich dopravné služby na lanových dráhach .......... | 200 eur
+
+  - v) | Vydanie poverenia na vzdelávanie a overovanie odbornej spôsobilosti na vykonávanie činností na určených technických zariadeniach ..... | 200 eur
+
+  - w) | Vydanie poverenia na posudzovanie technickej dokumentácie a schvaľovanie spôsobilosti určených technických zariadení ...... | 200 eur
+
+  - x) | Vydanie poverenia na overovanie splnenia požiadaviek na vykonávanie určených činností ...... | 200 eur
+
+  - y) | Vydanie poverenia na posudzovanie rizík ............... | 500 eur
+
+  - z) | Vykonanie skúšky o odbornej spôsobilosti na výkon činnosti bezpečnostného poradcu pre prepravu nebezpečného tovaru po železnici ..... | 35 eur
+
+  - aa) | Vykonanie zmeny vo vydanom poverení podľa písmen t) až y) ...... | 100 eur
+
+  - Poznámky 1. Príslušný správny dráhový úrad vyberie poplatok podľa písmen b), d), h) a i) tejto položky bez zreteľa na počet odchýlok od schváleného typu alebo povoleného typu dráhového vozidla v rámci jedného podania. 2. Správny poplatok podľa písmena e) tejto položky sa vyberie, len ak sa typ výstroja alebo súčasti schvaľuje oddelene od schvaľovania typu alebo podstatnej zmeny dráhového vozidla. | |
 
     - Položka 71
 
-  - a) | Vydanie technického preukazu dráhového vozidla pre železničnú dráhu alebo pre špeciálnu dráhu |
-
-  - | 1. nového alebo rekonštruovaného ..... | 40 eur
-
-  - | 2. prevádzkovaného ku dňu 1. 10. 1997 ..... | 20 eur
+  - a) | Vydanie technického preukazu dráhového vozidla pre električkovú dráhu, trolejbusovú dráhu alebo pre špeciálnu dráhu ...... | 50 eur
 
   - b) | Vydanie technického preukazu dráhového vozidla pre lanovú dráhu ..... | 20 eur
 
-  - c) | Vydanie technického preukazu dráhového vozidla pre električkovú dráhu alebo trolejbusovú dráhu ..... | 50 eur
+  - c) | Zmena údajov v technickom preukaze dráhového vozidla ..... | 20 eur
 
-  - d) | Zmena údajov v technickom preukaze dráhového vozidla ..... | 20 eur
+  - d) | Pridelenie značky držiteľa železničného vozidla ..... | 200 eur
 
-  - e) | Pridelenie skratky vlastníka železničného vozidla | 115 eur;
+  - e) | Zmena registrovaných údajov subjektov železničného vozidla ............. | 100 eur
 
-  - f) | Zmena registračných údajov vlastníka železničného vozidla | 40 eur;
+  - f) | Zmena alebo zrušenie značky držiteľa železničného vozidla ......... | 50 eur
 
-  - g) | Zrušenie skratky vlastníka železničného vozidla | 20 eur;
+  - g) | Povolenie na uvedenie železničného vozidla na trh alebo do prevádzky ........ | 200 eur
 
-  - h) | Povolenie na uvedenie dráhového vozidla do prevádzky | 40 eur;
+  - h) | Zmena alebo zrušenie povolenia na uvedenie železničného vozidla na trh alebo zmena alebo zrušenie povolenia na uvedenie železničného vozidla do prevádzky ....... | 50 eur
 
-  - i) | Zmena povolenia na uvedenie dráhového vozidla do prevádzky | 15 eur;
+  - i) | Pridelenie evidenčného čísla železničnému vozidlu | 50 eur
 
-  - j) | Pridelenie evidenčného čísla železničnému vozidlu | 40 eur;
+  - j) | Zmena alebo zrušenie evidenčného čísla železničného vozidla | 25 eur
 
-  - k) | Zmena alebo zrušenie evidenčného čísla železničného vozidla | 15 eur;
+  - k) | Zaregistrovanie železničného vozidla do registra železničných vozidiel | 50 eur
 
-  - l) | Zaevidovanie železničného vozidla do národného registra železničných vozidiel | 40 eur;
+  - l) | Dodatočné povolenie na uvedenie železničného vozidla do prevádzky, ktoré má povolenie na uvedenie do prevádzky v železničnom systéme vydané v inom členskom štáte | 65 eur
 
-  - m) | Dodatočné povolenie na uvedenie železničného vozidla do prevádzky, ktoré má povolenie na uvedenie do prevádzky v železničnom systéme vydané v inom členskom štáte | 65 eur;
+  - m) | Zmena alebo zrušenie dodatočného povolenia podľa písmena l) | 20 eur
 
-  - n) | Zmena alebo zrušenie dodatočného povolenia podľa písmena m) | 20 eur;
+  - n) | Vydanie duplikátu dokladu podľa písmen d) až j) a l) a m) | 7 eur
 
-  - o) | Vydanie duplikátu dokladu podľa písmen e) až k) a písmen m) a n) | 7 eur.
+  - o) | Poskytnutie informácií na základe žiadosti o predbežné zapojenie podľa osobitných predpisov<sup>21c</sup>) .......... | 50 eur
 
-  - Poznámky 1. Príslušný správny dráhový úrad vyberie poplatok podľa písmena b) tejto položky len za prvé dráhové vozidlo schváleného typu bez zreteľa na celkový počet dráhových vozidiel. 2. Príslušným dráhovým úradom pre električkové dráhy alebo trolejbusové dráhy je miestne príslušný vyšší územný celok. | |
+  - Poznámky Príslušný správny dráhový úrad vyberie poplatok podľa písmena b) tejto položky len za prvé dráhové vozidlo schváleného typu bez zreteľa na celkový počet dráhových vozidiel. | |
 
     - Položka 72
 
@@ -2298,21 +2306,23 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 75
 
-  - a) Vydanie preukazu na vedenie dráhového vozidla na všetkých dráhach okrem lanových dráh | 10 eur
+  - a) Vydanie preukazu na vedenie dráhového vozidla na všetkých dráhach | 10 eur
 
-  - b) Vykonanie zmeny v preukaze na vedenie dráhového vozidla | 5 eur
+  - b) Vykonanie zmeny v preukaze na vedenie dráhového vozidla a na riadenie chodu lanovej dráhy | 5 eur
 
-  - c) Vydanie bezpečnostného osvedčenia pre železničný podnik | 140 eur
+  - c) Vydanie bezpečnostného osvedčenia pre železničný podnik | 1 000 eur
 
-  - d) Vydanie bezpečnostného povolenia pre manažéra infraštruktúry | 280 eur;
+  - d) Vydanie bezpečnostného povolenia pre manažéra infraštruktúry | 1 000 eur
 
-  - e) Zmena alebo zrušenie bezpečnostného osvedčenia podľa písmena c), alebo bezpečnostného povolenia podľa písmena d) | 22 eur;
+  - e) Zmena alebo zrušenie bezpečnostného osvedčenia podľa písmena c), alebo bezpečnostného povolenia podľa písmena d) | 150 eur
 
-  - f) Vydanie preukazu rušňovodiča | 45 eur;
+  - f) Vydanie preukazu rušňovodiča | 45 eur
 
-  - g) Zmena alebo zrušenie preukazu rušňovodiča podľa písmena f) | 22 eur;
+  - g) Zmena alebo zrušenie preukazu rušňovodiča podľa písmena f) | 22 eur
 
-  - i) Vydanie duplikátu podľa písmen c) až g) | 10 eur.
+  - i) Vydanie duplikátu podľa písmen c) až g) | 10 eur
+
+  - j) Vydanie vyhlásenia o uznaní skúšajúcich rušňovodičov ......... | 50 eur
 
     - Položka 76
 
@@ -2814,21 +2824,23 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 86
 
-  - Vydanie súhlasu dráhovým správnym úradom |
+    - a) Vydanie súhlasu dráhovým správnym úradom
 
-  - a) zo zákazu stavieb a činností v ochrannom pásme dráhy |
+      - 1. zo zákazu stavieb a činností v ochrannom pásme dráhy
 
-  - 1. fyzickej osobe ..... | 25 eur
+        - 1.1. fyzickej osobe ............................................................................................. 25 eur
 
-  - 2. právnickej osobe ..... | 50 eur
+        - 1.2. právnickej osobe ........................................................................................ 50 eur
 
-  - b) na umiestnenie cudzích zariadení a na skladovanie nebezpečných látok v ochrannom pásme dráhy | 50 eur
+      - 2. na umiestnenie cudzích zariadení a na skladovanie nebezpečných látok v ochrannom pásme dráhy ..................... 50 eur
 
-  - c) na úrovňové križovanie železničnej dráhy s pozemnou komunikáciou ..... | 100 eur
+      - 3. na úrovňové križovanie železničnej dráhy s pozemnou komunikáciou ............... 100 eur
 
-  - Splnomocnenie |
+    - b) Vydanie výnimky zo stavebno-technických požiadaviek na projektovanie, výstavbu a prevádzku dráhy ........................100 eur.
 
-  - Dráhový správny úrad môže v odôvodnených prípadoch poplatok znížiť alebo ho odpustiť. |
+    - Splnomocnenie
+
+      - Dráhový správny úrad môže v odôvodnených prípadoch poplatok znížiť alebo ho odpustiť.
 
     - Položka 87
 
@@ -2875,6 +2887,10 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - e) | Vydanie druhého a ďalšieho rovnopisu povolenia alebo licencie <sub>.....</sub> | 10 eur
 
   - f) | Zrušenie povolenia na prevádzkovanie dráhy alebo licencie na prevádzkovanie dopravy na dráhe na žiadosť držiteľa <sub>.....</sub> | 50 eur
+
+  - g) | Vydanie licencie na zachádzanie na železničnú infraštruktúru ............. | 200 eur
+
+  - h) | Obnovenie platnosti pozastavenej licencie na poskytovanie dopravných služieb na dráhe na žiadosť držiteľa ......... | 35 eur
 
   - Poznámka | |
 
@@ -3795,6 +3811,10 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
     - Položka 104
 
   - Vydanie potvrdenia o splnení oznamovacej povinnosti<sup>27f</sup>)........................................................ | 25 eur
+
+  - Položka 105
+
+  - Podanie žiadosti o uznanie školiaceho strediska<sup>27g</sup>) ............................................... 300 eur
 
   - VIII. ČASŤ FINANČNÁ SPRÁVA A OBCHODNÁ ČINNOSŤ
 
@@ -5934,7 +5954,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 203
 
-  - a) Preskúmanie odbornej spôsobilosti podnikateľa a vydanie oprávnenia podľa osobitných predpisov na výkon určených činností v oblasti určených technických zariadení na dráhach, za každú aj začatú hodinu pracovného času | 20 eur, najviac 1 400 eur
+  - a) Vydanie oprávnenia podľa osobitného predpisu<sup>42d</sup>) na výkon určených činností za každú kategóriu určeného technického zariadenia alebo činnosti zvárania, alebo nedeštruktívneho skúšania | 200 eur
 
   - b) Schválenie určeného technického zariadenia na prevádzku pred prvým uvedením určeného technického zariadenia do prevádzky vrátane miestneho zisťovania, za každú aj začatú hodinu pracovného času | 20 eur,
 
@@ -5966,13 +5986,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - d) Prehliadky a skúšky kontajnerov ISO a výmenných nadstavieb po ich oprave alebo rekonštrukcii, za každý kus | 60 eur
 
-  - e) Vydanie dokladu o odbornej spôsobilosti na vykonávanie |
+  - e) Vykonanie skúšky o odbornej spôsobilosti na vykonávanie |
 
-  - 1. revízie, prehliadky a skúšky určeného technického zariadenia | 50 eur
+  - 1. revízie, prehliadky a skúšky určeného technického zariadenia za každú určenú činnosť, kontrolu činnosti vo zváraní alebo nedeštruktívnom skúšaní | 50 eur
 
-  - 2. obsluhy určeného technického zariadenia a na prácu s určeným technickým zariadením | 25 eur
+  - 2. obsluhy určeného technického zariadenia a na prácu s určeným technickým zariadením | 35 eur
 
-  - Poznámky 1. Poplatok podľa tejto položky vyberá Štátny dráhový úrad. 2. Poplatok podľa písmen a) až c) tejto položky sa vyberá až po vykonaní úkonu. |
+  - Poznámky 1. Poplatok podľa tejto položky vyberá Dopravný úrad. 2. Poplatok podľa písmen a) až c) tejto položky sa vyberá až po vykonaní úkonu. |
 
     - Položka 204
 

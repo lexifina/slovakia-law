@@ -100,8 +100,6 @@
 
 - Zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení zákona č. 58/1997 Z. z.
 
-- 10) Napríklad zákon č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení niektorých zákonov, zákon č. 288/1997 Z. z. o telesnej kultúre a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 282/2008 Z. z. o podpore práce s mládežou a o zmene a doplnení zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 10a) § 184f ods. 2 zákona č. 343/2015 o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 395/2021 Z. z.
 
 - 10b) Zákon č. 8/2005 Z. z. o správcoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -192,8 +190,6 @@
 
 - 19b) § 140 zákona č. 8/2009 Z. z.
 
-- 20) § 15 ods. 4 zákona č. 596/2003 o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 20a) Zákon č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 20aa) § 2 ods. 21 písm. a) zákona č. 106/2018 Z. z. o prevádzke vozidiel v cestnej premávke a o zmene a doplnení niektorých zákonov.
@@ -204,9 +200,11 @@
 
 - 20ad) Napríklad § 16 až 18 a § 33 zákona č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení zákona č. 390/2015 Z. z., vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku v znení neskorších predpisov.
 
-- 21) § 83 zákona č. 131/2002 v znení neskorších predpisov.
-
 - 21b) Zákon č. 387/2015 Z. z. o jednotnom informačnom systéme v cestnej doprave a o zmene a doplnení niektorých zákonov.
+
+- 21c) Čl. 22 až 24 vykonávacieho nariadenia Komisie (EÚ) 2018/545 zo 4. apríla 2018, ktorým sa stanovujú praktické dojednania týkajúce sa postupu vydávania povolení pre železničné vozidlá a povolení pre typ železničných vozidiel podľa smernice Európskeho parlamentu a Rady (EÚ) 2016/797 (Ú. v. EÚ L 90, 6. 4. 2018) v platnom znení.
+
+- Čl. 3 ods. 2 a čl. 4 vykonávacieho nariadenia Komisie (EÚ) 2018/763 z 9. apríla 2018, ktorým sa stanovujú praktické dojednania vydávania jednotných bezpečnostných osvedčení železničným podnikom v zmysle smernice Európskeho parlamentu a Rady (EÚ) 2016/798 a ktorým sa zrušuje nariadenie Komisie (ES) č. 653/2007 (Ú. v. EÚ L 129, 25. 5. 2018) v platnom znení.
 
 - 22) § 116 ods. 17 zákona č. 8/2009 Z. z. v znení neskorších predpisov.
 
@@ -264,7 +262,7 @@
 
 - 27f) § 10 ods. 3 zákona č. 452/2021 Z. z.
 
-- 27g) § 37 ods. 14 zákona č. 195/2000 Z. z.
+- 27g) § 52a zákona č. 452/2021 Z. z. v znení zákona č. 366/2024 Z. z.
 
 - 27h) § 38 ods. 3 zákona č. 195/2000 Z. z.
 
@@ -669,6 +667,8 @@
 - 42b) § 6 ods. 1 písm. e) zákona č. 125/2006 Z. z.
 
 - 42c) § 14 ods. 9, § 21 ods. 14 a § 27 ods. 17 zákona č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 42d) § 20 ods. 4 vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 205/2010 Z. z. o určených technických zariadeniach a určených činnostiach a činnostiach na určených technických zariadeniach v znení vyhlášky č. 180/2020 Z. z.
 
 - 46) Zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z.Vyhláška Federálneho ministerstva dopravy č. 61/1982 Zb. o určených technických zariadeniach.Vyhláška Federálneho ministerstva dopravy č. 72/1984 Zb. o podmienkach spôsobilosti kontajnerov ISO radu 1 na bezpečnú a plynulú prevádzku.Vyhláška Federálneho ministerstva dopravy č. 8/1987 Zb. o spôsobilosti dovážaných lanových dráh a iných technických zariadení.
 
