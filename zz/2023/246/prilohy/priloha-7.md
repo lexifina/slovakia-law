@@ -1,1 +1,0 @@
-Príloha č. 7 k vyhláške č. 246/2023 Z. z. [Spôsob výpočtu nákladov na odchýlku súvisiacich s diagramom strát elektriny určených na základe skutočných cien odchýlky](../assets/37b848754233a33ecca2f3ac78dc3a564f47f536b4bf957ffa846eb99de73a8e.pdf)

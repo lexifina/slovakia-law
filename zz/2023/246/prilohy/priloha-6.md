@@ -1,1 +1,0 @@
-Príloha č. 6 k vyhláške č. 246/2023 Z. z. [Podklady k návrhu ceny za prístup do prenosovej sústavy a prenos elektriny predkladané prevádzkovateľom prenosovej sústavy](../assets/e0005e5a4e6f9a6b711d7b4f94018d240b64641ba8d53587b3c7fb520ec296c0.pdf)
