@@ -1,0 +1,13 @@
+# § 21a Prechodné ustanovenia k úprave účinnej od 20. mája 2019
+
+(1) Ustanovenia § 12a ods. 1 až 4 a 7 až 10 a §12b ods. 1 a 2 sa neuplatňujú na iné tabakové výrobky ako cigarety a tabak na vlastnoručné zhotovenie cigariet do 19. mája 2024.
+
+(2) Spotrebiteľské balenie cigariet a spotrebiteľské balenie tabaku na vlastnoručné zhotovenie cigariet vyrobené pred 20. májom 2019 možno uvádzať na trh do 19. mája 2020.
+
+(3) Spotrebiteľské balenie iného tabakového výrobku ako cigariet a tabaku na vlastnoručné zhotovenie cigariet vyrobené pred 20. májom 2024 možno uvádzať na trh do 19. mája 2026.
+
+(4) Zákaz skladovania neoznačených tabakových výrobkov, predávania neoznačených tabakových výrobkov a ponúkania neoznačených tabakových výrobkov na predaj podľa § 12a ods.11 sa nevzťahuje na osobu, ktorá skladuje, predáva alebo ponúka na predaj cigarety alebo tabak na vlastnoručné zhotovenie cigariet vyrobené pred 20. májom 2019 a uvedené na trh do 19. mája 2020 alebo ktorá skladuje, predáva alebo ponúka na predaj iné tabakové výrobky ako cigarety a tabak na vlastnoručné zhotovenie cigariet vyrobené pred 20. májom 2024 a uvedené na trh do 19. mája 2026, a to až do ich odovzdania colnému úradu na zničenie podľa odseku 5 alebo 6.
+
+(5) Osoba, ktorá v rámci podnikania predáva spotrebiteľské balenia tabakového výrobku a ktorá skladuje spotrebiteľské balenia cigariet alebo spotrebiteľské balenia tabaku vyrobené pred 20. májom 2019, ktoré nepredala do 19. mája 2020, je povinná do 15. júna 2020 oznámiť colnému úradu množstvo takých spotrebiteľských balení cigariet a spotrebiteľských balení tabaku a zároveň v tejto lehote požiadať colný úrad o ich zničenie, pričom colný úrad také spotrebiteľské balenia cigariet a spotrebiteľské balenia tabaku zničí na náklady osoby a o zničení vyhotoví úradný záznam o zničení; ustanovenie § 20 ods. 7 sa nepoužije.
+
+(6) Osoba, ktorá v rámci podnikania predáva spotrebiteľské balenia tabakového výrobku a ktorá skladuje spotrebiteľské balenia tabakových výrobkov iné ako spotrebiteľské balenia cigariet alebo spotrebiteľské balenia tabaku vyrobené pred 20. májom 2024, ktoré nepredala do 19. mája 2026, je povinná do 15. júna 2026 oznámiť colnému úradu množstvo takých spotrebiteľských balení tabakových výrobkov iných ako spotrebiteľských balení cigariet alebo spotrebiteľských balení tabaku a zároveň v tejto lehote požiadať colný úrad o ich zničenie, pričom colný úrad také spotrebiteľské balenia tabakových výrobkov iné ako spotrebiteľské balenia cigariet alebo spotrebiteľské balenia tabaku zničí na náklady osoby a o zničení vyhotoví úradný záznam o zničení; ustanovenie § 20 ods. 7 sa nepoužije.
