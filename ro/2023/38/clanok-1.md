@@ -6,11 +6,19 @@ Opatrenie Národnej banky Slovenska z 21. júna 2021 č. 8/2021 o predkladaní v
 
 - ![§ 1 odsek 1](assets/1169449d62618419bf59d9d9e527f15cecbab0d554ea2670b21661377f9bfbde.png)
 
+- 2. V § 1 ods. 1 sa vypúšťa písmeno h).
+
+  - Doterajšie písmená i) až w) sa označujú ako písmená h) až v).
+
 - 3. V § 1 ods. 3 sa slová „č. 1 až 24“ nahrádzajú slovami „č. 1 až 25“.
 
 - 4. V § 2 odsek 1 znie:
 
 - ![§ 2 odsek 1](assets/b88183632b1489dfc4db5d084d617ad9b7018c08d1daa87595c8c33e561bbab6.png)
+
+- 5. V § 2 ods. 1 sa vypúšťa písmeno h).
+
+  - Doterajšie písmená i) až w) sa označujú ako písmená h) až v).
 
 - 6. Za § 6 sa vkladá § 6a, ktorý znie:
 
@@ -28,9 +36,11 @@ Opatrenie Národnej banky Slovenska z 21. júna 2021 č. 8/2021 o predkladaní v
 
 - 7. V prílohe č. 3 vysvetlivky znejú:
 
-- „[Vysvetlivky na vypracúvanie výkazu Mk (NBS) 02 – 12](assets/eb4e9f57fbb6110adaebe8c2e97d9839f17e5c1222b628253faa3515a29ad22c.pdf)“.
+- „[Vysvetlivky na vypracúvanie výkazu Mk (NBS) 02 – 12](assets/bdf16c13f7a1db7b511b491458d140cecc58c50f405b36cc2af7f3acb4dccf15.pdf)“.
 
 - 8. Príloha č. 6 sa nahrádza prílohou č. 1 k tomuto opatreniu.
+
+- 9. Príloha č. 8 sa vypúšťa.
 
 - 10. Prílohy č. 16 a 17 sa vypúšťajú.
 
@@ -38,6 +48,6 @@ Opatrenie Národnej banky Slovenska z 21. júna 2021 č. 8/2021 o predkladaní v
 
 - 12. Opatrenie sa dopĺňa prílohou č. 25, ktorá vrátane nadpisu znie:
 
-- „[Príloha č. 25 k opatreniu č. 8/2021](assets/4c5ef345d0f21e4193a93849d9a597397ef6d774a33a6410b0ef1204417cd580.pdf)“.
+- „[Príloha č. 25 k opatreniu č. 8/2021](assets/968ecf7ccdfd4ae6459bdaf7b8a9af88528b6502b4512244653e5657091904fc.pdf)“.
 
-[Konsolidovane znenie](assets/d6a23fa4ecb217afce2a9d15eb6fc868f1065f2e3ed362ac18d328627c58462f.pdf)
+[Konsolidovane znenie](assets/7cc9f12b53c3968a594773eb903aea0281c76f17bf30d6ec9ec83c423ebfaf79.pdf)
