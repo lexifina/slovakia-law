@@ -1,0 +1,1 @@
+Príloha č. 7 k vyhláške č. 445/2022 Z. z. [Ekonomicky oprávnené náklady na využívanie hydroenergetického potenciálu v tisícoch eur](../assets/55c914a449c8422f1afadaded32ffda250db42b8cdcf1a4ffe281ca3010aa324.pdf)

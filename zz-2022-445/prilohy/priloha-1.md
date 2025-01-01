@@ -1,0 +1,1 @@
+Príloha č. 1 k vyhláške č. 445/2022 Z. z. [Údaje potrebné na výpočet cien za využívanie hydroenergetického potenciálu, za odber povrchovej vody a za odber energetickej vody](../assets/ec80153170a6cbdf1350d8142704db7167239b5c6bc9bfe4bec2b2e3527db410.pdf)

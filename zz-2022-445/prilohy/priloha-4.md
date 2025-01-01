@@ -1,0 +1,1 @@
+Príloha č. 4 k vyhláške č. 445/2022 Z. z. [Ekonomicky oprvnené náklady na regulované a neregulované vodohospodárske služby v tisícoch eur](../assets/dbdf3e97145f78c1ac436803ba1a3672195513dc86e3a38dee8a21da95cdc61c.pdf)

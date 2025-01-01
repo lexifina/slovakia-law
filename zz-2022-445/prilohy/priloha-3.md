@@ -1,0 +1,1 @@
+Príloha č. 3 k vyhláške č. 445/2022 Z. z. [Prehľad členenia hodnoty majetku v tisícoch eur a jeho percentuálny podiel na jednotlivých vodohospodárskych službách](../assets/280317cbe5d57df3b79ddbfe190d5e223e9f583df5f358f7c5d65e776e5842a8.pdf)
