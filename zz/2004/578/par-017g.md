@@ -1,6 +1,6 @@
 # § 17g
 
-(1) Ministerstvo zdravotníctva môže počas krízovej situácie z dôvodu ochorenia COVID-19 na podnet samosprávneho kraja alebo na podnet regionálneho úradu verejného zdravotníctva vydať rozhodnutie o dočasnej zmene povolenia na prevádzkovanie ambulancie pevnej ambulantnej pohotovostnej služby.
+(1) Ministerstvo zdravotníctva môže počas krízovej situácie z dôvodu ohrozenia verejného zdravia II. stupňa na podnet samosprávneho kraja alebo na podnet regionálneho úradu verejného zdravotníctva vydať rozhodnutie o dočasnej zmene povolenia na prevádzkovanie ambulancie pevnej ambulantnej pohotovostnej služby.
 
 (2) Rozhodnutie o dočasnej zmene povolenia na prevádzkovanie ambulancie pevnej ambulantnej pohotovostnej služby okrem všeobecných náležitostí rozhodnutia<sup>23</sup>) obsahuje
 

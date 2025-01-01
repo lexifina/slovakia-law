@@ -34,19 +34,19 @@
 
 - 10a) § 8a ods. 1 písm. a) zákona č. 576/2004 Z. z. v znení zákona č. 257/2017 Z. z.
 
+- 10aa) § 7 ods. 1 písm. a) tretí bod zákona č. 576/2004 Z. z. v znení zákona č. 360/2024 Z. z.
+
 - 10b) § 11 zákona č. 540/2021 Z. z. o kategorizácii ústavnej zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 
 - 10c) § 2 ods. 17 zákona č. 540/2021 Z. z.
 
+- 10ca) § 11 ods. 6 a 7 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+
+- 10cb) § 2 ods. 5 zákona č. 576/2004 Z. z. v znení zákona č. 220/2013 Z. z.
+
 - 10d) § 12 ods. 1 zákona č. 576/2004 Z. z.
 
 - 11) § 7 zákona č. 581/2004 Z. z.
-
-- 11a) § 7 ods. 1 prvá veta zákona č. 581/2004 Z. z. v znení zákona č. 540/2021 Z. z.
-
-- 11b) Čl. 107 a 108 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 202, 7. 6. 2016) v platnom znení.
-
-- Zákon o štátnej pomoci.
 
 - 12) § 34 ods. 2 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
 
@@ -68,6 +68,8 @@
 
 - 13aaa) § 4 ods. 2 písm. a) a b) zákona č. 540/2021 Z. z.
 
+- 13aab) § 5 ods. 1 zákona č. 317/2016 Z. z.
+
 - 13b) § 45 ods. 1 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení zákona č. 466/2008 Z. z.
 
 - 13ba) § 10b zákona č. 576/2004 Z. z. v znení zákona č. 2/2022 Z. z.
@@ -80,11 +82,15 @@
 
 - 14aa) § 3 ods. 2 zákona č. 231/2019 Z. z.
 
+- 14aaa) § 15, § 16 a 31 zákona č. 540/2021 Z. z.
+
 - 14b) § 60 ods. 3 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
 - 15) § 13 ods. 4 písm. a) zákona č. 355/2007 Z. z.
 
 - 15a) Príloha I bod 6 nariadenia Komisie (EÚ) č. 965/2012 z 5. októbra 2012, ktorým sa ustanovujú technické požiadavky a administratívne postupy týkajúce sa leteckej prevádzky podľa nariadenia Európskeho parlamentu a Rady (ES) č. 216/2008 (Ú. v. EÚ L 296, 25. 10. 2012) v platnom znení.
+
+- 15aa) § 52 ods. 8 zákona č. 355/2007 Z. z. v znení zákona č. 198/2020 Z. z.
 
 - 15b) § 12 zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -276,7 +282,7 @@
 
 - 44) § 50 ods. 3 písm. c) zákona č. 581/2004 Z. z. v znení zákona č. 353/2005 Z. z.
 
-- 45) § 6 až 17 a § 26 až 34, § 39 až 41 a § 43 až 44d zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+- 45) § 6 až 17, § 26 až 34, § 39 až 41, § 43 až 44d a § 45a zákona č. 576/2004 Z. z. v znení neskorších predpisov.
 
 - § 119 a 120 zákona č. 362/2011 Z. z. v znení neskorších predpisov.
 
@@ -324,7 +330,7 @@
 
 - 55cb) § 67b ods. 3 zákona č. 581/2004 Z. z. v znení zákona č. 392/2020 Z. z.
 
-- 55d) § 14 ods. 1 písm. a) až d) zákona č. 153/2013 Z. z.
+- 55d) § 14 ods. 1 písm. a) až d) a f) zákona č. 153/2013 Z. z. v znení zákona č. 361/2024 Z. z.
 
 - 55e) § 11 zákona č. 153/2013 Z. z.
 
@@ -350,7 +356,9 @@
 
 - 55jaf) § 9 ods. 6 zákona č. 576/2004 Z. z.
 
-- 55jag) Druhá hlava zákona č. 576/2004 Z. z.
+- 55jag) § 14 ods. 1 písm. f) zákona č. 153/2013 Z. z. v znení zákona č. 361/2024 Z. z.
+
+- 55jaga) § 3 ods. 1 písm. a) piaty bod zákona č. 153/2013 Z. z. v znení zákona č. 361/2024 Z. z.
 
 - 55jah) Napr. zákon č. 577/2004 Z. z., § 13 zákona č. 576/2004 Z. z., nariadenie vlády Slovenskej republiky č. 722/2004 Z. z. o výške úhrady poistenca za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 777/2004 Z. z., ktorým sa vydáva Zoznam chorôb, pri ktorých sa zdravotné výkony čiastočne uhrádzajú alebo sa neuhrádzajú na základe verejného zdravotného poistenia.
 
@@ -406,9 +414,19 @@
 
 - 55jawg) § 3 ods. 1 písm. f) a príloha č. 1a zákona č. 153/2013 Z. z. v znení zákona č. 310/2021 Z. z.
 
+- 55jawga) § 11 ods. 11 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+
+- 55jawgb) § 11 ods. 12 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+
 - 55jawh) § 7 ods. 1 písm. a) bod 1.2. zákona č. 576/2004 Z. z. v znení zákona č. 662/2007 Z. z.
 
 - 55jawi) Vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 10/2014 Z. z. ktorou sa ustanovuje zoznam štatistických výkazov v zdravotníctve, podrobnosti o postupe, metódach, okruhu spravodajských jednotiek a lehotách hlásení v rámci štatistického zisťovania v zdravotníctve a ich charakteristiky v znení vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 94/2018 Z. z.
+
+- 55jawj) § 9b zákona č. 576/2004 Z. z. v znení zákona č. 360/2024 Z. z.
+
+- 55jawk) § 45a zákona č. 576/2004 Z. z. v znení zákona č. 360/2024 Z. z.
+
+- 55jawl) § 2 ods. 45 zákona č. 576/2004 Z. z. v znení zákona č. 360/2024 Z. z.
 
 - 55jawm) § 14 ods. 1 písm. s) zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení zákona č. 363/2024 Z. z.
 
@@ -452,6 +470,8 @@
 
 - 55n) § 14 ods. 1 zákona č. 576/2004 Z. z. v znení zákona č. 139/2019 Z. z.
 
+- 56) § 14 ods. 10 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
+
 - 57) § 9 ods. 3 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
 
 - 58) § 8 ods. 3 zákona č. 581/2004 Z. z.
@@ -486,11 +506,17 @@
 
 - 58f) § 3 ods. 2 písm. e) zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení zákona č. 363/2024 Z. z.
 
+- 58g) § 18 ods. 1 zákona č. 576/2004 Z. z. v znení zákona č. 360/2024 Z. z.
+
+- 58h) Napríklad zákon č. 305/2005 Z. z. v znení neskorších predpisov, zákon č. 448/2008 Z. z. v znení neskorších predpisov.
+
 - 59) § 24 a 25 zákona č. 576/2004 Z. z.
 
 - 59a) § 64 ods. 10 zákona č. 581/2004 Z. z. v znení zákona č. 392/2020 Z. z.
 
-- 60) Napríklad zákon Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v znení neskorších predpisov.
+- 59b) § 2 ods. 43 zákona č. 576/2004 Z. z. v znení zákona č. 360/2024 Z. z.
+
+- 60) Napríklad zákon Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v znení neskorších predpisov, zákon č. 305/2005 Z. z. v znení neskorších predpisov.
 
 - 60aa) § 119 ods. 3 Zákonníka práce.
 
@@ -513,6 +539,8 @@
 - 60caa) § 43 zákona č. 540/2021 Z. z.
 
 - 60d) § 64 ods. 5 zákona č. 581/2004 Z. z. v znení neskorších predpisov.
+
+- 60e) § 49q ods. 2 zákona č. 576/2004 Z. z. v znení zákona č. 495/2022 Z. z.
 
 - 61) Napríklad zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 

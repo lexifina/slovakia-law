@@ -6,7 +6,7 @@ Príloha č. 1a k zákonu č. 578/2004 Z. z.
 
   - 2. ambulancia zubného lekárstva,
 
-  - 3. ambulancia maxilofaciálnej chirurgie,
+  - 3. ambulancia maxilofaciálnej chirurgie a dentoalveolárnej chirurgie,
 
   - 4. ambulancia čeľustnej ortopédie,
 
@@ -108,30 +108,34 @@ Príloha č. 1a k zákonu č. 578/2004 Z. z.
 
   - 53. ambulancia pediatrickej neurológie,
 
-  - 54. ambulancia pediatrickej oftalmológie,
+  - 54. ambulancia pediatrickej pneumológie a ftizeológie,
 
-  - 55. ambulancia pediatrickej pneumológie a ftizeológie,
+  - 55. ambulancia pediatrickej reumatológie,
 
-  - 56. ambulancia pediatrickej reumatológie,
+  - 56. ambulancia pediatrickej urológie,
 
-  - 57. ambulancia pediatrickej urológie,
+  - 57. ambulancia paliatívnej medicíny,
 
-  - 58. ambulancia paliatívnej medicíny,
+  - 58. ambulancia nukleárnej medicíny,
 
-  - 59. ambulancia nukleárnej medicíny,
+  - 59. ambulancia dentálnej hygieny,
 
-  - 60. ambulancia dentálnej hygieny,
+  - 60. hepatologická ambulancia,
 
-  - 61. hepatologická ambulancia,
+  - 61. ambulancia poradenskej psychológie,
 
-  - 62. ambulancia poradenskej psychológie,
+  - 62. ambulancia pracovnej a organizačnej psychológie,
 
-  - 63. ambulancia pracovnej a organizačnej psychológie,
+  - 63. ambulancia anestéziológie a intenzívnej medicíny,
 
-  - 64. ambulancia anestéziológie a intenzívnej medicíny len v nemocnici, v ktorej sa poskytuje ústavná zdravotná starostlivosť v odbore anestéziológia a intenzívna medicína,
+  - 64. pediatrická ambulancia len v nemocnici, v ktorej sa poskytuje ústavná zdravotná starostlivosť najmenej v jednom pediatrickom odbore,
 
-  - 65. pediatrická ambulancia len v nemocnici, v ktorej sa poskytuje ústavná zdravotná starostlivosť najmenej v jednom pediatrickom odbore,
+  - 65. špecializovaná ambulancia Horskej záchrannej služby,
 
-  - 66. špecializovaná ambulancia Horskej záchrannej služby,
+  - 66. špecializovaná ambulancia Hasičského záchranného zboru,
 
-  - 67. špecializovaná ambulancia Hasičského záchranného zboru.
+  - 67. neuropsychiatrická ambulancia,
+
+  - 68. ambulancia medicíny závislostí,
+
+  - 69. ambulancia vaskulárnej a nevaskulárnej intervenčnej rádiológie len v nemocnici.

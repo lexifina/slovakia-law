@@ -6,7 +6,9 @@
 
 - a) štandardných postupov na výkon prevencie, štandardných diagnostických postupov a štandardných terapeutických postupov (ďalej len „štandardné postupy“),
 
-- b) interného systému hodnotenia bezpečnosti pacienta a minimálnych požiadaviek na interný systém hodnotenia bezpečnosti pacienta.
+- b) interného systému hodnotenia bezpečnosti pacienta a minimálnych požiadaviek na interný systém hodnotenia bezpečnosti pacienta alebo
+
+- c) povinnosti nahlasovania osoby, ktorá je darcom ľudského orgánu, ľudského tkaniva alebo ľudských buniek podľa osobitného predpisu<sup>13aab</sup>) podľa § 79 ods. 22.
 
 (2) Bezpečnosťou pacienta podľa odseku 1 sa rozumie predchádzanie nežiaducej udalosti pri poskytovaní zdravotnej starostlivosti. Nežiaducou udalosťou podľa prvej vety sa rozumie
 
@@ -129,3 +131,5 @@
 - h) kópiu certifikátov podľa odseku 16 písm. b).
 
 (19) Na výkon klinického auditu a na rozhodovanie o tom, či osoba oprávnená na výkon klinického auditu bude vylúčená z výkonu klinického auditu, sa nevzťahujú všeobecné predpisy o správnom konaní.<sup>72</sup>)
+
+(20) Minimálne požiadavky na rozsah klinického auditu na pracoviskách, kde sa vykonáva lekárske ožiarenie, na osoby oprávnené na výkon klinického auditu a na postupy hodnotenia výsledkov klinického auditu ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo zdravotníctva.

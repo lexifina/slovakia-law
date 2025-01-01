@@ -32,7 +32,9 @@
 
 - m) označenie orgánu príslušného na vydanie povolenia, ktorý rozhodnutie vydal, a jeho sídlo,
 
-- n) identifikátor zdravotníckeho zariadenia podľa príslušných štandardov zdravotníckej informatiky.<sup>23aaa</sup>)
+- n) identifikátor zdravotníckeho zariadenia podľa príslušných štandardov zdravotníckej informatiky,<sup>23aaa</sup>)
+
+- o) informáciu o verejnej dostupnosti ambulancie, ak ide o všeobecnú ambulanciu, primárnu gynekologicko-pôrodnícku ambulanciu alebo špecializovanú ambulanciu.
 
 (4) Orgán príslušný na vydanie povolenia bezodkladne po nadobudnutí právoplatnosti rozhodnutia vykoná v registri povolení zápis údajov alebo zmenu údajov podľa odseku 3.
 
