@@ -2,9 +2,15 @@
 
 - 2) Napríklad § 19 zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 19 zákona č. 314/2001 Z. z. o ochrane pred požiarmi v znení neskorších predpisov, § 142 ods. 3 zákona č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
 
-- 2a) § 2a ods. 2 a 3 zákona č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon) v znení neskorších predpisov.
+- 2a) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon) v znení neskorších predpisov.
+
+- 2b) Dohovor proti diskriminácii vo vzdelávaní (Oznámenie Ministerstva zahraničných vecí a európskych záležitostí Slovenskej republiky č. 276/2024 Z. z.).
+
+- Dohovor o právach osôb so zdravotným postihnutím (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 317/2010 Z. z.).
 
 - 3) § 372 Trestného zákona.
+
+- 3a) § 211 Trestného zákona.
 
 - 4) § 424 Trestného zákona.
 
@@ -66,8 +72,6 @@
 
 - Zákon č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
-- 24) § 8 ods. 4 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
-
 - 25) § 5 ods. 4 písm. h) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
 - 26) § 57 ods. 3 zákona č. 195/1998 Z. z. v znení neskorších predpisov.
@@ -92,11 +96,7 @@
 
 - 32aa) § 5 ods. 14 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
-- 32ab) § 8a, § 9 ods. 2 písm. h) a § 10 ods. 1 písm. a) a d) a ods. 2 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
-
-- 32ac) § 2 zákona č. 571/2009 Z. z. o rodičovskom príspevku a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 32ad) Zákon č. 571/2009 Z. z. v znení neskorších predpisov.
+- 32ab) § 45 ods. 1 zákona č. 305/2005 Z. z. v znení neskorších predpisov.
 
 - 32b) § 29 ods. 2 písm. a) zákona č. 61/2015 Z. z.
 
@@ -216,8 +216,6 @@
 
 - 83) § 2 písm. a) bod 3 zákona č. 305/2005 Z. z. v znení neskorších predpisov.
 
-- 84) Zákon č. 386/1997 Z. z. o ďalšom vzdelávaní a o zmene zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z. v znení neskorších predpisov.
-
 - 89) § 451 a 458 Občianskeho zákonníka.
 
 - 90a) § 24 ods. 1 a § 48 ods. 4 písm. e) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -230,6 +228,10 @@
 
 - 91b) § 6 zákona č. 576/2004 Z. z. v znení zákona č. 2/2022 Z. z.
 
+- 91c) § 5 zákona č. 219/2014 Z. z. o sociálnej práci a o podmienkach na výkon niektorých odborných činností v oblasti sociálnych vecí a rodiny a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 91d) Zákon č. 219/2014 Z. z. v znení neskorších predpisov.
+
 - 92) Zákon č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 678/2006 Z. z.
 
 - 92a) § 19 zákona č. 61/2015 Z. z.
@@ -241,6 +243,8 @@
 - 93a) § 31 zákona č. 596/2003 Z. z. v znení zákona č. 5/2005 Z. z.
 
 - 93aaa) Zákon č. 305/2013 Z. z. v znení neskorších predpisov.
+
+- 93aab) Napríklad zákon č. 480/2002 Z. z. v znení neskorších predpisov, zákon č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 93b) Zákon č. 305/2013 Z. z. v znení neskorších predpisov.
 
@@ -263,5 +267,13 @@
 - 94) Zákon č. 395/2002 Z. z. v znení neskorších predpisov.
 
 - 95) § 23a zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
+
+- 95a) § 4 ods. 6 písm. m) a § 7a ods. 2 zákona č. 453/2003 Z. z. o orgánoch štátnej správy v oblasti sociálnych vecí, rodiny a služieb zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších prepisov.
+
+- 95b) § 3 písm. n) zákona č. 305/2013 Z. z. v znení neskorších predpisov.
+
+- 95c) § 4 zákona č. 544/2010 Z. z. v znení neskorších predpisov.
+
+- 95d) § 4 ods. 4 zákona č. 544/2010 Z. z. v znení neskorších predpisov.
 
 - 96) § 24 ods. 1 písm. c) a e) zákona č. 355/2007 Z. z. v znení zákona č. 40/2017 Z. z.

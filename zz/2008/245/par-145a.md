@@ -6,19 +6,19 @@
 
 (2) Podpornými opatreniami sú:
 
-- a) poskytovanie výchovy a vzdelávania na základe úpravy cieľov, metód, foriem a prístupov vo výchove a vzdelávaní; poskytovanie zabezpečuje škola, školské výchovno-vzdelávacie zariadenie alebo špeciálne výchovné zariadenia,
+- a) poskytovanie výchovy a vzdelávania na základe úpravy cieľov, metód, foriem a prístupov vo výchove a vzdelávaní; poskytovanie zabezpečuje základná škola, základná škola pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami, stredná škola, stredná škola pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami, školské výchovno-vzdelávacie zariadenie alebo špeciálne výchovné zariadenia,
 
-- b) poskytovanie výchovy a vzdelávania na základe úpravy obsahu výchovy a vzdelávania a hodnotenia výsledkov dosiahnutých deťmi alebo žiakmi vo výchove a vzdelávaní; poskytovanie zabezpečuje škola, školské výchovno-vzdelávacie zariadenie alebo špeciálne výchovné zariadenia,
+- b) poskytovanie výchovy a vzdelávania na základe úpravy obsahu výchovy a vzdelávania a hodnotenia výsledkov dosiahnutých deťmi alebo žiakmi vo výchove a vzdelávaní; poskytovanie zabezpečuje základná škola, základná škola pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami, stredná škola, stredná škola pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami, školské výchovno-vzdelávacie zariadenie alebo špeciálne výchovné zariadenia,
 
 - c) zabezpečenie činností na rozvoj pohybovej schopnosti, zmyslového vnímania, komunikačnej schopnosti, kognitívnej schopnosti, sociálno-komunikačných zručností, emocionality a sebaobsluhy; poskytovanie zabezpečuje materská škola, materská škola pre deti so špeciálnymi výchovno-vzdelávacími potrebami, základná škola, základná škola pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami, stredná škola, stredná škola pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami alebo špeciálne výchovné zariadenie,
 
 - d) činnosť na podporu dosahovania školskej spôsobilosti; poskytovanie zabezpečuje materská škola, materská škola pre deti so špeciálnymi výchovno-vzdelávacími potrebami, zariadenie poradenstva a prevencie alebo liečebno-výchovné sanatórium,
 
-- e) zabezpečenie poskytovania kurzu vyučovacieho jazyka školy alebo inej podpory pri osvojovaní si vyučovacieho jazyka školy; poskytovanie zabezpečuje materská škola, materská škola pre deti so špeciálnymi výchovno-vzdelávacími potrebami, základná škola, základná škola pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami, stredná škola, stredná škola pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami okrem bilingválneho vzdelávania alebo špeciálne výchovné zariadenie,
+- e) zabezpečenie poskytovania kurzu vyučovacieho jazyka školy alebo inej podpory pri osvojovaní si vyučovacieho jazyka školy, ak ide o základnú školu, základnú školu pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami, strednú školu, strednú školu pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami okrem bilingválneho vzdelávania alebo špeciálne výchovné zariadenie, alebo zabezpečenie inej podpory pri osvojovaní si vyučovacieho jazyka školy, ak ide o materskú školu alebo materskú školu pre deti so špeciálnymi výchovno-vzdelávacími potrebami; poskytovanie zabezpečuje materská škola, materská škola pre deti so špeciálnymi výchovno-vzdelávacími potrebami, základná škola, základná škola pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami, stredná škola, stredná škola pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami okrem bilingválneho vzdelávania alebo špeciálne výchovné zariadenie,
 
-- f) zabezpečenie doučovania alebo cieleného učenia na dosiahnutie najvyššieho individuálneho kognitívneho potenciálu dieťaťa alebo žiaka; poskytovanie zabezpečuje materská škola, materská škola pre deti so špeciálnymi výchovno-vzdelávacími potrebami, základná škola, základná škola pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami, stredná škola, stredná škola pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami alebo špeciálne výchovné zariadenie,
+- f) zabezpečenie doučovania alebo cieleného učenia na dosiahnutie najvyššieho individuálneho kognitívneho potenciálu dieťaťa alebo žiaka; poskytovanie zabezpečuje základná škola, základná škola pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami, stredná škola, stredná škola pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami alebo špeciálne výchovné zariadenie,
 
-- g) skvalitnenie podmienok výchovy a vzdelávania žiakov zo sociálne znevýhodneného prostredia; poskytovanie zabezpečuje škola alebo školské zariadenie,
+- g) skvalitnenie podmienok výchovy a vzdelávania detí a žiakov zo sociálne znevýhodneného prostredia; poskytovanie zabezpečuje škola alebo školské zariadenie,
 
 - h) zabezpečenie vzdelávania sa vo vyučovacom predmete alebo vo vzdelávacej oblasti vo vyššom ročníku; poskytovanie zabezpečuje základná škola, základná škola pre žiakov s nadaním, stredná škola alebo stredná škola pre žiakov s nadaním,
 

@@ -36,7 +36,7 @@
 
 (11) Žiak, ktorý sa vzdeláva podľa medzinárodného programu, sa hodnotí podľa pravidiel hodnotenia tohto medzinárodného programu. Ak medzinárodný program neupravuje pravidlá hodnotenia, žiak sa hodnotí podľa tohto zákona.
 
-(12) Žiak špeciálnej školy a žiak s autizmom alebo s ďalšími pervazívnymi vývinovými poruchami sa môže súhrnne hodnotiť z jednotlivých vyučovacích predmetov formou slovného hodnotenia; celkové hodnotenie takého žiaka je prospel alebo neprospel.
+(12) Žiak školy pre žiakov so zdravotným znevýhodnením a žiak s autizmom alebo s ďalšími pervazívnymi vývinovými poruchami sa môže súhrnne hodnotiť z jednotlivých vyučovacích predmetov formou slovného hodnotenia; celkové hodnotenie takého žiaka je prospel alebo neprospel.
 
 (13) V posledný vyučovací deň prvého polroka školského roka škola vydá žiakovi výpis hodnotenia vyučovacích predmetov a správania žiaka za prvý polrok. Tento výpis nie je verejnou listinou. Vysvedčenie za prvý polrok sa vydáva na základe žiadosti plnoletého žiaka, zákonného zástupcu neplnoletého žiaka alebo zástupcu zariadenia.
 

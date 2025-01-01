@@ -4,14 +4,8 @@
 
 (2) Skrátené štúdium je určené pre uchádzačov, ktorí v predchádzajúcom vzdelávaní získali najmenej stredné odborné vzdelanie.
 
-(3) Stredná odborná škola môže organizovať skrátené štúdium v
-
-- a) jednoročnom vzdelávacom programe odboru vzdelávania alebo
-
-- b) dvojročnom vzdelávacom programe odboru vzdelávania.
+(3) Stredná odborná škola môže organizovať skrátené štúdium v rozsahu určenom ministerstvom školstva.
 
 (4) Žiak v skrátenom štúdiu študuje len odborné vyučovacie predmety.
 
-(5) Skrátené štúdium v jednoročnom vzdelávacom programe odboru vzdelávania sa ukončuje záverečnou skúškou; dokladom o vzdelaní je vysvedčenie o záverečnej skúške.
-
-(6) Skrátené štúdium v dvojročnom vzdelávacom programe odboru vzdelávania sa ukončuje záverečnou skúškou; úspešným ukončením absolvent získa stredné odborné vzdelanie podľa § 16 ods. 4 písm. b).
+(5) Skrátené štúdium sa ukončuje záverečnou skúškou; úspešným ukončením absolvent získa stredné odborné vzdelanie podľa § 16 ods. 4 písm. b).
