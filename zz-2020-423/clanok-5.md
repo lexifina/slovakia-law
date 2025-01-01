@@ -1,0 +1,5 @@
+# Čl. V
+
+Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení zákona Národnej rady Slovenskej republiky č. 374/1996 Z. z., zákona č. 72/1999 Z. z., zákona č. 121/2001 Z. z., zákona č. 509/2001 Z. z., nálezu Ústavného súdu Slovenskej republiky č. 64/2002 Z. z., zákona č. 435/2002 Z. z., zákona č. 161/2003 Z. z., zákona č. 512/2003 Z. z., zákona č. 618/2004 Z. z., zákona č. 534/2005 Z. z., zákona č. 277/2007 Z. z., zákona č. 325/2007 Z. z., zákona č. 165/2008 Z. z., zákona č. 245/2008 Z. z., zákona č. 510/2010 Z. z., zákona č. 547/2011 Z. z., nálezu Ústavného súdu Slovenskej republiky č. 217/2012 Z. z., zákona č. 345/2012 Z. z., zákona č. 135/2013 Z. z., zákona č. 324/2014 Z. z., zákona č. 374/2014 Z. z., zákona č. 392/2015 Z. z., zákona č. 125/2016 Z. z., zákona č. 301/2016 Z. z., zákona č. 315/2016 Z. z., zákona č. 112/2018 Z. z., zákona č. 372/2018 Z. z., zákona č. 4/2019 Z. z., zákona č. 209/2019 Z. z. a zákona č. 241/2019 Z. z. sa dopĺňa takto:
+
+- V § 3b ods. 2 písm. d) sa za slová „Kancelárie Najvyššieho súdu Slovenskej republiky“ vkladá čiarka a slová „Kancelárie Najvyššieho správneho súdu Slovenskej republiky“.

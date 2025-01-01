@@ -1,0 +1,19 @@
+# Čl. I
+
+Zákon č. 160/2015 Z. z. Civilný sporový poriadok v znení zákona č. 87/2015 Z. z. a zákona č. 350/2018 Z. z. sa mení takto:
+
+- § 11 znie:
+
+- „§ 11
+
+- (1)
+
+- Spory o právomoc medzi súdmi a inými orgánmi rozhoduje kompetenčný senát najvyššieho súdu a Najvyššieho správneho súdu Slovenskej republiky (ďalej len „najvyšší správny súd“) podľa tohto zákona. Rozhodnutím kompetenčného senátu sú súdy a orgány verejnej moci viazané.
+
+- (2)
+
+- Kompetenčný senát je zložený z ôsmich sudcov, a to štyroch sudcov najvyššieho súdu a štyroch najvyššieho správneho súdu, ktorí si spomedzi seba volia predsedu.
+
+- (3)
+
+- Členov kompetenčného senátu a rovnaký počet náhradníkov určuje predseda najvyššieho súdu v rozvrhu práce najvyššieho súdu a predseda najvyššieho správneho súdu v rozvrhu práce najvyššieho správneho súdu.“.
