@@ -1,3 +1,3 @@
 Príloha č. 3 k zákonu č. 577/2004 Z. z.
 
-- ZOZNAM PRIORITNÝCH CHORÔB [príloha](../assets/6d8403fa8b0a191ffdb91c3b2ea661cbb24555f5216400b07a52b3daa1544447.pdf)
+- ZOZNAM PRIORITNÝCH CHORÔB [príloha](../assets/d00c128c2a19ebc25a1fd0c4fccc4e293b01a3b54338cabf93fdec59313d7408.pdf)

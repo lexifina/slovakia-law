@@ -126,7 +126,7 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 
 - Moč chemicky | |
 
-- Okultné krvácanie do stolice | | u poistencov vo veku od 50 rokov do 75 rokov života a u poistencov s pozitívnou rodinnou anamnézou karcinómu hrubého čreva a konečníka. Nevykonáva sa v prípade, ak bolo vykonané kompletné kolonoskopické vyšetrenie v posledných 10 rokoch s negatívnym nálezom.
+- Okultné krvácanie do stolice | | u poistencov vo veku od 50 rokov do 75 rokov života a u poistencov s pozitívnou rodinnou anamnézou karcinómu hrubého čreva a konečníka bez vekového obmedzenia. Nevykonáva sa v prípade, ak bolo vykonané kompletné kolonoskopické vyšetrenie v posledných desiatich rokoch s negatívnym nálezom.
 
 - Glukóza | |
 
@@ -224,7 +224,7 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 
 - Obsah: | Anamnéza: termín ostatnej menštruácie, možný termín koncepcie, anamnéza predchádzajúcich chorôb, počet a priebeh predchádzajúcich tehotenstiev. Užívanie liekov, fajčenie, požívanie alkoholu. Fyzikálne vyšetrenie: výška, hmotnosť, krvný tlak, celkové fyzikálne vyšetrenie. Vyšetrenie brucha a panvy: stanovenie veľkosti maternice, vyšetrenie kostenej panvy na symetriu a primeranosť, vyšetrenie krčka maternice a od 6. týždňa vyšetrenie oziev plodu. Špeciálne vyšetrenia: stanovenie HCG v moči, vyšetrenie krvnej skupiny a Rh-faktora, kompletného krvného obrazu, trombocytov, doby zrážania a doby krvácania, moču chemicky, močového sedimentu, BWR, HBsAg, HIV, glykémie, protilátok pri toxoplazmóze a rubeole, prípadne ďalších biochemických parametrov v závislosti od klinického obrazu a subjektívnych ťažkostí. Stanovenie alfa-fetoproteínu v sére matky. Lekár zabezpečí výkony SVLZ na príslušnom odbornom pracovisku. |
 
-- Vykonáva: | lekár so špecializáciou v špecializačnom odbore gynekológia a pôrodníctvo |
+- Vykonáva: | lekár so špecializáciou v špecializačnom odbore gynekológia a pôrodníctvo v primárnej gynekologicko-pôrodníckej ambulancii. |
 
 - Okruh poistencov: | tehotné ženy |
 

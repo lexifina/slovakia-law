@@ -62,6 +62,12 @@
 
 - 11q) § 24a až 24d, § 25 až 29 zákona č. 448/2008 Z. z. v znení neskorších predpisov.
 
+- 11qa) § 2 a 3 vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 208/2024 Z. z., ktorou sa určuje rozsah ošetrovateľskej praxe poskytovanej sestrou samostatne, samostatne na základe indikácie lekára a v spolupráci s lekárom a rozsah praxe pôrodnej asistencie poskytovanej pôrodnou asistentkou samostatne, samostatne na základe indikácie lekára a v spolupráci s lekárom.
+
+- 11qb) § 7 zákona č. 581/2004 Z. z. v znení neskorších predpisov.
+
+- 11qc) § 2 ods. 46 zákona č. 576/2004 Z. z. v znení zákona č. 360/2024 Z. z.
+
 - 11r) § 4 zákona č. 540/2021 Z. z. o kategorizácii ústavnej zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 
 - 12) § 7 ods. 1 písm. b) a § 9 zákona č. 576/2004 Z. z.
@@ -106,7 +112,13 @@
 
 - 32) § 2 ods. 5 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení neskorších predpisov.
 
-- 34) § 9 zákona č. 581/2004 Z. z. v znení neskorších predpisov.
+- 33) § 3 ods. 8 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+
+- 33a) § 3 ods. 5 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+
+- 33b) § 67a ods. 1 písm. e) zákona č. 581/2004 Z. z. v znení zákona č. 362/2024 Z. z.
+
+- 34) § 9b zákona č. 581/2004 Z. z. v znení zákona č. 360/2024 Z. z.
 
 - 35) Napríklad § 628 až 630 Občianskeho zákonníka.
 
