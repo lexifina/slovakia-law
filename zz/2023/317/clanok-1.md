@@ -52,6 +52,8 @@ Zákon č. 150/2013 Z. z. o Štátnom fonde rozvoja bývania v znení zákona č
 
 - 9. V § 6 ods. 7 sa na konci tretej vety vkladá čiarka a pripájajú sa tieto slová: „balkón alebo lodžia“.
 
+- 10. V § 6 ods. 7 sa na konci pripája táto veta: „Ak súčasťou ubytovacej bunky pozostávajúcej z dvoch obytných miestností je kuchynský kút a priestor vybavený zariadením na osobnú hygienu, musia byť umiestnené tak, aby boli prístupné obom obytným miestnostiam a neboli umiestnené priamo v obytnej miestnosti.“.
+
 - 11. V § 6 ods. 8 sa za slovo „bunky“ vkladá čiarka a slová „balkón alebo lodžia“.
 
 - 12. § 6 sa dopĺňa odsekom 10, ktorý znie:
@@ -256,6 +258,12 @@ Zákon č. 150/2013 Z. z. o Štátnom fonde rozvoja bývania v znení zákona č
 
 - 47. V § 15 ods. 1 písm. a) sa slová „obec v sídle okresu“ nahrádzajú slovom „obec“.
 
+- 48. V § 15 ods. 1 písmeno a) znie:
+
+- „a)
+
+- obce alebo mestskej časti, ktorá je sídlom okresu<sup>35</sup>) pre územný obvod podľa prílohy č. 3 (ďalej len „obec“) príslušný podľa miesta stavby, ak ide o účely podľa § 6 ods. 1 písm. a) a c) alebo“.
+
 - 49. V § 15 ods. 3 sa slová „odseku 25“ nahrádzajú slovami „odseku 26“.
 
 - 50. V § 15 sa za odsek 3 vkladá nový odsek 4, ktorý znie:
@@ -451,3 +459,173 @@ Zákon č. 150/2013 Z. z. o Štátnom fonde rozvoja bývania v znení zákona č
 - Podmienka podľa § 10 ods. 10 písm. d) sa použije prvýkrát na posudzovanie žiadostí predložených od 15. januára 2026.“.
 
 - 70. V prílohe č. 2 písm. f) stĺpci Povinný spôsob odstránenia poruchy sa za slová „tepelnoizolačnej vrstvy“ vkladá čiarka a slová „ak je to technicky uskutočniteľné,“.
+
+- 71. Príloha č. 3 vrátane nadpisu znie:
+
+- „Príloha č. 3
+
+- k zákonu č. 150/2013 Z. z.
+
+- ZOZNAM OBCÍ NA PREDKLADANIE ŽIADOSTÍ
+
+- Kraj | Obec, v ktorej sa žiadosť predkladá | Územný obvod
+
+- Bratislavský | Bratislava II. | Bratislava I.
+
+- | | Bratislava II.
+
+- | Bratislava III. | Bratislava III.
+
+- | | Pezinok
+
+- | Bratislava IV. | Bratislava IV.
+
+- | | Malacky
+
+- | Bratislava V. | Bratislava V.
+
+- | | Senec
+
+- Trnavský | Galanta | Dunajská Streda
+
+- | | Galanta
+
+- | Hlohovec | Hlohovec
+
+- | | Piešťany
+
+- | Trnava | Senica
+
+- | | Skalica
+
+- | | Trnava
+
+- Trenčiansky | Prievidza | Bánovce nad Bebravou
+
+- | | Partizánske
+
+- | | Prievidza
+
+- | Nové Mesto nad Váhom | Myjava
+
+- | | Nové Mesto nad Váhom
+
+- | Trenčín | Ilava
+
+- | | Považská Bystrica
+
+- | | Púchov
+
+- | | Trenčín
+
+- Nitriansky | Komárno | Komárno
+
+- | Nové Zámky | Levice
+
+- | | Nové Zámky
+
+- | | Šaľa
+
+- | Nitra | Nitra
+
+- | | Topoľčany
+
+- | | Zlaté Moravce
+
+- Žilinský | Žilina | Bytča
+
+- | | Čadca
+
+- | | Kysucké Nové Mesto
+
+- | | Námestovo
+
+- | | Žilina
+
+- | Liptovský Mikuláš | Liptovský Mikuláš
+
+- | | Ružomberok
+
+- | | Tvrdošín
+
+- | Martin | Dolný Kubín
+
+- | | Martin
+
+- | | Turčianske Teplice
+
+- Banskobystrický | Banská Bystrica | Banská Bystrica
+
+- | | Brezno
+
+- | Zvolen | Detva
+
+- | | Krupina
+
+- | | Veľký Krtíš
+
+- | | Zvolen
+
+- | Lučenec | Lučenec
+
+- | | Poltár
+
+- | | Revúca
+
+- | | Rimavská Sobota
+
+- | Žiar nad Hronom | Banská Štiavnica
+
+- | | Žarnovica
+
+- | | Žiar nad Hronom
+
+- Prešovský | Humenné | Humenné
+
+- | | Medzilaborce
+
+- | | Snina
+
+- | | Stropkov
+
+- | | Vranov na Topľou
+
+- | Poprad | Kežmarok
+
+- | | Poprad
+
+- | | Stará Ľubovňa
+
+- | Prešov | Bardejov
+
+- | | Levoča
+
+- | | Prešov
+
+- | | Sabinov
+
+- | | Svidník
+
+- Košický | Košice I. | Košice I.
+
+- | | Košice III.
+
+- | Košice II. | Košice II.
+
+- | | Košice IV.
+
+- | | Košice-okolie
+
+- | Michalovce | Michalovce
+
+- | | Sobrance
+
+- | | Trebišov
+
+- | Spišská Nová Ves | Gelnica
+
+- | | Rožňava
+
+- | | Spišská Nová Ves
+
+- “.
