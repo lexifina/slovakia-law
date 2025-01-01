@@ -54,7 +54,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 21. | Inštruktor autoškoly | inštruktorský preukaz | § 10 zákona č. 93/2005 Z. z. |
 
-- 23. | Vyučovanie v odbore cudzích jazykov alebo Prekladateľské a tlmočnícke služby*) | – dokončené štúdium príslušných jazykov na vysokej škole alebo vysvedčenie o zložení štátnej jazykovej skúšky alebo – preukázanie aspoň 10-ročného pobytu v štáte s úradným jazykom, ktorý sa má vyučovať, prekladať alebo tlmočiť | *) nevzťahuje sa na výkon činnosti tlmočníkov a prekladateľov podľa zákona č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov |
+- 23. | Vyučovanie v odbore cudzích jazykov | – vysokoškolské vzdelanie zamerané na príslušné jazyky alebo vysokoškolské vzdelanie v príslušnom jazyku alebo úspešné vykonanie štátnej jazykovej skúšky alebo – preukázanie aspoň desaťročného pobytu v štáte s úradným jazykom, ktorý sa má vyučovať | |
 
 - 24. | Vyučovanie v odbore umenia | – dokončené štúdium na príslušnej umeleckej škole alebo – spôsobilosť preukázaná 6-ročnou praktickou činnosťou v odbore | |
 
@@ -136,11 +136,11 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 51. | Prevádzkovanie cestovnej agentúry | – vysokoškolské vzdelanie druhého stupňa a šesť mesiacov praxe v odbore alebo – vysokoškolské vzdelanie prvého stupňa alebo vyššie odborné vzdelanie a jeden rok praxe v odbore alebo – úplné stredné všeobecné vzdelanie alebo úplné stredné odborné vzdelanie a dva roky praxe v odbore | | II
 
-- 52. | Sprievodca cestovného ­ruchu | osvedčenie o absolvovaní akreditovaného vzdelávacieho programu v odbore vydané vzdelávacou inštitúciou akreditovanou Ministerstvom školstva Slovenskej republiky | § 14 zákona č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení niektorých zákonov |
+- 52. | Sprievodca cestovného ruchu | osvedčenie o absolvovaní akreditovaného vzdelávacieho programu v odbore | § 21 ods. 7 zákona č. 292/2024 Z. z. |
 
-- 53. | Masérske služby | – absolvovanie strednej zdravotníckej školy alebo – absolvovanie lekárskej fakulty alebo zdravotníckej univerzity alebo – absolvovanie vysokej školy telovýchovného smeru | |
+- 53. | Masérske služby | – absolvovanie strednej zdravotníckej školy v odbore alebo – absolvovanie lekárskej fakulty, fakulty zdravotníctva alebo zdravotníckej univerzity alebo – absolvovanie vysokej školy telovýchovného smeru | |
 
-- 53a. | Wellness masérske služby | Osvedčenie o úplnej kvalifikácii | § 19 zákona č. 568/2009 Z. z. |
+- 53a. | Wellness masérske služby | osvedčenie o profesijnej kvalifikácii | § 21 ods. 7 zákona č. 292/2024 Z. z. |
 
 - 54. | Ubytovacie služby v ubytovacích zariadeniach s prevádzkovaním pohostinských činností v týchto zariadeniach | – vysokoškolské vzdelanie druhého stupňa a dva roky praxe v odbore alebo – vysokoškolské vzdelanie prvého stupňa alebo vyššie odborné vzdelanie a tri roky praxe v odbore alebo – úplné stredné všeobecné vzdelanie alebo úplné stredné odborné vzdelanie a štyri roky praxe v odbore | | III
 
@@ -156,7 +156,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 59. | Činnosť autorizovanej osoby | – rozhodnutie o autorizácii | § 14 zákona č. 133/2013 Z. z. o stavebných výrobkoch a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z. |
 
-- 61. | Sprostredkovanie predaja, prenájmu a kúpy nehnuteľností (realitná činnosť) | – vysokoškolské vzdelanie ekonomického alebo právnického alebo ­stavebného alebo architektonického smeru ­alebo – úplné stredné vzdelanie s maturitnou skúškou a osvedčenie o absolvovaní akreditovaného vzdelávacieho programu v odbore vydané vzdelávacou inštitúciou akreditovanou Ministerstvom školstva, vedy, výskumu a športu Slovenskej republiky | § 14 zákona č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení niektorých zákonov. |
+- 61. | Sprostredkovanie predaja, prenájmu a kúpy nehnuteľností (realitná činnosť) | – vysokoškolské vzdelanie zamerané na ekonómiu, právo, stavebníctvo alebo architektúru alebo – úplné stredné všeobecné vzdelanie alebo úplné stredné odborné vzdelanie a osvedčenie o absolvovaní akreditovaného vzdelávacieho programu v odbore | § 21 ods. 7 zákona č. 292/2024 Z. z. |
 
 - 62. | Bezpečnostnotechnické služby | – oprávnenie alebo – osvedčenie o odbornej spôsobilosti bezpečnostného technika | § 21 a 23 zákona č. 124/2006 Z. z. v znení neskorších predpisov |
 
@@ -172,7 +172,9 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 71. | – kvalitatívne a kvantitatívne zisťovanie faktorov životného prostredia a pracovného prostredia na účely posudzovania ich možného vplyvu na zdravie – hodnotenie vplyvov na verejné zdravie – hodnotenie zdravotných rizík zo životného prostredia – odber vzoriek zo životného prostredia a z pracovného prostredia na účely kvalitatívneho a kvantitatívneho zisťovania faktorov životného prostredia a pracovného prostredia – prácu s dezinfekčnými prípravkami na profesionálne použitie a na prácu s prípravkami na reguláciu živočíšnych škodcov na profesionálne použitie | osvedčenie o odbornej spôsobilosti | § 15 ods. 1 písm. a) zákona č. 355/2007 Z. z. § 15 ods. 1 písm. b) zákona č. 355/2007 Z. z. § 15 ods. 1 písm. b) zákona č. 355/2007 Z. z. § 15 ods. 1 písm. f) zákona č. 355/2007 Z. z. § 15 ods. 3 písm. b) zákona č. 355/2007 Z. z. |
 
-- 71. | Vykonávanie skúšky na overenie odbornej spôsobilosti | Oprávnenie na vykonávanie skúšky na overenie odbornej spôsobilosti | § 15 až 18 zákona č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení niektorých zákonov. |
+- 71. | Vykonávanie skúšky na overenie vzdelávacích výstupov | autorizácia na overovanie vzdelávacích výstupov | § 17 až 19 a 21 zákona č. 292/2024 Z. z. |
+
+- 72. | Vykonávanie majstrovskej skúšky | autorizácia na overovanie vzdelávacích výstupov | § 22 zákona č. 292/2024 Z. z. |
 
 - 76. | Podnikanie v oblasti nakladania s nebezpečným odpadom | – vysokoškolské vzdelanie druhého stupňa technického alebo prírodovedného smeru a najmenej tri roky praxe v oblasti nakladania s nebezpečným odpadom alebo – vysokoškolské vzdelanie druhého stupňa iného ako technického alebo prírodovedného smeru, alebo úplné stredné odborné vzdelanie v odbore vzdelávania s technickým zameraním a najmenej päť rokov praxe v oblasti nakladania s nebezpečným odpadom, alebo – úplné stredné všeobecné vzdelanie alebo úplné stredné odborné vzdelanie v odbore vzdelávania s iným ako technickým zameraním a najmenej osem rokov praxe v oblasti nakladania s nebezpečným odpadom – do praxe sa nezapočítavajú roky praxe počas štúdia | § 25 ods. 9 zákona č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov o odpadoch v znení neskorších predpisov |
 
@@ -196,7 +198,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 82. | Zmenárne | devízová licencia | § 6 zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov |
 
-- 83. | Zasielateľstvo | – vysokoškolské vzdelanie v odbore alebo – stredoškolské vzdelanie v odbore a jednoročná prax v odbore alebo – osvedčenie o absolvovaní akreditovaného vzdelávacieho programu v odbore a dvojročná prax v odbore | § 14 zákona č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení niektorých zákonov | II
+- 83. | Zasielateľstvo | – vysokoškolské vzdelanie v odbore alebo – stredoškolské vzdelanie v odbore a jednoročná prax v odbore alebo – osvedčenie o absolvovaní akreditovaného vzdelávacieho programu v odbore a dvojročná prax v odbore | § 21 ods. 7 zákona č. 292/2024 Z. z. | II
 
 - 84. | Prevádzkovanie závodného hasičského útvaru | oprávnenie na zriaďovanie a prevádzkovanie závodného hasičského útvaru | § 17 ods. 1 písm. n) zákona č. 314/2001 Z. z. |
 
@@ -247,3 +249,5 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 - 97. | Činnosť inštruktora v oblasti civilného letectva | preukaz spôsobilosti s kvalifikáciou inštruktora | § 19 ods. 3 zákona č. 143/1998 Z. z. v znení neskorších predpisov |
 
 - 98. | Činnosť examinátora v oblasti civilného letectva | osvedčenie examinátora | Príloha I podčasť K nariadenia Komisie (EÚ) č. 1178/2011 z 3. novembra 2011, ktorým sa ustanovujú technické požiadavky a administratívne postupy týkajúce sa posádky civilného letectva podľa nariadenia Európskeho parlamentu a Rady (ES) č. 216/2008 (Ú. v. EÚ L 311, 25. 11. 2011) v platnom znení letecký predpis |
+
+- 99. | Certifikovaný audítor kybernetickej bezpečnosti | Certifikát audítora kybernetickej bezpečnosti | § 29 ods. 3 zákona č. 69/2018 Z. z. o kybernetickej bezpečnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov |
