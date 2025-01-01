@@ -70,8 +70,6 @@
 
 - 14cb) § 5 a 6 zákona č. 474/2005 Z. z. o Slovákoch žijúcich v zahraničí a o zmene a doplnení niektorých zákonov.
 
-- 14d) § 1b zákona č. 575/2001 Z. z. v znení zákona č. 134/2020 Z. z.
-
 - 14e) Zákon č. 387/2002 Z. z. v znení neskorších predpisov.
 
 - § 43 zákona č. 7/2010 Z. z. o ochrane pred povodňami v znení zákona č. 71/2015 Z. z.
