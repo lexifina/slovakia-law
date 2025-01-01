@@ -22,15 +22,15 @@
 
 - 1cc) § 7 zákona č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
 
-- 1cd) § 13 zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 1ce) § 15 ods. 7 a 8 zákona č. 343/2015 Z. z. v znení neskorších predpisov.
-
 - 1cf) § 141 zákona č. 343/2015 Z. z. v znení neskorších predpisov.
 
 - 2) Zákon č. 292/2014 Z. z. o príspevku poskytovanom z európskych štrukturálnych a investičných fondov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - Zákon č. 121/2022 Z. z. o príspevkoch z fondov Európskej únie a o zmene a doplnení niektorých zákonov.
+
+- 2a) § 13 zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 2b) § 15 ods. 7 a 8 zákona č. 343/2015 Z. z. v znení neskorších predpisov.
 
 - 3) Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
