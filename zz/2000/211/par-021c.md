@@ -22,7 +22,7 @@
 
 - j) ktorá je časťou dokumentu obsahujúceho výlučne logá, heraldické znaky a insígnie,
 
-- k) ktorá sa týka citlivej informácie o kritickej infraštruktúre,<sup>27kd</sup>)
+- k) ktorá sa týka limitovanej informácie,<sup>27kd</sup>)
 
 - l) ktorú má k dispozícii osoba vykonávajúca výskum a vývoj alebo osoba financujúca výskum a vývoj vrátane osoby vykonávajúcej prenos výsledkov výskumu a vývoja do praxe, okrem výskumných údajov.
 

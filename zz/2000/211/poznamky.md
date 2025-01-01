@@ -174,7 +174,9 @@
 
 - 27kc) § 94 zákona č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 27kd) § 2 písm. k) zákona č. 45/2011 Z. z. o kritickej infraštruktúre.
+- 27kd) § 2 písm. h) zákona č. 367/2024 Z. z. o kritickej infraštruktúre a o zmene a doplnení niektorých zákonov.
+
+- § 3a zákona č. 215/2004 Z. z. v znení zákona č. 367/2024 Z. z.
 
 - 27l) Napríklad zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 200/2011 Z. z.
 
