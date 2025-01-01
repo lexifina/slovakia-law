@@ -1,0 +1,1 @@
+Príloha č. 33 k vyhláške č. 170/2021 Z. z. [VZOR PREUKAZU ČLENA STRÁŽE PRÍRODY](../assets/3f2843a2b4bd3e45066935f541c1083f4b1ba8637df0436357c30e7789958af3.pdf)

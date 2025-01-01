@@ -1,0 +1,1 @@
+Príloha č. 35 k vyhláške č. 170/2021 Z. z. [VZOR SLUŽOBNÉHO ODZNAKU ZAMESTNANCA OCHRANY PRÍRODY](../assets/be9ffacbed4a8016f6719a501f4248f71cd12c7374a3baefc78f4fae869017e0.pdf)

@@ -1,0 +1,1 @@
+Príloha č. 36 k vyhláške č. 170/2021 Z. z. [ZOZNAM DREVÍN A ICH SPOLOČENSKÁ HODNOTA](../assets/16a27656707b6dc9ad387f209b479e5bee36a9859b93cd0456cb72fd3f60dd23.pdf)

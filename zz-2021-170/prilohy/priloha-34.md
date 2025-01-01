@@ -1,0 +1,1 @@
+Príloha č. 34 k vyhláške č. 170/2021 Z. z. [VZOR ODZNAKU ČLENA STRÁŽE PRÍRODY](../assets/5985656639a567475487e8df6edfe9a85bb42aa31fcd5f85bfa5036029494154.pdf)
