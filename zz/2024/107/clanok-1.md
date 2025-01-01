@@ -18,6 +18,28 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 
 - 3. V § 8 písm. m) treťom bode sa za slovo „nadobudnúť“ vkladajú slová „alebo predať“.
 
+- 4. V § 10 ods. 3 sa vypúšťajú slová „dlhopisy na doručiteľa,“ a na konci sa pripája táto veta:
+
+- „Dlhopisy môžu mať len podobu zaknihovaných cenných papierov; to neplatí, ak ide o
+
+- a)
+
+- štátne dlhopisy,<sup>25a</sup>)
+
+- b)
+
+- komunálne obligácie<sup>26</sup>) alebo
+
+- c)
+
+- dlhopisy imobilizované u centrálneho depozitára alebo u zahraničného centrálneho depozitára pri ich vydaní.“.
+
+  - Poznámky pod čiarou k odkazom 25a a 26 znejú:
+
+  - „<sup>25a</sup>) § 18 zákona č. 530/1990 Zb. v znení neskorších predpisov.
+
+  - <sup>26</sup>) § 20 zákona č. 530/1990 Zb. v znení neskorších predpisov.“.
+
 - 5. V § 13 ods. 1 sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „a to aj vtedy, ak sa stane majetkom emitenta alebo ak je v prípade zaknihovaného cenného papiera pripísaný na účet emitenta.“.
 
 - 6. V § 70 ods. 1 písmeno c) znie:
@@ -131,6 +153,14 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 - (3)
 
 - Vo vzťahu k akciám, ktoré prešli na navrhovateľa podľa § 118i ods. 8 prvej vety do 31. mája 2024, sú zostávajúci akcionári a záložní veritelia povinní na účely poskytnutia protiplnenia oznámiť poverenej osobe svoje platobné údaje do 31. augusta 2024.“.
+
+- 35. Za § 173zh sa vkladá § 173zi, ktorý vrátane nadpisu znie:
+
+- „§ 173zi
+
+- Prechodné ustanovenie k úpravám účinným od 1. januára 2025
+
+- Na podobu dlhopisov vydaných pred 1. januárom 2025 sa vzťahuje § 10 ods. 3 v znení účinnom do 31. decembra 2024.“.
 
 - 36. V prílohe sa vypúšťa bod 11.
 
