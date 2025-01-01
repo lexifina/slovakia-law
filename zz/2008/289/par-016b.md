@@ -4,29 +4,31 @@
 
 (1) Daňový úrad alebo colný úrad uloží pokutu za správny delikt podľa
 
-- a) § 16a písm. a) až f), j), s) a t) od 330 eur do 3 300 eur,
+- a) § 16a písm. a) až f), j), s) a t) od 500 eur do 15 000 eur,
 
-- b) § 16a písm. g) až i), k), l), n), p) až r) a u) až x) od 100 eur do 3 300 eur; pokutu za správny delikt podľa § 16a písm. h) daňový úrad alebo colný úrad neuloží, ak daňovým úradom alebo colným úradom zistená celková suma vloženej hotovosti v elektronickej registračnej pokladnici alebo v pokladnici e-kasa klient okrem prijatej tržby podľa § 3 ods. 3 nepresiahne sumu 20 eur,
+- b) § 16a písm. g) až i), k), l), n), p) až r) a u) až x) od 150 eur do 6 500 eur; pokutu za správny delikt podľa § 16a písm. h) daňový úrad alebo colný úrad neuloží, ak daňovým úradom alebo colným úradom zistená celková suma vloženej hotovosti v elektronickej registračnej pokladnici alebo v pokladnici e-kasa klient okrem prijatej tržby podľa § 3 ods. 3 nepresiahne sumu 20 eur,
 
-- c) § 16a písm. m) od 20 eur do 100 eur pri druhom zistení porušenia; pri prvom zistení porušenia daňový úrad alebo colný úrad pokutu neuloží, ale podnikateľa vyzve na odstránenie nedostatkov pri označení tovaru alebo služby,
+- c) § 16a písm. m) od 30 eur do 200 eur pri druhom zistení porušenia; pri prvom zistení porušenia daňový úrad alebo colný úrad pokutu neuloží, ale podnikateľa vyzve na odstránenie nedostatkov pri označení tovaru alebo služby,
 
-- d) § 16a písm. o) od 50 eur do 330 eur; pri prvom zistení porušenia podľa § 3 ods. 8 daňový úrad alebo colný úrad pokutu neuloží, ale podnikateľa vyzve na odstránenie nedostatkov,
+- d) § 16a písm. o) od 80 eur do 650 eur; pri prvom zistení porušenia podľa § 3 ods. 8 daňový úrad alebo colný úrad pokutu neuloží, ale podnikateľa vyzve na odstránenie nedostatkov,
 
-- e) § 16a písm. am), ap) a ar) od 2 000 eur do 10 000 eur,
+- e) § 16a písm. am), ap) a ar) od 3 000 eur do 15 000 eur,
 
-- f) § 16a písm. ao) od 2 000 eur do 40 000 eur.
+- f) § 16a písm. ao) od 3 000 eur do 60 000 eur,
+
+- g) § 16a písm. at) od 20 eur do 100 eur.
 
 (2) Daňový úrad alebo colný úrad uloží pokutu pri každom ďalšom zistení porušenia podľa
 
-- a) § 16a písm. a) až f), j), s) a t) od 660 eur do 6 600 eur,
+- a) § 16a písm. a) až f), j), s) a t) od 1 000 eur do 30 000 eur,
 
-- b) § 16a písm. g) až i), k), l), n), p) až r) a u) až x) od 200 eur do 6 600 eur; pokutu za správny delikt podľa § 16a písm. h) daňový úrad alebo colný úrad neuloží, ak daňovým úradom alebo colným úradom zistená celková suma vloženej hotovosti v elektronickej registračnej pokladnici alebo v pokladnici e-kasa klient okrem prijatej tržby podľa § 3 ods. 3 nepresiahne sumu 20 eur,
+- b) § 16a písm. g) až i), k), l), n), p) až r) a u) až x) od 300 eur do 13 000 eur; pokutu za správny delikt podľa § 16a písm. h) daňový úrad alebo colný úrad neuloží, ak daňovým úradom alebo colným úradom zistená celková suma vloženej hotovosti v elektronickej registračnej pokladnici alebo v pokladnici e-kasa klient okrem prijatej tržby podľa § 3 ods. 3 nepresiahne sumu 20 eur,
 
-- c) § 16a písm. m) od 40 eur do 200 eur,
+- c) § 16a písm. m) od 60 eur do 400 eur,
 
-- d) § 16a písm. o) od 100 eur do 660 eur,
+- d) § 16a písm. o) od 150 eur do 1 300 eur,
 
-- e) § 16a písm. am), ap) a ar) od 4 000 eur do 20 000 eur.
+- e) § 16a písm. am), ap) a ar) od 6 000 eur do 30 000 eur.
 
 (3) Pokuty podľa odsekov 1 a 2 sa ukladajú na mieste rozhodnutím. Pokutu rozhodnutím na mieste uloží ten colný úrad alebo daňový úrad, ktorý správny delikt zistil. Ak daňový úrad alebo colný úrad neuloží pokutu rozhodnutím na mieste, postupuje podľa osobitného predpisu.<sup>19</sup>)
 

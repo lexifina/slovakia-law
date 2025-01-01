@@ -6,7 +6,7 @@ Správneho deliktu sa dopustí ten, kto
 
 - b) svojím zásahom vyradí elektronickú registračnú pokladnicu alebo pokladnicu e-kasa klient z prevádzky,
 
-- c) na evidenciu prijatej tržby používa elektronickú registračnú pokladnicu, ktorá nespĺňa požiadavky podľa § 4 ods. 1 až 4 alebo pokladnicu e-kasa klient, ktorá nespĺňa požiadavky podľa § 4a, alebo nesplní povinnosti uvedené v § 8a,
+- c) na evidenciu prijatej tržby používa elektronickú registračnú pokladnicu, ktorá nespĺňa požiadavky podľa § 4 ods. 1 až 4 alebo pokladnicu e-kasa klient, ktorá nespĺňa požiadavky podľa § 4a, alebo nesplní povinnosti uvedené v § 8a ods. 1 až 5 a 7,
 
 - d) neodovzdá paragón podľa § 10 ods. 4,
 
@@ -88,4 +88,6 @@ Správneho deliktu sa dopustí ten, kto
 
 - ar) umožní vytlačiť alebo vytlačí ochranný znak na pokladničnom doklade, ktorý nie je zaznamenaný v kontrolnom zázname, alebo umožní vytlačiť alebo vytlačí údaje, ktoré nie sú súčasťou obratu, záporného obratu, kumulovaného obratu alebo kontrolného záznamu,
 
-- as) nesplní povinnosť podľa § 4c ods. 11.
+- as) nesplní povinnosť podľa § 4c ods. 11,
+
+- at) nesplní oznamovaciu povinnosť podľa § 7a ods. 11.

@@ -8,9 +8,9 @@
 
 (4) Pri on-line registračnej pokladnici finančné riaditeľstvo sprístupní podnikateľovi v e-kasa zóne podnikateľa kód podľa odseku 1 spolu s autentifikačnými údajmi on-line registračnej pokladnice a identifikačnými údajmi o podnikateľovi, ktorými sú:
 
-- a) obchodné meno, miesto podnikania a predajné miesto, ak je odlišné od miesta podnikania, identifikačné číslo organizácie, ak mu bolo pridelené, daňové identifikačné číslo, identifikačné číslo pre daň z pridanej hodnoty, ak je platiteľom dane z pridanej hodnoty, ak ide o fyzickú osobu,
+- a) obchodné meno, miesto podnikania a predajné miesto, ak je odlišné od miesta podnikania, identifikačné číslo organizácie, ak mu bolo pridelené, daňové identifikačné číslo, identifikačné číslo pre daň z pridanej hodnoty, ak mu bolo pridelené a ak je platiteľom dane z pridanej hodnoty, ak ide o fyzickú osobu,
 
-- b) obchodné meno a sídlo, predajné miesto, ak je odlišné od sídla, identifikačné číslo organizácie, daňové identifikačné číslo, identifikačné číslo pre daň z pridanej hodnoty, ak je platiteľom dane z pridanej hodnoty, ak ide o právnickú osobu.
+- b) obchodné meno a sídlo, predajné miesto, ak je odlišné od sídla, identifikačné číslo organizácie, daňové identifikačné číslo, identifikačné číslo pre daň z pridanej hodnoty, ak mu bolo pridelené a ak je platiteľom dane z pridanej hodnoty, ak ide o právnickú osobu.
 
 (5) Podnikateľ je povinný pred prvým použitím on-line registračnej pokladnice nahrať do tejto pokladnice údaje podľa odseku 4.
 
@@ -23,3 +23,5 @@
 (9) Ak došlo k strate, zneužitiu alebo k odcudzeniu autentifikačných údajov on-line registračnej pokladnice, podnikateľ je povinný zabezpečiť neplatnosť autentifikačných údajov on-line registračnej pokladnice, a ak bude podnikateľ naďalej používať on-line registračnú pokladnicu, je povinný požiadať finančné riaditeľstvo o opakované pridelenie autentifikačných údajov on-line registračnej pokladnice spôsobom, ktorý zverejní finančné riaditeľstvo na svojom webovom sídle.
 
 (10) Ak podnikatelia vykonávajú činnosť na základe zmluvy o združení podľa § 3 ods. 5 a používajú jednu spoločnú pokladnicu e-kasa klient, žiadosť podľa odseku 1 a kópiu zmluvy o združení predloží jeden z účastníkov združenia podľa ich dohody.
+
+(11) Podnikateľ, ktorý sa stal platiteľom dane z pridanej hodnoty podľa osobitného predpisu,<sup>14a</sup>) je povinný pred prvým vyhotovením pokladničného dokladu ako platiteľ dane z pridanej hodnoty oznámiť finančnému riaditeľstvu prostredníctvom portálu finančnej správy v e-kasa zóne podnikateľa skutočnosť, že sa stal platiteľom dane z pridanej hodnoty; to neplatí pre podnikateľa, ktorý sa stal platiteľom dane z pridanej hodnoty na základe žiadosti o registráciu podľa osobitného predpisu<sup>14aa</sup>) alebo k 1. januáru roka nasledujúceho po roku, v ktorom prekročil obrat podľa osobitného predpisu.<sup>14ab</sup>)

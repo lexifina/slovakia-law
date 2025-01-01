@@ -30,6 +30,12 @@
 
 - 14) § 67 ods. 9 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
+- 14a) § 4 a 5 zákona č. 222/2004 Z. z. v znení neskorších predpisov.
+
+- 14aa) § 4 ods. 7 a ods. 8 písm. b) zákona č. 222/2004 Z. z. v znení neskorších predpisov.
+
+- 14ab) § 4 ods. 1 písm. a) zákona č. 222/2004 Z. z. v znení neskorších predpisov.
+
 - 14b) Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.
 
 - 15) § 3 ods. 4 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení zákona č. 520/2003 Z. z.

@@ -4,25 +4,25 @@
 
 - a) § 16a písm. y), aa) až af) a ah) až ak) od 100 eur do 3 300 eur,
 
-- b) § 16a písm. z) a ag) od 330 eur do 3 300 eur,
+- b) § 16a písm. z) a ag) od 500 eur do 6 500 eur,
 
 - c) § 16a písm. al) od 160 eur do 1 600 eur,
 
 - d) § 16a písm. an) 2 000 eur,
 
-- e) § 16a písm. as) od 2 000 eur do 10 000 eur.
+- e) § 16a písm. as) od 3 000 eur do 15 000 eur.
 
 (2) Daňový úrad alebo colný úrad uloží pokutu pri každom ďalšom zistení porušenia podľa
 
 - a) § 16a písm. y), aa) až af) a ah) až ak) od 200 eur do 6 600 eur,
 
-- b) § 16a písm. z) a ag) od 660 eur do 6 600 eur,
+- b) § 16a písm. z) a ag) od 1 000 eur do 13 000 eur,
 
 - c) § 16a písm. al) od 330 eur do 3 300 eur,
 
 - d) § 16a písm. an) 4 000 eur,
 
-- e) § 16a písm. as) od 4 000 eur do 20 000 eur.
+- e) § 16a písm. as) od 6 000 eur do 30 000 eur.
 
 (3) Pokutu podľa odseku 1 alebo odseku 2 ukladá ten daňový úrad alebo colný úrad, ktorý správny delikt zistil.
 
