@@ -16,9 +16,7 @@
 
 - 4c) § 90 ods. 3 zákona č. 305/2005 Z. z. v znení neskorších predpisov.
 
-- 4d) Čl. 4 ústavného zákona č. 493/2011 Z. z. o rozpočtovej zodpovednosti.
-
-- § 30aa ods. 21 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 101/2022 Z. z.
+- 4d) Napríklad čl. 4 ústavného zákona č. 493/2011 Z. z. o rozpočtovej zodpovednosti, § 158a zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 5) Napríklad zákon č. 5/2004 Z. z. v znení neskorších predpisov, zákon č. 305/2005 Z. z. v znení neskorších predpisov, zákon č. 417/2013 Z. z.
 
