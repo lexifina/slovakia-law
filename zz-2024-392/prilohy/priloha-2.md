@@ -1,0 +1,1 @@
+Príloha č. 2 k vyhláške č. 392/2024 Z. z. [PARAMETRE, PREDPOKLADY A PRAVIDLÁ NA URČENIE PROGNÓZ DÔCHODKU](../assets/5d3af6b4f0d0ea7e7f3f955450c2b590878056f2d6fdaf51284eed07acf0a129.pdf)

@@ -1,0 +1,1 @@
+- 1) § 23a zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
