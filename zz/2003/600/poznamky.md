@@ -70,7 +70,11 @@
 
 - 18da) § 40 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení zákona č. 180/2011 Z. z.
 
-- 18db) § 19, § 20, § 157 ods. 3 a § 158 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
+- 18db) § 2 ods. 1 zákona č. 232/2022 Z. z. o financovaní voľného času dieťaťa a o zmene a doplnení niektorých zákonov.
+
+- 18dc) § 10 ods. 3 a § 15 zákona č. 232/2022 Z. z.
+
+- § 19, § 20, § 157 ods. 3 a § 158 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
 
 - 18dd) § 19, § 20, § 157 ods. 3 a § 158 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
 
@@ -107,5 +111,7 @@
 - Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
 
 - 22a) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
+
+- 22b) Zákon č. 232/2022 Z. z.
 
 - 23) § 109 zákona č. 131/2002 Z. z.
