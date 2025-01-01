@@ -66,6 +66,10 @@
 
 - 15a) § 324 až 340 Civilného sporového poriadku.
 
+- 15aa) § 2 písm. b) bod 34 zákona č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 15ab) § 139b ods. 5 písm. c) zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
 - 15b) § 139b ods. 5 písm. b) zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 15c) § 33 ods. 2 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
