@@ -2,21 +2,41 @@
 
 - 2a) Zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
 
+- 2aa) § 20f až 20i Občianskeho zákonníka.
+
+- 2ab) § 6 zákona č. 83/1990 Zb. v znení zákona č. 346/2018 Z. z.
+
 - 2b) § 1 ods. 1 zákona č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov.
 
 - 3) § 9 Zákonníka práce.
 
 - 4) § 2 Obchodného zákonníka.
 
-- 4a) Položka 2 písm. a) zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch.
+- 4a) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
 - 4aa) Nariadenie Európskeho parlamentu a Rady (ES) č. 1893/2006 z 20. decembra 2006, ktorým sa zavádza štatistická klasifikácia ekonomických činností NACE Revision 2 a ktorým sa mení a dopĺňa nariadenie Rady (EHS) č. 3037/90 a niektoré nariadenia ES o osobitných oblastiach štatistiky (Ú. v. EÚ L 393, 30. 12. 2006) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 259/2008 z 11. marca 2008 (Ú. v. EÚ L 97, 9. 4. 2008).
+
+- 4ab) § 3 ods. 1 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 4ac) § 70 Obchodného zákonníka.
+
+- 4ad) § 19 zákona č. 583/2004 Z. z. o rozpočtových pravidlách územnej samosprávy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 4ae) § 40 ods. 8 Zákonníka práce.
+
+- 4af) § 3 ods. 2 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
+
+- 4ag) Zákon č. 215/2021 Z. z. o podpore v čase skrátenej práce a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 4ah) Položka 2 písm. a) prílohy zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
+
+- 4ai) § 30, § 30a a 31 zákona č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov.
+
+- 4aj) § 3 zákona č. 103/2007 Z. z. o trojstranných konzultáciách na celoštátnej úrovni a o zmene a doplnení niektorých zákonov (zákon o tripartite) v znení neskorších predpisov.
 
 - 4b) Zákon č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 4c) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. v znení zákona č. 91/2016 Z. z.
-
-- 4d) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
 - 5) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
