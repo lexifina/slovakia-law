@@ -4,6 +4,8 @@ Zákon č. 663/2007 Z. z. o minimálnej mzde v znení zákona č. 354/2008 Z. z.
 
 - 1. § 4 sa vypúšťa.
 
+- 2. V § 8 sa slová „je 57 %“ nahrádzajú slovami „je 60 %“.
+
 - 3. V § 8 sa slová „mesačnej nominálnej“ nahrádzajú slovami „nominálnej mesačnej“.
 
 - 4. Za § 8 sa vkladajú § 8a a 8b, ktoré vrátane nadpisov znejú:
@@ -86,7 +88,13 @@ Zákon č. 663/2007 Z. z. o minimálnej mzde v znení zákona č. 354/2008 Z. z.
 
 - 5. Za § 9b sa vkladajú § 9c a 9d, ktoré vrátane nadpisov znejú:
 
-- „§ 9d
+- „§ 9c
+
+- Prechodné ustanovenie k úprave účinnej od 1. januára 2025
+
+- Ustanovenie § 8 v znení účinnom od 1. januára 2025 sa prvýkrát uplatní na určenie sumy mesačnej minimálnej mzdy na rok 2026.
+
+- § 9d
 
 - Transpozičné ustanovenie
 
