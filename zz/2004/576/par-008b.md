@@ -1,6 +1,6 @@
 # § 8b Zubno–lekárska pohotovostná služba
 
-(1) Zubno-lekársku pohotovostnú službu poskytujú poskytovatelia poskytujúci zubno-lekársku ambulantnú starostlivosť určenými zdravotníckymi pracovníkmi v zdravotníckom povolaní zubný lekár v zdravotníckom zariadení poskytovateľa, ktorý je oprávnený na základe vydaného povolenia prevádzkovať ambulanciu zubno-lekárskej pohotovostnej služby v pracovných dňoch v čase určenom samosprávnym krajom a v dňoch pracovného pokoja nepretržite v rozsahu najmenej štyroch hodín denne v čase určenom samosprávnym krajom.
+(1) Zubno-lekársku pohotovostnú službu poskytujú poskytovatelia poskytujúci primárnu špecializovanú zubno-lekársku ambulantnú starostlivosť určenými zdravotníckymi pracovníkmi v zdravotníckom povolaní zubný lekár v zdravotníckom zariadení poskytovateľa, ktorý je oprávnený na základe vydaného povolenia prevádzkovať ambulanciu zubno-lekárskej pohotovostnej služby v pracovných dňoch v čase určenom samosprávnym krajom a v dňoch pracovného pokoja nepretržite v rozsahu najmenej štyroch hodín denne v čase určenom samosprávnym krajom.
 
 (2) Zubno-lekárska pohotovostná služba sa poskytuje podľa rozpisu zabezpečenia poskytovania zubno-lekárskej pohotovostnej služby určeného samosprávnym krajom a zverejneného na jeho webovom sídle.
 

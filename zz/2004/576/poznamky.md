@@ -26,6 +26,18 @@
 
 - 2bc) § 7 a 9 zákona č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností.
 
+- 2bd) Napríklad § 7 a 9 zákona č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností v znení neskorších predpisov, zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 305/2005 Z. z. v znení neskorších predpisov, zákon č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
+
+- 2be) § 12 a § 48 ods. 4 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
+
+- Ústavný zákon č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu v znení neskorších predpisov.
+
+- 2bf) Napríklad § 14 ods. 3, § 17 ods. 5, § 73 ods. 2 písm. e) tretí bod zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 2bg) § 67a ods. 1 písm. e) zákona č. 581/2004 Z. z. v znení zákona č. 362/2024 Z. z.
+
 - 2c) § 11 zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 3) § 3 ods. 1 až 4 zákona č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti.
@@ -39,6 +51,8 @@
 - 4aa) § 22 ods. 1 zákona č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 185/2014 Z. z.
 
 - 4aaa) § 5 a príloha č. 2 zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
+
+- 4aab) § 8 zákona č. 231/2019 Z. z. o výkone detencie a o zmene a doplnení niektorých zákonov v znení zákona č. 390/2022 Z. z.
 
 - 4aaaa) § 4 ods. 1 písm. d) zákona č. 179/2011 Z. z. o hospodárskej mobilizácii a o zmene a doplnení zákona č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu v znení neskorších predpisov.
 
@@ -102,6 +116,12 @@
 
 - 8a) § 5 ods. 1 písm. b) šiesty bod zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
 
+- 8aa) § 2 zákona č. 577/2004 Z. z. v znení neskorších predpisov.
+
+- 8ab) § 9 ods. 4 zákona č. 580/2004 Z. z. v znení zákona č. 362/2024 Z. z.
+
+- 8ac) § 28 ods. 1 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
+
 - 8b) § 5 ods. 1 písm. b) ôsmy bod zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
 
 - 8c) § 5 ods. 1 písm. b) štvrtý bod zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
@@ -116,11 +136,25 @@
 
 - 8f) § 7 ods. 15 zákona č. 578/2004 Z. z. v znení zákona č. 351/2017 Z. z.
 
-- 8g) § 12 zákona č. 231/2019 Z. z.
+- 8g) Výnos Ministerstva zdravotníctva Slovenskej republiky č. 09812/2008-OL o minimálnych požiadavkách na personálne zabezpečenie a materiálno-technické vybavenie jednotlivých druhov zdravotníckych zariadení Oznámenie Ministerstva zdravotníctva Slovenskej republiky č. 410/2008 Z. z. v znení neskorších predpisov.
 
 - 8h) Príloha č. 3 nariadenia vlády Slovenskej republiky č. 296/2010 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolania, spôsobe ďalšieho vzdelávania zdravotníckych pracovníkov, sústave špecializačných odborov a sústave certifikovaných pracovných činností v znení neskorších predpisov.
 
-- 8i) § 18 zákona č. 153/2001 Z. z. o prokuratúre v znení neskorších predpisov.
+- 8i) § 7 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z.
+
+- § 18 zákona č. 153/2001 Z. z. o prokuratúre v znení neskorších predpisov.
+
+- § 17 ods. 2 zákona č. 564/2001 Z. z. o verejnom ochrancovi práv v znení zákona č. 122/2006 Z. z.
+
+- § 9b zákona č. 578/2004 Z. z. v znení neskorších predpisov.
+
+- § 73 zákona č. 305/2005 Z. z.
+
+- § 26 zákona č. 176/2015 Z. z.
+
+- 8j) § 79 ods. 1 písm. bm) zákona č. 578/2004 Z. z. v znení zákona č. 495/2022 Z. z.
+
+- 8k) § 18 ods. 1 až 3 zákona č. 153/2001 Z. z. v znení neskorších predpisov.
 
 - 9) § 29 až 44 zákona č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -156,6 +190,8 @@
 
 - 14aaa) § 26 a nasl. Občianskeho zákonníka.
 
+- 14aaaa) § 6 zákona č. 231/2019 Z. z.
+
 - 14aab) § 2 písm. j) a § 29 zákona č. 480/2002 Z. z. v znení neskorších predpisov.
 
 - 14aac) § 30 ods. 1 a § 31 ods. 3 zákona č. 480/2002 Z. z. v znení neskorších predpisov.
@@ -169,6 +205,8 @@
 - 14b) § 9f zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
 
 - 14c) § 9d zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
+
+- 14d) Napríklad zákon č. 461/2003 Z. z. v znení neskorších predpisov.
 
 - 14e) § 3 ods. 2 písm. e) zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení zákona č. 363/2024 Z. z.
 
@@ -186,6 +224,10 @@
 
 - 17) Zákon č. 437/2004 Z. z. o náhrade za bolesť a o náhrade za sťaženie spoločenského uplatnenia.
 
+- 17a) § 58 zákona č. 305/2005 Z. z. v znení neskorších predpisov.
+
+- § 16 a 90e zákona č. 138/2019 Z. z. v znení neskorších predpisov.
+
 - 18) § 18 ods. 1 písm. b) zákona č. 581/2004 Z. z.
 
 - 19) § 81 ods. 1 písm. a) a b) zákona č. 578/2004 Z. z.
@@ -200,9 +242,13 @@
 
 - 20aa) § 5 a 6 a príloha č. 2 prvý bod k zákonu č. 153/2013 Z. z. v znení neskorších predpisov.
 
+- 20aaa) § 5 ods.1 písm. b) tretí bod zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
+
 - 20ab) Zákon č. 581/2004 Z. z. v znení zákona č. 518/2022 Z. z.
 
 - § 5 zákona č. 153/2013 Z. z. v znení neskorších predpisov.
+
+- 20ac) § 80 ods. 3 zákona č. 578/2004 Z. z. v znení zákona č. 360/2024 Z. z.
 
 - 21) Čl. 3 ods. 12 nariadenia Európskeho parlamentu a Rady (EÚ) č. 910/2014 z 23. júla 2014 o elektronickej identifikácii a dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zrušení smernice 1999/93/ES (Ú. v. EÚ L 257, 28. 8. 2014).
 
@@ -257,6 +303,8 @@
 - § 69 zákona č. 195/1998 Z. z.
 
 - 31a) § 30 ods. 12 zákona č. 355/2007 Z. z. v znení zákona č. 140/2008 Z. z.
+
+- 31aa) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 31b) § 5 ods. 11 a 12 zákona č. 153/2013 Z. z. v znení zákona č. 374/2018 Z. z.
 
@@ -368,6 +416,10 @@
 
 - 52aaa) § 32 ods. 6 zákona č. 578/2004 Z. z. v znení zákona č. 185/2014 Z. z.
 
+- 52aaaa) § 85 ods. 7, § 215 ods. 8, § 236 ods. 1, § 299 ods. 4, § 299a, § 446 ods. 4 až 6 Trestného poriadku.
+
+- 52aaab) § 462 ods. 4 až 6 Trestného poriadku.
+
 - 52aab) § 3 ods. 2 písm. f) a § 50 ods. 1 písm. a) zákona č. 422/2015 Z. z. o uznávaní dokladov o vzdelaní a o uznávaní odborných kvalifikácií a o zmene a doplnení niektorých zákonov.
 
 - § 35 ods. 2 a § 36 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
@@ -396,6 +448,12 @@
 
 - 52aam) Napríklad § 4 ods. 3, § 10 ods. 4 a 5, § 12 ods. 3 písm. s) zákona č. 153/2013 Z. z. v znení neskorších predpisov, § 9 ods. 1 zákona č. 540/2021 Z. z. v znení neskorších predpisov, § 6e ods. 31 zákona č. 578/2004 Z. z. v znení zákona č. 540/2021 Z. z.
 
+- 52aan) § 73 a 74 Trestného zákona.
+
+- § 85 ods. 7 a § 236 ods. 1 Trestného poriadku.
+
+- 52aao) § 445 ods. 3 Trestného poriadku.
+
 - 52ab) § 21 ods. 5 písm. b) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
 - § 33 zákona č. 317/2016 Z. z.
@@ -412,13 +470,13 @@
 
 - 53aaa) § 12 ods. 3 písm. t) zákona č. 153/2013 Z. z. v znení zákona č. 351/2017 Z. z.
 
-- 53aaaa) § 5 ods. 7 a 8 zákona č. 578/2004 Z. z. v znení zákona č. 540/2021 Z. z.
+- 53b) § 5b ods. 3 písm. f), § 79 ods. 1 písm. bv) a bx) a § 79 ods. 18 zákona č. 578/2004 Z. z. v znení zákona č. 360/2024 Z. z.
 
-- 53b) § 5b ods. 3 písm. d) a § 79 ods. 20 zákona č. 578/2004 Z. z. v znení zákona č. 540/2021 Z. z.
+- 53ba) Príloha č. 1a k zákonu č. 578/2004 Z. z. v znení zákona č. 360/2024 Z. z.
 
-- 53c) § 6d a 6e zákona č. 578/2004 Z. z. v znení zákona č. 540/2021 Z. z.
+- 53c) § 5d zákona č. 578/2004 Z. z. v znení zákona č. 360/2024 Z. z.
 
-- 53d) § 6d zákona č. 578/2004 Z. z. v znení zákona č. 540/2021 Z. z.
+- 53d) § 5d ods. 1 zákona č. 578/2004 Z. z. v znení zákona č. 360/2024 Z. z.
 
 - 53e) § 39 ods. 8 zákona č. 578/2004 Z. z. v znení zákona č. 67/2022 Z. z.
 

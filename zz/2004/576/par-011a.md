@@ -18,7 +18,7 @@ Pri poskytovaní ústavnej starostlivosti v zdravotníckom zariadení ústavnej 
 
 - h) zúčastniť sa denne na vychádzke v určených vonkajších priestoroch zdravotníckeho zariadenia,
 
-- i) na informácie a pre neho zrozumiteľné vysvetlenia týkajúce sa poskytovania zdravotnej starostlivosti a s tým súvisiacich úkonov, podávania liekov, ktoré je povinný užívať, zdravotného stavu, prognózy a liečebného postupu; pacientovi musí byť umožnené nahliadať do svojej zdravotnej dokumentácie a vyhotovovať si z nej kópie,
+- i) na informácie a pre neho zrozumiteľné vysvetlenia týkajúce sa poskytovania zdravotnej starostlivosti a s tým súvisiacich úkonov, podávania liekov, ktoré je povinný užívať, zdravotného stavu, prognózy a liečebného postupu; pacientovi musí byť umožnené nahliadať do svojej zdravotnej dokumentácie a vyhotovovať si z nej kópie; ak nebol použitý postup podľa § 25 ods. 3, musí byť pacientovi umožnené nahliadať do svojej zdravotnej dokumentácie a vyhotovovať si z nej kópie,
 
 - j) určiť osoby, ktorým budú, a osoby, ktorým nebudú poskytované informácie o jeho zdravotnom stave,
 

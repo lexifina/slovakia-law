@@ -15,3 +15,5 @@
 (8) Vnútorný poriadok musí zohľadňovať špecifiká odlišných režimov zdravotnej starostlivosti poskytovaných osobám umiestneným na jednotlivých oddeleniach zdravotníckeho zariadenia v odbornom zameraní psychiatria a v odbornom zameraní detská psychiatria.
 
 (9) Podrobnosti o obsahových náležitostiach vnútorného poriadku podľa odseku 1 ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo zdravotníctva.
+
+(10) Za vnútorný poriadok sa považuje aj ústavný poriadok.<sup>14aaaa</sup>)

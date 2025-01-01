@@ -25,3 +25,7 @@ Príloha č. 3 k zákonu č. 576/2004 Z. z.
   - 11. Smernica Komisie (EÚ) 2015/566 z 8. apríla 2015, ktorou sa vykonáva smernica 2004/23/ES, pokiaľ ide o postupy overovania ekvivalentných noriem kvality a bezpečnosti dovážaných tkanív a buniek (Ú. v. EÚ L 93, 9. 4. 2015).
 
   - 12. Smernica Rady 2013/59/EURATOM z 5. decembra 2013, ktorou sa stanovujú základné bezpečnostné normy ochrany pred nebezpečenstvami vznikajúcimi v dôsledku ionizujúceho žiarenia, a ktorou sa zrušujú smernice 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom a 2003/122/Euratom (Ú. v. EÚ L13, 17. 1. 2014).
+
+  - 13. Smernica Rady 2001/55/ES z 20. júla 2001 o minimálnych štandardoch na poskytovanie dočasnej ochrany v prípade hromadného prílevu vysídlených osôb a o opatreniach na podporu rovnováhy úsilia medzi členskými štátmi pri prijímaní takýchto osôb a znášaní z toho vyplývajúcich dôsledkov (Mimoriadne vydanie Ú. v. EÚ, kap. 19/zv. 4; Ú. v. ES L 212, 07. 08. 2001).
+
+  - 14. Smernica Európskeho parlamentu a Rady 2011/95/EÚ z 13. decembra 2011 o normách pre oprávnenie štátnych príslušníkov tretej krajiny alebo osôb bez štátneho občianstva mať postavenie medzinárodnej ochrany, o jednotnom postavení utečencov alebo osôb oprávnených na doplnkovú ochranu a o obsahu poskytovanej ochrany (prepracované znenie) (Ú. v. EÚ L 337, 20. 12. 2011).

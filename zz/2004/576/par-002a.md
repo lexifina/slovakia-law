@@ -22,7 +22,7 @@
 
 - b) ide o ambulantnú pohotovostnú službu,
 
-- c) ide o poskytovanie zubnolekárskej zdravotnej starostlivosti,
+- c) ide o poskytovanie primárnej špecializovanej zubno-lekárskej ambulantnej starostlivosti,
 
 - d) poskytovateľ ambulantnej zdravotnej starostlivosti nie je registrovaný v informačnom systéme na objednávanie osôb prevádzkovanom národným centrom zdravotníckych informácií.
 
