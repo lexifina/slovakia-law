@@ -1,9 +1,11 @@
 # § 25b
 
-(1) Vstupnou cenou virtuálnej meny je
+(1) Vstupnou cenou kryptoaktíva je
 
-- a) obstarávacia cena,<sup>118</sup>) ak bola virtuálna mena nadobudnutá kúpou,
+- a) obstarávacia cena,<sup>118</sup>) ak bolo kryptoaktívum nadobudnuté kúpou,
 
-- b) reálna hodnota,<sup>119b</sup>) ak bola virtuálna mena nadobudnutá výmenou za inú virtuálnu menu.
+- b) reálna hodnota,<sup>119b</sup>) ak bolo kryptoaktívum nadobudnuté výmenou za iné kryptoaktívum,
 
-(2) Vstupnou cenou majetku a služby nadobudnutých výmenou za virtuálnu menu ku dňu výmeny je reálna hodnota<sup>119c</sup>) virtuálnej meny.
+- c) reálna hodnota, ak bolo kryptoaktívum nadobudnuté predajom tovaru alebo služby.
+
+(2) Vstupnou cenou majetku a služby nadobudnutých výmenou za kryptoaktívum ku dňu výmeny je reálna hodnota<sup>119c</sup>) kryptoaktíva.

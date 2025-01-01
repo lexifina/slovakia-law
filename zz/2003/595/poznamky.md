@@ -18,6 +18,8 @@
 
 - 2e) § 67, § 157, § 217 a 235 Obchodného zákonníka v znení neskorších predpisov.
 
+- 2f) Čl. 3 ods. 1 bod 5 nariadenia Európskeho parlamentu a Rady (EÚ) 2023/1114 z 31. mája 2023 o trhoch s kryptoaktívami a o zmene nariadení (EÚ) č. 1093/2010 a (EÚ) č. 1095/2010 a smerníc 2013/36/EÚ a (EÚ) 2019/1937 (Ú. v. EÚ L 150, 9. 6. 2023) v platnom znení.
+
 - 3) Napríklad zákon č. 119/1990 Zb. o súdnej rehabilitácii v znení neskorších predpisov, zákon č. 403/1990 Zb. o zmiernení následkov niektorých majetkových krívd v znení neskorších predpisov, zákon č. 87/1991 Zb. o mimosúdnych rehabilitáciách v znení neskorších predpisov, zákon č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov, zákon Slovenskej národnej rady č. 319/1991 Zb. o zmiernení niektorých majetkových a iných krívd a o pôsobnosti orgánov štátnej správy Slovenskej republiky v oblasti mimosúdnych rehabilitácií v znení neskorších predpisov, zákon č. 42/1992 Zb. o úprave majetkových vzťahov a vyporiadaní majetkových nárokov v družstvách v znení neskorších predpisov, zákon č. 105/2002 Z. z. o poskytnutí jednorazového finančného príspevku príslušníkom československých zahraničných alebo spojeneckých armád, ako aj domáceho odboja v rokoch 1939 - 1945 v znení neskorších predpisov, zákon č. 462/2002 Z. z. o poskytnutí jednorazového príspevku politickým väzňom v znení zákona č. 665/2002 Z. z.
 
 - 4) Napríklad § 628 až 630 Občianskeho zákonníka.
@@ -172,6 +174,8 @@
 
 - 39c) § 11 zákona Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov.
 
+- 39d) § 19a zákona č. 530/1990 Zb. v znení zákona č. 355/2024 Z. z.
+
 - 40) § 5 a § 20 ods. 1 písm. a) zákona č. 328/2002 Z. z.
 
 - 40a) Zákon č. 43/2004 Z. z. v znení neskorších predpisov.
@@ -274,7 +278,7 @@
 
 - 59jf) § 56 ods. 1 písm. b) a § 57 zákona č. 440/2015 Z. z.
 
-- 59jg) § 3 písm. h) prvý bod zákona č. 440/2015 Z. z.
+- 59jg) § 3 písm. h) prvý bod a druhý bod zákona č. 440/2015 Z. z.
 
 - 59jh) § 1 zákona č. 228/2019 Z. z. o príspevku za zásluhy v oblasti športu a o zmene a doplnení niektorých zákonov.
 
@@ -522,7 +526,7 @@
 
 - 90ac) Zákon č. 519/2022 Z. z. o solidárnom príspevku z činností v odvetviach ropy, zemného plynu, uhlia a rafinérií a o doplnení niektorých zákonov.
 
-- 90ad) Zákon č. 59/2023 Z. z., ktorým sa mení zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch a o zmene a doplnení niektorých zákonov.
+- 90ad) Zákon č. 279/2024 Z. z. o dani z finančných transakcií a o zmene a doplnení niektorých zákonov.
 
 - 90b) § 55f zákona č. 222/2004 Z. z. v znení zákona č. 471/2009 Z. z.
 
@@ -821,6 +825,10 @@
 - 146ab) § 37 a 38 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
 - 146ac) Zákon č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 146aca) Napríklad zákon č. 328/2002 Z. z. v znení zákona č. 278/2024 Z. z., zákon č. 461/2003 Z. z. v znení zákona č. 278/2024 Z. z.
+
+- 146acb) Napríklad § 179 ods. 1 písm. f) zákona č. 461/2003 Z. z. v znení zákona č. 278/2024 Z. z., § 115a ods. 3 zákona č. 328/2002 Z. z. v znení zákona č. 278/2024 Z. z.
 
 - 146ad) Napríklad čl. 107 a 108 Zmluvy o fungovaní Európskej únie v platnom znení (Ú. v. EÚ C 326, 26. 10. 2012), zákon č. 358/2015 Z. z.
 

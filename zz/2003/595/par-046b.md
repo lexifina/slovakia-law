@@ -40,7 +40,9 @@ d) prevyšujúce sumu 500 000 eur, a to vo výške | 3 840 eur.
 
 - f) daňovník počnúc zdaňovacím obdobím, v ktorom bolo daňovníkovi doručené oznámenie o začatí konania o zrušení spoločnosti;
 
-- <sup>136bc</sup>) ak bol daňovník po zverejnení oznámenia o zrušení spoločnosti upovedomený o ukončení konania o zrušení spoločnosti a súčasne nevstúpil do likvidácie pred rozhodnutím súdu o zrušení spoločnosti, je povinný podať dodatočné daňové priznanie za zdaňovacie obdobia, za ktoré neplatil minimálnu daň, počnúc zdaňovacím obdobím, v ktorom bolo daňovníkovi doručené oznámenie o začatí konania o zrušení spoločnosti<sup>136bc</sup>) do konca tretieho kalendárneho mesiaca nasledujúceho po mesiaci, v ktorom bol daňovník upovedomený o ukončení konania o zrušení spoločnosti a súčasne nevstúpil do likvidácie, pričom v tejto lehote je priznaná minimálna daň splatná.
+- <sup>136bc</sup>) ak bol daňovník po zverejnení oznámenia o zrušení spoločnosti upovedomený o ukončení konania o zrušení spoločnosti a súčasne nevstúpil do likvidácie pred rozhodnutím súdu o zrušení spoločnosti, je povinný podať dodatočné daňové priznanie za zdaňovacie obdobia, za ktoré neplatil minimálnu daň, počnúc zdaňovacím obdobím, v ktorom bolo daňovníkovi doručené oznámenie o začatí konania o zrušení spoločnosti<sup>136bc</sup>) do konca tretieho kalendárneho mesiaca nasledujúceho po mesiaci, v ktorom bol daňovník upovedomený o ukončení konania o zrušení spoločnosti a súčasne nevstúpil do likvidácie, pričom v tejto lehote je priznaná minimálna daň splatná,
+
+- g) registrovaný sociálny podnik.<sup>120m</sup>)
 
 (8) Nárok na zápočet minimálnej dane právnickej osoby alebo kladného rozdielu medzi daňou vypočítanou v daňovom priznaní a minimálnou daňou právnickej osoby
 
