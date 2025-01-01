@@ -4,7 +4,7 @@
 
 - 1b) § 27 ods. 10 zákona č. 69/2018 Z. z.
 
-- 1c) § 2 písm. a) zákona č. 45/2011 Z. z. o kritickej infraštruktúre.
+- 1c) § 2 písm. a) zákona č. 367/2024 Z. z. o kritickej infraštruktúre a o zmene a doplnení niektorých zákonov.
 
 - 1d) § 4a zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve v znení zákona č. 69/2018 Z. z.
 
