@@ -14,11 +14,9 @@
 
 - a) F-test nulovej hypotézy, pri ktorom je daný koeficient dodatočných nákladov diagnosticko-nákladovej skupiny použitý pre výpočet indexu rizika nákladov rovný 0, je štatisticky významný aspoň na hladine významnosti 0,01 pri výpočte lineárnej regresie so všetkými diagnosticko-nákladovými skupinami; ak sa diagnosticko-nákladová skupina nezaradí do zoznamu diagnosticko-nákladových skupín podľa prvej vety, lineárna regresia je vypočítaná znovu bez tejto diagnosticko-nákladovej skupiny a ďalšie koeficienty dodatočných nákladov diagnosticko-nákladových skupín sú testované oproti tomuto výpočtu,
 
-- b) podiel dodatočných nákladov diagnosticko-nákladovej skupiny na celkových ročných nákladoch na zdravotnú starostlivosť je aspoň 0,01 %,
+- b) podiel celkových dodatočných nákladov diagnosticko-nákladovej skupiny na celkových ročných nákladoch na zdravotnú starostlivosť je aspoň 0,01 % alebo priemerné dodatočné náklady diagnosticko-nákladovej skupiny tvoria aspoň 15 % priemerných nákladov na poistenca.
 
-- c) dodatočné náklady diagnosticko-nákladovej skupiny tvoria aspoň 15 % priemerných nákladov na poistenca.
-
-(7) Dodatočné náklady diagnosticko-nákladovej skupiny podľa odseku 6 písm. b) a c) sú rozdielom medzi priemernými nákladmi na poistenca zaradeného do diagnosticko-nákladovej skupiny a priemernými nákladmi na poistenca.
+(7) Priemerné dodatočné náklady diagnosticko-nákladovej skupiny podľa odseku 6 písm. b) sú absolútnou hodnotou rozdielu medzi priemernými nákladmi na poistenca zaradeného do diagnosticko-nákladovej skupiny a priemernými nákladmi na poistenca. Celkové dodatočné náklady diagnosticko-nákladovej skupiny podľa odseku 6 písm. b) sú súčinom priemerných dodatočných nákladov diagnosticko-nákladovej skupiny a počtu poistencov zaradených do diagnosticko-nákladovej skupiny.
 
 (8) Zoznam diagnostických skupín obsahuje
 
@@ -36,4 +34,4 @@
 
 - b) zoznam diagnostických skupín, ktoré zodpovedajú diagnosticko-nákladovej skupine, v rozsahu číslo diagnosticko-nákladovej skupiny a názov diagnosticko-nákladovej skupiny.
 
-(10) Návrh na zmenu zoznamu diagnostických skupín zasiela zdravotná poisťovňa a úrad ministerstvu zdravotníctva najneskôr do 30. júna kalendárneho roka, ktorý predchádza kalendárnemu roku, na ktorý sa ustanovuje index rizika nákladov. Návrh na zmenu zoznamu diagnostických skupín musí obsahovať údaje podľa odseku 8.
+(10) Návrh na zmenu zoznamu diagnostických skupín zasiela zdravotná poisťovňa a úrad ministerstvu zdravotníctva najneskôr do 31. mája kalendárneho roka, ktorý predchádza kalendárnemu roku, na ktorý sa ustanovuje index rizika nákladov. Návrh na zmenu zoznamu diagnostických skupín musí obsahovať údaje podľa odseku 8.

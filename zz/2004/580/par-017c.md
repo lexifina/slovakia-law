@@ -8,7 +8,7 @@
 
 - c) o oddlžení platiteľa poistného, na základe ktorého zanikla povinnosť splatiť zdravotnej poisťovni pohľadávku,
 
-- d) o zrušení konkurzu po splnení rozvrhového uznesenia alebo po splnení konečného rozvrhu výťažku,
+- d) o zrušení konkurzu po splnení rozvrhového uznesenia, po splnení rozvrhu výťažku alebo po splnení konečného rozvrhu výťažku,
 
 - e) o zrušení konkurzu pre nedostatok majetku,
 
@@ -16,7 +16,11 @@
 
 - g) o zrušení konkurzu po splnení núteného vyrovnania,
 
-- h) o výmaze obchodnej spoločnosti z obchodného registra, ak imanie zanikajúcej obchodnej spoločnosti neprechádza na jej právneho nástupcu.
+- h) o výmaze obchodnej spoločnosti z obchodného registra, ak imanie zanikajúcej obchodnej spoločnosti neprechádza na jej právneho nástupcu,
+
+- i) o zastavení dedičského konania podľa § 187 a 188 Civilného mimosporového poriadku,
+
+- j) o nariadení likvidácie dedičstva a jej právoplatnom skončení.
 
 (2) Zdravotná poisťovňa odpíše pohľadávku voči platiteľovi poistného, na ktorú bola vznesená námietka premlčania, ktorú zdravotná poisťovňa akceptovala.
 

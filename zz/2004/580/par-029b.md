@@ -2,17 +2,15 @@
 
 (1) Práva a povinnosti za
 
-- a) poistenca, ktorý bol pozbavený spôsobilosti na právne úkony, vykonáva zákonný zástupca poistenca,
+- a) poistenca, ktorý bol pozbavený spôsobilosti na právne úkony alebo ktorého spôsobilosť na právne úkony bola obmedzená, ak sa toto obmedzenie vzťahuje aj na právne úkony vykonávané vo veciach verejného zdravotného poistenia, vykonáva súdom ustanovený opatrovník poistenca,
 
-- b) fyzickú osobu vo väzbe a fyzickú osobu vo výkone trestu odňatia slobody vykonáva ústav,
+- b) fyzickú osobu vo väzbe, fyzickú osobu vo výkone trestu odňatia slobody a fyzickú osobu vo výkone detencie vykonáva ústav v rozsahu práv a povinností podľa § 6 ods. 1 a § 23 ods. 1 písm. b) a c),
 
-- c) fyzickú osobu vo výkone detencie vykonáva detenčný ústav,
-
-- d) maloletého poistenca vykonáva
+- c) maloletého poistenca vykonáva
 
   - 1. zákonný zástupca, ak nebol maloletý poistenec zverený do starostlivosti nahrádzajúcej starostlivosť rodičov inej fyzickej osobe alebo právnickej osobe na základe rozhodnutia súdu; v takom prípade práva a povinnosti za maloletého poistenca podľa tohto zákona vykonáva iná fyzická osoba alebo právnická osoba, ktorej bol maloletý zverený do starostlivosti nahrádzajúcej starostlivosť rodičov,
 
-  - 2. poskytovateľ zdravotnej starostlivosti<sup>11</sup>) alebo
+  - 2. poskytovateľ zdravotnej starostlivosti,<sup>11</sup>) ak ide o poistenca, ktorého matka písomne požiadala o utajenie svojej osoby v súvislosti s pôrodom, alebo
 
   - 3. zariadenie, v ktorom je umiestnený na základe rozhodnutia súdu.<sup>5</sup>)
 
@@ -44,7 +42,7 @@
 
 (11) Finančná správa Slovenskej republiky poskytuje úradu elektronicky na účely vykonávania verejného zdravotného poistenia podľa § 13 a 19 údaje z daňového priznania k dani z príjmov (ďalej len „daňové priznanie“) v rozsahu číslo daňového úradu, rok daňového priznania, dátum podania daňového priznania, identifikácia dátumu odkladu podania daňového priznania, typ daňovníka, druh daňového priznania, rodné číslo, daňové identifikačné číslo, meno a priezvisko, rodné priezvisko, dátum narodenia, titul, pohlavie, dátum začiatku evidencie daňovníka, dátum ukončenia evidencie daňovníka, adresa trvalého pobytu, adresa prechodného pobytu, štátna príslušnosť, banka alebo pobočka zahraničnej banky, číslo bankového účtu, kód banky, úhrn príjmov zo závislej činnosti podľa osobitného predpisu<sup>18</sup>) okrem príjmov z dohody o brigádnickej práci študentov, dohody o vykonaní práce poberateľov výsluhového dôchodku z výsluhového zabezpečenia policajtov a vojakov, ak dovŕšili dôchodkový vek podľa osobitného predpisu,<sup>19</sup>) poberateľov invalidného výsluhového dôchodku z výsluhového zabezpečenia policajtov a vojakov, poberateľov starobného dôchodku alebo poberateľov invalidného dôchodku, dohody o pracovnej činnosti poberateľov výsluhového dôchodku z výsluhového zabezpečenia policajtov a vojakov, ak dovŕšili dôchodkový vek podľa osobitného predpisu,<sup>19</sup>) poberateľov invalidného výsluhového dôchodku z výsluhového zabezpečenia policajtov a vojakov, poberateľov starobného dôchodku alebo poberateľov invalidného dôchodku, odchodného, výsluhového príspevku alebo rekreačnej starostlivosti podľa osobitného predpisu,<sup>19a</sup>) základ dane alebo čiastkový základ dane z príjmov z podnikania a z inej samostatnej zárobkovej činnosti a výnosy podľa osobitného predpisu,<sup>20</sup>) základ dane alebo čiastkový základ dane z príjmov z výkonu osobného asistenta, osobitný základ dane z kapitálového majetku podľa osobitného predpisu,<sup>22</sup>) základ dane alebo čiastkový základ dane z ostatných príjmov podľa osobitného predpisu,<sup>23</sup>) príjem z dividend, úhrn vyňatých príjmov alebo základov dane zo zdrojov v zahraničí, úhrn povinného zdravotného poistenia, preukázateľne zaplatené preddavky na zdravotné poistenie, úhrn poistného na sociálne poistenie, preukázateľne zaplatené poistné na dobrovoľné sociálne poistenie a úhrn príjmov alebo základov dane zo zdrojov v zahraničí.
 
-(12) Ústredie práce, sociálnych vecí a rodiny poskytuje úradu elektronicky údaje na účely vykonávania verejného zdravotného poistenia o fyzickej osobe podľa § 11 ods. 7 písm. c), i), m) piateho bodu, n), o), u) v rozsahu rodné číslo, meno, rodné priezvisko, priezvisko, dátum narodenia, štátna príslušnosť, dátum začiatku evidencie, dátum ukončenia evidencie, adresa trvalého pobytu, adresa prechodného pobytu, štátna príslušnosť, kategória ťažkého zdravotného postihnutia, dátum priznania preukazu, dátum odobratia preukazu a na účel preukázania skutočností podľa § 11 ods. 7 písm. j) údaje o dieťati v rozsahu rodné číslo, meno, priezvisko, dátum narodenia a údaje o fyzickej osobe, za ktorú je platiteľom štát podľa § 11 ods. 7 písm. c) pre toto dieťa, v rozsahu rodné číslo, meno, rodné priezvisko, priezvisko, dátum narodenia fyzickej osoby.
+(12) Ústredie práce, sociálnych vecí a rodiny poskytuje úradu elektronicky údaje na účely vykonávania verejného zdravotného poistenia o fyzickej osobe podľa § 11 ods. 7 písm. c), i), m) piateho bodu, n), o), u) a podľa § 12 ods. 2 písm. b) v rozsahu rodné číslo, meno, rodné priezvisko, priezvisko, dátum narodenia, štátna príslušnosť, dátum začiatku evidencie, dátum ukončenia evidencie, adresa trvalého pobytu, adresa prechodného pobytu, štátna príslušnosť, kategória ťažkého zdravotného postihnutia, dátum uznania za fyzickú osobu s ťažkým zdravotným postihnutím, dátum ukončenia uznania fyzickej osoby s ťažkým zdravotným postihnutím, dátum priznania preukazu, dátum odobratia preukazu a na účel preukázania skutočností podľa § 11 ods. 7 písm. j) údaje o dieťati v rozsahu rodné číslo, meno, priezvisko, dátum narodenia a údaje o fyzickej osobe, za ktorú je platiteľom štát podľa § 11 ods. 7 písm. c) pre toto dieťa, v rozsahu rodné číslo, meno, rodné priezvisko, priezvisko, dátum narodenia fyzickej osoby.
 
 (13) Sociálna poisťovňa poskytuje úradu elektronicky na účely vykonávania verejného zdravotného poistenia údaje o fyzickej osobe podľa § 11 ods. 7 písm. b), d), e) a m) prvého až štvrtého bodu v členení na fyzické osoby podľa § 11 ods. 7 písm. b), d), e) a m) prvého až štvrtého bodu a v rozsahu rodné číslo, meno, priezvisko, dátum narodenia, adresa pobytu, dátum začiatku poberania nemocenskej dávky, dátum ukončenia poberania nemocenskej dávky, druh nemocenskej dávky, dátum priznania dôchodku, dátum zániku nároku na výplatu dôchodku, dôvod zániku nároku na výplatu dôchodku, dátum zastavenia výplaty dôchodku, druh dôchodku, identifikačné číslo klienta, IČO platiteľa poistného, druh poistného vzťahu a na účel preukázania skutočností podľa § 11 ods. 7 písm. j) rodné číslo, meno, priezvisko, dátum narodenia dieťaťa a údaje o fyzickej osobe, za ktorú je platiteľom štát podľa § 11 ods. 7 písm. m) prvého bodu pre toto dieťa v rozsahu rodné číslo, meno, priezvisko, dátum narodenia fyzickej osoby.
 
@@ -58,7 +56,7 @@
 
 (15) Detenčný ústav úradu elektronicky na účely vykonávania verejného zdravotného poistenia poskytne údaje o osobe vo výkone detencie v rozsahu rodné číslo, meno a priezvisko, rodné priezvisko, dátum narodenia, pohlavie, štátna príslušnosť, adresa trvalého pobytu, adresa prechodného pobytu, dátum začiatku výkonu detencie, dátum ukončenia výkonu detencie.
 
-(16) Subjekty uvedené v odseku 6 poskytujú zdravotným poisťovniam a úradu súčinnosť pri ročnom zúčtovaní poistného.
+(16) Subjekty uvedené v odseku 6 poskytujú zdravotným poisťovniam a úradu súčinnosť pri vykonávaní verejného zdravotného poistenia.
 
 (17) Ministerstvo vnútra sprístupňuje úradu a zdravotnej poisťovni elektronicky údaje z registra fyzických osôb<sup>51d</sup>) na účely vykonávania verejného zdravotného poistenia.<sup>9</sup>)
 

@@ -12,16 +12,4 @@
 
 (6) Štandardizované náklady skupiny a celkové priemerné náklady sa zaokrúhľujú na dve desatinné miesta.
 
-(7) Ministerstvo zdravotníctva oznamuje úradu do 31. októbra na účel určenia hodnoty nadlimitnej sumy podľa odseku 1 celkové priemerné náklady na poistenca podľa odseku 3 a údaje o poistencoch za predchádzajúci kalendárny rok v rozsahu
-
-- a) rodné číslo poistenca, pri ktorom hodnota nadlimitnej sumy nie je nulová; ak ide o cudzinca, ktorý nemá pridelené rodné číslo, meno, priezvisko a dátum narodenia,
-
-- b) pohlavie,
-
-- c) výška skutočných nákladov zdravotnej poisťovne na zdravotnú starostlivosť na poistenca,
-
-- d) zaradenie poistenca do skupín určených indexom podľa § 28 ods. 3,
-
-- e) výška nadlimitnej sumy za poistenca,
-
-- f) kód príslušnej zdravotnej poisťovne poistenca.
+(7) Ministerstvo zdravotníctva oznamuje úradu do 31. októbra na účely určenia preddavku na nadlimitnú sumu podľa § 27 ods. 12 pre potreby mesačných prerozdeľovaní preddavkov na poistné na nasledujúci kalendárny rok a na účely vykonania ročného prerozdeľovania poistného za predchádzajúci kalendárny rok počet poistencov každej zdravotnej poisťovne s nenulovou nadlimitnou sumou za predchádzajúci kalendárny rok a celkovú výšku nadlimitnej sumy, ktorá predstavuje súčet nadlimitných súm za všetkých poistencov zdravotnej poisťovne s nenulovou nadlimitnou sumou za predchádzajúci kalendárny rok.

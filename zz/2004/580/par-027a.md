@@ -28,25 +28,25 @@
 
 - b) záporný, zdravotná poisťovňa má záväzky voči iným zdravotným poisťovniam.
 
-(9) Úrad doručí každej zdravotnej poisťovni do 15. decembra kalendárneho roka nasledujúceho po rozhodujúcom období rozhodnutie o ročnom prerozdeľovaní, v ktorom
+(9) Úrad doručí každej zdravotnej poisťovni do 20. decembra kalendárneho roka nasledujúceho po rozhodujúcom období rozhodnutie o ročnom prerozdeľovaní, v ktorom
 
 - a) uvedie za každú zdravotnú poisťovňu
 
   - 1. celkovú sumu povinného poistného podľa odseku 2 písm. a),
 
-  - 2. počet poistencov podľa pohlavia a veku podľa odseku 2 písm. b) a odseku 12,
+  - 2. počet poistencov podľa odseku 2 písm. b) a počet poistencov podľa pohlavia a veku podľa odseku 12,
 
   - 3. počet poistencov podľa odseku 2 písm. c),
 
   - 4. počet poistencov podľa odseku 2 písm. d),
 
-  - 5. počet prepočítaných poistencov podľa § 28 ods. 1,
+  - 5. počet poistencov podľa § 27f,
 
-  - 6. počet poistencov s nenulovou nadlimitnou sumou podľa § 27aa ods. 1,
+  - 6. počet prepočítaných poistencov podľa § 28 ods. 1,
 
-  - 7. celkovú sumu, ktorá predstavuje súčet nadlimitných súm za všetkých poistencov podľa šiesteho bodu,
+  - 7. počet poistencov s nenulovou nadlimitnou sumou podľa § 27aa ods. 1,
 
-  - 8. celkové priemerné náklady na jedného poistenca (§ 27aa ods. 3),
+  - 8. celkovú sumu, ktorá predstavuje súčet nadlimitných súm za všetkých poistencov podľa šiesteho bodu,
 
 - b) rozhodne o
 
@@ -70,4 +70,8 @@
 
 (11) Príslušnosť zdravotnej poisťovne na ročné prerozdeľovanie poistného pri prevode poistného kmeňa upravuje osobitný predpis.<sup>57b</sup>)
 
-(12) Údaje o počte poistencov podľa pohlavia a veku, za ktorých platiteľom poistného nie je štát (§ 11 ods. 1 písm. a) až c) a § 11 ods. 2) za rozhodujúce obdobie a údaje o počte poistencov podľa pohlavia a veku, za ktorých platiteľom poistného je štát [§ 11 ods. 1 písm. d)] za rozhodujúce obdobie úrad získava z údajov z centrálneho registra poistencov.
+(12) Údaje za rozhodujúce obdobie o počte poistencov podľa pohlavia a veku, za ktorých platiteľom poistného nie je štát [§ 11 ods. 1 písm. a) až c) a § 11 ods. 2], počte poistencov podľa pohlavia a veku, za ktorých platiteľom poistného je štát [§ 11 ods. 1 písm. d)], a o počte poistencov zaradených do skupiny nadmerného prepoistenia (§ 27f) úrad získava z údajov z centrálneho registra poistencov. Údaj o počte poistencov na účely zaradenia do jednotlivých viacročných nákladových skupín podľa § 27c ods. 1 až 4 za rozhodujúce obdobie za každú zdravotnú poisťovňu úrad získava z údajov z centrálneho registra poistencov; zaradenie poistencov do príslušnej viacročnej nákladovej skupiny úrad vykoná na základe údajov oznámených úradu podľa § 28a ods. 6.
+
+(13) Zmena údajov o poistencoch v centrálnom registri poistencov, ktorá bola vykonaná po vykonaní ročného prerozdeľovania poistného, nezakladá dôvod na zmenu v už vykonanom ročnom prerozdeľovaní poistného.
+
+(14) Ak z dôvodu zmeny právoplatného rozhodnutia podľa odseku 9, ktorá nebola vykonaná na základe § 19 ods. 24 až 26, dochádza k zmene už určenej výšky príspevkov zdravotnej poisťovne podľa osobitného predpisu,<sup>52aa</sup>) táto zmena sa zohľadní pri najbližšej úhrade týchto príspevkov.

@@ -22,7 +22,7 @@
 
 - 4a) Zákon č. 474/2005 Z. z. o Slovákoch žijúcich v zahraničí a o zmene a doplnení niektorých zákonov v znení zákona č. 344/2007 Z. z.
 
-- 5) § 32 zákona č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+- 5) § 49 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 6) § 62 ods. 1 zákona č. 48/2002 Z. z. v znení neskorších predpisov.
 
@@ -54,13 +54,15 @@
 
 - 8d) Napríklad zákon č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách v znení neskorších predpisov, zákon č. 16/2004 Z. z. o Slovenskej televízii v znení neskorších predpisov, zákon č. 619/2003 Z. z. o Slovenskom rozhlase v znení neskorších predpisov.
 
+- 8e) § 3 ods. 25 zákona č. 577/2004 Z. z. v znení zákona č. 362/2024 Z. z.
+
+- 8f) § 12 ods. 7 a 10 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+
 - 9) § 2 ods. 1 zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov.
 
 - 10) Zákon č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
 
 - 11) § 4 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov.
-
-- 12) § 7 ods. 3 zákona č. 578/2004 Z. z.
 
 - 12a) § 20 ods. 1 písm. e) druhý bod zákona č. 581/2004 Z. z.
 
@@ -89,6 +91,12 @@
 - 16) § 15 ods. 1 písm. f) zákona č. 581/2004 Z. z.
 
 - 16a) § 18 ods. 1 písm. f) zákona č. 581/2004 Z. z. v znení zákona č. 220/2013 Z. z.
+
+- 16aa) § 6 ods. 5 zákona č. 581/2004 Z. z. v znení neskorších predpisov.
+
+- 16ab) § 28 ods. 1 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
+
+- 16ac) § 8 ods. 2 zákona č. 576/2004 Z. z. v znení zákona č. 139/2019 Z. z.
 
 - 16b) § 44 ods. 2 písm. a) piaty bod zákona č. 540/2021 Z. z. o kategorizácii ústavnej zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 
@@ -132,6 +140,10 @@
 
 - 16hdb) § 20 ods. 3 zákona č. 480/2002 Z. z. v znení neskorších predpisov.
 
+- 16hdc) § 4 zákona č. 395/2019 Z. z. o občianskych preukazoch a o zmene a doplnení niektorých zákonov v znení zákona č. 180/2022 Z. z.
+
+- 16hdd) § 73 a 73a zákona č. 404/2011 Z. z. v znení neskorších predpisov.
+
 - 16he) Čl. 1 písm. k) nariadenia (ES) č. 883/2004 v platnom znení.
 
 - 16m) Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
@@ -146,7 +158,7 @@
 
 - 20) § 6 ods. 1 a 2 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
-- 21) § 20 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov.
+- 21) § 22 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov.
 
 - 22) § 7 ods. 1 písm. c), f) a h) a ods. 2 a 3 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
@@ -214,6 +226,8 @@
 
 - 46) Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 46a) § 10 zákona č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností v znení neskorších predpisov.
+
 - 47) § 5 písm. a), b) a d) zákona č. 328/2002 Z. z. v znení neskorších predpisov.
 
 - 47a) Zákon č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -238,6 +252,8 @@
 
 - 50c) § 2 písm. d) zákona č. 215/2021 Z. z.
 
+- 50d) Napríklad § 209 zákona č. 461/2003 Z. z. v znení neskorších predpisov, § 15 zákona č. 447/2008 Z. z. v znení neskorších predpisov.
+
 - 51) Napríklad zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov, zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení neskorších predpisov, zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov, zákon č. 281/2015 Z. z. o štátnej službe profesionálnych vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 35/2019 Z. z. o finančnej správe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 51a) § 77a zákona č. 581/2004 Z. z. v znení neskorších predpisov.
@@ -254,7 +270,9 @@
 
 - 52a) § 61g zákona č. 581/2004 Z. z. v znení zákona č. 250/2011 Z. z.
 
-- 52aa) § 8a, § 8b a 30 zákona č. 581/2004 Z. z.
+- 52aa) § 62 ods. 1 písm. a) a ods. 2 Správneho poriadku.
+
+- 52ab) § 8a, § 8b, § 15a a 30 zákona č. 581/2004 Z. z.
 
 - 52b) § 61f ods. 3 až 5 zákona č. 581/2004 Z. z. v znení zákona č. 250/2011 Z. z.
 

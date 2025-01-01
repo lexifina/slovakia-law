@@ -12,4 +12,4 @@
 
 - b) podmienky na zaradenie poistenca do viacročnej nákladovej skupiny.
 
-(5) Návrh na zmenu zoznamu viacročných nákladových skupín zasielajú zdravotné poisťovne a úrad ministerstvu zdravotníctva najneskôr do 30. júna kalendárneho roka, ktorý predchádza kalendárnemu roku, na ktorý sa stanovuje index rizika nákladov. Súčasťou návrhu na zmenu zoznamu musia byť údaje podľa odseku 4 písm. a) a b) a vecný popis zmeny.
+(5) Návrh na zmenu zoznamu viacročných nákladových skupín zasielajú zdravotné poisťovne a úrad ministerstvu zdravotníctva najneskôr do 31. mája kalendárneho roka, ktorý predchádza kalendárnemu roku, na ktorý sa stanovuje index rizika nákladov. Súčasťou návrhu na zmenu zoznamu musia byť údaje podľa odseku 4 písm. a) a b) a vecný popis zmeny.

@@ -1,10 +1,10 @@
 # § 10a Preukaz poistenca a európsky preukaz
 
-(1) Príslušná zdravotná poisťovňa je povinná poistencovi vydať preukaz poistenca do
+(1) Príslušná zdravotná poisťovňa je povinná poistencovi vydať preukaz poistenca, ak poistencovi nebol vydaný občiansky preukaz s elektronickým čipom<sup>16hdc</sup>) alebo doklad o pobyte s elektronickým čipom,<sup>16hdd</sup>) do
 
-- a) desiatich pracovných dní odo dňa potvrdenia prihlášky, ak bola poistencovi potvrdená prihláška podľa § 6 ods. 10 písm. a),
+- a) desiatich pracovných dní odo dňa potvrdenia prihlášky, ak bola poistencovi potvrdená prihláška podľa § 6 ods. 7 písm. a),
 
-- b) 15. decembra príslušného kalendárneho roka, ak bola poistencovi potvrdená prihláška podľa § 6 ods. 10 písm. b).
+- b) 15. decembra príslušného kalendárneho roka, ak bola poistencovi potvrdená prihláška podľa § 6 ods. 7 písm. b).
 
 (2) Preukaz poistenca obsahuje
 

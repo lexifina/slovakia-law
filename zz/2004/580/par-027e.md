@@ -14,11 +14,9 @@
 
 - a) F-test nulovej hypotézy, pri ktorom je daný koeficient dodatočných nákladov nákladovej skupiny zdravotníckych pomôcok rovný 0, je štatisticky významný aspoň na hladine významnosti 0,01 pri výpočte lineárnej regresie so všetkými nákladovými skupinami zdravotníckych pomôcok; ak sa nákladová skupina zdravotníckych pomôcok nezaradí do zoznamu nákladových skupín zdravotníckych pomôcok podľa prvej vety, lineárna regresia je vypočítaná znovu bez tejto nákladovej skupiny zdravotníckych pomôcok a ďalšie koeficienty dodatočných nákladov nákladových skupín zdravotníckych pomôcok sú testované oproti tomuto výpočtu,
 
-- b) podiel dodatočných nákladov nákladovej skupiny zdravotníckych pomôcok na celkových ročných nákladoch na zdravotnú starostlivosť je aspoň 0,01 %,
+- b) podiel celkových dodatočných nákladov nákladovej skupiny zdravotníckych pomôcok na celkových ročných nákladoch na zdravotnú starostlivosť je aspoň 0,01 % alebo priemerné dodatočné náklady nákladovej skupiny zdravotníckych pomôcok tvoria aspoň 15 % priemerných nákladov na poistenca.
 
-- c) dodatočné náklady nákladovej skupiny zdravotníckych pomôcok tvoria aspoň 15 % priemerných nákladov na poistenca.
-
-(7) Dodatočné náklady nákladovej skupiny zdravotníckych pomôcok podľa odseku 6 písm. b) a c) sú rozdielom medzi priemernými nákladmi na poistenca zaradeného do nákladovej skupiny zdravotníckych pomôcok a priemernými nákladmi na poistenca.
+(7) Priemerné dodatočné náklady nákladovej skupiny zdravotníckych pomôcok podľa odseku 6 písm. b) sú absolútnou hodnotou rozdielu medzi priemernými nákladmi na poistenca zaradeného do nákladovej skupiny zdravotníckych pomôcok a priemernými nákladmi na poistenca. Celkové dodatočné náklady nákladovej skupiny zdravotníckych pomôcok podľa odseku 6 písm. b) sú súčinom priemerných dodatočných nákladov nákladovej skupiny zdravotníckych pomôcok a počtu poistencov zaradených do nákladovej skupiny zdravotníckych pomôcok.
 
 (8) Zoznam nákladových skupín zdravotníckych pomôcok obsahuje
 
@@ -32,4 +30,4 @@
 
 - e) minimálny počet mesiacov v sledovanom období, v ktorých bola poistencovi poskytnutá uhrádzaná zdravotnícka pomôcka.
 
-(9) Návrh na zmenu zoznamu nákladových skupín zdravotníckych pomôcok zasiela zdravotná poisťovňa a úrad ministerstvu zdravotníctva najneskôr do 30. júna kalendárneho roka, ktorý predchádza kalendárnemu roku, na ktorý sa ustanovuje index rizika nákladov. Návrh na zmenu zoznamu nákladových skupín zdravotníckych pomôcok musí obsahovať údaje podľa odseku 8.
+(9) Návrh na zmenu zoznamu nákladových skupín zdravotníckych pomôcok zasiela zdravotná poisťovňa a úrad ministerstvu zdravotníctva najneskôr do 31. mája kalendárneho roka, ktorý predchádza kalendárnemu roku, na ktorý sa ustanovuje index rizika nákladov. Návrh na zmenu zoznamu nákladových skupín zdravotníckych pomôcok musí obsahovať údaje podľa odseku 8.

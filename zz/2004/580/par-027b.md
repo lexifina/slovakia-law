@@ -10,13 +10,11 @@
 
 - a) F-test nulovej hypotézy, pri ktorom je daný koeficient dodatočných nákladov farmaceuticko-nákladovej skupiny použitý pre výpočet indexu rizika nákladov rovný 0, je štatisticky významný aspoň na hladine významnosti 0,01 pri výpočte lineárnej regresie so všetkými farmaceuticko-nákladovými skupinami; ak sa farmaceuticko-nákladová skupina nezaradí do zoznamu farmaceuticko-nákladových skupín podľa časti vety pred bodkočiarkou, lineárna regresia je vypočítaná znovu bez tejto farmaceuticko-nákladovej skupiny a ďalšie koeficienty dodatočných nákladov farmaceuticko-nákladových skupín sú testované oproti tomuto výpočtu,
 
-- b) podiel dodatočných nákladov farmaceuticko-nákladovej skupiny na celkových ročných nákladoch na zdravotnú starostlivosť je aspoň 0,01 %,
+- b) podiel celkových dodatočných nákladov farmaceuticko-nákladovej skupiny na celkových ročných nákladoch na zdravotnú starostlivosť je aspoň 0,01 % alebo priemerné dodatočné náklady farmaceuticko-nákladovej skupiny tvoria aspoň 15 % priemerných nákladov na poistenca,
 
-- c) dodatočné náklady farmaceuticko-nákladovej skupiny tvoria aspoň 15 % priemerných nákladov na poistenca,
+- c) podiel štandardných dávok liečiva v kategorizovaných liekoch v ATC skupinách, ktoré definujú farmaceuticko-nákladovú skupinu, ktoré boli vydané alebo podané na choroby priradené farmaceuticko-nákladovej skupine, je väčší ako 50 % po vyradení ATC skupín, pri ktorých podiel štandardných dávok liečiva v kategorizovaných liekoch v ATC skupinách, ktoré definujú farmaceuticko-nákladovú skupinu, ktoré boli vydané alebo podané na choroby priradené farmaceuticko-nákladovej skupine, je menší ako 30 %; toto kritérium sa použije len na farmaceuticko-nákladové skupiny, ku ktorým možno priradiť chorobu.
 
-- d) podiel štandardných dávok liečiva v kategorizovaných liekoch v ATC skupinách, ktoré definujú farmaceuticko-nákladovú skupinu, ktoré boli vydané alebo podané na choroby priradené farmaceuticko-nákladovej skupine, je väčší ako 50 % po vyradení ATC skupín, pri ktorých podiel štandardných dávok liečiva v kategorizovaných liekoch v ATC skupinách, ktoré definujú farmaceuticko-nákladovú skupinu, ktoré boli vydané alebo podané na choroby priradené farmaceuticko-nákladovej skupine, je menší ako 30 %; toto kritérium sa použije len na farmaceuticko-nákladové skupiny, ku ktorým možno priradiť chorobu.
-
-(5) Dodatočné náklady farmaceuticko-nákladovej skupiny podľa odseku 4 písm. b) a c) sú rozdielom medzi priemernými nákladmi na poistenca zaradeného do farmaceuticko-nákladovej skupiny a priemernými nákladmi na poistenca.
+(5) Priemerné dodatočné náklady farmaceuticko-nákladovej skupiny podľa odseku 4 písm. b) sú absolútnou hodnotou rozdielu medzi priemernými nákladmi na poistenca zaradeného do farmaceuticko-nákladovej skupiny a priemernými nákladmi na poistenca. Celkové dodatočné náklady farmaceuticko-nákladovej skupiny podľa odseku 4 písm. b) sú súčinom priemerných dodatočných nákladov farmaceuticko-nákladovej skupiny a počtu poistencov zaradených do farmaceuticko-nákladovej skupiny.
 
 (6) Farmaceuticko-nákladová skupina sa vyradí zo zoznamu farmaceuticko-nákladových skupín, ak prestane spĺňať niektoré z kritérií podľa odseku 4.
 
@@ -36,7 +34,7 @@
 
 (8) Zoznam farmaceuticko-nákladových skupín môže obsahovať pravidlo vylučujúce zaradenie poistenca do príbuzných farmaceuticko-nákladových skupín.
 
-(9) Návrh na zmenu zoznamu farmaceuticko-nákladových skupín zasielajú zdravotné poisťovne a úrad ministerstvu zdravotníctva najneskôr do 30. júna kalendárneho roka, ktorý predchádza kalendárnemu roku, na ktorý sa stanovuje index rizika nákladov. Súčasťou návrhu na zaradenie farmaceuticko-nákladovej skupiny do zoznamu farmaceuticko-nákladových skupín musia byť údaje podľa odseku 7 písm. c) až f) a môže byť údaj podľa odseku 8.
+(9) Návrh na zmenu zoznamu farmaceuticko-nákladových skupín zasielajú zdravotné poisťovne a úrad ministerstvu zdravotníctva najneskôr do 31. mája kalendárneho roka, ktorý predchádza kalendárnemu roku, na ktorý sa stanovuje index rizika nákladov. Súčasťou návrhu na zaradenie farmaceuticko-nákladovej skupiny do zoznamu farmaceuticko-nákladových skupín musia byť údaje podľa odseku 7 písm. c) až f) a môže byť údaj podľa odseku 8.
 
 (10) Príslušná zdravotná poisťovňa zaradí poistenca do dovŕšenia 18 roku veku v kalendárnom mesiaci, za ktorý sa vykonáva mesačné prerozdeľovanie, do farmaceuticko-nákladovej skupiny zaradenej do zoznamu farmaceuticko-nákladových skupín, ak mu počas 12 za sebou nasledujúcich kalendárnych mesiacov predchádzajúcich kalendárnemu mesiacu, za ktorý sa vykonáva mesačné prerozdeľovanie, bolo vydaných alebo podaných aspoň 91 štandardných dávok liečiva v kategorizovaných liekoch v ATC skupinách, ktoré definujú rovnakú farmaceuticko-nákladovú skupinu zaradenú do zoznamu farmaceuticko-nákladových skupín a ak je táto farmaceuticko-nákladová skupina ustanovená vo všeobecne záväznom právnom predpise podľa § 28 ods. 12 písm. b).
 

@@ -38,36 +38,32 @@
 
   - 6. výpočet koeficientov jednotlivých nákladových skupín zdravotníckych pomôcok,
 
-- b) výsledky splnenia kritérií na zaradenie farmaceuticko-nákladovej skupiny do zoznamu farmaceuticko-nákladových skupín podľa jednotlivých kritérií uvedených v § 27b ods. 4 písm. a) až d),
+- b) výsledky splnenia kritérií na zaradenie farmaceuticko-nákladovej skupiny do zoznamu farmaceuticko-nákladových skupín podľa jednotlivých kritérií uvedených v § 27b ods. 4 písm. a) až c),
 
-- c) popis spôsobu výpočtu indexu rizika nákladov a výstupy zo štatistického softvéru použitého na výpočet indexu rizika nákladov pre diagnosticko-nákladové skupiny, ktorý obsahuje
+- c) výsledky splnenia kritérií na zaradenie diagnostickej skupiny do zoznamu diagnosticko-nákladových skupín a diagnosticko-nákladovej skupiny do zoznamu diagnosticko-nákladových skupín podľa jednotlivých kritérií uvedených v § 27d ods. 7,
 
-  - 1. kontrolu zaslaných údajov a identifikáciu chybných údajov,
-
-  - 2. zmenu údajov na účely výpočtu indexu rizika nákladov,
-
-  - 3. výpočet lineárnej regresie a indexu rizika nákladov,
-
-- d) výsledky splnenia kritérií na zaradenie diagnostickej skupiny do zoznamu diagnosticko-nákladových skupín a diagnosticko-nákladovej skupiny do zoznamu diagnosticko-nákladových skupín podľa jednotlivých kritérií uvedených v § 27d ods. 7,
-
-- e) popis spôsobu výpočtu indexu rizika nákladov a výstupy zo štatistického softvéru použitého na výpočet indexu rizika nákladov pre nákladové skupiny zdravotníckych pomôcok, ktorý obsahuje
-
-  - 1. kontrolu zaslaných údajov a identifikáciu chybných údajov,
-
-  - 2. zmenu údajov na účely výpočtu indexu rizika nákladov,
-
-  - 3. výpočet lineárnej regresie a indexu rizika nákladov,
-
-- f) výsledky splnenia kritérií na zaradenie nákladových skupín zdravotníckych pomôcok do zoznamu nákladových skupín zdravotníckych pomôcok podľa jednotlivých kritérií uvedených v § 27e ods. 6.
+- d) výsledky splnenia kritérií na zaradenie nákladových skupín zdravotníckych pomôcok do zoznamu nákladových skupín zdravotníckych pomôcok podľa jednotlivých kritérií uvedených v § 27e ods. 6.
 
 (6) Ministerstvo zdravotníctva oznámi úradu do 31. októbra na účely výpočtu ročného prerozdeľovania poistného údaje o poistencoch za predchádzajúci kalendárny rok v rozsahu
 
 - a) rodné číslo poistenca zaradeného vo viacročnej nákladovej skupine s nenulovým indexom; ak ide o cudzinca, ktorý nemá pridelené rodné číslo, bezvýznamové identifikačné číslo a dátum narodenia,
 
-- b) číslo viacročnej nákladovej skupiny, v ktorej je poistenec zaradený.
+- b) identifikačné číslo poistenca v centrálnom registri poistencov,
 
-(7) Úrad oznámi zdravotnej poisťovni do konca februára údaje o poistencoch zdravotnej poisťovne podľa stavu k 1. januáru v rozsahu
+- c) číslo viacročnej nákladovej skupiny, v ktorej je poistenec zaradený.
+
+(7) Úrad oznámi zdravotnej poisťovni do konca februára na účely výpočtu mesačných prerozdeľovaní údaje o poistencoch zdravotnej poisťovne podľa stavu k 1. januáru v rozsahu
 
 - a) rodné číslo poistenca zaradeného vo viacročnej nákladovej skupine s nenulovým indexom; ak ide o cudzinca, ktorý nemá pridelené rodné číslo, bezvýznamové identifikačné číslo a dátum narodenia,
 
-- b) číslo viacročnej nákladovej skupiny, v ktorej je poistenec zaradený, a príslušný index rizika nákladov poistenca.
+- b) identifikačné číslo poistenca v centrálnom registri poistencov,
+
+- c) číslo viacročnej nákladovej skupiny, v ktorej je poistenec zaradený, a príslušný index rizika nákladov poistenca.
+
+(8) Úrad oznámi zdravotnej poisťovni do konca februára na účely výpočtu mesačných prerozdeľovaní údaje o poistencoch zdravotnej poisťovne podľa stavu k 1. januáru v rozsahu
+
+- a) rodné číslo poistenca zaradeného v skupine nadmerného prepoistenia; ak ide o cudzinca, ktorý nemá pridelené rodné číslo, bezvýznamové identifikačné číslo a dátum narodenia,
+
+- b) identifikačné číslo poistenca v centrálnom registri poistencov.
+
+(9) Farmaceuticko-nákladové skupiny, diagnostické skupiny a nákladové skupiny zdravotníckych pomôcok spolu s označením, či skupina je zaradená aj v príslušnom zozname skupín, zverejňuje ministerstvo zdravotníctva na svojom webovom sídle. Návrh na vytvorenie novej farmaceuticko-nákladovej skupiny, diagnostickej skupiny alebo nákladovej skupiny zdravotníckych pomôcok môže ministerstvu zdravotníctva podať úrad alebo zdravotná poisťovňa. Ministerstvo zdravotníctva môže vytvoriť novú farmaceuticko-nákladovú skupinu, diagnostickú skupinu a nákladovú skupinu zdravotníckych pomôcok aj bez návrhu.
