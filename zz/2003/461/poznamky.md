@@ -248,6 +248,8 @@
 
 - 91c) § 31 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
+- 91d) § 50aa zákona č. 595/2003 Z. z. v znení zákona č. 278/2024 Z. z.
+
 - 92) § 1 zákona č. 431/2002 Z. z. o účtovníctve.
 
 - 92a) Napríklad § 14 ods. 5 zákona č. 523/2004 Z. z. v znení neskorších predpisov, čl. 4 ods. 2 ústavného zákona č. 493/2011 Z. z. o rozpočtovej zodpovednosti.
@@ -333,6 +335,8 @@
 - 95a) § 139 a 140a zákona č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 252/2012 Z. z.
 
 - 95aa) Zákon č. 112/2015 Z. z. o príspevku športovému reprezentantovi a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+
+- 95ab) § 50aa ods. 6 zákona č. 595/2003 Z. z. v znení zákona č. 278/2024 Z. z.
 
 - 95aaa) Zákon č. 274/2007 Z. z. o príplatku k dôchodku politickým väzňom v znení neskorších predpisov.
 

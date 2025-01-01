@@ -1,4 +1,4 @@
-## ÔSMY DIEL
+## SIEDMY DIEL
 
 ## 13. DÔCHODOK
 

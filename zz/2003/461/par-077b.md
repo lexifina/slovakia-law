@@ -14,6 +14,6 @@
 
 (4) Pri súbehu nárokov na dva alebo viaceré 13. dôchodky podľa tohto zákona alebo pri súbehu nárokov na dva alebo viaceré 13. dôchodky podľa tohto zákona a podľa osobitného predpisu<sup>56ab</sup>) sa vyplatí len jeden 13. dôchodok, a to ten, ktorého suma je najvyššia; nárok na 13. dôchodok podľa tohto zákona, ktorý sa nevyplatil, zaniká. Ak je suma 13. dôchodku podľa tohto zákona a podľa osobitného predpisu<sup>56ab</sup>) rovnaká, vyplatí sa 13. dôchodok podľa tohto zákona.
 
-(5) 13. dôchodok sa vyplatí v decembri príslušného kalendárneho roka, ak § 116 ods. 4 neustanovuje inak. Pomerná časť 13. dôchodku, na výplatu ktorej vznikol nárok podľa § 77c, sa vyplatí v ustanovenom termíne, ak § 116 ods. 4 neustanovuje inak.
+(5) 13. dôchodok sa vyplatí v decembri príslušného kalendárneho roka, ak § 116 ods. 3 neustanovuje inak. Pomerná časť 13. dôchodku, na výplatu ktorej vznikol nárok podľa § 77c, sa vyplatí v ustanovenom termíne, ak § 116 ods. 3 neustanovuje inak.
 
 (6) O priznaní 13. dôchodku vyplateného v priemernej mesačnej sume príslušnej dôchodkovej dávky sa písomné rozhodnutie nevyhotovuje; deň oznámenia rozhodnutia je deň výplaty 13. dôchodku.
