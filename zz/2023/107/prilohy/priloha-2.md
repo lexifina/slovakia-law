@@ -1,1 +1,0 @@
-Príloha č. 2 k vyhláške č. 107/2023 Z. z. [Podklady k návrhu ceny dodávateľa elektriny pre zraniteľných odberateľov okrem zraniteľných odberateľov v domácnosti](../assets/7fb24720ca2a0b5c0056f062024c76f1ffa2fa003c2a6bfad0b052e19b353776.pdf)
