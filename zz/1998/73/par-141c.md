@@ -1,3 +1,3 @@
 # § 141c Príspevok na športovú činnosť dieťaťa
 
-Policajtovi môže byť poskytnutý príspevok na športovú činnosť dieťaťa v rozsahu a za podmienok ustanovených osobitným predpisom.<sup>32c</sup>)
+Policajtovi patrí príspevok na športovú činnosť dieťaťa v rozsahu a za podmienok ustanovených osobitným predpisom.<sup>32c</sup>)

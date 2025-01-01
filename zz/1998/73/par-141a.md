@@ -1,8 +1,8 @@
 # § 141a Príspevok na bývanie
 
-(1) Policajtovi možno priznať príspevok na bývanie do výšky 500 eur mesačne, ak ďalej nie je ustanovené inak.
+(1) Policajtovi možno priznať príspevok na bývanie do výšky 700 eur mesačne, ak ďalej nie je ustanovené inak.
 
-(2) Príspevok na bývanie určuje minister v závislosti od miesta výkonu štátnej služby, služobných činností, ktoré policajt vykonáva, a útvaru jeho služobného zaradenia.
+(2) Príspevok na bývanie určuje minister v závislosti od miesta výkonu štátnej služby.
 
 (3) Príspevok na bývanie nemožno priznať policajtovi,
 
