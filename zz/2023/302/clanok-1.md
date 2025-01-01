@@ -686,7 +686,11 @@ Zákon č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgán
 
 - (12)
 
-- V registri právnických osôb sa vedú aj historické hodnoty údajov podľa § 3, pokiaľ je ďalšie vedenie údaja v registri právnických osôb nevyhnutné na dosiahnutie niektorého z účelov podľa § 2 ods. 3.“.
+- V registri právnických osôb sa vedú aj historické hodnoty údajov podľa § 3, pokiaľ je ďalšie vedenie údaja v registri právnických osôb nevyhnutné na dosiahnutie niektorého z účelov podľa § 2 ods. 3.
+
+- (13)
+
+- V registri právnických osôb sa ku každej zapísanej adrese v Slovenskej republike vedie identifikátor adresy;<sup>1u</sup>) to neplatí vo vzťahu k historickým hodnotám údajov o zapísaných adresách, ktoré boli zmenené alebo vymazané do 31. decembra 2024. Povinná osoba poskytuje identifikátor adresy podľa prvej vety ku každej adrese, ktorú do registra právnických osôb poskytuje.“.
 
   - Poznámky pod čiarou k odkazom 1k až 1u znejú:
 
@@ -714,7 +718,9 @@ Zákon č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgán
 
   - <sup>1s</sup>) § 5 ods. 2 a 3 zákona Národnej rady Slovenskej republiky č. 301/1995 o rodnom čísle v znení zákona č. 310/2021 Z. z.
 
-  - <sup>1t</sup>) § 3 písm. n) tretí bod zákona č. 305/2013 Z. z. v znení neskorších predpisov.“.
+  - <sup>1t</sup>) § 3 písm. n) tretí bod zákona č. 305/2013 Z. z. v znení neskorších predpisov.
+
+  - <sup>1u</sup>) § 2 ods. 5 zákona č. 125/2015 Z. z. o registri adries a o zmene a doplnení niektorých zákonov.“.
 
 - 10. § 3a sa vypúšťa.
 
