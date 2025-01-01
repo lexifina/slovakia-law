@@ -4,4 +4,4 @@ Príloha č. 1 k zákonu č. 609/2007 Z. z.
 
   - Potvrdenie Ministerstva zahraničných vecí Slovenskej republiky o postavení zahraničného zástupcu a o splnení podmienky vzájomnosti podľa § 40 ods. 5 zákona č. 609/2007 Z. z. o spotrebnej dani z elektriny, uhlia a zemného plynu a o zmene a doplnení zákona č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení neskorších predpisov
 
-  - [Vzor Potvrdenia](../assets/22a17b5a1041f03e0f3c240fb6e87cd9e100347a9ca11e4c661c9b36a6fd0ca2.pdf)
+  - [Vzor Potvrdenia](../assets/21e20913c9db781d9c253f3ae4b96f9aa9e63b4fbcc8482b2f487bec505484c8.pdf)

@@ -18,7 +18,7 @@
 
 - 10) § 3 písm. b) druhý bod zákona č. 251/2012 Z. z.
 
-- 10a) § 6 ods. 4 písm. a) a ods. 5 zákona č. 251/2012 Z. z.
+- 10a) § 6 ods. 5 písm. a) a ods. 6 zákona č. 251/2012 Z. z.
 
 - 10b) § 3 písm. b) tretí bod zákona č. 251/2012 Z. z.
 
