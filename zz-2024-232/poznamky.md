@@ -1,0 +1,1 @@
+- 1) § 4 zákona č. 106/2018 Z. z. o prevádzke vozidiel v cestnej premávke a o zmene a doplnení niektorých zákonov v znení zákona č. 429/2022 Z. z.
