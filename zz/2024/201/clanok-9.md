@@ -30,6 +30,16 @@ Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých z
 
 - 10. V § 17 ods. 5 písm. e) sa vypúšťajú slová „členovi rady a“.
 
+- 11. V § 18 ods. 2 sa na konci pripája bodkočiarka a tieto slová: „to sa nevzťahuje na Úrad podpredsedu vlády Slovenskej republiky pre Plán obnovy a znalostnú ekonomiku“.
+
+- 12. V § 18 ods. 6 sa pred písmeno a) vkladá nové písmeno a), ktoré znie:
+
+- „a)
+
+- Úrad podpredsedu vlády Slovenskej republiky pre Plán obnovy a znalostnú ekonomiku, je vedúci Úradu podpredsedu vlády Slovenskej republiky pre Plán obnovy a znalostnú ekonomiku,“.
+
+  - Doterajšie písmená a) až o) sa označujú ako písmená b) až p).
+
 - 13. V § 21 ods. 1 sa za písmeno e) vkladá nové písmeno f), ktoré znie:
 
 - „f)
@@ -70,13 +80,19 @@ Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých z
 
 - 22. V § 94 sa vypúšťajú slová „alebo radou“ a na konci sa pripája táto veta: „Na prešetrenie výpovede štátneho zamestnanca úradu vlády sa primerane použijú ustanovenia § 90 až 93.“.
 
+- 23. V § 126 ods. 4 sa vypúšťa čiarka za slovom „republiky“ a slová „ktorý neriadi ministerstvo“ sa nahrádzajú slovami „pre Plán obnovy a znalostnú ekonomiku“.
+
 - 24. V § 126 ods. 4 sa čiarka za slovami „štátnej správy“ nahrádza slovom „a“ a vypúšťajú sa slová „a členovi rady“.
 
 - 25. V § 142 sa vypúšťa odsek 2.
 
   - Doterajšie odseky 3 a 4 sa označujú ako odseky 2 a 3.
 
+- 26. V § 150 ods. 5 sa vypúšťa čiarka za slovom „republiky“ a slová „ktorý neriadi ministerstvo“ sa nahrádzajú slovami „pre Plán obnovy a znalostnú ekonomiku“.
+
 - 27. V § 150 ods. 5 sa čiarka za slovami „neriadi ministerstvo“ nahrádza slovom „a“ a vypúšťajú sa slová „a členovi rady“.
+
+- 28. V § 171 ods. 2 sa na konci pripájajú tieto slová: „alebo v ktorom štátny zamestnanec vykonával štátnu službu pred prechodom práv a povinností zo štátnozamestnaneckého pomeru podľa § 177 až 179“.
 
 - 29. Za § 193k sa vkladá § 193l, ktorý vrátane nadpisu znie:
 
