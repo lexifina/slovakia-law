@@ -158,6 +158,10 @@ Zákon č. 284/2014 Z. z. o Fonde na podporu umenia a o zmene a doplnení zákon
 
 - Na účely poskytnutia finančných prostriedkov je žiadateľ povinný pred podpisom zmluvy doručiť fondu potvrdenie príslušného súdu o tom, že proti žiadateľovi nie je vedené exekučné konanie; potvrdenie nesmie byť staršie ako tri mesiace.“.
 
+- 38. V § 23 ods. 6 sa slová „95 %“ nahrádzajú slovami „94 %“.
+
+- 39. V § 23 ods. 7 písm. a) sa slová „5 %“ nahrádzajú slovami „6 %“.
+
 - 40. V § 24 ods. 1 sa slová „20 000 000 eur“ nahrádzajú slovami „30 200 000 eur“.
 
 - 41. V § 24 ods. 2 sa slová „20 %“ nahrádzajú slovami „25 %“.
