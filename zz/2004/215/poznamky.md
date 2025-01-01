@@ -1,5 +1,17 @@
 - 1a) Napríklad § 17 Obchodného zákonníka, § 91 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 23, 23a a 23b zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
+- 1b) Napríklad zákon č. 124/1992 Zb. o Vojenskej polícii v znení neskorších predpisov, zákon č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky v znení neskorších predpisov, zákon č. 500/2022 Z. z. o Vojenskom spravodajstve.
+
+- 1c) § 5 písm. c) a § 6 písm. k) zákona č. 367/2024 Z. z. o kritickej infraštruktúre a o zmene a doplnení niektorých zákonov.
+
+- 1d) § 1 nariadenia vlády Slovenskej republiky č. 216/2004 Z. z., ktorým sa ustanovujú oblasti utajovaných skutočností.
+
+- 1e) § 2 písm. c) zákona č. 367/2024 Z. z. o kritickej infraštruktúre a o zmene a doplnení niektorých zákonov.
+
+- 1f) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
+
+- 1g) Napríklad § 134 ods. 1 písm. k) zákona č. 281/2015 Z. z. o štátnej službe profesionálnych vojakov a o zmene a doplnení niektorých zákonov, § 41 až 43 zákona č. 500/2022 Z. z.
+
 - 2) § 89 ods. 9 Trestného zákona v znení neskorších predpisov.
 
 - 3) Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
