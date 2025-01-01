@@ -64,7 +64,7 @@
 
 - 38d) § 51 a 129 zákona č. 328/2002 Z. z. v znení neskorších predpisov.
 
-- 38e) § 66b a § 293fg zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+- 38e) § 293fg zákona č. 461/2003 Z. z. v znení zákona č. 275/2020 Z. z.
 
 - 38f) § 78e zákona č. 328/2002 Z. z. v znení zákona č. 87/2024 Z. z.
 
