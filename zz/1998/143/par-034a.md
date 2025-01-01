@@ -72,10 +72,4 @@
 
 (6) Bezúhonnosť a spoľahlivosť sa overuje raz za päť rokov.
 
-(7) Odborne spôsobilou je osoba, ktorá absolvovala odbornú prípravu z bezpečnostnej ochrany. Ministerstvo určí požiadavky na jednotlivé odbornosti člena personálu bezpečnostnej ochrany vrátane povinnosti preukázať teoretické znalosti a praktické schopnosti na výkon tejto činnosti skúškou odbornej spôsobilosti. Skúšobnú komisiu vymenúva ministerstvo.
-
-(8) Odbornú prípravu z bezpečnostnej ochrany vykonáva fyzická osoba akreditovaná ministerstvom v rozsahu obsahu kurzov schválených ministerstvom.
-
-(9) Ustanovenia odsekov 3, 4 a 7 sa primerane vzťahujú aj na členov posádok lietadiel a na osoby, u ktorých si plnenie osobitných pracovných úloh vyžaduje vstup do vyhradených bezpečnostných priestorov na letisku.
-
-(10) Podrobnosti o kategorizácii a rozdelení personálu bezpečnostnej ochrany podľa jednotlivých odborností, o rozsahu odbornej prípravy pre jednotlivé odbornosti a o rozsahu odbornej prípravy členov posádok lietadiel a iných osôb, o pravidelnom opakovaní odbornej prípravy a o udeľovaní akreditácií ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.
+(7) Ustanovenia odsekov 3, 4 a § 34b sa primerane vzťahujú aj na členov posádok lietadiel a na osoby, u ktorých si plnenie osobitných pracovných úloh vyžaduje vstup do vyhradených bezpečnostných priestorov na letisku.

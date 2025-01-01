@@ -228,6 +228,14 @@
 
 - 8k) § 80 ods. 1 písm. a) až c) zákona č. 58/2014 Z. z. o výbušninách, výbušných predmetoch a munícii a o zmene a doplnení niektorých zákonov v znení zákona č. 331/2015 Z. z.
 
+- 8l) Bod 11.2. prílohy vykonávacieho nariadenia Komisie (EÚ) 2015/1998 z 5. novembra 2015, ktorým sa stanovujú podrobné opatrenia na vykonávanie spoločných základných noriem bezpečnostnej ochrany letectva (Ú. v. EÚ L 299, 14. 11. 2015) v platnom znení.
+
+- 8m) Bod 11.2.8.2. prílohy vykonávacieho nariadenia (EÚ) 2015/1998 v platnom znení.
+
+- 8n) Zákon č. 53/2023 Z. z. o akreditácii orgánov posudzovania zhody.
+
+- 8o) Príloha č. 14 vyhlášky Národného bezpečnostného úradu č. 492/2022 Z. z., ktorou sa ustanovujú znalostné štandardy v oblasti kybernetickej bezpečnosti.
+
 - 9) Vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch.
 
 - 9a) Článok 5 nariadenia Rady (EHS) č. 2407/92 z 23. júla 1992 o licencovaní leteckých dopravcov (Úradný vestník Európskych spoločenstiev L 240, 24. 08. 1992).
