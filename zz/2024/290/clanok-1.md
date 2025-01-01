@@ -144,6 +144,8 @@ Zákon č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl 
 
 - 30. V § 4c ods. 2 sa za slová „zriaďovateľa verejnej školy,“ vkladajú slová „zriaďovateľa verejnej materskej školy,“ za slová „školy s právnou subjektivitou“ sa vkladá čiarka a slová „riaditeľa verejnej materskej školy s právnou subjektivitou“ a slovo „zriadenia“ sa nahrádza slovom „zariadenia“.
 
+- 31. V § 4e ods. 1 písm. f) sa za slovo „vzdelávania“ vkladajú slová „detí a“.
+
 - 32. Nadpis § 5 znie: „Financovanie štátnych školských zariadení“.
 
 - 33. V § 5 odseky 1 až 3 znejú:
