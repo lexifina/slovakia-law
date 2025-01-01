@@ -1,0 +1,1 @@
+- 1) Nariadenie vlády Slovenskej republiky č. 472/2023 Z. z., ktorým sa ustanovujú výšky taríf pre koncových odberateľov elektriny a pre odberateľov plynu.
