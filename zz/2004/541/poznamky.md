@@ -210,6 +210,8 @@
 
 - 38c) Napríklad zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov, zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov, § 3 zákona č. 355/2007 Z. z. v znení neskorších predpisov.
 
+- 38d) § 29 zákona č. 69/2018 Z. z. o kybernetickej bezpečnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 39) Viedenský dohovor o občianskoprávnej zodpovednosti za škody spôsobené jadrovou udalosťou (oznámenie č. 70/1996 Z. z.).
 
 - Spoločný protokol k aplikácii Viedenského dohovoru a Parížskeho dohovoru (oznámenie č. 71/1996 Z. z.).
