@@ -246,6 +246,8 @@
 
 - 34) Napríklad zákon č. 483/2001 Z. z., zákon č. 566/2001 Z. z.
 
+- 34a) Čl. 3 ods. 1 bod 5 nariadenia Európskeho parlamentu a Rady (EÚ) 2023/1114 z 31. mája 2023 o trhoch s kryptoaktívami a o zmene nariadení (EÚ) č. 1093/2010 a (EÚ) č. 1095/2010 a smerníc 2013/36/EÚ a (EÚ) 2019/1937 (Ú. v. EÚ L 150, 9. 6. 2023) v platnom znení.
+
 - 35) § 59 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 
 - 35a) Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -255,6 +257,8 @@
 - Zákon č. 203/2011 Z. z. o kolektívnom investovaní v znení neskorších predpisov.
 
 - 35aa) § 4 ods. 1 zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
+
+- 35aaa) Čl. 3 ods. 1 bod 7 nariadenia (EÚ) 2023/1114 v platnom znení.
 
 - 35ab) § 88b zákona č. 43/2004 Z. z. v znení zákona č. 334/2011 Z. z.
 
