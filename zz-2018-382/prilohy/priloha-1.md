@@ -1,0 +1,1 @@
+Príloha č. 1 k vyhláške č. 382/2018 Z. z. [KRITÉRIÁ NA PRIJÍMANIE ODPADOV NA SKLÁDKY ODPADOV](../assets/e0969b2a8a16c9b30929096b0f39826dc5a237db4b97a68b2f6e3d6c59a67d8e.pdf)
