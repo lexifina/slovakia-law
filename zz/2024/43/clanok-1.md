@@ -512,7 +512,7 @@ Zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení zákona
 
 - (6)
 
-- Počas prepravy minerálneho oleja podľa odseku 1 môže schválený odosielateľ prostredníctvom elektronického systému zmeniť miesto určenia uvedené v zjednodušenom elektronickom dokumente na iné miesto určenia toho istého schváleného príjemcu alebo na miesto odoslania, a to spôsobom uvedeným v osobitnom predpise.<sup>20a</sup>) Počas prepravy minerálneho oleja podľa odseku 2 môže odosielateľ podľa odseku 2 zmeniť miesto určenia alebo príjemcu podľa odseku 2.“.
+- Počas prepravy minerálneho oleja podľa odseku 1 môže schválený odosielateľ prostredníctvom elektronického systému zmeniť miesto určenia uvedené v zjednodušenom elektronickom dokumente na iné miesto určenia toho istého schváleného príjemcu alebo na miesto odoslania, a to spôsobom uvedeným v osobitnom predpise.<sup>20a</sup>) Počas prepravy minerálneho oleja podľa odseku 2 môže odosielateľ podľa odseku 2 zmeniť miesto určenia alebo príjemcu podľa odseku 2. Distribútor pohonných látok, ktorý vyhotovil návrh zjednodušeného elektronického dokumentu, môže počas prepravy podľa odseku 2 písm. a) a b) rozdeliť prepravu minerálneho oleja uvedeného v § 6 ods. 1 písm. a) a d) prepravovaného podľa odseku 2 písm. a) a b) na dve alebo viaceré prepravy, ak sa celkové množstvo tohto minerálneho oleja nezmení a oznámi túto skutočnosť colnému úradu, a to najneskôr pred rozdelením prepravy tohto minerálneho oleja. Oznámenie o rozdelení prepravy je distribútor pohonných látok povinný vyhotoviť a predložiť prostredníctvom elektronického systému,<sup>6c</sup>) a to spôsobom uvedeným v osobitnom predpise.<sup>20a</sup>)“.
 
 - 85. V § 31 ods. 9 sa za tretiu vetu vkladá nová štvrtá veta, ktorá znie: „Ak v čase prijatia minerálneho oleja schváleným príjemcom nie je zábezpeka na daň zložená vo výške podľa § 32a ods. 6, colný úrad schváleného príjemcu môže pozastaviť odoslanie správy o prijatí colnému úradu schváleného odosielateľa, a to najneskôr do času zloženia zábezpeky vo výške podľa § 32a ods. 6 alebo zaplatenia dane.“.
 
@@ -658,4 +658,4 @@ Zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení zákona
 
 - 111. Príloha č. 2 vrátane nadpisu znie:
 
-- „[Príloha č. 2 k zákonu č. 98/2004 Z. z.](assets/848d783d3706f9a369d5fdf0f2df901198dbf3e649b8a90838d5131571c0040f.pdf)“.
+- „[Príloha č. 2 k zákonu č. 98/2004 Z. z.](assets/00d2010f26ac99ed31c484bb3fcec7e2dc9841fb3687978cf8969b91bf212a35.pdf)“.

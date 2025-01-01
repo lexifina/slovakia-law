@@ -248,4 +248,4 @@ Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zá
 
 - 58. Príloha č. 2 vrátane nadpisu znie:
 
-- „[Príloha č. 2 k zákonu č. 106/2004 Z. z.](assets/75fbcc4bf4aa1b438cd4612c71c62bd2f99496166423e6347be3855c3f649154.pdf)“.
+- „[Príloha č. 2 k zákonu č. 106/2004 Z. z.](assets/de55d40ed33f8473af0b85abc36b5e24250d432998827d6e2f20db5f98e3a660.pdf)“.

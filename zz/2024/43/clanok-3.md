@@ -380,7 +380,7 @@ Zákon č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov v znení z
 
 - 93. Príloha č. 1 vrátane nadpisu znie:
 
-- „[Príloha č. 1 k zákonu č. 530/2011 Z. z.](assets/a4f7e7095f100c00fa7bed8a7a68de8377df4e8811fe57b19a538a343e1d1da7.pdf)“.
+- „[Príloha č. 1 k zákonu č. 530/2011 Z. z.](assets/4a1dbb67b92c7b21d1b07a97b24d5c75c51268314d8f3daf03df27c229bdaa64.pdf)“.
 
 - 94. V prílohe č. 2 sa vypúšťa piaty bod.
 
