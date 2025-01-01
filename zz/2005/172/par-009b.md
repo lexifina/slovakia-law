@@ -1,6 +1,6 @@
 # § 9b Rada pre vedu, techniku a inovácie
 
-(1) Predsedom rady pre vedu, techniku a inovácie je podpredseda vlády, ktorý neriadi ministerstvo. Rada pre vedu, techniku a inovácie má predsedníctvo a ďalších členov. Členmi predsedníctva rady pre vedu, techniku a inovácie sú podpredseda vlády, ktorý neriadi ministerstvo, minister školstva, minister hospodárstva Slovenskej republiky, minister investícií, regionálneho rozvoja a informatizácie Slovenskej republiky a minister financií Slovenskej republiky. Ďalšími členmi rady pre vedu, techniku a inovácie sú medzinárodne uznávaní odborníci v oblasti vedy, techniky alebo inovácií.
+(1) Predsedom rady pre vedu, techniku a inovácie je podpredseda vlády Slovenskej republiky pre Plán obnovy a znalostnú ekonomiku. Rada pre vedu, techniku a inovácie má predsedníctvo a ďalších členov. Členmi predsedníctva rady pre vedu, techniku a inovácie sú podpredseda vlády Slovenskej republiky pre Plán obnovy a znalostnú ekonomiku, minister školstva, minister hospodárstva Slovenskej republiky, minister investícií, regionálneho rozvoja a informatizácie Slovenskej republiky a minister financií Slovenskej republiky. Ďalšími členmi rady pre vedu, techniku a inovácie sú medzinárodne uznávaní odborníci v oblasti vedy, techniky alebo inovácií.
 
 (2) Rada pre vedu, techniku a inovácie schvaľuje
 
