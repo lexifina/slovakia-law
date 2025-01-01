@@ -8,6 +8,10 @@ Zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru,
 
 - 2. V § 105 sa vypúšťa odsek 3.
 
+- 3. V § 141a ods. 1 sa číslo „500“ nahrádza číslom „700“.
+
+- 4. V § 141a ods. 2 sa za slovom „služby“ vypúšťa čiarka a slová „služobných činností, ktoré policajt vykonáva, a útvaru jeho služobného zaradenia“.
+
 - 5. Za § 287n sa vkladajú § 287o a 287p, ktoré vrátane nadpisov znejú:
 
 - „§ 287o
