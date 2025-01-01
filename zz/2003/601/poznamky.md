@@ -46,8 +46,6 @@
 
 - 19) § 293fg zákona č. 461/2003 Z. z. v znení zákona č. 275/2020 Z. z.
 
-- 20) § 66b zákona č. 461/2003 Z. z. v znení zákona č. 352/2022 Z. z.
-
 - 21) § 8 ods. 1 písm. b) zákona č. 600/2003 Z. z. v znení zákona č. 397/2022 Z. z.
 
 - 22) § 9a zákona č. 328/2002 Z. z. v znení zákona č. 426/2020 Z. z.
