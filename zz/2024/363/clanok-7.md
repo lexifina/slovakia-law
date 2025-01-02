@@ -2,6 +2,8 @@
 
 Zákon č. 540/2021 Z. z. o kategorizácii ústavnej zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení zákona č. 518/2022 Z. z., zákona č. 454/2023 Z. z. a zákona č. 125/2024 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 3 ods. 2 písm. b) sa na konci pripájajú tieto slová: „a zástupcu člena orgánov podľa písmena a)“.
+
 - 2. V § 3 ods. 7 sa za slová „orgánov podľa odseku 2 písm. a)“ vkladá čiarka a slová „ich zástupcov“.
 
 - 3. § 3 sa dopĺňa odsekmi 9 až 11, ktoré znejú:
