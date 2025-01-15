@@ -1,0 +1,1 @@
+# Čl. I VŠEOBECNÉ USTANOVENIA

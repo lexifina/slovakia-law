@@ -1,0 +1,9 @@
+# § 25n Prechodné ustanovenia k úpravám účinným od 15. januára 2025
+
+(1) Konania právoplatne neskončené Národnou bankou Slovenska pred 15. januárom 2025 sa dokončia podľa zákona v znení účinnom od 15. januára 2025. Právne účinky úkonov, ktoré v konaní nastali pred 15. januárom 2025, zostávajú zachované.
+
+(2) Veriteľ podľa § 20 ods. 1 písm. a), ktorému bolo udelené povolenie na ponúkanie a poskytovanie spotrebiteľských úverov podľa § 20a pred 15. januárom 2025, je povinný do 15. júla 2025 preukázať Národnej banke Slovenska splnenie podmienky bezúhonnosti a dôveryhodnosti osôb podľa § 20a ods. 1 písm. l) a m) predložením prílohy podľa § 20a ods. 3 písm. f), a splnenie podmienky prehľadnosti skupiny s úzkymi väzbami podľa § 20a ods. 1 písm. h) predložením prílohy podľa § 20a ods. 3 písm. s) v znení účinnom od 15. januára 2025.
+
+(3) Veriteľ podľa § 20 ods. 1 písm. b), ktorému bolo udelené povolenie na ponúkanie a poskytovanie spotrebiteľských úverov podľa § 20b pred 15. januárom 2025, je povinný do 15. júla 2025 preukázať Národnej banke Slovenska splnenie podmienky bezúhonnosti a dôveryhodnosti osôb podľa § 20b ods. 4 písm. b) predložením prílohy podľa § 20b ods. 5 písm. d), a splnenie podmienky prehľadnosti skupiny s úzkymi väzbami podľa §20b ods. 2 predložením prílohy podľa § 20b ods. 5 písm. k) v znení účinnom od 15. januára 2025.
+
+(4) Iný veriteľ podľa § 2 písm. c), ktorému bolo udelené povolenie na ponúkanie a poskytovanie spotrebiteľských úverov podľa § 24 pred 15. januárom 2025, je povinný do 15. júla 2025 preukázať Národnej banke Slovenska splnenie podmienky bezúhonnosti a dôveryhodnosti osôb podľa § 24 ods. 5 písm. c) predložením prílohy podľa § 24 ods. 7 písm. f), a splnenie podmienky prehľadnosti skupiny podľa § 24 ods. 5 písm. j) a k) s úzkymi väzbami predložením prílohy podľa § 24 ods. 7 písm. n) v znení účinnom od 15. januára 2025.
