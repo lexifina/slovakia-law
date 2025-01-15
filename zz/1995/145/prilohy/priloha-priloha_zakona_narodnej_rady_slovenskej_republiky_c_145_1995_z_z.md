@@ -380,7 +380,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - c) Povolenie uzavrieť manželstvo mimo úradne určenej miestnosti<sup>15</sup>) | 100 eur
 
-  - d) Uzavretie manželstva medzi štátnym občanom Slovenskej republiky a cudzincom, ktorý nie je občanom Európskej únie | 100 eur
+  - d) Uzavretie manželstva medzi štátnym občanom Slovenskej republiky alebo občanom Európskej únie a cudzincom, ktorý nie je občanom Európskej únie | 100 eur
 
   - e) Uzavretie manželstva medzi cudzincami, ktorí nie sú občanmi Európskej únie | 280 eur
 
@@ -402,7 +402,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Oslobodenie 1. Od poplatku podľa tejto položky je oslobodená zmena mena alebo priezviska podľa § 7 ods. 1 a 2 zákona Národnej rady Slovenskej republiky č. 300/1993 Z. z. o mene a priezvisku v znení neskorších predpisov. 2. Od poplatku podľa tejto položky je oslobodená zmena mena alebo zmena priezviska v dôsledku nesprávneho alebo neúplného zápisu v matrike. |
 
-  - Poznámky 1. Za zmenu priezviska manželov a ich maloletých detí alebo za zmenu priezviska rodiča a maloletých detí na spoločné priezvisko sa vyberie jeden poplatok. 2. Podľa písmena a) tejto položky sa vyberie poplatok za povolenie zmeny priezviska dieťaťa zvereného do náhradnej osobnej starostlivosti na priezvisko osoby, ktorej bolo zverené, na spoločné priezvisko pestúnov alebo na priezvisko dohodnuté pre ich vlastné deti, ak osobou, ktorej bolo zverené, alebo pestúnmi sú starí rodičia alebo súrodenci rodičov maloletých detí. 3. Za zmenu priezviska viacerých maloletých detí toho istého rodiča sa vyberie len jeden poplatok. 4. Poplatok podľa tejto položky sa vyberie až po vykonaní úkonu. |
+  - Poznámky 1. Za zmenu priezviska manželov a ich maloletých detí alebo za zmenu priezviska rodiča a maloletých detí na spoločné priezvisko sa vyberie jeden poplatok. 2. Podľa písmena a) tejto položky sa vyberie poplatok za povolenie zmeny priezviska dieťaťa zvereného do náhradnej osobnej starostlivosti na priezvisko osoby, ktorej bolo zverené, na spoločné priezvisko pestúnov alebo na priezvisko dohodnuté pre ich vlastné deti, ak osobou, ktorej bolo zverené, alebo pestúnmi sú starí rodičia alebo súrodenci rodičov maloletých detí. 3. Za zmenu priezviska viacerých maloletých detí toho istého rodiča sa vyberie len jeden poplatok. |
 
     - Položka 20
 
@@ -6548,7 +6548,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - d) Žiadosť o udelenie národného víza, ak je to potrebné v súvislosti s udelením povolenia na pobyt v Slovenskej republike okrem prípadu podľa písmena e) | 90 eur,
 
-    - e) Žiadosť o udelenie národného víza, ak je to potrebné v súvislosti s prevzatím udeleného povolenia na pobyt v Slovenskej republike | 14 eur,
+    - e) Žiadosť o udelenie národného víza, ak je to potrebné v súvislosti s prevzatím udeleného povolenia na pobyt v Slovenskej republike | 15 eur,
 
     - f) Podanie odvolania proti rozhodnutiu, ktorým bola žiadosť o udelenie schengenského víza zamietnutá, alebo proti rozhodnutiu, ktorým bolo udelené schengenské vízum zrušené alebo odvolané | 120 eur.
 
@@ -6578,7 +6578,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 241
 
-  - Potvrdenie alebo písomné oznámenie o pobyte každej osoby v ňom uvádzanej ............... | 14 eur
+  - Potvrdenie alebo písomné oznámenie o pobyte každej osoby v ňom uvádzanej ............... | 15 eur
 
     - Položka 242
 
@@ -6614,19 +6614,19 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - a) Vydanie cestovného pasu osobe staršej ako 16 rokov ..... | 60 eur
 
-  - b) Vydanie cestovného pasu osobe od 6 do 16 rokov ..... | 22 eur
+  - b) Vydanie cestovného pasu osobe od 6 do 16 rokov ..... | 25 eur
 
-  - c) Vydanie cestovného pasu osobe mladšej ako 6 rokov ..... | 14 eur
+  - c) Vydanie cestovného pasu osobe mladšej ako 6 rokov ..... | 15 eur
 
   - d) Vydanie cestovného pasu s platnosťou na 1 rok osobe staršej ako 16 rokov ..... | 45 eur
 
-  - e) Vydanie cestovného pasu s platnosťou na 1 rok osobe mladšej ako 16 rokov ..... | 14 eur
+  - e) Vydanie cestovného pasu s platnosťou na 1 rok osobe mladšej ako 16 rokov ..... | 15 eur
 
-  - f) Žiadosť o vydanie náhradného cestovného dokladu ..... | 14 eur
+  - f) Vydanie náhradného cestovného dokladu ..... | 50 eur
 
-  - g) Žiadosť o vydanie náhradného cestovného dokladu opakovane v priebehu šiestich po sebe nasledujúcich mesiacov ..... | 30 eur
+  - g) Vydanie náhradného cestovného dokladu opakovane v priebehu šiestich po sebe nasledujúcich mesiacov ..... | 100 eur
 
-  - h) Predĺženie platnosti cestovného dokladu cudzinca ..... | 7 eur
+  - h) Predĺženie platnosti cestovného dokladu cudzinca ..... | 10 eur
 
   - Splnomocnenie 1. Správny orgán vyberie poplatok podľa tejto položky vo výške dvojnásobku príslušnej sadzby pri prvej strate, odcudzení alebo poškodení cestovného dokladu v dobe jeho platnosti, vo výške päťnásobku príslušnej sadzby pri druhej strate, odcudzení alebo poškodení cestovného dokladu v dobe jeho platnosti opakovane v priebehu dvoch po sebe nasledujúcich rokov a vo výške desaťnásobku príslušnej sadzby pri tretej strate, odcudzení alebo poškodení cestovného dokladu v dobe jeho platnosti opakovane v priebehu dvoch po sebe nasledujúcich rokov; zvýšený správny poplatok sa nevyberie, ak by ku dňu podania žiadosti uplynula doba platnosti strateného alebo odcudzeného cestovného dokladu podľa § 22 písm. a) zákona č. 647/2007 Z. z. o cestovných dokladoch a o zmene a doplnení niektorých zákonov. Správny orgán zvýšený správny poplatok za odcudzenie cestovného dokladu nevyberie, ak sa cestovného dokladu zmocnila násilím iná osoba a táto skutočnosť bola ohlásená príslušnému policajnému orgánu v krajine, kde sa udalosť stala. 2. Správny orgán vyberie poplatok podľa tejto položky vo výške polovice príslušnej sadzby, ak vydáva nový cestovný doklad ako náhradu za platný cestovný doklad pri zápise údaja o ťažkom zdravotnom postihnutí. |
 
@@ -6634,13 +6634,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 244
 
-  - Vystavenie sprievodného listu na prepravu telesných pozostatkov zosnulého .... | 14 eur
+  - Vystavenie sprievodného listu na prepravu telesných pozostatkov zosnulého .... | 15 eur
 
     - Položka 245
 
-  - a) Konanie o vydanie osvedčenia o štátnom občianstve Slovenskej republiky........................................................................ | 14 eur
+  - a) Konanie o vydanie osvedčenia o štátnom občianstve Slovenskej republiky........................................................................ | 15 eur
 
-  - b) Konanie o vydanie potvrdenia o štátnom občianstve Slovenskej republiky........................................................................ | 14 eur
+  - b) Konanie o vydanie potvrdenia o štátnom občianstve Slovenskej republiky........................................................................ | 15 eur
 
   - Poznámka Ak žiadateľ požaduje vydanie viacerých osvedčení o štátnom občianstve Slovenskej republiky alebo potvrdení o štátnom občianstve Slovenskej republiky, poplatok sa vyrubuje za každý takýto vydaný originál. |
 
@@ -6692,7 +6692,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Zmena |
 
-  - a) hanlivého alebo neosobného mena alebo hanlivého priezviska | 14 eur
+  - a) hanlivého alebo neosobného mena alebo hanlivého priezviska | 15 eur
 
   - b) priezviska maloletých detí | 50 eur
 
@@ -6712,11 +6712,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 250
 
-  - a) Žiadosť o vyhotovenie matričného dokladu ................................................................................ | 22 eur
+  - a) Žiadosť o vyhotovenie matričného dokladu ................................................................................ | 25 eur
 
   - b) Vyhotovenie prekladu matričného dokladu a jeho osvedčenie ................................................ | 45 eur
 
-  - c) Zabezpečenie matričného dokladu alebo iného obdobného dokladu zo zahraničia .................. | 14 eur
+  - c) Zabezpečenie matričného dokladu alebo iného obdobného dokladu zo zahraničia .................. | 15 eur
 
   - Poznámka 1. Poplatok podľa písmena a) sa nevyberie, ak ide o doručenie prvopisu matričného dokladu. 2. Poplatok podľa písmena c) je možné vybrať aj po vykonaní úkonu. |
 
@@ -6726,7 +6726,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 254
 
-  - a) Osvedčenie podpisu na listine a na jej rovnopise, za každý podpis ..... | 14 eur
+  - a) Osvedčenie podpisu na listine a na jej rovnopise, za každý podpis ..... | 15 eur
 
   - b) Osvedčenie listín vydaných cudzozemskými orgánmi na použitie v Slovenskej republike ..... | 30 eur
 
@@ -6736,9 +6736,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 255
 
-  - a) | Vyhotovenie odpisu (fotokópie) listiny vrátane osvedčenia, za každú aj začatú stranu ..... | 14 eur
+  - a) | Vyhotovenie odpisu (fotokópie) listiny vrátane osvedčenia, za každú aj začatú stranu ..... | 15 eur
 
-  - b) | Osvedčenie správnosti predloženého odpisu (fotokópie), za každú aj začatú stranu ..... | 14 eur
+  - b) | Osvedčenie správnosti predloženého odpisu (fotokópie), za každú aj začatú stranu ..... | 15 eur
 
   - c) | Osvedčenie správnosti predloženého prekladu, za každú aj začatú stranu ..... | 30 eur
 
@@ -6754,7 +6754,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - c) z jedného cudzieho jazyka do druhého, za každú aj začatú stranu ................................................................ | 50 eur
 
-  - d) z (do) čínskeho, japonského, kórejského jazyka alebo iných znakových jazykov, za každý slovný znak ..... | 1 euro
+  - d) z (do) čínskeho, japonského, kórejského jazyka alebo iných znakových jazykov, za každý slovný znak ..... | 5 eur
 
   - Poznámka Poplatok podľa tejto položky sa vyberie až po vykonaní úkonu. |
 
@@ -6762,7 +6762,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 259
 
-    - a) Vydanie občianskeho preukazu .................................................................................. 22 eur
+    - a) Vydanie občianskeho preukazu .................................................................................. 25 eur
 
     - b) Vydanie občianskeho preukazu z dôvodu straty, odcudzenia alebo poškodenia občianskeho preukazu vydaného s platnosťou na menej ako 10 rokov ............................................ 45 eur
 
@@ -6790,7 +6790,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 259a
 
-  - Žiadosť o výmenu alebo obnovenie vodičského preukazu ..... | 22 eur
+  - Žiadosť o výmenu alebo obnovenie vodičského preukazu ..... | 25 eur
 
     - Položka 260
 
@@ -6814,25 +6814,25 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 263
 
-  - Vydanie potvrdenia zastupiteľským úradom ............................................................................. | 14 eur
+  - Vydanie potvrdenia zastupiteľským úradom ............................................................................. | 15 eur
 
     - Položka 264
 
-  - a) Vydanie odpisu, výpisu alebo písomnej informácie a úradných záznamov, registrov, evidencií, listín alebo spisov za každú aj začatú stranu ........................................................ | 7 eur
+  - a) Vydanie odpisu, výpisu alebo písomnej informácie a úradných záznamov, registrov, evidencií, listín alebo spisov za každú aj začatú stranu ........................................................ | 10 eur
 
-  - b) Vydanie viacjazyčného štandardného formulára ............................................................... | 7 eur
+  - b) Vydanie viacjazyčného štandardného formulára ............................................................... | 10 eur
 
     - Položka 264a
 
-  - Podanie žiadosti o vydanie verejnej listiny z registra trestov | 14 eur
+  - Podanie žiadosti o vydanie verejnej listiny z registra trestov | 15 eur
 
     - Položka 265
 
-  - a) Žiadosť o vydanie osvedčenia Slováka žijúceho v zahraničí<sup>47a</sup>) ............................................................. | 14 eur
+  - a) Žiadosť o vydanie osvedčenia Slováka žijúceho v zahraničí<sup>47a</sup>) ............................................................. | 15 eur
 
   - b) Vydanie osvedčenia Slováka žijúceho v zahraničí ako náhrady za stratené, zničené alebo poškodené osvedčenie........... | 30 eur
 
-  - c) vydanie nového osvedčenia Slováka žijúceho v zahraničí v prípade zápisu zmien a doplnkov ................ | 14 eur
+  - c) vydanie nového osvedčenia Slováka žijúceho v zahraničí v prípade zápisu zmien a doplnkov ................ | 15 eur
 
   - XX. ČASŤ DÔVERYHODNÉ SLUŽBY
 
