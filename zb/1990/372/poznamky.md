@@ -52,6 +52,8 @@
 
 - 3fa) § 2 ods. 1 písm. g) zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
+- 3faa) § 48a zákona č. 35/2019 Z. z. o finančnej správe a o zmene a doplnení niektorých zákonov v znení zákona č. 387/2024 Z. z.
+
 - 3g) § 7a zákona Národnej rady Slovenskej republiky č. 125/1996 Z. z. o nemorálnosti a protiprávnosti komunistického systému v znení zákona č. 338/2020 Z. z.
 
 - § 6a zákona č. 487/2013 Z. z. o protifašistickom odboji, postavení a pôsobnosti Slovenského zväzu protifašistických bojovníkov v znení zákona č. 338/2020 Z. z.
