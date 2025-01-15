@@ -14,7 +14,7 @@
 
 - 3d) § 20 ods. 1 až 4 zákona č. 293/2007 Z. z. v znení zákona č. 81/2013 Z. z.
 
-- 4) § 4 ods. 1 zákona č. 136/2010 Z. z.
+- 4) § 6a zákona č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 4a) § 3 a 4 zákona č. 293/2007 Z. z.
 
@@ -33,6 +33,8 @@
 - 5b) Čl. 4 ods. 7 nariadenia (EÚ) 2016/679.
 
 - 6) Napr. Zákonník práce.
+
+- 7) § 10 zákona č. 162/2015 Z. z. Správny súdny poriadok v znení neskorších predpisov.
 
 - 7a) § 3 až 8 a § 10 až 16 zákona č. 136/2010 Z. z.
 
