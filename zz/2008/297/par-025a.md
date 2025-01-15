@@ -6,7 +6,7 @@
 
 - b) posudzovať, či je pripravovaný alebo vykonávaný obchod neobvyklý,
 
-- c) ohlásiť finančnej spravodajskej jednotke neobvyklú obchodnú operáciu podľa § 17,
+- c) ohlásiť Finančnej spravodajskej jednotke neobvyklú obchodnú operáciu podľa § 17,
 
 - d) dodržiavať povinnosť mlčanlivosti podľa § 18,
 
@@ -16,7 +16,7 @@
 
 - g) zabezpečiť odbornú prípravu zamestnancov podľa § 20 ods. 3,
 
-- h) poskytnúť finančnej spravodajskej jednotke údaje, informácie a doklady podľa § 21 ods. 1,
+- h) poskytnúť Finančnej spravodajskej jednotke údaje, informácie a doklady podľa § 21 ods. 1,
 
 - i) zaviesť systém podľa § 21 ods. 2.
 

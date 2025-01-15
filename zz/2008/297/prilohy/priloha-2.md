@@ -16,9 +16,7 @@ Príloha č. 2 k zákonu č. 297/2008 Z. z.
 
     - f) klient pri svojej činnosti intenzívne využíva hotovosť,
 
-    - g) vlastnícka štruktúra klienta sa javí ako neobvyklá alebo nadmerne zložitá so zreteľom na povahu jeho obchodnej činnosti, alebo
-
-    - h) klient je osobou oprávnenou zo životného poistenia.
+    - g) vlastnícka štruktúra klienta sa javí ako neobvyklá alebo nadmerne zložitá so zreteľom na povahu jeho obchodnej činnosti.
 
   - 2) Rizikové faktory z hľadiska produktu, služby, obchodu alebo distribučného kanála:
 
@@ -30,16 +28,16 @@ Príloha č. 2 k zákonu č. 297/2008 Z. z.
 
     - d) obchody súvisiace s ropou, zbraňami, cennými kovmi, tabakovými výrobkami, umeleckými dielami a ďalšími predmetmi archeologického, historického, kultúrneho a náboženského významu alebo vzácnej vedeckej hodnoty, ako aj slonovina a chránené druhy živočíchov,
 
-    - e) prijatá platba od neznámych alebo nepridružených tretích strán, alebo
-
-    - f) nové produkty a nové obchodné postupy vrátane nových distribučných systémov a používanie nových alebo rozvíjajúcich sa technológií pre nové alebo už existujúce produkty.
+    - e) prijatá platba od neznámych alebo nepridružených tretích strán.
 
   - 3) Rizikové faktory z geografického hľadiska:
 
-    - a) krajiny, ktoré Európska komisia určila za vysokorizikové, a krajiny, ktoré podľa dôveryhodných zdrojov nemajú účinné systémy proti legalizácii alebo financovaniu terorizmu,
+    - a) vysokorizikové krajiny,
 
     - b) krajiny určené na základe dôveryhodných zdrojov ako krajiny s významnou mierou korupcie alebo inej trestnej činnosti,
 
     - c) krajiny, ktoré podliehajú sankciám, embargám alebo podobným opatreniam, ktoré vydala napríklad Európska únia alebo Organizácia Spojených národov, alebo
 
     - d) krajiny poskytujúce finančné prostriedky alebo podporu teroristickej činnosti alebo krajiny, v ktorých pôsobia identifikované teroristické organizácie.
+
+  - 4) Rizikové faktory týkajúce sa životného poistenia: úroveň rizika, ktorú predstavuje osoba, ktorá je príjemcom poistného plnenia zo životného poistenia.

@@ -11,3 +11,5 @@ Príloha č. 1 k zákonu č. 297/2008 Z. z.
   - 4. Smernica Európskeho parlamentu a Rady (EÚ) 2018/843 z 30. mája 2018, ktorou sa mení smernica (EÚ) 2015/849 o predchádzaní využívaniu finančného systému na účely prania špinavých peňazí alebo financovania terorizmu a smernice 2009/138/ES a 2013/36/EÚ (Ú. v. EÚ L 156, 19. 6. 2018).
 
   - 5. Smernica Európskeho parlamentu a Rady (EÚ) 2019/1153 z 20. júna 2019, ktorou sa stanovujú pravidlá uľahčovania využívania finančných a iných informácií na predchádzanie určitým trestným činom, ich odhaľovanie, vyšetrovanie alebo stíhanie a ktorou sa zrušuje rozhodnutie Rady 2000/642/SVV (Ú. v. EÚ L 186, 11. 7. 2019).
+
+  - 6. Nariadenie Európskeho parlamentu a Rady (EÚ) 2023/1113 z 31. mája 2023 o údajoch sprevádzajúcich prevody finančných prostriedkov a určitých kryptoaktív a o zmene smernice (EÚ) 2015/849 (Ú. v. EÚ L 150, 9. 6. 2023).
