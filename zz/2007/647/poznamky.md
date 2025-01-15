@@ -52,7 +52,15 @@
 
 - 21b) § 73 Trestného poriadku v znení neskorších predpisov.
 
-- 23) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
+- 21c) Zákon č. 154/2010 Z. z. o európskom zatýkacom rozkaze v znení neskorších predpisov.
+
+- 21d) § 490 Trestného poriadku.
+
+- 22) § 88 Trestného poriadku.
+
+- 23) Nariadenie Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) (Ú. v. EÚ L 119, 4. 5. 2016) v platnom znení.
+
+- Zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
