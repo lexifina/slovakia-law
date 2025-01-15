@@ -204,6 +204,8 @@
 
 - 28aa) § 2a zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 125/2006 Z. z.
 
+- 28aaa) § 6a zákona č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 28ab) Zákon č. 404/2011 Z. z. v znení neskorších predpisov.
 
 - 28b) § 3 vyhlášky Úradu bezpečnosti práce Slovenskej republiky č. 74/1996 Z. z. na zaistenie bezpečnosti a ochrany zdravia pri práci, bezpečnosti tlakových, zdvíhacích, elektrických a plynových technických zariadení a o odbornej spôsobilosti.

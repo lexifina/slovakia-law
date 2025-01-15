@@ -88,8 +88,6 @@ Príloha č. 4a k zákonu č. 455/1991 Zb.
 
 - 43. | Verejné obstarávanie
 
-- 44. | Vedenie účtovníctva
-
 - 45. | Finančný lízing
 
 - 46. | Faktoring a forfaiting
