@@ -70,6 +70,8 @@
 
 - 23) Zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov v znení neskorších predpisov.
 
+- 24) Nariadenie Európskeho parlamentu a Rady (EÚ) 2022/2554 zo 14. decembra 2022 o digitálnej prevádzkovej odolnosti finančného sektora a o zmene nariadení (ES) č. 1060/2009, (EÚ) č. 648/2012, (EÚ) č. 600/2014, (EÚ) č. 909/2014 a (EÚ) 2016/1011 (Ú. v. EÚ L 333, 27. 12. 2022).
+
 - 24a) § 4 ods. 5 a § 7 ods. 3 zákona č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
 - 24b) § 3 zákona č. 428/2002 Z. z. v znení neskorších predpisov.
@@ -105,6 +107,8 @@
 - 30) § 131a zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 31) Civilný sporový poriadok.
+
+- 31a) Čl. 45 nariadenia (EÚ) 2022/2554.
 
 - 32) Trestný zákon.
 
@@ -178,7 +182,7 @@
 
 - 45) Zákon č. 244/2002 Z. z. o rozhodcovskom konaní.
 
-- 45a) Napríklad zákon č. 367/2000 Z. z. v znení neskorších predpisov, zákon č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
+- 45a) Napríklad zákon č. 367/2000 Z. z. v znení neskorších predpisov, zákon č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov, nariadenie (EÚ) 2022/2554.
 
 - 45aa) Čl. 19 nariadenia (EÚ) č. 1094/2010 v platnom znení.
 
