@@ -21,3 +21,5 @@ Príloha k zákonu č. 429/2002 Z. z.
   - 9. Smernica Európskeho parlamentu a Rady (EÚ) 2022/2464 zo 14. decembra 2022, ktorou sa mení nariadenie (EÚ) č. 537/2014, smernica 2004/109/ES, smernica 2006/43/ES a smernica 2013/34/EÚ, pokiaľ ide o vykazovanie informácií o udržateľnosti podnikov (Ú. v. EÚ L 322, 16. 12. 2022).
 
   - 10. Smernica Európskeho parlamentu a Rady (EÚ) 2021/338 zo 16. februára 2021, ktorou sa mení smernica 2014/65/EÚ, pokiaľ ide o požiadavky na informácie, správu produktov a obmedzenia pozícií, a smernice 2013/36/EÚ a (EÚ) 2019/878, pokiaľ ide o ich uplatňovanie na investičné spoločnosti, v záujme pomoci pri obnove po kríze spôsobenej ochorením COVID-19 (Ú. v. EÚ L 68, 26. 2. 2021).
+
+  - 11. Smernica Európskeho parlamentu a Rady (EÚ) 2022/2556 zo 14. decembra 2022, ktorou sa menia smernice 2009/65/ES, 2009/138/ES, 2011/61/EÚ, 2013/36/EÚ, 2014/59/EÚ, 2014/65/EÚ, (EÚ) 2015/2366 a (EÚ) 2016/2341, pokiaľ ide o digitálnu prevádzkovú odolnosť finančného sektora (Ú. v. EÚ L 333, 27. 12. 2022).

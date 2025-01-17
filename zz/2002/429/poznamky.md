@@ -82,6 +82,12 @@
 
 - 22aa) Delegované nariadenie Komisie (EÚ) 2017/588 zo 14. júla 2016, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ, pokiaľ ide o regulačné technické predpisy týkajúce sa režimu veľkosti tiku pre akcie, vkladové potvrdenky a fondy obchodované na burze (Ú. v. EÚ L 87, 31. 3. 2017).
 
+- 22aaa) Kapitola II nariadenia Európskeho parlamentu a Rady (EÚ) 2022/2554 zo 14. decembra 2022 o digitálnej prevádzkovej odolnosti finančného sektora a o zmene nariadení (ES) č. 1060/2009, (EÚ) č. 648/2012, (EÚ) č. 600/2014, (EÚ) č. 909/2014 a (EÚ) 2016/1011 (Ú. v. EÚ L 333, 27. 12. 2022).
+
+- 22aab) Čl. 11 nariadenia (EÚ) 2022/2554.
+
+- 22aac) Kapitola II a IV nariadenia (EÚ) 2022/2554.
+
 - 24) Trestný poriadok.
 
 - 24a) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
@@ -259,6 +265,12 @@
 - 70a) § 156a Obchodného zákonníka v znení neskorších predpisov.
 
 - 70aa) § 19 ods. 4 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
+
+- 70aaa) Nariadenie (EÚ) 2022/2554.
+
+- 70aab) Čl. 5 až 30 a čl. 45 nariadenia (EÚ) 2022/2554.
+
+- 70aac) Čl. 50 ods. 4 nariadenia (EÚ) 2022/2554.
 
 - 70ab) § 10 ods. 5 zákona č. 747/2004 Z. z.
 
