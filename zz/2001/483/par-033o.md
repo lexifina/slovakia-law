@@ -44,7 +44,7 @@
 
 - o) opatrenia potrebné na zachovanie nepretržitého prístupu k infraštruktúram finančného trhu,
 
-- p) opatrenia potrebné na zachovanie nepretržitého fungovania prevádzkových procesov banky vrátane infraštruktúry a informačných technológií,
+- p) opatrenia potrebné na zachovanie nepretržitého fungovania prevádzkových procesov banky vrátane infraštruktúry, informačných technológií a sietí a informačných systémov, ktoré sú zriadené a spravované v súlade s osobitným predpisom,<sup>25aaa</sup>)
 
 - q) prípravné opatrenia na zjednodušenie predaja aktív alebo oblastí obchodnej činnosti tak, aby došlo k včasnému obnoveniu finančnej stability banky,
 

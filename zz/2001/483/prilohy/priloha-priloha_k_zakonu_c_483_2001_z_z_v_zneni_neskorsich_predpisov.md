@@ -31,3 +31,5 @@ Príloha k zákonu č. 483/2001 Z. z. v znení neskorších predpisov
   - 14. Smernica Európskeho parlamentu a Rady (EÚ) 2021/2167 z 24. novembra 2021 o správcoch úverov a nákupcoch úverov a o zmene smerníc 2008/48/ES a 2014/17/EÚ (Ú. v. EÚ L 438, 8. 12. 2021).
 
   - 15. Nariadenie Európskeho parlamentu a Rady (EÚ) 2023/1114 z 31. mája 2023 o trhoch s kryptoaktívami a o zmene nariadení (EÚ) č. 1093/2010 a (EÚ) č. 1095/2010 a smerníc 2013/36/EÚ a (EÚ) 2019/1937 (Ú. v. EÚ L 150, 9. 6. 2023) v znení nariadenia Európskeho parlamentu a Rady (EÚ) 2023/2869 z 13. decembra 2023 (Ú. v. EÚ L, 2023/2869, 20. 12. 2023).
+
+  - 16. Smernica Európskeho parlamentu a Rady (EÚ) 2022/2556 zo 14. decembra 2022, ktorou sa menia smernice 2009/65/ES, 2009/138/ES, 2011/61/EÚ, 2013/36/EÚ, 2014/59/EÚ, 2014/65/EÚ, (EÚ) 2015/2366 a (EÚ) 2016/2341, pokiaľ ide o digitálnu prevádzkovú odolnosť finančného sektora (Ú. v. EÚ L 333, 27. 12. 2022).

@@ -136,6 +136,8 @@
 
 - 20e) Čl. 362 až 377 nariadenia (EÚ) č. 575/2013.
 
+- 20ea) Kapitola IV nariadenia Európskeho parlamentu a Rady (EÚ) 2022/2554 zo 14. decembra 2022 o digitálnej prevádzkovej odolnosti finančného sektora a o zmene nariadení (ES) č. 1060/2009, (EÚ) č. 648/2012, (EÚ) č. 600/2014, (EÚ) č. 909/2014 a (EÚ) 2016/1011 (Ú. v. EÚ L 333, 27. 12. 2022).
+
 - 20f) Čl. 105 nariadenia (EÚ) č. 575/2013.
 
 - 20g) Čl. 4 ods. 1 bod 94 nariadenia (EÚ) č. 575/2013 v platnom znení.
@@ -160,7 +162,7 @@
 
 - 23b) Čl. 4 ods. 1 bod 38 nariadenia (EÚ) č. 575/2013.
 
-- 24) § 13 ods. 1 až 6 a § 14 ods. 3 písm. f) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
+- 24) § 12 ods. 1 zákona č. 192/2023 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
 - 24a) Napríklad § 8 písm. b) zákona č. 566/2001 Z. z. v znení neskorších predpisov, § 4 ods. 11 zákona č. 429/2002 Z. z. v znení zákona č. 747/2004 Z. z., § 48 ods. 11 zákona č. 43/2004 Z. z. v znení zákona č. 747/2004 Z. z., § 23 ods. 11 zákona č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov, § 3 písm. a) zákona č. 8/2008 Z. z. v znení neskorších predpisov, § 23 ods. 1 zákona č. 186/2009 Z. z. v znení neskorších predpisov, § 2 ods. 31 zákona č. 492/2009 Z. z. v znení zákona č. 394/2011 Z. z., § 28 ods. 10 zákona č. 203/2011 Z. z. o kolektívnom investovaní.
 
@@ -170,13 +172,13 @@
 
 - § 22 ods. 4 zákona č. 431/2002 Z. z. v znení zákona č. 561/2004 Z. z.
 
-- 24aaaa) § 10 ods. 4 a 5 a § 13 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 24aaaa) § 12 ods. 4 zákona č. 192/2023 Z. z.
 
 - 24aaab) § 34a ods. 1 a 2 a § 34b zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
 - Zákon č. 747/2004 Z. z. v znení neskorších predpisov.
 
-- § 10 ods. 1, 5, 6, 7, 10 a 11 a § 12 zákona č. 330/2007 Z. z. v znení neskorších predpisov.
+- § 12 ods. 4 až 15 a § 13 zákona č. 192/2023 Z. z.
 
 - 24aab) Čl. 4 ods. 1 bod 15 nariadenia (EÚ) č. 575/2013.
 
@@ -189,6 +191,8 @@
 - 24aad) § 54 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 24b) § 36 ods. 1 a 2 Občianskeho zákonníka.
+
+- 24ba) § 2 ods. 2 zákona Slovenskej národnej rady č. 310/1992 Zb. v znení neskorších predpisov.
 
 - 24c) § 1 ods. 2, § 6 ods. 3 a § 8 ods. 3 nariadenia vlády Slovenskej republiky č. 42/2004 Z. z. o Obchodnom vestníku v znení nariadenia vlády Slovenskej republiky č. 76/2005 Z. z.
 
@@ -219,6 +223,8 @@
 - 25a) Čl. 8 ods. 1 písm. l) a čl. 76 ods. 4 nariadenia Európskeho Parlamentu a Rady (EÚ) č. 1093/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/78/ES (U. v. EÚ L 331, 15. 12. 2010).
 
 - 25aa) Čl. 4 ods. 1 bod 52 nariadenia (EÚ) č. 575/2013.
+
+- 25aaa) Nariadenie (EÚ) 2022/2554.
 
 - 25ac) Čl. 4 ods. 1 bod 34 nariadenia (EÚ) č. 575/2013.
 
@@ -948,6 +954,10 @@
 
 - 87aba) Zákon č. 106/2024 Z. z.
 
+- 87abaa) Zákon č. 289/2016 Z. z. o vykonávaní medzinárodných sankcií a o doplnení zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov v znení neskorších predpisov.
+
+- 87abab) Druhá časť štvrtá a piata hlava Trestného zákona.
+
 - 87ac) § 17 ods. 1 a 2 zákona č. 129/2010 Z. z. v znení neskorších predpisov.
 
 - § 525 ods. 2 Občianskeho zákonníka v znení neskorších predpisov.
@@ -968,11 +978,11 @@
 
 - 88b) Napríklad zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov, § 3a a § 27 až 33 Obchodného zákonníka, § 2 ods. 2 a § 10 a 11 zákona č. 34/2002 Z. z. o nadáciách a o zmene Občianskeho zákonníka v znení neskorších predpisov, § 9 ods. 1 a 2 a § 10 zákona č. 147/1997 Z. z. o neinvestičných fondoch a o doplnení zákona Národnej rady Slovenskej republiky č. 207/1996 Z. z., § 9 ods. 1 a 2 a § 11 zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení zákona č. 35/2002 Z. z., § 6, 7, 9 a 9a zákona č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov, § 6 ods. 1 a § 7 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov, § 4 ods. 3 zákona č. 515/2003 Z. z. o krajských úradoch a obvodných úradoch a o zmene a doplnení niektorých zákonov.
 
-- 88c) Napríklad zákon č. 367/2000 Z. z. v znení neskorších predpisov, zákon č. 431/2002 Z. z., zákon č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov.
+- 88c) Napríklad zákon č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 431/2002 Z. z. v znení neskorších predpisov, zákon č. 297/2008 Z. z. v znení neskorších predpisov.
 
 - 88d) § 4 ods. 5 a § 7 ods. 3 zákona č. 428/2002 Z. z.
 
-- 88e) § 4 ods. 1 písm. a), b) a c), § 7 ods. 3, ods. 5 druhá veta a ods. 6 druhá veta, § 8 ods. 2 a § 10 ods. 6 zákona č. 428/2002 Z. z.
+- 88e) Čl. 4 ods. 2 nariadenia (EÚ) 2016/679.
 
 - 88f) § 2 zákona Národnej rady Slovenskej republiky č. 301/1995 Z. z. o rodnom čísle.
 
@@ -989,6 +999,12 @@
 - 88ib) § 15 zákona č. 224/2006 Z. z. v znení neskorších predpisov.
 
 - 88ic) § 7 ods. 1 písm. b) a § 7a ods. 3 a 4 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov v znení zákona č. 302/2023 Z. z.
+
+- 88id) Napríklad čl. 4 nariadenia Európskeho parlamentu a Rady (EÚ) 2023/1113 z 31. mája 2023 o údajoch sprevádzajúcich prevody finančných prostriedkov a určitých kryptoaktív a o zmene smernice (EÚ) 2015/849 (Ú. v. EÚ L 150, 9. 6. 2023), § 7 zákona č. 297/2008 Z. z. v znení neskorších predpisov.
+
+- 88ie) Čl. 35 nariadenia (EÚ) 2016/679.
+
+- 88if) Zákon č. 18/2018 Z. z. v znení neskorších predpisov.
 
 - 88j) § 90 ods. 1 zákona č. 492/2009 Z. z. v znení zákona č. 373/2018 Z. z.
 
