@@ -78,7 +78,7 @@
 
 - 18j) Čl. 2 bod 24 nariadenia Európskeho parlamentu a Rady (EÚ) 2019/2088 z 27. novembra 2019 o zverejňovaní informácií o udržateľnosti v sektore finančných služieb (Ú. v. EÚ L 317, 9. 12. 2019) v platnom znení.
 
-- 19) § 13 ods. 1 až 6 a § 14 ods. 3 písm. f) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
+- 19) § 12 ods. 1 zákona č. 192/2023 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
 - 20) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
 
@@ -284,13 +284,13 @@
 
 - Čl. 3 až 26 nariadenia (EÚ) č. 600/2014.
 
-- 53b) § 10 ods. 4 a 5 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+- 53b) § 12 ods. 4 zákona č. 192/2023 Z. z.
 
 - 53c) § 34a ods. 1 a 2 a § 34b zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
-- § 10 ods. 1, 5, 6, 7, 10 a 11 a § 12 zákona č. 330/2007 Z. z. v znení neskorších predpisov.
-
 - Zákon č. 747/2004 Z. z. v znení neskorších predpisov.
+
+- § 12 ods. 4 až 15 a § 13 zákona č. 192/2023 Z. z.
 
 - 54) § 27 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
 
@@ -322,11 +322,19 @@
 
 - 56aaa) Medzinárodný účtovný štandard 28 Prílohy nariadenia Komisie (ES) č. 1126/2008 z 3. novembra 2008, ktorým sa v súlade s nariadením Európskeho parlamentu a Rady (ES) č. 1606/2002 prijímajú určité medzinárodné účtovné štandardy (Ú. v. EÚ L 320, 29. 11. 2008) v platnom znení.
 
+- 56aaaa) Čl. 7 nariadenia Európskeho parlamentu a Rady (EÚ) 2022/2554 zo 14. decembra 2022 o digitálnej prevádzkovej odolnosti finančného sektora a o zmene nariadení (ES) č. 1060/2009, (EÚ) č. 648/2012, (EÚ) č. 600/2014, (EÚ) č. 909/2014 a (EÚ) 2016/1011 (Ú. v. EÚ L 333, 27. 12. 2022).
+
 - 56aab) Čl. 435 ods. 2 písm. b) a c) nariadenia (EÚ) č. 575/2013 v platnom znení.
 
 - 56ab) Čl. 48 nariadenia (EÚ) 2019/2033 v platnom znení.
 
 - 56aba) § 14 a 38a zákona č. 429/2002 Z. z. v znení neskorších predpisov.
+
+- 56abaa) Kapitola II nariadenia (EÚ) 2022/2554.
+
+- 56abab) Čl. 11 nariadenia (EÚ) 2022/2554.
+
+- 56abac) Kapitola II a IV nariadenia (EÚ) 2022/2554.
 
 - 56abb) Napríklad § 18 a 52 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
 
@@ -334,11 +342,13 @@
 
 - 56ac) § 34 zákona č. 423/2015 Z. z. o štatutárnom audite a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
-- 56aca) Delegované nariadenie Komisie (EÚ) č. 604/2014 zo 4. marca 2014, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2013/36/EÚ, pokiaľ ide o regulačné technické predpisy so zreteľom na kvalitatívne a vhodné kvantitatívne kritériá na vymedzenie kategórií pracovníkov, ktorých profesionálne činnosti majú významný vplyv na rizikový profil inštitúcie (Ú. v. EÚ L 167, 6. 6. 2014).
+- 56aca) Delegované nariadenie Komisie (EÚ) 2021/923 z 25. marca 2021, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2013/36/EÚ, pokiaľ ide o regulačné technické predpisy, v ktorých sa stanovujú kritériá na vymedzenie riadiacej zodpovednosti, kontrolných funkcií, významných obchodných útvarov a významného vplyvu na rizikový profil významného obchodného útvaru, ako aj kritériá na identifikáciu zamestnancov alebo kategórií zamestnancov, ktorých profesionálne činnosti majú vplyv na rizikový profil inštitúcie, ktorý je rovnako významný ako vplyv zamestnancov alebo kategórií zamestnancov uvedených v článku 92 ods. 3 uvedenej smernice (Ú. v. EÚ L 203, 9. 6. 2021).
 
 - 56acaa) Čl. 7 nariadenia (EÚ) 2019/2033 v platnom znení.
 
 - 56acab) Čl. 11 nariadenia (EÚ) 2019/2033 v platnom znení.
+
+- 56acac) Nariadenie (EÚ) 2022/2554.
 
 - 56ad) Tretia a piata časť nariadenia (EÚ) 2019/2033 v platnom znení.
 
@@ -800,7 +810,7 @@
 
 - 110i) Čl. 15 nariadenia (EÚ) 1093/2010 v platnom znení.
 
-- 110ja) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) č. 596/2014 zo 16. apríla 2014 o zneužívaní trhu (nariadenie o zneužívaní trhu) a o zrušení smernice Európskeho parlamentu a Rady 2003/6/ES a smerníc Komisie 2003/124/ES, 2003/125/ES a 2004/72/ES (Ú. v. EÚ L 173, 12. 6. 2014) v platnom znení, nariadenie (EÚ) 2015/2365, nariadenie (EÚ) 2016/1011, nariadenie Európskeho parlamentu a Rady (EÚ) 2017/2402 z 12. decembra 2017, ktorým sa ustanovuje všeobecný rámec pre sekuritizáciu a vytvára sa osobitný rámec pre jednoduchú, transparentnú a štandardizovanú sekuritizáciu a ktorým sa menia smernice 2009/65/ES, 2009/138/ES a 2011/61/EÚ a nariadenie (ES) č. 1060/2009 a nariadenie (EÚ) č. 648/2012 (Ú. v. EÚ L 347, 28. 12. 2017), nariadenie (EÚ) 2020/1503, nariadenie (EÚ) 2021/23, nariadenie (EÚ) 2023/2631 v platnom znení.
+- 110ja) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) č. 596/2014 zo 16. apríla 2014 o zneužívaní trhu (nariadenie o zneužívaní trhu) a o zrušení smernice Európskeho parlamentu a Rady 2003/6/ES a smerníc Komisie 2003/124/ES, 2003/125/ES a 2004/72/ES (Ú. v. EÚ L 173, 12. 6. 2014) v platnom znení, nariadenie (EÚ) 2015/2365, nariadenie (EÚ) 2016/1011, nariadenie Európskeho parlamentu a Rady (EÚ) 2017/2402 z 12. decembra 2017, ktorým sa ustanovuje všeobecný rámec pre sekuritizáciu a vytvára sa osobitný rámec pre jednoduchú, transparentnú a štandardizovanú sekuritizáciu a ktorým sa menia smernice 2009/65/ES, 2009/138/ES a 2011/61/EÚ a nariadenie (ES) č. 1060/2009 a nariadenie (EÚ) č. 648/2012 (Ú. v. EÚ L 347, 28. 12. 2017), nariadenie (EÚ) 2020/1503, nariadenie (EÚ) 2021/23, nariadenie (EÚ) 2023/2631 v platnom znení, nariadenie (EÚ) 2022/2554.
 
 - 110jb) Čl. 25 ods. 2 nariadenia (EÚ) č. 596/2014.
 
@@ -844,9 +854,9 @@
 
 - 110ln) Čl. 19 ods. 1 druhý pododsek nariadenia (EÚ) č. 1093/2010 v platnom znení.
 
-- 110m) Napríklad čl. 30 ods. 1 nariadenia (EÚ) č. 596/2014 v platnom znení, čl. 22 nariadenia (EÚ) 2015/2365, čl. 42 nariadenia (EÚ) 2016/1011, čl. 32 nariadenia (EÚ) 2017/2402, čl. 39 ods. 1 nariadenia (EÚ) 2020/1503, čl. 82 ods. 1 nariadenia (EÚ) 2021/23, čl. 49 ods. 1 nariadenia (EÚ) 2023/2631 v platnom znení.
+- 110m) Napríklad čl. 30 ods. 1 nariadenia (EÚ) č. 596/2014 v platnom znení, čl. 22 nariadenia (EÚ) 2015/2365, čl. 42 nariadenia (EÚ) 2016/1011, čl. 32 nariadenia (EÚ) 2017/2402, čl. 39 ods. 1 nariadenia (EÚ) 2020/1503, čl. 82 ods. 1 nariadenia (EÚ) 2021/23, čl. 49 ods. 1 nariadenia (EÚ) 2023/2631 v platnom znení, čl. 5 až 30 a čl. 45 nariadenia (EÚ) 2022/2554.
 
-- 110n) Napríklad čl. 30 ods. 2 a čl. 31 nariadenia (EÚ) č. 596/2014 v platnom znení, čl. 22 a 23 nariadenia (EÚ) 2015/2365, čl. 42 a 43 nariadenia (EÚ) 2016/1011, čl. 32 ods. 2 a 3 a čl. 33 nariadenia (EÚ) 2017/2402, čl. 39 ods. 2 a čl. 40 nariadenia (EÚ) 2020/1503, čl. 82 ods. 2 nariadenia (EÚ) 2021/23, čl. 49 ods. 4 nariadenia (EÚ) 2023/2631 v platnom znení.
+- 110n) Napríklad čl. 30 ods. 2 a čl. 31 nariadenia (EÚ) č. 596/2014 v platnom znení, čl. 22 a 23 nariadenia (EÚ) 2015/2365, čl. 42 a 43 nariadenia (EÚ) 2016/1011, čl. 32 ods. 2 a 3 a čl. 33 nariadenia (EÚ) 2017/2402, čl. 39 ods. 2 a čl. 40 nariadenia (EÚ) 2020/1503, čl. 82 ods. 2 nariadenia (EÚ) 2021/23, čl. 49 ods. 4 nariadenia (EÚ) 2023/2631 v platnom znení, čl. 50 ods. 4 nariadenia (EÚ) 2022/2554.
 
 - 111) Napríklad Obchodný zákonník v znení neskorších predpisov, Občiansky zákonník v znení neskorších predpisov, zákon č. 659/2007 Z. z.
 

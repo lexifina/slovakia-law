@@ -59,3 +59,5 @@ Príloha k zákonu č. 566/2001 Z. z.
   - 28. Delegovaná smernica Komisie (EÚ) 2021/1269 z 21. apríla 2021, ktorou sa mení delegovaná smernica (EÚ) 2017/593, pokiaľ ide o začlenenie faktorov udržateľnosti do povinností v oblasti riadenia produktov (Ú. v. EÚ L 277, 2. 8. 2021).
 
   - 29. Nariadenie Európskeho parlamentu a Rady (EÚ) 2022/858 z 30. mája 2022 o pilotnom režime pre trhové infraštruktúry založené na technológii distribuovanej databázy transakcií a o zmene nariadení (EÚ) č. 600/2014 a (EÚ) č. 909/2014 a smernice 2014/65/EÚ (Ú. v. EÚ L 151, 2. 6. 2022).
+
+  - 30. Smernica Európskeho parlamentu a Rady (EÚ) 2022/2556 zo 14. decembra 2022, ktorou sa menia smernice 2009/65/ES, 2009/138/ES, 2011/61/EÚ, 2013/36/EÚ, 2014/59/EÚ, 2014/65/EÚ, (EÚ) 2015/2366 a (EÚ) 2016/2341, pokiaľ ide o digitálnu prevádzkovú odolnosť finančného sektora (Ú. v. EÚ L 333, 27. 12. 2022).

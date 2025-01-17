@@ -2,11 +2,11 @@
 
 (1) Obchodník s cennými papiermi, ktorý sa zapája do algoritmického obchodovania, je povinný mať zavedené
 
-- a) účinné systémy a opatrenia na kontrolu rizík vhodné na činnosť, ktorú vykonáva, s cieľom zabezpečiť, aby jeho systémy obchodovania boli odolné a mali dostatočnú kapacitu, aby podliehali primeraným prahovým hodnotám obchodovania a limitom a bránili zasielaniu chybných pokynov alebo tomu, aby systém inak fungoval spôsobom, ktorý môže viesť alebo prispieť k narušeniu trhu,
+- a) účinné systémy a opatrenia na kontrolu rizík vhodné na činnosť, ktorú vykonáva, s cieľom zabezpečiť, aby jeho systémy obchodovania boli odolné a mali dostatočnú kapacitu v súlade s požiadavkami podľa osobitného predpisu,<sup>56abaa</sup>) aby podliehali primeraným prahovým hodnotám obchodovania a limitom a bránili zasielaniu chybných pokynov alebo tomu, aby systém inak fungoval spôsobom, ktorý môže viesť alebo prispieť k narušeniu trhu,
 
 - b) účinné systémy a opatrenia na kontrolu rizík s cieľom zabezpečiť, aby sa systémy obchodovania nemohli použiť na žiadny účel, ktorý je v rozpore s osobitným predpisom<sup>110ja</sup>) alebo s pravidlami obchodného miesta, s ktorým je spojený,
 
-- c) účinné opatrenia na zabezpečenie nepretržitosti svojej činnosti na zvládnutie zlyhania jeho systémov obchodovania a musí zabezpečiť, aby jeho systémy boli plne testované a riadne monitorované, aby spĺňali požiadavky ustanovené v tomto odseku.
+- c) účinné opatrenia na zabezpečenie nepretržitosti svojej činnosti na zvládnutie zlyhania jeho systémov obchodovania vrátane politík a plánov nepretržitosti činností v oblasti informačných a komunikačných technológií a plánov reakcie a obnovy vypracovaných v súlade s osobitným predpisom<sup>56abab</sup>) a musí zabezpečiť, aby jeho systémy boli plne testované a riadne monitorované, aby spĺňali požiadavky ustanovené v tomto odseku a akékoľvek osobitné požiadavky podľa osobitného predpisu.<sup>56abac</sup>)
 
 (2) Obchodník s cennými papiermi, ktorý sa zapája do algoritmického obchodovania, je povinný oznámiť túto skutočnosť Národnej banke Slovenska a obchodnému miestu, v ktorom sa zapája do algoritmického obchodovania ako člen alebo účastník obchodného miesta.
 
