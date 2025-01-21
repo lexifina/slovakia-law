@@ -1,0 +1,1 @@
+[ŠTATÚT MEDZINÁRODNÉHO CENTRA PRE REGISTRÁCIU SERIÁLOVÝCH PUBLIKÁCIÍ v Slovenskom jazyku](../assets/a1de3e6dc96efbab7a548e50dd1df4796f0441f21417cd1ef9d96d014f5c9b3a.pdf)
