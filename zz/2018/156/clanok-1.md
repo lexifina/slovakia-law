@@ -278,6 +278,8 @@ Z. z., zákona č. 41/2017 Z. z., zákona č. 257/2017 Z. z., zákona č. 336/20
 
   - „<sup>30ac</sup>) § 2 ods. 30 a 31 zákona č. 576/2004 Z. z. v znení zákona č. 257/2017 Z. z.“.
 
+- 41. § 29 sa vypúšťa.
+
 - 42. Za § 29 sa vkladajú § 29a až 29o, ktoré vrátane nadpisov znejú:
 
 - „Centralizovaný postup klinického skúšania humánneho lieku
@@ -1125,6 +1127,8 @@ Z. z., zákona č. 41/2017 Z. z., zákona č. 257/2017 Z. z., zákona č. 336/20
   - <sup>42al</sup>) Čl. 2 ods. 2 bod 34 nariadenia (EÚ) č. 536/2014.
 
   - <sup>42am</sup>) Čl. 8 ods. 6, čl. 14 ods. 11, čl. 19 ods. 4, čl. 20 ods. 8 a čl. 23 ods. 6 nariadenia (EÚ) č. 536/2014.“.
+
+- 43. § 30 až 44 sa vypúšťajú.
 
 - 44. V § 46 sa odsek 3 dopĺňa písmenom d), ktoré znie:
 
