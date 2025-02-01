@@ -64,8 +64,6 @@
 
 - § 3 a 5 zákona č. 435/2000 Z. z. o námornej plavbe.
 
-- § 6 ods. 3 písm. i) zákona č. 321/2002 Z. z.
-
 - Zákon č. 513/2009 Z. z. o dráhach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 19) Zákon č. 505/2009 Z. z. o akreditácii orgánov posudzovania zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
