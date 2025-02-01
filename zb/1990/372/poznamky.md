@@ -76,6 +76,8 @@
 
 - 8c) Napríklad § 365 Civilného mimosporového poriadku, § 44 ods. 3 písm. c) zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
+- 8d) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 9) Zákon č. 40/1974 Zb. o Zbore národnej bezpečnosti v znení neskorších predpisov.
 
 - 10) Najmä zákon č. 40/1974 Zb.
