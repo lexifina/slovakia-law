@@ -1,6 +1,6 @@
 # § 53a Učiteľské študijné programy a študijné programy zamerané na vychovávateľstvo a neformálne vzdelávanie detí a žiakov
 
-(1) Učiteľský študijný program sa môže uskutočňovať ako bakalársky študijný program, magisterský študijný program alebo študijný program spájajúci prvý stupeň a druhý stupeň. Učiteľský študijný program sa môže uskutočňovať ako profesijne orientovaný študijný program. Učiteľský študijný program sa zameriava na zvládnutie použitia teoretických a didaktických poznatkov pri výkone pracovnej činnosti pedagogického zamestnanca.
+(1) Učiteľský študijný program sa môže uskutočňovať ako bakalársky študijný program, magisterský študijný program alebo študijný program spájajúci prvý stupeň a druhý stupeň. Učiteľský študijný program sa zameriava na zvládnutie použitia teoretických a didaktických poznatkov pri výkone pracovnej činnosti pedagogického zamestnanca.
 
 (2) Aprobáciou učiteľského študijného programu sa označuje získanie spôsobilosti vyučovať príslušné vzdelávacie oblasti alebo príslušné vyučovacie predmety pre vymedzené stupne vzdelávania podľa štátnych vzdelávacích programov pre predprimárne vzdelávanie a základné vzdelávanie alebo získanie spôsobilosti vyučovať príslušné všeobecne vzdelávacie predmety alebo odborné vyučovacie predmety podľa štátneho vzdelávacieho programu pre vzdelávanie v stredných školách.
 

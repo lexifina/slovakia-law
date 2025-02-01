@@ -18,6 +18,8 @@
 
 - 5aa) § 3 ods. 2 a 3 zákona č. 269/2018 Z. z. o zabezpečovaní kvality vysokoškolského vzdelávania a o zmene a doplnení zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 5b) Napríklad zákon č. 150/2013 Z. z. o Štátnom fonde rozvoja bývania v znení neskorších predpisov.
+
 - 6) Napríklad zákon Národnej rady Slovenskej republiky č. 152/1994 Z. z. o sociálnom fonde a o zmene a doplnení zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
 
 - 7) § 28 ods. 3 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
@@ -33,6 +35,8 @@
 - 12) § 659 až 662 Občianskeho zákonníka.
 
 - 13) Napríklad zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov, nariadenie Komisie (ES) č. 800/2008 zo 6. augusta 2008 o vyhlásení určitých kategórií pomoci za zlučiteľné so spoločným trhom podľa článkov 87 a 88 zmluvy (Všeobecné nariadenie o skupinových výnimkách) (Ú. v. EÚ L 214, 9. 8. 2008).
+
+- 14) § 5 ods. 9 zákona č. 176/2004 Z. z. v znení neskorších predpisov.
 
 - 15) § 2 ods. 2 písm. c) Obchodného zákonníka.
 
@@ -69,8 +73,6 @@
 - 25a) § 2 písm. n) zákona č. 595/2003 Z. z. v znení zákona č. 344/2017 Z. z.
 
 - 25b) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
-
-- 25c) § 136 ods. 1 Zákonníka práce.
 
 - 25d) § 20 ods. 1 písm. a) a b) zákona č. 553/2003 Z. z.
 
@@ -152,8 +154,6 @@
 
 - 40e) § 85 ods. 8 Zákonníka práce.
 
-- 41) § 23 ods. 7 zákona č. 269/2018 Z. z.
-
 - 43) § 18 ods. 7 zákona č. 132/2002 Z. z. o vede a technike.
 
 - 44) § 16 ods. 2 písm. b) zákona č. 172/2005 Z. z.
@@ -192,7 +192,7 @@
 
 - 49c) § 29b ods. 6 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
-- 49ca) § 2 ods. 4 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov.
+- 49ca) § 2 ods. 3 písm. a) zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verenej moci a o zmene a doplnení niektorých zákonov v znení zákona č. 302/2023 Z. z.
 
 - 49d) § 60 ods. 3 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 

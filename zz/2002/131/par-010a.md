@@ -10,7 +10,7 @@
 
   - 2. zriadenie, zlúčenie, splynutie, zrušenie, rozdelenie, zmenu názvu alebo zmenu sídla súčasti verejnej vysokej školy,
 
-- c) predkladá ministerstvu školstva na vyjadrenie dlhodobý zámer verejnej vysokej školy pred jeho predložením na vyjadrenie vedeckej rade verejnej vysokej školy a na schválenie akademickému senátu verejnej vysokej školy a správnej rade verejnej vysokej školy,
+- c) predkladá ministerstvu školstva na vyjadrenie dlhodobý zámer verejnej vysokej školy po jeho schválení akademickým senátom verejnej vysokej školy a správnou radou verejnej vysokej školy,
 
 - d) predkladá akademickému senátu verejnej vysokej školy a správnej rade verejnej vysokej školy návrh rozpočtu verejnej vysokej školy a návrh metodiky rozpisu dotácie zo štátneho rozpočtu z kapitoly ministerstva školstva podľa § 89 na súčasti verejnej vysokej školy; tým nie je dotknuté právo odborovej organizácie kolektívne vyjednávať,
 

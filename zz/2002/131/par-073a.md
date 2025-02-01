@@ -12,7 +12,7 @@
 
 (6) Štruktúru, formát a spôsob poskytovania údajov z registra študentov do centrálneho registra študentov a z centrálneho registra študentov do registra študentov určí ministerstvo školstva.
 
-(7) Na účely súvisiace s poskytovaním vzdelávania a s ním súvisiacich služieb vysokej školy študentovi môže vysoká škola využívať údaje z registra študentov v plnom rozsahu a údaje z centrálneho registra študentov týkajúce sa jej študentov a študentov, ktorým poskytuje ubytovanie v študentskom domove; ak ide o študentov inej vysokej školy, ktorým poskytuje ubytovanie v študentskom domove, údaje z centrálneho registra študentov v rozsahu podľa § 73 ods. 4 písm. a), d), e), h), i) a p).
+(7) Na účely súvisiace s poskytovaním vzdelávania a s ním súvisiacich služieb vysokej školy študentovi môže vysoká škola využívať údaje z registra študentov v plnom rozsahu a údaje z centrálneho registra študentov týkajúce sa jej študentov a študentov, ktorým poskytuje ubytovanie v študentskom domove; ak ide o študentov inej vysokej školy, ktorým poskytuje ubytovanie v študentskom domove, údaje z centrálneho registra študentov v rozsahu podľa § 73 ods. 4 písm. a), d), e), h), i) a p). Na účel určenia povinnosti uhradiť školné podľa § 92 môže vysoká škola využívať údaje z centrálneho registra študentov o svojich študentoch, ktoré sa týkajú ich štúdia na inej vysokej škole v Slovenskej republike v rozsahu podľa § 73 ods. 4 písm. a), c), d), h), i) a m).
 
 (8) Ministerstvo obrany môže využívať údaje z centrálneho registra študentov o študentoch vojenských vysokých škôl, ktorí nevykonávajú štátnu službu profesionálnych vojakov, v plnom rozsahu najmä na účely sociálneho poistenia a zdravotného poistenia podľa osobitných predpisov<sup>40c</sup>) a na účely podľa tohto zákona.
 
