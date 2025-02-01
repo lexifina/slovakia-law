@@ -34,6 +34,10 @@
 
 - 5) Napríklad oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 324/1997 Z. z. o uzavretí Zmluvy medzi štátmi, ktoré sú stranami Severoatlantickej zmluvy, a inými štátmi zúčastnenými v Partnerstve za mier vzťahujúcej sa na štatút ich ozbrojených síl v znení ďalších dodatkových protokolov.
 
+- 5a) § 2 ods. 3 písm. p) zákona č. 89/2016 Z. z. o výrobe, označovaní a predaji tabakových výrobkov a súvisiacich výrobkov a o zmene a doplnení niektorých zákonov.
+
+- 5b) § 2 ods. 3 písm. r) zákona č. 89/2016 Z. z. v znení zákona č. 367/2022 Z. z.
+
 - 6) Čl. 1 vykonávacieho nariadenia (EÚ) 2022/1637.
 
 - 7) § 170 ods. 21 zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 221/2019 Z. z.
@@ -97,6 +101,12 @@
 - 13a) § 58 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - § 8a zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 13b) § 2 ods. 1 zákona č. 102/2014 Z. z. o ochrane spotrebiteľa pri predaji tovaru alebo poskytovaní služieb na základe zmluvy uzavretej na diaľku alebo zmluvy uzavretej mimo prevádzkových priestorov predávajúceho a o zmene a doplnení niektorých zákonov.
+
+- 13c) § 126 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
+
+- 13d) Napríklad zákon č. 563/2009 Z. z. v znení neskorších predpisov.
 
 - 14) § 2 ods. 2 písm. f) zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
 
