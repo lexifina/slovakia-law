@@ -60,4 +60,4 @@ Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení zákona č. 350/200
 
 - 4. Prílohy č. 7 a 7a vrátane nadpisov znejú:
 
-- „[Príloha č. 7 a č. 7a k zákonu č. 222/2004 Z. z.](assets/7df9068ab931ea2d0658eac39fb6c3d7ce50eea0b5780c65a276fc72c779fdf5.pdf)“.
+- „[Príloha č. 7 a č. 7a k zákonu č. 222/2004 Z. z.](assets/3a8734d2ff41ecaa2704c402b2776b4bfba140a64bb2245ff6b43875f69cb008.pdf)“.

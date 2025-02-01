@@ -4,6 +4,8 @@ Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zá
 
 - 1. V § 6 ods. 5 časti vety za bodkočiarkou sa za slová „tabakového výrobku“ vkladá čiarka a slová „ktorým je bezdymový tabakový výrobok podľa § 19aa ods. 2 písm. b)“.
 
+- 2. V § 19aa ods. 32 tretej vete sa za slová „s výnimkou podľa“ vkladajú slová „§ 44ai ods. 32 a“.
+
 - 3. V § 44ah sa vypúšťajú slová „§ 19aa ods. 42 až 44 a“.
 
 - 4. V § 44ai ods. 30 sa za slovo „označovanie“ vkladajú slová „spotrebiteľského balenia výrobku, ktorý pozostáva výlučne alebo čiastočne z inej náplne ako tabak, a ktorý nemožno použiť na inhaláciu bez horenia prostredníctvom zahrievacieho zariadenia a možno ho použiť ako žuvací tabak alebo šnupavý tabak, a“.
