@@ -1,0 +1,5 @@
+# § 7c Informačná povinnosť
+
+(1) Inšpektorát práce je pri výkone kontroly nelegálnej práce a nelegálneho zamestnávania povinný informovať štátneho príslušníka tretej krajiny, ktorý bol nelegálne zamestnaný podľa § 2 ods. 3, o jeho práve podať podnet,<sup>25</sup>) ak mu dohodnutá mzda nebola vyplatená, o jeho práve uplatniť si nárok na dohodnutú dlžnú mzdu a o jeho práve na doručenie dlžnej mzdy do krajiny, do ktorej sa vráti alebo bude administratívne vyhostený na náklady právnickej osoby alebo fyzickej osoby, ktorej bola právoplatne uložená pokuta za porušenie zákazu nelegálneho zamestnávania podľa § 2 ods. 3.
+
+(2) Právnická osoba založená alebo zriadená podľa osobitného predpisu,<sup>26</sup>) ktorej cieľom činnosti alebo predmetom činnosti je ochrana práv a záujmov štátnych príslušníkov tretích krajín, môže na základe plnomocenstva zastupovať štátneho príslušníka tretej krajiny v občianskom súdnom konaní vo veci ochrany jeho práv podľa tohto zákona. Ak právnická osoba podľa prvej vety prevezme zastúpenie, poverí svojho člena alebo zamestnanca, aby za zastúpeného v jej mene konal.
