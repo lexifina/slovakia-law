@@ -32,6 +32,6 @@
 
 (8) Inšpektorát práce uloží právnickej osobe alebo fyzickej osobe, ktorá je podnikateľom, za porušenie zákazu prijať prácu alebo službu podľa odseku 5 pokutu od 2 000 eur do 200 000 eur, a ak ide o dve a viac fyzických osôb súčasne, najmenej 5 000 eur.
 
-(9) Pokutu podľa odseku 8 možno uložiť do dvoch rokov odo dňa prerokovania protokolu o výsledku kontroly a najneskôr do troch rokov odo dňa porušenia zákazu.
+(9) Konanie o uloženie pokuty podľa odseku 8 možno začať do šiestich mesiacov odo dňa ukončenia výkonu kontroly, najneskôr do troch rokov odo dňa, keď došlo k porušeniu zákazu.
 
 (10) Pokuta je príjmom štátneho rozpočtu.
