@@ -3792,7 +3792,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 103
 
-  - a) vydanie osvedčenia osobitnej odbornej spôsobilosti operátora amatérskych staníc, rádiotelefonistu leteckej pohyblivej služby alebo operátora plavebnej pohyblivej služby<sup>27e</sup>) | 30 eur
+  - a) vydanie osvedčenia osobitnej odbornej spôsobilosti operátora amatérskych staníc, rádiotelefonistu leteckej pohyblivej služby alebo rádiotelefonistu plavebnej pohyblivej služby<sup>27e</sup>) | 30 eur
 
   - b) vydanie osvedčenia osobitnej odbornej spôsobilosti pre ostatné druhy osvedčení<sup>27e</sup>) | 45 eur
 
@@ -3804,7 +3804,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - f) opakovaná skúška pre vydanie osvedčenia podľa písmena b) | 22 eur
 
-  - g) vyrovnávacia skúška a vydanie osvedčenia osobitnej odbornej spôsobilosti rádiotelefonistu leteckej pohyblivej služby alebo operátora plavebnej pohyblivej služby | 30 eur
+  - g) vyrovnávacia skúška a vydanie osvedčenia osobitnej odbornej spôsobilosti rádiotelefonistu leteckej pohyblivej služby alebo rádiotelefonistu plavebnej pohyblivej služby | 30 eur
 
   - h) vyrovnávacia skúška a vydanie osvedčenia osobitnej odbornej spôsobilosti pre ostatné druhy osvedčení | 45 eur
 
@@ -6911,3 +6911,15 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
     - Podanie žiadosti o certifikáciu služby ...........................................................1 000 eur
 
     - Podanie žiadosti o certifikáciu procesu ........................................................1 000 eur.
+
+  - XXVI. ČASŤ REGULOVANÉ VESMÍRNE AKTIVITY
+
+    - Položka 277
+
+      - a) Vydanie povolenia na vykonávanie regulovanej vesmírnej aktivity .......... 1 000 eur
+
+      - b) Zmena vydaného povolenia okrem zmeny prevádzkovateľa ....................... 400 eur
+
+      - c) Zmena prevádzkovateľa ............................................................................ 600 eur
+
+      - d) Zápis vesmírneho objektu do registra ....................................................... 100 eur.
