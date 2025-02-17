@@ -208,14 +208,6 @@
 
 - 14d) Napríklad zákon č. 461/2003 Z. z. v znení neskorších predpisov.
 
-- 14e) § 3 ods. 2 písm. e) zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení zákona č. 363/2024 Z. z.
-
-- 14f) § 80 ods. 1 písm. l) zákona č. 578/2004 Z. z. v znení zákona č. 363/2024 Z. z.
-
-- 14g) § 14 ods. 1 písm. s) zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení zákona č. 363/2024 Z. z.
-
-- 14h) § 14 ods. 1 písm. t) zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení zákona č. 363/2024 Z. z.
-
 - 15) § 13 ods. 7 zákona č. 362/2011 Z. z. v znení neskorších predpisov.
 
 - 15a) § 13 ods. 6 a § 141 ods. 1 písm. b) zákona č. 362/2011 Z. z. v znení neskorších predpisov.
