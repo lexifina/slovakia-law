@@ -52,6 +52,8 @@
 
 - 12b) § 35 ods. 1 písm. c) zákona č. 131/2002 Z. z. v znení neskorších predpisov.
 
+- 12ba) § 85 ods. 5 druhá veta Zákonníka práce.
+
 - 12c) § 2 písm. j) zákona č. 61/2015 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov.
 
 - 12e) Zákon č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov.
@@ -205,14 +207,6 @@
 - 29c) § 179 až 181 Trestného zákona.
 
 - 30) § 328 až 336 Trestného zákona.
-
-- 30a) § 290a Trestného zákona.
-
-- 30b) § 290b Trestného zákona.
-
-- 30c) § 290c Trestného zákona.
-
-- 30d) § 290d Trestného zákona.
 
 - 31) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
 
@@ -428,14 +422,6 @@
 
 - 55jawl) § 2 ods. 45 zákona č. 576/2004 Z. z. v znení zákona č. 360/2024 Z. z.
 
-- 55jawm) § 14 ods. 1 písm. s) zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení zákona č. 363/2024 Z. z.
-
-- 55jawn) § 12a ods. 19 zákona č. 576/2004 Z. z. v znení zákona č. 363/2024 Z. z.
-
-- 55jawo) § 14 ods. 1 písm. t) zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení zákona č. 363/2024 Z. z.
-
-- 55jawp) § 12a ods. 20 zákona č. 576/2004 Z. z. v znení zákona č. 363/2024 Z. z.
-
 - 55jb) § 73 ods. 2 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 55jc) § 201, 201a, 201b a 202 Trestného zákona.
@@ -503,8 +489,6 @@
 - 58db) § 45 ods. 1 písm. am) a an) zákona č. 576/2004 Z. z. v znení zákona č. 201/2024 Z. z.
 
 - 58e) Zákon č. 362/2011 Z. z.
-
-- 58f) § 3 ods. 2 písm. e) zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení zákona č. 363/2024 Z. z.
 
 - 58g) § 18 ods. 1 zákona č. 576/2004 Z. z. v znení zákona č. 360/2024 Z. z.
 
