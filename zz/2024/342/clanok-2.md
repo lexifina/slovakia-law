@@ -16,6 +16,8 @@ Zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v z
 
 - <sup>13baa</sup>) ktoré je dočasným dokladom o pobyte“ a slovo „dokladu“ sa nahrádza slovom „potvrdenia“.
 
+- 3. V § 36 ods. 2 písm. a) a § 36a ods. 1 písm. a) sa číslo „120“ nahrádza číslom „60“.
+
 - 4. V § 36 sa za odsek 8 vkladá nový odsek 9, ktorý znie:
 
 - „(9)
@@ -34,4 +36,16 @@ Zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v z
 
 - Prechodné ustanovenie k úpravám účinným od 15. decembra 2024
 
-- Platnosť dokladu o tolerovanom pobyte na území Slovenskej republiky s označením „DOČASNÉ ÚTOČISKO“ vydaného do 14. decembra 2024 sa skončí vydaním dokladu o pobyte podľa osobitného predpisu<sup>13bba</sup>) alebo zánikom dočasného útočiska.“.
+- Platnosť dokladu o tolerovanom pobyte na území Slovenskej republiky s označením „DOČASNÉ ÚTOČISKO“ vydaného do 14. decembra 2024 sa skončí vydaním dokladu o pobyte podľa osobitného predpisu<sup>13bba</sup>) alebo zánikom dočasného útočiska.
+
+- § 54k
+
+- Prechodné ustanovenia k úpravám účinným od 1. marca 2025
+
+- (1)
+
+- Odídenec, ktorému bolo prvýkrát poskytnuté dočasné útočisko na území Slovenskej republiky pred 1. marcom 2025, môže byť ubytovaný v azylovom zariadení podľa § 36 ods. 2 písm. a) v znení účinnom do 28. februára 2025.
+
+- (2)
+
+- Na poskytovanie príspevku za ubytovanie odídenca, ktorému bolo prvýkrát poskytnuté dočasné útočisko na území Slovenskej republiky pred 1. marcom 2025, sa vzťahuje § 36a ods. 1 písm. a) v znení účinnom do 28. februára 2025.“.
