@@ -782,6 +782,12 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - Poskytovateľ špecializovanej gynekologickej ambulantnej starostlivosti, ktorý má aspoň jedného kapitovaného poistenca, ktorému poskytuje špecializovanú gynekologickú ambulantnú starostlivosť, sa považuje za poskytovateľa primárnej špecializovanej gynekologickej ambulantnej starostlivosti podľa predpisov účinných od 1. januára 2025.“.
 
+- 50. § 103 sa dopĺňa bodom 7, ktorý znie:
+
+- „7.
+
+- nariadenie vlády Slovenskej republiky č. 11/2022 Z. z., ktorým sa ustanovujú podrobnosti o spôsobe ustanovenia minimálnej siete poskytovateľov všeobecnej ambulantnej starostlivosti.“.
+
 - 51. V prílohe č. 1a tretí bod znie:
 
 - „3.
