@@ -1,6 +1,6 @@
 # § 80b
 
-(1) Ak má zdravotnícky pracovník uvedený v § 80a až 80aw dohodnutý pracovný pomer na kratší pracovný čas, ako je ustanovený týždenný pracovný čas,<sup>60ab</sup>) základná zložka mzdy podľa § 80a zodpovedá dohodnutému kratšiemu pracovnému času.
+(1) Ak má zdravotnícky pracovník uvedený v § 80a až 80aw dohodnutý pracovný pomer na kratší pracovný čas, ako je ustanovený týždenný pracovný čas,<sup>60ab</sup>) základná zložka mzdy podľa § 80a až 80aw zodpovedá dohodnutému kratšiemu pracovnému času, ak v odseku 11 nie je ustanovené inak.
 
 (2) Základná zložka mzdy zdravotníckeho pracovníka uvedeného v § 80a až 80aw nezahŕňa príplatky, iné nárokovateľné zložky mzdy, nenárokovateľné zložky mzdy, mzdu za prácu nadčas a mzdu za neaktívnu časť pracovnej pohotovosti na pracovisku podľa osobitného predpisu.<sup>60ac</sup>)
 
@@ -19,3 +19,9 @@
 (9) Zdravotníckemu pracovníkovi uvedenému v § 80a až § 80aw sa do počtu odpracovaných rokov započíta aj doba výkonu základnej vojenskej služby.
 
 (10) Počet odpracovaných rokov podľa odsekov 5 až 9 je zdravotnícky pracovník povinný preukázať písomným dokladom poskytovateľovi zdravotnej starostlivosti, s ktorým má zdravotnícky pracovník uzatvorený pracovný pomer; to neplatí, ak poskytovateľ zdravotnej starostlivosti, s ktorým má zdravotnícky pracovník uzatvorený pracovný pomer, informáciou o počte odpracovaných rokov disponuje. Zdravotnícky pracovník dokladom preukazujúcim počet odpracovaných rokov preukazuje najmä skutočnosť, že vykonával zdravotnícke povolanie v rozsahu získaného vzdelania a počet odpracovaných rokov výkonu zdravotníckeho povolania. Ak doklad preukazujúci počet odpracovaných rokov nebol vydaný v štátnom jazyku alebo v českom jazyku, zdravotnícky pracovník je povinný ho predložiť spolu s úradne osvedčeným prekladom do štátneho jazyka.
+
+(11) Na lekára a na zubného lekára sa nevzťahuje § 80a ods. 1 a 2, ak majú dohodnutý pracovný pomer na kratší pracovný čas, ako je ustanovený týždenný pracovný čas<sup>60ab</sup>) s menším rozsahom pracovného úväzku ako polovičným a
+
+- a) vykonávajú zdravotnícke povolanie v pracovnoprávnom vzťahu u iného poskytovateľa; to neplatí, ak ide o poskytovateľa, ktorý prevádzkuje zariadenie ústavnej zdravotnej starostlivosti alebo ambulanciu záchrannej zdravotnej služby, alebo
+
+- b) sú štatutárnymi orgánmi alebo členmi štatutárneho orgánu iného poskytovateľa; to neplatí, ak ide o poskytovateľa, ktorý prevádzkuje zariadenie ústavnej zdravotnej starostlivosti alebo ambulanciu záchrannej zdravotnej služby.

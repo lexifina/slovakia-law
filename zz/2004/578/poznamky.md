@@ -412,6 +412,8 @@
 
 - 55jawgb) § 11 ods. 12 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
 
+- 55jawgc) § 12 zákona č. 576/2004 Z. z. v znení zákona č. 361/2024 Z. z.
+
 - 55jawh) § 7 ods. 1 písm. a) bod 1.2. zákona č. 576/2004 Z. z. v znení zákona č. 662/2007 Z. z.
 
 - 55jawi) Vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 10/2014 Z. z. ktorou sa ustanovuje zoznam štatistických výkazov v zdravotníctve, podrobnosti o postupe, metódach, okruhu spravodajských jednotiek a lehotách hlásení v rámci štatistického zisťovania v zdravotníctve a ich charakteristiky v znení vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 94/2018 Z. z.
