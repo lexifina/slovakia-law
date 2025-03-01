@@ -2,7 +2,7 @@
 
 (1) Ministerstvo poskytne príspevok za ubytovanie odídenca (ďalej len „príspevok“) prostredníctvom obce, v ktorej územnom obvode sa poskytuje odídencovi ubytovanie. Príspevok sa poskytne za ubytovanie odídenca
 
-- a) počas 120 dní od prvého poskytnutia dočasného útočiska na území Slovenskej republiky,
+- a) počas 60 dní od prvého poskytnutia dočasného útočiska na území Slovenskej republiky,
 
 - b) ktorý je zraniteľnou osobou podľa odseku 2.
 

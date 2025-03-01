@@ -1,1 +1,1 @@
-Príloha č. 2a k zákonu č. 480/2002 Z. z. [Príloha č. 2a k zákonu č. 480/2002 Z. z.](../assets/e8902474d72c2aedd530e0fb3051eb31d3d18b55cab6f229999502531ef9cc0e.pdf)
+Príloha č. 2a k zákonu č. 480/2002 Z. z. [Príloha č. 2a k zákonu č. 480/2002 Z. z.](../assets/53d8af5262486f699845419374bb921f04490677d6123374f07283a9bd03dd9e.pdf)
