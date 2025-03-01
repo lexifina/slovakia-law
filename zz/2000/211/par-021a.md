@@ -14,6 +14,6 @@
 
 (4) V návrhu musí byť uvedené, kto je postihnutou osobou, koho navrhovateľ označuje za páchateľa a kedy a akým spôsobom priestupok spáchal.
 
-(5) Priestupky podľa tohto zákona prejednáva obvodný úrad.
+(5) Priestupky podľa tohto zákona prejednáva okresný úrad.
 
 (6) Na priestupky a ich prejednávanie sa vzťahuje všeobecný predpis o priestupkoch.<sup>27a</sup>)
