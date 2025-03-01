@@ -22,6 +22,22 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
   - Poznámka pod čiarou k odkazu 58f sa vypúšťa.
 
+- 7. V § 80b ods. 1 sa slová „podľa § 80a“ nahrádzajú slovami „podľa § 80a až 80aw“ a na konci sa bodka nahrádza čiarkou a pripájajú sa tieto slová: „ak v odseku 11 nie je ustanovené inak.“.
+
+- 8. § 80b sa dopĺňa odsekom 11, ktorý znie:
+
+- „(11)
+
+- Na lekára a na zubného lekára sa nevzťahuje § 80a ods. 1 a 2, ak majú dohodnutý pracovný pomer na kratší pracovný čas, ako je ustanovený týždenný pracovný čas<sup>60ab</sup>) s menším rozsahom pracovného úväzku ako polovičným a
+
+- a)
+
+- vykonávajú zdravotnícke povolanie v pracovnoprávnom vzťahu u iného poskytovateľa; to neplatí, ak ide o poskytovateľa, ktorý prevádzkuje zariadenie ústavnej zdravotnej starostlivosti alebo ambulanciu záchrannej zdravotnej služby, alebo
+
+- b)
+
+- sú štatutárnymi orgánmi alebo členmi štatutárneho orgánu iného poskytovateľa; to neplatí, ak ide o poskytovateľa, ktorý prevádzkuje zariadenie ústavnej zdravotnej starostlivosti alebo ambulanciu záchrannej zdravotnej služby.“.
+
 - 9. V § 82 ods. 5 písm. b) sa slová „písm. j) a l)“ nahrádzajú slovami „písm. i)“.
 
 - 10. V § 82 ods. 5 sa vypúšťajú písmená d) a e).
@@ -36,4 +52,24 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - Prechodné ustanovenie k úpravám účinným dňom vyhlásenia
 
-- Poskytovateľ, ktorý prevádzkuje zariadenie ústavnej zdravotnej starostlivosti podľa § 7 ods. 4 písm. a), h) a i) zabezpečí nepretržité poskytovanie zdravotnej starostlivosti spôsobom podľa § 7 ods. 10 v znení účinnom odo dňa nadobudnutia účinnosti tohto zákona od 1. septembra 2025.“.
+- Poskytovateľ, ktorý prevádzkuje zariadenie ústavnej zdravotnej starostlivosti podľa § 7 ods. 4 písm. a), h) a i) zabezpečí nepretržité poskytovanie zdravotnej starostlivosti spôsobom podľa § 7 ods. 10 v znení účinnom odo dňa nadobudnutia účinnosti tohto zákona od 1. septembra 2025.
+
+- § 102bb
+
+- Prechodné ustanovenia k úpravám účinným od 1. marca 2025
+
+- (1)
+
+- Od 1. marca 2025 do 31. decembra 2025 základná zložka mzdy lekára a zubného lekára podľa § 80b ods. 11, ktorý získal odbornú spôsobilosť na výkon
+
+- a)
+
+- odborných pracovných činností (§ 33 ods. 2) a vykonáva odborné pracovné činnosti v rozsahu získaného vzdelania, je najmenej 1,4544-násobok priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa priznáva základná zložka mzdy,
+
+- b)
+
+- špecializovaných pracovných činností (§ 33 ods. 5) v špecializačnom odbore a vykonáva špecializované pracovné činnosti v príslušnom špecializačnom odbore, je najmenej 2,4240-násobok priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa priznáva základná zložka mzdy.
+
+- (2)
+
+- Ak lekár a zubný lekár, ktorí majú dohodnutý pracovný pomer na kratší pracovný čas, ako je ustanovený pracovný čas<sup>60ab</sup>) s menším rozsahom úväzku ako polovičným, spĺňajú podmienku podľa § 80b ods. 11 písm. a) alebo písm. b), predložia o tom do 15. marca 2025 poskytovateľovi, s ktorým majú uzatvorený pracovný pomer, písomné čestné vyhlásenie. Ak lekár a zubný lekár podľa prvej vety nespĺňajú podmienku podľa § 80b ods. 11 písm. a) alebo písm. b), predložia o tom do 15. marca 2025 poskytovateľovi, s ktorým majú uzatvorený pracovný pomer, písomné čestné vyhlásenie.“.
