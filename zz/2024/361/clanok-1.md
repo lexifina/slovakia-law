@@ -1920,11 +1920,37 @@ Zákon č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o z
 
 - Okruh dotknutých osôb
 
-- Osoba, ktorá uzatvára dohodu o poskytovaní zdravotnej starostlivosti, alebo v mene ktorej je uzatváraná dohoda o poskytovaní zdravotnej starostlivosti; zákonný zástupca osoby, v mene ktorej sa uzatvára dohoda o poskytovaní zdravotnej starostlivosti, zdravotnícky pracovník.“.
+- Osoba, ktorá uzatvára dohodu o poskytovaní zdravotnej starostlivosti, alebo v mene ktorej je uzatváraná dohoda o poskytovaní zdravotnej starostlivosti; zákonný zástupca osoby, v mene ktorej sa uzatvára dohoda o poskytovaní zdravotnej starostlivosti, zdravotnícky pracovník.
+
+- d)
+
+- Tretie strany, rozsah a účel poskytovania osobných údajov
+
+- 1.
+
+- Osobné údaje v rozsahu podľa písmena a) sa poskytujú zdravotným poisťovniam na účely evidencie aktuálnych údajov o dohodách medzi poskytovateľom zdravotnej starostlivosti a prijímateľom zdravotnej starostlivosti.
+
+- 2.
+
+- Osobné údaje v rozsahu podľa písmena a) sa poskytujú poskytovateľovi zdravotnej starostlivosti na účely rozhodovania o vytvorení novej dohody o poskytovaní zdravotnej starostlivosti a evidencie aktuálnych údajov o dohodách medzi poskytovateľom zdravotnej starostlivosti a prijímateľom zdravotnej starostlivosti.
+
+- 3.
+
+- Osobné údaje v rozsahu podľa písmena a) sa poskytujú úradu pre dohľad na účely evidencie aktuálnych údajov o dohodách medzi poskytovateľom zdravotnej starostlivosti a prijímateľom zdravotnej starostlivosti.
+
+- 4.
+
+- Osobné údaje v rozsahu podľa písmena a) sa poskytujú Policajnému zboru,<sup>15ga</sup>) Vojenskej polícii,<sup>15gb</sup>) Zboru väzenskej a justičnej stráže,<sup>15gc</sup>) Finančnej správe,<sup>15gd</sup>) prokuratúre<sup>15ge</sup>) a súdom<sup>15gf</sup>) na účely predchádzania a odhaľovania trestnej činnosti, zisťovania páchateľov trestných činov, vyšetrovaní trestných činov, stíhania trestných činov alebo na účely výkonu rozhodnutí v trestnom konaní vrátane ochrany pred ohrozením verejného poriadku a predchádzania takémuto ohrozeniu.
+
+- 6.
+
+- Osobné údaje v rozsahu podľa písmena a) prvého a štvrtého bodu sa poskytujú Ústrediu práce, sociálnych vecí a rodiny za účelom rozhodovania o nároku na príspevok pri narodení dieťaťa a na príspevok na viac súčasne narodených detí podľa osobitného predpisu.<sup>89</sup>).“.
 
   - Poznámky pod čiarou k odkazom 87 až 89 znejú:
 
-  - „<sup>87</sup>) Vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 107/2015 Z. z., ktorou sa ustanovujú štandardy zdravotníckej informatiky a lehoty poskytovania údajov.“.
+  - „<sup>87</sup>) Vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 107/2015 Z. z., ktorou sa ustanovujú štandardy zdravotníckej informatiky a lehoty poskytovania údajov.
+
+  - <sup>89</sup>) § 2 ods. 4 a § 3 ods. 3 písm. a) zákona č. 383/2013 Z. z. v znení zákona č. 310/2021 Z. z.“.
 
 - 79. Príloha č. 2 vrátane nadpisu znie:
 

@@ -48,6 +48,12 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
   - <sup>55jawgb</sup>) § 11 ods. 12 zákona č. 576/2004 Z. z. v znení neskorších predpisov.“.
 
+- 4. V § 79 ods. 1 písm. bk) sa za slovo „dorast“ vkladajú slová „a ak údaje z dohody o poskytovaní všeobecnej ambulantnej starostlivosti neboli zapísané do registra dohôd podľa osobitného predpisu<sup>55jawgc</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 55jawgc znie:
+
+  - „<sup>55jawgc</sup>) § 12 zákona č. 576/2004 Z. z. v znení zákona č. 361/2024 Z. z.“.
+
 - 5. V § 79 ods. 3 písm. e) sa slová „zk) až zm)“ nahrádzajú slovami „zk), zl)“.
 
 - 6. V § 80 ods. 1 písm. i) sa slovo „autentizáciu“ nahrádza slovom „autentifikáciu“.
