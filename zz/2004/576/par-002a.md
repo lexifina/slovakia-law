@@ -26,6 +26,6 @@
 
 - d) poskytovateľ ambulantnej zdravotnej starostlivosti nie je registrovaný v informačnom systéme na objednávanie osôb prevádzkovanom národným centrom zdravotníckych informácií.
 
-(5) Na vyšetrenie v doplnkových ordinačných hodinách poskytovateľa všeobecnej ambulantnej starostlivosti môže byť objednaná a v doplnkových ordinačných hodinách poskytovateľa všeobecnej ambulantnej starostlivosti môže byť vyšetrená len osoba, ktorá má s týmto poskytovateľom uzatvorenú dohodu o poskytovaní všeobecnej ambulantnej starostlivosti podľa § 12 ods. 7.
+(5) Na vyšetrenie v doplnkových ordinačných hodinách poskytovateľa všeobecnej ambulantnej starostlivosti môže byť objednaná a v doplnkových ordinačných hodinách poskytovateľa všeobecnej ambulantnej starostlivosti môže byť vyšetrená len osoba, ktorá má s týmto poskytovateľom uzatvorenú dohodu o poskytovaní všeobecnej ambulantnej starostlivosti podľa § 12 ods. 5.
 
 (6) Poskytovateľ zdravotnej starostlivosti, ktorý má určené doplnkové ordinačné hodiny, musí spolu s ordinačnými hodinami umiestniť na viditeľnom mieste aj nápis „DOPLNKOVÉ ORDINAČNÉ HODINY“ pre doplnkové ordinačné hodiny.

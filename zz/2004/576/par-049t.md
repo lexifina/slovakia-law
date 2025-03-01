@@ -1,0 +1,3 @@
+# § 49t Prechodné ustanovenia k úpravám účinným od 1. marca 2025
+
+Poskytovateľ všeobecnej ambulantnej starostlivosti a poskytovateľ primárnej špecializovanej gynekologickej ambulantnej starostlivosti je povinný údaje z dohody o poskytovaní zdravotnej starostlivosti uzatvorenej podľa právnych predpisov účinných do 28. februára 2025, ktoré nie sú zapísané v registri dohôd,<sup>58</sup>) zapísať do registra dohôd podľa § 12 ods. 4 do 15. marca 2025; ak poskytovateľ v tejto lehote údaje z dohody o poskytovaní zdravotnej starostlivosti do registra dohôd nezapíše, je povinný pri prvej návšteve osoby uzatvoriť s osobou novú dohodu, ktorá sa zapisuje do registra dohôd, podľa § 12 ods. 5.

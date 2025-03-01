@@ -192,15 +192,27 @@
 
 - 14aaaa) § 6 zákona č. 231/2019 Z. z.
 
-- 14aab) § 2 písm. j) a § 29 zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+- 14aab) § 2 ods. 15 zákona č. 153/2013 Z. z. v znení zákona č. 361/2024 Z. z.
 
-- 14aac) § 30 ods. 1 a § 31 ods. 3 zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+- 14aac) Čl. 26 nariadenia Európskeho parlamentu a Rady (ES) č. 987/2009 zo 16. septembra 2009, ktorým sa stanovuje postup vykonávania nariadenia (ES) č. 883/2004 o koordinácii systémov sociálneho zabezpečenia (Ú. v. EÚ L 284, 30. 10. 2009) v platnom znení.
 
-- 14aad) Zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 14aca) § 102 ods. 1 a § 106 ods. 2 Trestného zákona.
 
-- 14aae) § 58 ods. 1 písm. c), § 58 ods. 3 zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 14ae) § 2 ods. 11 zákona č. 153/2013 Z. z. v znení neskorších predpisov.
 
-- 14aca) Napríklad § 365 a 367 Civilného mimosporového poriadku, § 37 ods. 3 a § 54 zákona č. 36/2005 Z. z. v znení zákona č. 175/2015 Z. z., zákon č. 245/2008 Z. z. v znení neskorších predpisov, zákon č. 231/2019 Z. z. v znení zákona č. 390/2022 Z. z., § 45 zákona č. 305/2005 Z. z. v znení neskorších predpisov.
+- 14af) § 2 ods. 10 zákona č. 153/2013 Z. z. v znení neskorších predpisov.
+
+- 14ag) § 2 ods. 13 zákona č. 153/2013 Z. z. v znení neskorších predpisov.
+
+- 14ah) Zákon č. 395/2019 Z. z. o občianskych preukazoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 14ai) Zákon č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 14aj) § 3 písm. o) zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
+
+- 14ak) § 20 ods. 1 písm. e) prvý bod zákona č. 581/2004 Z. z. v znení neskorších predpisov.
+
+- 14an) § 19 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
 - 14b) § 9f zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
 
@@ -479,3 +491,5 @@
 - 56) § 38 ods. 1 zákona č. 578/2004 Z. z.
 
 - 57) § 6 zákona č. 406/2011 Z. z. o dobrovoľníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 440/2015 Z. z.
+
+- 58) § 3 ods. 1 písm. j) zákona č. 153/2013 Z. z. v znení zákona č. 361/2024 Z. z.
