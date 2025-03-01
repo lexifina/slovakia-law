@@ -1,0 +1,1 @@
+Príloha k vyhláške č. 27/2025 Z. z. [Hodnoty výstrojných súčastí, ktoré tvoria hodnotu služobnej rovnošaty a jej súčastí](../assets/68fbf41d8377de60b02e2007e5fba622ec1fc7161f2de9f0fcc9e6e86385b792.pdf)
