@@ -1,6 +1,6 @@
 # § 140d Preskúmanie spôsobilosti stavby na užívanie
 
-(1) Stavebný úrad na žiadosť vlastníka stavby preskúma spôsobilosť stavby na užívanie, ak ide o stavbu zhotovenú a užívanú bez povolenia stavebného úradu alebo v rozpore s ním od 1. januára 1990 do 31. marca 2024 a vlastník stavby preukáže, že
+(1) Stavebný úrad na žiadosť vlastníka stavby preskúma spôsobilosť stavby na užívanie, ak ide o stavbu zhotovenú a užívanú bez povolenia stavebného úradu alebo v rozpore s ním od 1. januára 1990 do 31. marca 2025 a vlastník stavby preukáže, že
 
 - a) stavba svojím stavebnotechnickým stavom a vybavením zodpovedá základným požiadavkám na stavby a účelu, na ktorý ju vlastník nepretržite bez nedostatkov užíva, a stavebný úrad v konaní zistí, že stavba neohrozuje život,
 
@@ -20,9 +20,9 @@
 
 - c) na základe obhliadky vykonanej stavebným úradom, stavba neohrozuje život a stavba sa nenachádza pod elektrickým vedením alebo v jeho ochrannom pásme, alebo v ochrannom pásme, alebo bezpečnostnom pásme plynárenského zariadenia, alebo že prevádzkovateľ dopravnej infraštruktúry alebo technickej infraštruktúry, v ktorej ochrannom pásme alebo bezpečnostnom pásme sa stavba nachádza, s jej umiestnením v ochrannom pásme alebo bezpečnostnom pásme súhlasí.
 
-(3) Vlastník stavby môže podať žiadosť o preskúmanie spôsobilosti stavby na užívanie podľa odsekov 1 a 2 do 31. marca 2029. Žiadosť o preskúmanie nie je možné podať, ak sa začalo konanie o odstránení stavby podľa § 88a.
+(3) Vlastník stavby môže podať žiadosť o preskúmanie spôsobilosti stavby na užívanie podľa odsekov 1 a 2 do 31. marca 2029.
 
-(4) Prílohou žiadosti o preskúmanie spôsobilosti stavby na užívanie je dokumentácia potvrdzujúca skutočnosti podľa odseku 1 alebo odseku 2 vrátane záväzných stanovísk dotknutých orgánov. Stavebný úrad môže určiť, že pre posúdenie spôsobilosti stavby na užívanie postačuje dokumentácia stavby v rozsahu § 104 ods. 2.
+(4) Prílohou žiadosti o preskúmanie spôsobilosti stavby na užívanie je dokumentácia potvrdzujúca skutočnosti podľa odseku 1 alebo odseku 2 vrátane záväzných stanovísk dotknutých orgánov. Stavebný úrad môže určiť, že pre posúdenie spôsobilosti stavby na užívanie postačuje dokumentácia stavby v rozsahu § 104 ods. 2. Záväzné stanoviská dotknutých orgánov vlastník stavby nepredkladá, ak skutočnosti podľa odseku 1 alebo 2 preukázal v konaní o dodatočnom povolení stavby.
 
 (5) Ak vlastník stavby preukáže splnenie podmienok podľa odseku 1 alebo odseku 2, stavebný úrad vydá rozhodnutie, ktorým potvrdí spôsobilosť stavby na užívanie. Na konanie o preskúmaní spôsobilosti stavby na užívanie sa primerane vzťahujú ustanovenia o kolaudácii stavieb. Rozhodnutie o spôsobilosti stavby na užívanie má účinky kolaudačného rozhodnutia.
 

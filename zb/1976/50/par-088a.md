@@ -1,6 +1,6 @@
 # § 88a Konanie o dodatočnom povolení stavby
 
-(1) Ak stavebný úrad zistí, že stavba bola postavená bez stavebného povolenia alebo v rozpore s ním, začne z vlastného podnetu konanie o odstránení stavby pričom je povinný posúdiť možnosť dodatočného povolenia stavby. Stavebný úrad vyzve vlastníka stavby, aby v určenej lehote, ktorá nesmie byť kratšia ako 60 dní, predložil žiadosť o dodatočné povolenie stavby a doklady o tom, že dodatočné povolenie nie je v rozpore s verejnými záujmami chránenými týmto zákonom, najmä s cieľmi a zámermi územného plánovania a osobitnými predpismi. Ak bola stavba začatá bez právoplatného stavebného povolenia, ktoré už bolo vydané, stavebný úrad posúdi súlad stavby s verejnými záujmami na základe záväzných stanovísk podľa § 140b a podkladov predložených v stavebnom konaní.
+(1) Ak stavebný úrad zistí, že stavba bola postavená bez stavebného povolenia alebo v rozpore s ním, začne z vlastného podnetu konanie o odstránení stavby pričom je povinný posúdiť možnosť preskúmania spôsobilosti stavby na užívanie, ak je stavba dokončená, alebo možnosť dodatočného povolenia stavby. Stavebný úrad vyzve vlastníka stavby, aby v určenej lehote, ktorá nesmie byť kratšia ako 60 dní, predložil žiadosť o preskúmanie spôsobilosti stavby na užívanie spolu s dokladmi podľa § 140d alebo žiadosť o dodatočné povolenie stavby a doklady o tom, že dodatočné povolenie nie je v rozpore s verejnými záujmami chránenými týmto zákonom, najmä s cieľmi a zámermi územného plánovania a osobitnými predpismi. Ak bola stavba začatá bez právoplatného stavebného povolenia, ktoré už bolo vydané, stavebný úrad posúdi súlad stavby s verejnými záujmami na základe záväzných stanovísk podľa § 140b a podkladov predložených v stavebnom konaní.
 
 (2) Ak vlastník stavby žiadosť o dodatočné povolenie stavby a požadované doklady nepredloží v určenej lehote alebo ak sa na ich podklade preukáže rozpor stavby s verejným záujmom, stavebný úrad nariadi odstránenie stavby.
 
@@ -24,4 +24,4 @@
 
 (10) Podľa odsekov 1 až 9 sa postupuje aj pri neohlásenej jednoduchej stavbe alebo jej zmene, ak bola určená na ohlásenie podľa § 55 ods. 2 písm. a).
 
-(11) S konaním o dodatočnom povolení stavby, ktorá je už dokončená, môže stavebný úrad spojiť kolaudačné konanie.
+(11) Ak sa v konaní o dodatočnom povolení stavby zistí, že stavba je dokončená a vlastník stavby podá žiadosť o preskúmanie spôsobilosti stavby na užívanie, stavebný úrad konanie o dodatočnom povolení stavby zastaví.
