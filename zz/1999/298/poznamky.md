@@ -22,7 +22,9 @@
 
 - 12) Napríklad zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
-- 13) Napríklad zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov, zákon č. 138/1973 Zb. o vodách (vodný zákon) v znení neskorších predpisov, zákon č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení zákona č. 498/1991 Zb., zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z., zákon č. 135/1961 Zb. o pozemných komunikáciách v znení neskorších predpisov.
+- 12a) § 21 Stavebného zákona.
+
+- 13) Napríklad zákon č. 138/1973 Zb. o vodách (vodný zákon) v znení neskorších predpisov, zákon č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení zákona č. 498/1991 Zb., zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z., zákon č. 135/1961 Zb. o pozemných komunikáciách v znení neskorších predpisov.
 
 - 14) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
