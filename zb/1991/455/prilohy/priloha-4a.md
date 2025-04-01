@@ -46,102 +46,100 @@ Príloha č. 4a k zákonu č. 455/1991 Zb.
 
 - 22. | Podnikanie v oblasti nakladania s iným ako nebezpečným odpadom
 
-- 23. | Uskutočňovanie stavieb a ich zmien
+- 23. | Prípravné práce k realizácii stavby
 
-- 24. | Prípravné práce k realizácii stavby
+- 24. | Dokončovacie stavebné práce pri realizácii exteriérov a interiérov
 
-- 25. | Dokončovacie stavebné práce pri realizácii exteriérov a interiérov
+- 25. | Údržba motorových vozidiel bez zásahu do motorickej časti vozidla
 
-- 26. | Údržba motorových vozidiel bez zásahu do motorickej časti vozidla
+- 26. | Sprostredkovateľská činnosť v oblasti obchodu, služieb a výroby
 
-- 27. | Sprostredkovateľská činnosť v oblasti obchodu, služieb a výroby
+- 27. | Kúpa tovaru na účely jeho predaja konečnému spotrebiteľovi (maloobchod) alebo iným prevádzkovateľom živnosti (veľkoobchod)
 
-- 28. | Kúpa tovaru na účely jeho predaja konečnému spotrebiteľovi (maloobchod) alebo iným prevádzkovateľom živnosti (veľkoobchod)
+- 28. | Záložne
 
-- 29. | Záložne
+- 29. | Nákup, predaj alebo preprava zbraní a streliva
 
-- 30. | Nákup, predaj alebo preprava zbraní a streliva
+- 30. | Vypožičiavanie, prenájom a úschova zbraní a streliva
 
-- 31. | Vypožičiavanie, prenájom a úschova zbraní a streliva
+- 31. | Nákladná cestná doprava vykonávaná vozidlami s celkovou hmotnosťou do 3,5 t vrátane prípojného vozidla
 
-- 32. | Nákladná cestná doprava vykonávaná vozidlami s celkovou hmotnosťou do 3,5 t vrátane prípojného vozidla
+- 32. | Prevádzka malých plavidiel
 
-- 33. | Prevádzka malých plavidiel
+- 33. | Skladové, pomocné a prepravné služby v doprave
 
-- 34. | Skladové, pomocné a prepravné služby v doprave
+- 34. | Ubytovacie služby s poskytovaním prípravy a predaja jedál, nápojov a polotovarov ubytovaným hosťom v ubytovacích zariadeniach s kapacitou do 10 lôžok
 
-- 35. | Ubytovacie služby s poskytovaním prípravy a predaja jedál, nápojov a polotovarov ubytovaným hosťom v ubytovacích zariadeniach s kapacitou do 10 lôžok
+- 35. | Ubytovacie služby bez poskytovania pohostinských činností
 
-- 36. | Ubytovacie služby bez poskytovania pohostinských činností
+- 36. | Poskytovanie služieb rýchleho občerstvenia v spojení s predajom na priamu konzumáciu, prevádzkovanie výdajne stravy
 
-- 37. | Poskytovanie služieb rýchleho občerstvenia v spojení s predajom na priamu konzumáciu, prevádzkovanie výdajne stravy
+- 37. | Vydavateľská činnosť, polygrafická výroba a knihárske práce
 
-- 38. | Vydavateľská činnosť, polygrafická výroba a knihárske práce
+- 38. | Služby súvisiace s produkciou filmov, videozáznamov a zvukových nahrávok
 
-- 39. | Služby súvisiace s produkciou filmov, videozáznamov a zvukových nahrávok
+- 39. | Počítačové služby a služby súvisiace s počítačovým spracovaním údajov
 
-- 40. | Počítačové služby a služby súvisiace s počítačovým spracovaním údajov
+- 40. | Služby v oblasti administratívnej správy a služby organizačno-hospodárskej povahy
 
-- 41. | Služby v oblasti administratívnej správy a služby organizačno-hospodárskej povahy
+- 41. | Správa registratúrnych záznamov bez trvalej dokumentárnej hodnoty
 
-- 42. | Správa registratúrnych záznamov bez trvalej dokumentárnej hodnoty
+- 42. | Verejné obstarávanie
 
-- 43. | Verejné obstarávanie
+- 44. | Finančný lízing
 
-- 45. | Finančný lízing
+- 45. | Faktoring a forfaiting
 
-- 46. | Faktoring a forfaiting
+- 46. | Poskytovanie záruk na zabezpečenie colného dlhu
 
-- 47. | Poskytovanie záruk na zabezpečenie colného dlhu
+- 47. | Poskytovanie úverov alebo pôžičiek z peňažných zdrojov získaných výlučne bez verejnej výzvy a bez verejnej ponuky majetkových hodnôt
 
-- 48. | Poskytovanie úverov alebo pôžičiek z peňažných zdrojov získaných výlučne bez verejnej výzvy a bez verejnej ponuky majetkových hodnôt
+- 48. | Sprostredkovanie poskytovania úverov alebo pôžičiek z peňažných zdrojov získaných výlučne bez verejnej výzvy a bez verejnej ponuky majetkových hodnôt
 
-- 49. | Sprostredkovanie poskytovania úverov alebo pôžičiek z peňažných zdrojov získaných výlučne bez verejnej výzvy a bez verejnej ponuky majetkových hodnôt
+- 49. | Prenájom nehnuteľností spojený s poskytovaním iných než základných služieb spojených s prenájmom
 
-- 50. | Prenájom nehnuteľností spojený s poskytovaním iných než základných služieb spojených s prenájmom
+- 50. | Správa a údržba bytového a nebytového fondu v rozsahu voľných živností
 
-- 51. | Správa a údržba bytového a nebytového fondu v rozsahu voľných živností
+- 51. | Činnosť podnikateľských, organizačných a ekonomických poradcov
 
-- 52. | Činnosť podnikateľských, organizačných a ekonomických poradcov
+- 52. | Inžinierske činnosti, technické testovanie a analýzy
 
-- 53. | Inžinierske činnosti, technické testovanie a analýzy
+- 53. | Výskum a vývoj v oblasti prírodných, technických, spoločenských a humanitných vied
 
-- 54. | Výskum a vývoj v oblasti prírodných, technických, spoločenských a humanitných vied
+- 54. | Reklamné, marketingové, fotografické a informačné služby, prieskum trhu a verejnej mienky
 
-- 55. | Reklamné, marketingové, fotografické a informačné služby, prieskum trhu a verejnej mienky
+- 55. | Špecialista na prevenciu závažných priemyselných havárií
 
-- 56. | Špecialista na prevenciu závažných priemyselných havárií
+- 56. | Vykonávanie hodnotenia rizík, vypracúvanie a aktualizovanie bezpečnostnej správy a havarijného plánu, konzultačná a poradenská činnosť v určených oblastiach na úseku prevencie závažných priemyselných havárií
 
-- 57. | Vykonávanie hodnotenia rizík, vypracúvanie a aktualizovanie bezpečnostnej správy a havarijného plánu, konzultačná a poradenská činnosť v určených oblastiach na úseku prevencie závažných priemyselných havárií
+- 57. | Prenájom, úschova a požičiavanie hnuteľných vecí
 
-- 58. | Prenájom, úschova a požičiavanie hnuteľných vecí
+- 58. | Čistiace a upratovacie služby
 
-- 59. | Čistiace a upratovacie služby
+- 59. | Prevádzkovanie čistiarne a práčovne
 
-- 60. | Prevádzkovanie čistiarne a práčovne
+- 60. | Činnosti na úseku požiarnej ochrany v rozsahu servis, oprava, kontrola, plnenie hasiacich prístrojov, požiarnych/požiarnotechnických zariadení
 
-- 61. | Činnosti na úseku požiarnej ochrany v rozsahu servis, oprava, kontrola, plnenie hasiacich prístrojov, požiarnych/požiarnotechnických zariadení
+- 61. | Mimoškolská vzdelávacia činnosť
 
-- 62. | Mimoškolská vzdelávacia činnosť
+- 62. | Prevádzkovanie jaslí
 
-- 63. | Prevádzkovanie jaslí
+- 63. | Vykonávanie odbornej prípravy na úseku prevencie závažných priemyselných havárií
 
-- 64. | Vykonávanie odbornej prípravy na úseku prevencie závažných priemyselných havárií
+- 64. | Odborná príprava v oblasti environmentálneho manažérstva a auditu
 
-- 65. | Odborná príprava v oblasti environmentálneho manažérstva a auditu
+- 65. | Prevádzkovanie vodnej záchrannej služby
 
-- 66. | Prevádzkovanie vodnej záchrannej služby
+- 66. | Poskytovanie sociálnych služieb
 
-- 67. | Poskytovanie sociálnych služieb
+- 67. | Prevádzkovanie kultúrnych, spoločenských, zábavných, športových zariadení a zariadení slúžiacich na regeneráciu a rekondíciu
 
-- 68. | Prevádzkovanie kultúrnych, spoločenských, zábavných, športových zariadení a zariadení slúžiacich na regeneráciu a rekondíciu
+- 68. | Organizovanie športových, kultúrnych a iných spoločenských podujatí
 
-- 69. | Organizovanie športových, kultúrnych a iných spoločenských podujatí
+- 69. | Oprava osobných potrieb a potrieb pre domácnosť
 
-- 70. | Oprava osobných potrieb a potrieb pre domácnosť
+- 70. | Služby súvisiace so skrášľovaním tela
 
-- 71. | Služby súvisiace so skrášľovaním tela
+- 71. | Poskytovanie služieb osobného charakteru
 
-- 72. | Poskytovanie služieb osobného charakteru
-
-- 73. | Pravidelná kontrola detského ihriska
+- 72. | Pravidelná kontrola detského ihriska
