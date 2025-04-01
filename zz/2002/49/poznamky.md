@@ -44,7 +44,9 @@
 
 - 20) § 606 Občianskeho zákonníka.
 
-- 21) Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+- 21) Zákon č. 200/2022 Z. z. o územnom plánovaní v znení neskorších predpisov.
+
+- Stavebný zákon.
 
 - 21a) § 18 zákona č. 200/2022 Z. z. v znení zákona č. 205/2023 Z. z.
 
@@ -70,25 +72,15 @@
 
 - 29) § 420a Občianskeho zákonníka.
 
-- 29a) § 140a ods. 1 písm. a) zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
+- 29a) § 21 Stavebného zákona.
+
+- 29aa) § 21 ods. 9 Stavebného zákona.
 
 - 29b) § 7 zákona Slovenskej národnej rady č. 4/1958 Zb. o ľudovej umeleckej výrobe a umeleckých remeslách.
 
 - 31) Zákon Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení zákona č. 236/2000 Z. z.
 
-- 31a) Piata časť zákona č. 50/1976 Zb. v znení neskorších predpisov.
-
-- 31aa) § 94 zákona č. 50/1976 Zb. v znení neskorších predpisov.
-
-- 31ab) § 87 zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
-
-- 31b) § 140b zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
-
-- 32) § 102 zákona č. 50/1976 Zb. v znení neskorších predpisov.
-
 - 33) Zákon Národnej rady Slovenskej republiky č. 200/1994 Z. z. o Komore reštaurátorov a o výkone reštaurátorskej činnosti jej členov v znení neskorších predpisov.
-
-- 35) § 95 zákona č. 50/1976 Zb. v znení zákona č. 229/1997 Z. z.
 
 - 36) § 4 ods. 1 písm. d) a § 5 ods. 2 písm. c) a d) zákona č. 231/1999 Z. z.
 
@@ -96,7 +88,7 @@
 
 - 36b) Napríklad zákon č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení neskorších predpisov, zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, zákon č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov.
 
-- 37) § 127 zákona č. 50/1976 Zb. v znení zákona č. 229/1997 Z. z.
+- 37) § 44 Stavebného zákona.
 
 - 37a) § 3 ods. 3 zákona č. 206/2009 Z. z.
 
