@@ -22,7 +22,7 @@
 
 - 2b) § 4 ods. 1 zákona č. 184/1999 Z. z. o používaní jazykov národnostných menšín.
 
-- 2c) § 43a ods. 2 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 237/2000 Z. z.
+- 2c) § 3 Stavebného zákona.
 
 - 3) § 3 zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
 
