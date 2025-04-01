@@ -1,0 +1,1 @@
+Príloha k zákonu č. 298/1999 Z. z. [Vzor - Preukaz na výkon prác súvisiacich so správou štátnych hraníc a na vstup a vjazd na cudzie nehnuteľnosti nachádzajúce sa na štátnych hraniciach alebo v ich bezprostrednej blízkosti](../assets/86c0fb7be3eb23bfe018fa9fac9ce6e59d9ad355a79434292cfb55aaf437280a.pdf)
