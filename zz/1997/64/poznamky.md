@@ -10,7 +10,9 @@
 
 - 7) § 2 nariadenia vlády Slovenskej republiky č. 208/1994 Z. z.
 
-- 8) § 54 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon).
+- 8) § 60 Stavebného zákona.
+
+- 8a) § 63 a 64 Stavebného zákona.
 
 - 9) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku v znení neskorších predpisov.
 
@@ -41,8 +43,6 @@
 - 25) § 12 ods. 2 písm. b) druhý bod zákona Slovenskej národnej rady č. 330/1991 Zb.
 
 - 26) § 35 ods. 2 písm. c) zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).
-
-- 27) § 40 zákona č. 50/1976 Zb.
 
 - 28) Zákon Slovenskej národnej rady č. 330/1991 Zb.
 
