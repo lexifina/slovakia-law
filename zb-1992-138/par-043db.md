@@ -1,0 +1,3 @@
+# § 43db Prechodné ustanovenie účinné po vystúpení Spojeného kráľovstva Veľkej Británie a Severného Írska z Európskej únie
+
+V konaní podľa § 15, § 15a, § 16, § 16c, § 17, § 17a a § 39a začatom pred vystúpením Spojeného kráľovstva Veľkej Británie a Severného Írska (ďalej len „Spojené kráľovstvo“) z Európskej únie, ktoré nebolo právoplatne skončené alebo začatom po vystúpení Spojeného kráľovstva z Európskej únie do 31. decembra 2020, sa občan Spojeného kráľovstva považuje za občana Európskej únie a Spojené kráľovstvo sa považuje za členský štát Európskej únie, ak dňom jeho vystúpenia z Európskej únie nevstúpi do platnosti dohoda o podmienkach vystúpenia Spojeného kráľovstva z Európskej únie podľa čl. 50 ods. 2 Zmluvy o Európskej únii a je zaručená vzájomnosť.

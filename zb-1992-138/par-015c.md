@@ -1,0 +1,5 @@
+# § 15c Uľahčenie prístupu k regulovanému povolaniu
+
+(1) Na účel preukázania bezúhonnosti podľa § 15b ods. 2 uchádzač v žiadosti o zapísanie poskytne komore údaje potrebné na vyžiadanie výpisu z registra trestov.<sup>13aa</sup>) Údaje podľa prvej vety komora bezodkladne zašle v elektronickej podobe prostredníctvom elektronickej komunikácie Generálnej prokuratúre Slovenskej republiky na vydanie výpisu z registra trestov.
+
+(2) Uchádzač, ktorý už má pridelené identifikačné číslo štátnej štatistiky, uvedie ho v žiadosti. Komora bezodkladne po zapísaní architekta alebo inžiniera do zoznamu oznámi elektronickou formou zapísanie s uvedením identifikačného čísla orgánu štátnej štatistiky na zaznamenanie zmeny. Ak uchádzač v deň podania žiadosti ešte nemá pridelené identifikačné číslo organizácie a po zapísaní do zoznamu hodlá poskytovať služby v slobodnom povolaní, poskytne komore údaje potrebné na pridelenie takéhoto čísla. Komora tieto údaje bezodkladne zašle elektronickou formou orgánu štátnej štatistiky na pridelenie identifikačného čísla.
