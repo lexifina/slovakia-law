@@ -28,7 +28,9 @@
 
 - 9) Zákon č. 281/1997 Z. z. o vojenských obvodoch a zákon, ktorým sa mení zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 9a) § 125 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+- 9a) § 15 zákona č. 200/2022 Z. z. o územnom plánovaní.
+
+- 9b) § 21 Stavebného zákona.
 
 - 10) Zákon Národnej rady Slovenskej republiky č. 82/1994 Z. z. o štátnych hmotných rezervách v znení neskorších predpisov.
 
@@ -70,9 +72,9 @@
 
 - 20a) Zákon č. 321/2002 Z. z.
 
-- 20aa) § 139b ods. 9 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 20aa) § 2 ods. 12 Stavebného zákona.
 
-- 20ab) § 108 až 116 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 20ab) Zákon č. 282/2015 Z. z. o vyvlastňovaní pozemkov a stavieb a o nútenom obmedzení vlastníckeho práva k nim a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 20ac) § 24 a 25 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
