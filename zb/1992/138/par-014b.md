@@ -11,3 +11,5 @@
 (3) Pečiatka je okrúhla s priemerom 36 mm. V strede je umiestnený štátny znak Slovenskej republiky. Po obvode nad štátnym znakom je vo vonkajšom kruhopise uvedené meno a priezvisko s titulmi v znení, v akom mu boli udelené, a vo vnútornom kruhopise označenie buď „hosťujúci architekt“, buď „hosťujúci krajinný architekt“, alebo „hosťujúci stavebný inžinier“. V kruhopise pod štátnym znakom je uvedené registračné číslo a rozsah dočasnej platnosti registrácie.
 
 (4) Pečiatky obstaráva a eviduje komora. Ak bol hosťujúci architekt alebo hosťujúci stavebný inžinier vyčiarknutý z registra, pečiatku musí odovzdať komore do piatich dní odo dňa písomného oznámenia o vyčiarknutí z registra.
+
+(5) Na hosťujúcich autorizovaných stavbyvedúcich a hosťujúcich autorizovaných stavebných dozorov sa primerane vzťahujú odseky 1 až 4.

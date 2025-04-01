@@ -2,18 +2,16 @@
 
 Krajinný architekt je oprávnený na
 
-- a) vykonávanie predprojektovej činnosti, najmä na spracúvanie územnoplánovacích podkladov a územnoplánovacích prieskumov a rozborov, na spracúvanie podkladov, prieskumov a rozborov na architektonické štúdie a urbanistické štúdie a na spracúvanie krajinoekologických plánov,
+- a) poskytovanie služieb krajinného architekta v oblasti prípravy, zhotovovania, zmien a užívania krajinno-architektonických úprav pozemkov a stavieb súvisiacich s ochranou, tvorbou a obnovou krajiny (ďalej len „krajinno-architektonické úpravy“), najmä na vypracúvanie projektových podkladov vo forme návrhov, zámerov, štúdií, projektových dokumentácií, vykonávanie odborného poradenstva pre stavebníkov a vlastníkov nehnuteľností, ich zastupovanie v konaniach a pri iných postupoch stavebného úradu a pri uskutočňovaní krajinno-architektonických úprav, vrátane uskutočňovania záznamov v elektronickej podobe v informačnom systéme pre územné plánovanie a výstavbu zriadenom podľa osobitného predpisu,<sup>4</sup>)
 
-- b) spoluprácu na tvorbe územnoplánovacej dokumentácie v rámci tvorby krajiny a sídelnej zelene v obci,
+- b) vykonávanie projektovej činnosti projektantom ako vyhradenej činnosti vo výstavbe podľa Stavebného zákona,<sup>4a</sup>) najmä na vypracúvanie stupňov projektovej dokumentácie krajinno-architektonických úprav a ich zmien, projektových podkladov na hodnotenie vplyvu stavby na životné prostredie a vydania záväzného stanoviska orgánu územného plánovania, projektovej dokumentácie obnovy krajinno-architektonických častí národných kultúrnych pamiatok, krajinno-architektonických úprav v pamiatkovej rezervácii a krajinno-architektonických úprav nachádzajúcich sa na území, zapísanom do Zoznamu svetového kultúrneho dedičstva,
 
-- c) vykonávanie komplexnej projektovej činnosti, najmä na vypracúvanie návrhov a projektovej dokumentácie diel záhradnej a krajinnej architektúry a projektovej dokumentácie obnovy a úpravy pamiatok záhradného umenia v pamiatkovej zóne a v jej ochrannom pásme a na navrhovanie rekonštrukcie historických parkov, záhrad, špeciálnych plôch zelene a verejných priestorov,
+- c) spracovanie príslušných častí územnoplánovacích podkladov podľa osobitného predpisu,<sup>4b</sup>) vrátane spracúvania krajinnoplánovacích štúdií a projektov pozemkových úprav, spracovania podkladov a konceptov krajinnej architektúry pre vypracovanie urbanistickej koncepcie územia,
 
-- d) navrhovanie začlenenia stavieb do prostredia s cieľom minimalizovať negatívne dopady stavieb na urbánne prostredie a navrhovanie tvorby obrazu sídla a krajiny,
+- d) vykonávanie projektového manažmentu a poskytovanie služieb generálneho projektanta, najmä na riadenie projektu a koordináciu projektantov častí projektovej dokumentácie krajinno-architektonických úprav a iných špecialistov potrebných na vypracovanie projektovej dokumentácie a jej kompletizáciu a vykonávanie činností pri príprave, zhotovovaní a dokončení stavby,
 
-- e) výkon odborného autorského dohľadu nad uskutočňovaním diel záhradnej a krajinnej architektúry podľa dokumentácie územného rozhodnutia a podľa schválenej projektovej dokumentácie,
+- e) poskytovanie služby dohľadu projektanta nad zhotovovaním krajinno-architektonických úprav podľa schválenej projektovej dokumentácie podľa Stavebného zákona,<sup>4c</sup>) dohľadu architekta a dohľadu podľa Stavebného zákona a osobitného predpisu,<sup>4d</sup>) ak je autorom diela (autorský dohľad) nad súladom projektových podkladov krajinno-architektonických úprav alebo ich zmeny s krajinno-architektonickým návrhom a na vykonávanie stavebného dozoru nad zhotovovaním krajinno-architektonických úprav,
 
-- f) poskytovanie súvisiacich služieb, najmä na poskytovanie odborného poradenstva investorom a vlastníkom pozemkov, na zastupovanie investora pri príprave a uskutočňovaní diel záhradnej a krajinnej architektúry,
+- f) grafické spracovanie a modelovanie diela krajinnej architektúry a jeho vyjadrenie v projektových podkladoch, dodávaných v rámci poskytovaných služieb, vrátane ich elektronického vyjadrenia a zaznamenania a na vykonávanie osobnostných a majetkových práv k dielu,
 
-- g) grafické spracúvanie a modelovanie diel krajinnej a záhradnej architektúry vrátane vypracovania špecifikácií a technickej dokumentácie,
-
-- h) vyhotovovanie odborných posudkov, odhadov a dobrozdaní týkajúcich sa diel záhradnej a krajinnej architektúry.
+- g) vyhotovovanie odborných posudkov, odhadov a dobrozdaní v rozsahu svojho oprávnenia.

@@ -4,7 +4,33 @@
 
 - 3) § 3 až 8 a § 10 až 16 zákona č. 136/2010 Z. z. o službách na vnútornom trhu a o zmene a doplnení niektorých zákonov.
 
-- 4b) § 44 ods. 2 a § 46b zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 237/2000 Z. z.
+- 3a) § 37 až 39 Stavebného zákona.
+
+- 3b) § 36 Stavebného zákona.
+
+- 3c) § 6 zákona č. 555/2005 Z. z. o energetickej hospodárnosti budov a o zmene a doplnení niektorých zákonov.
+
+- 3d) Príloha č. 2 položka 14 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 358/2007 Z. z.
+
+- 4) § 25 zákona č. 200/2022 Z. z. o územnom plánovaní v znení neskorších predpisov.
+
+- 4a) § 34 Stavebného zákona.
+
+- 4b) Zákon č. 200/2022 Z. z. v znení neskorších predpisov.
+
+- 4c) § 35 ods. 10 Stavebného zákona.
+
+- 4d) § 33 ods. 8 zákona č. 185/2015 Z. z. Autorský zákon v znení zákona č. 71/2022 Z. z.
+
+- § 35 ods. 10 Stavebného zákona.
+
+- 4e) § 35 Stavebného zákona.
+
+- 4f) § 35 ods. 8 Stavebného zákona.
+
+- 4g) § 2 ods. 8 a § 36 ods. 3 Stavebného zákona.
+
+- 4h) § 2 a § 37 ods. 3 Stavebného zákona.
 
 - 5) § 847 a nasl. Občianskeho zákonníka, § 104 až 107 zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
 

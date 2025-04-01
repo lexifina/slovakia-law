@@ -2,7 +2,7 @@
 
 (1) Dôležité písomnosti, ktoré adresát neprevzal osobne, komora doručuje ako poštové zásielky do vlastných rúk na adresu uvedenú
 
-- a) v zozname alebo v registri, ak adresátom je člen komory alebo osoba zapísaná v registri,
+- a) v zozname, v evidencii alebo v registri, ak adresátom je člen komory alebo osoba zapísaná v registri, alebo v evidencii odborne spôsobilých osôb,
 
 - b) v žiadosti, ak adresátom je žiadateľ o zapísanie do zoznamu alebo do registra.
 

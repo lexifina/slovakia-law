@@ -12,4 +12,4 @@
 
 (3) Komora môže odovzdať vybavenie disciplinárneho previnenia regulačnému orgánu domovského členského štátu.
 
-(4) Ustanovenia odsekov 1 až 3 sa vzťahujú aj na hosťujúcich krajinných architektov a na hosťujúcich stavebných inžinierov.
+(4) Ustanovenia odsekov 1 až 3 sa vzťahujú aj na hosťujúcich krajinných architektov a na hosťujúcich stavebných inžinierov alebo hosťujúcich autorizovaných stavbyvedúcich a hosťujúcich autorizovaných stavebných dozorov.
