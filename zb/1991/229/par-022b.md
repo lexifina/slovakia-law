@@ -1,6 +1,6 @@
 # § 22b
 
-(1) Investičná lesná cesta je na účely tohto zákona lesná cesta alebo jej časť vrátane stavieb a zariadení, ktoré s ňou súvisia, ktorá bola doterajším užívateľom vybudovaná ako stavba<sup>23r</sup>) alebo ako investícia a je evidovaná v účtovníctve podľa osobitného predpisu.<sup>23s</sup>)
+(1) Investičná lesná cesta je na účely tohto zákona lesná cesta alebo jej časť vrátane stavieb a zariadení, ktoré s ňou súvisia, ktorá bola doterajším užívateľom vybudovaná ako inžinierska stavba<sup>23r</sup>) alebo ako investícia a je evidovaná v účtovníctve podľa osobitného predpisu.<sup>23s</sup>)
 
 (2) Doterajší užívateľ, ktorý spravuje investičnú lesnú cestu, vydá v lehote desiatich pracovných dní odo dňa doručenia žiadosti vlastníka potvrdenie, že lesná cesta sa považuje za investičnú lesnú cestu.
 

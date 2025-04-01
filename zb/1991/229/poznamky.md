@@ -140,7 +140,7 @@
 
 - 23q) § 51b ods. 4 zákona č. 326/2005 Z. z. v znení zákona č. 158/2019 Z. z.
 
-- 23r) Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+- 23r) § 4 Stavebného zákona.
 
 - 23s) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
