@@ -6,8 +6,6 @@
 
 - § 15 ods. 5 zákona č. 49/2002 Z. z. o ochrane pamiatkového fondu v znení neskorších predpisov.
 
-- 1b) § 43a ods. 3 a § 139b ods. 6 a 7 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
-
 - 2) § 5 nariadenia vlády Slovenskej republiky č. 19/1993 Z. z. o základných sadzbách odvodov za odňatie poľnohospodárskej pôdy z poľnohospodárskeho pôdneho fondu.
 
 - 3) § 63 zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok).
@@ -68,7 +66,7 @@
 
 - 15) § 2c zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení zákona č. 125/2015 Z. z..
 
-- 16) § 82 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+- 16) § 67 Stavebného zákona.
 
 - 16a) § 139 ods. 1 zákona č. 50/1976 Zb.
 
