@@ -6,7 +6,9 @@
 
 - 1b) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
-- 1c) § 35 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+- 1c) § 9 ods. 2 a § 23 ods. 2 Stavebného zákona.
+
+- 1ca) § 47 Stavebného zákona.
 
 - 1d) § 48 zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon).
 
@@ -20,7 +22,7 @@
 
 - 4) § 18 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).§ 4 ods. 3 zákona Národnej rady Slovenskej republiky č. 215/1995 Z. z.
 
-- 5) § 121 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 5) § 16 ods. 2 písm. a) Stavebného zákona.
 
 - § 17 ods. 13 zákona č. 220/2004 Z. z. o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov.
 
