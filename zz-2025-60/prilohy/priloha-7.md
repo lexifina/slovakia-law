@@ -1,0 +1,1 @@
+Príloha č. 7 k vyhláške č. 60/2025 Z. z. [Vzor žiadosti o dočasné užívanie stavby podľa § 69 Stavebného zákona alebo predčasné užívanie stavby podľa § 70 Stavebného zákona](../assets/ff954c122ba8597800c24a00e15f5416ed56caf02f05e478887b0805fc66ccd5.pdf)

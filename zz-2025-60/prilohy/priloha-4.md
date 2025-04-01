@@ -1,0 +1,1 @@
+Príloha č. 4 k vyhláške č. 60/2025 Z. z. [Vzor žiadosti o vydanie doložky súladu k projektu stavby dotknutého orgánu podľa § 21 Stavebného zákona alebo dotknutej právnickej osoby podľa § 22 Stavebného zákona](../assets/6fe4ead861d32eb9e46577e826dbd79dc6b3185f987fbc5afaebc7e68303c8e3.pdf)

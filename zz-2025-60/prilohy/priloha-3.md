@@ -1,0 +1,1 @@
+Príloha č. 3 k vyhláške č. 60/2025 Z. z. [Vzor žiadosti o zmenu rozhodnutia o stavebnom zámere podľa § 62 Stavebného zákona](../assets/dacdece45f72e91756214dc36e18813d57ece40fefdd0e90d8d6bf6a79c33ef4.pdf)

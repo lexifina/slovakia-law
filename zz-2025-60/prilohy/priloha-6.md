@@ -1,0 +1,1 @@
+Príloha č. 6 k vyhláške č. 60/2025 Z. z. [Vzor žiadosti o overenie zmeny projektu stavby podľa § 43 ods. 3 Stavebného zákona](../assets/bbd2a730bf0bdc058f5e78d0097ffd870cbe84dc3d9d4edc81afad8fe0f3ae68.pdf)

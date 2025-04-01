@@ -1,0 +1,1 @@
+Príloha č. 1 k vyhláške č. 60/2025 Z. z. [Vzor žiadosti o vydanie záväzného stanoviska dotknutého orgánu podľa § 21 Stavebného zákona alebo záväzného vyjadrenia dotknutej právnickej osoby podľa § 22 Stavebného zákona](../assets/1c3147a88625f623f0f57617f6e3f722e2236a4fc893fd81fe0b9bfcf972e6cf.pdf)

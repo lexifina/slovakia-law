@@ -1,0 +1,1 @@
+Príloha č. 2 k vyhláške č. 60/2025 Z. z. [Vzor žiadosti o vydanie rozhodnutia o stavebnom zámere podľa § 50 Stavebného zákona](../assets/493ee5eb3a5f31704971d5767a5ab61f11faf6177ee05a0a1a519d41ec82c91d.pdf)
