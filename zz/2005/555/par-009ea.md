@@ -6,7 +6,7 @@
 
 - b) stavebné konštrukcie rodinného domu podľa § 9e ods. 2 spĺňajú minimálne požiadavky na energetickú hospodárnosť budov s takmer nulovou potrebou energie,
 
-- c) právoplatné kolaudačné rozhodnutie rodinného domu bolo vydané najskôr v druhom kalendárnom roku predchádzajúcom roku, v ktorom bola podaná žiadosť o príspevok,
+- c) právoplatné kolaudačné osvedčenie rodinného domu bolo vydané najskôr v druhom kalendárnom roku predchádzajúcom roku, v ktorom bola podaná žiadosť o príspevok,
 
 - d) celková podlahová plocha rodinného domu je najviac 200 m<sup>2</sup>,
 

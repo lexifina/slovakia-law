@@ -8,7 +8,7 @@
 
 - c) na zateplenie rodinného domu uskutočnené tepelnoizolačným systémom na vonkajšiu tepelnú ochranu stien vydal vyhlásenie o parametroch výrobca systému,
 
-- d) kolaudačné rozhodnutie alebo iný doklad preukazuje, že rodinný dom bol daný do užívania aspoň 10 rokov pred realizáciou jeho zateplenia,
+- d) kolaudačné osvedčenie alebo iný doklad preukazuje, že rodinný dom bol daný do užívania aspoň 10 rokov pred realizáciou jeho zateplenia,
 
 - e) celková podlahová plocha je najviac 150 m<sup>2</sup> pri jednopodlažnom rodinnom dome alebo 300 m<sup>2</sup> pri viacpodlažnom rodinnom dome,
 

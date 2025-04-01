@@ -1,6 +1,6 @@
 - 1) § 2 ods. 1 zákona č. 49/2002 Z. z. o pamiatkovom fonde.
 
-- 2) § 139b ods. 4 písm. c) zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 237/2000 Z. z.
+- 2) § 2 ods. 9 Stavebného zákona.
 
 - 3a) Delegované nariadenie Komisie (EÚ) č. 244/2012 zo 16. januára 2012, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/31/EÚ o energetickej hospodárnosti budov vytvorením rámca porovnávacej metodiky na výpočet nákladovo optimálnych úrovní minimálnych požiadaviek na energetickú hospodárnosť budov a prvkov budov (Ú. v. EÚ L 81, 21. 3. 2012).
 
@@ -10,7 +10,7 @@
 
 - 5) § 21 a 22 zákona Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov.
 
-- 5a) § 82 ods. 3 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov a v znení zákona č. 300/2012 Z. z.
+- 5a) § 66 ods. 5 Stavebného zákona.
 
 - 5b) § 8a zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 383/2008 Z. z.
 
