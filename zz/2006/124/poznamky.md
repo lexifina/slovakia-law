@@ -88,7 +88,7 @@
 
 - 24) Zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 25) Napríklad zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 396/2006 Z. z.
+- 25) Napríklad Stavebný zákon, nariadenie vlády Slovenskej republiky č. 396/2006 Z. z. v znení nariadenia vlády č. 469/2022 Z. z.
 
 - 26) § 17 Obchodného zákonníka.
 
