@@ -6,11 +6,13 @@ Zákon č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 
 
 - „(4)
 
-- Inšpekciu práce na pracoviskách Ministerstva vnútra Slovenskej republiky, Policajného zboru, Hasičského a záchranného zboru, Zboru väzenskej a justičnej stráže a finančnej správy vykonávajú ich orgány inšpekcie práce. Inšpekciu práce na pracoviskách Ministerstva obrany Slovenskej republiky, ozbrojených síl Slovenskej republiky, rozpočtových organizácií, príspevkových organizácií a štátnych podnikov v zakladateľskej pôsobnosti alebo zriaďovateľskej pôsobnosti Ministerstva obrany Slovenskej republiky a na pracoviskách Vojenskej polície vykonáva orgán inšpekcie práce Ministerstva obrany Slovenskej republiky.“.
+- Inšpekciu práce na pracoviskách Ministerstva vnútra Slovenskej republiky, Policajného zboru, Hasičského a záchranného zboru, Zboru väzenskej a justičnej stráže a finančnej správy vykonávajú ich orgány inšpekcie práce. Inšpekciu práce na pracoviskách Ministerstva obrany Slovenskej republiky, ozbrojených síl Slovenskej republiky, rozpočtových organizácií, príspevkových organizácií a štátnych podnikov v zakladateľskej pôsobnosti alebo zriaďovateľskej pôsobnosti Ministerstva obrany Slovenskej republiky a na pracoviskách Vojenskej polície vykonáva orgán inšpekcie práce Ministerstva obrany Slovenskej republiky. Orgány inšpekcie práce podľa prvej vety a druhej vety uplatňujú požiadavky na zaistenie bezpečnosti a ochrany zdravia pri práci záväzným stanoviskom pri povoľovaní a kolaudácii stavieb a ich zmien, ak ide o stavby, v ktorých budú pracoviská podliehajúce ich inšpekcii práce.“.
 
 - 2. V § 5 ods. 2 sa na konci pripája táto veta: „Do funkcie generálneho riaditeľa možno vymenovať fyzickú osobu, ktorá má vysokoškolské vzdelanie druhého stupňa a najmenej päťročnú prax v riadiacej funkcii.“.
 
 - 3. V § 7 ods. 2 sa slová „v oblasti bezpečnosti a ochrany zdravia pri práci, inšpekcie práce alebo pracovného práva“ nahrádzajú slovami „inšpektora práce“.
+
+- 4. V § 7 ods. 3 písm. c) sa vypúšťajú slová „povoľovaní a“ a slová „na plnenie svojich úloh“ sa nahrádzajú slovami „ako pracovisko“.
 
 - 5. V § 7 ods. 8 písm. c) sa slová „60 dní“ nahrádzajú slovami „90 dní“, za slová „môže ju“ sa vkladajú slová „na žiadosť inšpektorátu práce“ a za slová „Národný inšpektorát práce“ sa vkladá čiarka a slová „a to aj opakovane“.
 
