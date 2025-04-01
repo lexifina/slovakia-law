@@ -1,6 +1,6 @@
 # § 15a Zapisovanie do registra
 
-(1) Do registra (§ 3 ods. 4 až 6) komora zapíše
+(1) Do registra (§ 3 ods. 9 až 13) komora zapíše
 
 - a) pri prvom hosťovaní toho, kto preukáže, že
 
@@ -10,7 +10,7 @@
 
   - 3. má doklad o vzdelaní uznaný podľa § 16 alebo § 16a,
 
-  - 4. je oprávnený v domovskom členskom štáte vykonávať regulované povolanie; inak je povinný predložiť doklad o tom, že vykonával počas predchádzajúcich desiatich rokov najmenej jeden rok činnosti, ktoré sú obsahom regulovaného povolania podľa § 4, 4a alebo 5,
+  - 4. je oprávnený v domovskom členskom štáte vykonávať regulované povolanie; inak je povinný predložiť doklad o tom, že vykonával počas predchádzajúcich desiatich rokov najmenej jeden rok činnosti, ktoré sú obsahom regulovaného povolania podľa § 4, 4a, 4b alebo 5, 5a a 5b,
 
   - 5. je poistený zo zodpovednosti za škodu spôsobenú výkonom povolania s platnosťou pre územie Slovenskej republiky,
 

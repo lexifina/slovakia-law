@@ -8,4 +8,4 @@
 
 (4) Odseky 1 až 3 sa primerane vzťahujú aj na preskúšanie osoby, ktorá vykonala autorizačnú skúšku potrebnú na výkon činnosti stavbyvedúceho alebo na stavebný dozor alebo na energetickú certifikáciu; nevzťahujú sa na osoby zapísané v registri.
 
-(5) Na preskúšanie sa vzťahuje § 21 ods. 1 až 3, 5 a 6. Preskúšanie sa vykoná pred skúšobným senátom podľa § 22 ods. 1.
+(5) Na preskúšanie sa vzťahuje § 21 ods. 1 až 3, 5 a 6. Preskúšanie sa vykoná pred skúšobným senátom podľa § 22 ods. 1 a § 21a.

@@ -1,3 +1,3 @@
-# § 14d Práva a povinnosti krajinných architektov
+# § 14d Práva a povinnosti krajinných architektov a územných plánovačov
 
-Na práva a povinnosti krajinných architektov sa vzťahujú ustanovenia § 6 až 14c rovnako.
+Na práva a povinnosti krajinných architektov a územných plánovačov sa vzťahujú § 6 až 14c rovnako.
