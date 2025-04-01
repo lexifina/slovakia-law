@@ -1,1 +1,0 @@
-Príloha č. 1 k vyhláške č. 10/2022 Z. z. [Oznámenie o skutočných výdavkoch podľa jednotlivých typov zdravotnej starostlivosti](../assets/62f7dad85f09848c132512d39dfb9109caea6fbb095c7afb6bf6826e941ff071.pdf)
