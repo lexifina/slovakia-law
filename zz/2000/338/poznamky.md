@@ -4,7 +4,7 @@
 
 - 1aa) Vykonávacie nariadenie Komisie (EÚ) č. 909/2013 z 10. septembra 2013 o technických špecifikáciách elektronického mapového zobrazovacieho a informačného systému na vnútrozemskú navigáciu (vnútrozemský systém ECDIS) uvedených v smernici Európskeho parlamentu a Rady 2005/44/ES (Ú. v. EÚ L 258, 28. 9. 2013) v platnom znení.
 
-- 1b) § 140b zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
+- 1b) § 21 Stavebného zákona.
 
 - 1c) Zákon č. 282/2015 Z. z. o vyvlastňovaní pozemkov a stavieb a o nútenom obmedzení vlastníckeho práva k nim a o zmene a doplnení niektorých zákonov.
 
@@ -201,8 +201,6 @@
 - 21) Zákon č. 402/2013 Z. z. o Úrade pre reguláciu elektronických komunikácií a poštových služieb a Dopravnom úrade a o zmene a doplnení niektorých zákonov.
 
 - 21a) Časť 1 kapitola 1.8 bod 1.8.4 Európskej dohody o medzinárodnej preprave nebezpečného tovaru po vnútrozemských vodných cestách (ADN) (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 331/2010 Z. z.) v platnom znení.
-
-- 21aa) § 126 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
 - 21b) § 31 zákona č. 200/2022 Z. z. o územnom plánovaní.
 
