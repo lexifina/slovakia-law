@@ -20,7 +20,7 @@
 
 - b) veľkým únikom rádioaktívnych látok, ktoré by si vyžadovali priestorovo a časovo neobmedzené ochranné opatrenia.
 
-(9) Pre existujúce jadrové zariadenia, pre ktoré bolo vydané stavebné povolenie [§ 5 ods. 3 písm. a)] pred 14. augustom 2014, sa požiadavky podľa odseku 8 použijú ako cieľ pre včasné zavedenie rozumne uskutočniteľných opatrení na zvýšenie úrovne jadrovej bezpečnosti pri pravidelných hodnoteniach jadrovej bezpečnosti vrátane pravidelného, komplexného a systematického hodnotenia jadrovej bezpečnosti jadrových zariadení.
+(9) Pre existujúce jadrové zariadenia, pre ktoré bolo vydané rozhodnutie o stavebnom zámere [§ 5 ods. 3 písm. a)] pred 14. augustom 2014, sa požiadavky podľa odseku 8 použijú ako cieľ pre včasné zavedenie rozumne uskutočniteľných opatrení na zvýšenie úrovne jadrovej bezpečnosti pri pravidelných hodnoteniach jadrovej bezpečnosti vrátane pravidelného, komplexného a systematického hodnotenia jadrovej bezpečnosti jadrových zariadení.
 
 (10) Ochrana do hĺbky sa uplatňuje pri projektovaní a vo všetkých etapách existencie jadrového zariadenia.
 

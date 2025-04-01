@@ -36,7 +36,7 @@
 
 - 6) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
-- 7) § 121 ods. 2 písm. e) zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+- 7) § 16 ods. 2 písm. d) Stavebného zákona.
 
 - 7b) Zákon č. 54/2015 Z. z. o občianskoprávnej zodpovednosti za jadrovú škodu a o jej finančnom krytí a o zmene a doplnení niektorých zákonov.
 
@@ -44,7 +44,7 @@
 
 - 7d) § 28 ods. 3 písm. b) zákona č. 146/2023 Z. z. o ochrane ovzdušia a o zmene a doplnení niektorých zákonov.
 
-- 8) Napríklad § 31 ods. 2 zákona č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov, zákon č. 50/1976 Zb. v znení neskorších predpisov.
+- 8) Napríklad § 31 ods. 2 zákona č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov, Stavebný zákon.
 
 - 8a) § 7 ods. 4 zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -58,7 +58,7 @@
 
 - 10c) § 60 ods. 3 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
-- 11) § 66, 76, 83 a 84 zákona č. 50/1976 Zb. v znení neskorších predpisov a § 29 alebo § 37a zákona č. 24/2006 Z. z. v znení neskorších predpisov.
+- 11) § 50, § 66, § 69 a 70 Stavebného zákona a § 29 alebo § 37a zákona č. 24/2006 Z. z. v znení neskorších predpisov.
 
 - 11a) Čl. 4 ods. 1 nariadenia Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) (Ú. v. EÚ L 119, 4. 5. 2016) v platnom znení.
 
@@ -70,13 +70,23 @@
 
 - 11b) Napríklad zákon č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratívnej záťaže využívaním informačných systémov verejnej správy a o zmene a doplnení niektorých zákonov (zákon proti byrokracii) v znení neskorších predpisov.
 
+- 11ba) § 60 Stavebného zákona.
+
 - 11baa) Dohovor o prístupe k informáciám, účasti verejnosti na rozhodovacom procese a prístupe k spravodlivosti v záležitostiach životného prostredia (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 43/2006 Z. z.).
 
 - 11bab) Zákon č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 11bb) § 69 Stavebného zákona.
+
+- 11bc) § 70 Stavebného zákona.
+
+- 11bd) § 67 Stavebného zákona.
+
+- 11be) § 65 Stavebného zákona.
+
 - 11c) Napríklad zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov, zákon č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 11d) Zákon č. 50/1976 Zb. v znení neskorších predpisov.
+- 11d) Stavebný zákon.
 
 - 11e) Zákon č. 309/2023 Z. z. o premenách obchodných spoločností a družstiev a o zmene a doplnení niektorých zákonov.
 
@@ -120,6 +130,8 @@
 
 - 20h) § 1 a § 7 ods. 1 zákona Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky.
 
+- 20i) § 16 ods. 3 a § 48 Stavebného zákona.
+
 - 21) Čl. 41 Zmluvy o založení Európskeho spoločenstva pre atómovú energiu.
 
 - 21a) § 37 ods. 8 zákona č. 24/2006 Z. z.
@@ -132,11 +144,11 @@
 
 - 24) Zákon č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení neskorších predpisov.
 
-- 25) § 83 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 25) § 70 Stavebného zákona.
 
-- 26) § 84 ods. 1 a 2 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 26) § 69 Stavebného zákona.
 
-- 27) § 84 ods. 3 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 27) § 66 Stavebného zákona.
 
 - 28) Zákon č. 238/2006 Z. z. o Národnom jadrovom fonde na vyraďovanie jadrových zariadení a na nakladanie s vyhoretým jadrovým palivom a rádioaktívnymi odpadmi (zákon o jadrovom fonde) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -248,7 +260,7 @@
 
 - Vyhláška Národného bezpečnostného úradu č. 453/2007 Z. z. o administratívnej bezpečnosti v znení neskorších predpisov.
 
-- 45e) Napríklad § 3 ods. 6 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov, zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+- 45e) Napríklad § 3 ods. 6 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov, Stavebný zákon.
 
 - 46) Smernica Európskeho parlamentu a Rady 98/34/ES z 22. júna 1998 o postupe pri poskytovaní informácií v oblasti technických noriem a predpisov, ako aj pravidiel vzťahujúcich sa na služby informačnej spoločnosti (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 20) v platnom znení.
 

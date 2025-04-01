@@ -2,7 +2,7 @@ Príloha č. 1 k zákonu č. 541/2004 Z. z.
 
 - DOKUMENTÁCIA JADROVÝCH ZARIADENÍ POTREBNÁ K JEDNOTLIVÝM ROZHODNUTIAM
 
-  - A. Dokumentácia potrebná k písomnej žiadosti o vydanie súhlasu na umiestnenie stavby jadrového zariadenia podľa § 5 ods. 2 a povolenia na umiestnenie stavby jadrového zariadenia podľa § 5 ods. 3 písm. o)
+  - A. Dokumentácia potrebná k písomnej žiadosti o vydanie rozhodnutia o stavebnom zámere stavby a povolenia na umiestnenie stavby jadrového zariadenia podľa § 5 ods. 3 písm. o)
 
     - a) zadávacia bezpečnostná správa,
 
@@ -20,7 +20,7 @@ Príloha č. 1 k zákonu č. 541/2004 Z. z.
 
     - h) hodnotenie vplyvu jadrového zariadenia na životné prostredie, ak tak ustanovuje osobitný predpis,<sup>8</sup>) ako aj hodnotenie potenciálneho vplyvu okolitého prostredia na jadrové zariadenie.
 
-  - B. Dokumentácia potrebná k písomnej žiadosti o stavebné povolenie na stavbu jadrového zariadenia
+  - B. Dokumentácia potrebná k písomnej žiadosti o overenie projektu stavby
 
     - a) predbežná bezpečnostná správa, ktorá preukazuje plnenie zákonných požiadaviek na jadrovú bezpečnosť na základe údajov, o ktorých sa uvažuje v projekte,
 
