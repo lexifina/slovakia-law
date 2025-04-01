@@ -12,7 +12,7 @@
 
 - 7) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
-- 8) Napríklad zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z., zákon Slovenskej národnej rady č. 126/1985 Zb. o požiarnej ochrane v znení neskorších predpisov.
+- 8) Napríklad zákon č. 314/2001 Z. z. o ochrane pred požiarmi v znení neskorších predpisov, zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 18 ods. 1 Stavebného zákona.
 
 - 8a) § 60 ods. 3 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
@@ -29,8 +29,6 @@
 - 13) § 11 ods. 3 a 5 zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
 - 15) § 7 ods. 3 Obchodného zákonníka.
-
-- 16) Zákon č. 50/1976 Zb.
 
 - 17) § 23 ods. 3 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z.
 
