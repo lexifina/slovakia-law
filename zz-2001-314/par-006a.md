@@ -1,0 +1,3 @@
+# § 6a
+
+Vlastník bytového domu, spoločenstvo vlastníkov bytov a nebytových priestorov v bytovom dome a správca bytového domu<sup>5a</sup>) sú povinní zabezpečiť pri správe bytového domu plnenie úloh ochrany pred požiarmi, ktoré sa týkajú spoločných častí bytového domu a spoločných zariadení bytového domu, podľa § 4 písm. a) až c), g) až i) a k) až p), § 5 písm. a) až c), i) a j) a § 8 písm. f) s tým, že o splnení povinnosti podľa § 4 písm. a) vyhotoví technik požiarnej ochrany záznam; obsah záznamu o vykonaní preventívnej protipožiarnej prehliadky a druhy dokumentácie pre bytové domy ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.
