@@ -18,6 +18,32 @@ Zákon č. 608/2003 Z. z. o štátnej správe pre územné plánovanie, stavebn�
 
   - Doterajšie písmená b) až d) sa označujú ako písmená c) až e).
 
+- 4. § 1 vrátane nadpisu znie:
+
+- „§ 1
+
+- Orgány štátnej správy na úseku bývania
+
+- Štátnu správu na úseku bývania vykonávajú
+
+- a)
+
+- Ministerstvo dopravy Slovenskej republiky (ďalej len „ministerstvo“),
+
+- b)
+
+- okresný úrad v sídle kraja,
+
+- c)
+
+- obec v rozsahu ustanovenom osobitným predpisom.<sup>1</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 1 znie:
+
+  - „<sup>1</sup>) § 15 a 17 zákona č. 150/2013 Z. z. o Štátnom fonde rozvoja bývania v znení neskorších predpisov.“.
+
+  - Poznámky pod čiarou k odkazom 2 a 3 sa vypúšťajú.
+
 - 5. Za § 1 sa vkladá § 1a, ktorý vrátane nadpisu znie:
 
 - „§ 1a
@@ -104,11 +130,17 @@ Zákon č. 608/2003 Z. z. o štátnej správe pre územné plánovanie, stavebn�
 
 - 9. V § 2 sa vypúšťa písmeno c).
 
+- 10. § 2 sa vypúšťa.
+
 - 11. V § 4 ods. 1 sa vypúšťajú písmená a) a b).
 
   - Zrušuje sa označenie písmena c).
 
 - 12. V § 4 ods. 2 sa slová „v odseku 1 písm. c)“ nahrádzajú slovami „v odseku 1“.
+
+- 13. V § 5 sa vypúšťa písmeno a).
+
+  - Zrušuje sa označenie písmena b).
 
 - 14. Za § 6 sa dopĺňa § 7, ktorý vrátane nadpisu znie:
 
