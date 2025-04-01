@@ -42,7 +42,7 @@
 
 - 4aa) § 2 ods. 9 zákona č. 492/2009 Z. z.
 
-- 4b) § 139b ods. 6 a 7 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+- 4b) § 2 ods. 4 Stavebného zákona.
 
 - 4c) § 7 zákona č. 555/2005 Z. z. o energetickej hospodárnosti budov a o zmene a doplnení niektorých zákonov.
 
