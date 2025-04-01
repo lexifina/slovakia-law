@@ -8,11 +8,11 @@
 
 - 4a) Zákon č. 258/2011 Z. z. o trvalom ukladaní oxidu uhličitého do geologického prostredia a o zmene a doplnení niektorých zákonov.
 
-- 5) Napríklad zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov, zákon č. 44/1988 Zb. v znení neskorších predpisov, zákon č. 364/2004 Z. z. v znení neskorších predpisov.
+- 5) Napríklad zákon č. 200/2022 Z. z. o územnom plánovaní v znení neskorších predpisov, Stavebný zákon, zákon č. 44/1988 Zb. v znení neskorších predpisov, zákon č. 364/2004 Z. z. v znení neskorších predpisov.
 
 - 5a) Zákon č. 359/2007 Z. z. o prevencii a náprave environmentálnych škôd a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 5b) Napríklad § 43 zákona č. 50/1976 Zb. v znení neskorších predpisov, § 2 a 3 zákona Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov, § 52 zákona č. 364/2004 Z. z. v znení zákona č. 134/2010 Z. z.
+- 5b) Napríklad § 2 Stavebného zákona, § 2 a 3 zákona Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov, § 52 zákona č. 364/2004 Z. z. v znení zákona č. 134/2010 Z. z.
 
 - 6) § 31 ods. 2 zákona č. 44/1988 Zb. v znení zákona Slovenskej národnej rady č. 498/1991 Zb.
 
@@ -40,7 +40,7 @@
 
 - 16) § 536 až 565 Obchodného zákonníka.
 
-- 17) Napríklad zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov, zákon č. 50/1976 Zb. v znení neskorších predpisov, zákon č. 44/1988 Zb. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o banskej štátnej správe v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov, zákon č. 281/1997 Z. z. o vojenských obvodoch a zákon, ktorým sa mení zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov v znení zákona č. 172/2003 Z. z., zákon č. 49/2002 Z. z. o ochrane pamiatkového fondu v znení zákona č. 479/2005 Z. z., zákon č. 319/2002 Z. z. o obrane Slovenskej republiky v znení neskorších predpisov, zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, zákon č. 610/2003 Z. z. o elektronických komunikáciách v znení neskorších predpisov, zákon č. 220/2004 Z. z o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení zákona č. 359/2007 Z. z., zákon č. 364/2004 Z. z. v znení neskorších prepisov, zákon č. 541/2004 Z. z. v znení neskorších predpisov, zákon č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov v znení neskorších predpisov, zákon č. 326/2005 Z. z. o lesoch v znení neskorších predpisov, zákon č. 538/2005 Z. z., zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 17) Napríklad zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov, zákon č. 200/2022 Z. z. v znení neskorších predpisov, Stavebný zákon, zákon č. 44/1988 Zb. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o banskej štátnej správe v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov, zákon č. 281/1997 Z. z. o vojenských obvodoch a zákon, ktorým sa mení zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov v znení zákona č. 172/2003 Z. z., zákon č. 49/2002 Z. z. o ochrane pamiatkového fondu v znení zákona č. 479/2005 Z. z., zákon č. 319/2002 Z. z. o obrane Slovenskej republiky v znení neskorších predpisov, zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, zákon č. 610/2003 Z. z. o elektronických komunikáciách v znení neskorších predpisov, zákon č. 220/2004 Z. z o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení zákona č. 359/2007 Z. z., zákon č. 364/2004 Z. z. v znení neskorších prepisov, zákon č. 541/2004 Z. z. v znení neskorších predpisov, zákon č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov v znení neskorších predpisov, zákon č. 326/2005 Z. z. o lesoch v znení neskorších predpisov, zákon č. 538/2005 Z. z., zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 18) § 5 ods. 4 zákona Slovenskej národnej rady č. 51/1988 Zb.
 
@@ -58,9 +58,7 @@
 
 - 23aa) Zákon č. 200/2022 Z. z. v znení neskorších predpisov.
 
-- Zákon č. 201/2022 Z. z. v znení neskorších predpisov.
-
-- 24) § 32 zákona č. 50/1976 Zb.
+- Stavebný zákon.
 
 - 25) § 2 Obchodného zákonníka.
 
@@ -80,8 +78,6 @@
 
 - 26c) § 6 zákona č. 258/2011 Z. z.
 
-- 27) § 36 zákona č. 50/1976 Zb. v znení neskorších predpisov.
-
 - 27a) Zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 27b) § 66a ods. 2 Obchodného zákonníka.
@@ -98,7 +94,7 @@
 
 - 30) Napríklad § 6 ods. 2 zákona č. 446/2001 Z. z. o majetku vyšších územných celkov, § 2 písm. q) zákona č. 326/2005 Z. z.
 
-- 31) Napríklad zákon č. 364/2004 Z. z. v znení neskorších predpisov, zákon č. 50/1976 Zb. v znení neskorších predpisov.
+- 31) Napríklad zákon č. 364/2004 Z. z. v znení neskorších predpisov, Stavebný zákon.
 
 - 32) § 10 ods. 6 zákona Slovenskej národnej rady č. 51/1988 Zb.
 
@@ -108,9 +104,7 @@
 
 - 34a) Zákon č. 282/2015 Z. z. o vyvlastňovaní pozemkov a stavieb a o nútenom obmedzení vlastníckeho práva k nim a o zmene a doplnení niektorých zákonov.
 
-- 34b) § 19 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
-
-- 34c) § 35 a 58 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 34b) § 21 Stavebného zákona.
 
 - 34d) § 29 a 37 zákona č. 24/2006 Z. z. v znení neskorších predpisov.
 
@@ -118,7 +112,7 @@
 
 - 36) § 1 ods. 2 písm. b) zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení zákona Národnej rady Slovenskej republiky č. 374/1996 Z. z.
 
-- 37) § 139 ods. 1 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 37) § 29 ods. 1 Stavebného zákona.
 
 - 37a) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku v znení neskorších predpisov.
 
