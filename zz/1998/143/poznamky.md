@@ -158,15 +158,17 @@
 
 - 4) Čl. 10a ods. 1 nariadenia (EÚ) č. 1178/2011 v platnom znení.
 
-- 5) Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon), (úplné znenie č. 109/1998 Z. z.).
+- 5) Napríklad zákon č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení neskorších predpisov, zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov, zákon č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 452/2021 Z. z. o elektronických komunikáciách v znení neskorších predpisov.
 
-- 6) § 120 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 5a) § 2 ods. 9 písm. d) Stavebného zákona.
+
+- 5b) § 69 Stavebného zákona.
+
+- 5c) § 70 Stavebného zákona.
 
 - 6a) § 5 zákona č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov.
 
 - 6b) Napríklad zákon č. 44/1988 Zb. v znení neskorších predpisov, zákon č. 51/1988 Zb. v znení neskorších predpisov, zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 6c) Napríklad zákon č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení neskorších predpisov, zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov, zákon č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 452/2021 Z. z. v znení neskorších predpisov.
 
 - 8) § 128 Občianskeho zákonníka.
 
@@ -420,6 +422,18 @@
 
 - 13a) § 3 až 8 a § 10 až 16 zákona č. 136/2010 Z. z.
 
+- 13b) § 16 ods. 1 Stavebného zákona.
+
+- 13c) § 63 ods. 1 Stavebného zákona.
+
+- 13d) § 16 ods. 2 písm. a) Stavebného zákona.
+
+- 13e) § 63 ods. 7 Stavebného zákona.
+
+- 13f) § 65 ods. 5 Stavebného zákona.
+
 - 15) Dohovor o medzinárodnom civilnom letectve (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 196/1995 Z. z.).
 
 - Dohoda o vývoji, prijatí a zavedení jednotných leteckých predpisov z 11. septembra 1990 (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 130/1999 Z. z.).
+
+- 16) § 84 ods. 5 a 7 Stavebného zákona.

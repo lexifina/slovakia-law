@@ -18,7 +18,7 @@
 
 - c) posúdenie bezpečnosti, ktoré je povinný vykonať budúci prevádzkovateľ.
 
-(5) Dopravný úrad určí rozhodnutím letecké pozemné zariadenia, v prípade ktorých sa vyžaduje vykonanie letového merania. Letové merania leteckých pozemných zariadení určených podľa prvej vety a letové overovanie letových postupov vykonáva Dopravný úrad. Dopravný úrad môže na základe žiadosti poveriť vykonaním činnosti podľa druhej vety fyzickú osobu – podnikateľa alebo právnickú osobu; v poverení sa určí rozsah a podmienky vykonávania takejto činnosti.
+(5) Dopravný úrad určí rozhodnutím letecké pozemné zariadenia, v prípade ktorých sa vyžaduje vykonanie letového merania.
 
 (6) Ak stav leteckého pozemného zariadenia alebo jeho časti nevyhovuje podmienkam bezpečnej prevádzky, Dopravný úrad môže rozhodnúť o dočasnom prerušení alebo obmedzení prevádzky leteckého pozemného zariadenia.
 

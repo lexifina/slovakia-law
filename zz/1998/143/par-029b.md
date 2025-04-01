@@ -2,7 +2,7 @@
 
 (1) Dopravný úrad v konaní začatom z vlastného podnetu zruší
 
-- a) ochranné pásma letiska na základe právoplatného rozhodnutia o udelení súhlasu so zrušením civilného letiska podľa § 27 ods. 1 alebo
+- a) ochranné pásma letiska na základe právoplatného rozhodnutia o udelení súhlasu so zrušením letiska podľa § 27 ods. 1 alebo
 
 - b) ochranné pásma určeného leteckého pozemného zariadenia na základe právoplatného rozhodnutia o udelení súhlasu s ukončením prevádzkovania leteckého pozemného zariadenia.
 
