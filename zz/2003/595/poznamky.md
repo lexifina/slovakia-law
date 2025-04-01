@@ -588,11 +588,11 @@
 
 - 105c) § 1 písm. c) opatrenia Národnej banky Slovenska z 2. septembra 2014 č. 19/2014 o predkladaní výkazu faktoringovou spoločnosťou, spoločnosťou splátkového financovania alebo lízingovou spoločnosťou na štatistické účely (oznámenie č. 248/2014 Z. z.).
 
-- 106) § 43a zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+- 106) § 3 a 4 Stavebného zákona.
 
-- Opatrenie Štatistického úradu Slovenskej republiky č. 128/2000 Z. z., ktorým sa vyhlasuje Klasifikácia stavieb.
+- Vyhláška Štatistického úradu Slovenskej republiky č. 323/2010 Z. z., ktorou sa vydáva Štatistická klasifikácia stavieb.
 
-- 107) Zákon č. 50/1976 Zb. v znení neskorších predpisov.
+- 107) § 2 ods. 4 Stavebného zákona.
 
 - 108) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
@@ -606,9 +606,11 @@
 
 - 111) Zákon č. 383/1997 Z. z. v znení zákona č. 234/2000 Z. z.
 
-- 111a) § 83 zákona č. 50/1976 Zb. v znení zákona č. 229/1997 Z. z.
+- 111a) § 70 Stavebného zákona.
 
-- 111b) § 84 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 111b) § 69 Stavebného zákona.
+
+- 111c) § 15 a 16 Stavebného zákona.
 
 - 113) § 2 zákona č. 49/2002 Z. z. o ochrane pamiatkového fondu.
 
@@ -641,6 +643,12 @@
 - 120a) Zákon č. 57/2018 Z. z. o regionálnej investičnej pomoci a o zmene a doplnení niektorých zákonov.
 
 - 120aa) § 18 zákona č. 321/2014 Z. z. o energetickej efektívnosti a o zmene a doplnení niektorých zákonov v znení zákona č. 4/2019 Z. z.
+
+- 120aaa) § 2 Stavebného zákona.
+
+- 120aaaa) § 2 ods. 3 Stavebného zákona.
+
+- 120aaaaa) § 2 a 5 Stavebného zákona.
 
 - 120b) § 6 zákona č. 57/2018 Z. z.
 
@@ -865,3 +873,5 @@
 - 157) Medzinárodný štandard finančného výkazníctva 9 a 17 Prílohy k nariadeniu Komisie (ES) č. 1126/2008 z 3. novembra 2008, ktorým sa v súlade s nariadením Európskeho parlamentu a Rady (ES) č. 1606/2002 prijímajú určité medzinárodné účtovné štandardy (Ú. v. EÚ L 320, 29. 11. 2008) v platnom znení.
 
 - 159) § 43 ods. 2 zákona č. 50/1976 Zb. v znení zákona č. 46/2024 Z. z.
+
+- 160) § 84 ods. 4 až 7 Stavebného zákona.
