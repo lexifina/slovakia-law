@@ -4,8 +4,6 @@
 
 - 2) § 3 zákona Slovenskej národnej rady č. 189/1992 Zb.
 
-- 3) § 43b zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 237/2000 Z. z.
-
 - 5) § 121 ods. 2 Občianskeho zákonníka.
 
 - 5a) Napríklad zákon č. 314/2001 Z. z. o ochrane pred požiarmi v znení neskorších predpisov, zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 56/2018 Z. z. o posudzovaní zhody výrobku, sprístupňovaní určeného výrobku na trhu a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -58,6 +56,8 @@
 
 - 13) Napr. § 54 a nasl. zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 103/1990 Zb. a zákona č. 262/1992 Zb.
 
+- 13) Napríklad § 18 Stavebného zákona.
+
 - 14) § 115 Občianskeho zákonníka.
 
 - 15) § 685 a nasl. Občianskeho zákonníka.
@@ -68,9 +68,9 @@
 
 - 15aa) § 2 písm. b) bod 34 zákona č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 15ab) § 139b ods. 5 písm. c) zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+- 15ab) § 2 ods. 9 Stavebného zákona.
 
-- 15b) § 139b ods. 5 písm. b) zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 15b) § 5 ods. 3 Stavebného zákona.
 
 - 15c) § 33 ods. 2 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -86,7 +86,7 @@
 
 - 20) § 5 ods. 2 písm. a) a d) zákona Slovenskej národnej rady č. 189/1992 Zb.
 
-- 20a) § 85 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon).
+- 20a) § 68 Stavebného zákona.
 
 - 21) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách.
 
