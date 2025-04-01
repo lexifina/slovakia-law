@@ -104,7 +104,7 @@
 
 - 18) Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
 
-- 19) § 43h zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+- 19) § 7 ods. 1 Stavebného zákona.
 
 - 19a) § 2 ods. 2 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
 
@@ -152,9 +152,11 @@
 
 - 26) § 22 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
-- 26a) § 43 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 26a) § 2 Stavebného zákona.
 
-- 27) § 76 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 26b) § 5 ods. 2 Stavebného zákona.
+
+- 27) § 60 Stavebného zákona.
 
 - 27a) Zákon č. 595/2003 Z. z. v znení neskorších predpisov.
 
