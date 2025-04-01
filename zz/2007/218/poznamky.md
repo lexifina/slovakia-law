@@ -32,9 +32,11 @@
 
 - 12) § 10 ods. 4 písm. a) zákona č. 126/2006 Z. z.
 
-- 13) § 140b zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+- 13) § 15 zákona č. 200/2022 Z. z. o územnom plánovaní.
 
-- 13a) § 15 zákona č. 200/2022 Z. z. o územnom plánovaní.
+- 13a) § 48 až 62 Stavebného zákona.
+
+- 13b) § 66 a § 68 až 70 Stavebného zákona.
 
 - 14) § 8 až 16 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
 
