@@ -1,6 +1,6 @@
 # § 8h Jednoduché pozemkové úpravy vykonávané na usporiadanie vlastníckych a užívacích pomerov v hospodárskych dvoroch
 
-(1) Žiadosť o jednoduché pozemkové úpravy vykonávané z dôvodu podľa § 2 ods. 1 písm. k) podáva vlastník pozemnej stavby<sup>6aj</sup>) v hospodárskom dvore.
+(1) Žiadosť o jednoduché pozemkové úpravy vykonávané z dôvodu podľa § 2 ods. 1 písm. k) podáva vlastník budovy<sup>6aj</sup>) v hospodárskom dvore.
 
 (2) Žiadateľ podľa odseku 1 musí preukázať zabezpečenie financovania nákladov spojených s jednoduchými pozemkovými úpravami predložením zmluvy uzatvorenej s fyzickou osobou alebo právnickou osobou podľa § 25 ods. 1.
 
@@ -12,8 +12,8 @@
 
 (6) Vlastníkom pozemkov v hospodárskych dvoroch sa vyrovnanie poskytuje v pozemkoch. Nové pozemky sa vlastníkom poskytnú v rovnakej hodnote, akú majú pôvodné pozemky; ustanovenia § 11 ods.1 až 6 sa nepoužijú.
 
-(7) Ak vlastník pozemnej stavby, ktorá sa nachádza v obvode hospodárskeho dvora, vlastní v obvode projektu pozemkových úprav pozemky, má prednostný nárok na umiestnenie nových pozemkov pod touto pozemnou stavbou.
+(7) Ak vlastník budovy, ktorá sa nachádza v obvode hospodárskeho dvora, vlastní v obvode projektu pozemkových úprav pozemky, má prednostný nárok na umiestnenie nových pozemkov pod touto budovou.
 
-(8) Ak vlastník pozemnej stavby, ktorá sa nachádza v obvode hospodárskeho dvora, nevlastní v obvode projektu pozemkových úprav pozemky, pod pozemné stavby v jeho vlastníctve sa prednostne umiestnia pozemky, ktoré spravuje alebo s ktorými nakladá Slovenský pozemkový fond podľa § 34 ods. 3. Ak v obvode pozemkových úprav nie sú pozemky, ktoré spravuje alebo s ktorými nakladá Slovenský pozemkový fond podľa § 34 ods. 3, vlastníkmi nových pozemkov pod pozemnými stavbami zostanú pôvodní vlastníci.
+(8) Ak vlastník budovy, ktorá sa nachádza v obvode hospodárskeho dvora, nevlastní v obvode projektu pozemkových úprav pozemky, pod budovy v jeho vlastníctve sa prednostne umiestnia pozemky, ktoré spravuje alebo s ktorými nakladá Slovenský pozemkový fond podľa § 34 ods. 3. Ak v obvode pozemkových úprav nie sú pozemky, ktoré spravuje alebo s ktorými nakladá Slovenský pozemkový fond podľa § 34 ods. 3, vlastníkmi nových pozemkov pod budovami zostanú pôvodní vlastníci.
 
 (9) Na účely posúdenia platnosti zásad umiestnenia nových pozemkov sa výmera pozemkov počíta len v samostatnom obvode pozemkov v hospodárskom dvore.

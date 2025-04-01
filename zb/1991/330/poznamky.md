@@ -82,7 +82,7 @@
 
 - 6ai) § 211a zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
-- 6aj) § 43a ods. 2 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 6aj) § 3 Stavebného zákona.
 
 - 6ak) Zákon č. 135/1961 Zb. v znení neskorších predpisov.
 
@@ -113,12 +113,6 @@
 - 6faa) § 54 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
 
 - 6fc) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku.
-
-- 6g) § 108 ods. 2 písm. b), d) a k) zákona č. 50/1976 Zb.
-
-- 6h) § 39a zákona č. 50/1976 Zb.
-
-- 6i) § 39b zákona č. 50/1976 Zb.
 
 - 6j) § 9 zákona č. 220/2004 Z. z. v znení neskorších predpisov.
 
@@ -172,17 +166,7 @@
 
 - 10e) Nariadenie vlády Slovenskej republiky č. 238/2010 Z. z., ktorým sa ustanovujú podrobnosti o podmienkach prenajímania, predaja, zámeny a nadobúdania nehnuteľností Slovenským pozemkovým fondom v znení neskorších predpisov.
 
-- 11) § 32 a nasl. zákona č. 50/1976 Zb.
-
-- 11a) § 58 ods. 2 zákona č. 50/1976 Zb.
-
-- 12) Druhá časť zákona č. 229/1991 Zb.
-
 - 13) § 22 ods. 1 a 2 zákona č. 229/1991 Zb.
-
-- 13a) § 58 ods. 1 zákona č. 50/1976 Zb.
-
-- Zákon Slovenskej národnej rady č. 307/1992 Zb. o ochrane poľnohospodárskeho pôdneho fondu.
 
 - 13aa) § 68 ods. 1 a § 254 ods. 1 Obchodného zákonníka.
 
@@ -192,7 +176,7 @@
 
 - 15) § 22 ods. 1 zákona č. 229/1991 Zb.
 
-- 16) § 44 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 16) § 29 až 40 Stavebného zákona.
 
 - 16a) Zákon Národnej rady Slovenskej republiky č. 215/1995 Z. z.
 
@@ -228,7 +212,7 @@
 
 - Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby.
 
-- Zákon č. 50/1976 Zb.
+- Zákon č. 200/2022 Z. z. v znení neskorších predpisov, Stavebný zákon.
 
 - Zákon č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení zákona Slovenskej národnej rady č. 498/1991 Zb.
 
@@ -250,7 +234,9 @@
 
 - 23e) § 18 zákona č. 200/2022 Z. z.
 
-- 23ea) § 76 zákona č. 50/1976 Zb. v znení zákona č. 293/2014 Z. z.
+- 23ea) § 67 Stavebného zákona.
+
+- 23eb) § 24 zákona č. 200/2022 Z. z. v znení neskorších predpisov.
 
 - 23f) § 5 písm. w) zákona č. 200/2022 Z. z.
 
@@ -258,7 +244,7 @@
 
 - 23faa) § 21 ods. 1 zákona č. 443/2010 Z. z. o dotáciách na rozvoj bývania a o sociálnom bývaní v znení zákona č. 358/2020 Z. z.
 
-- 23g) § 40 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 23faaa) § 65 Stavebného zákona.
 
 - 23ga) § 2 ods. 3 zákona č. 49/2002 Z. z. v znení zákona č. 104/2014 Z. z.
 
@@ -362,7 +348,7 @@
 
 - 24) Zákon SNR č. 253/1991 Zb. o pôsobnosti vo veciach prevodov majetku štátu na iné osoby a o Fonde národného majetku Slovenskej republiky.
 
-- 24a) Zákon č. 50/1976 Zb. v znení neskorších predpisov.
+- 24a) Zákon č. 200/2022 Z. z. v znení neskorších predpisov. Stavebný zákon.
 
 - Zákon č. 92/1991 Zb. v znení neskorších predpisov.
 
