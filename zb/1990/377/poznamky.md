@@ -16,6 +16,8 @@
 
 - § 21 ods. 3 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 360/2020 Z. z.
 
+- 2d) § 24a ods. 1 zákona č. 200/2022 Z. z. o územnom plánovaní v znení zákona č. 26/2025 Z. z.
+
 - 3) Zákon Slovenskej národnej rady č. 346/1990 Zb. o voľbách do orgánov samosprávy obcí.
 
 - 7) Zákon č. 85/2005 Z. z. o politických stranách a politických hnutiach v znení neskorších predpisov.

@@ -1,6 +1,6 @@
-# § 7d Záväzné stanovisko k stavebnému zámeru
+# § 7d Záväzné stanovisko dotknutého orgánu
 
-(1) Návrh stavebného zámeru sa doručuje Bratislave a mestskej časti, na území ktorej sa má nachádzať stavba; ak stavbu tvorí viac stavebných objektov, doručuje sa mestskej časti, na území ktorej sa má nachádzať hlavný stavebný objekt.
+(1) Návrh stavebného zámeru sa doručuje Bratislave a mestskej časti, na území ktorej sa má zhotovovať stavba; ak stavbu tvorí viac stavebných objektov, doručuje sa mestskej časti, na území ktorej sa má zhotovovať hlavný stavebný objekt.
 
 (2) Lehota na doručenie záväzného stanoviska k súladu návrhu stavebného zámeru so záväznou časťou územnoplánovacej dokumentácie je
 
@@ -17,3 +17,5 @@
 (5) Lehota podľa odsekov 2 až 4 začína plynúť dňom doručenia návrhu stavebného zámeru Bratislave a mestskej časti podľa odseku 1.
 
 (6) Mestské zastupiteľstvo môže so súhlasom príslušnej mestskej časti v štatúte určiť lokality, kde záväzné stanovisko o súlade stavebného zámeru so záväznou časťou územnoplánovacej dokumentácie, aj ak ide o iné než jednoduché stavby, vydáva mestská časť a postupuje sa podľa odseku 3 a § 7a ods. 2 písm. j).
+
+(7) Odseky 1 až 6 sa použijú aj na vydávanie záväzného stanoviska dotknutého orgánu podľa Stavebného zákona v iných konaniach, v ktorých podľa osobitného predpisu orgán územného plánovania toto stanovisko vydáva.<sup>2d</sup>)
