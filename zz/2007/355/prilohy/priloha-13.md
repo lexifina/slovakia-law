@@ -1,1 +1,1 @@
-Príloha č. 13 k zákonu č. 355/2007 Z. z. [príloha](../assets/ed7767f49a024aa55dace71ff778597fae200295998e4492a6f1851bdab6c34b.pdf)
+Príloha č. 13 k zákonu č. 355/2007 Z. z. [príloha](../assets/b09dabd83fe7301318c7b7e0c808aa18a2c9fd9b010361a8aaff8056cdc0b2b8.pdf)

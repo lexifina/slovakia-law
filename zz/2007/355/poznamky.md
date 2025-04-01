@@ -96,13 +96,23 @@
 
 - 14b) Čl. 2 ods. 1 písm. r) nariadenia (ES) č.1223/2009 v platnom znení.
 
-- 15) Napríklad zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov, zákon č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov, § 32 zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení zákona č. 230/2005 Z. z.
+- 15) Napríklad zákon č. 200/2022 Z. z. o územnom plánovaní v znení neskorších predpisov, Stavebný zákon, zákon č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov, § 32 zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení zákona č. 230/2005 Z. z.
+
+- 15a) Napríklad § 21 ods. 9 Stavebného zákona.
 
 - 16) § 39 zákona č. 39/2007 Z. z. o veterinárnej starostlivosti.
 
 - 16a) § 64 ods. 6 zákona č. 448/2008 Z. z. v znení zákona č. 221/2019 Z. z.
 
 - 16aa) § 32 zákona č. 364/2004 Z. z. v znení neskorších predpisov.
+
+- 16aaa) Zákon č. 24/2006 Z. z. v znení neskorších predpisov.
+
+- 16aab) Zákon č. 39/2013 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 16aac) § 69 Stavebného zákona.
+
+- 16aad) § 70 Stavebného zákona.
 
 - 17) Zákon č. 193/2005 Z. z. o rastlinolekárskej starostlivosti.
 
@@ -119,8 +129,6 @@
 - § 61 písm. m) zákona č. 364/2004 Z. z. v znení zákona č. 517/2022 Z. z.
 
 - 19b) § 7a ods. 8 zákona č. 364/2004 Z. z. v znení zákona č. 517/2022 Z. z.
-
-- 20a) § 140b ods. 4 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 540/2008 Z. z.
 
 - 21) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
@@ -164,9 +172,9 @@
 
 - 24o) § 15 ods. 13 zákona č. 442/2002 Z. z. v znení zákona č. 517/2022 Z. z.
 
-- 24p) § 43b zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
+- 24p) § 3 ods. 2 Stavebného zákona.
 
-- 24q) § 43c zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
+- 24q) § 3 ods. 3 Stavebného zákona.
 
 - 24r) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
 
