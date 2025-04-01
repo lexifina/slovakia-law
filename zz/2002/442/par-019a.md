@@ -22,6 +22,6 @@
 
 (3) Ak má byť čistiareň odpadových vôd umiestnená v smere prevládajúceho vetra k obytnému územiu, vzdialenosti podľa odseku 2 sa zdvojnásobujú.
 
-(4) Stavebník čistiarne odpadových vôd je povinný predložiť k územnému konaniu<sup>11c</sup>) návrh vymedzeného hygienického pásma čistiarne odpadových vôd.
+(4) Stavebník čistiarne odpadových vôd je povinný predložiť ku konaniu o stavebnom zámere<sup>11c</sup>) návrh vymedzeného hygienického pásma čistiarne odpadových vôd.
 
 (5) Hygienické pásmo čistiarne odpadových vôd pre malé čistiarne odpadových vôd s kapacitou do 100 m<sup>3</sup> za deň zodpovedá technickej norme<sup>11d</sup>)alebo inej obdobnej technickej špecifikácii s porovnateľnými alebo prísnejšími požiadavkami.

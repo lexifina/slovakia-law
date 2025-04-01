@@ -18,11 +18,11 @@
 
 - 2a) § 2b ods. 1 zákona Slovenskej národnej rady č. 369/1990 Zb. v znení zákona č. 70/2018 Z. z.
 
-- 2b) § 139b ods. 8 písm. c) zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku v znení zákona č. 312/2018 Z. z.
+- 2b) § 2 ods. 4 písm. e) Stavebného zákona.
 
 - 3) Zákon č. 314/2001 Z. z. o ochrane pred požiarmi v znení neskorších predpisov.
 
-- 3a) § 43 zákona č. 50/1976 Zb. v znení zákona č. 293/2014 Z. z.
+- 3a) § 22 Stavebného zákona.
 
 - 4) § 2 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
@@ -82,7 +82,7 @@
 
 - 11b) Zákon č. 7/2010 Z. z. o ochrane pred povodňami v znení neskorších predpisov.
 
-- 11c) § 39a a 39b zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 11c) § 48 až 62 Stavebného zákona.
 
 - 11d) Napríklad STN 75 6402 Malé čistiarne odpadových vôd (75 6402).
 
@@ -114,7 +114,7 @@
 
 - 21) Zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov.
 
-- 22) Zákon č. 50/1976 Zb. v znení neskorších predpisov.
+- 22) Stavebný zákon.
 
 - 23) Zákon Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách v znení zákona č. 396/2002 Z. z.
 
