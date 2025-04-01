@@ -22,7 +22,7 @@
 
 - 7a) § 28 zákona č. 245/2003 Z. z. v znení zákona č. 532/2005 Z. z.
 
-- 8) Napríklad zákon č. 543/2002 Z. z. v znení neskorších predpisov, zákon č. 182/2005 Z. z. o vinohradníctve v znení zákona č. 283/2007 Z. z., zákon č. 326/2005 Z. z. o lesoch v znení neskorších predpisov, zákon Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov, zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+- 8) Napríklad zákon č. 543/2002 Z. z. v znení neskorších predpisov, zákon č. 182/2005 Z. z. o vinohradníctve v znení zákona č. 283/2007 Z. z., zákon č. 326/2005 Z. z. o lesoch v znení neskorších predpisov, zákon Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov, zákon č. 200/2022 Z. z. o územnom plánovaní v znení neskorších predpisov, Stavebný zákon.
 
 - 9) § 8 ods. 2 zákona č. 281/1997 Z. z.
 
@@ -46,17 +46,23 @@
 
 - Zákon č. 184/2002 Z. z. o vodách a o zmene a doplnení niektorých zákonov (vodný zákon) v znení neskorších predpisov.
 
+- 10a) § 24 zákona č. 200/2022 Z. z.
+
 - 11) Šiesta časť zákona č. 200/2022 Z. z. v znení zákona č. 205/2023 Z. z.
 
 - 11a) Napríklad zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov.
 
-- 11aa) § 32 ods. 2 zákona č. 50/1976 Zb. v znení zákona č. 254/2015 Z. z.
+- 11aa) § 2 písm. a) a f) až i) a § 3 zákona č. 371/2021 Z. z. o významných investíciách.
+
+- Zákon č. 142/2024 Z. z. o mimoriadnych opatreniach pre strategické investície a pre výstavbu transeurópskej dopravnej siete a o zmene a doplnení niektorých zákonov.
 
 - 11aaa) Zákon č. 142/2024 Z. z. o mimoriadnych opatreniach pre strategické investície a pre výstavbu transeurópskej dopravnej siete a o zmene a doplnení niektorých zákonov.
 
 - 11ab) Zákon č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko účinnej kombinovanej výroby a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 11b) Napríklad zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov, zákon č. 50/1976 Zb. v znení neskorších predpisov.
+- 11b) § 24 ods. 11 zákona č. 200/2022 Z. z.
+
+- § 60 ods. 1 písm. f) Stavebného zákona.
 
 - 12a) Zákon č. 175/1999 Z. z. o niektorých opatreniach týkajúcich sa prípravy významných investícií a o doplnení niektorých zákonov v znení neskorších predpisov.
 
