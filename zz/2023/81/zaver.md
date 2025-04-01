@@ -1,1 +1,0 @@
-Martin Hypký v. r.
