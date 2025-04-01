@@ -38,21 +38,23 @@
 
 - 9) Zákon č. 200/2022 Z. z. o územnom plánovaní v znení neskorších predpisov.
 
+- 9a) Stavebný zákon.
+
 - 10) Zákon č. 44/1988 Zb. o ochrane a využívaní nerastného bohatstva (banský zákon) v znení neskorších predpisov.
 
 - 11) § 31 ods. 7 a 21 zákona č. 200/2022 Z. z.
 
 - 11a) Zákon Národnej rady Slovenskej republiky č. 129/1996 Z. z. o niektorých opatreniach na urýchlenie prípravy výstavby diaľnic a ciest pre motorové vozidlá v znení neskorších predpisov.
 
-- § 38 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 11aa) § 21 Stavebného zákona.
 
 - 12) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
-- 12a) § 139 ods. 1 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 12a) § 29 ods. 1 Stavebného zákona.
 
 - 12b) Zákon č. 142/2024 Z. z. o mimoriadnych opatreniach pre strategické investície a pre výstavbu transeurópskej dopravnej siete a o zmene a doplnení niektorých zákonov.
 
-- 13) Napríklad § 54 až 57 zákona č. 50/1976 Zb. v znení neskorších predpisov, zákon č. 44/1988 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii v znení zákona č. 423/2003 Z. z., zákon č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov, zákon č. 610/2003 Z. z. o elektronických komunikáciách v znení neskorších predpisov, zákon č. 276/2001 Z. z. o regulácii v sieťových odvetviach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 281/1997 Z. z. v znení zákona č. 172/2003 Z. z.
+- 13) Napríklad § 18 a 25 Stavebného zákona, zákon č. 44/1988 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii v znení zákona č. 423/2003 Z. z., zákon č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov, zákon č. 610/2003 Z. z. o elektronických komunikáciách v znení neskorších predpisov, zákon č. 276/2001 Z. z. o regulácii v sieťových odvetviach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 281/1997 Z. z. v znení zákona č. 172/2003 Z. z.
 
 - 13a) § 17 zákona č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
 
@@ -62,13 +64,13 @@
 
 - 13ac) § 2 a 3 zákona č. 442/2002 Z. z. o verejných vodovodoch a verejných kanalizáciách a o zmene a doplnení zákona č. 276/2001 Z. z. o regulácii v sieťových odvetviach v znení neskorších predpisov.
 
-- 13ad) § 43a ods. 3 písm. f) až i) zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 13ad) § 4 ods. 2 Stavebného zákona.
 
 - 14) § 1 až 6 zákona č. 175/1999 Z. z. o niektorých opatreniach týkajúcich sa prípravy významných investícií a o doplnení niektorých zákonov v znení neskorších predpisov.
 
 - Zákon č. 193/2001 Z. z. o podpore na zriadenie priemyselných parkov a o doplnení zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov v znení neskorších predpisov.
 
-- 15) § 39c ods. 3 zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
+- 15) § 22 ods. 4 a § 31 ods. 7 a 21 zákona č. 200/2022 Z. z.
 
 - 15a) § 22 ods. 4 a § 31 ods. 7 a 21 zákona č. 200/2022 Z. z.
 
@@ -178,7 +180,7 @@
 
 - 46) Zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 47) Napríklad zákon č. 364/2004 Z. z. v znení neskorších predpisov, zákon č. 666/2004 Z. z., zákon č. 50/1976 Zb. v znení neskorších predpisov.
+- 47) Napríklad zákon č. 364/2004 Z. z. v znení neskorších predpisov, zákon č. 666/2004 Z. z., Stavebný zákon.
 
 - 48) § 2 ods. 4 zákona č. 194/1998 Z. z. o šľachtení a plemenitbe hospodárskych zvierat a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
@@ -256,7 +258,7 @@
 
 - 69a) § 13 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. v znení neskorších predpisov.
 
-- 69b) Napríklad stavebný zákon, zákon č. 220/2004 Z. z. v znení neskorších predpisov.
+- 69b) Napríklad Stavebný zákon, zákon č. 220/2004 Z. z. v znení neskorších predpisov.
 
 - 70) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
@@ -284,9 +286,9 @@
 
 - 74d) § 40 ods. 2 zákona č. 200/2022 Z. z.
 
-- 74e) § 108 ods. 2 písm. a) a ods. 3 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 74e) § 24 zákona č. 200/2022 Z. z. v znení neskorších predpisov.
 
-- 74f) § 139 ods. 1 písm. a) a b) zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 74f) § 60 Stavebného zákona.
 
 - 74g) § 2 ods. 3 zákona č. 49/2002 Z. z. o ochrane pamiatkového fondu v znení zákona č. 104/2014 Z. z.
 
