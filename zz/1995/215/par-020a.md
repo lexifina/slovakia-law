@@ -14,16 +14,30 @@ c)
 
 bezplatne poskytnúť letecké meračské snímky a ich orientačné parametre na využitie pre základnú bázu údajov geografického informačného systému právnickej osobe zriadenej úradom.
 
-(2) Obec súčasne s vydaním kolaudačného rozhodnutia o užívaní rodinného domu alebo o užívaní bytu v bytovom dome alebo o užívaní bytového domu zapíše do informačného systému geodézie, kartografie a katastra údaje o
+(2) Správca informačného systému územného plánovania a výstavby,<sup>14a</sup>) v rozsahu, v akom sú tieto údaje evidované v registri výstavby, sprístupňuje informačnému systému geodézie, kartografie a katastra údaje o
 
-- a) úžitkovej ploche rodinného domu alebo o podlahovej ploche bytu,
+- a) zastavanej ploche stavby,
 
-- b) počte izieb rodinného domu alebo bytu,
+- b) podlahovej ploche stavby, bytu alebo nebytového priestoru,
 
-- c) počte podlaží rodinného domu alebo bytového domu,
+- c) počte nadzemných a podzemných podlaží vrátane prízemia,
 
-- d) konštrukcii rodinného domu alebo bytového domu a
+- d) prevažujúcej konštrukcii stavby,
 
-- e) dátume kolaudácie rodinného domu alebo bytového domu.
+- e) celkovom počte obytných a neobytných miestností,
 
-(3) Ak dôjde k zmene údajov podľa odseku 2, ktoré sú zapísané do informačného systému geodézie, kartografie a katastra, na základe ďalšieho kolaudačného rozhodnutia týkajúceho sa rodinného domu, bytu v bytovom dome alebo bytového domu, obec súčasne s jeho vydaním zapíše zmenené údaje do informačného systému geodézie, kartografie a katastra.
+- f) tom, či je v bytovom dome alebo ostatnej budove výťah,
+
+- g) stave nehnuteľnosti
+
+  - 1. novostavba,
+
+  - 2. kompletná rekonštrukcia,
+
+  - 3. čiastočná rekonštrukcia alebo
+
+  - 4. pôvodný stav,
+
+- h) dátume kolaudácie stavby; ak nie je známy dátum kolaudácie stavby staršej ako 30 rokov, uvedie sa rok kolaudácie.
+
+(3) Stavebný úrad zapíše do informačného systému geodézie, kartografie a katastra údaje podľa odseku 2 alebo ich zmenu, ak tieto údaje nebudú evidované v registri výstavby.<sup>14b</sup>)

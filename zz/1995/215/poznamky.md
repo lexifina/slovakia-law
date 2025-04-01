@@ -8,13 +8,15 @@
 
 - 2a) § 13 až 15 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
+- 2aa) § 4 ods. 2 písm. c) a f) zákona č. 298/1999 Z. z. o správe štátnych hraníc.
+
 - 2b) Zákon č. 293/2007 Z. z. o uznávaní odborných kvalifikácií.
 
 - 2c) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 3) § 25 zákona Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov.
 
-- 3a) § 139b ods. 1, 5 a 6 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+- 3a) § 2 ods. 4 až 7 a § 5 Stavebného zákona.
 
 - 4) § 5 zákona Národnej rady Slovenskej republiky č. 216/1995 Z. z. o Komore geodetov a kartografov.
 
@@ -43,6 +45,10 @@
 - 13b) Zákon č. 184/1999 Z. z. o používaní jazykov národnostných menšín v znení neskorších predpisov.
 
 - 14) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
+
+- 14a) § 25 zákona č. 200/2022 Z. z. v znení neskorších predpisov.
+
+- 14b) § 15 ods. 5 písm. h) Stavebného zákona.
 
 - 15) § 69 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z.
 
