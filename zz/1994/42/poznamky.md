@@ -50,9 +50,11 @@
 
 - 16b) § 15 zákona č. 200/2022 Z. z. o územnom plánovaní.
 
-- § 140a ods. 1 písm. a) zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
+- § 21 Stavebného zákona.
 
-- 16ba) § 140b zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
+- 16ba) § 21 Stavebného zákona.
+
+- 16bc) § 24 ods. 2 Stavebného zákona.
 
 - 16c) Zákon č. 128/2015 Z. z.
 
