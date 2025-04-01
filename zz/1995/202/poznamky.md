@@ -52,7 +52,7 @@
 
 - 16c) Napríklad zákon č. 507/2001 Z. z. o poštových službách, zákon č. 80/1997 Z. z. o Exportno-importnej banke Slovenskej republiky v znení neskorších predpisov.
 
-- 17) § 82 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+- 17) § 67 ods. 1 Stavebného zákona.
 
 - 17a) Zákon č. 297/2008 Z. z. ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
