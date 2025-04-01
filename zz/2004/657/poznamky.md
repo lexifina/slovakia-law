@@ -6,7 +6,7 @@
 
 - 2) § 8 zákona č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení zákona č. 431/2004 Z. z.
 
-- 2a) § 43b a 43c zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 237/2000 Z. z.
+- 2a) § 3 ods. 2 a 3 Stavebného zákona.
 
 - 2b) STN EN ISO 13790/NA Energetická hospodárnosť budov. Výpočet potreby energie na vykurovanie a chladenie. Národná príloha.
 
@@ -58,9 +58,9 @@
 
 - 12f) § 2 ods. 1 písm. h) zákona č. 476/2008 Z. z.
 
-- 13) Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+- 13) Zákon č. 200/2022 Z. z. o územnom plánovaní v znení neskorších predpisov.
 
-- 13c) § 55 ods. 1 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 13c) § 60 Stavebného zákona.
 
 - 14) § 12 zákona č. 276/2001 Z. z. v znení zákona č. 442/2002 Z. z.
 
@@ -116,4 +116,4 @@
 
 - 23) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
-- 24) § 140b zákona č. 50/1976 Zb.
+- 24) § 21 Stavebného zákona.
