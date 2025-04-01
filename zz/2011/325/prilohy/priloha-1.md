@@ -1,3 +1,0 @@
-Príloha č. 1 k vyhláške č. 325/2011 Z. z.
-
-- ZÁVEREČNÉ TECHNICKO–EKONOMICKÉ HODNOTENIE STAVBY [Vzor 01](../assets/fe7b8c8384a9ec590dba62dffc9718a730b645e06205182691a7aa57c8757448.pdf)
