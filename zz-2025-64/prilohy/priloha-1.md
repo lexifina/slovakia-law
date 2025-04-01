@@ -1,0 +1,1 @@
+Príloha č. 1 k vyhláške č. 64/2025 Z. z. [Minimálna suma výdavkov určená pre jednotlivé typy zdravotnej starostlivosti v eurách z celkovej sumy výdavkov určenej na zdravotnú starostlivosť v rozpočte verejnej správy jednotlivo pre každú zdravotnú poisťovňu na rok 2025](../assets/c71c00202b219736aa20be3a07ee127d9cf25175f6cf44d9a8de0c89b6d304cf.pdf)

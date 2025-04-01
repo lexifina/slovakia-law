@@ -1,0 +1,1 @@
+Príloha č. 2 k vyhláške č. 64/2025 Z. z. [VZOR - Oznámenie o skutočnej sume vynaložených výdavkoch podľa jednotlivých typov zdravotnej starostlivosti za kalendárny mesiac](../assets/0cfd87dea82f7e4ec9f187b0ff5e812422b48deddff26f621c823af30429f0f3.pdf)
