@@ -50,7 +50,7 @@
 
 - 17) § 6 ods. 1 nariadenia vlády Slovenskej republiky č. 152/1996 Z. z. o základných sadzbách odvodov za odňatie poľnohospodárskej pôdy z poľnohospodárskeho pôdneho fondu.
 
-- 18) § 6 vyhlášky Federálneho ministerstva pre technický a investičný rozvoj č. 85/1976 Zb. o podrobnejšej úprave územného konania a stavebnom poriadku v znení vyhlášky č. 155/1980 Zb. a vyhlášky č. 378/1992 Zb.
+- 18) § 7 ods. 1 Stavebného zákona.
 
 - 19) § 134 Občianskeho zákonníka.
 
@@ -92,9 +92,7 @@
 
 - § 11 zákona č. 371/2021 Z. z. o významných investíciách.
 
-- 31ab) § 43 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
-
-- § 2 ods. 1 zákona č. 201/2022 Z. z. o výstavbe.
+- 31ab) § 2 Stavebného zákona.
 
 - 31c) Zákon č. 503/2003 Z. z. o navrátení vlastníctva k pozemkom a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov.
 
@@ -110,7 +108,7 @@
 
 - 39) Zákon č. 282/2015 Z. z. o vyvlastňovaní pozemkov a stavieb a o nútenom obmedzení vlastníckeho práva k nim a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 39a) Napríklad zákon Slovenskej národnej rady č. 307/1992 Zb., zákon č. 50/1976 Zb.
+- 39a) Napríklad zákon Slovenskej národnej rady č. 307/1992 Zb., Stavebný zákon.
 
 - 39b) Zákon č. 193/2001 Z. z. o podpore na zriadenie priemyselných parkov a o doplnení zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov.
 
@@ -129,6 +127,10 @@
 - 46a) § 34 ods. 3 zákona Slovenskej národnej rady č. 330/1991 Zb. v znení zákona č. 139/2010 Z. z.
 
 - 46b) Napríklad § 62 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
+
+- 46c) § 48 až 62 Stavebného zákona.
+
+- 46d) § 57 ods. 2 písm. a) Stavebného zákona.
 
 - 47) § 34 ods. 3 písm. a) zákona Slovenskej národnej rady č. 330/1991 Zb.
 
