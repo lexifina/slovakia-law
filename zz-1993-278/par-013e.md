@@ -1,0 +1,3 @@
+# § 13e
+
+Ak je to dohodnuté v koncesnej zmluve, správca môže s koncesionárom uzatvoriť dohodu o splátkach alebo dohodu o odklade platenia pohľadávky štátu, ktorá vznikla z koncesnej zmluvy. Dohodu o odklade platenia možno uzatvoriť najviac na obdobie jedného roka od splatnosti pohľadávky štátu. Úroky z omeškania sa za obdobie trvania dohody o splátkach alebo dohody o odklade platenia neuplatňujú a nevymáhajú. Osobitné predpisy v oblasti štátnej pomoci<sup>13ab</sup>) nie sú týmto dotknuté. Ak koncesionár nezaplatí niektorú splátku riadne a včas alebo ak nezaplatí celý dlh v dohodnutej lehote, správca uplatní voči koncesionárovi pohľadávku štátu vrátane úrokov z omeškania za celé obdobie trvania dohody o splátkach alebo dohody o odklade platenia.
