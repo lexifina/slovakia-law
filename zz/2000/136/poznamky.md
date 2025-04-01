@@ -40,7 +40,7 @@
 
 - 7b) § 39 ods. 1 písm. b) až e) zákona č. 326/2005 Z. z. o lesoch v znení zákona č. 182/2014 Z. z.
 
-- 7c) § 43 ods. 1 písm. a) zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+- 7c) § 2 ods. 1 Stavebného zákona.
 
 - 7d) § 2 písm. c) zákona č. 505/2009 Z. z. o akreditácii orgánov posudzovania zhody a o zmene a doplnení niektorých zákonov.
 
