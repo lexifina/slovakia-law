@@ -1,0 +1,1 @@
+Ján Mikolaj v. r.
