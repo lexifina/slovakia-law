@@ -9,3 +9,5 @@
 (4) Pri nakladaní s cennými papiermi a majetkovými podielmi v právnických osobách vo vlastníctve štátu je správca povinný vytvoriť čestné súťažné prostredie, ak tento postup nevylučuje Obchodný zákonník alebo osobitný predpis.<sup>14a</sup>) Prevod správy cenných papierov a majetkových podielov sa realizuje zmluvou o prevode správy.
 
 (5) Fyzická osoba a právnická osoba, na ktorú sa vzťahuje povinnosť zapisovať sa do registra partnerov verejného sektora,<sup>15a</sup>) môže byť nadobúdateľom alebo užívateľom majetku štátu podľa tohto zákona len vtedy, ak je zapísaná v registri partnerov verejného sektora.<sup>15b</sup>) Splnenie podmienky podľa predchádzajúcej vety preukazuje v katastrálnom konaní správca.
+
+(6) Pozemok štátu možno rozdeliť alebo oddeliť jeho časť, ak rozdelením alebo oddelením jeho časti nie je ohrozená ďalšia využiteľnosť a jednotková hodnota<sup>13b</sup>) pozemku, ktorý zostáva vo vlastníctve štátu.

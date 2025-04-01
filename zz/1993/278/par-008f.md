@@ -1,6 +1,6 @@
 # § 8f Nakladanie s prebytočným hnuteľným majetkom štátu
 
-(1) Prebytočný vymedzený hnuteľný majetok štátu je správca povinný ponúknuť na prevod správy v registri, a ak predmetom ponuky je hnuteľná národná kultúrna pamiatka,<sup>17a</sup>) písomne aj Ministerstvu kultúry Slovenskej republiky. Ponuka v registri musí obsahovať najmä identifikáciu majetku štátu s uvedením jeho charakteristiky, požadovanú odplatu, ak správca požaduje za prevod správy odplatu, a lehotu na doručenie ponúk, ktorá nesmie byť kratšia ako desať dní odo dňa nasledujúceho po dni zverejnenia ponuky. Za vymedzený hnuteľný majetok štátu sa považuje
+(1) Prebytočný vymedzený hnuteľný majetok štátu je správca povinný ponúknuť na prevod správy v registri, a ak predmetom ponuky je hnuteľná národná kultúrna pamiatka,<sup>17a</sup>) písomne aj Ministerstvu kultúry Slovenskej republiky. Ponuka v registri musí obsahovať najmä identifikáciu majetku štátu s uvedením jeho charakteristiky, lehotu na doručenie ponúk, ktorá nesmie byť kratšia ako desať dní odo dňa nasledujúceho po dni zverejnenia ponuky a informáciu, či správca požaduje za prevod správy odplatu, ak § 9 neustanovuje povinnosť bezodplatného prevodu správy. Za vymedzený hnuteľný majetok štátu sa považuje
 
 - a) výpočtová a telekomunikačná technika, ak neuplynulo viac ako dva roky od dátumu jej prvého uvedenia do prevádzky; ak nie je zrejmý dátum prvého uvedenia do prevádzky, lehota dvoch rokov plynie od roku výroby tohto hnuteľného majetku štátu,
 
@@ -14,7 +14,7 @@
 
 - a) podielu majetku štátu v spoločnej správe, ktorým sa realizuje prednostné právo na prevod správy podielu majetku štátu v spoločnej správe,
 
-- b) majetku štátu medzi zriaďovateľom a správcom v jeho zriaďovateľskej pôsobnosti, ak tento majetok štátu nadobúda do svojej správy zriaďovateľ,
+- b) majetku štátu medzi zriaďovateľom a správcom v jeho zriaďovateľskej pôsobnosti,
 
 - c) majetku štátu zámenou správy,
 

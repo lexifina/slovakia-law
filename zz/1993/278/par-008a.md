@@ -16,7 +16,7 @@
 
 (5) Správca je oprávnený zrušiť osobitné ponukové konanie, ak
 
-- a) bolo príslušným orgánom začaté konanie o vyvlastnení<sup>13ac</sup>) alebo konanie o obmedzení vlastníckeho práva štátu k predmetu prevodu alebo jeho časti,
+- a) bolo príslušným orgánom začaté konanie o vyvlastnení alebo konanie o obmedzení vlastníckeho práva štátu k predmetu prevodu alebo jeho časti,
 
 - b) si to vyhradil v podmienkach osobitného ponukového konania.
 

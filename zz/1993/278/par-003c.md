@@ -22,10 +22,10 @@
 
   - 3. podlahová plocha bytu a podlahová plocha nebytového priestoru podľa osobitného predpisu,<sup>24</sup>)
 
-- d) podiel užívania nehnuteľného majetku štátu správcom a podiel využívania nehnuteľného majetku štátu inými osobami okrem prenechania nehnuteľného majetku štátu do krátkodobého nájmu, krátkodobej výpožičky alebo krátkodobého podnájmu,
+- d) podiel užívania nehnuteľného majetku štátu správcom a podiel využívania nehnuteľného majetku štátu inými osobami okrem prenechania nehnuteľného majetku štátu do krátkodobého nájmu, krátkodobej výpožičky alebo krátkodobého podnájmu; označenie osoby, ktorá užíva majetok štátu, v rozsahu meno a priezvisko fyzickej osoby, adresa jej trvalého pobytu alebo prechodného pobytu a názov, sídlo alebo miesto podnikania, identifikačné číslo právnickej osoby alebo fyzickej osoby – podnikateľa,
 
-- e) identifikáciu nehnuteľného majetku vo vlastníctve inej osoby, ktorý je užívaný správcom, údaje o úžitkovej ploche v užívaní správcu a označenie vlastníka,
+- e) identifikáciu nehnuteľného majetku vo vlastníctve inej osoby, ktorý je užívaný správcom, údaje o úžitkovej ploche v užívaní správcu a označenie vlastníka v rozsahu meno a priezvisko fyzickej osoby, adresa jej trvalého pobytu alebo prechodného pobytu a názov, sídlo alebo miesto podnikania, identifikačné číslo právnickej osoby alebo fyzickej osoby – podnikateľa,
 
 - f) údaje o energetickej náročnosti, ak bol pre stavbu vykonaný energetický audit.
 
-(3) Údaje do centrálnej evidencie majetku alebo ich zmeny vkladá správca do 30 dní po vzniku skutočností uvedených v odseku 2 alebo ich zmene.
+(3) Údaje do centrálnej evidencie majetku alebo ich zmeny vkladá správca do 30 dní po vzniku skutočností uvedených v odseku 2 alebo ich zmene. Ministerstvo financií eviduje údaje podľa odseku 2 v centrálnej evidencii majetku po dobu jedného roka od ukončenia užívacieho vzťahu. Údaje podľa odseku 2 sú sprístupňované prostredníctvom webového sídla ministerstva financií. Ministerstvo financií vystupuje pri správe centrálnej evidencie majetku ako prevádzkovateľ podľa osobitného predpisu.<sup>10e</sup>)
