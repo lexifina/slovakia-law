@@ -22,11 +22,13 @@
 
 - 12a) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
 
-- 13) Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+- 13) § 24 zákona č. 200/2022 Z. z. o územnom plánovaní v znení neskorších predpisov.
 
 - 14) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 16) Zákon Národnej rady Slovenskej republiky č. 127/1994 Z. z. o posudzovaní vplyvov na životné prostredie v znení neskorších predpisov.
+- 16) § 15 zákona č. 200/2022 Z. z. v znení neskorších predpisov.
+
+- 16a) § 21 Stavebného zákona.
 
 - 17) Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
 
