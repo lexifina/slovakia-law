@@ -16,7 +16,13 @@
 
 - 8) § 12 písm. c) zákona č. 326/2005 Z. z. o lesoch.
 
-- 9) § 43 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+- 8a) § 60 Stavebného zákona.
+
+- 8b) § 63 Stavebného zákona.
+
+- 8c) § 5 Stavebného zákona.
+
+- 9) § 4 Stavebného zákona.
 
 - 10) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
 
@@ -24,7 +30,7 @@
 
 - 11) § 6 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
-- 11a) § 43b ods. 1 písm. a) a b) zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
+- 11a) § 3 ods. 2 Stavebného zákona.
 
 - 11aa) § 19 zákona Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov.
 
@@ -32,17 +38,13 @@
 
 - 11ab) § 2 písm. b) druhý bod zákona č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov v znení neskorších predpisov.
 
-- 11b) § 139b zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 11b) § 2 ods. 4 a 5 Stavebného zákona.
 
-- 11ba) § 86 ods. 1 zákona č. 50/1976 Z. z.
+- 11ba) § 45 ods. 2 Stavebného zákona.
 
-- 11bb) § 86 ods. 2 zákona č. 50/1976 Z. z. v znení zákona č. 237/2000 Z. z.
+- 11bb) § 75 Stavebného zákona.
 
-- 11bc) § 43d zákona č. 50/1976 Z. z. v znení neskorších predpisov.
-
-- 11bd) § 87 zákona č. 50/1976 Z. z. v znení zákona č. 237/2000 Z. z.
-
-- 11be) § 88 ods. 1 písm. a) zákona č. 50/1976 Z. z.
+- 11be) § 78 Stavebného zákona.
 
 - 11c) § 16 ods. 4 a 5 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
 
@@ -62,7 +64,7 @@
 
 - 16) Zákon Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii v znení zákona č. 423/2003 Z. z.
 
-- Zákon č. 50/1976 Zb. v znení neskorších predpisov.
+- Stavebný zákon.
 
 - 17) Zákon č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov v znení neskorších predpisov.
 
@@ -80,9 +82,7 @@
 
 - Zákon č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 20b) § 43a ods. 3 písm. o) a § 43c ods. 1 písm. i) zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
-
-- Kód 19 prílohy č. 7 a kód 10 prílohy č. 10 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
+- 20b) Kód 19 prílohy č. 7 a kód 10 prílohy č. 10 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
 - 21) Napríklad zákon č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov, zákon č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov, zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov, zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
@@ -120,7 +120,7 @@
 
 - § 17 až 33 zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení zákona č. 408/2002 Z. z.
 
-- 29) § 43a ods. 2 zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
+- 29) § 3 Stavebného zákona.
 
 - 30) § 9 písm. d) zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).
 
