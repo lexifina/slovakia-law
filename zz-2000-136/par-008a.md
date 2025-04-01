@@ -1,0 +1,3 @@
+# § 8a Ohlasovacia povinnosť pre hnojivo, ktorým je EÚ produkt na hnojenie
+
+Ten, kto uvádza hnojivo, ktorým je EÚ produkt na hnojenie, do obehu, je povinný formou elektronického podania na formulári zverejnenom na webovom sídle kontrolného ústavu oznámiť údaje o type,<sup>6a</sup>) zložení a množstve tohto hnojiva spolu s etiketou alebo príbalovým letákom kontrolnému ústavu do 30 dní odo dňa jeho výroby na území Slovenskej republiky alebo odo dňa dovozu hnojiva uvedeného do obehu na územie Slovenskej republiky. Zoznam subjektov, ktoré uvádzajú toto hnojivo do obehu na územie Slovenskej republiky, je zverejnený na webovom sídle kontrolného ústavu.
