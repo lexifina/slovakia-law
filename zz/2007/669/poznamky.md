@@ -4,21 +4,19 @@
 
 - 2) § 19 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 215/2002 Z. z.
 
-- 3) § 58 a 58a zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 237/2000 Z. z.
+- 3) § 50 Stavebného zákona.
 
-- § 8 vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 453/2000 Z. z., ktorou sa vykonávajú niektoré ustanovenia stavebného zákona.
-
-- 4) § 139 ods. 1 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 4) § 29 ods. 1 Stavebného zákona.
 
 - 4a) Zákon č. 282/2015 Z. z. o vyvlastňovaní pozemkov a stavieb a o nútenom obmedzení vlastníckeho práva k nim a o zmene a doplnení niektorých zákonov.
 
-- 4ba) § 40 ods. 1 zákona č. 50/1976 Zb. v znení zákona č. 199/1995 Z. z.
+- 4ba) § 61 Stavebného zákona.
 
 - 4c) § 18 ods. 13 zákona č. 135/1961 Zb. v znení neskorších predpisov.
 
-- 4d) § 83 zákona č. 50/1976 Zb. v znení zákona č. 229/1997 Z. z.
+- 4d) § 70 Stavebného zákona.
 
-- 4e) § 82 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 4e) § 67 Stavebného zákona.
 
 - 4f) § 34 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení neskorších predpisov.
 
@@ -28,9 +26,7 @@
 
 - 4i) § 3 písm. f) zákona č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 5) § 79 zákona č. 50/1976 Zb.
-
-- § 17 a 18 vyhlášky č. 453/2000 Z. z.
+- 5) § 66 ods. 2 Stavebného zákona.
 
 - 6) § 111b zákona č. 50/1976 Zb.
 
