@@ -10,6 +10,8 @@
 
 - 5a) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
 
+- 6) § 3 Stavebného zákona.
+
 - 8) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 9a) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
@@ -34,6 +36,8 @@
 
 - 10d) § 6 zákona č. 151/2010 Z. z. o zahraničnej službe a o zmene a doplnení niektorých zákonov.
 
+- 10e) Čl. 4 ods. 7 nariadenia Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) (Ú. v. EÚ L 119, 4. 5. 2016) v platnom znení.
+
 - 11) Napríklad zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 10/2004 Z. z. o puncovníctve a skúšaní drahých kovov (puncový zákon), zákon č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 12) Napríklad § 135, 456 a 462 Občianskeho zákonníka v znení zákona č. 509/1991 Zb., § 357 Civilného mimosporového poriadku, § 59 a 60 Trestného zákona.
@@ -44,9 +48,9 @@
 
 - 13ab) Napríklad čl. 107 až 109 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 83, 30. 3. 2010), zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
 
-- 13abf) § 43b ods. 1 a § 43c ods. 1 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 237/2000 Z. z.
+- 13abf) § 2 Stavebného zákona.
 
-- 13ac) § 108 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+- 13ac) § 5 písm. w) zákona č. 200/2022 Z. z. o územnom plánovaní.
 
 - 13ad) § 2 ods. 2 a 3 zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby.
 
@@ -102,17 +106,15 @@
 
 - 20aa) § 676 ods. 2 Občianskeho zákonníka.
 
-- 20b) § 43a ods. 3 písm. r) zákona č. 50/1976 Zb. v znení zákona č. 293/2014 Z. z.
-
 - 20c) Zákon č. 25/2006 Z. z. v znení neskorších predpisov.
 
 - 21) § 659 a nasl. Občianskeho zákonníka.
 
 - 21a) Zákon č. 284/2023 Z. z. o niektorých vzťahoch súvisiacich s nájmom nehnuteľného majetku štátu a o doplnení zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
-- 22) § 43i ods. 1 zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
+- 22) § 6 Stavebného zákona.
 
-- 22a) § 43a ods. 3 písm. f), g), h) a i) zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 22a) § 2 ods. 4 písm. h) a ods. 6 písm. j) Stavebného zákona.
 
 - 22b) Napríklad § 10 zákona č. 657/2004 Z. z. o tepelnej energetike v znení neskorších predpisov, § 66 zákona č. 351/2011 Z. z. o elektronických komunikáciách, § 11 zákona č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov.
 
