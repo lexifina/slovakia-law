@@ -1078,9 +1078,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Vydanie záväzného posudku<sup>17a</sup>) pre
 
-    - 1. fyzickú osobu .......................................................................................................... 50 eur
+    - a) fyzickú osobu ................................................................................................... 50 eur,
 
-    - 2. fyzickú osobu – podnikateľa a právnickú osobu .................................................... 100 eur
+    - b) podnikateľa alebo právnickú osobu ............................................................. 100 eur.
 
   - Položka 57
 
@@ -1302,309 +1302,183 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - a)
 
-  - Návrh na vydanie rozhodnutia o umiestnení stavby alebo rozhodnutia o využití územia alebo rozhodnutia o zmene územného rozhodnutia
+  - Vydanie rozhodnutia o stavebnom zámere na
 
   - 1.
 
-  - pre fyzickú osobu .............................................................................................. 100 eur
+  - jednobytovú alebo dvojbytovú budovu a jej zmenu ............................................ 300 eur
 
   - 2.
 
-  - pre právnickú osobu .......................................................................................... 500 eur
+  - troj- až desaťbytovú bytovú budovu a jej zmenu ............................................ 1 000 eur
+
+  - 3.
+
+  - jedenásť až päťdesiat bytovú budovu a jej zmenu ........................................... 2 000 eur
+
+  - 4.
+
+  - päťdesiatjeden až stobytovú bytovú budovu a jej zmenu ................................ 3 500 eur
+
+  - 5.
+
+  - stojeden a viac bytovú budovu ....................................................................... 5 000 eur
+
+  - 6.
+
+  - nebytovú budovu a jej zmenu, ak je jednoduchou stavbou ................................ 300 eur
+
+  - 7.
+
+  - nebytovú budovu s podlahovou plochou do 500 m<sup>2</sup> vrátane .............................. 500 eur
+
+  - 8.
+
+  - nebytovú budovu s podlahovou plochou do 1 000 m<sup>2</sup> vrátane ........................ 1 000 eur
+
+  - 9.
+
+  - nebytovú budovu s podlahovou plochou nad 1 000 m<sup>2</sup>
+
+  - do 2 000 m<sup>2</sup> vrátane ...................................................................................... 2 000 eur
+
+  - 10.
+
+  - nebytovú budovu s podlahovou plochou nad 2 000 m<sup>2</sup>
+
+  - do 5 000 m<sup>2</sup> vrátane ...................................................................................... 5 000 eur
+
+  - 11.
+
+  - nebytovú budovu s podlahovou plochou nad 5 000 m<sup>2</sup>
+
+  - do 10 000 m<sup>2</sup> vrátane .................................................................................... 8 000 eur
+
+  - 12.
+
+  - nebytovú budovu s podlahovou plochou nad 10 000 m<sup>2</sup>............................... 10 000 eur
+
+  - 13.
+
+  - inžiniersku stavbu a jej zmenu pri odhadovanom náklade stavebného zámeru v sume bez dane z pridanej hodnoty
+
+  - do 60 000 eur vrátane ................................................................................... 300 eur
+
+  - nad 60 000 eur do 200 000 eur vrátane ........................................................ 800 eur
+
+  - nad 200 000 eur do 500 000 eur vrátane ................................................... 1 500 eur
+
+  - nad 500 000 eur do 5 000 000 eur vrátane ................................................ 5 000 eur
+
+  - nad 5 000 000 eur do 10 000 000 eur vrátane ......................................... 10 000 eur
+
+  - nad 10 000 000 eur do 50 000 000 eur vrátane ....................................... 15 000 eur
+
+  - nad 50 000 000 eur ................................................................................. 20 000 eur
+
+  - 14.
+
+  - Odstránenie stavby podľa bodov 1. až 13...................25 % sadzby podľa bodov 1. až 13.
 
   - b)
 
-  - Návrh na predĺženie platnosti rozhodnutia o umiestnení stavby ............................... 50 eur
+  - Overenie projektu stavby vrátane kontrolnej prehliadky
+
+  - 1.
+
+  - 30 % sadzby podľa písmena a), ak je projekt stavby posúdený spolu so stavebným zámerom
+
+  - 2.
+
+  - 50 % sadzby podľa písmena a), ak je projekt stavby posúdený samostatne
+
+  - 3.
+
+  - 10 % sadzby podľa písmena a) pri projekte na odstránenie stavby
+
+  - 4.
+
+  - pre drobnú stavbu na základe ohlásenia .............................................................. 50 eur
+
+  - 5.
+
+  - pre stavebnú úpravu na základe ohlásenia, ak sa vykonáva
+
+  - na bytovej budove ............................................. ............................................. 150 eur
+
+  - na nebytovej budove ....................................................................................... 300 eur
+
+  - na inžinierskej stavbe ..................................................................................... 300 eur
+
+  - terénna úprava ................................................................................................. 50 eur
+
+  - vonkajšia úprava .............................................................................................. 50 eur
+
+  - na informačnom zariadení .............................................................................. 300 eur
+
+  - na elektronickej komunikačnej sieti a jej vedeniach ........................................ 300 eur
+
+  - iná stavebná práca inde nezaradená ................................................................. 50 eur
+
+  - 6.
+
+  - pri zmene projektu stavby v priebehu realizácie 50 % sadzby podľa písmena b) prvého až tretieho bodu.
+
+  - c)
+
+  - Vydanie súhlasu so skúšobnou prevádzkou ............................................................ 200 eur
+
+  - d)
+
+  - Vydanie súhlasu s predčasnou prevádzkou stavby .................................................. 200 eur
+
+  - e)
+
+  - Vydanie kolaudačného osvedčenia ........................................ 30 % sadzby podľa písmena a)
+
+  - f)
+
+  - Opakovaná kolaudačná prehliadka ....................................... 20 % sadzby podľa písmena a)
+
+  - g)
+
+  - Predĺženie doby platnosti overovacej doložky k projektu stavby ............................... 100 eur
+
+  - h)
+
+  - Overenie dokumentácie skutočného zhotovenia stavby alebo pasportu stavby ............................................................................................................................... 100 eur
+
+  - i)
+
+  - Uloženie opatrenia na susednom pozemku na žiadosť ............................................... 50 eur
 
   - Oslobodenie
 
-  - Od poplatku podľa tejto položky sú oslobodení poskytovatelia sociálnych služieb, ktorí neposkytujú sociálne služby s cieľom dosiahnuť zisk za podmienok ustanovených osobitným zákonom,<sup>11</sup>) osvetové strediská, hvezdárne, planetáriá, knižnice, múzeá, galérie, divadlá, ktorých zriaďovateľom je štát alebo vyšší územný celok, a profesionálne hudobné inštitúcie, ktorých zriaďovateľom je štát alebo vyšší územný celok.
+  - 1.
+
+  - Od poplatku za vydanie rozhodnutia o stavebnom zámere na stavebné úpravy budov na bývanie sú oslobodení držitelia preukazu fyzickej osoby s ťažkým zdravotným postihnutím alebo preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom. Oslobodenie sa týka aj osoby, ktorá je spoluvlastníkom budovy na bývanie v bezpodielovom spoluvlastníctve manželov, a s osobou, ktorá je držiteľom preukazu fyzickej osoby s ťažkým zdravotným postihnutím alebo preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom, žije v spoločnej domácnosti.
+
+  - 2.
+
+  - Od poplatku sú oslobodené zariadenia sociálnych služieb a právnické osoby a fyzické osoby, ktoré vykonávajú sociálnu prevenciu alebo poskytujú sociálne poradenstvo alebo sociálne služby za podmienok ustanovených osobitným zákonom<sup>11</sup>) a nevykonávajú sociálnu prevenciu na účely dosiahnutia zisku.
 
   - Poznámky
 
   - 1.
 
-  - Poplatok sa nevyberie, ak je územné konanie zlúčené so stavebným konaním a vydáva sa jedno rozhodnutie.
+  - Podľa tejto položky spoplatňujú úkony stavebné úrady a špeciálne stavebné úrady v pôsobnosti Slovenskej republiky podľa § 49, § 50 ods. 1 a § 52 ods. 1 a 2 Stavebného zákona.
 
   - 2.
 
-  - Ak územné rozhodnutie zahŕňa umiestnenie viacerých samostatných objektov, vyberie sa podľa písmena a) súhrnný poplatok za všetky samostatné objekty uvedené v územnom rozhodnutí okrem prípojok.
-
-  - Položka 60
-
-  - Žiadosť o stavebné povolenie alebo na zmeny dokončených stavieb (nadstavba, prístavba) a na zmeny stavieb pred dokončením (za každú samostatnú stavbu)
-
-  - a)
-
-  - na stavby na bývanie
-
-  - 1.
-
-  - na stavbu rodinného domu ................................................................................ 100 eur
-
-  - 2.
-
-  - na stavbu bytového domu .................................................................................. 500 eur
-
-  - b)
-
-  - na stavby na individuálnu rekreáciu, napríklad chaty, rekreačné domy alebo na zmeny dokončených stavieb (nadstavba, prístavba) a na zmeny týchto stavieb pred dokončením
-
-  - 1.
-
-  - ak zastavaná plocha nepresahuje 25 m<sup>2</sup> ............................................................... 25 eur
-
-  - 2.
-
-  - ak zastavaná plocha presahuje 25 m<sup>2</sup> ................................................................. 100 eur
-
-  - c)
-
-  - na stavebné úpravy dokončených stavieb vyžadujúce stavebné povolenie
-
-  - 1.
-
-  - rodinných domov a stavieb na individuálnu rekreáciu ......................................... 50 eur
-
-  - 2.
-
-  - bytových domov ................................................................................................ 250 eur
-
-  - d)
-
-  - na stavby, ktoré sú súčasťou alebo príslušenstvom rodinných domov alebo stavieb na individuálnu rekreáciu
-
-  - 1.
-
-  - garáže s jedným alebo dvoma miestami .............................................................. 50 eur
-
-  - 2.
-
-  - na prípojky na existujúcu verejnú rozvodnú sieť ................................................. 30 eur
-
-  - 3.
-
-  - na vodné stavby, napríklad studne, vsaky nad 5 m<sup>2</sup>, malé čistiarne odpadových vôd, jazierka ............................................................................................................... 30 eur
-
-  - 4.
-
-  - na spevnené plochy a parkoviská ........................................................................ 30 eur
-
-  - 5.
-
-  - na stavby s doplnkovou funkciou k týmto stavbám, napríklad letné kuchyne, bazény, sklady .................................................................................................................. 30 eur
-
-  - e)
-
-  - na stavby, ktoré sú súčasťou alebo príslušenstvom k bytovým domom a ostatným budovám
-
-  - 1.
-
-  - garáže s jedným alebo dvoma miestami ................................................................ 50 eur
-
-  - 2.
-
-  - na prípojky na existujúcu verejnú rozvodnú sieť ................................................... 50 eur
-
-  - 3.
-
-  - na vodné stavby, napríklad studne, vsaky nad 5 m<sup>2</sup>, malé čistiarne odpadových vôd, jazierka ................................................................................................................ 50 eur
-
-  - 4.
-
-  - na spevnené plochy a parkoviská ......................................................................... 50 eur
-
-  - 5.
-
-  - na stavby s doplnkovou funkciou, napríklad prístrešky, sklady ............................ 50 eur
-
-  - f)
-
-  - na zmeny dokončených stavieb a na zmeny týchto stavieb pred dokončením podľa písmen d) a e) ...................................................................................................................... 50 eur
-
-  - g)
-
-  - na ostatné neuvedené stavby a na zmeny týchto dokončených stavieb a na zmeny stavieb pred dokončením pri predpokladanom rozpočtovom náklade
-
-  - do 50 000 eur vrátane ......................................................................................... 300 eur
-
-  - nad 50 000 eur do 100 000 eur vrátane .............................................................. 800 eur
-
-  - nad 100 000 eur do 500 000 eur vrátane ......................................................... 1 500 eur
-
-  - nad 500 000 eur do 1 000 000 eur vrátane ...................................................... 2 500 eur
-
-  - nad 1 000 000 eur do 10 000 000 eur vrátane ................................................. 5 000 eur
-
-  - nad 10 000 000 eur ....................................................................................... 10 000 eur
-
-  - h)
-
-  - na stavby dočasných objektov zariadení staveniska, ak sa vydáva samostatné stavebné povolenie na stavby .............................................................................................. 100 eur
-
-  - i)
-
-  - na reklamnú stavbu, na ktorej najväčšia informačná plocha má veľkosť od 3 m<sup>2</sup> do 20 m<sup>2</sup> .............................................................................................................................. 150 eur
-
-  - j)
-
-  - na reklamnú stavbu, na ktorej najväčšia informačná plocha je väčšia ako 20 m<sup>2</sup> ............................................................................................................................... 300 eur
-
-  - Oslobodenie
-
-  - 1.
-
-  - Od poplatku za vydanie stavebného povolenia na zmeny dokončených stavieb na bývanie sú oslobodení držitelia preukazu fyzickej osoby s ťažkým zdravotným postihnutím alebo preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom.
-
-  - 2.
-
-  - Oslobodenie od poplatku tu platí obdobne ako pri položke 59.
-
-  - 3.
-
-  - Od poplatku za vydanie stavebného povolenia podľa písmena g) tejto položky je oslobodená Národná diaľničná spoločnosť, a. s.
-
-  - Poznámky
-
-  - 1.
-
-  - Ak stavebné povolenie zahŕňa stavbu viacerých samostatných objektov, vyberie sa súhrnný poplatok za všetky samostatné objekty uvedené v stavebnom povolení okrem prípojok [písmená a) a b)].
-
-  - 2.
-
-  - Hotelové a iné ubytovacie zariadenia sa posudzujú ako nebytová výstavba.
-
-  - 3.
-
-  - Garáže s viac ako dvoma miestami sa posudzujú ako samostatné stavby.
-
-  - 4.
-
-  - Podľa tejto položky spoplatňujú stavebné povolenia stavebné úrady, špeciálne stavebné úrady, vojenské a iné stavebné úrady podľa ustanovení § 117, 120 a 121 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
-
-  - Položka 60a
-
-  - a)
-
-  - Žiadosť o predĺženie platnosti stavebného povolenia pre
-
-  - 1.
-
-  - právnickú osobu ............................................................................................... 100 eur
-
-  - 2.
-
-  - fyzickú osobu ..................................................................................................... 30 eur
-
-  - b)
-
-  - Žiadosť o zmenu doby trvania
-
-  - 1.
-
-  - reklamnej stavby, na ktorej najväčšia informačná plocha má veľkosť od 3 m<sup>2</sup> do 20 m<sup>2</sup> .......................................................................................................................... 150 eur
-
-  - 2.
-
-  - reklamnej stavby, na ktorej najväčšia informačná plocha je väčšia ako 20 m<sup>2</sup> ........................................................................................................................... 300 eur
-
-  - c)
-
-  - Ohlásenie jednoduchej stavby pre
-
-  - 1.
-
-  - právnickú osobu ................................................................................................ 100 eur
-
-  - 2.
-
-  - fyzickú osobu ..................................................................................................... 100 eur
-
-  - d)
-
-  - Ohlásenie reklamnej stavby, na ktorej najväčšia informačná plocha je menšia ako 3 m<sup>2</sup> .............................................................................................................................. 100 eur
-
-  - e)
-
-  - Ohlásenie drobnej stavby, stavebných úprav a udržiavacích prác pre
-
-  - 1.
-
-  - právnickú osobu .................................................................................................. 50 eur
-
-  - 2.
-
-  - fyzickú osobu ....................................................................................................... 50 eur
-
-  - f)
-
-  - Ohlásenie stavby elektronickej komunikačnej siete, jej prízemnej stavby a výmeny a
-
-  - doplnenia telekomunikačného zariadenia ............................................................ 300 eur
-
-  - g)
-
-  - Žiadosť o potvrdenie pasportu stavby, ak sa nezachovala pôvodná dokumentácia stavby ................................................................................................................................ 50 eur
-
-  - h)
-
-  - Žiadosť o uložení opatrenia na susednom pozemku alebo stavbe ............................. 50 eur
-
-  - i)
-
-  - Žiadosť o predĺženie termínu dokončenia stavby ...................................................... 50 eur
-
-  - Oslobodenie
-
-  - 1.
-
-  - Od poplatku sú oslobodení držitelia preukazu fyzickej osoby s ťažkým zdravotným postihnutím alebo preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom.
-
-  - 2.
-
-  - Od poplatku podľa písmena d) tejto položky je oslobodené označenie prevádzky vyplývajúce zo zákona o živnostenskom podnikaní.
-
-  - Položka 61
-
-  - a)
-
-  - Žiadosť o dodatočné povolenie stavby, ktorá bola postavená po 1. októbri 1976 bez stavebného povolenia alebo v rozpore so zákonom, a o dodatočné povolenie zmeny stavby ...................................................................... trojnásobok sadzby ustanovenej v položke 60
-
-  - b)
-
-  - Žiadosť o preskúmanie spôsobilosti stavby na užívanie.................trojnásobok sadzby ustanovenej v položke 60
+  - Ak sa úkon alebo konanie správneho orgánu, ktorý je spoplatnený podľa tejto položky, nevykoná v lehote podľa Stavebného zákona,<sup>18</sup>) správny orgán vráti poplatok podľa § 10 ods. 1.
 
   - Položka 62
 
   - a)
 
-  - Žiadosť o povolenie
-
-  - 1.
-
-  - na zmenu užívania stavby, ak nie je spojené so stavebným konaním podľa položky 60 ........................................................................................................................... 100 eur
-
-  - 2.
-
-  - na odstránenie stavby (poplatok sa vyberá za každý objekt) pre
-
-  - právnickú osobu ............................................................................................. 100 eur
-
-  - fyzickú osobu ................................................................................................... 50 eur
-
-  - 3.
-
-  - terénnych úprav pre
-
-  - právnickú osobu ........................................................................................... 100 eur
-
-  - fyzickú osobu ................................................................................................. 50 eur
-
-  - b)
-
   - Návrh na vyvlastnenie nehnuteľnosti .................................................................... 200 eur
 
-  - c)
+  - b)
 
   - Žiadosť o zrušenie vyvlastňovacieho rozhodnutia .................................................... 50 eur
 
@@ -1616,155 +1490,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 2.
 
-  - Od poplatku podľa písmena b) tejto položky je oslobodená Národná diaľničná spoločnosť, a. s.
-
-  - Položka 62a
-
-  - Návrh na vydanie kolaudačného rozhodnutia
-
-  - a)
-
-  - na stavby na bývanie a na zmeny dokončených stavieb na bývanie
-
-  - 1.
-
-  - rodinný dom ......................................................................................................100 eur
-
-  - 2.
-
-  - bytový dom ....................................................................................................... 500 eur
-
-  - b)
-
-  - na stavby na individuálnu rekreáciu, napríklad chaty, rekreačné domy alebo na zmeny dokončených stavieb (nadstavba, prístavba),
-
-  - 1.
-
-  - ak zastavaná plocha nepresahuje 25 m<sup>2</sup> .............................................................. 25 eur
-
-  - 2.
-
-  - ak zastavaná plocha presahuje 25 m<sup>2</sup> ................................................................ 100 eur
-
-  - c)
-
-  - na stavebné úpravy dokončených stavieb, na ktoré bolo vydané stavebné povolenie,
-
-  - 1.
-
-  - rodinných domov a stavieb na individuálnu rekreáciu ........................................ 50 eur
-
-  - 2.
-
-  - bytových domov ............................................................................................... 100 eur
-
-  - d)
-
-  - na stavby, ktoré sú súčasťou alebo príslušenstvom rodinných domov alebo stavieb na individuálnu rekreáciu
-
-  - 1.
-
-  - garáže s jedným alebo dvoma miestami .............................................................. 50 eur
-
-  - 2.
-
-  - na prípojky na existujúcu verejnú rozvodnú sieť ................................................. 30 eur
-
-  - 3.
-
-  - na vodné stavby, napríklad studne, vsaky nad 5 m<sup>2</sup>, malé čistiarne odpadových vôd, jazierka .............................................................................................................. 30 eur
-
-  - 4.
-
-  - na spevnené plochy a parkoviská ....................................................................... 30 eur
-
-  - 5.
-
-  - na stavby s doplnkovou funkciou k týmto stavbám, napríklad letné kuchyne, bazény, sklady ................................................................................................................ 30 eur
-
-  - e)
-
-  - na stavby, ktoré sú súčasťou alebo príslušenstvom k bytovým domom a ostatným budovám
-
-  - 1.
-
-  - garáže s jedným alebo dvoma miestami ............................................................... 30 eur
-
-  - 2.
-
-  - na prípojky na existujúcu verejnú rozvodnú sieť .................................................. 30 eur
-
-  - 3.
-
-  - na vodné stavby, napríklad studne, vsaky nad 5 m<sup>2</sup>, malé čistiarne odpadových vôd, jazierka .............................................................................................................. 30 eur
-
-  - 4.
-
-  - na spevnené plochy a parkoviská ....................................................................... 30 eur
-
-  - 5.
-
-  - na stavby s doplnkovou funkciou, napríklad prístrešky, sklady .......................... 30 eur
-
-  - f)
-
-  - na zmeny dokončených stavieb podľa písmen d) a e) ............................................... 30 eur
-
-  - g)
-
-  - na ostatné neuvedené stavby a na zmeny týchto dokončených stavieb pri predpokladanom rozpočtovom náklade
-
-  - do 50 000 eur vrátane ....................................................................................... 100 eur
-
-  - nad 50 000 eur do 100 000 eur vrátane ............................................................. 300 eur
-
-  - nad 100 000 eur do 500 000 eur vrátane ............................................................ 500 eur
-
-  - nad 500 000 eur do 1 000 000 eur vrátane ...................................................... 1 000 eur
-
-  - nad 1 000 000 eur do 10 000 000 eur vrátane ................................................. 1 500 eur
-
-  - nad 10 000 000 eur ......................................................................................... 2 000 eur
-
-  - h)
-
-  - na reklamné stavby, na ktorých najväčšia informačná plocha je väčšia ako 20 m<sup>2</sup> ............................................................................................................................... 200 eur
-
-  - Oslobodenie
-
-  - 1.
-
-  - Od poplatku za vydanie kolaudačného rozhodnutia na zmeny dokončených stavieb na bývanie sú oslobodení držitelia preukazu
-
-  - 2.
-
-  - fyzickej osoby s ťažkým zdravotným postihnutím alebo preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom.
-
-  - 3.
-
-  - Oslobodenie od poplatku tu platí obdobne ako pri položke 59.
-
-  - 4.
-
-  - Od poplatku za vydanie kolaudačného rozhodnutia podľa písmena g) tejto položky je oslobodená Národná diaľničná spoločnosť, a. s.
-
-  - Poznámky
-
-  - 1.
-
-  - Ak kolaudačné rozhodnutie zahŕňa stavbu viacerých samostatných objektov, vyberie sa súhrnný poplatok za všetky samostatné objekty uvedené v kolaudačnom rozhodnutí okrem prípojok [písmená a) a b)].
-
-  - 2.
-
-  - Hotelové a iné ubytovacie zariadenia sa posudzujú ako nebytová výstavba.
-
-  - 3.
-
-  - Garáže s viac ako dvoma miestami sa posudzujú ako samostatné stavby.
-
-  - 4.
-
-  - Podľa tejto položky spoplatňujú kolaudačné rozhodnutia stavebné úrady, špeciálne stavebné úrady, vojenské a iné stavebné úrady podľa ustanovení § 117, 120 a 121 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+  - Od poplatku podľa písmena a) tejto položky je oslobodená Národná diaľničná spoločnosť, a. s.
 
     - Položka 62b
 

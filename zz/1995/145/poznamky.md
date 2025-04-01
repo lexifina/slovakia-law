@@ -152,7 +152,7 @@
 
 - 17) Zákon Slovenskej národnej rady č. 63/1973 Zb. o verejných zbierkach a o lotériách a iných podobných hrách v znení neskorších predpisov.
 
-- 17a) § 44 ods. 1 až 3 zákona č. 39/2007 Z. z. o veterinárnej starostlivosti v znení neskorších predpisov.
+- 17a) § 44 ods. 4 a 5 zákona č. 39/2007 Z. z. o veterinárnej starostlivosti v znení neskorších predpisov.
 
 - 17aa) § 42 ods. 3 a § 47 ods. 4 zákona č. 326/2005 Z. z. o lesoch v znení neskorších predpisov.
 
@@ -182,7 +182,7 @@
 
 - 17k) Napríklad zákon č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 39/2013 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 137/2010 Z. z. o ovzduší v znení neskorších predpisov.
 
-- 18) Vyhláška Federálneho ministerstva pre technický a investičný rozvoj č. 83/1976 Zb. o všeobecných technických požiadavkách na výstavbu v znení neskorších predpisov.
+- 18) Napríklad § 58, § 63 ods. 6, § 65 ods. 2, § 66 ods. 7, § 69 ods. 3, § 70 ods. 3 Stavebného zákona.
 
 - 18a) Zákon č. 49/2002 Z. z. o ochrane pamiatkového fondu.
 
