@@ -145,3 +145,5 @@ Zákon č. 608/2003 Z. z. o štátnej správe pre územné plánovanie, stavebn�
 - h)
 
 - vykonáva pôsobnosť stavebného úradu v rozsahu ustanovenom osobitným predpisom.“.
+
+- 4. § 4a vrátane nadpisu sa vypúšťa.
