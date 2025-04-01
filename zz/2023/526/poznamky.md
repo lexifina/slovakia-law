@@ -6,7 +6,7 @@
 
 - 1c) § 1 ods. 7 zákona č. 90/2016 Z. z. v znení zákona č. 279/2017 Z. z.
 
-- 1d) § 139b ods. 5 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+- 1d) § 5 Stavebného zákona.
 
 - 2) § 5, § 6 a 8 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
