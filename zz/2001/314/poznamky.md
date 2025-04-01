@@ -12,7 +12,7 @@
 
 - 3a) § 2 ods. 1 písm. b) zákona č. 264/1999 Z. z. v znení zákona č. 436/2001 Z. z.
 
-- 4) Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 453/2000 Z. z., ktorou sa vykonávajú niektoré ustanovenia stavebného zákona.
+- 4) § 2 ods. 1 Stavebného zákona.
 
 - 5) Zákon č. 161/1998 Z. z. o Komore kominárov Slovenska a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
@@ -24,6 +24,10 @@
 
 - 5d) § 3 ods. 2 písm. a) zákona č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení zákona č. 252/2001 Z. z.
 
+- 5e) § 9 ods. 1 Stavebného zákona.
+
+- 5f) § 10 ods. 4 Stavebného zákona.
+
 - 6) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 6a) Zákon č. 293/2007 Z. z. o uznávaní odborných kvalifikácií v znení neskorších predpisov.
@@ -33,6 +37,38 @@
 - 6c) § 3 vyhlášky Ministerstva vnútra Slovenskej republiky č. 726/2002 Z. z., ktorou sa ustanovujú vlastnosti elektrickej požiarnej signalizácie, podmienky jej prevádzkovania a zabezpečenia jej pravidelnej kontroly.
 
 - 7) § 136 Zákonníka práce.
+
+- 7a) § 20 Stavebného zákona.
+
+- 7b) § 54 ods. 2 Stavebného zákona.
+
+- 7c) § 24 ods. 2 Stavebného zákona.
+
+- 7d) § 65 ods. 7 Stavebného zákona.
+
+- 7e) § 63 Stavebného zákona.
+
+- 7f) § 69 ods. 2 Stavebného zákona.
+
+- 7g) § 70 Stavebného zákona.
+
+- 7h) § 43 Stavebného zákona.
+
+- 7i) § 21 ods. 13 Stavebného zákona.
+
+- 7j) § 24 ods. 2 Stavebného zákona.
+
+- 7k) § 68 Stavebného zákona.
+
+- 7l) Zákon č. 200/2022 Z. z. o územnom plánovaní v znení neskorších predpisov.
+
+- 7m) § 84 ods. 7 písm. a) Stavebného zákona.
+
+- 7n) § 2 ods. 4 Stavebného zákona.
+
+- 7o) § 2 ods. 6 Stavebného zákona.
+
+- 7p) § 2 ods. 9 Stavebného zákona.
 
 - 8) Zákon č. 17/1992 Zb. v znení neskorších predpisov.
 
@@ -83,3 +119,5 @@
 - 29) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 30) Napríklad vyhláška Ministerstva vnútra Slovenskej republiky č. 84/1997 Z. z., ktorou sa ustanovujú technické podmienky a požiadavky požiarnej bezpečnosti pri inštalácii a prevádzkovaní palivových spotrebičov, elektrotepelných spotrebičov a zariadení ústredného vykurovania a pri výstavbe a používaní komínov a dymovodov, vyhláška Ministerstva vnútra Slovenskej republiky č. 86/1999 Z. z., ktorou sa ustanovujú zásady požiarnej bezpečnosti pri manipulácii a skladovaní horľavých kvapalín, ťažkých vykurovacích olejov a rastlinných a živočíšnych tukov a olejov.
+
+- 31) § 25 zákona č. 200/2022 Z. z. v znení neskorších predpisov.

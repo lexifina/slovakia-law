@@ -1,0 +1,17 @@
+# § 77d Prechodné ustanovenia k úpravám účinným od 1. apríla 2025
+
+(1) Záväzné stanovisko vydané orgánom štátneho požiarneho dozoru do 31. marca 2025 v konaní podľa zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov možno od 1. apríla 2025 použiť len v konaní, na ktoré sa vzťahuje zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
+(2) Riešenie protipožiarnej bezpečnosti stavby tvoriace súčasť projektovej dokumentácie stavby vypracovanej podľa predpisov účinných do 31. marca 2025 pre konania podľa zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov možno od 1. apríla 2025 použiť len v konaní, na ktoré sa vzťahuje zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
+(3) Posudzovanie projektovej dokumentácie stavieb z hľadiska ich protipožiarnej bezpečnosti v konaní, na ktoré sa vzťahuje zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov, sa vykonáva v rámci štátneho požiarneho dozoru podľa predpisov účinných do 31. marca 2025.
+
+(4) Posudzovanie stavieb z hľadiska splnenia požiadaviek protipožiarnej bezpečnosti podľa projektovej dokumentácie overenej stavebným úradom v konaní, na ktoré sa vzťahuje zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov, sa vykonáva v rámci štátneho požiarneho dozoru podľa predpisov účinných do 31. marca 2025.
+
+(5) Pri vykonávaní kontroly stavby v priebehu jej zhotovovania z hľadiska dodržiavania protipožiarnej bezpečnosti sa postupuje podľa dokumentácie overenej stavebným úradom v stavebnom konaní, ak stavba bola povolená podľa zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
+(6) Na vykonávanie štátneho požiarneho dozoru podľa § 25 ods. 1 písm. b) v znení účinnom do 31. marca 2025 ministerstvo určí krajské riaditeľstvo ako orgán štátneho požiarneho dozoru, ktorý je príslušný na konanie na stavbách presahujúcich z územného obvodu jedného krajského riaditeľstva do územného obvodu najmenej jedného ďalšieho krajského riaditeľstva, a to aj vtedy, ak už ministerstvo vydalo záväzné stanovisko k projektovej dokumentácii stavby na účely predchádzajúcich konaní, na ktoré sa vzťahuje zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
+(7) Na vykonávanie štátneho požiarneho dozoru podľa § 25 ods. 1 písm. b) v znení účinnom do 31. marca 2025 krajské riaditeľstvo určí okresné riaditeľstvo ako orgán štátneho požiarneho dozoru, ktorý je príslušný na konanie na stavbách presahujúcich z územného obvodu jedného okresného riaditeľstva do územného obvodu najmenej jedného ďalšieho okresného riaditeľstva, a to aj vtedy, ak už krajské riaditeľstvo vydalo záväzné stanovisko k projektovej dokumentácii stavby na účely predchádzajúcich konaní, na ktoré sa vzťahuje zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
+(8) Forma overenia písomností vyhotovených špecialistom požiarnej ochrany alebo hosťujúcim špecialistom požiarnej ochrany podľa § 11 ods. 12 písm. a) v znení účinnom od 1. apríla 2025 je možná až od času plnej funkčnosti funkcionality informačného systému územného plánovania a výstavby<sup>31</sup>) určenej na vyhotovenie takého overenia.
