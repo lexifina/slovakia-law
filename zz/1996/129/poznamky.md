@@ -2,15 +2,13 @@
 
 - 1a) § 18 ods. 13 zákona č. 135/1961 Zb. v znení neskorších predpisov.
 
-- 2) § 32 až 42 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+- 2) § 48 Stavebného zákona.
 
-- 3) § 37 ods. 1 a 2 zákona č. 50/1976 Zb.
+- 3) § 16 zákona č. 200/2022 Z. z. o územnom plánovaní v znení neskorších predpisov.
 
-- § 15 zákona č. 220/2004 Z. z. o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov.
+- 6) § 51 ods. 2 a § 53 Stavebného zákona.
 
-- 5) § 35 ods. 1 a § 38 zákona č. 50/1976 Zb. v znení neskorších predpisov.
-
-- 6) § 36 ods. 1 a 2 zákona č. 50/1976 Zb.§ 21 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
+- § 21 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 7) § 17 zákona č. 220/2004 Z. z.
 
@@ -34,12 +32,12 @@
 
 - 18a) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
-- 19) § 108 až 116 zákona č. 50/1976 Zb. v znení zákona Národnej rady Slovenskej republiky č. 199/1995 Z. z.
+- 19) Zákon č. 282/2015 Z. z. o vyvlastňovaní pozemkov a stavieb a o nútenom obmedzení vlastníckeho práva k nim a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 20) § 108 ods. 2 a 3 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 20) § 2 ods. 1 písm. b) zákona č. 282/2015 Z. z. v znení neskorších predpisov.
 
-- 21) § 110 zákona č. 50/1976 Zb.
+- 21) § 2 zákona č. 282/2015 Z. z. v znení zákona č. 205/2023 Z. z.
 
 - 22) § 48 zákona č. 71/1967 Zb.
 
-- 23) § 111 ods. 2 zákona č. 50/1976 Zb.
+- 23) § 4 zákona č. 282/2015 Z. z. v znení neskorších predpisov.
