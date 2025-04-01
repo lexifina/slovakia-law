@@ -120,9 +120,7 @@
 
 - 31aa) § 20 zákona č. 7/2010 Z. z. o ochrane pred povodňami v znení neskorších predpisov.
 
-- 31b) § 57 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
-
-- 32) § 66 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 32) § 60 Stavebného zákona.
 
 - 32a) § 2 písm. m) zákona č. 442/2002 Z. z. v znení neskorších predpisov.
 
@@ -132,13 +130,15 @@
 
 - 32d) § 15 ods. 3 a § 16 ods. 3 zákona č. 442/2002 Z. z. v znení zákona č. 516/2021 Z. z.
 
-- 33) § 120 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 33) § 16 Stavebného zákona.
 
-- 34) § 77 zákona č. 50/1976 Zb.
+- 33a) § 63 Stavebného zákona.
 
-- 35) § 66 a 120 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 34) § 66 Stavebného zákona.
 
-- 36) § 76 ods. 1 a § 120 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 35) § 60 Stavebného zákona.
+
+- 36) § 67 Stavebného zákona.
 
 - 36a) § 7 zákona č. 514/2008 Z. z. o nakladaní s odpadom z ťažobného priemyslu a o zmene a doplnení niektorých zákonov.
 
@@ -148,11 +148,7 @@
 
 - 37aa) § 2 písm. a) prvý bod zákona č. 136/2000 Z. z. v znení zákona č. 394/2015 Z. z.
 
-- 37aaa) § 57 zákona č. 50/1976 Zb. v znení neskorších predpisov.
-
-- § 5 vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 453/2000 Z. z., ktorou sa vykonávajú niektoré ustanovenia stavebného zákona.
-
-- Príloha č. 8, tabuľka č. 10 prvý až siedmy bod zákona č. 24/2006 Z. z.
+- 37aaa) § 63 Stavebného zákona.
 
 - 37aab) § 9 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z.
 
@@ -162,7 +158,13 @@
 
 - 37b) § 22 zákona č. 569/2007 Z. z. v znení neskorších predpisov.
 
+- 37bb) § 24 zákona č. 200/2022 Z. z. v znení neskorších predpisov.
+
+- 37bc) § 65 Stavebného zákona.
+
 - 37c) § 27 zákona č. 44/1988 Zb. v znení neskorších predpisov.
+
+- 37cc) § 20 Stavebného zákona.
 
 - 37d) § 17 zákona č. 44/1988 Zb. v znení neskorších predpisov.
 
@@ -276,11 +278,11 @@
 
 - 66) Zákon č. 39/2013 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 66a) § 140a ods. 1 písm. a) zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
+- 66a) § 21 Stavebného zákona.
 
-- 66aa) § 140a ods. 1 písm. c) zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 66aa) § 22 Stavebného zákona.
 
-- 66b) § 140b zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
+- 66b) § 21 ods. 3 Stavebného zákona.
 
 - 66c) Zákon č. 359/2007 Z. z. o prevencii a náprave environmentálnych škôd a o zmene a doplnení niektorých zákonov.
 
@@ -290,7 +292,7 @@
 
 - 66d) § 19 zákona Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov.
 
-- 67) § 106 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 67) § 79 a 80 Stavebného zákona.
 
 - 67a) § 125 ods. 1 Trestného zákona.
 
