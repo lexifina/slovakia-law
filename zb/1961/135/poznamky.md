@@ -8,13 +8,13 @@
 
 - 1f) Napríklad zákon č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, vyhláška Ministerstva vnútra Slovenskej republiky č. 9/2009 Z. z., ktorou sa vykonáva zákon o cestnej premávke a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 2) § 120 zákona č. 50/1976 Zb. o územnom konaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+- 2) § 16 ods. 1 Stavebného zákona.
 
 - 2a) Napríklad § 2 zákona Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov, zákon č. 639/2004 Z. z. o Národnej diaľničnej spoločnosti a o zmene a doplnení zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov v znení zákona č. 747/2004 Z. z .
 
-- 2aa) § 140a ods. 1 písm. a) zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
+- 2aa) § 21 ods. 2 Stavebného zákona.
 
-- 2ab) § 140b zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
+- 2ab) § 21 ods. 3 písm. a) Stavebného zákona.
 
 - 2b) Napríklad § 6 zákona č. 111/1990 Zb. o štátnom podniku v znení zákona Národnej rady Slovenskej republiky č. 304/1995 Z. z.
 
@@ -44,7 +44,7 @@
 
 - 2cbg) Zákon č. 200/2022 Z. z. v znení neskorších predpisov.
 
-- Zákon č. 201/2022 Z. z. v znení zákona č. 205/2023 Z. z.
+- Stavebný zákon.
 
 - 2d) Zákon č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -88,7 +88,7 @@
 
 - 2s) Zákon Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov.
 
-- 3) § 43 ods. 2 zákona č. 50/1976 Zb. v znení zákona č. 293/2014 Z. z.
+- 3) § 2 ods. 4 písm. g) Stavebného zákona.
 
 - 3a) § 69 ods. 1 písm. f) zákona č. 8/2009 Z. z. v znení zákona č. 144/2010 Z. z.
 
@@ -106,25 +106,25 @@
 
 - 3e) Nariadenie Európskeho parlamentu a Rady (ES) č. 1100/2008 z 22. októbra 2008 o odstránení kontrol vykonávaných na hraniciach členských štátov v cestnej a vnútrozemskej vodnej doprave (kodifikované znenie) (Ú. v. EÚ L 304, 14. 11. 2008).
 
-- 3f) § 11 ods. 2 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 3f) § 40 ods. 2 zákona č. 200/2022 Z. z.
 
 - 4) § 6 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení.
 
 - 4a) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
-- 5) Zákon Slovenskej národnej rady č. 595/1990 Zb. o štátnej správe pre životné prostredie v znení neskorších predpisov.
+- 5) Zákon č. 525/2003 Z. z. o štátnej správe starostlivosti o životné prostredie a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 6) Napríklad zákon č. 169/1949 Zb. o vojenských obvodoch, zákon č. 61/1977 Zb. o lesoch v znení zákona č. 229/1991 Zb. a zákona Národnej rady Slovenskej republiky č. 183/1993 Z. z. (úplné znenie č. 14/1994 Z. z.).
 
 - 6a) Zákon č. 50/1976 Zb. v znení neskorších predpisov.
 
-- 6b) § 140a a § 140b zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
+- 6b) § 21 Stavebného zákona.
 
 - 6c) § 4 ods. 3 zákona č. 282/2015 Z. z. o vyvlastňovaní pozemkov a stavieb a o nútenom obmedzení vlastníckeho práva k nim a o zmene a doplnení niektorých zákonov.
 
 - 6d) Napríklad zákon Národnej rady Slovenskej republiky č. 129/1996 Z. z. o niektorých opatreniach na urýchlenie prípravy výstavby diaľnic a ciest pre motorové vozidlá v znení neskorších predpisov, zákon č. 669/2007 Z. z. o jednorazových mimoriadnych opatreniach v príprave niektorých stavieb diaľnic a ciest pre motorové vozidlá a o doplnení zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností (katastrálny zákon) v znení neskorších predpisov v znení neskorších predpisov, zákon č. 282/2015 Z. z.
 
-- 7) Napríklad zákon č. 51/1964 Zb. o dráhach v znení zákona č. 104/1974 Zb., zákon č. 50/1976 Zb. v znení neskorších predpisov.
+- 7) Napríklad zákon č. 513/2009 Z. z. o dráhach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 8) § 56 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore,
 
@@ -140,7 +140,7 @@
 
 - 10b) § 22 ods. 4 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 11) § 88 až 93 zákona č. 50/1976 Zb.
+- 11) § 64 Stavebného zákona.
 
 - 12) Zákon č. 446/2001 Z. z. o majetku vyšších územných celkov.
 

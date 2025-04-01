@@ -28,7 +28,7 @@
 
 (7) Správca pozemnej komunikácie príslušný podľa odseku 5 je oprávnený zabezpečiť plnenie niektorých činností spojených so správou pozemných komunikácií prostredníctvom tretej osoby, a to na základe zmluvy.<sup>2d</sup>)
 
-(8) Súčasti diaľnic a ciest vo vlastníctve štátu sa môžu prenechať v nájme, po odsúhlasení ministerstvom, na základe nájomnej zmluvy. Na prenajatých súčastiach diaľnic a ciest možno zriadiť a prevádzkovať stavby slúžiace užívateľom diaľnic a ciest, najmä motoresty, motely, čerpacie stanice pohonných látok, reklamné stavby, iné zariadenia, a tiež stavby súvisiace s prevádzkou týchto stavieb.
+(8) Súčasti diaľnic a ciest vo vlastníctve štátu sa môžu prenechať v nájme, po odsúhlasení ministerstvom, na základe nájomnej zmluvy. Na prenajatých súčastiach diaľnic a ciest možno zriadiť a prevádzkovať stavby slúžiace užívateľom diaľnic a ciest, najmä motoresty, motely, čerpacie stanice pohonných látok, informačné konštrukcie, iné zariadenia, a tiež stavby súvisiace s prevádzkou týchto stavieb.
 
 (9) Správcovia diaľnic, ciest a miestnych ciest vedú o týchto pozemných komunikáciách technickú evidenciu.
 
