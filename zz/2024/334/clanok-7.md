@@ -46,6 +46,48 @@ Zákon č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektor
 
 - Odseky 1 až 3 sa nevzťahujú na poskytovateľa platobných služieb podľa § 2 ods. 3 písm. a), b), d), g) a h).“.
 
+- 16. V § 47 ods. 1 písm. g) sa vypúšťajú slová „až g)“.
+
+- 17. V § 47 sa odsek 1 dopĺňa písmenami h) a i), ktoré znejú:
+
+- „h)
+
+- platobná inštitúcia, zahraničná platobná inštitúcia so sídlom v inom členskom štáte alebo pobočka zahraničnej platobnej inštitúcie, ktorá má povolenie na poskytovanie platobnej služby, ktorej súčasťou je vykonávanie prevodov formou príkazov podľa § 45 ods. 2 a na základe prístupových pravidiel určených v pravidlách platobného systému podľa § 48 ods. 2,
+
+- i)
+
+- inštitúcia elektronických peňazí, zahraničná inštitúcia elektronických peňazí so sídlom v inom členskom štáte alebo pobočka zahraničnej inštitúcie elektronických peňazí, ktorá má povolenie na poskytovanie platobnej služby, ktorej súčasťou je vykonávanie prevodov formou príkazov podľa § 45 ods. 2 a na základe prístupových pravidiel určených v pravidlách platobného systému podľa § 48 ods. 2.“.
+
+- 18. V § 48 ods. 2 písm. p) sa slovo „g)“ nahrádza slovom „i)“.
+
+- 19. § 48 sa dopĺňa odsekmi 3 a 4, ktoré znejú:
+
+- „(3)
+
+- Na účastníka platobného systému podľa § 47 ods. 1 písm. h) a i) sa primerane vzťahujú podmienky podľa § 64, 77 a 82. Prevádzkovateľ platobného systému určí v prístupových pravidlách určených v pravidlách platobného systému podľa odseku 2 postup posúdenia splnenia týchto podmienok.
+
+- (4)
+
+- Pravidlá platobného systému podľa odseku 2
+
+- a)
+
+- musia byť objektívne, nediskriminačné a primerané, nesmú vytvárať prekážky na účasť v systéme viac, ako je potrebné z dôvodu zabezpečenia pred špecifickými rizikami, a to najmä rizikom spojeným s vyrovnaním, prevádzkovým rizikom a obchodným rizikom a zabezpečenia ochrany finančnej stability a prevádzkovej stability platobného systému,
+
+- b)
+
+- nesmú vytvárať prekážky na účasť v iných platobných systémoch,
+
+- c)
+
+- nesmú vytvárať obmedzenia na základe inštitucionálneho postavenia.“.
+
+- 20. V § 52 odsek 3 znie:
+
+- „(3)
+
+- Na platobné systémy podľa § 45 ods. 3 písm. c) sa vzťahuje § 48 ods. 4 a primerane sa vzťahujú § 46 až 48 ods. 1 a 2, § 49, § 50 a § 51 ods. 1.“.
+
 - 21. V § 64 ods. 4 písmeno g) a § 82 ods. 4 písmeno g) znie:
 
 - „g)
@@ -62,11 +104,23 @@ Zákon č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektor
 
   - „<sup>46b</sup>) Kapitola III nariadenia (EÚ) 2022/2554.“.
 
+- 23. V § 64 ods. 4 písmeno s) znie:
+
+- „s)
+
+- opis mechanizmu na zabezpečenie kontinuity činnosti vrátane jednoznačnej identifikácie kritických operácií, účinných politík a plánov kontinuity činností v oblasti informačných a komunikačných technológií a postup na pravidelné testovanie a skúmanie vhodnosti a efektívnosti takých plánov v súlade s osobitným predpisom,<sup>46a</sup>)“.
+
 - 24. V § 64 ods. 4 písm. u) štvrtý bod znie:
 
 - „4.
 
 - informácie o tom, ako sa zabezpečuje vysoká úroveň digitálnej prevádzkovej odolnosti podľa osobitného predpisu<sup>20b</sup>) vo vzťahu k technickej bezpečnosti a ochrane údajov, a to aj vo vzťahu k softvéru a informačným a komunikačným technológiám, ktoré používa žiadateľ alebo osoba podľa § 73 ods. 1,“.
+
+- 25. V § 64 sa odsek 4 dopĺňa písmenom z), ktoré znie:
+
+- „z)
+
+- opis zmierňujúcich opatrení, ktoré sa prijmú pri ukončení platobných služieb na účely vykonania prebiehajúcich platobných operácií a ukončenia zmluvných vzťahov, ak ide o účastníka podľa § 47 ods. 1 písm. h).“.
 
 - 26. § 67 sa dopĺňa odsekom 14, ktorý znie:
 
@@ -82,7 +136,17 @@ Zákon č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektor
 
 - 28. V § 76 sa vypúšťa odsek 10.
 
+- 29. V § 77 ods. 7 sa za slovo „banke“ vkladá čiarka a slová „alebo v pobočke zahraničnej banky“ sa nahrádzajú slovami „pobočke zahraničnej banky, Národnej banke Slovenska alebo v centrálnej banke iného členského štátu, ak to Národná banka Slovenska alebo centrálna banka iného členského štátu umožňuje“.
+
+- 30. V § 77 ods. 8 sa slová „poisťovňou, bankou alebo inštitúciou elektronických peňazí“ nahrádzajú slovami „poisťovňou alebo bankou“.
+
 - 31. V § 77a ods. 1 písm. a) a § 85e ods. 1 písm. a) sa za slová „riadenia rizík“ vkladajú slová „vrátane digitálnej a prevádzkovej odolnosti podľa osobitného predpisu<sup>20b</sup>) v oblasti informačných a komunikačných technológií“.
+
+- 32. V § 78 ods. 2 písmeno b) znie:
+
+- „b)
+
+- uložiť platobnej inštitúcii pokutu od 3 300 eur do 332 000 eur a pri opakovanom alebo závažnom nedostatku do výšky 10 % z celkového čistého ročného obratu za predchádzajúci kalendárny rok,“.
 
 - 33. V § 78 sa odsek 2 dopĺňa písmenom k), ktoré znie:
 
@@ -96,15 +160,47 @@ Zákon č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektor
 
   - „<sup>58a</sup>) § 12 až 34 a § 38 zákona č. 747/2004 Z. z. v znení neskorších predpisov.“.
 
+- 35. V § 78 ods. 11 a § 86 ods. 20 sa za slová „vyplývajúcich z tohto zákona“ vkladá čiarka a slová „právne záväzných aktov Európskej únie vzťahujúcich sa na výkon platobných služieb, osobitných predpisov<sup>20</sup>)“.
+
+- 36. V § 78 sa odsek 11 dopĺňa písmenom c), ktoré znie:
+
+- „c)
+
+- členovi štatutárneho orgánu platobnej inštitúcie a vedúcemu zamestnancovi pokutu až do výšky 5 000 000 eur za porušenie osobitného predpisu.<sup>58b</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 58b znie:
+
+  - „<sup>58b</sup>) Čl. 11 ods. 1b písm. b) nariadenia (EÚ) č. 260/2012 v platnom znení.“.
+
 - 37. V § 82 ods. 2 písmeno m) znie:
 
 - „m)
 
 - materiálno-technické zabezpečenie výkonu vydávania elektronických peňazí,“.
 
+- 38. V § 82 ods. 4 sa za písmeno n) vkladá nové písmeno o), ktoré znie:
+
+- „o)
+
+- opis zmierňujúcich opatrení, ktoré sa prijmú pri ukončení platobných služieb na účely vykonania prebiehajúcich platobných operácií a ukončenia zmluvných vzťahov, ak ide o účastníka podľa § 47 ods. 1 písm. i),“.
+
+  - Doterajšie písmená o) a p) sa označujú ako písmená p) a q).
+
 - 39. V § 85b sa vypúšťa odsek 16.
 
 - 40. V § 86 ods. 2 písm. a) sa slová „jej ozdravenie“ nahrádzajú slovom „nápravu“.
+
+- 41. V § 86 ods. 2 písmeno b) znie:
+
+- „b)
+
+- uložiť inštitúcii elektronických peňazí pokutu od 3 300 eur do 332 000 eur a pri opakovanom alebo závažnom nedostatku do výšky 10 % celkového čistého ročného obratu za predchádzajúci kalendárny rok,“.
+
+- 42. V § 86 sa odsek 20 dopĺňa písmenom c), ktoré znie:
+
+- „c)
+
+- členovi štatutárneho orgánu inštitúcie elektronických peňazí a vedúcemu zamestnancovi pokutu až do výšky 5 000 000 eur za porušenie osobitného predpisu.<sup>58b</sup>)“.
 
 - 43. § 86 sa dopĺňa odsekom 31, ktorý znie:
 
@@ -116,8 +212,18 @@ Zákon č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektor
 
   - Doterajšie odseky 8 až 10 sa označujú ako odseky 7 až 9.
 
+- 46. Za § 100 sa vkladá § 100a, ktorý znie:
+
+- „§ 100a
+
+- Na porušenie osobitných predpisov<sup>20</sup>) poskytovateľom platobných služieb, ktorý nie je dohliadaným subjektom finančného trhu,<sup>58f</sup>) sa primerane vzťahujú ustanovenia § 78 ods. 2 písm. b) a ods. 11 písm. c).“.
+
 - 47. Príloha sa dopĺňa bodmi 6 a 7, ktoré znejú:
 
 - „6.
 
-- Smernica Európskeho parlamentu a Rady (EÚ) 2022/2556 zo 14. decembra 2022, ktorou sa menia smernice 2009/65/ES, 2009/138/ES, 2011/61/EÚ, 2013/36/EÚ, 2014/59/EÚ, 2014/65/EÚ, (EÚ) 2015/2366 a (EÚ) 2016/2341, pokiaľ ide o digitálnu prevádzkovú odolnosť finančného sektora (Ú. v. EÚ L 333, 27. 12. 2022).“.
+- Smernica Európskeho parlamentu a Rady (EÚ) 2022/2556 zo 14. decembra 2022, ktorou sa menia smernice 2009/65/ES, 2009/138/ES, 2011/61/EÚ, 2013/36/EÚ, 2014/59/EÚ, 2014/65/EÚ, (EÚ) 2015/2366 a (EÚ) 2016/2341, pokiaľ ide o digitálnu prevádzkovú odolnosť finančného sektora (Ú. v. EÚ L 333, 27. 12. 2022).
+
+- 7.
+
+- Nariadenie Európskeho parlamentu a Rady (EÚ) 2024/886 z 13. marca 2024, ktorým sa menia nariadenia (EÚ) č. 260/2012 a (EÚ) 2021/1230 a smernice 98/26/ES a (EÚ) 2015/2366, pokiaľ ide o okamžité úhrady v eurách (Ú. v. EÚ L, 2024/886, 19. 3. 2024).“.
