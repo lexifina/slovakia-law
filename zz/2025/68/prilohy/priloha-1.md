@@ -1,0 +1,1 @@
+Príloha č. 1 k rozhodnutiu predsedu Národnej rady Slovenskej republiky č. 68/2025 Z. z. [Zoznam obcí, v ktorých sa vyhlasujú voľby do orgánov samosprávy obcí na 6. septembra 2025](../assets/cdb05914f388c639b3d2275146b0fb09c6f9860855ff070b2f9f5a57646e8196.pdf)
