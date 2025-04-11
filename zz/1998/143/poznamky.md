@@ -56,6 +56,10 @@
 
 - 1l) Čl. 21 nariadenia Európskeho parlamentu a Rady (ES) č. 1008/2008 z 24. septembra 2008 o spoločných pravidlách prevádzky leteckých dopravných služieb v Spoločenstve (prepracované znenie) (Ú. v. EÚ L 293, 31. 10. 2008) v platnom znení.
 
+- 1la) Čl. 5 ods. 1 nariadenia Európskeho parlamentu a Rady (EÚ) 2016/429 z 9. marca 2016 o prenosných chorobách zvierat a zmene a zrušení určitých aktov v oblasti zdravia zvierat („právna úprava v oblasti zdravia zvierat“) (Ú. v. EÚ L 84 31. 3. 2016) v platnom znení.
+
+- 1lb) Čl. 3 nariadenia Európskeho parlamentu a Rady (EÚ) 2016/2031 z 26. októbra 2016 o ochranných opatreniach proti škodcom rastlín, ktorým sa menia nariadenia Európskeho parlamentu a Rady (EÚ) č. 228/2013, (EÚ) č. 652/2014 a (EÚ) č. 1143/2014 a zrušujú smernice Rady 69/464/EHS, 74/647/EHS, 93/85/EHS, 98/57/ES, 2000/29/ES, 2006/91/ES a 2007/33/ES (Ú. v. EÚ L 317, 23. 11. 2016) v platnom znení.
+
 - 1m) Bod 117 prílohy I vykonávacieho nariadenia (EÚ) 2017/373 v platnom znení.
 
 - 2) Ústavný zákon č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu v znení zákona č. 113/2004 Z. z.
