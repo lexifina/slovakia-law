@@ -2,9 +2,9 @@
 
 - 2) § 11 ods. 3 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 139/2019 Z. z.
 
-- 3) § 7 písm. a) a § 8 ods. 1 písm. b) zákona č. 129/2002 Z. z. o integrovanom záchrannom systéme v znení zákona č. 579/2004 Z. z.
+- 3) § 7 písm. a) a § 8 ods. 1 písm. b) zákona č. 129/2002 Z. z. o integrovanom záchrannom systéme v znení neskorších predpisov.
 
-- 5) § 5 zákona č. 129/2002 Z. z.
+- 5) § 5 zákona č. 129/2002 Z. z. v znení neskorších predpisov.
 
 - 5a) § 2 ods. 34 zákona č. 576/2004 Z. z. v znení zákona č. 139/2019 Z. z.
 
@@ -20,6 +20,8 @@
 
 - 6d) § 47da ods. 5 písm. d), § 47da ods. 10 a 11 zákona č. 581/2004 Z. z. v znení zákona č. 156/2018 Z. z.
 
+- 6e) § 14 zákona č. 578/2004 Z. z. v znení zákona č. 69/2025 Z. z.
+
 - 7) § 4 zákona č. 578/2004 Z. z.
 
 - 8) § 2 ods. 2 písm. b) zákona č. 129/2002 Z. z.
@@ -27,6 +29,8 @@
 - 8a) § 79 ods. 1 písm. zr) zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
 - 8b) § 4 zákona č. 540/2021 Z. z. o kategorizácii ústavnej zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
+
+- 8c) § 10 ods. 11 písm. h) a j) zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení zákona č. 301/2023 Z. z.
 
 - 9) § 7 zákona č. 129/2002 Z. z.
 
@@ -55,6 +59,10 @@
 - 13) § 27 Občianskeho zákonníka.
 
 - 13a) § 3 písm. r) zákona č. 179/2011 Z. z. o hospodárskej mobilizácii a o zmene a doplnení zákona č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu v znení neskorších predpisov v znení zákona č. 92/2022 Z. z.
+
+- 13b) § 116 Občianskeho zákonníka.
+
+- 13c) § 11 a 20 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
 
 - 14) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
