@@ -140,6 +140,8 @@
 
 - 21aa) § 8a ods. 3 zákona č. 576/2004 Z. z. v znení zákona č. 257/2017 Z. z.
 
+- 21aaa) § 5c ods. 6 písm. b) zákona č. 579/2004 Z. z. v znení zákona č. 69/2025 Z. z.
+
 - 22) § 50 ods. 3 písm. b) zákona č. 581/2004 Z. z. v znení zákona č. 353/2005 Z. z.
 
 - 22a) § 64 ods. 2 zákona č. 581/2004 Z. z. v znení neskorších predpisov.
@@ -579,6 +581,12 @@
 - 79) Napríklad § 57 ods. 1 písm. d) a § 114 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov, § 268 ods. 1 písm. d) a § 321 Občianskeho súdneho poriadku.
 
 - 80) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
+
+- 80a) § 303 Obchodného zákonníka.
+
+- 80b) § 39 Občianskeho zákonníka.
+
+- 80c) § 451 až 459 Občianskeho zákonníka.
 
 - 81) Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 

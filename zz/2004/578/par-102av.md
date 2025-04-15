@@ -2,9 +2,9 @@
 
 (1) Konania začaté a právoplatne neskončené do 31. decembra 2023 sa dokončia podľa tohto zákona v znení účinnom do 31. decembra 2023.
 
-(2) Prvé výberové konanie o vydanie povolenia na prevádzkovanie ambulancie rýchlej lekárskej pomoci v stretávacom režime „RV“ podľa tohto zákona v znení účinnom od 1. januára 2024 vyhlási ministerstvo zdravotníctva najneskôr do 15. júna 2025 súčasne s výberovým konaním podľa odseku 3.
+(2) Prvé výberové konanie o vydanie povolenia na prevádzkovanie ambulancie rýchlej lekárskej pomoci v stretávacom režime „RV“ podľa tohto zákona v znení účinnom od 1. januára 2024 vyhlási operačné stredisko tiesňového volania záchrannej zdravotnej služby najneskôr do 15. júna 2025 súčasne s výberovým konaním podľa odseku 3.
 
-(3) Prvé výberové konanie o vydanie povolenia na prevádzkovanie ambulancií záchrannej zdravotnej služby podľa tohto zákona v znení účinnom od 1. januára 2024 vyhlási ministerstvo zdravotníctva najneskôr do 15. júna 2025.
+(3) Prvé výberové konanie o vydanie povolenia na prevádzkovanie ambulancií záchrannej zdravotnej služby podľa tohto zákona v znení účinnom od 1. januára 2024 vyhlási operačné stredisko tiesňového volania záchrannej zdravotnej služby najneskôr do 15. júna 2025.
 
 (4) Povolenia na prevádzkovanie ambulancie záchrannej zdravotnej služby vydané podľa predpisov účinných do 31. decembra 2023 strácajú platnosť dňom vyznačeným v povolení na prevádzkovanie ambulancie záchrannej zdravotnej služby.
 
