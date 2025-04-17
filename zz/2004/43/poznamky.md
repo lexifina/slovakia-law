@@ -190,6 +190,18 @@
 
 - 75) § 8 písm. m) zákona č. 566/2001 Z. z.
 
+- 75a) § 4 ods. 5 a 12 zákona č. 203/2011 Z. z. v znení neskorších predpisov.
+
+- 75b) § 28a zákona č. 203/2011 Z. z. v znení neskorších predpisov.
+
+- 75c) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 345/2013 zo 17. apríla 2013 o európskych fondoch rizikového kapitálu (Ú. v. EÚ L 115, 25. 4. 2013) v platnom znení.
+
+- Nariadenie Európskeho parlamentu a Rady (EÚ) č. 346/2013 zo 17. apríla 2013 o európskych fondoch sociálneho podnikania (Ú. v. EÚ L 115, 25. 4. 2013) v platnom znení.
+
+- Nariadenie Európskeho parlamentu a Rady (EÚ) 2015/760 z 29. apríla 2015 o európskych dlhodobých investičných fondoch (Ú. v. EÚ L 123, 19. 5. 2015) v platnom znení.
+
+- 75d) Zákon č. 222/2022 Z. z. o štátnej podpore nájomného bývania a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 76) § 8 písm. n) zákona č. 566/2001 Z. z.
 
 - 77) § 5 ods. 1 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
@@ -207,6 +219,8 @@
 - 79a) Zákon č. 92/2008 Z. z. o komoditnej burze a o doplnení zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov v znení zákona č. 397/2008 Z. z.
 
 - 79b) Zákon č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 79c) § 159a zákona č. 203/2011 Z. z. v znení neskorších predpisov.
 
 - 80) § 2 ods. 1, 5 a 8 zákona č. 483/2001 Z. z.
 
