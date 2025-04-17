@@ -28,4 +28,6 @@
 
 - i) vykonávať agendu stavebného úradu,
 
-- j) vydávať záväzné stanovisko o súlade stavebného zámeru so záväznou časťou územnoplánovacej dokumentácie, ak ide o jednoduché stavby a o stavby v lokalitách, kde tak určí štatút.
+- j) vydávať záväzné stanovisko o súlade stavebného zámeru so záväznou časťou územnoplánovacej dokumentácie, ak ide o jednoduché stavby a o stavby v lokalitách, kde tak určí štatút,
+
+- k) vydávať záväzné stanovisko o súlade ohlasovanej stavby so záväznou časťou územnoplánovacej dokumentácie.
