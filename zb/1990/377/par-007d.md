@@ -18,4 +18,4 @@
 
 (6) Mestské zastupiteľstvo môže so súhlasom príslušnej mestskej časti v štatúte určiť lokality, kde záväzné stanovisko o súlade stavebného zámeru so záväznou časťou územnoplánovacej dokumentácie, aj ak ide o iné než jednoduché stavby, vydáva mestská časť a postupuje sa podľa odseku 3 a § 7a ods. 2 písm. j).
 
-(7) Odseky 1 až 6 sa použijú aj na vydávanie záväzného stanoviska dotknutého orgánu podľa Stavebného zákona v iných konaniach, v ktorých podľa osobitného predpisu orgán územného plánovania toto stanovisko vydáva.<sup>2d</sup>)
+(7) Odseky 1 až 6 sa použijú aj na vydávania záväzného stanoviska dotknutého orgánu podľa Stavebného zákona k ohlasovanej stavbe a v iných konaniach, v ktorých podľa osobitného predpisu orgán územného plánovania toto stanovisko vydáva.<sup>2d</sup>) Lehota na vydanie záväzného stanoviska k súladu ohlasovanej stavby so záväznou časťou územnoplánovacej dokumentácie je 45 dní.
