@@ -78,6 +78,8 @@
 
 - 6ai) § 2 písm. j) zákona č. 222/2022 Z. z.
 
+- 6aj) § 2 písm. c) zákona č. 222/2022 Z. z. v znení neskorších predpisov.
+
 - 6b) Čl. 12 nariadenia Rady (EHS) č. 2913/92 z 12.10.1992, ktorým sa ustanovuje Colný kódex Spoločenstva (Ú. v. ES L 302,19.10. 1992).
 
 - § 16 až 18 zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
