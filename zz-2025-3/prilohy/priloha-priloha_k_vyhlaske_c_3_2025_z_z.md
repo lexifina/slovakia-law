@@ -1,0 +1,1 @@
+Príloha k vyhláške č. 3/2025 Z. z. [Maximálna výška základného cestovného a maximálna výška osobitného cestovného v železničnej doprave](../assets/c5a2ae8b9f992b2d7f603e6f10ced4020466dca917d445709c56194dbcf99a1a.pdf)
