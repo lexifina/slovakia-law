@@ -150,9 +150,9 @@
 
 - 53) § 84 zákona č. 301/2005 Z. z.
 
-- 54) Zákon č. 256/1998 Z. z. o ochrane svedka a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 54) Zákon č. 86/2025 Z. z. o ochrane svedka a o zmene a doplnení niektorých zákonov.
 
-- 54a) § 14 ods. 2 zákona č. 256/1998 Z. z. v znení zákona č. 255/2006 Z. z.
+- 54a) § 9 zákona č. 86/2025 Z. z.
 
 - 55) Zákon č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
 
