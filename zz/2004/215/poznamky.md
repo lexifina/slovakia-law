@@ -48,7 +48,9 @@
 
 - 16) § 201 ods. 2 Trestného poriadku.
 
-- 17) Zákon č. 256/1998 Z. z. o ochrane svedka a o zmene a doplnení niektorých zákonov v znení zákona č. 490/2001 Z. z.
+- 17) Zákon č. 86/2025 Z. z. o ochrane svedka a o zmene a doplnení niektorých zákonov.
+
+- 17a) § 17 ods. 1 zákona č. 86/2025 Z. z.
 
 - 18) § 11 zákona Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov.
 
