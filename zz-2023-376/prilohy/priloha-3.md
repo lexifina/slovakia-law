@@ -1,0 +1,1 @@
+Príloha č. 3 k vyhláške č. 376/2023 Z. z. [Zoznam trestov a ochranných opatrení kategorizovaných podľa subjektu trestného činu](../assets/55d2a512b30082d31aa3593c644b423fd88499f7f2e8a5ffc3a1d8c43b408c04.pdf)
