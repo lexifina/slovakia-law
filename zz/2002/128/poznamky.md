@@ -1,6 +1,6 @@
 - 1) § 2 písm. c) zákona č. 108/2024 Z. z. o ochrane spotrebiteľa a o zmene a doplnení niektorých zákonov.
 
-- 1a) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) 2018/302 z 28. februára 2018 o riešení neodôvodneného geografického blokovania a iných foriem diskriminácie z dôvodu štátnej príslušnosti, miesta bydliska alebo sídla zákazníkov na vnútornom trhu, ktorým sa menia nariadenia (ES) č. 2006/2004 a (EÚ) 2017/2394 a smernica 2009/22/ES (Ú. v. EÚ L 60I, 2. 3. 2018), zákon č. 657/2004 Z. z. o tepelnej energetike v znení neskorších predpisov, zákon č. 555/2005 Z. z. o energetickej hospodárnosti budov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko účinnej kombinovanej výroby a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 314/2012 Z. z. o pravidelnej kontrole vykurovacích systémov a klimatizačných systémov a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov, zákon č. 106/2018 Z. z. o prevádzke vozidiel v cestnej premávke a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 1a) Napríklad zákon č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko účinnej kombinovanej výroby a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 106/2018 Z. z. o prevádzke vozidiel v cestnej premávke a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 2) Napríklad zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov, zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 89/2016 Z. z. o výrobe, označovaní a predaji tabakových výrobkov a súvisiacich výrobkov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -36,9 +36,9 @@
 
 - 10) Napríklad zákon č. 56/2018 Z. z. o posudzovaní zhody výrobku, sprístupňovaní určeného výrobku na trhu a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 10a) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) 2017/1369 zo 4. júla 2017, ktorým sa stanovuje rámec pre energetické označovanie a zrušuje smernica 2010/30/EÚ (Ú. v. EÚ L 198, 28. 7. 2017) v platnom znení, zákon č. 657/2004 Z. z. v znení neskorších predpisov, zákon č. 555/2005 Z. z. v znení neskorších predpisov, zákon č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko účinnej kombinovanej výroby a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 529/2010 Z. z. o environmentálnom navrhovaní a používaní výrobkov (zákon o ekodizajne) v znení neskorších predpisov, zákon č. 251/2012 Z. z. v znení neskorších predpisov, zákon č. 314/2012 Z. z. o pravidelnej kontrole vykurovacích systémov a klimatizačných systémov a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov, zákon č. 307/2018 Z. z. o dohľade nad dodržiavaním povinností pri štítkovaní energeticky významných výrobkov a o zmene zákona č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 10a) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) 2017/1369 zo 4. júla 2017, ktorým sa stanovuje rámec pre energetické označovanie a zrušuje smernica 2010/30/EÚ (Ú. v. EÚ L 198, 28. 7. 2017) v platnom znení, zákon č. 309/2009 Z. z. v znení neskorších predpisov, zákon č. 529/2010 Z. z. v znení neskorších predpisov, zákon č. 307/2018 Z. z.
 
-- 10b) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) 2019/1020 z 20. júna 2019 o dohľade nad trhom a súlade výrobkov a o zmene smernice 2004/42/ES a nariadení (ES) č. 765/2008 a (EÚ) č. 305/2011 (Ú. v. EÚ L 169, 25. 6. 2019), zákon č. 251/2012 Z. z. v znení neskorších predpisov, zákon č. 56/2018 Z. z. o posudzovaní zhody výrobku, sprístupňovaní určeného výrobku na trhu a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 281/2023 Z. z. o všeobecnej bezpečnosti výrobkov a o zmene a doplnení niektorých zákonov.
+- 10b) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) 2019/1020 z 20. júna 2019 o dohľade nad trhom a súlade výrobkov a o zmene smernice 2004/42/ES a nariadení (ES) č. 765/2008 a (EÚ) č. 305/2011 (Ú. v. EÚ L 169, 25. 6. 2019) v platnom znení, zákon č. 56/2018 Z. z. v znení neskorších predpisov, zákon č. 83/2025 Z. z. o všeobecnej bezpečnosti výrobkov a o zmene a doplnení niektorých zákonov.
 
 - 11) § 137 ods. 1 Zákonníka práce.
 
@@ -52,21 +52,25 @@
 
 - 14a) Napríklad zákon č. 56/2018 Z. z. v znení neskorších predpisov, zákon č. 106/2018 Z. z. v znení neskorších predpisov.
 
-- 14b) Čl. 3 ods. 15 nariadenia Európskeho parlamentu a Rady (EÚ) 2017/2394 z 12. decembra 2017 o spolupráci medzi národnými orgánmi zodpovednými za presadzovanie právnych predpisov na ochranu spotrebiteľa a o zrušení nariadenia (ES) č. 2006/2004 (Ú. v. EÚ L 345, 27. 12. 2017) v platnom znení.
+- 14b) Čl. 3 ods. 15 nariadenia Európskeho parlamentu a Rady (EÚ) 2023/988 z 10. mája 2023 o všeobecnej bezpečnosti výrobkov, ktorým sa mení nariadenie Európskeho parlamentu a Rady (EÚ) č. 1025/2012 a smernica Európskeho parlamentu a Rady (EÚ) 2020/1828 a zrušuje smernica Európskeho parlamentu a Rady 2001/95/ES a smernica Rady 87/357/EHS (Ú. v. EÚ L 135, 23. 5. 2023).
 
 - 14c) § 33 zákona č. 108/2024 Z. z.
 
 - 14d) § 34 zákona č. 108/2024 Z. z.
 
-- 15) Napríklad nariadenie (EÚ) 2017/1369 v platnom znení, zákon č. 56/2018 Z. z. v znení neskorších predpisov, zákon č. 106/2018 Z. z. v znení neskorších predpisov, zákon č. 281/2023 Z. z.
+- 14e) § 8 zákona č. 83/2025 Z. z.
 
-- 17a) Napríklad zákon č. 529/2010 Z. z. v znení neskorších predpisov, zákon č. 56/2018 Z. z. v znení neskorších predpisov, zákon č. 281/2023 Z. z.
+- 14f) § 6 zákona č. 83/2025 Z. z.
+
+- 15) Napríklad nariadenie (EÚ) 2017/1369 v platnom znení, nariadenie (EÚ) 2019/1020 v platnom znení, nariadenie (EÚ) 2023/988, zákon č. 56/2018 Z. z. v znení neskorších predpisov, zákon č. 106/2018 Z. z. v znení neskorších predpisov, zákon č. 83/2025 Z. z.
+
+- 17a) Napríklad nariadenie (EÚ) 2023/988, zákon č. 529/2010 Z. z. v znení neskorších predpisov, zákon č. 56/2018 Z. z. v znení neskorších predpisov, zákon č. 83/2025 Z. z.
 
 - 18) Napríklad zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 106/2018 Z. z. v znení neskorších predpisov.
 
 - 19) § 58 ods. 2 písm. a) zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
-- 19a) Nariadenie vlády Slovenskej republiky č. 397/1999 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na strelné zbrane a strelivo v znení neskorších predpisov.
+- 19a) Zákon č. 64/2019 Z. z. o sprístupňovaní strelných zbraní a streliva na civilné použitie na trhu v znení neskorších predpisov.
 
 - 19b) § 2 ods. 1 písm. p) zákona č. 190/2003 Z. z. o strelných zbraniach a strelive a o zmene a doplnení niektorých zákonov v znení zákona č. 92/2010 Z. z.
 
