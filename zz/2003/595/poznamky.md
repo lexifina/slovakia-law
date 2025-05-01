@@ -574,7 +574,7 @@
 
 - 105) Nariadenie vlády Československej socialistickej republiky č. 35/1979 Zb. o odplatách vo vodnom hospodárstve v znení neskorších predpisov.
 
-- 105a) § 3 ods. 8 zákona č. 281/2023 Z. z. o všeobecnej bezpečnosti výrobkov a o zmene a doplnení niektorých zákonov.
+- 105a) Čl. 3 ods. 3 nariadenia Európskeho parlamentu a Rady (EÚ) 2023/988 z 10. mája 2023 o všeobecnej bezpečnosti výrobkov, ktorým sa mení nariadenie Európskeho parlamentu a Rady (EÚ) č. 1025/2012 a smernica Európskeho parlamentu a Rady (EÚ) 2020/1828 a zrušuje smernica Európskeho parlamentu a Rady 2001/95/ES a smernica Rady 87/357/EHS (Ú. v. EÚ L 135, 23. 5. 2023).
 
 - 105aa) § 5 ods. 2 zákona č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zmene a doplnení niektorých zákonov.
 
