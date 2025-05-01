@@ -10,7 +10,7 @@
 
 - 2) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
-- 2a) Zákon č. 256/1998 Z. z. o ochrane svedka a o zmene a doplnení niektorých zákonov.
+- 2a) Zákon č. 86/2025 Z. z. o ochrane svedka a o zmene a doplnení niektorých zákonov.
 
 - 2b) § 34 a 35 zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení zákona č. 37/2002 Z. z.
 
