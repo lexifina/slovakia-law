@@ -1,0 +1,1 @@
+Príloha č.1 k vyhláške č. 116/2025 Z. z. [Sídla staníc záchrannej zdravotnej služby, typy ambulancií záchrannej zdravotnej služby v týchto sídlach, prevádzkový čas](../assets/e67e58029bb8ff1dcd90dada19b190ff9628284b9054bb53efe197203f6a02c8.pdf)
