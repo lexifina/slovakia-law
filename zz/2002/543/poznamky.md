@@ -74,7 +74,9 @@
 
 - 34) Napríklad § 14 ods. 3 zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov, § 23 zákona č. 364/2004 Z. z. v znení neskorších predpisov.
 
-- 35) § 40 ods. 1 zákona č. 326/2005 Z. z. v znení zákona č. 117/2010 Z. z.
+- 35) § 37 zákona č. 326/2005 Z. z. v znení neskorších predpisov.
+
+- 35a) § 40 až 43 zákona č. 326/2005 Z. z. v znení neskorších predpisov.
 
 - 36) § 12 zákona č. 569/2007 Z. z. v znení neskorších predpisov.
 
@@ -95,6 +97,8 @@
 - 37g) § 4 až 52 zákona č. 24/2006 Z. z. v znení neskorších predpisov.
 
 - 38) § 6 písm. h) zákona č. 319/2002 Z. z. o obrane Slovenskej republiky v znení zákona č. 333/2007 Z. z.
+
+- 38a) § 38 ods. 2 zákona č. 326/2005 Z. z. v znení zákona č. 360/2007 Z. z.
 
 - 39) Napríklad zákon č. 44/1988 Zb. v znení neskorších predpisov, zákon č. 220/2004 Z. z. v znení neskorších predpisov, zákon č. 364/2004 Z. z. v znení neskorších predpisov, zákon č. 326/2005 Z. z. v znení neskorších predpisov, zákon č. 39/2007 Z. z. v znení neskorších predpisov, zákon č. 569/2007 Z. z. v znení neskorších predpisov, zákon č. 274/2009 Z. z. v znení neskorších predpisov, zákon č. 405/2011 Z. z. v znení neskorších predpisov, zákon č. 216/2018 Z. z. v znení neskorších predpisov, zákon č. 200/2022 Z. z. v znení neskorších predpisov, Stavebný zákon.
 
@@ -227,6 +231,8 @@
 - Príloha č. 8 k vyhláške Ministerstva pôdohospodárstva Slovenskej republiky č. 508/2004 Z. z., ktorou sa vykonáva § 27 zákona č. 220/2004 Z. z. o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 59/2013 Z. z.
 
 - 78b) Napríklad zákon č. 135/1961 Zb. v znení neskorších predpisov, zákon č. 143/1998 Z. z. v znení neskorších predpisov, zákon č. 442/2002 Z. z. o verejných vodovodoch a verejných kanalizáciách a o zmene a doplnení zákona č. 276/2001 Z. z. o regulácii v sieťových odvetviach v znení neskorších predpisov, zákon č. 364/2004 Z. z. v znení neskorších predpisov, zákon č. 513/2009 Z. z., zákon č. 7/2010 Z. z. o ochrane pred povodňami v znení zákona č. 180/2013 Z. z., zákon č. 351/2011 o elektronických komunikáciách v znení neskorších predpisov, zákon č. 405/2011 Z. z. o rastlinolekárskej starostlivosti v znení neskorších predpisov, zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 78c) § 56 zákona č. 326/2005 Z. z. v znení neskorších predpisov.
 
 - 79) Napríklad zákon č. 44/1988 Zb. v znení neskorších predpisov, zákon č. 220/2004 Z. z. v znení neskorších predpisov, zákon č. 364/2004 Z. z. v znení neskorších predpisov, zákon č. 326/2005 Z. z. v znení neskorších predpisov, Stavebný zákon.
 

@@ -20,7 +20,7 @@
 
 - h) vyhotovuje, obstaráva a vedie vybranú dokumentáciu ochrany prírody a krajiny a iné odborné podklady s ňou súvisiace, poskytuje informácie z nej a realizuje vybrané opatrenia z nej vyplývajúce,
 
-- i) vydáva stanovisko k náhodnej ťažbe podľa § 14 ods. 8 a súhlasné stanovisko k náhodnej ťažbe podľa osobitného predpisu<sup>98c</sup>) a predkladá orgánu ochrany prírody podnet na začatie konania podľa § 13 ods. 7, § 14 ods. 7 a § 28 ods. 4, ktorým je orgán ochrany prírody viazaný,
+- i) vydáva stanovisko k asanačnej ťažbe podľa § 14 ods. 8 a súhlasné stanovisko k asanačnej ťažbe podľa osobitného predpisu<sup>98c</sup>) a predkladá orgánu ochrany prírody podnet na začatie konania podľa § 13 ods. 7, § 14 ods. 7 a § 28 ods. 4, ktorým je orgán ochrany prírody viazaný,
 
 - j) vypracúva dokumentáciu podľa § 28 ods. 10 a návrhy kompenzačných opatrení podľa § 28 ods. 14,
 
