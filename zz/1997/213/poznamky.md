@@ -42,6 +42,10 @@
 
 - 12c) § 19 ods. 4 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
+- 12ca) Zákon č. 448/2008 Z. z. v znení neskorších predpisov.
+
+- 12cb) Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 12d) § 7 zákona č. 346/2018 Z. z.
 
 - 13) § 100b a 100c zákona č. 578/2004 Z. z. v znení zákona č. 8/2010 Z. z.
