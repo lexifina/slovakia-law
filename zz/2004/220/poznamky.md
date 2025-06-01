@@ -8,11 +8,27 @@
 
 - 2aa) § 22 ods. 6 zákona č. 200/2022 Z. z. o územnom plánovaní v znení zákona č. 205/2023 Z. z.
 
+- 2ab) § 2 ods. 2 písm. m) zákona č. 543/2002 Z. z. v znení zákona č. 356/2019 Z. z.
+
 - 2b) § 12 až 16 a § 26 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
+
+- Nariadenie vlády Slovenskej republiky č. 436/2022 Z. z., ktorým sa ustanovujú pravidlá poskytovania podpory v poľnohospodárstve formou priamych platieb v znení neskorších predpisov.
+
+- Nariadenie vlády Slovenskej republiky č. 3/2023 Z. z., ktorým sa ustanovujú pravidlá poskytovania podpory na neprojektové opatrenia Strategického plánu spoločnej poľnohospodárskej politiky v znení nariadenia vlády č. 407/2023 Z. z.
+
+- 2c) § 2 písm. n) prvý bod zákona č. 326/2005 Z. z. o lesoch.
 
 - 3) Zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
 
 - 4) § 5 ods. 4 zákona č. 281/1997 Z. z. o vojenských obvodoch a zákon, ktorým sa mení zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 4a) § 9 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
+
+- 4b) § 47 ods. 4 písm. a) až c) a e) až l) zákona č. 543/2002 Z. z. v znení neskorších predpisov.
+
+- 4c) Napríklad § 29a ods. 10 zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení zákona č. 205/2023 Z. z., § 28 ods. 7 zákona č. 326/2005 Z. z. v znení zákona č. 355/2019 Z. z., § 11 ods. 1 písm. b) zákona č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov.
+
+- 4d) Zákon Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov.
 
 - 5) § 22 ods. 4 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov.
 
@@ -28,13 +44,9 @@
 
 - 9a) § 9 ods. 1 a 2 a § 68 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
 
-- 9aa) § 60 ods. 3 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
+- 9aa) § 42 ods. 2 písm. c) zákona č. 162/1995 Z. z. v znení neskorších predpisov.
 
 - 9b) § 56 ods. 1 písm. c) zákona č. 326/2005 Z. z.
-
-- 9c) § 26 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 527/2003 Z. z.
-
-- 9d) Príloha č. 2 nariadenia vlády Slovenskej republiky č. 58/2013 Z. z. o odvodoch za odňatie a neoprávnený záber poľnohospodárskej pôdy.
 
 - 9e) § 22 ods. 3 a 6 a § 40 ods. 2 zákona č. 200/2022 Z. z.
 
@@ -57,6 +69,8 @@
 - Zákon č. 142/2024 Z. z. o mimoriadnych opatreniach pre strategické investície a pre výstavbu transeurópskej dopravnej siete a o zmene a doplnení niektorých zákonov.
 
 - 11aaa) Zákon č. 142/2024 Z. z. o mimoriadnych opatreniach pre strategické investície a pre výstavbu transeurópskej dopravnej siete a o zmene a doplnení niektorých zákonov.
+
+- 11aab) § 2 zákona č. 452/2021 Z. z. o elektronických komunikáciách v znení neskorších predpisov.
 
 - 11ab) Zákon č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko účinnej kombinovanej výroby a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
