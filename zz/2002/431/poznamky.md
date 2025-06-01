@@ -194,6 +194,16 @@
 
 - 29daa) Čl. 26 nariadenia Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) (Ú. v. EÚ L 119, 4. 5. 2016).
 
+- 29daaa) § 6b zákona č. 116/1985 Zb. o podmienkach činnosti organizácií s medzinárodným prvkom v Československej socialistickej republike v znení zákona č. 109/2025 Z. z.
+
+- § 17b zákona č. 83/1990 Zb. o združovaní občanov v znení zákona č. 109/2025 Z. z.
+
+- § 25a zákona č. 147/1997 Z. z. v znení zákona č. 109/2025 Z. z.
+
+- § 34a zákona č. 213/1997 Z. z. v znení neskorších predpisov.
+
+- § 35a zákona č. 34/2002 Z. z. v znení zákona č. 109/2025 Z. z.
+
 - 29db) § 5 písm. ab) zákona č. 483/2001 Z. z. v znení zákona č. 213/2014 Z. z.
 
 - 29dc) § 3 ods. 1 písm. q), ods. 2 písm. l), ods. 3 písm. m) a ods. 5 písm. d) zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov v znení zákona č. 302/2023 Z. z.
