@@ -30,11 +30,9 @@
 
 - 6c) § 19 ods. 4 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
-- 7) Napríklad zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe, zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení zákona č. 150/2001 Z. z.
+- 6d) Zákon č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
 
-- 8) Trestný zákon.
-
-- Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
+- 6e) Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 9) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
 
