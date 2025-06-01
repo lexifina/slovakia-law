@@ -11,3 +11,9 @@
 - 3) Zákon č. 68/1951 Zb. o dobrovoľných organizáciách a zhromaždeniach v znení neskorších predpisov.
 
 - Vyhláška ministra vnútra č. 348/1951 Ú. v. (č. 320/1951 Ú. l.) o dobrovoľných organizáciách a zhromaždeniach v znení neskorších predpisov.
+
+- 4) § 2 ods. 4 písm. f) zákona č. 431/2002 Z. z.
+
+- 5) Zákon č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
+
+- 6) Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
