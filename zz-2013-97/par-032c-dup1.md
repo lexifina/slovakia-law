@@ -1,0 +1,3 @@
+# § 32c Prechodné ustanovenie k úpravám účinným od 1. septembra 2022
+
+Nájomná zmluva uzatvorená medzi fondom alebo správcom a spoločenstvom do 31. augusta 2022 podľa § 12 ods. 2 v znení účinnom do 31. augusta 2022, ktorej predmetom je užívanie podielov na spoločne obhospodarovanej nehnuteľnosti, ktorá nie je spoločnou nehnuteľnosťou, a ktoré spravuje alebo s ktorými nakladá fond alebo správca, ostáva platná do uplynutia času, na ktorý je nájom dohodnutý, do uplynutia minimálnej doby trvania nájmu alebo do jej ukončenia výpoveďou podľa osobitného predpisu,<sup>39</sup>) alebo do jej ukončenia podľa osobitného predpisu<sup>40</sup>) alebo ak nenastane iná skutočnosť spôsobujúca zánik nájomnej zmluvy.
