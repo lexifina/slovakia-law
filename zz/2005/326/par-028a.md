@@ -14,10 +14,12 @@
 
 - a) vykonať nevyhnutné ochranné a obranné opatrenia vrátane likvidácie lesného reprodukčného materiálu použitého pri obnove lesa alebo lesného porastu,
 
-- b) pozastaviť vykonávanie úmyselnej ťažby až do vykonania náhodnej ťažby alebo opatrení na ochranu lesa podľa písmena a) alebo
+- b) pozastaviť vykonávanie úmyselnej ťažby až do vykonania asanačnej ťažby alebo opatrení na ochranu lesa podľa písmena a) alebo
 
 - c) určiť podmienky nakladania s vyťaženou drevnou hmotou a stromami ponechanými v lesnom poraste.
 
-(3) Orgán štátnej správy lesného hospodárstva môže v prípade mimoriadnej udalosti v lesoch na dobu nevyhnutne potrebnú zakázať alebo obmedziť využívanie lesov verejnosťou podľa § 30 ods. 4.
+(3) Obhospodarovateľ lesa nie je povinný ohlasovať dôvod vzniku asanačnej ťažby podľa § 23 ods. 7 až 9 za vlastnícky celok, v ktorom boli uložené opatrenia podľa odseku 2 z dôvodu mimoriadnej udalosti v lesoch podľa odseku 1 písm. a), b) alebo písm. c).
 
-(4) Účastníkom konania podľa odseku 2 je vlastník, správca a obhospodarovateľ lesa.
+(4) Orgán štátnej správy lesného hospodárstva môže v prípade mimoriadnej udalosti v lesoch na dobu nevyhnutne potrebnú zakázať alebo obmedziť využívanie lesov verejnosťou podľa § 30 ods. 4.
+
+(5) Účastníkom konania podľa odseku 2 je vlastník, správca a obhospodarovateľ lesa.

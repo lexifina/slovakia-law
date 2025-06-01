@@ -92,15 +92,15 @@
 
 - Zákon č. 319/2002 Z. z. o obrane Slovenskej republiky v znení neskorších predpisov.
 
-- 23a) § 65 ods. 1 písm. k) zákona č. 543/2002 Z. z.
+- 23a) § 65a a 65b zákona č. 543/2002 Z. z. v znení neskorších predpisov.
+
+- 23b) § 28 ods. 1 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
 
 - 23aa) Čl. 7 písm. k) Protokolu o trvalo udržateľnom obhospodarovaní lesov k Rámcovému dohovoru o ochrane a trvalo udržateľnom rozvoji Karpát (oznámenie č. 304/2013 Z. z.).
 
 - 24) Napríklad zákon č. 543/2002 Z. z. v znení neskorších predpisov, zákon č. 364/2004 Z. z. v znení neskorších predpisov.
 
 - 25) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
-
-- 25a) § 65 ods. 1 písm. k), § 65a a § 65b zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
 
 - 26) § 32 zákona č. 364/2004 Z. z. v znení zákona č. 230/2005 Z. z.
 
@@ -116,13 +116,13 @@
 
 - 31) Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
+- 31a) § 1 až 3 zákona č. 124/1992 Zb. o Vojenskej polícii v znení neskorších predpisov.
+
 - 32) Zákon č. 543/2002 Z. z. v znení neskorších predpisov.
 
 - 32a) § 26 ods. 6 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
 
 - 32aa) § 13 ods. 6, § 14 ods. 6, § 15 ods. 4 a § 26 ods. 5 zákona č. 543/2002 Z. z. v znení zákona č. 356/2019 Z. z.
-
-- 32ab) § 65a ods. 2 písm. i) zákona č. 543/2002 Z. z. v znení zákona č. 356/2019 Z. z.
 
 - 33) § 68 písm. j) zákona č. 543/2002 Z. z. v znení neskorších predpisov.
 
@@ -137,6 +137,10 @@
 - 35) § 415 až 450 Občianskeho zákonníka v znení neskorších predpisov.
 
 - § 373 až 386 Obchodného zákonníka.
+
+- 35a) § 13a zákona č. 124/1992 Zb. v znení zákona č. 393/2008 Z. z.
+
+- § 21 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov.
 
 - 36) § 3d ods. 6 zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
 
@@ -158,6 +162,8 @@
 
 - Vyhláška Ministerstva vnútra Slovenskej republiky č. 121/2002 Z. z. o požiarnej prevencii.
 
+- 42a) § 65a zákona č. 543/2002 Z. z. v znení neskorších predpisov.
+
 - 43) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) č. 1303/2013 zo 17. decembra 2013, ktorým sa stanovujú spoločné ustanovenia o Európskom fonde regionálneho rozvoja, Európskom sociálnom fonde, Kohéznom fonde, Európskom poľnohospodárskom fonde pre rozvoj vidieka a Európskom námornom a rybárskom fonde a ktorým sa stanovujú všeobecné ustanovenia o Európskom fonde regionálneho rozvoja, Európskom sociálnom fonde, Kohéznom fonde a Európskom námornom a rybárskom fonde, a ktorým sa zrušuje nariadenie Rady (ES) č. 1083/2006 (Ú. v. EÚ L 347, 20. 12. 2013) v platnom znení, zákon č. 543/2002 Z. z. v znení neskorších predpisov, zákon č. 587/2004 Z. z. o Environmentálnom fonde a o zmene a doplnení niektorých zákonov v znení zákona č. 207/2013 Z. z.
 
 - 43a) § 47 ods. 4 písm. k) zákona č. 543/2002 Z. z. v znení neskorších predpisov.
@@ -170,7 +176,7 @@
 
 - 45) § 2, § 4 ods. 8 a § 26 zákona č. 193/2005 Z. z.
 
-- 45a) STN 73 6108 Lesná dopravná sieť.
+- 45a) STN 73 6108 Lesná dopravná sieť (73 6108).
 
 - 45ab) § 2 písm. y) a § 27 ods. 4 zákona č. 274/2009 Z. z. o poľovníctve a o zmene a doplnení niektorých zákonov.
 
@@ -184,7 +190,7 @@
 
 - 48) § 2 ods. 4 zákona č. 194/1998 Z. z. o šľachtení a plemenitbe hospodárskych zvierat a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
-- 49) Napríklad § 25 zákona č. 124/1992 Zb. o Vojenskej polícii v znení neskorších predpisov, § 53 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov, § 7 písm. f) a § 8 ods. 3 zákona Národnej rady Slovenskej republiky č. 255/1994 Z. z. o poľnej stráži, zákon č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky v znení neskorších predpisov.
+- 49) Napríklad § 25 zákona č. 124/1992 Zb. v znení neskorších predpisov, § 53 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov, § 7 písm. f) a § 8 ods. 3 zákona Národnej rady Slovenskej republiky č. 255/1994 Z. z. o poľnej stráži, zákon č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky v znení neskorších predpisov.
 
 - 49a) § 4 ods. 1 a 2 zákona č. 544/2002 Z. z. o Horskej záchrannej službe v znení neskorších predpisov.
 
@@ -199,6 +205,10 @@
 - 53) § 128 ods. 1 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
 
 - 54) § 128 ods. 2 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
+
+- 54a) § 9 ods. 1 písm. m) a § 28 ods. 7 tretia veta zákona č. 543/2002 Z. z. v znení neskorších predpisov.
+
+- 54b) § 9 ods. 1 písm. m) a s) a ods. 3, § 28 ods. 5, § 29, § 61d ods. 7 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
 
 - 55) § 4 ods. 7 zákona Národnej rady Slovenskej republiky č. 215/1995 Z. z. v znení zákona č. 423/2003 Z. z.
 
@@ -220,8 +230,6 @@
 
 - 57a) § 103 ods. 6 zákona č. 543/2002 Z. z.
 
-- 57aa) § 28 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
-
 - 57b) § 6 zákona č. 150/2019 Z. z. o prevencii a manažmente introdukcie a šírenia inváznych nepôvodných druhov a o zmene a doplnení niektorých zákonov.
 
 - 59) Napríklad § 10 zákona č. 136/2000 Z. z. o hnojivách v znení zákona č. 555/2004 Z. z.
@@ -239,6 +247,8 @@
 - Zákon č. 540/2001 Z. z. o štátnej štatistike v znení zákona č. 215/2004 Z. z.
 
 - 62) Zákon č. 217/2004 Z. z. v znení zákona č. 545/2004 Z. z.
+
+- 62a) Napríklad § 30 ods. 2 zákona č. 364/2004 Z. z. v znení zákona č. 409/2014 Z. z., § 69 zákona č. 274/2009 Z. z., zákon č. 138/2010 Z. z. v znení neskorších predpisov.
 
 - 63) § 18 ods. 2 písm. b) zákona č. 473/2003 Z. z.
 
@@ -332,6 +342,12 @@
 
 - 77) Napríklad zákon č. 281/1997 Z. z. v znení zákona č. 172/2003 Z. z., Trestný poriadok.
 
+- 77a) Zákon Slovenskej národnej rady č. 564/1991 Zb. o obecnej polícii v znení neskorších predpisov.
+
+- Zákon č. 124/1992 Zb. v znení neskorších predpisov.
+
+- Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov.
+
 - 78) Zákon č. 190/2003 Z. z. o strelných zbraniach a strelive a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 79) § 13 a 14 Trestného zákona.
@@ -359,6 +375,8 @@
 - 87aa) § 20 zákona č. 200/2022 Z. z.
 
 - 87ab) § 21 zákona č. 200/2022 Z. z.
+
+- 87b) § 11 až 15 zákona č. 113/2018 Z. z. v znení zákona č. 355/2019 Z. z.
 
 - 88) Napríklad zákon č. 193/2005 Z. z., zákon č. 217/2004 Z. z. v znení zákona č. 545/2004 Z. z.
 

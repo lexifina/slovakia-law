@@ -1,0 +1,5 @@
+# § 37a Osobitosti hospodárenia v lesoch na územiach európskej sústavy chránených území
+
+(1) Na lesných pozemkoch v územiach európskej sústavy chránených území sa hospodárenie v lesoch zabezpečuje v rozsahu podľa programu starostlivosti o lesy alebo projektu starostlivosti o lesný pozemok schváleného na základe stanoviska podľa osobitného predpisu<sup>54a</sup>) a v súlade so stanovenými regulatívmi ochrany prírody [§ 40 ods. 2 písm. c)]. Regulatívy ochrany prírody môžu určiť podmienky ochrany prírody pre rekonštrukciu lesa, obnovu lesa, výchovu lesa, zásady vykonania ťažby a ochranu lesa odlišne od ustanovení § 19 až 21, § 23 a 28.
+
+(2) Ťažbu alebo opatrenia na ochranu lesa, ktoré nie sú uvedené v programe starostlivosti o lesy alebo projekte starostlivosti o lesný pozemok podľa odseku 1, alebo sú nad rámec rozsahu podľa programu starostlivosti o lesy alebo projektu starostlivosti o lesný pozemok alebo nie sú v súlade so stanovenými regulatívmi ochrany prírody, možno v územiach európskej sústavy chránených území vykonať len v súlade s postupom podľa osobitného predpisu.<sup>54b</sup>)
