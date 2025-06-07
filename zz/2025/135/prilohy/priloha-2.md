@@ -1,0 +1,1 @@
+Príloha č. 2 k rozhodnutiu predsedu Národnej rady Slovenskej republiky č. 135/2025 Z. z. [LEHOTY na vykonanie volieb do orgánov samosprávy obcí 6. septembra 2025](../assets/fe678f5c502d0b3061e9b56575d0906422e938fa4ca8ee69d7a583eb636af899.pdf)
