@@ -42,6 +42,8 @@
 
 - 14a) § 4ad zákona č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl a školských zariadení v znení zákona č. 182/2017 Z. z.
 
+- 14aa) § 4 ods. 1 zákona č. 351/2022 Z. z. o prístupnosti výrobkov a služieb pre osoby so zdravotným postihnutím a o zmene a doplnení niektorých zákonov.
+
 - 14b) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
 - 15) § 14 ods. 2 písm. a) a b) zákona č. 596/2003 Z. z. v znení zákona č. 475/2005 Z. z.
