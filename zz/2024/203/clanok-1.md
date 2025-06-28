@@ -70,6 +70,10 @@ Zákon č. 264/2022 Z. z. o mediálnych službách a o zmene a doplnení niektor
 
 - „Regulátor vykonáva dohľad nad dodržiavaním právnych predpisov upravujúcich vysielanie, retransmisiu, poskytovanie audiovizuálnych mediálnych služieb na požiadanie, poskytovanie platforiem na zdieľanie obsahu, poskytovanie sprostredkovateľskej služby, poskytovanie online sprostredkovateľských služieb a poskytovanie internetového vyhľadávača.“.
 
+- 19. V § 109 ods. 2 prvá veta znie:
+
+- „Regulátor vykonáva dohľad nad dodržiavaním právnych predpisov upravujúcich vysielanie, retransmisiu, poskytovanie audiovizuálnych mediálnych služieb na požiadanie, poskytovanie platforiem na zdieľanie obsahu, poskytovanie sprostredkovateľskej služby, poskytovanie online sprostredkovateľských služieb, poskytovanie internetového vyhľadávača a poskytovanie služieb multimodálneho prístupu.“.
+
 - 20. V § 109 ods. 3 písm. a) sa slovo „a“ nahrádza čiarkou a za slovo „obsahu“ sa vkladá čiarka a slová „poskytovania sprostredkovateľskej služby, poskytovania online sprostredkovateľských služieb a poskytovania internetového vyhľadávača“.
 
 - 21. V § 109 ods. 3 písmeno c) znie:
@@ -77,6 +81,12 @@ Zákon č. 264/2022 Z. z. o mediálnych službách a o zmene a doplnení niektor
 - „c)
 
 - vykonávať štátnu reguláciu v oblasti vysielania, retransmisie, poskytovania audiovizuálnych mediálnych služieb na požiadanie, poskytovania platforiem na zdieľanie obsahu, poskytovania sprostredkovateľskej služby, poskytovania online sprostredkovateľských služieb a poskytovania internetového vyhľadávača.“.
+
+- 22. V § 109 ods. 3 písmeno c) znie:
+
+- „c)
+
+- vykonávať štátnu reguláciu v oblasti vysielania, retransmisie, poskytovania audiovizuálnych mediálnych služieb na požiadanie, poskytovania platforiem na zdieľanie obsahu, poskytovania sprostredkovateľskej služby, poskytovania online sprostredkovateľských služieb, poskytovania internetového vyhľadávača a poskytovania služieb multimodálneho prístupu.“.
 
 - 23. V § 110 ods. 1 písm. d), ods. 2 písm. b) a § 112 ods. 2 písm. a) sa slová „osobitného predpisu,<sup>72</sup>)“ nahrádzajú slovami „osobitných predpisov,<sup>72</sup>)“.
 
