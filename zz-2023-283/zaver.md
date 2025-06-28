@@ -1,0 +1,1 @@
+Ľudovít Ódor v. r.
