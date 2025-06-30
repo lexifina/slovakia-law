@@ -30,4 +30,4 @@ Zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone vere
 
 - (6)
 
-- Právo na náhradu škody spôsobenej nesprávnym úradným postupom má ten, komu bola takým postupom spôsobená škoda. Právo na náhradu škody spočívajúcej v náhrade nemajetkovej ujmy nevznikne, ak súd v správnom súdnictve v konaní o žalobe proti nečinnosti orgánu verejnej správy, Ústavný súd Slovenskej republiky v konaní o ústavnej sťažnosti rozhodoval o primeranom finančnom zadosťučinení, alebo Európsky súd pre ľudské práva v konaní o porušení práva na prejednanie veci v primeranej lehote rozhodoval o spravodlivom zadosťučinení, a to v rozsahu nemajetkovej ujmy spôsobenej skutočnosťami, ktoré pri tomto rozhodovaní mohli byť zohľadnené bez ohľadu na to, že zohľadnené neboli z dôvodu na strane poškodeného.“.
+- Právo na náhradu škody spôsobenej nesprávnym úradným postupom má ten, komu bola takým postupom spôsobená škoda.“.
