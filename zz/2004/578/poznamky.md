@@ -254,6 +254,8 @@
 
 - 36a) § 25 zákona č. 293/2007 Z. z. o uznávaní odborných kvalifikácií v znení zákona č. 560/2008 Z. z.
 
+- 36aa) Napríklad zákon č. 199/1994 Z. z. o psychologickej činnosti a Slovenskej komore psychológov v znení zákona č. 578/2004 Z. z., zákon č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 138/2019 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 36b) § 80 ods. 6 a § 83 ods. 2 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 36c) § 5 ods. 3 zákona č. 184/2009 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov v znení zákona č. 324/2012 Z. z.
