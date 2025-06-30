@@ -60,4 +60,4 @@ Zákon č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na zá
 
 - k zákonu č. 577/2004 Z. z.
 
-- [INDIKAČNÝ ZOZNAM PRE KÚPEĽNÚ STAROSTLIVOSŤ](assets/b7695888da469db4e566f183bb9a981646f83de1559d56678aa1257bb59ad9d7.pdf)“.
+- [INDIKAČNÝ ZOZNAM PRE KÚPEĽNÚ STAROSTLIVOSŤ](assets/bb22c690f4f693baef5fc671158d6c8fad7e45083bc939b28be09f7432e5f57b.pdf)“.

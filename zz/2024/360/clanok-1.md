@@ -510,6 +510,28 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - informáciu o verejnej dostupnosti ambulancie, ak ide o všeobecnú ambulanciu, primárnu gynekologicko-pôrodnícku ambulanciu alebo špecializovanú ambulanciu.“.
 
+- 26. § 47g sa dopĺňa odsekmi 3 až 5, ktoré znejú:
+
+- „(3)
+
+- Členom Slovenskej komory psychológov sa môže stať aj fyzická osoba, ktorá je odborne spôsobilá na výkon psychologickej činnosti podľa osobitného predpisu,<sup>36aa</sup>) ak je bezúhonná (§ 38) a požiada o zápis do zoznamu členov.
+
+- (4)
+
+- Slovenská komora psychológov plní úlohy podľa § 49 ods. 1 a 2 a § 51 aj vo vzťahu k členovi podľa odseku 3, ktorý nie je zdravotníckym pracovníkom.
+
+- (5)
+
+- Ustanovenia § 50 ods. 2 a 4 a § 52 týkajúce sa výkonu zdravotníckeho povolania sa použijú primerane aj na výkon činnosti podľa osobitného predpisu.<sup>36aa</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 36aa znie:
+
+  - „<sup>36aa</sup>) Napríklad zákon č. 199/1994 Z. z. o psychologickej činnosti a Slovenskej komore psychológov v znení zákona č. 578/2004 Z. z., zákon č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 138/2019 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
+- 27. V § 62 ods.1 sa za slová „zdravotníckeho pracovníka“ vkladajú slová „alebo fyzickej osoby, ktorá je odborne spôsobilá na výkon psychologickej činnosti podľa osobitného predpisu<sup>36aa</sup>)“.
+
+- 28. V § 62 ods. 11 sa na konci pripája táto veta: „Slovenská komora psychológov registruje aj fyzické osoby odborne spôsobilé na výkon psychologickej činnosti podľa osobitného predpisu;<sup>36aa</sup>) na ich registráciu sa primerane použijú ustanovenia § 63 a § 63a až 63d.“.
+
 - 29. V § 68 sa odsek 1 dopĺňa písmenom e), ktoré znie:
 
 - „e)
