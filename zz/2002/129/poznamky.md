@@ -56,6 +56,8 @@
 
 - 23a) § 2 ods. 1 a 2 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov.
 
+- 23b) § 15 a 16 zákona č. 150/2025 Z. z. o niektorých opatreniach na zvýšenie odolnosti Slovenskej republiky v oblasti obrany a bezpečnosti, o brannej povinnosti a o zmene a doplnení niektorých zákonov.
+
 - 24) Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
 
 - 25) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení neskorších predpisov.
