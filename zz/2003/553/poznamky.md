@@ -14,9 +14,9 @@
 
 - 4c) § 19 ods. 2 písm. e) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
-- 5) § 52 ods. 1 a § 62 ods. 3 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a sociálnej kuratele a o zmene a doplnení niektorých zákonov.
+- 4d) § 223 Zákonníka práce.
 
-- 6) Nariadenie Komisie (ES) č. 2042/2003 z 20. novembra 2003 o zachovaní letovej spôsobilosti lietadiel a leteckých výrobkov, častí a zariadení a o schvaľovaní organizácií a personálu zapojených do týchto činností (Ú. v. ES L 315, 28. 11. 2003) v platnom znení.
+- 5) § 52 ods. 1 a § 62 ods. 3 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a sociálnej kuratele a o zmene a doplnení niektorých zákonov.
 
 - 8) Napríklad zákon č. 138/2019 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov, nariadenie vlády Slovenskej republiky č. 742/2004 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolania a zákon č. 459/2002 Z. z. o odbornej príprave zamestnancov prokuratúry.
 

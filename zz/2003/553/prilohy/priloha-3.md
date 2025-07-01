@@ -1,1 +1,1 @@
-Príloha č. 3 k zákonu č. 553/2003 Z. z. [Základná stupnica platových taríf zamestnancov pri výkone práce vo verejnom záujme](../assets/d3cf98c33e59030943fd84deb8563843d8601892e74b20ffacbf4ed3ee5dd269.pdf)
+Príloha č. 3 k zákonu č. 553/2003 Z. z. [Základná stupnica platových taríf zamestnancov pri výkone práce vo verejnom záujme](../assets/d389814daf4540bc7f3d0e0df8f175571e72fadcef828f7018ce8cde0249604a.pdf)
