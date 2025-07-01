@@ -56,6 +56,10 @@
 
 - 6aca) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
 
+- 6acaa) Čl. 116 až 121 nariadenia (EÚ) č. 952/2013 v platnom znení.
+
+- 6acab) Čl. 117 nariadenia (EÚ) č. 952/2013 v platnom znení.
+
 - 6acb) § 11 až 107b zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 6acc) § 166 až 171d zákona č. 7/2005 Z. z. v znení neskorších predpisov.
