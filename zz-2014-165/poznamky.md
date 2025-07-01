@@ -1,0 +1,1 @@
+- 1) § 82 zákona č. 185/2015 Z. z. Autorský zákon.
