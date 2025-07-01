@@ -1,5 +1,7 @@
 - 1) Čl.1 ods. 6 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu v znení neskorších predpisov.
 
+- 2) Zákon č. 150/2025 Z. z. o niektorých opatreniach na zvýšenie odolnosti Slovenskej republiky v oblasti obrany a bezpečnosti, o brannej povinnosti a o zmene a doplnení niektorých zákonov.
+
 - 4) § 206 a 208 zákona č. 281/2015 Z. z. o štátnej službe profesionálnych vojakov a o zmene a doplnení niektorých zákonov.
 
 - 4a) § 18 zákona č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -70,8 +72,6 @@
 
 - 20) Zákon č. 281/2015 Z. z. v znení neskorších predpisov.
 
-- 20a) § 19 ods. 6 zákona č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov.
-
 - 21) § 19 a 20 zákona č. 319/2002 Z. z. o obrane Slovenskej republiky.
 
 - 24) Čl. 86 a 119 Ústavy Slovenskej republiky.
@@ -94,7 +94,7 @@
 
 - § 206 ods. 6 zákona č. 281/2015 Z. z.
 
-- 31aa) § 63 ods. 1 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
+- 31aa) § 37c ods. 1 písm. b) zákona č. 124/1992 Zb. v znení zákona č. 457/2022 Z. z.
 
 - 31ab) Čl. 2 ods. 2 písm. c) a čl. 4 ods. 1 písm. c) nariadenia Komisie (ES) č. 2150/2005 z 23. decembra 2005, ktorým sa stanovujú spoločné pravidlá pružného využívania vzdušného priestoru (Ú. v. EÚ L 342, 24. 12. 2005).
 
