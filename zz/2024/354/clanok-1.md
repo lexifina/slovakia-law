@@ -140,6 +140,10 @@ Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení zákona č. 350/200
 
 - odseku 1 písm. c) platiteľ vykoná v tom zdaňovacom období, v ktorom došlo k prvotnému použitiu alebo v ktorom sa platiteľ dozvedel alebo mal a mohol dozvedieť, že k prvotnému použitiu nedôjde; to neplatí, ak k prvotnému použitiu nedôjde z dôvodov nezávislých od vôle platiteľa a platiteľ mal preukázateľne v úmysle použiť tovary alebo služby na podnikanie.“.
 
+- 20. V § 53 ods. 2 písm. a) druhom bode sa na konci pripájajú tieto slová: „a oprava odpočítanej dane pri dovoze tovaru sa vykoná v tom zdaňovacom období, v ktorom platiteľ vykonal opravu základu dane s výnimkou podľa odseku 3,“.
+
+- 21. V § 53 ods. 2 písm. b) sa na konci pripájajú tieto slová: „a oprava odpočítanej dane pri dovoze tovaru sa vykoná v tom zdaňovacom období, v ktorom platiteľ vykonal opravu základu dane s výnimkou podľa odseku 4,“.
+
 - 22. V § 53 odsek 5 znie:
 
 - „(5)
