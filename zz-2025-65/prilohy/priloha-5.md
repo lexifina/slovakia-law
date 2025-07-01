@@ -1,0 +1,1 @@
+Príloha č. 5 k vyhláške č. 65/2025 Z. z. [Výpočet prenosových rýchlostí v rámci služby prístupu k internetu v mobilnej sieti](../assets/38f910ac7d9b5ed8d2193cf6216192f1b1370c466b059b4d8d3582e5db603f01.pdf)

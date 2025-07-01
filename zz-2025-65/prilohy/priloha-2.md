@@ -1,0 +1,1 @@
+Príloha č. 2 k vyhláške č. 65/2025 Z. z. [Kvalitatívne ukazovatele služieb pri poskytovaní verejne dostupných interpersonálnych komunikačných služieb](../assets/023c68ac43f0d21d78424e4b3ec26d82164044f55d68ad8d3fd61ac1037d3b17.pdf)

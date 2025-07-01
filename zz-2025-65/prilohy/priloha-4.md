@@ -1,0 +1,1 @@
+Príloha č. 4 k vyhláške č. 65/2025 Z. z. [Výpočet prenosových rýchlostí v rámci služby prístupu k internetu v pevnej sieti](../assets/82ce2d7805f70b43517c9d942439aac90d4d9b80e633fbb78fd968f2e9809a75.pdf)

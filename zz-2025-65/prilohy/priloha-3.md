@@ -1,0 +1,1 @@
+Príloha č. 3 k vyhláške č. 65/2025 Z. z. [Kvalitatívne ukazovatele služieb pri poskytovaní verejne dostupných interpersonálnych komunikačných služieb relevantných pre koncových užívateľov so zdravotným postihnutím](../assets/a084a431fe011b7bce319efd246ae97c43805c292442a25bd162a050b901622e.pdf)

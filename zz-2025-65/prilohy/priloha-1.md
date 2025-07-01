@@ -1,0 +1,1 @@
+Príloha č. 1 k vyhláške č. 65/2025 Z. z. [Kvalitatívne ukazovatele služieb pri poskytovaní prístupu k verejnej elektronickej komunikačnej sieti](../assets/8dee2b62b169907a79d62239cc96918e75d1dede6c5db2e002d39a4033615fa7.pdf)
