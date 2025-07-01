@@ -1,0 +1,1 @@
+Kamil Šaško v. r.
