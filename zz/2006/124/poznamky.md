@@ -2,7 +2,9 @@
 
 - 1a) Zákon č. 378/2015 Z. z. o dobrovoľnej vojenskej príprave a o zmene a doplnení niektorých zákonov.
 
-- 1b) § 13 ods. 5 písm. a) a § 14d zákona č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov v znení zákona č. 378/2015 Z. z.
+- 1b) § 4 až 7 a § 13 až 16 zákona č. 150/2025 Z. z. o niektorých opatreniach na zvýšenie odolnosti Slovenskej republiky v oblasti obrany a bezpečnosti, o brannej povinnosti a o zmene a doplnení niektorých zákonov.
+
+- 1c) § 22 zákona č. 150/2025 Z. z.
 
 - 2) § 2 ods. 1 písm. c) a e) a § 15 zákona č. 570/2005 Z. z. v znení neskorších predpisov.
 
