@@ -56,6 +56,8 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
 - XXV. | Kybernetická bezpečnosť | 276
 
+- XXVI. | Právna pomoc | 277
+
   - SADZOBNÍK SPRÁVNYCH POPLATKOV
 
   - I. ČASŤ VŠEOBECNÁ SPRÁVA
@@ -2220,7 +2222,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Oslobodenie Poplatok za vyradenie vozidla z evidencie vozidiel sa nevyberie pri trvalom vyradení vozidla z evidencie vozidiel, ak bolo vozidlo odcudzené. | | |
 
-  - Poznámky 1. Poplatok podľa tejto položky zahŕňa aj vydanie dokladov pri dočasnom vyradení vozidla z evidencie vozidiel a pri opätovnom zaradení vozidla do evidencie. 2. Pri predĺžení dočasného vyradenia vozidla z evidencie vozidiel sa správny poplatok vyberie podľa písmena a), pričom za začiatok lehoty sa počíta dátum predchádzajúceho vyradenia vozidla z evidencie vozidiel. | | |
+  - Poznámky 1. Poplatok podľa tejto položky zahŕňa aj vydanie dokladov pri dočasnom vyradení vozidla z evidencie vozidiel a pri opätovnom zaradení vozidla do evidencie. 2. Pri predĺžení dočasného vyradenia vozidla z evidencie vozidiel sa správny poplatok vyberie podľa písmena a), pričom za začiatok lehoty sa počíta dátum predchádzajúceho vyradenia vozidla z evidencie vozidiel. 3. Pri opätovnom zaradení vozidla do evidencie, vyradení vozidla z evidencie, zmene držby vozidla alebo zmene vlastníctva vozidla pri prekročení lehoty predchádzajúceho dočasného vyradenia vozidla z evidencie sa správny poplatok vyberie podľa písmena a), pričom za začiatok lehoty sa počíta dátum predchádzajúceho vyradenia vozidla z evidencie vozidiel. | | |
 
     - Položka 74
 
@@ -2302,23 +2304,23 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - b) Pridelenie osobitného evidenčného čísla a vydanie tabuľky s osobitným evidenčným číslom, za každú tabuľku | 25 eur
 
-  - c) Pridelenie zvláštneho evidenčného čísla a vydanie tabuľky so zvláštnym evidenčným číslom, za každú tabuľku | 50 eur
+  - c) Pridelenie zvláštneho evidenčného čísla a vydanie tabuľky so zvláštnym evidenčným číslom vyrobenej zo zliatin ľahkých kovov, za každú tabuľku | 50 eur
 
   - d) Pridelenie evidenčného čísla a vydanie tabuľky s evidenčným číslom vyrobenej zo zliatin ľahkých kovov vytvoreným na základe požiadavky držiteľa vozidla pri zápise vozidla do evidencie alebo pridelenie evidenčného čísla a vydanie takejto tabuľky za stratenú, zničenú, poškodenú, odcudzenú alebo neupotrebiteľnú, za každú tabuľku | 250 eur
 
-  - e) pridelenie evidenčného čísla a vydanie tabuľky s evidenčným číslom vyrobenej zo zmesi polykarbonátu a polyesteru vyžarujúcej svetlo pri zapnutom osvetlení vozidla pri zápise vozidla do evidencie alebo pridelenie evidenčného čísla a vydanie takejto tabuľky s evidenčným číslom za stratenú, zničenú, poškodenú, odcudzenú alebo neupotrebiteľnú tabuľku alebo vydanie duplikátu takejto tabuľky s pôvodne prideleným evidenčným číslom alebo s evidenčným číslom vytvoreným na základe požiadavky držiteľa vozidla | 260 eur
+  - e) vydanie duplikátu tabuľky s pôvodne prideleným evidenčným číslom alebo s evidenčným číslom vytvoreným na základe požiadavky držiteľa vozidla vyrobenej zo zliatin ľahkých kovov | 100 eur
 
-  - f) vydanie duplikátu tabuľky s pôvodne prideleným evidenčným číslom alebo s evidenčným číslom vytvoreným na základe požiadavky držiteľa vozidla vyrobenej zo zliatin ľahkých kovov | 100 eur
+  - f) vydanie tabuľky s evidenčným číslom vyrobenej zo zliatin ľahkých kovov určenej na nosič bicykla | 25 eur
 
-  - g) vydanie tabuľky s evidenčným číslom vyrobenej zo zliatin ľahkých kovov určenej na nosič bicykla | 25 eur
+  - g) vydanie tabuľky s evidenčným číslom zo skladových zásob orgánu Policajného zboru, o ktorej zloženie číslic požiadal vlastník vozidla alebo držiteľ vozidla, a to za každú tabuľku ......... | 250 eur
 
-  - h) vydanie tabuľky s evidenčným číslom zo skladových zásob orgánu Policajného zboru, o ktorej zloženie číslic požiadal vlastník vozidla alebo držiteľ vozidla, a to za každú tabuľku ......... | 250 eur
+  - h) pridelenie zvláštneho evidenčného čísla a vydanie tabuľky so zvláštnym evidenčným číslom vyrobenej zo syntetického polyesteru, za každú tabuľku .......................... | 5 eur
 
   - Splnomocnenie Ak sa vydáva nová tabuľka s evidenčným číslom za tabuľku s evidenčným číslom, ktorá nebola vydaná podľa požiadavky držiteľa vozidla, správny poplatok podľa tejto položky sa znižuje o uhradenú sumu za už vydanú tabuľku s evidenčným číslom. |
 
   - Oslobodenie Poplatok za pridelenie evidenčného čísla a vydanie tabuľky s evidenčným číslom sa nevyberie, ak držiteľ vozidla požiadal o opätovné použitie ponechanej tabuľky s evidenčným číslom podľa osobitného predpisu<sup>22</sup>) na iné vozidlo. |
 
-  - Poznámky 1. Za neupotrebiteľnú tabuľku s evidenčným číslom (štátnou poznávacou značkou) sa považuje tabuľka vydaná podľa právnej úpravy platnej do 31. marca 1997, ktorú je držiteľ vozidla povinný podľa § 129 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách vymeniť. 2. Poplatky podľa tejto položky zahŕňajú aj vydanie príslušných dokladov. |
+  - Poznámky 1. Za neupotrebiteľnú tabuľku s evidenčným číslom (štátnou poznávacou značkou) sa považuje tabuľka vydaná podľa právnej úpravy platnej do 31. marca 1997, ktorú je držiteľ vozidla povinný podľa § 129 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách vymeniť. 2. Poplatky podľa tejto položky zahŕňajú aj vydanie príslušných dokladov. 3. Poplatníkom za pridelenie zvláštneho evidenčného čísla a vydanie tabuľky so zvláštnym evidenčným číslom podľa písmena h) je výrobca, zástupca výrobcu dosiaľ neevidovaného vozidla alebo právnická osoba, ktorá na základe zmluvného vzťahu s výrobcom alebo zástupcom výrobcu predáva vozidlá, ktoré ešte neboli evidované v Slovenskej republike ani v inom štáte. |
 
     - Položka 77
 
@@ -5202,7 +5204,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - b)
 
-  - Rozhodovanie o žiadosti o zmene údajov o mieste prevádzkovania nemocnice, o žiadosti o počte lôžok a o žiadosti o rozdelení povinných medicínskych programov medzi hlavnou nemocnicou a partnerskou nemocnicou<sup>36max</sup>) ............................................................. 100 eur
+  - Rozhodovanie o žiadosti o zmene údajov o mieste prevádzkovania nemocnice a o žiadosti o rozdelení povinných medicínskych programov medzi hlavnou nemocnicou a partnerskou nemocnicou<sup>36max</sup>) ............................................................. 100 eur
 
   - c)
 
@@ -6126,115 +6128,107 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Poznámka Podľa tejto položky poplatky vyberá Puncový úrad Slovenskej republiky. |
 
-  - XVI. ČASŤ PRIEMYSELNÉ PRÁVA
+  - XVI. ČASŤ PRIEMYSELNÉ PRÁVA Položka 214
 
-    - Položka 214
+    - a) Vydanie výpisu z registra ochranných známok, z registra úžitkových vzorov, z registra dizajnov, z patentového registra, z registra označení pôvodu výrobkov a zemepisných označení výrobkov a z registra topografií .............................................................. 10 eur
 
-  - a) Vydanie druhopisu, výpisu z registrov zo spisov alebo úradných listín uvedených v tejto časti sadzobníka, za každú aj začatú stranu...................................................................................... | 4 eurá
+    - b) Žiadosť na vykonanie odbornej skúšky alebo skúšky spôsobilosti na výkon povolania patentového zástupcu ........................................................................................... 80 eur
 
-  - b) Žiadosť na vykonanie odbornej skúšky alebo skúšky spôsobilosti na výkon povolania patentového zástupcu................................................................................ | 50 eur
+    - c) Podanie rozkladu proti rozhodnutiu Úradu priemyselného vlastníctva Slovenskej republiky ........................................................................................................................... 100 eur
 
     - Položka 215
 
   - Podanie žiadosti v konaniach podľa tejto časti sadzobníka o |
 
-  - a) pokračovanie v konaní....................................................................................................... | 66 eur
+  - a) pokračovanie v konaní....................................................................................................... | 80 eur
 
-  - b) uvedenie do predošlého stavu........................................................................................... | 166 eur
+  - b) uvedenie do predošlého stavu........................................................................................... | 200 eur
 
-  - c) druhé a každé ďalšie predĺženie lehoty............................................................................. | 20 eur
+  - c) druhé a každé ďalšie predĺženie lehoty............................................................................. | 30 eur
 
   - d) vydanie osvedčenia o práve prednosti, za každé osvedčenie........................................... | 20 eur
 
-    - PATENTY Položka 216 | |
+    - PATENTY Položka 216 | | |
 
-    - a) Podanie patentovej prihlášky | |
+    - a) Podanie patentovej prihlášky | | |
 
-    - | 1. Pôvodcom alebo spolupôvodcami | 30 eur
+    - | 1. Pôvodcom alebo spolupôvodcami | 50 eur |
 
-    - | 2. iným prihlasovateľom ako pôvodcom alebo prihlasovateľmi, ktorí nie sú zhodní so spolupôvodcami | 60 eur
+    - | 2. iným prihlasovateľom ako pôvodcom alebo prihlasovateľmi, ktorí nie sú zhodní so spolupôvodcami | 100 eur |
 
-    - b) Podanie žiadosti o | |
+    - b) Podanie žiadosti o | | |
 
-    - | 1. dodatočné priznanie práva prednosti | 66 eur
+    - | 1. dodatočné priznanie práva prednosti | 70 eur |
 
-    - | 2. dodatočné uznanie prioritného dokladu | 66 eur
+    - | 2. dodatočné uznanie prioritného dokladu | 70 eur |
 
-    - | 3. zverejnenie patentovej prihlášky pred lehotou ustanovenou zákonom | 20 eur
+    - | 3. zverejnenie patentovej prihlášky pred lehotou ustanovenou zákonom | 30 eur |
 
-    - | 4. zápis prevodu alebo prechodu práv z patentovej prihlášky na iného prihlasovateľa alebo prevodu alebo prechodu patentu na iného majiteľa do registra | 30 eur
+    - | 4. zápis prevodu alebo prechodu práv z patentovej prihlášky na iného prihlasovateľa alebo prevodu alebo prechodu patentu na iného majiteľa do registra | 40 eur |
 
-    - | 5. zápis ďalšieho pôvodcu, prihlasovateľa alebo majiteľa do registra alebo vymazanie pôvodcu, prihlasovateľa alebo majiteľa z registra | 20 eur
+    - | 5. zápis ďalšieho pôvodcu, prihlasovateľa alebo majiteľa do registra alebo vymazanie pôvodcu, prihlasovateľa alebo majiteľa z registra | 30 eur |
 
-    - | 6. zápis licenčnej zmluvy alebo zápis jej ukončenia do registra, za každú patentovú prihlášku alebo patent | 20 eur
+    - | 6. zápis licenčnej zmluvy alebo zápis jej ukončenia do registra, za každú patentovú prihlášku alebo patent | 30 eur |
 
-    - | 7. zápis nútenej licencie, alebo zápis jej zrušenia do registra | 20 eur
+    - | 7. zápis záložného práva do registra alebo jeho výmaz z registra, za každú patentovú prihlášku alebo patent | 30 eur |
 
-    - | 8. zápis záložného práva do registra alebo jeho výmaz z registra, za každú patentovú prihlášku alebo patent | 20 eur
+    - | 8. zápis súdneho sporu alebo zápis jeho ukončenia do registra, za každú patentovú prihlášku alebo patent | 30 eur |
 
-    - | 9. zápis súdneho sporu alebo zápis jeho ukončenia do registra, za každú patentovú prihlášku alebo patent | 20 eur
+    - | 9. zápis exekúcie alebo zápis jej ukončenia do registra, za každú patentovú prihlášku alebo patent | 30 eur |
 
-    - | 10. zápis exekúcie alebo zápis jej ukončenia do registra, za každú patentovú prihlášku alebo patent | 20 eur
+    - c) Podanie žiadosti o vykonanie úplného prieskumu patentovej prihlášky | | |
 
-    - c) Podanie žiadosti o vykonanie úplného prieskumu patentovej prihlášky | |
+    - | 1. do 10 uplatnených patentových nárokov | 170 eur |
 
-    - | 1. do 10 uplatnených patentových nárokov | 116 eur
+    - | 2. za každý ďalší uplatnený nárok | 30 eur |
 
-    - | 2. za každý ďalší uplatnený nárok | 20 eur
+    - d) Vydanie patentovej listiny | | 110 eur |
 
-    - d) Vydanie patentovej listiny | |
+    - e) Podanie žiadosti o udelenie dodatkového ochranného osvedčenia | | 250 eur |
 
-    - | 1. v rozsahu do 10 strán napísaných strojom alebo výkresov | 66 eur
+    - f) Predĺženie doby platnosti dodatkového ochranného osvedčenia podľa osobitného predpisu<sup>47</sup>) | | 200 eur |
 
-    - | 2. za každú ďalšiu stranu napísanú strojom alebo výkres | 10 eur
+    - g) Podanie návrhu na zmenu doby platnosti dodatkového ochranného osvedčenia | | 70 eur |
 
-    - e) Podanie žiadosti o udelenie dodatkového ochranného osvedčenia | | 166 eur
-
-    - f) Predĺženie doby platnosti dodatkového ochranného osvedčenia podľa osobitného predpisu<sup>47</sup>) | | 100 eur
-
-    - g) Podanie návrhu na zmenu doby platnosti dodatkovéhoochranného osvedčenia | | 50 eur
-
-    - h) Podanie žiadosti o vykonanie rešerše v prioritnej lehote | | 116 eur
+    - h) Podanie žiadosti o vykonanie rešerše v prioritnej lehote | | 150 eur |
 
       - Oslobodenie
 
       - Od poplatku podľa písmena b) štvrtého bodu tejto položky sú oslobodené žiadosti podľa zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
-      - Poznámky
+      - Poznámka
 
-      - 1. Úrad vyberie poplatok podľa písmena c) tejto položky vo výške polovice príslušnej sadzby, ak v konaní o patentovej prihláške bola predložená správa o rešerši medzinárodného typu, ktorú vykonal úrad ako pobočka Vyšehradského patentového inštitútu podľa medzinárodnej zmluvy,<sup>48</sup>) alebo bola vykonaná rešerš v prioritnej lehote.
-
-      - 2. Poplatok podľa písmena d) tejto položky je splatný do dvoch mesiacov odo dňa doručenia výzvy úradu.
+      - Úrad vyberie poplatok podľa písmena c) tejto položky vo výške polovice príslušnej sadzby, ak v konaní o patentovej prihláške bola predložená správa o rešerši medzinárodného typu, ktorú vykonal úrad ako pobočka Vyšehradského patentového inštitútu podľa medzinárodnej zmluvy,<sup>48</sup>) alebo bola vykonaná rešerš v prioritnej lehote.
 
       - Položka 216a
 
-    - a) Zmena európskej patentovej prihlášky na národnú patentovú prihlášku, národnú prihlášku úžitkového vzoru alebo národnú prihlášku osvedčenia o užitočnosti podľa čl. 135 ods. 2 a čl. 140 Európskeho patentového dohovoru, za každý štát......... | 20 eur
+    - a) Zmena európskej patentovej prihlášky na národnú patentovú prihlášku, národnú prihlášku úžitkového vzoru alebo národnú prihlášku osvedčenia o užitočnosti podľa čl. 135 ods. 2 a čl. 140 Európskeho patentového dohovoru, za každý štát......... | 30 eur
 
-    - b) Zverejnenie alebo sprístupnenie prekladu patentových nárokov alebo opraveného prekladu patentových nárokov verejnosti a oznámenie vo Vestníku Úradu priemyselného vlastníctva Slovenskej republiky... | 10 eur
+    - b) Zverejnenie a sprístupnenie prekladu patentových nárokov alebo opraveného prekladu patentových nárokov verejnosti a oznámenie vo Vestníku Úradu priemyselného vlastníctva Slovenskej republiky... | 20 eur
 
-    - c) Zverejnenie a sprístupnenie prekladu alebo opraveného prekladu, alebo prekladu zmeneného znenia európskeho patentu... | 116 eur
+    - c) Zverejnenie a sprístupnenie prekladu alebo opraveného prekladu, alebo prekladu zmeneného znenia európskeho patentu... | 150 eur
 
-    - d) Zverejnenie a sprístupnenie predloženého prekladu európskeho patentového spisu v dodatočnej lehote... | 232 eur
+    - d) Zverejnenie a sprístupnenie predloženého prekladu európskeho patentového spisu v dodatočnej lehote... | 300 eur
 
-    - Položka 217 a) Podanie žiadosti o určenie | 166 eur
+    - Položka 217 a) Podanie žiadosti o určenie | 200 eur
 
-    - b) Podanie návrhu na zrušenie patentu | 200 eur
+    - b) Podanie návrhu na zrušenie patentu | 250 eur
 
-    - c) Podanie návrhu na zrušenie európskeho patentu | 200 eur
+    - c) Podanie návrhu na zrušenie európskeho patentu | 250 eur
 
-    - d) Podanie návrhu na zrušenie alebo zmenu dodatkového ochranného osvedčenia | 200 eur
+    - d) Podanie návrhu na zrušenie alebo vyhlásenie neplatnosti dodatkového ochranného osvedčenia | 250 eur
 
     - Položka 220
 
-  - a) | Za úkony úradu spojené s podaním medzinárodnej prihlášky podľa Zmluvy o patentovej spolupráci ..... | 66 eur
+  - a) | Za úkony úradu spojené s podaním medzinárodnej prihlášky podľa Zmluvy o patentovej spolupráci ..... | 90 eur
 
-  - b) | Za úkony úradu spojené s oneskoreným predložením prekladu ..... | 130 eur
+  - b) | Za úkony úradu spojené s oneskoreným predložením prekladu ..... | 170 eur
 
   - c) | Za úkony úradu spojené s oneskorenou platbou poplatku za medzinárodné podanie a medzinárodnú rešerš ..... | 50 % poplatku za medzinárodné podanie
 
-  - d) | Za odoslanie archívnej a rešeršnej kópie do Medzinárodného úradu, ak úrad nie je príslušným prijímacím úradom ..... | 30 eur
+  - d) | Za odoslanie archívnej a rešeršnej kópie do Medzinárodného úradu, ak úrad nie je príslušným prijímacím úradom ..... | 40 eur
 
-  - e) | Za obnovenie práva na prioritu ..... | 166 eur
+  - e) | Za obnovenie práva na prioritu ..... | 210 eur
 
     - ÚŽITKOVÉ VZORY
 
@@ -6242,27 +6236,25 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - a) Podanie prihlášky úžitkového vzoru | |
 
-    - | 1. pôvodcom alebo spolupôvodcami | 34 eur
+    - | 1. pôvodcom alebo spolupôvodcami | 60 eur
 
-    - | 2. iným prihlasovateľom ako pôvodcom alebo prihlasovateľmi, ktorí nie sú zhodní so spolupôvodcami | 68 eur
+    - | 2. iným prihlasovateľom ako pôvodcom alebo prihlasovateľmi, ktorí nie sú zhodní so spolupôvodcami | 120 eur
 
     - b) Podanie žiadosti o | |
 
-    - | 1. odklad zverejnenia prihlášky | 20 eur
+    - | 1. odklad zverejnenia prihlášky | 30 eur
 
-    - | 2. zápis prevodu alebo prechodu práv z prihlášky úžitkového vzoru na iného prihlasovateľa alebo prevodu alebo prechodu úžitkového vzoru na iného majiteľa | 30 eur
+    - | 2. zápis prevodu alebo prechodu práv z prihlášky úžitkového vzoru na iného prihlasovateľa alebo prevodu alebo prechodu úžitkového vzoru na iného majiteľa | 40 eur
 
-    - | 3. zápis ďalšieho pôvodcu, prihlasovateľa alebo majiteľa do registra alebo odstránenie pôvodcu, prihlasovateľa alebo majiteľa z registra | 20 eur
+    - | 3. zápis ďalšieho pôvodcu, prihlasovateľa alebo majiteľa do registra alebo odstránenie pôvodcu, prihlasovateľa alebo majiteľa z registra | 30 eur
 
-    - | 4. zápis licenčnej zmluvy alebo zápis jej ukončenia do registra, za každú prihlášku úžitkového vzoru alebo úžitkový vzor | 20 eur
+    - | 4. zápis licenčnej zmluvy alebo zápis jej ukončenia do registra, za každú prihlášku úžitkového vzoru alebo úžitkový vzor | 30 eur
 
-    - | 5. zápis nútenej licencie alebo zápis jej zrušenia do registra, za každú prihlášku úžitkového vzoru alebo úžitkový vzor | 20 eur
+    - | 5. zápis záložného práva do registra alebo jeho výmaz z registra, za každú prihlášku úžitkového vzoru alebo úžitkový vzor | 30 eur
 
-    - | 6. zápis záložného práva do registra alebo jeho výmaz z registra, za každú prihlášku úžitkového vzoru alebo úžitkový vzor | 20 eur
+    - | 6. zápis súdneho sporu alebo zápis jeho ukončenia do registra, za každú prihlášku úžitkového vzoru alebo úžitkový vzor | 30 eur
 
-    - | 7. zápis súdneho sporu alebo zápis jeho ukončenia do registra, za každú prihlášku úžitkového vzoru alebo úžitkový vzor | 20 eur
-
-    - | 8. zápis exekúcie alebo zápis jej ukončenia do registra, za každú prihlášku úžitkového vzoru alebo úžitkový vzor | 20 eur
+    - | 7. zápis exekúcie alebo zápis jej ukončenia do registra, za každú prihlášku úžitkového vzoru alebo úžitkový vzor | 30 eur
 
       - Oslobodenie
 
@@ -6272,25 +6264,21 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 222 |
 
-    - a) Podanie žiadosti o určenie | 166 eur
+    - a) Podanie žiadosti o určenie | 200 eur
 
-    - b) Podanie námietok proti zápisu úžitkového vzoru do registra | 40 eur
+    - b) Podanie námietok proti zápisu úžitkového vzoru do registra | 60 eur
 
-    - c) Podanie návrhu na výmaz úžitkového vzoru z registra úžitkových vzorov | 80 eur
+    - c) Podanie návrhu na výmaz úžitkového vzoru z registra úžitkových vzorov | 110 eur
 
     - Položka 223 Predĺženie platnosti úžitkového vzoru |
 
-    - 1. po prvý raz o tri roky | 150 eur
+    - 1. po prvý raz o tri roky | 200 eur
 
-    - 2. po prvý raz o tri roky v dodatočnej lehote do šiestich mesiacov od skončenia platnosti úžitkového vzoru | 300 eur
+    - 2. po prvý raz o tri roky v dodatočnej lehote šiestich mesiacov | 400 eur
 
-    - 3. po druhý raz o tri roky | 300 eur
+    - 3. po druhý raz o tri roky | 400 eur
 
-    - 4. po druhý raz o tri roky v dodatočnej lehote šiestich mesiacov od skončenia platnosti úžitkového vzoru | 600 eur.
-
-      - Poznámka
-
-      - Ak dôjde k zápisu úžitkového vzoru do registra úžitkových vzorov po uplynutí doby jeho platnosti, poplatok za predĺženie je splatný bez žiadosti majiteľa úžitkového vzoru do dvoch mesiacov od vydania osvedčenia na základe písomnej výzvy.
+    - 4. po druhý raz o tri roky v dodatočnej lehote šiestich mesiacov | 800 eur.
 
     - DIZAJNY
 
@@ -6298,59 +6286,63 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - a) Podanie jednoduchej prihlášky dizajnu |
 
-    - 1. pôvodcom alebo spolupôvodcami ..... | 20 eur
+    - 1. pôvodcom alebo spolupôvodcami ..... | 30 eur
 
-    - 2. iným prihlasovateľom ako pôvodcom alebo prihlasovateľmi, ktorí nie sú zhodní so spolupôvodcami ..... | 40 eur
+    - 2. iným prihlasovateľom ako pôvodcom alebo prihlasovateľmi, ktorí nie sú zhodní so spolupôvodcami ..... | 60 eur
 
     - b) Podanie hromadnej prihlášky dizajnu |
 
-    - 1. pôvodcom alebo spolupôvodcami ..... | 20 eur
+    - 1. pôvodcom alebo spolupôvodcami ..... | 30 eur
 
-    - 2. iným prihlasovateľom ako pôvodcom alebo prihlasovateľmi, ktorí nie sú zhodní so spolupôvodcami ..... | 40 eur
+    - 2. iným prihlasovateľom ako pôvodcom alebo prihlasovateľmi, ktorí nie sú zhodní so spolupôvodcami ..... | 60 eur
 
-    - 3. za každý ďalší dizajn v hromadnej prihláške prihlásený pôvodcom alebo spolupôvodcami ..... | 10 eur
+    - 3. za každý ďalší dizajn v hromadnej prihláške prihlásený pôvodcom alebo spolupôvodcami ..... | 20 eur
 
-    - 4. za každý ďalší dizajn v hromadnej prihláške prihlásený iným prihlasovateľom ako pôvodcom alebo prihlasovateľmi, ktorí nie sú zhodní so spolupôvodcami ..... | 20 eur
+    - 4. za každý ďalší dizajn v hromadnej prihláške prihlásený iným prihlasovateľom ako pôvodcom alebo prihlasovateľmi, ktorí nie sú zhodní so spolupôvodcami ..... | 40 eur
 
     - c) Podanie žiadosti o |
 
-    - 1. odklad zverejnenia dizajnu ..... | 20 eur
+    - 1. odklad zverejnenia dizajnu ..... | 30 eur
 
-    - 2. zápis prevodu alebo prechodu práv z prihlášky dizajnu na iného prihlasovateľa alebo prevodu alebo prechodu zapísaného dizajnu na iného majiteľa ..... | 30 eur
+    - 2. zápis prevodu alebo prechodu práv z prihlášky dizajnu na iného prihlasovateľa alebo prevodu alebo prechodu zapísaného dizajnu na iného majiteľa ..... | 40 eur
 
-    - 3. zápis ďalšieho pôvodcu, prihlasovateľa alebo majiteľa do registra alebo odstránenie pôvodcu, prihlasovateľa alebo majiteľa z registra ..... | 20 eur
+    - 3. zápis ďalšieho pôvodcu, prihlasovateľa alebo majiteľa do registra alebo odstránenie pôvodcu, prihlasovateľa alebo majiteľa z registra ..... | 30 eur
 
-    - 4. zápis licenčnej zmluvy alebo zápis jej ukončenia do registra dizajnov, za každú prihlášku dizajnu alebo zapísaný dizajn ..... | 20 eur
+    - 4. zápis licenčnej zmluvy alebo zápis jej ukončenia do registra dizajnov, za každú prihlášku dizajnu alebo zapísaný dizajn ..... | 30 eur
 
-    - 5. zápis záložného práva do registra alebo jeho výmaz z registra, za každú prihlášku dizajnu alebo zapísaný dizajn ..... | 20 eur
+    - 5. zápis záložného práva do registra alebo jeho výmaz z registra, za každú prihlášku dizajnu alebo zapísaný dizajn ..... | 30 eur
 
-    - 6. zápis súdneho sporu alebo zápis jeho ukončenia do registra dizajnov, za každú prihlášku dizajnu alebo zapísaný dizajn ..... | 20 eur
+    - 6. zápis súdneho sporu alebo zápis jeho ukončenia do registra dizajnov, za každú prihlášku dizajnu alebo zapísaný dizajn ..... | 30 eur
 
-    - 7. zápis exekúcie alebo zápis jej ukončenia do registra, za každú prihlášku dizajnu alebo zapísaný dizajn ..... | 20 eur
+    - 7. zápis exekúcie alebo zápis jej ukončenia do registra, za každú prihlášku dizajnu alebo zapísaný dizajn ..... | 30 eur
 
     - Oslobodenie Od poplatku podľa písmena b) druhého bodu tejto položky sú oslobodené žiadosti podľa zákona č. 92/1991 Zb. v znení neskorších predpisov. |
 
     - Položka 225 Podanie návrhu na výmaz |
 
-    - 1. zapísaného dizajnu z registra dizajnov | 100 eur
+    - 1. zapísaného dizajnu z registra dizajnov | 130 eur
 
-    - 2. za každý ďalší dizajn obsiahnutý v zapísanom dizajne | 20 eur
+    - 2. za každý ďalší dizajn obsiahnutý v zapísanom dizajne | 30 eur
 
-      - Položka 226
+    - Položka 226
 
-    - Predĺženie platnosti zápisu dizajnu |
+      - Predĺženie platnosti zápisu dizajnu
 
-    - 1. po prvý raz o päť rokov | 100 eur
+        - a) po prvý raz o päť rokov ................................................................................... 100 eur
 
-    - 2. po druhý raz o päť rokov | 200 eur
+        - b) po prvý raz o päť rokov v dodatočnej lehote šiestich mesiacov ......................... 200 eur
 
-    - 3. po tretí raz o päť rokov | 300 eur
+        - c) po druhý raz o päť rokov ................................................................................. 200 eur
 
-    - 4. po štvrtý raz o päť rokov | 400 eur
+        - d) po druhý raz o päť rokov v dodatočnej lehote šiestich mesiacov ....................... 400 eur
 
-    - Poznámka Ak dôjde k zápisu dizajnu do registra dizajnov po uplynutí doby jeho platnosti, poplatok za predĺženie je splatný bez žiadosti majiteľa zapísaného dizajnu do dvoch mesiacov od vydania osvedčenia na základe písomnej výzvy. |
+        - e) po tretí raz o päť rokov .................................................................................... 300 eur
 
-    - Splnomocnenie Správny orgán zvýši poplatok podľa tejto položky na dvojnásobok, ak žiadosť o predĺženie platnosti zapísaného dizajnu nebola podaná v poslednom roku platnosti zapísaného dizajnu. |
+        - f) po tretí raz o päť rokov v dodatočnej lehote šiestich mesiacov .......................... 600 eur
+
+        - g) po štvrtý raz o päť rokov .................................................................................. 400 eur
+
+        - h) po štvrtý raz o päť rokov v dodatočnej lehote šiestich mesiacov ........................ 800 eur
 
     - TOPOGRAFIE POLOVODIČOVÝCH VÝROBKOV
 
@@ -6360,25 +6352,23 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - b) Podanie žiadosti o |
 
-    - 1. zápis prevodu alebo prechodu prihlášky topografie polovodičových výrobkov na iného prihlasovateľa alebo prevodu alebo prechodu zapísanej topografie polovodičových výrobkov na iného majiteľa ..... | 30 eur
+    - 1. zápis prevodu alebo prechodu prihlášky topografie polovodičových výrobkov na iného prihlasovateľa alebo prevodu alebo prechodu zapísanej topografie polovodičových výrobkov na iného majiteľa ..... | 40 eur
 
-    - 2. zápis ďalšieho pôvodcu do registra alebo odstránenie pôvodcu z registra ..... | 20 eur
+    - 2. zápis ďalšieho pôvodcu do registra alebo odstránenie pôvodcu z registra ..... | 30 eur
 
-    - 3. zápis licenčnej zmluvy alebo zápis jej ukončenia do registra topografií polovodičových výrobkov, za každú topografiu polovodičových výrobkov ..... | 20 eur
+    - 3. zápis licenčnej zmluvy alebo zápis jej ukončenia do registra topografií polovodičových výrobkov, za každú topografiu polovodičových výrobkov ..... | 30 eur
 
-    - 4. zápis nútenej licencie alebo zápis jej zrušenia do registra ..... | 20 eur
+    - 4. zápis záložného práva do registra alebo jeho výmaz z registra ..... | 30 eur
 
-    - 5. zápis záložného práva do registra alebo jeho výmaz z registra ..... | 20 eur
+    - 5. zápis súdneho sporu alebo jeho ukončenia do registra ..... | 30 eur
 
-    - 6. zápis súdneho sporu alebo jeho ukončenia do registra ..... | 20 eur
-
-    - 7. zápis exekúcie alebo zápis jej ukončenia do registra, za každú prihlášku topografie polovodičových výrobkov alebo topografiu polovodičových výrobkov ..... | 20 eur
+    - 6. zápis exekúcie alebo zápis jej ukončenia do registra, za každú prihlášku topografie polovodičových výrobkov alebo topografiu polovodičových výrobkov ..... | 30 eur
 
     - Oslobodenie Od poplatku podľa písmena b) prvého bodu tejto položky sú oslobodené žiadosti podľa zákona č. 92/1991 Zb. v znení neskorších predpisov. |
 
       - Položka 228
 
-    - Návrh na výmaz topografie z registra topografií polovodičových výrobkov ..... | 133 eur
+    - Návrh na výmaz topografie z registra topografií polovodičových výrobkov ..... | 130 eur
 
     - OCHRANNÉ ZNÁMKY
 
@@ -6386,23 +6376,23 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - a) Podanie prihlášky alebo rozdelenej prihlášky | |
 
-    - | 1. individuálnej ochrannej známky do troch tried tovarov alebo služieb | 166 eur
+    - | 1. individuálnej ochrannej známky do troch tried tovarov alebo služieb | 170 eur
 
-    - | 2. kolektívnej ochrannej známky do troch tried tovarov alebo služieb | 332 eur
+    - | 2. kolektívnej ochrannej známky do troch tried tovarov alebo služieb | 340 eur
 
-    - | 3. individuálnej alebo kolektívnej ochrannej známky, za každú triedu tovarov nad tri triedy | 20 eur
+    - | 3. individuálnej alebo kolektívnej ochrannej známky, za každú triedu tovarov nad tri triedy | 50 eur
 
     - b) Podanie žiadosti o | |
 
-    - | 1. zápis prevodu alebo prechodu práv z prihlášky ochrannej známky na iného prihlasovateľa alebo prevodu alebo prechodu ochrannej známky na iného majiteľa | 30 eur
+    - | 1. zápis prevodu alebo prechodu práv z prihlášky ochrannej známky na iného prihlasovateľa alebo prevodu alebo prechodu ochrannej známky na iného majiteľa | 40 eur
 
-    - | 2. zápis licenčnej zmluvy alebo zápis jej ukončenia do registra ochranných známok, za každú prihlášku ochrannej známky alebo ochrannú známku | 20 eur
+    - | 2. zápis licenčnej zmluvy alebo zápis jej ukončenia do registra ochranných známok, za každú prihlášku ochrannej známky alebo ochrannú známku | 30 eur
 
-    - | 3. zápis zúženia zoznamu tovarov alebo služieb ochrannej známky, zmenu licenčnej zmluvy alebo zmluvy o používaní kolektívnej ochrannej známky, úpravu v ochrannej známke | 20 eur
+    - | 3. zápis zúženia zoznamu tovarov alebo služieb ochrannej známky, zmenu licenčnej zmluvy alebo zmluvy o používaní kolektívnej ochrannej známky, úpravu v ochrannej známke | 30 eur
 
-    - | 4. zápis záložného práva do registra alebo jeho výmaz z registra, za každú prihlášku ochrannej známky alebo ochrannú známku | 20 eur
+    - | 4. zápis záložného práva do registra alebo jeho výmaz z registra, za každú prihlášku ochrannej známky alebo ochrannú známku | 30 eur
 
-    - | 5. zápis exekúcie alebo zápis jej ukončenia do registra, za každú prihlášku ochrannej známky alebo ochrannú známku | 20 eur
+    - | 5. zápis exekúcie alebo zápis jej ukončenia do registra, za každú prihlášku ochrannej známky alebo ochrannú známku | 30 eur
 
       - Oslobodenie
 
@@ -6410,39 +6400,39 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
       - v znení neskorších predpisov.
 
-    - Položka 230 a) Návrh na zrušenie ochrannej známky alebo návrh na vyhlásenie ochrannej známky za neplatnú | 100 eur
+    - Položka 230 a) Návrh na zrušenie ochrannej známky alebo návrh na vyhlásenie ochrannej známky za neplatnú | 130 eur
 
-    - b) Podanie námietok proti zápisu označenia do registra ochranných známok | 50 eur
+    - b) Podanie námietok proti zápisu označenia do registra ochranných známok | 70 eur
 
       - Položka 231
 
     - Obnova zápisu |
 
-    - a) individuálnej ochrannej známky do troch tried tovarov alebo služieb ..... | 133 eur
+    - a) individuálnej ochrannej známky do troch tried tovarov alebo služieb ..... | 150 eur
 
-    - b) kolektívnej ochrannej známky do troch tried tovarov alebo služieb ..... | 266 eur
+    - b) kolektívnej ochrannej známky do troch tried tovarov alebo služieb ..... | 300 eur
 
-    - c) individuálnej ochrannej známky do troch tried tovarov alebo služieb podanej po uplynutí ochrannej doby, najneskôr však do šiestich mesiacov od tohto dátumu ..... | 266 eur
+    - c) individuálnej ochrannej známky do troch tried tovarov alebo služieb v dodatočnej lehote šiestich mesiacov | 300 eur
 
-    - d) kolektívnej ochrannej známky do troch tried tovarov alebo služieb podanej po uplynutí ochrannej doby, najneskôr však do šiestich mesiacov od tohto dátumu ..... | 531 eur
+    - d) kolektívnej ochrannej známky do troch tried tovarov alebo služieb v dodatočnej lehote šiestich mesiacov | 600 eur
 
-    - e) individuálnej alebo kolektívnej ochrannej známky za každú triedu tovarov alebo služieb nad tri triedy ..... | 20 eur
-
-    - Poznámka Ak dôjde k zápisu ochrannej známky do registra ochranných známok po uplynutí jej ochrannej doby, poplatok za obnovu zápisu je splatný bez žiadosti majiteľa ochrannej známky do dvoch mesiacov od vydania osvedčenia na základe písomnej výzvy. |
+    - e) individuálnej alebo kolektívnej ochrannej známky za každú triedu tovarov alebo služieb nad tri triedy ..... | 50 eur
 
       - Položka 232
 
     - Podanie žiadosti o |
 
-    - a) medzinárodný zápis ochrannej známky ..... | 100 eur
+    - a) medzinárodný zápis ochrannej známky ..... | 130 eur
 
-    - b) obnovu medzinárodného zápisu ochrannej známky ..... | 66 eur
+    - b) obnovu medzinárodného zápisu ochrannej známky ..... | 90 eur
 
-    - c) vyznačenie krajín nasledujúce po medzinárodnom zápise ochrannej známky ..... | 40 eur
+    - c) vyznačenie krajín nasledujúce po medzinárodnom zápise ochrannej známky ..... | 50 eur
 
-    - d) zápis zmeny v medzinárodnom registri, ktorou je zmena majiteľa medzinárodnej ochrannej známky a zúženie zoznamu tovarov a služieb ..... | 20 eur
+    - d) zápis zmeny v medzinárodnom registri, ktorou je zmena majiteľa medzinárodnej ochrannej známky, zmena údajov o majiteľovi medzinárodnej ochrannej známky a zúženie zoznamu tovarov a služieb ..... | 30 eur
 
-    - e) zápis licencie pre medzinárodnú ochrannú známku ..... | 20 eur
+    - e) zápis licencie pre medzinárodnú ochrannú známku a zmeny tejto licencie..... | 30 eur
+
+    - f) zápis záložného práva k medzinárodnej ochrannej známke | 30 eur
 
     - OZNAČENIE PÔVODU VÝROBKOV A ZEMEPISNÉ OZNAČENIE VÝROBKOV Položka 233 Podanie prihlášky označenia pôvodu výrobku alebo zemepisného označenia výrobku | 50 eur
 
@@ -6895,3 +6885,17 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
       - c) Zmena prevádzkovateľa ............................................................................ 600 eur
 
       - d) Zápis vesmírneho objektu do registra ....................................................... 100 eur.
+
+  - XXVI. ČASŤ PRÁVNA POMOC
+
+    - Položka 277
+
+    - Žiadosť o poskytnutie právnej pomoci v konaní o oddlžení ........................................50 eur
+
+    - Oslobodenie
+
+    - Od poplatku podľa tejto položky sú oslobodené osoby, ktoré sú poberateľmi dávky v hmotnej núdzi a príspevkov k dávke v hmotnej núdzi podľa § 10 zákona č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov.
+
+    - Poznámka
+
+    - Sadzba poplatku podľa tejto položky sa neznižuje podľa § 6 ods. 2.

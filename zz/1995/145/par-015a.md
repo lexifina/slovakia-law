@@ -1,6 +1,6 @@
 # § 15a Evidencia poplatkov
 
-(1) Ministerstvo financií Slovenskej republiky vedie centrálnu evidenciu poplatkov, ktoré sú príjmom štátneho rozpočtu a poplatkov za prenesený výkon štátnej správy vyžiadaný elektronicky prostredníctvom ústredného portálu verejnej správy,<sup>7ac</sup>) špecializovaného portálu<sup>7ad</sup>) alebo osvedčujúcej osoby,<sup>5</sup>) ktoré sú príjmom rozpočtu obcí alebo vyšších územných celkov, prostredníctvom prevádzkovateľa systému.
+(1) Ministerstvo financií Slovenskej republiky vedie centrálnu evidenciu poplatkov, ktoré sú príjmom štátneho rozpočtu a poplatkov za prenesený výkon štátnej správy vyžiadaný elektronicky prostredníctvom ústredného portálu verejnej správy,<sup>7ac</sup>) špecializovaného portálu<sup>7ad</sup>) alebo osvedčujúcej osoby,<sup>5</sup>) ktoré sú príjmom rozpočtu obcí alebo vyšších územných celkov, prostredníctvom prevádzkovateľa systému alebo prostredníctvom informačného systému Štátnej pokladnice.
 
 (2) Správne orgány, ktoré sú zapojené do centrálneho systému evidencie poplatkov nearchivujú potvrdenia o úhrade poplatku vydané technickým zariadením prevádzkovateľa systému, ak informačný systém, ktorý správny orgán používa, umožní kontrolu poplatkov podľa § 15.
 
