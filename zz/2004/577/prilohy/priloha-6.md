@@ -1,1 +1,1 @@
-Príloha č. 6 k zákonu č. 577/2004 Z. z. [Príloha č. 6 k zákonu č. 577/2004 Z. z.](../assets/b9b327fba85f9cfd6b3bffdc72ad5e5aa79e2603a383b6eff44309621031e4b7.pdf)
+Príloha č. 6 k zákonu č. 577/2004 Z. z. [Príloha č. 6 k zákonu č. 577/2004 Z. z.](../assets/36e9203acf1cd1f09f3ce538663bbb9037353043832d29dc50234443d30eef4d.pdf)

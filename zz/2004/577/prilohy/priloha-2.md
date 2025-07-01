@@ -172,9 +172,9 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 
 - Preventívna gynekologická prehliadka | |
 
-- Obsah | Preventívna gynekologická prehliadka je komplexné gynekologické vyšetrenie zamerané na vyhľadávanie a včasnú diagnostiku organických a funkčných porúch ženských pohlavných orgánov. Súčasťou prehliadky je dôkladná anamnéza a odborné poradenstvo v otázkach antikoncepcie, hormonálnej substitučnej liečby, prevencie sexuálne prenosných ochorení a poučenie o zvýšenom riziku gynekologických malignít v súvislosti s pozitívnou rodinnou anamnézou a prítomnosťou ďalších rizikových faktorov u ženy. Doklad o absolvovaní preventívnej gynekologickej prehliadky je podmienkou kompletizácie preventívnej prehliadky u praktického lekára. |
+- Obsah | Preventívna gynekologická prehliadka je komplexné gynekologické vyšetrenie zamerané na vyhľadávanie a včasnú diagnostiku organických a funkčných chorôb ženských pohlavných orgánov, prevenciu rakoviny krčka maternice. Súčasťou prehliadky je gynekologická anamnéza a odborné poradenstvo v otázkach antikoncepcie, hormonálnej substitučnej liečby, prevencie sexuálne prenosných ochorení a poučenie o zvýšenom riziku gynekologických zhubných nádorov v súvislosti s rodinnou anamnézou a prítomnosťou ďalších rizikových faktorov u ženy. |
 
-- Vykonáva | lekár so špecializáciou v špecializačnom odbore gynekológia a pôrodníctvo |
+- Vykonáva | lekár so špecializáciou v špecializačnom odbore gynekológia a pôrodníctvo v primárnej gynekologicko-pôrodníckej ambulancii |
 
 - Okruh poistencov | ženy vo veku od 18 rokov alebo prvého tehotenstva |
 
@@ -184,41 +184,17 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 
 - | Názov výkonu | Indikačné obmedzenie
 
-- | Podrobná anamnéza a jej priebežná aktualizácia |
+- | Anamnéza a jej priebežná aktualizácia |
 
-- | Odborné poradenstvo a poučenie |
+- | Odborné poradenstvo v rozsahu obsahu gynekologickej preventívnej prehliadky |
 
 - | Komplexné gynekologické vyšetrenie vrátane palpačného vyšetrenia prsníkov |
 
-- | Ultrasonografia transvaginálna, abdominálna |
+- | Ultrasonografické vyšetrenie malej panvy (transvaginálne, transabdominálne alebo transrektálne) |
 
-- | Ultrasonografia prsníkov | raz za 2 roky
+- | Cytológia z krčka maternice | Pre špecifikáciu u novozistenej lézie krčka maternice medzi intervalmi skríningu pri podozrení na prekancerózu alebo karcinóm krčka maternice.
 
-- | Tumor marker Ca 125 | u žien s dokázanou mutáciou BRCA 1 génu raz za 6 mesiacov od veku 30 rokov u žien s pozitívnou rodinnou anamnézou karcinómu ovária raz za rok vo veku od 35 rokov
-
-- | Cytológia z krčka maternice | v intervaloch a vekovom rozmedzí stanovených v skríningu
-
-- | RTG mamografia | v intervaloch a vekovom rozmedzí stanovených v skríningu
-
-- Oportúnny skríning rakoviny krčka maternice a prsníka | |
-
-- Obsah | Oportúnny skríning rakoviny krčka maternice a prsníka je zameraný na aktívne vyhľadávanie rakoviny krčka maternice a prsníka. |
-
-- Vykonáva | lekár so špecializáciou v špecializačnom odbore gynekológia a pôrodníctvo; cytologické stery z krčka maternice vyhodnocujú certifikované cytologické laboratóriá. |
-
-- Okruh poistencov | oportúnny skríning rakoviny krčka maternice: ženy vo veku 23 – 64 rokov, oportúnny skríning rakoviny prsníka: ženy vo veku 40 – 69 rokov |
-
-- Periodicita | Oportúnny skríning rakoviny krčka maternice: prvé dva odbery cytológie v ročnom intervale. V prípade negativity týchto dvoch cytologických výsledkov pokračovať v 3-ročnom intervale do veku 64 rokov. Uvedená periodicita platí aj pre poistenkyňu, u ktorej sa začal oportúnny skríning aj neskôr ako v 23. roku života. Oportúnny skríning sa vo veku 64 rokov ukončí, ak budú posledné tri cytologické nálezy negatívne. Oportúnny skríning rakoviny prsníka: raz za 2 roky. |
-
-- Populačný skríning rakoviny krčka maternice a rakoviny prsníka |
-
-- Obsah | Populačný skríning rakoviny krčka maternice a rakoviny prsníka je zameraný na aktívne a organizované vyhľadávanie rakoviny krčka maternice a prsníka. Indikovaných poistencov na populačný skríning pozýva zdravotná poisťovňa. Skríning vyhodnocuje Národné centrum zdravotníckych informácií a Národný onkologický inštitút v Národnom onkologickom ústave.
-
-- Vykonáva | Populačný skríning rakoviny krčka maternice vykonáva lekár so špecializáciou v špecializačnom odbore gynekológia a pôrodníctvo. Cytologické stery z krčka maternice vyhodnocujú certifikované cytologické laboratóriá, ktoré patria do siete pre populačný skríning. Populačný skríning rakoviny prsníka sa vykonáva komplexne na skríningovom mamografickom pracovisku, ktoré je určené na výkon populačného skríningu.
-
-- Okruh poistencov | populačný skríning rakoviny krčka maternice: ženy vo veku 23 – 64 rokov, populačný skríning rakoviny prsníka: ženy vo veku 50 – 69 rokov
-
-- Periodicita | Populačný skríning rakoviny krčka maternice: prvé dva odbery cytológie v ročnom intervale. V prípade negativity týchto dvoch cytologických výsledkov pokračovať v 3-ročnom intervale do veku 64 rokov. Uvedená periodicita platí aj pre poistenkyňu, u ktorej sa začal populačný skríning aj neskôr ako v 23. roku života. Skríning sa vo veku 64 rokov ukončí, ak budú posledné tri cytologické nálezy negatívne. Populačný skríning rakoviny prsníka: raz za 2 roky.
+- | Nádorový marker CA 125 a transvaginálne ultrasonografické vyšetrenie | V periodicite jedenkrát za 6 mesiacov u žien so zvýšeným rizikom rakoviny vaječníkov a vajíčkovodov s dokázanými zárodočnými patogénnymi variantami v génoch BRCA 1 alebo BRCA 2, u žien od 35 rokov v prípade BRCA 1 a u žien od 40 rokov v prípade BRCA 2, ak neabsolvovali profylaktický chirurgický zákrok na zníženie rizika.
 
 - Preventívna starostlivosť v materstve | |
 
@@ -371,50 +347,6 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 - | Prostatický špecifický antigén voľný |
 
 - | US vyšetrenie močových ciest a obličiek |
-
-- Preventívna gastroenterologická prehliadka | |
-
-- Preventívna prehliadka konečníka a hrubého čreva kolonoskopom | |
-
-- Obsah | preventívna prehliadka konečníka a hrubého čreva kolonoskopom spočíva vo vykonaní kolonoskopického vyšetrenia od análneho otvoru po cékum. Vyšetrenie je zamerané na vyhľadávanie polypov a včasných štádií rakoviny hrubého čreva a konečníka. Pri zistení nádoru alebo polypu sa z jeho povrchu odoberá vzorka tkaniva, ktorá sa odosiela na histologické vyšetrenie. V priebehu toho istého vyšetrenia sa vykonáva odstránenie polypu. Získaný polyp sa odosiela na histologické vyšetrenie. |
-
-- Vykonáva | lekár so špecializáciou v špecializačnom odbore gastroenterológia alebo lekár s certifikátom v certifikačnej pracovnej činnosti – diagnostická a intervenčná kolonoskopia |
-
-- Okruh poistencov | poistenci vo veku nad 50 rokov; u poistencov so zvýšeným rizikom ochorenia na rakovinu hrubého čreva a konečníka sa preventívna kolonoskopická prehliadka konečníka a hrubého čreva vykonáva bez vekového obmedzenia |
-
-- Periodicita | raz za desať rokov; pri negativite prvej preventívnej kolonoskopickej prehliadky konečníka a hrubého čreva u poistencov so zvýšeným rizikom ochorenia na rakovinu hrubého čreva a konečníka sa vykonáva ďalšia preventívna kolonoskopická prehliadka konečníka a hrubého čreva v periodicite raz za päť rokov |
-
-- Zoznam výkonov | |
-
-- | Názov výkonu | Indikačné obmedzenie
-
-- | kolonoskopické vyšetrenie od análneho otvoru po cékum |
-
-- | odber vzorky tkaniva pri zistení nádoru alebo polypu |
-
-- | endoskopické odstránenie polypu |
-
-- | odoslanie biologického materiálu na histologické vyšetrenie |
-
-- Oportúnny skríning rakoviny konečníka a hrubého čreva | |
-
-- Obsah | | Oportúnny skríning rakoviny konečníka a hrubého čreva je zameraný na vyhľadávanie rakoviny konečníka a hrubého čreva.
-
-- Vykonáva | | lekár so špecializáciou v špecializovanom odbore všeobecné lekárstvo – štandardizovaný test na okultné krvácanie a lekár so špecializáciou v špecializačnom odbore gastroenterológia, chirurgia alebo vnútorné lekárstvo a s certifikátom v certifikovanej pracovnej činnosti diagnostická a intervenčná kolonoskopia – vykonáva primárnu preventívnu kolonoskopiu alebo skríningovú kolonoskopiu pri pozitívnom štandardizovanom teste na okultné krvácanie.
-
-- Okruh poistencov | | muži a ženy vo veku nad 50 rokov
-
-- Periodicita | | Štandardizovaný test na okultné krvácanie jedenkrát za dva roky vo veku nad 50 rokov, primárna skríningová kolonoskopia pri pozitívnom štandardizovanom teste na okultné krvácanie.
-
-- Populačný skríning rakoviny konečníka a hrubého čreva |
-
-- Obsah | Populačný skríning rakoviny konečníka a hrubého čreva je zameraný na aktívne a organizované vyhľadávanie rakoviny konečníka a hrubého čreva. Indikovaných poistencov na populačný skríning pozýva zdravotná poisťovňa. Populačný skríning vyhodnocuje Národné centrum zdravotníckych informácií a Národný onkologický inštitút v Národnom onkologickom ústave.
-
-- Vykonáva | lekár so špecializáciou v špecializovanom odbore všeobecné lekárstvo, ktorý vyhodnocuje štandardizovaný test na okultné krvácanie a lekár so špecializáciou v špecializačnom odbore gastroenterológia, chirurgia alebo vnútorné lekárstvo a s certifikátom v certifikovanej pracovnej činnosti diagnostická a intervenčná kolonoskopia, ktorý vykonáva skríningovú kolonoskopiu pri pozitívnom štandardizovanom teste na okultné krvácanie.
-
-- Okruh poistencov | muži a ženy vo veku nad 50 rokov
-
-- Periodicita | Štandardizovaný test na okultné krvácanie jedenkrát za dva roky vo veku nad 50 rokov; skríningová kolonoskopia pri pozitívnom štandardizovanom teste na okultné krvácanie.
 
 - Preventívna prehliadka nariadená orgánmi na ochranu zdravia na predchádzanie prenosným ochoreniam |
 
