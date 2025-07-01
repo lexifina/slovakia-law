@@ -84,7 +84,7 @@
 
 - 17b) § 7a zákona č. 363/2011 Z. z. v znení zákona č. 336/2017.
 
-- 17c) Príloha č. 2 k zákonu č. 577/2004 Z. z. v znení neskorších predpisov.
+- 17c) § 45 ods. 1 písm. aq) zákona č. 576/2004 Z. z. v znení zákona č. 360/2024 Z. z.
 
 - 17d) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
 
@@ -110,7 +110,7 @@
 
 - 18e) § 88 ods. 7 a 8 zákona č. 363/2011 Z. z. v znení neskorších predpisov.
 
-- 18ea) § 2 ods. 7 písm. f) a g) zákona č. 576/2004 Z. z.
+- 18ea) § 2 ods. 7 písm. f) a g) zákona č. 576/2004 Z. z. v znení zákona č. 360/2024 Z. z.
 
 - 18eb) § 10 a 14 zákona č. 355/2007 Z. z. v znení zákona č. 306/2012 Z. z.
 

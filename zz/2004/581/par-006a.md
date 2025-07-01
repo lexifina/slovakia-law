@@ -34,7 +34,7 @@
 
 - a) liekov podľa osobitného predpisu,<sup>18e</sup>)
 
-- b) populačného skríningu a oportúnneho skríningu zameraného na zachytenie onkologickej choroby podľa osobitného predpisu,<sup>18ea</sup>)
+- b) skríningu zameraného na zachytenie onkologickej choroby,<sup>18ea</sup>)
 
 - c) nákladov spojených s realizáciou činností pri preventívnych programoch alebo programoch zdravia
 
