@@ -1,9 +1,0 @@
-# § 19e
-
-(1) Nárok na príspevok si vojak mimoriadnej služby alebo pozostalí po ňom uplatňujú po skončení krízovej situácie na základe písomnej žiadosti na ministerstve.
-
-(2) Príspevok sa vyplatí v hotovosti alebo v bezhotovostnej forme do 30 dní odo dňa vydania rozhodnutia o jeho priznaní.
-
-(3) Nárok na príspevok sa premlčí uplynutím troch rokov odo dňa skončenia krízovej situácie.
-
-(4) Lehota podľa odseku 3 neplynie počas konania o priznaní príspevku a v období, počas ktorého vojakovi mimoriadnej služby, ktorý musí mať opatrovníka, nebol opatrovník ustanovený. Lehota podľa odseku 3 neplynie ani vtedy, ak bol vojak mimoriadnej služby aj po skončení krízovej situácie v zajatí alebo bol vyhlásený za nezvestného.
