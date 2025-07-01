@@ -22,17 +22,17 @@
 
 - 9) Čl. 1 ods. 3 ústavného zákona č. 227/2002 Z. z. v znení ústavného zákona č. 566/2005 Z. z.
 
-- 10) § 7 zákona č. 570/2005 Z. z.
+- 10) § 47 zákona č. 150/2025 Z. z.
 
-- 10a) Čl. 1 ods. 4 ústavného zákona č. 227/2002 Z. z.
+- 10a) § 45 a 46 zákona č. 150/2025 Z. z. o niektorých opatreniach na zvýšenie odolnosti Slovenskej republiky v oblasti obrany a bezpečnosti, o brannej povinnosti a o zmene a doplnení niektorých zákonov.
 
-- 11) Zákon č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov.
+- 11) Zákon č. 281/2015 Z. z. o štátnej službe profesionálnych vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 12) § 14 zákona č. 570/2005 Z. z.
+- 12) § 4 a 5 zákona č. 150/2025 Z. z.
 
 - 12a) § 116 Občianskeho zákonníka.
 
-- 13) § 21 ods. 19 písm. b) až g) zákona č. 570/2005 Z. z.
+- 13) § 80 ods. 20 písm. b) až g) zákona č. 150/2025 Z. z.
 
 - 14) § 7 a 9 zákona č. 570/2005 Z. z.
 
@@ -58,7 +58,7 @@
 
 - 22) § 1 zákona Národnej rady Slovenskej republiky č. 162/1993 Z. z. o občianskych preukazoch v znení neskorších predpisov.
 
-- 23) § 175 a 179 zákona č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov.
+- 23) § 204 a 208 zákona č. 281/2015 Z. z.
 
 - 24) § 136 a 137 a § 141 a 142 zákona č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
 
@@ -95,3 +95,5 @@
 - 36) § 177 až 219 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
 
 - 37) Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 38) § 81 ods. 4 zákona č. 150/2025 Z. z.
