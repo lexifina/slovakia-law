@@ -32,7 +32,7 @@
 
 - 10) § 1 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
 
-- 11) § 4 ods. 4 písm. c) a ods. 5 zákona č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky.
+- 11) § 4 ods. 4 písm. c) a ods. 6 zákona č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky v znení neskorších predpisov.
 
 - 12) Oznámenie Federálneho ministerstva zahraničných vecí o viazanosti Českej a Slovenskej Federatívnej Republiky Dodatkovými protokolmi I a II k Ženevským dohovorom z 12. augusta 1949 o ochrane obetí medzinárodných ozbrojených konfliktov a konfliktov nemajúcich medzinárodný charakter prijatých v Ženeve 8. júna 1977, č. 168/1991 Zb.
 
@@ -82,7 +82,7 @@
 
 - 23) § 443 Občianskeho zákonníka.
 
-- 24) § 46 zákona č. 92/1949 Zb.
+- 24) § 15 a 16 zákona č. 150/2025 Z. z. o niektorých opatreniach na zvýšenie odolnosti Slovenskej republiky v oblasti obrany a bezpečnosti, o brannej povinnosti a o zmene a doplnení niektorých zákonov.
 
 - 25) § 231 až 251 Civilného mimosporového poriadku.
 
