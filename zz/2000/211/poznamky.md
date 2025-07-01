@@ -50,6 +50,10 @@
 
 - 7ci) § 9 ods. 2 zákona č. 384/1997 Z. z. o divadelnej činnosti.
 
+- 7cj) Zákon č. 327/2005 Z. z. o poskytovaní právnej pomoci osobám v materiálnej núdzi a o zmene a doplnení zákona č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona
+
+- č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 8/2005 Z. z. v znení neskorších predpisov.
+
 - 7d) § 2 písm. b) zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 570/2009 Z. z.
 
 - 7e) Zákon č. 200/2011 Z. z. o Obchodnom vestníku a o zmene a doplnení niektorých zákonov.

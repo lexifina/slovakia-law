@@ -46,7 +46,9 @@
 
 - r) zmluva, ktorej predmetom je umelecký výkon alebo použitie umeleckého výkonu<sup>7ch</sup>) a zmluva, ktorú uzatvára povinná osoba s fyzickou osobou inej umeleckej profesie,<sup>7ci</sup>)
 
-- s) zmluva týkajúca sa razby mincí, medailí, žetónov alebo obdobných predmetov.
+- s) zmluva týkajúca sa razby mincí, medailí, žetónov alebo obdobných predmetov,
+
+- t) zmluva o pôžičke, ktorej účelom je vrátenie hodnoty poskytnutého preddavku na úhradu paušálnej odmeny správcu podľa osobitného predpisu.<sup>7cj</sup>)
 
 (6) Povinne zverejňovanou zmluvou nie je ani zmluva, ktorú uzaviera povinná osoba podľa § 2 ods. 4 s osobou, ktorá nie je povinnou osobou; to neplatí, ak ide o povinne zverejňovanú zmluvu podľa odseku 2.
 
