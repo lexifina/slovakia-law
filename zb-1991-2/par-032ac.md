@@ -1,0 +1,3 @@
+# § 32ac Prechodné ustanovenie k úpravám účinným od 1. januára 2025
+
+Na odmenu sprostredkovateľa a rozhodcu za konanie podľa tohto zákona začaté pred 1. januárom 2025, ktoré sa neskončilo do 31. decembra 2024, sa vzťahuje tento zákon v znení účinnom od 1. januára 2025.
