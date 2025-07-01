@@ -1,8 +1,6 @@
 - 1) § 4 ods. 11 zákona č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky v znení zákona č. 455/2004 Z. z.
 
-- 2) Zákon č. 281/2015 Z. z. o štátnej službe profesionálnych vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- Zákon č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 2) § 2 ods. 2 zákona č. 281/2015 Z. z. o štátnej službe profesionálnych vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 2a) § 10 ods. 8 Trestného poriadku.
 
@@ -10,11 +8,17 @@
 
 - § 53 a 53a zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- § 77 zákona č. 150/2025 Z. z.
+
+- 2aaa) § 2 ods. 4 písm. b) a § 54 ods. 2 zákona č. 150/2025 Z. z. o niektorých opatreniach na zvýšenie odolnosti Slovenskej republiky v oblasti obrany a bezpečnosti, o brannej povinnosti a o zmene a doplnení niektorých zákonov.
+
 - 2b) Napríklad zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 2ba) § 10 ods. 1 zákona č. 281/1997 Z. z. o vojenských obvodoch a zákon, ktorým sa mení zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov v znení zákona č. 96/2012 Z. z.
 
-- § 17b zákona č. 321/2002 Z. z. v znení zákona č. 98/2019 Z. z.
+- § 17b zákona č. 321/2002 Z. z. v znení zákona č. 98/2019 Z. z., § 77 ods. 6 zákona č. 150/2025 Z. z.
+
+- 2baa) § 77 ods. 6 zákona č. 150/2025 Z. z.
 
 - 2bb) Zmluva medzi štátmi, ktoré sú stranami Severoatlantickej zmluvy, a inými štátmi zúčastnenými v Partnerstve za mier vzťahujúca sa na štatút ich ozbrojených síl (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 324/1997 Z. z. v znení oznámenia č. 370/2001 Z. z.).
 
@@ -25,6 +29,14 @@
 - 2d) Zákon č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu.
 
 - 2da) § 53a zákona č. 143/1998 Z. z. v znení zákona č. 161/2024 Z. z.
+
+- 2daa) Zákon č. 150/2025 Z. z.
+
+- 2db) § 71 ods. 1 písm. c) zákona č. 281/2015 Z. z.
+
+- 2dc) § 9 zákona č. 150/2025 Z. z.
+
+- 2dd) § 54 ods. 2 zákona č. 150/2025 Z. z.
 
 - 2e) § 206 ods. 1 a § 208 ods. 1 zákona č. 281/2015 Z. z.
 

@@ -14,7 +14,7 @@
 
 (2) Za priestupky podľa odseku 1 možno uložiť pokutu do 500 eur. V blokovom konaní možno za priestupky podľa odseku 1 uložiť pokutu do 300 eur.
 
-(3) Priestupky podľa odseku 1 objasňuje Vojenská polícia.
+(3) Priestupky podľa odseku 1 prejednáva, objasňuje a prejednáva v blokovom konaní Vojenská polícia.
 
 (4) Pokuty podľa odseku 2 sú príjmom štátneho rozpočtu.
 
