@@ -18,11 +18,9 @@
 
 - b) druh minerálneho oleja a príslušný kód kombinovanej nomenklatúry,
 
-- c) zoznam dodávateľov a odberateľov minerálneho oleja uvedeného v § 6 ods. 1 písm. a) a d),
+- c) údaje potrebné na vyžiadanie výpisu z registra trestov<sup>6ba</sup>) žiadateľa alebo jeho zodpovedného zástupcu, ak je žiadateľom fyzická osoba; ak je žiadateľom právnická osoba, údaje potrebné na vyžiadanie výpisu z registra trestov tejto právnickej osoby, zodpovedného zástupcu a fyzických osôb, ktoré sú členmi riadiacich orgánov alebo kontrolných orgánov, na účel preukázania splnenia podmienky podľa odseku 7 písm. f).
 
-- d) údaje potrebné na vyžiadanie výpisu z registra trestov<sup>6ba</sup>) žiadateľa alebo jeho zodpovedného zástupcu, ak je žiadateľom fyzická osoba; ak je žiadateľom právnická osoba, údaje potrebné na vyžiadanie výpisu z registra trestov tejto právnickej osoby, zodpovedného zástupcu a fyzických osôb, ktoré sú členmi riadiacich orgánov alebo kontrolných orgánov, na účel preukázania splnenia podmienky podľa odseku 7 písm. h).
-
-(4) Predajcom pohonných látok je osoba, ktorá v rámci podnikateľskej činnosti na daňovom území v daňovom voľnom obehu predáva minerálny olej uvedený v § 6 ods. 1 písm. a) a d) na konečnú spotrebu a má vydané povolenie na predaj minerálneho oleja uvedeného v § 6 ods. 1 písm. a) a d) v daňovom voľnom obehu (ďalej len „povolenie na predaj“). Osoba, ktorá chce byť predajcom pohonných látok, je povinná požiadať colný úrad o vydanie povolenia na predaj a spĺňať podmienky uvedené v odsekoch 7 a 8. Osoba podľa § 21, ktorá chce byť predajcom pohonných látok, nie je povinná preukázať splnenie podmienok uvedených v odseku 7. Osoba podľa § 25, ktorá chce byť predajcom pohonných látok, nie je povinná preukázať splnenie podmienok uvedených v odseku 7 písm. a) až f), h) a i). Predajca pohonných látok je oprávnený predávať v daňovom voľnom obehu minerálny olej uvedený v § 6 ods. 1 písm. a) a d) na konečnú spotrebu len na základe povolenia na predaj.
+(4) Predajcom pohonných látok je osoba, ktorá v rámci podnikateľskej činnosti na daňovom území v daňovom voľnom obehu predáva minerálny olej uvedený v § 6 ods. 1 písm. a) a d) na konečnú spotrebu a má vydané povolenie na predaj minerálneho oleja uvedeného v § 6 ods. 1 písm. a) a d) v daňovom voľnom obehu (ďalej len „povolenie na predaj“). Osoba, ktorá chce byť predajcom pohonných látok, je povinná požiadať colný úrad o vydanie povolenia na predaj a spĺňať podmienky uvedené v odsekoch 7 a 8. Osoba podľa § 21, ktorá chce byť predajcom pohonných látok, nie je povinná preukázať splnenie podmienok uvedených v odseku 7. Osoba podľa § 25, ktorá chce byť predajcom pohonných látok, nie je povinná preukázať splnenie podmienok uvedených v odseku 7 písm. a) až d), f) a g). Predajca pohonných látok je oprávnený predávať v daňovom voľnom obehu minerálny olej uvedený v § 6 ods. 1 písm. a) a d) na konečnú spotrebu len na základe povolenia na predaj.
 
 (5) Na účely tohto zákona sa za predaj minerálneho oleja uvedeného v § 6 ods. 1 písm. a) a d) v daňovom voľnom obehu na konečnú spotrebu považuje predaj minerálneho oleja uvedeného v § 6 ods. 1 písm. a) a d) predajcom pohonných látok na konečnú spotrebu prostredníctvom výdajného stojana na pohonné látky, ktorým je meracia zostava na kvapaliny okrem vody<sup>20e</sup>) alebo meracia zostava na skvapalnené plyny,<sup>20e</sup>) ktorý je pevne zabudovaný v teréne a pevne spojený so skladovacím zariadením.
 
@@ -32,11 +30,9 @@
 
 - b) druh minerálneho oleja a príslušný kód kombinovanej nomenklatúry,
 
-- c) zoznam dodávateľov minerálneho oleja uvedeného v § 6 ods. 1 písm. a) a d),
+- c) meno, priezvisko a trvalý pobyt osoby zodpovednej za prevádzkovanie prevádzkarne určenej na predaj minerálneho oleja uvedeného v § 6 ods. 1 písm. a) a d),
 
-- d) meno, priezvisko a trvalý pobyt osoby zodpovednej za prevádzkovanie prevádzkarne určenej na predaj minerálneho oleja uvedeného v § 6 ods. 1 písm. a) a d),
-
-- e) údaje potrebné na vyžiadanie výpisu z registra trestov<sup>6ba</sup>) žiadateľa alebo jeho zodpovedného zástupcu, ak je žiadateľom fyzická osoba; ak je žiadateľom právnická osoba, údaje potrebné na vyžiadanie výpisu z registra trestov tejto právnickej osoby, zodpovedného zástupcu a fyzických osôb, ktoré sú členmi riadiacich orgánov alebo kontrolných orgánov, na účel preukázania splnenia podmienky podľa odseku 7 písm. h).
+- d) údaje potrebné na vyžiadanie výpisu z registra trestov<sup>6ba</sup>) žiadateľa alebo jeho zodpovedného zástupcu, ak je žiadateľom fyzická osoba; ak je žiadateľom právnická osoba, údaje potrebné na vyžiadanie výpisu z registra trestov tejto právnickej osoby, zodpovedného zástupcu a fyzických osôb, ktoré sú členmi riadiacich orgánov alebo kontrolných orgánov, na účel preukázania splnenia podmienky podľa odseku 7 písm. f).
 
 (7) Žiadateľ o vydanie povolenia na distribúciu alebo povolenia na predaj musí spĺňať tieto podmienky:
 
@@ -102,9 +98,7 @@
 
   - 2. písm. b) najneskôr 15 dní pred začatím distribúcie minerálneho oleja,
 
-  - 3. písm. c) do 15 dní; to platí pri zmene dodávateľa alebo odberateľa minerálneho oleja,
-
-  - 4. písm. d) do 15 dní odo dňa jej vzniku; to platí pri zmene zodpovedného zástupcu a fyzických osôb, ktoré sú členmi riadiacich orgánov alebo kontrolných orgánov,
+  - 3. písm. c) do 15 dní odo dňa jej vzniku; to platí pri zmene zodpovedného zástupcu a fyzických osôb, ktoré sú členmi riadiacich orgánov alebo kontrolných orgánov,
 
 - g) spĺňať podmienky podľa odseku 7 písm. a) až f) počas celého obdobia platnosti povolenia na distribúciu,
 
@@ -128,9 +122,7 @@
 
   - 2. písm. b) najneskôr 15 dní pred začatím predaja minerálneho oleja,
 
-  - 3. písm. c) do 15 dní; to platí pri zmene dodávateľa minerálneho oleja,
-
-  - 4. písm. e) do 15 dní odo dňa jej vzniku; to platí pri zmene zodpovedného zástupcu a fyzických osôb, ktoré sú členmi riadiacich orgánov alebo kontrolných orgánov,
+  - 3. písm. d) do 15 dní odo dňa jej vzniku; to platí pri zmene zodpovedného zástupcu a fyzických osôb, ktoré sú členmi riadiacich orgánov alebo kontrolných orgánov,
 
 - f) spĺňať podmienky podľa odseku 7 písm. a) až f) a odseku 8 počas celého obdobia platnosti povolenia na predaj,
 
@@ -144,9 +136,7 @@
 
 - b) druh minerálneho oleja, ktorý bude nakupovať alebo inak odoberať, a príslušný kód kombinovanej nomenklatúry tohto minerálneho oleja,
 
-- c) číslo povolenia na distribúciu distribútora pohonných látok, od ktorého bude nakupovať alebo inak odoberať minerálny olej uvedený v § 6 ods. 1 písm. a) a d),
-
-- d) identifikačné údaje osoby, ktorej v rámci svojej podnikateľskej činnosti dodá minerálny olej uvedený v § 6 ods. 1 písm. a) a d) určený výlučne na spotrebu v rozsahu podnikateľskej činnosti tejto osoby; to neplatí, ak takéto dodanie nevykonáva.
+- c) identifikačné údaje osoby, ktorej v rámci svojej podnikateľskej činnosti dodá minerálny olej uvedený v § 6 ods. 1 písm. a) a d) určený výlučne na spotrebu v rozsahu podnikateľskej činnosti tejto osoby; to neplatí, ak takéto dodanie nevykonáva.
 
 (17) Colný úrad preverí údaje a skutočnosti podľa odseku 16 a odseku 18 písm. a), a ak sú tieto údaje a skutočnosti pravdivé, zaradí spotrebiteľa pohonných látok do evidencie spotrebiteľov pohonných látok a vydá rozhodnutie o zaradení do evidencie spotrebiteľov pohonných látok najneskôr do 15 pracovných dní odo dňa oznámenia podľa odseku 16.
 
@@ -158,7 +148,7 @@
 
 - c) predložiť pri prvom odbere minerálneho oleja uvedeného v § 6 ods. 1 písm. a) a d) distribútorovi pohonných látok rozhodnutie o zaradení do evidencie spotrebiteľov pohonných látok,
 
-- d) oznámiť colnému úradu každú zmenu skutočností a údajov podľa odseku 16 písm. a) do 30 dní odo dňa jej vzniku a podľa odseku 16 písm. b) až d) do 15 dní odo dňa ich vzniku,
+- d) oznámiť colnému úradu každú zmenu skutočností a údajov podľa odseku 16 písm. a) do 30 dní odo dňa jej vzniku a podľa odseku 16 písm. b) a c) do 15 dní odo dňa ich vzniku,
 
 - e) predložiť na požiadanie colného úradu účtovné doklady o nadobudnutí minerálneho oleja uvedeného v § 6 ods. 1 písm. a) a d),
 
