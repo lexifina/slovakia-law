@@ -1,0 +1,11 @@
+# § 37a Preukazovanie skutočného používania staršej ochrannej známky v konaní o návrhu na vyhlásenie ochrannej známky za neplatnú
+
+(1) Ak ku dňu podania návrhu na vyhlásenie ochrannej známky za neplatnú uplynulo od zápisu staršej ochrannej známky (§ 4) najmenej päť rokov, navrhovateľ na žiadosť majiteľa neskoršej ochrannej známky predloží dôkazy o skutočnom používaní (§ 7c) staršej ochrannej známky počas piatich rokov, ktoré predchádzajú dňu podania návrhu, v spojení s tovarmi alebo so službami, pre ktoré je zapísaná a na ktorých je založený návrh, alebo dôkazy o oprávnených dôvodoch na jej nepoužívanie. Ak ku dňu podania prihlášky alebo ku dňu vzniku práva prednosti neskoršej ochrannej známky uplynulo od zápisu staršej ochrannej známky (§ 4) najmenej päť rokov, navrhovateľ okrem dôkazov podľa prvej vety predloží aj dôkazy o skutočnom používaní staršej ochrannej známky počas piatich rokov, ktoré predchádzajú dňu podania prihlášky alebo dňu práva prednosti neskoršej ochrannej známky, v spojení s tovarmi alebo so službami, pre ktoré je zapísaná a na ktorých je založený návrh, alebo dôkazy o oprávnených dôvodoch na jej nepoužívanie.
+
+(2) Žiadosť podľa odseku 1 môže podať majiteľ neskoršej ochrannej známky úradu do dvoch mesiacov od upovedomenia o návrhu na vyhlásenie ochrannej známky za neplatnú podľa § 37 ods. 4.
+
+(3) Navrhovateľ predloží dôkazy o skutočnom používaní staršej ochrannej známky alebo dôkazy o oprávnených dôvodoch na jej nepoužívanie podľa odseku 1 do štyroch mesiacov odo dňa doručenia výzvy úradu; na dôkazy predložené po uplynutí tejto lehoty sa neprihliada.
+
+(4) Ak navrhovateľ dôkazmi predloženými v lehote podľa odseku 3 nepreukáže skutočné používanie staršej ochrannej známky alebo nepreukáže oprávnené dôvody na jej nepoužívanie a ak staršia ochranná známka bola jediným navrhovateľom uplatneným právom, úrad návrh na vyhlásenie ochrannej známky za neplatnú zamietne; inak na takúto staršiu ochrannú známku v konaní o návrhu na vyhlásenie ochrannej známky za neplatnú neprihliada.
+
+(5) Ak navrhovateľ preukázal skutočné používanie len pre časť tovarov alebo služieb, pre ktoré je staršia ochranná známka zapísaná, považuje sa na účely preskúmania návrhu na vyhlásenie ochrannej známky za neplatnú táto staršia ochranná známka za zapísanú len pre túto časť tovarov alebo služieb.
