@@ -1,0 +1,7 @@
+- 1) § 2 zákona Národnej rady Slovenskej republiky č. 199/1994 Z. z. o psychologickej činnosti a Slovenskej komore psychológov v znení zákona č. 360/2024 Z. z.
+
+- 2) Napríklad zákon č. 190/2003 Z. z. o strelných zbraniach a strelive a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 473/2005 Z. z. o poskytovaní služieb v oblasti súkromnej bezpečnosti a o zmene a doplnení niektorých zákonov (zákon o súkromnej bezpečnosti) v znení neskorších predpisov, zákon č. 138/2019 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 3) Napríklad § 20 ods. 3 zákona č. 190/2003 Z. z. v znení zákona č. 128/2011 Z. z., § 58 ods. 2 písm. a) a b) zákona č. 305/2005 Z. z. v znení zákona č. 61/2018 Z. z., § 16 ods. 3 zákona č. 138/2019 Z. z.
+
+- 4) Napríklad § 16a zákona č. 576/2004 Z. z. v znení zákona č. 360/2024 Z. z., § 15 ods. 1 zákona č. 473/2005 Z. z., § 89 ods. 3 zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
