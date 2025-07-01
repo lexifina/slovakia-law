@@ -4,6 +4,10 @@
 
 - 2) Napríklad zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 2a) § 42 Zákonníka práce.
+
+- 2b) § 223 Zákonníka práce.
+
 - 3) § 116 zákona č. 40/1964 Zb. Občianskeho zákonníka.
 
 - 4) Napríklad zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 156/2002 Z. z. o odbornej spôsobilosti pracovníkov v zdravotníctve, nariadenie vlády Slovenskej republiky č. 157/2002 Z. z. o ďalšom vzdelávaní pracovníkov v zdravotníctve, vyhláška Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z. o odbornej a pedagogickej spôsobilosti pedagogických pracovníkov v znení neskorších predpisov.
@@ -15,6 +19,8 @@
 - 7) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 8) Vyhláška Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z. v znení neskorších predpisov.
+
+- 9) Napríklad zákon č. 453/2003 Z. z. o orgánoch štátnej správy v oblasti sociálnych vecí, rodiny a služieb zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 345/2022 Z. z. o inšpekcii v sociálnych veciach a o zmene a doplnení niektorých zákonov.
 
 - 10) Zákon č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
@@ -37,6 +43,8 @@
 - 13aa) § 3 písm. b) a c) zákona č. 583/2008 Z. z. o prevencii kriminality a inej protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
 
 - 14) § 114 ods. 2 a 3 zákona č. 55/2017 Z. z..
+
+- 14a) § 224 ods. 1 a 2 Zákonníka práce.
 
 - 15) § 22 ods. 1 zákona č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
