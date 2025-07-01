@@ -46,6 +46,32 @@ Zákon č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektor
 
 - Odseky 1 až 3 sa nevzťahujú na poskytovateľa platobných služieb podľa § 2 ods. 3 písm. a), b), d), g) a h).“.
 
+- 9. V § 44d odsek 7 znie:
+
+- „(7)
+
+- Žiadosť o presun platobného účtu predloží spotrebiteľ v písomnej forme prijímajúcemu poskytovateľovi platobných služieb v dvoch vyhotoveniach, a to osobne, poštou s úradne osvedčenou pravosťou podpisu alebo elektronicky, ak spotrebiteľ so žiadosťou o presun platobného účtu vyjadril súhlas spôsobom dohodnutým medzi spotrebiteľom a prijímajúcim poskytovateľom platobných služieb, ktorý spotrebiteľ používa pri elektronickej komunikácii alebo vykonávaní právnych úkonov s prijímajúcim poskytovateľom platobných služieb a pred vyjadrením súhlasu bola vykonaná identifikácia spotrebiteľa a jej overenie podľa osobitného predpisu<sup>26a</sup>) alebo ak je podpísaná kvalifikovaným elektronickým podpisom,<sup>27</sup>) a ak to umožňujú technické možnosti prijímajúceho poskytovateľa platobných služieb. Za overenie totožnosti spotrebiteľa pri podávaní žiadosti o presun platobného účtu, ak ho vykonáva prijímajúci poskytovateľ platobných služieb a za skutočnosť, že žiadosť o presun platobného účtu predložená spotrebiteľom elektronicky bola spotrebiteľom odsúhlasená spôsobom podľa prvej vety, zodpovedá v plnom rozsahu prijímajúci poskytovateľ platobných služieb. Prijímajúci poskytovateľ platobných služieb je povinný na žiadosť spotrebiteľa alebo odovzdávajúceho poskytovateľa platobných služieb vydať písomné potvrdenie o tom, že žiadosť o presun platobného účtu od spotrebiteľa prijal, a ak je žiadosť podaná spotrebiteľom elektronicky a bola spotrebiteľom odsúhlasená spôsobom podľa prvej vety, uviesť dátum vyjadrenia tohto súhlasu. Ak je viacero majiteľov platobného účtu, žiadosť o presun platobného účtu musí obsahovať súhlas všetkých majiteľov platobného účtu. Žiadosť o presun platobného účtu musí byť vyhotovená v slovenskom jazyku alebo v inom jazyku, na ktorom sa dohodnú prijímajúci poskytovateľ platobných služieb a spotrebiteľ. Podmienky pre podanie žiadosti o presun platobného účtu sa primerane použijú aj pri späťvzatí žiadosti o presun platobného účtu predloženej odovzdávajúcemu poskytovateľovi platobných služieb alebo prijímajúcemu poskytovateľovi platobných služieb, pričom prijímajúci poskytovateľ platobných služieb alebo odovzdávajúci poskytovateľ platobných služieb, ktorý takúto žiadosť prijal, ju môže akceptovať iba ak na základe pôvodnej žiadosti o presun platobného účtu neuskutočnil právny úkon, ktorého sa späťvzatie týka. Vzor tlačív používaných na podávanie a vykonávanie žiadosti o presun platobného účtu a podrobnosti o postupe pri presune platobného účtu a s tým súvisiace poskytovanie informácií ustanoví všeobecne záväzný právny predpis, ktorý vydá Ministerstvo financií Slovenskej republiky.“.
+
+  - Poznámka pod čiarou k odkazu 26a znie:
+
+  - „<sup>26a</sup>) § 7 a 8 zákona č. 297/2008 Z. z. v znení neskorších predpisov.“.
+
+- 10. V § 44d ods. 8 úvodnej vete sa za slovo „byť“ vkladá slovo „písomný“ a v písmene c) sa za slovom „platiteľov“ vypúšťa slovo „inkasa“.
+
+- 11. V § 44d ods. 11 druhej vete sa za slová „poskytovateľov platobných služieb“ vkladajú slová „alebo viackrát u toho istého poskytovateľa platobných služieb“ a na konci sa pripája táto veta: „Ak odovzdávajúci poskytovateľ platobných služieb odmietne vykonať presun platobného účtu, o tomto odmietnutí ako aj o dôvodoch tohto odmietnutia informuje prijímajúceho poskytovateľa platobných služieb bez zbytočného odkladu.“.
+
+- 12. V § 44d ods. 13 sa slová „mene euro, ak sa odovzdávajúci poskytovateľ a spotrebiteľ nedohodnú inak“ nahrádzajú slovami „takej mene, v akej je vedený účet u prijímajúceho poskytovateľa platobných služieb a odovzdávajúceho poskytovateľa platobných služieb“.
+
+- 13. V § 44d ods. 21 písm. d) sa slová „pošle im kópiu žiadosti o presun platobného účtu od spotrebiteľa len v časti, ktorá sa týka dotknutého platiteľa“ nahrádzajú slovami „poslať im oznámenie určené pre platiteľa, ktorého vzor ustanoví všeobecne záväzný právny predpis, ktorý vydá Ministerstvo financií Slovenskej republiky“.
+
+- 14. V § 44d ods. 21 písm. e) sa slová „pošle im kópiu žiadosti o presun platobného účtu od spotrebiteľa len v časti, ktorá sa týka dotknutého príjemcu inkasa“ nahrádzajú slovami „poslať im oznámenie určené pre príjemcu inkasa, ktorého vzor ustanoví všeobecne záväzný právny predpis, ktorý vydá Ministerstvo financií Slovenskej republiky“ a slová „spotrebiteľom v žiadosti o presun platobného účtu“ sa nahrádzajú slovami „v oznámení určenom pre príjemcu inkasa doručenom prijímajúcim poskytovateľom platobných služieb“.
+
+- 15. § 44d sa dopĺňa odsekom 25, ktorý znie:
+
+- „(25)
+
+- Platiteľ uskutočňujúci úhrady na platobný účet spotrebiteľa a príjemca používajúci inkaso na zúčtovanie finančných prostriedkov z platobného účtu spotrebiteľa sú povinní akceptovať plnomocenstvo udelené spotrebiteľom elektronicky prijímajúcemu poskytovateľovi platobných služieb na oznámenie zmeny údajov platobného účtu spotrebiteľa a príjemcovi inkasa na predkladanie platobných príkazov na inkaso k prijímajúcemu poskytovateľovi na odpísanie finančných prostriedkov z platobného účtu platiteľa vedeného prijímajúcim poskytovateľom, ak spotrebiteľ vyjadril súhlas s týmto plnomocenstvom spôsobom podľa odseku 7.“.
+
 - 16. V § 47 ods. 1 písm. g) sa vypúšťajú slová „až g)“.
 
 - 17. V § 47 sa odsek 1 dopĺňa písmenami h) a i), ktoré znejú:
@@ -207,6 +233,18 @@ Zákon č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektor
 - „(31)
 
 - Na nútenú správu nad inštitúciou elektronických peňazí sa rovnako vzťahujú ustanovenia osobitného zákona o nútenej správe nad bankou.<sup>44</sup>)“.
+
+- 44. V § 88 ods. 6 sa na konci pripájajú tieto vety:
+
+- „Údaje, na ktoré sa vzťahujú odseky 1 a 3 až 5, je poskytovateľ platobných služieb povinný sprístupňovať a poskytovať na spracúvanie inému poskytovateľovi platobných služieb, platiteľovi uskutočňujúcemu úhrady na platobný účet spotrebiteľa a príjemcovi používajúcemu inkaso na účely zúčtovania finančných prostriedkov z platobného účtu platiteľa v súvislosti s presunom platobného účtu a samotného presunu platobného účtu podľa § 44d za podmienok ustanovených osobitnými predpismi.<sup>70</sup>) Poskytovateľ platobných služieb, platiteľ uskutočňujúci úhrady na platobný účet spotrebiteľa a príjemca používajúci inkaso na účely zúčtovania finančných prostriedkov z platobného účtu platiteľa je ďalej oprávnený takto získané údaje spracúvať v rozsahu a na účely nevyhnutné v súvislosti s presunom platobného účtu, ako aj na ďalšie účely uvedené v odsekoch 4 a 5 za podmienok ustanovených osobitnými predpismi.<sup>70</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 70 znie:
+
+  - „<sup>70</sup>) Zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
+
+  - Nariadenie Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) (Ú. v. EÚ L 119, 4. 5. 2016).
+
+  - Nariadenie Európskeho parlamentu a Rady (EÚ) 2018/1725 z 23. októbra 2018 o ochrane fyzických osôb pri spracúvaní osobných údajov inštitúciami, orgánmi, úradmi a agentúrami Únie a o voľnom pohybe takýchto údajov, ktorým sa zrušuje nariadenie (ES) č. 45/2001 a rozhodnutie č. 1247/2002/ES (Ú. v. EÚ L 295, 21. 11. 2018).“.
 
 - 45. V § 89 sa vypúšťa odsek 7.
 
