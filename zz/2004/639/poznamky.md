@@ -34,6 +34,12 @@
 
 - 13) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z.
 
+- 13a) Zákon č. 474/2013 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 488/2013 Z. z. o diaľničnej známke a o zmene niektorých zákonov v znení neskorších predpisov.
+
+- 13b) § 4 ods. 3 až 5 zákona č. 474/2013 Z. z. v znení neskorších predpisov.
+
 - 14) Napríklad zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 15) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
