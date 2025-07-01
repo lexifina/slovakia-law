@@ -23,3 +23,11 @@ Zákon č. 540/2021 Z. z. o kategorizácii ústavnej zdravotnej starostlivosti a
 - 4. V § 38 sa vypúšťa odsek 4.
 
   - Doterajšie odseky 5 až 9 sa označujú ako odseky 4 až 8.
+
+- 5. V § 38 sa za odsek 3 vkladá nový odsek 4, ktorý znie:
+
+- „(4)
+
+- Zdravotná poisťovňa nesmie uzatvoriť zmluvu o poskytovaní zdravotnej starostlivosti s prevádzkovateľom nemocnice v rozsahu iných povinných programov alebo iných doplnkových programov, ako tých, ktoré jej boli rozhodnutím ministerstva zdravotníctva schválené.“.
+
+  - Doterajšie odseky 4 až 8 sa označujú ako odseky 5 až 9.
