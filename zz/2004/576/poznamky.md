@@ -12,6 +12,10 @@
 
 - § 6 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov.
 
+- 1f) § 2b ods. 2 zákona č. 577/2004 Z. z. v znení zákona č. 360/2024 Z. z.
+
+- 1g) § 6 ods. 1 písm. ad) zákona č. 581/2004 Z. z. v znení neskorších predpisov.
+
 - 2) § 33 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov.
 
 - 2a) § 11 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
@@ -270,13 +274,15 @@
 
 - 25) § 20 zákona č. 578/2004 Z. z.
 
-- 26) § 10 zákona č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov.
+- 26) § 50 zákona č. 150/2025 Z. z. o niektorých opatreniach na zvýšenie odolnosti Slovenskej republiky v oblasti obrany a bezpečnosti, o brannej povinnosti a o zmene a doplnení niektorých zákonov.
 
-- 26a) § 12 ods. 7 a 8 zákona č. 570/2005 Z. z.
+- 26a) § 51 ods. 6 a 7 zákona č. 150/2025 Z. z.
 
-- 26b) § 14 ods. 4 zákona č. 570/2005 Z. z. v znení zákona č. 378/2015 Z. z.
+- 26b) § 4 ods. 2 písm. e), § 5 ods. 2 a § 6 ods. 2 písm. h) zákona č. 150/2025 Z. z.
 
-- 26c) § 8 ods. 5 písm. a) zákona č. 378/2015 Z. z. o dobrovoľnej vojenskej príprave a o zmene a doplnení niektorých zákonov.
+- 26c) § 52 ods. 7 až 9 zákona č. 150/2025 Z. z.
+
+- 26d) § 8 ods. 5 písm. a) zákona č. 378/2015 Z. z. o dobrovoľnej vojenskej príprave a o zmene a doplnení niektorých zákonov.
 
 - 27) Zákon č. 453/2003 Z. z. o orgánoch štátnej správy v oblasti sociálnych vecí, rodiny a služieb zamestnanosti a o zmene a doplnení niektorých zákonov v znení zákona č. 5/2004 Z. z.
 
