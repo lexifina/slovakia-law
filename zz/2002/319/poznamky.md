@@ -16,7 +16,9 @@
 
 - 7b) § 3 písm. l) zákona č. 179/2011 Z. z. o hospodárskej mobilizácii a o zmene a doplnení zákona č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu v znení neskorších predpisov v znení zákona č. 173/2015 Z. z.
 
-- 7c) § 14e zákona č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov v znení zákona č. 378/2015 Z. z.
+- 7ba) § 3 zákona č. 150/2025 Z. z. o niektorých opatreniach na zvýšenie odolnosti Slovenskej republiky v oblasti obrany a bezpečnosti, o brannej povinnosti a o zmene a doplnení niektorých zákonov.
+
+- 7c) § 15 a 16 zákona č. 150/2025 Z. z.
 
 - 8) Čl. 102 ods. 1 písm. m) a čl. 119 písm. n) Ústavy Slovenskej republiky v znení ústavného zákona č. 90/2001 Z. z.
 
@@ -36,7 +38,7 @@
 
 - 11) Zákon č. 39/2007 Z. z. o veterinárnej starostlivosti.
 
-- 11a) § 21 ods. 2 zákona č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov.
+- 11a) § 81 ods. 5 zákona č. 150/2025 Z. z.
 
 - 11b) § 5 a 6 zákona č. 569/2005 Z. z. o alternatívnej službe v čase vojny a vojnového stavu v znení neskorších predpisov.
 
