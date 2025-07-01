@@ -1,0 +1,55 @@
+# § 10a Riaditeľ
+
+(1) Riaditeľ je výkonným orgánom fondu. Riaditeľa v čase jeho neprítomnosti zastupuje v rozsahu jeho práv a povinností ním poverený zástupca. Ak výkon funkcie riaditeľa zanikne podľa odseku 7, je predseda správnej rady povinný predložiť správnej rade návrh na vymenovanie nového riaditeľa do 30 dní odo dňa zániku výkonu funkcie riaditeľa.
+
+(2) Riaditeľ koná vo všetkých veciach v pôsobnosti fondu v rozsahu poverenia správnou radou a
+
+- a) zabezpečuje organizačnú a administratívno-technickú činnosť fondu a riadi činnosť kancelárie,
+
+- b) predkladá správnej rade návrh na odpísanie pohľadávok fondu alebo návrh na odpustenie dlhu,
+
+- c) predkladá správnej rade na schválenie návrh organizačného poriadku kancelárie, rokovacieho poriadku odbornej komisie a ďalších vnútorných predpisov fondu okrem rokovacieho poriadku dozornej rady,
+
+- d) predkladá správnej rade na schválenie návrhy na nakladanie s majetkom fondu,
+
+- e) plní ďalšie úlohy podľa tohto zákona a vnútorných predpisov fondu.
+
+(3) Riaditeľ vykonáva funkciu v pracovnom pomere s fondom.
+
+(4) Riaditeľ má právo zúčastňovať sa na zasadnutiach správnej rady.
+
+(5) Funkcia riaditeľa je nezlučiteľná s členstvom v správnej rade, odbornej komisii a s funkciou podľa § 5 ods. 6.
+
+(6) Za riaditeľa možno vymenovať fyzickú osobu, ktorá
+
+- a) má spôsobilosť na právne úkony v plnom rozsahu,
+
+- b) je bezúhonná,
+
+- c) má vysokoškolské vzdelanie druhého stupňa,
+
+- d) má najmenej trojročnú odbornú prax v oblasti riadenia,
+
+- e) nie je členom správnej rady, odbornej komisie a nevykonáva funkciu podľa § 5 ods. 6, alebo ak je členom správnej rady, odbornej komisie alebo vykonáva funkciu podľa § 5 ods. 6, skončí členstvo v správnej rade, odbornej komisii alebo výkon funkcie podľa § 5 ods. 6 do 30 dní od vymenovania.
+
+(7) Výkon funkcie riaditeľa zaniká
+
+- a) vzdaním sa funkcie; výkon funkcie riaditeľa zaniká dňom doručenia oznámenia o vzdaní sa funkcie predsedovi správnej rady,
+
+- b) odvolaním,
+
+- c) skončením pracovného pomeru s fondom,
+
+- d) stratou bezúhonnosti,
+
+- e) smrťou alebo vyhlásením za mŕtveho alebo
+
+- f) obmedzením spôsobilosti na právne úkony.
+
+(8) Správna rada na návrh predsedu správnej rady odvolá riaditeľa, ak
+
+- a) porušil povinnosť, ktorá sa viaže na výkon jeho funkcie,
+
+- b) vykonáva funkciu alebo činnosť nezlučiteľnú s funkciou riaditeľa alebo
+
+- c) nevykonáva funkciu najmenej tri po sebe nasledujúce kalendárne mesiace.
