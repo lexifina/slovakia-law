@@ -1,0 +1,3 @@
+# § 39c Prechodné ustanovenie k úpravám účinným od 1. júna 2010
+
+Oprávnenie na overovanie plnenia požiadaviek bezpečnosti technických zariadení podľa § 14, oprávnenie na vykonávanie odborných prehliadok a odborných skúšok a opráv vyhradeného technického zariadenia a na plnenie tlakovej nádoby na dopravu plynov vrátane plnenia nádrže motorového vozidla plynom podľa § 15, oprávnenie na vykonávanie bezpečnostnotechnickej služby a pracovnej zdravotnej služby podľa § 21 a oprávnenie na vykonávanie výchovy a vzdelávania v oblasti ochrany práce podľa § 27 vydané podľa predpisov platných do 31. mája 2010 sa považujú za oprávnenia vydané na neurčitý čas.
