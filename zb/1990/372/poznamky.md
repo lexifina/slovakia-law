@@ -62,7 +62,9 @@
 
 - 4a) Zákon č. 367/2000 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o zmene a doplnení niektorých zákonov.
 
-- 5) § 63b zákona č. 69/1967 Zb. o národných výboroch v znení neskorších predpisov.
+- 5) § 37d ods. 3 zákona č. 124/1992 Zb. o Vojenskej polícii v znení zákona č. 62/2019 Z. z.
+
+- § 77 ods. 6 zákona č. 150/2025 Z. z. o niektorých opatreniach na zvýšenie odolnosti Slovenskej republiky v oblasti obrany a bezpečnosti, o brannej povinnosti a o zmene a doplnení niektorých zákonov.
 
 - 6) § 63a zákona o národných výboroch.
 
@@ -71,6 +73,8 @@
 - 8) § 7 ods. 1 správneho poriadku.
 
 - 8a) Zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- 8aa) Napríklad § 37d ods. 3 zákona č. 124/1992 Z. z. v znení zákona č. 62/2019 Z. z., § 53a ods. 6 písm. b) zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení zákona č. 161/2024 Z. z., § 17b ods. 4 zákona č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky v znení zákona č. 457/2022 Z. z.
 
 - 8b) Napríklad § 44 ods. 3 písm. a) a b) zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
@@ -85,6 +89,8 @@
 - 14) § 8 zákona č. 25/2007 Z. z. o elektronickom výbere mýta za užívanie vymedzených úsekov pozemných komunikácií a o zmene a doplnení niektorých zákonov v znení zákona č. 86/2008 Z. z.
 
 - 14a) § 10 ods. 1 zákona č. 281/1997 Z. z. o vojenských obvodoch a zákon, ktorým sa mení zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov v znení zákona č. 96/2012 Z. z.
+
+- 14aa) § 22 ods. 1 až 3 zákona č. 150/2025 Z. z.
 
 - 14b) § 37 zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
