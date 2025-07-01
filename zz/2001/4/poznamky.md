@@ -84,7 +84,7 @@
 
 - 13) § 50 zákona č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení zákona č. 253/2007 Z. z.
 
-- 14) § 18 zákona č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov v znení zákona č. 518/2007 Z. z.
+- 14) § 79 zákona č. 150/2025 Z. z. o niektorých opatreniach na zvýšenie odolnosti Slovenskej republiky v oblasti obrany a bezpečnosti, o brannej povinnosti a o zmene a doplnení niektorých zákonov.
 
 - 14a) Napríklad zákon č. 550/2003 Z. z. o probačných a mediačných úradníkoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
