@@ -2,7 +2,7 @@
 
 # § 35b Spracúvanie informácií Vojenskou políciou
 
-(1) Vojenská polícia zriaďuje a prevádzkuje informačné systémy, v ktorých podľa tohto zákona a osobitného predpisu<sup>5d</sup>) spracúva informácie a osobné údaje o fyzických osobách zhromaždené pri plnení úloh Vojenskej polície vrátane informácií a osobných údajov poskytnutých zo zahraničia, v rozsahu nevyhnutnom na ich plnenie.
+(1) Vojenská polícia zriaďuje a prevádzkuje informačné systémy, v ktorých podľa tohto zákona a osobitného predpisu<sup>5d</sup>) spracúva informácie a osobné údaje o fyzických osobách zhromaždené pri plnení úloh Vojenskej polície alebo Žandárskeho zboru vrátane informácií a osobných údajov poskytnutých zo zahraničia, v rozsahu nevyhnutnom na ich plnenie.
 
 (2) Vojenská polícia je oprávnená, ak je to potrebné na plnenie jej úloh, vyhotovovať zvukový, obrazový alebo iný záznam
 
