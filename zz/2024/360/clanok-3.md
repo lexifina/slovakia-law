@@ -4,6 +4,22 @@ Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s
 
 - 1. V § 2 ods. 2 sa na konci pripája táto veta: „Zdravotným výkonom je aj činnosť zdravotníckeho pracovníka podľa prvej vety poskytovaná formou telemedicíny.“.
 
+- 2. V § 2 ods. 7 písmená f) a g) znejú:
+
+- „f)
+
+- organizovaný skríning onkologických chorôb zahŕňajúci systematický zber údajov o cieľovej populácii, na ktorú je skríning zameraný, skríningových testoch, ich výsledkoch a konečných chorobách vrátane údajov o klinickom štádiu onkologickej choroby, na účely zachytenia onkologickej choroby alebo inej závažnej choroby vo včasnom štádiu alebo u zdanlivo zdravej bezpríznakovej populácie, ktorý je možné uskutočniť samostatne podľa osobitného predpisu<sup>1f</sup>) alebo v rámci preventívnej prehliadky; na organizovaný skríning pozýva indikovaný okruh poistencov zdravotná poisťovňa podľa osobitného predpisu,<sup>1g</sup>)
+
+- g)
+
+- skríning, pri ktorom sa testuje prítomnosť choroby u osôb, u ktorých sa nezachytili príznaky choroby; tento skríning je možné uskutočniť samostatne podľa osobitného predpisu<sup>1f</sup>) alebo v rámci preventívnej prehliadky.“.
+
+  - Poznámky pod čiarou k odkazom 1f a 1g znejú:
+
+  - „<sup>1f</sup>) § 2b ods. 2 zákona č. 577/2004 Z. z. v znení zákona č. 360/2024 Z. z.
+
+  - <sup>1g</sup>) § 6 ods. 1 písm. ad) zákona č. 581/2004 Z. z. v znení neskorších predpisov.“.
+
 - 3. V § 2 ods. 22 sa slová „poskytovateľovi špecializovanej gynekologickej ambulantnej starostlivosti“ nahrádzajú slovami „poskytovateľovi primárnej špecializovanej gynekologickej ambulantnej starostlivosti v rozsahu verejnej optimálnej siete poskytovateľov primárnej špecializovanej gynekologickej ambulantnej starostlivosti“ a slová „poskytovateľovi špecializovanej zubno-lekárskej ambulantnej starostlivosti“ sa nahrádzajú slovami „poskytovateľovi primárnej špecializovanej zubno-lekárskej ambulantnej starostlivosti“.
 
 - 4. V § 2 odsek 23 znie:
@@ -540,7 +556,11 @@ Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s
 
 - ap)
 
-- vedie zoznam zdravotníckych zariadení, v ktorých sa vykonáva ochranné liečenie,<sup>52aao</sup>)“.
+- vedie zoznam zdravotníckych zariadení, v ktorých sa vykonáva ochranné liečenie,<sup>52aao</sup>)
+
+- aq)
+
+- zaraďuje do organizovaného skríningu poskytovateľa zdravotnej starostlivosti, ktorý spĺňa kritériá podľa všeobecne záväzného právneho predpisu vydaného ministerstvom zdravotníctva.<sup>1d</sup>)“.
 
   - Poznámky pod čiarou k odkazom 52aan a 52aao znejú:
 

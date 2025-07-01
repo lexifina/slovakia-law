@@ -4,6 +4,48 @@ Zákon č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na zá
 
 - 1. V § 2 ods. 1 písm. h) a i) sa na konci pripájajú tieto slová: „v primárnej gynekologicko-pôrodníckej ambulancii.“.
 
+- 2. Za § 2a sa vkladá § 2b, ktorý vrátane nadpisu znie:
+
+- „§ 2b
+
+- Skríning onkologických chorôb
+
+- (1)
+
+- Na základe verejného zdravotného poistenia sa plne uhrádza skríning rakoviny
+
+- a)
+
+- hrubého čreva a konečníka,
+
+- b)
+
+- krčka maternice,
+
+- c)
+
+- pľúc,
+
+- d)
+
+- prostaty,
+
+- e)
+
+- prsníka.
+
+- (2)
+
+- Ministerstvo zdravotníctva Slovenskej republiky (ďalej len „ministerstvo“) vydá všeobecne záväzný právny predpis, ktorý ustanoví podrobnosti o
+
+- a)
+
+- organizácii, obsahu, rozsahu, kritériách na výber cieľovej populácie oprávnenej na skríning, metodike pozývania na skríning, kritériách na druhy skríningových testov, intervale vykonávania skríningu, vykazovaní zdravotných výkonov a kódov diagnóz pre zdravotníckych pracovníkov, vykazovaní zdravotných výkonov a kódov diagnóz pre zariadenia ambulantnej starostlivosti a laboratóriá, ktoré vykonávajú skríning, vykazovaní zdravotných výkonov a kódov diagnóz na účel výpočtu výkonnostných indikátorov skríningových programov, manažmente pozitívnych prípadov zo skríningu a vyhodnocovaní skríningu onkologických chorôb podľa odseku 1,
+
+- b)
+
+- požiadavkách a kritériách kvality na pracoviská, na ktorých sa vykonáva skríning onkologických chorôb, na pracovníkov, ktorí vykonávajú výkony v súvislosti so skríningom onkologických chorôb, a na laboratóriá, ktoré diagnostikujú vzorky zo skríningu onkologických chorôb.“.
+
 - 3. § 3 sa dopĺňa odsekmi 23 a 24, ktoré znejú:
 
 - „(23)
@@ -52,7 +94,41 @@ Zákon č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na zá
 
 - 8. V prílohe č. 2 časti „Preventívna starostlivosť o dorast a dospelých” riadku „Okultné krvácanie do stolice” indikačné obmedzenie znie: „u poistencov vo veku od 50 rokov do 75 rokov života a u poistencov s pozitívnou rodinnou anamnézou karcinómu hrubého čreva a konečníka bez vekového obmedzenia. Nevykonáva sa v prípade, ak bolo vykonané kompletné kolonoskopické vyšetrenie v posledných desiatich rokoch s negatívnym nálezom.“.
 
+- 9. V prílohe č. 2 časť „Preventívna gynekologická prehliadka“ vrátane nadpisu znie:
+
+- „
+
+- Preventívna gynekologická prehliadka | |
+
+- Obsah | Preventívna gynekologická prehliadka je komplexné gynekologické vyšetrenie zamerané na vyhľadávanie a včasnú diagnostiku organických a funkčných chorôb ženských pohlavných orgánov, prevenciu rakoviny krčka maternice. Súčasťou prehliadky je gynekologická anamnéza a odborné poradenstvo v otázkach antikoncepcie, hormonálnej substitučnej liečby, prevencie sexuálne prenosných ochorení a poučenie o zvýšenom riziku gynekologických zhubných nádorov v súvislosti s rodinnou anamnézou a prítomnosťou ďalších rizikových faktorov u ženy. |
+
+- Vykonáva | lekár so špecializáciou v špecializačnom odbore gynekológia a pôrodníctvo v primárnej gynekologicko-pôrodníckej ambulancii |
+
+- Okruh poistencov | ženy vo veku od 18 rokov alebo prvého tehotenstva |
+
+- Periodicita | raz za rok |
+
+- Zoznam výkonov | |
+
+- | Názov výkonu | Indikačné obmedzenie
+
+- | Anamnéza a jej priebežná aktualizácia |
+
+- | Odborné poradenstvo v rozsahu obsahu gynekologickej preventívnej prehliadky |
+
+- | Komplexné gynekologické vyšetrenie vrátane palpačného vyšetrenia prsníkov |
+
+- | Ultrasonografické vyšetrenie malej panvy (transvaginálne, transabdominálne alebo transrektálne) |
+
+- | Cytológia z krčka maternice | Pre špecifikáciu u novozistenej lézie krčka maternice medzi intervalmi skríningu pri podozrení na prekancerózu alebo karcinóm krčka maternice.
+
+- | Nádorový marker CA 125 a transvaginálne ultrasonografické vyšetrenie | V periodicite jedenkrát za 6 mesiacov u žien so zvýšeným rizikom rakoviny vaječníkov a vajíčkovodov s dokázanými zárodočnými patogénnymi variantami v génoch BRCA 1 alebo BRCA 2, u žien od 35 rokov v prípade BRCA 1 a u žien od 40 rokov v prípade BRCA 2, ak neabsolvovali profylaktický chirurgický zákrok na zníženie rizika.
+
+- “.
+
 - 10. V prílohe č. 2 časti „Preventívna starostlivosť v materstve“ riadku „Vykonáva“ sa na konci pripájajú tieto slová: „v primárnej gynekologicko-pôrodníckej ambulancii.“.
+
+- 11. V prílohe č. 2 sa vypúšťajú časti „Populačný skríning rakoviny krčka maternice a rakoviny prsníka“, „Preventívna gastroenterologická prehliadka“ a „Populačný skríning rakoviny konečníka a hrubého čreva“.
 
 - 12. Príloha č. 6 vrátane nadpisu znie:
 
@@ -60,4 +136,4 @@ Zákon č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na zá
 
 - k zákonu č. 577/2004 Z. z.
 
-- [INDIKAČNÝ ZOZNAM PRE KÚPEĽNÚ STAROSTLIVOSŤ](assets/bb22c690f4f693baef5fc671158d6c8fad7e45083bc939b28be09f7432e5f57b.pdf)“.
+- [INDIKAČNÝ ZOZNAM PRE KÚPEĽNÚ STAROSTLIVOSŤ](assets/26aecfb1f90496a5aeacd6d492631c9f83229ec8a69140de5567a76dc2d26c3c.pdf)“.
