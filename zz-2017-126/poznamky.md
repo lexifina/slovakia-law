@@ -1,0 +1,1 @@
+- 1) Nariadenie vlády Slovenskej republiky č. 221/1999 Z. z., ktorým sa vydáva zoznam obcí, v ktorých občania Slovenskej republiky patriaci k národnostnej menšine tvoria najmenej 20 % obyvateľstva.
