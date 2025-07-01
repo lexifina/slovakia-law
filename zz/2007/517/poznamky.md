@@ -40,11 +40,15 @@
 
 - 13a) Čl. 4 Parížskeho dohovoru na ochranu priemyslového vlastníctva.
 
+- 13b) Dohovor o zriadení Svetovej organizácie duševného vlastníctva (vyhláška ministra zahraničných vecí č. 69/1975 Zb. v znení vyhlášky č. 80/1985 Zb.).
+
 - 14) Zákon č. 435/2001 Z. z. v znení neskorších predpisov, Dohovor o udeľovaní európskych patentov (Európsky patentový dohovor).
 
 - 14a) Čl. 15 ods. 5 písm. c) prvá veta Zmluvy o patentovej spolupráci.
 
 - 14b) Dohoda o Vyšehradskom patentovom inštitúte (oznámenie Ministerstva zahraničných vecí a európskych záležitostí Slovenskej republiky č. 369/2015 Z. z.).
+
+- 14ba) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
 - 14c) § 52 a 113a Exekučného poriadku.
 
