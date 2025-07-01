@@ -44,6 +44,8 @@
 
 - 17) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
+- 18) § 2 ods. 1 písm. c) a d) zákona č. 150/2025 Z. z. o niektorých opatreniach na zvýšenie odolnosti Slovenskej republiky v oblasti obrany a bezpečnosti, o brannej povinnosti a o zmene a doplnení niektorých zákonov.
+
 - 19) § 122 ods. 3 Trestného zákona.
 
 - 19a) § 122 ods. 7 Trestného zákona.
@@ -61,6 +63,8 @@
 - 21aa) Zákon č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
 - 22) Nariadenie vlády Slovenskej republiky č. 460/2000 Z. z. o dĺžke trvania a rozsahu odbornej prípravy zamestnancov obecnej polície a o ustanovení a zložení odborných komisií Policajného zboru.
+
+- 22a) § 13 ods. 1 a 2 zákona č. 150/2025 Z. z.
 
 - 23) § 10 Občianskeho zákonníka.
 
