@@ -1,0 +1,1 @@
+Príloha č. 4 k vyhláške č. 147/2025 Z. z. [VZOR – Žiadosť o poskytnutie právnej pomoci súvisiacej s oznamovaním protispoločenskej činnosti](../assets/ab97cd5c9718844342077f59ff8fd5502e4e196ee5ed539f4d80bb24289dc4d3.pdf)

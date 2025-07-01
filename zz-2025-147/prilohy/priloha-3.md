@@ -1,0 +1,1 @@
+Príloha č. 3 k vyhláške č. 147/2025 Z. z. [VZOR – Žiadosť o poskytnutie právnej pomoci v konaní o administratívnom vyhostení, v konaní o zaistení štátneho príslušníka tretej krajiny alebo v konaní o zaistení žiadateľa o udelenie azylu](../assets/bb9faaa5c8f06b3ca6e1bd5a24112caa034a307f2446b2eda4c380fffa8aafa9.pdf)
