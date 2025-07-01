@@ -1,6 +1,6 @@
 # § 6a Podmienky na poskytnutie právnej pomoci s finančnou účasťou
 
-(1) Ak príjem fyzickej osoby presahuje 1,4-násobok sumy životného minima ustanoveného osobitným predpisom<sup>2</sup>) a súčasne nepresahuje 1,6-násobok uvedenej sumy a nemôže si využívanie právnych služieb zabezpečiť svojím majetkom, má právo na poskytnutie právnej pomoci určeným advokátom alebo centrom pri splnení podmienky finančnej účasti vo výške 20 % trov právneho zastúpenia podľa osobitného predpisu;<sup>5a</sup>) splnenie podmienok podľa § 6 ods. 1 písm. b) a c) tým nie je dotknuté. Ustanovenie § 6 ods. 2 sa použije primerane.
+(1) Ak príjem fyzickej osoby presahuje 1,8-násobok sumy životného minima ustanoveného osobitným predpisom<sup>2</sup>) a súčasne nepresahuje 2,1-násobok sumy životného minima, a fyzická osoba si nemôže využívanie právnych služieb zabezpečiť svojím majetkom, má právo na poskytnutie právnej pomoci určeným advokátom alebo centrom pri splnení podmienky finančnej účasti vo výške 25 % paušálnej odmeny podľa osobitného predpisu;<sup>5a</sup>) splnenie podmienok na poskytnutie právnej pomoci bez finančnej účasti podľa § 6 ods. 1 písm. b) a c) tým nie je dotknuté. Ustanovenie § 6 ods. 2 sa použije primerane.
 
 (2) Za podmienok podľa odseku 1 sa oprávnená osoba podieľa aj na úhrade odmeny mediátora, ktorá by mu patrila podľa osobitného predpisu,<sup>5b</sup>) ak by sa uzavrela dohoda, ktorá je výsledkom mediácie.
 

@@ -1,3 +1,5 @@
+## Poskytnutie právnej pomoci
+
 # § 5b
 
 (1) O forme poskytnutia právnej pomoci rozhoduje centrum, prihliada pritom na okolnosti prípadu a účelnú ochranu práv oprávnenej osoby alebo zahraničnej oprávnenej osoby.
@@ -10,4 +12,6 @@
 
 (5) Centrum zabezpečuje poskytnutie právnej pomoci najmä formou právneho poradenstva vo veciach, v ktorých nebol podaný návrh na začatie konania pred súdom a predbežné poskytnutie právnej pomoci podľa § 11. Ak je zrejmé, že riešenie právnej otázky je neoddeliteľné od riešenia sociálneho alebo psychologického problému, centrum poskytne žiadateľovi základné informácie o inštitúciach, ktoré poskytujú potrebné poradenstvo. Pri poskytovaní právnej pomoci centrum spolupracuje najmä s orgánmi sociálnoprávnej ochrany detí a sociálnej kurately.
 
-(6) Ak ide o vec hodnú osobitnej ochrany a potreby zabezpečenia prístupu k spravodlivosti, môže riaditeľ po predchádzajúcom stanovisku rady rozhodnúť o úhrade peňažných prostriedkov na účely poskytnutia právnej pomoci osobám, ktoré nespĺňajú podmienky na poskytnutie právnej pomoci podľa tohto zákona z prostriedkov centra.
+(6) Ak ide o vec hodnú osobitnej ochrany a potreby zabezpečenia prístupu k spravodlivosti, môže riaditeľ po predchádzajúcom stanovisku rady rozhodnúť o úhrade peňažných prostriedkov na účely poskytnutia právnej pomoci fyzickým osobám, ktoré nespĺňajú podmienky na poskytnutie právnej pomoci podľa tohto zákona z prostriedkov centra.
+
+(7) Vo veciach podľa § 5b ods. 2, ak ide o vec hodnú osobitnej ochrany a potreby zabezpečenia prístupu k spravodlivosti, na základe odôvodnenej žiadosti advokáta, môže riaditeľ rozhodnúť o úhrade preddavku na odmenu za právne zastupovanie určenému advokátovi do 45 dní od doručenia žiadosti o úhradu preddavku na odmenu za právne zastupovanie a to po predchádzajúcom stanovisku rady; preddavok na odmenu za právne zastupovanie určenému advokátovi nesmie byť vyšší ako 50 % paušálnej odmeny za právne zastupovanie, na ktorú by mal určený advokát nárok podľa § 15 ods. 2. Ak ide o poskytnutie právnej pomoci s finančnou účasťou podľa § 6a alebo § 6b ods. 2, preddavok na odmenu za právne zastupovanie advokátovi sa neuhrádza. Ak riaditeľ rozhodne o neuhradení preddavku na odmenu za právne zastupovanie určenému advokátovi, bezodkladne o tom určeného advokáta upovedomí aj s odôvodnením. Na rozhodovanie riaditeľa o preddavku na odmenu za právne zastupovanie sa nevzťahuje správny poriadok.<sup>16</sup>)
