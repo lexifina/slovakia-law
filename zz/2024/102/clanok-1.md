@@ -872,6 +872,48 @@ Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení zákona č. 350/200
 
 - Ak bolo zdaniteľnej osobe registrovanej pre daň podľa § 4 alebo § 5 oznámené individuálne identifikačné číslo s príponou EX pre tuzemsko, táto osoba prestáva byť platiteľom dňom, ktorý predchádza dňu tohto oznámenia; túto skutočnosť daňový úrad bezodkladne oznámi zdaniteľnej osobe. Uplynutím dňa, kedy zdaniteľná osoba podľa prvej vety prestáva byť platiteľom, končí prebiehajúce zdaňovacie obdobie a zaniká platnosť identifikačného čísla pre daň; ustanovenia odsekov 5 až 9 týmto nie sú dotknuté.“.
 
+- 58. Za § 84 sa vkladajú § 84a a 84b, ktoré vrátane nadpisov znejú:
+
+- „§ 84a
+
+- Úhrada dane pri dovoze tovaru
+
+- (1)
+
+- Daň pri dovoze tovaru vyrubuje colný úrad a daň vyrubená colným úradom je splatná v lehote pre splatnosť cla podľa colných predpisov, ak odseky 2 až 5, § 21 ods. 3 a § 84b neustanovujú inak.
+
+- (2)
+
+- Postup podľa odseku 1 sa neuplatní pri dovoze tovaru, pri ktorom daňová povinnosť vznikla podľa § 21 ods. 1 písm. a) alebo písm. b), ak
+
+- a)
+
+- platiteľ, na účet ktorého sa podáva colné vyhlásenie, má v čase vzniku daňovej povinnosti
+
+- 1.
+
+- sídlo, miesto podnikania alebo prevádzkareň v tuzemsku, a ak nemá takéto miesto, má v tuzemsku bydlisko,
+
+- 2.
+
+- pridelené identifikačné číslo pre daň podľa § 4 alebo § 4b a
+
+- 3.
+
+- účinné povolenie, ktorým sa udeľuje status schváleného hospodárskeho subjektu podľa colných predpisov,
+
+- (3)
+
+- Platiteľ podľa odseku 2, na účet ktorého bolo podané colné vyhlásenie na tovar, pri ktorom vznikla daňová povinnosť podľa § 21 ods. 1 písm. a) alebo písm. b), je povinný daň pri dovoze tovaru vypočítať a uviesť do daňového priznania za zdaňovacie obdobie, v ktorom vznikla daňová povinnosť; tento platiteľ je osobou povinnou zaplatiť túto daň. V daňovom priznaní podľa prvej vety platiteľ uvedie aj dovoz tovaru, ktorý je oslobodený od dane.
+
+- (4)
+
+- Ak platiteľ uplatnil postup podľa odseku 3 a podmienky podľa odseku 2 písm. a) prvého bodu neboli splnené, daňový úrad uloží platiteľovi pokutu do výšky 1,3 % zo sumy dane pri dovoze tovaru, ktorú by bol colný úrad vyrubil, ak by sa neuplatnil postup podľa odseku 3.
+
+- (5)
+
+- Správu dane podľa odseku 2 vykonáva daňový úrad a na správu dane sa použijú ustanovenia osobitného predpisu,<sup>33</sup>) ak tento zákon neustanovuje inak.“.
+
 - 59. Za § 85km sa vkladá § 85kn, ktorý vrátane nadpisu znie:
 
 - „§ 85kn
@@ -905,6 +947,14 @@ Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení zákona č. 350/200
 - (7)
 
 - Na účely uplatnenia práva na odpočítanie dane podľa § 51 v daňovom priznaní za zdaňovacie obdobie, ktoré uplynulo najneskôr 31. decembra 2024, je zjednodušenou faktúrou doklad podľa § 74 ods. 3 písm. b) v znení účinnom do 31. decembra 2024, ak bol do 31. decembra 2024 vyhotovený.“.
+
+- 60. Za § 85kn sa vkladá § 85l, ktorý vrátane nadpisu znie:
+
+- „§ 85l
+
+- Prechodné ustanovenie k uplatneniu samozdanenia pri dovoze tovaru
+
+- Postup podľa § 84a sa prvýkrát použije na dovoz tovaru, pri ktorom daňová povinnosť pri dovoze tovaru podľa § 21 ods. 1 písm. a) alebo písm. b) vznikla po 30. júni 2025.“.
 
 - 61. V prílohe č. 6 sa za bod 27 vkladá nový bod 28, ktorý znie:
 
