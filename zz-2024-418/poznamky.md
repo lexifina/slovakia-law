@@ -1,0 +1,1 @@
+- 1) Nariadenie Európskeho parlamentu a Rady (EÚ) 2019/1242 z 20. júna 2019, ktorým sa stanovujú emisné normy CO<sub>2</sub>pre nové ťažké úžitkové vozidlá a menia nariadenia Európskeho parlamentu a Rady (ES) č. 595/2009 a (EÚ) 2018/956 a smernica Rady 96/53/ES (Ú. v. EÚ L 198, 25. 7. 2019) v platnom znení.
