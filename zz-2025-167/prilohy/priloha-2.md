@@ -1,0 +1,1 @@
+Príloha č. 2 k vyhláške č. 167/2025 Z. z. [VZOR – Žiadosť právnickej osoby o vydanie povolenia na podnikanie v tepelnej energetike a návrhu na vymedzené územie](../assets/68df669b057669717f9f59a0c9f10ea5ff1694bfaa419230cab25b1c472ea98a.pdf)
