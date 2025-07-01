@@ -286,6 +286,8 @@
 
 - 59jj) Zákon č. 215/2021 Z. z. o podpore v čase skrátenej práce a o zmene a doplnení niektorých zákonov.
 
+- 59jk) § 22 a 36 zákona č. 150/2025 Z. z. o niektorých opatreniach na zvýšenie odolnosti Slovenskej republiky v oblasti obrany a bezpečnosti, o brannej povinnosti a o zmene a doplnení niektorých zákonov.
+
 - 59k) § 4 ods. 9 a § 5 ods. 6 zákona č. 406/2011 Z. z.
 
 - 59l) Zákon č. 406/2011 Z. z.
