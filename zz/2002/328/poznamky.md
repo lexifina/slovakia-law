@@ -142,6 +142,10 @@
 
 - 33g) § 10 ods. 2 zákona č. 219/2006 Z. z. o protikomunistickom odboji v znení zákona č. 58/2009 Z. z.
 
+- 33ga) § 2 ods. 4 písm. c) a d) zákona č. 150/2025 Z. z. o niektorých opatreniach na zvýšenie odolnosti Slovenskej republiky v oblasti obrany a bezpečnosti, o brannej povinnosti a o zmene a doplnení niektorých zákonov.
+
+- 33gb) § 13 až 15 zákona č. 150/2025 Z. z.
+
 - 33h) § 2 ods. 10 a 11 zákona č. 538/2005 Z. z. o prírodných liečivých vodách, prírodných liečebných kúpeľoch, kúpeľných miestach a prírodných minerálnych vodách a o zmene a doplnení niektorých zákonov.
 
 - 33i) § 7 zákona č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení neskorších predpisov.
