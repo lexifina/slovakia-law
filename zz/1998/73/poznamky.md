@@ -68,6 +68,10 @@
 
 - 13aba) § 58 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
+- 13abb) § 22 zákona č. 150/2025 Z. z. o niektorých opatreniach na zvýšenie odolnosti Slovenskej republiky v oblasti obrany a bezpečnosti, o brannej povinnosti a o zmene a doplnení niektorých zákonov.
+
+- 13abc) § 13, § 15 a 16 zákona č. 150/2025 Z. z.
+
 - 13ac) Zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov v znení neskorších predpisov.
 
 - 13b) § 143a Občianskeho zákonníka.
