@@ -2,9 +2,21 @@
 
 Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení zákona č. 350/2004 Z. z., zákona č. 651/2004 Z. z., zákona č. 340/2005 Z. z., zákona č. 523/2005 Z. z., zákona č. 656/2006 Z. z., zákona č. 215/2007 Z. z., zákona č. 593/2007 Z. z., zákona č. 378/2008 Z. z., zákona č. 465/2008 Z. z., zákona č. 83/2009 Z. z., zákona č. 258/2009 Z. z., zákona č. 471/2009 Z. z., zákona č. 563/2009 Z. z., zákona č. 83/2010 Z. z. a zákona č. 490/2010 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 21 ods. 2 sa vypúšťa druhá veta.
+
 - 2. V § 24 ods. 1 sa slová „hodnota určená na colné účely podľa colných predpisov“ nahrádzajú slovami „colná hodnota tovaru“.
 
 - 3. V § 24 ods. 2 uvádzacej vete sa slová „hodnoty určenej na colné účely“ nahrádzajú slovami „colnej hodnoty tovaru“.
+
+- 4. V § 25 ods. 4 sa na konci pripája táto veta: „Ak pri dovoze tovaru nevyrubuje daň colný orgán, zníženie základu dane a dane pri dovoze tovaru vykoná platiteľ najskôr v zdaňovacom období, v ktorom colný orgán vráti alebo odpustí clo, a zvýšenie základu dane a dane pri dovoze tovaru vykoná platiteľ v zdaňovacom období, v ktorom sa colná hodnota tovaru zvýšila; oprava základu dane a dane sa nevykoná, ak platiteľ môže alebo mohol odpočítať daň z dovezeného tovaru v plnom rozsahu.“.
+
+- 5. V § 49 ods. 2 písmeno d) znie:
+
+- „d)
+
+- ním uplatnená pri dovoze tovaru alebo zaplatená colnému orgánu v tuzemsku pri dovoze tovaru.“.
+
+- 6. V § 52 sa za slovo „dovoze“ vkladajú slová „alebo ním uplatnenú pri dovoze“.
 
 - 9. V § 54a ods. 1 sa slová „daň odpočítanú podľa § 49a“ nahrádzajú slovami “odpočítanú daň“.
 
@@ -38,6 +50,10 @@ Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení zákona č. 350/200
 
 - 12. V § 55g ods. 2 sa slová „Daňový úrad Bratislava I“ nahrádzajú slovami „Finančné riaditeľstvo Slovenskej republiky“.
 
+- 13. V § 66 ods. 5 písm. a) sa slová „pri dovoze tovaru, a daň vymeraná colným orgánom“ nahrádzajú slovami „a daň uplatnenú alebo vyrubenú pri dovoze tovaru“.
+
+- 14. V § 66 ods. 8 písm. a) a ods. 11 písm. a) a v § 67 ods. 5 písm. d) sa za slovo „zaplatenú“ vkladajú slová „colnému úradu alebo ním uplatnenú“.
+
 - 15. V § 75 ods. 6 druhej vete sa na konci pripájajú tieto slová: „alebo iným spôsobom zabezpečujúcim vierohodnosť pôvodu a neporušenosť obsahu údajov“.
 
 - 16. V § 78 ods. 1 sa vypúšťajú slová „s výnimkou platiteľa, ktorý je povinný platiť preddavok na daň podľa § 78a, a“.
@@ -45,6 +61,8 @@ Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení zákona č. 350/200
 - 18. § 78a sa vypúšťa.
 
 - Poznámka pod čiarou k odkazu 29a sa vypúšťa.
+
+- 19. V § 79 ods. 1 sa vypúšťajú slová „(§ 78 ods. 1)“ a na konci sa pripájajú tieto slová: „vyrubenej colným úradom“.
 
 - 20. V § 79 sa za odsek 3 vkladajú nové odseky 4 a 5, ktoré znejú:
 
