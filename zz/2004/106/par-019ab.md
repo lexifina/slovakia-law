@@ -28,7 +28,13 @@
 
 (6) Predajom výrobku súvisiaceho s tabakovými výrobkami prostredníctvom prostriedkov komunikácie na diaľku sa na účely tohto zákona rozumie prevádzkovanie internetového obchodu s výrobkom súvisiacim s tabakovými výrobkami, ak prevádzkovateľ internetového obchodu s výrobkom súvisiacim s tabakovými výrobkami má sídlo alebo trvalý pobyt
 
-- a) na daňovom území a výrobok súvisiaci s tabakovými výrobkami dodáva konečnému spotrebiteľovi na územie iného členského štátu,
+- a) na daňovom území a výrobok súvisiaci s tabakovými výrobkami dodáva konečnému spotrebiteľovi na
+
+  - 1. daňovom území,
+
+  - 2. daňovom území z iného členského štátu alebo
+
+  - 3. územie iného členského štátu,
 
 - b) na území iného členského štátu a výrobok súvisiaci s tabakovými výrobkami dodáva konečnému spotrebiteľovi na daňovom území.
 
@@ -136,7 +142,7 @@
 
 (19) Osoba, ktorá chce v rámci podnikania na daňovom území distribuovať výrobok súvisiaci s tabakovými výrobkami, je povinná požiadať colný úrad o vydanie povolenia na distribúciu výrobku súvisiaceho s tabakovými výrobkami. Distribuovať výrobok súvisiaci s tabakovými výrobkami možno len na základe povolenia na distribúciu výrobku súvisiaceho s tabakovými výrobkami. Osobe registrovanej colným úradom podľa § 19 alebo § 23 alebo evidovanej podľa § 9a alebo § 19aa ods. 21 colný úrad vydá povolenie na distribúciu výrobku súvisiaceho s tabakovými výrobkami na základe žiadosti o vydanie povolenia na distribúciu výrobku súvisiaceho s tabakovými výrobkami, a to bez splnenia povinnosti predložiť prílohu k žiadosti podľa odseku 21 a preukázať splnenie podmienok podľa odseku 22.
 
-(20) Žiadosť o vydanie povolenia na distribúciu výrobku súvisiaceho s tabakovými výrobkami musí obsahovať
+(20) Žiadosť o vydanie povolenia na distribúciu výrobku súvisiaceho s tabakovými výrobkami musí obsahovať okrem údajov podľa osobitného predpisu<sup>25d</sup>)
 
 - a) adresu umiestnenia prevádzkarne žiadateľa, ak nie je totožná so sídlom alebo s trvalým pobytom žiadateľa,
 
@@ -222,7 +228,7 @@
 
 - a) vyrobenia výrobku súvisiaceho s tabakovými výrobkami na daňovom území,
 
-- b) dodania výrobku súvisiaceho s tabakovým výrobkom na daňové územie podľa odseku 6 písm. b), ktorým sa rozumie deň prevzatia výrobku súvisiaceho s tabakovými výrobkami konečným spotrebiteľom; na takýto výrobok sa nevzťahuje povinnosť označenia kontrolnou známkou na spotrebiteľskom balení,
+- b) dodania výrobku súvisiaceho s tabakovým výrobkom na daňové územie podľa odseku 6 písm. a) druhého bodu a písm. b), ktorým sa rozumie deň prevzatia výrobku súvisiaceho s tabakovými výrobkami konečným spotrebiteľom; na takýto výrobok sa nevzťahuje povinnosť označenia kontrolnou známkou na spotrebiteľskom balení,
 
 - c) prijatia výrobku súvisiaceho s tabakovými výrobkami z iného členského štátu na daňovom území,
 
@@ -236,7 +242,7 @@
 
 - a) ktorá vyrobila výrobok súvisiaci s tabakovými výrobkami na daňovom území,
 
-- b) ktorá dodala výrobok súvisiaci s tabakovým výrobkom na daňové územie podľa odseku 6 písm. b),
+- b) ktorá dodala výrobok súvisiaci s tabakovým výrobkom na daňové územie podľa odseku 6 písm. a) druhého bodu a písm. b),
 
 - c) ktorá prijala výrobok súvisiaci s tabakovými výrobkami z iného členského štátu na daňovom území,
 
@@ -254,7 +260,7 @@
 
 (38) Spotrebiteľským balením výrobku súvisiaceho s tabakovými výrobkami sa rozumie najmenšie balenie výrobku súvisiaceho s tabakovými výrobkami určené na konečnú spotrebu.
 
-(40) Daň z výrobku súvisiaceho s tabakovými výrobkami preukázateľne zdanenom na daňovom území možno vrátiť osobe podľa odseku 34 písm. c) a d), ak v rámci podnikania tento výrobok súvisiaci s tabakovými výrobkami
+(40) Daň z výrobku súvisiaceho s tabakovými výrobkami preukázateľne zdanenom na daňovom území možno vrátiť osobe podľa odseku 34 písm. a), c) a d), ak v rámci podnikania tento výrobok súvisiaci s tabakovými výrobkami
 
 - a) dodala na územie iného členského štátu osobe na podnikateľské účely a k daňovému priznaniu priložila
 
@@ -262,13 +268,7 @@
 
   - 2. potvrdenie správcu dane iného členského štátu o vysporiadaní dane z výrobku súvisiaceho s tabakovými výrobkami v tomto členskom štáte, ak výrobok súvisiaci s tabakovými výrobkami je predmetom dane v tomto členskom štáte,
 
-- b) vyviezla na územie tretieho štátu a uskutočnenie vývozu preukázala colným vyhlásením, v ktorom je colným úradom potvrdený výstup výrobku súvisiaceho s tabakovými výrobkami z územia Európskej únie, a dokladom o odoslaní alebo preprave výrobku súvisiaceho s tabakovými výrobkami,
-
-- c) bol odobratý ako vzorka na účely daňového dozoru alebo inej úradnej kontroly, úradnej skúšky alebo úradného zisťovania v technologicky odôvodnenom množstve, alebo
-
-- d) bol zničený colným úradom alebo pod jeho dozorom, a to aj ak sa vlastníkom výrobku súvisiaceho s tabakovými výrobkami stal štát podľa osobitných predpisov;
-
-- <sup>3</sup>) k daňovému priznaniu je osoba podľa odseku 34 písm. c) a d) povinná priložiť úradný záznam o zničení kontrolných známok a úradný záznam o zničení spotrebiteľského balenia výrobku súvisiaceho s tabakovými výrobkami.
+- b) vyviezla na územie tretieho štátu a uskutočnenie vývozu preukázala colným vyhlásením, v ktorom je colným úradom potvrdený výstup výrobku súvisiaceho s tabakovými výrobkami z územia Európskej únie, a dokladom o odoslaní alebo preprave výrobku súvisiaceho s tabakovými výrobkami.
 
 (41) Preukázateľne zdaneným výrobkom súvisiacim s tabakovými výrobkami na účely tohto zákona je výrobok súvisiaci s tabakovými výrobkami, ak platba dane za tento výrobok bola vykonaná podľa osobitných predpisov
 

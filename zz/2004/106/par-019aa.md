@@ -1,6 +1,6 @@
 # § 19aa Osobitné ustanovenia pre bezdymový tabakový výrobok
 
-(1) Bezdymovým tabakovým výrobkom sa na účely tohto zákona rozumie výrobok s obsahom tabaku, ktorý sa nespotrebúva počas horenia, ktorý je
+(1) Bezdymovým tabakovým výrobkom sa na účely tohto zákona rozumie výrobok výlučne s obsahom tabaku, ktorý sa nespotrebúva počas horenia, ktorý je
 
 - a) možné použiť na inhaláciu bez horenia prostredníctvom zahrievacieho zariadenia,
 
@@ -20,7 +20,13 @@
 
 (5) Predajom bezdymového tabakového výrobku prostredníctvom prostriedkov komunikácie na diaľku sa na účely tohto zákona rozumie prevádzkovanie internetového obchodu s bezdymovým tabakovým výrobkom, ak prevádzkovateľ internetového obchodu s bezdymovým tabakovým výrobkom má sídlo alebo trvalý pobyt
 
-- a) na daňovom území a bezdymový tabakový výrobok dodáva konečnému spotrebiteľovi na územie iného členského štátu,
+- a) na daňovom území a bezdymový tabakový výrobok dodáva konečnému spotrebiteľovi na
+
+  - 1. daňovom území,
+
+  - 2. daňovom území z iného členského štátu alebo
+
+  - 3. územie iného členského štátu,
 
 - b) na území iného členského štátu a bezdymový tabakový výrobok dodáva konečnému spotrebiteľovi na daňovom území.
 
@@ -198,7 +204,7 @@
 
 - a) vyrobenia bezdymového tabakového výrobku na daňovom území,
 
-- b) dodania bezdymového tabakového výrobku na daňové územie podľa odseku 5 písm. b), ktorým sa rozumie deň prevzatia bezdymového tabakového výrobku konečným spotrebiteľom; na takýto výrobok sa nevzťahuje povinnosť označenia kontrolnou známkou na spotrebiteľskom balení,
+- b) dodania bezdymového tabakového výrobku na daňové územie podľa odseku 5 písm. a) druhého bodu a písm. b), ktorým sa rozumie deň prevzatia bezdymového tabakového výrobku konečným spotrebiteľom; na takýto výrobok sa nevzťahuje povinnosť označenia kontrolnou známkou na spotrebiteľskom balení,
 
 - c) prijatia bezdymového tabakového výrobku z iného členského štátu na daňovom území,
 
@@ -212,7 +218,7 @@
 
 - a) ktorá vyrobila bezdymový tabakový výrobok na daňovom území,
 
-- b) ktorá dodala bezdymový tabakový výrobok na daňové územie podľa odseku 5 písm. b),
+- b) ktorá dodala bezdymový tabakový výrobok na daňové územie podľa odseku 5 písm. a) druhého bodu a písm. b),
 
 - c) ktorá prijala bezdymový tabakový výrobok z iného členského štátu na daňovom území,
 
@@ -232,19 +238,15 @@
 
 (35) Držiteľ povolenia na distribúciu bezdymového tabakového výrobku, ktorý v rámci podnikania prepraví z iného členského štátu bezdymový tabakový výrobok na daňové územie alebo dodá bezdymový tabakový výrobok do iného členského štátu na podnikateľské účely, je povinný takúto prepravu alebo dodanie preukázať obchodným dokumentom, na ktorom musí byť uvedený odosielateľ, príjemca, miesto dodania, presná identifikácia prepravovaného tovaru a jeho množstva.
 
-(36) Daň z tabaku alebo inej náplne ako tabak v bezdymovom tabakovom výrobku preukázateľne zdanenom na daňovom území možno vrátiť osobe podľa odseku 30 písm. c) a d), ak v rámci podnikania tento bezdymový tabakový výrobok
+(36) Daň z tabaku alebo inej náplne ako tabak v bezdymovom tabakovom výrobku preukázateľne zdanenom na daňovom území možno vrátiť osobe podľa odseku 30 písm. a), c) a d), ak v rámci podnikania tento bezdymový tabakový výrobok
 
 - a) dodala na územie iného členského štátu osobe na podnikateľské účely a k daňovému priznaniu priložila
 
   - 1. potvrdenie príjmu bezdymového tabakového výrobku príjemcom (odberateľom) bezdymového tabakového výrobku,
 
-  - 2. potvrdenie správcu dane iného členského štátu o vysporiadaní dane z tabaku v bezdymovom tabakovom výrobku v tomto členskom štáte, ak bezdymový tabakový výrobok je predmetom dane v tomto členskom štáte,
+  - 2. potvrdenie správcu dane iného členského štátu o vysporiadaní dane z tabaku alebo inej náplne ako tabak v bezdymovom tabakovom výrobku v tomto členskom štáte, ak bezdymový tabakový výrobok je predmetom dane v tomto členskom štáte,
 
-- b) vyviezla na územie tretieho štátu a uskutočnenie vývozu preukázala colným vyhlásením, v ktorom je colným úradom potvrdený výstup bezdymového tabakového výrobku z územia Európskej únie, a dokladom o odoslaní alebo preprave bezdymového tabakového výrobku,
-
-- c) bol odobratý ako vzorka na účely daňového dozoru alebo inej úradnej kontroly, úradnej skúšky alebo úradného zisťovania v technologicky odôvodnenom množstve, alebo
-
-- d) bol zničený colným úradom alebo pod jeho dozorom, a to aj ak sa vlastníkom bezdymového tabakového výrobku stal štát podľa osobitných predpisov;<sup>3</sup>) k daňovému priznaniu je osoba podľa odseku 30 písm. c) a d) povinná priložiť úradný záznam o zničení kontrolných známok a úradný záznam o zničení spotrebiteľského balenia bezdymového tabakového výrobku.
+- b) vyviezla na územie tretieho štátu a uskutočnenie vývozu preukázala colným vyhlásením, v ktorom je colným úradom potvrdený výstup bezdymového tabakového výrobku z územia Európskej únie, a dokladom o odoslaní alebo preprave bezdymového tabakového výrobku.
 
 (37) Preukázateľne zdaneným bezdymovým tabakovým výrobkom na účely tohto zákona je bezdymový tabakový výrobok, ak platba dane z tabaku alebo inej náplne ako tabak v tomto bezdymovom tabakovom výrobku bola vykonaná podľa osobitných predpisov<sup>8c</sup>) alebo bola započítaná s vrátením dane. Za preukázateľne zdanený bezdymový tabakový výrobok sa považuje aj bezdymový tabakový výrobok, ktorého zdanenie je doložené dokladom potvrdzujúcim jeho nadobudnutie za cenu s daňou a dokladom potvrdzujúcim zaplatenie dane v cene bezdymového tabakového výrobku.
 
