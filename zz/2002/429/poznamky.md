@@ -260,6 +260,18 @@
 
 - 69b) § 79b ods. 2 zákona č. 566/2001 Z. z. v znení zákona č. 209/2021 Z. z.
 
+- 69c) Nariadenie Európskeho parlamentu a Rady (EÚ) 2023/2859 z 13. decembra 2023, ktorým sa zriaďuje jednotné európske miesto prístupu, ktoré poskytuje centralizovaný prístup k verejne dostupným informáciám týkajúcim sa finančných služieb, kapitálových trhov a udržateľnosti (Ú. v. EÚ L, 2023/2859, 20. 12. 2023) v platnom znení.
+
+- 69d) § 5a ods. 1 zákona č. 747/2004 Z. z. v znení zákona č. 187/2025 Z. z.
+
+- 69e) § 5a ods. 2 a 3 zákona č. 747/2004 Z. z. v znení zákona č. 187/2025 Z. z.
+
+- 69f) Čl. 2 ods. 3 nariadenia (EÚ) 2023/2859 v platnom znení.
+
+- 69g) Čl. 7 ods. 4 písm. b) nariadenia (EÚ) 2023/2859 v platnom znení.
+
+- 69h) Čl. 7 ods. 4 písm. c) nariadenia (EÚ) 2023/2859 v platnom znení.
+
 - 70) Napríklad Zákonník práce, Trestný zákon.
 
 - 70a) § 156a Obchodného zákonníka v znení neskorších predpisov.
