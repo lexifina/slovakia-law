@@ -80,7 +80,7 @@
 
 (5) Ustanovenie § 20c sa prvýkrát použije na individuálne vykazovanie informácií o udržateľnosti vo výročnej správe, ktorá sa vyhotovuje za účtovné obdobie začínajúce
 
-1. januára 2025, účtovnej jednotky uvedenej v
+1. januára 2027, účtovnej jednotky uvedenej v
 
 - a) § 20c ods. 1 písm. a) a b) treťom bode, ktorá nepostupuje podľa odseku 2 a nie je subjektom verejného záujmu uvedeným v odseku 7 písm. a),
 
@@ -88,9 +88,9 @@
 
 - c) § 20c ods. 2 písm. b) druhom bode, ktorá nepostupuje podľa odseku 2.
 
-(6) Ustanovenie § 20g sa prvýkrát použije na konsolidované vykazovanie informácií o udržateľnosti vo výročnej správe, ktorá sa vyhotovuje za účtovné obdobie začínajúce 1. januára 2025, materskej účtovnej jednotky uvedenej v § 20g ods. 1 a 2, ktorá nepostupuje podľa odseku 3 alebo odseku 4, ak v každom z dvoch bezprostredne predchádzajúcich účtovných období spĺňa aspoň dve podmienky z podmienok uvedených v § 22 ods. 10 písm. a) alebo písm. b).
+(6) Ustanovenie § 20g sa prvýkrát použije na konsolidované vykazovanie informácií o udržateľnosti vo výročnej správe, ktorá sa vyhotovuje za účtovné obdobie začínajúce 1. januára 2027, materskej účtovnej jednotky uvedenej v § 20g ods. 1 a 2, ktorá nepostupuje podľa odseku 3 alebo odseku 4, ak v každom z dvoch bezprostredne predchádzajúcich účtovných období spĺňa aspoň dve podmienky z podmienok uvedených v § 22 ods. 10 písm. a) alebo písm. b).
 
-(7) Ustanovenie § 20c sa prvýkrát použije na individuálne vykazovanie informácií o udržateľnosti vo výročnej správe, ktorá sa vyhotovuje za účtovné obdobie začínajúce 1. januára 2026, účtovnej jednotky uvedenej v
+(7) Ustanovenie § 20c sa prvýkrát použije na individuálne vykazovanie informácií o udržateľnosti vo výročnej správe, ktorá sa vyhotovuje za účtovné obdobie začínajúce 1. januára 2028, účtovnej jednotky uvedenej v
 
 - a) § 20c ods. 1, ktorá je malou a menej zložitou inštitúciou, kaptívnou poisťovňou a kaptívnou zaisťovňou,
 

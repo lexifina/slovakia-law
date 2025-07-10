@@ -220,13 +220,15 @@
 
 - 29ia) § 13 ods. 5 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
 
+- 29iaa) Vykonávacie nariadenie Komisie (EÚ) 2024/2952 z 29. novembra 2024, ktorým sa stanovuje spoločný vzor a elektronické formáty na podávanie správ na účely uplatňovania smernice Európskeho parlamentu a Rady 2013/34/EÚ, pokiaľ ide o informácie, ktoré sa majú predkladať v správach s informáciami o dani z príjmov (Ú. v. EÚ L, 2024/2952, 2. 12. 2024).
+
 - 29ib) Delegované nariadenie (EÚ) 2019/815 v platnom znení.
 
 - 29ic) § 27 až 29 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
 
 - 29j) § 2 ods. 2 písm. h) zákona č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 29k) § 13, 14, 30 až 33 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
+- 29k) § 33 ods. 2 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
 
 - 29ka) § 3 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 

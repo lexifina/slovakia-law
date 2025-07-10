@@ -27,3 +27,5 @@ Príloha k zákonu č. 431/2002 Z. z. v znení neskorších predpisov
   - 12. Smernica Európskeho parlamentu a Rady (EÚ) 2022/2464 zo 14. decembra 2022, ktorou sa mení nariadenie (EÚ) č. 537/2014, smernica 2004/109/ES, smernica 2006/43/ES a smernica 2013/34/EÚ, pokiaľ ide o vykazovanie informácií o udržateľnosti podnikov (Ú. v. EÚ L 322, 16. 12. 2022).
 
   - 13. Delegovaná smernica Komisie (EÚ) 2023/2775 zo 17. októbra 2023, ktorou sa mení smernica Európskeho parlamentu a Rady 2013/34/EÚ, pokiaľ ide o úpravy veľkostných kritérií pre mikropodniky, malé, stredné a veľké podniky alebo skupiny (Ú. v. EÚ L, 2023/2775, 21. 12. 2023).
+
+  - 15. Smernica Európskeho parlamentu a Rady (EÚ) 2025/794 zo 14. apríla 2025, ktorou sa menia smernice (EÚ) 2022/2464 a (EÚ) 2024/1760, pokiaľ ide o dátumy, od ktorých majú členské štáty uplatňovať určité požiadavky na vykazovanie informácií o udržateľnosti podnikov a náležitú starostlivosť podnikov v oblasti udržateľnosti (Ú. v. EÚ L, 2025/794, 16. 4. 2025).

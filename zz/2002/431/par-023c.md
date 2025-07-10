@@ -1,6 +1,6 @@
 # § 23c
 
-(1) Prevádzkovateľ registra sprístupní dokumenty podľa § 23 ods. 2 účtovných jednotiek podľa § 23 ods. 6 vo verejnej časti registra všetkým osobám prostredníctvom webového sídla v elektronickej podobe, tak ako ich účtovná jednotka uložila, bez poplatku.
+(1) Prevádzkovateľ registra sprístupní dokumenty podľa § 23 ods. 2 účtovných jednotiek, ktoré sú podľa § 23 ods. 6 uložené vo verejnej časti registra všetkým osobám prostredníctvom webového sídla v elektronickej podobe, tak ako ich účtovná jednotka uložila, bez poplatku.
 
 (2) Dokumenty podľa § 23 ods. 2 účtovných jednotiek, ktoré sú podľa § 23 ods. 6 uložené v neverejnej časti registra, sa sprístupňujú Národnej banke Slovenska a subjektu verejnej správy na účely súvisiace s ich činnosťou a účtovnej jednotke, ktorej sa dokumenty týkajú, pričom Národnej banke Slovenska a subjektu verejnej správy sa sprístupňujú prostredníctvom registra a účtovnej jednotke, ktorej sa dokumenty týkajú, na základe písomnej žiadosti prevádzkovateľovi registra. Národnej banke Slovenska a subjektu verejnej správy môžu byť v odôvodnených prípadoch sprístupnené aj na základe písomnej žiadosti, a to ak technické podmienky bránia sprístupneniu prostredníctvom registra. Iným osobám tieto dokumenty sprístupní prevádzkovateľ registra, ak tak ustanovuje osobitný predpis.<sup>29l</sup>) Poskytovanie informácií podľa osobitného predpisu<sup>29m</sup>) sa nevzťahuje na skutočnosti nachádzajúce sa v dokumentoch podľa § 23 ods. 2 uložených v neverejnej časti registra.
 
