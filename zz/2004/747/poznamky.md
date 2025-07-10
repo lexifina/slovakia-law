@@ -72,6 +72,110 @@
 
 - 19) § 177 až 193 Správneho súdneho poriadku.
 
+- 19a) Čl. 2 ods. 2 nariadenia Európskeho parlamentu a Rady (EÚ) 2023/2859 z 13. decembra 2023, ktorým sa zriaďuje jednotné európske miesto prístupu, ktoré poskytuje centralizovaný prístup k verejne dostupným informáciám týkajúcim sa finančných služieb, kapitálových trhov a udržateľnosti (Ú. v. EÚ L, 2023/2859, 20. 12. 2023) v platnom znení.
+
+- 19b) Čl. 21a ods. 3 nariadenia (EÚ) č. 596/2014 v platnom znení.
+
+- Čl. 29a ods. 3 nariadenia (EÚ) č. 1286/2014 v platnom znení.
+
+- Čl. 70a ods. 3 nariadenia (EÚ) 2019/1238 v platnom znení.
+
+- Čl. 18a ods. 3 nariadenia Európskeho parlamentu a Rady (EÚ) 2019/2088 z 27.
+
+- novembra 2019 o zverejňovaní informácií o udržateľnosti v sektore finančných
+
+- služieb (Ú. v. EÚ L 317, 9. 12. 2019) v platnom znení.
+
+- Čl. 110a ods. 3 nariadenia (EÚ) 2023/1114 v platnom znení.
+
+- Čl. 15a ods. 4 nariadenia Európskeho parlamentu a Rady (EÚ) 2023/2631 z 22.
+
+- novembra 2023 o európskych zelených dlhopisoch a voliteľnom zverejňovaní
+
+- informácií pri dlhopisoch uvádzaných na trh ako environmentálne udržateľné a pri dlhopisoch viazaných na udržateľnosť (Ú. v. EÚ L, 2023/2631, 30. 11. 2023) v platnom znení.
+
+- § 220ge Obchodného zákonníka.
+
+- § 49p a 49q zákona č. 483/2001 Z. z. v znení zákona č. 187/2025 Z. z.
+
+- § 143p a 143q zákona č. 566/2001 Z. z. v znení zákona č. 187/2025 Z. z.
+
+- § 59b a 59c zákona č. 429/2002 Z. z. v znení zákona č. 187/2025 Z. z.
+
+- § 67d zákona č. 650/2004 Z. z. v znení zákona č. 187/2025 Z. z.
+
+- § 38a zákona č. 186/2009 Z. z. v znení zákona č. 187/2025 Z. z.
+
+- § 201d zákona č. 203/2011 Z. z. v znení zákona č. 187/2025 Z. z.
+
+- § 98a zákona č. 371/2014 Z. z. o riešení krízových situácií na finančnom trhu a o
+
+- zmene a doplnení niektorých zákonov v znení zákona č. 187/2025 Z. z.
+
+- § 80a a 80b zákona č. 39/2015 Z. z. v znení zákona č. 187/2025 Z. z.
+
+- 19c) Nariadenie (EÚ) 2023/2859 v platnom znení.
+
+- 19d) § 220ge Obchodného zákonníka.
+
+- § 49p ods. 1 zákona č. 483/2001 Z. z. v znení zákona č. 187/2025 Z. z.
+
+- § 143p ods. 1 zákona č. 566/2001 Z. z. v znení zákona č. 187/2025 Z. z.
+
+- § 59b ods. 1 zákona č. 429/2002 Z. z. v znení zákona č. 187/2025 Z. z.
+
+- § 67d ods. 1 zákona č. 650/2004 Z. z. v znení zákona č. 187/2025 Z. z.
+
+- § 201d ods. 1 zákona č. 203/2011 Z. z. v znení zákona č. 187/2025 Z. z.
+
+- § 98a ods. 1 zákona č. 371/2014 Z. z. v znení zákona č. 187/2025 Z. z.
+
+- § 80a ods. 1 zákona č. 39/2015 Z. z. v znení zákona č. 187/2025 Z. z.
+
+- 19e) Čl. 2 ods. 3 nariadenia (EÚ) 2023/2859 v platnom znení.
+
+- 19f) Delegované nariadenie Komisie (EÚ) 2019/815 zo 17. decembra 2018, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady (EÚ) 2004/109/ES, pokiaľ ide o regulačné technické predpisy o špecifikácii jednotného elektronického formátu vykazovania (Ú. v. EÚ L 143, 29. 5. 2019) v platnom znení.
+
+- 19g) Čl. 2 ods. 4 nariadenia (EÚ) 2023/2859 v platnom znení.
+
+- 19h) § 220ge Obchodného zákonníka.
+
+- § 49p ods. 1 zákona č. 483/2001 Z. z. v znení zákona č. 187/2025 Z. z.
+
+- § 143p ods. 1 zákona č. 566/2001 Z. z. v znení zákona č. 187/2025 Z. z.
+
+- § 59b ods. 1 zákona č. 429/2002 Z. z. v znení zákona č. 187/2025 Z. z.
+
+- § 67d ods. 1 zákona č. 650/2004 Z. z. v znení zákona č. 187/2025 Z. z.
+
+- § 4 ods. 5 zákona č. 203/2011 Z. z. v znení zákona č. 187/2025 Z. z.
+
+- § 98a ods. 1 zákona č. 371/2014 Z. z. v znení zákona č. 187/2025 Z. z.
+
+- § 80a ods. 1 zákona č. 39/2015 Z. z. v znení zákona č. 187/2025 Z. z.
+
+- 19i) Čl. 7 ods. 4 písm. b) nariadenia (EÚ) 2023/2859 v platnom znení.
+
+- 19j) Čl. 7 ods. 4 písm. d) nariadenia (EÚ) 2023/2859 v platnom znení.
+
+- 19k) Čl. 7 ods. 4 písm. e) nariadenia (EÚ) 2023/2859 v platnom znení.
+
+- 19l) Čl. 7 ods. 4 písm. c) nariadenia (EÚ) 2023/2859 v platnom znení.
+
+- 19m) § 49p ods. 1 zákona č. 483/2001 Z. z. v znení zákona č. 187/2025 Z. z.
+
+- § 143p ods. 1 písm. a), h) a i) zákona č. 566/2001 Z. z. v znení zákona č. 187/2025 Z. z.
+
+- § 59b ods. 1 písm. b) zákona č. 429/2002 Z. z. v znení zákona č. 187/2025 Z. z.
+
+- § 65 ods. 1 písm. j), n) a o) zákona č. 650/2004 Z. z. v znení zákona č. 187/2025 Z. z.
+
+- § 201d ods. 1 zákona č. 203/2011 Z. z. v znení zákona č. 187/2025 Z. z.
+
+- § 98a ods. 1 zákona č. 371/2014 Z. z. v znení zákona č. 187/2025 Z. z.
+
+- § 80a ods. 1 písm. a), b) a d) zákona č. 39/2015 Z. z. v znení zákona č. 187/2025 Z. z.
+
 - 20) Napríklad § 40 zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov.
 
 - 21) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
