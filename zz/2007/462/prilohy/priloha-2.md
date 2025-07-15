@@ -20,7 +20,7 @@ Príloha č. 2 k zákonu č. 462/2007 Z. z.
 
       - 5. analýzu záznamov na karte vodiča a v záznamovom zariadení,
 
-      - 6. analýzu porovnania záznamov zo snímača pohybu a GNSS prijímača; iba v prípade inteligentných tachografov,
+      - 6. analýzu porovnania záznamov zo snímača pohybu a GNSS prijímača; iba v prípade inteligentných záznamových zariadení,
 
       - 7. analýzu záznamov udalostí, porúch a chýb, ktoré sa považujú za potenciálne narušenie alebo manipuláciu so záznamovým zariadením, snímačom pohybu,
 

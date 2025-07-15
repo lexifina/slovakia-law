@@ -6,6 +6,12 @@
 
 - 3a) Nariadenie Komisie (EÚ) 2018/395 z 13. marca 2018, ktorým sa stanovujú podrobné pravidlá prevádzky balónov, ako aj udeľovania preukazov spôsobilosti letovej posádke balónov podľa nariadenia Európskeho parlamentu a Rady (EÚ) 2018/1139 (Ú. v. EÚ L 71, 14. 3. 2018) v platnom znení.
 
+- 3b) Bod 48a prílohy I nariadenia Komisie (EÚ) č. 965/2012 z 5. októbra 2012, ktorým sa ustanovujú technické požiadavky a administratívne postupy týkajúce sa leteckej prevádzky podľa nariadenia Európskeho parlamentu a Rady (ES) č. 216/2008 (Ú. v. EÚ L 296, 25. 10. 2012) v platnom znení.
+
+- 3c) Bod 118 prílohy I nariadenia (EÚ) č. 965/2012 v platnom znení.
+
+- 3d) Čl. 5 ods. 2 písm. f) nariadenia (EÚ) č. 965/2012 v platnom znení.
+
 - 4) Zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 5) Zákon Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
@@ -32,7 +38,17 @@
 
 - 13a) § 37 ods. 1 písm. b) zákona č. 514/2009 Z. z. o doprave na dráhach v znení neskorších predpisov.
 
-- 13aa) Nariadenie Komisie (EÚ) č. 965/2012 z 5. októbra 2012, ktorým sa ustanovujú technické požiadavky a administratívne postupy týkajúce sa leteckej prevádzky podľa nariadenia Európskeho parlamentu a Rady (ES) č. 216/2008 (Ú. v. EÚ L 296, 25. 10. 2012) v platnom znení.
+- 13aa) Nariadenie (EÚ) č. 965/2012 v platnom znení.
+
+- 13ab) Bod 61 prílohy I nariadenia (EÚ) č. 965/2012 v platnom znení.
+
+- 13ac) § 5 ods. 2 zákona č. 129/2002 Z. z. o integrovanom záchrannom systéme v znení neskorších predpisov.
+
+- 13ad) § 10 zákona č. 129/2002 Z. z. v znení neskorších predpisov.
+
+- 13ae) Bod 62 prílohy I nariadenia (EÚ) č. 965/2012 v platnom znení.
+
+- 13af) Bod SPA.HEMS.145 podčasti J prílohy V nariadenia (EÚ) č. 965/2012 v platnom znení.
 
 - 13b) § 7 ods. 3 zákona č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov v znení zákona č. 580/2003 Z. z.
 
@@ -52,13 +68,15 @@
 
 - § 2 ods. 1 zákona č. 461/2007 Z. z. o používaní záznamového zariadenia v cestnej doprave.
 
-- 16a) Príloha III nariadenia Komisie (EÚ) 2016/403 z 18. marca 2016, ktorým sa dopĺňa nariadenie Európskeho parlamentu a Rady (ES) č. 1071/2009 v súvislosti s klasifikáciou závažných porušení predpisov Únie, ktoré môžu viesť k strate bezúhonnosti prevádzkovateľa cestnej dopravy, a ktorým sa mení príloha III k smernici Európskeho parlamentu a Rady 2006/22/ES (Ú. v. EÚ L 74, 19. 3. 2016).
+- 16a) Príloha I nariadenia Komisie (EÚ) 2016/403 z 18. marca 2016, ktorým sa dopĺňa nariadenie Európskeho parlamentu a Rady (ES) č. 1071/2009 v súvislosti s klasifikáciou závažných porušení predpisov Únie, ktoré môžu viesť k strate bezúhonnosti prevádzkovateľa cestnej dopravy, a ktorým sa mení príloha III k smernici Európskeho parlamentu a Rady 2006/22/ES (Ú. v. EÚ L 74, 19. 3. 2016) v platnom znení.
 
 - 16b) Čl. 22 ods. 2 nariadenia (ES) č. 561/2006 v platnom znení.
 
 - 16c) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 1024/2012 z 25. októbra 2012 o administratívnej spolupráci prostredníctvom informačného systému o vnútornom trhu a o zrušení rozhodnutia Komisie 2008/49/ES („nariadenie o IMI“) (Ú. v. EÚ L 316, 14. 11. 2012) v platnom znení.
 
 - 16d) Čl. 16 ods. 5 nariadenia Európskeho parlamentu a Rady (ES) č. 1071/2009 z 21. októbra 2009, ktorým sa ustanovujú spoločné pravidlá týkajúce sa podmienok, ktoré je potrebné dodržiavať pri výkone povolania prevádzkovateľa cestnej dopravy, a ktorým sa zrušuje smernica Rady 96/26/ES (Ú. v. EÚ L 300, 14. 11. 2009) v platnom znení.
+
+- 16e) § 2 ods. 4 zákona č. 125/2006 Z. z. v znení neskorších predpisov.
 
 - 17) § 6 ods. 1 písm. o) zákona č. 125/2006 Z. z. v znení zákona č. 462/2007 Z. z.
 
@@ -75,6 +93,8 @@
 - 21a) Nariadenie Európskeho parlamentu a Rady (EÚ) 2019/1149 z 20. júna 2019, ktorým sa zriaďuje Európsky orgán práce a ktorým sa menia nariadenia (ES) č. 883/2004, (EÚ) č. 492/2011 a (EÚ) 2016/589 a ktorým sa zrušuje rozhodnutie (EÚ) 2016/344 (Ú. v. EÚ L 186, 11. 7. 2019).
 
 - 21b) Čl. 39 nariadenia (EÚ) č. 165/2014 v platnom znení.
+
+- Vykonávacie nariadenie Komisie (EÚ) 2024/1886 z 10 júla 2024, ktorým sa stanovujú podrobné pravidlá vykonávania nariadenia Európskeho parlamentu a Rady (EÚ) č. 165/2014, pokiaľ ide o obsah počiatočnej a priebežnej odbornej prípravy kontrolných úradníkov na analýzu zaznamenaných údajov a kontrolu tachografov (Ú. v. EÚ L, 2024/1886, 11. 7. 2024).
 
 - 22) Článok 14 ods. 1 a 2 nariadenia Európskeho parlamentu a Rady (ES) č. 561/2006.
 
@@ -102,7 +122,9 @@
 
 - 29) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
-- 30) Článok Q prílohy III nariadenia Rady (EHS) č. 3922/91 zo 16. decembra 1991 o harmonizácii technických požiadaviek a správnych postupov v oblasti civilného letectva (Mimoriadne vydanie Ú. v. EÚ, kap. 7/zv.1; Ú. v. ES L 373, 31. 12. 1991) v platnom znení.
+- 30) Čl. Q prílohy III nariadenia Rady (EHS) č. 3922/91 zo 16. decembra 1991 o harmonizácii technických požiadaviek a správnych postupov v oblasti civilného letectva (Mimoriadne vydanie Ú. v. EÚ, kap. 7/zv. 1; Ú. v. ES L 373, 31. 12. 1991) v platnom znení.
+
+- Podčasť FTL prílohy III nariadenia (EÚ) č. 965/2012 v platnom znení.
 
 - 31) Čl. 3 nariadenia (EÚ) č. 165/2014 v platnom znení.
 

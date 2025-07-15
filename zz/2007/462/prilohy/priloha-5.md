@@ -19,3 +19,5 @@ Príloha č. 5 k zákonu č. 462/2007 Z. z.
   - 8. Smernica Rady 2014/112/EÚ z 19. decembra 2014, ktorou sa vykonáva Európska dohoda o niektorých aspektoch organizácie pracovného času vo vnútrozemskej vodnej doprave, ktorú uzatvorili Európsky zväz riečnej plavby (EBU), Európska organizácia lodných kapitánov (ESO) a Európska federácia pracovníkov v doprave (ETF) (Ú. v. EÚ L 367, 23. 12. 2014).
 
   - 9. Smernica Európskeho parlamentu a Rady (EÚ) 2020/1057 z 15. júla 2020, ktorou sa stanovujú špecifické pravidlá vo vzťahu k smernici 96/71/ES a smernici 2014/67/EÚ pre vysielanie vodičov v odvetví cestnej dopravy a ktorou sa mení smernica 2006/22/ES, pokiaľ ide o požiadavky týkajúce sa dodržiavania predpisov, a nariadenie (EÚ) č. 1024/2012 (Ú. v. EÚ L 249, 31. 7. 2020).
+
+  - 10. Delegovaná smernica Komisie (EÚ) 2024/846 zo 14. marca 2024, ktorou sa mení smernica Európskeho parlamentu a Rady 2006/22/ES o minimálnych podmienkach vykonávania nariadení (ES) č. 561/2006 a (EÚ) č. 165/2014 a smernice 2002/15/ES, pokiaľ ide o právne predpisy v sociálnej oblasti, ktoré sa týkajú činností cestnej dopravy (Ú. v. EÚ L, 2024/846, 31. 5. 2024).

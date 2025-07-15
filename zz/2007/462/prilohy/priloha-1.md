@@ -22,7 +22,7 @@ Príloha č. 1 k zákonu č. 462/2007 Z. z.
 
       - 6. plomby na snímači pohybu podľa osobitného predpisu<sup>31c</sup>) a porovnanie s číslom na montážnom štítku pri podozrení na manipuláciu, ak je to technicky možné,
 
-      - 7. tlačiva podľa osobitného predpisu<sup>25a</sup>) v prípade, ak plomby na snímači alebo tachografe sú odstránené alebo porušené,
+      - 7. tlačiva podľa osobitného predpisu<sup>25a</sup>) v prípade, ak plomby na snímači alebo záznamovom zariadení sú odstránené alebo porušené,
 
       - 8. výrobného čísla GNSS a DSRC prijímača nezabudovaného v záznamovom zariadení a porovnanie údajov z pamäte záznamového zariadenia s údajmi na montážnom štítku, ak je to technicky možné,
 
