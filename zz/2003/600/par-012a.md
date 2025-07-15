@@ -6,7 +6,7 @@
 
 - b) zistí, že oprávnená osoba nevyužíva prídavok a príplatok k prídavku na účel podľa § 1 ods. 2 a 3,
 
-- c) podľa oznámenia orgánu podľa osobitného predpisu<sup>19f</sup>) maloleté nezaopatrené dieťa, na ktoré sa oprávnenej osobe vypláca prídavok a príplatok k prídavku, spáchalo priestupok; to platí aj vtedy, ak maloleté nezaopatrené dieťa v čase spáchania priestupku nedovŕšilo 15 rokov veku a z tohto dôvodu správny orgán vec odložil<sup>19g</sup>) alebo konanie o priestupku zastavil,<sup>19h</sup>)
+- c) podľa oznámenia orgánu podľa osobitného predpisu<sup>19f</sup>) maloleté nezaopatrené dieťa, na ktoré sa oprávnenej osobe vypláca prídavok a príplatok k prídavku, spáchalo priestupok; to platí aj vtedy, ak maloleté nezaopatrené dieťa v čase spáchania priestupku nedovŕšilo 14 rokov veku a z tohto dôvodu správny orgán vec odložil<sup>19g</sup>) alebo konanie o priestupku zastavil,<sup>19h</sup>)
 
 - d) bolo nezaopatrenému dieťaťu alebo rodičovi nezaopatreného dieťaťa uložené výchovné opatrenie<sup>19i</sup>) alebo
 
