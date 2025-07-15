@@ -70,8 +70,6 @@
 
 - 22) § 102 ods. 4 zákona č. 36/2005 Z. z.
 
-- 22a) § 11 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov.
-
 - 22b) § 102 ods. 1 písm. b) a c) zákona č. 36/2005 Z. z.
 
 - 23) § 33 ods. 3 zákona č. 36/2005 Z. z.
@@ -94,7 +92,7 @@
 
 - 31a) § 24a zákona č. 327/2005 Z. z. o poskytovaní právnej pomoci osobám v materiálnej núdzi a o zmene a doplnení zákona č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 8/2005 Z. z. v znení neskorších predpisov.
 
-- 32) Zákon č. 447/2008 Z. z.
+- 32) Zákon č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 33) Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
 
@@ -138,9 +136,9 @@
 
 - 41) Zákon č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
 
-- 41c) § 8 ods. 3 zákona č. 376/2022 Z. z. o profesionálnych náhradných rodičoch a o zmene a doplnení niektorých zákonov.
+- 41a) § 6 ods. 8 písm. c) zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 42) § 2 písm. c) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 41c) § 8 ods. 3 zákona č. 376/2022 Z. z. o profesionálnych náhradných rodičoch a o zmene a doplnení niektorých zákonov.
 
 - 43) Zákon č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
@@ -150,7 +148,7 @@
 
 - 45) Zákon Národnej rady Slovenskej republiky č. 199/1994 Z. z. o psychologickej činnosti a Slovenskej komore psychológov v znení zákona č. 578/2004 Z. z.
 
-- 45c) § 2 písm. a) zákona č. 601/2003 Z. z. v znení neskorších predpisov.
+- 45c) § 2 písm. a) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 45d) § 10 ods. 2 písm. a) zákona č. 417/2013 Z. z.
 
