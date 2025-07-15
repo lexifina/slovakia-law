@@ -790,6 +790,40 @@ Zákon č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých z
 
 - povolenia na pobyt na účel štúdia na území členských štátov v polovičnej dĺžke.“.
 
+- 71. § 52 sa dopĺňa odsekom 6, ktorý znie:
+
+- „(6)
+
+- Policajný útvar udelí dlhodobý pobyt podľa odseku 1 písm. a) a c) len vtedy, ak štátny príslušník tretej krajiny preukáže ovládanie slovenského jazyka podľa § 54 ods. 4; to neplatí, ak štátny príslušník tretej krajiny
+
+- a)
+
+- v čase podania žiadosti nedovŕšil 14 rokov,
+
+- b)
+
+- má udelený prechodný pobyt podľa § 29,
+
+- c)
+
+- preukáže, že získal nižšie stredné vzdelanie na škole s vyučovacím jazykom slovenským, alebo
+
+- d)
+
+- preukáže, že študoval aspoň dva školské roky na strednej škole s vyučovacím jazykom slovenským alebo na vysokej škole študijný program v slovenskom jazyku a od skončenia štúdia neuplynulo viac ako päť rokov.“.
+
+- 72. V § 54 sa za odsek 3 vkladá nový odsek 4, ktorý znie:
+
+- „(4)
+
+- Ovládanie slovenského jazyka podľa § 52 ods. 6 sa overuje úspešným vykonaním jazykovej skúšky podľa osobitného predpisu<sup>68c</sup>). Jazyková náročnosť skúšky podľa predchádzajúcej vety zodpovedá stupňu A2 podľa Spoločného európskeho referenčného rámca pre jazyky.“.
+
+  - Doterajší odsek 4 sa označuje ako odsek 5.
+
+  - Poznámka pod čiarou k odkazu 68c znie:
+
+  - „<sup>68c</sup>) § 6 ods. 6 vyhlášky Ministerstva školstva Slovenskej republiky č. 321/2008 Z. z. o jazykovej škole.“.
+
 - 73. V § 56 písmeno d) znie:
 
 - „d)
