@@ -138,21 +138,27 @@
 
 - 3aai) Čl. 13 ods. 11 nariadenia Európskeho parlamentu a Rady (EÚ) č. 376/2014 z 3. apríla 2014 o ohlasovaní udalostí, ich analýze a na ne nadväzujúcich opatreniach v civilnom letectve, ktorým sa mení nariadenie Európskeho parlamentu a Rady (EÚ) č. 996/2010 a ktorým sa zrušuje smernica Európskeho parlamentu a Rady 2003/42/ES a nariadenia Komisie (ES) č. 1321/2007 a (ES) č. 1330/2007 (Ú. v. EÚ L 122, 24. 4. 2014) v platnom znení.
 
-- 3ab) Čl. 7 a 8c nariadenia (ES) č. 216/2008 v platnom znení.
+- 3ab) Prílohy I a IV nariadenia (EÚ) č. 1178/2011 v platnom znení.
 
-- Čl. 15 až 17 nariadenia (EÚ) č. 805/2011.
+- Prílohy I a IV nariadenia (EÚ) 2015/340 v platnom znení.
 
-- Príloha IV nariadenia (EÚ) č. 1178/2011 v platnom znení.
+- Čl. 20, 21, 22 a 49 nariadenia (EÚ) 2018/1139 v platnom znení.
 
-- 3b) Nariadenie vlády Slovenskej republiky č. 296/2010 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolenia, spôsobe ďalšieho vzdelávania zdravotníckych pracovníkov, sústave špecializačných odborov a sústave certifikovaných pracovných činností v znení neskorších predpisov.
+- 3b) Prílohy IV a VI nariadenia (EÚ) č. 1178/2011 v platnom znení.
 
-- 3c) § 4 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- Prílohy II a IV nariadenia (EÚ) 2015/340 v platnom znení.
 
-- 3d) Čl. 7 a 8c, príloha III a príloha Vb nariadenia (ES) č. 216/2008 v platnom znení.
+- Čl. 20, 26, 48 a 52 nariadenia (EÚ) 2018/1139 v platnom znení.
 
-- Čl. 15 až 17 nariadenia (EÚ) č. 805/2011.
+- 3c) Prílohy IV, VI a VII nariadenia (EÚ) č. 1178/2011 v platnom znení.
 
-- Príloha IV nariadenia (EÚ) č. 1178/2011 v platnom znení.
+- Prílohy II, III a IV nariadenia (EÚ) 2015/340 v platnom znení.
+
+- Čl. 20, 24, 48 a 51 nariadenia (EÚ) 2018/1139 v platnom znení.
+
+- 3d) Bod ARA.MED.120 prílohy IV nariadenia (EÚ) č. 1178/2011 v platnom znení.
+
+- Bod ATCO.AR.F.001 prílohy II nariadenia (EÚ) 2015/340 v platnom znení.
 
 - 3e) Napríklad zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -402,9 +408,9 @@
 
 - 11e) Napríklad bod ADR.AR.A.040. prílohy II nariadenia (EÚ) č. 139/2014 v platnom znení, bod ATM/ANS.AR.A.030. prílohy II vykonávacieho nariadenia (EÚ) 2017/373 v platnom znení.
 
-- 11h) Čl. 15 a 16 nariadenia (EÚ) č. 805/2011.
+- 11h) Príloha IV nariadenia (EÚ) č. 1178/2011 v platnom znení.
 
-- Príloha IV nariadenia (EÚ) č. 1178/2011 v platnom znení.
+- Príloha IV nariadenia (EÚ) 2015/340 v platnom znení.
 
 - 11i) Napríklad nariadenie (ES) č. 550/2004 v platnom znení, nariadenie Európskeho parlamentu a Rady (ES) č. 300/2008 z 11. marca 2008 o spoločných pravidlách v oblasti bezpečnostnej ochrany civilného letectva a o zrušení nariadenia (ES) č. 2320/2002 (Ú. v. EÚ L 97, 9. 4. 2008) v platnom znení, nariadenie (ES) č. 1008/2008 v platnom znení, nariadenie Európskeho parlamentu a Rady (EÚ) č. 996/2010 z 20. októbra 2010 o vyšetrovaní a prevencii nehôd a incidentov v civilnom letectve a o zrušení smernice 94/56/ES (Ú. v. EÚ L 295, 12. 11. 2010) v platnom znení, nariadenie (EÚ) č. 1178/2011 v platnom znení, nariadenie (EÚ) č. 748/2012 v platnom znení, vykonávacie nariadenie (EÚ) č. 923/2012 v platnom znení, nariadenie (EÚ) č. 965/2012 v platnom znení, nariadenie (EÚ) č. 139/2014 v platnom znení, nariadenie (EÚ) č. 376/2014 v platnom znení, nariadenie (EÚ) č. 1321/2014 v platnom znení, nariadenie (EÚ) 2015/340 v platnom znení, vykonávacie nariadenie Komisie (EÚ) 2015/1998 z 5. novembra 2015, ktorým sa stanovujú podrobné opatrenia na vykonávanie spoločných základných noriem bezpečnostnej ochrany letectva (Ú. v. EÚ L 299, 14. 11. 2015) v platnom znení, vykonávacie nariadenie (EÚ) 2017/373 v platnom znení, nariadenie (EÚ) 2018/395 v platnom znení, nariadenie (EÚ) 2018/1139 v platnom znení, vykonávacie nariadenie (EÚ) 2018/1976 v platnom znení, delegované nariadenie (EÚ) 2019/945 v platnom znení, vykonávacie nariadenie (EÚ) 2019/947 v platnom znení, vykonávacie nariadenie (EÚ) 2021/664 v platnom znení.
 
