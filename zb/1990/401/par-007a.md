@@ -10,8 +10,6 @@
 
 - b) zaujíma stanoviská k veciam, ktoré sú predmetom rokovania mestského zastupiteľstva; mestské zastupiteľstvo je povinné stanovisko Rady starostov prerokovať pred rozhodnutím o veci,
 
-- c) môže odmietnuť uznesenie mestského zastupiteľstva prijaté podľa § 3 ods. 2,
-
 - d) k rozhodnutiam podľa § 10 ods. 3 písm. a) okrem vytvorenia, zrušenia, zlúčenia alebo rozdelenia mestských častí, písmen c) až e) môže predložiť v lehote do 15 dní odo dňa ich vyvesenia na úradnej tabuli svoje pripomienky a požiadať mestské zastupiteľstvo o ich opätovné prerokovanie a schválenie.
 
 (4) Podrobnosti o vzťahoch Rady starostov a mestského zastupiteľstva upraví štatút.
