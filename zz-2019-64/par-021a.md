@@ -1,0 +1,5 @@
+# § 21a Prechodné ustanovenia k úpravám účinným od 17. januára 2020
+
+(1) Na hlavnú časť strelnej zbrane a časť strelnej zbrane podľa § 4 ods. 1 písm. a) trinásteho bodu a štrnásteho bodu, ktoré nie sú upravené podľa § 2 písm. d) a ktoré sú vyrobené alebo dovezené na trh do 16. januára 2020 a predložené na následné kusové overenie od 17. januára 2020, sa nevzťahujú základné požiadavky podľa prílohy č. 1 časti A tretieho bodu a vzťahujú sa základné požiadavky podľa právnych predpisov účinných do 16. januára 2020.
+
+(2) Na hlavnú časť strelnej zbrane a časť strelnej zbrane podľa § 4 ods. 1 písm. a) trinásteho bodu a štrnásteho bodu vyrobené podstatnou úpravou strelnej zbrane, ktoré nie sú upravené podľa § 2 písm. d) a ktoré sú vyrobené alebo dovezené na trh do 16. januára 2020 a predložené na následné kusové overenie od 17. januára 2020, sa nevzťahujú základné požiadavky podľa prílohy č. 1 časti A tretieho bodu a vzťahujú sa základné požiadavky podľa právnych predpisov účinných do 16. januára 2020.
