@@ -1,0 +1,5 @@
+Príloha č. 2 k vyhláške č. 110/2005 Z. z.
+
+- VZOR ÚRADNÉHO TLAČIVA PRÍLOHY POVOLENIA NA DOVOZ, VÝVOZ ALEBO POTVRDENIA NA OPÄTOVNÝ VÝVOZ
+
+- [VZOR 01](../assets/fca0eca6c291069f3fd745d162683213384aabaf5ab0e99b1e63bf6cbf4a5f77.pdf)
