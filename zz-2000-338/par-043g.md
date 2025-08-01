@@ -1,0 +1,37 @@
+# § 43g Prechodné ustanovenia k úpravám účinným od 17. januára 2022
+
+(1) Preukazy odbornej spôsobilosti členov posádky plavidla okrem preukazov odbornej spôsobilosti na funkciu vodca prievoznej lode bez vlastného strojového pohonu, preukazy radarového navigátora, potvrdenia znalostí špecifických úsekov vodnej cesty Dunaj a preukazy vedúcich plavby na plavebných komorách Slovenskej republiky vydané do 17. januára 2022 zostávajú v platnosti do 17. januára 2032. Preukazy odbornej spôsobilosti na funkciu vodca prievoznej lode bez vlastného strojového pohonu vydané do 17. januára 2022 zostávajú v platnosti.
+
+(2) Služobné lodnícke knižky členov posádky plavidla a lodné denníky vydané do 17. januára 2022 zostávajú v platnosti do 17. januára 2032.
+
+(3) Dopravný úrad vydá pred 18. januárom 2032 preukaz odbornej spôsobilosti – lodný kapitán Európskej únie držiteľovi preukazu odbornej spôsobilosti na funkciu lodný kapitán, na funkciu lodný kapitán I. triedy alebo na funkciu lodný kapitán II. triedy a držiteľovi preukazu vodcu plávajúceho stroja I. triedy kategórie A na základe žiadosti, ak preukáže svoju totožnosť dokladom totožnosti a preukáže, že spĺňa požiadavky na zdravotnú spôsobilosť podľa osobitného predpisu.
+
+(4) Dopravný úrad zapíše pred 18. januárom 2032 osobitné povolenie na plavbu pomocou radaru do preukazu odbornej spôsobilosti – lodný kapitán Európskej únie držiteľovi preukazu radarového navigátora a osobitné povolenie na plavbu na vodných cestách so špecifickým rizikom do preukazu odbornej spôsobilosti – lodný kapitán Európskej únie držiteľovi potvrdenia znalostí špecifických úsekov vodnej cesty Dunaj na základe žiadosti, ak preukáže svoju totožnosť dokladom totožnosti.
+
+(5) Dopravný úrad zapíše pred 18. januárom 2032 osobitné povolenie na plavbu na vodných cestách námorného charakteru do preukazu odbornej spôsobilosti – lodný kapitán Európskej únie držiteľovi preukazu odbornej spôsobilosti na funkciu lodný kapitán na základe žiadosti, ak preukáže svoju totožnosť dokladom totožnosti.
+
+(6) Dopravný úrad vydá pred 18. januárom 2032 preukaz odbornej spôsobilosti Európskej únie – odborník na prepravu cestujúcich držiteľovi preukazu odbornej spôsobilosti na funkciu lodný kapitán, na funkciu lodný kapitán I. triedy alebo na funkciu lodný kapitán II. triedy na základe žiadosti, ak preukáže svoju totožnosť dokladom totožnosti a preukáže, že spĺňa požiadavky na zdravotnú spôsobilosť podľa osobitného predpisu.
+
+(7) Dopravný úrad vydá pred 18. januárom 2032 služobnú lodnícku knižku Európskej únie držiteľovi preukazu odbornej spôsobilosti na funkciu lodný kapitán, na funkciu lodný kapitán I. triedy alebo na funkciu lodný kapitán II. triedy a držiteľovi preukazu vodcu plávajúceho stroja I. triedy kategórie A na základe žiadosti, ak preukáže svoju totožnosť dokladom totožnosti.
+
+(8) Dopravný úrad vydá pred 18. januárom 2032 jediný doklad držiteľovi preukazu odbornej spôsobilosti na funkciu kormidelník na základe žiadosti, ak preukáže svoju totožnosť dokladom totožnosti a preukáže, že spĺňa požiadavky na zdravotnú spôsobilosť podľa osobitného predpisu.
+
+(9) Dopravný úrad vydá pred 18. januárom 2032 držiteľovi preukazu odbornej spôsobilosti na funkciu lodník jediný doklad na základe žiadosti, ak preukáže svoju totožnosť dokladom totožnosti a preukáže, že spĺňa požiadavky na zdravotnú spôsobilosť podľa osobitného predpisu alebo preukaz odbornej spôsobilosti – vnútroštátny lodník a vnútroštátnu služobnú lodnícku knižku, ak preukáže svoju totožnosť dokladom totožnosti.
+
+(10) Dopravný úrad vydá pred 18. januárom 2032 pomocnému lodníkovi jediný doklad na základe žiadosti, ak preukáže svoju totožnosť dokladom totožnosti a preukáže, že spĺňa požiadavky na zdravotnú spôsobilosť podľa osobitného predpisu alebo vnútroštátnu služobnú lodnícku knižku na základe žiadosti, ak preukáže svoju totožnosť dokladom totožnosti a preukáže, že spĺňa požiadavky na zdravotnú spôsobilosť podľa osobitného predpisu.
+
+(11) Dopravný úrad vydá jediný doklad podľa odsekov 8 až 10, ak požiadavky na získanie odbornej spôsobilosti na vydanie tohto jediného dokladu sú obdobné alebo nižšie ako požiadavky na odbornú spôsobilosť na vydanie preukazu, ktorý sa nahrádza. Ak sú požiadavky na získanie odbornej spôsobilosti na vydanie jediného dokladu podľa odseku 6 vyššie ako požiadavky na získanie odbornej spôsobilosti na vydanie preukazu odbornej spôsobilosti, ktorý sa nahrádza, Dopravný úrad vydá jediný doklad pre odbornú spôsobilosť lodník, ak má žiadateľ plavebnú prax 540 dní vrátane najmenej 180 dní na vnútrozemských vodných cestách, jediný doklad pre odbornú spôsobilosť kvalifikovaný lodník, ak má žiadateľ plavebnú prax 900 dní vrátane najmenej 540 dní na vnútrozemských vodných cestách, jediný doklad pre odbornú spôsobilosť kormidelník, ak má žiadateľ plavebnú prax 1080 dní vrátane najmenej 720 dní na vnútrozemských vodných cestách. Žiadateľ plavebnú prax preukáže námorníckou knižkou, služobnou lodníckou knižkou, lodným denníkom alebo písomným potvrdením zamestnávateľa, u ktorého plavebnú prax získal.
+
+(12) Dopravný úrad vydá pred 18. januárom 2032 preukaz odbornej spôsobilosti – lodný strojník a vnútroštátnu služobnú lodnícku knižku držiteľovi preukazu odbornej spôsobilosti na funkciu lodný strojník I. triedy alebo držiteľovi preukazu odbornej spôsobilosti na funkciu lodný strojník II. triedy na základe žiadosti, ak preukáže svoju totožnosť dokladom totožnosti.
+
+(13) Dopravný úrad vydá pred 18. januárom 2032 preukaz odbornej spôsobilosti – vnútroštátny lodný kapitán a vnútroštátnu služobnú lodnícku knižku držiteľovi preukazu odbornej spôsobilosti na funkciu lodný kapitán III. triedy na základe žiadosti, ak preukáže svoju totožnosť dokladom totožnosti.
+
+(14) Dopravný úrad zapíše pred 18. januárom 2032 osobitné povolenie na plavbu pomocou radaru do preukazu odbornej spôsobilosti – vnútroštátny lodný kapitán držiteľovi preukazu radarového navigátora na základe žiadosti, ak preukáže svoju totožnosť dokladom totožnosti.
+
+(15) Dopravný úrad vydá pred 18. januárom 2032 preukaz odbornej spôsobilosti – vodca plávajúceho stroja a vnútroštátnu služobnú lodnícku knižku držiteľovi preukazu odbornej spôsobilosti na funkciu vodca plávajúceho stroja II. triedy kategórie A, držiteľovi preukazu odbornej spôsobilosti na funkciu vodca plávajúceho stroja I. triedy kategórie B alebo držiteľovi preukazu odbornej spôsobilosti na funkciu vodca plávajúceho stroja II. triedy kategórie B na základe žiadosti, ak preukáže svoju totožnosť dokladom totožnosti.
+
+(16) Dopravný úrad vydá pred 18. januárom 2032 vnútroštátnu služobnú lodnícku knižku držiteľovi preukazu odbornej spôsobilosti na funkciu vodca prievoznej lode bez vlastného strojového pohonu na základe žiadosti, ak preukáže svoju totožnosť dokladom totožnosti.
+
+(17) Dopravný úrad vydá pred 18. januárom 2032 preukaz odbornej spôsobilosti – vedúci plavby na plavebných komorách Slovenskej republiky držiteľovi preukazu odbornej spôsobilosti na funkciu vedúci plavby na plavebných komorách Slovenskej republiky na základe žiadosti, ak žiadateľ preukáže svoju totožnosť dokladom totožnosti.
+
+(18) Preukazy odbornej spôsobilosti členov posádky plavidla, služobné lodnícke knižky členov posádky plavidla a lodné denníky vydané tretím štátom do 17. januára 2024 môže Dopravný úrad uznať na vodných cestách na území Slovenskej republiky do 17. januára 2032 na základe podmienok vzájomného uznávania alebo podmienok ustanovených v medzinárodných zmluvách platných do 15. januára 2018.
