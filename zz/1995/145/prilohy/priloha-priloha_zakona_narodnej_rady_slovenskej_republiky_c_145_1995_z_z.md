@@ -3374,7 +3374,15 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - na plavbu pomocou radaru alebo na získanie osobitného povolenia
 
-    - na vodných cestách námorného charakteru .................................................................. 60 eur
+    - na vodných cestách námorného charakteru alebo na získanie
+
+    - osobitného povolenia pri plavbe na vodných cestách so špecifickým
+
+    - rizikom, ktoré sú prepojené so splavnou sieťou vodných ciest iného
+
+    - členského štátu Európskej únie alebo štátu, ktorý je zmluvnou
+
+    - stranou Dohody o Európskom hospodárskom priestore ................................................ 60 eur
 
     - j) Vykonanie praktickej skúšky alebo opravnej praktickej skúšky na získanie
 
@@ -3408,9 +3416,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - preukazu odbornej spôsobilosti – vnútroštátny lodný kapitán, preukazu
 
-    - odbornej spôsobilosti – vnútroštátny lodník, preukazu odbornej
-
-    - spôsobilosti – vnútroštátny pomocný lodník, preukazu vedúceho plavby
+    - odbornej spôsobilosti – vnútroštátny lodník, preukazu vedúceho plavby
 
     - na plavebných komorách Slovenskej republiky, preukazu odbornej
 
@@ -3428,9 +3434,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - s) Vydanie lodného denníka ........................................................................................... 50 eur
 
-    - t) Schválenie simulátora ................................................................................................100 eur
+    - t) Vydanie potvrdenia o vydaní lodného denníka ............................................................10 eur
 
-    - u) Vydanie poverenia na vykonávanie výcvikového kurzu alebo vydanie
+    - u) Schválenie simulátora ................................................................................................100 eur
+
+    - v) Vydanie poverenia na vykonávanie výcvikového kurzu alebo vydanie
 
     - poverenia na vykonávanie základného bezpečnostného výcviku ..................................150 eur
 
@@ -3508,17 +3516,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - j) Vydanie duplikátu osobitného povolenia na prevádzku plavidla alebo duplikátu osobitného povolenia na prepravu plavidla | 20 eur
 
-  - k) Vydanie ciachového preukazu pre plavidlá |
+  - k) Vydanie ciachového preukazu pre plavidlá určené na prepravu nákladu | 165 eur
 
-  - 1. určené na prepravu cestujúcich alebo nákladov | 166 eur
-
-  - 2. neurčené na prepravu cestujúcich alebo nákladov | 100 eur
-
-  - l) Konanie o predĺžení platnosti ciachového preukazu alebo o vykonaní zmien v ciachovom preukaze alebo o vydaní jeho duplikátu pre plavidlá |
-
-  - 1. určené na prepravu cestujúcich alebo nákladov | 56 eur
-
-  - 2. neurčené na prepravu cestujúcich alebo nákladov | 34 eur
+  - l) Konanie o predĺžení platnosti ciachového preukazu alebo o vykonaní zmien v ciachovom preukaze alebo o vydaní jeho duplikátu pre plavidlá určené na prepravu nákladu | 55 eur
 
   - m) Zápis do registra plavidiel Slovenskej republiky |
 
@@ -3533,6 +3533,8 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - p) Konanie o zápise zmeny údajov do registra plavidiel | 30 eur
 
   - q) Konanie o pridelení jedinečného kódu výrobcu | 20 eur
+
+  - r) Vydanie kontrolnej knihy odovzdaných olejov | 25 eur
 
   - Oslobodenie Od poplatku podľa písmena o) tejto položky je oslobodený výmaz plavidla, o ktorého trvalom vyradení z prevádzky rozhodol Dopravný úrad. |
 
