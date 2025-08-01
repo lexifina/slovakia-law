@@ -1,0 +1,13 @@
+# § 21a Výkon trestu odňatia slobody uloženého v štáte pôvodu
+
+(1) Ak vyžiadaná osoba vyslovila nesúhlas s výkonom uloženého trestu odňatia slobody v štáte pôvodu podľa § 19 ods. 4, prokurátor predloží vec súdu, ktorý bezodkladne informuje justičný orgán štátu pôvodu o tejto skutočnosti a vyzve ho, aby sa v lehote 30 dní od doručenia výzvy vyjadril k odovzdaniu výkonu rozhodnutia, na základe ktorého bol vydaný európsky zatýkací rozkaz, do Slovenskej republiky a aby na tieto účely predložil osvedčenie o vydaní rozhodnutia podľa osobitného predpisu<sup>13c</sup>) a overenú kópiu vykonateľného rozhodnutia.
+
+(2) Ak justičný orgán štátu pôvodu s odovzdaním výkonu rozhodnutia, na základe ktorého bol vydaný európsky zatýkací rozkaz, do Slovenskej republiky nesúhlasí alebo ak sa justičný orgán štátu pôvodu k výzve súdu podľa odseku 1 v určenej lehote nevyjadrí, súd vráti vec prokurátorovi, ktorý pokračuje v predbežnom vyšetrovaní. Na vyjadrenie štátu pôvodu k odovzdaniu výkonu rozhodnutia do Slovenskej republiky sa po márnom uplynutí lehoty podľa odseku 1 v ďalšom konaní prihliada do prijatia rozhodnutia o výkone európskeho zatýkacieho rozkazu. O následkoch nevyhovenia výzve v určenej lehote súd informuje justičný orgán štátu pôvodu vopred v rámci výzvy podľa odseku 1.
+
+(3) Ak justičný orgán štátu pôvodu súhlasí s odovzdaním výkonu rozhodnutia, na základe ktorého bol vydaný európsky zatýkací rozkaz, do Slovenskej republiky a predloží osvedčenie o vydaní rozhodnutia podľa osobitného predpisu<sup>13c</sup>) a overenú kópiu rozhodnutia, na základe ktorého bol vydaný európsky zatýkací rozkaz, a vyžiadaná osoba je vo vydávacej väzbe, súd súčasne s rozhodnutím o väzbe vyžiadanej osoby podľa osobitného predpisu<sup>13c</sup>) rozhodne o prepustení osoby z vydávacej väzby. Súd o začatí konania o prevzatí výkonu rozhodnutia, na základe ktorého bol vydaný európsky zatýkací rozkaz, do Slovenskej republiky informuje prokurátora; predbežné vyšetrovanie sa tým prerušuje.
+
+(4) Na konanie o uznanie a výkon rozhodnutia, na základe ktorého bol vydaný európsky zatýkací rozkaz, sa použije osobitný predpis.<sup>13c</sup>)
+
+(5) Ak súd rozhodne o uznaní a výkone rozhodnutia, na základe ktorého bol vydaný európsky zatýkací rozkaz, súd o tejto skutočnosti informuje prokurátora.
+
+(6) Ak súd rozhodne o odmietnutí uznania a výkonu rozhodnutia podľa osobitného predpisu,<sup>13c</sup>) súd vráti vec prokurátorovi, ktorý pokračuje v predbežnom vyšetrovaní. Ak je vyžiadaná osoba vo väzbe podľa osobitného predpisu,<sup>13c</sup>) súd súčasne rozhodne o vydávacej väzbe vyžiadanej osoby podľa § 16 ods. 1.
