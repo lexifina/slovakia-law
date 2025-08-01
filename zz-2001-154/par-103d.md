@@ -1,0 +1,5 @@
+# § 103d
+
+(1) Prokurátorovi dočasne pridelenému na výkon práce v aktivitách krízového manažmentu mimo územia Slovenskej republiky podľa § 9c patrí plat určený podľa § 103. Služobný úrad mu vypláca tento plat v dvoch častiach. Prvá časť, tvoriaca 50 % platu, vynásobená platovým koeficientom vypočítaným podľa osobitného predpisu<sup>39</sup>) sa prokurátorovi prevedie na jeho bankový účet zriadený v krízovej oblasti po vykonaní zákonných zrážok a druhá časť, tvoriaca 50 % platu, sa prokurátorovi prevedie na jeho účet zriadený v Slovenskej republike po vykonaní zákonných zrážok.
+
+(2) Prokurátorovi patrí od prvého dňa vyslania na výkon práce v aktivitách krízového manažmentu mimo územia Slovenskej republiky popri plate prokurátora aj náhrada výdavkov uvedených v osobitnom zákone.<sup>39b</sup>) Generálna prokuratúra vypláca prokurátorovi výdavky uvedené v osobitnom zákone<sup>39b</sup>) a služobnému úradu uhrádza rozdiel medzi platom prokurátora zvýšeným podľa tohto ustanovenia a platom prokurátora pred týmto zvýšením.
