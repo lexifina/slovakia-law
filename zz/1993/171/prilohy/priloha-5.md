@@ -10,6 +10,8 @@ Príloha č. 5 k zákonu č. 171/1993 Z. z.
 
   - 4. Rámcové rozhodnutie Rady 2009/905/SVV z 30. novembra 2009 o akreditácii poskytovateľov forenzných služieb vykonávajúcich laboratórne činnosti (Ú. v. EÚ L 322, 9. 12. 2009).
 
-  - 5. Smernica Európskeho parlamentu a Rady (EÚ) 2023/977 z 10. mája 2023 o výmene informácií medzi orgánmi presadzovania práva členských štátov a zrušení rámcového rozhodnutia Rady 2006/960/SVV (Ú. v. EÚ L 134, 22. 5. 2023).
+  - 5. Smernica Európskeho parlamentu a Rady (EÚ) 2016/800 z 11. mája 2016 o procesných zárukách pre deti, ktoré sú podozrivými alebo obvinenými osobami v trestnom konaní (Ú. v. EÚ L 132, 21. 5. 2016).
 
-  - 6. Smernica Európskeho parlamentu a Rady (EÚ) 2023/2123 zo 4. októbra 2023, ktorou sa mení rozhodnutie Rady 2005/671/SVV, pokiaľ ide o jeho zosúladenie s pravidlami Únie o ochrane osobných údajov (Ú. v. EÚ L, 2023/2123, 11. 10. 2023).
+  - 6. Smernica Európskeho parlamentu a Rady (EÚ) 2023/977 z 10. mája 2023 o výmene informácií medzi orgánmi presadzovania práva členských štátov a zrušení rámcového rozhodnutia Rady 2006/960/SVV (Ú. v. EÚ L 134, 22. 5. 2023).
+
+  - 7. Smernica Európskeho parlamentu a Rady (EÚ) 2023/2123 zo 4. októbra 2023, ktorou sa mení rozhodnutie Rady 2005/671/SVV, pokiaľ ide o jeho zosúladenie s pravidlami Únie o ochrane osobných údajov (Ú. v. EÚ L, 2023/2123, 11. 10. 2023).
