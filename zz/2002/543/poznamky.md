@@ -346,6 +346,8 @@
 
 - 100ab) § 3 písm. p) zákona č. 24/2006 Z. z. v znení neskorších predpisov.
 
+- 100ac) § 5 ods. 9 písm. c) a § 22c ods. 7 zákona č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 100b) § 8 ods. 1 zákona č. 281/1997 v znení neskorších predpisov.
 
 - 101) Napríklad zákon č. 281/1997 Z. z., Trestný poriadok.
