@@ -29,3 +29,5 @@ Príloha č. 3 k zákonu č. 576/2004 Z. z.
   - 13. Smernica Rady 2001/55/ES z 20. júla 2001 o minimálnych štandardoch na poskytovanie dočasnej ochrany v prípade hromadného prílevu vysídlených osôb a o opatreniach na podporu rovnováhy úsilia medzi členskými štátmi pri prijímaní takýchto osôb a znášaní z toho vyplývajúcich dôsledkov (Mimoriadne vydanie Ú. v. EÚ, kap. 19/zv. 4; Ú. v. ES L 212, 07. 08. 2001).
 
   - 14. Smernica Európskeho parlamentu a Rady 2011/95/EÚ z 13. decembra 2011 o normách pre oprávnenie štátnych príslušníkov tretej krajiny alebo osôb bez štátneho občianstva mať postavenie medzinárodnej ochrany, o jednotnom postavení utečencov alebo osôb oprávnených na doplnkovú ochranu a o obsahu poskytovanej ochrany (prepracované znenie) (Ú. v. EÚ L 337, 20. 12. 2011).
+
+  - 15. Smernica Európskeho parlamentu a Rady (EÚ) 2016/800 z 11. mája 2016 o procesných zárukách pre deti, ktoré sú podozrivými alebo obvinenými osobami v trestnom konaní (Ú. v. EÚ L 132, 21. 5. 2016).
