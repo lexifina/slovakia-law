@@ -4,6 +4,6 @@
 
 (2) Finančná spôsobilosť dopravcu musí trvať po celý čas podnikania v medzinárodnej verejnej vodnej doprave.
 
-(3) Podkladom na zistenie finančnej spôsobilosti je účtovná závierka<sup>10</sup>) dopravcu za bezprostredne predchádzajúce účtovné obdobie overená audítorom.<sup>11</sup>) Ak sa žiadateľovi o licenciu udeľuje licencia po prvýkrát, podkladom na zistenie finančnej spôsobilosti je potvrdenie o vinkulácii peňažných prostriedkov vo výške podľa odseku 1 do dňa udelenia licencie na účte v banke alebo pobočke zahraničnej banky.
+(3) Podkladom na zistenie finančnej spôsobilosti je účtovná závierka<sup>10</sup>) dopravcu za bezprostredne predchádzajúce účtovné obdobie overená audítorom,<sup>11</sup>) alebo potvrdenie o vinkulácii peňažných prostriedkov v sume podľa odseku 1 do dňa udelenia licencie na účte v banke, pobočke zahraničnej banky alebo v notárskej úschove.
 
 (4) Finančnú spôsobilosť overuje ministerstvo z podkladov uvedených v odseku 3.

@@ -6,7 +6,7 @@
 
   - 1. ak ide o fyzickú osobu, meno a priezvisko, dátum narodenia, adresu trvalého pobytu, obchodné meno a miesto podnikania,
 
-  - 2. ak ide o právnickú osobu, názov a adresu alebo obchodné meno a sídlo, identifikačné číslo (IČO), meno, priezvisko a adresu trvalého pobytu osoby alebo osôb, ktoré sú jej štatutárnym orgánom,
+  - 2. ak ide o právnickú osobu, názov a adresu alebo obchodné meno a sídlo, identifikačné číslo organizácie (IČO), meno, priezvisko a adresu trvalého pobytu osoby alebo osôb, ktoré sú jej štatutárnym orgánom,
 
 - b) odôvodnenie žiadosti a podpis žiadateľa alebo štatutárneho orgánu žiadateľa.
 

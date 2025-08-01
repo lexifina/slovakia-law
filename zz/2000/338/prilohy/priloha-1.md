@@ -33,3 +33,7 @@ Príloha č. 1 k zákonu č. 338/2000 Z. z. v znení zákona č. 193/2007 Z. z.
   - 15. Delegovaná smernica Komisie (EÚ) 2020/12 z 2. augusta 2019, ktorou sa dopĺňa smernica Európskeho parlamentu a Rady (EÚ) 2017/2397, pokiaľ ide o normy odbornej spôsobilosti a zodpovedajúcich vedomostí a zručností, normy pre praktické skúšky, pre schvaľovanie simulátorov a pre zdravotnú spôsobilosť (Ú. v. EÚ L 6, 10. 1. 2020).
 
   - 16. Delegovaná smernica Komisie (EÚ) 2020/1833 z 2. októbra 2020, ktorou sa menia prílohy k smernici Európskeho parlamentu a Rady 2008/68/ES, pokiaľ ide o prispôsobenie vedeckému a technickému pokroku (Ú. v. EÚ L 408, 4. 12. 2020).
+
+  - 17. Delegovaná smernica Komisie (EÚ) 2022/2407 z 20. septembra 2022, ktorou sa menia prílohy k smernici Európskeho parlamentu a Rady 2008/68/ES, aby sa zohľadnil vedecký a technický pokrok (Ú. v. EÚ L 317, 9. 12. 2022).
+
+  - 18. Delegovaná smernica Komisie (EÚ) 2025/149 z 15. novembra 2024, ktorou sa menia prílohy k smernici Európskeho parlamentu a Rady 2008/68/ES, aby sa zohľadnil vedecký a technický pokrok (Ú. v. EÚ L, 2025/149, 24. 1. 2025).

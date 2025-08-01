@@ -1,12 +1,12 @@
 # § 22b
 
-(1) Technickú prehliadku plavidla, ktoré podlieha registrácii a súčasne nepodlieha povinnej klasifikácii (ďalej len „technická prehliadka malého plavidla“), vykoná Dopravný úrad alebo osoba poverená podľa odseku 4.
+(1) Technickú prehliadku plavidla, ktoré podlieha registrácii a súčasne nepodlieha povinnej klasifikácii (ďalej len „technická prehliadka malého plavidla“), a schvaľovanie technickej dokumentácie [§ 39 písm. d) prvý bod] a typovej dokumentácie [§ 39 písm. d) druhý bod] vykoná Dopravný úrad alebo osoba poverená podľa odseku 4.
 
 (2) Dopravný úrad na základe výsledkov technickej prehliadky malého plavidla rozhodne o vydaní lodného osvedčenia malého plavidla alebo predĺžení platnosti lodného osvedčenia malého plavidla. Ak technickú prehliadku malého plavidla vykoná osoba poverená podľa odseku 4, povinnou prílohou k žiadosti o vydanie lodného osvedčenia malého plavidla alebo predĺženie platnosti lodného osvedčenia malého plavidla je protokol z technickej prehliadky vydaný osobou poverenou podľa odseku 4.
 
 (3) Na účely vydania lodného osvedčenia malého plavidla alebo predĺženia platnosti lodného osvedčenia malého plavidla môže Dopravný úrad uznať doklad nie starší ako tri mesiace vydaný príslušným orgánom iného členského štátu, alebo tretieho štátu, ktorý preukazuje, že plavidlo spĺňa požiadavky na technickú spôsobilosť.
 
-(4) Vykonávaním technickej prehliadky malého plavidla poverí Dopravný úrad na základe písomnej žiadosti fyzickú osobu – podnikateľa, ktorá má bydlisko na území členského štátu, alebo právnickú osobu, ktorá má sídlo, podnik alebo organizačnú zložku podniku umiestnenú na území členského štátu, ak
+(4) Vykonávaním technickej prehliadky malého plavidla a schvaľovaním technickej dokumentácie [§ 39 písm. d) prvý bod] a typovej dokumentácie [§ 39 písm. d) druhý bod] poverí Dopravný úrad na základe písomnej žiadosti fyzickú osobu – podnikateľa, ktorá má bydlisko na území členského štátu, alebo právnickú osobu, ktorá má sídlo, podnik alebo organizačnú zložku podniku umiestnenú na území členského štátu, ak
 
 - a) predloží osvedčený preklad výpisu z obdobného registra, akým je obchodný register alebo živnostenský register vedený v cudzom štáte nie starší ako tri mesiace,
 

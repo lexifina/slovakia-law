@@ -12,7 +12,7 @@
 
 (2) Dopravný úrad môže členovi posádky plavidla, ktorý je cudzincom, uložiť na území Slovenskej republiky zákaz činnosti, na ktorú je odborne spôsobilý, rozhodnutím v správnom konaní na dobu jedného roka, ak porušil povinnosti vyplývajúce z tohto zákona alebo ak tieto povinnosti hrubo a opakovane porušuje.
 
-(3) Dopravný úrad uloží pokutu od 330 eur do 6 635 eur
+(3) Dopravný úrad uloží pokutu od 600 eur do 20 000 eur
 
 - a) prevádzkovateľovi plavidla, ak porušil povinnosti ustanovené v tomto zákone (§ 22 až 23, § 24 ods. 10, § 26 a 27, § 28 ods. 2, 3 a 6, § 29 ods. 8 a § 39c ods. 4),
 
@@ -34,7 +34,7 @@
 
 - j) prevádzkovateľovi plavidla, ak porušil povinnosti týkajúce sa zápisu a zmeny údajov v registri plavidiel,
 
-- k) fyzickej osobe alebo právnickej osobe, ktorá svojou činnosťou a porušením tohto zákona, pravidiel bezpečnosti prevádzky plavidla na vodných cestách, plavebného opatrenia alebo pokynu Dopravného úradu ohrozila bezpečnosť alebo plynulosť plavebnej prevádzky alebo spôsobila plavebnú nehodu,
+- k) osobe, ktorá vykonáva individuálnu stavbu malého plavidla, ktoré podlieha registrácii a zároveň nepodlieha povinnej klasifikácii bez súhlasu Dopravného úradu,
 
 - l) osobe poverenej vykonávaním kvalifikačného kurzu, ktorá porušila povinnosti pri vykonávaní kvalifikačného kurzu alebo vykonáva kvalifikačný kurz v rozpore s týmto zákonom alebo súvisiacimi všeobecne záväznými právnymi predpismi,
 
@@ -48,9 +48,15 @@
 
 - q) osobe, ktorá vykonáva základný bezpečnostný výcvik bez poverenia na vykonávanie základného bezpečnostného výcviku vydaného Dopravným úradom,
 
-- r) osobe poverenej vykonávaním základného bezpečnostného výcviku, ktorá porušila povinnosti pri vykonávaní základného bezpečnostného výcviku alebo vykonáva základný bezpečnostný výcvik v rozpore s týmto zákonom alebo súvisiacimi všeobecne záväznými právnymi predpismi.
+- r) osobe poverenej vykonávaním základného bezpečnostného výcviku, ktorá porušila povinnosti pri vykonávaní základného bezpečnostného výcviku alebo vykonáva základný bezpečnostný výcvik v rozpore s týmto zákonom alebo súvisiacimi všeobecne záväznými právnymi predpismi,
 
-(4) Dopravný úrad uloží pokutu od 100 eur do 1 660 eur
+- s) prevádzkovateľovi malého plavidla podľa § 31 ods. 1 prvej vety, ak malé plavidlo viedla osoba mladšia ako 15 rokov,
+
+- t) prevádzkovateľovi plavidla, na ktorom bol prekročený maximálny povolený počet prepravovaných osôb uvedený v lodnom osvedčení plavidla o viac ako dve osoby,
+
+- u) osobe, ktorá poruší povinnosť ustanovenú v § 39e ods. 2.
+
+(4) Dopravný úrad uloží pokutu od 200 eur do 3 500 eur
 
 - a) správcovi vodného toku, vodcovi plavidla alebo Slovenskému hydrometeorologickému ústavu, ak neposkytne Dopravnému úradu informácie podľa § 39b ods. 2,
 
@@ -58,7 +64,7 @@
 
 - c) prevádzkovateľovi plavidla, ak porušil povinnosti ustanovené v § 28 ods. 3, 4 a 6.
 
-(5) Dopravný úrad uloží prevádzkovateľovi plavidla pokutu od 1 000 eur do 10 000 eur, ak do troch rokov od uloženia sankcie opakovane naplní znaky skutkovej podstaty podľa odseku 3 písm. g).
+(5) Dopravný úrad uloží prevádzkovateľovi plavidla pokutu od 2 000 eur do 20 000 eur, ak do troch rokov od uloženia sankcie opakovane naplní znaky skutkovej podstaty podľa odseku 3 písm. g). Dopravný úrad uloží prevádzkovateľovi plavidla pokutu od 2 000 eur do 50 000 eur, ak do dvoch rokov od uloženia sankcie opakovane naplní znaky skutkovej podstaty podľa odseku 3 písm. a), t) alebo písm. u).
 
 (6) Ministerstvo uloží pokutu od 1 000 eur do 10 000 eur dopravcovi, ak vykonával verejnú vodnú dopravu bez licencie (§ 12 ods. 4).
 

@@ -20,7 +20,7 @@
 
 - i) zadržať plavidlo alebo iné veci na účely získania dôkazu,
 
-- j) používať technické prostriedky na zhotovenie fotodokumentácie, videodokumentácie a zvukových záznamov potrebných na zdokumentovanie protiprávnych konaní,<sup>24d</sup>)
+- j) používať technické prostriedky na zhotovenie obrazového, zvukového alebo obrazovo-zvukového záznamu (ďalej len „záznam“),
 
 - k) vyžadovať potrebnú súčinnosť,
 
@@ -46,7 +46,7 @@
 
 - d) strpieť zadržanie plavidla a iných vecí potrebných na získanie dôkazov,
 
-- e) umožniť používanie technických prostriedkov na zhotovenie fotodokumentácie, videodokumentácie a zvukových záznamov potrebných na zdokumentovanie protiprávnych konaní,<sup>24d</sup>)
+- e) umožniť používanie technických prostriedkov na zhotovenie záznamu,
 
 - f) vykonať opatrenia uložené na odstránenie zistených nedostatkov,
 
@@ -57,3 +57,19 @@
 - i) umožniť nahliadnuť do plavebnej dokumentácie a dokumentácie kvalifikačného kurzu, dokumentácie výcvikového kurzu alebo dokumentácie základného bezpečnostného výcviku, poskytnúť potrebnú súčinnosť, potrebné dokumenty, informácie a vysvetlenia,
 
 - j) vykonať pokyny uložené plavebným inšpektorom na účely zabránenia ohrozenia bezpečnosti vo vnútrozemskej plavbe, ak tým neohrozia svoj život alebo zdravie, prípadne život alebo zdravie iných osôb; škody alebo náklady, ktoré takým osobám v súvislosti s plnením pokynu plavebného inšpektora vznikli, znáša ten, kto hroziace nebezpečenstvo spôsobil.
+
+(3) Plavebný inšpektor je pri výkone štátneho odborného dozoru oprávnený vyhotovovať a využívať záznam a je povinný uchovávať záznam z výkonu štátneho odborného dozoru
+
+- a) ak kontrolovaná osoba marí alebo ohrozuje výkon štátneho odborného dozoru a dopúšťa sa priestupku alebo iného protiprávneho konania, alebo je dôvodná obava, že sa takéhoto konania môže dopustiť,
+
+- b) pri kontrole na požitie alkoholických nápojov, omamných látok, psychotropných látok, jedov alebo prekurzorov.
+
+(4) Dopravný úrad je oprávnený spracúvať osobné údaje v rozsahu meno, priezvisko, dátum narodenia, rodné číslo a kontaktné údaje v rozsahu adresa na doručovanie písomností, telefónne číslo a e-mailová adresa na plnenie jeho úloh.
+
+(5) Ak Dopravný úrad preverovaním alebo počas spracúvania osobných údajov zistí, že osobné údaje nie sú potrebné na plnenie úloh Dopravného úradu, bezodkladne ich vymaže.
+
+(6) O uchovávaní záznamu na účel podľa odseku 3 je dotknutá osoba informovaná.
+
+(7) Uchovaný záznam a údaje v rozsahu miesto, čas a dátum záznamu sa vymažú po uplynutí jedného roka od ich vzniku, ak nie sú použité ako dôkazné prostriedky v správnom konaní alebo trestnom konaní.
+
+(8) Záznam podľa odseku 3 Dopravný úrad poskytuje a sprístupňuje na základe odôvodnenej písomnej žiadosti orgánom činným v trestnom konaní, súdu, Policajnému zboru, okresnému úradu na úseku štátnej správy starostlivosti o životné prostredie, Slovenskej inšpekcii životného prostredia a Slovenskej obchodnej inšpekcii v rozsahu nevyhnutnom na plnenie ich úloh podľa osobitného predpisu. O každom poskytnutí osobných údajov sa vyhotoví úradný záznam. Záznam sa zakazuje zverejňovať.

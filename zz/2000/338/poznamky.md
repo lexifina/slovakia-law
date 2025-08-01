@@ -120,7 +120,7 @@
 
 - 12df) § 54 zákona č. 435/2000 Z. z. v znení neskorších predpisov.
 
-- 12e) Zákon č. 505/2009 Z. z. o akreditácii orgánov posudzovania zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 12e) Zákon č. 53/2023 Z. z. o akreditácii orgánov posudzovania zhody.
 
 - 12f) Čl. 8 nariadenia Európskeho parlamentu a Rady (ES) č. 765/2008 z 9. júla 2008, ktorým sa stanovujú požiadavky akreditácie a dohľadu nad trhom v súvislosti s uvádzaním výrobkov na trh a ktorým sa zrušuje nariadenie (EHS) č. 339/93 (Ú. v. EÚ L 218, 13. 8. 2008).
 
@@ -140,9 +140,11 @@
 
 - 13aa) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
 
-- 13ab) § 16 ods. 7 nariadenia vlády Slovenskej republiky č. 193/2009 Z. z. v znení nariadenia vlády Slovenskej republiky č. 416/2009 Z. z.
+- 13ab) § 10 ods. 1 nariadenia vlády Slovenskej republiky č. 342/2018 Z. z. o technickej spôsobilosti plavidiel prevádzkovaných na vnútrozemských vodných cestách.
 
-- 13ad) § 23 zákona č. 56/2018 Z. z.
+- 13ad) § 23 zákona č. 56/2018 Z. z. o posudzovaní zhody výrobku, sprístupňovaní určeného výrobku na trhu a o zmene a doplnení niektorých zákonov.
+
+- Nariadenie vlády Slovenskej republiky č. 77/2016 Z. z. v znení nariadenia vlády Slovenskej republiky č. 329/2019 Z. z.
 
 - 13ae) Nariadenie Európskeho parlamentu a Rady (EÚ) 2018/1862 z 28. novembra 2018 o zriadení, prevádzke a využívaní Schengenského informačného systému (SIS) v oblasti policajnej spolupráce a justičnej spolupráce v trestných veciach, o zmene a zrušení rozhodnutia Rady 2007/533/SVV a o zrušení nariadenia Európskeho parlamentu a Rady (ES) č. 1986/2006 a rozhodnutia Komisie 2010/261/EÚ (Ú. v. EÚ L 312, 7. 12. 2018) v platnom znení.
 
@@ -182,7 +184,7 @@
 
 - 17) Napríklad STN EN ISO 9001 Systémy manažérstva kvality. Požiadavky (ISO 9001) (01 0320).
 
-- 17a) Príloha č. 2 Skupina 214 – Ostatné zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+- 17a) § 4 a 81 zákona č. 440/2015 Z. z. o športe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 17aa) § 60 ods. 3 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
@@ -251,8 +253,6 @@
 - 24ca) Vykonávacie nariadenie (EÚ) č. 2019/838.
 
 - 24cb) § 5 zákona Národnej rady Slovenskej republiky č. 219/1996 Z. z. o ochrane pred zneužívaním alkoholických nápojov a o zriaďovaní a prevádzke protialkoholických záchytných izieb v znení neskorších predpisov.
-
-- 24d) Zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení zákona č. 418/2002 Z. z. Trestný poriadok.
 
 - 24e) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 

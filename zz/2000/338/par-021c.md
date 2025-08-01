@@ -10,7 +10,7 @@
 
 (3) Žiadosť obsahuje najmä
 
-- a) obchodné meno, miesto podnikania alebo sídlo, identifikačné číslo žiadateľa, údaje o štatutárnom orgáne,
+- a) obchodné meno, miesto podnikania alebo sídlo, identifikačné číslo organizácie, údaje o štatutárnom orgáne,
 
 - b) účel, na ktorý sa dotácia žiada,
 

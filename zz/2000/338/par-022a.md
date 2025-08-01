@@ -12,7 +12,7 @@
 
 (6) Sľub členov stálej odbornej komisie, spôsob rozhodovania a činnosť stálej odbornej komisie upraví štatút, ktorý vydá ministerstvo.
 
-(7) Vykonávaním technickej prehliadky plavidla, ktoré podlieha registrácii a súčasne podlieha povinnej klasifikácii, poverí ministerstvo právnickú osobu, ak
+(7) Vykonávaním technickej prehliadky plavidla, ktoré podlieha registrácii a súčasne podlieha povinnej klasifikácii, poverí ministerstvo právnickú osobu, ktorá má sídlo, podnik alebo organizačnú zložku podniku umiestnenú na území členského štátu, ak
 
 - a) písomne požiada o poverenie vykonávať technické prehliadky plavidiel podľa osobitného predpisu,
 

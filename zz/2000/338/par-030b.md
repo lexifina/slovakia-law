@@ -2,7 +2,7 @@
 
 (1) Simulátory používané na praktickej skúške na posudzovanie odbornej spôsobilosti schvaľuje Dopravný úrad na základe žiadosti, v ktorej žiadateľ uvedie
 
-- a) kontaktné údaje, ak ide o fyzickú osobu – podnikateľa meno, priezvisko a miesto podnikania fyzickej osoby, ak ide o právnickú osobu názov a sídlo právnickej osoby a identifikačné číslo, ak jej bolo pridelené,
+- a) kontaktné údaje, ak ide o fyzickú osobu – podnikateľa meno, priezvisko a miesto podnikania fyzickej osoby, ak ide o právnickú osobu názov a sídlo právnickej osoby a identifikačné číslo organizácie, ak jej bolo pridelené,
 
 - b) na aké posúdenie odbornej spôsobilosti žiada simulátor schváliť, a to na
 
