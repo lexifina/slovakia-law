@@ -1,0 +1,1 @@
+Príloha č. 8 k vyhláške č. 51/2025 Z. z. [Rozsah odkázanosti fyzickej osoby na pomoc inej fyzickej osoby na základe stupňa odkázanosti](../assets/0b9514697e27253391b69e5777b72bc73a8b5be45655b215a0dc8a5f96ba1178.pdf)

@@ -1,0 +1,1 @@
+Príloha č. 7 k vyhláške č. 51/2025 Z. z. [Činnosti, pri ktorých sa posudzuje odkázanosť fyzickej osoby na osobnú asistenciu](../assets/bde44a5a243a3178b1e88aad6d6f89650f58364a5b38d83a5f60847c12a3685f.pdf)
