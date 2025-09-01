@@ -16,11 +16,13 @@
 
 - 3a) § 21 ods. 2 a § 37 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
 
+- 3b) Zákon č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
+
+- 3c) Napríklad § 226 ods. 2 Obchodného zákonníka, zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov, zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov, zákon č. 281/2015 Z. z. o štátnej službe profesionálnych vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 35/2019 Z. z. o finančnej správe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 3d) § 10 ods. 8 zákona č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 4) Obchodný zákonník.
-
-- 5) Zákon č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
-
-- 6) Napríklad § 226 ods. 2 Obchodného zákonníka, zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov, zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov, zákon č. 281/2015 Z. z. o štátnej službe profesionálnych vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 35/2019 Z. z. o finančnej správe a o zmene a doplnení niektorých zákonov.
 
 - 8) Zákon č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností v znení neskorších predpisov.
 
@@ -84,7 +86,7 @@
 
 - 21) Zákon č. 283/2002 Z. z. o cestovných náhradách.
 
-- 21a) § 63 ods. 1 zákona č. 447/2008 Z. z. v znení zákona č. 180/2011 Z. z.
+- 21a) § 19 ods. 2 zákona č. 376/2024 Z. z. o integrovanej posudkovej činnosti a o zmene a doplnení niektorých zákonov.
 
 - 22) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) (Ú. v. EÚ L 119/1, 4. 5. 2016).
 
@@ -102,9 +104,9 @@
 
 - 22da) § 30 ods. 4 zákona č. 404/2011 Z. z.
 
-- 22db) § 38 ods. 5 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
+- 22db) § 38 ods. 5 a § 40 ods. 5 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
 
-- 22dc) § 32 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
+- 22dc) § 32 a § 34 ods. 2 a 3 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
 
 - 22e) § 58 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
 
@@ -180,6 +182,8 @@
 
 - Zákon č. 184/2009 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 28aa) § 23 ods. 2, § 24 a § 34 ods. 1 písm. b) zákona č. 404/2011 Z. z. v znení neskorších predpisov.
+
 - 28b) Zákon č. 57/2018 Z. z. o regionálnej investičnej pomoci a o zmene a doplnení niektorých zákonov.
 
 - 28c) § 3 zákona č. 175/1999 Z. z. o niektorých opatreniach týkajúcich sa prípravy významných investícií a o doplnení niektorých zákonov v znení zákona č. 219/2013 Z. z.
@@ -195,8 +199,6 @@
 - 28h) § 2 ods. 1 písm. f) zákona č. 404/2011 Z. z. v znení zákona č. 82/2017 Z. z.
 
 - 28i) § 5 písm. c) zákona č. 57/2018 Z. z.
-
-- 28j) § 33 ods. 8, § 34 ods. 16 a § 40 ods. 7 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
 
 - 29) Zákon č. 480/2002 Z. z. v znení neskorších predpisov.
 
@@ -214,8 +216,6 @@
 
 - 32a) § 10 ods. 4 zákona č. 330/2007 Z. z. v znení zákona č. 91/2016 Z. z.
 
-- 33) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
-
 - 33a) § 149 a 239 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
 
 - 35a) § 5 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
@@ -232,7 +232,11 @@
 
 - 35da) § 12 zákona č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zmene a doplnení niektorých zákonov.
 
+- 35daa) Vyhláška Štatistického úradu Slovenskej republiky č. 449/2020 Z. z., ktorou sa vydáva štatistická klasifikácia zamestnaní.
+
 - 35db) § 60 ods. 3 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
+
+- 35dc) § 10 zákona č. 417/2013 Z. z. v znení neskorších predpisov.
 
 - 35e) Zákon č. 272/2016 Z. z. o dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zmene a doplnení niektorých zákonov (zákon o dôveryhodných službách).
 
@@ -290,7 +294,7 @@
 
 - 47) Zákon č. 336/2015 Z. z. o podpore najmenej rozvinutých okresov a o zmene a doplnení niektorých zákonov v znení zákona č. 378/2016 Z. z.
 
-- 49) Zákon č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 49) § 20a zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
 - 49a) § 71 a 263 zákona č. 461/2003 Z. z.
 
@@ -313,6 +317,8 @@
 - 60aa) Napríklad § 26 zákona č. 55/2017 Z. z.
 
 - 60b) § 13 zákona č. 455/1991 Zb. v znení neskorších predpisov.
+
+- 60ba) Zákon č. 563/2009 Z. z. v znení neskorších predpisov.
 
 - 60c) § 51 a 853 Občianskeho zákonníka.
 
@@ -366,6 +372,8 @@
 
 - 63ac) § 19 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 63ad) § 6a zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov v znení zákona č. 125/2022 Z. z.
+
 - 64) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
 
 - 65) § 75 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
@@ -375,5 +383,3 @@
 - 67) § 73 ods. 18 druhá veta zákona č. 404/2011 Z. z. v znení neskorších predpisov.
 
 - 68) § 2a ods. 2 zákona č. 82/2005 Z. z. v znení neskorších predpisov.
-
-- 69) Vyhláška Štatistického úradu Slovenskej republiky č. 449/2020 Z. z., ktorou sa vydáva štatistická klasifikácia zamestnaní.

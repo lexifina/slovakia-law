@@ -52,7 +52,9 @@
 
   - 1. vykonáva činnosť agentúry dočasného zamestnávania najmenej tri roky pred podaním žiadosti podľa odseku 2,
 
-  - 2. predložila úradu kópiu dohody o dočasnom pridelení zamestnancov medzi agentúrou dočasného zamestnávania a užívateľským zamestnávateľom, ak si ju úrad vyžiadal.
+  - 2. predložila úradu kópiu dohody o dočasnom pridelení zamestnancov medzi agentúrou dočasného zamestnávania a užívateľským zamestnávateľom, ak si ju úrad vyžiadal,
+
+- e) dočasné pridelenie je prvým opätovným dočasným pridelením a za najmenej rovnako priaznivých mzdových podmienok ako pri skončenom dočasnom pridelení, ak ide o štátneho príslušníka tretej krajiny podľa § 21 ods. 4 tretej vety.
 
 (5) Ak ide o sezónne zamestnanie alebo vnútropodnikový presun, podmienkou na vydanie potvrdenia o možnosti obsadenia voľného pracovného miesta, ktoré obsahuje súhlas s jeho obsadením, je aj,
 
@@ -84,7 +86,7 @@
 
 (8) Potvrdenie o možnosti obsadenia voľného pracovného miesta, ktoré obsahuje súhlas s jeho obsadením, podľa odseku 1 písm. a) sa vydáva na obdobie, počas ktorého by mali zamestnanie, dočasné pridelenie, ak ide o štátneho príslušníka tretej krajiny podľa § 21 ods. 4 druhej vety, alebo vnútropodnikový presun trvať, najviac však na
 
-- a) 180 dní počas 12 po sebe nasledujúcich mesiacov, ak ide o sezónne zamestnanie,
+- a) 240 dní počas 12 po sebe nasledujúcich mesiacov, ak ide o sezónne zamestnanie,
 
 - b) jeden rok, ak ide o štátneho príslušníka tretej krajiny s vysokoškolským vzdelaním, ktorý v rámci vnútropodnikového presunu vykonáva odbornú prípravu (stáž) na účely profesionálneho rastu alebo získania vedomostí v oblasti manažmentu podnikania,
 
@@ -96,7 +98,7 @@
 
 (9) Potvrdenie o možnosti obsadenia voľného pracovného miesta, ktoré obsahuje súhlas s jeho obsadením, podľa
 
-- a) odseku 1 písm. b) sa vydáva na obdobie, počas ktorého by malo zamestnanie trvať, najviac však na obdobie, na ktoré je udelený prechodný pobyt na účel zamestnania,
+- a) odseku 1 písm. b) sa vydáva na obdobie, počas ktorého by malo zamestnanie alebo dočasné pridelenie, ak ide o štátneho príslušníka tretej krajiny podľa § 21 ods. 4 tretej vety, trvať, najviac však na obdobie, na ktoré je udelený prechodný pobyt na účel zamestnania,
 
 - b) odseku 1 písm. c) sa vydáva na obdobie, počas ktorého by malo zamestnanie trvať, najviac však na obdobie, na ktoré je vydaná modrá karta.
 
@@ -114,7 +116,7 @@
 
 - a) bolo kontrolnou činnosťou podľa § 68 zistené porušenie všeobecne záväzných právnych predpisov, pričom prihliada na závažnosť zistených nedostatkov a závažnosť ich následkov a opakované zistenie toho istého nedostatku, alebo
 
-- b) štátny príslušník tretej krajiny nenastúpil do zamestnania do siedmich pracovných dní odo dňa dohodnutého ako deň nástupu do práce.
+- b) štátny príslušník tretej krajiny nenastúpil do zamestnania do siedmich pracovných dní odo dňa dohodnutého ako deň nástupu do práce alebo štátny príslušník tretej krajiny nenastúpil na výkon práce u užívateľského zamestnávateľa do siedmich pracovných dní odo dňa dohodnutého ako deň nástupu dočasne prideleného zamestnanca na výkon práce u užívateľského zamestnávateľa, ak ide o štátneho príslušníka tretej krajiny podľa § 21 ods. 4 druhej vety.
 
 (14) Úrad, ktorý potvrdenie o možnosti obsadenia voľného pracovného miesta vydal, zruší toto potvrdenie, ak
 
@@ -124,7 +126,7 @@
 
 - c) zamestnávateľovi alebo užívateľskému zamestnávateľovi, ak ide o sezónne zamestnanie, alebo hostiteľskému subjektu bola uložená pokuta uvedená v odseku 5 písm. a) druhom bode,
 
-- d) agentúre dočasného zamestnávania bola pozastavená činnosť agentúry dočasného zamestnávania alebo bolo zrušené povolenie na vykonávanie činnosti agentúry dočasného zamestnávania podľa § 31 ods. 2, ak ide o štátneho príslušníka tretej krajiny podľa § 21 ods. 4 druhej vety,
+- d) agentúre dočasného zamestnávania bola pozastavená činnosť agentúry dočasného zamestnávania alebo bolo zrušené povolenie na vykonávanie činnosti agentúry dočasného zamestnávania, ak ide o štátneho príslušníka tretej krajiny podľa § 21 ods. 4 druhej vety,
 
 - e) dočasné pridelenie štátneho príslušníka tretej krajiny podľa § 21 ods. 4 druhej vety k užívateľskému zamestnávateľovi skončilo pred uplynutím obdobia, na ktoré bolo toto potvrdenie vydané,
 

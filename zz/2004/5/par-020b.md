@@ -8,4 +8,4 @@
 
 (4) Pri kontrole dodržiavania liečebného režimu uchádzača o zamestnanie počas jeho dočasnej pracovnej neschopnosti určený zamestnanec úradu môže spolupracovať s ošetrujúcim lekárom alebo s posudkovým lekárom.
 
-(5) Určený zamestnanec úradu uvedie na potvrdení o dočasnej pracovnej neschopnosti uchádzača o zamestnanie údaje o čase a mieste vykonanej kontroly dodržiavania liečebného režimu, potvrdí ich svojím podpisom a zistené porušenie dodržiavania liečebného režimu oznámi ošetrujúcemu lekárovi.
+(5) Určený zamestnanec úradu zaznamená údaje o čase a mieste vykonanej kontroly dodržiavania liečebného režimu uchádzača o zamestnanie, potvrdí ich svojím podpisom a zistené porušenie dodržiavania liečebného režimu oznámi ošetrujúcemu lekárovi.

@@ -1,6 +1,6 @@
 Príloha č. 2 k zákonu č. 5/2004 Z. z.
 
-- ZOZNAM DOKLADOV, KTORÉ SÚ SÚČASŤOU ŽIADOSTI O ZARADENIE DO EVIDENCIE UCHÁDZAČOV O ZAMESTNANIE, A DOKLADOV, KTORÉ UCHÁDZAČ O ZAMESTNANIE PREDKLADÁ NA ÚČELY SPROSTREDKOVANIA ZAMESTNANIA
+- ZOZNAM DOKLADOV, KTORÉ SÚ SÚČASŤOU ŽIADOSTI O ZARADENIE DO EVIDENCIE UCHÁDZAČOV O ZAMESTNANIE, A DOKLADOV, KTORÉ UCHÁDZAČ O ZAMESTNANIE A OSOBA V HMOTNEJ NÚDZI PREDKLADÁ NA ÚČELY SPROSTREDKOVANIA ZAMESTNANIA
 
   - A. Súčasťou žiadosti o zaradenie do evidencie uchádzačov o zamestnanie podľa § 34 ods. 2 sú tieto doklady:
 
@@ -20,7 +20,7 @@ Príloha č. 2 k zákonu č. 5/2004 Z. z.
 
     - h) potvrdenie o prepustení z väzby a potvrdenie o prepustení z výkonu trestu odňatia slobody.
 
-  - B. Uchádzač o zamestnanie na účely sprostredkovania zamestnania predkladá tieto doklady:
+  - B. Uchádzač o zamestnanie a osoba v hmotnej núdzi na účely sprostredkovania zamestnania predkladá tieto doklady:
 
     - a) rozhodnutie alebo oznámenie o poklese schopnosti vykonávať zárobkovú činnosť alebo posudok útvaru sociálneho zabezpečenia vydaný podľa osobitného predpisu,<sup>14</sup>) ak občan uvedený doklad má vydaný,
 

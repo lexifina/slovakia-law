@@ -54,7 +54,7 @@ Príloha č. 1 k zákonu č. 5/2004 Z. z.
 
       - 1. názov zamestnávateľa,
 
-      - 2. názov a kód zamestnania podľa štatistickej klasifikácie zamestnaní,<sup>69</sup>)
+      - 2. názov a kód zamestnania podľa štatistickej klasifikácie zamestnaní,
 
       - 3. dátum začatia a dátum skončenia pracovnoprávneho vzťahu alebo obdobného pracovného vzťahu,
 
@@ -152,13 +152,7 @@ Príloha č. 1 k zákonu č. 5/2004 Z. z.
 
     - g) dátum založenia, dátum zrušenia,
 
-    - h) druh vlastníctva,
-
-    - i) typ zriaďovateľa (v prípade chránenej dielne alebo chráneného pracoviska),
-
-    - j) oblasti podnikania,
-
-    - k) bankové spojenie.
+    - h) oblasti podnikania,
 
   - D. Evidencia zamestnávania občanov členských štátov Európskej únie a ich rodinných príslušníkov a štátnych príslušníkov tretích krajín a ich rodinných príslušníkov podľa § 41a obsahuje tieto údaje:
 
@@ -214,7 +208,41 @@ Príloha č. 1 k zákonu č. 5/2004 Z. z.
 
       - 8. kontaktné údaje (telefónne číslo, e-mail).
 
-  - E. Sociálna poisťovňa poskytuje podľa § 67 ods. 6 ústrediu tieto údaje o fyzických osobách a právnických osobách zo svojho informačného systému:
+  - E. Evidencia osôb v hmotnej núdzi podľa § 41b obsahuje tieto údaje:
+
+    - a) identifikačné údaje, a to
+
+      - 1. meno, priezvisko, titul, rodné priezvisko,
+
+      - 2. adresa pobytu,
+
+      - 3. rodné číslo alebo dátum narodenia, ak rodné číslo nie je pridelené,
+
+      - 4. kontaktné údaje (telefónne číslo, e-mail),
+
+    - b) údaje o kvalifikácii, odborných zručnostiach, a to
+
+      - 1. dosiahnutý stupeň vzdelania, názov školy alebo škôl, absolvovaný študijný odbor alebo učebný odbor, dátum začatia a dátum skončenia štúdia, spôsob skončenia štúdia,
+
+      - 2. jazykové znalosti,
+
+      - 3. vodičské oprávnenie,
+
+      - 4. platné osvedčenia, ďalšia odborná príprava,
+
+      - 5. znalosti a zručnosti,
+
+    - c) percentuálna miera poklesu schopnosti vykonávať zárobkovú činnosť,
+
+    - d) údaje o osobných a rodinných pomeroch súvisiacich so sprostredkovaním zamestnania, a to
+
+      - 1. meno, priezvisko, rodné číslo, zdravotné obmedzenie nezaopatreného dieťaťa,
+
+      - 2. údaje o manželke alebo manželovi – meno, priezvisko, adresa pobytu, miesto výkonu zamestnania, zmennosť zamestnania,
+
+    - e) ďalšie údaje, ktoré sú v súlade s účelom spracovania a sú nevyhnutné na účel poskytovania služieb zamestnanosti.
+
+  - F. Sociálna poisťovňa poskytuje podľa § 67 ods. 6 ústrediu tieto údaje o fyzických osobách a právnických osobách zo svojho informačného systému:
 
     - a) meno a priezvisko,
 
@@ -232,9 +260,11 @@ Príloha č. 1 k zákonu č. 5/2004 Z. z.
 
     - h) percentuálna miera poklesu schopnosti vykonávať zárobkovú činnosť,
 
-    - i) názov a identifikačné číslo zamestnávateľa.
+    - i) údaj o dovŕšení veku potrebného na nárok na starobný dôchodok podľa osobitného predpisu,<sup>15</sup>)
 
-  - F. Ústav informácií a prognóz školstva poskytuje podľa § 67 ods. 8 ústrediu tieto osobné údaje o absolventoch stredných škôl a vysokých škôl:
+    - j) názov a identifikačné číslo zamestnávateľa.
+
+  - G. Ministerstvo školstva poskytuje podľa § 67 ods. 8 ústrediu tieto osobné údaje o absolventoch stredných škôl a vysokých škôl:
 
     - a) rodné číslo žiaka alebo študenta,
 
@@ -262,7 +292,7 @@ Príloha č. 1 k zákonu č. 5/2004 Z. z.
 
     - m) druh štúdia absolventa.
 
-  - G. Úrad pre dohľad nad zdravotnou starostlivosťou poskytuje podľa § 67 ods. 9 ústrediu tieto osobné údaje z centrálneho registra poistencov:
+  - H. Úrad pre dohľad nad zdravotnou starostlivosťou poskytuje podľa § 67 ods. 9 ústrediu tieto osobné údaje z centrálneho registra poistencov:
 
     - a) číslo pobočky zdravotnej poisťovne,
 
@@ -276,7 +306,7 @@ Príloha č. 1 k zákonu č. 5/2004 Z. z.
 
     - f) miesto trvalého pobytu alebo prechodného pobytu poistenca.
 
-  - H. Ministerstvo vnútra Slovenskej republiky poskytuje podľa § 67 ods. 10 ústrediu tieto osobné údaje zo živnostenského registra:
+  - I. Ministerstvo vnútra Slovenskej republiky poskytuje podľa § 67 ods. 10 ústrediu tieto osobné údaje zo živnostenského registra:
 
     - a) obchodné meno fyzickej osoby,
 
@@ -288,7 +318,7 @@ Príloha č. 1 k zákonu č. 5/2004 Z. z.
 
     - e) predmet činnosti fyzickej osoby.
 
-  - I. Evidencia fyzických osôb, ktorým sprostredkovateľ sprostredkoval zamestnanie za úhradu, podľa § 28 písm. a) obsahuje tieto údaje:
+  - J. Evidencia fyzických osôb, ktorým sprostredkovateľ sprostredkoval zamestnanie za úhradu, podľa § 28 písm. a) obsahuje tieto údaje:
 
     - a) meno a priezvisko,
 
@@ -316,7 +346,7 @@ Príloha č. 1 k zákonu č. 5/2004 Z. z.
 
     - m) dátum skutočného nástupu do sprostredkovaného zamestnania a dĺžka trvania sprostredkovaného zamestnania.
 
-  - J. Evidencia dočasných agentúrnych zamestnancov podľa § 31 ods. 1 písm. f) obsahuje tieto údaje:
+  - K. Evidencia dočasných agentúrnych zamestnancov podľa § 31 ods. 1 písm. f) obsahuje tieto údaje:
 
     - a) meno a priezvisko,
 
@@ -340,7 +370,7 @@ Príloha č. 1 k zákonu č. 5/2004 Z. z.
 
     - k) dátum predčasného ukončenia dočasného pridelenia.
 
-  - K. Evidencia občanov so zdravotným postihnutím, dlhodobo nezamestnaných občanov a zamestnávateľov, ktorým agentúra podporovaného zamestnávania poskytuje služby, podľa § 58 ods. 13 písm. c) obsahuje tieto údaje:
+  - L. Evidencia občanov so zdravotným postihnutím, dlhodobo nezamestnaných občanov a zamestnávateľov, ktorým agentúra podporovaného zamestnávania poskytuje služby, podľa § 58 ods. 13 písm. c) obsahuje tieto údaje:
 
     - a) osobné údaje občanov so zdravotným postihnutím a dlhodobo nezamestnaných občanov, a to:
 
@@ -376,7 +406,7 @@ Príloha č. 1 k zákonu č. 5/2004 Z. z.
 
       - 2. druh a počet poskytnutých služieb za určené obdobie.
 
-  - L. Evidencia zamestnancov, ktorí sú občanmi so zdravotným postihnutím, podľa § 63 ods. 1 písm. c) obsahuje tieto údaje:
+  - M. Evidencia zamestnancov, ktorí sú občanmi so zdravotným postihnutím, podľa § 63 ods. 1 písm. c) obsahuje tieto údaje:
 
     - a) meno a priezvisko,
 

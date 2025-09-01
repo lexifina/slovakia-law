@@ -54,7 +54,7 @@
 
 - s) ktorý vykonáva odbornú prax alebo odborný výcvik podľa osobitných predpisov<sup>28a</sup>) v školách alebo školských zariadeniach,
 
-- t) ktorý úspešne absolvoval štúdium na strednej škole alebo štúdium na vysokej škole na území Slovenskej republiky,
+- t) ktorý úspešne absolvoval štúdium na strednej škole alebo štúdium na vysokej škole na území Slovenskej republiky a ktorý má oprávnený pobyt na území Slovenskej republiky<sup>28aa</sup>) alebo má prijatú žiadosť o udelenie prechodného pobytu na účel zamestnania<sup>22c</sup>) spolu so všetkými náležitosťami podľa osobitného predpisu,<sup>22dc</sup>)
 
 - u) ktorý nedovŕšil 26 rokov veku a ktorý bude zamestnávaný príležitostnými a časovo obmedzenými prácami v rámci výmeny medzi školami alebo v rámci programov pre mládež alebo programov pre vzdelávanie, ktorých sa Slovenská republika zúčastňuje,
 
@@ -98,8 +98,6 @@
 
 - ah) ktorého výkon práce u všetkých zamestnávateľov nepresiahne 80 hodín mesačne, ak ide o študenta vysokej školy, ktorý sa na území Slovenskej republiky zdržiava na základe mobility,<sup>28h</sup>)
 
-- ai) ktorý pre centrum podnikových služieb<sup>28i</sup>) poskytuje odborné školenia, ak trvanie jeho pracovnoprávneho vzťahu s centrom podnikových služieb nepresiahne celkovo 90 dní v kalendárnom roku,
-
-- aj) ktorý podal žiadosť o obnovenie prechodného pobytu, ktorý oprávňuje zamestnávateľa zamestnávať štátneho príslušníka tretej krajiny, s dostatočným časovým predstihom pred uplynutím platnosti tohto prechodného pobytu, a to v období od uplynutia platnosti tohto prechodného pobytu do právoplatného skončenia konania o obnovenie prechodného pobytu; dostatočným časovým predstihom sa rozumie obdobie zodpovedajúce najmenej dĺžke lehoty na rozhodnutie o žiadosti o obnovenie prechodného pobytu podľa osobitného predpisu.<sup>28j</sup>)
+- ai) ktorý pre centrum podnikových služieb<sup>28i</sup>) poskytuje odborné školenia, ak trvanie jeho pracovnoprávneho vzťahu s centrom podnikových služieb nepresiahne celkovo 90 dní v kalendárnom roku.
 
 (2) U štátneho príslušníka tretej krajiny podľa odseku 1 sa nevyžaduje potvrdenie o možnosti obsadenia voľného pracovného miesta, ktoré zodpovedá vysokokvalifikovanému zamestnaniu, potvrdenie o možnosti obsadenia voľného pracovného miesta a povolenie na zamestnanie.

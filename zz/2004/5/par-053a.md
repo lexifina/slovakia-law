@@ -20,7 +20,7 @@
 
 (6) Zamestnancovi, ktorý písomne požiada o príspevok počas poberania príspevku podľa § 53, sa príspevok poskytuje počas obdobia zostávajúceho do uplynutia obdobia poskytovania príspevku podľa § 53, a zamestnancovi, ktorý písomne požiada o príspevok do jedného mesiaca od skončenia poberania príspevku podľa § 53, sa príspevok poskytuje najviac počas troch mesiacov. Zamestnancovi podľa prvej vety sa príspevok poskytuje vo výške podľa odseku 4 písm. b); ustanovenia odseku 4 druhej vety a tretej vety sa nepoužijú.
 
-(7) Príspevok poskytuje úrad, v ktorého evidencii uchádzačov o zamestnanie bol zamestnanec vedený, do 30 dní od preukázania trvania zamestnania a výdavkov podľa odseku 3, ak tieto skutočnosti zamestnanec preukázal najneskôr do 30 dní od uplynutia mesiaca, za ktorý sa príspevok poskytuje.
+(7) Príspevok poskytuje úrad, v ktorého evidencii uchádzačov o zamestnanie bol zamestnanec vedený, do 30 dní od preukázania trvania zamestnania a výdavkov podľa odseku 3, ak tieto skutočnosti zamestnanec preukázal najneskôr do konca kalendárneho mesiaca nasledujúceho po kalendárnom mesiaci, za ktorý sa príspevok poskytuje.
 
 (8) Dohoda o poskytnutí príspevku podľa odseku 4 obsahuje
 
