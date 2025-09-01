@@ -1,0 +1,1 @@
+- 1) Napríklad § 6 ods. 2 vyhlášky Úradu na ochranu osobných údajov Slovenskej republiky č. 158/2018 Z. z. o postupe pri posudzovaní vplyvu na ochranu osobných údajov.
