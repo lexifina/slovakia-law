@@ -1,1 +1,0 @@
-Jozef Magala v. r.

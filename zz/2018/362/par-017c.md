@@ -1,3 +1,0 @@
-# § 17c Bezpečnostné opatrenia podľa § 20 ods. 3 písm. p) zákona
-
-Požiadavky na audit, riadenie súladu a kontrolné činnosti, s cieľom dodržiavať a vykonávať nezávislé hodnotenie, meranie a preskúmavanie efektivity a účinnosti prijatých opatrení na ošetrenie rizík sa vykonávajú najmä pravidelným a plánovaným výkonom auditu kybernetickej bezpečnosti podľa osobitného predpisu<sup>1b</sup>) a systémom vnútorného posúdenia bezpečnosti, ktorého cieľom je poskytnutie primeraného uistenia, že stav posudzovaných skutočností je v súlade s požadovanými strategickými cieľmi, politikami, štandardami, zmluvami, predpismi a postupmi organizácie a pri identifikovaní nesúladu sú prijímané opatrenia na ich odstránenie aspoň tak, že je bezpečnostné riziko znížené na prijateľnú úroveň.
