@@ -60,6 +60,10 @@ Zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov 
 
 - 8. V § 33o ods. 2 písm. p) sa slová „infraštruktúry a informačných technológií“ nahrádzajú slovami „infraštruktúry, informačných technológií a sietí a informačných systémov, ktoré sú zriadené a spravované v súlade s osobitným predpisom<sup>25aaa</sup>)“.
 
+- 9. V § 38 sa vypúšťa odsek 10.
+
+  - Poznámka pod čiarou k odkazu 37abb sa vypúšťa.
+
 - 10. V § 40 sa vypúšťajú odseky 9 a 10.
 
 - 11. V § 50 ods. 2 prvej vete sa za slovo „predpisov“ vkladajú slová „a právne záväzných aktov Európskej únie“.
