@@ -70,6 +70,8 @@
 
 - 22) § 102 ods. 4 zákona č. 36/2005 Z. z.
 
+- 22a) § 10 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 22b) § 102 ods. 1 písm. b) a c) zákona č. 36/2005 Z. z.
 
 - 23) § 33 ods. 3 zákona č. 36/2005 Z. z.
