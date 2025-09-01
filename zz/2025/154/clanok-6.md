@@ -40,7 +40,73 @@ Zákon č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone pr
 
 - príplatok za služobné motorové vozidlo,“.
 
+- 4. V § 4 sa odsek 1 dopĺňa písmenom y), ktoré znie:
+
+- „y)
+
+- príplatok riaditeľa školy.“.
+
 - 6. V § 7 sa vypúšťa odsek 18.
+
+- 7. Za § 8 sa vkladá § 8a, ktorý vrátane nadpisu znie:
+
+- „§ 8a
+
+- Príplatok riaditeľa školy
+
+- (1)
+
+- Riaditeľovi materskej školy, riaditeľovi základnej školy a riaditeľovi strednej školy patrí za plnenie povinností podľa osobitných predpisov<sup>29ab</sup>) okrem príplatku podľa § 8 príplatok riaditeľa školy mesačne v sume 10 % z platovej tarify platovej triedy a pracovnej triedy, do ktorej je zaradený.
+
+- (2)
+
+- Príplatok riaditeľa školy podľa odseku 1 prizná zriaďovateľ školy aj osobe, ktorá
+
+- a)
+
+- obsadila podľa osobitného predpisu<sup>29ac</sup>) voľné miesto riaditeľa materskej školy, riaditeľa základnej školy alebo riaditeľa strednej školy,
+
+- b)
+
+- bola podľa osobitného predpisu<sup>29ad</sup>) poverená vedením školy do vymenovania nového riaditeľa materskej školy, riaditeľa základnej školy alebo riaditeľa strednej školy.
+
+- (3)
+
+- Zriaďovateľ školy prizná príplatok riaditeľa školy odo dňa začiatku
+
+- a)
+
+- výkonu činnosti riaditeľa školy alebo
+
+- b)
+
+- poverenia vedením školy.
+
+- (4)
+
+- Zriaďovateľ školy odoberie príplatok riaditeľa školy odo dňa nasledujúceho po skončení
+
+- a)
+
+- výkonu činnosti riaditeľa školy alebo
+
+- b)
+
+- poverenia vedením školy.
+
+- (5)
+
+- Príplatok riaditeľa školy sa určí pevnou sumou zaokrúhlenou na 50 eurocentov nahor.“.
+
+  - Poznámky pod čiarou k odkazom 29ab až 29ad znejú:
+
+  - „<sup>29ab</sup>) Zákon č. 596/2003 Z. z. v znení neskorších predpisov.
+
+  - Zákon č. 245/2008 Z. z. v znení neskorších predpisov.
+
+  - <sup>29ac</sup>) § 5 ods. 9 zákona č. 552/2003 Z. z. v znení neskorších predpisov.
+
+  - <sup>29ad</sup>) § 3 ods. 10 zákona č. 596/2003 Z. z. v znení neskorších predpisov.“.
 
 - 8. V § 10 ods. 2 prvej vete sa na konci pripájajú tieto slová: „alebo pri zmene druhu práce dohodnutého v pracovnej zmluve“.
 
@@ -115,3 +181,21 @@ Zákon č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone pr
 - Prechodné ustanovenie k úpravám účinným od 1. júla 2025
 
 - Zamestnancovi, ktorý je odborným garantom na verejné obstarávanie, určí zamestnávateľ tarifný plat podľa predpisov účinných od 1. júla 2025. Ak je tarifný plat podľa prvej vety nižší ako tarifný plat, ktorý patril zamestnancovi podľa predpisov účinných do 30. júna 2025, zamestnancovi, ktorý je odborným garantom na verejné obstarávanie, patrí rozdiel do sumy tarifného platu priznaného podľa predpisov účinných do 30. júna 2025.“.
+
+- 19. Doterajší text § 32j sa označuje ako odsek 1 a dopĺňa sa odsekom 2, ktorý znie:
+
+- „(2)
+
+- Zriaďovateľ školy prizná od 1. septembra 2025 mesačne príplatok riaditeľa školy v sume 10 % z platovej tarify platovej triedy a pracovnej triedy, do ktorej je zaradený,
+
+- a)
+
+- riaditeľovi materskej školy, riaditeľovi základnej školy a riaditeľovi strednej školy, ktorého výkon funkcie sa začal do 31. augusta 2025,
+
+- b)
+
+- osobe, ktorá do 31. augusta 2025 obsadila podľa osobitného predpisu<sup>29ac</sup>) voľné miesto riaditeľa materskej školy, riaditeľa základnej školy alebo riaditeľa strednej školy,
+
+- c)
+
+- osobe, ktorá do 31. augusta 2025 bola podľa osobitného predpisu<sup>29ad</sup>) poverená vedením školy do vymenovania nového riaditeľa materskej školy, riaditeľa základnej školy alebo riaditeľa strednej školy.“.
