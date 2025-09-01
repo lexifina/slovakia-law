@@ -186,6 +186,10 @@
 
 - 24aabc) § 38 zákona č. 540/2021 Z. z.
 
+- 24aabd) § 3 ods. 1 písm. j) zákona č. 153/2013 Z. z. v znení zákona č. 361/2024 Z. z.
+
+- 24aabe) § 3 zákona č. 577/2004 Z. z.
+
 - 24aac) § 7 ods. 3 písm. f) zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
 - 24ab) Zákon č. 363/2011 Z. z. o rozsahu a podmienkach úhrady liekov, zdravotníckych pomôcok a dietetických potravín na základe verejného zdravotného poistenia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
