@@ -54,6 +54,16 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - 8. V § 14 ods. 5 úvodnej vete a ods. 6 a 7 sa slová „predseda úradu pre dohľad“ vo všetkých tvaroch nahrádzajú slovami „minister zdravotníctva“ v príslušnom tvare.
 
+- 9. § 16 sa dopĺňa odsekom 5, ktorý znie:
+
+- „(5)
+
+- Ministerstvo zdravotníctva vyznačí v povolení každý údaj, ktorý sa zmení na základe všeobecne záväzného právneho predpisu vydaného podľa osobitného predpisu.<sup>19ab</sup>) Zmeny údajov podľa prvej vety vyžadujú vydanie nového povolenia, ktorým ministerstvo zdravotníctva súčasne zruší pôvodné povolenie; na vydanie povolenia podľa prvej časti vety sa nevzťahujú ustanovenia o výberovom konaní.“.
+
+  - Poznámka pod čiarou k odkazu 19ab znie:
+
+  - „<sup>19ab</sup>) § 8 ods. 1 písm. a) zákona č. 579/2004 Z. z. v znení zákona č. 285/2023 Z. z.“.
+
 - 10. V § 17b odsek 1 znie:
 
 - „(1)
@@ -65,6 +75,8 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 - „(1)
 
 - Zmeniť sídlo stanice záchrannej zdravotnej služby mimo sídla ustanoveného osobitným predpisom<sup>14a</sup>) možno len so súhlasom ministerstva zdravotníctva, ktoré si na tento účel vyžiada stanovisko operačného strediska tiesňového volania záchrannej zdravotnej služby.<sup>19a</sup>) Ministerstvo zdravotníctva môže udeliť súhlas na zmenu sídla stanice záchrannej zdravotnej služby, len ak zo stanoviska operačného strediska tiesňového volania záchrannej zdravotnej služby vyplýva, že požadovaná zmena predstavuje efektívnejšie zabezpečenie záchrannej zdravotnej služby. Zmena sídla stanice záchrannej zdravotnej služby vyžaduje vydanie nového povolenia, ktorým ministerstvo zdravotníctva súčasne zruší pôvodné povolenie.“.
+
+- 12. § 17b sa vypúšťa.
 
 - 13. V § 17d odsek 1 znie:
 
@@ -91,6 +103,8 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 - „4.
 
 - ambulancie rýchlej lekárskej pomoci na ambulanciu rýchlej lekárskej pomoci v stretávacom režime „RV“.
+
+- 19. § 17d sa vypúšťa.
 
 - 20. V § 21 ods. 1 sa za slovami „samosprávny kraj“ vypúšťa čiarka a slová „regionálny úrad verejného zdravotníctva alebo úrad pre dohľad“ sa nahrádzajú slovami „alebo regionálny úrad verejného zdravotníctva“.
 
