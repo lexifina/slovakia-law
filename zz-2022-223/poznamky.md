@@ -1,0 +1,1 @@
+- 1) § 7 ods. 1 písm. c) zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení zákona č. 454/2004 Z. z.
