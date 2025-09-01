@@ -130,6 +130,8 @@
 
 - 19aa) § 2 ods. 14 zákona č. 540/2021 Z. z.
 
+- 19ab) § 8 ods. 1 písm. a) zákona č. 579/2004 Z. z. v znení zákona č. 285/2023 Z. z.
+
 - 20) § 61 Trestného zákona.
 
 - § 50 ods. 2 písm. b) zákona č. 581/2004 Z. z. v znení zákona č. 353/2005 Z. z.
