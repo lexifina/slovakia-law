@@ -1,0 +1,1 @@
+Pavol Gregorčok v. r.
