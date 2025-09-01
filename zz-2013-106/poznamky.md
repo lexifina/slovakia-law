@@ -1,0 +1,1 @@
+- 1) § 20 až 23 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení zákona č. 180/2011 Z. z.
