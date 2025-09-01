@@ -68,7 +68,7 @@ Cyperská republika | 4,42963662
 
 Čínska ľudová republika | 4,70287668
 
-Osobitná administratívna oblasť Čínskej ľudovej republiky Hong Kong | 5,01684045
+Osobitná administratívna oblasť Čínskej ľudovej republiky Hongkong | 5,01684045
 
 Osobitná administratívna oblasť Čínskej ľudovej republiky Macao | 4,78476868
 
@@ -192,7 +192,7 @@ Libanonská republika | 4,35343528
 
 Libérijská republika | 5,32458007
 
-Líbya | 3,45022261
+Líbyjský štát | 3,45022261
 
 Litovská republika | 4,83118303
 

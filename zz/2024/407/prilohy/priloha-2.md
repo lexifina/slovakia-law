@@ -1,359 +1,361 @@
 - Časť B
 
-- Pre osobitnú stupnicu platových taríf učiteľov vysokých škôl a výskumných a vývojových zamestnancov pri výkone práce vo verejnom záujme v zahraničí
+- Pre osobitnú stupnicu platových taríf učiteľov vysokých škôl a výskumných a vývojových
+
+- zamestnancov pri výkone práce vo verejnom záujme v zahraničí
 
 - Štát | Objektivizovaný platový koeficient
 
-- Afganská islamská republika | 4,97792627
+- Afganská islamská republika | 4,65226754
 
-- Albánska republika | 4,60952346
+- Albánska republika | 4,30796585
 
-- Alžírska demokratická ľudová republika | 4,61713995
+- Alžírska demokratická ľudová republika | 4,31508407
 
-- Angolská republika | 4,80102400
+- Angolská republika | 4,48693832
 
-- Argentínska republika | 4,53734805
+- Argentínska republika | 4,24051220
 
-- Arménska republika | 4,55756805
+- Arménska republika | 4,25940939
 
-- Austrálsky zväz | 4,71787722
+- Austrálsky zväz | 4,40923105
 
-- Azerbajdžanská republika | 4,85606228
+- Azerbajdžanská republika | 4,53837596
 
-- Bahamské spoločenstvo | 5,47998050
+- Bahamské spoločenstvo | 5,12147711
 
-- Bahrajnské kráľovstvo | 4,99524474
+- Bahrajnské kráľovstvo | 4,66845303
 
-- Bangladéšska ľudová republika | 4,92424808
+- Bangladéšska ľudová republika | 4,60210101
 
-- Barbados | 5,31178281
+- Barbados | 4,96428300
 
-- Belgické kráľovstvo | 4,86059591
+- Belgické kráľovstvo | 4,54261300
 
-- Belize | 4,85125663
+- Belize | 4,53388470
 
-- Beninská republika | 4,48312583
+- Beninská republika | 4,18983723
 
-- Bhutánske kráľovstvo | 4,74390026
+- Bhutánske kráľovstvo | 4,43355164
 
-- Bieloruská republika | 4,71225552
+- Bieloruská republika | 4,40397712
 
-- Bolívijský mnohonárodný štát | 4,30459146
+- Bolívijský mnohonárodný štát | 4,02298268
 
-- Bosna a Hercegovina | 4,39762156
+- Bosna a Hercegovina | 4,10992670
 
-- Botswanská republika | 4,16495565
+- Botswanská republika | 3,89248191
 
-- Brazílska federatívna republika | 4,53489989
+- Brazílska federatívna republika | 4,23822420
 
-- Britské Panenské ostrovy | 5,00313325
+- Britské Panenské ostrovy | 4,67582547
 
-- Bulharská republika | 4,68614181
+- Bulharská republika | 4,37957179
 
-- Burkina Faso | 4,26777839
+- Burkina Faso | 3,98857793
 
-- Burundská republika | 4,63436775
+- Burundská republika | 4,33118481
 
-- Cyperská republika | 4,51712806
+- Cyperská republika | 4,22161501
 
-- Čadská republika | 5,06080103
+- Čadská republika | 4,72972059
 
-- Česká republika | 4,67245024
+- Česká republika | 4,36677593
 
-- Čierna Hora | 4,51223174
+- Čierna Hora | 4,21703901
 
-- Čilská republika | 4,14201548
+- Čilská republika | 3,87104250
 
-- Čínska ľudová republika | 4,79576499
+- Čínska ľudová republika | 4,48202336
 
-- Osobitná administratívna oblasť Čínskej ľudovej republiky Hong Kong | 5,11592998
+- Osobitná administratívna oblasť Čínskej ľudovej republiky Hongkong | 4,78124297
 
-- Osobitná administratívna oblasť Čínskej ľudovej republiky Macao | 4,87927447
+- Osobitná administratívna oblasť Čínskej ľudovej republiky Macao | 4,56006959
 
-- Dánske kráľovstvo | 5,07721277
+- Dánske kráľovstvo | 4,74505866
 
-- Demokratická republika Svätého Tomáša a Princovho ostrova | 5,17205632
+- Demokratická republika Svätého Tomáša a Princovho ostrova | 4,83369749
 
-- Dominikánska republika | 4,50162304
+- Dominikánska republika | 4,20712434
 
-- Džibutská republika | 4,89088056
+- Džibutská republika | 4,57091641
 
-- Egyptská arabská republika | 4,39934434
+- Egyptská arabská republika | 4,11153677
 
-- Ekvádorská republika | 4,32725962
+- Ekvádorská republika | 4,04416787
 
-- Eritrejský štát | 4,75858922
+- Eritrejský štát | 4,44727965
 
-- Eswatinské kráľovstvo | 3,94561861
+- Eswatinské kráľovstvo | 3,68749402
 
-- Etiópska federatívna demokratická republika | 5,29129080
+- Etiópska federatívna demokratická republika | 4,94513159
 
-- Fidžijská republika | 4,53888949
+- Fidžijská republika | 4,24195280
 
-- Filipínska republika | 4,55938150
+- Filipínska republika | 4,26110420
 
-- Fínska republika | 4,89468881
+- Fínska republika | 4,57447553
 
-- Francúzska republika | 4,91889840
+- Francúzska republika | 4,59710131
 
-- Gabonská republika | 4,77327818
+- Gabonská republika | 4,46100765
 
-- Gambijská republika | 4,77364087
+- Gambijská republika | 4,46134661
 
-- Ghanská republika | 4,47659740
+- Ghanská republika | 4,18373589
 
-- Grécka republika | 4,44295787
+- Grécka republika | 4,15229708
 
-- Gruzínsko | 4,29244133
+- Gruzínsko | 4,01162741
 
-- Guatemalská republika | 4,45392925
+- Guatemalská republika | 4,16255070
 
-- Guinejská republika | 5,11475124
+- Guinejská republika | 4,78014134
 
-- Guinejsko-bissauská republika | 5,08410390
+- Guinejsko-bissauská republika | 4,75149897
 
-- Guyanská kooperatívna republika | 4,99633281
+- Guyanská kooperatívna republika | 4,66946991
 
-- Haitská republika | 5,34252083
+- Haitská republika | 4,99301012
 
-- Holandské kráľovstvo | 4,62520981
+- Holandské kráľovstvo | 4,32262599
 
-- Honduraská republika | 4,63210093
+- Honduraská republika | 4,32906629
 
-- Chorvátska republika | 4,72712582
+- Chorvátska republika | 4,41787460
 
-- Indická republika | 4,58359108
+- Indická republika | 4,28372998
 
-- Indonézska republika | 4,38855430
+- Indonézska republika | 4,10145262
 
-- Iracká republika | 4,78143872
+- Iracká republika | 4,46863432
 
-- Iránska islamská republika | 4,44658477
+- Iránska islamská republika | 4,15568670
 
-- Írsko | 4,34403405
+- Írsko | 4,05984491
 
-- Izraelský štát | 5,02734284
+- Izraelský štát | 4,69845125
 
-- Jamajka | 4,89514217
+- Jamajka | 4,57489923
 
-- Japonsko | 4,34893037
+- Japonsko | 4,06442091
 
-- Jemenská republika | 4,79603701
+- Jemenská republika | 4,48227758
 
-- Jordánske hášimovské kráľovstvo | 4,49582000
+- Jordánske hášimovské kráľovstvo | 4,20170094
 
-- Juhoafrická republika | 4,17873788
+- Juhoafrická republika | 3,90536251
 
-- Juhosudánska republika | 5,11647401
+- Juhosudánska republika | 4,78175141
 
-- Kambodžské kráľovstvo | 4,56192034
+- Kambodžské kráľovstvo | 4,26347695
 
-- Kamerunská republika | 4,63001546
+- Kamerunská republika | 4,32711725
 
-- Kanada | 4,91989580
+- Kanada | 4,59803345
 
-- Kapverdská republika | 4,81471557
+- Kapverdská republika | 4,49973417
 
-- Katarský štát | 4,92615221
+- Katarský štát | 4,60388057
 
-- Kazašská republika | 4,66238559
+- Kazašská republika | 4,35736971
 
-- Kenská republika | 4,63355170
+- Kenská republika | 4,33042215
 
-- Kirgizská republika | 4,48466727
+- Kirgizská republika | 4,19127782
 
-- Kiribatská republika | 4,36978507
+- Kiribatská republika | 4,08391128
 
-- Kolumbijská republika | 4,77173675
+- Kolumbijská republika | 4,45956706
 
-- Komorský zväz | 4,74217748
+- Komorský zväz | 4,43194157
 
-- Konžská demokratická republika | 5,02743351
+- Konžská demokratická republika | 4,69853599
 
-- Konžská republika | 4,80437889
+- Konžská republika | 4,49007373
 
-- Kórejská ľudovodemokratická republika | 5,28449036
+- Kórejská ľudovodemokratická republika | 4,93877603
 
-- Kórejská republika | 4,95870367
+- Kórejská republika | 4,63430249
 
-- Kostarická republika | 4,68251490
+- Kostarická republika | 4,37618215
 
-- Kubánska republika | 5,67003029
+- Kubánska republika | 5,29909373
 
-- Kuvajtský štát | 4,71370628
+- Kuvajtský štát | 4,40533297
 
-- Laoská ľudovodemokratická republika | 4,31320537
+- Laoská ľudovodemokratická republika | 4,03103305
 
-- Lesothské kráľovstvo | 4,36706490
+- Lesothské kráľovstvo | 4,08136906
 
-- Libanonská republika | 4,43942164
+- Libanonská republika | 4,14899218
 
-- Libérijská republika | 5,42974788
+- Libérijská republika | 5,07453073
 
-- Líbya | 3,51836927
+- Líbyjský štát | 3,28819558
 
-- Litovská republika | 4,92660557
+- Litovská republika | 4,60430427
 
-- Lotyšská republika | 5,00150115
+- Lotyšská republika | 4,67430014
 
-- Madagaskarská republika | 4,36262194
+- Madagaskarská republika | 4,07721676
 
-- Maďarsko | 5,00639746
+- Maďarsko | 4,67887613
 
-- Malajzia | 4,94056915
+- Malajzia | 4,61735434
 
-- Malawijská republika | 4,61043018
+- Malawijská republika | 4,30881325
 
-- Maldivská republika | 4,76983263
+- Maldivská republika | 4,45778750
 
-- Malijská republika | 4,91128189
+- Malijská republika | 4,58998308
 
-- Maltská republika | 4,64515779
+- Maltská republika | 4,34126896
 
-- Marocké kráľovstvo | 4,36244059
+- Marocké kráľovstvo | 4,07704728
 
-- Maurícijská republika | 4,31130123
+- Maurícijská republika | 4,02925349
 
-- Mauritánska islamská republika | 4,55031424
+- Mauritánska islamská republika | 4,25263013
 
-- Mikronézske federatívne štáty | 5,23593518
+- Mikronézske federatívne štáty | 4,89339736
 
-- Mjanmarská zväzová republika | 4,57833207
+- Mjanmarská zväzová republika | 4,27881502
 
-- Moldavská republika | 4,80374418
+- Moldavská republika | 4,48948054
 
-- Mongolsko | 4,68596047
+- Mongolsko | 4,37940231
 
-- Mozambická republika | 4,56056024
+- Mozambická republika | 4,26220583
 
-- Namíbijská republika | 4,36679288
+- Namíbijská republika | 4,08111484
 
-- Nemecká spolková republika | 4,44078172
+- Nemecká spolková republika | 4,15026329
 
-- Nepálska federatívna demokratická republika | 4,24909983
+- Nepálska federatívna demokratická republika | 3,97112134
 
-- Nezávislý štát Papua-Nová Guinea | 4,82287611
+- Nezávislý štát Papua-Nová Guinea | 4,50736085
 
-- Nigerská republika | 4,27040790
+- Nigerská republika | 3,99103542
 
-- Nigérijská federatívna republika | 4,79921056
+- Nigérijská federatívna republika | 4,48524351
 
-- Nikaragujská republika | 4,63745061
+- Nikaragujská republika | 4,33406599
 
-- Nórske kráľovstvo | 5,04656543
+- Nórske kráľovstvo | 4,71641629
 
-- Nová Kaledónia | 4,92189059
+- Nová Kaledónia | 4,59989775
 
-- Ománsky sultanát | 4,53580662
+- Ománsky sultanát | 4,23907161
 
-- Pakistanská islamská republika | 4,50062565
+- Pakistanská islamská republika | 4,20619219
 
-- Panamská republika | 4,64624586
+- Panamská republika | 4,34228585
 
-- Paraguajská republika | 4,26143130
+- Paraguajská republika | 3,98264608
 
-- Peruánska republika | 4,60362974
+- Peruánska republika | 4,30245770
 
-- Poľská republika | 4,62693260
+- Poľská republika | 4,32423607
 
-- Portugalská republika | 4,35038113
+- Portugalská republika | 4,06577676
 
-- Rakúska republika | 5,01192849
+- Rakúska republika | 4,68404532
 
-- Republika Pobrežia Slonoviny | 5,14594261
+- Republika Pobrežia Slonoviny | 4,80929216
 
-- Republika Rovníkovej Guiney | 4,78842051
+- Republika Rovníkovej Guiney | 4,47515936
 
-- Republika Trinidadu a Tobaga | 4,78733244
+- Republika Trinidadu a Tobaga | 4,47414247
 
-- Rumunsko | 4,58794337
+- Rumunsko | 4,28779754
 
-- Ruská federácia | 4,25036924
+- Ruská federácia | 3,97230770
 
-- Rwandská republika | 4,59338373
+- Rwandská republika | 4,29288199
 
-- Salvádorská republika | 4,48339785
+- Salvádorská republika | 4,19009145
 
-- Samojský nezávislý štát | 4,50724474
+- Samojský nezávislý štát | 4,21237827
 
-- Saudskoarabské kráľovstvo | 4,75378357
+- Saudskoarabské kráľovstvo | 4,44278839
 
-- Senegalská republika | 4,55738670
+- Senegalská republika | 4,25923991
 
-- Severomacedónska republika | 4,48729677
+- Severomacedónska republika | 4,19373530
 
-- Seychelská republika | 4,74326555
+- Seychelská republika | 4,43295846
 
-- Sierraleonská republika | 5,21041084
+- Sierraleonská republika | 4,86954284
 
-- Singapurská republika | 4,97103514
+- Singapurská republika | 4,64582724
 
-- Slovinská republika | 4,42654613
+- Slovinská republika | 4,13695900
 
-- Spojené arabské emiráty | 5,17749668
+- Spojené arabské emiráty | 4,83878194
 
-- Spojené kráľovstvo Veľkej Británie a Severného Írska | 4,98472671
+- Spojené kráľovstvo Veľkej Británie a Severného Írska | 4,65862310
 
-- Spojené štáty americké | 5,18175829
+- Spojené štáty americké | 4,84276476
 
-- Spojené štáty americké-New York | 5,44035657
+- Spojené štáty americké-New York | 5,08444539
 
-- Spojené štáty mexické | 5,04039969
+- Spojené štáty mexické | 4,71065392
 
-- Srbská republika | 4,48584601
+- Srbská republika | 4,19237945
 
-- Srílanská demokratická socialistická republika | 4,52936886
+- Srílanská demokratická socialistická republika | 4,23305501
 
-- Stredoafrická republika | 4,89958513
+- Stredoafrická republika | 4,57905152
 
-- Sudánska republika | 5,02498535
+- Sudánska republika | 4,69624799
 
-- Surinamská republika | 4,58785270
+- Surinamská republika | 4,28771280
 
-- Svätá Lucia | 5,05735547
+- Svätá Lucia | 4,72650044
 
-- Sýrska arabská republika | 3,61720242
+- Sýrska arabská republika | 3,38056301
 
-- Šalamúnove ostrovy | 4,90656692
+- Šalamúnove ostrovy | 4,58557656
 
-- Španielske kráľovstvo | 4,29108125
+- Španielske kráľovstvo | 4,01035631
 
-- Švajčiarska konfederácia | 5,68816481
+- Švajčiarska konfederácia | 5,31604188
 
-- Švédske kráľovstvo | 4,59682929
+- Švédske kráľovstvo | 4,29610214
 
-- Tadžická republika | 4,46979696
+- Tadžická republika | 4,17738034
 
-- Talianska republika | 4,36996641
+- Talianska republika | 4,08408076
 
-- Tanzánijská zjednotená republika | 4,63754129
+- Tanzánijská zjednotená republika | 4,33415073
 
-- Thajské kráľovstvo | 4,48602736
+- Thajské kráľovstvo | 4,19254893
 
-- Togská republika | 4,97021909
+- Togská republika | 4,64506457
 
-- Tongské kráľovstvo | 4,79930123
+- Tongské kráľovstvo | 4,48532825
 
-- Tuniská republika | 4,32181926
+- Tuniská republika | 4,03908342
 
-- Turecká republika | 4,47904557
+- Turecká republika | 4,18602390
 
-- Turkménsko | 5,99209940
+- Turkménsko | 5,60009290
 
-- Ugandská republika | 4,57878543
+- Ugandská republika | 4,27923872
 
-- Ukrajina | 4,38855430
+- Ukrajina | 4,10145262
 
-- Uruguajská východná republika | 4,73700914
+- Uruguajská východná republika | 4,42711135
 
-- Uzbecká republika | 4,47188243
+- Uzbecká republika | 4,17932937
 
-- Vanuatská republika | 5,20007416
+- Vanuatská republika | 4,85988239
 
-- Venezuelská bolívarovská republika | 2,60865098
+- Venezuelská bolívarovská republika | 2,43799157
 
-- Vietnamská socialistická republika | 4,44449930
+- Vietnamská socialistická republika | 4,15373767
 
-- Východotimorská demokratická republika | 4,51467991
+- Východotimorská demokratická republika | 4,21932701
 
-- Zambijská republika | 4,51395453
+- Zambijská republika | 4,21864909
