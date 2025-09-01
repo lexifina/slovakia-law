@@ -90,7 +90,13 @@
 
 - 29aa) § 24 ods. 5 zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
-- 29ab) § 184b zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 395/2021 Z. z.
+- 29ab) Zákon č. 596/2003 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 245/2008 Z. z. v znení neskorších predpisov.
+
+- 29ac) § 5 ods. 9 zákona č. 552/2003 Z. z. v znení neskorších predpisov.
+
+- 29ad) § 3 ods. 10 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
 - 29b) § 11a Zákonníka práce.
 
@@ -151,3 +157,5 @@
 - 38) Nariadenie vlády Slovenskej republiky č. 578/2009 Z. z., ktorým sa ustanovujú zvýšené stupnice platových taríf zamestnancov pri výkone práce vo verejnom záujme.
 
 - Zákon č. 438/2012 Z. z o štátnom rozpočte na rok 2013.
+
+- 39) § 14d zákona č. 552/2003 Z. z. v znení zákona č. 376/2024 Z. z.
