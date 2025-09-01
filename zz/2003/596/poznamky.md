@@ -227,3 +227,5 @@
 - 85) § 2 ods. 1 písm. c) nariadenia vlády Slovenskej republiky č. 668/2004 Z. z. o rozdeľovaní výnosu dane z príjmov územnej samospráve.
 
 - 86) § 27 ods. 2 písm. b) až g) zákona č. 245/2008 Z. z.
+
+- 87) § 161r ods. 3 až 5 zákona č. 245/2008 Z. z. v znení zákona č. 290/2024 Z. z.
