@@ -6,6 +6,18 @@ Zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení zákona
 
 - 2. V § 6 ods. 1 písm. d), § 10 ods. 1 písm. c) a § 19 ods. 6 písm. b) sa slová „2710 19 43“ nahrádzajú slovami „2710 19 42, 2710 19 44“.
 
+- 3. V § 6 ods. 1 písmeno f) znie:
+
+- „
+
+- f) | skvapalnené plynné uhľovodíky kódu kombinovanej nomenklatúry |
+
+- | 1. 2711 12 až 2711 14 00 a skvapalnené plynné uhľovodíky kódu kombinovanej nomenklatúry 2711 19 00 okrem skvapalneného bioplynu a biometánu | 182 eur/1 000 kg,
+
+- | 2. 2711 19 00 len skvapalnený bioplyn a biometán | 141 eur/1 000 kg,“.
+
+- “.
+
 - 4. V § 25b ods. 3 sa vypúšťa písmeno c).
 
   - Doterajšie písmeno d) sa označuje ako písmeno c).
