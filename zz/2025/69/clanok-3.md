@@ -166,6 +166,12 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - 25. V § 15 ods. 2 sa za slová „prevádzkovanie ambulancie záchrannej zdravotnej služby“ vkladajú slová „podľa § 11 ods. 1 písm. k) prvého bodu až deviateho bodu“ a za slová „služby na šesť rokov,“ sa vkladajú slová „ak v § 102bc ods. 2 nie je ustanovené inak,“.
 
+- 26. V § 16 odsek 5 znie:
+
+- „(5)
+
+- Ministerstvo zdravotníctva vyznačí v povolení zmenu sídla stanice záchrannej zdravotnej služby a zmenu typu ambulancie záchrannej zdravotnej služby, ktoré sa zmenia na základe všeobecne záväzného právneho predpisu vydaného podľa osobitného predpisu.<sup>19ab</sup>) Zmena podľa prvej vety nevyžaduje vydanie nového povolenia; ministerstvo zdravotníctva vyznačí zmenu v povolení najskôr po uplynutí troch mesiacov odo dňa nadobudnutia účinnosti všeobecne záväzného právneho predpisu podľa prvej vety, najneskôr však do šiestich mesiacov odo dňa nadobudnutia účinnosti všeobecne záväzného právneho predpisu podľa prvej vety a súčasne zmenu údajov vyznačí v registri povolení.“.
+
 - 27. Za § 17g sa vkladá § 17h, ktorý vrátane nadpisu znie:
 
 - „§ 17h
