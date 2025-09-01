@@ -12,6 +12,6 @@
 
   - 4. zmenu zákonných postupov ústredia a úradu,
 
-- b) § 4 ods. 6 písm. a) prvého bodu až piateho bodu a § 5 ods. 7 písm. a) prvého bodu až piateho bodu zmenu výkonu lekárskej posudkovej činnosti.
+- b) § 4 ods. 6 písm. a) prvého bodu až šiesteho bodu a § 5 ods. 7 písm. a) prvého bodu až šiesteho bodu zmenu výkonu integrovanej posudkovej činnosti a lekárskej posudkovej činnosti.
 
 (2) Ustanovenia osobitných predpisov,<sup>4</sup>) ktoré upravujú právne skutočnosti uvedené v odseku 1, sa uplatňujú s odchýlkami ustanovenými nariadením vlády Slovenskej republiky podľa odseku 1.
