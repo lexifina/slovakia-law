@@ -536,8 +536,6 @@
 
 - 37aba) Napríklad § 27 Obchodného zákonníka v znení neskorších predpisov, § 60 až 60b zákona č. 455/1991 Zb. v znení neskorších predpisov, § 20 a 21 zákona č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov, § 170 ods. 3 a § 226 ods. 1 písm. e) zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov, zákon č. 530/2003 Z. z. v znení neskorších predpisov.
 
-- 37abb) § 7b ods. 6 a § 8b ods. 1 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení neskorších predpisov.
-
 - 37ac) Čl. 4 ods. 1 bod 86 nariadenia (EÚ) č. 575/2013.
 
 - 38) § 2 ods. 4 písm. a) a b) a § 24 až 29 zákona č. 431/2002 Z. z.
