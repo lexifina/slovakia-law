@@ -716,7 +716,11 @@ Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene
 
 - 105. § 161r sa dopĺňa odsekmi 3 až 6, ktoré znejú:
 
-- „(4)
+- „(3)
+
+- Zákonný zástupca dieťaťa vo veku plnenia povinného predprimárneho vzdelávania alebo plnenia povinnej školskej dochádzky, ktoré je občanom Ukrajiny, je povinný do troch mesiacov od začatia konania o poskytnutie dočasného útočiska požiadať o zaradenie dieťaťa na predprimárne vzdelávanie, ak ide o dieťa, ktoré dosiahlo 5. rok veku do 31. augusta príslušného kalendárneho roka, alebo na základné vzdelávanie alebo vzdelávanie v strednej škole, ak ide o dieťa, ktoré dosiahlo 6. rok veku do 31. augusta príslušného kalendárneho roka a nedosiahlo 16. rok veku.
+
+- (4)
 
 - Zákonný zástupca dieťaťa vo veku plnenia povinného predprimárneho vzdelávania alebo plnenia povinnej školskej dochádzky, ktoré je občanom Ukrajiny a od 1. januára 2025 do 31. augusta 2025 začalo vo vzťahu k nemu konanie o poskytnutie dočasného útočiska alebo mu bolo poskytnuté dočasné útočisko, je po 1. septembri 2025 povinný do troch mesiacov požiadať o zaradenie dieťaťa na predprimárne vzdelávanie, ak ide o dieťa, ktoré dosiahlo 5. rok veku do 31. augusta príslušného kalendárneho roka, alebo na základné vzdelávanie alebo vzdelávanie v strednej škole, ak ide o dieťa, ktoré dosiahlo 6. rok veku do 31. augusta príslušného kalendárneho roka a nedosiahlo 16. rok veku.
 

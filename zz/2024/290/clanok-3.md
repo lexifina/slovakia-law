@@ -600,6 +600,40 @@ Zákon č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráv
 
 - 99. V § 38 ods. 6 sa slová „odseku 4“ nahrádzajú slovami „odseku 5“.
 
+- 100. Doterajší text § 39hm sa označuje ako odsek 1 a dopĺňa sa odsekmi 2 až 5, ktoré znejú:
+
+- „(2)
+
+- Ak zákonný zástupca dieťaťa podľa odseku 1, ktorý má povinnosť podľa osobitného predpisu,<sup>87</sup>) nedbá o jeho riadnu účasť na vzdelávaní, riaditeľ oznámi túto skutočnosť príslušnému orgánu miestnej štátnej správy v školstve a obci, v ktorej má zákonný zástupca adresu pobytu alebo adresu dočasného útočiska.
+
+- (3)
+
+- Zákonný zástupca dieťaťa podľa odseku 1, ktorý má povinnosť podľa osobitného predpisu,<sup>87</sup>) nedbá o jeho riadnu účasť na vzdelávaní, ak
+
+- a)
+
+- zákonný zástupca nepožiada o zaradenie dieťaťa vo veku plnenia povinného predprimárneho vzdelávania alebo vo veku plnenia povinnej školskej dochádzky na vzdelávanie,
+
+- b)
+
+- dieťa vo veku plnenia povinného predprimárneho vzdelávania neospravedlnene vynechá viac ako 5 dní v mesiaci v materskej škole alebo
+
+- c)
+
+- dieťa vo veku plnenia povinnej školskej dochádzky neospravedlnene vynechá viac ako 15 vyučovacích hodín v mesiaci alebo viac ako 60 vyučovacích hodín v príslušnom školskom roku v základnej škole alebo v strednej škole.
+
+- (4)
+
+- Priestupku sa dopustí zákonný zástupca, ktorý nedbá o riadnu účasť dieťaťa na vzdelávaní podľa odseku 3.
+
+- (5)
+
+- Za priestupok podľa odseku 4 možno uložiť pokutu do 331,50 eura, a to aj opakovane.“.
+
+  - Poznámka pod čiarou k odkazu 87 znie:
+
+  - „<sup>87</sup>) § 161r ods. 3 až 5 zákona č. 245/2008 Z. z. v znení zákona č. 290/2024 Z. z.“.
+
 - 101. Za § 39hm sa vkladajú § 39hn a 39ho, ktoré vrátane nadpisu nad § 39hn znejú:
 
 - „Prechodné ustanovenia k úpravám účinným od 1. januára 2025
