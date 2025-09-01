@@ -1,1 +1,1 @@
-Príloha č. 2 k zákonu č. 98/2004 Z. z. [Príloha č. 2 k zákonu č. 98/2004 Z. z.](../assets/91ec9c3b9bfda38a7b02b9903f70d33cd29c6c15b4ccebf152a921621fbdc9d8.pdf)
+Príloha č. 2 k zákonu č. 98/2004 Z. z. [Príloha č. 2 k zákonu č. 98/2004 Z. z.](../assets/911ab00761999bc53959ca362e319761fdec05f3ee9e11fb08ee9c4eb7bff0b5.pdf)
