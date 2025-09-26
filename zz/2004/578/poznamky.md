@@ -114,6 +114,8 @@
 
 - 17ba) Zákon č. 402/2013 Z. z. o Úrade pre reguláciu elektronických komunikácií a poštových služieb a Dopravnom úrade a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 17bb) § 8 ods. 1 písm. c) zákona č. 579/2004 Z. z. v znení zákona č. 284/2008 Z. z.
+
 - 17c) § 2 ods. 30 zákona č. 576/2004 Z. z. v znení zákona č. 257/2017 Z. z.
 
 - 17d) § 66a Obchodného zákonníka.
