@@ -10,9 +10,7 @@
 
 - Zákon č. 35/1965 Zb. o literárnych, vedeckých a umeleckých dielach (autorský zákon) v znení zákona č. 89/1990 Zb. (úplné znenie č. 247/1990 Zb.)
 
-- 2a) Zákon Národnej rady Slovenskej republiky č. 199/1994 Z. z. o psychologickej činnosti a Slovenskej komore psychológov v znení zákona č. 578/2004 Z. z.
-
-- Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 2a) Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 3) § 25 ods. 1 zákona č. 87/1987 Zb. o veterinárnej starostlivosti v znení zákona č. 239/1991 Zb.
 
@@ -177,6 +175,8 @@
 - 23qc) § 26 ods. 4 a § 28 zákona č. 56/2012 Z. z. o cestnej doprave v znení zákona č. 9/2019 Z. z.
 
 - 23qd) Zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
+
+- 23qe) Zákon č. 242/2025 Z. z. o psychologickej činnosti a o zmene a doplnení niektorých zákonov.
 
 - 23r) Zákon č. 105/1990 Zb. o súkromnom podnikaní občanov v znení zákona č. 219/1991 Zb.
 
