@@ -10,6 +10,8 @@
 
 - 3aa) Čl. 5 zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení zákona č. 175/2015 Z. z.
 
+- 3b) Zákon č. 242/2025 Z. z. o psychologickej činnosti a o zmene a doplnení niektorých zákonov.
+
 - 4) Zákon č. 36/2005 Z. z. v znení neskorších predpisov.
 
 - 5) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
@@ -148,8 +150,6 @@
 
 - 44) § 101 a 102 zákona č. 36/2005 Z. z. v znení zákona č. 175/2015 Z. z.
 
-- 45) Zákon Národnej rady Slovenskej republiky č. 199/1994 Z. z. o psychologickej činnosti a Slovenskej komore psychológov v znení zákona č. 578/2004 Z. z.
-
 - 45c) § 2 písm. a) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 45d) § 10 ods. 2 písm. a) zákona č. 417/2013 Z. z.
@@ -247,6 +247,8 @@
 - 74) Zákon č. 317/2009 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 74a) Napríklad § 25 a 45 zákona č. 36/2005 Z. z. v znení neskorších predpisov.
+
+- 74aa) § 2 ods. 4 zákona č. 242/2025 Z. z.
 
 - 74b) § 12 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
 
