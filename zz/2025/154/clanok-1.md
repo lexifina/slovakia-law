@@ -164,6 +164,8 @@ Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých z
 
 - 31. V § 37 písm. k) sa slová „ods. 19“ nahrádzajú slovami „ods. 22“.
 
+- 32. V § 37 sa vypúšťa písmeno k).
+
 - 33. V § 38 ods. 2 písm. b) a d) sa slovo „ustanoví“ nahrádza slovom „určí“.
 
 - 34. V poznámke pod čiarou k odkazu 23 sa vypúšťa citácia „§ 93 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení zákona č. 219/2014 Z. z.,“.
@@ -214,6 +216,8 @@ Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých z
 
   - Doterajšie odseky 21 a 22 sa označujú ako odseky 22 a 23.
 
+- 45. V § 38 ods. 22 sa vypúšťajú slová „a nedovŕšil vek 68 rokov“.
+
 - 47. V § 38 ods. 23 sa slová „16 a 19“ nahrádzajú slovami „18, 21 a 22“.
 
 - 49. V § 39 odsek 2 znie:
@@ -227,6 +231,8 @@ Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých z
 - „(3)
 
 - Služobný úrad obsadzuje štátnozamestnanecké miesto v súlade s obmedzením podľa § 54.“.
+
+- 51. V § 40 ods. 4 sa vypúšťajú slová „a nedovŕšili vek 68 rokov“.
 
 - 52. V § 41 ods. 11 písm. d) sa za slovo „úrovni“ vkladá čiarka a slová „a od získania tohto dokladu neuplynuli viac ako dva roky“ nahrádzajú slovami „alebo kópiu dokladu podľa § 38 ods. 15, ktorým preukázal absolvovanie vysokoškolského štúdia v cudzom jazyku, ak od získania týchto dokladov neuplynulo viac ako päť rokov“.
 
@@ -308,6 +314,8 @@ Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých z
 
 - 72. V § 55 ods. 1 písm. t) sa vypúšťajú slová „na tom istom štátnozamestnaneckom mieste s rovnakým opisom štátnozamestnaneckého miesta“.
 
+- 73. V § 55 ods. 1 písm. u) sa za slová „65 rokov“ vkladá čiarka a slová „na dobu najviac troch po sebe nasledujúcich rokov; v rámci uvedenej doby je možné štátnozamestnanecký pomer predĺžiť aj opakovane“ sa nahrádzajú slovami „najviac o tri roky; trvanie štátnozamestnaneckého pomeru možno predlžovať aj opakovane, najviac vždy o jeden ďalší rok“.
+
 - 74. V § 55 ods. 1 písm. x) sa na konci pripájajú tieto slová: „alebo zmena bližšie určenej ďalšej činnosti“.
 
 - 75. V § 55 odsek 2 znie:
@@ -327,6 +335,8 @@ Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých z
 - 80. V § 55 ods. 7 sa vypúšťajú slová „v dočasnej štátnej službe“.
 
 - 81. V § 55 ods. 9 sa za slová „vykonávania funkcie“ vkladajú slová „veľvyslanca alebo funkcie“.
+
+- 82. V § 55 ods. 9 sa vypúšťajú slová „najdlhšie do konca kalendárneho mesiaca, v ktorom štátny zamestnanec dovŕši vek 68 rokov“.
 
 - 83. V § 55 ods. 10 sa za slová „zmena organizačného útvaru“ vkladá čiarka a slová „a zmena názvu organizačného útvaru nie je zmenou“ sa nahrádzajú slovami „zmena názvu organizačného útvaru, zmena ustanoveného týždenného služobného času, alebo zmena údajov v služobnej zmluve podľa § 51 ods. 2 písm. m), n) alebo písm. p) sa nepovažuje za zmenu“.
 
@@ -373,6 +383,8 @@ Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých z
 - (3)
 
 - Na zmenu štátnozamestnaneckého pomeru podľa odsekov 1 a 2 sa primerane použijú ustanovenia § 56, § 58 a 60.“.
+
+- 89. V § 59 ods. 1 sa za slovo „zamestnanec“ vkladá čiarka a slová „ktorý nedovŕšil vek 65 rokov,“.
 
 - 90. V § 60 ods. 1 druhej vete sa za slovom „konania“ vypúšťa čiarka a slová „ak ide o vykonávanie štátnej služby v tej istej funkcii alebo vo funkcii v nižšej platovej triede“.
 
@@ -643,6 +655,168 @@ Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých z
 - 132. V § 110 ods. 1 písm. h) sa vypúšťa slovo „vykonávania“.
 
 - 133. V § 111 ods. 1 písm. g) sa slová „písm. g)“ nahrádzajú slovami „písm. h)“.
+
+- 134. § 112 znie:
+
+- „§ 112
+
+- (1)
+
+- Štátny zamestnanec nesmie
+
+- a)
+
+- vykonávať činnosť alebo sa správať spôsobom, ktorými by mohol narušiť vážnosť a dôstojnosť štátnej služby,
+
+- b)
+
+- prijímať dary alebo iné výhody v súvislosti s vykonávaním štátnej služby okrem darov alebo iných výhod poskytovaných služobným úradom a darov poskytovaných pri oficiálnych rokovaniach alebo stretnutiach,
+
+- c)
+
+- požadovať dary alebo iné výhody, alebo navádzať iného na poskytovanie darov alebo iných výhod v súvislosti s vykonávaním štátnej služby,
+
+- d)
+
+- nadobúdať majetok od štátu, obce, vyššieho územného celku alebo právnickej osoby podľa osobitného predpisu<sup>40</sup>) inak ako za podmienok ustanovených osobitnými predpismi,<sup>41</sup>)
+
+- e)
+
+- používať symboly spojené s vykonávaním štátnej služby na osobný prospech,
+
+- f)
+
+- zvýhodňovať blízke osoby pri vykonávaní štátnej služby,
+
+- g)
+
+- vyhotovovať falzifikáty a nepravdivé dokumenty súvisiace s vykonávaním štátnej služby,
+
+- h)
+
+- vedome šíriť a sprostredkúvať nepravdivé, pravdu skresľujúce alebo zavádzajúce informácie, ktoré by mohli poškodiť povesť služobného úradu alebo povesť ostatných štátnych zamestnancov.
+
+- (2)
+
+- Štátny zamestnanec nesmie byť členom riadiacich, kontrolných alebo dozorných orgánov právnických osôb, ktoré vykonávajú podnikateľskú činnosť, okrem valného zhromaždenia a členskej schôdze.
+
+- (3)
+
+- Obmedzenie podľa odseku 2 sa nevzťahuje na štátneho zamestnanca,
+
+- a)
+
+- ktorý je do riadiaceho, kontrolného alebo dozorného orgánu právnickej osoby vyslaný vládou alebo služobným úradom,
+
+- b)
+
+- s ktorého členstvom v riadiacom, kontrolnom alebo v dozornom orgáne právnickej osoby vysloví služobný úrad písomný súhlas; súhlas možno odvolať, ak je členstvo prekážkou riadneho plnenia povinností štátneho zamestnanca.
+
+- (4)
+
+- Ak je predmetom činností podľa odseku 3 písm. a) plnenie úloh štátnej správy alebo vykonávanie štátnych záležitostí, môže služobný úrad umožniť ich vykonávanie štátnemu zamestnancovi aj v služobnom čase. Ak sa majú tieto činnosti vykonávať mimo pravidelného miesta výkonu štátnej služby, môže služobný úrad vyslať štátneho zamestnanca na služobnú cestu.
+
+- (5)
+
+- Štátny zamestnanec, ktorý je podľa odseku 3 členom riadiaceho, kontrolného alebo dozorného orgánu právnickej osoby, ktorá vykonáva podnikateľskú činnosť, nesmie od tejto právnickej osoby poberať odmenu.
+
+- (6)
+
+- Štátny zamestnanec vo verejnej funkcii, štatutárny orgán, ktorý je vymenovaný podľa osobitného predpisu, veľvyslanec a riaditeľ kancelárie bezpečnostnej rady nesmie
+
+- a)
+
+- podnikať,
+
+- b)
+
+- vykonávať inú zárobkovú činnosť, ktorá je zhodná alebo obdobná s činnosťou, ktorú vykonáva v štátnej službe; tým nie je dotknuté ustanovenie písmena a).
+
+- (7)
+
+- Štátny zamestnanec, na ktorého sa nevzťahuje odsek 6, nesmie
+
+- a)
+
+- podnikať, ak ide o predmet podnikania zhodný alebo obdobný s činnosťou, ktorú vykonáva v štátnej službe,
+
+- b)
+
+- vykonávať inú zárobkovú činnosť, ktorá je zhodná alebo obdobná s činnosťou, ktorú vykonáva v štátnej službe, bez písomného súhlasu služobného úradu; tým nie je dotknuté ustanovenie písmena a).
+
+- (8)
+
+- Obmedzenie podľa odseku 6 písm. b) a odseku 7 písm. b) sa nevzťahuje na
+
+- a)
+
+- vedeckú, pedagogickú, lektorskú, prednášateľskú, publikačnú, literárnu, umeleckú, športovú, znaleckú, tlmočnícku alebo prekladateľskú činnosť,
+
+- b)
+
+- činnosť v poradnom orgáne vlády,
+
+- c)
+
+- činnosť člena poradného orgánu služobného úradu alebo komisie zriadenej služobným úradom,
+
+- d)
+
+- vykonávanie funkcie člena volebnej komisie, komisie na vyhlásenie referenda, alebo komisie na ľudové hlasovanie o odvolaní prezidenta, alebo na činnosť zapisovateľa volebnej komisie,
+
+- e)
+
+- činnosť poslanca obecného zastupiteľstva alebo poslanca zastupiteľstva vyššieho územného celku, ktorí nie sú dlhodobo uvoľnení na výkon funkcie,
+
+- f)
+
+- činnosť hlavného kontrolóra obce alebo hlavného kontrolóra samosprávneho kraja,
+
+- g)
+
+- činnosť člena poradného orgánu obce alebo vyššieho územného celku, alebo
+
+- h)
+
+- činnosť osôb prizvaných na výkon dohľadu, kontroly alebo auditu podľa osobitného predpisu.<sup>42</sup>)
+
+- (9)
+
+- Štátny zamestnanec podľa odseku 7 je povinný oznámiť služobnému úradu bez zbytočného odkladu vykonávanie, začatie, pozastavenie,<sup>43</sup>) prerušenie<sup>44</sup>) alebo skončenie podnikania.
+
+- (10)
+
+- Štátny zamestnanec je povinný písomne požiadať služobný úrad o súhlas s vykonávaním inej zárobkovej činnosti podľa odseku 7 písm. b). Služobný úrad je povinný vyjadriť sa k žiadosti do 30 dní od jej doručenia. Ak služobný úrad nesúhlasí s vykonávaním zárobkovej činnosti, poskytne štátnemu zamestnancovi odôvodnené písomné stanovisko. Neposkytnutie vyjadrenia v lehote podľa druhej vety sa považuje za súhlas služobného úradu s vykonávaním inej zárobkovej činnosti podľa odseku 7 písm. b).
+
+- (11)
+
+- Štátny zamestnanec je povinný do 60 dní odo dňa vzniku štátnozamestnaneckého pomeru alebo od preloženia
+
+- a)
+
+- skončiť členstvo v riadiacom, kontrolnom alebo v dozornom orgáne právnickej osoby, ktoré je v rozpore s odsekmi 2 až 4,
+
+- b)
+
+- skončiť, prerušiť alebo pozastaviť podnikanie, ktoré je v rozpore s odsekom 6 alebo odsekom 7,
+
+- c)
+
+- skončiť vykonávanie inej zárobkovej činnosti, ktoré je v rozpore s odsekmi 6 až 8.“.
+
+  - Poznámky pod čiarou k odkazom 42 až 44 znejú:
+
+  - „<sup>42</sup>) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+  - § 6 ods. 2 zákona Národnej rady Slovenskej republiky č. 39/1993 Z. z. v znení zákona č. 385/2004 Z. z.
+
+  - Zákon č. 357/2015 Z. z. v znení neskorších predpisov.
+
+  - <sup>43</sup>) Napríklad zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
+  - <sup>44</sup>) Napríklad zákon Slovenskej národnej rady č. 323/1992 Zb. notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.“.
+
+  - Poznámky pod čiarou k odkazom 11 a 45 sa vypúšťajú.
 
 - 135. V § 113 ods. 1 sa za písmeno b) vkladá nové písmeno c), ktoré znie:
 
@@ -1085,6 +1259,14 @@ Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých z
 - (5)
 
 - Štátnemu zamestnancovi, ktorý je odborným garantom na verejné obstarávanie, určí služobný úrad funkčný plat podľa predpisov účinných od 1. júla 2025. Ak je funkčný plat podľa prvej vety nižší ako funkčný plat, ktorý patril štátnemu zamestnancovi podľa predpisov účinných do 30. júna 2025, štátnemu zamestnancovi, ktorý je odborným garantom na verejné obstarávanie, patrí rozdiel do sumy funkčného platu priznaného podľa predpisov účinných do 30. júna 2025.“.
+
+- 219. Za § 193m sa vkladá § 193n, ktorý vrátane nadpisu znie:
+
+- „§ 193n
+
+- Prechodné ustanovenie k úprave účinnej od 1. októbra 2025
+
+- Obmedzenie podľa § 112 ods. 7 písm. b) sa nevzťahuje na činnosť podľa § 112 ods. 4 v znení účinnom do 30. septembra 2025 vykonávanú na základe právneho vzťahu uzatvoreného do 30. septembra 2025.“.
 
 - 225. V prílohe č. 2 piatej platovej triede sa vypúšťajú slová „alebo v príslušnom úseku štátnej správy“.
 
