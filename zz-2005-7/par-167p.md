@@ -1,0 +1,7 @@
+# § 167p Speňaženie hnuteľných vecí
+
+(1) Hnuteľné veci podliehajúce konkurzu správca speňaží ako jeden alebo viac súborov majetku v ponukovom konaní. Na tento účel správca zverejní súbor majetku, ktorý ponúka na predaj a lehotu na predkladanie ponúk, ktorá nesmie byť kratšia ako desať kalendárnych dní od zverejnenia ponuky. Prihliada sa iba na tie ponuky, kde bola záloha na celú ponúknutú kúpnu cenu v plnom rozsahu zložená záujemcom na účet správcu. Rozhoduje vždy najvyššia ponúknutá kúpna cena. Ak viacerí záujemcovia ponúknu rovnaké plnenie, rozhodne žreb správcu. Vypratanie vecí je povinný zabezpečiť nadobúdateľ na svoje náklady.
+
+(2) Ak sa hnuteľné veci podliehajúce konkurzu nepodarí speňažiť ani v treťom ponukovom konaní, prestávajú podliehať konkurzu. Ak o takýto súbor hnuteľných vecí prejaví záujem veriteľ prihlásenej pohľadávky, správca ho prevedie tomu veriteľovi prihlásenej pohľadávky, ktorý ponúkne do desiatich dní od skončenia tretieho ponukového konania najvyššiu ponuku. Ak viacerí veritelia prihlásenej pohľadávky ponúknu rovnaké plnenie, rozhodne žreb správcu. Vypratanie vecí je povinný zabezpečiť veriteľ na svoje náklady.
+
+(3) Na písomný pokyn zástupcu veriteľov alebo dotknutého zabezpečeného veriteľa správca speňaží hnuteľné veci aj iným spôsobom. Ak je dotknutých zabezpečených veriteľov viac, písomný pokyn je oprávnený uložiť ten, ktorého zabezpečovacie právo je v poradí najskoršie.
