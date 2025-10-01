@@ -36,7 +36,7 @@
 
 - 10c) § 7 až 49 zákona č. 111/2022 Z. z.
 
-- 11) Zákon č. 466/2002 Z. z. o audítoroch a Slovenskej komore audítorov.
+- 11) Zákon č. 423/2015 Z. z. o štatutárnom audite a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov v znení neskorších predpisov.
 
 - Zákon Slovenskej národnej rady č. 78/1992 Zb. o daňových poradcoch a Slovenskej komore daňových poradcov v znení neskorších predpisov.
 
