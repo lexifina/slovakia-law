@@ -232,9 +232,7 @@
 
 - 17) Zákon č. 437/2004 Z. z. o náhrade za bolesť a o náhrade za sťaženie spoločenského uplatnenia.
 
-- 17a) § 58 zákona č. 305/2005 Z. z. v znení neskorších predpisov.
-
-- § 16 a 90e zákona č. 138/2019 Z. z. v znení neskorších predpisov.
+- 17a) § 90e zákona č. 138/2019 Z. z. v znení zákona č. 92/2022 Z. z.
 
 - 18) § 18 ods. 1 písm. b) zákona č. 581/2004 Z. z.
 
