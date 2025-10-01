@@ -1114,6 +1114,8 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 
 - oznámiť ministerstvu prostredníctvom elektronického systému zmeny monitorovacieho plánu, ktoré nie sú významné podľa osobitného predpisu,<sup>1a</sup>) najneskôr do 31. decembra príslušného kalendárneho roka.“.
 
+- 43. § 22 sa vypúšťa.
+
 - 44. V § 24 ods. 3 písmeno a) znie:
 
 - „a)
@@ -1145,6 +1147,8 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 - okresný úrad v sídle kraja,“.
 
   - Doterajšie písmeno b) sa označuje ako písmeno c).
+
+- 49. V § 25 sa vypúšťa písmeno c).
 
 - 50. V § 26 ods. 1 sa vypúšťa písmeno e).
 
@@ -1320,7 +1324,107 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 
 - zrušenia vydaného povolenia na emisie skleníkových plynov pre regulované subjekty a vyradenia zo systému obchodovania podľa § 6b.“.
 
+- 64. § 26a sa vypúšťa.
+
 - 65. V § 27 ods. 1 písm. a) sa slová „§ 5 a 6“ nahrádzajú slovami „§ 4 a 5“.
+
+- 66. § 27 vrátane nadpisu znie:
+
+- „§ 27
+
+- Okresný úrad v sídle kraja
+
+- (1)
+
+- Okresný úrad v sídle kraja
+
+- a)
+
+- rozhoduje o vydaní povolení na vypúšťanie emisií skleníkových plynov, ich zmene alebo o vyradení prevádzky zo systému obchodovania podľa § 4 a 5,
+
+- b)
+
+- oznamuje vydanie povolení na vypúšťanie emisií skleníkových plynov, ich zmenu alebo vyradenie prevádzky zo systému obchodovania ministerstvu a vnútroštátnemu správcovi,
+
+- c)
+
+- rozhoduje o vydaní povolení na emisie skleníkových plynov, ich zmenu alebo vyradenie regulovaného subjektu zo systému obchodovania podľa § 6a a 6b,
+
+- d)
+
+- oznamuje vydanie povolení na emisie skleníkových plynov, ich zmenu alebo vyradenie regulovaného subjektu zo systému obchodovania ministerstvu a vnútroštátnemu správcovi,
+
+- e)
+
+- schvaľuje každú významnú zmenu monitorovacieho plánu na zisťovanie a vykazovanie emisií skleníkových plynov prevádzkovateľa a regulovaného subjektu podľa osobitného predpisu,<sup>1a</sup>)
+
+- f)
+
+- schvaľuje žiadosť prevádzkovateľa a regulovaného subjektu, ktorá sa týka rozhodnutia overovateľa nevykonať návštevu na mieste podľa osobitného predpisu,<sup>5</sup>) ak ide o overenie správy o emisiách,
+
+- g)
+
+- schvaľuje žiadosť prevádzkovateľa a regulovaného subjektu týkajúcu sa rozhodnutia overovateľa vykonať virtuálnu návštevu na mieste podľa osobitného predpisu,<sup>5</sup>) ak ide o overenie správy o emisiách,
+
+- h)
+
+- povoľuje overovateľom virtuálne návštevy na mieste podľa osobitného predpisu,<sup>5</sup>) ak ide o overenie správy o emisiách prevádzkovateľa a regulovaného subjektu,
+
+- i)
+
+- vydáva prevádzkovateľom a regulovaným subjektom potvrdenia o správnosti správy predloženej podľa § 21 ods. 1 písm. a) a § 21 ods. 6 písm. a),
+
+- j)
+
+- oznamuje ministerstvu informáciu, ak prevádzkovateľ a regulovaný subjekt nepredloží správu podľa § 21 ods.1 písm. a) a § 21 ods. 6 písm. a) alebo správa nie je overená ako správna,
+
+- k)
+
+- schvaľuje správu o zlepšení podľa osobitného predpisu,<sup>26b</sup>)
+
+- l)
+
+- vykonáva prostredníctvom elektronického systému konzervatívny odhad emisií podľa osobitného predpisu,<sup>26c</sup>)
+
+- m)
+
+- informuje ministerstvo o zistených skutočnostiach podľa osobitného predpisu,<sup>23a</sup>)
+
+- n)
+
+- ukladá pokuty za správne delikty podľa § 28, ak ide o prevádzkovateľa a regulovaný subjekt,
+
+- o)
+
+- potvrdzuje údaje a schvaľuje zmeny v elektronickom systéme podľa § 31,
+
+- p)
+
+- v odôvodnených prípadoch žiada Slovenskú inšpekciu životného prostredia o odborné stanovisko vo veciach
+
+- 1.
+
+- zaradenia do systému obchodovania podľa prílohy č. 1 tabuliek A alebo B,
+
+- 2.
+
+- dodržiavania požiadaviek na monitorovanie emisií skleníkových plynov alebo na podávanie správ o emisiách ustanovené v povolení na vypúšťanie emisií skleníkových plynov podľa § 4,
+
+- 3.
+
+- zrušenia vydaného povolenia na vypúšťanie emisií skleníkových plynov a vyradenia prevádzky zo systému obchodovania podľa § 5,
+
+- 4.
+
+- dodržiavania požiadaviek na monitorovanie emisií skleníkových plynov alebo na podávanie správ o emisiách ustanovené v povolení na emisie skleníkových plynov pre regulované subjekty podľa § 6a,
+
+- 5.
+
+- zrušenia vydaného povolenia na emisie skleníkových plynov pre regulované subjekty a vyradenia zo systému obchodovania podľa § 6b.
+
+- (2)
+
+- O veciach, v ktorých rozhoduje v prvom stupni okresný úrad v sídle kraja podľa odseku 1 písm. a), c), e), f), g), k) a n), rozhoduje v druhom stupni ministerstvo.“.
 
 - 67. Za § 27 sa vkladá § 27a, ktorý vrátane nadpisu znie:
 
@@ -1402,6 +1506,8 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 
 - nesplní v určenej lehote povinnosti podľa § 21 ods. 1 písm. c) až e), § 21 ods. 2 písm. a), § 21 ods. 4, § 21 ods. 5 písm. a) a § 21 ods. 6 písm. a), c) a d).“.
 
+- 69. V § 28 ods. 2 sa slová „Okresný úrad, a ak ide o regulovaný subjekt okresný úrad v sídle kraja“ nahrádzajú slovami „Okresný úrad v sídle kraja.“.
+
 - 70. V § 28 sa za odsek 2 vkladajú odseky 3 a 4, ktoré znejú:
 
 - „(3)
@@ -1467,6 +1573,8 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 - „(2)
 
 - Správny poriadok sa nevzťahuje na konanie podľa § 9, 10, 11, 14 a 15, § 21 ods. 1 písm. e), § 21 ods. 4 písm. b), § 21 ods. 6 písm. d), § 26 ods. 1 písm. d), § 26 ods. 1 písm. v), § 26a ods. 1 písm. g) a § 27 ods. 1 písm. c).“.
+
+- 78. V § 30 ods. 2 sa za slovami ,,§ 26 ods. 1 písm. v)“ vypúšťa čiarka a slová „§ 26a ods. 1 písm. g) a § 27 ods. 1 písm. c)“ sa nahrádzajú slovami „a § 27 ods. 1 písm. i)“.
 
 - 79. § 31 vrátane nadpisu znie:
 
@@ -1549,6 +1657,8 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 - (11)
 
 - Údaje podľa odseku 1 sa na základe predchádzajúceho súhlasu ministerstva predkladajú s použitím elektronickej šablóny poskytnutej Komisiou zverejnenej na webovom sídle ministerstva.“.
+
+- 80. V § 31 ods. 2 sa za slovami „regulovaný subjekt“ vypúšťa čiarka a slová „okresný úrad“.
 
 - 81. § 32 sa dopĺňa odsekmi 5 a 6, ktoré znejú:
 
@@ -1730,7 +1840,7 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 
 - 86. V prílohe č. 1 tabuľka B znie:
 
-- „[Tabuľka B](assets/4e415ec62a5ab247848cda5cc2dd9bc031546208330facf32154115f3147f2a4.pdf)“.
+- „[Tabuľka B](assets/80764b913b125d85c8f00b2429b1da91fba0a18f79742fd5da5195038a66c720.pdf)“.
 
 - 87. V prílohe č. 1 sa za tabuľku B vkladá tabuľka C, ktorá znie:
 
@@ -1744,7 +1854,7 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 
 - 89. V prílohe č. 1 tabuľka D znie:
 
-- „[Tabuľka D](assets/3816bea0999b157663499183decb6def7b9b956a939784a43f9847523f08f6fe.pdf)“.
+- „[Tabuľka D](assets/700014c03471be05c2c2e2b3752381a92787d1a8d3eb4aa06f9003503e4e89fc.pdf)“.
 
 - 90. V nadpise prílohy č. 2 sa vypúšťajú slová „A ZNEČISŤUJÚCICH LÁTOK“.
 
@@ -2297,6 +2407,8 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 - 4.
 
 - Smernica Európskeho parlamentu a Rady (EÚ) 2023/958 z 10. mája 2023, ktorou sa mení smernica 2003/87/ES, pokiaľ ide o príspevok leteckej dopravy k cieľu Únie v oblasti znižovania emisií v celom hospodárstve a ktorou sa primerane vykonáva globálne trhové opatrenie (Ú. v. EÚ L 130, 16. 5. 2023).“.
+
+- 95. Slová „okresný úrad“ vo všetkých tvaroch sa v celom texte zákona okrem § 38b nahrádzajú slovami „okresný úrad v sídle kraja“ v príslušnom tvare.
 
 - 96. V celom texte zákona sa odkaz 8 nahrádza odkazom 4.
 
