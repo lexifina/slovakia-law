@@ -16,8 +16,6 @@
 
 - 3) § 116 Občianskeho zákonníka.
 
-- 3a) § 2 písm. b) zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 570/2009 Z. z.
-
 - 3b) Čl. 3 nariadenia Európskeho parlamentu a Rady (EÚ) 2015/848 z 20. mája 2015 o insolvenčnom konaní (prepracované znenie) (Ú. v. EÚ L 141, 5. 6. 2015) v platnom znení.
 
 - 3c) Čl. 5 nariadenia (EÚ) č. 2015/848 v platnom znení.
@@ -49,8 +47,6 @@
 - 8ab) § 15 zákona č. 374/2014 Z. z.
 
 - 8ac) Čl. 2 ods. 12 nariadenia (EÚ) č. 2015/848 v platnom znení.
-
-- 8ad) Čl. 55 nariadenia (EÚ) č. 2015/848 v platnom znení.
 
 - 8ae) § 35 až 39 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
 
@@ -93,6 +89,8 @@
 - 15) Napríklad zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
 
 - 16) § 73 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
+
+- 16a) § 5 zákona č. 431/2002 Z. z. v znení zákona č. 561/2004 Z. z.
 
 - 17) Zákon č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov v znení zákona č. 515/2003 Z. z.
 
@@ -176,6 +174,8 @@
 
 - § 107a zákona č. 566/2001 Z. z. v znení zákona č. 510/2002 Z. z.
 
+- 31a) Zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 32a) § 3 ods. 3 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 32b) § 11 ods. 1 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení neskorších predpisov.
@@ -225,6 +225,14 @@
 - § 42a a 42b Občianskeho zákonníka v znení neskorších predpisov.
 
 - 33j) § 2 ods. 1 písm. t) zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
+- 33k) § 5 ods. 3 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení zákona č. 273/2015 Z. z.
+
+- 33l) Napríklad zákon č. 8/2005 Z. z. v znení neskorších predpisov, zákon č. 111/2022 Z. z.
+
+- 33m) § 25 ods. 7 zákona o e-Governmente.
+
+- 33n) § 35 až 39 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
 
 - 33o) Napríklad Obchodný zákonník, zákon č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov, zákon č. 171/1993 Z. z. v znení neskorších predpisov, zákon č. 483/2001 Z. z. v znení neskorších predpisov, zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností v znení neskorších predpisov, zákon č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) v znení neskorších predpisov, zákon č. 563/2009 Z. z. v znení neskorších predpisov, zákon č. 500/2022 Z. z. o Vojenskom spravodajstve.
 

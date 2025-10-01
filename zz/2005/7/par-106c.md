@@ -10,7 +10,7 @@
 
 - d) bol zložený preddavok na náklady malého konkurzu,
 
-- e) dlžník neporušuje povinnosť podľa § 40 ods. 2 alebo ods. 4 Obchodného zákonníka,
+- e) dlžník v čase rozhodnutia súdu o návrhu na vyhlásenie malého konkurzu neporušuje povinnosť podľa § 40 ods. 2 alebo ods. 5 Obchodného zákonníka,
 
 - f) podľa posledných piatich účtovných závierok nemal dlžník záväzky v sume vyššej ako 1 000 000 eur,
 
@@ -20,6 +20,8 @@
 
 - i) návrh na vyhlásenie malého konkurzu je úplný a je autorizovaný osobou oprávnenou konať v mene dlžníka.
 
-(2) Ak nie sú splnené podmienky na vyhlásenie malého konkurzu, súd v lehote 15 dní od doručenia návrhu na vyhlásenie malého konkurzu takýto návrh podľa povahy odmietne alebo konanie zastaví.
+(2) Ak má návrh na vyhlásenie malého konkurzu nedostatky, súd v lehote podľa odseku 1 uznesením poučí navrhovateľa o nedostatkoch návrhu a vyzve ho, aby tieto nedostatky v lehote 10 dní odstránil. Ak tak navrhovateľ neurobí, súd návrh odmietne do 15 dní po tom, čo uplynula lehota na odstránenie nedostatkov. Proti uzneseniu o odmietnutí návrhu odvolanie nie je prípustné. Uznesenie o odmietnutí návrhu súd doručí navrhovateľovi a dlžníkovi; uznesenie o odmietnutí návrhu súd nezverejňuje v insolvenčnom registri.
 
-(3) Vyhlásením malého konkurzu sa začína malý konkurz; vo výroku uznesenia o vyhlásení malého konkurzu súd uvedie, že ide o malý konkurz. Malý konkurz sa považuje za vyhlásený zverejnením uznesenia o vyhlásení malého konkurzu v Obchodnom vestníku. Vyhlásením malého konkurzu sa dlžník stáva úpadcom.
+(3) Ak nie sú splnené podmienky na vyhlásenie malého konkurzu, súd v lehote 15 dní od uplynutia lehoty na odstránenie nedostatkov takýto návrh podľa povahy odmietne alebo konanie zastaví.
+
+(4) Vyhlásením malého konkurzu sa začína malý konkurz; vo výroku uznesenia o vyhlásení malého konkurzu súd uvedie, že ide o malý konkurz. Vyhlásením malého konkurzu sa dlžník stáva úpadcom.

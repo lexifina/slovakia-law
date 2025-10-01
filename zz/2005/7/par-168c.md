@@ -1,6 +1,6 @@
 # § 168c Zostavenie návrhu splátkového kalendára
 
-(1) Správca do 45 dní od zloženia preddavku na paušálnu odmenu a paušálnu náhradu nevyhnutných nákladov spojených s vedením konania preskúma pomery dlžníka a podľa toho zostaví návrh splátkového kalendára.
+(1) Správca do 45 dní od zloženia preddavku na paušálnu odmenu a paušálnu náhradu nevyhnutných nákladov spojených s vedením konania preskúma pomery dlžníka a podľa toho zostaví návrh splátkového kalendára v insolvenčnom registri.
 
 (2) Pri zostavení návrhu splátkového kalendára sa prihliadne najmä na
 
@@ -24,4 +24,4 @@
 
 (6) Návrh splátkového kalendára musí byť zostavený tak, aby bol splniteľný vzhľadom na možnosti dlžníka, najmä s prihliadnutím na jeho budúce príjmy, nevyhnutné výdavky potrebné na zabezpečenie bývania a základných životných potrieb dlžníka a jeho vyživovaných osôb, na plnenie vyživovacej povinnosti dlžníkom a na plnenie oddlžením nedotknutých pohľadávok.
 
-(7) Ak pomery dlžníka neumožňujú zostaviť splátkový kalendár, správca to oznámi v Obchodnom vestníku. Oznámením v Obchodnom vestníku sa konanie končí. Ak pomery dlžníka neumožňujú zostaviť splátkový kalendár, správca odporučí dlžníkovi, aby podal návrh na vyhlásenie konkurzu.
+(7) Ak pomery dlžníka neumožňujú zostaviť splátkový kalendár, správca to oznámi v insolvenčnom registri. Zverejnením oznámenia sa konanie končí. Ak pomery dlžníka neumožňujú zostaviť splátkový kalendár, správca odporučí dlžníkovi, aby podal návrh na vyhlásenie konkurzu.

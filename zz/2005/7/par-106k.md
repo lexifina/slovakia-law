@@ -7,3 +7,5 @@
 (3) Zodpovednosť za nepodanie návrhu na vyhlásenie konkurzu podľa § 11a uložením pokuty podľa odseku 1 nie je dotknutá.
 
 (4) Pokuta je príjmom štátneho rozpočtu.
+
+(5) Ustanovenie § 11 ods. 2 sa v konkurze vyhlásenom podľa tohto oddielu nepoužije.

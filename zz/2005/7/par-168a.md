@@ -16,4 +16,4 @@
 
 (2) Ak nie sú splnené podmienky podľa odseku 1, súd najneskôr do 15 dní od doručenia návrhu na určenie splátkového kalendára, návrh odmietne alebo konanie zastaví.
 
-(3) V uznesení o poskytnutí ochrany pred veriteľmi súd uloží dlžníkovi, aby na účet správcu zložil preddavok na paušálnu odmenu a paušálnu náhradu nevyhnutných nákladov spojených s vedením konania. Ak tak dlžník neurobí ani do siedmych dní od výzvy správcu, správca to oznámi v Obchodnom vestníku. Oznámením v Obchodnom vestníku sa konanie končí.
+(3) V uznesení o poskytnutí ochrany pred veriteľmi súd uloží dlžníkovi, aby na účet správcu zložil preddavok na paušálnu odmenu a paušálnu náhradu nevyhnutných nákladov spojených s vedením konania. Ak tak dlžník neurobí ani do siedmych dní od výzvy správcu, správca to oznámi v insolvenčnom registri. Zverejnením oznámenia sa konanie končí.

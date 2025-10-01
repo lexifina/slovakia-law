@@ -16,4 +16,4 @@
 
 (2) Ak nie sú splnené podmienky podľa odseku 1, súd v rovnakej lehote návrh odmietne alebo konanie zastaví.
 
-(3) Vyhlásením konkurzu sa začína konkurz. Konkurz sa považuje za vyhlásený zverejnením rozhodnutia o vyhlásení konkurzu v Obchodnom vestníku.
+(3) Vyhlásením konkurzu sa začína konkurz. Konkurz je vyhlásený zverejnením uznesenia o vyhlásení konkurzu v insolvenčnom registri.

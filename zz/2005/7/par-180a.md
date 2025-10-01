@@ -32,7 +32,7 @@ Ak je úpadcom banka alebo pobočka zahraničnej banky, tak z výťažku speňa�
 
 (5)
 
-Pred uspokojením pohľadávok podľa odseku 4 a po uspokojení všetkých ostatných pohľadávok vrátane pohľadávok podľa § 95 ods. 2 a 3 sa uspokoja pohľadávky vyplývajúce z nástrojov kapitálu Tier 2.
+Pred uspokojením pohľadávok podľa odseku 4 a po uspokojení všetkých ostatných pohľadávok vrátane pohľadávok podľa § 95 ods. 2 a zmluvných pokút podľa § 95 ods. 3 sa uspokoja pohľadávky vyplývajúce z nástrojov kapitálu Tier 2.
 
 (6)
 

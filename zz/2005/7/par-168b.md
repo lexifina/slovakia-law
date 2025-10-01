@@ -4,4 +4,4 @@
 
 (2) Dlžník má právo po poskytnutí ochrany pred veriteľmi jedenkrát písomne žiadať dražobníka o odklad dražby svojho obydlia navrhnutej zabezpečeným veriteľom. Ak tak dlžník urobí, dražba sa môže uskutočniť až po uplynutí šiestich mesiacov od doručenia žiadosti. Na takúto dražbu sa použijú primerane ustanovenia o opakovanej dražbe.<sup>25e</sup>)
 
-(3) Účinky ochrany pred veriteľmi nastupujú zverejnením uznesenia o poskytnutí ochrany pred veriteľmi v Obchodnom vestníku. Tieto účinky zanikajú skončením konania.
+(3) Účinky ochrany pred veriteľmi nastupujú zverejnením uznesenia o poskytnutí ochrany pred veriteľmi. Tieto účinky zanikajú skončením konania.

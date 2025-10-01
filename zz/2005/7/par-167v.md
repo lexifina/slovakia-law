@@ -1,8 +1,8 @@
 # § 167v Zrušenie konkurzu
 
-(1) Správca bez zbytočného odkladu, po splnení rozvrhu výťažku alebo po tom, čo zistí, že konkurzná podstata nepokryje náklady konkurzu, oznámi v Obchodnom vestníku, že konkurz sa končí. Takéto oznámenie však správca neuskutoční skôr, ako uplynie základná prihlasovacia lehota, a ak niektorý z veriteľov uhradil zálohu na trovy šetrení podľa § 166i ods. 2, nie skôr, ako takéto šetrenia uskutočnil. Oznámením v Obchodnom vestníku sa konkurz zrušuje.
+(1) Správca bez zbytočného odkladu, po splnení rozvrhu výťažku alebo po tom, čo zistí, že konkurzná podstata nepokryje náklady konkurzu, zverejní oznámenie o ukončení konkurzu. Takéto oznámenie však správca neuskutoční skôr, ako uplynie základná prihlasovacia lehota, a ak niektorý z veriteľov uhradil zálohu na trovy šetrení podľa § 166i ods. 2, nie skôr, ako takéto šetrenia uskutočnil. Zverejnením oznámenia sa konkurz zrušuje.
 
-(2) Správca bez zbytočného odkladu oznámi v Obchodnom vestníku, že konkurz sa končí aj vtedy, ak zistí, že sa do 90 dní od vyhlásenia konkurzu neprihlásil žiadny veriteľ alebo postavenie všetkých veriteľov ako účastníkov konania zaniklo. Oznámením v Obchodnom vestníku sa konkurz zrušuje.
+(2) Správca bez zbytočného odkladu zverejní oznámenie o ukončení konkurzu aj vtedy, ak zistí, že sa do 90 dní od vyhlásenia konkurzu neprihlásil žiadny veriteľ alebo postavenie všetkých veriteľov ako účastníkov konania zaniklo. Zverejnením oznámenia sa konkurz zrušuje.
 
 (3) Konkurz sa zrušuje tiež uznesením, ktorým súd zastaví konanie z dôvodu, že tu nie sú predpoklady pre vedenie konkurzu. V uznesení rozhodne aj o zrušení oddlženia. Premlčacia lehota pri pohľadávkach, ktoré mohli byť uplatnené v konkurze prihláškou, neuplynie skôr, ako tri roky od zastavenia konania. Voči tomuto rozhodnutiu je dlžník oprávnený podať odvolanie.
 

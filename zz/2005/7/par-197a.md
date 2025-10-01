@@ -1,9 +1,9 @@
-# § 197a Elektronické podanie správcovi
+# § 197a Doručovanie písomností
 
-(1) Písomnosti určené správcovi možno podať elektronicky aj do elektronickej schránky správcu prostredníctvom na to určeného elektronického formulára; elektronické podanie a jeho prílohy musia byť podpísané zaručeným elektronickým podpisom osoby oprávnenej na podanie elektronického podania.
+(1) Podanie alebo iná písomnosť účastníka konania alebo inej osoby v konkurznom konaní, reštrukturalizačnom konaní a v konaní o oddlžení, ktorá je predmetom zverejňovania v insolvenčnom registri, sa doručuje súdu alebo správcovi elektronicky prostredníctvom elektronického formulára špecializovaného portálu;<sup>33k</sup>) to neplatí, ak tento zákon alebo osobitný predpis<sup>33l</sup>) ustanovuje inak. Ustanovenia osobitného predpisu<sup>33m</sup>) tým nie sú dotknuté. Na podania alebo iné písomnosti podané súdu alebo správcovi iným spôsobom sa neprihliada, ak tento zákon alebo osobitný predpis neustanovuje inak.<sup>33l</sup>)
 
-(2) Súčasťou prihlášky nepeňažnej pohľadávky podávanej elektronicky do elektronickej schránky správcu musí byť znalecký posudok podľa § 29 ods. 7.
+(2) Podanie alebo iná písomnosť účastníka konania podľa odseku 1 musia byť autorizované účastníkom konania alebo jeho zástupcom, inak sa na ne neprihliada.
 
-(3) Ak písomnosti určené správcovi nemožno doručiť elektronicky do elektronickej schránky správcu preukázateľne z dôvodov, ktoré nenastali na strane podávajúcej osoby, lehota na podanie písomností sa považuje za zachovanú, ak sa písomnosti doručia správcovi najneskôr do troch pracovných dní po uplynutí lehoty podľa tohto zákona.
+(3) Prílohy, ktoré je potrebné pripojiť k podaniu alebo k inej písomnosti účastníka konania doručovanej elektronicky prostredníctvom špecializovaného portálu, vrátane prílohy, pre ktorú sa vyžaduje úradné osvedčenie podpisu, musia byť podané v elektronickej podobe spolu s týmto podaním alebo s inou písomnosťou, inak sa na podanie alebo inú písomnosť doručovanú elektronicky prostredníctvom špecializovaného portálu neprihliada. Ak je príloha vyhotovená v listinnej podobe, doručuje sa elektronicky tak, že sa prevedie do elektronickej podoby a pripojí sa k podaniu alebo k inej písomnosti; ustanovenia osobitného predpisu o zaručenej konverzii<sup>33n</sup>) sa nepoužijú.
 
-(4) Na elektronické doručovanie elektronických podaní správcovi sa použije osobitný predpis.<sup>33a</sup>)
+(4) Ak podanie alebo inú písomnosť doručovanú elektronicky prostredníctvom špecializovaného portálu nemožno preukázateľne doručiť prostredníctvom špecializovaného portálu z dôvodov, ktoré nenastali na strane podávajúcej osoby, lehota ustanovená pre doručenie podania alebo inej písomnosti doručovanej elektronicky prostredníctvom špecializovaného portálu sa považuje za zachovanú, ak sa písomnosť doručí príslušnému orgánu najneskôr do troch pracovných dní po uplynutí lehoty podľa tohto zákona.
