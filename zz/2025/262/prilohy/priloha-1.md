@@ -1,0 +1,1 @@
+Príloha č. 1 k rozhodnutiu predsedu Národnej rady Slovenskej republiky č. 262/2025 Z. z. [ZOZNAM OBCÍ, v ktorých sa vyhlasujú voľby do orgánov samosprávy obcí na 21. marca 2026](../assets/3b13b27d0c6ceaf3a89ced6f91de03a6f65094a193801e3a74fe2380f41ed10d.pdf)
