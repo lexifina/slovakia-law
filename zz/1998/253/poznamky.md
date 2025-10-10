@@ -58,6 +58,8 @@
 
 - 8ae) § 43 ods. 14 a § 56 ods. 10 zákona č. 351/2011 Z. z. o elektronických komunikáciách v znení neskorších predpisov.
 
+- 8aea) Zákon č. 260/2025 Z. z. o adresnej energopomoci a o zmene a doplnení niektorých zákonov.
+
 - 8af) § 54a ods. 1 písm. a) prvý bod zákona č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - § 28a ods. 1 písm. a) prvý bod zákona č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení zákona č. 310/2006 Z. z.
