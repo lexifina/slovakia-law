@@ -302,6 +302,8 @@
 
 - § 30aa ods. 21 zákona č. 523/2004 Z. z. v znení zákona č. 101/2022 Z. z.
 
+- 53ah) § 13 ods. 1 až 3 zákona č. 260/2025 Z. z. o adresnej energopomoci a o zmene a doplnení niektorých zákonov.
+
 - 53b) § 267 zákona č. 73/1998 Z. z.
 
 - § 192 zákona č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov.
