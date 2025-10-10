@@ -678,6 +678,8 @@
 
 - 95bb) § 3 ods. 3 písm. f) zákona č. 355/2007 Z. z.
 
+- 95bc) Zákon č. 260/2025 Z. z. o adresnej energopomoci a o zmene a doplnení niektorých zákonov.
+
 - 95c) § 2 zákona č. 453/2003 Z. z.
 
 - 95ca) Nariadenie Európskeho parlamentu a Rady (ES) č. 883/2004 z 29. apríla 2004 o koordinácii systémov sociálneho zabezpečenia (Mimoriadne vydanie Ú. v. EÚ, kap. 5/ zv. 5; Ú. v. EÚ L 166, 30. 4. 2004) v platnom znení.
