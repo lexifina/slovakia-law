@@ -6,17 +6,23 @@
 
 - 1ab) § 2 písm. m) zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení zákona č. 384/2009 Z. z.
 
+- 1ac) § 29 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
+
 - 1b) § 10 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
 
 - 1c) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
-- 1d) § 20f až 21 Občianskeho zákonníka.
-
-- § 20b až 20f zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
-
 - 2) § 52 zákona č. 364/2004 Z. z.
 
 - 2a) § 2b ods. 1 zákona Slovenskej národnej rady č. 369/1990 Zb. v znení zákona č. 70/2018 Z. z.
+
+- 2aa) § 2 ods. 2 zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov.
+
+- 2ab) § 16 ods. 6 zákona č. 566/2001 Z. z.
+
+- 2ac) § 2 písm. c) zákona č. 250/2012 Z. z. o regulácii v sieťových odvetviach v znení neskorších predpisov.
+
+- 2ad) § 2 písm. f) zákona č. 250/2012 Z. z.
 
 - 2b) § 2 ods. 4 písm. e) Stavebného zákona.
 
@@ -44,9 +50,9 @@
 
 - 8a) § 26 zákona č. 364/2004 Z. z. v znení neskorších predpisov.
 
-- 8b) § 11 ods. 4 písm. b) zákona č. 250/2012 Z. z. o regulácii v sieťových odvetviach.
+- 8b) § 11 ods. 4 písm. b) zákona č. 250/2012 Z. z.
 
-- Vyhláška Úradu pre reguláciu sieťových odvetví č. 21/2017 Z. z., ktorou sa ustanovuje cenová regulácia výroby, distribúcie a dodávky pitnej vody verejným vodovodom a odvádzania a čistenia odpadovej vody verejnou kanalizáciou v znení neskorších predpisov.
+- Vyhláška Úradu pre reguláciu sieťových odvetví č. 323/2022 Z. z., ktorou sa ustanovuje cenová regulácia výroby, distribúcie a dodávky pitnej vody verejným vodovodom a odvádzania a čistenia odpadovej vody verejnou kanalizáciou a niektoré podmienky vykonávania regulovaných činností vo vodnom hospodárstve v znení neskorších predpisov.
 
 - 8c) Vyhláška Ministerstva vnútra Slovenskej republiky č. 699/2004 Z. z. o zabezpečení stavieb vodou na hasenie požiarov v znení vyhlášky č. 562/2005 Z. z.
 
