@@ -46,7 +46,7 @@
 
 - e) dátum vzniku a skončenia pracovného pomeru alebo štátnozamestnaneckého pomeru.
 
-(4) Evidencia pôvodcov registratúr sa vedie na účely zabezpečenia predarchívnej starostlivosti štátnych archívov a ministerstva u pôvodcov registratúr. Evidencia pôvodcov registratúr obsahuje
+(4) Evidencia pôvodcov registratúr sa vedie na účely zabezpečenia predarchívnej starostlivosti štátnych archívov a ministerstva u pôvodcov registratúr. Evidencia pôvodcov registratúr obsahuje najmä
 
 - a) identifikačné údaje o pôvodcovi registratúry v rozsahu meno a priezvisko pôvodcu registratúry, alebo ak ide o právnickú osobu, názov a identifikačné číslo organizácie, ak ho má pridelené,
 

@@ -30,11 +30,11 @@
 
 - n) nezabezpečí správu registratúry,
 
-- o) umiestni registratúrne záznamy v priestoroch, ktoré nespĺňajú podmienky ich ochrany, alebo nezabezpečí uchovávanie alebo zmenu formátu elektronického registratúrneho záznamu postupom podľa tohto zákona a všeobecne záväzných právnych predpisov vydaných na jeho vykonanie,
+- o) umiestni registratúrne záznamy v priestoroch, ktoré nespĺňajú podmienky ich ochrany, alebo nezabezpečí uchovávanie alebo transformáciu registratúrneho záznamu postupom podľa tohto zákona a všeobecne záväzných právnych predpisov vydaných na jeho vykonanie,
 
 - p) nevykoná opatrenie na nápravu nedostatkov v správe registratúry, ktoré mu uložilo ministerstvo,
 
-- r) nepredloží na posúdenie dokumentárnej hodnoty záznam, ktorý nadobudol a ktorého obsah, pôvod, čas vzniku alebo jedinečnosť vyhotovenia odôvodňujú predpoklad, že by mohlo ísť o archívny dokument,
+- r) nepredloží na posúdenie dokumentárnej hodnoty záznam, ktorý nadobudol a ktorého obsah, pôvod, čas vzniku alebo hodnovernosť odôvodňujú predpoklad, že by mohlo ísť o archívny dokument,
 
 - s) nepožiada ministerstvo o súhlas so zriadením archívu alebo so zrušením archívu,
 
@@ -48,13 +48,13 @@
 
 - x) neoznámi ako zriaďovateľ archívu vznik a zánik pracovného pomeru osoby vykonávajúcej odborné činnosti v archíve,
 
-- y) nevráti povolenie, ktoré nepoužil,
+- y) nevráti povolenie na dočasný vývoz archívnych dokumentov, ktoré nepoužil,
 
 - z) nepredloží návrh na vyradenie v lehote podľa § 18 ods. 3,
 
 - za) bráni alebo marí výkon kontroly podľa § 26a.
 
-(2) Za priestupok podľa odseku 1 písm. a) až d) možno uložiť pokutu do 33 193 eur, za priestupok podľa odseku 1 písm. e) až j) pokutu do 16 596 eur, za priestupok podľa odseku 1 písm. k) až p) pokutu do 3319 eur a za priestupok podľa odseku 1 písm. r) až za) pokutu do 1659 eur.
+(2) Za priestupok podľa odseku 1 písm. a) až d) možno uložiť pokutu do 40 000 eur, za priestupok podľa odseku 1 písm. e) až j) pokutu do 20 000 eur, za priestupok podľa odseku 1 písm. k) až p) pokutu do 5 000 eur a za priestupok podľa odseku 1 písm. r) až za) pokutu do 2 000 eur.
 
 (3) Priestupky podľa tohto zákona prejednáva ministerstvo.
 

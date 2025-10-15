@@ -20,7 +20,9 @@
 
 - 13) Napríklad Obchodný zákonník, zákon č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností v znení neskorších predpisov, zákon č. 85/2005 Z. z. o politických stranách a politických hnutiach v znení neskorších predpisov.
 
-- 14) § 8 ods. 2 a § 59 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
+- 13a) § 16 ods. 4 písm. c) zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 14) § 16 ods. 4 písm. d) zákona č. 245/2008 Z. z. v znení neskorších predpisov.
 
 - 15) Čl. 10 Dohovoru o opatreniach na zákaz a zamedzenie nedovoleného dovozu, vývozu a prevodu vlastníctva kultúrnych statkov (vyhláška ministra zahraničných vecí č. 15/1980 Zb.).
 
@@ -56,11 +58,7 @@
 
 - 28) § 4 ods. 2 písm. c) a d) zákona č. 180/2013 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 125/2016 Z. z.
 
-- 29) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 29a) Napríklad ISO 11799 Informácie a dokumentácia – požiadavky na ukladanie archívnych dokumentov a knižničných dokumentov, STN EN ISO 9706 Informácie a dokumentácia. Papier na dokumenty. Požiadavky na stálosť (50 2195), výnos Ministerstva vnútra Slovenskej republiky č. 525/2011 Z. z. o štandardoch pre elektronické informačné systémy na správu registratúry.
-
-- 29b) § 35 ods. 2 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení zákona č. 273/2015 Z. z.
+- 29a) Napríklad ISO 11799 Informácie a dokumentácia – požiadavky na ukladanie archívnych dokumentov a knižničných dokumentov, STN EN ISO 9706 Informácie a dokumentácia. Papier na dokumenty. Požiadavky na stálosť (50 2195), výnos Ministerstva vnútra Slovenskej republiky č. 525/2011 Z. z. o štandardoch pre elektronické informačné systémy na správu registratúry v znení opatrenia č. 203/2021 Z. z.
 
 - 30) Napríklad § 17 Obchodného zákonníka, zákon č. 146/2000 Z. z. o ochrane topografií polovodičových výrobkov v znení zákona č. 84/2007 Z. z., zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov, zákon č. 435/2001 Z. z. o patentoch, dodatkových ochranných osvedčeniach a o zmene a doplnení niektorých zákonov (patentový zákon) v znení neskorších predpisov, zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 517/2007 Z. z. o úžitkových vzoroch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 202/2009 Z. z. o právnej ochrane odrôd rastlín.
 
@@ -70,13 +68,31 @@
 
 - 30ac) § 50 zákona č. 215/2004 Z. z.
 
-- 30b) § 5 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
+- 30ad) Napríklad zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
 
-- 30ba) § 35 ods. 3 zákona č. 305/2013 Z. z.
+- 30b) § 5 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
 
 - 30c) Čl. 3 bod 12 nariadenia Európskeho parlamentu a Rady (EÚ) č. 910/2014 z 23. júla 2014 o elektronickej identifikácii a dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zrušení smernice 1999/93/ES (Ú. v. EÚ L 257, 28.8.2014) v platnom znení.
 
-- 30d) Čl. 3 bod 27 nariadenia Európskeho parlamentu a Rady (EÚ) č. 910/2014.
+- 30d) Čl. 3 bod 27 nariadenia (EÚ) č. 910/2014 v platnom znení.
+
+- 30e) Napríklad § 23 ods. 8 zákona č. 305/2013 Z. z. v znení zákona č. 211/2019 Z. z.
+
+- 30f) Čl. 42 nariadenia (EÚ) č. 910/2014 v platnom znení.
+
+- Čl. 3 a príloha vykonávacieho rozhodnutia Komisie (EÚ) 2015/1506 z 8. septembra 2015, ktorým sa ustanovujú špecifikácie týkajúce sa formátov zdokonalených elektronických podpisov a zdokonalených elektronických pečatí, ktoré môžu subjekty verejného sektora uznávať, podľa článkov 27 ods. 5 a 37 ods. 5 nariadenia Európskeho parlamentu a Rady (EÚ) č. 910/2014 o elektronickej identifikácii a dôveryhodných službách pre elektronické transakcie na vnútornom trhu (Ú. v. EÚ L 235, 9. 9. 2015).
+
+- 30g) § 35 ods. 1 písm. b) a ods. 2 zákona č. 305/2013 Z. z. v znení zákona č. 273/2015 Z. z.
+
+- 30h) § 35 ods. 1 písm. a) a ods. 2 zákona č. 305/2013 Z. z. v znení zákona č. 273/2015 Z. z.
+
+- 30i) § 35 ods. 1 písm. c) a ods. 2 zákona č. 305/2013 Z. z. v znení zákona č. 273/2015 Z. z.
+
+- 30j) § 33 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 456/2021 Z. z.
+
+- 30k) Napríklad zákon Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v znení neskorších predpisov, zákon č. 431/2002 Z. z. v znení neskorších predpisov, zákon č. 215/2004 Z. z. v znení neskorších predpisov, zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 305/2013 Z. z. v znení neskorších predpisov.
+
+- 30l) § 35 ods. 1 písm. b) a c) a ods. 2 zákona č. 305/2013 Z. z. v znení zákona č. 273/2015 Z. z.
 
 - 31) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov..
 
