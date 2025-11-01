@@ -1,6 +1,6 @@
-# § 27fb Voľba prísediacich sudcov disciplinárnych senátov
+# § 27fb Voľba členov disciplinárnych senátov a prísediacich sudcov disciplinárnych senátov
 
-(1) Návrh na voľbu prísediaceho sudcu disciplinárneho senátu môže súdnej rade podať člen súdnej rady.
+(1) Návrh na voľbu člena disciplinárneho senátu môže súdnej rade podať sudcovská rada správneho súdu, sudcovská rada najvyššieho súdu, sudcovská rada najvyššieho správneho súdu, kolégium predsedov sudcovských rád a stavovská organizácia sudcov. Návrh na voľbu prísediaceho sudcu disciplinárneho senátu môže súdnej rade podať právnická fakulta verejnej vysokej školy a stavovská organizácia advokátov.
 
 (2) Návrh podľa odseku 1 obsahuje
 
@@ -8,9 +8,9 @@
 
 - b) profesionálny životopis navrhovanej osoby,
 
-- c) čestné vyhlásenie navrhovanej osoby o splnení predpokladov pre ustanovenie do funkcie prísediaceho sudcu disciplinárneho senátu,
+- c) čestné vyhlásenie navrhovanej osoby o splnení predpokladov pre ustanovenie do funkcie,
 
-- d) údaje navrhovanej osoby potrebné na vyžiadanie odpisu registra trestov,
+- d) údaje navrhovanej osoby potrebné na vyžiadanie odpisu registra trestov; to neplatí, ak ide o sudcu,
 
 - e) písomný súhlas navrhovanej osoby s voľbou.
 
