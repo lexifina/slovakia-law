@@ -1,0 +1,3 @@
+# § 25a Poskytnutie informácií a údajov
+
+Rada pre mediálne služby môže pri výkone dohľadu požadovať od vydavateľov periodickej publikácie, ktorí nie sú vydavateľmi vedeckej periodickej publikácie, a od prevádzkovateľov spravodajského webového portálu alebo od iných osôb, o ktorých možno predpokladať, že na účely súvisiace s ich obchodnou, podnikateľskou alebo profesionálnou činnosťou by mohli mať požadované informácie alebo údaje, aby bezodplatne a v primeranej lehote určenej Radou pre mediálne služby poskytli informácie alebo údaje, ktoré sú primerané a potrebné na vykonávanie úloh Rady pre mediálne služby podľa osobitného predpisu.<sup>30a</sup>)
