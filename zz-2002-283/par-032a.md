@@ -1,0 +1,7 @@
+# § 32a
+
+(1) Zamestnancovi s miestom výkonu práce dohodnutom v pracovnej zmluve v zahraničí, na ktorého sa vzťahuje osobitný predpis,<sup>13</sup>) ak predpokladaný čas výkonu práce v zahraničí je dlhší ako šesť kalendárnych mesiacov a zamestnávateľom zamestnanca je príspevková organizácia štátu, ktorej objem výdavkov na mzdy, platy, služobné príjmy a ostatné osobné vyrovnania je vyšší ako príspevok z rozpočtu zriaďovateľa, patrí náhrada výdavkov a plnenia podľa § 19 až 32.
+
+(2) Zamestnancovi podľa odseku 1 patrí náhrada výdavkov spojených s pobytom manžela vo výške 15 % zo mzdy, náhrada výdavkov spojených s pobytom dieťaťa vo výške 7,5 % zo mzdy a náhrada výdavkov spojených s doplnením šatníka v sume dvojnásobku mzdy v eurách alebo v cudzej mene. Náhrada v eurách sa zaokrúhľuje na najbližší eurocent nahor a náhrada v cudzej mene sa zaokrúhľuje na najbližšiu čiastkovú jednotku príslušnej meny prijímanú v krajine dočasného vyslania alebo v krajine, do ktorej je evakuovaný, nahor. Pri výpočte náhrady v cudzej mene sa použije referenčný výmenný kurz určený a vyhlásený Európskou centrálnou bankou alebo Národnou bankou Slovenska, ktorý je platný k prvému dňu v mesiaci, za ktorý mu patrí náhrada.
+
+(3) Ustanovenia odsekov 1 a 2 neplatia, ak ide o zamestnanca, ktorého predpokladaný čas výkonu práce v zahraničí je kratší ako šesť kalendárnych mesiacov; za tento čas zamestnancovi patria cestovné náhrady ako pri zahraničnej pracovnej ceste.
