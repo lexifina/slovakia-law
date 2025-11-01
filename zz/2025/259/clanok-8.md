@@ -1,0 +1,3 @@
+# Čl. VIII
+
+Tento zákon nadobúda účinnosť 1. novembra 2025, okrem čl. I bodov 5 až 12, 15 až 17, 25 až 27, 29, 34, 35, 37, 38, 51, 52, 62 až 74, 76 až 78, 82, 90, 95, 104 až 139, 149, 153 až 157, 159 až 161, 163, 167, 168, 175 až 181, 193 až 195, 197, čl. II, čl. III, čl. IV bodov 2 a 3, 5 až 9, 11 až 17, 22 až 26, 28 až 34, 36 až 41, 43 až 49, 52 až 86, 88, čl. V bodov 1, 6, 10, 12, 14, 16, 17 až 19, 22, 24, 25, 27 až 29, 39, 42, 43, 44, 46 až 49, 51, 53, 79 až 84, 88 a 89 a čl. VII, ktoré nadobúdajú účinnosť 1. januára 2026, a čl. IV bodov 42, 50 a 51, ktoré nadobúdajú účinnosť 1. septembra 2026.
