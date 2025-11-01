@@ -1,0 +1,1 @@
+Príloha k zákonu č. 447/2015 Z. z. v znení zákona č. 379/2019 Z. z. [Príloha k zákonu č. 447/2015 Z. z. v znení zákona č. 379/2019 Z. z.](../assets/bb87485241e3c7cf3d0613b9e297e0a56d6f3c4d5ee8e47064bb5c5874fc467b.pdf)
