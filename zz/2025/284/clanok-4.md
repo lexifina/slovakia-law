@@ -1,0 +1,3 @@
+# Čl. IV
+
+Tento zákon nadobúda účinnosť 1. novembra 2025 okrem čl. I bodov 1, 3 až 8, 12, 13, 16 až 18, 21, 23, 24, 28 až 30, 32, 33, 35, 39, 40, 42, 44, 45 a 47 a čl. III bodov 1, 2, 6, 22 až 24, 27, 32 až 42 a 47, ktoré nadobúdajú účinnosť 1. decembra 2025, čl. I bodov 19, 20, 25 až 27, 31, 34, 36, 38, 41 a 43, ktoré nadobúdajú účinnosť 5. júna 2026, čl. I bodov 14, 15, 37 a 48 a čl. III bodov 3 až 5, 7 až 21, 25, 26, 28 až 31, 43 až 45 a 48, ktoré nadobúdajú účinnosť 6. júna 2026, čl. I bodov 2, 9 až 11, 22 a 49, ktoré nadobúdajú účinnosť 25. júna 2026, a čl. I bodu 46 a čl. III bodu 46, ktoré nadobúdajú účinnosť 5. decembra 2026.
