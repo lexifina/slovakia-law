@@ -6,6 +6,4 @@ Príloha č. 1 k zákonu č. 43/2004 Z. z. v znení zákona č. 543/2010 Z. z.
 
   - 2. Smernica Rady 2000/43/ES z 29. júna 2000, ktorou sa zavádza zásada rovnakého zaobchádzania s osobami bez ohľadu na rasový alebo etnický pôvod (Mimoriadne vydanie Ú. v. EÚ, kap. 20/zv. 1; Ú. v. ES L 180,19. 7. 2000).
 
-  - 3. Smernica Európskeho parlamentu a Rady 2002/83/ES z 5. novembra 2002 o životnom poistení (Ú. v. ES L 345, 19. 12. 2002) v platnom znení.
-
-  - 4. Smernica Európskeho parlamentu a Rady 2010/41/EÚ zo 7. júla 2010 o uplatňovaní zásady rovnakého zaobchádzania so ženami a mužmi vykonávajúcimi činnosť ako samostatne zárobkovo činné osoby a o zrušení smernice Rady 86/613/EHS (Ú. v. EÚ L 180, 15. 7. 2010).
+  - 3. Smernica Európskeho parlamentu a Rady 2010/41/EÚ zo 7. júla 2010 o uplatňovaní zásady rovnakého zaobchádzania so ženami a mužmi vykonávajúcimi činnosť ako samostatne zárobkovo činné osoby a o zrušení smernice Rady 86/613/EHS (Ú. v. EÚ L 180, 15. 7. 2010).
