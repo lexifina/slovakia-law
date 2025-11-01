@@ -12,7 +12,11 @@
 
 - 4) § 8 zákona č. 17/1992 Zb.
 
+- 5) § 2 písm. d) a r) zákona č. 39/2013 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 6) Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
+
+- 6a) § 29a zákona č. 39/2013 Z. z. v znení zákona č. 269/2025 Z. z.
 
 - 7) Napríklad § 15, 17 a 19 zákona č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení neskorších predpisov, zákon č. 220/2004 Z. z. o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2004 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov, § 13 ods. 2 a 3 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov, zákon č. 576/2004 Z. z., zákon č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov, zákon č. 313/1999 Z. z. v znení neskorších predpisov, § 28 zákona č. 314/2001 Z. z. o ochrane pred požiarmi, § 7 ods. 1 písm. a) až e) a k) a § 16 ods. 1 písm. a) až c) zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 22 ods. 1 písm. a) až d) a odsek 6, § 23 ods. 7 a 9 a § 33 ods. 3 písm. l) zákona č. 478/2002 Z. z. o ochrane ovzdušia a ktorým sa dopĺňa zákon č. 401/1998 Z. z. o poplatkoch za znečisťovanie ovzdušia v znení neskorších predpisov, § 9, § 12 až 16 a § 24 zákona č. 543/2002 Z. z. v znení zákona č. 525/2003 Z. z., zákon č. 364/2004 Z. z. a zákon č. 326/2005 Z. z. o lesoch, § 24 zákona č. 200/2022 Z. z. v znení neskorších predpisov, § 22 Stavebného zákona.
 
@@ -78,6 +82,10 @@
 
 - 25a) § 29 až 33 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
 
+- 25aa) § 4c zákona č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko účinnej kombinovanej výroby a o zmene a doplnení niektorých zákonov v znení zákona č. 259/2025 Z. z.
+
+- 25ab) § 2 ods. 1 písm. r) zákona č. 309/2009 Z. z. v znení zákona č. 259/2025 Z. z.
+
 - 25b) Napríklad Stavebný zákon, zákon č. 39/2013 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 25c) § 58 a 61 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
@@ -98,7 +106,29 @@
 
 - 30) § 28 ods. 6 a 9 až 11 zákona č. 543/2002 Z. z.
 
+- 31) § 2 písm. d) zákona č. 39/2013 Z. z. v znení neskorších predpisov.
+
+- 32) Zákon č. 39/2013 Z. z. v znení neskorších predpisov.
+
+- 33) § 2 písm. r) zákona č. 39/2013 Z. z. v znení zákona č. 269/2025 Z. z.
+
 - 34b) § 15a zákona č. 71/1967 Zb. v znení zákona č. 527/2003 Z. z.
+
+- 35) § 7 zákona č. 39/2013 Z. z. v znení neskorších predpisov.
+
+- 35a) § 11 ods. 4 zákona č. 39/2013 Z. z. v znení neskorších predpisov.
+
+- 35aa) § 6 zákona č. 39/2013 Z. z. v znení neskorších predpisov.
+
+- 35ab) § 15 ods. 4 zákona č. 39/2013 Z. z.
+
+- 35ac) § 15 ods. 5 zákona č. 39/2013 Z. z.
+
+- 35ad) § 29b zákona č. 39/2013 Z. z. v znení zákona č. 269/2025 Z. z.
+
+- 35ae) § 29c ods. 2 zákona č. 39/2013 Z. z. v znení zákona č. 269/2025 Z. z.
+
+- 35af) § 3 písm. b) druhý bod zákona č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 35b) § 11 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
 
@@ -113,6 +143,10 @@
 - 38) § 300 až 310 Trestného zákona.
 
 - 39) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
+- 39a) § 4 zákona č. 180/2013 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- § 2 ods. 1 písm. b) zákona č. 525/2003 Z. z. o štátnej správe starostlivosti o životné prostredie a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 40) § 19b zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
