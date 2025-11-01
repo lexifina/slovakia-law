@@ -94,6 +94,8 @@
 
 - 11) Zákon č. 245/2003 Z. z.
 
+- 11a) § 56a zákona č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov v znení zákona č. 269/2025 Z. z.
+
 - 12) Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 13) Zákon č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
