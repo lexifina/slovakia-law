@@ -145,3 +145,5 @@ Nariadenie vlády Slovenskej republiky č. 78/2019 Z. z., ktorým sa ustanovujú
 - 3.
 
 - Smernica Európskeho parlamentu a Rady (EÚ) 2024/2839 z 23. októbra 2024, ktorou sa menia smernice 1999/2/ES, 2000/14/ES, 2011/24/EÚ a 2014/53/EÚ, pokiaľ ide o určité požiadavky na podávanie správ v oblasti potravín a prídavných látok do potravín, hluku vo voľnom priestranstve, práv pacientov a rádiových zariadení (Ú. v. EÚ L, 2024/2839, 7. 11. 2024).“.
+
+- 64. V poznámke pod čiarou k odkazu 44 sa vypúšťajú slová „: 2015“.
