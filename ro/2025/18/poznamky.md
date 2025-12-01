@@ -1,0 +1,1 @@
+- 1) Nariadenie Európskeho parlamentu a Rady (EÚ) 2017/1131 zo 14. júna 2017 o fondoch peňažného trhu (Ú. v. EÚ L 169, 30.6.2017) v platnom znení.
