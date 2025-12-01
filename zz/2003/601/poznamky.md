@@ -52,6 +52,6 @@
 
 - § 47a až 47c zákona č. 461/2003 Z. z. v znení zákona č. 426/2020 Z. z.
 
-- 23) Zákon č. 526/2023 Z. z. o pomoci pri splácaní úveru na bývanie a o zmene a doplnení niektorých zákonov.
+- 23) § 26d zákona č. 90/2016 Z. z. o úveroch na bývanie a o zmene a doplnení niektorých zákonov v znení zákona č. 312/2025 Z. z.
 
 - 24) § 22 a 36 zákona č. 150/2025 Z. z.
