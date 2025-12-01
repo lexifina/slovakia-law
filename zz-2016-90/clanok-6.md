@@ -1,0 +1,3 @@
+# Čl. VI
+
+Predseda Národnej rady Slovenskej republiky sa splnomocňuje, aby v Zbierke zákonov Slovenskej republiky vyhlásil úplné znenie zákona č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov, ako vyplýva zo zmien a doplnení vykonaných zákonom č. 340/2005 Z. z., zákonom č. 519/2005 Z. z., zákonom č. 214/2006 Z. z., zákonom č. 644/2006 Z. z., zákonom č. 659/2007 Z. z., zákonom č. 552/2008 Z. z., zákonom č. 186/2009 Z. z., zákonom č. 276/2009 Z. z., zákonom č. 492/2009 Z. z., zákonom č. 129/2010 Z. z., zákonom č. 394/2011 Z. z., zákonom č. 547/2011 Z. z., zákonom č. 132/2013 Z. z., zákonom č. 352/2013 Z. z., zákonom č. 213/2014 Z. z., zákonom č. 373/2014 Z. z., zákonom č. 374/2014 Z. z. a týmto zákonom.

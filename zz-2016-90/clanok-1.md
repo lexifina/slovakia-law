@@ -1,0 +1,1 @@
+# Čl. I Všeobecné ustanovenia
