@@ -1,0 +1,1 @@
+Príloha č. 2 k zákonu č. 312/2025 Z. z. [ŠTANDARDNÉ EURÓPSKE INFORMÁCIE O SPOTREBITEĽSKOM ÚVERE – vzor 02](../assets/0d0857080e1a8be84b6a80bed9549daa34291b6f98e7f8dd9b9bd37904f41316.pdf)
