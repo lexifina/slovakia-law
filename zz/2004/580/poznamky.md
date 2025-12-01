@@ -270,7 +270,7 @@
 
 - 52a) § 61g zákona č. 581/2004 Z. z. v znení zákona č. 250/2011 Z. z.
 
-- 52aa) § 62 ods. 1 písm. a) a ods. 2 Správneho poriadku.
+- 52aa) § 62 ods. 1 a 2 Správneho poriadku.
 
 - 52ab) § 8a, § 8b, § 15a a 30 zákona č. 581/2004 Z. z.
 

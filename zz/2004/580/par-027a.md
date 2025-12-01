@@ -12,7 +12,7 @@
 
 - d) počet poistencov zaradených do jednotlivých nákladových skupín zdravotníckych pomôcok podľa § 27e ods. 4 a 5 za rozhodujúce obdobie.
 
-(3) Základom ročného prerozdeľovania poistného je 96 % povinného poistného podľa odseku 2 písm. a) po odpočítaní nadlimitnej sumy podľa § 27aa ods. 1 za všetkých poistencov zdravotnej poisťovne (ďalej len „základ ročného prerozdeľovania”).
+(3) Základom ročného prerozdeľovania je 96 % povinného poistného podľa odseku 2 písm. a) po odpočítaní nadlimitnej sumy podľa § 27aa ods. 1 za všetkých poistencov zdravotnej poisťovne (ďalej len „základ ročného prerozdeľovania”).
 
 (4) Štandardizovaný príjem na účely ročného prerozdeľovania na jedného prepočítaného poistenca (§ 28 ods. 1) je podiel celkového základu ročného prerozdeľovania a celkového počtu prepočítaných poistencov. Celkový základ ročného prerozdeľovania je súčet základov ročného prerozdeľovania za všetky zdravotné poisťovne. Celkový počet prepočítaných poistencov je súčet prepočítaných poistencov všetkých zdravotných poisťovní.
 
@@ -28,7 +28,7 @@
 
 - b) záporný, zdravotná poisťovňa má záväzky voči iným zdravotným poisťovniam.
 
-(9) Úrad doručí každej zdravotnej poisťovni do 20. decembra kalendárneho roka nasledujúceho po rozhodujúcom období rozhodnutie o ročnom prerozdeľovaní, v ktorom
+(9) Úrad odošle každej zdravotnej poisťovni do 20. decembra kalendárneho roka nasledujúceho po rozhodujúcom období rozhodnutie o ročnom prerozdeľovaní, v ktorom
 
 - a) uvedie za každú zdravotnú poisťovňu
 
@@ -46,7 +46,7 @@
 
   - 7. počet poistencov s nenulovou nadlimitnou sumou podľa § 27aa ods. 1,
 
-  - 8. celkovú sumu, ktorá predstavuje súčet nadlimitných súm za všetkých poistencov podľa šiesteho bodu,
+  - 8. celkovú sumu, ktorá predstavuje súčet nadlimitných súm za všetkých poistencov podľa siedmeho bodu,
 
 - b) rozhodne o
 
@@ -68,10 +68,10 @@
 
 (10) V rozhodnutí podľa odseku 9 úrad určí každej zdravotnej poisťovni podľa odseku 8 písm. b) výšku jej záväzku voči každej zdravotnej poisťovni podľa odseku 8 písm. a) upraveného o upravený podiel na nadlimitnej sume podľa § 27aa ods. 5. Výška záväzku sa vypočíta ako súčin koeficientu zdravotnej poisťovne podľa odseku 8 písm. a) a upraveného výsledku ročného prerozdeľovania pre zdravotnú poisťovňu podľa odseku 8 písm. b). Koeficient zdravotnej poisťovne podľa odseku 8 písm. a) sa vypočíta ako podiel upraveného výsledku ročného prerozdeľovania pre zdravotnú poisťovňu podľa odseku 8 písm. a) a súčtu upravených výsledkov ročného prerozdeľovania pre všetky zdravotné poisťovne podľa odseku 8 písm. a). Zdravotná poisťovňa podľa odseku 8 písm. b) je povinná uhradiť záväzky voči zdravotným poisťovniam podľa odseku 8 písm. a) do 31. decembra kalendárneho roka.
 
-(11) Príslušnosť zdravotnej poisťovne na ročné prerozdeľovanie poistného pri prevode poistného kmeňa upravuje osobitný predpis.<sup>57b</sup>)
+(11) Príslušnosť zdravotnej poisťovne na ročné prerozdeľovanie pri prevode poistného kmeňa upravuje osobitný predpis.<sup>57b</sup>)
 
 (12) Údaje za rozhodujúce obdobie o počte poistencov podľa pohlavia a veku, za ktorých platiteľom poistného nie je štát [§ 11 ods. 1 písm. a) až c) a § 11 ods. 2], počte poistencov podľa pohlavia a veku, za ktorých platiteľom poistného je štát [§ 11 ods. 1 písm. d)], a o počte poistencov zaradených do skupiny nadmerného prepoistenia (§ 27f) úrad získava z údajov z centrálneho registra poistencov. Údaj o počte poistencov na účely zaradenia do jednotlivých viacročných nákladových skupín podľa § 27c ods. 1 až 4 za rozhodujúce obdobie za každú zdravotnú poisťovňu úrad získava z údajov z centrálneho registra poistencov; zaradenie poistencov do príslušnej viacročnej nákladovej skupiny úrad vykoná na základe údajov oznámených úradu podľa § 28a ods. 6.
 
-(13) Zmena údajov o poistencoch v centrálnom registri poistencov, ktorá bola vykonaná po vykonaní ročného prerozdeľovania poistného, nezakladá dôvod na zmenu v už vykonanom ročnom prerozdeľovaní poistného.
+(13) Zmena údajov o poistencoch v centrálnom registri poistencov, ktorá bola vykonaná po vykonaní ročného prerozdeľovania, nezakladá dôvod na zmenu v už vykonanom ročnom prerozdeľovaní.
 
 (14) Ak z dôvodu zmeny právoplatného rozhodnutia podľa odseku 9, ktorá nebola vykonaná na základe § 19 ods. 24 až 26, dochádza k zmene už určenej výšky príspevkov zdravotnej poisťovne podľa osobitného predpisu,<sup>52aa</sup>) táto zmena sa zohľadní pri najbližšej úhrade týchto príspevkov.
