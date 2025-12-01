@@ -942,6 +942,8 @@
 
 - 86l) § 17 ods. 1 zákona č. 106/2024 Z. z. o správcoch úverov a nákupcoch úverov a o zmene a doplnení niektorých zákonov.
 
+- 86m) § 26d ods. 8 zákona č. 90/2016 Z. z. v znení zákona č. 312/2025 Z. z.
+
 - 87) Napríklad zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch v znení zákona č. 238/2000 Z. z., zákon č. 466/2002 Z. z.
 
 - 87a) Zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
