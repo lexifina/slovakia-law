@@ -1,4 +1,4 @@
-# § 57a Obmedzenia pozícií v komoditných derivátoch
+# § 57a Obmedzenia pozícií v komoditných derivátoch a mechanizmy kontroly nad riadením pozícií v komoditných derivátoch a v derivátoch emisných kvót
 
 (1) Národná banka Slovenska je povinná zaviesť a uplatňovať obmedzenia na veľkosť čistej pozície, ktorú môže osoba držať v poľnohospodárskych komoditných derivátoch a kritických komoditných derivátoch alebo významných komoditných derivátoch, s ktorými sa obchoduje na obchodných miestach, a v ekonomicky rovnocenných mimoburzových derivátových zmluvách v súlade s metodikou výpočtu ustanovenou v osobitnom predpise.<sup>67</sup>) Komoditné deriváty sa považujú za kritické alebo významné, ak súčet všetkých čistých pozícií držiteľov koncových pozícií predstavuje veľkosť ich otvoreného záujmu minimálne 300 000 lotov v priemere za jeden rok. Obmedzenia sa určia na základe všetkých pozícií držaných osobou a pozícií držaných v jej mene na úrovni celej skupiny s cieľom
 
@@ -28,11 +28,11 @@
 
 (8) Národná banka Slovenska ako príslušný orgán dohľadu nad obchodnými miestami, na ktorých sa obchoduje vo významných objemoch s poľnohospodárskymi komoditnými derivátmi založenými na rovnakom podkladovom aktíve a s rovnakými charakteristikami, alebo na ktorých sa obchoduje s kritickými komoditnými derivátmi alebo významnými komoditnými derivátmi založenými na rovnakom podkladovom aktíve a s rovnakými charakteristikami, uzavrie dohody o spolupráci vrátane vzájomnej výmeny príslušných údajov s cieľom umožniť monitorovanie a presadzovanie jednotného obmedzenia pozícií s príslušnými orgánmi držiteľov pozícií v týchto derivátoch.
 
-(9) Burza alebo obchodník s cennými papiermi organizujúci obchodné miesto, na ktorom sa obchoduje s komoditnými derivátmi, sú povinní uplatňovať mechanizmy kontroly nad riadením pozícií, pričom sú oprávnení
+(9) Burza alebo obchodník s cennými papiermi organizujúci obchodné miesto, na ktorom sa obchoduje s komoditnými derivátmi alebo derivátmi emisných kvót, sú povinní uplatňovať mechanizmy kontroly nad riadením pozícií, ktoré zahŕňajú aj právomoci obchodného miesta, pričom sú oprávnení
 
 - a) monitorovať čisté otvorené pozície osôb,
 
-- b) získavať informácie, vrátane všetkých príslušných dokumentov, od osôb o veľkosti a účele pozície alebo expozície, do ktorej vstúpili, k informáciám o konečných vlastníkoch alebo o vlastníkoch podkladových aktív, dohodách o konaní v zhode a súvisiacich aktívach alebo o záväzkoch na trhu s podkladovým aktívom, a ak je to vhodné aj o pozíciách držaných v komoditných derivátoch, ktoré sú založené na rovnakom podkladovom aktíve a majú rovnaké znaky s inými derivátmi obchodovanými na iných obchodných miestach a mimoburzových transakciách prostredníctvom členov a účastníkov,
+- b) získavať informácie, vrátane všetkých príslušných dokumentov, od osôb o veľkosti a účele pozície alebo expozície, do ktorej vstúpili, k informáciám o konečných vlastníkoch alebo o vlastníkoch podkladových aktív, dohodách o konaní v zhode a súvisiacich aktívach alebo o záväzkoch na trhu s podkladovým aktívom, a ak je to vhodné aj o pozíciách vrátane prípadných pozícií držaných v derivátoch emisných kvót alebo držaných v komoditných derivátoch, ktoré sú založené na rovnakom podkladovom aktíve a majú rovnaké znaky s inými derivátmi obchodovanými na iných obchodných miestach a mimoburzových transakciách prostredníctvom členov a účastníkov,
 
 - c) požadovať, aby osoba uzavrela alebo znížila pozíciu, a to dočasne alebo trvalo podľa toho, ako si to vyžaduje konkrétna situácia, a jednostranne prijať vhodné opatrenia s cieľom zabezpečiť uzavretie alebo zníženie pozície, ak príslušná osoba požiadavke nevyhovie,
 

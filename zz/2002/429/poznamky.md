@@ -28,6 +28,8 @@
 
 - 11c) Čl. 2 ods. 1 nariadenia Európskeho parlamentu a Rady (EÚ) č. 648/2012 zo 4. júla 2012 o mimoburzových derivátoch, centrálnych protistranách a archívoch obchodných údajov (Ú. v. EÚ L 201, 27. 7. 2012) v platnom znení.
 
+- 11ca) Čl. 2 ods. 1 bod 11 nariadenia (EÚ) č. 600/2014 v platnom znení.
+
 - 11d) § 2 ods. 4 písm. o) zákona č. 431/2002 Z. z. v znení zákona č. 105/2024 Z. z.
 
 - 12) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
@@ -88,6 +90,8 @@
 
 - 22aac) Kapitola II a IV nariadenia (EÚ) 2022/2554.
 
+- 22ab) Čl. 22b nariadenia (EÚ) č. 600/2014 v platnom znení.
+
 - 24) Trestný poriadok.
 
 - 24a) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
@@ -145,6 +149,8 @@
 - 39a) § 7 ods. 30 zákona č. 566/2001 Z. z. v znení zákona č. 237/2017 Z. z.
 
 - 40) § 2 zákona č. 386/2002 Z. z. o štátnom dlhu a štátnych zárukách a ktorým sa dopĺňa zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.
+
+- 40a) Čl. 23 ods. 1 písm. a) nariadenia (EÚ) č. 600/2014 v platnom znení.
 
 - 41) Čl. 1 ods. 5 nariadenia Európskeho parlamentu a Rady (EÚ) 2017/1129 zo 14. júna 2017 o prospekte, ktorý sa má uverejniť pri verejnej ponuke cenných papierov alebo ich prijatí na obchodovanie na regulovanom trhu, a o zrušení smernice 2003/71/ES (Ú. v. EÚ L 168, 30. 6. 2017).
 
@@ -250,13 +256,13 @@
 
 - 68) Čl. 83 delegovaného nariadenia (EÚ) 2017/565.
 
-- 68a) Čl. 26 nariadenia (EÚ) č. 600/2014 a čl. 8 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1227/2011 z 25. októbra 2011 o integrite a transparentnosti veľkoobchodného trhu s energiou (Ú. v. EÚ L 326, 8.12. 2011).
+- 68a) Čl. 26 nariadenia (EÚ) č. 600/2014 v platnom znení.
+
+- 68aa) Čl. 8 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1227/2011 z 25. októbra 2011 o integrite a transparentnosti veľkoobchodného trhu s energiou (Ú. v. EÚ L 326, 8. 12. 2011) v platnom znení.
 
 - 68b) Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 69) § 54 ods. 3 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
-
-- 69a) Delegované nariadenie Komisie (EÚ) 2017/574 zo 7. júna 2016, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ, pokiaľ ide o regulačné technické predpisy týkajúce sa úrovne presnosti obchodných hodín (Ú. v. EÚ L 87, 31. 3. 2017).
 
 - 69b) § 79b ods. 2 zákona č. 566/2001 Z. z. v znení zákona č. 209/2021 Z. z.
 
