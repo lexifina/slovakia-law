@@ -1,0 +1,1 @@
+- 1) § 12 a § 13 vyhlášky Úradu podpredsedu vlády Slovenskej republiky pre investície a informatizáciu č. 78/2020 Z. z. o štandardoch pre informačné technológie verejnej správy v znení vyhlášky č. 546/2021 Z. z.
