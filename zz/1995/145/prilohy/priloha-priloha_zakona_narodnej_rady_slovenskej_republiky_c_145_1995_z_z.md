@@ -274,7 +274,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Oslobodenie | | |
 
-  - 1. Od poplatkov podľa tejto položky sú oslobodené obce a vyššie územné celky, ak žiadajú o vykonanie týchto spoplatňovaných úkonov na účely usporiadania vlastníckych práv k pozemným komunikáciám a ku školám, ktoré prešli do ich pôsobnosti podľa osobitných predpisov. 2. Od poplatkov podľa tejto položky je oslobodená Slovenská správa ciest a Národná diaľničná spoločnosť, a. s., ak žiadajú o vykonanie týchto spoplatňovaných úkonov na účely usporiadania vlastníckych práv k pozemkom pod pozemnými komunikáciami – diaľnicami a cestami prvej triedy, a investor, ktorému bolo vydané osvedčenie o strategickej investícii, ak žiada o vykonanie týchto spoplatňovaných úkonov na účely usporiadania vlastníckych práv k pozemkom a stavbám, ktoré sa nachádzajú na území strategickej investície. 3. Od poplatkov podľa tejto položky sú oslobodené orgány štátnej správy, ich rozpočtové a príspevkové organizácie, ak žiadajú o vykonanie týchto spoplatňovaných úkonov na účely vyhotovenia dokumentácie ochrany prírody a krajiny a zápisu osobitne chránených častí prírody a krajiny do katastra nehnuteľností alebo výkonu štátneho dozoru na úseku ochrany prírody a krajiny a prevencie a manažmentu introdukcie a šírenia inváznych nepôvodných druhov. 4. Od poplatkov podľa tejto položky sú oslobodené orgány verejnej moci na účely výkonu verejnej moci elektronicky podľa osobitného predpisu.<sup>10g</sup>) 5. Od poplatkov podľa tejto položky sú oslobodené ministerstvá,<sup>12b</sup>) ak ide o úkony spojené so zriadením záložnej zmluvy podľa § 9a alebo s vydaním rozhodnutia o zriadení záložného práva podľa § 9b zákona č. 409/2011 Z. z. o niektorých opatreniach na úseku environmentálnej záťaže a o zmene a doplnení niektorých zákonov v znení zákona č. 490/2021 Z. z. | | |
+  - 1. Od poplatkov podľa tejto položky sú oslobodené obce a vyššie územné celky, ak žiadajú o vykonanie týchto spoplatňovaných úkonov na účely usporiadania vlastníckych práv k pozemným komunikáciám a ku školám, ktoré prešli do ich pôsobnosti podľa osobitných predpisov. 2. Od poplatkov podľa tejto položky je oslobodená Slovenská správa ciest a Národná diaľničná spoločnosť, a. s., ak žiadajú o vykonanie týchto spoplatňovaných úkonov na účely usporiadania vlastníckych práv k pozemkom pod pozemnými komunikáciami – diaľnicami a cestami prvej triedy, a investor, ktorému bolo vydané osvedčenie o strategickej investícii, ak žiada o vykonanie týchto spoplatňovaných úkonov na účely usporiadania vlastníckych práv k pozemkom a stavbám, ktoré sa nachádzajú na území strategickej investície. 3. Od poplatkov podľa tejto položky sú oslobodené orgány štátnej správy, ich rozpočtové organizácie a príspevkové organizácie. 4. Od poplatkov podľa tejto položky sú oslobodené orgány verejnej moci na účely výkonu verejnej moci elektronicky podľa osobitného predpisu.<sup>10g</sup>) | | |
 
   - Poznámky | | |
 
@@ -1308,19 +1308,19 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 1.
 
-  - jednobytovú alebo dvojbytovú budovu a jej zmenu ............................................ 300 eur
+  - jednobytovú alebo dvojbytovú budovu ............................................ 300 eur
 
   - 2.
 
-  - troj- až desaťbytovú bytovú budovu a jej zmenu ............................................ 1 000 eur
+  - troj- až desaťbytovú bytovú budovu ............................................ 1 000 eur
 
   - 3.
 
-  - jedenásť až päťdesiat bytovú budovu a jej zmenu ........................................... 2 000 eur
+  - jedenásť až päťdesiat bytovú budovu ........................................... 2 000 eur
 
   - 4.
 
-  - päťdesiatjeden až stobytovú bytovú budovu a jej zmenu ................................ 3 500 eur
+  - päťdesiatjeden až stobytovú bytovú budovu ................................ 3 500 eur
 
   - 5.
 
@@ -1328,7 +1328,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 6.
 
-  - nebytovú budovu a jej zmenu, ak je jednoduchou stavbou ................................ 300 eur
+  - nebytovú budovu, ak je jednoduchou stavbou ................................ 300 eur
 
   - 7.
 
@@ -1362,7 +1362,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 13.
 
-  - inžiniersku stavbu a jej zmenu pri odhadovanom náklade stavebného zámeru v sume bez dane z pridanej hodnoty
+  - inžiniersku stavbu pri odhadovanom náklade stavebného zámeru v sume bez dane z pridanej hodnoty
 
   - do 60 000 eur vrátane ................................................................................... 300 eur
 
@@ -1380,7 +1380,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 14.
 
-  - Odstránenie stavby podľa bodov 1. až 13...................25 % sadzby podľa bodov 1. až 13.
+  - odstránenie stavby alebo zmenu stavby podľa bodov 1. až 13...................25 % sadzby podľa bodov 1. až 13.
+
+  - 15.
+
+  - drobnú stavbu, stavebnú úpravu alebo údržbu, ak po ohlásení boli určené na konanie o stavebnom zámere ..................................................................................... 100 eur
 
   - b)
 
@@ -1400,11 +1404,15 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 4.
 
-  - pre drobnú stavbu na základe ohlásenia .............................................................. 50 eur
+  - pre stavbu nových nadzemných a podzemných vedení elektronickej komunikačnej siete a stavebných úpravách na nej ......................................................................... 300 eur
 
   - 5.
 
-  - pre stavebnú úpravu na základe ohlásenia, ak sa vykonáva
+  - pre drobnú stavbu na základe ohlásenia .............................................................. 50 eur
+
+  - 6.
+
+  - pre stavebnú úpravu a údržbu na základe ohlásenia, ak sa vykonáva
 
   - na bytovej budove ............................................. ............................................. 150 eur
 
@@ -1418,11 +1426,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - na informačnom zariadení .............................................................................. 300 eur
 
-  - na elektronickej komunikačnej sieti a jej vedeniach ........................................ 300 eur
-
   - iná stavebná práca inde nezaradená ................................................................. 50 eur
 
-  - 6.
+  - 7.
 
   - pri zmene projektu stavby v priebehu realizácie 50 % sadzby podľa písmena b) prvého až tretieho bodu.
 
@@ -1436,7 +1442,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - e)
 
-  - Vydanie kolaudačného osvedčenia ........................................ 30 % sadzby podľa písmena a)
+  - Vydanie kolaudačného osvedčenia alebo rozhodnutia o zmene v užívaní stavby ........................................ 30 % sadzby podľa písmena a)
 
   - f)
 
@@ -1444,13 +1450,17 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - g)
 
-  - Predĺženie doby platnosti overovacej doložky k projektu stavby ............................... 100 eur
+  - Vydanie rozhodnutia o zmene stavebného zámeru ........................................... 150 eur
 
   - h)
 
-  - Overenie dokumentácie skutočného zhotovenia stavby alebo pasportu stavby ............................................................................................................................... 100 eur
+  - Predĺženie doby platnosti overovacej doložky k projektu stavby ............................... 100 eur
 
   - i)
+
+  - Overenie dokumentácie skutočného zhotovenia stavby alebo pasportu stavby ............................................................................................................................... 100 eur
+
+  - j)
 
   - Uloženie opatrenia na susednom pozemku na žiadosť ............................................... 50 eur
 
@@ -1473,6 +1483,10 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - 2.
 
   - Ak sa úkon alebo konanie správneho orgánu, ktorý je spoplatnený podľa tejto položky, nevykoná v lehote podľa Stavebného zákona,<sup>18</sup>) správny orgán vráti poplatok podľa § 10 ods. 1.
+
+  - 3.
+
+  - Ak sa stavebným zámerom povoľuje súbor stavieb, určí sa správny poplatok ako súčet sadzby poplatku za každú samostatnú budovu a poplatku podľa celkového nákladu inžinierskych stavieb.
 
   - Položka 62
 
@@ -3818,7 +3832,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 138
 
-  - Poskytnutie štátnej záruky Ministerstvom financií Slovenskej republiky za bankový úver vystavením záručnej listiny alebo podpísaním zmluvy o záruke, z celkovej istiny úveru |
+  - Poskytnutie štátnej záruky ministerstvom financií za bankový úver vystavením záručnej listiny alebo podpísaním zmluvy o záruke, z celkovej istiny úveru |
 
   - a) do 5 000 000 eur .................................................................. | 5 000 eur | |
 
@@ -3986,7 +4000,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 146
 
-  - Vydanie povolenia Ministerstvom financií Slovenskej republiky na predaj tovaru spotrebného charakteru bez dane z pridanej hodnoty fyzickým osobám v tranzitnom priestore letísk a prístavov, na palubách lietadiel zahraničných liniek slovenských leteckých spoločností a na palubách lodí zahraničných liniek slovenských plavebných spoločností ............................... | 25 eur
+  - Vydanie povolenia ministerstvom financií na predaj tovaru spotrebného charakteru bez dane z pridanej hodnoty fyzickým osobám v tranzitnom priestore letísk a prístavov, na palubách lietadiel zahraničných liniek slovenských leteckých spoločností a na palubách lodí zahraničných liniek slovenských plavebných spoločností ............................... | 25 eur
 
     - Položka 147a
 

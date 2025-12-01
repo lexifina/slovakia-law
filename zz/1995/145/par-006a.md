@@ -1,6 +1,6 @@
 # § 6a Zaokrúhľovanie poplatku
 
-Vypočítaný poplatok sa zaokrúhli, ak § 7 ods. 9 neustanovuje inak, s presnosťou na eurocenty tak, že ak suma prevyšujúca celé číslo je
+Vypočítaný poplatok sa zaokrúhli, ak § 7 ods. 6 neustanovuje inak, s presnosťou na eurocenty tak, že ak suma prevyšujúca celé číslo je
 
 - a) menšia ako 50, poplatok sa zaokrúhli na celé euro nadol,
 

@@ -32,6 +32,10 @@
 
 - 5) § 26 ods. 2 zákona č. 95/2019 Z. z. o informačných technológiách vo verejnej správe a o zmene a doplnení niektorých zákonov v znení zákona č. 325/2022 Z. z.
 
+- 5a) § 6 ods. 11 zákona č. 291/2002 Z. z. v znení zákona č. 292/2025 Z. z.
+
+- 5b) § 2 ods. 3 zákona č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 6) § 6 ods. 10 zákona č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení zákona č. 211/2019 Z. z.
 
 - 6a) § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 659/2007 Z. z.
@@ -41,8 +45,6 @@
 - Čl. 111 ods. 1 až 3 Zmluvy o založení Európskeho spoločenstva v platnom znení (Ú. v. EÚ C 321E, 29. 12. 2006).
 
 - 6ab) § 41 zákona č. 305/2013 Z. z.
-
-- 6ac) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
 - 7) Zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
@@ -56,13 +58,15 @@
 
 - 7ad) § 5 ods. 3 zákona č. 305/2013 Z. z. v znení zákona č. 273/2015 Z. z.
 
+- 7ae) § 6 ods. 3 zákona č. 151/2010 Z. z. o zahraničnej službe a o zmene a doplnení niektorých zákonov.
+
+- 7aea) § 6 ods. 9 zákona č. 291/2002 Z. z. v znení zákona č. 292/2025 Z. z.
+
 - 7af) Zákon č. 200/2011 Z. z. o Obchodnom vestníku a o zmene a doplnení niektorých zákonov v znení zákona č. 264/2017 Z. z.
 
 - 7ag) § 26 až 28 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
 
 - 7b) § 78 zákona č. 71/1967 Zb. v znení zákona č. 527/2003 Z. z.
-
-- 7c) § 20 až 27 zákona č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov v znení zákona č. 372/2018 Z. z.
 
 - 7d) § 18d zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
@@ -73,6 +77,8 @@
 - § 19c zákona č. 302/2001 Z. z. o samospráve vyšších územných celkov (zákon o samosprávnych krajoch) v znení neskorších predpisov.
 
 - 7e) § 4 zákona č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov.
+
+- 7ea) § 6 ods. 1 písm. af) až am) zákona č. 291/2002 Z. z. v znení zákona č. 292/2025 Z. z.
 
 - 7f) § 2 ods. 1 písm. r) a f) zákona č. 275/2006 Z. z. v znení neskorších predpisov.
 
@@ -89,6 +95,8 @@
 - 8ad) § 5a ods. 8 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
 
 - 8ae) § 5 ods. 6 písm. b) a ods. 7 zákona č. 305/2013 Z. z. v znení zákona č. 238/2017 Z. z.
+
+- 8af) Napríklad zákon Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov, zákon č. 446/2001 Z. z. o majetku vyšších územných celkov v znení neskorších predpisov.
 
 - 8b) Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
