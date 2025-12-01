@@ -176,6 +176,10 @@
 
 - 39d) § 19a zákona č. 530/1990 Zb. v znení zákona č. 355/2024 Z. z.
 
+- 39e) § 26d zákona č. 90/2016 Z. z. v znení zákona č. 312/2025 Z. z.
+
+- 39f) § 2 ods. 2 zákona Slovenskej národnej rady č. 310/1992 Zb. v znení neskorších predpisov.
+
 - 40) § 5 a § 20 ods. 1 písm. a) zákona č. 328/2002 Z. z.
 
 - 40a) Zákon č. 43/2004 Z. z. v znení neskorších predpisov.
