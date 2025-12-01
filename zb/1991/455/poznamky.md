@@ -300,6 +300,8 @@
 
 - 41ae) § 5b, 15d ods. 3 a 15g ods. 2 a 3 zákona č. 530/2003 Z. z. v znení zákona č. 390/2019 Z. z.
 
+- 41af) § 11a ods. 4 zákona Slovenskej národnej rady č. 71/1992 Zb. o súdnych poplatkoch a poplatku za výpis z registra trestov v znení zákona č. 292/2025 Z. z.
+
 - 41b) Zmluva medzi Belgickým kráľovstvom, Dánskym kráľovstvom, Spolkovou republikou Nemecko, Helénskou republikou, Španielskym kráľovstvom, Francúzskou republikou, Írskom, Talianskou republikou, Luxemburským veľkovojvodstvom, Holandským kráľovstvom, Rakúskou republikou, Portugalskou republikou, Fínskou republikou, Švédskym kráľovstvom, Spojeným kráľovstvom Veľkej Británie a Severného Írska (členskými štátmi Európskej únie) a Českou republikou, Estónskou republikou, Cyperskou republikou, Lotyšskou republikou, Litovskou republikou, Maďarskou republikou, Maltskou republikou, Poľskou republikou, Slovinskou republikou, Slovenskou republikou o pristúpení Českej republiky, Estónskej republiky, Cyperskej republiky, Lotyšskej republiky, Litovskej republiky, Maďarskej republiky, Maltskej republiky, Poľskej republiky, Slovinskej republiky a Slovenskej republiky k Európskej únii.
 
 - 41ba) § 2 písm. k) zákona č. 477/2002 Z. z. o uznávaní odborných kvalifikácií a o doplnení zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
