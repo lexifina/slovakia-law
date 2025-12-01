@@ -1,0 +1,3 @@
+# Čl. XIV
+
+Tento zákon nadobúda účinnosť 1. júla 2002 okrem ustanovení v čl. I § 8 ods. 2 a 6, § 9 ods. 2 a 6, ktoré nadobúdajú účinnosť 1. decembra 2002, v čl. I § 6, § 7, § 8 ods. 1, 3, 4, 5, 7 až 15, § 9 ods. 1, 3, 4, 5, 7 až 10, § 10, 11, 12, § 18 ods. 1 písm. b) a c), § 18 ods. 2, § 19, § 20 písm. a), § 21, v čl. II body 1 až 4, v čl. II body 6 až 10, v čl. II body 11, 12, 14, 16, 17, 20, 21, 23, 28, 29, 30, 31, v čl. II body 32, 33, 34, 35 a 37, v čl. III body 1, 7, 8, 9, čl. IV až čl. XII, ktoré nadobúdajú účinnosť 1. januára 2003, v čl. I § 18 ods. 1 písm. a), v čl. III body 2, 3, 4, 5, 6, ktoré nadobúdajú účinnosť 1. januára 2004.
