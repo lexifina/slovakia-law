@@ -208,11 +208,7 @@
 
 - 50a) Čl. 9 nariadenia (EÚ) 2019/2033 v platnom znení.
 
-- 50aa) Napríklad zákon č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov.
-
-- 50aaa) Zákon č. 492/2009 Z. z. v znení neskorších predpisov.
-
-- 50aab) Napríklad čl. 31 nariadenia (EÚ) č. 600/2014 v platnom znení.
+- 50aa) Napríklad nariadenie (EÚ) č. 596/2014 v platnom znení, čl. 31 nariadenia (EÚ) č. 600/2014 v platnom znení, čl. 2 ods. 1 písm. e) nariadenia (EÚ) 2020/1503, nariadenie Európskeho parlamentu a Rady (EÚ) 2023/1114 z 31. mája 2023 o trhoch s kryptoaktívami a o zmene nariadení (EÚ) č. 1093/2010 a (EÚ) č. 1095/2010 a smerníc 2013/36/EÚ a (EÚ) 2019/1937 (Ú. v. EÚ L 150, 9. 6. 2023) v platnom znení, zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. v znení neskorších predpisov, zákon č. 186/2009 Z. z. v znení neskorších predpisov, zákon č. 492/2009 Z. z. v znení neskorších predpisov.
 
 - 50c) § 56 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
 
@@ -422,15 +418,11 @@
 
 - Zákon č. 258/2001 Z. z. o spotrebiteľských úveroch a o zmene a doplnení zákona Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení neskorších predpisov v znení zákona č. 264/2006 Z. z.
 
-- 58hea) Delegované nariadenie Komisie (EÚ) 2017/575 z 8. júna 2016, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ o trhoch s finančnými nástrojmi, pokiaľ ide o regulačné technické predpisy týkajúce sa údajov o kvalite vykonávania transakcií, ktoré majú zverejňovať miesta výkonu (Ú. v. EÚ L 87, 31. 3. 2017).
-
 - 58hf) Čl. 23 a 28 nariadenia (EÚ) č. 600/2014.
 
 - 58hfa) Čl. 4 nariadenia (EÚ) č. 600/2014 v platnom znení.
 
 - 58hfb) Delegované nariadenie (EÚ) 2017/565.
-
-- 58hfc) Delegované nariadenie Komisie (EÚ) 2017/576 z 8. júna 2016, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ, pokiaľ ide o regulačné technické predpisy týkajúce sa každoročného uverejňovania informácií investičnými spoločnosťami o totožnosti miest výkonu a o kvalite vykonávania (Ú. v. EÚ L 87, 31. 3. 2017).
 
 - 58hg) Čl. 61 a 71 delegovaného nariadenia (EÚ) 2017/565.
 
@@ -803,6 +795,8 @@
 - Nariadenie (EÚ) 2019/2033 v platnom znení.
 
 - 110fa) Nariadenie (EÚ) č. 1093/2010 v platnom znení.
+
+- Nariadenie (EÚ) č. 1092/2010 v platnom znení.
 
 - 110g) Čl. 22 nariadenia (EÚ) 2019/2033 v platnom znení.
 

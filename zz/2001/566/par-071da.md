@@ -22,13 +22,13 @@
 
 - j) obchodník s cennými papiermi uplatňuje
 
-  - 1. zaručenú pevnú zložku celkovej odmeny ako
+  - 1. zaručenú pevnú zložku celkovej odmeny, ktorá zohľadňuje odbornú spôsobilosť a zodpovednosť podľa pracovnej náplne v rámci organizácie a riadenia obchodníka s cennými papiermi, ako
 
     - 1a. základnú zložku mzdy, ak ide o zamestnanca,
 
     - 1b. pevnú zložku odmeny, ak ide o člena štatutárneho orgánu obchodníka s cennými papiermi a člena dozornej rady obchodníka s cennými papiermi,
 
-  - 2. pohyblivú zložku celkovej odmeny,
+  - 2. pohyblivú zložku celkovej odmeny, ktorá zohľadňuje riziká a udržateľný výkon osoby uvedenej v odseku 2, a výkon osoby uvedenej v odseku 2 nad rámec požiadaviek na plnenie úloh určených podľa pracovnej náplne v rámci organizácie a riadenia obchodníka s cennými papiermi,
 
 - k) zaručená pevná zložka celkovej odmeny predstavuje dostatočne vysoký podiel odmeny, aby bolo možné uplatňovať pružnú politiku v oblasti pohyblivých zložiek odmeny vrátane možnosti nevyplatiť žiadne pohyblivé zložky celkovej odmeny.
 
