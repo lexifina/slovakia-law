@@ -8,6 +8,10 @@
 
 - 5) § 3 zákona č. 523/2004 Z. z.
 
+- 5a) Zákon Slovenskej národnej rady č. 71/1992 Zb. o súdnych poplatkoch a poplatku za výpis z registra trestov v znení neskorších predpisov.
+
+- Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
+
 - 6) § 21 ods. 1 a 2 zákona č. 523/2004 Z. z.
 
 - 7) § 5 zákona č. 523/2004 Z. z.
@@ -33,6 +37,8 @@
 - 14) Napríklad zákon č. 540/ 2001 Z. z. o štátnej štatistike, § 2 zákona Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov.
 
 - 14a) § 4 ods. 8 a § 5 zákona č. 507/2001 Z. z. o poštových službách v znení zákona č. 15/2004 Z. z.
+
+- 14aa) § 5 ods. 5 písm. b) zákona č. 305/2013 Z. z. v znení zákona č. 325/2022 Z. z.
 
 - 14b) § 3 ods. 2 zákona č. 492/2009 Z. z.
 
