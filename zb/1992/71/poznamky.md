@@ -74,6 +74,10 @@
 
 - Čl. 111 ods. 1 až 3 Zmluvy o založení Európskeho spoločenstva v platnom znení (Ú. v. EÚ C 321E, 29. 12. 2006).
 
+- 5aab) § 6 ods. 11 zákona č. 291/2002 Z. z. v znení zákona č. 292/2025 Z. z.
+
+- 5aac) § 2 ods. 3 zákona č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 5ab) § 6 ods. 10 zákona č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení zákona č. 211/2019 Z. z.
 
 - 5ac) § 26 ods. 2 zákona č. 95/2019 Z. z. o informačných technológiách vo verejnej správe a o zmene a doplnení niektorých zákonov v znení zákona č. 325/2022 Z. z.
@@ -84,17 +88,25 @@
 
 - 5af) § 5 ods. 3 zákona č. 305/2013 Z. z. v znení zákona č. 273/2015 Z. z.
 
+- 5ag) § 6 ods. 9 zákona č. 291/2002 Z. z. v znení zákona č. 292/2025 Z. z.
+
 - 6a) § 47 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 7) § 67 ods. 1 písm. c) zákona č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov.
+- 7) § 67 ods. 1 písm. b) zákona č. 757/2004 Z. z. v znení neskorších predpisov.
 
 - 7b) § 6 ods. 1 písm. f) zákona č. 530/2003 Z. z.
 
 - 7c) § 8 ods. 3 až 5 zákona č. 530/2003 Z. z.
 
+- 7d) § 66ba ods. 8 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
 - 7e) § 43 a 44 zákona č. 305/2013 Z. z.
 
+- 7ea) § 8 a 9 zákona č. 357/2015 Z. z. v znení neskorších predpisov.
+
 - 7f) § 4 zákona č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov.
+
+- 7fa) § 6 ods. 1 písm. af) až am) zákona č. 291/2002 Z. z. v znení zákona č. 292/2025 Z. z.
 
 - 7g) Čl. 106 Zmluvy o fungovaní Európskej únie.
 
