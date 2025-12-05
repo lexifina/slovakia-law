@@ -1,0 +1,1 @@
+Príloha k nariadeniu vlády Slovenskej republiky č. 131/2022 Z. z. [Príloha k nariadeniu vlády Slovenskej republiky č. 131/2022 Z. z.](../assets/dfbfc4b7c995a987129b18260ef01fe36427d9e4b7c5cf4744b62584f8920bf6.pdf)
