@@ -1,0 +1,1 @@
+Príloha č. 2 k rozhodnutiu predsedu Národnej rady Slovenskej republiky č. 351/2025 Z. z. [Lehoty na vykonanie volieb do orgánov samosprávy obcí 21. marca 2026](../assets/bbbc8e253ce8321309ffe10081014a000218a36be01a2b96d7d1db0a3ff286e8.pdf)
