@@ -28,6 +28,12 @@ Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych popla
 
   - h) Predĺženie platnosti cestovného dokladu cudzinca .................................................... 10 eur“.
 
+- 6. V prílohe Sadzobník správnych poplatkov časti XVIII. Konzulárne poplatky sa položka 243 dopĺňa písmenom i), ktoré znie:
+
+- „i)
+
+- Vydanie náhradného cestovného dokladu Európskej únie ................................ 50 eur“.
+
 - 7. V prílohe Sadzobník správnych poplatkov časti XVIII. Konzulárne poplatky položkách 250, 259 a 259a sa suma „22 eur“ nahrádza sumou „25 eur“.
 
 - 8. V prílohe Sadzobník správnych poplatkov časti XVIII. Konzulárne poplatky položke 256 sa suma „1 euro“ nahrádza sumou „5 eur“.
