@@ -4,8 +4,6 @@
 
 - 4) § 110 ods. 5 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 6) Rozhodnutie zástupcov vlád členských štátov Európskej únie, ktorí sa zišli na zasadnutí Rady 94/409/SZBP z 25. júna 1996 o zavedení cestovného preukazu (Mimoriadne vydanie Ú. v. EÚ, kap. 18/zv. 1; Ú. v. ES L 168, 6. 7. 1996) v platnom znení.
-
 - 6a) Napríklad § 22 zákona č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 40 zákona č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 503/2011 Z. z.
 
 - 6b) § 6 zákona č. 151/2010 Z. z. o zahraničnej službe a o zmene a doplnení niektorých zákonov.
@@ -23,6 +21,8 @@
 - 9) Čl. 27 Dohovoru o právnom postavení osôb bez štátnej príslušnosti (oznámenie č. 206/2001 Z. z.).
 
 - 10) Čl. 28 Dohovoru o právnom postavení utečencov (oznámenie č. 319/1996 Z. z.).
+
+- 10a) § 4 ods. 3 písm. g) zákona č. 151/2010 Z. z. v znení zákona č. 8/2018 Z. z.
 
 - 11) Napríklad Zmluva medzi štátmi, ktoré sú zmluvnými stranami Severoatlantickej zmluvy, vzťahujúca sa na status ich ozbrojených síl (oznámenie č. 566/2004 Z. z.).
 
