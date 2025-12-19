@@ -130,6 +130,8 @@
 
 - 35af) § 3 písm. b) druhý bod zákona č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 35ag) § 269 ods. 2 Obchodného zákonníka.
+
 - 35b) § 11 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
 
 - 35ba) § 42 ods. 2 písm. c) zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.

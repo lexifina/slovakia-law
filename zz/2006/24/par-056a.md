@@ -1,6 +1,6 @@
 # § 56a Slovenská inšpekcia životného prostredia
 
-Ak ide o navrhovanú činnosť alebo jej zmenu, ktorou je prevádzka podľa osobitného predpisu,<sup>5</sup>) Slovenská inšpekcia životného prostredia
+Ak ide o navrhovanú činnosť alebo jej zmenu, ktorou je prevádzka podľa osobitného predpisu,<sup>33</sup>) Slovenská inšpekcia životného prostredia
 
 - a) vykonáva zisťovacie konanie,
 
@@ -14,4 +14,6 @@ Ak ide o navrhovanú činnosť alebo jej zmenu, ktorou je prevádzka podľa osob
 
 - f) je správnym orgánom v konaní o tom, kto znáša niektoré náklady podľa § 59 ods. 2,
 
-- g) zúčastňuje sa konzultácií podľa § 63.
+- g) zúčastňuje sa konzultácií podľa § 63,
+
+- h) určuje spracovateľov odborného posudku podľa § 36.
