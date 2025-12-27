@@ -2,7 +2,7 @@
 
 # § 43a Podmienky uloženia donucovacieho opatrenia
 
-(1) Ak ide o exekúciu na vymoženie pohľadávky na výživnom alebo ak tento zákon predpokladá použitie donucovacích opatrení, exekútor môže uložiť tieto donucovacie opatrenia:
+(1) Ak ide o exekúciu na vymoženie pohľadávky na výživnom, na vymoženie náhrady škody spôsobenej trestným činom alebo priestupkom alebo ak tento zákon predpokladá použitie donucovacích opatrení, exekútor môže uložiť tieto donucovacie opatrenia:
 
 - a) peňažná pokuta,
 
