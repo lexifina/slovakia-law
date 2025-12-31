@@ -2,6 +2,50 @@
 
 Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 718/2004 Z. z., zákona č. 305/2005 Z. z., zákona č. 352/2005 Z. z., zákona č. 660/2005 Z. z., zákona č. 282/2006 Z. z., zákona č. 522/2006 Z. z., zákona č. 673/2006 Z. z., zákona č. 358/2007 Z. z., zákona č. 518/2007 Z. z., zákona č. 530/2007 Z. z., zákona č. 594/2007 Z. z., zákona č. 461/2008 Z. z., zákona č. 581/2008 Z. z., zákona č. 108/2009 Z. z., zákona č. 192/2009 Z. z., zákona č. 533/2009 Z. z., zákona č. 121/2010 Z. z., zákona č. 136/2010 Z. z., zákona č. 151/2010 Z. z., zákona č. 499/2010 Z. z., zákona č. 133/2011 Z. z., zákona č. 250/2011 Z. z., zákona č. 185/2012 Z. z., zákona č. 252/2012 Z. z., zákona č. 395/2012 Z. z., zákona č. 421/2012 Z. z., zákona č. 41/2013 Z. z., zákona č. 153/2013 Z. z., zákona č. 220/2013 Z. z., zákona č. 338/2013 Z. z., zákona č. 463/2013 Z. z., zákona č. 185/2014 Z. z., zákona č. 364/2014 Z. z., zákona č. 77/2015 Z. z., zákona č. 148/2015 Z. z., zákona č. 253/2015 Z. z., zákona č. 265/2015 Z. z., zákona č. 336/2015 Z. z., zákona č. 378/2015 Z. z., zákona č. 428/2015 Z. z., zákona č. 429/2015 Z. z., zákona č. 125/2016 Z. z., zákona č. 167/2016 Z. z., zákona č. 286/2016 Z. z., zákona č. 341/2016 Z. z., zákona č. 356/2016 Z. z., zákona č. 41/2017 Z. z., zákona č. 238/2017 Z. z., zákona č. 256/2017 Z. z., zákona č. 351/2017 Z. z., zákona č. 63/2018 Z. z., zákona č. 156/2018 Z. z., zákona č. 351/2018 Z. z., zákona č. 366/2018 Z. z., zákona č. 376/2018 Z. z., zákona č. 83/2019 Z. z., zákona č. 139/2019 Z. z., zákona č. 221/2019 Z. z., zákona č. 231/2019 Z. z., zákona č. 310/2019 Z. z., zákona č. 321/2019 Z. z., zákona č. 343/2019 Z. z., zákona č. 467/2019 Z. z., zákona č. 68/2020 Z. z., zákona č. 125/2020 Z. z., zákona č. 264/2020 Z. z., zákona č. 393/2020 Z. z., zákona č. 9/2021 Z. z., zákona č. 81/2021 Z. z., zákona č. 133/2021 Z. z., zákona č. 150/2021 Z. z., zákona č. 215/2021 Z. z., zákona č. 252/2021 Z. z., zákona č. 310/2021 Z. z., zákona č. 540/2021 Z. z., zákona č. 92/2022 Z. z., zákona č. 101/2022 Z. z., zákona č. 267/2022 Z. z., zákona č. 392/2022 Z. z., zákona č. 518/2022 Z. z., zákona č. 530/2023 Z. z., zákona č. 87/2024 Z. z., zákona č. 309/2024 Z. z., zákona č. 362/2024 Z. z., zákona č. 260/2025 Z. z. a zákona č. 261/2025 Z. z. sa mení a dopĺňa takto:
 
+- 4. V § 3 ods. 3 písm. b) sa slová „vykonáva alebo má oprávnenie vykonávať na území Slovenskej republiky samostatnú zárobkovú činnosť podľa § 10b ods. 1 písm. b) a ods. 2 a 3“ nahrádzajú slovami „je samostatne zárobkovo činnou osobou podľa § 11 ods. 4 a § 11a“.
+
+- 31. § 10a sa dopĺňa odsekom 5, ktorý znie:
+
+- „(5)
+
+- Povinnosť zdravotnej poisťovne podľa odseku 3 sa nevzťahuje na poistenca, ktorý nemá trvalý pobyt na území Slovenskej republiky a na ktorého sa nevzťahujú osobitné predpisy o koordinácii systémov sociálneho zabezpečenia.<sup>3a</sup>)“.
+
+- 34. Za § 11 sa vkladá § 11a, ktorý znie:
+
+- „§ 11a
+
+- (1)
+
+- Osoba, ktorá nemá trvalý pobyt na území Slovenskej republiky, na ktorú sa nevzťahujú osobitné predpisy o koordinácii systémov sociálneho zabezpečenia<sup>3a</sup>) a ktorá nie je verejne zdravotne poistená z iného dôvodu ako toho, že vykonáva samostatnú zárobkovú činnosť, je verejne zdravotne poistená, ak
+
+- a)
+
+- spĺňa podmienku podľa § 11 ods. 4 a
+
+- b)
+
+- nie je dlžníkom; to neplatí, ak ide o dlžníka, ktorý spĺňa niektorú z podmienok podľa § 9 ods. 2.
+
+- (2)
+
+- Ak verejne zdravotne poistená osoba podľa odseku 1 prestane spĺňať niektorú z podmienok podľa odseku 1, jej účasť na verejnom zdravotnom poistení zaniká dňom predchádzajúcim dňu, v ktorom túto podmienku prestala spĺňať.“.
+
+- 39. V § 13 ods. 11 písm. a) sa vypúšťajú slová „alebo osobou podľa § 11 ods. 7“.
+
+- 40. V § 13 ods. 11 sa za písmeno a) vkladá nové písmeno b), ktoré znie:
+
+- „b)
+
+- bol poistenec osobou podľa § 11 ods. 7,“.
+
+  - Doterajšie písmená b) a c) sa označujú ako písmená c) a d).
+
+- 43. § 13 sa dopĺňa odsekom 19, ktorý znie:
+
+- „(19)
+
+- Vymeriavací základ poistenca, ktorý je samostatne zárobkovo činnou osobou podľa § 11a ods. 1 sa zníži podľa odseku 11 písm. b), ak poistenec bol osobou podľa § 11 ods. 7 písm. m).“.
+
 - 63. V § 27 ods. 8 úvodnej vete a § 27a ods. 9 úvodnej vete sa slovo „doručí“ nahrádza slovom „odošle“.
 
 - 64. V § 27 ods. 10 a 11, § 27a ods. 3, 11 a 13, § 27aa ods. 7 a § 28a ods. 3 sa slová „prerozdeľovanie poistného“ nahrádzajú slovom „prerozdeľovanie“ v príslušnom tvare.
