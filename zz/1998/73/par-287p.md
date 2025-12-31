@@ -1,6 +1,6 @@
 # § 287p Dočasný náborový príspevok
 
-(1) Policajtovi v prípravnej štátnej službe, ktorý sa prvýkrát prijme do služobného pomeru v období od 1. októbra 2024 do 31. decembra 2025, sa na jeho žiadosť prizná dočasný náborový príspevok vo výške 5 000 eur; policajt môže požiadať o dočasný náborový príspevok až po získaní policajného vzdelania a ustanovení do funkcie.
+(1) Policajtovi v prípravnej štátnej službe, ktorý sa prvýkrát prijme do služobného pomeru v období od 1. októbra 2024 do 31. decembra 2026, sa na jeho žiadosť prizná dočasný náborový príspevok vo výške 5 000 eur; policajt môže požiadať o dočasný náborový príspevok až po získaní policajného vzdelania a ustanovení do funkcie.
 
 (2) Policajt je povinný odo dňa priznania dočasného náborového príspevku zotrvať po dobu piatich rokov v služobnom pomere v tej zložke podľa § 1 ods. 1, ktorá mu dočasný náborový príspevok priznala. Do doby zotrvania v služobnom pomere sa započítavajú doby uvedené v § 7 ods. 4.
 
