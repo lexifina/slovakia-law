@@ -29,3 +29,5 @@
 (3) Príslušná zdravotná poisťovňa je povinná na základe žiadosti poistenca vydať poistencovi európsky preukaz do 30 dní od jej podania. Lehota na vydanie európskeho preukazu podľa prvej vety neplatí, ak zdravotná poisťovňa vydá poistencovi európsky preukaz spolu s preukazom poistenca v lehote uvedenej v odseku 1.
 
 (4) Európsky preukaz spĺňa náležitosti a obsahuje údaje podľa osobitných predpisov.<sup>17</sup>)
+
+(5) Povinnosť zdravotnej poisťovne podľa odseku 3 sa nevzťahuje na poistenca, ktorý nemá trvalý pobyt na území Slovenskej republiky a na ktorého sa nevzťahujú osobitné predpisy o koordinácii systémov sociálneho zabezpečenia.<sup>3a</sup>)
