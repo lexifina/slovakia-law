@@ -43,3 +43,7 @@
 - e) sledovať stav pôžičky vzniknutej podľa § 24i,
 
 - f) uplatňovať si odmenu podľa odsekov 10 a 11.
+
+(10) Advokát určený centrom podľa § 12 alebo § 24h ods. 6 je povinný uplatňovať si odmenu za právne zastupovanie podľa osobitného predpisu<sup>17</sup>) prostredníctvom informačného systému centra.
+
+(11) Mediátor určený centrom podľa § 11a je povinný uplatňovať si odmenu podľa osobitného predpisu<sup>17b</sup>) prostredníctvom informačného systému centra.
