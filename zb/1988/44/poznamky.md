@@ -96,10 +96,6 @@
 
 - 16b) § 11 zákona Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov.
 
-- 16c) Zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
-
-- 16d) § 5 a 6 zákona Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov.
-
 - 16da) Zákon č. 374/2014 Z. z. o pohľadávkach štátu a o zmene a doplnení niektorých zákonov.
 
 - 16e) Napríklad zákon č. 50/1976 Zb. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov, zákon č. 115/1998 Z. z. o múzeách a galériách a o ochrane predmetov múzejnej hodnoty a galérijnej hodnoty v znení neskorších predpisov, zákon č. 313/1999 Z. z. v znení neskorších predpisov, zákon č. 364/2004 Z. z., vyhláška Ministerstva hospodárstva Slovenskej republiky č. 419/2001 Z. z., ktorou sa upravuje kategorizácia ubytovacích zariadení a klasifikačné znaky na ich zaraďovanie do tried.
