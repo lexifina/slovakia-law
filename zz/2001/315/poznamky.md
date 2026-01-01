@@ -64,7 +64,7 @@
 
 - 12a) Napríklad § 92 zákona č. 300/2005 Z. z. Trestný zákon.
 
-- 13) § 13 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 13) § 16 zákona č. 192/2023 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
 - 14) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
