@@ -1,0 +1,3 @@
+# § 21i Prechodné ustanovenie k úpravám účinným od 1. augusta 2023
+
+Program konsolidácie rozpočtového hospodárenia obce schválený pred účinnosťou tohto zákona sa považuje za plán konsolidácie pohľadávok. Uplynutím 20 rokov od schválenia takého programu konsolidácie rozpočtového hospodárenia, nie však skôr ako 31. decembra 2024, sa neuhradené časti istiny a príslušenstva pohľadávok veriteľov, na ktoré sa program konsolidácie rozpočtového hospodárenia obce vzťahuje, stanú nevymáhateľnými. Prebiehajúce konania o výkon rozhodnutia a exekučné konania na majetok patriaci obci začaté na vymoženie týchto pohľadávok sa uplynutím lehoty podľa predchádzajúcej vety zastavia.
