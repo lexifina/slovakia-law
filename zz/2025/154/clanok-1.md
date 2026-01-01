@@ -18,6 +18,8 @@ Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých z
 
 - Služobný úrad a štátny zamestnanec konajú v štátnozamestnaneckých vzťahoch v súlade s dobrými mravmi. Vykonávanie práv a povinností zo štátnozamestnaneckého pomeru sa nesmie zneužívať v prospech alebo v neprospech služobného úradu, štátneho zamestnanca, alebo inej osoby.“.
 
+- 7. V § 7 ods. 4 sa slová „až l)“ nahrádzajú slovami „až j)“.
+
 - 8. V § 7 ods. 4 sa za slová „§ 102“ vkladajú slová „ods. 1 a 3 až 10“.
 
 - 9. V § 7 ods. 6, 9 a 10 sa za slová „§ 102“ vkladajú slová „ods. 1 a 4 až 10“ a slová „až 9“ sa nahrádzajú slovami „až 10“.
@@ -25,6 +27,8 @@ Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých z
 - 10. V § 7 ods. 8 sa slová „až 9“ nahrádzajú slovami „až 10“.
 
 - 11. V § 7 ods. 11 sa slová „a 2“ nahrádzajú slovami „a 3“, slová „ods. 4“ sa nahrádzajú slovami „ods. 6“ a slová „ods. 6, 8 a 9“ sa nahrádzajú slovami „ods. 7, 9 a 10“.
+
+- 12. V § 8 sa slová „písm. b) až g), i), k) alebo písm. l)“ nahrádzajú slovami „písm. b) až e), g), i) alebo písm. j)“.
 
 - 13. V § 15 ods. 1 písm. a) sa za slovo „úradu“ vkladajú slová „a Slovenskej informačnej služby“.
 
@@ -148,6 +152,8 @@ Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých z
 
 - na ktoré štátneho zamestnanca nemožno preložiť vzhľadom na jeho zdravotný stav.“.
 
+- 25. V § 29 ods. 3 sa slová „5, 6 alebo ods. 7“ nahrádzajú slovami „4, 5 alebo ods. 6“.
+
 - 26. V § 32 sa vypúšťa odsek 9.
 
 - 27. V § 36 ods. 3 písm. d) sa za slovo „správe,“ vkladajú slová „alebo študijný program na prechodné posilnenie administratívnych kapacít v súvislosti s členstvom Slovenskej republiky v medzinárodnej organizácii alebo v inštitúcii medzinárodnej organizácie, realizovaný na základe dohody služobného úradu s vysokou školou,“.
@@ -170,7 +176,29 @@ Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých z
 
 - 34. V poznámke pod čiarou k odkazu 23 sa vypúšťa citácia „§ 93 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení zákona č. 219/2014 Z. z.,“.
 
+- 35. V § 38 ods. 3 písm. g) a ods. 9 sa slovo „odpisu“ nahrádza slovami „špecializovaného výpisu z“.
+
+- 36. V poznámke pod čiarkou k odkazu 24 sa slová „§ 20 ods. 5“ nahrádzajú slovami „§ 16 ods. 3“.
+
 - 37. V § 38 ods. 4 sa vypúšťajú slová „nie starším ako tri mesiace“.
+
+- 38. V § 38 odsek 7 znie:
+
+- „(7)
+
+- Ak sa obsadzuje štátnozamestnanecké miesto uvedené v odseku 8, za bezúhonného na účely odseku 1 písm. c) sa nepovažuje ten, kto bol právoplatne odsúdený za
+
+- a)
+
+- úmyselný trestný čin, ak nebolo odsúdenie zahladené, a ak ide o zločin, trestný čin zneužívania právomoci verejného činiteľa, trestný čin prijímania úplatku, trestný čin podplácania, trestný čin nepriamej korupcie alebo trestný čin machinácií pri verejnom obstarávaní a verejnej dražbe aj vtedy, ak bolo odsúdenie zahladené alebo
+
+- b)
+
+- trestný čin z nedbanlivosti na trest odňatia slobody, ak výkon trestu odňatia slobody nebol podmienečne odložený a ak odsúdenie nebolo zahladené.“.
+
+- 39. V § 38 ods. 8 a 10 sa slovo „odpisom“ nahrádza slovami „špecializovaným výpisom z“.
+
+- 40. V § 38 ods. 11 sa slová „4 až 10“ nahrádzajú slovami „3 až 10“.
 
 - 41. V § 38 ods. 12 písmeno c) znie:
 
@@ -218,7 +246,25 @@ Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých z
 
 - 45. V § 38 ods. 22 sa vypúšťajú slová „a nedovŕšil vek 68 rokov“.
 
+- 46. V § 38 sa za odsek 22 vkladá nový odsek 23, ktorý znie:
+
+- „(23)
+
+- Kvalifikačný predpoklad odbornej praxe podľa prílohy č. 2 možno nahradiť získaním profesijnej kvalifikácie na požadovanej úrovni podľa Slovenského kvalifikačného rámca.<sup>26ca</sup>) Profesijná kvalifikácia sa preukazuje mikroosvedčením.<sup>26cb</sup>) Zoznam štátnozamestnaneckých miest, na ktorých možno nahradiť predpoklad odbornej praxe, a požadovanú profesijnú kvalifikáciu určí služobný úrad v služobnom predpise; služobný úrad vychádza z informácií v registri vzdelávacích inštitúcií, ktoré poskytujú vzdelávacie programy vedúce k získaniu mikroosvedčenia.<sup>26cc</sup>)“.
+
+  - Doterajší odsek 23 sa označuje ako odsek 24.
+
+  - Poznámky pod čiarou k odkazom 26ca až 26cc znejú:
+
+  - „<sup>26ca</sup>) § 5 ods. 2 písm. d) zákona č. 292/2024 Z. z. o vzdelávaní dospelých a o zmene a doplnení niektorých zákonov.
+
+  - <sup>26cb</sup>) § 8 ods. 1 až 3 a § 9 ods. 1 zákona č. 292/2024 Z. z.
+
+  - <sup>26cc</sup>) § 28 ods. 13 zákona č. 292/2024 Z. z.“.
+
 - 47. V § 38 ods. 23 sa slová „16 a 19“ nahrádzajú slovami „18, 21 a 22“.
+
+- 48. V § 38 ods. 24 sa slová „18, 21 a 22“ nahrádzajú slovami „18 a 21 až 23“.
 
 - 49. V § 39 odsek 2 znie:
 
@@ -388,6 +434,10 @@ Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých z
 
 - 90. V § 60 ods. 1 druhej vete sa za slovom „konania“ vypúšťa čiarka a slová „ak ide o vykonávanie štátnej služby v tej istej funkcii alebo vo funkcii v nižšej platovej triede“.
 
+- 91. V § 61 sa vypúšťa odsek 2.
+
+  - Doterajšie odseky 3 až 8 sa označujú ako odseky 2 až 7.
+
 - 92. § 62 sa vypúšťa.
 
 - 93. § 63 znie:
@@ -440,9 +490,15 @@ Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých z
 
 - 102. V § 76 ods. 2 písm. b) sa za slová „materskej dovolenke alebo na rodičovskej dovolenke“ vkladá čiarka a slová „alebo štátneho zamestnanca na otcovskej dovolenke alebo na rodičovskej dovolenke“ sa nahrádzajú slovami „štátneho zamestnanca v dobe od oznámenia predpokladaného dňa nástupu na otcovskú dovolenku, najskôr však šesť týždňov pred očakávaným dňom pôrodu, do skončenia otcovskej dovolenky alebo o štátneho zamestnanca na rodičovskej dovolenke“.
 
+- 103. V § 82 ods. 1 sa vypúšťajú písmená c) a d).
+
+  - Doterajšie písmená e) až l) sa označujú ako písmená c) až j).
+
 - 104. V § 82 ods. 1 písm. l) sa za slovo „funkcie“ vkladajú slová „veľvyslanca alebo funkcie“.
 
 - 105. V § 82 ods. 3 sa vypúšťajú slová „alebo dňom skončenia vykonávania funkcie vedúceho zamestnanca na základe zákona podľa § 62“.
+
+- 106. V § 82 ods. 5 sa slová „písm. k) alebo písm. l)“ nahrádzajú slovami „písm. i) alebo písm. j)“.
 
 - 107. § 83 vrátane nadpisu znie:
 
@@ -536,6 +592,8 @@ Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých z
 
   - <sup>36d</sup>) Napríklad čl. 2 ods. 1 písm. a) až c) ústavného zákona č. 357/2004 Z. z. o ochrane verejného záujmu pri výkone funkcií verejných funkcionárov.“.
 
+- 108. V § 83 ods. 2 sa slová „ods. 3 písm. b), ods. 4 písm. a), ods. 5, 6 alebo ods. 7“ nahrádzajú slovami „ods. 2 písm. b), ods. 3 písm. a), ods. 4, 5 alebo ods. 6“.
+
 - 109. § 84 sa dopĺňa odsekmi 3 a 4, ktoré znejú:
 
 - „(3)
@@ -557,6 +615,8 @@ Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých z
 - (4)
 
 - Ak štátnozamestnanecký pomer štátneho zamestnanca, ktorý preukázal služobnému úradu nárok na predčasný starobný dôchodok, starobný dôchodok alebo invalidný dôchodok, zanikne smrťou štátneho zamestnanca, právo na odchodné vzniká dňom, ktorý predchádza dňu zániku štátnozamestnaneckého pomeru.“.
+
+- 110. V § 84 ods. 3 písm. c) sa slová „e) alebo písm. g)“ nahrádzajú slovami „c) alebo písm. e)“.
 
 - 111. V § 86 odsek 1 znie:
 
@@ -982,6 +1042,16 @@ Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých z
 
 - 163. V § 126 ods. 1 písm. k) sa na konci pripájajú tieto slová: „alebo podľa § 193la ods. 5“.
 
+- 164. V § 127 ods. 1 písm. a) druhom bode sa na konci vypúšťa slovo „alebo“.
+
+- 165. V § 127 ods. 1 písm. a) treťom bode sa na konci pripája slovo „alebo“.
+
+- 166. V § 127 ods. 1 sa písmeno a) dopĺňa štvrtým bodom, ktorý znie:
+
+- „4.
+
+- v príslušnej platovej triede podľa § 159a u štátnych zamestnancov, ktorí sú dočasne vyslaní podľa § 64,“.
+
 - 167. V § 127 ods. 1 písm. b) sa za slovo „tarify“ vkladajú slová „za služobnú prax“.
 
 - 168. V § 127 odsek 2 znie:
@@ -1060,6 +1130,18 @@ Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých z
 
 - 182. V poznámke pod čiarou k odkazu 54 sa vypúšťajú slová „o sociálnom fonde a o zmene a doplnení zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov“.
 
+- 183. V § 149 ods. 1 písmená a) a b) znejú:
+
+- „a)
+
+- platového koeficientu príslušného štátu platného na kalendárny rok, ktorý predchádza kalendárnemu roku, na ktorý sa platový koeficient príslušného štátu určuje,
+
+- b)
+
+- pomeru priemeru indexov životných nákladov príslušného štátu dočasného vyslania podľa štatistiky Organizácie Spojených národov k priemeru indexov životných nákladov príslušného štátu podľa štatistiky Organizácie Spojených národov za rok, ktorý predchádza kalendárnemu roku, na ktorý sa platový koeficient príslušného štátu určuje, a“.
+
+  - Poznámka pod čiarou k odkazu 55 sa vypúšťa.
+
 - 184. V § 150a ods. 3 sa na konci pripája táto veta: „Pri opätovnom vzniku štátnozamestnaneckého pomeru sa doba podľa prvej vety kráti o čas poskytovania príplatku k náhrade príjmu v tom istom kalendárnom roku.“.
 
 - 185. § 150a sa dopĺňa odsekom 4, ktorý znie:
@@ -1072,11 +1154,31 @@ Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých z
 
   - „<sup>56b</sup>) § 2 písm. m) a n) a § 12 ods. 2 písm. f) zákona č. 355/2007 Z. z. v znení neskorších predpisov.“.
 
+- 186. V § 157 písm. a) sa na konci pripájajú tieto slová: „alebo odo dňa nadobudnutia účinnosti opatrenia, ktorým sa ustanovia zvýšené platové tarify, ak ide o štátneho zamestnanca dočasne vyslaného podľa § 64“.
+
 - 187. V § 159 ods. 1 sa vypúšťajú slová „dohodnutú na príslušný kalendárny rok“.
 
 - 188. V § 159 ods. 2 sa vypúšťajú slová „na príslušný kalendárny rok“.
 
 - 189. V § 159 ods. 3 sa slová „kolektívna zmluva vyššieho stupňa neuzatvorí“ nahrádzajú slovami „zvýšenie platových taríf nedohodne v kolektívnej zmluve vyššieho stupňa“.
+
+- 190. § 159 sa dopĺňa odsekom 5, ktorý znie:
+
+- „(5)
+
+- Ustanovenia odsekov 1 až 3 sa nevzťahujú na platové tarify štátnych zamestnancov dočasne vyslaných podľa § 64.“.
+
+- 191. Za § 159 sa vkladá § 159a, ktorý znie:
+
+- „§ 159a
+
+- (1)
+
+- Ministerstvo zahraničných vecí ustanoví opatrením zvýšené platové tarify štátnych zamestnancov dočasne vyslaných podľa § 64. Opatrenie sa vyhlási uverejnením jeho úplného znenia v Zbierke zákonov Slovenskej republiky.
+
+- (2)
+
+- Platové tarify štátnych zamestnancov dočasne vyslaných podľa § 64 platné k 31. decembru sa od 1. januára nasledujúceho kalendárneho roka zvyšujú opatrením podľa odseku 1 o mieru medziročného rastu spotrebiteľských cien uplatňovanú v New Yorku za kalendárny rok, ktorý predchádza kalendárnemu roku, v ktorom sa platový koeficient určuje. Miera medziročného rastu spotrebiteľských cien podľa prvej vety sa zaokrúhľuje na jedno desatinné miesto. Zvýšené platové tarify sa zaokrúhľujú na 50 eurocentov nahor. Ak nedôjde k medziročnému rastu spotrebiteľských cien podľa prvej vety, platové tarify od 1. januára nasledujúceho kalendárneho roka zostávajú zachované.“.
 
 - 192. V § 160 ods. 4 sa na konci pripájajú tieto slová: „vydaním nového oznámenia o výške a zložení funkčného platu“.
 
@@ -1163,6 +1265,8 @@ Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých z
 - 210. V § 171 sa vypúšťa odsek 2. Súčasne sa zrušuje označenie odseku 1.
 
 - 211. V § 175 ods. 3 sa na konci pripája táto veta: „Ustanovenie prvej vety sa nevzťahuje na počítanie doby podľa tohto zákona alebo podľa Zákonníka práce.“.
+
+- 212. V § 175 ods. 4 sa slová „ods. 5 a 6“ nahrádzajú slovami „ods. 4 a 5“.
 
 - 213. V § 175 ods. 4 sa slová „§ 117 ods. 4 a § 118 ods. 1 a 3“ nahrádzajú slovami „§ 116 ods. 1 a 6 a § 117 ods. 4“.
 
@@ -1268,6 +1372,34 @@ Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých z
 
 - Obmedzenie podľa § 112 ods. 7 písm. b) sa nevzťahuje na činnosť podľa § 112 ods. 4 v znení účinnom do 30. septembra 2025 vykonávanú na základe právneho vzťahu uzatvoreného do 30. septembra 2025.“.
 
+- 220. Za § 193n sa vkladá § 193o, ktorý vrátane nadpisu znie:
+
+- „§ 193o
+
+- Prechodné ustanovenia k úpravám účinným od 1. januára 2026
+
+- (1)
+
+- Preukazovanie bezúhonnosti začaté do 31. decembra 2025 sa dokončí podľa predpisov účinných do 31. decembra 2025.
+
+- (2)
+
+- Preukázanie bezúhonnosti odpisom registra trestov podľa predpisov účinných do 31. decembra 2025 sa považuje za preukázanie bezúhonnosti špecializovaným výpisom z registra trestov podľa predpisov účinných od 1. januára 2026.
+
+- (3)
+
+- Pri zvýšení platových taríf podľa § 159a v roku 2026 sa použijú platové tarify štátnych zamestnancov účinné k 31. decembru 2025.“.
+
+- 221. V prílohe č. 2 druhej platovej triede časti Kvalifikačné predpoklady sa za slová „stredné vzdelanie“ vkladajú slová „a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom,“.
+
+- 222. V prílohe č. 2 tretej platovej triede časť Kvalifikačné predpoklady znie: „úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.“.
+
+- 223. V prílohe č. 2 štvrtej platovej triede časť Kvalifikačné predpoklady znie: „úplné stredné vzdelanie a odborná prax najmenej jeden rok a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a odborná prax najmenej jeden rok a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.“.
+
+- 224. V prílohe č. 2 piatej platovej triede časť Kvalifikačné predpoklady znie: „úplné stredné vzdelanie a odborná prax najmenej tri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a odborná prax najmenej tri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.“.
+
 - 225. V prílohe č. 2 piatej platovej triede sa vypúšťajú slová „alebo v príslušnom úseku štátnej správy“.
+
+- 226. V prílohe č. 2 šiestej platovej triede časť Kvalifikačné predpoklady znie: „úplné stredné vzdelanie a odborná prax najmenej päť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a odborná prax najmenej päť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.“.
 
 - 227. V prílohe č. 5 V. oddiele sa slovo „zástupcu“ nahrádza slovami „štátneho zamestnanca“.

@@ -24,6 +24,34 @@ Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení zákona 
 
   - „<sup>9</sup>) Napríklad zákon č. 453/2003 Z. z. o orgánoch štátnej správy v oblasti sociálnych vecí, rodiny a služieb zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 345/2022 Z. z. o inšpekcii v sociálnych veciach a o zmene a doplnení niektorých zákonov.“.
 
+- 4. Poznámka pod čiarou k odkazu 10 znie:
+
+- „<sup>10</sup>) § 11 ods. 1 písm. a) zákona č. 192/2023 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
+- 5. V § 3 ods. 5 druhá veta znie: „Bezúhonnosť možno preukázať aj verejnou listinou<sup>10a</sup>) vydanou na účel podľa osobitného predpisu.<sup>10b</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 10a a 10b znejú:
+
+  - „<sup>10a</sup>) § 11 ods. 1 písm. a) až c) zákona č. 192/2023 Z. z.
+
+  - <sup>10b</sup>) Napríklad zákon č. 215/2004 Z. z., zákon č. 138/2019 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
+- 6. V § 3 ods. 6 a 7 sa nad slovom „predpisu“ odkaz „<sup>10a</sup>)“ nahrádza odkazom „<sup>10c</sup>)“ a nad slovami „vyžiadanie výpisu z registra trestov.“ sa odkaz „<sup>10aa</sup>)“ nahrádza odkazom „<sup>10d</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 10c a 10d znejú:
+
+  - „<sup>10c</sup>) Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+  - <sup>10d</sup>) § 12 ods. 4 písm. a) zákona č. 192/2023 Z. z.“.
+
+  - Poznámka pod čiarou k odkazu 10aa sa vypúšťa.
+
+- 7. V § 3 ods. 6 sa nad slovom „služby“ odkaz „<sup>10b</sup>)“ nahrádza odkazom „<sup>10e</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 10e znie:
+
+  - „<sup>10e</sup>) Zákon č. 99/2024 Z. z. o centrálnom informačnom systéme štátnej služby a o zmene a doplnení zákona č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
 - 8. V § 5 ods. 6 sa slová „§ 3 ods. 4“ nahrádzajú slovami „§ 3 ods. 5“ a slová „§ 3 ods. 4 až 7“ sa nahrádzajú slovami „§ 3 ods. 5 až 8“.
 
 - 9. Za § 12 sa vkladá § 12a, ktorý znie:

@@ -46,6 +46,8 @@ Zákon č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone pr
 
 - príplatok riaditeľa školy.“.
 
+- 5. V § 7 ods. 1 sa na konci pripája táto veta: „Pri určení tarifného platu a zvýšenia platovej tarify zamestnanca, ktorý podľa pracovnej zmluvy vykonáva práce vo verejnom záujme v zahraničí, sa postupuje podľa § 22 ods. 1.“.
+
 - 6. V § 7 sa vypúšťa odsek 18.
 
 - 7. Za § 8 sa vkladá § 8a, ktorý vrátane nadpisu znie:
@@ -171,6 +173,16 @@ Zákon č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone pr
 - podľa kolektívnej zmluvy vyššieho stupňa.“.
 
 - 11. V § 20 ods. 3 sa za prvú vetu vkladá nová druhá veta a tretia veta, ktoré znejú: „Odmenu podľa odseku 1 písm. f) a g) možno poskytnúť aj bez návrhu vedúceho zamestnanca. Odmena dohodnutá v kolektívnej zmluve sa poskytuje aj bez návrhu vedúceho zamestnanca.“.
+
+- 12. V § 21b ods. 1 prvej vete sa slová „objektivizovaným platovým koeficientom podľa § 23.“ nahrádzajú slovami „platovým koeficientom podľa osobitného predpisu.<sup>34</sup>)“.
+
+- 13. V § 22 ods. 1 prvej vete sa slová „objektivizovaným platovým koeficientom.“ nahrádzajú slovami „platovým koeficientom podľa osobitného predpisu.<sup>34</sup>)“.
+
+- 14. V § 22 ods. 1 tretej vete sa slová „objektivizovaným platovým koeficientom (§ 23).“ nahrádzajú slovami „platovým koeficientom podľa osobitného predpisu.<sup>34</sup>)“.
+
+- 15. § 23 sa vypúšťa.
+
+- 16. V § 24 ods. 4 sa vypúšťajú slová „a 23“.
 
 - 17. V § 28 ods. 1 sa vypúšťajú slová „dohodnutú na príslušný kalendárny rok“.
 
