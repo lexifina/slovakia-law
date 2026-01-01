@@ -22,13 +22,17 @@
 
 - 9) Napríklad zákon č. 453/2003 Z. z. o orgánoch štátnej správy v oblasti sociálnych vecí, rodiny a služieb zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 345/2022 Z. z. o inšpekcii v sociálnych veciach a o zmene a doplnení niektorých zákonov.
 
-- 10) Zákon č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
+- 10) § 11 ods. 1 písm. a) zákona č. 192/2023 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 10a) Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
+- 10a) § 11 ods. 1 písm. a) až c) zákona č. 192/2023 Z. z.
 
-- 10aa) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+- 10b) Napríklad zákon č. 215/2004 Z. z., zákon č. 138/2019 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 10b) § 25 zákona č. 55/2017 Z. z.
+- 10c) Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 10d) § 12 ods. 4 písm. a) zákona č. 192/2023 Z. z.
+
+- 10e) Zákon č. 99/2024 Z. z. o centrálnom informačnom systéme štátnej služby a o zmene a doplnení zákona č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 11) Napríklad zákon Slovenskej národnej rady č. 254/1991 Zb. o Slovenskej televízii v znení neskorších predpisov, zákon Slovenskej národnej rady č. 255/1991 Zb. o Slovenskom rozhlase v znení neskorších predpisov.
 
