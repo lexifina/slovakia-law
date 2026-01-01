@@ -14,11 +14,11 @@
 
 - 6) § 45 a 51 zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 7) § 19 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 7) § 19 až 21 a § 28a zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 7a) § 29 ods. 10 písm. a) zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení zákona č. 420/2019 Z. z.
 
-- 7aa) § 5 ods. 11 a 12 zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 7aa) § 52 ods. 4 a § 58 ods. 2 zákona č. 321/2025 Z. z. o školskej správe a o zmene a doplnení niektorých zákonov.
 
 - 7ab) § 27a zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
