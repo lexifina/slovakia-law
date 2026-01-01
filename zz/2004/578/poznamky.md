@@ -68,7 +68,7 @@
 
 - 13aa) § 25 ods. 1 písm. o) zákona č. 576/2004 Z. z. v znení neskorších predpisov.
 
-- 13aaa) § 4 ods. 2 písm. a) a b) zákona č. 540/2021 Z. z.
+- 13aaa) § 44 ods. 2 zákona č. 540/2021 Z. z. v znení zákona č. 125/2024 Z. z.
 
 - 13aab) § 5 ods. 1 zákona č. 317/2016 Z. z.
 
