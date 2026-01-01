@@ -1,0 +1,1 @@
+Príloha č. 2 k opatreniu č. 205/2025 Z. z. [VZOR – INFORMÁCIA O DÔCHODKOCH ZO STAROBNÉHO DÔCHODKOVÉHO SPORENIA (2. PILIER)](../assets/f9a1a0a7ab2ed90ab681d50cc283cc241382e7ef54fe811d3ce998b62cd6e090.pdf)
