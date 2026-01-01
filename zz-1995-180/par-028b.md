@@ -1,0 +1,3 @@
+# § 28b
+
+Ak sa zjednodušený register zhotovuje v časti katastrálneho územia alebo v jednom katastrálnom území v obci tvorenej z viac katastrálnych území a v zostávajúcej časti katastrálneho územia alebo v jednom katastrálnom území v obci tvorenej z viac katastrálnych území už bol register schválený alebo konanie prebieha, zjednodušený register vypracuje zhotoviteľ registra pre už spracovaný alebo zadaný register. Ak zhotoviteľ registra zanikol bez právneho nástupcu alebo ponuku na vypracovanie zjednodušeného registra neprijal, zjednodušený register vypracuje zhotoviteľ registra, ktorého určí okresný úrad na úseku pozemkovom, z ďalších zhotoviteľov v okrese podľa prvej vety.
