@@ -1,4 +1,4 @@
-- 1) § 30 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení zákona č. 436/2001 Z. z.
+- 1) § 26 písm. b) zákona č. 56/2018 Z. z. o posudzovaní zhody výrobku, sprístupňovaní určeného výrobku na trhu a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - § 17 ods. 1 zákona č. 254/2011 Z. z. o prepravovateľných tlakových zariadeniach a o zmene a doplnení niektorých zákonov.
 
@@ -108,13 +108,13 @@
 
 - 18e) § 3 Trestného poriadku.
 
-- 18f) § 2 ods. 1 písm. g) a h) zákona č. 264/1999 Z. z. v znení neskorších predpisov.
+- 18f) § 26 písm. b) zákona č. 56/2018 Z. z. v znení neskorších predpisov.
 
-- 18g) Napríklad nariadenie vlády Slovenskej republiky č. 117/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody zariadení a ochranných systémov určených na použitie v prostredí s nebezpečenstvom výbuchu v znení nariadenia vlády Slovenskej republiky č. 296/2002 Z. z., nariadenie vlády Slovenskej republiky č. 571/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na výťahy v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 576/2002 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na tlakové zariadenie a ktorým sa mení a dopĺňa nariadenie vlády Slovenskej republiky č. 400/1999 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách na ostatné určené výrobky v znení neskorších predpisov v znení nariadenia vlády Slovenskej republiky č. 329/2003 Z. z., nariadenie vlády Slovenskej republiky č. 308/2004 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody pre elektrické zariadenia, ktoré sa používajú v určitom rozsahu napätia v znení nariadenia vlády Slovenskej republiky č. 449/2007 Z. z., nariadenie vlády Slovenskej republiky č. 35/2008 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na osobné ochranné prostriedky, nariadenie vlády Slovenskej republiky č. 436/2008 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na strojové zariadenia.
+- 18g) Čl. 3 ods. 13 nariadenia Európskeho parlamentu a Rady (EÚ) 2019/1020 z 20. júna 2019 o dohľade nad trhom a súlade výrobkov a o zmene smernice 2004/42/ES a nariadení (ES) č. 765/2008 a (EÚ) č. 305/2011 (Ú. v. EÚ L 169, 25. 6. 2019) v platnom znení.
 
-- 18h) Napríklad zákon č. 505/2009 Z. z. o akreditácii orgánov posudzovania zhody a o zmene a doplnení niektorých zákonov, kapitola II nariadenia Európskeho parlamentu a Rady (ES) č. 765/2008 z 9. júla 2008, ktorým sa stanovujú požiadavky akreditácie a dohľadu nad trhom v súvislosti s uvádzaním výrobkov na trh a ktorým sa zrušuje nariadenie (EHS) č. 339/1993 (Ú. v. EÚ L 218, 13. 8. 2008).
+- § 5 až 9a zákona č. 56/2018 Z. z. v znení neskorších predpisov.
 
-- 18i) Napríklad § 2 ods. 1 písm. b) až e) zákona č. 264/1999 Z. z. v znení neskorších predpisov, čl. 2 body 3 až 6 nariadenia (ES) č. 765/2008.
+- 18h) § 27 až 29 zákona č. 56/2018 Z. z. v znení neskorších predpisov.
 
 - 19) Napríklad § 17 Obchodného zákonníka, zákon č. 215/2004 Z. z.
 
