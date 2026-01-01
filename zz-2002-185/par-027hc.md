@@ -1,0 +1,5 @@
+# § 27hc Dohľad pri výberovom konaní na funkciu predsedu súdu a pri preložení sudcu na iný súd
+
+(1) Výberová komisia podľa osobitného predpisu<sup>17</sup>) požiada súdnu radu po ukončení výberového konania o vykonanie dohľadu nad spĺňaním predpokladov sudcovskej spôsobilosti úspešných uchádzačov o funkciu predsedu súdu. Súdna rada postupuje podľa § 27hb a 27hh. O zisteniach a prijatých stanoviskách informuje súdna rada výberovú komisiu a ministra spravodlivosti. Odmietnutie úspešného uchádzača o funkciu predsedu súdu pred vymenovaním do funkcie predsedu súdu nie je dôvodom pre ukončenie dohľadu podľa tohto zákona.
+
+(2) Súdna rada vykoná u sudcu, ktorý sa má preložiť na súd vyššieho stupňa, a u sudcu, ktorý sa má preložiť zo súdu všeobecného súdnictva na súd správneho súdnictva alebo naopak, dohľad nad spĺňaním predpokladov sudcovskej spôsobilosti. Súdna rada postupuje podľa § 27hb a 27hh. O zisteniach a prijatých stanoviskách informuje súdna rada toho, kto preloženie sudcu navrhol. Späťvzatie návrhu na preloženie sudcu, späťvzatie súhlasu sudcu s preložením alebo späťvzatie žiadosti sudcu o preloženie nie je dôvodom pre ukončenie dohľadu podľa tohto zákona.
