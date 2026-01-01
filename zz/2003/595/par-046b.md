@@ -2,7 +2,7 @@
 
 (1) Minimálnou daňou právnickej osoby je daň po odpočítaní úľav na dani podľa § 30a alebo § 30b alebo § 52 ods. 3 a 4 a po zápočte dane zaplatenej v zahraničí podľa § 45, ktorú platí daňovník za každé zdaňovacie obdobie, za ktoré daňová povinnosť vypočítaná v daňovom priznaní je nižšia ako výška minimálnej dane ustanovenej pre jednotlivého daňovníka podľa odseku 2, alebo daňovník, ktorý vykázal daňovú stratu.
 
-(2) Minimálnu daň platí daňovník, ktorý dosiahol za zdaňovacie obdobie zdaniteľné príjmy (výnosy)
+(2) Minimálnu daň právnickej osoby platí daňovník, ktorý dosiahol za zdaňovacie obdobie zdaniteľné príjmy (výnosy)
 
 a) neprevyšujúce sumu 50 000 eur, a to vo výške | 340 eur,
 
@@ -10,7 +10,9 @@ b) prevyšujúce sumu 50 000 eur a neprevyšujúce sumu 250 000 eur, a to vo vý
 
 c) prevyšujúce sumu 250 000 eur a neprevyšujúce sumu 500 000 eur, a to vo výške | 1 920 eur,
 
-d) prevyšujúce sumu 500 000 eur, a to vo výške | 3 840 eur.
+d) prevyšujúce sumu 500 000 eur a neprevyšujúce sumu 5 000 000 eur, a to vo výške | 3 840 eur,
+
+e) prevyšujúce sumu 5 000 000 eur, a to vo výške | 11 520 eur.
 
 (3) U daňovníka, ktorého priemerný evidenčný počet zamestnancov, ktorými sú fyzické osoby so zdravotným postihnutím, za zdaňovacie obdobie je najmenej 20 % z celkového priemerného evidenčného počtu zamestnancov vo fyzických osobách podľa osobitného predpisu,
 

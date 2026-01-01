@@ -2,7 +2,7 @@
 
 (1) Daňovník, ktorý je právnickou osobou a ktorý je verejnoprospešným podnikom podľa osobitného predpisu,<sup>120m</sup>) si môže uplatniť nárok na úľavu na dani z hospodárskej činnosti<sup>120n</sup>) vo výške percentuálneho vyjadrenia záväzku využitia zisku na dosiahnutie hlavného cieľa podľa osobitného predpisu<sup>120o</sup>) za zdaňovacie obdobie, v ktorom k poslednému dňu zdaňovacieho obdobia má priznaný štatút registrovaného sociálneho podniku.
 
-(2) Úľavu na dani podľa odseku 1 v príslušnom zdaňovacom období si môže uplatniť daňovník, ktorý neuplatňuje úľavu na dani podľa § 30a alebo § 30b a neuplatňuje odpočet výdavkov (nákladov) podľa § 30c a nie je prijímateľom podielu zaplatenej dane podľa § 50.
+(2) Úľavu na dani podľa odseku 1 v príslušnom zdaňovacom období si môže uplatniť daňovník, ktorý neuplatňuje úľavu na dani podľa § 30a alebo § 30b a neuplatňuje odpočet výdavkov (nákladov) podľa § 30c alebo § 30ca a nie je prijímateľom podielu zaplatenej dane podľa § 50.
 
 (3) Daňovník, ktorý si uplatnil úľavu na dani podľa odseku 1, je povinný použiť sumu úľavy na dani podľa odseku 1 na
 

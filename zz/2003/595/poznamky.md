@@ -96,6 +96,10 @@
 
 - 24h) § 42 Zákonníka práce v znení neskorších predpisov.
 
+- 24i) § 83 ods. 1 zákona č. 440/2015 Z. z. v znení zákona č. 354/2016 Z. z.
+
+- 24j) § 80 zákona č. 440/2015 Z. z. v znení neskorších predpisov.
+
 - 25) Zákon č. 455/1991 Zb. v znení neskorších predpisov.
 
 - 26) Napríklad zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 430/2003 Z. z., zákon Slovenskej národnej rady č. 10/1992 Zb. o súkromných veterinárnych lekároch a o Komore veterinárnych lekárov Slovenskej republiky v znení zákona č. 337/1998 Z. z., zákon č. 466/2002 Z. z. o audítoroch a Slovenskej komore audítorov, zákon Slovenskej národnej rady č. 78/1992 Zb. o daňových poradcoch a Slovenskej komore daňových poradcov v znení neskorších predpisov, zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
@@ -108,9 +112,13 @@
 
 - 29a) Napríklad zákon č. 650/2004 Z. z. v znení zákona č. 747/2004 Z. z., zákon č. 5/2004 Z. z. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 310/1992 Zb. v znení neskorších predpisov, zákon č. 566/2001 Z. z. v znení neskorších predpisov, zákon č. 340/2005 Z. z. o sprostredkovaní poistenia a sprostredkovaní zaistenia a o zmene a doplnení niektorých zákonov.
 
-- 29aa) § 4 ods. 3 písm. c), ods. 4 písm. a), b) a d) a § 6 ods. 1 písm. a) až d) a § 45 zákona č. 440/2015 Z. z.
+- 29aa) § 4 ods. 3 písm. c), ods. 4 písm. a) a b) zákona č. 440/2015 Z. z. v znení neskorších predpisov.
 
-- 29ab) § 50 a 51 zákona č. 440/2015 Z. z.
+- 29ab) § 50 a 51 zákona č. 440/2015 Z. z. v znení neskorších predpisov.
+
+- 29ac) § 6 ods. 1 písm. a) až d) a ods. 3 písm. a) a e) zákona č. 440/2015 Z. z. v znení neskorších predpisov.
+
+- 29ad) § 6 ods. 1 písm. a) a ods. 3 písm. a) a e) zákona č. 440/2015 Z. z. v znení neskorších predpisov.
 
 - 30) § 476 až 488 Obchodného zákonníka.
 
@@ -146,7 +154,9 @@
 
 - 37af) Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 37afa) § 4 ods. 3 písm. a) a b) zákona č. 440/2015 Z. z.
+- 37afa) § 4 ods. 3 písm. a) a b) a ods. 4 písm. c) zákona č. 440/2015 Z. z. v znení neskorších predpisov.
+
+- 37afaa) § 6 ods. 1 písm. a) a ods. 3 písm. b) a c) zákona č. 440/2015 Z. z. v znení neskorších predpisov.
 
 - 37afb) § 6 ods. 2 písm. e) zákona č. 406/2011 Z. z. o dobrovoľníctve v znení zákona č. 440/2015 Z. z.
 
@@ -194,7 +204,9 @@
 
 - 43) Napríklad zákon č. 235/1998 Z. z. o príspevku pri narodení dieťaťa, o príspevku rodičom, ktorým sa súčasne narodili tri deti alebo viac detí alebo ktorým sa v priebehu dvoch rokov opakovane narodili dvojčatá a ktorým sa menia ďalšie zákony v znení neskorších predpisov, zákon č. 238/1998 Z. z. o príspevku na pohreb v znení neskorších predpisov, zákon č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov, zákon č. 627/2005 Z. z. o príspevkoch na podporu náhradnej starostlivosti o dieťa v znení neskorších predpisov, zákon č. 571/2009 Z. z. o rodičovskom príspevku a o zmene a doplnení niektorých zákonov.
 
-- 44) Napríklad zákon č. 98/1987 Zb. o osobitnom príspevku baníkom v znení neskorších predpisov, zákon č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 43a) § 52a zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení zákona č. 141/2025 Z. z.
+
+- 44) Napríklad zákon č. 98/1987 Zb. o osobitnom príspevku baníkom v znení neskorších predpisov, zákon č. 305/2005 Z. z. v znení neskorších predpisov.
 
 - 45) Napríklad zákon č. 385/2000 Z. z. v znení neskorších predpisov, zákon č. 154/2001 Z. z. v znení zákona č. 669/2002 Z. z., zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov.
 
@@ -400,7 +412,7 @@
 
 - 77d) § 369c Obchodného zákonníka v znení zákona č. 9/2013 Z. z.
 
-- 78) § 54 až 54b zákona č. 222/2004 Z. z. v znení neskorších predpisov.
+- 78) § 54 až 54d zákona č. 222/2004 Z. z. v znení neskorších predpisov.
 
 - 79) Napríklad § 369 Obchodného zákonníka.
 
@@ -608,6 +620,8 @@
 
 - Zákon č. 223/2001 Z. z. v znení neskorších predpisov.
 
+- 109a) § 754 až 759 Občianskeho zákonníka.
+
 - 110) § 659 až 662 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
 
 - 111) Zákon č. 383/1997 Z. z. v znení zákona č. 234/2000 Z. z.
@@ -680,6 +694,8 @@
 
 - 120l) § 52 ods. 10 zákona č. 563/2009 Z. z. v znení zákona č. 333/2014 Z. z.
 
+- 120la) § 8 zákona č. 440/2015 Z. z. v znení neskorších predpisov.
+
 - 120m) § 11 ods. 1 písm. a) zákona č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zmene a doplnení niektorých zákonov.
 
 - 120n) § 5 ods. 2 zákona č. 358/2015 Z. z. o úprave niektorých vzťahov v oblasti štátnej pomoci a minimálnej pomoci a o zmene a doplnení niektorých zákonov (zákon o štátnej pomoci).
@@ -697,6 +713,26 @@
 - 120t) Napríklad Nariadenie Európskeho parlamentu a Rady (EÚ) č. 1303/2013 zo 17. decembra 2013, ktorým sa stanovujú spoločné ustanovenia o Európskom fonde regionálneho rozvoja, Európskom sociálnom fonde, Kohéznom fonde, Európskom poľnohospodárskom fonde pre rozvoj vidieka a Európskom námornom a rybárskom fonde a ktorým sa stanovujú všeobecné ustanovenia o Európskom fonde regionálneho rozvoja, Európskom sociálnom fonde, Kohéznom fonde a Európskom námornom a rybárskom fonde, a ktorým sa zrušuje nariadenie Rady (ES) č. 1083/2006 (Ú. v. EÚ L 347, 20. 12. 2013) v platnom znení, zákon č. 323/2015 Z. z. o finančných nástrojoch financovaných z európskych štrukturálnych a investičných fondov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 368/2021 Z. z. o mechanizme na podporu obnovy a odolnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 121) § 24 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+
+- 121a) Zákon č. 73/1998 Z. z. v znení neskorších predpisov.
+
+- 121b) Zákon č. 281/2015 Z. z. v znení neskorších predpisov.
+
+- 121c) Zákonník práce.
+
+- Zákon č. 552/2003 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 55/2017 Z. z. v znení neskorších predpisov.
+
+- 121d) Zákonník práce.
+
+- Zákon č. 73/1998 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 552/2003 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 281/2015 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 55/2017 Z. z. v znení neskorších predpisov.
 
 - 122a) Napríklad Viedenský dohovor o diplomatických stykoch (vyhláška ministra zahraničných vecí č. 157/1964 Zb.), Viedenský dohovor o konzulárnych stykoch (vyhláška ministra zahraničných vecí č. 32/1969 Zb.).
 
@@ -842,7 +878,7 @@
 
 - 146aca) Napríklad zákon č. 328/2002 Z. z. v znení zákona č. 278/2024 Z. z., zákon č. 461/2003 Z. z. v znení zákona č. 278/2024 Z. z.
 
-- 146acb) Napríklad § 179 ods. 1 písm. f) zákona č. 461/2003 Z. z. v znení zákona č. 278/2024 Z. z., § 115a ods. 3 zákona č. 328/2002 Z. z. v znení zákona č. 278/2024 Z. z.
+- 146acb) Napríklad § 179 ods. 1 písm. f) zákona č. 461/2003 Z. z. v znení zákona č. 200/2025 Z. z.
 
 - 146ad) Napríklad čl. 107 a 108 Zmluvy o fungovaní Európskej únie v platnom znení (Ú. v. EÚ C 326, 26. 10. 2012), zákon č. 358/2015 Z. z.
 
@@ -881,3 +917,5 @@
 - 159) § 43 ods. 2 zákona č. 50/1976 Zb. v znení zákona č. 46/2024 Z. z.
 
 - 160) § 84 ods. 4 až 7 Stavebného zákona.
+
+- 161) § 85n zákona č. 222/2004 Z. z. v znení zákona č. 261/2025 Z. z.
