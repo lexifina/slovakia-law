@@ -1,6 +1,6 @@
 # § 4a Regulácia cien
 
-(1) Regulácia cien je určenie ceny alebo určenie záväzného spôsobu vytvorenia ceny tovaru a podmienok regulácie cien cenovými orgánmi uvedenými v § 20 ods. 1 písm. a) až c), e) až g) a j) a § 23e ods. 1.
+(1) Regulácia cien je určenie ceny alebo určenie záväzného spôsobu vytvorenia ceny tovaru a podmienok regulácie cien cenovými orgánmi uvedenými v § 20 ods. 1 písm. a) až c), e) až g) a i) a § 23e ods. 1.
 
 (2) Cenové orgány môžu regulovať ceny tovaru, ak
 
