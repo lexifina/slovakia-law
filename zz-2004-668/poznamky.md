@@ -1,0 +1,1 @@
+- 1) § 35 zákona č. 322/2025 Z. z. o financovaní škôl a školských zariadení.
