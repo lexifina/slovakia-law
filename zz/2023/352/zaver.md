@@ -1,1 +1,0 @@
-Soňa Gaborčáková v. r.
