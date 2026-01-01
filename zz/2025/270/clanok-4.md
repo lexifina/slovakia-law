@@ -82,6 +82,14 @@ Zákon č. 432/2021 Z. z. o disciplinárnom poriadku Najvyššieho správneho s�
 
 - ktorý vykonáva notársku činnosť aspoň desať rokov.“.
 
+- 20. V § 15 písmeno b) znie:
+
+- „b)
+
+- súdna rada,“.
+
+- 21. V § 23 ods. 2 sa slová „predsedu Súdnej rady Slovenskej republiky“ nahrádzajú slovami „súdnu radu“.
+
 - 30. Za § 47a sa vkladajú § 47b a 47c, ktoré vrátane nadpisov znejú:
 
 - „§ 47b
