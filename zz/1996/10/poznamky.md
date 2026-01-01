@@ -32,6 +32,8 @@
 
 - 10) Napríklad zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky v znení neskorších predpisov, zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 10a) § 10, § 16 až 18 a § 20 až 28 zákona č. 357/2015 Z. z. v znení neskorších predpisov.
+
 - 11) Napríklad § 31 zákona Národnej rady Slovenskej republiky č. 132/1994 Z. z., ktorým sa mení a dopĺňa zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 13) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
