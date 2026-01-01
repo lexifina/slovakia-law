@@ -88,6 +88,12 @@
 
 - 42) Napríklad § 33a ods. 3 a 4 zákona č. 17/1992 Zb. o životnom prostredí v znení zákona č. 211/2000 Z. z., § 24 zákona č. 261/2002 Z. z. v znení neskorších predpisov, § 41 zákona č. 364/2004 Z. z.
 
+- 42a) § 28a zákona č. 543/2002 Z. z. v znení zákona č. 356/2019 Z. z.
+
+- 42b) Zákon č. 39/2013 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 79/2015 Z. z. v znení neskorších predpisov.
+
 - 43) § 8 zákona č. 220/2004 Z. z.
 
 - 44) § 9 zákona č. 126/2006 Z. z.
