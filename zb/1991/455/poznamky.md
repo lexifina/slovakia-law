@@ -242,7 +242,7 @@
 
 - 36cb) § 12 ods. 4 písm. a) zákona č. 192/2023 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
-- 36cc) § 12 zákona č. 253/1998 Z. z. v znení zákona č. 206/2008 Z. z.
+- 36cc) Napríklad zákon č. 253/1998 Z. z. v znení zákona č. 206/2008 Z. z., zákon č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov, zákon č. 346/2018 Z. z. o registri mimovládnych neziskových organizácií a o zmene a doplnení niektorých zákonov.
 
 - 36d) § 31 ods. 1 a 3 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
@@ -261,6 +261,8 @@
 - 36ja) § 154 ods. 8 zákona č. 106/2018 Z. z.
 
 - 36jb) § 96 ods. 2 zákona č. 30/2019 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov.
+
+- 36jc) § 17 ods. 6 a 10 zákona č. 384/2025 Z. z. o evidencii tržieb a o zmene a doplnení niektorých zákonov.
 
 - 36k) § 9 ods. 3 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov.
 
