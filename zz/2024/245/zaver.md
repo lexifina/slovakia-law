@@ -1,1 +1,0 @@
-Erik Tomáš v. r.
