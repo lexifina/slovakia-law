@@ -48,4 +48,4 @@
 
 (10) Okresný úrad vedie evidenciu rozhodnutí podľa odseku 4 a odseku 9, navrhovateľov a doterajších náhradných pozemkov, ku ktorým vznikol podnájomný vzťah.
 
-(11) Na konanie podľa odsekov 1 až 10 sa vzťahuje všeobecný predpis o správnom konaní,<sup>12h</sup>) ak tento zákon v § 24e neustanovuje inak.
+(11) Na konanie podľa odsekov 1 až 10 sa vzťahuje správny poriadok, ak § 24e neustanovuje inak.

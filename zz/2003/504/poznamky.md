@@ -1,6 +1,6 @@
 - 2) Zákon č. 220/2004 Z. z. o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov.
 
-- 2a) Vyhláška Úradu geodézie, kartografie a katastra Slovenskej republiky č. 79/1996 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
+- 2a) § 17 ods. 1 zákona č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov.
 
 - 3) § 5 Obchodného zákonníka.
 
@@ -8,9 +8,13 @@
 
 - 5) Zákon č. 274/2009 Z. z. o poľovníctve a o zmene a doplnení niektorých zákonov.
 
-- 6) § 8 ods. 1 zákona č. 215/2001 Z. z. o ochrane genetických zdrojov rastlín pre výživu a poľnohospodárstvo.
+- 6) § 9 ods. 1 zákona č. 215/2001 Z. z. o ochrane genetických zdrojov rastlín pre výživu a poľnohospodárstvo.
 
-- 7) § 9 ods. 1 zákona č. 215/2001 Z. z.
+- 7) § 8 zákona č. 313/2009 Z. z. o vinohradníctve a vinárstve.
+
+- 7a) § 4a zákona č. 597/2006 Z. z. o pôsobnosti orgánov štátnej správy v oblasti registrácie odrôd pestovaných rastlín a uvádzaní množiteľského materiálu pestovaných rastlín na trh v znení zákona č. 467/2008 Z. z.
+
+- 7b) § 8 ods. 4 zákona č. 215/2001 Z. z.
 
 - 8) § 665 ods. 1 Občianskeho zákonníka.
 
@@ -38,15 +42,11 @@
 
 - 12a) § 7 ods. 4 zákona č. 42/1992 Zb. o úprave majetkových vzťahov a vyporiadaní majetkových nárokov v družstvách v znení neskorších predpisov.
 
-- 12aa) § 22 ods. 2 zákona č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov.
-
 - 12b) § 2 ods. 2 písm. a) zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov.
 
 - 12ba) § 5 ods. 4 písm. j) zákona č. 330/1991 Zb. v znení neskorších predpisov.
 
 - 12c) § 34 ods. 3 zákona Slovenskej národnej rady č. 330/1991 Zb. v znení neskorších predpisov.
-
-- 12ca) § 12a ods. 2 zákona č. 105/1990 Zb. o súkromnom podnikaní občanov v znení neskorších predpisov.
 
 - 12d) § 15 zákona č. 330/1991 Zb. v znení zákona č. 549/2004 Z. z.
 
@@ -56,7 +56,9 @@
 
 - 12g) § 42i zákona č. 330/1991 Zb.
 
-- 12h) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
+- 12i) § 16 ods. 2 písm. b) zákona č. 97/2013 Z. z. o pozemkových spoločenstvách v znení zákona č. 110/2018 Z. z.
+
+- 12j) Napríklad § 51 a § 659 až 662 Občianskeho zákonníka, § 2 ods. 1 zákona č. 97/2013 Z. z. o pozemkových spoločenstvách.
 
 - 13) Zákon č. 280/2017 Z. z. o poskytovaní podpory a dotácie v pôdohospodárstve a rozvoji vidieka a o zmene zákona č. 292/2014 Z. z. o príspevku poskytovanom z európskych štrukturálnych a investičných fondov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
