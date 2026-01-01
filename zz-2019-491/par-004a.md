@@ -1,0 +1,11 @@
+# § 4a
+
+(1) Ak je v príslušnej terminálnej zóne spoplatňovania rozdiel percentuálnej hodnoty medzi skutočným indexom inflácie v roku r a prognózovaným indexom inflácie na rok r väčší ako 5 %, náklady roku r okrem nákladov podľa § 2 ods. 1 písm. c) a d) a ods. 3 písm. f) upravené na základe rozdielu percentuálnej hodnoty medzi skutočným indexom inflácie v roku r a prognózovaným indexom inflácie na rok r sa môžu zahrnúť ako rovnomerne rozvrhnutá úprava terminálnej jednotkovej sadzby určenej na roky r + 2 až r + 6.
+
+(2) Ak je v príslušnej terminálnej zóne spoplatňovania rozdiel medzi celkovým predpokladaným počtom terminálnych jednotiek služieb na rok r a skutočným počtom terminálnych jednotiek služieb v roku r väčší ako 10 %, rozdiel medzi celkovým predpokladaným počtom terminálnych jednotiek služieb na rok r a skutočným počtom terminálnych jednotiek služieb v roku r sa môže zahrnúť ako rovnomerne rozvrhnutá úprava terminálnej jednotkovej sadzby určenej na roky r + 2 až r + 6. Pri úprave terminálnej jednotkovej sadzby podľa prvej vety sa postupuje podľa § 4 ods. 4.
+
+(3) Ak osoba podľa § 2 ods. 1 zákona, ktorá prevádzkuje letisko v príslušnej terminálnej zóne spoplatňovania upraví najneskôr do 10. októbra roku r odhadovaný počet letov a terminálnych jednotiek služieb na rok r + 1 a rozdiel medzi odhadovaným počtom letov a terminálnych jednotiek služieb na rok r + 1 a celkovým predpokladaným počtom terminálnych jednotiek služieb na rok r + 1 určeným pred začiatkom referenčného obdobia je viac ako 25 %, poskytovateľ terminálnych leteckých navigačných služieb môže na určenie terminálnej jednotkovej sadzby na rok r + 1 použiť upravený odhadovaný počet letov a terminálnych jednotiek služieb na rok r + 1.
+
+(4) Predpokladané náklady pre príslušnú terminálnu zónu spoplatňovania na jednotlivé roky určené pred začiatkom referenčného obdobia sa môžu upraviť v roku nasledujúcom po roku, v ktorom bol Európskej komisii predložený revidovaný návrh plánu výkonnosti podľa osobitného predpisu.<sup>16a</sup>)
+
+(5) Úpravu terminálnej jednotkovej sadzby podľa odseku 1 alebo odseku 2, určenie terminálnej jednotkovej sadzby podľa odseku 3 a úpravu predpokladaných nákladov podľa odseku 4 môže poskytovateľ terminálnych leteckých navigačných služieb vykonať na základe súhlasu Dopravného úradu po konzultácii so zástupcami používateľov vzdušného priestoru.
