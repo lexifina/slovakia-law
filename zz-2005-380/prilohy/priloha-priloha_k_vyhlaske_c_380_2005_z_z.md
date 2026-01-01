@@ -1,0 +1,1 @@
+Príloha k vyhláške č. 380/2005 Z. z. Písomné hlásenie o uvádzaní určenej látky kategórie 1* alebo kategórie 2* na trh za obdobie od .......... do .......... [Vzor](../assets/cf147da3d575edac9d231173635db56819b0419c494e203fe7799a7abe165c20.pdf)
