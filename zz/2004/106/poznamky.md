@@ -118,6 +118,10 @@
 
 - Vykonávacie nariadenie Komisie (EÚ) 2022/1637 z 5. júla 2022, ktorým sa stanovujú pravidlá uplatňovania smernice Rady (EÚ) 2020/262, pokiaľ ide o používanie dokumentov v súvislosti s prepravou tovaru podliehajúceho spotrebnej dani v režime pozastavenia dane a s prepravou tovaru podliehajúceho spotrebnej dani po jeho uvedení do daňového voľného obehu, a ktorým sa stanovuje formulár, ktorý sa má používať pre osvedčenie o oslobodení od spotrebnej dane (Ú. v. EÚ L 247, 23. 9. 2022).
 
+- 14ba) Čl. 179 nariadenia č. 952/2013 v platnom znení.
+
+- 14bb) Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
+
 - 14c) Čl. 3 ods. 12 nariadenia Európskeho parlamentu a Rady (EÚ) č. 910/2014 o elektronickej identifikácii a dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zrušení smernice 1999/93/ES (Ú. v. EÚ L 257, 28. 8. 2014).
 
 - 14d) Čl. 3 ods. 27 nariadenia (EÚ) č. 910/2014.
