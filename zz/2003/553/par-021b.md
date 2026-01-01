@@ -1,6 +1,6 @@
 # § 21b Náhrada za sťažené životné podmienky počas výkonu práce vo verejnom záujme v zahraničí
 
-(1) Zamestnancovi, ktorý vykonáva práce vo verejnom záujme v zahraničí v krajine so sťaženými životnými podmienkami a ktorému sa poskytuje plat podľa § 22, patrí mesačne náhrada až do výšky 10,8 % z platovej tarify prvého platového stupňa šiestej platovej triedy základnej stupnice platových taríf zamestnancov pri výkone práce vo verejnom záujme vynásobenej objektivizovaným platovým koeficientom podľa § 23. Náhrada za sťažené životné podmienky počas výkonu práce vo verejnom záujme v zahraničí sa určí pevnou sumou zaokrúhlenou na 50 eurocentov nahor.
+(1) Zamestnancovi, ktorý vykonáva práce vo verejnom záujme v zahraničí v krajine so sťaženými životnými podmienkami a ktorému sa poskytuje plat podľa § 22, patrí mesačne náhrada až do výšky 10,8 % z platovej tarify prvého platového stupňa šiestej platovej triedy základnej stupnice platových taríf zamestnancov pri výkone práce vo verejnom záujme vynásobenej platovým koeficientom podľa osobitného predpisu.<sup>34</sup>) Náhrada za sťažené životné podmienky počas výkonu práce vo verejnom záujme v zahraničí sa určí pevnou sumou zaokrúhlenou na 50 eurocentov nahor.
 
 (2) Sťaženými životnými podmienkami sú
 

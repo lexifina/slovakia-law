@@ -106,6 +106,8 @@
 
 - 30aa) § 30 ods. 1 písm. j) zákona č. 355/2007 Z. z. v znení neskorších predpisov.
 
+- 30ab) § 70 ods. 6 písm. a) a b) zákona č. 138/2019 Z. z. v znení zákona č. 191/2025 Z. z.
+
 - 30f) § 29 ods. 5 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
 
 - 30g) § 3 ods. 1 a 2 nariadenia vlády Slovenskej republiky č. 422/2009 Z. z., ktorým sa ustanovuje rozsah priamej vyučovacej činnosti a priamej výchovnej činnosti pedagogických zamestnancov.
