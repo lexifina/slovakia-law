@@ -126,6 +126,16 @@ Zákon č. 139/1998 Z. z. o omamných látkach, psychotropných látkach a príp
 
 - údaje potrebné na vyžiadanie odpisu registra trestov<sup>1g</sup>) za osobu, ktorá musí byť bezúhonná podľa § 5 ods. 1 písm. c), § 5 ods. 2 a § 7,“.
 
+- 12. V § 8 ods. 3 písmeno d) znie:
+
+- „d)
+
+- údaje potrebné na vyžiadanie špecializovaného výpisu z registra trestov<sup>1g</sup>) za osobu, ktorá musí byť bezúhonná podľa § 5 ods. 1 písm. c), § 5 ods. 2 a § 7,“.
+
+  - Poznámka pod čiarou k odkazu 1g znie:
+
+  - „<sup>1g</sup>) § 12 a § 13, § 16 a § 21 ods. 5 zákona č. 192/2023 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.“.
+
 - 13. V § 8 ods. 3 sa vypúšťa písmeno e).
 
   - Doterajšie písmená f) až j) sa označujú ako písmená e) až i).
