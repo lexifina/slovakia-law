@@ -1,1 +1,0 @@
-- 1) § 4 ods. 2 opatrenia č. 295/2018 Z. z., ktorým sa ustanovujú vzory výpisov z osobného účtu a výkazov v doplnkovom dôchodkovom sporení.
