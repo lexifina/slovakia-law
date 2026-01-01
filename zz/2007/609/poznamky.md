@@ -70,6 +70,10 @@
 
 - 19a) § 68 zákona č. 563/2009 Z. z.
 
+- 19aa) Čl. 179 nariadenia (EÚ) č. 952/2013 v platnom znení.
+
+- 19ab) Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
+
 - 19b) Čl. 201 nariadenia Európskeho parlamentu a Rady (EÚ) č. 952/2013 z 9. októbra 2013, ktorým sa ustanovuje Colný kódex Európskej únie (prepracované znenie) (Ú. v. EÚ L 269, 10. 10. 2013).
 
 - 20) § 2 písm. c) bod 11 zákona č. 251/2012 Z. z.
