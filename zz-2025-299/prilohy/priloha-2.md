@@ -1,0 +1,1 @@
+Príloha č. 2 k opatreniu č. 299/2025 Z. z. [POSTUP NA URČENIE SÚHRNNÉHO UKAZOVATEĽA RIZIKA](../assets/b105a0955590f72fd8fb50af9c84a7665ff6bf1e69b96329fea1dcb580b51520.pdf)

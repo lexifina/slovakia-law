@@ -1,0 +1,1 @@
+Príloha č. 4 k opatreniu č. 299/2025 Z. z. [VZORCE NA VÝPOČET ODPLÁT A NÁKLADOV DÔCHODKOVÉHO FONDU](../assets/fc48b7ca1f520440120a171cc88a521f0d74fb7c2645f1f73aa54dd15d457e65.pdf)

@@ -1,0 +1,1 @@
+Príloha č. 5 k opatreniu č. 299/2025 Z. z. [VZORCE NA VÝPOČET UKAZOVATEĽA ZNÍŽENIA VÝNOSU DÔCHODKOVÉHO FONDU](../assets/c27349ff0c2c2e3170acbf6a56c9f6859da1180c36ed0746491d1eb7292f0de8.pdf)
