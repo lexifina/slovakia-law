@@ -16,6 +16,8 @@
 
 - 3d) § 3 ods. 4 a § 18 ods. 1 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z. v znení zákona č. 14/2006 Z. z.
 
+- 3e) § 2 zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
+
 - 4) § 23 zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
 
 - 5) § 13 ods. 1 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z. v znení neskorších predpisov.
