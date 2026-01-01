@@ -1,0 +1,5 @@
+# § 193df Prechodné ustanovenia účinné od 31. decembra 2021
+
+(1) Trvanie štátnozamestnaneckého pomeru štátneho zamestnanca vykonávajúceho lekársku posudkovú činnosť pri výkone štátnej správy v oblasti sociálnych vecí a rodiny a služieb zamestnanosti,<sup>45a</sup>) ktorý by inak skončil podľa § 82 ods. 5, možno opätovne predĺžiť najviac do 31. decembra 2024 dohodou o zmene štátnozamestnaneckého pomeru formou písomného dodatku k služobnej zmluve. Predĺženie štátnozamestnaneckého pomeru podľa prvej vety sa považuje za zmenu štátnozamestnaneckého pomeru podľa § 55 ods. 1 písm. u).
+
+(2) Štátnozamestnanecké miesto v stálej štátnej službe alebo štátnozamestnanecké miesto v dočasnej štátnej službe, na ktorom sa vykonáva lekárska posudková činnosť podľa odseku 1, možno do 30. júna 2024 obsadiť aj prijatím občana, ktorý dovŕšil vek 65 rokov, do dočasnej štátnej služby, bez výberového konania. Štátnozamestnanecký pomer štátneho zamestnanca podľa prvej vety trvá po dobu dohodnutú v služobnej zmluve, najdlhšie však do 31. decembra 2024. Ustanovenia prvej a druhej vety sa nevzťahujú na štátnozamestnanecké miesto vedúceho zamestnanca.
