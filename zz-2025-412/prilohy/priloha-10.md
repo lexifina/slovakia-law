@@ -1,0 +1,1 @@
+Príloha č. 10 k nariadeniu vlády č. 412/2025 Z. z. [Koeficienty k výkonom odbornej činnosti pre zariadenia poradenstva a prevencie](../assets/b887b5ba0e256d2bba16c09feddc33fe2734987790cd803fd4bd13ccd0e23e42.pdf)

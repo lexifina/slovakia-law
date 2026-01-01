@@ -1,0 +1,1 @@
+Príloha č. 8 k nariadeniu vlády č. 412/2025 Z. z. [Skupiny žiakov so zdravotným znevýhodnením a žiakov so všeobecným intelektovým nadaním v iných ako špeciálnych triedach stredných škôl](../assets/6fa247762e4141d03f3d0b3a9fb1e0ab05dc6e4ef08d00964d39e0d9a74e6ea8.pdf)

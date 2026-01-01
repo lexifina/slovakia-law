@@ -1,0 +1,1 @@
+Príloha č. 3 k nariadeniu vlády č. 412/2025 Z. z. [Kategórie škôl s jednotným normatívom na teplo a koeficienty tepelnej náročnosti](../assets/e54ca8c96e28d7e793506a2af3ef7e88caf522c6f7ec2f4818fe5924a9cabd14.pdf)

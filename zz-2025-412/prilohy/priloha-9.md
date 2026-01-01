@@ -1,0 +1,1 @@
+Príloha č. 9 k nariadeniu vlády č. 412/2025 Z. z. [Hodnoty zvýšených koeficientov pre základné školy v obci s počtom žiakov do 250](../assets/2cf0f2c1bcdee8cdc2070043f207888f39d98e513f03e9d7ecd0b6606880e97f.pdf)

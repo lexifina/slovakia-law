@@ -1,0 +1,1 @@
+Príloha č. 5 k nariadeniu vlády č. 412/2025 Z. z. [Hodnoty zvýšených koeficientov pre materské školy v obci s počtom detí do 25](../assets/d77f87e4eaa3017e0fb642e70edc74da9e95b8972704eba53b9c674028f05d72.pdf)

@@ -1,0 +1,1 @@
+Príloha č. 4 k nariadeniu vlády č. 412/2025 Z. z. [Vzorec na výpočet hodnoty koeficientu kvalifikačnej štruktúry pedagogických zamestnancov](../assets/fe53600f91d7f9276a7a12d993f7f0998d8c2758555531e877d9905b847f3030.pdf)

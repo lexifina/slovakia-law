@@ -1,0 +1,1 @@
+Príloha č. 1 k nariadeniu vlády č. 412/2025 Z. z. [Kategórie materských škôl a špeciálnych materských škôl a koeficienty personálnej, ekonomickej a prevádzkovej náročnosti pre kategórie materských škôl a špeciálnych materských škôl](../assets/b791c9b3dc02bac8fd21186b9cef5f30a450c15beb4bf770b1a4a281caf15fdc.pdf)
