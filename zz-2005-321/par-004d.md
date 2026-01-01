@@ -1,0 +1,3 @@
+# § 4d Prechodné ustanovenia účinné od 1. januára 2009
+
+Zdravotnícky asistent, ktorý získal úplné stredné odborné vzdelanie na strednej zdravotníckej škole v študijnom odbore zdravotnícky asistent podľa predpisov platných do 31. augusta 2008 a ktorý nácvik zdravotných výkonov uvedených v § 4b ods. 3 nemal ako súčasť študijného programu, ich môže vykonávať po preškolení, ktoré zabezpečí zamestnávateľ v spolupráci s príslušnou strednou zdravotníckou školou uskutočňujúcou vzdelávanie v študijnom odbore zdravotnícky asistent.<sup>1a</sup>) Preškolenie musí trvať najmenej 40 hodín primerane rozdelených na teoretickú časť a na praktickú časť. O preškolení sa vyhotoví záznam, ktorý zašle zamestnávateľ komore, v ktorej je zdravotnícky pracovník registrovaný.
