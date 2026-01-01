@@ -34,11 +34,7 @@
 
 - 29) § 139 zákona č. 461/2003 Z. z.
 
-- 30) § 140 ods. 2 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
-
-- 31) § 140 ods. 3 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
-
-- 32) § 140 ods. 1 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+- 30) § 140 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
 - 33) § 12 ods. 4 zákona č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 

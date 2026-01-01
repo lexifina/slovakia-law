@@ -14,4 +14,4 @@
 
 - e) ďalšie informácie týkajúce sa vyplácania dôchodkov a výnosu z investovania.
 
-(3) Vzor ponukového listu, ktorý môže byť zostavený bez použitia odbornej terminológie, ustanoví ministerstvo opatrením.
+(3) Vzor ponukového listu, ktorý môže byť zostavený bez použitia odbornej terminológie, ustanoví Ministerstvo práce, sociálnych vecí a rodiny Slovenskej republiky (ďalej len „ministerstvo“) opatrením.
