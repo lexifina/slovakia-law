@@ -68,6 +68,8 @@
 
 - 15) Zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
 
+- 15a) § 72 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore.
+
 - 16) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
 - 17) § 5 ods. 5 písm. g) zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
