@@ -18,6 +18,12 @@ Zákon č. 579/2004 Z. z. o záchrannej zdravotnej službe a o zmene a doplnení
 
 - zabezpečiť technické podmienky na telekomunikačné prepojenie, rádiokomunikačné prepojenie a elektronickú komunikáciu na prenos informácií operačného riadenia vrátane telemetrických údajov o stave a polohe vozidla ambulancie záchrannej zdravotnej služby s poskytovateľmi záchrannej zdravotnej služby, technickú pripravenosť pre unifikované pripojenie informačných systémov zdravotníckych zariadení ústavnej zdravotnej starostlivosti a telekomunikačné prepojenie a elektronickú komunikáciu s ostatnými zložkami integrovaného záchranného systému,“.
 
+- 4. V § 3 ods. 3 písm. c) sa za slovo „volania“ vkladajú slová „na linke tiesňového volania záchrannej zdravotnej služby Slovenskej republiky „155“ a volania na linke pomoci „116117““ a slová „tiesňové volanie“ sa nahrádzajú slovami „tieto volania“.
+
+- 5. V § 3 ods. 3 písm. d) sa slová „tiesňového volania“ nahrádzajú slovami „volaní podľa písmena c)“ a slová „tiesňové volanie“ sa nahrádzajú slovami „tieto volania“.
+
+- 6. V § 3 ods. 3 písm. i) sa za číslo „„155““ vkladajú slová „a volania na linke pomoci „116117““ a slovo „jeho“ sa nahrádza slovom „ich“.
+
 - 7. V § 3 sa odsek 3 dopĺňa písmenami n) až t), ktoré znejú:
 
 - „n)
@@ -40,6 +46,10 @@ Zákon č. 579/2004 Z. z. o záchrannej zdravotnej službe a o zmene a doplnení
 
 - uzatvoriť písomnú zmluvu s poskytovateľom záchrannej zdravotnej služby na telekomunikačné prepojenie, rádiokomunikačné prepojenie a elektronickú komunikáciu na prenos informácií operačného riadenia vrátane telemetrických údajov o stave a polohe vozidla ambulancie záchrannej zdravotnej služby,
 
+- s)
+
+- zabezpečiť spravovanie centrálneho registra vozidiel ambulancií záchrannej zdravotnej služby v rozsahu podľa § 5 ods. 1 písm. k) a o),
+
 - t)
 
 - uskutočňovať výberové konanie o vydanie povolenia na prevádzkovanie ambulancie záchrannej zdravotnej služby podľa osobitného predpisu.<sup>6e</sup>)“.
@@ -49,6 +59,8 @@ Zákon č. 579/2004 Z. z. o záchrannej zdravotnej službe a o zmene a doplnení
   - „<sup>6e</sup>) § 14 zákona č. 578/2004 Z. z. v znení zákona č. 69/2025 Z. z.“.
 
 - 8. V § 3 ods. 4 písm. d) sa za slovo „poskytovateľovi“ vkladajú slová „ambulancie asistenčnej zdravotnej služby alebo poskytovateľovi“.
+
+- 9. V § 3 ods. 5 sa za slovo „volania“ vkladajú slová „na linke tiesňového volania záchrannej zdravotnej služby Slovenskej republiky „155“ a volania na linke pomoci „116117““ a slová „tiesňové volanie“ sa nahrádzajú slovami „tieto volania“.
 
 - 10. § 3 sa dopĺňa odsekmi 7 a 8, ktoré znejú:
 
@@ -66,6 +78,10 @@ Zákon č. 579/2004 Z. z. o záchrannej zdravotnej službe a o zmene a doplnení
 
 - 11. V § 4 ods. 1 sa na konci pripája táto veta: „Odbornú prípravu podľa prvej vety zabezpečuje operačné stredisko záchrannej zdravotnej služby.“.
 
+- 12. V § 4 ods. 2 písm. b) sa na konci pripájajú tieto slová: „na linke tiesňového volania záchrannej zdravotnej služby Slovenskej republiky „155“ a volanie na linke pomoci „116117“.“.
+
+- 13. V § 4 ods. 2 písm. e) sa na konci pripájajú tieto slová: „a zásady komunikácie na linke tiesňového volania záchrannej zdravotnej služby Slovenskej republiky „155“ a linke pomoci „116117“.“.
+
 - 14. V § 5 ods. 1 písm. a) sa na konci pripájajú tieto slová: „počas času, v ktorom ambulancia záchrannej zdravotnej služby poskytuje zdravotnú starostlivosť (ďalej len „prevádzkový čas“),“.
 
 - 15. V § 5 ods. 1 písm. b) časti vety za bodkočiarkou sa slovo „a“ nahrádza čiarkou a na konci sa pripájajú tieto slová: „a v prípadoch, keď koordinačné stredisko alebo operačné stredisko záchrannej zdravotnej služby určí neskorší čas výjazdu ambulancie záchrannej zdravotnej služby,“.
@@ -75,6 +91,8 @@ Zákon č. 579/2004 Z. z. o záchrannej zdravotnej službe a o zmene a doplnení
 - 17. V § 5 ods. 1 písm. g) sa na konci sa pripájajú tieto slová: „spolu so zdravotníckym pracovníkom iného poskytovateľa záchrannej zdravotnej služby,“.
 
 - 18. V § 5 ods. 1 písm. j) sa slová „a ich originál uchovávať“ nahrádzajú slovami „v elektronickej podobe a uchovávať ich“.
+
+- 19. V § 5 ods. 1 písm. k) sa na konci pripájajú tieto slová: „ktoré je evidované v registri podľa § 3 ods. 3 písm. s),“.
 
 - 20. V § 5 ods. 1 písm. l) sa za slovo „prepojení“ vkladá čiarka a slová „a prenose informácií vrátane satelitného monitorovania“ sa nahrádzajú slovami „rádiokomunikačnom prepojení a elektronickej komunikácii na prenos informácií operačného riadenia vrátane telemetrických údajov o stave a polohe“.
 
@@ -132,6 +150,14 @@ Zákon č. 579/2004 Z. z. o záchrannej zdravotnej službe a o zmene a doplnení
 
 - osobe, ktorej poskytol neodkladnú zdravotnú starostlivosť, alebo jej zákonnému zástupcovi,<sup>13</sup>) ak osoba nebola odovzdaná inému poskytovateľovi zdravotnej starostlivosti.“.
 
+- 26. V § 5 ods. 3 sa slová „odseku 7“ nahrádzajú slovami „odseku 6“ a slová „odseku 5“ sa nahrádzajú slovami „odseku 4“.
+
+- 27. V § 5 sa vypúšťa odsek 4.
+
+  - Doterajšie odseky 5 až 9 sa označujú ako odseky 4 až 8.
+
+- 28. V § 5 ods. 5 sa slová „odseku 5“ nahrádzajú slovami „odseku 4“.
+
 - 29. § 5 sa dopĺňa odsekmi 7 až 9, ktoré znejú:
 
 - „(7)
@@ -145,6 +171,8 @@ Zákon č. 579/2004 Z. z. o záchrannej zdravotnej službe a o zmene a doplnení
 - (9)
 
 - Povinnosť podľa odseku 2 písm. a) sa nevzťahuje na ambulanciu záchrannej zdravotnej služby s vybavením detskej mobilnej intenzívnej jednotky.“.
+
+- 30. V § 5 ods. 6 sa slová „odseku 5“ nahrádzajú slovami „odseku 4“.
 
 - 31. Za § 5b sa vkladá § 5c, ktorý vrátane nadpisu znie:
 
@@ -248,11 +276,17 @@ Zákon č. 579/2004 Z. z. o záchrannej zdravotnej službe a o zmene a doplnení
 
 - 36. V § 8 ods. 1 písm. e) sa na konci pripájajú tieto slová: „a indikátory kvality na hodnotenie činnosti záchrannej zdravotnej služby“.
 
+- 37. V § 8 ods. 1 písm. f) sa slová „ods. 5“ nahrádzajú slovami „ods. 4“.
+
+- 38. V § 8 ods. 1 písm. g) sa slová „ods. 6“ nahrádzajú slovami „ods. 5“.
+
 - 39. V § 8 sa odsek 1 dopĺňa písmenom h), ktoré znie:
 
 - „h)
 
 - vzor záznamu o preprave osoby podľa § 5 ods. 7.“.
+
+- 40. V § 8 ods. 1 písm. h) sa slová „ods. 7“ nahrádzajú slovami „ods. 6“.
 
 - 41. Za § 10c sa vkladá § 10d, ktorý vrátane nadpisu znie:
 
