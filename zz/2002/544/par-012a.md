@@ -1,3 +1,3 @@
 # § 12a Dozor
 
-Dozor nad dodržiavaním povinností ustanovených týmto zákonom vykonávajú okresný úrad a horská služba.
+Dozor nad dodržiavaním povinností ustanovených týmto zákonom vykonávajú okresný úrad a Horská záchranná služba.

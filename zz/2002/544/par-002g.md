@@ -10,4 +10,6 @@
 
   - 2. so snehovou prikrývkou na snežniciach alebo bežeckých lyžiach.
 
-(2) Horskú sprievodcovskú činnosť môže vykonávať fyzická osoba, ktorá má platné osvedčenie o odbornej spôsobilosti na výkon horskej sprievodcovskej činnosti vydané asociáciou sprievodcov; osvedčenie má platnosť tri roky od jeho vydania.
+(2) Horskou sprievodcovskou činnosťou je aj vedenie výcviku sprevádzaných osôb na chodníkoch a trasách podľa odseku 1, najmä lavínových kurzov, kurzov zameraných na bezpečný pohyb v horách a kurzov pohybu na verejne prístupných zaistených trasách.
+
+(3) Horskú sprievodcovskú činnosť môže vykonávať fyzická osoba, ktorá má platné osvedčenie o odbornej spôsobilosti na výkon horskej sprievodcovskej činnosti vydané asociáciou sprievodcov; osvedčenie má platnosť tri roky od jeho vydania.

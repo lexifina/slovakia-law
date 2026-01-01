@@ -16,7 +16,7 @@
 
 (5) Lyžiar nesmie bezdôvodne zastaviť a stáť na zúženej alebo neprehľadnej časti lyžiarskej trate. Lyžiar, ktorý spadol, je povinný také miesto urýchlene opustiť, ak je to možné.
 
-(6) Lyžiar mladší ako 15 rokov je povinný na lyžiarskej trati chrániť si hlavu riadne upevnenou ochrannou prilbou.
+(6) Lyžiar mladší ako 18 rokov je povinný na lyžiarskej trati chrániť si hlavu riadne upevnenou ochrannou prilbou.
 
 (7) Osoba, ktorá organizuje činnosť na lyžiarskej trati, je povinná zabezpečiť, aby osoba mladšia ako 15 rokov mala oblečený reflexný bezpečnostný odev alebo na sebe viditeľne umiestnené reflexné bezpečnostné prvky.
 
