@@ -94,6 +94,12 @@ Zákon č. 376/2022 Z. z. o profesionálnych náhradných rodičoch a o zmene a 
 
   - „<sup>9a</sup>) § 40 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
 
+- 14. § 19 sa dopĺňa odsekom 5, ktorý znie:
+
+- „(5)
+
+- Ak je starostlivosť o dieťa počas prestávky na obnovu kondície dočasne poskytovaná iným profesionálnym náhradným rodičom, poskytovanie tejto starostlivosti o dieťa sa považuje za plnenie ďalších povinností súvisiacich s výkonom práce profesionálneho náhradného rodiča; na zabezpečenie starostlivosti o dieťa iným profesionálnym náhradným rodičom sa vyžaduje jeho súhlas.“.
+
 - 15. V § 20 sa za odsek 3 vkladá nový odsek 4, ktorý znie:
 
 - „(4)
@@ -102,6 +108,46 @@ Zákon č. 376/2022 Z. z. o profesionálnych náhradných rodičoch a o zmene a 
 
   - Doterajší odsek 4 sa označuje ako odsek 5.
 
+- 16. Za § 21 sa vkladá § 21a, ktorý vrátane nadpisu znie:
+
+- „§ 21a
+
+- Prestávka na obnovu kondície
+
+- (1)
+
+- Profesionálnemu náhradnému rodičovi, ktorý poskytuje starostlivosť najmenej jednému dieťaťu s ťažkým zdravotným postihnutím, patrí prestávka na obnovu kondície v rozsahu
+
+- a)
+
+- šesť po sebe nasledujúcich hodín v týždni alebo
+
+- b)
+
+- jeden deň v mesiaci, ak počas prestávky na obnovu kondície je starostlivosť o dieťa s ťažkým zdravotným postihnutím zabezpečená centrom v samostatne usporiadanej skupine centra.<sup>10a</sup>)
+
+- (2)
+
+- Centrum poskytne profesionálnemu náhradnému rodičovi na požiadanie prestávku na obnovu kondície podľa plánu dočasného zabezpečovania starostlivosti o dieťa podľa osobitného predpisu.<sup>10b</sup>)
+
+- (3)
+
+- Prestávka na obnovu kondície patrí profesionálnemu náhradnému rodičovi najskôr od prvého dňa kalendárneho mesiaca nasledujúceho po kalendárnom mesiaci, v ktorom profesionálny náhradný rodič začal poskytovať starostlivosť dieťaťu s ťažkým zdravotným postihnutím.
+
+- (4)
+
+- Dňom prestávky na obnovu kondície podľa odseku 1 písm. b) je 24 po sebe nasledujúcich hodín; vyčerpanie časti dňa sa považuje za vyčerpanie celého dňa. Prestávky na obnovu kondície podľa odseku 1 písm. a) a odseku 1 písm. b) nemožno počas kalendárneho mesiaca kombinovať.
+
+- (5)
+
+- Prestávka na obnovu kondície sa posudzuje ako poskytovanie starostlivosti dieťaťu.“.
+
+  - Poznámky pod čiarou k odkazom 10a a 10b znejú:
+
+  - „<sup>10a</sup>) § 51 ods. 1 písm. b) zákona č. 305/2005 Z. z. v znení neskorších predpisov.
+
+  - <sup>10b</sup>) § 52b zákona č. 305/2005 Z. z. v znení zákona č. 141/2025 Z. z.“.
+
 - 17. V § 22 ods. 1 úvodnej vete sa za slovo „patrí“ vkladajú slová „v rozsahu a za podmienok ustanovených týmto zákonom“.
 
 - 18. V § 22 sa odsek 1 dopĺňa písmenom g), ktoré znie:
@@ -109,6 +155,14 @@ Zákon č. 376/2022 Z. z. o profesionálnych náhradných rodičoch a o zmene a 
 - „g)
 
 - odmena.“.
+
+- 19. V § 22 ods. 1 sa za písmeno f) vkladá nové písmeno g), ktoré znie:
+
+- „g)
+
+- príplatok za zastupovanie,“.
+
+  - Doterajšie písmeno g) sa označuje ako písmeno h).
 
 - 20. V § 22 odsek 2 znie:
 
@@ -142,6 +196,22 @@ Zákon č. 376/2022 Z. z. o profesionálnych náhradných rodičoch a o zmene a 
 
 - Príplatok za prax patrí profesionálnemu náhradnému rodičovi za celý kalendárny mesiac, aj keď dôvod na jeho priznanie alebo zvýšenie nastal v priebehu príslušného kalendárneho mesiaca.“.
 
+- 27. Za § 28 sa vkladá § 28a, ktorý vrátane nadpisu znie:
+
+- „§ 28a
+
+- Príplatok za zastupovanie
+
+- Profesionálnemu náhradnému rodičovi patrí za každú začatú hodinu plnenia ďalších povinností súvisiacich s výkonom práce profesionálneho náhradného rodiča podľa § 19 ods. 5 príplatok za zastupovanie v sume, ktorou je podiel
+
+- a)
+
+- súčtu sumy základnej zložky mzdy podľa § 23 ods. 1 písm. a) alebo ods. 4, paušálneho príplatku podľa § 24 a príplatku za osobitnú starostlivosť podľa § 26 ods. 2 písm. a) a hodnoty 240 za každé dieťa s ťažkým zdravotným postihnutím,
+
+- b)
+
+- súčtu sumy základnej zložky mzdy podľa § 23 ods. 1 písm. a) alebo ods. 4 a paušálneho príplatku podľa § 24 a hodnoty 240 za každé dieťa, ktoré nie je dieťaťom s ťažkým zdravotným postihnutím.“.
+
 - 28. V § 34 sa odsek 3 dopĺňa písmenom c), ktoré znie:
 
 - „c)
@@ -154,7 +224,11 @@ Zákon č. 376/2022 Z. z. o profesionálnych náhradných rodičoch a o zmene a 
 
 - „(5)
 
-- Na štatistické účely a evidenčné účely pracovným dňom profesionálneho náhradného rodiča je osem po sebe nasledujúcich hodín a týždňom je sedem po sebe nasledujúcich dní.“.
+- Na štatistické účely a evidenčné účely pracovným dňom profesionálneho náhradného rodiča je osem po sebe nasledujúcich hodín a týždňom je sedem po sebe nasledujúcich dní.
+
+- (6)
+
+- Centrum sa môže s profesionálnym náhradným rodičom dohodnúť na výkone práce profesionálneho náhradného rodiča aj v čase, v ktorom by profesionálny náhradný rodič mal čerpať materskú dovolenku podľa Zákonníka práce.“.
 
 - 31. V § 43 sa rok „2025“ nahrádza rokom „2026“.
 
@@ -164,4 +238,10 @@ Zákon č. 376/2022 Z. z. o profesionálnych náhradných rodičoch a o zmene a 
 
 - Prechodné ustanovenie k úpravám účinným od 15. júla 2025
 
-- Centrum je povinné písomne oznámiť profesionálnemu náhradnému rodičovi, s ktorým uzatvorilo pracovnú zmluvu pred 15. júlom 2025, sumu základnej zložky mzdy a podmienky poskytnutia príplatkov podľa § 24 až 28 do 30. septembra 2025.“.
+- Centrum je povinné písomne oznámiť profesionálnemu náhradnému rodičovi, s ktorým uzatvorilo pracovnú zmluvu pred 15. júlom 2025, sumu základnej zložky mzdy a podmienky poskytnutia príplatkov podľa § 24 až 28 do 30. septembra 2025.
+
+- § 46
+
+- Prechodné ustanovenie k úpravám účinným od 1. januára 2026
+
+- Centrum je povinné písomne oznámiť profesionálnemu náhradnému rodičovi, s ktorým uzatvorilo pracovnú zmluvu pred 1. januárom 2026, podmienky poskytnutia príplatku podľa § 28a do 28. februára 2026.“.
