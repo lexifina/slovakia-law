@@ -562,6 +562,10 @@ Zákon č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o z
 
 - údaj o spôsobe opustenia zdravotníckeho zariadenia ústavnej zdravotnej starostlivosti matkou dieťaťa po pôrode podľa osobitného predpisu,<sup>15k</sup>)
 
+- b)
+
+- na účel posúdenia splnenia podmienok nároku na poskytovanie rodičovského príspevku, či oprávnená osoba dbá na dodržiavanie preventívnych prehliadok dieťaťa<sup>15l</sup>) podľa osobitného predpisu.<sup>15m</sup>)
+
 - (28)
 
 - Národné centrum poskytuje elektronicky
@@ -585,6 +589,14 @@ Zákon č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o z
 - e)
 
 - príslušnej zdravotnej poisťovni pred zápisom do elektronickej zdravotnej knižky údaje podľa § 5 ods. 1 písm. b) tretieho bodu v rozsahu dátum vystavenia žiadanky, dátum odberu a dátum prijatia vzorky, identifikátor žiadanky a identifikátor vzorky, kód odborného útvaru, ktorý žiadanku vytvoril, kód zdravotníckeho pracovníka, kód choroby, kód požadovaného vyšetrenia, spôsob odberu, spôsob úhrady, informácia o tom, či bol výsledok vyšetrenia zobrazený a dátum zobrazenia výsledku vyšetrenia, informácia, či ide o neodkladnú zdravotnú starostlivosť a údaje podľa prílohy č. 2 časti 1 písm. a) prvého bodu v rozsahu rodné číslo, bezvýznamové identifikačné číslo alebo osobné identifikačné číslo poistenca iného členského štátu s trvalým pobytom v Slovenskej republike, identifikačné údaje zdravotnej poisťovne na účely kontroly a posúdenia efektívnosti zdravotnej starostlivosti, posúdenia účelnosti, efektívnosti a hospodárnosti vynakladania prostriedkov verejného zdravotného poistenia,<sup>1aaa</sup>) plnenia povinnosti zabezpečiť dostupnosť zdravotnej starostlivosti a poskytnutia poradenskej činnosti a výsledok tejto kontroly poskytuje poskytovateľom zdravotnej starostlivosti,
+
+- f)
+
+- Úradu verejného zdravotníctva a regionálnym úradom verejného zdravotníctva údaje osoby z elektronickej zdravotnej knižky v rozsahu zdravotných záznamov podľa § 5 ods. 1 písm. a) a b) štvrtého, ôsmeho, deviateho a štrnásteho bodu o prenosných ochoreniach povinne hlásených podľa osobitného predpisu,<sup>15r</sup>) pohlavne prenosných ochoreniach hlásených podľa prílohy č. 3 šiesteho bodu tohto zákona, nemocničných nákazách hlásených podľa osobitného predpisu<sup>15s</sup>) doplnené o identifikátory zdravotných záznamov na účely vedenia Národného registra prenosných ochorení podľa osobitného predpisu<sup>15t</sup>) a doplnkové údaje osoby z elektronickej zdravotnej knižky v rozsahu podľa § 5 ods. 1 písm. a) a b) pätnásteho bodu o vykonanom očkovaní doplnené o identifikátory zdravotných záznamov na účely vedenia Národného registra očkovania podľa osobitného predpisu,<sup>15u</sup>)
+
+- h)
+
+- príslušnej zdravotnej poisťovni údaje z registra dočasných pracovných neschopností v rozsahu údajov podľa § 6a ods. 1 písm. e) a g) a prílohy č. 2 časť 1 písm. a) prvého bodu v rozsahu údajov meno a priezvisko, dátum narodenia, rodné číslo, ak je pridelené, a bezvýznamové identifikačné číslo na účel kontroly, zefektívnenia zdravotnej starostlivosti a vykonávania verejného zdravotného poistenia.
 
 - (29)
 
@@ -626,6 +638,10 @@ Zákon č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o z
 
 - <sup>15k</sup>) § 3 ods. 4 písm. b) zákona č. 383/2013 Z. z. v znení neskorších predpisov.
 
+- <sup>15l</sup>) § 3 ods. 3 zákona č. 571/2009 Z. z. o rodičovskom príspevku a o zmene a doplnení niektorých zákonov v znení zákona č. 513/2010 Z. z.
+
+- <sup>15m</sup>) § 2 ods. 1 písm. a) a b) zákona č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení neskorších predpisov.
+
 - <sup>15n</sup>) § 2 ods. 1 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - <sup>15o</sup>) § 1 zákona č. 328/2002 Z. z. v znení neskorších predpisov.
@@ -634,11 +650,25 @@ Zákon č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o z
 
 - <sup>15q</sup>) Zákon č. 462/2003 Z. z. v znení neskorších predpisov.
 
+- <sup>15r</sup>) § 52 ods. 5 písm. a) a príloha č. 6 zákona č. 355/2007 Z. z. v znení neskorších predpisov.
+
+- <sup>15s</sup>) § 52 ods. 5 písm. a) zákona č. 355/2007 Z. z. v znení neskorších predpisov.
+
+- <sup>15t</sup>) § 5 ods. 4 písm. aw) zákona č. 355/2007 Z. z. v znení zákona č. 361/2024 Z. z.
+
+- <sup>15u</sup>) § 5 ods. 4 písm. ax) zákona č. 355/2007 Z. z. v znení zákona č. 361/2024 Z. z.
+
 - <sup>15v</sup>) Zákon č. 211/2000 Z. z. slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
 
 - 18. V § 4 ods. 1 sa vypúšťa písmeno k).
 
   - Doterajšie písmená l) až n) sa označujú ako písmená k) až m).
+
+- 19. V § 4 sa odsek 1 dopĺňa písmenom n), ktoré znie:
+
+- „n)
+
+- národný register duševných ochorení.“.
 
 - 20. V § 4 sa vypúšťajú odseky 2 a 3. Súčasne sa zrušuje označenie odseku 1.
 
@@ -1942,6 +1972,10 @@ Zákon č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o z
 
 - Osobné údaje v rozsahu podľa písmena a) sa poskytujú Policajnému zboru,<sup>15ga</sup>) Vojenskej polícii,<sup>15gb</sup>) Zboru väzenskej a justičnej stráže,<sup>15gc</sup>) Finančnej správe,<sup>15gd</sup>) prokuratúre<sup>15ge</sup>) a súdom<sup>15gf</sup>) na účely predchádzania a odhaľovania trestnej činnosti, zisťovania páchateľov trestných činov, vyšetrovaní trestných činov, stíhania trestných činov alebo na účely výkonu rozhodnutí v trestnom konaní vrátane ochrany pred ohrozením verejného poriadku a predchádzania takémuto ohrozeniu.
 
+- 5.
+
+- Osobné údaje v rozsahu podľa písmena a) sa poskytujú úradu verejného zdravotníctva a regionálnym úradom verejného zdravotníctva na účel vykonania kontroly očkovania a vedenia Národného registra očkovania v Slovenskej republike.<sup>88</sup>)
+
 - 6.
 
 - Osobné údaje v rozsahu podľa písmena a) prvého a štvrtého bodu sa poskytujú Ústrediu práce, sociálnych vecí a rodiny za účelom rozhodovania o nároku na príspevok pri narodení dieťaťa a na príspevok na viac súčasne narodených detí podľa osobitného predpisu.<sup>89</sup>).“.
@@ -1949,6 +1983,8 @@ Zákon č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o z
   - Poznámky pod čiarou k odkazom 87 až 89 znejú:
 
   - „<sup>87</sup>) Vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 107/2015 Z. z., ktorou sa ustanovujú štandardy zdravotníckej informatiky a lehoty poskytovania údajov.
+
+  - <sup>88</sup>) § 5 ods. 4 písm. d), § 5 ods. 4 písm. ax), § 6 ods. 3 písm. b) a ods. 4 písm. d) a § 11 písm. l) zákona č. 355/2007 Z. z. v znení neskorších predpisov.
 
   - <sup>89</sup>) § 2 ods. 4 a § 3 ods. 3 písm. a) zákona č. 383/2013 Z. z. v znení zákona č. 310/2021 Z. z.“.
 
@@ -2360,7 +2396,29 @@ Zákon č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o z
 
 - Okruh dotknutých osôb
 
-- Osoby pozvané na skríning a osoby podstupujúce skríningové vyšetrenie za účelom predchádzania vývoja choroby.“.
+- Osoby pozvané na skríning a osoby podstupujúce skríningové vyšetrenie za účelom predchádzania vývoja choroby.
+
+- 14.
+
+- Národný register duševných ochorení
+
+- a)
+
+- Rozsah spracúvaných osobných údajov
+
+- Meno a priezvisko, rodné priezvisko, rodné číslo alebo osobné identifikačné číslo poistenca iného členského štátu s trvalým pobytom v Slovenskej republike, dátum narodenia, vek, číselný kód obce trvalého pobytu, adresa trvalého pobytu, najvyššie získané vzdelanie, osobná a rodinná anamnéza, klinická psychiatrická charakteristika, psychologická charakteristika, vyšetrenia, diagnostika a špecifikácia typu ochorenia vrátane jeho kódu, liečba (čas začatia liečby, podané lieky, realizované výkony), dátum smrti u zomretých, príčina smrti, pracovná schopnosť (ekonomická aktivita, invalidita), číselný kód poskytovateľa zdravotnej starostlivosti, údaje z účtu poistenca.
+
+- b)
+
+- Účel spracúvania osobných údajov
+
+- Na základe poznania výskytu a trendov vývoja duševných ochorení v populácii a získanie informácie pre tvorbu a výkon štátnej zdravotnej politiky, pre skvalitnenie prevencie, zefektívnenie a trvalé zvyšovanie kvality zdravotnej starostlivosti a pre návrh, realizáciu a kontrolu opatrení zameraných na zlepšovanie zdravotného stavu populácie.
+
+- c)
+
+- Okruh dotknutých osôb
+
+- Osoby s diagnostikovanými duševnými poruchami.“.
 
   - Poznámka pod čiarou k odkazu 90 znie:
 
