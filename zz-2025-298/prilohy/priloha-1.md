@@ -1,0 +1,1 @@
+Príloha č. 1 k opatreniu č. 298/2025 Z. z. [KĽÚČOVÉ INFORMÁCIE O DÔCHODKOVOM FONDE](../assets/4f57f92650268c1ac48049e750a59cf6e6919485972c8e0aa924f21486c34fb3.pdf)
