@@ -80,6 +80,10 @@ Zákon č. 440/2015 Z. z. o športe a o zmene a doplnení niektorých zákonov v
 
   - „<sup>6c</sup>) § 12 ods. 4 písm. a) zákona č. 192/2023 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.“.
 
+- 15. V § 7 ods. 4 sa za slovo „trestov“ vkladajú slová „pre prácu s deťmi a mládežou“.
+
+- 16. V poznámke pod čiarou k odkazu 6c sa citácia „§ 12 ods. 4 písm. a)“ nahrádza citáciou „§ 12 ods. 4 písm. a) a § 15 ods. 3“.
+
 - 17. V § 8 ods. 3 sa slová „až r), ods. 4 až 7“ nahrádzajú slovami „až q) a ods. 4 až 6“.
 
 - 18. V § 8 ods. 10 sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „ak bola na túto účasť nominovaná.“.
