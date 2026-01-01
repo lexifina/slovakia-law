@@ -6,15 +6,13 @@
 
 - 1c) § 13 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 2) Čl. 141a ods. 4 písm. g) Ústavy Slovenskej republiky.
+- 2) Čl. 141a ods. 6 písm. k) Ústavy Slovenskej republiky.
 
 - 2a) § 6 ods. 1 zákona č. 548/2003 Z. z. o Justičnej akadémii a o zmene a doplnení niektorých zákonov.
 
 - 2b) § 9 ods. 1 písm. d) zákona č. 432/2021 Z. z. o disciplinárnom poriadku Najvyššieho správneho súdu Slovenskej republiky a o zmene a doplnení niektorých zákonov (disciplinárny súdny poriadok).
 
 - 3) § 45 zákona č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov.
-
-- 4) Napríklad zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov.
 
 - 4a) Čl. 141a ods. 1 Ústavy Slovenskej republiky.
 
