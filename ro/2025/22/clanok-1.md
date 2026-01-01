@@ -10,6 +10,12 @@ Opatrenie Ministerstva financií Slovenskej republiky z 30. novembra 2005 č. MF
 
 - 3. V § 26 ods. 5 a 6 druhej vete sa na konci pripájajú tieto slová: „alebo účtu 691 – Dotácie na prevádzku“.
 
+- 4. V § 35 ods. 6 prvej vete sa za slovo „polícii“ vkladá čiarka a slová „záväzok voči rodičovi z dôvodu poukázania podielu zaplatenej dane pre rodiča<sup>18aa</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 18aa znie:
+
+  - „<sup>18aa</sup>) § 50aa ods. 7 zákona č. 595/2003 Z. z. v znení neskorších predpisov.“.
+
 - 5. V § 37 odsek 7 znie:
 
 - „(7)
@@ -22,7 +28,15 @@ Opatrenie Ministerstva financií Slovenskej republiky z 30. novembra 2005 č. MF
 
   - <sup>23b</sup>) Zákon č. 121/2022 Z. z. o príspevkoch z fondov Európskej únie a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
 
+- 6. § 37 sa dopĺňa odsekom 8, ktorý znie:
+
+- „(8)
+
+- V prospech účtu 346 – Dotácie a ostatné zúčtovanie so štátnym rozpočtom sa účtuje záväzok voči správcovi dane vo výške neprevedenej sumy podielu zaplatenej dane pre rodiča so súvzťažným zápisom na ťarchu účtu 221 – Bankové účty. Na účte 346 – Dotácie a ostatné zúčtovanie so štátnym rozpočtom sa účtuje presun finančných prostriedkov správneho fondu z dôvodu vysporiadania kurzových rozdielov a poplatkov.“.
+
 - 7. V § 41 ods. 6 sa na konci pripája táto veta: „Na ťarchu účtu 384 – Výnosy budúcich období sa účtuje tvorba správneho fondu z prostriedkov mechanizmu na podporu obnovy a odolnosti a z finančných prostriedkov poskytnutých z fondov Európskej únie ako príspevok so súvzťažným zápisom v prospech účtu 914 – Správny fond.“.
+
+- 8. V § 45 ods. 5 sa na konci pripájajú tieto slová: „a za poukazovanie podielu zaplatenej dane pre rodiča“.
 
 - 9. V § 58 sa slová „priznanie dotácie“ nahrádzajú slovami „použitie prostriedkov mechanizmu na podporu obnovy a odolnosti a finančných prostriedkov poskytnutých z fondov Európskej únie ako príspevok“ a slová „346 – Dotácie a ostatné zúčtovanie so štátnym rozpočtom“ sa nahrádzajú slovami „901 – Fond dlhodobého majetku alebo účtu 914 – Správny fond“.
 
@@ -30,4 +44,4 @@ Opatrenie Ministerstva financií Slovenskej republiky z 30. novembra 2005 č. MF
 
 - 11. V § 60 ods. 6 prvej vete sa na konci pripájajú tieto slová: „alebo účtu 691 – Dotácie na prevádzku“.
 
-- [Konsolidovane znenie](assets/1a103a99f74cccd2bbba1d59977f0b209384343f6f5c71555ac2439271c35d88.pdf)
+- [Konsolidovane znenie](assets/b08c8908e546463b0ad261d89fe218e16e5d035cfaa1f79daccc05e3eb33488e.pdf)
