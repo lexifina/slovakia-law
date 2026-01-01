@@ -36,4 +36,6 @@
 
 - e) nemohlo dôjsť k uspokojeniu pohľadávky ani vymáhaním na dedičoch v rámci dedičského konania.
 
-(4) O odpísaných pohľadávkach vedie zdravotná poisťovňa osobitnú evidenciu.
+(4) Zdravotná poisťovňa môže odpísať pohľadávku voči platiteľovi poistného, voči ktorému je dlhodobo vedené konkurzné konanie, ak možno predpokladať, že pohľadávka nebude uspokojená; za dlhodobé vedenie konkurzného konania sa považuje konanie trvajúce viac ako desať rokov od začatia tohto konkurzného konania.
+
+(5) O odpísaných pohľadávkach vedie zdravotná poisťovňa osobitnú evidenciu.

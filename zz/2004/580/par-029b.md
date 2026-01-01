@@ -4,7 +4,7 @@
 
 - a) poistenca, ktorý bol pozbavený spôsobilosti na právne úkony alebo ktorého spôsobilosť na právne úkony bola obmedzená, ak sa toto obmedzenie vzťahuje aj na právne úkony vykonávané vo veciach verejného zdravotného poistenia, vykonáva súdom ustanovený opatrovník poistenca,
 
-- b) fyzickú osobu vo väzbe, fyzickú osobu vo výkone trestu odňatia slobody a fyzickú osobu vo výkone detencie vykonáva ústav v rozsahu práv a povinností podľa § 6 ods. 1 a § 23 ods. 1 písm. b) a c),
+- b) fyzickú osobu vo väzbe, fyzickú osobu vo výkone trestu odňatia slobody, zaistenú fyzickú osobu a fyzickú osobu vo výkone detencie vykonáva ústav v rozsahu práv a povinností podľa § 6 ods. 1 a § 23 ods. 1 písm. b) a c),
 
 - c) maloletého poistenca vykonáva
 
@@ -12,7 +12,9 @@
 
   - 2. poskytovateľ zdravotnej starostlivosti,<sup>11</sup>) ak ide o poistenca, ktorého matka písomne požiadala o utajenie svojej osoby v súvislosti s pôrodom, alebo
 
-  - 3. zariadenie, v ktorom je umiestnený na základe rozhodnutia súdu.<sup>5</sup>)
+  - 3. zariadenie, v ktorom je umiestnený na základe rozhodnutia súdu,<sup>5</sup>)
+
+  - 4. maloletý poistenec, ak ide o poistenca podľa § 3 ods. 3 písm. c).
 
 (2) Plnenie oznamovacích povinností podľa § 23 ods. 1 za fyzickú osobu vo väzbe, fyzickú osobu v detencii alebo fyzickú osobu vo výkone trestu odňatia slobody a ďalšie podrobnosti o povinnostiach, ktoré vyplývajú z § 20 a § 22 až 24, ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo zdravotníctva po dohode s Ministerstvom spravodlivosti Slovenskej republiky.
 
@@ -60,7 +62,7 @@
 
 (17) Ministerstvo vnútra sprístupňuje úradu a zdravotnej poisťovni elektronicky údaje z registra fyzických osôb<sup>51d</sup>) na účely vykonávania verejného zdravotného poistenia.<sup>9</sup>)
 
-(18) Ministerstvo vnútra poskytuje súčinnosť úradu pri overovaní údajov uvedených v odseku 17. Preukazovanie skutočností podľa § 23 ods.1 písm. a) upraví dohoda, ktorú uzatvorí úrad s ministerstvom vnútra.
+(18) Ministerstvo vnútra poskytuje súčinnosť úradu a zdravotnej poisťovni pri overovaní údajov uvedených v odseku 17. Preukazovanie skutočností podľa § 23 ods.1 písm. a) upraví dohoda, ktorú uzatvorí úrad s ministerstvom vnútra.
 
 (19) Sociálna poisťovňa poskytuje zdravotnej poisťovni na účely vykonávania verejného zdravotného poistenia súčinnosť pri vykonávaní kontrolnej činnosti v rozsahu nevyhnutnom na dosiahnutie tohto účelu. Sociálna poisťovňa poskytuje zo svojho informačného systému zdravotnej poisťovni prostredníctvom informačného systému verejnej správy podľa osobitného predpisu<sup>55c</sup>) elektronicky na účely vykonávania verejného zdravotného poistenia údaje o
 
@@ -76,14 +78,18 @@
 
 - f) osobách, na ktoré sa podľa osobitných predpisov<sup>3a</sup>) vzťahujú právne predpisy Slovenskej republiky v rozsahu meno, priezvisko, dátum narodenia, rodné číslo, alebo ak ide o cudzinca, identifikačné číslo sociálneho zabezpečenia pridelené Sociálnou poisťovňou, adresa trvalého pobytu alebo adresa na doručovanie a dátum začiatku a ukončenia uplatňovania právnych predpisov Slovenskej republiky, štát uplatniteľnej legislatívy, štát, ktorý vydal prenosný dokument, číslo prenosného dokumentu, charakter pozície.
 
-(20) Povinnosť platiť poistné na verejné zdravotné poistenie sa nevzťahuje na dividendy vyplácané zo zisku dosiahnutého v účtovnom období, ktoré sa začalo 1. januára 2017 alebo neskôr.
+(20) Národné centrum zdravotníckych informácií poskytuje najmenej raz za sedem dní príslušnej zdravotnej poisťovni elektronicky na účely vykonávania verejného zdravotného poistenia údaje o fyzickej osobe v rozsahu meno a priezvisko, dátum narodenia, rodné číslo, ak je pridelené, bezvýznamové identifikačné číslo, dátum začiatku dočasnej pracovnej neschopnosti<sup>60a</sup>) a dátum ukončenia dočasnej pracovnej neschopnosti.
 
-(21) Subjekty uvedené v odsekoch 8, 9, 12 až 14 a 19 poskytujú úradu údaje o fyzickej osobe, u ktorej došlo k zmene platiteľa poistného z dôvodu uvedeného v § 11 ods. 7 písm. c), m) alebo s), najmenej raz za 14 dní.
+(21) Povinnosť platiť poistné na verejné zdravotné poistenie sa nevzťahuje na dividendy vyplácané zo zisku dosiahnutého v účtovnom období, ktoré sa začalo 1. januára 2017 alebo neskôr.
 
-(22) Ústredie práce, sociálnych vecí a rodiny je povinné úradu na účely vykonávania zdravotného poistenia oznámiť v rozsahu a spôsobom určeným úradom údaje súvisiace s poskytovaním podpory v čase skrátenej práce,<sup>50b</sup>) ktorými sú
+(22) Subjekty uvedené v odsekoch 8, 9, 12 až 14 a 19 poskytujú úradu údaje o fyzickej osobe, u ktorej došlo k zmene platiteľa poistného z dôvodu uvedeného v § 11 ods. 7 písm. c), m) alebo s), najmenej raz za 14 dní.
+
+(23) Ústredie práce, sociálnych vecí a rodiny je povinné úradu na účely vykonávania zdravotného poistenia oznámiť v rozsahu a spôsobom určeným úradom údaje súvisiace s poskytovaním podpory v čase skrátenej práce,<sup>50b</sup>) ktorými sú
 
 - a) identifikačné údaje zamestnávateľa,
 
 - b) meno, priezvisko a rodné číslo zamestnanca,
 
 - c) obdobie v kalendárnom mesiaci, za ktoré sa zamestnávateľovi poskytla podpora v čase skrátenej práce, a to v členení na jednotlivých zamestnancov.
+
+(24) Zdravotná poisťovňa pri fyzickej osobe, ktorej bola za predchádzajúce obdobia udelená výnimka uplatniteľná podľa osobitného predpisu,<sup>75</sup>) uplatňuje podmienky vzniku a zániku verejného zdravotného poistenia podľa § 3 ods. 2 písm. a) a b) v znení účinnom od 1. januára 2017.

@@ -74,4 +74,4 @@
 
 (13) Zmena údajov o poistencoch v centrálnom registri poistencov, ktorá bola vykonaná po vykonaní ročného prerozdeľovania, nezakladá dôvod na zmenu v už vykonanom ročnom prerozdeľovaní.
 
-(14) Ak z dôvodu zmeny právoplatného rozhodnutia podľa odseku 9, ktorá nebola vykonaná na základe § 19 ods. 24 až 26, dochádza k zmene už určenej výšky príspevkov zdravotnej poisťovne podľa osobitného predpisu,<sup>52aa</sup>) táto zmena sa zohľadní pri najbližšej úhrade týchto príspevkov.
+(14) Ak z dôvodu zmeny právoplatného rozhodnutia podľa odseku 9, ktorá nebola vykonaná na základe § 19 ods. 26 až 28, dochádza k zmene už určenej výšky príspevkov zdravotnej poisťovne podľa osobitného predpisu,<sup>52aa</sup>) táto zmena sa zohľadní pri najbližšej úhrade týchto príspevkov.

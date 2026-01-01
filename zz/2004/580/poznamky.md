@@ -240,7 +240,7 @@
 
 - § 42 zákona č. 328/2002 Z. z.
 
-- 49) § 2 ods. 3 zákona č. 447/2008 Z. z.
+- 49) § 16 zákona č. 447/2008 Z. z. v znení neskorších predpisov.
 
 - 49a) § 81b ods. 2 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení zákona č. 444/2015 Z. z.
 
@@ -348,6 +348,8 @@
 
 - 57aa) § 8 zákona č. 363/2011 Z. z. o rozsahu a podmienkach úhrady liekov, zdravotníckych pomôcok a dietetických potravín na základe verejného zdravotného poistenia a o zmene a doplnení niektorých zákonov.
 
+- 57aaa) § 85d zákona č. 581/2004 Z. z. v znení zákona č. 282/2006 Z. z.
+
 - 57ab) § 7 ods. 4 zákona č. 578/2004 Z. z.
 
 - 57ac) § 29 ods. 2 zákona č. 363/2011 Z. z.
@@ -361,6 +363,8 @@
 - 59) § 9 ods. 2 zákona č. 365/2004 Z. z.
 
 - 60) Napríklad § 57 ods. 1 písm. d) a § 114 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, § 268 ods. 1 písm. d) a § 321 Občianskeho súdneho poriadku.
+
+- 60a) § 3a ods. 28 zákona č. 153/2013 Z. z. v znení neskorších predpisov.
 
 - 61) Čl. 25 Rozhodnutia Európskeho parlamentu 2005/684/ES, Euratom z 28. septembra 2005, ktorým sa prijíma štatút poslancov Európskeho parlamentu (Ú. v. EÚ L 262, 7. 10. 2005).
 

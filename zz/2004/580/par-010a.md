@@ -8,7 +8,7 @@
 
 (2) Preukaz poistenca obsahuje
 
-- a) titul, ak ho poistenec má,
+- a) titul, ak ho poistenec má, a má ho zapísaný v registri fyzických osôb,<sup>51d</sup>)
 
 - b) meno a priezvisko poistenca,
 
