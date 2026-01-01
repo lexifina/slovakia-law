@@ -10,17 +10,15 @@
 
 - b) príspevok na činnosť úradu (§ 30),
 
-- c) preplatok z ročného zúčtovania poistného,<sup>18b</sup>)
+- c) dane a poplatky odvádzané do štátneho rozpočtu,
 
-- d) dane a poplatky odvádzané do štátneho rozpočtu,
+- d) suma, o ktorú bol limit spoluúčasti prekročený [§ 6 ods. 1 písm. s)],
 
-- e) suma, o ktorú bol limit spoluúčasti prekročený [§ 6 ods. 1 písm. s)],
+- e) príspevok na činnosť Národného centra zdravotníckych informácií (ďalej len „národné centrum“) (§ 8b),
 
-- f) príspevok na činnosť Národného centra zdravotníckych informácií (ďalej len „národné centrum“) (§ 8b),
+- f) refundácia úhrady pri poskytovaní zdravotnej starostlivosti v rámci ústavnej pohotovostnej služby podľa osobitného predpisu,<sup>18c</sup>)
 
-- g) refundácia úhrady pri poskytovaní zdravotnej starostlivosti v rámci ústavnej pohotovostnej služby podľa osobitného predpisu,<sup>18c</sup>)
-
-- h) príspevok na činnosť Národného inštitútu pre hodnotu a technológie v zdravotníctve<sup>18d</sup>) (ďalej len „inštitút“) (§ 15a).
+- g) príspevok na činnosť Národného inštitútu pre hodnotu a technológie v zdravotníctve<sup>18d</sup>) (ďalej len „inštitút“) (§ 15a).
 
 (4) Predpísané poistné v hrubej výške je úhrn predpísaného poistného zaúčtovaného v účtovnom období, v ktorom sa kladný výsledok hospodárenia vytvoril, podľa auditovanej účtovnej závierky. Vplyv prerozdeľovania poistného je súčet všetkých výnosov súvisiacich s mesačným prerozdeľovaním preddavkov na poistné a ročným prerozdeľovaním poistného znížený o súčet všetkých nákladov súvisiacich s mesačným prerozdeľovaním preddavkov na poistné a ročným prerozdeľovaním poistného, ktoré zdravotná poisťovňa zaúčtovala v kalendárnom roku na základe rozhodnutia úradu alebo ako rezervu, ak nemala v čase účtovnej závierky rozhodnutie úradu k dispozícii.
 

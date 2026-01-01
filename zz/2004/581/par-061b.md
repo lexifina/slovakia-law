@@ -46,6 +46,6 @@
 
 (13) Hraničný podiel podľa odseku 12 písm. b) je podiel 100 % a počtu zdravotných poisťovní okrem odovzdávajúcej zdravotnej poisťovne.
 
-(14) Podiel poistencov preberajúcej zdravotnej poisťovne podľa odseku 12 písm. b) je pomer počtu prepočítaných poistencov<sup>80a</sup>) preberajúcej zdravotnej poisťovne k celkovému počtu prepočítaných poistencov verejného zdravotného poistenia v rozhodujúcom období.
+(14) Podiel poistencov preberajúcej zdravotnej poisťovne podľa odseku 12 písm. b) je pomer počtu prepočítaných poistencov<sup>80a</sup>) preberajúcej zdravotnej poisťovne k celkovému počtu prepočítaných poistencov v rozhodujúcom období.
 
 (15) Úrad v rozhodnutí o odplate za prevod poistného kmeňa uvedie výšku a splatnosť odplaty za prevod poistného kmeňa. Úrad môže v rozhodnutí o odplate za prevod poistného kmeňa určiť zaplatenie odplaty v splátkach podľa splátkového kalendára po posúdení platobnej schopnosti preberajúcich zdravotných poisťovní tak, aby splácanie ceny poistného kmeňa alebo jeho častí neohrozovalo plnenie ich povinností podľa tohto zákona; úrad v povolení splátkového kalendára určí aj primeraný úrok splatný spolu s príslušnou splátkou.

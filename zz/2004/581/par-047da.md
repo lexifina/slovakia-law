@@ -1,6 +1,6 @@
-# § 47da Prehliadka mŕtveho tela mimo zdravotníckeho zariadenia ústavnej zdravotnej starostlivosti
+# § 47da Prehliadka mŕtveho tela mimo nemocnice
 
-(1) Prehliadky mŕtvych tiel mimo zdravotníckeho zariadenia ústavnej zdravotnej starostlivosti sa vykonávajú na základe rozpisu úradu, ak nie je v odseku 10 uvedené inak. Úrad vyhotoví rozpis úradu tak, aby úplne zabezpečil nepretržité vykonávanie prehliadok mŕtvych tiel na území okresu; úrad úplne zabezpečí vykonávanie prehliadok mŕtvych tiel, ak bude na každý deň rozpisu úradu zabezpečený dostatočný počet prehliadajúcich lekárov, aby bolo pokryté celé územie okresu, pre ktorý sa rozpis úradu vyhotovuje.
+(1) Prehliadky mŕtvych tiel mimo nemocnice sa vykonávajú na základe rozpisu úradu, ak nie je v odseku 10 uvedené inak. Úrad vyhotoví rozpis úradu tak, aby úplne zabezpečil nepretržité vykonávanie prehliadok mŕtvych tiel na území okresu; úrad úplne zabezpečí vykonávanie prehliadok mŕtvych tiel, ak bude na každý deň rozpisu úradu zabezpečený dostatočný počet prehliadajúcich lekárov, aby bolo pokryté celé územie okresu, pre ktorý sa rozpis úradu vyhotovuje.
 
 (2) Úrad zaradí do rozpisu úradu najprv na základe dobrovoľnosti prehliadajúcich lekárov, ktorí majú vydané oprávnenie na vykonávanie prehliadok mŕtvych tiel podľa § 47f ods. 1; úrad do rozpisu úradu nezaradí zdravotníckeho pracovníka v povolaní lekár, ktorý má vydané oprávnenie na vykonávanie prehliadok mŕtvych tiel podľa § 47f ods. 1 a ktorý vykonáva štátnu službu profesionálneho vojaka vo vojenskom zdravotníctve.
 
@@ -40,4 +40,4 @@
 
 - b) najneskôr v deň, keď má vykonávať prehliadky mŕtvych tiel podľa rozpisu zverejneného podľa odseku 5, oznámiť úradu a operačnému stredisku tiesňového volania záchrannej zdravotnej služby meno a priezvisko, telefonický kontakt na zastupujúceho lekára spoločne s dátumom a časom, v ktorom bude zastupujúci lekár vykonávať prehliadky mŕtvych tiel.
 
-(10) Prehliadku mŕtveho tela mimo zdravotníckeho zariadenia ústavnej zdravotnej starostlivosti môže vykonať aj lekár poskytovateľa, ktorý má vydané povolenie na prevádzkovanie ambulancie rýchlej lekárskej pomoci, a to v prípade, ak vykonaním prehliadky mŕtveho tela neohrozí poskytovanie neodkladnej zdravotnej starostlivosti inej osobe. Ak smrť osoby nastala až po začatí poskytovania zdravotnej starostlivosti tejto osobe lekárom podľa prvej vety, tento lekár je po vykonaní prehliadky mŕtveho tela povinný nariadiť pitvu podľa § 48.
+(10) Prehliadku mŕtveho tela mimo nemocnice môže vykonať aj lekár poskytovateľa, ktorý má vydané povolenie na prevádzkovanie ambulancie rýchlej lekárskej pomoci, a to v prípade, ak vykonaním prehliadky mŕtveho tela neohrozí poskytovanie neodkladnej zdravotnej starostlivosti inej osobe. Ak smrť osoby nastala až po začatí poskytovania zdravotnej starostlivosti tejto osobe lekárom podľa prvej vety, tento lekár je po vykonaní prehliadky mŕtveho tela povinný nariadiť pitvu podľa § 48.

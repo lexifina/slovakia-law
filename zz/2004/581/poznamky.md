@@ -20,7 +20,9 @@
 
 - 11a) § 10a zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
 
-- 11aa) § 4a zákona č. 224/2006 Z. z. o občianskych preukazoch a o zmene a doplnení niektorých zákonov v znení zákona č. 49/2012 Z. z.
+- 11aa) § 4 zákona č. 395/2019 Z. z. o občianskych preukazoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 11aaa) § 8a zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
 - 11ab) § 73 a 73a zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -101,8 +103,6 @@
 - 18aa) § 98i zákona č. 363/2011 Z. z. v znení zákona č. 266/2022 Z. z.
 
 - 18ab) § 2 ods. 9 zákona č. 153/2013 Z. z. v znení neskorších predpisov.
-
-- 18b) § 19 ods. 8 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
 - 18c) § 38a ods. 6 písm. a) zákona č. 577/2004 Z. z. v znení zákona č. 257/2017 Z. z.
 
@@ -206,7 +206,7 @@
 
 - 24e) Príloha č. 1 zákona č. 576/2004 Z. z. v znení zákona č. 351/2017 Z. z.
 
-- 24f) § 4 ods. 6 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+- 24f) § 4 ods. 6, § 10a a 49ta zákona č. 576/2004 Z. z. v znení neskorších predpisov.
 
 - 24g) § 10a ods. 5 zákona č. 576/2004 Z. z. v znení zákona č. 351/2017 Z. z.
 
@@ -242,7 +242,7 @@
 
 - 27d) § 5 ods. 6 písm. f) a g) zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
 
-- 27da) § 2 ods. 9 zákona č. 153/2013 Z. z. v znení zákona č. 361/2024 Z. z.
+- 27da) § 5 ods. 15 zákona č. 153/2013 Z. z. v znení zákona č. 344/2025 Z. z.
 
 - 27e) § 7 zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
 
@@ -329,6 +329,8 @@
 - 35aakf) § 3a ods. 28 písm. e) zákona č. 153/2013 Z. z. v znení zákona č. 361/2024 Z. z.
 
 - 35aal) § 3 ods. 1 písm. c) zákona č. 523/2004 Z. z. v znení neskorších predpisov.
+
+- 35aam) § 2, § 2a a 2b zákona č. 577/2004 Z. z. v znení neskorších predpisov.
 
 - 35aan) § 10 ods. 1 písm. k) zákona č. 358/2021 Z. z.
 
@@ -430,7 +432,7 @@
 
 - 41be) § 14 ods. 1 písm. a) zákona č. 153/2013 Z. z.
 
-- 41bea) § 3 ods. 1 písm. a) piaty bod zákona č. 153/2013 Z. z. v znení zákona č. 361/2024 Z. z.
+- 41bea) § 14 ods. 1 písm. f) zákona č. 153/2013 Z. z. v znení zákona č. 361/2024 Z. z.
 
 - 41bf) § 153 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
@@ -558,7 +560,7 @@
 
 - 63c) § 27 ods. 1 písm. a) zákona č. 578/2004 Z. z. v znení zákona č. 192/2009 Z. z.
 
-- 63d) § 7 ods. 2 písm. b) zákona č. 578/2004 Z. z. v znení zákona č. 653/2007 Z. z.
+- 63d) § 7 ods. 4 písm. a) zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
 - 63e) § 2 ods. 4 zákona č. 576/2004 Z. z. znení zákona č. 77/2015 Z. z.
 
@@ -572,7 +574,7 @@
 
 - 63k) § 77 zákona č. 281/2015 Z. z. o štátnej službe profesionálnych vojakov a o zmene a doplnení niektorých zákonov.
 
-- 65) § 115 Trestného poriadku.
+- 65) § 142 Trestného poriadku.
 
 - 66) § 43 ods. 2 zákona č. 576/2004 Z. z.
 
@@ -680,6 +682,8 @@
 
 - 95bc) Zákon č. 260/2025 Z. z. o adresnej energopomoci a o zmene a doplnení niektorých zákonov.
 
+- 95bd) Napríklad čl. 127 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 202, 7. 6. 2016), Protokol o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 310, 16. 12. 2004), nariadenie Rady (ES) č. 2533/98 z 23. novembra 1998 o zbere štatistických informácií Európskou centrálnou bankou (Mimoriadne vydanie Ú. v. EÚ, kap. 01/zv. 03; Ú. v. ES, L 318, 27. 11. 1998) v platnom znení, zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov, zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 95c) § 2 zákona č. 453/2003 Z. z.
 
 - 95ca) Nariadenie Európskeho parlamentu a Rady (ES) č. 883/2004 z 29. apríla 2004 o koordinácii systémov sociálneho zabezpečenia (Mimoriadne vydanie Ú. v. EÚ, kap. 5/ zv. 5; Ú. v. EÚ L 166, 30. 4. 2004) v platnom znení.
@@ -693,6 +697,8 @@
 - 95fa) Napríklad zákon č. 153/2013 Z. z. v znení neskorších predpisov.
 
 - 95fb) § 39 a 40 zákona č. 540/2021 Z. z.
+
+- 95fc) § 20 až 76 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
 
 - 95g) § 2 ods. 1 a § 3 ods. 2 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
 

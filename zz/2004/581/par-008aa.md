@@ -26,7 +26,7 @@
 
 - k) kód poskytnutej zdravotnej starostlivosti, za ktorú má zdravotná poisťovňa právo uplatniť svoj nárok na úhradu nákladov podľa osobitného predpisu,<sup>27aaf</sup>)
 
-- l) kód zdravotného výkonu a cenu zdravotného výkonu pri typoch zdravotnej starostlivosti určených úradom,
+- l) kód zdravotného výkonu a cenu zdravotného výkonu,
 
 - m) dátum začiatku alebo dátum ukončenia kapitácie poistenca, ak ide o úhradu formou kapitácie,
 
