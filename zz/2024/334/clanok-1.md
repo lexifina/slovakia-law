@@ -8,6 +8,8 @@ Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení
 
 - 3. V § 2 ods. 3 sa za slová „nie je“ vkladajú slová „riešenie alebo“ a slová „prejednávanie a rozhodovanie“ sa nahrádzajú slovami „prejednávanie, rozhodovanie alebo riešenie“.
 
+- 4. V poznámke pod čiarou k odkazu 11 sa na konci bodka nahrádza čiarkou a pripája sa táto citácia: „kapitola V nariadenia (EÚ) 2022/2554.“.
+
 - 5. V § 3 ods. 2 sa slová „odpisu registra trestov“ nahrádzajú slovami „špecializovaného výpisu z registra trestov“.
 
 - 6. V § 8 ods. 2 písmeno f) znie:

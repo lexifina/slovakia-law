@@ -8,6 +8,16 @@ Zákon č. 39/2015 Z. z. o poisťovníctve a o zmene a doplnení niektorých zá
 
   - „<sup>22a</sup>) Nariadenie Európskeho parlamentu a Rady (EÚ) 2022/2554 zo 14. decembra 2022 o digitálnej prevádzkovej odolnosti finančného sektora a o zmene nariadení (ES) č. 1060/2009, (EÚ) č. 648/2012, (EÚ) č. 600/2014, (EÚ) č. 909/2014 a (EÚ) 2016/1011 (Ú. v. EÚ L 333, 27. 12. 2022).“.
 
+- 2. V § 72 sa odsek 4 dopĺňa písmenom d), ktoré znie:
+
+- „d)
+
+- osobami, ktoré uzavreli dojednanie podľa osobitného predpisu.<sup>41b</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 41b znie:
+
+  - „<sup>41b</sup>) Čl. 45 nariadenia (EÚ) 2022/2554.“.
+
 - 3. V poznámke pod čiarou k odkazu 67 sa na konci bodka nahrádza čiarkou a pripája sa táto citácia: „nariadenie (EÚ) 2022/2554.“.
 
 - 4. Príloha č. 2 sa dopĺňa deviatym bodom, ktorý znie:
