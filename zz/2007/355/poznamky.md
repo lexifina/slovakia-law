@@ -90,7 +90,11 @@
 
 - 13d) § 8 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
-- 14) Zákon č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení zákona č. 431/2004 Z. z.
+- 13e) Čl. 11 nariadenia Európskeho parlamentu a Rady (EÚ) 2023/1542 z 12. júna 2023 o batériách a odpadových batériách, ktorým sa mení smernica 2008/98/ES a nariadenie (EÚ) 2019/1020 a zrušuje smernica 2006/66/ES (Ú. v. EÚ L 191, 28. 7. 2023) v platnom znení.
+
+- 13f) § 26 až 29 zákona č. 56/2018 Z. z. o posudzovaní zhody výrobku, sprístupňovaní určeného výrobu na trhu a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 14) Zákon č. 157/2018 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 14a) Čl. 2 ods. 1 písm. q) nariadenia (ES) č.1223/2009 v platnom znení.
 
@@ -179,6 +183,42 @@
 - 24r) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
 
 - 24s) § 43c zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
+
+- 24sa) Vykonávacie rozhodnutie Komisie (EÚ) 2024/365 z 23. januára 2024, ktorým sa stanovujú pravidlá uplatňovania smernice Európskeho parlamentu a Rady (EÚ) 2020/2184, pokiaľ ide o metodiky testovania a schvaľovania východiskových látok, zmesí a zložiek, ktoré sa majú zaradiť do európskych zoznamov povolených látok (Ú. v. EÚ L, 2024/365, 23. 4. 2024).
+
+- Vykonávacie rozhodnutie Komisie (EÚ) 2024/367 z 23. januára 2024, ktorým sa stanovujú pravidlá uplatňovania smernice Európskeho parlamentu a Rady (EÚ) 2020/2184 prostredníctvom vypracovania európskych zoznamov povolených východiskových látok, zmesí alebo zložiek povolených na použitie pri výrobe materiálov alebo výrobkov, ktoré prichádzajú do kontaktu s vodou určenou na ľudskú spotrebu (Ú. v. EÚ L, 2024/367, 23. 4. 2024).
+
+- Vykonávacie rozhodnutie Komisie (EÚ) 2024/368 z 23. januára 2024, ktorým sa stanovujú pravidlá uplatňovania smernice Európskeho parlamentu a Rady (EÚ) 2020/2184, pokiaľ ide o postupy a metódy testovania a schvaľovania konečných materiálov používaných vo výrobkoch prichádzajúcich do kontaktu s vodou určenou na ľudskú spotrebu (Ú. v. EÚ L, 2024/368, 23. 4. 2024) v platnom znení.
+
+- Delegované nariadenie Komisie (EÚ) 2024/369 z 23. januára 2024, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady (EÚ) 2020/2184 stanovením postupu týkajúceho sa zaradenia východiskových látok, zmesí alebo zložiek do európskych zoznamov povolených východiskových látok, zmesí alebo zložiek alebo ich vypustenia z daných zoznamov (Ú. v. EÚ L, 2024/369, 23. 4. 2024).
+
+- 24sb) Čl. 2 ods. 3 vykonávacieho rozhodnutia (EÚ) 2024/368 v platnom znení.
+
+- 24sc) Vykonávacie rozhodnutie (EÚ) 2024/367.
+
+- Vykonávacie rozhodnutie (EÚ) 2024/368 v platnom znení.
+
+- Delegované nariadenie Komisie (EÚ) 2024/370 z 23. januára 2024, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady (EÚ) 2020/2184 stanovením postupov posudzovania zhody pre výrobky, ktoré prichádzajú do kontaktu s vodou určenou na ľudskú spotrebu, a pravidiel určovania orgánov posudzovania zhody zapojených do týchto postupov (Ú. v. EÚ L, 2024/370, 23. 4. 2024).
+
+- Delegované nariadenie Komisie (EÚ) 2024/371 z 23. januára 2024, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady (EÚ) 2020/2184 stanovením harmonizovaných špecifikácií označovania výrobkov prichádzajúcich do kontaktu s vodou určenou na ľudskú spotrebu (Ú. v. EÚ L, 2024/371, 23. 4. 2024).
+
+- 24sd) § 4 ods. 1 zákona č. 56/2018 Z. z. o posudzovaní zhody výrobku, sprístupňovaní určeného výrobku na trhu a o zmene a doplnení niektorých zákonov v znení zákona č. 318/2025 Z. z.
+
+- 24se) § 10 až 19 zákona č. 56/2018 Z. z. v znení zákona č. 259/2021 Z. z.
+
+- 24sf) § 20 zákona č. 56/2018 Z. z.
+
+- 24sg) § 29 zákona č. 56/2018 Z. z. v znení neskorších predpisov.
+
+- 24sh) Delegované nariadenie (EÚ) 2024/370.
+
+- 24si) Čl. 3 a 4 delegovaného nariadenia (EÚ) 2024/370.
+
+- 24sj) Čl. 1 ods. 8 delegovaného nariadenia (EÚ) 2024/370.
+
+- 24sk) Čl. 1 ods. 9 delegovaného nariadenia (EÚ) 2024/370.
+
+- 24sl) Čl. 1 ods. 10 delegovaného nariadenia (EÚ) 2024/370.
 
 - 24t) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 528/2012 z 22. mája 2012 o sprístupňovaní biocídnych výrobkov na trhu a ich používaní (Ú. v. EÚ L 167, 27. 6. 2012) v platnom znení.
 
