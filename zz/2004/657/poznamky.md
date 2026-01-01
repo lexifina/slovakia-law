@@ -112,7 +112,7 @@
 
 - 21a) § 3 až 8 a § 10 až 16 zákona č. 136/2010 Z. z.
 
-- 22) § 65 zákona č. 656/2004 Z. z.
+- 22) § 89 zákona č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 23) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
