@@ -1,1 +1,1 @@
-Príloha č. 7a k zákonu č. 222/2004 Z. z. [Príloha č. 7a k zákonu č. 222/2004 Z. z.](../assets/0ea9968f779a328e1b2e050bf6303884f5f31d9f544ca4e4278e4de6f192664e.pdf)
+Príloha č. 7a k zákonu č. 222/2004 Z. z. [Príloha č. 7a k zákonu č. 222/2004 Z. z.](../assets/2c666fcf8b716ae279c6dff74f58157656610bde1dee571ad1112a71824680db.pdf)

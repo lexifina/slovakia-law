@@ -65,3 +65,5 @@ Príloha č. 6 k zákonu č. 222/2004 Z. z.
   - 31. Smernica Rady (EÚ) 2022/542 z 5. apríla 2022, ktorou sa menia smernice 2006/112/ES a (EÚ) 2020/285, pokiaľ ide o sadzby dane z pridanej hodnoty (Ú. v. EÚ L 107, 6. 4. 2022).
 
   - 32. Smernica Rady (EÚ) 2022/890 z 3. júna 2022, ktorou sa mení smernica 2006/112/ES, pokiaľ ide o predĺženie obdobia uplatňovania voliteľného mechanizmu prenesenia daňovej povinnosti v súvislosti s dodaním určitého tovaru a poskytovaním určitých služieb, ktoré sú náchylné na podvody, a mechanizmu rýchlej reakcie proti podvodom v oblasti DPH (Ú. v. EÚ L 155, 8. 6. 2022).
+
+  - 33. Smernica Rady (EÚ) 2025/516 z 11. marca 2025, ktorou sa mení smernica 2006/112/ES, pokiaľ ide o pravidlá DPH pre digitálny vek (Ú. v. EÚ L, 2025/516, 25. 3. 2025).

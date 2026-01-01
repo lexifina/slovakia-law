@@ -16,6 +16,8 @@
 
 - 4e) § 66a Obchodného zákonníka.
 
+- 4f) § 4 ods. 3 písm. x) zákona č. 35/2019 Z. z. o finančnej správe a o zmene a doplnení niektorých zákonov.
+
 - 5) § 2 ods. 9 zákona č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov.
 
 - 5a) Čl. 219 ods. 1 až 3 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 326, 26. 10. 2012).
@@ -140,8 +142,6 @@
 
 - 24aa) § 54 a 55 zákona č. 199/2004 Z. z. v znení neskorších predpisov.
 
-- 24b) § 19 ods. 2 písm. l) tretí bod zákona č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 60/2009 Z. z.
-
 - 25) Čl. 1 ods. 32 delegovaného nariadenia Komisie (EÚ) 2015/2446 z 28. júla 2015, ktorým sa dopĺňa nariadenie Európskeho parlamentu a Rady (EÚ) č. 952/2013, pokiaľ ide o podrobné pravidlá, ktorými sa bližšie určujú niektoré ustanovenia Colného kódexu Únie (Ú. v. EÚ L 343, 29. 12. 2015) v platnom znení.
 
 - 25a) § 18 ods. 2 a 3 zákona č. 98/2004 Z. z. v znení neskorších predpisov.
@@ -254,13 +254,17 @@
 
 - 29) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení zákona č. 679/2004 Z. z.
 
-- 29a) Zákon č. 289/2008 Z. z. o používaní elektronickej registračnej pokladnice a o zmene a doplnení zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov v znení neskorších predpisov.
+- 29a) Zákon č. 384/2025 Z. z. o evidencii tržieb a o zmene a doplnení niektorých zákonov.
 
 - 29aa) § 5 zákona č. 563/2009 Z. z.
 
 - 29aaa) § 67 ods. 7 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
 
-- 29ab) § 2 písm. n) zákona č. 289/2008 Z. z.
+- 29aab) § 7 ods. 1 zákona č. 384/2025 Z. z. o evidencii tržieb a o zmene a doplnení niektorých zákonov.
+
+- 29aad) § 12 zákona č. 192/2023 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
+
+- 29ab) § 2 písm. z) zákona č. 384/2025 Z. z.
 
 - 29b) Zákon č. 461/2003 Z. z. v znení neskorších predpisov.
 
@@ -278,6 +282,8 @@
 
 - 33) Zákon č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
+- 33a) Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
+
 - 34) Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 187/1996 Z. z. o pristúpení Slovenskej republiky k Dohovoru o spoločnom tranzitnom režime v znení oznámenia č. 193/2003 Z. z.
 
 - 35) § 29 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
@@ -291,3 +297,5 @@
 - 39) § 19 ods. 4 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení zákona č. 306/2012 Z. z.
 
 - 40) Čl. 6 vykonávacieho nariadenia Rady (EÚ) č. 282/2011 z 15. marca 2011, ktorým sa ustanovujú vykonávacie opatrenia smernice 2006/112/ES o spoločnom systéme dane z pridanej hodnoty (prepracované znenie) (Ú. v. EÚ L 77, 23. 3. 2011) v platnom znení.
+
+- 41) § 5 ods. 7 zákona č. 93/2005 Z. z. o autoškolách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.

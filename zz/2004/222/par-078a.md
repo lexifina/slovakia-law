@@ -48,9 +48,9 @@
 
 (8) O dodaní tovarov a služieb podľa odseku 2 písm. d) sa v kontrolnom výkaze uvádzajú tieto údaje:
 
-- a) celková suma obratov podľa osobitného predpisu<sup>29ab</sup>) evidovaných elektronickou registračnou pokladnicou<sup>29a</sup>) v členení na základ dane a sumu dane podľa sadzieb dane,
+- a) celková suma obratov podľa osobitného predpisu<sup>29ab</sup>) evidovaných pokladnicou eKasa<sup>29a</sup>) v členení na základ dane a sumu dane podľa sadzieb dane,
 
-- b) celková suma základov dane vrátane opráv základu dane a celková suma dane podľa sadzieb dane pri plneniach, ktoré sa neevidujú elektronickou registračnou pokladnicou.<sup>29a</sup>)
+- b) celková suma základov dane vrátane opráv základu dane a celková suma dane podľa sadzieb dane pri plneniach, ktoré sa neevidujú pokladnicou eKasa.<sup>29a</sup>)
 
 (9) Pri oprave základu dane podľa § 25a,
 

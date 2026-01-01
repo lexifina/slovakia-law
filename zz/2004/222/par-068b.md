@@ -28,7 +28,7 @@
 
 (4) Zdaniteľná osoba uvedená v odseku 2 sa nesmie identifikovať na uplatňovanie tejto osobitnej úpravy v inom členskom štáte.
 
-(5) Pri uplatňovaní osobitnej úpravy používa zdaniteľná osoba uvedená v odseku 2 identifikačné číslo pre daň, ktoré jej bolo pridelené v tuzemsku ako platiteľovi podľa § 4, § 4b alebo § 5, alebo ktoré jej bolo pridelené podľa § 7, § 7a alebo podľa odseku 2.
+(5) Pri uplatňovaní osobitnej úpravy používa zdaniteľná osoba uvedená v odseku 2 identifikačné číslo pre daň, ktoré jej bolo pridelené v tuzemsku ako platiteľovi podľa § 4, § 4b, § 4c alebo § 5, alebo ktoré jej bolo pridelené podľa § 7, § 7a alebo podľa odseku 2.
 
 (6) Zdaniteľná osoba uvedená v odseku 2 je povinná uplatňovať osobitnú úpravu na všetky tovary a služby podľa § 68 ods. 1 písm. b).
 

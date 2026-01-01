@@ -58,6 +58,8 @@
 
   - 4. po doručení oznámenia podľa písmena b) malý podnik tuzemskej osoby neuplatňuje osobitnú úpravu na území žiadneho iného členského štátu,
 
+  - 5. sa malý podnik tuzemskej osoby stal členom skupiny podľa § 4b alebo § 4c,
+
 - b) oznámi malému podniku tuzemskej osoby skutočnosť, že mu príslušný orgán iného členského štátu, v ktorom malý podnik tuzemskej osoby uplatňoval osobitnú úpravu, oznámil, že malý podnik tuzemskej osoby nie je oprávnený na uplatňovanie oslobodenia od dane na jeho území, alebo že sa oslobodenie od dane na území tohto iného členského štátu prestalo uplatňovať; na podanie opravného prostriedku malým podnikom tuzemskej osoby sa vzťahuje odsek 6.
 
 (16) Na účely uplatňovania tejto osobitnej úpravy sa písomnosti doručujú elektronickými prostriedkami spôsobom podľa osobitného predpisu.<sup>28ag</sup>)

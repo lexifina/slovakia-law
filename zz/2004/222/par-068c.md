@@ -28,7 +28,7 @@
 
 - c) zdaniteľná osoba neusadená na území Európskej únie iná ako zdaniteľná osoba podľa písmena b), len ak je zastúpená sprostredkovateľom, ktorý má sídlo v tuzemsku alebo má v tuzemsku prevádzkareň, ak nemá sídlo na území Európskej únie,
 
-- d) zdaniteľná osoba usadená na území Európskej únie, okrem zdaniteľnej osoby, ktorá nespĺňa podmienky podľa písmena a), alebo nie je identifikovaná pre daň podľa ustanovenia zákona platného v inom členskom štáte zodpovedajúceho § 4 alebo § 4b alebo ktorá je v inom členskom štáte identifikovaná pre osobitnú úpravu pre malé podniky, alebo zdaniteľná osoba podľa písmena b), ak sa rozhodne byť zastúpená sprostredkovateľom, ktorý má sídlo v tuzemsku alebo má v tuzemsku prevádzkareň, ak nemá sídlo na území Európskej únie.
+- d) zdaniteľná osoba usadená na území Európskej únie, okrem zdaniteľnej osoby, ktorá nespĺňa podmienky podľa písmena a), alebo nie je identifikovaná pre daň podľa ustanovenia zákona platného v inom členskom štáte zodpovedajúceho § 4, § 4b alebo § 4c alebo ktorá je v inom členskom štáte identifikovaná pre osobitnú úpravu pre malé podniky, alebo zdaniteľná osoba podľa písmena b), ak sa rozhodne byť zastúpená sprostredkovateľom, ktorý má sídlo v tuzemsku alebo má v tuzemsku prevádzkareň, ak nemá sídlo na území Európskej únie.
 
 (3) Osobitná úprava uplatňovania dane podľa odsekov 4 až 25 sa vzťahuje len na tovar, ktorý nie je predmetom spotrebnej dane, dovážaný z územia tretích štátov v zásielke, ktorej vlastná hodnota nepresahuje 150 eur.
 

@@ -12,6 +12,12 @@
 
   - 3. účinné povolenie, ktorým sa udeľuje status schváleného hospodárskeho subjektu podľa colných predpisov,
 
+- b) platiteľ, na účet ktorého sa podáva colné vyhlásenie v rámci centralizovaného colného konania podľa colných predpisov, má v čase vzniku daňovej povinnosti
+
+  - 1. pridelené identifikačné číslo pre daň podľa § 4, § 4b alebo § 5 a
+
+  - 2. účinné povolenie, ktorým sa udeľuje status schváleného hospodárskeho subjektu podľa colných predpisov.
+
 (3) Platiteľ podľa odseku 2, na účet ktorého bolo podané colné vyhlásenie na tovar, pri ktorom vznikla daňová povinnosť podľa § 21 ods. 1 písm. a) alebo písm. b), je povinný daň pri dovoze tovaru vypočítať a uviesť do daňového priznania za zdaňovacie obdobie, v ktorom vznikla daňová povinnosť; tento platiteľ je osobou povinnou zaplatiť túto daň. V daňovom priznaní podľa prvej vety platiteľ uvedie aj dovoz tovaru, ktorý je oslobodený od dane.
 
 (4) Ak platiteľ uplatnil postup podľa odseku 3 a podmienky podľa odseku 2 písm. a) prvého bodu neboli splnené, daňový úrad uloží platiteľovi pokutu do výšky 1,3 % zo sumy dane pri dovoze tovaru, ktorú by bol colný úrad vyrubil, ak by sa neuplatnil postup podľa odseku 3.
