@@ -126,6 +126,10 @@ Zákon č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráv
 
 - 32. V § 6 ods. 19 a § 8 ods. 3 a 4 prvej vete a tretej vete sa slová „trvalé bydlisko“ nahrádzajú slovami „trvalý pobyt“.
 
+- 33. V § 6 sa vypúšťa odsek 23.
+
+  - Doterajšie odseky 24 až 28 sa označujú ako odseky 23 až 27.
+
 - 34. V § 6 sa vypúšťa odsek 28.
 
   - Doterajší odsek 29 sa označuje ako odsek 28.
@@ -545,6 +549,8 @@ Zákon č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráv
 - 91. V § 24 ods. 4 sa slová „b) až e)“ nahrádzajú slovami „a) až d)“.
 
 - 92. V § 24 ods. 12 tretej vete sa slová „vymenovania, odvolania alebo potvrdenia riaditeľa vo funkcii“ nahrádzajú slovami „vymenovania alebo odvolania riaditeľa“.
+
+- 93. V § 35a sa vypúšťa odsek 6.
 
 - 94. Za § 35a sa vkladá § 35b, ktorý znie:
 
