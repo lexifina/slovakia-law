@@ -720,6 +720,10 @@
 
 - 47aj) § 14 ods. 6 zákona č. 56/2018 Z. z. v znení zákona č. 259/2021 Z. z.
 
+- 47aja) § 21 ods. 3 zákona č. 56/2018 Z. z.
+
+- 47ajb) § 3 ods. 1 písm. n) zákona č. 56/2018 Z. z. v znení zákona č. 318/2025 Z. z.
+
 - 47ak) § 17 ods. 1 zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení zákona č. 160/2024 Z. z.
 
 - 47b) § 15 zákona č. 507/2001 Z. z. o poštových službách.

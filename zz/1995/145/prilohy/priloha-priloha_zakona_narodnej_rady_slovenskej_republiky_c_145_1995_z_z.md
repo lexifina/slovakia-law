@@ -1186,49 +1186,33 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - r)
 
-  - Registrácia chovov hospodárskych zvierat a chovov farmových zvierat pre
-
-  - 1.
-
-  - fyzickú osobu ....................................................................................................... 33 eur
-
-  - 2.
-
-  - fyzickú osobu – podnikateľa a právnickú osobu .................................................. 100 eur
+  - Vydanie rozhodnutia o schválení prevádzkarne na získavanie násadových vajec, jednodňovej hydiny, chovnej hydiny a úžitkovej hydiny ........................................... 100 eur
 
   - s)
 
-  - Zmena registrácie chovu hospodárskych zvierat alebo chovu farmových zvierat ........ 10 eur
+  - Vydanie rozhodnutia o zmene rozhodnutia o schválení prevádzkarne na získavanie násadových vajec, jednodňovej hydiny, chovnej hydiny a úžitkovej hydiny ................ 50 eur
 
   - t)
 
-  - Vydanie rozhodnutia o schválení prevádzkarne na získavanie násadových vajec, jednodňovej hydiny, chovnej hydiny a úžitkovej hydiny ........................................... 100 eur
+  - Registrácia prevádzok a chovov zvierat podľa osobitného predpisu<sup>17f</sup>) ........................ 50 eur
 
   - u)
 
-  - Vydanie rozhodnutia o zmene rozhodnutia o schválení prevádzkarne na získavanie násadových vajec, jednodňovej hydiny, chovnej hydiny a úžitkovej hydiny ................ 50 eur
+  - Vydanie rozhodnutia o povolení prepravcu zvierat ...................................................150 eur
 
   - v)
 
-  - Registrácia prevádzok a chovov zvierat podľa osobitného predpisu<sup>17f</sup>) ........................ 50 eur
+  - Vydanie rozhodnutia o zmene rozhodnutia o povolení prepravcu zvierat ................... 20 eur
 
   - w)
 
-  - Vydanie rozhodnutia o povolení prepravcu zvierat ...................................................150 eur
+  - Vydanie osvedčenia o spôsobilosti vodičov a sprievodcov .......................................... 15 eur
 
   - x)
 
-  - Vydanie rozhodnutia o zmene rozhodnutia o povolení prepravcu zvierat ................... 20 eur
-
-  - y)
-
-  - Vydanie osvedčenia o spôsobilosti vodičov a sprievodcov .......................................... 15 eur
-
-  - z)
-
   - Vydanie osvedčenia o schválení cestného dopravného prostriedku ............................ 30 eur
 
-  - aa)
+  - y)
 
   - Potvrdenie o štatúte chovu hovädzieho dobytka, oviec alebo kôz na žiadosť chovateľa ................................................................................................................................. 10 eur
 
@@ -2886,9 +2870,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 89a
 
-    - a) Vydanie povolenia na prevádzkovanie linky mestskej dráhovej dopravy..................... 110 eur
+    - a) Vydanie povolenia na prevádzkovanie linky mestskej dráhovej dopravy alebo vydanie spoločného povolenia pre linky mestskej autobusovej dopravy a mestskej dráhovej dopravy..................... 110 eur
 
-    - b) Vykonanie zmeny v povolení na prevádzkovanie linky mestskej dráhovej dopravy podľa písmena a) ...................................................... 50 % príslušnej sadzby podľa písmena a)
+    - b) Vykonanie zmeny v povolení na prevádzkovanie linky mestskej dráhovej dopravy alebo vykonanie zmeny v spoločnom povolení pre linky mestskej autobusovej dopravy a mestskej dráhovej dopravy podľa písmena a) ....................... 50 % príslušnej sadzby podľa písmena a)
+
+    - Splnomocnenie
+
+    - Správny orgán môže upustiť od vybratia poplatku v prípade vydania povolenia alebo vykonania zmeny v povolení, ktoré je súčasťou záväzku dopravcu, ktorý pre neho vyplýva zo zmluvy o službách vo verejnom záujme uzatvorenej s objednávateľom dopravných služieb.
 
     - Položka 90
 
@@ -5466,6 +5454,8 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - ac) Vydanie rozhodnutia o udelení súhlasu na skladovanie výkopovej zeminy pre pôvodcu odpadov | 15 eur
 
+  - ad) Vydanie rozhodnutia o udelení súhlasu na zmenu prevádzkovateľa skládky odpadov | 15 eur
+
     - Položka 163
 
   - a) Vydanie rozhodnutia o určení prieskumného územia<sup>39</sup>) ........................................................ | 50 eur
@@ -6164,6 +6154,10 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - d) vydanie osvedčenia o práve prednosti, za každé osvedčenie........................................... | 20 eur
 
+    - Oslobodenie
+
+    - Od poplatku podľa písmena d) tejto položky sú oslobodené žiadosti o vydanie osvedčenia o práve prednosti podané prihlasovateľom medzinárodnej prihlášky podľa Zmluvy o patentovej spolupráci podanej Úradu priemyselného vlastníctva Slovenskej republiky.
+
     - PATENTY Položka 216 | | |
 
     - a) Podanie patentovej prihlášky | | |
@@ -6233,18 +6227,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
     - c) Podanie návrhu na zrušenie európskeho patentu | 250 eur
 
     - d) Podanie návrhu na zrušenie alebo vyhlásenie neplatnosti dodatkového ochranného osvedčenia | 250 eur
-
-    - Položka 220
-
-  - a) | Za úkony úradu spojené s podaním medzinárodnej prihlášky podľa Zmluvy o patentovej spolupráci ..... | 90 eur
-
-  - b) | Za úkony úradu spojené s oneskoreným predložením prekladu ..... | 170 eur
-
-  - c) | Za úkony úradu spojené s oneskorenou platbou poplatku za medzinárodné podanie a medzinárodnú rešerš ..... | 50 % poplatku za medzinárodné podanie
-
-  - d) | Za odoslanie archívnej a rešeršnej kópie do Medzinárodného úradu, ak úrad nie je príslušným prijímacím úradom ..... | 40 eur
-
-  - e) | Za obnovenie práva na prioritu ..... | 210 eur
 
     - ÚŽITKOVÉ VZORY
 
@@ -6450,18 +6432,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - f) zápis záložného práva k medzinárodnej ochrannej známke | 30 eur
 
-    - OZNAČENIE PÔVODU VÝROBKOV A ZEMEPISNÉ OZNAČENIE VÝROBKOV Položka 233 Podanie prihlášky označenia pôvodu výrobku alebo zemepisného označenia výrobku | 50 eur
-
-    - Položka 234 Návrh na zrušenie označenia pôvodu výrobku alebo zemepisného označenia výrobku | 100 eur
-
-    - Položka 235 a) Podanie žiadosti o medzinárodný zápis označenia pôvodu výrobku alebo zemepisného označenia výrobku | 30 eur
-
-    - b) Zápis zmeny v medzinárodnom registri označení pôvodu | 20 eur
-
-    - c) Podanie žiadosti o zápis označenia pôvodu výrobku alebo zemepisného označenia výrobku do registra Európskej komisie | 50 eur
-
-    - d) Podanie námietok proti žiadosti o zápis označenia pôvodu výrobku alebo zemepisného označenia výrobku do registra Európskej komisie | 100 eur
-
   - XVII. ČASŤ METROLÓGIA A POSUDZOVANIE ZHODY
 
     - Položka 236
@@ -6482,7 +6452,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
       - e) Rozhodnutie o autorizácii, ktorým sa zmení autorizácia podľa osobitného predpisu<sup>47ai</sup>) .................................................................................................................... 500 eur,
 
-      - f) Potvrdenie o autorizácii podľa osobitného predpisu<sup>47aj</sup>) .......................................................................................................................................................................... 7 eur.
+      - f) Potvrdenie o autorizácii podľa osobitného predpisu<sup>47aj</sup>) .......................................................................................................................................................................... 7 eur,
+
+      - g) prvostupňové overenie výstupného dokumentu posudzovania zhody podľa osobitného predpisu<sup>47aja</sup>) na účely ďalšieho overenia podľa osobitného predpisu<sup>47ajb</sup>) …............…. 10 eur.
 
       - Poznámka
 
