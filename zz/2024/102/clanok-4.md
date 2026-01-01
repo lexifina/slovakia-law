@@ -37,3 +37,31 @@ Zákon č. 609/2007 Z. z. o spotrebnej dani z elektriny, uhlia a zemného plynu 
 - c)
 
 - ktorá je dlžníkom podľa colných predpisov pri prepustení uhlia do voľného obehu.“.
+
+- 5. V § 24 odsek 4 znie:
+
+- „(4)
+
+- Platiteľ dane z uhlia je povinný vypočítať daň sám; ak daňová povinnosť vznikne podľa § 21 ods. 2 písm. a) a d), daň vypočíta colný úrad. Pri vzniku daňovej povinnosti podľa § 21 ods. 2 písm. a) a d) sa na splatnosť dane použijú lehoty na splatnosť colného dlhu podľa colných predpisov, ak § 27a neustanovuje inak. Daň sa zaokrúhľuje na eurocenty do 0,005 eura nadol a od 0,005 eura vrátane nahor.“.
+
+- 6. Za § 27 sa vkladá § 27a, ktorý vrátane nadpisu znie:
+
+- „§ 27a
+
+- Osobitné ustanovenie pri dovoze uhlia na daňové územie
+
+- v rámci centralizovaného colného konania
+
+- (1)
+
+- Ak pri dovoze uhlia vznikla daňová povinnosť v rámci centralizovaného colného konania,<sup>19aa</sup>) na ktoré nenadväzuje oslobodenie od dane, colný úrad bezodkladne po prepustení uhlia do voľného obehu oznámi osobe podľa § 22 ods. 3 písm. c) výšku dane, ktorú má zaplatiť. Na oznámenie výšky dane sa primerane použijú ustanovenia colných predpisov o oznámení colného dlhu. Daň podľa prvej vety je splatná do desiatich dní odo dňa oznámenia výšky dane colným úradom.
+
+- (2)
+
+- Ak je osoba podľa § 22 ods. 3 písm. c) zahraničnou osobou, ktorá nemá aktivovanú elektronickú schránku podľa osobitného predpisu,<sup>19ab</sup>) je povinná zvoliť si pred prvým dovozom uhlia zástupcu na doručovanie, ktorý má aktivovanú elektronickú schránku podľa osobitného predpisu.“.
+
+  - Poznámky pod čiarou k odkazom 19aa a 19ab znejú:
+
+  - „<sup>19aa</sup>) Čl. 179 nariadenia (EÚ) č. 952/2013 v platnom znení.
+
+  - <sup>19ab</sup>) Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.“.

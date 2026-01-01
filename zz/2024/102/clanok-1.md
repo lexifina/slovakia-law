@@ -902,6 +902,18 @@ Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení zákona č. 350/200
 
 - účinné povolenie, ktorým sa udeľuje status schváleného hospodárskeho subjektu podľa colných predpisov,
 
+- b)
+
+- platiteľ, na účet ktorého sa podáva colné vyhlásenie v rámci centralizovaného colného konania podľa colných predpisov, má v čase vzniku daňovej povinnosti
+
+- 1.
+
+- pridelené identifikačné číslo pre daň podľa § 4, § 4b alebo § 5 a
+
+- 2.
+
+- účinné povolenie, ktorým sa udeľuje status schváleného hospodárskeho subjektu podľa colných predpisov.
+
 - (3)
 
 - Platiteľ podľa odseku 2, na účet ktorého bolo podané colné vyhlásenie na tovar, pri ktorom vznikla daňová povinnosť podľa § 21 ods. 1 písm. a) alebo písm. b), je povinný daň pri dovoze tovaru vypočítať a uviesť do daňového priznania za zdaňovacie obdobie, v ktorom vznikla daňová povinnosť; tento platiteľ je osobou povinnou zaplatiť túto daň. V daňovom priznaní podľa prvej vety platiteľ uvedie aj dovoz tovaru, ktorý je oslobodený od dane.
@@ -912,7 +924,25 @@ Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení zákona č. 350/200
 
 - (5)
 
-- Správu dane podľa odseku 2 vykonáva daňový úrad a na správu dane sa použijú ustanovenia osobitného predpisu,<sup>33</sup>) ak tento zákon neustanovuje inak.“.
+- Správu dane podľa odseku 2 vykonáva daňový úrad a na správu dane sa použijú ustanovenia osobitného predpisu,<sup>33</sup>) ak tento zákon neustanovuje inak.
+
+- § 84b
+
+- Osobitný spôsob úhrady dane pri dovoze tovaru v rámci
+
+- centralizovaného colného konania
+
+- (1)
+
+- Ak daňová povinnosť vznikla podľa § 21 ods. 1 písm. a) alebo písm. b) a colné vyhlásenie bolo v rámci centralizovaného colného konania podané na účet osoby, ktorá nespĺňa podmienky podľa § 84a ods. 2 písm. b), colný úrad bezodkladne po prepustení tovaru do navrhovaného colného režimu vypočíta sumu dane a oznámi ju osobe povinnej platiť daň (§ 69 ods. 8). Na oznámenie sumy vypočítanej dane sa primerane použijú ustanovenia colných predpisov o oznámení colného dlhu. Daň podľa prvej vety je splatná do desiatich dní odo dňa oznámenia sumy dane.
+
+- (2)
+
+- Ak je osoba povinná platiť daň (§ 69 ods. 8) zahraničnou osobou a nemá aktivovanú elektronickú schránku podľa osobitného predpisu,<sup>33a</sup>) je povinná zvoliť si pred prvým podaním colného vyhlásenia podľa odseku 1 zástupcu na doručovanie, ktorý má aktivovanú elektronickú schránku podľa osobitného predpisu.“.
+
+  - Poznámka pod čiarou k odkazu 33a znie:
+
+  - „<sup>33a</sup>) Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.“.
 
 - 59. Za § 85km sa vkladá § 85kn, ktorý vrátane nadpisu znie:
 
