@@ -28,4 +28,8 @@ Príloha k zákonu č. 431/2002 Z. z. v znení neskorších predpisov
 
   - 13. Delegovaná smernica Komisie (EÚ) 2023/2775 zo 17. októbra 2023, ktorou sa mení smernica Európskeho parlamentu a Rady 2013/34/EÚ, pokiaľ ide o úpravy veľkostných kritérií pre mikropodniky, malé, stredné a veľké podniky alebo skupiny (Ú. v. EÚ L, 2023/2775, 21. 12. 2023).
 
+  - 14. Smernica Európskeho parlamentu a Rady (EÚ) 2023/2864 z 13. decembra 2023, ktorou sa menia určité smernice, pokiaľ ide o zriadenie a fungovanie jednotného európskeho miesta prístupu (Ú. v. EÚ L, 2023/2864, 20. 12. 2023).
+
   - 15. Smernica Európskeho parlamentu a Rady (EÚ) 2025/794 zo 14. apríla 2025, ktorou sa menia smernice (EÚ) 2022/2464 a (EÚ) 2024/1760, pokiaľ ide o dátumy, od ktorých majú členské štáty uplatňovať určité požiadavky na vykazovanie informácií o udržateľnosti podnikov a náležitú starostlivosť podnikov v oblasti udržateľnosti (Ú. v. EÚ L, 2025/794, 16. 4. 2025).
+
+  - 16. Smernica Komisie (EÚ) 2025/1442 z 18. júla 2025, ktorou sa mení smernica 2006/111/ES, pokiaľ ide o vykazovacie povinnosti (Ú. v. EÚ L, 2025/1442, 21. 7. 2025).

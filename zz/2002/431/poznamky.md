@@ -146,6 +146,10 @@
 
 - 28ca) § 51 ods. 1 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
 
+- 28cb) § 6b ods. 6 zákona č. 116/1985 Zb. o podmienkach činnosti organizácií s medzinárodným prvkom v Československej socialistickej republike v znení zákona č. 109/2025 Z. z.
+
+- § 17b ods. 7 zákona č. 83/1990 Zb. o združovaní občanov v znení zákona č. 109/2025 Z. z.
+
 - 28d) Príloha č. 1 sekcia B divízia 05 až 08 nariadenia Európskeho parlamentu a Rady (ES) č. 1893/2006 z 20. decembra 2006, ktorým sa zavádza štatistická klasifikácia ekonomických činností NACE Revision 2 a ktorým sa mení a dopĺňa nariadenie Rady (EHS) č. 3037/90 a niektoré nariadenia ES o osobitných oblastiach štatistiky (Ú. v. EÚ L 393, 30. 12. 2006) v platnom znení.
 
 - 28e) Príloha č. 1 sekcia A divízia 02 skupina 02.2 nariadenia (ES) č. 1893/2006 v platnom znení.
@@ -173,8 +177,6 @@
 - 28f) Medzinárodný účtovný štandard 1 body 102 a 103 Prílohy k nariadeniu (ES) č. 1126/2008 v platnom znení.
 
 - 28g) § 37 ods. 6 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
-
-- 29a) Sekcia C prílohy vyhlášky Štatistického úradu Slovenskej republiky č. 306/2007 Z. z., ktorou sa vydáva Štatistická klasifikácia ekonomických činností.
 
 - 29b) Napríklad zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 258/1993 Z. z. v znení neskorších predpisov.
 
@@ -247,6 +249,28 @@
 - 29p) Napríklad čl. 3 nariadenia Európskeho parlamentu a Rady (EÚ) 2017/821 zo 17. mája 2017, ktorým sa ustanovujú povinnosti náležitej starostlivosti v dodávateľskom reťazci dovozcov Únie dovážajúcich cín, tantal a volfrám, ich rudy a zlato s pôvodom v oblastiach zasiahnutých konfliktom a vo vysokorizikových oblastiach (Ú. v. EÚ L 130, 19. 5. 2017) v platnom znení.
 
 - 29q) Napríklad čl. 2 bod 20 nariadenia Európskeho parlamentu a Rady (ES) č. 1221/2009 z 25. novembra 2009 o dobrovoľnej účasti organizácií v schéme Spoločenstva pre environmentálne manažérstvo a audit (EMAS), ktorým sa zrušuje nariadenie (ES) č. 761/2001 a rozhodnutia Komisie 2001/681/ES a 2006/193/ES (Ú. v. EÚ L 342, 22. 12. 2009) v platnom znení, čl. 6 nariadenia (EÚ) 2017/821 v platnom znení, § 19 zákona č. 53/2023 Z. z. o akreditácii orgánov posudzovania zhody.
+
+- 29r) Nariadenie Európskeho parlamentu a Rady (EÚ) 2023/2859 z 13. decembra 2023, ktorým sa zriaďuje jednotné európske miesto prístupu, ktoré poskytuje centralizovaný prístup k verejne dostupným informáciám týkajúcim sa finančných služieb, kapitálových trhov a udržateľnosti (Ú. v. EÚ L, 2023/2859, 20. 12. 2023) v platnom znení.
+
+- 29s) Čl. 2 ods. 2 nariadenia (EÚ) 2023/2859 v platnom znení.
+
+- 29t) Čl. 5 ods. 1 písm. e) a ods. 3 nariadenia (EÚ) 2023/2859 v platnom znení.
+
+- 29u) Čl. 7 ods. 4 písm. b) nariadenia (EÚ) 2023/2859 v platnom znení.
+
+- 29v) Čl. 2 ods. 3 nariadenia (EÚ) 2023/2859 v platnom znení.
+
+- 29w) Čl. 2 ods. 4 nariadenia (EÚ) 2023/2859 v platnom znení.
+
+- 29x) Čl. 7 ods. 4 písm. d) nariadenia (EÚ) 2023/2859 v platnom znení.
+
+- 29y) Čl. 7 ods. 4 písm. e) nariadenia (EÚ) 2023/2859 v platnom znení.
+
+- 29z) Čl. 7 ods. 4 písm. c) nariadenia (EÚ) 2023/2859 v platnom znení.
+
+- 29za) Čl. 7 ods. 3 nariadenia (EÚ) 2023/2859 v platnom znení.
+
+- 29zb) Čl. 3 ods. 1 nariadenia (EÚ) 2023/2859 v platnom znení.
 
 - 33) Napríklad zákon č. 483/2001 Z. z. v znení neskorších predpisov, zákon č. 566/2001 Z. z. v znení neskorších predpisov, zákon č. 594/2003 Z. z. v znení neskorších predpisov.
 
