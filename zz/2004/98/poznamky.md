@@ -152,6 +152,10 @@
 
 - Vyhláška Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 188/2018 Z. z. o spotrebiteľskom balení, o fľaši ako odmernej nádobe, o požiadavkách na kontrolu množstva výrobku v spotrebiteľskom balení a o požiadavkách na kontrolu skutočného objemu fľaše ako odmernej nádoby v znení vyhlášky č. 433/2019 Z. z.
 
+- 22) Čl. 179 nariadenia č. 952/2013 v platnom znení.
+
+- 23) Zákon č. 305/2013 Z. z. v znení neskorších predpisov.
+
 - 25a) Čl. 269 nariadenia (EÚ) č. 952/2013.
 
 - 25b) Čl. 4 bod 4c nariadenia č. 2913/92 v platnom znení.
