@@ -1,0 +1,5 @@
+# § 30a Letecké prekážkové značenie
+
+(1) V záujme zaistenia bezpečnosti leteckej prevádzky sú stavebníci a vlastníci stavieb alebo zariadení nestavebnej povahy v ochranných pásmach letísk alebo v ochranných pásmach osobitných letísk a stavebníci a vlastníci stavieb alebo zariadení nestavebnej povahy v priestore mimo ochranných pásem podľa § 30 povinní na vlastné náklady umiestniť a udržiavať na takýchto stavbách alebo zariadeniach nestavebnej povahy funkčné letecké prekážkové značenie a bez zbytočného odkladu oznámiť Dopravnému úradu zmenu jeho prevádzkyschopnosti. Ak sa umiestňuje dodatočné letecké prekážkové značenie z dôvodu určenia nových ochranných pásem alebo zmeny ochranných pásem už prevádzkovaného letiska alebo osobitného letiska, náklady na umiestnenie a udržiavanie dodatočného leteckého prekážkového značenia znáša prevádzkovateľ letiska alebo držiteľ rozhodnutia podľa § 33 ods. 2.
+
+(2) Druh, rozsah a prevádzkové podmienky leteckého prekážkového značenia podľa odseku 1 určuje, mení a zrušuje Dopravný úrad.

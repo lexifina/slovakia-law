@@ -1,0 +1,27 @@
+# § 7a Zemepisné oblasti UAS
+
+(1) Dopravný úrad rozhoduje o určení zemepisnej oblasti UAS<sup>2f</sup>) podľa osobitného predpisu<sup>2g</sup>) na základe vlastného podnetu alebo na základe odôvodneného návrhu, ak § 4 ods. 2 a § 6 ods. 6 neustanovujú inak.
+
+(2) Dopravný úrad môže podľa osobitného predpisu<sup>2h</sup>) rozhodnutím určiť zemepisnú oblasť UAS, v ktorej sa na prevádzku bezpilotných lietadiel a bezpilotných leteckých systémov nevzťahujú niektoré z požiadaviek ustanovených pre otvorenú kategóriu prevádzky.<sup>2i</sup>)
+
+(3) Podmienkou určenia zemepisnej oblasti podľa odseku 1 alebo odseku 2 je súhlas ministerstva obrany a ministerstva vnútra; nesúhlasné stanovisko sú ministerstvo obrany a ministerstvo vnútra povinné odôvodniť.
+
+(4) Dopravný úrad návrh rozhodnutia oznámi navrhovateľovi, ak ide o konanie začaté na návrh, stálej medzirezortnej komisii, ministerstvu obrany, ministerstvu vnútra a inému orgánu verejnej moci chrániacemu verejný záujem, ktorý môže byť návrhom rozhodnutia dotknutý, obci, nad ktorej katastrálnym územím sa má určená zemepisná oblasť UAS nachádzať, klubu alebo združeniu leteckých modelárov, prevádzkovateľovi letiska alebo držiteľovi rozhodnutia podľa § 33 ods. 2 a poverenému poskytovateľovi letových prevádzkových služieb, ak môžu byť návrhom rozhodnutia dotknutí, a určí lehotu, v ktorej môžu k návrhu rozhodnutia uplatniť pripomienky; táto lehota nesmie byť kratšia ako 15 pracovných dní odo dňa oznámenia návrhu rozhodnutia. Ak osoby podľa prvej vety v určenej lehote pripomienky k návrhu rozhodnutia neuplatnia, má sa za to, že s návrhom rozhodnutia súhlasia. Dopravný úrad je povinný vysporiadať sa so zaslanými pripomienkami v odôvodnení rozhodnutia.
+
+(5) Dopravný úrad návrh rozhodnutia zverejní aj na elektronickej úradnej tabuli a svojom webovom sídle spolu s výzvou na predloženie pripomienok v určenej lehote, ktorá nesmie byť kratšia ako 15 pracovných dní odo dňa zverejnenia návrhu rozhodnutia. Dopravný úrad zverejní vyhodnotenie pripomienok doručených v určenej lehote na elektronickej úradnej tabuli a svojom webovom sídle.
+
+(6) Rozhodnutie nadobúda účinnosť dňom zverejnenia, ak v rozhodnutí nie je uvedený neskorší dátum nadobudnutia účinnosti. Dopravný úrad rozhodnutie zverejní na elektronickej úradnej tabuli a svojom webovom sídle.
+
+(7) V rozhodnutí sa uvedie najmä označenie zemepisnej oblasti UAS, dôvod jej určenia, zákazy a obmedzenia, doba platnosti, dátum nadobudnutia účinnosti a ďalšie požiadavky vo vzťahu k využívaniu určenej zemepisnej oblasti UAS.
+
+(8) Ak je návrh na vydanie rozhodnutia zjavne nedôvodný, Dopravný úrad konanie zastaví a oznámi túto skutočnosť navrhovateľovi do 30 dní odo dňa doručenia návrhu.
+
+(9) Ak sa zmenia okolnosti, na základe ktorých bola zemepisná oblasť UAS určená, Dopravný úrad môže zmeniť alebo zrušiť rozhodnutie, ktoré je zverejnené a účinné, pričom postupuje primerane podľa odsekov 1, 3 až 8; zmenu alebo zrušenie v rozhodnutí odôvodní. Rozhodnutie vydané na návrh môže Dopravný úrad zmeniť alebo zrušiť aj z vlastného podnetu.
+
+(10) Ak Dopravný úrad alebo ministerstvo určuje zemepisnú oblasť UAS zároveň s vyhlásením zákazu alebo obmedzenia vykonávania určených civilných letov podľa § 6 ods. 2 alebo ods. 6, odseky 3 až 5 a 8 sa neuplatňujú.
+
+(11) Dopravný úrad zemepisnú oblasť UAS určí bezodkladne, ak návrh na bezodkladné určenie zemepisnej oblasti UAS podá Policajný zbor, Hasičský a záchranný zbor, Horská záchranná služba, Slovenská informačná služba, ministerstvo obrany alebo Slovenská inšpekcia životného prostredia a z návrhu vyplýva, že bezodkladné určenie zemepisnej oblasti UAS je potrebné na plnenie úloh Policajného zboru, Hasičského a záchranného zboru, Horskej záchrannej služby, Slovenskej informačnej služby, ministerstva obrany, Vojenskej polície, Vojenského spravodajstva, ozbrojených síl Slovenskej republiky a Slovenskej inšpekcie životného prostredia podľa osobitných predpisov.<sup>2j</sup>) Ak Dopravný úrad určuje zemepisnú oblasť UAS podľa prvej vety, odseky 3 až 5 a 8 sa neuplatňujú. Dopravný úrad je pri určovaní zemepisnej oblasti UAS podľa prvej vety viazaný už určenými zemepisnými oblasťami UAS, schválenou štruktúrou vzdušného priestoru, pravidlami využívania určených častí vzdušného priestoru a určenými vzdušnými priestormi U-space.
+
+(12) Dopravný úrad podľa osobitného predpisu<sup>2k</sup>) zodpovedá za sprístupňovanie informácií o určených zemepisných oblastiach UAS vrátane doby ich platnosti, v jednotnom jedinečnom digitálnom formáte. Výkonom činnosti podľa prvej vety môže Dopravný úrad poveriť právnickú osobu, ktorá vykonáva leteckú informačnú službu podľa § 9 ods. 2, na základe jej žiadosti; v poverení určí podmienky jej vykonávania.
+
+(13) Dopravný úrad sprístupňuje informácie podľa odseku 12 na svojom webovom sídle. Dopravný úrad môže na sprístupnenie informácií podľa odseku 12 zriadiť informačný systém o zemepisných oblastiach UAS, ktorý je informačným systémom verejnej správy, ktorého správcom a prevádzkovateľom je Dopravný úrad, alebo informácie podľa odseku 12 sprístupniť prostredníctvom informačného systému Európskej únie o zemepisných oblastiach UAS. Výstupom z informačného systému o zemepisných oblastiach UAS je digitálna mapa vzdušného priestoru, ktorá obsahuje informácie o určených zemepisných oblastiach UAS. Digitálna mapa vzdušného priestoru je dostupná prostredníctvom jednotného prístupového miesta na webovom sídle Dopravného úradu.
