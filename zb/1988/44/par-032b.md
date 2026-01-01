@@ -10,7 +10,7 @@
 
 - c) vyrubiť penále za omeškanie platby úhrady, ak jeho výška je viac ako 1 000 Sk,
 
-- d) vyúčtovať a uplatňovať úhradu a penále z nedoplatkov úhrady (§ 32a ods. 10) postupom podľa osobitného predpisu;<sup>16da</sup>) úhradu a penále nemožno vymáhať po uplynutí desiatich rokov nasledujúcich po roku, v ktorom úhrada alebo jej časť a penále boli splatné.
+- d) vyúčtovať a uplatňovať úhradu a penále z nedoplatkov úhrady (§ 32a ods. 12) postupom podľa osobitného predpisu;<sup>16da</sup>) úhradu a penále nemožno vymáhať po uplynutí desiatich rokov nasledujúcich po roku, v ktorom úhrada alebo jej časť a penále boli splatné.
 
 (3) Zistené preplatky úhrady sa použijú na zaplatenie úhrady v nasledujúcom období so súhlasom organizácie povinnej platiť úhradu.
 
