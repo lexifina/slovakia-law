@@ -72,8 +72,6 @@
 
 - 22) § 102 ods. 4 zákona č. 36/2005 Z. z.
 
-- 22a) § 10 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 22b) § 102 ods. 1 písm. b) a c) zákona č. 36/2005 Z. z.
 
 - 23) § 33 ods. 3 zákona č. 36/2005 Z. z.
@@ -142,11 +140,27 @@
 
 - 41a) § 6 ods. 8 písm. c) zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 41c) § 8 ods. 3 zákona č. 376/2022 Z. z. o profesionálnych náhradných rodičoch a o zmene a doplnení niektorých zákonov.
+- 41b) § 21a zákona č. 376/2022 Z. z. o profesionálnych náhradných rodičoch a o zmene a doplnení niektorých zákonov v znení zákona č. 141/2025 Z. z.
+
+- 41c) § 8 ods. 3 zákona č. 376/2022 Z. z.
+
+- 41d) § 9 ods. 9 a ods. 10 písm. a) zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+
+- 41e) § 10a ods. 6 a 7 zákona č. 576/2004 Z. z. v znení zákona č. 351/2017 Z. z.
+
+- Vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 92/2018 Z. z., ktorou sa ustanovujú indikačné kritériá na poskytovanie ošetrovateľskej starostlivosti v zariadení sociálnych služieb a v zariadení sociálnoprávnej ochrany detí a sociálnej kurately a ktorou sa ustanovuje vzor návrhu zodpovednej osoby na indikáciu poskytovania ošetrovateľskej starostlivosti osobe umiestnenej v zariadení sociálnych služieb a v zariadení sociálnoprávnej ochrany detí a sociálnej kurately v znení vyhlášky č. 90/2023 Z. z.
+
+- 41f) § 11 zákona č. 447/2008 Z. z. v znení neskorších predpisov.
+
+- 41g) § 10a ods. 3 a 8 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
 
 - 43) Zákon č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - 43a) § 20 ods. 3 zákona č. 376/2022 Z. z.
+
+- 43b) § 17 ods. 1 zákona č. 376/2022 Z. z. v znení zákona č. 141/2025 Z. z.
+
+- 43c) § 12 ods. 2 zákona č. 376/2022 Z. z. v znení zákona č. 141/2025 Z. z.
 
 - 44) § 101 a 102 zákona č. 36/2005 Z. z. v znení zákona č. 175/2015 Z. z.
 
