@@ -142,6 +142,8 @@
 
 - 56aa) § 23 a 30 zákona č. 24/2006 Z. z. v znení neskorších predpisov.
 
+- 56ab) § 11a zákona č. 544/2002 Z. z. o Horskej záchrannej službe v znení neskorších predpisov.
+
 - 56b) § 23 ods. 7 až 9 zákona č. 326/2005 Z. z. v znení neskorších predpisov.
 
 - 56c) § 2 písm. x), § 18 ods. 4 a § 66 písm. c) zákona č. 326/2005 Z. z. v znení neskorších predpisov.
@@ -149,6 +151,10 @@
 - 57) § 2 písm. b) a c) zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov.
 
 - 57a) § 18 ods. 2 Stavebného zákona.
+
+- 57b) § 11a zákona č. 544/2002 Z. z. v znení neskorších predpisov.
+
+- § 84 zákona č. 440/2015 Z. z. o športe a o zmene a doplnení niektorých zákonov v znení zákona č. 104/2025 Z. z.
 
 - 57c) § 20 ods. 3 zákona č. 326/2005 Z. z. v znení zákona č. 117/2010 Z. z.
 
