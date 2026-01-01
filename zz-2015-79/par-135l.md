@@ -1,0 +1,7 @@
+# § 135l Prechodné ustanovenia k úpravám účinným od 1. júla 2023
+
+(1) Rozhodnutia podľa § 97 ods. 1 písm. c) na prevádzkovanie zariadenia na zhodnocovanie odpadov, kde výsledkom činnosti zhodnocovania je druhotné palivo alebo odpadové palivo podľa osobitného predpisu, je jeho držiteľ povinný predložiť príslušnému orgánu štátnej správy odpadového hospodárstva do 30. septembra 2023 na preskúmanie. Súhlasy, ktoré mali byť a neboli predložené na preskúmanie podľa prvej vety, strácajú platnosť.
+
+(2) Rozhodnutia podľa § 97 ods. 1 písm. h) na zhodnocovanie odpadov mobilným zariadením, kde výsledkom činnosti zhodnocovania je druhotné palivo alebo odpadové palivo podľa osobitného predpisu,<sup>26</sup>) je jeho držiteľ povinný predložiť príslušnému orgánu štátnej správy odpadového hospodárstva do 30. septembra 2023 na preskúmanie. Súhlasy, ktoré mali byť a neboli predložené na preskúmanie podľa prvej vety, strácajú platnosť.
+
+(3) Rozhodnutia podľa § 97 ods. 1 písm. e) na vydanie prevádzkového poriadku zariadenia na zhodnocovanie odpadov a prevádzkového poriadku mobilného zariadenia na zhodnocovanie odpadov, kde výsledkom činnosti zhodnocovania je druhotné palivo alebo odpadové palivo podľa osobitného predpisu, je jeho držiteľ povinný predložiť príslušnému orgánu štátnej správy odpadového hospodárstva do 30. septembra 2023 na preskúmanie. Súhlasy, ktoré mali byť a neboli predložené na preskúmanie podľa prvej vety, strácajú platnosť.
