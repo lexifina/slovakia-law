@@ -16,6 +16,8 @@
 
 - 7b) Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov.
 
+- 7c) Zákon č. 432/2021 Z. z. o disciplinárnom poriadku Najvyššieho správneho súdu Slovenskej republiky a o zmene a doplnení niektorých zákonov (disciplinárny súdny poriadok) v znení neskorších predpisov.
+
 - 8) § 25 ods. 1 a ods. 2 písm. a) zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 8a) § 16 ods. 2 Trestného poriadku.
@@ -133,5 +135,7 @@
 - 42h) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon č. 530/2003 Z. z. v znení neskorších predpisov, zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov v znení zákona č. 38/2017 Z. z.
 
 - 43) Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
+
+- 43a) Zákon č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení neskorších predpisov.
 
 - 44) Zmluva medzi štátmi, ktoré sú zmluvnými stranami Severoatlantickej zmluvy, vzťahujúca sa na status ich ozbrojených síl (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 566/2004 Z. z.).
