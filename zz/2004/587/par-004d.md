@@ -1,6 +1,6 @@
 # § 4d Dotácie z príjmov z poplatkov za uloženie odpadov
 
-(1) Príjmy podľa osobitného predpisu<sup>12n</sup>) fond poskytne v súlade s cieľmi Programu predchádzania vzniku odpadu a Programu odpadového hospodárstva Slovenskej republiky na projekt zameraný na
+(1) Príjmy podľa osobitného predpisu<sup>12n</sup>) fond poskytne v súlade s cieľmi Programu predchádzania vzniku odpadu a Plánu odpadového hospodárstva Slovenskej republiky na projekt zameraný na
 
 - a) predchádzanie vzniku odpadu, znižovanie množstva produkcie odpadu, podporu triedeného zberu komunálnych odpadov a ich zhodnocovania,
 

@@ -10,8 +10,6 @@
 
 - 7) § 7 a § 8 ods. 5 zákona č. 401/1998 Z. z. o poplatkoch za znečisťovanie ovzdušia v znení neskorších predpisov.
 
-- 8a) § 32a ods. 6 zákona č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení neskorších predpisov.
-
 - 8b) § 26 ods. 4 zákona č. 569/2007 Z. z. o geologických prácach (geologický zákon).
 
 - 9) § 18 ods. 11 a 14 zákona č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
