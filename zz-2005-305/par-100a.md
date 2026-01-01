@@ -1,0 +1,5 @@
+## Prechodné ustanovenia k úpravám účinným od 1. januára 2009
+
+# § 100a
+
+Zriaďovatelia detských domovov zabezpečia a utvoria podmienky v detských domovoch do 31. decembra 2012 tak, aby od 1. januára 2013 v objekte, ktorý nie je samostatným rodinným domom alebo samostatným bytom, celkový počet detí v skupinách nepresiahol 40. Ak sa v detskom domove do 31. decembra 2008 vykonávala ústavná starostlivosť, neodkladné opatrenie a výchovné opatrenie v špecializovaných samostatných skupinách podľa § 53 ods. 2 písm. c) prvého bodu a šiesteho bodu zákona účinného do 31. decembra 2008, možno prekročiť počet detí podľa prvej vety, ak detský domov po 1. januári 2009 vykonáva ústavnú starostlivosť, neodkladné opatrenie a výchovné opatrenie v špecializovaných samostatných skupinách podľa § 53 ods. 4 písm. c) piateho bodu zákona účinného od 1. januára 2009; prednosť má vykonávanie ústavnej starostlivosti, neodkladného opatrenia a výchovného opatrenia v špecializovaných samostatných skupinách podľa § 53 ods. 4 písm. c) piateho bodu v objekte podľa prvej vety.
