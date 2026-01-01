@@ -1,0 +1,1 @@
+- 1) § 2 písm. a) zákona č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a pôžičkách pre spotrebiteľov a o zmene a doplnení niektorých zákonov v znení zákona č. 394/2011 Z. z.
