@@ -1,0 +1,1 @@
+Príloha k opatreniu č. 28/2025 R. o. [Rozsah a štruktúra informácií vedených v zozname správcov úverov a správcov úverov z iného členského štátu](../assets/b536e498613e26c2cb4dc886d4b192234971268b931d97f4e53dbf92a4e40e87.pdf)
