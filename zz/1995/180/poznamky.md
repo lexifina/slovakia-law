@@ -82,33 +82,13 @@
 
 - 31) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z.
 
-- 31a) § 11 ods. 7 zákona Slovenskej národnej rady č. 330/1991 Zb. v znení neskorších predpisov.
-
-- 31aa) § 34 ods. 4 písm. d), ods. 9 a 10 zákona Slovenskej národnej rady č. 330/1991 Zb. v znení neskorších predpisov.
-
-- § 7 zákona Národnej rady Slovenskej republiky č. 129/1996 Z. z. o niektorých opatreniach na urýchlenie prípravy výstavby diaľnic a ciest pre motorové vozidlá v znení zákona č. 275/2007 Z. z.
-
-- § 8 zákona č. 193/2001 Z. z. o dotácii na zriadenie priemyselných parkov a o doplnení zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov v znení zákona č. 542/2004 Z. z.
-
-- § 11 zákona č. 371/2021 Z. z. o významných investíciách.
-
-- 31ab) § 2 Stavebného zákona.
-
-- 31c) Zákon č. 503/2003 Z. z. o navrátení vlastníctva k pozemkom a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov.
-
-- Zákon č. 229/1991 Zb. v znení neskorších predpisov.
-
 - 32) § 17 zákona č. 229/1991 Zb. v znení neskorších predpisov.
 
 - 33) § 18 zákona č. 229/1991 Zb. v znení neskorších predpisov.
 
 - 34) Napríklad zákon č. 42/1992 Zb. v znení neskorších predpisov.
 
-- 35) Napríklad § 3 zákona č. 61/1977 Zb. v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 208/1994 Z. z. o nájme poľnohospodárskych a lesných nehnuteľností a o nájme poľnohospodárskeho podniku.
-
-- 39) Zákon č. 282/2015 Z. z. o vyvlastňovaní pozemkov a stavieb a o nútenom obmedzení vlastníckeho práva k nim a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 39a) Napríklad zákon Slovenskej národnej rady č. 307/1992 Zb., Stavebný zákon.
+- 39) § 18 zákona č. 200/2022 Z. z. o územnom plánovaní v znení neskorších predpisov.
 
 - 39b) Zákon č. 193/2001 Z. z. o podpore na zriadenie priemyselných parkov a o doplnení zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov.
 
@@ -118,15 +98,23 @@
 
 - Zákon č. 446/2001 Z. z. o majetku vyšších územných celkov v znení neskorších predpisov.
 
-- 42) Zákon č. 220/2004 Z. z. o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- Zákon č. 326/2005 Z. z. v znení neskorších predpisov.
-
 - 46) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení vyhlášky č. 608/1992 Zb. a vyhlášky č. 265/1993 Z. z.
 
-- 46a) § 34 ods. 3 zákona Slovenskej národnej rady č. 330/1991 Zb. v znení zákona č. 139/2010 Z. z.
+- 46a) Napríklad § 34 ods. 19 zákona Slovenskej národnej rady č. 330/1991 Zb. v znení neskorších predpisov, § 62 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
 
-- 46b) Napríklad § 62 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
+- 46b) Zákon č. 229/1991 Zb. v znení neskorších predpisov.
+
+- Zákon č. 503/2003 Z. z. v znení neskorších predpisov.
+
+- 46ba) Napríklad § 11 ods. 2 zákona č. 136/2000 Z. z. o hnojivách v znení neskorších predpisov, § 9 ods. 2 zákona č. 271/2005 Z. z. o výrobe, uvádzaní na trh a používaní krmív (krmivársky zákon), § 8 ods. 3 zákona č. 184/2006 Z. z. o pestovaní geneticky modifikovaných rastlín v poľnohospodárskej výrobe v znení zákona č. 78/2008 Z. z., § 4 zákona č. 597/2006 Z. z. o pôsobnosti orgánov štátnej správy v oblasti registrácie odrôd pestovaných rastlín a uvádzaní množiteľského materiálu pestovaných rastlín na trh v znení zákona č. 467/2008 Z. z., § 4 zákona č. 282/2020 Z. z. o ekologickej poľnohospodárskej výrobe v znení zákona č. 58/2023 Z. z., § 19 zákona č. 202/2009 Z. z. o právnej ochrane odrôd rastlín, § 37 ods. 3 zákona č. 313/2009 Z. z. o vinohradníctve a vinárstve v znení neskorších predpisov, § 4 zákona č. 405/2011 Z. z. o rastlinolekárskej starostlivosti a o zmene zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov, § 4 zákona č. 387/2013 Z. z. o pomocných prípravkoch v ochrane rastlín a o zmene a doplnení niektorých zákonov.
+
+- 46bb) Zákon č. 64/1997 Z. z. o užívaní pozemkov v zriadených záhradkových osadách a vyporiadaní vlastníctva k nim v znení neskorších predpisov.
+
+- 46bc) Zákon č. 193/2001 Z. z. o podpore na zriadenie priemyselných parkov a o doplnení zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov v znení neskorších predpisov.
+
+- Zákon č. 371/2021 Z. z. v znení zákona č. 26/2025 Z. z.
+
+- Zákon č. 142/2024 Z. z. o mimoriadnych opatreniach pre strategické investície a pre výstavbu transeurópskej dopravnej siete a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 46c) § 48 až 62 Stavebného zákona.
 
@@ -135,6 +123,8 @@
 - 47) § 34 ods. 3 písm. a) zákona Slovenskej národnej rady č. 330/1991 Zb.
 
 - 47a) § 8 ods. 1 zákona č. 97/2013 Z. z. o pozemkových spoločenstvách.
+
+- 47aa) § 5 písm. u) zákona č. 200/2022 Z. z. v znení zákona č. 26/2025 Z. z.
 
 - 48) Napríklad § 588 a 628 Občianskeho zákonníka.
 
