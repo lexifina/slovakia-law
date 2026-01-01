@@ -40,6 +40,10 @@ Zákon č. 281/2015 Z. z. o štátnej službe profesionálnych vojakov a o zmene
 
 - Za bezúhonného sa na účely tohto zákona nepovažuje občan, ktorý bol právoplatne odsúdený za trestný čin vojenský,<sup>24</sup>) prečin, ktorý je úmyselným trestným činom,<sup>25</sup>) alebo zločin,<sup>26</sup>) bez ohľadu na to, či mu je odsúdenie za takýto trestný čin zahladené, alebo sa na neho hľadí, akoby nebol za takýto trestný čin odsúdený.“.
 
+- 5. V § 16 odsek 6 znie:
+
+- „(6) Bezúhonnosť podľa odseku 4 a spoľahlivosť podľa odseku 5 písm. a) a b) sa v prijímacom konaní preukazuje odpisom registra trestov pre vybrané povolania a civilný proces; v prijímacom konaní možno bezúhonnosť a spoľahlivosť preukázať aj odpisom registra trestov, ktorý bol služobnému úradu vydaný na účel preukázania bezúhonnosti podľa osobitného zákona.<sup>22</sup>) Na účel preukázania bezúhonnosti občan v prijímacom konaní poskytne služobnému úradu údaje potrebné na vyžiadanie odpisu registra trestov podľa prvej vety, ktoré služobný úrad bezodkladne zašle v elektronickej podobe prostredníctvom elektronickej komunikácie Generálnej prokuratúre Slovenskej republiky.“.
+
 - 6. V § 16 odsek 10 znie:
 
 - „(10)
