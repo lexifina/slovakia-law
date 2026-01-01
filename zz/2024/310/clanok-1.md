@@ -14,11 +14,43 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 
 - 3. V § 77b ods. 6 sa za slová „priznaní 13. dôchodku“ vkladajú slová „vyplateného v priemernej mesačnej sume príslušnej dôchodkovej dávky“.
 
+- 4. V § 117 ods. 1 písm. a) druhom bode a § 227 ods. 2 písm. h) sa slová „písm. q)“ nahrádzajú slovami „písm. p)“.
+
+- 5. V § 168 ods. 2 písm. h) sa slová „a m)“ nahrádzajú slovami „a l)“.
+
+- 6. § 170 sa dopĺňa odsekom 31, ktorý znie:
+
+- „(31)
+
+- Sociálna poisťovňa poskytuje elektronicky dôchodkovej správcovskej spoločnosti zo svojho informačného systému bez súhlasu dotknutých osôb údaje vrátane osobných údajov<sup>92aa</sup>) o
+
+- a)
+
+- predpokladanom dôchodkovom veku poistenca na účel vyhotovenia dôchodkovej prognózy podľa § 226b a na účel vyhotovenia prognózy dôchodku podľa osobitného predpisu,<sup>1</sup>)
+
+- b)
+
+- predpokladanom veku poistenca, ku ktorému poistenec môže získať potrebné odpracované obdobie podľa § 67 ods. 9 a 10, na účel vyhotovenia dôchodkovej prognózy podľa § 226b.“.
+
+- 10. V § 226b ods. 2 druhá veta znie: „Ak poistenec neoznámil Sociálnej poisťovni, že dôchodkovú prognózu žiada sprístupniť výlučne prostredníctvom elektronického účtu poistenca, Sociálna poisťovňa zašle dôchodkovú prognózu podľa prvej vety na adresu elektronickej pošty, ktorú poistenec na tento účel oznámil Sociálnej poisťovni, alebo ktorá bola Sociálnej poisťovni poskytnutá podľa § 233 ods. 19; ak Sociálna poisťovňa neeviduje adresu elektronickej pošty poistenca na účel zasielania dôchodkovej prognózy, zasiela dôchodkovú prognózu listinnou formou.“.
+
+- 16. V § 231 ods. 1 sa vypúšťa písmeno j).
+
+  - Doterajšie písmená k) až q) sa označujú ako písmená j) až p).
+
 - 17. V § 231 ods. 1 sa vypúšťa písmeno r).
+
+- 18. V § 231 ods. 2 sa slová „j), m) až q)“ nahrádzajú slovami „l) až p)“.
+
+- 19. V § 231 ods. 3 sa slová „h) až j), m) až q)“ nahrádzajú slovami „h), i), l) až p)“.
 
 - 20. V § 233 sa odsek 18 druhý v poradí označuje ako odsek 19.
 
   - Doterajší odsek 19 sa označuje ako odsek 20.
+
+- 21. V § 233 ods. 19 prvá veta znie: „Dôchodková správcovská spoločnosť je povinná Sociálnej poisťovni elektronicky a v lehotách ňou určených bezplatne poskytovať bez súhlasu dotknutej osoby údaje o sporiteľovi podľa osobitného predpisu<sup>1</sup>) na účely zostavenia dôchodkovej prognózy, a to jeho rodné číslo, prognózu jeho starobného dôchodku zo starobného dôchodkového sporenia<sup>1</sup>) a prognózu jeho predčasného starobného dôchodku zo starobného dôchodkového sporenia<sup>1</sup>) a na účely zaslania dôchodkovej prognózy jeho adresu elektronickej pošty, ak ňou disponuje.“.
+
+- 23. V § 293gd sa na konci pripájajú tieto vety: „Sociálna poisťovňa zašle dôchodkovú prognózu podľa prvej vety všetkým poistencom, ktorým po dovŕšení 18 rokov veku vzniklo dôchodkové poistenie pred 1. januárom 2026. Na účely určenia príslušného kalendárneho roka podľa § 226b ods. 3 písm. b) sa u poistenca podľa druhej vety za kalendárny rok určený podľa § 226b ods. 3 písm. a) považuje rok 2026.“.
 
 - 24. Za § 293gj sa vkladá § 293gja, ktorý vrátane nadpisu znie:
 
@@ -35,3 +67,31 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 - (2)
 
 - Poistencovi, ktorý má nárok na starobný dôchodok alebo predčasný starobný dôchodok uvedený v § 77b ods. 2 a súčasne má nárok aj na dôchodok podľa osobitného predpisu,<sup>56ab</sup>) 13. dôchodok v roku 2024 vyplatí podľa osobitného predpisu<sup>56ab</sup>) príslušný útvar sociálneho zabezpečenia alebo Vojenský úrad sociálneho zabezpečenia. Ak je suma 13. dôchodku podľa tohto zákona vyššia ako suma 13. dôchodku vyplateného podľa prvej vety, Sociálna poisťovňa vyplatí rozdiel týchto súm najneskôr do 30. septembra 2025.“.
+
+- 25. Za § 293gk sa vkladá § 293gl, ktorý vrátane nadpisu znie:
+
+- „§ 293gl
+
+- Prechodné ustanovenie k úpravám účinným od 1. januára 2026
+
+- Zamestnávateľ je povinný predložiť Sociálnej poisťovni evidenciu o svojich zamestnancoch vedenú na účely nároku na dávku dôchodkového poistenia podľa § 231 ods. 1 písm. j) v znení účinnom do 31. decembra 2025 za obdobie pred
+
+- 1. januárom 2026 prostredníctvom elektronického formulára určeného Sociálnou poisťovňou do
+
+- a)
+
+- 31. januára 2026 za zamestnancov, ktorí ukončili právny vzťah so zamestnávateľom pred
+
+- 1. januárom 2026, ak povinnosť predložiť túto evidenciu nesplnil pred 1. januárom 2026,
+
+- b)
+
+- 30. júna 2026 za zamestnancov, ktorým právny vzťah k zamestnávateľovi trvá a zamestnávateľ má k 31. decembru 2025 menej ako 51 zamestnancov,
+
+- c)
+
+- 30. septembra 2026 za zamestnancov, ktorým právny vzťah k zamestnávateľovi trvá a zamestnávateľ má k 31. decembru 2025 viac ako 50 zamestnancov a menej ako 501 zamestnancov,
+
+- d)
+
+- 31. decembra 2026 za zamestnancov, ktorým právny vzťah k zamestnávateľovi trvá a zamestnávateľ má k 31. decembru 2025 viac ako 500 zamestnancov.“.
