@@ -1,0 +1,1 @@
+## Vymazaný časový rez
