@@ -1,0 +1,7 @@
+## 258
+
+ZÁKON
+
+NÁRODNEJ RADY SLOVENSKEJ REPUBLIKY
+
+z 30. septembra 1993
