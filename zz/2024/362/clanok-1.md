@@ -570,6 +570,18 @@ Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona �
 
 - 99. V § 29b ods. 16 sa slová „ročnom zúčtovaní poistného“ nahrádzajú slovami „vykonávaní verejného zdravotného poistenia“.
 
+- 100. V § 29b sa za odsek 19 vkladá nový odsek 20, ktorý znie:
+
+- „(20)
+
+- Národné centrum zdravotníckych informácií poskytuje najmenej raz za sedem dní príslušnej zdravotnej poisťovni elektronicky na účely vykonávania verejného zdravotného poistenia údaje o fyzickej osobe v rozsahu meno a priezvisko, dátum narodenia, rodné číslo, ak je pridelené, bezvýznamové identifikačné číslo, dátum začiatku dočasnej pracovnej neschopnosti<sup>60a</sup>) a dátum ukončenia dočasnej pracovnej neschopnosti.“.
+
+  - Doterajšie odseky 20 až 22 sa označujú ako odseky 21 až 23.
+
+  - Poznámka pod čiarou k odkazu 60a znie:
+
+  - „<sup>60a</sup>) § 3a ods. 28 zákona č. 153/2013 Z. z. v znení neskorších predpisov.“.
+
 - 101. V § 29ba ods. 2 sa slovo „bezdomovcovi“ nahrádza slovami „človeku bez domova“.
 
 - 102. Za § 38ezh sa vkladajú § 38ezi a 38ezj, ktoré vrátane nadpisov znejú:
@@ -596,4 +608,10 @@ Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona �
 
 - (5)
 
-- Ustanovenie odseku 4 sa nevzťahuje na fyzickú osobu, ktorá si už v minulosti splnila oznamovaciu povinnosť voči zdravotnej poisťovni spôsobom uvedeným v § 23 ods. 3 písm. e) v znení účinnom od 1. januára 2025.“.
+- Ustanovenie odseku 4 sa nevzťahuje na fyzickú osobu, ktorá si už v minulosti splnila oznamovaciu povinnosť voči zdravotnej poisťovni spôsobom uvedeným v § 23 ods. 3 písm. e) v znení účinnom od 1. januára 2025.
+
+- § 38ezj
+
+- Prechodné ustanovenie k úpravám účinným od 1. januára 2026
+
+- Národné centrum zdravotníckych informácií poskytne príslušnej zdravotnej poisťovni údaje podľa §29b ods. 20 v znení účinnom od 1. januára 2026 prvýkrát do 10. januára 2026.“.

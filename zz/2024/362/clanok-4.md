@@ -136,6 +136,12 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 
 - 13. V § 7a ods. 2 sa vypúšťa písmeno d).
 
+- 14. V § 7a odsek 4 znie:
+
+- „(4)
+
+- Minimálny počet lôžok na účely poskytovania ošetrovateľskej starostlivosti v zariadení sociálnej pomoci sa ustanovuje každoročne k 1. januáru kalendárneho roka. Minimálny počet lôžok na účely poskytovania ošetrovateľskej starostlivosti v zariadení sociálnej pomoci a výpočet minimálneho počtu lôžok pre príslušnú zdravotnú poisťovňu podľa podielu jej poistencov na celkovom počte poistencov podľa príslušného samosprávneho kraja a na Slovenskú republiku ustanoví ministerstvo zdravotníctva po dohode s Ministerstvom práce, sociálnych vecí a rodiny Slovenskej republiky všeobecne záväzným právnym predpisom.“.
+
 - 15. Za § 7b sa vkladá § 7c, ktorý vrátane nadpisu znie:
 
 - „§ 7c
