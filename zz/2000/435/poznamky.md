@@ -44,7 +44,7 @@
 
 - § 69 ods. 9 písm. h) zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení zákona č. 187/2022 Z. z.
 
-- 1bj) § 26 písm. h) zákona č. 56/2018 Z. z. o posudzovaní zhody výrobku, sprístupňovaní určeného výrobku na trhu a o zmene a doplnení niektorých zákonov.
+- 1bj) § 26 písm. g) zákona č. 56/2018 Z. z. o posudzovaní zhody výrobku, sprístupňovaní určeného výrobku na trhu a o zmene a doplnení niektorých zákonov.
 
 - Nariadenie vlády Slovenskej republiky č. 262/2016 Z. z. o vybavení námorných lodí.
 
