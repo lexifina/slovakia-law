@@ -256,8 +256,6 @@
 
 - 23h) § 10 zákona č. 97/2013 Z. z. o pozemkových spoločenstvách.
 
-- 23ha) Príloha č. 3, časť E.3.1 k vyhláške č. 492/2004 Z. z.
-
 - 23haa) § 17 ods. 1 písm. c) zákona č. 229/1991 Zb. v znení zákona č. 257/2022 Z. z.
 
 - § 65a ods. 2 písm. s) a § 65b ods. 5 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
@@ -279,18 +277,6 @@
 - 23hd) § 11 ods. 2 zákona č. 229/1991 Zb. v znení neskorších predpisov.
 
 - § 6 ods. 2 zákona č. 503/2003 Z. z. v znení neskorších predpisov.
-
-- 23he) § 151a až 151me Občianskeho zákonníka.
-
-- 23hea) Zákon č. 140/2014 Z. z. o nadobúdaní vlastníctva poľnohospodárskeho pozemku a o zmene a doplnení niektorých zákonov.
-
-- 23hf) § 11 ods. 2 zákona č. 229/1991 Zb.
-
-- § 6 ods. 2 zákona č. 503/2003 Z. z.
-
-- 23hg) § 2 ods. 5 až 12 nariadenia vlády Slovenskej republiky č. 238/2010 Z. z., ktorým sa ustanovujú podrobnosti o podmienkach prenajímania, predaja, zámeny a nadobúdania nehnuteľností Slovenským pozemkovým fondom v znení neskorších predpisov.
-
-- 23hh) § 30 ods. 4 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
 - 23hi) § 13 ods. 4 zákona č. 504/2003 Z. z. o nájme poľnohospodárskych pozemkov, poľnohospodárskeho podniku a lesných pozemkov a o zmene niektorých zákonov v znení zákona č. 363/2014 Z. z.
 
