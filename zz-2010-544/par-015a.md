@@ -1,0 +1,3 @@
+# § 15a Osobitné ustanovenie v čase mimoriadnej situácie, núdzového stavu alebo výnimočného stavu
+
+Vláda Slovenskej republiky môže v čase mimoriadnej situácie, núdzového stavu alebo výnimočného stavu ustanoviť nariadením vlády Slovenskej republiky na obdobie v čase mimoriadnej situácie, núdzového stavu alebo výnimočného stavu alebo na obdobie bezprostredne nasledujúce po skončení mimoriadnej situácie, núdzového stavu alebo výnimočného stavu sumu dotácie uvedenej v § 2, jej účel, spôsob jej poskytnutia, možnosť jej opakovaného poskytnutia v rozpočtovom roku a postup pri jej zúčtovaní. Ustanovenia zákona, ktoré upravujú právne skutočnosti uvedené v prvej vete, sa uplatňujú s odchýlkami ustanovenými nariadením vlády Slovenskej republiky podľa prvej vety.
