@@ -1,6 +1,6 @@
 # § 293l
 
-(1) Starobný dôchodok priznaný v sume určenej podľa predpisov účinných pred 1. januárom 2004 a starobný dôchodok, na ktorý bol prekvalifikovaný pomerný starobný dôchodok, sa zvyšuje za obdobie dôchodkového poistenia získané po 31. júli 2006 podľa § 66 ods. 2 až 9.
+(1) Starobný dôchodok priznaný v sume určenej podľa predpisov účinných pred 1. januárom 2004 a starobný dôchodok, na ktorý bol prekvalifikovaný pomerný starobný dôchodok, sa zvyšuje za obdobie dôchodkového poistenia získané po 31. júli 2006 podľa § 66 ods. 2 až 12.
 
 (2) Na účely určenia sumy starobného dôchodku podľa predpisov účinných do 31. decembra 2003 poistenca uvedeného v § 261 ods. 1 sa odsek 1 nepoužije; to platí aj na určenie sumy dôchodku podľa § 274 ods. 2.
 

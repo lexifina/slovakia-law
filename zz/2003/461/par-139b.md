@@ -10,4 +10,4 @@
 
 (2) Pri určení pomernej časti podľa odseku 1 sa neprihliada na obdobie, za ktoré bolo zaplatené poistné z maximálneho vymeriavacieho základu.
 
-(3) Na odsek 1 sa § 138 ods. 1, 5, 6, 10, 11, 13 až 15 vzťahujú rovnako.
+(3) Na odsek 1 sa § 138 ods. 1, 5, 6, 9, 10, 12 až 14 vzťahujú rovnako.

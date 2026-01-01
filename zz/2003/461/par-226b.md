@@ -2,7 +2,7 @@
 
 (1) Sociálna poisťovňa vyhotovuje dôchodkovú prognózu na účel informovania poistenca o jeho predpokladaných dôchodkových nárokoch z dôchodkového poistenia a starobného dôchodkového sporenia.<sup>1</sup>)
 
-(2) Sociálna poisťovňa poistencovi sprístupní prostredníctvom pasívneho prístupu na elektronickom účte poistenca do 31. mája príslušného kalendárneho roka dôchodkovú prognózu k 31. decembru kalendárneho roka predchádzajúceho príslušnému kalendárnemu roku. Sociálna poisťovňa písomne zašle poistencovi dôchodkovú prognózu podľa prvej vety, ak poistenec neoznámil Sociálnej poisťovni, že dôchodkovú prognózu žiada sprístupniť výlučne prostredníctvom elektronického účtu poistenca.
+(2) Sociálna poisťovňa poistencovi sprístupní prostredníctvom pasívneho prístupu na elektronickom účte poistenca do 31. mája príslušného kalendárneho roka dôchodkovú prognózu k 31. decembru kalendárneho roka predchádzajúceho príslušnému kalendárnemu roku. Ak poistenec neoznámil Sociálnej poisťovni, že dôchodkovú prognózu žiada sprístupniť výlučne prostredníctvom elektronického účtu poistenca, Sociálna poisťovňa zašle dôchodkovú prognózu podľa prvej vety na adresu elektronickej pošty, ktorú poistenec na tento účel oznámil Sociálnej poisťovni, alebo ktorá bola Sociálnej poisťovni poskytnutá podľa § 233 ods. 19; ak Sociálna poisťovňa neeviduje adresu elektronickej pošty poistenca na účel zasielania dôchodkovej prognózy, zasiela dôchodkovú prognózu listinnou formou.
 
 (3) Príslušný kalendárny rok podľa odseku 2 je
 

@@ -30,6 +30,8 @@
 
 - 7aaa) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 7b) Napríklad § 12a zákona č. 105/1990 Zb. o súkromnom podnikaní občanov v znení zákona č. 219/1991 Zb., zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 8) § 31 zákona č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
 - § 67 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov.
@@ -120,8 +122,6 @@
 
 - 42e) § 107 ods. 8 zákona č. 35/2019 Z. z.
 
-- 43) § 49 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
-
 - 44) Napríklad § 136 ods. 1 zákona č. 311/2001 Z. z. v znení zákona č. 210/2003 Z. z.
 
 - 45) Napríklad § 136 zákona č. 311/2001 Z. z. v znení zákona č. 210/2003 Z. z.
@@ -137,6 +137,8 @@
 - 47) Občiansky zákonník.
 
 - 48) § 122 Občianskeho zákonníka.
+
+- 49) Zákon č. 376/2022 Z. z. o profesionálnych náhradných rodičoch a o zmene a doplnení niektorých zákonov v znení zákona č. 141/2025 Z. z.
 
 - 50) § 2 ods. 1 písm. m) a n) a § 12 ods. 2 písm. f) zákona č. 355/2007 Z. z.
 
@@ -174,6 +176,10 @@
 
 - 56c) § 45 ods. 6 zákona č. 43/2004 Z. z. v znení zákona č. 183/2014 Z. z.
 
+- 57) § 83 ods. 1 zákona č. 440/2015 Z. z. o športe a o zmene a doplnení niektorých zákonov v znení zákona č. 354/2016 Z. z.
+
+- 57a) § 80 zákona č. 440/2015 Z. z. v znení neskorších predpisov.
+
 - 58) § 24 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
 
 - 59) Zákon č. 283/2002 Z. z. o cestovných náhradách.
@@ -209,6 +215,10 @@
 - 69ba) Zákon č. 215/2021 Z. z. o podpore v čase skrátenej práce a o zmene a doplnení niektorých zákonov.
 
 - 69c) § 10 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
+- 69d) § 5 ods. 7 písm. r) zákona č. 595/2003 Z. z. v znení zákona č. 153/2025 Z. z.
+
+- 69e) § 49 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
 - 70) § 2 písm. d) zákona č. 215/2021 Z. z.
 
@@ -260,6 +270,10 @@
 
 - 92aaa) § 14 ods. 5 zákona č. 523/2004 Z. z. v znení zákona č. 310/2016 Z. z.
 
+- 92aab) § 19 zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
+
+- § 45 ods. 1 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+
 - 92ab) § 23 ods. 4 písm. j), § 26 písm. a) a § 27b písm. c) zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 92aba) § 66b ods. 3 písm. a) a § 66h ods. 2 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
@@ -290,7 +304,7 @@
 
 - 93ad) § 29b ods. 19 zákona č. 580/2004 Z. z. v znení zákona č. 77/2015 Z. z.
 
-- 93ada) § 24 ods. 3 a § 24a zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
+- 93ada) § 24 ods. 3 a § 24a zákona č. 575/2001 Z. z. v znení neskorších predpisov.
 
 - 93adb) § 2 písm. a) zákona č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a pôžičkách pre spotrebiteľov a o zmene a doplnení niektorých zákonov v znení zákona č. 394/2011 Z. z.
 
@@ -309,8 +323,6 @@
 - 93adg) Čl. 4 ústavného zákona č. 493/2011 Z. z. o rozpočtovej zodpovednosti.
 
 - § 30a zákona č. 523/2004 Z. z. v znení zákona č. 436/2013 Z. z.
-
-- 93adh) Zákon č. 340/2012 Z. z. o úhrade za služby verejnosti poskytované Rozhlasom a televíziou Slovenska a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 93adi) § 7a zákona č. 56/2012 Z. z. o cestnej doprave v znení zákona č. 397/2021 Z. z.
 
@@ -344,7 +356,7 @@
 
 - 96) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov.
 
-- 96a) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 96a) Zákon č. 382/2004 Z. z. v znení neskorších predpisov.
 
 - 97) § 61 zákona č. 195/1998 Z. z. v znení neskorších predpisov.
 
@@ -414,9 +426,7 @@
 
 - 106a) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení zákona č. 618/2004 Z. z.
 
-- 107) Zákon Národnej rady Slovenskej republiky č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
-
-- 108) Napríklad § 56 ods. 1 písm. a) zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok).
+- 107) § 20 až 27 a § 28 ods. 1, 7 a 10 až 16 zákona č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 109) § 109 ods. 1 zákona č. 131/2002 Z. z.
 
