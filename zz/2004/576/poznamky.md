@@ -108,8 +108,6 @@
 
 - 7a) Zákon č. 579/2004 Z. z. v znení neskorších predpisov.
 
-- 7b) § 31 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
-
 - 7c) § 12 ods. 14 zákona č. 578/2004 Z. z. v znení zákona č. 257/2017 Z. z.
 
 - 7d) § 12 ods. 15 zákona č. 578/2004 Z. z. v znení zákona č. 257/2017 Z. z.
@@ -170,7 +168,9 @@
 
 - 9aaa) § 20 ods. 1 písm. d) zákona č. 581/2004 Z. z.
 
-- 9aab) § 62 až 66 zákona č. 448/2008 Z. z.
+- 9aab) § 39 ods. 3 zákona č. 578/2004 Z. z.
+
+- Príloha č. 3 časť D písm. a) a b) nariadenia vlády Slovenskej republiky č. 296/2010 Z. z.
 
 - 9ab) § 27 ods. 1 písm. a), d), g) a l) zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
@@ -196,9 +196,13 @@
 
 - 14aaaa) § 6 zákona č. 231/2019 Z. z.
 
-- 14aab) § 2 ods. 15 zákona č. 153/2013 Z. z. v znení zákona č. 361/2024 Z. z.
+- 14aab) § 8a ods. 1 písm. b) zákona č. 153/2013 Z. z. v znení zákona č. 361/2024 Z. z.
 
 - 14aac) Čl. 26 nariadenia Európskeho parlamentu a Rady (ES) č. 987/2009 zo 16. septembra 2009, ktorým sa stanovuje postup vykonávania nariadenia (ES) č. 883/2004 o koordinácii systémov sociálneho zabezpečenia (Ú. v. EÚ L 284, 30. 10. 2009) v platnom znení.
+
+- 14aad) Zákon č. 480/2002 Z. z. v znení neskorších predpisov.
+
+- 14aae) § 58 ods. 1 písm. c), § 58 ods. 3 zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 14aca) § 102 ods. 1 a § 106 ods. 2 Trestného zákona.
 
@@ -215,6 +219,8 @@
 - 14aj) § 3 písm. o) zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
 
 - 14ak) § 20 ods. 1 písm. e) prvý bod zákona č. 581/2004 Z. z. v znení neskorších predpisov.
+
+- 14al) § 2 písm. j) a § 29 zákona č. 480/2002 Z. z. v znení neskorších predpisov.
 
 - 14an) § 19 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
@@ -322,7 +328,7 @@
 
 - 34) § 31 Občianskeho zákonníka.
 
-- 34a) § 29n ods. 1, § 29n ods. 3 písm. a) a § 29 ods. 2 písm. e) bod 3 zákona č. 362/2011 Z. z. v znení neskorších predpisov.
+- 34a) § 29n ods. 1, § 29n ods. 3 písm. a) a § 29n ods. 3 písm. b) tretí bod zákona č. 362/2011 Z. z. v znení neskorších predpisov.
 
 - 35) Zákon č. 599/2001 Z. z. o osvedčovaní listín a podpisov na listinách obvodnými úradmi a obcami v znení zákona č. 515/2003 Z. z.
 
@@ -497,3 +503,7 @@
 - 57) § 6 zákona č. 406/2011 Z. z. o dobrovoľníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 440/2015 Z. z.
 
 - 58) § 3 ods. 1 písm. j) zákona č. 153/2013 Z. z. v znení zákona č. 361/2024 Z. z.
+
+- 59) Príloha č. 4 časť I písm. f) druhý bod až piaty bod zákona č. 448/2008 Z. z. v znení neskorších predpisov.
+
+- 60) § 61 ods. 10 zákona č. 448/2008 Z. z. v znení zákona č. 120/2024 Z. z.

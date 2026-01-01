@@ -12,7 +12,7 @@
 
 - d) lôžkovú kapacitu zdravotníckeho zariadenia v členení podľa druhov vykonávaných ochranných liečení,
 
-- e) aktuálnu informáciu o dostupnej lôžkovej kapacite zdravotníckeho zariadenia vyčlenenej pre výkon ochranného liečenia,
+- e) informáciu o dostupnej lôžkovej kapacite zdravotníckeho zariadenia vyčlenenej pre výkon ochranného liečenia,
 
 - f) kontaktné údaje poskytovateľa, najmä telefónne číslo a e-mailová adresa.
 
