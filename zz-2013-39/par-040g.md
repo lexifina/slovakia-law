@@ -1,0 +1,7 @@
+# § 40g Prechodné ustanovenie počas trvania mimoriadnej situácie, núdzového stavu alebo výnimočného stavu vyhláseného v súvislosti s ochorením COVID-19
+
+(1) V konaniach, v ktorých sa vyžaduje vykonanie miestnej ohliadky, ústneho pojednávania, alebo nazerania do spisov, alebo ich vykonanie žiada účastník konania, lehoty ustanovené na vydanie rozhodnutí podľa tohto zákona neplynú v čase odo dňa účinnosti tohto zákona až do odvolania mimoriadnej situácie, núdzového stavu alebo výnimočného stavu vyhláseného v súvislosti s ochorením COVID-19. Miestna ohliadka alebo ústne pojednávanie alebo ich vykonanie na žiadosť účastníka konania počas trvania mimoriadnej situácie, núdzového stavu alebo výnimočného stavu vyhláseného v súvislosti s ochorením COVID-19 sa vykonáva v nevyhnutnom rozsahu.
+
+(2) Ministerstvo môže počas mimoriadnej situácie, núdzového stavu alebo výnimočného stavu vyhláseného v súvislosti s ochorením COVID-19 poveriť prevádzkovateľa zariadenia na zhodnocovanie odpadov alebo prevádzkovateľa zariadenia na zneškodňovanie odpadov, ktorému bolo udelené integrované povolenie podľa § 3 ods. 3 písm. a) a c) štvrtého bodu, na prijatie a zhodnotenie alebo zneškodnenie nebezpečného odpadu v súvislosti s opatreniami počas mimoriadnej situácie, núdzového stavu alebo výnimočného stavu vyhláseného v súvislosti s ochorením COVID-19.
+
+(3) Na konanie o vydaní poverenia podľa odseku 2 sa nevzťahuje všeobecný predpis o správnom konaní.
