@@ -1,0 +1,3 @@
+Príloha č. 17 k vyhláške č. 371/2015 Z.z.
+
+- OZNAČENIE DEKONTAMINOVANÉHO ZARIADENIA VZOR [príloha](../assets/5a9930c6202e628b62cc41cbd65c12d6570addb1c723321321a1cf84a6f5287d.pdf)
