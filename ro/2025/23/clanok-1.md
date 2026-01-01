@@ -18,6 +18,10 @@ Opatrenie Ministerstva zdravotníctva Slovenskej republiky z 30. decembra 2003 �
 
 - pracovných dní cez deň v stanici záchrannej zdravotnej služby na jedno vozidlo ambulancie špecializovanej prepravy 12 428 eur mesačne.“.
 
+- 2. V prílohe č. 2 prvý bod znie:
+
+- „[Príloha č. 2 prvý bod](assets/0d499803d8ef4af75bb84488caac40736907a454c9b152ac1e2cf67772a3c093.pdf)“.
+
 - 3. V prílohe č. 4 časti A položka 3. znie:
 
 - „86.90.14
@@ -112,4 +116,4 @@ Opatrenie Ministerstva zdravotníctva Slovenskej republiky z 30. decembra 2003 �
 
 - Cena podľa písmena l) zahŕňa všetky náklady súvisiace s poskytovaním neodkladnej prepravy letúnom vrátane nákladov na výkony sterilizácie.“.
 
-[Konsolidovane znenie](assets/93992bba95eb441a9ea1f3460e40df0bb65e9967e42df6a3028e7d11b109be8f.pdf)
+[Konsolidovane znenie](assets/73682bdd18daeb384cf7a79c4cdd0ba39737a75facacdc52a4557456ef634f26.pdf)
