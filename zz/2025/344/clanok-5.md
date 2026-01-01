@@ -33,3 +33,29 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 - „(2)
 
 - V spoločnej žiadosti podľa odseku 1 poskytovatelia záchrannej zdravotnej služby uvedú požadovanú zmenu, dôvody požadovanej zmeny a čestné vyhlásenie, že ostatné údaje, na ktorých základe boli pôvodné povolenia alebo pôvodné poverenia vydané, sa nezmenili; k spoločnej žiadosti poskytovatelia záchrannej zdravotnej služby priložia aj dohodu podľa odseku 1. Na povolenie výmeny sídla stanice záchrannej zdravotnej služby podľa odseku 1 sa § 14 nevzťahuje.“.
+
+- 5. § 63a sa dopĺňa písmenom c), ktoré znie:
+
+- „c)
+
+- zdravotnícky pracovník neuhradil poplatok za vedenie registra podľa § 63 ods. 5 za dva po sebe nasledujúce kalendárne roky.“.
+
+- 6. V § 63b sa odsek 1 dopĺňa písmenom e), ktoré znie:
+
+- „e)
+
+- kto neuhradil poplatok za vedenie registra podľa § 63 ods. 5 za päť po sebe nasledujúcich kalendárnych rokov.“.
+
+- 9. Za § 102bc sa vkladá § 102bd, ktorý vrátane nadpisu znie:
+
+- „§ 102bd
+
+- Prechodné ustanovenia k úprave účinnej od 1. januára 2026
+
+- (1)
+
+- Komora dočasne pozastaví registráciu podľa § 63a písm. c) prvýkrát v roku 2028.
+
+- (2)
+
+- Komora zruší registráciu podľa § 63b ods. 1 písm. e) prvýkrát v roku 2031.“.
