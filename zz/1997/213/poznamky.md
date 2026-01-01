@@ -1,6 +1,6 @@
-- 1) § 73a zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.
+- 1) Zákon č. 321/2025 Z. z. o školskej správe a o zmene a doplnení niektorých zákonov.
 
-- § 1 zákona Slovenskej národnej rady č. 135/1992 Zb. o poskytovaní sociálnych služieb právnickými a fyzickými osobami.
+- Zákon č. 322/2025 Z. z. o financovaní škôl a školských zariadení.
 
 - 2) Napríklad zákon č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
