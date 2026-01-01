@@ -134,6 +134,10 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 
 - 10. V § 2 písm. z) sa slová „tabuľkách A a B“ nahrádzajú slovami „tabuľke A“.
 
+- 11. V § 2 sa vypúšťa písmeno z).
+
+  - Doterajšie písmeno aa) sa označuje ako písmeno z).
+
 - 12. Nad § 3 sa vkladá nadpis, ktorý znie: „Povoľovanie pre prevádzky“.
 
 - 13. Nadpis § 3 znie: „Povolenie na vypúšťanie emisií skleníkových plynov pre prevádzky“.
@@ -1222,6 +1226,10 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 
   - (Ú. v. EÚ L 228, 15. 9. 2023).“.
 
+- 60. Poznámka pod čiarou k odkazu 21 znie:
+
+- „<sup>21</sup>) Nariadenie (EÚ) 2023/956.“.
+
 - 61. V § 26 odsek 2 znie:
 
 - „(2)
@@ -1532,6 +1540,16 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 
   - „<sup>27</sup>) Vykonávacie nariadenie (EÚ) 2023/1773.“.
 
+- 71. V § 28 odseky 3 a 4 znejú:
+
+- „(3)
+
+- Ministerstvo uloží schválenému deklarantovi, ktorý každoročne do 31. mája neodovzdá počet certifikátov zodpovedajúci emisiám viazaným v tovare dovezenom počas predchádzajúceho kalendárneho roku podľa osobitného predpisu,<sup>10ad</sup>) pokutu 100 eur za každý neodovzdaný certifikát. Zaplatenie pokuty za neodovzdanie certifikátov nezbavuje schváleného deklaranta odovzdať počet certifikátov najneskôr pri odovzdávaní certifikátov za nasledujúci kalendárny rok. Pokuty za neodovzdanie certifikátov sa zvýšia v súlade s európskym indexom spotrebiteľských cien.
+
+- (4)
+
+- Ministerstvo uloží pokutu rovnajúcu sa trojnásobku až päťnásobku pokuty podľa odseku 3 osobe, ktorá nie je schváleným deklarantom a ktorá uvádza tovar na colné územie Únie bez toho, aby si splnila povinnosti podľa osobitného predpisu.<sup>10ad</sup>) Pri rozhodovaní o výške pokuty sa prihliada na závažnosť porušenia povinnosti, čas trvania protiprávneho stavu, opakovanie takéhoto stavu a úroveň spolupráce danej osoby s ministerstvom. Pokuta je uplatniteľná v roku uvedenia tovaru na colné územie Únie za každý certifikát, ktorý táto osoba neodovzdala.“.
+
 - 72. V § 28 ods. 5 sa za slovo „prihliada“ vkladá slovo „najmä“.
 
 - 73. V § 28 ods. 7 sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „§ 21 ods. 2 písm. b) a § 21 ods. 5 písm. b).“.
@@ -1774,6 +1792,18 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 
 - Správne konanie začaté a právoplatne neskončené do 1. októbra 2025 dokončí okresný úrad podľa doterajších predpisov.“.
 
+- 83. V prílohe č. 1 prvý bod znie:
+
+- „1.
+
+- Systém obchodovania sa nevzťahuje na prevádzky ani ich časti používané na výskum, vývoj a testovanie nových výrobkov a procesov. Systém obchodovania sa nevzťahuje na prevádzky, v prípade ktorých počas predchádzajúceho relevantného päťročného obdobia uvedeného v § 9 ods. 1 emisie zo spaľovania biomasy v súlade s kritériami stanovenými podľa osobitného predpisu<sup>1a</sup>) prispievajú v priemere k viac ako 95 % celkových priemerných emisií skleníkových plynov.“.
+
+- 84. V prílohe č. 1 tretí bod znie:
+
+- „3.
+
+- Prahová hodnota menovitého tepelného príkonu spaľovacích zariadení je 20 MW. Na účely posúdenia hranice 20 MW menovitého tepelného príkonu sa sčítajú menovité tepelné príkony všetkých spaľovacích zariadení, ktoré majú menovitý tepelný príkon rovný alebo väčší ako 3 MW. Uvedené zariadenia môžu zahŕňať všetky typy kotlov, horákov, turbín, ohrievačov, priemyselných pecí, spaľovacích pecí, vypaľovacích pecí, sušiacich pecí, pecí, sušičiek, motorov, palivových článkov, chemických spaľovacích jednotiek, fakieľ resp. poľných horákov a termických alebo katalytických jednotiek dodatočného spaľovania. Ak je hodnota súčtov menovitých tepelných príkonov väčšia ako 20 MW, do povolenia je potrebné zahrnúť všetky spaľovacie zariadenia v prevádzke, t. j. aj tie, ktoré majú menší menovitý tepelný príkon ako 3 MW. V oboch prípadoch sa berú do úvahy aj rezervné a záložné zariadenia. Rezervné a záložné zariadenia sa nezapočítavajú na účely celkového menovitého tepelného príkonu vtedy, ak technicky nemôžu paralelne fungovať s hlavnými zariadeniami z technických alebo legislatívnych dôvodov.“.
+
 - 85. Príloha č. 1 tabuľka A znie:
 
 - „Tabuľka A
@@ -1840,7 +1870,7 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 
 - 86. V prílohe č. 1 tabuľka B znie:
 
-- „[Tabuľka B](assets/80764b913b125d85c8f00b2429b1da91fba0a18f79742fd5da5195038a66c720.pdf)“.
+- „[Tabuľka B](assets/f0953b9418b4cf2db3fb07738160b07c0e9fd06c89886286d907ce60a26c9567.pdf)“.
 
 - 87. V prílohe č. 1 sa za tabuľku B vkladá tabuľka C, ktorá znie:
 
@@ -1852,9 +1882,11 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 
 - “.
 
+- 88. V prílohe č. 1 tabuľke C sa slová „Oxid uhličitý“ nahrádzajú slovami „Oxid uhličitý, metán a oxid dusný“.
+
 - 89. V prílohe č. 1 tabuľka D znie:
 
-- „[Tabuľka D](assets/700014c03471be05c2c2e2b3752381a92787d1a8d3eb4aa06f9003503e4e89fc.pdf)“.
+- „[Tabuľka D](assets/79312c03cd046b82f794725f23618b37ed897dfa02f51927ca9cb388a7a75277.pdf)“.
 
 - 90. V nadpise prílohy č. 2 sa vypúšťajú slová „A ZNEČISŤUJÚCICH LÁTOK“.
 
