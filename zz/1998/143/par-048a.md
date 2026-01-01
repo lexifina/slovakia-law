@@ -46,4 +46,4 @@
 
 (6) Ministerstvo obrany vykonáva dozor nad leteckými navigačnými službami poskytovanými podľa odseku 4; na tento účel vydáva predpisy na zabezpečenie výkonu dozoru a uzatvára dohodu o spolupráci s Dopravným úradom.
 
-(7) Ministerstvo vnútra v rozsahu svojej pôsobnosti, ak ministerstvo neprijalo rozhodnutie podľa § 47 písm. t), zabezpečuje a povoľuje prevádzku lietadiel v policajných službách a lietadiel vykonávajúcich lety v štátnom záujme, ktoré sú majetkom štátu v správe alebo užívaní ministerstva vnútra a vydáva predpisy upravujúce prevádzku takýchto lietadiel.
+(7) Ministerstvo vnútra v rozsahu svojej pôsobnosti, ak ministerstvo neprijalo rozhodnutie podľa § 47 písm. t), zabezpečuje a povoľuje prevádzku lietadiel v policajných službách a lietadiel vykonávajúcich lety v štátnom záujme, ktoré sú majetkom štátu v správe alebo užívaní ministerstva vnútra alebo ním zriadenej rozpočtovej organizácie, a vydáva predpisy upravujúce prevádzku takýchto lietadiel.
