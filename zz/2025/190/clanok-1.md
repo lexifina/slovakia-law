@@ -66,6 +66,10 @@ Zákon č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákon
 
 - 12. V § 55a ods. 4 sa na konci pripájajú tieto slová: „alebo zapečatené kvalifikovanou elektronickou pečaťou“.
 
+- 13. V § 55a sa vypúšťa odsek 7.
+
+  - Poznámka pod čiarou k odkazu 60h sa vypúšťa.
+
 - 14. V § 58 sa odsek 1 dopĺňa písmenom d), ktoré znie:
 
 - „d)
