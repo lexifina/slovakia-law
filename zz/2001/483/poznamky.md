@@ -632,9 +632,9 @@
 
 - 48aa) § 19 ods. 4 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
 
-- 48aaa) § 4 zákona č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov.
+- 48aaa) § 3 ods. 1 a 2 zákona č. 374/2014 Z. z. o pohľadávkach štátu a o zmene a doplnení niektorých zákonov.
 
-- § 3 ods. 1 a 2 zákona č. 374/2014 Z. z. o pohľadávkach štátu a o zmene a doplnení niektorých zákonov.
+- § 3 zákona č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 48aaaa) Čl. 316 nariadenia (EÚ) č. 575/2013 v platnom znení.
 
@@ -788,7 +788,7 @@
 
 - 67) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
-- 72) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
+- 72) § 20 až 28 zákona č. 357/2015 Z. z. v znení neskorších predpisov.
 
 - 72b) Napríklad § 8 ods. 5 zákona Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 

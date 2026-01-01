@@ -22,7 +22,7 @@
 
 - i) výšku štátneho príspevku pre mladomanželov v eurách.
 
-(3) Štátny dozor nad dodržiavaním podmienok poskytovania štátneho príspevku pre mladomanželov vykonáva ministerstvo. Ministerstvo je oprávnené požadovať od banky a pobočky zahraničnej banky všetky podklady na kontrolu dodržiavania podmienok poskytovania štátneho príspevku pre mladomanželov. Na výkon tohto štátneho dozoru sa primerane použijú ustanovenia osobitného predpisu.<sup>72</sup>)
+(3) Štátny dozor nad dodržiavaním podmienok poskytovania štátneho príspevku pre mladomanželov vykonáva ministerstvo. Ministerstvo je oprávnené požadovať od banky a pobočky zahraničnej banky všetky podklady na kontrolu dodržiavania podmienok poskytovania štátneho príspevku pre mladomanželov. Pri výkone tohto štátneho dozoru sa primerane postupuje podľa osobitného predpisu.<sup>72</sup>)
 
 (4) Ak ministerstvo pri výkone štátneho dozoru zistí nedostatky v činnosti banky alebo pobočky zahraničnej banky spočívajúce v nedodržaní podmienok poskytnutia štátneho príspevku pre mladomanželov, uloží banke alebo pobočke zahraničnej banky povinnosť vrátiť do štátneho rozpočtu sumu vo výške neoprávnene použitého štátneho príspevku pre mladomanželov.
 
