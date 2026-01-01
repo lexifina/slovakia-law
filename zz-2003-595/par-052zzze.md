@@ -1,0 +1,3 @@
+# § 52zzze Prechodné ustanovenie k úpravám účinným od 1. apríla 2025
+
+Na účely uplatnenia daňových odpisov sa budovy a stavby, pri ktorých bolo podľa zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov v znení účinnom do 31. marca 2025 konanie začaté a právoplatne ukončené, a budovy a stavby, pri ktorých sa postupuje v súlade so Stavebným zákonom<sup>160</sup>) a pri ktorých dochádza po 31. marci 2025 k zmene vymedzenia charakteru stavby, považujú za budovy a stavby podľa zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov v znení účinnom do 31. marca 2025.

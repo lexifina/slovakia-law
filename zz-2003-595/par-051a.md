@@ -1,0 +1,15 @@
+# § 51a
+
+(1) Daňovník, ktorý zmení spôsob uplatňovania výdavkov podľa § 6 ods. 10 na uplatňovanie preukázateľných výdavkov podľa § 6 ods. 11 a naopak, upraví základ dane postupom, ktorý určí ministerstvo.
+
+(2) Daňovník, ktorý v zdaňovacom období uplatňoval výdavky podľa § 6 ods. 11 a po tomto zdaňovacom období začal účtovať v sústave podvojného účtovníctva alebo daňovník, ktorý v zdaňovacom období účtoval v sústave podvojného účtovníctva a po tomto zdaňovacom období začal uplatňovať výdavky podľa § 6 ods. 11, upraví základ dane postupom, ktorý určí ministerstvo.
+
+(3) Daňovník, ktorý začne viesť daňovú evidenciu podľa § 6 ods. 11 bezprostredne po období, v ktorom účtoval v sústave jednoduchého účtovníctva,<sup>1</sup>) základ dane zvýši o zostatky vytvorených rezerv podľa § 20 ods. 9 písm. b), d) až f) v zdaňovacom období, v ktorom došlo k tejto zmene, podľa stavu zisteného k začiatku zdaňovacieho obdobia, v ktorom začne viesť daňovú evidenciu podľa § 6 ods. 11. Daňovník, ktorý začne účtovať v sústave jednoduchého účtovníctva<sup>1</sup>) bezprostredne po období, v ktorom viedol daňovú evidenciu podľa § 6 ods. 11, neupravuje základ dane.
+
+(4) Daňovník, ktorý začal účtovať v sústave podvojného účtovníctva<sup>1</sup>) po období, v ktorom uplatňoval výdavky spôsobom podľa § 6 ods. 10 a naopak, upraví základ dane podľa § 17 ods. 8 písm. b) alebo písm. c) v zdaňovacom období, v ktorom došlo k tejto zmene. Úpravu základu dane tento daňovník vykoná zo zisteného stavu jednotlivých položiek k začiatku zdaňovacieho obdobia, v ktorom začne účtovať v sústave podvojného účtovníctva alebo viesť evidenciu podľa § 6 ods. 10.
+
+(5) Daňovník, ktorý začne viesť evidenciu podľa § 6 ods. 10 bezprostredne po období, v ktorom účtoval v sústave jednoduchého účtovníctva,<sup>1</sup>) základ dane zvýši o zostatky vytvorených rezerv podľa § 20 ods. 9 písm. b), d) až f) v zdaňovacom období, v ktorom došlo k tejto zmene, podľa stavu zisteného k začiatku zdaňovacieho obdobia, v ktorom začne viesť evidenciu podľa § 6 ods. 10.
+
+(6) Daňovník, ktorý začne viesť evidenciu podľa § 6 ods. 10 bezprostredne po období, v ktorom účtoval v sústave jednoduchého účtovníctva<sup>1</sup>) alebo v sústave podvojného účtovníctva,<sup>1</sup>) ak v účtovných obdobiach zaúčtoval opravnú položku k nadobudnutému majetku podľa osobitného predpisu,<sup>1</sup>) vedie túto opravnú položku len evidenčne, pričom počas vedenia evidencie podľa § 6 ods. 10 ovplyvňuje táto opravná položka len výšku príjmov; počas vedenia evidencie podľa § 6 ods. 10 nemôže prerušiť a ani predĺžiť dobu zahrnovania tejto opravnej položky do daňových výdavkov alebo príjmov.
+
+(7) Daňovník, ktorý začne viesť daňovú evidenciu podľa § 6 ods. 11 bezprostredne po období, v ktorom účtoval v sústave jednoduchého účtovníctva<sup>1</sup>) alebo v sústave podvojného účtovníctva,<sup>1</sup>) alebo viedol evidenciu podľa § 6 ods. 10, ak v účtovných obdobiach zaúčtoval opravnú položku k nadobudnutému majetku podľa osobitného predpisu,<sup>1</sup>) zahrnuje do daňových výdavkov alebo príjmov túto opravnú položku v súlade s účtovnými predpismi<sup>1</sup>) aj počas vedenia evidencie podľa § 6 ods. 11.

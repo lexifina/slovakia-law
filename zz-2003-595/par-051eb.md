@@ -1,0 +1,3 @@
+# § 51eb Osobitný základ dane z výnosov (príjmov) z poplatkov za vykonanie platobnej operácie prostredníctvom platobnej karty v prospech hráčskeho účtu
+
+Do osobitného základu dane sa zahŕňajú výnosy (príjmy) z poplatkov za vykonanie platobnej operácie prostredníctvom platobnej karty v prospech hráčskeho účtu,<sup>56</sup>) ktoré banka alebo pobočka zahraničnej banky<sup>94</sup>) účtuje svojim klientom. Výnosy (príjmy) z poplatkov za vykonanie platobnej operácie prostredníctvom platobnej karty v prospech hráčskeho účtu<sup>56</sup>) sú súčasťou osobitného základu dane pri podaní daňového priznania podľa § 41 zdaňovaného sadzbou dane podľa § 15 písm. b) piateho bodu.
