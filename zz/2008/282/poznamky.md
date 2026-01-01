@@ -4,11 +4,13 @@
 
 - 2a) § 3 ods. 1 písm. b) zákona č. 406/2011 Z. z. o dobrovoľníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 360/2019 Z. z.
 
-- 3) § 45a ods. 1, § 46 a 66f zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+- 2b) § 2 ods. 2 zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení zákona č. 35/2002 Z. z.
+
+- 3) § 4 zákona č. 406/2011 Z. z. v znení zákona č. 50/2023 Z. z.
 
 - 4) § 1 ods. 2 písm. a) zákona č. 552/2003 Z. z.
 
-- 4a) § 10 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+- 4a) § 12 ods. 4 písm. a) zákona č. 192/2023 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
 - 5) § 5 zákona č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon) v znení neskorších predpisov.
 
@@ -16,23 +18,9 @@
 
 - 5b) § 19 ods. 1 zákona č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností v znení zákona č. 91/2016 Z. z.
 
-- 6) Zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 7) § 56 až 61 zákona č. 48/2002 Z. z. v znení neskorších predpisov.
-
-- 8) § 11 Zákonníka práce.
-
-- § 2 ods. 1 zákona č. 552/2003 Z. z. v znení neskorších predpisov.
-
-- 9) § 5 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
-
-- 10) § 85 ods. 5 Zákonníka práce.
-
 - 11) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
 - 12) § 2 ods. 2 Obchodného zákonníka.
-
-- 13) Napríklad § 476 až 480 Občianskeho zákonníka.
 
 - 14) Zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
 

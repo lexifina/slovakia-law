@@ -8,7 +8,7 @@
 
 - c) získa odporúčanie akreditačnej komisie na základe hodnotenia.
 
-(2) Žiadateľom o značku kvality môže byť fyzická osoba alebo právnická osoba uvedená v § 15 ods. 2 písm. c) až e), g) a h) a právnická osoba, ktorá odvodzuje svoju právnu subjektivitu od cirkví a náboženských spoločností.<sup>5b</sup>)
+(2) Žiadateľom o značku kvality môže byť právnická osoba uvedená v § 15 ods. 2 písm. c) až e) a g) a právnická osoba, ktorá odvodzuje svoju právnu subjektivitu od cirkví a náboženských spoločností.<sup>5b</sup>)
 
 (3) O udelení značky kvality ministerstvo vydá osvedčenie; osvedčenie sa vydáva na päť rokov. Po uplynutí platnosti osvedčenia o udelení značky kvality možno opätovne podať žiadosť o udelenie značky kvality.
 
