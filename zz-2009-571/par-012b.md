@@ -1,0 +1,15 @@
+# § 12b Prechodné ustanovenia k úpravám účinným od 1. januára 2011
+
+(1) O žiadostiach o rodičovský príspevok podaných do 31. decembra 2010, o ktorých sa právoplatne nerozhodlo do 31. decembra 2010, sa rozhodne a rodičovský príspevok sa vyplatí za obdobie do 31. decembra 2010 podľa zákona účinného do 31. decembra 2010.
+
+(2) Ak oprávnená osoba uplatňuje nárok na rodičovský príspevok po 31. decembri 2010 za obdobie pred 1. januárom 2011, o nároku na tento rodičovský príspevok sa rozhodne a rodičovský príspevok sa vyplatí za obdobie do 31. decembra 2010 podľa zákona účinného do 31. decembra 2010.
+
+(3) Ak rodičovský príspevok bol priznaný podľa zákona účinného do 31. decembra 2010 v sume 164,22 eura a nárok na tento rodičovský príspevok by trval podľa zákona účinného do 31. decembra 2010 aj po tomto dni, považuje sa od 1. januára 2011 za rodičovský príspevok priznaný podľa zákona účinného od 1. januára 2011 a vypláca sa v sume podľa zákona účinného od 1. januára 2011.
+
+(4) Ak rodičovský príspevok bol priznaný podľa zákona účinného do 31. decembra 2010, vyplácal sa v sume 256 eur a nárok na tento rodičovský príspevok by trval podľa zákona účinného do 31. decembra 2010 aj po tomto dni, považuje sa od 1. januára 2011 za rodičovský príspevok priznaný podľa zákona účinného od 1. januára 2011 a vypláca sa v sume 256 eur aj počas výkonu zárobkovej činnosti oprávnenou osobou do zániku nároku na rodičovský príspevok, najdlhšie do konca kalendárneho mesiaca, v ktorom dieťa dovŕši vek 20 mesiacov.
+
+(5) Ak rodičovský príspevok bol priznaný podľa zákona účinného do 31. decembra 2010, vyplácal sa v sume rozdielu medzi sumou rodičovského príspevku 256 eur a sumou materského alebo obdobnej dávky ako materské v členskom štáte a nárok na tento rodičovský príspevok by trval podľa zákona účinného do 31. decembra 2010 aj po tomto dni, považuje sa od 1. januára 2011 za rodičovský príspevok priznaný podľa zákona účinného od 1. januára 2011 a vypláca sa v sume tohto rozdielu; po skončení vyplácania materského alebo obdobnej dávky ako materské v členskom štáte sa rodičovský príspevok vypláca v sume 256 eur aj počas výkonu zárobkovej činnosti oprávnenou osobou do zániku nároku na rodičovský príspevok, najdlhšie do konca kalendárneho mesiaca, v ktorom dieťa dovŕši vek 20 mesiacov.
+
+(6) Rodičovský príspevok priznaný podľa § 4 ods. 4 zákona účinného do 31. decembra 2010, na ktorý by trval nárok podľa zákona účinného do 31. decembra 2010, považuje sa od 1. januára 2011 za rodičovský príspevok priznaný podľa tohto zákona a vypláca sa v sume 75 % rodičovského príspevku podľa § 4 ods. 1 aj počas výkonu zárobkovej činnosti oprávnenou osobou.
+
+(7) Ak oprávnená osoba uplatňuje nárok na rodičovský príspevok podľa zákona účinného od 1. januára 2011 a jednej z oprávnených osôb sa vyplatil príspevok rodičovi podľa osobitného predpisu<sup>29</sup>) účinného do 31. decembra 2010, o nároku na tento rodičovský príspevok pri starostlivosti o to isté dieťa sa rozhodne a rodičovský príspevok sa vypláca za obdobie, za ktoré sa poskytol príspevok rodičovi, v sume 75 % rodičovského príspevku podľa § 4 ods. 1 zákona účinného od 1. januára 2011.
