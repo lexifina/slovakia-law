@@ -22,12 +22,52 @@ Opatrenie Ministerstva financií Slovenskej republiky zo 16. decembra 2002 č. 2
 
   - <sup>23b</sup>) § 69 Stavebného zákona.“.
 
+- 6. V § 38 odsek 1 znie:
+
+- „(1)
+
+- Obstaranie ložiska nevyhradeného nerastu<sup>12</sup>) sa účtuje na účte 031 – Pozemky, pričom ocenenie pozemku je vrátane ceny ložiska nevyhradeného nerastu. V účtovníctve účtovnej jednotky, ktorá je vlastníkom pozemku s ložiskom nevyhradeného nerastu, sa ku dňu nadobudnutia právoplatnosti oprávnenia vydaného rozhodnutím obvodného banského úradu<sup>28a</sup>) (ďalej len „banské oprávnenie“), preúčtuje oddelená časť kúpnej ceny tohto pozemku tvoriaca preukázateľnú hodnotu ložiska nevyhradeného nerastu z účtu 031 – Pozemky na účet 112 – Materiál na sklade. Pri zastavení ťažby na ložisku nevyhradeného nerastu pred plánovaným ukončením ťažby na tomto ložisku sa hodnota ložiska nevyhradeného nerastu tvoriaca zostatok účtu 112 – Materiál na sklade preúčtuje na účet 031 – Pozemky. V účtovníctve účtovnej jednotky, ktorá pozemok s ložiskom nevyhradeného nerastu kúpila so zámerom jeho nájmu a umožnenia ťažby na ložisku nevyhradeného nerastu inou účtovnou jednotkou, ktorej bolo vydané banské oprávnenie sa ku dňu vzniku nájomného vzťahu k pozemku s ložiskom nevyhradeného nerastu preúčtuje oddelená časť kúpnej ceny tohto pozemku tvoriaca preukázateľnú hodnotu ložiska nevyhradeného nerastu z účtu 031 – Pozemky na osobitne vytvorený analytický účet k účtu 029 – Ostatný dlhodobý hmotný majetok. Ku dňu zániku nájomného vzťahu k pozemku s ložiskom nevyhradeného nerastu sa zostatková hodnota ložiska nevyhradeného nerastu tvoriaca zostatok na osobitne vytvorenom účte k účtu 029 – Ostatný dlhodobý hmotný majetok preúčtuje na účet 031 – Pozemky. Ak na účely účtovania oddelenej časti kúpnej ceny pozemku s ložiskom nevyhradeného nerastu nie je preukázateľná hodnota ložiska nevyhradeného nerastu určená na základe údajov o tomto ložisku, určí sa napríklad ako kladný rozdiel medzi kúpnou cenou pozemku s ložiskom nevyhradeného nerastu a reálnou hodnotou pozemku bez ložiska nevyhradeného nerastu v danej lokalite v čase kúpy pozemku s ložiskom nevyhradeného nerastu.“.
+
+  - Poznámka pod čiarou k odkazu 28a znie:
+
+  - „<sup>28a</sup>) § 4a zákona č. 51/1988 Z. z. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov.“.
+
+- 7. V § 52 ods. 7 sa na konci pripája táto veta: „Pri nadobudnutí majetku, pri ktorom účtovnej jednotke vzniká nárok na odpočítanie dane z pridanej hodnoty v rozsahu ustanovenom podľa osobitného predpisu,<sup>30ea</sup>) je daň z pridanej hodnoty v rozsahu, v akom nevzniká nárok na odpočítanie dane z pridanej hodnoty, súčasťou obstarávacej ceny.“.
+
+  - Poznámka pod čiarou k odkazu 30ea znie:
+
+  - „<sup>30ea</sup>) § 85n zákona č. 222/2004 Z. z. v znení neskorších predpisov.“.
+
+- 8. V § 52 ods. 8 druhá veta znie: „Daň z pridanej hodnoty pri zmene účelu využitia majetku alebo zmene rozsahu použitia majetku na účely podnikania, ako aj na iný účel ako je podnikanie podľa osobitného predpisu,<sup>30i</sup>) ak ide o majetok uvedený do užívania, sa účtuje podľa charakteru v prospech účtu alebo na ťarchu účtu 343 – Daň z pridanej hodnoty so súvzťažným zápisom na ťarchu účtu 548 – Ostatné náklady na hospodársku činnosť alebo v prospech účtu 648 – Ostatné výnosy z hospodárskej činnosti.“.
+
+  - Poznámka pod čiarou k odkazu 30i znie:
+
+  - „<sup>30i</sup>) § 54 až 54d zákona č. 222/2004 Z. z. v znení neskorších predpisov.“.
+
+- 9. V § 52 odsek 11 znie:
+
+- „(11)
+
+- Ak po vzniku daňovej povinnosti odberateľ úplne alebo čiastočne nezaplatil za dodanie tovaru alebo služby a jeho pohľadávka z tohto dodania sa stala nevymožiteľná,<sup>30n</sup>) zníženie dane z pridanej hodnoty sa účtuje na ťarchu príslušného analytického účtu 343 – Daň z pridanej hodnoty so súvzťažným zápisom v prospech príslušného analytického účtu 343 – Daň z pridanej hodnoty. Oprava odpočítanej dane z pridanej hodnoty podľa osobitného predpisu<sup>30o</sup>) sa účtuje v prospech príslušného analytického účtu 343 – Daň z pridanej hodnoty so súvzťažným zápisom na ťarchu príslušného analytického účtu 343 – Daň z pridanej hodnoty.“.
+
 - 10. Za § 86n sa vkladajú § 86o a 86p, ktoré vrátane nadpisov znejú:
 
 - „§ 86o
 
 - Prechodné ustanovenie k úpravám účinným od 31. decembra 2025
 
-- Ustanovenia § 30a ods. 1 písm. d) a ods. 7 v znení účinnom od 31. decembra 2025 sa prvýkrát použijú pri predmete finančného prenájmu obstaranom na základe zmluvy o finančnom prenájme uzavretej najskôr 1. januára 2025.“.
+- Ustanovenia § 30a ods. 1 písm. d) a ods. 7 v znení účinnom od 31. decembra 2025 sa prvýkrát použijú pri predmete finančného prenájmu obstaranom na základe zmluvy o finančnom prenájme uzavretej najskôr 1. januára 2025.
 
-[Konsolidovane znenie](assets/daa0ebad091129e3c530cc3db9e80616a395a3af323d64d5c25bb87db6bebe94.pdf)
+- § 86p
+
+- Prechodné ustanovenia k úprave účinnej od 1. januára 2026
+
+- (1)
+
+- Ustanovenie § 38 ods. 1 v znení účinnom od 1. januára 2026 sa prvýkrát použije pri účtovaní pozemku s ložiskom nevyhradeného nerastu, ktorý bol kúpený do 31. decembra 2025 a ku ktorému banské oprávnenie nadobudlo právoplatnosť po 31. decembri 2025 a pri účtovaní pozemku s ložiskom nevyhradeného nerastu, ktorý bol kúpený po 31. decembri 2025.
+
+- (2)
+
+- Pri účtovaní pozemku s ložiskom nerastných surovín obstaranom do 31. decembra 2025, ku ktorému banské oprávnenie nadobudlo právoplatnosť do 31. decembra 2025, sa postupuje podľa tohto opatrenia v znení účinnom do 31. decembra 2025.“.
+
+[Konsolidovane znenie](assets/29b9ac5f28cb023501dca32d9b7fd33e45164b1bb17d70fd51e27147492203be.pdf)
