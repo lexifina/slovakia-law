@@ -44,7 +44,7 @@
 
 - 6) § 39 zákona č. 39/2007 Z. z.
 
-- 7) Čl. 6 nariadenia Európskeho parlamentu a Rady (ES) č. 852/2004 v platnom znení.
+- 8) § 45 až 45b zákona č. 39/2007 Z. z. v znení zákona č. 307/2025 Z. z.
 
 - 8a) Čl. 3 ods. 8 nariadenia (ES) č. 178/2002 v platnom znení.
 
@@ -231,10 +231,6 @@
 - 18a) § 2 zákona č. 35/2019 Z. z. o finančnej správe a o zmene a doplnení niektorých zákonov.
 
 - 18b) § 14 ods. 1 a 2 zákona č. 251/2024 Z. z. o dani zo sladených nealkoholických nápojov a o zmene a doplnení niektorých zákonov.
-
-- 19) § 3 ods. 1 a § 3b zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
-
-- 19a) Čl. 4 a 5 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu v znení neskorších predpisov.
 
 - 20) Nariadenie Európskeho parlamentu a Rady (ES) č. 765/2008 z 9. júla 2008, ktorým sa stanovujú požiadavky akreditácie a dohľadu nad trhom v súvislosti s uvádzaním výrobkov na trh a ktorým sa zrušuje nariadenie (EHS) č. 339/93 (Ú. v. EÚ L 218, 13. 8. 2008).
 
