@@ -1,1 +1,0 @@
-Samuel Vlčan v. r.

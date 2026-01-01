@@ -1,1 +1,0 @@
-Príloha č. 5 k vyhláške č. 258/2022 Z. z. [Oznámenie o plánovanom vývoze komodít podľa § 24 ods. 3 zákona č. 152/1995 Z. z. o potravinách v znení zákona č. 211/2022 Z. z.](../assets/c6f63ba6ce65de1b13175950ae581750f53bd54ffb596926c539bbf24ac71ca6.pdf)
