@@ -1,0 +1,11 @@
+## 121
+
+VYHLÁŠKA
+
+Ministerstva pôdohospodárstva a rozvoja vidieka Slovenskej republiky
+
+z 19. mája 2025,
+
+## ktorou sa mení a dopĺňa vyhláška Ministerstva pôdohospodárstva a rozvoja vidieka Slovenskej republiky č. 297/2011 Z. z. o lesnej hospodárskej evidencii v znení vyhlášky č. 321/2020 Z. z.
+
+Ministerstvo pôdohospodárstva a rozvoja vidieka Slovenskej republiky podľa § 66 písm. f) zákona č. 326/2005 Z. z. o lesoch v znení neskorších predpisov ustanovuje:
