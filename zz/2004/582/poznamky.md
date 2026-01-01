@@ -18,6 +18,10 @@
 
 - 8a) § 60 Stavebného zákona.
 
+- 8aa) § 2 písm. c) zákona č. 136/2004 Z. z. o letiskových spoločnostiach a o zmene a doplnení zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení zákona č. 37/2002 Z. z.
+
+- 8ab) § 2 písm. p) prvý bod zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení zákona č. 205/2023 Z. z.
+
 - 8b) § 63 Stavebného zákona.
 
 - 8c) § 5 Stavebného zákona.
