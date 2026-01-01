@@ -1,0 +1,11 @@
+# § 51e
+
+(1) Ak sú v poraste lesné pozemky, ktoré sú predmetom osobitného obhospodarovania lesa podľa § 51d, obhospodarovateľ lesa alebo správca je povinný viesť evidenciu výnosov a nákladov na tento porast. Obhospodarovateľ lesa alebo správca rozpočíta výnosy a náklady podľa veľkosti podielu lesného pozemku, ktorý je predmetom osobitného obhospodarovania lesa, na výmere porastu. Výnosy z hospodárenia na lesných pozemkoch, ktoré sú predmetom osobitného obhospodarovania lesa, po odpočítaní nákladov na ich obhospodarovanie vedie obhospodarovateľ lesa alebo správca na osobitnom účte.
+
+(2) Vlastník lesných pozemkov, ktoré sú predmetom osobitného obhospodarovania, je povinný správcovi uhradiť náklady na obhospodarovanie týchto lesných pozemkov, ak prevyšujú výnosy z hospodárenia na nich. Správca je povinný oznámiť vlastníkovi výšku pohľadávky vyčíslenú podľa odseku 1 spravidla do 31. marca roka nasledujúcom po roku, v ktorom uplynie polovica platnosti programu starostlivosti, alebo nasledujúcom po uplynutí platnosti programu starostlivosti. Správca spolu s oznámením výšky pohľadávky vyzve vlastníka na úhradu pohľadávky v lehote, ktorá nesmie byť kratšia ako 60 dní odo dňa doručenia výzvy.
+
+(3) Ak vlastník neuhradí správcovi pohľadávku podľa odseku 2, vznikne v prospech správcu, ktorý zabezpečuje osobitné obhospodarovanie lesa, záložné právo k dotknutým lesným pozemkom; záložné právo sa zapisuje do katastra nehnuteľností podľa osobitného predpisu.<sup>75i</sup>)
+
+(4) Správca môže lesné pozemky, ktoré sú predmetom osobitného obhospodarovania lesa, na neurčitý čas prenajať alebo dať do výpožičky inej osobe; na prenájom a výpožičku sa primerane vzťahuje § 50 ods. 9. Výpovedná lehota nesmie byť dlhšia ako jeden rok. Orgán štátnej správy lesného hospodárstva zapíše nového obhospodarovateľa lesa v evidencii lesných pozemkov s poznámkou, že na lesnom pozemku je zabezpečované osobitné obhospodarovanie lesa.
+
+(5) Ak sú v poraste lesné pozemky, ktoré sú predmetom osobitného obhospodarovania lesa podľa § 51d, a osobitné obhospodarovanie lesa na základe rozhodnutia podľa § 51d ods. 5 zabezpečuje obhospodarovateľ lesa určený podľa § 51d ods. 6 písm. a), tento obhospodarovateľ lesa okrem správcu a vlastník lesných pozemkov, ktoré sú predmetom osobitného obhospodarovania, nemajú práva a povinnosti podľa odsekov 2 až 4 a § 51f ods. 2.
