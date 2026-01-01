@@ -1,1 +1,0 @@
-Branislav Gröhling v. r.
