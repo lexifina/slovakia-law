@@ -1,0 +1,7 @@
+# § 21f Otváranie ponúk
+
+(1) Vyhlasovateľ súťaže je povinný zverejniť na webovom sídle informáciu s uvedením dátumu otvárania ponúk aspoň päť pracovných dní vopred; bez splnenia tejto povinnosti nie je možné vykonať otváranie ponúk. Otváranie ponúk vykoná komisia tak, že najskôr overí neporušenosť ponúk a následne otvorí ponuky. Po otvorení ponúk sa vykonajú všetky úkony podľa tohto zákona spočívajúce vo vyhodnotení týchto ponúk, podaní vysvetlenia, doplnení ponúk, vo vyhodnotení splnenia podmienok účasti a vylúčení uchádzačov alebo vylúčení ponúk uchádzačov.
+
+(2) Vyhlasovateľ súťaže písomne oznámi uchádzačom miesto a čas otvárania ponúk, pričom lehota medzi doručením oznámenia a otváraním ponúk nesmie byť kratšia ako päť pracovných dní. Vyhlasovateľ súťaže je povinný umožniť účasť na otváraní ponúk všetkým uchádzačom, ktorí predložili ponuku v lehote na predkladanie ponúk a ktorých ponuka nebola vylúčená. Komisia overí neporušenosť ponúk a zverejní obchodné mená, sídla, miesta podnikania všetkých uchádzačov a ich návrhy na plnenie kritérií, ktoré sa dajú vyjadriť číslom, určených vyhlasovateľom súťaže na vyhodnotenie ponúk. Ostatné údaje sa nezverejňujú.
+
+(3) Vyhlasovateľ súťaže najneskôr do piatich dní odo dňa otvárania ponúk pošle všetkým uchádzačom, ktorí predložili ponuky v lehote na predkladanie ponúk a ktorých ponuka nebola vylúčená, zápisnicu z otvárania ponúk. Zápisnica obsahuje údaje zverejnené podľa odseku 2.
