@@ -11,3 +11,5 @@
 (3) Ak žiak použije komunikačný prostriedok v rozpore s odsekom 1, môže mu škola komunikačný prostriedok dočasne odobrať. Podrobnosti dočasného odobratia komunikačného prostriedku upraví školský poriadok.
 
 (4) Podmienky používania komunikačného prostriedku počas aktivít organizovaných školou mimo školského vyučovania upraví školský poriadok.
+
+(5) Pravidlá používania komunikačného prostriedku počas školského vyučovania môže upraviť materská škola, stredná škola, základná umelecká škola alebo jazyková škola v školskom poriadku.

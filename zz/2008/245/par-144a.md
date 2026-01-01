@@ -1,6 +1,6 @@
 # § 144a
 
-(1) Na podaniach týkajúcich sa výchovy a vzdelávania, o ktorých sa rozhoduje v správnom konaní, sa vyžaduje podpis oboch zákonných zástupcov dieťaťa alebo neplnoletého žiaka, ak odsek 2 neustanovuje inak.
+(1) Na podaniach týkajúcich sa výchovy a vzdelávania, o ktorých sa rozhoduje v správnom konaní, sa vyžaduje podpis oboch zákonných zástupcov dieťaťa alebo neplnoletého žiaka, ak odsek 2 neustanovuje inak; za podpis sa na účel podávania prihlášky na vzdelávanie v materskej škole, základnej škole alebo v strednej škole považuje aj vyjadrenie súhlasu v elektronickej podobe vyznačením v podregistri prijímania na vzdelávanie.
 
 (2) Podpis oboch zákonných zástupcov dieťaťa alebo neplnoletého žiaka podľa odseku 1 sa nevyžaduje, ak
 

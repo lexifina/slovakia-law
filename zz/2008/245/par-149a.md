@@ -6,7 +6,7 @@
 
 (3) Tehotenské štipendium sa priznáva na základe písomnej žiadosti žiačky podanej riaditeľovi školy, ktorej prílohou je lekárske potvrdenie o tom, že začal 27. týždeň pred očakávaným dňom pôrodu určeným lekárom.
 
-(4) O priznaní tehotenského štipendia rozhoduje riaditeľ školy.
+(4) O priznaní tehotenského štipendia rozhoduje škola.
 
 (5) Tehotenské štipendium sa priznáva od prvého dňa kalendárneho mesiaca, v ktorom bola podaná žiadosť.
 

@@ -1,17 +1,19 @@
 # § 31a
 
-(1) Základná škola určená orgánom miestnej štátnej správy v školstve môže pre fyzické osoby, ktoré nezískali nižšie stredné vzdelanie, organizovať program vzdelávania na získanie tohto stupňa vzdelania, ktorý sa končí komisionálnou skúškou na získanie nižšieho stredného vzdelania. Komisionálnu skúšku na získanie nižšieho stredného vzdelania môže fyzická osoba vykonať aj bez absolvovania programu vzdelávania na získanie nižšieho stredného vzdelania.
+(1) Základná škola môže pre fyzické osoby, ktoré skončili plnenie povinnej školskej dochádzky a
 
-(2) Fyzická osoba podáva prihlášku do programu vzdelávania podľa odseku 1 orgánu miestnej štátnej správy v školstve na formulári podľa vzoru schváleného a zverejneného ministerstvom školstva do 15. decembra.
+- a) nezískali primárne vzdelanie, organizovať program vzdelávania na získanie primárneho vzdelania, ktorý sa končí komisionálnou skúškou na získanie primárneho vzdelania, alebo
 
-(3) Do programu vzdelávania podľa odseku 1 môže byť prijatý uchádzač, ktorý absolvoval písomný test. Na základe výsledku písomného testu uchádzač absolvuje program vzdelávania podľa odseku 1 alebo vykoná komisionálnu skúšku na získanie nižšieho stredného vzdelania.
+- b) získali primárne vzdelanie, organizovať program vzdelávania na získanie nižšieho stredného vzdelania, ktorý sa končí komisionálnou skúškou na získanie nižšieho stredného vzdelania.
 
-(4) Rozsah a obsah programu vzdelávania podľa odseku 1 a požadovaný obsah písomného testu podľa odseku 3 určuje ministerstvo školstva a zverejňuje na svojom webovom sídle.
+(2) Fyzická osoba podáva prihlášku do programu vzdelávania podľa odseku 1 orgánu miestnej štátnej správy v školstve na formulári podľa vzoru schváleného a zverejneného ministerstvom školstva do 15. februára.
 
-(5) Orgán miestnej štátnej správy v školstve určí do 15. januára
+(3) Orgán miestnej štátnej správy v školstve určí do 31. marca školu, ktorá bude organizovať program vzdelávania podľa odseku 1.
 
-- a) základné školy, ktoré budú organizovať program vzdelávania podľa odseku 1 v nasledujúcom školskom roku,
+(4) Rozsah a obsah programu vzdelávania podľa odseku 1 určuje a zverejňuje na svojom webovom sídle ministerstvo školstva. Organizáciu programu vzdelávania určuje príslušná základná škola.
 
-- b) termín konania písomného testu podľa odseku 3,
+(5) Osoba, ktorá sa zúčastňuje programu vzdelávania podľa odseku 1, nie je žiakom školy. Žiakov školy a osoby zúčastňujúce sa programu vzdelávania podľa odseku 1 nemožno vzdelávať spolu v jednej triede.
 
-- c) termín konania komisionálnej skúšky na získanie nižšieho stredného vzdelania.
+(6) Najvyšší počet osôb zúčastňujúcich sa programu vzdelávania podľa odseku 1 v jednej skupine je 25.
+
+(7) Základná škola umožní na požiadanie vykonanie komisionálnej skúšky podľa odseku 1 aj bez absolvovania programu vzdelávania.

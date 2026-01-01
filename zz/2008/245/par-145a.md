@@ -18,7 +18,7 @@
 
 - f) zabezpečenie doučovania alebo cieleného učenia na dosiahnutie najvyššieho individuálneho kognitívneho potenciálu dieťaťa alebo žiaka; poskytovanie zabezpečuje základná škola, základná škola pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami, stredná škola, stredná škola pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami alebo špeciálne výchovné zariadenie,
 
-- g) skvalitnenie podmienok výchovy a vzdelávania detí a žiakov zo sociálne znevýhodneného prostredia; poskytovanie zabezpečuje škola alebo školské zariadenie,
+- g) skvalitnenie podmienok výchovy a vzdelávania detí a žiakov zo sociálne znevýhodňujúceho prostredia; poskytovanie zabezpečuje škola alebo školské zariadenie,
 
 - h) zabezpečenie vzdelávania sa vo vyučovacom predmete alebo vo vzdelávacej oblasti vo vyššom ročníku; poskytovanie zabezpečuje základná škola, základná škola pre žiakov s nadaním, stredná škola alebo stredná škola pre žiakov s nadaním,
 

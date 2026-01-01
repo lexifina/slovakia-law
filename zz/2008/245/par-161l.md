@@ -2,7 +2,7 @@
 
 (1) V lokalitách s nedostatkom priestorových kapacít materských škôl sa povinné predprimárne vzdelávanie môže poskytovať do 31. augusta 2024 aj v iných priestoroch zabezpečených zriaďovateľom, a to len so súhlasom príslušného regionálneho úradu verejného zdravotníctva a príslušného orgánu miestnej štátnej správy v školstve. Tieto priestory sa nevedú v sieti škôl a školských zariadení ako elokované pracoviská a povinné predprimárne vzdelávanie v nich poskytuje materská škola určená zriaďovateľom.
 
-(2) Podmienka absolvovania povinného predprimárneho vzdelávania sa do 31. augusta 2026 považuje za splnenú, ak dieťa, pre ktoré je predprimárne vzdelávanie povinné, navštevuje zariadenie predprimárneho vzdelávania podľa osobitného predpisu<sup>96</sup>) vedené v registri zariadení predprimárneho vzdelávania.
+(2) Podmienka absolvovania povinného predprimárneho vzdelávania sa do 31. augusta 2028 považuje za splnenú, ak dieťa, pre ktoré je predprimárne vzdelávanie povinné, navštevuje zariadenie predprimárneho vzdelávania podľa osobitného predpisu<sup>96</sup>) vedené v registri zariadení predprimárneho vzdelávania.
 
 (3) Register zariadení predprimárneho vzdelávania vedie ministerstvo školstva, ktoré je jeho správcom. Ministerstvo školstva zapíše do registra zariadení predprimárneho vzdelávania zariadenie pre deti a mládež, ak jeho zriaďovateľ predloží
 

@@ -1,8 +1,16 @@
-- 1) § 54 zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 1) Dohovor o právach osôb so zdravotným postihnutím (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 317/2010 Z. z.).
 
-- 2) Napríklad § 19 zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 19 zákona č. 314/2001 Z. z. o ochrane pred požiarmi v znení neskorších predpisov, § 142 ods. 3 zákona č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
+- 1a) Zákon č. 321/2025 Z. z. o školskej správe a o zmene a doplnení niektorých zákonov.
+
+- 2) § 19 zákona č. 314/2001 Z. z. o ochrane pred požiarmi.
+
+- § 142 ods. 3 zákona č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
 
 - 2a) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon) v znení neskorších predpisov.
+
+- 2aa) Čl. 3 ods. 2 nariadenia Európskeho parlamentu a Rady (EÚ) č. 910/2014 z 23. júla 2014 o elektronickej identifikácii a dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zrušení smernice 1999/93/ES (Ú. v. EÚ L 257, 28. 8. 2014) v platnom znení.
+
+- 2ab) Čl. 8 ods. 2 písm. a) nariadenia (EÚ) č. 910/2014 v platnom znení.
 
 - 2b) Dohovor proti diskriminácii vo vzdelávaní (Oznámenie Ministerstva zahraničných vecí a európskych záležitostí Slovenskej republiky č. 276/2024 Z. z.).
 
@@ -14,21 +22,15 @@
 
 - 4) § 424 Trestného zákona.
 
-- 5) Oznámenie Federálneho ministerstva zahraničných vecí č. 209/1992 Zb. o dojednaní Dohovoru o ochrane ľudských práv a základných slobôd a Protokolov na tento Dohovor nadväzujúcich.
-
 - 5a) § 28 ods. 2 zákona č. 61/2015 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov.
 
 - 6) Nariadenie vlády Slovenskej republiky č. 742/2004 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolania v znení neskorších predpisov.
 
 - 6aa) Zákon č. 61/2015 Z. z.
 
-- 7) § 13 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
-
 - 8) § 16 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
 - 9) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
-
-- 9a) Čl. 3 ods. 12 nariadenia Európskeho parlamentu a Rady (EÚ) č. 910/2014 z 23. júla 2014 o elektronickej identifikácii a dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zrušení smernice 1999/93/ES (Ú. v. EÚ L 257, 28. 8. 2014).
 
 - 11) Nariadenie Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) (Ú. v. EÚ L 119, 4. 5. 2016) v platnom znení.
 
@@ -40,13 +42,11 @@
 
 - 14) Zákon Národnej rady Slovenskej republiky č. 149/1995 Z. z. o posunkovej reči nepočujúcich osôb.
 
-- 14a) § 4ad zákona č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl a školských zariadení v znení zákona č. 182/2017 Z. z.
+- 14a) Zákon č. 322/2025 Z. z. o financovaní škôl a školských zariadení.
 
 - 14aa) § 4 ods. 1 zákona č. 351/2022 Z. z. o prístupnosti výrobkov a služieb pre osoby so zdravotným postihnutím a o zmene a doplnení niektorých zákonov.
 
 - 14b) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
-
-- 15) § 14 ods. 2 písm. a) a b) zákona č. 596/2003 Z. z. v znení zákona č. 475/2005 Z. z.
 
 - 15a) § 49a zákona č. 61/2015 Z. z. v znení zákona č. 413/2021 Z. z.
 
@@ -58,37 +58,17 @@
 
 - 17a) § 4 ods. 2 zákona č. 61/2015 Z. z.
 
+- 17b) § 66 zákona č. 300/2025 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov (vysokoškolský zákon).
+
 - 18) Nariadenie vlády Slovenskej republiky č. 12/2008 Z. z. o používaní profesijných titulov a ich skratiek viažucich sa na odbornú spôsobilosť na výkon zdravotníckeho povolania.
 
-- 19) § 5 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
-
-- 20) § 6 ods. 2 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
-
-- 21) § 10 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
-
-- 21a) § 11 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení zákona č. 273/2015 Z. z.
-
-- 22) § 8 ods. 1 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
-
-- 23) § 49, 50, 62 a 63 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- Zákon č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
-
-- 25) § 5 ods. 4 písm. h) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
-
-- 26) § 57 ods. 3 zákona č. 195/1998 Z. z. v znení neskorších predpisov.
+- 20) § 44 zákona č. 321/2025 Z. z.
 
 - 26a) Dohovor, ktorým sa definuje štatút Európskych škôl (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 597/2004 Z. z.).
 
-- 27) § 5 ods. 3 písm. d) a ods. 4 písm. b) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
-
 - 28) Napríklad zákon č. 221/2006 Z. z. o výkone väzby v znení zákona č. 127/2008 Z. z., zákon č. 475/2005 Z. z. o výkone trestu odňatia slobody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 28a) § 20 a 20a zákona č. 596/2003 Z. z. v znení zákona č. 415/2021 Z. z.
-
 - 29) § 2 písm. c) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 30) § 5 ods. 13 písm. e) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
 - 31) Zákon Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov.
 
@@ -96,57 +76,45 @@
 
 - 32a) Napríklad zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 24 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov, vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 527/2007 Z. z. o podrobnostiach o požiadavkách na zariadenia pre deti a mládež.
 
-- 32aa) § 5 ods. 14 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
-
 - 32ab) § 45 ods. 1 zákona č. 305/2005 Z. z. v znení neskorších predpisov.
+
+- 32ac) § 43 zákona č. 321/2025 Z. z.
 
 - 32b) § 29 ods. 2 písm. a) zákona č. 61/2015 Z. z.
 
-- 34) § 5 ods. 3 písm. a) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
-
 - 34a) § 16 ods. 2 písm. c) zákona č. 440/2015 Z. z. o športe a o zmene a doplnení niektorých zákonov.
 
-- 35) § 5 ods. 4 písm. a) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
-
-- 36) § 5 ods. 4 písm. i) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
-
-- 37) § 8 ods. 3 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
-
 - 38) § 5 ods. 10 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
+
+- 38a) § 21 zákona č. 292/2024 Z. z. o vzdelávaní dospelých a o zmene a doplnení niektorých zákonov.
 
 - 39) § 5 ods. 4 písm. l) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
 - 42) Zákon č. 302/2001 Z. z. o samospráve vyšších územných celkov (zákon o samosprávnych krajoch) v znení neskorších predpisov.
 
-- 44) § 5 ods. 4 písm. k) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
-
 - 45) Zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení zákona č. 140/2008 Z. z.
 
 - 46) § 72 zákona č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
-- 47) § 5 ods. 14 písm. a) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
+- 47) § 46 zákona č. 321/2025 Z. z.
 
 - 47a) § 19 ods. 2 písm. d) a e) zákona č. 596/2003 Z. z.
 
 - 47aa) § 17 zákona č. 61/2015 Z. z.
 
-- 47aaa) § 8a zákona č. 596/2003 Z. z. v znení zákona č. 273/2021 Z. z.
+- 47ab) § 29b ods. 1 písm. j) zákona č. 61/2015 Z. z. v znení zákona č. 324/2025 Z. z.
 
 - 47b) § 9 zákona č. 61/2015 Z. z.
 
-- 48) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon) v znení neskorších predpisov.
+- 47c) § 11 ods. 1 zákona č. 61/2015 Z. z.
 
-- 49) § 11 ods. 6 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
+- 48) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon) v znení neskorších predpisov.
 
 - 49a) § 28 ods. 2 písm. c) zákona č. 61/2015 Z. z.
 
 - 52) § 13 ods. 11 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
 - § 45 ods. 1 písm. f) zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
-
-- 53) § 13 ods. 7 písm. f) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
-
-- 54) § 13 ods. 7 písm. e) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
 - 56) § 136 ods. 1 Zákonníka práce.
 
@@ -172,9 +140,7 @@
 
 - 69) § 102 Trestného zákona.
 
-- 70) § 37 ods. 1 zákona č. 36/2005 Z. z. v znení neskorších predpisov.
-
-- § 12 zákona č. 305/2005 Z. z. v znení neskorších predpisov.
+- 70) § 54 zákona č. 36/2005 Z. z. v znení neskorších predpisov.
 
 - 71) Zákon č. 576/2004 Z. z. v znení neskorších predpisov.
 
@@ -212,7 +178,7 @@
 
 - 80d) Zákon č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 81) Napríklad zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 474/2005 Z. z. o Slovákoch žijúcich v zahraničí a o zmene a doplnení niektorých zákonov v znení zákona č. 344/2007 Z. z., zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 81) Napríklad zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 474/2005 Z. z. o Slovákoch žijúcich v zahraničí a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 82) Zákon č. 480/2002 Z. z. v znení neskorších predpisov.
 
@@ -224,8 +190,6 @@
 
 - 90aa) § 47a zákona č. 461/2003 Z. z. v znení zákona č. 426/2020 Z. z.
 
-- 91) § 2 ods. 2 Obchodného zákonníka.
-
 - 91a) § 27 ods. 1 písm. a), d), g) a l) zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
 - 91b) § 6 zákona č. 576/2004 Z. z. v znení zákona č. 2/2022 Z. z.
@@ -234,19 +198,23 @@
 
 - 91d) Zákon č. 219/2014 Z. z. v znení neskorších predpisov.
 
-- 92) Zákon č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 678/2006 Z. z.
+- 92) Zákon č. 95/2019 Z. z. o informačných technológiách vo verejnej správe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 92a) § 19 zákona č. 61/2015 Z. z.
 
 - 92b) § 53 Zákonníka práce.
 
-- 93) Napríklad zákon č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov, zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 461/2003 Z. z. v znení neskorších predpisov, zákon č. 596/2003 Z. z. v znení neskorších predpisov, zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 317/2009 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov v znení zákona č. 390/2011 Z. z.
+- 93) Napríklad zákon č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov, zákon č. 461/2003 Z. z. v znení neskorších predpisov, zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 317/2009 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov v znení zákona č. 390/2011 Z. z., zákon č. 300/2025 Z. z. a zákon č. 321/2025 Z. z.
 
-- 93a) § 31 zákona č. 596/2003 Z. z. v znení zákona č. 5/2005 Z. z.
+- 93a) Zákon č. 422/2015 Z. z. o uznávaní dokladov o vzdelaní a o uznávaní odborných kvalifikácií a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 93aaa) Zákon č. 305/2013 Z. z. v znení neskorších predpisov.
 
+- 93aaaa) Napríklad § 13 ods. 4 písm. a) prvý bod zákona č. 417/2013 Z. z. v znení neskorších predpisov, § 66 zákona č. 321/2025 Z. z.
+
 - 93aab) Napríklad zákon č. 480/2002 Z. z. v znení neskorších predpisov, zákon č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 93aac) Napríklad § 7 ods. 3 písm. w) zákona č. 327/2005 Z. z. o poskytovaní právnej pomoci osobám v materiálnej núdzi a o zmene a doplnení zákona č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 8/2005 Z. z. v znení neskorších predpisov, § 4 ods. 1 písm. g) zákona č. 332/2023 Z. z. o verejnej osobnej doprave a o zmene a doplnení niektorých zákonov.
 
 - 93b) Zákon č. 305/2013 Z. z. v znení neskorších predpisov.
 
