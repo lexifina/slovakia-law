@@ -79,3 +79,19 @@ Zákon č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 
 - (2)
 
 - Podmienky podľa § 7 ods. 2 v znení účinnom od 1. februára 2025 sa u riaditeľa vymenovaného pred 1. februárom 2025 považujú za splnené.“.
+
+- 14. Príloha č. 1 vrátane nadpisu znie:
+
+- „Príloha č. 1
+
+- k zákonu č. 125/2006 Z. z.
+
+- VZOR PREUKAZU INŠPEKTORA PRÁCE
+
+- Predná strana
+
+- ![obrázok](assets/86a412c1eaf177423f6adb992383c05c6bab9ab84ceeca3f3689e9775517c075.png)
+
+- Zadná strana“.
+
+- ![obrázok](assets/f10fba78eb83205b92f856b0bc918b218bc6c919a5dfd3816f844ae2fb27a8f7.png)
