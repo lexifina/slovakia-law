@@ -10,6 +10,98 @@ Zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákono
 
 - 4. V § 2 písm. a) siedmom bode sa slovo „alebo“ nahrádza čiarkou a za slovo „plynom“ sa vkladajú slová „alebo trh s vodíkom“.
 
+- 5. V § 2 písm. b) devätnásty bod znie:
+
+- „19.
+
+- zdieľaním elektriny využívanie elektriny aktívneho odberateľa alebo energetického spoločenstva v jeho odbernom mieste, ak ide o
+
+- 19.1.
+
+- elektrinu vyrobenú v zariadení na výrobu elektriny prevádzkovanom aktívnym odberateľom alebo energetickým spoločenstvom alebo uskladnenú v zariadení na uskladňovanie elektriny prevádzkovanom aktívnym odberateľom alebo energetickým spoločenstvom v odbernom mieste alebo odovzdávacom mieste aktívneho odberateľa alebo energetického spoločenstva alebo v inom jeho odbernom mieste alebo odovzdávacom mieste ako odbernom mieste alebo odovzdávacom mieste, kde je elektrina vyrobená alebo uskladnená,
+
+- 19.2.
+
+- elektrinu vyrobenú alebo uskladnenú a následne poskytnutú do odberného miesta alebo odovzdávacieho miesta aktívneho odberateľa alebo energetického spoločenstva iným aktívnym odberateľom alebo energetickým spoločenstvom bezodplatne alebo za odplatu,“.
+
+- 6. V § 2 písm. b) sa za devätnásty bod vkladá nový dvadsiaty bod, ktorý znie:
+
+- „20.
+
+- skupinou zdieľania skupina odberných miest a odovzdávacích miest, ktorú tvorí aspoň jedno odberné miesto a jedno odovzdávacie miesto, medzi ktorými sa zdieľa elektrina,“.
+
+  - Doterajší dvadsiaty bod až päťdesiaty tretí bod sa označujú ako dvadsiaty prvý bod až päťdesiaty štvrtý bod.
+
+- 7. V § 2 písm. b) tridsiatom bode sa za slová „určeným meradlom<sup>4</sup>)“ vkladajú slová „alebo v prípadoch podľa osobitného predpisu<sup>4ad</sup>)“ a na konci sa pripájajú tieto slová: „ak osobitný predpis neustanovuje inak<sup>4</sup>),“.
+
+  - Poznámka pod čiarou k odkazu 4ad znie:
+
+  - „<sup>4ad</sup>) Čl. 7b nariadenia Európskeho parlamentu a Rady (EÚ) 2024/1747 z 13. júna 2024, ktorým sa menia nariadenia (EÚ) 2019/942 a (EÚ) 2019/943, pokiaľ ide o zlepšenie koncepcie trhu s elektrinou v Únii (Ú. v. EÚ L, 2024/1747, 26. 6. 2024).“.
+
+- 8. V § 2 písm. b) sa za tridsiaty siedmy bod vkladá nový tridsiaty ôsmy bod, ktorý znie:
+
+- „38.
+
+- zariadením na uskladňovanie elektriny do domácnosti samostatná nabíjateľná batéria s menovitou kapacitou väčšou ako 2 kWh, ktorá je vhodná na inštaláciu a používanie v domácnosti,“.
+
+  - Doterajší tridsiaty ôsmy bod až päťdesiaty štvrtý bod sa označujú ako tridsiaty deviaty bod až päťdesiaty piaty bod.
+
+- 9. V § 2 písm. b) sa za štyridsiaty piaty bod vkladá nový štyridsiaty šiesty bod, ktorý znie:
+
+- „46.
+
+- flexibilným pripojením pripojenie zariadenia na výrobu elektriny alebo zariadenia na uskladňovanie elektriny k prenosovej sústave alebo distribučnej sústave, ktoré umožňuje obmedzenie a reguláciu dodávky elektriny do prenosovej sústavy alebo do distribučnej sústavy alebo odberov elektriny z prenosovej sústavy alebo z distribučnej sústavy,“.
+
+  - Doterajší štyridsiaty šiesty bod až päťdesiaty piaty bod sa označujú ako štyridsiaty siedmy bod až päťdesiaty šiesty bod.
+
+- 10. V § 2 písm. b) sa za štyridsiaty deviaty bod vkladajú nový päťdesiaty bod až päťdesiaty druhý bod, ktoré znejú:
+
+- „50.
+
+- zariadením na spoločné uskladňovanie elektriny zariadenie na uskladňovanie elektriny kombinované so zariadením na výrobu elektriny z obnoviteľných zdrojov energie pripojené k rovnakému miestu pripojenia do sústavy,
+
+- 51.
+
+- stanoveným výkonom dynamická informácia uložená v systéme riadenia zariadenia na uskladňovanie elektriny predpisujúca nastavený elektrický výkon, pri ktorom má zariadenie na uskladňovanie elektriny optimálne fungovať počas nabíjania alebo vybíjania na účel optimalizácie jeho stavu a prevádzkového používania,
+
+- 52.
+
+- inteligentným nabíjaním nabíjanie, pri ktorom sa intenzita elektrického výkonu dodávaného do zariadenia na uskladňovanie elektriny dynamicky prispôsobuje na základe informácií prijímaných prostredníctvom elektronickej komunikácie,“.
+
+  - Doterajší päťdesiaty bod až päťdesiaty šiesty bod sa označujú ako päťdesiaty tretí bod až päťdesiaty deviaty bod.
+
+- 11. V § 2 písm. b) päťdesiatom šiestom bode sa za slovo „ktorý“ vkladajú slová „sa zisťuje odchýlka“, vypúšťajú sa slová „organizátor krátkodobého trhu s elektrinou zisťuje odchýlku“ a slovo „odchýlku“ sa nahrádza slovom „odchýlka“.
+
+- 12. V § 2 sa písmeno b) dopĺňa šesťdesiatym bodom až šesťdesiatym šiestym bodom, ktoré znejú:
+
+- „60.
+
+- vyrovnávacím režimom podmienky vyrovnania rizík spojených s výstavbou, prevádzkou a ukončením prevádzky zariadenia na výrobu elektriny z jadrového paliva prostredníctvom vyrovnávacej platby alebo zápornej vyrovnávacej platby a spôsob určenia a úhrady týchto platieb,
+
+- 61.
+
+- vyrovnávacou cenou cena za elektrinu vyrobenú v zariadení na výrobu elektriny z jadrového paliva a dodanú do elektrizačnej sústavy Slovenskej republiky, ktorá je garantovaná oprávnenému investorovi zariadenia na výrobu elektriny z jadrového paliva na základe zmluvy o vyrovnávacom režime na výrobu elektriny z jadrového paliva,
+
+- 62.
+
+- vyrovnávacou platbou platba oprávnenému investorovi zariadenia na výrobu elektriny z jadrového paliva na dosiahnutie vyrovnávacej ceny podľa zmluvy o vyrovnávacom režime na výrobu elektriny z jadrového paliva oproti referenčnej cene elektriny,
+
+- 63.
+
+- vyrovnávacím obdobím obdobie dohodnuté pre vyrovnávací režim v zmluve o vyrovnávacom režime na výrobu elektriny z jadrového paliva,
+
+- 64.
+
+- zápornou vyrovnávacou platbou platba oprávneného investora zariadenia na výrobu elektriny z jadrového paliva podľa zmluvy o vyrovnávacom režime na výrobu elektriny z jadrového paliva pri referenčnej cene elektriny vyššej ako vyrovnávacia cena,
+
+- 65.
+
+- referenčnou cenou elektriny cena elektriny určená na základe metodiky dohodnutej v zmluve o vyrovnávacom režime na výrobu elektriny z jadrového paliva,
+
+- 66.
+
+- flexibilitou sústavy schopnosť sústavy prispôsobiť sa variabilite modelov výroby elektriny, spotreby elektriny a dostupnosti siete v príslušných trhových časových rámcoch,“.
+
 - 13. § 2 sa dopĺňa písmenom d), ktoré znie:
 
   - „d) vo vodíkovom hospodárstve
@@ -54,6 +146,30 @@ Zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákono
 
   - „12. vertikálne integrovaným plynárenským podnikom plynárenský podnik alebo skupina plynárenských podnikov alebo vodíkový podnik alebo skupina vodíkových podnikov, v ktorých je na vykonávanie kontroly priamo alebo nepriamo oprávnená tá istá osoba alebo osoby alebo ktorákoľvek z osôb vykonávajúcich spoločnú kontrolu, a kde podnik alebo skupina podnikov vykonáva najmenej jednu z činností preprava plynu, distribúcia plynu, doprava vodíka, prevádzkovanie vodíkového terminálu, prevádzkovanie zariadení na skvapalňovanie zemného plynu, uskladňovanie plynu alebo uskladňovanie vodíka a najmenej jednu z činností výroba plynu, dodávka plynu, výroba vodíka alebo dodávka vodíka,“.
 
+- 15. V § 3 písm. b) šestnástom bode sa za slovo „vykurovanie“ vkladá čiarka a slová „alebo odberateľ elektriny v domácnosti, s ktorým žije v spoločnej domácnosti fyzická osoba, ktorej životné funkcie sú závislé od odberu elektriny alebo ktorá je ťažko zdravotne postihnutá a elektrinu využíva na vykurovanie,“.
+
+- 16. V § 3 sa písmeno b) dopĺňa dvadsiatym druhým bodom a dvadsiatym tretím bodom, ktoré znejú:
+
+- „22.
+
+- oprávneným investorom v zariadení na výrobu elektriny z jadrového paliva osoba, ktorá je držiteľom povolenia na výrobu elektriny podľa tohto zákona,
+
+- 23.
+
+- správcom skupiny zdieľania osoba oprávnená konať za jednotlivých členov skupiny zdieľania,“.
+
+- 17. V § 3 písm. c) prvý bod znie:
+
+- „1.
+
+- výrobcom plynu osoba, ktorá ťaží zemný plyn, prevádzkuje ťažobnú sieť na ťažbu zemného plynu alebo vyrába obnoviteľný plyn,<sup>8a</sup>) plynné palivo s obsahom recyklovaného uhlíka<sup>8b</sup>) alebo plyn z plynného uhľovodíka podľa tohto zákona,“.
+
+  - Poznámky pod čiarou k odkazom 8a a 8b znejú:
+
+  - „<sup>8a</sup>) § 2 ods. 6 písm. m) zákona č. 309/2009 Z. z. v znení neskorších predpisov.
+
+  - <sup>8b</sup>) § 2 ods. 4 písm. b) zákona č. 309/2009 Z. z. v znení neskorších predpisov.“.
+
 - 18. V § 3 písm. c) sa vypúšťa druhý bod.
 
   - Doterajší tretí bod až sedemnásty bod sa označujú ako druhý bod až šestnásty bod vrátane podbodov.
@@ -86,6 +202,20 @@ Zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákono
 
 - distribúcia vodíka.“.
 
+- 25. V § 4 sa odsek 1 dopĺňa písmenom i), ktoré znie:
+
+- „i)
+
+- činnosť organizátora zdieľania.“.
+
+- 26. V § 4 odsek 5 znie:
+
+- „(5)
+
+- Ak ide o aktívneho odberateľa, podnikaním v energetike nie je výroba elektriny v zariadeniach s celkovým inštalovaným výkonom do 1 MW vrátane, uskladňovanie elektriny v zariadeniach na uskladňovanie elektriny s celkovým inštalovaným výkonom do 1 MW vrátane alebo dodávka elektriny. Ak ide o energetické spoločenstvo alebo komunitu vyrábajúcu energiu z obnoviteľných zdrojov, podnikaním v energetike nie je výroba elektriny v zariadeniach s celkovým inštalovaným výkonom do 1 MW vrátane, uskladňovanie elektriny v zariadeniach na uskladňovanie elektriny s celkovým inštalovaným výkonom do 1 MW vrátane, agregácia alebo dodávka elektriny a výroba alebo dodávka biometánu pre svojich členov.“.
+
+- 27. V § 4 ods. 6 sa za slová „výrobu elektriny“ vkladajú slová „alebo zdieľanú elektrinu vyrobenú alebo uskladnenú v iných priestoroch ako ich vlastných, zdieľajú vlastnú vyrobenú elektrinu v ich zariadení na výrobu elektriny alebo uskladnenú v ich zariadení na uskladňovanie elektriny“ a slová „nepresahujú príjmy z ktorejkoľvek jeho podnikateľskej činnosti.“ sa nahrádzajú slovami „nepresahujú 20 % zo súčtu príjmov z ostatných podnikateľských činností za posledné účtovné obdobie.“.
+
 - 28. V § 6 sa odsek 2 dopĺňa písmenami i) a j), ktoré znejú:
 
 - „i)
@@ -95,6 +225,12 @@ Zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákono
 - j)
 
 - distribúciu vodíka.“.
+
+- 29. V § 6 sa odsek 5 dopĺňa písmenom i), ktoré znie:
+
+- „i)
+
+- činnosť organizátora zdieľania.“.
 
 - 30. V § 7 ods. 1 písm. h) a ods. 2 písm. g) sa za slová „uskladňovanie plynu“ vkladá čiarka a slová „zariadenia na prepravu vodíka, zariadenia na distribúciu vodíka,“.
 
@@ -106,7 +242,27 @@ Zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákono
 
 - 33. V § 8 ods. 2 písm. i) sa za slová „uskladňovanie plynu“ vkladá čiarka a slová „zariadeniu na prepravu vodíka, zariadeniu na distribúciu vodíka“.
 
+- 34. V § 10 ods. 1 sa na konci prvej vety bodka nahrádza čiarkou a pripájajú sa tieto slová: „ak odsek 17 neustanovuje inak.“.
+
+- 35. V § 10 odsek 2 znie:
+
+- „(2) Úrad môže vykonať zmeny vo vydanom povolení aj z vlastného podnetu, ak
+
+  - a) sa zmenili podmienky alebo skutočnosti, na základe ktorých bolo vydané povolenie alebo
+
+  - b) povolenie bolo vydané na základe nepravdivých, neúplných alebo nesprávnych údajov predložených držiteľom povolenia.“.
+
 - 36. V § 10 ods. 4 sa na konci pripájajú tieto vety: „Za zmenu povolenia na prepravu vodíka sa nepovažuje pri osobe oprávnenej na podnikanie v energetike podľa § 4 ods. 1 písm. g) podľa § 96p ods. 1, osobe oprávnenej na podnikanie v energetike podľa § 4 ods. 1 písm. g) podľa § 96p ods. 3 a držiteľovi povolenia na podnikanie v energetike podľa § 6 ods. 2 písm. i) ani zmena účelu existujúcej prepravnej siete na prepravu vodíka, ak takúto existujúcu prepravnú sieť po zmene účelu na prepravu vodíka bude prevádzkovať takáto osoba. Za zmenu povolenia na distribúciu vodíka pri osobe oprávnenej na podnikanie podľa § 4 ods. 1 písm. h) sa nepovažuje zmena účelu existujúcej distribučnej siete na distribúciu vodíka, ak takúto existujúcu distribučnú sieť po zmene účelu na prepravu vodíka bude prevádzkovať tá istá osoba.“.
+
+- 37. V § 10 sa odsek 6 dopĺňa písmenom g), ktoré znie:
+
+- „g)
+
+- získal povolenie na základe nepravdivých, neúplných alebo nesprávnych údajov, ktoré predložil v konaní o vydanie povolenia.“.
+
+- 38. § 10 sa dopĺňa odsekom 17, ktorý znie:
+
+- „(17) Prevádzkovateľ prenosovej sústavy, prevádzkovateľ regionálnej distribučnej sústavy, prevádzkovateľ prepravnej siete alebo prevádzkovateľ distribučnej siete, do ktorej je pripojených viac ako 100 000 odberných miest, je povinný písomne požiadať úrad o vykonanie zmeny v povolení, ak sa zmenili podmienky a skutočnosti, na základe ktorých bolo povolenie vydané, do 31. marca nasledujúceho kalendárneho roka.“.
 
 - 39. V § 11 ods. 1 písm. f) sa za slová „plynárenské zariadenia“ vkladajú slová „alebo vodíkové zariadenia“ a za slová „prepravnej siete,“ vkladajú slová „vodíkovej prepravnej siete, vodíkovej distribučnej siete,“.
 
@@ -188,6 +344,10 @@ Zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákono
 
 - 50. V § 12 ods. 4 písm. b) dvanástom bode sa na konci pripájajú tieto slová: „alebo vodíkového zariadenia alebo zariadenia vodíkovej distribučnej siete pre vnútorný trh s vodíkom“.
 
+- 51. V § 12 ods. 4 písm. b) pätnástom bode sa slová „využitia systémov centralizovaného zásobovania teplom<sup>30b</sup>)“ nahrádzajú slovami „efektívneho vykurovania a chladenia,<sup>30b</sup>)“.
+
+- 52. V § 12 ods. 4 písm. b) šestnástom bode sa na konci pripájajú tieto slová: „pre nové výrobné kapacity, najmä v oblasti riadenia odberu a uskladňovania energie“.
+
 - 53. V § 12 sa odsek 5 dopĺňa písmenami g) a h), ktoré znejú:
 
 - „g)
@@ -246,9 +406,97 @@ Zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákono
 
   - <sup>32c</sup>) § 2 ods. 3 písm. o) zákona č. 309/2009 Z. z. v znení neskorších predpisov.“.
 
+- 62. V § 16 ods. 4 písm. b) sa slová „začatia výkonu činnosti,“ nahrádzajú slovami „vydania oprávnenia na podnikanie v energetike podľa § 6 ods. 1,“.
+
+- 63. V § 17 ods. 1 písm. a) prvom bode podbode 1.1. sa na konci pripája čiarka a tieto slová: „adresu elektronickej pošty dodávateľa a informácie o jeho linke zákazníckej podpory, ak linku zákazníckej podpory dodávateľ prevádzkuje,“.
+
+- 64. V § 17 ods. 1 písm. d) sa za druhý bod vkladá nový tretí bod, ktorý znie:
+
+- „3.
+
+- ak ide o zmluvu o dodávke elektriny alebo zmluvu o združenej dodávke elektriny s pevnou cenou na dobu určitú, upozornenia na výhody a riziká spojené s uzatvorením zmluvy o dodávke elektriny alebo zmluvy o združenej dodávke elektriny s pevnou cenou na dobu určitú a poučenie o nemožnosti zmeny dodávateľa elektriny pred uplynutím doby zmluvného vzťahu,“.
+
+  - Doterajší tretí bod sa označuje ako štvrtý bod.
+
+- 65. V § 17 ods. 1 sa písmeno d) dopĺňa piatym bodom, ktorý znie:
+
+- „5.
+
+- ak ide o zmluvu o dodávke elektriny alebo zmluvu o združenej dodávke elektriny, informáciu o tom, či ide o cenu pevnú, dynamickú cenu alebo cenu inak určenú a informácie o podmienkach prípadných jednorazových platieb pri uzavretí zmluvy, dodatočných službách alebo podmienkach zliav na dodávku elektriny pri uzavretí zmluvy,“.
+
+- 66. V § 17 ods. 13 sa na konci pripája táto veta:
+
+- „Aktívny odberateľ je oprávnený predložiť úradu na mimosúdne riešenie spor vyplývajúci zo zmluvy, ktorej predmetom je zdieľanie elektriny alebo zo zmluvy, ktorej predmetom je zabezpečenie zdieľania elektriny aktívneho odberateľa alebo aktívnemu odberateľovi, za podmienok a postupom ustanoveným osobitným predpisom.<sup>38</sup>)“.
+
+- 67. § 17 sa dopĺňa odsekom 21, ktorý znie:
+
+- „(21)
+
+- Práva koncového odberateľa elektriny a povinnosti ostatných účastníkov trhu s elektrinou voči koncovému odberateľovi elektriny podľa tohto paragrafu zostávajú nedotknuté aj vtedy, ak koncový odberateľ elektriny pôsobí ako aktívny odberateľ.“.
+
+- 68. V § 17b ods. 3 sa slová „podľa § 17 ods. 10“ nahrádzajú slovami „podľa § 17 ods. 11“.
+
+- 69. V § 17b ods. 4 a 5 sa slová „sú dotknuté ustanovenia § 17 ods. 10 až 12“ nahrádzajú slovami „je dotknuté ustanovenie § 17 ods. 11“.
+
+- 70. V § 17c ods. 3 sa na konci pripája táto veta:
+
+- „Dojednanie, ktoré umožňuje dodávateľovi elektriny zmeniť cenu alebo iné dohodnuté podmienky dodávky elektriny dohodnuté v zmluve o dodávke elektriny alebo v zmluve o združenej dodávke elektriny s pevnou cenou na dobu určitú, alebo vypovedať zmluvu pred uplynutím doby trvania zmluvného vzťahu zo zmluvy o dodávke elektriny alebo zmluvy o združenej dodávke elektriny s pevnou cenou na dobu určitú bez toho, aby koncový odberateľ elektriny porušil povinnosti koncového odberateľa elektriny podľa takej zmluvy, je neplatné.“.
+
+- 71. V § 17c ods. 4 prvej vete sa za slovo „určitú“ vkladá čiarka a slová „vrátane zmluvy o dodávke elektriny alebo zmluvy o združenej dodávke elektriny s pevnou cenou na dobu určitú,“.
+
+- 72. V § 17c odsek 5 znie:
+
+- „(5)
+
+- Ak odberateľ elektriny v domácnosti alebo odberateľ plynu v domácnosti uzatvorí zmluvu o dodávke elektriny, zmluvu o združenej dodávke elektriny, zmluvu o dodávke plynu alebo zmluvu o združenej dodávke plynu na dobu určitú, vrátane zmluvy o dodávke elektriny alebo zmluvy o združenej dodávke elektriny s pevnou cenou na dobu určitú, a zmluva obsahuje dojednanie, ktoré umožňuje obnoviť zmluvu alebo predĺžiť trvanie zmluvného vzťahu bez výslovného prejavu vôle odberateľa elektriny v domácnosti alebo odberateľa plynu v domácnosti, je dodávateľ elektriny alebo dodávateľ plynu povinný najskôr tri mesiace a najneskôr jeden mesiac pred uplynutím doby trvania zmluvného vzťahu informovať odberateľa elektriny v domácnosti alebo odberateľa plynu v domácnosti o blížiacom sa zániku zmluvného vzťahu. V rovnakej lehote je dodávateľ elektriny alebo dodávateľ plynu povinný oznámiť odberateľovi elektriny v domácnosti alebo odberateľovi plynu v domácnosti pre ďalšie trvanie zmluvného vzťahu
+
+- a)
+
+- výšku ceny za dodávku elektriny alebo plynu alebo spôsob jej určenia,
+
+- b)
+
+- informáciu o tom, či ide o cenu pevnú, dynamickú cenu alebo cenu inak určenú,
+
+- c)
+
+- informácie o podmienkach prípadných jednorazových platieb pred uzatvorením zmluvy alebo pri predĺžení trvania zmluvného vzťahu, dodatočných službách alebo podmienkach zliav na dodávku elektriny pred uzatvorením zmluvy alebo pri predĺžení trvania zmluvného vzťahu,
+
+- d)
+
+- platobné podmienky,
+
+- e)
+
+- výšku zmluvnej pokuty alebo iného finančného plnenia pre prípad porušenia povinnosti odoberať elektrinu alebo plyn v rámci dohodnutej doby alebo spôsob ich určenia a
+
+- f)
+
+- dobu trvania, na ktorú sa zmluvný vzťah predlžuje.“.
+
+- 73. V § 17c sa za odsek 5 vkladajú nové odseky 6 a 7, ktoré znejú:
+
+- „(6)
+
+- Ak zmluva dohodnutá s odberateľom elektriny v domácnosti alebo odberateľom plynu v domácnosti odkazuje na obchodné podmienky dodávateľa elektriny alebo dodávateľa plynu, poskytne dodávateľ elektriny alebo dodávateľ plynu súčasne s oznámením podmienok pre ďalšie trvanie zmluvného vzťahu podľa odseku 5 tomuto odberateľovi elektriny v domácnosti alebo odberateľovi plynu v domácnosti znenie týchto obchodných podmienok alebo odkaz na webové sídlo, kde sú obchodné podmienky uverejnené. Súčasťou oznámenia je poučenie o práve odberateľa elektriny v domácnosti alebo odberateľa plynu v domácnosti ukončiť zmluvný vzťah podľa odseku 7.
+
+- (7)
+
+- Odberateľ elektriny v domácnosti alebo odberateľ plynu v domácnosti má právo ukončiť zmluvný vzťah prejavom vôle urobeným najneskôr do 15. dňa po doručení informácie od dodávateľa elektriny alebo dodávateľa plynu podľa odseku 5. Ak dodávateľ elektriny alebo dodávateľ plynu neinformuje odberateľa elektriny v domácnosti alebo odberateľa plynu v domácnosti podľa odseku 5, mení sa zmluva po uplynutí doby trvania zmluvného vzťahu na zmluvu uzatvorenú na dobu neurčitú.“.
+
+  - Doterajšie odseky 6 až 10 sa označujú ako odseky 8 až 12.
+
+- 74. V § 17c ods. 11 celom texte sa slová „7 a 8“ nahrádzajú slovami „9 a 10“.
+
 - 75. V § 17d ods. 9 druhá veta znie:
 
 - „Zmena dodávateľa elektriny, agregátora a dodávateľa plynu sa vykoná najneskôr do troch týždňov od prijatia žiadosti koncového odberateľa a zároveň najneskôr od 1. januára 2026 sa technický proces zmeny dodávateľa elektriny, agregátora a dodávateľa plynu vykoná v ktorýkoľvek pracovný deň najneskôr do 24 hodín.“.
+
+- 76. V § 18 ods. 2 sa slovo „troch“ nahrádza slovom „šiestich“.
+
+- 77. V § 18 ods. 13 sa za slovo „inštancie“ vkladajú slová „a rozsah informácií poskytovaných dodávateľom poslednej inštancie ostatným účastníkom trhu alebo uverejňovaných dodávateľom poslednej inštancie pri začatí dodávky poslednej inštancie“.
+
+- 78. V § 18a ods. 6 sa slovo „troch“ nahrádza slovom „šiestich“.
 
 - 79. V § 19 odsek 1 znie:
 
@@ -278,6 +526,12 @@ Zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákono
 
 - riadenia vodíkovej prepravnej siete a vodíkovej distribučnej siete.“.
 
+- 82. V § 19 sa odsek 2 dopĺňa písmenom n), ktoré znie:
+
+- „n)
+
+- inštalácie a minimálnych funkcionalít zariadenia na riadenie výkonu zariadení na výrobu elektriny alebo zariadení na uskladňovanie elektriny pri flexibilnom pripojení a podmienky certifikácie takého zariadenia na riadenie výkonu.“.
+
 - 83. V § 19 ods. 3 prvej vete sa slová „bezpečnosti sústavy a siete“ nahrádzajú slovami „bezpečnosti sústavy, siete, vodíkovej prepravnej siete a vodíkovej distribučnej siete“ a na konci sa pripájajú tieto slová: „a na prístup a prevádzkovanie vodíkovej prepravnej siete a vodíkovej distribučnej siete“.
 
 - 84. V § 19 odsek 4 znie:
@@ -302,6 +556,16 @@ Zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákono
 
 - Prevádzkovateľ sústavy, prevádzkovateľ siete, prevádzkovateľ vodíkovej prepravnej siete a prevádzkovateľ vodíkovej distribučnej siete môže odmietnuť prístup do sústavy, siete, vodíkovej prepravnej siete a vodíkovej distribučnej siete z dôvodu nedostatočnej kapacity sústavy, siete, vodíkovej prepravnej siete a vodíkovej distribučnej siete alebo z dôvodu hrozby vážnej ekonomickej ujmy a vážnych ekonomických ťažkostí v súvislosti so zmluvami o dodávke plynu s pevne dohodnutým objemom dodávky a s povinnosťou zaplatiť bez ohľadu na odobraté množstvo plynu. Pri odmietnutí prístupu do sústavy, siete, vodíkovej prepravnej siete a vodíkovej distribučnej siete je prevádzkovateľ sústavy, prevádzkovateľ siete, prevádzkovateľ vodíkovej prepravnej siete a prevádzkovateľ vodíkovej distribučnej siete povinný prihliadať na plnenie povinností vo všeobecnom hospodárskom záujme a na ochranu práv odberateľov. Každé odmietnutie prístupu do sústavy, siete, vodíkovej prepravnej siete a vodíkovej distribučnej siete musí byť odôvodnené.“.
 
+- 90. § 19 sa dopĺňa odsekmi 13 a 14, ktoré znejú:
+
+- „(13)
+
+- Ak nemožno pripojiť zariadenie na výrobu elektriny alebo zariadenie na uskladňovanie elektriny z dôvodu nedostatku potrebnej kapacity pripojenia v sústave alebo ak je možné pripojiť také zariadenie len s nižším ako požadovaným výkonom a ak takéto pripojenie neohrozí bezpečnú a spoľahlivú prevádzku sústavy, umožní prevádzkovateľ sústavy uzatvorenie zmluvy o flexibilnom pripojení a pripojení zariadenia na výrobu elektriny alebo zariadenia na uskladňovanie elektriny s možnosťou obmedzenia využitia kapacity pripojenia v rozsahu a za podmienok dohodnutých v zmluve o flexibilnom pripojení a technických podmienkach pripojenia do sústavy bez náhrady za také obmedzenie využitia kapacity pripojenia. Prevádzkovateľ sústavy nie je povinný pripojiť zariadenie na výrobu elektriny alebo zariadenie na uskladňovanie elektriny do prenosovej sústavy alebo distribučnej sústavy, ak žiadateľ o pripojenie nenainštaloval zariadenie na riadenie výkonu zariadenia na výrobu elektriny, zariadenia na uskladňovanie elektriny alebo odberného elektrického zariadenia za podmienok určených v technických podmienkach pripojenia k sústave.
+
+- (14)
+
+- Prevádzkovateľ sústavy je povinný informovať žiadateľa o pripojenie o opatreniach, ktoré je potrebné vykonať v ním prevádzkovanej sústave a predpokladaných lehotách ich vykonania, aby mohol výrobca elektriny alebo prevádzkovateľ zariadenia na uskladňovanie elektriny využiť právo na pripojenie zariadenia k prenosovej sústave alebo distribučnej sústave bez možnosti obmedzenia kapacity pripojenia do prenosovej sústavy alebo distribučnej sústavy. Prevádzkovateľ sústavy je povinný umožniť výrobcovi elektriny alebo prevádzkovateľovi zariadenia na uskladňovanie elektriny zmeniť flexibilné pripojenie na pripojenie bez možnosti obmedzenia kapacity pripojenia do prenosovej sústavy alebo distribučnej sústavy bez náhrady po vykonaní opatrení podľa prvej vety, ak nejde o flexibilné pripojenie v oblasti alebo časti prenosovej sústavy alebo distribučnej sústavy, kde prípadná výstavba alebo modernizácia prenosovej sústavy alebo distribučnej sústavy pre umožnenie zmeny flexibilného pripojenia na pripojenie bez možnosti obmedzenia kapacity nie je nákladovo účelná. Postup zmeny pripojenia a pravidlá vyhodnocovania a posudzovania nákladovej účelnosti upravujú pravidlá trhu.“.
+
 - 91. V § 19a ods. 1 sa slová „prevádzkovateľovi siete alebo prevádzkovateľovi zásobníka“ nahrádzajú slovami „prevádzkovateľovi siete, prevádzkovateľovi zásobníka, prevádzkovateľovi vodíkovej prepravnej siete alebo prevádzkovateľovi vodíkovej distribučnej siete“ a slová „prevádzkovateľ siete alebo prevádzkovateľ zásobníka“ sa nahrádzajú slovami „prevádzkovateľ siete, prevádzkovateľ zásobníka, prevádzkovateľ vodíkovej prepravnej siete alebo prevádzkovateľ vodíkovej distribučnej siete“.
 
 - 92. V § 19a ods. 2 sa slová „prevádzkovateľ siete alebo prevádzkovateľ zásobníka“ nahrádzajú slovami „prevádzkovateľ siete, prevádzkovateľ zásobníka, prevádzkovateľ vodíkovej prepravnej siete alebo prevádzkovateľ vodíkovej distribučnej siete“.
@@ -309,6 +573,14 @@ Zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákono
 - 93. V § 19a ods. 3 sa slovo „alebo“ nahrádza čiarkou a za slová „prevádzkovateľ zásobníka“ sa vkladá čiarka a slová „prevádzkovateľ vodíkovej prepravnej siete alebo prevádzkovateľ vodíkovej distribučnej siete“.
 
 - 94. V § 19a ods. 4 celom texte sa slová „prevádzkovateľ siete alebo prevádzkovateľ zásobníka“ nahrádzajú slovami „prevádzkovateľ siete, prevádzkovateľ zásobníka, prevádzkovateľ vodíkovej prepravnej siete alebo prevádzkovateľ vodíkovej distribučnej siete“.
+
+- 95. V § 20 ods. 4 sa za písmeno b) vkladá nové písmeno c), ktoré znie:
+
+- „c)
+
+- prerušenie výroby elektriny,“.
+
+  - Doterajšie písmená c) až g) sa označujú ako písmená d) až h).
 
 - 96. V § 21 ods. 5 písm. d) sa slová „bodov 15.2 a 15.9“ nahrádzajú slovami „bodov 14.2. a 14.9.“.
 
@@ -329,6 +601,350 @@ Zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákono
 - Ministerstvo pri rozhodovaní o náhrade určenej podľa odseku 2 prihliada na stanovisko Ministerstva financií Slovenskej republiky, pričom úhrada takejto náhrady nemôže byť určená na neskôr ako posledný deň kalendárneho roka nasledujúceho po kalendárnom roku, v ktorom došlo k vydaniu rozhodnutia podľa odseku 2. Ministerstvo uhradí poskytovateľovi povinnosti náhradu za čisté náklady povinnosti vo všeobecnom hospodárskom záujme v časovom období uvedenom vo výroku rozhodnutia podľa odseku 2 v sume rovnajúcej sa súčtu čistých nákladov povinnosti vo všeobecnom hospodárskom záujme, alebo v sume rovnajúcej sa rozdielu súčtu čistých nákladov povinnosti vo všeobecnom hospodárskom záujme a náhrad vyplývajúcich z osobitných dohôd uzavretých medzi poskytovateľom povinnosti, Ministerstvom financií Slovenskej republiky a ministerstvom.“.
 
 - 103. V § 24c ods. 4 sa slová „Ministerstvom financií Slovenskej republiky“ nahrádzajú slovami „s prihliadnutím na stanovisko Ministerstva financií Slovenskej republiky ministerstvom“.
+
+- 104. V § 26 ods. 4 a 5 sa na konci pripájajú tieto slová: „a, ak je uzatvorená zmluva o flexibilnom pripojení, rozsah a podmienky obmedzovania využitia rezervovanej kapacity pre prístup do sústavy bez náhrady za takéto obmedzenie.“.
+
+- 105. V § 26 sa za odsek 21 vkladajú nové odseky 22 až 27, ktoré znejú:
+
+- „(22)
+
+- Zmluvou o vyhodnotení zdieľania elektriny sa správca skupiny zdieľania zaväzuje poskytovať organizátorovi krátkodobého trhu s elektrinou údaje potrebné na registráciu priradenia odberných miest a odovzdávacích miest ku skupine zdieľania a pre vyhodnotenie zdieľania elektriny v rozsahu a termínoch podľa pravidiel trhu a prevádzkového poriadku organizátora krátkodobého trhu s elektrinou a organizátor krátkodobého trhu s elektrinou sa zaväzuje údaje spracúvať, vyhodnotiť zdieľanie elektriny a sprístupniť namerané údaje a údaje po vyhodnotení aktivovanej flexibility správcovi skupiny zdieľania, spôsobom podľa pravidiel trhu a prevádzkového poriadku organizátora krátkodobého trhu s elektrinou.
+
+- (23)
+
+- Zmluvou o flexibilnom pripojení do prenosovej sústavy sa zaväzuje prevádzkovateľ prenosovej sústavy po splnení obchodných podmienok a technických podmienok pripojiť do prenosovej sústavy zariadenie žiadateľa na výrobu, uskladňovanie, distribúciu alebo odber elektriny a zabezpečiť dohodnuté technické dimenzovanie pripojenia do prenosovej sústavy a kapacitu pripojenia do prenosovej sústavy vo výške podľa zmluvy, ktorej využitie môže prevádzkovateľ prenosovej sústavy obmedzovať za určených alebo dohodnutých podmienok riadenia prenosovej sústavy, a to bez náhrady za takéto obmedzenie, a žiadateľ sa zaväzuje uhradiť určený podiel nákladov vyvolaných u prevádzkovateľa prenosovej sústavy pripojením elektroenergetického zariadenia; technickým dimenzovaním pripojenia do prenosovej sústavy je technologické dimenzovanie zariadenia na pripojenie výrobcu, odberateľa, prevádzkovateľa zariadenia na uskladňovanie elektriny alebo prevádzkovateľa distribučnej sústavy do prenosovej sústavy, ktoré sa určí pre každé jednotlivé miesto pripojenia, v súlade s pravidlami trhu. Kapacitou pripojenia do prenosovej sústavy je využiteľnosť technického dimenzovania pripojenia v každom jednotlivom mieste pripojenia do prenosovej sústavy v súlade s pravidlami trhu. Obmedzovanie dohodnutej kapacity pripojenia sa pri odbere elektriny môže týkať len odberu elektriny pre zariadenia na uskladňovanie elektriny.
+
+- (24)
+
+- Zmluvou o flexibilnom pripojení do distribučnej sústavy sa zaväzuje prevádzkovateľ distribučnej sústavy zabezpečiť v sústave kapacitu na pripojenie v zmluvne dohodnutej výške a po splnení obchodných podmienok a technických podmienok pripojiť k distribučnej sústave zariadenie žiadateľa na výrobu, uskladňovanie, distribúciu alebo odber elektriny a zabezpečiť dohodnutú kapacitu vo výške podľa zmluvy, ktorej využitie môže prevádzkovateľ distribučnej sústavy obmedzovať za určených alebo dohodnutých podmienok riadenia distribučnej sústavy, a to bez náhrady za takéto obmedzenie, a žiadateľ sa zaväzuje uhradiť cenu za pripojenie. Obmedzovanie dohodnutej kapacity sa pri odbere elektriny môže týkať len odberu elektriny pre zariadenia na uskladňovanie elektriny.
+
+- (25)
+
+- Zmluvou o dodávke elektriny s pevnou cenou na dobu určitú sa zaväzuje dodávateľ elektriny dodávať elektrinu v dohodnutom množstve a v dohodnutom časovom priebehu výkonu odberateľovi elektriny a odberateľ elektriny sa zaväzuje zaplatiť dodávateľovi elektriny cenu za dodanú elektrinu. Cena za dodanú elektrinu je dohodnutá v pevnej výške po dobu trvania záväzku dodávky elektriny za dohodnutých podmienok, ktoré sa nemenia po dobu trvania záväzku dodávky elektriny a ktorá nie je cenou regulovanou úradom podľa osobitného predpisu.<sup>2</sup>) Súčasťou zmluvy o dodávke elektriny s pevnou cenou na dobu určitú môže byť aj dojednanie o poskytnutí flexibility.
+
+- (26)
+
+- Zmluvou o združenej dodávke elektriny s pevnou cenou na dobu určitú sa zaväzuje dodávateľ elektriny dodávať koncovému odberateľovi elektrinu vymedzenú množstvom a časovým priebehom výkonu, zabezpečiť distribúciu elektriny do odberného miesta odberateľa vrátane súvisiacich služieb a prevziať za odberateľa zodpovednosť za odchýlku a koncový odberateľ elektriny sa zaväzuje zaplatiť dodávateľovi elektriny cenu za dodanú elektrinu a za distribúciu elektriny a súvisiace služby. Cena za dodanú elektrinu je dohodnutá v pevnej výške po dobu trvania záväzku dodávky elektriny za dohodnutých podmienok, ktoré sa nemenia po dobu trvania záväzku dodávky elektriny a ktorá nie je cenou regulovanou úradom podľa osobitného predpisu.<sup>2</sup>) Súčasťou zmluvy o združenej dodávke elektriny s pevnou cenou na dobu určitú môže byť aj dojednanie o poskytnutí flexibility.
+
+- (27)
+
+- Zmluvou o vyrovnávacom režime na výrobu elektriny z jadrového paliva sa Slovenská republika, za ktorú koná ministerstvo, zaväzuje, ak povinnosť úhrady vyrovnávacej platby plní ministerstvo prostredníctvom zúčtovateľa podpory, prostredníctvom zúčtovateľa podpory oprávnenému investorovi uhradiť vyrovnávaciu platbu za výrobu elektriny z jadrového paliva a oprávnený investor sa zaväzuje zabezpečiť zariadenie na výrobu elektriny z jadrového paliva, vyrábať elektrinu z jadrového paliva a dodávať ju do elektrizačnej sústavy Slovenskej republiky po dohodnutú dobu. Zmluva o vyrovnávacom režime na výrobu elektriny z jadrového paliva musí obsahovať podmienky úhrady vyrovnávacej platby a vzájomné práva a povinnosti na zabezpečenie výroby a dodávky elektriny zo zariadenia na výrobu elektriny z jadrového paliva do elektrizačnej sústavy Slovenskej republiky.“.
+
+  - Doterajší odsek 22 sa označuje ako odsek 28.
+
+- 106. V § 26 ods. 28 sa slová „odsekov 1 až 21“ nahrádzajú slovami „odsekov 1 až 27“.
+
+- 107. Za § 26 sa vkladá § 26a, ktorý vrátane nadpisu znie:
+
+- „§ 26a
+
+- Podpora výroby elektriny z jadrového paliva
+
+- (1)
+
+- Podpora výroby elektriny z jadrového paliva sa zabezpečuje prostredníctvom zmluvy o vyrovnávacom režime na výrobu elektriny z jadrového paliva.
+
+- (2)
+
+- Na základe rozhodnutia vlády ministerstvo najneskôr do šiestich rokov odo dňa vydania povolenia na výrobu elektriny z jadrového paliva podľa tohto zákona oprávnenému investorovi zariadenia na výrobu elektriny z jadrového paliva predloží oprávnenému investorovi návrh na uzavretie zmluvy o vyrovnávacom režime na výrobu elektriny z jadrového paliva, pričom táto zmluva nenadobudne účinnosť skôr ako 17. júla 2027.
+
+- (3)
+
+- Za Slovenskú republiku koná pri uzatváraní zmluvy o vyrovnávacom režime na výrobu elektriny z jadrového paliva a plnení práv a povinností z tejto zmluvy ministerstvo.
+
+- (4)
+
+- Zmluva o vyrovnávacom režime na výrobu elektriny z jadrového paliva musí mať písomnú formu a obsahuje
+
+- a)
+
+- identifikačné údaje oprávneného investora zariadenia na výrobu elektriny z jadrového paliva,
+
+- b)
+
+- podmienky vyrovnávacieho režimu vrátane metodiky na určenie referenčnej ceny elektriny,
+
+- c)
+
+- spôsob zabezpečenia pre prípad neplnenia zmluvy, pravidlá jej zmeny a ukončenia,
+
+- d)
+
+- počiatočnú výšku vyrovnávacej ceny a dôvody pre následné zmeny výšky vyrovnávacej ceny, pravidlá preverenia jej primeranosti ministerstvom do piatich rokov od začiatku dodávky elektriny zo zariadenia na výrobu elektriny z jadrového paliva do elektrizačnej sústavy Slovenskej republiky a potom pravidelne aspoň raz za päť rokov,
+
+- e)
+
+- určenie vyrovnávacieho obdobia pre vyrovnávací režim pre zariadenia na výrobu elektriny z jadrového paliva,
+
+- f)
+
+- určenie pravidiel, termínov a lehôt na vyhodnocovanie a zúčtovanie podpory zariadenia na výrobu elektriny z jadrového paliva vrátane lehoty na výpočet vyrovnávacej platby a zápornej vyrovnávacej platby, lehoty na úhradu vyrovnávacej platby a lehoty na úhradu zápornej vyrovnávacej platby,
+
+- g)
+
+- špecifikáciu údajov potrebných na riadne plnenie zmluvy a rozsah podkladov predkladaných ministerstvu a zúčtovateľovi podpory, ak povinnosť úhrady vyrovnávacej platby plní ministerstvo prostredníctvom zúčtovateľa podpory.
+
+- (5)
+
+- Zmluva o vyrovnávacom režime na výrobu elektriny z jadrového paliva sa uzatvára najmenej na dobu 30 rokov s možnosťou jej predĺženia o najmenej 10 rokov, a to aj opakovane, najdlhšie však do ukončenia prevádzky zariadenia na výrobu elektriny z jadrového paliva. Na uzavretie zmluvy o vyrovnávacom režime na výrobu elektriny z jadrového paliva alebo jej predĺženie sa vyžaduje schválenie návrhu zmluvy vládou.
+
+- (6)
+
+- Vyrovnávaciu platbu je ministerstvo povinné uhradiť oprávnenému investorovi zariadenia na výrobu elektriny z jadrového paliva v lehote dohodnutej v zmluve o vyrovnávacom režime na výrobu elektriny z jadrového paliva. Ministerstvo je oprávnené uhradiť vyrovnávaciu platbu prostredníctvom zúčtovateľa podpory.
+
+- (7)
+
+- Zápornú vyrovnávaciu platbu za príslušné vyrovnávacie obdobie je oprávnený investor zariadenia na výrobu elektriny z jadrového paliva povinný uhradiť ministerstvu alebo zúčtovateľovi podpory, ak ministerstvo plní povinnosť úhrady vyrovnávacej platby prostredníctvom zúčtovateľa podpory, najneskôr v lehote určenej v zmluve o vyrovnávacom režime na výrobu elektriny z jadrového paliva.“.
+
+- 108. V § 27 ods. 2 písm. c), § 27a ods. 2 písm. c), § 31 ods. 2 písm. g), § 34 ods. 2 písm. a), § 34a ods. 2 písm. a), § 35 ods. 3 písm. a) a § 35a ods. 2 sa slová „§ 15 ods. 8“ nahrádzajú slovami „§ 15 ods. 9“.
+
+- 109. V § 27 ods. 2 písm. h), § 27a ods. 2 písm. h) a § 28 ods. 1 písm. j) sa za slová „technických podmienok“ vkladajú slová „a prevádzkového poriadku“.
+
+- 110. V § 28 ods. 2 písm. n) sa slovo „regulačný“ nahrádza slovom „disponibilný“.
+
+- 111. V § 28 ods. 3 písm. b) sa na konci čiarka nahrádza bodkočiarkou a pripájajú sa tieto slová: „prevádzkovateľ prenosovej sústavy zohľadní výsledky posúdenia podľa § 31 ods. 2 písm. ae) pri plánovaní rozvoja sústavy, investíciách do sústavy a vývoji infraštruktúry na vymedzenom území,“.
+
+- 112. V § 28 sa odsek 3 dopĺňa písmenom an), ktoré znie:
+
+- „an)
+
+- vypracovať v spolupráci s prevádzkovateľmi distribučných sústav správu o odhadovaných potrebách flexibility sústavy na vnútroštátnej úrovni podľa osobitného predpisu.<sup>55b</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 55b znie:
+
+  - „<sup>55b</sup>) Čl. 2 ods. 9 nariadenia (EÚ) 2024/1747.“.
+
+- 113. V § 29 sa odsek 2 dopĺňa písmenom d), ktoré znie:
+
+- „d)
+
+- uvádza oblasti alebo časti prenosovej sústavy, do ktorých sa umožňuje flexibilné pripojenie, kde sa nepovažuje vybudovanie alebo modernizácia prenosovej sústavy pre umožnenie pripojenia bez obmedzovania využitia pripojovacej kapacity za nákladovo účelné, a vyhodnotenie nákladovej účelnosti vybudovania alebo modernizácie prenosovej sústavy podľa pravidiel trhu.“.
+
+- 114. V § 29 ods. 7 sa za slová „odseku 5“ vkladajú slová „alebo požiadavky na výstavbu alebo modernizáciu prenosovej sústavy pre umožnenie zmeny flexibilného pripojenia na pripojenie bez obmedzovania využitia pripojovacej kapacity bez náhrady v prípadoch, kedy to je nákladovo účelné“.
+
+- 115. V § 31 ods. 2 písm. b) sa na konci pripájajú tieto slová: „bez zvýhodňovania podnikov, ktoré sú členmi rovnakého vertikálne integrovaného podniku ako prevádzkovateľ distribučnej sústavy,“.
+
+- 116. V § 31 ods. 2 písm. c) sa za slovo „záujme“ vkladajú slová „a bez zvýhodňovania podnikov, ktoré sú členmi rovnakého vertikálne integrovaného podniku ako prevádzkovateľ distribučnej sústavy“.
+
+- 117. V § 31 ods. 2 písm. ae) sa slovo „posúdiť“ nahrádza slovami „v spolupráci s držiteľmi povolenia na výrobu tepla a rozvod tepla<sup>60aa</sup>) posúdiť“, za slovo „ministerstvu“ sa vkladajú slová „a prevádzkovateľovi prenosovej sústavy“ a na konci sa čiarka nahrádza bodkočiarkou a pripájajú tieto slová: „prevádzkovateľ distribučnej sústavy zohľadní výsledky posúdenia pri plánovaní rozvoja sústavy, pri investíciách do sústavy a vývoji infraštruktúry na časti vymedzeného územia,“.
+
+- 118. V § 31 sa odsek 2 dopĺňa písmenom ah), ktoré znie:
+
+- „ah)
+
+- spolupracovať s prevádzkovateľom prenosovej sústavy na vypracovaní správy o odhadovaných potrebách flexibility sústavy na vnútroštátnej úrovni podľa osobitného predpisu.<sup>55b</sup>)“.
+
+- 119. V § 31 ods. 3 písm. j) sa za slová „technických podmienok“ vkladajú slová „a prevádzkového poriadku“.
+
+- 120. V § 31 ods. 3 písm. p) siedmom bode sa za slovo „postihnutá,<sup>8</sup>)“ vkladajú slová „v rozsahu podľa prvého bodu, druhého bodu a štvrtého bodu,“.
+
+- 121. V § 31 ods. 3 sa písmeno p) dopĺňa ôsmym bodom, ktorý znie:
+
+- „8.
+
+- identifikačné údaje fyzickej osoby, ktorá žije s odberateľom elektriny v spoločnej domácnosti, ktorej životné funkcie sú závislé od odberu elektriny alebo ktorá je ťažko zdravotne postihnutá, a elektrinu využíva na vykurovanie, v rozsahu podľa prvého bodu, druhého bodu a štvrtého bodu, ak ide o závislého odberateľa elektriny v domácnosti,“.
+
+- 122. V § 31 ods. 4 sa za slová „§ 95 ods. 2 písm. k),“ vkladajú slová „neuvádza časti distribučnej sústavy, do ktorých prevádzkovateľ distribučnej sústavy umožňuje flexibilné pripojenie, s vymedzením potrebného vybudovania alebo zmodernizovania týchto častí distribučnej sústavy umožňujúcich zmeny flexibilného pripojenia na pripojenie bez obmedzovania využitia pripojovacej kapacity, alebo vyhodnotenie neúčelnosti výstavby alebo modernizácie distribučnej sústavy,“.
+
+- 123. V § 31 odsek 15 znie:
+
+- „(15)
+
+- Ak je miestna distribučná sústava pripojená do prenosovej sústavy alebo regionálnej distribučnej sústavy priamo alebo prostredníctvom jednej alebo viacerých miestnych distribučných sústav, zariadenie na výrobu elektriny vrátane lokálneho zdroja<sup>61b</sup>) možno do miestnej distribučnej sústavy pripojiť na základe zmluvy o pripojení do prenosovej sústavy alebo zmluvy o pripojení do regionálnej distribučnej sústavy uzatvorenej medzi prevádzkovateľom prenosovej sústavy alebo prevádzkovateľom regionálnej distribučnej sústavy a prevádzkovateľom miestnej distribučnej sústavy. Prevádzkovateľ prenosovej sústavy alebo prevádzkovateľ regionálnej distribučnej sústavy je povinný uzatvoriť zmluvu podľa prvej vety, ak sú splnené technické podmienky a obchodné podmienky pripojenia do sústavy.“.
+
+- 124. § 31 sa dopĺňa odsekmi 16 a 17, ktoré znejú:
+
+- „(16)
+
+- Prevádzkovateľ distribučnej sústavy na svojom webovom sídle zverejňuje a aspoň raz za tri kalendárne mesiace k prvému dňu kalendárneho štvrťroku aktualizuje údaje o dostupnej kapacite v distribučnej sústave, výpočte dostupnej kapacity v distribučnej sústave a informácie o podmienkach rezervácie distribučnej kapacity a informácie o podávaní žiadostí o pripojenie, podmienkach podávania žiadostí o pripojenie k distribučnej sústave a predkladania požadovaných dokladov k žiadosti o pripojenie v elektronickej podobe. Prevádzkovateľ distribučnej sústavy zverejňuje na svojom webovom sídle mapu alebo tabuľku, ktorá obsahuje aspoň nasledujúce informácie o možnostiach pripojenia k distribučnej sústave:
+
+- a)
+
+- pre napäťovú úroveň veľmi vysokého napätia a vysokého napätia údaje o dostupnej kapacite elektrických staníc s transformáciou veľmi vysokého napätia na vysoké napätie v ním prevádzkovanej distribučnej sústave,
+
+- b)
+
+- pre napäťovú úroveň nízkeho napätia údaje o dostupnej kapacite elektrických staníc s transformáciou vysokého napätia na nízke napätie v ním prevádzkovanej distribučnej sústave,
+
+- c)
+
+- vymedzenie elektrických staníc s transformáciou veľmi vysokého napätia na vysoké napätie, kde je možné pripojenie do sústavy vysokého napätia len na základe zmluvy o flexibilnom pripojení s uvedením podmienok flexibilného pripojenia.
+
+- (17)
+
+- Prevádzkovateľ miestnej distribučnej sústavy zverejňuje informácie podľa odseku 16 najmenej raz za rok k 1. januáru kalendárneho roka.“.
+
+- 125. V § 34 sa odsek 1 dopĺňa písmenom h), ktoré znie:
+
+- „h)
+
+- na informáciu o spôsobe alokácie zdieľanej elektriny do odberných miest priradených do skupiny zdieľania, v ktorých zabezpečuje dodávku elektriny, súhrnnú informáciu o spôsobe alokácie zdieľanej elektriny a hodnoty odberov a dodávok elektriny aktívnych odberateľov a energetických spoločenstiev s odbernými miestami a odovzdávacími miestami priradenými do rovnakej skupiny zdieľania, informáciu o priebehu výroby elektriny a technických parametroch zariadenia na výrobu elektriny, z ktorej je elektrina zdieľaná, a informáciu o priebehu uskladnenia elektriny a technických parametroch zariadenia na uskladňovanie elektriny, z ktorého je elektrina zdieľaná, od organizátora krátkodobého trhu s elektrinou.“.
+
+- 126. V § 34 ods. 2 písm. l) sa slovo „a“ nahrádza čiarkou a na konci sa pripájajú tieto slová: „a splní obchodné podmienky, alebo uzatvoriť zmluvu o dodávke elektriny alebo zmluvu o združenej dodávke elektriny s pevnou cenou na dobu určitú v trvaní najmenej 12 mesiacov s koncovým odberateľom elektriny, ktorý o to požiada a splní obchodné podmienky; odmietnutie uzatvoriť zmluvu o združenej dodávke elektriny musí dodávateľ elektriny odôvodniť“.
+
+- 127. V § 34 ods. 2 písm. m) sa za slová „spojených s“ vkladajú slová „uzatvorením zmluvy o dodávke elektriny alebo zmluvy o združenej dodávke elektriny s pevnou cenou na dobu určitú a o výhodách a rizikách spojených s“ a za slová „elektriny koncovým odberateľom elektriny“ sa vkladajú slová „alebo zmluvy o dodávke elektriny alebo o združenej dodávke elektriny s pevnou cenou na dobu určitú“.
+
+- 128. V § 34 ods. 2 písm. q) sa za slová „technických podmienok“ vkladajú slová „a prevádzkového poriadku“.
+
+- 129. V § 34 sa odsek 2 dopĺňa písmenami ac) a ad), ktoré znejú:
+
+- „ac)
+
+- zdržať sa konania, ktorým by
+
+- 1.
+
+- podmieňoval uzavretie zmluvy o dodávke elektriny alebo zmluvy o združenej dodávke elektriny zákazom zdieľať elektrinu alebo obmedzením množstva elektriny, ktoré je aktívnemu odberateľovi alebo energetickému spoločenstvu povolené zdieľať,
+
+- 2.
+
+- obmedzoval aktívneho odberateľa alebo energetické spoločenstvo v jeho práve zdieľať elektrinu alebo ho bezdôvodne znevýhodňoval cenovými alebo inými podmienkami dodávky elektriny oproti koncovým odberateľom elektriny, ktorí elektrinu nezdieľajú,
+
+- ad)
+
+- zohľadniť pri vyúčtovaní dodávok elektriny zdieľanú elektrinu na základe informácie o hodnote zdieľanej elektriny od organizátora krátkodobého trhu s elektrinou v rozsahu a spôsobom podľa pravidiel trhu.“.
+
+- 130. V § 34 ods. 11 sa za slová „zmluvy o združenej dodávke elektriny“ vkladá čiarka a slová „prijať opatrenia na predchádzanie rizika nepokrytia dodávok elektriny podľa zmlúv uzatvorených s koncovými odberateľmi elektriny“ a na konci sa pripájajú tieto slová: „a na požiadanie úradu v určenej lehote informácie o prijatých opatreniach na predchádzanie rizika nepokrytia dodávok elektriny podľa zmlúv uzatvorených s koncovým odberateľom elektriny.“.
+
+- 131. V § 35 ods. 1 písm. a) sa na konci pripájajú tieto slová: „alebo uzatvoriť zmluvu o dodávke elektriny alebo zmluvu o združenej dodávke elektriny s pevnou cenou na dobu určitú s dodávateľom elektriny v trvaní aspoň 12 mesiacov, ak o to požiada a splní obchodné podmienky; odmietnutie uzatvoriť zmluvu je povinný dodávateľ elektriny odôvodniť“.
+
+- 132. V § 35 ods. 3 písm. l) sa za slová „technických podmienok“ vkladajú slová „a prevádzkového poriadku“.
+
+- 133. V § 35 ods. 4 písm. d) sa za slovo „elektrinu“ vkladajú slová „do svojich odberných miest alebo zo svojich odovzdávacích miest,“ a slovo „koncovému“ sa nahrádza slovom „aktívnemu“.
+
+- 134. V § 35 ods. 4 písm. e) sa na konci pripája čiarka a tieto slová: „pre ktoré je uzavretá zmluva o prístupe do prenosovej sústavy a prenose elektriny s prevádzkovateľom prenosovej sústavy alebo zmluva o prístupe do distribučnej sústavy a distribúcii elektriny s prevádzkovateľom distribučnej sústavy“.
+
+- 135. V § 35a ods. 1 písm. e) sa za slová „uskladňovanie elektriny“ vkladá čiarka a slová „do svojich odberných miest alebo zo svojich odovzdávacích miest,“ a za slovo „členom“ sa vkladajú slová „alebo iným aktívnym odberateľom alebo iným energetickým spoločenstvám“.
+
+- 136. Za § 35a sa vkladá § 35b, ktorý vrátane nadpisu znie:
+
+- „§ 35b
+
+- Zdieľanie elektriny
+
+- (1)
+
+- Aktívny odberateľ alebo energetické spoločenstvo môže zdieľať elektrinu priamo alebo prostredníctvom organizátora zdieľania.
+
+- (2)
+
+- Organizátor zdieľania elektriny má právo
+
+- a)
+
+- uzatvoriť zmluvu, ktorej predmetom je zabezpečenie zdieľania elektriny aktívneho odberateľa alebo aktívnemu odberateľovi, a zdieľať túto elektrinu s ostatnými účastníkmi trhu s právom zdieľať elektrinu,
+
+- b)
+
+- zabezpečovať pre aktívneho odberateľa inštaláciu alebo prevádzku zariadenia na výrobu elektriny z obnoviteľných zdrojov energie alebo zariadenia na uskladňovanie elektriny na účel zdieľania elektriny,
+
+- c)
+
+- poskytovať aktívnemu odberateľovi poradenstvo pri riadení alebo poskytovaní flexibility v odberných elektrických zariadeniach, zariadeniach na výrobu elektriny alebo zariadeniach na uskladňovanie elektriny z obnoviteľných zdrojov energie prevádzkovaných aktívnym odberateľom,
+
+- d)
+
+- informovať prevádzkovateľa sústavy, do ktorého sústavy sú odberné miesta a odovzdávacie miesta registrované v skupine zdieľania pripojené, a dodávateľa elektriny o registrácii odberného miesta alebo odovzdávacieho miesta aktívneho odberateľa do skupiny zdieľania, a o zrušení registrácie zo skupiny zdieľania, ak takú informáciu nedostane prevádzkovateľ sústavy alebo dodávateľ elektriny od organizátora krátkodobého trhu s elektrinou, a to ku dňu registrácie alebo zrušenia registrácie v skupine zdieľania,
+
+- e)
+
+- zabezpečovať údržbu zariadenia na výrobu elektriny alebo zariadenia na uskladňovanie elektriny a meradla elektriny na svorkách zariadenia na výrobu elektriny alebo zariadenia na uskladňovanie elektriny, ktoré prevádzkuje pre aktívneho odberateľa, ak je odborne spôsobilý podľa § 42a.
+
+- (3)
+
+- Organizátor zdieľania elektriny je povinný aktívnemu odberateľovi v primeranom časovom predstihu pred uzavretím zmluvy, ktorej predmetom je zabezpečenie zdieľania elektriny, poskytnúť informáciu o hlavných podmienkach ponúkanej služby organizátora zdieľania spolu so stručným a ľahko čitateľným súhrnom obsahu ponúkanej zmluvy zahŕňajúcim aspoň identifikáciu organizátora zdieľania, hlavné podmienky, informáciu o cene alebo spôsobe získavania informácií o cene, dobu trvania zmluvného vzťahu a podmienky ukončenia zmluvy. Primeraným časovým predstihom podľa prvej vety sa rozumie čas, ktorý potrebuje aktívny odberateľ na posúdenie informácií o obsahu zmluvy. Ak je aktívny odberateľ spotrebiteľom<sup>68</sup>) a organizátor zdieľania splní informačnú povinnosť pred uzavretím zmluvy podľa osobitného predpisu,<sup>68aa</sup>) považuje sa povinnosť podľa prvej vety za splnenú.
+
+- (4)
+
+- Organizátor zdieľania elektriny je povinný aktívnemu odberateľovi poskytovať písomné vyúčtovanie zdieľanej elektriny a poskytovaných služieb; ustanovenia § 17f ods. 2 a 3 sa použijú primerane. Organizátor zdieľania je povinný aktívneho odberateľa, ktorý je odberateľom elektriny v domácnosti, informovať o podmienkach a spôsobe uplatnenia reklamácie vyúčtovania, vybavovať reklamácie vyúčtovania a viesť evidenciu reklamácií vyúčtovania; ustanovenia § 17a sa použijú rovnako.
+
+- (5)
+
+- Organizátor zdieľania elektriny je povinný ponúkať a poskytovať svoje služby nediskriminačným spôsobom. Organizátor zdieľania elektriny je povinný zverejňovať na svojom webovom sídle ponúkané služby a podmienky ich poskytovania. Podmienky poskytovania ponúkaných služieb organizátora zdieľania musia byť formulované jasne a zrozumiteľne a nesmú obsahovať ustanovenia, ktoré neprimeraným spôsobom sťažujú alebo znemožňujú výkon práv aktívneho odberateľa.
+
+- (6)
+
+- Dojednanie o zmluvnej pokute pre prípad porušenia povinnosti aktívneho odberateľa, ktorý je odberateľom elektriny v domácnosti, počas dohodnutej doby alebo počas trvania zmluvného vzťahu zdieľať elektrinu prostredníctvom organizátora zdieľania podľa zmluvy, ktorej predmetom je zabezpečenie zdieľania elektriny aktívneho odberateľa alebo aktívnemu odberateľovi, je neplatné. Ustanovenie § 17c ods. 10 sa použije rovnako.
+
+- (7)
+
+- Ak je organizátor zdieľania podľa dojednanej zmluvy oprávnený jednostranne zmeniť dohodnutú cenu za poskytované služby organizátora zdieľania alebo ostatné zmluvné podmienky, je povinný takú zmenu oznámiť aktívnemu odberateľovi najneskôr 30 dní pred dňom nadobudnutia účinnosti tejto zmeny a poučiť ho o práve zmluvu vypovedať, ak s oznámenou zmenou nesúhlasí. Ak aktívny odberateľ so zmenou nesúhlasí, má právo zmluvu vypovedať do pätnástich dní odo dňa doručenia tohto oznámenia. Ak organizátor zdieľania neoznámil aktívnemu odberateľovi zmenu ceny alebo iné obchodné podmienky alebo nepoučil aktívneho odberateľa o práve zmluvu vypovedať postupom podľa prvej vety, má aktívny odberateľ právo zmluvu o zabezpečení zdieľania bezodplatne vypovedať najneskôr do troch mesiacov odo dňa účinnosti zmeny s účinnosťou k pätnástemu dňu odo dňa doručenia oznámenia o výpovedi zmluvy organizátorovi zdieľania, ak aktívny odberateľ neurčí v oznámení o výpovedi zmluvy iný okamih účinnosti výpovede zmluvy, najneskôr však ku dňu uplynutia troch mesiacov odo dňa účinnosti zmeny. Na uplatnenie práva aktívneho odberateľa vypovedať zmluvu sa použije ustanovenie § 17 ods. 6 primerane.
+
+- (8)
+
+- Aktívny odberateľ má právo na výber nediskriminačnej formy a spôsobu platby za služby organizátora zdieľania. Dodatočné platby spojené s vybraným spôsobom platby nesmú prekročiť priamo vyvolané náklady na strane organizátora zdieľania, ktoré mu vzniknú v súvislosti s vybraným spôsobom úhrady platieb za služby organizátora zdieľania.
+
+- (9)
+
+- Podmienkou zdieľania elektriny je registrácia odberného miesta alebo odovzdávacieho miesta v skupine zdieľania prostredníctvom správcu skupiny zdieľania, ktorým môže byť aj organizátor zdieľania, u organizátora krátkodobého trhu s elektrinou.
+
+- (10)
+
+- Správca skupiny zdieľania podľa odseku 9 je povinný uzatvoriť zmluvu o vyhodnotení zdieľania elektriny s organizátorom krátkodobého trhu s elektrinou.
+
+- (11)
+
+- Odberné miesto alebo odovzdávacie miesto môže byť súčasne priradené len do jednej skupiny zdieľania. Odberné miesta a odovzdávacie miesta priradené do jednej skupiny zdieľania môžu byť priradené do rôznych bilančných skupín.
+
+- (12)
+
+- Aktívny odberateľ, ktorý je iným podnikom ako malým podnikom<sup>28a</sup>) alebo stredným podnikom,<sup>28b</sup>) môže zdieľať elektrinu zo zariadenia na výrobu elektriny, len ak ide o zariadenie na výrobu elektriny s inštalovaným výkonom do 6 MW.
+
+- (13)
+
+- Činnosť organizátora zdieľania nemôže vykonávať držiteľ povolenia na prenos elektriny alebo držiteľ povolenia na distribúciu elektriny.“.
+
+  - Poznámky pod čiarou k odkazom 68 a 68aa znejú:
+
+  - „<sup>68</sup>) § 52 ods. 4 Občianskeho zákonníka.
+
+  - <sup>68aa</sup>) Zákon č. 108/2024 Z. z. o ochrane spotrebiteľa a o zmene a doplnení niektorých zákonov.“.
+
+- 137. V § 37 sa odsek 6 dopĺňa písmenami v) až ab), ktoré znejú:
+
+- „v)
+
+- viesť evidenciu kreditov na účely plnenia referenčných hodnôt pri uvádzaní pohonných látok na trh a zabezpečovať ich evidenciu vrátane ich prevodov, uplatnenia a zrušenia v elektronickej podobe podľa osobitného predpisu,<sup>68ab</sup>)
+
+- w)
+
+- na žiadosť do troch pracovných dní sprístupniť
+
+- 1.
+
+- dodávateľovi elektriny alebo subjektu zúčtovania informáciu o spôsobe alokácie zdieľanej elektriny do odberných miest priradených do skupiny zdieľania, v ktorých dodávateľ elektriny zabezpečuje dodávku elektriny alebo v ktorých má subjekt zúčtovania zodpovednosť za odchýlku, súhrnnú informáciu o spôsobe alokácie zdieľanej elektriny a hodnoty odberov a dodávok elektriny aktívnych odberateľov alebo energetických spoločenstiev s odbernými miestami a odovzdávacími miestami priradenými do rovnakej skupiny zdieľania, informáciu o priebehu výroby elektriny a technických parametroch zariadenia na výrobu elektriny, z ktorého je elektrina zdieľaná, a informáciu o priebehu uskladnenia elektriny a technických parametroch zariadenia na uskladňovanie elektriny, z ktorého je elektrina zdieľaná,
+
+- 2.
+
+- prevádzkovateľovi sústavy informáciu o spôsobe alokácie zdieľanej elektriny do odberných miest a z odovzdávacích miest priradených do skupiny zdieľania, ktoré sú pripojené do jeho sústavy,
+
+- x)
+
+- registrovať a evidovať, po splnení podmienok ustanovených týmto zákonom, priradenie odberných miest a odovzdávacích miest ku skupine zdieľania vrátane spôsobu alokácie zdieľanej elektriny a o registrácii alebo zrušení registrácie informovať príslušného prevádzkovateľa sústavy, dodávateľa elektriny a subjekt zúčtovania,
+
+- y)
+
+- zverejniť na svojom webovom sídle metódy výpočtu zdieľanej elektriny pre všetky používané spôsoby alokácie zdieľanej elektriny,
+
+- z)
+
+- zverejniť na svojom webovom sídle informácie a odporúčania týkajúce sa zdieľania elektriny,
+
+- aa)
+
+- zverejniť na svojom webovom sídle aspoň raz mesačne v anonymizovanej podobe štatistické údaje týkajúce sa agregátorov, poskytovateľov flexibility, vyhodnotenia aktivovanej flexibility, energetických spoločenstiev, skupín zdieľania elektriny, vyhodnotenia zdieľania elektriny, registrácie uskladňovania elektriny a vyhodnotenia uskladňovania elektriny v rozsahu podľa pravidiel trhu,
+
+- ab)
+
+- informovať o priradení odberného miesta alebo odovzdávacieho miesta ku skupine zdieľania prevádzkovateľa distribučnej sústavy, ku ktorej je odberné miesto alebo odovzdávacie miesto pripojené, dodávateľa elektriny, u ktorého je odberné miesto alebo odovzdávacie miesto registrované organizátorom krátkodobého trhu s elektrinou, vrátane subjektu zúčtovania zodpovedného za odchýlku odberu alebo dodávky elektriny, a to v rozsahu a lehotách určených v prevádzkovom poriadku organizátora krátkodobého trhu s elektrinou.“.
+
+  - Poznámka pod čiarou k odkazu 68ab znie:
+
+  - „<sup>68ab</sup>) § 14c až 14cb zákona č. 309/2009 Z. z. v znení neskorších predpisov“.
+
+- 138. V § 41 ods. 1 sa za prvú vetu vkladá nová druhá veta, ktorá znie: „Ak nejde o meranie elektriny na svorkách zariadenia na výrobu elektriny alebo zariadenia na uskladňovanie elektriny pripojeného na napäťovú hladinu nízkeho napätia pre vyhodnocovanie aktivovanej flexibility podľa osobitného predpisu,<sup>4ad</sup>) je možné merať elektrinu len určeným meradlom; tým nie sú dotknuté povinnosti podľa osobitného predpisu.<sup>4</sup>)“.
+
+- 139. V § 46a ods. 1 písm. b) prvom bode sa slová „bez uzavretej zmluvy o dodávke elektriny alebo v rozpore s uzavretou zmluvou o dodávke elektriny“ nahrádzajú slovami „bez uzavretej zmluvy o dodávke elektriny alebo zmluvy o prístupe do distribučnej sústavy a distribúcii elektriny alebo v rozpore s uzavretou zmluvou o dodávke elektriny alebo zmluvou o prístupe do distribučnej sústavy a distribúcii elektriny“.
 
 - 140. V § 49 ods. 7 písm. g) sa slovo „každoročne“ nahrádza slovami „ak sa nepostupuje podľa § 82m ods. 16, aspoň každé dva roky“.
 
@@ -355,6 +971,8 @@ Zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákono
 - 147. V § 53 ods. 7 sa vypúšťa slovo „obdobný“ a na konci sa pripájajú tieto slová: „alebo obdobný zmluvný vzťah týkajúci sa vodíka.“.
 
 - 148. V § 54 ods. 1 písm. a) štvrtom bode sa v celom texte slová „podľa § 59“ nahrádzajú slovami „podľa § 63a“.
+
+- 149. V § 54 ods. 6 sa slovo „Obchodého“ nahrádza slovom „Obchodného“.
 
 - 150. V § 57 ods. 3 písm. a) sa slová „podľa § 59“ nahrádzajú slovami „podľa § 63a“.
 
@@ -499,6 +1117,28 @@ Zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákono
   - <sup>79f</sup>) Čl. 30 ods. 1 písm. b) nariadenia (EÚ) 2019/943 v platnom znení.
 
   - <sup>79g</sup>) Čl. 2 ods. 1 nariadenia (EÚ) 2021/1119.“.
+
+- 153. V § 64 sa odsek 2 dopĺňa písmenom l), ktoré znie:
+
+- „l)
+
+- zistenia úprav alebo zmeny plynového zariadenia zrealizovaných bez súhlasu prevádzkovateľa distribučnej siete alebo v rozpore s takýmto súhlasom.“.
+
+- 154. V § 79 ods. 5 sa na konci pripájajú tieto vety: „Držiteľ povolenia je oprávnený podať návrh na zápis poznámky do katastra nehnuteľností, týkajúci sa stavby v ochrannom pásme zhotovenej bez súhlasu držiteľa povolenia alebo v rozpore s týmto súhlasom. Ak takáto stavba nie je evidovaná v katastri nehnuteľností, zápis poznámky sa vykoná k nehnuteľnosti, na ktorej sa stavba nachádza. Poznámka obsahuje informáciu o tom, že stavba sa nachádza v ochrannom pásme a bola zhotovená bez súhlasu alebo v rozpore s podmienkami určenými držiteľom povolenia.“.
+
+- 155. § 79 sa dopĺňa odsekom 8, ktorý znie:
+
+- „(8)
+
+- Držiteľ povolenia nezodpovedá za škodu, ktorá vznikne prevádzkovou činnosťou ani vtedy, ak poškodený nemá súhlas podľa odseku 5 alebo odseku 6, alebo konal v rozpore s podmienkami určenými držiteľom povolenia.“.
+
+- 156. V § 80 ods. 4 sa na konci pripájajú tieto vety: „Držiteľ povolenia je oprávnený podať návrh na zápis poznámky do katastra nehnuteľností, týkajúci sa stavby v bezpečnostnom pásme zhotovenej bez súhlasu držiteľa povolenia alebo v rozpore s týmto súhlasom. Ak takáto stavba nie je evidovaná v katastri nehnuteľností, zápis poznámky sa vykoná k nehnuteľnosti, na ktorej sa stavba nachádza. Poznámka obsahuje informáciu o tom, že stavba sa nachádza v bezpečnostnom pásme a bola zhotovená bez súhlasu držiteľa povolenia alebo v rozpore s podmienkami určenými držiteľom povolenia.“.
+
+- 157. § 80 sa dopĺňa odsekom 5, ktorý znie:
+
+- „(5)
+
+- Držiteľ povolenia nezodpovedá za škodu, ktorá vznikne prevádzkovou činnosťou ani vtedy, ak poškodený nemá súhlas podľa odseku 4 alebo stavba je zhotovená v rozpore s podmienkami určenými držiteľom povolenia.“.
 
 - 158. Za štvrtú časť sa vkladá nová piata časť, ktorá vrátane nadpisu znie:
 
@@ -1630,17 +2270,51 @@ Zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákono
 
 - <sup>83c</sup>) Čl. 10a nariadenia Európskeho parlamentu a Rady (ES) č. 401/2009 z 23. apríla 2009 o Európskej environmentálnej agentúre a Európskej environmentálnej informačnej a monitorovacej sieti. (Ú. v. EÚ L 126, 21. 5. 2009) v platnom znení.“.
 
+- 159. V § 87a ods. 1 sa za slová „sankcie podľa osobitného predpisu,<sup>84b</sup>)“ vkladajú slová „alebo takéto výrobky na územie Slovenskej republiky prepravuje,“.
+
+- 160. V § 87a ods. 2 sa slová „Českej republiky“ nahrádzajú slovami „krajín, do ktorých to umožňuje osobitný predpis<sup>84b</sup>)“.
+
+- 161. V § 88 sa odsek 1 dopĺňa písmenom c), ktoré znie:
+
+- „c)
+
+- Hlavný banský úrad ako príslušný orgán podľa osobitného predpisu.<sup>84d</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 84d znie:
+
+  - „<sup>84d</sup>) Nariadenie Európskeho parlamentu a Rady (EÚ) 2024/1787 z 13. júna 2024 o znižovaní emisií metánu v odvetví energetiky a o zmene nariadenia (EÚ) 2019/942 (Ú. v. EÚ L, 2024/1787, 15. 7. 2024).“.
+
 - 162. V § 88 ods. 2 písmeno n) znie:
 
 - „n)
 
 - rozhoduje o určení prevádzkovateľa prenosovej sústavy, prevádzkovateľa prepravnej siete alebo prevádzkovateľa vodíkovej prepravnej siete za prevádzkovateľa prenosovej sústavy, prevádzkovateľa prepravnej siete alebo prevádzkovateľa vodíkovej prepravnej siete, ktorý spĺňa požiadavky nezávislosti podľa § 30, § 50, § 51 až 60, § 61 až 63 alebo § 82e až 82l a oznamuje túto skutočnosť Komisii v súlade s osobitným predpisom,<sup>17</sup>)“.
 
+- 163. V § 88 sa odsek 2 dopĺňa písmenami ab) a ac), ktoré znejú:
+
+- „ab)
+
+- určuje orientačný národný cieľ v oblasti nefosílnej flexibility podľa osobitného predpisu,<sup>87c</sup>)
+
+- ac)
+
+- koná za Slovenskú republiku pri uzatváraní zmluvy o vyrovnávacom režime na výrobu elektriny z jadrového paliva a plnení práv a povinností z tejto zmluvy.“.
+
+  - Poznámka pod čiarou k odkazu 87c znie:
+
+  - „<sup>87c</sup>) Čl. 19f nariadenia 2024/1747.“.
+
 - 164. V § 89 ods. 1 sa slová „§ 6 ods. 2 písm. d) až h)“ nahrádzajú slovami „§ 6 ods. 2 písm. d) až j)“ a za slová „§ 79 až 82,“ sa vkladajú slová „§ 82b ods. 6 písm. a), b), i), k), l), § 82b ods. 7 písm. c), d) až f),“.
 
 - 165. V § 89 ods. 1 písm. a) druhom bode sa slová „sústav a sietí“ nahrádzajú slovami „sústav, sietí a vodíkových sietí“.
 
 - 166. V § 89 ods. 1 písm. d) sa za slová „plynárenských zariadení“ vkladá čiarka a slová „vodíkových zariadení“.
+
+- 167. V § 89 ods. 4 sa vypúšťa bodkočiarka a časť vety za bodkočiarkou.
+
+  - Poznámka pod čiarou k odkazu 94 sa vypúšťa.
+
+- 168. V § 89 ods. 7 sa slová „písm. d) až g)“ nahrádzajú slovami „písm. d) a e)“, vypúšťajú sa slová „Ministerstva obrany Slovenskej republiky, ozbrojených síl Slovenskej republiky,“ a na konci sa pripája táto veta: „Dozor podľa prvej vety v energetických zariadeniach slúžiacich na zabezpečenie bezpečnosti štátu a vo vybraných objektoch a zariadeniach v pôsobnosti Ministerstva obrany Slovenskej republiky, rozpočtových organizácií a príspevkových organizácií v jeho zriaďovateľskej pôsobnosti, a v objektoch a zariadeniach ozbrojených síl Slovenskej republiky, vykonávajú zamestnanci Ministerstva obrany Slovenskej republiky, ktorých vymenúva a odvoláva minister obrany.“.
 
 - 169. V § 90 písm. a) sa slová „§ 15 ods. 7, 8, 10, 11, 13 a 14“ nahrádzajú slovami „§ 15 ods. 8, 9, 11, 14 a 15“, slová „§ 28 ods. 2 písm. až q)“ sa nahrádzajú slovami „§ 28 ods. 2 písm. i) až q)“, za slová „§ 31 ods. 4 až 6, 8 až 14,“ sa vkladajú slová „15 až 17,“, za slová „§ 35a ods. 2 a 10,“ sa vkladajú slová „§ 35b ods. 3 a 4,“ a za slová „§ 76 ods. 1, 2, 4 až 8,“ sa vkladajú slová „§ 82b ods. 3 a 4, § 82b ods. 6 písm. c) až g), j), § 82b ods. 7 písm. a) až c), f) a g), § 82b ods. 8, § 82d až 82l,“.
 
@@ -1657,6 +2331,56 @@ Zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákono
 - do 10 % celkového obratu prevádzkovateľa prenosovej sústavy, prevádzkovateľa prepravnej siete, prevádzkovateľa vodíkovej prepravnej siete, vlastníka siete alebo vodíkovej siete za rok predchádzajúci roku, v ktorom došlo k porušeniu povinností, za porušenie povinností prevádzkovateľa prenosovej sústavy, prevádzkovateľa prepravnej siete, prevádzkovateľa vodíkovej prepravnej siete, vlastníka siete alebo vodíkovej siete uložených v § 15 ods. 11, § 16, § 19 ods. 5, 9 až 11, § 28 ods. 2 písm. i) až q), x) až z), ac), § 28 ods. 3 písm. a), b), e) až g), i), p) až u), w), x), y), aa) až ad), af) až ah), § 28 ods. 4, § 28a ods. 1, 2 a 5, § 29, § 30, § 32a ods. 1 a 6, § 32b ods. 1, § 32c ods. 6 a 7, § 49 ods. 3 až 5, § 49 ods. 6 písm. c) až h), j), k), m), § 49 ods. 7 písm. a), b), c), e), g) až k), § 49 ods. 8, § 49 ods. 12 a 13, § 50 až 63, § 82b ods. 3 a 4, § 82b ods. 6 písm. c) až h), i), § 82b ods. 7 písm. a), b), d), f), § 82b ods. 8, § 82d až § 82l, § 96 ods. 14, 16, 22,“.
 
 - 174. V § 91 ods. 2 písm. b) sa slová „§ 15 ods. 10, 13“ nahrádzajú slovami „§ 15 ods. 11, 14“ a za slovo „§ 67a,“ sa vkladajú slová „§ 82b ods. 3 a 4, § 82b ods. 6 písm. c) až h), j), § 82b ods. 7 písm. a), b), c), d), f), l), § 82b ods. 8, § 82d až § 82l,“.
+
+- 175. V § 91 ods. 2 písm. c) sa slová „§ 15 ods. 11“ nahrádzajú slovami „§ 15 ods. 12“.
+
+- 176. V § 91 ods. 2 písm. d) sa slová „§ 15 ods. 10, 13, 14“ nahrádzajú slovami „§ 15 ods. 11, 14, 15“.
+
+- 177. V § 91 ods. 2 písm. e) sa za slová „§ 6 ods. 2 písm. a) až c)“ vkladá čiarka a slová „i) a j)“ a na konci sa pripájajú tieto slová: „alebo za nesplnenie niektorej z povinností organizátora zdieľania podľa § 35b ods. 3 až 5,“.
+
+- 178. V § 91 ods. 2 písm. f), g) i) a k) sa slová „§ 15 ods. 10, 14“ nahrádzajú slovami „§ 15 ods. 11, 15“.
+
+- 179. V § 91 odseky 3 a 4 znejú:
+
+- „(3)
+
+- Pri určovaní výšky pokuty úrad prihliada najmä na spôsob, čas trvania a následky protiprávneho konania; úrad prihliada aj na to, či sa fyzická osoba alebo právnická osoba, ktorej sa pokuta ukladá, dopustila správneho deliktu opakovane do troch rokov odo dňa právoplatnosti rozhodnutia o uložení pokuty.
+
+- (4)
+
+- Konanie o uložení pokuty možno začať do jedného roka odo dňa, keď úrad zistil, že došlo k správnemu deliktu, najneskôr však do piatich rokov odo dňa, keď došlo k správnemu deliktu.“.
+
+- 180. V § 91 sa vypúšťajú odseky 5 a 6.
+
+  - Doterajší odsek 7 sa označuje ako odsek 5.
+
+- 181. Za § 91 sa vkladá § 91a, ktorý vrátane nadpisu znie:
+
+- „§ 91a
+
+- Správne delikty a pokuty v oblasti metánových emisií
+
+- (1)
+
+- Hlavný banský úrad ukladá držiteľovi povolenia alebo inej osobe pokutu vo výške od 100 eur do 10 000 eur za porušenie povinností podľa osobitného predpisu.<sup>95a</sup>)
+
+- (2)
+
+- Pri určení výšky pokuty sa zohľadnia kritériá podľa osobitného predpisu.<sup>95b</sup>)
+
+- (3)
+
+- Konanie o uložení pokuty možno začať do jedného roka odo dňa, keď Hlavný banský úrad zistil porušenie povinností, najneskôr však do troch rokov odo dňa, keď k porušeniu povinností došlo.
+
+- (4)
+
+- Výnosy z pokút sú príjmom štátneho rozpočtu.“.
+
+  - Poznámky pod čiarou k odkazom 95a a 95b znejú:
+
+  - „<sup>95a</sup>) Čl. 33 ods. 5 nariadenia (EÚ) 2024/1787.
+
+  - <sup>95b</sup>) Čl. 33 ods. 7 nariadenia (EÚ) 2024/1787.“.
 
 - 182. V § 94 ods. 1 prvej vete sa slová „prevádzkovateľ zásobníka a organizátor krátkodobého trhu s elektrinou“ nahrádzajú slovami „prevádzkovateľ zásobníka, organizátor krátkodobého trhu s elektrinou, prevádzkovateľ vodíkovej prepravnej siete a prevádzkovateľ vodíkovej distribučnej siete“.
 
@@ -1679,6 +2403,16 @@ Zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákono
 - 191. V § 95 ods. 2 písm. g) sa za slovami „prevádzkovateľa prepravnej siete“ vkladajú slová „a prevádzkovateľa vodíkovej prepravnej siete“ a na konci sa pripájajú tieto slová: „a § 82h“.
 
 - 192. V § 95 ods. 2 písm. k) sa slová „prevádzkovateľa siete a prevádzkovateľa zásobníka“ nahrádzajú slovami „prevádzkovateľa siete, prevádzkovateľa zásobníka a prevádzkovateľa vodíkovej prepravnej siete“ a slová „prevádzkovateľa sústavy alebo prevádzkovateľa siete,“ sa nahrádzajú slovami „prevádzkovateľa sústavy, prevádzkovateľa siete alebo prevádzkovateľa vodíkovej prepravnej siete“.
+
+- 193. V § 95 sa odsek 2 dopĺňa písmenom r), ktoré znie:
+
+- „r)
+
+- technické parametre a požiadavky na dátové prenosy a interoperabilitu iných ako určených meradiel alebo meracích systémov na meranie elektriny v rámci vyhodnotenia aktivovanej flexibility podľa § 41 ods. 1.“.
+
+- 194. V § 96 ods. 1 sa slovo „povinosti“ nahrádza slovom „povinnosti“.
+
+- 195. V § 96 ods. 6 sa slovo „uplatenie“ nahrádza slovom „uplatnenie“.
 
 - 196. Za § 96o sa vkladá § 96p, ktorý vrátane nadpisu znie:
 
@@ -1755,6 +2489,14 @@ Zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákono
 - „“.
 
 - <sup>99</sup>) Napríklad zákon č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 39/2013 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 25/2025 Stavebný zákon a o zmene a doplnení niektorých zákonov (Stavebný zákon) v znení zákona č. 77/2025 Z. z.“.
+
+- 197. Za § 96p sa vkladá § 96q, ktorý vrátane nadpisu znie:
+
+- „§ 96q
+
+- Prechodné ustanovenie k úpravám účinným od 1. januára 2026
+
+- Konania, ktoré sa začali a právoplatne neskončili do 31. decembra 2025 sa dokončia podľa tohto zákona v znení účinnom do 31. decembra 2025.“.
 
 - 198. Príloha č. 2 sa dopĺňa deviatym bodom až jedenástym bodom, ktoré znejú:
 

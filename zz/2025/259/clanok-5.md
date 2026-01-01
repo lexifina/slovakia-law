@@ -2,6 +2,12 @@
 
 Zákon č. 250/2012 Z. z. o regulácii v sieťových odvetviach v znení zákona č. 435/2013 Z. z., zákona č. 321/2014 Z. z., zákona č. 391/2015 Z. z., zákona č. 164/2017 Z. z., zákona č. 177/2018 Z. z., zákona č. 309/2018 Z. z., zákona č. 221/2019 Z. z., zákona č. 297/2019 Z. z., zákona č. 198/2020 Z. z., zákona č. 276/2020 Z. z., zákona č. 419/2020 Z. z., zákona č. 516/2021 Z. z., zákona č. 85/2022 Z. z., zákona č. 256/2022 Z. z., zákona č. 324/2022 Z. z., zákona č. 363/2022 Z. z., zákona č. 433/2022 Z. z., zákona č. 108/2024 Z. z., zákona č. 128/2024 Z. z. a zákona č. 143/2024 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 1 písm. c) sa slovo „alebo“ nahrádza čiarkou a za slová „potvrdenia o registrácii” sa vkladajú slová „alebo podľa osobitného predpisu<sup>2a</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 2a znie:
+
+  - „<sup>2a</sup>) § 48 ods. 2 zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon).“.
+
 - 2. V § 1 písm. d) sa slovo „a“ nahrádza čiarkou a za slovo „plynom“ sa vkladajú slová „a pravidlá pre fungovanie vnútorného trhu s vodíkom“.
 
 - 3. V § 2 sa písmeno a) dopĺňa piatym bodom, ktorý znie:
@@ -22,6 +28,8 @@ Zákon č. 250/2012 Z. z. o regulácii v sieťových odvetviach v znení zákona
 
 - distribúcia vodíka,“.
 
+- 6. V § 2 písm. o) sa slová „§ 40 ods. 1 písm. p)“ nahrádzajú slovami „§ 40 ods. 1 písm. q)“.
+
 - 7. V § 4 ods. 6 písmeno a) znie:
 
 - „a)
@@ -32,19 +40,131 @@ Zákon č. 250/2012 Z. z. o regulácii v sieťových odvetviach v znení zákona
 
 - 9. V § 9 ods. 1 písm. b) piatom bode sa za slová „účastníkmi trhu s plynom“ vkladá čiarka a slová „užívateľmi vodíkovej prepravnej siete“.
 
+- 10. V § 9 ods. 1 písm. b) šiestom bode sa za slová „podľa osobitných predpisov<sup>13aa</sup>)“ vkladajú slová „osobou, ktorá vykonáva činnosť jednotnej platformy na prideľovanie prenosových kapacít podľa osobitného predpisu,<sup>13ab</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 13ab znie:
+
+  - „<sup>13ab</sup>) Čl. 2 ods. 6 nariadenia (EÚ) 2024/1747 z 13. júna 2024, ktorým sa menia nariadenia (EÚ) 2019/942 a (EÚ) 2019/943, pokiaľ ide o zlepšenie koncepcie trhu s elektrinou v Únii (Ú. v. EÚ L, 2024/1747, 26. 6. 2024).“.
+
 - 11. V § 9 ods. 1 písm. b) siedmom bode sa slovo „a“ nahrádza čiarkou a za slovo „siete“ sa vkladajú slová „a prevádzkovateľom vodíkovej prepravnej siete“.
+
+- 12. V § 9 ods. 1 sa písmeno b) dopĺňa dvanástym bodom, ktorý znie:
+
+- „12.
+
+- štátny dozor nad dodržiavaním povinností podľa osobitných predpisov.<sup>13c</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 13c znie:
+
+  - „<sup>13c</sup>) Zákon č. 657/2004 Z. z. v znení neskorších predpisov.
+
+  - Zákon č. 555/2005 Z. z. v znení neskorších predpisov.
+
+  - Zákon č. 309/2009 Z. z. v znení neskorších predpisov.
+
+  - Zákon č. 251/2012 Z. z. v znení neskorších predpisov.
+
+  - Zákon č. 314/2012 Z. z. v znení neskorších predpisov.
+
+  - Zákon č. 321/2014 Z. z. v znení neskorších predpisov.“.
 
 - 13. V § 9 ods. 1 písm. c) druhom bode sa slovo „a“ nahrádza čiarkou a za slovo „siete“ sa vkladajú slová „a prevádzkovateľa vodíkovej prepravnej siete“.
 
+- 14. V § 9 ods. 1 sa písmeno c) dopĺňa deviatym bodom, ktorý znie:
+
+- „9.
+
+- o uložení povinnosti prevádzkovateľovi prenosovej sústavy alebo prevádzkovateľovi distribučnej sústavy vypracovať návrh rozsahu a podmienok obstarávania a aktivácie produktu zníženia spotreby v špičkách podľa § 10 písm. p) a podľa osobitného predpisu,<sup>14b</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 14b znie:
+
+  - „<sup>14b</sup>) Čl. 2 ods. 4 nariadenia (EÚ) 2024/1747.“.
+
 - 15. V § 9 ods. 1 písm. d) sa slová „sústavy a prevádzkovateľa prepravnej siete“ nahrádzajú slovami „sústavy, prevádzkovateľa prepravnej siete a prevádzkovateľa vodíkovej prepravnej siete“.
+
+- 16. V § 9 sa odsek 1 dopĺňa písmenami q) až s), ktoré znejú:
+
+- „q)
+
+- vypracúva vzorové zmluvy, ktorých predmetom je zdieľanie elektriny, a vzorové zmluvy, ktorých predmetom je zabezpečenie zdieľania elektriny aktívneho odberateľa alebo aktívnemu odberateľovi, a zverejňuje ich na svojom webovom sídle,
+
+- r)
+
+- vydáva stanovisko podľa osobitného predpisu,<sup>17f</sup>)
+
+- s)
+
+- posudzuje potrebu obstarávania produktu zníženia spotreby elektriny v špičkách podľa osobitného predpisu.<sup>14b</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 17f znie:
+
+  - „<sup>17f</sup>) § 82c ods. 6 zákona č. 251/2012 Z. z. v znení zákona č. 259/2025 Z. z.“.
+
+- 17. V § 9 ods. 3 písm. b) sa slová „zraniteľných odberateľov elektriny a zraniteľných odberateľov plynu,“ nahrádzajú slovami „závislých odberateľov elektriny v domácnosti,<sup>17g</sup>) závislých odberateľov elektriny mimo domácnosti<sup>17h</sup>) a chránených odberateľov plynu,<sup>17i</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 17g až 17i znejú:
+
+  - „<sup>17g</sup>) § 3 písm. b) šestnásty bod zákona č. 251/2012 Z. z. v znení neskorších predpisov.
+
+  - <sup>17h</sup>) § 3 písm. b) dvadsiaty prvý bod zákona č. 251/2012 Z. z. v znení zákona č. 143/2024 Z. z.
+
+  - <sup>17i</sup>) § 3 písm. c) štrnásty bod zákona č. 251/2012 Z. z. v znení zákona č. 259/2025 Z. z.“.
+
+- 18. V § 9 sa odsek 3 dopĺňa písmenom i), ktoré znie:
+
+- „i)
+
+- v spolupráci s ministerstvom podmienky účasti vo výberovom konaní podľa osobitného predpisu.<sup>17j</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 17j znie:
+
+  - „<sup>17j</sup>) § 3e zákona č. 309/2009 Z. z. v znení zákona č. 259/2025 Z. z.“.
+
+- 19. V § 9 odsek 7 znie:
+
+- „(7)
+
+- Úrad je orgánom dohľadu nad dodržiavaním zákazu používania nekalých obchodných praktík a neprijateľných podmienok v spotrebiteľských zmluvách, zákazu konať v rozpore s dobrými mravmi a zákazu diskriminácie spotrebiteľa a nad dodržiavaním ďalších povinností na ochranu spotrebiteľa podľa osobitného predpisu<sup>20a</sup>) osobou, ktorá vykonáva regulovanú činnosť podľa § 1 písm. c).“.
+
+  - Poznámka pod čiarou k odkazu 20a znie:
+
+  - „<sup>20a</sup>) § 26 ods. 1 písm. e) a ods. 3 zákona č. 108/2024 Z. z. o ochrane spotrebiteľa a o zmene a doplnení niektorých zákonov.“.
 
 - 20. V § 9a ods. 4 písm. a) sa za slovami „trhu s elektrinou“ slovo „a“ nahrádza čiarkou a za slová „trhu s plynom“ sa vkladajú slová „a trhu s vodíkom“.
 
 - 21. V § 9a ods. 4 písm. b) sa slovo „a“ nahrádza čiarkou a za slovom „sietí“ sa vkladajú slová „a prevádzkovateľov vodíkovej prepravnej siete“.
 
+- 22. V § 10 sa písmeno a) dopĺňa štvrtým bodom, ktorý znie:
+
+- „4.
+
+- hodnoty ekonomických parametrov a technických parametrov potrebných na účely vykonávania cenovej regulácie,“.
+
 - 23. V § 10 písm. c) druhom bode sa slovo „alebo“ nahrádza čiarkou a na konci sa pripájajú tieto slová: „alebo desaťročného plánu rozvoja vodíkovej prepravnej siete“.
 
+- 24. V § 10 písm. c) šiestom bode sa za slová „uplatňovanie zmlúv o dodávke elektriny a zmlúv o združenej dodávke elektriny s dynamickou cenou elektriny“ vkladajú slová „a zmlúv o dodávke elektriny a zmlúv o združenej dodávke elektriny s pevnou cenou na dobu určitú“ a na konci sa pripájajú tieto slová: „a zmluvami o dodávke elektriny a zmluvami o združenej dodávke elektriny s pevnou cenou na dobu určitú“.
+
+- 25. V § 10 písm. c) pätnástom bode sa za slová „výroby a“ vkladajú slová „zdieľania alebo“.
+
 - 26. V § 10 písm. f) desiatom bode sa slovo „a“ nahrádza čiarkou a na konci sa pripájajú tieto slová: „a desaťročného plánu rozvoja vodíkovej prepravnej siete,“.
+
+- 27. V § 10 písm. f) dvadsiatom prvom bode sa vypúšťa čiarka za slovom „výrobou“ a slová „potvrdenia o pôvode biometánu“.
+
+- 28. V § 10 sa písm. f) dopĺňa dvadsiatym druhým a dvadsiatym tretím bodom, ktoré znejú:
+
+- „22.
+
+- vzorové zmluvy, ktorých predmetom je zdieľanie elektriny, a vzorové zmluvy, ktorých predmetom je zabezpečenie zdieľania elektriny aktívneho odberateľa alebo aktívnemu odberateľovi,
+
+- 23.
+
+- cenu za služby obchodníka pri dodávke plynu koncovému odberateľovi plynu na výrobu tepla a dodávku tepla.“.
+
+- 29. § 10 sa dopĺňa písmenom p), ktoré znie:
+
+- „p)
+
+- posudzuje potrebu obstarávania produktu zníženia spotreby elektriny v špičkách podľa osobitného predpisu<sup>14b</sup>) a v prípadoch a za podmienok ustanovených osobitným predpisom<sup>14b</sup>) môže uložiť prevádzkovateľovi prenosovej sústavy alebo prevádzkovateľovi distribučnej sústavy povinnosť vypracovať návrh rozsahu a podmienok obstarávania a aktivácie produktu zníženia spotreby v špičkách podľa osobitného predpisu.<sup>14b</sup>)“.
 
 - 30. V § 13 ods. 1 písm. i) druhom bode, štvrtom bode a v § 13 ods. 1 písm. j) prvom bode a druhom bode sa na konci pripájajú tieto slová: „alebo prevádzkovateľa vodíkovej prepravnej siete“.
 
@@ -72,6 +192,8 @@ Zákon č. 250/2012 Z. z. o regulácii v sieťových odvetviach v znení zákona
 
 - 38. V § 13 ods. 2 písm. h) sa na konci pripájajú tieto slová: „a prevádzkovateľa vodíkovej prepravnej siete“.
 
+- 39. V § 13 ods. 2 písm. i) sa slová „§ 29 ods. 2 a 8“ nahrádzajú slovami „§ 29 ods. 2 a 9“.
+
 - 40. V § 13 ods. 2 písm. j) sa slovo „a“ nahrádza čiarkou a za slovo „siete“ sa vkladajú slová „a do prepravnej vodíkovej siete“.
 
   - Poznámka pod čiarou k odkazu 28 znie:
@@ -80,9 +202,37 @@ Zákon č. 250/2012 Z. z. o regulácii v sieťových odvetviach v znení zákona
 
 - 41. V § 13 ods. 2 písm. m) sa slová „prevádzkovateľa prenosovej sústavy, prevádzkovateľa prepravnej siete“ nahrádzajú slovami „prevádzkovateľa sústavy, prevádzkovateľa siete“.
 
+- 42. V § 13 ods. 3 písm. a) sa za slovom „výrobou“ vypúšťa čiarka a slová „potvrdenia o pôvode biometánu“.
+
+  - Poznámka pod čiarou k odkazu 31 znie:
+
+  - „<sup>31</sup>) § 7 a 8 zákona č. 309/2009 Z. z. v znení neskorších predpisov.“.
+
+- 43. V § 14 ods. 7 sa slovo „alebo“ nahrádza čiarkou a na konci sa pripájajú tieto slová: „alebo začiatku výkonu správy vodných tokov podľa osobitného predpisu<sup>2a</sup>)“.
+
+- 44. V § 14 ods. 11 druhej vete sa za slová „určiť aj“ vkladajú slová „hodnoty ekonomických parametrov, technických parametrov a“.
+
 - 45. V § 15 ods. 6 sa za prvú vetu vkladá nová druhá veta, ktorá znie: „Prevádzkovateľ vodíkovej prepravnej siete je povinný prvýkrát predložiť úradu návrh prevádzkového poriadku na schválenie najneskôr tri mesiace pred dňom plánovaného začiatku vykonávania činnosti prepravy vodíka; začiatkom vykonávania činnosti prepravy vodíka sa rozumie začiatok fyzickej prepravy vodíka.“.
 
+- 46. § 15 sa dopĺňa odsekom 9, ktorý znie:
+
+- „(9)
+
+- Okrem dôvodov podľa § 30 ods. 1 správneho poriadku úrad zastaví konanie o vecnej regulácii vo veci vydania, zmeny alebo zrušenia povolenia aj vtedy, ak odpadol dôvod konania začatého na návrh účastníka konania.“.
+
+- 47. V § 16a ods. 1 sa za slová „nárastu cien tovarov“ vkladá čiarka a slová „bola vyhlásená kríza cien elektriny na regionálnej úrovni alebo na území celej Európskej únie“.
+
+- 48. V § 16a ods. 2 sa za slová „jeden rok“ vkladajú slová „alebo po dobu, na ktorú bola vyhlásená kríza cien elektriny na regionálnej úrovni alebo na území celej Európskej únie“.
+
+- 49. V § 16a odsek 3 znie:
+
+- „(3) Pri vykonaní krízovej regulácie vláda určí ceny a skupiny odberateľov, na ktoré sa určené ceny uplatnia, podmienky ich uplatnenia, spôsob a postup vyrovnania rozdielu medzi ekonomicky oprávnenými nákladmi a primeraným ziskom a určenú výšku ceny, ak nie je taký rozdiel zohľadňovaný úradom pri vykonávaní cenovej regulácie podľa tohto zákona pre nasledujúce obdobie podľa odseku 4, nariadením vlády. Vláda môže určiť ceny za regulovanú činnosť podľa § 11 alebo individuálne ceny pre regulovaný subjekt.“.
+
 - 50. V § 16a ods. 4 sa slová „zo štátneho rozpočtu“ nahrádzajú slovami „z rozpočtovej kapitoly ministerstva“.
+
+- 51. V § 16a ods. 6 sa na konci pripája táto veta:
+
+- „Ak bola vyhlásená kríza cien elektriny na regionálnej úrovni alebo na území celej Európskej únie a vláda určila ceny dodávky elektriny vo výške, ktorá nepokrýva všetky ekonomicky oprávnené náklady a primeraný zisk dodávateľov elektriny, vláda určí spôsob a postup vyrovnania rozdielu medzi ekonomicky oprávnenými nákladmi a primeraným ziskom na dodávku elektriny a určenou výškou ceny dodávky elektriny podľa odseku 3.“.
 
 - 52. § 16a sa dopĺňa odsekmi 7 a 8, ktoré znejú:
 
@@ -117,6 +267,12 @@ Zákon č. 250/2012 Z. z. o regulácii v sieťových odvetviach v znení zákona
 - <sup>34bc</sup>) § 40 zákona č. 251/2012 Z. z. v znení neskorších predpisov.
 
 - <sup>34bd</sup>) § 7 ods. 1 písm. g) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 198/2007 Z. z.“.
+
+- 53. V § 17 sa odsek 2 dopĺňa písmenom k), ktoré znie:
+
+- „k)
+
+- o to požiada agentúra alebo to vyplýva z rozhodnutia agentúry.“.
 
 - 54. V § 24 odsek 3 znie:
 
@@ -242,11 +398,71 @@ Zákon č. 250/2012 Z. z. o regulácii v sieťových odvetviach v znení zákona
 
 - 78. V § 28 ods. 10 sa slová „kontrolu nad prenosovou sústavou alebo prepravnou sieťou“ nahrádzajú slovami „kontrolu nad prenosovou sústavou, prepravnou sieťou alebo vodíkovou prepravnou sieťou“ a slová „prevádzkovateľom prenosovej sústavy alebo prevádzkovateľom prepravnej siete“ sa nahrádzajú slovami „prevádzkovateľom prenosovej sústavy, prevádzkovateľom prepravnej siete alebo prevádzkovateľom vodíkovej prepravnej siete“.
 
+- 79. V § 29 ods. 2 sa za prvú vetu vkladá nová druhá veta, ktorá znie: „Prevádzkovateľ regionálnej distribučnej sústavy nemá povinnosť podľa prvej vety, ak ide o zákazku podľa odseku 4 písm. f) alebo písm. g); zmluvu uzatvorenú na takúto zákazku je povinný predložiť úradu do 15 dní po jej uzavretí.“.
+
+- 80. V § 29 sa odsek 4 dopĺňa písmenami f) a g), ktoré znejú:
+
+- „f)
+
+- ide o zákazku zadávanú prevádzkovateľom regionálnej distribučnej sústavy prepojenému podniku podľa osobitného predpisu<sup>51aa</sup>) bez použitia postupov zadávania nadlimitných zákaziek z dôvodov podľa osobitného predpisu,<sup>51ab</sup>)
+
+- g)
+
+- ide o zákazku zadávanú prevádzkovateľom regionálnej distribučnej sústavy, ktorý je súčasťou vertikálne integrovaného podniku a vykonáva činnosť distribúcie elektriny, inému regulovanému subjektu, ktorý je súčasťou toho istého vertikálne integrovaného podniku a vykonáva činnosť distribúcie elektriny.“.
+
+  - Poznámky pod čiarou k odkazom 51aa a 51ab znejú:
+
+  - „<sup>51aa</sup>) § 85 ods. 3 zákona č. 343/2015 Z. z.
+
+  - <sup>51ab</sup>) § 85 ods. 2 zákona č. 343/2015 Z. z.“.
+
+- 81. V § 29 sa za odsek 4 vkladá nový odsek 5, ktorý znie:
+
+- „(5)
+
+- Výnimka podľa odseku 4 písm. f) sa vzťahuje na zákazku, ktorej predmetom sú
+
+- a)
+
+- telekomunikačné služby,
+
+- b)
+
+- služby podnikateľského, organizačného a ekonomického poradenstva, reklamné, tlačové služby a komunikačné služby, služby organizovania športových, kultúrnych a iných spoločenských podujatí a iné služby v oblasti administratívy a správy spoločnosti vrátane prevádzky informačných systémov a aplikácií potrebných pre poskytovanie daných služieb,
+
+- c)
+
+- služby v oblasti správy, rozvoja a manažmentu ľudských zdrojov vrátane prevádzky informačných systémov a aplikácií potrebných pre poskytovanie daných služieb,
+
+- d)
+
+- finančné služby, služby v oblasti plánovania a kontrolingu a vedenie účtovníctva vrátane prevádzky informačných systémov a aplikácií potrebných pre poskytovanie daných služieb,
+
+- e)
+
+- služby v oblasti metrológie vrátane informačných systémov a aplikácií potrebných pre poskytovanie daných služieb,
+
+- f)
+
+- služby pre oblasť správy, podpory a rozvoja a starostlivosti o informačné technológie vo vlastníctve regulovaného subjektu vrátane služieb správy, podpory a rozvoja licenčného manažmentu.“.
+
+  - Doterajšie odseky 5 až 14 sa označujú ako odseky 6 až 15.
+
+- 82. V § 29 ods. 10 sa slová „odsekov 2 a 8“ nahrádzajú slovami „odsekov 2 a 9“.
+
+- 83. V § 29 ods. 11 sa v celom texte slová „odseku 8“ nahrádzajú slovami „odseku 9“.
+
+- 84. V § 36 ods. 1 písm. aa) sa slová „§ 29 ods. 2, 6, 7 alebo ods. 8“ nahrádzajú slovami „§ 29 ods. 2, 7, 8 alebo ods. 9“.
+
 - 85. V § 36 ods. 2 písm. a) sa na konci pripájajú tieto slová: „alebo bez oprávnenia podľa osobitného predpisu<sup>47a</sup>)“.
 
 - 86. V § 38 ods. 1 písm. a) sa v celom texte vypúšťa slovo „prepravnej“.
 
 - 87. V § 40 ods. 1 písm. p) sa na konci pripájajú tieto slová: „a podmienky jej uplatnenia“.
+
+- 88. V § 40 ods. 4 písm. an) sa za slová „odberateľom plynu“ vkladajú slová „o opatreniach na predchádzanie rizika nedodržania dodávok elektriny podľa zmlúv dojednaných s koncovými odberateľmi elektriny“ a na konci sa pripájajú tieto slová: „a o prijatých opatreniach na predchádzanie rizika nedodržania dodávok elektriny podľa zmlúv s koncovými odberateľmi elektriny“.
+
+- 89. V § 45f ods. 1 a 2 sa slová „§ 29 ods. 6“ nahrádzajú slovami „§ 29 ods. 7“.
 
 - 90. Príloha sa dopĺňa siedmym bodom a ôsmym bodom, ktoré znejú:
 
