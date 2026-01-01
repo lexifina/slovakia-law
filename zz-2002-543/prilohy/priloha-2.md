@@ -1,0 +1,11 @@
+Príloha č. 2 k zákonu č. 543/2002 Z. z.
+
+- ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
+
+  - 1. Smernica Rady 92/43/EHS z 21. mája 1992 o ochrane prirodzených biotopov a voľne žijúcich živočíchov a rastlín (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 2; Ú. v. ES L 206, 22. 7. 1992) v znení smernice Rady 97/62/ES z 27. októbra 1997 (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 4; Ú. v. ES L 305, 8. 11. 1997) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 1882/2003 z 29. septembra 2003 (Mimoriadne vydanie Ú. v. EÚ, kap. 1/zv. 4; Ú. v. EÚ L 284, 31. 10. 2003) v znení Aktu o podmienkach pristúpenia Rakúska, Švédska a Fínska (Ú. v. ES C 241, 29. 8. 1994) [upravené rozhodnutím Rady 95/1/ES, Euratom, ESUO (Ú. v. ES L 1, 1. 1. 1995)] v znení Aktu o podmienkach pristúpenia Českej republiky, Estónskej republiky, Cyperskej republiky, Lotyšskej republiky, Litovskej republiky, Maďarskej republiky, Maltskej republiky, Poľskej republiky, Slovinskej republiky a Slovenskej republiky a o úpravách zmlúv, na ktorých je založená Európska únia (Ú. v. EÚ L 236, 23. 9. 2003) v znení smernice Rady 2006/105/ES z 20. novembra 2006 (Ú. v. EÚ L 363, 20. 12. 2006) v znení smernice Rady 2013/17/EÚ z 13. mája 2013 (Ú. v. EÚ L 158, 10. 6. 2013).
+
+  - 2. Smernica Rady 1999/22/ES z 29. marca 1999 o chove voľne žijúcich živočíchov v zoologických záhradách (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 4; Ú. v. ES L 94, 9. 4. 1999).
+
+  - 3. Smernica Európskeho parlamentu a Rady 2009/147/ES z 30. novembra 2009 o ochrane voľne žijúceho vtáctva (Ú. v. EÚ L 20, 26. 1. 2010) v znení smernice Rady 2013/17/EÚ z 13. mája 2013 (Ú. v. EÚ L 158, 10. 6. 2013).
+
+  - 4. Smernica Európskeho parlamentu a Rady 2011/92/EÚ z 13. decembra 2011 o posudzovaní vplyvov určitých verejných a súkromných projektov na životné prostredie (kodifikované znenie) (Ú. v. EÚ L 26, 28. 1. 2012).
