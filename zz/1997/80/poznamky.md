@@ -62,9 +62,9 @@
 
 - 13b) § 34 ods. 4 zákona č. 423/2015 Z. z.
 
-- 14) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
+- 14) § 20 až 28 zákona č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 14a) § 35a až 35g a § 36 zákona č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 14a) Zákon č. 357/2015 Z. z. v znení neskorších predpisov.
 
 - 15) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
