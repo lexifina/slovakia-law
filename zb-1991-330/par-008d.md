@@ -1,0 +1,15 @@
+# § 8d Jednoduché pozemkové úpravy vykonávané z dôvodu budúceho použitia pozemkov na iné účely ako hospodárenie na pôde
+
+(1) Žiadateľ o jednoduché pozemkové úpravy vykonávané z dôvodu podľa § 2 ods. 1 písm. h) musí v prípravnom konaní preukázať zabezpečenie financovania nákladov spojených s jednoduchými pozemkovými úpravami predložením zmluvy uzatvorenej s fyzickou osobou alebo právnickou osobou podľa § 25 ods. 1.
+
+(2) Budúci účel využitia pozemkov v navrhovanom obvode projektu pozemkových úprav musí byť v súlade s platným územným plánom obce.<sup>6af</sup>) Ak sa navrhovaný obvod projektu pozemkových úprav nachádza na území obce, ktorá nemá a nie je povinná mať územný plán obce do dátumu podľa osobitného predpisu,<sup>6afa</sup>) budúci účel využitia pozemkov v navrhovanom obvode projektu pozemkových úprav musí byť odsúhlasený uznesením obecného zastupiteľstva a žiadateľ je povinný predložiť súhlas dotknutého orgánu podľa osobitného predpisu.<sup>6ac</sup>)
+
+(3) Pri nepreukázaní účelnosti podľa § 7 ods. 2 písm. a), nepreukázaní záujmu podľa § 7 ods. 2 písm. c), nepreukázaní zabezpečenia financovania nákladov podľa odseku 1 alebo nesplnení podmienok podľa odseku 2 okresný úrad pozemkové úpravy nepovolí.
+
+(4) Hodnota pozemkov sa určí znaleckým posudkom podľa osobitného predpisu.<sup>6ae</sup>) Znalec vychádza z budúceho účelu využitia pozemku. Pri využití pozemkov na jeden účel postačuje pri určení hodnoty pozemku údaj o jednotkovej všeobecnej hodnote pozemku podľa osobitného predpisu.<sup>6ae</sup>) Znalca ustanoví okresný úrad. Náklady na znalecký posudok uhrádza žiadateľ podľa odseku 1.
+
+(5) Vlastníci pozemkov môžu v zásadách umiestnenia nových pozemkov prijať zásadu, že na výmeru potrebnú na vybraný nový pozemok určený na verejné zariadenia a opatrenia podľa § 12 ods. 3 písm. f) prispejú všetci vlastníci podľa pomeru ich nárokov na vyrovnanie k výmere všetkých pozemkov v obvode projektu pozemkových úprav a tento pozemok nadobudne obec za náhradu. Za náhradu sa považuje vecné plnenie vo forme správy a údržby tohto zariadenia po dni nadobudnutia vlastníctva k novým pozemkom podľa § 14 ods. 5. V zásadách umiestnenia nových pozemkov môžu vlastníci pozemkov prijať zásadu, že pozemok podľa prvej vety nemožno scudziť ani zaťažiť; toto obmedzenie sa nevzťahuje na zaťaženie pozemkov, ak ide o budovanie inžinierskych sietí. Obmedzenie podľa tretej vety sa vyznačí v katastri nehnuteľností na základe rozhodnutia o schválení vykonania projektu pozemkových úprav. Pre posudzovanie primeranosti nových pozemkov podľa § 11 ods. 4 a 5 sa za výmeru alebo hodnotu pôvodných pozemkov považuje výmera alebo hodnota znížená o príspevok podľa prvej vety.
+
+(6) Na verejné zariadenia a opatrenia podľa § 12 ods. 3 písm. f) štát a obec prispievajú v rozsahu neknihovaných pozemkov,<sup>7a</sup>) ak tieto neboli použité na spoločné zariadenia a opatrenia podľa § 11 ods. 7.
+
+(7) Vyrovnanie v peniazoch sa vykoná medzi žiadateľom podľa odseku 1 a vlastníkom pozemku v lehote určenej v rozhodnutí o schválení vykonania pozemkových úprav.
