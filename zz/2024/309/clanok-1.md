@@ -228,4 +228,104 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - (25)
 
-- Od 1. januára 2025 do 31. decembra 2025 základná zložka mzdy laboratórneho diagnostika podľa § 80aw ods. 3 je najmenej 2,0362-násobok priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa priznáva základná zložka mzdy; základná zložka mzdy laboratórneho diagnostika ustanovená v § 80aw ods. 3 sa od 1. januára 2025 do 31. decembra 2025 neuplatňuje.“.
+- Od 1. januára 2025 do 31. decembra 2025 základná zložka mzdy laboratórneho diagnostika podľa § 80aw ods. 3 je najmenej 2,0362-násobok priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa priznáva základná zložka mzdy; základná zložka mzdy laboratórneho diagnostika ustanovená v § 80aw ods. 3 sa od 1. januára 2025 do 31. decembra 2025 neuplatňuje.
+
+- § 102ay
+
+- Prechodné ustanovenia účinné od 1. januára 2026 do 31. decembra 2026
+
+- (1)
+
+- Od 1. januára 2026 do 31. decembra 2026 základná zložka mzdy lekára a zubného lekára podľa § 80a ods. 1 je najmenej 1,4772-násobok priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa priznáva základná zložka mzdy; základná zložka mzdy lekára a zubného lekára ustanovená v § 80a ods. 1 sa od 1. januára 2026 do 31. decembra 2026 neuplatňuje.
+
+- (2)
+
+- Od 1. januára 2026 do 31. decembra 2026 základná zložka mzdy lekára a zubného lekára podľa § 80a ods. 2 je najmenej 2,4620-násobok priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa priznáva základná zložka mzdy; základná zložka mzdy lekára a zubného lekára ustanovená v § 80a ods. 2 sa od 1. januára 2026 do 31. decembra 2026 neuplatňuje.
+
+- (3)
+
+- Od 1. januára 2026 do 31. decembra 2026 základná zložka mzdy farmaceuta podľa § 80aa ods. 1 je najmenej 1,2507-násobok priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa priznáva základná zložka mzdy; základná zložka mzdy farmaceuta ustanovená v § 80aa ods. 1 sa od 1. januára 2026 do 31. decembra 2026 neuplatňuje.
+
+- (4)
+
+- Od 1. januára 2026 do 31. decembra 2026 základná zložka mzdy farmaceuta podľa § 80aa ods. 2 je najmenej 1,3000-násobok priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa priznáva základná zložka mzdy; základná zložka mzdy farmaceuta ustanovená v § 80aa ods. 2 sa od 1. januára 2026 do 31. decembra 2026 neuplatňuje.
+
+- (5)
+
+- Od 1. januára 2026 do 31. decembra 2026 základná zložka mzdy farmaceuta podľa § 80aa ods. 3 je najmenej 2,0681-násobok priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa priznáva základná zložka mzdy; základná zložka mzdy farmaceuta ustanovená v § 80aa ods. 3 sa od 1. januára 2026 do 31. decembra 2026 neuplatňuje.
+
+- (6)
+
+- Od 1. januára 2026 do 31. decembra 2026 základná zložka mzdy fyzioterapeuta podľa § 80ad ods. 3 je najmenej 1,0636-násobok priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa priznáva základná zložka mzdy; základná zložka mzdy fyzioterapeuta ustanovená v § 80ad ods. 3 sa od 1. januára 2026 do 31. decembra 2026 neuplatňuje.
+
+- (7)
+
+- Od 1. januára 2026 do 31. decembra 2026 základná zložka mzdy verejného zdravotníka podľa § 80ae ods. 3 je najmenej 1,0636-násobok priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa priznáva základná zložka mzdy; základná zložka mzdy verejného zdravotníka ustanovená v § 80ae ods. 3 sa od 1. januára 2026 do 31. decembra 2026 neuplatňuje.
+
+- (8)
+
+- Od 1. januára 2026 do 31. decembra 2026 základná zložka mzdy zdravotníckeho laboranta podľa § 80af ods. 3 je najmenej 1,0833-násobok priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa priznáva základná zložka mzdy; základná zložka mzdy zdravotníckeho laboranta ustanovená v § 80af ods. 3 sa od 1. januára 2026 do 31. decembra 2026 neuplatňuje.
+
+- (9)
+
+- Od 1. januára 2026 do 31. decembra 2026 základná zložka mzdy rádiologického technika podľa § 80ai ods. 3 je najmenej 1,0636-násobok priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa priznáva základná zložka mzdy; základná zložka mzdy rádiologického technika ustanovená v § 80ai ods. 3 sa od 1. januára 2026 do 31. decembra 2026 neuplatňuje.
+
+- (10)
+
+- Od 1. januára 2026 do 31. decembra 2026 základná zložka mzdy farmaceutického laboranta podľa § 80am ods. 2 je najmenej 1,0636-násobok priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa priznáva základná zložka mzdy; základná zložka mzdy farmaceutického laboranta ustanovená v § 80am ods. 2 sa od 1. januára 2026 do 31. decembra 2026 neuplatňuje.
+
+- (11)
+
+- Od 1. januára 2026 do 31. decembra 2026 základná zložka mzdy logopéda podľa § 80as ods. 1 je najmenej 1,1720-násobok priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa priznáva základná zložka mzdy; základná zložka mzdy logopéda ustanovená v § 80as ods. 1 sa od 1. januára 2026 do 31. decembra 2026 neuplatňuje.
+
+- (12)
+
+- Od 1. januára 2026 do 31. decembra 2026 základná zložka mzdy logopéda podľa § 80as ods. 2 je najmenej 1,2114-násobok priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa priznáva základná zložka mzdy; základná zložka mzdy logopéda ustanovená v § 80as ods. 2 sa od 1. januára 2026 do 31. decembra 2026 neuplatňuje.
+
+- (13)
+
+- Od 1. januára 2026 do 31. decembra 2026 základná zložka mzdy logopéda podľa § 80as ods. 3 je najmenej 1,3788-násobok priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa priznáva základná zložka mzdy; základná zložka mzdy logopéda ustanovená v § 80as ods. 3 sa od 1. januára 2026 do 31. decembra 2026 neuplatňuje.
+
+- (14)
+
+- Od 1. januára 2026 do 31. decembra 2026 základná zložka mzdy liečebného pedagóga podľa § 80at ods. 1 je najmenej 1,1720-násobok priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa priznáva základná zložka mzdy; základná zložka mzdy liečebného pedagóga ustanovená v § 80at ods. 1 sa od 1. januára 2026 do 31. decembra 2026 neuplatňuje.
+
+- (15)
+
+- Od 1. januára 2026 do 31. decembra 2026 základná zložka mzdy liečebného pedagóga podľa § 80at ods. 2 je najmenej 1,2114-násobok priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa priznáva základná zložka mzdy; základná zložka mzdy liečebného pedagóga ustanovená v § 80at ods. 2 sa od 1. januára 2026 do 31. decembra 2026 neuplatňuje.
+
+- (16)
+
+- Od 1. januára 2026 do 31. decembra 2026 základná zložka mzdy liečebného pedagóga podľa § 80at ods. 3 je najmenej 1,3788-násobok priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa priznáva základná zložka mzdy; základná zložka mzdy liečebného pedagóga ustanovená v § 80at ods. 3 sa od 1. januára 2026 do 31. decembra 2026 neuplatňuje.
+
+- (17)
+
+- Od 1. januára 2026 do 31. decembra 2026 základná zložka mzdy psychológa podľa § 80au ods. 1 je najmenej 1,1720-násobok priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa priznáva základná zložka mzdy; základná zložka mzdy psychológa ustanovená v § 80au ods. 1 sa od 1. januára 2026 do 31. decembra 2026 neuplatňuje.
+
+- (18)
+
+- Od 1. januára 2026 do 31. decembra 2026 základná zložka mzdy psychológa podľa § 80au ods. 2 je najmenej 1,2114-násobok priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa priznáva základná zložka mzdy; základná zložka mzdy psychológa ustanovená v § 80au ods. 2 sa od 1. januára 2026 do 31. decembra 2026 neuplatňuje.
+
+- (19)
+
+- Od 1. januára 2026 do 31. decembra 2026 základná zložka mzdy psychológa podľa § 80au ods. 3 je najmenej 1,3788-násobok priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa priznáva základná zložka mzdy; základná zložka mzdy psychológa ustanovená v § 80au ods. 3 sa od 1. januára 2026 do 31. decembra 2026 neuplatňuje.
+
+- (20)
+
+- Od 1. januára 2026 do 31. decembra 2026 základná zložka mzdy fyzika podľa § 80av ods. 1 je najmenej 1,2507-násobok priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa priznáva základná zložka mzdy; základná zložka mzdy fyzika ustanovená v § 80av ods. 1 sa od 1. januára 2026 do 31. decembra 2026 neuplatňuje.
+
+- (21)
+
+- Od 1. januára 2026 do 31. decembra 2026 základná zložka mzdy fyzika podľa § 80av ods. 2 je najmenej 2,0681-násobok priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa priznáva základná zložka mzdy; základná zložka mzdy fyzika ustanovená v § 80av ods. 2 sa od 1. januára 2026 do 31. decembra 2026 neuplatňuje.
+
+- (22)
+
+- Od 1. januára 2026 do 31. decembra 2026 základná zložka mzdy laboratórneho diagnostika podľa § 80aw ods. 1 je najmenej 1,2507-násobok priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa priznáva základná zložka mzdy; základná zložka mzdy laboratórneho diagnostika ustanovená v § 80aw ods. 1 sa od 1. januára 2026 do 31. decembra 2026 neuplatňuje.
+
+- (23)
+
+- Od 1. januára 2026 do 31. decembra 2026 základná zložka mzdy laboratórneho diagnostika podľa § 80aw ods. 2 je najmenej 1,3000-násobok priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa priznáva základná zložka mzdy; základná zložka mzdy laboratórneho diagnostika ustanovená v § 80aw ods. 2 sa od 1. januára 2026 do 31. decembra 2026 neuplatňuje.
+
+- (24)
+
+- Od 1. januára 2026 do 31. decembra 2026 základná zložka mzdy laboratórneho diagnostika podľa § 80aw ods. 3 je najmenej 2,0681-násobok priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa priznáva základná zložka mzdy; základná zložka mzdy laboratórneho diagnostika ustanovená v § 80aw ods. 3 sa od 1. januára 2026 do 31. decembra 2026 neuplatňuje.“.
