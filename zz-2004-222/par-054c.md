@@ -1,0 +1,5 @@
+# § 54c
+
+(1) Ak platiteľ nadobudol investičný majetok uvedený v § 54 ods. 2 od platiteľa podľa § 68d ods. 2 a uplatňuje odpočítanie dane až po skončení kalendárneho roka, v ktorom začalo plynúť obdobie na úpravu odpočítanej dane podľa § 54, § 54a alebo § 54d, je povinný pri odpočítaní dane a prípadnom vysporiadaní pomerného odpočítania dane zohľadniť zmenu alebo zmeny účelu použitia investičného majetku a zmenu alebo zmeny rozsahu použitia investičného majetku, ak k týmto zmenám došlo v období od začiatku plynutia obdobia na úpravu odpočítanej dane do konca kalendárneho roka, v ktorom uplatňuje odpočítanie dane.
+
+(2) Na účely úpravy odpočítanej dane podľa § 54, § 54a alebo § 54d vykonávanej platiteľom, ktorý nadobudol investičný majetok uvedený v § 54 ods. 2 od platiteľa podľa § 68d ods. 2, a vykonávanej platiteľom podľa § 68d ods. 2 sa skratkou DV vo vzorci uvedenom v prílohe č. 1 rozumie daň vzťahujúca sa na obstarávaciu cenu investičného majetku alebo vlastné náklady investičného majetku vo výške zodpovedajúcej sume, ktorú tento platiteľ zaplatil.
