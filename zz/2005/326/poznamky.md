@@ -52,6 +52,8 @@
 
 - 12a) § 29 ods. 1 Stavebného zákona.
 
+- 12aa) Zákon č. 371/2021 Z. z. o významných investíciách v znení zákona č. 26/2025 Z. z.
+
 - 12b) Zákon č. 142/2024 Z. z. o mimoriadnych opatreniach pre strategické investície a pre výstavbu transeurópskej dopravnej siete a o zmene a doplnení niektorých zákonov.
 
 - 13) Napríklad § 18 a 25 Stavebného zákona, zákon č. 44/1988 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii v znení zákona č. 423/2003 Z. z., zákon č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov, zákon č. 610/2003 Z. z. o elektronických komunikáciách v znení neskorších predpisov, zákon č. 276/2001 Z. z. o regulácii v sieťových odvetviach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 281/1997 Z. z. v znení zákona č. 172/2003 Z. z.

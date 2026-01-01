@@ -24,6 +24,6 @@
 
 (6) Orgán štátnej správy lesného hospodárstva, ktorý napadnuté rozhodnutie vydal, vykoná zápis v evidencii lesných pozemkov bezodkladne po doručení rozhodnutia podľa odseku 5.
 
-(7) Obhospodarovateľ lesa zapísaný v evidencii lesných pozemkov je v porastoch, ktorých sa návrh na preskúmanie rozhodnutia mimo odvolacieho konania podľa odseku 1 týka, do nadobudnutia právoplatnosti rozhodnutia o zápise do evidencie lesných pozemkov podľa odseku 4 až 6 povinný zdržať sa výkonu práv a povinností obhospodarovateľa lesa okrem plnenia povinností pri ochrane lesa (§ 28) a vykonania mimoriadnej ťažby podľa § 31 ods. 3.
+(7) Obhospodarovateľ lesa zapísaný v evidencii lesných pozemkov je v porastoch, na ostatných lesných pozemkoch alebo na pozemku podľa § 37 ods. 2, ktorých sa návrh na preskúmanie rozhodnutia mimo odvolacieho konania podľa odseku 1 týka, do nadobudnutia právoplatnosti rozhodnutia o zápise do evidencie lesných pozemkov podľa odseku 4 až 6 povinný zdržať sa výkonu práv a povinností obhospodarovateľa lesa okrem plnenia povinností pri ochrane lesa (§ 28) a vykonania mimoriadnej ťažby podľa § 31 ods. 3.
 
 (8) Na konanie o odvolaní a na konanie o preskúmaní rozhodnutia mimo odvolacieho konania sa primerane použije § 53 až 58, § 59 ods. 4, § 60 až 61 a § 65 až 68 správneho poriadku.

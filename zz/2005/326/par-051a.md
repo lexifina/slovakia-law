@@ -28,9 +28,9 @@
 
 (6) Nájomca lesného pozemku, ktorý ho využíva na účel hospodárenia v lesoch, je oprávnený využívať ho riadnym spôsobom podľa § 665 ods. 1 Občianskeho zákonníka a brať z neho úžitky v súlade s týmto zákonom.
 
-(7) Nájomca alebo podielový spoluvlastník, ktorý nevlastní nadpolovičný spoluvlastnícky podiel na lesnom pozemku, musí k nájomnej zmluve predložiť písomný súhlas spoluvlastníkov, s ktorými dosiahne nadpolovičný spoluvlastnícky podiel na lesnom pozemku; to platí aj pri poraste.
+(7) Nájomca alebo podielový spoluvlastník, ktorý nevlastní nadpolovičný spoluvlastnícky podiel na lesnom pozemku, musí k nájomnej zmluve predložiť písomný súhlas spoluvlastníkov, s ktorými dosiahne nadpolovičný spoluvlastnícky podiel na lesnom pozemku; to platí aj pri poraste, ostatnom lesnom pozemku a pozemku podľa § 37 ods. 2.
 
-(8) Ak obhospodarovateľ lesa hospodári aj na lesných pozemkoch, na ktoré pripadá menšinový podiel v celom poraste, vzniká medzi obhospodarovateľom lesa a menšinovým vlastníkom nájomný vzťah, ak sa nedohodnú inak. Na takto vzniknutý nájomný vzťah sa vzťahujú ustanovenia odsekov 1 až 7 a 9 až 13, ak § 51b neustanovuje inak. Čas trvania takto vzniknutého nájomného vzťahu je totožný s dĺžkou nájomného vzťahu nájomcu alebo s dobou, počas ktorej obhospodarovateľ lesa vykonáva hospodárenie v lese.
+(8) Ak obhospodarovateľ lesa hospodári aj na lesných pozemkoch, na ktoré pripadá menšinový podiel v celom poraste, na ostatnom lesnom pozemku alebo na pozemku podľa § 37 ods. 2, vzniká medzi obhospodarovateľom lesa a menšinovým vlastníkom nájomný vzťah, ak sa nedohodnú inak. Na takto vzniknutý nájomný vzťah sa vzťahujú ustanovenia odsekov 1 až 7 a 9 až 13, ak § 51b neustanovuje inak. Čas trvania takto vzniknutého nájomného vzťahu je totožný s dĺžkou nájomného vzťahu nájomcu alebo s dobou, počas ktorej obhospodarovateľ lesa vykonáva hospodárenie v lese.
 
 (9) Ak nie je dohodnuté inak, nájomné z lesných pozemkov sa platí ročne pozadu, najneskôr k 31. marcu. Výška nájomného sa určí dohodou.
 

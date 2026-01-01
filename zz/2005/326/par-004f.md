@@ -4,7 +4,7 @@
 
 (2) Orgán štátnej správy lesného hospodárstva na základe žiadosti vydá hospodárovi výpis z evidencie, v ktorom uvedie zoznam jednotiek priestorového rozdelenia lesa podľa obhospodarovateľov lesa, na ktorých je hospodár evidovaný.
 
-(3) Správca informačného systému lesného hospodárstva zverejňuje obhospodarovateľa lesa a právnickú osobu podľa § 47 ods. 2 alebo hospodára evidovaných v evidencii lesných pozemkov podľa porastu prostredníctvom geografického informačného systému. Ak ide o fyzickú osobu, zverejňuje sa
+(3) Správca informačného systému lesného hospodárstva zverejňuje obhospodarovateľa lesa a právnickú osobu podľa § 47 ods. 2 alebo hospodára evidovaných v evidencii lesných pozemkov podľa porastu, ostatného lesného pozemku alebo pozemku podľa § 37 ods. 2 prostredníctvom geografického informačného systému. Ak ide o fyzickú osobu, zverejňuje sa
 
 - a) meno a priezvisko obhospodarovateľa lesa,
 

@@ -89,3 +89,5 @@
 (14) Ak sa všetci účastníci konania o zápise do evidencie lesných pozemkov vzdali odvolania písomne alebo ústne do zápisnice, orgán štátnej správy lesného hospodárstva nevyhotovuje písomné rozhodnutie ale rozhodnutie vyznačí v spise, bezodkladne vykoná zápis do evidencie lesných pozemkov a účastníkom konania vydá potvrdenie, ktoré obsahuje údaje podľa odseku 10.
 
 (15) Na rozhodnutie o zápise do evidencie lesných pozemkov podľa odseku 9 písm. a) a odsekov 10 až 14 sa primerane použije § 46, 47, § 51 ods. 3 a § 52 správneho poriadku.
+
+(16) Odseky 1 až 15 sa primerane vzťahujú aj na ostatné lesné pozemky a lesné pozemky, ktoré nie sú porastom alebo ostatným lesným pozemkom.
