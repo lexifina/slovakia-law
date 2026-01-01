@@ -60,6 +60,8 @@
 
 - 14e) § 8 zákona č. 83/2025 Z. z.
 
+- § 27a zákona č. 56/2018 Z. z. v znení zákona č. 318/2025 Z. z.
+
 - 14f) § 6 zákona č. 83/2025 Z. z.
 
 - 15) Napríklad nariadenie (EÚ) 2017/1369 v platnom znení, nariadenie (EÚ) 2019/1020 v platnom znení, nariadenie (EÚ) 2023/988, zákon č. 56/2018 Z. z. v znení neskorších predpisov, zákon č. 106/2018 Z. z. v znení neskorších predpisov, zákon č. 83/2025 Z. z.
