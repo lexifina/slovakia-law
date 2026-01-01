@@ -1,0 +1,1 @@
+Príloha č. 4 k opatreniu č. 206/2025 Z. z. [PRAVIDLÁ NA URČENIE PROGNÓZ DÔCHODKOVÝCH DÁVOK](../assets/2a3e4c77e0fa4142e2886c2d82531b3235ec0d98f1587670e305992279ba29cf.pdf)

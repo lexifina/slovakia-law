@@ -1,0 +1,1 @@
+Príloha č. 2 k opatreniu č. 206/2025 Z. z. [VZOR – VÝPIS Z OSOBNÉHO ÚČTU A VÝKAZ DÔCHODKOVÝCH DÁVOK POBERATEĽA DÁVKY (3. PILIER)](../assets/39e71ca83c9328823f4dfed30e8b91e88a275218512e9cdf4c680c5245cbc19a.pdf)
