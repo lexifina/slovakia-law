@@ -1,0 +1,1 @@
+Juraj Blanár v. r.

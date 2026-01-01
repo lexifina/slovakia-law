@@ -1,0 +1,1 @@
+Príloha č. 1 k opatreniu č. 380/2025 Z. z. [Platové tarify zamestnancov pri výkone práce vo verejnom záujme v zahraničí (v eurách mesačne)](../assets/fa6aa5392b6732ad7469f80443d05d673481edb0d216dce8d3e813a26cc41415.pdf)
