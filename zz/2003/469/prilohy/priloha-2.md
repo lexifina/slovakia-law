@@ -1,1 +1,0 @@
-Príloha č. 2 k zákonu č. 469/2003 Z. z. v znení zákona č. 337/2022 Z. z. [Príloha č. 2 k zákonu č. 469/2003 Z. z. v znení zákona č. 337/2022 Z. z.](../assets/0ae0f7de30a601b473c10b3970349a28eb6bad3e4a59f69d3cc42ce452d13909.pdf)

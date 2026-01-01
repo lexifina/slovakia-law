@@ -1,1 +1,0 @@
-Príloha č. 3 k zákonu č. 469/2003 Z. z. v znení zákona č. 337/2022 Z. z. [Príloha č. 3 k zákonu č. 469/2003 Z. z. v znení zákona č. 337/2022 Z. z.](../assets/a2323a744eb857a5cae9db3338ad795ec31926a67586bd438d46e648200c7c8d.pdf)
