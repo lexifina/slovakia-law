@@ -1,0 +1,1 @@
+Príloha č. 6 k opatreniu č. 30/2025 R. o. [VZOR – Výkaz o rozdelení použiteľných základných vlastných zdrojov pre životné poistenie a pre neživotné poistenie](../assets/772260c86cd5a35523dd6a5301f4d94a01a27bc06af1f28268929d68e6e5dbf7.pdf)

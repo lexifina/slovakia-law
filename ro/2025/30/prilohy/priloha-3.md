@@ -1,0 +1,1 @@
+Príloha č. 3 k opatreniu č. 30/2025 R. o. [VZOR – Hlásenie o všetkých skutočnostiach oznamovaných podľa zákona o poisťovníctve](../assets/245fe4470cadfabe8795f9b23db83c9549354db9d3899b049ca1bd44f3181c37.pdf)

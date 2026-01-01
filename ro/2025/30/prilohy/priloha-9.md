@@ -1,0 +1,1 @@
+Príloha č. 9 k opatreniu č. 30/2025 R. o. [VZOR – Hlásenie o audítorskej spoločnosti a štatutárnych audítoroch vybraných pre výkon štatutárneho auditu](../assets/3ef39162aaa2130026ae57825a3f6ae0d6788e11088b21240c440a0b98762da7.pdf)

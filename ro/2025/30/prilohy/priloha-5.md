@@ -1,0 +1,1 @@
+Príloha č. 5 k opatreniu č. 30/2025 R. o. [VZOR – Hlásenie o zverenom výkone kritických alebo dôležitých operačných funkcií alebo činností inej osobe](../assets/d1659ebd3bfb02414ab4b9c8df7bd954d1664c050d574f396e21f0e2901589b5.pdf)

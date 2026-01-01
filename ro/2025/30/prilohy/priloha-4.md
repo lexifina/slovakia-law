@@ -1,0 +1,1 @@
+Príloha č. 4 k opatreniu č. 30/2025 R. o. [VZOR – Hlásenie o osobách, ktoré riadia poisťovňu alebo zaisťovňu, alebo sú zodpovedné za kľúčové funkcie](../assets/8863459c1ea43950e9d985898c0ce4c55ad19e9a4fb60268f4761a8362b29bc6.pdf)
