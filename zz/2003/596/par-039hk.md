@@ -1,3 +1,0 @@
-# § 39hk Prechodné ustanovenie k úpravám účinným od 1. septembra 2023
-
-Obecné zastupiteľstvo prerokuje skutočnosť, že obec neposkytla z príjmov z výnosu dane z príjmov fyzických osôb materským školám vo svojej zriaďovateľskej pôsobnosti plnú výšku finančných prostriedkov na základe počtu detí materských škôl v zriaďovateľskej pôsobnosti obce, podľa predpisov účinných od 1. septembra 2023, najskôr v kalendárnom roku 2025 vo vzťahu k finančným prostriedkom poskytnutým v kalendárnom roku 2024; to platí, aj ak ide o zverejnenie dôvodov, pre ktoré obec neposkytla plnú výšku finančných prostriedkov na svojom webovom sídle.
