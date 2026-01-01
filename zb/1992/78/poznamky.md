@@ -32,6 +32,8 @@
 
 - 5b) Čl. 4 ods. 7 nariadenia (EÚ) 2016/679.
 
+- 5c) Napríklad zákon č. 442/2012 Z. z. o medzinárodnej pomoci a spolupráci pri správe daní v znení neskorších predpisov, zákon č. 359/2015 Z. z. o automatickej výmene informácií o finančných účtoch na účely správy daní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 6) Napr. Zákonník práce.
 
 - 7) § 10 zákona č. 162/2015 Z. z. Správny súdny poriadok v znení neskorších predpisov.
