@@ -1,0 +1,1 @@
+Arpád Érsek v.r.
