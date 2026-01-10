@@ -63,3 +63,5 @@ Príloha k zákonu č. 566/2001 Z. z.
   - 30. Smernica Európskeho parlamentu a Rady (EÚ) 2022/2556 zo 14. decembra 2022, ktorou sa menia smernice 2009/65/ES, 2009/138/ES, 2011/61/EÚ, 2013/36/EÚ, 2014/59/EÚ, 2014/65/EÚ, (EÚ) 2015/2366 a (EÚ) 2016/2341, pokiaľ ide o digitálnu prevádzkovú odolnosť finančného sektora (Ú. v. EÚ L 333, 27. 12. 2022).
 
   - 31. Smernica Európskeho parlamentu a Rady (EÚ) 2024/790 z 28. februára 2024, ktorou sa mení smernica 2014/65/EÚ o trhoch s finančnými nástrojmi (Ú. v. EÚ L, 2024/790, 8. 3. 2024).
+
+  - 31. Smernica Európskeho parlamentu a Rady (EÚ) 2023/2864 z 13. decembra 2023, ktorou sa menia určité smernice, pokiaľ ide o zriadenie a fungovanie jednotného európskeho miesta prístupu (Ú. v. EÚ L, 2023/2864, 20. 12. 2023).

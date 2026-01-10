@@ -782,6 +782,18 @@
 
 - 110daa) § 44 ods. 3 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
+- 110db) Nariadenie Európskeho parlamentu a Rady (EÚ) 2023/2859 z 13. decembra 2023, ktorým sa zriaďuje jednotné európske miesto prístupu, ktoré poskytuje centralizovaný prístup k verejne dostupným informáciám týkajúcim sa finančných služieb, kapitálových trhov a udržateľnosti (Ú. v. EÚ L, 2023/2859, 20. 12. 2023) v platnom znení.
+
+- 110dc) § 5a ods. 1 zákona č. 747/2004 Z. z. v znení zákona č. 187/2025 Z. z.
+
+- 110dd) § 5a ods. 2 a 3 zákona č. 747/2004 Z. z. v znení zákona č. 187/2025 Z. z.
+
+- 110de) Čl. 2 ods. 3 nariadenia (EÚ) 2023/2859 v platnom znení.
+
+- 110df) Čl. 7 ods. 4 písm. b) nariadenia (EÚ) 2023/2859 v platnom znení.
+
+- 110dg) Čl. 7 ods. 4 písm. c) nariadenia (EÚ) 2023/2859 v platnom znení.
+
 - 110e) Napríklad zákon č. 367/2000 Z. z. v znení neskorších predpisov, § 13 až 15 zákona č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
 
 - 110ea) § 6 ods. 20 písm. c) zákona č. 483/2001 Z. z. v znení neskorších predpisov.
