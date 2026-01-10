@@ -620,6 +620,18 @@
 
 - 45d) Čl. 15 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1092/2010 z 24. novembra 2010 o makroprudenciálnom dohľade Európskej únie nad finančným systémom a o zriadení Európskeho výboru pre systémové riziká (Ú. v. EÚ L 331, 15. 12. 2010).
 
+- 45e) Nariadenie Európskeho parlamentu a Rady (EÚ) 2023/2859 z 13. decembra 2023, ktorým sa zriaďuje jednotné európske miesto prístupu, ktoré poskytuje centralizovaný prístup k verejne dostupným informáciám týkajúcim sa finančných služieb, kapitálových trhov a udržateľnosti (Ú. v. EÚ L, 2023/2859, 20. 12. 2023) v platnom znení.
+
+- 45f) § 5a ods. 1 zákona č. 747/2004 Z. z. v znení zákona č. 187/2025 Z. z.
+
+- 45g) § 5a ods. 2 a 3 zákona č. 747/2004 Z. z. v znení zákona č. 187/2025 Z. z.
+
+- 45h) Čl. 2 ods. 3 nariadenia (EÚ) 2023/2859 v platnom znení.
+
+- 45i) Čl. 7 ods. 4 písm. b) nariadenia (EÚ) 2023/2859 v platnom znení.
+
+- 45j) Čl. 7 ods. 4 písm. c) nariadenia (EÚ) 2023/2859 v platnom znení.
+
 - 46) Napríklad zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov, v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení neskorších predpisov, zákon č. 431/2002 Z. z. v znení neskorších predpisov, zákon č. 510/2002 Z. z. v znení neskorších predpisov, zákon č. 367/2000 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 266/2005 Z. z. o ochrane spotrebiteľa pri finančných službách na diaľku a o zmene a doplnení niektorých zákonov, zákon č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov, § 6 zákona č. 384/2011 Z. z. o osobitnom odvode vybraných finančných inštitúcií a o doplnení niektorých zákonov v znení zákona č. 233/2012 Z. z.
 
 - 46a) Čl. 25 až 61 nariadenia (EÚ) č. 575/2013 v platnom znení.
