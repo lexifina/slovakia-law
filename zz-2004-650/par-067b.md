@@ -1,0 +1,3 @@
+# § 67b Informačné povinnosti doplnkovej dôchodkovej spoločnosti voči orgánom verejnej moci
+
+Doplnková dôchodková spoločnosť poskytuje ministerstvu, Ministerstvu financií Slovenskej republiky (ďalej len „ministerstvo financií“) a Rade pre rozpočtovú zodpovednosť prostredníctvom Kancelárie Rady pre rozpočtovú zodpovednosť údaje vrátane osobných údajov, ktoré spracúva podľa tohto zákona, o účastníkovi, poberateľovi dávky a oprávnenej osobe, a to v rozsahu nevyhnutnom na plnenie úloh podľa osobitných predpisov.<sup>43a</sup>) Orgány podľa prvej vety sú povinné osobné údaje získané podľa prvej vety šifrovať ihneď, ako je to možné, a ak šifrovanie nie je v odôvodnených prípadoch možné, pseudonymizovať ihneď, ako je to možné.

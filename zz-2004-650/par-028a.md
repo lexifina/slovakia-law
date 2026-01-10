@@ -1,0 +1,29 @@
+# § 28a Ochrana osobných údajov
+
+(1) Na účely identifikácie účastníkov, poberateľov dávok, zamestnávateľov, oprávnených osôb uvedených v § 21 a finančných agentov v sektore doplnkového dôchodkového sporenia, uzatvárania, vykonávania a následnej kontroly účastníckych zmlúv, zamestnávateľských zmlúv a zmlúv s finančnými agentmi v sektore doplnkového dôchodkového sporenia a na účely uvedené v odseku 3 sú účastníci, poberatelia dávok, zamestnávatelia, oprávnené osoby a finanční agenti v sektore doplnkového dôchodkového sporenia aj bez súhlasu dotknutých osôb<sup>24a</sup>) povinní pri každom uzatváraní zmluvy doplnkovej dôchodkovej spoločnosti na jej žiadosť
+
+- a) poskytnúť
+
+  - 1. osobné údaje<sup>24b</sup>) o totožnosti fyzickej osoby, a to meno, priezvisko, adresu trvalého pobytu, adresu prechodného pobytu, ak ho má, rodné číslo, ak je pridelené, dátum narodenia, štátnu príslušnosť, druh a číslo dokladu totožnosti, ak fyzická osoba je podnikateľ, predmet podnikania a adresu miesta podnikania a označenie úradného registra alebo inej úradnej evidencie, v ktorej je zapísaný, a číslo zápisu do tohto registra alebo evidencie,
+
+  - 2. identifikačné údaje právnickej osoby, a to názov, identifikačné číslo, ak je pridelené, adresu sídla, adresu umiestnenia podniku alebo organizačných zložiek a inú adresu miesta výkonu činnosti, predmet podnikania alebo inej činnosti, ako aj zoznam fyzických osôb tvoriacich štatutárny orgán tejto právnickej osoby a údaje o nich podľa prvého bodu, označenie úradného registra alebo inej úradnej evidencie, v ktorej je táto právnická osoba zapísaná, a číslo zápisu do tohto registra alebo evidencie,
+
+  - 3. kontaktné telefónne číslo, faxové číslo a adresu elektronickej pošty, ak ich má,
+
+  - 4. doklady a údaje preukazujúce splnenie ostatných požiadaviek a podmienok na uzatvorenie alebo vykonanie účastníckej zmluvy, zamestnávateľskej zmluvy a zmluvy s finančným agentom v sektore doplnkového dôchodkového sporenia,
+
+- b) umožniť získať kopírovaním, skenovaním alebo iným zaznamenávaním
+
+  - 1. osobné údaje<sup>24b</sup>) o totožnosti fyzickej osoby z dokladu totožnosti, a to obrazovú podobizeň, titul, meno, priezvisko, rodné priezvisko, rodné číslo, dátum narodenia, miesto a okres narodenia, adresu trvalého pobytu, adresu prechodného pobytu, štátnu príslušnosť, záznam o obmedzení spôsobilosti na právne úkony, druh a číslo dokladu totožnosti, vydávajúci orgán, dátum vydania a platnosť dokladu totožnosti a
+
+  - 2. ďalšie údaje z dokladov preukazujúcich údaje, na ktoré sa vzťahuje písmeno a).
+
+(2) Na účely identifikácie účastníkov, poberateľov dávok, zamestnávateľov, oprávnených osôb a finančných agentov v sektore doplnkového dôchodkového sporenia a na účely uvedené v odseku 3 je doplnková dôchodková spoločnosť oprávnená pri každom uzatváraní účastníckej zmluvy, zamestnávateľskej zmluvy a zmluvy s finančným agentom v sektore doplnkového dôchodkového sporenia požadovať od účastníkov, zamestnávateľov a finančných agentov v sektore doplnkového dôchodkového sporenia údaje vymedzené v odseku 1 písm. a) a získať ich spôsobom vymedzeným v odseku 1 písm. b). Účastníci, zamestnávatelia a finanční agenti v sektore doplnkového dôchodkového sporenia sú povinní vyhovieť každej takejto žiadosti doplnkovej dôchodkovej spoločnosti.
+
+(3) Na účely identifikácie účastníkov, poberateľov dávok, zamestnávateľov, oprávnených osôb a finančných agentov v sektore doplnkového dôchodkového sporenia, uzatvárania, vykonávania a následnej kontroly účastníckych zmlúv, zamestnávateľských zmlúv a zmlúv s finančnými agentmi v sektore doplnkového dôchodkového sporenia, na účel ochrany a domáhania sa práv doplnkovej dôchodkovej spoločnosti voči účastníkom, poberateľom dávok, zamestnávateľom, oprávneným osobám a finančným agentom v sektore doplnkového dôchodkového sporenia, na účel zdokumentovania činnosti doplnkovej dôchodkovej spoločnosti, na účely výkonu dohľadu nad doplnkovými dôchodkovými spoločnosťami a nad ich činnosťou a na plnenie povinností a úloh doplnkovej dôchodkovej spoločnosti podľa tohto zákona alebo osobitných predpisov<sup>24c</sup>) je doplnková dôchodková spoločnosť aj bez súhlasu a informovania dotknutých osôb<sup>24a</sup>) oprávnená zisťovať, získavať, zaznamenávať, uchovávať, využívať a inak spracúvať<sup>24d</sup>) osobné údaje a iné údaje v rozsahu podľa odseku 1; pritom je doplnková dôchodková spoločnosť oprávnená s použitím automatizovaných alebo neautomatizovaných prostriedkov vyhotovovať kópie dokladov totožnosti a spracúvať rodné čísla a ďalšie údaje a doklady vymedzené v odseku 1.
+
+(4) Ak účastník udelil súhlas s poskytovaním údajov o doplnkovom dôchodkovom sporení, ktoré doplnková dôchodková spoločnosť spracúva podľa tohto zákona, doplnková dôchodková spoločnosť je povinná v strojovo-spracovateľnom formáte automatizovaným spôsobom prostredníctvom aplikačného programového rozhrania poskytovať prístup k údajom účastníka autentifikovanej tretej strane. Doplnková dôchodková spoločnosť je povinná komunikovať prostredníctvom aplikačného programového rozhrania bezpečným spôsobom a prijímateľ údajov podľa prvej vety je povinný získané údaje šifrovať ihneď, ako je to možné.
+
+(5) Údaje, na ktoré sa vzťahujú odseky 1 až 3, je doplnková dôchodková spoločnosť povinná aj bez súhlasu a informovania dotknutých osôb<sup>24a</sup>) sprístupniť a poskytovať<sup>24e</sup>) na spracúvanie iným osobám v prípadoch ustanovených osobitným predpisom a Národnej banke Slovenska na účely vykonávania dohľadu podľa tohto zákona a osobitných predpisov.
+
+(6) Údaje, na ktoré sa vzťahujú odseky 1 až 3, môže doplnková dôchodková spoločnosť sprístupniť alebo poskytnúť do cudziny len za podmienok ustanovených v osobitnom zákone,<sup>24f</sup>) alebo ak tak ustanovuje medzinárodná zmluva, ktorou je Slovenská republika viazaná a ktorá má prednosť pred zákonmi Slovenskej republiky.
