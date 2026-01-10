@@ -30,7 +30,7 @@
 
   - 1. možnostiach účastníka spojených s jeho účasťou na doplnkovom dôchodkovom sporení,
 
-  - 2. dokumentoch uvedených v § 30 ods. 1, § 48a a § 65 ods. 1 písm. j),
+  - 2. dokumentoch uvedených v § 30 ods. 1, § 48a a § 65 ods. 1 písm. j) a k),
 
   - 3. vplyve skončenia pracovnoprávneho vzťahu alebo obdobného právneho vzťahu na výšku predpokladaných dôchodkových dávok účastníka,
 
@@ -54,7 +54,7 @@
 
 - g) informáciu o tom, kde možno získať ďalšie informácie najmä o
 
-  - 1. dokumentoch uvedených v § 30 ods. 1, § 48a a § 65 ods. 1 písm. j),
+  - 1. dokumentoch uvedených v § 30 ods. 1, § 48a a § 65 ods. 1 písm. j) a k),
 
   - 2. pravidlách investovania doplnkového dôchodkového fondu.
 

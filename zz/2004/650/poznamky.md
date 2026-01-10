@@ -178,6 +178,18 @@
 
 - 43a) Napríklad § 35 až 38 zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov, § 14 ods. 5 a § 30aa ods. 21 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, čl. 4 ústavného zákona č. 493/2011 Z. z. o rozpočtovej zodpovednosti.
 
+- 43b) Nariadenie Európskeho parlamentu a Rady (EÚ) 2023/2859 z 13. decembra 2023, ktorým sa zriaďuje jednotné európske miesto prístupu, ktoré poskytuje centralizovaný prístup k verejne dostupným informáciám týkajúcim sa finančných služieb, kapitálových trhov a udržateľnosti (Ú. v. EÚ L, 2023/2859, 20. 12. 2023) v platnom znení.
+
+- 43c) § 5a ods. 1 zákona č. 747/2004 Z. z. v znení zákona č. 187/2025 Z. z.
+
+- 43d) § 5a ods. 2 a 3 zákona č. 747/2004 Z. z. v znení zákona č. 187/2025 Z. z.
+
+- 43e) Čl. 2 ods. 3 nariadenia (EÚ) 2023/2859 v platnom znení.
+
+- 43f) Čl. 7 ods. 4 písm. b) nariadenia (EÚ) 2023/2859 v platnom znení.
+
+- 43g) Čl. 7 ods. 4 písm. c) nariadenia (EÚ) 2023/2859 v platnom znení.
+
 - 44) Obchodný zákonník.
 
 - 45) Zákon č. 244/2002 Z. z. o rozhodcovskom konaní.

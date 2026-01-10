@@ -22,4 +22,4 @@
 
   - 7. dobu trvania zmluvy o zverení činností so správcom aktív,
 
-- c) jasné odôvodnenie, prečo zmluva o zverení činností so správcom aktív neobsahuje informáciu podľa písmen a) a b), ak zmluva o zverení činností so správcom aktív neobsahuje informáciu podľa písmen a) a b).
+- c) jasné a odôvodnené vysvetlenie skutočnosti, ak zmluva so správcom aktív neobsahuje niektorú z informácií podľa písmena b).
