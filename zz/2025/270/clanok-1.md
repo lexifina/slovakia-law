@@ -184,6 +184,14 @@ Zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niekto
 
 - Funkčný príplatok za výkon funkcie podľa odseku 1 písm. a) alebo odseku 2 nepatrí členovi hodnotiacej komisie.“.
 
+- 38. Za § 69 sa vkladá § 69a, ktorý vrátane nadpisu znie:
+
+- „§ 69a
+
+- Funkčný príplatok za výkon funkcie člena disciplinárneho senátu
+
+- Sudcovi, okrem sudcu najvyššieho správneho súdu, patrí za výkon funkcie člena disciplinárneho senátu funkčný príplatok v sume 200 eur mesačne.“.
+
 - 39. V § 71a sa za slová „okresnom súde,“ vkladajú slová „krajskom súde alebo na správnom súde,“.
 
 - 40. V § 72 ods. 2 sa na konci prvej vety bodka nahrádza bodkočiarkou a pripájajú sa tieto slová: „to neplatí, ak ide o hosťujúceho sudcu, ktorý bol dočasne pridelený na krajský súd alebo na správny súd podľa § 12 ods. 1.“.
