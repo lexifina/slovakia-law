@@ -1,0 +1,1 @@
+- 1) § 11 ods. 9 písm. d) zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
