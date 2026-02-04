@@ -6,8 +6,6 @@
 
 - 2a) § 2 ods. 1 zákona č. 581/2004 Z. z o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 2b) § 2 ods. 2 zákona č. 346/2018 Z. z. o registri mimovládnych neziskových organizácií a o zmene a doplnení niektorých zákonov.
-
 - 3) Napríklad zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov, zákon č. 149/1975 Zb. o archívnictve v znení neskorších predpisov.
 
 - 3a) Zákon č. 205/2004 Z. z. o zhromažďovaní, uchovávaní a šírení informácií o životnom prostredí.

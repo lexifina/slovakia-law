@@ -4,7 +4,7 @@
 
 (2) Povinne zverejňovaná zmluva je aj písomná zmluva, ktorú uzaviera povinná osoba podľa § 2 ods. 3, v ktorej má štát alebo povinná osoba podľa § 2 ods. 1 a 2 výlučnú účasť alebo v ktorej majú štát a povinná osoba podľa § 2 ods. 1 a 2 spoločne výlučnú účasť alebo v ktorej majú štát a viaceré povinné osoby podľa § 2 ods. 1 a 2 spoločne výlučnú účasť a ktorá sa týka nakladania s jej majetkom; to neplatí, ak je zmluva uzatvorená v bežnom obchodnom styku v rozsahu predmetu podnikania alebo činnosti zapísanej v obchodnom registri alebo v inej úradnej evidencii.
 
-(3) Namiesto zmluvy uzatvorenej v bežnom obchodnom styku v rozsahu predmetu podnikania alebo činnosti zapísanej v obchodnom registri alebo v inej úradnej evidencii povinnej osoby podľa odseku 2 a namiesto zmluvy podľa § 5a ods. 5 písm. c), d), i), j), r) a s) sa zverejňuje informácia o uzatvorení takejto zmluvy; to neplatí, ak sa zmluva uzavrela s fyzickou osobou, ktorá nie je podnikateľom. Na zverejňovanie informácie podľa prvej vety sa použijú odseky 7, 8, 10 a 15 rovnako.
+(3) Namiesto zmluvy uzatvorenej v bežnom obchodnom styku v rozsahu predmetu podnikania alebo činnosti zapísanej v obchodnom registri alebo v inej úradnej evidencii povinnej osoby podľa odseku 2 a namiesto zmluvy podľa § 5a ods. 5 písm. c), d), i), j), r) a s) sa zverejňuje informácia o uzatvorení takejto zmluvy; to neplatí, ak sa zmluva uzavrela s fyzickou osobou, ktorá nie je podnikateľom. Na zverejňovanie informácie podľa prvej vety sa použijú odseky 6, 7, 9 a 14 rovnako.
 
 (4) Ustanovenie povinne zverejňovanej zmluvy, ktoré obsahuje informáciu, ktorá sa podľa tohto zákona nesprístupňuje, sa nezverejňuje. Rovnako sa nemusia zverejniť časti povinne zverejňovanej zmluvy, ktorými sú technické predlohy, návody, výkresy, projektové dokumentácie, modely, spôsob výpočtu jednotkových cien a vzory. Ustanovenia všeobecných obchodných podmienok sa nemusia zverejniť, ak časť obsahu povinne zverejňovanej zmluvy je určená odkazom na ne a zároveň totožné ustanovenia všeobecných obchodných podmienok boli zverejnené tou istou povinnou osobou spolu s inou povinne zverejňovanou zmluvou, ktorá už nadobudla účinnosť; pri takto povinne zverejňovanej zmluve sa uvedie v Centrálnom registri zmlúv (ďalej len „register“) alebo na webovom sídle odkaz na inú povinne zverejňovanú zmluvu, ktorá už nadobudla účinnosť.
 
@@ -50,25 +50,23 @@
 
 - t) zmluva o pôžičke, ktorej účelom je vrátenie hodnoty poskytnutého preddavku na úhradu paušálnej odmeny správcu podľa osobitného predpisu.<sup>7cj</sup>)
 
-(6) Povinne zverejňovanou zmluvou nie je ani zmluva, ktorú uzaviera povinná osoba podľa § 2 ods. 4 s osobou, ktorá nie je povinnou osobou; to neplatí, ak ide o povinne zverejňovanú zmluvu podľa odseku 2.
+(6) Povinne zverejňovaná zmluva, ktorej účastníkom je povinná osoba, sa zverejňuje v registri; to neplatí, ak ide o Národnú banku Slovenska.
 
-(7) Povinne zverejňovaná zmluva, ktorej účastníkom je povinná osoba, sa zverejňuje v registri; to neplatí, ak ide o Národnú banku Slovenska.
+(7) Povinná osoba zašle bezodkladne Úradu vlády Slovenskej republiky zmluvu na zverejnenie. Úrad vlády Slovenskej republiky zodpovedá za súlad zverejnenej zmluvy s jej zaslaným znením podľa prvej vety.
 
-(8) Povinná osoba zašle bezodkladne Úradu vlády Slovenskej republiky zmluvu na zverejnenie. Úrad vlády Slovenskej republiky zodpovedá za súlad zverejnenej zmluvy s jej zaslaným znením podľa prvej vety.
+(8) Register je verejný zoznam povinne zverejňovaných zmlúv, ktorý vedie Úrad vlády Slovenskej republiky v elektronickej podobe; register je informačný systém verejnej správy.<sup>7d</sup>)
 
-(9) Register je verejný zoznam povinne zverejňovaných zmlúv, ktorý vedie Úrad vlády Slovenskej republiky v elektronickej podobe; register je informačný systém verejnej správy.<sup>7d</sup>)
+(9) Povinne zverejňovaná zmluva, ktorá sa nezverejňuje v registri, sa zverejňuje na webovom sídle povinnej osoby, ktorá zmluvu uzatvára, a to bezodkladne po uzavretí zmluvy alebo po doručení súhlasu, ak sa na jej platnosť vyžaduje súhlas príslušného orgánu. Ak táto osoba nemá webové sídlo, zmluva sa zverejňuje na webovom sídle jej zriaďovateľa alebo bezodplatne v Obchodnom vestníku.<sup>7e</sup>)
 
-(10) Povinne zverejňovaná zmluva, ktorá sa nezverejňuje v registri, sa zverejňuje na webovom sídle povinnej osoby, ktorá zmluvu uzatvára, a to bezodkladne po uzavretí zmluvy alebo po doručení súhlasu, ak sa na jej platnosť vyžaduje súhlas príslušného orgánu. Ak táto osoba nemá webové sídlo, zmluva sa zverejňuje na webovom sídle jej zriaďovateľa alebo bezodplatne v Obchodnom vestníku.<sup>7e</sup>)
+(10) Ak zmluva nie je zverejnená do siedmich dní odo dňa uzavretia alebo odo dňa doručenia súhlasu, ak sa na jej platnosť vyžaduje súhlas príslušného orgánu, môže účastník podať návrh na zverejnenie v Obchodnom vestníku.
 
-(11) Ak zmluva nie je zverejnená do siedmich dní odo dňa uzavretia alebo odo dňa doručenia súhlasu, ak sa na jej platnosť vyžaduje súhlas príslušného orgánu, môže účastník podať návrh na zverejnenie v Obchodnom vestníku.
+(11) Povinná osoba a Úrad vlády Slovenskej republiky vydajú účastníkovi zmluvy na jeho požiadanie písomné potvrdenie o zverejnení zmluvy; povinná osoba a Úrad vlády Slovenskej republiky môžu vydať potvrdenie v elektronickej podobe podpísané elektronickým podpisom alebo zaručeným elektronickým podpisom podľa osobitného zákona.<sup>7f</sup>)
 
-(12) Povinná osoba a Úrad vlády Slovenskej republiky vydajú účastníkovi zmluvy na jeho požiadanie písomné potvrdenie o zverejnení zmluvy; povinná osoba a Úrad vlády Slovenskej republiky môžu vydať potvrdenie v elektronickej podobe podpísané elektronickým podpisom alebo zaručeným elektronickým podpisom podľa osobitného zákona.<sup>7f</sup>)
-
-(13) Písomné potvrdenie podľa odseku 12 obsahuje najmä tieto údaje:
+(12) Písomné potvrdenie podľa odseku 11 obsahuje najmä tieto údaje:
 
 - a) názov zmluvy,
 
-- b) identifikáciu účastníkov zmluvy; ak ide o osobné údaje účastníka zmluvy odlišného od povinnej osoby, uvedú sa osobné údaje podľa odseku 14,
+- b) identifikáciu účastníkov zmluvy; ak ide o osobné údaje účastníka zmluvy odlišného od povinnej osoby, uvedú sa osobné údaje podľa odseku 13,
 
 - c) popis predmetu zmluvy,
 
@@ -80,10 +78,10 @@
 
 - g) označenie nehnuteľnosti v rozsahu podľa osobitného predpisu,<sup>7fa</sup>) ak sa zverejnila zmluva, ktorá na vznik, zmenu alebo zánik práva vyžaduje vklad do katastra nehnuteľností podľa osobitného predpisu.<sup>7fb</sup>)
 
-(14) Ak je zmluva zverejnená viacerými spôsobmi alebo viacerými účastníkmi zmluvy, rozhodujúce je prvé zverejnenie zmluvy. Povinná osoba alebo účastník zmluvy podávajúci návrh na zverejnenie podľa odseku 11 sú povinní zabezpečiť súlad zverejnenej zmluvy so skutočným stavom a nesprístupnenie ustanovení zmluvy obsahujúcich informáciu, ktorá sa podľa tohto zákona nesprístupňuje; to neplatí o osobných údajoch účastníka zmluvy odlišného od povinnej osoby v rozsahu titul, meno, priezvisko, adresa trvalého pobytu a o označení nehnuteľnosti v rozsahu podľa osobitného predpisu,<sup>7fa</sup>) ak ide o zmluvu, ktorá na vznik, zmenu alebo zánik práva vyžaduje vklad do katastra nehnuteľností podľa osobitného predpisu.<sup>7fb</sup>)
+(13) Ak je zmluva zverejnená viacerými spôsobmi alebo viacerými účastníkmi zmluvy, rozhodujúce je prvé zverejnenie zmluvy. Povinná osoba alebo účastník zmluvy podávajúci návrh na zverejnenie podľa odseku 10 sú povinní zabezpečiť súlad zverejnenej zmluvy so skutočným stavom a nesprístupnenie ustanovení zmluvy obsahujúcich informáciu, ktorá sa podľa tohto zákona nesprístupňuje; to neplatí o osobných údajoch účastníka zmluvy odlišného od povinnej osoby v rozsahu titul, meno, priezvisko, adresa trvalého pobytu a o označení nehnuteľnosti v rozsahu podľa osobitného predpisu,<sup>7fa</sup>) ak ide o zmluvu, ktorá na vznik, zmenu alebo zánik práva vyžaduje vklad do katastra nehnuteľností podľa osobitného predpisu.<sup>7fb</sup>)
 
-(15) Povinne zverejňovaná zmluva sa zverejňuje nepretržite počas existencie záväzku vzniknutého z povinne zverejňovanej zmluvy, najmenej však počas desiatich rokov od nadobudnutia účinnosti podľa zákona.<sup>7g</sup>)
+(14) Povinne zverejňovaná zmluva sa zverejňuje nepretržite počas existencie záväzku vzniknutého z povinne zverejňovanej zmluvy, najmenej však počas desiatich rokov od nadobudnutia účinnosti podľa zákona.<sup>7g</sup>)
 
-(16) Podrobnosti o zverejňovaní zmlúv v registri a náležitosti informácie podľa § 5a ods. 3 ustanoví nariadenie vlády Slovenskej republiky.
+(15) Podrobnosti o zverejňovaní zmlúv v registri a náležitosti informácie podľa § 5a ods. 3 ustanoví nariadenie vlády Slovenskej republiky.
 
-(17) Povinne zverejňovanou zmluvou je aj písomná zmluva o poskytovaní služieb, ktorej účastníkom je povinná osoba, ak sa jej prostredníctvom zabezpečuje vykonávanie regulovanej činnosti v tepelnej energetike a vo vodnom hospodárstve,<sup>7h</sup>) a to aj v prípade, ak je takáto zmluva uzatvorená v bežnom obchodnom styku v rozsahu predmetu podnikania alebo činnosti zapísanej v obchodnom registri alebo v inej úradnej evidencii.
+(16) Povinne zverejňovanou zmluvou je aj písomná zmluva o poskytovaní služieb, ktorej účastníkom je povinná osoba, ak sa jej prostredníctvom zabezpečuje vykonávanie regulovanej činnosti v tepelnej energetike a vo vodnom hospodárstve,<sup>7h</sup>) a to aj v prípade, ak je takáto zmluva uzatvorená v bežnom obchodnom styku v rozsahu predmetu podnikania alebo činnosti zapísanej v obchodnom registri alebo v inej úradnej evidencii.
