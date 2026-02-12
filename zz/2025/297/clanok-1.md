@@ -338,6 +338,8 @@ Zákon č. 452/2021 Z. z. o elektronických komunikáciách v znení zákona č.
 
   - Zákon č. 215/2004 Z. z. v znení neskorších predpisov.“.
 
+- 27. § 28 sa vypúšťa vrátane poznámok pod čiarou k odkazom 67 a 69.
+
 - 28. § 29 a 30 vrátane nadpisu § 29 znejú:
 
 - „§ 29
