@@ -1,0 +1,1 @@
+[Zmeny Spoločného vykonávacieho predpisu k Lisabonskej dohode o ochrane označení pôvodu a o medzinárodnom zápise označení pôvodu a k Ženevskému aktu Lisabonskej dohody o označeniach pôvodu a zemepisných označeniach v anglickom jazyku](../assets/d2758c4cdb01906493f30e4b3fcb3e7b7402c47865c9e1c1256a8b3321264836.pdf)
