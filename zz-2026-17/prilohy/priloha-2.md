@@ -1,0 +1,1 @@
+Príloha č. 2 k vyhláške č. 17/2026 Z. z. [Oznámenie o skutočnej sume vynaložených výdavkoch podľa jednotlivých typov zdravotnej starostlivosti za kalendárny mesiac](../assets/de72d7d1ce9b3e1c7495254e728e62820510e6661cba831f3048f288e80f1f29.pdf)

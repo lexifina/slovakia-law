@@ -1,0 +1,1 @@
+Príloha č. 1 k vyhláške č. 17/2026 Z. z. [Sumy výdavkov určené pre jednotlivé typy zdravotnej starostlivosti v eurách z celkovej sumy výdavkov určenej na zdravotnú starostlivosť v rozpočte verejnej správy jednotlivo pre každú zdravotnú poisťovňu na rok 2026](../assets/bc966013da8faa179268a16fdac620791115f20bb75a87fc883b269f31b3de1e.pdf)

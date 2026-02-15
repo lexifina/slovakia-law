@@ -1,0 +1,1 @@
+Príloha č. 3 k vyhláške č. 17/2026 Z. z. [Oznámenie o skutočnej sume vynaložených výdavkov podľa jednotlivých typov zdravotnej starostlivosti za rok 2026](../assets/8ad1cf7ec520e2aa40158e117ba0e452b9885d6127bce27df19155f20c9cdd30.pdf)
