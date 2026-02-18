@@ -1,0 +1,7 @@
+# § 133b Poskytnutie súčinnosti, informácií a vysvetlení
+
+(1) Regulátor môže pri výkone dohľadu požadovať od poskytovateľa sprostredkovateľskej služby alebo od inej osoby konajúcej v rámci svojej podnikateľskej činnosti,<sup>90d</sup>) o ktorej možno odôvodnene predpokladať, že má informácie o podozrení z porušenia povinnosti podľa osobitného predpisu,<sup>66a</sup>) vrátane osoby, ktorá vykonáva nezávislý audit podľa osobitného predpisu,<sup>90e</sup>) aby tieto informácie poskytli bezodplatne a v lehote určenej regulátorom. Poskytovateľ sprostredkovateľskej služby alebo iná osoba podľa prvej vety môžu odoprieť poskytnutie informácie, ak by tým spôsobili nebezpečenstvo trestného stíhania sebe alebo blízkej osobe.
+
+(2) Regulátor môže požiadať zamestnanca alebo osobu oprávnenú konať v mene poskytovateľa sprostredkovateľskej služby alebo inej osoby podľa odseku 1 o poskytnutie písomného alebo ústneho vysvetlenia k informáciám o podozrení z porušenia povinnosti podľa osobitného predpisu<sup>66a</sup>) v lehote určenej regulátorom. Ak bolo vysvetlenie poskytnuté ústne, regulátor vyhotoví písomný záznam o jeho obsahu; audiovizuálny záznam, obrazový záznam alebo zvukový záznam môže regulátor vyhotoviť iba so súhlasom osoby, ktorá vysvetlenie poskytla.
+
+(3) Poskytovateľ sprostredkovateľskej služby, iná osoba podľa odseku 1, ich zamestnanci a osoby oprávnené konať v ich mene sú povinní poskytovať regulátorovi pri výkone dohľadu súčinnosť a správne, úplné a pravdivé informácie a vysvetlenia podľa odsekov 1 a 2.
