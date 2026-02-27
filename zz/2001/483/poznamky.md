@@ -944,6 +944,8 @@
 
 - 86ga) Zákon č. 442/2012 Z. z. o medzinárodnej pomoci a spolupráci pri správe daní v znení neskorších predpisov.
 
+- 86gaa) § 7 ods. 1 zákona č. 442/2012 Z. z. v znení neskorších predpisov.
+
 - 86h) § 7 ods. 6, 7 a 11 zákona č. 129/2010 Z. z. v znení neskorších predpisov.
 
 - 86i) § 20 ods. 1 písm. a) zákona č. 129/2010 Z. z. v znení zákona č. 35/2015 Z. z.
@@ -955,6 +957,10 @@
 - 86l) § 17 ods. 1 zákona č. 106/2024 Z. z. o správcoch úverov a nákupcoch úverov a o zmene a doplnení niektorých zákonov.
 
 - 86m) § 26d ods. 8 zákona č. 90/2016 Z. z. v znení zákona č. 312/2025 Z. z.
+
+- 86n) § 2 ods. 2 zákona č. 35/2019 Z. z.
+
+- 86o) § 43 ods. 11 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
 - 87) Napríklad zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch v znení zákona č. 238/2000 Z. z., zákon č. 466/2002 Z. z.
 
