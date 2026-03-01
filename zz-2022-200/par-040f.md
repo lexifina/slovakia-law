@@ -1,0 +1,3 @@
+# § 40f Prechodné ustanovenie účinné od 1. marca 2026
+
+Orgán územného plánovania, ktorý obstaráva územnoplánovaciu dokumentáciu alebo jej doplnok alebo zmenu podľa predpisov o územnom plánovaní účinných do 31. marca 2024, prerokuje stanoviská a písomné pripomienky k návrhu územnoplánovacej dokumentácie alebo k návrhu doplnku alebo zmeny územnoplánovacej dokumentácie, ktoré neboli zohľadnené, len s dotknutými obcami a samosprávnymi krajmi, ktorých územia sa riešenie týka a s dotknutými právnickými osobami, ktoré ich uplatnili. Informáciu o nezohľadnení stanovísk a písomných pripomienok verejnosti zverejní orgán územného plánovania spôsobom v mieste obvyklým, spolu s odôvodnením ich neakceptovania.
