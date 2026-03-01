@@ -1,1 +1,0 @@
-Boris Susko v. r.
