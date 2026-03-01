@@ -517,3 +517,5 @@
 - 139) Vyhláška Štatistického úradu Slovenskej republiky č. 306/2007 Z. z., ktorou sa vydáva Štatistická klasifikácia ekonomických činností.
 
 - 140) Zákon č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 140a) § 102be ods. 1 až 4 zákona č. 578/2004 Z. z. v znení zákona č. 30/2026 Z. z.
