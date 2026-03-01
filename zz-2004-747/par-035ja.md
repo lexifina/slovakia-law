@@ -1,0 +1,3 @@
+# § 35ja
+
+Národná banka Slovenska podanie podľa § 1 ods. 3 písm. c) vybaví v základnej lehote 90 kalendárnych dní (ďalej len „základná lehota“), ktorá plynie od doručenia podania alebo odstránenia nedostatkov podania. Základnú lehotu môže Národná banka Slovenska z dôvodu závažných prekážok, ktoré bránia vybaveniu podania alebo z iného dôležitého dôvodu, ak tieto nastali bez zavinenia Národnej banky Slovenska, predĺžiť o ďalších 30 kalendárnych dní, avšak najviac o 90 kalendárnych dní. O predĺžení lehoty a o dôvodoch predĺženia Národná banka Slovenska bezodkladne písomne informuje predkladateľa podania.
