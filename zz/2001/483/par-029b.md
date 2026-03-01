@@ -4,7 +4,7 @@
 
 - a) banka je vystavená rizikám alebo prvkom rizík, na ktoré sa nevzťahujú alebo sa nedostatočne vzťahujú požiadavky na vlastné zdroje určené podľa osobitných predpisov,<sup>30ba</sup>)
 
-- b) banka nedodržuje povinnosti podľa § 23 ods. 1 až 5 a § 27 ods. 7 alebo osobitného predpisu<sup>30be</sup>) a nie je pravdepodobné, že iné opatrenia uložené v rámci výkonu dohľadu Národnou bankou Slovenska by boli dostatočné na zabezpečenie týchto požiadaviek v primeranom čase,
+- b) banka nedodržuje povinnosti podľa § 23 ods. 1 až 5 a § 27 ods. 4 alebo osobitného predpisu<sup>30be</sup>) a nie je pravdepodobné, že iné opatrenia uložené v rámci výkonu dohľadu Národnou bankou Slovenska by boli dostatočné na zabezpečenie týchto požiadaviek v primeranom čase,
 
 - c) úpravy ocenení podľa § 39 sú nedostatočné na to, aby banke umožnili za bežných trhových podmienok v krátkom čase predať alebo zaistiť svoje pozície bez významnej straty,
 
@@ -14,7 +14,7 @@
 
 - f) Národná banka Slovenska považuje inú situáciu špecifickú pre banku za situáciu vyvolávajúcu významné obavy z hľadiska dohľadu.
 
-(2) Na účely odseku 1 písm. a) sa riziká alebo prvky rizík považujú za nekryté alebo nedostatočne kryté požiadavkami na vlastné zdroje určenými podľa osobitných predpisov,<sup>30ba</sup>) ak výška, druh a štruktúra kapitálu, ktorý Národná banka Slovenska považuje za primeraný pri zohľadnení vnútorne určených vlastných zdrojov podľa § 27 ods. 7, sú vyššie ako požiadavky na vlastné zdroje určené podľa osobitných predpisov.<sup>30ba</sup>) Na účely prvej vety posúdi Národná banka Slovenska s ohľadom na rizikový profil banky riziká alebo prvky rizík, ktorým je banka vystavená, vrátane rizík a prvkov rizík špecifických pre banku,
+(2) Na účely odseku 1 písm. a) sa riziká alebo prvky rizík považujú za nekryté alebo nedostatočne kryté požiadavkami na vlastné zdroje určenými podľa osobitných predpisov,<sup>30ba</sup>) ak výška, druh a štruktúra kapitálu, ktorý Národná banka Slovenska považuje za primeraný pri zohľadnení vnútorne určených vlastných zdrojov podľa § 27 ods. 4, sú vyššie ako požiadavky na vlastné zdroje určené podľa osobitných predpisov.<sup>30ba</sup>) Na účely prvej vety posúdi Národná banka Slovenska s ohľadom na rizikový profil banky riziká alebo prvky rizík, ktorým je banka vystavená, vrátane rizík a prvkov rizík špecifických pre banku,
 
 - a) ktoré sú výslovne vylúčené z požiadaviek na vlastné zdroje podľa osobitných predpisov<sup>30ba</sup>) alebo nie sú týmito požiadavkami priamo pokryté,
 
@@ -26,7 +26,7 @@
 
 (5) Ak sa na krytie rizík, ktoré sú iné ako riziko nadmerného využívania finančnej páky a ktoré sú podľa osobitného predpisu<sup>30bd</sup>) nedostatočne kryté, vyžadujú osobitné vlastné zdroje, Národná banka Slovenska určí výšku osobitnej požiadavky na vlastné zdroje podľa odseku 1 písm. a) ako rozdiel medzi vlastnými zdrojmi považovanými za primerané podľa odseku 2 a príslušnými požiadavkami na vlastné zdroje určenými podľa osobitných predpisov.<sup>30bf</sup>)
 
-(6) Ak sa na krytie rizika nadmerného využívania finančnej páky, ktoré je podľa osobitného predpisu<sup>30bd</sup>) nedostatočne kryté, vyžadujú osobitné vlastné zdroje, Národná banka Slovenska určí výšku osobitnej požiadavky na vlastné zdroje podľa odseku 1 písm. a) ako rozdiel medzi vlastnými zdrojmi považovanými za primerané podľa odseku 2 a príslušnými požiadavkami na vlastné zdroje určenými podľa osobitného predpisu.<sup>30bg</sup>)
+(6) Ak sa na krytie rizika nadmerného využívania finančnej páky, ktoré je podľa osobitného predpisu<sup>30bd</sup>) nedostatočne kryté, vyžadujú osobitné vlastné zdroje, Národná banka Slovenska určí výšku osobitnej požiadavky na vlastné zdroje podľa odseku 1 písm. a) ako rozdiel medzi vlastnými zdrojmi považovanými za primerané podľa odsekov 2 a 3 a príslušnými požiadavkami na vlastné zdroje určenými podľa osobitného predpisu.<sup>30bg</sup>)
 
 (7) Ak odsek 9 neustanovuje inak, banka spĺňa osobitnú požiadavku na vlastné zdroje, ktorú jej uložila Národná banka Slovenska podľa § 50 ods. 1 písm. m) na riešenie iných rizík, ako je riziko nadmerného využívania finančnej páky, vlastnými zdrojmi spĺňajúcimi tieto podmienky:
 
@@ -55,3 +55,15 @@
 - c) odporúčania týkajúceho sa dodatočných vlastných zdrojov podľa § 29a, ak sa toto odporúčanie týka rizika nadmerného využívania finančnej páky.
 
 (12) Národná banka Slovenska v odôvodnení rozhodnutia o uložení opatrenia na nápravu podľa § 50 ods. 1 písm. m), ktorým uloží banke osobitnú požiadavku na vlastné zdroje, uvedie aspoň popis úplného posúdenia všetkých skutočností podľa odsekov 1 až 11. Ak Národná banka Slovenska uloží opatrenie na nápravu podľa § 50 ods. 1 písm. m), ktorým uloží banke osobitnú požiadavku na vlastné zdroje z dôvodu podľa odseku 1 písm. e), odôvodnenie obsahuje dôvody, pre ktoré uloženie odporúčania týkajúceho sa dodatočných vlastných zdrojov podľa § 29a už nie je dostatočné.
+
+(13) Na účely odsekov 1 až 12, 14, 15 a § 33d a 33e je spodná hranica pre výstupné hodnoty pre banku záväzná, ak celková hodnota rizikovej expozície banky určená podľa osobitného predpisu<sup>30bh</sup>) je vyššia ako jej celková hodnota rizikovej expozície bez spodnej hranice určená podľa osobitného predpisu.<sup>30bi</sup>)
+
+(14) Ak sa pre banku stane záväznou spodná hranica pre výstupné hodnoty, na účely odsekov 1 až 13 a 15 sa postupuje podľa týchto pravidiel:
+
+- a) nominálna hodnota osobitnej požiadavky na vlastné zdroje na riešenie iných rizík, ako je riziko nadmerného využívania finančnej páky, sa nezvýši v dôsledku toho, že sa pre banku stala záväznou spodná hranica pre výstupné hodnoty,
+
+- b) Národná banka Slovenska bezodkladne, najneskôr v rámci najbližšieho procesu preskúmavania a hodnotenia podľa § 6 ods. 2, preskúma výšku uloženej osobitnej požiadavky na vlastné zdroje a odstráni všetky jej časti, ktoré by viedli k dvojnásobnému započítaniu rizík, ktoré sú už plne kryté tým, že je pre banku záväzná spodná hranica pre výstupné hodnoty,
+
+- c) po uskutočnení preskúmania podľa písmena b) sa postup podľa písmena a) prestane voči dotknutej banke uplatňovať.
+
+(15) Na účely odsekov 2 až 4, ak sa pre banku stane záväznou spodná hranica pre výstupné hodnoty, Národná banka Slovenska neuloží banke osobitnú požiadavku na vlastné zdroje, na základe ktorej by dochádzalo k dvojnásobnému započítaniu rizík, ktoré sú už plne kryté tým, že sa pre banku stala záväznou spodná hranica pre výstupné hodnoty.

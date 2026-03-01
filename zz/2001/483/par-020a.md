@@ -6,15 +6,17 @@
 
 - a) materská finančná holdingová spoločnosť so sídlom v Slovenskej republike alebo materská zmiešaná finančná holdingová spoločnosť so sídlom v Slovenskej republike,
 
-- b) materská finančná holdingová spoločnosť v Európskej únii alebo materská zmiešaná finančná holdingová spoločnosť v Európskej únii alebo
+- b) materská finančná holdingová spoločnosť v Európskej únii alebo materská zmiešaná finančná holdingová spoločnosť v Európskej únii,
 
-- c) finančná holdingová spoločnosť povinná dodržiavať tento zákon alebo osobitný predpis<sup>30x</sup>) na subkonsolidovanom základe alebo zmiešaná finančná holdingová spoločnosť povinná dodržiavať tento zákon alebo osobitný predpis<sup>30x</sup>) na subkonsolidovanom základe.
+- c) finančná holdingová spoločnosť povinná dodržiavať tento zákon alebo osobitný predpis<sup>30x</sup>) na subkonsolidovanom základe alebo zmiešaná finančná holdingová spoločnosť povinná dodržiavať tento zákon alebo osobitný predpis<sup>30x</sup>) na subkonsolidovanom základe alebo
+
+- d) finančná holdingová spoločnosť alebo zmiešaná finančná holdingová spoločnosť, ktoré sú zodpovedné za zabezpečenie toho, aby skupina dodržiavala prudenciálne požiadavky na konsolidovanom základe podľa § 20aa ods. 2 písm. c).
 
 (3) Žiadosť podľa odseku 1 obsahuje informácie o
 
 - a) organizačnej štruktúre skupiny, ktorej súčasťou je finančná holdingová spoločnosť alebo zmiešaná finančná holdingová spoločnosť, pričom uvedie svoje dcérske spoločnosti a materské spoločnosti, ich sídlo a druh činnosti každého subjektu v rámci skupiny,
 
-- b) odbornej spôsobilosti a dôveryhodnosti aspoň dvoch fyzických osôb v riadiacej funkcii vo finančnej holdingovej spoločnosti alebo zmiešanej finančnej holdingovej spoločnosti; na odbornú spôsobilosť a dôveryhodnosť týchto osôb sa vzťahuje § 7 ods. 15 a 16 a § 7a ods. 4,
+- b) odbornej spôsobilosti a dôveryhodnosti aspoň dvoch fyzických osôb v skutočnej riadiacej funkcii vo finančnej holdingovej spoločnosti alebo zmiešanej finančnej holdingovej spoločnosti; na odbornú spôsobilosť a dôveryhodnosť týchto osôb sa vzťahuje § 7 ods. 14 až 17 a § 7a ods. 4,
 
 - c) dodržiavaní ustanovení § 7 ods. 2 písm. c) a § 28 akcionármi banky, ktorá je dcérskou spoločnosťou finančnej holdingovej spoločnosti alebo zmiešanej finančnej holdingovej spoločnosti,
 
@@ -40,13 +42,13 @@
 
   - 3. úloha finančnej holdingovej spoločnosti alebo zmiešanej finančnej holdingovej spoločnosti v rámci skupiny a
 
-- c) spôsobilosť a vhodnosť osôb, ktoré sú akcionármi s kvalifikovanou účasťou na banke a preukázanie dôveryhodnosti a odbornej spôsobilosti fyzických osôb, ktoré sú členmi štatutárneho orgánu a dozornej rady finančnej holdingovej spoločnosti alebo zmiešanej finančnej holdingovej spoločnosti; na posudzovanie dôveryhodnosti a odbornej spôsobilosti sa vzťahuje § 7 ods. 15 a 16 a § 7a ods. 4.
+- c) spôsobilosť a vhodnosť osôb, ktoré sú akcionármi s kvalifikovanou účasťou na banke a preukázanie dôveryhodnosti a odbornej spôsobilosti fyzických osôb, ktoré sú členmi štatutárneho orgánu a dozornej rady finančnej holdingovej spoločnosti alebo zmiešanej finančnej holdingovej spoločnosti alebo ktoré sú osobou zastávajúcou kľúčovú funkciu vo finančnej holdingovej spoločnosti alebo v zmiešanej finančnej holdingovej spoločnosti; na posudzovanie dôveryhodnosti a odbornej spôsobilosti sa vzťahuje § 7 ods. 14 až 17 a § 7a ods. 4.
 
 (6) Národná banka Slovenska žiadosť podľa odseku 1 zamietne, ak žiadateľ nesplní niektorú z podmienok uvedených v odseku 5. Dôvodom na zamietnutie žiadosti podľa odseku 1 nemôžu byť ekonomické potreby finančného trhu.
 
 (7) Podmienky na udelenie súhlasu podľa odseku 5 je finančná holdingová spoločnosť alebo zmiešaná finančná holdingová spoločnosť povinná dodržiavať počas celej doby platnosti súhlasu podľa odseku 1.
 
-(8) Ak sa konanie o žiadosti o udelenie súhlasu podľa odseku 1 uskutoční súčasne s konaním podľa § 28 ods. 1 písm. a), Národná banka Slovenska spolupracuje s orgánom dohľadu v inom členskom štáte, v ktorom má sídlo finančná holdingová spoločnosť alebo zmiešaná finančná holdingová spoločnosť. Plynutie lehoty podľa § 28 ods. 21 tretej vety sa preruší na obdobie dlhšie ako 20 pracovných dní, najviac však do dňa udelenia súhlasu podľa odseku 1.
+(8) Ak sa konanie o žiadosti o udelenie súhlasu podľa odseku 1 alebo o žiadosti o výnimku podľa § 20aa ods. 1 uskutoční súčasne s konaním podľa § 7 ods. 1, § 28 ods. 1 písm. a) alebo § 28a ods. 1, Národná banka Slovenska spolupracuje pri tomto konaní s príslušným orgánom dohľadu, ktorý je orgánom dohľadu na konsolidovanom základe, a ak je odlišný, s orgánom dohľadu v inom členskom štáte, v ktorom má sídlo finančná holdingová spoločnosť alebo zmiešaná finančná holdingová spoločnosť. Plynutie lehoty podľa § 28 ods. 21 tretej vety alebo podľa § 28a ods. 5 a 7 sa preruší do dňa udelenia súhlasu podľa odseku 1 alebo udelenia výnimky podľa § 20aa ods. 1.
 
 (9) Na účely vykonávania dohľadu na konsolidovanom základe alebo subkonsolidovanom základe banka, materská banka, materská banka v Európskej únii a materská spoločnosť zahŕňajú aj
 
@@ -55,3 +57,7 @@
 - b) určenú banku podľa § 20aa ods. 2 písm. c) kontrolovanú materskou finančnou holdingovou spoločnosťou v Európskej únii, materskou zmiešanou finančnou holdingovou spoločnosťou v Európskej únii, materskou finančnou holdingovou spoločnosťou, materskou zmiešanou finančnou holdingovou spoločnosťou, ak príslušná materská spoločnosť spĺňa podmienky podľa § 20aa ods. 2,
 
 - c) finančnú holdingovú spoločnosť, zmiešanú finančnú holdingovú spoločnosť alebo banku určené podľa § 20b ods. 2 písm. d).
+
+(10) Bez súhlasu podľa odseku 1 nemôže nikto vykonávať činnosti finančnej holdingovej spoločnosti alebo zmiešanej finančnej holdingovej spoločnosti, ak § 20aa neustanovuje inak.
+
+(11) Na členov štatutárneho orgánu a dozornej rady finančnej holdingovej spoločnosti a zmiešanej finančnej holdingovej spoločnosti podľa odseku 1 sa § 9 ods. 8, 11, 14, 15 a 17 a § 25 ods. 1 až 3, 5 až 8, 11, 12, 15 a 16 vzťahujú rovnako.

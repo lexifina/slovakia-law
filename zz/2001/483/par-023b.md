@@ -2,7 +2,7 @@
 
 (1) Na pohyblivú zložku celkovej odmeny sa okrem všeobecných princípov podľa § 23a ods. 4 až 7 uplatňujú aj princípy podľa odsekov 2 až 18.
 
-(2) Ak je odmeňovanie závislé od výkonnosti, pohyblivá zložka celkovej odmeny je závislá od hodnotenia výkonnosti osoby podľa § 23a ods. 1, výkonnosti príslušného útvaru banky a hodnotenia celkových výsledkov banky, pričom pri hodnotení výkonnosti osoby podľa § 23a ods. 1 sa zohľadňujú finančné kritériá a nefinančné kritériá.
+(2) Ak je odmeňovanie závislé od výkonnosti, pohyblivá zložka celkovej odmeny je závislá od hodnotenia výkonnosti osoby podľa § 23a ods. 1, výkonnosti príslušného útvaru banky a hodnotenia celkových výsledkov banky, pričom pri hodnotení výkonnosti osoby podľa § 23a ods. 1 sa zohľadňujú finančné kritériá a nefinančné kritériá vrátane zaobchádzania s rizikami podľa § 27 ods. 2, 17 a 18.
 
 (3) Hodnotenie výkonnosti je určené viacročným rámcom s cieľom zabezpečiť postup hodnotenia založený na hodnotení dlhodobej obchodnej stratégie banky. Vyplácanie pohyblivej zložky celkovej odmeny založenej na hodnotení výkonnosti sa rozloží na obdobie, ktoré zohľadňuje príslušný obchodný cyklus banky a riziká priamo súvisiace s obchodnou činnosťou banky.
 
@@ -16,7 +16,7 @@
 
 (8) Vyplatenie kompenzácie v spojitosti s predchádzajúcim zamestnaním osôb podľa § 23a ods. 1 musí byť v súlade s dlhodobou obchodnou stratégiou banky vrátane podmienok zadržiavania vyplatenia kompenzácie, odkladu vyplatenia kompenzácie, výkonu vyplatenia kompenzácie a spätného vymáhania vyplatenej kompenzácie.
 
-(9) Postup merania výkonnosti na účely výpočtu pohyblivej zložky celkovej odmeny alebo pohyblivých zložiek celkových odmien za banku musí obsahovať pravidlá, ktoré zohľadňujú všetky druhy súčasných a budúcich rizík a schopnosť banky plniť povinnosti podľa § 27 ods. 9 písm. b) a § 29.
+(9) Postup merania výkonnosti na účely výpočtu pohyblivej zložky celkovej odmeny alebo pohyblivých zložiek celkových odmien za banku musí obsahovať pravidlá, ktoré zohľadňujú všetky druhy súčasných a budúcich rizík a schopnosť banky plniť povinnosti podľa § 27 ods. 6 písm. b) a § 29.
 
 (10) Pri určení pohyblivej zložky celkovej odmeny v banke sa musia zohľadniť všetky druhy súčasných a budúcich rizík.
 
@@ -42,6 +42,6 @@
 
 (19) Ustanovenia odsekov 11 až 13 a odseku 16 druhej a tretej vety sa neuplatňujú na
 
-- a) banku, ktorá nie je veľkou inštitúciou podľa osobitného predpisu<sup>25ag</sup>) a ktorej priemerná hodnota aktív na individuálnom základe podľa tohto zákona a osobitného predpisu<sup>30x</sup>) počas štyroch rokov, ktoré predchádzajú aktuálnemu účtovnému obdobiu, je rovná alebo nižšia ako 5 000 000 000 eur,
+- a) banku, ktorá nie je veľkou bankou a ktorej priemerná hodnota aktív na individuálnom základe podľa tohto zákona a osobitného predpisu<sup>30x</sup>) počas štyroch rokov, ktoré predchádzajú aktuálnemu účtovnému obdobiu, je rovná alebo nižšia ako 5 000 000 000 eur,
 
 - b) zamestnanca, ktorého ročná pohyblivá zložka celkovej odmeny je nižšia ako 50 000 eur a nie je vyššia ako tretina celkovej ročnej odmeny tohto zamestnanca.

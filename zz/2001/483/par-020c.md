@@ -4,7 +4,7 @@
 
 (2) Národná banka Slovenska môže povoliť inštitúciám uvedeným v odseku 1, ktoré vykonávajú činnosť na území Slovenskej republiky, aby mali dve sprostredkujúce materské spoločnosti v Európskej únii, ak by zriadenie jednej sprostredkujúcej materskej spoločnosti v Európskej únii
 
-- a) bolo v rozpore s povinnou požiadavkou na oddelenie činností, ktoré ustanovujú pravidlá iného ako členského štátu alebo ktorú uložil orgán dohľadu iného ako členského štátu, v ktorom má materská spoločnosť skupiny mimo územia členského štátu sídlo alebo
+- a) bolo v rozpore s povinnou požiadavkou na oddelenie činností, ktoré ustanovujú pravidlá iného ako členského štátu alebo ktorú uložil orgán dohľadu iného ako členského štátu, v ktorom má materská spoločnosť skupiny mimo územia členského štátu, ktorá nie je dcérskou spoločnosťou, sídlo alebo
 
 - b) viedlo podľa posúdenia Rady pre riešenie krízových situácií<sup>30zx</sup>) (ďalej len „rezolučná rada“) k zníženiu efektívnosti riešiteľnosti krízovej situácie v porovnaní s dvoma sprostredkujúcimi materskými spoločnosťami v Európskej únii.
 

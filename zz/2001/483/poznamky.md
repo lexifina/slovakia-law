@@ -4,7 +4,7 @@
 
 - 1aa) § 2 ods. 1 zákona č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov.
 
-- 1ab) Čl. 4 ods. 1 bod 1 nariadenia Európskeho parlamentu a Rady (EÚ) č. 575/2013 z 26. júna 2013 o prudenciálnych požiadavkách na úverové inštitúcie a o zmene nariadenia (EÚ) č. 648/2012 (Ú. v. EÚ L 176, 27. 6. 2013).
+- 1ab) Čl. 4 ods. 1 bod 1 nariadenia Európskeho parlamentu a Rady (EÚ) č. 575/2013 z 26. júna 2013 o prudenciálnych požiadavkách na úverové inštitúcie a o zmene nariadenia (EÚ) č. 648/2012 (Ú. v. EÚ L 176, 27. 6. 2013) v platnom znení.
 
 - 1ac) Čl. 4 ods. 1 bod 1 písm. b) nariadenia (EÚ) č. 575/2013 v platnom znení.
 
@@ -104,6 +104,22 @@
 
 - 13na) Čl. 4 ods. 1 bod 138 nariadenia (EÚ) č. 575/2013 v platnom znení.
 
+- 13nb) § 20 ods. 2 písm. h) zákona č. 297/2008 Z. z. v znení neskorších predpisov.
+
+- 13nc) Čl. 3 ods. 1 bod 5 nariadenia (EÚ) 2023/1114 v platnom znení.
+
+- 13nd) Čl. 2 ods. 1 nariadenia Európskeho parlamentu a Rady (EÚ) 2021/1119 z 30. júna 2021, ktorým sa stanovuje rámec na dosiahnutie klimatickej neutrality a menia nariadenia (ES) č. 401/2009 a (EÚ) 2018/1999 (európsky právny predpis v oblasti klímy) (Ú. v. EÚ L 243, 9. 7. 2021).
+
+- 13ne) Čl. 143 ods. 1 nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 13nf) Čl. 221 nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 13ng) Čl. 283 nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 13nh) Čl. 325az nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 13ni) Čl. 265 ods. 2 nariadenia (EÚ) č. 575/2013 v platnom znení.
+
 - 13o) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 1093/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/78/ES (Ú. v. EÚ L 331, 15. 12. 2010) v platnom znení.
 
 - 14) Napríklad Civilný sporový poriadok, zákon č. 244/2002 Z. z. o rozhodcovskom konaní v znení neskorších predpisov, § 90 až 95 zákona č. 492/2009 Z. z.
@@ -118,7 +134,11 @@
 
 - 17a) § 10 ods. 3 a § 26 zákona č. 297/2008 Z. z. v znení neskorších predpisov.
 
+- 17b) Nariadenie Európskeho parlamentu a Rady (EÚ) 2024/1620 z 31. mája 2024, ktorým sa zriaďuje Úrad pre boj proti praniu špinavých peňazí a financovaniu terorizmu a ktorým sa menia nariadenia (EÚ) č. 1093/2010, (EÚ) č. 1094/2010 a (EÚ) č. 1095/2010 (Ú. v. EÚ L, 2024/1620, 19. 6. 2024).
+
 - 18) Napríklad § 40 a 41 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
+
+- 18a) Čl. 4 ods. 1 body 47 a 48 nariadenia (EÚ) č. 575/2013 v platnom znení.
 
 - 19) Čl. 19 nariadenia (EÚ) č. 1093/2010.
 
@@ -138,6 +158,8 @@
 
 - 20ea) Kapitola IV nariadenia Európskeho parlamentu a Rady (EÚ) 2022/2554 zo 14. decembra 2022 o digitálnej prevádzkovej odolnosti finančného sektora a o zmene nariadení (ES) č. 1060/2009, (EÚ) č. 648/2012, (EÚ) č. 600/2014, (EÚ) č. 909/2014 a (EÚ) 2016/1011 (Ú. v. EÚ L 333, 27. 12. 2022).
 
+- 20eb) Opatrenie Národnej banky Slovenska z 31. marca 2015 č. 4/2015 o ďalších druhoch rizík, o podrobnostiach o systéme riadenia rizík banky a pobočky zahraničnej banky a ktorým sa ustanovuje čo sa rozumie náhlou a neočakávanou zmenou úrokových mier na trhu (oznámenie č. 81/2015 Z. z.) v znení opatrenia č. 7/2024 (oznámenie č. 359/2024 Z. z.).
+
 - 20f) Čl. 105 nariadenia (EÚ) č. 575/2013.
 
 - 20g) Čl. 4 ods. 1 bod 94 nariadenia (EÚ) č. 575/2013 v platnom znení.
@@ -148,7 +170,45 @@
 
 - 21a) Zákon č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov.
 
-- 21b) § 20 ods. 2 písm. h) zákona č. 297/2008 Z. z. v znení zákona č. 52/2018 Z. z.
+- 21aa) § 22 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+
+- 21ab) Čl. 27 ods. 1 písm. a) nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 21ac) Čl. 7a nariadenia Európskeho parlamentu a Rady (EÚ) č. 648/2012 zo 4. júla 2012 o mimoburzových derivátoch, centrálnych protistranách a archívoch obchodných údajov (Ú. v. EÚ L 201, 27. 7. 2012) v platnom znení.
+
+- 21ad) Tretia časť hlava IV kapitola 1a nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 21ae) Čl. 325a ods. 1 písm. b) nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 21af) Tretia časť hlava II kapitola 3 nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 21ag) Tretia časť hlava II kapitola 2 nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 21ah) Nariadenie Európskeho parlamentu a Rady (ES) č. 1606/2002 z 19. júla 2002 o uplatňovaní medzinárodných účtovných noriem (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 29; Ú. v. ES L 243, 11. 9. 2002) v platnom znení.
+
+- Nariadenie Komisie (EÚ) 2023/1803 z 13. septembra 2023, ktorým sa v súlade s nariadením Európskeho parlamentu a Rady (ES) č. 1606/2002 prijímajú určité medzinárodné účtovné štandardy (Ú. v. EÚ L 237, 26. 9. 2023) v platnom znení.
+
+- 21ai) Čl. 24 ods. 2 nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 21aj) Zákon č. 431/2002 Z. z. v znení neskorších predpisov.
+
+- 21ak) § 5 ods. 2 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
+
+- 21al) § 7 ods. 9 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
+
+- 21am) Zákon č. 203/2011 Z. z. v znení neskorších predpisov.
+
+- 21an) Napríklad ústavný zákon č. 357/2004 Z. z. o ochrane verejného záujmu pri výkone funkcií verejných funkcionárov v znení neskorších predpisov.
+
+- 21ao) Čl. 4 ods. 1 bod 50 nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 21ap) Medzinárodný účtovný štandard 28 prílohy nariadenia (EÚ) 2023/1803 v platnom znení.
+
+- 21aq) § 6 ods. 1 písm. d) a ods. 5 zákona č. 566/2001 Z. z. v znení zákona č. 209/2007 Z. z.
+
+- 21ar) Napríklad Charta základných práv Európskej únie (Ú. v. EÚ C 202, 7. 6. 2016), Zákonník práce.
+
+- 21as) § 2 ods. 2 a 5 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
 
 - 22a) § 54 a 55 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
@@ -190,9 +250,17 @@
 
 - 24aad) § 54 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
+- 24aap) § 12 ods. 4 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení neskorších predpisov.
+
 - 24b) § 36 ods. 1 a 2 Občianskeho zákonníka.
 
 - 24ba) § 2 ods. 2 zákona Slovenskej národnej rady č. 310/1992 Zb. v znení neskorších predpisov.
+
+- 24baa) Čl. 11 nariadenia (EÚ) 2024/1620.
+
+- 24bab) Čl. 10 nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 24bac) Čl. 4 ods. 1 bod 146 nariadenia (EÚ) č. 575/2013 v platnom znení.
 
 - 24c) § 1 ods. 2, § 6 ods. 3 a § 8 ods. 3 nariadenia vlády Slovenskej republiky č. 42/2004 Z. z. o Obchodnom vestníku v znení nariadenia vlády Slovenskej republiky č. 76/2005 Z. z.
 
@@ -226,15 +294,17 @@
 
 - 25aaa) Nariadenie (EÚ) 2022/2554.
 
+- 25ab) Čl. 4 ods. 1 bod 52b nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 25aba) Čl. 4 ods. 1 bod 52d nariadenia (EÚ) č. 575/2013 v platnom znení.
+
 - 25ac) Čl. 4 ods. 1 bod 34 nariadenia (EÚ) č. 575/2013.
 
 - 25ad) Čl. 4 ods. 1 bod 57 nariadenia (EÚ) č. 575/2013.
 
-- 25ae) Čl. 143 ods.1, čl. 221, 225, čl. 259 ods. 3, čl. 312 ods. 2, čl. 283 a 363 nariadenia (EÚ) č. 575/2013.
+- 25aea) Delegované nariadenie Komisie (EÚ) 2021/923 z 25. marca 2021, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2013/36/EÚ, pokiaľ ide o regulačné technické predpisy, v ktorých sa stanovujú kritériá na vymedzenie riadiacej zodpovednosti, kontrolných funkcií, významných obchodných útvarov a významného vplyvu na rizikový profil významného obchodného útvaru, ako aj kritériá na identifikáciu zamestnancov alebo kategórií zamestnancov, ktorých profesionálne činnosti majú vplyv na rizikový profil inštitúcie, ktorý je rovnako významný ako vplyv zamestnancov alebo kategórií zamestnancov uvedených v článku 92 ods. 3 uvedenej smernice (Ú. v. EÚ L 203, 9. 6. 2021).
 
 - 25af) Čl. 52 alebo 63 nariadenia (EÚ) č. 575/2013.
-
-- 25ag) Čl. 4 ods. 1 bod 146 nariadenia (EÚ) č. 575/2013 v platnom znení.
 
 - 25ah) Čl. 450 ods. 1 písm. g), h), i) a k) nariadenia (EÚ) č. 575/2013 v platnom znení.
 
@@ -246,13 +316,13 @@
 
 - 26d) Napríklad zákon č. 213/1997 Z. z. v znení neskorších predpisov, zákon č. 34/2002 Z. z. v znení neskorších predpisov.
 
-- 26da) Medzinárodný účtovný štandard 28 Prílohy nariadenia Komisie (ES) č. 1126/2008 z 3. novembra 2008, ktorým sa v súlade s nariadením Európskeho parlamentu a Rady (ES) č. 1606/2002 prijímajú určité medzinárodné účtovné štandardy (Ú. v. EÚ L 320, 29. 11. 2008) v platnom znení.
+- 26da) Čl. 4 ods. 1 bod 52c nariadenia (EÚ) č. 575/2013 v platnom znení.
 
 - 26e) Čl. 435 ods. 2 písm. b) a c) nariadenia (EÚ) č. 575/2013.
 
-- 26f) Čl. 433 a čl. 435 ods. 2 písm. c) nariadenia (EÚ) č. 575/2013.
+- 26f) Čl. 435 ods. 2 písm. c) nariadenia (EÚ) č. 575/2013 v platnom znení.
 
-- 26g) Čl. 113 ods. 7 nariadenia (EÚ) č. 575/2013.
+- 26g) Čl. 113 ods. 7 nariadenia (EÚ) č. 575/2013 v platnom znení.
 
 - 26g) § 19a zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
@@ -265,6 +335,14 @@
 - 27) Zákonník práce.
 
 - 27a) § 7 a 8 zákona č. 186/2009 Z. z.
+
+- 27aa) Čl. 10a nariadenia Európskeho parlamentu a Rady (ES) č. 401/2009 z 23. apríla 2009 o Európskej environmentálnej agentúre a Európskej environmentálnej informačnej a monitorovacej sieti (kodifikované znenie) (Ú. v. EÚ L 126, 21. 5. 2009) v platnom znení.
+
+- Čl. 3 nariadenia (EÚ) 2021/1119.
+
+- 27ab) § 20c až 20i zákona č. 431/2002 Z. z. v znení zákona č. 105/2024 Z. z.
+
+- 27ac) § 20c ods. 7 písm. a) tretí bod a písm. b), § 20d ods. 4 a § 20g zákona č. 431/2002 Z. z. v znení zákona č. 105/2024 Z. z.
 
 - 27b) § 13 zákona č. 186/2009 Z. z.
 
@@ -314,6 +392,32 @@
 
 - 30aa) § 9 ods. 1 písm. l) zákona č. 371/2014 Z. z.
 
+- 30ab) Delegované nariadenie Komisie (EÚ) 2016/1675 zo 14. júla 2016, ktorým sa smernica Európskeho parlamentu a Rady (EÚ) 2015/849 dopĺňa o identifikáciu vysokorizikových tretích krajín so strategickými nedostatkami (Ú. v. EÚ L 254, 20. 9. 2016) v platnom znení.
+
+- 30ac) Čl. 4 ods. 1 bod 71 nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 30ad) Čl. 113 ods. 6 nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 30ae) Napríklad nariadenie (EÚ) č. 575/2013 v platnom znení, nariadenie (EÚ) 2022/2554, nariadenie (EÚ) 2023/1114 v platnom znení, zákon č. 371/2014 Z. z. v znení neskorších predpisov.
+
+- 30af) Čl. 47a nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 30ag) § 1, § 3 až 19, § 31a až 31i, § 33, 34, 38, 39, § 40 ods. 1 až 3, § 41 ods. 4 a 5, § 47 až 48a, § 51 až 71, § 76 až 83 a 86 zákona č. 371/2014 Z. z. v znení neskorších predpisov.
+
+- 30ah) § 4 zákona č. 309/2023 Z. z. o premenách obchodných spoločností a družstiev a o zmene a doplnení niektorých zákonov.
+
+- 30ai) § 2 ods. 12 zákona č. 309/2023 Z. z.
+
+- 30aj) Napríklad nariadenie (EÚ) č. 575/2013 v platnom znení, zákon č. 566/2001 Z. z. v znení neskorších predpisov, zákon č. 747/2004 Z. z. v znení neskorších predpisov, zákon č. 492/2009 Z. z. v znení neskorších predpisov, zákon č. 39/2015 Z. z. v znení neskorších predpisov.
+
+- 30ak) Zákon č. 309/2023 Z. z. v znení neskorších predpisov.
+
+- 30al) Nariadenie Rady (ES) č. 139/2004 z 20. januára 2004 o kontrole koncentrácií medzi podnikmi (Nariadenie ES o fúziách) (Mimoriadne vydanie Ú. v. EÚ, kap. 08/zv. 003; Ú. v. EÚ L 24, 29. 1. 2004).
+
+- Zákon č. 187/2021 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 309/2023 Z. z. v znení neskorších predpisov.
+
 - 30b) Čl. 92 až 386 nariadenia (EÚ) č. 575/2013.
 
 - 30ba) Tretia, štvrtá a siedma časť nariadenia (EÚ) č. 575/2013 v platnom znení.
@@ -326,6 +430,8 @@
 
 - 30bd) Čl. 92 ods. 1 písm. d) nariadenia (EÚ) č. 575/2013 v platnom znení.
 
+- 30bda) Čl. 92 ods. 3 nariadenia (EÚ) č. 575/2013 v platnom znení.
+
 - 30be) Čl. 393 nariadenia (EÚ) č. 575/2013 v platnom znení.
 
 - 30bf) Tretia a štvrtá časť nariadenia (EÚ) č. 575/2013 v platnom znení.
@@ -333,6 +439,10 @@
 - Kapitola 2 nariadenia (EÚ) 2017/2402.
 
 - 30bg) Tretia a siedma časť nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 30bh) Čl. 92 ods. 3 prvý pododsek nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 30bi) Čl. 92 ods. 4 nariadenia (EÚ) č. 575/2013 v platnom znení.
 
 - 30c) Čl. 142 až 150 nariadenia (EÚ) č. 575/2013.
 
@@ -346,9 +456,9 @@
 
 - 30h) Čl.144 ods. 1 a čl. 145 nariadenia (EÚ) č. 575/2013.
 
-- 30i) Čl. 360 nariadenia (EÚ) č. 575/2013.
+- 30i) Čl. 325 ods. 2 a čl. 325a ods. 1 nariadenia (EÚ) č. 575/2013 v platnom znení.
 
-- 30j) Čl. 363 až 377 nariadenia (EÚ) č. 575/2013.
+- 30j) Tretia časť hlava IV kapitola 1b nariadenia (EÚ) č. 575/2013 v platnom znení.
 
 - 30k) Čl. 366 nariadenia (EÚ) č. 575/2013.
 
@@ -357,6 +467,8 @@
 - 30l) Čl. 312 až 320 nariadenia (EÚ) č. 575/2013.
 
 - 30la) Čl. 4 ods. 1 bod 134 nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 30laa) Delegované nariadenie Komisie (EÚ) 2024/856 z 1. decembra 2023, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2013/36/EÚ, pokiaľ ide o regulačné technické predpisy, v ktorých sa upresňujú šokové scenáre dohľadu, spoločné modelovacie a parametrické predpoklady a to, čo predstavuje veľký pokles (Ú. v. EÚ L, 2024/856, 24. 4. 2024).
 
 - 30m) Čl. 50 nariadenia (EÚ) č. 575/2013.
 
@@ -380,7 +492,7 @@
 
 - 30td) Čl. 92a a 92b nariadenia (EÚ) č. 575/2013 v platnom znení.
 
-- Zákon č. 371/2014 Z. z. v znení neskorších predpisov.
+- § 31b a 31c zákona č. 371/2014 Z. z. v znení neskorších predpisov.
 
 - 30u) Čl. 92 nariadenia (EÚ) č. 575/2013.
 
@@ -392,7 +504,9 @@
 
 - 30wb) Nariadenie (EÚ) č. 806/ 2014 v platnom znení.
 
-- 30x) Nariadenie (EÚ) č. 575/2013.
+- 30x) Nariadenie (EÚ) č. 575/2013 v platnom znení.
+
+- 30xa) Čl. 92 ods. 3 nariadenia (EÚ) č. 575/2013 v platnom znení.
 
 - 30y) Hlava II prvej časti nariadenia (EÚ) č. 575/2013 v platnom znení.
 
@@ -582,6 +696,10 @@
 
 - 45aaac) § 138 až 143 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
+- 45aaad) Čl. 4 ods. 1 bod 25 nariadenia Európskeho parlamentu a Rady (EÚ) 2019/2033 z 27. novembra 2019 o prudenciálnych požiadavkách na investičné spoločnosti a o zmene nariadení (EÚ) č. 1093/2010, (EÚ) č. 575/2013, (EÚ) č. 600/2014 a (EÚ) č. 806/2014 (Ú. v. EÚ L 314, 5. 12. 2019) v platnom znení.
+
+- 45aaae) Čl. 1 ods. 2 a 5 nariadenia (EÚ) 2019/2033 v platnom znení.
+
 - 45ab) Čl. 35 nariadenia (EÚ) č. 1093/2010.
 
 - 45ac) Čl. 21 nariadenia (EÚ) č. 1093/2010.
@@ -648,8 +766,6 @@
 
 - § 3 zákona č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 48aaaa) Čl. 316 nariadenia (EÚ) č. 575/2013 v platnom znení.
-
 - 48b) Čl. 377 ods. 5 nariadenia (EÚ) č. 575/2013.
 
 - 48c) § 37 ods. 3 zákona č. 747/2004 Z. z. v znení zákona č. 276/2009 Z. z.
@@ -669,6 +785,12 @@
 - 48h) § 8 a § 54 ods. 2 zákona č. 371/2014 Z. z. v znení zákona č. 437/2015 Z. z.
 
 - 48i) Čl. 92 až 403, čl. 411 až 429b alebo čl. 430 až 430c nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 48j) Prílohy III a IV vykonávacieho nariadenia Komisie (EÚ) 2021/451 zo 17. decembra 2020, ktorým sa stanovujú vykonávacie technické predpisy na uplatňovanie nariadenia Európskeho parlamentu a Rady (EÚ) č. 575/2013, pokiaľ ide o vykazovanie inštitúciami na účely dohľadu, a ktorým sa zrušuje vykonávacie nariadenie (EÚ) č. 680/2014 (Ú. v. EÚ L 97, 19. 3. 2021) v platnom znení.
+
+- 48k) Napríklad Zákonník práce, Trestný zákon, zákon č. 91/2016 Z. z. o trestnej zodpovednosti právnických osôb a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 48l) § 16 ods. 6 a § 26 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
 
 - 49) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
 
@@ -699,6 +821,16 @@
 - 54) § 5b zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení zákona č. 136/2010 Z. z.
 
 - 55) Napríklad § 70, § 87 a § 94 až 101 zákona č. 7/2005 Z. z. v znení neskorších predpisov.
+
+- 55a) Čl. 18 ods. 1 písm. a) nariadenia (EÚ) č. 806/2014 v platnom znení.
+
+- § 34 ods. 1 písm. a) zákona č. 371/2014 Z. z.
+
+- 55b) Čl. 18 ods. 1 písm. b) nariadenia (EÚ) č. 806/2014 v platnom znení.
+
+- § 34 ods. 1 písm. c) zákona č. 371/2014 Z. z. v znení neskorších predpisov.
+
+- 55c) Čl. 18 ods. 1 písm. c) nariadenia (EÚ) č. 806/2014 v platnom znení, § 34 ods. 1 písm. b) zákona č. 371/2014 Z. z. v znení zákona č. 437/2015 Z. z.
 
 - 56) § 8 ods. 6 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení zákona č. 154/1999 Z. z.
 
@@ -906,7 +1038,7 @@
 
 - Nariadenie Rady (ES) č. 1/2003 zo 16. decembra 2002 o vykonávaní pravidiel hospodárskej súťaže ustanovených v článkoch 81 a 82 Zmluvy (Mimoriadne vydanie Ú. v. EÚ, kap. 8/zv. 2; Ú. v. ES L 1, 4. 1. 2003) v platnom znení.
 
-- 86df) § 85 ods. 7 zákona č. 30/2019 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov.
+- 86df) § 85 ods. 6 zákona č. 30/2019 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov.
 
 - 86dg) Zákon č. 461/2003 Z. z. v znení neskorších predpisov.
 

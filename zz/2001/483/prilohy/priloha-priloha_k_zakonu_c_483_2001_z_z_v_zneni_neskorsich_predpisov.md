@@ -33,3 +33,5 @@ Príloha k zákonu č. 483/2001 Z. z. v znení neskorších predpisov
   - 15. Smernica Európskeho parlamentu a Rady (EÚ) 2022/2556 zo 14. decembra 2022, ktorou sa menia smernice 2009/65/ES, 2009/138/ES, 2011/61/EÚ, 2013/36/EÚ, 2014/59/EÚ, 2014/65/EÚ, (EÚ) 2015/2366 a (EÚ) 2016/2341, pokiaľ ide o digitálnu prevádzkovú odolnosť finančného sektora (Ú. v. EÚ L 333, 27. 12. 2022).
 
   - 16. Smernica Európskeho parlamentu a Rady (EÚ) 2023/2864 z 13. decembra 2023, ktorou sa menia určité smernice, pokiaľ ide o zriadenie a fungovanie jednotného európskeho miesta prístupu (Ú. v. EÚ L, 2023/2864, 20. 12. 2023).
+
+  - 17. Smernica Európskeho parlamentu a Rady (EÚ) 2024/1619 z 31. mája 2024, ktorou sa mení smernica 2013/36/EÚ, pokiaľ ide o právomoci v oblasti dohľadu, sankcie, pobočky z tretích krajín a environmentálne a sociálne riziká a riziká v oblasti správy a riadenia (Ú. v. EÚ L, 2024/1619, 19. 6. 2024).

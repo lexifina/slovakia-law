@@ -16,7 +16,7 @@
 
 (3) Národná banka Slovenska pri zaraďovaní G-SII do príslušnej kategórie podľa odseku 13 písm. c) môže prihliadnuť na kritériá podľa odseku 2 a dodatočný celkový výsledok vypočítaný podľa dodatočných kritérií, ktoré majú rovnakú váhu a tvoria ich kvantifikovateľné ukazovatele. Dodatočné kritériá pre určenie dodatočného celkového výsledku sú
 
-- a) kritériá podľa odseku 2 písm. a) až d),
+- a) kritériá podľa odseku 2 písm. a) až d), pričom pre tieto kritériá sú ukazovatele rovnaké ako zodpovedajúce kvantifikovateľné ukazovatele určené podľa odseku 2,
 
 - b) cezhraničná činnosť skupiny okrem činností skupiny v rámci zúčastnených členských štátov podľa osobitných predpisov.<sup>30wa</sup>)
 
@@ -36,7 +36,7 @@
 
 (7) Národná banka Slovenska môže rozhodnúť o určení vankúša pre O-SII na individuálnom základe, konsolidovanom základe alebo subkonsolidovanom základe vo forme vlastného kapitálu Tier 1 vo výške najmenej 3 % celkovej rizikovej expozície vypočítanej podľa osobitného predpisu<sup>30v</sup>) len na základe povolenia udeleného Komisiou.
 
-(8) Národná banka Slovenska určí vankúš pre O-SII tak, aby vankúš pre O-SII nevytváral neprimerané negatívne účinky na celý finančný systém alebo časti finančného systému iných členských štátov alebo Európskej únie ako celku a nebol prekážkou fungovania vnútorného trhu. Národná banka Slovenska prehodnocuje vankúš pre O-SII aspoň raz za kalendárny rok.
+(8) Národná banka Slovenska určí vankúš pre O-SII tak, aby vankúš pre O-SII nevytváral neprimerané negatívne účinky na celý finančný systém alebo časti finančného systému iných členských štátov alebo Európskej únie ako celku a nebol prekážkou fungovania vnútorného trhu. Národná banka Slovenska prehodnocuje vankúš pre O-SII aspoň raz za kalendárny rok. Ak sa pre O-SII stane záväznou spodná hranica pre výstupné hodnoty, Národná banka Slovenska najneskôr do dátumu ročného prehodnotenia vankúša pre O-SII podľa druhej vety preskúma vankúš pre O-SII tak, aby jeho kalibrácia zostala primeraná.
 
 (9) Národná banka Slovenska pred rozhodnutím o určení alebo zmene vankúša pre O-SII oznámi tento zámer Európskemu výboru pre systémové riziká, a to v lehote jedného mesiaca pred uverejnením rozhodnutia podľa odseku 6 a v lehote troch mesiacov pred uverejnením rozhodnutia podľa odseku 7. Oznámenie obsahuje
 
@@ -80,4 +80,4 @@
 
 (15) Ak skupina na konsolidovanom základe podlieha vankúšu pre G-SII aj vankúšu pre O-SII, uplatní sa vyšší z nich.
 
-(16) Ak banka podlieha vankúšu na krytie systémového rizika podľa § 33e, tento vankúš na krytie systémového rizika doplní vankúš pre O-SII alebo vankúš pre G-SII. Ak súčet kombinovanej miery vankúša na krytie systémového rizika vypočítanej podľa § 33e ods. 7, 8 alebo ods. 9 a miery vankúša pre O-SII alebo miery vankúša pre G-SII, ktorý sa vzťahuje na tú istú banku, je vyšší ako 5 %, uplatní sa postup podľa odseku 7.
+(16) Ak banka podlieha vankúšu na krytie systémového rizika podľa § 33e, tento vankúš na krytie systémového rizika doplní vankúš pre O-SII alebo vankúš pre G-SII. Ak súčet kombinovanej miery vankúša na krytie systémového rizika vypočítanej podľa § 33e ods. 7, 8 alebo ods. 9 a miery vankúša pre O-SII alebo miery vankúša pre G-SII, ktorý sa vzťahuje na tú istú banku, je vyšší ako 5 %, uplatní sa postup podľa odseku 7; to neplatí, ak rozhodnutie o určení vankúša na krytie systémového rizika, vankúša pre O-SII alebo vankúša pre G-SII vedie k zníženiu niektorej zo skôr určených mier vankúšov alebo tieto miery vankúšov nemení.

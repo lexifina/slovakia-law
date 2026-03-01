@@ -8,7 +8,7 @@
 
 - c) zvolať valné zhromaždenie banky a určiť program valného zhromaždenia podľa návrhov Národnej banky Slovenska; ak banka nezvolá valné zhromaždenie, Národná banka Slovenska je oprávnená zvolať valné zhromaždenie a určiť jeho program, pričom na tento postup sa primerane vzťahujú ustanovenia osobitného zákona,<sup>1</sup>)
 
-- d) odvolať člena predstavenstva, člena dozornej rady, prokuristu alebo vedúceho zamestnanca, ak nespĺňajú požiadavky podľa § 7 ods. 14 a 15 a § 25,
+- d) odvolať člena predstavenstva, člena dozornej rady alebo osobu zastávajúcu kľúčovú funkciu, ak nespĺňajú požiadavky podľa § 7 ods. 14 a 15, § 25 a 25a,
 
 - e) vypracovať plán rokovaní o reštrukturalizácii záväzkov s veriteľmi banky,
 

@@ -1,0 +1,23 @@
+# § 28c
+
+(1) Národná banka Slovenska je pri posudzovaní splnenia podmienok podľa § 28b ods. 4 povinná viesť konzultácie s príslušnými orgánmi iných členských štátov, ak sa navrhované nadobudnutie podľa § 28a ods. 1 týka
+
+- a) zahraničnej banky, zahraničného obchodníka s cennými papiermi alebo zahraničnej správcovskej spoločnosti s povolením udeleným v inom členskom štáte, poisťovne z iného členského štátu, zaisťovne z iného členského štátu,
+
+- b) materskej spoločnosti osoby podľa písmena a) alebo
+
+- c) právnickej osoby kontrolujúcej osobu podľa písmena a).
+
+(2) Ak Národná banka Slovenska nie je orgánom dohľadu na konsolidovanom základe a rozhoduje o žiadosti podľa § 28a ods. 1, ktorú podala banka, ktorá je súčasťou skupiny, pričom výška významného podielu dosiahla alebo prekročila prahovú hodnotu podľa § 28a ods. 2 len na individuálnom základe, oznámi Národná banka Slovenska najneskôr do desiatich pracovných dní odo dňa doručenia úplnej žiadosti podľa § 28a ods. 1 orgánu dohľadu na konsolidovanom základe začatie konania o žiadosti podľa § 28a ods. 1. Rozhodnutie o žiadosti podľa § 28a ods. 1 Národná banka Slovenska oznámi aj príslušnému orgánu dohľadu na konsolidovanom základe.
+
+(3) Ak Národná banka Slovenska posudzuje žiadosť podľa § 28a ods. 1, ktorú podala banka, pričom výška významného podielu dosiahla alebo prekročila prahovú hodnotu podľa § 28a ods. 2 na individuálnom základe aj na konsolidovanom základe, Národná banka Slovenska spolupracuje s príslušnými orgánmi dohľadu iných členských štátov a na účely koordinácie posúdenia žiadosti podľa § 28a ods. 1 si vymieňa s nimi informácie.
+
+(4) Ak Národná banka Slovenska ako orgán dohľadu na konsolidovanom základe posudzuje žiadosť podľa § 28a ods. 1, ktorú podala finančná holdingová spoločnosť, ktorá má udelený súhlas podľa § 20a ods. 1, alebo zmiešaná finančná holdingová spoločnosť, ktorá má udelený súhlas podľa § 20a ods. 1, oznámi Národná banka Slovenska najneskôr do desiatich pracovných dní odo dňa doručenia úplnej žiadosti podľa § 28a ods. 1 príslušnému orgánu dohľadu členského štátu, v ktorom má finančná holdingová spoločnosť alebo zmiešaná finančná holdingová spoločnosť svoje sídlo, začatie konania o žiadosti podľa § 28a ods. 1. Rozhodnutie o žiadosti podľa § 28a ods. 1 Národná banka Slovenska oznámi aj príslušnému orgánu dohľadu podľa prvej vety.
+
+(5) Ak žiadateľ podľa § 28a ods. 1 má sídlo na území Slovenskej republiky a Národná banka Slovenska nie je orgánom dohľadu na konsolidovanom základe, Národná banka Slovenska spolupracuje s orgánom dohľadu na konsolidovanom základe a vyvinie maximálne úsilie na účely dosiahnutia spoločného rozhodnutia o žiadosti podľa § 28a ods. 1 do dvoch mesiacov odo dňa, kedy Národnej banke Slovenska orgán dohľadu na konsolidovanom základe doručil posúdenie nadobudnutia významného podielu.
+
+(6) Ak Národná banka Slovenska je orgánom dohľadu na konsolidovanom základe a žiadateľ podľa § 28a ods. 1 má sídlo v inom členskom štáte, Národná banka Slovenska vypracuje posúdenie nadobudnutia významného podielu a toto posúdenie predloží príslušnému orgánu dohľadu iného členského štátu, v ktorom má tento žiadateľ sídlo. Národná banka Slovenska vyvinie maximálne úsilie na to, aby v spolupráci s týmto príslušným orgánom dohľadu iného členského štátu bolo dosiahnuté spoločné rozhodnutie o žiadosti podľa § 28a ods. 1 do dvoch mesiacov odo dňa, kedy tomuto príslušnému orgánu predložila posúdenie podľa prvej vety. Toto spoločné rozhodnutie musí byť riadne zdokumentované a obsahovať odôvodnenie. Národná banka Slovenska ako orgán dohľadu na konsolidovanom základe oznámi spoločné rozhodnutie žiadateľovi.
+
+(7) Ak Národná banka Slovenska ako orgán dohľadu na konsolidovanom základe s príslušným orgánom dohľadu iného členského štátu, v ktorom má žiadateľ podľa § 28a ods. 1 sídlo, nedosiahne spoločné rozhodnutie v lehote podľa odseku 6 druhej vety, Národná banka Slovenska rozhodnutie nevydá a v súlade s osobitným predpisom<sup>19</sup>) požiada Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) o vydanie rozhodnutia. Plynutie lehoty podľa odseku 6 sa preruší do vydania rozhodnutia Európskeho orgánu dohľadu (Európskeho orgánu pre bankovníctvo). Ak Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) v súlade s osobitným predpisom<sup>19</sup>) rozhodne, Národná banka Slovenska je týmto rozhodnutím viazaná.
+
+(8) Národná banka Slovenska spolupracuje a vymieňa si informácie s príslušným orgánom dohľadu iného členského štátu podľa odseku 1, ktoré sú podstatné alebo relevantné na účely posudzovania žiadosti podľa § 28a ods. 1. Na účely koordinácie posúdenia a zabezpečenia konzistentnosti rozhodnutí Národná banka Slovenska vo svojom rozhodnutí uvedie názory a výhrady príslušných orgánov dohľadu.

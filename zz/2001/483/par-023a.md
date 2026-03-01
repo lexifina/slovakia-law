@@ -8,15 +8,15 @@
 
 - c) vedúcich zamestnancov,
 
-- d) zamestnancov s riadiacou zodpovednosťou za kontrolné funkcie alebo významné obchodné útvary spĺňajúce kritériá v súlade s osobitným predpisom o vydaní regulačného technického predpisu vydaným na základe osobitného predpisu,<sup>13o</sup>)
+- d) zamestnancov s riadiacou zodpovednosťou za kontrolné funkcie alebo významné obchodné útvary spĺňajúce kritériá v súlade s osobitným predpisom,<sup>25aea</sup>)
 
 - e) zamestnancov, ktorí majú nárok na významnú odmenu za predchádzajúce účtovné obdobie, ak
 
   - 1. odmena tohto zamestnanca je rovná alebo vyššia ako 500 000 eur a je rovná alebo vyššia ako priemerná odmena priznaná osobám podľa písmen a) až c),
 
-  - 2. vykonávajú profesionálnu činnosť vo významnom obchodnom útvare ustanovenom v súlade s osobitným predpisom o vydaní regulačného technického predpisu vydaným na základe osobitného predpisu<sup>13o</sup>) a táto činnosť má významný vplyv na rizikový profil príslušného obchodného útvaru v súlade s osobitným predpisom o vydaní regulačného technického predpisu vydaným na základe osobitného predpisu,<sup>13o</sup>)
+  - 2. vykonávajú profesionálnu činnosť vo významnom obchodnom útvare ustanovenom v súlade s osobitným predpisom<sup>25aea</sup>) a táto činnosť má významný vplyv na rizikový profil príslušného obchodného útvaru v súlade s osobitným predpisom,<sup>25aea</sup>)
 
-- f) ďalších zamestnancov, ktorí nie sú uvedení v písmenách a) až e) a ktorých odborné činnosti majú vplyv na rizikový profil banky a sú určení v súlade s osobitným predpisom o vydaní regulačného technického predpisu vydaným na základe osobitného predpisu.<sup>13o</sup>)
+- f) ďalších zamestnancov, ktorí nie sú uvedení v písmenách a) až e) a ktorých odborné činnosti majú vplyv na rizikový profil banky a sú určení v súlade s osobitným predpisom.<sup>25aea</sup>)
 
 (2) V rámci zásad odmeňovania osôb podľa odseku 1 banka uplatňuje
 
@@ -40,9 +40,9 @@
 
 - d) byť v súlade so zásadou rovnakého zaobchádzania ustanovenou osobitným predpisom.<sup>27fbc</sup>)
 
-(5) Útvar vnútornej kontroly a vnútorného auditu aspoň raz ročne kontroluje uplatňovanie zásad odmeňovania osôb podľa odseku 1 prijatých dozornou radou banky podľa § 24 ods. 4.
+(5) Útvar vnútornej kontroly vo funkcii vnútorného auditu aspoň raz ročne kontroluje uplatňovanie zásad odmeňovania osôb podľa odseku 1 prijatých dozornou radou banky podľa § 24 ods. 4.
 
-(6) Zamestnanec útvaru vnútornej kontroly a vnútorného auditu banky, na ktorého sa uplatňujú zásady odmeňovania osôb podľa odseku 1, musí byť odmeňovaný podľa dosiahnutých cieľov súvisiacich s jeho funkciou, ale nezávisle od výkonnosti ním kontrolovaných oblastí podnikania banky.
+(6) Zamestnanec útvaru vnútornej kontroly banky, na ktorého sa uplatňujú zásady odmeňovania osôb podľa odseku 1, musí byť odmeňovaný podľa dosiahnutých cieľov súvisiacich s jeho funkciou, ale nezávisle od výkonnosti ním kontrolovaných oblastí podnikania banky.
 
 (7) Zásady odmeňovania osôb podľa odseku 1 musia rozlišovať medzi kritériami pre určenie
 
