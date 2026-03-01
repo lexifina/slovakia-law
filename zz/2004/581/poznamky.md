@@ -743,3 +743,13 @@
 - 107) § 7 ods. 4 písm. c) zákona č. 578/2004 Z. z.
 
 - 108) § 12 ods. 2 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
+- 109) § 102be ods. 1 zákona č. 578/2004 Z. z. v znení zákona č. 30/2026 Z. z.
+
+- 110) § 102be ods. 5 zákona č. 578/2004 Z. z. v znení zákona č. 30/2026 Z. z.
+
+- 111) § 102be ods. 6 písm. a) zákona č. 578/2004 Z. z. v znení zákona č. 30/2026 Z. z.
+
+- 112) § 27 ods. 1 písm. d) a e) zákona č. 578/2004 Z. z. v znení zákona č. 192/2009 Z. z.
+
+- 113) § 102be ods. 7 zákona č. 578/2004 Z. z. v znení zákona č. 30/2026 Z. z.
