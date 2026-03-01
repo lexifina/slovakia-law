@@ -1,1 +1,0 @@
-József Nagy v. r.
