@@ -407,3 +407,5 @@
 - 76) § 29 ods. 2 zákona č. 480/2002 Z. z. v znení neskorších predpisov.
 
 - 77) § 102at zákona č. 578/2004 Z. z. v znení zákona č. 518/2022 Z. z.
+
+- 78) § 102be ods. 1 až 4 zákona č. 578/2004 Z. z. v znení zákona č. 30/2026 Z. z.
