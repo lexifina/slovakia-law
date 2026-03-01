@@ -1,0 +1,1 @@
+Príloha č. 3 k vyhláške č. 31/2026 Z. z. [Pravidlá výpočtu vplyvu palív z biomasy a porovnateľných fosílnych palív na množstvo skleníkových plynov](../assets/6febe448f0c57c3e7c3bb6c5c603d2cf60fb299867725b22d20686390f5a005e.pdf)

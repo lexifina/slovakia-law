@@ -1,0 +1,1 @@
+Príloha č. 4 k vyhláške č. 31/2026 Z. z. [Sadzobník poplatkov na pokrytie nákladov spojených s vedením elektronickej evidencie palív v doprave podľa § 14g zákona](../assets/b814acbd496088b9072d30d78ba4ba52aef56842f120da30b65d57bd0697f46c.pdf)

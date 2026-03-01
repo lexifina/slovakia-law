@@ -1,0 +1,1 @@
+Príloha č. 1 k vyhláške č. 31/2026 Z. z. [Pravidlá výpočtu vplyvu biopalív, biokvapalín a porovnateľných fosílnych palív na množstvo skleníkových plynov](../assets/e002a1c2b9fe15bc3d41e1fd96cc559c1fd1a49e02bde1e3173d3583c7ff2586.pdf)
