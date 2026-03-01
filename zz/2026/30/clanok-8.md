@@ -1,0 +1,5 @@
+# Čl. VIII
+
+Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení zákona č. 340/2005 Z. z., zákona č. 519/2005 Z. z., zákona č. 214/2006 Z. z., zákona č. 644/2006 Z. z., zákona č. 659/2007 Z. z., zákona č. 552/2008 Z. z., zákona č. 186/2009 Z. z., zákona č. 276/2009 Z. z., zákona č. 492/2009 Z. z., zákona č. 129/2010 Z. z., zákona č. 394/2011 Z. z., zákona č. 547/2011 Z. z., zákona č. 132/2013 Z. z., zákona č. 352/2013 Z. z., zákona č. 213/2014 Z. z., zákona č. 373/2014 Z. z., zákona č. 374/2014 Z. z., zákona č. 90/2016 Z. z., zákona č. 292/2016 Z. z., zákona č. 237/2017 Z. z., zákona č. 279/2017 Z. z., zákona č. 214/2018 Z. z., zákona č. 373/2018 Z. z., zákona č. 209/2021 Z. z., zákona č. 129/2022 Z. z., zákona č. 192/2023 Z. z., zákona č. 106/2024 Z. z., zákona č. 108/2024 Z. z., zákona č. 248/2024 Z. z., zákona č. 334/2024 Z. z., zákona č. 187/2025 Z. z. a zákona č. 312/2025 Z. z. sa mení takto:
+
+- V § 1 ods. 3 písm. a) sa slová „holdingovými inštitúciami“ nahrádzajú slovami „holdingovými spoločnosťami“.
