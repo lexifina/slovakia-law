@@ -214,6 +214,316 @@ Nariadenie vlády Slovenskej republiky č. 296/2010 Z. z. o odbornej spôsobilos
 
 - 34. V nadpise prílohy č. 2 sa slová „TERAPEUT A LIEČEBNÝ PEDAGÓG“ nahrádzajú slovami „TERAPEUT, LIEČEBNÝ PEDAGÓG A SANITÁR“.
 
+- 35. V prílohe č. 2 časti B písm. b) bod 1.3 znie:
+
+- „1.3
+
+- biológia, genetika a regeneratívna medicína,“.
+
+- 36. V prílohe č. 2 časti B písm. b) bod 2.11 znie:
+
+- „2.11
+
+- preventívne lekárstvo a dentálne verejné zdravie,“.
+
+- 37. V prílohe č. 2 časti B sa písmeno b) dopĺňa bodom 2.22, ktorý znie:
+
+- „2.22
+
+- imunológia,“.
+
+- 38. V prílohe č. 2 časti B sa písmeno b) dopĺňa bodmi 3.17 až 3.20, ktoré znejú:
+
+- „3.17
+
+- gerodontológia,
+
+- 3.18
+
+- zubná implantológia,
+
+- 3.19
+
+- starostlivosť v rámci interprofesijnej spolupráce,
+
+- 3.20
+
+- digitálne technológie v zubnom lekárstve.“.
+
+- 39. V prílohe č. 2 časti B sa písmeno c) dopĺňa piatym bodom, ktorý znie:
+
+- „5.
+
+- o digitálnych technológiách v zubnom lekárstve a dobré porozumenie ich používania a bezpečného uplatňovania v praxi.“.
+
+- 40. V prílohe č. 2 časti C písm. b) ôsmy bod znie:
+
+- „8.
+
+- anatómia, fyziológia, patológia a patofyziológia, lekárska terminológia,“.
+
+- 41. V prílohe č. 2 časti C sa písmeno b) dopĺňa pätnástym bodom až dvadsiatym tretím bodom, ktoré znejú:
+
+- „15.
+
+- biofarmaceutická technológia,
+
+- 16.
+
+- genetika a farmakogenomika,
+
+- 17.
+
+- imunológia,
+
+- 18.
+
+- klinická farmácia,
+
+- 19.
+
+- farmaceutická starostlivosť,
+
+- 20.
+
+- sociálna farmácia,
+
+- 21.
+
+- verejné zdravie vrátane epidemiológie,
+
+- 22.
+
+- lekárenská prax,
+
+- 23.
+
+- farmakoekonomika.“.
+
+- 42. V prílohe č. 2 časti C sa písmeno d) dopĺňa šiestym bodom až deviatym bodom, ktoré znejú:
+
+- „6.
+
+- o klinickej farmácii a farmaceutickej starostlivosti a zručnosti súvisiace s ich uplatňovaním v praxi,
+
+- 7.
+
+- v oblasti verejného zdravia a jeho presahy na podporu zdravia a manažment chorôb,
+
+- 8.
+
+- v oblasti interdisciplinárnej spolupráce, multidisciplinárnej spolupráce a interprofesijnej praxe a komunikácie,
+
+- 9.
+
+- o informačných a digitálnych technológiách a zručnosti týkajúce sa ich praktického uplatňovania.“.
+
+- 43. V prílohe č. 2 časti D písmená b) a c) znejú:
+
+- „b)
+
+- Minimálne požiadavky na obsah vzdelávania; jeden alebo viac týchto predmetov sa môže vyučovať v kontexte iných disciplín alebo v spojení s nimi:
+
+- 1.
+
+- teoretická výučba
+
+- 1.1
+
+- ošetrovateľstvo
+
+- 1.1.1
+
+- charakter, etika a všeobecné zásady zdravotnej starostlivosti a ošetrovateľstva vrátane teórií pacientsky zameranej starostlivosti,
+
+- 1.1.2
+
+- zásady ošetrovateľstva vo vzťahu
+
+- 1.1.2.1
+
+- k všeobecnej medicíne a k špecializovanej medicíne,
+
+- 1.1.2.2
+
+- k všeobecnej chirurgii a k špecializovanej chirurgii,
+
+- 1.1.2.3
+
+- k starostlivosti o dieťa a k pediatrii,
+
+- 1.1.2.4
+
+- k predpôrodnej, pôrodnej a popôrodnej starostlivosti,
+
+- 1.1.2.5
+
+- k duševnému zdraviu a k psychiatrii,
+
+- 1.1.2.6
+
+- k starostlivosti o starých a ku geriatrii,
+
+- 1.1.3
+
+- ošetrovateľská prax a výskum založený na dôkazoch,
+
+- 1.2
+
+- základné vedné disciplíny
+
+- 1.2.1
+
+- anatómia a fyziológia,
+
+- 1.2.2
+
+- patológia,
+
+- 1.2.3
+
+- bakteriológia, virológia a parazitológia,
+
+- 1.2.4
+
+- biofyzika, biochémia a rádiológia,
+
+- 1.2.5
+
+- dietetika,
+
+- 1.2.6
+
+- hygiena,
+
+- 1.2.6.1
+
+- preventívna medicína,
+
+- 1.2.6.2
+
+- zdravotná výchova,
+
+- 1.2.7.
+
+- farmakológia,
+
+- 1.3
+
+- spoločenské vedy
+
+- 1.3.1
+
+- sociológia,
+
+- 1.3.2
+
+- psychológia,
+
+- 1.3.3
+
+- základy administratívy a riadenia,
+
+- 1.3.4
+
+- základy vyučovania,
+
+- 1.3.5
+
+- sociálna legislatíva a zdravotnícka legislatíva,
+
+- 1.3.6
+
+- právne aspekty ošetrovateľstva,
+
+- 1.4
+
+- veda a technika
+
+- 1.4.1
+
+- elektronické zdravotníctvo,
+
+- 2.
+
+- klinická výučba
+
+- 2.1
+
+- ošetrovateľstvo vo vzťahu
+
+- 2.1.1
+
+- k všeobecnému lekárstvu a k špecializovanému lekárstvu,
+
+- 2.1.2
+
+- k všeobecnej chirurgii a k špecializovanej chirurgii,
+
+- 2.1.3
+
+- k starostlivosti o dieťa a k pediatrii,
+
+- 2.1.4
+
+- k predpôrodnej, pôrodnej a popôrodnej starostlivosti,
+
+- 2.1.5
+
+- k duševnému zdraviu a k psychiatrii,
+
+- 2.1.6
+
+- k starostlivosti o starých a ku geriatrii,
+
+- 2.1.7
+
+- k ošetrovateľskej starostlivosti v komunitnom prostredí,
+
+- 2.1.8
+
+- k propacientsky zameranému prístupu,
+
+- 2.2
+
+- veda a technika
+
+- 2.2.1
+
+- elektronické zdravotníctvo.
+
+- c)
+
+- Štúdiom sa získavajú primerané vedomosti a zručnosti
+
+- 1.
+
+- z vedeckých odborov, na ktorých je založené všeobecné ošetrovateľstvo vrátane dostatočného pochopenia štruktúry, fyziologických funkcií a správania zdravého človeka a chorého človeka a vzťahov medzi zdravím človeka a jeho fyzickým prostredím a sociálnym prostredím,
+
+- 2.
+
+- o povahe a etike profesie a o všeobecných zásadách zdravotníctva, ošetrovateľstva a ošetrovateľskej praxe,
+
+- 3.
+
+- nadobudnuté z klinických skúseností z činnosti príslušného pracoviska priamo pod odborným dohľadom sestry v zdravotníckych zariadeniach a komunitách s dostatočným počtom kvalifikovaného personálu a primeraným materiálno-technickým vybavením na poskytovanie ošetrovateľskej starostlivosti pacientom,
+
+- 4.
+
+- zo vzdelávania sestier, zo skúsenosti z práce so sestrami a zo spolupráce s ostatnými zdravotníckymi pracovníkmi v iných zdravotníckych povolaniach,
+
+- 5.
+
+- o poskytovaní individualizovanej ošetrovateľskej starostlivosti a posilňovaní postavenia pacientov, ich príbuzných a iných relevantných osôb v súvislosti so starostlivosťou o seba a s potrebou viesť zdravý životný štýl,
+
+- 6.
+
+- o rozvíjaní účinného vedúceho postavenia a rozhodovacích schopností,
+
+- 7.
+
+- o technických inováciách súvisiacich s metódami zdravotnej starostlivosti a ošetrovateľskej starostlivosti.“.
+
 - 44. V prílohe č. 2 časti G písm. b) bod 1.3.2 znie:
 
 - „1.3.2
