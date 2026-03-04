@@ -1,0 +1,53 @@
+# § 83f Prechodné ustanovenia k úpravám účinným od 1. apríla 2022
+
+(1) Za získanie odbornej spôsobilosti na výkon odborných pracovných činností v zdravotníckom povolaní praktická sestra – asistent sa považuje aj nadobudnutie úplného stredného odborného vzdelania na strednej zdravotníckej škole v študijnom odbore zdravotnícky asistent podľa predpisov účinných do 31. marca 2022.
+
+(2) Ďalšie vzdelávanie zdravotníckeho pracovníka, ktoré sa začalo do 31. marca 2022, sa dokončí podľa predpisov účinných do 31. marca 2022.
+
+(3) Odborná spôsobilosť na výkon špecializovaných pracovných činností v špecializačnom odbore intenzívna ošetrovateľská starostlivosť o dospelých, ktorú získala sestra podľa predpisov účinných do 31. marca 2022, sa považuje za získanie odbornej spôsobilosti na výkon špecializovaných pracovných činností v špecializačnom odbore anestéziológia a intenzívna starostlivosť podľa tohto nariadenia vlády.
+
+(4) Odborná spôsobilosť na výkon špecializovaných pracovných činností v špecializačnom odbore epidemiológia infekčných ochorení, priznaná verejnému zdravotníkovi podľa § 83c ods. 12, sa považuje za získanie odbornej spôsobilosti na výkon špecializovaných pracovných činností v špecializačnom odbore epidemiológia podľa tohto nariadenia vlády.
+
+(5) Odborná spôsobilosť na výkon špecializovaných pracovných činností v špecializačnom odbore environmentálne zdravie, priznaná verejnému zdravotníkovi so špecializáciou hygiena výživy podľa § 83c ods. 13, sa považuje za získanie odbornej spôsobilosti na výkon špecializovaných pracovných činností v špecializačnom odbore hygiena výživy podľa tohto nariadenia vlády.
+
+(6) Odborná spôsobilosť na výkon špecializovaných pracovných činností v špecializačnom odbore environmentálne zdravie, priznaná verejnému zdravotníkovi so špecializáciou hygiena životného prostredia a zdravia podľa § 83c ods. 13, sa považuje za získanie odbornej spôsobilosti na výkon špecializovaných pracovných činností v špecializačnom odbore hygiena životného prostredia a zdravia podľa tohto nariadenia vlády.
+
+(7) Odborná spôsobilosť na výkon špecializovaných pracovných činností v špecializačnom odbore podpora zdravia, priznaná verejnému zdravotníkovi so špecializáciou hygiena detí a mládeže podľa § 83c ods. 14, sa považuje za získanie odbornej spôsobilosti na výkon špecializovaných pracovných činností v špecializačnom odbore hygiena detí a mládeže podľa tohto nariadenia vlády.
+
+(8) Odborná spôsobilosť na výkon špecializovaných pracovných činností v špecializačnom odbore podpora zdravia, priznaná verejnému zdravotníkovi so špecializáciou výchova k zdraviu podľa § 83c ods. 14, sa považuje za získanie odbornej spôsobilosti na výkon špecializovaných pracovných činností v špecializačnom odbore podpora zdravia a výchova k zdraviu podľa tohto nariadenia vlády.
+
+(9) Odborná spôsobilosť na výkon špecializovaných pracovných činností v špecializačnom odbore laboratórne a diagnostické metódy v biológii životného prostredia, ktorú získal zdravotnícky laborant podľa predpisov účinných do 31. marca 2022, sa považuje za získanie odbornej spôsobilosti na výkon špecializovaných pracovných činností v špecializačnom odbore laboratórne a diagnostické metódy vo verejnom zdravotníctve podľa tohto nariadenia vlády.
+
+(10) Odborná spôsobilosť na výkon špecializovaných pracovných činností v špecializačnom odbore laboratórne a diagnostické metódy v mikrobiológii životného prostredia, ktorú získal zdravotnícky laborant podľa predpisov účinných do 31. marca 2022, sa považuje za získanie odbornej spôsobilosti na výkon špecializovaných pracovných činností v špecializačnom odbore laboratórne a diagnostické metódy vo verejnom zdravotníctve podľa tohto nariadenia vlády.
+
+(11) Odborná spôsobilosť na výkon špecializovaných pracovných činností v špecializačnom odbore laboratórne a diagnostické metódy v oblasti fyzikálnych a chemických analýz a faktorov, ktorú získal zdravotnícky laborant podľa predpisov účinných do 31. marca 2022, sa považuje za získanie odbornej spôsobilosti na výkon špecializovaných pracovných činností v špecializačnom odbore laboratórne a diagnostické metódy vo verejnom zdravotníctve podľa tohto nariadenia vlády.
+
+(12) Odborná spôsobilosť na výkon špecializovaných pracovných činností v špecializačnom odbore laboratórne metódy v klinickej biochémii, ktorú získal zdravotnícky laborant podľa predpisov účinných do 31. marca 2022, sa považuje za získanie odbornej spôsobilosti na výkon špecializovaných pracovných činností v špecializačnom odbore laboratórne vyšetrovacie metódy v klinickej biochémii podľa tohto nariadenia vlády.
+
+(13) Odborná spôsobilosť na výkon špecializovaných pracovných činností v špecializačnom odbore vyšetrovacie metódy v hematológii a transfúziológii, ktorú získal zdravotnícky laborant podľa predpisov účinných do 31. marca 2022, sa považuje za získanie odbornej spôsobilosti na výkon špecializovaných pracovných činností v špecializačnom odbore laboratórne vyšetrovacie metódy v hematológii a transfúziológii podľa tohto nariadenia vlády.
+
+(14) Odborná spôsobilosť na výkon špecializovaných pracovných činností v špecializačnom odbore vyšetrovacie metódy v klinickej biochémii, ktorú získal zdravotnícky laborant podľa predpisov účinných do 31. marca 2022, sa považuje za získanie odbornej spôsobilosti na výkon špecializovaných pracovných činností v špecializačnom odbore laboratórne vyšetrovacie metódy v klinickej biochémii podľa tohto nariadenia vlády.
+
+(15) Odborná spôsobilosť na výkon špecializovaných pracovných činností v špecializačnom odbore vyšetrovacie metódy v histopatológii, ktorú získal zdravotnícky laborant podľa predpisov účinných do 31. marca 2022, sa považuje za získanie odbornej spôsobilosti na výkon špecializovaných pracovných činností v špecializačnom odbore laboratórne vyšetrovacie metódy v histopatológii podľa tohto nariadenia vlády.
+
+(16) Odborná spôsobilosť na výkon špecializovaných pracovných činností v špecializačnom odbore vyšetrovacie metódy v klinickej cytológii, ktorú získal zdravotnícky laborant podľa predpisov účinných do 31. marca 2022, sa považuje za získanie odbornej spôsobilosti na výkon špecializovaných pracovných činností v špecializačnom odbore laboratórne vyšetrovacie metódy v klinickej cytológii podľa tohto nariadenia vlády.
+
+(17) Odborná spôsobilosť na výkon špecializovaných pracovných činností v špecializačnom odbore vyšetrovacie metódy v klinickej mikrobiológii, ktorú získal zdravotnícky laborant podľa predpisov účinných do 31. marca 2022, sa považuje za získanie odbornej spôsobilosti na výkon špecializovaných pracovných činností v špecializačnom odbore laboratórne vyšetrovacie metódy v klinickej mikrobiológii podľa tohto nariadenia vlády.
+
+(18) Odborná spôsobilosť na výkon špecializovaných pracovných činností v špecializačnom odbore laboratórne a diagnostické metódy v hematológii a transfúziológii, ktorú získal laboratórny diagnostik podľa predpisov účinných do 31. marca 2022, sa považuje za získanie odbornej spôsobilosti na výkon špecializovaných pracovných činností v špecializačnom odbore laboratórna diagnostika v hematológii a transfúziológii podľa tohto nariadenia vlády.
+
+(19) Odborná spôsobilosť na výkon špecializovaných pracovných činností v špecializačnom odbore laboratórne a diagnostické metódy v genetike, ktorú získal laboratórny diagnostik podľa predpisov účinných do 31. marca 2022, sa považuje za získanie odbornej spôsobilosti na výkon špecializovaných pracovných činností v špecializačnom odbore laboratórna diagnostika v lekárskej genetike podľa tohto nariadenia vlády.
+
+(20) Odborná spôsobilosť na výkon špecializovaných pracovných činností v špecializačnom odbore laboratórne a diagnostické metódy v klinickej biochémii, ktorú získal laboratórny diagnostik podľa predpisov účinných do 31. marca 2022, sa považuje za získanie odbornej spôsobilosti na výkon špecializovaných pracovných činností v špecializačnom odbore laboratórna diagnostika v klinickej biochémii podľa tohto nariadenia vlády.
+
+(21) Odborná spôsobilosť na výkon špecializovaných pracovných činností v špecializačnom odbore laboratórne a diagnostické metódy v klinickej mikrobiológii, ktorú získal laboratórny diagnostik podľa predpisov účinných do 31. marca 2022, sa považuje za získanie odbornej spôsobilosti na výkon špecializovaných pracovných činností v špecializačnom odbore laboratórna diagnostika v klinickej mikrobiológii podľa tohto nariadenia vlády.
+
+(22) Odborná spôsobilosť na výkon špecializovaných pracovných činností v špecializačnom odbore laboratórne a diagnostické metódy v klinickej imunológii a alergológii, ktorú získal laboratórny diagnostik podľa predpisov účinných do 31. marca 2022, sa považuje za získanie odbornej spôsobilosti na výkon špecializovaných pracovných činností v špecializačnom odbore laboratórna diagnostika v klinickej imunológii a alergológii podľa tohto nariadenia vlády.
+
+(23) Odborná spôsobilosť na výkon špecializovaných pracovných činností v špecializačnom odbore laboratórne a diagnostické metódy v patológii a súdnom lekárstve, ktorú získal laboratórny diagnostik podľa predpisov účinných do 31. marca 2022, sa považuje za získanie odbornej spôsobilosti na výkon špecializovaných pracovných činností v špecializačnom odbore laboratórna diagnostika v patológii a súdnom lekárstve podľa tohto nariadenia vlády.
+
+(24) Odborná spôsobilosť na výkon špecializovaných pracovných činností v špecializačnom odbore laboratórne a diagnostické metódy v pracovnom lekárstve a toxikológii, ktorú získal laboratórny diagnostik podľa predpisov účinných do 31. marca 2022, sa považuje za získanie odbornej spôsobilosti na výkon špecializovaných pracovných činností v špecializačnom odbore laboratórna diagnostika v pracovnom lekárstve a toxikológii podľa tohto nariadenia vlády.
+
+(25) Odborná spôsobilosť na výkon certifikovaných pracovných činností v certifikovanej pracovnej činnosti súdne lekárstvo, ktorú získal lekár podľa predpisov účinných do 27. marca 2002, sa považuje za získanie odbornej spôsobilosti na výkon špecializovaných pracovných činností v špecializačnom odbore súdne lekárstvo podľa tohto nariadenia vlády.
+
+(26) Odborná spôsobilosť na výkon špecializovaných pracovných činností v špecializačnom odbore výchova k zdraviu, ktorú získal lekár podľa predpisov účinných do 30. apríla 2004, predpisov účinných do 31. decembra 2004, predpisov účinných do 31. mája 2006, predpisov účinných do 30. júna 2010 alebo predpisov účinných do 31. augusta 2018 sa považuje za získanie odbornej spôsobilosti na výkon špecializovaných pracovných činností v špecializačnom odbore podpora zdravia a výchova k zdraviu podľa tohto nariadenia vlády.

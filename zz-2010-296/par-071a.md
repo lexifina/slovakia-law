@@ -1,0 +1,3 @@
+# § 71a
+
+Do špecializačného štúdia v zdravotníckom povolaní lekár v špecializačných odboroch uvedených v prílohe č. 4a časti A vzdelávacia ustanovizeň započíta časť ukončeného špecializačného štúdia v inom špecializačnom odbore, ak je uvedený v prílohe č. 4a časti B a absolvovaná časť špecializačného štúdia zodpovedá časti špecializačného štúdia v akreditovanom špecializačnom študijnom programe v špecializačnom odbore uvedenom v prílohe č. 4a časti A; absolvované špecializačné štúdium možno započítať najviac v dĺžke jednej polovice špecializačného štúdia v akreditovanom špecializačnom študijnom programe v špecializačnom odbore uvedenom v prílohe č. 4a časti A.
