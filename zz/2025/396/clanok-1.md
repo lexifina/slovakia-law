@@ -48,6 +48,18 @@ Nariadenie vlády Slovenskej republiky č. 296/2010 Z. z. o odbornej spôsobilos
 
 - 9. V nadpise prílohy č. 2 sa slovo „A“ nahrádza čiarkou a na konci sa pripájajú tieto slová: „A ASISTENT PREPRAVY“.
 
+- 10. V prílohe č. 2 časti B. ZUBNÝ LEKÁR písm. b) sa na konci úvodnej vety pripája bodkočiarka a tieto slová: „jeden alebo viac týchto predmetov sa môže vyučovať v kontexte iných disciplín alebo v spojení s nimi“.
+
+- 11. V prílohe č. 2 časti B. ZUBNÝ LEKÁR písm. b) bod 3.1 znie:
+
+- „3.1
+
+- zubná protetika,“.
+
+- 12. V prílohe č. 2 časti B. ZUBNÝ LEKÁR sa vypúšťa bod 3.16.
+
+  - Doterajšie body 3.17 až 3.20 sa označujú ako body 3.16 až 3.19.
+
 - 13. Príloha č. 2 sa dopĺňa časťou Q, ktorá znie:
 
 - „Q.
