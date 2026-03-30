@@ -1,6 +1,6 @@
 # § 293gka Prechodné ustanovenia účinné od 1. novembra 2025
 
-(1) Zamestnávateľ je povinný spôsobom určeným Sociálnou poisťovňou oznámiť Sociálnej poisťovni do 31. marca 2026 číslo účtu zamestnanca v banke alebo v pobočke zahraničnej banky, na ktoré poukazuje zamestnancovi mzdu, alebo informáciu, že mzdu vypláca v hotovosti, a každú zmenu týchto skutočností, ak poistenie tohto zamestnanca vzniklo pred 1. novembrom 2025 alebo v období od 1. novembra 2025 do 31. marca 2026 a toto poistenie ku dňu oznámenia trvá.
+(1) Zamestnávateľ je povinný spôsobom určeným Sociálnou poisťovňou oznámiť Sociálnej poisťovni do 30. júna 2026 číslo účtu zamestnanca v banke alebo v pobočke zahraničnej banky, na ktoré poukazuje zamestnancovi mzdu, alebo informáciu, že mzdu vypláca v hotovosti, a každú zmenu týchto skutočností, ak poistenie tohto zamestnanca vzniklo pred 1. novembrom 2025 alebo v období od 1. novembra 2025 do 30. júna 2026 a toto poistenie ku dňu oznámenia trvá.
 
 (2) Povinnosť podľa § 231 ods. 1 písm. q) bodu 1a. v znení účinnom do 31. decembra 2025 a povinnosť podľa § 231 ods. 1 písm. p) bodu 1a. v znení účinnom od 1. januára 2026 sa nevzťahuje na zamestnávateľa, ktorý splnil povinnosť podľa odseku 1.
 
