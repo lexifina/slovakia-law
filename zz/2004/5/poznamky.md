@@ -302,12 +302,6 @@
 
 - 53) § 20f Občianskeho zákonníka.
 
-- 59aba) Zákon č. 57/2018 Z. z.
-
-- 59abb) § 22 ods. 17 písm. a) zákona č. 57/2018 Z. z.
-
-- 59ac) § 12 zákona č. 57/2018 Z. z.
-
 - 59j) § 2 ods. 5 a 6 zákona č. 112/2018 Z. z. v znení zákona č. 374/2019 Z. z.
 
 - 60) § 13 ods. 4 písm. a) a § 52 ods. 1 písm. b) zákona č. 355/2007 Z. z. v znení zákona č. 198/2020 Z. z.
