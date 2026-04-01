@@ -1,0 +1,1 @@
+- 1) § 24 ods. 1 písm. b) a § 31 písm. l) zákona č. 95/2019 Z. z. o informačných technológiách vo verejnej správe a o zmene a doplnení niektorých zákonov v znení zákona č. 325/2022 Z. z.
