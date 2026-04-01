@@ -162,6 +162,16 @@ Zákon č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o z
 
   - <sup>27u</sup>) § 2 ods. 3 zákona č. 576/2004 Z. z. v znení neskorších predpisov.“.
 
+- 65. § 5 sa dopĺňa odsekmi 16 a 17, ktoré znejú:
+
+- „(17)
+
+- Do elektronickej zdravotnej knižky sa nezapisujú údaje o zdravotnej starostlivosti poskytovanej v rámci klinického skúšania humánnych liekov, klinického skúšania zdravotníckych pomôcok a štúdie výkonu diagnostickej zdravotníckej pomôcky in vitro podľa osobitného predpisu.<sup>27w</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 27v a 27w znejú:
+
+  - „<sup>27w</sup>) § 29, § 111 a 111h zákona č. 362/2011 Z. z. v znení neskorších predpisov.“.
+
 - 77. V § 10 odseku 4 sa vypúšťa slovo „obec,“.
 
 - 80. V § 12 sa vypúšťajú odseky 6 a 7.
@@ -271,6 +281,8 @@ Zákon č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o z
 - Doba uchovávania osobných údajov
 
 - Tridsať rokov po smrti dotknutej osoby podľa písmena c).“.
+
+- 99. V prílohe č. 2 prvom bode písm. a) úvodnej vete sa slovo „Zoznam“ nahrádza slovom „Rozsah“.
 
 - 110. V prílohe č. 2 prvom bode písmeno d) znie:
 
