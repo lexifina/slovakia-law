@@ -1,0 +1,1 @@
+Príloha č. 5 k vyhláške č. 42/2025 Z. z. [Spôsob výpočtu a zohľadnenia vnútroštátnej migrácie poistencov vo verejnej sieti poskytovateľov všeobecnej ambulantnej starostlivosti a vo verejnej sieti poskytovateľov primárnej špecializovanej gynekologickej ambulantnej starostlivosti](../assets/d014f2b10ed808c8d67cc4d205fda82ff9638789a7400d2817dbd72b1b5b4efd.pdf)

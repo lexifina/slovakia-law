@@ -1,0 +1,1 @@
+Príloha č. 6 k vyhláške č. 42/2025 Z. z. [Spôsob výpočtu optimálnej kapacity optimálnej siete poskytovateľov všeobecnej ambulantnej starostlivosti a optimálnej siete poskytovateľov primárnej špecializovanej gynekologickej ambulantnej starostlivosti](../assets/67acd080f311bee5e373f17cf3cae77050a31d90564bd648fbe8acbec6220926.pdf)

@@ -1,0 +1,1 @@
+- 1) § 12 ods. 1 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení zákona č. 41/2013 Z. z.
