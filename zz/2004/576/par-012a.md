@@ -1,6 +1,6 @@
 # § 12a Dočasná pracovná neschopnosť
 
-(1) Dočasnú pracovnú neschopnosť osoby posudzuje a rozhoduje o nej príslušný ošetrujúci lekár, ktorým je
+(1) Ak v odseku 6 nie je ustanovené inak, dočasnú pracovnú neschopnosť osoby posudzuje a rozhoduje o nej príslušný ošetrujúci lekár, ktorým je
 
 - a) všeobecný lekár (§ 8 ods. 3), s ktorým má osoba uzatvorenú dohodu o poskytovaní zdravotnej starostlivosti podľa § 12, ak ide o posudzovanie a rozhodovanie o dočasnej pracovnej neschopnosti osoby pri poskytovaní všeobecnej ambulantnej starostlivosti,
 
