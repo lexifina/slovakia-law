@@ -12,7 +12,11 @@ Nariadenie vlády Slovenskej republiky č. 193/2016 Z. z. o sprístupňovaní r�
 
 - „(4)
 
-- Rádiové zariadenie, ktoré patrí do kategórie alebo triedy rádiového zariadenia uvedenej v prílohe č. 1a časti I prvom bode písm. a) až l), je vyrobené tak, že spĺňa špecifikácie, ktoré sa týkajú funkcií nabíjania podľa prílohy č. 1a časti I druhého bodu a tretieho bodu.“.
+- Rádiové zariadenie, ktoré patrí do kategórie alebo triedy rádiového zariadenia uvedenej v prílohe č. 1a časti I prvom bode písm. a) až l), je vyrobené tak, že spĺňa špecifikácie, ktoré sa týkajú funkcií nabíjania podľa prílohy č. 1a časti I druhého bodu a tretieho bodu.
+
+- (5)
+
+- Rádiové zariadenie, ktoré patrí do kategórie alebo triedy rádiového zariadenia uvedenej v prílohe č. 1a časti I prvom bode písm. m), je vyrobené tak, že spĺňa špecifikácie, ktoré sa týkajú funkcií nabíjania podľa prílohy č. 1a časti I druhého bodu a tretieho bodu.“.
 
 - 3. V § 9 ods. 2 sa za písmeno b) vkladá nové písmeno c), ktoré znie:
 
