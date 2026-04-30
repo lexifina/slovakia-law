@@ -1,0 +1,5 @@
+# § 33b Prechodné ustanovenia k úpravám účinným dňom vyhlásenia
+
+(1) Na právne vzťahy, ktoré vznikli do dňa účinnosti tohto zákona a na právne vzťahy, ktoré vznikli ako výsledok verejného obstarávania začatého do dňa účinnosti tohto zákona, sa vzťahuje § 15 ods. 2 písm. d) v znení účinnom do dňa účinnosti tohto zákona a ustanovenia § 15 ods. 2 písm. g) v znení účinnom odo dňa účinnosti tohto zákona sa na tieto vzťahy nepoužijú.
+
+(2) Konanie o uložení pokuty za správny delikt podľa § 29 v znení účinnom do dňa účinnosti tohto zákona, ktoré bolo začaté a právoplatne neukončené do dňa účinnosti tohto zákona sa dokončí podľa zákona v znení účinnom do dňa účinnosti tohto zákona a pri ukladaní pokút sa použije tento zákon v znení účinnom odo dňa účinnosti tohto zákona, len ak je to pre páchateľa správneho deliktu priaznivejšie. Protiprávnosť konania, ku ktorému došlo do dňa účinnosti tohto zákona, sa posudzuje a sankcia sa ukladá podľa zákona v znení účinnom v čase spáchania správneho deliktu; protiprávne konanie sa posudzuje podľa zákona v znení účinnom odo dňa účinnosti tohto zákona, len ak je to pre páchateľa správneho deliktu priaznivejšie.
