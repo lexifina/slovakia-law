@@ -1,0 +1,9 @@
+## Prechodné ustanovenia k úpravám účinným dňom vyhlásenia
+
+# § 60b
+
+(1) Orgán verejnej moci, ktorý prevádzkuje špecializovaný portál, nie je do 31. januára 2018 povinný prepojiť informačné systémy verejnej správy<sup>3</sup>) v jeho správe s ústredným portálom, ak umožňuje elektronickú komunikáciu s nimi prostredníctvom ústredného portálu iným spôsobom.
+
+(2) Orgán verejnej moci je od 1. novembra 2016 do 31. januára 2018 oprávnený pri výkone verejnej moci elektronicky postupovať aj podľa osobitných predpisov, ak ustanovujú odlišnú úpravu postupu orgánu verejnej moci pri výkone verejnej moci elektronicky a odlišné náležitosti elektronickej podoby návrhu na začatie konania, žaloby, žiadosti, sťažnosti, vyjadrenia, stanoviska, ohlásenia alebo iného obdobného dokumentu, ktoré sa v konaní predkladajú orgánu verejnej moci, alebo odlišné náležitosti elektronickej podoby rozhodnutia, žiadosti, vyjadrenia, stanoviska alebo iného dokumentu, ktoré v konaní vydáva orgán verejnej moci, ako tento zákon.
+
+(3) Ak ide o právnické osoby, ktoré nemajú aktivovanú elektronickú schránku a nie sú zapísané v obchodnom registri, správca modulu elektronických schránok vykoná úkon v procese aktivácie podľa § 13 ods. 1 písm. a) 1. júna 2020; to platí, aj ak pri právnickej osobe, ktorá nie je zapísaná v obchodnom registri, dôjde k splneniu podmienky na aktiváciu elektronickej schránky odo dňa účinnosti tohto zákona do 31. mája 2020. Na právnické osoby podľa prvej vety sa do 31. mája 2020 ustanovenia § 60a ods. 5 nepoužijú. Ak právnická osoba podľa prvej vety požiada o skoršiu aktiváciu elektronickej schránky, správca modulu elektronických schránok žiadosti vyhovie a ustanovenia § 13 ods. 3 sa použijú primerane. Informáciu o tom, akých právnických osôb sa postup podľa prvej až tretej vety týka, zverejňuje a aktualizuje správca modulu elektronických schránok na ústrednom portáli.

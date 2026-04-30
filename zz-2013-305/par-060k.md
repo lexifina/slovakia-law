@@ -1,0 +1,3 @@
+# § 60k Prechodné ustanovenie k úpravám účinným dňom vyhlásenia
+
+Záujmové združenie právnických osôb DataCentrum elektronizácie územnej samosprávy Slovenska do 15. júna 2026 zosúladí svoje stanovy s § 9a ods. 1 v znení účinnom odo dňa účinnosti tohto zákona. Ak záujmové združenie právnických osôb DataCentrum elektronizácie územnej samosprávy Slovenska nezosúladí svoje stanovy v lehote podľa prvej vety, postupuje sa pri hlasovaní v kolektívnom orgáne podľa § 9a ods. 1 v znení účinnom odo dňa účinnosti tohto zákona, pričom kolektívny orgán je uznášaniaschopný, ak sú prítomní členovia kolektívneho orgánu, ktorí zastupujú aspoň dve ministerstvá určené rozhodnutím vlády Slovenskej republiky.

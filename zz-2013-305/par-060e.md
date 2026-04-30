@@ -1,0 +1,3 @@
+# § 60e Prechodné ustanovenie k úpravám účinným od 31. decembra 2016
+
+Ustanovenia § 13 ods. 1 písm. a) a ods. 2 sa vzťahujú aj na aktiváciu elektronickej schránky, ktorá nebola aktivovaná do 31. decembra 2016. Ak ide o právnické osoby zapísané v obchodnom registri a o zapísané organizačné zložky, ktoré k 31. decembru 2016 nemajú aktivovanú elektronickú schránku, alebo ktorým je zriadená elektronická schránka v období od 31. decembra 2016 do 20. júna 2017, lehota na skončenie aktivácie ich elektronickej schránky podľa § 13 ods. 1 písm. a) uplynie 30. júna 2017; skončenie aktivácie prvým prístupom do elektronickej schránky podľa § 13 ods. 1 písm. a) tým nie je dotknuté.

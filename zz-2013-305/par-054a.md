@@ -1,0 +1,13 @@
+# § 54a Stotožnenie údajov
+
+(1) Stotožnením údajov sa na účely tohto zákona rozumie jednoznačné priradenie hodnôt údajov k subjektu evidencie v registri a následné logické priradenie k tomu istému subjektu evidencie v referenčnom registri prostredníctvom identifikačného údaja, ktorým je identifikátor osoby alebo iný identifikátor referenčného údaja určený správcom referenčného registra. Účelom stotožnenia údajov je jednoznačné potvrdenie vzťahu medzi objektom evidencie a subjektom evidencie v registri a identifikovanie subjektu evidencie v registri a v referenčnom registri, a to najmä na účely následného bezchybného referencovania.
+
+(2) Stotožnenie údajov zabezpečuje v období jedného roka odo dňa ustanovenia registra za referenčný register správca takého registra, ktorý údaje z tohto referenčného registra referencuje.
+
+(3) Na účely stotožnenia údajov si správca registra a správca referenčného registra poskytujú nevyhnutnú súčinnosť.
+
+(4) Ak je to na stotožnenie údajov nevyhnutné a informácie nie je možné získať iným spôsobom, správca registra vyzve osobu, ktorej sa objekt evidencie týka, na poskytnutie informácií potrebných na stotožnenie údajov a určí jej lehotu na ich oznámenie, ktorá nesmie byť kratšia ako tri mesiace. Ak je doručenie výzvy osobe neúspešné, správca registra zverejňuje najmenej po dobu šiestich mesiacov túto výzvu na svojom webovom sídle a na ústrednom portáli, ak ide o právnickú osobu alebo podnikateľa, aj v Obchodnom vestníku najmenej trikrát po dobu šiestich mesiacov, a ak to považuje za účelné, aj inými prostriedkami. Na doručovanie sa použijú ustanovenia tohto zákona o elektronickom doručovaní, pričom ak sa postupuje podľa § 31 ods. 2 a § 31a, na doručovanie sa použijú ustanovenia všeobecného predpisu o správnom konaní, ak osobitný predpis upravujúci vedenie príslušného registra neustanovuje inak.
+
+(5) Ak ide o subjekt evidencie, ktorým je právnická osoba alebo podnikateľ, vo vzťahu ku ktorým nebolo možné stotožniť údaje a ktoré nereagovali ani na výzvy podľa odseku 4, a zároveň je možné odôvodnene predpokladať, že táto právnická osoba alebo podnikateľ už neexistuje alebo nevykonáva činnosť, správca registra pri tomto subjekte evidencie vyznačí v registri, že ide o subjekt evidencie, ktorého totožnosť nie je možné potvrdiť. Vyznačenie podľa prvej vety je možné vykonať najskôr po uplynutí deviatich mesiacov odo dňa doručenia výzvy podľa odseku 4, a ak bolo doručenie výzvy neúspešné, odo dňa prvého zverejnenia výzvy v Obchodnom vestníku.
+
+(6) Vyznačenie v registri podľa odseku 5 je dôvodom na zrušenie právnickej osoby podľa osobitného predpisu alebo na zrušenie oprávnenia na podnikanie podľa osobitného predpisu.

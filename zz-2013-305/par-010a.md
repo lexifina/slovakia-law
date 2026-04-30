@@ -1,0 +1,7 @@
+# § 10a Sprístupňovanie údajov fyzickej osobe, fyzickej osobe podnikateľovi alebo právnickej osobe
+
+(1) Fyzickej osobe, fyzickej osobe podnikateľovi alebo právnickej osobe sa elektronicky automatizovaným spôsobom podľa § 10 ods. 11 písm. j) a v rozsahu podľa odseku 2 sprístupňujú údaje evidované v informačných systémoch verejnej správy, notifikácie o zmenách a opravách takýchto údajov a notifikácie o skutočnosti, aký orgán verejnej moci, kedy a z akého právneho dôvodu k jej údajom pristupoval, ak sprístupňovanie takýchto údajov a súvisiacich notifikácií nevylučuje osobitný predpis.<sup>12b</sup>)
+
+(2) Ministerstvo investícií je na účely sprístupňovania údajov fyzickej osobe, fyzickej osobe podnikateľovi alebo právnickej osobe podľa odseku 1 a na účely správy týchto údajov oprávnené určiť rozsah takto sprístupňovaných údajov. Orgán verejnej moci je povinný údaje určené v rozsahu podľa prvej vety ministerstvu investícií poskytovať, a to vždy v ich aktuálnej podobe.
+
+(3) Na účely notifikácie osoby o zmenách v jej údajoch sprístupňovaných podľa § 10 ods. 11 písm. j) a o skutočnosti, aký orgán verejnej moci, kedy a z akého právneho dôvodu k týmto údajom pristupoval, je orgán verejnej moci povinný poskytovať ministerstvu investícií notifikácie o zmenách takýchto údajov a notifikácie obsahujúce údaje o tom, aký orgán verejnej moci, kedy a z akého právneho dôvodu k jej údajom pristupoval, a to bezodkladne potom, čo k zmenám takýchto údajov alebo k pristúpeniu k takýmto údajom došlo.
