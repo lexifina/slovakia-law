@@ -1,0 +1,3 @@
+# § 44al Prechodné ustanovenie k vráteniu dane pri zničení bezdymového tabakového výrobku colným úradom alebo pod jeho dozorom
+
+Daň z tabaku alebo inej náplne ako tabak v bezdymovom tabakovom výrobku, ktorý bol zničený colným úradom podľa § 44aj ods. 18, možno vrátiť osobe podľa § 19aa ods. 30 písm. a), c) a d), ktorá daň z takéhoto bezdymového tabakového výrobku zaplatila a ktorá označila spotrebiteľské balenie bezdymového tabakového výrobku uvedené v § 44aj ods. 17 kontrolnou známkou, ak v lehote podľa § 44aj ods. 18 táto osoba oznámila miestne príslušnému colnému úradu množstvo týchto spotrebiteľských balení bezdymového tabakového výrobku nepredaných do 30. apríla 2026 a požiadala ho o ich zničenie. Na vrátenie dane sa použijú § 14 ods. 4 a 5 primerane.
