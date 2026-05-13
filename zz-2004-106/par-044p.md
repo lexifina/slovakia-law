@@ -1,0 +1,9 @@
+# § 44p Prechodné ustanovenia k úpravám účinným od 1. januára 2015
+
+(1) Prevádzkovateľ daňového skladu, ktorý chce od 1. januára 2015 obchodovať s tabakovou surovinou, je povinný do 30. novembra 2014 oznámiť colnému úradu údaje uvedené v § 19a ods. 9. Colný úrad vydá prevádzkovateľovi daňového skladu povolenie na obchodovanie s tabakovou surovinou a zaradí ho do evidencie držiteľov povolenia na obchodovanie s tabakovou surovinou najneskôr do 31. decembra 2014.
+
+(2) Prevádzkovateľovi daňového skladu, ktorému colný úrad vydal povolenie na prevádzkovanie daňového skladu podľa § 19 v znení účinnom do 31. decembra 2014, vydá colný úrad do 31. decembra 2015 nové povolenie na prevádzkovanie daňového skladu s pôvodným registračným číslom, v ktorom uvedie presné vymedzenie tabakového výrobku podľa § 4 ods. 2, ktorý prevádzkovateľ daňového skladu uviedol podľa § 19 ods. 1 písm. a) a ods. 6.
+
+(3) Oprávnenému príjemcovi, ktorému colný úrad vydal povolenia podľa § 23 ods. 6 v znení účinnom do 31. decembra 2014, vydá colný úrad do 31. decembra 2015 nové povolenie prijímať tabakové výrobky z iného členského štátu v pozastavení dane opakovane s pôvodným registračným číslom, v ktorom uvedie presné vymedzenie tabakového výrobku podľa § 4 ods. 2, ktorý oprávnený príjemca uviedol podľa § 23 ods. 2 písm. b) a ods. 13.
+
+(4) Registrovanému odosielateľovi, ktorému colný úrad vydal povolenia podľa § 24 ods. 6 a § 23 ods. 8 v znení účinnom do 31. decembra 2014, vydá colný úrad do 31. decembra 2015 nové povolenie odosielať tabakové výrobky v pozastavení dane po ich prepustení do voľného obehu<sup>2aa</sup>) v pozastavení dane s pôvodným registračným číslom, v ktorom uvedie presné vymedzenie tabakového výrobku podľa § 4 ods. 2, ktoré registrovaný odosielateľ uviedol podľa § 24 ods. 2 písm. a) a § 23 ods. 13.

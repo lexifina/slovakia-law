@@ -1,0 +1,9 @@
+# § 44aa Prechodné ustanovenia k úpravám účinným od 1. januára 2021
+
+(1) Spotrebiteľské balenie cigariet a spotrebiteľské balenie tabaku označené kontrolnou známkou podľa § 9aa v znení účinnom do 31. decembra 2020 a uvedené do daňového voľného obehu možno predávať, ponúkať na predaj alebo skladovať do vypredania zásob.
+
+(2) Odberateľ kontrolných známok, ktorým je prevádzkovateľ tranzitného daňového skladu a prevádzkovateľ daňového skladu pre zahraničných zástupcov, ktorý odobral kontrolné známky vyhotovené podľa § 9aa v znení účinnom do 31. decembra 2020, je povinný preukázať použitie odobratých kontrolných známok a nepoužité kontrolné známky odovzdať colnému úradu v lehote určenej colným úradom a pred ich odovzdaním colnému úradu oznámiť prostredníctvom elektronického systému kontrolných známok počet a identifikačné čísla odovzdávaných kontrolných známok. Ak sa nepoužité kontrolné známky nachádzajú v neporušenom balíku, skupinovom obale alebo prepravnom obale, colnému úradu sa oznámi len označenie, ktoré obsahuje informáciu o identifikačných číslach kontrolných známok nachádzajúcich sa v balíku, skupinovom obale alebo prepravnom obale. Colný úrad zničí kontrolné známky na náklady odberateľa kontrolných známok.
+
+(3) Osoba zaradená do evidencie dovozcov tabakových výrobkov podľa § 9a v znení účinnom do 31. decembra 2020, ktorá chce byť zaradená do evidencie dovozcov tabakových výrobkov aj od 1. januára 2021, je povinná najneskôr do 15. januára 2021 zaslať colnému úradu zoznam majetkovo prepojených osôb a personálne prepojených osôb s dovozcom tabakových výrobkov.
+
+(4) Ak konanie o správnom delikte podľa § 41 ods. 1 písm. j) v znení účinnom do 31. decembra 2020 nebolo právoplatne ukončené do 31. decembra 2020, ukončí sa podľa predpisu účinného do 31. decembra 2020 a na pokutu sa vzťahuje § 41 ods. 2 v znení účinnom do 31. decembra 2020.

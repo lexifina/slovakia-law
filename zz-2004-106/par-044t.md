@@ -1,0 +1,5 @@
+# § 44t Prechodné ustanovenia k úpravám účinným od 1. januára 2016
+
+(1) Na kontrolných známkach určených na označovanie spotrebiteľských balení cigár alebo cigariek je od 1. januára 2016 uvedený znak pre sadzbu dane, ktorým je veľké písmeno „B“.
+
+(2) Spotrebiteľské balenie cigár alebo cigariek označené kontrolnou známkou, na ktorej je znak pre platnosť sadzby spotrebnej dane, ktorým je veľké písmeno „A“, možno uvádzať do daňového voľného obehu do 29. februára 2016 a predávať do 31. decembra 2017. Po tomto dátume bude také spotrebiteľské balenie cigár alebo cigariek považované za neoznačené. Osoba, ktorá je oprávnená v rámci podnikania predávať spotrebiteľské balenia cigár alebo cigariek, a ktorá skladuje spotrebiteľské balenia cigár alebo cigariek uvedené v prvej vete, ktoré nepredala do 31. decembra 2017, je povinná do 15. januára 2018 oznámiť colnému úradu množstvo takých spotrebiteľských balení cigár alebo cigariek a zároveň v tejto lehote požiadať colný úrad o ich zničenie; colný úrad také spotrebiteľské balenia cigár alebo cigariek zničí na náklady osoby a o zničení vyhotoví protokol o zničení, pričom ustanovenie § 41 ods. 1 písm. a) sa nepoužije.
