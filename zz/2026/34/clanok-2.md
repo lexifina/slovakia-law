@@ -1,0 +1,9 @@
+# Čl. II
+
+Zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov Slovenskej republiky v znení zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 304/1995 Z. z., zákona č. 277/1998 Z. z., zákona č. 57/1999 Z. z., zákona č. 447/2000 Z. z., zákona č. 175/2002 Z. z., zákona č. 668/2002 Z. z., zákona č. 461/2003 Z. z., zákona č. 391/2004 Z. z., zákona č. 81/2005 Z. z., zákona č. 94/2006 Z. z., zákona č. 598/2006 Z. z., zákona č. 460/2008 Z. z., zákona č. 563/2008 Z. z., zákona č. 504/2009 Z. z., zákona č. 500/2010 Z. z., uznesenia Ústavného súdu Slovenskej republiky č. 236/2011 Z. z., zákona č. 532/2011 Z. z., zákona č. 69/2012 Z. z., zákona č. 392/2012 Z. z., zákona č. 462/2013 Z. z., nálezu Ústavného súdu Slovenskej republiky č. 97/2014 Z. z., zákona č. 195/2014 Z. z., zákona č. 362/2014 Z. z., zákona č. 32/2015 Z. z., zákona č. 338/2015 Z. z., nálezu Ústavného súdu Slovenskej republiky č. 443/2015 Z. z., zákona č. 340/2016 Z. z., zákona č. 334/2017 Z. z., nálezu Ústavného súdu Slovenskej republiky č. 90/2019 Z. z., zákona č. 471/2019 Z. z., zákona č. 472/2019 Z. z., zákona č. 423/2020 Z. z., zákona č. 270/2021 Z. z., zákona č. 252/2022 Z. z., zákona č. 166/2024 Z. z. a zákona č. 261/2025 Z. z. sa mení takto:
+
+- V § 7 odsek 3 znie:
+
+- „(3)
+
+- Ak bol poslanec vykázaný z rokovania národnej rady z dôvodu narušenia poriadku na schôdzi národnej rady podľa osobitného predpisu,<sup>1e</sup>) stráca nárok na plat, funkčný príplatok a paušálne náhrady (§ 2, 3 a 4), ktoré by mu inak patrili na nasledujúci mesiac. Ak bol poslanec vyvedený z rokovania národnej rady podľa osobitného predpisu,<sup>1e</sup>) stráca nárok na ďalší jeden plat, funkčný príplatok a paušálne náhrady (§ 2, 3 a 4), ktoré by mu inak patrili.“.
