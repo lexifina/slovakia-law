@@ -1,0 +1,1 @@
+Samuel Migaľ v. r.
