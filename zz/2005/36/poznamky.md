@@ -6,6 +6,8 @@
 
 - 4) § 27 a 28 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z. v znení neskorších predpisov.
 
+- 4a) § 23a zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
+
 - 5) § 37 ods. 1 Občianskeho zákonníka.
 
 - 6) § 116 Občianskeho zákonníka.
@@ -31,6 +33,8 @@
 - 17) § 101 Občianskeho zákonníka.
 
 - 17a) Zákon č. 201/2008 Z. z. o náhradnom výživnom a o zmene a doplnení zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení nálezu Ústavného súdu Slovenskej republiky č. 615/2006 Z. z.
+
+- 17ab) § 3 písm. l) zákona č. 95/2019 Z. z. o informačných technológiách vo verejnej správe a o zmene a doplnení niektorých zákonov.
 
 - 17b) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
