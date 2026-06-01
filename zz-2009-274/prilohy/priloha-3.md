@@ -1,0 +1,9 @@
+Príloha č. 3 k zákonu č. 274/2009 Z. z.
+
+- Zoznam preberaných právnych aktov Európskych spoločenstiev a Európskej únie
+
+  - 1. Smernica Rady 79/409/EHS z 2. apríla 1979 o ochrane voľne žijúceho vtáctva (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 1; Ú. v. ES L 103, 25. 4. 1979) v znení smernice Rady 81/854/EHS z 19. októbra 1981 (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 1; Ú. v. ES L 319, 7. 11. 1981), smernice Komisie 85/411/EHS z 25. júla 1985 (Ú. v. ES L 233, 30. 8. 1985), smernice Rady 86/122/EHS z 8. apríla 1986 (Ú. v. ES L 100, 16. 4. 1986), smernice Komisie 91/244/EHS zo 6. marca 1991 (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 2; Ú. v. ES L 115, 8. 5. 1991), smernice Rady 94/24/ES z 8. júna 1994 (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 2; Ú. v. ES L 164, 30. 6. 1994), smernice Komisie 97/49/ES z 29. júla 1997 (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 3; Ú. v. ES L 223, 13. 8. 1997), nariadenia Rady (ES) č. 807/2003 zo 14. apríla 2003 (Ú. v. EÚ L 122, 16. 5. 2003), smernice Rady 2006/105/ES z 20. novembra 2006 (Ú. v. EÚ L 363, 20. 12. 2006) a smernice Európskeho parlamentu a Rady 2008/102/ES z 19. novembra 2008 (Ú. v. EÚ L 323, 3. 12. 2008).
+
+  - 2. Smernica Rady 92/43/EHS z 21. mája 1992 o ochrane prirodzených biotopov a voľne žijúcich živočíchov a rastlín (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 2; Ú. v. ES L 206, 22. 7. 1992) v znení smernice Rady 97/62/ES z 27. októbra 1997 (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 4; Ú. v. ES L 305, 8. 11. 1997), nariadenia Európskeho parlamentu a Rady (ES) č. 1882/2003 z 29. septembra 2003 (Mimoriadne vydanie Ú. v. EÚ, kap. 1/zv. 4; Ú. v. EÚ L 284, 31. 10. 2003) a smernice Rady 2006/105/ES z 20. novembra 2006 (Ú. v. EÚ L 363, 20. 12. 2006).
+
+  - 3. Smernica Európskeho parlamentu a Rady 2009/147 ES z 30. novembra 2009 o ochrane voľne žijúceho vtáctva (Ú. v. EÚ L 20, 26. 1. 2010).

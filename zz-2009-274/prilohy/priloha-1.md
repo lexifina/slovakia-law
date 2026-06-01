@@ -1,0 +1,17 @@
+Príloha č. 1 k zákonu č. 274/2009 Z. z.
+
+- Populácia voľne žijúcich druhov živočíchov
+
+  - 1. zver pernatá: bažant jarabý (Syrmaticus reevesii), bažant poľovný (Phasianus colchicus), čajka smejivá (Larus ridibundus), drop fúzatý (Otis tarda), drozd čvikotavý (Turdus pilaris), havran čierny (Corvus frugilegus), holub hrivnák (Columba palumbus), holub plúžik (Columba oenas), hrdlička poľná (Streptopelia turtur), hrdlička záhradná (Streptopelia decaocto), hus bieločelá (Anser albifrons), hus divá (Anser anser), hus krátkozobá (Anser brachyrhynchus), hus malá (Anser erythropus), hus siatinná (Anser fabalis), chochlačka sivá (Aythya ferina), chochlačka vrkočatá (Aythya fuligula), jarabica poľná (Perdix perdix), jariabok lesný (Tetrastes bonasia), jastrab lesný (Accipiter gentilis), kačica divá (Anas platyrhynchos), kačica hvízdavá (Anas penelope), kačica chrapkavá (Anas crecca), kačica chrapľavá (Anas querquedula), kačica chripľavá (Anas strepera), kačica lyžičiarka (Anas clypeata), kačica ostrochvostá (Anas acuta), kavka tmavá (Corvus (Coloeus) monedula), krkavec čierny (Corvus corax), kuropta horská (Alectoris graeca), kuropta červená (Alectoris rufa), lyska čierna (Fulica atra), močiarnica mekotavá (Capella gallinago), morka divá (Meleagris gallopavo), myšiak lesný (Buteo buteo), myšiak severský (Buteo lagopus), potápka chochlatá (Podiceps cristatus), sluka lesná (Scolopax rusticola), sojka škriekavá (Garrulus glandarius), straka čiernozobá (Pica pica), tetrov hlucháň (Tetrao urogallus), tetrov hoľniak (Lyrurus tetrix), volavka popolavá (Ardea cinerea), vrana túlavá (Corvus corone corone a Corvus corone cornix),
+
+  - 2. zver srstnatá: bobor vodný (Castor fiber), daniel škvrnitý (Dama dama), diviak lesný (Sus scrofa), hranostaj čiernochvostý (Mustela erminea), jazvec lesný (Meles meles), jeleň lesný (Cervus elaphus), jeleň sika (Cervus nippon), kamzík vrchovský alpský (Rupicapra rupicapra rupicapra), kamzík vrchovský tatranský (Rupicapra rupicapra tatrica), králik divý (Oryctolagus cuniculus), kuna lesná (Martes martes), kuna skalná (Martes foina), lasica myšožravá (Mustela nivalis), los mokraďový (Alces alces), líška hrdzavá (Vulpes vulpes), mačka divá (Felis silvestris), medveď hnedý (Ursus arctos), medvedík čistotný (Procyon lotor), muflón lesný (Ovis musimon), ondatra pižmová (Ondatra zibethica), jeleník (pasrnec) bielochvostý (Odocoileus virginianus); psík medvedíkovitý (Nyctereutes procyonoides), rys ostrovid (Lynx lynx), srnec lesný (Capreolus capreolus), svišť vrchovský (Marmota marmota), šakal zlatý (Canis aureus), tchor svetlý (Putorius eversmanni), tchor tmavý (Putorius putorius), vlk dravý (Canis lupus), vydra riečna (Lutra lutra), zajac poľný (Lepus europaeus), zubor hrivnatý (Bison bonasus), norok severoamerický (Mustela vision), nutria riečna (Myocastor coypus),
+
+  - 3. zver raticová: všetky druhy zveri z radu párnokopytníkov uvedených v druhom bode,
+
+  - 4. zver malá: zver bažantia, zajačia a jarabičia,
+
+  - 5. zver podliehajúca poľovníckemu plánovaniu: zver raticová, zver malá a jariabok lesný,
+
+  - 6. veľké šelmy: medveď hnedý (Ursus arctos), rys ostrovid (Lynx lynx), vlk dravý (Canis lupus) a šakal zlatý (Canis aureus),
+
+  - 7. krkavcovité vtáky: havran čierny (Corvus frugilegus), kavka tmavá (Corvus (Coloeus) monedula), krkavec čierny (Corvus corax), vrana túlavá (Corvus corone corone a Corvus corone cornix), straka čiernozobá (Pica pica), sojka škriekavá (Garrulus glandarius).
