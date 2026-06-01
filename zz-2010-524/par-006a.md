@@ -1,0 +1,3 @@
+# § 6a Osobitné ustanovenie v čase mimoriadnej situácie, núdzového stavu alebo výnimočného stavu
+
+Vláda Slovenskej republiky môže v čase mimoriadnej situácie, núdzového stavu alebo výnimočného stavu ustanoviť nariadením vlády Slovenskej republiky na obdobie v čase mimoriadnej situácie, núdzového stavu alebo výnimočného stavu alebo na obdobie bezprostredne nasledujúce po skončení mimoriadnej situácie, núdzového stavu alebo výnimočného stavu sumu dotácie uvedenej v § 2 ods. 2 písm. r), jej účel, spôsob jej poskytnutia, možnosť jej opakovaného poskytnutia v rozpočtovom roku a postup pri jej zúčtovaní.
