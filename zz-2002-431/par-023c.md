@@ -1,0 +1,17 @@
+# § 23c
+
+(1) Prevádzkovateľ registra sprístupní dokumenty podľa § 23 ods. 2 účtovných jednotiek, ktoré sú podľa § 23 ods. 6 uložené vo verejnej časti registra všetkým osobám prostredníctvom webového sídla v elektronickej podobe, tak ako ich účtovná jednotka uložila, bez poplatku.
+
+(2) Dokumenty podľa § 23 ods. 2 účtovných jednotiek, ktoré sú podľa § 23 ods. 6 uložené v neverejnej časti registra, sa sprístupňujú Národnej banke Slovenska a subjektu verejnej správy na účely súvisiace s ich činnosťou a účtovnej jednotke, ktorej sa dokumenty týkajú, pričom Národnej banke Slovenska a subjektu verejnej správy sa sprístupňujú prostredníctvom registra a účtovnej jednotke, ktorej sa dokumenty týkajú, na základe písomnej žiadosti prevádzkovateľovi registra. Národnej banke Slovenska a subjektu verejnej správy môžu byť v odôvodnených prípadoch sprístupnené aj na základe písomnej žiadosti, a to ak technické podmienky bránia sprístupneniu prostredníctvom registra. Iným osobám tieto dokumenty sprístupní prevádzkovateľ registra, ak tak ustanovuje osobitný predpis.<sup>29l</sup>) Poskytovanie informácií podľa osobitného predpisu<sup>29m</sup>) sa nevzťahuje na skutočnosti nachádzajúce sa v dokumentoch podľa § 23 ods. 2 uložených v neverejnej časti registra.
+
+(3) Žiadosť podľa odseku 2 obsahuje
+
+- a) identifikačné údaje žiadateľa, ktorými sú názov účtovnej jednotky, sídlo právnickej osoby alebo miesto podnikania fyzickej osoby a identifikačné číslo organizácie,
+
+- b) zoznam dokumentov alebo časti dokumentov, ktoré žiadateľ požaduje sprístupniť,
+
+- c) preukázanie oprávnenia na sprístupnenie požadovaných dokumentov alebo časti dokumentov.
+
+(4) Dokumenty podľa odseku 2 sa sprístupňujú v elektronickej podobe alebo v listinnej podobe, pričom v elektronickej podobe sa nespoplatňujú. Žiadosť v elektronickej podobe musí byť podpísaná kvalifikovaným elektronickým podpisom<sup>29n</sup>) alebo kvalifikovanou elektronickou pečaťou,<sup>29na</sup>) inak ju možno zamietnuť. Na konanie podľa odseku 2 sa vzťahuje správny poriadok.
+
+(5) Na základe žiadosti vydá prevádzkovateľ registra žiadateľovi, po zaplatení správneho poplatku, kópiu uloženého dokumentu alebo časti dokumentu podľa § 23 ods. 2 alebo potvrdenie o tom, že určitý dokument alebo časť dokumentu nie je v registri uložený. O vydanie kópie uloženého dokumentu alebo časti dokumentu alebo potvrdenia o tom, že určitý dokument alebo časť dokumentu v registri uložený nie je, možno žiadať aj elektronickými prostriedkami. Ak žiadateľ žiada o vydanie elektronickej podoby uloženého dokumentu alebo časti dokumentu alebo elektronickej podoby potvrdenia, že určitý dokument alebo časť dokumentu v registri uložený nie je, vydá ich prevádzkovateľ registra elektronickými prostriedkami<sup>29d</sup>) podpísané kvalifikovaným elektronickým podpisom<sup>29n</sup>) alebo kvalifikovanou elektronickou pečaťou.<sup>29na</sup>) Kópiu dokumentu alebo časti dokumentu alebo potvrdenie o tom, že určitý dokument alebo časť dokumentu v registri uložený nie je, vydá prevádzkovateľ registra do piatich pracovných dní odo dňa zaplatenia správneho poplatku. Účtovná jednotka môže o kópiu dokumentu alebo časti dokumentu, ktoré sa jej týkajú alebo potvrdenie, že určitý dokument nie je v registri uložený, požiadať osobne aj na okresnom úrade, ktorý plní úlohy jednotného kontaktného miesta podľa osobitného predpisu.<sup>29o</sup>) Kópiu dokumentu alebo časti dokumentu vydá účtovnej jednotke do uloženia dokumentu v registri daňový úrad.
