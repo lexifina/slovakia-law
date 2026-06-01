@@ -33,3 +33,5 @@ Príloha k zákonu č. 431/2002 Z. z. v znení neskorších predpisov
   - 15. Smernica Európskeho parlamentu a Rady (EÚ) 2025/794 zo 14. apríla 2025, ktorou sa menia smernice (EÚ) 2022/2464 a (EÚ) 2024/1760, pokiaľ ide o dátumy, od ktorých majú členské štáty uplatňovať určité požiadavky na vykazovanie informácií o udržateľnosti podnikov a náležitú starostlivosť podnikov v oblasti udržateľnosti (Ú. v. EÚ L, 2025/794, 16. 4. 2025).
 
   - 16. Smernica Komisie (EÚ) 2025/1442 z 18. júla 2025, ktorou sa mení smernica 2006/111/ES, pokiaľ ide o vykazovacie povinnosti (Ú. v. EÚ L, 2025/1442, 21. 7. 2025).
+
+  - 17. Smernica Európskeho parlamentu a Rady (EÚ) 2026/470 z 24. februára 2026, ktorou sa menia smernice 2006/43/ES, 2013/34/EÚ, (EÚ) 2022/2464 a (EÚ) 2024/1760, pokiaľ ide o určité požiadavky na vykazovanie informácií o udržateľnosti podnikov a určité požiadavky na náležitú starostlivosť podnikov v oblasti udržateľnosti (Ú. v. EÚ L, 2026/470, 26. 2. 2026).
