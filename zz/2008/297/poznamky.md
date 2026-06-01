@@ -106,7 +106,7 @@
 
 - 41b) Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov.
 
-- 41c) Zákon č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov v znení zákona č. 52/2018 Z. z.
+- 41c) § 7a zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 41d) Zákon č. 359/2015 Z. z. o automatickej výmene informácií o finančných účtoch na účely správy daní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 

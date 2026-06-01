@@ -22,9 +22,11 @@
 
   - 3. je štatutárnym orgánom, riadiacim orgánom, dozorným orgánom, kontrolným orgánom alebo členom týchto orgánov,
 
-  - 4. je príjemcom najmenej 25 % prostriedkov, ktoré poskytuje združenie majetku, ak boli určení budúci príjemcovia týchto prostriedkov; ak sú budúci príjemcovia určení podľa charakteristiky, určuje sa táto charakteristika, pričom konečnými užívateľmi výhod sa stávajú okamihom ich identifikácie alebo určenia a ak neboli určení budúci príjemcovia prostriedkov združenia majetku, za konečného užívateľa výhod sa považuje okruh osôb, ktoré majú významný prospech zo založenia alebo pôsobenia združenia majetku,
+  - 4. je príjemcom najmenej 25 % prostriedkov, ktoré poskytuje združenie majetku, ak boli určení budúci príjemcovia týchto prostriedkov; ak sú budúci príjemcovia určení podľa charakteristiky, určuje sa táto charakteristika, pričom konečnými užívateľmi výhod sa stávajú okamihom ich identifikácie alebo určenia a ak neboli určení budúci príjemcovia prostriedkov združenia majetku, za konečného užívateľa výhod sa považuje okruh osôb, ktoré majú prospech zo založenia alebo pôsobenia združenia majetku,
 
   - 5. je vymenovaná na zastupovanie a ochranu záujmov príjemcov združenia majetku,
+
+  - 6. vykonáva skutočnú kontrolu nad majetkom združenia majetku prostredníctvom priameho alebo nepriameho vlastníctva alebo inými prostriedkami a nie je uvedená v prvom bode až piatom bode,
 
 - d) ak ide o zverenecký fond zriadený podľa práva iného štátu alebo obdobnú právnu štruktúru založenú podľa práva iného štátu (ďalej len „zahraničný zverenecký fond“), fyzická osoba, ktorá
 
@@ -34,7 +36,7 @@
 
   - 3. je osobou vykonávajúcou dohľad nad správou zahraničného zvereneckého fondu, ak je určená,
 
-  - 4. je príjemcom prostriedkov zo zahraničného zvereneckého fondu; ak ešte nebol určený budúci príjemca prostriedkov, okruh osôb, ktoré majú významný prospech zo založenia alebo pôsobenia zahraničného zvereneckého fondu,
+  - 4. je príjemcom prostriedkov zo zahraničného zvereneckého fondu; ak sú budúci príjemcovia prostriedkov určení podľa charakteristiky, určuje sa táto charakteristika, pričom konečnými užívateľmi výhod sa stávajú okamihom ich identifikácie alebo určenia a ak ešte nie sú určení budúci príjemcovia prostriedkov, za konečného užívateľa výhod sa považuje okruh osôb, ktoré majú prospech zo založenia alebo pôsobenia zahraničného zvereneckého fondu,
 
   - 5. vykonáva skutočnú kontrolu nad majetkom zvereným zahraničnému zvereneckému fondu prostredníctvom priameho alebo nepriameho vlastníctva alebo inými prostriedkami a nie je uvedená v prvom bode až štvrtom bode,
 

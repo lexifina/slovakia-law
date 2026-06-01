@@ -40,4 +40,4 @@ Príloha č. 2 k zákonu č. 297/2008 Z. z.
 
     - d) krajiny poskytujúce finančné prostriedky alebo podporu teroristickej činnosti alebo krajiny, v ktorých pôsobia identifikované teroristické organizácie.
 
-  - 4) Rizikové faktory týkajúce sa životného poistenia: úroveň rizika, ktorú predstavuje osoba, ktorá je príjemcom poistného plnenia zo životného poistenia.
+  - 4) Rizikové faktory týkajúce sa životného poistenia: úroveň rizika, ktorú predstavuje subjekt, ktorý je príjemcom poistného plnenia zo životného poistenia.
