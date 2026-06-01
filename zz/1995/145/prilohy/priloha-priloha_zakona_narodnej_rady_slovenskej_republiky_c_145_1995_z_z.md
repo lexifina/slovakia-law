@@ -846,6 +846,10 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - s) Výmaz údajov zapísanej organizačnej jednotky združenia občanov oprávnenej konať vo svojom mene z registra mimovládnych neziskových organizácií | 25 eur
 
+  - t) Zápis údajov o zahraničnom zvereneckom fonde | 100 eur
+
+  - u) Zmena zapísaných údajov o zahraničnom zvereneckom fonde | 25 eur
+
   - Oslobodenie 1. Od poplatkov podľa písmen f) až h) tejto položky sú oslobodené nadácie, neinvestičné fondy a neziskové organizácie poskytujúce všeobecne prospešné služby pri zápise údajov o konečnom užívateľovi výhod alebo pri zmene zapísaných údajov o konečnom užívateľovi výhod. 2. Od poplatkov podľa tejto položky sú oslobodené odborové organizácie a organizácie zamestnávateľov. |
 
   - Poznámka 1. Poplatok podľa písmena d) tejto položky sa nevyberie, ak ide o zmenu informatívneho údaja o listoch vlastníctva podľa zoznamu nehnuteľností, ktorá nastala v dôsledku prechodu práv a povinností k nehnuteľnostiam alebo v dôsledku zápisu rozhodnutia o schválení projektu pozemkových úprav do katastra nehnuteľností. 2. Poplatok podľa písmena j) sa nevyberie, ak občianske združenie zašle Ministerstvu vnútra Slovenskej republiky písomne do 30. júna 2019 údaje o štatutárnom orgáne alebo členoch štatutárneho orgánu podľa § 20a ods. 1 zákona č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov. 3. Poplatok podľa písmen q) a r) sa nevyberie, ak občianske združenie, ktoré zriadilo organizačné jednotky konajúce vo svojom mene do 31. decembra 2018, zašle Ministerstvu vnútra Slovenskej republiky písomne do 31. decembra 2019 údaje o organizačných jednotkách podľa § 20a ods. 2 zákona č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov. |
