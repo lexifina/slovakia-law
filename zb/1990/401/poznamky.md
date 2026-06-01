@@ -14,7 +14,7 @@
 
 - 1g) § 11 a 12 zákona Slovenskej národnej rady č. 369/1990 Zb.
 
-- 2) Zákon Slovenskej národnej rady č. 346/1990 Zb. o voľbách do orgánov samosprávy obcí.
+- 2) Zákon č. 180/2014 Z. z. o podmienkach výkonu volebného práva a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 2a) Zákon č. 582/2004 Z. z. o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady v znení neskorších predpisov.
 
@@ -33,6 +33,14 @@
 - 6a) § 6 až 9b zákona Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov.
 
 - 6b) § 4 ods. 3 zákona Slovenskej národnej rady č. 369/1990 Zb.
+
+- 6ba) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku v znení neskorších predpisov.
+
+- 6bb) § 9a ods. 15 písm. f) zákona Slovenskej národnej rady č. 138/1991 Zb. v znení neskorších predpisov.
+
+- 6bc) § 9aa ods. 2 písm. e) zákona Slovenskej národnej rady č. 138/1991 Zb. v znení neskorších predpisov.
+
+- 6bd) § 9aa ods. 4 zákona Slovenskej národnej rady č. 138/1991 Zb. v znení neskorších predpisov.
 
 - 6c) § 1b zákona Slovenskej národnej rady č. 369/1990 Zb.
 
