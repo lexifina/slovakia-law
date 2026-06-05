@@ -42,7 +42,7 @@
 
 (19) Národná banka Slovenska informuje Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) o
 
-- a) postupe preskúmania a hodnotenia podľa § 135 ods. 8 až 11,
+- a) postupe preskúmania a hodnotenia podľa § 135 ods. 8 až 12,
 
 - b) metodike používanej na prijímanie rozhodnutí podľa § 74e, § 74f a § 144,
 

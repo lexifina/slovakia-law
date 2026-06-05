@@ -700,9 +700,15 @@
 
 - 102ab) Čl. 3 nariadenia (EÚ) 2017/1129.
 
+- 102aba) Čl. 3 ods. 2c nariadenia (EÚ) 2017/1129 v platnom znení.
+
+- 102abb) Čl. 21 ods. 2 nariadenia (EÚ) 2017/1129 v platnom znení.
+
+- 102abc) Čl. 7 ods. 3 až 10, 12 a 12a nariadenia (EÚ) 2017/1129 v platnom znení.
+
 - 102ac) Čl. 11 nariadenia (EÚ) 2017/1129.
 
-- 102ad) Čl. 7 a čl. 15 nariadenia (EÚ) 2017/1129.
+- 102ad) Čl. 7 nariadenia (EÚ) 2017/1129 v platnom znení.
 
 - 102ae) § 34 a 35 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
 

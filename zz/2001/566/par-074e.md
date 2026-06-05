@@ -1,6 +1,6 @@
 # § 74e Dodatočná požiadavka na vlastné zdroje
 
-(1) Na základe výsledkov preskúmania a hodnotenia podľa § 135 ods. 8 až 17 a § 144 ods. 1 písm. m) Národná banka Slovenska uloží obchodníkovi s cennými papiermi dodatočnú požiadavku na vlastné zdroje, ak
+(1) Na základe výsledkov preskúmania a hodnotenia podľa § 135 ods. 8 až 18 a § 144 ods. 1 písm. m) Národná banka Slovenska uloží obchodníkovi s cennými papiermi dodatočnú požiadavku na vlastné zdroje, ak
 
 - a) obchodník s cennými papiermi je vystavený rizikám alebo prvkom rizík, ktoré sú významné a ktoré nie sú kryté alebo ktoré nie sú dostatočne kryté požiadavkami na vlastné zdroje a najmä požiadavkami podľa osobitného predpisu,<sup>58jc</sup>) alebo takéto riziká predstavuje pre iné subjekty,
 
@@ -8,7 +8,7 @@
 
 - c) úpravy ocenení podľa § 75 sú nedostatočné na to, aby obchodníkovi s cennými papiermi umožnili za normálnych trhových podmienok v krátkej dobe predať alebo zaistiť (hedžing) svoje pozície bez významnej straty,
 
-- d) neplnenie požiadaviek na používanie interného modelu podľa § 135 ods. 12 až 16 bude mať pravdepodobne za následok nedostatočné požiadavky na vlastné zdroje alebo,
+- d) neplnenie požiadaviek na používanie interného modelu podľa § 135 ods. 13 až 17 bude mať pravdepodobne za následok nedostatočné požiadavky na vlastné zdroje alebo,
 
 - e) obchodník s cennými papiermi opakovane nezavedie alebo nedodržuje dostatočnú výšku dodatočných vlastných zdrojov podľa § 74f.
 

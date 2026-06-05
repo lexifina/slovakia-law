@@ -1,6 +1,6 @@
 # § 74g Osobitné požiadavky na likviditu
 
-(1) Na základe výsledkov preskúmania podľa § 135 ods. 8 až 17 a § 144 ods. 1 písm. af) Národná banka Slovenska uloží obchodníkovi s cennými papiermi, ktorý nie je malým a neprepojeným obchodníkom alebo ktorý je malým a neprepojeným obchodníkom a zároveň tento obchodník nebol vyňatý z uplatňovania požiadavky na likviditu podľa osobitného predpisu,<sup>58je</sup>) osobitnú požiadavku na likviditu, ak
+(1) Na základe výsledkov preskúmania podľa § 135 ods. 8 až 18 a § 144 ods. 1 písm. af) Národná banka Slovenska uloží obchodníkovi s cennými papiermi, ktorý nie je malým a neprepojeným obchodníkom alebo ktorý je malým a neprepojeným obchodníkom a zároveň tento obchodník nebol vyňatý z uplatňovania požiadavky na likviditu podľa osobitného predpisu,<sup>58je</sup>) osobitnú požiadavku na likviditu, ak
 
 - a) obchodník s cennými papiermi je vystavený riziku likvidity alebo prvkom rizika likvidity, ktoré sú závažné a nie sú kryté alebo nie sú dostatočne kryté požiadavkou na likviditu podľa osobitného predpisu<sup>58jea</sup>) alebo
 
