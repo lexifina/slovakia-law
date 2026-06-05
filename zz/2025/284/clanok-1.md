@@ -90,6 +90,10 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 
   - Poznámka pod čiarou k odkazu 58hfc sa vypúšťa.
 
+- 19. V § 74e ods. 1 úvodnej vete a § 74g ods. 1 úvodnej vete sa slová „až 17“ nahrádzajú slovami „až 18“.
+
+- 20. V § 74e ods. 1 písm. d) sa slová „12 až 16“ nahrádzajú slovami „13 až 17“.
+
 - 21. § 77 sa dopĺňa odsekom 10, ktorý znie:
 
 - „(10)
@@ -99,6 +103,30 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 - 23. V § 104 ods. 4 prvej vete sa na konci pripájajú slová „a na účel poskytovania služieb podľa povolenia na činnosť vrátane spracovania korporátnych udalostí, pričom korporátnou udalosťou sa rozumie akákoľvek udalosť, ktorá má vplyv na majiteľov a držiteľov cenných papierov alebo iné oprávnené osoby, a to najmä výplata dividend, splácanie menovitej hodnoty dlhopisov a vyplácanie výnosov dlhopisov, rozdelenie akcií, fúzie a akvizície“ a za prvú vetu sa vkladá nová druhá veta, ktorá znie: „Rozsah poskytovaných údajov zahŕňa údaje vedené v evidencii zaknihovaných cenných papierov podľa tohto zákona a ďalšie nevyhnutné údaje na účely podľa prvej vety.“.
 
 - 24. V § 104 ods. 6 sa za slovo „údaje“ vkladajú slová „a ďalšie údaje podľa odseku 4“.
+
+- 25. V § 120 ods. 2 sa slová „ak celková hodnota každej takejto ponuky v Európskej únii vypočítaná za obdobie 12 mesiacov je nižšia ako 1 000 000 eur“ nahrádzajú slovami „ak je celková súhrnná protihodnota<sup>102aba</sup>) v Európskej únii za ponúkané cenné papiere nižšia ako 5 000 000 eur na emitenta alebo vyhlasovateľa verejnej ponuky vypočítaná za obdobie 12 mesiacov“.
+
+  - Poznámka pod čiarou k odkazu 102aba znie:
+
+  - „<sup>102aba</sup>) Čl. 3 ods. 2c nariadenia (EÚ) 2017/1129 v platnom znení.“.
+
+- 26. V § 120 sa za odsek 2 vkladá nový odsek 3, ktorý znie:
+
+- „(3)
+
+- Ak sa na verejnú ponuku cenných papierov nevzťahuje povinnosť zverejniť prospekt podľa odseku 2, emitent alebo vyhlasovateľ verejnej ponuky cenných papierov je povinný predložiť Národnej banke Slovenska a sprístupniť verejnosti podľa osobitného predpisu<sup>102abb</sup>) dokument vypracovaný podľa osobitného predpisu.<sup>102abc</sup>)“.
+
+  - Doterajšie odseky 3 až 7 sa označujú ako odseky 4 až 8.
+
+  - Poznámky pod čiarou k odkazom 102abb a 102abc znejú:
+
+  - „<sup>102abb</sup>) Čl. 21 ods. 2 nariadenia (EÚ) 2017/1129 v platnom znení.
+
+  - <sup>102abc</sup>) Čl. 7 ods. 3 až 10, 12 a 12a nariadenia (EÚ) 2017/1129 v platnom znení.“.
+
+- 27. Poznámka pod čiarou k odkazu 102ad znie:
+
+- „<sup>102ad</sup>) Čl. 7 nariadenia (EÚ) 2017/1129 v platnom znení.“.
 
 - 28. § 132t sa dopĺňa odsekom 4, ktorý znie:
 
@@ -110,17 +138,39 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 
 - 30. V poznámke pod čiarou k odkazu 110fa sa na konci pripája táto citácia: „Nariadenie (EÚ) č. 1092/2010 v platnom znení.“.
 
+- 31. V § 135 sa za odsek 8 vkladá nový odsek 9, ktorý znie:
+
+- „(9)
+
+- Národná banka Slovenska posudzuje a monitoruje vývoj postupov obchodníka s cennými papiermi, ktoré sa týkajú riadenia jeho rizika koncentrácie vyplývajúceho z expozícií voči centrálnym protistranám, vrátane plánov vypracovaných v súlade s § 71c ods. 2 písm. e), ako aj pokrok dosiahnutý prispôsobovaním jeho obchodných modelov požiadavkám ustanoveným osobitným predpisom.<sup>56acaba</sup>)“.
+
+  - Doterajšie odseky 9 až 18 sa označujú ako odseky 10 až 19.
+
 - 32. V § 135 ods. 12 sa za slovo „najmä“ vkladajú slová „na zmeny v obchodnej činnosti a na uplatňovanie uvedených interných modelov a“.
 
 - 33. V § 135 ods. 14 sa slovo „môže“ nahrádza slovom „odoberie“, vypúšťa sa slovo „odobrať“ a slovo „uložiť“ sa nahrádza slovom „uloží“.
 
+- 34. V § 135 ods. 17 sa slová „odseku 15“ nahrádzajú slovami „odseku 16“.
+
 - 35. V § 135 ods. 17 písm. d) sa za slovo „údaje“ vkladajú slová „o rozhodujúcich ukazovateľoch v oblasti prudenciálnych požiadaviek na obchodníka s cennými papiermi podľa tohto zákona a osobitného predpisu<sup>50cb</sup>) a súhrnné štatistické údaje“.
+
+- 36. V § 135 ods. 19 sa slová „odseku 17“ nahrádzajú slovami „odseku 18“.
+
+- 38. V § 135a ods. 19 písm. a) sa slová „až 11“ nahrádzajú slovami „až 12“.
 
 - 39. V § 141 ods. 1 sa slovo „zriadi“ nahrádza slovami „môže zriadiť“.
 
 - 40. V § 142 ods. 2 sa za slovo „obrátiť“ vkladajú slová „podľa osobitného predpisu<sup>110l</sup>)“ a za slovo „neboli“ sa vkladá slovo „bezodkladne“.
 
+- 41. V § 144 ods. 1 úvodnej vete sa za slová „a 9,“ vkladajú slová „v nedodržiavaní podmienok podľa § 71c, § 135, tohto paragrafu a § 157“.
+
 - 42. V § 144 ods. 1 písm. p) sa slová „celkových odmien vyplatených osobám“ nahrádzajú slovami „čistých príjmov osôb“.
+
+- 43. V § 144 sa odsek 1 dopĺňa písmenom ah), ktoré znie:
+
+- „ah)
+
+- uložiť obchodníkovi s cennými papiermi povinnosť znížiť expozície voči centrálnej protistrane alebo opätovne preskupiť expozície na všetkých svojich zúčtovacích účtoch v súlade s osobitným predpisom,<sup>56acaba</sup>) ak podľa Národnej banky Slovenska existuje nadmerné riziko koncentrácie vyplývajúce z expozícií voči tejto centrálnej protistrane.“.
 
 - 44. V § 144 sa odsek 35 dopĺňa písmenom i), ktoré znie:
 
