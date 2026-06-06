@@ -144,9 +144,9 @@
 
 - 38) § 12 zákona č. 244/2002 Z. z. v znení zákona č. 521/2005 Z. z.
 
-- 39) Napríklad zákon č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov, zákon č. 566/2001 Z. z. v znení neskorších predpisov, delegované nariadenie Komisie (EÚ) 2017/568 z 24. mája 2016, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ, pokiaľ ide o regulačné technické predpisy pre prijatie finančných nástrojov na obchodovanie na regulovaných trhoch (Ú. v. EÚ L 87, 31. 3. 2017).
+- 39) Napríklad delegované nariadenie Komisie (EÚ) 2017/568 z 24. mája 2016, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ, pokiaľ ide o regulačné technické predpisy pre prijatie finančných nástrojov na obchodovanie na regulovaných trhoch (Ú. v. EÚ L 87, 31. 3. 2017), nariadenie (EÚ) č. 600/2014 v platnom znení, zákon č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov, zákon č. 566/2001 Z. z. v znení neskorších predpisov.
 
-- 39a) § 7 ods. 30 zákona č. 566/2001 Z. z. v znení zákona č. 237/2017 Z. z.
+- 39a) § 7 ods. 26 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 40) § 2 zákona č. 386/2002 Z. z. o štátnom dlhu a štátnych zárukách a ktorým sa dopĺňa zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.
 
@@ -163,6 +163,8 @@
 - 46a) Čl. 1 bod 5 písm. j) nariadenia (EÚ) 2017/1129 v platnom znení.
 
 - 47) Čl. 1 delegovaného nariadenia (EÚ) 2017/568.
+
+- 47a) Čl. 1 nariadenia (EÚ) 2017/1129 v platnom znení.
 
 - 48) § 7 ods. 6 zákona č. 566/2001 Z. z.
 
@@ -234,8 +236,6 @@
 
 - 65) Delegované nariadenie (EÚ) 2017/569.
 
-- 66) Čl. 78 delegovaného nariadenia Komisie (EÚ) 2017/565 z 25. apríla 2016, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ, pokiaľ ide o organizačné požiadavky a podmienky výkonu činnosti investičných spoločností, ako aj o vymedzené pojmy na účely uvedenej smernice (Ú. v. EÚ L 87, 31. 3. 2017).
-
 - 66a) Čl. 77 delegovaného nariadenia (EÚ) 2017/565.
 
 - 66aa) Nariadenie (EÚ) 2017/1129.
@@ -245,8 +245,6 @@
 - 66c) Čl. 3 ods. 1 bod 25 nariadenia (EÚ) č. 596/2014.
 
 - 66d) Čl. 3 ods. 1 bod 26 nariadenia (EÚ) č. 596/2014.
-
-- 66e) Čl. 79 delegovaného nariadenia (EÚ) 2017/565.
 
 - 67) Delegované nariadenie Komisie (EÚ) 2022/1302 z 20. apríla 2022, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ, pokiaľ ide o regulačné technické predpisy na uplatňovanie obmedzení pozícií komoditných derivátov a postupy uplatňovania výnimky z obmedzení pozícií (Ú. v. EÚ L 197, 26. 7. 2022).
 
