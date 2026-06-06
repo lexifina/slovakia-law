@@ -70,6 +70,80 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 
 - 13. V § 71da ods. 1 písm. j) druhom bode sa na konci pripája čiarka a tieto slová: „ktorá zohľadňuje riziká a udržateľný výkon osoby uvedenej v odseku 2, a výkon osoby uvedenej v odseku 2 nad rámec požiadaviek na plnenie úloh určených podľa pracovnej náplne v rámci organizácie a riadenia obchodníka s cennými papiermi“.
 
+- 14. V § 73b odsek 18 znie:
+
+- „(18)
+
+- Poskytovanie investičného prieskumu tretími osobami obchodníkovi s cennými papiermi, ktorý poskytuje investičnú službu riadenie portfólia alebo iné investičné služby alebo vedľajšie služby klientom, sa považuje za plnenie povinností podľa odseku 1, ak
+
+- a)
+
+- medzi obchodníkom s cennými papiermi a treťou osobou, ktorá je poskytovateľom služieb podľa § 6 ods. 1 písm. b) a služby investičného prieskumu, sa uzavrela dohoda, v ktorej sa určuje metodika odmeňovania vrátane uvedenia, ako sa zohľadňujú celkové náklady na investičný prieskum pri určovaní celkových poplatkov za investičné služby,
+
+- b)
+
+- obchodník s cennými papiermi informuje svojho klienta o tom, či si zvolil spoločnú platbu alebo samostatnú platbu za služby podľa § 6 ods. 1 písm. b) a za službu investičného prieskumu, a sprístupní mu svoju politiku týkajúcu sa platieb za služby podľa § 6 ods. 1 písm. b) a za službu investičného prieskumu vrátane informácií, ktoré sa môžu poskytnúť v závislosti od spôsobu platby, ktorý si obchodník s cennými papiermi zvolil, a pri uplatňovaní spoločnej platby informácie o tom, ako obchodník s cennými papiermi zabraňuje konfliktu záujmov alebo ho riadi podľa § 71l pri uplatňovaní spoločnej platby za služby podľa § 6 ods. 1 písm. b) a za službu investičného prieskumu,
+
+- c)
+
+- obchodník s cennými papiermi každoročne posudzuje kvalitu, použiteľnosť a hodnotu použitého investičného prieskumu, ako aj schopnosť použitého investičného prieskumu prispieť k lepším investičným rozhodnutiam,
+
+- d)
+
+- obchodník s cennými papiermi si zvolí samostatnú platbu za služby podľa § 6 ods. 1 písm. b) a za službu investičného prieskumu vykonávané treťou osobou, poskytovanie investičného prieskumu treťou osobou obchodníkovi s cennými papiermi sa prijíma ako protihodnota za ktorúkoľvek z týchto platieb:
+
+- 1.
+
+- priame platby zo strany obchodníka s cennými papiermi z jeho vlastných zdrojov,
+
+- 2.
+
+- platby z účtu na prieskumy, ktorý kontroluje obchodník s cennými papiermi.“.
+
+- 15. § 73b sa dopĺňa odsekmi 23 až 31, ktoré znejú:
+
+- „(23)
+
+- Investičný prieskum vypracovaný obchodníkom s cennými papiermi alebo treťou osobou a používaný obchodníkom s cennými papiermi, jeho klientmi alebo potenciálnymi klientmi alebo distribuovaný tomuto obchodníkovi s cennými papiermi, jeho klientom alebo potenciálnym klientom musí byť spravodlivý, jasný a nezavádzajúci. Investičný prieskum musí byť jasne identifikovateľný názvom alebo iným podobným označením a spĺňať požiadavky ustanovené osobitným predpisom,<sup>58hfb</sup>) ktoré sa vzťahujú na investičný prieskum.
+
+- (24)
+
+- Obchodník s cennými papiermi poskytujúci investičnú službu riadenie portfólia alebo iné investičné služby alebo vedľajšie služby označí investičný prieskum, ktorý distribuuje klientom alebo potenciálnym klientom a ktorý úplne alebo čiastočne platí emitent, ako prieskum sponzorovaný emitentom, len ak bol vypracovaný v súlade s kódexom správania Európskej únie pre prieskum sponzorovaný emitentom zverejneným na webovom sídle Európskeho orgánu dohľadu (Európskeho orgánu pre cenné papiere a trhy).
+
+- (25)
+
+- Obchodník s cennými papiermi, ktorý vypracúva alebo distribuuje prieskum sponzorovaný emitentom, musí mať zavedené organizačné opatrenia na uistenie, že takýto prieskum sa vypracoval v súlade s kódexom správania Európskej únie pre prieskum sponzorovaný emitentom a tento prieskum je v súlade s odsekmi 23, 24 a 28.
+
+- (26)
+
+- Ak má emitent vypracovaný prieskum sponzorovaný emitentom podľa odseku 24, takýto prieskum predloží Národnej banke Slovenska ako orgánu zberu údajov.<sup>58hab</sup>)
+
+- (27)
+
+- Pri predkladaní informácií podľa odseku 26 Národnej banke Slovenska ako orgánu zberu údajov emitent zabezpečí, aby k nim boli priložené metaúdaje preukazujúce, že informácie sú v súlade s kódexom správania Európskej únie pre prieskum sponzorovaný emitentom. Informácie podľa odseku 26 nie sú regulovanými informáciami podľa osobitného predpisu<sup>58hac</sup>) ani investičným prieskumom podľa tohto zákona a nepodliehajú rovnakému dohľadu, aký sa vzťahuje na regulovanú informáciu alebo investičný prieskum.
+
+- (28)
+
+- V investičnom prieskume, ktorý je označený ako prieskum sponzorovaný emitentom, sa musí na jeho titulnej strane jasne a zreteľne uviesť, že bol vypracovaný v súlade s kódexom správania Európskej únie pre prieskum sponzorovaný emitentom. Každé iné prieskumné materiály, ktoré emitent úplne alebo čiastočne zaplatil, ale ktoré neboli vypracované v súlade s kódexom správania Európskej únie pre prieskum sponzorovaný emitentom, sa označujú ako marketingová komunikácia.
+
+- (29)
+
+- Za investičný prieskum sa nepovažujú komentáre k obchodovaniu ani iné súvisiace obchodné poradenské služby, ktoré sú vzájomne prepojené s vykonaním transakcie s finančnými nástrojmi.
+
+- (30)
+
+- Ak obchodník s cennými papiermi dostáva investičný prieskum od poskytovateľa investičného prieskumu, ktorý nie je zapojený do služieb podľa § 6 ods. 1 písm. b) a nie je súčasťou skupiny, ktorá zahŕňa obchodníka s cennými papiermi, ktorý poskytuje služby podľa § 6 ods. 1 písm. a) alebo písm. b), poskytovanie takéhoto investičného prieskumu obchodníkovi s cennými papiermi sa považuje za splnenie povinností podľa odseku 1, pričom obchodník s cennými papiermi musí spĺňať požiadavku podľa odseku 18 písm. c).
+
+- (31)
+
+- Obchodník s cennými papiermi je povinný viesť záznamy o celkových nákladoch, ktoré vznikli v súvislosti s investičným prieskumom vypracovaným treťou osobou, ktorý mu bol poskytnutý, ak sú mu tieto náklady známe. Obchodník s cennými papiermi takéto informácie každoročne sprístupní jeho klientom na požiadanie.“.
+
+  - Poznámky pod čiarou k odkazom 58hab a 58hac znejú:
+
+  - „<sup>58hab</sup>) Čl. 2 ods. 2 nariadenia Európskeho parlamentu a Rady (EÚ) 2023/2859 z 13. decembra 2023, ktorým sa zriaďuje jednotné európske miesto prístupu, ktoré poskytuje centralizovaný prístup k verejne dostupným informáciám týkajúcim sa finančných služieb, kapitálových trhov a udržateľnosti (Ú. v. EÚ L, 2023/2859, 20. 12. 2023) v platnom znení.
+
+  - <sup>58hac</sup>) § 45 zákona č. 429/2002 Z. z. v znení neskorších predpisov.“.
+
 - 16. V § 73o sa vypúšťa odsek 3.
 
   - Doterajšie odseky 4 a 5 sa označujú ako odseky 3 a 4.
@@ -156,6 +230,24 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 
 - 36. V § 135 ods. 19 sa slová „odseku 17“ nahrádzajú slovami „odseku 18“.
 
+- 37. § 135 sa dopĺňa odsekom 20, ktorý znie:
+
+- „(20)
+
+- Národná banka Slovenska môže
+
+- a)
+
+- prijať všetky potrebné opatrenia na overenie, či obchodník s cennými papiermi má zavedené organizačné opatrenia s cieľom zabezpečiť, aby prieskum sponzorovaný emitentom, ktorý vypracúva alebo distribuuje, bol v súlade s kódexom správania Európskej únie pre prieskum sponzorovaný emitentom,
+
+- b)
+
+- pozastaviť distribúciu každého prieskumu sponzorovaného emitentom, ktorý nie je vypracovaný v súlade s kódexom správania Európskej únie pre prieskum sponzorovaný emitentom, vykonávanú obchodníkom s cennými papiermi,
+
+- c)
+
+- vydávať varovania s cieľom informovať verejnosť o tom, že prieskum nie je vypracovaný v súlade s kódexom správania Európskej únie pre prieskum sponzorovaný emitentom, ak investičný prieskum označený ako prieskum sponzorovaný emitentom a distribuovaný obchodníkom s cennými papiermi nie je vypracovaný v súlade s kódexom správania Európskej únie pre prieskum sponzorovaný emitentom.“.
+
 - 38. V § 135a ods. 19 písm. a) sa slová „až 11“ nahrádzajú slovami „až 12“.
 
 - 39. V § 141 ods. 1 sa slovo „zriadi“ nahrádza slovami „môže zriadiť“.
@@ -185,3 +277,9 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 - „31.
 
 - Smernica Európskeho parlamentu a Rady (EÚ) 2024/790 z 28. februára 2024, ktorou sa mení smernica 2014/65/EÚ o trhoch s finančnými nástrojmi (Ú. v. EÚ L, 2024/790, 8. 3. 2024).“.
+
+- 48. Príloha sa dopĺňa tridsiatym druhým bodom, ktorý znie:
+
+- „32.
+
+- Smernica Európskeho parlamentu a Rady (EÚ) 2024/2811 z 23. októbra 2024, ktorou sa mení smernica 2014/65/EÚ s cieľom zatraktívniť verejné kapitálové trhy v Únii pre spoločnosti a uľahčiť malým a stredným podnikom prístup ku kapitálu a ktorou sa zrušuje smernica 2001/34/ES (Ú. v. EÚ L, 2024/2811, 14. 11. 2024).“.
