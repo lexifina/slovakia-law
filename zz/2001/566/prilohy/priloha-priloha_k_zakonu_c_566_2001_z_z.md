@@ -64,4 +64,6 @@ Príloha k zákonu č. 566/2001 Z. z.
 
   - 31. Smernica Európskeho parlamentu a Rady (EÚ) 2024/790 z 28. februára 2024, ktorou sa mení smernica 2014/65/EÚ o trhoch s finančnými nástrojmi (Ú. v. EÚ L, 2024/790, 8. 3. 2024).
 
+  - 32. Smernica Európskeho parlamentu a Rady (EÚ) 2024/2811 z 23. októbra 2024, ktorou sa mení smernica 2014/65/EÚ s cieľom zatraktívniť verejné kapitálové trhy v Únii pre spoločnosti a uľahčiť malým a stredným podnikom prístup ku kapitálu a ktorou sa zrušuje smernica 2001/34/ES (Ú. v. EÚ L, 2024/2811, 14. 11. 2024).
+
   - 31. Smernica Európskeho parlamentu a Rady (EÚ) 2023/2864 z 13. decembra 2023, ktorou sa menia určité smernice, pokiaľ ide o zriadenie a fungovanie jednotného európskeho miesta prístupu (Ú. v. EÚ L, 2023/2864, 20. 12. 2023).

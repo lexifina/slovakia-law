@@ -404,6 +404,10 @@
 
 - 58haa) Čl. 50 delegovaného nariadenia (EÚ) 2017/565.
 
+- 58hab) Čl. 2 ods. 2 nariadenia Európskeho parlamentu a Rady (EÚ) 2023/2859 z 13. decembra 2023, ktorým sa zriaďuje jednotné európske miesto prístupu, ktoré poskytuje centralizovaný prístup k verejne dostupným informáciám týkajúcim sa finančných služieb, kapitálových trhov a udržateľnosti (Ú. v. EÚ L, 2023/2859, 20. 12. 2023) v platnom znení.
+
+- 58hac) § 45 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
+
 - 58hb) § 90 zákona č. 594/2003 Z. z. v znení neskorších predpisov.
 
 - 58hc) § 4 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
