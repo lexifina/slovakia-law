@@ -14,6 +14,12 @@
 
 - 3d) § 4 zákona č. 351/2015 Z. z. o cezhraničnej spolupráci pri vysielaní zamestnancov na výkon prác pri poskytovaní služieb a o zmene a doplnení niektorých zákonov.
 
+- 3e) Zákon č. 76/2026 Z. z. o rovnakom odmeňovaní mužov a žien za rovnakú prácu alebo za prácu rovnakej hodnoty a o zmene a doplnení niektorých zákonov.
+
+- 3f) § 16 zákona č. 76/2026 Z. z.
+
+- 3g) § 62 ods. 2 zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení zákona č. 63/2018 Z. z.
+
 - 4) § 2 ods. 2 Obchodného zákonníka.
 
 - 6) § 52, § 223 až 228 Zákonníka práce.
@@ -78,7 +84,7 @@
 
 - 18aa) § 34 ods. 1 písm. f) zákona č. 462/2007 Z. z.
 
-- 18aaa) § 21b ods. 8 druhá veta zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení zákona č. 82/2017 Z. z.
+- 18aaa) § 21b ods. 14 písm. a) až d) zákona č. 5/2004 Z. z. v znení neskorších predpisov.
 
 - 18aab) § 23 ods. 2 písm. b) druhý bod zákona č. 5/2004 Z. z. v znení zákona č. 82/2017 Z. z.
 
@@ -91,6 +97,8 @@
 - § 21 ods. 1 zákona č. 54/2019 Z. z.
 
 - Zákon č. 351/2015 Z. z.
+
+- Zákon č. 76/2026 Z. z.
 
 - 18ae) § 58 ods. 2 písm. a) zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
