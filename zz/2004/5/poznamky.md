@@ -348,6 +348,8 @@
 
 - 62a) § 2 ods. 2 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore.
 
+- 62aa) § 2 ods. 1 písm. a) deviaty bod zákona č. 125/2006 Z. z. v znení zákona č. 76/2026 Z. z.
+
 - 62b) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 63) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.

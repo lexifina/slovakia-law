@@ -12,4 +12,6 @@
 
 (3) Pokutu možno uložiť v lehote jedného roka odo dňa, keď sa ústredie a úrad dozvedeli o porušení týchto povinností, najneskôr však do troch rokov odo dňa, keď došlo k porušeniu.
 
-(4) Pokuta je príjmom štátneho rozpočtu.
+(4) Pokutu podľa odseku 1 písm. a) nemožno uložiť zamestnávateľovi, ktorému bola za to isté porušenie už uložená pokuta iným orgánom oprávneným vykonávať kontrolu.<sup>62aa</sup>)
+
+(5) Pokuta je príjmom štátneho rozpočtu.
