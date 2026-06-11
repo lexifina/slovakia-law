@@ -1,0 +1,5 @@
+Príloha č. 4 k vyhláške č. 503/2022 Z. z.
+
+- ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
+
+  - Smernica Európskeho parlamentu a Rady 2012/27/EÚ z 25. októbra 2012 o energetickej efektívnosti, ktorou sa menia a dopĺňajú smernice 2009/125/ES a 2010/30/EÚ a ktorou sa zrušujú smernice 2004/8/ES a 2006/32/ES (Ú. v. EÚ L 315, 14. 11. 2012) v znení smernice Rady 2013/12/EÚ z 13. mája 2013 (Ú. v. EÚ L 141, 28. 5. 2013), smernice Európskeho parlamentu a Rady (EÚ) 2018/844 (Ú. v. EÚ L 156, 19. 6. 2018), nariadenia Európskeho parlamentu a Rady (EÚ) 2018/1999 (Ú. v. EÚ L 328, 21. 12. 2018), smernice Európskeho parlamentu a Rady (EÚ) 2018/2002 (Ú. v. EÚ L 328, 21. 12. 2018), rozhodnutia Európskeho parlamentu a Rady (EÚ) 2019/504 (Ú. v. EÚ L 85I, 27. 3. 2019), delegovaného nariadenia Komisie (EÚ) 2019/826 (Ú. v. EÚ L 137, 23. 5. 2019), smernice Európskeho parlamentu a Rady (EÚ) 2019/944 (Ú. v. EÚ L 158, 14. 6. 2019) a delegovaného nariadenia Komisie (EÚ) 2023/807 (Ú. v. EÚ L 101, 14. 4. 2023).
