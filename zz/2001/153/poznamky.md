@@ -38,10 +38,6 @@
 
 - 8) § 6 zákona Národnej rady Slovenskej republiky č. 63/1993 Z. z. o štátnych symboloch Slovenskej republiky a ich používaní v znení neskorších predpisov.
 
-- 9) § 93 ods. 2 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení zákona č. 155/1999 Z. z.
-
-- § 6 ods. 2 písm. e), § 14 a § 55 ods. 7 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení zákona č. 241/1998 Z. z.
-
 - 9a) Napríklad § 105 Trestného zákona, § 21 a 29 zákona č. 2/1991 Zb. o kolektívnom vyjednávaní, § 6 zákona Národnej rady Slovenskej republiky č. 221/1994 Z. z. o preukazovaní pôvodu finančných prostriedkov pri privatizácii, zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov, § 12 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu, Civilný sporový poriadok, Civilný mimosporový poriadok.
 
 - 9b) Civilný sporový poriadok.
