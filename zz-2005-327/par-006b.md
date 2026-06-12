@@ -1,0 +1,9 @@
+# § 6b
+
+(1) Ak je to primerané okolnostiam žiadanej právnej pomoci, môže centrum v prípadoch podľa § 6a ods. 1 poskytnúť právnu pomoc aj bez úhrady finančnej účasti.
+
+(2) Ak príjem fyzickej osoby presahuje 2,1-násobok sumy životného minima a súčasne nepresahuje 4,7-násobok sumy životného mimina a fyzická osoba si nemôže využívanie právnych služieb zabezpečiť svojím majetkom, centrum môže poskytnúť právnu pomoc pri splnení podmienky finančnej účasti oprávnenej osoby vo výške 35 % paušálnej odmeny podľa osobitného predpisu;<sup>5a</sup>) splnenie podmienok na poskytnutie právnej pomoci bez finančnej účasti podľa § 6 ods. 1 písm. b) a c) tým nie je dotknuté. Ustanovenia § 6 ods. 2 a § 6a ods. 2 až 4 sa použijú primerane.
+
+(3) Centrum pri rozhodovaní o nároku na poskytnutie právnej pomoci podľa odseku 1 alebo odseku 2 prihliada najmä na skutkový stav veci a okolnosti prípadu, ktorý je predmetom rozhodovania o nároku na poskytovanie právnej pomoci, sociálnu situáciu žiadateľa, jeho zdravotný stav, ohrozenie stratou bývania, možnosť ohrozenia diskrimináciou alebo nerovnakým zaobchádzaním, alebo iné zraniteľné postavenie žiadateľa.
+
+(4) Pri skúmaní primeraných okolností žiadanej právnej pomoci je žiadateľ povinný centru poskytnúť nevyhnutne potrebné doklady o sociálnej situácii a ekonomickej situácii žiadateľa, prípadne poskytnúť ďalšie doklady, ktorými je možné preukázať odôvodnenosť poskytnutia právnej pomoci. Centrum na účely preukázania dôvodnosti poskytnutia právnej pomoci spracúva doklady len v rozsahu a spôsobom, ktorý je nevyhnutný na posúdenie právneho nároku žiadateľa, a to za kalendárny mesiac, v ktorom bola podaná žiadosť o poskytnutie právnej pomoci s prihliadnutím na šesť kalendárnych mesiacov pred jej podaním; to platí aj pri prehodnotení trvania nároku na poskytnutie právnej pomoci.
