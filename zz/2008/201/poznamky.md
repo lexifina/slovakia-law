@@ -20,8 +20,6 @@
 
 - 7aa) § 52 ods. 4 a § 58 ods. 2 zákona č. 321/2025 Z. z. o školskej správe a o zmene a doplnení niektorých zákonov.
 
-- 7ab) § 27a zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 7ac) § 5 zákona č. 627/2005 Z. z. o príspevkoch na podporu náhradnej starostlivosti o dieťa v znení neskorších predpisov.
 
 - 7ad) § 62 zákona č. 36/2005 Z. z.
