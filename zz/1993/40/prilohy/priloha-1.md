@@ -1,1 +1,1 @@
-Príloha č. 1 k zákonu Národnej rady Slovenskej republiky č. 40/1993 Z. z. [Príloha č. 1 k zákonu Národnej rady Slovenskej republiky č. 40/1993 Z. z.](../assets/7d723cfb5447b310e68c7bf7bbaa7fad3b0083a23c411e21613d9e490f3ef84f.pdf)
+Príloha č. 1 k zákonu Národnej rady Slovenskej republiky č. 40/1993 Z. z. [Príloha č. 1 k zákonu Národnej rady Slovenskej republiky č. 40/1993 Z. z.](../assets/c72b0d01ace2405b65e94a6809efe439a6e634c9ce7025e3e9272c1bac07301a.pdf)
