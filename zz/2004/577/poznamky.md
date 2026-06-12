@@ -78,8 +78,6 @@
 
 - 16a) § 3 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
-- 16b) § 9h ods. 4 zákona č. 580/2004 Z. z. v znení zákona č. 393/2020 Z. z.
-
 - 16c) § 2 ods. 3 a § 14 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
 
 - 22) § 11 ods. 2 písm. h) zákona č. 578/2004 Z. z.
