@@ -18,7 +18,7 @@
 
 - 3aa) § 2 ods. 1 zákona č. 663/2007 Z. z. o minimálnej mzde.
 
-- 4) Zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 4) § 2 písm. h) zákona č. 69/2026 Z. z. o medzinárodnej ochrane a o zmene a doplnení niektorých zákonov.
 
 - 4a) Zákon č. 474/2005 Z. z. o Slovákoch žijúcich v zahraničí a o zmene a doplnení niektorých zákonov v znení zákona č. 344/2007 Z. z.
 
@@ -80,6 +80,8 @@
 
 - 13aaa) § 40 Občianskeho zákonníka v znení neskorších predpisov.
 
+- 13aab) § 2 písm. i) zákona č. 69/2026 Z. z.
+
 - 14) § 2 ods. 11 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 
 - 15) § 2 ods. 3 zákona č. 576/2004 Z. z.
@@ -124,21 +126,21 @@
 
 - 16hda) § 58 ods. 1 písm. c), § 58 ods. 3 zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 16hdaa) § 29 a 30 zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+- 16hdaa) § 58 a 59 zákona č. 69/2026 Z. z.
 
-- 16hdaaa) § 2 písm. h) zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+- 16hdaaa) § 2 písm. d) zákona č. 69/2026 Z. z.
 
-- 16hdaab) § 30 ods. 1 a § 31 ods. 3 zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+- 16hdaab) § 77 ods. 1 písm. b) zákona č. 69/2026 Z. z.
 
-- 16hdaac) § 47a zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+- 16hdaac) § 77 ods. 1 písm. a) zákona č. 69/2026 Z. z.
 
-- 16hdab) § 31 ods. 1 a § 54e ods. 1 zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+- 16hdab) § 59 ods. 15 a § 73 ods. 13 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
 
-- 16hdac) § 5 zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+- § 60 ods. 2 a 7 zákona č. 69/2026 Z. z.
 
-- 16hdad) § 31 ods. 5 zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+- 16hdac) § 20 a 21 zákona č. 69/2026 Z. z.
 
-- 16hdb) § 20 ods. 3 zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+- 16hdad) § 60 ods. 5 zákona č. 69/2026 Z. z.
 
 - 16hdc) § 4 zákona č. 395/2019 Z. z. o občianskych preukazoch a o zmene a doplnení niektorých zákonov v znení zákona č. 180/2022 Z. z.
 
@@ -404,7 +406,9 @@
 
 - 75) Čl. 16 ods. 1 nariadenia č. 883/2004 v platnom znení.
 
-- 76) § 29 ods. 2 zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+- 75a) § 3 zákona č. 69/2026 Z. z.
+
+- 76) § 59 ods. 1 zákona č. 69/2026 Z. z.
 
 - 77) § 102at zákona č. 578/2004 Z. z. v znení zákona č. 518/2022 Z. z.
 

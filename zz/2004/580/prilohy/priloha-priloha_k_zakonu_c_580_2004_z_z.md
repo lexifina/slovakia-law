@@ -19,3 +19,5 @@ Príloha k zákonu č. 580/2004 Z. z.
   - 8. Smernica Európskeho parlamentu a Rady 2014/66/EÚ z 15. mája 2014 o podmienkach vstupu a pobytu štátnych príslušníkov tretích krajín v rámci vnútropodnikového presunu (Ú. v. EÚ L 157, 27. 5. 2014).
 
   - 9. Smernica Európskeho parlamentu a Rady (EÚ) 2016/801 z 11. mája 2016 o podmienkach vstupu a pobytu štátnych príslušníkov tretích krajín na účely výskumu, štúdia, odborného vzdelávania, dobrovoľníckej služby, výmenných programov žiakov alebo vzdelávacích projektov a činnosti aupair (prepracované znenie) (Ú. v. EÚ L 132, 21. 5. 2016).
+
+  - 10. Smernica Európskeho parlamentu a Rady (EÚ) 2024/1346 zo 14. mája 2024, ktorou sa stanovujú normy pre príjem žiadateľov o medzinárodnú ochranu (prepracované znenie) (Ú. v. EÚ L, 2024/1346, 22. 5. 2024).

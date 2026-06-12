@@ -34,7 +34,7 @@
 
 - b) podľa § 11 ods. 7 písm. p) v rozsahu rodné číslo, meno a priezvisko, rodné priezvisko, dátum narodenia, pohlavie, štátna príslušnosť, adresa trvalého pobytu, adresa prechodného pobytu, údaje o dátume začiatku a ukončenia zaistenia,
 
-- c) podľa § 11 ods. 7 písm. q) v rozsahu meno a priezvisko, rodné priezvisko, dátum narodenia, pohlavie, štátna príslušnosť, dátum udelenia, zániku a odňatia azylu,
+- c) podľa § 11 ods. 7 písm. q) v rozsahu meno a priezvisko, rodné priezvisko, dátum narodenia, pohlavie, štátna príslušnosť, dátum udelenia azylu alebo udelenia doplnkovej ochrany a zániku azylu alebo zániku doplnkovej ochrany,
 
 - d) podľa § 9 ods. 2 písm. h), ktorá bola zaradená do programu ochrany obetí, v rozsahu rodné číslo, meno a priezvisko, rodné priezvisko, štátna príslušnosť, adresa trvalého pobytu, adresa prechodného pobytu, dátum zaradenia a vyradenia z programu ochrany obetí.
 
