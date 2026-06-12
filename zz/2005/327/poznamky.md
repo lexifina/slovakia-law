@@ -12,17 +12,17 @@
 
 - 1ab) Zákon č. 420/2004 Z. z. o mediácii a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 1b) § 2 písm. h) zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 1b) § 2 písm. d) zákona č. 69/2026 Z. z. o medzinárodnej ochrane a o zmene a doplnení niektorých zákonov.
 
-- 1c) § 2 písm. i) zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+- 1c) § 2 písm. h) zákona č. 69/2026 Z. z.
 
-- 1d) § 13a a 13b zákona č. 480/2002 Z. z. v znení zákona č. 692/2006 Z. z.
+- 1d) § 2 písm. i) zákona č. 69/2026 Z. z.
 
-- 1da) § 46a zákona č. 480/2002 Z. z. v znení zákona č. 495/2013 Z. z.
+- 1da) § 70 ods. 1 zákona č. 69/2026 Z. z.
 
-- 1db) § 29 ods. 1 zákona č. 480/2002 Z. z. v znení zákona č. 55/2022 Z. z.
+- 1db) § 59 ods. 1 zákona č. 69/2026 Z. z.
 
-- 1dc) § 2 písm. j) zákona č. 480/2002 Z. z. v znení zákona č. 692/2006 Z. z.
+- 1dc) § 2 písm. j) zákona č. 69/2026 Z. z.
 
 - 1e) Zákon č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -110,13 +110,13 @@
 
 - 15t) § 63 ods. 3 zákona č. 36/2005 Z. z.
 
-- 15u) § 36a zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+- 15u) § 69 zákona č. 69/2026 Z. z.
 
 - 15v) § 32a ods. 5 zákona č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 199/2022 Z. z.
 
-- 15w) § 28 ods. 2 zákona č. 480/2002 Z. z.
+- 15w) § 57 ods. 1 zákona č. 69/2026 Z. z.
 
-- 15x) § 28 ods. 4 zákona č. 480/2002 Z. z.
+- 15x) § 57 ods. 3 zákona č. 69/2026 Z. z.
 
 - 15y) § 17 zákon č. 417/2013 Z. z.
 
@@ -141,8 +141,6 @@
 - 18a) § 14a až 14f vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 655/2004 Z. z. o odmenách a náhradách advokátov za poskytovanie právnych služieb v znení neskorších predpisov.
 
 - 19) Čl. 59 nariadenia Rady (ES) č. 44/2001 z 22. decembra 2000 o súdnej právomoci, uznávaní a výkone rozsudkov v občianskych a obchodných veciach (Ú. v. ES L 012, 16. 1. 2001).
-
-- 19a) § 19 ods. 1 písm. i) zákona č. 480/2002 Z. z. v znení neskorších predpisov.
 
 - 19aa) § 2 písm. a) bod 3 zákona č. 305/2005 Z. z.
 

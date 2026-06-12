@@ -9,3 +9,5 @@ Príloha k zákonu č. 327/2005 Z. z.
   - 3. Smernica Európskeho parlamentu a Rady 2013/32/EÚ z 26. júna 2013 o spoločných konaniach o poskytovaní a odnímaní medzinárodnej ochrany (prepracované znenie) (Ú. v. EÚ L180, 29. 6. 2013).
 
   - 4. Smernica Európskeho parlamentu a Rady 2013/33/EÚ z 26. júna 2013, ktorou sa stanovujú normy pre prijímanie žiadateľov o medzinárodnú ochranu (prepracované znenie) (Ú. v. EÚ L180, 29. 6. 2013).
+
+  - 5. Smernica Európskeho parlamentu a Rady (EÚ) 2024/1346 zo 14. mája 2024, ktorou sa stanovujú normy pre príjem žiadateľov o medzinárodnú ochranu (prepracované znenie) (Ú. v. EÚ L, 2024/1346, 22. 5. 2024).
