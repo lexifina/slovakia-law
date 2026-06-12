@@ -274,7 +274,7 @@
 
 - § 45 ods. 1 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
 
-- 92ab) § 23 ods. 4 písm. j), § 26 písm. a) a § 27b písm. c) zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 92ab) § 43 ods. 4 písm. i) a § 48 ods. 5 písm. a) zákona č. 69/2026 Z. z. o medzinárodnej ochrane a o zmene a doplnení niektorých zákonov.
 
 - 92aba) § 66b ods. 3 písm. a) a § 66h ods. 2 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
