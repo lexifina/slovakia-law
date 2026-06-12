@@ -180,7 +180,7 @@
 
 - 11) § 9 ods. 2 zákona č. 365/2004 Z. z.
 
-- 12) § 2 písm. c) zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení zákona č. 606/2003 Z. z.
+- 12) § 2 písm. d) zákona č. 69/2026 Z. z. o medzinárodnej ochrane a o zmene a doplnení niektorých zákonov.
 
 - 12a) § 12 ods. 2 písm. i) zákona č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
