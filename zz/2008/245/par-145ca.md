@@ -16,7 +16,7 @@
 
 - d) žiak bol umiestnený vo výchovnom zariadení,
 
-- e) dieťa alebo žiak je žiadateľom o azyl, azylantom alebo cudzincom, ktorému bola poskytnutá doplnková ochrana, alebo
+- e) dieťa alebo žiak je žiadateľom o udelenie medzinárodnej ochrany, azylantom alebo cudzincom s udelenou doplnkovou ochranou, alebo
 
 - f) žiak nezískal predprimárne vzdelanie.
 

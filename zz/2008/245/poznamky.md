@@ -178,9 +178,9 @@
 
 - 80d) Zákon č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 81) Napríklad zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 474/2005 Z. z. o Slovákoch žijúcich v zahraničí a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 81) Napríklad zákon č. 474/2005 Z. z. o Slovákoch žijúcich v zahraničí a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 69/2026 Z. z. o medzinárodnej ochrane a o zmene a doplnení niektorých zákonov.
 
-- 82) Zákon č. 480/2002 Z. z. v znení neskorších predpisov.
+- 82) Zákon č. 69/2026 Z. z.
 
 - 83) § 2 písm. a) bod 3 zákona č. 305/2005 Z. z. v znení neskorších predpisov.
 
