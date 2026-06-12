@@ -18,9 +18,11 @@
 
 - 9) § 77 až 87 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
 
-- 10) § 15 zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 10) § 36 zákona č. 69/2026 Z. z. o medzinárodnej ochrane a o zmene a doplnení niektorých zákonov.
 
-- 11) § 2 písm. i) zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+- 10a) § 38 zákona č. 69/2026 Z. z.
+
+- 11) § 2 písm. h) zákona č. 69/2026 Z. z.
 
 - 12) § 7 ods. 1, § 8 a § 12 ods. 1 zákona č. 474/2005 Z. z. o Slovákoch žijúcich v zahraničí a o zmene a doplnení niektorých zákonov.
 
