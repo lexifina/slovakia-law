@@ -1,0 +1,3 @@
+# Čl. VIII Účinnosť
+
+Tento zákon nadobúda účinnosť dňom vyhlásenia, okrem čl. I § 1 až 10, § 11 ods. 1 písm. a) a e) a ods. 2, § 12 ods. 1 až 4, ods. 5 písm. a) až c) a ods. 6 až 16, § 13, § 14, § 17, § 18, § 20 ods. 2 až 9, § 21 ods. 1 a 2, § 22, § 24, § 25, § 26 ods. 1 písm. d) až f) a ods. 2 až 5, § 27 až 32, čl. II bodov 2 a 3, čl. III až VI, čl. VII bodov 1 až 12, ktoré nadobúdajú účinnosť 1. októbra 2023, čl. I § 11 ods. 1 písm. b) až d), § 12 ods. 5 písm. d), § 15, § 16, § 19, § 20 ods. 1, § 21 ods. 3 až 6, § 23, § 26 ods. 1 písm. a) až c) a čl. VII bodu 13, ktoré nadobúdajú účinnosť 12. júna 2026. Ustanovenia uvedené v čl. I § 26 ods. 1 písm. d) až f) strácajú účinnosť 31. decembra 2025.
