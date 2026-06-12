@@ -1,0 +1,1 @@
+- OBSAH ZÁKONA [príloha](../assets/0fbc6bf07f7775becb5bbb15ae02e36fede28d754df9cf884a8339298f1ead84.pdf)
