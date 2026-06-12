@@ -1,4 +1,4 @@
-Príloha k zákonu č. 564/2001 Z. z.
+Príloha č. 1 k zákonu č. 564/2001 Z. z.
 
 - PLATOVÝ PORIADOK KANCELÁRIE VEREJNÉHO OCHRANCU PRÁV
 
@@ -666,4 +666,4 @@ Príloha k zákonu č. 564/2001 Z. z.
 
     - 9. | 1 145,50
 
-    - [Stupnica platových taríf](../assets/490ffbcbf632e849d31e3412bacb442d1d2311ba9e82255e2fab32d88849479a.pdf)
+    - [Stupnica platových taríf](../assets/ed819c4565b1f0a6e377cd7b9f42daf53e0d864b7e80335a113b32833de98262.pdf)

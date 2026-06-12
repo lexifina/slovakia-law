@@ -4,6 +4,12 @@
 
 - 2a) Dohovor proti mučeniu a inému krutému, neľudskému alebo ponižujúcemu zaobchádzaniu alebo trestaniu (vyhláška ministra zahraničných vecí č. 143/1988 Zb.) v znení Opčného protokolu k Dohovoru proti mučeniu a inému krutému, neľudskému alebo ponižujúcemu zaobchádzaniu alebo trestaniu.
 
+- 2b) Čl. 10 nariadenia Európskeho parlamentu a Rady (EÚ) 2024/1356 zo 14. mája 2024, ktorým sa zavádza preverovanie štátnych príslušníkov tretích krajín na vonkajších hraniciach a ktorým sa menia nariadenia (ES) č. 767/2008, (EÚ) 2017/2226, (EÚ) 2018/1240 a (EÚ) 2019/817 (Ú. v. EÚ L, 2024/1356, 22. 5. 2024).
+
+- Nariadenie Európskeho parlamentu a Rady (EÚ) 2024/1348 zo 14. mája 2024, ktorým sa stanovuje spoločné konanie o medzinárodnej ochrane v Únii a zrušuje smernica 2013/32/EÚ (Ú. v. EÚ L, 2024/1348, 22. 5. 2024).
+
+- 2c) Nariadenie (EÚ) 2024/1356.
+
 - 3) § 116 zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - § 197 ods. 1 zákona č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení zákona č. 220/2011 Z. z.
@@ -12,7 +18,9 @@
 
 - 6) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
 
-- 7) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
+- 7) Nariadenie Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) (Ú. v. EÚ L 119, 4. 5. 2016) v platnom znení.
+
+- Zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 8) § 3 písm. a) zákona č. 52/1998 Z. z.
 
