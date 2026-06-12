@@ -2,7 +2,7 @@
 
 (1) Akreditovaná osoba, ktorej bola udelená akreditácia pred 1. februárom 2013, môže zabezpečovať odbornú prípravu zameranú na získanie preukazu typu CIT, ak ministerstvo potvrdí zmeny učebného plánu a koncepcie odbornej prípravy rozšírené o rozsah a obsah pre daný typ odbornej prípravy, ktoré akreditovaná osoba doručí ministerstvu. Rozsah a obsah odbornej prípravy na skúšku typu CIT ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.
 
-(2) Prevádzkovateľ technickej služby, ktorý má k 31. januáru 2013 ustanoveného zodpovedného vedúceho, je povinný do 31. mája 2013 predložiť krajskému riaditeľstvu doklady a čestné vyhlásenia preukazujúce jeho bezúhonnosť a spoľahlivosť okrem odpisu registra trestov.
+(2) Prevádzkovateľ technickej služby, ktorý má k 31. januáru 2013 ustanoveného zodpovedného vedúceho, je povinný do 31. mája 2013 predložiť krajskému riaditeľstvu doklady a čestné vyhlásenia preukazujúce jeho bezúhonnosť a spoľahlivosť okrem špecializovaného výpisu z registra trestov.
 
 (3) Licencie vydané pred 1. februárom 2013 ostávajú v platnosti na dobu, na ktorú boli vydané.
 
