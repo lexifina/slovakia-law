@@ -1,6 +1,6 @@
 # § 72az Prechodné ustanovenia k úpravám účinným od 1. septembra 2025
 
-(1) Do 30. júna 2026 začiatok a skončenie dočasnej pracovnej neschopnosti preukazuje úradu fyzická osoba do troch pracovných dní odo dňa začatia alebo skončenia dočasnej pracovnej neschopnosti odpisom potvrdenia o dočasnej pracovnej neschopnosti vystaveným ošetrujúcim lekárom.
+(1) Do 31. júla 2026 začiatok a skončenie dočasnej pracovnej neschopnosti preukazuje úradu fyzická osoba do troch pracovných dní odo dňa začatia alebo skončenia dočasnej pracovnej neschopnosti odpisom potvrdenia o dočasnej pracovnej neschopnosti vystaveným ošetrujúcim lekárom.
 
 (2) Za zrušenie agentúry dočasného zamestnávania na účely § 29 ods. 6 písm. b) a § 31 ods. 1 písm. i) sa považuje zrušenie agentúry dočasného zamestnávania, ku ktorému došlo po 31. auguste 2025.
 
