@@ -20,6 +20,8 @@
 
 - 2aa) § 4 zákona Národnej rady Slovenskej republiky č. 253/1994 Z. z. o právnom postavení a platových pomeroch starostov obcí a primátorov miest v znení neskorších predpisov.
 
+- 2aaa) § 166 ods. 1 zákona č. 180/2014 Z. z. o podmienkach výkonu volebného práva a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 2ab) § 18 a 18c zákona Slovenskej národnej rady č. 369/1990 Zb.
 
 - 2ac) § 22 ods. 1 zákona č. 200/2022 Z. z. o územnom plánovaní.

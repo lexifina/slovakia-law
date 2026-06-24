@@ -1,6 +1,6 @@
 # § 27f Prechodné ustanovenia k úpravám účinným odo dňa konania volieb do orgánov samosprávy obcí nasledujúcich po voľbách do orgánov samosprávy obcí konaných v roku 2026
 
-(1) Ustanovenia § 10 ods. 2 štvrtej vety a § 14 ods. 1 tretej vety sa použijú najskôr pri určovaní volebných obvodov vo voľbách do orgánov samosprávy obcí nasledujúcich po voľbách do orgánov samosprávy obcí konaných v roku 2026 (ďalej len „nasledujúce voľby po roku 2026“); na tento účel sa miestnou časťou rozumie miestna časť podľa tohto zákona účinného od konania nasledujúcich volieb po roku 2026.
+(1) Ustanovenia § 10 ods. 2 tretej vety a § 14 ods. 1 tretej vety sa použijú najskôr pri určovaní volebných obvodov vo voľbách do orgánov samosprávy obcí nasledujúcich po voľbách do orgánov samosprávy obcí konaných v roku 2026 (ďalej len „nasledujúce voľby po roku 2026“); na tento účel sa miestnou časťou rozumie miestna časť podľa tohto zákona účinného od konania nasledujúcich volieb po roku 2026.
 
 (2) Odo dňa konania nasledujúcich volieb po roku 2026 sa Mestská časť Košice - Staré Mesto označuje ako Mestská časť Košice 1, Mestská časť Košice - Západ sa označuje ako Mestská časť Košice 2, Mestská časť Košice - Dargovských hrdinov sa označuje ako Mestská časť Košice 3 a Mestská časť Košice - Juh sa označuje ako Mestská časť Košice 4. Nové označenie mestských častí sa primerane použije aj pri príprave a konaní nasledujúcich volieb po roku 2026.
 
