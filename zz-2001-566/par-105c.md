@@ -1,0 +1,5 @@
+# § 105c Prepojenie centrálnych depozitárov
+
+(1) Účet majiteľa, klientský účet alebo držiteľský účet, ktorý podľa § 105, 105a a 106 zriadil centrálny depozitár pre iného centrálneho depozitára alebo zahraničného centrálneho depozitára, alebo účet zriadený a vedený pre centrálneho depozitára zahraničným centrálnym depozitárom, sa považuje za štandardné prepojenie<sup>90ab</sup>) medzi centrálnymi depozitármi. Ak je pre centrálny depozitár zriadený držiteľský účet, údaje o majiteľovi cenného papiera sú vedené v jeho evidencii vedenej podľa § 105, 105a, 105b a 106.
+
+(2) Právne vzťahy týkajúce sa účtu, ktorý je pre centrálneho depozitára zriadený a vedený v inom členskom štáte zahraničným centrálnym depozitárom, zahraničnou bankou alebo zahraničným obchodníkom s cennými papiermi so sídlom v členskom štáte, sa spravujú právnym poriadkom toho členského štátu, na ktorého území je tento účet zriadený a vedený. Evidencie vedené centrálnym depozitárom o takýchto účtoch, o cenných papieroch na takýchto účtoch alebo o majiteľoch alebo držiteľoch cenných papierov na takýchto účtoch sa spravujú právnym poriadkom Slovenskej republiky.

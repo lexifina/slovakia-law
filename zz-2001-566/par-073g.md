@@ -1,0 +1,7 @@
+# § 73g
+
+(1) Pri poskytovaní iných investičných služieb, ako sú uvedené v § 73f, je obchodník s cennými papiermi povinný požiadať klienta alebo potenciálneho klienta o poskytnutie informácie týkajúcej sa jeho znalostí a skúseností v oblasti investovania týkajúce sa konkrétneho ponúkaného alebo požadovaného druhu finančného nástroja, investičnej služby alebo vedľajšej služby tak, aby obchodník s cennými papiermi mohol určiť, či sú dostatočné na to, aby si klient uvedomoval riziká spojené s príslušným druhom ponúkaného alebo požadovaného finančného nástroja alebo investičnej služby alebo vedľajšej služby, a či sú pre klienta primerané. Ak obchodník s cennými papiermi poskytuje balík služieb alebo produktov podľa § 73b ods. 22, celkový balík musí byť primeraný pre klienta.
+
+(2) Ak obchodník s cennými papiermi usúdi na základe takto získaných informácií, že finančný nástroj alebo investičná služba alebo vedľajšia služba nie sú pre klienta alebo potenciálneho klienta primerané, obchodník s cennými papiermi ich na to upozorní. Toto upozornenie sa môže poskytnúť v štandardizovanej forme.
+
+(3) Ak sa klient alebo potenciálny klient rozhodne neposkytnúť informácie podľa odseku 1 alebo neposkytne dostatočné informácie týkajúce sa jeho znalostí a skúseností, obchodník s cennými papiermi je povinný upozorniť klienta alebo potenciálneho klienta, že takéto rozhodnutie mu neumožní určiť, či príslušná investičná služba alebo vedľajšia služba alebo finančný nástroj sú pre neho primerané. Toto upozornenie sa môže poskytnúť v štandardizovanej forme.

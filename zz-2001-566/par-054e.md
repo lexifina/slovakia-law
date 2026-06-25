@@ -1,0 +1,3 @@
+# § 54e
+
+Povolenie na poskytovanie investičných služieb udelené obchodníkovi s cennými papiermi podľa § 55, ktorý spĺňa podmienky podľa osobitného predpisu<sup>50ct</sup>) a bolo mu udelené bankové povolenie podľa osobitného predpisu,<sup>50cu</sup>) nezaniká, pričom sa jeho platnosť pozastavuje na obdobie trvania bankového povolenia udeleného podľa osobitného predpisu.<sup>50cu</sup>) Po zániku bankového povolenia, ak už nie sú splnené podmienky podľa osobitného predpisu,<sup>50ct</sup>) sa obchodníkovi s cennými papiermi obnoví platnosť povolenia na poskytovanie investičných služieb, ak sú splnené podmienky na udelenie povolenia na poskytovanie investičných služieb podľa § 55.

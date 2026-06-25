@@ -1,0 +1,7 @@
+# § 146a
+
+(1) Národná banka Slovenska je povinná zachovať anonymitu zamestnanca, vedúceho zamestnanca, člena štatutárneho orgánu, člena dozornej rady alebo člena iného obdobného orgánu dohliadanej osoby podľa § 135, ktorý poskytol Národnej banke Slovenska akúkoľvek informáciu o nedostatkoch<sup>20</sup>) v činnosti dohliadanej osoby podľa § 135. Poskytnutie informácii podľa prvej vety sa nepovažuje za porušenie povinnosti mlčanlivosti ani ochrany údajov podľa tohto zákona alebo osobitného predpisu<sup>41</sup>) a nie je možné uplatniť žiadnu zodpovednosť voči osobe podľa prvej vety za takéto poskytnutie informácií.
+
+(2) Obchodník s cennými papiermi, burza cenných papierov, mnohostranný obchodný systém alebo organizovaný obchodný systém, schválený mechanizmus zverejňovania (APA) a schválený mechanizmus podávania výkazov (ARM), ktorým v súlade s osobitným predpisom<sup>60u</sup>) udelila povolenie Národná banka Slovenska a banka pri poskytovaní investičnej služby, vedľajšej služby alebo pri vykonávaní investičnej činnosti sú povinní upraviť vo vnútorných aktoch riadenia postupy pre svojich zamestnancov na interné nahlasovanie potenciálnych alebo skutočných porušení a určené spôsoby tohto nahlasovania prostredníctvom nezávislých, osobitných a samostatných prostriedkov.
+
+(3) Ustanovenia odsekov 1 a 2 sa vzťahujú aj na pobočky zahraničných obchodníkov s cennými papiermi a pobočky finančných inštitúcií z nečlenského štátu.

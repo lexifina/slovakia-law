@@ -1,0 +1,3 @@
+# § 54c
+
+Na obchodníka s cennými papiermi s osobitnými prudenciálnymi požiadavkami podľa osobitného predpisu<sup>50cd</sup>) sa vzťahujú ustanovenia osobitného predpisu o spolupráci v oblasti dohľadu,<sup>50ce</sup>) významných pobočkách,<sup>50cf</sup>) vnútornom kapitáli,<sup>50cg</sup>) organizácii a riadení,<sup>50ch</sup>) zásadách odmeňovania,<sup>50ci</sup>) riadení rizík,<sup>50cj</sup>) prístupe k interným ratingom,<sup>50ck</sup>) rizikách,<sup>50cl</sup>) podávaní a zverejňovaní správ,<sup>50cm</sup>) postupoch výkonu dohľadu,<sup>50cn</sup>) výkone dohľadu na konsolidovanom základe<sup>50co</sup>) a tlmiacich rezervách.<sup>50cp</sup>)

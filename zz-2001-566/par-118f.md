@@ -1,0 +1,7 @@
+# § 118f Spolupráca v rámci Európskej únie a Európskeho hospodárskeho priestoru
+
+(1) Návrh ponuky na prevzatie schválený podľa tohto zákona platí v každom členskom štáte, v ktorom sú akcie cieľovej spoločnosti prijaté na obchodovanie na regulovanom trhu. Ďalšie schválenie orgánom dohľadu tohto členského štátu sa nevyžaduje.
+
+(2) Navrhovateľ je povinný návrh ponuky na prevzatie preložiť do jazyka požadovaného právnymi predpismi príslušného členského štátu podľa odseku 1 a doplniť návrh ponuky na prevzatie podľa požiadaviek orgánu dohľadu príslušného členského štátu podľa odseku 1.
+
+(3) Ak návrh ponuky na prevzatie vo vzťahu k cieľovej spoločnosti alebo spoločnosti, ktorej akcie sú prijaté na obchodovanie na regulovanom trhu v Slovenskej republike, schválil orgán dohľadu iného členského štátu, ak sa takéto schválenie podľa právneho poriadku tohto štátu vyžaduje, návrh ponuky na prevzatie platí aj v Slovenskej republike. Ďalšie schválenie návrhu ponuky na prevzatie Národnou bankou Slovenska sa nevyžaduje. Listiny a podklady súvisiace s ponukou na prevzatie musia byť preložené do štátneho jazyka a spolu s prekladom doručené Národnej banke Slovenska. Národná banka Slovenska môže požadovať doplnenie návrhu ponuky na prevzatie, iba ak sa požadovaný údaj týka formálnych náležitostí, ktoré sa musia splniť v súvislosti s prijatím ponuky na prevzatie, poskytnutím protiplnenia pri prijatí ponuky na prevzatie v rámci lehoty jej platnosti a daňového režimu, ktorému podlieha protiplnenie ponúknuté akcionárom.

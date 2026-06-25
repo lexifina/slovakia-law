@@ -1,0 +1,9 @@
+# § 78a
+
+(1) Správca aktív je povinný poskytnúť raz ročne inštitucionálnemu investorovi, s ktorým uzavrel zmluvu podľa osobitného zákona,<sup>60ab</sup>) informácie o tom, ako je jeho investičná stratégia a jej vykonávanie v súlade s týmito zmluvami a ako prispieva k strednodobej až dlhodobej výkonnosti aktív spravovaných inštitucionálnym investorom alebo fondu kolektívneho investovania. Súčasťou informácií podľa prvej vety je podávanie správ o hlavných závažných strednodobých až dlhodobých rizikách spojených s investíciami, o zložení portfólia, o obrate a nákladoch na obrat portfólia, využívaní zastupujúcich poradcov na účely zapájania a ich politike požičiavania cenných papierov a o tom, či a ako sa využíva na účely zapájania, najmä v čase konania valného zhromaždenia akciových spoločností, do ktorých sa investuje. Súčasťou informácií podľa prvej vety sú aj informácie o tom, či a ako sú prijímané investičné rozhodnutia na základe hodnotenia strednodobej až dlhodobej výkonnosti vrátane nefinančnej výkonnosti akciovej spoločnosti, do ktorej sa investuje, a o tom, či a aké konflikty záujmov sa vyskytli v súvislosti so zapájaním správcov aktív a ako ich správcovia aktív riešili.
+
+(2) Ak sú informácie podľa odseku 1 verejne dostupné, správca aktív nie je povinný poskytnúť informácie priamo inštitucionálnemu investorovi.
+
+(3) Inštitucionálnym investorom sa na účely odsekov 1 a 2 rozumie poisťovňa vykonávajúca činnosť v odvetviach životného poistenia, zaisťovňa vykonávajúca činnosť vo vzťahu k záväzkom zo životného poistenia a doplnková dôchodková spoločnosť.
+
+(4) Ustanovenia tohto paragrafu a § 78 sa nepoužijú, ak sa uplatnia nástroje riešenia krízových situácií, právomoci riešiť krízové situácie a mechanizmy riešenia krízových situácií podľa osobitných predpisov.<sup>42a</sup>)
