@@ -35,3 +35,5 @@ Príloha k zákonu č. 483/2001 Z. z. v znení neskorších predpisov
   - 16. Smernica Európskeho parlamentu a Rady (EÚ) 2023/2864 z 13. decembra 2023, ktorou sa menia určité smernice, pokiaľ ide o zriadenie a fungovanie jednotného európskeho miesta prístupu (Ú. v. EÚ L, 2023/2864, 20. 12. 2023).
 
   - 17. Smernica Európskeho parlamentu a Rady (EÚ) 2024/1619 z 31. mája 2024, ktorou sa mení smernica 2013/36/EÚ, pokiaľ ide o právomoci v oblasti dohľadu, sankcie, pobočky z tretích krajín a environmentálne a sociálne riziká a riziká v oblasti správy a riadenia (Ú. v. EÚ L, 2024/1619, 19. 6. 2024).
+
+  - 18. Smernica Európskeho parlamentu a Rady (EÚ) 2024/2994 z 27. novembra 2024, ktorou sa menia smernice 2009/65/ES, 2013/36/EÚ a (EÚ) 2019/2034, pokiaľ ide o zaobchádzanie s rizikom koncentrácie vyplývajúcim z expozícií voči centrálnym protistranám a s rizikom protistrany pri centrálne zúčtovávaných transakciách s derivátmi (Ú. v. EÚ L, 2024/2994, 4. 12. 2024).
