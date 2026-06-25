@@ -196,6 +196,10 @@ Zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov 
 
 - Národná banka Slovenska posudzuje a sleduje vývoj postupov bánk týkajúcich sa ich stratégií v oblasti environmentálnych rizík, sociálnych rizík a rizík v oblasti správy a riadenia vrátane plánov podľa § 27 ods. 17. Národná banka Slovenska pri posudzovaní týchto postupov zohľadní ukazovatele podľa odseku 41 písm. b) až e).
 
+- (43)
+
+- Národná banka Slovenska posudzuje a sleduje vývoj postupov banky, ktoré sa týkajú riadenia ich rizika koncentrácie vyplývajúceho z expozícií voči centrálnym protistranám vrátane plánu vypracovaného podľa § 27 ods. 20, a pokrok dosiahnutý pri prispôsobovaní ich obchodného modelu požiadavkám podľa osobitného predpisu.<sup>21ac</sup>)
+
 - (44)
 
 - Banka a tretia osoba, ktorá koná vo vzťahu k banke v súvislosti so stresovým testovaním ako poradca, nesmie vykonávať činnosti, ktoré môžu narušiť stresový test, ako sú referenčné porovnávanie, vzájomná výmena informácií, dohoda o spoločnom postupe alebo optimalizácia nimi podávaných informácií pre stresové testy.
@@ -1082,7 +1086,11 @@ Zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov 
 
 - (19)
 
-- Ak banka postupuje podľa osobitného predpisu,<sup>27ab</sup>) plány podľa odseku 17 musia byť v súlade s plánmi podľa osobitného predpisu<sup>27ac</sup>) a musia obsahovať aj opatrenia týkajúce sa obchodného modelu a stratégie podnikania banky; tieto opatrenia v plánoch podľa odseku 17 a plánoch podľa osobitného predpisu<sup>27ac</sup>) musia byť konzistentné.“.
+- Ak banka postupuje podľa osobitného predpisu,<sup>27ab</sup>) plány podľa odseku 17 musia byť v súlade s plánmi podľa osobitného predpisu<sup>27ac</sup>) a musia obsahovať aj opatrenia týkajúce sa obchodného modelu a stratégie podnikania banky; tieto opatrenia v plánoch podľa odseku 17 a plánoch podľa osobitného predpisu<sup>27ac</sup>) musia byť konzistentné.
+
+- (20)
+
+- Na účely sledovania a riešenia rizika koncentrácie vyplývajúceho z expozícií voči centrálnym protistranám ponúkajúcim služby podstatného systémového významu pre Európsku úniu, jeden členský štát alebo viaceré členské štáty štatutárny orgán vypracúva plán, ktorý obsahuje kvantifikovateľné ciele v súlade s požiadavkami podľa osobitného predpisu.<sup>21ac</sup>)“.
 
   - Poznámky pod čiarou k odkazom 27aa až 27ac znejú:
 
@@ -1812,7 +1820,11 @@ Zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov 
 
 - aa)
 
-- uložiť banke, aby obmedzila rozdelenie zisku, rozdelenie kapitálu alebo vyplatenie úrokových platieb, nerozdelila zisk alebo zakázať banke rozdeliť kapitál alebo vyplatiť úrokové platby akcionárom alebo držiteľom nástrojov dodatočného kapitálu Tier 1, ak tento zákaz nepredstavuje zlyhanie banky,“.
+- uložiť banke, aby obmedzila rozdelenie zisku, rozdelenie kapitálu alebo vyplatenie úrokových platieb, nerozdelila zisk alebo zakázať banke rozdeliť kapitál alebo vyplatiť úrokové platby akcionárom alebo držiteľom nástrojov dodatočného kapitálu Tier 1, ak tento zákaz nepredstavuje zlyhanie banky,
+
+- ab)
+
+- uložiť banke alebo pobočke zahraničnej banky, aby znížila expozície voči centrálnej protistrane alebo opätovne preskupila expozície na všetkých svojich zúčtovacích účtoch v súlade s osobitným predpisom,<sup>21ac</sup>) ak sa Národná banka Slovenska domnieva, že existuje riziko nadmernej koncentrácie vyplývajúce z expozícií voči tejto centrálnej protistrane.“.
 
 - 148. V § 50 odsek 2 znie:
 
@@ -2126,4 +2138,8 @@ Zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov 
 
 - „17.
 
-- Smernica Európskeho parlamentu a Rady (EÚ) 2024/1619 z 31. mája 2024, ktorou sa mení smernica 2013/36/EÚ, pokiaľ ide o právomoci v oblasti dohľadu, sankcie, pobočky z tretích krajín a environmentálne a sociálne riziká a riziká v oblasti správy a riadenia (Ú. v. EÚ L, 2024/1619, 19. 6. 2024).“.
+- Smernica Európskeho parlamentu a Rady (EÚ) 2024/1619 z 31. mája 2024, ktorou sa mení smernica 2013/36/EÚ, pokiaľ ide o právomoci v oblasti dohľadu, sankcie, pobočky z tretích krajín a environmentálne a sociálne riziká a riziká v oblasti správy a riadenia (Ú. v. EÚ L, 2024/1619, 19. 6. 2024).
+
+- 18.
+
+- Smernica Európskeho parlamentu a Rady (EÚ) 2024/2994 z 27. novembra 2024, ktorou sa menia smernice 2009/65/ES, 2013/36/EÚ a (EÚ) 2019/2034, pokiaľ ide o zaobchádzanie s rizikom koncentrácie vyplývajúcim z expozícií voči centrálnym protistranám a s rizikom protistrany pri centrálne zúčtovávaných transakciách s derivátmi (Ú. v. EÚ L, 2024/2994, 4. 12. 2024).“.
