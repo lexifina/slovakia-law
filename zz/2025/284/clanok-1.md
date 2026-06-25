@@ -8,6 +8,22 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 
 - Systematickým internalizátorom je obchodník s cennými papiermi, ktorý organizovane, často a systematicky obchoduje na vlastný účet s kapitálovými finančnými nástrojmi vykonávaním pokynov klientov mimo regulovaného trhu, mimo mnohostranného obchodného systému alebo mimo organizovaného obchodného systému bez toho, aby organizoval mnohostranný systém, alebo obchodník s cennými papiermi, ktorý sa dobrovoľne rozhodne využívať režim systematického internalizátora.“.
 
+- 2. § 7 sa dopĺňa odsekmi 32 a 33, ktoré znejú:
+
+- „(32)
+
+- Centrálnou protistranou je centrálna protistrana podľa osobitného predpisu.<sup>18k</sup>)
+
+- (33)
+
+- Kvalifikovanou centrálnou protistranou je kvalifikovaná centrálna protistrana podľa osobitného predpisu.<sup>18l</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 18k a 18l znejú:
+
+  - „<sup>18k</sup>) Čl. 2 bod 1 nariadenia Európskeho parlamentu a Rady (EÚ) č. 648/2012 zo 4. júla 2012 o mimoburzových derivátoch, centrálnych protistranách a archívoch obchodných údajov (Ú. v. EÚ L 201, 27. 7. 2012) v platnom znení.
+
+  - <sup>18l</sup>) Čl. 4 ods. 1 bod 88 nariadenia (EÚ) č. 575/2013 v platnom znení.“.
+
 - 3. § 8 sa dopĺňa písmenom aa), ktoré znie:
 
 - „aa)
@@ -65,6 +81,28 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 - Národná banka Slovenska žiadosť o udelenie predchádzajúceho súhlasu podľa odseku 1 zamietne, ak žiadateľ nesplní alebo nepreukáže splnenie niektorej z podmienok podľa odseku 2 alebo ak údaje a predložené doklady nie sú úplné, správne, pravdivé, pravé a aktuálne.“.
 
 - 8. V § 71 ods. 3 prvej vete sa na konci bodka nahrádza bodkočiarkou a pripájajú sa tieto slová: „obchodník s cennými papiermi je povinný mať na tento účel zavedené pravidlá oznamovania všetkých závažných rizík, všetkých politík riadenia rizík a všetkých ich zmien.“.
+
+- 9. V § 71c sa odsek 2 dopĺňa písmenom e), ktoré znie:
+
+- „e)
+
+- významných zdrojov a účinkov rizika koncentrácie vyplývajúceho z expozícií voči centrálnym protistranám a akéhokoľvek významného vplyvu na vlastné zdroje.“.
+
+- 10. § 71c sa dopĺňa odsekom 7, ktorý znie:
+
+- „(7)
+
+- Riadiaci orgán obchodníka s cennými papiermi je povinný na účel odseku 2 písm. e) vypracovať osobitné plány a kvantifikovateľné ciele v súlade s požiadavkami ustanovenými osobitným predpisom<sup>56acaba</sup>) na monitorovanie a riadenie rizika koncentrácie vyplývajúceho z expozícií voči centrálnym protistranám ponúkajúcim služby podstatného systémového významu pre Európsku úniu, jeden členský štát alebo viaceré členské štáty.“.
+
+  - Poznámka pod čiarou k odkazu 56acaba znie:
+
+  - „<sup>56acaba</sup>) Čl. 7a nariadenia (EÚ) č. 648/2012 v platnom znení.“.
+
+- 11. V § 71d odsek 2 znie:
+
+- „(2)
+
+- Vrcholový manažment, a ak to určia stanovy, aj dozorná rada, sú povinní posudzovať, pravidelne skúmať a schvaľovať stratégie a politiky týkajúce sa ochoty obchodníka s cennými papiermi podstupovať riziká, opatrenia a postupy zavedené s cieľom identifikovať, riadiť, monitorovať, vykazovať a zmierňovať riziká, ktorým obchodník s cennými papiermi je alebo môže byť vystavený, alebo riziká, ktoré predstavuje alebo by mohol predstavovať pre iných, vrátane rizika koncentrácie vyplývajúceho z expozícií voči centrálnym protistranám, pričom sa zohľadňujú podmienky ustanovené osobitným predpisom,<sup>56acaba</sup>) vrátane rizík, ktoré vyplývajú z makroekonomického prostredia, v ktorom obchodník s cennými papiermi pôsobí vo vzťahu k hospodárskemu cyklu. Vrcholový manažment, a ak to určia stanovy, aj dozorná rada, sú povinní prijímať a pravidelne skúmať zásady odmeňovania. Správu o kontrole dodržiavania zásad odmeňovania je obchodník s cennými papiermi povinný predložiť Národnej banke Slovenska do 30. júna kalendárneho roka nasledujúceho po kalendárnom roku, za ktorý sa správa vyhotovuje.“.
 
 - 12. V § 71da ods. 1 písm. j) prvom bode sa za slovo „odmeny“ vkladá čiarka a slová „ktorá zohľadňuje odbornú spôsobilosť a zodpovednosť podľa pracovnej náplne v rámci organizácie a riadenia obchodníka s cennými papiermi,“.
 
@@ -173,6 +211,10 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 - „(10)
 
 - Osoba ovládajúca skupinu s úzkymi väzbami, do ktorej patrí obchodník s cennými papiermi, je povinná zostaviť a predložiť Národnej banke Slovenska na jej žiadosť v určenej lehote konsolidovanú účtovnú závierku overenú audítorom.“.
+
+- 22. V § 99 ods. 19 písm. c) sa nad slovom „protistrana“ vypúšťa odkaz 89r.
+
+  - Poznámka pod čiarou k odkazu 89r sa vypúšťa.
 
 - 23. V § 104 ods. 4 prvej vete sa na konci pripájajú slová „a na účel poskytovania služieb podľa povolenia na činnosť vrátane spracovania korporátnych udalostí, pričom korporátnou udalosťou sa rozumie akákoľvek udalosť, ktorá má vplyv na majiteľov a držiteľov cenných papierov alebo iné oprávnené osoby, a to najmä výplata dividend, splácanie menovitej hodnoty dlhopisov a vyplácanie výnosov dlhopisov, rozdelenie akcií, fúzie a akvizície“ a za prvú vetu sa vkladá nová druhá veta, ktorá znie: „Rozsah poskytovaných údajov zahŕňa údaje vedené v evidencii zaknihovaných cenných papierov podľa tohto zákona a ďalšie nevyhnutné údaje na účely podľa prvej vety.“.
 
@@ -283,3 +325,9 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 - „32.
 
 - Smernica Európskeho parlamentu a Rady (EÚ) 2024/2811 z 23. októbra 2024, ktorou sa mení smernica 2014/65/EÚ s cieľom zatraktívniť verejné kapitálové trhy v Únii pre spoločnosti a uľahčiť malým a stredným podnikom prístup ku kapitálu a ktorou sa zrušuje smernica 2001/34/ES (Ú. v. EÚ L, 2024/2811, 14. 11. 2024).“.
+
+- 49. Príloha sa dopĺňa tridsiatym tretím bodom, ktorý znie:
+
+- „33.
+
+- Smernica Európskeho parlamentu a Rady (EÚ) 2024/2994 z 27. novembra 2024, ktorou sa menia smernice 2009/65/ES, 2013/36/EÚ a (EÚ) 2019/2034, pokiaľ ide o zaobchádzanie s rizikom koncentrácie vyplývajúcim z expozícií voči centrálnym protistranám a s rizikom protistrany pri centrálne zúčtovávaných transakciách s derivátmi (Ú. v. EÚ L, 2024/2994, 4. 12. 2024).“.
