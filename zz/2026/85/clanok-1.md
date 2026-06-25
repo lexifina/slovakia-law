@@ -954,6 +954,20 @@ Zákon č. 203/2011 Z. z. o kolektívnom investovaní v znení zákona č. 547/2
 
 - 63. V § 81 ods. 4 sa na konci pripája táto veta: „Depozitár na požiadanie sprístupní Národnej banke Slovenska všetky informácie, ktoré získal pri výkone svojich povinností.“.
 
+- 64. V § 89 ods. 3 úvodná veta znie: „Riziková expozícia štandardného fondu voči protistrane pri transakcii s derivátmi, ktorú centrálne nezúčtováva centrálna protistrana,<sup>51aa</sup>) ktorej bolo udelené povolenie podľa osobitného predpisu<sup>51ab</sup>) alebo ktorá bola uznaná podľa osobitného predpisu,<sup>51ac</sup>) nesmie prekročiť“.
+
+  - Poznámky pod čiarou k odkazom 51aa až 51ac znejú:
+
+  - „<sup>51aa</sup>) Čl. 2 bod 1 nariadenia Európskeho parlamentu a Rady (EÚ) č. 648/2012 zo 4. júla 2012 o mimoburzových derivátoch, centrálnych protistranách a archívoch obchodných údajov (Ú. v. EÚ L 201, 27. 7. 2012) v platnom znení.
+
+  - <sup>51ab</sup>) Čl. 14 nariadenia (EÚ) č. 648/2012 v platnom znení.
+
+  - <sup>51ac</sup>) Čl. 25 nariadenia (EÚ) č. 648/2012 v platnom znení.“.
+
+- 65. V § 89 ods. 4 poslednej vete sa vypúšťajú slová „mimo regulovaného trhu“.
+
+- 66. V § 89 ods. 5 sa slová „rizika protistrany podľa odseku 3 voči tej istej osobe“ nahrádzajú slovami „expozícií vyplývajúcich z derivátových transakcií voči tejto istej osobe, ktoré centrálne nezúčtováva centrálna protistrana, ktorej bolo udelené povolenie podľa osobitného predpisu<sup>51ab</sup>) alebo ktorá bola uznaná podľa osobitného predpisu,<sup>51ac</sup>)“.
+
 - 67. V § 92 odsek 3 znie:
 
 - „(3)
@@ -1335,6 +1349,12 @@ Zákon č. 203/2011 Z. z. o kolektívnom investovaní v znení zákona č. 547/2
 - „18.
 
 - Smernica Európskeho parlamentu a Rady (EÚ) 2024/927 z 13. marca 2024, ktorou sa menia smernice 2011/61/EÚ a 2009/65/ES, pokiaľ ide o dohody o delegovaní, riadenie rizika likvidity, podávanie správ na účely dohľadu, poskytovanie služieb depozitára a úschovy cenných papierov a poskytovanie úverov zo strany alternatívnych investičných fondov (Ú. v. EÚ L, 2024/927, 26. 3. 2024).“.
+
+- 114. Príloha č. 1 sa dopĺňa devätnástym bodom, ktorý znie:
+
+- „19.
+
+- Smernica Európskeho parlamentu a Rady (EÚ) 2024/2994 z 27. novembra 2024, ktorou sa menia smernice 2009/65/ES, 2013/36/EÚ a (EÚ) 2019/2034, pokiaľ ide o zaobchádzanie s rizikom koncentrácie vyplývajúcim z expozícií voči centrálnym protistranám a s rizikom protistrany pri centrálne zúčtovávaných transakciách s derivátmi (Ú. v. EÚ L, 2024/2994, 4. 12. 2024).“.
 
 - 115. V prílohe č. 2 bod 1.10. znie:
 
