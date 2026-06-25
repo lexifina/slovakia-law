@@ -1,0 +1,25 @@
+# § 220a Prechodné ustanovenia k úpravám účinným od 22. júla 2013
+
+(1) Osoba, ktorá pred 22. júlom 2013 vykonávala činnosť spočívajúcu v správe alternatívnych investičných fondov a na ktorú sa od 22.júla 2013 vyžaduje povolenie podľa § 28a, je povinná požiadať do 22. júla 2014 o udelenie povolenia podľa § 28a.
+
+(2) Povolenie na činnosť správcovskej spoločnosti vydané podľa predpisov účinných do 21. júla 2013, ktoré je platné k 21. júlu 2013, sa považuje za povolenie podľa § 28 vydané podľa predpisu účinného od 22. júla 2013. Správcovské spoločnosti, zahraničné investičné fondy a zahraničné správcovské spoločnosti vykonávajúce činnosť na základe predpisov účinných do 21. júla 2013 sú do 22. júla 2014 povinné, ak odseky 3 až 5 neustanovujú inak, prispôsobiť svoju činnosť ustanoveniam tohto zákona, ktoré ukladajú odlišné povinnosti od povinností podľa predpisov účinných do 21. júla 2013; to neplatí pre ustanovenia § 125 ods. 1 písm. d) a § 130 ods. 10 a 11.
+
+(3) Povolenia vydané zahraničnému investičnému fondu alebo zahraničnej správcovskej spoločnosti podľa § 148 predpisu účinného do 21. júla 2013 platné k 21. júlu 2013 sa považuje za povolenie vydané podľa § 148 predpisu účinného od 22. júla 2013. Zahraničná správcovská spoločnosť alebo zahraničný investičný fond je povinná do 21. júla 2014 vykonať oznámenie podľa § 150d a preukázať splnenie podmienok na udelenie povolenia podľa § 148 predpisu účinného od 22. júla 2013. Ak zahraničná správcovská spoločnosť alebo zahraničný investičný fond povinnosť podľa druhej vety do 21. júla 2014 nesplní, povolenie podľa § 148 zaniká k 22. júlu 2014.
+
+(4) Ustanovenia § 63a, 150b a 150c sa nevzťahujú na alternatívne investičné fondy alebo zahraničné alternatívne investičné fondy, na ktorých cenné papiere bola vyhlásená verejná ponuka cenných papierov a bol zverejnený prospekt cenných papierov<sup>96</sup>) pred 22. júlom 2013, a to počas platnosti tohto prospektu.
+
+(5) Správcovská spoločnosť alebo iná osoba, ktorá pred 22. júlom 2013 vykonávala činnosť spočívajúcu v správe uzavretých alternatívnych investičných fondov, ktoré od 22. júla 2013 už nevykonávajú žiadne ďalšie investície, môže vykonávať túto činnosť bez povolenia podľa § 28a alebo registrácie podľa § 31b.
+
+(6) Správcovská spoločnosť alebo iná osoba, ktorá pred 22. júlom 2013 vykonávala činnosť spočívajúcu v správe uzavretých alternatívnych investičných fondov, u ktorých lehota na upisovanie ich cenných papierov alebo majetkových účastí pre investorov skončila pred 21. júlom 2011 a ktoré sú vytvorené na časové obdobie, ktoré sa končí najneskôr 22. júla 2016 môže naďalej spravovať tieto alternatívne investičné fondy, ak splní podmienky podľa § 160a, 189b, 137b a 137c. V opačnom prípade je osoba podľa prvej vety povinná predložiť žiadosť o udelenie povolenia podľa § 28a alebo návrh na zápis do registra podľa § 31b.
+
+(7) Ustanovenia § 63a ods. 9, § 66a ods. 3, § 66b až 66f, § 150b ods. 6, § 150c ods. 5, § 150d ods. 3, § 150e a 150f sa uplatňujú v súlade s osobitným predpisom Európskej komisie na účely zavedenia jednotného povolenia vydaným na základe právneho záväzného aktu Európskej únie upravujúceho správcov alternatívnych investičných fondov a až od dátumu určenom v tomto osobitnom predpise. Ustanovenia § 150g a 150h sa prestanú uplatňovať v súlade s osobitným predpisom Európskej komisie na účely ukončenia národných režimov vydaným na základe právneho záväzného aktu Európskej únie upravujúceho správcov alternatívnych investičných fondov a až od dátumu určeného v tomto predpise.
+
+(8) Ustanovenie § 210 ods. 7 sa uplatňuje od 22. júla 2013 do dátumu vydania stanoviska Európskeho orgánu dohľadu (Európskeho orgánu pre cenné papiere a trhy) k fungovaniu jednotného povolenia pre správcovské spoločnosti a zahraničné správcovské spoločnosti so sídlom v členskom štáte a k uplatňovaniu národných režimov. Ustanovenie § 210 ods. 8 sa uplatňuje od dátumu účinnosti osobitného predpisu Európskej komisie na účely zavedenia jednotného povolenia vydaného na základe právneho záväzného aktu Európskej únie upravujúceho správcov alternatívnych investičných fondov do dátumu vydania stanoviska Európskeho orgánu dohľadu (Európskeho orgánu pre cenné papiere a trhy) podľa prvej vety.
+
+(9) Osoba, ktorá vykonáva činnosť podliehajúcu zápisu do registra podľa § 31b, je povinná požiadať o zápis do tohto registra do 22. júla 2014.
+
+(10) Každý predchádzajúci súhlas Národnej banky Slovenska na vedenie samostatnej evidencie udelený podľa predpisov účinných do 21. júla 2013 sa považuje za povolenie udelené podľa predpisu účinného od 22. júla 2013.
+
+(11) Konania o udelení predchádzajúceho súhlasu na vedenie samostatnej evidencie začaté pred 22. júlom 2013 sa dokončia podľa predpisu účinného od 22. júla 2013.
+
+(12) Konania začaté a právoplatne neskončené pred 22. júlom 2013 sa dokončia podľa predpisu účinného od 22. júla 2013 a osobitného zákona,<sup>83</sup>) pričom pre lehoty, ktoré sa pred 22. júlom 2013 ešte neukončili, platia ustanovenia predpisu účinného od 22. júla 2013 a osobitného zákona.<sup>90a</sup>) Právne účinky úkonov, ktoré v konaní nastali pred 22. júlom 2013, zostávajú zachované.

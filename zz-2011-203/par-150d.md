@@ -1,0 +1,11 @@
+# § 150d Distribúcia cenných papierov alebo majetkových účastí alternatívneho investičného fondu a európskeho alternatívneho investičného fondu na území Slovenskej republiky zahraničnou správcovskou spoločnosťou so sídlom v členskom štáte
+
+(1) Zahraničná správcovská spoločnosť so sídlom v členskom štáte s povolením vydaným v súlade s právne záväzným aktom Európskej únie upravujúcim správcov alternatívnych investičných fondov môže začať distribuovať na území Slovenskej republiky cenné papiere alebo majetkové účasti ňou spravovaného alternatívneho investičného fondu alebo európskeho alternatívneho investičného fondu odo dňa prijatia informácie príslušného orgánu dohľadu jej domovského členského štátu, že Národnej banke Slovenska bolo zaslané oznámenie o jej zámere distribuovať cenné papiere alebo majetkové účasti alternatívneho investičného fondu alebo európskeho alternatívneho investičného fondu na území Slovenskej republiky.
+
+(2) Národná banka Slovenska nie je oprávnená uložiť zahraničnej správcovskej spoločnosti podľa odseku 1 žiadne dodatočné podmienky vo vzťahu k distribúcii cenných papierov a majetkových účastí profesionálnym investorom.
+
+(3) Ustanovenia odseku 1 sa použijú rovnako, ak sa neeurópska správcovská spoločnosť, ktorej referenčným členským štátom je iný členský štát, rozhodla distribuovať cenné papiere alebo majetkové účasti ňou spravovaného európskeho alternatívneho investičného fondu na území Slovenskej republiky.
+
+(4) Národná banka Slovenska odo dňa prijatia odvolania oznámenia podľa odseku 1 od príslušného orgánu domovského členského štátu zahraničnej správcovskej spoločnosti nevyžaduje od dotknutej zahraničnej správcovskej spoločnosti preukázanie súladu s právnymi predpismi zverejnenými podľa osobitného predpisu;<sup>58b</sup>) tým nie sú dotknuté ostatné právomoci Národnej banky Slovenska v oblasti dohľadu.
+
+(5) Odo dňa odvolania oznámenia podľa odseku 1 správcovská spoločnosť podľa odseku 1 je povinná ukončiť predkladanie nových alebo ďalších priamych ponúk alebo nepriamych ponúk alebo umiestňovanie cenných papierov alternatívneho investičného fondu alebo európskeho alternatívneho investičného fondu na území Slovenskej republiky, pri ktorých odvolala oznámenie podľa odseku 1.

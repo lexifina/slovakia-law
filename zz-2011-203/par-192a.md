@@ -1,0 +1,7 @@
+# § 192a
+
+(1) Osoba zapísaná v registri podľa § 31b je povinná predkladať Národnej banke Slovenska informácie o nástrojoch, do ktorých je investovaný majetok ňou spravovaných alternatívnych investičných fondoch alebo zahraničných alternatívnych investičných fondov, o významných pozíciách a expozíciách spravovaných alternatívnych investičných fondov alebo zahraničných alternatívnych investičných fondov.
+
+(2) Na štruktúru, rozsah, obsah, formu, členenie a termíny predkladania informácií podľa odseku 1 sa použije osobitný predpis.<sup>77e</sup>) Národná banka Slovenska môže ustanoviť opatrením, ktoré sa vyhlasuje v zbierke zákonov, termíny, spôsob, postup a miesto predkladania informácií podľa odseku 1, vrátane metodiky na ich vypracúvanie.
+
+(3) Osoba zapísaná v registri podľa § 31b je povinná vypracúvať a predkladať Národnej banke Slovenska údaje z účtovnej evidencie a štatistickej evidencie a ďalšie údaje a informácie vo forme výkazov, hlásení, prehľadov a iných správ ustanoveným spôsobom a v ustanovených termínoch; také poskytovanie údajov sa nepovažuje za porušenie povinnosti mlčanlivosti podľa § 162. Národná banka Slovenska ustanoví opatrením, ktoré sa vyhlasuje v zbierke zákonov, štruktúru, rozsah, obsah, formu, členenie, termíny, spôsob, postup a miesto predkladania údajov z účtovnej evidencie a zo štatistickej evidencie vrátane metodiky na vypracúvanie výkazov, hlásení, prehľadov a iných správ.

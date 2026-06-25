@@ -1,0 +1,33 @@
+# § 189a
+
+(1) Správcovská spoločnosť je povinná pravidelne v lehotách podľa osobitného predpisu<sup>77a</sup>) predkladať Národnej banke Slovenska správu o hlavných trhoch, na ktorých obchoduje a o nástrojoch, s ktorými vykonáva obchody pri správe alternatívneho investičného fondu alebo zahraničného alternatívneho investičného fondu. Tieto správy obsahujú informácie o hlavných nástrojoch, s ktorými obchoduje, trhoch, ktorých je členom alebo na ktorých aktívne obchoduje a o hlavným expozíciách a najdôležitejších koncentráciách rizík za každý spravovaný alternatívny investičný fond alebo zahraničný alternatívny investičný fond v rozsahu ustanovenom osobitným predpisom.<sup>77b</sup>)
+
+(2) Správcovská spoločnosť je povinná predkladať Národnej banke Slovenska za každý spravovaný alternatívny investičný fond alebo európsky alternatívny investičný fond a za každý alternatívny investičný fond alebo zahraničný alternatívny investičný fond, ktorého cenné papiere alebo majetkové účasti distribuuje na území Slovenskej republiky alebo iného členského štátu v rozsahu ustanovenom osobitným predpisom<sup>77c</sup>) tieto informácie:
+
+- a) percentuálny podiel aktív alternatívneho investičného fondu alebo zahraničného alternatívneho investičného fondu, na ktoré sa vzťahujú osobitné nástroje riadenia likvidity vyplývajúce z ich nelikvidnej povahy,
+
+- b) každý nový mechanizmus riadenia likvidity alternatívneho investičného fondu alebo zahraničného alternatívneho investičného fondu,
+
+- c) aktuálny rizikový profil alternatívneho investičného fondu alebo zahraničného alternatívneho investičného fondu a systémy riadenia rizík, ktoré správcovská spoločnosť používa na riadenie trhového rizika, rizika likvidity, rizika protistrany a iných rizík vrátane operačného rizika,
+
+- d) informácie o hlavných kategóriách aktív, do ktorých je investovaný majetok alternatívneho investičného fondu alebo zahraničného alternatívneho investičného fondu,
+
+- e) výsledky stresového testovania vykonaného podľa § 37a ods. 4 písm. b) a § 37b ods. 2.
+
+(3) Správcovská spoločnosť je povinná predložiť Národnej banke Slovenska na jej žiadosť tieto dokumenty:
+
+- a) ročnú správu za každý spravovaný alternatívny investičný fond alebo európsky alternatívny investičný fond a za každý alternatívny investičný fond alebo zahraničný alternatívny investičný fond, ktorého cenné papiere alebo majetkové účasti distribuuje na území Slovenskej republiky alebo iného členského štátu, vypracovanú podľa § 160a ods. 1 za každý účtovný rok, to neplatí ak ide o špeciálny fond, pri ktorom sa použije ustanovenie § 187,
+
+- b) podrobný zoznam všetkých spravovaných alternatívnych investičných fondov a zahraničných alternatívnych investičných fondov aktualizovaný ku koncu každého kalendárneho štvrťroka.
+
+(4) Správcovská spoločnosť spravujúca alternatívny investičný fond alebo zahraničný alternatívny investičný fond, ktorý vo významnej miere využíva pákový efekt, je povinná predkladať v lehotách podľa osobitného predpisu<sup>77a</sup>) Národnej banke Slovenska informácie o celkovej úrovni pákového efektu využívaného každým spravovaným alternatívnym investičným fondom alebo zahraničným alternatívnym investičným fondom, rozpis v členení na pákový efekt vyplývajúci z vypožičania peňažných prostriedkov alebo cenných papierov a pákový efekt založený na finančných derivátoch a rozsah, v akom sa aktíva alternatívneho investičného fondu alebo zahraničného alternatívneho investičného fondu opätovne použili v rámci dojednaní založených na pákovom efekte, najmä identifikáciu piatich najväčších zdrojov vypožičaných peňažných prostriedkov alebo cenných papierov za každý spravovaný alternatívny investičný fond alebo zahraničný alternatívny investičný fond a objemy získané od každého z týchto zdrojov pre každý alternatívny investičný fond alebo zahraničný alternatívny investičný fond.
+
+(5) Národná banka Slovenska je oprávnená periodicky alebo jednorazovo požadovať informácie nad rámec ustanovený v odsekoch 1 až 4, ak je to potrebné na účinné monitorovanie systémového rizika. Národná banka Slovenska informuje Európsky orgán dohľadu (Európsky orgán pre cenné papiere a trhy) o týchto dodatočných požiadavkách. Národná banka Slovenska je oprávnená požadovať informácie nad rámec ustanovený v odsekoch 1 až 4 aj z podnetu Európskeho orgánu dohľadu (Európskeho orgánu pre cenné papiere a trhy).
+
+(6) Národná banka Slovenska využíva informácie podľa odsekov 1 až 5 aj na účely určenia miery, v akej využívanie pákového efektu prispieva k zvyšovaniu systémového rizika vo finančnom systéme, rizík narušenia trhov alebo rizík pre dlhodobý rast hospodárstva.
+
+(7) Národná banka Slovenska sprístupní informácie zhromaždené podľa odsekov 1 až 5 týkajúce sa správcovských spoločností podliehajúcich jej dohľadu a informácie získané podľa § 28a príslušným orgánom iných dotknutých členských štátov, Európskemu orgánu dohľadu (Európsky orgán pre cenné papiere a trhy), Európskemu orgánu dohľadu (Európsky orgán pre bankovníctvo), Európskemu orgánu dohľadu (Európsky orgán pre poisťovníctvo a dôchodkové poistenie zamestnancov) zriadenému osobitným predpisom<sup>77ca</sup>) a Európskemu výboru pre systémové riziká vždy, ak je to potrebné na výkon ich povinností, a to postupom podľa § 201b. Prostredníctvom týchto postupov a na dvojstrannej báze tiež bezodkladne poskytuje informácie príslušným orgánom iných priamo dotknutých členských štátov, ak by správcovská spoločnosť alebo ním spravovaný alternatívny investičný fond alebo zahraničný alternatívny investičný fond mohol potenciálne predstavovať významný zdroj rizika protistrany pre úverovú inštitúciu alebo iné systémovo dôležité inštitúcie v iných členských štátoch.
+
+(8) Národná banka Slovenska zabezpečí dostupnosť všetkých informácií zhromaždených podľa odsekov 1 až 4 týkajúcich sa všetkých správcovských spoločností alternatívnych investičných fondov alebo zahraničných alternatívnych investičných fondov, nad ktorými vykonáva dohľad, Európskemu systému centrálnych bánk len na štatistické účely, podľa § 201b.
+
+(9) Národná banka Slovenska bezodkladne poskytne informácie podľa § 201b a dotknutým orgánom iných členských štátov, ak by správcovská spoločnosť alternatívneho investičného fondu alebo zahraničného alternatívneho investičného fondu, ktorá podlieha jej dohľadu, alebo alternatívny investičný fond alebo zahraničný alternatívny investičný fond, ktorý táto správcovská spoločnosť spravuje, mohol predstavovať významný zdroj rizika protistrany pre úverovú inštitúciu alebo iné systémovo dôležité inštitúcie v inom členskom štáte alebo pre stabilitu finančného systému v inom členskom štáte.
