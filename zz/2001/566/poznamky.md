@@ -78,6 +78,10 @@
 
 - 18j) Čl. 2 bod 24 nariadenia Európskeho parlamentu a Rady (EÚ) 2019/2088 z 27. novembra 2019 o zverejňovaní informácií o udržateľnosti v sektore finančných služieb (Ú. v. EÚ L 317, 9. 12. 2019) v platnom znení.
 
+- 18k) Čl. 2 bod 1 nariadenia Európskeho parlamentu a Rady (EÚ) č. 648/2012 zo 4. júla 2012 o mimoburzových derivátoch, centrálnych protistranách a archívoch obchodných údajov (Ú. v. EÚ L 201, 27. 7. 2012) v platnom znení.
+
+- 18l) Čl. 4 ods. 1 bod 88 nariadenia (EÚ) č. 575/2013 v platnom znení.
+
 - 19) § 12 ods. 1 zákona č. 192/2023 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
 - 20) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
@@ -343,6 +347,8 @@
 - 56acaa) Čl. 7 nariadenia (EÚ) 2019/2033 v platnom znení.
 
 - 56acab) Čl. 11 nariadenia (EÚ) 2019/2033 v platnom znení.
+
+- 56acaba) Čl. 7a nariadenia (EÚ) č. 648/2012 v platnom znení.
 
 - 56acac) Nariadenie (EÚ) 2022/2554.
 
@@ -625,8 +631,6 @@
 - 89p) § 3 a 3a zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov v znení zákona č. 52/2018 Z. z.
 
 - 89q) § 10 ods. 11 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
-
-- 89r) Čl. 2 bod 1 nariadenia Európskeho parlamentu a Rady (EÚ) č. 648/2012 zo 4. júla 2012 o mimoburzových derivátoch, centrálnych protistranách a archívoch obchodných údajov (Ú. v. EÚ L 201, 27. 7. 2012) v platnom znení.
 
 - 89s) Čl. 17 nariadenia (EÚ) č. 648/2012 v platnom znení.
 
