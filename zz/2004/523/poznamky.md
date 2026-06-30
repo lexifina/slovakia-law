@@ -168,8 +168,6 @@
 
 - Vyhláška Národného bezpečnostného úradu č. 48/2019 Z. z., ktorou sa ustanovujú podrobnosti o administratívnej bezpečnosti utajovaných skutočností.
 
-- 24aia) Zákon č. 142/2024 Z. z. o mimoriadnych opatreniach pre strategické investície a pre výstavbu transeurópskej dopravnej siete a o zmene a doplnení niektorých zákonov.
-
 - 24aj) § 22 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
 - 24ak) § 23 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
