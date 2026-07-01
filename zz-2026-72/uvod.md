@@ -1,0 +1,11 @@
+## 72
+
+VYHLÁŠKA
+
+Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky
+
+z 23. apríla 2026,
+
+## ktorou sa zverejňuje neupravený všeobecný dôchodkový vek a ustanovuje všeobecný dôchodkový vek pre ročník 1968
+
+Ministerstvo práce, sociálnych vecí a rodiny Slovenskej republiky podľa § 65 ods. 8 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov ustanovuje:
