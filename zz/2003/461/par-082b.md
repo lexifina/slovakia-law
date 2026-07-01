@@ -2,7 +2,7 @@
 
 (1) Suma minimálneho dôchodku je
 
-- a) 145 % sumy životného minima pre jednu plnoletú fyzickú osobu podľa osobitného predpisu<sup>56</sup>) platnej k 1. januáru kalendárneho roka, v ktorom sa určuje suma starobného dôchodku alebo suma invalidného dôchodku vyplácaného po dovŕšení dôchodkového veku, ak poistenec získal obdobie dôchodkového poistenia podľa odseku 3 v rozsahu 30 rokov, alebo
+- a) 145 % sumy životného minima pre jednu plnoletú fyzickú osobu platnej k 1. januáru kalendárneho roka, v ktorom sa určuje suma starobného dôchodku alebo suma invalidného dôchodku vyplácaného po dovŕšení dôchodkového veku, ak poistenec získal obdobie dôchodkového poistenia podľa odseku 3 v rozsahu 30 rokov, alebo
 
 - b) percentuálna výmera podľa písmena a) zvýšená o
 

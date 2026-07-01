@@ -122,6 +122,14 @@
 
 - 42e) § 107 ods. 8 zákona č. 35/2019 Z. z.
 
+- 42f) § 2 písm. a) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 42g) § 32 ods. 1 zákona č. 595/2003 Z. z. v znení zákona č. 688/2006 Z. z.
+
+- 42h) § 49 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+
+- 42i) § 47 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+
 - 44) Napríklad § 136 ods. 1 zákona č. 311/2001 Z. z. v znení zákona č. 210/2003 Z. z.
 
 - 45) Napríklad § 136 zákona č. 311/2001 Z. z. v znení zákona č. 210/2003 Z. z.
@@ -217,8 +225,6 @@
 - 69c) § 10 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
 
 - 69d) § 5 ods. 7 písm. r) zákona č. 595/2003 Z. z. v znení zákona č. 153/2025 Z. z.
-
-- 69e) § 49 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
 - 70) § 2 písm. d) zákona č. 215/2021 Z. z.
 
