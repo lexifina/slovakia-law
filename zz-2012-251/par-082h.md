@@ -1,0 +1,39 @@
+# § 82h Dozorná komisia nezávislého prevádzkovateľa vodíkovej prepravnej siete
+
+(1) Prevádzkovateľ vodíkovej prepravnej siete je povinný zriadiť dozornú komisiu ako orgán spoločnosti s pôsobnosťou podľa tohto zákona; pôsobnosť orgánov spoločnosti podľa Obchodného zákonníka nie je dotknutá, ak tento zákon neustanovuje inak. Do pôsobnosti dozornej komisie patrí
+
+- a) schvaľovanie rozhodnutí, ktoré majú podstatný vplyv na hodnotu podielov spoločníkov prevádzkovateľa vodíkovej prepravnej siete v prevádzkovateľovi vodíkovej prepravnej siete, a to
+
+  - 1. schvaľovanie ročných a dlhodobých finančných plánov,
+
+  - 2. schvaľovanie maximálnej úrovne zadlženia prevádzkovateľa vodíkovej prepravnej siete,
+
+  - 3. schvaľovanie návrhu štatutárneho orgánu na rozdelenie zisku alebo úhradu strát pred jeho predložením valnému zhromaždeniu prevádzkovateľa vodíkovej prepravnej siete; pôsobnosť valného zhromaždenia rozhodovať o návrhu na rozdelenie zisku alebo úhradu strát podľa Obchodného zákonníka nie je dotknutá, ak tento zákon neustanovuje inak,
+
+  - 4. schvaľovanie desaťročného plánu rozvoja vodíkovej siete podľa § 82m a rozhodnutí o začatí realizácie jednotlivých investícií podľa desaťročného plánu rozvoja vodíkovej siete podľa § 82m,
+
+- b) vymenúvanie alebo voľba a odvolávanie štatutárneho orgánu alebo členov štatutárneho orgánu prevádzkovateľa vodíkovej prepravnej siete,
+
+- c) schvaľovanie pravidiel odmeňovania štatutárneho orgánu alebo členov štatutárneho orgánu prevádzkovateľa vodíkovej prepravnej siete,
+
+- d) schvaľovanie uzavretia alebo zmeny zmluvy o výkone funkcie štatutárneho orgánu alebo člena štatutárneho orgánu prevádzkovateľa vodíkovej prepravnej siete,
+
+- e) vymenúvanie alebo ustanovenie a odvolávanie osoby povinnej zabezpečiť súlad podľa § 82l,
+
+- f) schvaľovanie uzavretia alebo zmeny zmluvy<sup>75</sup>) medzi prevádzkovateľom vodíkovej prepravnej siete a osobou povinnou zabezpečiť súlad.
+
+(2) Rozhodnutia dozornej komisie prijaté v rozsahu jej pôsobnosti podľa odseku 1 sú pre štatutárny orgán prevádzkovateľa vodíkovej prepravnej siete záväzné. Do pôsobnosti dozornej komisie nepatrí rozhodovanie vo veciach, ktoré sa týkajú každodennej činnosti prevádzkovateľa vodíkovej prepravnej siete, riadenia vodíkovej prepravnej siete a činností týkajúcich sa prípravy desaťročného plánu rozvoja vodíkovej siete podľa § 82m.
+
+(3) Valné zhromaždenie prevádzkovateľa vodíkovej prepravnej siete môže rozhodnúť len o návrhu štatutárneho orgánu na rozdelenie zisku alebo úhradu strát, ktorý schválila dozorná komisia. Uznesenie valného zhromaždenia, ktoré je v rozpore s predchádzajúcou vetou, je neplatné.
+
+(4) Dozorná komisia musí mať najmenej troch členov. Počet členov a zloženie dozornej komisie upravujú stanovy prevádzkovateľa vodíkovej prepravnej siete.
+
+(5) Členov dozornej komisie volí a odvoláva valné zhromaždenie prevádzkovateľa vodíkovej prepravnej siete. Funkčné obdobie člena dozornej komisie upravujú stanovy prevádzkovateľa vodíkovej prepravnej siete; uznesenie valného zhromaždenia prevádzkovateľa vodíkovej prepravnej siete o zmene stanov, ktorou sa skracuje funkčné obdobie člena dozornej komisie počas jeho trvania, je neplatné. Na voľbu a odvolanie člena dozornej komisie sa vyžaduje predchádzajúci súhlas úradu, inak je voľba a odvolanie neplatné; súhlas úradu sa nevyžaduje na voľbu člena dozornej komisie, ak v čase jeho voľby trvá funkčné obdobie členov dozornej komisie podľa odseku 7 prvej vety.
+
+(6) Prevádzkovateľ vodíkovej prepravnej siete je povinný upraviť právne vzťahy s členmi dozornej komisie zmluvou o výkone funkcie, na ktorú sa vzťahujú požiadavky podľa Obchodného zákonníka, najneskôr v deň začatia výkonu ich funkcie. Zmluva o výkone funkcie člena dozornej komisie musí obsahovať podmienky výkonu funkcie vrátane podmienok týkajúcich sa dĺžky a ukončenia funkčného obdobia a pravidiel odmeňovania člena dozornej komisie. Na uzavretie alebo zmenu zmluvy o výkone funkcie člena dozornej komisie, na ktorého voľbu sa vyžaduje súhlas úradu, sa vyžaduje predchádzajúci súhlas úradu, inak je zmluva o výkone funkcie alebo jej zmena neplatná.
+
+(7) Ustanovenia § 82f ods. 7 až 14 a § 82g ods. 1 a 3 až 5 sa primerane použijú pre polovicu členov dozornej komisie zníženú o jedného člena, ak stanovy neustanovujú vyšší počet. Ustanovenia § 82f ods. 7, 10, 11, 12 písm. c) a 13 sa primerane použijú na odvolanie člena dozornej komisie.
+
+(8) Ak má nástupnícka spoločnosť v prípade premeny alebo cezhraničnej premeny dozornú komisiu podľa tohto zákona, projekt premeny alebo projekty cezhraničnej premeny obsahuje mená členov dozornej komisie. Rozhodnutie o zmene právnej formy alebo cezhraničnej zmene právnej formy prevádzkovateľa vodíkovej prepravnej siete obsahuje mená a priezviská členov dozornej komisie. Ustanovenia Obchodného zákonníka a osobitného predpisu<sup>75a</sup>) tým nie sú dotknuté.
+
+(9) Pre členov dozornej komisie platia obdobne ustanovenia § 66 ods. 1 a 2, § 194 ods. 5 až 9, § 196, § 196a, § 197 ods. 2, § 200 ods. 4 a § 201 Obchodného zákonníka; ustanovenie § 201 ods. 2 Obchodného zákonníka platí obdobne len v rozsahu upravujúcom oznamovanie stanoviska menšiny členov dozornej rady valnému zhromaždeniu.

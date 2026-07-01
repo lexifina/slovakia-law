@@ -1,0 +1,5 @@
+# § 32b Výberové konanie na zariadenie na uskladňovanie elektriny
+
+(1) Ak prevádzkovateľ prenosovej sústavy alebo prevádzkovateľ distribučnej sústavy potrebuje na účely plnenia povinnosti podľa § 28 ods. 2 písm. a) alebo § 31 ods. 2 písm. a) využívať zariadenie na uskladňovanie elektriny a túto potrebu nie je možné uspokojiť nákupom nefrekvenčných podporných služieb alebo flexibility, je povinný požiadať úrad o udelenie súhlasu s vyhlásením výberového konania na poskytovanie služieb zariadenia na uskladňovanie elektriny.
+
+(2) Úrad súhlas podľa odseku 1 udelí, ak prevádzkovateľ prenosovej sústavy alebo prevádzkovateľ distribučnej sústavy preukáže splnenie podmienok podľa odseku 1 a ak navrhované podmienky výberového konania sú v súlade s podmienkami ustanovenými všeobecne záväzným právnym predpisom vydaným úradom podľa § 95 ods. 2 písm. j). Ak úrad udelí súhlas podľa odseku 1, je prevádzkovateľ prenosovej sústavy alebo prevádzkovateľ distribučnej sústavy povinný postupovať vo výberovom konaní podľa podmienok výberového konania, ktoré sú súčasťou žiadosti o udelenie súhlasu.

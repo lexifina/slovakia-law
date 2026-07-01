@@ -1,0 +1,17 @@
+## Oddelenie prevádzkovateľa vodíkovej prepravnej siete
+
+# § 82c
+
+(1) Na prevádzkovateľa vodíkovej prepravnej siete, ktorý je súčasťou vertikálne integrovaného plynárenského podniku, sa vzťahujú ustanovenia § 82e až 82l o nezávislom prevádzkovateľovi vodíkovej prepravnej siete. Tým nie je dotknuté právo prevádzkovateľa vodíkovej prepravnej siete postupovať podľa § 82d.
+
+(2) Na prevádzkovateľa vodíkovej prepravnej siete, na ktorého sa nevzťahuje odsek 1 prvá veta, sa vzťahuje § 82d.
+
+(3) Ak odsek 4 alebo 7 neustanovuje inak, prevádzkovateľ vodíkovej prepravnej siete a iná osoba, ktorá je súčasťou toho istého vertikálne integrovaného plynárenského podniku ako prevádzkovateľ vodíkovej prepravnej siete alebo ktorá nad osobou, ktorá je súčasťou toho istého vertikálne integrovaného plynárenského podniku ako prevádzkovateľ vodíkovej prepravnej siete priamo alebo nepriamo vykonáva kontrolu, sú povinní zabezpečiť, aby prevádzkovateľ vodíkovej prepravnej siete nebol po 5. auguste 2026 z hľadiska právnej subjektivity časťou podniku vykonávajúceho činnosť prepravy plynu, distribúcie plynu, prenosu elektriny alebo distribúcie elektriny.
+
+(4) Ministerstvo môže na návrh prevádzkovateľa vodíkovej prepravnej siete rozhodnúť o neuplatnení odseku 3 na prevádzkovateľa vodíkovej prepravnej siete. Prílohou návrhu prevádzkovateľa vodíkovej prepravnej siete je pozitívna analýza nákladov a prínosov neuplatnenia odseku 3 na prevádzkovateľa vodíkovej prepravnej siete, ktorú pripraví prevádzkovateľ vodíkovej prepravnej siete. Ministerstvo je povinné pred vydaním rozhodnutia vyžiadať si stanovisko úradu podľa odseku 6. Ministerstvo môže rozhodnúť o neuplatnení odseku 3 na prevádzkovateľa vodíkovej prepravnej siete, ak úrad vydá stanovisko podľa odseku 6, že neuplatnenie odseku 3 na prevádzkovateľa vodíkovej prepravnej siete nebude mať negatívny vplyv z pohľadu transparentnosti, krížových dotácií, sieťových taríf a cezhraničného obchodu.
+
+(5) Ministerstvo rozhodnutie podľa odseku 4 spolu so stanoviskom úradu podľa odseku 6 zverejní a oznámi Komisii, pričom ministerstvo zachová dôvernosť údajov a podkladov, ktoré sú predmetom obchodného tajomstva,<sup>59</sup>) iných obchodných údajov dôverného charakteru a údajov, ktorých poskytnutie tretej osobe by mohlo spôsobiť ujmu osobe, ktorá také údaje poskytla. Odôvodnenie rozhodnutia ministerstva podľa odseku 4 obsahuje zhrnutie pozitívnej analýzy nákladov a prínosov neuplatnenia odseku 3 na prevádzkovateľa vodíkovej prepravnej siete.
+
+(6) Úrad na žiadosť ministerstva vydá stanovisko, v ktorom posúdi, či neuplatnenie odseku 3 na prevádzkovateľa vodíkovej prepravnej siete bude mať negatívny vplyv z pohľadu transparentnosti, krížových dotácií, sieťových taríf a cezhraničného obchodu. Úrad v stanovisku uvedie aj časový harmonogram očakávaných prevodov aktív z odvetvia plynu do odvetvia vodíka. Ak ministerstvo rozhodne o neuplatnení odseku 3 na prevádzkovateľa vodíkovej prepravnej siete, úrad vydá a zverejní nové stanovisko podľa tohto odseku aspoň každých sedem rokov alebo na základe odôvodnenej žiadosti Komisie.
+
+(7) Ministerstvo rozhodne o uplatnení odseku 3 na prevádzkovateľa vodíkovej prepravnej siete, ak podľa nového stanoviska úradu vydaného podľa odseku 6 bude mať pokračujúce neuplatňovanie odseku 3 na prevádzkovateľa vodíkovej prepravnej siete negatívny vplyv z pohľadu transparentnosti, krížových dotácií, sieťových taríf a cezhraničného obchodu alebo ak sa dokončil prevod aktív z odvetvia plynu do odvetvia vodíka.
