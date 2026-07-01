@@ -1,0 +1,3 @@
+# § 8c Prechodné ustanovenie k úpravám účinným od 1. marca 2011
+
+Rokovania o výzvach oprávnených osôb Slovenskému pozemkovému fondu alebo správcovi podľa § 6 ods. 7 na vydanie náhrady, rokovania o návrhoch náhradných pozemkov podľa § 6 ods. 8 alebo rokovania o ponukách Slovenského pozemkového fondu alebo správcu náhradného pozemku podľa § 6 s oprávnenou osobou, ktoré neboli do 28. februára 2011 ukončené podpísaním návrhu zmluvy územným organizačným útvarom<sup>30</sup>) alebo zmluvy medzi Slovenským pozemkovým fondom alebo správcom a oprávnenou osobou sa dokončia podľa predpisov účinných do 1. marca 2011.
