@@ -12,6 +12,8 @@
 
 - e) účastník konania zomrel alebo bol vyhlásený za mŕtveho,
 
-- f) účastník konania a oprávnený orgán uzavreli dohodu na dobrovoľné plnenie podľa § 97k.
+- f) účastník konania a oprávnený orgán uzavreli dohodu na dobrovoľné plnenie podľa § 97k,
 
-(2) Proti rozhodnutiu o zastavení konania nie je prípustné odvolanie a rozhodnutie podľa odseku 1 písm. e) alebo písm. f) sa iba vyznačí v spise.
+- g) uplynie lehota na vydanie rozhodnutia.
+
+(2) Proti rozhodnutiu o zastavení konania nie je prípustné odvolanie a rozhodnutie podľa odseku 1 písm. e) až g) sa iba vyznačí v spise.

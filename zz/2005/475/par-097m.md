@@ -11,3 +11,5 @@
 (5) Poštový podnik<sup>11a</sup>) je povinný oznámiť ústavu alebo generálnemu riaditeľstvu na jeho písomnú žiadosť údaje potrebné na účely rozhodovania podľa tohto zákona alebo výkonu rozhodnutia, najmä totožnosť osôb, ktoré majú prenajaté poštové priečinky, údaje o počte došlých zásielok a o ich odosielateľoch, úhrn súm doručených povinnému poštovým podnikom alebo do jeho poštového priečinka, totožnosť prijímateľa zásielok poste restante, alebo umožniť ústavu alebo generálnemu riaditeľstvu tieto údaje získať v poštovom podniku a správnosť údajov oznámených poštovým podnikom na mieste preveriť. Tým nie sú dotknuté ustanovenia osobitného predpisu o poštových službách.<sup>11d</sup>)
 
 (6) Súčinnosť podľa odsekov 1 až 5 sa poskytuje bezodplatne.
+
+(7) Písomná forma podľa tohto ustanovenia je zachovaná vždy, ak je žiadosť urobená v elektronickej podobe podľa osobitného predpisu.<sup>63e</sup>)

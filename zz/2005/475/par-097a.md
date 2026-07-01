@@ -17,3 +17,5 @@
 - e) zhabania veci.
 
 (2) Na konanie podľa odseku 1 sa nevzťahuje všeobecný predpis o správnom konaní.<sup>63a</sup>)
+
+(3) Úkony v konaniach podľa odseku 1 vykonáva ústav a generálne riaditeľstvo výlučne v listinnej podobe, ak v tejto časti nie je ustanovené inak.
