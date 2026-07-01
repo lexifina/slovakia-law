@@ -1,0 +1,3 @@
+# § 143r
+
+Príplatok k starobnému dôchodku, invalidnému dôchodku, čiastočnému invalidnému dôchodku, ktoré sa podľa § 125 a 126 považujú za výsluhový dôchodok a invalidný výsluhový dôchodok, priznaný oprávnenej osobe podľa osobitného predpisu,<sup>66</sup>) ktorý sa k 31. decembru 2007 nevyplácal z dôvodu, že spolu s dôchodkom presiahol najvyššiu výmeru ustanovenú predpisom účinným pred 1. januárom 2004 alebo sa z tohto dôvodu vyplácal v nižšej sume, sa uvoľní odo dňa splátky splatnej po 31. decembri 2007 v sume, v akej by sa vyplácal k tomuto dňu bez obmedzenia z tohto dôvodu. O sume dôchodku podľa prvej vety útvar sociálneho zabezpečenia ministerstva alebo Vojenský úrad sociálneho zabezpečenia rozhodne najneskôr do 31. decembra 2009.
