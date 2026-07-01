@@ -1,0 +1,5 @@
+# § 102ae
+
+(1) Nárok na materskú dovolenku, otcovskú dovolenku a rodičovskú dovolenku má aj príslušníčka alebo príslušník, ktorý prevzal na základe právoplatného rozhodnutia príslušného orgánu dieťa do starostlivosti nahrádzajúcej starostlivosť rodičov, ktoré mu bolo zverené rozhodnutím príslušných orgánov na neskoršie osvojenie alebo do pestúnskej starostlivosti, alebo dieťa, ktorého matka zomrela.
+
+(2) Materská dovolenka alebo otcovská dovolenka sa poskytuje príslušníčke alebo príslušníkovi odo dňa prevzatia dieťaťa v trvaní 28 týždňov; osamelej príslušníčke alebo osamelému príslušníkovi v trvaní 31 týždňov a príslušníčke alebo príslušníkovi, ktorý prevzal dve alebo viac detí, 37 týždňov, najdlhšie do dňa, v ktorom dieťa dovŕši tri roky veku. Rodičovská dovolenka sa poskytuje odo dňa skončenia materskej dovolenky alebo otcovskej dovolenky až do dňa, kým dieťa dosiahne tri roky veku, alebo kým dieťa s dlhodobo nepriaznivým zdravotným stavom vyžadujúcim osobitnú starostlivosť dosiahne šesť rokov veku.
