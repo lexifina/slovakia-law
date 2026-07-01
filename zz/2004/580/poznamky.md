@@ -242,7 +242,7 @@
 
 - § 42 zákona č. 328/2002 Z. z.
 
-- 49) § 16 zákona č. 447/2008 Z. z. v znení neskorších predpisov.
+- 49) § 2 zákona č. 376/2024 Z. z. o integrovanej posudkovej činnosti a o zmene a doplnení niektorých zákonov.
 
 - 49a) § 81b ods. 2 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení zákona č. 444/2015 Z. z.
 
