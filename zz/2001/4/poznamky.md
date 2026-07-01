@@ -86,7 +86,13 @@
 
 - 14) § 79 zákona č. 150/2025 Z. z. o niektorých opatreniach na zvýšenie odolnosti Slovenskej republiky v oblasti obrany a bezpečnosti, o brannej povinnosti a o zmene a doplnení niektorých zákonov.
 
-- 14a) Napríklad zákon č. 550/2003 Z. z. o probačných a mediačných úradníkoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 14a) § 24 zákona č. 475/2005 Z. z.
+
+- § 19 zákona č. 221/2006 Z. z.
+
+- 14b) § 71 ods. 1 písm. b), ods. 3 písm. b) a § 84 Trestného poriadku.
+
+- 14c) Napríklad zákon č. 550/2003 Z. z. o probačných a mediačných úradníkoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 15) § 13 zákona č. 224/2006 Z. z. v znení zákona č. 49/2012 Z. z.
 
@@ -117,6 +123,12 @@
 - 17h) § 99 zákona č. 475/2005 Z. z. v znení neskorších predpisov.
 
 - § 63 zákona č. 221/2006 Z. z. v znení zákona č. 371/2013 Z. z.
+
+- 17ha) Zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov.
+
+- Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
+
+- Zákon č. 500/2022 Z. z. o Vojenskom spravodajstve v znení zákona č. 367/2024 Z. z.
 
 - 17i) § 5 písm. f) zákona č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
 
@@ -164,9 +176,9 @@
 
 - § 25 zákona č. 221/2006 Z. z. v znení zákona č. 371/2013 Z. z.
 
-- 19a) § 42 až 45 zákona č. 475/2005 Z. z. v znení neskorších predpisov.
+- 19a) Zákon č. 278/1993 Z. z. v znení neskorších predpisov.
 
-- § 32 zákona č. 221/2006 Z. z. v znení neskorších predpisov.
+- 19b) § 42 až 45 zákona č. 475/2005 Z. z. v znení neskorších predpisov.
 
 - 20) Zákonník práce.
 

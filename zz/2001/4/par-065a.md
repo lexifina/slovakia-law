@@ -10,7 +10,7 @@
 
 - b) to ustanovuje zákon,
 
-- c) je to na prospech osoby, o ktorej sa vedú osobné údaje a táto osoba dala na poskytnutie súhlas.
+- c) je to v súlade s účelom výkonu väzby a výkonu trestu a osoba, o ktorej sa vedú osobné údaje dala na poskytnutie súhlas.
 
 (4) Zbor poskytne osobné údaje podľa odseku 3 na základe písomnej žiadosti. Ak tak ustanoví medzinárodná zmluva, ktorou je Slovenská republika viazaná, možno na jej základe poskytnúť osobné údaje i bez písomnej žiadosti.
 
@@ -27,3 +27,9 @@
 (7) Zbor môže pri poskytovaní osobných údajov príjemcom určiť obmedzenia vzťahujúce sa k ich ďalšiemu spracúvaniu. Zbor je zároveň viazaný obmedzeniami ďalšieho spracúvania osobných údajov, ktoré uplatnil poskytovateľ pri poskytnutí osobných údajov.
 
 (8) Zbor je oprávnený na plnenie jeho úloh vyhotovovať zvukové, obrazové alebo iné záznamy v chránených objektoch, objektoch súdu, objektoch prokuratúry a v ich okolí a zvukové, obrazové alebo iné záznamy o priebehu služobnej činnosti alebo služobného zákroku. Vyhotovovanie zvukových, obrazových alebo iných záznamov automatickými technickými systémami umiestnenými v objektoch súdu, objektoch prokuratúry, objekte ministerstva alebo objekte, v ktorom sídli Súdna rada Slovenskej republiky, je možné len so súhlasom príslušného súdu, prokuratúry, ministerstva alebo Súdnej rady Slovenskej republiky.
+
+(9) Vyhotovené obrazové záznamy a zvukové záznamy a údaje v rozsahu miesta, času a dátumu záznamu sa vymažú po 30 dňoch od ich vzniku, pokiaľ nie sú použité na účely uvedené v odsekoch 4 a 5.
+
+(10) Zbor je oprávnený odoberať osobám vo výkone trestu biometrické údaje na účel plnenia úloh na úseku boja proti terorizmu a organizovanému zločinu, zabránenia mareniu účelu výkonu trestu odňatia slobody, odhaľovania a objasňovania trestných činov a zabezpečenia ochrany verejného poriadku a bezpečnosti v objektoch, ktorých ochranu zabezpečuje zbor.
+
+(11) Zbor poskytne biometrické údaje podľa odseku 10 na základe písomnej žiadosti oprávnenému orgánu na účely plnenia jeho úloh v rozsahu ustanovenom osobitnými predpismi.<sup>17ha</sup>)

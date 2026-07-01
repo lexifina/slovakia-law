@@ -1,6 +1,6 @@
-# § 21d Oprávnenie na použitie kamery na služobnej rovnošate a aktivácia uchovania obrazových záznamov a zvukových záznamov
+# § 21d Oprávnenie na použitie telovej kamery a aktivácia uchovania obrazových záznamov a zvukových záznamov
 
-(1) Príslušník zboru je pri plnení úloh vyplývajúcich z tohto zákona oprávnený použiť kameru na služobnej rovnošate na vyhotovovanie obrazových záznamov a zvukových záznamov a aktivovať uchovanie obrazových záznamov a zvukových záznamov
+(1) Príslušník zboru je pri plnení úloh vyplývajúcich z tohto zákona oprávnený použiť telovú kameru na vyhotovovanie obrazových záznamov a zvukových záznamov a aktivovať uchovanie obrazových záznamov a zvukových záznamov
 
 - a) ak obvinený, odsúdený, osoba v detencii umiestnená v detenčnom ústave alebo iná osoba nachádzajúca sa v objekte zboru, objekte detenčného ústavu alebo počas eskorty marí alebo ohrozuje účel výkonu väzby, účel výkonu trestu odňatia slobody, detencie a dopúšťa sa disciplinárneho previnenia, priestupku alebo iného protiprávneho konania alebo existuje dôvodná obava, že sa takéhoto konania môže dopustiť,
 
@@ -10,9 +10,9 @@
 
 - d) pri kontrole na požitie alkoholických nápojov, omamných látok, psychotropných látok, jedov alebo prekurzorov.
 
-(2) Pri služobnom zákroku pod jednotným velením, pri výzve pred použitím donucovacích prostriedkov, pri použití donucovacích prostriedkov a pri dokumentácii mimoriadnej udalosti, počas ktorej došlo k úmrtiu alebo k ujme na zdraví obvineného alebo odsúdeného, je príslušník zboru povinný aktivovať uchovanie obrazových záznamov a zvukových záznamov vyhotovených počas týchto udalostí. Od aktivácie uchovania možno upustiť, ak je ohrozený život alebo zdravie príslušníka zboru alebo inej osoby a vec neznesie odklad a použitie kamery už nie je možné po odpadnutí uvedených prekážok technicky zrealizovať.
+(2) Pri služobnom zákroku pod jednotným velením, pri výzve pred použitím donucovacích prostriedkov, pri použití donucovacích prostriedkov a pri dokumentácii mimoriadnej udalosti, počas ktorej došlo k úmrtiu alebo k ujme na zdraví obvineného alebo odsúdeného, je príslušník zboru povinný aktivovať uchovanie obrazových záznamov a zvukových záznamov vyhotovených počas týchto udalostí. Od aktivácie uchovania možno upustiť, ak je ohrozený život alebo zdravie príslušníka zboru alebo inej osoby a vec neznesie odklad a použitie telovej kamery už nie je možné po odpadnutí uvedených prekážok technicky zrealizovať.
 
-(3) O možnosti aktivácie uchovania obrazových záznamov a zvukových záznamov na účely uvedené v odsekoch 1 a 2 je dotknutá osoba informovaná na prístupnom mieste. Uchovanie obrazových záznamov a zvukových záznamov je aktivované a deaktivované dotykom ruky na kameru. Obrazové záznamy a zvukové záznamy, pri ktorých nedošlo k aktivácii uchovania, sú automaticky vymazané. Uchované obrazové záznamy a zvukové záznamy a údaje v rozsahu miesta, času a dátumu záznamu sa vymažú po 14 dňoch od ich vzniku, pokiaľ nie sú použité na účely uvedené v odsekoch 4 a 5.
+(3) O možnosti aktivácie uchovania obrazových záznamov a zvukových záznamov na účely uvedené v odsekoch 1 a 2 je dotknutá osoba informovaná na prístupnom mieste. Uchovanie obrazových záznamov a zvukových záznamov je aktivované a deaktivované dotykom ruky na telovú kameru. Obrazové záznamy a zvukové záznamy, pri ktorých nedošlo k aktivácii uchovania, sú automaticky vymazané. Uchované obrazové záznamy a zvukové záznamy a údaje v rozsahu miesta, času a dátumu záznamu sa vymažú po 30 dňoch od ich vzniku, pokiaľ nie sú použité na účely uvedené v odsekoch 4 a 5.
 
 (4) Obrazové záznamy a zvukové záznamy uchované podľa odsekov 1 a 2 môžu byť použité ako dôkazné prostriedky pri objasňovaní protiprávneho konania obvinených, odsúdených a iných osôb, ktoré ohrozujú účel výkonu väzby, účel výkonu trestu odňatia slobody alebo rušia poriadok v objektoch súdu, detenčného ústavu, objektoch prokuratúry a v ich blízkosti.
 
