@@ -1,0 +1,3 @@
+# § 67u
+
+Fyzická osoba s ťažkým zdravotným postihnutím, ktorá má zdravotné postihnutie uvedené v prílohe č. 18 podľa tohto zákona v znení účinnom do 31. augusta 2025, sa považuje za fyzickú osobu s ťažkým zdravotným postihnutím, ktorá má zdravotné postihnutie uvedené v prílohe č. 1 podľa tohto zákona v znení účinnom od 1. septembra 2025, najdlhšie do právoplatnosti rozhodnutia o preukaze, rozhodnutia o parkovacom preukaze, integrovaného posudku alebo do právoplatnosti rozhodnutia o zastavení konania o integrovanom posudku z dôvodov ustanovených osobitným predpisom,<sup>55</sup>) ak toto konanie bolo začaté z vlastného podnetu príslušného správneho orgánu.<sup>56</sup>)
