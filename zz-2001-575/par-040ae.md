@@ -1,0 +1,7 @@
+# § 40ae
+
+(1) Pôsobnosť Úradu vlády Slovenskej republiky v oblasti regionálneho rozvoja podľa doterajších všeobecne záväzných právnych predpisov prechádza na Úrad podpredsedu vlády Slovenskej republiky pre investície a informatizáciu.
+
+(2) Ak sa v doterajších právnych predpisoch používa pre oblasť podľa odseku 1 pojem „Úrad vlády Slovenskej republiky“ vo všetkých gramatických tvaroch, rozumie sa tým „Úrad podpredsedu vlády Slovenskej republiky pre investície a informatizáciu“ v príslušnom gramatickom tvare.
+
+(3) V súvislosti s prechodom kompetencie podľa odseku 1 prechádzajú od 1. januára 2019 práva a povinnosti vyplývajúce zo štátnozamestnaneckých vzťahov, z pracovnoprávnych vzťahov a iných právnych vzťahov zamestnancov zabezpečujúcich výkon tejto kompetencie, ako aj práva a povinnosti z iných právnych vzťahov z Úradu vlády Slovenskej republiky na Úrad podpredsedu vlády Slovenskej republiky pre investície a informatizáciu. Majetok štátu, ktorý bol do 31. decembra 2018 v správe Úradu vlády Slovenskej republiky a ktorý slúži na zabezpečenie výkonu kompetencie v oblasti podľa odseku 1, prechádza od 1. januára 2019 do správy Úradu podpredsedu vlády Slovenskej republiky pre investície a informatizáciu. Podrobnosti o prechode týchto práv a povinností a o prechode správy majetku štátu sa upravia dohodou medzi Úradom vlády Slovenskej republiky a Úradom podpredsedu vlády Slovenskej republiky pre investície a informatizáciu, v ktorej sa vymedzí najmä druh a rozsah preberaného majetku, práv a povinností.

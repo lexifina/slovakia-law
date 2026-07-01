@@ -1,0 +1,7 @@
+# § 40al
+
+(1) Pôsobnosť Ministerstva dopravy Slovenskej republiky v oblasti územného plánovania, výstavby a vyvlastnenia podľa doterajších všeobecne záväzných právnych predpisov prechádza na Úrad pre územné plánovanie a výstavbu Slovenskej republiky.
+
+(2) Ak sa v doterajších právnych predpisoch používa pre oblasť podľa odseku 1 pojem „Ministerstvo dopravy a výstavby Slovenskej republiky“ vo všetkých tvaroch, rozumie sa tým „Úrad pre územné plánovanie a výstavbu Slovenskej republiky“ v príslušnom tvare.
+
+(3) V súvislosti s prechodom kompetencie podľa odseku 1 prechádzajú od 1. januára 2023 práva a povinnosti vyplývajúce zo štátnozamestnaneckých vzťahov, z pracovnoprávnych vzťahov a iných právnych vzťahov zamestnancov zabezpečujúcich výkon tejto kompetencie, ako aj práva a povinnosti z iných právnych vzťahov z Ministerstva dopravy Slovenskej republiky na Úrad pre územné plánovanie a výstavbu Slovenskej republiky. Majetok štátu, ktorý bol k 31. decembru 2022 v správe Ministerstva dopravy Slovenskej republiky a ktorý slúži na zabezpečenie výkonu kompetencie v oblasti podľa odseku 1, prechádza od 1. januára 2023 do správy Úradu pre územné plánovanie a výstavbu Slovenskej republiky. Podrobnosti o prechode týchto práv a povinností a o prechode správy majetku štátu sa upravia dohodou medzi Ministerstvom dopravy Slovenskej republiky a Úradom pre územné plánovanie a výstavbu Slovenskej republiky, v ktorej sa vymedzí najmä druh a rozsah preberaného majetku, práv a povinností.

@@ -1,0 +1,7 @@
+# § 40w
+
+(1) Pôsobnosť Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky v oblasti štátnozamestnaneckých vzťahov a právnych vzťahov pri výkone práce vo verejnom záujme podľa doterajších všeobecne záväzných právnych predpisov prechádza na Úrad vlády Slovenskej republiky.
+
+(2) Ak sa v doterajších právnych predpisoch používa pojem „Ministerstvo práce, sociálnych vecí a rodiny Slovenskej republiky“ vo všetkých gramatických tvaroch, rozumie sa tým „Úrad vlády Slovenskej republiky“ v príslušnom gramatickom tvare pre oblasť podľa odseku 1.
+
+(3) V súvislosti s prechodom kompetencie v oblasti podľa odseku 1 prechádzajú od 1. novembra 2013 práva a povinnosti vyplývajúce zo štátnozamestnaneckých vzťahov, z pracovnoprávnych vzťahov a z iných právnych vzťahov zamestnancov zabezpečujúcich výkon tejto kompetencie, ako aj práva a povinnosti z iných právnych vzťahov z Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky na Úrad vlády Slovenskej republiky. Majetok štátu, ktorý bol do 31. októbra 2013 v správe Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky a ktorý slúži na zabezpečenie výkonu kompetencie v oblasti podľa odseku 1, prechádza od 1. novembra 2013 do správy Úradu vlády Slovenskej republiky. Podrobnosti o prechode týchto práv a povinností a o prechode správy majetku štátu sa upravia dohodou medzi Ministerstvom práce, sociálnych vecí a rodiny Slovenskej republiky a Úradom vlády Slovenskej republiky, v ktorej sa vymedzí najmä druh a rozsah preberaného majetku, práv a povinností.
