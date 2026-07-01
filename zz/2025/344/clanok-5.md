@@ -46,6 +46,18 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - kto neuhradil poplatok za vedenie registra podľa § 63 ods. 5 za päť po sebe nasledujúcich kalendárnych rokov.“.
 
+- 7. V § 79 ods. 1 písmeno l) znie:
+
+- „l)
+
+- viesť zdravotnú dokumentáciu podľa osobitného predpisu;<sup>48</sup>) pri každom poskytnutí zdravotnej starostlivosti vyhotoviť elektronický zdravotný záznam v elektronickej zdravotnej knižke opatrený identifikačným číslom podľa osobitného predpisu,<sup>48a</sup>) ktoré je zároveň povinný uviesť vo finančnom zúčtovaní podľa osobitného predpisu,<sup>48b</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 48a a 48b znejú:
+
+  - „<sup>48a</sup>) § 2 ods. 9 zákona č. 153/2013 Z. z. v znení zákona č. 344/2025 Z. z.
+
+  - <sup>48b</sup>) § 8aa ods. 2 písm. g) zákona č. 581/2004 Z. z. v znení neskorších predpisov.“.
+
 - 9. Za § 102bc sa vkladá § 102bd, ktorý vrátane nadpisu znie:
 
 - „§ 102bd

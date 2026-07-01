@@ -4,6 +4,32 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 
 - 1. V § 6 ods. 2 písm. e) sa vypúšťajú slová „[odsek 13 písm. b)]“.
 
+- 2. V § 6 sa vypúšťa odsek 11.
+
+  - Doterajšie odseky 12 až 14 sa označujú ako odseky 11 až 13.
+
+- 3. V § 6 ods. 12 sa slová „odseku 12“ nahrádzajú slovami „odseku 11“.
+
+- 4. V § 8 ods. 1 prvá veta znie:
+
+- „Zdravotná poisťovňa uhrádza na základe zmlúv uzatvorených podľa § 7 poskytnutú zdravotnú starostlivosť v rozsahu a za podmienok ustanovených osobitnými predpismi<sup>25</sup>) podľa dohodnutej ceny [§ 7 ods. 9 písm. c) alebo písm. e)], ak tento zákon neustanovuje inak.“.
+
+  - Poznámka pod čiarou k odkazu 25 znie:
+
+  - „<sup>25</sup>) Napríklad zákon č. 577/2004 Z. z. v znení neskorších predpisov, § 79 ods. 1 písm. l) zákona č. 578/2004 Z. z. v znení zákona č. 344/2025 Z. z., § 2 ods. 9 zákona č. 153/2013 Z. z. v znení zákona č. 344/2025 Z. z., § 8aa ods. 2 zákona č. 581/2004 Z. z. v znení neskorších predpisov.“.
+
+- 5. V § 8aa ods. 2 sa za písmeno f) vkladá nové písmeno g), ktoré znie:
+
+- „g)
+
+- identifikačné číslo elektronického zdravotného záznamu pridelené informačným systémom poskytovateľa zdravotnej starostlivosti,<sup>27aaca</sup>)“.
+
+  - Doterajšie písmená g) až n) sa označujú ako písmená h) až o).
+
+  - Poznámka pod čiarou k odkazu 27aaca znie:
+
+  - „<sup>27aaca</sup>) § 2 ods. 9 zákona č. 153/2013 Z. z. v znení zákona č. 344/2025 Z. z.“.
+
 - 6. Poznámka pod čiarou k odkazu 27da znie:
 
 - „<sup>27da</sup>) § 5 ods. 15 zákona č. 153/2013 Z. z. v znení zákona č. 344/2025 Z. z.“.
