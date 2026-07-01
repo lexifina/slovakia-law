@@ -1,0 +1,1 @@
+Príloha č. 3 k vyhláške č. 147/2024 Z. z. [Bilancia fyzických tokov plynu prevádzkovateľa prepravnej siete na výstupe z prepravnej siete](../assets/b75c7854c48ebf6dcf40594721b4f5952a4ba7a2d3500211d425ac290ded9a1d.pdf)

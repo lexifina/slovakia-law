@@ -1,0 +1,1 @@
+Príloha č. 8 k vyhláške č. 147/2024 Z. z. [Bilancia fyzických tokov plynu prevádzkovateľa distribučnej siete na vstupe do distribučnej siete](../assets/7e90b6c14f06697e419e1f0049bd41ca8e649ec84c0299b0543a80f584db0696.pdf)

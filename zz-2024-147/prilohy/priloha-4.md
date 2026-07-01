@@ -1,0 +1,1 @@
+Príloha č. 4 k vyhláške č. 147/2024 Z. z. [Bilancia prepravných kapacít prevádzkovateľa prepravnej siete na výstupe z prepravnej siete](../assets/3c7598f77da053a55681e5031ff24929a91848e930f2d01120e3727f79eb310b.pdf)

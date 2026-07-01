@@ -1,0 +1,1 @@
+Príloha č. 14 k vyhláške č. 147/2024 Z. z. [Prehľad o hmotnom majetku a nehmotnom majetku využívanom na distribúciu plynu a odpisoch](../assets/3c6ea6f1121e7c9bafa8384b57a019c2d1c65bc767ff7485e361819bbc62ded0.pdf)

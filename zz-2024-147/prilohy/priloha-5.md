@@ -1,0 +1,1 @@
+Príloha č. 5 k vyhláške č. 147/2024 Z. z. [Bilancia prepravných kapacít prevádzkovateľa prepravnej siete na vstupe do prepravnej siete](../assets/2a6f124652d49f2b521a4893c306c7177f8e37733ee1e4a924aa75dd547f5ac3.pdf)

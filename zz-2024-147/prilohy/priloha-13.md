@@ -1,0 +1,1 @@
+Príloha č. 13 k vyhláške č. 147/2024 Z. z. [Údaje potrebné na určenie osobných nákladov za distribúciu plynu - priemerné ročné osobné náklady na zamestnanca](../assets/e509a3bd52081ba6531c6142dac3dbf544b51e9381151f6c9fe8dc1cc69dcea3.pdf)
