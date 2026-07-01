@@ -2,7 +2,7 @@
 
 (1) Konanie vo veciach súvisiacich s výkonom väzby v prvom stupni uskutočňuje a rozhoduje v ňom príslušník zboru alebo zamestnanec zboru určený podľa tohto zákona (ďalej len „oprávnený orgán“).
 
-(2) V konaní podľa § 60a ods. 1 písm. a) a b) (ďalej len „disciplinárne konanie“) je oprávneným orgánom v rozsahu ustanovenej disciplinárnej právomoci samostatný referent režimu a samostatný referent režimu špecialista a v konaní podľa § 60a ods. 1 písm. a) aj riaditeľ ústavu a vedúci oddelenia.
+(2) V konaní podľa § 60a ods. 1 písm. a) a b) (ďalej len „disciplinárne konanie“) je oprávneným orgánom samostatný referent režimu.
 
 (3) V konaní o náhrade škody, ak škoda neprevyšuje trojnásobok minimálnej mzdy,<sup>21</sup>) je oprávneným orgánom určený príslušník zboru alebo zamestnanec zboru. O škode prevyšujúcej trojnásobok minimálnej mzdy rozhoduje súd.
 
@@ -10,7 +10,7 @@
 
 (5) V konaní o zvýšených trovách je oprávneným orgánom určený príslušník zboru alebo zamestnanec zboru.
 
-(6) V konaní podľa § 60a ods. 1 písm. f) je oprávneným orgánom určený príslušník zboru.
+(6) V konaní podľa § 60a ods. 1 písm. f) je oprávneným orgánom samostatný referent režimu.
 
 (7) Miestna príslušnosť oprávneného orgánu je určená v konaní podľa
 

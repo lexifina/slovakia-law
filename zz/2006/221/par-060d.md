@@ -7,3 +7,5 @@
 (3) Ak § 40a ods. 5 neustanovuje inak, oprávnený orgán je povinný rozhodnúť vo veci do 30 dní od začatia konania; vo zvlášť zložitých prípadoch rozhodne najneskôr do 60 dní.
 
 (4) Konanie je začaté dňom, keď oprávnený orgán urobil voči účastníkovi konania prvý úkon. Písomné oznámenie o začatí konania sa nevydáva.
+
+(5) Konanie o náhrade škody sa nezačne, ak škoda v jednotlivom prípade nepresiahne 20 eur.

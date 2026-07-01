@@ -14,7 +14,7 @@
 
 (7) Odvolacím orgánom je
 
-- a) v disciplinárnom konaní vedúci oddelenia výkonu väzby,
+- a) v disciplinárnom konaní a v konaní o zhabaní veci vedúci oddelenia výkonu väzby,
 
 - b) v konaní o náhrade škody riaditeľ ústavu alebo generálny riaditeľ v prípade škody, ktorá vznikla na majetku štátu v správe generálneho riaditeľstva,
 
@@ -26,7 +26,7 @@
 
 (9) Odvolací orgán preskúma napadnuté rozhodnutie v celom rozsahu; ak je to nevyhnutné, doterajšie konanie doplní, prípadne zistené nedostatky odstráni a
 
-- a) ak sú na to dôvody, rozhodnutie zmení v prospech obvineného alebo zruší,
+- a) ak sú na to dôvody, rozhodnutie zmení alebo zruší, pričom v disciplinárnom konaní rozhodnutie zmení len v prospech obvineného,
 
 - b) odvolanie zamietne a rozhodnutie potvrdí,
 

@@ -36,15 +36,13 @@
 
 - 11c) Zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 12) § 2 písm. d) zákona č. 475/2005 Z. z. v znení zákona č. 370/2013 Z. z.
-
 - 12a) § 27 zákona č. 324/2011 Z. z.
 
 - 12b) § 12 zákona č. 180/2014 Z. z. o podmienkach výkonu volebného práva a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 13) § 5 ods. 5 zákona č. 324/2011 Z. z.
 
-- 13aa) § 65a ods. 2 zákona č. 4/2001 Z. z. v znení neskorších predpisov.
+- 13a) Napríklad § 30 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení zákona č. 80/2025 Z. z., § 13 ods. 2 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov, § 29 zákona č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 13b) § 5 písm. a) a b) zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení zákona č. 519/2007 Z. z.
 
@@ -60,7 +58,7 @@
 
 - 15) Napríklad § 30 zákona č. 328/2002 Z. z., § 13 ods. 2 zákona č. 461/2003 Z. z. v znení neskorších predpisov, § 29 zákona č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení zákona č. 183/2014 Z. z.
 
-- 15a) § 5 zákona č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
+- 15a) § 5 ods. 1 zákona č. 283/2002 Z. z. o cestovných náhradách v znení zákona č. 297/2024 Z. z.
 
 - 15b) § 2 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
 
@@ -75,6 +73,10 @@
 - 17) § 2 písm. a) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 17a) § 2 písm. f) a g) zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení zákona č. 349/2011 Z. z.
+
+- 17aa) Napríklad zákon Slovenskej národnej rady č. 71/1992 Zb. o súdnych poplatkoch a poplatku za výpis z registra trestov v znení neskorších predpisov, § 7a vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 665/2005 Z. z., ktorou sa vykonávajú niektoré ustanovenia zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení vyhlášky č. 25/2017 Z. z.
+
+- 18) § 33 ods. 1 písm. b) zákona č. 4/2001 Z. z.
 
 - 19) Zákon č. 324/2011 Z. z. v znení zákona č. 547/2011 Z. z.
 
@@ -95,6 +97,12 @@
 - 22b) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov, zákon č. 65/2001 Z. z. v znení neskorších predpisov.
 
 - 22c) Zákon č. 67/2010 Z. z. o podmienkach uvedenia chemických látok a chemických zmesí na trh a o zmene a doplnení niektorých zákonov (chemický zákon) v znení zákona č. 339/2012 Z. z.
+
+- 22d) § 66 až § 67 ods. 3, § 68 až 73, § 74 ods. 2 až § 84 zákona č. 233/1995 Z. z. v znení neskorších predpisov.
+
+- § 131 ods. 2 zákona č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
+
+- 22e) § 5 ods. 1 písm. e) zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
 - 24) Napríklad zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov, zákon č. 4/2001 Z. z. v znení neskorších predpisov.
 
@@ -134,6 +142,12 @@
 
 - 40a) § 116 Občianskeho zákonníka.
 
+- 40aa) Napríklad zákon č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a o registri obyvateľov Slovenskej republiky v znení neskorších predpisov, zákon č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 404/2011 Z. z. v znení neskorších predpisov.
+
+- 40ab) § 1 ods. 3 zákona č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratívnej záťaže využívaním informačných systémov verejnej správy a o zmene a doplnení niektorých zákonov (zákon proti byrokracii) v znení neskorších predpisov.
+
+- 40ac) Zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov v znení neskorších predpisov.
+
 - 41) Napríklad § 41 zákona č. 576/2004 Z. z., § 48 zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 30 zákona č. 131/2010 Z. z. o pohrebníctve.
 
 - 42) § 18 zákona č. 153/2001 Z. z. o prokuratúre.
@@ -145,6 +159,8 @@
 - 43b) § 72 až 80 zákona č. 71/1967 Zb. v znení neskorších predpisov.
 
 - 43c) § 91 ods. 4 písm. f) zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 43d) Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
 
 - 44) Zákon č. 256/1998 Z. z. o ochrane svedka a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 

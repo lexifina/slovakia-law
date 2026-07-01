@@ -6,7 +6,7 @@
 
 (3) V odôvodnení rozhodnutia sa uvedie, ktoré skutočnosti boli podkladom na rozhodnutie, akými úvahami bol vedený oprávnený orgán pri hodnotení dôkazov a pri použití právnych predpisov, na základe ktorých rozhodoval.
 
-(4) Poučenie o odvolaní obsahuje údaj, či je rozhodnutie konečné, alebo či sa možno proti nemu odvolať, v akej lehote a u ktorého oprávneného orgánu.
+(4) Poučenie o odvolaní obsahuje údaj, či je rozhodnutie konečné, alebo či sa možno proti nemu odvolať, v akej lehote a u ktorého oprávneného orgánu. Toto poučenie obsahuje aj údaj, či rozhodnutie možno preskúmať súdom.
 
 (5) Chyby v písaní, počítaní a iné zrejmé nesprávnosti v písomnom vyhotovení rozhodnutia oprávnený orgán aj bez návrhu opraví a vyrozumie o tom účastníka konania.
 
