@@ -1,0 +1,3 @@
+# § 17a Prechodné ustanovenie súvisiace s úpravou zániku práv tretích osôb
+
+Zápis vlastníckeho práva držiteľa osvedčenia o významnej investícii k nehnuteľnostiam do katastra nehnuteľností spôsobí zánik práv tretích osôb podľa §12a ods. 1 len v prípade, ak k zápisu vlastníckeho práva držiteľa osvedčenia o významnej investícii k nehnuteľnostiam do katastra nehnuteľností dôjde v súvislosti s osvedčením o významnej investícii vydaným po 1. marci 2025. Vydanie osvedčenia o významnej investícii spôsobí zánik práv tretích osôb podľa § 12a ods. 2 len v prípade, ak k jeho vydaniu došlo po 1. marci 2025.
