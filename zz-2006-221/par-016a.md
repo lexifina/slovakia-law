@@ -1,0 +1,3 @@
+# § 16a Vychádzka
+
+Obvinený má právo zúčastniť sa denne na vychádzke v určenom otvorenom priestore ústavu v trvaní najmenej jednej hodiny. Do doby trvania vychádzky sa započítava len čas strávený v priestoroch určených na vychádzku. Vychádzku môže v odôvodnených prípadoch predĺžiť, obmedziť alebo zrušiť riaditeľ ústavu alebo ním určený príslušník zboru. Príslušník zboru zabezpečujúci dozor alebo dohľad preruší alebo predčasne ukončí vychádzku, ak obvinený napriek upozorneniu porušuje tento zákon, ústavný poriadok, ohrozuje bezpečnosť v ústave alebo je ohrozená bezpečnosť alebo zdravie osôb v priestore vychádzok. O predčasnom ukončení vychádzky na základe rozhodnutia príslušníka zboru sa vyhotoví úradný záznam.
