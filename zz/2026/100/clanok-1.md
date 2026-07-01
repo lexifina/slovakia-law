@@ -32,7 +32,45 @@ Zákon č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektor
 
   - Poznámka pod čiarou k odkazu 27 sa vypúšťa.
 
+- 4. V § 23 sa za odsek 2 vkladá nový odsek 3, ktorý znie:
+
+- „(3)
+
+- Za konflikt záujmov sa nepovažuje najmä, ak
+
+- a)
+
+- od skončenia predchádzajúcej funkcie zainteresovanej osoby alebo od predchádzajúceho zamestnania uplynuli viac ako tri roky a zainteresovaná osoba už nemá finančný záujem, ekonomický záujem alebo osobný záujem súvisiaci s predchádzajúcou funkciou alebo predchádzajúcim zamestnaním; minulý finančný záujem, ekonomický záujem alebo osobný záujem zainteresovanej osoby je relevantný, ak má zainteresovaná osoba naďalej záujem vyplývajúci z predchádzajúcej funkcie alebo predchádzajúceho zamestnania vo vzťahu k hospodárskemu subjektu, ktorý sa zúčastňuje prípravných trhových konzultácií, záujemcovi, uchádzačovi, účastníkovi alebo dodávateľovi,
+
+- b)
+
+- ide o všeobecnú interakciu cez sociálne siete, najmä pasívnu interakciu alebo komunitnú interakciu,
+
+- c)
+
+- ide o všeobecné spoločenské vzťahy, ktoré nezakladajú finančný záujem, ekonomický záujem alebo iný osobný záujem.“.
+
+  - Doterajšie odseky 3 až 5 sa označujú ako odseky 4 až 6.
+
+- 5. V § 40 odsek 4 znie:
+
+- „(4)
+
+- Verejný obstarávateľ alebo obstarávateľ môže písomne požiadať uchádzača alebo záujemcu o vysvetlenie alebo doplnenie dokladov vrátane jednotného európskeho dokumentu, ak tieto slúžia výlučne na preukázanie splnenia podmienok účasti a nie sú predmetom hodnotenia ponúk, a ak tieto doklady chýbajú, sú neúplné alebo vykazujú nedostatky, pričom postupuje v súlade s princípmi rovnakého zaobchádzania a transparentnosti. Žiadosť obsahuje najmä označenie chýbajúceho dokladu alebo údaja alebo opis nejasnosti. Vysvetlením alebo doplnením možno preukázať aj skutočnosti, ktoré nastali po uplynutí lehoty na predkladanie ponúk alebo žiadostí o účasť, ak verejný obstarávateľ alebo obstarávateľ v súťažných podkladoch neurčí inak; ak vysvetlenie alebo doplnenie spočíva v nahradení inej osoby, subdodávateľa, technikov, technických orgánov alebo osôb určených na plnenie zmluvy alebo koncesnej zmluvy alebo riadiacich zamestnancov, možno skutočnosti týkajúce sa novej osoby preukázať najneskôr ku dňu jej nahradenia. Ak verejný obstarávateľ alebo obstarávateľ neurčí dlhšiu lehotu, uchádzač alebo záujemca doručí vysvetlenie alebo doplnenie do
+
+- a)
+
+- dvoch pracovných dní odo dňa odoslania žiadosti, ak sa komunikácia uskutočňuje prostredníctvom elektronických prostriedkov,
+
+- b)
+
+- piatich pracovných dní odo dňa doručenia žiadosti, ak sa komunikácia uskutočňuje inak ako podľa písmena a).“.
+
 - 6. V § 40 ods. 5 písm. e) a v § 41 ods. 2 sa slová „s ktorým nemá Slovenská republika alebo Európska únia uzavretú medzinárodnú zmluvu zaručujúcu“ nahrádzajú slovami „ktorý nie je zmluvnou stranou Dohody o vládnom obstarávaní<sup>32aa</sup>) alebo inej medzinárodnej zmluvy, ktorou je Európska únia viazaná a ktorá zaručuje“ a za slovami „Slovenskej republike“ sa vypúšťa bodkočiarka a slová „verejný obstarávateľ alebo obstarávateľ musí písomne požiadať uchádzača alebo záujemcu, ak má iná osoba sídlo v treťom štáte, alebo ak ide o zákazku, o ktorých to ustanoví vláda nariadením.“.
+
+- 7. V § 40 ods. 6 písm. h) sa vypúšťa slovo „predložených“.
+
+- 8. V § 51 ods. 4 sa slová „jedného roka“ nahrádzajú slovami „troch rokov“.
 
 - 9. V § 166 ods. 1 a 2 a v § 184t sa slová „§ 167 ods. 3“ nahrádzajú slovami „§ 167 ods. 4“.
 
@@ -53,6 +91,12 @@ Zákon č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektor
 - Ak ide o rozhodnutie vydané v námietkovom konaní, predseda úradu môže začať konanie o preskúmaní právoplatného rozhodnutia najneskôr do troch mesiacov odo dňa právoplatnosti tohto rozhodnutia. Predseda úradu nemôže začať konanie o preskúmaní právoplatného rozhodnutia úradu o námietkach na základe skutočností uvedených v podnete na preskúmanie tohto právoplatného rozhodnutia, ak bol podnet na preskúmanie právoplatného rozhodnutia úradu o námietkach doručený úradu po uplynutí 30 dní odo dňa právoplatnosti rozhodnutia úradu.“.
 
   - Doterajšie odseky 2 až 6 sa označujú ako odseky 3 až 7.
+
+- 13. V § 182 ods. 2 písm. f) sa slová „§ 23 ods. 5“ nahrádzajú slovami „§ 23 ods. 1 alebo ods. 6 a toto porušenie malo alebo mohlo mať vplyv na výsledok verejného obstarávania“.
+
+- 14. V § 182 ods. 3 písm. g) sa slová „§ 23 ods. 3“ nahrádzajú slovami „§ 23 ods. 4“ a slová „§ 23 ods. 4“ sa nahrádzajú slovami „§ 23 ods. 5“.
+
+- 15. V § 182a ods. 1 sa slová „§ 23 ods. 3“ nahrádzajú slovami „§ 23 ods. 4“ a slová „§ 23 ods. 4“ sa nahrádzajú slovami „§ 23 ods. 5“.
 
 - 16. V § 184q ods. 3 písmeno a) znie:
 
@@ -266,4 +310,24 @@ Zákon č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektor
 
 - (4)
 
-- Ak rozhodnutie úradu o námietkach nadobudlo právoplatnosť do dňa účinnosti tohto zákona, predseda úradu pri preskúmaní právoplatného rozhodnutia úradu podľa § 177 postupuje podľa predpisov účinných do dňa účinnosti tohto zákona.“.
+- Ak rozhodnutie úradu o námietkach nadobudlo právoplatnosť do dňa účinnosti tohto zákona, predseda úradu pri preskúmaní právoplatného rozhodnutia úradu podľa § 177 postupuje podľa predpisov účinných do dňa účinnosti tohto zákona.
+
+- § 187y
+
+- Prechodné ustanovenia k úpravám účinným od 1. júla 2026
+
+- (1)
+
+- Postup zadávania zákazky a postup zadávania koncesie, pri ktorých bolo oznámenie o vyhlásení verejného obstarávania, oznámenie použité ako výzva na súťaž alebo výzva na predkladanie ponúk odoslané na uverejnenie do 30. júna 2026 sa dokončia podľa predpisov účinných do 30. júna 2026.
+
+- (2)
+
+- Postup zadávania zákazky preukázateľne začatý do 30. júna 2026, pri ktorom sa podľa predpisov účinných do 30. júna 2026 nevyžadovalo oznámenie o vyhlásení verejného obstarávania, oznámenie použité ako výzva na súťaž alebo výzva na predkladanie ponúk, sa dokončí podľa predpisov účinných do 30. júna 2026.
+
+- (3)
+
+- Súťaž návrhov, pri ktorej bolo oznámenie o vyhlásení súťaže návrhov odoslané na uverejnenie do 30. júna 2026, sa dokončí podľa predpisov účinných do 30. júna 2026.
+
+- (4)
+
+- Zadávanie zákaziek v rámci dynamického nákupného systému, ktoré bolo preukázateľne začaté do 30. júna 2026, sa dokončí podľa predpisov účinných do 30. júna 2026.“.
