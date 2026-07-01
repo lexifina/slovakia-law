@@ -1,0 +1,7 @@
+# § 45f Prechodné ustanovenia k úpravám účinným od 1. novembra 2020
+
+(1) Ustanovenie § 29 ods. 7 sa vzťahuje na zmluvy o poskytovaní služieb uzatvorené po 1. novembri 2020. Ustanovenie podľa prvej vety a odsekov 2 a 3 sa vzťahujú aj na zmeny zmluvy.
+
+(2) Zmluvy o poskytovaní služieb podľa § 29 ods. 7 uzatvorené pred 1. novembrom 2020 je regulovaný subjekt, ktorý vykonáva regulovanú činnosť v tepelnej energetike alebo vo vodnom hospodárstve, povinný predložiť na schválenie úradu najneskôr do 31. januára 2021. Úrad schváli zmluvu o poskytovaní služieb, ak regulovaný subjekt preukáže, že podmienky zmluvy o poskytovaní služieb zodpovedajú podmienkam obvyklým v bežnom obchodnom styku, inak úrad zmluvu o poskytovaní služieb neschváli. Úrad pred rozhodnutím o neschválení zmluvy o poskytovaní služieb určí lehotu na odstránenie nedostatkov, ak je ich odstránenie možné. Dňom právoplatnosti rozhodnutia úradu o neschválení zmluvy o poskytovaní služieb vzniká účastníkom zmluvy právo odstúpiť od zmluvy.
+
+(3) Povinnosť podľa odseku 2 sa nevzťahuje na zmluvu o poskytovaní služieb uzatvorenú na základe rámcovej dohody, ktorá bola obstaraná za použitia postupov podľa osobitného predpisu.<sup>51</sup>) Povinnosť podľa odseku 2 sa nevzťahuje ani na zmluvu o poskytovaní služieb uzatvorenú regulovaným subjektom, ktorý vykonáva regulovanú činnosť v tepelnej energetike a ktorý v predchádzajúcom kalendárnom roku dodával nadpolovičné množstvo tepla na iné tepelnoenergetické využitie ako na vykurovanie a prípravu teplej úžitkovej vody.
