@@ -1,0 +1,1 @@
+Príloha č. 12 k vyhláške č. 154/2024 Z. z. [Podklady k návrhu ceny dodávateľa elektriny pre zraniteľných odberateľov v domácnosti](../assets/51e211a28bac5f25bcf5206f2bd5e29a808d36e5da1c9c96c2cc7dbc23091e6f.pdf)

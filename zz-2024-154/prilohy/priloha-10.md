@@ -1,0 +1,1 @@
+Príloha č. 10 k vyhláške č. 154/2024 Z. z. [Podklady k návrhu ceny za prístup do miestnej distribučnej sústavy a distribúciu elektriny prevádzkovateľa miestnej distribučnej sústavy](../assets/792d9c6fd11e768b4e1f6ed22d89d512b40e5b27bd034444ab33f89195b91ede.pdf)

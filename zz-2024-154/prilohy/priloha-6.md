@@ -1,0 +1,1 @@
+Príloha č. 6 k vyhláške č. 154/2024 Z. z. [Podklady k návrhu ceny za prístup do prenosovej sústavy a prenos elektriny predkladané prevádzkovateľom prenosovej sústavy](../assets/c243f49c3b1ca0c0fe9ab2fee8c8533ed3efefc704888dba586c083d8cddecbe.pdf)

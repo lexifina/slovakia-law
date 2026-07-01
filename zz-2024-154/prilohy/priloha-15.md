@@ -1,0 +1,1 @@
+Príloha č. 15 k vyhláške č. 154/2024 Z. z. [Podklady k návrhu ceny výrobcu elektriny na účel predĺženia podpory doplatkom](../assets/3c2857b09500586411c61c55a21f4c6f48fcb4dd136578bdccc204315203c449.pdf)
