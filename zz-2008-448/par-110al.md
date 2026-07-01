@@ -1,0 +1,3 @@
+# § 110al Prechodné ustanovenie k úprave účinnej od 1. januára 2018
+
+Príjem z úhrady ošetrovateľskej starostlivosti na základe verejného zdravotného poistenia sa na účely určenia najvyššej sumy úhrady za sociálnu službu podľa § 72 a výšky finančného príspevku na prevádzku poskytovanej sociálnej služby podľa § 77 prvýkrát zohľadní podľa § 71 ods. 4 účinného od 1. januára 2018 na rozpočtový rok 2019. Skutočný príjem neverejného poskytovateľa sociálnej služby z úhrady ošetrovateľskej starostlivosti na základe verejného zdravotného poistenia sa zohľadní pri zúčtovaní finančného príspevku na prevádzku poskytovanej sociálnej služby za rozpočtový rok 2018.

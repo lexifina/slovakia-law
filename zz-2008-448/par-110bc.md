@@ -1,0 +1,3 @@
+# § 110bc
+
+Za ekonomicky oprávnený výdavok podľa § 72 ods. 6 v znení účinnom od 1. januára 2026 sa v rozpočtovom roku 2026 považuje aj odpis hmotného majetku a nehmotného majetku podľa účtovných predpisov, o ktorom poskytovateľ sociálnej služby účtuje a odpisuje ho ako účtovná jednotka;<sup>33c</sup>) odpis hmotného majetku, ktorým sú novoobstarané stavby, byty a nebytové priestory užívané na účely poskytovania sociálnych služieb v zariadeniach alebo ich technické zhodnotenie, je najviac vo výške obvyklého nájomného, za aké sa v tom čase a na tom mieste prenechávajú do nájmu na dohodnutý účel veci toho istého druhu alebo porovnateľné veci.

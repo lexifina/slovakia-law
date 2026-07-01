@@ -1,0 +1,3 @@
+# § 110s
+
+Poskytovateľ sociálnej služby, ktorý poskytuje sociálnu službu v zariadení k 31. decembru 2013 a ktorý zmení miesto alebo druh poskytovanej sociálnej služby v rámci realizácie Stratégie deinštitucionalizácie systému sociálnych služieb a náhradnej starostlivosti v Slovenskej republike, schválenej vládou Slovenskej republiky, nie je povinný splniť povinnosť dodržiavať maximálny počet prijímateľov sociálnej služby na jedného svojho zamestnanca a minimálny percentuálny podiel odborných zamestnancov na celkovom počte zamestnancov podľa prílohy č. 1 počas realizácie schváleného transformačného plánu.

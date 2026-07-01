@@ -1,0 +1,5 @@
+# § 23c Rozvoj rodičovských zručností
+
+(1) Rozvoj rodičovských zručností je odborná činnosť zameraná na podporu zdravého fyzického a psychického vývinu dieťaťa, ktorá je poskytovaná tehotnej žene, rodičovi dieťaťa alebo fyzickej osobe, ktorá má dieťa zverené do osobnej starostlivosti na základe rozhodnutia súdu, ak sú v nepriaznivej sociálnej situácii podľa § 2 ods. 2 písm. a), b), g) až i). Rozvoj rodičovských zručností podľa prvej vety sa poskytuje od potvrdenia tehotenstva lekárom so špecializáciou v odbore gynekológia a pôrodníctvo do začatia povinného predprimárneho vzdelávania dieťaťa.
+
+(2) Rozvoj rodičovských zručností ako samostatnú odbornú činnosť možno vykonávať ambulantnou sociálnou službou a terénnou formou sociálnej služby prostredníctvom terénneho programu. Poskytovanie terénnej formy sociálnej služby má prednosť pred ambulantnou sociálnou službou. Ak terénna forma sociálnej služby dostatočne nerieši nepriaznivú sociálnu situáciu, poskytuje sa aj ambulantná sociálna služba.

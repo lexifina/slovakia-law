@@ -1,0 +1,7 @@
+# § 110x Prechodné ustanovenia k úpravám účinným od 15. decembra 2015
+
+(1) Ustanovenie § 110a ods. 3 neplatí od 15. decembra 2015 pre osoby, ktoré podali žiadosť o zápis do registra po 14. decembri 2015 podľa zákona účinného od 15. decembra 2015; to sa nevzťahuje na poskytovateľa sociálnej služby, ktorý po 14. decembri 2015 postupuje podľa § 110w. Ustanovenie § 110k sa od 15. decembra 2015 neuplatňuje.
+
+(2) Povinnosť dodržiavať maximálny počet prijímateľov sociálnej služby na jedného svojho zamestnanca a minimálny percentuálny podiel odborných zamestnancov na celkovom počte zamestnancov podľa prílohy č. 1 je poskytovateľ sociálnej služby, ktorý poskytoval sociálnu službu podľa zákona účinného do 31. decembra 2008 a ktorý po 14. decembri 2015 postupuje podľa § 110w, povinný splniť do 31. decembra 2017; ak ide o poskytovateľa sociálnej služby v domove sociálnych služieb s celoročnou pobytovou sociálnou službou, povinnosť dodržiavať maximálny počet prijímateľov sociálnej služby na jedného svojho zamestnanca a minimálny percentuálny podiel odborných zamestnancov na celkovom počte zamestnancov sa posudzuje podľa prílohy č. 1 v znení účinnom do 31. decembra 2013.
+
+(3) Konanie vo veci zápisu do registra poskytovateľa sociálnej služby postupujúceho podľa § 110w začaté pred 15. decembrom 2015 podľa zákona účinného do 14. decembra 2015, ktoré nebolo skončené do 14. decembra 2015, sa dokončí podľa zákona účinného od 15. decembra 2015.
