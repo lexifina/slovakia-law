@@ -68,6 +68,34 @@
 
 - 13a) Nariadenie vlády Slovenskej republiky č. 75/1993 Z. z., ktorým sa podrobnejšie upravuje postup pri uplatňovaní a vyporiadaní reštitučných nárokov k poľnohospodárskemu majetku.
 
+- 13aa) § 41 až 44 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- § 6 zákona č. 61/2015 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 13ab) Napríklad § 39a zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 13ac) § 11 ods. 2 zákona č. 136/2000 Z. z. o hnojivách v znení neskorších predpisov.
+
+- § 9 ods. 2 zákona č. 271/2005 Z. z. o výrobe, uvádzaní na trh a používaní krmív (krmivársky zákon).
+
+- § 8 ods. 3 zákona č. 184/2006 Z. z. o pestovaní geneticky modifikovaných rastlín v poľnohospodárskej výrobe v znení zákona č. 78/2008 Z. z.
+
+- § 4 zákona č. 597/2006 Z. z. o pôsobnosti orgánov štátnej správy v oblasti registrácie odrôd pestovaných rastlín a uvádzaní množiteľského materiálu pestovaných rastlín na trh v znení zákona č. 467/2008 Z. z.
+
+- § 19 zákona č. 202/2009 Z. z. o právnej ochrane odrôd rastlín.
+
+- § 37 ods. 3 zákona č. 313/2009 Z. z. o vinohradníctve a vinárstve v znení neskorších predpisov.
+
+- § 4 zákona č. 405/2011 Z. z. o rastlinolekárskej starostlivosti a o zmene zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení zákona č. 161/2024 Z. z.
+
+- § 4 zákona č. 387/2013 Z. z. o pomocných prípravkoch v ochrane rastlín a o zmene a doplnení niektorých zákonov.
+
+- 13ad) §15, § 16 a § 23b ods. 1 písm. a) a b) zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
+
+- 13ae) § 211 ods. 1 Civilného mimosporového poriadku.
+
+- 13af) § 203 Civilného mimosporového poriadku.
+
 - 13b) Občiansky zákonník.
 
 - Zákon č. 265/1992 Zb. o zápisoch vlastníckych a iných vecných práv k nehnuteľnostiam. Zákon Slovenskej národnej rady č. 266/1992 Zb. o katastri nehnuteľností v Slovenskej republike.
