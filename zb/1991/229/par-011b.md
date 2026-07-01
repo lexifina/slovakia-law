@@ -1,0 +1,7 @@
+# § 11b
+
+(1) Ak od uplatnenia nároku oprávnenej osoby na náhradu v zákonnej lehote uplynuli tri roky a nárok nie je uspokojený len z dôvodu, že oprávnená osoba neurobila voči pozemkovému fondu úkon potrebný na uspokojenie tohto nároku, pozemkový fond písomne zašle oprávnenej osobe na adresu trvalého pobytu, ktorá je pozemkovému fondu známa,<sup>13ad</sup>) výzvu na urobenie takéhoto úkonu alebo na písomné vzdanie sa nároku do 60 dní odo dňa doručenia výzvy oprávnenej osobe s poučením o právnych následkoch márneho uplynutia tejto lehoty.
+
+(2) Ak pozemkovému fondu nie je známa adresa trvalého pobytu oprávnenej osoby podľa odseku 1, pozemkový fond na svojom webovom sídle zverejní na dobu šiestich mesiacov výzvu s poučením podľa odseku 1, v ktorej uvedie meno, priezvisko, rodné priezvisko a dátum narodenia oprávnenej osoby. Uplynutím doby zverejnenia výzvy podľa prvej vety sa výzva považuje za doručenú oprávnenej osobe. Pozemkový fond zastaví zverejnenie osobných údajov oprávnenej osoby, ktorá pred uplynutím doby zverejnenia urobí voči pozemkovému fondu úkon potrebný na uspokojenie jej nároku alebo sa vzdá nároku.
+
+(3) Ak oprávnená osoba uvedená v odseku 1, ktorej sa má poskytnúť náhrada v peniazoch, neurobí úkon potrebný na uspokojenie nároku ani sa písomne nevzdá nároku do 60 dní odo dňa doručenia výzvy pozemkového fondu alebo od skončenia zverejnenia výzvy podľa odseku 2 alebo ak sa pozemkovému fondu vráti neprevzatá náhrada v peniazoch, pozemkový fond uloží náhradu v peniazoch na osobitný účet; správcom náhrady v peniazoch je pozemkový fond.
