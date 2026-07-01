@@ -6,7 +6,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z.
 
     - a) Diplom, certifikát a iný doklad o kvalifikácii, ktorý vydal príslušný orgán členského štátu a obsahuje názov dokladu uvedeného v tabuľke č. 1, sa uznáva ako diplom o špecializácii v príslušnom špecializačnom odbore v povolaní lekár získaný v Slovenskej republike podľa tabuľky č. 2:
 
-  - [Príloha č. 3 k zákonu č. 578/2004 Z. z. tabuľky A 1-2](../assets/aab869466265c8cd1469391319ed2dfb1fd0ea761df007f7771e4227da45c409.pdf)
+  - [Príloha č. 3 k zákonu č. 578/2004 Z. z. tabuľky A 1-2](../assets/b4569568b125b1a621cada83f60c9985d21eca07f2fbd90a0189a8582081bed5.pdf)
 
     - b) Ako diplom o špecializácii v príslušnom špecializačnom odbore v povolaní lekár sa uzná aj
 
@@ -70,7 +70,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z.
 
     - c) Diplom, certifikát a iný doklad o kvalifikácii, ktorý vydal príslušný orgán členského štátu, sa uznáva ako diplom o špecializácii v špecializačnom odbore všeobecné lekárstvo v povolaní lekár získaný v Slovenskej republike podľa tabuľky č. 3:
 
-  - [Príloha č. 3 k zákonu č. 578/2004 Z. z. tabuľka A3](../assets/aa189f7d3f32ba4133cb935a3f730edd6e66afe6cad3800ec49bac7e75b9dc01.pdf)
+  - [Príloha č. 3 k zákonu č. 578/2004 Z. z. tabuľka A3](../assets/6d595ccb8f1f513395e4aa1fd452f381bb9a7cce27041771f4f9eece2cc07763.pdf)
 
     - d) Ako doklad o špecializácii v špecializačnom odbore všeobecné lekárstvo v povolaní lekár sa uzná aj doklad, z ktorého vyplýva, že osoba nie je držiteľom dokladu uvedeného v tabuľke č. 3, ale je držiteľom dokladu vydaného príslušným orgánom členského štátu potvrdzujúcim držiteľovo právo na výkon špecializovaných pracovných činností v špecializačnom odbore všeobecné lekárstvo a že má právo vykonávať tieto činnosti v rámci vnútroštátneho systému sociálneho zabezpečenia tohto štátu pred
 
@@ -88,7 +88,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z.
 
     - a) Diplom, certifikát a iný doklad o kvalifikácii, ktorý vydal príslušný orgán členského štátu a obsahuje názov dokladu uvedeného v tabuľke č. 1, sa uznáva ako diplom o špecializácii v povolaní zubný lekár získaný v Slovenskej republike v odbore čeľustná ortopédia:
 
-  - [Príloha č. 3 k zákonu č. 578/2004 Z. z. tabuľka B1](../assets/2dbaff2a6ab58df2f4be75c6496370b623b171a4133ca78c003cbe9fcadd9bde.pdf)
+  - [Príloha č. 3 k zákonu č. 578/2004 Z. z. tabuľka B1](../assets/699535523536889135cb3e12111f21a6d93514248df4eddbe99c979f3eb5c1e3.pdf)
 
     - aa) ako diplom o špecializácii v špecializačnom odbore čeľustná ortopédia v povolaní zubný lekár sa uzná aj
 
@@ -128,7 +128,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z.
 
     - b) Diplom, certifikát a iný doklad o kvalifikácii, ktorý vydal príslušný orgán členského štátu a obsahuje názov dokladu uvedeného v tabuľke č. 2, sa uznáva ako diplom o špecializácii v povolaní zubný lekár získaný v Slovenskej republike v odbore maxilofaciálna chirurgia:
 
-  - [Príloha č. 3 k zákonu č. 578/2004 Z. z. tabuľka č. B2](../assets/eb47aa424a1ec3b31e1a9abe74f8b0f08aa7d5c16b8274d68013b4d672cc0f6f.pdf)
+  - [Príloha č. 3 k zákonu č. 578/2004 Z. z. tabuľka č. B2](../assets/e03647dd4a9e2e822e7e133d67bf9dda73861f7173b36127b11d99c313569bc4.pdf)
 
     - ba) ako diplom o špecializácii v špecializačnom odbore maxilofaciálna chirurgia v povolaní zubný lekár sa uzná aj
 
