@@ -210,7 +210,7 @@
 
 - 24g) § 10a ods. 5 zákona č. 576/2004 Z. z. v znení zákona č. 351/2017 Z. z.
 
-- 25) Zákon č. 577/2004 Z. z.
+- 25) Napríklad zákon č. 577/2004 Z. z. v znení neskorších predpisov, § 79 ods. 1 písm. l) zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
 - 27) § 2 ods. 29 zákona č. 576/2004 Z. z. v znení zákona č. 257/2017 Z. z.
 
@@ -232,9 +232,15 @@
 
 - 27aada) § 44 ods. 2 písm. c) prvého bodu zákona č. 540/2021 Z. z.
 
+- 27aadb) § 2 ods. 33 zákona č. 153/2013 Z. z. v znení zákona č. 136/2026 Z. z.
+
 - 27aae) § 79 ods. 1 písm. ap) zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
 - 27aaf) § 9 ods. 7 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
+- 27aag) § 9 ods. 3 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
+- 27aah) § 14 ods. 2 zákona č. 153/2013 Z. z. v znení neskorších predpisov.
 
 - 27b) § 27a ods. 9 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
@@ -243,6 +249,8 @@
 - 27d) § 5 ods. 6 písm. f) a g) zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
 
 - 27da) § 5 ods. 15 zákona č. 153/2013 Z. z. v znení zákona č. 344/2025 Z. z.
+
+- 27db) § 3a ods. 30 zákona č. 153/2013 Z. z.
 
 - 27e) § 7 zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
 
