@@ -1,0 +1,3 @@
+# § 287c Prechodné ustanovenie účinné od 1. marca 2008
+
+Ak dňom 1. marca 2008 dôjde k zníženiu služobného platu príslušníka Policajného zboru podľa § 84 ods. 2 písm. a) až m) oproti sume, ktorá je súčtom posledného priznaného služobného platu podľa § 84 ods. 1 písm. a) až m) a jednej šestiny ďalšieho služobného platu podľa § 102 ods. 5 predpisov platných do 29. februára 2008, poskytne sa príslušníkovi Policajného zboru doplatok k služobnému platu vo výške vzniknutého rozdielu. Doplatok sa poskytuje dovtedy, kým sa uvedený rozdiel neodstráni, pričom sa z doplatku odpočítava suma valorizácie v nasledujúcich rokoch, najdlhšie však do skončenia výkonu funkcie, ktorú vykonával do 29. februára 2008.
