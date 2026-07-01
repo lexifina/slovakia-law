@@ -162,6 +162,8 @@
 
 - 35ab) Zákon č. 285/2009 Z. z. o poskytovaní príspevku účastníkom národného boja za oslobodenie a vdovám a vdovcom po týchto osobách a o zmene a doplnení niektorých zákonov.
 
+- 35ac) § 12a ods. 20 a 21 zákona č. 576/2004 Z. z. v znení zákona č. 123/2026 Z. z.
+
 - 36) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
 
 - Zákon Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov.
@@ -295,3 +297,21 @@
 - § 166 ods. 1 Zákonníka práce.
 
 - 69) § 77a a 77b zákona č. 461/2003 Z. z. v znení zákona č. 45/2020 Z. z.
+
+- 70) § 81 ods. 1 písm. e) zákona č. 73/1998 Z. z. v znení zákona č. 123/2026 Z. z.
+
+- § 155 ods. 1 písm. e) zákona č. 35/2019 Z. z. v znení zákona č. 123/2026 Z. z.
+
+- 71) § 152 ods. 3 zákona č. 73/1998 Z. z. v znení zákona č. 123/2026 Z. z.
+
+- § 226 ods. 1 zákona č. 35/2019 Z. z. v znení zákona č. 123/2026 Z. z.
+
+- 72) § 287s ods. 1 zákona č. 73/1998 Z. z. v znení zákona č. 123/2026 Z. z.
+
+- § 331f ods. 1 zákona č. 35/2019 Z. z. v znení zákona č. 123/2026 Z. z.
+
+- 73) § 287s ods. 3 zákona č. 73/1998 Z. z. v znení zákona č. 123/2026 Z. z.
+
+- § 331f ods. 2 zákona č. 35/2019 Z. z. v znení zákona č. 123/2026 Z. z.
+
+- 74) § 116a a § 235o zákona č. 281/2015 Z. z. v znení zákona č. 123/2026 Z. z.

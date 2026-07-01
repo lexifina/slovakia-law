@@ -4,8 +4,8 @@
 
 (2) Policajtke a profesionálnej vojačke vzniká nárok na tehotenské od začiatku 27. týždňa pred očakávaným dňom pôrodu určeným lekárom a zaniká dňom skončenia tehotenstva.
 
-(3) Výška tehotenského je 200 eur mesačne.
+(3) Výška tehotenského je 12 % denného vymeriavacieho základu určeného z dvojnásobku všeobecného vymeriavacieho základu podľa osobitného predpisu<sup>3f</sup>) platného v kalendárnom roku, ktorý dva roky predchádza kalendárnemu roku, v ktorom vznikol dôvod na poskytnutie dávky nemocenského zabezpečenia.
 
-(4) Nárok na výplatu tehotenského vzniká od začiatku mesiaca, v ktorom začal 27. týždeň pred očakávaným dňom pôrodu určeným lekárom a zaniká posledným dňom kalendárneho mesiaca, v ktorom skončilo tehotenstvo.
+(4) Tehotenské sa poskytuje za kalendárne dni.
 
 (5) Tehotenské sa poskytuje policajtke a profesionálnej vojačke, ktorej nemocenské zabezpečenie zaniklo počas tehotenstva, ak nárok na tehotenské vznikne najneskoršie do ôsmich mesiacov po skončení služobného pomeru, a ak nemá nárok na tehotenské podľa osobitného predpisu<sup>3f</sup>) a splnila ostatné podmienky na vznik nároku na tehotenské podľa odseku 1.
