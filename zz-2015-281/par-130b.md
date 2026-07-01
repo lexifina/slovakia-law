@@ -1,0 +1,9 @@
+# § 130b
+
+(1) Nárok na materskú dovolenku, otcovskú dovolenku a rodičovskú dovolenku má aj profesionálna vojačka alebo profesionálny vojak, ktorí prevzali na základe právoplatného rozhodnutia príslušného orgánu dieťa do starostlivosti nahrádzajúcej starostlivosť rodičov, ktoré im súd zveril do náhradnej osobnej starostlivosti, pestúnskej starostlivosti, starostlivosti budúcich osvojiteľov alebo do poručníctva, ak sa poručník osobne stará o dieťa podľa osobitného predpisu<sup>91b</sup>) alebo o dieťa, ktorého matka zomrela.
+
+(2) Materská dovolenka alebo otcovská dovolenka podľa § 130a ods. 1 sa poskytuje profesionálnej vojačke alebo profesionálnemu vojakovi odo dňa prevzatia dieťaťa v trvaní 28 týždňov; osamelej profesionálnej vojačke alebo osamelému profesionálnemu vojakovi sa poskytuje v trvaní 31 týždňov a profesionálnej vojačke alebo profesionálnemu vojakovi, ktorý prevzal dve alebo viac detí, v trvaní 37 týždňov, najdlhšie do dňa, v ktorom dieťa dovŕši tri roky veku.
+
+(3) Rodičovská dovolenka podľa § 130a ods. 2 sa poskytuje v trvaní troch rokov odo dňa skončenia materskej dovolenky alebo otcovskej dovolenky podľa odseku 2 alebo odo dňa prevzatia dieťaťa, ktoré dovŕši tri roky veku najdlhšie do dňa, v ktorom dieťa dovŕši šesť rokov veku. Ak ide o dieťa s dlhodobo nepriaznivým zdravotným stavom vyžadujúcim osobitnú starostlivosť, rodičovská dovolenka sa poskytuje v trvaní šesť rokov odo dňa skončenia materskej dovolenky alebo otcovskej dovolenky podľa odseku 2 alebo odo dňa prevzatia dieťaťa, ktoré dovŕši tri roky veku, najdlhšie do dňa, v ktorom dieťa dovŕši šesť rokov veku.
+
+(4) Ak ide o dieťa s dlhodobo nepriaznivým zdravotným stavom vyžadujúcim osobitnú starostlivosť, môže sa poskytnúť rodičovská dovolenka až do ôsmich rokov veku dieťaťa, ak o to profesionálna vojačka alebo profesionálny vojak písomne požiada, najviac v rozsahu, v ktorom sa táto dovolenka v období podľa odseku 3 nečerpala.
