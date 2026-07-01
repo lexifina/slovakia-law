@@ -1,0 +1,7 @@
+# § 40a Oprávnenie na snímanie identifikačných znakov
+
+(1) Pri plnení úloh finančnej správy na účely trestného konania je ozbrojený príslušník finančnej správy služobne zaradený na Kriminálnom úrade finančnej správy oprávnený osobe zaistenej podľa § 41 ods. 1, osobe zadržanej, osobe zatknutej, osobe podozrivej alebo obvinenej zo spáchania trestného činu uvedeného v § 9 ods. 2 písm. h) odobrať daktyloskopické odtlačky, zisťovať telesné znaky, vykonať meranie tela, vyhotoviť obrazové, zvukové a obdobné záznamy a odobrať vzorky biologických materiálov.
+
+(2) Ozbrojený príslušník finančnej správy služobne zaradený na Kriminálnom úrade finančnej správy je oprávnený odobrať daktyloskopické odtlačky aj osobe, ktorá o to písomne požiadala.
+
+(3) Zisťovanie telesných znakov a meranie tela podľa odseku 1 vykonáva ozbrojený príslušník finančnej správy rovnakého pohlavia služobne zaradený na Kriminálnom úrade finančnej správy alebo na jeho písomnú žiadosť odborne spôsobilý zdravotnícky pracovník; odber krvi a odber vzoriek biologických materiálov z intímnych častí ľudského tela vykonáva na základe písomnej žiadosti ozbrojeného príslušníka finančnej správy služobne zaradeného na Kriminálnom úrade finančnej správy len odborne spôsobilý zdravotnícky pracovník. Odber vzorky biologického materiálu môže vykonať aj dotknutá osoba sama za prítomnosti ozbrojeného príslušníka finančnej správy služobne zaradeného na Kriminálnom úrade finančnej správy. Odber vzoriek biologických materiálov sa vykonáva spôsobom, ktorý nesmie ohroziť zdravie osoby.

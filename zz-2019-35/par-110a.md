@@ -1,0 +1,3 @@
+# § 110a Vykonávanie služobných úloh v mieste trvalého pobytu alebo prechodného pobytu príslušníka finančnej správy alebo na inom dohodnutom mieste
+
+Nadriadený môže príslušníkovi finančnej správy umožniť vykonávať služobné úlohy v mieste jeho trvalého pobytu, prechodného pobytu alebo na inom dohodnutom mieste, ak to povaha služobných úloh a podmienky ich vykonávania príslušníkom finančnej správy dovoľujú; takéto vykonávanie služobných úloh sa nepovažuje za služobnú cestu. Podrobnosti o podmienkach vykonávania služobných úloh v mieste trvalého pobytu, prechodného pobytu alebo na inom dohodnutom mieste ustanoví vnútorný predpis, ktorý vydá prezident.

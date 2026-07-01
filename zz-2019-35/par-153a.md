@@ -1,0 +1,3 @@
+# § 153a Služobné voľno z osobitných dôvodov
+
+Ak zo záverov psychologického vyšetrenia podľa § 120 ods. 1 vyplýva, že príslušník finančnej správy nie je duševne spôsobilý na výkon štátnej služby alebo že ozbrojený príslušník finančnej správy nie je duševne spôsobilý na výkon funkcie so zbraňou, poskytne sa takémuto príslušníkovi finančnej správy služobné voľno s nárokom na služobný plat odo dňa nasledujúceho po dni, keď mu boli oznámené závery psychologického vyšetrenia, až do uplynutia lehoty na podanie žiadosti o opakované psychologické vyšetrenie, alebo až do dňa, keď mu boli oznámené závery opakovaného psychologického vyšetrenia, ak oň príslušník finančnej správy požiadal podľa § 120 ods. 3 alebo ods. 4.
