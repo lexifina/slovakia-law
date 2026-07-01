@@ -1,0 +1,1 @@
+Príloha k zákonu č. 406/2025 Z. z. [VZOREC NA URČENIE PRENESENÉHO ZOSTATKU NÁROKU NA PRÍSPEVOK](../assets/ffd9cb9a567acbd4507a57b0b3af36a54fb97e1a5d5dee7bf8daa926b681887a.pdf)
