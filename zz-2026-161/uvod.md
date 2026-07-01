@@ -1,0 +1,11 @@
+## 161
+
+VYHLÁŠKA
+
+Úradu pre reguláciu sieťových odvetví
+
+zo 17. júna 2026,
+
+## ktorou sa mení a dopĺňa vyhláška Úradu pre reguláciu sieťových odvetví č. 154/2024 Z. z., ktorou sa ustanovuje cenová regulácia v elektroenergetike a niektoré podmienky vykonávania regulovaných činností v elektroenergetike v znení neskorších predpisov
+
+Úrad pre reguláciu sieťových odvetví podľa § 40 ods. 1 písm. a) až i), l) až o) a q) zákona č. 250/2012 Z. z. o regulácii v sieťových odvetviach v znení zákona č. 309/2018 Z. z. a § 19 ods. 2 písm. c), i), j), l) a m) zákona č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko účinnej kombinovanej výroby a o zmene a doplnení niektorých zákonov v znení neskorších predpisov ustanovuje:
