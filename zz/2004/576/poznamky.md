@@ -62,6 +62,12 @@
 
 - 4ab) § 45 ods. 1 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení zákona č. 466/2008 Z. z.
 
+- 4aba) Príloha č. 4 časť I písm. f) druhý bod až piaty bod zákona č. 448/2008 Z. z. v znení neskorších predpisov.
+
+- 4abb) Príloha č. 7 zákona č. 448/2008 Z. z. v znení zákona č. 406/2025 Z. z.
+
+- 4abc) § 61 ods. 11 zákona č. 448/2008 Z. z. v znení zákona č. 406/2025 Z. z.
+
 - 4ac) § 6b zákona č. 578/2004 Z. z. v znení zákona č. 257/2017 Z. z.
 
 - 4ad) Zákon č. 219/2014 Z. z. v znení neskorších prepisov.
@@ -229,6 +235,8 @@
 - 14c) § 9d zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
 
 - 14d) Napríklad zákon č. 461/2003 Z. z. v znení neskorších predpisov.
+
+- 14e) § 85 a 86a zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 15) § 13 ods. 7 zákona č. 362/2011 Z. z. v znení neskorších predpisov.
 
