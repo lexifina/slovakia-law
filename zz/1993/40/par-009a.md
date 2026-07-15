@@ -10,11 +10,13 @@
 
 - b) platným občianskym preukazom,
 
-- c) platným cestovným pasom alebo
+- c) platným cestovným pasom,
 
-- d) platným potvrdením o štátnom občianstve Slovenskej republiky.
+- d) platným potvrdením o štátnom občianstve Slovenskej republiky alebo
 
-(2) Osvedčenie o štátnom občianstve Slovenskej republiky vydáva príslušný okresný úrad v sídle kraja na základe písomnej žiadosti o vydanie osvedčenia o štátnom občianstve Slovenskej republiky, ktorá sa podáva osobne na okresnom úrade v sídle kraja, diplomatickej misii alebo na konzulárnom úrade Slovenskej republiky.
+- e) listinou o udelení štátneho občianstva Slovenskej republiky; takto možno preukázať štátne občianstvo Slovenskej republiky len v lehote 90 dní odo dňa jej prevzatia podľa § 8a ods. 10.
+
+(2) Osvedčenie o štátnom občianstve Slovenskej republiky vydáva príslušný okresný úrad v sídle kraja na základe písomnej žiadosti o vydanie osvedčenia o štátnom občianstve Slovenskej republiky, ktorá sa podáva osobne na okresnom úrade v sídle kraja, diplomatickej misii alebo na konzulárnom úrade Slovenskej republiky; na diplomatickej misii alebo konzulárnom úrade Slovenskej republiky možno podať žiadosť aj elektronicky alebo poštou.
 
 (3) Vzor žiadosti o vydanie osvedčenia o štátnom občianstve Slovenskej republiky je uvedený v prílohe č. 2.
 
@@ -30,7 +32,7 @@
 
 (5) Ak sa žiadateľ nenachádza v Ústrednej evidencii nadobudnutia a straty štátneho občianstva Slovenskej republiky alebo ak sú pochybnosti o jeho štátnom občianstve, okresný úrad v sídle kraja požiada ministerstvo o súhlas s vydaním osvedčenia o štátnom občianstve Slovenskej republiky.
 
-(6) Osvedčenie o štátnom občianstve Slovenskej republiky sa vydáva na tlačive, ktoré vydáva ministerstvo, spravidla do 30 dní od podania žiadosti. Osvedčenie o štátnom občianstve Slovenskej republiky je platné šesť mesiacov odo dňa vydania a len v podobe originálu. Osvedčenie o štátnom občianstve Slovenskej republiky obsahuje
+(6) Osvedčenie o štátnom občianstve Slovenskej republiky sa vydáva na tlačive, ktoré vydáva ministerstvo, spravidla do 30 dní od podania žiadosti, ak odsek 13 neustanovuje inak. Osvedčenie o štátnom občianstve Slovenskej republiky je platné šesť mesiacov odo dňa vydania a len v podobe originálu. Osvedčenie o štátnom občianstve Slovenskej republiky obsahuje
 
 - a) meno, priezvisko, rodné priezvisko, dátum a miesto narodenia žiadateľa,
 
@@ -52,4 +54,6 @@
 
 (11) Ministerstvo zasiela oznámenie o skutočnosti podľa odseku 10 okresnému úradu v sídle kraja, ktorý neplatné osvedčenie o štátnom občianstve Slovenskej republiky vydal, obci trvalého pobytu žiadateľa, útvaru Policajného zboru, daňovému úradu, colnému úradu, inštitúciám vykonávajúcim sociálne poistenie a verejné zdravotné poistenie.
 
-(12) Okresný úrad v sídle kraja vydáva na základe písomnej žiadosti podanej na okresnom úrade v sídle kraja, diplomatickej misii alebo konzulárnom úrade Slovenskej republiky potvrdenie o štátnom občianstve Slovenskej republiky osoby ku dňu uvedenému v žiadosti, v ktorom nastala udalosť v minulosti. Žiadosť môže podať orgán verejnej moci, právnická osoba alebo fyzická osoba, ak preukáže právny dôvod, pre ktorý sa má potvrdenie vydať. Na vydanie potvrdenia o štátnom občianstve Slovenskej republiky sa primerane použijú ustanovenia odsekov 3 až 6 a 8 až 11.
+(12) Okresný úrad v sídle kraja vydáva na základe písomnej žiadosti podanej na okresnom úrade v sídle kraja, diplomatickej misii alebo konzulárnom úrade Slovenskej republiky potvrdenie o štátnom občianstve Slovenskej republiky osoby ku dňu uvedenému v žiadosti. Žiadosť môže podať orgán verejnej moci, právnická osoba alebo fyzická osoba, ak preukáže právny dôvod, pre ktorý sa má potvrdenie vydať. Na vydanie potvrdenia o štátnom občianstve Slovenskej republiky sa primerane použijú ustanovenia odsekov 3 až 6, 8 až 11 a 13.
+
+(13) Ak ide o žiadosť fyzickej osoby v cudzine o vydanie osvedčenia o štátnom občianstve Slovenskej republiky, diplomatická misia alebo konzulárny úrad Slovenskej republiky zašle elektronicky žiadosť o vydanie osvedčenia o štátnom občianstve Slovenskej republiky okresnému úradu v sídle kraja. Okresný úrad v sídle kraja zašle vydaný doklad diplomatickej misii alebo konzulárnemu úradu Slovenskej republiky elektronicky. Takto vydaný doklad je platný šesť mesiacov odo dňa vydania a žiadateľovi sa nevydáva. Žiadateľovi sa vydáva osvedčenie o štátnom občianstve Slovenskej republiky na tlačive podľa odseku 6 iba ak o to výslovne požiada pri podaní žiadosti.

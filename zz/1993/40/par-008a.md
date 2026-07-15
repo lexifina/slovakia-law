@@ -8,7 +8,7 @@
 
 (4) Ministerstvo si vyžiada od dotknutého štátneho orgánu oznámenie, či sa proti žiadateľovi vedie trestné stíhanie, vydávacie konanie, konanie o vykonaní európskeho zatýkacieho rozkazu, konanie o jeho administratívnom vyhostení, konanie o odňatie azylu alebo konanie o odňatie doplnkovej ochrany. Ak sa takéto konanie proti žiadateľovi vedie, ministerstvo preruší konanie o udelenie štátneho občianstva Slovenskej republiky; ministerstvo v konaní pokračuje, len čo sa dozvie o rozhodnutí, ktorým sa trestné stíhanie, vydávacie konanie, konanie o vykonaní európskeho zatýkacieho rozkazu, konanie o administratívnom vyhostení, konanie o odňatie azylu alebo konanie o odňatie doplnkovej ochrany skončilo. Toto rozhodnutie je orgán, ktorý ho vydal, povinný oznámiť ministerstvu.
 
-(5) Ak tento zákon neustanovuje inak, ministerstvo konanie zastaví, ak žiadateľ nespĺňa podmienku podľa § 7 ods. 1 písm. a), a zároveň nespĺňa niektorú z podmienok podľa § 7 ods. 2 až 7. Rozhodnutie o zastavení konania sa vyznačí v spise a žiadateľ sa o zastavení konania upovedomí.
+(5) Ak tento zákon neustanovuje inak, ministerstvo konanie zastaví, ak žiadateľ nespĺňa podmienku podľa § 7 ods. 1 písm. a), a zároveň nespĺňa niektorú z podmienok podľa § 7 ods. 2 až 8. Rozhodnutie o zastavení konania sa vyznačí v spise a žiadateľ sa o zastavení konania upovedomí.
 
 (6) Ak žiadateľovi zaniklo povolenie na pobyt,<sup>13</sup>) ministerstvo konanie zastaví. Rozhodnutie o zastavení konania sa vyznačí v spise a žiadateľ sa o zastavení konania upovedomí.
 
