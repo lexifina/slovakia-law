@@ -1,0 +1,1 @@
+- OBSAH ZÁKONA [OBSAH ZÁKONA](../assets/c22cbe88ee16255f2179feb06cfa7dd9aea374b0a210cda2f46657853762cf69.pdf)
