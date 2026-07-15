@@ -1,0 +1,1 @@
+Príloha č. 2 k nariadeniu vlády č. 189/2026 Z. z. [Územný rozsah uplatňovania zákazov a obmedzení podľa § 16 ods. 1 písm. f) a g) zákona](../assets/955983bf7a9ecd592c4aa199f2602d8a199a70b2c731243fedfbb99418e10855.pdf)
