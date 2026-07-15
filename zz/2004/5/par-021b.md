@@ -54,7 +54,9 @@
 
   - 2. predložila úradu kópiu dohody o dočasnom pridelení zamestnancov medzi agentúrou dočasného zamestnávania a užívateľským zamestnávateľom, ak si ju úrad vyžiadal,
 
-- e) dočasné pridelenie je prvým opätovným dočasným pridelením a za najmenej rovnako priaznivých mzdových podmienok ako pri skončenom dočasnom pridelení, ak ide o štátneho príslušníka tretej krajiny podľa § 21 ods. 4 tretej vety.
+- e) dočasné pridelenie je prvým opätovným dočasným pridelením a za najmenej rovnako priaznivých mzdových podmienok ako pri skončenom dočasnom pridelení, ak ide o štátneho príslušníka tretej krajiny podľa § 21 ods. 4 tretej vety,
+
+- f) štátny príslušník tretej krajiny, ktorý má udelené národné vízum podľa osobitného predpisu,<sup>22ka</sup>) bude zamestnaný na tom istom pracovnom mieste, ak ide o potvrdenie o možnosti obsadenia voľného pracovného miesta vydávané na účel konania o udelenie prechodného pobytu na účel zamestnania.
 
 (5) Ak ide o sezónne zamestnanie alebo vnútropodnikový presun, podmienkou na vydanie potvrdenia o možnosti obsadenia voľného pracovného miesta, ktoré obsahuje súhlas s jeho obsadením, je aj,
 

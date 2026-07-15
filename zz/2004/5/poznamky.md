@@ -182,7 +182,7 @@
 
 - Zákon č. 184/2009 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 28aa) § 23 ods. 2, § 24 a § 34 ods. 1 písm. b) zákona č. 404/2011 Z. z. v znení neskorších predpisov.
+- 28aa) § 23 až 30 a § 34 ods. 1 písm. b) zákona č. 404/2011 Z. z. v znení neskorších predpisov.
 
 - 28b) Zákon č. 57/2018 Z. z. o regionálnej investičnej pomoci a o zmene a doplnení niektorých zákonov.
 
@@ -379,3 +379,5 @@
 - 67) § 73 ods. 18 druhá veta zákona č. 404/2011 Z. z. v znení neskorších predpisov.
 
 - 68) § 2a ods. 2 zákona č. 82/2005 Z. z. v znení neskorších predpisov.
+
+- 69) § 131o ods. 5 a 14 zákona č. 404/2011 Z. z. v znení zákona č. 128/2026 Z. z.

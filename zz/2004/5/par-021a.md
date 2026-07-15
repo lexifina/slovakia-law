@@ -74,11 +74,7 @@
 
 - b) zamestnávateľ prestal spĺňať podmienku na vydanie potvrdenia o možnosti obsadenia voľného pracovného miesta, ktoré zodpovedá vysokokvalifikovanému zamestnaniu, podľa odseku 4 písm. c),
 
-- c) štátny príslušník tretej krajiny je nezamestnaný viac ako
-
-  - 1. tri mesiace, ak je držiteľom modrej karty menej ako dva roky,
-
-  - 2. šesť mesiacov, ak je držiteľom modrej karty najmenej dva roky,
+- c) zamestnanie štátneho príslušníka tretej krajiny skončilo pred uplynutím obdobia, na ktoré bolo toto potvrdenie vydané,
 
 - d) štátny príslušník tretej krajiny stratil vyššiu odbornú kvalifikáciu na výkon vysokokvalifikovaného zamestnania,
 
