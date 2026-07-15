@@ -1,0 +1,1 @@
+Príloha č. 1 k nariadeniu vlády č. 190/2026 Z. z. [VYMEDZENIE HRANICE NÁRODNÉHO PARKU, JEHO ZÓN A OCHRANNÉHO PÁSMA](../assets/851dda870689d15eab00e95619c88b35e1f49dfa77c54686c801ebf808400d6a.pdf)
