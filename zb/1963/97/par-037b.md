@@ -6,4 +6,6 @@ Právomoc slovenského súdu je daná aj
 
 - b) vo veciach nárokov na náhradu škody, ktorá bola spôsobená trestným činom, ak trestné konanie vedú slovenské orgány činné v trestnom konaní,
 
-- c) v sporoch, ktoré sa týkajú podnikania alebo činnosti podniku alebo organizačnej zložky právnickej osoby, ak má podnik alebo organizačnú zložku umiestnenú na území Slovenskej republiky.
+- c) v sporoch, ktoré sa týkajú podnikania alebo činnosti podniku alebo organizačnej zložky právnickej osoby, ak má podnik alebo organizačnú zložku umiestnenú na území Slovenskej republiky,
+
+- d) vo veciach nárokov na náhradu škody a nákladov, ktoré vznikli v súvislosti so sporom proti verejnej účasti na súde alebo inom príslušnom orgáne štátu, ktorý nie je členským štátom Európskej únie, a žalovaná fyzická osoba alebo právnická osoba v spore proti verejnej účasti má bydlisko alebo sídlo na území Slovenskej republiky.
