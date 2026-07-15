@@ -1,0 +1,1 @@
+Príloha č. 2 k zákonu Národnej rady Slovenskej republiky č. 40/1993 Z. z. [Príloha č. 2 k zákonu Národnej rady Slovenskej republiky č. 40/1993 Z. z.](../assets/83daf9d3dc6ee80d0eb4a53c28fddcb533ae55f885ae3bdb8063ff58719d6d97.pdf)
