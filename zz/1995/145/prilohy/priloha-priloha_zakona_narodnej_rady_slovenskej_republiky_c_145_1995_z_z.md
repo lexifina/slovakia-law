@@ -4184,7 +4184,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 2. | právnickú osobu ..... | 30 eur
 
-  - f) | Vydanie záväzného stanoviska alebo rozhodnutia orgánu štátnej správy na úseku verejného zdravotníctva<sup>36a</sup>)okrem rozhodnutia alebo záväzného stanoviska podľa písmena ae) ..... | | 50 eur
+  - f) | Vydanie záväzného stanoviska alebo rozhodnutia orgánu štátnej správy na úseku verejného zdravotníctva<sup>36a</sup>)okrem rozhodnutia alebo záväzného stanoviska podľa písmena ag) ..... | | 50 eur
 
   - g) | Vyhotovenie duplikátu záväzného stanoviska alebo rozhodnutia podľa písmena f) ..... | | 10 eur
 
@@ -4322,21 +4322,25 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - ab) | Oznámenie o umiestnení výživového doplnku na trh v Slovenskej republike .................... | | 30 eur
 
-  - ac) | Vydanie osvedčenia Ministerstva zdravotníctva Slovenskej republiky o akreditácii študijného programu sústavného vzdelávania<sup>36bd</sup>)..... | | 70 eur
+  - ac) | Vydanie osvedčenia o voľnom predaji kozmetického výrobku do tretích krajín ......... | | 50 eur
 
-  - ad) | Vydanie osvedčenia Ministerstva zdravotníctva Slovenskej republiky o akreditácii kurzu prvej pomoci<sup>36bd</sup>) ..... | | 100 eur
+  - ad) | Vydanie osvedčenia o dodržaní požiadaviek na správnu výrobnú prax pri výrobe kozmetického výrobku .... | | 50 eur
 
-  - ae) | Vydanie osvedčenia Ministerstva zdravotníctva Slovenskej republiky o akreditácii kurzu inštruktora prvej pomoci<sup>36bd</sup>) ..... | | 100 eur
+  - ae) | Vydanie osvedčenia Ministerstva zdravotníctva Slovenskej republiky o akreditácii študijného programu sústavného vzdelávania<sup>36bd</sup>)..... | | 70 eur
 
-  - af) | Zmena osvedčenia Ministerstva zdravotníctva Slovenskej republiky o akreditácii kurzu prvej pomoci<sup>36bd</sup>)..... | | 50 eur
+  - af) | Vydanie osvedčenia Ministerstva zdravotníctva Slovenskej republiky o akreditácii kurzu prvej pomoci<sup>36bd</sup>) ..... | | 100 eur
 
-  - ag) | Zmena osvedčenia Ministerstva zdravotníctva Slovenskej republiky o akreditácii kurzu inštruktora prvej pomoci<sup>36bd</sup>)..... | | 50 eur
+  - ag) | Vydanie osvedčenia Ministerstva zdravotníctva Slovenskej republiky o akreditácii kurzu inštruktora prvej pomoci<sup>36bd</sup>) ..... | | 100 eur
 
-  - ah) | Oznámenie sprostredkovania nákupu alebo predaja humánnych liekov ..... | | 100 eur
+  - ah) | Zmena osvedčenia Ministerstva zdravotníctva Slovenskej republiky o akreditácii kurzu prvej pomoci<sup>36bd</sup>)..... | | 50 eur
 
-  - ai) | Oznámenie výroby, dovozu alebo distribúcie účinnej látky ..... | | 100 eur
+  - ai) | Zmena osvedčenia Ministerstva zdravotníctva Slovenskej republiky o akreditácii kurzu inštruktora prvej pomoci<sup>36bd</sup>)..... | | 50 eur
 
-  - aj) | Vydanie posudku o splnení podmienok v oblasti zaobchádzania s omamnými a psychotropnými látkami pri poskytovaní odborných veterinárnych činností podľa § 36d zákona č. 139/1998 Z. z. o omamných látkach, psychotropných látkach a prípravkoch v znení zákona č. 362/2011 Z. z. ........... | | 30 eur
+  - aj) | Oznámenie sprostredkovania nákupu alebo predaja humánnych liekov ..... | | 100 eur
+
+  - ak) | Oznámenie výroby, dovozu alebo distribúcie účinnej látky ..... | | 100 eur
+
+  - al) | Vydanie posudku o splnení podmienok v oblasti zaobchádzania s omamnými a psychotropnými látkami pri poskytovaní odborných veterinárnych činností podľa § 36d zákona č. 139/1998 Z. z. o omamných látkach, psychotropných látkach a prípravkoch v znení zákona č. 362/2011 Z. z. ........... | | 30 eur
 
     - Položka 150a
 
