@@ -54,7 +54,7 @@
 
 (6) Osobe podľa odseku 4 písm. a) sa na základe písomnej žiadosti poskytujú z evidencie priestupkov všetky údaje o nej a o jej priestupku; orgánom podľa odseku 4 písm. b) až f) sa údaje poskytujú v rozsahu spôsobom a v lehotách ustanovených v osobitnom zákone alebo v medzinárodnej zmluve.
 
-(7) Orgán, ktorý vedie evidenciu priestupkov, likviduje údaje z evidencie priestupkov podľa odseku 3 po uplynutí piatich rokov od nadobudnutia právoplatnosti rozhodnutia o priestupku alebo od zaplatenia pokuty v blokovom konaní, ak osobitný zákon neustanovuje inak.
+(7) Orgán, ktorý vedie evidenciu priestupkov, likviduje údaje z evidencie priestupkov podľa odseku 3 po uplynutí piatich rokov od nadobudnutia právoplatnosti rozhodnutia o priestupku alebo od uloženia pokuty v blokovom konaní, ak osobitný zákon neustanovuje inak.
 
 (8) Pri spracúvaní osobných údajov sa postupuje podľa osobitného predpisu.<sup>17</sup>)
 
