@@ -14,4 +14,4 @@
 
 (3) Súd vyzve navrhovateľa, aby neúplný návrh v určenej lehote nie kratšej ako 15 dní doplnil. Ak sa napriek výzve súdu návrh neopraví alebo nedoplní a pre tento nedostatok nemožno v konaní pokračovať, súd konanie zastaví. O tomto následku musí byť navrhovateľ poučený.
 
-(4) Ak návrh podáva prokurátor podľa § 68b ods. 1, k návrhu nie je povinný pripojiť písomnosti uvedené v § 68c ods. 2 písm. c) a d). Overené preklady pripojených listín do slovenského jazyka zabezpečí konajúci súd.
+(4) Ak návrh podáva prokurátor podľa § 68b ods. 1, k návrhu nie je povinný pripojiť písomnosti uvedené v § 68c ods. 2 písm. c) a d). Ak ide o preklad z cudzieho jazyka, pri ktorom všeobecne záväzný právny predpis, ktorý vydá ministerstvo spravodlivosti, umožňuje strojový preklad, namiesto postupu podľa predchádzajúcej vety súd zabezpečí strojový preklad pripojených listín.
