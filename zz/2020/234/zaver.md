@@ -1,1 +1,0 @@
-Igor Matovič v. r.
