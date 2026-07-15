@@ -16,9 +16,9 @@
 
 - c) fyzická osoba – podnikateľ, ktorá je verejným zdravotníkom a má živnostenské oprávnenie podľa osobitného predpisu<sup>34g</sup>) na vykonávanie dohľadu nad pracovnými podmienkami,
 
-- d) právnická osoba, ktorá má živnostenské oprávnenie podľa osobitného predpisu<sup>34g</sup>) na vykonávanie dohľadu nad pracovnými podmienkami a poskytuje pracovnú zdravotnú službu prostredníctvom verejného zdravotníka, alebo
+- d) právnická osoba, ktorá má živnostenské oprávnenie podľa osobitného predpisu<sup>34g</sup>) na vykonávanie dohľadu nad pracovnými podmienkami a poskytuje pracovnú zdravotnú službu prostredníctvom zodpovedného zástupcu, ktorý je verejným zdravotníkom, alebo
 
-- e) fyzická osoba – podnikateľ alebo právnická osoba, ktorej úrad verejného zdravotníctva vydal oprávnenie na pracovnú zdravotnú službu podľa § 30b.
+- e) fyzická osoba – podnikateľ alebo právnická osoba, ktorej úrad verejného zdravotníctva vydal oprávnenie na pracovnú zdravotnú službu podľa § 30b (ďalej len „držiteľ oprávnenia na pracovnú zdravotnú službu“).
 
 (3) Fyzická osoba – podnikateľ alebo právnická osoba podľa
 

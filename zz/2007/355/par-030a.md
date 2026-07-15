@@ -12,7 +12,7 @@
 
 (3) Pracovnú zdravotnú službu vykonávajú
 
-- a) lekár so špecializáciou v špecializačnom odbore všeobecné lekárstvo, špecializačnom odbore klinické pracovné lekárstvo a klinická toxikológia, špecializačnom odbore pracovné lekárstvo, špecializačnom odbore preventívne pracovné lekárstvo a toxikológia, špecializačnom odbore služby zdravia pri práci alebo v špecializačnom odbore verejné zdravotníctvo,
+- a) lekár so špecializáciou v špecializačnom odbore všeobecné lekárstvo, špecializačnom odbore pracovné lekárstvo, špecializačnom odbore preventívne pracovné lekárstvo a toxikológia, špecializačnom odbore služby zdravia pri práci alebo v špecializačnom odbore verejné zdravotníctvo,
 
 - b) verejný zdravotník, alebo
 
@@ -22,7 +22,7 @@
 
 (5) Minimálny tím pracovnej zdravotnej služby podľa odseku 3 písm. c) tvoria
 
-- a) lekár so špecializáciou v špecializačnom odbore pracovné lekárstvo, špecializačnom odbore klinické pracovné lekárstvo a klinická toxikológia, špecializačnom odbore preventívne pracovné lekárstvo a toxikológia alebo špecializačnom odbore služby zdravia pri práci a verejný zdravotník,<sup>34c</sup>) alebo
+- a) lekár so špecializáciou v špecializačnom odbore pracovné lekárstvo, špecializačnom odbore preventívne pracovné lekárstvo a toxikológia alebo špecializačnom odbore služby zdravia pri práci a verejný zdravotník,<sup>34c</sup>) alebo
 
 - b) lekár so špecializáciou v špecializačnom odbore podľa písmena a) a lekár so špecializáciou v špecializačnom odbore verejné zdravotníctvo.<sup>34c</sup>)
 
@@ -32,9 +32,9 @@
 
 (8) Poskytovateľ zdravotnej starostlivosti, ktorý je
 
-- a) fyzickou osobou – podnikateľom, si môže činnosť pracovnej zdravotnej služby podľa § 30aa vykonávať osobne,
+- a) fyzickou osobou – podnikateľom, si môže činnosť pracovnej zdravotnej služby podľa § 30ab vykonávať osobne,
 
-- b) právnickou osobou, si môže činnosť pracovnej zdravotnej služby podľa § 30aa vykonávať zdravotníckym pracovníkom, ktorý je s ním v pracovnoprávnom vzťahu alebo v obdobnom pracovnom vzťahu.
+- b) právnickou osobou, si môže činnosť pracovnej zdravotnej služby podľa § 30ab vykonávať zdravotníckym pracovníkom, ktorý je s ním v pracovnoprávnom vzťahu alebo v obdobnom pracovnom vzťahu.
 
 (9) Pracovná zdravotná služba spolupracuje s bezpečnostnotechnickou službou,<sup>34e</sup>) príslušnými organizačnými útvarmi zamestnávateľa a so zástupcami zamestnancov vrátane zástupcov zamestnancov pre bezpečnosť a ochranu zdravia pri práci. Zabezpečením pracovnej zdravotnej služby dodávateľským spôsobom nie sú dotknuté povinnosti zamestnávateľa v oblasti ochrany zdravia pri práci a jeho zodpovednosť za zabezpečenie ochrany zdravia zamestnancov pri práci.
 

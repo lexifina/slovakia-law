@@ -2,9 +2,9 @@
 
 Pracovná zdravotná služba pre zamestnancov, ktorí vykonávajú prácu zaradenú do tretej kategórie alebo štvrtej kategórie, najmä
 
-- a) posudzuje zdravotné riziko z expozície faktorom práce a pracovného prostredia a na základe tohto posúdenia vypracuje pre zamestnávateľa posudok o riziku s kategorizáciou prác z hľadiska zdravotného rizika; ak posudzuje zdravotné riziko podľa § 30 ods. 1 písm. c) a nezistí zmenu pracovných podmienok, ktorá by mohla mať vplyv na mieru zdravotného rizika alebo kategóriu práce z hľadiska zdravotného rizika, vypracuje pre zamestnávateľa písomný záznam o posúdení rizika,
+- a) posudzuje zdravotné riziko z expozície faktorom práce a pracovného prostredia a na základe tohto posúdenia vypracuje pre zamestnávateľa posudok o riziku s kategorizáciou prác z hľadiska zdravotného rizika,
 
-- b) vypracováva návrh na zmenu alebo vyradenie prác z tretej kategórie alebo štvrtej kategórie,
+- b) vypracúva pre zamestnávateľa návrh na zaradenie prác do tretej kategórie alebo štvrtej kategórie, alebo návrh na zmenu alebo vyradenie prác z tretej kategórie alebo štvrtej kategórie,
 
 - c) navrhuje zamestnávateľovi opatrenia na zníženie zdravotného rizika alebo odstránenie zdravotného rizika,
 
@@ -32,4 +32,6 @@ Pracovná zdravotná služba pre zamestnancov, ktorí vykonávajú prácu zarade
 
   - 6. zabezpečovaní rekondičného pobytu,<sup>34k</sup>)
 
-- g) spolupracuje so zamestnávateľom pri poskytovaní informácií zamestnancom, vzdelávania a výchovy v oblasti ochrany a kladného ovplyvňovania zdravia, hygieny, fyziológie, psychológie práce a ergonómie.
+- g) spolupracuje so zamestnávateľom pri poskytovaní informácií zamestnancom, vzdelávania a výchovy v oblasti ochrany a kladného ovplyvňovania zdravia, hygieny, fyziológie, psychológie práce a ergonómie,
+
+- h) spolupracuje so zamestnávateľom pri prešetrovaní podozrenia na chorobu z povolania alebo podozrenia na ohrozenie chorobou z povolania zamestnanca.

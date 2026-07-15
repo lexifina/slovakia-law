@@ -43,3 +43,7 @@ Príloha č. 9 k zákonu č. 355/2007 Z. z.
   - 20. Smernica Európskeho parlamentu a Rady (EÚ) 2020/2184 zo 16. decembra 2020 o kvalite vody určenej na ľudskú spotrebu (prepracované znenie) (Ú. v. EÚ L435, 23. 12. 2020).
 
   - 21. Smernica Európskeho parlamentu a Rady (EÚ) 2022/431 z 9. marca 2022, ktorou sa mení smernica 2004/37/ES o ochrane pracovníkov pred rizikami súvisiacimi s expozíciou karcinogénom alebo mutagénom pri práci (Ú. v. EÚ L 88, 16. 3. 2022).
+
+  - 22. Smernica Európskeho parlamentu a Rady (EÚ) 2023/2668 z 22. novembra 2023, ktorou sa mení smernica 2009/148/ES o ochrane pracovníkov pred rizikami z vystavenia účinkom azbestu pri práci (Ú. v. EÚ L, 2023/2668, 30. 11. 2023).
+
+  - 23. Smernica Európskeho parlamentu a Rady (EÚ) 2024/869 z 13. marca 2024, ktorou sa mení smernica Európskeho parlamentu a Rady 2004/37/ES a smernica Rady 98/24/ES, pokiaľ ide o limitné hodnoty pre olovo a jeho anorganické zlúčeniny a pre diizokyanáty (Ú. v. EÚ L, 2024/869, 19. 3. 2024).

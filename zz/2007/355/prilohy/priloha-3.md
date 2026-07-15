@@ -1,6 +1,6 @@
 Príloha č. 3 k zákonu č. 355/2007 Z. z.
 
-- ZOZNAM CHEMICKÝCH LÁTOK, NA KTORÝCH ODBORNÉ VYUŽÍVANIE SA NEVZŤAHUJÚ USTANOVENIA § 16 ODS. 19 A ODS. 25 PÍSM. A), C) A E) 1. | Kyselina kyanovodíková a jej rozpustné soli
+- Zoznam chemických látok, ktorých odborné využitie vyžaduje skúšku pred komisiou na preskúšanie odbornej spôsobilosti 1. | Kyselina kyanovodíková a jej rozpustné soli
 
 - 2. | Kyselina fluorovodíková a jej rozpustné soli
 

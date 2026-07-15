@@ -6,6 +6,4 @@
 
 (2) Dodávateľ pitnej vody je povinný podľa § 17c ods. 4 písm. b) zákona predložiť úradu verejného zdravotníctva alebo regionálnemu úradu verejného zdravotníctva manažment rizík systému zásobovania pitnou vodou na posúdenie prvýkrát najneskôr do 12. júla 2028.
 
-(3) Úrad verejného zdravotníctva prvýkrát zabezpečí podľa § 5 ods. 4 písm. z) všeobecnú analýzu možných rizík z domových rozvodných systémov najneskôr do 12. januára 2029.
-
-(4) Úrad verejného zdravotníctva poskytne podľa § 5 ods. 4 písm. as) prvého bodu a druhého bodu Komisii, Európskej environmentálnej agentúre a Európskemu centru pre prevenciu a kontrolu chorôb prvý súbor informácií o opatreniach prijatých na podporu používania pitnej vody a prvý súbor informácií o manažmente rizík domových rozvodných systémov najneskôr do 12. januára 2029.
+(3) Úrad verejného zdravotníctva poskytne podľa § 5 ods. 4 písm. at) prvého bodu a druhého bodu Komisii, Európskej environmentálnej agentúre a Európskemu centru pre prevenciu a kontrolu chorôb prvý súbor informácií o opatreniach prijatých na podporu používania pitnej vody a prvý súbor informácií o manažmente rizík domových rozvodných systémov najneskôr do 12. januára 2029.

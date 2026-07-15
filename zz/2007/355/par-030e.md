@@ -30,15 +30,15 @@
 
 (2) Povinnosť zamestnanca podrobiť sa lekárskej preventívnej prehliadke vo vzťahu k práci na účel posudzovania zdravotnej spôsobilosti na prácu upravuje osobitný predpis.<sup>35a</sup>)
 
-(3) Ak ide o práce zaradené do tretej kategórie alebo štvrtej kategórie, lekárske preventívne prehliadky vo vzťahu k práci vykonávajú lekári pracovnej zdravotnej služby so špecializáciou v špecializačnom odbore pracovné lekárstvo, špecializačnom odbore klinické pracovné lekárstvo a klinická toxikológia alebo špecializačnom odbore služby zdravia pri práci.
+(3) Ak ide o práce zaradené do tretej kategórie alebo štvrtej kategórie, lekárske preventívne prehliadky vo vzťahu k práci vykonávajú lekári pracovnej zdravotnej služby so špecializáciou v špecializačnom odbore pracovné lekárstvo alebo špecializačnom odbore služby zdravia pri práci.
 
-(4) Ak ide o práce zaradené do tretej kategórie alebo štvrtej kategórie, lekárske preventívne prehliadky vo vzťahu k práci môžu vykonávať okrem lekárov podľa odseku 3 aj lekári pracovnej zdravotnej služby so špecializáciou v špecializačnom odbore všeobecné lekárstvo pod dohľadom lekára pracovnej zdravotnej služby so špecializáciou v špecializačnom odbore pracovné lekárstvo, špecializačnom odbore klinické pracovné lekárstvo a klinická toxikológia alebo špecializačnom odbore služby zdravia pri práci.
+(4) Ak ide o práce zaradené do tretej kategórie alebo štvrtej kategórie, lekárske preventívne prehliadky vo vzťahu k práci môžu vykonávať okrem lekárov podľa odseku 3 aj lekári pracovnej zdravotnej služby so špecializáciou v špecializačnom odbore všeobecné lekárstvo pod dohľadom lekára pracovnej zdravotnej služby so špecializáciou v špecializačnom odbore pracovné lekárstvo alebo špecializačnom odbore služby zdravia pri práci.
 
 (5) Na požiadanie lekára pracovnej zdravotnej služby podľa odsekov 3 a 4 môžu v rámci lekárskej preventívnej prehliadky vo vzťahu k práci ďalšie potrebné doplnkové vyšetrenia vykonať aj lekári iných príslušných špecializačných odborov<sup>35b</sup>) alebo ďalší príslušní zdravotnícki pracovníci.
 
 (6) Ak ide o práce zaradené do prvej kategórie alebo druhej kategórie, lekárske preventívne prehliadky vo vzťahu k práci môžu okrem lekárov pracovnej zdravotnej služby so špecializáciou v špecializačných odboroch podľa odsekov 3 a 4 vykonávať aj lekári so špecializáciou v špecializačnom odbore všeobecné lekárstvo a lekári so špecializáciou v špecializačnom odbore pediatria poskytujúci všeobecnú ambulantnú zdravotnú starostlivosť pre deti a dorast, ktorí nie sú lekármi pracovnej zdravotnej služby. Lekárske preventívne prehliadky vo vzťahu k práci sa vykonávajú na základe zamestnávateľom poskytnutých podkladov o vykonávanej práci a pracovných podmienkach zamestnanca a výsledkov hodnotenia zdravotných rizík.
 
-(7) Ak lekár so špecializáciou v špecializačnom odbore všeobecné lekárstvo alebo v špecializačnom odbore pediatria poskytujúci všeobecnú ambulantnú starostlivosť pre deti a dorast, ktorý vykonáva lekárske preventívne prehliadky vo vzťahu k práci u zamestnancov vykonávajúcich prácu zaradenú do druhej kategórie podľa odseku 6, zistí u zamestnanca zmenu zdravotného stavu, ktorá by mohla ovplyvniť jeho zdravotnú spôsobilosť na prácu, konzultuje postup pri posudzovaní zdravotnej spôsobilosti na prácu s lekárom so špecializáciou v špecializačnom odbore pracovné lekárstvo, špecializačnom odbore klinické pracovné lekárstvo a klinická toxikológia alebo špecializačnom odbore služby zdravia pri práci a výsledok konzultácie zaznamená do svojej zdravotnej dokumentácie.
+(7) Ak lekár so špecializáciou v špecializačnom odbore všeobecné lekárstvo alebo v špecializačnom odbore pediatria poskytujúci všeobecnú ambulantnú starostlivosť pre deti a dorast, ktorý vykonáva lekárske preventívne prehliadky vo vzťahu k práci u zamestnancov vykonávajúcich prácu zaradenú do druhej kategórie podľa odseku 6, zistí u zamestnanca zmenu zdravotného stavu, ktorá by mohla ovplyvniť jeho zdravotnú spôsobilosť na prácu, konzultuje postup pri posudzovaní zdravotnej spôsobilosti na prácu s lekárom so špecializáciou v špecializačnom odbore pracovné lekárstvo alebo špecializačnom odbore služby zdravia pri práci a výsledok konzultácie zaznamená do svojej zdravotnej dokumentácie.
 
 (8) Lekárske preventívne prehliadky vo vzťahu k práci sa vykonávajú v ambulancii.
 
@@ -52,13 +52,13 @@
 
 - d) pri skončení pracovnoprávneho vzťahu alebo obdobného pracovného vzťahu alebo pri skončení výkonu práce fyzickej osoby – podnikateľa, ktorá nezamestnáva iné fyzické osoby, zo zdravotných dôvodov,
 
-- e) po skončení pracovnoprávneho vzťahu alebo obdobného pracovného vzťahu, ak o to zamestnanec požiada bývalého zamestnávateľa, u ktorého vykonával prácu s rizikovými faktormi podľa § 30 ods. 1 písm. j) jedenásteho bodu s neskorými následkami na zdravie.
+- e) po skončení pracovnoprávneho vzťahu alebo obdobného pracovného vzťahu, ak o to zamestnanec požiada bývalého zamestnávateľa, u ktorého vykonával prácu s rizikovými faktormi podľa § 30 ods. 1 písm. j) dvanásteho bodu s neskorými následkami na zdravie.
 
 (10) Lekárske preventívne prehliadky vo vzťahu k práci podľa odseku 9 písm. b) sa vykonávajú
 
 - a) jeden raz za dva roky u zamestnanca a fyzickej osoby – podnikateľa, ktorá nezamestnáva iné fyzické osoby, ak vykonávajú práce zaradené do tretej kategórie,
 
-- b) jeden raz za rok u zamestnanca a fyzickej osoby – podnikateľa, ktorá nezamestnáva iné fyzické osoby, ak vykonávajú práce zaradené do štvrtej kategórie.<sup>2</sup>)
+- b) jeden raz za rok u zamestnanca a fyzickej osoby – podnikateľa, ktorá nezamestnáva iné fyzické osoby, ak vykonávajú práce zaradené do štvrtej kategórie.
 
 (11) Lekárske preventívne prehliadky vo vzťahu k práci podľa odseku 1 písm. a) piateho bodu sa vykonávajú jeden raz za tri roky.
 

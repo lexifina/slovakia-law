@@ -1,14 +1,20 @@
 # § 17c Manažment rizík systému zásobovania pitnou vodou a povinnosti dodávateľa pitnej vody
 
-(1) Posúdenie rizík systému zásobovania pitnou vodou podľa § 17b ods. 4 písm. b)
+(1) Manažment rizík systému zásobovania pitnou vodou musí
 
-- a) zohľadňuje výsledky posúdenia rizík a riadenia rizík v súvislosti s plochami povodia pre miesta odberu z vodárenského zdroja,
+- a) zohľadňovať výsledky manažmentu rizík v súvislosti s plochami povodia pre miesta odberu vody určenej na ľudskú spotrebu,<sup>24f</sup>)
 
-- b) obsahuje popis systému zásobovania pitnou vodou od miesta odberu po vodovodnú prípojku,<sup>24g</sup>)
+- b) obsahovať popis systému zásobovania pitnou vodou od miesta odberu po miesto vstupu do domových rozvodných systémov,
 
-- c) identifikuje nebezpečenstvá a nebezpečné udalosti systému zásobovania pitnou vodou a obsahuje posúdenie rizík pre ľudské zdravie z používania pitnej vody s prihliadnutím na riziká vyplývajúce zo zmeny klímy, strát vody<sup>24h</sup>) a presakujúcich potrubí.
+- c) identifikovať nebezpečenstvá a nebezpečné udalosti v systéme zásobovania pitnou vodou,
 
-(2) Opatreniami v oblasti riadenia rizík na základe výsledkov posúdenia rizík systému zásobovania pitnou vodou sú
+- d) posudzovať a hodnotiť pravdepodobnosť výskytu nebezpečných udalostí, závažnosť ich nežiaducich následkov a mieru rizika v systéme zásobovania pitnou vodou podľa § 62 ods. 1 písm. w),
+
+- e) navrhovať opatrenia na riadenie rizík, ktoré v systéme zásobovania pitnou vodou môžu predstavovať riziko pre ľudské zdravie; pri návrhu opatrení sa prihliada na riziká vyplývajúce zo zmeny klímy, strát vody
+
+- <sup>24h</sup>) a presakujúcich potrubí.
+
+(2) Opatreniami na riadenie rizík na základe analýzy rizík, posúdenia rizík a vyhodnotenia rizík v systéme zásobovania pitnou vodou sú:
 
 - a) kontrolné opatrenia na predchádzanie rizík, zmiernenie rizík alebo odstránenie neprijateľných rizík, ktoré môžu znížiť kvalitu pitnej vody a ohroziť plynulé zásobovanie pitnou vodou,
 
@@ -24,27 +30,39 @@
 
 (3) Dodávateľom pitnej vody je
 
-- a) prevádzkovateľ verejného vodovodu,<sup>24k</sup>)
+- a) prevádzkovateľ verejného vodovodu,
 
-- b) fyzická osoba – podnikateľ alebo právnická osoba, ktorá dodáva pitnú vodu alebo používa pitnú vodu v rámci podnikateľskej činnosti, alebo ktorá dodáva pitnú vodu alebo používa pitnú vodu vo verejnom záujme a využíva vodárenské zdroje povolené na osobitné užívanie vôd<sup>24l</sup>) a nie je odberateľom pitnej vody z verejného vodovodu;<sup>24m</sup>) za dodávateľa pitnej vody sa nepovažuje prevádzkovateľ potravinárskeho podniku,<sup>24n</sup>)
+- <sup>24k</sup>)
 
-- c) každá osoba, ktorá pitnú vodu od dodávateľa podľa písmena a) alebo písmena b) dodáva alebo používa pitnú vodu v rámci podnikateľskej činnosti alebo vo verejnom záujme.
+- b) prevádzkovateľ prevádzkovo súvisiaceho verejného vodovodu,
+
+- <sup>24ka</sup>)
+
+- c) fyzická osoba – podnikateľ alebo právnická osoba, ktorá v rámci podnikateľskej činnosti dodáva pitnú vodu alebo používa pitnú vodu z vodárenských zdrojov
+
+- <sup>24kb</sup>) alebo z vodných zdrojov povolených na osobitné užívanie vôd<sup>24l</sup>) a nie je odberateľom pitnej vody z verejného vodovodu,
+
+- <sup>24m</sup>)
+
+- d) fyzická osoba – podnikateľ alebo právnická osoba, ktorá vo verejnom záujme dodáva pitnú vodu alebo používa pitnú vodu z vodárenských zdrojov alebo vodných zdrojov povolených na osobitné užívanie vôd<sup>24l</sup>) a nie je odberateľom pitnej vody z verejného vodovodu.
+
+- <sup>24m</sup>)
 
 (4) Dodávateľ pitnej vody je povinný
 
-- a) zabezpečiť, aby dodávaná pitná voda spĺňala požiadavky na zdravotnú bezpečnosť podľa § 17 ods. 6,
+- a) zabezpečiť, aby dodávaná pitná voda spĺňala požiadavky na zdravotnú bezpečnosť podľa § 17 ods. 6 v mieste vstupu do domových rozvodných systémov,
 
-- b) vypracovať pre každý systém zásobovania manažment rizík systému zásobovania pitnou vodou a predložiť ho podľa rozsahu územia, pre ktorý je vypracovaný, na posúdenie úradu verejného zdravotníctva alebo regionálnemu úradu verejného zdravotníctva, ak v odsekoch 5 a 6 nie je ustanovené inak; súčasťou manažmentu rizík systému zásobovania pitnou vodou je program monitorovania pitnej vody,
+- b) vypracovať pre každý systém zásobovania manažment rizík systému zásobovania pitnou vodou a predložiť ho podľa rozsahu územia, pre ktorý je vypracovaný, na schválenie úradu verejného zdravotníctva alebo regionálnemu úradu verejného zdravotníctva, ak v odsekoch 5 a 6 nie je ustanovené inak; súčasťou manažmentu rizík systému zásobovania pitnou vodou je program monitorovania pitnej vody,
 
 - c) aktualizovať manažment rizík systému zásobovania pitnou vodou najmenej raz za šesť rokov a predložiť ho podľa rozsahu územia, pre ktorý je vypracovaný, na schválenie úradu verejného zdravotníctva alebo regionálnemu úradu verejného zdravotníctva; opätovne na schválenie je potrebné ho predložiť pri každej jeho zmene,
 
 - d) poskytnúť osobe podľa odseku 3 písm. c), ktorej dodáva pitnú vodu, dostačujúce informácie z manažmentu rizík systému zásobovania pitnou vodou a výsledky monitorovania kvality pitnej vody v systéme zásobovania pitnou vodou na vytvorenie programu monitorovania pitnej vody alebo manažmentu rizík systému zásobovania pitnou vodou,
 
-- e) vykonávať kontrolu kvality pitnej vody podľa programu monitorovania,
+- e) vykonávať kontrolu kvality pitnej vody podľa programu monitorovania, ktorý je povinný aktualizovať a predložiť úradu verejného zdravotníctva alebo regionálnemu úradu verejného zdravotníctva do doby schválenia manažmentu rizík systému zásobovania pitnou vodou najmenej raz za šesť rokov,
 
 - f) vykonať mimoriadnu kontrolu kvality pitnej vody podľa všeobecne záväzného právneho predpisu vydaného podľa § 62 ods. 1 písm. w),
 
-- g) zabezpečovať akreditované odbery vzoriek pitnej vody a analýzy vzoriek pitnej vody vykonať v akreditovanom laboratóriu,
+- g) zabezpečovať odbery vzoriek pitnej vody podľa § 17 ods. 9 a analýzy vzoriek pitnej vody vykonať v akreditovanom laboratóriu,
 
 - h) predložiť regionálnemu úradu verejného zdravotníctva
 
@@ -70,15 +88,15 @@
 
   - 3. zmeny miest odberu vzoriek pitnej vody v programe monitorovania,
 
-  - 4. prekročenie limitu ukazovateľa kvality pitnej vody ustanoveného najvyššou medznou hodnotou,
+  - 4. prekročenie limitnej hodnoty ukazovateľa kvality pitnej vody ustanoveného najvyššou medznou hodnotou,
 
-  - 5. nedodržanie odporúčanej hodnoty látky alebo zlúčeniny zo zoznamu sledovaných látok alebo zlúčenín podľa § 5 ods. 4 písm. ao) tretieho bodu,
+  - 5. nedodržanie odporúčanej hodnoty látky alebo zlúčeniny zo zoznamu sledovaných látok alebo zlúčenín podľa § 5 ods. 4 písm. ap) tretieho bodu,
 
-  - 6. situácie, ktoré majú charakter incidentov podľa § 2 písm. zf),
+  - 6. situácie, ktoré majú charakter incidentov podľa § 2 písm. aq),
 
-- m) vykonať bezodkladne opakovaný odber vzorky pitnej vody, ak sa pri kontrole kvality pitnej vody zistilo prekročenie limitu ukazovateľa kvality pitnej vody určeného medznou hodnotou alebo najvyššou medznou hodnotou,
+- m) vykonať bezodkladne opakovaný odber vzorky pitnej vody, ak sa pri kontrole kvality pitnej vody zistilo prekročenie limitnej hodnoty ukazovateľa kvality pitnej vody určeného medznou hodnotou alebo najvyššou medznou hodnotou,
 
-- n) zistiť bezodkladne príčiny prekročenia limitu ukazovateľa kvality pitnej vody určeného najvyššou medznou hodnotou a zabezpečiť nápravné opatrenia na obnovenie kvality pitnej vody, ktoré sú nevyhnutné z hľadiska ochrany zdravia s ohľadom na rozsah prekročenia limitu a súvisiace možné ohrozenie pre ľudské zdravie,
+- n) zistiť bezodkladne príčiny prekročenia limitnej hodnoty ukazovateľa kvality pitnej vody určeného najvyššou medznou hodnotou a zabezpečiť nápravné opatrenia na obnovenie kvality pitnej vody, ktoré sú nevyhnutné z hľadiska ochrany zdravia s ohľadom na rozsah prekročenia limitnej hodnoty a súvisiace možné ohrozenie pre ľudské zdravie,
 
 - o) zabezpečiť náhradné zásobovanie, ak mu boli uložené opatrenia na predchádzanie ochoreniam, ktoré zakázali alebo obmedzili zásobovanie pitnou vodou, a informovať obyvateľov o obnovení zásobovania pitnou vodou,
 
@@ -86,7 +104,7 @@
 
   - 1. pitnej vode, ktoré sú ustanovené všeobecne záväzným právnym predpisom vydaným podľa § 62 ods. 1 písm. w),
 
-  - 2. prekročení limitu ukazovateľa kvality pitnej vody, možnom ohrození zdravia, jeho príčine a o prijatých opatreniach vrátane zákazu alebo obmedzenia používania pitnej vody na predchádzanie ochoreniam, ak je to potrebné,
+  - 2. prekročení limitnej hodnoty ukazovateľa kvality pitnej vody, možnom ohrození zdravia, jeho príčine a o prijatých opatreniach vrátane zákazu alebo obmedzenia používania pitnej vody na predchádzanie ochoreniam, ak je to potrebné,
 
 - q) poskytovať zásobovaným obyvateľom bez toho, aby museli o to žiadať, poradenstvo o podmienkach spotreby a používania pitnej vody a
 
@@ -100,26 +118,26 @@
 
 (5) Na dodávateľa pitnej vody, ktorý dodáva alebo používa v priemere 10 m<sup>3</sup> až 100 m<sup>3</sup> pitnej vody za deň alebo zásobuje 50 až 500 osôb, sa nevzťahuje povinnosť vypracovať a predložiť regionálnemu úradu verejného zdravotníctva manažment rizík systému zásobovania pitnou vodou a povinnosti podľa odseku 4 písm. c) a d).
 
-(6) Na dodávateľa pitnej vody, ktorý dodáva alebo používa v priemere menej ako 10 m<sup>3</sup> pitnej vody za deň alebo zásobuje menej ako 50 osôb, sa nevzťahujú povinnosti podľa § 17c ods. 4 písm. b) až d) a n) až r).
+(6) Na dodávateľa pitnej vody, ktorý dodáva alebo používa v priemere menej ako 10 m<sup>3</sup> pitnej vody za deň alebo zásobuje menej ako 50 osôb, sa nevzťahujú povinnosti podľa odseku 4 písm. b) až d) a p) a q).
 
 (7) Dodávateľ pitnej vody podľa odsekov 5 a 6 je povinný vypracovať a predložiť regionálnemu úradu verejného zdravotníctva program monitorovania; program monitorovania musí aktualizovať a predkladať najmenej raz za šesť rokov.
 
-(8) Žiadosť o posúdenie manažmentu rizík systému zásobovania pitnou vodou podľa § 13 ods. 4 písm. n) obsahuje
+(8) Žiadosť o posúdenie manažmentu rizík systému zásobovania pitnou vodou podľa § 13 ods. 4 písm. i) obsahuje
 
 - a) údaje podľa § 13 ods. 5 písm. a) a b),
 
-- b) návrh manažmentu rizík systému zásobovania pitnou vodou podľa § 13 ods. 4 písm. n) vrátane miest odberu.
+- b) návrh manažmentu rizík systému zásobovania pitnou vodou.
 
-(9) Úrad verejného zdravotníctva alebo regionálny úrad verejného zdravotníctva pri povoľovaní zmeny v programe monitorovania podľa § 13 ods. 4 písm. o) môže
+(9) Úrad verejného zdravotníctva alebo regionálny úrad verejného zdravotníctva pri povoľovaní zmeny v programe monitorovania podľa § 13 ods. 4 písm. j) môže
 
 - a) znížiť početnosť monitorovania ukazovateľov kvality pitnej vody alebo vypustiť ukazovateľ kvality pitnej vody zo zoznamu ukazovateľov na kontrolu kvality pitnej vody alebo
 
 - b) zvýšiť početnosť monitorovania ukazovateľov kvality pitnej vody alebo rozšíriť zoznam ukazovateľov na kontrolu kvality pitnej vody.
 
-(10) Žiadosť o posúdenie zmeny v programe monitorovania podľa § 13 ods. 4 písm. o) obsahuje
+(10) Žiadosť o posúdenie zmeny v programe monitorovania podľa § 13 ods. 4 písm. j) obsahuje
 
 - a) údaje podľa § 13 ods. 5 písm. a) a b),
 
 - b) manažment rizík systému zásobovania pitnou vodou,
 
-- c) návrh na zmenu v programe monitorovania podľa § 13 ods. 4 písm. o).
+- c) návrh na zmenu v programe monitorovania podľa § 13 ods. 4 písm. j).

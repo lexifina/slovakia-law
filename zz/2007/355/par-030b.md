@@ -8,9 +8,7 @@
 
 - b) obchodné meno, právnu formu, sídlo a identifikačné číslo, ak ide o právnickú osobu,
 
-- c) doklad o oprávnení na podnikanie,
-
-- d) doklady, že žiadateľ o oprávnenie na pracovnú zdravotnú službu má
+- c) doklady, že žiadateľ o oprávnenie na pracovnú zdravotnú službu má
 
   - 1. minimálny tím pracovnej zdravotnej služby podľa § 30a ods. 5, s ktorými má uzatvorený pracovnoprávny vzťah alebo obdobný pracovný vzťah,
 
@@ -46,43 +44,51 @@
 
 - c) obchodné meno, právnu formu, sídlo a identifikačné číslo právnickej osoby, ak ide o založenú právnickú osobu, obchodné meno, právnu formu a sídlo.
 
-(6) Fyzická osoba alebo založená právnická osoba, ktorej bolo vydané oprávnenie na pracovnú zdravotnú službu podľa odseku 5, môže začať vykonávať činnosť pracovnej zdravotnej služby, ak má živnostenské oprávnenie podľa osobitného predpisu<sup>34g</sup>) a úradu verejného zdravotníctva písomne predloží do 30 dní od získania živnostenského oprávnenia doklady podľa odseku 2 písm. a) až c) a písm. d) prvého bodu a druhého bodu.
+(6) Fyzická osoba alebo založená právnická osoba, ktorej bolo vydané oprávnenie na pracovnú zdravotnú službu podľa odseku 5, môže začať vykonávať činnosť pracovnej zdravotnej služby, ak má živnostenské oprávnenie podľa osobitného predpisu<sup>34g</sup>) a úradu verejného zdravotníctva písomne predloží do 30 dní od získania živnostenského oprávnenia doklady podľa odseku 2 písm. a) a b) a písm. c) prvého bodu a druhého bodu.
 
 (7) Úrad verejného zdravotníctva vydáva oprávnenie na pracovnú zdravotnú službu na dobu neurčitú.
 
-(8) Úrad verejného zdravotníctva oprávnenie na pracovnú zdravotnú službu odoberie, ak fyzická osoba – podnikateľ alebo právnická osoba (ďalej len „držiteľ oprávnenia na pracovnú zdravotnú službu“) opakovane neplní povinnosti podľa § 30d.
+(8) Úrad verejného zdravotníctva oprávnenie na pracovnú zdravotnú službu odoberie, ak držiteľ oprávnenia na pracovnú zdravotnú službu
 
-(9) Úrad verejného zdravotníctva oprávnenie na pracovnú zdravotnú službu ďalej odoberie, ak fyzická osoba alebo držiteľ oprávnenia na pracovnú zdravotnú službu požiada o odobratie oprávnenia na pracovnú zdravotnú službu.
+- a) opakovane neplní povinnosti podľa § 30d,
 
-(10) Platnosť oprávnenia na pracovnú zdravotnú službu zaniká
+- b) požiada o odobratie oprávnenia na pracovnú zdravotnú službu,
+
+- c) uviedol v žiadosti o vydanie oprávnenia na pracovnú zdravotnú službu nepravdivé údaje.
+
+(9) Platnosť oprávnenia na pracovnú zdravotnú službu zaniká
 
 - a) výmazom právnickej osoby z obchodného registra,
 
 - b) zánikom živnostenského oprávnenia,
 
-- c) nadobudnutím právoplatnosti rozhodnutia o odobratí oprávnenia na pracovnú zdravotnú službu podľa odsekov 8 a 9,
+- c) nadobudnutím právoplatnosti rozhodnutia o odobratí oprávnenia na pracovnú zdravotnú službu podľa odseku 8,
 
 - d) smrťou fyzickej osoby alebo fyzickej osoby – podnikateľa oprávnenej na výkon pracovnej zdravotnej služby alebo jej vyhlásením za mŕtvu.
 
-(11) Oprávnenie na pracovnú zdravotnú službu neprechádza na právneho nástupcu a je neprevoditeľné.
+(10) Oprávnenie na pracovnú zdravotnú službu neprechádza na právneho nástupcu a je neprevoditeľné.
 
-(12) Fyzická osoba – podnikateľ alebo právnická osoba, ktorej úrad verejného zdravotníctva odobral oprávnenie na pracovnú zdravotnú službu, môže opätovne požiadať o vydanie oprávnenia na pracovnú zdravotnú službu najskôr po uplynutí jedného roka odo dňa nadobudnutia právoplatnosti rozhodnutia o odobratí oprávnenia na pracovnú zdravotnú službu; to sa nevzťahuje na oprávnenia na pracovnú zdravotnú službu odobraté
+(11) Fyzická osoba – podnikateľ alebo právnická osoba, ktorej úrad verejného zdravotníctva odobral oprávnenie na pracovnú zdravotnú službu, môže opätovne požiadať o vydanie oprávnenia na pracovnú zdravotnú službu najskôr po uplynutí jedného roka odo dňa nadobudnutia právoplatnosti rozhodnutia o odobratí oprávnenia na pracovnú zdravotnú službu; to sa nevzťahuje na oprávnenia na pracovnú zdravotnú službu odobraté
 
 - a) za neplnenie povinností uvedených v § 30d ods. 1 písm. a) a b),
 
-- b) na základe žiadosti podľa odseku 9.
+- b) na základe žiadosti podľa odseku 8.
 
-(13) Fyzická osoba – podnikateľ alebo právnická osoba podľa § 30aa ods. 2 písm. a) až d), ktorá samostatne vykonáva činnosť pracovnej zdravotnej služby, je povinná úradu verejného zdravotníctva písomne ohlásiť začatie vykonávania svojej činnosti v lehote do 30 dní od začatia činnosti; v ohlásení uvedie údaje podľa § 5 ods. 4 písm. s) a dátum začatia vykonávania činností pracovnej zdravotnej služby (§ 30ab). Osoba podľa
+(12) Fyzická osoba – podnikateľ alebo právnická osoba podľa § 30aa ods. 2 písm. a) až d), ktorá samostatne vykonáva činnosť pracovnej zdravotnej služby, je povinná úradu verejného zdravotníctva písomne ohlásiť začatie vykonávania svojej činnosti v lehote do 30 dní od začatia činnosti; v ohlásení uvedie údaje podľa § 5 ods. 4 písm. s) a dátum začatia vykonávania činností pracovnej zdravotnej služby (§ 30ab). Osoba podľa
 
 - a) § 30aa ods. 2 písm. a) je povinná k ohláseniu priložiť kópiu licencie na výkon samostatnej zdravotníckej praxe alebo kópiu licencie na výkon zdravotníckeho povolania,
 
 - b) § 30aa ods. 2 písm. b) je povinná k ohláseniu priložiť kópiu licencie na výkon činnosti odborného zástupcu,
 
-- c) § 30aa ods. 2 písm. c) a d) je povinná k ohláseniu priložiť kópiu živnostenského oprávnenia a doklad o praxi na pracovisku orgánu verejného zdravotníctva alebo pracovnej zdravotnej služby v trvaní najmenej dvoch rokov.
+- c) § 30aa ods. 2 písm. c) a d) je povinná k ohláseniu priložiť doklad o praxi na pracovisku orgánu verejného zdravotníctva alebo pracovnej zdravotnej služby v trvaní najmenej dvoch rokov.
 
-(14) Úrad verejného zdravotníctva v evidencii osôb, ktoré samostatne vykonávajú niektoré činnosti pracovnej zdravotnej služby, vykoná výmaz z dôvodu opakovaného neplnenia povinností podľa § 30c; návrh na výmaz dáva regionálny úrad verejného zdravotníctva.
+(13) Úrad verejného zdravotníctva v evidencii osôb, ktoré samostatne vykonávajú činnosť pracovnej zdravotnej služby podľa odseku 12, vykoná výmaz na návrh príslušného orgánu verejného zdravotníctva,
 
-(15) Úrad verejného zdravotníctva v evidencii osôb, ktoré samostatne vykonávajú niektoré činnosti pracovnej zdravotnej služby, vykoná výmaz aj
+- a) ak zistí, že písomné ohlásenie začatia vykonávania činnosti pracovnej zdravotnej služby obsahuje nepravdivé údaje, alebo
+
+- b) ak osoba, ktorá samostatne vykonáva činnosť pracovnej zdravotnej služby, opakovane neplní povinnosti podľa § 30c.
+
+(14) Úrad verejného zdravotníctva v evidencii osôb, ktoré samostatne vykonávajú niektoré činnosti pracovnej zdravotnej služby, vykoná výmaz aj
 
 - a) na žiadosť osoby samostatne vykonávajúcej niektoré činnosti pracovnej zdravotnej služby,
 
@@ -94,4 +100,4 @@
 
 - e) po smrti fyzickej osoby alebo fyzickej osoby – podnikateľa, ktorá samostatne vykonáva niektoré činnosti pracovnej zdravotnej služby, alebo jej vyhlásením za mŕtvu.
 
-(16) Osoba samostatne vykonávajúca niektoré činnosti pracovnej zdravotnej služby, ktorú úrad verejného zdravotníctva vymazal podľa odseku 14 alebo odseku 15 písm. d), môže opätovne ohlásiť začatie svojej činnosti najskôr po uplynutí jedného roka odo dňa výmazu z evidencie.
+(15) Osoba samostatne vykonávajúca niektoré činnosti pracovnej zdravotnej služby, ktorú úrad verejného zdravotníctva vymazal podľa odseku 13 alebo odseku 14 písm. d), môže opätovne ohlásiť začatie svojej činnosti najskôr po uplynutí jedného roka odo dňa výmazu z evidencie.

@@ -18,10 +18,10 @@
 
 - c) nebezpečnou udalosťou je udalosť, ktorou sa do systému zásobovania pitnou vodou dostáva nebezpečenstvo, alebo pri ktorej sa takéto nebezpečenstvo nedarí zo systému zásobovania pitnou vodou odstrániť.
 
-(4) Manažment rizík pre vodárenský dodávateľský reťazec pozostáva z manažmentu rizík
+(4) Manažment rizík podľa odseku 1 pre vodárenský dodávateľský reťazec pozostáva z manažmentu rizík
 
-- a) v plochách povodia,<sup>24f</sup>) ktorý zahŕňa posúdenie rizík a riadenie rizík v súvislosti s plochami povodia pre miesta odberu,
+- a) v súvislosti s plochami povodia pre miesta odberu vody určenej na ľudskú spotrebu,<sup>24f</sup>)
 
-- b) systému zásobovania pitnou vodou, ktorý zahŕňa posúdenie rizík a riadenie rizík systému zásobovania pitnou vodou od miesta odberu, dopravu vody, úpravu, akumuláciu a distribúciu pitnej vody po vodovodnú prípojku,<sup>24g</sup>)
+- b) systému zásobovania pitnou vodou od miesta odberu, dopravu vody, úpravu, akumuláciu a distribúciu pitnej vody po miesto vstupu do domových rozvodných systémov,
 
-- c) domových rozvodných systémov, ktorý zahŕňa posúdenie rizík z domových rozvodných systémov; domovým rozvodným systémom sú potrubia, armatúry a zariadenia nainštalované medzi vodovodným kohútikom a rozvodnou vodovodnou sieťou dodávateľa pitnej vody.
+- c) domových rozvodných systémov; domovým rozvodným systémom sú potrubia, armatúry a zariadenia nainštalované medzi vodovodným kohútikom a rozvodnou vodovodnou sieťou dodávateľa pitnej vody.

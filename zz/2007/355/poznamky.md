@@ -40,6 +40,8 @@
 
 - 12b) § 59 ods. 2 zákona č. 364/2004 Z. z. v znení neskorších predpisov.
 
+- 12ba) Nariadenie Európskeho parlamentu a Rady (EÚ) 2022/2371 z 23. novembra 2022 o závažných cezhraničných ohrozeniach zdravia, ktorým sa zrušuje rozhodnutie č. 1082/2013/EÚ.
+
 - 12c) § 14 ods. 1 písm. a) a d) zákona č. 153/2013 Z. z.
 
 - 12d) Čl. 9 ods. 1 písm. a), b), c), d), g), h), j), i), k) a ods. 2, čl. 10 ods. 1 a čl. 15 ods. 1 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1169/2011 z 25. októbra 2011 o poskytovaní informácií o potravinách spotrebiteľom, ktorým sa menia a dopĺňajú nariadenia Európskeho parlamentu a Rady (ES) č. 1924/2006 a (ES) č. 1925/2006 a ktorým sa zrušuje smernica Komisie 87/250/EHS, smernica Rady 90/496/EHS, smernica Komisie 1999/10/ES, smernica Európskeho parlamentu a Rady 2000/13/ES, smernice Komisie 2002/67/ES a 2008/5/ES a nariadenie Komisie (ES) č. 608/2004 (Ú. v. EÚ L 304, 22. 11. 2011) v platnom znení.
@@ -49,6 +51,32 @@
 - 12e) § 12 ods. 7 zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov.
 
 - 12f) Zákon č. 7/2010 Z. z. o ochrane pred povodňami v znení neskorších predpisov.
+
+- 12fa) Čl. 12 delegovaného nariadenia Komisie (EÚ) 2016/127 z 25. septembra 2015, ktorým sa dopĺňa nariadenie Európskeho parlamentu a Rady (EÚ) č. 609/2013, pokiaľ ide o osobitné požiadavky na zloženie a informácie platné pre počiatočnú dojčenskú výživu a následnú dojčenskú výživu a pokiaľ ide o požiadavky na informácie týkajúce sa výživy dojčiat a malých detí (Ú. v. EÚ L 25, 2. 2. 2016) v platnom znení.
+
+- Čl. 9 delegovaného nariadenia Komisie (EÚ) 2016/128 z 25. septembra 2015, ktorým sa dopĺňa nariadenie Európskeho parlamentu a Rady (EÚ) č. 609/2013, pokiaľ ide o osobitné požiadavky na zloženie potravín na osobitné lekárske účely a na informácie o nich (Ú. v. EÚ L 25, 2. 2. 2016) v platnom znení.
+
+- Čl. 7 delegovaného nariadenia Komisie (EÚ) 2017/1798 z 2. júna 2017, ktorým sa dopĺňa nariadenie Európskeho parlamentu a Rady (EÚ) č. 609/2013, pokiaľ ide o osobitné požiadavky na zloženie potravín určených na celkovú náhradu stravy na účely regulácie hmotnosti a o osobitné požiadavky na informácie o nich (Ú. v. EÚ L 259, 7. 10. 2017) v platnom znení.
+
+- 12fb) Čl. 3 ods. 2 písm. a) nariadenia Európskeho parlamentu a Rady (EÚ) 2015/2283 z 25. novembra 2015 o nových potravinách, ktorým sa mení nariadenie Európskeho parlamentu a Rady (EÚ) č. 1169/2011, ktorým sa zrušuje nariadenie Európskeho parlamentu a Rady (ES) č. 258/97 a nariadenie Komisie (ES) č. 1852/2001 (Ú. v. EÚ L 327, 11. 12. 2015) v platnom znení.
+
+- 12fc) Čl. 4 ods. 2 nariadenia (EÚ) 2015/2283 v platnom znení.
+
+- Čl. 3 ods. 1 vykonávacieho nariadenia Komisie (EÚ) 2018/456 z 19. marca 2018 o procedurálnych krokoch konzultačného postupu určovania statusu novej potraviny v súlade s nariadením Európskeho parlamentu a Rady (EÚ) 2015/2283 o nových potravinách (Ú. v. EÚ L 77, 20. 3. 2018).
+
+- 12fd) Čl. 4 ods. 3 nariadenia (EÚ) 2015/2283 v platnom znení.
+
+- 12fe) Čl. 5 nariadenia (EÚ) 2015/2283 v platnom znení.
+
+- 12fea) Čl. 3 ods. 2 písm. c) nariadenia Európskeho parlamentu a Rady (EÚ) 2015/2283 z 25. novembra 2015 o nových potravinách, ktorým sa mení nariadenie Európskeho parlamentu a Rady (EÚ) č. 1169/2011, ktorým sa zrušuje nariadenie Európskeho parlamentu a Rady (ES) č. 258/97 a nariadenie Komisie (ES) č. 1852/2001 (Ú. v. EÚ L 327, 11.12. 2015) v platnom znení.
+
+- 12ff) Čl. 15 ods. 2 nariadenia (EÚ) 2015/2283 v platnom znení.
+
+- Čl. 9 ods. 2 vykonávacieho nariadenia Komisie (EÚ) 2017/2468 z 20. decembra 2017, ktorým sa stanovujú požiadavky administratívneho a vedeckého charakteru na tradičné potraviny z tretích krajín v súlade s nariadením Európskeho parlamentu a Rady (EÚ) 2015/2283 o nových potravinách (Ú. v. EÚ L 351, 30. 12. 2017) v platnom znení.
+
+- 12ffa) Čl. 2 nariadenia Európskeho parlamentu a Rady (ES) č. 178/2002 z 28. januára 2002, ktorým sa ustanovujú všeobecné zásady a požiadavky potravinového práva, zriaďuje Európsky úrad pre bezpečnosť potravín a stanovujú postupy v záležitostiach bezpečnosti potravín (Ú. v. ES L 31, 1. 2. 2022) v platnom znení.
+
+- 12fg) § 2b zákona č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení zákona č. 360/2024 Z. z.
 
 - 12g) Príloha č. 3 šiesty bod písm. a) zákona č. 153/2013 Z. z. v znení neskorších predpisov.
 
@@ -72,7 +100,11 @@
 
 - 13ah) Čl. 25 ods. 1 nariadenia (ES) č. 1223/2009 v platnom znení.
 
-- 13ai) § 2 písm. e) nariadenia vlády Slovenskej republiky č. 404/2007 Z. z. o všeobecnej bezpečnosti výrobkov.
+- 13ai) Čl. 25 ods. 1 nariadenia Európskeho parlamentu a Rady (EÚ) 2023/988 z 10. mája 2023 o všeobecnej bezpečnosti výrobkov, ktorým sa mení nariadenie Európskeho parlamentu a Rady (EÚ) č. 1025/2012 a smernica Európskeho parlamentu a Rady (EÚ) 2020/1828 a zrušuje smernica Európskeho parlamentu a Rady 2001/95/ES a smernica Rady 87/357/EHS (Ú. v. EÚ L 135, 23. 5. 2023) v platnom znení.
+
+- 13aia) § 10 ods. 5 zákona č. 83/2025 Z. z. o všeobecnej bezpečnosti výrobkov a o zmene a doplnení niektorých zákonov.
+
+- 13aib) Príloha I bod 2.2 delegovaného nariadenia Komisie (EÚ) 2024/3173 z 27. augusta 2024, ktorým sa dopĺňa nariadenie Európskeho parlamentu a Rady (EÚ) 2023/988, pokiaľ ide o pravidlá prístupu a fungovania systému rýchleho varovania Safety Gate, informácie, ktoré sa do tohto systému majú vkladať, požiadavky na oznámenia a kritériá na posúdenie úrovne rizika (Ú. v. EÚ L, 2024/3173, 13. 12. 2024) v platnom znení.
 
 - 13aj) Čl. 2 ods. 1 písm. p) nariadenia (ES) č. 1223/2009 v platnom znení.
 
@@ -80,9 +112,11 @@
 
 - 13al) Zákon č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 13am) § 5 ods. 3 zákona č. 199/2004 Z. z. v znení neskorších predpisov.
+- 13am) Čl. 25 až 28 nariadenia Európskeho parlamentu a Rady (EÚ) 2019/1020 z 20. júna 2019 o dohľade nad trhom a súlade výrobkov a o zmene smernice 2004/42/ES a nariadení (ES) č. 765/2008 a (EÚ) č. 305/2011 (Ú. v. EÚ L 169, 25. 6. 2019) v platnom znení.
 
-- 13an) § 20 ods. 3 písm. i) zákona č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov.
+- 13an) Napríklad nariadenie (EÚ) 2019/1020 v platnom znení, § 26 ods. 1 písm. f) zákona č. 108/2024 Z. z. o ochrane spotrebiteľa a o zmene a doplnení niektorých zákonov.
+
+- 13ao) Nariadenie (EÚ) 2019/1020 v platnom znení.
 
 - 13b) § 7 zákona č. 125/2006 Z. z. v znení neskorších predpisov.
 
@@ -93,6 +127,8 @@
 - 13e) Čl. 11 nariadenia Európskeho parlamentu a Rady (EÚ) 2023/1542 z 12. júna 2023 o batériách a odpadových batériách, ktorým sa mení smernica 2008/98/ES a nariadenie (EÚ) 2019/1020 a zrušuje smernica 2006/66/ES (Ú. v. EÚ L 191, 28. 7. 2023) v platnom znení.
 
 - 13f) § 26 až 29 zákona č. 56/2018 Z. z. o posudzovaní zhody výrobku, sprístupňovaní určeného výrobu na trhu a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 13g) Nariadenie Európskeho parlamentu a Rady (ES) č. 851/2004 z 21. apríla 2004, ktorým sa zriaďuje Európske Centrum pre prevenciu a kontrolu chorôb (Ú. v. EÚ L 142, 30. 4. 2004) v platnom znení.
 
 - 14) Zákon č. 157/2018 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -114,15 +150,17 @@
 
 - 16aab) Zákon č. 39/2013 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 16aaba) § 2 ods. 6 Stavebného zákona.
+
 - 16aac) § 69 Stavebného zákona.
 
 - 16aad) § 70 Stavebného zákona.
 
+- 16b) Príloha I nariadenia Európskeho parlamentu a Rady (ES) č. 1272/2008 zo 16. decembra 2008 o klasifikácii, označovaní a balení látok a zmesí, o zmene, doplnení a zrušení smerníc 67/548/EHS a 1999/45/ES a o zmene a doplnení nariadenia (ES) č. 1907/2006 (Ú. v. EÚ L 353, 31. 12. 2008) v platnom znení.
+
 - 17) Zákon č. 193/2005 Z. z. o rastlinolekárskej starostlivosti.
 
-- 17a) Príloha I nariadenia Európskeho parlamentu a Rady (ES) č. 1272/2008 zo 16. decembra 2008 o klasifikácii, označovaní a balení látok a zmesí, o zmene, doplnení a zrušení smerníc 67/548/EHS a 1999/45/ES a o zmene a doplnení nariadenia (ES) č. 1907/2006 (Ú. v. EÚ L 353, 31. 12. 2008) v platnom znení.
-
-- 18) Zákon č. 470/2005 Z. z. o pohrebníctve a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+- 17a) Nariadenie vlády Slovenskej republiky č. 121/2024 Z. z. o ochrane zdravia zamestnancov pred rizikami súvisiacimi s expozíciou karcinogénnym faktorom, mutagénnym faktorom alebo reprodukčne toxickým faktorom pri práci.
 
 - 19) § 36 ods. 5 písm. g) zákona č. 442/2002 Z. z. v znení zákona č. 517/2022 Z. z.
 
@@ -134,15 +172,25 @@
 
 - 19b) § 7a ods. 8 zákona č. 364/2004 Z. z. v znení zákona č. 517/2022 Z. z.
 
-- 21) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+- 21) Zákon č. 422/2015 Z. z. o uznávaní dokladov o vzdelaní a o uznávaní odborných kvalifikácií a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 22) § 11 až 19 zákona č. 293/2007 Z. z. o uznávaní odborných kvalifikácií v znení neskorších predpisov.
+- 22) Napríklad nariadenie Európskeho parlamentu a Rady (ES) č. 852/2004 z 29. apríla 2004 o hygiene potravín (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 34; Ú. v. EÚ L 139, 30. 4. 2004) v platnom znení.
 
-- 23) § 26 zákona č. 131/2010 Z. z. o pohrebníctve.
+- 22a) Čl. 2 ods. 1 písm. c) nariadenia (ES) č. 852/2004 v platnom znení.
 
-- 23a) Čl. 2 ods.1 písm. c) nariadenia Európskeho parlamentu a Rady (ES) č. 852/2004 z 29. apríla 2004 o hygiene potravín (Ú. v. EÚ L 139, 30. 4. 2004) v platnom znení.
+- 23) Čl. 3 ods. 2 nariadenia Európskeho parlamentu a Rady (ES) č. 178/2002 z 28. januára 2002, ktorým sa ustanovujú všeobecné zásady a požiadavky potravinového práva, zriaďuje Európsky úrad pre bezpečnosť potravín a stanovujú postupy v záležitostiach bezpečnosti potravín (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 6; Ú. v. ES L 31, 1. 2. 2002) v platnom znení.
 
-- 23b) Čl. 3 ods. 2 nariadenia Európskeho parlamentu a Rady (ES) č. 178/2002 z 28. januára 2002, ktorým sa ustanovujú všeobecné zásady a požiadavky potravinového práva, zriaďuje Európsky úrad pre bezpečnosť potravín a stanovujú postupy v záležitostiach bezpečnosti potravín (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 6; Ú. v. ES L 31, 1. 2. 2002) v platnom znení.
+- 23a) § 10 ods. 6 a § 28 ods. 3 zákona č. 292/2024 Z. z. o vzdelávaní dospelých a o zmene a doplnení niektorých zákonov.
+
+- 23b) STN EN ISO 29621 Kozmetické výrobky. Mikrobiológia. Usmernenie na hodnotenie rizika a identifikáciu výrobkov s nízkym rizikom mikrobiologickej kontaminácie (ISO 29621) (68 1707).
+
+- 23c) Napríklad čl. 2 ods. 18 a 20 nariadenia (ES) č. 1272/2008 v platnom znení, čl. 3 ods. 12 a 14 nariadenia Európskeho parlamentu a Rady (ES) č. 1907/2006 z 18. decembra 2006 o registrácii, hodnotení, autorizácii a obmedzovaní chemikálií (REACH) a o zriadení Európskej chemickej agentúry, o zmene a doplnení smernice 1999/45/ES a o zrušení nariadenia Rady (EHS) č. 793/93 a nariadenia Komisie (ES) č. 1488/94, smernice Rady 76/769/EHS a smerníc Komisie 91/155/EHS, 93/67/EHS, 93/105/ES a 2000/21/ES (Ú. v. EÚ L 396, 30. 12. 2006) v platnom znení.
+
+- 23d) Napríklad čl. 2 ods. 19 a 25 nariadenia (ES) č. 1272/2008 v platnom znení, čl. 3 ods. 13 a 24 nariadenia (ES) č. 1907/2006 v platnom znení.
+
+- 23e) § 26 zákona č. 131/2010 Z. z. o pohrebníctve v znení zákona č. 398/2019 Z. z.
+
+- 23f) § 26 ods. 2 zákona č. 131/2010 Z. z. v znení zákona č. 398/2019 Z. z.
 
 - 24) Čl. 3 ods. 2 nariadenia Európskeho parlamentu a Rady (ES) č. 178/2002 z 28. januára 2002, ktorým sa ustanovujú všeobecné zásady a požiadavky potravinového práva, zriaďuje Európsky úrad pre bezpečnosť potravín a stanovujú postupy v záležitostiach bezpečnosti potravín (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 6; Ú. v. ES L 31, 1. 2. 2002) v platnom znení.
 
@@ -156,9 +204,9 @@
 
 - 24e) § 2 písm. c) zákona č. 505/2009 Z. z. o akreditácii orgánov posudzovania zhody a o zmene a doplnení niektorých zákonov.
 
-- 24f) § 2 písm. aw) zákona č. 364/2004 Z. z. v znení zákona č. 517/2022 Z. z.
+- 24ea) Napríklad STN ISO 5667-5 Kvalita vody. Odber vzoriek. Časť 5: Pokyny na odber vzoriek pitnej vody z úpravní vôd a z distribučnej siete (75 7051), STN EN ISO 19458 Kvalita vody. Odber vzoriek na mikrobiologickú analýzu (75 7770).
 
-- 24g) § 4 ods. 1 zákona č. 442/2002 Z. z. v znení neskorších predpisov.
+- 24f) § 2 písm. aw) zákona č. 364/2004 Z. z. v znení zákona č. 517/2022 Z. z.
 
 - 24h) § 2 písm. q) zákona č. 442/2002 Z. z. v znení zákona č. 517/2022 Z. z.
 
@@ -168,29 +216,17 @@
 
 - 24k) § 5 ods. 3 zákona č. 442/2002 Z. z.
 
+- 24ka) § 2 písm. m) zákona č. 442/2002 Z. z. v znení zákona č. 516/2021 Z. z.
+
+- 24kb) § 7 ods. 1 zákona č. 364/2004 Z. z. v znení zákona č. 517/2022 Z. z.
+
 - 24l) § 21 ods. 1 zákona č. 364/2004 Z. z.
 
 - 24m) § 4 ods. 3 zákona č. 442/2002 Z. z.
 
-- 24n) Čl. 3 ods. 3 nariadenia (ES) č. 178/2002.
-
 - 24o) § 15 ods. 13 zákona č. 442/2002 Z. z. v znení zákona č. 517/2022 Z. z.
 
-- 24p) § 3 ods. 2 Stavebného zákona.
-
-- 24q) § 3 ods. 3 Stavebného zákona.
-
-- 24r) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
-
-- 24s) § 43c zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
-
-- 24sa) Vykonávacie rozhodnutie Komisie (EÚ) 2024/365 z 23. januára 2024, ktorým sa stanovujú pravidlá uplatňovania smernice Európskeho parlamentu a Rady (EÚ) 2020/2184, pokiaľ ide o metodiky testovania a schvaľovania východiskových látok, zmesí a zložiek, ktoré sa majú zaradiť do európskych zoznamov povolených látok (Ú. v. EÚ L, 2024/365, 23. 4. 2024).
-
-- Vykonávacie rozhodnutie Komisie (EÚ) 2024/367 z 23. januára 2024, ktorým sa stanovujú pravidlá uplatňovania smernice Európskeho parlamentu a Rady (EÚ) 2020/2184 prostredníctvom vypracovania európskych zoznamov povolených východiskových látok, zmesí alebo zložiek povolených na použitie pri výrobe materiálov alebo výrobkov, ktoré prichádzajú do kontaktu s vodou určenou na ľudskú spotrebu (Ú. v. EÚ L, 2024/367, 23. 4. 2024).
-
-- Vykonávacie rozhodnutie Komisie (EÚ) 2024/368 z 23. januára 2024, ktorým sa stanovujú pravidlá uplatňovania smernice Európskeho parlamentu a Rady (EÚ) 2020/2184, pokiaľ ide o postupy a metódy testovania a schvaľovania konečných materiálov používaných vo výrobkoch prichádzajúcich do kontaktu s vodou určenou na ľudskú spotrebu (Ú. v. EÚ L, 2024/368, 23. 4. 2024) v platnom znení.
-
-- Delegované nariadenie Komisie (EÚ) 2024/369 z 23. januára 2024, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady (EÚ) 2020/2184 stanovením postupu týkajúceho sa zaradenia východiskových látok, zmesí alebo zložiek do európskych zoznamov povolených východiskových látok, zmesí alebo zložiek alebo ich vypustenia z daných zoznamov (Ú. v. EÚ L, 2024/369, 23. 4. 2024).
+- 24sa) § 2 písm. o) a § 17 ods. 1 zákona č. 657/2004 Z. z. o tepelnej energetike v znení neskorších predpisov.
 
 - 24sb) Čl. 2 ods. 3 vykonávacieho rozhodnutia (EÚ) 2024/368 v platnom znení.
 
@@ -222,7 +258,7 @@
 
 - 24t) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 528/2012 z 22. mája 2012 o sprístupňovaní biocídnych výrobkov na trhu a ich používaní (Ú. v. EÚ L 167, 27. 6. 2012) v platnom znení.
 
-- 24u) Napríklad STN EN 12926: 2015 Chemikálie používané pri úprave vody na pitnú vodu. Peroxodisíran sodný. (75 8165) (EN), STN EN 14805: 2022 Chemikálie používané pri úprave vody na pitnú vodu. Chlorid sodný na elektrochloráciu na mieste. (75 8166) (EN), STN EN ISO 19458 Kvalita vody. Odber vzoriek na mikrobiologickú analýzu. (ISO 19458: 2006) (75 7770) a pod.
+- 24u) Napríklad STN EN 12926 Chemikálie používané pri úprave vody na pitnú vodu. Peroxodisíran sodný (75 8165), STN EN 14805 Chemikálie používané pri úprave vody na pitnú vodu. Chlorid sodný na elektrochloráciu na mieste (75 8166), STN EN ISO 19458 Kvalita vody. Odber vzoriek na mikrobiologickú analýzu (ISO 19458) (75 7770) a pod.
 
 - 25) § 3 ods. 2 zákona č. 364/2004 Z. z. v znení zákona č. 384/2009 Z. z.
 
@@ -248,9 +284,7 @@
 
 - 30) § 3 zákona č. 163/2001 Z. z.
 
-- 31) Civilný mimosporový poriadok.
-
-- Zákon č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov.
+- 31) Napríklad § 45 zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 365 zákona č. 161/2015 Z. z. Civilný mimosporový poriadok v znení zákona č. 338/2022 Z. z.
 
 - 32) § 45 ods. 1 písm. a) zákona č. 305/2005 Z. z. v znení neskorších predpisov.
 
@@ -259,8 +293,6 @@
 - 33) § 45 ods. 1 písm. e) zákona č. 305/2005 Z. z. v znení neskorších predpisov.
 
 - 33a) § 3d ods. 5 zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
-
-- 33aa) § 2 písm. a) vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 123/2008 Z. z. o podrobnostiach o ochrane spoločenských zvierat a o požiadavkách na karanténne stanice a útulky pre zvieratá.
 
 - 33aaa) § 13 ods. 6 zákona č. 448/2008 Z. z. v znení neskorších predpisov.
 
@@ -279,6 +311,10 @@
 - Zákon č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - Zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
+
+- 34aa) Napríklad § 15 ods. 6 nariadenia vlády Slovenskej republiky č. 83/2013 Z. z. o ochrane zdravia zamestnancov pred rizikami súvisiacimi s expozíciou biologickým faktorom pri práci, § 13 ods. 13 nariadenia vlády Slovenskej republiky č. 121/2024 Z. z. o ochrane zdravia zamestnancov pred rizikami súvisiacimi s expozíciou karcinogénnym faktorom, mutagénnym faktorom alebo reprodukčne toxickým faktorom pri práci.
+
+- 34ab) § 2 ods. 1 písm. n) zákona č. 87/2018 Z. z. o radiačnej ochrane a o zmene a doplnení niektorých zákonov v znení zákona č. 119/2023 Z. z.
 
 - 34b) § 58 a 58a Zákonníka práce v znení neskorších predpisov.
 
@@ -360,19 +396,9 @@
 
 - 45) Nariadenie vlády Slovenskej republiky č. 356/2006 Z. z. o ochrane zdravia zamestnancov pred rizikami súvisiacimi s expozíciou karcinogénnym a mutagénnym faktorom pri práci.
 
-- 45a) § 11 nariadenia vlády Slovenskej republiky č. 253/2006 Z. z.
+- 45a) Príloha č. 2 položka č. 93 zákona č. 455/1991 Zb.
 
-- 45b) § 7 nariadenia vlády Slovenskej republiky č. 253/2006 Z. z.
-
-- 45c) Príloha č. 2 položka č. 93 zákona č. 455/1991 Zb. v znení zákona č. 204/2014 Z. z.
-
-- 45d) § 2 nariadenia vlády Slovenskej republiky č. 253/2006 Z. z.
-
-- 45e) § 5, 8, 11 a 12 nariadenia vlády Slovenskej republiky č. 253/2006 Z. z.
-
-- 45f) § 3 nariadenia vlády Slovenskej republiky č. 253/2006 Z. z.
-
-- 46) Napríklad nariadenie vlády Slovenskej republiky č. 253/2006 Z. z., nariadenie vlády Slovenskej republiky č. 355/2006 Z. z.
+- 46) Napríklad nariadenie vlády Slovenskej republiky č. 355/2006 Z. z., nariadenie vlády Slovenskej republiky č. 121/2024 Z. z., nariadenie vlády Slovenskej republiky č. 396/2006 Z. z. o minimálnych bezpečnostných a zdravotných požiadavkách na stavenisko v znení nariadenia vlády Slovenskej republiky č. 469/2022 Z. z.
 
 - 47) Nariadenie vlády Slovenskej republiky č. 83/2013 Z. z. o ochrane zdravia zamestnancov pred rizikami súvisiacimi s expozíciou biologickým faktorom pri práci.
 
@@ -394,19 +420,23 @@
 
 - 47i) Čl. 20 nariadenia (ES) č. 1223/2009 v platnom znení.
 
+- 47ia) Čl. 16 ods. 3 nariadenia (EÚ) 2019/1020 v platnom znení.
+
 - 47j) Čl. 13 nariadenia (ES) č. 1223/2009 v platnom znení.
 
 - 47k) Čl. 3 nariadenia Európskeho parlamentu a Rady (ES) č. 1272/2008 zo 16. decembra 2008 o klasifikácii, označovaní a balení látok a zmesí, o zmene, doplnení a zrušení smerníc 67/548/EHS a 1999/45/ES a o zmene a doplnení nariadenia (ES) č. 1907/2006 (Ú. v. EÚ L 353, 31. 12. 2008) v platnom znení.
 
 - 47l) Čl. 18 ods. 1 nariadenia (ES) č. 1223/2009 v platnom znení.
 
-- 47m) § 6 ods. 2 zákona č. 250/2007 Z. z.
+- 47m) Čl. 3 bod. 3 nariadenia (EÚ) 2023/988 v platnom znení.
 
 - 47n) Nariadenie Komisie (ES) č. 440/2008 z 30. mája 2008, ktorým sa ustanovujú testovacie metódy podľa nariadenia Európskeho parlamentu a Rady (ES) č. 1907/2006 o registrácii, hodnotení, autorizácii a obmedzovaní chemických látok (REACH) (Ú. v. EÚ L 142, 31. 5. 2008) v platnom znení.
 
 - 47o) Čl. 2 ods. 1 písm. d) nariadenia (ES) č. 1223/2009 v platnom znení.
 
-- 47p) Napríklad zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov, zákon č. 147/1997 Z. z. o neinvestičných fondoch a o doplnení zákona Národnej rady Slovenskej republiky č. 207/1996 Z. z. v znení neskorších predpisov, zákon č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení neskorších predpisov, zákon č. 34/2002 Z. z. o nadáciách a o zmene Občianskeho zákonníka v znení neskorších predpisov.
+- 47p) Čl. 6 nariadenia (ES) č. 1223/2009 v platnom znení.
+
+- 47q) Čl. 25 ods. 1 a čl. 26 nariadenia (ES) č. 1223/2009 v platnom znení.
 
 - 61a) § 6 až 9 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov.
 
@@ -416,8 +446,6 @@
 
 - 62b) § 3 zákona č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu v znení neskorších predpisov.
 
-- 63) Zákon č. 448/2008 Z. z. v znení neskorších predpisov.
-
 - 63a) Nariadenie vlády Slovenskej republiky č. 391/2006 Z. z. o minimálnych bezpečnostných a zdravotných požiadavkách na pracovisko.
 
 - 63b) Príloha č. 1 osemnásty bod nariadenia vlády Slovenskej republiky č. 391/2006 Z. z.
@@ -426,19 +454,23 @@
 
 - 65) Zákon č. 217/2003 Z. z. o podmienkach uvedenia biocídnych výrobkov na trh a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 65a) Nariadenie Európskeho parlamentu a Rady (EÚ) 2015/2283 z 25. novembra 2015 o nových potravinách, ktorým sa mení nariadenie Európskeho parlamentu a Rady (EÚ) č. 1169/2011, ktorým sa zrušuje nariadenie Európskeho parlamentu a Rady (ES) č. 258/97 a nariadenie Komisie (ES) č. 1852/2001 (Ú. v. EÚ L 327, 11. 12. 2015).
+- 65a) Nariadenie (EÚ) 2015/2283 v platnom znení.
+
+- 65b) § 8 ods. 2 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
 - 65c) § 2 písm. d) zákona č. 505/2009 Z. z.
 
 - 66) § 26 ods. 1 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
-- 66a) § 6 ods. 5 nariadenia vlády Slovenskej republiky č. 404/2007 Z. z.
+- 66a) Čl. 25 nariadenia (EÚ) 2023/988 v platnom znení.
 
 - 66aa) § 5 ods. 6 písm. ab) zákona č. 153/2013 Z. z. v znení zákona č. 361/2024 Z. z.
 
 - 66ab) § 7 zákona č. 153/2013 Z. z. v znení neskorších predpisov.
 
 - 66b) § 63 ods. 21 zákona č. 351/2011 Z. z. o elektronických komunikáciách v znení neskorších predpisov.
+
+- 66c) Čl. 3 bod 17 nariadenia (EÚ) 2019/1020 v platnom znení.
 
 - 67) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
@@ -480,10 +512,12 @@
 
 - 72h) § 90 až 98 zákona č. 18/2018 Z. z. o ochrane osobných údajov.
 
-- 73) Príloha č. 1 kategória „A“ písm. d) body 4, 9, 10, 11, 43 nariadenia vlády Slovenskej republiky č. 322/2006 Z. z.
+- 73) § 4, § 21 nariadenia vlády Slovenskej republiky č. 296/2010 Z. z. v znení neskorších predpisov.
 
 - 74) Zákon č. 312/2001 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov.
+
+- 74a) § 83c ods. 17 nariadenia vlády Slovenskej republiky č. 296/2010 Z. z.
 
 - 75) Nariadenie Európskeho parlamentu a Rady (EÚ) 2022/2371 z 23. novembra 2022 o závažných cezhraničných ohrozeniach zdravia, ktorým sa zrušuje rozhodnutie č. 1082/2013/EÚ (Ú. v. EÚ L 314, 6. 12. 2022).

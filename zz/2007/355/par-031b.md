@@ -12,13 +12,13 @@
 
 - e) zamestnávateľovi,
 
-- f) poskytovateľovi zdravotnej starostlivosti, ktorý poskytuje ústavnú zdravotnú starostlivosť v nemocnici, ktorú vykonávajú lekári s odbornou spôsobilosťou na výkon špecializovaných pracovných činností v špecializačnom odbore pracovné lekárstvo, špecializačnom odbore klinické pracovné lekárstvo a klinická toxikológia alebo špecializačnom odbore dermatovenerológia, ktorého vedúci zamestnanec potvrdil uznanie choroby z povolania (§ 31a ods. 6),
+- f) poskytovateľovi zdravotnej starostlivosti, ktorý poskytuje ústavnú zdravotnú starostlivosť v nemocnici, ktorú vykonávajú lekári s odbornou spôsobilosťou na výkon špecializovaných pracovných činností v špecializačnom odbore pracovné lekárstvo alebo špecializačnom odbore dermatovenerológia, ktorého vedúci zamestnanec potvrdil uznanie choroby z povolania (§ 31a ods. 6),
 
 - g) Sociálnej poisťovni, útvaru sociálneho zabezpečenia Ministerstva vnútra Slovenskej republiky, Vojenskému úradu sociálneho zabezpečenia, útvaru sociálneho zabezpečenia Zboru väzenskej a justičnej stráže alebo útvaru sociálneho zabezpečenia Finančného riaditeľstva Slovenskej republiky.
 
 - h) Národnému inšpektorátu práce alebo Hlavnému banskému úradu, ak bola choroba z povolania uznaná osobe, ktorá vykonáva činnosť podľa osobitného predpisu.<sup>38c</sup>)
 
-(2) Evidenciu hlásení uznaných chorôb z povolania vedie v elektronickej podobe poskytovateľ zdravotnej starostlivosti, ktorý poskytuje ústavnú zdravotnú starostlivosť v nemocnici v špecializačnom odbore pracovné lekárstvo, špecializačnom odbore klinické pracovné lekárstvo a klinická toxikológia alebo špecializačnom odbore dermatovenerológia, ktorého vedúci zamestnanec potvrdil uznanie choroby z povolania (§ 31a ods. 6); evidencia obsahuje
+(2) Evidenciu hlásení uznaných chorôb z povolania vedie v elektronickej podobe poskytovateľ zdravotnej starostlivosti, ktorý poskytuje ústavnú zdravotnú starostlivosť v nemocnici v špecializačnom odbore pracovné lekárstvo alebo špecializačnom odbore dermatovenerológia, ktorého vedúci zamestnanec potvrdil uznanie choroby z povolania (§ 31a ods. 6); evidencia obsahuje
 
 - a) názov, adresu a identifikačné číslo poskytovateľa zdravotnej starostlivosti, ktorý chorobu z povolania uznal,
 
@@ -60,6 +60,6 @@
 
 (3) Vzor tlačiva určeného na hlásenie choroby z povolania je uvedený v prílohe č. 3f.
 
-(4) Poskytovateľ zdravotnej starostlivosti, ktorý poskytuje ústavnú zdravotnú starostlivosť v nemocnici v špecializačnom odbore pracovné lekárstvo, špecializačnom odbore klinické pracovné lekárstvo a klinická toxikológia alebo špecializačnom odbore dermatovenerológia, poskytuje údaje uvedené v odseku 2 po prijatí tlačiva hlásenie choroby z povolania alebo ohrozenia chorobou z povolania [odsek 1 písm. f)] do 10. dňa nasledujúceho kalendárneho mesiaca Centrálnemu registru hlásení uznaných chorôb z povolania, ktorý vedie Univerzitná nemocnica v Bratislave.
+(4) Poskytovateľ zdravotnej starostlivosti, ktorý poskytuje ústavnú zdravotnú starostlivosť v nemocnici v špecializačnom odbore pracovné lekárstvo alebo špecializačnom odbore dermatovenerológia, poskytuje údaje uvedené v odseku 2 po prijatí tlačiva hlásenie choroby z povolania alebo ohrozenia chorobou z povolania [odsek 1 písm. f)] do 10. dňa nasledujúceho kalendárneho mesiaca Centrálnemu registru hlásení uznaných chorôb z povolania, ktorý vedie Univerzitná nemocnica v Bratislave.
 
 (5) Osobné údaje súvisiace s prešetrovaním podozrenia na chorobu z povolania alebo ohrozenia chorobou z povolania, s hlásením choroby z povolania alebo ohrozenia chorobou z povolania a s evidenciou choroby z povolania alebo ohrozenia chorobou z povolania sú uvedené v prílohe č. 14 písm. a).
