@@ -176,8 +176,6 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 68. | Odborné poradenstvo v oblasti integrovanej prevencie a kontroly znečisťovania životného prostredia | osvedčenie na poskytovanie odborného poradenstva v oblasti integrovanej prevencie a kontroly znečisťovania | § 5 ods. 3 zákona č. 39/2013 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov |
 
-- 71. | – kvalitatívne a kvantitatívne zisťovanie faktorov životného prostredia a pracovného prostredia na účely posudzovania ich možného vplyvu na zdravie – hodnotenie vplyvov na verejné zdravie – hodnotenie zdravotných rizík zo životného prostredia – odber vzoriek zo životného prostredia a z pracovného prostredia na účely kvalitatívneho a kvantitatívneho zisťovania faktorov životného prostredia a pracovného prostredia – prácu s dezinfekčnými prípravkami na profesionálne použitie a na prácu s prípravkami na reguláciu živočíšnych škodcov na profesionálne použitie | osvedčenie o odbornej spôsobilosti | § 15 ods. 1 písm. a) zákona č. 355/2007 Z. z. § 15 ods. 1 písm. b) zákona č. 355/2007 Z. z. § 15 ods. 1 písm. b) zákona č. 355/2007 Z. z. § 15 ods. 1 písm. f) zákona č. 355/2007 Z. z. § 15 ods. 3 písm. b) zákona č. 355/2007 Z. z. |
-
 - 71. | Vykonávanie skúšky na overenie vzdelávacích výstupov | autorizácia na overovanie vzdelávacích výstupov | § 17 až 19 a 21 zákona č. 292/2024 Z. z. |
 
 - 72. | Vykonávanie majstrovskej skúšky | autorizácia na overovanie vzdelávacích výstupov | § 22 zákona č. 292/2024 Z. z. |
@@ -198,9 +196,9 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 79. | Pravidelná kontrola vykurovacích systémov, pravidelná kontrola klimatizačných systémov | potvrdenie o zápise do zoznamu odborne spôsobilých osôb | § 7 ods. 1 zákona č. 314/2012 Z. z. o pravidelnej kontrole vykurovacích systémov a klimatizačných systémov a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov |
 
-- 80. | Prevádzkovanie pohrebiska alebo Prevádzkovanie pohrebnej služby alebo Prevádzkovanie krematória | osvedčenie o odbornej spôsobilosti | § 16 ods. 15 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov | III
+- 80. | Prevádzkovanie pohrebiska alebo prevádzkovanie pohrebnej služby alebo prevádzkovanie krematória | osvedčenie o odbornej spôsobilosti | § 16n zákona č. 355/2007 Z. z. v znení zákona č. 165/2026 Z. z. |
 
-- 81. | Prevádzkovanie balzamovania a konzervácie | osvedčenie o odbornej spôsobilosti | § 16 ods. 10 zákona č. 355/2007 Z. z. |
+- 81. | Prevádzkovanie balzamovania a konzervácie | osvedčenie o odbornej spôsobilosti | § 16o zákona č. 355/2007 Z. z. v znení zákona č. 165/2026 Z. z. |
 
 - 82. | Zmenárne | devízová licencia | § 6 zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov |
 
@@ -224,19 +222,17 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 91. | Vykonávanie školení žiadateľov o vydanie osvedčenia o osobitných znalostiach | Poverenie | § 5b ods. 3 zákona č. 338/2000 Z. z. v znení zákona č. 35/2014 Z. z. |
 
-- 92. | Dohľad nad pracovnými podmienkami | – vysokoškolské vzdelanie druhého stupňa v magisterskom študijnom programe v študijnom odbore verejné zdravotníctvo | § 30aa ods. 2 písm. c) a d), § 63d ods. 6 a 7 zákona č. 355/2007 Z. z. v znení zákona č. 289/2017 Z. z. |
+- 92. | Dohľad nad pracovnými podmienkami | vysokoškolské vzdelanie druhého stupňa v magisterskom študijnom programe verejné zdravotníctvo v študijnom odbore verejné zdravotníctvo | § 30aa ods. 2 písm. c) a d), § 63j ods. 5 a 6 zákona č. 355/2007 Z. z. v znení neskorších predpisov |
 
-- | | – vysokoškolské vzdelanie prvého stupňa v bakalárskom študijnom programe v študijnom odbore verejné zdravotníctvo | |
+- | | vysokoškolské vzdelanie prvého stupňa v bakalárskom študijnom programe verejné zdravotníctvo v študijnom odbore verejné zdravotníctvo | |
 
-- | | – diplomovaný asistent hygieny a epidemiológie | |
+- | | úplné stredné odborné vzdelanie na strednej zdravotníckej škole v študijnom odbore asistent hygienickej služby | |
 
-- | | – asistent hygienickej služby | |
+- | | vyššie odborné vzdelanie na strednej zdravotníckej škole v študijnom odbore diplomovaný asistent hygieny a epidemiológie | |
 
-- | | – iný zdravotnícky pracovník so špecializáciou v špecializačnom odbore hygiena pracovných podmienok podľa predpisov účinných do 30. júna 2010 | |
+- | | vysokoškolské vzdelanie v magisterskom študijnom programe, inžinierskom študijnom programe alebo doktorskom študijnom programe a špecializácia v špecializačnom odbore hygiena pracovných podmienok, hygiena životného a pracovného prostredia alebo hygiena zdravých pracovných podmienok | |
 
-- | | – iný zdravotnícky pracovník so špecializáciou v špecializačnom odbore hygiena životného a pracovného prostredia podľa predpisov účinných do 28. marca 2002 | |
-
-- 93. | Odstraňovanie azbestu alebo materiálov obsahujúcich azbest zo stavieb pri búracích prácach, údržbárskych prácach, opravách a iných činnostiach | Oprávnenie na odstraňovanie azbestu alebo materiálov obsahujúcich azbest zo stavieb | § 41 zákona č. 355/2007 Z. z. v znení zákona č. 204/2014 Z. z. |
+- 93. | Odstraňovanie azbestu alebo materiálov obsahujúcich azbest zo stavieb pri búracích prácach, údržbárskych prácach, opravách a iných činnostiach | oprávnenie na odstraňovanie azbestu alebo materiálov obsahujúcich azbest zo stavieb | § 41 zákona č. 355/2007 Z. z. v znení neskorších predpisov |
 
 - 94. | Inštalácia, servis, údržba, oprava alebo vyraďovanie zariadení s obsahom fluórovaných skleníkových plynov | Osvedčenie o odborných znalostiach | § 6 ods. 12 zákona č. 286/2009 Z. z. o fluórovaných skleníkových plynoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov |
 
@@ -257,3 +253,17 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 - 98. | Činnosť examinátora v oblasti civilného letectva | osvedčenie examinátora | Príloha I podčasť K nariadenia Komisie (EÚ) č. 1178/2011 z 3. novembra 2011, ktorým sa ustanovujú technické požiadavky a administratívne postupy týkajúce sa posádky civilného letectva podľa nariadenia Európskeho parlamentu a Rady (ES) č. 216/2008 (Ú. v. EÚ L 311, 25. 11. 2011) v platnom znení letecký predpis |
 
 - 99. | Certifikovaný audítor kybernetickej bezpečnosti | Certifikát audítora kybernetickej bezpečnosti | § 29 ods. 3 zákona č. 69/2018 Z. z. o kybernetickej bezpečnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov |
+
+- 100. | Kvalitatívne a kvantitatívne zisťovanie fyzikálnych faktorov, chemických faktorov alebo biologických faktorov zo životného prostredia alebo z pracovného prostredia na účely posudzovania ich možného vplyvu na zdravie | osvedčenie o odbornej spôsobilosti | § 16a zákona č. 355/2007 Z. z. v znení zákona č. 165/2026 Z. z. |
+
+- 101. | Hodnotenie vplyvov na verejné zdravie | osvedčenie o odbornej spôsobilosti | § 16b zákona č. 355/2007 Z. z. v znení zákona č. 165/2026 Z. z. |
+
+- 102. | Hodnotenie zdravotných rizík z fyzikálnych faktorov, chemických faktorov alebo biologických faktorov zo životného prostredia | osvedčenie o odbornej spôsobilosti | § 16c zákona č. 355/2007 Z. z. v znení zákona č. 165/2026 Z. z. |
+
+- 103. | Odber vzoriek zo životného prostredia alebo z pracovného prostredia na účely kvalitatívneho a kvantitatívneho zisťovania faktorov zo životného prostredia alebo z pracovného prostredia | osvedčenie o odbornej spôsobilosti | § 16d zákona č. 355/2007 Z. z. v znení zákona č. 165/2026 Z. z. |
+
+- 104. | Práca s akútne toxickými látkami a zmesami | osvedčenie o odbornej spôsobilosti | § 16j zákona č. 355/2007 Z. z. v znení zákona č. 165/2026 Z. z. |
+
+- 105. | Práca s dezinfekčnými prípravkami na profesionálne použitie a práca s prípravkami na profesionálne použitie na reguláciu živočíšnych škodcov | osvedčenie o odbornej spôsobilosti | § 16k zákona č. 355/2007 Z. z. v znení zákona č. 165/2026 Z. z. |
+
+- 106. | Práca s prípravkami na profesionálne použitie na reguláciu živočíšnych škodcov fumigáciou | osvedčenie o odbornej spôsobilosti | § 16l zákona č. 355/2007 Z. z. v znení zákona č. 165/2026 Z. z. |
