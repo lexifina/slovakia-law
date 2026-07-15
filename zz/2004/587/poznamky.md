@@ -92,7 +92,7 @@
 
 - 12i) § 26 ods. 2 zákona č. 414/2012 Z. z. v znení neskorších predpisov.
 
-- 12j) § 25 písm. f) zákona č. 7/2010 Z. z. o ochrane pred povodňami v znení zákona č. 292/2017 Z. z.
+- 12j) § 19 zákona č. 414/2012 Z. z. v znení zákona č. 125/2026 Z. z.
 
 - 12k) § 36 ods. 1 písm. z) zákona č. 569/2007 Z. z. v znení zákona č. 292/2017 Z. z.
 

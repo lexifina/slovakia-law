@@ -6,9 +6,9 @@
 
 (3) Na základe rozhodnutia ministra podľa odseku 1 fond uzavrie so žiadateľom zmluvu o poskytnutí prostriedkov fondu.
 
-(4) Úhradu nákladov fondu, ministerstva alebo Ministerstva hospodárstva Slovenskej republiky vo veci odborného a administratívneho zabezpečenia plnenia záväzkov Slovenskej republiky v oblasti znižovania emisií skleníkových plynov a v oblasti podpory investícií z prostriedkov Modernizačného fondu na účely § 4 ods. 1 písm. m), bude priznaná oprávnenému žiadateľovi na základe rozhodnutia ministra.
+(4) Úhradu nákladov fondu, ministerstva, príspevkovej organizácie zriadenej ministerstvom, ktorá plní úlohy v zmysle osobitného predpisu,<sup>12j</sup>) alebo Ministerstva hospodárstva Slovenskej republiky vo veci odborného a administratívneho zabezpečenia plnenia záväzkov Slovenskej republiky v oblasti znižovania emisií skleníkových plynov a v oblasti podpory investícií z prostriedkov Modernizačného fondu na účely § 4 ods. 1 písm. m), bude priznaná oprávnenému žiadateľovi na základe rozhodnutia ministra.
 
-(5) Fond na základe rozhodnutia ministra priznané finančné prostriedky použije alebo prevedie v prospech účtu oprávnenej osoby podľa odseku 3.
+(5) Fond na základe rozhodnutia ministra priznané finančné prostriedky použije alebo prevedie v prospech účtu oprávneného žiadateľa podľa odseku 4.
 
 (6) Na poskytovanie prostriedkov fondu nie je právny nárok.
 
