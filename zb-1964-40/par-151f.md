@@ -1,0 +1,7 @@
+# § 151f
+
+(1) Na vznik záložného práva k súboru vecí, práv alebo iných majetkových hodnôt, podniku alebo časti podniku ako celku sa vyžaduje registrácia v registri záložných práv. Na vznik záložného práva k jednotlivým súčastiam zálohu, pre ktoré to tento zákon alebo osobitný zákon ustanovuje, sa vyžaduje aj registrácia v osobitnom registri.
+
+(2) Záložné právo k veci, bytu, nebytovému priestoru, k právu a k inej majetkovej hodnote, ktoré záložca nadobudne v budúcnosti, ktoré vzniknú v budúcnosti alebo ktorých vznik závisí od splnenia podmienky, vznikne nadobudnutím vlastníckeho práva k veci, bytu alebo nebytovému priestoru, alebo nadobudnutím iného práva, alebo inej majetkovej hodnoty záložcom; to neplatí, ak záložné právo, na ktorého vznik sa vyžaduje jeho registrácia v registri záložných práv, nebolo registrované pred nadobudnutím vlastníckeho práva k veci, iného práva alebo inej majetkovej hodnoty záložcom.
+
+(3) Záložné právo k veci, bytu, nebytovému priestoru, právu a k inej majetkovej hodnote, ktoré záložca nadobudne v budúcnosti, ktoré vzniknú v budúcnosti alebo ktorých vznik závisí od splnenia podmienky, na ktorého vznik sa vyžaduje podľa tohto zákona alebo podľa osobitného zákona jeho registrácia v osobitnom registri, zapíše sa vznik záložného práva do tohto registra ku dňu nadobudnutia vlastníckeho práva k veci, bytu alebo nebytovému priestoru, alebo nadobudnutia iného práva, alebo inej majetkovej hodnoty záložcom.
