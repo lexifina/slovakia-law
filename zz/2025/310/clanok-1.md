@@ -4,6 +4,8 @@ Zákon č. 108/2024 Z. z. o ochrane spotrebiteľa a o zmene a doplnení niektor�
 
 - 1. V poznámke pod čiarou k odkazu 4 sa vypúšťa citácia „nariadenie Európskeho parlamentu a Rady (EÚ) č. 524/2013 z 21. mája 2013 o riešení spotrebiteľských sporov online, ktorým sa mení nariadenie (ES) č. 2006/2004 a smernica 2009/22/ES (nariadenie o riešení spotrebiteľských sporov online) (Ú. v. EÚ L 165, 18. 6. 2013),“.
 
+- 3. V § 4 ods. 2 písm. e) sa za číslo „4“ vkladá čiarka a slová „§ 623 ods. 2“.
+
 - 11. V § 5 ods. 6 sa vypúšťajú písmená l) a m).
 
 - 12. V § 5 sa za odsek 6 vkladá nový odsek 7, ktorý znie:
@@ -34,7 +36,119 @@ Zákon č. 108/2024 Z. z. o ochrane spotrebiteľa a o zmene a doplnení niektor�
 
 - 19. V § 11 ods. 6 písm. a) sa za slovami „hodnotenia produktov“ vypúšťa čiarka a slová „ktoré predáva alebo poskytuje,“.
 
+- 21. Za § 13 sa vkladajú § 13a a 13b, ktoré vrátane nadpisov znejú:
+
+- „§ 13a
+
+- Informácie o oprave tovaru
+
+- (1)
+
+- Osoba, ktorá v rámci svojho povolania alebo podnikateľskej činnosti poskytuje opravu, a to aj prostredníctvom inej osoby, ktorá koná v jej mene alebo na jej účet (ďalej len „opravovňa“), môže pred uzavretím zmluvy o oprave poskytnúť spotrebiteľovi európsky formulár pre informácie o oprave podľa prílohy č. 3a (ďalej len „európsky formulár o oprave“). Poskytnutím európskeho formulára o oprave sa informačná povinnosť podľa § 5 ods. 1 písm. a) až e), § 15 ods. 1 písm. a) a b) a ods. 3 a podľa osobitných predpisov<sup>56a</sup>) považuje za splnenú. Požiadavka na jasnosť a zrozumiteľnosť informácií tým nie je dotknutá.
+
+- (2)
+
+- Opravovňa poskytne spotrebiteľovi európsky formulár o oprave na trvanlivom médiu bezodkladne od podania žiadosti o poskytnutie európskeho formulára o oprave spotrebiteľom a bezplatne. Ak je na určenie povahy vady, druhu opravy a odhad ceny opravy potrebná diagnostická služba vrátane fyzického skontrolovania tovaru alebo skontrolovania tovaru na diaľku, opravovňa pred poskytnutím európskeho formulára o oprave informuje spotrebiteľa o nákladoch na diagnostickú službu alebo o spôsobe, akým sa tieto náklady vypočítajú a o najvyššej možnej výške nákladov na diagnostickú službu, ak vzhľadom na povahu diagnostickej služby nemožno náklady primerane určiť vopred. Opravovňa môže žiadať od spotrebiteľa úhradu účelne vynaložených nákladov na diagnostickú službu.
+
+- (3)
+
+- Podmienky opravy uvedené v európskom formulári o oprave sú pre opravovňu záväzné minimálne po dobu 30 dní odo dňa poskytnutia európskeho formulára o oprave spotrebiteľovi; tým nie je dotknuté právo spotrebiteľa a opravovne dohodnúť sa na dlhšej dobe viazanosti podmienok opravy uvedených v európskom formulári o oprave. Ak spotrebiteľ počas doby viazanosti európskym formulárom o oprave súhlasí s podmienkami opravy uvedenými v európskom formulári o oprave, opravovňa je povinná vykonať opravu za týchto podmienok. Informácie poskytnuté v európskom formulári o oprave tvoria neoddeliteľnú súčasť zmluvy o oprave a môžu sa zmeniť len s výslovným súhlasom oboch strán.
+
+- § 13b
+
+- Povinnosť vykonať opravu
+
+- (1)
+
+- Nad rozsah zákonnej zodpovednosti obchodníka za vady tovaru je výrobca povinný na žiadosť spotrebiteľa opraviť tovar, ak právny predpis v prílohe II smernice Európskeho parlamentu a Rady (EÚ) 2024/1799 z 13. júna 2024 o spoločných pravidlách na podporu opravy tovaru a o zmene nariadenia (EÚ) 2017/2394 a smerníc (EÚ) 2019/771 a (EÚ) 2020/1828 ustanovuje požiadavky na opraviteľnosť tovaru alebo časti tovaru, vrátane požiadaviek na zjednodušenie demontáže, prístup k náhradným dielom, informáciám a nástrojom súvisiacim s opravou, ktoré sa vzťahujú na tovar alebo časť tovaru (ďalej len „požiadavka na opraviteľnosť“).
+
+- (2)
+
+- Výrobca vykoná alebo zabezpečí vykonanie opravy podľa odseku 1 bezplatne alebo za primeranú cenu, v primeranej lehote od odovzdania tovaru spotrebiteľom alebo od sprístupnenia tovaru výrobcovi v rozsahu požiadavky na opraviteľnosť podľa právneho predpisu v prílohe II smernice (EÚ) 2024/1799, to neplatí, ak oprava nie je možná. Výrobca nesmie odmietnuť vykonať opravu len z dôvodu výšky nákladov na náhradné diely a nástroje potrebné na opravu alebo z dôvodu, že predchádzajúcu opravu vykonala opravovňa alebo iná osoba.
+
+- (3)
+
+- Ak výrobca nemá sídlo alebo miesto podnikania v Slovenskej republike alebo v inom členskom štáte, má povinnosť vykonať alebo zabezpečiť vykonanie opravy tovaru podľa odsekov 1 a 2
+
+- a)
+
+- splnomocnený zástupca so sídlom alebo miestom podnikania v členskom štáte,
+
+- b)
+
+- dovozca, ak výrobca nemá splnomocneného zástupcu so sídlom alebo miestom podnikania v členskom štáte,
+
+- c)
+
+- distribútor, ak dovozca nemá sídlo alebo miesto podnikania v členskom štáte.
+
+- (4)
+
+- Výrobca alebo osoba podľa odseku 3 môže počas opravy zapožičať spotrebiteľovi bezplatne alebo za primeraný poplatok dočasný náhradný tovar.
+
+- (5)
+
+- Výrobca alebo osoba podľa odseku 3 môže spotrebiteľovi ponúknuť renovovaný tovar,<sup>56b</sup>) ak oprava nie je možná.
+
+- (6)
+
+- Výrobca, ktorý poskytuje náhradné diely a nástroje na opravu tovaru podľa právneho predpisu v prílohe II smernice (EÚ) 2024/1799, je povinný ponúkať tieto náhradné diely a nástroje na opravu za primeranú cenu, ktorá neodrádza od opravy.
+
+- (7)
+
+- Výrobca a osoba podľa odseku 3 počas trvania povinnosti vykonať opravu podľa právneho predpisu v prílohe II smernice (EÚ) 2024/1799
+
+- a)
+
+- bezplatne, jasným a zrozumiteľným spôsobom sprístupní informácie o opravárenských službách,
+
+- b)
+
+- zverejní na svojom webovom sídle informatívnu cenu za bežnú opravu tovaru, na ktorý sa vzťahuje požiadavka na opraviteľnosť.
+
+- (8)
+
+- Výrobca nesmie používať zmluvné ustanovenia, hardvérové alebo softvérové techniky, ktoré bránia oprave tovaru, ak to nie je odôvodnené legitímnymi alebo objektívnymi faktormi vrátane ochrany práv duševného vlastníctva. Výrobca nesmie brániť opravovniam v používaní originálnych alebo použitých náhradných dielov, kompatibilných náhradných dielov alebo náhradných dielov vyrobených trojrozmernou tlačou, ak sú v súlade s požiadavkami podľa osobitných predpisov.<sup>56c</sup>)
+
+- (9)
+
+- Povinnosťou vykonať opravu podľa odsekov 1 až 3 nie je dotknuté právo spotrebiteľa uzavrieť zmluvu o oprave s inou opravovňou.“.
+
+  - Poznámky pod čiarou k odkazom 56a až 56c znejú:
+
+  - „<sup>56a</sup>) § 4 ods. 1 písm. a) a c) zákona č. 22/2004 Z. z.
+
+  - § 6 ods. 1 písm. a), i) až k) zákona č. 136/2010 Z. z. o službách na vnútornom trhu a o zmene a doplnení niektorých zákonov.
+
+  - <sup>56b</sup>) Čl. 2 ods. 18 nariadenia (EÚ) 2024/1781 v platnom znení.
+
+  - <sup>56c</sup>) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) 2023/988 z 10. mája 2023 o všeobecnej bezpečnosti výrobkov, ktorým sa mení nariadenie Európskeho parlamentu a Rady (EÚ) č. 1025/2012 a smernica Európskeho parlamentu a Rady (EÚ) 2020/1828 a zrušuje smernica Európskeho parlamentu a Rady 2001/95/ES a smernica Rady 87/357/EHS (Ú. v. EÚ L 135, 23. 5. 2023), zákon č. 56/2018 Z. z. o posudzovaní zhody výrobku, sprístupňovaní určeného výrobku na trhu a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
 - 27. V § 20 ods. 1 písm. b) sa slová „dňa uzavretia zmluvy“ nahrádzajú slovami „dňa, kedy nastala skutočnosť podľa písmena a) prvého bodu až štvrtého bodu, ak bola zmluva uzavretá“.
+
+- 28. V § 24 sa za písmeno i) vkladá nové písmeno j), ktoré znie:
+
+- „j)
+
+- plní povinnosti národného kontaktného miesta pre európsku online platformu pre opravy, najmä
+
+- 1.
+
+- poskytuje podporu Európskej komisii pri prevádzkovaní vnútroštátnej sekcie európskej online platformy pre opravy,
+
+- 2.
+
+- poskytuje a spravuje prístup do vnútroštátnej sekcie európskej online platformy pre opravy,
+
+- 3.
+
+- informuje spotrebiteľov o dostupnosti a bezplatnom používaní európskej online platformy pre opravy,
+
+- 4.
+
+- informuje hospodárske subjekty o dostupnosti a dobrovoľnej registrácii na európskej online platforme pre opravy,“.
+
+  - Doterajšie písmeno j) sa označuje ako písmeno k).
 
 - 29. V § 26 ods. 1 písm. d) sa slovo „na“ nahrádza slovom „pre“.
 
@@ -67,6 +181,8 @@ Zákon č. 108/2024 Z. z. o ochrane spotrebiteľa a o zmene a doplnení niektor�
   - Doterajší odsek 7 sa označuje ako odsek 8.
 
 - 37. V § 26 ods. 8 písm. b) sa za slová „a § 22“ vkladá čiarka, vypúšťajú sa slová „a povinnosti podľa právne záväzného aktu Európskej únie,<sup>81</sup>)“ a slová „2 až 6“ sa nahrádzajú slovami „2 až 7“.
+
+- 38. V § 26 ods. 8 písm. b) sa za slová „§ 13“ vkladajú slová „až 13b“.
 
 - 39. V § 33 ods. 8 písm. a) sa na konci pripája čiarka a tieto slová: „alebo jeho úplným splnením“.
 
@@ -122,6 +238,64 @@ Zákon č. 108/2024 Z. z. o ochrane spotrebiteľa a o zmene a doplnení niektor�
 
 - Konania o porušení povinností podľa tohto zákona pri prevádzkovaní hazardných hier začaté a neukončené do 31. decembra 2025 dokončí orgán dohľadu príslušný na výkon dohľadu podľa tohto zákona v znení účinnom do 31. decembra 2025.“.
 
+- 54. Za prílohu č. 3 sa vkladá príloha č. 3a, ktorá vrátane nadpisu znie:
+
+- „Príloha č. 3a
+
+- k zákonu č. 108/2024 Z. z.
+
+- EURÓPSKY FORMULÁR PRE INFORMÁCIE O OPRAVE
+
+- Časť I
+
+- Identifikačné a kontaktné údaje opravovne poskytujúcej opravu
+
+- Opravovňa | [Obchodné meno a sídlo alebo miesto podnikania opravovne alebo osoby, v ktorej mene alebo na ktorej účet opravovňa koná]
+
+- Adresa | [Poštová adresa, ktorú má použiť spotrebiteľ]
+
+- Telefónne číslo |
+
+- E-mailová adresa |
+
+- Iný prostriedok online komunikácie, ktorý spotrebiteľovi umožňuje rýchlo kontaktovať opravovňu a účinne s ňou komunikovať, ak ho opravovňa poskytuje |
+
+- Časť II
+
+- Informácie o oprave
+
+- Tovar, ktorý sa má opraviť | [Identifikácia tovaru]
+
+- Povaha vady | [Opis vady]
+
+- Navrhovaný druh opravy | [Aké opatrenia sa prijmú na opravu vady]
+
+- Cena za opravu alebo ak ju nie je možné vypočítať, spôsob, akým sa cena vypočíta a najvyššia možná cena za opravu | [Ide o celkovú sumu za opravu, ak ju nie je možné vypočítať, spôsob, akým sa cena vypočíta a najvyššiu možnú cenu za opravu, v eurách]
+
+- Lehota na vykonanie opravy | [Lehota, v ktorej sa opravovňa zaväzuje opraviť tovar, vyjadrená v dňoch]
+
+- Dostupnosť dočasného náhradného tovaru | [Dočasný náhradný tovar znamená, že spotrebiteľ dostane rovnocenný tovar na použitie počas opravy; opravovňa uvedie „áno“ alebo „nie“]
+
+- Náklady na poskytnutie dočasného náhradného tovaru, ak sa dočasný náhradný tovar poskytuje | [v eurách]
+
+- Miesto odovzdania tovaru na opravu | [Miesto, kde spotrebiteľ odovzdáva tovar na opravu]
+
+- Dostupnosť doplnkových služieb | [Ak sa ponúkajú doplnkové služby, ako je prevzatie, inštalácia a preprava, uveďte, v akom rozsahu. Uveďte „žiadne“, ak sa na príslušnú opravu neponúka žiadna doplnková služba]
+
+- Náklady na doplnkovú službu, ak sa doplnková služba poskytuje | [Náklady na každú ponúkanú doplnkovú službu v eurách]
+
+- Obdobie viazanosti európskym formulárom pre informácie o oprave | [Obdobie viazanosti najmenej 30 dní]
+
+- Doplňujúce informácie | [Doplňujúce informácie, ak sú vzhľadom na povahu opravy potrebné]
+
+- Informácie v hranatých zátvorkách slúžia ako vysvetlenie pre opravovňu a opravovňa ich nahradí zodpovedajúcimi údajmi.“.
+
 - 55. V prílohe č. 4 sa vypúšťa šiesty bod.
 
   - Doterajší siedmy bod až desiaty bod sa označujú ako šiesty bod až deviaty bod.
+
+- 56. Príloha č. 4 sa dopĺňa jedenástym bodom, ktorý znie:
+
+- „11.
+
+- Smernica Európskeho parlamentu a Rady (EÚ) 2024/1799 z 13. júna 2024 o spoločných pravidlách na podporu opravy tovaru a o zmene nariadenia (EÚ) 2017/2394 a smerníc (EÚ) 2019/771 a (EÚ) 2020/1828 (Ú. v. EÚ L, 2024/1799, 10. 7. 2024).“.
