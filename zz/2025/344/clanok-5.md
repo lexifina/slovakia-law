@@ -58,6 +58,26 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
   - <sup>48b</sup>) § 8aa ods. 2 písm. g) zákona č. 581/2004 Z. z. v znení neskorších predpisov.“.
 
+- 8. V § 79 sa odsek 1 dopĺňa písmenami bz) až cb), ktoré znejú:
+
+- „bz)
+
+- poskytovať národnému centru v elektronickej podobe podľa štandardov zdravotníckej informatiky<sup>23aaa</sup>) na účely zdravotnej spôsobilosti dieťaťa na prijatie na predprimárne vzdelávanie podľa osobitného predpisu,<sup>55jawm</sup>) pri vykonaní 10. preventívnej prehliadky podľa osobitného predpisu,<sup>55jawe</sup>) stav zdravotnej spôsobilosti dieťaťa, ak nebola zistená odchýlka vo fyziologickom vývine dieťaťa, a následne stav zdravotnej spôsobilosti dieťaťa pri vykonaní 11. preventívnej prehliadky podľa osobitného predpisu,<sup>55jawe</sup>) ak nebola zistená odchýlka vo fyziologickom vývine dieťaťa lekárom so špecializáciou v špecializačnom odbore pediatria, ktorý poskytuje všeobecnú ambulantnú zdravotnú starostlivosť pre deti a dorast, a ktorý má so zákonným zástupcom v mene dieťaťa uzatvorenú dohodu o poskytovaní zdravotnej starostlivosti a na žiadosť zákonného zástupcu vyhotoviť odpis z registra potvrdení,
+
+- ca)
+
+- poskytovať národnému centru v elektronickej podobe podľa štandardov zdravotníckej informatiky<sup>23aaa</sup>) údaje do registra potvrdení podľa osobitného predpisu<sup>55jawm</sup>) na účely zdravotnej spôsobilosti dieťaťa na prijatie na predprimárne vzdelávanie podľa osobitného predpisu<sup>55jawm</sup>) na žiadosť zákonného zástupcu, ak neboli zapísané pri 10. alebo 11. preventívnej prehliadke, aktualizovať ich a na žiadosť zákonného zástupcu vyhotoviť odpis z registra potvrdení,
+
+- cb)
+
+- poskytovať národnému centru v elektronickej podobe podľa štandardov zdravotníckej informatiky<sup>23aaa</sup>) údaje do registra potvrdení podľa osobitného predpisu,<sup>55jawn</sup>) aktualizovať ich a na žiadosť osoby vyhotoviť odpis z registra potvrdení.“.
+
+  - Poznámky pod čiarou k odkazom 55jawm a 55jawn znejú:
+
+  - „<sup>55jawm</sup>) § 6c ods. 1 zákona č. 153/2013 Z. z. v znení zákona č. 344/2025 Z. z.
+
+  - <sup>55jawn</sup>) § 6c ods. 2 až 7 zákona č. 153/2013 Z. z. v znení zákona č. 344/2025 Z. z.“.
+
 - 9. Za § 102bc sa vkladá § 102bd, ktorý vrátane nadpisu znie:
 
 - „§ 102bd

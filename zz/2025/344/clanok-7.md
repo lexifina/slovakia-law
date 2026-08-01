@@ -5,3 +5,9 @@ Zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zm
 - 1. Poznámka pod čiarou k odkazu 14 znie:
 
 - „<sup>14</sup>) Zákon č. 157/2018 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
+- 2. V § 24 ods. 7 druhej vete sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „ak nie je potvrdenie o zdravotnej spôsobilosti elektronicky prístupné predškolským zariadeniam z registra potvrdení podľa osobitného predpisu.<sup>31a</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 31a znie:
+
+  - „<sup>31a</sup>) § 157 zákona č. 245/2008 Z. z. v znení neskorších predpisov.“.
