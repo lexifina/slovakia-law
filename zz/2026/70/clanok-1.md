@@ -14,6 +14,8 @@ Zákon Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v zne
 
 - „<sup>1c</sup>) § 3 písm. l) zákona č. 95/2019 Z. z. o informačných technológiách vo verejnej správe a o zmene a doplnení niektorých zákonov.“.
 
+- 4. V § 7 ods. 2 a 7, § 24 a 37c ods. 4 sa slovo „lekári“ nahrádza slovami „poskytovatelia zdravotnej starostlivosti“.
+
 - 5. V § 7 ods. 5 sa na konci pripájajú tieto vety: „Prostredníctvom elektronickej matriky sa poskytne osobe uvedenej v § 18 aj úradný výpis z elektronickej matriky a potvrdenie o údajoch zapísaných v elektronickej matrike, ku ktorému je pripojená kvalifikovaná elektronická pečať<sup>1f</sup>) ministerstva. Doručovanie v elektronickej podobe upravuje všeobecný predpis o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci.<sup>1g</sup>) Úradné výpisy z elektronickej matriky sú použiteľné na právne účely.“.
 
   - Poznámky pod čiarou k odkazom 1f a 1g znejú:
@@ -34,7 +36,15 @@ Zákon Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v zne
 
 - priezvisko dieťaťa na základe dohody rodičov o priezvisku dieťaťa, ak rodičia dieťaťa majú rôzne priezviská alebo nežijú v manželstve, prípadne na základe rozhodnutia súdu o určení priezviska dieťaťa,“.
 
+- 9. V § 13 ods. 3 sa za slovo „údajov“ vkladá čiarka a slová „ktorých súčasťou je aj dohoda rodičov o mene a priezvisku dieťaťa,“.
+
 - 10. V § 13 ods. 4 sa slová „úradne ustanoveného tlmočníka, musí tlmočník zložiť do rúk matrikára, pred ktorým vykonáva tlmočnícku funkciu,“ nahrádzajú slovami „tlmočníka zapísaného v zozname Ministerstva spravodlivosti Slovenskej republiky (ďalej len „ministerstvo spravodlivosti“),<sup>7</sup>) môže osoba vykonať tlmočenie, ak ju na to ustanovil matričný úrad a zložila“.
+
+- 11. § 13 sa dopĺňa odsekom 8, ktorý znie:
+
+- „(8)
+
+- Ak rodičia dieťaťa autorizujú u poskytovateľa zdravotnej starostlivosti<sup>6aa</sup>) dohodu rodičov o mene a priezvisku dieťaťa použitím občianskeho preukazu s elektronickým čipom alebo použitím dokladu o pobyte s elektronickým čipom, poskytnú mu aj svoje kontaktné údaje v rozsahu telefónne číslo a emailová adresa, ktoré môže matričný úrad použiť na účel kontaktovania rodičov dieťaťa v prípade riešenia nezrovnalostí pri vydávaní rodného listu dieťaťa.“.
 
 - 12. V § 14 písmeno d) znie:
 
