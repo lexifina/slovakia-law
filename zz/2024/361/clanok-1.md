@@ -594,6 +594,10 @@ Zákon č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o z
 
 - Úradu verejného zdravotníctva a regionálnym úradom verejného zdravotníctva údaje osoby z elektronickej zdravotnej knižky v rozsahu zdravotných záznamov podľa § 5 ods. 1 písm. a) a b) štvrtého, ôsmeho, deviateho a štrnásteho bodu o prenosných ochoreniach povinne hlásených podľa osobitného predpisu,<sup>15r</sup>) pohlavne prenosných ochoreniach hlásených podľa prílohy č. 3 šiesteho bodu tohto zákona, nemocničných nákazách hlásených podľa osobitného predpisu<sup>15s</sup>) doplnené o identifikátory zdravotných záznamov na účely vedenia Národného registra prenosných ochorení podľa osobitného predpisu<sup>15t</sup>) a doplnkové údaje osoby z elektronickej zdravotnej knižky v rozsahu podľa § 5 ods. 1 písm. a) a b) pätnásteho bodu o vykonanom očkovaní doplnené o identifikátory zdravotných záznamov na účely vedenia Národného registra očkovania podľa osobitného predpisu,<sup>15u</sup>)
 
+- g)
+
+- Ústrediu práce, sociálnych vecí a rodiny údaje z registra dočasných pracovných neschopností v rozsahu údajov podľa § 6a ods. 1 a prílohy č. 2 časť 1 písm. a) prvého bodu,
+
 - h)
 
 - príslušnej zdravotnej poisťovni údaje z registra dočasných pracovných neschopností v rozsahu údajov podľa § 6a ods. 1 písm. e) a g) a prílohy č. 2 časť 1 písm. a) prvého bodu v rozsahu údajov meno a priezvisko, dátum narodenia, rodné číslo, ak je pridelené, a bezvýznamové identifikačné číslo na účel kontroly, zefektívnenia zdravotnej starostlivosti a vykonávania verejného zdravotného poistenia.

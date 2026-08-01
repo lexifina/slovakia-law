@@ -70,7 +70,7 @@ Zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zm
 
 - k zákonu č. 355/2007 Z. z.
 
-- [príloha](assets/2d556c7da839919139a1e197c8a9cd6842ec6a59a8b934c30b887f7bcea048f4.pdf)“.
+- [príloha](assets/eba3513735bd3679ef1a55c9880a0dd84df5e94c53c8519ae3880dafb0b64afd.pdf)“.
 
 - 10. Príloha č. 6 vrátane nadpisu znie:
 
@@ -78,7 +78,7 @@ Zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zm
 
 - k zákonu č. 355/2007 Z. z.
 
-- [Príloha č. 6 k zákonu č. 355/2007 Z. z.](assets/6ec00da8c4a01564e37e2fded98f4f2f896ae0a3a03f4934b92ee70f671ad0cc.pdf)
+- [Príloha č. 6 k zákonu č. 355/2007 Z. z.](assets/600670ba36fb5d5a54d3aeae61a63b662fafdefa37949a3934d9f085147d3a1b.pdf)
 
 - “.
 
@@ -204,7 +204,7 @@ Zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zm
 
 - k zákonu č. 355/2007 Z. z.
 
-- [príloha](assets/b5d7ceb401544dd80ee3f20b9f0edf3a96d96f157189641c8415cfeb0b20b85b.pdf)
+- [príloha](assets/8b2b645f59af5749f61694edc849afbafb5585f9dd68a359296897d7f2c907ba.pdf)
 
 - Príloha č. 14 k zákonu č. 355/2007 Z. z.
 
