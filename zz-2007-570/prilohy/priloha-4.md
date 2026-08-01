@@ -1,0 +1,1 @@
+Príloha č. 4 k vyhláške č. 570/2007 Z. z. [VZOR 04 - OSVEDČENIE O ODBORNEJ SPÔSOBILOSTI](../assets/112c9992b42ebe0e0e81f9578ec03c35d2170a20b10fce58cad9b33984ed0887.pdf)
