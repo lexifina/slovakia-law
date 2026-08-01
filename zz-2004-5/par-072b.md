@@ -1,0 +1,17 @@
+# § 72b
+
+(1) Na účely poskytovania príspevku podľa § 50 zamestnávateľovi sa za občana so zdravotným postihnutím podľa § 9 ods. 1 písm. a) považuje aj občan, ktorý bol poberateľom invalidného dôchodku, ktorý sa odo dňa dovŕšenia dôchodkového veku považuje za starobný dôchodok, najdlhšie tri roky odo dňa, od ktorého sa invalidný dôchodok považuje za starobný dôchodok.
+
+(2) Na účely poskytovania príspevku podľa § 56 zamestnávateľovi, sa za občana so zdravotným postihnutím podľa § 9 ods. 1 písm. a) považuje aj občan, ktorý bol poberateľom invalidného dôchodku, ktorý sa odo dňa dovŕšenia dôchodkového veku považuje za starobný dôchodok, najdlhšie tri roky odo dňa, od ktorého sa invalidný dôchodok považuje za starobný dôchodok.
+
+(3) Na účely poskytovania príspevku podľa § 57 občanovi so zdravotným postihnutím podľa § 9 ods. 1 písm. a) sa za občana so zdravotným postihnutím podľa § 9 ods. 1 písm. a) považuje aj občan, ktorý bol poberateľom invalidného dôchodku, ktorý sa odo dňa dovŕšenia dôchodkového veku považuje za starobný dôchodok, najdlhšie dva roky odo dňa, od ktorého sa invalidný dôchodok považuje za starobný dôchodok.
+
+(4) Na účely poskytovania príspevku podľa § 59 zamestnávateľovi alebo samostatne zárobkovo činnej osobe sa za zamestnanca, ktorý je občanom so zdravotným postihnutím podľa § 9 ods. 1 písm. a), alebo za samostatne zárobkovo činnú osobu, ktorá je občanom so zdravotným postihnutím podľa § 9 ods. 1 písm. a) a ktorým poskytuje pomoc pracovný asistent, považuje aj občan, ktorý bol poberateľom invalidného dôchodku, ktorý sa odo dňa dovŕšenia dôchodkového veku považuje za starobný dôchodok, najdlhšie tri roky odo dňa, od ktorého sa invalidný dôchodok považuje za starobný dôchodok.
+
+(5) Na účely poskytovania príspevku podľa § 60 právnickej osobe na úhradu prevádzkových nákladov chránenej dielne alebo chráneného pracoviska a na úhradu nákladov na dopravu zamestnancov sa za občana so zdravotným postihnutím podľa § 9 ods. 1 písm. a) považuje aj občan, ktorý bol poberateľom invalidného dôchodku, ktorý sa odo dňa dovŕšenia dôchodkového veku považuje za starobný dôchodok, najdlhšie tri roky odo dňa, od ktorého sa invalidný dôchodok považuje za starobný dôchodok.
+
+(6) Na účely poskytovania príspevku podľa § 60 fyzickej osobe na úhradu prevádzkových nákladov chránenej dielne alebo chráneného pracoviska sa za občana so zdravotným postihnutím podľa § 9 ods. 1 písm. a) považuje aj občan, ktorý bol poberateľom invalidného dôchodku, ktorý sa odo dňa dovŕšenia dôchodkového veku považuje za starobný dôchodok, najdlhšie dva roky odo dňa, od ktorého sa invalidný dôchodok považuje za starobný dôchodok.
+
+(7) Do povinného podielu počtu občanov so zdravotným postihnutím podľa § 9 ods. 1 písm. a) na celkovom počte zamestnancov zamestnávateľa za predchádzajúci kalendárny rok sa na účely § 63 a na účely zadávania zákaziek podľa § 64 započítava aj občan so zdravotným postihnutím podľa § 9 ods. 1 písm. a), ktorý bol poberateľom invalidného dôchodku, ktorý sa odo dňa dovŕšenia dôchodkového veku považuje za starobný dôchodok, odo dňa, od ktorého sa invalidný dôchodok považuje za starobný dôchodok. Podľa prvej vety sa postupuje už za celý kalendárny rok 2006.
+
+(8) Na účely realizácie projektov podľa § 54 sa za občana so zdravotným postihnutím podľa § 9 ods. 1 písm. a) považuje aj občan, ktorý bol poberateľom invalidného dôchodku, ktorý sa odo dňa dovŕšenia dôchodkového veku považuje za starobný dôchodok, najdlhšie tri roky odo dňa, od ktorého sa invalidný dôchodok považuje za starobný dôchodok.
