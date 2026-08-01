@@ -15,3 +15,5 @@
 - b) dôchodkovej správcovskej spoločnosti informáciu o tom, že bola určená sporiteľovi; súčasťou tohto oznámenia je meno, priezvisko, miesto trvalého pobytu, dátum narodenia a identifikačné číslo sociálneho zabezpečenia tohto sporiteľa.
 
 (4) Sociálna poisťovňa je povinná previesť povinné príspevky od vzniku prvej účasti na starobnom dôchodkovom sporení sporiteľa, ktorému určila dôchodkovú správcovskú spoločnosť, na účet nepriradených platieb príslušnej dôchodkovej správcovskej spoločnosti do 30 dní odo dňa určenia dôchodkovej správcovskej spoločnosti.
+
+(5) Ak počas plynutia lehoty podľa § 64 ods. 1 dôjde k úmrtiu sporiteľa, ktorému vznikla prvá účasť na starobnom dôchodkovom sporení, Sociálna poisťovňa určí tomuto sporiteľovi dôchodkovú správcovskú spoločnosť bezodkladne.
