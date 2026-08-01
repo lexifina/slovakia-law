@@ -204,11 +204,23 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 
 - 31. V § 184 ods. 13 písm. a) sa slovo „desať“ nahrádza slovom „štrnásť“ a slovo „desiatich“ nahrádza slovom „štrnástich“.
 
+- 32. V § 184 ods. 13 písm. a) prvom bode sa slovo „desať“ nahrádza slovom „štrnásť“ a slovo „desiatich“ sa nahrádza slovom „štrnástich“.
+
 - 33. V § 185 ods. 1 písm. a) sa slovo „11-tym“ nahrádza slovom „15-tym“.
 
 - 34. V § 185 ods. 1 písm. b) sa slová „10 dní“ nahrádzajú slovami „14 dní“.
 
+- 35. V § 185 ods. 2 písm. a) prvom bode sa slová „11. dňom“ nahrádzajú slovami „15. dňom“.
+
+- 36. V § 185 ods. 2 písm. a) druhom bode sa slová „10 dní“ nahrádzajú slovami „14 dní“.
+
 - 37. V poznámke pod čiarou k odkazu 96a sa vypúšťajú slová „o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov“.
+
+- 38. V § 226 odsek 5 znie:
+
+- „(5)
+
+- Sociálna poisťovňa je povinná v elektronickej podobe sprístupniť zamestnávateľovi informácie o jeho zamestnancovi bez súhlasu dotknutej osoby, ktoré spracúva vo svojom informačnom systéme a sú nevyhnutné na určenie vzniku, trvania alebo zániku nemocenského poistenia, dôchodkového poistenia a poistenia v nezamestnanosti zamestnanca, platenie poistného na tieto poistenia z dôvodu priznania starobného dôchodku, predčasného starobného dôchodku alebo invalidného dôchodku vrátane dňa vydania rozhodnutia o priznaní tohto dôchodku a na splnenie povinnosti podľa § 231 ods. 1 písm. d), ak ide o prerušenie nemocenského poistenia, dôchodkového poistenia a poistenia v nezamestnanosti zamestnanca z dôvodu podľa § 26 ods. 1 písm. e) a ods. 3 písm. b) a c).“.
 
 - 39. V § 226 odsek 6 znie:
 
@@ -245,6 +257,8 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 - ktorá vykonáva zárobkovú činnosť uvedenú v § 3 ods. 1 písm. b) a ods. 2 a 3, na výkon ktorej sa nevyžaduje oprávnenie alebo postup podľa osobitného predpisu, je povinná oznámiť príslušnej pobočke skutočnosti rozhodujúce na posúdenie vzniku a zániku povinného nemocenského poistenia a povinného dôchodkového poistenia samostatne zárobkovo činnej osoby podľa § 21, a to do ôsmich dní odo dňa, v ktorom nastali.“.
 
 - 42. V § 231 ods. 1 písm. e) sa slovo „desať“ nahrádza slovom „štrnásť“ a slovo „desiatom“ nahrádza slovom „štrnástom“.
+
+- 43. V § 231 ods. 1 písm. q) prvom bode sa slová „§ 140 ods. 1 písm. b) až d)“ nahrádzajú slovami „§ 54 ods. 10 písm. a) druhého bodu a tretieho bodu“.
 
 - 44. Nad § 293gl sa vkladá nadpis, ktorý znie: „Prechodné ustanovenia k úpravám účinným od 1. januára 2026“.
 
