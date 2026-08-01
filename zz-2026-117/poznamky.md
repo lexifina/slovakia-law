@@ -1,0 +1,1 @@
+- 1) Čl. 6 ods. 1 nariadenia Európskeho parlamentu a Rady (EÚ) 2024/1309 z 29. apríla 2024 o opatreniach na zníženie nákladov na zavádzanie gigabitových elektronických komunikačných sietí, ktorým sa mení nariadenie (EÚ) 2015/2120 a zrušuje smernica 2014/61/EÚ (akt o gigabitovej infraštruktúre) (Ú. v. EÚ L, 2024/1309, 8. 5. 2024) v platnom znení.
