@@ -1,0 +1,3 @@
+# § 122h Prechodné ustanovenie
+
+Banka, iná banka, pobočka zahraničnej banky, pobočka inej zahraničnej banky, zahraničná banka a iná zahraničná inštitúcia, ktorá vykonáva bankové činnosti na území Slovenskej republiky, je odo dňa účinnosti tohto zákona do dňa zavedenia eura v Slovenskej republike povinná bezodplatne a bez obmedzenia celkového počtu prijímať platné slovenské mince pri platbách a pri vkladoch v hotovosti, pri bezodplatnom prijímaní platných slovenských mincí nesmú účtovať žiadny poplatok, náklady ani protiplnenie za prijatie, spracovanie, počítanie, vklad na účet ani za žiadne iné úkony alebo činnosti, ktoré súvisia s prijímaním platných slovenských mincí.

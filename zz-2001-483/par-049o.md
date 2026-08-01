@@ -1,0 +1,5 @@
+# § 49o
+
+(1) Zmiešané finančné holdingové spoločnosti podľa § 49c sú povinné vypracúvať a predkladať Národnej banke Slovenska všetky výkazy, hlásenia a iné správy obsahujúce údaje, ktoré sú potrebné na výkon doplňujúceho dohľadu podľa § 49g ods. 2, § 49h ods. 1 a § 49i ods. 1, a to ustanoveným spôsobom a v ustanovených termínoch; ich štruktúru, rozsah, obsah, formu, členenie, termíny, spôsob, postup a miesto predkladania vrátane metodiky na ich vypracúvanie ustanoví opatrenie,<sup>23</sup>) ktoré vydá Národná banka Slovenska a ktoré sa vyhlasuje v zbierke zákonov.
+
+(2) Údaje a iné informácie uvedené vo výkazoch, hláseniach a iných správach musia byť zrozumiteľné, prehľadné, preukazné, musia poskytovať pravdivý obraz o hlásených skutočnostiach a musia byť predložené včas. Ak predložené výkazy, hlásenia a iné správy nezodpovedajú ustanovenej metodike alebo ak vzniknú dôvodné pochybnosti o ich správnosti alebo úplnosti, zmiešaná finančná holdingová spoločnosť je povinná na vyžiadanie Národnej banky Slovenska predložiť podklady a podať vysvetlenie v ňou určenej lehote.

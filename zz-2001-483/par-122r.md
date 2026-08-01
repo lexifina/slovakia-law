@@ -1,0 +1,3 @@
+# § 122r Prechodné ustanovenie k úpravám účinným od 1. januára 2013
+
+Bankové povolenie udelené banke alebo pobočke zahraničnej banky podľa doterajších predpisov, ktoré je platné k 1. januáru 2013 a ktoré je udelené na obchodovanie na vlastný účet s finančným nástrojom peňažného trhu, ktorým je zlato, sa od 1. januára 2013 považuje za bankové povolenie na obchodovanie na vlastný účet so zlatom, a to v rozsahu a spôsobom, ktoré sú určené v tomto bankovom povolení, a za podmienok uložených týmto bankovým povolením alebo inými rozhodnutiami Národnej banky Slovenska vykonateľnými k 1. januáru 2013.

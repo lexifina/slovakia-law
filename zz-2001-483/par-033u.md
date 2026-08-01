@@ -1,0 +1,17 @@
+# § 33u
+
+(1) Ak dôjde medzi osobami skupiny k dohode o uzavretí zmluvy o skupinovej podpore, podá materská banka<sup>30zzaa</sup>) žiadosť o schválenie návrhu zmluvy o skupinovej podpore Národnej banke Slovenska, ktorá nad touto bankou vykonáva dohľad na konsolidovanom základe. Žiadosť musí okrem náležitostí podľa osobitného predpisu<sup>89</sup>) obsahovať opis a zdôvodnenie každej z podmienok na uzavretie zmluvy o skupinovej podpore a príslušné doklady potvrdzujúce splnenie podmienok. K žiadosti sa priloží aj návrh zmluvy o skupinovej podpore s označením členov skupiny, ktorí sa majú stať zmluvnými stranami.
+
+(2) Ak je Národnej banke Slovenska ako orgánu dohľadu zodpovednému za výkon dohľadu na konsolidovanom základe doručená žiadosť podľa odseku 1, Národná banka Slovenska zašle rovnopis tejto žiadosti orgánom dohľadu, ktoré vykonávajú dohľad nad osobami, ktoré majú byť zmluvnými stranami.
+
+(3) Národná banka Slovenska ako orgán dohľadu zodpovedný za výkon dohľadu na konsolidovanom základe vyvinie úsilie na dosiahnutie spoločného rozhodnutia s orgánmi dohľadu podľa odseku 2 o súlade návrhu zmluvy o skupinovej podpore s podmienkami podľa § 33t a 33w s prihliadnutím na možné následky tohto rozhodnutia vrátane fiškálnych následkov poskytnutia plnenia na základe zmluvy o skupinovej podpore v členských štátoch, v ktorých dotknutá skupina pôsobí. Národná banka Slovenska rozhodne o žiadosti podľa odseku 1 do štyroch mesiacov odo dňa doručenia žiadosti. Ak je návrh zmluvy o skupinovej podpore v súlade s podmienkami podľa § 33t a 33w, Národná banka Slovenska návrh zmluvy o skupinovej podpore schváli, inak žiadosť zamietne. Ak spoločné rozhodnutie nie je možné dosiahnuť v lehote podľa druhej vety, Národná banka Slovenska rozhodne o žiadosti podľa odseku 1 samostatne, pričom prihliadne na názory a pripomienky orgánov dohľadu podľa odseku 2. Národná banka Slovenska svoje rozhodnutie doručí orgánom dohľadu podľa odseku 2 a materskej banke.
+
+(4) Pred uplynutím lehoty podľa odseku 3 na dosiahnutie spoločného rozhodnutia podľa odseku 3 je Národná banka Slovenska ako orgán dohľadu zodpovedný za výkon dohľadu na konsolidovanom základe oprávnená požiadať o pomoc Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) v súlade s osobitným predpisom.
+
+(5) Ak v lehote pred dosiahnutím spoločného rozhodnutia podľa odseku 3 Národná banka Slovenska ako orgán dohľadu na konsolidovanom základe alebo ktorýkoľvek z orgánov dohľadu podľa odseku 3 požiada Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) o pomoc pri dosiahnutí dohody v súlade s osobitným predpisom, Národná banka Slovenska počká, kým jej bude doručené rozhodnutie Európskeho orgánu dohľadu (Európsky orgán pre bankovníctvo), ktorým je Národná banka Slovenska viazaná.
+
+(6) Povinnosť podľa odseku 3 vyvinúť maximálne úsilie na dosiahnutie spoločného rozhodnutia podľa odseku 3 platí obdobne, aj ak bol Národnej banke Slovenska predložený rovnopis žiadosti o schválenie návrhu zmluvy o skupinovej podpore orgánom dohľadu členského štátu, ktorý vykonáva dohľad na konsolidovanom základe. Národná banka Slovenska je oprávnená požiadať Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) o pomoc pri dosiahnutí dohody podľa osobitného predpisu.
+
+(7) Spoločné rozhodnutie dosiahnuté medzi Národnou bankou Slovenska a orgánmi dohľadu podľa odseku 3 je záväzné pre zmluvné strany zmluvy o skupinovej podpore.
+
+(8) Národná banka Slovenska predloží rade zmluvu o skupinovej podpore, ktorú schválila, ako aj jej zmeny.

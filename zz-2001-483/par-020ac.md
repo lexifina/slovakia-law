@@ -1,0 +1,7 @@
+# § 20ac
+
+(1) Národná banka Slovenska pravidelne, najmenej raz ročne, preskúma materskú spoločnosť banky, aby overila, či táto banka, osoba, ktorá žiada o povolenie podľa § 7 alebo osoba určená podľa § 20aa ods. 2 písm. c) správne identifikovala všetky osoby, ktoré spĺňajú kritériá, na základe ktorých sa považujú za materskú finančnú holdingovú spoločnosť so sídlom na území Slovenskej republiky, materskú zmiešanú finančnú holdingovú spoločnosť so sídlom v Slovenskej republike, materskú finančnú holdingovú spoločnosť v Európskej únii alebo materskú zmiešanú finančnú holdingovú spoločnosť v Európskej únii.
+
+(2) Pri preskúmavaní podľa odseku 1 Národná banka Slovenska spolupracuje s príslušnými orgánmi dohľadu iných členských štátov, ak má materská spoločnosť, osoba, ktorá žiada o povolenie podľa § 7, alebo osoba určená podľa § 20aa ods. 2 písm. c) sídlo v inom členskom štáte.
+
+(3) Národná banka Slovenska zverejňuje a každoročne aktualizuje na svojom webovom sídle zoznam finančných holdingových spoločností a zmiešaných finančných holdingových spoločností, ktorým bol udelený súhlas podľa § 20a ods. 1 alebo udelená výnimka podľa § 20aa ods. 1. Národná banka Slovenska v zozname podľa prvej vety pri finančných holdingových spoločnostiach a zmiešaných finančných spoločnostiach, ktorým bola udelená výnimka podľa § 20aa ods. 1, uvedie aj osobu zodpovednú za skupinové plnenie požiadaviek podľa § 20aa ods. 2 písm. c).

@@ -1,0 +1,9 @@
+# § 31a Úrokové riziko vyplývajúce z činností, ktoré nie sú zaznamenané v obchodnej knihe
+
+(1) Banka je povinná zaviesť interné systémy, používať štandardizovanú metodiku alebo zjednodušenú štandardizovanú metodiku na identifikáciu, hodnotenie, riadenie a zmierňovanie rizík vyplývajúcich z možných zmien úrokových sadzieb, ktoré ovplyvňujú ekonomickú hodnotu vlastného imania a čisté príjmy z úrokov z jej činností, ktoré nie sú zaznamenané v obchodnej knihe. Štandardizovaná metodika alebo zjednodušená štandardizovaná metodika používaná bankou musí byť v súlade s osobitným predpisom o vydaní regulačného technického predpisu vydaným na základe osobitného predpisu.<sup>13o</sup>)
+
+(2) Banka je povinná zaviesť interné systémy na posudzovanie a monitorovanie rizík vyplývajúcich z možných zmien kreditných rozpätí, ktoré ovplyvňujú ekonomickú hodnotu vlastného imania a čisté príjmy z úrokov z jej činností, ktoré nie sú zaznamenané v obchodnej knihe.
+
+(3) Národná banka Slovenska môže od banky vyžadovať, aby na účely riadenia úrokového rizika vyplývajúceho z činností, ktoré nie sú zaznamenané v obchodnej knihe, použila štandardizovanú metodiku podľa odseku 1, ak interné systémy riadenia úrokového rizika vyplývajúceho z činností, ktoré nie sú zaznamenané v obchodnej knihe, používané bankou nie sú uspokojivé.
+
+(4) Národná banka Slovenska môže od malej a menej zložitej banky podľa osobitného predpisu<sup>30ka</sup>) vyžadovať, aby na účely riadenia úrokového rizika vyplývajúceho z činností, ktoré nie sú zaznamenané v obchodnej knihe, používala štandardizovanú metodiku podľa odseku 1, ak podľa Národnej banky Slovenska zjednodušená štandardizovaná metodika podľa odseku 1 nie je vhodná na zachytenie úrokového rizika vyplývajúceho z činností banky, ktoré nie sú zaznamenané v obchodnej knihe.

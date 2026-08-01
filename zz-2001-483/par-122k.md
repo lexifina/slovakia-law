@@ -1,0 +1,3 @@
+# § 122k Prechodné ustanovenie k úpravám účinným od 1. decembra 2009
+
+Bankové povolenie udelené banke alebo pobočke zahraničnej banky podľa doterajších predpisov, ktoré je platné k 30. novembru 2009 a ktoré sa vzťahuje na uskutočňovanie tuzemských prevodov peňažných prostriedkov a cezhraničných prevodov peňažných prostriedkov alebo na vydávanie a správu platobných prostriedkov, sa od 1. decembra 2009 považuje za bankové povolenie udelené na poskytovanie platobných služieb a zúčtovanie, a to v rozsahu a spôsobom, ktoré sú určené v tomto bankovom povolení, a za podmienok uložených týmto bankovým povolením alebo inými rozhodnutiami Národnej banky Slovenska vykonateľnými k 1. decembru 2009.

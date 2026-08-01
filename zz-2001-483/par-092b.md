@@ -1,0 +1,7 @@
+# § 92b
+
+(1) Banky a pobočky zahraničných bánk si na účely poskytovania základného bankového produktu podľa § 27c môžu s použitím automatizovaných alebo neautomatizovaných prostriedkov vytvoriť spoločný register spotrebiteľov, ktorým bol poskytnutý základný bankový produkt, prostredníctvom ktorého sú banky a pobočky zahraničných bánk oprávnené len za podmienok ustanovených týmto zákonom a osobitným zákonom<sup>37</sup>) navzájom si aj bez súhlasu spotrebiteľa ako dotknutej osoby podľa osobitného zákona<sup>37</sup>) bezplatne alebo za úhradu vecných nákladov sprístupniť a poskytovať informácie o poskytnutom základnom bankovom produkte spotrebiteľom a údaje o týchto spotrebiteľoch v rozsahu podľa § 93a ods. 1 písm. a) prvého a tretieho bodu.
+
+(2) Informácie poskytnuté do spoločného registra spotrebiteľov, ktorým bol poskytnutý základný bankový produkt, alebo z tohto spoločného registra zostávajú predmetom bankového tajomstva. Informácie z tohto spoločného registra a informácie o ďalších skutočnostiach súvisiacich s prevádzkovaním tohto spoločného registra možno poskytovať len bankám a pobočkám zahraničných bánk. Voči všetkým ostatným osobám sú zamestnanci a členovia orgánov spoločného podniku pomocných bankových služieb povinní zachovávať mlčanlivosť o týchto informáciách.
+
+(3) Na spoločný register spotrebiteľov, ktorým bol poskytnutý základný bankový produkt, sa vzťahujú ustanovenia § 92a ods. 2, 4 a 5 rovnako.
