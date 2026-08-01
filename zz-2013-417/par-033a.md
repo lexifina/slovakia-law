@@ -1,0 +1,13 @@
+# § 33a Prechodné ustanovenia k úpravám účinným od 1. januára 2015
+
+(1) O nárokoch pred 1. januárom 2015 sa rozhoduje aj po 31. decembri 2014 podľa zákona účinného do 31. decembra 2014.
+
+(2) O nároku na osobitný príspevok, ktorý vznikol pred 1. januárom 2015 a o ktorom do 31. decembra 2014 nebolo právoplatne rozhodnuté, sa rozhodne za obdobie do 31. decembra 2014 podľa zákona účinného do 31. decembra 2014 a za obdobie po 31. decembri 2014 podľa zákona účinného od 1. januára 2015.
+
+(3) Úrad z vlastného podnetu prehodnotí najneskôr do 31. januára 2015 nárok na osobitný príspevok, ktorý vznikol pred 1. januárom 2015 a ktorý trvá po 31. decembri 2014, podľa zákona účinného od 1. januára 2015. Podmienka vzniku pracovného pomeru alebo obdobného pracovného vzťahu a podmienka postavenia fyzickej osoby ako dlhodobo nezamestnaného občana<sup>44</sup>) pred vznikom pracovného pomeru alebo obdobného pracovného vzťahu sa na účely prehodnotenia nároku na osobitný príspevok podľa prvej vety považujú za splnené.
+
+(4) Ak po prehodnotení nároku na osobitný príspevok podľa odseku 3 sú splnené podmienky nároku na osobitný príspevok, do obdobia poskytovania osobitného príspevku podľa § 16 ods. 2 účinného od 1. januára 2015 sa započítava aj obdobie poskytovania osobitného príspevku do prehodnotenia nároku na osobitný príspevok. Ak po prehodnotení nároku na osobitný príspevok podľa odseku 3 nie sú splnené podmienky nároku na osobitný príspevok podľa § 16 ods. 1 písm. a) účinného od 1. januára 2015, osobitný príspevok sa poskytuje podľa zákona účinného do 31. decembra 2014.
+
+(5) Osobitný príspevok patrí aj fyzickej osobe, ktorej k 31. decembru 2014 patril aktivačný príspevok z dôvodu trvania pracovného pomeru alebo obdobného pracovného vzťahu a patrí jej aj po 31. decembri 2014 a ktorá pred vznikom pracovného pomeru alebo pred vznikom obdobného pracovného vzťahu splnila podmienku podľa § 16 ods. 1 písm. b) účinného od 1. januára 2015, pracovný pomer alebo obdobný pracovný vzťah bol dohodnutý najmenej v rozsahu polovice ustanoveného týždenného pracovného času a dohodnutý príjem z tohto pracovného pomeru alebo obdobného pracovného vzťahu je najmenej vo výške minimálnej mzdy zodpovedajúcej dohodnutému rozsahu týždenného pracovného času a najviac vo výške dvojnásobku minimálnej mzdy; ustanovenia § 16 ods. 2 až 5 účinné od 1. januára 2015 platia rovnako.
+
+(6) Ak fyzická osoba spĺňa podmienky nároku na osobitný príspevok podľa odseku 5, do obdobia poskytovania osobitného príspevku podľa § 16 ods. 2 účinného od 1. januára 2015 sa započítava aj obdobie, počas ktorého jej patril aktivačný príspevok z dôvodu trvania pracovného pomeru alebo obdobného pracovného vzťahu do vzniku nároku na poskytnutie osobitného príspevku.
