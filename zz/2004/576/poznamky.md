@@ -108,6 +108,10 @@
 
 - 6c) § 4 zákona Slovenskej národnej rady č. 73/1986 Zb. o umelom prerušení tehotenstva v znení zákona č. 419/1991 Zb.
 
+- 6ca) § 5 ods. 1 písm. b) ôsmy bod zákona č. 153/2013 Z. z. v znení zákona č. 361/2024 Z. z.
+
+- 6cb) Príloha č. 3 piaty bod písm. a) zákona č. 153/2013 Z. z.
+
 - 6d) § 152a zákona č. 245/2008 Z. z. v znení zákona č. 2/2022 Z. z.
 
 - 7) § 5 zákona č. 578/2004 Z. z.
