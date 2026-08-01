@@ -1044,6 +1044,8 @@
 
 - 86dh) § 225j zákona č. 461/2003 Z. z. v znení zákona č. 2/2017 Z. z.
 
+- 86dha) § 117 ods. 2 a 3 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+
 - 86di) § 167 zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 345/2018 Z. z.
 
 - 86dj) § 7 a 12 zákona č. 54/2019 Z. z. o ochrane oznamovateľov protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
