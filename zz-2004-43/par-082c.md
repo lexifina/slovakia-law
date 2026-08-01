@@ -1,0 +1,15 @@
+# § 82c Celkové riziko derivátov drahého kovu alebo derivátov indexu drahých kovov a jeho výpočet
+
+(1) Celkové riziko derivátov drahého kovu alebo derivátov indexu drahých kovov, ktorému je majetok v inom ako dlhopisovom garantovanom dôchodkovom fonde vystavený, nesmie prekročiť 15 % čistej hodnoty majetku v tomto dôchodkovom fonde.
+
+(2) Dôchodková správcovská spoločnosť je povinná vypočítavať celkové riziko derivátov drahého kovu alebo derivátov indexu drahých kovov v inom ako dlhopisovom garantovanom dôchodkovom fonde ako
+
+- a) dodatočné riziko a pákový efekt, ktoré sú generované používaním derivátov drahého kovu alebo derivátov indexu drahých kovov, a to vrátane cenných papierov obsahujúcich derivát drahého kovu alebo derivát indexu drahých kovov podľa § 82b ods. 3, ktoré nesmú presiahnuť určené percentuálne podiely podľa odseku 1, alebo
+
+- b) trhové riziko majetku v inom ako dlhopisovom garantovanom dôchodkovom fonde.
+
+(3) Ak dôchodková správcovská spoločnosť vypočítava celkové riziko derivátov drahého kovu alebo derivátov indexu drahých kovov v inom ako dlhopisovom garantovanom dôchodkovom fonde ako riziko podľa odseku 2 písm. a), je povinná toto celkové riziko vypočítavať záväzkovým prístupom. Ak dôchodková správcovská spoločnosť vypočítava celkové riziko derivátov drahého kovu alebo derivátov indexu drahých kovov v inom ako dlhopisovom garantovanom dôchodkovom fonde ako riziko podľa odseku 2 písm. b), je povinná toto celkové riziko vypočítavať prístupom hodnoty v riziku; hodnotou v riziku sa rozumie ukazovateľ maximálnej očakávanej straty na danej úrovni spoľahlivosti v konkrétnom časovom období.
+
+(4) Dôchodková správcovská spoločnosť je povinná zabezpečiť, aby metóda zvolená na meranie celkového rizika derivátov drahého kovu alebo derivátov indexu drahých kovov v inom ako dlhopisovom garantovanom dôchodkovom fonde bola vhodná pre daný druh dôchodkového fondu, pričom je povinná zohľadniť investičnú stratégiu daného dôchodkového fondu, druhy a zložitosť derivátov drahého kovu alebo derivátov indexu drahých kovov v majetku v inom ako dlhopisovom garantovanom dôchodkovom fonde, ako aj ich podiel na majetku v týchto fondoch.
+
+(5) Dôchodková správcovská spoločnosť je oprávnená pri správe majetku v inom ako dlhopisovom garantovanom dôchodkovom fonde používať postupy a nástroje zahŕňajúce repo obchody alebo pôžičky cenných papierov, a to len na účely efektívneho riadenia investícií v majetku v týchto dôchodkových fondoch a za podmienok a dodržania limitov uvedených v štatúte príslušného dôchodkového fondu; ustanovenie § 84 ods. 5 sa nepoužije. Ak dôchodková správcovská spoločnosť pri správe majetku v inom ako dlhopisovom garantovanom dôchodkovom fonde používa postupy a nástroje podľa prvej vety, ktorých cieľom je zvýšenie pákového efektu alebo úrovne trhového rizika majetku v dôchodkovom fonde, dôchodková správcovská spoločnosť je povinná zohľadniť tieto operácie pri výpočte celkového rizika derivátov drahého kovu alebo derivátov indexu drahých kovov.

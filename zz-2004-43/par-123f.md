@@ -1,0 +1,7 @@
+# § 123f
+
+(1) Fyzická osoba, ktorá uzatvorila zmluvu o starobnom dôchodkovom sporení pred 1. januárom 2008, môže do 30. júna 2008 doručiť príslušnej pobočke Sociálnej poisťovne písomné oznámenie s jej úradne osvedčeným podpisom, ktorého obsahom je prejav vôle nebyť zúčastnený na starobnom dôchodkovom sporení.
+
+(2) Doručením písomného oznámenia podľa odseku 1 fyzickej osobe zaniká účasť na starobnom dôchodkovom sporení odo dňa prvého vzniku tejto účasti a zaniká zmluva o starobnom dôchodkovom sporení.
+
+(3) Sociálna poisťovňa je povinná bez zbytočného odkladu po doručení písomného oznámenia podľa odseku 1 oznámiť dôchodkovej správcovskej spoločnosti zánik zmluvy o starobnom dôchodkovom sporení. Dôchodková správcovská spoločnosť je povinná bez zbytočného odkladu odo dňa oznámenia Sociálnej poisťovne podľa prvej vety previesť z bežného účtu dôchodkového fondu na účet Sociálnej poisťovne v Štátnej pokladnici sumu zodpovedajúcu aktuálnej hodnote osobného dôchodkového účtu ku dňu, ktorý predchádza dňu prevodu. Ak suma zodpovedajúca aktuálnej hodnote osobného dôchodkového účtu je nižšia ako suma zodpovedajúca nominálnej hodnote zaplatených príspevkov na bežný účet dôchodkového fondu, dôchodková správcovská spoločnosť je povinná bez zbytočného odkladu odo dňa oznámenia Sociálnej poisťovne podľa prvej vety previesť z bežného účtu dôchodkového fondu na účet Sociálnej poisťovne v Štátnej pokladnici sumu zodpovedajúcu aktuálnej hodnote osobného dôchodkového účtu zo dňa, ktorý predchádza dňu prevodu.

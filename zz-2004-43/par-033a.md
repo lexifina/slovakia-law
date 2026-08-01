@@ -1,0 +1,17 @@
+# § 33a Programový výber
+
+(1) Programovým výberom dôchodková správcovská spoločnosť vypláca starobný dôchodok alebo predčasný starobný dôchodok zo sumy zodpovedajúcej aktuálnej hodnote osobného dôchodkového účtu sporiteľa vedeného pre dlhopisový garantovaný dôchodkový fond alebo z jej časti.
+
+(2) Vyplácanie starobného dôchodku a predčasného starobného dôchodku programovým výberom možno dohodnúť, ak súčet súm dôchodkových dávok podľa osobitného predpisu,<sup>3</sup>) výsluhového dôchodku,<sup>38</sup>) invalidného výsluhového dôchodku,<sup>38a</sup>) invalidného dôchodku a čiastočného invalidného dôchodku,<sup>38b</sup>) vdovského výsluhového dôchodku,<sup>38c</sup>) vdoveckého výsluhového dôchodku<sup>38d</sup>) a obdobného dôchodku vyplácaného z cudziny, ktoré majú byť vyplácané ku dňu účinnosti dohody o vyplácaní dôchodku programovým výberom, a sumy doživotného starobného dôchodku alebo doživotného predčasného starobného dôchodku ku dňu evidencie poznámky o uzatvorení dohody o vyplácaní dôchodku programovým výberom je vyšší ako platná referenčná suma podľa § 46da. Do súčtu súm podľa prvej vety sa nezapočítava jednorazový doplatok k starobnému dôchodku podľa osobitného predpisu<sup>38e</sup>) a 13. dôchodok poskytovaný podľa osobitných predpisov.<sup>38f</sup>)
+
+(3) Vyplácanie starobného dôchodku alebo predčasného starobného dôchodku podľa § 31 písm. a) programovým výberom možno dohodnúť aj vtedy, ak Sociálna poisťovňa oznámi sporiteľovi, že žiadny poistiteľ nevyhotovil ponuku doživotného starobného dôchodku alebo doživotného predčasného starobného dôchodku a sporiteľ nespĺňa podmienky vyplácania starobného dôchodku alebo predčasného starobného dôchodku programovým výberom podľa odseku 2.
+
+(4) Vyplácanie starobného dôchodku a predčasného starobného dôchodku programovým výberom možno dohodnúť aj vtedy, ak je aktuálna hodnota osobného dôchodkového účtu sporiteľa tvorená aj z dobrovoľných príspevkov; na vyplácanie starobného dôchodku alebo predčasného starobného dôchodku programovým výberom možno použiť sumu zodpovedajúcu aktuálnej hodnote dôchodkových jednotiek pripísaných z dobrovoľných príspevkov alebo jej časť.
+
+(5) Dobu vyplácania starobného dôchodku alebo predčasného starobného dôchodku programovým výberom podľa odsekov 2 a 4 alebo mesačnú sumu tohto dôchodku určí sporiteľ v dohode o vyplácaní dôchodku programovým výberom.
+
+(6) Starobný dôchodok a predčasný starobný dôchodok podľa odseku 3 je mesačne najviac v sume podľa § 46e ods. 9 platnej v kalendárnom roku, v ktorom bola uzatvorená dohoda o vyplácaní dôchodku programovým výberom.
+
+(7) Dôchodková správcovská spoločnosť nie je povinná vyplácať starobný dôchodok alebo predčasný starobný dôchodok programovým výberom v sume nižšej ako suma podľa § 46e ods. 9 platnej v kalendárnom roku, v ktorom bola uzatvorená dohoda o vyplácaní dôchodku programovým výberom; to neplatí, ak ide o poslednú splátku starobného dôchodku alebo predčasného starobného dôchodku vyplácaného programovým výberom.
+
+(8) Ak sporiteľ ku dňu evidencie poznámky o uzatvorení zmluvy o poistení dôchodku, na základe ktorej sa vypláca doživotný starobný dôchodok alebo doživotný predčasný starobný dôchodok, zmluvy o poistení dôchodku, na základe ktorej sa vypláca dočasný starobný dôchodok alebo dočasný predčasný starobný dôchodok, alebo dohody o vyplácaní dôchodku programovým výberom splnil podmienky podľa odseku 2, považujú sa tieto podmienky pri uzatváraní dohody o vyplácaní dôchodku programovým výberom za splnené.
