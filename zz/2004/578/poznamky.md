@@ -432,6 +432,10 @@
 
 - 55jawl) § 2 ods. 45 zákona č. 576/2004 Z. z. v znení zákona č. 360/2024 Z. z.
 
+- 55jawm) § 6c ods. 1 zákona č. 153/2013 Z. z. v znení zákona č. 344/2025 Z. z.
+
+- 55jawn) § 6c ods. 2 až 7 zákona č. 153/2013 Z. z. v znení zákona č. 344/2025 Z. z.
+
 - 55jb) § 73 ods. 2 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 55jc) § 201, 201a, 201b a 202 Trestného zákona.
