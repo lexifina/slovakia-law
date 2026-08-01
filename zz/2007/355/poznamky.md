@@ -286,6 +286,8 @@
 
 - 31) Napríklad § 45 zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 365 zákona č. 161/2015 Z. z. Civilný mimosporový poriadok v znení zákona č. 338/2022 Z. z.
 
+- 31a) § 157 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
+
 - 32) § 45 ods. 1 písm. a) zákona č. 305/2005 Z. z. v znení neskorších predpisov.
 
 - 32a) § 45 ods. 4 písm. a) zákona č. 305/2005 Z. z. v znení neskorších predpisov.
