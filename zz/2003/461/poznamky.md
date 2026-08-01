@@ -152,7 +152,7 @@
 
 - 50a) § 25 ods. 2 zákona č. 314/2018 Z. z. o Ústavnom súde Slovenskej republiky a o zmene a doplnení niektorých zákonov.
 
-- 50b) § 12b zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení zákona č. 467/2019 Z. z.
+- 50b) § 12b zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 51) Zákon č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnosti zamestnanca a o zmene a doplnení niektorých zákonov.
 
@@ -208,7 +208,7 @@
 
 - 66) § 2 ods. 1 písm. b) zákona Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
 
-- 67) § 2 ods. 1, 2 a 5 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
+- 67) § 2 ods. 1, 5 a 8 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 67a) Čl. 1 ods. 2 písm. a) nariadenia Európskeho parlamentu a Rady (ES) č. 987/2009 zo 16. septembra 2009, ktorým sa stanovuje postup vykonávania nariadenia (ES) č. 883/2004 o koordinácii systémov sociálneho zabezpečenia (Ú. v. EÚ L 284, 30. 10. 2009) v platnom znení.
 
@@ -239,6 +239,10 @@
 - 87) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení neskorších predpisov.
 
 - Zákon Národnej rady Slovenskej republiky č. 98/1995 Z. z. v znení neskorších predpisov.
+
+- 87a) § 12a zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 88) § 4a ods. 2 písm. c) prvý bod a § 11 ods. 1 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
 
@@ -342,7 +346,7 @@
 
 - 93adm) § 90 ods. 3 zákona č. 483/2001 v znení zákona č. 279/2017 Z. z.
 
-- 93adn) § 3 ods. 1 písm. g) a príloha č. 1b zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov v znení zákona č. 125/2022 Z. z.
+- 93adn) § 3 ods. 1 písm. g) a príloha č. 1b zákona č. 153/2013 Z. z. v znení zákona č. 125/2022 Z. z.
 
 - 93ado) Napríklad § 10 ods. 11 a § 17 ods. 6 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení zákona č. 273/2015 Z. z., zákon č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratívnej záťaže využívaním informačných systémov verejnej správy a o zmene a doplnení niektorých zákonov (zákon proti byrokracii) v znení neskorších predpisov.
 
@@ -360,7 +364,11 @@
 
 - 95b) Zákon č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 96) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov.
+- 95c) § 24 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
+
+- 96) Zákon č. 305/2013 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 272/2016 Z. z. o dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zmene a doplnení niektorých zákonov (zákon o dôveryhodných službách) v znení neskorších predpisov.
 
 - 96a) Zákon č. 382/2004 Z. z. v znení neskorších predpisov.
 
@@ -396,6 +404,8 @@
 
 - 100ca) Napríklad zákon č. 647/2007 Z. z. o cestovných dokladoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 100caa) § 57 ods. 4 zákona č. 455/1991 Zb. v znení neskorších predpisov.
+
 - 101) § 8a ods. 1 písm. r) zákona Národnej rady Slovenskej republiky č. 330/1996 Z. z. v znení zákona č. 158/2001 Z. z.
 
 - 101a) § 19 ods. 2 zákona č. 540/2001 Z. z. o štátnej štatistike.
@@ -407,6 +417,8 @@
 - Vyhláška Štatistického úradu Slovenskej republiky č. 384/2015 Z. z., ktorou sa vydáva štatistická klasifikácia zamestnaní.
 
 - 101ba) § 30 ods. 8 zákona č. 540/2001 Z. z. v znení zákona č. 144/2021 Z. z.
+
+- 101baa) § 5b ods. 6 zákona č. 153/2013 Z. z. v znení zákona č. 258/2025 Z. z.
 
 - 101c) Zákon č. 296/2020 Z. z. o 13. dôchodku a o zmene a doplnení niektorých zákonov.
 
@@ -525,3 +537,5 @@
 - 140) Zákon č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 140a) § 102be ods. 1 až 4 zákona č. 578/2004 Z. z. v znení zákona č. 30/2026 Z. z.
+
+- 140b) § 23 ods. 1 zákona č. 153/2013 Z. z. v znení zákona č. 44/2026 Z. z.

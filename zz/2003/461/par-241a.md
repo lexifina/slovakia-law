@@ -8,7 +8,7 @@
 
 (2) Sociálna poisťovňa neplatí penále
 
-- a) za obdobie, za ktoré nepostúpila príspevky na starobné dôchodkové sporenie alebo tieto príspevky postúpila v nižšej sume z dôvodu, že zamestnávateľ nesplnil povinnosť ustanovenú v § 231 ods. 1 písm. b) alebo písm. f), najneskôr do uplynutia 60 dní odo dňa splnenia tejto povinnosti zamestnávateľom,
+- a) za obdobie, za ktoré nepostúpila príspevky na starobné dôchodkové sporenie alebo tieto príspevky postúpila v nižšej sume z dôvodu, že zamestnávateľ nesplnil povinnosť ustanovenú v § 231 ods. 1 písm. b) alebo písm. g), najneskôr do uplynutia 60 dní odo dňa splnenia tejto povinnosti zamestnávateľom,
 
 - b) za obdobie odo dňa, v ktorom vznikol sporiteľovi podľa osobitného predpisu,<sup>1</sup>) ktorému sa nevypláca starobný dôchodok alebo predčasný starobný dôchodok podľa osobitného predpisu,<sup>1</sup>) nárok na výplatu materského, najneskôr do uplynutia 60 dní odo dňa vydania rozhodnutia o priznaní materského,
 
