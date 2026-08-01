@@ -370,6 +370,10 @@
 
 - 63ad) § 6a zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov v znení zákona č. 125/2022 Z. z.
 
+- 63ae) § 6b zákona č. 153/2013 Z. z. v znení zákona č. 258/2025 Z. z.
+
+- 63af) Zákon č. 153/2013 Z. z. v znení neskorších predpisov.
+
 - 64) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
 
 - 65) § 75 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
