@@ -123,3 +123,5 @@
 - 36) § 13 zákona č. 576/2004 Z. z.
 
 - 37) Zákon č. 578/2004 Z. z. v znení neskorších predpisov.
+
+- 38) § 6c ods. 1 zákona č. 153/2013 Z. z. v znení zákona č. 344/2025 Z. z.
