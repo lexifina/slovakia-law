@@ -1,0 +1,3 @@
+# § 8d Poskytovanie zdravotnej starostlivosti v ambulancii pohotovostnej služby počas krízovej situácie
+
+Držiteľ povolenia na prevádzkovanie ambulancie pevnej ambulantnej pohotovostnej služby pre dospelých, ktorému bolo vydané rozhodnutie o dočasnej zmene povolenia na prevádzkovanie ambulancie pevnej ambulantnej pohotovostnej služby pre dospelých, a držiteľ povolenia na prevádzkovanie ambulancie pevnej ambulantnej pohotovostnej služby pre deti a dorast, ktorému bolo vydané rozhodnutie o dočasnej zmene povolenia na prevádzkovanie ambulancie pevnej ambulantnej pohotovostnej služby pre deti a dorast, zabezpečuje poskytovanie zdravotnej starostlivosti podľa § 8c; ustanovenie § 8a sa neuplatňuje.
