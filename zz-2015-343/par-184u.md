@@ -1,0 +1,3 @@
+# § 184u
+
+Orgán kontroly môže prerušiť kontrolu po uzavretí zmluvy na účely získania odborného stanoviska alebo znaleckého posudku, a to najviac na 30 dní odo dňa odoslania oznámenia o prerušení kontroly po uzavretí zmluvy. Lehotu podľa prvej vety môže orgán kontroly z objektívnych dôvodov predĺžiť najviac o 30 dní. Ak je kontrola po uzavretí zmluvy prerušená, lehota podľa § 184x ods. 4 neplynie. Orgán kontroly oznámenie o prerušení kontroly po uzavretí zmluvy a oznámenie o predĺžení lehoty podľa druhej vety bezodkladne doručí prijímateľovi prostredníctvom informačného monitorovacieho systému.

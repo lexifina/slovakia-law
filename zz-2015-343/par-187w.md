@@ -1,0 +1,3 @@
+# § 187w Prechodné ustanovenia k úpravám účinným od 1. januára 2026
+
+V konaní začatom a právoplatne neskončenom podľa tohto zákona v znení účinnom do 31. decembra 2025, ktoré sa vzťahuje na verejné obstarávanie, pri ktorom bolo oznámenie o vyhlásení verejného obstarávania, oznámenie použité ako výzva na súťaž alebo výzva na predkladanie ponúk, alebo oznámenie o vyhlásení súťaže návrhov odoslané na uverejnenie podľa tohto zákona v znení účinnom do 31. decembra 2025, alebo ktoré sa preukázateľne začalo podľa tohto zákona v znení účinnom do 31. decembra 2025, ak sa nevyžadovalo oznámenie o vyhlásení verejného obstarávania, oznámenie použité ako výzva na súťaž alebo výzva na predkladanie ponúk, sa postupuje podľa tohto zákona v znení účinnom od 1. januára 2026.
