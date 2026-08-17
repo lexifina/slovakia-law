@@ -1,0 +1,3 @@
+# § 309g Oznámenie o predpoklade úpadku spoločnosti
+
+Ak sa predpokladá úpadok spoločnosti, súd bezodkladne zverejní v Obchodnom vestníku oznámenie o predpoklade úpadku spoločnosti. V oznámení poučí veriteľov spoločnosti, osoby, ktoré majú právo na likvidačný zostatok, a iné orgány a osoby dotknuté zrušením spoločnosti, že ak do šiestich mesiacov od zverejnenia tohto oznámenia v Obchodnom vestníku nebude podaný návrh na ustanovenie likvidátora spolu s osvedčením o zložení preddavku na jeho odmenu a náhradu výdavkov alebo nebude podaný návrh na vyhlásenie konkurzu na majetok spoločnosti, spoločnosť bude vymazaná z obchodného registra.
