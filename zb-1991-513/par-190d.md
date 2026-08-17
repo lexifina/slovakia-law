@@ -1,0 +1,15 @@
+# § 190d Účasť a hlasovanie akcionára na valnom zhromaždení prostredníctvom elektronických prostriedkov
+
+(1) Spoločnosť môže v stanovách povoliť účasť na valnom zhromaždení a hlasovanie akcionára na valnom zhromaždení prostredníctvom elektronických prostriedkov. Na zmenu stanov súvisiacu so zavedením a ustanovením podmienok účasti na valnom zhromaždení a hlasovania akcionára na valnom zhromaždení prostredníctvom elektronických prostriedkov sa vyžaduje súhlas trojpätinovej väčšiny hlasov všetkých akcionárov. Zmena podmienok účasti na valnom zhromaždení a hlasovania akcionára na valnom zhromaždení spoločnosti prostredníctvom elektronických prostriedkov podlieha rovnako súhlasu trojpätinovej väčšiny hlasov všetkých akcionárov.
+
+(2) Ak spoločnosť umožní akcionárom účasť na valnom zhromaždení a hlasovanie na valnom zhromaždení prostredníctvom elektronických prostriedkov, každý výkon hlasovacieho práva akcionára musí byť podpísaný kvalifikovaným elektronickým podpisom, ktorého kvalifikovaný certifikát musí spĺňať podmienky, ktoré sa vyžadujú v styku s orgánmi verejnej moci, a opatrený kvalifikovanou elektronickou časovou pečiatkou. Za akcionára, ktorý je právnickou osobou, podpisuje právny úkon, ktorým dochádza k výkonu práva hlasovať, osoba oprávnená konať v mene akcionára. Spoločnosť je povinná uskutočniť všetky opatrenia potrebné na zabezpečenie riadneho a nerušeného priebehu hlasovania prostredníctvom elektronických prostriedkov.
+
+(3) Výkon hlasovacieho práva, ktorý bol urobený prostredníctvom elektronických prostriedkov a spĺňa podmienky podľa odseku 2, môže byť zmenený akcionárom na rokovaní valného zhromaždenia, na ktorom sa akcionár zúčastní osobne alebo v zastúpení na základe splnomocnenia. Ak akcionár urobí nové hlasovanie počas prenosu rokovania valného zhromaždenia v reálnom čase, na skôr vykonané hlasovanie sa neprihliada.
+
+(4) Ak spoločnosť umožní akcionárom hlasovať na valnom zhromaždení prostredníctvom elektronických prostriedkov, je povinná prijímať hlasy prostredníctvom elektronických prostriedkov odo dňa uverejnenia oznámenia o konaní valného zhromaždenia. Podrobnosti o postupe orgánov spoločnosti a akcionárov pri realizácii ich práv podľa odseku 1 prostredníctvom elektronických prostriedkov upraví spoločnosť vo svojich stanovách. Náklady súvisiace so sprístupnením rokovania valného zhromaždenia podľa odseku 1 znáša spoločnosť okrem nákladov, ktoré vzniknú na strane akcionára v dôsledku výkonu hlasovacieho práva prostredníctvom elektronických prostriedkov podľa odseku 2.
+
+(5) Na obsahové náležitosti prejavu vôle, ktorý je výkonom hlasovacieho práva, urobeného prostredníctvom elektronických prostriedkov sa ustanovenie § 190a ods. 3 použije rovnako.
+
+(6) Na priebeh hlasovania prostredníctvom elektronických prostriedkov sa primerane použije ustanovenie § 190b ods. 1 poslednej vety.
+
+(7) Spoločnosť bez zbytočného odkladu potvrdí prostredníctvom elektronických prostriedkov prijatie hlasov tomu, kto vykonal hlasovacie práva na valnom zhromaždení podľa odsekov 1 až 6; ustanovenie odseku 2 prvej vety sa použije rovnako.

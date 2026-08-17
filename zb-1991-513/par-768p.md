@@ -1,0 +1,3 @@
+# § 768p Prechodné ustanovenie k úpravám účinným dňom vyhlásenia
+
+Na splynutie, zlúčenie a rozdelenie spoločnosti sa použijú doterajšie predpisy, ak bol návrh zmluvy o splynutí, zmluvy o zlúčení alebo projektu rozdelenia spoločnosti schválený predo dňom nadobudnutia účinnosti tohto zákona a návrh na zápis splynutia, zlúčenia alebo rozdelenia spoločnosti do obchodného registra bol podaný najneskôr do 90 dní odo dňa nadobudnutia účinnosti tohto zákona. Ak sa podľa predpisov o ochrane hospodárskej súťaže vyžaduje rozhodnutie príslušného orgánu, predlžuje sa lehota na zápis splynutia, zlúčenia alebo rozdelenia spoločnosti do obchodného registra podľa prvej vety o šesť mesiacov.
