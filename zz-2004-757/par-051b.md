@@ -1,0 +1,9 @@
+# § 51b
+
+(1) Rozvrh práce okresného súdu môže byť založený na obvodovom systéme, ktorým sa vytvára obvod pracoviska zriadeného zákonom v rámci obvodu okresného súdu pre určenú hlavnú súdnu agendu, ak sú na vybavovanie výlučne tejto agendy rozvrhom práce určené aspoň dva senáty alebo aspoň dvaja samosudcovia; obvod pracoviska musí rešpektovať územné a správne usporiadanie Slovenskej republiky a v prípade trestnoprávnej agendy aj obvod okresnej prokuratúry, ak majú v obvode okresného súdu sídlo dve alebo viaceré okresné prokuratúry.
+
+(2) Ak je podľa odseku 1 vytvorený obvod pracoviska, veci, v ktorých je miesto rozhodné pre založenie miestnej príslušnosti okresného súdu v obvode pracoviska, sa prideľujú senátom alebo samosudcom podľa odseku 1; tým nie je dotknuté prideľovanie alebo prerozdeľovanie vecí, v ktorých je miesto rozhodné pre založenie miestnej príslušnosti okresného súdu mimo obvodu pracoviska, týmto sudcom, ak je to potrebné z dôvodu zabezpečenia rovnomernej zaťaženosti sudcov okresného súdu.
+
+(3) Ak je podľa odseku 1 vytvorený obvod pracoviska a ak je to potrebné z dôvodu zabezpečenia rovnomernej zaťaženosti sudcov okresného súdu, môžu byť veci, v ktorých je miesto rozhodné pre založenie miestnej príslušnosti okresného súdu v obvode pracoviska, prideľované všetkým sudcom okresného súdu, ktorí podľa rozvrhu práce vybavujú príslušnú hlavnú agendu.
+
+(4) Zmeniť miesto výkonu funkcie sudcu v rozvrhu práce zo sídla súdu na pracovisko alebo naopak možno len s predchádzajúcim súhlasom dotknutého sudcu; tým nie sú dotknuté ustanovenia predpisov o konaní pred súdmi o mieste vykonávania úkonov súdu. Bez súhlasu podľa prvej vety možno zmeniť miesto jeho výkonu funkcie len s predchádzajúcim súhlasom súdnej rady, ak je to potrebné pre riadny chod súdu; návrh súdnej rade podáva predseda súdu.

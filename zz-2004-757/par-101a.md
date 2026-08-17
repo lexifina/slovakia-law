@@ -1,0 +1,3 @@
+# § 101a Prechodné ustanovenie k úpravám účinným dňom vyhlásenia nálezu Ústavného súdu Slovenskej republiky PL. ÚS 17/08 z 20. mája 2009 v Zbierke zákonov Slovenskej republiky
+
+Senáty najvyššieho súdu, ktoré boli ku dňu vyhlásenia nálezu Ústavného súdu Slovenskej republiky PL. ÚS 17/08 z 20. mája 2009 v Zbierke zákonov Slovenskej republiky podľa rozvrhu práce senátmi rozhodujúcimi o riadnych opravných prostriedkoch proti rozhodnutiam Špeciálneho súdu, sú odo dňa vyhlásenia nálezu Ústavného súdu Slovenskej republiky PL. ÚS 17/08 z 20. mája 2009 v Zbierke zákonov Slovenskej republiky senátmi, ktoré rozhodujú o riadnych opravných prostriedkoch proti rozhodnutiam Špecializovaného trestného súdu.
