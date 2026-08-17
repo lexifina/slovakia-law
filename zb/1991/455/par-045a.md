@@ -12,4 +12,4 @@
 
 - b) oznámi zmenu platiteľa poistného, ak jej to vyplýva z osobitného zákona.
 
-(5) Osoby, ktoré sa povinne zapisujú do obchodného registra,<sup>36f</sup>) môžu zároveň s ohlásením živnosti uviesť aj údaje a predložiť doklady vyžadované podľa osobitného zákona<sup>36g</sup>) pre návrh na zápis údajov do obchodného registra.<sup>36h</sup>)
+(5) Osoby, ktoré sa povinne zapisujú do obchodného registra,<sup>36f</sup>) môžu zároveň s ohlásením živnosti uviesť aj údaje a predložiť doklady vyžadované podľa osobitného zákona<sup>36g</sup>) pre návrh na registráciu.<sup>36h</sup>)

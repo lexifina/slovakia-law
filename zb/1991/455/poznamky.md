@@ -248,13 +248,13 @@
 
 - 36e) Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 36f) § 27 ods. 2 Obchodného zákonníka.
+- 36f) § 8 zákona č. 29/2026 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov (zákon o obchodnom registri).
 
-- 36g) § 6 ods. 1 písm. b) a c) a § 6 ods. 2 zákona č. 530/2003 Z. z. v znení neskorších predpisov.
+- 36g) § 45 ods. 3 a § 50 ods. 1 písm. b) a e) zákona č. 29/2026 Z. z.
 
-- 36h) § 5, § 5b a nasl. a § 15d ods. 3 zákona č. 530/2003 Z. z. v znení zákona č. 136/2010 Z. z.
+- 36h) § 42 ods. 2 písm. c), § 45 a 48 zákona č. 29/2026 Z. z.
 
-- 36i) Zákon č. 530/2003 Z. z. v znení neskorších predpisov.
+- 36i) Zákon č. 29/2026 Z. z.
 
 - 36j) § 23 ods. 7 zákona č. 218/2013 o núdzových zásobách ropy a ropných výrobkov a o riešení stavu ropnej núdze a o zmene a doplnení niektorých zákonov.
 
@@ -300,7 +300,7 @@
 
 - 41ad) § 6 ods. 1, § 8 ods. 1, § 23 ods. 1 písm. a) a b) a ods. 8 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
-- 41ae) § 5b, 15d ods. 3 a 15g ods. 2 a 3 zákona č. 530/2003 Z. z. v znení zákona č. 390/2019 Z. z.
+- 41ae) § 48 zákona č. 29/2026 Z. z.
 
 - 41af) § 11a ods. 4 zákona Slovenskej národnej rady č. 71/1992 Zb. o súdnych poplatkoch a poplatku za výpis z registra trestov v znení zákona č. 292/2025 Z. z.
 

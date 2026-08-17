@@ -1,6 +1,6 @@
 Príloha č. 4a k zákonu č. 455/1991 Zb.
 
-- Zoznam voľných živností na účely založenia právnickej osoby a zriadenia podniku alebo organizačnej zložky podniku zahraničnej právnickej osoby zjednodušeným spôsobom Por. číslo | Názov voľnej živnosti
+- Zoznam voľných živností na účely založenia právnickej osoby a zriadenia podniku alebo organizačnej zložky podniku zahraničnej právnickej osoby aj zjednodušeným spôsobom Por. číslo | Názov voľnej živnosti
 
 - 1. | Poskytovanie služieb pre poľnohospodárstvo, záhradníctvo, rybárstvo, lesníctvo a poľovníctvo
 
