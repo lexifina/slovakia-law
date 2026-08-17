@@ -14,19 +14,9 @@
 
 - 8) § 261 až 755 Obchodného zákonníka.
 
-- 9) § 27 ods. 2 Obchodného zákonníka.
+- 9) Zákon č. 29/2026 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov (zákon o obchodnom registri).
 
 - 10) Čl. 5 nariadenia Rady (EHS) č. 2137/85.
-
-- 11) § 2 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov.
-
-- 12) § 3 zákona č. 530/2003 Z. z.
-
-- 13) Čl. 14 ods. 1 nariadenia Rady (EHS) č. 2137/85.
-
-- 14) Čl. 26 ods. 2 nariadenia Rady (EHS) č. 2137/85.
-
-- 15) Čl. 22 ods. 1 nariadenia Rady (EHS) č. 2137/85.
 
 - 16) Čl. 19 ods. 1 nariadenia Rady (EHS) č. 2137/85.
 
