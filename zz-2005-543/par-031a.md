@@ -1,0 +1,5 @@
+# § 31a Príkaz na zistenie a oznámenie údajov o uskutočnenej telekomunikačnej prevádzke a príkaz na zistenie a oznámenie obsahových údajov a prevádzkových údajov prenášaných prostredníctvom počítačového systému
+
+(1) O návrhu orgánu činného v trestnom konaní na vydanie príkazu na zistenie a oznámenie údajov o uskutočnenej telekomunikačnej prevádzke alebo príkazu na zistenie a oznámenie obsahových údajov alebo prevádzkových údajov prenášaných prostredníctvom počítačového systému<sup>14a</sup>) rozhoduje sudca pre prípravné konanie, pričom prvopis rozhodnutia vyhotoví sudca pre prípravné konanie bezodkladne, spravidla do troch dní.
+
+(2) Po vyhotovení prvopisu príkazu na zistenie a oznámenie údajov o uskutočnenej telekomunikačnej prevádzke alebo prvopisu príkazu na zistenie a oznámenie obsahových údajov a prevádzkových údajov prenášaných prostredníctvom počítačového systému sudcom pre prípravné konanie alebo po jeho rozhodnutí o tom, že sa príkaz nevydá, sudca pre prípravné konanie bezodkladne vráti spis orgánu činnému v trestnom konaní, ktorý podal návrh.

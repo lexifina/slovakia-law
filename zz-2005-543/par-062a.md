@@ -1,0 +1,3 @@
+# § 62a Vyznačovanie vykonateľnosti
+
+Primerane ako v § 62 sa postupuje aj v prípade vyznačovania vykonateľnosti. Vykonateľnosť na neodkladnom opatrení podľa osobitného predpisu<sup>22ab</sup>) vyznačí vždy sudca, ktorý neodkladné opatrenie nariadil, aj s vyznačením hodiny a minúty, kedy sa tak stalo. Vykonateľnosť na neodkladnom opatrení o povolení súdu na výkon oprávnenia vo veci starostlivosti o maloletých podľa osobitného predpisu<sup>22ac</sup>) s uvedením hodiny a minúty doručenia uznesenia vyznačí vždy sudca, ktorý uznesenie vydal, bezprostredne po tom, ako ho doručil orgánu sociálnoprávnej ochrany detí a sociálnej kurately podľa osobitného predpisu.<sup>22ad</sup>)
