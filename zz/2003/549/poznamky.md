@@ -12,7 +12,7 @@
 
 - 6) § 26 zákona č. 335/1991 Zb. o súdoch a sudcoch v znení neskorších predpisov.
 
-- 7) Zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov.
+- 7) Zákon č. 29/2026 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov (zákon o obchodnom registri).
 
 - 7a) Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov.
 
