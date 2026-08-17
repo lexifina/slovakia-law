@@ -94,9 +94,9 @@
 
 - 7) § 67 ods. 1 písm. b) zákona č. 757/2004 Z. z. v znení neskorších predpisov.
 
-- 7b) § 6 ods. 1 písm. f) zákona č. 530/2003 Z. z.
+- 7b) § 42 ods. 1, § 42 ods. 2 písm. b) a c) a § 50 ods. 2 zákona č. 29/2026 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov (zákon o obchodnom registri).
 
-- 7c) § 8 ods. 3 až 5 zákona č. 530/2003 Z. z.
+- 7c) § 50 ods. 2 a § 59 ods. 1 zákona č. 29/2026 Z. z.
 
 - 7d) § 66ba ods. 8 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 

@@ -166,9 +166,11 @@ Príloha č. 1 zákona SNR č. 71/1992 Zb.
 
 - Položka 17 |
 
-- Vo veciach obchodného registra |
+- V konaniach vo veciach obchodného registra |
 
-- a) z návrhu na prvý zápis |
+- Za registráciu registrovým súdom v obchodnom registri |
+
+- a) z návrhu na prvozápis |
 
 - 1. akciovej spoločnosti | 550 eur
 
@@ -180,17 +182,33 @@ Príloha č. 1 zákona SNR č. 71/1992 Zb.
 
 - b) z návrhu na zmenu právnej formy obchodnej spoločnosti (družstva) | 220 eur
 
-- c) z návrhu na zápis zmeny alebo na doplnenie akéhokoľvek počtu údajov týkajúcich sa jednej zapísanej osoby s výnimkou zmeny alebo doplnenia údajov v názve obce, v poštovom smerovacom čísle, v názve ulice alebo iného verejného priestranstva, prípadne s tým súvisiacej zmeny orientačného čísla alebo súpisného čísla, ak nedochádza k zmene jej sídla, miesta podnikania alebo bydliska | 50 eur
+- c) z návrhu na zápis zmeny alebo na doplnenie akéhokoľvek počtu údajov týkajúcich sa jednej zapísanej osoby | 50 eur
 
-- d) z návrhu akcionára na poverenie na zvolanie valného zhromaždenia | 140 eur
+- Za podanie kvalifikovaných námietok | 50 eur
 
-- e) z návrhu na predĺženie lehoty, po uplynutí ktorej súd v konaní o zrušení obchodnej spoločnosti alebo družstva rozhodne o výmaze obchodnej spoločnosti alebo družstva z obchodného registra aj bez návrhu podľa Civilného mimosporového poriadku | 140 eur
+- Za podanie kvalifikovaného podnetu na všeobecné zosúladenie údajov | 50 eur.
 
-- Poznámky: 1. V jednom poplatku podľa písmena c) tejto položky je zahrnutý akýkoľvek počet návrhov na zápis zmeny alebo doplnenie údajov týkajúcich sa jednej zapísanej osoby, ktoré sú obsiahnuté v jednom návrhu na zápis. 2. V poplatkoch podľa písmen a), b) a c) tejto položky je zahrnutý aj poplatok za zverejnenie zapísaných údajov v Obchodnom vestníku. 3. Zmenou zápisu sa rozumie výmaz pôvodného údaja a zápis nového údaja. 4. Poplatok podľa písmena c) tejto položky sa neplatí, ak ide o návrh na doplnenie údajov o konečnom užívateľovi výhod alebo o návrh na zápis zmeny údajov o konečnom užívateľovi výhod. 5. Poplatok podľa písmena c) tejto položky sa neplatí, ak ide o návrh na zmenu priezviska zapísanej osoby po uzavretí manželstva. 6. Poplatok podľa písmena c) tejto položky sa neplatí, ak ide o návrh na zápis, ktorým sa potvrdzujú zapísané údaje o podniku zahraničnej právnickej osoby alebo organizačnej zložke podniku zahraničnej právnickej osoby a o organizačnej zložke podniku slovenskej právnickej osoby v obchodnom registri podľa osobitného zákona, ktorý bol podaný fyzickou osobou oprávnenou konať v mene zapísanej právnickej osoby do 30. júna 2021 na tlačive podľa osobitného predpisu. 7. Poplatok podľa písmena c) tejto položky sa neplatí, ak ide o návrh na zápis, ktorým sa výlučne dopĺňajú identifikačné údaje o osobách podľa osobitného zákona<sup>10a</sup>) postupom podľa osobitného zákona.<sup>10b</sup>) 8. Ak sa má vykonať zápis do obchodného registra na registrovom súde príslušnom pre organizačnú zložku podniku, ktorého adresa umiestnenia je mimo obvodu registrového súdu príslušného pre právnickú osobu, o ktorej organizačnú zložku podniku ide, poplatok sa vyberie len raz na súde príslušnom pre právnickú osobu. 9. Námietka proti odmietnutiu vykonania zápisu, odvolanie proti uzneseniu, ktorým súd rozhodol o zamietnutí námietky proti odmietnutiu vykonania zápisu, a odvolanie v konaniach vo veciach obchodného registra podľa § 278 až 303 Civilného mimosporového poriadku poplatku nepodliehajú. |
+- Poznámky: 1. V jednom poplatku podľa písmena c) tejto položky je zahrnutý akýkoľvek počet návrhov na zápis zmeny alebo doplnenie údajov týkajúcich sa jednej zapísanej osoby, ktoré sú obsiahnuté v jednom návrhu na registráciu. 2. V poplatkoch podľa písmen a) až c) tejto položky je zahrnutý aj poplatok za zverejnenie zapísaných údajov v Obchodnom vestníku. 3. Zmenou zápisu sa rozumie výmaz pôvodného údaja a zápis nového údaja. 4. Poplatok podľa písmena c) tejto položky sa neplatí, ak ide o návrh na doplnenie údajov o konečnom užívateľovi výhod alebo o návrh na zápis zmeny údajov o konečnom užívateľovi výhod. 5. Námietky proti odmietnutiu vykonania registrácie podľa § 60 zákona č. 29/2026 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov (zákon o obchodnom registri) poplatku nepodliehajú. |
 
 - Položka 17a |
 
-- Za vznesenie námietky zaujatosti stranou alebo účastníkom | 100 eur
+- Register rezervovaných obchodných mien |
+
+- a) Za žiadosť o rezerváciu obchodného mena alebo názvu v registri rezervovaných obchodných mien | 50 eur
+
+- b) Za vydanie osvedčenia o tom, či o obchodnom mene alebo názve v registri rezervovaných obchodných mien určitý záznam je alebo nie je za každú aj začatú stranu | 3 eurá.
+
+- Položka 17b |
+
+- V konaniach vo veciach právnických osôb |
+
+- a) Z návrhu akcionára na poverenie na zvolanie valného zhromaždenia | 140 eur
+
+- b) Z návrhu na predĺženie lehoty, po uplynutí ktorej súd v konaní o zrušení obchodnej spoločnosti alebo družstva rozhodne o výmaze obchodnej spoločnosti alebo družstva z obchodného registra aj bez návrhu podľa Civilného mimosporového poriadku | 140 eur.
+
+- Položka 17c |
+
+- Za vznesenie námietky zaujatosti stranou alebo účastníkom | 100 eur.
 
 - Položka 18a |
 
@@ -286,13 +304,15 @@ Príloha č. 1 zákona SNR č. 71/1992 Zb.
 
 - Položka 24b |
 
-- a) Za vyhotovenie a vydanie výpisu z obchodného registra s výnimkou výpisu z obchodného registra, ktorý sa vydáva po vykonaní zápisu podľa § 8 ods. 2 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a po vykonaní zápisu podľa 285 ods. 3 Civilného mimosporového poriadku v listinnej podobe | 10 eur,
+- a) Za vyhotovenie a vydanie výpisu z obchodného registra v listinnej podobe | 10 eur,
 
-- b) za vyhotovenie fotokópie listiny uloženej v zbierke listín, za každú, aj začatú stranu | 0,50 eura, najmenej 2 eurá,
+- b) Za vyhotovenie a vydanie úplného výpisu z obchodného registra podľa § 105 ods. 1 písm. b) zákona č. 29/2026 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov (zákon o obchodnom registri) v listinnej podobe | 10 eur,
 
-- c) za vyhotovenie a vydanie potvrdenia o tom, že v obchodnom registri určitý zápis nie je, alebo potvrdenia o tom, že určitá listina nie je uložená do zbierky listín | 5 eur,
+- c) Za vyhotovenie kópie dokumentu uloženého v zbierke dokumentov v listinnej podobe | 10 eur,
 
-- Poznámka: Vyhotovenie a vydanie výpisu z obchodného registra, ktorý sa vydáva po vykonaní zápisu podľa § 8 ods. 2 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a podľa 285 ods. 3 Civilného mimosporového poriadku, poplatku nepodliehajú. Vyhotovenie a vydanie výpisu z obchodného registra, potvrdenia o tom, že v obchodnom registri určitý zápis nie je, kópie uloženej listiny alebo potvrdenia o tom, že určitá listina nie je uložená v zbierke listín v elektronickej podobe poplatku nepodlieha. |
+- d) Za vyhotovenie a vydanie potvrdenia o tom, že v obchodnom registri určitý zápis nie je, alebo potvrdenia o tom, že určitý dokument nie je uložený v zbierke dokumentov | 10 eur.
+
+- Poznámka: Vyhotovenie a vydanie výpisu z obchodného registra, úplného výpisu z obchodného registra, potvrdenia o tom, že v obchodnom registri určitý zápis nie je, kópie uloženého dokumentu alebo potvrdenia o tom, že určitý dokument nie je uložený v zbierke dokumentov v elektronickej podobe poplatku nepodlieha. |
 
 - Položka 24c |
 
