@@ -1,0 +1,1 @@
+Katarína Tóthová v. r.
