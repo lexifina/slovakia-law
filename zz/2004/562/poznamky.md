@@ -6,23 +6,11 @@
 
 - 4) § 2 ods. 3 Obchodného zákonníka.
 
-- 5) § 27 ods. 2 Obchodného zákonníka.
+- 5) Zákon č. 29/2026 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov (zákon o obchodnom registri).
 
 - 6) Čl. 2 nariadenia Rady (ES) č. 2157/2001.
 
-- 7) § 2 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov.
-
-- 8) § 21 Obchodného zákonníka.
-
-- 9) § 3 ods. 1 písm. o) zákona č. 530/2003 Z. z. v znení zákona č. 432/2004 Z. z.
-
 - 10) Čl. 8 ods. 2 nariadenia Rady (ES) č. 2157/2001.
-
-- 11) Čl. 20 ods. 1 nariadenia Rady (ES) č. 2157/2001.
-
-- 12) Čl. 32 ods. 2 nariadenia Rady (ES) č. 2157/2001.
-
-- 13) Čl. 37 ods. 4 nariadenia Rady (ES) č. 2157/2001.
 
 - 14) Čl. 8 ods. 1 nariadenia Rady (ES) č. 2157/2001.
 
