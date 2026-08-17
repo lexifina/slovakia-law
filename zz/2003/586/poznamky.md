@@ -6,6 +6,8 @@
 
 - 3a) § 3 až 8, § 10 až 16 zákona č. 136/2010 Z. z. o službách na vnútornom trhu a o zmene a doplnení niektorých zákonov.
 
+- 3aa) Napríklad zákon č. 309/2023 Z. z. o premenách obchodných spoločností a družstiev a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 4) § 2 ods. 5 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 5) Zákon Slovenskej národnej rady č. 323/1992 Zb. v znení neskorších predpisov.
