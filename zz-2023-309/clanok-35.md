@@ -1,0 +1,3 @@
+# Čl. XXXV
+
+Tento zákon nadobúda účinnosť 1. augusta 2023 okrem ustanovení čl. XIV bodov 3 až 5, 23 až 29, ktoré nadobúdajú účinnosť 1. januára 2024, ustanovení čl. I, čl. II bodov 1 až 16, čl. III, čl. IV bodov 1, 2 a 4, čl. V až XIII, čl. XIV bodov 1, 8 až 22 a 30 až 38, čl. XV až XX, čl. XXI bodov 2, 3, 8, 55, 76, 93 a 94, čl. XXII bodu 6, čl. XXIII až XXXII, čl. XXXIII bodu 2 a čl. XXXIV, ktoré nadobúdajú účinnosť 1. marca 2024 a ustanovení čl. II bodu 17, čl. IV bodov 3 a 5, čl. XXI bodov 1, 4 až 7, 9 až 54, 56 až 75, 77 až 92, 95 až 126, 128 až 130 a § 206q v bode 131, čl. XXII bodov 1 až 5 a 7 a čl. XXXIII bodov 1, 4 a 5, ktoré nadobúdajú účinnosť 1. októbra 2025.
