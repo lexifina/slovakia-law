@@ -2,7 +2,7 @@
 
 - 2) Obchodný zákonník.
 
-- Zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- Zákon č. 29/2026 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov (zákon o obchodnom registri).
 
 - 3) Obchodný zákonník.
 
@@ -12,21 +12,9 @@
 
 - 6) Rozhodnutie Spoločného výboru pre EHP č. 15/2004 zo 6. februára 2004, ktoré mení a dopĺňa prílohu XXII (Firemné právo) k Dohode o EHP (Mimoriadne vydanie Ú. v. EÚ, kap. 11/zv. 9; Ú. v. EÚ L 116, 22. 4. 2004).
 
-- 7) § 27 ods. 2 písm. a) Obchodného zákonníka.
+- 7) Zákon č. 29/2026 Z. z.
 
 - 8) Čl. 2 ods. 2 nariadenia Rady (ES) č. 1435/2003.
-
-- 9) § 2 zákona č. 530/2003 Z. z.
-
-- 10) § 21 ods. 2 Obchodného zákonníka.
-
-- 11) § 3 zákona č. 530/2003 Z. z. v znení neskorších predpisov.
-
-- 12) Čl. 7 ods. 2 nariadenia Rady (ES) č. 1435/2003.
-
-- 13) Čl. 22 nariadenia Rady (ES) č. 1435/2003.
-
-- 14) Čl. 35 ods. 3 nariadenia Rady (ES) č. 1435/2003.
 
 - 15) Čl. 7 nariadenia Rady (ES) č. 1435/2003.
 
