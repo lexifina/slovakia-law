@@ -1,0 +1,5 @@
+# § 80r Prechodné ustanovenia k úpravám účinným od 11. júna 2010
+
+(1) Živnostenské oprávnenia, ktoré umožňovali poskytovanie spotrebiteľských úverov, v tomto rozsahu dňom 11. júna 2010 zanikajú.
+
+(2) Právnická osoba alebo fyzická osoba, ktorá je na základe živnostenského oprávnenia platného k 10. júnu 2010 držiteľom oprávnenia na poskytovanie spotrebiteľských úverov upravených v osobitnom predpise o spotrebiteľských úveroch,<sup>14b</sup>) ktoré od 11. júna 2010 už nie sú živnosťou, je oprávnená tieto činnosti vykonávať až do právoplatnosti rozhodnutia o návrhu tejto osoby na registráciu podľa osobitného predpisu o spotrebiteľských úveroch,<sup>50</sup>) ak táto osoba podá žiadosť o registráciu v lehote ustanovenej v osobitnom predpise o spotrebiteľských úveroch.<sup>50</sup>) Ak dotknutá osoba nepodá návrh na registráciu v lehote ustanovenej v osobitnom predpise o spotrebiteľských úveroch,<sup>50</sup>) oprávnenie na poskytovanie spotrebiteľských úverov upravených v osobitnom predpise o spotrebiteľských úveroch<sup>14b</sup>) jej zaniká uplynutím lehoty na podanie návrhu na registráciu podľa osobitného predpisu o spotrebiteľských úveroch.<sup>50</sup>)

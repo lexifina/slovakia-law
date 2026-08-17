@@ -1,0 +1,5 @@
+# § 80ap Prechodné ustanovenia k úpravám účinným od 30. decembra 2024
+
+(1) Živnostenské oprávnenie vydané na živnosť, ktorá svojím obsahom spĺňa znaky poskytovania služieb zmenárne virtuálnej meny, poskytovania služieb peňaženky virtuálnej meny alebo služieb kryptoaktív podľa osobitného predpisu<sup>51</sup>) vydané do 30. decembra 2024 zaniká 30. decembra 2025.
+
+(2) Fyzické osoby alebo právnické osoby, ktoré boli pred 30. decembrom 2024 oprávnené na základe živnostenského oprávnenia poskytovať služby zmenárne virtuálnej meny, služby peňaženky virtuálnej meny alebo poskytovať služby a činnosti, ktoré svojím obsahom spĺňajú znaky služieb kryptoaktív podľa osobitného predpisu,<sup>51</sup>) môžu tieto činnosti vykonávať do 30. decembra 2025 alebo do dňa nadobudnutia právoplatnosti rozhodnutia o žiadosti o udelenie povolenia na činnosť poskytovania služieb kryptoaktív podľa osobitného predpisu,<sup>52</sup>) ak toto rozhodnutie nadobudlo právoplatnosť pred 30. decembrom 2025.<sup>53</sup>) Ak osoba podľa prvej vety nezíska povolenie podľa prvej vety pred 30. decembrom 2025, oprávnenie na poskytovanie služieb podľa prvej vety jej zaniká 30. decembra 2025.
