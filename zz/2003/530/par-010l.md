@@ -1,5 +1,0 @@
-# § 10l Zápis zmeny zapísaných údajov rozdeľovanej spoločnosti pri cezhraničnom odštiepení
-
-(1) Súd zapíše zmenu zapísaných údajov spoločnosti, ktorá je rozdeľovanou spoločnosťou pri cezhraničnom odštiepení až po doručení oznámenia zahraničných registrov alebo iných evidencií, do ktorých sa zapisujú nástupnícke spoločnosti prostredníctvom systému prepojenia registrov, že nástupnícke spoločnosti boli do týchto evidencií zapísané, a to ku dňu zápisu poslednej z nástupníckych spoločností. Pred vykonaním zápisu zmeny zapísaných údajov registrový súd potvrdí prostredníctvom systému prepojenia registrov zahraničnému obchodnému registru alebo inej evidencii, v ktorej je spoločnosť po cezhraničnej zmene právnej formy zapísaná alebo v ktorej je povinná ukladať listiny, doručenie tohto oznámenia.
-
-(2) Po zápise zmien zapísaných údajov podľa odseku 1 registrový súd bez zbytočného odkladu oznámi zahraničným obchodným registrom alebo iným evidenciám, do ktorých sú nástupnícke spoločnosti povinné ukladať listiny, že cezhraničné rozdelenie nadobudlo účinnosť. Registrový súd uskutoční oznámenie podľa prvej vety prostredníctvom systému prepojenia registrov.

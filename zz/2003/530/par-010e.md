@@ -1,5 +1,0 @@
-# § 10e Výmaz podniku alebo organizačnej zložky podniku slovenskej právnickej osoby
-
-(1) Registrový súd aj bez návrhu vykoná výmaz podniku alebo organizačnej zložky podniku slovenskej právnickej osoby, ak zahraničný obchodný register alebo iná evidencia, v ktorej je podnik alebo organizačná zložka podniku slovenskej právnickej osoby zapísaná, alebo v ktorej je povinná ukladať listiny, oznámi prostredníctvom systému prepojenia registrov, že došlo k zániku alebo k výmazu zapísaného podniku alebo organizačnej zložky podniku slovenskej právnickej osoby. Registrový súd potvrdí prostredníctvom systému prepojenia registrov zahraničnému obchodného registru alebo inej evidencii, v ktorej bol podnik alebo organizačná zložka podniku slovenskej právnickej osoby zapísaná alebo v ktorej bola povinná ukladať listiny, doručenie tohto oznámenia.
-
-(2) Potvrdenie o vykonaní výmazu pri výmaze podniku slovenskej právnickej osoby alebo organizačnej zložky podniku slovenskej právnickej osoby podľa odseku 1 sa nevydáva.
