@@ -1,0 +1,7 @@
+# § 446c Predĺženie ochranného liečenia
+
+(1) Odsúdenému, ktorému bolo uložené ochranné liečenie podľa § 73 ods. 2 písm. c) Trestného zákona a ktorý bol počas jeho výkonu práceneschopný alebo pre inú prekážku nemohol ochranné liečenie vykonávať, súd, v obvode ktorého sa ochranné liečenie vykonáva, na verejnom zasadnutí na návrh zdravotníckeho zariadenia alebo riaditeľa ústavu na výkon trestu odňatia slobody alebo nemocnice pre obvinených a odsúdených predĺži výkon ochranného liečenia najviac o tri mesiace. Ak sa odsúdený nachádza v ústavnej zdravotnej starostlivosti, návrh sa musí podať aspoň desať pracovných dní pred uplynutím trojmesačnej doby výkonu ochranného liečenia a súd rozhodne do uplynutia trojmesačnej doby výkonu ochranného liečenia.
+
+(2) Súd môže na verejnom zasadnutí odsúdenému, ktorému bolo uložené ochranné liečenie podľa § 73 ods. 2 písm. c) Trestného zákona, predĺžiť výkon ochranného liečenia nad dobu podľa § 74 ods. 5 Trestného zákona na návrh zdravotníckeho zariadenia alebo riaditeľa ústavu na výkon trestu odňatia slobody alebo nemocnice pre obvinených a odsúdených, ak je to potrebné na dosiahnutie účelu ochranného liečenia. Ak sa odsúdený nachádza v ústavnej zdravotnej starostlivosti, návrh sa musí podať aspoň desať pracovných dní pred uplynutím trojmesačnej doby výkonu ochranného liečenia a súd rozhodne do uplynutia trojmesačnej doby výkonu ochranného liečenia.
+
+(3) Proti uzneseniu podľa odseku 1 alebo odseku 2 je prípustná sťažnosť.

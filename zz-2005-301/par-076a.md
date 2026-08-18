@@ -1,0 +1,3 @@
+# § 76a
+
+Ak sa vedie trestné stíhanie pre obzvlášť závažný zločin, za ktorý možno uložiť trest odňatia slobody na 25 rokov alebo trest odňatia slobody na doživotie alebo pre trestné činy terorizmu, ktoré nebolo možné pre obťažnosť veci alebo z iných závažných dôvodov skončiť do uplynutia celkovej lehoty väzby v trestnom konaní a prepustením obvineného na slobodu hrozí, že bude zmarené alebo podstatne sťažené dosiahnutie účelu trestného konania, môže súd rozhodnúť o predĺžení celkovej lehoty väzby v trestnom konaní na nevyhnutnú dobu, a to aj opakovane. Celková lehota väzby v trestnom konaní spolu s jej predĺžením podľa predchádzajúcej vety však nesmie presiahnuť šesťdesiat mesiacov.

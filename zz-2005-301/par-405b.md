@@ -1,0 +1,5 @@
+# § 405b
+
+(1) Ak v dôsledku zmeny zákona zanikla trestnosť činu podľa § 84 Trestného zákona, súd uznesením rozhodne, že zvyšok trestu sa nevykoná. Ak ide o skutok a trestný čin, za ktorý bol uložený úhrnný alebo súhrnný trest, súd rozsudkom zruší v dôsledku zániku trestnosti činu právoplatné rozhodnutie len vo výroku o treste a podľa § 41 alebo § 42 Trestného zákona uloží primeraný trest za zostávajúce zbiehajúce sa trestné činy, pri ktorých nezanikla trestnosť činu podľa § 84 Trestného zákona, a zároveň rozhodne o započítaní už vykonaného trestu, ak je vzhľadom na druh uloženého trestu započítanie možné.
+
+(2) Ak je odsúdený vo výkone trestu odňatia slobody a nebol mu uložený úhrnný alebo súhrnný trest, rozhodnutie podľa odseku 1 urobí súd do 30 dní od nadobudnutia účinnosti zmeny zákona na neverejnom zasadnutí, o ktorom upovedomí prokurátora. Proti tomuto rozhodnutiu prokurátor môže podať sťažnosť len ihneď po vyhlásení uznesenia; obsah sťažnosti prokurátor uvedie do zápisnice. Nadriadený súd o jeho sťažnosti rozhodne do 20 pracovných dní od predloženia veci.
