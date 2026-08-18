@@ -1,0 +1,3 @@
+# § 140a Trestné činy extrémizmu
+
+Trestné činy extrémizmu sú trestný čin založenia, podpory a propagácie hnutia smerujúceho k potlačeniu základných práv a slobôd podľa § 421, prejavu sympatie k hnutiu smerujúcemu k potlačeniu základných práv a slobôd podľa § 422, výroby extrémistického materiálu podľa § 422a, rozširovania extrémistického materiálu podľa § 422b, prechovávania extrémistického materiálu podľa § 422c, popierania a schvaľovania holokaustu, zločinov politických režimov a zločinov proti ľudskosti podľa § 422d, hanobenia národa, rasy a presvedčenia podľa § 423, podnecovania k národnostnej, rasovej a etnickej nenávisti podľa § 424, apartheidu a diskriminácie skupiny osôb podľa § 424a a trestný čin spáchaný z osobitného motívu podľa § 140 písm. e).

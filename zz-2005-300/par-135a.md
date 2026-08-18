@@ -1,0 +1,7 @@
+# § 135a Prechovávanie látok s anabolickým alebo iným hormonálnym účinkom
+
+(1) Prechovávaním látok s anabolickým alebo iným hormonálnym účinkom vo väčšom množstve sa rozumie mať neoprávnene v držbe po akúkoľvek dobu látku s anabolickým alebo iným hormonálnym účinkom podľa osobitného predpisu v množstve zodpovedajúcom najmenej desaťnásobku jednej obvykle nedeliteľnej formy, najmä jednej tablety, jednej injekcie, jednej ampulky, alebo podobného nedeliteľného balenia prípravku obsahujúceho látky s anabolickým alebo iným hormonálnym účinkom.
+
+(2) Prechovávaním látok s anabolickým alebo iným hormonálnym účinkom v značnom množstve sa rozumie mať neoprávnene v držbe po akúkoľvek dobu látku s anabolickým alebo iným hormonálnym účinkom podľa osobitného predpisu v množstve zodpovedajúcom najmenej stonásobku jednej obvykle nedeliteľnej formy, najmä jednej tablety, jednej injekcie, jednej ampulky, alebo podobného nedeliteľného balenia prípravku obsahujúceho látky s anabolickým alebo iným hormonálnym účinkom.
+
+(3) Prechovávaním látok s anabolickým alebo iným hormonálnym účinkom vo veľkom množstve sa rozumie mať neoprávnene v držbe po akúkoľvek dobu látku s anabolickým alebo iným hormonálnym účinkom podľa osobitného predpisu v množstve zodpovedajúcom najmenej tisícnásobku jednej obvykle nedeliteľnej formy, najmä jednej tablety, jednej injekcie, jednej ampulky, alebo podobného nedeliteľného balenia prípravku obsahujúceho látky s anabolickým alebo iným hormonálnym účinkom.

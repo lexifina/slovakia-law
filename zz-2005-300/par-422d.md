@@ -1,0 +1,5 @@
+# § 422d Popieranie a schvaľovanie holokaustu, zločinov politických režimov a zločinov proti ľudskosti
+
+(1) Kto verejne popiera, spochybňuje, schvaľuje alebo sa snaží ospravedlniť holokaust, zločiny režimu založeného na fašistickej ideológii, zločiny režimu založeného na komunistickej ideológii alebo zločiny iného podobného hnutia, ktoré násilím, hrozbou násilia alebo hrozbou inej ťažkej ujmy smeruje k potlačeniu základných práv a slobôd osôb, potrestá sa odňatím slobody na šesť mesiacov až tri roky.
+
+(2) Rovnako ako v odseku 1 sa potrestá, kto verejne popiera, schvaľuje, spochybňuje, hrubo zľahčuje alebo sa snaží ospravedlniť genocídium, zločiny proti mieru, zločiny proti ľudskosti alebo vojnové zločiny spôsobom, ktorý môže podnecovať násilie alebo nenávisť voči skupine osôb alebo jej členovi, ak bol páchateľ alebo účastník tohto činu odsúdený právoplatným rozsudkom medzinárodného súdu zriadeného na základe medzinárodného práva verejného, ktorého právomoc uznala Slovenská republika, alebo právoplatným rozsudkom súdu Slovenskej republiky.
