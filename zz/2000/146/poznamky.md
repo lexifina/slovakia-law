@@ -1,5 +1,7 @@
 - 1) § 21 ods. 3 Obchodného zákonníka.
 
+- 1a) § 2 písm. m) zákona č. 300/2025 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov (vysokoškolský zákon).
+
 - 2) § 137 až 142 Občianskeho zákonníka.
 
 - 3) § 508 ods. 1 Obchodného zákonníka.
