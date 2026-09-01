@@ -1,0 +1,11 @@
+# § 20a
+
+(1) Fond je na účely zabezpečenia funkcionalít používateľského rozhrania na podávanie žiadosti o pôžičku, na účely spracúvania, vyhodnocovania a ďalších úkonov spojených so žiadosťou o pôžičku, na účely poskytnutia pôžičky, na účely uzavretia zmluvy o pôžičke a na účely správy zmluvného vzťahu zo zmluvy o pôžičke oprávnený získavať a používať údaje evidované v informačných systémoch verejnej správy a ďalších informačných systémoch, v rovnakom rozsahu a rovnakým spôsobom, ako orgán verejnej moci podľa všeobecného predpisu proti byrokracii.<sup>28a</sup>)
+
+(2) Ak správca alebo prevádzkovateľ informačného systému verejnej správy poskytuje údaje z tohto systému v rámci elektronickej komunikácie prostredníctvom modulu procesnej integrácie a integrácie údajov,<sup>28b</sup>) fond má na účely zabezpečenia činností podľa odseku 1 právo na prístup k týmto údajom aj bez žiadosti, automatizovaným spôsobom s nepretržitým prístupom prostredníctvom tohto modulu.
+
+(3) Pri preukazovaní totožnosti osoby na účely vyplnenia a podania žiadosti o pôžičku môže fond zabezpečiť jej identifikáciu a preukázanie totožnosti s použitím úradného autentifikátora<sup>28c</sup>) alebo iného autentifikátora, ktorý zodpovedá najmenej úrovni zabezpečenia „pokročilá“,<sup>28d</sup>) a postupovať spôsobom ustanoveným pre identifikáciu a autentifikáciu podľa všeobecného predpisu o výkone verejnej moci elektronicky.<sup>28e</sup>) Na účel podľa prvej vety sú správcovia častí autentifikačného modulu<sup>28f</sup>) povinní poskytnúť fondu súčinnosť potrebnú na zabezpečenie takejto identifikácie a autentifikácie.
+
+(4) Fond je na účely podľa odseku 1 oprávnený spracúvať osobné údaje žiadateľa o pôžičku, dlžníka z pôžičky a ak sa vyžaduje ručenie aj ručiteľa, a to v rozsahu osobných údajov, ktoré sa podľa tohto zákona uvádzajú v žiadosti o pôžičku a v zmluve o pôžičke, v rozsahu nevyhnutnom na dosiahnutie tohto účelu a po dobu podľa § 18 ods. 6.
+
+(5) Ak sa tak fond a ministerstvo školstva dohodnú, fond môže na činnosti spojené s poskytovaním údajov na účely podľa odseku 1 používať informačné technológie verejnej správy, ktoré zabezpečí ministerstvo školstva, a ministerstvo školstva môže v mene fondu vykonávať právne úkony spojené s týmto poskytovaním vrátane uzatvárania dohôd so správcami a prevádzkovateľmi podľa odsekov 1 a 2.
