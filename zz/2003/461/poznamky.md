@@ -28,7 +28,7 @@
 
 - 7aa) Zákon č. 61/2015 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov.
 
-- 7aaa) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 7aaa) Zákon č. 300/2025 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov (vysokoškolský zákon).
 
 - 7b) Napríklad § 12a zákona č. 105/1990 Zb. o súkromnom podnikaní občanov v znení zákona č. 219/1991 Zb., zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -292,7 +292,7 @@
 
 - 92ac) Napríklad zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 543/2007 Z. z. o pôsobnosti organov štátnej správy pri poskytovaní podpory v pôdohospodárstve a rozvoji vidieka v znení neskorších predpisov, § 6 až 11 a § 34 zákona č. 528/2008 Z. z. o pomoci a podpore poskytovanej z fondov Európskeho spoločenstva v znení neskorších predpisov.
 
-- 92ad) § 73a ods. 12 zákona č. 131/2002 Z. z. v znení neskorších predpisov.
+- 92ad) § 132 ods. 2 zákona č. 300/2025 Z. z.
 
 - 92ae) § 157 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
