@@ -1,0 +1,3 @@
+# § 161db
+
+Absolvent, ktorý získal vyššie odborné vzdelanie do 31. augusta 2008 a nebolo mu priznané právo používať titul „diplomovaný špecialista“ so skratkou „DiS“ alebo titul „diplomovaný umelec“ so skratkou „DiS.art.“, je oprávnený používať tento titul, ak dĺžka absolvovaného študijného odboru trvala najmenej dva roky. Na písomnú žiadosť absolventa príslušná škola, v ktorej tento študijný odbor absolvoval, alebo jej nástupnícka škola, vydá potvrdenie o práve používať titul. Ak takáto škola alebo jej nástupnícka škola neexistuje, absolvent môže požiadať o potvrdenie o práve používať titul orgán miestnej štátnej správy v školstve, do ktorého územnej pôsobnosti zrušená škola patrila.
