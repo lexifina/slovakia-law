@@ -84,7 +84,7 @@
 
 - 2p) § 123 a 124 zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov.
 
-- 2r) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
+- 2r) § 99 zákona č. 582/2004 Z. z. o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady v znení neskorších predpisov, § 12 zákona č. 447/2015 Z. z. o miestnom poplatku za rozvoj a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 2s) Zákon Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov.
 
