@@ -2,11 +2,15 @@
 
 - 1a) § 40 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 1aa) § 76 ods. 7, § 78 ods. 2 písm. c) a ods. 3 písm. c) zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 1aa) § 91 ods. 3, § 91a ods. 1 a § 92 ods. 6 a 8 zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 1ab) § 76 ods. 7, § 78 ods. 2 písm. c), ods. 3 písm. c) a § 92 ods. 6 zákona č. 8/2009 Z. z. v znení neskorších predpisov.
 
 - 1b) § 4a zákona č. 280/2006 Z. z. o povinnej základnej kvalifikácii a pravidelnom výcviku niektorých vodičov v znení neskorších predpisov.
 
-- 1c) § 79 a 80 zákona č. 8/2009 Z. z. v znení neskorších predpisov.
+- 1c) § 77 ods. 1 písm. b) a § 77a zákona č. 8/2009 Z. z. v znení neskorších predpisov.
+
+- 1d) § 16 ods. 3 písm. b) zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 2) § 9 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov.
 

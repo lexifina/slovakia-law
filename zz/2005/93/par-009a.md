@@ -12,7 +12,7 @@
 
 - d) úspešne vykonal skúšku na vydanie preukazu skúšobného komisára.
 
-(3) Prax podľa odseku 2 písm. b) sa preukazuje dokladmi o vykonávaní kurzov podľa § 2 ods. 1 písm. a) a b) na základe živnostenského oprávnenia alebo na základe zmlúv podľa § 3 ods. 6.
+(3) Prax podľa odseku 2 písm. b) sa preukazuje dokladmi o vykonávaní kurzov a výcvikov podľa § 2 ods. 1 písm. a) až d) na základe živnostenského oprávnenia alebo na základe zmlúv podľa § 3 ods. 6.
 
 (4) Kurzy na vydanie preukazu skúšobného komisára a doškoľovacie kurzy na predĺženie platnosti preukazu skúšobného komisára organizuje a zabezpečuje komora. Komora predloží zoznam inštruktorov ministerstvu dopravy v lehote najmenej 15 dní pred začatím kurzu na vydanie preukazu skúšobného komisára na jeho schválenie. Spolu so zoznamom inštruktorov komora predloží ministerstvu dopravy aj doklady preukazujúce prax podľa odseku 2 písm. b).
 
