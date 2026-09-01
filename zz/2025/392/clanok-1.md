@@ -43,3 +43,27 @@ Nariadenie vlády Slovenskej republiky č. 201/2019 Z. z. o priamej výchovno-vz
   - Doterajší ôsmy bod až sedemnásty bod sa označujú ako desiaty bod až devätnásty bod.
 
 - 8. V prílohe č. 1 časti D, prílohe č. 5 časti A, prílohe č. 6 časti A sa za slová „stredná odborná škola“ vkladajú slová „stredná priemyselná škola“.
+
+- 9. Príloha č. 3 vrátane nadpisu znie:
+
+- „Príloha č. 3
+
+- k nariadeniu vlády č. 201/2019 Z. z.
+
+- ZÁKLADNÝ ÚVÄZOK MAJSTRA ODBORNEJ VÝCHOVY
+
+- Miesto výkonu pracovnej činnosti alebo iná charakteristika | Základný úväzok (počet hodín)
+
+- stredná škola pre žiakov so zdravotným znevýhodnením odborné učilište | 21 – 24
+
+- dvojročný vzdelávací program učebného odboru | 35
+
+- trojročný vzdelávací program učebného odboru | 30
+
+- štvorročný vzdelávací program učebného odboru, ktorého absolvovaním žiak získa stredné odborné vzdelanie a kvalifikáciu podľa Európskeho kvalifikačného rámca a Slovenského kvalifikačného rámca na úrovni 3 | 28
+
+- štvorročný vzdelávací program študijného odboru, ktorého absolvovaním žiak získa úplné stredné odborné vzdelanie a kvalifikáciu podľa Európskeho kvalifikačného rámca a Slovenského kvalifikačného rámca na úrovni 4 | 24
+
+- päťročný vzdelávací program študijného odboru | 24
+
+- Ak ide o priamu vyučovaciu činnosť vo viacerých odboroch vzdelávania, základný úväzok sa určí podľa odboru vzdelávania, v ktorom vykonáva najvyšší počet hodín priamej výchovno-vzdelávacej činnosti.“.
