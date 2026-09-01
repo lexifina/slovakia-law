@@ -1,0 +1,7 @@
+# § 33a
+
+(1) Majetok verejnej výskumnej inštitúcie, ktorým nie je kultúrna pamiatka,<sup>19a</sup>) historický knižničný dokument, historický knižničný fond<sup>19b</sup>) a zbierkový predmet,<sup>19c</sup>) možno vyhlásiť za neupotrebiteľný, ak ide o hnuteľné veci, ktoré pre svoje úplné opotrebenie alebo poškodenie, zrejmú zastaranosť alebo nehospodárnosť v prevádzke alebo z iných závažných dôvodov nemôžu slúžiť svojmu účelu alebo určeniu; vnútorný predpis zakladateľa verejnej výskumnej inštitúcie podľa § 38 ods. 1 písm. f) môže upraviť podrobnejšie kritériá posudzovania neupotrebiteľnosti majetku.
+
+(2) O neupotrebiteľnosti majetku pre verejnú výskumnú inštitúciu rozhoduje správna rada na návrh riaditeľa po predchádzajúcom súhlase dozornej rady. Rozhodnutie musí byť písomné a musí obsahovať označenie neupotrebiteľného majetku verejnej výskumnej inštitúcie a jeho identifikačné údaje.
+
+(3) Neupotrebiteľný majetok verejnej výskumnej inštitúcie môže byť predmetom koncesnej zmluvy podľa § 36 alebo iného spôsobu naloženia upraveného vo vnútornom predpise zakladateľa verejnej výskumnej inštitúcie podľa § 38 ods. 1 písm. f). Ak nedôjde k naloženiu s neupotrebiteľným majetkom verejnej výskumnej inštitúcie podľa predchádzajúcej vety, verejná výskumná inštitúcia môže ponúknuť svoj neupotrebiteľný majetok, ktorý môže byť využitý ako druhotná surovina, osobe, ktorá sa zaoberá výkupom druhotných surovín. Ak nie je dotknutý majetok využitý ako druhotná surovina, verejná výskumná inštitúcia zabezpečí jeho likvidáciu v súlade s osobitným predpisom.<sup>19d</sup>)
