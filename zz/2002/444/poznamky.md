@@ -6,6 +6,8 @@
 
 - 1c) Nariadenie Rady (ES) č. 6/2002 a Rozhodnutie Rady (2006/954/ES).
 
+- 1d) § 2 písm. m) zákona č. 300/2025 o vysokých školách a o zmene a doplnení niektorých zákonov (vysokoškolský zákon).
+
 - 2) Napríklad § 69, 479 a 487 Obchodného zákonníka, § 460 a 469 Občianskeho zákonníka, § 12 až 17 zákona č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov.
 
 - 2a) Zákon č. 307/2016 Z. z. o upomínacom konaní a o doplnení niektorých zákonov.
