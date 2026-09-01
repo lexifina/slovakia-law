@@ -1,0 +1,39 @@
+# § 22g Blokové konanie o správnom delikte prevádzkovateľa vozidla
+
+(1) Za správny delikt prevádzkovateľa vozidla podľa § 22d ods. 1 môže príslušník Policajného zboru uložiť pokutu v blokovom konaní, ak pri vykonávaní dohľadu nad bezpečnosťou a plynulosťou cestnej premávky zistí, že vozidlom bola v minulosti porušená povinnosť podľa § 8a ods. 2 a nebolo v tom čase možné zistiť údaje o vozidle a jeho prevádzkovateľovi a prevádzkovateľ vozidla alebo vodič je ochotný pokutu zaplatiť.
+
+(2) V blokovom konaní podľa odseku 1 sa ukladá pokuta vo výške dvoch tretín pokuty podľa § 22d ods. 2 až 9 a § 22e ods. 2 a 3.
+
+(3) Proti blokovému konaniu podľa odseku 1 sa nemožno odvolať, nemožno ho obnoviť ani preskúmať mimo odvolacieho konania.
+
+(4) Bloky na ukladanie pokút vydáva Ministerstvo vnútra Slovenskej republiky. Do bloku na ukladanie pokút sa zapisujú údaje o
+
+- a) vozidle a jeho prevádzkovateľovi,
+
+- b) osobe preberajúcej blok na pokutu,
+
+- c) skutku,
+
+- d) výške uloženej pokuty.
+
+(5) Ak nemôže prevádzkovateľ vozidla alebo vodič zaplatiť pokutu na mieste, vydá sa mu blok na pokutu na mieste nezaplatenú s údajmi podľa odseku 4 a s poučením o spôsobe zaplatenia pokuty, lehote jej zaplatenia a následkoch nezaplatenia pokuty. Prevzatie tohto bloku prevádzkovateľ vozidla alebo vodič potvrdí svojím podpisom.
+
+(6) Ak správny delikt prevádzkovateľa vozidla nemožno prejednať v blokovom konaní, príslušník Policajného zboru je oprávnený uložiť prevádzkovateľovi vozidla alebo vodičovi povinnosť zložiť peňažnú záruku vo výške pokuty podľa § 22d ods. 2 až 9 a § 22e ods. 2 a 3; to neplatí, ak po porušení povinnosti prevádzkovateľa vozidla podľa § 8a ods. 2 došlo preukázateľne k zmene prevádzkovateľa vozidla. Príslušník Policajného zboru prevádzkovateľovi vozidla alebo vodičovi o zložení peňažnej záruky vydá potvrdenie, ktoré obsahuje dôvod uloženia povinnosti zložiť peňažnú záruku, jej výšku a údaje o účte vedenom v banke alebo pobočke zahraničnej banky, na ktorý sa peňažná záruka vráti.
+
+(7) Peňažná záruka prepadne v prospech štátu, ak
+
+- a) vodič nepredloží príslušníkovi Policajného zboru hodnoverný doklad s údajmi o prevádzkovateľovi vozidla a vozidle,
+
+- b) nebolo možné začať konanie o správnom delikte prevádzkovateľa vozidla z iného dôvodu, ako je uvedené v § 22f ods. 1,
+
+- c) pokuta v súvislosti s porušením povinnosti podľa § 8a ods. 2 nebola uložená z iného dôvodu, ako je uvedené v § 22f ods. 1, alebo
+
+- d) pokuta uložená v súvislosti s porušením povinnosti podľa § 8a ods. 2 nebola uhradená do troch mesiacov od nadobudnutia právoplatnosti rozhodnutia, ktorým bola uložená.
+
+(8) Príslušník Policajného zboru, ktorému vodič predloží doklad podľa odseku 7 písm. a), tieto údaje bezodkladne zašle orgánu príslušnému na konanie o správnom delikte prevádzkovateľa vozidla.
+
+(9) Prepadnutím peňažnej záruky podľa odseku 7 písm. d) sa pokuta uložená prevádzkovateľovi vozidla považuje za uhradenú.
+
+(10) Peňažná záruka, ktorá neprepadne v prospech štátu, sa bezodkladne vráti.
+
+(11) Prijaté peňažné záruky sa sústreďujú na samostatnom účte,<sup>10b</sup>) z ktorého sa aj realizuje ich vrátenie alebo prepadnutie.
