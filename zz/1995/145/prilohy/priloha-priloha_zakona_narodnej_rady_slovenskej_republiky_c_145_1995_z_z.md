@@ -2322,7 +2322,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Oslobodenie Poplatok za pridelenie evidenčného čísla a vydanie tabuľky s evidenčným číslom sa nevyberie, ak držiteľ vozidla požiadal o opätovné použitie ponechanej tabuľky s evidenčným číslom podľa osobitného predpisu<sup>22</sup>) na iné vozidlo. |
 
-  - Poznámky 1. Za neupotrebiteľnú tabuľku s evidenčným číslom (štátnou poznávacou značkou) sa považuje tabuľka vydaná podľa právnej úpravy platnej do 31. marca 1997, ktorú je držiteľ vozidla povinný podľa § 129 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách vymeniť. 2. Poplatky podľa tejto položky zahŕňajú aj vydanie príslušných dokladov. 3. Poplatníkom za pridelenie zvláštneho evidenčného čísla a vydanie tabuľky so zvláštnym evidenčným číslom podľa písmena h) je výrobca, zástupca výrobcu dosiaľ neevidovaného vozidla alebo právnická osoba, ktorá na základe zmluvného vzťahu s výrobcom alebo zástupcom výrobcu predáva vozidlá, ktoré ešte neboli evidované v Slovenskej republike ani v inom štáte. |
+  - Poznámky 1. Za neupotrebiteľnú tabuľku s evidenčným číslom (štátnou poznávacou značkou) sa považuje tabuľka vydaná podľa právnej úpravy platnej do 31. marca 1997, ktorú je držiteľ vozidla povinný podľa § 129 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách vymeniť. 2. Poplatky podľa tejto položky zahŕňajú aj vydanie príslušných dokladov. |
 
     - Položka 77
 
