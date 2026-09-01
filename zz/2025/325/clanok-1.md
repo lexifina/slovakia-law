@@ -616,6 +616,176 @@ Zákon č. 138/2019 Z. z. o pedagogických zamestnancoch a odborných zamestnanc
 
   - Doterajší odsek 6 sa označuje ako odsek 5.
 
+- 59. Za § 42 sa vkladá § 42a, ktorý vrátane nadpisu znie:
+
+- „§ 42a
+
+- Katalóg programov vzdelávania pedagogických zamestnancov a odborných zamestnancov
+
+- (1)
+
+- Ministerstvo školstva vedie a zverejňuje na ním určenom webovom sídle katalóg programov vzdelávania pedagogických zamestnancov a odborných zamestnancov (ďalej len „katalóg“).
+
+- (2)
+
+- Katalóg obsahuje
+
+- a)
+
+- formulár žiadosti o
+
+- 1.
+
+- schválenie programu vzdelávania alebo schválenie modulu programu vzdelávania,
+
+- 2.
+
+- vydanie oprávnenia na poskytovanie inovačného vzdelávania,
+
+- 3.
+
+- vydanie oprávnenia na organizovanie atestácií,
+
+- b)
+
+- register poskytovateľov vzdelávania a zoznam programov vzdelávania alebo modulov programov vzdelávania príslušného poskytovateľa vzdelávania,
+
+- c)
+
+- register programov vzdelávania a modulov programov vzdelávania,
+
+- d)
+
+- register atestačných organizácií.
+
+- (3)
+
+- Register poskytovateľov vzdelávania a zoznam programov vzdelávania alebo modulov programov vzdelávania príslušného poskytovateľa vzdelávania obsahuje
+
+- a)
+
+- názov, sídlo a identifikačné číslo organizácie poskytovateľa vzdelávania,
+
+- b)
+
+- druh poskytovaného vzdelávania,
+
+- c)
+
+- vymedzenie obsahovej oblasti, ak ide o inovačné vzdelávanie,
+
+- d)
+
+- číslo príslušného oprávnenia,
+
+- e)
+
+- obdobie platnosti príslušného oprávnenia.
+
+- (4)
+
+- V registri programov vzdelávania a modulov programov vzdelávania sa o programoch vzdelávania a moduloch programov vzdelávania uvádza
+
+- a)
+
+- názov a rozsah programu vzdelávania alebo modulu programu vzdelávania,
+
+- b)
+
+- názov a sídlo poskytovateľa vzdelávania,
+
+- c)
+
+- názov a rozsah oprávnenia na poskytovanie inovačného vzdelávania,
+
+- d)
+
+- číslo potvrdenia o schválení programu vzdelávania, číslo potvrdenia o schválení modulov programu vzdelávania alebo číslo oprávnenia na poskytovanie inovačného vzdelávania,
+
+- e)
+
+- obdobie platnosti potvrdenia o schválení programu vzdelávania, potvrdenia o schválení modulov programu vzdelávania alebo oprávnenia na poskytovanie inovačného vzdelávania,
+
+- f)
+
+- cieľová skupina, pre ktorú je určený program vzdelávania alebo modul programu vzdelávania,
+
+- g)
+
+- profil absolventa,
+
+- h)
+
+- forma vzdelávania,
+
+- i)
+
+- kvalifikačný predpoklad, ktorý sa získava absolvovaním vzdelávania, ak ide o kvalifikačné vzdelávanie,
+
+- j)
+
+- špecializovaná činnosť, na výkon ktorej sa získava spôsobilosť, ak ide o špecializačné vzdelávanie,
+
+- k)
+
+- vymedzenie obsahovej oblasti, ak ide o inovačné vzdelávanie,
+
+- l)
+
+- meno, priezvisko a titul odborného garanta.
+
+- (5)
+
+- Register atestačných organizácií obsahuje
+
+- a)
+
+- názov, sídlo a identifikačné číslo atestačnej organizácie,
+
+- b)
+
+- kategórie a podkategórie, pre ktoré atestačná organizácia organizuje atestácie,
+
+- c)
+
+- číslo oprávnenia na organizovanie atestácií,
+
+- d)
+
+- obdobie platnosti oprávnenia na organizovanie atestácií,
+
+- e)
+
+- termín a miesto konania obhajoby atestačného portfólia a atestačnej skúšky.
+
+- (6)
+
+- Ministerstvo školstva umožňuje prístup do katalógu
+
+- a)
+
+- členom Komisie pre profesijný rozvoj pedagogických zamestnancov a odborných zamestnancov (ďalej len „komisia“) v rozsahu potrebnom pre výkon činnosti člena komisie,
+
+- b)
+
+- poskytovateľom vzdelávania v rozsahu potrebnom na plnenie povinností poskytovateľa vzdelávania podľa § 69 ods. 1,
+
+- c)
+
+- atestačným organizáciám v rozsahu potrebnom na plnenie povinností atestačnej organizácie podľa § 69 ods. 4,
+
+- d)
+
+- pedagogickým zamestnancom a odborným zamestnancom.
+
+- (7)
+
+- Pedagogický zamestnanec a odborný zamestnanec sa v katalógu prihlasuje na vzdelávanie a môže hodnotiť absolvovaný program vzdelávania.
+
+- (8)
+
+- Hodnotenie absolvovaného programu vzdelávania je verejné.“.
+
 - 60. V § 43 ods. 2 písm. b) sa na konci pripája slovo „alebo“.
 
 - 61. V § 43 ods. 2 písm. c) sa slovo „alebo“ nahrádza bodkou.
@@ -742,11 +912,21 @@ Zákon č. 138/2019 Z. z. o pedagogických zamestnancoch a odborných zamestnanc
 
 - 92. V § 64 ods. 2 písm. a) štvrtom bode sa vypúšťa bodkočiarka a časť vety za bodkočiarkou.
 
+- 93. V § 65 ods. 1 sa vypúšťa písmeno e).
+
+- 94. V § 65 ods. 3 sa slová „Komisiu pre profesijný rozvoj pedagogických zamestnancov a odborných zamestnancov (ďalej len „komisia“)“ nahrádzajú slovom „komisiu“.
+
+- 95. V § 66 ods. 1 prvej vete, § 67 ods. 1 prvej vete a § 68 ods. 1 prvej vete sa na konci pripájajú tieto slová: „prostredníctvom formulára v katalógu“.
+
+- 96. V § 66 ods. 1 sa vypúšťa písmeno f).
+
 - 97. V § 66 ods. 4 druhej vete, § 67 ods. 4 druhej vete a § 68 ods. 3 druhej vete sa za slovo „žiadateľa“ vkladajú slová „prostredníctvom elektronickej schránky“.
 
 - 98. V § 66 ods. 4 tretej vete, § 67 ods. 4 tretej vete a § 68 ods. 3 tretej vete sa slovo „písomne“ nahrádza slovami „prostredníctvom elektronickej schránky“.
 
 - 99. V § 66 ods. 5 prvej vete a § 67 ods. 5 prvej vete sa za slová „žiadateľovi“ vkladajú slová „prostredníctvom elektronickej schránky“ a slovo „písomne“ sa v celom texte nahrádza slovami „prostredníctvom elektronickej schránky“.
+
+- 100. V § 66 ods. 5 druhá veta a tretia veta a § 67 ods. 5 druhá veta a tretia veta znejú: „Ak sa ministerstvo školstva odchýli od odborného stanoviska komisie, zverejní odôvodnenie v katalógu. Odborné stanovisko komisie zverejňuje ministerstvo školstva v katalógu.“.
 
 - 101. V § 66 sa odsek 8 dopĺňa písmenom f), ktoré znie:
 
@@ -755,6 +935,8 @@ Zákon č. 138/2019 Z. z. o pedagogických zamestnancoch a odborných zamestnanc
 - poskytovateľ, ktorému bolo potvrdenie vydané, poruší povinnosť podľa § 69 ods. 1 písm. i).“.
 
 - 102. V § 67 ods. 1 písm. c) sa slová „obsahového zamerania“ nahrádzajú slovami „obsahovej oblasti“.
+
+- 103. V § 67 ods. 1 sa vypúšťa písmeno h).
 
 - 104. V § 67 ods. 7 písmeno c) znie:
 
@@ -768,7 +950,161 @@ Zákon č. 138/2019 Z. z. o pedagogických zamestnancoch a odborných zamestnanc
 
 - poskytovateľ, ktorému bolo potvrdenie vydané, poruší povinnosť podľa § 69 ods. 1 písm. i).“.
 
+- 106. V § 68 ods. 1 sa vypúšťa písmeno e).
+
 - 107. V § 68 ods. 4 sa za slová „vydá žiadateľovi“ vkladajú slová „prostredníctvom elektronickej schránky“ a slovo „písomne“ sa nahrádza slovami „prostredníctvom elektronickej schránky“.
+
+- 108. V § 68 ods. 4 sa na konci pripájajú tieto vety: „Ak sa ministerstvo školstva odchýli od odborného stanoviska komisie, zverejní odôvodnenie v katalógu. Odborné stanovisko komisie zverejňuje ministerstvo školstva na svojom webovom sídle.“.
+
+- 109. § 69 vrátane nadpisu znie:
+
+- „§ 69
+
+- Povinnosti poskytovateľa vzdelávania a atestačnej organizácie
+
+- (1)
+
+- Poskytovateľ vzdelávania je povinný
+
+- a)
+
+- aktualizovať v katalógu informácie o ponuke vzdelávania v rozsahu podľa § 42a ods. 4,
+
+- b)
+
+- uskutočňovať program vzdelávania za podmienok, za akých bol schválený alebo v súlade s oprávnením na poskytovanie inovačného vzdelávania,
+
+- c)
+
+- viesť dokumentáciu vzdelávania,
+
+- d)
+
+- predkladať ministerstvu školstva na schválenie zmenu odborného garanta; to neplatí, ak ide o adaptačné vzdelávanie a aktualizačné vzdelávanie,
+
+- e)
+
+- zabezpečovať kvalitu
+
+- 1.
+
+- programu vzdelávania,
+
+- 2.
+
+- priebehu vzdelávania,
+
+- 3.
+
+- ukončovania vzdelávania,
+
+- f)
+
+- oznamovať ministerstvu školstva zmenu názvu a sídla, zrušenie alebo zánik poskytovateľa vzdelávania do 30 dní odo dňa rozhodujúcej skutočnosti,
+
+- g)
+
+- poskytovať súčinnosť pri výkone kontroly v profesijnom rozvoji,
+
+- h)
+
+- oznamovať na vyžiadanie ministerstvu školstva na účely kontroly v profesijnom rozvoji začiatok a miesto poskytovania programu vzdelávania v lehote najneskôr desať dní pred termínom jeho uskutočnenia; zmeny v termínoch poskytovateľ oznamuje ministerstvu školstva bezodkladne,
+
+- i)
+
+- požiadať do 30 dní od schválenia programu vzdelávania alebo modulu programu vzdelávania alebo od vydania oprávnenia na poskytovanie inovačného vzdelávania ministerstvo školstva o certifikáciu vzdelávacej inštitúcie podľa osobitného predpisu.<sup>33a</sup>)
+
+- (2)
+
+- Okrem povinností podľa odseku 1 je poskytovateľ kvalifikačného vzdelávania podľa § 44 ods. 1 a 2 a § 45 ods. 1 a poskytovateľ špecializačného vzdelávania podľa § 49 ods. 4 do 15 dní od schválenia programu vzdelávania alebo modulu programu vzdelávania rektorom vysokej školy povinný požiadať ministerstvo školstva o prístup do katalógu. Okrem povinností podľa odseku 1 je poskytovateľ inovačného vzdelávania podľa § 55 ods. 2 písm. a) do 15 dní od vydania oprávnenia na poskytovanie inovačného vzdelávania povinný požiadať ministerstvo školstva o prístup do katalógu. Poskytovateľ vzdelávania podľa prvej vety alebo druhej vety do 15 dní od udelenia prístupových práv do katalógu aktualizuje informácie o ponuke vzdelávania podľa odseku 1 písm. a).
+
+- (3)
+
+- Dokumentácia vzdelávania obsahuje
+
+- a)
+
+- program vzdelávania,
+
+- b)
+
+- potvrdenie o schválení programu vzdelávania alebo modulu programu vzdelávania alebo potvrdenie o oprávnení na poskytovanie inovačného vzdelávania,
+
+- c)
+
+- doklady o lektorskom zabezpečení vzdelávania,
+
+- d)
+
+- doklady o účasti pedagogických zamestnancov a odborných zamestnancov na vzdelávaní,
+
+- e)
+
+- doklady o ukončení vzdelávania.
+
+- (4)
+
+- Atestačná organizácia je povinná
+
+- a)
+
+- organizovať atestácie za podmienok, za akých bolo vydané oprávnenie na organizovanie atestácií,
+
+- b)
+
+- aktualizovať v katalógu kategórie a podkategórie, pre ktoré organizuje atestácie,
+
+- c)
+
+- viesť dokumentáciu atestácie,
+
+- d)
+
+- oznamovať ministerstvu školstva prostredníctvom katalógu skutočnosti rozhodujúce pre platnosť potvrdenia o oprávnení na organizovanie atestácií alebo pre jeho rozsah do 30 dní od rozhodujúcej skutočnosti,
+
+- e)
+
+- zabezpečovať kvalitu a úroveň posudzovania a obhajoby atestačného portfólia, úroveň a personálne zabezpečenie atestačnej skúšky,
+
+- f)
+
+- poskytovať súčinnosť pri výkone kontroly v profesijnom rozvoji,
+
+- g)
+
+- aktualizovať v katalógu termín a miesto konania obhajoby atestačného portfólia a atestačnej skúšky v lehote najneskôr 30 dní pred ich konaním; zmeny v termínoch aktualizuje v katalógu bezodkladne.
+
+- (5)
+
+- Dokumentácia atestácie obsahuje
+
+- a)
+
+- potvrdenie o oprávnení na organizovanie atestácie,
+
+- b)
+
+- žiadosť o vykonanie atestácie a jej prílohy,
+
+- c)
+
+- evidenciu o konzultáciách so žiadateľom o vykonanie atestácie,
+
+- d)
+
+- posudok atestačného portfólia,
+
+- e)
+
+- doklady o personálnom zabezpečení atestácie,
+
+- f)
+
+- doklady o ukončení atestácie.“.
+
+  - Poznámka pod čiarou k odkazu 33a znie:
+
+  - „<sup>33a</sup>) § 10 zákona č. 292/2024 Z. z. v znení zákona č. 325/2025 Z. z.“.
 
 - 110. V § 70 ods. 10 celom texte sa za slovo „požiada“ vkladá slovo „bezodkladne“.
 
@@ -855,6 +1191,26 @@ Zákon č. 138/2019 Z. z. o pedagogických zamestnancoch a odborných zamestnanc
 - Kontrola, z ktorej sa vypracúva záznam o kontrole, je skončená jeho doručením kontrolovanému subjektu.“.
 
   - Doterajší odsek 7 sa označuje ako odsek 10.
+
+- 116. V § 73 ods. 1 písm. e) a ods. 2 písm. d) sa slová „nezverejňuje na svojom webovom sídle“ nahrádzajú slovami „neaktualizuje v katalógu“.
+
+- 117. V § 73 ods. 1 sa vypúšťa písmeno g).
+
+  - Doterajšie písmená h) až m) sa označujú ako písmená g) až l).
+
+- 118. V § 73 ods. 1 písm. h) sa slová „písm. f)“ nahrádzajú slovami „písm. e)“.
+
+- 119. V § 73 ods. 1 písm. i) sa slová „písm. g)“ nahrádzajú slovami „písm. f)“.
+
+- 120. V § 73 ods. 1 písm. j) sa slová „písm. i)“ nahrádzajú slovami „písm. h)“.
+
+- 121. V § 73 ods. 2 písm. f) až h) sa slová „ods. 3“ nahrádzajú slovami „ods. 4“.
+
+- 122. V § 73 ods. 3 prvej vete sa slová „h), j) alebo písm. k)“ nahrádzajú slovami „i) alebo písm. j)“ a druhej vete sa slová „i), l) alebo písm. m)“ nahrádzajú slovami „h), k) alebo písm. l)“.
+
+- 123. V § 74 ods. 4 sa slová „i) alebo písm. m)“ nahrádzajú slovami „h) alebo písm. l)“.
+
+- 124. V § 75 sa slová „l) alebo písm. m)“ nahrádzajú slovami „k) alebo písm. l)“.
 
 - 125. V § 76 ods. 3 písm. p) sa na konci čiarka nahrádza bodkočiarkou a pripájajú sa tieto slová: „ak ide o riaditeľa, zapisujú sa aj údaje o období výkonu funkcie a dôvod skončenia výkonu funkcie,“.
 
