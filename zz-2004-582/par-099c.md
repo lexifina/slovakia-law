@@ -1,0 +1,5 @@
+# § 99c Opravné priznanie a dodatočné priznanie
+
+(1) Pred uplynutím lehoty na podanie priznania k dani z nehnuteľností, k dani za psa, k dani za predajné automaty a k dani za nevýherné hracie prístroje alebo niektorej z nich alebo čiastkového priznania k týmto daniam alebo niektorej z nich môže daňovník podať opravné priznanie. Na vyrubenie dane je rozhodujúce posledné podané opravné priznanie, pričom na podané priznanie alebo čiastkové priznanie alebo predchádzajúce opravné priznanie sa neprihliada.
+
+(2) Daňovník je povinný podať dodatočné priznanie, ak zistí, že v priznaní k dani z nehnuteľností, k dani za psa, k dani za predajné automaty a k dani za nevýherné hracie prístroje alebo niektorej z nich alebo v čiastkovom priznaní k týmto daniam alebo niektorej z nich neuviedol správne údaje na vyrubenie dane najneskôr do štyroch rokov od konca roka, v ktorom vznikla povinnosť podať priznanie k dani z nehnuteľností, k dani za psa, k dani za predajné automaty a k dani za nevýherné hracie prístroje alebo niektorej z nich alebo čiastkové priznanie k týmto daniam alebo niektorej z nich. Dodatočným priznaním nemožno meniť účel využitia stavby.

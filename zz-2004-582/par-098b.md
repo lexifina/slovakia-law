@@ -1,0 +1,15 @@
+# § 98b Elektronické služby
+
+(1) Obec môže poskytovať elektronické služby. Na poskytovanie elektronických služieb sa vzťahuje osobitný predpis o elektronickej podobe výkonu verejnej moci.<sup>38</sup>)
+
+(2) Daňový subjekt pri elektronickej komunikácii s obcou má po zadaní prístupových údajov na webovom sídle obce alebo v informačnom systéme dátového centra obcí<sup>39</sup>) sprístupnenú osobnú internetovú zónu, ktorej obsahom je najmä spis daňového subjektu v elektronickej forme.
+
+(3) Obec môže so súhlasom daňového subjektu, ktorý nemá aktivovanú elektronickú schránku,<sup>40</sup>) zaslať spôsobom podľa odseku 5 oznámenie o výške dane, ktorá môže byť určená aj v splátkach, a o lehote na úhradu. Pri nezaplatení dane alebo splátky dane v lehote určenej v oznámení podľa prvej vety, obec vyrubí daň rozhodnutím a doručí toto rozhodnutie podľa osobitného predpisu,<sup>47</sup>) pričom nezaplatenie dane z oznámenia nie je správnym deliktom podľa osobitného predpisu.<sup>47</sup>) Daň uhradená v lehote uvedenej v oznámení sa považuje za právoplatne vyrubenú dňom jej zaplatenia; ustanovenia § 34a ods. 2, § 41d ods. 3, § 64a ods. 2, § 73 ods. 1 a § 99e sa neuplatnia. Proti tomuto oznámeniu nemožno podať opravné prostriedky.
+
+(4) Obec môže so súhlasom daňového subjektu, ktorý nemá aktivovanú elektronickú schránku,<sup>40</sup>) zaslať spôsobom podľa odseku 5 oznámenie o výške poplatku, ktorý môže byť určený aj v splátkach, alebo o výške preddavku na poplatok na príslušné zdaňovacie obdobie, ktorý môže byť určený aj v sumách, a o lehote na úhradu. Pri nezaplatení poplatku, splátky poplatku, preddavku na poplatok alebo sumy preddavku na poplatok v lehote určenej v oznámení podľa prvej vety, obec vyrubí poplatok alebo preddavok na poplatok rozhodnutím podľa § 81 a doručí toto rozhodnutie podľa osobitného predpisu,<sup>47</sup>) pričom nezaplatenie poplatku alebo preddavku na poplatok z oznámenia nie je správnym deliktom podľa osobitného predpisu.<sup>47</sup>) Poplatok alebo preddavok na poplatok uhradený v lehote uvedenej v oznámení sa považuje za právoplatne vyrubený dňom jeho zaplatenia; ustanovenie § 81 sa neuplatní. Proti tomuto oznámeniu nemožno podať opravné prostriedky.
+
+(5) Oznámenie podľa odseku 3 alebo odseku 4 obec zasiela na emailovú adresu určenú daňovým subjektom v súhlase so zaslaním oznámenia podľa odseku 3 alebo odseku 4 alebo prostredníctvom osobnej internetovej zóny daňového subjektu.
+
+(6) Obec poskytuje službu predvyplneného priznania k dani z nehnuteľnosti daňovému subjektu, ktorý využije elektronickú službu katastra nehnuteľností podľa osobitného predpisu.<sup>41</sup>) Predvyplnené priznanie k dani z nehnuteľnosti obec doručuje podľa osobitného predpisu.<sup>47</sup>)
+
+(7) Podrobnosti o elektronickej komunikácii a o poskytovaní elektronických služieb ustanoví obec všeobecne záväzným nariadením,<sup>11</sup>) najmä určí, či bude zasielať oznámenia podľa odseku 3 alebo odseku 4, podrobnosti o zasielaní oznámení podľa odseku 3 alebo odseku 4 a podrobnosti o ochrane zasielaných oznámení podľa odseku 3 alebo odseku 4.
