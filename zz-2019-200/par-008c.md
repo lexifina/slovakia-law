@@ -1,0 +1,3 @@
+# § 8c Prechodné ustanovenie k úpravám účinným dňom vyhlásenia
+
+Prevádzka školy, pre ktorú bola schválenému žiadateľovi pridelená maximálna výška pomoci na zabezpečovanie činností podľa § 1 písm. a) alebo písm. b) v príslušnom školskom roku, ktorý sa začal v kalendárnom roku 2020, sa v konaní o poskytnutí pomoci na zabezpečovanie týchto činností v druhom realizačnom období alebo v treťom realizačnom období tohto školského roka na účely § 6 ods. 12 až 14 považuje za obmedzenú v rozsahu, ktorý schválenému žiadateľovi tieto činnosti pre tieto školy neumožňoval zabezpečovať aspoň počas časti všetkých realizačných období tohto školského roka.
