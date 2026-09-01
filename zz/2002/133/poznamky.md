@@ -34,6 +34,8 @@
 
 - 13a) § 25 ods. 1 a 2 zákona č. 243/2017 Z. z.
 
+- 13aa) Zákon č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
+
 - 15) Zákon č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 16) Napríklad zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky v znení neskorších predpisov,
