@@ -272,6 +272,8 @@ Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene
 
 - 49. V § 12 ods. 6 prvej vete sa na konci pripájajú tieto slová: „alebo v jazyku národnostnej menšiny a súčasne v cudzom jazyku“.
 
+- 50. V § 12 ods. 6 písm. b) sa slová „troch povinných vyučovacích predmetoch“ nahrádzajú slovami „jednej tretine vyučovacích predmetov teoretického vyučovania, alebo ak ide o gymnázium, najmenej v jednej tretine vyučovacích predmetov“.
+
 - 51. V § 12 ods. 7 sa slová „jazyk národnostnej menšiny alebo jazyk etnickej skupiny“ nahrádzajú slovami „štátny jazyk a jazyk národnostnej menšiny“.
 
 - 52. V § 12 odsek 8 znie:
@@ -2158,6 +2160,28 @@ Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene
 
 - Žiak štvrtého ročníka päťročného vzdelávacieho programu alebo žiak piateho ročníka päťročného vzdelávacieho programu bilingválneho vzdelávania v bilingválnom programe podľa medzinárodnej dohody môže do 31. marca školského roka, v ktorom má vykonať maturitnú skúšku z druhého vyučovacieho jazyka, písomne požiadať riaditeľa strednej školy o uznanie skúšky na jazykovej úrovni C1 referenčného rámca, ak možnosť uznania skúšky na tejto úrovni a druh certifikátu sú uvedené v medzinárodnej dohode na účel uznania ústnej formy internej časti maturitnej skúšky z druhého vyučovacieho jazyka. Žiak priloží k žiadosti doklad vyhotovený v štátnom jazyku alebo jeho overený preklad do štátneho jazyka alebo potvrdenie príslušnej inštitúcie o úspešnom vykonaní skúšky vyhotovené v štátnom jazyku alebo jeho overený preklad do štátneho jazyka; doklad nesmie byť starší ako dva roky pred termínom príslušnej časti maturitnej skúšky.“.
 
+- 205. Za § 75 sa vkladá § 75a, ktorý vrátane nadpisu znie:
+
+- „§ 75a
+
+- Náhrada maturitnej skúšky zo slovenského jazyka a literatúry pre cudzincov
+
+- (1)
+
+- Cudzinec môže namiesto absolvovania maturitnej skúšky zo slovenského jazyka a literatúry vykonať
+
+- a)
+
+- jazykovú skúšku zo štátneho jazyka na úrovni B2 podľa referenčného rámca, ak ide o cudzinca, ktorý sa v Slovenskej republike vzdelával v základnej škole najmenej v šiestom ročníku až deviatom ročníku, alebo
+
+- b)
+
+- jazykovú skúšku zo štátneho jazyka na úrovni B1, ak ide o cudzinca, ktorý sa v Slovenskej republike nevzdelával v základnej škole.
+
+- (2)
+
+- Jazykovú skúšku podľa odseku 1 písm. a) možno vykonať v jazykovej škole. Jazykovú skúšku podľa odseku 1 písm. b) možno vykonať v strednej škole, ktorú žiak navštevuje, alebo na vysokej škole, ktorá poskytuje akreditovaný študijný program zameraný na štátny jazyk.“.
+
 - 206. V § 76 ods. 6 sa slová „sa žiak päť po sebe nasledujúcich vyučovacích dní“ nahrádzajú slovami „a praktickej časti odbornej zložky maturitnej skúšky sa žiak tri po sebe nasledujúce vyučovacie dni“.
 
 - 207. V § 77 ods. 3 sa vypúšťa odkaz 49.
@@ -3211,6 +3235,206 @@ Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene
 - 271. V § 144 ods. 17 sa na konci pripája táto veta: „Do počtu vyučovacích hodín a počtu vyučovacích dní, počas ktorého sa deti alebo žiaci príslušnej školy nezúčastnili výchovy a vzdelávania, sa na účel porovnania s referenčnou hodnotou nezapočítava čas reprezentácie školy na predmetovej olympiáde alebo na súťaži škôl a školských zariadení alebo čas účasti v športovej reprezentácii Slovenskej republiky a účasti na činnosti školského parlamentu, mládežníckeho parlamentu alebo organizácie reprezentujúcej žiakov stredných škôl.“.
 
 - 272. V § 144a ods. 1 sa na konci pripája bodkočiarka a tieto slová: „za podpis sa na účel podávania prihlášky na vzdelávanie v materskej škole, základnej škole alebo v strednej škole považuje aj vyjadrenie súhlasu v elektronickej podobe vyznačením v podregistri prijímania na vzdelávanie“.
+
+- 273. § 145a a 145b vrátane nadpisu nad § 145a znejú:
+
+- „Podporné opatrenia
+
+- § 145a
+
+- (1)
+
+- Podporným opatrením je opatrenie poskytované školou alebo školským zariadením potrebné na to, aby sa dieťa alebo žiak mohli plnohodnotne zapájať do výchovy a vzdelávania a rozvíjať svoje vedomosti, zručnosti a schopnosti.
+
+- (2)
+
+- Podporné opatrenia sa členia na
+
+- a)
+
+- všeobecné podporné opatrenia,
+
+- b)
+
+- cielené podporné opatrenia,
+
+- c)
+
+- špecifické podporné opatrenia.
+
+- (3)
+
+- Dieťa alebo žiak má právo na
+
+- a)
+
+- poskytovanie všeobecného podporného opatrenia,
+
+- b)
+
+- poskytnutie cieleného podporného opatrenia, ak je súčasťou cieľovej skupiny cieleného podporného opatrenia podľa katalógu podporných opatrení,
+
+- c)
+
+- poskytnutie špecifického podporného opatrenia na základe vyjadrenia podľa § 145b ods. 2 písm. b).
+
+- (4)
+
+- Všeobecným podporným opatrením je najmä poskytovanie výchovy a vzdelávania na základe úpravy metód a foriem výchovy a vzdelávania; poskytovanie zabezpečuje základná škola, základná škola pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami, stredná škola, stredná škola pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami, školské výchovno-vzdelávacie zariadenie alebo výchovné zariadenia.
+
+- (5)
+
+- Cielenými podpornými opatreniami sú najmä
+
+- a)
+
+- zabezpečenie činností na rozvoj pohybovej schopnosti, zmyslového vnímania, komunikačnej schopnosti, kognitívnej schopnosti, sociálno-komunikačných zručností, emocionality a sebaobsluhy; poskytovanie zabezpečuje materská škola, materská škola pre deti so špeciálnymi výchovno-vzdelávacími potrebami, základná škola, základná škola pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami, stredná škola, stredná škola pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami alebo výchovné zariadenie,
+
+- b)
+
+- zabezpečenie úpravy priestorov školy určených na podporu vnímania a nadobúdanie zručností; poskytovanie zabezpečuje škola alebo výchovné zariadenie,
+
+- c)
+
+- zabezpečenie poskytovania kurzu vyučovacieho jazyka školy alebo inej podpory pri osvojovaní si vyučovacieho jazyka školy, ak ide o základnú školu, základnú školu pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami, strednú školu, strednú školu pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami okrem bilingválneho vzdelávania alebo o výchovné zariadenie, alebo zabezpečenie inej podpory pri osvojovaní si vyučovacieho jazyka školy, ak ide o materskú školu alebo o materskú školu pre deti so špeciálnymi výchovno-vzdelávacími potrebami; poskytovanie zabezpečuje materská škola, materská škola pre deti so špeciálnymi výchovno-vzdelávacími potrebami, základná škola, základná škola pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami, stredná škola, stredná škola pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami okrem bilingválneho vzdelávania alebo výchovné zariadenie,
+
+- d)
+
+- zabezpečenie doučovania žiaka; poskytovanie zabezpečuje základná škola, základná škola pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami, stredná škola, stredná škola pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami alebo výchovné zariadenie,
+
+- e)
+
+- činnosť na podporu sociálneho zaradenia; poskytovanie zabezpečuje škola alebo školské zariadenie,
+
+- f)
+
+- činnosť na podporu predchádzania ukončenia školskej dochádzky v nižšom ako poslednom ročníku základnej školy alebo strednej školy; poskytovanie zabezpečuje základná škola, základná škola pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami, stredná škola pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami, zariadenie poradenstva a prevencie alebo výchovné zariadenie,
+
+- g)
+
+- špecializované kariérové poradenstvo; poskytovanie zabezpečuje základná škola, základná škola pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami, stredná škola, stredná škola pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami alebo zariadenie poradenstva a prevencie.
+
+- (6)
+
+- Špecifickými podpornými opatreniami sú najmä
+
+- a)
+
+- poskytovanie výchovy a vzdelávania na základe úpravy obsahu výchovy a vzdelávania a hodnotenia výsledkov dosiahnutých vo výchove a vzdelávaní; poskytovanie zabezpečuje základná škola, základná škola pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami, stredná škola, stredná škola pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami, školské výchovno-vzdelávacie zariadenie alebo výchovné zariadenia,
+
+- b)
+
+- poskytovanie špecifických kompenzačných pomôcok; poskytovanie zabezpečuje materská škola, materská škola pre deti so špeciálnymi výchovno-vzdelávacími potrebami, základná škola, základná škola pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami, stredná škola, stredná škola pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami alebo výchovné zariadenie,
+
+- c)
+
+- zabezpečenie sebaobslužných úkonov podľa osobitného predpisu<sup>80c</sup>) v čase výchovno-vzdelávacieho procesu; poskytovanie zabezpečuje škola alebo školské zariadenie,
+
+- d)
+
+- poskytovanie zdravotnej starostlivosti; poskytovanie zabezpečuje škola alebo výchovné zariadenie,
+
+- e)
+
+- zabezpečenie činností pedagogického asistenta v triede; poskytovanie zabezpečuje škola alebo výchovné zariadenie,
+
+- f)
+
+- zabezpečenie vzdelávania sa vo vyučovacom predmete alebo vo vzdelávacej oblasti vo vyššom ročníku; poskytovanie zabezpečuje základná škola, základná škola pre žiakov s nadaním, stredná škola alebo stredná škola pre žiakov s nadaním alebo výchovné zariadenie.
+
+- § 145b
+
+- (1)
+
+- O vyjadrenie na účel poskytnutia cieleného podporného opatrenia alebo špecifického podporného opatrenia môže školu, výchovné zariadenie alebo zariadenie poradenstva a prevencie požiadať zákonný zástupca, zástupca zariadenia, plnoletý žiak, pedagogický zamestnanec alebo odborný zamestnanec.
+
+- (2)
+
+- Podporné opatrenie sa poskytuje na základe vyjadrenia
+
+- a)
+
+- pedagogického zamestnanca v kategórii učiteľ alebo školský špeciálny pedagóg alebo odborného zamestnanca školy najmä v rámci odbornej činnosti podľa § 131 ods. 2 písm. a) alebo ods. 3 písm. a), ak ide o cielené podporné opatrenie; vyjadrenie k cielenému podpornému opatreniu môže poskytnúť aj zariadenie poradenstva a prevencie v rámci odbornej činnosti podľa § 131 ods. 4 alebo ods. 5,
+
+- b)
+
+- zariadenia poradenstva a prevencie v rámci odbornej činnosti podľa § 131 ods. 4 alebo ods. 5, ak ide o špecifické podporné opatrenie.
+
+- (3)
+
+- O vyjadrenie na účel poskytnutia podporného opatrenia a o poskytnutie podporného opatrenia možno požiadať písomne. Škola alebo školské zariadenie môže umožniť požiadať o vyjadrenie na účel poskytnutia podporného opatrenia alebo o poskytnutie podporného opatrenia aj elektronicky bez kvalifikovaného elektronického podpisu použitím informačného systému.
+
+- (4)
+
+- Vyjadrenie na účel poskytnutia podporného opatrenia obsahuje návrh podporného opatrenia spolu s navrhovaným rozsahom jeho poskytnutia; poskytuje sa žiadateľovi. Ak o vyjadrenie na účel poskytnutia podporného opatrenia požiadal pedagogický zamestnanec alebo odborný zamestnanec, poskytuje sa aj zákonnému zástupcovi, zástupcovi zariadenia alebo plnoletému žiakovi. Ak o vyjadrenie na účel poskytnutia podporného opatrenia požiadal zákonný zástupca, zástupca zariadenia alebo plnoletý žiak, poskytuje sa aj škole alebo školskému zariadeniu, ktoré navštevuje.
+
+- (5)
+
+- Ak ide o podporné opatrenie, ktorým je poskytnutie zdravotnej starostlivosti, na vyjadrenie na účel poskytnutia podporného opatrenia sa vyžaduje aj písomné vyjadrenie pediatra.
+
+- (6)
+
+- Predloženie vyjadrenia na účel poskytnutia podporného opatrenia škole alebo školskému zariadeniu sa považuje za požiadanie o poskytnutie podporného opatrenia. Ak ide o cielené podporné opatrenie a dieťa alebo žiak je súčasťou cieľovej skupiny cieleného podporného opatrenia podľa katalógu podporných opatrení, škola alebo školské zariadenie zabezpečí jeho poskytovanie.
+
+- (7)
+
+- Ak škola alebo školské zariadenie má personálne, priestorové, materiálno-technické a finančné podmienky na poskytnutie špecifického podporného opatrenia, poskytne špecifické podporné opatrenie dieťaťu alebo žiakovi. Ak škola alebo školské zariadenie nemá personálne, priestorové, materiálno-technické a finančné podmienky na poskytnutie špecifického podporného opatrenia, riaditeľ školy alebo riaditeľ školského zariadenia o tom poskytne písomné vyjadrenie osobám podľa odseku 4 do 10 dní odo dňa, keď bol požiadaný o poskytnutie špecifického podporného opatrenia, v odôvodnenom prípade do 20 dní.
+
+- (8)
+
+- O poskytnutí cieleného podporného opatrenia alebo špecifického podporného opatrenia škola alebo školské zariadenie informuje zákonného zástupcu, plnoletého žiaka alebo zástupcu zariadenia.
+
+- (9)
+
+- Škola alebo školské zariadenie zabezpečí poskytnutie podporného opatrenia, ak má na jeho poskytnutie v navrhovanom rozsahu personálne, priestorové, materiálno-technické a finančné podmienky. Ak škola alebo školské zariadenie podľa písomného vyjadrenia riaditeľa školy alebo riaditeľa školského zariadenia nemá personálne, priestorové, materiálno-technické alebo finančné podmienky na poskytnutie podporného opatrenia v navrhovanom rozsahu a nemá možnosť ich zabezpečiť, ten, kto požiadal o poskytnutie podporného opatrenia, môže požiadať príslušný orgán miestnej štátnej správy v školstve o preskúmanie písomného vyjadrenia riaditeľa školy alebo riaditeľa školského zariadenia. Orgán miestnej štátnej správy v školstve preskúma písomné vyjadrenie riaditeľa školy alebo riaditeľa školského zariadenia do 30 dní odo dňa, keď bol požiadaný o preskúmanie, a na tento účel si môže vyžiadať vyjadrenie Štátnej školskej inšpekcie.
+
+- (10)
+
+- Ak príslušný orgán miestnej štátnej správy v školstve zistí, že písomné vyjadrenie riaditeľa školy alebo riaditeľa školského zariadenia
+
+- a)
+
+- je opodstatnené, vykoná všetky potrebné úkony na zabezpečenie poskytnutia podporného opatrenia v najlepšom záujme dieťaťa alebo žiaka prednostne v škole alebo v školskom zariadení, ktoré navštevuje,
+
+- b)
+
+- nie je opodstatnené, určí, že škola alebo školské zariadenie je povinné poskytnúť podporné opatrenie v navrhovanom rozsahu.
+
+- (11)
+
+- Ak príslušný orgán miestnej štátnej správy v školstve zistí, že nie je možnosť zabezpečiť poskytnutie podporného opatrenia podľa odseku 10 písm. a), bezodkladne požiada organizáciu zriadenú ministerstvom školstva na plnenie úloh v oblasti implementácie systému podporných opatrení, ktorá určí spôsob poskytnutia podporného opatrenia v najlepšom záujme dieťaťa alebo žiaka a poskytne škole alebo školskému zariadeniu, ktoré dieťa alebo žiak navštevuje, súčinnosť pri zabezpečení jeho poskytnutia.
+
+- (12)
+
+- Poskytnuté podporné opatrenie možno prehodnotiť z hľadiska napĺňania jeho účelu. Pri prehodnotení poskytnutého podporného opatrenia sa postupuje podľa odsekov 1 až 11.
+
+- (13)
+
+- V národnostnom školstve sa podporné opatrenia poskytujú v materinskom jazyku dieťaťa alebo žiaka alebo vo vyučovacom jazyku školy.
+
+- (14)
+
+- Ministerstvo školstva vedie a zverejňuje na ním určenom webovom sídle katalóg podporných opatrení. Katalóg podporných opatrení obsahuje najmä
+
+- a)
+
+- názov, účel a cieľovú skupinu podporného opatrenia,
+
+- b)
+
+- typ podporného opatrenia,
+
+- c)
+
+- školu alebo školské zariadenie, ktoré zabezpečuje poskytovanie podporného opatrenia,
+
+- d)
+
+- rozsah a personálnu náročnosť podporného opatrenia,
+
+- e)
+
+- meranie výstupov podporného opatrenia.“.
 
 - 274. Za § 145c sa vkladá § 145ca, ktorý vrátane nadpisu znie:
 
