@@ -1,3 +1,0 @@
-# § 47d
-
-Na súkromné vysoké školy sa vzťahujú ustanovenia § 11 až 13 a § 22 ods. 6.

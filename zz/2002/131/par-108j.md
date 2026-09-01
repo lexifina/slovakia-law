@@ -1,9 +1,0 @@
-# § 108j
-
-(1) Priestupku sa dopustí osoba, ktorá nesplní povinnosť vrátiť doklad podľa § 108i ods. 1.
-
-(2) Za priestupok podľa odseku 1 možno uložiť pokutu do 5 000 eur.
-
-(3) Priestupky prejednáva a rozhoduje o nich ministerstvo školstva z vlastného podnetu alebo na podnet príslušnej vysokej školy. Na priestupky a ich prejednanie sa vzťahuje všeobecný predpis o priestupkoch.<sup>50f</sup>)
-
-(4) Pokuty podľa odseku 2 sú príjmom štátneho rozpočtu. Správcom pohľadávky štátu z uložených sankcií je ministerstvo školstva.
