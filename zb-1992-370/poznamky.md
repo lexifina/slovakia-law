@@ -1,0 +1,1 @@
+- 1) § 3 ods. 2 zákona č. 232/1992 Zb. o policajných vysokých školách a o zriadení Policajnej akadémie.
