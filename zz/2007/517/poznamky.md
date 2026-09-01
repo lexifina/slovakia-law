@@ -4,6 +4,8 @@
 
 - 3) § 59 zákona č. 435/2001 Z. z. o patentoch, dodatkových ochranných osvedčeniach a o zmene a doplnení niektorých zákonov (patentový zákon).
 
+- 3a) § 2 písm. m) zákona č. 300/2025 o vysokých školách a o zmene a doplnení niektorých zákonov (vysokoškolský zákon).
+
 - 4) Napríklad § 69, 479 a 487 Obchodného zákonníka, § 460 a 469 Občianskeho zákonníka, § 12 až 17 zákona č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov.
 
 - 5) Parížsky dohovor na ochranu priemyslového vlastníctva (vyhláška ministra zahraničných vecí č. 64/1975 Zb. o Parížskom dohovore na ochranu priemyslového vlastníctva z 20. marca 1883, revidovanom v Bruseli 14. decembra 1900, vo Washingtone 2. júna 1911, v Haagu 6. novembra 1925, v Londýne 2. júna 1934, v Lisabone 31. októbra 1958 a v Stockholme 14. júla 1967 v znení vyhlášky ministra zahraničných vecí č. 81/1985 Zb).
