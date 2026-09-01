@@ -4,6 +4,8 @@
 
 - 3) Dohovor o medzinárodných výstavách, uzavretý v Paríži 22. novembra 1928 (uverejnené č. 46/1932 Sb. z. a n.).
 
+- 3a) § 2 písm. m) zákona č. 300/2025 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov (vysokoškolský zákon).
+
 - 4) Napríklad § 69, 479 a 487 Obchodného zákonníka, § 460 a 469 Občianskeho zákonníka, § 12 až 17 zákona č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov.
 
 - 5) § 2 ods. 1 Obchodného zákonníka.
