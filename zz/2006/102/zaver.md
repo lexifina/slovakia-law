@@ -1,1 +1,0 @@
-László Szigeti v. r.
