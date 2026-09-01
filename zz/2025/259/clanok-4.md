@@ -402,6 +402,12 @@ Zákon č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko ú�
 
 - pokročilých biopalív a plynných palív vyrobených z biomasy podľa prílohy č. 1 časti A. dodávaných leteckej a námornej doprave 1,2-násobne a palív z obnoviteľných zdrojov nebiologického pôvodu dodávaných leteckej a námornej doprave 1,5-násobne,“.
 
+- 42. V § 14a sa odsek 9 dopĺňa písmenom i), ktoré znie:
+
+- „i)
+
+- kreditov uplatnených podľa § 14cb dvojnásobne.“.
+
 - 43. V § 14a odsek 10 znie:
 
 - „(10)
@@ -439,6 +445,182 @@ Zákon č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko ú�
 - Právnická osoba alebo fyzická osoba môže použiť audit prvej strany alebo audit druhej strany na splnenie vybraných kritérií udržateľnosti podľa osobitného predpisu,<sup>17r</sup>) a to až do prvého miesta zhromažďovania lesnej biomasy.“.
 
 - 49. § 14c sa vypúšťa.
+
+- 50. Za § 14b sa vkladá § 14c, ktorý vrátane nadpisu znie:
+
+- „§ 14c
+
+- Kredity
+
+- (1)
+
+- Kredity sa vydávajú na množstvo elektriny z obnoviteľných zdrojov energie, ktoré bolo v bilančnom období vyrobené v zariadení na výrobu elektriny z obnoviteľných zdrojov energie pripojenom v odbernom mieste alebo odovzdávacom mieste, v ktorom je súčasne pripojená nabíjacia stanica<sup>17j</sup>) pre nabíjanie elektrických vozidiel, alebo na množstvo elektriny z obnoviteľných zdrojov energie odobraté zo sústavy, na ktoré bola použitá záruka pôvodu energie podľa § 8a, najviac však v rozsahu celkového množstva odobratej elektriny v tejto nabíjacej stanici v bilančnom období.
+
+- (2)
+
+- Bilančné obdobie je obdobie jedného kalendárneho mesiaca.
+
+- (3)
+
+- Kredit obsahuje
+
+- a)
+
+- zdroj energie, z ktorého bola elektrina vyrobená,
+
+- b)
+
+- počiatočný dátum a koncový dátum výroby elektriny,
+
+- c)
+
+- označenie, miesto, technológiu a celkový inštalovaný výkon zariadenia, v ktorom bola elektrina vyrobená, ak bola elektrina dodaná zariadením na výrobu elektriny z obnoviteľných zdrojov energie v odbernom mieste alebo odovzdávacom mieste, v ktorom je súčasne pripojená nabíjacia stanica,
+
+- d)
+
+- dátum, členský štát, v ktorom bola záruka pôvodu elektriny z obnoviteľných zdrojov energie vydaná a identifikačné číslo záruky pôvodu, ak ide o elektrinu z obnoviteľných zdrojov energie odobratú zo sústavy,
+
+- e)
+
+- kalendárny rok, za ktorý možno kredit uplatniť na plnenie referenčných hodnôt ustanovených v § 14a ods. 1,
+
+- f)
+
+- identifikačné číslo kreditu,
+
+- g)
+
+- identifikačný kód prevádzkovateľa a statické údaje o nabíjacom bode, prostredníctvom ktorého bola dodaná elektrina.
+
+- (4)
+
+- Kredity sa vydávajú za každú 1 kWh elektriny podľa odseku 1.
+
+- (5)
+
+- Organizátor krátkodobého trhu s elektrinou vedie evidenciu kreditov na účel plnenia referenčných hodnôt pri uvádzaní pohonných látok na trh na účte držiteľa účtu, ktorému bol kredit vydaný alebo na ktorého bol kredit prevedený.
+
+- (6)
+
+- Držiteľom účtu v evidencii kreditov na účel plnenia referenčných hodnôt pri uvádzaní pohonných látok na trh je prevádzkovateľ nabíjacej stanice a právnická osoba alebo fyzická osoba, ktorá uvádza na trh pohonné látky, na ktoré sa vzťahuje povinnosť plnenia referenčných hodnôt pri uvádzaní pohonných látok na trh podľa § 14a ods. 1.
+
+- (7)
+
+- Organizátor krátkodobého trhu s elektrinou organizuje trh s vydanými kreditmi.
+
+- (8)
+
+- Dohľad nad evidenciou, prevodom a zrušením kreditov vykonáva úrad. Organizátor krátkodobého trhu s elektrinou, výrobca elektriny, dodávateľ elektriny a držiteľ účtu podľa odseku 5 sú povinní poskytnúť úradu potrebnú súčinnosť pri výkone dohľadu.
+
+- (9)
+
+- Poplatok na pokrytie nákladov spojených s vedením evidencie kreditov na účel plnenia referenčných hodnôt pri uvádzaní pohonných látok na trh platí držiteľ účtu podľa odseku 6 organizátorovi krátkodobého trhu s elektrinou. Podrobnosti upravuje prevádzkový poriadok organizátora krátkodobého trhu s elektrinou.“.
+
+  - Poznámka pod čiarou k odkazu 17j znie:
+
+  - „<sup>17j</sup>) § 2 písm. b) tridsiaty piaty bod zákona č. 251/2012 Z. z. v znení neskorších predpisov.“.
+
+- 51. Za § 14c sa vkladajú § 14ca až 14cc, ktoré vrátane nadpisov znejú:
+
+- „§ 14ca
+
+- Vydávanie kreditov
+
+- (1)
+
+- Kredity vydáva v elektronickej podobe organizátor krátkodobého trhu s elektrinou na základe žiadosti prevádzkovateľa nabíjacej stanice na jeho účet vedený v evidencii kreditov na účel plnenia referenčných hodnôt pri uvádzaní pohonných látok na trh. Prevádzkovateľ nabíjacej stanice môže požiadať o vydanie kreditu do troch mesiacov od skončenia kalendárneho roka, za ktorý je možné kredit uplatniť na plnenie referenčných hodnôt ustanovených v § 14a ods. 1.
+
+- (2)
+
+- Na účel vydania kreditu je prevádzkovateľ nabíjacej stanice povinný zaregistrovať nabíjaciu stanicu v systéme organizátora krátkodobého trhu s elektrinou spôsobom určeným v prevádzkovom poriadku organizátora krátkodobého trhu s elektrinou a odovzdať organizátorovi krátkodobého trhu s elektrinou v rozsahu a spôsobom podľa prevádzkového poriadku organizátora krátkodobého trhu s elektrinou úplné a pravdivé informácie o
+
+- a)
+
+- nameranom alebo vypočítanom množstve elektriny, na ktorú nebola vydaná záruka pôvodu a ktorá bola v bilančnom období vyrobená v zariadení na výrobu elektriny z obnoviteľných zdrojov energie pripojenom v odovzdávacom mieste, v ktorom je súčasne pripojená nabíjacia stanica,
+
+- b)
+
+- nameranom množstve elektriny spotrebovanej v nabíjacej stanici na nabíjanie elektrických vozidiel v bilančnom období,
+
+- c)
+
+- množstve elektriny odobratého zo sústavy, ktoré bolo preukázané zárukou pôvodu energie podľa § 8a vydanou na elektrinu vyrobenú z obnoviteľných zdrojov energie.
+
+- (3)
+
+- Meranie vyrobenej elektriny podľa odseku 2 písm. a) zabezpečuje prevádzkovateľ nabíjacej stanice v súlade s osobitým predpisom.<sup>17k</sup>) Na meranie množstva elektriny spotrebovanej v nabíjacej stanici na nabíjanie elektrických vozidiel sa použije prvá veta primerane.
+
+- (4)
+
+- Prevádzkovateľ prenosovej sústavy a prevádzkovateľ distribučnej sústavy sú povinní poskytovať organizátorovi krátkodobého trhu s elektrinou úplné a pravdivé informácie nevyhnutné pre vydanie kreditov.
+
+- (5)
+
+- Organizátor krátkodobého trhu s elektrinou vydá kredity na základe informácií poskytnutých podľa odsekov 2 a 4.
+
+- § 14cb
+
+- Uplatnenie kreditov
+
+- (1)
+
+- Kredity sú platné do 30. apríla roku nasledujúceho po kalendárnom roku, za ktorý možno kredit uplatniť na plnenie referenčných hodnôt ustanovených v § 14a ods. 1.
+
+- (2)
+
+- Množstvo kreditov na účte právnickej osoby alebo fyzickej osoby, ktorá uvádza na trh pohonné látky a na ktorú sa vzťahuje povinnosť plnenia referenčných hodnôt pri uvádzaní pohonných látok na trh podľa § 14a ods. 1 zriadenom podľa § 14c ods. 5 sa k 1. máju uplatní na splnenie povinnosti plnenia referenčných hodnôt podľa § 14a ods. 1 za predchádzajúci kalendárny rok. Uplatniť možno len kredity, pri ktorých sa údaj podľa § 14c ods. 3 písm. e) zhoduje s kalendárnym rokom, za ktorý sa plní povinnosť podľa § 14a ods. 1.
+
+- (3)
+
+- Organizátor krátkodobého trhu s elektrinou poskytuje ministerstvu a Slovenskej obchodnej inšpekcii údaje o množstve kreditov uplatnených podľa odseku 2 do 15 dní od ich uplatnenia.
+
+- (4)
+
+- Organizátor krátkodobého trhu s elektrinou prevádza na základe žiadosti držiteľa účtu v evidencii kreditov na účel plnenia referenčných hodnôt pri uvádzaní pohonných látok na trh kredity na účet iného držiteľa účtu a eviduje prevody kreditov medzi držiteľmi účtov.
+
+- (5)
+
+- Organizátor krátkodobého trhu s elektrinou zruší a eviduje zrušenie kreditov, ak k ich vydaniu došlo na základe neúplných alebo nepravdivých informácií. Organizátor krátkodobého trhu s elektrinou ďalej eviduje zrušenie kreditov, ku ktorému dochádza
+
+- a)
+
+- uplatnením kreditov alebo
+
+- b)
+
+- skončením platnosti kreditov.
+
+- (6)
+
+- Držiteľ účtu v evidencii kreditov na účel plnenia referenčných hodnôt je povinný poskytnúť organizátorovi krátkodobého trhu s elektrinou úplné a pravdivé informácie potrebné na prevod a uplatnenie kreditov.
+
+- (7)
+
+- Postupy, termíny a podmienky pre vydanie, prevody, uplatnenie a zrušenie kreditov, náležitosti žiadosti o vydanie kreditov a prevod kreditov, organizovanie trhu s kreditmi, pravidlá pre obchodovanie s kreditmi, rozsah a spôsob odovzdávania informácií organizátorovi krátkodobého trhu s elektrinou potrebných pre prevod a uplatnenie kreditov, spôsob prevodu, uplatnenie a zrušenie kreditov a vedenie účtov v evidencii kreditov na účel plnenia referenčných hodnôt pri uvádzaní pohonných látok na trh upravuje organizátor krátkodobého trhu s elektrinou vo svojom prevádzkovom poriadku.
+
+- § 14cc
+
+- Prevod časti plnenia referenčných hodnôt
+
+- (1)
+
+- Právnické osoby a fyzické osoby, na ktoré sa vzťahuje povinnosť plnenia referenčných hodnôt podľa § 14a ods. 1, môžu prevádzať časť plnenia referenčných hodnôt uvedených v § 14a ods. 1, § 14a ods. 11 a § 14f ods. 2 bez použitia kreditného systému podľa § 14c.
+
+- (2)
+
+- Prevody podľa odseku 1 sa oznamujú ministerstvu do 15. mája nasledujúceho kalendárneho roka. Vzor oznámenia zverejní ministerstvo na svojom webovom sídle; prílohou oznámenia je ročná správa o plnení referenčných hodnôt podľa § 14a ods. 4 písm. d) vyhotovená za predchádzajúci kalendárny rok.
+
+- (3)
+
+- Prevod podľa odseku 1 vykonaný medzi viacerými právnickými osobami a fyzickými osobami je platný, len ak oznámenie podľa odseku 2 vykonajú všetky strany prevodu.
+
+- (4)
+
+- Na účel kontroly plnenia povinností právnických osôb a fyzických osôb podľa § 14a ods. 1, § 14a ods. 11 a § 14f ods. 2 ministerstvo zohľadňuje energiu z udržateľných pohonných látok prevedenú podľa odseku 1.“.
+
+  - Poznámka pod čiarou k odkazu 17k znie:
+
+  - „<sup>17k</sup>) § 41 zákona č. 251/2012 Z. z. v znení neskorších predpisov.“.
 
 - 52. V § 14d ods. 12 písm. i) a ods. 14 písm. i) sa vypúšťajú slová „alebo oznámenie o nevykonaní žiadnej kontroly“.
 
