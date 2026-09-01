@@ -1,0 +1,7 @@
+# § 293di
+
+(1) Ak poistenec bol 31. decembra 2014 dôchodkovo poistený po splnení podmienok nároku na starobný dôchodok a poberal tento dôchodok alebo jeho časť, suma starobného dôchodku sa od 1. januára 2015 určí tak, že k sume starobného dôchodku vyplácanej k 1. januáru 2015 sa pripočíta suma určená ako súčin súčtu jednej polovice osobných mzdových bodov získaných za obdobie dôchodkového poistenia počas poberania starobného dôchodku alebo jeho časti pred 1. januárom 2015 a aktuálnej dôchodkovej hodnoty; o určení sumy starobného dôchodku sa rozhodne do 31. marca 2015.
+
+(2) Poistencovi, ktorý bol v roku 2015 dôchodkovo poistený po splnení podmienok nároku na starobný dôchodok, poberal tento dôchodok alebo jeho časť a dôchodkové poistenie mu zaniklo pred 31. decembrom 2015 a nebol dôchodkovo poistený k 31. decembru 2014, sa určí na žiadosť suma starobného dôchodku tak, že k sume starobného dôchodku vyplácanej ku dňu zániku dôchodkového poistenia sa pripočíta suma určená ako súčin súčtu jednej polovice osobných mzdových bodov získaných za obdobie dôchodkového poistenia počas poberania starobného dôchodku alebo jeho časti v roku 2015 a aktuálnej dôchodkovej hodnoty.
+
+(3) Zamestnávateľ je povinný predložiť pobočke evidenčný list dôchodkového poistenia za obdobie pred 1. augustom 2006 za zamestnanca, ktorý je poberateľ starobného dôchodku a získal obdobie dôchodkového poistenia počas poberania starobného dôchodku alebo jeho časti, do 31. januára 2015, ak ho už Sociálnej poisťovni nepredložil.

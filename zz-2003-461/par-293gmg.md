@@ -1,0 +1,5 @@
+# § 293gmg
+
+(1) Na účely určenia sumy starobného dôchodku poistenca, predčasného starobného dôchodku poistenca a invalidného dôchodku poistenca sa obdobie starostlivosti o dieťa od 1. januára 2004 do 31. decembra 2025 posudzuje podľa § 15 ods. 1 písm. c) a d) v znení účinnom od 1. januára 2026; to isté obdobie riadnej starostlivosti o to isté dieťa sa hodnotí len jednej fyzickej osobe uvedenej v § 15 ods. 3, a to prednostne žene, ak sa tieto osoby nedohodli inak.
+
+(2) Ak vymeriavací základ na platenie poistného štátom na dôchodkové poistenie z dôvodu starostlivosti o dieťa podľa § 15 ods. 1 písm. c) a d) v znení účinnom do 31. decembra 2025 bol vyšší ako 60 % jednej dvanástiny všeobecného vymeriavacieho základu platného v kalendárnom roku, ktorý dva roky predchádza príslušnému kalendárnemu roku, na minimálnu hranicu úhrnu vymeriavacích základov podľa § 61 ods. 2 a na určenie koeficientu podľa § 66 ods. 9 v znení účinnom od 1. januára 2026 sa použije vymeriavací základ, z ktorého štát platil alebo by bol platil poistné v príslušnom kalendárnom roku alebo jeho časti.

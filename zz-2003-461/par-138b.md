@@ -1,0 +1,3 @@
+# § 138b Odvodová odpočítateľná položka pri sezónnej práci
+
+Odvodová odpočítateľná položka pri sezónnej práci na účely určenia vymeriavacieho základu na platenie poistného na starobné poistenie a poistného na poistenie v nezamestnanosti je vo výške 50 % jednej dvanástiny všeobecného vymeriavacieho základu platného v kalendárnom roku, ktorý dva roky predchádza kalendárnemu roku, za ktorý sa platí poistné. Ak vymeriavací základ zamestnanca v právnom vzťahu na základe dohody o pracovnej činnosti na výkon sezónnej práce je za kalendárny mesiac nižší ako výška odvodovej odpočítateľnej položky pri sezónnej práci podľa prvej vety, odvodová odpočítateľná položka pri sezónnej práci je vo výške tohto vymeriavacieho základu.

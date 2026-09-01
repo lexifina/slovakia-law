@@ -1,0 +1,7 @@
+# § 293de Prechodné ustanovenie k úprave účinnej od 1. júla 2014
+
+(1) Dobrovoľne nemocensky poistenej osobe alebo dobrovoľne poistenej osobe v nezamestnanosti, ktorej toto dobrovoľné poistenie malo trvať po 30. júni 2014 a ktorá je povinne nemocensky poistená k 1. júlu 2014, dobrovoľné nemocenské poistenie a dobrovoľné poistenie v nezamestnanosti zaniká od 1. júla 2014, ak odseky 2 a 3 neustanovujú inak.
+
+(2) Dobrovoľné poistenie v nezamestnanosti nezaniká podľa odseku 1, ak sú splnené podmienky podľa § 19 ods. 2 písm. b).
+
+(3) Dobrovoľne nemocensky poistená osoba, ktorej vzniklo dobrovoľné nemocenské poistenie pred 1. júlom 2014, toto poistenie trvalo k 30. júnu 2014 a povinné nemocenské poistenie jej trvá aj po 30. júni 2014, a k tomuto dňu nezískala najmenej 270 dní dobrovoľného nemocenského poistenia, je dobrovoľne nemocensky poistená podľa zákona účinného do 30. júna 2014 aj po tomto dni, najdlhšie do dňa, v ktorom získa najmenej 270 dní dobrovoľného nemocenského poistenia a najmenej 26 týždňov nepretržitého dobrovoľného nemocenského poistenia, ak dobrovoľné nemocenské poistenie nezaniklo skôr. Ak poistencovi zaniklo dobrovoľné nemocenské poistenie v deň, v ktorom získal najmenej 270 dní dobrovoľného nemocenského poistenia a najmenej 26 týždňov nepretržitého dobrovoľného nemocenského poistenia, a k tomuto dňu mu vznikne dobrovoľné nemocenské poistenie podľa zákona účinného od 1. júla 2014, toto poistenie je nepretržité.

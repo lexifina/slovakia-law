@@ -1,0 +1,3 @@
+# § 293ak
+
+Sociálna poisťovňa môže postúpiť podľa § 149 ods. 12 aj pohľadávky na preplatkoch na rodičovskom príspevku za obdobie pred 1. novembrom 2002, pohľadávky na peňažných náhradách vyplatených z garančného fondu a na podporách v nezamestnanosti za obdobie pred 1. januárom 2004, pohľadávky, ktoré jej vznikli podľa zákonov účinných do 31. decembra 2003, pohľadávky na sume plnení podľa § 279 ods. 4 a pohľadávky podľa § 149 ods. 13 účinnom do 31. decembra 2007 za obdobie pred 1. januárom 2008 voči fyzickej osobe alebo právnickej osobe, na ktorej majetok bol vyhlásený konkurz alebo ktorá je v likvidácii.
