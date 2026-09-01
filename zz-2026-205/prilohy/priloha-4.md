@@ -1,0 +1,1 @@
+Príloha č. 4 k vyhláške č. 205/2026 Z. z. [Študijné odbory, v ktorých môžu vysoké školy v Slovenskej republike poskytovať vysokoškolské vzdelávanie](../assets/f38f45fd04eb83c213365723fcc659bee98258cdc5f7d51db502e47a224ca568.pdf)
