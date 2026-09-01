@@ -108,6 +108,10 @@ Zákon č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl 
 
   - Poznámky pod čiarou k odkazom 22g až 22i sa vypúšťajú.
 
+- 9. V § 4e ods. 1 úvodnej vete sa slová „môže na účel poskytovania podporných opatrení a na účel poskytovania odborných činností podpornej úrovne prvého stupňa a druhého stupňa v systéme poradenstva a prevencie prideliť“ nahrádzajú slovami „pridelí na účel poskytovania podporných opatrení a na účel poskytovania odborných činností podpornej úrovne prvého stupňa a druhého stupňa v systéme poradenstva a prevencie“.
+
+- 10. V § 4e ods. 2 úvodnej vete sa slová „môže na účel poskytovania podporných opatrení prideliť“ nahrádzajú slovami „pridelí na účel poskytovania podporných opatrení“.
+
 - 11. V § 6a ods. 1 sa slová „§ 4a, § 4ab až“ nahrádzajú slovami „§ 4ab až“.
 
 - 12. V § 6b ods. 2 celom texte sa číslo „43,75“ nahrádza číslom „60“.
