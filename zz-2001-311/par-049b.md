@@ -1,0 +1,5 @@
+# § 49b Prechod na inú formu zamestnania
+
+(1) Zamestnávateľ je povinný zamestnancovi s pracovným pomerom na určitú dobu alebo s pracovným pomerom na kratší pracovný čas, ktorého pracovný pomer trvá viac ako šesť mesiacov a ktorému uplynula skúšobná doba, ak bola dohodnutá, na jeho žiadosť o prechod na pracovný pomer na neurčitý čas alebo na ustanovený týždenný pracovný čas poskytnúť písomnú odôvodnenú odpoveď do jedného mesiaca odo dňa podania žiadosti; to sa vzťahuje aj na každú ďalšiu žiadosť zamestnanca podanú najskôr po uplynutí 12 mesiacov od podania predchádzajúcej žiadosti. Zamestnávateľ, ktorý je fyzickou osobou, a zamestnávateľ, ktorý zamestnáva menej ako 50 zamestnancov, je povinný na žiadosť podľa prvej vety odpovedať najneskôr do troch mesiacov odo dňa podania žiadosti a pri opakovanej žiadosti môže poskytnúť odpoveď v ústnej forme, ak sa odôvodnenie odpovede nezmenilo.
+
+(2) Do dĺžky trvania pracovného pomeru na určitú dobu sa na účely odseku 1 započítava aj dĺžka trvania predchádzajúceho pracovného pomeru, ak ide o opätovne dohodnutý pracovný pomer na určitú dobu.

@@ -1,0 +1,3 @@
+# Čl. 8
+
+Zamestnávatelia sú povinní robiť opatrenia v záujme ochrany života a zdravia zamestnancov pri práci a zodpovedajú podľa tohto zákona za škody spôsobené zamestnancom pracovným úrazom alebo chorobou z povolania. Zamestnanci majú právo na hmotné zabezpečenie pri neschopnosti na prácu, v starobe a v súvislosti s tehotenstvom a rodičovstvom na základe predpisov o sociálnom zabezpečení. Zamestnancom so zdravotným postihnutím zamestnávateľ zabezpečuje pracovné podmienky umožňujúce im uplatniť a rozvíjať ich schopnosti na prácu s ohľadom na ich zdravotný stav. Pracovnoprávne vzťahy sú v čase neschopnosti zamestnancov na prácu z dôvodov choroby, úrazu, tehotenstva alebo materstva a rodičovstva vo zvýšenej miere chránené zákonom.

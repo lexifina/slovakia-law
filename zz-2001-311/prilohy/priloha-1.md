@@ -1,0 +1,15 @@
+Príloha č. 1 k zákonu č. 311/2001 Z. z.
+
+- CHARAKTERISTIKY STUPŇOV NÁROČNOSTI PRACOVNÝCH MIEST Pracovné miesta sú podľa miery zložitosti, zodpovednosti a namáhavosti práce zamestnanca vymedzené týmito charakteristikami:
+
+  - a) pracovné miesto zodpovedajúce prvému stupňu náročnosti práce charakterizuje výkon pomocných, prípravných alebo manipulačných prác podľa presných postupov a pokynov,
+
+  - b) pracovné miesto zodpovedajúce druhému stupňu náročnosti práce charakterizuje výkon ucelených obslužných rutinných prác alebo odborných rutinných kontrolovateľných prác podľa daných postupov alebo prevádzkových režimov, alebo prác spojených s hmotnou zodpovednosťou; výkon jednoduchých remeselných prác; výkon sanitárnych pracovných činností v zdravotníctve; výkon opakovaných, kontrolovateľných prác administratívnych, hospodárskosprávnych, prevádzkovo-technických alebo ekonomických podľa pokynov alebo ustanovených postupov,
+
+  - c) pracovné miesto zodpovedajúce tretiemu stupňu náročnosti práce charakterizuje výkon rôznorodých odborných alebo ucelených odborných prác alebo samostatné zabezpečovanie menej zložitých agend; samostatný výkon individuálnych tvorivých remeselných prác; riadenie alebo operatívne zabezpečovanie chodu zariadení alebo prevádzkových procesov spojené so zvýšenou duševnou námahou s prípadnou zodpovednosťou za zdravie a bezpečnosť iných osôb alebo za ťažko odstrániteľné škody,
+
+  - d) pracovné miesto zodpovedajúce štvrtému stupňu náročnosti práce charakterizuje samostatné zabezpečovanie odborných agend alebo výkon čiastkových koncepčných, systémových a metodických prác spojený so zvýšenou duševnou námahou; poskytovanie zdravotnej starostlivosti, odborné činnosti v zdravotníctve so zodpovednosťou za zdravie ľudí; riadenie, organizácia alebo koordinácia zložitých procesov alebo rozsiahleho súboru veľmi zložitých zariadení s prípadnou zodpovednosťou za životy a zdravie iných osôb,
+
+  - e) pracovné miesto zodpovedajúce piatemu stupňu náročnosti práce charakterizuje výkon špecializovaných systémových, koncepčných, tvorivých alebo metodických prác s vysokou duševnou námahou; komplexné zabezpečovanie najzložitejších úsekov a agend s určovaním nových postupov v rámci systému; výkon odborných a špecializovaných činností v príslušnom odbore zdravotnej starostlivosti so zodpovednosťou za zdravie ľudí; riadenie, organizácia a koordinácia veľmi zložitých procesov a systémov vrátane voľby a optimalizácie postupov a spôsobov riešenia,
+
+  - f) pracovné miesto zodpovedajúce šiestemu stupňu náročnosti práce charakterizuje tvorivé riešenie úloh neobvyklým spôsobom s nešpecifikovanými výstupmi s vysokou mierou zodpovednosti za škody s najširšími spoločenskými dôsledkami; výkon špecializovaných a certifikovaných činností v zdravotnej starostlivosti so zodpovednosťou za zdravie a životy ľudí; riadenie, organizácia a koordinácia najzložitejších systémov so zodpovednosťou za neodstrániteľné hmotné a morálne škody so značnými nárokmi na schopnosť riešiť zložité a konfliktné situácie spojené spravidla so všeobecným ohrozením najširšej skupiny osôb.
