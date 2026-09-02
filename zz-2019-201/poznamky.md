@@ -1,0 +1,1 @@
+- 1) § 7 ods. 6 zákona č. 321/2025 Z. z. o školskej správe a o zmene a doplnení niektorých zákonov.
