@@ -1,0 +1,9 @@
+Príloha k zákonu č. 381/2001 Z. z.
+
+- ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
+
+  - 1. Smernica Európskeho parlamentu a Rady 2009/103/ES zo 16. septembra 2009 o poistení zodpovednosti za škodu spôsobenú prevádzkou motorových vozidiel a o kontrole plnenia povinnosti poistenia tejto zodpovednosti (kodifikované znenie) (Ú. v. EÚ L 263, 7. 10. 2009).
+
+  - 2. Smernica Európskeho parlamentu a Rady 2009/138/ES z 25. novembra 2009 o začatí a vykonávaní poistenia a zaistenia (Solventnosť II) (prepracované znenie) (Ú. v. EÚ L 335, 17. 12. 2009) v znení: smernice Európskeho parlamentu a Rady 2011/89/EÚ zo 16. novembra 2011 (Ú. v. EÚ L 326, 8. 12. 2011), smernice Európskeho parlamentu a Rady 2012/23/EÚ z 12. septembra 2012 (Ú. v. EÚ L 249, 14. 9. 2012), smernice Rady 2013/23/EÚ z 13. mája 2013 (Ú. v. EÚ L 158, 10. 6. 2013), smernice Európskeho parlamentu a Rady 2013/58/EÚ z 11. decembra 2013 (Ú. v. EÚ L 341, 18. 12. 2013), smernice Európskeho parlamentu a Rady 2014/51/EÚ zo 16. apríla 2014 (Ú. v. EÚ L 153, 22. 5. 2014), smernice Európskeho parlamentu a Rady (EÚ) 2016/2341 zo 14. decembra 2016 (Ú. v. EÚ L 354, 23. 12. 2016), nariadenia Európskeho parlamentu a Rady (EÚ) 2017/2402 z 12. decembra 2017 (Ú. v. EÚ L 347, 28. 12. 2017), smernice Európskeho parlamentu a Rady (EÚ) 2018/843 z 30. mája 2018 (Ú. v. EÚ L 156, 19. 6. 2018), smernice Európskeho parlamentu a Rady (EÚ) 2019/2177 z 18. decembra 2019 (Ú. v. EÚ L 334, 27. 12. 2019), smernice Európskeho parlamentu a Rady (EÚ) 2022/2556 zo 14. decembra 2022 (Ú. v. EÚ L 333, 27. 12. 2022), smernice Európskeho parlamentu a Rady (EÚ) 2023/2864 z 13. decembra 2023 (Ú. v. EÚ L, 2023/2864, 20. 12. 2023).
+
+  - 3. Smernica Európskeho parlamentu a Rady (EÚ) 2021/2118 z 24. novembra 2021, ktorou sa mení smernica 2009/103/ES o poistení zodpovednosti za škodu spôsobenú prevádzkou motorových vozidiel a o kontrole plnenia povinnosti poistenia takejto zodpovednosti (Ú. v. EÚ L 430, 2. 12. 2021).
