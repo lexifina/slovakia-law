@@ -434,6 +434,28 @@ Zákon č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých z
 
 - Ak držiteľ dokladu o pobyte trikrát po sebe chybne uvedie kód pre odblokovanie, kód pre odblokovanie sa trvalo zablokuje; v takom prípade môže cudzinec odblokovať zablokovaný bezpečnostný osobný kód na policajnom útvare alebo na inom mieste, ktoré zverejnení ministerstvo vnútra na svojom webovom sídle.“.
 
+- 62. Za § 73a sa vkladá § 73b, ktorý vrátane nadpisu znie:
+
+- „§ 73b
+
+- Digitálny doklad o pobyte
+
+- (1)
+
+- Cudzinec si môže vytvoriť digitálny rovnopis svojho dokladu o pobyte (ďalej len „digitálny doklad o pobyte“) prostredníctvom mobilnej aplikácie v správe ministerstva vnútra.
+
+- (2)
+
+- Údaje uvedené v digitálnom doklade o pobyte možno overiť len prostredníctvom overovacej mobilnej aplikácie v správe ministerstva vnútra alebo inej informačnej technológie overovania schválenej ministerstvom vnútra.
+
+- (3)
+
+- Predloženie digitálneho dokladu o pobyte osobe, ktorá má k dispozícii overovaciu mobilnú aplikáciu alebo inú informačnú technológiu overovania podľa odseku 2 a sú u nej splnené technické podmienky ich používania, má rovnaké účinky ako predloženie dokladu o pobyte. Digitálny doklad o pobyte nemožno predložiť na účely hraničnej kontroly a na účely konania podľa tohto zákona.
+
+- (4)
+
+- Údaje uvedené v digitálnom doklade o pobyte môže overovať len ten, komu z tohto zákona alebo osobitného predpisu vyplýva povinnosť alebo oprávnenie vyžadovať predloženie dokladu o pobyte alebo zisťovať či overovať skutočnosti uvedené v doklade o pobyte alebo skutočnosti z neho vyplývajúce.“.
+
 - 63. V § 76 ods. 3 písm. a) sa slová „colnej správe“ nahrádzajú slovami „finančnej správe“.
 
 - 64. V § 76 odsek 4 znie:
@@ -656,6 +678,6 @@ Zákon č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých z
 
 - 88. Zákon sa dopĺňa prílohami č. 4 a č. 5, ktoré znejú:
 
-- „[Príloha č. 4 a č. 5 k zákonu č. 404/2011 Z. z.](assets/8539afde86ad14b43c5913a1c6ac1a3a0da91c0d703b90937138faa577e578b9.pdf)
+- „[Príloha č. 4 a č. 5 k zákonu č. 404/2011 Z. z.](assets/8b41359bb9e909dfd40346c0c47941c927d9b8d77d6b38dd232f7c80bf8ce133.pdf)
 
 - “.
