@@ -2,6 +2,50 @@
 
 Zákon č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení zákona č. 84/2009 Z. z., zákona č. 188/2009 Z. z., zákona č. 199/2009 Z. z., zákona č. 144/2010 Z. z., zákona č. 119/2011 Z. z., zákona č. 249/2011 Z. z., zákona č. 313/2011 Z. z., zákona č. 68/2012 Z. z., zákona č. 317/2012 Z. z., zákona č. 357/2012 Z. z., zákona č. 42/2013 Z. z., zákona č. 98/2013 Z. z., zákona č. 180/2013 Z. z., zákona č. 213/2013 Z. z., zákona č. 290/2013 Z. z., zákona č. 388/2013 Z. z., zákona č. 474/2013 Z. z., zákona č. 488/2013 Z. z., zákona č. 387/2015 Z. z., zákona č. 430/2015 Z. z., zákona č. 311/2016 Z. z., zákona č. 106/2018 Z. z., zákona č. 83/2019 Z. z., zákona č. 393/2019 Z. z., zákona č. 73/2020 Z. z., zákona č. 423/2020 Z. z., zákona č. 128/2021 Z. z., zákona č. 145/2021 Z. z., zákona č. 146/2021 Z. z., zákona č. 148/2021 Z. z., zákona č. 310/2021 Z. z., zákona č. 404/2021 Z. z., zákona č. 406/2021 Z. z., zákona č. 455/2021 Z. z., zákona č. 508/2021 Z. z., zákona č. 98/2022 Z. z., zákona č. 179/2022 Z. z., zákona č. 181/2022 Z. z., zákona č. 246/2022 Z. z., zákona č. 366/2022 Z. z., zákona č. 429/2022 Z. z., zákona č. 48/2023 Z. z., zákona č. 42/2024 Z. z., zákona č. 160/2024 Z. z., zákona č. 177/2024 Z. z., zákona č. 307/2024 Z. z., zákona č. 357/2024 Z. z., zákona č. 364/2024 Z. z., zákona č. 140/2025 Z. z., zákona č. 150/2025 Z. z., zákona č. 314/2025 Z. z., zákona č. 315/2025 Z. z. a zákona č. 384/2025 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 72 ods. 1 písm. g) sa za slovo „vodič“ vkladajú slová „vozidla evidovaného v cudzine“.
+
+- 2. § 72 sa dopĺňa odsekom 15, ktorý znie:
+
+- „(15)
+
+- Policajt na mieste zadrží osvedčenie o evidencii časť I alebo časť II, ak zistí, že vozidlo je v evidencii vozidiel označené ako nepoistené vozidlo podľa § 121a; ustanovenia odsekov 2 až 6 sa použijú primerane.“.
+
+- 3. V § 111 ods. 2 písm. m) sa slovo „a“ nahrádza slovami „(ďalej len „povinné zmluvné poistenie“),“.
+
+- 4. V § 111 sa odsek 2 dopĺňa písmenom q), ktoré znie:
+
+- „q)
+
+- údaje o vyradení vozidla z evidencie vozidiel vrátane dôvodov vyradenia.“.
+
+- 5. V § 112 ods. 4 a § 114 ods. 7 sa vypúšťajú slová „zodpovednosti za škodu spôsobenú prevádzkou motorového vozidla“.
+
+- 6. § 119a sa dopĺňa odsekom 14, ktorý znie:
+
+- „(14)
+
+- Ak vlastník vozidla alebo držiteľ vozidla dočasne vyradeného z evidencie vozidiel nepožiada orgán Policajného zboru o zmenu podľa odseku 8, uplynutím lehoty podľa odseku 8 orgán Policajného zboru vozidlo zaradí do evidencie vozidiel. Orgán Policajného zboru prostredníctvom kontaktných údajov podľa § 111 ods. 3 písm. e) informuje vlastníka vozidla alebo držiteľa vozidla o opätovnom zaradení vozidla do evidencie vozidiel, o povinnostiach podľa odseku 7 a o povinnosti mať uzavreté povinné zmluvné poistenie, ak ide o vozidlo, ktoré tomuto poisteniu podlieha.“.
+
+- 7. Za § 121 sa vkladá § 121a, ktorý vrátane nadpisu znie:
+
+- „§ 121a
+
+- Označenie nepoisteného vozidla
+
+- (1)
+
+- Na základe údajov poskytovaných podľa § 112 ods. 4 sa vozidlo označí v evidencii vozidiel ako nepoistené vozidlo, ak ide o vozidlo bez povinného zmluvného poistenia, ktoré tomuto poisteniu podlieha.
+
+- (2)
+
+- O skutočnosti podľa odseku 1 je držiteľ vozidla informovaný prostredníctvom kontaktných údajov podľa § 111 ods. 3 písm. e) spolu s upozornením na povinnosť uzatvoriť povinné zmluvné poistenie a na následky nesplnenia tejto povinnosti.
+
+- (3)
+
+- Označenie vozidla v evidencii vozidiel ako nepoisteného vozidla sa zruší, ak dôvody podľa odseku 1 pominú.“.
+
+- 8. V § 141 ods. 6 písm. q) sa slovo „alebo“ nahrádza čiarkou a na konci sa pripájajú tieto slová: „alebo § 143n“.
+
 - 9. V § 141 sa odsek 6 dopĺňa písmenom s), ktoré znie:
 
 - „s)
