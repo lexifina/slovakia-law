@@ -1,1 +1,0 @@
-- 1) § 25b ods. 4 zákona č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení neskorších predpisov.

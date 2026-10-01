@@ -1,1 +1,0 @@
-Ladislav Kamenický v. r.
