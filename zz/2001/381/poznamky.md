@@ -88,7 +88,9 @@
 
 - 22a) Príloha č. 2 zákona č. 180/2013 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov.
 
-- 23) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+- 23) § 63 zákona č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov.
+
+- 23a) § 30 zákona č. 106/2018 Z. z.
 
 - 24) § 18 ods. 2 písm. d) Občianskeho zákonníka.
 
