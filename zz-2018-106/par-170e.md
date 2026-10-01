@@ -1,0 +1,3 @@
+# § 170e Prechodné ustanovenie počas trvania mimoriadnej situácie vyhlásenej v súvislosti s hromadným prílevom cudzincov na územie Slovenskej republiky spôsobeným ozbrojeným konfliktom na území Ukrajiny
+
+Počas mimoriadnej situácie vyhlásenej v súvislosti s hromadným prílevom cudzincov na územie Slovenskej republiky spôsobeným ozbrojeným konfliktom na území Ukrajiny sa vozidlá prihlásené do evidencie vozidiel na Ukrajine môžu podrobiť technickej kontrole a emisnej kontrole podľa tohto zákona. Doklady o vykonaní technickej kontroly a doklady o vykonaní emisnej kontroly vydané podľa tohto zákona sa pri týchto vozidlách na území Slovenskej republiky považujú za rovnocenné s dokladmi vydanými príslušným orgánom Ukrajiny.
