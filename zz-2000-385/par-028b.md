@@ -1,0 +1,9 @@
+# § 28b
+
+(1) Výberového konania sa okrem sudcu môže zúčastniť ten, kto najneskôr v prvý deň výberového konania dosiahol vek 30 rokov a spĺňa predpoklady na vymenovanie za sudcu podľa § 5 ods. 1 písm. b) až d), f), g) a ods. 2.
+
+(2) Uchádzač, ktorý nie je sudcom, je povinný spolu so žiadosťou o zaradenie do výberového konania predložiť písomné vyhlásenie, v ktorom uvedie zoznam jemu blízkych osôb,<sup>7a</sup>) ktoré sú sudcami, zamestnancami súdov, ministerstva vrátane rozpočtových organizácií alebo príspevkových organizácií v pôsobnosti ministerstva alebo členmi výberovej komisie, a to v rozsahu meno, priezvisko, funkčné zaradenie a označenie inštitúcie. Vyhlásenie sa zverejní spolu so žiadosťou o zaradenie do výberového konania. Uchádzač, ktorý nie je sudcom, je taktiež povinný spolu so žiadosťou o zaradenie do výberového konania predložiť majetkové priznanie, ktoré musí obsahovať údaje podľa tohto zákona.
+
+(3) Predseda súdu podľa § 28a ods. 3 je povinný zabezpečiť zverejnenie všetkých žiadostí o zaradenie do výberového konania, profesijných životopisov uchádzačov a ich motivačných listov na webovom sídle ministerstva, a to aspoň 30 dní pred konaním výberového konania. Do 20 dní od zverejnenia žiadostí podľa predchádzajúcej vety môže každý vzniesť ministerstvu odôvodené výhrady voči uchádzačom; ministerstvo ich spolu so žiadosťami predloží výberovej komisii. Výberová komisia si vyžiada vyjadrenie od dotknutých osôb, ktorých sa týka vznesená výhrada. Predseda súdu podľa § 28a ods. 3 na webovom sídle ministerstva zabezpečí zverejnenie termínu a miesta výberového konania a zoznamu členov výberovej komisie, a to aspoň 15 dní pred jeho konaním.
+
+(4) Po uskutočnení výberového konania môže uchádzač z dôvodu ochrany súkromia požiadať ministerstvo, aby na písomnostiach podľa § 28b ods. 2 a 3, zverejnených na webovom sídle ministerstva, ktoré sa týkajú jeho osoby, ministerstvo vykonalo anonymizáciu osobných údajov.

@@ -1,0 +1,11 @@
+# § 28d
+
+(1) Na základe výsledkov hromadného výberového konania vytvára ministerstvo databázu kandidátov na funkciu sudcu, a to osobitne pre obvod každého krajského súdu.
+
+(2) Voľné miesto sudcu na okresnom súde v obvode krajského súdu a voľné miesto hosťujúceho sudcu možno obsadiť len z databázy kandidátov na funkciu sudcu vytvorenej pre obvod tohto krajského súdu. Ak postupom podľa predchádzajúcej vety nemožno voľné miesto sudcu alebo voľné miesto hosťujúceho sudcu obsadiť z dôvodu, že do databázy nie je zaradený žiaden kandidát na funkciu sudcu, možno voľné miesto sudcu alebo voľné miesto hosťujúceho sudcu obsadiť aj z kandidátov na funkciu sudcu vytvorenej pre obvod iného krajského súdu; ustanovenie odseku 3 sa použije primerane.
+
+(3) V databázach podľa odseku 1 sa kandidáti na funkciu sudcu zoradia podľa úspešnosti v hromadnom výberovom konaní. Databázy podľa odseku 1 sa na základe výsledkov ďalšieho hromadného výberového konania dopĺňajú podľa poradia úspešnosti o kandidátov na funkciu sudcu z ďalšieho hromadného výberového konania ich zaradením do databázy za kandidátov na funkciu sudcu zaradených do databázy skôr. Voľné miesta sudcov a voľné miesta hosťujúcich sudcov sa obsadzujú z kandidátov na funkciu sudcu podľa úspešnosti v hromadnom výberovom konaní, ktoré je v databáze podľa odseku 1 uvedené ako prvé v poradí. Ak je prvým v poradí v databáze podľa odseku 1 kandidát na funkciu sudcu, ktorý je obvinený alebo obžalovaný z trestného činu, voľné miesto sudcu alebo voľné miesto hosťujúceho sudcu sa obsadí ďalším z nasledujúcich kandidátov na funkciu sudcu podľa poradia úspešnosti v hromadnom výberovom konaní, ak súdna rada nerozhodne o tom, že kandidát na funkciu sudcu, ktorý je obvinený alebo obžalovaný z trestného činu, spĺňa predpoklady sudcovskej spôsobilosti.
+
+(4) Kandidát na funkciu sudcu je povinný absolvovať prípravné vzdelávanie zamerané na osvojenie si praktických zručností potrebných na výkon funkcie sudcu a oznámiť ministerstvu absolvovanie prípravného vzdelávania.
+
+(5) Databázy podľa odseku 1 sú zverejnené na webovom sídle ministerstva. Okrem titulu, mena a priezviska kandidátov na funkciu sudcu sa v nich uvádza aj údaj o splnení predpokladov sudcovskej spôsobilosti a o absolvovaní prípravného vzdelávania.

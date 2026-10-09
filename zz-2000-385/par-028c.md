@@ -1,0 +1,9 @@
+# § 28c
+
+(1) Hromadné výberové konanie pozostáva z písomného testu, prípadovej štúdie, vypracovania súdnych rozhodnutí, prekladu z cudzieho jazyka, psychologického posúdenia a z ústnej časti a výberové konanie podľa § 28 ods. 3 pozostáva z prípadovej štúdie, vypracovania súdnych rozhodnutí, prekladu z cudzieho jazyka, psychologického posúdenia a z ústnej časti, ak ide o uchádzača o funkciu sudcu, ktorý nie je sudcom, a z prípadovej štúdie, vypracovania súdnych rozhodnutí a z ústnej časti, ak ide o uchádzača o funkciu sudcu, ktorý je sudcom. Písomný test, prípadová štúdia, súdne spisy na účely vypracovania súdneho rozhodnutia a preklad z cudzieho jazyka sa v deň výberového konania losujú výberovou komisiou z na to určených databáz, ktoré vytvára a spravuje Justičná akadémia Slovenskej republiky. Psychologické posúdenie sa vykonáva aplikáciou psychodiagnostických metód určených ministerstvom.
+
+(2) Ústna časť výberového konania sa zaznamenáva aj s využitím technického zariadenia určeného na zaznamenávanie zvuku.
+
+(3) Po skončení výberového konania predseda výberovej komisie zabezpečí vyhotovenie zoznamu uchádzačov podľa poradia úspešnosti. V prípade rovnosti poradia sa rozhodne žrebom. V hromadnom výberovom konaní sa počet úspešných uchádzačov určuje podľa počtu obsadzovaných miest kandidátov na funkciu sudcu pre obvod príslušného krajského súdu. Úspešní uchádzači v hromadnom výberovom konaní sa stávajú kandidátmi na funkciu sudcu pre obvod príslušného krajského súdu. Kandidátom na funkciu sudcu je aj uchádzač o funkciu sudcu, ktorý nie je sudcom a ktorý sa umiestnil vo výberovom konaní ako prvý v poradí, ak ide o výberové konanie podľa § 28 ods. 3.
+
+(4) Predseda výberovej komisie je povinný zabezpečiť zverejnenie zápisnice o priebehu výberového konania, zvukového záznamu podľa odseku 2 a zoznamu podľa odseku 3 na webovom sídle ministerstva do 24 hodín od ukončenia výberového konania.
