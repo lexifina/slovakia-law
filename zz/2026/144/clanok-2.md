@@ -10,4 +10,6 @@ Zákon Slovenskej národnej rady č. 401/1990 Zb. o meste Košice v znení záko
 
 - 2. V § 10 ods. 2 a § 14 ods. 1 sa vypúšťajú slová „na štyri roky“.
 
+- 3. V § 14 ods. 1 sa veta „Každá miestna časť má v miestnom zastupiteľstve aspoň jedného poslanca.“ nahrádza vetou „Na účely určovania volebných obvodov vo voľbách do miestneho zastupiteľstva sa na miestnu časť hľadí ako na mestskú časť.<sup>2aaa</sup>)“.
+
 - 4. V § 27f ods. 1 sa slovo „štvrtej“ nahrádza slovom „tretej“.
