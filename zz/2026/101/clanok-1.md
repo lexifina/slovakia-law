@@ -30,11 +30,15 @@ Zákon Slovenskej národnej rady č. 401/1990 Zb. o meste Košice v znení záko
 
   - <sup>1ba</sup>) § 2a, § 11a ods. 1 písm. a) zákona Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov.“.
 
+- 2. V § 10 ods. 2 sa číslo „41“ nahrádza číslom „51“.
+
 - 3. Poznámka pod čiarou k odkazu 2 znie:
 
 - „<sup>2</sup>) Zákon č. 180/2014 Z. z. o podmienkach výkonu volebného práva a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
 
 - 4. V § 10 ods. 2 sa za druhú vetu vkladá nová tretia veta a štvrtá veta, ktoré znejú: „Každá mestská časť má v mestskom zastupiteľstve aspoň jedného poslanca. Na účely určovania volebných obvodov vo voľbách do mestského zastupiteľstva sa na miestnu časť hľadí ako na mestskú časť.“.
+
+- 5. V § 10 ods. 5 tretej vete sa slovo „15-násobok“ nahrádza slovom „10-násobok“.
 
 - 6. V § 11a ods. 1 sa slovo „dvaja“ nahrádza slovom „traja“.
 
@@ -42,7 +46,11 @@ Zákon Slovenskej národnej rady č. 401/1990 Zb. o meste Košice v znení záko
 
 - 8. V § 11a ods. 1 sa na konci pripája táto veta: „Jeden z námestníkov má kompetencie stanovené najmä pre výkon potrieb mestských častí vrátane procesu ich racionalizácie, kompetencií, potrieb obyvateľov v nich žijúcich, ako aj komunikácie s ich volenými zástupcami.“.
 
+- 9. V § 12 ods. 2 prvá veta znie: „Mestská rada sa skladá z ôsmich poslancov mestského zastupiteľstva, zvolených mestským zastupiteľstvom za členov mestskej rady spravidla na celé funkčné obdobie, z predsedu Rady starostov, námestníkov primátora a primátora.“.
+
 - 10. V § 13 ods. 3 sa vypúšťa prvá veta.
+
+- 11. V § 14 ods. 1 sa za druhú vetu vkladá nová tretia veta, ktorá znie: „Každá miestna časť má v miestnom zastupiteľstve aspoň jedného poslanca.“.
 
 - 12. V § 14 ods. 2 písmená a) až d) znejú:
 
@@ -61,6 +69,8 @@ Zákon Slovenskej národnej rady č. 401/1990 Zb. o meste Košice v znení záko
 - d)
 
 - nad 60 001 obyvateľov 25 až 29 poslancov.“.
+
+- 13. V § 14 ods. 4 tretej vete sa slovo „10-násobok“ nahrádza slovom „7-násobok“.
 
 - 14. V § 15a ods. 1 sa za druhú vetu vkladá nová tretia veta, ktorá znie: „Starosta môže poveriť zastupovaním dvoch zástupcov starostu, ak má mestská časť viac ako 30 000 obyvateľov, a troch zástupcov starostu, ak má mestská časť viac ako 70 000 obyvateľov; zároveň určí poradie, v akom ho zastupujú.“.
 
