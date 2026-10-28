@@ -27,5 +27,9 @@
   },
   "tool": "tools/ku_dnu.py",
   "in_force_trailer": "In-force",
-  "record_to": "2026-06-01"
+  "record_to": "2026-06-01",
+  "citation": {
+    "file": "([a-z-]+)/(?:cl|par)-0*([0-9]+[a-z]*)\\.md",
+    "cites": "(čl\\.|článk[a-z]*|§) ?{n}([^0-9a-z]|$)"
+  }
 }
