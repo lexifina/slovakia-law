@@ -31,5 +31,10 @@
   "citation": {
     "file": "([a-z-]+)/(?:cl|par)-0*([0-9]+[a-z]*)\\.md",
     "cites": "(čl\\.|článk[a-z]*|§) ?{n}([^0-9a-z]|$)"
-  }
+  },
+  "label": "Slovakia",
+  "language": "sk",
+  "checked_on": "2026-10-28",
+  "history": "in-force",
+  "record_note": "Checked against the official source on 2026-10-28."
 }
