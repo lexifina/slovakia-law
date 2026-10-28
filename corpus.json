@@ -25,5 +25,7 @@
       "decided_here": false
     }
   },
-  "tool": "tools/ku_dnu.py"
+  "tool": "tools/ku_dnu.py",
+  "in_force_trailer": "In-force",
+  "record_to": "2026-06-01"
 }
