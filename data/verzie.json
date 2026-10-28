@@ -1,0 +1,458 @@
+{
+ "built": "2026-10-28",
+ "source": "https://static.slov-lex.sk",
+ "acts": [
+  {
+   "id": "1992/460",
+   "label": "460/1992 Zb.",
+   "slug": "ustava",
+   "title": "Ústava Slovenskej republiky",
+   "versions": [
+    {
+     "from": "1992-10-01",
+     "to": "1998-08-04",
+     "acts": [],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/1992/460/19921001.portal",
+     "sha256": "de3b562dd460cbd9dd4f7ba99ebff4dc709455c86b2d6a429bdb81a324db0b8a"
+    },
+    {
+     "from": "1998-08-05",
+     "to": "1999-01-26",
+     "acts": [
+      "244/1998 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/1992/460/19980805.portal",
+     "sha256": "f870aac3312f1c3a2ac3d5fc098e893ae1e201a166921523676fdf4ade3d5a2b"
+    },
+    {
+     "from": "1999-01-27",
+     "to": "2001-06-30",
+     "acts": [
+      "9/1999 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/1992/460/19990127.portal",
+     "sha256": "5e6b99d37b2bc843a469b4238d1f1ddd76dee6c690fb7a2a72c968c576e0f15d"
+    },
+    {
+     "from": "2001-07-01",
+     "to": "2001-12-31",
+     "acts": [
+      "90/2001 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/1992/460/20010701.portal",
+     "sha256": "ffca30be8dd798e1873c34cf847f4a8beba30208b72a6d7f993aaf336ed71248"
+    },
+    {
+     "from": "2002-01-01",
+     "to": "2004-03-17",
+     "acts": [
+      "90/2001 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/1992/460/20020101.portal",
+     "sha256": "502893f177671372f848064998261ab31e2ee1254e98ad6aaa8e8832b85cc0c3"
+    },
+    {
+     "from": "2004-03-18",
+     "to": "2004-05-31",
+     "acts": [
+      "140/2004 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/1992/460/20040318.portal",
+     "sha256": "d5a1c655dc3fa69081c28538508553637bfae0dc77a505f6141f1e5f34eca30a"
+    },
+    {
+     "from": "2004-06-01",
+     "to": "2004-07-19",
+     "acts": [
+      "323/2004 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/1992/460/20040601.portal",
+     "sha256": "18c3c7a5eb15e1b04178a9f65f56601f9d8d88b20263a703be89b2b634bd6903"
+    },
+    {
+     "from": "2004-07-20",
+     "to": "2005-12-31",
+     "acts": [
+      "323/2004 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/1992/460/20040720.portal",
+     "sha256": "179cc291070ce5a2e6c25959d4651653f14e8f7b0df449dc47c56fd307296c8f"
+    },
+    {
+     "from": "2006-01-01",
+     "to": "2006-03-31",
+     "acts": [
+      "463/2005 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/1992/460/20060101.portal",
+     "sha256": "b889d3f02b33606bf155018aed2684bf1d67eaed57b218049610b8eefc33b76a"
+    },
+    {
+     "from": "2006-04-01",
+     "to": "2006-04-30",
+     "acts": [
+      "92/2006 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/1992/460/20060401.portal",
+     "sha256": "15f260a1692ef8dea7347d3f98acce9e709b1ecf527b8a22dfbd7baa28f76ea9"
+    },
+    {
+     "from": "2006-05-01",
+     "to": "2010-12-31",
+     "acts": [
+      "210/2006 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/1992/460/20060501.portal",
+     "sha256": "a9cb066d0c6caae909f51a1148c3545cd4d61f4c8b6da62d6aa7a1606dcdd6ba"
+    },
+    {
+     "from": "2011-01-01",
+     "to": "2011-10-24",
+     "acts": [
+      "100/2010 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/1992/460/20110101.portal",
+     "sha256": "4312d22ec19713a2f1827dbfdac94c4aba7d22374f9ddd3772aad0f140470ae5"
+    },
+    {
+     "from": "2011-10-25",
+     "to": "2012-08-31",
+     "acts": [
+      "356/2011 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/1992/460/20111025.portal",
+     "sha256": "9b81db14926649a5e396ecfd44ee042edd6bcb6ef55cdbf38845b9ae36641fb8"
+    },
+    {
+     "from": "2012-09-01",
+     "to": "2014-08-31",
+     "acts": [
+      "232/2012 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/1992/460/20120901.portal",
+     "sha256": "5ebc6b85e6fbc7525b332cf15cd2d52c7f4fc5c5dc1a69dc4a139a9d54b5a108"
+    },
+    {
+     "from": "2014-09-01",
+     "to": "2014-11-30",
+     "acts": [
+      "161/2014 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/1992/460/20140901.portal",
+     "sha256": "44516fded40f5c340773ee9ecccc2bdde9dada7deab4f644065ea5c5cf7c7aa4"
+    },
+    {
+     "from": "2014-12-01",
+     "to": "2015-12-31",
+     "acts": [
+      "306/2014 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/1992/460/20141201.portal",
+     "sha256": "f845b2d30fef0f2449d7687420da2265e50bd26625257570d12683c1fb340e1f"
+    },
+    {
+     "from": "2016-01-01",
+     "to": "2017-02-26",
+     "acts": [
+      "427/2015 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/1992/460/20160101.portal",
+     "sha256": "b816a7326831c4f0943711f0931d88fb9343f20068211c1a6fcd9fc18f2b6d02"
+    },
+    {
+     "from": "2017-02-27",
+     "to": "2017-04-03",
+     "acts": [
+      "44/2017 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/1992/460/20170227.portal",
+     "sha256": "dbef1893f58b5a541e5a4ddc0ce7a1149a2bf7dc6067b8c888e043d5a39ddace"
+    },
+    {
+     "from": "2017-04-04",
+     "to": "2017-05-31",
+     "acts": [
+      "71/2017 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/1992/460/20170404.portal",
+     "sha256": "2bb222d6e39ff7679fca9830ec72c12a288f061ecb847affb61fdcfcb82e17b6"
+    },
+    {
+     "from": "2017-06-01",
+     "to": "2019-02-22",
+     "acts": [
+      "137/2017 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/1992/460/20170601.portal",
+     "sha256": "8f5cdf4bd7ef54461b461b3f864a02d31535584e5b5e183568644d4f8a1e0b9b"
+    },
+    {
+     "from": "2019-02-23",
+     "to": "2019-06-30",
+     "acts": [
+      "40/2019 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/1992/460/20190223.portal",
+     "sha256": "531781e673db4c6e18617cb177e413297985782ab24582293a864494353a6620"
+    },
+    {
+     "from": "2019-07-01",
+     "to": "2020-12-31",
+     "acts": [
+      "99/2019 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/1992/460/20190701.portal",
+     "sha256": "d0fba779d4959620e7a0c3ab3aed204dd45155348fa6ca6407350268f34d635c"
+    },
+    {
+     "from": "2021-01-01",
+     "to": "2022-12-31",
+     "acts": [
+      "422/2020 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/1992/460/20210101.portal",
+     "sha256": "7704d6a7d37a5c04abfc048a7c91d0cedfe91a7869349128342b627e5c195356"
+    },
+    {
+     "from": "2023-01-01",
+     "to": "2023-01-25",
+     "acts": [
+      "422/2020 Z. z.",
+      "378/2022 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/1992/460/20230101.portal",
+     "sha256": "435e6d39b6fbf20fa997ee57a1eafe1c9f865dfd9c2891c8c25c028fac15e9a4"
+    },
+    {
+     "from": "2023-01-26",
+     "to": "2023-06-30",
+     "acts": [
+      "24/2023 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/1992/460/20230126.portal",
+     "sha256": "db6e6ef23d95fc66c2681dc386a3c9dd48eb8e6e80f38159ca4882cc3395f776"
+    },
+    {
+     "from": "2023-07-01",
+     "to": "2024-12-31",
+     "acts": [
+      "241/2023 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/1992/460/20230701.portal",
+     "sha256": "619144f8531af94330477503c4ecccfb417c1cf7c7822f5251399d08d42da619"
+    },
+    {
+     "from": "2025-01-01",
+     "to": "2025-10-31",
+     "acts": [
+      "422/2020 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/1992/460/20250101.portal",
+     "sha256": "8c4ee2007f2e4d97f83c3fdf97408888cba16eae780cd48c9fa7ec6c8aca7aff"
+    },
+    {
+     "from": "2025-11-01",
+     "to": null,
+     "acts": [
+      "255/2025 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/1992/460/20251101.portal",
+     "sha256": "5b1368b0fd52973038d427c8ab03b660c35e85d44bd48766b89ab0ac41ee85ad"
+    }
+   ]
+  },
+  {
+   "id": "2014/180",
+   "label": "180/2014 Z. z.",
+   "slug": "volebny-zakon",
+   "title": "Zákon o podmienkach výkonu volebného práva a o zmene a doplnení niektorých zákonov",
+   "versions": [
+    {
+     "from": "2014-07-01",
+     "to": "2014-09-16",
+     "acts": [],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/2014/180/20140701.portal",
+     "sha256": "15802154f551f1b65713ae14f2e3d7382333f305b5d09d7dad4ffef0210e5e0e"
+    },
+    {
+     "from": "2014-09-17",
+     "to": "2015-06-30",
+     "acts": [
+      "239/2014 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/2014/180/20140917.portal",
+     "sha256": "f0fad50fdf2da562c48c506e8d142f4a23091acd3b924f76d59e5b2fb65487aa"
+    },
+    {
+     "from": "2015-07-01",
+     "to": "2015-12-08",
+     "acts": [],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/2014/180/20150701.portal",
+     "sha256": "bf99e37fdafa1b2bf632b623b12ebff68fd58414e3e88844293c84174ff731ef"
+    },
+    {
+     "from": "2015-12-09",
+     "to": "2015-12-31",
+     "acts": [
+      "356/2015 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/2014/180/20151209.portal",
+     "sha256": "d5f9882651bf401d0eb35839b2fb47f7fc247bc21c0e1addf0bc8fd0326ba460"
+    },
+    {
+     "from": "2016-01-01",
+     "to": "2016-06-30",
+     "acts": [],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/2014/180/20160101.portal",
+     "sha256": "c836557b89b229e2e7773258da1b6cbfeccb0e4bbdaf4356f5b91391398ae194"
+    },
+    {
+     "from": "2016-07-01",
+     "to": "2017-03-30",
+     "acts": [
+      "125/2016 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/2014/180/20160701.portal",
+     "sha256": "3d3b72bbb880a4a4f11763e7c0989883160be1b11c8cdbe55703b388166d6be3"
+    },
+    {
+     "from": "2017-03-31",
+     "to": "2017-05-30",
+     "acts": [
+      "69/2017 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/2014/180/20170331.portal",
+     "sha256": "5ff5b0b63fa16a21291f47c81ff635c0d3440fd94062b7903136afdd4e1d994d"
+    },
+    {
+     "from": "2017-05-31",
+     "to": "2017-06-30",
+     "acts": [
+      "130/2017 Z. z.",
+      "131/2017 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/2014/180/20170531.portal",
+     "sha256": "b5fff51f70dd81c99c074f955a4c6a59c7b29eaf516d6e4843857280b9deee03"
+    },
+    {
+     "from": "2017-07-01",
+     "to": "2018-12-31",
+     "acts": [
+      "165/2017 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/2014/180/20170701.portal",
+     "sha256": "05113a7a3e0a0922be9448a0e765aa9451669c30a529f5bd1bce6382f2b21030"
+    },
+    {
+     "from": "2019-01-01",
+     "to": "2019-02-18",
+     "acts": [
+      "344/2018 Z. z.",
+      "177/2018 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/2014/180/20190101.portal",
+     "sha256": "c23387af5384e2ee296dd0a0c18254a2cbe929185e1d05aead6ec7e51e7b268d"
+    },
+    {
+     "from": "2019-02-19",
+     "to": "2020-04-30",
+     "acts": [
+      "37/2019 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/2014/180/20190219.portal",
+     "sha256": "90f4e7559d6ccfe560ae11964b057038cc724db8b163aad5ebb0084b86234416"
+    },
+    {
+     "from": "2020-05-01",
+     "to": "2020-12-31",
+     "acts": [
+      "413/2019 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/2014/180/20200501.portal",
+     "sha256": "1299f5d4b8412bdbfe267a1488b8d82fe5a837dfabaf2034f7394d9b4acbc656"
+    },
+    {
+     "from": "2021-01-01",
+     "to": "2021-07-31",
+     "acts": [
+      "73/2017 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/2014/180/20210101.portal",
+     "sha256": "a907151228961c52063bad74db2600c17332c14761ccae39d36794e2002d9eba"
+    },
+    {
+     "from": "2021-08-01",
+     "to": "2021-12-31",
+     "acts": [
+      "423/2020 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/2014/180/20210801.portal",
+     "sha256": "c2861d40157fad3065a1293c42e71f8bb7477051bde60f9dcff819bd5122517e"
+    },
+    {
+     "from": "2022-01-01",
+     "to": "2022-03-31",
+     "acts": [
+      "512/2021 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/2014/180/20220101.portal",
+     "sha256": "a430ada0054b4cd505269b7effcd3394b9571ed9d080281fc9c50be2579619c9"
+    },
+    {
+     "from": "2022-04-01",
+     "to": "2022-05-30",
+     "acts": [
+      "512/2021 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/2014/180/20220401.portal",
+     "sha256": "b9cd646df03c8e7b6a8fb7400b5741810f711945b4de31e761f6a9c6c767f126"
+    },
+    {
+     "from": "2022-05-31",
+     "to": "2023-02-28",
+     "acts": [
+      "185/2022 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/2014/180/20220531.portal",
+     "sha256": "68b6a2788dccddc5578683e088e780767f10820a2e8b2a9ee1f5991b819195d1"
+    },
+    {
+     "from": "2023-03-01",
+     "to": "2023-06-03",
+     "acts": [
+      "468/2022 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/2014/180/20230301.portal",
+     "sha256": "2c035423eb1a9d03cb48024b85e968cb451899218f18aebce5874c3a19111aec"
+    },
+    {
+     "from": "2023-06-04",
+     "to": "2024-05-31",
+     "acts": [
+      "170/2023 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/2014/180/20230604.portal",
+     "sha256": "fcda61a5a6dd670a6a8c169493067692d36bdcac88290d149bd252e2e816cc3d"
+    },
+    {
+     "from": "2024-06-01",
+     "to": "2026-05-31",
+     "acts": [
+      "94/2024 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/2014/180/20240601.portal",
+     "sha256": "17ba1310858d99ae30237cdc785eea60dab839b021432e780af2952fe8524ac0"
+    },
+    {
+     "from": "2026-06-01",
+     "to": null,
+     "acts": [
+      "71/2026 Z. z."
+     ],
+     "html": "https://static.slov-lex.sk/static/SK/ZZ/2014/180/20260601.portal",
+     "sha256": "c95ce39be4080406f7f0cb0a847c30ad7679819588913854397a9c8d36375a30"
+    }
+   ]
+  }
+ ]
+}

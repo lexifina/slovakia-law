@@ -1,0 +1,29 @@
+{
+  "corpus": "sk/national/acts",
+  "name": "Slovak law: Ústava Slovenskej republiky (460/1992 Zb.) and zákon č. 180/2014 Z. z. o podmienkach výkonu volebného práva",
+  "acts": [
+    "460/1992 Zb.",
+    "180/2014 Z. z."
+  ],
+  "history_from": "1992-10-01",
+  "built": "2026-10-28",
+  "dates": {
+    "commit": "in-force",
+    "other_trailers": [
+      "Enacted",
+      "Published"
+    ],
+    "time": "12:00 Europe/Bratislava (UTC+1, UTC+2 in summer time)"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "when_absent": "this corpus records no scope notes (no commit carries Applies:); the absence is not a statement that the change reaches every case",
+    "default_reach": {
+      "rule": "no genuine retroactivity",
+      "meaning": "an act applies from the day it takes effect and does not attach new legal consequences to facts completed before then; the Constitution states no general rule, and the prohibition is derived from the rule-of-law clause; in criminal law a later act applies only where it is more favourable to the offender",
+      "authority": "Ústava Slovenskej republiky čl. 1 ods. 1 (právny štát); čl. 50 ods. 6 (\"Trestnosť činu sa posudzuje a trest sa ukladá podľa zákona účinného v čase, keď bol čin spáchaný. Neskorší zákon sa použije, ak je to pre páchateľa priaznivejšie.\")",
+      "decided_here": false
+    }
+  },
+  "tool": "tools/ku_dnu.py"
+}
