@@ -4650,7 +4650,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - j)
 
-  - Rozhodovanie o žiadosti o určenie alebo zrušenie určenia, že liek podlieha osobitnej cenovej regulácii ...................................... 600 eur
+  - Rozhodovanie o posúdení nákladovej efektívnosti lieku na účel jeho poskytovania v rámci ústavnej starostlivosti ......................4 600 eur
 
   - k)
 
@@ -4658,73 +4658,89 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - l)
 
-  - Rozhodovanie o žiadosti o zaradenie zdravotníckej pomôcky do zoznamu kategorizovaných špeciálnych zdravotníckych materiálov a úradné určenie ceny zdravotníckej pomôcky .....1 300 eur
+  - Rozhodovanie o žiadosti o zaradenie zdravotníckej pomôcky do zoznamu kategorizovaných zdravotníckych pomôcok na mieru a úradné určenie ceny zdravotníckej pomôcky............................1 300 eur
 
   - m)
 
-  - Rozhodovanie o žiadosti o zaradenie dietetickej potraviny do zoznamu kategorizovaných dietetických potravín a úradné určenie ceny dietetickej potraviny .....1 300 eur
+  - Rozhodovanie o žiadosti o zaradenie zdravotníckej pomôcky do zoznamu kategorizovaných špeciálnych zdravotníckych materiálov a úradné určenie ceny zdravotníckej pomôcky .....1 300 eur
 
   - n)
 
-  - Rozhodovanie o žiadosti o zvýšenie úradne určenej ceny lieku zaradeného v zozname kategorizovaných liekov .....600 eur
+  - Rozhodovanie o žiadosti o zaradenie dietetickej potraviny do zoznamu kategorizovaných dietetických potravín a úradné určenie ceny dietetickej potraviny .....1 300 eur
 
   - o)
 
-  - Rozhodovanie o žiadosti o zvýšenie úradne určenej ceny zdravotníckej pomôcky zaradenej v zozname kategorizovaných zdravotníckych pomôcok .....300 eur
+  - Rozhodovanie o žiadosti o zvýšenie úradne určenej ceny lieku zaradeného v zozname kategorizovaných liekov .....600 eur
 
   - p)
 
-  - Rozhodovanie o žiadosti o zvýšenie úradne určenej ceny zdravotníckej pomôcky zaradenej v zozname kategorizovaných špeciálnych zdravotníckych materiálov .....300 eur
+  - Rozhodovanie o žiadosti o zvýšenie úradne určenej ceny zdravotníckej pomôcky zaradenej v zozname kategorizovaných zdravotníckych pomôcok .....300 eur
 
   - q)
 
-  - Rozhodovanie o žiadosti o zvýšení úradne určenej ceny dietetickej potraviny zaradenej v zozname kategorizovaných dietetických potravín .....300 eur
+  - Rozhodovanie o žiadosti o zvýšenie úradne určenej ceny zdravotníckej pomôcky zaradenej v zozname kategorizovaných zdravotníckych pomôcok na mieru.............................300 eur
 
   - r)
 
-  - Rozhodovanie o žiadosti o zmenu charakteristík referenčnej skupiny .....1 600 eur
+  - Rozhodovanie o žiadosti o zvýšenie úradne určenej ceny zdravotníckej pomôcky zaradenej v zozname kategorizovaných špeciálnych zdravotníckych materiálov .....300 eur
 
   - s)
+
+  - Rozhodovanie o žiadosti o zvýšení úradne určenej ceny dietetickej potraviny zaradenej v zozname kategorizovaných dietetických potravín .....300 eur
+
+  - t)
+
+  - Rozhodovanie o žiadosti o zmenu charakteristík referenčnej skupiny .....1 600 eur
+
+  - u)
 
   - Rozhodovanie o žiadosti o zmenu charakteristík podskupiny zdravotníckych
 
   - pomôcok .......................................................... 600 eur
 
-  - t)
+  - v)
+
+  - Rozhodovanie o žiadosti o zmenu charakteristík podskupiny zdravotníckych pomôcok na mieru.............................................................. 600 eur
+
+  - w)
 
   - Rozhodovanie o žiadosti o zmenu charakteristík podskupiny špeciálnych zdravotníckych materiálov .....600 eur
 
-  - u)
+  - x)
 
   - Rozhodovanie o žiadosti o zmenu charakteristík podskupiny dietetických
 
   - potravín ................................600 eur
 
-  - v)
+  - y)
 
   - Rozhodovanie o žiadosti o vyradení lieku zo zoznamu kategorizovaných liekov.......600 eur
 
-  - w)
+  - z)
 
   - Rozhodovanie o žiadosti o vyradení zdravotníckej pomôcky zo zoznamu kategorizovaných zdravotníckych pomôcok.......600 eur
 
-  - x)
+  - aa)
+
+  - Rozhodovanie o žiadosti o vyradení zdravotníckej pomôcky zo zoznamu kategorizovaných zdravotníckych pomôcok na mieru...........................600 eur
+
+  - ab)
 
   - Rozhodovanie o žiadosti o vyradení zdravotníckej pomôcky zo zoznamu kategorizovaných špeciálnych zdravotníckych materiálov.......600 eur
 
-  - y)
+  - ac)
 
   - Rozhodovanie o žiadosti o vyradení dietetickej potraviny zo zoznamu kategorizovaných dietetických potravín......600 eur
 
-  - z)
+  - ad)
 
   - Vydanie rozhodnutia o registrácii distribútora zdravotníckej pomôcky podľa osobitného predpisu<sup>36mh</sup>) .......500 eur
 
-  - aa)
+  - ae)
 
   - Konanie o povolenie klinického skúšania zdravotníckej pomôcky<sup>36mi</sup>) .......500 eur
 
-  - ab)
+  - af)
 
   - Posúdenie oznámenia
 
@@ -4736,11 +4752,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - o klinickom skúšaní zdravotníckej pomôcky s označením CE<sup>36mk</sup>) .......500 eur
 
-  - ac)
+  - ag)
 
   - Vydanie certifikátu o voľnom predaji zdravotníckej pomôcky a diagnostickej zdravotníckej pomôcky in vitro...........300 eur
 
-  - ad)
+  - ah)
 
   - Klinické skúšanie humánneho lieku
 
@@ -4882,61 +4898,59 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Oslobodenie
 
-    - Od poplatkov podľa písmen s) až v) je účastník konania oslobodený, ak predmetom žiadosti je
+    - Od poplatkov podľa písmen t) až x) je účastník konania oslobodený, ak predmetom žiadosti je
 
-      - 1. zníženie maximálnej výšky úhrady zdravotnej poisťovne za štandardnú dávku liečiva,
+    - 1. zníženie maximálnej výšky úhrady zdravotnej poisťovne za štandardnú dávku liečiva,
 
-      - 2. zníženie maximálnej výšky úhrady zdravotnej poisťovne za zdravotnícku pomôcku zaradenú
+    - 2. zníženie maximálnej výšky úhrady zdravotnej poisťovne za zdravotnícku pomôcku zaradenú v podskupine zdravotníckych pomôcok,
 
-      - v podskupine zdravotníckych pomôcok,
+    - 3. zníženie maximálnej výšky úhrady zdravotnej poisťovne za zdravotnícku pomôcku zaradenú v podskupine zdravotníckych pomôcok na mieru,
 
-      - 3. zníženie maximálnej výšky úhrady zdravotnej poisťovne za zdravotnícku pomôcku zaradenú
+    - 4. zníženie maximálnej výšky úhrady zdravotnej poisťovne za zdravotnícku pomôcku zaradenú v podskupine špeciálnych zdravotníckych materiálov,
 
-      - v podskupine špeciálnych zdravotníckych materiálov,
+    - 5. zníženie maximálnej výšky úhrady zdravotnej poisťovne za jednotku referenčnej dávky dietetickej potraviny,
 
-      - 4. zníženie maximálnej výšky úhrady zdravotnej poisťovne za jednotku referenčnej dávky dietetickej potraviny,
+    - 6. zúženie preskripčného obmedzenia,
 
-      - 5. zúženie preskripčného obmedzenia,
+    - 7. zúženie indikačného obmedzenia,
 
-      - 6. zúženie indikačného obmedzenia,
+    - 8. zníženie množstvového limitu alebo
 
-      - 7. zníženie množstvového limitu alebo
-
-      - 8. zníženie finančného limitu.
+    - 9. zníženie finančného limitu.
 
     - Poznámky
 
-      - 1. Zmena v registrácii podmienená nariadením Európskej komisie sa nespoplatňuje.
+    - 1. Zmena v registrácii podmienená nariadením Európskej komisie sa nespoplatňuje.
 
-      - 2. Poplatok podľa písmena f) až y) musí byť uhradený najneskôr do siedmich dní odo dňa doručenia žiadosti, inak sa konanie zastaví.
+    - 2. Poplatok podľa písmen f) až ac) musí byť uhradený najneskôr do siedmich dní odo dňa doručenia žiadosti, inak sa konanie zastaví.
 
-      - 3. Ak konanie podľa písmen f) až y) bolo zastavené, uhradené poplatky sa nevracajú.
+    - 3. Ak konanie podľa písmen f) až ac) bolo zastavené, uhradené poplatky sa nevracajú.
 
-      - 4. Poplatok podľa písmena h) sa zníži o
+    - 4. Poplatok podľa písmena h) sa zníži o
 
-        - a) 40 %, ak je navrhovaná celková suma úhrad za liek alebo za spoločne posudzované lieky do 400 000 eur za 24 po sebe nasledujúcich mesiacov od nadobudnutia vykonateľnosti rozhodnutia o zaradení lieku do zoznamu kategorizovaných liekov,
+    - a) 40 %, ak je navrhovaná celková suma úhrad za liek alebo za spoločne posudzované lieky do 400 000 eur za 24 po sebe nasledujúcich mesiacov od nadobudnutia vykonateľnosti rozhodnutia o zaradení lieku do zoznamu kategorizovaných liekov,
 
-        - b) 25 %, ak je navrhovaná celková suma úhrad za liek alebo za spoločne posudzované lieky viac ako 400 000 eur, ale menej ako 1 000 000 eur za 24 po sebe nasledujúcich mesiacov od nadobudnutia vykonateľnosti rozhodnutia o zaradení lieku do zoznamu kategorizovaných liekov.
+    - b) 25 %, ak je navrhovaná celková suma úhrad za liek alebo za spoločne posudzované lieky viac ako 400 000 eur, ale menej ako 1 000 000 eur za 24 po sebe nasledujúcich mesiacov od nadobudnutia vykonateľnosti rozhodnutia o zaradení lieku do zoznamu kategorizovaných liekov.
 
-      - 6. Poplatok podľa písmen k) až m) sa zníži o
+    - 6. Poplatok podľa písmen k) až n) sa zníži o
 
-        - a) 75 %, ak je navrhovaná celková suma úhrad za zdravotnícku pomôcku alebo dietetickú potravinu najviac 2 000 eur za 24 po sebe nasledujúcich mesiacov od nadobudnutia vykonateľnosti rozhodnutia o zaradení zdravotníckej pomôcky do zoznamu kategorizovaných zdravotníckych pomôcok alebo rozhodnutia o zaradení dietetickej potraviny do zoznamu kategorizovaných dietetických potravín,
+    - a) 75 %, ak je navrhovaná celková suma úhrad za zdravotnícku pomôcku alebo dietetickú potravinu najviac 2 000 eur za 24 po sebe nasledujúcich mesiacov od nadobudnutia vykonateľnosti rozhodnutia o zaradení zdravotníckej pomôcky do zoznamu kategorizovaných zdravotníckych pomôcok alebo rozhodnutia o zaradení dietetickej potraviny do zoznamu kategorizovaných dietetických potravín,
 
-        - b) 50 %, ak je navrhovaná celková suma úhrad za zdravotnícku pomôcku alebo dietetickú potravinu viac ako 2 000 eur, ale menej ako 100 000 eur za 24 po sebe nasledujúcich mesiacov od nadobudnutia vykonateľnosti rozhodnutia o zaradení zdravotníckej pomôcky do zoznamu kategorizovaných zdravotníckych pomôcok alebo rozhodnutia o zaradení dietetickej potraviny do zoznamu kategorizovaných dietetických potravín.
+    - b) 50 %, ak je navrhovaná celková suma úhrad za zdravotnícku pomôcku alebo dietetickú potravinu viac ako 2 000 eur, ale menej ako 100 000 eur za 24 po sebe nasledujúcich mesiacov od nadobudnutia vykonateľnosti rozhodnutia o zaradení zdravotníckej pomôcky do zoznamu kategorizovaných zdravotníckych pomôcok alebo rozhodnutia o zaradení dietetickej potraviny do zoznamu kategorizovaných dietetických potravín.
 
-      - 7. Poplatok podľa písmena v) sa zníži o
+    - 7. Poplatok podľa písmena y) sa zníži o
 
-        - a) 100 %, ak je reálna celková suma úhrad za liek alebo za spoločne posudzované lieky najviac 10 000 eur za 12 kalendárnych mesiacov predchádzajúcich dňu podania žiadosti,
+    - a) 100 %, ak je reálna celková suma úhrad za liek alebo za spoločne posudzované lieky najviac 10 000 eur za 12 kalendárnych mesiacov predchádzajúcich dňu podania žiadosti,
 
-        - b) 50 %, ak je reálna celková suma úhrad za liek alebo za spoločne posudzované lieky viac ako 10 000 eur, ale menej ako 50 000 eur za 12 kalendárnych mesiacov predchádzajúcich dňu podania žiadosti.
+    - b) 50 %, ak je reálna celková suma úhrad za liek alebo za spoločne posudzované lieky viac ako 10 000 eur, ale menej ako 50 000 eur za 12 kalendárnych mesiacov predchádzajúcich dňu podania žiadosti.
 
-      - 8. Poplatok podľa písmen w) až y) sa zníži o
+    - 8. Poplatok podľa písmen z) až ac) sa zníži o
 
-        - a) 100 %, ak je reálna celková suma úhrad za zdravotnícku pomôcku alebo dietetickú potravinu najviac 1 000 eur za 12 kalendárnych mesiacov predchádzajúcich dňu podania žiadosti,
+    - a) 100 %, ak je reálna celková suma úhrad za zdravotnícku pomôcku alebo dietetickú potravinu najviac 1 000 eur za 12 kalendárnych mesiacov predchádzajúcich dňu podania žiadosti,
 
-        - b) 50 %, ak je reálna celková suma úhrad za zdravotnícku pomôcku alebo dietetickú potravinu viac ako 1 000 eur, ale menej ako 50 000 eur za 12 kalendárnych mesiacov predchádzajúcich dňu podania žiadosti.
+    - b) 50 %, ak je reálna celková suma úhrad za zdravotnícku pomôcku alebo dietetickú potravinu viac ako 1 000 eur, ale menej ako 50 000 eur za 12 kalendárnych mesiacov predchádzajúcich dňu podania žiadosti.
 
-      - 9. Poplatok podľa písmena ad) sa znižuje na 5 eur, ak ide o nekomerčné klinické skúšanie.
+    - 9. Poplatok podľa písmena ah) sa znižuje na 5 eur, ak ide o nekomerčné klinické skúšanie.
 
   - Položka 152a
 
