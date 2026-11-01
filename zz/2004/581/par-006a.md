@@ -18,7 +18,7 @@
 
 - f) refundácia úhrady pri poskytovaní zdravotnej starostlivosti v rámci ústavnej pohotovostnej služby podľa osobitného predpisu,<sup>18c</sup>)
 
-- g) príspevok na činnosť Národného inštitútu pre hodnotu a technológie v zdravotníctve<sup>18d</sup>) (ďalej len „inštitút“) (§ 15a).
+- g) príspevok na činnosť inštitútu (§ 15a).
 
 (4) Predpísané poistné v hrubej výške je úhrn predpísaného poistného zaúčtovaného v účtovnom období, v ktorom sa kladný výsledok hospodárenia vytvoril, podľa auditovanej účtovnej závierky. Vplyv prerozdeľovania poistného je súčet všetkých výnosov súvisiacich s mesačným prerozdeľovaním preddavkov na poistné a ročným prerozdeľovaním poistného znížený o súčet všetkých nákladov súvisiacich s mesačným prerozdeľovaním preddavkov na poistné a ročným prerozdeľovaním poistného, ktoré zdravotná poisťovňa zaúčtovala v kalendárnom roku na základe rozhodnutia úradu alebo ako rezervu, ak nemala v čase účtovnej závierky rozhodnutie úradu k dispozícii.
 

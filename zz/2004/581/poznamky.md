@@ -94,6 +94,8 @@
 
 - 17f) § 90 ods. 3 a 4 alebo § 96 ods. 2 zákona č. 363/2011 Z. z. v znení zákona č. 266/2022 Z. z.
 
+- 17fa) § 16 ods. 11 a § 93 ods. 2 zákona č. 363/2011 Z. z. v znení zákona č. 258/2026 Z. z.
+
 - 17g) § 9a, § 9b a 9d zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
 - 18) Zákon č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 270/2008 Z. z.
