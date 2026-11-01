@@ -1,0 +1,7 @@
+# § 8d Pravidlá uznávania a uhrádzania vykázaných zdravotných výkonov
+
+(1) Zdravotná poisťovňa je povinná uverejniť na svojom webovom sídle pravidlá uznávania a uhrádzania vykázaných zdravotných výkonov uplatňované pri kontrolnej činnosti (ďalej len „pravidlá kontrolnej činnosti“), ktoré majú vplyv na úhradu zdravotnej starostlivosti, a to vo vzťahu ku všetkým typom zdravotnej starostlivosti.
+
+(2) Zdravotná poisťovňa je povinná každú zmenu pravidiel kontrolnej činnosti, zverejnených podľa odseku 1, preukázateľne oznamovať poskytovateľovi zdravotnej starostlivosti najneskôr 30 dní pred nadobudnutím účinnosti zmeny pravidiel kontrolnej činnosti. Za preukázateľné oznámenie sa považuje zverejnenie informácie o konkrétnej zmene na webovom sídle zdravotnej poisťovne, v elektronickej pobočke zdravotnej poisťovne alebo písomné oznámenie o zmene zaslané poskytovateľovi zdravotnej starostlivosti, s ktorým má zdravotná poisťovňa uzatvorenú zmluvu o poskytovaní zdravotnej starostlivosti. Počas mimoriadnej situácie, núdzového stavu alebo výnimočného stavu vyhláseného vládou Slovenskej republiky v súvislosti s ohrozením verejného zdravia alebo ohrozením verejného zdravia II. stupňa je zdravotná poisťovňa povinná oznámiť zmenu pravidiel kontrolnej činnosti, zverejnených podľa odseku 1, bezodkladne.
+
+(3) Ak zdravotná poisťovňa neuzná poskytovateľovi zdravotnej starostlivosti vykázaný zdravotný výkon, je povinná to riadne odôvodniť a poučiť poskytovateľa zdravotnej starostlivosti o správnom spôsobe vykazovania zdravotného výkonu.

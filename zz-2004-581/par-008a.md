@@ -1,0 +1,3 @@
+# § 8a Príspevok na zabezpečenie zdravotnej starostlivosti
+
+Zdravotná poisťovňa poukazuje na účet ministerstva zdravotníctva príspevok na činnosti operačných stredísk tiesňového volania záchrannej zdravotnej služby<sup>27a</sup>) v štvrťročných splátkach. Štvrťročné splátky príspevku sa uhrádzajú v kalendárnom roku do 5. januára, 20. apríla, 20. júla a 20. októbra. Výška štvrťročnej splátky je 25 % z výšky príspevku a zaokrúhľuje sa na eurocent nahor. Výška príspevku je 0,40 % zo základu na jej určenie. Základom na určenie výšky príspevku je celková suma z ročného prerozdeľovania poistného<sup>27aa</sup>) uvedená v rozhodnutí o ročnom prerozdeľovaní poistného podľa osobitného prepisu<sup>27b</sup>) zaslanom v predchádzajúcom kalendárnom roku.
