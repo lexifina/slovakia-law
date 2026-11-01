@@ -1,0 +1,3 @@
+# § 80ax
+
+Základná zložka mzdy<sup>60aa</sup>) asistenta prepravy [§ 27 ods. 1 písm. w)], ktorý získal odbornú spôsobilosť na výkon odborných pracovných činností (§ 33 ods. 2) a vykonáva odborné pracovné činnosti v rozsahu získaného vzdelania v pracovnom pomere na ustanovený týždenný pracovný čas v zdravotníckom zariadení podľa § 7 ods. 2 u poskytovateľa, ktorý prevádzkuje ambulanciu záchrannej zdravotnej služby, je najmenej 0,75-násobok priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa priznáva základná zložka mzdy.

@@ -1,0 +1,3 @@
+# § 102j
+
+Ak zanikne rozdelením, zlúčením alebo splynutím príspevková organizácia zriadená obcou alebo vyšším územným celkom podľa osobitného predpisu,<sup>81</sup>) ktorá je držiteľom povolenia na prevádzkovanie ambulancie záchrannej zdravotnej služby podľa § 11 ods. 1 písm. a), môže jej právny nástupca vykonávať činnosť v poskytovaní zdravotnej starostlivosti v rozsahu prevádzkovania ambulancie záchrannej zdravotnej služby podľa § 11 ods. 1 písm. a), ktorú vykonáva zanikajúca príspevková organizácia, a to do 12 kalendárnych mesiacov odo dňa vzniku právneho nástupcu, najdlhšie do 31. decembra 2012.

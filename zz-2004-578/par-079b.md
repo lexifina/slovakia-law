@@ -1,0 +1,15 @@
+# § 79b
+
+(1) Poskytovateľ, ktorý je držiteľom povolenia alebo držiteľom licencie na výkon samostatnej zdravotníckej praxe, je povinný poskytnúť poistencovi iného členského štátu, ktorý sa preukáže európskym preukazom zdravotného poistenia alebo náhradným certifikátom k európskemu preukazu zdravotného poistenia,<sup>55jaa</sup>) potrebnú zdravotnú starostlivosť,<sup>55jac</sup>) ktorú uhrádza zdravotná poisťovňa, ktorú si poistenec iného členského štátu vybral ako inštitúciu miesta pobytu.<sup>58cb</sup>)
+
+(2) Poskytovateľ, ktorý je držiteľom povolenia alebo držiteľom licencie na výkon samostatnej zdravotníckej praxe, je povinný poskytnúť poistencovi iného členského štátu, ktorý sa preukáže nárokovým dokladom podľa osobitného predpisu,<sup>58cc</sup>) zdravotnú starostlivosť v plnom rozsahu,<sup>55jad</sup>) ktorú uhrádza zdravotná poisťovňa, ktorú si poistenec iného členského štátu vybral ako inštitúciu miesta bydliska.<sup>58cb</sup>)
+
+(3) Poskytovateľ, ktorý je držiteľom povolenia alebo držiteľom licencie na výkon samostatnej zdravotníckej praxe, je povinný poskytnúť poistencovi iného členského štátu, ktorý sa preukáže nárokovým dokladom podľa osobitného predpisu,<sup>58cd</sup>) zdravotnú starostlivosť so súhlasom inštitúcie, ktorá vykonáva sociálne zabezpečenie v inom členskom štáte,<sup>55jae</sup>) ktorú uhrádza zdravotná poisťovňa, ktorú si poistenec iného členského štátu vybral ako inštitúciu miesta bydliska alebo inštitúciu miesta pobytu.<sup>58cb</sup>)
+
+(4) Zdravotná starostlivosť podľa odsekov 1 až 3 sa poskytuje za rovnakých podmienok a v rovnakých úhradách ako poistencom v rozsahu podľa osobitného predpisu.<sup>58ce</sup>) Poskytovateľ, ktorý je držiteľom povolenia alebo držiteľom licencie na výkon samostatnej zdravotníckej praxe, nesmie požadovať od poistenca iného členského štátu úhradu za zdravotnú starostlivosť a služby súvisiace s poskytovaním zdravotnej starostlivosti nad rozsah spoluúčasti poistenca podľa osobitného predpisu.<sup>58ce</sup>)
+
+(5) Ustanovenia odsekov 1 až 4 sa nepoužijú, ak osoba trvá na poskytnutí cezhraničnej zdravotnej starostlivosti,<sup>55jab</sup>) ktorú uhrádza poistenec iného členského štátu Európskej únie priamo poskytovateľovi, ktorý je držiteľom povolenia alebo držiteľom licencie na výkon samostatnej zdravotníckej praxe, podľa zverejneného cenníka.
+
+(6) Poskytovateľ, ktorý je držiteľom povolenia alebo držiteľom licencie na výkon samostatnej zdravotníckej praxe, nesmie pri poskytovaní zdravotnej starostlivosti podľa odsekov 1 až 4 uprednostňovať poistenca z iného členského štátu pred poskytovaním zdravotnej starostlivosti poistencovi, ktorý čaká na poskytnutie zdravotnej starostlivosti.<sup>58a</sup>)
+
+(7) Poskytovateľ, ktorý je držiteľom povolenia alebo držiteľom licencie na výkon samostatnej zdravotníckej praxe, je povinný poskytnúť zdravotnú starostlivosť cudzincovi s poskytnutou doplnkovou ochranou, ktorá sa preukáže preukazom cudzinca s poskytnutou doplnkovou ochranou o nároku na úhradu zdravotnej starostlivosti.<sup>58cf</sup>)

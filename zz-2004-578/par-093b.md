@@ -1,0 +1,3 @@
+# § 93b
+
+Lekári, ktorí vykonávajú lekársku posudkovú činnosť na inom mieste ako v zdravotníckom zariadení, sú oprávnení vykonávať lekársku posudkovú činnosť bez licencie na výkon lekárskej posudkovej činnosti aj po 31. decembri 2009, ak to ustanovuje osobitný predpis<sup>72a</sup>) a ak sú zaradení do špecializačného štúdia alebo certifikačnej prípravy v odbore posudkové lekárstvo; najdlhšie však tri roky od začiatku vykonávania lekárskej posudkovej činnosti. Štúdium v špecializačnom študijnom programe alebo certifikačnom študijnom programe v odbore posudkové lekárstvo sa preukazuje raz za rok potvrdením od príslušnej vzdelávacej ustanovizne (§ 40 a 101).

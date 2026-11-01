@@ -1,0 +1,5 @@
+# § 102q Prechodné ustanovenia k úpravám účinným od 1. júla 2014
+
+(1) Poskytovateľ, ktorý poskytuje špecializovanú ambulantnú zdravotnú starostlivosť na základe povolenia vydaného podľa predpisov účinných do 30. júna 2014 v špecializačnom odbore, ktorý nie je ustanovený vo všeobecne záväznom právnom predpise vydanom podľa § 7 ods. 6 v znení účinnom od 1. júla 2014 pre poskytovanie špecializovanej ambulantnej zdravotnej starostlivosti v špecializovanej ambulancii podľa prílohy č. 1a, je povinný požiadať o zmenu povolenia najneskôr do 30. júna 2016. Ak poskytovateľ podľa prvej vety v lehote podľa prvej vety o zmenu povolenia nepožiada, alebo nezíska povolenie podľa tohto zákona do 31. decembra 2016, povolenie stráca platnosť 31. decembra 2016. Povinnosť podľa prvej vety sa nevzťahuje na poskytovateľa, ktorý má vydané povolenie na prevádzkovanie ambulancie urgentnej medicíny Horskej záchrannej služby a ambulancie Hasičského záchranného zboru v odbore urgentná medicína.
+
+(2) Poplatok za priebežnú aktualizáciu registra za rok 2014 podľa doterajších predpisov zdravotnícky pracovník uhradí komore príslušnej na vedenie registra do 31. januára 2015.

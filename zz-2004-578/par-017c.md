@@ -1,0 +1,5 @@
+# § 17c Výmena sídla stanice záchrannej zdravotnej služby
+
+(1) Výmenu sídla stanice záchrannej zdravotnej služby možno povoliť na základe spoločnej žiadosti dvoch poskytovateľov záchrannej zdravotnej služby. Výmenu sídla stanice záchrannej zdravotnej služby možno povoliť len v rozsahu dohody o zmene sídla stanice záchrannej zdravotnej služby uzatvorenej medzi poskytovateľmi, ktorí o výmenu sídla žiadajú. Výmena sídla stanice záchrannej zdravotnej služby vyžaduje vydanie nového povolenia alebo nového poverenia, ktorým ministerstvo zdravotníctva súčasne zruší pôvodné povolenie alebo pôvodné poverenie.
+
+(2) V spoločnej žiadosti podľa odseku 1 poskytovatelia záchrannej zdravotnej služby uvedú požadovanú zmenu, dôvody požadovanej zmeny a čestné vyhlásenie, že ostatné údaje, na ktorých základe boli pôvodné povolenia alebo pôvodné poverenia vydané, sa nezmenili; k spoločnej žiadosti poskytovatelia záchrannej zdravotnej služby priložia aj dohodu podľa odseku 1. Na povolenie výmeny sídla stanice záchrannej zdravotnej služby podľa odseku 1 sa § 14 nevzťahuje.

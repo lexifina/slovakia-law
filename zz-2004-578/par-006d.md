@@ -1,0 +1,3 @@
+# § 6d Verejná sieť poskytovateľov primárnej špecializovanej gynekologickej ambulantnej starostlivosti
+
+Verejnú sieť poskytovateľov primárnej špecializovanej gynekologickej ambulantnej starostlivosti tvoria poskytovatelia primárnej špecializovanej gynekologickej ambulantnej starostlivosti, ktorí prevádzkujú aspoň jednu verejne dostupnú primárnu gynekologicko-pôrodnícku ambulanciu, majú uzatvorenú zmluvu o poskytovaní zdravotnej starostlivosti aspoň s jednou zdravotnou poisťovňou a zároveň majú aspoň jedného kapitovaného poistenca, ktorému poskytujú primárnu špecializovanú gynekologickú ambulantnú starostlivosť.

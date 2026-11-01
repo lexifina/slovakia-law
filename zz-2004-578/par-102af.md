@@ -1,0 +1,5 @@
+# § 102af Prechodné ustanovenia k úpravám účinným od 1. apríla 2018
+
+(1) Poskytovateľ, ktorý má povolenie na prevádzkovanie zdravotníckeho zariadenia vydané do 31. marca 2018 a ktorý pri poskytovaní zdravotnej starostlivosti vykonáva lekárske ožiarenie, je povinný doplniť systém kvality podľa § 9a do 30. júna 2018. Na poskytovateľa podľa prvej vety sa povinnosť podľa § 79 ods. 1 písm. az) vzťahuje od 1. júla 2018.
+
+(2) Poskytovateľ, ktorý má povolenie na prevádzkovanie zdravotníckeho zariadenia vydané do 31. marca 2018, je povinný do 31. decembra 2020 zabezpečiť odbornú prípravu v radiačnej ochrane osobou, ktorá má povolenie vydané Úradom verejného zdravotníctva Slovenskej republiky podľa osobitného predpisu,<sup>55jawb</sup>) pre zdravotníckeho pracovníka, ktorý u tohto poskytovateľa vykonáva zdravotnícke povolanie k 1. aprílu 2018 a ktorý indikuje lekárske ožiarenie alebo ktorý vykonáva lekárske ožiarenie, ak tento zdravotnícky pracovník neabsolvoval odbornú prípravu v radiačnej ochrane alebo odborná príprava v radiačnej ochrane nebola obsahom odbornej prípravy na výkon zdravotníckeho povolania alebo nebola obsahom špecializačného štúdia.

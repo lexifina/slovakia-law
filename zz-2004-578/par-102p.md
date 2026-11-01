@@ -1,0 +1,3 @@
+# § 102p Prechodné ustanovenia k úpravám účinným od 1. januára 2014
+
+Základná zložka mzdy<sup>60aa</sup>) lekára a zubného lekára [§ 27 ods. 1 písm. a) a b)] pracujúceho v pracovnom pomere na ustanovený týždenný pracovný čas v zariadení ústavnej zdravotnej starostlivosti (§ 7 ods. 4), ktorý získal odbornú spôsobilosť na výkon špecializovaných pracovných činností (§ 33 ods. 4) v špecializačnom odbore a vykonáva špecializované pracovné činnosti v príslušnom špecializačnom odbore, je najmenej 2,10-násobok priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa priznáva základná zložka mzdy.
