@@ -284,6 +284,8 @@
 
 - 44) § 50 ods. 3 písm. c) zákona č. 581/2004 Z. z. v znení zákona č. 353/2005 Z. z.
 
+- 44a) § 138 ods. 16 písm. f) zákona č. 362/2011 Z. z. v znení zákona č. 258/2026 Z. z.
+
 - 45) § 6 až 17, § 26 až 34, § 39 až 41, § 43 až 44d a § 45a zákona č. 576/2004 Z. z. v znení neskorších predpisov.
 
 - § 119 a 120 zákona č. 362/2011 Z. z. v znení neskorších predpisov.

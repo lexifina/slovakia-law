@@ -1,6 +1,6 @@
 # § 17a Určenie náhradného odborného zástupcu
 
-(1) Držiteľ povolenia určí náhradného odborného zástupcu, ak odborný zástupca zomrel alebo z iného dôvodu náhle alebo neočakávane prestal alebo nemôže vykonávať činnosť odborného zástupcu. Náhradného odborného zástupcu nemožno určiť, ak odborný zástupca držiteľa povolenia stratil oprávnenie vykonávať činnosť odborného zástupcu v dôsledku zrušenia licencie na výkon činnosti odborného zástupcu podľa § 74 ods. 1 písm. c) až g).
+(1) Držiteľ povolenia určí náhradného odborného zástupcu, ak odborný zástupca zomrel alebo z iného dôvodu náhle alebo neočakávane prestal alebo nemôže vykonávať činnosť odborného zástupcu. Náhradného odborného zástupcu nemožno určiť, ak odborný zástupca držiteľa povolenia stratil oprávnenie vykonávať činnosť odborného zástupcu v dôsledku zrušenia licencie na výkon činnosti odborného zástupcu podľa § 74 ods. 1 písm. c) až h).
 
 (2) Náhradného odborného zástupcu možno určiť najviac na 60 dní odo dňa skutočnosti zakladajúcej ukončenie vykonávania činnosti odborného zástupcu (odsek 1); po uplynutí ustanovenej lehoty nemožno určiť ďalšieho náhradného odborného zástupcu. Náhradným odborným zástupcom môže byť aj odborný zástupca iného držiteľa povolenia.
 
