@@ -1,0 +1,11 @@
+# § 87d
+
+(1) Zdravotná poisťovňa sprístupňuje v elektronickej podobe poskytovateľovi lekárenskej starostlivosti zoznam poistencov, ktorí majú nárok na limit spoluúčasti podľa § 87c ods. 1 (ďalej len „dôchodca“) a ktorí splnia podmienky zaradenia do zoznamu poistencov, v rozsahu meno, priezvisko, rodné číslo poistenca, ak ide o cudzinca, ktorý nemá pridelené rodné číslo, bezvýznamové identifikačné číslo a dátum narodenia.
+
+(2) Do zoznamu poistencov podľa odseku 1 zdravotná poisťovňa zaradí poistenca, ktorý je k prvému dňu kalendárneho štvrťroka poistencom podľa § 87c ods. 1 a nie je zamestnancom ani samostatne zárobkovo činnou osobou a jeho priznaný mesačný dôchodok nie je vyšší ako 60 % priemernej nominálnej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa zoznam poskytovateľovi lekárenskej starostlivosti sprístupňuje.
+
+(3) Zoznam poistencov podľa odseku 1 zdravotná poisťovňa aktualizuje najmenej raz mesačne k 20. dňu kalendárneho mesiaca.
+
+(4) Ak sa poistenec zverejnený v zozname poistencov podľa odseku 1 stane zamestnancom alebo samostatne zárobkovo činnou osobou, je zo zoznamu poistencov podľa odseku 1 vyradený. Ak došlo k vyradeniu poistenca podľa predchádzajúcej vety, zdravotná poisťovňa prehodnotí nárok poistenca na limit spoluúčasti v období kalendárneho štvrťroka, v ktorom došlo k vyradeniu poistenca zo zoznamu poistencov podľa odseku 1. Ak poistenec nesplní v kalendárnom štvrťroku nárok na limit spoluúčasti podľa § 87c ods. 1, zdravotnej poisťovni vzniká voči poistencovi nárok na vrátenie doplatkov, ktoré zdravotná poisťovňa v kalendárnom štvrťroku uhradila poskytovateľovi lekárenskej starostlivosti nad rámec limitu spoluúčasti, na ktorý má poistenec nárok.
+
+(5) Zdravotná poisťovňa vyčísli výšku doplatkov podľa odseku 4, ktoré zdravotná poisťovňa v kalendárnom štvrťroku uhradila poskytovateľovi lekárenskej starostlivosti podľa odseku 4, a zašle poistencovi oznámenie o ich výške najneskôr do 90 dní po skončení kalendárneho štvrťroka. Na vymáhanie pohľadávky podľa predchádzajúcej vety sa primerane použijú ustanovenia osobitného predpisu.<sup>17e</sup>)
