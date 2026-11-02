@@ -7639,6 +7639,16 @@
 "zb-1973-165/prilohy/priloha-priloha_1.md",
 "zb-1973-165/prilohy/priloha-priloha_2.md"
 ],
+"zb-1973-168": [
+"zb-1973-168/uvod.md",
+"zb-1973-168/par-001.md",
+"zb-1973-168/par-002.md",
+"zb-1973-168/par-003.md",
+"zb-1973-168/par-004.md",
+"zb-1973-168/par-005.md",
+"zb-1973-168/par-006.md",
+"zb-1973-168/zaver.md"
+],
 "zb-1973-37": [
 "zb-1973-37/uvod.md",
 "zb-1973-37/par-001.md",
@@ -7664,6 +7674,24 @@
 "zb-1973-37/par-021.md",
 "zb-1973-37/par-022.md",
 "zb-1973-37/zaver.md"
+],
+"zb-1973-69": [
+"zb-1973-69/uvod.md",
+"zb-1973-69/par-001.md",
+"zb-1973-69/par-002.md",
+"zb-1973-69/zaver.md"
+],
+"zb-1973-70": [
+"zb-1973-70/uvod.md",
+"zb-1973-70/par-001.md",
+"zb-1973-70/par-002.md",
+"zb-1973-70/zaver.md"
+],
+"zb-1973-88": [
+"zb-1973-88/uvod.md",
+"zb-1973-88/par-001.md",
+"zb-1973-88/par-002.md",
+"zb-1973-88/zaver.md"
 ],
 "zb-1974-128": [
 "zb-1974-128/uvod.md",
@@ -7899,6 +7927,23 @@
 "zb-1975-146/par-004.md",
 "zb-1975-146/zaver.md"
 ],
+"zb-1975-18": [
+"zb-1975-18/uvod.md",
+"zb-1975-18/par-001.md",
+"zb-1975-18/par-002.md",
+"zb-1975-18/par-003.md",
+"zb-1975-18/par-004.md",
+"zb-1975-18/par-005.md",
+"zb-1975-18/par-006.md",
+"zb-1975-18/par-007.md",
+"zb-1975-18/par-008.md",
+"zb-1975-18/par-009.md",
+"zb-1975-18/par-010.md",
+"zb-1975-18/par-011.md",
+"zb-1975-18/par-012.md",
+"zb-1975-18/zaver.md",
+"zb-1975-18/poznamky.md"
+],
 "zb-1975-21": [
 "zb-1975-21/uvod.md",
 "zb-1975-21/par-001.md",
@@ -7911,6 +7956,64 @@
 "zb-1975-21/par-008.md",
 "zb-1975-21/par-009.md",
 "zb-1975-21/zaver.md"
+],
+"zb-1975-25": [
+"zb-1975-25/uvod.md",
+"zb-1975-25/par-001.md",
+"zb-1975-25/par-002.md",
+"zb-1975-25/par-003.md",
+"zb-1975-25/par-004.md",
+"zb-1975-25/zaver.md",
+"zb-1975-25/prilohy/priloha-text.md",
+"zb-1975-25/poznamky.md"
+],
+"zb-1975-26": [
+"zb-1975-26/uvod.md",
+"zb-1975-26/par-001.md",
+"zb-1975-26/par-002.md",
+"zb-1975-26/par-003.md",
+"zb-1975-26/par-004.md",
+"zb-1975-26/par-005.md",
+"zb-1975-26/par-006.md",
+"zb-1975-26/par-007.md",
+"zb-1975-26/par-008.md",
+"zb-1975-26/par-009.md",
+"zb-1975-26/par-010.md",
+"zb-1975-26/par-011.md",
+"zb-1975-26/par-012.md",
+"zb-1975-26/par-013.md",
+"zb-1975-26/par-014.md",
+"zb-1975-26/zaver.md",
+"zb-1975-26/prilohy/priloha-priloha_nariadenia_vlady_csr_c_26_1975_zb.md",
+"zb-1975-26/poznamky.md"
+],
+"zb-1975-27": [
+"zb-1975-27/uvod.md",
+"zb-1975-27/par-001.md",
+"zb-1975-27/par-002.md",
+"zb-1975-27/par-003.md",
+"zb-1975-27/par-004.md",
+"zb-1975-27/par-005.md",
+"zb-1975-27/par-007.md",
+"zb-1975-27/par-008.md",
+"zb-1975-27/par-009.md",
+"zb-1975-27/par-010.md",
+"zb-1975-27/par-011.md",
+"zb-1975-27/par-012.md",
+"zb-1975-27/par-013.md",
+"zb-1975-27/par-014.md",
+"zb-1975-27/par-015.md",
+"zb-1975-27/par-016.md",
+"zb-1975-27/par-017.md",
+"zb-1975-27/par-018.md",
+"zb-1975-27/par-018-dup1.md",
+"zb-1975-27/par-020.md",
+"zb-1975-27/par-021.md",
+"zb-1975-27/par-022.md",
+"zb-1975-27/par-023.md",
+"zb-1975-27/par-024.md",
+"zb-1975-27/zaver.md",
+"zb-1975-27/poznamky.md"
 ],
 "zb-1975-36": [
 "zb-1975-36/uvod.md",
@@ -8377,6 +8480,14 @@
 "zb-1976-150/prilohy/priloha-priloha_1.md",
 "zb-1976-150/prilohy/priloha-priloha_2.md"
 ],
+"zb-1976-3": [
+"zb-1976-3/uvod.md",
+"zb-1976-3/par-001.md",
+"zb-1976-3/par-002.md",
+"zb-1976-3/par-003.md",
+"zb-1976-3/par-004.md",
+"zb-1976-3/zaver.md"
+],
 "zb-1976-51": [
 "zb-1976-51/uvod.md",
 "zb-1976-51/par-001_az_3.md",
@@ -8492,6 +8603,13 @@
 "zb-1976-77/par-012.md",
 "zb-1976-77/par-013.md",
 "zb-1976-77/zaver.md"
+],
+"zb-1976-93": [
+"zb-1976-93/uvod.md",
+"zb-1976-93/par-001.md",
+"zb-1976-93/par-002.md",
+"zb-1976-93/par-003.md",
+"zb-1976-93/zaver.md"
 ],
 "zb-1977-36": [
 "zb-1977-36/uvod.md",
