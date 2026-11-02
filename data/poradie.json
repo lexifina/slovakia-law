@@ -23223,6 +23223,17 @@
 "zz-1993-282/zaver.md",
 "zz-1993-282/poznamky.md"
 ],
+"zz-1993-283": [
+"zz-1993-283/uvod.md",
+"zz-1993-283/par-001.md",
+"zz-1993-283/par-002.md",
+"zz-1993-283/par-003.md",
+"zz-1993-283/par-004.md",
+"zz-1993-283/par-004a.md",
+"zz-1993-283/par-005.md",
+"zz-1993-283/zaver.md",
+"zz-1993-283/poznamky.md"
+],
 "zz-1993-300": [
 "zz-1993-300/uvod.md",
 "zz-1993-300/par-001.md",
@@ -23586,6 +23597,13 @@
 "zz-1994-12/zaver.md",
 "zz-1994-12/poznamky.md"
 ],
+"zz-1994-126": [
+"zz-1994-126/uvod.md",
+"zz-1994-126/clanok-1.md",
+"zz-1994-126/clanok-2.md",
+"zz-1994-126/clanok-3.md",
+"zz-1994-126/zaver.md"
+],
 "zz-1994-13": [
 "zz-1994-13/uvod.md",
 "zz-1994-13/par-001.md",
@@ -23606,6 +23624,19 @@
 "zz-1994-130/par-003.md",
 "zz-1994-130/zaver.md",
 "zz-1994-130/poznamky.md"
+],
+"zz-1994-135": [
+"zz-1994-135/uvod.md",
+"zz-1994-135/par-001.md",
+"zz-1994-135/par-002.md",
+"zz-1994-135/par-003.md",
+"zz-1994-135/par-004.md",
+"zz-1994-135/par-005.md",
+"zz-1994-135/par-006.md",
+"zz-1994-135/par-007.md",
+"zz-1994-135/par-008.md",
+"zz-1994-135/par-009.md",
+"zz-1994-135/zaver.md"
 ],
 "zz-1994-14": [
 "zz-1994-14/uvod.md",
@@ -23945,6 +23976,25 @@
 "zz-1994-197/prilohy/priloha-2.md",
 "zz-1994-197/poznamky.md"
 ],
+"zz-1994-2": [
+"zz-1994-2/uvod.md",
+"zz-1994-2/par-001.md",
+"zz-1994-2/par-002.md",
+"zz-1994-2/par-003.md",
+"zz-1994-2/par-004.md",
+"zz-1994-2/par-005.md",
+"zz-1994-2/par-006.md",
+"zz-1994-2/par-007.md",
+"zz-1994-2/par-008.md",
+"zz-1994-2/par-009.md",
+"zz-1994-2/par-010.md",
+"zz-1994-2/zaver.md",
+"zz-1994-2/prilohy/priloha-1.md",
+"zz-1994-2/prilohy/priloha-2.md",
+"zz-1994-2/prilohy/priloha-3.md",
+"zz-1994-2/prilohy/priloha-4.md",
+"zz-1994-2/poznamky.md"
+],
 "zz-1994-200": [
 "zz-1994-200/uvod.md",
 "zz-1994-200/par-001.md",
@@ -23987,6 +24037,23 @@
 "zz-1994-200/par-035.md",
 "zz-1994-200/zaver.md",
 "zz-1994-200/poznamky.md"
+],
+"zz-1994-209": [
+"zz-1994-209/uvod.md",
+"zz-1994-209/clanok-1.md",
+"zz-1994-209/clanok-2.md",
+"zz-1994-209/zaver.md"
+],
+"zz-1994-22": [
+"zz-1994-22/uvod.md",
+"zz-1994-22/par-001.md",
+"zz-1994-22/par-002.md",
+"zz-1994-22/par-003.md",
+"zz-1994-22/par-004.md",
+"zz-1994-22/par-005.md",
+"zz-1994-22/par-006.md",
+"zz-1994-22/zaver.md",
+"zz-1994-22/poznamky.md"
 ],
 "zz-1994-221": [
 "zz-1994-221/uvod.md",
@@ -24054,6 +24121,13 @@
 "zz-1994-255/par-011.md",
 "zz-1994-255/zaver.md",
 "zz-1994-255/poznamky.md"
+],
+"zz-1994-266": [
+"zz-1994-266/uvod.md",
+"zz-1994-266/par-001.md",
+"zz-1994-266/par-002.md",
+"zz-1994-266/par-003.md",
+"zz-1994-266/zaver.md"
 ],
 "zz-1994-298": [
 "zz-1994-298/uvod.md",
@@ -24296,12 +24370,97 @@
 "zz-1994-42/prilohy/priloha-priloha_k_zakonu_c_42_1994_z_z.md",
 "zz-1994-42/poznamky.md"
 ],
+"zz-1994-50": [
+"zz-1994-50/uvod.md",
+"zz-1994-50/par-001.md",
+"zz-1994-50/par-002.md",
+"zz-1994-50/par-003.md",
+"zz-1994-50/par-004.md",
+"zz-1994-50/par-005.md",
+"zz-1994-50/par-006.md",
+"zz-1994-50/par-007.md",
+"zz-1994-50/par-008.md",
+"zz-1994-50/par-009.md",
+"zz-1994-50/par-010.md",
+"zz-1994-50/par-011.md",
+"zz-1994-50/par-012.md",
+"zz-1994-50/par-013.md",
+"zz-1994-50/par-013a.md",
+"zz-1994-50/par-013b.md",
+"zz-1994-50/par-013c.md",
+"zz-1994-50/par-014.md",
+"zz-1994-50/par-015.md",
+"zz-1994-50/par-016.md",
+"zz-1994-50/par-017.md",
+"zz-1994-50/par-018.md",
+"zz-1994-50/par-019.md",
+"zz-1994-50/par-020.md",
+"zz-1994-50/par-021.md",
+"zz-1994-50/par-022.md",
+"zz-1994-50/par-023.md",
+"zz-1994-50/par-024.md",
+"zz-1994-50/par-025.md",
+"zz-1994-50/par-026.md",
+"zz-1994-50/par-027.md",
+"zz-1994-50/par-028.md",
+"zz-1994-50/par-029.md",
+"zz-1994-50/par-030.md",
+"zz-1994-50/par-031.md",
+"zz-1994-50/par-032.md",
+"zz-1994-50/par-033.md",
+"zz-1994-50/par-034.md",
+"zz-1994-50/par-035.md",
+"zz-1994-50/par-036.md",
+"zz-1994-50/par-037.md",
+"zz-1994-50/par-038.md",
+"zz-1994-50/par-039.md",
+"zz-1994-50/par-040.md",
+"zz-1994-50/par-041.md",
+"zz-1994-50/par-042.md",
+"zz-1994-50/par-043.md",
+"zz-1994-50/par-044.md",
+"zz-1994-50/par-045.md",
+"zz-1994-50/par-046.md",
+"zz-1994-50/par-046a.md",
+"zz-1994-50/par-047.md",
+"zz-1994-50/par-048.md",
+"zz-1994-50/par-049.md",
+"zz-1994-50/par-049a.md",
+"zz-1994-50/par-049b.md",
+"zz-1994-50/par-050.md",
+"zz-1994-50/par-051.md",
+"zz-1994-50/par-052.md",
+"zz-1994-50/par-053.md",
+"zz-1994-50/zaver.md",
+"zz-1994-50/poznamky.md"
+],
+"zz-1994-62": [
+"zz-1994-62/uvod.md",
+"zz-1994-62/par-001.md",
+"zz-1994-62/par-002.md",
+"zz-1994-62/par-003.md",
+"zz-1994-62/par-004.md",
+"zz-1994-62/par-005.md",
+"zz-1994-62/par-006.md",
+"zz-1994-62/par-007.md",
+"zz-1994-62/par-008.md",
+"zz-1994-62/zaver.md",
+"zz-1994-62/prilohy/priloha-1.md",
+"zz-1994-62/prilohy/priloha-2.md",
+"zz-1994-62/poznamky.md"
+],
 "zz-1994-70": [
 "zz-1994-70/uvod.md",
 "zz-1994-70/par-001.md",
 "zz-1994-70/par-002.md",
 "zz-1994-70/par-003.md",
 "zz-1994-70/zaver.md"
+],
+"zz-1994-73": [
+"zz-1994-73/uvod.md",
+"zz-1994-73/clanok-1.md",
+"zz-1994-73/clanok-2.md",
+"zz-1994-73/zaver.md"
 ],
 "zz-1994-93": [
 "zz-1994-93/uvod.md",
