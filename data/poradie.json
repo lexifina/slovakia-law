@@ -27038,6 +27038,39 @@
 "zz-1998-332/zaver.md",
 "zz-1998-332/poznamky.md"
 ],
+"zz-1998-368": [
+"zz-1998-368/uvod.md",
+"zz-1998-368/par-001.md",
+"zz-1998-368/par-002.md",
+"zz-1998-368/par-003.md",
+"zz-1998-368/zaver.md",
+"zz-1998-368/prilohy/priloha-1.md",
+"zz-1998-368/prilohy/priloha-2.md",
+"zz-1998-368/prilohy/priloha-3.md",
+"zz-1998-368/prilohy/priloha-4.md",
+"zz-1998-368/prilohy/priloha-5.md",
+"zz-1998-368/prilohy/priloha-6.md",
+"zz-1998-368/prilohy/priloha-7.md",
+"zz-1998-368/prilohy/priloha-8.md",
+"zz-1998-368/prilohy/priloha-9.md",
+"zz-1998-368/prilohy/priloha-10.md",
+"zz-1998-368/prilohy/priloha-11.md",
+"zz-1998-368/prilohy/priloha-12.md",
+"zz-1998-368/prilohy/priloha-13.md",
+"zz-1998-368/prilohy/priloha-14.md",
+"zz-1998-368/prilohy/priloha-15.md",
+"zz-1998-368/prilohy/priloha-16.md",
+"zz-1998-368/prilohy/priloha-17.md",
+"zz-1998-368/prilohy/priloha-18.md",
+"zz-1998-368/prilohy/priloha-19.md",
+"zz-1998-368/prilohy/priloha-20.md"
+],
+"zz-1998-384": [
+"zz-1998-384/uvod.md",
+"zz-1998-384/clanok-1.md",
+"zz-1998-384/clanok-2.md",
+"zz-1998-384/zaver.md"
+],
 "zz-1998-403": [
 "zz-1998-403/uvod.md",
 "zz-1998-403/clanok-1.md",
@@ -27394,6 +27427,16 @@
 "zz-1998-73/prilohy/priloha-4.md",
 "zz-1998-73/poznamky.md"
 ],
+"zz-1999-111": [
+"zz-1999-111/uvod.md",
+"zz-1999-111/par-001.md",
+"zz-1999-111/par-002.md",
+"zz-1999-111/par-003.md",
+"zz-1999-111/par-004.md",
+"zz-1999-111/par-005.md",
+"zz-1999-111/zaver.md",
+"zz-1999-111/prilohy/priloha-1.md"
+],
 "zz-1999-131": [
 "zz-1999-131/uvod.md",
 "zz-1999-131/clanok-1.md",
@@ -27404,6 +27447,18 @@
 "zz-1999-131/clanok-4.md",
 "zz-1999-131/zaver.md",
 "zz-1999-131/poznamky.md"
+],
+"zz-1999-14": [
+"zz-1999-14/uvod.md",
+"zz-1999-14/par-001.md",
+"zz-1999-14/par-002.md",
+"zz-1999-14/zaver.md"
+],
+"zz-1999-160": [
+"zz-1999-160/uvod.md",
+"zz-1999-160/clanok-1.md",
+"zz-1999-160/clanok-2.md",
+"zz-1999-160/zaver.md"
 ],
 "zz-1999-167": [
 "zz-1999-167/uvod.md",
@@ -27443,12 +27498,49 @@
 "zz-1999-220/zaver.md",
 "zz-1999-220/poznamky.md"
 ],
+"zz-1999-249": [
+"zz-1999-249/uvod.md",
+"zz-1999-249/par-001.md",
+"zz-1999-249/par-002.md",
+"zz-1999-249/par-003.md",
+"zz-1999-249/par-004.md",
+"zz-1999-249/par-005.md",
+"zz-1999-249/par-006.md",
+"zz-1999-249/par-007.md",
+"zz-1999-249/zaver.md",
+"zz-1999-249/poznamky.md"
+],
+"zz-1999-265": [
+"zz-1999-265/uvod.md",
+"zz-1999-265/par-001.md",
+"zz-1999-265/par-002.md",
+"zz-1999-265/par-003.md",
+"zz-1999-265/par-004.md",
+"zz-1999-265/par-005.md",
+"zz-1999-265/par-006.md",
+"zz-1999-265/par-007.md",
+"zz-1999-265/par-008.md",
+"zz-1999-265/zaver.md",
+"zz-1999-265/prilohy/priloha-1.md",
+"zz-1999-265/prilohy/priloha-2.md",
+"zz-1999-265/prilohy/priloha-3.md",
+"zz-1999-265/poznamky.md"
+],
 "zz-1999-286": [
 "zz-1999-286/uvod.md",
 "zz-1999-286/par-001.md",
 "zz-1999-286/par-002.md",
 "zz-1999-286/zaver.md",
 "zz-1999-286/poznamky.md"
+],
+"zz-1999-287": [
+"zz-1999-287/uvod.md",
+"zz-1999-287/clanok-1.md",
+"zz-1999-287/clanok-2.md",
+"zz-1999-287/zaver.md",
+"zz-1999-287/prilohy/priloha-1.md",
+"zz-1999-287/prilohy/priloha-2.md",
+"zz-1999-287/poznamky.md"
 ],
 "zz-1999-294": [
 "zz-1999-294/uvod.md",
@@ -27466,6 +27558,12 @@
 "zz-1999-294/par-012.md",
 "zz-1999-294/zaver.md",
 "zz-1999-294/poznamky.md"
+],
+"zz-1999-295": [
+"zz-1999-295/uvod.md",
+"zz-1999-295/clanok-1.md",
+"zz-1999-295/clanok-2.md",
+"zz-1999-295/zaver.md"
 ],
 "zz-1999-298": [
 "zz-1999-298/uvod.md",
@@ -27510,6 +27608,30 @@
 "zz-1999-375/clanok-1.md",
 "zz-1999-375/clanok-2.md",
 "zz-1999-375/zaver.md"
+],
+"zz-1999-44": [
+"zz-1999-44/uvod.md",
+"zz-1999-44/par-001.md",
+"zz-1999-44/par-002.md",
+"zz-1999-44/par-003.md",
+"zz-1999-44/par-004.md",
+"zz-1999-44/par-005.md",
+"zz-1999-44/par-006.md",
+"zz-1999-44/par-007.md",
+"zz-1999-44/par-008.md",
+"zz-1999-44/par-009.md",
+"zz-1999-44/zaver.md",
+"zz-1999-44/prilohy/priloha-1.md",
+"zz-1999-44/prilohy/priloha-2.md",
+"zz-1999-44/prilohy/priloha-3.md",
+"zz-1999-44/prilohy/priloha-4.md",
+"zz-1999-44/prilohy/priloha-5.md",
+"zz-1999-44/prilohy/priloha-6.md",
+"zz-1999-44/prilohy/priloha-7.md",
+"zz-1999-44/prilohy/priloha-8.md",
+"zz-1999-44/prilohy/priloha-9.md",
+"zz-1999-44/prilohy/priloha-10.md",
+"zz-1999-44/poznamky.md"
 ],
 "zz-2000-114": [
 "zz-2000-114/uvod.md",
