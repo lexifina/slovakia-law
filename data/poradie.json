@@ -6169,6 +6169,15 @@
 "zb-1970-34/par-005.md",
 "zb-1970-34/zaver.md"
 ],
+"zb-1970-38": [
+"zb-1970-38/uvod.md",
+"zb-1970-38/par-001.md",
+"zb-1970-38/par-002.md",
+"zb-1970-38/par-003.md",
+"zb-1970-38/par-004.md",
+"zb-1970-38/zaver.md",
+"zb-1970-38/poznamky.md"
+],
 "zb-1970-42": [
 "zb-1970-42/uvod.md",
 "zb-1970-42/clanok-1.md",
@@ -6510,6 +6519,25 @@
 "zb-1971-147/prilohy/priloha-priloha.md",
 "zb-1971-147/prilohy/priloha-priloha1.md"
 ],
+"zb-1971-22": [
+"zb-1971-22/uvod.md",
+"zb-1971-22/par-001.md",
+"zb-1971-22/par-002.md",
+"zb-1971-22/par-003.md",
+"zb-1971-22/par-004.md",
+"zb-1971-22/zaver.md",
+"zb-1971-22/prilohy/priloha-priloha_nariadenia_vlady_ceskoslovenskej_soc-2f889a89.md",
+"zb-1971-22/poznamky.md"
+],
+"zb-1971-25": [
+"zb-1971-25/uvod.md",
+"zb-1971-25/par-001.md",
+"zb-1971-25/par-002.md",
+"zb-1971-25/par-003.md",
+"zb-1971-25/par-004.md",
+"zb-1971-25/par-005.md",
+"zb-1971-25/zaver.md"
+],
 "zb-1971-38": [
 "zb-1971-38/uvod.md",
 "zb-1971-38/par-001.md",
@@ -6732,6 +6760,30 @@
 "zb-1971-60/par-041.md",
 "zb-1971-60/zaver.md",
 "zb-1971-60/poznamky.md"
+],
+"zb-1971-66": [
+"zb-1971-66/uvod.md",
+"zb-1971-66/par-001.md",
+"zb-1971-66/par-002.md",
+"zb-1971-66/par-003.md",
+"zb-1971-66/par-004.md",
+"zb-1971-66/zaver.md",
+"zb-1971-66/prilohy/priloha-1.md"
+],
+"zb-1972-1": [
+"zb-1972-1/uvod.md",
+"zb-1972-1/par-001.md",
+"zb-1972-1/par-002.md",
+"zb-1972-1/par-003.md",
+"zb-1972-1/par-004.md",
+"zb-1972-1/par-005.md",
+"zb-1972-1/par-006.md",
+"zb-1972-1/par-007.md",
+"zb-1972-1/par-008.md",
+"zb-1972-1/par-009.md",
+"zb-1972-1/par-010.md",
+"zb-1972-1/zaver.md",
+"zb-1972-1/poznamky.md"
 ],
 "zb-1972-108": [
 "zb-1972-108/uvod.md",
@@ -7036,6 +7088,19 @@
 "zb-1972-5/zaver.md",
 "zb-1972-5/prilohy/priloha-1.md",
 "zb-1972-5/poznamky.md"
+],
+"zb-1972-56": [
+"zb-1972-56/uvod.md",
+"zb-1972-56/clanok-1.md",
+"zb-1972-56/clanok-2.md",
+"zb-1972-56/zaver.md"
+],
+"zb-1972-69": [
+"zb-1972-69/uvod.md",
+"zb-1972-69/par-001.md",
+"zb-1972-69/par-002.md",
+"zb-1972-69/par-003.md",
+"zb-1972-69/zaver.md"
 ],
 "zb-1972-8": [
 "zb-1972-8/uvod.md",
@@ -67068,6 +67133,12 @@
 "zz-2026-224/zaver.md",
 "zz-2026-224/poznamky.md"
 ],
+"zz-2026-228": [
+"zz-2026-228/uvod.md",
+"zz-2026-228/clanok-1.md",
+"zz-2026-228/clanok-2.md",
+"zz-2026-228/zaver.md"
+],
 "zz-2026-254": [
 "zz-2026-254/uvod.md",
 "zz-2026-254/par-001.md",
@@ -67079,6 +67150,12 @@
 "zz-2026-254/prilohy/priloha-2.md",
 "zz-2026-254/prilohy/priloha-3.md",
 "zz-2026-254/poznamky.md"
+],
+"zz-2026-267": [
+"zz-2026-267/uvod.md",
+"zz-2026-267/clanok-1.md",
+"zz-2026-267/clanok-2.md",
+"zz-2026-267/zaver.md"
 ],
 "zz-2026-268": [
 "zz-2026-268/uvod.md",
