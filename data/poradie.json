@@ -43535,6 +43535,12 @@
 "zz-2007-655/prilohy/priloha-2.md",
 "zz-2007-655/poznamky.md"
 ],
+"zz-2007-656": [
+"zz-2007-656/uvod.md",
+"zz-2007-656/clanok-1.md",
+"zz-2007-656/clanok-2.md",
+"zz-2007-656/zaver.md"
+],
 "zz-2007-659": [
 "zz-2007-659/uvod.md",
 "zz-2007-659/clanok-1.md",
@@ -43734,6 +43740,38 @@
 "zz-2007-91/prilohy/priloha-priloha_k_zakonu_c_91_2007_z_z.md",
 "zz-2007-91/poznamky.md"
 ],
+"zz-2008-1": [
+"zz-2008-1/uvod.md",
+"zz-2008-1/par-001.md",
+"zz-2008-1/par-002.md",
+"zz-2008-1/par-003.md",
+"zz-2008-1/par-004.md",
+"zz-2008-1/par-005.md",
+"zz-2008-1/par-006.md",
+"zz-2008-1/par-007.md",
+"zz-2008-1/par-007a.md",
+"zz-2008-1/par-007b.md",
+"zz-2008-1/par-008.md",
+"zz-2008-1/par-009.md",
+"zz-2008-1/par-010.md",
+"zz-2008-1/par-011.md",
+"zz-2008-1/par-012.md",
+"zz-2008-1/par-013.md",
+"zz-2008-1/par-014.md",
+"zz-2008-1/par-015.md",
+"zz-2008-1/par-016.md",
+"zz-2008-1/par-017.md",
+"zz-2008-1/par-018.md",
+"zz-2008-1/par-019.md",
+"zz-2008-1/par-020.md",
+"zz-2008-1/par-020a.md",
+"zz-2008-1/par-020b.md",
+"zz-2008-1/par-021.md",
+"zz-2008-1/par-022.md",
+"zz-2008-1/par-023.md",
+"zz-2008-1/zaver.md",
+"zz-2008-1/poznamky.md"
+],
 "zz-2008-102": [
 "zz-2008-102/uvod.md",
 "zz-2008-102/par-001.md",
@@ -43819,17 +43857,48 @@
 "zz-2008-144/clanok-6.md",
 "zz-2008-144/zaver.md"
 ],
+"zz-2008-17": [
+"zz-2008-17/uvod.md",
+"zz-2008-17/par-001.md",
+"zz-2008-17/par-002.md",
+"zz-2008-17/par-003.md",
+"zz-2008-17/par-004.md",
+"zz-2008-17/zaver.md",
+"zz-2008-17/prilohy/priloha-1.md",
+"zz-2008-17/prilohy/priloha-2.md",
+"zz-2008-17/poznamky.md"
+],
 "zz-2008-171": [
 "zz-2008-171/uvod.md",
 "zz-2008-171/clanok-1.md",
 "zz-2008-171/clanok-2.md",
 "zz-2008-171/zaver.md"
 ],
+"zz-2008-18": [
+"zz-2008-18/uvod.md",
+"zz-2008-18/par-001.md",
+"zz-2008-18/par-002.md",
+"zz-2008-18/par-003.md",
+"zz-2008-18/par-004.md",
+"zz-2008-18/zaver.md",
+"zz-2008-18/prilohy/priloha-priloha_k_vyhlaske_c_18_2008_z_z.md",
+"zz-2008-18/poznamky.md"
+],
 "zz-2008-181": [
 "zz-2008-181/uvod.md",
 "zz-2008-181/par-001.md",
 "zz-2008-181/par-002.md",
 "zz-2008-181/zaver.md"
+],
+"zz-2008-19": [
+"zz-2008-19/uvod.md",
+"zz-2008-19/par-001.md",
+"zz-2008-19/par-002.md",
+"zz-2008-19/par-003.md",
+"zz-2008-19/par-004.md",
+"zz-2008-19/zaver.md",
+"zz-2008-19/prilohy/priloha-priloha_k_vyhlaske_c_19_2008_z_z.md",
+"zz-2008-19/poznamky.md"
 ],
 "zz-2008-191": [
 "zz-2008-191/uvod.md",
@@ -43847,6 +43916,16 @@
 "zz-2008-192/par-001.md",
 "zz-2008-192/par-002.md",
 "zz-2008-192/zaver.md"
+],
+"zz-2008-20": [
+"zz-2008-20/uvod.md",
+"zz-2008-20/par-001.md",
+"zz-2008-20/par-002.md",
+"zz-2008-20/par-003.md",
+"zz-2008-20/par-004.md",
+"zz-2008-20/zaver.md",
+"zz-2008-20/prilohy/priloha-priloha_k_vyhlaske_c_20_2008_z_z.md",
+"zz-2008-20/poznamky.md"
 ],
 "zz-2008-201": [
 "zz-2008-201/uvod.md",
@@ -43877,6 +43956,29 @@
 "zz-2008-201/clanok-3.md",
 "zz-2008-201/zaver.md",
 "zz-2008-201/poznamky.md"
+],
+"zz-2008-21": [
+"zz-2008-21/uvod.md",
+"zz-2008-21/par-001.md",
+"zz-2008-21/par-002.md",
+"zz-2008-21/par-003.md",
+"zz-2008-21/par-004.md",
+"zz-2008-21/zaver.md",
+"zz-2008-21/prilohy/priloha-1.md",
+"zz-2008-21/prilohy/priloha-2.md",
+"zz-2008-21/prilohy/priloha-3.md",
+"zz-2008-21/poznamky.md"
+],
+"zz-2008-22": [
+"zz-2008-22/uvod.md",
+"zz-2008-22/par-001.md",
+"zz-2008-22/par-002.md",
+"zz-2008-22/par-003.md",
+"zz-2008-22/par-004.md",
+"zz-2008-22/zaver.md",
+"zz-2008-22/prilohy/priloha-1.md",
+"zz-2008-22/prilohy/priloha-2.md",
+"zz-2008-22/poznamky.md"
 ],
 "zz-2008-220": [
 "zz-2008-220/uvod.md",
@@ -43910,11 +44012,36 @@
 "zz-2008-225/par-002.md",
 "zz-2008-225/zaver.md"
 ],
+"zz-2008-23": [
+"zz-2008-23/uvod.md",
+"zz-2008-23/par-001.md",
+"zz-2008-23/par-002.md",
+"zz-2008-23/par-003.md",
+"zz-2008-23/par-004.md",
+"zz-2008-23/zaver.md",
+"zz-2008-23/prilohy/priloha-1.md",
+"zz-2008-23/prilohy/priloha-2.md",
+"zz-2008-23/prilohy/priloha-3.md",
+"zz-2008-23/prilohy/priloha-4.md",
+"zz-2008-23/poznamky.md"
+],
 "zz-2008-234": [
 "zz-2008-234/uvod.md",
 "zz-2008-234/clanok-1.md",
 "zz-2008-234/clanok-2.md",
 "zz-2008-234/zaver.md"
+],
+"zz-2008-24": [
+"zz-2008-24/uvod.md",
+"zz-2008-24/par-001.md",
+"zz-2008-24/par-002.md",
+"zz-2008-24/par-003.md",
+"zz-2008-24/par-004.md",
+"zz-2008-24/zaver.md",
+"zz-2008-24/prilohy/priloha-1.md",
+"zz-2008-24/prilohy/priloha-2.md",
+"zz-2008-24/prilohy/priloha-3.md",
+"zz-2008-24/poznamky.md"
 ],
 "zz-2008-240": [
 "zz-2008-240/uvod.md",
