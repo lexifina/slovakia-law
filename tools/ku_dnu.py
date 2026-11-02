@@ -42,6 +42,22 @@ def order(path: str) -> tuple:
     return (5, 0, name, '')
 
 
+def source_order(commit: str, act: str) -> list[str]:
+    """The files of an act appended as its current version, in the order the source gives them (data/poradie.json);
+    empty for the acts traced version by version, which keep order(). The map is written by the documentation commit
+    after the acts, so it is read at the commit and, failing that, at HEAD (an act held as its current version has one
+    order)."""
+    import json
+    for ref in (commit, 'HEAD'):
+        try:
+            found = json.loads(git('show', f'{ref}:data/poradie.json')).get(act)
+        except subprocess.CalledProcessError:
+            found = None
+        if found:
+            return found
+    return []
+
+
 def file_for(act: str, key: str) -> str:
     """'7' -> cl-007.md in the Constitution, par-007.md in an act; anything else is a file name."""
     m = re.fullmatch(r'(\d+)([a-z]*)', key)
@@ -78,7 +94,8 @@ def main():
         return
     files = [f for f in git('ls-tree', '-r', '--name-only', commit, f'{act}/').split('\n')
              if f.endswith('.md') and not f.endswith('/README.md')]
-    for f in sorted(files, key=order):
+    rank = {f: i for i, f in enumerate(source_order(commit, act))}
+    for f in sorted(files, key=lambda f: (0, rank[f], ()) if f in rank else (1, 0, order(f))):
         sys.stdout.write(git('show', f'{commit}:{f}') + '\n')
 
 

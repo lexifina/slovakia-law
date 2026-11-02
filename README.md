@@ -1,8 +1,9 @@
 # Slovak law, change by change
 
-Two acts of the Slovak Republic as a git repository: the Constitution (Ústava Slovenskej republiky, 460/1992 Zb.) and
-the Act on the Conditions for Exercising the Right to Vote (zákon č. 180/2014 Z. z. o podmienkach výkonu volebného
-práva). Each amending act is one commit, credited to that act and dated the day it took effect, at noon in Bratislava.
+Slovak law as a git repository. Two acts are traced version by version: the Constitution (Ústava Slovenskej
+republiky, 460/1992 Zb.) and the Act on the Conditions for Exercising the Right to Vote (zákon č. 180/2014 Z. z. o
+podmienkach výkonu volebného práva); 664 other acts in force, chosen as "The acts in force" below says, are
+held as their current version. In the two traced acts each amending act is one commit, credited to that act and dated the day it took effect, at noon in Bratislava.
 The text is the consolidated text published by the Ministry of Justice in [Slov-Lex](https://www.slov-lex.sk).
 
 *Slovensky: [nižšie](#slovensky).*
@@ -29,8 +30,9 @@ The text is the consolidated text published by the Ministry of Justice in [Slov-
 A Slovak act has the day the National Council passed it (`Enacted:`), the day it was published in the Collection of
 Laws (`Published:`), and the day it took effect (`In-force:`). **Commits are dated the day the change took effect**, at
 noon in Bratislava (CET, or CEST in summer time): that is the day that decides which text applies. It is the day
-Slov-Lex gives as the start of the version the act produced. All three dates are in every commit message. No date in
-these two acts is before 1970.
+Slov-Lex gives as the start of the version the act produced. All three dates are in every commit message of the two
+traced acts; the acts appended as their current version carry `In-force:` (with `In-force-basis:` and
+`Text-as-of:`) but not `Enacted:` or `Published:`. No date in these two acts is before 1970.
 
 ## What "author" means
 
@@ -49,7 +51,8 @@ trailers. They are never credited to either. The committer is always `Lexifina`.
 
 ## How it is checked
 
-`tools/check_repo.py` reads every version of each act back from git on the day it took effect and compares it with the
+For the two traced acts, `tools/check_repo.py` (it needs `build.py`, kept with the build notes) reads every version of
+each act back from git on the day it took effect and compares it with the
 official text: file by file with the text parsed from Slov-Lex's page, and word for word with all the words of the page,
 read independently of the parser. `tools/test_repo.py` checks that the commands above work. The results are in
 [`REPRODUCE.md`](REPRODUCE.md).
@@ -68,17 +71,18 @@ repealed provision is removed, as Slov-Lex removes it from the consolidated text
 
 - Versions Slov-Lex does not publish: the Constitution's text is recorded from 1 October 1992, its first dated version.
 - Which of two acts of the same day made a change (above).
-- Any act beyond these two. The same build works for any act in Slov-Lex: add it to `ACTS` in `tools/build.py`.
+- The earlier versions of the acts held as their current version, and the amending acts behind them (not yet traced).
 
 The consolidated text is for information: Slov-Lex says that the legally binding content is the PDF version of the
 Collection of Laws.
 
 ## How it is built
 
-`tools/build.py` reads Slov-Lex and writes this repository from scratch; the same data gives the same hashes. Every
-step, the software, the decisions made by hand and what an AI model did are in [`REPRODUCE.md`](REPRODUCE.md). Each
-act's folder has a `README.md` listing its provisions with how often each changed. [`corpus.json`](corpus.json)
-describes the corpus for tools that read several of Lexifina's law repositories.
+The two traced acts were written by a build script (`build.py`) kept with the build notes, not in this repository;
+the acts appended after them by a second private script. Every step, the sources, the decisions made by hand and
+what an AI model did are in [`REPRODUCE.md`](REPRODUCE.md). `tools/ku_dnu.py` reads any act on any day, in the
+order the source gives its provisions; `tools/check_wave3.py` checks the appended acts.
+[`corpus.json`](corpus.json) describes the corpus for tools that read several of Lexifina's law repositories.
 
 ## Licence
 
@@ -90,13 +94,23 @@ commit messages, tables and tools are released under [CC0 1.0](LICENSE).
 
 ## Slovensky
 
-Dva predpisy Slovenskej republiky ako repozitár git: Ústava Slovenskej republiky (460/1992 Zb.) a zákon č. 180/2014 Z. z.
-o podmienkach výkonu volebného práva, v konsolidovanom znení zo Slov-Lexu.
+Slovenské právo ako repozitár git. Verziu po verzii sú zaznamenané dva predpisy, Ústava Slovenskej republiky
+(460/1992 Zb.) a zákon č. 180/2014 Z. z. o podmienkach výkonu volebného práva; ďalších 664 účinných predpisov
+(výber opisuje „Účinné predpisy, aktuálne znenie“) je v aktuálnom znení, všetko v konsolidovanom znení zo Slov-Lexu.
 
-- **Každý commit je jeden novelizujúci predpis**, zapísaný ako autor (`255/2025 Z. z.`), takže `git blame` ukazuje, ktorý
+- **V dvoch predpisoch zaznamenaných verziu po verzii je každý commit jeden novelizujúci predpis**, zapísaný ako autor (`255/2025 Z. z.`), takže `git blame` ukazuje, ktorý
   predpis napísal ktorý odsek. Predpis určuje zoznam časových verzií v Slov-Lexe a jeho označenie zmenených prvkov.
-- **Každý commit nesie deň účinnosti**, poludnie v Bratislave. V správe je aj deň schválenia a deň vyhlásenia.
+- **Každý commit nesie deň účinnosti**, poludnie v Bratislave. Pri týchto dvoch predpisoch je v správe aj deň schválenia a deň vyhlásenia; pri ostatných `In-force-basis` a
+  `Text-as-of`.
 - **Každý článok a paragraf je súbor**, každý odsek riadok.
 - **Zmeny dvoch predpisov v jeden deň sa nepripisujú nijakému z nich**; commit je od Slov-Lexu a uvádza oba predpisy.
 
 Konsolidované znenie má informatívny charakter; právne záväzný obsah sa nachádza v pdf verzii Zbierky zákonov.
+
+## Účinné predpisy, aktuálne znenie
+
+Okrem Ústavy a zákona č. 180/2014 Z. z., zaznamenaných verziu po verzii, obsahuje záznam 664 predpisov účinných podľa Slov-Lexu, každý v jednom commite: časová verzia účinná ku dňu získania údajov, datovaná dňom svojej účinnosti. Ak je to pôvodné znenie, je pripísaná predpisu samému; inak ju zapisuje Slov-Lex bez pripísania novele. Staršie verzie pribudnú za nimi bez prepisovania histórie. Zoznam: `data/ucinne-predpisy.csv`. Priečinok predpisu je `zz-<rok>-<číslo>` (od 1993) alebo `zb-<rok>-<číslo>`.
+
+Besides the two acts traced version by version, the record holds 664 acts in force at Slov-Lex, one commit each: the version in force when the data was read, dated by its own day of effect; credited to the act when it is the act as enacted (`Kind: law`), otherwise committed by Slov-Lex as a `Kind: baseline` and credited to no act. Earlier versions will be added behind them without rewriting history. Notices, decisions, rulings and acts that only amend others are left out.
+
+Images and annexes Slov-Lex gives only as PDF are kept as published, byte for byte, in each act's `assets/` folder and linked where they stand (`data/assets.tsv` lists them); one that could not be kept is marked `[Image omitted: ...]` at its place (columns `obrazky`, `prilohy_pdf`, `vynechane` of the table). Check the record with `python -X utf8 tools/check_wave3.py`.

@@ -6,11 +6,13 @@ commit.
 
 ## Short version
 
+*`tools/build.py` is not shipped in this repository (it is kept with the build notes): the commands below record how the two traced acts were built and checked, and are not a public rebuild recipe. They do not rebuild the acts appended after them (last section).*
+
 ```sh
 git clone https://github.com/lexifina/slovakia-law && cd slovakia-law
 pip install lxml
 python -X utf8 tools/build.py --repo ../rebuilt --today 2026-10-28
-git -C ../rebuilt rev-parse main        # the same hash as this repository's main
+git -C ../rebuilt rev-parse main        # the hash main had before the acts appended below
 python -X utf8 tools/check_repo.py --repo ../rebuilt
 python -X utf8 tools/test_repo.py --repo ../rebuilt
 ```
@@ -46,7 +48,7 @@ content without the site's frame; it was found in the Slovak fetcher of legalize
 ## The build, step by step
 
 1. `python -X utf8 scripts/slovakia-law/build.py --today 2026-10-28` in Lexifina's own repository fetched the data into
-   its cache and wrote this repository. `tools/build.py` here is the same file as `scripts/slovakia-law/build.py`
+   its cache and wrote this repository. `build.py` (kept with the build notes, not shipped here) is `scripts/slovakia-law/build.py`
    there (git blob `262b57ba9c4c33124017d116db45cc63028a1a0a`), with `tools/reproduce.py`, which writes this file, `tools/check_repo.py` and
    `tools/test_repo.py`. Every later build ran with `--offline`, from the cache.
 2. `python -X utf8 scripts/slovakia-law/check_repo.py` read every version of each act back from this repository with
@@ -230,7 +232,7 @@ The model:
 
 - **Researched the source:** Slov-Lex's static mirror, the shape of its HTML and its change marks, its notice, the
   Copyright Act, and the Slovak fetcher of legalize-dev (below).
-- **Wrote all the code and text in this repository:** `tools/build.py`, `tools/reproduce.py`, `tools/check_repo.py`,
+- **Wrote all the code and text in this repository, and the build script kept with the build notes:** `build.py`, `tools/reproduce.py`, `tools/check_repo.py`,
   `tools/test_repo.py`, `tools/ku_dnu.py`, the README, this file and the licence, and chose the design described in
   them.
 - **Ran the commands above** and checked the results.
@@ -255,3 +257,33 @@ content is the PDF version of the Collection of Laws.
   one file per provision, and keeps changes it cannot attribute apart.
 - Lexifina's other corpora, whose rules this one follows (Estonia, Liechtenstein, Luxembourg, Swiss federal law, the
   Grundgesetz, UK legislation and the US Code).
+
+## The acts in force, current version (appended)
+
+Everything above describes the two acts traced version by version. The other 664 acts were appended on top of that history, one commit each, by a separate private script
+(`wave3.py`, kept with the build notes, not in this repository), from the same source:
+
+| What | Where |
+| --- | --- |
+| The acts in the Collection, year by year | `https://static.slov-lex.sk/static/SK/ZZ/<year>/` |
+| Each act's dated versions and the version in force on 2026-11-02 | `https://static.slov-lex.sk/static/SK/ZZ/<year>/<number>/` |
+| That version's text | its `.portal` page, the URL in each commit's `Text-source:`; sha256 in `data/ucinne-predpisy.csv` |
+| Annexes given only as PDF, and images | the files the page links or embeds, kept byte for byte in `<act>/assets/` (`data/assets.tsv`) |
+
+- Left out: notices, decisions, rulings, resolutions, republications and acts whose title says they only amend others.
+- Each act's text is read by a reader of its own (`wave3_reader.py`, with the build notes), which uses `build.py`'s
+  functions for the text of each element but walks the act in document order: every provision not quoted from
+  another act is a file of its own, nested ones included (a provision under an amendment point or opening with a
+  quotation mark is the amended act's text and stays in its article); text before the first provision opens the act,
+  after the last one closes it, and between two provisions belongs to the one before. The files read in the order
+  the source gives them (`data/poradie.json`, used by `tools/ku_dnu.py`). Within an element: a line break keeps the
+  words on either side apart; inline markup joins as it stands; superscripts and subscripts stay as `<sup>`/`<sub>`;
+  a table row keeps its empty cells and the cells a colspan or rowspan covers; an annex given as a bare block is read
+  as an annex; images and PDF annexes become asset links (or the standard's omission notice).
+- Dating and credit: the version's own "účinnosť od" (`In-force:`, with `In-force-basis:`), `Text-as-of: 2026-11-02`.
+  The act's first dated version with no amending act named is the act as enacted (`Kind: law`, credited to the act);
+  any later version is a `Kind: baseline` committed by Slov-Lex, credited to no act. Author and committer dates are
+  that day at noon in Bratislava (before 1970: 1 January 1970, as above).
+- Kept: 62 images and 309 PDF annexes; 0 could not be kept and are marked at their place.
+- Check: `python -X utf8 tools/check_wave3.py` (every listed act's folder and file count, every asset link and its
+  sha256, `data/assets.tsv`, the trailers of every appended commit). No AI model wrote, summarised or chose any text.
