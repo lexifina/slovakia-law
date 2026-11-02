@@ -56027,6 +56027,24 @@
 "zz-2016-1/prilohy/priloha-5.md",
 "zz-2016-1/poznamky.md"
 ],
+"zz-2016-101": [
+"zz-2016-101/uvod.md",
+"zz-2016-101/clanok-1.md",
+"zz-2016-101/clanok-2.md",
+"zz-2016-101/zaver.md"
+],
+"zz-2016-102": [
+"zz-2016-102/uvod.md",
+"zz-2016-102/clanok-1.md",
+"zz-2016-102/clanok-2.md",
+"zz-2016-102/zaver.md"
+],
+"zz-2016-103": [
+"zz-2016-103/uvod.md",
+"zz-2016-103/clanok-1.md",
+"zz-2016-103/clanok-2.md",
+"zz-2016-103/zaver.md"
+],
 "zz-2016-104": [
 "zz-2016-104/uvod.md",
 "zz-2016-104/clanok-1.md",
@@ -57662,6 +57680,21 @@
 "zz-2016-69/prilohy/priloha-4.md",
 "zz-2016-69/poznamky.md"
 ],
+"zz-2016-71": [
+"zz-2016-71/uvod.md",
+"zz-2016-71/clanok-1.md",
+"zz-2016-71/clanok-2.md",
+"zz-2016-71/zaver.md"
+],
+"zz-2016-74": [
+"zz-2016-74/uvod.md",
+"zz-2016-74/par-001.md",
+"zz-2016-74/par-002.md",
+"zz-2016-74/par-003.md",
+"zz-2016-74/zaver.md",
+"zz-2016-74/prilohy/priloha-priloha_k_vyhlaske_c_74_2016_z_z.md",
+"zz-2016-74/poznamky.md"
+],
 "zz-2016-77": [
 "zz-2016-77/uvod.md",
 "zz-2016-77/par-001.md",
@@ -57698,6 +57731,63 @@
 "zz-2016-77/prilohy/priloha-9.md",
 "zz-2016-77/prilohy/priloha-10.md",
 "zz-2016-77/poznamky.md"
+],
+"zz-2016-83": [
+"zz-2016-83/uvod.md",
+"zz-2016-83/par-001.md",
+"zz-2016-83/par-002.md",
+"zz-2016-83/par-003.md",
+"zz-2016-83/par-004.md",
+"zz-2016-83/par-005.md",
+"zz-2016-83/par-006.md",
+"zz-2016-83/par-007.md",
+"zz-2016-83/par-008.md",
+"zz-2016-83/par-009.md",
+"zz-2016-83/par-010.md",
+"zz-2016-83/par-011.md",
+"zz-2016-83/par-012.md",
+"zz-2016-83/par-013.md",
+"zz-2016-83/par-014.md",
+"zz-2016-83/par-015.md",
+"zz-2016-83/par-016.md",
+"zz-2016-83/par-017.md",
+"zz-2016-83/par-018.md",
+"zz-2016-83/par-019.md",
+"zz-2016-83/zaver.md",
+"zz-2016-83/prilohy/priloha-1k.md",
+"zz-2016-83/prilohy/priloha-2k.md",
+"zz-2016-83/prilohy/priloha-3k.md",
+"zz-2016-83/prilohy/priloha-4k.md",
+"zz-2016-83/poznamky.md"
+],
+"zz-2016-84": [
+"zz-2016-84/uvod.md",
+"zz-2016-84/par-001.md",
+"zz-2016-84/par-002.md",
+"zz-2016-84/par-003.md",
+"zz-2016-84/par-004.md",
+"zz-2016-84/par-005.md",
+"zz-2016-84/par-006.md",
+"zz-2016-84/par-007.md",
+"zz-2016-84/par-008.md",
+"zz-2016-84/par-009.md",
+"zz-2016-84/par-010.md",
+"zz-2016-84/par-010a.md",
+"zz-2016-84/par-011.md",
+"zz-2016-84/par-012.md",
+"zz-2016-84/par-013.md",
+"zz-2016-84/par-014.md",
+"zz-2016-84/par-015.md",
+"zz-2016-84/par-016.md",
+"zz-2016-84/par-016a.md",
+"zz-2016-84/par-017.md",
+"zz-2016-84/par-018.md",
+"zz-2016-84/par-019.md",
+"zz-2016-84/par-020.md",
+"zz-2016-84/zaver.md",
+"zz-2016-84/prilohy/priloha-1k.md",
+"zz-2016-84/prilohy/priloha-2k.md",
+"zz-2016-84/poznamky.md"
 ],
 "zz-2016-89": [
 "zz-2016-89/uvod.md",
@@ -57930,6 +58020,48 @@
 "zz-2016-91/zaver.md",
 "zz-2016-91/prilohy/priloha-priloha_k_zakonu_c_91_2016_z_z.md",
 "zz-2016-91/poznamky.md"
+],
+"zz-2016-97": [
+"zz-2016-97/uvod.md",
+"zz-2016-97/par-001.md",
+"zz-2016-97/par-002.md",
+"zz-2016-97/par-003.md",
+"zz-2016-97/par-004.md",
+"zz-2016-97/par-005.md",
+"zz-2016-97/par-006.md",
+"zz-2016-97/par-007.md",
+"zz-2016-97/zaver.md",
+"zz-2016-97/prilohy/priloha-1.md",
+"zz-2016-97/prilohy/priloha-2k.md",
+"zz-2016-97/prilohy/priloha-3k.md",
+"zz-2016-97/prilohy/priloha-4k.md"
+],
+"zz-2016-98": [
+"zz-2016-98/uvod.md",
+"zz-2016-98/clanok-1.md",
+"zz-2016-98/clanok-2.md",
+"zz-2016-98/zaver.md"
+],
+"zz-2016-99": [
+"zz-2016-99/uvod.md",
+"zz-2016-99/par-001.md",
+"zz-2016-99/par-002.md",
+"zz-2016-99/par-003.md",
+"zz-2016-99/par-004.md",
+"zz-2016-99/par-005.md",
+"zz-2016-99/par-006.md",
+"zz-2016-99/par-007.md",
+"zz-2016-99/par-008.md",
+"zz-2016-99/par-009.md",
+"zz-2016-99/par-009a.md",
+"zz-2016-99/par-010.md",
+"zz-2016-99/par-011.md",
+"zz-2016-99/zaver.md",
+"zz-2016-99/prilohy/priloha-1k.md",
+"zz-2016-99/prilohy/priloha-2k.md",
+"zz-2016-99/prilohy/priloha-3k.md",
+"zz-2016-99/prilohy/priloha-4k.md",
+"zz-2016-99/poznamky.md"
 ],
 "zz-2017-100": [
 "zz-2017-100/uvod.md",
