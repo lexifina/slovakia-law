@@ -43228,6 +43228,50 @@
 "zz-2007-55/prilohy/priloha-5.md",
 "zz-2007-55/poznamky.md"
 ],
+"zz-2007-553": [
+"zz-2007-553/uvod.md",
+"zz-2007-553/par-001.md",
+"zz-2007-553/par-002.md",
+"zz-2007-553/par-003.md",
+"zz-2007-553/par-004.md",
+"zz-2007-553/par-005.md",
+"zz-2007-553/par-006.md",
+"zz-2007-553/par-007.md",
+"zz-2007-553/par-008.md",
+"zz-2007-553/par-009.md",
+"zz-2007-553/par-010.md",
+"zz-2007-553/par-011.md",
+"zz-2007-553/par-012.md",
+"zz-2007-553/par-013.md",
+"zz-2007-553/par-014.md",
+"zz-2007-553/par-015.md",
+"zz-2007-553/zaver.md",
+"zz-2007-553/prilohy/priloha-1.md",
+"zz-2007-553/prilohy/priloha-1a.md",
+"zz-2007-553/prilohy/priloha-2.md",
+"zz-2007-553/prilohy/priloha-3.md",
+"zz-2007-553/prilohy/priloha-4.md",
+"zz-2007-553/prilohy/priloha-5.md",
+"zz-2007-553/prilohy/priloha-6.md",
+"zz-2007-553/poznamky.md"
+],
+"zz-2007-554": [
+"zz-2007-554/uvod.md",
+"zz-2007-554/par-001.md",
+"zz-2007-554/par-002.md",
+"zz-2007-554/par-003.md",
+"zz-2007-554/par-004.md",
+"zz-2007-554/par-005.md",
+"zz-2007-554/par-006.md",
+"zz-2007-554/par-007.md",
+"zz-2007-554/par-008.md",
+"zz-2007-554/par-009.md",
+"zz-2007-554/par-010.md",
+"zz-2007-554/zaver.md",
+"zz-2007-554/prilohy/priloha-1.md",
+"zz-2007-554/prilohy/priloha-2.md",
+"zz-2007-554/poznamky.md"
+],
 "zz-2007-56": [
 "zz-2007-56/uvod.md",
 "zz-2007-56/par-001.md",
@@ -43246,6 +43290,12 @@
 "zz-2007-56/prilohy/priloha-1.md",
 "zz-2007-56/prilohy/priloha-2.md",
 "zz-2007-56/poznamky.md"
+],
+"zz-2007-564": [
+"zz-2007-564/uvod.md",
+"zz-2007-564/clanok-1.md",
+"zz-2007-564/clanok-2.md",
+"zz-2007-564/zaver.md"
 ],
 "zz-2007-569": [
 "zz-2007-569/uvod.md",
@@ -43347,6 +43397,23 @@
 "zz-2007-57/prilohy/priloha-4.md",
 "zz-2007-57/poznamky.md"
 ],
+"zz-2007-570": [
+"zz-2007-570/uvod.md",
+"zz-2007-570/par-001.md",
+"zz-2007-570/par-002.md",
+"zz-2007-570/par-003.md",
+"zz-2007-570/par-003a.md",
+"zz-2007-570/par-004.md",
+"zz-2007-570/par-005.md",
+"zz-2007-570/par-006.md",
+"zz-2007-570/par-007.md",
+"zz-2007-570/zaver.md",
+"zz-2007-570/prilohy/priloha-1.md",
+"zz-2007-570/prilohy/priloha-2.md",
+"zz-2007-570/prilohy/priloha-3.md",
+"zz-2007-570/prilohy/priloha-3a.md",
+"zz-2007-570/prilohy/priloha-4.md"
+],
 "zz-2007-58": [
 "zz-2007-58/uvod.md",
 "zz-2007-58/par-001.md",
@@ -43376,6 +43443,26 @@
 "zz-2007-58/prilohy/priloha-3.md",
 "zz-2007-58/prilohy/priloha-4.md",
 "zz-2007-58/poznamky.md"
+],
+"zz-2007-588": [
+"zz-2007-588/uvod.md",
+"zz-2007-588/par-001.md",
+"zz-2007-588/par-002.md",
+"zz-2007-588/par-003.md",
+"zz-2007-588/par-004.md",
+"zz-2007-588/zaver.md",
+"zz-2007-588/prilohy/priloha-1.md",
+"zz-2007-588/prilohy/priloha-2.md",
+"zz-2007-588/prilohy/priloha-3.md",
+"zz-2007-588/prilohy/priloha-4.md",
+"zz-2007-588/prilohy/priloha-5.md"
+],
+"zz-2007-596": [
+"zz-2007-596/uvod.md",
+"zz-2007-596/par-001.md",
+"zz-2007-596/par-002.md",
+"zz-2007-596/par-003.md",
+"zz-2007-596/zaver.md"
 ],
 "zz-2007-608": [
 "zz-2007-608/uvod.md",
@@ -43467,11 +43554,35 @@
 "zz-2007-609/prilohy/priloha-2.md",
 "zz-2007-609/poznamky.md"
 ],
+"zz-2007-616": [
+"zz-2007-616/uvod.md",
+"zz-2007-616/clanok-1.md",
+"zz-2007-616/clanok-2.md",
+"zz-2007-616/zaver.md"
+],
 "zz-2007-617": [
 "zz-2007-617/uvod.md",
 "zz-2007-617/clanok-2.md",
 "zz-2007-617/clanok-3.md",
 "zz-2007-617/zaver.md"
+],
+"zz-2007-625": [
+"zz-2007-625/uvod.md",
+"zz-2007-625/par-001.md",
+"zz-2007-625/par-002.md",
+"zz-2007-625/zaver.md"
+],
+"zz-2007-626": [
+"zz-2007-626/uvod.md",
+"zz-2007-626/clanok-1.md",
+"zz-2007-626/clanok-2.md",
+"zz-2007-626/zaver.md"
+],
+"zz-2007-638": [
+"zz-2007-638/uvod.md",
+"zz-2007-638/clanok-1.md",
+"zz-2007-638/clanok-2.md",
+"zz-2007-638/zaver.md"
 ],
 "zz-2007-647": [
 "zz-2007-647/uvod.md",
