@@ -17573,6 +17573,12 @@
 "zb-1992-103/zaver.md",
 "zb-1992-103/poznamky.md"
 ],
+"zb-1992-110": [
+"zb-1992-110/uvod.md",
+"zb-1992-110/clanok-1.md",
+"zb-1992-110/clanok-2.md",
+"zb-1992-110/zaver.md"
+],
 "zb-1992-114": [
 "zb-1992-114/uvod.md",
 "zb-1992-114/par-001.md",
@@ -17673,6 +17679,21 @@
 "zb-1992-114/prilohy/priloha-2.md",
 "zb-1992-114/poznamky.md"
 ],
+"zb-1992-115": [
+"zb-1992-115/uvod.md",
+"zb-1992-115/par-001.md",
+"zb-1992-115/par-002.md",
+"zb-1992-115/par-003.md",
+"zb-1992-115/par-004.md",
+"zb-1992-115/par-005.md",
+"zb-1992-115/par-006.md",
+"zb-1992-115/par-007.md",
+"zb-1992-115/par-008.md",
+"zb-1992-115/par-009.md",
+"zb-1992-115/par-010.md",
+"zb-1992-115/zaver.md",
+"zb-1992-115/poznamky.md"
+],
 "zb-1992-120": [
 "zb-1992-120/uvod.md",
 "zb-1992-120/par-001.md",
@@ -17741,6 +17762,12 @@
 "zb-1992-120/prilohy/priloha-1.md",
 "zb-1992-120/prilohy/priloha-priloha_2.md",
 "zb-1992-120/poznamky.md"
+],
+"zb-1992-121": [
+"zb-1992-121/uvod.md",
+"zb-1992-121/clanok-1.md",
+"zb-1992-121/clanok-2.md",
+"zb-1992-121/zaver.md"
 ],
 "zb-1992-124": [
 "zb-1992-124/uvod.md",
@@ -17827,6 +17854,26 @@
 "zb-1992-128/par-003.md",
 "zb-1992-128/par-004.md",
 "zb-1992-128/zaver.md"
+],
+"zb-1992-129": [
+"zb-1992-129/uvod.md",
+"zb-1992-129/par-001.md",
+"zb-1992-129/par-002.md",
+"zb-1992-129/par-003.md",
+"zb-1992-129/par-004.md",
+"zb-1992-129/par-005.md",
+"zb-1992-129/par-006.md",
+"zb-1992-129/par-007.md",
+"zb-1992-129/par-008.md",
+"zb-1992-129/par-009.md",
+"zb-1992-129/par-010.md",
+"zb-1992-129/par-011.md",
+"zb-1992-129/par-012.md",
+"zb-1992-129/par-013.md",
+"zb-1992-129/par-014.md",
+"zb-1992-129/zaver.md",
+"zb-1992-129/prilohy/priloha-priloha_k_vyhlasce_c_129_1992_sb.md",
+"zb-1992-129/poznamky.md"
 ],
 "zb-1992-137": [
 "zb-1992-137/uvod.md",
@@ -17933,6 +17980,35 @@
 "zb-1992-139/par-002.md",
 "zb-1992-139/par-003.md",
 "zb-1992-139/zaver.md"
+],
+"zb-1992-144": [
+"zb-1992-144/uvod.md",
+"zb-1992-144/par-001.md",
+"zb-1992-144/par-002.md",
+"zb-1992-144/par-003.md",
+"zb-1992-144/par-004.md",
+"zb-1992-144/par-005.md",
+"zb-1992-144/par-006.md",
+"zb-1992-144/par-007.md",
+"zb-1992-144/par-008.md",
+"zb-1992-144/zaver.md",
+"zb-1992-144/prilohy/priloha-priloha.md",
+"zb-1992-144/poznamky.md"
+],
+"zb-1992-152": [
+"zb-1992-152/uvod.md",
+"zb-1992-152/par-001.md",
+"zb-1992-152/par-002.md",
+"zb-1992-152/par-003.md",
+"zb-1992-152/par-004.md",
+"zb-1992-152/par-005.md",
+"zb-1992-152/par-006.md",
+"zb-1992-152/par-007.md",
+"zb-1992-152/par-008.md",
+"zb-1992-152/zaver.md",
+"zb-1992-152/prilohy/priloha-1.md",
+"zb-1992-152/prilohy/priloha-2.md",
+"zb-1992-152/poznamky.md"
 ],
 "zb-1992-153": [
 "zb-1992-153/uvod.md",
@@ -24562,6 +24638,45 @@
 "zb-1992-78/prilohy/priloha-priloha_k_zakonu_slovenskej_narodnej_rady_c_78_1992_zb.md",
 "zb-1992-78/poznamky.md"
 ],
+"zb-1992-85": [
+"zb-1992-85/uvod.md",
+"zb-1992-85/par-001.md",
+"zb-1992-85/par-002.md",
+"zb-1992-85/par-003.md",
+"zb-1992-85/par-004.md",
+"zb-1992-85/par-005.md",
+"zb-1992-85/par-006.md",
+"zb-1992-85/par-007.md",
+"zb-1992-85/par-008.md",
+"zb-1992-85/par-009.md",
+"zb-1992-85/par-010.md",
+"zb-1992-85/par-011.md",
+"zb-1992-85/par-012.md",
+"zb-1992-85/par-013.md",
+"zb-1992-85/par-014.md",
+"zb-1992-85/par-015.md",
+"zb-1992-85/par-016.md",
+"zb-1992-85/par-017.md",
+"zb-1992-85/par-018.md",
+"zb-1992-85/par-019.md",
+"zb-1992-85/par-020.md",
+"zb-1992-85/par-021.md",
+"zb-1992-85/par-022.md",
+"zb-1992-85/par-023.md",
+"zb-1992-85/par-024.md",
+"zb-1992-85/par-025.md",
+"zb-1992-85/par-026.md",
+"zb-1992-85/par-027.md",
+"zb-1992-85/par-028.md",
+"zb-1992-85/par-029.md",
+"zb-1992-85/par-030.md",
+"zb-1992-85/par-031.md",
+"zb-1992-85/par-032.md",
+"zb-1992-85/par-033.md",
+"zb-1992-85/par-034.md",
+"zb-1992-85/zaver.md",
+"zb-1992-85/poznamky.md"
+],
 "zb-1992-86": [
 "zb-1992-86/uvod.md",
 "zb-1992-86/clanok-1.md",
@@ -24664,6 +24779,21 @@
 "zb-1992-86/clanok-2-dup2.md",
 "zb-1992-86/zaver.md",
 "zb-1992-86/poznamky.md"
+],
+"zb-1992-87": [
+"zb-1992-87/uvod.md",
+"zb-1992-87/par-001.md",
+"zb-1992-87/par-002.md",
+"zb-1992-87/par-003.md",
+"zb-1992-87/par-004.md",
+"zb-1992-87/par-005.md",
+"zb-1992-87/par-006.md",
+"zb-1992-87/par-007.md",
+"zb-1992-87/par-008.md",
+"zb-1992-87/par-009.md",
+"zb-1992-87/par-010.md",
+"zb-1992-87/zaver.md",
+"zb-1992-87/poznamky.md"
 ],
 "zb-1992-9": [
 "zb-1992-9/uvod.md",
@@ -24820,6 +24950,28 @@
 "zb-1992-97/zaver.md",
 "zb-1992-97/prilohy/priloha-priloha_nariadenia_vlady_sr_c_97_1992_zb.md",
 "zb-1992-97/poznamky.md"
+],
+"zb-1992-98": [
+"zb-1992-98/uvod.md",
+"zb-1992-98/par-001.md",
+"zb-1992-98/par-002.md",
+"zb-1992-98/par-003.md",
+"zb-1992-98/zaver.md",
+"zb-1992-98/poznamky.md"
+],
+"zb-1992-99": [
+"zb-1992-99/uvod.md",
+"zb-1992-99/par-001.md",
+"zb-1992-99/par-002.md",
+"zb-1992-99/par-003.md",
+"zb-1992-99/par-004.md",
+"zb-1992-99/par-005.md",
+"zb-1992-99/par-006.md",
+"zb-1992-99/par-007.md",
+"zb-1992-99/par-008.md",
+"zb-1992-99/par-009.md",
+"zb-1992-99/zaver.md",
+"zb-1992-99/poznamky.md"
 ],
 "zz-1993-10": [
 "zz-1993-10/uvod.md",
