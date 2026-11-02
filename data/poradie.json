@@ -966,6 +966,12 @@
 "zb-1946-209/clanok-3.md",
 "zb-1946-209/zaver.md"
 ],
+"zb-1946-21": [
+"zb-1946-21/uvod.md",
+"zb-1946-21/par-001.md",
+"zb-1946-21/par-002.md",
+"zb-1946-21/zaver.md"
+],
 "zb-1946-210": [
 "zb-1946-210/uvod.md",
 "zb-1946-210/par-001.md",
@@ -1385,6 +1391,23 @@
 "zb-1946-247/clanok-4.md",
 "zb-1946-247/zaver.md"
 ],
+"zb-1946-25": [
+"zb-1946-25/uvod.md",
+"zb-1946-25/par-001.md",
+"zb-1946-25/par-002.md",
+"zb-1946-25/par-003.md",
+"zb-1946-25/par-004.md",
+"zb-1946-25/par-005.md",
+"zb-1946-25/par-006.md",
+"zb-1946-25/par-007.md",
+"zb-1946-25/par-008.md",
+"zb-1946-25/par-009.md",
+"zb-1946-25/par-010.md",
+"zb-1946-25/par-011.md",
+"zb-1946-25/par-012.md",
+"zb-1946-25/par-013.md",
+"zb-1946-25/zaver.md"
+],
 "zb-1946-250": [
 "zb-1946-250/uvod.md",
 "zb-1946-250/par-001.md",
@@ -1447,6 +1470,32 @@
 "zb-1946-255/par-023.md",
 "zb-1946-255/par-024.md",
 "zb-1946-255/zaver.md"
+],
+"zb-1946-26": [
+"zb-1946-26/uvod.md",
+"zb-1946-26/par-001.md",
+"zb-1946-26/par-002.md",
+"zb-1946-26/par-003.md",
+"zb-1946-26/par-004.md",
+"zb-1946-26/par-005.md",
+"zb-1946-26/par-006.md",
+"zb-1946-26/par-007.md",
+"zb-1946-26/par-008.md",
+"zb-1946-26/par-009.md",
+"zb-1946-26/par-010.md",
+"zb-1946-26/par-011.md",
+"zb-1946-26/par-012.md",
+"zb-1946-26/par-013.md",
+"zb-1946-26/par-014.md",
+"zb-1946-26/par-015.md",
+"zb-1946-26/zaver.md"
+],
+"zb-1946-27": [
+"zb-1946-27/uvod.md",
+"zb-1946-27/par-001.md",
+"zb-1946-27/par-002.md",
+"zb-1946-27/par-003.md",
+"zb-1946-27/zaver.md"
 ],
 "zb-1946-30": [
 "zb-1946-30/uvod.md",
@@ -1690,12 +1739,67 @@
 "zb-1946-35/par-003.md",
 "zb-1946-35/zaver.md"
 ],
+"zb-1946-36": [
+"zb-1946-36/uvod.md",
+"zb-1946-36/par-001.md",
+"zb-1946-36/par-002.md",
+"zb-1946-36/zaver.md"
+],
 "zb-1946-38": [
 "zb-1946-38/uvod.md",
 "zb-1946-38/par-001.md",
 "zb-1946-38/par-002.md",
 "zb-1946-38/par-003.md",
 "zb-1946-38/zaver.md"
+],
+"zb-1946-40": [
+"zb-1946-40/uvod.md",
+"zb-1946-40/par-001.md",
+"zb-1946-40/par-002.md",
+"zb-1946-40/par-003.md",
+"zb-1946-40/par-004.md",
+"zb-1946-40/zaver.md"
+],
+"zb-1946-41": [
+"zb-1946-41/uvod.md",
+"zb-1946-41/clanok-1.md",
+"zb-1946-41/clanok-2.md",
+"zb-1946-41/zaver.md",
+"zb-1946-41/prilohy/priloha-1.md",
+"zb-1946-41/prilohy/priloha-2.md",
+"zb-1946-41/prilohy/priloha-3.md",
+"zb-1946-41/poznamky.md"
+],
+"zb-1946-42": [
+"zb-1946-42/uvod.md",
+"zb-1946-42/clanok-1.md",
+"zb-1946-42/clanok-2.md",
+"zb-1946-42/zaver.md",
+"zb-1946-42/prilohy/priloha-1.md",
+"zb-1946-42/prilohy/priloha-2.md",
+"zb-1946-42/poznamky.md"
+],
+"zb-1946-43": [
+"zb-1946-43/uvod.md",
+"zb-1946-43/clanok-1.md",
+"zb-1946-43/clanok-2.md",
+"zb-1946-43/zaver.md",
+"zb-1946-43/prilohy/priloha-1.md",
+"zb-1946-43/prilohy/priloha-2.md",
+"zb-1946-43/poznamky.md"
+],
+"zb-1946-44": [
+"zb-1946-44/uvod.md",
+"zb-1946-44/par-001.md",
+"zb-1946-44/par-002.md",
+"zb-1946-44/par-003.md",
+"zb-1946-44/par-004.md",
+"zb-1946-44/par-005.md",
+"zb-1946-44/par-006.md",
+"zb-1946-44/par-007.md",
+"zb-1946-44/par-008.md",
+"zb-1946-44/par-009.md",
+"zb-1946-44/zaver.md"
 ],
 "zb-1946-45": [
 "zb-1946-45/uvod.md",
