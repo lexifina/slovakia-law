@@ -46612,6 +46612,12 @@
 "zz-2009-514/prilohy/priloha-5.md",
 "zz-2009-514/poznamky.md"
 ],
+"zz-2009-551": [
+"zz-2009-551/uvod.md",
+"zz-2009-551/par-001.md",
+"zz-2009-551/par-002.md",
+"zz-2009-551/zaver.md"
+],
 "zz-2009-563": [
 "zz-2009-563/uvod.md",
 "zz-2009-563/clanok-1.md",
@@ -46819,6 +46825,35 @@
 "zz-2009-563/prilohy/priloha-priloha_k_zakonu_c_563_2009_z_z.md",
 "zz-2009-563/poznamky.md"
 ],
+"zz-2009-567": [
+"zz-2009-567/uvod.md",
+"zz-2009-567/par-001.md",
+"zz-2009-567/par-001a.md",
+"zz-2009-567/par-001b.md",
+"zz-2009-567/par-002.md",
+"zz-2009-567/par-002a.md",
+"zz-2009-567/par-003.md",
+"zz-2009-567/par-004.md",
+"zz-2009-567/par-004a.md",
+"zz-2009-567/par-004b.md",
+"zz-2009-567/par-005.md",
+"zz-2009-567/par-006.md",
+"zz-2009-567/par-007.md",
+"zz-2009-567/par-008.md",
+"zz-2009-567/par-009.md",
+"zz-2009-567/par-010.md",
+"zz-2009-567/par-011.md",
+"zz-2009-567/par-011a.md",
+"zz-2009-567/par-012.md",
+"zz-2009-567/par-013.md",
+"zz-2009-567/par-014.md",
+"zz-2009-567/par-014a.md",
+"zz-2009-567/par-015.md",
+"zz-2009-567/par-017.md",
+"zz-2009-567/par-018.md",
+"zz-2009-567/zaver.md",
+"zz-2009-567/poznamky.md"
+],
 "zz-2009-569": [
 "zz-2009-569/uvod.md",
 "zz-2009-569/par-001.md",
@@ -46855,11 +46890,65 @@
 "zz-2009-571/zaver.md",
 "zz-2009-571/poznamky.md"
 ],
+"zz-2009-588": [
+"zz-2009-588/uvod.md",
+"zz-2009-588/clanok-1.md",
+"zz-2009-588/clanok-2.md",
+"zz-2009-588/zaver.md"
+],
+"zz-2009-589": [
+"zz-2009-589/uvod.md",
+"zz-2009-589/clanok-1.md",
+"zz-2009-589/clanok-2.md",
+"zz-2009-589/zaver.md"
+],
+"zz-2009-593": [
+"zz-2009-593/uvod.md",
+"zz-2009-593/clanok-1.md",
+"zz-2009-593/clanok-2.md",
+"zz-2009-593/clanok-3.md",
+"zz-2009-593/clanok-4.md",
+"zz-2009-593/clanok-5.md",
+"zz-2009-593/clanok-6.md",
+"zz-2009-593/clanok-7.md",
+"zz-2009-593/clanok-8.md",
+"zz-2009-593/clanok-9.md",
+"zz-2009-593/clanok-10.md",
+"zz-2009-593/clanok-11.md",
+"zz-2009-593/clanok-12.md",
+"zz-2009-593/clanok-13.md",
+"zz-2009-593/clanok-14.md",
+"zz-2009-593/clanok-15.md",
+"zz-2009-593/clanok-16.md",
+"zz-2009-593/clanok-17.md",
+"zz-2009-593/clanok-18.md",
+"zz-2009-593/clanok-19.md"
+],
 "zz-2009-595": [
 "zz-2009-595/uvod.md",
 "zz-2009-595/clanok-1.md",
 "zz-2009-595/clanok-2.md",
 "zz-2009-595/zaver.md"
+],
+"zz-2009-599": [
+"zz-2009-599/uvod.md",
+"zz-2009-599/par-001.md",
+"zz-2009-599/par-002.md",
+"zz-2009-599/par-003.md",
+"zz-2009-599/par-004.md",
+"zz-2009-599/par-005.md",
+"zz-2009-599/par-006.md",
+"zz-2009-599/par-007.md",
+"zz-2009-599/par-008.md",
+"zz-2009-599/zaver.md",
+"zz-2009-599/prilohy/priloha-1.md",
+"zz-2009-599/poznamky.md"
+],
+"zz-2009-601": [
+"zz-2009-601/uvod.md",
+"zz-2009-601/clanok-1.md",
+"zz-2009-601/clanok-2.md",
+"zz-2009-601/zaver.md"
 ],
 "zz-2009-66": [
 "zz-2009-66/uvod.md",
@@ -47673,6 +47762,42 @@
 "zz-2010-205/prilohy/priloha-6.md",
 "zz-2010-205/poznamky.md"
 ],
+"zz-2010-22": [
+"zz-2010-22/uvod.md",
+"zz-2010-22/par-001.md",
+"zz-2010-22/par-002.md",
+"zz-2010-22/par-003.md",
+"zz-2010-22/par-004.md",
+"zz-2010-22/par-005.md",
+"zz-2010-22/par-006.md",
+"zz-2010-22/par-007.md",
+"zz-2010-22/par-008.md",
+"zz-2010-22/par-009.md",
+"zz-2010-22/par-010.md",
+"zz-2010-22/par-011.md",
+"zz-2010-22/par-012.md",
+"zz-2010-22/par-013.md",
+"zz-2010-22/par-014.md",
+"zz-2010-22/par-015.md",
+"zz-2010-22/par-016.md",
+"zz-2010-22/par-017.md",
+"zz-2010-22/par-018.md",
+"zz-2010-22/par-019.md",
+"zz-2010-22/par-020.md",
+"zz-2010-22/par-021.md",
+"zz-2010-22/par-022.md",
+"zz-2010-22/par-023.md",
+"zz-2010-22/par-024.md",
+"zz-2010-22/par-025.md",
+"zz-2010-22/par-026.md",
+"zz-2010-22/par-027.md",
+"zz-2010-22/par-028.md",
+"zz-2010-22/par-029.md",
+"zz-2010-22/par-030.md",
+"zz-2010-22/par-031.md",
+"zz-2010-22/zaver.md",
+"zz-2010-22/poznamky.md"
+],
 "zz-2010-227": [
 "zz-2010-227/uvod.md",
 "zz-2010-227/clanok-1.md",
@@ -47738,6 +47863,20 @@
 "zz-2010-238/par-006.md",
 "zz-2010-238/zaver.md",
 "zz-2010-238/poznamky.md"
+],
+"zz-2010-24": [
+"zz-2010-24/uvod.md",
+"zz-2010-24/par-001.md",
+"zz-2010-24/par-002.md",
+"zz-2010-24/par-003.md",
+"zz-2010-24/par-004.md",
+"zz-2010-24/zaver.md",
+"zz-2010-24/prilohy/priloha-1.md",
+"zz-2010-24/prilohy/priloha-2.md",
+"zz-2010-24/prilohy/priloha-3.md",
+"zz-2010-24/prilohy/priloha-4.md",
+"zz-2010-24/prilohy/priloha-5.md",
+"zz-2010-24/poznamky.md"
 ],
 "zz-2010-245": [
 "zz-2010-245/uvod.md",
@@ -48099,6 +48238,12 @@
 "zz-2010-300/par-001.md",
 "zz-2010-300/par-002.md",
 "zz-2010-300/zaver.md"
+],
+"zz-2010-32": [
+"zz-2010-32/uvod.md",
+"zz-2010-32/clanok-1.md",
+"zz-2010-32/clanok-2.md",
+"zz-2010-32/zaver.md"
 ],
 "zz-2010-320": [
 "zz-2010-320/uvod.md",
