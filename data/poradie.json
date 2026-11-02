@@ -11557,12 +11557,79 @@
 "zb-1988-210/prilohy/priloha-1.md",
 "zb-1988-210/prilohy/priloha-2.md"
 ],
+"zb-1988-216": [
+"zb-1988-216/uvod.md",
+"zb-1988-216/par-001.md",
+"zb-1988-216/par-002.md",
+"zb-1988-216/par-003.md",
+"zb-1988-216/par-004.md",
+"zb-1988-216/par-005.md",
+"zb-1988-216/par-006.md",
+"zb-1988-216/par-007.md",
+"zb-1988-216/par-008.md",
+"zb-1988-216/par-009.md",
+"zb-1988-216/par-010.md",
+"zb-1988-216/par-011.md",
+"zb-1988-216/par-012.md",
+"zb-1988-216/par-013.md",
+"zb-1988-216/par-014.md",
+"zb-1988-216/par-015.md",
+"zb-1988-216/par-016.md",
+"zb-1988-216/par-017.md",
+"zb-1988-216/par-018.md",
+"zb-1988-216/zaver.md",
+"zb-1988-216/prilohy/priloha-priloha_vyhlasky_c_216_1988_sb.md",
+"zb-1988-216/poznamky.md"
+],
+"zb-1988-217": [
+"zb-1988-217/uvod.md",
+"zb-1988-217/par-001.md",
+"zb-1988-217/par-002.md",
+"zb-1988-217/par-003.md",
+"zb-1988-217/par-004.md",
+"zb-1988-217/par-005.md",
+"zb-1988-217/par-006.md",
+"zb-1988-217/par-007.md",
+"zb-1988-217/par-008.md",
+"zb-1988-217/par-009.md",
+"zb-1988-217/par-010.md",
+"zb-1988-217/zaver.md",
+"zb-1988-217/poznamky.md"
+],
+"zb-1988-220": [
+"zb-1988-220/uvod.md",
+"zb-1988-220/par-001.md",
+"zb-1988-220/par-006.md",
+"zb-1988-220/zaver.md",
+"zb-1988-220/prilohy/priloha-priloha_vyhlasky_ministerstva_kultury_ssr_c_220_1988_zb.md",
+"zb-1988-220/poznamky.md"
+],
 "zb-1988-222": [
 "zb-1988-222/uvod.md",
 "zb-1988-222/par-001.md",
 "zb-1988-222/par-002.md",
 "zb-1988-222/par-003.md",
 "zb-1988-222/zaver.md"
+],
+"zb-1988-225": [
+"zb-1988-225/uvod.md",
+"zb-1988-225/par-001.md",
+"zb-1988-225/par-002.md",
+"zb-1988-225/par-003.md",
+"zb-1988-225/par-004.md",
+"zb-1988-225/par-005.md",
+"zb-1988-225/par-006.md",
+"zb-1988-225/par-007.md",
+"zb-1988-225/par-008.md",
+"zb-1988-225/zaver.md",
+"zb-1988-225/poznamky.md"
+],
+"zb-1988-227": [
+"zb-1988-227/uvod.md",
+"zb-1988-227/clanok-1.md",
+"zb-1988-227/clanok-2.md",
+"zb-1988-227/zaver.md",
+"zb-1988-227/poznamky.md"
 ],
 "zb-1988-233": [
 "zb-1988-233/uvod.md",
@@ -11576,6 +11643,13 @@
 "zb-1988-233/par-008.md",
 "zb-1988-233/zaver.md",
 "zb-1988-233/poznamky.md"
+],
+"zb-1988-238": [
+"zb-1988-238/uvod.md",
+"zb-1988-238/par-001.md",
+"zb-1988-238/par-002.md",
+"zb-1988-238/zaver.md",
+"zb-1988-238/poznamky.md"
 ],
 "zb-1988-240": [
 "zb-1988-240/uvod.md",
@@ -11661,6 +11735,13 @@
 "zb-1988-240/par-148.md",
 "zb-1988-240/zaver.md",
 "zb-1988-240/poznamky.md"
+],
+"zb-1988-244": [
+"zb-1988-244/uvod.md",
+"zb-1988-244/par-001.md",
+"zb-1988-244/par-002.md",
+"zb-1988-244/zaver.md",
+"zb-1988-244/poznamky.md"
 ],
 "zb-1988-44": [
 "zb-1988-44/uvod.md",
@@ -12232,6 +12313,30 @@
 "zb-1989-198/clanok-1.md",
 "zb-1989-198/clanok-2.md",
 "zb-1989-198/zaver.md"
+],
+"zb-1989-2": [
+"zb-1989-2/uvod.md",
+"zb-1989-2/par-001.md",
+"zb-1989-2/par-002.md",
+"zb-1989-2/par-003.md",
+"zb-1989-2/par-004.md",
+"zb-1989-2/par-005.md",
+"zb-1989-2/par-006.md",
+"zb-1989-2/par-007.md",
+"zb-1989-2/par-008.md",
+"zb-1989-2/par-009.md",
+"zb-1989-2/par-010.md",
+"zb-1989-2/par-011.md",
+"zb-1989-2/par-012.md",
+"zb-1989-2/par-013.md",
+"zb-1989-2/par-014.md",
+"zb-1989-2/par-015.md",
+"zb-1989-2/par-016.md",
+"zb-1989-2/par-017.md",
+"zb-1989-2/zaver.md",
+"zb-1989-2/prilohy/priloha-1.md",
+"zb-1989-2/prilohy/priloha-2.md",
+"zb-1989-2/poznamky.md"
 ],
 "zb-1989-202": [
 "zb-1989-202/uvod.md",
@@ -14139,6 +14244,26 @@
 "zb-1989-64/zaver.md",
 "zb-1989-64/prilohy/priloha-priloha_vyhlasky_c_64_1989_zb.md"
 ],
+"zb-1989-7": [
+"zb-1989-7/uvod.md",
+"zb-1989-7/par-001.md",
+"zb-1989-7/par-002.md",
+"zb-1989-7/par-003.md",
+"zb-1989-7/par-004.md",
+"zb-1989-7/par-005.md",
+"zb-1989-7/par-006.md",
+"zb-1989-7/par-007.md",
+"zb-1989-7/par-008.md",
+"zb-1989-7/par-009.md",
+"zb-1989-7/par-010.md",
+"zb-1989-7/par-011.md",
+"zb-1989-7/par-012.md",
+"zb-1989-7/par-013.md",
+"zb-1989-7/par-014.md",
+"zb-1989-7/zaver.md",
+"zb-1989-7/prilohy/priloha-1.md",
+"zb-1989-7/poznamky.md"
+],
 "zb-1989-70": [
 "zb-1989-70/uvod.md",
 "zb-1989-70/clanok-1.md",
@@ -14248,6 +14373,26 @@
 "zb-1989-79/par-003.md",
 "zb-1989-79/par-004.md",
 "zb-1989-79/zaver.md"
+],
+"zb-1989-8": [
+"zb-1989-8/uvod.md",
+"zb-1989-8/par-001.md",
+"zb-1989-8/par-002.md",
+"zb-1989-8/par-003.md",
+"zb-1989-8/par-004.md",
+"zb-1989-8/par-005.md",
+"zb-1989-8/par-006.md",
+"zb-1989-8/par-007.md",
+"zb-1989-8/par-008.md",
+"zb-1989-8/par-009.md",
+"zb-1989-8/par-010.md",
+"zb-1989-8/par-011.md",
+"zb-1989-8/par-012.md",
+"zb-1989-8/par-013.md",
+"zb-1989-8/par-014.md",
+"zb-1989-8/par-015.md",
+"zb-1989-8/zaver.md",
+"zb-1989-8/poznamky.md"
 ],
 "zb-1989-80": [
 "zb-1989-80/uvod.md",
