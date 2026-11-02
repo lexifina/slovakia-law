@@ -260,7 +260,7 @@ content is the PDF version of the Collection of Laws.
 
 ## The acts in force, current version (appended)
 
-Everything above describes the two acts traced version by version. The other 2248 acts were appended on top of that history, one commit each, by a separate private script
+Everything above describes the two acts traced version by version. The other 2258 acts were appended on top of that history, one commit each, by a separate private script
 (`wave3.py`, kept with the build notes, not in this repository), from the same source:
 
 | What | Where |
@@ -284,6 +284,6 @@ Everything above describes the two acts traced version by version. The other 224
   The act's first dated version with no amending act named is the act as enacted (`Kind: law`, credited to the act);
   any later version is a `Kind: baseline` committed by Slov-Lex, credited to no act. Author and committer dates are
   that day at noon in Bratislava (before 1970: 1 January 1970, as above).
-- Kept: 218 images and 849 PDF annexes; 1 could not be kept and are marked at their place.
+- Kept: 256 images and 855 PDF annexes; 1 could not be kept and are marked at their place.
 - Check: `python -X utf8 tools/check_wave3.py` (every listed act's folder and file count, every asset link and its
   sha256, `data/assets.tsv`, the trailers of every appended commit). No AI model wrote, summarised or chose any text.
