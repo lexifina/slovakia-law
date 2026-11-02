@@ -5241,6 +5241,13 @@
 "zb-1969-1/par-101.md",
 "zb-1969-1/zaver.md"
 ],
+"zb-1969-100": [
+"zb-1969-100/uvod.md",
+"zb-1969-100/par-001.md",
+"zb-1969-100/par-002.md",
+"zb-1969-100/par-003.md",
+"zb-1969-100/zaver.md"
+],
 "zb-1969-103": [
 "zb-1969-103/uvod.md",
 "zb-1969-103/par-001.md",
@@ -5487,6 +5494,27 @@
 "zb-1969-39/zaver.md",
 "zb-1969-39/poznamky.md"
 ],
+"zb-1969-65": [
+"zb-1969-65/uvod.md",
+"zb-1969-65/par-001.md",
+"zb-1969-65/par-002.md",
+"zb-1969-65/par-003.md",
+"zb-1969-65/par-004.md",
+"zb-1969-65/par-005.md",
+"zb-1969-65/par-006.md",
+"zb-1969-65/par-007.md",
+"zb-1969-65/par-008.md",
+"zb-1969-65/par-009.md",
+"zb-1969-65/par-010.md",
+"zb-1969-65/zaver.md",
+"zb-1969-65/poznamky.md"
+],
+"zb-1969-68": [
+"zb-1969-68/uvod.md",
+"zb-1969-68/par-001.md",
+"zb-1969-68/par-002.md",
+"zb-1969-68/zaver.md"
+],
 "zb-1969-7": [
 "zb-1969-7/uvod.md",
 "zb-1969-7/par-001.md",
@@ -5519,6 +5547,31 @@
 "zb-1969-72/clanok-10.md",
 "zb-1969-72/zaver.md",
 "zb-1969-72/prilohy/priloha-priloha_zakona_snr_c_72_1969_zb_o_niektorych_opatreniach_v_organizacii_a_posobnosti_narodnych_vyborov_v_slovenskej_socialistickej_republike.md"
+],
+"zb-1969-74": [
+"zb-1969-74/uvod.md",
+"zb-1969-74/clanok-1.md",
+"zb-1969-74/clanok-2.md",
+"zb-1969-74/clanok-3.md",
+"zb-1969-74/par-010.md",
+"zb-1969-74/par-012.md",
+"zb-1969-74/par-013.md",
+"zb-1969-74/par-019.md",
+"zb-1969-74/par-025.md",
+"zb-1969-74/par-034.md",
+"zb-1969-74/par-035.md",
+"zb-1969-74/par-038.md",
+"zb-1969-74/par-039.md",
+"zb-1969-74/par-042.md",
+"zb-1969-74/par-044.md",
+"zb-1969-74/par-045.md",
+"zb-1969-74/par-046.md",
+"zb-1969-74/par-050.md",
+"zb-1969-74/par-052.md",
+"zb-1969-74/clanok-4.md",
+"zb-1969-74/clanok-5.md",
+"zb-1969-74/zaver.md",
+"zb-1969-74/poznamky.md"
 ],
 "zb-1969-76": [
 "zb-1969-76/uvod.md",
@@ -5556,6 +5609,49 @@
 "zb-1969-78/zaver.md",
 "zb-1969-78/poznamky.md"
 ],
+"zb-1969-79": [
+"zb-1969-79/uvod.md",
+"zb-1969-79/par-001.md",
+"zb-1969-79/par-002.md",
+"zb-1969-79/par-003.md",
+"zb-1969-79/par-004.md",
+"zb-1969-79/par-005.md",
+"zb-1969-79/zaver.md"
+],
+"zb-1969-80": [
+"zb-1969-80/uvod.md",
+"zb-1969-80/clanok-prvni.md",
+"zb-1969-80/clanok-druhy.md",
+"zb-1969-80/clanok-treti.md",
+"zb-1969-80/zaver.md",
+"zb-1969-80/poznamky.md"
+],
+"zb-1969-81": [
+"zb-1969-81/uvod.md",
+"zb-1969-81/par-001.md",
+"zb-1969-81/par-002.md",
+"zb-1969-81/par-003.md",
+"zb-1969-81/par-004.md",
+"zb-1969-81/par-005.md",
+"zb-1969-81/par-006.md",
+"zb-1969-81/par-007.md",
+"zb-1969-81/par-008.md",
+"zb-1969-81/par-009.md",
+"zb-1969-81/par-010.md",
+"zb-1969-81/par-011.md",
+"zb-1969-81/par-012.md",
+"zb-1969-81/zaver.md"
+],
+"zb-1969-82": [
+"zb-1969-82/uvod.md",
+"zb-1969-82/par-001.md",
+"zb-1969-82/par-002.md",
+"zb-1969-82/par-003.md",
+"zb-1969-82/par-004.md",
+"zb-1969-82/par-005.md",
+"zb-1969-82/zaver.md",
+"zb-1969-82/poznamky.md"
+],
 "zb-1969-88": [
 "zb-1969-88/uvod.md",
 "zb-1969-88/par-001.md",
@@ -5564,6 +5660,29 @@
 "zb-1969-88/par-006.md",
 "zb-1969-88/zaver.md",
 "zb-1969-88/poznamky.md"
+],
+"zb-1969-90": [
+"zb-1969-90/uvod.md",
+"zb-1969-90/clanok-1.md",
+"zb-1969-90/clanok-2.md",
+"zb-1969-90/clanok-3.md",
+"zb-1969-90/clanok-4.md",
+"zb-1969-90/clanok-5.md",
+"zb-1969-90/clanok-6.md",
+"zb-1969-90/clanok-7.md",
+"zb-1969-90/clanok-8.md",
+"zb-1969-90/clanok-9.md",
+"zb-1969-90/clanok-10.md",
+"zb-1969-90/clanok-11.md",
+"zb-1969-90/clanok-12.md",
+"zb-1969-90/zaver.md",
+"zb-1969-90/poznamky.md"
+],
+"zb-1969-98": [
+"zb-1969-98/uvod.md",
+"zb-1969-98/par-001.md",
+"zb-1969-98/par-002.md",
+"zb-1969-98/zaver.md"
 ],
 "zb-1970-1": [
 "zb-1970-1/uvod.md",
