@@ -5249,6 +5249,72 @@
 "zb-1969-117/par-008.md",
 "zb-1969-117/zaver.md"
 ],
+"zb-1969-141": [
+"zb-1969-141/uvod.md",
+"zb-1969-141/clanok-1.md",
+"zb-1969-141/clanok-2.md",
+"zb-1969-141/clanok-3.md",
+"zb-1969-141/zaver.md",
+"zb-1969-141/prilohy/priloha-priloha.md"
+],
+"zb-1969-143": [
+"zb-1969-143/uvod.md",
+"zb-1969-143/clanok-1.md",
+"zb-1969-143/clanok-2.md",
+"zb-1969-143/zaver.md",
+"zb-1969-143/poznamky.md"
+],
+"zb-1969-144": [
+"zb-1969-144/uvod.md",
+"zb-1969-144/clanok-1.md",
+"zb-1969-144/clanok-2.md",
+"zb-1969-144/zaver.md"
+],
+"zb-1969-159": [
+"zb-1969-159/uvod.md",
+"zb-1969-159/par-001.md",
+"zb-1969-159/par-002.md",
+"zb-1969-159/par-003.md",
+"zb-1969-159/par-004.md",
+"zb-1969-159/par-005.md",
+"zb-1969-159/par-006.md",
+"zb-1969-159/par-007.md",
+"zb-1969-159/par-008.md",
+"zb-1969-159/par-009.md",
+"zb-1969-159/par-010.md",
+"zb-1969-159/par-011.md",
+"zb-1969-159/par-012.md",
+"zb-1969-159/par-013.md",
+"zb-1969-159/par-014.md",
+"zb-1969-159/par-015.md",
+"zb-1969-159/par-016.md",
+"zb-1969-159/par-017.md",
+"zb-1969-159/par-018.md",
+"zb-1969-159/par-019.md",
+"zb-1969-159/par-020.md",
+"zb-1969-159/par-021.md",
+"zb-1969-159/par-022.md",
+"zb-1969-159/par-023.md",
+"zb-1969-159/par-024.md",
+"zb-1969-159/par-025.md",
+"zb-1969-159/par-026.md",
+"zb-1969-159/par-027.md",
+"zb-1969-159/par-028.md",
+"zb-1969-159/par-029.md",
+"zb-1969-159/par-030.md",
+"zb-1969-159/par-031.md",
+"zb-1969-159/par-032.md",
+"zb-1969-159/par-033.md",
+"zb-1969-159/par-034.md",
+"zb-1969-159/par-035.md",
+"zb-1969-159/par-036.md",
+"zb-1969-159/par-037.md",
+"zb-1969-159/par-038.md",
+"zb-1969-159/par-039.md",
+"zb-1969-159/par-040.md",
+"zb-1969-159/zaver.md",
+"zb-1969-159/poznamky.md"
+],
 "zb-1969-161": [
 "zb-1969-161/uvod.md",
 "zb-1969-161/par-001.md",
@@ -5268,6 +5334,19 @@
 "zb-1969-172/zaver.md",
 "zb-1969-172/prilohy/priloha-1.md",
 "zb-1969-172/prilohy/priloha-2.md"
+],
+"zb-1969-175": [
+"zb-1969-175/uvod.md",
+"zb-1969-175/par-001.md",
+"zb-1969-175/par-002.md",
+"zb-1969-175/par-003.md",
+"zb-1969-175/zaver.md"
+],
+"zb-1969-176": [
+"zb-1969-176/uvod.md",
+"zb-1969-176/par-001.md",
+"zb-1969-176/par-002.md",
+"zb-1969-176/zaver.md"
 ],
 "zb-1969-2": [
 "zb-1969-2/uvod.md",
@@ -5419,6 +5498,12 @@
 "zb-1969-88/par-006.md",
 "zb-1969-88/zaver.md",
 "zb-1969-88/poznamky.md"
+],
+"zb-1970-1": [
+"zb-1970-1/uvod.md",
+"zb-1970-1/clanok-1.md",
+"zb-1970-1/clanok-2.md",
+"zb-1970-1/zaver.md"
 ],
 "zb-1970-10": [
 "zb-1970-10/uvod.md",
@@ -6283,6 +6368,15 @@
 "zb-1970-39/par-002.md",
 "zb-1970-39/zaver.md"
 ],
+"zb-1970-4": [
+"zb-1970-4/uvod.md",
+"zb-1970-4/par-001.md",
+"zb-1970-4/par-002.md",
+"zb-1970-4/par-003.md",
+"zb-1970-4/par-004.md",
+"zb-1970-4/zaver.md",
+"zb-1970-4/poznamky.md"
+],
 "zb-1970-40": [
 "zb-1970-40/uvod.md",
 "zb-1970-40/par-001.md",
@@ -6596,11 +6690,37 @@
 "zb-1970-46/par-003.md",
 "zb-1970-46/zaver.md"
 ],
+"zb-1970-5": [
+"zb-1970-5/uvod.md",
+"zb-1970-5/par-001.md",
+"zb-1970-5/par-002.md",
+"zb-1970-5/zaver.md"
+],
 "zb-1970-56": [
 "zb-1970-56/uvod.md",
 "zb-1970-56/par-001.md",
 "zb-1970-56/par-002.md",
 "zb-1970-56/zaver.md"
+],
+"zb-1970-6": [
+"zb-1970-6/uvod.md",
+"zb-1970-6/par-001.md",
+"zb-1970-6/par-002.md",
+"zb-1970-6/par-003.md",
+"zb-1970-6/par-004.md",
+"zb-1970-6/par-005.md",
+"zb-1970-6/par-006.md",
+"zb-1970-6/par-007.md",
+"zb-1970-6/par-008.md",
+"zb-1970-6/par-009.md",
+"zb-1970-6/par-010.md",
+"zb-1970-6/par-011.md",
+"zb-1970-6/par-012.md",
+"zb-1970-6/par-013.md",
+"zb-1970-6/par-014.md",
+"zb-1970-6/par-015.md",
+"zb-1970-6/zaver.md",
+"zb-1970-6/poznamky.md"
 ],
 "zb-1970-62": [
 "zb-1970-62/uvod.md",
