@@ -2005,6 +2005,7 @@
     "66/1983 Zb.",
     "66/1986 Zb.",
     "66/2009 Z. z.",
+    "66/2025 Z. z.",
     "661/2005 Z. z.",
     "663/2007 Z. z.",
     "668/2004 Z. z.",
@@ -2061,6 +2062,7 @@
     "74/1990 Zb.",
     "74/2001 Z. z.",
     "74/2004 Z. z.",
+    "74/2025 Z. z.",
     "747/2004 Z. z.",
     "75/1946 Zb.",
     "75/1963 Zb.",
@@ -2208,7 +2210,8 @@
     "98/2014 Z. z.",
     "99/1946 Zb.",
     "99/1967 Zb.",
-    "99/2024 Z. z."
+    "99/2024 Z. z.",
+    "99/2025 Z. z."
   ],
   "history_from": "1992-10-01",
   "built": "2026-10-28",
@@ -2241,5 +2244,5 @@
   "language": "sk",
   "checked_on": "2026-11-02",
   "history": "in-force",
-  "record_note": "Checked against the official source on 2026-10-28 (the two traced acts) and 2026-11-02 (the acts appended as their current version). History version by version for the Constitution and the election act; 2205 other acts in force are held as their version in force on 2026-11-02 only: 1219 as enacted (Kind: law, credited to the act) and 986 later versions credited to no act (Kind: baseline); their earlier versions are not yet traced."
+  "record_note": "Checked against the official source on 2026-10-28 (the two traced acts) and 2026-11-02 (the acts appended as their current version). History version by version for the Constitution and the election act; 2208 other acts in force are held as their version in force on 2026-11-02 only: 1222 as enacted (Kind: law, credited to the act) and 986 later versions credited to no act (Kind: baseline); their earlier versions are not yet traced."
 }
