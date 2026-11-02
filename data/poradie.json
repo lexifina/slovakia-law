@@ -44303,6 +44303,37 @@
 "zz-2008-413/par-002.md",
 "zz-2008-413/zaver.md"
 ],
+"zz-2008-415": [
+"zz-2008-415/uvod.md",
+"zz-2008-415/par-001.md",
+"zz-2008-415/par-002.md",
+"zz-2008-415/par-003.md",
+"zz-2008-415/par-004.md",
+"zz-2008-415/par-005.md",
+"zz-2008-415/par-006.md",
+"zz-2008-415/par-007.md",
+"zz-2008-415/par-008.md",
+"zz-2008-415/par-009.md",
+"zz-2008-415/par-010.md",
+"zz-2008-415/par-011.md",
+"zz-2008-415/par-012.md",
+"zz-2008-415/par-013.md",
+"zz-2008-415/par-014.md",
+"zz-2008-415/par-015.md",
+"zz-2008-415/zaver.md",
+"zz-2008-415/prilohy/priloha-1.md",
+"zz-2008-415/prilohy/priloha-2.md",
+"zz-2008-415/prilohy/priloha-3.md",
+"zz-2008-415/prilohy/priloha-4.md",
+"zz-2008-415/prilohy/priloha-5.md",
+"zz-2008-415/prilohy/priloha-6.md",
+"zz-2008-415/prilohy/priloha-7.md",
+"zz-2008-415/prilohy/priloha-8.md",
+"zz-2008-415/prilohy/priloha-9.md",
+"zz-2008-415/prilohy/priloha-10.md",
+"zz-2008-415/prilohy/priloha-11.md",
+"zz-2008-415/poznamky.md"
+],
 "zz-2008-420": [
 "zz-2008-420/uvod.md",
 "zz-2008-420/par-001.md",
@@ -44310,6 +44341,12 @@
 "zz-2008-420/par-003.md",
 "zz-2008-420/zaver.md",
 "zz-2008-420/prilohy/priloha-1.md"
+],
+"zz-2008-424": [
+"zz-2008-424/uvod.md",
+"zz-2008-424/clanok-1.md",
+"zz-2008-424/clanok-2.md",
+"zz-2008-424/zaver.md"
 ],
 "zz-2008-429": [
 "zz-2008-429/uvod.md",
@@ -44360,6 +44397,44 @@
 "zz-2008-436/zaver.md",
 "zz-2008-436/prilohy/priloha-priloha_k_nariadeniu_vlady_c_436_2008_z_z.md",
 "zz-2008-436/poznamky.md"
+],
+"zz-2008-437": [
+"zz-2008-437/uvod.md",
+"zz-2008-437/par-001.md",
+"zz-2008-437/par-002.md",
+"zz-2008-437/par-003.md",
+"zz-2008-437/par-004.md",
+"zz-2008-437/zaver.md",
+"zz-2008-437/prilohy/priloha-text.md",
+"zz-2008-437/poznamky.md"
+],
+"zz-2008-438": [
+"zz-2008-438/uvod.md",
+"zz-2008-438/par-001.md",
+"zz-2008-438/par-002.md",
+"zz-2008-438/par-003.md",
+"zz-2008-438/par-004.md",
+"zz-2008-438/par-005.md",
+"zz-2008-438/par-006.md",
+"zz-2008-438/par-007.md",
+"zz-2008-438/par-008.md",
+"zz-2008-438/zaver.md",
+"zz-2008-438/prilohy/priloha-1.md",
+"zz-2008-438/poznamky.md"
+],
+"zz-2008-440": [
+"zz-2008-440/uvod.md",
+"zz-2008-440/par-001.md",
+"zz-2008-440/par-002.md",
+"zz-2008-440/par-003.md",
+"zz-2008-440/par-004.md",
+"zz-2008-440/zaver.md",
+"zz-2008-440/prilohy/priloha-1.md",
+"zz-2008-440/prilohy/priloha-2.md",
+"zz-2008-440/prilohy/priloha-3.md",
+"zz-2008-440/prilohy/priloha-4.md",
+"zz-2008-440/prilohy/priloha-5.md",
+"zz-2008-440/poznamky.md"
 ],
 "zz-2008-447": [
 "zz-2008-447/uvod.md",
@@ -44683,6 +44758,12 @@
 "zz-2008-448/prilohy/priloha-7.md",
 "zz-2008-448/poznamky.md"
 ],
+"zz-2008-450": [
+"zz-2008-450/uvod.md",
+"zz-2008-450/par-001.md",
+"zz-2008-450/par-002.md",
+"zz-2008-450/zaver.md"
+],
 "zz-2008-476": [
 "zz-2008-476/uvod.md",
 "zz-2008-476/clanok-2.md",
@@ -44691,6 +44772,33 @@
 "zz-2008-476/prilohy/priloha-1.md",
 "zz-2008-476/prilohy/priloha-2.md",
 "zz-2008-476/poznamky.md"
+],
+"zz-2008-478": [
+"zz-2008-478/uvod.md",
+"zz-2008-478/par-001.md",
+"zz-2008-478/par-002.md",
+"zz-2008-478/par-003.md",
+"zz-2008-478/par-004.md",
+"zz-2008-478/par-005.md",
+"zz-2008-478/par-006.md",
+"zz-2008-478/par-007.md",
+"zz-2008-478/par-008.md",
+"zz-2008-478/par-009.md",
+"zz-2008-478/par-010.md",
+"zz-2008-478/par-011.md",
+"zz-2008-478/par-012.md",
+"zz-2008-478/par-013.md",
+"zz-2008-478/par-014.md",
+"zz-2008-478/par-015.md",
+"zz-2008-478/par-016.md",
+"zz-2008-478/zaver.md",
+"zz-2008-478/prilohy/priloha-1.md",
+"zz-2008-478/prilohy/priloha-2.md",
+"zz-2008-478/prilohy/priloha-3.md",
+"zz-2008-478/prilohy/priloha-4.md",
+"zz-2008-478/prilohy/priloha-5.md",
+"zz-2008-478/prilohy/priloha-6.md",
+"zz-2008-478/poznamky.md"
 ],
 "zz-2008-493": [
 "zz-2008-493/uvod.md",
@@ -44869,6 +44977,14 @@
 "zz-2008-522/prilohy/priloha-6.md",
 "zz-2008-522/poznamky.md"
 ],
+"zz-2008-523": [
+"zz-2008-523/uvod.md",
+"zz-2008-523/clanok-4.md",
+"zz-2008-523/clanok-5.md",
+"zz-2008-523/clanok-6.md",
+"zz-2008-523/clanok-7.md",
+"zz-2008-523/zaver.md"
+],
 "zz-2008-528": [
 "zz-2008-528/uvod.md",
 "zz-2008-528/par-001.md",
@@ -44947,6 +45063,18 @@
 "zz-2008-528/zaver.md",
 "zz-2008-528/prilohy/priloha-priloha_k_zakonu_c_528_2008_z_z.md",
 "zz-2008-528/poznamky.md"
+],
+"zz-2008-531": [
+"zz-2008-531/uvod.md",
+"zz-2008-531/clanok-1.md",
+"zz-2008-531/clanok-2.md",
+"zz-2008-531/zaver.md"
+],
+"zz-2008-532": [
+"zz-2008-532/uvod.md",
+"zz-2008-532/clanok-1.md",
+"zz-2008-532/clanok-2.md",
+"zz-2008-532/zaver.md"
 ],
 "zz-2008-533": [
 "zz-2008-533/uvod.md",
