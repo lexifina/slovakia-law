@@ -51753,6 +51753,13 @@
 "zz-2016-91/prilohy/priloha-priloha_k_zakonu_c_91_2016_z_z.md",
 "zz-2016-91/poznamky.md"
 ],
+"zz-2017-114": [
+"zz-2017-114/uvod.md",
+"zz-2017-114/par-001.md",
+"zz-2017-114/par-002.md",
+"zz-2017-114/zaver.md",
+"zz-2017-114/poznamky.md"
+],
 "zz-2017-138": [
 "zz-2017-138/uvod.md",
 "zz-2017-138/clanok-1.md",
@@ -51794,6 +51801,19 @@
 "zz-2017-138/clanok-6.md",
 "zz-2017-138/zaver.md",
 "zz-2017-138/poznamky.md"
+],
+"zz-2017-174": [
+"zz-2017-174/uvod.md",
+"zz-2017-174/par-001.md",
+"zz-2017-174/par-002.md",
+"zz-2017-174/par-003.md",
+"zz-2017-174/par-004.md",
+"zz-2017-174/par-005.md",
+"zz-2017-174/zaver.md",
+"zz-2017-174/prilohy/priloha-1.md",
+"zz-2017-174/prilohy/priloha-2.md",
+"zz-2017-174/prilohy/priloha-3.md",
+"zz-2017-174/poznamky.md"
 ],
 "zz-2017-236": [
 "zz-2017-236/uvod.md",
@@ -51921,6 +51941,14 @@
 "zz-2017-243/zaver.md",
 "zz-2017-243/poznamky.md"
 ],
+"zz-2017-245": [
+"zz-2017-245/uvod.md",
+"zz-2017-245/par-001.md",
+"zz-2017-245/par-002.md",
+"zz-2017-245/zaver.md",
+"zz-2017-245/prilohy/priloha-1.md",
+"zz-2017-245/prilohy/priloha-2.md"
+],
 "zz-2017-261": [
 "zz-2017-261/uvod.md",
 "zz-2017-261/par-001.md",
@@ -51935,6 +51963,21 @@
 "zz-2017-261/par-010.md",
 "zz-2017-261/zaver.md",
 "zz-2017-261/poznamky.md"
+],
+"zz-2017-273": [
+"zz-2017-273/uvod.md",
+"zz-2017-273/par-001.md",
+"zz-2017-273/par-002.md",
+"zz-2017-273/par-003.md",
+"zz-2017-273/par-004.md",
+"zz-2017-273/par-005.md",
+"zz-2017-273/par-006.md",
+"zz-2017-273/par-007.md",
+"zz-2017-273/par-008.md",
+"zz-2017-273/par-009.md",
+"zz-2017-273/zaver.md",
+"zz-2017-273/prilohy/priloha-prilohak_nariadeniu_vlady_c_273_2017_z_z.md",
+"zz-2017-273/poznamky.md"
 ],
 "zz-2017-274": [
 "zz-2017-274/uvod.md",
@@ -52655,6 +52698,18 @@
 "zz-2018-113/zaver.md",
 "zz-2018-113/poznamky.md"
 ],
+"zz-2018-115": [
+"zz-2018-115/uvod.md",
+"zz-2018-115/par-001.md",
+"zz-2018-115/par-002.md",
+"zz-2018-115/par-003.md",
+"zz-2018-115/par-004.md",
+"zz-2018-115/par-004a.md",
+"zz-2018-115/par-005.md",
+"zz-2018-115/zaver.md",
+"zz-2018-115/prilohy/priloha-priloha_k_nariadeniu_vlady_c_115_2018_z_z.md",
+"zz-2018-115/poznamky.md"
+],
 "zz-2018-157": [
 "zz-2018-157/uvod.md",
 "zz-2018-157/clanok-1.md",
@@ -53140,6 +53195,47 @@
 "zz-2018-18/prilohy/priloha-priloha_k_zakonu_c_18_2018_z_z.md",
 "zz-2018-18/poznamky.md"
 ],
+"zz-2018-195": [
+"zz-2018-195/uvod.md",
+"zz-2018-195/par-001.md",
+"zz-2018-195/par-002.md",
+"zz-2018-195/par-003.md",
+"zz-2018-195/par-004.md",
+"zz-2018-195/par-005.md",
+"zz-2018-195/par-006.md",
+"zz-2018-195/par-007.md",
+"zz-2018-195/par-008.md",
+"zz-2018-195/par-009.md",
+"zz-2018-195/par-010.md",
+"zz-2018-195/par-010a.md",
+"zz-2018-195/par-010b.md",
+"zz-2018-195/par-011.md",
+"zz-2018-195/par-011a.md",
+"zz-2018-195/par-011b.md",
+"zz-2018-195/par-011c.md",
+"zz-2018-195/par-011d.md",
+"zz-2018-195/par-011e.md",
+"zz-2018-195/par-011f.md",
+"zz-2018-195/par-011g.md",
+"zz-2018-195/par-012.md",
+"zz-2018-195/par-013.md",
+"zz-2018-195/zaver.md",
+"zz-2018-195/prilohy/priloha-1.md",
+"zz-2018-195/prilohy/priloha-2k.md",
+"zz-2018-195/prilohy/priloha-3k.md",
+"zz-2018-195/prilohy/priloha-4k.md",
+"zz-2018-195/prilohy/priloha-5k.md",
+"zz-2018-195/prilohy/priloha-6k.md",
+"zz-2018-195/prilohy/priloha-7k.md",
+"zz-2018-195/prilohy/priloha-8k.md",
+"zz-2018-195/prilohy/priloha-10k.md",
+"zz-2018-195/prilohy/priloha-11.md",
+"zz-2018-195/prilohy/priloha-12.md",
+"zz-2018-195/prilohy/priloha-13.md",
+"zz-2018-195/prilohy/priloha-14k.md",
+"zz-2018-195/prilohy/priloha-15k.md",
+"zz-2018-195/poznamky.md"
+],
 "zz-2018-210": [
 "zz-2018-210/uvod.md",
 "zz-2018-210/clanok-1.md",
@@ -53227,6 +53323,14 @@
 "zz-2018-216/clanok-3.md",
 "zz-2018-216/zaver.md",
 "zz-2018-216/poznamky.md"
+],
+"zz-2018-245": [
+"zz-2018-245/uvod.md",
+"zz-2018-245/par-001.md",
+"zz-2018-245/par-002.md",
+"zz-2018-245/zaver.md",
+"zz-2018-245/prilohy/priloha-1.md",
+"zz-2018-245/prilohy/priloha-2.md"
 ],
 "zz-2018-269": [
 "zz-2018-269/uvod.md",
@@ -53657,6 +53761,45 @@
 "zz-2018-329/prilohy/priloha-5.md",
 "zz-2018-329/prilohy/priloha-6.md",
 "zz-2018-329/poznamky.md"
+],
+"zz-2018-330": [
+"zz-2018-330/uvod.md",
+"zz-2018-330/par-001.md",
+"zz-2018-330/par-002.md",
+"zz-2018-330/par-003.md",
+"zz-2018-330/par-003a.md",
+"zz-2018-330/par-004.md",
+"zz-2018-330/par-005.md",
+"zz-2018-330/par-006.md",
+"zz-2018-330/zaver.md",
+"zz-2018-330/prilohy/priloha-1.md",
+"zz-2018-330/prilohy/priloha-2.md",
+"zz-2018-330/prilohy/priloha-3.md",
+"zz-2018-330/prilohy/priloha-4.md",
+"zz-2018-330/prilohy/priloha-5.md",
+"zz-2018-330/prilohy/priloha-6.md",
+"zz-2018-330/poznamky.md"
+],
+"zz-2018-342": [
+"zz-2018-342/uvod.md",
+"zz-2018-342/par-001.md",
+"zz-2018-342/par-002.md",
+"zz-2018-342/par-003.md",
+"zz-2018-342/par-004.md",
+"zz-2018-342/par-005.md",
+"zz-2018-342/par-006.md",
+"zz-2018-342/par-007.md",
+"zz-2018-342/par-008.md",
+"zz-2018-342/par-009.md",
+"zz-2018-342/par-010.md",
+"zz-2018-342/par-011.md",
+"zz-2018-342/par-012.md",
+"zz-2018-342/par-013.md",
+"zz-2018-342/par-014.md",
+"zz-2018-342/par-015.md",
+"zz-2018-342/zaver.md",
+"zz-2018-342/prilohy/priloha-priloha_k_nariadeniu_vlady_c_342_2018_z_z.md",
+"zz-2018-342/poznamky.md"
 ],
 "zz-2018-346": [
 "zz-2018-346/uvod.md",
@@ -54413,6 +54556,18 @@
 "zz-2019-201/prilohy/priloha-5.md",
 "zz-2019-201/prilohy/priloha-6.md",
 "zz-2019-201/poznamky.md"
+],
+"zz-2019-21": [
+"zz-2019-21/uvod.md",
+"zz-2019-21/par-001.md",
+"zz-2019-21/par-002.md",
+"zz-2019-21/par-002a.md",
+"zz-2019-21/par-003.md",
+"zz-2019-21/par-004.md",
+"zz-2019-21/par-005.md",
+"zz-2019-21/zaver.md",
+"zz-2019-21/prilohy/priloha-prilohak_nariadeniu_vlady_c_21_2019_z_z.md",
+"zz-2019-21/poznamky.md"
 ],
 "zz-2019-213": [
 "zz-2019-213/uvod.md",
