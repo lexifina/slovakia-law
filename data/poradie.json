@@ -65936,6 +65936,12 @@
 "zz-2024-99/prilohy/priloha-priloha_k_zakonu_c_99_2024_z_z.md",
 "zz-2024-99/poznamky.md"
 ],
+"zz-2025-1": [
+"zz-2025-1/uvod.md",
+"zz-2025-1/clanok-1.md",
+"zz-2025-1/clanok-2.md",
+"zz-2025-1/zaver.md"
+],
 "zz-2025-101": [
 "zz-2025-101/uvod.md",
 "zz-2025-101/clanok-1.md",
@@ -66018,6 +66024,12 @@
 "zz-2025-129/clanok-2.md",
 "zz-2025-129/zaver.md"
 ],
+"zz-2025-13": [
+"zz-2025-13/uvod.md",
+"zz-2025-13/clanok-1.md",
+"zz-2025-13/clanok-2.md",
+"zz-2025-13/zaver.md"
+],
 "zz-2025-131": [
 "zz-2025-131/uvod.md",
 "zz-2025-131/par-001.md",
@@ -66040,6 +66052,12 @@
 "zz-2025-139/par-004.md",
 "zz-2025-139/zaver.md"
 ],
+"zz-2025-14": [
+"zz-2025-14/uvod.md",
+"zz-2025-14/clanok-1.md",
+"zz-2025-14/clanok-2.md",
+"zz-2025-14/zaver.md"
+],
 "zz-2025-147": [
 "zz-2025-147/uvod.md",
 "zz-2025-147/par-001.md",
@@ -66060,6 +66078,17 @@
 "zz-2025-148/par-002.md",
 "zz-2025-148/par-003.md",
 "zz-2025-148/zaver.md"
+],
+"zz-2025-15": [
+"zz-2025-15/uvod.md",
+"zz-2025-15/par-001.md",
+"zz-2025-15/par-002.md",
+"zz-2025-15/par-003.md",
+"zz-2025-15/par-004.md",
+"zz-2025-15/par-005.md",
+"zz-2025-15/zaver.md",
+"zz-2025-15/prilohy/priloha-priloha_k_vyhlaske_c_15_2025_z_z.md",
+"zz-2025-15/poznamky.md"
 ],
 "zz-2025-150": [
 "zz-2025-150/uvod.md",
@@ -66966,6 +66995,14 @@
 "zz-2025-299/prilohy/priloha-4.md",
 "zz-2025-299/prilohy/priloha-5.md"
 ],
+"zz-2025-3": [
+"zz-2025-3/uvod.md",
+"zz-2025-3/par-001.md",
+"zz-2025-3/par-002.md",
+"zz-2025-3/par-003.md",
+"zz-2025-3/zaver.md",
+"zz-2025-3/prilohy/priloha-priloha_k_vyhlaske_c_3_2025_z_z.md"
+],
 "zz-2025-300": [
 "zz-2025-300/uvod.md",
 "zz-2025-300/clanok-1.md",
@@ -67850,6 +67887,12 @@
 "zz-2025-47/clanok-2.md",
 "zz-2025-47/zaver.md"
 ],
+"zz-2025-5": [
+"zz-2025-5/uvod.md",
+"zz-2025-5/clanok-1.md",
+"zz-2025-5/clanok-2.md",
+"zz-2025-5/zaver.md"
+],
 "zz-2025-51": [
 "zz-2025-51/uvod.md",
 "zz-2025-51/par-001.md",
@@ -67907,6 +67950,57 @@
 "zz-2025-59/par-002.md",
 "zz-2025-59/zaver.md",
 "zz-2025-59/prilohy/priloha-priloha_k_vyhlaske_c_59_2025_z_z.md"
+],
+"zz-2025-60": [
+"zz-2025-60/uvod.md",
+"zz-2025-60/par-001.md",
+"zz-2025-60/par-002.md",
+"zz-2025-60/par-003.md",
+"zz-2025-60/par-004.md",
+"zz-2025-60/par-005.md",
+"zz-2025-60/par-006.md",
+"zz-2025-60/par-007.md",
+"zz-2025-60/par-008.md",
+"zz-2025-60/par-009.md",
+"zz-2025-60/par-010.md",
+"zz-2025-60/par-011.md",
+"zz-2025-60/par-012.md",
+"zz-2025-60/par-013.md",
+"zz-2025-60/par-014.md",
+"zz-2025-60/par-015.md",
+"zz-2025-60/par-016.md",
+"zz-2025-60/par-017.md",
+"zz-2025-60/par-018.md",
+"zz-2025-60/par-019.md",
+"zz-2025-60/par-020.md",
+"zz-2025-60/par-021.md",
+"zz-2025-60/par-022.md",
+"zz-2025-60/par-023.md",
+"zz-2025-60/zaver.md",
+"zz-2025-60/prilohy/priloha-1.md",
+"zz-2025-60/prilohy/priloha-2.md",
+"zz-2025-60/prilohy/priloha-3.md",
+"zz-2025-60/prilohy/priloha-4.md",
+"zz-2025-60/prilohy/priloha-5.md",
+"zz-2025-60/prilohy/priloha-6.md",
+"zz-2025-60/prilohy/priloha-7.md",
+"zz-2025-60/prilohy/priloha-8.md",
+"zz-2025-60/prilohy/priloha-9.md",
+"zz-2025-60/prilohy/priloha-10.md",
+"zz-2025-60/prilohy/priloha-11.md",
+"zz-2025-60/prilohy/priloha-12.md",
+"zz-2025-60/prilohy/priloha-13.md",
+"zz-2025-60/prilohy/priloha-14.md",
+"zz-2025-60/prilohy/priloha-15.md",
+"zz-2025-60/prilohy/priloha-16.md",
+"zz-2025-60/prilohy/priloha-17.md",
+"zz-2025-60/prilohy/priloha-18.md",
+"zz-2025-60/prilohy/priloha-19.md",
+"zz-2025-60/prilohy/priloha-20.md",
+"zz-2025-60/prilohy/priloha-21.md",
+"zz-2025-60/prilohy/priloha-22.md",
+"zz-2025-60/prilohy/priloha-23.md",
+"zz-2025-60/prilohy/priloha-24.md"
 ],
 "zz-2025-61": [
 "zz-2025-61/uvod.md",
@@ -67969,6 +68063,12 @@
 "zz-2025-67/par-001.md",
 "zz-2025-67/par-002.md",
 "zz-2025-67/zaver.md"
+],
+"zz-2025-7": [
+"zz-2025-7/uvod.md",
+"zz-2025-7/clanok-1.md",
+"zz-2025-7/clanok-2.md",
+"zz-2025-7/zaver.md"
 ],
 "zz-2025-70": [
 "zz-2025-70/uvod.md",
