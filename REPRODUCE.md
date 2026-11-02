@@ -260,7 +260,7 @@ content is the PDF version of the Collection of Laws.
 
 ## The acts in force, current version (appended)
 
-Everything above describes the two acts traced version by version. The other 2130 acts were appended on top of that history, one commit each, by a separate private script
+Everything above describes the two acts traced version by version. The other 2136 acts were appended on top of that history, one commit each, by a separate private script
 (`wave3.py`, kept with the build notes, not in this repository), from the same source:
 
 | What | Where |

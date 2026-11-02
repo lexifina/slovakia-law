@@ -958,9 +958,12 @@
     "286/2004 Z. z.",
     "286/2009 Z. z.",
     "286/2018 Z. z.",
+    "286/2025 Z. z.",
+    "287/2025 Z. z.",
     "288/1990 Zb.",
     "288/1991 Zb.",
     "288/2003 Z. z.",
+    "288/2025 Z. z.",
     "289/1996 Z. z.",
     "289/2016 Z. z.",
     "289/2021 Z. z.",
@@ -1149,6 +1152,7 @@
     "332/2020 Z. z.",
     "332/2023 Z. z.",
     "333/2017 Z. z.",
+    "333/2025 Z. z.",
     "334/1992 Zb.",
     "335/2002 Z. z.",
     "335/2005 Z. z.",
@@ -1157,6 +1161,7 @@
     "336/1992 Zb.",
     "336/2008 Z. z.",
     "337/1992 Zb.",
+    "337/2025 Z. z.",
     "338/1992 Zb.",
     "338/2000 Z. z.",
     "339/1992 Zb.",
@@ -1173,6 +1178,7 @@
     "341/2008 Z. z.",
     "342/2004 Z. z.",
     "342/2018 Z. z.",
+    "342/2025 Z. z.",
     "343/1992 Zb.",
     "343/2007 Z. z.",
     "343/2015 Z. z.",
@@ -2166,5 +2172,5 @@
   "language": "sk",
   "checked_on": "2026-11-02",
   "history": "in-force",
-  "record_note": "Checked against the official source on 2026-10-28 (the two traced acts) and 2026-11-02 (the acts appended as their current version). History version by version for the Constitution and the election act; 2130 other acts in force are held as their version in force on 2026-11-02 only: 1150 as enacted (Kind: law, credited to the act) and 980 later versions credited to no act (Kind: baseline); their earlier versions are not yet traced."
+  "record_note": "Checked against the official source on 2026-10-28 (the two traced acts) and 2026-11-02 (the acts appended as their current version). History version by version for the Constitution and the election act; 2136 other acts in force are held as their version in force on 2026-11-02 only: 1155 as enacted (Kind: law, credited to the act) and 981 later versions credited to no act (Kind: baseline); their earlier versions are not yet traced."
 }
