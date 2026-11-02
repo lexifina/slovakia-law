@@ -9205,6 +9205,19 @@
 "zb-1980-11/zaver.md",
 "zb-1980-11/poznamky.md"
 ],
+"zb-1980-146": [
+"zb-1980-146/uvod.md",
+"zb-1980-146/clanok-1.md",
+"zb-1980-146/clanok-2.md",
+"zb-1980-146/zaver.md"
+],
+"zb-1980-156": [
+"zb-1980-156/uvod.md",
+"zb-1980-156/clanok-1.md",
+"zb-1980-156/clanok-2.md",
+"zb-1980-156/clanok-3.md",
+"zb-1980-156/zaver.md"
+],
 "zb-1980-159": [
 "zb-1980-159/uvod.md",
 "zb-1980-159/clanok-1.md",
@@ -9247,6 +9260,16 @@
 "zb-1980-170/zaver.md",
 "zb-1980-170/prilohy/priloha-priloha_nariadenia_vlady_ceskoslovenskej_soc-a12725bb.md",
 "zb-1980-170/poznamky.md"
+],
+"zb-1980-171": [
+"zb-1980-171/uvod.md",
+"zb-1980-171/clanok-1.md",
+"zb-1980-171/clanok-2.md",
+"zb-1980-171/clanok-3.md",
+"zb-1980-171/clanok-4.md",
+"zb-1980-171/clanok-5.md",
+"zb-1980-171/zaver.md",
+"zb-1980-171/poznamky.md"
 ],
 "zb-1980-177": [
 "zb-1980-177/uvod.md",
@@ -9358,6 +9381,109 @@
 "zb-1981-126/zaver.md",
 "zb-1981-126/prilohy/priloha-1.md",
 "zb-1981-126/prilohy/priloha-2.md"
+],
+"zb-1981-13": [
+"zb-1981-13/uvod.md",
+"zb-1981-13/par-001.md",
+"zb-1981-13/par-002.md",
+"zb-1981-13/par-003.md",
+"zb-1981-13/par-004.md",
+"zb-1981-13/par-005.md",
+"zb-1981-13/par-006.md",
+"zb-1981-13/par-007.md",
+"zb-1981-13/zaver.md",
+"zb-1981-13/poznamky.md"
+],
+"zb-1981-45": [
+"zb-1981-45/uvod.md",
+"zb-1981-45/clanok-1.md",
+"zb-1981-45/clanok-2.md",
+"zb-1981-45/zaver.md"
+],
+"zb-1981-46": [
+"zb-1981-46/uvod.md",
+"zb-1981-46/clanok-1.md",
+"zb-1981-46/clanok-2.md",
+"zb-1981-46/clanok-3.md",
+"zb-1981-46/zaver.md",
+"zb-1981-46/poznamky.md"
+],
+"zb-1981-51": [
+"zb-1981-51/uvod.md",
+"zb-1981-51/par-001.md",
+"zb-1981-51/par-002.md",
+"zb-1981-51/par-003.md",
+"zb-1981-51/par-004.md",
+"zb-1981-51/par-005.md",
+"zb-1981-51/par-006.md",
+"zb-1981-51/par-007.md",
+"zb-1981-51/par-008.md",
+"zb-1981-51/par-009.md",
+"zb-1981-51/par-010.md",
+"zb-1981-51/par-011.md",
+"zb-1981-51/par-012.md",
+"zb-1981-51/zaver.md",
+"zb-1981-51/poznamky.md"
+],
+"zb-1981-56": [
+"zb-1981-56/uvod.md",
+"zb-1981-56/par-001.md",
+"zb-1981-56/par-002.md",
+"zb-1981-56/par-003.md",
+"zb-1981-56/par-004.md",
+"zb-1981-56/par-005.md",
+"zb-1981-56/par-006.md",
+"zb-1981-56/par-007.md",
+"zb-1981-56/par-008.md",
+"zb-1981-56/par-009.md",
+"zb-1981-56/par-010.md",
+"zb-1981-56/par-011.md",
+"zb-1981-56/par-012.md",
+"zb-1981-56/zaver.md",
+"zb-1981-56/poznamky.md"
+],
+"zb-1981-57": [
+"zb-1981-57/uvod.md",
+"zb-1981-57/par-001.md",
+"zb-1981-57/par-002.md",
+"zb-1981-57/par-003.md",
+"zb-1981-57/par-004.md",
+"zb-1981-57/par-005.md",
+"zb-1981-57/zaver.md",
+"zb-1981-57/poznamky.md"
+],
+"zb-1981-58": [
+"zb-1981-58/uvod.md",
+"zb-1981-58/par-001.md",
+"zb-1981-58/par-002.md",
+"zb-1981-58/par-003.md",
+"zb-1981-58/par-004.md",
+"zb-1981-58/par-005.md",
+"zb-1981-58/par-006.md",
+"zb-1981-58/par-007.md",
+"zb-1981-58/par-008.md",
+"zb-1981-58/par-009.md",
+"zb-1981-58/par-010.md",
+"zb-1981-58/par-011.md",
+"zb-1981-58/par-012.md",
+"zb-1981-58/par-013.md",
+"zb-1981-58/par-014.md",
+"zb-1981-58/par-015.md",
+"zb-1981-58/par-016.md",
+"zb-1981-58/par-017.md",
+"zb-1981-58/par-018.md",
+"zb-1981-58/par-019.md",
+"zb-1981-58/par-020.md",
+"zb-1981-58/par-021.md",
+"zb-1981-58/par-022.md",
+"zb-1981-58/par-023.md",
+"zb-1981-58/par-024.md",
+"zb-1981-58/par-025.md",
+"zb-1981-58/par-026.md",
+"zb-1981-58/par-027.md",
+"zb-1981-58/zaver.md",
+"zb-1981-58/prilohy/priloha-priloha_k_vyhlasce_c_58_1981_sb.md",
+"zb-1981-58/poznamky.md"
 ],
 "zb-1981-62": [
 "zb-1981-62/uvod.md",
