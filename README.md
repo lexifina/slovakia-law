@@ -1,5 +1,7 @@
 # Slovak law, change by change
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Slovakia's national law, which global-law reads at `slovakia/national/acts/`.
+
 Slovak law as a git repository. Two acts are traced version by version: the Constitution (Ústava Slovenskej
 republiky, 460/1992 Zb.) and the Act on the Conditions for Exercising the Right to Vote (zákon č. 180/2014 Z. z. o
 podmienkach výkonu volebného práva); 664 other acts in force, chosen as "The acts in force" below says, are
