@@ -236,6 +236,8 @@
 
 - Príloha č. 8 k vyhláške Ministerstva pôdohospodárstva Slovenskej republiky č. 508/2004 Z. z., ktorou sa vykonáva § 27 zákona č. 220/2004 Z. z. o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 59/2013 Z. z.
 
+- 78ab) § 7 zákona č. 313/2009 Z. z. o vinohradníctve a vinárstve v znení neskorších predpisov.
+
 - 78b) Napríklad zákon č. 135/1961 Zb. v znení neskorších predpisov, zákon č. 143/1998 Z. z. v znení neskorších predpisov, zákon č. 442/2002 Z. z. o verejných vodovodoch a verejných kanalizáciách a o zmene a doplnení zákona č. 276/2001 Z. z. o regulácii v sieťových odvetviach v znení neskorších predpisov, zákon č. 364/2004 Z. z. v znení neskorších predpisov, zákon č. 513/2009 Z. z., zákon č. 7/2010 Z. z. o ochrane pred povodňami v znení zákona č. 180/2013 Z. z., zákon č. 351/2011 o elektronických komunikáciách v znení neskorších predpisov, zákon č. 405/2011 Z. z. o rastlinolekárskej starostlivosti v znení neskorších predpisov, zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 78c) § 56 zákona č. 326/2005 Z. z. v znení neskorších predpisov.
@@ -350,7 +352,7 @@
 
 - 100aa) § 24 ods. 3 písm. f) a h), § 55, § 56 a § 65 zákona č. 274/2009 Z. z. v znení neskorších predpisov.
 
-- 100ab) § 3 písm. p) zákona č. 24/2006 Z. z. v znení neskorších predpisov.
+- 100ab) § 3 písm. q) zákona č. 24/2006 Z. z. v znení neskorších predpisov.
 
 - 100ac) § 5 ods. 9 písm. c) a § 22c ods. 7 zákona č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -433,6 +435,8 @@
 - 118c) § 10 zákona č. 216/2018 Z. z.
 
 - 118d) § 19a zákona č. 194/1998 Z. z. o šľachtení a plemenitbe hospodárskych zvierat a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
+
+- 118e) § 9 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - 119) Zákon č. 238/1998 Z. z. o príspevku na pohreb.
 

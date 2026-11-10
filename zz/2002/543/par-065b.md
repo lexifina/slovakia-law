@@ -22,7 +22,7 @@
 
 (2) Správa národného parku je odborná organizácia ochrany prírody a krajiny, ktorá zabezpečuje úlohy na úseku ochrany prírody a krajiny podľa tohto zákona a osobitných predpisov<sup>98b</sup>) na území národného parku a jeho ochranného pásma, ako aj v ďalšom území vymedzenom v rozhodnutí ministerstva, ktorým sa ustanoví územná pôsobnosť správy národného parku. Správa národného parku je príspevková organizácia v zriaďovateľskej pôsobnosti ministerstva.
 
-(3) Správa národného parku vo svojej územnej pôsobnosti plní úlohy podľa § 65a ods. 2 písm. a) až c), f) až ze) a zg). Na činnosti vykonávané alebo obstarávané správou národného parku pri zabezpečení plnenia jej úloh podľa tohto zákona sa ustanovenia § 65a ods. 4 a 5 vzťahujú rovnako.
+(3) Správa národného parku vo svojej územnej pôsobnosti plní úlohy podľa § 65a ods. 2 písm. a) až c), f) až ze) a zg). Na činnosti vykonávané alebo obstarávané správou národného parku pri zabezpečení plnenia jej úloh podľa tohto zákona sa ustanovenia § 65a ods. 4 až 6 vzťahujú rovnako.
 
 (4) Pri správe národného parku pôsobí rada národného parku ako poradný, odborný, konzultačný a iniciačný orgán pre záležitosti príslušného národného parku, ktorého zloženie a pôsobnosť upravuje štatút správy národného parku. Radu národného parku zriadi ministerstvo do troch mesiacov odo dňa zriadenia správy národného parku. Členmi rady národného parku sú predovšetkým delegovaní zástupcovia územnej samosprávy, na ktorej území sa nachádza príslušný národný park, v horských oblastiach zástupca Horskej záchrannej služby, zástupcovia významných právnických osôb pôsobiacich v oblasti ochrany prírody a krajiny, lesníctva a cestovného ruchu a odborníci z vedeckých a odborných organizácií, ktorých menuje a odvoláva ministerstvo.
 
