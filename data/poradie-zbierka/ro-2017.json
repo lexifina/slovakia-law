@@ -1,4 +1,10 @@
 {
+"ro/2017/1": [
+"ro/2017/1/uvod.md",
+"ro/2017/1/clanok-1.md",
+"ro/2017/1/clanok-2.md",
+"ro/2017/1/zaver.md"
+],
 "ro/2017/2": [
 "ro/2017/2/uvod.md",
 "ro/2017/2/clanok-1.md",
@@ -38,6 +44,18 @@
 "ro/2017/6/clanok-1.md",
 "ro/2017/6/clanok-2.md",
 "ro/2017/6/zaver.md"
+],
+"ro/2017/7": [
+"ro/2017/7/uvod.md",
+"ro/2017/7/clanok-1.md",
+"ro/2017/7/clanok-2.md",
+"ro/2017/7/zaver.md"
+],
+"ro/2017/8": [
+"ro/2017/8/uvod.md",
+"ro/2017/8/clanok-1.md",
+"ro/2017/8/clanok-2.md",
+"ro/2017/8/zaver.md"
 ],
 "ro/2017/9": [
 "ro/2017/9/uvod.md",
