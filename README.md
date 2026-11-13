@@ -39,14 +39,33 @@ version, their earlier and later versions. [PLAN.md](PLAN.md) lists every part o
   the newest commit whose `In-force:` is on or before the day asked, as `tools/ku_dnu.py` does.
 - **Tables.** `data/zbierka/<year>.csv` (the items added), `data/historia/<year>.csv` (the acts whose versions were
   added), `data/poradie-zbierka/<year>.json` (the order of each act's files in the source).
-- **Checks before each push.** The words of each version page (the act, annexes and footnotes, read without the
-  reader) must all be in its files (at least 99.5% of them, else the item waits, with the reason recorded); every image
+- **Checks before each push.** The letters and digits of each version page (the act, annexes and footnotes, read
+  without the reader) must all be in its files (at least 99.5% of them, else the item waits, with the reason recorded); every image
   and annex is kept or marked; each commit's folder equals that version's files exactly; no other path changes; every
   author and committer address is `@lexifina.com` or `.invalid`; history only grows (plain pushes, never forced).
 
 Data from Slov-Lex's static mirror (`https://static.slov-lex.sk/static/SK/ZZ/<year>/<number>/` and its version pages),
 at most 20 requests a second, with the user agent `lexifina-watch/1.0`.
 
+
+## Local acts: generally binding regulations (VZN), being added from 2026-11-13
+
+Municipalities, cities and the self-governing regions make their own law, *všeobecne záväzné nariadenia* (VZN). There
+is no national register of them (zákon 369/1990 Zb. § 6 ods. 9: a VZN is published on the council's official board and
+website), so each council's own register is read, where it is machine-readable. [PLAN.md](PLAN.md) shows which.
+
+- **Folders.** `local/<council>/<year>/<number>/`: `local/bratislava/2023/4/` is VZN 4/2023 of the capital. Each holds
+  the council's document byte for byte (`vzn.pdf`, `vzn.rtf`), its attachments (`prilohy/`), and `text.md`, the text
+  read mechanically from the document (an RTF without its control words, or a PDF's own text layer). Nothing is typed in
+  or corrected; a scanned document with no text layer has no `text.md`. The document is the published form.
+- **Commits.** One per VZN, dated the day it took effect as the council's register gives it, credited to the VZN
+  (`VZN 4/2023 (Bratislava)` at an address ending `.invalid`), with `Kind: local`, `Council:`, `In-force:`, `Source:`
+  (the register page), `Text-source:` (the document) and `Document-sha256:`. A repeal the register records is a commit
+  removing the folder on that day, credited to the repealing VZN when the register names it. Consolidated texts a
+  council publishes (Košice: "úplné znenie ... účinné od") are `Kind: consolidated` commits by the council.
+- **Councils so far.** Bratislava (the city's register on bratislava.sk/vzn; `data/local/bratislava-vzn.csv` lists all
+  359), Žilina and Banská Bystrica (the cities' registers on their own sites); Košice and the regions follow.
+- Drafts (*návrh*) are not law and are left out here.
 
 ## The questions, as git commands
 
