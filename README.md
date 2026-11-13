@@ -1,176 +1,178 @@
-# Slovak law, change by change
+# Slovenské právo, zmena po zmene
+
+**Slovenčina** · [English](README.en.md)
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
-<img alt="Slovak law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+<source media="(prefers-color-scheme: dark)" srcset="data/sk/effort-dark.svg">
+<img alt="Predpisy Slovenska v tomto repozitári: čo obsahuje, zmeny podľa roku nadobudnutia účinnosti, úplnosť voči úradným zdrojom a správnosť toho, čo obsahuje" src="data/sk/effort-light.svg" width="880">
 </picture>
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Slovakia's national law, which global-law reads at `slovakia/national/acts/`.
+Súčasť [lexifina/global-law](https://github.com/lexifina/global-law), jednej histórie git pre právo každej krajiny: toto je vnútroštátne právo Slovenska, ktoré global-law číta v `slovakia/national/acts/`.
 
-Slovak law as a git repository. Two acts are traced version by version: the Constitution (Ústava Slovenskej
-republiky, 460/1992 Zb.) and the Act on the Conditions for Exercising the Right to Vote (zákon č. 180/2014 Z. z. o
-podmienkach výkonu volebného práva); 664 other acts in force, chosen as "The acts in force" below says, are
-held as their current version. In the two traced acts each amending act is one commit, credited to that act and dated the day it took effect, at noon in Bratislava.
-The text is the consolidated text published by the Ministry of Justice in [Slov-Lex](https://www.slov-lex.sk).
+Slovenské právo ako repozitár git. Verziu po verzii sú zaznamenané dva predpisy: Ústava Slovenskej republiky
+(460/1992 Zb.) a zákon č. 180/2014 Z. z. o podmienkach výkonu volebného práva; ďalších 664 účinných predpisov,
+vybraných tak, ako opisuje oddiel „Účinné predpisy“ nižšie, je zaznamenaných v aktuálnom znení. V dvoch zaznamenaných
+predpisoch je každý novelizujúci predpis jeden commit, pripísaný tomuto predpisu a datovaný dňom, keď nadobudol
+účinnosť, na poludnie v Bratislave. Text je konsolidované znenie, ktoré zverejňuje Ministerstvo spravodlivosti
+v [Slov-Lexe](https://www.slov-lex.sk).
 
-*Slovensky: [nižšie](#slovensky).*
+## Celá Zbierka zákonov, verziu po verzii (pridáva sa od 13. 11. 2026)
 
-## The whole Collection of Laws, version by version (being added from 2026-11-13)
+Práve sa pridáva, v dávkach odosielaných po ich kontrole: každá položka Zbierky zákonov, ktorú Slov-Lex uvádza,
+25 891 od roku 1918 (zákony, ústavné zákony, nariadenia vlády a vyhlášky ministerstiev, nálezy Ústavného súdu,
+oznámenia, medzi nimi zmluvy, ktoré oznamuje Ministerstvo zahraničných vecí, uznesenia a rozhodnutia), účinné aj
+zrušené, každá so všetkými datovanými verziami, ktoré Slov-Lex uchováva; a pri predpisoch, ktoré sú vyššie zaznamenané
+v aktuálnom znení, aj ich staršie a neskoršie verzie. [PLAN.md](PLAN.md) uvádza každú časť plánu a ako ďaleko sa
+s ňou pokročilo.
 
-Being added now, in batches pushed as they are checked: every item of the Collection of Laws (Zbierka zákonov) that
-Slov-Lex lists, 25,891 since 1918 (laws, constitutional acts, government and ministerial regulations, Constitutional
-Court findings, notices, among them the treaties the Ministry of Foreign Affairs announces, resolutions and decisions),
-in force or repealed, each with every dated version Slov-Lex keeps; and, for the acts held above as their current
-version, their earlier and later versions. [PLAN.md](PLAN.md) lists every part of the plan and how far each has got.
+- **Priečinky.** `zz/<year>/<number>/` od roku 1993, `zb/<year>/<number>/` pre roky 1918 – 1992; `data/paths.json`
+  priraďuje každému identifikátoru predpisu (`zz-2010-1`) jeho priečinok. Súbory sú pomenované ako vyššie; položka
+  bez paragrafov a článkov (oznámenie, nález) je jeden súbor, `text.md`, s `prilohy.md` a `poznamky.md`, ak má
+  prílohy alebo poznámky pod čiarou.
+- **Jeden commit na každú datovanú verziu**, datovaný dňom, keď nadobudla účinnosť (`In-force:`, v Slov-Lexe
+  „účinnosť od“), ktorý mení len súbory, ktoré sa zmenili. Prvá verzia sa pripisuje samotnému predpisu, ak pri nej
+  Slov-Lex neuvádza nijaký novelizujúci predpis (`Kind: law`; `Kind: court` pri náleze). Neskoršia verzia sa
+  pripisuje jedinému predpisu, ktorý pri nej Slov-Lex uvádza (`Evidence:` hovorí, že pripísanie je na úrovni verzie,
+  nie jednotlivých ustanovení); ak Slov-Lex uvádza viac predpisov (`Kind: candidates`) alebo žiadny
+  (`Kind: unexplained`), commit je od Slov-Lexu a nepripisuje sa nijakému predpisu.
+- **Zrušenie.** Ak posledná verzia predpisu skončila („účinnosť do“) pred získaním údajov, commit nasledujúceho dňa
+  odstráni jeho súbory: pripísaný predpisu, ktorý Slov-Lex uvádza pod „Predpis je zrušený“, alebo od Slov-Lexu, ak
+  neuvádza žiadny alebo uvádza viac.
+- **Položky bez datovanej verzie** si ponechávajú vyhlásený text, datovaný dňom vyhlásenia (`Kind: published`).
+- **Staršie verzie predpisov, ktoré už repozitár obsahuje,** nasledujú za verziou zaznamenanou od 2. 11. 2026, od
+  najstaršej, takže posledný commit každého predpisu je jeho najnovší text; nesú `Backfill:`. Každý commit nesie svoj
+  deň `In-force:` a čitatelia berú najnovší commit, ktorého `In-force:` pripadá na požadovaný deň alebo skôr, tak ako
+  to robí `tools/ku_dnu.py`.
+- **Tabuľky.** `data/zbierka/<year>.csv` (pridané položky), `data/historia/<year>.csv` (predpisy, ktorých verzie
+  boli pridané), `data/poradie-zbierka/<year>.json` (poradie súborov každého predpisu v zdroji).
+- **Kontroly pred každým odoslaním.** Písmená a číslice každej stránky verzie (predpis, prílohy a poznámky pod čiarou,
+  čítané nezávisle od parsera) musia byť všetky v jej súboroch (aspoň 99,5 % z nich, inak položka čaká a dôvod sa
+  zaznamená); každý obrázok a každá príloha sa zachová alebo označí; priečinok každého commitu sa presne zhoduje so
+  súbormi danej verzie; žiadna iná cesta sa nemení; každá adresa autora a commitera je `@lexifina.com` alebo
+  `.invalid`; história iba rastie (bežné pushe, nikdy vynútené).
 
-- **Folders.** `zz/<year>/<number>/` from 1993, `zb/<year>/<number>/` for 1918-1992; `data/paths.json` maps each act
-  id (`zz-2010-1`) to its folder. Files are named as above; an item with no section or article (a notice, a finding)
-  is one file, `text.md`, with `prilohy.md` and `poznamky.md` where it has annexes or footnotes.
-- **One commit per dated version**, dated the day it took effect (`In-force:`, Slov-Lex's "účinnosť od"), changing only
-  the files that changed. The first version is credited to the act itself when Slov-Lex names no amending act for it
-  (`Kind: law`; `Kind: court` for a finding). A later version is credited to the one act Slov-Lex names for it
-  (`Evidence:` says the credit is at the level of the version, not of each provision); where Slov-Lex names several
-  (`Kind: candidates`) or none (`Kind: unexplained`), the commit is by Slov-Lex and credited to no act.
-- **Repeal.** When an act's last version ends ("účinnosť do") before the data was read, a commit on the next day removes
-  its files: credited to the act Slov-Lex names under "Predpis je zrušený", or by Slov-Lex when it names none or several.
-- **Items with no dated version** keep their published text, dated the day of publication (`Kind: published`).
-- **Earlier versions of acts already held** come after the version held since 2026-11-02, oldest first, so each act's
-  last commit is its newest text; they carry `Backfill:`. Every commit carries its `In-force:` day, and readers take
-  the newest commit whose `In-force:` is on or before the day asked, as `tools/ku_dnu.py` does.
-- **Tables.** `data/zbierka/<year>.csv` (the items added), `data/historia/<year>.csv` (the acts whose versions were
-  added), `data/poradie-zbierka/<year>.json` (the order of each act's files in the source).
-- **Checks before each push.** The letters and digits of each version page (the act, annexes and footnotes, read
-  without the reader) must all be in its files (at least 99.5% of them, else the item waits, with the reason recorded); every image
-  and annex is kept or marked; each commit's folder equals that version's files exactly; no other path changes; every
-  author and committer address is `@lexifina.com` or `.invalid`; history only grows (plain pushes, never forced).
-
-Data from Slov-Lex's static mirror (`https://static.slov-lex.sk/static/SK/ZZ/<year>/<number>/` and its version pages),
-at most 20 requests a second, with the user agent `lexifina-watch/1.0`.
+Údaje pochádzajú zo statického zrkadla Slov-Lexu (`https://static.slov-lex.sk/static/SK/ZZ/<year>/<number>/` a jeho
+stránok verzií), najviac 20 požiadaviek za sekundu, s user agentom `lexifina-watch/1.0`.
 
 
-## Local acts: generally binding regulations (VZN), being added from 2026-11-13
+## Miestne predpisy: všeobecne záväzné nariadenia (VZN), pridávajú sa od 13. 11. 2026
 
-Municipalities, cities and the self-governing regions make their own law, *všeobecne záväzné nariadenia* (VZN). There
-is no national register of them (zákon 369/1990 Zb. § 6 ods. 9: a VZN is published on the council's official board and
-website), so each council's own register is read, where it is machine-readable. [PLAN.md](PLAN.md) shows which.
+Obce, mestá a samosprávne kraje vydávajú vlastné predpisy, *všeobecne záväzné nariadenia* (VZN). Ich celoštátny
+register neexistuje (zákon 369/1990 Zb. § 6 ods. 9: VZN sa vyhlasuje na úradnej tabuli a na webovom sídle), preto sa
+číta vlastný register každej samosprávy, ak je strojovo čitateľný. [PLAN.md](PLAN.md) ukazuje, ktoré to sú.
 
-- **Folders.** `local/<council>/<year>/<number>/`: `local/bratislava/2023/4/` is VZN 4/2023 of the capital. Each holds
-  the council's document byte for byte (`vzn.pdf`, `vzn.rtf`), its attachments (`prilohy/`), and `text.md`, the text
-  read mechanically from the document (an RTF without its control words, or a PDF's own text layer). Nothing is typed in
-  or corrected; a scanned document with no text layer has no `text.md`. The document is the published form.
-- **Commits.** One per VZN, dated the day it took effect as the council's register gives it, credited to the VZN
-  (`VZN 4/2023 (Bratislava)` at an address ending `.invalid`), with `Kind: local`, `Council:`, `In-force:`, `Source:`
-  (the register page), `Text-source:` (the document) and `Document-sha256:`. A repeal the register records is a commit
-  removing the folder on that day, credited to the repealing VZN when the register names it. Consolidated texts a
-  council publishes (Košice: "úplné znenie ... účinné od") are `Kind: consolidated` commits by the council.
-- **Councils so far.** Bratislava (the city's register on bratislava.sk/vzn; `data/local/bratislava-vzn.csv` lists all
-  359), Žilina and Banská Bystrica (the cities' registers on their own sites); Košice and the regions follow.
-- Drafts (*návrh*) are not law and are left out here.
+- **Priečinky.** `local/<council>/<year>/<number>/`: `local/bratislava/2023/4/` je VZN 4/2023 hlavného mesta. Každý
+  obsahuje dokument samosprávy bajt po bajte (`vzn.pdf`, `vzn.rtf`), jeho prílohy (`prilohy/`) a `text.md`, text
+  strojovo načítaný z dokumentu (RTF bez riadiacich slov alebo vlastná textová vrstva PDF). Nič sa ručne neprepisuje
+  ani neopravuje; naskenovaný dokument bez textovej vrstvy nemá `text.md`. Vyhlásenou podobou je dokument.
+- **Commity.** Jeden na každé VZN, datovaný dňom, keď VZN nadobudlo účinnosť, podľa registra samosprávy, pripísaný
+  VZN (`VZN 4/2023 (Bratislava)` s adresou končiacou `.invalid`), s `Kind: local`, `Council:`, `In-force:`, `Source:`
+  (stránka registra), `Text-source:` (dokument) a `Document-sha256:`. Zrušenie, ktoré register zaznamenáva, je commit,
+  ktorý v ten deň odstráni priečinok, pripísaný zrušujúcemu VZN, ak ho register uvádza. Úplné znenia, ktoré samospráva
+  zverejňuje (Košice: „úplné znenie ... účinné od“), sú commity `Kind: consolidated` od samosprávy.
+- **Doterajšie samosprávy.** Bratislava (register mesta na bratislava.sk/vzn; `data/local/bratislava-vzn.csv` uvádza
+  všetkých 359), Žilina a Banská Bystrica (registre miest na ich vlastných stránkach); Košice a kraje nasledujú.
+- Návrhy (*návrh*) nie sú právom, preto tu nie sú zahrnuté.
 
-## The questions, as git commands
+## Otázky ako príkazy git
 
-| Question | Command |
+| Otázka | Príkaz |
 | --- | --- |
-| What did čl. 7 of the Constitution say on 1 January 2020? | `python tools/ku_dnu.py 2020-01-01 ustava 7` |
-| The whole Constitution as it stood in 2000 | `python tools/ku_dnu.py 2000-01-01 ustava` |
-| § 4 of the election act on 1 January 2017 | `python tools/ku_dnu.py 2017-01-01 volebny-zakon 4` |
-| Which act wrote each paragraph of čl. 7? | `git blame ustava/cl-007.md` |
-| Every change to čl. 7, with the act and the day | `git log --follow ustava/cl-007.md` |
-| Everything one act changed | `git show --stat zz/2025-255` |
-| What changed in the election act on one day | `git show --stat volebny-zakon/2022-01-01` |
-| The amending acts with all their dates | [`predpisy.csv`](predpisy.csv) |
-| Changes where two acts took effect the same day | `git log --grep="dva predpisy v jeden deň"` |
-| Changes credited to the act's own deferred commencement | `git log --grep="Evidence: commencement"` |
-| Changes credited by date only (no change mark) | `git log --grep="Evidence: date only"` |
-| Acts amending the election act in 2022 | `git log --format="%an %s" --author="/2022 Z. z." -- volebny-zakon` |
+| Čo znel čl. 7 Ústavy 1. januára 2020? | `python tools/ku_dnu.py 2020-01-01 ustava 7` |
+| Celá Ústava v znení z roku 2000 | `python tools/ku_dnu.py 2000-01-01 ustava` |
+| § 4 volebného zákona k 1. januáru 2017 | `python tools/ku_dnu.py 2017-01-01 volebny-zakon 4` |
+| Ktorý predpis napísal ktorý odsek čl. 7? | `git blame ustava/cl-007.md` |
+| Každá zmena čl. 7, s predpisom a dňom | `git log --follow ustava/cl-007.md` |
+| Všetko, čo zmenil jeden predpis | `git show --stat zz/2025-255` |
+| Čo sa vo volebnom zákone zmenilo v jeden deň | `git show --stat volebny-zakon/2022-01-01` |
+| Novelizujúce predpisy so všetkými ich dátumami | [`predpisy.csv`](predpisy.csv) |
+| Zmeny, pri ktorých v ten istý deň nadobudli účinnosť dva predpisy | `git log --grep="dva predpisy v jeden deň"` |
+| Zmeny pripísané odloženej účinnosti samotného predpisu | `git log --grep="Evidence: commencement"` |
+| Zmeny pripísané len podľa dátumu (bez označenia zmeny) | `git log --grep="Evidence: date only"` |
+| Predpisy, ktoré novelizovali volebný zákon v roku 2022 | `git log --format="%an %s" --author="/2022 Z. z." -- volebny-zakon` |
 
-## The dates, and which one we use
+## Dátumy a ktorý z nich používame
 
-A Slovak act has the day the National Council passed it (`Enacted:`), the day it was published in the Collection of
-Laws (`Published:`), and the day it took effect (`In-force:`). **Commits are dated the day the change took effect**, at
-noon in Bratislava (CET, or CEST in summer time): that is the day that decides which text applies. It is the day
-Slov-Lex gives as the start of the version the act produced. All three dates are in every commit message of the two
-traced acts; the acts appended as their current version carry `In-force:` (with `In-force-basis:` and
-`Text-as-of:`) but not `Enacted:` or `Published:`. No date in these two acts is before 1970.
+Slovenský predpis má deň, keď ho Národná rada schválila (`Enacted:`), deň, keď bol vyhlásený v Zbierke zákonov
+(`Published:`), a deň, keď nadobudol účinnosť (`In-force:`). **Commity sú datované dňom, keď zmena nadobudla
+účinnosť**, na poludnie v Bratislave (SEČ, v letnom čase SELČ): to je deň, ktorý rozhoduje o tom, ktoré znenie sa
+uplatňuje. Je to deň, ktorý Slov-Lex uvádza ako začiatok verzie, ktorú predpis vytvoril. Všetky tri dátumy sú v každej
+správe commitu dvoch zaznamenaných predpisov; predpisy pripojené v aktuálnom znení nesú `In-force:` (s
+`In-force-basis:` a `Text-as-of:`), ale nie `Enacted:` ani `Published:`. Žiadny dátum v týchto dvoch predpisoch nie
+je starší ako rok 1970.
 
-## What "author" means
+## Čo znamená „autor“
 
-The author of a commit is the act that made the change: `255/2025 Z. z.` (with an address ending
-`@slov-lex.invalid`, which cannot exist), so `git blame` names the act. Constitutional Court findings (nálezy) published
-in the Collection are authors too. Slov-Lex lists, for each version, the acts that produced it, and marks each element
-of the text that the version changed. A change is credited to the version's act when Slov-Lex marks an element of that
-provision as changed. Three further rules, each labelled in the commit: text removed or a provision inserted without a
-mark goes to the one act of that day ("date only"); part headings that moved with a provision go with the act that
-changed it; and a version for which Slov-Lex names no act is credited to the act itself when its own commencement
-provision names that day (Act 180/2014 took effect in three steps).
+Autorom commitu je predpis, ktorý zmenu urobil: `255/2025 Z. z.` (s adresou končiacou `@slov-lex.invalid`, ktorá
+nemôže existovať), takže `git blame` uvádza predpis. Autormi sú aj nálezy Ústavného súdu vyhlásené v Zbierke.
+Slov-Lex pri každej verzii uvádza predpisy, ktoré ju vytvorili, a označuje každý prvok textu, ktorý verzia zmenila.
+Zmena sa pripisuje predpisu verzie, ak Slov-Lex označí niektorý prvok daného ustanovenia ako zmenený. Tri ďalšie
+pravidlá, každé označené v commite: odstránený text alebo ustanovenie vložené bez označenia pripadá jedinému predpisu
+daného dňa („date only“); nadpisy častí, ktoré sa presunuli s ustanovením, idú s predpisom, ktorý ho zmenil; a verzia,
+pri ktorej Slov-Lex neuvádza nijaký predpis, sa pripisuje samotnému predpisu, ak tento deň uvádza jeho vlastné
+ustanovenie o účinnosti (zákon 180/2014 nadobúdal účinnosť v troch krokoch).
 
-Where two acts took effect on the same day, Slov-Lex does not say which changed what: such changes are committed by
-`Slov-Lex (Ministerstvo spravodlivosti SR)`, labelled "dva predpisy v jeden deň", and name both acts in `Candidate:`
-trailers. They are never credited to either. The committer is always `Lexifina`.
+Ak dva predpisy nadobudli účinnosť v ten istý deň, Slov-Lex neuvádza, ktorý z nich zmenil čo: takéto zmeny commituje
+`Slov-Lex (Ministerstvo spravodlivosti SR)`, sú označené „dva predpisy v jeden deň“ a oba predpisy uvádzajú
+v trailoroch `Candidate:`. Nikdy sa nepripisujú ani jednému z nich. Commiterom je vždy `Lexifina`.
 
-## How it is checked
+## Ako sa to kontroluje
 
-For the two traced acts, `tools/check_repo.py` (it needs `build.py`, kept with the build notes) reads every version of
-each act back from git on the day it took effect and compares it with the
-official text: file by file with the text parsed from Slov-Lex's page, and word for word with all the words of the page,
-read independently of the parser. `tools/test_repo.py` checks that the commands above work. The results are in
-[`REPRODUCE.md`](REPRODUCE.md).
+Pri dvoch zaznamenaných predpisoch `tools/check_repo.py` (potrebuje `build.py`, uložený spolu s poznámkami
+k zostaveniu) načíta z gitu každú verziu každého predpisu v deň, keď nadobudla účinnosť, a porovná ju s úradným
+textom: súbor po súbore s textom spracovaným zo stránky Slov-Lexu a slovo po slove so všetkými slovami stránky,
+čítanými nezávisle od parsera. `tools/test_repo.py` kontroluje, že príkazy uvedené vyššie fungujú. Výsledky sú
+v [`REPRODUCE.md`](REPRODUCE.md).
 
-## Files
+## Súbory
 
-Each act is a folder (`ustava/`, `volebny-zakon/`). Each article (článok) or section (paragraf) is one file named after
-Slov-Lex's identifier: `ustava/cl-007.md` is `ustavnyclanok-7`, `volebny-zakon/par-014a.md` is `paragraf-14a`, and
-`volebny-zakon/clanok-2.md` is Čl. II of Act 180/2014 (an article that amends another act). The headings of the parts
-that begin with a provision are `##` lines at the top of its file; the provision's number and heading are the `#` line;
-each paragraph (odsek) is one line, and each letter (písmeno) and point (bod) is a list item. `uvod.md` is the title and
-preamble or enacting words, `zaver.md` the signatures, `prilohy/` the annexes and `poznamky.md` the footnotes. A
-repealed provision is removed, as Slov-Lex removes it from the consolidated text.
+Každý predpis je priečinok (`ustava/`, `volebny-zakon/`). Každý článok alebo paragraf je jeden súbor pomenovaný podľa
+identifikátora Slov-Lexu: `ustava/cl-007.md` je `ustavnyclanok-7`, `volebny-zakon/par-014a.md` je `paragraf-14a`
+a `volebny-zakon/clanok-2.md` je Čl. II zákona 180/2014 (článok, ktorý novelizuje iný predpis). Nadpisy častí, ktoré
+sa začínajú ustanovením, sú riadky `##` na začiatku jeho súboru; číslo a nadpis ustanovenia sú riadok `#`; každý
+odsek je jeden riadok a každé písmeno a bod je položka zoznamu. `uvod.md` je názov a preambula alebo úvodná veta,
+`zaver.md` podpisy, `prilohy/` prílohy a `poznamky.md` poznámky pod čiarou. Zrušené ustanovenie sa odstráni, tak ako
+ho Slov-Lex odstraňuje z konsolidovaného znenia.
 
-## What it does not show
+## Čo neukazuje
 
-- Versions Slov-Lex does not publish: the Constitution's text is recorded from 1 October 1992, its first dated version.
-- Which of two acts of the same day made a change (above).
-- The earlier versions of the acts held as their current version, and the amending acts behind them: being added
-  (above, and [PLAN.md](PLAN.md)).
+- Verzie, ktoré Slov-Lex nezverejňuje: znenie Ústavy je zaznamenané od 1. októbra 1992, jej prvej datovanej verzie.
+- Ktorý z dvoch predpisov toho istého dňa urobil zmenu (pozri vyššie).
+- Staršie verzie predpisov zaznamenaných v aktuálnom znení a novelizujúce predpisy, ktoré ich vytvorili: pridávajú sa
+  (pozri vyššie a [PLAN.md](PLAN.md)).
 
-The consolidated text is for information: Slov-Lex says that the legally binding content is the PDF version of the
-Collection of Laws.
+Konsolidované znenie má informatívny charakter: Slov-Lex uvádza, že právne záväzný obsah sa nachádza v pdf verzii
+Zbierky zákonov.
 
-## How it is built
+## Ako je zostavený
 
-The two traced acts were written by a build script (`build.py`) kept with the build notes, not in this repository;
-the acts appended after them by a second private script. Every step, the sources, the decisions made by hand and
-what an AI model did are in [`REPRODUCE.md`](REPRODUCE.md). `tools/ku_dnu.py` reads any act on any day, in the
-order the source gives its provisions; `tools/check_wave3.py` checks the appended acts.
-[`corpus.json`](corpus.json) describes the corpus for tools that read several of Lexifina's law repositories.
+Dva zaznamenané predpisy zapísal skript na zostavenie (`build.py`) uložený spolu s poznámkami k zostaveniu, nie
+v tomto repozitári; predpisy pripojené po nich druhý, neverejný skript. Každý krok, zdroje, rozhodnutia urobené ručne
+a to, čo urobil model umelej inteligencie, sú v [`REPRODUCE.md`](REPRODUCE.md). `tools/ku_dnu.py` načíta ktorýkoľvek
+predpis k ľubovoľnému dňu, v poradí, v akom zdroj uvádza jeho ustanovenia; `tools/check_wave3.py` kontroluje pripojené
+predpisy. [`corpus.json`](corpus.json) opisuje korpus pre nástroje, ktoré čítajú viaceré právne repozitáre Lexifiny.
 
-## Licence
+## Licencia
 
-The text of a legal regulation is not a subject of copyright in Slovakia (§ 5 písm. b) of the Copyright Act,
-185/2015 Z. z.). Source: Slov-Lex, www.slov-lex.sk, Ministerstvo spravodlivosti Slovenskej republiky. The history,
-commit messages, tables and tools are released under [CC0 1.0](LICENSE).
+Text právneho predpisu nie je na Slovensku predmetom autorského práva (§ 5 písm. b) Autorského zákona,
+185/2015 Z. z.). Zdroj: Slov-Lex, www.slov-lex.sk, Ministerstvo spravodlivosti Slovenskej republiky. História,
+správy commitov, tabuľky a nástroje sú uvoľnené pod licenciou [CC0 1.0](LICENSE).
 
----
-
-## Slovensky
-
-Slovenské právo ako repozitár git. Verziu po verzii sú zaznamenané dva predpisy, Ústava Slovenskej republiky
-(460/1992 Zb.) a zákon č. 180/2014 Z. z. o podmienkach výkonu volebného práva; ďalších 664 účinných predpisov
-(výber opisuje „Účinné predpisy, aktuálne znenie“) je v aktuálnom znení, všetko v konsolidovanom znení zo Slov-Lexu.
-
-- **V dvoch predpisoch zaznamenaných verziu po verzii je každý commit jeden novelizujúci predpis**, zapísaný ako autor (`255/2025 Z. z.`), takže `git blame` ukazuje, ktorý
-  predpis napísal ktorý odsek. Predpis určuje zoznam časových verzií v Slov-Lexe a jeho označenie zmenených prvkov.
-- **Každý commit nesie deň účinnosti**, poludnie v Bratislave. Pri týchto dvoch predpisoch je v správe aj deň schválenia a deň vyhlásenia; pri ostatných `In-force-basis` a
-  `Text-as-of`.
-- **Každý článok a paragraf je súbor**, každý odsek riadok.
-- **Zmeny dvoch predpisov v jeden deň sa nepripisujú nijakému z nich**; commit je od Slov-Lexu a uvádza oba predpisy.
-
-Konsolidované znenie má informatívny charakter; právne záväzný obsah sa nachádza v pdf verzii Zbierky zákonov.
+Toto je preklad anglickej verzie ([README.en.md](README.en.md)); ak sa líšia, platí anglická verzia.
 
 ## Účinné predpisy, aktuálne znenie
 
-Okrem Ústavy a zákona č. 180/2014 Z. z., zaznamenaných verziu po verzii, obsahuje záznam 5815 predpisov účinných podľa Slov-Lexu, každý v jednom commite: časová verzia účinná ku dňu získania údajov, datovaná dňom svojej účinnosti. Ak je to pôvodné znenie, je pripísaná predpisu samému; inak ju zapisuje Slov-Lex bez pripísania novele. Staršie verzie pribudnú za nimi bez prepisovania histórie. Zoznam: `data/ucinne-predpisy.csv`. Priečinok predpisu je `zz-<rok>-<číslo>` (od 1993) alebo `zb-<rok>-<číslo>`.
+Okrem dvoch predpisov zaznamenaných verziu po verzii obsahuje záznam 5 815 predpisov účinných podľa Slov-Lexu, každý v jednom commite: verziu účinnú v čase získania údajov, datovanú dňom jej vlastnej účinnosti; ak ide o pôvodné znenie, je pripísaná predpisu (`Kind: law`), inak ju commituje Slov-Lex ako `Kind: baseline` a nepripisuje sa nijakému predpisu. Staršie verzie pribudnú za nimi bez prepisovania histórie. Oznámenia, rozhodnutia, nálezy a predpisy, ktoré len novelizujú iné predpisy, sú vynechané. Zoznam je v `data/ucinne-predpisy.csv`; priečinok predpisu je `zz-<year>-<number>` (od roku 1993) alebo `zb-<year>-<number>`.
 
-Besides the two acts traced version by version, the record holds 5815 acts in force at Slov-Lex, one commit each: the version in force when the data was read, dated by its own day of effect; credited to the act when it is the act as enacted (`Kind: law`), otherwise committed by Slov-Lex as a `Kind: baseline` and credited to no act. Earlier versions will be added behind them without rewriting history. Notices, decisions, rulings and acts that only amend others are left out.
+Obrázky a prílohy, ktoré Slov-Lex poskytuje len ako PDF, sú zachované tak, ako boli vyhlásené, bajt po bajte, v priečinku `assets/` každého predpisu a odkazuje sa na ne na mieste, kde sa nachádzajú (uvádza ich `data/assets.tsv`); obrázok alebo príloha, ktorú sa nepodarilo zachovať, je na svojom mieste označená `[Image omitted: ...]` (stĺpce `obrazky`, `prilohy_pdf`, `vynechane` tabuľky). Záznam skontrolujete príkazom `python -X utf8 tools/check_wave3.py`.
 
-Images and annexes Slov-Lex gives only as PDF are kept as published, byte for byte, in each act's `assets/` folder and linked where they stand (`data/assets.tsv` lists them); one that could not be kept is marked `[Image omitted: ...]` at its place (columns `obrazky`, `prilohy_pdf`, `vynechane` of the table). Check the record with `python -X utf8 tools/check_wave3.py`.
+## Viac
+
+Z repozitára [lexifina/global-law](https://github.com/lexifina/global-law) (v angličtine):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): všetky funkcie a čo musí každý korpus podporovať (`git blame`, `law.py`, nástroje MCP)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): otázky a odpovede · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): navrhovanie zmien · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): ako bol vytvorený · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): aký aktuálny je každý korpus · [Monitorovanie](https://github.com/lexifina/global-law/tree/main/monitoring): či aktualizácie fungujú · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): ako sa pri každom úradnom zdroji sledujú zmeny
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): aké rýchle sú nástroje, namerané
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): grafy a väzby naprieč právom celého sveta
+- [Zraniteľnosti](https://github.com/lexifina/global-law/tree/main/vulnerabilities): chyby v predpisoch tak, ako boli vyhlásené
