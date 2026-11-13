@@ -15,6 +15,39 @@ The text is the consolidated text published by the Ministry of Justice in [Slov-
 
 *Slovensky: [nižšie](#slovensky).*
 
+## The whole Collection of Laws, version by version (being added from 2026-11-13)
+
+Being added now, in batches pushed as they are checked: every item of the Collection of Laws (Zbierka zákonov) that
+Slov-Lex lists, 25,891 since 1918 (laws, constitutional acts, government and ministerial regulations, Constitutional
+Court findings, notices, among them the treaties the Ministry of Foreign Affairs announces, resolutions and decisions),
+in force or repealed, each with every dated version Slov-Lex keeps; and, for the acts held above as their current
+version, their earlier and later versions. [PLAN.md](PLAN.md) lists every part of the plan and how far each has got.
+
+- **Folders.** `zz/<year>/<number>/` from 1993, `zb/<year>/<number>/` for 1918-1992; `data/paths.json` maps each act
+  id (`zz-2010-1`) to its folder. Files are named as above; an item with no section or article (a notice, a finding)
+  is one file, `text.md`, with `prilohy.md` and `poznamky.md` where it has annexes or footnotes.
+- **One commit per dated version**, dated the day it took effect (`In-force:`, Slov-Lex's "účinnosť od"), changing only
+  the files that changed. The first version is credited to the act itself when Slov-Lex names no amending act for it
+  (`Kind: law`; `Kind: court` for a finding). A later version is credited to the one act Slov-Lex names for it
+  (`Evidence:` says the credit is at the level of the version, not of each provision); where Slov-Lex names several
+  (`Kind: candidates`) or none (`Kind: unexplained`), the commit is by Slov-Lex and credited to no act.
+- **Repeal.** When an act's last version ends ("účinnosť do") before the data was read, a commit on the next day removes
+  its files: credited to the act Slov-Lex names under "Predpis je zrušený", or by Slov-Lex when it names none or several.
+- **Items with no dated version** keep their published text, dated the day of publication (`Kind: published`).
+- **Earlier versions of acts already held** come after the version held since 2026-11-02, oldest first, so each act's
+  last commit is its newest text; they carry `Backfill:`. Every commit carries its `In-force:` day, and readers take
+  the newest commit whose `In-force:` is on or before the day asked, as `tools/ku_dnu.py` does.
+- **Tables.** `data/zbierka/<year>.csv` (the items added), `data/historia/<year>.csv` (the acts whose versions were
+  added), `data/poradie-zbierka/<year>.json` (the order of each act's files in the source).
+- **Checks before each push.** The words of each version page (the act, annexes and footnotes, read without the
+  reader) must all be in its files (at least 99.5% of them, else the item waits, with the reason recorded); every image
+  and annex is kept or marked; each commit's folder equals that version's files exactly; no other path changes; every
+  author and committer address is `@lexifina.com` or `.invalid`; history only grows (plain pushes, never forced).
+
+Data from Slov-Lex's static mirror (`https://static.slov-lex.sk/static/SK/ZZ/<year>/<number>/` and its version pages),
+at most 20 requests a second, with the user agent `lexifina-watch/1.0`.
+
+
 ## The questions, as git commands
 
 | Question | Command |
@@ -78,7 +111,8 @@ repealed provision is removed, as Slov-Lex removes it from the consolidated text
 
 - Versions Slov-Lex does not publish: the Constitution's text is recorded from 1 October 1992, its first dated version.
 - Which of two acts of the same day made a change (above).
-- The earlier versions of the acts held as their current version, and the amending acts behind them (not yet traced).
+- The earlier versions of the acts held as their current version, and the amending acts behind them: being added
+  (above, and [PLAN.md](PLAN.md)).
 
 The consolidated text is for information: Slov-Lex says that the legally binding content is the PDF version of the
 Collection of Laws.
