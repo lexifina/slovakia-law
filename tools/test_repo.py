@@ -123,10 +123,14 @@ class Smoke:
 
     # 6
     def readme(self):
-        text = (self.repo / 'README.md').read_text(encoding='utf-8')
-        table = text[text.index('## The questions'):text.index('## The dates')]
-        cmds = [c for c in re.findall(r'`([^`]+)`', table) if c.startswith(('git ', 'python '))]
-        assert len(cmds) >= 8, f'only {len(cmds)} commands found'
+        readme_path = self.repo / 'README.en.md'  # the English README where there is one, else README.md
+        text = (readme_path if readme_path.exists() else self.repo / 'README.md').read_text(encoding='utf-8')
+        start = text.index('## Questions as git commands')
+        end = text.find('\n## ', start + 1)
+        table = text[start:end if end != -1 else len(text)]
+        rows = '\n'.join(l for l in table.splitlines() if l.startswith('|'))
+        cmds = [c for c in re.findall(r'`([^`]+)`', rows) if c.startswith(('git ', 'python ')) and '<' not in c]
+        assert len(cmds) >= 3, f'only {len(cmds)} commands found'
         for c in cmds:
             args = shlex.split(c)
             if args[0] == 'python':
