@@ -41,3 +41,11 @@
 (11) Ustanovenia odsekov 1 až 10 sa vzťahujú aj na subjekt verejnej správy, ktorým je obec, vyšší územný celok a nimi zriadená rozpočtová organizácia a príspevková organizácia, ak pripravuje investíciu alebo koncesiu, ktorej najmenej polovica výdavkov je financovaná z finančných prostriedkov štátneho rozpočtu.
 
 (12) Ustanovenia odsekov 1 až 11 sa nevzťahujú na investície a koncesie súvisiace s plnením úloh Ministerstva obrany Slovenskej republiky, Slovenskej informačnej služby, Vojenského spravodajstva a Policajného zboru na úseku kriminálneho spravodajstva podľa osobitných predpisov.<sup>24an</sup>)
+
+(13) Investícia alebo koncesia súvisí s plnením úloh Ministerstva obrany Slovenskej republiky, ak
+
+- a) jej jediným účelom je zabezpečenie obrany štátu<sup>24ao</sup>) v rozsahu, v akom si to vyžaduje plnenie záväzkov vyplývajúcich z členstva Slovenskej republiky v organizácii vzájomnej kolektívnej bezpečnosti,
+
+- b) podklady alebo povolenia potrebné na realizáciu investície alebo koncesie alebo ich časť sú utajovanou skutočnosťou<sup>24ap</sup>) a
+
+- c) jej predmetom je budovanie, udržiavanie alebo rozvoj obrannej infraštruktúry<sup>24aq</sup>) alebo obstarávanie vojenského vybavenia.<sup>24ar</sup>)

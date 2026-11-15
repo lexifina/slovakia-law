@@ -182,6 +182,14 @@
 
 - § 2 zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve v znení neskorších predpisov.
 
+- 24ao) § 2 ods. 1 až 3 zákona č. 319/2002 Z. z. o obrane Slovenskej republiky v znení neskorších predpisov.
+
+- 24ap) § 2 písm. a) zákona č. 215/2004 Z. z.
+
+- 24aq) § 26 ods. 2 a 3 zákona č. 319/2002 Z. z. v znení neskorších predpisov.
+
+- 24ar) § 3 ods. 7 zákona č. 343/2015 Z. z.
+
 - 24b) Článok 34 ods. 1 Aktu o podmienkach pristúpenia pripojeného k Zmluve o pristúpení Slovenskej republiky k Európskej únii (oznámenie č. 185/2004 Z. z.).
 
 - 24c) Zákon č. 368/2021 Z. z.
