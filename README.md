@@ -30,7 +30,8 @@ Text je v slovenčine (staršie československé predpisy aj v češtine), tak a
 
 - **[Opýtajte sa Claude na slovenské právo](https://global-law.lexifina.com/v1/try_claude?country=slovakia)**: otvorí Claude s pripravenou prvou otázkou.
 - **[Opýtajte sa ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=slovakia)**: tá istá otázka v ChatGPT.
-- **[Zavolajte API v prehliadači](https://global-law.lexifina.com/v1/search_law?query=dovolenka&jurisdictions=slovakia)**: vyhľadanie slova „dovolenka“ v slovenskom práve, odpoveď v JSON. Dokumentácia je [tu](https://lexifina.com/api/global-law).
+- **[Hľadajte v slovenskom práve na našom webe](https://lexifina.com/law?country=slovakia&q=dovolenka)**: hľadanie „dovolenka“, s textom každého ustanovenia a jeho zneniami, bez účtu.
+- **[REST API pre vývojárov](https://global-law.lexifina.com/v1/search_law?query=dovolenka&jurisdiction=slovakia)**: rovnaké hľadanie ako JSON, bez kľúča. Dokumentácia je [tu](https://lexifina.com/api/global-law).
 
 Obaja asistenti čítajú záznam cez bezplatný konektor Global law (MCP, `https://global-law.lexifina.com/mcp`); prvýkrát vám chat dá odkaz, ktorým sa konektor pridá. Pýtajte sa po slovensky alebo po anglicky.
 

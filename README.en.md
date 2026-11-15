@@ -30,7 +30,8 @@ The text is in Slovak (older Czechoslovak acts also in Czech), as Slov-Lex publi
 
 - **[Ask Claude about Slovak law](https://global-law.lexifina.com/v1/try_claude?country=slovakia)**: opens Claude with a first question ready.
 - **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=slovakia)**: the same question in ChatGPT.
-- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=dovolenka&jurisdictions=slovakia)**: a search of Slovak law for "dovolenka", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Search Slovak law on our site](https://lexifina.com/law?country=slovakia&q=dovolenka)**: a search for "dovolenka", with each provision's text and its versions, no account needed.
+- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=dovolenka&jurisdiction=slovakia)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
 
 Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Slovak or in English.
 
