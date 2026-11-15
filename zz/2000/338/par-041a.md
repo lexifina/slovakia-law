@@ -34,4 +34,4 @@
 
 - d) povolenie na účasť zahraničných dopravcov vo vnútroštátnej vodnej doprave podľa § 21 ods. 2,
 
-- e) povolenie na prepravu podľa § 38 písm. s).
+- e) povolenie na prepravu podľa § 38 písm. p).
