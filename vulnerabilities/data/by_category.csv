@@ -1,0 +1,10 @@
+category,category_sk,flags,in_law_texts,model_reviewed,candidate_defects,survive_rebuttal
+Lapsed time limits,Uplynuté lehoty,23506,23506,40,0,0
+Repeal gaps,Medzery po zrušení,3876,3876,40,7,7
+Retroactive or pre-publication dates,Účinnosť pred vyhlásením,16,16,16,7,6
+Empty periods,Prázdne obdobia,32,32,27,25,22
+Stale amounts,Zastarané sumy,280,280,40,23,23
+References to deleted provisions,Odkazy na vypustené ustanovenia,225,225,40,5,5
+References to repealed placeholders,Odkazy na ustanovenia „zrušený“,8,8,0,0,0
+Duplicate numbering,Dvojité číslovanie,1104,1104,0,0,0
+Dead currencies,Zaniknuté meny,9697,9697,0,0,0

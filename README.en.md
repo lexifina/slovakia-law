@@ -62,6 +62,7 @@ Each version is credited to the act Slov-Lex names for it (`255/2025 Z. z.`, at 
 - `tools/check_wave3.py` checks every act held as its current version: its folder and files, every image and annex with its sha256, and every commit's trailers.
 - Before each push of new items, the letters and digits of each version page must be in its files (at least 99.5% of them, or the item waits), and each commit's folder must equal that version's files.
 - History is append-only: plain pushes, never forced, and every author is an act, a publisher or Lexifina.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Slovak law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 

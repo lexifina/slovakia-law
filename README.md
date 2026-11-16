@@ -62,6 +62,7 @@ Každé znenie je pripísané predpisu, ktorý preň uvádza Slov-Lex (`255/2025
 - `tools/check_wave3.py` kontroluje každý predpis zaznamenaný v aktuálnom znení: jeho priečinok a súbory, každý obrázok a prílohu s ich sha256 a trailery každého commitu.
 - Pred každým odoslaním nových položiek musia byť písmená a číslice každej stránky znenia v jeho súboroch (aspoň 99,5 % z nich, inak položka čaká) a priečinok každého commitu sa musí rovnať súborom daného znenia.
 - História sa len dopĺňa: bežné pushe, nikdy vynútené, a každý autor je predpis, vydavateľ alebo Lexifina.
+- [vulnerabilities/](vulnerabilities/): možné legislatívne chyby v slovenskom práve, ktoré našli detektory z global-law a ktoré boli ručne overené.
 
 ## Čo neukazuje
 
