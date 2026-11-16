@@ -86,6 +86,10 @@ Pozri [`LICENSE`](LICENSE). Text právneho predpisu nie je na Slovensku predmeto
 
 Toto je preklad anglickej verzie ([README.en.md](README.en.md)); ak sa líšia, platí anglická verzia.
 
+## Vizualizácie
+
+- [visualisations/](visualisations/): grafy nakreslené z tohto repozitára. Zatiaľ nenakreslené.
+
 ## Viac
 
 Z repozitára [lexifina/global-law](https://github.com/lexifina/global-law) (v angličtine):
