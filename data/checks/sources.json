@@ -1,0 +1,147 @@
+{
+ "sources": [
+  {
+   "id": "slov-lex-zz",
+   "kind": "legislation",
+   "name": {
+    "en": "Slov-Lex: Collection of Laws (Zbierka zákonov)",
+    "sk": "Slov-Lex: Zbierka zákonov"
+   },
+   "url": "https://www.slov-lex.sk/ezbierky/pravne-predpisy",
+   "reads": {
+    "en": "the list of every item of the Collection from Slov-Lex's search service (1,000 a request): its number, title, day of announcement and the version in force today, or its last version and the day it ended",
+    "sk": "zoznam všetkých predpisov Zbierky z vyhľadávacej služby Slov-Lexu (1 000 na požiadavku): číslo, názov, deň vyhlásenia a znenie účinné dnes, alebo posledné znenie a deň, keď skončilo"
+   },
+   "folders": [
+    "zz/",
+    "zb/",
+    "constitution/ustava/",
+    "volebny-zakon/"
+   ],
+   "note": {
+    "en": "Slov-Lex has no open-data feed, RSS or ELI list; this is the list behind its own search",
+    "sk": "Slov-Lex nemá otvorené dáta, RSS ani zoznam ELI; toto je zoznam, z ktorého čerpá jeho vlastné vyhľadávanie"
+   },
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "slovakia/national/acts"
+   ],
+   "interval": 1.0
+  },
+  {
+   "id": "slov-lex-op",
+   "kind": "legislation",
+   "name": {
+    "en": "Slov-Lex: Register of measures (Register opatrení)",
+    "sk": "Slov-Lex: Register opatrení"
+   },
+   "url": "https://www.slov-lex.sk/ezbierky/chronologicky-register-opatreni",
+   "reads": {
+    "en": "the list of every measure of the register (one request): its number, title and the version in force today",
+    "sk": "zoznam všetkých opatrení registra (jedna požiadavka): číslo, názov a znenie účinné dnes"
+   },
+   "folders": [
+    "ro/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "slovakia/national/acts"
+   ],
+   "interval": 1.0
+  },
+  {
+   "id": "bratislava-vzn",
+   "kind": "legislation",
+   "name": {
+    "en": "Bratislava: register of generally binding regulations (VZN)",
+    "sk": "Bratislava: register všeobecne záväzných nariadení (VZN)"
+   },
+   "url": "https://bratislava.sk/vzn",
+   "reads": {
+    "en": "the city's register (its public GraphQL service, 100 records a request): number, day in force, repeal, document and the day each record last changed",
+    "sk": "register mesta (jeho verejná služba GraphQL, 100 záznamov na požiadavku): číslo, účinnosť, zrušenie, dokument a deň poslednej zmeny záznamu"
+   },
+   "folders": [
+    "local/bratislava/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "slovakia/national/acts"
+   ],
+   "interval": 1.0
+  },
+  {
+   "id": "zilina-vzn",
+   "kind": "legislation",
+   "name": {
+    "en": "Žilina: register of generally binding regulations (VZN)",
+    "sk": "Žilina: register všeobecne záväzných nariadení (VZN)"
+   },
+   "url": "https://zilina.sk/mesto-zilina/sprava-mesta/legislativa/vseobecne-zavazne-nariadenia/",
+   "reads": {
+    "en": "the city's register (its site's public REST list, 100 records a request): number, validity, documents and the day each record last changed",
+    "sk": "register mesta (verejný zoznam REST jeho webu, 100 záznamov na požiadavku): číslo, platnosť, dokumenty a deň poslednej zmeny záznamu"
+   },
+   "folders": [
+    "local/zilina/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "slovakia/national/acts"
+   ],
+   "interval": 1.0
+  },
+  {
+   "id": "banskabystrica-vzn",
+   "kind": "legislation",
+   "name": {
+    "en": "Banská Bystrica: register of generally binding regulations (VZN)",
+    "sk": "Banská Bystrica: register všeobecne záväzných nariadení (VZN)"
+   },
+   "url": "https://www.banskabystrica.sk/vzn/",
+   "reads": {
+    "en": "the city's register (its site's public REST list, 100 records a request): number, validity, documents and the day each record last changed",
+    "sk": "register mesta (verejný zoznam REST jeho webu, 100 záznamov na požiadavku): číslo, platnosť, dokumenty a deň poslednej zmeny záznamu"
+   },
+   "folders": [
+    "local/banskabystrica/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "slovakia/national/acts"
+   ],
+   "interval": 1.0
+  },
+  {
+   "id": "nitra-vzn",
+   "kind": "legislation",
+   "name": {
+    "en": "Nitra: register of generally binding regulations (VZN)",
+    "sk": "Nitra: register všeobecne záväzných nariadení (VZN)"
+   },
+   "url": "https://nitra.sk/vzn/",
+   "reads": {
+    "en": "the city's register (its site's public REST list, 100 records a request): title with the number, and the day each record last changed",
+    "sk": "register mesta (verejný zoznam REST jeho webu, 100 záznamov na požiadavku): názov s číslom a deň poslednej zmeny záznamu"
+   },
+   "folders": [
+    "local/nitra/"
+   ],
+   "note": {
+    "en": "the list gives no validity days (the city puts them on each record's page): only changed and new records are seen",
+    "sk": "zoznam neuvádza dni platnosti (mesto ich uvádza na stránke každého záznamu): vidno len zmenené a nové záznamy"
+   },
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "slovakia/national/acts"
+   ],
+   "interval": 1.0
+  }
+ ]
+}
