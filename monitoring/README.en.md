@@ -6,23 +6,29 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Slovakia only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-23 17:22 UTC, Nitra: register of generally binding regulations (VZN): 201 addresses read; 0 added, 0 changed, 0 removed; changes found; 3 not published, 0 of them with no reason.
+**Last check:** 2026-11-24 05:57 UTC, Nitra: register of generally binding regulations (VZN): 129 addresses read; 0 added, 0 changed, 0 removed; no change; 3 not published, 0 of them with no reason.
 
 ## Sources
 
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
-| [Slov-Lex: Collection of Laws (Zbierka zákonov)](https://www.slov-lex.sk/ezbierky/pravne-predpisy) | `zz/`, `zb/`, `constitution/ustava/`, `volebny-zakon/` | daily | 2026-11-23 16:36 UTC | changes found | watched: Slov-Lex has no open-data feed, RSS or ELI list; this is the list behind its own search |
-| [Slov-Lex: Register of measures (Register opatrení)](https://www.slov-lex.sk/ezbierky/chronologicky-register-opatreni) | `ro/` | daily | 2026-11-23 17:07 UTC | changes found | watched |
-| [Bratislava: register of generally binding regulations (VZN)](https://bratislava.sk/vzn) | `local/bratislava/` | daily | 2026-11-23 17:10 UTC | changes found | watched |
-| [Žilina: register of generally binding regulations (VZN)](https://zilina.sk/mesto-zilina/sprava-mesta/legislativa/vseobecne-zavazne-nariadenia/) | `local/zilina/` | daily | 2026-11-23 17:17 UTC | changes found | watched |
-| [Banská Bystrica: register of generally binding regulations (VZN)](https://www.banskabystrica.sk/vzn/) | `local/banskabystrica/` | daily | 2026-11-23 17:18 UTC | changes found | watched |
-| [Nitra: register of generally binding regulations (VZN)](https://nitra.sk/vzn/) | `local/nitra/` | daily | 2026-11-23 17:22 UTC | changes found | watched: the list gives no validity days (the city puts them on each record's page): only changed and new records are seen |
+| [Slov-Lex: Collection of Laws (Zbierka zákonov)](https://www.slov-lex.sk/ezbierky/pravne-predpisy) | `zz/`, `zb/`, `constitution/ustava/`, `volebny-zakon/` | daily | 2026-11-23 16:36 UTC | the check failed | watched: Slov-Lex has no open-data feed, RSS or ELI list; this is the list behind its own search |
+| [Slov-Lex: Register of measures (Register opatrení)](https://www.slov-lex.sk/ezbierky/chronologicky-register-opatreni) | `ro/` | daily | 2026-11-24 05:51 UTC | no change | watched |
+| [Bratislava: register of generally binding regulations (VZN)](https://bratislava.sk/vzn) | `local/bratislava/` | daily | 2026-11-24 05:52 UTC | changes found | watched |
+| [Žilina: register of generally binding regulations (VZN)](https://zilina.sk/mesto-zilina/sprava-mesta/legislativa/vseobecne-zavazne-nariadenia/) | `local/zilina/` | daily | 2026-11-24 05:55 UTC | changes found | watched |
+| [Banská Bystrica: register of generally binding regulations (VZN)](https://www.banskabystrica.sk/vzn/) | `local/banskabystrica/` | daily | 2026-11-23 17:18 UTC | the check failed | watched |
+| [Nitra: register of generally binding regulations (VZN)](https://nitra.sk/vzn/) | `local/nitra/` | daily | 2026-11-24 05:57 UTC | no change | watched: the list gives no validity days (the city puts them on each record's page): only changed and new records are seen |
 
 ## The last 30 days
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-24 05:55](checks/2026-11.md#sk-nitra-vzn-20261124t055540z) | nitra-vzn | 129 | 0 | 0 | 0 | 3 (0) | no change | — |
+| [2026-11-24 05:55](checks/2026-11.md#sk-banskabystrica-vzn-20261124t055524z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | the check failed `publish-lag` | — |
+| [2026-11-24 05:52](checks/2026-11.md#sk-zilina-vzn-20261124t055255z) | zilina-vzn | 91 | 0 | 0 | 0 | 165 (0) | changes found `publish-lag` | [32](https://github.com/lexifina/slovakia-law/compare/b69b09f44513...0364327612ef) |
+| [2026-11-24 05:51](checks/2026-11.md#sk-bratislava-vzn-20261124t055102z) | bratislava-vzn | 40 | 0 | 0 | 0 | 62 (0) | changes found `publish-lag` | [20](https://github.com/lexifina/slovakia-law/compare/9b90557ab86e...b69b09f44513) |
+| [2026-11-24 05:48](checks/2026-11.md#sk-slov-lex-op-20261124t054836z) | slov-lex-op | 141 | 0 | 0 | 0 | 3 (0) | no change `verify-differ` `audit-disagrees` | — |
+| [2026-11-24 05:41](checks/2026-11.md#sk-slov-lex-zz-20261124t054134z) | slov-lex-zz | 383 | 0 | 0 | 0 | 97 (0) | the check failed | — |
 | [2026-11-23 17:18](checks/2026-11.md#sk-nitra-vzn-20261123t171837z) | nitra-vzn | 201 | 0 | 0 | 0 | 3 (0) | changes found | [73](https://github.com/lexifina/slovakia-law/compare/e9a12fa57b2b...f41c2c81fb26) |
 | [2026-11-23 17:17](checks/2026-11.md#sk-banskabystrica-vzn-20261123t171714z) | banskabystrica-vzn | 46 | 0 | 0 | 0 | 152 (0) | changes found `publish-lag` | [6](https://github.com/lexifina/slovakia-law/compare/f580410761d2...e9a12fa57b2b) |
 | [2026-11-23 17:10](checks/2026-11.md#sk-zilina-vzn-20261123t171014z) | zilina-vzn | 372 | 0 | 0 | 0 | 190 (0) | changes found `publish-lag` | [177](https://github.com/lexifina/slovakia-law/compare/df51033789c7...f580410761d2) |
