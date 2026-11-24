@@ -6,7 +6,7 @@
 
 Ako global-law monitoruje všetky krajiny: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Táto stránka robí to isté len pre Slovensko: každé čítanie oficiálneho zdroja, kedy prebehlo a čo z neho vyplynulo (pridané, zmenené a zrušené predpisy). Strojovo čitateľná podoba je v [data/checks/](../data/checks/) (JSON Lines, schéma `lexifina-check/1`), v `git log` ako commity `Kind: check` a po mesiacoch v [checks/](checks/).
 
-**Posledná kontrola:** 2026-11-24 05:57 UTC, Nitra: register všeobecne záväzných nariadení (VZN): prečítané adresy: 129; pridané 0, zmenené 0, zrušené 0; bez zmeny; nezverejnené 3, z toho bez dôvodu 0.
+**Posledná kontrola:** 2026-11-24 15:15 UTC, Banská Bystrica: register všeobecne záväzných nariadení (VZN): prečítané adresy: 17; pridané 0, zmenené 0, zrušené 0; kontrola zlyhala; nezverejnené 152, z toho bez dôvodu 0. Príznaky: `publish-lag`.
 
 ## Zdroje
 
@@ -23,6 +23,22 @@ Ako global-law monitoruje všetky krajiny: [global-law monitoring/](https://gith
 
 | Začiatok (UTC) | Zdroj | Prečítané | Pridané | Zmenené | Zrušené | Nezverejnené (bez dôvodu) | Výsledok | Commity |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-24 15:15](checks/2026-11.md#sk-banskabystrica-vzn-20261124t151540z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | kontrola zlyhala `publish-lag` | — |
+| [2026-11-24 15:08](checks/2026-11.md#sk-slov-lex-zz-20261124t150840z) | slov-lex-zz | 383 | 0 | 0 | 0 | 97 (0) | kontrola zlyhala | — |
+| [2026-11-24 14:25](checks/2026-11.md#sk-banskabystrica-vzn-20261124t142554z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | kontrola zlyhala `publish-lag` | — |
+| [2026-11-24 14:18](checks/2026-11.md#sk-slov-lex-zz-20261124t141849z) | slov-lex-zz | 383 | 0 | 0 | 0 | 97 (0) | kontrola zlyhala | — |
+| [2026-11-24 13:13](checks/2026-11.md#sk-banskabystrica-vzn-20261124t131349z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | kontrola zlyhala `publish-lag` | — |
+| [2026-11-24 13:06](checks/2026-11.md#sk-slov-lex-zz-20261124t130653z) | slov-lex-zz | 383 | 0 | 0 | 0 | 97 (0) | kontrola zlyhala | — |
+| [2026-11-24 12:46](checks/2026-11.md#sk-banskabystrica-vzn-20261124t124602z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | kontrola zlyhala `publish-lag` | — |
+| [2026-11-24 12:39](checks/2026-11.md#sk-slov-lex-zz-20261124t123906z) | slov-lex-zz | 383 | 0 | 0 | 0 | 97 (0) | kontrola zlyhala | — |
+| [2026-11-24 11:20](checks/2026-11.md#sk-banskabystrica-vzn-20261124t112019z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | kontrola zlyhala `publish-lag` | — |
+| [2026-11-24 11:12](checks/2026-11.md#sk-slov-lex-zz-20261124t111253z) | slov-lex-zz | 383 | 0 | 0 | 0 | 97 (0) | kontrola zlyhala | — |
+| [2026-11-24 10:16](checks/2026-11.md#sk-banskabystrica-vzn-20261124t101616z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | kontrola zlyhala `publish-lag` | — |
+| [2026-11-24 10:09](checks/2026-11.md#sk-slov-lex-zz-20261124t100920z) | slov-lex-zz | 383 | 0 | 0 | 0 | 97 (0) | kontrola zlyhala | — |
+| [2026-11-24 09:14](checks/2026-11.md#sk-banskabystrica-vzn-20261124t091456z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | kontrola zlyhala `publish-lag` | — |
+| [2026-11-24 09:08](checks/2026-11.md#sk-slov-lex-zz-20261124t090803z) | slov-lex-zz | 383 | 0 | 0 | 0 | 97 (0) | kontrola zlyhala | — |
+| [2026-11-24 08:14](checks/2026-11.md#sk-banskabystrica-vzn-20261124t081457z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | kontrola zlyhala `publish-lag` | — |
+| [2026-11-24 08:08](checks/2026-11.md#sk-slov-lex-zz-20261124t080803z) | slov-lex-zz | 383 | 0 | 0 | 0 | 97 (0) | kontrola zlyhala | — |
 | [2026-11-24 05:55](checks/2026-11.md#sk-nitra-vzn-20261124t055540z) | nitra-vzn | 129 | 0 | 0 | 0 | 3 (0) | bez zmeny | — |
 | [2026-11-24 05:55](checks/2026-11.md#sk-banskabystrica-vzn-20261124t055524z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | kontrola zlyhala `publish-lag` | — |
 | [2026-11-24 05:52](checks/2026-11.md#sk-zilina-vzn-20261124t055255z) | zilina-vzn | 91 | 0 | 0 | 0 | 165 (0) | našli sa zmeny `publish-lag` | [32](https://github.com/lexifina/slovakia-law/compare/b69b09f44513...0364327612ef) |

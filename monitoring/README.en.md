@@ -6,7 +6,7 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Slovakia only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-24 05:57 UTC, Nitra: register of generally binding regulations (VZN): 129 addresses read; 0 added, 0 changed, 0 removed; no change; 3 not published, 0 of them with no reason.
+**Last check:** 2026-11-24 15:15 UTC, Banská Bystrica: register of generally binding regulations (VZN): 17 addresses read; 0 added, 0 changed, 0 removed; the check failed; 152 not published, 0 of them with no reason. Flags: `publish-lag`.
 
 ## Sources
 
@@ -23,6 +23,22 @@ How global-law monitors every country: [global-law monitoring/](https://github.c
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-24 15:15](checks/2026-11.md#sk-banskabystrica-vzn-20261124t151540z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | the check failed `publish-lag` | — |
+| [2026-11-24 15:08](checks/2026-11.md#sk-slov-lex-zz-20261124t150840z) | slov-lex-zz | 383 | 0 | 0 | 0 | 97 (0) | the check failed | — |
+| [2026-11-24 14:25](checks/2026-11.md#sk-banskabystrica-vzn-20261124t142554z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | the check failed `publish-lag` | — |
+| [2026-11-24 14:18](checks/2026-11.md#sk-slov-lex-zz-20261124t141849z) | slov-lex-zz | 383 | 0 | 0 | 0 | 97 (0) | the check failed | — |
+| [2026-11-24 13:13](checks/2026-11.md#sk-banskabystrica-vzn-20261124t131349z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | the check failed `publish-lag` | — |
+| [2026-11-24 13:06](checks/2026-11.md#sk-slov-lex-zz-20261124t130653z) | slov-lex-zz | 383 | 0 | 0 | 0 | 97 (0) | the check failed | — |
+| [2026-11-24 12:46](checks/2026-11.md#sk-banskabystrica-vzn-20261124t124602z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | the check failed `publish-lag` | — |
+| [2026-11-24 12:39](checks/2026-11.md#sk-slov-lex-zz-20261124t123906z) | slov-lex-zz | 383 | 0 | 0 | 0 | 97 (0) | the check failed | — |
+| [2026-11-24 11:20](checks/2026-11.md#sk-banskabystrica-vzn-20261124t112019z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | the check failed `publish-lag` | — |
+| [2026-11-24 11:12](checks/2026-11.md#sk-slov-lex-zz-20261124t111253z) | slov-lex-zz | 383 | 0 | 0 | 0 | 97 (0) | the check failed | — |
+| [2026-11-24 10:16](checks/2026-11.md#sk-banskabystrica-vzn-20261124t101616z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | the check failed `publish-lag` | — |
+| [2026-11-24 10:09](checks/2026-11.md#sk-slov-lex-zz-20261124t100920z) | slov-lex-zz | 383 | 0 | 0 | 0 | 97 (0) | the check failed | — |
+| [2026-11-24 09:14](checks/2026-11.md#sk-banskabystrica-vzn-20261124t091456z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | the check failed `publish-lag` | — |
+| [2026-11-24 09:08](checks/2026-11.md#sk-slov-lex-zz-20261124t090803z) | slov-lex-zz | 383 | 0 | 0 | 0 | 97 (0) | the check failed | — |
+| [2026-11-24 08:14](checks/2026-11.md#sk-banskabystrica-vzn-20261124t081457z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | the check failed `publish-lag` | — |
+| [2026-11-24 08:08](checks/2026-11.md#sk-slov-lex-zz-20261124t080803z) | slov-lex-zz | 383 | 0 | 0 | 0 | 97 (0) | the check failed | — |
 | [2026-11-24 05:55](checks/2026-11.md#sk-nitra-vzn-20261124t055540z) | nitra-vzn | 129 | 0 | 0 | 0 | 3 (0) | no change | — |
 | [2026-11-24 05:55](checks/2026-11.md#sk-banskabystrica-vzn-20261124t055524z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | the check failed `publish-lag` | — |
 | [2026-11-24 05:52](checks/2026-11.md#sk-zilina-vzn-20261124t055255z) | zilina-vzn | 91 | 0 | 0 | 0 | 165 (0) | changes found `publish-lag` | [32](https://github.com/lexifina/slovakia-law/compare/b69b09f44513...0364327612ef) |
