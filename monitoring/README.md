@@ -6,7 +6,7 @@
 
 Ako global-law monitoruje všetky krajiny: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Táto stránka robí to isté len pre Slovensko: každé čítanie oficiálneho zdroja, kedy prebehlo a čo z neho vyplynulo (pridané, zmenené a zrušené predpisy). Strojovo čitateľná podoba je v [data/checks/](../data/checks/) (JSON Lines, schéma `lexifina-check/1`), v `git log` ako commity `Kind: check` a po mesiacoch v [checks/](checks/).
 
-**Posledná kontrola:** 2026-11-25 05:37 UTC, Nitra: register všeobecne záväzných nariadení (VZN): prečítané adresy: 128; pridané 0, zmenené 0, zrušené 0; bez zmeny; nezverejnené 3, z toho bez dôvodu 0.
+**Posledná kontrola:** 2026-11-25 15:11 UTC, Banská Bystrica: register všeobecne záväzných nariadení (VZN): prečítané adresy: 17; pridané 0, zmenené 0, zrušené 0; kontrola zlyhala; nezverejnené 152, z toho bez dôvodu 0. Príznaky: `publish-lag`.
 
 ## Zdroje
 
@@ -23,6 +23,20 @@ Ako global-law monitoruje všetky krajiny: [global-law monitoring/](https://gith
 
 | Začiatok (UTC) | Zdroj | Prečítané | Pridané | Zmenené | Zrušené | Nezverejnené (bez dôvodu) | Výsledok | Commity |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-25 15:11](checks/2026-11.md#sk-banskabystrica-vzn-20261125t151141z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | kontrola zlyhala `publish-lag` | — |
+| [2026-11-25 15:04](checks/2026-11.md#sk-slov-lex-zz-20261125t150433z) | slov-lex-zz | 387 | 0 | 0 | 0 | 99 (0) | kontrola zlyhala | — |
+| [2026-11-25 14:11](checks/2026-11.md#sk-banskabystrica-vzn-20261125t141146z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | kontrola zlyhala `publish-lag` | — |
+| [2026-11-25 14:04](checks/2026-11.md#sk-slov-lex-zz-20261125t140440z) | slov-lex-zz | 387 | 0 | 0 | 0 | 99 (0) | kontrola zlyhala | — |
+| [2026-11-25 13:11](checks/2026-11.md#sk-banskabystrica-vzn-20261125t131144z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | kontrola zlyhala `publish-lag` | — |
+| [2026-11-25 13:04](checks/2026-11.md#sk-slov-lex-zz-20261125t130437z) | slov-lex-zz | 387 | 0 | 0 | 0 | 99 (0) | kontrola zlyhala | — |
+| [2026-11-25 12:11](checks/2026-11.md#sk-banskabystrica-vzn-20261125t121136z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | kontrola zlyhala `publish-lag` | — |
+| [2026-11-25 12:04](checks/2026-11.md#sk-slov-lex-zz-20261125t120435z) | slov-lex-zz | 387 | 0 | 0 | 0 | 99 (0) | kontrola zlyhala | — |
+| [2026-11-25 11:11](checks/2026-11.md#sk-banskabystrica-vzn-20261125t111133z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | kontrola zlyhala `publish-lag` | — |
+| [2026-11-25 11:04](checks/2026-11.md#sk-slov-lex-zz-20261125t110435z) | slov-lex-zz | 387 | 0 | 0 | 0 | 99 (0) | kontrola zlyhala | — |
+| [2026-11-25 10:26](checks/2026-11.md#sk-banskabystrica-vzn-20261125t102629z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | kontrola zlyhala `publish-lag` | — |
+| [2026-11-25 10:19](checks/2026-11.md#sk-slov-lex-zz-20261125t101921z) | slov-lex-zz | 387 | 0 | 0 | 0 | 99 (0) | kontrola zlyhala | — |
+| [2026-11-25 09:11](checks/2026-11.md#sk-banskabystrica-vzn-20261125t091128z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | kontrola zlyhala `publish-lag` | — |
+| [2026-11-25 09:04](checks/2026-11.md#sk-slov-lex-zz-20261125t090433z) | slov-lex-zz | 387 | 0 | 0 | 0 | 99 (0) | kontrola zlyhala | — |
 | [2026-11-25 05:35](checks/2026-11.md#sk-nitra-vzn-20261125t053513z) | nitra-vzn | 128 | 0 | 0 | 0 | 3 (0) | bez zmeny | — |
 | [2026-11-25 05:34](checks/2026-11.md#sk-banskabystrica-vzn-20261125t053457z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | kontrola zlyhala `publish-lag` | — |
 | [2026-11-25 05:31](checks/2026-11.md#sk-zilina-vzn-20261125t053117z) | zilina-vzn | 80 | 0 | 0 | 0 | 146 (0) | našli sa zmeny `publish-lag` | [26](https://github.com/lexifina/slovakia-law/compare/43e98bfe350e...300810473461) |
