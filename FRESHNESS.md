@@ -10,28 +10,28 @@ Ako global-law meria, nakoľko je aktuálna každá krajina: [global-law FRESHNE
 
 - Oficiálny zdroj bol naposledy prečítaný a každý predpis uložený tu s ním porovnaný: **2026-11-23 16:36 UTC**.
 - Predpisy uložené tu: 25 809; aktuálne podľa zdroja: 25 793; v zdroji zmenené od verzie uloženej tu: 16; už nie sú v zdroji: 0.
-- Nezverejnené: 97 (v zdroji zmenené od verzie uloženej tu: 16, zadržané kontrolou: 44, účinné neskôr: 33, nové v zdroji, tu ešte nezverejnené: 4); bez dôvodu: 0.
+- Nezverejnené: 99 (v zdroji zmenené od verzie uloženej tu: 16, zadržané kontrolou: 44, účinné neskôr: 33, nové v zdroji, tu ešte nezverejnené: 6); bez dôvodu: 0.
 
 ### Slov-Lex: Register opatrení · `slovakia/national/acts`
 
-- Oficiálny zdroj bol naposledy prečítaný a každý predpis uložený tu s ním porovnaný: **2026-11-24 05:51 UTC**.
+- Oficiálny zdroj bol naposledy prečítaný a každý predpis uložený tu s ním porovnaný: **2026-11-25 05:29 UTC**.
 - Predpisy uložené tu: 369; aktuálne podľa zdroja: 369; v zdroji zmenené od verzie uloženej tu: 0; už nie sú v zdroji: 0.
 - S prameňom porovnané pri tomto čítaní: 53 z 369 predpisov v repozitári; ostatné sa pri tomto čítaní neporovnávali (pozri poznámku kontroly).
-- Nezverejnené: 3 (krok zlyhal: 2, účinné neskôr: 1); bez dôvodu: 0.
+- Nezverejnené: 4 (krok zlyhal: 2, účinné neskôr: 2); bez dôvodu: 0.
 
 ### Bratislava: register všeobecne záväzných nariadení (VZN) · `slovakia/national/acts`
 
-- Oficiálny zdroj bol naposledy prečítaný a každý predpis uložený tu s ním porovnaný: **2026-11-24 05:52 UTC**.
-- Predpisy uložené tu: 304; aktuálne podľa zdroja: 297; v zdroji zmenené od verzie uloženej tu: 7; už nie sú v zdroji: 0.
-- S prameňom porovnané pri tomto čítaní: 9 z 304 predpisov v repozitári; ostatné sa pri tomto čítaní neporovnávali (pozri poznámku kontroly).
-- Nezverejnené: 62 (v zdroji zmenené od verzie uloženej tu: 7, nové v zdroji, tu ešte nezverejnené: 53, účinné neskôr: 2); bez dôvodu: 0.
+- Oficiálny zdroj bol naposledy prečítaný a každý predpis uložený tu s ním porovnaný: **2026-11-25 05:31 UTC**.
+- Predpisy uložené tu: 325; aktuálne podľa zdroja: 323; v zdroji zmenené od verzie uloženej tu: 2; už nie sú v zdroji: 0.
+- S prameňom porovnané pri tomto čítaní: 9 z 325 predpisov v repozitári; ostatné sa pri tomto čítaní neporovnávali (pozri poznámku kontroly).
+- Nezverejnené: 36 (v zdroji zmenené od verzie uloženej tu: 2, nové v zdroji, tu ešte nezverejnené: 32, účinné neskôr: 2); bez dôvodu: 0.
 
 ### Žilina: register všeobecne záväzných nariadení (VZN) · `slovakia/national/acts`
 
-- Oficiálny zdroj bol naposledy prečítaný a každý predpis uložený tu s ním porovnaný: **2026-11-24 05:55 UTC**.
-- Predpisy uložené tu: 362; aktuálne podľa zdroja: 355; v zdroji zmenené od verzie uloženej tu: 7; už nie sú v zdroji: 0.
-- S prameňom porovnané pri tomto čítaní: 12 z 362 predpisov v repozitári; ostatné sa pri tomto čítaní neporovnávali (pozri poznámku kontroly).
-- Nezverejnené: 165 (v zdroji zmenené od verzie uloženej tu: 7, zdroj ešte nezverejnil jeho text: 1, nové v zdroji, tu ešte nezverejnené: 128, zadržané kontrolou: 29); bez dôvodu: 0.
+- Oficiálny zdroj bol naposledy prečítaný a každý predpis uložený tu s ním porovnaný: **2026-11-25 05:34 UTC**.
+- Predpisy uložené tu: 388; aktuálne podľa zdroja: 374; v zdroji zmenené od verzie uloženej tu: 14; už nie sú v zdroji: 0.
+- S prameňom porovnané pri tomto čítaní: 13 z 388 predpisov v repozitári; ostatné sa pri tomto čítaní neporovnávali (pozri poznámku kontroly).
+- Nezverejnené: 146 (v zdroji zmenené od verzie uloženej tu: 14, zdroj ešte nezverejnil jeho text: 1, nové v zdroji, tu ešte nezverejnené: 102, zadržané kontrolou: 29); bez dôvodu: 0.
 
 ### Banská Bystrica: register všeobecne záväzných nariadení (VZN) · `slovakia/national/acts`
 
@@ -41,7 +41,7 @@ Ako global-law meria, nakoľko je aktuálna každá krajina: [global-law FRESHNE
 
 ### Nitra: register všeobecne záväzných nariadení (VZN) · `slovakia/national/acts`
 
-- Oficiálny zdroj bol naposledy prečítaný a každý predpis uložený tu s ním porovnaný: **2026-11-24 05:57 UTC**.
+- Oficiálny zdroj bol naposledy prečítaný a každý predpis uložený tu s ním porovnaný: **2026-11-25 05:37 UTC**.
 - Predpisy uložené tu: 113; aktuálne podľa zdroja: 113; v zdroji zmenené od verzie uloženej tu: 0; už nie sú v zdroji: 0.
 - S prameňom porovnané pri tomto čítaní: 4 z 113 predpisov v repozitári; ostatné sa pri tomto čítaní neporovnávali (pozri poznámku kontroly).
 - Nezverejnené: 3 (zadržané kontrolou: 3); bez dôvodu: 0.

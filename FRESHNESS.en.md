@@ -10,28 +10,28 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 - The official source last read and every act held here checked against it: **2026-11-23 16:36 UTC**.
 - Acts held here: 25 809; current at the source: 25 793; changed at the source since the version held here: 16; no longer at the source: 0.
-- Not published: 97 (changed at the source since the version held here: 16, held by a check: 44, in force later: 33, new at the source, not published here yet: 4); with no reason: 0.
+- Not published: 99 (changed at the source since the version held here: 16, held by a check: 44, in force later: 33, new at the source, not published here yet: 6); with no reason: 0.
 
 ### Slov-Lex: Register of measures (Register opatrení) · `slovakia/national/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-24 05:51 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-25 05:29 UTC**.
 - Acts held here: 369; current at the source: 369; changed at the source since the version held here: 0; no longer at the source: 0.
 - Compared with the source in this read: 53 of the 369 acts held here; the others were not compared in this read (see the check's note).
-- Not published: 3 (a step failed: 2, in force later: 1); with no reason: 0.
+- Not published: 4 (a step failed: 2, in force later: 2); with no reason: 0.
 
 ### Bratislava: register of generally binding regulations (VZN) · `slovakia/national/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-24 05:52 UTC**.
-- Acts held here: 304; current at the source: 297; changed at the source since the version held here: 7; no longer at the source: 0.
-- Compared with the source in this read: 9 of the 304 acts held here; the others were not compared in this read (see the check's note).
-- Not published: 62 (changed at the source since the version held here: 7, new at the source, not published here yet: 53, in force later: 2); with no reason: 0.
+- The official source last read and every act held here checked against it: **2026-11-25 05:31 UTC**.
+- Acts held here: 325; current at the source: 323; changed at the source since the version held here: 2; no longer at the source: 0.
+- Compared with the source in this read: 9 of the 325 acts held here; the others were not compared in this read (see the check's note).
+- Not published: 36 (changed at the source since the version held here: 2, new at the source, not published here yet: 32, in force later: 2); with no reason: 0.
 
 ### Žilina: register of generally binding regulations (VZN) · `slovakia/national/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-24 05:55 UTC**.
-- Acts held here: 362; current at the source: 355; changed at the source since the version held here: 7; no longer at the source: 0.
-- Compared with the source in this read: 12 of the 362 acts held here; the others were not compared in this read (see the check's note).
-- Not published: 165 (changed at the source since the version held here: 7, the source has not published its text yet: 1, new at the source, not published here yet: 128, held by a check: 29); with no reason: 0.
+- The official source last read and every act held here checked against it: **2026-11-25 05:34 UTC**.
+- Acts held here: 388; current at the source: 374; changed at the source since the version held here: 14; no longer at the source: 0.
+- Compared with the source in this read: 13 of the 388 acts held here; the others were not compared in this read (see the check's note).
+- Not published: 146 (changed at the source since the version held here: 14, the source has not published its text yet: 1, new at the source, not published here yet: 102, held by a check: 29); with no reason: 0.
 
 ### Banská Bystrica: register of generally binding regulations (VZN) · `slovakia/national/acts`
 
@@ -41,7 +41,7 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Nitra: register of generally binding regulations (VZN) · `slovakia/national/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-24 05:57 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-25 05:37 UTC**.
 - Acts held here: 113; current at the source: 113; changed at the source since the version held here: 0; no longer at the source: 0.
 - Compared with the source in this read: 4 of the 113 acts held here; the others were not compared in this read (see the check's note).
 - Not published: 3 (held by a check: 3); with no reason: 0.

@@ -1,15 +1,15 @@
 {
  "schema": "lexifina-trail-freshness/1",
- "as_of": "2026-11-24",
+ "as_of": "2026-11-25",
  "note": "How current this repository is, from its check trail (data/checks/): the day each official source was last read with every act held here checked against it. tools/checktrail.py reads the trail.",
  "checked_against_official_source": "2026-11-23",
  "totals": {
-  "acts": 27043,
+  "acts": 27090,
   "by_status": {
-   "current": 25777,
-   "pending-change": 113,
+   "current": 25776,
+   "pending-change": 115,
    "stale": 0,
-   "unverified": 1153,
+   "unverified": 1199,
    "source-unavailable": 0
   }
  },
@@ -25,22 +25,22 @@
    "source": "slov-lex-op",
    "name": "Slov-Lex: Register of measures (Register opatrení)",
    "state": "available",
-   "last_successful_check": "2026-11-24",
-   "last_successful_contact": "2026-11-24"
+   "last_successful_check": "2026-11-25",
+   "last_successful_contact": "2026-11-25"
   },
   {
    "source": "bratislava-vzn",
    "name": "Bratislava: register of generally binding regulations (VZN)",
    "state": "available",
-   "last_successful_check": "2026-11-24",
-   "last_successful_contact": "2026-11-24"
+   "last_successful_check": "2026-11-25",
+   "last_successful_contact": "2026-11-25"
   },
   {
    "source": "zilina-vzn",
    "name": "Žilina: register of generally binding regulations (VZN)",
    "state": "available",
-   "last_successful_check": "2026-11-24",
-   "last_successful_contact": "2026-11-24"
+   "last_successful_check": "2026-11-25",
+   "last_successful_contact": "2026-11-25"
   },
   {
    "source": "banskabystrica-vzn",
@@ -53,8 +53,8 @@
    "source": "nitra-vzn",
    "name": "Nitra: register of generally binding regulations (VZN)",
    "state": "available",
-   "last_successful_check": "2026-11-24",
-   "last_successful_contact": "2026-11-24"
+   "last_successful_check": "2026-11-25",
+   "last_successful_contact": "2026-11-25"
   }
  ]
 }
