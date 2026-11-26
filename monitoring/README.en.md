@@ -6,23 +6,29 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Slovakia only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-25 15:11 UTC, Banská Bystrica: register of generally binding regulations (VZN): 17 addresses read; 0 added, 0 changed, 0 removed; the check failed; 152 not published, 0 of them with no reason. Flags: `publish-lag`.
+**Last check:** 2026-11-26 05:35 UTC, Nitra: register of generally binding regulations (VZN): 128 addresses read; 0 added, 0 changed, 0 removed; no change; 3 not published, 0 of them with no reason.
 
 ## Sources
 
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
 | [Slov-Lex: Collection of Laws (Zbierka zákonov)](https://www.slov-lex.sk/ezbierky/pravne-predpisy) | `zz/`, `zb/`, `constitution/ustava/`, `volebny-zakon/` | daily | 2026-11-23 16:36 UTC | the check failed | watched: Slov-Lex has no open-data feed, RSS or ELI list; this is the list behind its own search |
-| [Slov-Lex: Register of measures (Register opatrení)](https://www.slov-lex.sk/ezbierky/chronologicky-register-opatreni) | `ro/` | daily | 2026-11-25 05:29 UTC | changes found | watched |
-| [Bratislava: register of generally binding regulations (VZN)](https://bratislava.sk/vzn) | `local/bratislava/` | daily | 2026-11-25 05:31 UTC | changes found | watched |
-| [Žilina: register of generally binding regulations (VZN)](https://zilina.sk/mesto-zilina/sprava-mesta/legislativa/vseobecne-zavazne-nariadenia/) | `local/zilina/` | daily | 2026-11-25 05:34 UTC | changes found | watched |
+| [Slov-Lex: Register of measures (Register opatrení)](https://www.slov-lex.sk/ezbierky/chronologicky-register-opatreni) | `ro/` | daily | 2026-11-26 05:30 UTC | no change | watched |
+| [Bratislava: register of generally binding regulations (VZN)](https://bratislava.sk/vzn) | `local/bratislava/` | daily | 2026-11-26 05:30 UTC | no change | watched |
+| [Žilina: register of generally binding regulations (VZN)](https://zilina.sk/mesto-zilina/sprava-mesta/legislativa/vseobecne-zavazne-nariadenia/) | `local/zilina/` | daily | 2026-11-25 05:34 UTC | the check failed | watched |
 | [Banská Bystrica: register of generally binding regulations (VZN)](https://www.banskabystrica.sk/vzn/) | `local/banskabystrica/` | daily | 2026-11-23 17:18 UTC | the check failed | watched |
-| [Nitra: register of generally binding regulations (VZN)](https://nitra.sk/vzn/) | `local/nitra/` | daily | 2026-11-25 05:37 UTC | no change | watched: the list gives no validity days (the city puts them on each record's page): only changed and new records are seen |
+| [Nitra: register of generally binding regulations (VZN)](https://nitra.sk/vzn/) | `local/nitra/` | daily | 2026-11-26 05:35 UTC | no change | watched: the list gives no validity days (the city puts them on each record's page): only changed and new records are seen |
 
 ## The last 30 days
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-26 05:33](checks/2026-11.md#sk-nitra-vzn-20261126t053304z) | nitra-vzn | 128 | 0 | 0 | 0 | 3 (0) | no change | — |
+| [2026-11-26 05:32](checks/2026-11.md#sk-banskabystrica-vzn-20261126t053238z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | the check failed `publish-lag` | — |
+| [2026-11-26 05:30](checks/2026-11.md#sk-zilina-vzn-20261126t053055z) | zilina-vzn | 57 | 0 | 0 | 0 | 154 (0) | the check failed `publish-lag` | — |
+| [2026-11-26 05:30](checks/2026-11.md#sk-bratislava-vzn-20261126t053022z) | bratislava-vzn | 21 | 0 | 0 | 0 | 37 (0) | no change `publish-lag` | — |
+| [2026-11-26 05:27](checks/2026-11.md#sk-slov-lex-op-20261126t052751z) | slov-lex-op | 141 | 0 | 0 | 0 | 4 (0) | no change | — |
+| [2026-11-26 05:20](checks/2026-11.md#sk-slov-lex-zz-20261126t052047z) | slov-lex-zz | 387 | 0 | 0 | 0 | 99 (0) | the check failed | — |
 | [2026-11-25 15:11](checks/2026-11.md#sk-banskabystrica-vzn-20261125t151141z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | the check failed `publish-lag` | — |
 | [2026-11-25 15:04](checks/2026-11.md#sk-slov-lex-zz-20261125t150433z) | slov-lex-zz | 387 | 0 | 0 | 0 | 99 (0) | the check failed | — |
 | [2026-11-25 14:11](checks/2026-11.md#sk-banskabystrica-vzn-20261125t141146z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | the check failed `publish-lag` | — |

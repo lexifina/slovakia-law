@@ -14,24 +14,23 @@ Ako global-law meria, nakoľko je aktuálna každá krajina: [global-law FRESHNE
 
 ### Slov-Lex: Register opatrení · `slovakia/national/acts`
 
-- Oficiálny zdroj bol naposledy prečítaný a každý predpis uložený tu s ním porovnaný: **2026-11-25 05:29 UTC**.
+- Oficiálny zdroj bol naposledy prečítaný a každý predpis uložený tu s ním porovnaný: **2026-11-26 05:30 UTC**.
 - Predpisy uložené tu: 369; aktuálne podľa zdroja: 369; v zdroji zmenené od verzie uloženej tu: 0; už nie sú v zdroji: 0.
 - S prameňom porovnané pri tomto čítaní: 53 z 369 predpisov v repozitári; ostatné sa pri tomto čítaní neporovnávali (pozri poznámku kontroly).
 - Nezverejnené: 4 (krok zlyhal: 2, účinné neskôr: 2); bez dôvodu: 0.
 
 ### Bratislava: register všeobecne záväzných nariadení (VZN) · `slovakia/national/acts`
 
-- Oficiálny zdroj bol naposledy prečítaný a každý predpis uložený tu s ním porovnaný: **2026-11-25 05:31 UTC**.
-- Predpisy uložené tu: 325; aktuálne podľa zdroja: 323; v zdroji zmenené od verzie uloženej tu: 2; už nie sú v zdroji: 0.
+- Oficiálny zdroj bol naposledy prečítaný a každý predpis uložený tu s ním porovnaný: **2026-11-26 05:30 UTC**.
+- Predpisy uložené tu: 325; aktuálne podľa zdroja: 322; v zdroji zmenené od verzie uloženej tu: 3; už nie sú v zdroji: 0.
 - S prameňom porovnané pri tomto čítaní: 9 z 325 predpisov v repozitári; ostatné sa pri tomto čítaní neporovnávali (pozri poznámku kontroly).
-- Nezverejnené: 36 (v zdroji zmenené od verzie uloženej tu: 2, nové v zdroji, tu ešte nezverejnené: 32, účinné neskôr: 2); bez dôvodu: 0.
+- Nezverejnené: 37 (v zdroji zmenené od verzie uloženej tu: 3, nové v zdroji, tu ešte nezverejnené: 32, účinné neskôr: 2); bez dôvodu: 0.
 
 ### Žilina: register všeobecne záväzných nariadení (VZN) · `slovakia/national/acts`
 
 - Oficiálny zdroj bol naposledy prečítaný a každý predpis uložený tu s ním porovnaný: **2026-11-25 05:34 UTC**.
-- Predpisy uložené tu: 388; aktuálne podľa zdroja: 374; v zdroji zmenené od verzie uloženej tu: 14; už nie sú v zdroji: 0.
-- S prameňom porovnané pri tomto čítaní: 13 z 388 predpisov v repozitári; ostatné sa pri tomto čítaní neporovnávali (pozri poznámku kontroly).
-- Nezverejnené: 146 (v zdroji zmenené od verzie uloženej tu: 14, zdroj ešte nezverejnil jeho text: 1, nové v zdroji, tu ešte nezverejnené: 102, zadržané kontrolou: 29); bez dôvodu: 0.
+- Predpisy uložené tu: 388; aktuálne podľa zdroja: 366; v zdroji zmenené od verzie uloženej tu: 22; už nie sú v zdroji: 0.
+- Nezverejnené: 154 (v zdroji zmenené od verzie uloženej tu: 22, zdroj ešte nezverejnil jeho text: 1, nové v zdroji, tu ešte nezverejnené: 102, zadržané kontrolou: 29); bez dôvodu: 0.
 
 ### Banská Bystrica: register všeobecne záväzných nariadení (VZN) · `slovakia/national/acts`
 
@@ -41,7 +40,7 @@ Ako global-law meria, nakoľko je aktuálna každá krajina: [global-law FRESHNE
 
 ### Nitra: register všeobecne záväzných nariadení (VZN) · `slovakia/national/acts`
 
-- Oficiálny zdroj bol naposledy prečítaný a každý predpis uložený tu s ním porovnaný: **2026-11-25 05:37 UTC**.
+- Oficiálny zdroj bol naposledy prečítaný a každý predpis uložený tu s ním porovnaný: **2026-11-26 05:35 UTC**.
 - Predpisy uložené tu: 113; aktuálne podľa zdroja: 113; v zdroji zmenené od verzie uloženej tu: 0; už nie sú v zdroji: 0.
 - S prameňom porovnané pri tomto čítaní: 4 z 113 predpisov v repozitári; ostatné sa pri tomto čítaní neporovnávali (pozri poznámku kontroly).
 - Nezverejnené: 3 (zadržané kontrolou: 3); bez dôvodu: 0.
