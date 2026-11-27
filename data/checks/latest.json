@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-26T15:25:31Z",
+ "generated": "2026-11-27T05:35:58Z",
  "latest": {
   "banskabystrica-vzn|slovakia/national/acts": {
-   "attempt": 8,
+   "attempt": 1,
    "audit": null,
    "census": {
     "current": 82,
@@ -15,11 +15,11 @@
     "repo": 86,
     "source_in_scope": 234
    },
-   "check_id": "sk-banskabystrica-vzn-20261126T152513Z",
+   "check_id": "sk-banskabystrica-vzn-20261127T053326Z",
    "commits": null,
    "corpus": "slovakia/national/acts",
    "error": "UnicodeEncodeError: 'ascii' codec can't encode character '\\u010d' in position 17: ordinal not in range(128)",
-   "finished": "2026-11-26T15:25:29Z",
+   "finished": "2026-11-27T05:33:43Z",
    "flags": [
     {
      "detail": "148 records new or changed in the register over 7 days ago are not here yet",
@@ -44,7 +44,7 @@
    },
    "snapshot": "2026-11-11",
    "source": "banskabystrica-vzn",
-   "started": "2026-11-26T15:25:13Z",
+   "started": "2026-11-27T05:33:26Z",
    "unexplained": 0,
    "update": {},
    "verify": null
@@ -58,15 +58,15 @@
     "method": "the VZN's own page on the city's site (Source:) must link the document held here (its file name); the check reads the city's register service",
     "rows": [
      {
-      "id": "VZN 3/1996 (Bratislava)",
+      "id": "VZN 7/1995 (Bratislava)",
       "published": false,
-      "read": "https://bratislava.sk/vzn/3-1996",
+      "read": "https://bratislava.sk/vzn/7-1995",
       "verdict": "match_new"
      },
      {
-      "id": "VZN 6/1994 (Bratislava)",
+      "id": "VZN 12/1998 (Bratislava)",
       "published": false,
-      "read": "https://bratislava.sk/vzn/6-1994",
+      "read": "https://bratislava.sk/vzn/12-1998",
       "verdict": "match_new"
      }
     ],
@@ -85,11 +85,11 @@
     "repo": 325,
     "source_in_scope": 359
    },
-   "check_id": "sk-bratislava-vzn-20261126T053022Z",
+   "check_id": "sk-bratislava-vzn-20261127T053039Z",
    "commits": null,
    "corpus": "slovakia/national/acts",
    "error": null,
-   "finished": "2026-11-26T05:30:55Z",
+   "finished": "2026-11-27T05:31:11Z",
    "flags": [
     {
      "detail": "35 items new or changed at the source over 7 days ago are not here yet",
@@ -114,7 +114,7 @@
    },
    "snapshot": "2026-10-22",
    "source": "bratislava-vzn",
-   "started": "2026-11-26T05:30:22Z",
+   "started": "2026-11-27T05:30:39Z",
    "unexplained": 0,
    "update": {
     "document_bytes": 348674,
@@ -141,15 +141,15 @@
     "method": "the VZN's own page on the city's site (Source:) must link the document held here (its file name); the check reads the city's register service",
     "rows": [
      {
-      "id": "VZN 1/2005 (Nitra)",
+      "id": "VZN 1/2021 (Nitra)",
       "published": false,
-      "read": "https://nitra.sk/vzn/vzn-c-1-2005/",
+      "read": "https://nitra.sk/vzn/vzn-c-1-2021/",
       "verdict": "match_new"
      },
      {
-      "id": "VZN 1/2009 (Nitra)",
+      "id": "VZN 2/2022 (Nitra)",
       "published": false,
-      "read": "https://nitra.sk/vzn/vzn-c-1-2009/",
+      "read": "https://nitra.sk/vzn/vzn-c-2-2022/",
       "verdict": "match_new"
      }
     ],
@@ -168,11 +168,11 @@
     "repo": 113,
     "source_in_scope": 116
    },
-   "check_id": "sk-nitra-vzn-20261126T053304Z",
+   "check_id": "sk-nitra-vzn-20261127T053343Z",
    "commits": null,
    "corpus": "slovakia/national/acts",
    "error": null,
-   "finished": "2026-11-26T05:35:20Z",
+   "finished": "2026-11-27T05:35:56Z",
    "flags": [],
    "gap": 3,
    "note": "the register lists 124 records; not law here and not counted as gaps: 6 drafts (Návrh ...), 1 with no number; 1 records repeat a number already listed (the first is kept)",
@@ -192,7 +192,7 @@
    },
    "snapshot": "2026-11-25",
    "source": "nitra-vzn",
-   "started": "2026-11-26T05:33:04Z",
+   "started": "2026-11-27T05:33:43Z",
    "unexplained": 0,
    "update": {
     "document_bytes": 49103379,
@@ -219,37 +219,37 @@
     "method": "the version's PDF on Slov-Lex (the consolidated text as Slov-Lex prints it; the check and verify read its HTML): the share of the folder's letters and digits found in the PDF's text layer, 97% or more (and more than in the previous version's PDF for a changed item)",
     "rows": [
      {
-      "id": "2025/24",
+      "id": "2018/36",
       "published": false,
-      "read": "https://static.slov-lex.sk/pdf/SK/OP/2025/24/OP_2025_24_20260101.pdf",
+      "read": "https://static.slov-lex.sk/pdf/SK/OP/2018/36/OP_2018_36_20190101.pdf",
       "share": 1.0,
       "verdict": "match_new"
      },
      {
-      "id": "2024/15",
+      "id": "2022/19",
       "published": false,
-      "read": "https://static.slov-lex.sk/pdf/SK/OP/2024/15/OP_2024_15_20241101.pdf",
+      "read": "https://static.slov-lex.sk/pdf/SK/OP/2022/19/OP_2022_19_20230101.pdf",
+      "share": 0.9848,
+      "verdict": "match_new"
+     },
+     {
+      "id": "2024/17",
+      "published": false,
+      "read": "https://static.slov-lex.sk/pdf/SK/OP/2024/17/OP_2024_17_20250101.pdf",
+      "share": 0.9945,
+      "verdict": "match_new"
+     },
+     {
+      "id": "2018/21",
+      "published": false,
+      "read": "https://static.slov-lex.sk/pdf/SK/OP/2018/21/OP_2018_21_20180701.pdf",
       "share": 1.0,
       "verdict": "match_new"
      },
      {
-      "id": "2020/18",
+      "id": "2021/24",
       "published": false,
-      "read": "https://static.slov-lex.sk/pdf/SK/OP/2020/18/OP_2020_18_20220101.pdf",
-      "share": 1.0,
-      "verdict": "match_new"
-     },
-     {
-      "id": "2024/4",
-      "published": false,
-      "read": "https://static.slov-lex.sk/pdf/SK/OP/2024/4/OP_2024_4_20240315.pdf",
-      "share": 0.9878,
-      "verdict": "match_new"
-     },
-     {
-      "id": "2017/44",
-      "published": false,
-      "read": "https://static.slov-lex.sk/pdf/SK/OP/2017/44/OP_2017_44_20180101.pdf",
+      "read": "https://static.slov-lex.sk/pdf/SK/OP/2021/24/OP_2021_24_20211231.pdf",
       "share": 1.0,
       "verdict": "match_new"
      }
@@ -269,11 +269,11 @@
     "repo": 369,
     "source_in_scope": 373
    },
-   "check_id": "sk-slov-lex-op-20261126T052751Z",
+   "check_id": "sk-slov-lex-op-20261127T052806Z",
    "commits": null,
    "corpus": "slovakia/national/acts",
    "error": null,
-   "finished": "2026-11-26T05:30:22Z",
+   "finished": "2026-11-27T05:30:39Z",
    "flags": [],
    "gap": 4,
    "note": null,
@@ -293,7 +293,7 @@
    },
    "snapshot": null,
    "source": "slov-lex-op",
-   "started": "2026-11-26T05:27:51Z",
+   "started": "2026-11-27T05:28:06Z",
    "unexplained": 0,
    "update": {
     "failed": 2
@@ -314,26 +314,26 @@
    }
   },
   "slov-lex-zz|slovakia/national/acts": {
-   "attempt": 8,
+   "attempt": 1,
    "audit": null,
    "census": {
     "current": 25793,
     "gone": 0,
     "held": 25809,
-    "newest_at_source": "288/2026 Z. z.",
+    "newest_at_source": "295/2026 Z. z.",
     "newest_in_repo": "280/2026 Z. z.",
     "out_of_scope": 731,
     "pending": 16,
     "repo": 25809,
-    "source_in_scope": 25892
+    "source_in_scope": 25899
    },
-   "check_id": "sk-slov-lex-zz-20261126T151404Z",
+   "check_id": "sk-slov-lex-zz-20261127T052055Z",
    "commits": null,
    "corpus": "slovakia/national/acts",
    "error": "RuntimeError: stale HEAD on 4 file(s) this batch touched, e.g. ['zz/2019/478/clanok-1.md', 'zz/2019/478/clanok-2.md', 'zz/2019/478/uvod.md']: restate the in-force text after an older version (global-law check 11)",
-   "finished": "2026-11-26T15:24:07Z",
+   "finished": "2026-11-27T05:28:06Z",
    "flags": [],
-   "gap": 99,
+   "gap": 106,
    "note": "731 unnumbered items at Slov-Lex (368 Redakčné oznámenie, 181 Oznámenie, 90 Uznesenie, 68 Opatrenie, 11 (Ostatné), 5 Nález, 3 Rozkaz, 2 Rozhodnutie, 1 Štatút, 1 Postup, 1 Poriadok; numbered by part, e.g. c40-o4/1989 Zb.) are outside this repository's numbered layout (<year>/<number>/): not counted as gaps; 79 held acts the search list shows newer or ended are current by the act's own version list on Slov-Lex, which the builder reads (a version with the same text, or no end there)",
    "outcome": "failed",
    "published": {
@@ -345,13 +345,21 @@
    "runner": "lawwatch slovakia (c8711dc275)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [],
+    "added": [
+     "289/2026 Z. z.",
+     "290/2026 Z. z.",
+     "291/2026 Z. z.",
+     "292/2026 Z. z.",
+     "293/2026 Z. z.",
+     "294/2026 Z. z.",
+     "295/2026 Z. z."
+    ],
     "changed": [],
     "removed": []
    },
-   "snapshot": "2026-11-25",
+   "snapshot": "2026-11-27",
    "source": "slov-lex-zz",
-   "started": "2026-11-26T15:14:04Z",
+   "started": "2026-11-27T05:20:55Z",
    "unexplained": 0,
    "update": {
     "added": 18,
@@ -361,7 +369,7 @@
    "verify": null
   },
   "zilina-vzn|slovakia/national/acts": {
-   "attempt": 8,
+   "attempt": 1,
    "audit": null,
    "census": {
     "current": 366,
@@ -374,11 +382,11 @@
     "repo": 388,
     "source_in_scope": 520
    },
-   "check_id": "sk-zilina-vzn-20261126T152407Z",
+   "check_id": "sk-zilina-vzn-20261127T053111Z",
    "commits": null,
    "corpus": "slovakia/national/acts",
    "error": "UnicodeEncodeError: 'ascii' codec can't encode character '\\u010d' in position 36: ordinal not in range(128)",
-   "finished": "2026-11-26T15:25:12Z",
+   "finished": "2026-11-27T05:33:26Z",
    "flags": [
     {
      "detail": "124 records new or changed in the register over 7 days ago are not here yet",
@@ -403,7 +411,7 @@
    },
    "snapshot": "2026-10-01",
    "source": "zilina-vzn",
-   "started": "2026-11-26T15:24:07Z",
+   "started": "2026-11-27T05:31:11Z",
    "unexplained": 0,
    "update": {},
    "verify": null
