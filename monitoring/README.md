@@ -6,7 +6,7 @@
 
 Ako global-law monitoruje všetky krajiny: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Táto stránka robí to isté len pre Slovensko: každé čítanie oficiálneho zdroja, kedy prebehlo a čo z neho vyplynulo (pridané, zmenené a zrušené predpisy). Strojovo čitateľná podoba je v [data/checks/](../data/checks/) (JSON Lines, schéma `lexifina-check/1`), v `git log` ako commity `Kind: check` a po mesiacoch v [checks/](checks/).
 
-**Posledná kontrola:** 2026-11-27 05:35 UTC, Nitra: register všeobecne záväzných nariadení (VZN): prečítané adresy: 128; pridané 0, zmenené 0, zrušené 0; bez zmeny; nezverejnené 3, z toho bez dôvodu 0.
+**Posledná kontrola:** 2026-11-27 15:15 UTC, Banská Bystrica: register všeobecne záväzných nariadení (VZN): prečítané adresy: 17; pridané 0, zmenené 0, zrušené 0; kontrola zlyhala; nezverejnené 152, z toho bez dôvodu 0. Príznaky: `publish-lag`.
 
 ## Zdroje
 
@@ -23,6 +23,30 @@ Ako global-law monitoruje všetky krajiny: [global-law monitoring/](https://gith
 
 | Začiatok (UTC) | Zdroj | Prečítané | Pridané | Zmenené | Zrušené | Nezverejnené (bez dôvodu) | Výsledok | Commity |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-27 15:14](checks/2026-11.md#sk-banskabystrica-vzn-20261127t151431z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | kontrola zlyhala `publish-lag` | — |
+| [2026-11-27 15:13](checks/2026-11.md#sk-zilina-vzn-20261127t151319z) | zilina-vzn | 57 | 0 | 0 | 0 | 154 (0) | kontrola zlyhala `publish-lag` | — |
+| [2026-11-27 15:04](checks/2026-11.md#sk-slov-lex-zz-20261127t150444z) | slov-lex-zz | 387 | 0 | 0 | 0 | 106 (0) | kontrola zlyhala | — |
+| [2026-11-27 14:13](checks/2026-11.md#sk-banskabystrica-vzn-20261127t141319z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | kontrola zlyhala `publish-lag` | — |
+| [2026-11-27 14:12](checks/2026-11.md#sk-zilina-vzn-20261127t141210z) | zilina-vzn | 57 | 0 | 0 | 0 | 154 (0) | kontrola zlyhala `publish-lag` | — |
+| [2026-11-27 14:04](checks/2026-11.md#sk-slov-lex-zz-20261127t140438z) | slov-lex-zz | 387 | 0 | 0 | 0 | 106 (0) | kontrola zlyhala | — |
+| [2026-11-27 13:13](checks/2026-11.md#sk-banskabystrica-vzn-20261127t131312z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | kontrola zlyhala `publish-lag` | — |
+| [2026-11-27 13:12](checks/2026-11.md#sk-zilina-vzn-20261127t131207z) | zilina-vzn | 57 | 0 | 0 | 0 | 154 (0) | kontrola zlyhala `publish-lag` | — |
+| [2026-11-27 13:04](checks/2026-11.md#sk-slov-lex-zz-20261127t130453z) | slov-lex-zz | 387 | 0 | 0 | 0 | 106 (0) | kontrola zlyhala | — |
+| [2026-11-27 12:12](checks/2026-11.md#sk-banskabystrica-vzn-20261127t121245z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | kontrola zlyhala `publish-lag` | — |
+| [2026-11-27 12:11](checks/2026-11.md#sk-zilina-vzn-20261127t121141z) | zilina-vzn | 57 | 0 | 0 | 0 | 154 (0) | kontrola zlyhala `publish-lag` | — |
+| [2026-11-27 12:04](checks/2026-11.md#sk-slov-lex-zz-20261127t120436z) | slov-lex-zz | 387 | 0 | 0 | 0 | 106 (0) | kontrola zlyhala | — |
+| [2026-11-27 11:12](checks/2026-11.md#sk-banskabystrica-vzn-20261127t111245z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | kontrola zlyhala `publish-lag` | — |
+| [2026-11-27 11:11](checks/2026-11.md#sk-zilina-vzn-20261127t111140z) | zilina-vzn | 57 | 0 | 0 | 0 | 154 (0) | kontrola zlyhala `publish-lag` | — |
+| [2026-11-27 11:04](checks/2026-11.md#sk-slov-lex-zz-20261127t110435z) | slov-lex-zz | 387 | 0 | 0 | 0 | 106 (0) | kontrola zlyhala | — |
+| [2026-11-27 10:12](checks/2026-11.md#sk-banskabystrica-vzn-20261127t101255z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | kontrola zlyhala `publish-lag` | — |
+| [2026-11-27 10:11](checks/2026-11.md#sk-zilina-vzn-20261127t101149z) | zilina-vzn | 57 | 0 | 0 | 0 | 154 (0) | kontrola zlyhala `publish-lag` | — |
+| [2026-11-27 10:04](checks/2026-11.md#sk-slov-lex-zz-20261127t100435z) | slov-lex-zz | 387 | 0 | 1 | 0 | 106 (0) | kontrola zlyhala | — |
+| [2026-11-27 09:12](checks/2026-11.md#sk-banskabystrica-vzn-20261127t091237z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | kontrola zlyhala `publish-lag` | — |
+| [2026-11-27 09:11](checks/2026-11.md#sk-zilina-vzn-20261127t091130z) | zilina-vzn | 57 | 0 | 0 | 0 | 154 (0) | kontrola zlyhala `publish-lag` | — |
+| [2026-11-27 09:04](checks/2026-11.md#sk-slov-lex-zz-20261127t090435z) | slov-lex-zz | 387 | 0 | 4 | 0 | 106 (0) | kontrola zlyhala | — |
+| [2026-11-27 08:13](checks/2026-11.md#sk-banskabystrica-vzn-20261127t081302z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | kontrola zlyhala `publish-lag` | — |
+| [2026-11-27 08:11](checks/2026-11.md#sk-zilina-vzn-20261127t081150z) | zilina-vzn | 57 | 0 | 0 | 0 | 154 (0) | kontrola zlyhala `publish-lag` | — |
+| [2026-11-27 08:04](checks/2026-11.md#sk-slov-lex-zz-20261127t080438z) | slov-lex-zz | 387 | 0 | 0 | 0 | 106 (0) | kontrola zlyhala | — |
 | [2026-11-27 05:33](checks/2026-11.md#sk-nitra-vzn-20261127t053343z) | nitra-vzn | 128 | 0 | 0 | 0 | 3 (0) | bez zmeny | — |
 | [2026-11-27 05:33](checks/2026-11.md#sk-banskabystrica-vzn-20261127t053326z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | kontrola zlyhala `publish-lag` | — |
 | [2026-11-27 05:31](checks/2026-11.md#sk-zilina-vzn-20261127t053111z) | zilina-vzn | 57 | 0 | 0 | 0 | 154 (0) | kontrola zlyhala `publish-lag` | — |
