@@ -14,14 +14,14 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Slov-Lex: Register of measures (Register opatrení) · `slovakia/national/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-27 05:30 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-28 05:29 UTC**.
 - Acts held here: 369; current at the source: 369; changed at the source since the version held here: 0; no longer at the source: 0.
 - Compared with the source in this read: 53 of the 369 acts held here; the others were not compared in this read (see the check's note).
 - Not published: 4 (a step failed: 2, in force later: 2); with no reason: 0.
 
 ### Bratislava: register of generally binding regulations (VZN) · `slovakia/national/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-27 05:31 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-28 05:30 UTC**.
 - Acts held here: 325; current at the source: 322; changed at the source since the version held here: 3; no longer at the source: 0.
 - Compared with the source in this read: 9 of the 325 acts held here; the others were not compared in this read (see the check's note).
 - Not published: 37 (changed at the source since the version held here: 3, new at the source, not published here yet: 32, in force later: 2); with no reason: 0.
@@ -40,7 +40,7 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Nitra: register of generally binding regulations (VZN) · `slovakia/national/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-27 05:35 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-28 05:34 UTC**.
 - Acts held here: 113; current at the source: 113; changed at the source since the version held here: 0; no longer at the source: 0.
 - Compared with the source in this read: 4 of the 113 acts held here; the others were not compared in this read (see the check's note).
 - Not published: 3 (held by a check: 3); with no reason: 0.

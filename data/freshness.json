@@ -1,6 +1,6 @@
 {
  "schema": "lexifina-trail-freshness/1",
- "as_of": "2026-11-27",
+ "as_of": "2026-11-28",
  "note": "How current this repository is, from its check trail (data/checks/): the day each official source was last read with every act held here checked against it. tools/checktrail.py reads the trail.",
  "checked_against_official_source": "2026-11-23",
  "totals": {
@@ -25,15 +25,15 @@
    "source": "slov-lex-op",
    "name": "Slov-Lex: Register of measures (Register opatrení)",
    "state": "available",
-   "last_successful_check": "2026-11-27",
-   "last_successful_contact": "2026-11-27"
+   "last_successful_check": "2026-11-28",
+   "last_successful_contact": "2026-11-28"
   },
   {
    "source": "bratislava-vzn",
    "name": "Bratislava: register of generally binding regulations (VZN)",
    "state": "available",
-   "last_successful_check": "2026-11-27",
-   "last_successful_contact": "2026-11-27"
+   "last_successful_check": "2026-11-28",
+   "last_successful_contact": "2026-11-28"
   },
   {
    "source": "zilina-vzn",
@@ -53,8 +53,8 @@
    "source": "nitra-vzn",
    "name": "Nitra: register of generally binding regulations (VZN)",
    "state": "available",
-   "last_successful_check": "2026-11-27",
-   "last_successful_contact": "2026-11-27"
+   "last_successful_check": "2026-11-28",
+   "last_successful_contact": "2026-11-28"
   }
  ]
 }
