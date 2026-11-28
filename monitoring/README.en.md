@@ -6,7 +6,7 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Slovakia only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-28 05:34 UTC, Nitra: register of generally binding regulations (VZN): 128 addresses read; 0 added, 0 changed, 0 removed; no change; 3 not published, 0 of them with no reason.
+**Last check:** 2026-11-28 15:14 UTC, Banská Bystrica: register of generally binding regulations (VZN): 17 addresses read; 0 added, 0 changed, 0 removed; the check failed; 152 not published, 0 of them with no reason. Flags: `publish-lag`.
 
 ## Sources
 
@@ -23,6 +23,24 @@ How global-law monitors every country: [global-law monitoring/](https://github.c
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-28 15:14](checks/2026-11.md#sk-banskabystrica-vzn-20261128t151432z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | the check failed `publish-lag` | — |
+| [2026-11-28 15:12](checks/2026-11.md#sk-zilina-vzn-20261128t151256z) | zilina-vzn | 57 | 0 | 0 | 0 | 154 (0) | the check failed `publish-lag` | — |
+| [2026-11-28 15:05](checks/2026-11.md#sk-slov-lex-zz-20261128t150514z) | slov-lex-zz | 387 | 0 | 0 | 0 | 106 (0) | the check failed | — |
+| [2026-11-28 14:14](checks/2026-11.md#sk-banskabystrica-vzn-20261128t141451z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | the check failed `publish-lag` | — |
+| [2026-11-28 14:13](checks/2026-11.md#sk-zilina-vzn-20261128t141331z) | zilina-vzn | 57 | 0 | 0 | 0 | 154 (0) | the check failed `publish-lag` | — |
+| [2026-11-28 14:05](checks/2026-11.md#sk-slov-lex-zz-20261128t140506z) | slov-lex-zz | 387 | 0 | 0 | 0 | 106 (0) | the check failed | — |
+| [2026-11-28 10:12](checks/2026-11.md#sk-banskabystrica-vzn-20261128t101235z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | the check failed `publish-lag` | — |
+| [2026-11-28 10:11](checks/2026-11.md#sk-zilina-vzn-20261128t101128z) | zilina-vzn | 57 | 0 | 0 | 0 | 154 (0) | the check failed `publish-lag` | — |
+| [2026-11-28 10:04](checks/2026-11.md#sk-slov-lex-zz-20261128t100435z) | slov-lex-zz | 387 | 0 | 0 | 0 | 106 (0) | the check failed | — |
+| [2026-11-28 09:12](checks/2026-11.md#sk-banskabystrica-vzn-20261128t091234z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | the check failed `publish-lag` | — |
+| [2026-11-28 09:11](checks/2026-11.md#sk-zilina-vzn-20261128t091128z) | zilina-vzn | 57 | 0 | 0 | 0 | 154 (0) | the check failed `publish-lag` | — |
+| [2026-11-28 09:04](checks/2026-11.md#sk-slov-lex-zz-20261128t090434z) | slov-lex-zz | 387 | 0 | 0 | 0 | 106 (0) | the check failed | — |
+| [2026-11-28 08:12](checks/2026-11.md#sk-banskabystrica-vzn-20261128t081231z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | the check failed `publish-lag` | — |
+| [2026-11-28 08:11](checks/2026-11.md#sk-zilina-vzn-20261128t081126z) | zilina-vzn | 57 | 0 | 0 | 0 | 154 (0) | the check failed `publish-lag` | — |
+| [2026-11-28 08:04](checks/2026-11.md#sk-slov-lex-zz-20261128t080434z) | slov-lex-zz | 387 | 0 | 0 | 0 | 106 (0) | the check failed | — |
+| [2026-11-28 07:05](checks/2026-11.md#sk-banskabystrica-vzn-20261128t070517z) | banskabystrica-vzn | 0 | 0 | 0 | 0 | 0 (0) | the check failed | — |
+| [2026-11-28 07:04](checks/2026-11.md#sk-zilina-vzn-20261128t070456z) | zilina-vzn | 0 | 0 | 0 | 0 | 0 (0) | the check failed | — |
+| [2026-11-28 07:04](checks/2026-11.md#sk-slov-lex-zz-20261128t070434z) | slov-lex-zz | 0 | 0 | 0 | 0 | 0 (0) | the check failed | — |
 | [2026-11-28 05:31](checks/2026-11.md#sk-nitra-vzn-20261128t053153z) | nitra-vzn | 128 | 0 | 0 | 0 | 3 (0) | no change | — |
 | [2026-11-28 05:31](checks/2026-11.md#sk-banskabystrica-vzn-20261128t053138z) | banskabystrica-vzn | 17 | 0 | 0 | 0 | 152 (0) | the check failed `publish-lag` | — |
 | [2026-11-28 05:30](checks/2026-11.md#sk-zilina-vzn-20261128t053032z) | zilina-vzn | 57 | 0 | 0 | 0 | 154 (0) | the check failed `publish-lag` | — |

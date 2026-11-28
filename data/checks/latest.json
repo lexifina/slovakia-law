@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-28T05:34:07Z",
+ "generated": "2026-11-28T15:15:03Z",
  "latest": {
   "banskabystrica-vzn|slovakia/national/acts": {
-   "attempt": 1,
+   "attempt": 7,
    "audit": null,
    "census": {
     "current": 82,
@@ -15,11 +15,11 @@
     "repo": 86,
     "source_in_scope": 234
    },
-   "check_id": "sk-banskabystrica-vzn-20261128T053138Z",
+   "check_id": "sk-banskabystrica-vzn-20261128T151432Z",
    "commits": null,
    "corpus": "slovakia/national/acts",
    "error": "UnicodeEncodeError: 'ascii' codec can't encode character '\\u010d' in position 17: ordinal not in range(128)",
-   "finished": "2026-11-28T05:31:53Z",
+   "finished": "2026-11-28T15:14:57Z",
    "flags": [
     {
      "detail": "148 records new or changed in the register over 7 days ago are not here yet",
@@ -44,7 +44,7 @@
    },
    "snapshot": "2026-11-11",
    "source": "banskabystrica-vzn",
-   "started": "2026-11-28T05:31:38Z",
+   "started": "2026-11-28T15:14:32Z",
    "unexplained": 0,
    "update": {},
    "verify": null
@@ -314,7 +314,7 @@
    }
   },
   "slov-lex-zz|slovakia/national/acts": {
-   "attempt": 1,
+   "attempt": 7,
    "audit": null,
    "census": {
     "current": 25793,
@@ -327,11 +327,11 @@
     "repo": 25809,
     "source_in_scope": 25899
    },
-   "check_id": "sk-slov-lex-zz-20261128T052041Z",
+   "check_id": "sk-slov-lex-zz-20261128T150514Z",
    "commits": null,
    "corpus": "slovakia/national/acts",
    "error": "RuntimeError: stale HEAD on 4 file(s) this batch touched, e.g. ['zz/2019/478/clanok-1.md', 'zz/2019/478/clanok-2.md', 'zz/2019/478/uvod.md']: restate the in-force text after an older version (global-law check 11)",
-   "finished": "2026-11-28T05:27:35Z",
+   "finished": "2026-11-28T15:12:55Z",
    "flags": [],
    "gap": 106,
    "note": "731 unnumbered items at Slov-Lex (368 Redakčné oznámenie, 181 Oznámenie, 90 Uznesenie, 68 Opatrenie, 11 (Ostatné), 5 Nález, 3 Rozkaz, 2 Rozhodnutie, 1 Štatút, 1 Postup, 1 Poriadok; numbered by part, e.g. c40-o4/1989 Zb.) are outside this repository's numbered layout (<year>/<number>/): not counted as gaps; 79 held acts the search list shows newer or ended are current by the act's own version list on Slov-Lex, which the builder reads (a version with the same text, or no end there)",
@@ -351,7 +351,7 @@
    },
    "snapshot": "2026-11-27",
    "source": "slov-lex-zz",
-   "started": "2026-11-28T05:20:41Z",
+   "started": "2026-11-28T15:05:14Z",
    "unexplained": 0,
    "update": {
     "added": 18,
@@ -361,7 +361,7 @@
    "verify": null
   },
   "zilina-vzn|slovakia/national/acts": {
-   "attempt": 1,
+   "attempt": 7,
    "audit": null,
    "census": {
     "current": 366,
@@ -374,11 +374,11 @@
     "repo": 388,
     "source_in_scope": 520
    },
-   "check_id": "sk-zilina-vzn-20261128T053032Z",
+   "check_id": "sk-zilina-vzn-20261128T151256Z",
    "commits": null,
    "corpus": "slovakia/national/acts",
    "error": "UnicodeEncodeError: 'ascii' codec can't encode character '\\u010d' in position 36: ordinal not in range(128)",
-   "finished": "2026-11-28T05:31:38Z",
+   "finished": "2026-11-28T15:14:31Z",
    "flags": [
     {
      "detail": "124 records new or changed in the register over 7 days ago are not here yet",
@@ -403,7 +403,7 @@
    },
    "snapshot": "2026-11-27",
    "source": "zilina-vzn",
-   "started": "2026-11-28T05:30:32Z",
+   "started": "2026-11-28T15:12:56Z",
    "unexplained": 0,
    "update": {},
    "verify": null
